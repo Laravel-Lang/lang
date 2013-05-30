@@ -47,9 +47,9 @@ return array(
 	"integer"        => ":attribute rakam olmalıdır.",
 	"ip"             => ":attribute geçerli bir IP adresi olmalıdır.",
 	"max"             => array(
-		"numeric" => ":attribute şundan küçük olmalıdır :max.",
-		"file"    => ":attribute şundan küçük olmalıdır :max kilobyte.",
-		"string"  => ":attribute şundan küçük olmalıdır :max karakter.",
+		"numeric" => ":attribute en fazla :max olmalıdır.",
+		"file"    => ":attribute en fazla :max kilobyte olmalıdır.",
+		"string"  => ":attribute en fazla :max karakter olmalıdır.",
 	),
 	"mimes"          => ":attribute dosya biçimi :values olmalıdır.",
 	"min"            => array(

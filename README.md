@@ -47,12 +47,17 @@ How can I fix a file ?
 * add a pull request in the branch *develop* of this repository, with the name of the language
 
 
+How can I change the language by default in my app ?
+---
+
+In the file *app/config/app.php*, change the value of *language* by the short name of your language.
+
 Sources
 -------
 
 * Chinese (zh-CN) : https://github.com/laravel/laravel/pull/2035
 * Dutch (nl) : https://github.com/laravel/laravel/pull/2039
-* French (fr) : [Laravel-France](https://github.com/laravel-france/laravel-lang-fr)
+* French (fr) : [Laravel-France](https://github.com/laravel-france)
 * German (de) : [Hettiger](https://github.com/hettiger)
 * Polish (pl) : https://github.com/laravel/laravel/pull/2031
 * Russian (ru) : https://github.com/laravel/laravel/pull/2036

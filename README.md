@@ -23,8 +23,10 @@ For the moment, we have:
 * Chinese (zh-CN)
 * Dutch (nl)
 * French (fr)
+* German (de)
 * Polish (pl)
 * Russian (ru)
+* Spanish (es)
 * Turkish (tr)
 
 
@@ -50,7 +52,9 @@ Sources
 
 * Chinese (zh-CN) : https://github.com/laravel/laravel/pull/2035
 * Dutch (nl) : https://github.com/laravel/laravel/pull/2039
-* French (fr) : https://github.com/laravel-france/laravel-lang-fr
+* French (fr) : [Laravel-France](https://github.com/laravel-france/laravel-lang-fr)
+* German (de) : [Hettiger](https://github.com/hettiger)
 * Polish (pl) : https://github.com/laravel/laravel/pull/2031
 * Russian (ru) : https://github.com/laravel/laravel/pull/2036
-* Turkish (tr) : https://github.com/laravel/laravel/pull/2032
+* Spanish (es) : [Nikoskip](https://github.com/nikoskip)
+* Turkish (tr) : [Sineld](https://github.com/sineld)

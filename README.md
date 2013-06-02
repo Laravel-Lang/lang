@@ -20,11 +20,14 @@ What languages can I find in this project ?
 
 For the moment, we have:
 
+* Bulgarian (bg)
 * Chinese (zh-CN)
 * Dutch (nl)
 * French (fr)
+* German (de)
 * Polish (pl)
 * Russian (ru)
+* Spanish (es)
 * Turkish (tr)
 
 
@@ -45,12 +48,20 @@ How can I fix a file ?
 * add a pull request in the branch *develop* of this repository, with the name of the language
 
 
+How can I change the language by default in my app ?
+---
+
+In the file *app/config/app.php*, change the value of *language* by the short name of your language.
+
 Sources
 -------
 
+* Bulgarian (bg) : [RoumenDamianoff](https://github.com/RoumenDamianoff)
 * Chinese (zh-CN) : https://github.com/laravel/laravel/pull/2035
 * Dutch (nl) : https://github.com/laravel/laravel/pull/2039
-* French (fr) : https://github.com/laravel-france/laravel-lang-fr
+* French (fr) : [Laravel-France](https://github.com/laravel-france)
+* German (de) : [Hettiger](https://github.com/hettiger)
 * Polish (pl) : https://github.com/laravel/laravel/pull/2031
 * Russian (ru) : https://github.com/laravel/laravel/pull/2036
-* Turkish (tr) : https://github.com/laravel/laravel/pull/2032
+* Spanish (es) : [Nikoskip](https://github.com/nikoskip)
+* Turkish (tr) : [Sineld](https://github.com/sineld)

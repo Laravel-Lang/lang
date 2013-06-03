@@ -35,7 +35,7 @@ return array(
 	"exists"           => "De geselecteerde :attribute is ongeldig.",
 	"image"            => ":attribute moet een afbeelding zijn.",
 	"in"               => "De geselecteerde :attribute is ongeldig.",
-	"integer"          => ":attribute moet een integer zijn.",
+	"integer"          => ":attribute moet een cijfer zijn.",
 	"ip"               => ":attribute moet een geldig IP address zijn.",
 	"max"              => array(
 		"numeric" => ":attribute mag niet groter dan :max zijn.",
@@ -53,8 +53,8 @@ return array(
 	"regex"            => ":attribute zijn formaat is ongeldig.",
 	"required"         => ":attribute veld is vereist.",
 	"required_if"      => ":attribute veld is vereist als :other :value is.",
-	"required_with"    => ":attribute veld is vereist wanneer :values gepresenteerd word.",
-	"required_without" => ":attribute veld is vereist als :values niet gepresenteerd word.",
+	"required_with"    => ":attribute veld is vereist wanneer :values gepresenteerd wordt.",
+	"required_without" => ":attribute veld is vereist als :values niet gepresenteerd wordt.",
 	"same"             => ":attribute en :other moeten overeen komen.",
 	"size"             => array(
 		"numeric" => ":attribute moet :size zijn.",

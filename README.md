@@ -20,6 +20,7 @@ What languages can I find in this project ?
 
 For the moment, we have:
 
+* Arabic (ar)
 * Bulgarian (bg)
 * Chinese (zh-CN)
 * Dutch (nl)
@@ -56,6 +57,7 @@ In the file *app/config/app.php*, change the value of *language* by the short na
 Sources
 -------
 
+* Arabic (ar) : [AAlakkad](https://github.com/AAlakkad)
 * Bulgarian (bg) : [RoumenDamianoff](https://github.com/RoumenDamianoff)
 * Chinese (zh-CN) : https://github.com/laravel/laravel/pull/2035
 * Dutch (nl) : https://github.com/laravel/laravel/pull/2039

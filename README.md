@@ -26,6 +26,7 @@ For the moment, we have:
 * Dutch (nl)
 * French (fr)
 * German (de)
+* Hebrew (he) *partial*
 * Polish (pl)
 * Russian (ru)
 * Spanish (es)
@@ -63,6 +64,7 @@ Sources
 * Dutch (nl) : https://github.com/laravel/laravel/pull/2039
 * French (fr) : [Laravel-France](https://github.com/laravel-france)
 * German (de) : [Hettiger](https://github.com/hettiger)
+* Hebrew (he) [LighTo273]((https://github.com/LighTo273)
 * Polish (pl) : https://github.com/laravel/laravel/pull/2031
 * Russian (ru) : https://github.com/laravel/laravel/pull/2036
 * Spanish (es) : [Nikoskip](https://github.com/nikoskip)

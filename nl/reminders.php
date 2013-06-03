@@ -17,6 +17,6 @@ return array(
 
 	"user"     => "We kunnen geen gebruiker vinden met dat e-mail adres.",
 
-	"token"    => "Deze token is niet geldig.",
+	"token"    => "Dit token is niet geldig.",
 
 );

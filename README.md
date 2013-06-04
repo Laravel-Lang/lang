@@ -60,7 +60,10 @@ In the file *app/config/app.php*, change the value of *language* by the short na
 Changelog
 ---
 
-* 04 May 2013 : Add traditional chinese (HK) by [efilm](https://github.com/efilm)
+* 04 June 2013
+  * Add traditional chinese (HK) by [efilm](https://github.com/efilm)
+  * Add attributes (ar) by [AAlakkad](https://github.com/AAlakkad)
+  * Review (nl) by [jeroengerits](https://github.com/jeroengerits)
 
 
 Sources

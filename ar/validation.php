@@ -88,6 +88,29 @@ return array(
 	|
 	*/
 
-	'attributes' => array(),
+	'attributes' => array(
+	"name" => "الاسم",
+	"email" => "الإيميل",
+	"first_name" => "الاسم",
+	"last_name" => "الكنية",
+	"password" => "كلمة السر",
+	"age" => "العمر",
+	"sex" => "الجنس",
+	"gender" => "الجنس",
+	"day" => "اليوم",
+	"month" => "الشهر",
+	"year" => "السنة",
+	"hour" => "ساعة",
+	"minute" => "دقيقة",
+	"second" => "ثانية",
+	"title" => "العنوان",
+	"content" => "المحتوى",
+	"description" => "الوصف",
+	"excerpt" => "المختصر",
+	"date" => "التاريخ",
+	"time" => "الوقت",
+	"available" => "متاح",
+	"size" => "الحجم"
+	),
 
 );

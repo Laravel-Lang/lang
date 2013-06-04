@@ -90,6 +90,7 @@ return array(
 
 	'attributes' => array(
 		"name" => "الاسم",
+		"username" => "اسم المستخدم",
 		"email" => "الإيميل",
 		"first_name" => "الاسم",
 		"last_name" => "الكنية",

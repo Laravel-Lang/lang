@@ -13,7 +13,7 @@ return array(
 	|
 	*/
 
-	"password" => "Paswoorden moeten 6 tekens lang zijn en overeenkomen met de herhaling.",
+	"password" => "Wachtwoorden moeten 6 tekens lang zijn en overeenkomen met de herhaling.",
 
 	"user"     => "We kunnen geen gebruiker vinden met dat e-mail adres.",
 

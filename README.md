@@ -56,6 +56,13 @@ How can I change the language by default in my app ?
 
 In the file *app/config/app.php*, change the value of *language* by the short name of your language.
 
+
+Changelog
+---
+
+* 04 May 2013 : Add traditional chinese (HK) by [efilm](https://github.com/efilm)
+
+
 Sources
 -------
 

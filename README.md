@@ -30,6 +30,7 @@ For the moment, we have:
 * Polish (pl)
 * Russian (ru)
 * Spanish (es)
+* Traditional Chinese (Hong Kong) (zh-HK)
 * Turkish (tr)
 
 
@@ -68,4 +69,5 @@ Sources
 * Polish (pl) : https://github.com/laravel/laravel/pull/2031
 * Russian (ru) : https://github.com/laravel/laravel/pull/2036
 * Spanish (es) : [Nikoskip](https://github.com/nikoskip)
+* Traditional Chinese (Hong Kong) (zh-HK) : [efilm](https://github.com/efilm)
 * Turkish (tr) : [Sineld](https://github.com/sineld)

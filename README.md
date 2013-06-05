@@ -3,6 +3,8 @@ Laravel4-lang
 
 In this repository, you can find the lang files for the framework PHP, [Laravel 4](http://www.laravel.com).
 
+Find more informations on http://caouecs.github.io/Laravel4-lang/
+
 
 How add languages in my app ?
 ---
@@ -71,13 +73,13 @@ Sources
 
 * Arabic (ar) : [AAlakkad](https://github.com/AAlakkad)
 * Bulgarian (bg) : [RoumenDamianoff](https://github.com/RoumenDamianoff)
-* Chinese (zh-CN) : https://github.com/laravel/laravel/pull/2035
-* Dutch (nl) : https://github.com/laravel/laravel/pull/2039
+* Chinese (zh-CN) : [phoenixg](https://github.com/phoenixg)
+* Dutch (nl) : [byordereurope](https://github.com/byordereurope)
 * French (fr) : [Laravel-France](https://github.com/laravel-france)
 * German (de) : [Hettiger](https://github.com/hettiger)
 * Hebrew (he) [LighTo273]((https://github.com/LighTo273)
-* Polish (pl) : https://github.com/laravel/laravel/pull/2031
-* Russian (ru) : https://github.com/laravel/laravel/pull/2036
+* Polish (pl) : [anojszewski](https://github.com/anojszewski)
+* Russian (ru) : [EvgenyKovalev](https://github.com/EvgenyKovalev)
 * Spanish (es) : [Nikoskip](https://github.com/nikoskip)
 * Traditional Chinese (Hong Kong) (zh-HK) : [efilm](https://github.com/efilm)
 * Turkish (tr) : [Sineld](https://github.com/sineld)

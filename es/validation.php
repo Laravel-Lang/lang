@@ -53,8 +53,8 @@ return array(
 	"regex"            => "El formato de :attribute es inválido.",
 	"required"         => "El campo :attribute es obligatorio.",
 	"required_if"      => "El campo :attribute es obligatorio cuando :other es :value.",
-	"required_with"    => "El :attribute es obligatorio cuando :values está presente.",
-	"required_without" => "El :attribute es obligatorio cuando :values no está presente.",
+	"required_with"    => "El campo :attribute es obligatorio cuando :values está presente.",
+	"required_without" => "El campo :attribute es obligatorio cuando :values no está presente.",
 	"same"             => ":attribute y :other deben coincidir.",
 	"size"             => array(
 		"numeric" => "El tamaño de :attribute debe ser :size.",

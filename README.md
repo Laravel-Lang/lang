@@ -28,6 +28,7 @@ For the moment, we have:
 * Dutch (nl)
 * French (fr)
 * German (de)
+* Greek (el)
 * Hebrew (he) *partial*
 * Polish (pl)
 * Russian (ru)
@@ -62,6 +63,10 @@ In the file *app/config/app.php*, change the value of *language* by the short na
 Changelog
 ---
 
+* 07 June 2013
+  * Add Greek (el) by [igaster](https://github.com/igaster)
+  * Update (es) by [Nikoskip](https://github.com/nikoskip)
+
 * 04 June 2013
   * Add traditional chinese (HK) by [efilm](https://github.com/efilm)
   * Add attributes (ar) by [AAlakkad](https://github.com/AAlakkad)
@@ -77,6 +82,7 @@ Sources
 * Dutch (nl) : [byordereurope](https://github.com/byordereurope)
 * French (fr) : [Laravel-France](https://github.com/laravel-france)
 * German (de) : [Hettiger](https://github.com/hettiger)
+* Greek (el) : [igaster](https://github.com/igaster)
 * Hebrew (he) [LighTo273]((https://github.com/LighTo273)
 * Polish (pl) : [anojszewski](https://github.com/anojszewski)
 * Russian (ru) : [EvgenyKovalev](https://github.com/EvgenyKovalev)

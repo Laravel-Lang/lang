@@ -30,10 +30,8 @@
 
     <!-- We highly recommend you use SASS and write your custom styles in sass/_custom.scss.
     However, there is a blank style.css in the css directory should you prefer -->
-    <link rel="stylesheet" href="/css/gumby.css">
-    <link rel="stylesheet" href="/css/style.css">
-
-    <script src="/js/libs/modernizr-2.0.6.min.js"></script>
+    <link rel="stylesheet" href="{{ site.url }}/css/gumby.css">
+    <link rel="stylesheet" href="{{ site.url }}/css/style.css">
 </head>
 
 <body>
@@ -41,12 +39,12 @@
     <header>
         <div class="row">
             <div class="five columns">
-                <a href="/"><h1>Laravel4-lang</h1></a>
+                <a href="{{ site.url }}"><h1>Laravel4-lang</h1></a>
             </div>
             <div class="seven columns">
                 <ul>
-                    <li><a href="/">Overview</a></li>
-                    <li><a href="/docs/index.html">Documentation</a></li>
+                    <li><a href="{{ site.url }}">Overview</a></li>
+                    <li><a href="{{ site.url }}/docs/index.html">Documentation</a></li>
                     <li><a href="https://github.com/caouecs/Laravel4-lang">View on GitHub</a></li>
                 </ul>
             </div>

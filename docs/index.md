@@ -1,5 +1,6 @@
 ---
 layout: default
+root: ".."
 title: Documentation
 ---
 

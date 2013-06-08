@@ -1,0 +1,67 @@
+@import url(//fonts.googleapis.com/css?family=Handlee:400,300,600,700);
+
+body {
+    background: #fff;
+}
+
+h2 {
+    font-size: 1.9em;
+    padding-top: 20px;
+}
+
+a {
+    color: #aaa;
+}
+
+a.active, a:hover {
+    color: #ff5949;
+}
+
+header {
+    padding: 10px 0 20px 0;
+    background: #fff;
+}
+
+header h1 {
+    font-size: 2.6em;
+}
+
+header ul {
+    display: table;
+    float: right;
+}
+
+header li {
+    display: table-cell;
+    padding-right: 30px;
+}
+
+header li a {
+    padding: 5px;
+}
+
+#announce {
+    background: #ff5949;
+    color: #fff;
+    padding: 5px 0;
+}
+
+main {
+    display: block;
+    background: #fff;
+    padding: 20px 0;
+}
+
+main li {
+    margin-left: 25px;
+    list-style: square outside;
+}
+
+footer {
+    border-top: 1px solid #cecece;
+    padding: 5px;
+}
+
+footer a {
+    color: #000;
+}

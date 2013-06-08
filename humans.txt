@@ -1,0 +1,15 @@
+/* humanstxt.org */
+
+
+/* TEAM */
+    Developer: caouecs
+    Site: https://github.com/caouecs
+    Twitter: @caouecs
+    Location: Toulouse, France
+
+/* SITE */
+    Last update: 2013/06/08
+    Standards: HTML5, CSS3
+    Components: jQuery, Gumby2, Jekyll
+    Software: Sublime Text 2, Git
+    Language: English

@@ -1,1 +1,1 @@
-07 June 2013 : Add Greek (el) language and review of Spanish (es) files
+09 June 2013 : Add Danish (dk) language  • We look for someone to finish hebrew version

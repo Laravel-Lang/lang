@@ -41,13 +41,13 @@
             <div class="five columns">
                 <a href="{{ site.url }}"><h1>Laravel4-lang</h1></a>
             </div>
-            <div class="seven columns">
+            <nav class="seven columns">
                 <ul>
                     <li><a href="{{ site.url }}">Overview</a></li>
                     <li><a href="{{ site.url }}docs/index.html">Documentation</a></li>
                     <li><a href="https://github.com/caouecs/Laravel4-lang">View on GitHub</a></li>
                 </ul>
-            </div>
+            </nav>
         </div>
     </header>
 
@@ -57,10 +57,8 @@
         </div>
     </div>
 
-    <main>
-        <div class="row">
-            {{ content }}
-        </div>
+    <main class="row">
+        {{ content }}
     </main>
 
     {% include footer.html %}

@@ -4,6 +4,10 @@ body {
     background: #fff;
 }
 
+.text-right {
+    text-align: right;
+}
+
 h2 {
     font-size: 1.9em;
     padding-top: 20px;
@@ -60,6 +64,7 @@ main li {
 footer {
     border-top: 1px solid #cecece;
     padding: 5px;
+    font-size: 0.8em;
 }
 
 footer a {

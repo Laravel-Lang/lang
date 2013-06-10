@@ -82,3 +82,9 @@ footer {
 footer a {
     color: #000;
 }
+
+@media only screen and (max-width: 767px) {
+    .hidden-mobile {
+        display: none !important;
+    }
+}

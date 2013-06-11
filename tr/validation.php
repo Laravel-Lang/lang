@@ -53,9 +53,9 @@ return array(
 	),
 	"mimes"          => ":attribute dosya biçimi :values olmalıdır.",
 	"min"            => array(
-		"numeric" => ":attribute değeri :max değerinden büyük olmalıdır.",
-		"file"    => ":attribute değeri :max kilobayt değerinden büyük olmalıdır.",
-		"string"  => ":attribute değeri :max karakter değerinden büyük olmalıdır.",
+		"numeric" => ":attribute değeri :min değerinden büyük olmalıdır.",
+		"file"    => ":attribute değeri :min kilobayt değerinden büyük olmalıdır.",
+		"string"  => ":attribute değeri :min karakter değerinden büyük olmalıdır.",
 	),
 	"not_in"         => "Seçili :attribute geçersiz.",
 	"numeric"        => ":attribute rakam olmalıdır.",

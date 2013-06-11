@@ -63,3 +63,4 @@ Traditional Chinese (Hong Kong) (zh-HK)
 Turkish (tr)
 
 * [Sineld](https://github.com/sineld)
+* [pellempus](https://github.com/pellempus)

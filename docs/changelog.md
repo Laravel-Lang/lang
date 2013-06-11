@@ -6,6 +6,10 @@ title: Changelog
 Changelog
 ---
 
+11 June 2013
+
+* Review (tr) by [pellempus](https://github.com/pellempus)
+
 09 June 2013
 
 * Add Danish (dk) by [AndreasHeiberg](https://github.com/AndreasHeiberg)

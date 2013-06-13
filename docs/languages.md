@@ -13,7 +13,7 @@ Languages available
 | Bulgarian | bg | OK
 | Chinese | zh-CN | OK
 | Danish | dk | OK
-| Dutch | nl | OK
+| Dutch | nl | *Need review*
 | French | fr | OK
 | German | de | OK
 | Greek | el | OK

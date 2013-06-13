@@ -1,1 +1,1 @@
-11 June 2013 : Review Turkish (tr) language  • We look for someone to finish hebrew version
+13 June 2013 : Review Danish (dk) language  • We look for someone to finish hebrew version, and to review new version for Dutch

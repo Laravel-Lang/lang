@@ -21,6 +21,7 @@ Chinese (zh-CN)
 Danish (dk)
 
 * [AndreasHeiberg](https://github.com/AndreasHeiberg)
+* [hauthorn](https://github.com/hauthorn)
 
 Dutch (nl)
 
@@ -30,6 +31,7 @@ Dutch (nl)
 
 French (fr)
 
+* [caouecs](https://github.com/caouecs)
 * [Laravel-France](https://github.com/laravel-france)
 
 German (de)

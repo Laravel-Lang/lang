@@ -6,6 +6,10 @@ title: Changelog
 Changelog
 ---
 
+13 June 2013
+
+* Review Danish (dk) by [hauthorn](https://github.com/hauthorn)
+
 11 June 2013
 
 * Review (tr) by [pellempus](https://github.com/pellempus)

@@ -15,8 +15,8 @@ return array(
 
 	"password" => "Passwords skal minimum være 6 tegn og matche sikkerhedstjekket.",
 
-	"user"     => "Vi kan ikke finde en bruger med den email.",
+	"user"     => "Vi kan ikke finde en bruger med den email-adresse.",
 
-	"token"    => "Password reset koden er ikke valid.",
+	"token"    => "Password-nulstillingskoden er ugyldig.",
 
 );

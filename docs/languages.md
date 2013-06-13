@@ -3,7 +3,7 @@ layout: doc
 title: Languages
 ---
 
-Languages available
+Available languages
 ---
 
 

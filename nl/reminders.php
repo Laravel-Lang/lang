@@ -13,10 +13,10 @@ return array(
 	|
 	*/
 
-	"password" => "Wachtwoorden moeten 6 tekens lang zijn en overeenkomen met de herhaling.",
+	"password" => "Wachtwoord moet minimaal zes tekens lang zijn en de wachtwoorden moeten overeenkomen.",
 
-	"user"     => "We kunnen geen gebruiker vinden met dat e-mail adres.",
+	"user"     => "Gebruiker onbekend met dat e-mailadres.",
 
-	"token"    => "Dit token is niet geldig.",
+	"token"    => "Deze wachtwoord reset token is niet geldig.",
 
 );

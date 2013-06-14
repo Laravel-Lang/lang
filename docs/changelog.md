@@ -6,6 +6,11 @@ title: Changelog
 Changelog
 ---
 
+14 June 2013
+
+* Add Hungarian (hu) by [terdelyi](https://github.com/terdelyi)
+* Add Portuguese (pt) by [miguelbgouveia](https://github.com/miguelbgouveia)
+
 13 June 2013
 
 * Review Danish (dk) by [hauthorn](https://github.com/hauthorn)

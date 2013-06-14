@@ -1,1 +1,1 @@
-13 June 2013 : Review Danish (dk) language  • We look for someone to finish hebrew version, and to review new version for Dutch
+14 June 2013 : Add Hungarian (hu) and Portuguese (pt) languages • We look for someone to review new version for Dutch

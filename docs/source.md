@@ -44,11 +44,19 @@ Greek (el)
 
 Hebrew (he)
 
-* [LighTo273]((https://github.com/LighTo273)
+* [LighTo273](https://github.com/LighTo273)
+
+Hungarian (hu)
+
+* [terdelyi](https://github.com/terdelyi)
 
 Polish (pl)
 
 * [anojszewski](https://github.com/anojszewski)
+
+Portuguese (pt)
+
+* [miguelbgouveia](https://github.com/miguelbgouveia)
 
 Russian (ru)
 

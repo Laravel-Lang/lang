@@ -7,9 +7,9 @@ Available languages
 ---
 
 
-| Language | Short name | Statut |
-|----------|------------|--------|
-| Arabic | ar | OK
+| Language | Short name | Statut | Validation Attributes |
+|----------|------------|--------|-----------------------|
+| Arabic | ar | OK | OK
 | Bulgarian | bg | OK
 | Chinese | zh-CN | OK
 | Danish | dk | OK
@@ -18,7 +18,9 @@ Available languages
 | German | de | OK
 | Greek | el | OK
 | Hebrew | he | *partial*
+| Hungarian | hu | OK
 | Polish | pl | OK
+| Portuguese | pt | OK
 | Russian | ru | OK
 | Spanish | es | OK
 | Traditional Chinese (Hong Kong) | zh-HK | OK

@@ -13,7 +13,7 @@ Manual installation
 Installation by Composer
 ---
 
-* Add *"caouecs/laravel4-lang": "dev-master"* in your composer.conf in "require"
+* Add *"caouecs/laravel4-lang": "dev-master"* in your composer.conf in "require" or run *composer require caouecs/laravel4-lang*
 * Do "composer update"
 * Files of languages are in "vendor/caouecs/laravel4-lang" directory
 * Copy the folders of languages that you want, in *app/lang* folder of your application Laravel

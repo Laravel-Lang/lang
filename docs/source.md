@@ -28,6 +28,7 @@ Dutch (nl)
 * [byordereurope](https://github.com/byordereurope)
 * [jeroengerits](https://github.com/jeroengerits)
 * [Thomasdezeeuw](https://github.com/Thomasdezeeuw)
+* [jaspur](https://github.com/jaspur)
 
 French (fr)
 

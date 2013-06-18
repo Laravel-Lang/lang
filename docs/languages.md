@@ -8,20 +8,20 @@ Available languages
 
 
 | Language | Short name | Statut | Validation Attributes |
-|----------|------------|--------|-----------------------|
+|----------|:----------:|:------:|:---------------------:|
 | Arabic | ar | OK | OK
-| Bulgarian | bg | OK
-| Chinese | zh-CN | OK
-| Danish | dk | OK
-| Dutch | nl | *Need review*
-| French | fr | OK
-| German | de | OK
-| Greek | el | OK
-| Hebrew | he | *partial*
-| Hungarian | hu | OK
-| Polish | pl | OK
-| Portuguese | pt | OK
-| Russian | ru | OK
-| Spanish | es | OK
-| Traditional Chinese (Hong Kong) | zh-HK | OK
-| Turkish | tr | OK
+| Bulgarian | bg | OK | *wait*
+| Chinese | zh-CN | OK | *wait*
+| Danish | dk | OK | *wait*
+| Dutch | nl | OK | *wait*
+| French | fr | OK | *wait*
+| German | de | OK | *wait*
+| Greek | el | OK | *wait*
+| Hebrew | he | *partial* | *wait*
+| Hungarian | hu | OK | *wait*
+| Polish | pl | OK | *wait*
+| Portuguese | pt | OK | *wait*
+| Russian | ru | OK | *wait*
+| Spanish | es | OK | *wait*
+| Traditional Chinese (Hong Kong) | zh-HK | OK | *wait*
+| Turkish | tr | OK | *wait*

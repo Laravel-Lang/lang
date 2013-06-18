@@ -68,6 +68,16 @@ main {
     padding: 20px 0;
 }
 
+main h3 {
+    border-bottom: 1px dashed #cecece;
+    margin-top: 35px;
+    margin-bottom: 10px;
+}
+
+main h3:first-child {
+    margin-top: 10px;
+}
+
 main li {
     margin-left: 25px;
     list-style: square outside;
@@ -83,8 +93,15 @@ footer a {
     color: #000;
 }
 
+.visible-mobile {
+    display: none !important;
+}
+
 @media only screen and (max-width: 767px) {
     .hidden-mobile {
         display: none !important;
+    }
+    .visible-mobile {
+        display: block !important;
     }
 }

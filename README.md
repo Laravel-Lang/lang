@@ -24,6 +24,8 @@ How can I add a language in this project ?
 * copy this three files of the english version with your translate
 * add a pull request in the branch *develop* of this repository, with the name of the language
 
+You can take example on [old files of Laravel 3](https://github.com/laravel/laravel/tree/3.0/application/language)
+
 
 How can I fix a file ?
 ---

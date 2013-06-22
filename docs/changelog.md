@@ -6,6 +6,10 @@ title: Changelog
 Changelog
 ---
 
+22 June 2013
+
+* Review (nl) by [Thomasdezeeuw](https://github.com/Thomasdezeeuw)
+
 17 June 2013
 
 * Review (nl) by [jaspur](https://github.com/jaspur)

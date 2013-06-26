@@ -14,7 +14,7 @@ return array(
 	*/
 
 	"accepted"         => "יש לקבל את :attribute.",
-	"active_url"       => ":attribute לא URL תקני."
+	"active_url"       => ":attribute לא URL תקני.",
 	"after"            => ":attribute חייב להיות תאריך אחרי :date.",
 	"alpha"            => ":attribute רשאי להכיל אותיות בלבד.",
 	"alpha_dash"       => ":attribute רשאי להכיל אותיות, מספרים ומקפים בלבד.",
@@ -28,7 +28,7 @@ return array(
 	"confirmed"        => "The :attribute confirmation does not match.",
 	"date"             => ":attribute הוא לא תאריך תקני.",
 	"date_format"      => ":attribute לא תואם את הפורמט :format.",
-	"different"        => ":attribute צריך להיות שונה מ:attribute."
+	"different"        => ":attribute צריך להיות שונה מ:attribute.",
 	"digits"           => "The :attribute must be :digits digits.",
 	"digits_between"   => "The :attribute must be between :min and :max digits.",
 	"email"            => "The :attribute format is invalid.",

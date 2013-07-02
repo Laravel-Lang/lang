@@ -18,7 +18,7 @@ Chinese (zh-CN)
 
 * [phoenixg](https://github.com/phoenixg)
 
-Danish (dk)
+Danish (da)
 
 * [AndreasHeiberg](https://github.com/AndreasHeiberg)
 * [hauthorn](https://github.com/hauthorn)

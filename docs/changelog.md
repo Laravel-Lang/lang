@@ -6,6 +6,10 @@ title: Changelog
 Changelog
 ---
 
+02 July 2013
+
+* ISO 639-1 for Danish (dk->da) by [caouecs](https://github.com/caouecs)
+
 22 June 2013
 
 * Review (nl) by [Thomasdezeeuw](https://github.com/Thomasdezeeuw)

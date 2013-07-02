@@ -12,7 +12,7 @@ Available languages
 | Arabic | ar | OK | OK
 | Bulgarian | bg | OK | *wait*
 | Chinese | zh-CN | OK | *wait*
-| Danish | dk | OK | *wait*
+| Danish | da | OK | *wait*
 | Dutch | nl | OK | *wait*
 | French | fr | OK | *wait*
 | German | de | OK | *wait*
@@ -25,3 +25,15 @@ Available languages
 | Spanish | es | OK | *wait*
 | Traditional Chinese (Hong Kong) | zh-HK | OK | *wait*
 | Turkish | tr | OK | *wait*
+
+In `from_laravel3 branch
+---
+
+* Albanian (sq)
+* Finnish (fi)
+* Indonesian (id)
+* Italian (it)
+* Japanese (ja)
+* Romanian (ro)
+* Serbian (sr)
+* Swedish (sv)

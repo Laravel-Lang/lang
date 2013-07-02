@@ -1,7 +1,7 @@
 {
     "name": "caouecs/laravel4-lang",
     "description": "Languages for Laravel4",
-    "keywords": ["laravel", "languages"],
+    "keywords": ["laravel", "languages", "lpm", "lang"],
     "license": "MIT",
     "authors": [
         {

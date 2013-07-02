@@ -26,7 +26,7 @@ Available languages
 | Traditional Chinese (Hong Kong) | zh-HK | OK | *wait*
 | Turkish | tr | OK | *wait*
 
-In `from_laravel3 branch
+In `from_laravel3` branch
 ---
 
 * Albanian (sq)

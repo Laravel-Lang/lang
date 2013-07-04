@@ -6,6 +6,10 @@ title: Changelog
 Sources
 ---
 
+Albanian (sq)
+
+* [Flakerimi](https://github.com/Flakerimi)
+
 Arabic (ar)
 
 * [AAlakkad](https://github.com/AAlakkad)
@@ -30,6 +34,10 @@ Dutch (nl)
 * [Thomasdezeeuw](https://github.com/Thomasdezeeuw)
 * [jaspur](https://github.com/jaspur)
 
+Finnish (fi)
+
+* [gkunno](https://github.com/gkunno)
+
 French (fr)
 
 * [caouecs](https://github.com/caouecs)
@@ -51,6 +59,20 @@ Hungarian (hu)
 
 * [terdelyi](https://github.com/terdelyi)
 
+Indonesian (id)
+
+* [williamn](https://github.com/williamn)
+* [apit](https://github.com/apit)
+* [deerawan](https://github.com/deerawan)
+
+Italian (it)
+
+* [longilineo](https://github.com/longilineo)
+
+Japanese (ja)
+
+* [HiroKws](https://github.com/HiroKws)
+
 Polish (pl)
 
 * [anojszewski](https://github.com/anojszewski)
@@ -59,13 +81,29 @@ Portuguese (pt)
 
 * [miguelbgouveia](https://github.com/miguelbgouveia)
 
+Romanian (ro)
+
+* [Flavy](https://github.com/Flavy)
+
 Russian (ru)
 
 * [EvgenyKovalev](https://github.com/EvgenyKovalev)
 
+Serbian (sr)
+
+* [dejangeci](https://github.com/dejangeci)
+
 Spanish (es)
 
 * [Nikoskip](https://github.com/nikoskip)
+
+Swedish (sv)
+
+* [vincentklaiber](https://github.com/vincentklaiber)
+
+Thai (th)
+
+* [teepluss](https://github.com/teepluss)
 
 Traditional Chinese (Hong Kong) (zh-HK)
 

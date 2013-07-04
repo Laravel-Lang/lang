@@ -6,6 +6,11 @@ title: Changelog
 Changelog
 ---
 
+04 July 2013
+
+* Add Thai (th) by [teepluss](https://github.com/teepluss)
+* Add many languages files from Laravel3 - need review
+
 02 July 2013
 
 * ISO 639-1 for Danish (dk->da) by [caouecs](https://github.com/caouecs)

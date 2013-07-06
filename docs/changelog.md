@@ -6,6 +6,10 @@ title: Changelog
 Changelog
 ---
 
+06 July 2013
+
+* Indentation
+
 04 July 2013
 
 * Add Thai (th) by [teepluss](https://github.com/teepluss)

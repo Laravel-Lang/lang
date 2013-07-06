@@ -88,6 +88,35 @@ return array(
     |
     */
 
-    'attributes' => array(),
+    'attributes' => array(
+        "name" => "Nom",
+        "username" => "Pseudo",
+        "email" => "E-mail",
+        "first_name" => "Prénom",
+        "last_name" => "Nom",
+        "password" => "Mot de passe",
+        "city" => "Ville",
+        "country" => "Pays",
+        "address" => "Adresse",
+        "phone" => "Téléphone",
+        "mobile" => "Portable",
+        "age" => "Age",
+        "sex" => "Sexe",
+        "gender" => "Genre",
+        "day" => "Jour",
+        "month" => "Mois",
+        "year" => "Année",
+        "hour" => "Heure",
+        "minute" => "Minute",
+        "second" => "Seconde",
+        "title" => "Titre",
+        "content" => "Contenu",
+        "description" => "Description",
+        "excerpt" => "Extrait",
+        "date" => "Date",
+        "time" => "Heure",
+        "available" => "Disponible",
+        "size" => "Taille"
+    ),
 
 );

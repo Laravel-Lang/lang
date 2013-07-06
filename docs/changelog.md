@@ -8,6 +8,7 @@ Changelog
 
 06 July 2013
 
+* Add validation.attributes (fr) by [caouecs](https://github.com/caouecs)
 * Indentation
 
 04 July 2013

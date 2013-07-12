@@ -6,6 +6,10 @@ title: Changelog
 Changelog
 ---
 
+12 July 2013
+
+* Review (pt) by [miguelbgouveia](https://github.com/miguelbgouveia)
+
 06 July 2013
 
 * Add validation.attributes (fr) by [caouecs](https://github.com/caouecs)

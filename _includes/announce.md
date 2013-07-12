@@ -1,1 +1,1 @@
-04 July 2013 : Add thai and a lot of languages from Laravel3
+12 July 2013 : Review portuguese validation file

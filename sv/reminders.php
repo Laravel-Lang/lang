@@ -13,10 +13,10 @@ return array(
     |
     */
 
-    "password" => "L&ouml;senord m&aring;ste vara minst sex tecken och matcha varandra.",
+    "password" => "Lösenord måste vara minst sex tecken och matcha varandra.",
 
-    "user"     => "Vi kan inte hitta en anv&auml;ndare med den e-postadressen.",
+    "user"     => "Vi kan inte hitta en användare med den e-postadressen.",
 
-    "token"    => "Koden f&ouml;r l&ouml;snords&aring;terst&auml;llning &auml;r ej giltig.",
+    "token"    => "Koden för lösnordsåterställning är ej giltig.",
 
 );

@@ -100,6 +100,7 @@ Spanish (es)
 Swedish (sv)
 
 * [vincentklaiber](https://github.com/vincentklaiber)
+* [Jonas Söderberg](https://github.com/imevul)
 
 Thai (th)
 

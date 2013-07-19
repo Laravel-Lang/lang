@@ -1,1 +1,1 @@
-12 July 2013 : Review portuguese validation file
+19 July 2013 : Update Swedish (sv)

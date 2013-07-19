@@ -29,7 +29,7 @@ Available languages
 | Russian | ru | OK | *wait*
 | Serbian | sr | *partial* | *wait*
 | Spanish | es | OK | *wait*
-| Swedish | sv | *partial* | *wait*
+| Swedish | sv | OK | *wait*
 | Thai | th | OK | *wait*
 | Traditional Chinese (Hong Kong) | zh-HK | OK | *wait*
 | Turkish | tr | OK | *wait*

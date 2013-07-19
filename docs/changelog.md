@@ -6,6 +6,10 @@ title: Changelog
 Changelog
 ---
 
+19 July 2013
+
+* Update Swedish (sv) by [Jonas Söderberg](https://github.com/imevul)
+
 12 July 2013
 
 * Review (pt) by [miguelbgouveia](https://github.com/miguelbgouveia)

@@ -49,7 +49,7 @@ return array(
     ),
     "not_in"           => "Det valda :attribute &auml;r ogiltigt.",
     "numeric"          => ":attribute m&aring;ste vara ett nummer.",
-    "regex"            => "Formatet för :attribute &auml;r ogiltigt.",
+    "regex"            => "Formatet f&ouml;r :attribute &auml;r ogiltigt.",
     "required"         => ":attribute f&auml;ltet &auml;r obligatoriskt.",
     "required_if"      => "F&auml;ltet :attribute &auml;r obligatoriskt d&aring; :other &auml;r :value.",
     "required_with"    => "F&auml;ltet :attribute &auml;r obligatoriskt d&aring; :values &auml;r ifyllt.",

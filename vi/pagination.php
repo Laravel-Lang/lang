@@ -1,8 +1,14 @@
-<?php 
+<?php
+
+/**
+ * Vietnamese Language for Laravel 4
+ * Translate by anhsk.ohbo@gmail.com
+ *
+ */
 
 return array(
 
-  /*
+       /*
 	|--------------------------------------------------------------------------
 	| Pagination Language Lines
 	|--------------------------------------------------------------------------
@@ -12,10 +18,11 @@ return array(
 	| you want to customize your views to better match your application.
 	|
 	*/
-				// laquo; Previous
+	
+        // 'previous' => 'laquo; Previous'
 	'previous' => '&laquo; Trang sau',
 
-				// Next &raquo;
+        // 'next'     => 'Next &raquo;',
 	'next'     => 'Trang trước &raquo;',
 
 );

@@ -56,28 +56,28 @@ return array(
 	"confirmed"        => "The :attribute confirmation does not match.",
 	
 	// "date"             => "The :attribute is not a valid date.",
-	"date"             => "The :attribute is not a valid date.",
+	"date"             => "Trường :attribute không phải là định dạng ngày-tháng.",
 	
 	// "date_format"      => "The :attribute does not match the format :format.",
-	"date_format"      => "The :attribute does not match the format :format.",
+	"date_format"      => "Trường :attribute không giống với định dạng :format.",
 	
 	// "different"        => "The :attribute and :other must be different.",
-	"different"        => "The :attribute and :other must be different.",
+	"different"        => "Trường :attribute và :other phải khác nhau.",
 	
 	// "digits"           => "The :attribute must be :digits digits.",
-	"digits"           => "The :attribute must be :digits digits.",
+	"digits"           => "Trường :attribute must be :digits digits.",
 	
 	// "digits_between"   => "The :attribute must be between :min and :max digits.",
 	"digits_between"   => "The :attribute must be between :min and :max digits.",
 	
 	// "email"            => "The :attribute format is invalid.",
-	"email"            => "The :attribute format is invalid.",
+	"email"            => "Trường :attribute không giống với định dạng 1 email.",
 	
 	// "exists"           => "The selected :attribute is invalid.",
 	"exists"           => "The selected :attribute is invalid.",
 	
 	// "image"            => "The :attribute must be an image.",
-	"image"            => "The :attribute must be an image.",
+	"image"            => "Trường :attribute phải là hình ảnh.",
 	
 	// "in"               => "The selected :attribute is invalid.",
 	"in"               => "The selected :attribute is invalid.",
@@ -120,13 +120,13 @@ return array(
 	"not_in"           => "The selected :attribute is invalid.",
 	
 	// "numeric"          => "The :attribute must be a number.",
-	"numeric"          => "The :attribute must be a number.",
+	"numeric"          => "Trường :attribute phải là một số.",
 	
 	// "regex"            => "The :attribute format is invalid.",
-	"regex"            => "The :attribute format is invalid.",
+	"regex"            => "Định dạng trường :attribute không hợp lệ.",
 	
 	// "required"         => "The :attribute field is required.",
-	"required"         => "Trường :attribute field is required.",
+	"required"         => "Trường :attribute phải đuợc nhập.",
 	
 	// "required_if"      => "The :attribute field is required when :other is :value.",
 	"required_if"      => "The :attribute field is required when :other is :value.",
@@ -138,25 +138,25 @@ return array(
 	"required_without" => "The :attribute field is required when :values is not present.",
 	
 	// "same"             => "The :attribute and :other must match.",
-	"same"             => "The :attribute and :other must match.",
+	"same"             => "Trường :attribute và :other phải giống nhau.",
 	
 	"size"             => array(
 		
 		// "numeric" => "The :attribute must be :size.",
-		"numeric" => "The :attribute must be :size.",
+		"numeric" => "Trường :attribute must be :size.",
 		
 		// "file"    => "The :attribute must be :size kilobytes.",
 		"file"    => "The :attribute must be :size kilobytes.",
 		
 		// "string"  => "The :attribute must be :size characters.",
-		"string"  => "The :attribute must be :size characters.",
+		"string"  => "Trường :attribute phải có :size ký tự.",
 	),
 	
 	// "unique"           => "The :attribute has already been taken.",
-	"unique"           => "The :attribute has already been taken.",
+	"unique"           => "Trường :attribute has already been taken.",
 	
 	// "url"              => "The :attribute format is invalid.",
-	"url"              => "The :attribute format is invalid.",
+	"url"              => "Định dạng trường :attribute không hợp lệ.",
 
 	/*
 	|--------------------------------------------------------------------------

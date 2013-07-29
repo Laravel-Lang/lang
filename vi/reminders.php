@@ -20,12 +20,12 @@ return array(
 	*/
 
 	// "password" => "Passwords must be six characters and match the confirmation.",
-	"password" => "Passwords must be six characters and match the confirmation.",
+	"password" => "Mật khẩu phải gồm 6 ký tự và khớp với phần xác nhận.",
 
 	// "user"     => "We can't find a user with that e-mail address.",	
-	"user"     => "We can't find a user with that e-mail address.",
+	"user"     => "Không tìm thấy user với địa chỉ email này.",
 
 	// "token"    => "This password reset token is invalid.",
-	"token"    => "This password reset token is invalid.",
+	"token"    => "Mã reset mật khẩu không hợp lệ.",
 
 );

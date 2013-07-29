@@ -129,13 +129,13 @@ return array(
 	"required"         => "Trường :attribute không đuợc bỏ trống.",
 	
 	// "required_if"      => "The :attribute field is required when :other is :value.",
-	"required_if"      => "The :attribute field is required when :other is :value.",
+	"required_if"      => "Trường :attribute không đuợc bỏ trống khi :other là :value.",
 	
 	// "required_with"    => "The :attribute field is required when :values is present.",
-	"required_with"    => "The :attribute field is required when :values is present.",
+	"required_with"    => "Trường :attribute không đuợc bỏ trống khi :values có giá trị.",
 	
 	// "required_without" => "The :attribute field is required when :values is not present.",
-	"required_without" => "The :attribute field is required when :values is not present.",
+	"required_without" => "Trường :attribute không đuợc bỏ trống khi :values không có giá trị.",
 	
 	// "same"             => "The :attribute and :other must match.",
 	"same"             => "Trường :attribute và :other phải giống nhau.",

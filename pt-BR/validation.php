@@ -14,7 +14,7 @@ return array(
     */
 
     "accepted"         => "O campo :attribute deve ser aceito.",
-    "active_url"       => "O campo :attribute não contém uma URL válida.",
+    "active_url"       => "O campo :attribute não contém um URL válido.",
     "after"            => "O campo :attribute deverá conter uma data posterior a :date.",
     "alpha"            => "O campo :attribute deverá conter apenas letras.",
     "alpha_dash"       => "O campo :attribute deverá conter apenas letras, números e traços.",
@@ -51,10 +51,10 @@ return array(
     "not_in"           => "O campo :attribute contém um valor inválido.",
     "numeric"          => "O campo :attribute deverá conter um valor numérico.",
     "regex"            => "O formato do valor para o campo :attribute é inválido.",
-    "required"         => "É obrigatório a indicação de um valor para o campo :attribute.",
-    "required_if"      => "É obrigatório a indicação de um valor para o campo :attribute quando o valor do campo :other é igual a :value.",
-    "required_with"    => "É obrigatório a indicação de um valor para o campo :attribute quando :values está presente.",    
-    "required_without" => "É obrigatório a indicação de um valor para o campo :attribute quanto :values não está presente.",
+    "required"         => "É obrigatória a indicação de um valor para o campo :attribute.",
+    "required_if"      => "É obrigatória a indicação de um valor para o campo :attribute quando o valor do campo :other é igual a :value.",
+    "required_with"    => "É obrigatória a indicação de um valor para o campo :attribute quando :values está presente.",    
+    "required_without" => "É obrigatória a indicação de um valor para o campo :attribute quanto :values não está presente.",
     "same"             => "Os campos :attribute e :other deverão conter valores iguais.",
     "size"             => array(
         "numeric" => "O campo :attribute deverá conter o valor :size.",
@@ -62,7 +62,7 @@ return array(
         "string"  => "O campo :attribute deverá conter :size carateres.",
     ),
     "unique"           => "O valor indicado para o campo :attribute já se encontra registado.",
-    "url"              => "O formato da URL indicada para o campo :attribute é inválido.",
+    "url"              => "O formato do URL indicado para o campo :attribute é inválido.",
 
     /*
     |--------------------------------------------------------------------------

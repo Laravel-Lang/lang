@@ -1,10 +1,13 @@
 <?php
 
-/**
- * Vietnamese Language for Laravel 4
- * Translate by anhsk.ohbo@gmail.com
- *
- */
+/*
+|--------------------------------------------------------------------------
+| Vietnamese Language for Laravel 4
+|--------------------------------------------------------------------------
+|
+| Translate by anhsk.ohbo@gmail.com
+|
+*/
 
 return array(
 

@@ -18,11 +18,9 @@ return array(
 	| you want to customize your views to better match your application.
 	|
 	*/
-	
-        // 'previous' => 'laquo; Previous'
-	'previous' => '&laquo; Trang sau',
 
-        // 'next'     => 'Next &raquo;',
+	'previous' => '&laquo; Trang sau',
+	
 	'next'     => 'Trang trước &raquo;',
 
 );

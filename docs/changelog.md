@@ -9,6 +9,8 @@ Changelog
 30 July 2013
 
 * Add Brazilian (pt-BR) by [c0h1b4](https://github.com/c0h1b4)
+* Update Brazilian (pt-BR) by [miguelbgouveia](https://github.com/miguelbgouveia)
+* Add Vietnamese (vi) by [anhsaker](https://github.com/anhsaker)
 
 19 July 2013
 

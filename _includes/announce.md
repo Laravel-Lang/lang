@@ -1,1 +1,1 @@
-30 July 2013 : Add Brazilian version (pt-BR)
+30 July 2013 : Add Brazilian version (pt-BR) and Vietnamese (vi)

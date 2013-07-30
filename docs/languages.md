@@ -34,3 +34,4 @@ Available languages
 | Thai | th | OK | *wait*
 | Traditional Chinese (Hong Kong) | zh-HK | OK | *wait*
 | Turkish | tr | OK | *wait*
+| Vietnamese | vi | OK | *wait*

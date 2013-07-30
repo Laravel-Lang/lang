@@ -8,19 +8,20 @@ Sources
 
 Albanian (sq)
 
-* [Flakerimi](https://github.com/Flakerimi)
+* [Flakerim Ismani](https://github.com/Flakerimi)
 
 Arabic (ar)
 
-* [AAlakkad](https://github.com/AAlakkad)
+* [Ammar Alakkad](https://github.com/AAlakkad)
 
 Brazilian (pt-BR)
 
 * [c0h1b4](https://github.com/c0h1b4)
+* [miguelbgouveia](https://github.com/miguelbgouveia)
 
 Bulgarian (bg)
 
-* [RoumenDamianoff](https://github.com/RoumenDamianoff)
+* [Roumen Damianoff](https://github.com/RoumenDamianoff)
 
 Chinese (zh-CN)
 
@@ -28,28 +29,28 @@ Chinese (zh-CN)
 
 Danish (da)
 
-* [AndreasHeiberg](https://github.com/AndreasHeiberg)
-* [hauthorn](https://github.com/hauthorn)
+* [Andreas Heiberg](https://github.com/AndreasHeiberg)
+* [Christoffer Hauthorn Boisen](https://github.com/hauthorn)
 
 Dutch (nl)
 
 * [byordereurope](https://github.com/byordereurope)
-* [jeroengerits](https://github.com/jeroengerits)
-* [Thomasdezeeuw](https://github.com/Thomasdezeeuw)
-* [jaspur](https://github.com/jaspur)
+* [Jeroen Gerits](https://github.com/jeroengerits)
+* [Thomas de Zeeuw](https://github.com/Thomasdezeeuw)
+* [Jaspur](https://github.com/jaspur)
 
 Finnish (fi)
 
-* [gkunno](https://github.com/gkunno)
+* [Patrik](https://github.com/gkunno)
 
 French (fr)
 
-* [caouecs](https://github.com/caouecs)
+* [Fred Delrieu](https://github.com/caouecs)
 * [Laravel-France](https://github.com/laravel-france)
 
 German (de)
 
-* [Hettiger](https://github.com/hettiger)
+* [Martin Hettiger](https://github.com/hettiger)
 
 Greek (el)
 
@@ -57,17 +58,17 @@ Greek (el)
 
 Hebrew (he)
 
-* [LighTo273](https://github.com/LighTo273)
+* [Orel Ben-Yair](https://github.com/LighTo273)
 
 Hungarian (hu)
 
-* [terdelyi](https://github.com/terdelyi)
+* [Tamás Erdélyi](https://github.com/terdelyi)
 
 Indonesian (id)
 
-* [williamn](https://github.com/williamn)
+* [William Notowidagdo](https://github.com/williamn)
 * [apit](https://github.com/apit)
-* [deerawan](https://github.com/deerawan)
+* [Budi Irawan](https://github.com/deerawan)
 
 Italian (it)
 
@@ -75,7 +76,7 @@ Italian (it)
 
 Japanese (ja)
 
-* [HiroKws](https://github.com/HiroKws)
+* [Hirohisa Kawase](https://github.com/HiroKws)
 
 Polish (pl)
 
@@ -87,34 +88,38 @@ Portuguese (pt)
 
 Romanian (ro)
 
-* [Flavy](https://github.com/Flavy)
+* [flavy](https://github.com/flavy)
 
 Russian (ru)
 
-* [EvgenyKovalev](https://github.com/EvgenyKovalev)
+* [Evgeny Kovalev](https://github.com/EvgenyKovalev)
 
 Serbian (sr)
 
-* [dejangeci](https://github.com/dejangeci)
+* [Dejan Geci](https://github.com/dejangeci)
 
 Spanish (es)
 
-* [Nikoskip](https://github.com/nikoskip)
+* [Nikolas](https://github.com/nikoskip)
 
 Swedish (sv)
 
-* [vincentklaiber](https://github.com/vincentklaiber)
+* [Vincent Klaiber](https://github.com/vincentklaiber)
 * [Jonas Söderberg](https://github.com/imevul)
 
 Thai (th)
 
-* [teepluss](https://github.com/teepluss)
+* [Teepluss](https://github.com/teepluss)
 
 Traditional Chinese (Hong Kong) (zh-HK)
 
-* [efilm](https://github.com/efilm)
+* [Eric Li](https://github.com/efilm)
 
 Turkish (tr)
 
-* [Sineld](https://github.com/sineld)
+* [Sinan Eldem](https://github.com/sineld)
 * [pellempus](https://github.com/pellempus)
+
+Vietnamese (vi)
+
+* [anhsaker](https://github.com/anhsaker)

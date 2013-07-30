@@ -1,1 +1,1 @@
-19 July 2013 : Update Swedish (sv)
+30 July 2013 : Add Brazilian version (pt-BR)

@@ -14,6 +14,10 @@ Arabic (ar)
 
 * [AAlakkad](https://github.com/AAlakkad)
 
+Brazilian (pt-BR)
+
+* [c0h1b4](https://github.com/c0h1b4)
+
 Bulgarian (bg)
 
 * [RoumenDamianoff](https://github.com/RoumenDamianoff)

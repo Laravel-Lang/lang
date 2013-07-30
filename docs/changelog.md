@@ -6,6 +6,10 @@ title: Changelog
 Changelog
 ---
 
+30 July 2013
+
+* Add Brazilian (pt-BR) by [c0h1b4](https://github.com/c0h1b4)
+
 19 July 2013
 
 * Update Swedish (sv) by [Jonas Söderberg](https://github.com/imevul)

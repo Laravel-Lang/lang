@@ -46,7 +46,7 @@ return array(
     "min"              => array(
         "numeric" => ":attribute muss gr&ouml;&szlig;er als :min sein.",
         "file"    => ":attribute muss gr&ouml;&szlig;er als :min Kilobytes gro&szlig; sein.",
-        "string"  => ":attribute muss l&auml;nger als :min Zeichen sein.",
+        "string"  => ":attribute muss mindestens :min Zeichen lang sein.",
     ),
     "not_in"           => "Der gew&auml;hlte Wert f&uuml;r :attribute ist ung&uuml;ltig.",
     "numeric"          => ":attribute muss eine Zahl sein.",

@@ -6,6 +6,10 @@ title: Changelog
 Changelog
 ---
 
+04 August 2013
+
+* Fix German (de) by [iflow](https://github.com/iflow)
+
 30 July 2013
 
 * Add Brazilian (pt-BR) by [c0h1b4](https://github.com/c0h1b4)
@@ -22,7 +26,7 @@ Changelog
 
 06 July 2013
 
-* Add validation.attributes (fr) by [caouecs](https://github.com/caouecs)
+* Add validation.attributes (fr) by [Fred Delrieu](https://github.com/caouecs)
 * Indentation
 
 04 July 2013
@@ -32,7 +36,7 @@ Changelog
 
 02 July 2013
 
-* ISO 639-1 for Danish (dk->da) by [caouecs](https://github.com/caouecs)
+* ISO 639-1 for Danish (dk->da) by [Fred Delrieu](https://github.com/caouecs)
 
 22 June 2013
 

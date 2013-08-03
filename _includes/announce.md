@@ -1,1 +1,1 @@
-30 July 2013 : Add Brazilian version (pt-BR) and Vietnamese (vi)
+04 August 2013 : Fix German (de)

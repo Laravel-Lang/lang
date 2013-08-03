@@ -35,9 +35,9 @@ Danish (da)
 Dutch (nl)
 
 * [byordereurope](https://github.com/byordereurope)
+* [Jaspur](https://github.com/jaspur)
 * [Jeroen Gerits](https://github.com/jeroengerits)
 * [Thomas de Zeeuw](https://github.com/Thomasdezeeuw)
-* [Jaspur](https://github.com/jaspur)
 
 Finnish (fi)
 
@@ -50,6 +50,7 @@ French (fr)
 
 German (de)
 
+* [iflow](https://github.com/iflow)
 * [Martin Hettiger](https://github.com/hettiger)
 
 Greek (el)
@@ -66,9 +67,9 @@ Hungarian (hu)
 
 Indonesian (id)
 
-* [William Notowidagdo](https://github.com/williamn)
 * [apit](https://github.com/apit)
 * [Budi Irawan](https://github.com/deerawan)
+* [William Notowidagdo](https://github.com/williamn)
 
 Italian (it)
 
@@ -104,8 +105,8 @@ Spanish (es)
 
 Swedish (sv)
 
-* [Vincent Klaiber](https://github.com/vincentklaiber)
 * [Jonas Söderberg](https://github.com/imevul)
+* [Vincent Klaiber](https://github.com/vincentklaiber)
 
 Thai (th)
 
@@ -117,8 +118,8 @@ Traditional Chinese (Hong Kong) (zh-HK)
 
 Turkish (tr)
 
-* [Sinan Eldem](https://github.com/sineld)
 * [pellempus](https://github.com/pellempus)
+* [Sinan Eldem](https://github.com/sineld)
 
 Vietnamese (vi)
 

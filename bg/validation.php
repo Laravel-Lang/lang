@@ -19,11 +19,13 @@ return array(
     "alpha"            => "Полето :attribute трябва да съдържа само букви.",
     "alpha_dash"       => "Полето :attribute трябва да съдържа само букви, цифри, долна черта и тире.",
     "alpha_num"        => "Полето :attribute трябва да съдържа само букви и цифри.",
+    "array"            => "The :attribute must be an array.",
     "before"           => "Полето :attribute трябва да бъде дата преди :date.",
     "between"          => array(
         "numeric" => "Полето :attribute трябва да бъде между :min и :max.",
         "file"    => "Полето :attribute трябва да бъде между :min и :max килобайта.",
         "string"  => "Полето :attribute трябва да бъде между :min и :max знака.",
+        "array"   => "The :attribute must have between :min - :max items."
     ),
     "confirmed"        => "Полето :attribute не е потвърдено.",
     "date"             => "Полето :attribute не е валидна дата.",
@@ -41,12 +43,14 @@ return array(
         "numeric" => "Полето :attribute трябва да бъде по-малко от :max.",
         "file"    => "Полето :attribute трябва да бъде по-малко от :max килобайта.",
         "string"  => "Полето :attribute трябва да бъде по-малко от :max знака.",
+        "array"   => "The :attribute may not have more than :max items."
     ),
     "mimes"            => "Полето :attribute трябва да бъде файл от тип: :values.",
     "min"              => array(
         "numeric" => "Полето :attribute трябва да бъде минимум :min.",
         "file"    => "Полето :attribute трябва да бъде минимум :min килобайта.",
         "string"  => "Полето :attribute трябва да бъде минимум :min знака.",
+        "array"   => "The :attribute must have at least :min items."
     ),
     "not_in"           => "Избраното поле :attribute е невалидно.",
     "numeric"          => "Полето :attribute трябва да бъде число.",
@@ -60,6 +64,7 @@ return array(
         "numeric" => "Полето :attribute трябва да бъде :size.",
         "file"    => "Полето :attribute трябва да бъде :size килобайта.",
         "string"  => "Полето :attribute трябва да бъде :size знака.",
+        "array"   => "The :attribute must contain :size items."
     ),
     "unique"           => "Полето :attribute вече съществува.",
     "url"              => "Полето :attribute е в невалиден формат.",

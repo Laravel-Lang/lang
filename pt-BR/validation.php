@@ -19,11 +19,13 @@ return array(
     "alpha"            => "O campo :attribute deverá conter apenas letras.",
     "alpha_dash"       => "O campo :attribute deverá conter apenas letras, números e traços.",
     "alpha_num"        => "O campo :attribute deverá conter apenas letras e números .",
+    "array"            => "The :attribute must be an array.",
     "before"           => "O campo :attribute deverá conter uma data anterior a :date.",
     "between"          => array(
         "numeric" => "O campo :attribute deverá ter um valor entre :min - :max.",
         "file"    => "O campo :attribute deverá ter um tamanho entre :min - :max kilobytes.",
         "string"  => "O campo :attribute deverá conter entre :min - :max carateres.",
+        "array"   => "The :attribute must have between :min - :max items."
     ),  
     "confirmed"        => "A confirmação para o campo :attribute não coincide.",
     "date"             => "O campo :attribute não contém uma data válida.",
@@ -41,12 +43,14 @@ return array(
         "numeric" => "O campo :attribute não deverá conter um valor superior a :max.",
         "file"    => "O campo :attribute não deverá ter um tamanho superior a :max kilobytes.",
         "string"  => "O campo :attribute não deverá conter mais de :max carateres.",
+        "array"   => "The :attribute may not have more than :max items."
     ),
     "mimes"            => "O campo :attribute deverá conter um arquivo do tipo: :values.",
     "min"              => array(
         "numeric" => "O campo :attribute deverá ter um valor superior ou igual a :min.",
         "file"    => "O campo :attribute deverá ter no mínimo :min kilobytes.",
         "string"  => "O campo :attribute deverá conter no mínimo :min carateres.",
+        "array"   => "The :attribute must have at least :min items."
     ),
     "not_in"           => "O campo :attribute contém um valor inválido.",
     "numeric"          => "O campo :attribute deverá conter um valor numérico.",
@@ -60,6 +64,7 @@ return array(
         "numeric" => "O campo :attribute deverá conter o valor :size.",
         "file"    => "O campo :attribute deverá ter o tamanho de :size kilobytes.",
         "string"  => "O campo :attribute deverá conter :size carateres.",
+        "array"   => "The :attribute must contain :size items."
     ),
     "unique"           => "O valor indicado para o campo :attribute já se encontra registado.",
     "url"              => "O formato do URL indicado para o campo :attribute é inválido.",

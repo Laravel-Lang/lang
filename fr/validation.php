@@ -19,11 +19,13 @@ return array(
     "alpha"            => "Le champ :attribute doit seulement contenir des lettres.",
     "alpha_dash"       => "Le champ :attribute doit seulement contenir des lettres, des chiffres et des tirets.",
     "alpha_num"        => "Le champ :attribute doit seulement contenir des chiffres et des lettres.",
+    "array"            => "Le champ :attribute doit être un tableau.",
     "before"           => "Le champ :attribute doit être une date antérieure au :date.",
     "between"          => array(
         "numeric" => "La valeur de :attribute doit être comprise entre :min et :max.",
         "file"    => "Le fichier :attribute doit avoir une taille entre :min et :max kilobytes.",
         "string"  => "Le texte :attribute doit avoir entre :min et :max caractères.",
+        "array"   => "Le champ :attribute doit avoir entre :min - :max éléments."
     ),
     "confirmed"        => "Le champ de confirmation :attribute ne correspond pas.",
     "date"             => "Le champ :attribute n'est pas une date valide.",
@@ -41,12 +43,14 @@ return array(
         "numeric" => "La valeur de :attribute ne peut être supérieure à :max.",
         "file"    => "Le fichier :attribute ne peut être plus gros que :max kilobytes.",
         "string"  => "Le texte de :attribute ne peut contenir plus de :max caractères.",
+        "array"   => "Le champ :attribute ne peut avoir plus de :max éléments.",
     ),
     "mimes"            => "Le champ :attribute doit être un fichier de type : :values.",
     "min"              => array(
         "numeric" => "La valeur de :attribute doit être inférieure à :min.",
         "file"    => "Le fichier :attribute doit être plus que gros que :min kilobytes.",
         "string"  => "Le texte :attribute doit contenir au moins :min caractères.",
+        "array"   => "Le champ :attribute doit avoir au moins :min éléments."
     ),
     "not_in"           => "Le champ :attribute sélectionné n'est pas valide.",
     "numeric"          => "Le champ :attribute doit contenir un nombre.",
@@ -60,6 +64,7 @@ return array(
         "numeric" => "La taille de la valeur de :attribute doit être :size.",
         "file"    => "La taille du fichier de :attribute doit être de :size kilobytes.",
         "string"  => "Le texte de :attribute doit contenir :size caractères.",
+        "array"   => "Le champ :attribute doit contenir :size éléments."
     ),
     "unique"           => "La valeur du champ :attribute est déjà utilisée.",
     "url"              => "Le format de l'URL de :attribute n'est pas valide.",

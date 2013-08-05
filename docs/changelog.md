@@ -6,6 +6,11 @@ title: Changelog
 Changelog
 ---
 
+05 August 2013
+
+* Fix Arabic (ar) by [Ibrahim AshShohail](https://github.com/laheab)
+* Add array elements
+
 04 August 2013
 
 * Fix German (de) by [iflow](https://github.com/iflow)

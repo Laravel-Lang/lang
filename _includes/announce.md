@@ -1,1 +1,1 @@
-04 August 2013 : Fix German (de)
+05 August 2013 : Fix arabic (ar) and big update with add array elements

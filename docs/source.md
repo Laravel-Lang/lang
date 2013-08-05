@@ -13,6 +13,7 @@ Albanian (sq)
 Arabic (ar)
 
 * [Ammar Alakkad](https://github.com/AAlakkad)
+* [Ibrahim AshShohail](https://github.com/laheab)
 
 Brazilian (pt-BR)
 

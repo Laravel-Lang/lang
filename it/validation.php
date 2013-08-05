@@ -18,11 +18,13 @@ return array(
     "alpha"            => ":attribute pu&ograve; contenere solo lettere.",
     "alpha_dash"       => ":attribute pu&ograve; contenere solo numeri lettere e dashes.",
     "alpha_num"        => ":attribute pu&ograve; contenere solo lettere e numeri.",
+    "array"            => "The :attribute must be an array.",
     "before"           => ":attribute deve essere una data che precede :date.",
     "between"          => array(
         "numeric" => ":attribute deve trovarsi tra :min - :max.",
         "file"    => ":attribute deve trovarsi tra :min - :max kilobytes.",
         "string"  => ":attribute deve trovarsi tra :min - :max caratteri.",
+        "array"   => "The :attribute must have between :min - :max items."
     ),
     "confirmed"        => "Il campo di conferma per :attribute non coincide.",
     "date"             => "The :attribute is not a valid date.",
@@ -40,12 +42,14 @@ return array(
         "numeric" => ":attribute deve essere minore di :max.",
         "file"    => ":attribute non deve essere pi&ugrave grande di :max kilobytes.",
         "string"  => ":attribute non pu&ograve; contenere pi&ugrave; di :max caratteri.",
+        "array"   => "The :attribute may not have more than :max items."
     ),
     "mimes"            => ":attribute deve essere del tipo: :values.",
     "min"              => array(
         "numeric" => ":attribute deve valere almeno :min.",
         "file"    => ":attribute deve essere pi&ugrave; grande di :min kilobytes.",
         "string"  => ":attribute deve contenere almeno :min caratteri.",
+        "array"   => "The :attribute must have at least :min items."
     ),
     "not_in"           => "Il valore selezionato per :attribute non &egrave; valido.",
     "numeric"          => ":attribute deve essere un numero.",
@@ -59,6 +63,7 @@ return array(
         "numeric" => ":attribute deve valere :size.",
         "file"    => ":attribute deve essere grande :size kilobyte.",
         "string"  => ":attribute deve contenere :size caratteri.",
+        "array"   => "The :attribute must contain :size items."
     ),
     "unique"           => ":attribute &egrave; stato gi&agrave; usato.",
     "url"              => ":attribute deve essere un URL.",

@@ -19,11 +19,13 @@ return array(
     "alpha"            => ":attribute darf nur aus Buchstaben bestehen.",
     "alpha_dash"       => ":attribute darf nur aus Buchstaben, Zahlen, Binde- und Unterstrichen bestehen. Umlaute (&auml;, &ouml; &uuml) und Eszett (&szlig;) sind nicht erlaubt.",
     "alpha_num"        => ":attribute darf nur aus Buchstaben und Zahlen bestehen.",
+    "array"            => "The :attribute must be an array.",
     "before"           => ":attribute muss ein Datum vor dem :date sein.",
     "between"          => array(
         "numeric" => ":attribute muss zwischen :min - :max liegen.",
         "file"    => ":attribute muss zwischen :min - :max kilobytes gro&szlig; sein.",
         "string"  => ":attribute muss zwischen :min - :max Zeichen lang sein.",
+        "array"   => "The :attribute must have between :min - :max items."
     ),
     "confirmed"        => ":attribute stimmt nicht mit der Best&auml;tigung &uuml;berein.",
     "date"             => ":attribute ist kein g&uuml;ltiges Datum.",
@@ -41,12 +43,14 @@ return array(
         "numeric" => ":attribute muss kleiner als :max sein.",
         "file"    => ":attribute muss kleiner als :max Kilobytes gro&szlig; sein.",
         "string"  => ":attribute muss k&uuml;rzer als :max Zeichen sein.",
+        "array"   => "The :attribute may not have more than :max items."
     ),
     "mimes"            => ":attribute muss den Dateityp :values haben.",
     "min"              => array(
         "numeric" => ":attribute muss gr&ouml;&szlig;er als :min sein.",
         "file"    => ":attribute muss gr&ouml;&szlig;er als :min Kilobytes gro&szlig; sein.",
         "string"  => ":attribute muss mindestens :min Zeichen lang sein.",
+        "array"   => "The :attribute must have at least :min items."
     ),
     "not_in"           => "Der gew&auml;hlte Wert f&uuml;r :attribute ist ung&uuml;ltig.",
     "numeric"          => ":attribute muss eine Zahl sein.",
@@ -60,6 +64,7 @@ return array(
         "numeric" => ":attribute muss gleich :size sein.",
         "file"    => ":attribute muss :size Kilobyte gro&szlig; sein.",
         "string"  => ":attribute muss :size Zeichen lang sein.",
+        "array"   => "The :attribute must contain :size items."
     ),
     "unique"           => ":attribute ist schon vergeben.",
     "url"              => "Das Format von :attribute ist ung&uuml;ltig.",

@@ -25,6 +25,7 @@ return array(
         "numeric" => ":attribute moet tussen :min en :max zijn.",
         "file"    => ":attribute moet tussen :min en :max kilobytes zijn.",
         "string"  => ":attribute moet tussen :min en :max karakters zijn.",
+        "array"   => "The :attribute must have between :min - :max items."
     ),
     "confirmed"      => ":attribute bevestiging komt niet overeen.",
     "count"          => ":attribute moet precies :count geselecteerde elementen bevatten.",
@@ -44,12 +45,14 @@ return array(
         "numeric" => ":attribute moet minder dan :max zijn.",
         "file"    => ":attribute moet minder dan :max kilobytes zijn.",
         "string"  => ":attribute moet minder dan :max karakters zijn.",
+        "array"   => "The :attribute may not have more than :max items."
     ),
     "mimes"          => ":attribute moet een bestand zijn van het bestandstype :values.",
     "min"            => array(
         "numeric" => ":attribute moet minimaal :min zijn.",
         "file"    => ":attribute moet minimaal :min kilobytes zijn.",
         "string"  => ":attribute moet minimaal :min karakters zijn.",
+        "array"   => "The :attribute must have at least :min items."
     ),
     "not_in"         => "Het formaat van :attribute is ongeldig.",
     "numeric"        => ":attribute moet een nummer zijn.",
@@ -60,6 +63,7 @@ return array(
         "numeric" => ":attribute moet :size zijn.",
         "file"    => ":attribute moet :size kilobyte zijn.",
         "string"  => ":attribute moet :size characters zijn.",
+        "array"   => "The :attribute must contain :size items."
     ),
     "unique"         => ":attribute is al in gebruik.",
     "url"            => ":attribute is geen geldige URL.",

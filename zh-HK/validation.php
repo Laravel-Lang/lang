@@ -19,11 +19,13 @@ return array(
     "alpha"            => ":attribute 只能以字母組成。",
     "alpha_dash"       => ":attribute 只能以字母、數字及斜線組成。",
     "alpha_num"        => ":attribute 只能以字母及數字組成。",
+    "array"            => "The :attribute must be an array.",
     "before"           => ":attribute 必須要在 :date 之前。",
     "between"          => array(
         "numeric" => ":attribute 必須介乎 :min 至 :max 之間。",
         "file"    => ":attribute 必須介乎 :min 至 :max kb 之間。 ",
         "string"  => ":attribute 必須介乎 :min 至 :max 個字符之間。",
+        "array"   => "The :attribute must have between :min - :max items."
     ),
     "confirmed"        => ":attribute 確認欄位的輸入並不相符。",
     "date"             => ":attribute 並非一個有效的日期。",
@@ -41,12 +43,14 @@ return array(
         "numeric" => ":attribute 不能大於 :max。",
         "file"    => ":attribute 不能大於 :max kb。",
         "string"  => ":attribute 不能多於 :max 個字符。",
+        "array"   => "The :attribute may not have more than :max items."
     ),
     "mimes"            => ":attribute 必須為 :values 的檔案。",
     "min"              => array(
         "numeric" => ":attribute 不能小於 :min。",
         "file"    => ":attribute 不能小於 :min kb。",
         "string"  => ":attribute 不能小於 :min 個字符。",
+        "array"   => "The :attribute must have at least :min items."
     ),
     "not_in"           => "所揀選的 :attribute 選項無效。",
     "numeric"          => ":attribute 必須為一個數字。",
@@ -60,6 +64,7 @@ return array(
         "numeric" => ":attribute 的大小必須是 :size。",
         "file"    => ":attribute 的大小必須是 :size kb。",
         "string"  => ":attribute 必須是 :size 個字符。",
+        "array"   => "The :attribute must contain :size items."
     ),
     "unique"           => ":attribute 已經用了。",
     "url"              => ":attribute 的格式錯鋘。",

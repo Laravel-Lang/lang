@@ -19,11 +19,13 @@ return array(
     "alpha"            => "A(z) :attribute kizárólag betűket tartalmazhat!",
     "alpha_dash"       => "A(z) :attribute kizárólag betűket, számokat és kötőjeleket tartalmazhat!",
     "alpha_num"        => "A(z) :attribute kizárólag betűket és számokat tartalmazhat!",
+    "array"            => "The :attribute must be an array.",
     "before"           => "A(z) :attribute legalább :date előtti dátum kell, hogy legyen!",
     "between"          => array(
         "numeric" => "A(z) :attribute :min és :max közötti szám kell, hogy legyen!",
         "file"    => "A(z) :attribute mérete :min és :max kilobájt között kell, hogy legyen!",
         "string"  => "A(z) :attribute hossza :min és :max karakter között kell, hogy legyen!",
+        "array"   => "The :attribute must have between :min - :max items."
     ),
     "confirmed"        => "A(z) :attribute nem egyezik a megerősítéssel.",
     "date"             => "A(z) :attribute nem érvényes dátum.",
@@ -41,12 +43,14 @@ return array(
         "numeric" => "A(z) :attribute értéke nem lehet nagyobb, mint :max!",
         "file"    => "A(z) :attribute mérete nem lehet több, mint :max kilobájt.",
         "string"  => "A(z) :attribute hossza nem lehet több, mint :max karakter.",
+        "array"   => "The :attribute may not have more than :max items."
     ),
     "mimes"            => "A(z) :attribute kizárólag az alábbi fájlformátumok egyike lehet: :values.",
     "min"              => array(
         "numeric" => "A(z) :attribute értéke nem lehet kisebb, mint :min!",
         "file"    => "A(z) :attribute mérete nem lehet több, mint :min kilobájt.",
         "string"  => "A(z) :attribute hossza nem lehet több, mint :min karakter.",
+        "array"   => "The :attribute must have at least :min items."
     ),
     "not_in"           => "A(z) :attribute értéke érvénytelen.",
     "numeric"          => "A(z) :attribute szám kell, hogy legyen!",
@@ -60,6 +64,7 @@ return array(
         "numeric" => "A(z) :attribute értéke :size kell, hogy legyen!",
         "file"    => "A(z) :attribute mérete :size kilobájt kell, hogy legyen!",
         "string"  => "A(z) :attribute hossza :size karakter kell, hogy legyen!",
+        "array"   => "The :attribute must contain :size items."
     ),
     "unique"           => "A(z) :attribute már foglalt.",
     "url"              => "A(z) :attribute érvénytelen link.",

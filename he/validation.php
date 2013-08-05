@@ -19,11 +19,13 @@ return array(
     "alpha"            => ":attribute רשאי להכיל אותיות בלבד.",
     "alpha_dash"       => ":attribute רשאי להכיל אותיות, מספרים ומקפים בלבד.",
     "alpha_num"        => ":attribute רשאי להכיל אותיות ומספרים בלבד.",
+    "array"            => "The :attribute must be an array.",
     "before"           => ":attribute חייב להיות תאריך לפני :date.",
     "between"          => array(
         "numeric" => ":attribute חייב להיות מספר בין :min ל-:max.",
         "file"    => ":attribute חייב לשקול :min-:max קילובתים.",
         "string"  => ":attribute חייב להיות באורך של :min-:max תווים.",
+        "array"   => "The :attribute must have between :min - :max items."
     ),
     "confirmed"        => "The :attribute confirmation does not match.",
     "date"             => ":attribute הוא לא תאריך תקני.",
@@ -41,12 +43,14 @@ return array(
         "numeric" => "The :attribute may not be greater than :max.",
         "file"    => "The :attribute may not be greater than :max kilobytes.",
         "string"  => "The :attribute may not be greater than :max characters.",
+        "array"   => "The :attribute may not have more than :max items."
     ),
     "mimes"            => "The :attribute must be a file of type: :values.",
     "min"              => array(
         "numeric" => "The :attribute must be at least :min.",
         "file"    => "The :attribute must be at least :min kilobytes.",
         "string"  => "The :attribute must be at least :min characters.",
+        "array"   => "The :attribute must have at least :min items."
     ),
     "not_in"           => "The selected :attribute is invalid.",
     "numeric"          => "The :attribute must be a number.",
@@ -60,6 +64,7 @@ return array(
         "numeric" => "The :attribute must be :size.",
         "file"    => "The :attribute must be :size kilobytes.",
         "string"  => "The :attribute must be :size characters.",
+        "array"   => "The :attribute must contain :size items."
     ),
     "unique"           => "The :attribute has already been taken.",
     "url"              => "The :attribute format is invalid.",

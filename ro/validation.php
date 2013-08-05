@@ -18,11 +18,13 @@ return array(
     "alpha"            => "Campul :attribute poate contine numai litere.",
     "alpha_dash"       => "Campul :attribute poate contine numai litere, numere si liniute.",
     "alpha_num"        => "Campul :attribute poate contine numai litere si numere.",
+    "array"            => "The :attribute must be an array.",
     "before"           => "Campul :attribute trebuie sa fie o data inainte de :date.",
     "between"          => array(
         "numeric" => "Campul :attribute trebuie sa fie intre :min si :max.",
         "file"    => "Campul :attribute trebuie sa fie intre :min si :max kilobytes.",
         "string"  => "Campul :attribute trebuie sa fie intre :min si :max caractere.",
+        "array"   => "The :attribute must have between :min - :max items."
     ),
     "confirmed"        => "Confirmarea :attribute nu se potriveste.",
     "date"             => "The :attribute is not a valid date.",
@@ -40,12 +42,14 @@ return array(
         "numeric" => "Campul :attribute trebuie sa fie mai mic de :max.",
         "file"    => "Campul :attribute trebuie sa fie mai mic de :max kilobytes.",
         "string"  => "Campul :attribute trebuie sa fie mai mic de :max caractere.",
+        "array"   => "The :attribute may not have more than :max items."
     ),
     "mimes"            => "Campul :attribute trebuie sa fie un fisier de tipul: :values.",
     "min"              => array(
         "numeric" => "Campul :attribute trebuie sa fie cel putin :min.",
         "file"    => "Campul :attribute trebuie sa aiba cel putin :min kilobytes.",
         "string"  => "Campul :attribute trebuie sa aiba cel putin :min caractere.",
+        "array"   => "The :attribute must have at least :min items."
     ),
     "not_in"           => "Campul :attribute selectat este invalid.",
     "numeric"          => "Campul :attribute trebuie sa fie un numar.",
@@ -59,6 +63,7 @@ return array(
         "numeric" => "Campul :attribute trebuie sa fie :size.",
         "file"    => "Campul :attribute trebuie sa aiba :size kilobyte.",
         "string"  => "Campul :attribute trebuie sa aiba :size caractere.",
+        "array"   => "The :attribute must contain :size items."
     ),
     "unique"           => "Campul :attribute a fost deja folosit.",
     "url"              => "Campul :attribute nu este intr-un format valid.",

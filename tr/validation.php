@@ -28,11 +28,13 @@ return array(
     "alpha"          => ":attribute sadece harflerden oluşmalıdır.",
     "alpha_dash"     => ":attribute sadece harfler, rakamlar ve tirelerden oluşmalıdır.",
     "alpha_num"      => ":attribute sadece harfler ve rakamlar içermelidir.",
+    "array"          => "The :attribute must be an array.",
     "before"         => ":attribute şundan daha önceki bir tarih olmalıdır :date.",
     "between"        => array(
         "numeric" => ":attribute :min - :max arasında olmalıdır.",
         "file"    => ":attribute :min - :max arasındaki kilobayt değeri olmalıdır.",
         "string"  => ":attribute :min - :max arasında karakterden oluşmalıdır.",
+        "array"   => "The :attribute must have between :min - :max items."
     ),
     "confirmed"      => ":attribute tekrarı eşleşmiyor.",
     "date"            => ":attribute geçerli bir tarih olmalıdır.",
@@ -50,12 +52,14 @@ return array(
         "numeric" => ":attribute değeri :max değerinden küçük olmalıdır.",
         "file"    => ":attribute değeri :max kilobayt değerinden küçük olmalıdır.",
         "string"  => ":attribute değeri :max karakter değerinden küçük olmalıdır.",
+        "array"   => "The :attribute may not have more than :max items."
     ),
     "mimes"          => ":attribute dosya biçimi :values olmalıdır.",
     "min"            => array(
         "numeric" => ":attribute değeri :min değerinden büyük olmalıdır.",
         "file"    => ":attribute değeri :min kilobayt değerinden büyük olmalıdır.",
         "string"  => ":attribute değeri :min karakter değerinden büyük olmalıdır.",
+        "array"   => "The :attribute must have at least :min items."
     ),
     "not_in"         => "Seçili :attribute geçersiz.",
     "numeric"        => ":attribute rakam olmalıdır.",
@@ -69,6 +73,7 @@ return array(
         "numeric" => ":attribute :size olmalıdır.",
         "file"    => ":attribute :size kilobyte olmalıdır.",
         "string"  => ":attribute :size karakter olmalıdır.",
+        "array"   => "The :attribute must contain :size items."
     ),
     "unique"         => ":attribute daha önceden kayıt edilmiş.",
     "url"            => ":attribute biçimi geçersiz.",

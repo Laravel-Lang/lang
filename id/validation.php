@@ -19,11 +19,13 @@ return array(
     "alpha"            => "Isian :attribute hanya boleh berisi huruf.",
     "alpha_dash"       => "Isian :attribute hanya boleh berisi huruf, angka, dan strip.",
     "alpha_num"        => "Isian :attribute hanya boleh berisi huruf dan angka.",
+    "array"            => "The :attribute must be an array.",
     "before"           => "Isian :attribute harus tanggal sebelum :date.",
     "between"          => array(
         "numeric" => "Isian :attribute harus antara :min - :max.",
         "file"    => "Isian :attribute harus antara :min - :max kilobytes.",
         "string"  => "Isian :attribute harus antara  :min - :max karakter.",
+        "array"   => "The :attribute must have between :min - :max items."
     ),
     "confirmed"        => "Konfirmasi :attribute tidak cocok.",
     "date"             => "The :attribute is not a valid date.",
@@ -41,12 +43,14 @@ return array(
         "numeric" => "Isian :attribute harus kurang dari :max.",
         "file"    => "Isian :attribute harus kurang dari :max kilobytes.",
         "string"  => "Isian :attribute harus kurang dari :max karakter.",
+        "array"   => "The :attribute may not have more than :max items."
     ),
     "mimes"            => "Isian :attribute harus dokumen berjenis : :values.",
     "min"              => array(
         "numeric" => "Isian :attribute harus minimal :min.",
         "file"    => "Isian :attribute harus minimal :min kilobytes.",
         "string"  => "Isian :attribute harus minimal :min karakter.",
+        "array"   => "The :attribute must have at least :min items."
     ),
     "not_in"           => "Isian :attribute yang dipilih tidak valid.",
     "numeric"          => "Isian :attribute harus berupa angka.",
@@ -60,6 +64,7 @@ return array(
         "numeric" => "Isian :attribute harus berukuran :size.",
         "file"    => "Isian :attribute harus berukuran :size kilobyte.",
         "string"  => "Isian :attribute harus berukuran :size karakter.",
+        "array"   => "The :attribute must contain :size items."
     ),
     "unique"           => "Isian :attribute sudah ada sebelumnya.",
     "url"              => "Format isian :attribute tidak valid.",

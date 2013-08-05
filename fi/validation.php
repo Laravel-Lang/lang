@@ -19,11 +19,13 @@ return array(
     "alpha"            => ":attribute voi vain sisältää kirjaimia.",
     "alpha_dash"       => ":attribute voi vain sisältää kirjaimia, numeroita ja viivoja.",
     "alpha_num"        => ":attribute voi vain sisältää kirjaimia ja numeroita.",
+    "array"            => "The :attribute must be an array.",
     "before"           => ":attribute pitää olla päiväys ennen :date.",
     "between"          => array(
         "numeric" => ":attribute numeron pitää olla välillä :min - :max.",
         "file"    => ":attribute tiedoston pitää olla välillä :min - :max kilobittiä.",
         "string"  => ":attribute elementin pitää olla välillä :min - :max kirjainta.",
+        "array"   => "The :attribute must have between :min - :max items."
     ),
     "confirmed"        => ":attribute vahvistus ei täsmää.",
     "date"             => "The :attribute is not a valid date.",
@@ -41,12 +43,14 @@ return array(
         "numeric" => ":attribute pitää olla pienempi kuin :max.",
         "file"    => ":attribute pitää olla pienempi :max kilobittiä.",
         "string"  => ":attribute pitää olla pienempi :max kirjainta.",
+        "array"   => "The :attribute may not have more than :max items."
     ),
     "mimes"            => ":attribute pitää olla tiedostotyyppi: :values.",
     "min"              => array(
         "numeric" => ":attribute pitää olla vähintään :min.",
         "file"    => ":attribute pitää olla vähintään :min kilobittiä.",
         "string"  => ":attribute pitää olla vähintään :min kirjainta.",
+        "array"   => "The :attribute must have at least :min items."
     ),
     "not_in"           => "valittu :attribute on virheellinen.",
     "numeric"          => ":attribute pitää olla numero.",
@@ -60,6 +64,7 @@ return array(
         "numeric" => ":attribute pitää olla kokoa: :size.",
         "file"    => ":attribute pitää olla kokoa: :size kilobittiä.",
         "string"  => ":attribute pitää olla kokoa: :size kirjainta.",
+        "array"   => "The :attribute must contain :size items."
     ),
     "unique"           => ":attribute on jo valittu.",
     "url"              => ":attribute URL-osoite on virheellinen.",

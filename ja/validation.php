@@ -18,11 +18,13 @@ return array(
     "alpha"            => ":attributeはアルファベッドのみがご利用できます。",
     "alpha_dash"       => ":attributeは英数字とダッシュ(-)及び下線(_)がご利用できます。",
     "alpha_num"        => ":attributeは英数字がご利用できます。",
+    "array"            => "The :attribute must be an array.",
     "before"           => ":attributeには、:date以前の日付をご利用ください。",
     "between"          => array(
         "numeric" => ":attributeは、:minから、:maxまでの数字をご指定ください。",
         "file"    => ":attributeには、:min kBから:max kBまでのサイズのファイルをご指定ください。",
         "string"  => ":attributeは、:min文字から:max文字の間でご指定ください。",
+        "array"   => "The :attribute must have between :min - :max items."
     ),
     "confirmed"        => ":attributeと、確認フィールドとが、一致していません。",
     "date"             => "The :attribute is not a valid date.",
@@ -40,12 +42,14 @@ return array(
         "numeric" => ":attributeには、:max以下の数字をご指定ください。",
         "file"    => ":attributeには、:max kB以下のファイルをご指定ください。",
         "string"  => ":attributeは、:max文字以下でご指定ください。",
+        "array"   => "The :attribute may not have more than :max items."
     ),
     "mimes"            => ":attributeには:valuesタイプのファイルを指定してください。",
     "min"              => array(
         "numeric" => ":attributeには、:min以上の数字をご指定ください。",
         "file"    => ":attributeには、:min kB以上のファイルをご指定ください。",
         "string"  => ":attributeは、:min文字以上でご指定ください。",
+        "array"   => "The :attribute must have at least :min items."
     ),
     "not_in"           => "選択された:attributeは正しくありません。",
     "numeric"          => ":attributeには、数字を指定してください。",
@@ -59,6 +63,7 @@ return array(
         "numeric" => ":attributeには:sizeを指定してください。",
         "file"    => ":attributeのファイルは、:sizeキロバイトでなくてはなりません。",
         "string"  => ":attributeは:size文字で指定してください。",
+        "array"   => "The :attribute must contain :size items."
     ),
     "unique"           => ":attributeに指定された値は既に存在しています。",
     "url"              => ":attributeのフォーマットが正しくありません。",

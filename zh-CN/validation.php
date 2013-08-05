@@ -19,11 +19,13 @@ return array(
     "alpha"            => ":attribute 只能由字母组成。",
     "alpha_dash"       => ":attribute 只能由字母、数字和斜杠组成。",
     "alpha_num"        => ":attribute 只能由字母和数字组成。",
+    "array"            => "The :attribute must be an array.",
     "before"           => ":attribute 必须是一个在 :date 之前的日期。",
     "between"          => array(
         "numeric" => ":attribute 必须介于 :min - :max 之间。",
         "file"    => ":attribute 必须介于 :min - :max 千字节之间。",
         "string"  => ":attribute 必须介于 :min - :max 个字符之间。",
+        "array"   => "The :attribute must have between :min - :max items."
     ),
     "confirmed"        => ":attribute 确认不匹配。",
     "date"             => ":attribute 不是一个有效的日期。",
@@ -41,12 +43,14 @@ return array(
         "numeric" => ":attribute 必须小于 :max 。",
         "file"    => ":attribute 必须小于 :max 千字节。",
         "string"  => ":attribute 必须小于 :max 个字符。",
+        "array"   => "The :attribute may not have more than :max items."
     ),
     "mimes"            => ":attribute 必须是一个 :values 类型的文件。",
     "min"              => array(
         "numeric" => ":attribute 必须大于 :min 。",
         "file"    => ":attribute 必须大于 :min 千字节。",
         "string"  => ":attribute 必须大于 :min 个字符。",
+        "array"   => "The :attribute must have at least :min items."
     ),
     "not_in"           => "已选的属性 :attribute 非法。",
     "numeric"          => ":attribute 必须是一个数字。",
@@ -60,6 +64,7 @@ return array(
         "numeric" => ":attribute 大小必须是 :size 。",
         "file"    => ":attribute 大小必须是 :size 千字节。",
         "string"  => ":attribute 必须是 :size 个字符。",
+        "array"   => "The :attribute must contain :size items."
     ),
     "unique"           => ":attribute 已经有人使用。",
     "url"              => ":attribute 格式非法。",

@@ -9,29 +9,29 @@ Available languages
 | Language | Short name | Statut | Validation Attributes |
 |----------|:----------:|:------:|:---------------------:|
 | Albanian | sq | *partial* | *wait*
-| Arabic | ar | OK | OK
-| Brazilian | pt-BR | OK | *wait*
-| Bulgarian | bg | OK | *wait*
-| Chinese | zh-CN | OK | *wait*
-| Danish | da | OK | *wait*
+| Arabic | ar | *partial* | OK
+| Brazilian | pt-BR | *partial* | *wait*
+| Bulgarian | bg | *partial* | *wait*
+| Chinese | zh-CN | *partial* | *wait*
+| Danish | da | *partial* | *wait*
 | Dutch | nl | OK | *wait*
 | Finnish | fi | *partial* | *wait*
 | French | fr | OK | OK
-| German | de | OK | *wait*
-| Greek | el | OK | *wait*
+| German | de | *partial* | *wait*
+| Greek | el | *partial* | *wait*
 | Hebrew | he | *partial* | *wait*
-| Hungarian | hu | OK | *wait*
+| Hungarian | hu | *partial* | *wait*
 | Indonesian | id | *partial* | *wait*
 | Italian | it | *partial* | *wait*
 | Japanese | jp | *partial* | *wait*
-| Polish | pl | OK | *wait*
-| Portuguese | pt | OK | *wait*
+| Polish | pl | *partial* | *wait*
+| Portuguese | pt | *partial* | *wait*
 | Romanian | ro | *partial* | *wait*
-| Russian | ru | OK | *wait*
+| Russian | ru | *partial* | *wait*
 | Serbian | sr | *partial* | *wait*
-| Spanish | es | OK | *wait*
-| Swedish | sv | OK | *wait*
-| Thai | th | OK | *wait*
-| Traditional Chinese (Hong Kong) | zh-HK | OK | *wait*
-| Turkish | tr | OK | *wait*
+| Spanish | es | *partial* | *wait*
+| Swedish | sv | *partial* | *wait*
+| Thai | th | *partial* | *wait*
+| Traditional Chinese (Hong Kong) | zh-HK | *partial* | *wait*
+| Turkish | tr | *partial* | *wait*
 | Vietnamese | vi | OK | *wait*

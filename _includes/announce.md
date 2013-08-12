@@ -1,1 +1,1 @@
-05 August 2013 : Fix arabic (ar) and big update with add array elements
+12 August 2013 : Update dutch (nl) with array elements

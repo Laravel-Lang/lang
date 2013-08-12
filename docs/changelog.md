@@ -6,6 +6,10 @@ title: Changelog
 Changelog
 ---
 
+12 August 2013
+
+* Array elements (nl) by [juukie14](https://github.com/juukie14)
+
 05 August 2013
 
 * Fix Arabic (ar) by [Ibrahim AshShohail](https://github.com/laheab)

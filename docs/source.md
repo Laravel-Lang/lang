@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Changelog
+title: Sources
 ---
 
 Sources

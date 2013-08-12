@@ -38,6 +38,7 @@ Dutch (nl)
 * [byordereurope](https://github.com/byordereurope)
 * [Jaspur](https://github.com/jaspur)
 * [Jeroen Gerits](https://github.com/jeroengerits)
+* [juukie14](https://github.com/juukie14)
 * [Thomas de Zeeuw](https://github.com/Thomasdezeeuw)
 
 Finnish (fi)

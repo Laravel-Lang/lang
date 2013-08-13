@@ -6,6 +6,10 @@ title: Changelog
 Changelog
 ---
 
+13 August 2013
+
+* Array elements (es) by [Nikoskip](https://github.com/nikoskip)
+
 12 August 2013
 
 * Array elements (nl) by [juukie14](https://github.com/juukie14)

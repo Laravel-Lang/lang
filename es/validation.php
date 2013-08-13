@@ -19,13 +19,13 @@ return array(
     "alpha"            => ":attribute sólo debe contener letras.",
     "alpha_dash"       => ":attribute sólo debe contener letras, números y guiones.",
     "alpha_num"        => ":attribute sólo debe contener letras y números.",
-    "array"            => "The :attribute must be an array.",
+    "array"            => ":attribute debe ser un conjunto.",
     "before"           => ":attribute debe ser una fecha anterior a :date.",
     "between"          => array(
         "numeric" => ":attribute tiene que estar entre :min - :max.",
         "file"    => ":attribute debe pesar entre :min - :max kilobytes.",
         "string"  => ":attribute tiene que tener entre :min - :max caracteres.",
-        "array"   => "The :attribute must have between :min - :max items."
+        "array"   => ":attribute tiene que tener entre :min - :max ítems.",
     ),
     "confirmed"        => "La confirmación de :attribute no coincide.",
     "date"             => ":attribute no es una fecha válida.",
@@ -43,14 +43,14 @@ return array(
         "numeric" => ":attribute no debe ser mayor a :max.",
         "file"    => ":attribute no debe ser mayor que :max kilobytes.",
         "string"  => ":attribute no debe ser mayor que :max characters.",
-        "array"   => "The :attribute may not have more than :max items."
+        "array"   => ":attribute no debe tener más de :max ítems.",
     ),
     "mimes"            => ":attribute debe ser un archivo con formato: :values.",
     "min"              => array(
         "numeric" => "El tamaño de :attribute debe ser de al menos :min.",
         "file"    => "El tamaño de :attribute debe ser de al menos :min kilobytes.",
         "string"  => ":attribute debe contener al menos :min caracteres.",
-        "array"   => "The :attribute must have at least :min items."
+        "array"   => ":attribute debe tener al menos :min ítems.",
     ),
     "not_in"           => ":attribute es inválido.",
     "numeric"          => ":attribute debe ser numérico.",
@@ -64,7 +64,7 @@ return array(
         "numeric" => "El tamaño de :attribute debe ser :size.",
         "file"    => "El tamaño de :attribute debe ser :size kilobytes.",
         "string"  => ":attribute debe contener :size caracteres.",
-        "array"   => "The :attribute must contain :size items."
+        "array"   => ":attribute debe contener :size ítems.",
     ),
     "unique"           => ":attribute ya ha sido registrado.",
     "url"              => "El formato :attribute es inválido.",

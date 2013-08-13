@@ -1,1 +1,1 @@
-12 August 2013 : Update dutch (nl) with array elements
+13 August 2013 : Update spanish (es) with array elements

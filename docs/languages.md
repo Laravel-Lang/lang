@@ -17,7 +17,7 @@ Available languages
 | Dutch | nl | OK | *wait*
 | Finnish | fi | *partial* | *wait*
 | French | fr | OK | OK
-| German | de | *partial* | *wait*
+| German | de | OK | *wait*
 | Greek | el | *partial* | *wait*
 | Hebrew | he | *partial* | *wait*
 | Hungarian | hu | *partial* | *wait*

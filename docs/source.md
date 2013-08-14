@@ -53,6 +53,7 @@ French (fr)
 German (de)
 
 * [iflow](https://github.com/iflow)
+* [Jones](https://github.com/JN-Jones)
 * [Martin Hettiger](https://github.com/hettiger)
 
 Greek (el)

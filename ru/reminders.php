@@ -4,12 +4,12 @@ return array(
 
     /*
     |--------------------------------------------------------------------------
-    | Password Reminder Language Lines
+    | Языковые ресурсы напоминания пароля
     |--------------------------------------------------------------------------
     |
-    | The following language lines are the default lines which match reasons
-    | that are given by the password broker for a password update attempt
-    | has failed, such as for an invalid token or invalid new password.
+    | Последующие языковые строки возвращаются брокером паролей на неудачные
+    | попытки обновления пароля в таких случаях, как ошибочный код сброса
+    | пароля или неверный новый пароль.
     |
     */
 

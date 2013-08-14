@@ -4,12 +4,13 @@ return array(
 
     /*
     |--------------------------------------------------------------------------
-    | Validation Language Lines
+    | Языковые ресурсы для проверки значений
     |--------------------------------------------------------------------------
     |
-    | The following language lines contain the default error messages used by
-    | the validator class. Some of these rules have multiple versions such
-    | such as the size rules. Feel free to tweak each of these messages.
+    | Последующие языковые строки содержат сообщения по-умолчанию, используемые
+    | классом, проверяющим значения (валидатором).Некоторые из правил имеют
+    | несколько версий, например, size. Вы можете поменять их на любые
+    | другие, которые лучше подходят для вашего приложения.
     |
     */
 
@@ -19,13 +20,13 @@ return array(
     "alpha"            => "Поле :attribute может содержать только буквы.",
     "alpha_dash"       => "Поле :attribute может содержать только буквы, цифры и дефис.",
     "alpha_num"        => "Поле :attribute может содержать только буквы и цифры.",
-    "array"            => "The :attribute must be an array.",
+    "array"            => "Поле :attribute должно быть массивом.",
     "before"           => "Поле :attribute должно быть датой перед :date.",
     "between"          => array(
         "numeric" => "Поле :attribute должно быть между :min и :max.",
         "file"    => "Размер :attribute должен быть от :min до :max Килобайт.",
         "string"  => "Длина :attribute должна быть от :min до :max символов.",
-        "array"   => "The :attribute must have between :min - :max items."
+        "array"   => "Поле :attribute должно содержать :min - :max элементов."
     ),
     "confirmed"        => "Поле :attribute не совпадает с подтверждением.",
     "date"             => "Поле :attribute не является датой.",
@@ -43,14 +44,14 @@ return array(
         "numeric" => "Поле :attribute должно быть не больше :max.",
         "file"    => "Поле :attribute должно быть не больше :max Килобайт.",
         "string"  => "Поле :attribute должно быть не длиннее :max символов.",
-        "array"   => "The :attribute may not have more than :max items."
+        "array"   => "Поле :attribute должно содержать не более :max элементов."
     ),
     "mimes"            => "Поле :attribute должно быть файлом одного из типов: :values.",
     "min"              => array(
         "numeric" => "Поле :attribute должно быть не менее :min.",
         "file"    => "Поле :attribute должно быть не менее :min Килобайт.",
         "string"  => "Поле :attribute должно быть не короче :min символов.",
-        "array"   => "The :attribute must have at least :min items."
+        "array"   => "Поле :attribute должно содержать не менее :min элементов."
     ),
     "not_in"           => "Выбранное значение для :attribute ошибочно.",
     "numeric"          => "Поле :attribute должно быть числом.",
@@ -64,19 +65,21 @@ return array(
         "numeric" => "Поле :attribute должно быть :size.",
         "file"    => "Поле :attribute должно быть :size Килобайт.",
         "string"  => "Поле :attribute должно быть длиной :size символов.",
-        "array"   => "The :attribute must contain :size items."
+        "array"   => "Количество элементов в поле :attribute должно быть :size."
     ),
     "unique"           => "Такое значение поля :attribute уже существует.",
     "url"              => "Поле :attribute имеет ошибочный формат.",
 
     /*
     |--------------------------------------------------------------------------
-    | Custom Validation Language Lines
+    | Собственные языковые ресурсы для проверки значений
     |--------------------------------------------------------------------------
     |
-    | Here you may specify custom validation messages for attributes using the
-    | convention "attribute.rule" to name the lines. This makes it quick to
-    | specify a specific custom language line for a given attribute rule.
+    | Здесь Вы можете указать собственные сообщения для атрибутов, используя
+    | соглашение именования строк "attribute.rule". Это позволяет легко указать
+    | свое сообщение для заданного правила атрибута.
+    |
+    | http://laravel.com/docs/validation#custom-error-messages
     |
     */
 
@@ -84,12 +87,18 @@ return array(
 
     /*
     |--------------------------------------------------------------------------
-    | Custom Validation Attributes
+    | Собственные названия атрибутов
     |--------------------------------------------------------------------------
     |
-    | The following language lines are used to swap attribute place-holders
-    | with something more reader friendly such as E-Mail Address instead
-    | of "email". This simply helps us make messages a little cleaner.
+    | Последующие строки используются для подмены программных имен элементов
+    | пользовательского интерфейса на удобочитаемые. Например, вместо имени
+    | поля "email" в сообщениях будет выводиться "электронный адрес".
+    |
+    | Пример использования
+    |
+    |   'attributes' => array(
+    |       'email' => 'электронный адрес',
+    |   )
     |
     */
 

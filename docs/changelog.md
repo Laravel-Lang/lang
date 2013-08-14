@@ -10,6 +10,7 @@ Changelog
 
 * Array elements (tr) by [Sinan Eldem](https://github.com/sineld)
 * Array elements (ru) by [EvgenyKovalev](https://github.com/EvgenyKovalev)
+* Array elements (de) by [Jones](https://github.com/JN-Jones)
 
 13 August 2013
 

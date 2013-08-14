@@ -33,5 +33,5 @@ Available languages
 | Swedish | sv | *partial* | *wait*
 | Thai | th | *partial* | *wait*
 | Traditional Chinese (Hong Kong) | zh-HK | *partial* | *wait*
-| Turkish | tr | *partial* | *wait*
+| Turkish | tr | OK | *wait*
 | Vietnamese | vi | OK | *wait*

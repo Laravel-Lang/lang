@@ -27,7 +27,7 @@ Available languages
 | Polish | pl | *partial* | *wait*
 | Portuguese | pt | *partial* | *wait*
 | Romanian | ro | *partial* | *wait*
-| Russian | ru | *partial* | *wait*
+| Russian | ru | OK | *partial*
 | Serbian | sr | *partial* | *wait*
 | Spanish | es | OK | *wait*
 | Swedish | sv | *partial* | *wait*

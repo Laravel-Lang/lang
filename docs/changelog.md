@@ -9,6 +9,7 @@ Changelog
 14 August 2013
 
 * Array elements (tr) by [Sinan Eldem](https://github.com/sineld)
+* Array elements (ru) by [EvgenyKovalev](https://github.com/EvgenyKovalev)
 
 13 August 2013
 

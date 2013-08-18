@@ -1,1 +1,1 @@
-14 August 2013 : Update german (de), turkish (es) and russian (ru) with array elements
+18 August 2013 : Update greek (el) with array elements

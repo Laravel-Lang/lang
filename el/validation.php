@@ -14,43 +14,43 @@ return array(
     */
 
     "accepted"         => "Το πεδίο :attribute πρέπει να γίνει αποδεκτό.",
-    "active_url"       => "Το πεδίο :attribute δεν είναι αποδεκτή δν/ση URL.",
-    "after"            => "Το πεδίο :attribute μπορεί να είναι ημ/νία μετα από :date.",
-    "alpha"            => "Το πεδίο :attribute μπορεί να περιέχει μόνο από γράμματα.",
-    "alpha_dash"       => "Το πεδίο :attribute μπορεί να περιέχει μόνο από γράμματα, αριθμούς, και παύλες.",
+    "active_url"       => "Το πεδίο :attribute δεν είναι αποδεκτή δ/νση URL.",
+    "after"            => "Το πεδίο :attribute μπορεί να είναι μία ημ/νία μετά από :date.",
+    "alpha"            => "Το πεδίο :attribute μπορεί να περιέχει μόνο γράμματα.",
+    "alpha_dash"       => "Το πεδίο :attribute μπορεί να περιέχει μόνο γράμματα, αριθμούς, και παύλες.",
     "alpha_num"        => "Το πεδίο :attribute μπορεί να περιέχει μόνο γράμματα και αριθμούς.",
-    "array"            => "The :attribute must be an array.",
-    "before"           => "Το πεδίο :attribute πρέπει να είναι ημ/νία πρίν από :date.",
+    "array"            => "Το πεδίο :attribute πρέπει να είναι ένας πίνακας.",
+    "before"           => "Το πεδίο :attribute πρέπει να είναι μία ημ/νία πριν από :date.",
     "between"          => array(
         "numeric" => "Το πεδίο :attribute πρέπει να είναι μεταξύ :min - :max.",
         "file"    => "Το πεδίο :attribute πρέπει να είναι μεταξύ :min - :max kilobytes.",
         "string"  => "Το πεδίο :attribute πρέπει να είναι μεταξύ :min - :max χαρακτήρες.",
-        "array"   => "The :attribute must have between :min - :max items."
+        "array"   => "Το πεδίο :attribute πρέπει να έχει μεταξύ :min - :max αντικείμενα."
     ),
-    "confirmed"        => "Η επιβαιβέωση του :attribute δεν ταιριάζει.",
-    "date"             => "Το πεδίο :attribute δεν αποτελει αποδεκτή ημερομηνία.",
+    "confirmed"        => "Η επιβεβαίωση του :attribute δεν ταιριάζει.",
+    "date"             => "Το πεδίο :attribute δεν αποτελεί αποδεκτή ημερομηνία.",
     "date_format"      => "Το πεδίο :attribute δεν είναι της μορφής :format.",
     "different"        => "Το πεδίο :attribute και :other πρέπει να είναι διαφορετικά.",
     "digits"           => "Το πεδίο :attribute πρέπει να είναι :digits ψηφία.",
     "digits_between"   => "Το πεδίο :attribute πρέπει να είναι between :min and :max ψηφία.",
-    "email"            => "Το πεδίο :attribute δεν είναι αποδεκτή δν/ση email.",
+    "email"            => "Το πεδίο :attribute δεν είναι αποδεκτή δ/νση email.",
     "exists"           => "Το επιλεγμένο :attribute δεν είναι έγκυρο.",
     "image"            => "Το πεδίο :attribute πρέπει να είναι εικόνα.",
     "in"               => "Το επιλεγμένο :attribute δεν είναι έγκυρο.",
     "integer"          => "Το πεδίο :attribute πρέπει να είναι ακέραιος.",
     "ip"               => "Το πεδίο :attribute πρέπει να είναι αποδεκτή δ/νση IP.",
     "max"              => array(
-        "numeric" => "Το πεδίο :attribute πρέπει να είναι μικρότερο από :max.",
-        "file"    => "Το πεδίο :attribute πρέπει να είναι μικρότερο από :max kilobytes.",
-        "string"  => "Το πεδίο :attribute πρέπει να έχει λιγότερους από :max χαρακτήρες.",
-        "array"   => "The :attribute may not have more than :max items."
+        "numeric" => "Το πεδίο :attribute δεν μπορεί να είναι μεγαλύτερο από :max.",
+        "file"    => "Το πεδίο :attribute δεν μπορεί να είναι μεγαλύτερό :max kilobytes.",
+        "string"  => "Το πεδίο :attribute δεν μπορεί να είναι μεγαλύτερό :max χαρακτήρες.",
+        "array"   => "Το πεδίο :attribute δεν μπορεί να έχει περισσότερα από :max αντικείμενα."
     ),
     "mimes"            => "Το πεδίο :attribute πρέπει να είναι αρχείο με τύπο: :values.",
     "min"              => array(
         "numeric" => "Το πεδίο :attribute πρέπει να είναι τουλάχιστον :min.",
         "file"    => "Το πεδίο :attribute πρέπει να είναι τουλάχιστον :min kilobytes.",
         "string"  => "Το πεδίο :attribute πρέπει να έχει τουλάχιστον :min χαρακτήρες.",
-        "array"   => "The :attribute must have at least :min items."
+        "array"   => "Το πεδίο :attribute πρέπει να έχει τουλάχιστον :min αντικείμενα."
     ),
     "not_in"           => "Το επιλεγμένο :attribute δεν είναι αποδεκτό.",
     "numeric"          => "Το πεδίο :attribute πρέπει να είναι αριθμός.",
@@ -64,7 +64,7 @@ return array(
         "numeric" => "Το πεδίο :attribute πρέπει να είναι :size.",
         "file"    => "Το πεδίο :attribute πρέπει να είναι :size kilobytes.",
         "string"  => "Το πεδίο :attribute πρέπει να είναι :size χαρακτήρες.",
-        "array"   => "The :attribute must contain :size items."
+        "array"   => "Το πεδίο :attribute πρέπει να περιέχει :size αντικείμενα."
     ),
     "unique"           => "Το πεδίο :attribute έχει ήδη εκχωρηθεί.",
     "url"              => "Το πεδίο :attribute δεν είναι μία αποδεκτή δ/νση URL.",

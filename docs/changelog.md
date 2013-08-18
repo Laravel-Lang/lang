@@ -6,6 +6,10 @@ title: Changelog
 Changelog
 ---
 
+18 August 2013
+
+* Array elements (el) by [Konstantinos Pittas](https://github.com/kostaspt)
+
 14 August 2013
 
 * Array elements (tr) by [Sinan Eldem](https://github.com/sineld)

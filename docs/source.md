@@ -59,6 +59,7 @@ German (de)
 Greek (el)
 
 * [igaster](https://github.com/igaster)
+* [Konstantinos Pittas](https://github.com/kostaspt)
 
 Hebrew (he)
 

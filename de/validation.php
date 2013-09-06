@@ -40,15 +40,15 @@ return array(
     "integer"          => ":attribute muss eine ganze Zahl sein.",
     "ip"               => ":attribute muss eine gültige IP-Adresse sein.",
     "max"              => array(
-        "numeric" => ":attribute muss kleiner als :max sein.",
-        "file"    => ":attribute muss kleiner als :max Kilobytes groß sein.",
-        "string"  => ":attribute muss kürzer als :max Zeichen sein.",
+        "numeric" => ":attribute darf maximal :max sein.",
+        "file"    => ":attribute darf maximal :max Kilobytes groß sein.",
+        "string"  => ":attribute darf maximal :max Zeichen haben.",
         "array"   => ":attribute darf nicht mehr als :max Elemente haben."
     ),
     "mimes"            => ":attribute muss den Dateityp :values haben.",
     "min"              => array(
-        "numeric" => ":attribute muss größer als :min sein.",
-        "file"    => ":attribute muss größer als :min Kilobytes groß sein.",
+        "numeric" => ":attribute muss mindestens :min sein.",
+        "file"    => ":attribute muss mindestens :min Kilobytes groß sein.",
         "string"  => ":attribute muss mindestens :min Zeichen lang sein.",
         "array"   => ":attribute muss mindestens :min Elemente haben."
     ),
@@ -56,7 +56,7 @@ return array(
     "numeric"          => ":attribute muss eine Zahl sein.",
     "regex"            => ":attribute, das Format ist ungültig.",
     "required"         => ":attribute muss ausgefüllt sein.",
-    "required_if"      => ":attribute muss ausgefpllt sein whenn :other :value ist.",
+    "required_if"      => ":attribute muss ausgefüllt sein whenn :other :value ist.",
     "required_with"    => ":attribute muss angegeben werden wenn :values ausgefüllt wurde.",
     "required_without" => ":attribute muss angegeben werden wenn :values nicht ausgefüllt wurde.",
     "same"             => ":attribute und :other müssen übereinstimmen.",

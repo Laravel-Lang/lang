@@ -6,6 +6,10 @@ title: Changelog
 Changelog
 ---
 
+06 September 2013
+
+* Fix german (de) by [lanort](https://github.com/lanort)
+
 18 August 2013
 
 * Array elements (el) by [Konstantinos Pittas](https://github.com/kostaspt)

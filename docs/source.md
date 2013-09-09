@@ -54,6 +54,7 @@ German (de)
 
 * [iflow](https://github.com/iflow)
 * [Jones](https://github.com/JN-Jones)
+* [lanort](https://github.com/lanort)
 * [Martin Hettiger](https://github.com/hettiger)
 
 Greek (el)

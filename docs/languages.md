@@ -10,7 +10,7 @@ Available languages
 |----------|:----------:|:------:|:---------------------:|
 | Albanian | sq | *partial* | *wait*
 | Arabic | ar | *partial* | OK
-| Brazilian | pt-BR | *partial* | *wait*
+| Brazilian | pt-BR | OK | *wait*
 | Bulgarian | bg | *partial* | *wait*
 | Chinese | zh-CN | *partial* | *wait*
 | Danish | da | *partial* | *wait*

@@ -6,6 +6,10 @@ title: Changelog
 Changelog
 ---
 
+19 September 2013
+
+* Array elements (pt-BR) by [insign](https://github.com/insign)
+
 06 September 2013
 
 * Fix german (de) by [lanort](https://github.com/lanort)

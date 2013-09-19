@@ -18,6 +18,7 @@ Arabic (ar)
 Brazilian (pt-BR)
 
 * [c0h1b4](https://github.com/c0h1b4)
+* [insign](https://github.com/insign)
 * [miguelbgouveia](https://github.com/miguelbgouveia)
 
 Bulgarian (bg)

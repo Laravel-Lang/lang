@@ -1,10 +1,5 @@
----
-layout: doc
-title: Languages
----
 
-Available languages
----
+## Languages
 
 | Language | Short name | Statut | Validation Attributes |
 |----------|:----------:|:------:|:---------------------:|

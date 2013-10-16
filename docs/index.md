@@ -1,9 +1,26 @@
 ---
-layout: doc
+layout: default
 title: Documentation
 ---
 
-Welcome
----
+{% include docs/index.md %}
 
-The site aims to be a comprehensive guide to Laravel4-lang, explain how to include these files in your Laravel 4 application, and how to help.
+<hr />
+
+{% include docs/installation.md %}
+
+<hr />
+
+{% include docs/languages.md %}
+
+<hr />
+
+{% include docs/contributing.md %}
+
+<hr />
+
+{% include docs/changelog.md %}
+
+<hr />
+
+{% include docs/source.md %}

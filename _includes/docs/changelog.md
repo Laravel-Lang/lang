@@ -1,10 +1,5 @@
----
-layout: doc
-title: Changelog
----
 
-Changelog
----
+## Changelog
 
 16 October 2013
 

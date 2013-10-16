@@ -1,10 +1,4 @@
----
-layout: doc
-title: Sources
----
-
-Sources
----
+## Sources
 
 Albanian (sq)
 

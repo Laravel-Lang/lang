@@ -15,6 +15,10 @@ Arabic (ar)
 * [Ammar Alakkad](https://github.com/AAlakkad)
 * [Ibrahim AshShohail](https://github.com/laheab)
 
+Bosnian (bs)
+
+* [mrakodol](https://github.com/mrakodol)
+
 Brazilian (pt-BR)
 
 * [c0h1b4](https://github.com/c0h1b4)
@@ -57,6 +61,7 @@ German (de)
 * [Jones](https://github.com/JN-Jones)
 * [lanort](https://github.com/lanort)
 * [Martin Hettiger](https://github.com/hettiger)
+* [nullEuro](https://github.com/nullEuro)
 
 Greek (el)
 

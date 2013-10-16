@@ -6,6 +6,18 @@ title: Changelog
 Changelog
 ---
 
+16 October 2013
+
+* Add Bosnian (bs) by [mrakodol](https://github.com/mrakodol)
+
+01 October 2013
+
+* Fix German (de) by [nullEuro](https://github.com/nullEuro)
+
+20 Septembre 2013
+
+* Fix Portuguese (pt) by [miguelbgouveia](https://github.com/miguelbgouveia)
+
 19 September 2013
 
 * Array elements (pt-BR) by [insign](https://github.com/insign)

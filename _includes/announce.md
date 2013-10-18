@@ -1,1 +1,1 @@
-16 October 2013 : Add Bosnian (bs)
+18 October 2013 : Fix Russian (ru)

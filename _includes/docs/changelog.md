@@ -1,6 +1,10 @@
 
 ## Changelog
 
+18 October 2013
+
+* Fix Russian (ru) by [Vasily Tsybenko](https://github.com/VasayXTX)
+
 16 October 2013
 
 * Add Bosnian (bs) by [mrakodol](https://github.com/mrakodol)

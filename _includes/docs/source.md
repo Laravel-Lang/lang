@@ -99,6 +99,7 @@ Romanian (ro)
 Russian (ru)
 
 * [Evgeny Kovalev](https://github.com/EvgenyKovalev)
+* [Vasily Tsybenko](https://github.com/VasayXTX)
 
 Serbian (sr)
 

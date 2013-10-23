@@ -19,13 +19,13 @@ return array(
     "alpha"            => "ข้อมูล :attribute ต้องเป็นตัวอักษรภาษาอังกฤษเท่านั้น",
     "alpha_dash"       => "ข้อมูล :attribute ต้องเป็นตัวอักษรภาษาอังกฤษ ตัวเลข และ _ เท่านั้น",
     "alpha_num"        => "ข้อมูล :attribute ต้องเป็นตัวอักษรภาษาอังกฤษ ตัวเลข เท่านั้น",
-    "array"            => "The :attribute must be an array.",
+    "array"            => "ข้อมูล :attribute ต้องเป็น array เท่านั้น",
     "before"           => "ข้อมูล :attribute ต้องเป็นวันที่ก่อน :date.",
     "between"          => array(
         "numeric" => "ข้อมูล :attribute ต้องอยู่ในช่วงระหว่าง :min - :max.",
         "file"    => "ข้อมูล :attribute ต้องอยู่ในช่วงระหว่าง :min - :max กิโลไบร์ท",
         "string"  => "ข้อมูล :attribute ต้องอยู่ในช่วงระหว่าง :min - :max ตัวอักษร",
-        "array"   => "The :attribute must have between :min - :max items."
+        "array"   => "ข้อมูล :attribute ต้องอยู่ในช่วงระหว่าง :min - :max ค่า"
     ),
     "confirmed"        => "ข้อมูล :attribute ไม่ตรงกัน",
     "date"             => "ข้อมูล :attribute ต้องเป็นวันที่",
@@ -34,23 +34,23 @@ return array(
     "digits"           => "ข้อมูล :attribute ต้องเป็น :digits",
     "digits_between"   => "ข้อมูล :attribute ต้องอยู่ในช่วง :min and :max",
     "email"            => "ข้อมูล :attribute ต้องเป็นอีเมล์",
-    "exists"           => "ข้อมูล ที่ถูกเลือกจาก :attribute ไม่ถูกต้อง.",
+    "exists"           => "ข้อมูล ที่ถูกเลือกจาก :attribute ไม่ถูกต้อง",
     "image"            => "ข้อมูล :attribute ต้อง้ป็นรูปภาพ",
-    "in"               => "ข้อมูล ที่ถูกเลือกใน :attribute ไม่ถูกต้อง.",
+    "in"               => "ข้อมูล ที่ถูกเลือกใน :attribute ไม่ถูกต้อง",
     "integer"          => "ข้อมูล :attribute ต้องเป็นตัวเลข",
     "ip"               => "ข้อมูล :attribute ต้องเป็น IP",
     "max"              => array(
         "numeric" => "ข้อมูล :attribute ต้องมีจำนวนไม่เกิน :max.",
         "file"    => "ข้อมูล :attribute ต้องมีจำนวนไม่เกิน :max กิโลไบร์ท",
         "string"  => "ข้อมูล :attribute ต้องมีจำนวนไม่เกิน :max ตัวอักษร",
-        "array"   => "The :attribute may not have more than :max items."
+        "array"   => "ข้อมูล :attribute ต้องมีจำนวนไม่เกิน :max ค่า"
     ),
     "mimes"            => "ข้อมูล :attribute ต้องเป็นชนิดไฟล์: :values.",
     "min"              => array(
         "numeric" => "ข้อมูล :attribute ต้องมีจำนวนอย่างน้อย :min.",
         "file"    => "ข้อมูล :attribute ต้องมีจำนวนอย่างน้อย :min กิโลไบร์ท",
         "string"  => "ข้อมูล :attribute ต้องมีจำนวนอย่างน้อย :min ตัวอักษร",
-        "array"   => "The :attribute must have at least :min items."
+        "array"   => "ข้อมูล :attribute ต้องมีจำนวนอย่างน้อย :min ค่า"
     ),
     "not_in"           => "ข้อมูล ที่เลือกจาก :attribute ไม่ถูกต้อง",
     "numeric"          => "ข้อมูล :attribute ต้องเป็นตัวเลข",
@@ -64,7 +64,7 @@ return array(
         "numeric" => "ข้อมูล :attribute ต้องเท่ากับ :size.",
         "file"    => "ข้อมูล :attribute ต้องเท่ากับ :size กิโลไบร์ท",
         "string"  => "ข้อมูล :attribute ต้องเท่ากับ :size ตัวอักษร",
-        "array"   => "The :attribute must contain :size items."
+        "array"   => "ข้อมูล :attribute ต้องเท่ากับ :size ค่า"
     ),
     "unique"           => "ข้อมูล :attribute ไม่สามารถใช้ได้",
     "url"              => "ข้อมูล :attribute ไม่ถูกต้อง",

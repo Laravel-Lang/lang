@@ -27,7 +27,7 @@
 | Serbian | sr | *partial* | *wait*
 | Spanish | es | OK | *wait*
 | Swedish | sv | *partial* | *wait*
-| Thai | th | *partial* | *wait*
+| Thai | th | OK | *wait*
 | Traditional Chinese (Hong Kong) | zh-HK | *partial* | *wait*
 | Turkish | tr | OK | *wait*
 | Vietnamese | vi | OK | *wait*

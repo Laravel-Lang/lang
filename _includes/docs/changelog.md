@@ -1,6 +1,10 @@
 
 ## Changelog
 
+23 October 2013
+
+* Array elements (th) by [chotikarn](https://github.com/chotikarn)
+
 18 October 2013
 
 * Fix Russian (ru) by [Vasily Tsybenko](https://github.com/VasayXTX)

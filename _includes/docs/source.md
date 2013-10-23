@@ -116,6 +116,7 @@ Swedish (sv)
 
 Thai (th)
 
+* [chotikarn](https://github.com/chotikarn)
 * [Teepluss](https://github.com/teepluss)
 
 Traditional Chinese (Hong Kong) (zh-HK)

@@ -1,1 +1,1 @@
-18 October 2013 : Fix Russian (ru)
+23 October 2013 : Add Array (th)

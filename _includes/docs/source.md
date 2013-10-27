@@ -84,6 +84,10 @@ Japanese (ja)
 
 * [Hirohisa Kawase](https://github.com/HiroKws)
 
+Norwegian Bokmål (nb)
+
+* [Marius](https://github.com/mariuso)
+
 Polish (pl)
 
 * [anojszewski](https://github.com/anojszewski)

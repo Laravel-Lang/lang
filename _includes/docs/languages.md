@@ -20,6 +20,7 @@
 | Indonesian | id | *partial* | *wait*
 | Italian | it | *partial* | *wait*
 | Japanese | jp | *partial* | *wait*
+| Norwegian Bokmål | nb | OK | *wait*
 | Polish | pl | *partial* | *wait*
 | Portuguese | pt | *partial* | *wait*
 | Romanian | ro | *partial* | *wait*

@@ -1,6 +1,10 @@
 
 ## Changelog
 
+27 October 2013
+
+* Add Norwegian Bokmål (nb) by [Marius](https://github.com/mariuso)
+
 23 October 2013
 
 * Array elements (th) by [chotikarn](https://github.com/chotikarn)

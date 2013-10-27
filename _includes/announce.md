@@ -1,1 +1,1 @@
-23 October 2013 : Add Array (th)
+27 October 2013 : Add Norwegian Bokmål (nb)

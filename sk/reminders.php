@@ -13,7 +13,7 @@ return array(
     |
     */
 
-    "password" => "Heslo musí obsahovať šesť znakov a zhodovať sa.",
+    "password" => "Heslo sa musí zhodovať a obsahovať najmenej šesť znakov.",
 
     "user"     => "Nepodarilo sa nájsť používateľa s touto e-mailovou adresou.",
 

@@ -17,7 +17,7 @@ return array(
     "active_url"       => ":attribute er ikke en gyldig URL.",
     "after"            => ":attribute må være en dato etter :date.",
     "alpha"            => ":attribute må kun bestå av bokstaver.",
-    "alpha_dash"       => ":attribute må kun bestå av bokstaver, tall og bindestreger.",
+    "alpha_dash"       => ":attribute må kun bestå av bokstaver, tall og bindestreker.",
     "alpha_num"        => ":attribute må kun bestå av bokstaver og tall.",
     "array"            => ":attribute må være en matrise.",
     "before"           => ":attribute må være en dato før :date.",

@@ -58,7 +58,7 @@ return array(
     "required"         => ":attribute je požadované.",
     "required_if"      => ":attribute je požadované keď :other je :value.",
     "required_with"    => ":attribute je požadované keď :values je prítomné.",
-    "required_without" => ":attribute je požadované keď :values is not present.",
+    "required_without" => ":attribute je požadované keď :values nie je prítomné.",
     "same"             => ":attribute a :other sa musia zhodovať.",
     "size"             => array(
         "numeric" => ":attribute musí mať :size.",

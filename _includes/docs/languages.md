@@ -24,8 +24,9 @@
 | Polish | pl | *partial* | *wait*
 | Portuguese | pt | *partial* | *wait*
 | Romanian | ro | *partial* | *wait*
-| Russian | ru | OK | *partial*
+| Russian | ru | OK | *wait*
 | Serbian | sr | *partial* | *wait*
+| Slovak | sk | OK | *wait*
 | Spanish | es | OK | *wait*
 | Swedish | sv | *partial* | *wait*
 | Thai | th | OK | *wait*

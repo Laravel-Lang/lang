@@ -1,6 +1,10 @@
 
 ## Changelog
 
+30 October 2013
+
+* Add Slovak (sk) by [Martin Olšanský](https://github.com/MartinOlsansky)
+
 27 October 2013
 
 * Add Norwegian Bokmål (nb) by [Marius](https://github.com/mariuso)

@@ -109,6 +109,10 @@ Serbian (sr)
 
 * [Dejan Geci](https://github.com/dejangeci)
 
+Slovak (sk)
+
+* [Martin Olšanský](https://github.com/MartinOlsansky)
+
 Spanish (es)
 
 * [Nikolas](https://github.com/nikoskip)

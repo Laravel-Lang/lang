@@ -1,1 +1,1 @@
-27 October 2013 : Add Norwegian Bokmål (nb)
+30 October 2013 : Add Slovak (sk)

@@ -27,6 +27,10 @@ Chinese (zh-CN)
 
 * [phoenixg](https://github.com/phoenixg)
 
+Czech (cs)
+
+* [rozklad](https://github.com/rozklad)
+
 Danish (da)
 
 * [Andreas Heiberg](https://github.com/AndreasHeiberg)

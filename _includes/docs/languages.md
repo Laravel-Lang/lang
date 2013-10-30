@@ -9,6 +9,7 @@
 | Brazilian | pt-BR | OK | *wait*
 | Bulgarian | bg | *partial* | *wait*
 | Chinese | zh-CN | *partial* | *wait*
+| Czech | cs | OK | *wait*
 | Danish | da | *partial* | *wait*
 | Dutch | nl | OK | *wait*
 | Finnish | fi | *partial* | *wait*

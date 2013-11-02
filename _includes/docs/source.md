@@ -88,6 +88,10 @@ Japanese (ja)
 
 * [Hirohisa Kawase](https://github.com/HiroKws)
 
+Korean (ko)
+
+* [Kaden Lee](https://github.com/thisiskaden)
+
 Norwegian Bokmål (nb)
 
 * [Marius](https://github.com/mariuso)

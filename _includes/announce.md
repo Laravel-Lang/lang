@@ -1,1 +1,1 @@
-30 October 2013 : Add Slovak (sk) and Czech (cs)
+02 November 2013 : Add Korean (ko)

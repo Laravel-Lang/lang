@@ -1,9 +1,14 @@
 
 ## Changelog
 
+02 November 2013
+
+* Add Korean (ko) by [Kaden Lee](https://github.com/thisiskaden)
+
 30 October 2013
 
 * Add Slovak (sk) by [Martin Olšanský](https://github.com/MartinOlsansky)
+* Add Czech (cs) by [rozklad](https://github.com/rozklad)
 
 27 October 2013
 

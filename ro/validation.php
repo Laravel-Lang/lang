@@ -7,66 +7,62 @@ return array(
     | Validation Language Lines
     |--------------------------------------------------------------------------
     |
-    | The following language lines contain the default error messages used by
-    | the validator class. Some of these rules have multiple versions such
-    | such as the size rules. Feel free to tweak each of these messages.
+    | following language lines contain default error messages used by
+    | validator class. Some of these rules have multiple versions such
+    | such as size rules. Feel free to tweak each of these messages.
     |
     */
-    "accepted"         => "Campul :attribute trebuie sa fie acceptat.",
-    "active_url"       => "Campul :attribute nu este un URL valid.",
-    "after"            => "Campul :attribute trebuie sa fie o data dupa :date.",
-    "alpha"            => "Campul :attribute poate contine numai litere.",
-    "alpha_dash"       => "Campul :attribute poate contine numai litere, numere si liniute.",
-    "alpha_num"        => "Campul :attribute poate contine numai litere si numere.",
-    "array"            => "The :attribute must be an array.",
-    "before"           => "Campul :attribute trebuie sa fie o data inainte de :date.",
+
+    "accepted"         => ":attribute trebuie să fie acceptat.",
+    "active_url"       => ":attribute nu este o adresă URL validă.",
+    "after"            => ":attribute trebuie să fie o dată după :date.",
+    "alpha"            => ":attribute poate conține doar litere.",
+    "alpha_dash"       => ":attribute poate conține doar litere, numere și cratime.",
+    "alpha_num"        => ":attribute poate conține doar litere și numere.",
+    "before"           => ":attribute trebuie să fie o dată înainte de :date.",
     "between"          => array(
-        "numeric" => "Campul :attribute trebuie sa fie intre :min si :max.",
-        "file"    => "Campul :attribute trebuie sa fie intre :min si :max kilobytes.",
-        "string"  => "Campul :attribute trebuie sa fie intre :min si :max caractere.",
-        "array"   => "The :attribute must have between :min - :max items."
+        "numeric" => ":attribute trebuie să fie între :min - :max.",
+        "file"    => ":attribute trebuie să fie între :min - :max kilobiți.",
+        "string"  => ":attribute trebuie să fie între :min - :max caractere.",
     ),
-    "confirmed"        => "Confirmarea :attribute nu se potriveste.",
-    "date"             => "The :attribute is not a valid date.",
-    "date_format"      => "Campul :attribute trebuie sa fie intr-un format valid.",
-    "different"        => "Campurile :attribute si :other trebuie sa fie diferite.",
-    "digits"           => "The :attribute must be :digits digits.",
-    "digits_between"   => "The :attribute must be between :min and :max digits.",
-    "email"            => "Formatul campului :attribute este invalid.",
-    "exists"           => "Campul :attribute selectat este invalid.",
-    "image"            => "Campul :attribute trebuie sa fie o imagine.",
-    "in"               => "Campul :attribute selectat este invalid.",
-    "integer"          => "Campul :attribute trebuie sa fie un numar intreg.",
-    "ip"               => "Campul :attribute trebuie sa fie o adresa IP valida.",
+    "confirmed"        => ":attribute confirmarea nu se potrivește.",
+    "date"             => ":attribute nu este o dată validă.",
+    "date_format"      => ":attribute nu se potrivește cu formatul :format.",
+    "different"        => ":attribute și :other trebuie să fie diferite.",
+    "digits"           => ":attribute trebuie să fie de :digits cifre.",
+    "digits_between"   => ":attribute trebuie să fie between :min și :max cifre.",
+    "email"            => ":attribute formatul nu este valid.",
+    "exists"           => ":attribute există deja.",
+    "image"            => ":attribute trebuie să fie an image.",
+    "in"               => ":attribute nu este valid.",
+    "integer"          => ":attribute trebuie să fie un număr întreg.",
+    "ip"               => ":attribute trebuie să fie o adresă IP validă.",
     "max"              => array(
-        "numeric" => "Campul :attribute trebuie sa fie mai mic de :max.",
-        "file"    => "Campul :attribute trebuie sa fie mai mic de :max kilobytes.",
-        "string"  => "Campul :attribute trebuie sa fie mai mic de :max caractere.",
-        "array"   => "The :attribute may not have more than :max items."
+        "numeric" => ":attribute nu poate fi mai mare decât :max.",
+        "file"    => ":attribute nu poate fi mai mare decât :max kilobiți.",
+        "string"  => ":attribute nu poate fi mai mare decât :max caractere.",
     ),
-    "mimes"            => "Campul :attribute trebuie sa fie un fisier de tipul: :values.",
+    "mimes"            => ":attribute trebuie să fie un fișier de tip: :values.",
     "min"              => array(
-        "numeric" => "Campul :attribute trebuie sa fie cel putin :min.",
-        "file"    => "Campul :attribute trebuie sa aiba cel putin :min kilobytes.",
-        "string"  => "Campul :attribute trebuie sa aiba cel putin :min caractere.",
-        "array"   => "The :attribute must have at least :min items."
+        "numeric" => ":attribute trebuie să fie de cel puțin :min.",
+        "file"    => ":attribute trebuie să fie de cel puțin :min kilobiți.",
+        "string"  => ":attribute trebuie să fie de cel puțin :min caractere.",
     ),
-    "not_in"           => "Campul :attribute selectat este invalid.",
-    "numeric"          => "Campul :attribute trebuie sa fie un numar.",
-    "regex"            => "The :attribute format is invalid.",
-    "required"         => "Campul :attribute este obligatoriu.",
-    "required_if"      => "The :attribute field is required when :other is :value.",
-    "required_with"    => "The :attribute field is required when :values is present.",
-    "required_without" => "The :attribute field is required when :values is not present.",
-    "same"             => "Campul :attribute si :other trebuie sa fie identice.",
+    "not_in"           => ":attribute selectat nu este valid.",
+    "numeric"          => ":attribute trebuie să fie un număr.",
+    "regex"            => ":attribute formatul nu este valid.",
+    "required"         => ":attribute câmpul este necesar.",
+    "required_if"      => ":attribute câmpul este necesar atunci când :other e :value.",
+    "required_with"    => ":attribute câmpul este necesar atunci când :values e prezent.",
+    "required_without" => ":attribute câmpul este necesar atunci când :values nu e prezent.",
+    "same"             => ":attribute și :other trebuie să se potrivească.",
     "size"             => array(
-        "numeric" => "Campul :attribute trebuie sa fie :size.",
-        "file"    => "Campul :attribute trebuie sa aiba :size kilobyte.",
-        "string"  => "Campul :attribute trebuie sa aiba :size caractere.",
-        "array"   => "The :attribute must contain :size items."
+        "numeric" => ":attribute trebuie să fie :size.",
+        "file"    => ":attribute trebuie să fie :size kilobiți.",
+        "string"  => ":attribute trebuie să fie :size caractere.",
     ),
-    "unique"           => "Campul :attribute a fost deja folosit.",
-    "url"              => "Campul :attribute nu este intr-un format valid.",
+    "unique"           => ":attribute a fost deja luat.",
+    "url"              => ":attribute formatul nu este valid.",
 
     /*
     |--------------------------------------------------------------------------
@@ -74,7 +70,7 @@ return array(
     |--------------------------------------------------------------------------
     |
     | Here you may specify custom validation messages for attributes using the
-    | convention "attribute.rule" to name the lines. This makes it quick to
+    | convention "attribute.rule" to name lines. This makes it quick to
     | specify a specific custom language line for a given attribute rule.
     |
     */
@@ -86,7 +82,7 @@ return array(
     | Custom Validation Attributes
     |--------------------------------------------------------------------------
     |
-    | The following language lines are used to swap attribute place-holders
+    | following language lines are used to swap attribute place-holders
     | with something more reader friendly such as E-Mail Address instead
     | of "email". This simply helps us make messages a little cleaner.
     |

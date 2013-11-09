@@ -8,8 +8,8 @@ return array(
     |--------------------------------------------------------------------------
     |
     | The following language lines contain the default error messages used by
-    | the validator class. Some of these rules have multiple verșions such
-    | such as the șize rules. Feel free to tweak each of these messages.
+    | the validator class. Some of these rules have multiple versions such
+    | such as the size rules. Feel free to tweak each of these messages.
     |
     */
     "accepted"         => "Câmpul :attribute trebuie să fie acceptat.",
@@ -59,11 +59,11 @@ return array(
     "required_with"    => "Câmpul :attribute este necesar atunci cand :values e prezent.",
     "required_without" => "Câmpul :attribute este necesar atunci cand :values nu este prezent.",
     "same"             => "Câmpul :attribute și :other trebuie să fie identice.",
-    "șize"             => array(
-        "numeric" => "Câmpul :attribute trebuie să fie :șize.",
-        "file"    => "Câmpul :attribute trebuie să aibă :șize kilobyte.",
-        "string"  => "Câmpul :attribute trebuie să aibă :șize caractere.",
-        "array"   => "Câmpul :attribute trebuie sa conțina :șize elemente."
+    "size"             => array(
+        "numeric" => "Câmpul :attribute trebuie să fie :size.",
+        "file"    => "Câmpul :attribute trebuie să aibă :size kilobyte.",
+        "string"  => "Câmpul :attribute trebuie să aibă :size caractere.",
+        "array"   => "Câmpul :attribute trebuie sa conțina :size elemente."
     ),
     "unique"           => "Câmpul :attribute a fost deja foloșit.",
     "url"              => "Câmpul :attribute nu este intr-un format valid.",
@@ -73,7 +73,7 @@ return array(
     | Custom Validation Language Lines
     |--------------------------------------------------------------------------
     |
-    | Here you may specify custom validation messages for attributes ușing the
+    | Here you may specify custom validation messages for attributes using the
     | convention "attribute.rule" to name the lines. This makes it quick to
     | specify a specific custom language line for a given attribute rule.
     |
@@ -88,7 +88,7 @@ return array(
     |
     | The following language lines are used to swap attribute place-holders
     | with something more reader friendly such as E-Mail Address instead
-    | of "email". This șimply helps us make messages a little cleaner.
+    | of "email". This simply helps us make messages a little cleaner.
     |
     */
 

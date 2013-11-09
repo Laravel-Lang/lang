@@ -13,11 +13,11 @@ return array(
     |
     */
     "accepted"         => ":attribute deve essere accettato.",
-    "active_url"       => ":attribute non &egrave; un URL valido.",
+    "active_url"       => ":attribute non è un URL valido.",
     "after"            => ":attribute deve essere una data successiva al :date.",
-    "alpha"            => ":attribute pu&ograve; contenere solo lettere.",
-    "alpha_dash"       => ":attribute pu&ograve; contenere solo numeri lettere e dashes.",
-    "alpha_num"        => ":attribute pu&ograve; contenere solo lettere e numeri.",
+    "alpha"            => ":attribute può contenere solo lettere.",
+    "alpha_dash"       => ":attribute può contenere solo numeri lettere e dashes.",
+    "alpha_num"        => ":attribute può contenere solo lettere e numeri.",
     "array"            => ":attribute deve essere un array.",
     "before"           => ":attribute deve essere una data che precede :date.",
     "between"          => array(
@@ -32,29 +32,29 @@ return array(
     "different"        => ":attribute e :other devono essere differenti.",
     "digits"           => ":attribute deve essere di :digits cifre.",
     "digits_between"   => " :attribute deve essere tra :min e :max cifre.",
-    "email"            => ":attribute non &egrave; valido.",
-    "exists"           => ":attribute selezionato/a non &egrave; valido.",
+    "email"            => ":attribute non è valido.",
+    "exists"           => ":attribute selezionato/a non è valido.",
     "image"            => ":attribute deve essere un'immagine.",
-    "in"               => ":attribute selezionato non &egrave; valido.",
+    "in"               => ":attribute selezionato non è valido.",
     "integer"          => ":attribute deve essere intero.",
     "ip"               => ":attribute deve essere un indirizzo IP valido.",
     "max"              => array(
         "numeric" => ":attribute deve essere minore di :max.",
-        "file"    => ":attribute non deve essere pi&ugrave grande di :max kilobytes.",
-        "string"  => ":attribute non pu&ograve; contenere pi&ugrave; di :max caratteri.",
+        "file"    => ":attribute non deve essere più grande di :max kilobytes.",
+        "string"  => ":attribute non può contenere più; di :max caratteri.",
         "array"   => ":attribute non può avere più di :max elementi."
     ),
     "mimes"            => ":attribute deve essere del tipo: :values.",
     "min"              => array(
         "numeric" => ":attribute deve valere almeno :min.",
-        "file"    => ":attribute deve essere pi&ugrave; grande di :min kilobytes.",
+        "file"    => ":attribute deve essere più; grande di :min kilobytes.",
         "string"  => ":attribute deve contenere almeno :min caratteri.",
-        "array"   => " :attribute deve avere almeno :min elementi."
+        "array"   => ":attribute deve avere almeno :min elementi."
     ),
-    "not_in"           => "Il valore selezionato per :attribute non &egrave; valido.",
+    "not_in"           => "Il valore selezionato per :attribute non è valido.",
     "numeric"          => ":attribute deve essere un numero.",
     "regex"            => "Il formato del campo :attribute è invalido.",
-    "required"         => ":attribute non pu&ograve; essere omesso.",
+    "required"         => ":attribute non può essere omesso.",
     "required_if"      => " Il campo :attribute è richiesto quando :other è :value.",
     "required_with"    => "Il campo :attribute è richiesto quando :values è presente.",
     "required_without" => "Il campo :attribute è richiesto quando :values non è presente.",
@@ -65,7 +65,7 @@ return array(
         "string"  => ":attribute deve contenere :size caratteri.",
         "array"   => ":attribute deve contenere :size elementi."
     ),
-    "unique"           => ":attribute &egrave; stato gi&agrave; usato.",
+    "unique"           => ":attribute è stato già usato.",
     "url"              => ":attribute deve essere un URL.",
 
     /*

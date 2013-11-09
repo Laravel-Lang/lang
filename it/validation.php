@@ -13,59 +13,59 @@ return array(
     |
     */
     "accepted"         => ":attribute deve essere accettato.",
-    "active_url"       => ":attribute non &egrave; un URL valido.",
+    "active_url"       => ":attribute non è un URL valido.",
     "after"            => ":attribute deve essere una data successiva al :date.",
-    "alpha"            => ":attribute pu&ograve; contenere solo lettere.",
-    "alpha_dash"       => ":attribute pu&ograve; contenere solo numeri lettere e dashes.",
-    "alpha_num"        => ":attribute pu&ograve; contenere solo lettere e numeri.",
-    "array"            => "The :attribute must be an array.",
+    "alpha"            => ":attribute può contenere solo lettere.",
+    "alpha_dash"       => ":attribute può contenere solo numeri lettere e dashes.",
+    "alpha_num"        => ":attribute può contenere solo lettere e numeri.",
+    "array"            => ":attribute deve essere un array.",
     "before"           => ":attribute deve essere una data che precede :date.",
     "between"          => array(
         "numeric" => ":attribute deve trovarsi tra :min - :max.",
         "file"    => ":attribute deve trovarsi tra :min - :max kilobytes.",
         "string"  => ":attribute deve trovarsi tra :min - :max caratteri.",
-        "array"   => "The :attribute must have between :min - :max items."
+        "array"   => ":attribute deve avere tra  :min - :max elementi."
     ),
     "confirmed"        => "Il campo di conferma per :attribute non coincide.",
-    "date"             => "The :attribute is not a valid date.",
-    "date_format"      => "The :attribute does not match the format :format.",
+    "date"             => ":attribute non è una data valida.",
+    "date_format"      => ":attribute con coincide con il formato :format.",
     "different"        => ":attribute e :other devono essere differenti.",
-    "digits"           => "The :attribute must be :digits digits.",
-    "digits_between"   => "The :attribute must be between :min and :max digits.",
-    "email"            => ":attribute non &egrave; valido.",
-    "exists"           => ":attribute selezionato/a non &egrave; valido.",
+    "digits"           => ":attribute deve essere di :digits cifre.",
+    "digits_between"   => " :attribute deve essere tra :min e :max cifre.",
+    "email"            => ":attribute non è valido.",
+    "exists"           => ":attribute selezionato/a non è valido.",
     "image"            => ":attribute deve essere un'immagine.",
-    "in"               => ":attribute selezionato non &egrave; valido.",
+    "in"               => ":attribute selezionato non è valido.",
     "integer"          => ":attribute deve essere intero.",
     "ip"               => ":attribute deve essere un indirizzo IP valido.",
     "max"              => array(
         "numeric" => ":attribute deve essere minore di :max.",
-        "file"    => ":attribute non deve essere pi&ugrave grande di :max kilobytes.",
-        "string"  => ":attribute non pu&ograve; contenere pi&ugrave; di :max caratteri.",
-        "array"   => "The :attribute may not have more than :max items."
+        "file"    => ":attribute non deve essere più grande di :max kilobytes.",
+        "string"  => ":attribute non può contenere più; di :max caratteri.",
+        "array"   => ":attribute non può avere più di :max elementi."
     ),
     "mimes"            => ":attribute deve essere del tipo: :values.",
     "min"              => array(
         "numeric" => ":attribute deve valere almeno :min.",
-        "file"    => ":attribute deve essere pi&ugrave; grande di :min kilobytes.",
+        "file"    => ":attribute deve essere più; grande di :min kilobytes.",
         "string"  => ":attribute deve contenere almeno :min caratteri.",
-        "array"   => "The :attribute must have at least :min items."
+        "array"   => ":attribute deve avere almeno :min elementi."
     ),
-    "not_in"           => "Il valore selezionato per :attribute non &egrave; valido.",
+    "not_in"           => "Il valore selezionato per :attribute non è valido.",
     "numeric"          => ":attribute deve essere un numero.",
-    "regex"            => "The :attribute format is invalid.",
-    "required"         => ":attribute non pu&ograve; essere omesso.",
-    "required_if"      => "The :attribute field is required when :other is :value.",
-    "required_with"    => "The :attribute field is required when :values is present.",
-    "required_without" => "The :attribute field is required when :values is not present.",
+    "regex"            => "Il formato del campo :attribute è invalido.",
+    "required"         => ":attribute non può essere omesso.",
+    "required_if"      => " Il campo :attribute è richiesto quando :other è :value.",
+    "required_with"    => "Il campo :attribute è richiesto quando :values è presente.",
+    "required_without" => "Il campo :attribute è richiesto quando :values non è presente.",
     "same"             => ":attribute e :other devono coincidere.",
     "size"             => array(
         "numeric" => ":attribute deve valere :size.",
         "file"    => ":attribute deve essere grande :size kilobyte.",
         "string"  => ":attribute deve contenere :size caratteri.",
-        "array"   => "The :attribute must contain :size items."
+        "array"   => ":attribute deve contenere :size elementi."
     ),
-    "unique"           => ":attribute &egrave; stato gi&agrave; usato.",
+    "unique"           => ":attribute è stato già usato.",
     "url"              => ":attribute deve essere un URL.",
 
     /*

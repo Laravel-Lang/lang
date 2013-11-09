@@ -82,6 +82,7 @@ Indonesian (id)
 
 Italian (it)
 
+* [Ionut Tanasa](https://github.com/ionut-tanasa)
 * [longilineo](https://github.com/longilineo)
 
 Japanese (ja)
@@ -107,6 +108,7 @@ Portuguese (pt)
 Romanian (ro)
 
 * [flavy](https://github.com/flavy)
+* [Ionut Tanasa](https://github.com/ionut-tanasa)
 
 Russian (ru)
 

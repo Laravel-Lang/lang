@@ -1,6 +1,10 @@
 
 ## Changelog
 
+09 Novembre 2013
+
+* Array elements (it) and (ro) by [Ionut Tanasa](https://github.com/ionut-tanasa)
+
 02 November 2013
 
 * Add Korean (ko) by [Kaden Lee](https://github.com/thisiskaden)

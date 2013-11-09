@@ -19,13 +19,13 @@
 | Hebrew | he | *partial* | *wait*
 | Hungarian | hu | *partial* | *wait*
 | Indonesian | id | *partial* | *wait*
-| Italian | it | *partial* | *wait*
+| Italian | it | OK | *wait*
 | Japanese | jp | *partial* | *wait*
 | Korean | ko | OK | *wait*
 | Norwegian Bokmål | nb | OK | *wait*
 | Polish | pl | *partial* | *wait*
 | Portuguese | pt | *partial* | *wait*
-| Romanian | ro | *partial* | *wait*
+| Romanian | ro | OK | *wait*
 | Russian | ru | OK | *wait*
 | Serbian | sr | *partial* | *wait*
 | Slovak | sk | OK | *wait*

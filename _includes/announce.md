@@ -1,1 +1,1 @@
-09 November 2013 : Array elements for Italian (it) and Romanian (ro)
+11 November 2013 : Add Catalan (ca)

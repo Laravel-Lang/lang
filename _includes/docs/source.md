@@ -23,6 +23,10 @@ Bulgarian (bg)
 
 * [Roumen Damianoff](https://github.com/RoumenDamianoff)
 
+Catalan (ca)
+
+* [David Moreno](https://github.com/davidmb91)
+
 Chinese (zh-CN)
 
 * [phoenixg](https://github.com/phoenixg)

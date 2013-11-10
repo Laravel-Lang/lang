@@ -1,6 +1,10 @@
 
 ## Changelog
 
+10 November 2013
+
+* Add Catalan (ca) by [David Moreno](https://github.com/davidmb91)
+
 09 Novembre 2013
 
 * Array elements (it) and (ro) by [Ionut Tanasa](https://github.com/ionut-tanasa)

@@ -13,10 +13,10 @@ return array(
     |
     */
 
-    "password" => "Las contraseñas deben contener al menos 6 caracteres y coincidir.",
+    "password" => "Les contrasenyes han de contenir almenys 6 caràcters i coincidir.",
 
-    "user"     => "No podemos encontrar a un usuario con ese correo electrónico.",
+    "user"     => "No podem trobar a un usuari amb aquest correu electrònic.",
 
-    "token"    => "Este token de recuperación de contraseña es inválido.",
+    "token"    => "Aquest token de recuperació de contrasenya és invàlid.",
 
 );

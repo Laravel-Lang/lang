@@ -97,6 +97,10 @@ Korean (ko)
 
 * [Kaden Lee](https://github.com/thisiskaden)
 
+Macedonian (mk)
+
+* [maced0n](https://github.com/maced0n)
+
 Norwegian Bokmål (nb)
 
 * [Marius](https://github.com/mariuso)

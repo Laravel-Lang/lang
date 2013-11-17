@@ -1,6 +1,10 @@
 
 ## Changelog
 
+18 November 2013
+
+* Add Macedonian (mk) by [maced0n](https://github.com/maced0n)
+
 10 November 2013
 
 * Add Catalan (ca) by [David Moreno](https://github.com/davidmb91)

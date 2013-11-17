@@ -23,6 +23,7 @@
 | Italian | it | OK
 | Japanese | jp | *partial*
 | Korean | ko | OK
+| Macedonian | mk | OK
 | Norwegian Bokmål | nb | OK
 | Polish | pl | *partial*
 | Portuguese | pt | *partial*

@@ -6,12 +6,19 @@ In this repository, you can find the lang files for the framework PHP, [Laravel 
 Find more informations on http://caouecs.github.io/Laravel4-lang/
 
 
+Laravel 4.0
+---
+
+We need your help to finish to translate `validation.php` file with array elements.
+
+You can follow translations in the issue [#73](https://github.com/caouecs/Laravel4-lang/issues/73).
+
 Laravel 4.1
 ---
 
-To be ready for the new version of Laravel, we need your help. In "reminders.php" file, a new line has been added :
+To be ready for the new version of Laravel, we need your help. In `reminders.php` file, a new line has been added :
 
-    "sent"     => "Password reminder sent!",
+    "sent" => "Password reminder sent!",
 
 You can follow translations in the issue [#137](https://github.com/caouecs/Laravel4-lang/issues/137).
 

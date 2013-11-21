@@ -19,4 +19,6 @@ return array(
 
 	"token"    => "해당 비밀번호 리셋 토큰은 유효하지 않습니다.",
 
+    "sent"     => "Password reminder sent!",
+
 );

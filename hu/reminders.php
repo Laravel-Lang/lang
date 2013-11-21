@@ -19,4 +19,6 @@ return array(
 
     "token"    => "Ez az új jelszó generálásához tartozó token érvénytelen.",
 
+    "sent"     => "Password reminder sent!",
+
 );

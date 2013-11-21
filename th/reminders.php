@@ -19,4 +19,6 @@ return array(
 
     "token"    => "ชุดรหัสสำหรับการเปลี่ยนรหัสผ่านไม่ถูกต้อง",
 
+    "sent"     => "Password reminder sent!",
+
 );

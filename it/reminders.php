@@ -19,4 +19,6 @@ return array(
 
     "token"    => "Questo token per la reimpostazione della password non è valido.",
 
+    "sent"     => "Password reminder sent!",
+
 );

@@ -19,4 +19,6 @@ return array(
 
     "token"    => "Este token de recuperación de contraseña es inválido.",
 
+    "sent"     => "Password reminder sent!",
+
 );

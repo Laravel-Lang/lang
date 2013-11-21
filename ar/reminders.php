@@ -19,4 +19,6 @@ return array(
 
     "token"    => "كود إعادة تعيين كلمة السر غير صالح.",
 
+    "sent"     => "Password reminder sent!",
+
 );

@@ -19,4 +19,6 @@ return array(
 
     "token"    => "Ce jeton de réinitialisation du mot de passe n'est pas valide.",
 
+    "sent"     => "Password reminder sent!",
+
 );

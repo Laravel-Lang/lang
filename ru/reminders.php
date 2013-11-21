@@ -19,4 +19,6 @@ return array(
 
     "token"    => "Ошибочный код сброса пароля.",
 
+    "sent"     => "Password reminder sent!",
+
 );

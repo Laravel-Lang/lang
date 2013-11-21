@@ -19,4 +19,6 @@ return array(
 
     "token"    => "密碼重設碼不正確。",
 
+    "sent"     => "Password reminder sent!",
+
 );

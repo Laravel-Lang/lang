@@ -5,6 +5,7 @@
 
 * Add reminders.sent in develop branch for Laravel 4.1
 * Update French (fr) by [Fred Delrieu](https://github.com/caouecs)
+* Update Russian (ru) by Evgeny Kovalev](https://github.com/EvgenyKovalev)
 
 18 November 2013
 

@@ -28,7 +28,7 @@
 | Polish | pl | *partial* | -- |
 | Portuguese | pt | *partial* | -- |
 | Romanian | ro | OK | -- |
-| Russian | ru | OK | -- |
+| Russian | ru | OK | OK |
 | Serbian | sr | *partial* | -- |
 | Slovak | sk | OK | -- |
 | Spanish | es | OK | -- |

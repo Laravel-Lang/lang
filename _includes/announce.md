@@ -1,1 +1,1 @@
-18 November 2013 : Add Macedonian (mk)
+21 November 2013 : Ready for Laravel 4.1 with reminders.sent

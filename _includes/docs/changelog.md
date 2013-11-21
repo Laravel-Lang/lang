@@ -1,6 +1,11 @@
 
 ## Changelog
 
+21 November 2013
+
+* Add reminders.sent in develop branch for Laravel 4.1
+* Update French (fr) by [Fred Delrieu](https://github.com/caouecs)
+
 18 November 2013
 
 * Add Macedonian (mk) by [maced0n](https://github.com/maced0n)

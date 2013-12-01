@@ -28,6 +28,6 @@ return array(
 
 	"token"    => "Mã reset mật khẩu không hợp lệ.",
 
-    "sent"     => "Password reminder sent!",
+    	"sent"     => "Cấp lại mật khẩu đã đuợc gửi!",
 
 );

@@ -19,6 +19,6 @@ return array(
 
     "token"    => "Aquest token de recuperació de contrasenya és invàlid.",
 
-    "sent"     => "Password reminder sent!",
+    "sent"     => "Recordatori de contrasenya enviat!",
 
 );

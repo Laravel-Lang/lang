@@ -32,7 +32,7 @@ return array(
     "date_format"      => ":attribute sa nezhoduje s formátom :format.",
     "different"        => ":attribute a :other musia byť odlišné.",
     "digits"           => ":attribute musí mať :digits číslic.",
-    "digits_between"   => ":attribute musí mať rozsah :min až :max číslic.",1
+    "digits_between"   => ":attribute musí mať rozsah :min až :max číslic.",
     "email"            => ":attribute má neplatný formát.",
     "exists"           => "označený :attribute je neplatný.",
     "image"            => ":attribute musí byť obrázok.",

@@ -19,6 +19,6 @@ return array(
 
     "token"    => "Το κλειδί αρχικοποίησης του password είναι λανθασμένο.",
 
-    "sent"     => "Password reminder sent!",
+    "sent"     => "Η υπενθύμιση του συνθηματικού εστάλη!",
 
 );

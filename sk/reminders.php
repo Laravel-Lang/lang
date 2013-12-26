@@ -19,4 +19,6 @@ return array(
 
     "token"    => "Tento resetovací token hesla je neplatný.",
 
+    "sent"     => "Password reminder sent!",
+
 );

@@ -19,4 +19,6 @@ return array(
 
     "token"    => "Koden för lösnordsåterställning är ej giltig.",
 
+    "sent"     => "Password reminder sent!",
+
 );

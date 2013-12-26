@@ -19,4 +19,6 @@ return array(
 
     "token"    => "Acest token de resetare a parolei este invalid.",
 
+    "sent"     => "Password reminder sent!",
+
 );

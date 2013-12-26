@@ -18,4 +18,6 @@ return array(
 
     "token" => "Ovaj token za resetovanje lozinke nije ispravan.",
 
+    "sent"     => "Password reminder sent!",
+
 );

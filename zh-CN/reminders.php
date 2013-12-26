@@ -19,4 +19,6 @@ return array(
 
     "token"    => "密码重置令牌无效。",
 
+    "sent"     => "Password reminder sent!",
+
 );

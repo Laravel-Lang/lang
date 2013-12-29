@@ -59,6 +59,7 @@ French (fr)
 
 German (de)
 
+* [Gerald Lindner](https://github.com/vauteer)
 * [iflow](https://github.com/iflow)
 * [Jones](https://github.com/JN-Jones)
 * [lanort](https://github.com/lanort)
@@ -67,6 +68,7 @@ German (de)
 
 Greek (el)
 
+* [dimsav](https://github.com/dimsav)
 * [igaster](https://github.com/igaster)
 * [Konstantinos Pittas](https://github.com/kostaspt)
 
@@ -86,6 +88,7 @@ Indonesian (id)
 
 Italian (it)
 
+* [alextesi](https://github.com/alextesi)
 * [Ionut Tanasa](https://github.com/ionut-tanasa)
 * [longilineo](https://github.com/longilineo)
 
@@ -133,6 +136,7 @@ Slovak (sk)
 
 Spanish (es)
 
+* [Javier Cadiz](https://github.com/cadizjavier)
 * [Nikolas](https://github.com/nikoskip)
 
 Swedish (sv)

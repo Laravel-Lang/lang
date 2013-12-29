@@ -1,39 +1,39 @@
 
 ## Languages
 
-| Language | Short name | Laravel 4 ready | Laravel 4.1 ready |
+| Language | Short name | Laravel 4.0 ready | Laravel 4.1 ready |
 |----------|:----------:|:------:|:--------------:|
-| Albanian | sq | *partial* | -- |
-| Arabic | ar | *partial* | -- |
+| Albanian | sq | -- | -- |
+| Arabic | ar | OK | OK |
 | Bosnian | bs | OK | -- |
 | Brazilian | pt-BR | OK | -- |
-| Bulgarian | bg | *partial* | -- |
-| Catalan | ca | OK | -- |
-| Chinese | zh-CN | *partial* | -- |
+| Bulgarian | bg | OK | OK |
+| Catalan | ca | OK | OK |
+| Chinese | zh-CN | -- | -- |
 | Czech | cs | OK | -- |
-| Danish | da | *partial* | -- |
+| Danish | da | -- | -- |
 | Dutch | nl | OK  | -- |
-| Finnish | fi | *partial*  | -- |
-| French | fr | OK | OK
-| German | de | OK | -- |
-| Greek | el | OK | -- |
-| Hebrew | he | *partial* | -- |
-| Hungarian | hu | *partial* | -- |
-| Indonesian | id | *partial* | -- |
-| Italian | it | OK | -- |
-| Japanese | jp | *partial* | -- |
+| Finnish | fi | --  | -- |
+| French | fr | OK | OK |
+| German | de | OK | OK |
+| Greek | el | OK | OK |
+| Hebrew | he | -- | -- |
+| Hungarian | hu | -- | -- |
+| Indonesian | id | -- | -- |
+| Italian | it | OK | OK |
+| Japanese | jp | -- | -- |
 | Korean | ko | OK | -- |
 | Macedonian | mk | OK | -- |
 | Norwegian Bokmål | nb | OK | -- |
-| Polish | pl | *partial* | -- |
-| Portuguese | pt | *partial* | -- |
+| Polish | pl | -- | -- |
+| Portuguese | pt | OK | OK |
 | Romanian | ro | OK | -- |
 | Russian | ru | OK | OK |
-| Serbian | sr | *partial* | -- |
+| Serbian | sr | -- | -- |
 | Slovak | sk | OK | -- |
-| Spanish | es | OK | -- |
-| Swedish | sv | *partial* | -- |
+| Spanish | es | OK | OK |
+| Swedish | sv | -- | -- |
 | Thai | th | OK | -- |
-| Traditional Chinese (Hong Kong) | zh-HK | *partial* | -- |
+| Traditional Chinese (Hong Kong) | zh-HK | -- | -- |
 | Turkish | tr | OK | -- |
-| Vietnamese | vi | OK | -- |
+| Vietnamese | vi | OK | OK |

@@ -1,11 +1,45 @@
 
 ## Changelog
 
+29 December 2013
+
+* Update Italian (it) for Laravel 4.1 by [alextesi](https://github.com/alextesi)
+
+28 December 2013
+
+* Update German (de) for Laravel 4.1 by [Gerald Lindner](https://github.com/vauteer)
+
+23 December 2013
+
+* Update Greek (el) for Laravel 4.1 by [dimsav](https://github.com/dimsav)
+
+17 December 2013
+
+* Fix Spanish (es) by [Javier Cadiz](https://github.com/cadizjavier)
+
+16 December 2013
+
+* Fix Slovak (sk) by [Roumen Damianoff](https://github.com/RoumenDamianoff)
+* Update Bulgarian (bg) for Laravel 4.0 and Laravel 4.1 by [Roumen Damianoff](https://github.com/RoumenDamianoff)
+
+15 December 2013
+
+* Update Arabic (ar) for Laravel 4.1 by [Ammar Alakkad](https://github.com/AAlakkad)
+
+12 December 2013
+
+* Update Catalan (ca) and Spanish (es) for Laravel 4.1 by [David Moreno](https://github.com/davidmb91)
+* Update Portuguese (pt) for Laravel 4.1 by [miguelbgouveia](https://github.com/miguelbgouveia)
+
+01 December 2013
+
+* Update Vietnamese (vi) for Laravel 4.1 by [anhsaker](https://github.com/anhsaker)
+
 21 November 2013
 
 * Add reminders.sent in develop branch for Laravel 4.1
 * Update French (fr) by [Fred Delrieu](https://github.com/caouecs)
-* Update Russian (ru) by Evgeny Kovalev](https://github.com/EvgenyKovalev)
+* Update Russian (ru) by [Evgeny Kovalev](https://github.com/EvgenyKovalev)
 
 18 November 2013
 

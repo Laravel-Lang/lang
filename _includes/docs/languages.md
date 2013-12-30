@@ -10,7 +10,7 @@
 | Bulgarian | bg | OK | OK |
 | Catalan | ca | OK | OK |
 | Chinese | zh-CN | -- | -- |
-| Czech | cs | OK | -- |
+| Czech | cs | OK | OK |
 | Danish | da | -- | -- |
 | Dutch | nl | OK  | -- |
 | Finnish | fi | --  | -- |

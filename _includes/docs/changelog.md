@@ -1,6 +1,10 @@
 
 ## Changelog
 
+30 December 2013
+
+* Update Czech (cs) for Laravel 4.1 by [rozklad](https://github.com/rozklad)
+
 29 December 2013
 
 * Update Italian (it) for Laravel 4.1 by [alextesi](https://github.com/alextesi)

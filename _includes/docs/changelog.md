@@ -1,6 +1,11 @@
 
 ## Changelog
 
+04 January 2014
+
+* Update Turkish (tr) for Laravel 4.1 by [Arda Kılıçdağı](https://github.com/Ardakilic)
+* Update Polish (pl) for Laravel 4.0 and 4.1 by [Marcin Sągol](https://github.com/soee)
+
 30 December 2013
 
 * Update Czech (cs) for Laravel 4.1 by [rozklad](https://github.com/rozklad)

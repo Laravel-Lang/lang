@@ -25,7 +25,7 @@
 | Korean | ko | OK | -- |
 | Macedonian | mk | OK | -- |
 | Norwegian Bokmål | nb | OK | -- |
-| Polish | pl | -- | -- |
+| Polish | pl | OK | OK |
 | Portuguese | pt | OK | OK |
 | Romanian | ro | OK | -- |
 | Russian | ru | OK | OK |
@@ -35,5 +35,5 @@
 | Swedish | sv | -- | -- |
 | Thai | th | OK | -- |
 | Traditional Chinese (Hong Kong) | zh-HK | -- | -- |
-| Turkish | tr | OK | -- |
+| Turkish | tr | OK | OK |
 | Vietnamese | vi | OK | OK |

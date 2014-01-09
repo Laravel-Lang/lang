@@ -111,6 +111,7 @@ Norwegian Bokmål (nb)
 Polish (pl)
 
 * [anojszewski](https://github.com/anojszewski)
+* [Marcin Sągol](https://github.com/soee)
 
 Portuguese (pt)
 
@@ -155,6 +156,7 @@ Traditional Chinese (Hong Kong) (zh-HK)
 
 Turkish (tr)
 
+* [Arda Kılıçdağı](https://github.com/Ardakilic)
 * [pellempus](https://github.com/pellempus)
 * [Sinan Eldem](https://github.com/sineld)
 

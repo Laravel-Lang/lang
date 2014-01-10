@@ -12,7 +12,7 @@
 | Chinese | zh-CN | -- | -- |
 | Czech | cs | OK | OK |
 | Danish | da | -- | -- |
-| Dutch | nl | OK  | -- |
+| Dutch | nl | OK | -- |
 | Finnish | fi | --  | -- |
 | French | fr | OK | OK |
 | German | de | OK | OK |

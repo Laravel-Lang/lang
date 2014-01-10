@@ -84,6 +84,7 @@ Indonesian (id)
 
 * [apit](https://github.com/apit)
 * [Budi Irawan](https://github.com/deerawan)
+* [Ivo Idham Perdameian](https://github.com/idhamperdameian)
 * [William Notowidagdo](https://github.com/williamn)
 
 Italian (it)

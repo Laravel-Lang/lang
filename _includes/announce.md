@@ -1,1 +1,1 @@
-9 January 2014 : Turkish and Polish ready for Laravel 4.1
+10 January 2014 : Indonesian ready for Laravel 4.1

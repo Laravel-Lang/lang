@@ -1,7 +1,11 @@
 
 ## Changelog
 
-04 January 2014
+10 January 2014
+
+* Update Indonesian (id) for Laravel 4.0 and 4.1 by [Ivo Idham Perdameian](https://github.com/idhamperdameian)
+
+09 January 2014
 
 * Update Turkish (tr) for Laravel 4.1 by [Arda Kılıçdağı](https://github.com/Ardakilic)
 * Update Polish (pl) for Laravel 4.0 and 4.1 by [Marcin Sągol](https://github.com/soee)

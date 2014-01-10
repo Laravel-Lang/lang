@@ -19,7 +19,7 @@
 | Greek | el | OK | OK |
 | Hebrew | he | -- | -- |
 | Hungarian | hu | -- | -- |
-| Indonesian | id | -- | -- |
+| Indonesian | id | OK | OK |
 | Italian | it | OK | OK |
 | Japanese | jp | -- | -- |
 | Korean | ko | OK | -- |

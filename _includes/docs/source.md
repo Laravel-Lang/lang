@@ -108,6 +108,7 @@ Macedonian (mk)
 Norwegian Bokmål (nb)
 
 * [Marius](https://github.com/mariuso)
+* [thomeu](https://github.com/thomeu)
 
 Polish (pl)
 
@@ -144,6 +145,7 @@ Spanish (es)
 Swedish (sv)
 
 * [Jonas Söderberg](https://github.com/imevul)
+* [thomeu](https://github.com/thomeu)
 * [Vincent Klaiber](https://github.com/vincentklaiber)
 
 Thai (th)

@@ -24,7 +24,7 @@
 | Japanese | jp | -- | -- |
 | Korean | ko | OK | -- |
 | Macedonian | mk | OK | -- |
-| Norwegian Bokmål | nb | OK | -- |
+| Norwegian Bokmål | nb | OK | OK |
 | Polish | pl | OK | OK |
 | Portuguese | pt | OK | OK |
 | Romanian | ro | OK | -- |
@@ -32,7 +32,7 @@
 | Serbian | sr | -- | -- |
 | Slovak | sk | OK | -- |
 | Spanish | es | OK | OK |
-| Swedish | sv | -- | -- |
+| Swedish | sv | -- | OK |
 | Thai | th | OK | -- |
 | Traditional Chinese (Hong Kong) | zh-HK | -- | -- |
 | Turkish | tr | OK | OK |

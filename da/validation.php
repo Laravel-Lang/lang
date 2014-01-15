@@ -19,7 +19,7 @@ return array(
     "alpha"            => ":attribute må kun bestå af bogstaver.",
     "alpha_dash"       => ":attribute må kun bestå af bogstaver, tal og bindestreger.",
     "alpha_num"        => ":attribute må kun bestå af bogstaver og tal.",
-    "array"            => "The :attribute must be an array.",
+    "array"            => ":attribute skal være et array.",
     "before"           => ":attribute skal være en dato før :date.",
     "between"          => array(
         "numeric" => ":attribute skal være imellem :min - :max.",

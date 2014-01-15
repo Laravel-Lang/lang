@@ -19,13 +19,13 @@ return array(
     "alpha"            => ":attribute må kun bestå af bogstaver.",
     "alpha_dash"       => ":attribute må kun bestå af bogstaver, tal og bindestreger.",
     "alpha_num"        => ":attribute må kun bestå af bogstaver og tal.",
-    "array"            => "The :attribute must be an array.",
+    "array"            => ":attribute skal være et array.",
     "before"           => ":attribute skal være en dato før :date.",
     "between"          => array(
         "numeric" => ":attribute skal være imellem :min - :max.",
         "file"    => ":attribute skal være imellem :min - :max kilobytes.",
         "string"  => ":attribute skal være imellem :min - :max tegn.",
-        "array"   => "The :attribute must have between :min - :max items."
+        "array"   => ":attribute skal indeholde mellem :min - :max elementer."
     ),
     "confirmed"        => ":attribute er ikke det samme som bekræftelsesfeltet.",
     "date"             => ":attribute er ikke en gyldig dato.",
@@ -43,14 +43,14 @@ return array(
         "numeric" => ":attribute skal være mindre end :max.",
         "file"    => ":attribute skal være mindre end :max kilobytes.",
         "string"  => ":attribute skal være kortere end :max tegn.",
-        "array"   => "The :attribute may not have more than :max items."
+        "array"   => ":attribute må ikke indeholde mere end :max elementer."
     ),
     "mimes"            => ":attribute skal være en fil af typen: :values.",
     "min"              => array(
         "numeric" => ":attribute skal være større end :min.",
         "file"    => ":attribute skal være større end :min kilobytes.",
         "string"  => ":attribute skal være længere end :min tegn.",
-        "array"   => "The :attribute must have at least :min items."
+        "array"   => ":attribute skal indeholde mindst :min elementer."
     ),
     "not_in"           => "Den valgte :attribute er ugyldig.",
     "numeric"          => ":attribute skal være et tal.",
@@ -64,7 +64,7 @@ return array(
         "numeric" => ":attribute skal være :size.",
         "file"    => ":attribute skal være :size kilobytes.",
         "string"  => ":attribute skal være :size tegn lang.",
-        "array"   => "The :attribute must contain :size items."
+        "array"   => ":attribute skal indeholde :size elementer."
     ),
     "unique"           => ":attribute er allerede taget.",
     "url"              => ":attribute formatet er ugyldigt.",

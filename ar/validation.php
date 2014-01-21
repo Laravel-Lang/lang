@@ -43,14 +43,14 @@ return array(
         "numeric" => ":attribute يجب ألا يكون أكبر من :max.",
         "file"    => ":attribute يجب ألا يكون أكبر من :max كيلو بايت.",
         "string"  => ":attribute يجب ألا يكون أكبر من :max محرف.",
-        "array"   => "The :attribute may not have more than :max items."
+        "array"   => ":attribute يجب ان لا يحتوي علي اكثر من :max بنود."
     ),
     "mimes"            => ":attribute يجب أن يكون ملف من نوع: :values.",
     "min"              => array(
         "numeric" => ":attribute يجب أن يكون على الأقل :min.",
-        "file"    => ":attribute يجب أن يكون على الأقل :min كيول بايت.",
+        "file"    => ":attribute يجب أن يكون على الأقل :min كيلو بايت.",
         "string"  => ":attribute يجب أن يكون طوله على الأقل :min أحرف.",
-        "array"   => "The :attribute must have at least :min items."
+        "array"   => ":attribute يجب ان يحتوي علي الاقل :min بنود."
     ),
     "not_in"           => ":attribute المختار غير صالح.",
     "numeric"          => ":attribute يجب أن يكون رقم.",

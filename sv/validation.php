@@ -66,7 +66,7 @@ return array(
         "array"   => ":attribute måste innehålla :size objekt."
     ),
     "unique"           => ":attribute används redan.",
-    "url"              => ":attribute formatet är ogiltig",
+    "url"              => ":attribute formatet är ogiltig.",
 
     /*
     |--------------------------------------------------------------------------

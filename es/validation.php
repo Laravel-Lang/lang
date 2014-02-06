@@ -59,6 +59,7 @@ return array(
     "required_if"      => "El campo :attribute es obligatorio cuando :other es :value.",
     "required_with"    => "El campo :attribute es obligatorio cuando :values está presente.",
     "required_without" => "El campo :attribute es obligatorio cuando :values no está presente.",
+    "required_without_all" => "The :attribute field is required when none of :values are present.",
     "same"             => ":attribute y :other deben coincidir.",
     "size"             => array(
         "numeric" => "El tamaño de :attribute debe ser :size.",

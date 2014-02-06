@@ -59,6 +59,7 @@ return array(
     "required_if"      => "ข้อมูล :attribute จำเป็นต้องกรอกเมื่อ :other เป็น :value.",
     "required_with"    => "ข้อมูล :attribute จำเป็นต้องกรอกเมื่อ :values มีค่า",
     "required_without" => "ข้อมูล :attribute จำเป็นต้องกรอกเมื่อ :values ไม่มีค่า",
+    "required_without_all" => "The :attribute field is required when none of :values are present.",
     "same"             => "ข้อมูล :attribute และ :other ต้องถูกต้อง",
     "size"             => array(
         "numeric" => "ข้อมูล :attribute ต้องเท่ากับ :size.",

@@ -59,6 +59,7 @@ return array(
     "required_if"      => "Полето :attribute е задолжително, кога :other е :value.",
     "required_with"    => "Полето :attribute е задолжително, кога е внесено :values.",
     "required_without" => "Полето :attribute е задолжително, кога не е внесено :values.",
+    "required_without_all" => "The :attribute field is required when none of :values are present.",
     "same"             => "Полињата :attribute и :other треба да совпаѓаат.",
     "size"             => array(
         "numeric" => "Полето :attribute мора да биде :size.",

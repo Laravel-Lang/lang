@@ -70,6 +70,7 @@ return array(
     "required_if"      => ":attribute مطلوب عندما :other يساوي :value.",
     "required_with"    => ":attribute مطلوب عندما يكون :values موجوداً.",
     "required_without" => ":attribute مطلوب عندما لا يكون :values موجوداً.",
+    "required_without_all" => "The :attribute field is required when none of :values are present.",
     "same"             => ":attribute و :other يجب أن يتطابقا.",
     "size"             => array(
         "numeric" => ":attribute يجب أن يكون :size.",

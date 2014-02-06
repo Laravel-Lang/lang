@@ -59,6 +59,7 @@ return array(
 	"required_if"		=> ":other이(가) :value 일때 :attribute 필드는 필수입니다.",
 	"required_with"		=> ":values이(가) 있을 경우 :attribute 필드는 필수입니다.",
 	"required_without"	=> ":values이(가) 없을 경우 :attribute 필드는 필수입니다.",
+    "required_without_all" => "The :attribute field is required when none of :values are present.",
 	"same"				=> ":attribute와(과) :other은(는) 반드시 일치해야 합니다.",
 	"size"				=> array(
 		"numeric"	=> ":attribute은(는) 반드시 :size (이)여야 합니다.",

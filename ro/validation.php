@@ -58,6 +58,7 @@ return array(
     "required_if"      => "Câmpul :attribute este necesar atunci cand :other e :value.",
     "required_with"    => "Câmpul :attribute este necesar atunci cand :values e prezent.",
     "required_without" => "Câmpul :attribute este necesar atunci cand :values nu este prezent.",
+    "required_without_all" => "The :attribute field is required when none of :values are present.",
     "same"             => "Câmpul :attribute și :other trebuie să fie identice.",
     "size"             => array(
         "numeric" => "Câmpul :attribute trebuie să fie :size.",

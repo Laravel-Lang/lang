@@ -59,6 +59,7 @@ return array(
     "required_if"      => "Bidang isian :attribute wajib diisi ketika :other adalah :value.",
     "required_with"    => "Bidang isian :attribute wajib diisi ketika terdapat :values.",
     "required_without" => "Bidang isian :attribute wajib diisi ketika tidak terdapat :values.",
+    "required_without_all" => "The :attribute field is required when none of :values are present.",
     "same"             => "Isian :attribute dan :other harus sama.",
     "size"             => array(
         "numeric" => "Isian :attribute harus berukuran :size.",

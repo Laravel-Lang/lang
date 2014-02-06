@@ -8,6 +8,7 @@ Arabic (ar)
 
 * [Ammar Alakkad](https://github.com/AAlakkad)
 * [Ibrahim AshShohail](https://github.com/laheab)
+* [Ihab Shoully](https://github.com/shoully)
 
 Bosnian (bs)
 
@@ -16,6 +17,7 @@ Bosnian (bs)
 Brazilian (pt-BR)
 
 * [c0h1b4](https://github.com/c0h1b4)
+* [Gabriel Machado](https://github.com/gmsantosxl)
 * [insign](https://github.com/insign)
 * [miguelbgouveia](https://github.com/miguelbgouveia)
 
@@ -39,6 +41,7 @@ Danish (da)
 
 * [Andreas Heiberg](https://github.com/AndreasHeiberg)
 * [Christoffer Hauthorn Boisen](https://github.com/hauthorn)
+* [Daniel Bøndergaard](https://github.com/danielboendergaard)
 
 Dutch (nl)
 
@@ -50,10 +53,12 @@ Dutch (nl)
 
 Finnish (fi)
 
+* [Linus Odenring](https://github.com/linusodenring)
 * [Patrik](https://github.com/gkunno)
 
 French (fr)
 
+* [Alexandre Butynski](https://github.com/alexandre-butynski)
 * [Fred Delrieu](https://github.com/caouecs)
 * [Laravel-France](https://github.com/laravel-france)
 
@@ -90,6 +95,7 @@ Indonesian (id)
 Italian (it)
 
 * [alextesi](https://github.com/alextesi)
+* [Davide Bellini](https://github.com/billmn)
 * [Ionut Tanasa](https://github.com/ionut-tanasa)
 * [longilineo](https://github.com/longilineo)
 
@@ -135,6 +141,7 @@ Serbian (sr)
 
 Slovak (sk)
 
+* [Andrej Badin](https://github.com/Andreyco)
 * [Martin Olšanský](https://github.com/MartinOlsansky)
 
 Spanish (es)
@@ -145,6 +152,7 @@ Spanish (es)
 Swedish (sv)
 
 * [Jonas Söderberg](https://github.com/imevul)
+* [Linus Odenring](https://github.com/linusodenring)
 * [thomeu](https://github.com/thomeu)
 * [Vincent Klaiber](https://github.com/vincentklaiber)
 

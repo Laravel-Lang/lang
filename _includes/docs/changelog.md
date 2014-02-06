@@ -1,6 +1,34 @@
 
 ## Changelog
 
+06 February 2014
+
+* Update French (fr) with validation.required_without_all by [Fred Delrieu](https://github.com/caouecs)
+* Add validation.required_without_all in English for all files
+* Update Swedish (sv) and Finnish (fi) by [Linus Odenring](https://github.com/linusodenring)
+
+05 February 2014
+
+* Update French (fr) by [Alexandre Butynski](https://github.com/alexandre-butynski)
+
+28 January 2014
+
+* Update Arabic (ar) by [Ihab Shoully](https://github.com/shoully)
+
+26 January 2014
+
+* Update Brazilian (pt-BR) for Laravel 4.1 by [Gabriel Machado](https://github.com/gmsantosxl)
+* Update Slovak (sk) by [Andrej Badin](https://github.com/Andreyco)
+
+22 January 2014
+
+* Update Italian (it) by [Davide Bellini](https://github.com/billmn)
+* Update Arabic (ar) for Laravel 4.1 by [Ihab Shoully](https://github.com/shoully)
+
+15 January 2014
+
+* Update Danish (da) for Laravel 4.1 by [Daniel Bøndergaard](https://github.com/danielboendergaard)
+
 13 January 2014
 
 * Update Swedish and Norwegian Bokmål for Laravel 4.1 by [thomeu](https://github.com/thomeu)

@@ -8,7 +8,7 @@
     Location: Toulouse, France
 
 /* SITE */
-    Last update: 2013/10/16
+    Last update: 2014/02/06
     Standards: HTML5, CSS3
     Components: jQuery, Gumby2, Jekyll
     Software: Sublime Text 2, Git

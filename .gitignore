@@ -1,5 +1,3 @@
 _site
 /vendor/
 .DS_Store
-/nbproject/*
-/nbproject/private/

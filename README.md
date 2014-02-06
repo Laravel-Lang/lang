@@ -22,6 +22,12 @@ To be ready for the new version of Laravel, we need your help. In `reminders.php
 
 You can follow translations in the issue [#137](https://github.com/caouecs/Laravel4-lang/issues/137).
 
+In `validation.php` file, a new line has been added :
+
+    "required_without_all" => "The :attribute field is required when none of :values are present."
+
+You can follow translations in the issue [#172](https://github.com/caouecs/Laravel4-lang/issues/172).
+
 How add languages in my app ?
 ---
 

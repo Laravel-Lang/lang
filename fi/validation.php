@@ -28,10 +28,10 @@ return array(
         "array"   => "The :attribute must have between :min - :max items."
     ),
     "confirmed"        => ":attribute vahvistus ei täsmää.",
-    "date"             => "The :attribute is not a valid date.",
-    "date_format"      => "The :attribute does not match the format :format.",
+    "date"             => ":attribute ei ole kelvollinen päivämäärä.",
+    "date_format"      => ":attribute ei vastaa muotoa :format.",
     "different"        => ":attribute ja :other tulee olla eri arvoisia.",
-    "digits"           => "The :attribute must be :digits digits.",
+    "digits"           => ":attribute on oltava :digits numeroin.",
     "digits_between"   => "The :attribute must be between :min and :max digits.",
     "email"            => ":attribute muoto on virheellinen.",
     "exists"           => "valittu :attribute on virheellinen.",

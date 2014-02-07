@@ -59,7 +59,7 @@ return array(
     "required_if"      => "É obrigatória a indicação de um valor para o campo :attribute quando o valor do campo :other é igual a :value.",
     "required_with"    => "É obrigatória a indicação de um valor para o campo :attribute quando :values está presente.",
     "required_without" => "É obrigatória a indicação de um valor para o campo :attribute quanto :values não está presente.",
-    "required_without_all" => "The :attribute field is required when none of :values are present.",
+    "required_without_all" => "É obrigatória a indicação de um valor para o campo :attribute quando nenhum dos :values está presente.",
     "same"             => "Os campos :attribute e :other deverão conter valores iguais.",
     "size"             => array(
         "numeric" => "O campo :attribute deverá conter o valor :size.",

@@ -60,7 +60,7 @@ return array(
     "required_if"      => "Поле :attribute обязательно для заполнения, когда :other равно :value.",
     "required_with"    => "Поле :attribute обязательно для заполнения, когда :values указано.",
     "required_without" => "Поле :attribute обязательно для заполнения, когда :values не указано.",
-    "required_without_all" => "The :attribute field is required when none of :values are present.",
+    "required_without_all" => "Поле :attribute обязательно для заполнения, когда ни одно из :values не указано.",
     "same"             => "Значение :attribute должно совпадать с :other.",
     "size"             => array(
         "numeric" => "Поле :attribute должно быть :size.",

@@ -59,7 +59,7 @@ return array(
     "required_if"      => ":attribute muss ausgefüllt sein wenn :other :value ist.",
     "required_with"    => ":attribute muss angegeben werden wenn :values ausgefüllt wurde.",
     "required_without" => ":attribute muss angegeben werden wenn :values nicht ausgefüllt wurde.",
-    "required_without_all" => "The :attribute field is required when none of :values are present.",
+    "required_without_all" => ":attribute muss angegeben werden wenn keines der Felder :values ausgefüllt wurde.",
     "same"             => ":attribute und :other müssen übereinstimmen.",
     "size"             => array(
         "numeric" => ":attribute muss gleich :size sein.",

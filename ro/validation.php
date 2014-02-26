@@ -19,7 +19,7 @@ return array(
     "alpha_dash"       => "Câmpul :attribute poate conține numai litere, numere și liniuțe.",
     "alpha_num"        => "Câmpul :attribute poate conține numai litere și numere.",
     "array"            => "Câmpul :attribute trebuie să fie un array.",
-    "before"           => "Câmpul :attribute trebuie să fie o dată inainte de :date.",
+    "before"           => "Câmpul :attribute trebuie să fie o dată înainte de :date.",
     "between"          => array(
         "numeric" => "Câmpul :attribute trebuie să fie între :min și :max.",
         "file"    => "Câmpul :attribute trebuie să fie între :min și :max kilobiți.",

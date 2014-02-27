@@ -34,7 +34,7 @@ return array(
     "different"        => "Поля :attribute и :other должны различаться.",
     "digits"           => "Длина цифрового поля :attribute должна быть :digits.",
     "digits_between"   => "Длина цифрового поля :attribute должна быть между :min и :max.",
-    "email"            => "Поле :attribute имеет ошибочный формат.",
+    "email"            => "Поле :attribute должно быть действительным электронным адресом.",
     "exists"           => "Выбранное значение для :attribute некорректно.",
     "image"            => "Поле :attribute должно быть изображением.",
     "in"               => "Выбранное значение для :attribute ошибочно.",

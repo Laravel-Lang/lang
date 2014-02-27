@@ -14,7 +14,7 @@ return array(
     */
 
     "accepted"         => "Isian :attribute harus diterima.",
-    "active_url"       => "Isian :attribute bukan URL yang sah.",
+    "active_url"       => "Isian :attribute bukan URL yang valid.",
     "after"            => "Isian :attribute harus tanggal setelah :date.",
     "alpha"            => "Isian :attribute hanya boleh berisi huruf.",
     "alpha_dash"       => "Isian :attribute hanya boleh berisi huruf, angka, dan strip.",
@@ -28,17 +28,17 @@ return array(
         "array"   => "Isian :attribute harus antara :min dan :max item.",
     ),
     "confirmed"        => "Konfirmasi :attribute tidak cocok.",
-    "date"             => "Isian :attribute bukan tanggal yang sah.",
+    "date"             => "Isian :attribute bukan tanggal yang valid.",
     "date_format"      => "Isian :attribute tidak cocok dengan format :format.",
     "different"        => "Isian :attribute dan :other harus berbeda.",
     "digits"           => "Isian :attribute harus berupa angka :digits.",
     "digits_between"   => "Isian :attribute harus antara angka :min dan :max.",
-    "email"            => "Format isian :attribute tidak sah.",
-    "exists"           => "Isian :attribute yang dipilih tidak sah.",
+    "email"            => "Format isian :attribute tidak valid.",
+    "exists"           => "Isian :attribute yang dipilih tidak valid.",
     "image"            => "Isian :attribute harus berupa gambar.",
-    "in"               => "Isian :attribute yang dipilih tidak sah.",
+    "in"               => "Isian :attribute yang dipilih tidak valid.",
     "integer"          => "Isian :attribute harus merupakan bilangan bulat.",
-    "ip"               => "Isian :attribute harus berupa alamat IP yang sah.",
+    "ip"               => "Isian :attribute harus berupa alamat IP yang valid.",
     "max"              => array(
         "numeric" => "Isian :attribute seharusnya tidak lebih dari :max.",
         "file"    => "Isian :attribute seharusnya tidak lebih dari :max kilobytes.",
@@ -52,9 +52,9 @@ return array(
         "string"  => "Isian :attribute harus minimal :min karakter.",
         "array"   => "Isian :attribute harus minimal :min item.",
     ),
-    "not_in"           => "Isian :attribute yang dipilih tidak sah.",
+    "not_in"           => "Isian :attribute yang dipilih tidak valid.",
     "numeric"          => "Isian :attribute harus berupa angka.",
-    "regex"            => "The :attribute format is invalid.",
+    "regex"            => "Format isian :attribute tidak valid.",
     "required"         => "Bidang isian :attribute wajib diisi.",
     "required_if"      => "Bidang isian :attribute wajib diisi ketika :other adalah :value.",
     "required_with"    => "Bidang isian :attribute wajib diisi ketika terdapat :values.",
@@ -68,7 +68,7 @@ return array(
         "array"   => "Isian :attribute harus mengandung :size item.",
     ),
     "unique"           => "Isian :attribute sudah ada sebelumnya.",
-    "url"              => "Format isian :attribute tidak sah.",
+    "url"              => "Format isian :attribute tidak valid.",
 
     /*
     |--------------------------------------------------------------------------

@@ -16,17 +16,29 @@ You can follow translations in the issue [#73](https://github.com/caouecs/Larave
 Laravel 4.1
 ---
 
+### Password reminder sent
+
 To be ready for the new version of Laravel, we need your help. In `reminders.php` file, a new line has been added :
 
     "sent" => "Password reminder sent!",
 
 You can follow translations in the issue [#137](https://github.com/caouecs/Laravel4-lang/issues/137).
 
+### Required without all
+
 In `validation.php` file, a new line has been added :
 
     "required_without_all" => "The :attribute field is required when none of :values are present."
 
 You can follow translations in the issue [#172](https://github.com/caouecs/Laravel4-lang/issues/172).
+
+### Validation email
+
+In `validation.php` file, the text for email has beed updated :
+
+    "email" => "The :attribute must be a valid email address."
+
+You can follow translations in the issue [#187](https://github.com/caouecs/Laravel4-lang/issues/187).
 
 How add languages in my app ?
 ---

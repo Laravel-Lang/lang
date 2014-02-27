@@ -33,7 +33,7 @@ return array(
     "different"            => "Isian :attribute dan :other harus berbeda.",
     "digits"               => "Isian :attribute harus berupa angka :digits.",
     "digits_between"       => "Isian :attribute harus antara angka :min dan :max.",
-    "email"                => "Format isian :attribute tidak valid.",
+    "email"                => "Isian :attribute harus berupa alamat surel yang valid.",
     "exists"               => "Isian :attribute yang dipilih tidak valid.",
     "image"                => "Isian :attribute harus berupa gambar.",
     "in"                   => "Isian :attribute yang dipilih tidak valid.",

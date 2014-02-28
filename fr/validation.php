@@ -101,6 +101,7 @@ return array(
         "first_name" => "Prénom",
         "last_name" => "Nom",
         "password" => "Mot de passe",
+        "password_confirmation" => "Confirmation du mot de passe",
         "city" => "Ville",
         "country" => "Pays",
         "address" => "Adresse",

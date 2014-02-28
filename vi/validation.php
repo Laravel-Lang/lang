@@ -1,14 +1,5 @@
 <?php
 
-/*
-|--------------------------------------------------------------------------
-| Vietnamese Language for Laravel 4
-|--------------------------------------------------------------------------
-|
-| Translate by anhsk.ohbo@gmail.com
-|
-*/
-
 return array(
 
     /*
@@ -42,7 +33,7 @@ return array(
     "different"        => "Trường :attribute và :other phải khác nhau.",
     "digits"           => "Độ dài của trường :attribute phải gồm :digits chữ số.",
     "digits_between"   => "Độ dài của trường :attribute phải nằm trong khoảng :min and :max chữ số.",
-    "email"            => "Trường :attribute không giống với định dạng của email.",
+    "email"            => "Trường :attribute phải là một địa chỉ email hợp lệ.",
     "exists"           => "Giá trị đã chọn trong trường :attribute không hợp lệ.",
     "image"            => "Các tập tin trong trường :attribute phải là định dạng hình ảnh.",
     "in"               => "Giá trị đã chọn trong trường :attribute không hợp lệ.",
@@ -68,7 +59,7 @@ return array(
     "required_if"      => "Trường :attribute không đuợc bỏ trống khi trường :other là :value.",
     "required_with"    => "Trường :attribute không đuợc bỏ trống khi trường :values có giá trị.",
     "required_without" => "Trường :attribute không đuợc bỏ trống khi trường :values không có giá trị.",
-    "required_without_all" => "The :attribute field is required when none of :values are present.",
+    "required_without_all" => "Trường :attribute không đuợc bỏ trống khi tất cả :values không có giá trị.",
     "same"             => "Trường :attribute và :other phải giống nhau.",
     "size"             => array(
         "numeric" => "Trường :attribute phải bằng :size.",

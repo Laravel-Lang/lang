@@ -59,7 +59,7 @@ return array(
     "required_if"      => "Trường :attribute không đuợc bỏ trống khi trường :other là :value.",
     "required_with"    => "Trường :attribute không đuợc bỏ trống khi trường :values có giá trị.",
     "required_without" => "Trường :attribute không đuợc bỏ trống khi trường :values không có giá trị.",
-    "required_without_all" => "The :attribute field is required when none of :values are present.",
+    "required_without_all" => "Trường :attribute không đuợc bỏ trống khi tất cả :values không có giá trị.",
     "same"             => "Trường :attribute và :other phải giống nhau.",
     "size"             => array(
         "numeric" => "Trường :attribute phải bằng :size.",

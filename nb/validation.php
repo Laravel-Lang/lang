@@ -59,6 +59,7 @@ return array(
     "required_if"      => ":attribute må fylles ut når :other er :value.",
     "required_with"    => ":attribute må fylles ut når :values er utfyllt.",
     "required_without" => ":attribute må fylles ut når :values ikke er utfyllt.",
+    "required_without_all" => "The :attribute field is required when none of :values are present.",
     "same"             => ":attribute og :other må være like.",
     "size"             => array(
         "numeric" => ":attribute må være :size.",

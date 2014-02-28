@@ -18,20 +18,20 @@ return array(
     "alpha"            => "Polje :attribute može sadržati samo slova.",
     "alpha_dash"       => "Polje :attribute može sadržati samo slova, brojeve i povlake.",
     "alpha_num"        => "Polje :attribute može sadržati samo slova i brojeve.",
-    "array"            => "The :attribute must be an array.",
+    "array"            => "Polje :attribute mora sadržati nekih stroj stavki.",
     "before"           => "Polje :attribute mora biti datum pre :date.",
     "between"          => array(
-        "numeric" => "Polje :attribute mora biti izmedju :min - :max.",
-        "file"    => "Fajl :attribute mora biti izmedju :min - :max kilobajta.",
-        "string"  => "Polje :attribute mora biti izmedju :min - :max karaktera.",
-        "array"   => "The :attribute must have between :min - :max items."
+        "numeric" => "Polje :attribute mora biti između :min - :max.",
+        "file"    => "Fajl :attribute mora biti između :min - :max kilobajta.",
+        "string"  => "Polje :attribute mora biti između :min - :max karaktera.",
+        "array"   => "Polje :attribute mora biti između :min - :max stavki."
     ),
     "confirmed"        => "Potvrda polja :attribute se ne poklapa.",
-    "date"             => "The :attribute is not a valid date.",
-    "date_format"      => "The :attribute does not match the format :format.",
+    "date"             => "Polje :attribute nije važeći datum.",
+    "date_format"      => "Polje :attribute ne odgovora prema formatu :format.",
     "different"        => "Polja :attribute i :other moraju biti različita.",
-    "digits"           => "The :attribute must be :digits digits.",
-    "digits_between"   => "The :attribute must be between :min and :max digits.",
+    "digits"           => "Polje :attribute mora sadržati :digits šifri.",
+    "digits_between"   => "Polje :attribute mora biti izemđu :min i :max šifri.",
     "email"            => "Format polja :attribute nije validan.",
     "exists"           => "Odabrano polje :attribute nije validno.",
     "image"            => "Polje :attribute mora biti slika.",
@@ -42,31 +42,32 @@ return array(
         "numeric" => "Polje :attribute mora biti manje od :max.",
         "file"    => "Polje :attribute mora biti manje od :max kilobajta.",
         "string"  => "Polje :attribute mora sadržati manje od :max karaktera.",
-        "array"   => "The :attribute may not have more than :max items."
+        "array"   => "Polje :attribute ne smije da image više od :max stavki."
     ),
     "mimes"            => "Polje :attribute mora biti fajl tipa: :values.",
     "min"              => array(
         "numeric" => "Polje :attribute mora biti najmanje :min.",
         "file"    => "Fajl :attribute mora biti najmanje :min kilobajta.",
         "string"  => "Polje :attribute mora sadržati najmanje :min karaktera.",
-        "array"   => "The :attribute must have at least :min items."
+        "array"   => "Polje :attribute mora sadrzati najmanje :min stavku."
     ),
     "not_in"           => "Odabrani element polja :attribute nije validan.",
     "numeric"          => "Polje :attribute mora biti broj.",
-    "regex"            => "The :attribute format is invalid.",
+    "regex"            => "Polje :attribute format is invalid.",
     "required"         => "Polje :attribute je obavezno.",
-    "required_if"      => "The :attribute field is required when :other is :value.",
-    "required_with"    => "The :attribute field is required when :values is present.",
-    "required_without" => "The :attribute field is required when :values is not present.",
+    "required_if"      => "Polje :attribute je potrebno kada polje :other sadrži :value.",
+    "required_with"    => "Polje :attribute je potrebno kada polje :values je prisutan.",
+    "required_without" => "Polje :attribute je potrebno kada polje :values nije prisutan.",
+    "required_without_all" => "Polje :attribute je potrebno kada nijedan od sledeći polja :values nisu prisutni.",
     "same"             => "Polja :attribute i :other se moraju poklapati.",
     "size"             => array(
         "numeric" => "Polje :attribute mora biti :size.",
         "file"    => "Fajl :attribute mora biti :size kilobajta.",
         "string"  => "Polje :attribute mora biti :size karaktera.",
-        "array"   => "The :attribute must contain :size items."
+        "array"   => "Polje :attribute mora sadržati :size stavki."
     ),
     "unique"           => "Polje :attribute već postoji.",
-    "url"              => "Format polja :attribute nije validan.",
+    "url"              => "Format polja :attribute ne važi.",
 
     /*
     |--------------------------------------------------------------------------

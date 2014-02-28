@@ -16,11 +16,29 @@ You can follow translations in the issue [#73](https://github.com/caouecs/Larave
 Laravel 4.1
 ---
 
+### Password reminder sent
+
 To be ready for the new version of Laravel, we need your help. In `reminders.php` file, a new line has been added :
 
     "sent" => "Password reminder sent!",
 
 You can follow translations in the issue [#137](https://github.com/caouecs/Laravel4-lang/issues/137).
+
+### Required without all
+
+In `validation.php` file, a new line has been added :
+
+    "required_without_all" => "The :attribute field is required when none of :values are present."
+
+You can follow translations in the issue [#172](https://github.com/caouecs/Laravel4-lang/issues/172).
+
+### Validation email
+
+In `validation.php` file, the text for email has beed updated :
+
+    "email" => "The :attribute must be a valid email address."
+
+You can follow translations in the issue [#187](https://github.com/caouecs/Laravel4-lang/issues/187).
 
 How add languages in my app ?
 ---
@@ -34,7 +52,7 @@ How add languages in my app ?
 
 ### Installation by Composer
 
- * Add *"caouecs/laravel4-lang": "dev-master"* in your composer.conf in "require" or run *composer require caouecs/laravel4-lang*
+ * Add *"caouecs/laravel4-lang": "dev-master"* in your `composer.json` in "require" or run *composer require caouecs/laravel4-lang*
  * Do "composer update"
  * Files of languages are in "vendor/caouecs/laravel4-lang" directory
  * Copy the folders of languages that you want, in *app/lang* folder of your application Laravel
@@ -51,9 +69,8 @@ How can I add a language in this project ?
 * fork this repository
 * create a directory with the short name of the language (ex: fr for French) from ISO-639-1 ( see [Wikipedia](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) )
 * copy this three files of the english version with your translate
-    * for [Laravel 4.0](https://github.com/laravel/laravel/tree/master/app/lang/en)
-    * for [Laravel 4.1](https://github.com/laravel/laravel/tree/develop/app/lang/en)
-* add a pull request in the branch **_develop_** of this repository, with the name of the language
+    * for [Laravel](https://github.com/laravel/laravel/tree/master/app/lang/en)
+* add a pull request with the name of the language
 
 
 How can I fix a file ?
@@ -61,10 +78,4 @@ How can I fix a file ?
 
 * fork this repository
 * update the file
-* add a pull request in the branch **_develop_** of this repository, with the name of the language
-
-Branchs
----
-
-* _master_ : for Laravel 4.0.x
-* _develop_ : for Laravel 4.1.x
+* add a pull request with the name of the language

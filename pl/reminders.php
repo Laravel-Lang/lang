@@ -19,4 +19,6 @@ return array(
 
     "token"    => "Token resetowania hasła jest nieprawidłowy.",
 
+    "sent"     => "Przypomnienie hasła zostało wysłane!",
+
 );

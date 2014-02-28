@@ -19,4 +19,6 @@ return array(
 
     "token"    => "Password-nulstillingskoden er ugyldig.",
 
+    "sent"     => "Password-påmindelse sendt!",
+
 );

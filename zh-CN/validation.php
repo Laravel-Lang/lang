@@ -59,6 +59,7 @@ return array(
     "required_if"      => ":attribute 属性当 :other 为 :value时为必填项。",
     "required_with"    => ":attribute 属性当 :values 存在时为必填项。",
     "required_without" => ":attribute 属性当 :values 不存在时为必填项。",
+    "required_without_all" => "The :attribute field is required when none of :values are present.",
     "same"             => ":attribute 和 :other 必须匹配。",
     "size"             => array(
         "numeric" => ":attribute 大小必须是 :size 。",

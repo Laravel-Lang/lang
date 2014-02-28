@@ -19,4 +19,6 @@ return array(
 
     "token"    => "Klíč pro obnovu hesla je nesprávný.",
 
+    "sent"     => "Upomínka ke změně hesla byla odeslána!",
+
 );

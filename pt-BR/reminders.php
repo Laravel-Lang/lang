@@ -18,4 +18,6 @@ return array(
 
     "token"    => "Este código de recuperação da senha é inválido.",
 
+    "sent"     => "O lembrete da senha foi enviado!",
+
 );

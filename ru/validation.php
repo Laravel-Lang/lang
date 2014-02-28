@@ -34,7 +34,7 @@ return array(
     "different"        => "Поля :attribute и :other должны различаться.",
     "digits"           => "Длина цифрового поля :attribute должна быть :digits.",
     "digits_between"   => "Длина цифрового поля :attribute должна быть между :min и :max.",
-    "email"            => "Поле :attribute имеет ошибочный формат.",
+    "email"            => "Поле :attribute должно быть действительным электронным адресом.",
     "exists"           => "Выбранное значение для :attribute некорректно.",
     "image"            => "Поле :attribute должно быть изображением.",
     "in"               => "Выбранное значение для :attribute ошибочно.",
@@ -60,6 +60,7 @@ return array(
     "required_if"      => "Поле :attribute обязательно для заполнения, когда :other равно :value.",
     "required_with"    => "Поле :attribute обязательно для заполнения, когда :values указано.",
     "required_without" => "Поле :attribute обязательно для заполнения, когда :values не указано.",
+    "required_without_all" => "Поле :attribute обязательно для заполнения, когда ни одно из :values не указано.",
     "same"             => "Значение :attribute должно совпадать с :other.",
     "size"             => array(
         "numeric" => "Поле :attribute должно быть :size.",

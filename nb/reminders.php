@@ -19,4 +19,6 @@ return array(
 
     "token"    => "Passord-nullstillingskoden er ikke gyldig.",
 
+    "sent"     => "Passord påminnelse sendt!",
+
 );

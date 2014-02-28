@@ -19,4 +19,6 @@ return array(
 
     "token"    => "Невалиден токен за ресетирање на лозинката.",
 
+    "sent"     => "Password reminder sent!",
+
 );

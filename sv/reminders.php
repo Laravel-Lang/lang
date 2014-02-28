@@ -17,6 +17,8 @@ return array(
 
     "user"     => "Vi kan inte hitta en användare med den e-postadressen.",
 
-    "token"    => "Koden för lösnordsåterställning är ej giltig.",
+    "token"    => "Koden för lösnordsåterställning är ogiltig.",
+
+    "sent"     => "Lösenord påminnelse skickat!",
 
 );

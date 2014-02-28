@@ -58,6 +58,7 @@ return array(
     "numeric"        => ":attribute moet een nummer zijn.",
     "required"       => ":attribute is verplicht.",
     "required_with"  => ":attribute is verplicht i.c.m. :field",
+    "required_without_all" => "The :attribute field is required when none of :values are present.",
     "same"           => ":attribute en :other moeten overeenkomen.",
     "size"           => array(
         "numeric" => ":attribute moet :size zijn.",

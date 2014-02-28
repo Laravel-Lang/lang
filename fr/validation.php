@@ -33,7 +33,7 @@ return array(
     "different"        => "Les champs :attribute et :other doivent être différents.",
     "digits"           => "Le champ :attribute doit avoir :digits chiffres.",
     "digits_between"   => "Le champ :attribute doit avoir entre :min and :max chiffres.",
-    "email"            => "Le format du champ :attribute est invalide.",
+    "email"            => "Le champ :attribute doit être une adresse email valide.",
     "exists"           => "Le champ :attribute sélectionné est invalide.",
     "image"            => "Le champ :attribute doit être une image.",
     "in"               => "Le champ :attribute est invalide.",
@@ -59,9 +59,10 @@ return array(
     "required_if"      => "Le champ :attribute est obligatoire quand la valeur de :other est :value.",
     "required_with"    => "Le champ :attribute est obligatoire quand :values est présent.",
     "required_without" => "Le champ :attribute est obligatoire quand :values n'est pas présent.",
+    "required_without_all" => "Le champ :attribute est requis quand aucun de :values n'est présent.",
     "same"             => "Les champs :attribute et :other doivent être identiques.",
     "size"             => array(
-        "numeric" => "La taille de la valeur de :attribute doit être :size.",
+        "numeric" => "La valeur de :attribute doit être :size.",
         "file"    => "La taille du fichier de :attribute doit être de :size kilobytes.",
         "string"  => "Le texte de :attribute doit contenir :size caractères.",
         "array"   => "Le champ :attribute doit contenir :size éléments."

@@ -81,7 +81,11 @@ return array(
 	|
 	*/
 
-    'custom' => array(),
+    'custom' => array(
+        'attribute-name' => array(
+            'rule-name' => 'custom-message',
+        ),
+    ),
 
 	/*
 	|--------------------------------------------------------------------------

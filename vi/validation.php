@@ -12,7 +12,7 @@ return array(
     | such as the size rules. Feel free to tweak each of these messages.
     |
     */
-    
+
     "accepted"         => "Trường :attribute phải đuợc chấp nhận.",
     "active_url"       => "Trường :attribute không phải là một URL hợp lệ.",
     "after"            => "Trường :attribute phải là một ngày sau ngày :date.",
@@ -58,6 +58,7 @@ return array(
     "required"         => "Trường :attribute không đuợc bỏ trống.",
     "required_if"      => "Trường :attribute không đuợc bỏ trống khi trường :other là :value.",
     "required_with"    => "Trường :attribute không đuợc bỏ trống khi trường :values có giá trị.",
+    "required_with_all" => "The :attribute field is required when :values is present.",
     "required_without" => "Trường :attribute không đuợc bỏ trống khi trường :values không có giá trị.",
     "required_without_all" => "Trường :attribute không đuợc bỏ trống khi tất cả :values không có giá trị.",
     "same"             => "Trường :attribute và :other phải giống nhau.",

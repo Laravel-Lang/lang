@@ -57,6 +57,7 @@ return array(
     "required"         => "Polje :attribute je obavezno.",
     "required_if"      => "Polje :attribute je potrebno kada polje :other sadrži :value.",
     "required_with"    => "Polje :attribute je potrebno kada polje :values je prisutan.",
+    "required_with_all" => "The :attribute field is required when :values is present.",
     "required_without" => "Polje :attribute je potrebno kada polje :values nije prisutan.",
     "required_without_all" => "Polje :attribute je potrebno kada nijedan od sledeći polja :values nisu prisutni.",
     "same"             => "Polja :attribute i :other se moraju poklapati.",

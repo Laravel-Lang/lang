@@ -26,7 +26,7 @@ return array(
         "file"    => "O campo :attribute deverá ter um tamanho entre :min - :max kilobytes.",
         "string"  => "O campo :attribute deverá conter entre :min - :max caracteres.",
         "array"   => "O campo :attribute deverá conter entre :min - :max elementos."
-    ),  
+    ),
     "confirmed"        => "A confirmação para o campo :attribute não coincide.",
     "date"             => "O campo :attribute não contém uma data válida.",
     "date_format"      => "A data indicada para o campo :attribute não respeita o formato :format.",
@@ -58,6 +58,7 @@ return array(
     "required"         => "É obrigatória a indicação de um valor para o campo :attribute.",
     "required_if"      => "É obrigatória a indicação de um valor para o campo :attribute quando o valor do campo :other é igual a :value.",
     "required_with"    => "É obrigatória a indicação de um valor para o campo :attribute quando :values está presente.",
+    "required_with_all" => "The :attribute field is required when :values is present.",
     "required_without" => "É obrigatória a indicação de um valor para o campo :attribute quanto :values não está presente.",
     "required_without_all" => "É obrigatória a indicação de um valor para o campo :attribute quando nenhum dos :values está presente.",
     "same"             => "Os campos :attribute e :other deverão conter valores iguais.",

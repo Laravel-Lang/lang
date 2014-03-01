@@ -58,6 +58,7 @@ return array(
     "required"         => ":attribute musí být vyplněno.",
     "required_if"      => ":attribute musí být vyplněno pokud :other je :value.",
     "required_with"    => ":attribute musí být vyplněno pokud :values je zvoleno.",
+    "required_with_all" => "The :attribute field is required when :values is present.",
     "required_without" => ":attribute musí být vyplněno pokud :values není vyplněno.",
     "required_without_all" => "The :attribute field is required when none of :values are present.",
     "same"             => ":attribute a :other se musí shodovat.",

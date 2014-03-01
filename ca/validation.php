@@ -58,6 +58,7 @@ return array(
     "required"         => "El camp :attribute és obligatori.",
     "required_if"      => "El camp :attribute és obligatori quan :other és :value.",
     "required_with"    => "El camp :attribute és obligatori quan :values és present.",
+    "required_with_all" => "The :attribute field is required when :values is present.",
     "required_without" => "El camp :attribute és obligatori quan :values no és present.",
     "required_without_all" => "The :attribute field is required when none of :values are present.",
     "same"             => ":attribute i :other han de coincidir.",

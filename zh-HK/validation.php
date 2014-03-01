@@ -58,6 +58,7 @@ return array(
     "required"         => ":attribute 不能留空。",
     "required_if"      => "當 :other 是 :value 時 :attribute 不能留空。",
     "required_with"    => "當 :values 出現時 :attribute 不能留空。",
+    "required_with_all" => "The :attribute field is required when :values is present.",
     "required_without" => "當 :values 留空時 :attribute field 不能留空。",
     "required_without_all" => "The :attribute field is required when none of :values are present.",
     "same"             => ":attribute 與 :other 必須相同。",

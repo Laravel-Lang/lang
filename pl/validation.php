@@ -58,6 +58,7 @@ return array(
     "required"         => "Pole :attribute jest wymagane.",
     "required_if"      => "Pole :attribute jest wymagane gdy :other jest :value.",
     "required_with"    => "Pole :attribute jest wymagane gdy :values jest obecny.",
+    "required_with_all"    => "The :attribute field is required when :values is present.",
     "required_without" => "Pole :attribute jest wymagane gdy :values nie jest obecny.",
     "required_without_all" => "The :attribute field is required when none of :values are present.",
     "same"             => "Pole :attribute i :other muszą się zgadzać.",

@@ -57,6 +57,7 @@ return array(
     "required"         => "Câmpul :attribute este obligatoriu.",
     "required_if"      => "Câmpul :attribute este necesar atunci când :other e :value.",
     "required_with"    => "Câmpul :attribute este necesar atunci când :values este prezent.",
+    "required_with_all" => "The :attribute field is required when :values is present.",
     "required_without" => "Câmpul :attribute este necesar atunci când :values nu este prezent.",
     "required_without_all" => "Câmpul :attribute este necesar atunci când nici una din valorile :values ne este prezentă.",
     "same"             => "Câmpul :attribute și :other trebuie să fie identice.",

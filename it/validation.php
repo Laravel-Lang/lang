@@ -57,6 +57,7 @@ return array(
     "required"         => ":attribute è richiesto.",
     "required_if"      => "Il campo :attribute è richiesto quando :other è :value.",
     "required_with"    => "Il campo :attribute è richiesto quando :values è presente.",
+    "required_with_all" => "The :attribute field is required when :values is present.",
     "required_without" => "Il campo :attribute è richiesto quando :values non è presente.",
     "required_without_all" => "The :attribute field is required when none of :values are present.",
     "same"             => ":attribute e :other devono coincidere.",

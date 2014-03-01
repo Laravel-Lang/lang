@@ -4,25 +4,25 @@ return array(
 
     /*
     |--------------------------------------------------------------------------
-	| Validation Language Lines
-	|
-	| اسطر التحقق والتصديق للغة العربية
-	|--------------------------------------------------------------------------
-	|
-	| The following language lines contain the default error messages used by
-	| the validator class.
-	|
-	| الاسطر ادناه تحتوي علي رسائل الخطأ الافتراضية المستخدمة في فئة التحقق.
-	|
-	| Some of these rules have multiple versions such as the size rules.
-	|
-	| بعض هذه القواعد تحتوي علي عدة نسخ مثل قاعدة الحجم. 
-	| 
-	| Feel free to tweak each of these messages.
-	|
-	| لا تتردد في تعديل اي منها.
-	|
-	*/
+    | Validation Language Lines
+    |
+    | اسطر التحقق والتصديق للغة العربية
+    |--------------------------------------------------------------------------
+    |
+    | The following language lines contain the default error messages used by
+    | the validator class.
+    |
+    | الاسطر ادناه تحتوي علي رسائل الخطأ الافتراضية المستخدمة في فئة التحقق.
+    |
+    | Some of these rules have multiple versions such as the size rules.
+    |
+    | بعض هذه القواعد تحتوي علي عدة نسخ مثل قاعدة الحجم.
+    |
+    | Feel free to tweak each of these messages.
+    |
+    | لا تتردد في تعديل اي منها.
+    |
+    */
 
     "accepted"         => ":attribute يجب أن يتم قبوله.",
     "active_url"       => ":attribute ليس عنوان إنترنت صالحًا.",
@@ -69,6 +69,7 @@ return array(
     "required"         => ":attribute مطلوب.",
     "required_if"      => ":attribute مطلوب عندما :other يساوي :value.",
     "required_with"    => ":attribute مطلوب عندما يكون :values موجوداً.",
+    "required_with_all" => "The :attribute field is required when :values is present.",
     "required_without" => ":attribute مطلوب عندما لا يكون :values موجوداً.",
     "required_without_all" => "The :attribute field is required when none of :values are present.",
     "same"             => ":attribute و :other يجب أن يتطابقا.",
@@ -82,25 +83,25 @@ return array(
     "url"              => ":attribute صيغته غير صحيحة.",
 
     /*
-	|--------------------------------------------------------------------------
-	| Custom Validation Language Lines
-	|
-	| اسطر التحقق المخصصه للغة العربية
-	|
-	|--------------------------------------------------------------------------
-	|
-	| Here you may specify custom validation messages for attributes using the
-	| convention "attribute.rule" to name the lines. 
-	|
-	| من هنا يمكنك تحديد رسائل تحقق مخصصه للسمات باستخدام مجمع "attribute.rule" 
-	| لتسمية السطر.
-	|
-	| his makes it quick to specify a specific custom language line for a given
-	| attribute rule.
-	|
-	| يكون التحديد سريعا عند استخدام سمه معينة للغة المخصصة
-	|
-	*/
+    |--------------------------------------------------------------------------
+    | Custom Validation Language Lines
+    |
+    | اسطر التحقق المخصصه للغة العربية
+    |
+    |--------------------------------------------------------------------------
+    |
+    | Here you may specify custom validation messages for attributes using the
+    | convention "attribute.rule" to name the lines.
+    |
+    | من هنا يمكنك تحديد رسائل تحقق مخصصه للسمات باستخدام مجمع "attribute.rule"
+    | لتسمية السطر.
+    |
+    | his makes it quick to specify a specific custom language line for a given
+    | attribute rule.
+    |
+    | يكون التحديد سريعا عند استخدام سمه معينة للغة المخصصة
+    |
+    */
 
     'custom' => array(
         'attribute-name' => array(
@@ -108,22 +109,22 @@ return array(
         ),
     ),
 
-	/*
-	|--------------------------------------------------------------------------
-	| Custom Validation Attributes
-	|
-	| سمات التحقق المخصصه
-	|
-	|--------------------------------------------------------------------------
-	|
-	| The following language lines are used to swap attribute place-holders
-	| with something more reader friendly such as E-Mail Address instead
-	| of "email". This simply helps us make messages a little cleaner.
-	|
-	| الاسطر ادناه تستخدم لتبديل السمات بشكل مقروء اكثر مثل "البريد الالكتروني"
-	| بدلا عن "الايميل". هذه سيساعد في جعل الرسائل اوضح.
-	|
-	*/
+    /*
+    |--------------------------------------------------------------------------
+    | Custom Validation Attributes
+    |
+    | سمات التحقق المخصصه
+    |
+    |--------------------------------------------------------------------------
+    |
+    | The following language lines are used to swap attribute place-holders
+    | with something more reader friendly such as E-Mail Address instead
+    | of "email". This simply helps us make messages a little cleaner.
+    |
+    | الاسطر ادناه تستخدم لتبديل السمات بشكل مقروء اكثر مثل "البريد الالكتروني"
+    | بدلا عن "الايميل". هذه سيساعد في جعل الرسائل اوضح.
+    |
+    */
 
     'attributes' => array(
         "name" => "الاسم",

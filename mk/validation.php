@@ -2,16 +2,16 @@
 
 return array(
 
-	/*
-	|--------------------------------------------------------------------------
-	| Validation Language Lines
-	|--------------------------------------------------------------------------
-	|
-	| The following language lines contain the default error messages used by
-	| the validator class. Some of these rules have multiple versions such
-	| such as the size rules. Feel free to tweak each of these messages.
-	|
-	*/
+    /*
+    |--------------------------------------------------------------------------
+    | Validation Language Lines
+    |--------------------------------------------------------------------------
+    |
+    | The following language lines contain the default error messages used by
+    | the validator class. Some of these rules have multiple versions such
+    | such as the size rules. Feel free to tweak each of these messages.
+    |
+    */
 
     "accepted"         => "Полето :attribute мора да биде прифатено.",
     "active_url"       => "Полето :attribute не е валиден URL.",
@@ -58,6 +58,7 @@ return array(
     "required"         => "Полето :attribute е задолжително.",
     "required_if"      => "Полето :attribute е задолжително, кога :other е :value.",
     "required_with"    => "Полето :attribute е задолжително, кога е внесено :values.",
+    "required_with_all" => "The :attribute field is required when :values is present.",
     "required_without" => "Полето :attribute е задолжително, кога не е внесено :values.",
     "required_without_all" => "The :attribute field is required when none of :values are present.",
     "same"             => "Полињата :attribute и :other треба да совпаѓаат.",
@@ -70,16 +71,16 @@ return array(
     "unique"           => "Полето :attribute веќе постои.",
     "url"              => "Полето :attribute не е во валиден формат.",
 
-	/*
-	|--------------------------------------------------------------------------
-	| Custom Validation Language Lines
-	|--------------------------------------------------------------------------
-	|
-	| Here you may specify custom validation messages for attributes using the
-	| convention "attribute.rule" to name the lines. This makes it quick to
-	| specify a specific custom language line for a given attribute rule.
-	|
-	*/
+    /*
+    |--------------------------------------------------------------------------
+    | Custom Validation Language Lines
+    |--------------------------------------------------------------------------
+    |
+    | Here you may specify custom validation messages for attributes using the
+    | convention "attribute.rule" to name the lines. This makes it quick to
+    | specify a specific custom language line for a given attribute rule.
+    |
+    */
 
     'custom' => array(
         'attribute-name' => array(
@@ -87,16 +88,16 @@ return array(
         ),
     ),
 
-	/*
-	|--------------------------------------------------------------------------
-	| Custom Validation Attributes
-	|--------------------------------------------------------------------------
-	|
-	| The following language lines are used to swap attribute place-holders
-	| with something more reader friendly such as E-Mail Address instead
-	| of "email". This simply helps us make messages a little cleaner.
-	|
-	*/
+    /*
+    |--------------------------------------------------------------------------
+    | Custom Validation Attributes
+    |--------------------------------------------------------------------------
+    |
+    | The following language lines are used to swap attribute place-holders
+    | with something more reader friendly such as E-Mail Address instead
+    | of "email". This simply helps us make messages a little cleaner.
+    |
+    */
 
     'attributes' => array(),
 

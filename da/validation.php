@@ -58,6 +58,7 @@ return array(
     "required"         => ":attribute skal udfyldes.",
     "required_if"      => ":attribute skal udfyldes når :other er :value.",
     "required_with"    => ":attribute skal udfyldes når :values er udfyldt.",
+    "required_with_all" => "The :attribute field is required when :values is present.",
     "required_without" => ":attribute skal udfyldes når :values ikke er udfyldt.",
     "required_without_all" => "The :attribute field is required when none of :values are present.",
     "same"             => ":attribute og :other skal være ens.",

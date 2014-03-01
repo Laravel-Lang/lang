@@ -58,6 +58,7 @@ return array(
     "required"         => "Το πεδίο :attribute είναι απαραίτητο.",
     "required_if"      => "Το πεδίο :attribute είναι απαραίτητο όταν το πεδίο :other είναι :value.",
     "required_with"    => "Το πεδίο :attribute είναι απαραίτητο όταν υπάρχει :values.",
+    "required_with_all" => "The :attribute field is required when :values is present.",
     "required_without" => "Το πεδίο :attribute είναι απαραίτητο όταν δεν υπάρχει :values.",
     "required_without_all" => "The :attribute field is required when none of :values are present.",
     "same"             => "Τα πεδία :attribute και :other πρέπει να είναι ίδια.",

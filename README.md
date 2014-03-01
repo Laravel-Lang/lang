@@ -40,6 +40,14 @@ In `validation.php` file, the text for email has beed updated :
 
 You can follow translations in the issue [#187](https://github.com/caouecs/Laravel4-lang/issues/187).
 
+### Required with all
+
+In `validation.php` file, a new line has beed added :
+
+    "required_with_all" => "The :attribute field is required when :values is present."
+
+You can follow translations in the issue [#193](https://github.com/caouecs/Laravel4-lang/issues/193).
+
 How add languages in my app ?
 ---
 

@@ -58,7 +58,7 @@ return array(
     "required"             => "Le champ :attribute est obligatoire.",
     "required_if"          => "Le champ :attribute est obligatoire quand la valeur de :other est :value.",
     "required_with"        => "Le champ :attribute est obligatoire quand :values est présent.",
-    "required_with_all"    => "The :attribute field is required when all of :values are present.",
+    "required_with_all"    => "Le champ :attribute est obligatoire quand :values est présent.",
     "required_without"     => "Le champ :attribute est obligatoire quand :values n'est pas présent.",
     "required_without_all" => "Le champ :attribute est requis quand aucun de :values n'est présent.",
     "same"                 => "Les champs :attribute et :other doivent être identiques.",

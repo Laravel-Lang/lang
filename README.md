@@ -48,6 +48,8 @@ In `validation.php` file, a new line has beed added :
 
 You can follow translations in the issue [#193](https://github.com/caouecs/Laravel4-lang/issues/193).
 
+---
+
 How add languages in my app ?
 ---
 
@@ -70,6 +72,7 @@ How add languages in my app ?
 
 In the file *app/config/app.php*, change the value of *language* by the short name of your language.
 
+---
 
 How can I add a language in this project ?
 ---

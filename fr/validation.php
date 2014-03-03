@@ -25,7 +25,7 @@ return array(
         "numeric" => "La valeur de :attribute doit être comprise entre :min et :max.",
         "file"    => "Le fichier :attribute doit avoir une taille entre :min et :max kilobytes.",
         "string"  => "Le texte :attribute doit avoir entre :min et :max caractères.",
-        "array"   => "Le champ :attribute doit avoir entre :min - :max éléments."
+        "array"   => "Le champ :attribute doit avoir entre :min et :max éléments."
     ),
     "confirmed"            => "Le champ de confirmation :attribute ne correspond pas.",
     "date"                 => "Le champ :attribute n'est pas une date valide.",

@@ -4,6 +4,7 @@
 
 * Add Montenegrin (me) by [Ognjen MIletić](https://github.com/ognjenm)
 * Update Bosnian (bs) for reminders.send and validation.required_without_all by [mrakodol](https://github.com/mrakodol)
+* Update Danish (da) for validation.required_without_all, new validation.email and validation.required_with_all by [Daniel Bøndergaard](https://github.com/danielboendergaard)
 
 02 March 2014
 

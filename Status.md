@@ -11,7 +11,7 @@
 | Catalan | ca | OK | OK | -- | -- | -- |
 | Chinese | zh-CN | -- | -- | -- | -- | -- |
 | Czech | cs | OK | OK | -- | -- | -- |
-| Danish | da | OK | OK | -- | -- | -- |
+| Danish | da | OK | OK | OK | OK | Ok |
 | Dutch | nl | OK | OK | -- | -- | -- |
 | Finnish | fi | -- | OK | -- | -- | -- |
 | French | fr | OK | OK | OK | OK | OK |

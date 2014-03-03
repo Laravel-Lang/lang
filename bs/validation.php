@@ -30,7 +30,7 @@ return array(
     "date_format" => "Polje :attribute nema odgovarajući format :format.",
     "different" => "Polja :attribute i :other moraju biti različita.",
     "digits" => "Polje :attribute mora da sadži :digits brojeve.",
-    "digits_between" => "POlje :attribute mora biti između :min i :max broja.",
+    "digits_between" => "Polje :attribute mora biti između :min i :max broja.",
     "email" => "Format polja :attribute nije validan.",
     "exists" => "Odabrano polje :attribute nije validno.",
     "image" => "Polje :attribute mora biti slika.",
@@ -58,7 +58,7 @@ return array(
     "required_with" => "Polje :attribute je obavezno kada je :values prikazana.",
     "required_with_all" => "The :attribute field is required when :values is present.",
     "required_without" => "Polje :attribute je obavezno kada :values nije prikazano.",
-    "required_without_all" => "The :attribute field is required when none of :values are present.",
+    "required_without_all" => "Polje :attribute je obavezno kada nijedno :values nije prikazano.",
     "same" => "Polja :attribute i :other se moraju poklapati.",
     "size" => array(
         "numeric" => "Polje :attribute mora biti :size.",

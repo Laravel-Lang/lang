@@ -33,7 +33,7 @@ return array(
     "different"        => ":attribute og :other skal være forskellige.",
     "digits"           => ":attribute skal have :digits decimaler.",
     "digits_between"   => ":attribute skal have mellem :min og :max decimaler.",
-    "email"            => ":attribute format er ugyldigt.",
+    "email"            => ":attribute skal være en gyldig e-mailadresse.",
     "exists"           => "Det valgte :attribute er ugyldig.",
     "image"            => ":attribute skal være et billede.",
     "in"               => "Det valgte :attribute er ugyldig.",

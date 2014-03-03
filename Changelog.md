@@ -2,6 +2,7 @@
 
 03 March 2014
 
+* Add Montenegrin (me) by [Ognjen MIletić](https://github.com/ognjenm)
 * Update Bosnian (bs) for reminders.send and validation.required_without_all by [mrakodol](https://github.com/mrakodol)
 
 02 March 2014

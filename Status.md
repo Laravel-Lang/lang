@@ -24,6 +24,7 @@
 | Japanese | jp | -- | -- | -- | -- | -- |
 | Korean | ko | OK | -- | -- | -- | -- |
 | Macedonian | mk | OK | -- | -- | -- | -- |
+| Montenegrin | me | OK | OK | OK | OK | OK |
 | Norwegian Bokmål | nb | OK | OK | -- | -- | -- |
 | Polish | pl | OK | OK | -- | -- | -- |
 | Portuguese | pt | OK | OK | -- | -- | -- |

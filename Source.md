@@ -117,6 +117,10 @@ Macedonian (mk)
 
 * [maced0n](https://github.com/maced0n)
 
+Montenegrin (me)
+
+* [Ognjen MIletić](https://github.com/ognjenm)
+
 Norwegian Bokmål (nb)
 
 * [Marius](https://github.com/mariuso)

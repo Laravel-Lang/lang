@@ -1,5 +1,9 @@
 # Changelog
 
+03 March 2014
+
+* Update Bosnian (bs) for reminders.send and validation.required_without_all by [mrakodol](https://github.com/mrakodol)
+
 02 March 2014
 
 * Fix on Russian (ru) for validation.required_with_all by [Evgeny Kovalev](https://github.com/EvgenyKovalev)

@@ -4,7 +4,7 @@
 |----------|:----:|:----------:|:----------:|:--------------------:|:----------------:|:-----------------:|
 | Albanian | sq | -- | -- | -- | -- | -- |
 | Arabic | ar | OK | OK | -- | -- | -- |
-| Bosnian | bs | OK | -- | -- | -- | -- |
+| Bosnian | bs | OK | OK | OK | -- | -- |
 | Brazilian | pt-BR | OK | OK | -- | -- | -- |
 | Bulgarian | bg | OK | OK | -- | -- | -- |
 | Cambodian | km | OK | OK | OK | -- | -- |

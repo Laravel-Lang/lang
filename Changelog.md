@@ -1,5 +1,9 @@
 # Changelog
 
+05 March 2014
+
+* Update Indonesian (id) with Translated lines description by [Ivo Idham Perdameian](https://github.com/idhamperdameian)
+
 03 March 2014
 
 * Add Montenegrin (me) by [Ognjen MIletić](https://github.com/ognjenm)

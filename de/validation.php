@@ -58,7 +58,9 @@ return array(
     "required"         => ":attribute muss ausgefüllt sein.",
     "required_if"      => ":attribute muss ausgefüllt sein wenn :other :value ist.",
     "required_with"    => ":attribute muss angegeben werden wenn :values ausgefüllt wurde.",
+    "required_with_all" => "The :attribute field is required when :values is present.",
     "required_without" => ":attribute muss angegeben werden wenn :values nicht ausgefüllt wurde.",
+    "required_without_all" => ":attribute muss angegeben werden wenn keines der Felder :values ausgefüllt wurde.",
     "same"             => ":attribute und :other müssen übereinstimmen.",
     "size"             => array(
         "numeric" => ":attribute muss gleich :size sein.",
@@ -80,7 +82,11 @@ return array(
     |
     */
 
-    'custom' => array(),
+    'custom' => array(
+        'attribute-name' => array(
+            'rule-name' => 'custom-message',
+        ),
+    ),
 
     /*
     |--------------------------------------------------------------------------

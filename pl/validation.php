@@ -19,13 +19,13 @@ return array(
     "alpha"            => ":attribute może zawierać jedynie litery.",
     "alpha_dash"       => ":attribute może zawierać jedynie litery, cyfry i myślniki.",
     "alpha_num"        => ":attribute może zawierać jedynie litery i cyfry.",
-    "array"            => "The :attribute must be an array.",
+    "array"            => ":attribute musi być tablicą.",
     "before"           => ":attribute musi być datą wcześniejszą od :date.",
     "between"          => array(
         "numeric" => ":attribute musi zawierać się w granicach :min - :max.",
         "file"    => ":attribute musi zawierać się w granicach :min - :max kilobajtów.",
         "string"  => ":attribute musi zawierać się w granicach :min - :max znaków.",
-        "array"   => "The :attribute must have between :min - :max items."
+        "array"   => ":attribute musi składać się z :min - :max elementów."
     ),
     "confirmed"        => "Potwierdzenie :attribute nie zgadza się.",
     "date"             => ":attribute nie jest prawidłową datą.",
@@ -43,28 +43,30 @@ return array(
         "numeric" => ":attribute nie może być większy niż :max.",
         "file"    => ":attribute nie może być większy niż :max kilobajtów.",
         "string"  => ":attribute nie może być dłuższy niż :max znaków.",
-        "array"   => "The :attribute may not have more than :max items."
+        "array"   => ":attribute nie może mieć więcej niż :max elementów."
     ),
     "mimes"            => ":attribute musi być plikiem typu :values.",
     "min"              => array(
         "numeric" => ":attribute musi być nie mniejszy od :min.",
         "file"    => ":attribute musi mieć przynajmniej :min kilobajtów.",
         "string"  => ":attribute musi mieć przynajmniej :min znaków.",
-        "array"   => "The :attribute must have at least :min items."
+        "array"   => ":attribute musi mieć przynajmniej :min elementów."
     ),
-    "not_in"           => "Zaznaczony :attribute is jest nieprawidłowy.",
-    "numeric"          => ":attribute musi byc liczbą.",
+    "not_in"           => "Zaznaczony :attribute jest nieprawidłowy.",
+    "numeric"          => ":attribute musi być liczbą.",
     "regex"            => "Format :attribute jest nieprawidłowy.",
     "required"         => "Pole :attribute jest wymagane.",
     "required_if"      => "Pole :attribute jest wymagane gdy :other jest :value.",
     "required_with"    => "Pole :attribute jest wymagane gdy :values jest obecny.",
+    "required_with_all"    => "The :attribute field is required when :values is present.",
     "required_without" => "Pole :attribute jest wymagane gdy :values nie jest obecny.",
+    "required_without_all" => "The :attribute field is required when none of :values are present.",
     "same"             => "Pole :attribute i :other muszą się zgadzać.",
     "size"             => array(
         "numeric" => ":attribute musi mieć :size.",
         "file"    => ":attribute musi mieć :size kilobajtów.",
         "string"  => ":attribute musi mieć :size znaków.",
-        "array"   => "The :attribute must contain :size items."
+        "array"   => ":attribute musi zawierać :size elementów."
     ),
     "unique"           => "Taki :attribute już występuje.",
     "url"              => "Format :attribute jest nieprawidłowy.",
@@ -80,7 +82,11 @@ return array(
     |
     */
 
-    'custom' => array(),
+    'custom' => array(
+        'attribute-name' => array(
+            'rule-name' => 'custom-message',
+        ),
+    ),
 
     /*
     |--------------------------------------------------------------------------

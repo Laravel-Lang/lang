@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 return array(
 
@@ -13,8 +13,8 @@ return array(
     |
     */
 
-    'previous' => '&laquo; Trang sau',
-    
-    'next'     => 'Trang trước &raquo;',
+    'previous' => '&laquo; Nazad',
+
+    'next'     => 'Naprijed &raquo;',
 
 );

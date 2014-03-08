@@ -1,14 +1,5 @@
 <?php
 
-/*
-|--------------------------------------------------------------------------
-| Vietnamese Language for Laravel 4
-|--------------------------------------------------------------------------
-|
-| Translate by anhsk.ohbo@gmail.com
-|
-*/
-
 return array(
 
     /*
@@ -21,7 +12,7 @@ return array(
     | such as the size rules. Feel free to tweak each of these messages.
     |
     */
-    
+
     "accepted"         => "Trường :attribute phải đuợc chấp nhận.",
     "active_url"       => "Trường :attribute không phải là một URL hợp lệ.",
     "after"            => "Trường :attribute phải là một ngày sau ngày :date.",
@@ -42,7 +33,7 @@ return array(
     "different"        => "Trường :attribute và :other phải khác nhau.",
     "digits"           => "Độ dài của trường :attribute phải gồm :digits chữ số.",
     "digits_between"   => "Độ dài của trường :attribute phải nằm trong khoảng :min and :max chữ số.",
-    "email"            => "Trường :attribute không giống với định dạng của email.",
+    "email"            => "Trường :attribute phải là một địa chỉ email hợp lệ.",
     "exists"           => "Giá trị đã chọn trong trường :attribute không hợp lệ.",
     "image"            => "Các tập tin trong trường :attribute phải là định dạng hình ảnh.",
     "in"               => "Giá trị đã chọn trong trường :attribute không hợp lệ.",
@@ -67,7 +58,9 @@ return array(
     "required"         => "Trường :attribute không đuợc bỏ trống.",
     "required_if"      => "Trường :attribute không đuợc bỏ trống khi trường :other là :value.",
     "required_with"    => "Trường :attribute không đuợc bỏ trống khi trường :values có giá trị.",
+    "required_with_all" => "The :attribute field is required when :values is present.",
     "required_without" => "Trường :attribute không đuợc bỏ trống khi trường :values không có giá trị.",
+    "required_without_all" => "Trường :attribute không đuợc bỏ trống khi tất cả :values không có giá trị.",
     "same"             => "Trường :attribute và :other phải giống nhau.",
     "size"             => array(
         "numeric" => "Trường :attribute phải bằng :size.",
@@ -89,7 +82,11 @@ return array(
     |
     */
 
-    'custom' => array(),
+    'custom' => array(
+        'attribute-name' => array(
+            'rule-name' => 'custom-message',
+        ),
+    ),
 
     /*
     |--------------------------------------------------------------------------

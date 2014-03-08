@@ -16,11 +16,39 @@ You can follow translations in the issue [#73](https://github.com/caouecs/Larave
 Laravel 4.1
 ---
 
+### Password reminder sent
+
 To be ready for the new version of Laravel, we need your help. In `reminders.php` file, a new line has been added :
 
     "sent" => "Password reminder sent!",
 
 You can follow translations in the issue [#137](https://github.com/caouecs/Laravel4-lang/issues/137).
+
+### Required without all
+
+In `validation.php` file, a new line has been added :
+
+    "required_without_all" => "The :attribute field is required when none of :values are present."
+
+You can follow translations in the issue [#172](https://github.com/caouecs/Laravel4-lang/issues/172).
+
+### Validation email
+
+In `validation.php` file, the text for email has beed updated :
+
+    "email" => "The :attribute must be a valid email address."
+
+You can follow translations in the issue [#187](https://github.com/caouecs/Laravel4-lang/issues/187).
+
+### Required with all
+
+In `validation.php` file, a new line has beed added :
+
+    "required_with_all" => "The :attribute field is required when :values is present."
+
+You can follow translations in the issue [#193](https://github.com/caouecs/Laravel4-lang/issues/193).
+
+---
 
 How add languages in my app ?
 ---
@@ -34,7 +62,7 @@ How add languages in my app ?
 
 ### Installation by Composer
 
- * Add *"caouecs/laravel4-lang": "dev-master"* in your composer.conf in "require" or run *composer require caouecs/laravel4-lang*
+ * Add *"caouecs/laravel4-lang": "dev-master"* in your `composer.json` in "require" or run *composer require caouecs/laravel4-lang*
  * Do "composer update"
  * Files of languages are in "vendor/caouecs/laravel4-lang" directory
  * Copy the folders of languages that you want, in *app/lang* folder of your application Laravel
@@ -44,6 +72,7 @@ How add languages in my app ?
 
 In the file *app/config/app.php*, change the value of *language* by the short name of your language.
 
+---
 
 How can I add a language in this project ?
 ---

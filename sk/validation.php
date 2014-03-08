@@ -52,13 +52,15 @@ return array(
         "string"  => ":attribute musí mať aspoň :min znakov.",
         "array"   => ":attribute must have at least :min prvkov.",
     ),
-    "not_in"           => "označený:attribute je neplatný.",
-    "numeric"          => ":attribute musí byť číslo.",
-    "regex"            => ":attribute má neplatný formát.",
-    "required"         => ":attribute je požadované.",
-    "required_if"      => ":attribute je požadované keď :other je :value.",
-    "required_with"    => ":attribute je požadované keď :values je prítomné.",
-    "required_without" => ":attribute je požadované keď :values nie je prítomné.",
+    "not_in"            => "označený:attribute je neplatný.",
+    "numeric"           => ":attribute musí byť číslo.",
+    "regex"             => ":attribute má neplatný formát.",
+    "required"          => ":attribute je požadované.",
+    "required_if"       => ":attribute je požadované keď :other je :value.",
+    "required_with"     => ":attribute je požadované keď :values je prítomné.",
+    "required_with_all" => "The :attribute field is required when :values is present.",
+    "required_without"  => ":attribute je požadované keď :values nie je prítomné.",
+    "required_without_all" => "The :attribute field is required when none of :values are present.",
     "same"             => ":attribute a :other sa musia zhodovať.",
     "size"             => array(
         "numeric" => ":attribute musí mať :size.",
@@ -80,7 +82,11 @@ return array(
     |
     */
 
-    'custom' => array(),
+    'custom' => array(
+        'attribute-name' => array(
+            'rule-name' => 'custom-message',
+        ),
+    ),
 
     /*
     |--------------------------------------------------------------------------

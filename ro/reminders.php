@@ -15,10 +15,10 @@ return array(
 
     "password" => "Parolele trebuie să fie de șase caractere și să se potrivească cu cea de confirmare.",
 
-    "user"     => "Nu putem găsi un utilizator cu acea adresă de e-mail.",
+    "user"     => "Nu putem găsi un utilizator cu acestă adresă de e-mail.",
 
     "token"    => "Acest token de resetare a parolei este invalid.",
 
-    "sent"     => "Password reminder sent!",
+    "sent"     => "Email cu confirmare a resetării parolei a fost trimis!",
 
 );

@@ -58,7 +58,9 @@ return array(
     "required"         => "Полето :attribute е задължително.",
     "required_if"      => "Полето :attribute се изисква, когато :other е :value.",
     "required_with"    => "Полето :attribute се изисква, когато :values има стойност.",
+    "required_with_all" => "The :attribute field is required when :values is present.",
     "required_without" => "Полето :attribute се изисква, когато :values няма стойност.",
+    "required_without_all" => "The :attribute field is required when none of :values are present.",
     "same"             => "Полетата :attribute и :other трябва да съвпадат.",
     "size"             => array(
         "numeric" => "Полето :attribute трябва да бъде :size.",
@@ -68,7 +70,6 @@ return array(
     ),
     "unique"           => "Полето :attribute вече съществува.",
     "url"              => "Полето :attribute е в невалиден формат.",
-    "recaptcha" => 'Стойността на :attribute е неправилна.',
 
     /*
     |--------------------------------------------------------------------------
@@ -81,7 +82,11 @@ return array(
     |
     */
 
-    'custom' => array(),
+    'custom' => array(
+        'attribute-name' => array(
+            'rule-name' => 'custom-message',
+        ),
+    ),
 
     /*
     |--------------------------------------------------------------------------

@@ -13,12 +13,12 @@ return array(
     |
     */
 
-    "password" => "Lösenord måste vara minst sex tecken och matcha varandra.",
+    "password" => "Lozinke moraju biti najmanje 6 karaktera.",
 
-    "user"     => "Vi kan inte hitta en användare med den e-postadressen.",
+    "user"     => "Nijesmo uspeli pronaći korisnika sa unešenom emajl adresom.",
 
-    "token"    => "Koden för lösnordsåterställning är ogiltig.",
+    "token"    => "Unešena oznaka za resetovanje lozinke nije validna.",
 
-    "sent"     => "Lösenord påminnelse skickat!",
+    "sent"     => "Poslali smo link za resetovanje vaše lozinke!",
 
 );

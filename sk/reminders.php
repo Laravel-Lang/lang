@@ -17,8 +17,8 @@ return array(
 
     "user"     => "Nepodarilo sa nájsť používateľa s touto e-mailovou adresou.",
 
-    "token"    => "Tento resetovací token hesla je neplatný.",
+    "token"    => "Klúč pre obnovu hesla je neplatný.",
 
-    "sent"     => "Password reminder sent!",
+    "sent"     => "Pripomienka k zmene hesla bola odoslaná!",
 
 );

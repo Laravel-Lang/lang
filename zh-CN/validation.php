@@ -58,7 +58,9 @@ return array(
     "required"         => ":attribute 属性需要填写字段。",
     "required_if"      => ":attribute 属性当 :other 为 :value时为必填项。",
     "required_with"    => ":attribute 属性当 :values 存在时为必填项。",
+    "required_with_all" => "The :attribute field is required when :values is present.",
     "required_without" => ":attribute 属性当 :values 不存在时为必填项。",
+    "required_without_all" => "The :attribute field is required when none of :values are present.",
     "same"             => ":attribute 和 :other 必须匹配。",
     "size"             => array(
         "numeric" => ":attribute 大小必须是 :size 。",
@@ -80,7 +82,11 @@ return array(
     |
     */
 
-    'custom' => array(),
+    'custom' => array(
+        'attribute-name' => array(
+            'rule-name' => 'custom-message',
+        ),
+    ),
 
     /*
     |--------------------------------------------------------------------------

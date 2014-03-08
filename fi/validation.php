@@ -28,10 +28,10 @@ return array(
         "array"   => "The :attribute must have between :min - :max items."
     ),
     "confirmed"        => ":attribute vahvistus ei täsmää.",
-    "date"             => "The :attribute is not a valid date.",
-    "date_format"      => "The :attribute does not match the format :format.",
+    "date"             => ":attribute ei ole kelvollinen päivämäärä.",
+    "date_format"      => ":attribute ei vastaa muotoa :format.",
     "different"        => ":attribute ja :other tulee olla eri arvoisia.",
-    "digits"           => "The :attribute must be :digits digits.",
+    "digits"           => ":attribute on oltava :digits numeroin.",
     "digits_between"   => "The :attribute must be between :min and :max digits.",
     "email"            => ":attribute muoto on virheellinen.",
     "exists"           => "valittu :attribute on virheellinen.",
@@ -58,7 +58,9 @@ return array(
     "required"         => ":attribute kenttä on pakollinen.",
     "required_if"      => "The :attribute field is required when :other is :value.",
     "required_with"    => "The :attribute field is required when :values is present.",
+    "required_with_all" => "The :attribute field is required when :values is present.",
     "required_without" => "The :attribute field is required when :values is not present.",
+    "required_without_all" => "The :attribute field is required when none of :values are present.",
     "same"             => ":attribute ja :other on oltava samat.",
     "size"             => array(
         "numeric" => ":attribute pitää olla kokoa: :size.",
@@ -80,7 +82,11 @@ return array(
     |
     */
 
-    'custom' => array(),
+    'custom' => array(
+        'attribute-name' => array(
+            'rule-name' => 'custom-message',
+        ),
+    ),
 
     /*
     |--------------------------------------------------------------------------

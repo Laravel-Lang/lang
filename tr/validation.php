@@ -67,7 +67,9 @@ return array(
     "required"       => ":attribute alanı gereklidir.",
     "required_if"      => ":attribute alanı, :other :value değerine sahip olduğunda zorunludur.",
     "required_with"   => ":attribute alanı :values varken zorunludur.",
+    "required_with_all" => "The :attribute field is required when :values is present.",
     "required_without" => ":attribute alanı :values yokken zorunludur.",
+    "required_without_all" => "The :attribute field is required when none of :values are present.",
     "same"           => ":attribute ile :other eşleşmelidir.",
     "size"           => array(
         "numeric" => ":attribute :size olmalıdır.",
@@ -89,7 +91,11 @@ return array(
     |
     */
 
-    'custom' => array(),
+    'custom' => array(
+        'attribute-name' => array(
+            'rule-name' => 'custom-message',
+        ),
+    ),
 
     /*
     |--------------------------------------------------------------------------

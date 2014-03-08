@@ -18,13 +18,13 @@ return array(
     "alpha"            => ":attribute får endast innehålla bokstäver.",
     "alpha_dash"       => ":attribute får endast innehålla bokstäver, nummer och bindestreck.",
     "alpha_num"        => ":attribute får endast innehålla bokstäver och nummer.",
-    "array"            => "The :attribute must be an array.",
+    "array"            => ":attribute måste vara en array.",
     "before"           => ":attribute måste vara ett datum innan den :date.",
     "between"          => array(
         "numeric" => ":attribute måste vara ett nummer mellan :min och :max.",
         "file"    => ":attribute måste vara mellan :min till :max kilobytes stor.",
         "string"  => ":attribute måste innehålla :min till :max tecken.",
-        "array"   => "The :attribute must have between :min - :max items."
+        "array"   => ":attribute måste innehålla mellan :min - :max objekt."
     ),
     "confirmed"        => ":attribute bekräftelsen matchar inte.",
     "date"             => ":attribute är inte ett giltigt datum.",
@@ -42,14 +42,14 @@ return array(
         "numeric" => ":attribute får inte vara större än :max.",
         "file"    => ":attribute får max vara :max kilobytes stor.",
         "string"  => ":attribute får max innehålla :max tecken.",
-        "array"   => "The :attribute may not have more than :max items."
+        "array"   => ":attribute får inte innehålla mer än :max objekt."
     ),
     "mimes"            => ":attribute måste vara en fil av typen: :values.",
     "min"              => array(
         "numeric" => ":attribute måste vara större än :min.",
         "file"    => ":attribute måste minst vara :min kilobytes stor.",
         "string"  => ":attribute måste minst innehålla :min tecken.",
-        "array"   => "The :attribute must have at least :min items."
+        "array"   => ":attribute måste minst innehålla :min objekt."
     ),
     "not_in"           => "Det valda :attribute är ogiltigt.",
     "numeric"          => ":attribute måste vara ett nummer.",
@@ -57,16 +57,18 @@ return array(
     "required"         => ":attribute fältet är obligatoriskt.",
     "required_if"      => "Fältet :attribute är obligatoriskt då :other är :value.",
     "required_with"    => "Fältet :attribute är obligatoriskt då :values är ifyllt.",
+    "required_with_all" => "The :attribute field is required when :values is present.",
     "required_without" => "Fältet :attribute är obligatoriskt då :values ej är ifyllt.",
+    "required_without_all" => "The :attribute field is required when none of :values are present.",
     "same"             => ":attribute och :other måste vara lika.",
     "size"             => array(
         "numeric" => ":attribute måste vara :size.",
         "file"    => ":attribute får endast vara :size kilobyte stor.",
         "string"  => ":attribute måste innehålla :size tecken.",
-        "array"   => "The :attribute must contain :size items."
+        "array"   => ":attribute måste innehålla :size objekt."
     ),
     "unique"           => ":attribute används redan.",
-    "url"              => ":attribute formatet är ogiltig",
+    "url"              => ":attribute formatet är ogiltig.",
 
     /*
     |--------------------------------------------------------------------------
@@ -79,7 +81,11 @@ return array(
     |
     */
 
-    'custom' => array(),
+    'custom' => array(
+        'attribute-name' => array(
+            'rule-name' => 'custom-message',
+        ),
+    ),
 
     /*
     |--------------------------------------------------------------------------

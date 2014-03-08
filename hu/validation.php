@@ -58,7 +58,9 @@ return array(
     "required"         => "A(z) :attribute megadása kötelező!",
     "required_if"      => "A(z) :attribute megadása kötelező, ha a(z) :other értéke :value!",
     "required_with"    => "A(z) :attribute megadása kötelező, ha a(z) :values értékek léteznek.",
+    "required_with_all" => "The :attribute field is required when :values is present.",
     "required_without" => "A(z) :attribute megadása kötelező, ha a(z) :values értékek nem léteznek.",
+    "required_without_all" => "The :attribute field is required when none of :values are present.",
     "same"             => "A(z) :attribute és :other mezőknek egyezniük kell!",
     "size"             => array(
         "numeric" => "A(z) :attribute értéke :size kell, hogy legyen!",
@@ -80,7 +82,11 @@ return array(
     |
     */
 
-    'custom' => array(),
+    'custom' => array(
+        'attribute-name' => array(
+            'rule-name' => 'custom-message',
+        ),
+    ),
 
     /*
     |--------------------------------------------------------------------------

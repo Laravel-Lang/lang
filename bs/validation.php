@@ -1,16 +1,16 @@
 <?php
 
 return array(
-/*
-|--------------------------------------------------------------------------
-| Validation Language Lines
-|--------------------------------------------------------------------------
-|
-| The following language lines contain the default error messages used by
-| the validator class. Some of these rules have multiple versions such
-| such as the size rules. Feel free to tweak each of these messages.
-|
-*/
+    /*
+    |--------------------------------------------------------------------------
+    | Validation Language Lines
+    |--------------------------------------------------------------------------
+    |
+    | The following language lines contain the default error messages used by
+    | the validator class. Some of these rules have multiple versions such
+    | such as the size rules. Feel free to tweak each of these messages.
+    |
+    */
     "accepted" => "Polje :attribute mora biti prihvaćeno.",
     "active_url" => "Polje :attribute nije validan URL.",
     "after" => "Polje :attribute mora biti datum poslije :date.",
@@ -30,7 +30,7 @@ return array(
     "date_format" => "Polje :attribute nema odgovarajući format :format.",
     "different" => "Polja :attribute i :other moraju biti različita.",
     "digits" => "Polje :attribute mora da sadži :digits brojeve.",
-    "digits_between" => "POlje :attribute mora biti između :min i :max broja.",
+    "digits_between" => "Polje :attribute mora biti između :min i :max broja.",
     "email" => "Format polja :attribute nije validan.",
     "exists" => "Odabrano polje :attribute nije validno.",
     "image" => "Polje :attribute mora biti slika.",
@@ -56,7 +56,9 @@ return array(
     "required" => "Polje :attribute je obavezno.",
     "required_if" => "Polje :attribute je obavezno kada :other je :value.",
     "required_with" => "Polje :attribute je obavezno kada je :values prikazana.",
+    "required_with_all" => "The :attribute field is required when :values is present.",
     "required_without" => "Polje :attribute je obavezno kada :values nije prikazano.",
+    "required_without_all" => "Polje :attribute je obavezno kada nijedno :values nije prikazano.",
     "same" => "Polja :attribute i :other se moraju poklapati.",
     "size" => array(
         "numeric" => "Polje :attribute mora biti :size.",
@@ -68,28 +70,32 @@ return array(
     "url" => "Format polja :attribute nije validan.",
 
     /*
-|--------------------------------------------------------------------------
-| Custom Validation Language Lines
-|--------------------------------------------------------------------------
-|
-| Here you may specify custom validation messages for attributes using the
-| convention "attribute.rule" to name the lines. This makes it quick to
-| specify a specific custom language line for a given attribute rule.
-|
-*/
+    |--------------------------------------------------------------------------
+    | Custom Validation Language Lines
+    |--------------------------------------------------------------------------
+    |
+    | Here you may specify custom validation messages for attributes using the
+    | convention "attribute.rule" to name the lines. This makes it quick to
+    | specify a specific custom language line for a given attribute rule.
+    |
+    */
 
-    'custom' => array(),
+    'custom' => array(
+        'attribute-name' => array(
+            'rule-name' => 'custom-message',
+        ),
+    ),
 
     /*
-|--------------------------------------------------------------------------
-| Custom Validation Attributes
-|--------------------------------------------------------------------------
-|
-| The following language lines are used to swap attribute place-holders
-| with something more reader friendly such as E-Mail Address instead
-| of "email". This simply helps us make messages a little cleaner.
-|
-*/
+    |--------------------------------------------------------------------------
+    | Custom Validation Attributes
+    |--------------------------------------------------------------------------
+    |
+    | The following language lines are used to swap attribute place-holders
+    | with something more reader friendly such as E-Mail Address instead
+    | of "email". This simply helps us make messages a little cleaner.
+    |
+    */
 
     'attributes' => array(),
 

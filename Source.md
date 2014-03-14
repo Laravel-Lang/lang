@@ -63,6 +63,7 @@ Finnish (fi)
 French (fr)
 
 * [Alexandre Butynski](https://github.com/alexandre-butynski)
+* [Alex-Info.net](https://github.com/AlexInfoNet)
 * [Barbuslex](https://github.com/barbuslex)
 * [Fred Delrieu](https://github.com/caouecs)
 * [Laravel-France](https://github.com/laravel-france)

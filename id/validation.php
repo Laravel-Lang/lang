@@ -3,13 +3,13 @@
 return array(
 
     /*
-    |--------------------------------------------------------------------------
-    | Validation Language Lines
-    |--------------------------------------------------------------------------
+    |---------------------------------------------------------------------------------------
+    | Baris Bahasa untuk Validasi
+    |---------------------------------------------------------------------------------------
     |
-    | The following language lines contain the default error messages used by
-    | the validator class. Some of these rules have multiple versions such
-    | as the size rules. Feel free to tweak each of these messages here.
+    | Baris bahasa berikut ini berisi standar pesan kesalahan yang digunakan oleh
+    | kelas validasi. Beberapa aturan mempunyai multi versi seperti aturan 'size'.
+    | Jangan ragu untuk mengoptimalkan setiap pesan yang ada di sini.
     |
     */
 
@@ -72,13 +72,13 @@ return array(
     "url"                  => "Format isian :attribute tidak valid.",
 
     /*
-    |--------------------------------------------------------------------------
-    | Custom Validation Language Lines
-    |--------------------------------------------------------------------------
+    |---------------------------------------------------------------------------------------
+    | Baris Bahasa untuk Validasi Kustom
+    |---------------------------------------------------------------------------------------
     |
-    | Here you may specify custom validation messages for attributes using the
-    | convention "attribute.rule" to name the lines. This makes it quick to
-    | specify a specific custom language line for a given attribute rule.
+    | Di sini Anda dapat menentukan pesan validasi kustom untuk atribut dengan menggunakan
+    | konvensi "attribute.rule" dalam penamaan baris. Hal ini membuat cepat dalam
+    | menentukan spesifik baris bahasa kustom untuk aturan atribut yang diberikan.
     |
     */
 
@@ -89,13 +89,13 @@ return array(
     ),
 
     /*
-    |--------------------------------------------------------------------------
-    | Custom Validation Attributes
-    |--------------------------------------------------------------------------
+    |---------------------------------------------------------------------------------------
+    | Kustom Validasi Atribut
+    |---------------------------------------------------------------------------------------
     |
-    | The following language lines are used to swap attribute place-holders
-    | with something more reader friendly such as E-Mail Address instead
-    | of "email". This simply helps us make messages a little cleaner.
+    | Baris bahasa berikut digunakan untuk menukar atribut 'place-holders'
+    | dengan sesuatu yang lebih bersahabat dengan pembaca seperti Alamat Surel daripada
+    | "surel" saja. Ini benar-benar membantu kita membuat pesan sedikit bersih.
     |
     */
 

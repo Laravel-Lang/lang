@@ -1,5 +1,14 @@
 # Changelog
 
+14 March 2014
+
+* Update French with fix by [Elyahou](https://github.com/Elyahou)
+
+12 March 2014
+
+* Update Dutch (nl) with `required_*` by [Herman](https://github.com/sintemaa)
+* Update Danish (da) with fix by [Daniel Bøndergaard](https://github.com/danielboendergaard)
+
 05 March 2014
 
 * Update Indonesian (id) with Translated lines description by [Ivo Idham Perdameian](https://github.com/idhamperdameian)

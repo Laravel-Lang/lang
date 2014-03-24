@@ -1,5 +1,6 @@
 Laravel4-lang
 =============
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/caouecs/laravel4-lang/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
 In this repository, you can find the lang files for the framework PHP, [Laravel 4](http://www.laravel.com).
 
@@ -90,5 +91,3 @@ How can I fix a file ?
 * fork this repository
 * update the file
 * add a pull request with the name of the language
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/caouecs/laravel4-lang/trend.png)](https://bitdeli.com/free "Bitdeli Badge")

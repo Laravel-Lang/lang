@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 
 return array(
 
@@ -24,7 +24,7 @@ return array(
     |
     */
 
-    "accepted"         => ":attribute يجب أن يتم قبوله.",
+    "accepted"         => ":attribute يجب أن يتم قبول.",
     "active_url"       => ":attribute ليس عنوان إنترنت صالحًا.",
     "before"           => ":attribute يجب أن يكون تاريخ قبل :date.",
     "after"            => ":attribute يجب أن يكون تاريخًا بعد :date.",
@@ -40,14 +40,14 @@ return array(
     ),
     "confirmed"        => "تأكيد :attribute لا يتطابق.",
     "date"             => ":attribute ليس تاريخ صحيح.",
-    "date_format"      => ":attribute لا يطابق الصيغة :الصيغه.",
+    "date_format"      => ":attribute لا يطابق الصيغة :الصيغة.",
     "different"        => ":attribute و :الأخر يجب أن يكونا مختلفين.",
     "digits"           => ":attribute يجب أن يتكون من :digits أرقام.",
     "digits_between"   => ":attribute يجب أن يكون بين :min و :max أرقام.",
     "email"            => ":attribute بصيغة خاطئة.",
     "exists"           => ":attribute المختار غير صالح.",
     "image"            => ":attribute يجب أن يكون صورة",
-    "in"               => "قيمة :attribute المختارة غير صالحة.",
+    "in"               => "قيمة :attribute المختارة غير صالح.",
     "integer"          => ":attribute يجب أن يكون رقماً صحيحاً.",
     "ip"               => ":attribute يجب أن يكون عنوان أنترنت (IP) صحيحاً.",
     "max"              => array(
@@ -71,8 +71,8 @@ return array(
     "required_with"    => ":attribute مطلوب عندما يكون :values موجوداً.",
     "required_with_all" => ":attribute مطلوب عندما يكون :values is موجوداً.",
     "required_without" => ":attribute مطلوب عندما لا يكون :values موجوداً.",
-    "required_without_all" => "The :attribute field is required when none of :values are present.",
-    "same"             => ":attribute و :other يجب أن يتطابقا.",
+    "required_without_all" => " :attribute مطلوب عندما لا يكون :values موجوداً.",
+    "same"             => ":attribute و :الأخر يجب أن يتطابقا.",
     "size"             => array(
         "numeric" => ":attribute يجب أن يكون :size.",
         "file"    => ":attribute يجب أن يكون :size كيلو بايت.",

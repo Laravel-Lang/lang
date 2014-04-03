@@ -59,7 +59,7 @@ return array(
     "required_with"    => "Fältet :attribute är obligatoriskt då :values är ifyllt.",
     "required_with_all" => "The :attribute field is required when :values is present.",
     "required_without" => "Fältet :attribute är obligatoriskt då :values ej är ifyllt.",
-    "required_without_all" => "The :attribute field is required when none of :values are present.",
+    "required_without_all" => "Fältet :attribute är obligatoriskt när ingen av :values är ifyllt.",
     "same"             => ":attribute och :other måste vara lika.",
     "size"             => array(
         "numeric" => ":attribute måste vara :size.",

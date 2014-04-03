@@ -3,7 +3,7 @@
 | Language | name | L4.0 ready | v4.1 ready | required_without_all | validation.email | required_with_all |
 |----------|:----:|:----------:|:----------:|:--------------------:|:----------------:|:-----------------:|
 | Albanian | sq | -- | -- | -- | -- | -- |
-| Arabic | ar | OK | OK | -- | -- | -- |
+| Arabic | ar | OK | OK | OK | OK | OK |
 | Bosnian | bs | OK | OK | OK | -- | -- |
 | Brazilian | pt-BR | OK | OK | -- | -- | -- |
 | Bulgarian | bg | OK | OK | -- | -- | -- |
@@ -32,8 +32,8 @@
 | Russian | ru | OK | OK | OK | OK | OK |
 | Serbian | sr | OK | OK | -- | -- | -- |
 | Slovak | sk | OK | OK | -- | -- | -- |
-| Spanish | es | OK | OK | -- | -- | -- |
-| Swedish | sv | OK | OK | -- | -- | -- |
+| Spanish | es | OK | OK | OK | OK | -- |
+| Swedish | sv | OK | OK | OK | OK | OK |
 | Thai | th | OK | -- | -- | -- | -- |
 | Traditional Chinese (Hong Kong) | zh-HK | -- | -- | -- | -- | -- |
 | Turkish | tr | OK | OK | -- | -- | -- |

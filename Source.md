@@ -7,6 +7,7 @@ Albanian (sq)
 Arabic (ar)
 
 * [Ammar Alakkad](https://github.com/AAlakkad)
+* [bo3bdo](https://github.com/bo3bdo)
 * [Ibrahim AshShohail](https://github.com/laheab)
 * [Ihab Shoully](https://github.com/shoully)
 
@@ -161,11 +162,13 @@ Slovak (sk)
 
 Spanish (es)
 
+* [Anton Zekeriev Rodin](https://github.com/antonrodin)
 * [Javier Cadiz](https://github.com/cadizjavier)
 * [Nikolas](https://github.com/nikoskip)
 
 Swedish (sv)
 
+* [coldKingdom](https://github.com/coldKingdom)
 * [Jonas Söderberg](https://github.com/imevul)
 * [Linus Odenring](https://github.com/linusodenring)
 * [thomeu](https://github.com/thomeu)

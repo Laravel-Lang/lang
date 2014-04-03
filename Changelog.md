@@ -1,8 +1,20 @@
 # Changelog
 
+03 April 2014
+
+* Update Swedish (sv) for validation.required_without_all, new validation.email and validation.required_with_all by [coldKingdom](https://github.com/coldKingdom)
+
+31 March 2014
+
+* Update Arabic (ar) for fix, validation.required_without_all and validation.required_with_all by [bo3bdo](https://github.com/bo3bdo)
+
+29 March 2014
+
+* Update Spanish (es) for validation.required_without_all and validation.required_with_all by [Anton Zekeriev Rodin](https://github.com/antonrodin)
+
 14 March 2014
 
-* Update French with fix by [Elyahou](https://github.com/Elyahou)
+* Update French (fr) with fix by [Elyahou](https://github.com/Elyahou)
 
 12 March 2014
 

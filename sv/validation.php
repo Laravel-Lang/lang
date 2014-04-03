@@ -32,7 +32,7 @@ return array(
     "different"        => ":attribute och :other får inte vara lika.",
     "digits"           => ":attribute måste vara minst :digits tecken.",
     "digits_between"   => ":attribute måste vara mellan :min och :max tecken.",
-    "email"            => ":attribute måste vara en korrekt e-postadress.",
+    "email"            => "Fältet :attribute måste innehålla en korrekt e-postadress.",
     "exists"           => "Det valda :attribute är ogiltigt.",
     "image"            => ":attribute måste vara en bild.",
     "in"               => "Det valda :attribute är ogiltigt.",

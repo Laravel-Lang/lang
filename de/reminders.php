@@ -13,11 +13,11 @@ return array(
     |
     */
 
-    "password" => "Passwörter müssen 6 Zeichen lang sein und korrekt bestätigt werden.",
+    "password" => "Passwörter müssen mindestens 6 Zeichen lang sein und korrekt bestätigt werden.",
 
     "user"     => "Wir konnten leider keinen Nutzer mit dieser E-Mail Adresse finden.",
 
-    "token"    => "Der Passwort-Wiederherstellungs-Schlüssel ist ungültig.",
+    "token"    => "Der Passwort-Wiederherstellungs-Schlüssel ist ungültig oder abgelaufen.",
 
     "sent"     => "Passworterinnerung wurde gesendet!",
 

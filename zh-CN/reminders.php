@@ -13,12 +13,12 @@ return array(
     |
     */
 
-    "password" => "密码必须是六位字符并且匹配。",
+    "password" => "密码必须至少六位并且两次输入结果一致。",
 
-    "user"     => "找不到该电邮对应的用户。",
+    "user"     => "找不到该邮件对应的用户。",
 
     "token"    => "密码重置令牌无效。",
 
-    "sent"     => "Password reminder sent!",
+    "sent"     => "密码重置邮件发送成功！",
 
 );

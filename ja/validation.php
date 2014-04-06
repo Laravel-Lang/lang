@@ -20,7 +20,7 @@ return array(
     "alpha_num"        => ":attributeは英数字がご利用できます。",
     "array"            => ":attributeは配列でなくてはなりません。",
     "before"           => ":attributeには、:date以前の日付をご利用ください。",
-    "between" => array(
+    "between"          => array(
         "numeric" => ":attributeは、:minから、:maxまでの数字をご指定ください。",
         "file"    => ":attributeには、:min kBから:max kBまでのサイズのファイルをご指定ください。",
         "string"  => ":attributeは、:min文字から:max文字の間でご指定ください。",
@@ -38,14 +38,14 @@ return array(
     "in"               => "選択された:attributeは正しくありません。",
     "integer"          => ":attributeは整数でご指定ください。",
     "ip"               => ":attributeには、有効なIPアドレスをご指定ください。",
-    "max" => array(
+    "max"              => array(
         "numeric" => ":attributeには、:max以下の数字をご指定ください。",
         "file"    => ":attributeには、:max kB以下のファイルをご指定ください。",
         "string"  => ":attributeは、:max文字以下でご指定ください。",
         "array"   => ":attributeの個数は:max個以下にしてください。"
     ),
     "mimes"            => ":attributeには:valuesタイプのファイルを指定してください。",
-    "min" => array(
+    "min"              => array(
         "numeric" => ":attributeには、:min以上の数字をご指定ください。",
         "file"    => ":attributeには、:min kB以上のファイルをご指定ください。",
         "string"  => ":attributeは、:min文字以上でご指定ください。",
@@ -61,7 +61,7 @@ return array(
     "required_without" => ":attributeは:valuesが存在していない場合に必須となります。",
     "required_without_all" => ":attributeは:valuesが存在していない場合に必須となります。",
     "same"             => ":attributeと:otherには同じ値を指定してください。",
-    "size" => array(
+    "size"             => array(
         "numeric" => ":attributeには:sizeを指定してください。",
         "file"    => ":attributeのファイルは、:sizeキロバイトでなくてはなりません。",
         "string"  => ":attributeは:size文字で指定してください。",

@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 return array(
 
@@ -13,7 +13,8 @@ return array(
     |
     */
 
-    'previous' => '&laquo; 上一页',
+    'previous' => '&laquo; 上一頁',
 
-    'next'     => '下一页 &raquo;',
+    'next'     => '下一頁 &raquo;',
+
 );

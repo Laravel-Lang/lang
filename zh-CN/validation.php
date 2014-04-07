@@ -33,7 +33,7 @@ return array(
     "different"        => ":attribute 和 :other 必须不同。",
     "digits"           => ":attribute 必须是 :digits 位的数字。",
     "digits_between"   => ":attribute 必须是介于 :min 和 :max 位的数字。",
-    "email"            => ":attribute 电邮格式非法。",
+    "email"            => ":attribute 邮箱格式非法。",
     "exists"           => "已选的属性 :attribute 非法。",
     "image"            => ":attribute 必须是一张图片。",
     "in"               => "已选的属性 :attribute 非法。",
@@ -41,14 +41,14 @@ return array(
     "ip"               => ":attribute 必须是一个有效的IP地址。",
     "max"              => array(
         "numeric" => ":attribute 必须小于 :max 。",
-        "file"    => ":attribute 必须小于 :max 千字节。",
+        "file"    => ":attribute 必须小于 :max KB。",
         "string"  => ":attribute 必须小于 :max 个字符。",
         "array"   => "The :attribute may not have more than :max items."
     ),
     "mimes"            => ":attribute 必须是一个 :values 类型的文件。",
     "min"              => array(
         "numeric" => ":attribute 必须大于 :min 。",
-        "file"    => ":attribute 必须大于 :min 千字节。",
+        "file"    => ":attribute 必须大于 :min KB。",
         "string"  => ":attribute 必须大于 :min 个字符。",
         "array"   => "The :attribute must have at least :min items."
     ),
@@ -64,7 +64,7 @@ return array(
     "same"             => ":attribute 和 :other 必须匹配。",
     "size"             => array(
         "numeric" => ":attribute 大小必须是 :size 。",
-        "file"    => ":attribute 大小必须是 :size 千字节。",
+        "file"    => ":attribute 大小必须是 :size KB。",
         "string"  => ":attribute 必须是 :size 个字符。",
         "array"   => "The :attribute must contain :size items."
     ),

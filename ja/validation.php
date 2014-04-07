@@ -53,7 +53,7 @@ return array(
     ),
     "not_in"           => "選択された:attributeは正しくありません。",
     "numeric"          => ":attributeには、数字を指定してください。",
-    "regex"            => "The :attribute format is invalid.",
+    "regex"            => ":attributeのフォーマットは正しくありません。",
     "required"         => ":attributeは必ず指定してください。",
     "required_if"      => ":attributeは:otherが:valueの場合に必須となります。",
     "required_with"    => ":attributeは:valuesが存在している場合に必須となります。",

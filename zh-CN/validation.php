@@ -19,21 +19,21 @@ return array(
     "alpha"            => ":attribute 只能由字母组成。",
     "alpha_dash"       => ":attribute 只能由字母、数字和斜杠组成。",
     "alpha_num"        => ":attribute 只能由字母和数字组成。",
-    "array"            => "The :attribute must be an array.",
+    "array"            => ":attribute 必须是一个数组。",
     "before"           => ":attribute 必须是一个在 :date 之前的日期。",
     "between"          => array(
         "numeric" => ":attribute 必须介于 :min - :max 之间。",
-        "file"    => ":attribute 必须介于 :min - :max 千字节之间。",
+        "file"    => ":attribute 必须介于 :min - :max kb之间。",
         "string"  => ":attribute 必须介于 :min - :max 个字符之间。",
-        "array"   => "The :attribute must have between :min - :max items."
+        "array"   => ":attribute 必须只有 :min - :max 个单元。"
     ),
-    "confirmed"        => ":attribute 确认不匹配。",
+    "confirmed"        => ":attribute 不匹配。",
     "date"             => ":attribute 不是一个有效的日期。",
     "date_format"      => ":attribute 不匹配日期格式 :format。",
     "different"        => ":attribute 和 :other 必须不同。",
     "digits"           => ":attribute 必须是 :digits 位的数字。",
     "digits_between"   => ":attribute 必须是介于 :min 和 :max 位的数字。",
-    "email"            => ":attribute 电邮格式非法。",
+    "email"            => ":attribute 邮箱格式非法。",
     "exists"           => "已选的属性 :attribute 非法。",
     "image"            => ":attribute 必须是一张图片。",
     "in"               => "已选的属性 :attribute 非法。",
@@ -41,35 +41,35 @@ return array(
     "ip"               => ":attribute 必须是一个有效的IP地址。",
     "max"              => array(
         "numeric" => ":attribute 必须小于 :max 。",
-        "file"    => ":attribute 必须小于 :max 千字节。",
+        "file"    => ":attribute 必须小于 :max kb。",
         "string"  => ":attribute 必须小于 :max 个字符。",
-        "array"   => "The :attribute may not have more than :max items."
+        "array"   => ":attribute 最多只有 :max 个单元。"
     ),
     "mimes"            => ":attribute 必须是一个 :values 类型的文件。",
     "min"              => array(
         "numeric" => ":attribute 必须大于 :min 。",
-        "file"    => ":attribute 必须大于 :min 千字节。",
+        "file"    => ":attribute 必须大于 :min kb。",
         "string"  => ":attribute 必须大于 :min 个字符。",
-        "array"   => "The :attribute must have at least :min items."
+        "array"   => ":attribute 至少有 :min 个单元。"
     ),
     "not_in"           => "已选的属性 :attribute 非法。",
     "numeric"          => ":attribute 必须是一个数字。",
-    "regex"            => ":attribute 字段必填。",
-    "required"         => ":attribute 属性需要填写字段。",
-    "required_if"      => ":attribute 属性当 :other 为 :value时为必填项。",
-    "required_with"    => ":attribute 属性当 :values 存在时为必填项。",
-    "required_with_all" => "The :attribute field is required when :values is present.",
-    "required_without" => ":attribute 属性当 :values 不存在时为必填项。",
-    "required_without_all" => "The :attribute field is required when none of :values are present.",
+    "regex"            => ":attribute 格式不正确。",
+    "required"         => ":attribute 不能为空。",
+    "required_if"      => "当 :other 为 :value 时 :attribute 不能为空。",
+    "required_with"    => "当 :values 存在时 :attribute 不能为空。",
+    "required_with_all" => " 当 :values 存在时 :attribute 不能为空。",
+    "required_without" => "当 :values 不存在时 :attribute 不能为空。",
+    "required_without_all" => "当 :values 都不存在时 :attribute 不能为空。",
     "same"             => ":attribute 和 :other 必须匹配。",
     "size"             => array(
         "numeric" => ":attribute 大小必须是 :size 。",
-        "file"    => ":attribute 大小必须是 :size 千字节。",
+        "file"    => ":attribute 大小必须是 :size kb。",
         "string"  => ":attribute 必须是 :size 个字符。",
-        "array"   => "The :attribute must contain :size items."
+        "array"   => ":attribute 必须为 :size 个单元。"
     ),
-    "unique"           => ":attribute 已经有人使用。",
-    "url"              => ":attribute 格式非法。",
+    "unique"           => ":attribute 已经存在。",
+    "url"              => ":attribute 不是一个合法的URL。",
 
     /*
     |--------------------------------------------------------------------------

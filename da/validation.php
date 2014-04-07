@@ -37,19 +37,19 @@ return array(
     "exists"           => "Det valgte :attribute er ugyldig.",
     "image"            => ":attribute skal være et billede.",
     "in"               => "Det valgte :attribute er ugyldig.",
-    "integer"          => ":attribute skal være et helt tal.",
+    "integer"          => ":attribute skal være et heltal.",
     "ip"               => ":attribute skal være en gyldig IP adresse.",
     "max"              => array(
-        "numeric" => ":attribute skal være mindre end :max.",
-        "file"    => ":attribute skal være mindre end :max kilobytes.",
-        "string"  => ":attribute skal være kortere end :max tegn.",
+        "numeric" => ":attribute skal være højest :max.",
+        "file"    => ":attribute skal være højest :max kilobytes.",
+        "string"  => ":attribute skal være højest :max tegn.",
         "array"   => ":attribute må ikke indeholde mere end :max elementer."
     ),
     "mimes"            => ":attribute skal være en fil af typen: :values.",
     "min"              => array(
-        "numeric" => ":attribute skal være større end :min.",
-        "file"    => ":attribute skal være større end :min kilobytes.",
-        "string"  => ":attribute skal være længere end :min tegn.",
+        "numeric" => ":attribute skal være mindst :min.",
+        "file"    => ":attribute skal være mindst :min kilobytes.",
+        "string"  => ":attribute skal være mindst :min tegn.",
         "array"   => ":attribute skal indeholde mindst :min elementer."
     ),
     "not_in"           => "Den valgte :attribute er ugyldig.",

@@ -9,19 +9,20 @@
 | Bulgarian | bg | OK | OK | -- | -- | -- |
 | Cambodian | km | OK | OK | OK | -- | -- |
 | Catalan | ca | OK | OK | -- | -- | -- |
-| Chinese | zh-CN | -- | -- | -- | -- | -- |
+| Chinese | zh-CN | OK | OK | OK | OK | OK |
+| Chinese from Taiwan | zh-TW | OK | OK | OK | OK | OK |
 | Czech | cs | OK | OK | -- | -- | -- |
 | Danish | da | OK | OK | OK | OK | OK |
 | Dutch | nl | OK | OK | OK | -- | OK |
 | Finnish | fi | -- | OK | -- | -- | -- |
 | French | fr | OK | OK | OK | OK | OK |
-| German | de | OK | OK | OK | -- | -- |
+| German | de | OK | OK | OK | OK | OK |
 | Greek | el | OK | OK | -- | -- | -- |
 | Hebrew | he | -- | -- | -- | -- | -- |
 | Hungarian | hu | -- | -- | -- | -- | -- |
 | Indonesian | id | OK | OK | OK | OK | OK |
 | Italian | it | OK | OK | -- | -- | -- |
-| Japanese | jp | -- | -- | -- | -- | -- |
+| Japanese | jp | OK | OK | OK | OK | OK |
 | Korean | ko | OK | -- | -- | -- | -- |
 | Macedonian | mk | OK | -- | -- | -- | -- |
 | Montenegrin | me | OK | OK | OK | OK | OK |
@@ -35,6 +36,6 @@
 | Spanish | es | OK | OK | OK | OK | -- |
 | Swedish | sv | OK | OK | OK | OK | OK |
 | Thai | th | OK | -- | -- | -- | -- |
-| Traditional Chinese (Hong Kong) | zh-HK | -- | -- | -- | -- | -- |
+| Traditional Chinese (Hong Kong) | zh-HK | OK | OK | OK | OK | OK |
 | Turkish | tr | OK | OK | -- | -- | -- |
 | Vietnamese | vi | OK | OK | OK | OK | -- |

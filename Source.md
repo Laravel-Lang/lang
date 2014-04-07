@@ -36,7 +36,12 @@ Catalan (ca)
 
 Chinese (zh-CN)
 
+* [Joy](https://github.com/joychao)
 * [phoenixg](https://github.com/phoenixg)
+
+Chinese from Taiwan (zh-TW)
+
+* [Joy](https://github.com/joychao)
 
 Czech (cs)
 
@@ -112,6 +117,7 @@ Italian (it)
 Japanese (ja)
 
 * [Hirohisa Kawase](https://github.com/HiroKws)
+* [Yuya Takahashi](https://github.com/takahashiyuya)
 
 Korean (ko)
 
@@ -182,6 +188,7 @@ Thai (th)
 Traditional Chinese (Hong Kong) (zh-HK)
 
 * [Eric Li](https://github.com/efilm)
+* [Joy](https://github.com/joychao)
 
 Turkish (tr)
 

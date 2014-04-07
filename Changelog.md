@@ -1,5 +1,17 @@
 # Changelog
 
+07 April 2014
+
+* Update Chinese (zh-CN) by [Joy](https://github.com/joychao)
+* Update Chinese from Hong Kong (zh-HK) by [Joy](https://github.com/joychao)
+* Add Chinese from Taiwan (zh-TW) by [Joy](https://github.com/joychao)
+* Update Japanese (ja) for validation by [Yuya Takahashi](https://github.com/takahashiyuya)
+
+04 April 2014
+
+* Update German (de) for reminders and validation.required_with_all by [lanort](https://github.com/lanort)
+* Update Japanese (ja) for reminders by [Yuya Takahashi](https://github.com/takahashiyuya)
+
 03 April 2014
 
 * Update Swedish (sv) for validation.required_without_all, new validation.email and validation.required_with_all by [coldKingdom](https://github.com/coldKingdom)

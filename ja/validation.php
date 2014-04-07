@@ -18,20 +18,20 @@ return array(
     "alpha"            => ":attributeはアルファベッドのみがご利用できます。",
     "alpha_dash"       => ":attributeは英数字とダッシュ(-)及び下線(_)がご利用できます。",
     "alpha_num"        => ":attributeは英数字がご利用できます。",
-    "array"            => "The :attribute must be an array.",
+    "array"            => ":attributeは配列でなくてはなりません。",
     "before"           => ":attributeには、:date以前の日付をご利用ください。",
     "between"          => array(
         "numeric" => ":attributeは、:minから、:maxまでの数字をご指定ください。",
         "file"    => ":attributeには、:min kBから:max kBまでのサイズのファイルをご指定ください。",
         "string"  => ":attributeは、:min文字から:max文字の間でご指定ください。",
-        "array"   => "The :attribute must have between :min - :max items."
+        "array"   => ":attributeの個数は:min個から:max個でなくてはなりません。"
     ),
     "confirmed"        => ":attributeと、確認フィールドとが、一致していません。",
-    "date"             => "The :attribute is not a valid date.",
-    "date_format"      => "The :attribute does not match the format :format.",
+    "date"             => ":attributeは正しい日付ではありません。",
+    "date_format"      => ":attributeのフォーマットは:formatと一致していません。",
     "different"        => ":attributeと:otherには、異なった内容を指定してください。",
-    "digits"           => "The :attribute must be :digits digits.",
-    "digits_between"   => "The :attribute must be between :min and :max digits.",
+    "digits"           => ":attributeは:digits桁でなければなりません。",
+    "digits_between"   => ":attributeは:min桁から:max桁でなければなりません。",
     "email"            => ":attributeには正しいメールアドレスの形式をご指定ください。",
     "exists"           => "選択された:attributeは正しくありません。",
     "image"            => ":attributeには画像ファイルを指定してください。",
@@ -42,30 +42,30 @@ return array(
         "numeric" => ":attributeには、:max以下の数字をご指定ください。",
         "file"    => ":attributeには、:max kB以下のファイルをご指定ください。",
         "string"  => ":attributeは、:max文字以下でご指定ください。",
-        "array"   => "The :attribute may not have more than :max items."
+        "array"   => ":attributeの個数は:max個以下にしてください。"
     ),
     "mimes"            => ":attributeには:valuesタイプのファイルを指定してください。",
     "min"              => array(
         "numeric" => ":attributeには、:min以上の数字をご指定ください。",
         "file"    => ":attributeには、:min kB以上のファイルをご指定ください。",
         "string"  => ":attributeは、:min文字以上でご指定ください。",
-        "array"   => "The :attribute must have at least :min items."
+        "array"   => ":attributeの個数は:max個以上にしてください。"
     ),
     "not_in"           => "選択された:attributeは正しくありません。",
     "numeric"          => ":attributeには、数字を指定してください。",
-    "regex"            => "The :attribute format is invalid.",
+    "regex"            => ":attributeのフォーマットは正しくありません。",
     "required"         => ":attributeは必ず指定してください。",
-    "required_if"      => "The :attribute field is required when :other is :value.",
-    "required_with"    => "The :attribute field is required when :values is present.",
-    "required_with_all" => "The :attribute field is required when :values is present.",
-    "required_without" => "The :attribute field is required when :values is not present.",
-    "required_without_all" => "The :attribute field is required when none of :values are present.",
+    "required_if"      => ":attributeは:otherが:valueの場合に必須となります。",
+    "required_with"    => ":attributeは:valuesが存在している場合に必須となります。",
+    "required_with_all" => ":attributeは:valuesが存在している場合に必須となります。",
+    "required_without" => ":attributeは:valuesが存在していない場合に必須となります。",
+    "required_without_all" => ":attributeは:valuesが存在していない場合に必須となります。",
     "same"             => ":attributeと:otherには同じ値を指定してください。",
     "size"             => array(
         "numeric" => ":attributeには:sizeを指定してください。",
         "file"    => ":attributeのファイルは、:sizeキロバイトでなくてはなりません。",
         "string"  => ":attributeは:size文字で指定してください。",
-        "array"   => "The :attribute must contain :size items."
+        "array"   => ":attributeは:size個含まれている必要があります。"
     ),
     "unique"           => ":attributeに指定された値は既に存在しています。",
     "url"              => ":attributeのフォーマットが正しくありません。",

@@ -56,6 +56,12 @@ return array(
 	"numeric"          => ":attribute باید یک عدد باشد.",
 	"regex"            => "قالب :attribute نامعتبر است.",
 	"required"         => "پر کردن :attribute الزامی است.",
+
+	"required_if"      => ":attribute الزامی است زمانی که :other برابر است با :value.",
+	"required_with"    => ":attribute الزامی است زمانی که :values موجود است.",
+	"required_with_all"=> ":attribute الزامی است زمانی که :values موجود است.",
+	"required_without" => ":attribute الزامی است زمانی که :values موجود نیست.",
+	"required_without_all" => ":attribute الزامی است زمانی که :values موجود نیست.",
 	"required_if"      => ":attribute الزامی است زمانی که :o برابر است با :value.",
 	"required_with"    => ":attribute الزامی است زمانی که :values موجود است.",
 	"required_without" => ":attribute الزامی است زمانی که :values موجود نیست.",

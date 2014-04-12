@@ -30,7 +30,7 @@ return array(
 	"confirmed"        => ":attribute با تائیده یکسان نمی باشد.",
 	"date"             => ":attribute یک تاریخ معتبر نمی باشد.",
 	"date_format"      => ":attribute با قالب :format مطابقت ندارد.",
-	"different"        => ":attribute و :o نباید متفاوت باشند.",
+	"different"        => ":attribute و :other نباید متفاوت باشند.",
 	"digits"           => ":attribute باید :digits رقم باشد.",
 	"digits_between"   => ":attribute باید بین :min تا :max رقم باشد.",
 	"email"            => "قالب :attribute نامعتبر است.",

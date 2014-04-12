@@ -62,7 +62,7 @@ return array(
 	"required_with_all"=> ":attribute الزامی است زمانی که :values موجود است.",
 	"required_without" => ":attribute الزامی است زمانی که :values موجود نیست.",
 	"required_without_all" => ":attribute الزامی است زمانی که :values موجود نیست.",
-	"required_if"      => ":attribute الزامی است زمانی که :o برابر است با :value.",
+	"required_if"      => ":attribute الزامی است زمانی که :other برابر است با :value.",
 	"required_with"    => ":attribute الزامی است زمانی که :values موجود است.",
 	"required_without" => ":attribute الزامی است زمانی که :values موجود نیست.",
 	"same"             => ":attribute و :other باید یکسان باشند.",

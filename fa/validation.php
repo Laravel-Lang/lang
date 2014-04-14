@@ -117,6 +117,7 @@ return array(
         "minute" => "دقیقه",
         "second" => "ثانیه",
         "title" => "عنوان",
+        "text" => "متن",
         "content" => "محتوا",
         "description" => "توضیحات",
         "excerpt" => "گلچین کردن",

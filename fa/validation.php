@@ -13,13 +13,13 @@ return array(
 	|
 	*/
 
-	"accepted"         => ":attribute باید پذیرفته شود.",
+	"accepted"         => ":attribute باید پذیرفته شده باشد.",
 	"active_url"       => "آدرس :attribute معتبر نیست",
 	"after"            => ":attribute باید تاریخی بعد از :date باشد.",
 	"alpha"            => ":attribute باید شامل حروف الفبا باشد.",
-	"alpha_dash"       => ":attribute باید شامل حروف الفبا و عدد و خظ تیره (-) باشد.",
+	"alpha_dash"       => ":attribute باید شامل حروف الفبا و عدد و خظ تیره(-) باشد.",
 	"alpha_num"        => ":attribute باید شامل حروف الفبا و عدد باشد.",
-	"array"            => ":attribute باید شامل حروف آرایه باشد.",
+	"array"            => ":attribute باید شامل آرایه باشد.",
 	"before"           => ":attribute باید تاریخی قبل از :date باشد.",
 	"between"          => array(
 		"numeric" => ":attribute باید بین :min و :max باشد.",
@@ -27,7 +27,7 @@ return array(
 		"string"  => ":attribute باید بین :min و :max کاراکتر باشد.",
 		"array"   => ":attribute باید بین :min و :max آیتم باشد.",
 	),
-	"confirmed"        => ":attribute مطابقت ندارد.",
+	"confirmed"        => ":attribute با تاییدیه مطابقت ندارد.",
 	"date"             => ":attribute یک تاریخ معتبر نیست.",
 	"date_format"      => ":attribute با الگوی :format مطاقبت ندارد.",
 	"different"        => ":attribute و :other باید متفاوت باشند.",

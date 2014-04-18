@@ -27,7 +27,7 @@ return array(
         "string"  => ":attribute 必须介于 :min - :max 个字符之间。",
         "array"   => ":attribute 必须只有 :min - :max 个单元。"
     ),
-    "confirmed"        => ":attribute 不匹配。",
+    "confirmed"        => ":attribute 与重复输入不匹配。",
     "date"             => ":attribute 不是一个有效的日期。",
     "date_format"      => ":attribute 不匹配日期格式 :format。",
     "different"        => ":attribute 和 :other 必须不同。",

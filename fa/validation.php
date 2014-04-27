@@ -42,7 +42,7 @@ return array(
 	"max"              => array(
 		"numeric" => ":attribute نباید بزرگتر از :max باشد.",
 		"file"    => ":attribute نباید بزرگتر از :max کیلوبایت باشد.",
-		"string"  => ":attribute نباید بیشتر از max کاراکتر باشد.",
+		"string"  => ":attribute نباید بیشتر از :max کاراکتر باشد.",
 		"array"   => ":attribute نباید بیشتر از :max آیتم باشد.",
 	),
 	"mimes"            => ":attribute باید یکی از فرمت های :values باشد.",

@@ -47,9 +47,9 @@ return array(
     "mimes"            => ":attribute måste vara en fil av typen: :values.",
     "min"              => array(
         "numeric" => ":attribute måste vara större än :min.",
-        "file"    => ":attribute måste minst vara :min kilobytes stor.",
-        "string"  => ":attribute måste minst innehålla :min tecken.",
-        "array"   => ":attribute måste minst innehålla :min objekt."
+        "file"    => ":attribute måste vara minst :min kilobytes stor.",
+        "string"  => ":attribute måste innehålla minst :min tecken.",
+        "array"   => ":attribute måste innehålla minst :min objekt."
     ),
     "not_in"           => "Det valda :attribute är ogiltigt.",
     "numeric"          => ":attribute måste vara en siffra.",

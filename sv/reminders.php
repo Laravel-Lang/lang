@@ -13,7 +13,7 @@ return array(
     |
     */
 
-    "password" => "Lösenord måste vara minst sex tecken och matcha varandra.",
+    "password" => "Lösenord måste innehålla minst sex tecken och matcha varandra.",
 
     "user"     => "Vi kan inte hitta en användare med den e-postadressen.",
 

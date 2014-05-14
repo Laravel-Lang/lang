@@ -19,6 +19,6 @@ return array(
 
     "token"    => "Koden för lösnordsåterställning är ogiltig.",
 
-    "sent"     => "Lösenord påminnelse skickat!",
+    "sent"     => "Lösenordspåminnelse skickad!",
 
 );

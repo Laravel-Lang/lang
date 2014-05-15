@@ -16,12 +16,12 @@ return array(
     "active_url"       => ":attribute är inte en giltig webbadress.",
     "after"            => ":attribute måste vara ett datum efter den :date.",
     "alpha"            => ":attribute får endast innehålla bokstäver.",
-    "alpha_dash"       => ":attribute får endast innehålla bokstäver, nummer och bindestreck.",
-    "alpha_num"        => ":attribute får endast innehålla bokstäver och nummer.",
+    "alpha_dash"       => ":attribute får endast innehålla bokstäver, siffror och bindestreck.",
+    "alpha_num"        => ":attribute får endast innehålla bokstäver och siffror.",
     "array"            => ":attribute måste vara en array.",
     "before"           => ":attribute måste vara ett datum innan den :date.",
     "between"          => array(
-        "numeric" => ":attribute måste vara ett nummer mellan :min och :max.",
+        "numeric" => ":attribute måste vara en siffra mellan :min och :max.",
         "file"    => ":attribute måste vara mellan :min till :max kilobytes stor.",
         "string"  => ":attribute måste innehålla :min till :max tecken.",
         "array"   => ":attribute måste innehålla mellan :min - :max objekt."
@@ -47,14 +47,14 @@ return array(
     "mimes"            => ":attribute måste vara en fil av typen: :values.",
     "min"              => array(
         "numeric" => ":attribute måste vara större än :min.",
-        "file"    => ":attribute måste minst vara :min kilobytes stor.",
-        "string"  => ":attribute måste minst innehålla :min tecken.",
-        "array"   => ":attribute måste minst innehålla :min objekt."
+        "file"    => ":attribute måste vara minst :min kilobytes stor.",
+        "string"  => ":attribute måste innehålla minst :min tecken.",
+        "array"   => ":attribute måste innehålla minst :min objekt."
     ),
     "not_in"           => "Det valda :attribute är ogiltigt.",
-    "numeric"          => ":attribute måste vara ett nummer.",
+    "numeric"          => ":attribute måste vara en siffra.",
     "regex"            => "Formatet för :attribute är ogiltigt.",
-    "required"         => ":attribute fältet är obligatoriskt.",
+    "required"         => "Fältet :attribute är obligatoriskt.",
     "required_if"      => "Fältet :attribute är obligatoriskt då :other är :value.",
     "required_with"    => "Fältet :attribute är obligatoriskt då :values är ifyllt.",
     "required_with_all" => "Fältet :attribute är obligatoriskt när :values är ifyllt.",
@@ -68,7 +68,7 @@ return array(
         "array"   => ":attribute måste innehålla :size objekt."
     ),
     "unique"           => ":attribute används redan.",
-    "url"              => ":attribute formatet är ogiltig.",
+    "url"              => "Formatet :attribute är ogiltig.",
 
     /*
     |--------------------------------------------------------------------------

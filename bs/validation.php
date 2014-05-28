@@ -31,7 +31,7 @@ return array(
     "different" => "Polja :attribute i :other moraju biti različita.",
     "digits" => "Polje :attribute mora da sadži :digits brojeve.",
     "digits_between" => "Polje :attribute mora biti između :min i :max broja.",
-    "email" => "Format polja :attribute nije validan.",
+    "email" => "Format polja :attribute mora biti validan email.",
     "exists" => "Odabrano polje :attribute nije validno.",
     "image" => "Polje :attribute mora biti slika.",
     "in" => "Odabrano polje :attribute nije validno.",

@@ -13,6 +13,7 @@ Arabic (ar)
 
 Bosnian (bs)
 
+* [Edis Golubić](https://github.com/golubic)
 * [mrakodol](https://github.com/mrakodol)
 
 Brazilian (pt-BR)
@@ -36,6 +37,7 @@ Catalan (ca)
 
 Chinese (zh-CN)
 
+* [JohnLui](https://github.com/johnlui)
 * [Joy](https://github.com/joychao)
 * [phoenixg](https://github.com/phoenixg)
 
@@ -125,6 +127,7 @@ Korean (ko)
 
 Macedonian (mk)
 
+* [Marko Aleksic](https://github.com/psybaron)
 * [maced0n](https://github.com/maced0n)
 
 Montenegrin (me)
@@ -135,6 +138,10 @@ Norwegian Bokmål (nb)
 
 * [Marius](https://github.com/mariuso)
 * [thomeu](https://github.com/thomeu)
+
+Persian (fa)
+
+* [Siamak A.M](https://github.com/blacksrc)
 
 Polish (pl)
 
@@ -156,6 +163,10 @@ Russian (ru)
 * [Evgeny Kovalev](https://github.com/EvgenyKovalev)
 * [Vasily Tsybenko](https://github.com/VasayXTX)
 
+Sardinian (sa)
+
+* Massimeddu Cireddu
+
 Serbian (sr)
 
 * [Adis](https://github.com/adis-me)
@@ -174,6 +185,7 @@ Spanish (es)
 
 Swedish (sv)
 
+* [Alexander Wallin](https://github.com/alexanderwallin)
 * [coldKingdom](https://github.com/coldKingdom)
 * [Jonas Söderberg](https://github.com/imevul)
 * [Linus Odenring](https://github.com/linusodenring)

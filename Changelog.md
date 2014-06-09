@@ -1,5 +1,41 @@
 # Changelog
 
+09 June 2014
+
+* Update Macedonian (mk) by [Marko Aleksic](https://github.com/psybaron)
+
+31 May 2014
+
+* Update Bosnian (bs) by [Edis Golubić](https://github.com/golubic)
+
+24 May 2014
+
+* Update Japanese (ja) by [Yuya Takahashi](https://github.com/takahashiyuya)
+
+15 May 2014
+
+* Update Swedish (sv) by [Alexander Wallin](https://github.com/alexanderwallin)
+
+27 April 2014
+
+* Update Persian (fa) by [Siamak A.M](https://github.com/blacksrc)
+
+20 April 2014
+
+* Add Saridinian (sa) by Massimeddu Cireddu
+
+18 April 2014
+
+* Update Chinese (zh-CN) by [JohnLui](https://github.com/johnlui)
+
+14 April 2014
+
+* Add Persian (fa) by [Siamak A.M](https://github.com/blacksrc)
+
+11 April 2014
+
+* Update Russian (ru) by [Evgeny Kovalev](https://github.com/EvgenyKovalev)
+
 07 April 2014
 
 * Update Chinese (zh-CN) by [Joy](https://github.com/joychao)

@@ -27,6 +27,7 @@ return array(
         "string"  => ":attribute elementin pitää olla välillä :min - :max kirjainta.",
         "array"   => "The :attribute must have between :min - :max items."
     ),
+    "boolean"          => "The :attribute field must be true or false",
     "confirmed"        => ":attribute vahvistus ei täsmää.",
     "date"             => ":attribute ei ole kelvollinen päivämäärä.",
     "date_format"      => ":attribute ei vastaa muotoa :format.",

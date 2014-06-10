@@ -26,6 +26,7 @@ return array(
         "string"  => "Polje :attribute mora sadržati između :min - :max karaktera.",
         "array"   => "Polje :attribute mora sadržati između :min - :max stavki."
     ),
+    "boolean"          => "The :attribute field must be true or false",
     "confirmed"        => "Potvrda polja :attribute se ne poklapa.",
     "date"             => "Polje :attribute nije važeći datum.",
     "date_format"      => "Polje :attribute nije u formatu :format.",

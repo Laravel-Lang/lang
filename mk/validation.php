@@ -27,6 +27,7 @@ return array(
         "string"  => "Полето :attribute мора да биде помеѓу :min и :max карактери.",
         "array"   => "Полето :attribute мора да има помеѓу :min - :max карактери."
     ),
+    "boolean"          => "The :attribute field must be true or false",
     "confirmed"        => "Полето :attribute не е потврдено.",
     "date"             => "Полето :attribute не е валиден датум.",
     "date_format"      => "Полето :attribute не е во формат :format.",

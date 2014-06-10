@@ -27,6 +27,7 @@ return array(
         "string"  => ":attribute חייב להיות באורך של :min-:max תווים.",
         "array"   => "The :attribute must have between :min - :max items."
     ),
+    "boolean"          => "The :attribute field must be true or false",
     "confirmed"        => "The :attribute confirmation does not match.",
     "date"             => ":attribute הוא לא תאריך תקני.",
     "date_format"      => ":attribute לא תואם את הפורמט :format.",

@@ -27,6 +27,7 @@ return array(
         "string"  => ":attribute skal være mellom :min - :max tegn.",
         "array"   => ":attribute må ha mellom :min - :max elementer."
     ),
+    "boolean"          => "The :attribute field must be true or false",
     "confirmed"        => ":attribute er ikke likt bekreftelsesfeltet.",
     "date"             => ":attribute er ikke en gyldig dato.",
     "date_format"      => ":attribute matcher ikke formatet :format.",

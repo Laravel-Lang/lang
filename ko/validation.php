@@ -27,6 +27,7 @@ return array(
         "string"    => ":attribute은(는) 반드시 :min에서 :max 문자 사이여야 합니다.",
         "array"     => ":attribute은(는) 반드시 :min에서 :max 아이템 사이여야 합니다.",
     ),
+    "boolean"           => "The :attribute field must be true or false",
     "confirmed"         => ":attribute 확인 항목이 일치하지 않습니다.",
     "date"              => ":attribute은(는) 유효한 날짜가 아닙니다.",
     "date_format"       => ":attribute은(는) :format 형식과 일치하지 않습니다.",

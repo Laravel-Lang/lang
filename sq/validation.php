@@ -26,6 +26,7 @@ return array(
         "string"  => ":attribute duhet të jetë në mes :min - :max karaktereve.",
         "array"   => "The :attribute must have between :min - :max items."
     ),
+    "boolean"          => "The :attribute field must be true or false",
     "confirmed"        => ":attribute konfirmimi nuk përputhet.",
     "date"             => "The :attribute is not a valid date.",
     "date_format"      => "The :attribute does not match the format :format.",

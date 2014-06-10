@@ -27,6 +27,7 @@ return array(
         "string"  => ":attribute musí mať rozsah :min - :max znakov.",
         "array"   => ":attribute musí mať rozsah :min - :max prvkov.",
     ),
+    "boolean"          => "The :attribute field must be true or false",
     "confirmed"        => ":attribute konfirmácia sa nezhoduje.",
     "date"             => ":attribute má neplatný dátum.",
     "date_format"      => ":attribute sa nezhoduje s formátom :format.",

@@ -27,6 +27,7 @@ return array(
         "string"  => "ข้อมูล :attribute ต้องอยู่ในช่วงระหว่าง :min - :max ตัวอักษร",
         "array"   => "ข้อมูล :attribute ต้องอยู่ในช่วงระหว่าง :min - :max ค่า"
     ),
+    "boolean"          => "The :attribute field must be true or false",
     "confirmed"        => "ข้อมูล :attribute ไม่ตรงกัน",
     "date"             => "ข้อมูล :attribute ต้องเป็นวันที่",
     "date_format"      => "ข้อมูล :attribute ไม่ตรงกับข้อมูลกำหนด :format.",

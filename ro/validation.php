@@ -26,6 +26,7 @@ return array(
         "string"  => "Câmpul :attribute trebuie să fie între :min și :max caractere.",
         "array"   => "Câmpul :attribute trebuie să aibă :min - :max elemente."
     ),
+    "boolean"          => "The :attribute field must be true or false",
     "confirmed"        => "Confirmarea :attribute nu se potrivește.",
     "date"             => "Câmpul :attribute nu este o dată validă.",
     "date_format"      => "Câmpul :attribute trebuie să fie intr-un format valid.",

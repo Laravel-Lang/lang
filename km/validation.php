@@ -27,6 +27,7 @@ return array(
         "string"  => ":attribute ត្រូវតែមានរវាង :min និង :max តួអក្សរ។",
         "array"   => ":attribute ត្រូវតែមានធាតុរវាង :min និង :max។",
     ),
+    "boolean"          => "The :attribute field must be true or false",
     "confirmed"            => ":attribute ការបញ្ជាក់មិនផ្គូផ្គង។",
     "date"                 => ":attribute គឺមិនមែនជាកាលបរិច្ឆេទត្រឹមត្រូវ។",
     "date_format"          => ":attribute មិនត្រឹមត្រូវនិងទំរង :format​នេះ។",

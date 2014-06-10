@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 
 return array(
 
@@ -38,6 +38,7 @@ return array(
         "string"  => ":attribute يجب أن يكون طوله بين :min - :max من الأحرف.",
         "array"   => ":attribute يجب ان يحتوي علي :min - :max بنود."
     ),
+    "boolean"          => "The :attribute field must be true or false",
     "confirmed"        => "تأكيد :attribute لا يتطابق.",
     "date"             => ":attribute ليس تاريخ صحيح.",
     "date_format"      => ":attribute لا يطابق اليصغة :format.",

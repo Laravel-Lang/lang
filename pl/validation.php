@@ -27,6 +27,7 @@ return array(
         "string"  => ":attribute musi zawierać się w granicach :min - :max znaków.",
         "array"   => ":attribute musi składać się z :min - :max elementów."
     ),
+    "boolean"          => "The :attribute field must be true or false",
     "confirmed"        => "Potwierdzenie :attribute nie zgadza się.",
     "date"             => ":attribute nie jest prawidłową datą.",
     "date_format"      => ":attribute nie jest w formacie :format.",

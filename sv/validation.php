@@ -26,6 +26,7 @@ return array(
         "string"  => ":attribute måste innehålla :min till :max tecken.",
         "array"   => ":attribute måste innehålla mellan :min - :max objekt."
     ),
+    "boolean"          => "The :attribute field must be true or false",
     "confirmed"        => ":attribute bekräftelsen matchar inte.",
     "date"             => ":attribute är inte ett giltigt datum.",
     "date_format"      => ":attribute matchar inte formatet :format.",

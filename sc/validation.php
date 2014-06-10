@@ -26,6 +26,7 @@ return array(
         "string"  => ":attribute depet èssere intre :min - :max caràteres.",
         "array"   => ":attribute depet èssere intre :min - :max elementos."
     ),
+    "boolean"          => "The :attribute field must be true or false",
     "confirmed"        => "Su campu de cunfirma pro :attribute non torrat.",
     "date"             => ":attribute no est una data bàlida.",
     "date_format"      => ":attribute non torrat cun su formadu :format.",

@@ -27,6 +27,7 @@ return array(
         "string"  => "A(z) :attribute hossza :min és :max karakter között kell, hogy legyen!",
         "array"   => "The :attribute must have between :min - :max items."
     ),
+    "boolean"          => "The :attribute field must be true or false",
     "confirmed"        => "A(z) :attribute nem egyezik a megerősítéssel.",
     "date"             => "A(z) :attribute nem érvényes dátum.",
     "date_format"      => "A(z) :attribute nem egyezik az alábbi dátum formátummal :format!",

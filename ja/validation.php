@@ -26,6 +26,7 @@ return array(
         "string"  => ":attributeは:min文字から:max文字までとなります。",
         "array"   => ":attributeは:min個から:max個までとなります。"
     ),
+    "boolean"          => "The :attribute field must be true or false",
     "confirmed"        => ":attributeは確認用フィールドと一致していません。",
     "date"             => ":attributeは正しい日付ではありません。",
     "date_format"      => ":attributeは日付フォーマット（:format）と一致していません。",

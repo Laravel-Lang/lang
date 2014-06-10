@@ -27,6 +27,7 @@ return array(
         "string"  => "Le texte :attribute doit avoir entre :min et :max caractères.",
         "array"   => "Le champ :attribute doit avoir entre :min et :max éléments."
     ),
+    "boolean"          => "The :attribute field must be true or false",
     "confirmed"            => "Le champ de confirmation :attribute ne correspond pas.",
     "date"                 => "Le champ :attribute n'est pas une date valide.",
     "date_format"          => "Le champ :attribute ne correspond pas au format :format.",

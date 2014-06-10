@@ -27,6 +27,7 @@ return array(
         "string"  => "Trường :attribute phải từ :min - :max ký tự.",
         "array"   => "Trường :attribute phải có từ :min - :max phần tử.",
     ),
+    "boolean"          => "The :attribute field must be true or false",
     "confirmed"        => "Giá trị xác nhận trong trường :attribute không khớp.",
     "date"             => "Trường :attribute không phải là định dạng của ngày-tháng.",
     "date_format"      => "Trường :attribute không giống với định dạng :format.",

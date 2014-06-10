@@ -27,6 +27,7 @@ return array(
         "string"  => ":attribute moet tussen :min en :max karakters zijn.",
         "array"   => ":attribute moet tussen :min en :max items bevatten."
     ),
+    "boolean"        => "The :attribute field must be true or false",
     "confirmed"      => ":attribute bevestiging komt niet overeen.",
     "count"          => ":attribute moet precies :count geselecteerde elementen bevatten.",
     "countbetween"   => ":attribute moet tussen :min en :max geselecteerde elementen bevatten.",

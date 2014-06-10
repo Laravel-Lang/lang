@@ -36,6 +36,7 @@ return array(
         "string"  => ":attribute :min - :max arasında karakterden oluşmalıdır.",
         "array"   => ":attribute :min - :max arasında nesneye sahip olmalıdır."
     ),
+    "boolean"          => "The :attribute field must be true or false",
     "confirmed"      => ":attribute tekrarı eşleşmiyor.",
     "date"            => ":attribute geçerli bir tarih olmalıdır.",
     "date_format"     => ":attribute :format biçimi ile eşleşmiyor.",

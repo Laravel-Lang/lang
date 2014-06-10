@@ -27,6 +27,7 @@ return array(
         "string"  => "Το πεδίο :attribute πρέπει να είναι μεταξύ :min - :max χαρακτήρες.",
         "array"   => "Το πεδίο :attribute πρέπει να έχει μεταξύ :min - :max αντικείμενα."
     ),
+    "boolean"          => "The :attribute field must be true or false",
     "confirmed"        => "Η επιβεβαίωση του :attribute δεν ταιριάζει.",
     "date"             => "Το πεδίο :attribute δεν αποτελεί αποδεκτή ημερομηνία.",
     "date_format"      => "Το πεδίο :attribute δεν είναι της μορφής :format.",

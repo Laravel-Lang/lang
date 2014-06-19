@@ -14,7 +14,7 @@ return array(
     */
 
     "accepted"         => ":attribute debe ser aceptado.",
-    "active_url"       => ":attribute no es una URL válida.",
+    "active_url"       => ":attribute no es un URL válido.",
     "after"            => ":attribute debe ser una fecha posterior a :date.",
     "alpha"            => ":attribute solo debe contener letras.",
     "alpha_dash"       => ":attribute solo debe contener letras, números y guiones.",

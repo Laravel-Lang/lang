@@ -69,7 +69,7 @@ return array(
         "string"  => "O campo :attribute deverá conter :size caracteres.",
         "array"   => "O campo :attribute deve ter :size itens."
     ),
-    "unique"           => "O valor indicado para o campo :attribute já se encontra registado.",
+    "unique"           => "O valor indicado para o campo :attribute já se encontra registrado.",
     "url"              => "O formato do URL indicado para o campo :attribute é inválido.",
 
     /*

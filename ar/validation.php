@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 
 return array(
 
@@ -24,13 +24,13 @@ return array(
     |
     */
 
-    "accepted"         => ":attribute يجب أن يتم قبول.",
-    "active_url"       => ":attribute ليس عنوان إنترنت صالحًا.",
+    "accepted"         => ":attribute  يجب أن توافق",
+    "active_url"       => ":attribute الرجاء أدخال رابط أو عنوان أنترنت صالح",
     "before"           => ":attribute يجب أن يكون تاريخ قبل :date.",
     "after"            => ":attribute يجب أن يكون تاريخًا بعد :date.",
-    "alpha"            => ":attribute يجب أن يحتوي  على أحرفاً فقط.",
-    "alpha_dash"       => ":attribute يجب أن يحتوي  على أحرف وأرقام وإشارة ناقص.",
-    "alpha_num"        => ":attribute يجب أن يحتوي  على أحرف وأرقام.",
+    "alpha"            => ":attribute يجب أن يحتوي  على حروف فقط.",
+    "alpha_dash"       => ":attribute يجب أن يحتوي  على حروف وأرقام وإشارة ناقص فقط.",
+    "alpha_num"        => ":attribute يجب أن يحتوي  على حروف وأرقام فقط.",
     "array"            => ":attribute يجب ان تكون مصفوفة.",
     "between"          => array(
         "numeric" => ":attribute يجب أن يكون رقم بين :min - :max.",
@@ -38,18 +38,19 @@ return array(
         "string"  => ":attribute يجب أن يكون طوله بين :min - :max من الأحرف.",
         "array"   => ":attribute يجب ان يحتوي علي :min - :max بنود."
     ),
-    "confirmed"        => "تأكيد :attribute لا يتطابق.",
+    "boolean"          => ":attribute يجب أن يكون صح أو خطأ فقط",
+    "confirmed"        => ":attribute لا يتطابق مع.",
     "date"             => ":attribute ليس تاريخ صحيح.",
-    "date_format"      => ":attribute لا يطابق اليصغة :format.",
+    "date_format"      => ":attribute لا يطابق اليصغة الصحيحه :format.",
     "different"        => ":attribute و :other يجب أن يكونا مختلفين.",
     "digits"           => ":attribute يجب أن يتكون من :digits أرقام.",
     "digits_between"   => ":attribute يجب أن يكون بين :min و :max أرقام.",
-    "email"            => ":attribute بصيغة خاطئة.",
-    "exists"           => ":attribute المختار غير صالح.",
-    "image"            => ":attribute يجب أن يكون صورة",
+    "email"            => ":attribute  غير صحيح",
+    "exists"           => ":attribute هذه غير صالح.",
+    "image"            => ":attribute يجب أن تكون صورة",
     "in"               => "قيمة :attribute المختارة غير صالح.",
-    "integer"          => ":attribute يجب أن يكون رقماً صحيحاً.",
-    "ip"               => ":attribute يجب أن يكون عنوان أنترنت (IP) صحيحاً.",
+    "integer"          => ":attribute يجب أن يكون رقم صحيح.",
+    "ip"               => ":attribute يجب أن يكون (IP) صحيح ",
     "max"              => array(
         "numeric" => ":attribute يجب ألا يكون أكبر من :max.",
         "file"    => ":attribute يجب ألا يكون أكبر من :max كيلو بايت.",
@@ -58,13 +59,13 @@ return array(
     ),
     "mimes"            => ":attribute يجب أن يكون ملف من نوع: :values.",
     "min"              => array(
-        "numeric" => ":attribute يجب أن يكون على الأقل :min.",
-        "file"    => ":attribute يجب أن يكون على الأقل :min كيلو بايت.",
-        "string"  => ":attribute يجب أن يكون طوله على الأقل :min أحرف.",
+        "numeric" => ":attribute يجب أن تكون على الأقل :min.",
+        "file"    => ":attribute يجب أن تكون على الأقل :min كيلو بايت.",
+        "string"  => ":attribute يجب أن تكون طوله على الأقل :min أحرف.",
         "array"   => ":attribute يجب ان يحتوي علي الاقل :min بنود."
     ),
-    "not_in"           => ":attribute المختار غير صالح.",
-    "numeric"          => ":attribute يجب أن يكون رقم.",
+    "not_in"           => ":attribute  غير صالح.",
+    "numeric"          => ":attribute يجب أن تكون أرقام فقط.",
     "regex"            => ":attribute صيغته غير صالحة.",
     "required"         => ":attribute مطلوب.",
     "required_if"      => ":attribute مطلوب عندما :other يساوي :value.",
@@ -80,7 +81,7 @@ return array(
         "array"   => ":attribute يجب ان يحتوي على :size بنود."
     ),
     "unique"           => "قيمة :attribute تم استخدامها مسبقاً.",
-    "url"              => ":attribute صيغته غير صحيحة.",
+    "url"              => ":attribute عنوان غير صحيحة.",
 
     /*
     |--------------------------------------------------------------------------

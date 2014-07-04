@@ -6,17 +6,17 @@ return array(
     |--------------------------------------------------------------------------
     | Validation Language Lines
     |
-    | اسطر التحقق والتصديق للغة العربية
+    | التحقق الأمني للغة العربية
     |--------------------------------------------------------------------------
     |
     | The following language lines contain the default error messages used by
     | the validator class.
     |
-    | الاسطر ادناه تحتوي علي رسائل الخطأ الافتراضية المستخدمة في فئة التحقق.
+    | هذه الملف يحتوي على رسائل الاخطاء من التحقق الأمني تستطيع تعدل ماتريد.
     |
     | Some of these rules have multiple versions such as the size rules.
     |
-    | بعض هذه القواعد تحتوي علي عدة نسخ مثل قاعدة الحجم.
+    | بعد الرسائل تكون مكرر بشكل يختلف عن الأخر بشكل بسيط.
     |
     | Feel free to tweak each of these messages.
     |

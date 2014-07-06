@@ -27,20 +27,19 @@ return array(
         "string"  => ":attribute moet tussen :min en :max karakters zijn.",
         "array"   => ":attribute moet tussen :min en :max items bevatten."
     ),
+    "boolean"        => ":attribute moet true of false zijn.",
     "confirmed"      => ":attribute bevestiging komt niet overeen.",
-    "count"          => ":attribute moet precies :count geselecteerde elementen bevatten.",
-    "countbetween"   => ":attribute moet tussen :min en :max geselecteerde elementen bevatten.",
-    "countmax"       => ":attribute moet minder dan :max geselecteerde elementen bevatten.",
-    "countmin"       => ":attribute moet minimaal :min geselecteerde elementen bevatten.",
+    "date"           => ":attribute moet een datum bevatten.",
     "date_format"    => ":attribute moet een geldig datum formaat bevatten.",
     "different"      => ":attribute en :other moeten verschillend zijn.",
+    "digits"         => ":attribute moet bestaan uit :digits cijfers.",
+    "digits_between" => ":attribute moet bestaan uit minimaal :min en maximaal :max cijfers.",
     "email"          => ":attribute is geen geldig e-mailadres.",
     "exists"         => ":attribute bestaat niet.",
     "image"          => ":attribute moet een afbeelding zijn.",
     "in"             => ":attribute is ongeldig.",
     "integer"        => ":attribute moet een getal zijn.",
     "ip"             => ":attribute moet een geldig IP-adres zijn.",
-    "match"          => "Het formaat van :attribute is ongeldig.",
     "max"            => array(
         "numeric" => ":attribute moet minder dan :max zijn.",
         "file"    => ":attribute moet minder dan :max kilobytes zijn.",
@@ -56,8 +55,13 @@ return array(
     ),
     "not_in"         => "Het formaat van :attribute is ongeldig.",
     "numeric"        => ":attribute moet een nummer zijn.",
+    "regex"          => ":attribute format is ongeldig.",
     "required"       => ":attribute is verplicht.",
-    "required_with"  => ":attribute is verplicht i.c.m. :field",
+    "required_if"    => ":attribute is verplicht indien :other gelijk is aan :value.",
+    "required_with"  => ":attribute is verplicht i.c.m. :values",
+    "required_with_all" => ":attribute is verplicht i.c.m. :values",
+    "required_without"     => ":attribute is verplicht als :values niet ingevuld is.",
+    "required_without_all" => ":attribute is verplicht als :values niet ingevuld zijn.",
     "same"           => ":attribute en :other moeten overeenkomen.",
     "size"           => array(
         "numeric" => ":attribute moet :size zijn.",
@@ -79,7 +83,11 @@ return array(
     |
     */
 
-    'custom' => array(),
+    'custom' => array(
+        'attribute-name' => array(
+            'rule-name' => 'custom-message',
+        ),
+    ),
 
     /*
     |--------------------------------------------------------------------------

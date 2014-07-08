@@ -27,7 +27,7 @@ return array(
         "string"  => ":attribute 必須介乎 :min 至 :max 個字元之間。",
         "array"   => ":attribute: 必須有 :min - :max 個元素。"
     ),
-    "boolean"          => "The :attribute field must be true or false",
+    "boolean"          => ":attribute 必須為bool值。",
     "confirmed"        => ":attribute 確認欄位的輸入並不相符。",
     "date"             => ":attribute 並非一個有效的日期。",
     "date_format"      => ":attribute 與 :format 格式不相符。",

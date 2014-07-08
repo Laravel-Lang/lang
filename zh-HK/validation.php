@@ -27,7 +27,7 @@ return array(
         "string"  => ":attribute 必須介乎 :min 至 :max 個字符之間。",
         "array"   => ":attribute: 必須有 :min - :max 個單元。"
     ),
-    "boolean"          => "The :attribute field must be true or false",
+    "boolean"          => ":attribute 必須是bool值true或false。",
     "confirmed"        => ":attribute 確認欄位的輸入並不相符。",
     "date"             => ":attribute 並非一個有效的日期。",
     "date_format"      => ":attribute 與 :format 格式不相符。",
@@ -35,7 +35,7 @@ return array(
     "digits"           => ":attribute 必須是 :digits 位數字。",
     "digits_between"   => ":attribute 必須介乎 :min 至 :max 位數字。",
     "email"            => ":attribute 的格式無效。",
-    "exists"           => "所揀選的 :attribute 選項無效。",
+    "exists"           => ":attribute 已經存在。",
     "image"            => ":attribute 必須是一張圖片。",
     "in"               => "所揀選的 :attribute 選項無效。",
     "integer"          => ":attribute 必須是一個整數。",

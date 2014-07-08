@@ -27,7 +27,7 @@ return array(
         "string"  => ":attribute 必须介于 :min - :max 个字符之间。",
         "array"   => ":attribute 必须只有 :min - :max 个单元。"
     ),
-    "boolean"          => "The :attribute field must be true or false",
+    "boolean"          => ":attribute 必须为bool值‘true’或者‘false’",
     "confirmed"        => ":attribute 与重复输入不匹配。",
     "date"             => ":attribute 不是一个有效的日期。",
     "date_format"      => ":attribute 不匹配日期格式 :format。",
@@ -35,7 +35,7 @@ return array(
     "digits"           => ":attribute 必须是 :digits 位的数字。",
     "digits_between"   => ":attribute 必须是介于 :min 和 :max 位的数字。",
     "email"            => ":attribute 邮箱格式非法。",
-    "exists"           => "已选的属性 :attribute 非法。",
+    "exists"           => ":attribute 已经存在。",
     "image"            => ":attribute 必须是一张图片。",
     "in"               => "已选的属性 :attribute 非法。",
     "integer"          => ":attribute 必须是一个整数。",

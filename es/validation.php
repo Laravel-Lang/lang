@@ -27,7 +27,7 @@ return array(
         "string"  => ":attribute tiene que tener entre :min - :max caracteres.",
         "array"   => ":attribute tiene que tener entre :min - :max ítems.",
     ),
-    "boolean"          => "The :attribute field must be true or false",
+    "boolean"          => "El campo :attribute debe tener un valor verdadero o falso.",
     "confirmed"        => "La confirmación de :attribute no coincide.",
     "date"             => ":attribute no es una fecha válida.",
     "date_format"      => ":attribute no corresponde al formato :format.",

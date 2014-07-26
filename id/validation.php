@@ -27,7 +27,7 @@ return array(
         "string"  => "Isian :attribute harus antara :min dan :max karakter.",
         "array"   => "Isian :attribute harus antara :min dan :max item.",
     ),
-    "boolean"          => "The :attribute field must be true or false",
+    "boolean"              => "Isian :attribute harus berupa true atau false",
     "confirmed"            => "Konfirmasi :attribute tidak cocok.",
     "date"                 => "Isian :attribute bukan tanggal yang valid.",
     "date_format"          => "Isian :attribute tidak cocok dengan format :format.",

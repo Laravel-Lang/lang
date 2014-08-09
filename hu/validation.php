@@ -14,20 +14,20 @@ return array(
     */
 
     "accepted"         => "A(z) :attribute el kell legyen fogadva!",
-    "active_url"       => "A(z) :attribute nem létező link.",
+    "active_url"       => "A(z) :attribute nem érvényes url!",
     "after"            => "A(z) :attribute legalább :date utáni dátum kell, hogy legyen!",
     "alpha"            => "A(z) :attribute kizárólag betűket tartalmazhat!",
     "alpha_dash"       => "A(z) :attribute kizárólag betűket, számokat és kötőjeleket tartalmazhat!",
     "alpha_num"        => "A(z) :attribute kizárólag betűket és számokat tartalmazhat!",
-    "array"            => "The :attribute must be an array.",
+    "array"            => "A(z) :attribute egy tömb kell, hogy legyen!",
     "before"           => "A(z) :attribute legalább :date előtti dátum kell, hogy legyen!",
     "between"          => array(
         "numeric" => "A(z) :attribute :min és :max közötti szám kell, hogy legyen!",
         "file"    => "A(z) :attribute mérete :min és :max kilobájt között kell, hogy legyen!",
         "string"  => "A(z) :attribute hossza :min és :max karakter között kell, hogy legyen!",
-        "array"   => "The :attribute must have between :min - :max items."
+        "array"   => "A(z) :attribute :min - :max közötti elemet kell, hogy tartalmazzon!"
     ),
-    "boolean"          => "The :attribute field must be true or false",
+    "boolean"          => "A(z) :attribute mező csak true vagy false értéket kaphat!",
     "confirmed"        => "A(z) :attribute nem egyezik a megerősítéssel.",
     "date"             => "A(z) :attribute nem érvényes dátum.",
     "date_format"      => "A(z) :attribute nem egyezik az alábbi dátum formátummal :format!",
@@ -44,30 +44,30 @@ return array(
         "numeric" => "A(z) :attribute értéke nem lehet nagyobb, mint :max!",
         "file"    => "A(z) :attribute mérete nem lehet több, mint :max kilobájt.",
         "string"  => "A(z) :attribute hossza nem lehet több, mint :max karakter.",
-        "array"   => "The :attribute may not have more than :max items."
+        "array"   => "A(z) :attribute nem tartalmazhat több mint :max elemet."
     ),
     "mimes"            => "A(z) :attribute kizárólag az alábbi fájlformátumok egyike lehet: :values.",
     "min"              => array(
         "numeric" => "A(z) :attribute értéke nem lehet kisebb, mint :min!",
         "file"    => "A(z) :attribute mérete nem lehet több, mint :min kilobájt.",
         "string"  => "A(z) :attribute hossza nem lehet több, mint :min karakter.",
-        "array"   => "The :attribute must have at least :min items."
+        "array"   => "A(z) :attribute legalább :min elemet kell, hogy tartalmazzon."
     ),
-    "not_in"           => "A(z) :attribute értéke érvénytelen.",
-    "numeric"          => "A(z) :attribute szám kell, hogy legyen!",
-    "regex"            => "A(z) :attribute formátuma érvénytelen.",
-    "required"         => "A(z) :attribute megadása kötelező!",
-    "required_if"      => "A(z) :attribute megadása kötelező, ha a(z) :other értéke :value!",
-    "required_with"    => "A(z) :attribute megadása kötelező, ha a(z) :values értékek léteznek.",
-    "required_with_all" => "The :attribute field is required when :values is present.",
-    "required_without" => "A(z) :attribute megadása kötelező, ha a(z) :values értékek nem léteznek.",
-    "required_without_all" => "The :attribute field is required when none of :values are present.",
-    "same"             => "A(z) :attribute és :other mezőknek egyezniük kell!",
-    "size"             => array(
+    "not_in"               => "A(z) :attribute értéke érvénytelen.",
+    "numeric"              => "A(z) :attribute szám kell, hogy legyen!",
+    "regex"                => "A(z) :attribute formátuma érvénytelen.",
+    "required"             => "A(z) :attribute megadása kötelező!",
+    "required_if"          => "A(z) :attribute megadása kötelező, ha a(z) :other értéke :value!",
+    "required_with"        => "A(z) :attribute megadása kötelező, ha a(z) :values érték létezik.",
+    "required_with_all"    => "A(z) :attribute megadása kötelező, ha a(z) :values értékek léteznek.",
+    "required_without"     => "A(z) :attribute megadása kötelező, ha a(z) :values érték nem létezik.",
+    "required_without_all" => "A(z) :attribute megadása kötelező, ha egyik :values érték sem létezik.",
+    "same"                 => "A(z) :attribute és :other mezőknek egyezniük kell!",
+    "size"                 => array(
         "numeric" => "A(z) :attribute értéke :size kell, hogy legyen!",
         "file"    => "A(z) :attribute mérete :size kilobájt kell, hogy legyen!",
         "string"  => "A(z) :attribute hossza :size karakter kell, hogy legyen!",
-        "array"   => "The :attribute must contain :size items."
+        "array"   => "A(z) :attribute :size elemet kell tartalmazzon!"
     ),
     "unique"           => "A(z) :attribute már foglalt.",
     "url"              => "A(z) :attribute érvénytelen link.",

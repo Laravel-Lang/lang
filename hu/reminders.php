@@ -13,12 +13,12 @@ return array(
     |
     */
 
-    "password" => "A jelszónak legalább hat karakterből kell állnia és egyeznie a jelszó megerősítéssel.",
+    "password" => "A jelszónak legalább hat karakterből kell állnia és egyeznie kell a jelszó megerősítéssel.",
 
     "user"     => "Nem található felhasználó a megadott email címmel.",
 
     "token"    => "Ez az új jelszó generálásához tartozó token érvénytelen.",
 
-    "sent"     => "Password reminder sent!",
+    "sent"     => "Jelszó-emlékeztető elküldve!",
 
 );

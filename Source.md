@@ -199,7 +199,7 @@ Thai (th)
 
 Traditional Chinese (Hong Kong) (zh-HK)
 
-* [Eric Li](https://github.com/efilm)
+* [Eric Li](https://github.com/ericksli)
 * [Joy](https://github.com/joychao)
 
 Turkish (tr)

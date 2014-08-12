@@ -19,15 +19,15 @@ return array(
     "alpha"            => ":attribute 只能以字母組成。",
     "alpha_dash"       => ":attribute 只能以字母、數字及斜線組成。",
     "alpha_num"        => ":attribute 只能以字母及數字組成。",
-    "array"            => ":attribute 必须为数组。",
+    "array"            => ":attribute 必須為陣列。",
     "before"           => ":attribute 必須要在 :date 之前。",
     "between"          => array(
         "numeric" => ":attribute 必須介乎 :min 至 :max 之間。",
         "file"    => ":attribute 必須介乎 :min 至 :max kb 之間。 ",
         "string"  => ":attribute 必須介乎 :min 至 :max 個字符之間。",
-        "array"   => ":attribute: 必須有 :min - :max 個單元。"
+        "array"   => ":attribute: 必須有 :min 至 :max 個項目。"
     ),
-    "boolean"          => ":attribute 必須是bool值true或false。",
+    "boolean"          => ":attribute 必須是布爾值。",
     "confirmed"        => ":attribute 確認欄位的輸入並不相符。",
     "date"             => ":attribute 並非一個有效的日期。",
     "date_format"      => ":attribute 與 :format 格式不相符。",
@@ -44,14 +44,14 @@ return array(
         "numeric" => ":attribute 不能大於 :max。",
         "file"    => ":attribute 不能大於 :max kb。",
         "string"  => ":attribute 不能多於 :max 個字符。",
-        "array"   => ":attribute 最多有 :max 個單元。"
+        "array"   => ":attribute 不能多於 :max 個項目。"
     ),
     "mimes"            => ":attribute 必須為 :values 的檔案。",
     "min"              => array(
         "numeric" => ":attribute 不能小於 :min。",
         "file"    => ":attribute 不能小於 :min kb。",
         "string"  => ":attribute 不能小於 :min 個字符。",
-        "array"   => ":attribute 至少有 :min 個單元。"
+        "array"   => ":attribute 不能小於 :min 個項目。"
     ),
     "not_in"           => "所揀選的 :attribute 選項無效。",
     "numeric"          => ":attribute 必須為一個數字。",
@@ -59,7 +59,7 @@ return array(
     "required"         => ":attribute 不能留空。",
     "required_if"      => "當 :other 是 :value 時 :attribute 不能留空。",
     "required_with"    => "當 :values 出現時 :attribute 不能留空。",
-    "required_with_all" => "當 :values 出現時 :attribute 不能為空。",
+    "required_with_all" => "當 :values 出現時 :attribute 不能留空。",
     "required_without" => "當 :values 留空時 :attribute field 不能留空。",
     "required_without_all" => "當 :values 都不出現時 :attribute 不能留空。",
     "same"             => ":attribute 與 :other 必須相同。",
@@ -70,7 +70,7 @@ return array(
         "array"   => ":attribute 必須是 :size 個單元。"
     ),
     "unique"           => ":attribute 已經存在。",
-    "url"              => ":attribute 的格式錯鋘。",
+    "url"              => ":attribute 的格式錯誤。",
 
     /*
     |--------------------------------------------------------------------------

@@ -15,7 +15,7 @@
 | Danish | da | OK | OK | OK | OK | OK | OK | -- |
 | Dutch | nl | OK | OK | OK | OK | OK | OK | -- |
 | Finnish | fi | -- | OK | -- | -- | -- | -- | -- |
-| French | fr | OK | OK | OK | OK | OK | OK | -- |
+| French | fr | OK | OK | OK | OK | OK | OK | OK |
 | German | de | OK | OK | OK | OK | OK | -- | -- |
 | Greek | el | OK | OK | -- | -- | -- | -- | -- |
 | Hebrew | he | -- | -- | -- | -- | -- | -- | -- |

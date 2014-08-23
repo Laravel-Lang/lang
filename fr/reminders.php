@@ -21,6 +21,6 @@ return array(
 
     "sent"     => "Rappel du mot de passe envoyé !",
 
-    "reset"    => "Password has been reset!",
+    "reset"    => "Le mot de passe a été réinitialisé !",
 
 );

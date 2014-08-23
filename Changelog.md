@@ -1,5 +1,10 @@
 # Changelog
 
+23 August 2014
+
+* Add reminders.reset for all languages
+* Update French (fr) for reminders.reset by [Fred Delrieu](https://github.com/caouecs)
+
 12 August 2014
 
 * Update Traditional Chinese (Hong Kong) (zh-HK) by [Eric Li](https://github.com/ericksli)

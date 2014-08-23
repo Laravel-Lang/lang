@@ -68,6 +68,7 @@ return array(
         "string"  => ":attributeは:size文字で指定してください。",
         "array"   => ":attributeは:size個で指定してください。"
     ),
+    "timezone"         => "The :attribute must be a valid zone.",
     "unique"           => ":attributeが既に存在しています。",
     "url"              => ":attributeにはURLを指定してください。",
 

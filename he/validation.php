@@ -69,6 +69,7 @@ return array(
         "string"  => "The :attribute must be :size characters.",
         "array"   => "The :attribute must contain :size items."
     ),
+    "timezone"         => "The :attribute must be a valid zone.",
     "unique"           => "The :attribute has already been taken.",
     "url"              => "The :attribute format is invalid.",
 

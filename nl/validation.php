@@ -69,6 +69,7 @@ return array(
         "string"  => ":attribute moet :size characters zijn.",
         "array"   => ":attribute moet :size items bevatten."
     ),
+    "timezone"         => "The :attribute must be a valid zone.",
     "unique"         => ":attribute is al in gebruik.",
     "url"            => ":attribute is geen geldige URL.",
 

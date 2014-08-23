@@ -78,6 +78,7 @@ return array(
         "string"  => ":attribute :size karakter olmalıdır.",
         "array"   => ":attribute :size nesneye sahip olmalıdır."
     ),
+    "timezone"              => "The :attribute must be a valid zone.",
     "unique"                => ":attribute daha önceden kayıt edilmiş.",
     "url"                   => ":attribute biçimi geçersiz.",
 

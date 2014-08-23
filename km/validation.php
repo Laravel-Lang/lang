@@ -71,6 +71,7 @@ return array(
     ),
     "unique"               => ":attribute ត្រូវបានប្រើរួចហើយ។",
     "url"                  => ":attribute ទំរង់ត្រឹមត្រូវ។",
+    "timezone"         => "The :attribute must be a valid zone.",
 
     /*
     |--------------------------------------------------------------------------

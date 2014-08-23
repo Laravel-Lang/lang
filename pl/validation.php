@@ -69,6 +69,7 @@ return array(
         "string"  => ":attribute musi mieć :size znaków.",
         "array"   => ":attribute musi zawierać :size elementów."
     ),
+    "timezone"         => "The :attribute must be a valid zone.",
     "unique"           => "Taki :attribute już występuje.",
     "url"              => "Format :attribute jest nieprawidłowy.",
 

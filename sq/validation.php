@@ -70,6 +70,7 @@ return array(
     ),
     "unique"           => ":attribute tashmë është marrë.",
     "url"              => ":attribute formati është i pavlefshëm.",
+    "timezone"         => "The :attribute must be a valid zone.",
 
     /*
     |--------------------------------------------------------------------------

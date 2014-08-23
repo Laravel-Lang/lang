@@ -68,6 +68,7 @@ return array(
         "string"  => ":attribute depet cuntènnere :size caràteres.",
         "array"   => ":attribute depet cuntènnere :size elementos."
     ),
+    "timezone"         => "The :attribute must be a valid zone.",
     "unique"           => ":attribute est istadu giai impreadu.",
     "url"              => ":attribute depet èssere un'URL.",
 

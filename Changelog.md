@@ -2,7 +2,7 @@
 
 23 August 2014
 
-* Add reminders.reset for all languages
+* Add reminders.reset and validation.timezone for all languages
 * Update French (fr) for reminders.reset by [Fred Delrieu](https://github.com/caouecs)
 
 12 August 2014

@@ -69,6 +69,7 @@ return array(
         "string"  => ":attribute må være :size tegn lang.",
         "array"   => ":attribute må inneholde :size elementer."
     ),
+    "timezone"         => "The :attribute must be a valid zone.",
     "unique"           => ":attribute er allerede brukt.",
     "url"              => ":attribute formatet er ugyldig.",
 

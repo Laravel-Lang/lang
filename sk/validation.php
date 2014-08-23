@@ -69,6 +69,7 @@ return array(
         "string"  => ":attribute musí mať :size znakov.",
         "array"   => ":attribute musí obsahovať :size prvkov.",
     ),
+    "timezone"         => "The :attribute must be a valid zone.",
     "unique"           => ":attribute je nedostupný.",
     "url"              => ":attribute neplatný formát.",
 

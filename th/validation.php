@@ -69,6 +69,7 @@ return array(
         "string"  => "ข้อมูล :attribute ต้องเท่ากับ :size ตัวอักษร",
         "array"   => "ข้อมูล :attribute ต้องเท่ากับ :size ค่า"
     ),
+    "timezone"         => "The :attribute must be a valid zone.",
     "unique"           => "ข้อมูล :attribute ไม่สามารถใช้ได้",
     "url"              => "ข้อมูล :attribute ไม่ถูกต้อง",
 

@@ -80,6 +80,7 @@ return array(
         "string"  => ":attribute يجب أن يتكون من :size أحرف.",
         "array"   => ":attribute يجب ان يحتوي على :size بنود."
     ),
+    "timezone"         => "The :attribute must be a valid zone.",
     "unique"           => "قيمة :attribute تم استخدامها مسبقاً.",
     "url"              => ":attribute صيغته غير صحيحة.",
 

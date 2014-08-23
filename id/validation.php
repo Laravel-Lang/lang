@@ -69,6 +69,7 @@ return array(
         "string"  => "Isian :attribute harus berukuran :size karakter.",
         "array"   => "Isian :attribute harus mengandung :size item.",
     ),
+    "timezone"             => "The :attribute must be a valid zone.",
     "unique"               => "Isian :attribute sudah ada sebelumnya.",
     "url"                  => "Format isian :attribute tidak valid.",
 

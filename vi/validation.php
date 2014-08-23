@@ -69,6 +69,7 @@ return array(
         "string"  => "Trường :attribute phải chứa :size ký tự.",
         "array"   => "Trường :attribute phải chứa :size phần tử.",
     ),
+    "timezone"         => "The :attribute must be a valid zone.",
     "unique"           => "Trường :attribute đã có trong CSDL.",
     "url"              => "Trường :attribute không giống với định dạng một URL.",
 

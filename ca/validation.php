@@ -69,6 +69,7 @@ return array(
         "string"  => ":attribute ha de contenir :size caràcters.",
         "array"   => ":attribute ha de contenir :size ítems.",
     ),
+    "timezone"         => "The :attribute must be a valid zone.",
     "unique"           => ":attribute ja ha estat registrat.",
     "url"              => "El format :attribute és invàlid.",
 

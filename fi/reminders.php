@@ -21,4 +21,6 @@ return array(
 
     "sent"     => "Salasanan muistutus lähetetty!",
 
+    "reset"    => "Password has been reset!",
+
 );

@@ -35,7 +35,7 @@ You can follow translations in the issue [#172](https://github.com/caouecs/Larav
 
 ### Validation email
 
-In `validation.php` file, the text for email has beed updated :
+In `validation.php` file, the text for email has been updated :
 
     "email" => "The :attribute must be a valid email address."
 
@@ -43,11 +43,22 @@ You can follow translations in the issue [#187](https://github.com/caouecs/Larav
 
 ### Required with all
 
-In `validation.php` file, a new line has beed added :
+In `validation.php` file, a new line has been added :
 
     "required_with_all" => "The :attribute field is required when :values is present."
 
 You can follow translations in the issue [#193](https://github.com/caouecs/Laravel4-lang/issues/193).
+
+Laravel 4.2
+---
+
+### Reset in reminders
+
+In `reminders.php` file, a new line has been added :
+
+    "reset" => "Password has been reset!"
+
+You can follow translations in the issue [#258](https://github.com/caouecs/Laravel4-lang/issues/258).
 
 ---
 

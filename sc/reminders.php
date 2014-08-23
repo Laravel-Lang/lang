@@ -21,4 +21,6 @@ return array(
 
     "sent"     => "Regordu de sa password imbiadu!",
 
+    "reset"    => "Password has been reset!",
+
 );

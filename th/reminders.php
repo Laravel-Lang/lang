@@ -21,4 +21,6 @@ return array(
 
     "sent"     => "ส่งเครื่องช่วยเตือนความจำรหัสผ่านแล้ว!",
 
+    "reset"    => "Password has been reset!",
+
 );

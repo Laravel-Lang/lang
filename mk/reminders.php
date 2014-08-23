@@ -21,4 +21,6 @@ return array(
 
     "sent"     => "Испратен емаил со инструкции за ресетирање на лозинка!",
 
+    "reset"    => "Password has been reset!",
+
 );

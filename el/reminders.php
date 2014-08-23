@@ -21,4 +21,6 @@ return array(
 
     "sent"     => "Η υπενθύμιση του συνθηματικού εστάλη!",
 
+    "reset"    => "Password has been reset!",
+
 );

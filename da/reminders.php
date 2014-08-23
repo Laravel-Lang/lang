@@ -21,4 +21,6 @@ return array(
 
     "sent"     => "Password-påmindelse sendt!",
 
+    "reset"    => "Password has been reset!",
+
 );

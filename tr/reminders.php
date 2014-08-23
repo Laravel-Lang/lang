@@ -30,4 +30,6 @@ return array(
 
     "sent"     => "Şifre sıfırlama başarı ile gönderildi!",
 
+    "reset"    => "Password has been reset!",
+
 );

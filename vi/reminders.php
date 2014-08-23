@@ -21,4 +21,6 @@ return array(
 
     "sent"     => "Cấp lại mật khẩu đã đuợc gửi!",
 
+    "reset"    => "Password has been reset!",
+
 );

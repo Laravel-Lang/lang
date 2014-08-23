@@ -20,4 +20,6 @@ return array(
 
     "sent"     => "Poslan vam je e-mail za povrat lozinke!",
 
+    "reset"    => "Password has been reset!",
+
 );

@@ -21,4 +21,6 @@ return array(
 
     "sent"     => "密碼重設電郵經已寄出！",
 
+    "reset"    => "Password has been reset!",
+
 );

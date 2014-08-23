@@ -21,4 +21,6 @@ return array(
 
     "sent"     => "Jelszó-emlékeztető elküldve!",
 
+    "reset"    => "Password has been reset!",
+
 );

@@ -21,4 +21,6 @@ return array(
 
     "sent"     => "Email cu confirmare a resetării parolei a fost trimis!",
 
+    "reset"    => "Password has been reset!",
+
 );

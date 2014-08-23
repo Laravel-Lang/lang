@@ -21,4 +21,6 @@ return array(
 
     "sent"     => "Recordatori de contrasenya enviat!",
 
+    "reset"    => "Password has been reset!",
+
 );

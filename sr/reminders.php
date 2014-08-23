@@ -21,4 +21,6 @@ return array(
 
     "sent"     => "Poslali smo oporavak za vašu lozinku!",
 
+    "reset"    => "Password has been reset!",
+
 );

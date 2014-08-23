@@ -21,4 +21,6 @@ return array(
 
     "sent"     => "Upomínka ke změně hesla byla odeslána!",
 
+    "reset"    => "Password has been reset!",
+
 );

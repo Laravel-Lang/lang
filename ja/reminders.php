@@ -21,4 +21,6 @@ return array(
 
     "sent"     => "パスワードリマインダーを送信しました！",
 
+    "reset"    => "Password has been reset!",
+
 );

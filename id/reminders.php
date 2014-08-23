@@ -21,4 +21,6 @@ return array(
 
     "sent"      => "Pengingat kata sandi dikirim!",
 
+    "reset"    => "Password has been reset!",
+
 );

@@ -21,4 +21,6 @@ return array(
 
     "sent"     => "Изпратено е напомняне за вашата парола!",
 
+    "reset"    => "Password has been reset!",
+
 );

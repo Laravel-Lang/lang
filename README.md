@@ -60,6 +60,14 @@ In `reminders.php` file, a new line has been added :
 
 You can follow translations in the issue [#258](https://github.com/caouecs/Laravel4-lang/issues/258).
 
+### Validation.timezone
+
+In `validation.php` file, a new line has been added :
+
+    "timezone" => "The :attribute must be a valid zone."
+
+You can follow translations in the issue [#259](https://github.com/caouecs/Laravel4-lang/issues/259).
+
 ---
 
 How add languages in my app ?

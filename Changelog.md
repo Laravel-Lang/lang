@@ -1,5 +1,64 @@
 # Changelog
 
+12 August 2014
+
+* Update Traditional Chinese (Hong Kong) (zh-HK) by [Eric Li](https://github.com/ericksli)
+
+10 August 2014
+
+* Update Brazilian (pt-BR) and Portuguese (pt) for validation.boolean by
+* Update Hungarian (hu) by [Zsombor Franczia](https://github.com/frzsombor)
+
+2 August 2014
+
+* Update Swedish (sv) for validation.boolean by [coldKingdom](https://github.com/coldKingdom)
+
+27 July 2014
+
+* Update Indonesian (id) for validation.boolean by [Ivo Idham Perdameian](https://github.com/idhamperdameian)
+
+24 July 2014
+
+* Update Vietnamese (vi) for validation.boolean by [Nguyễn Văn Ánh](https://github.com/anhskohbo)
+
+17 July 2014
+
+* Update French (fr) for reminders.user by [Erwan](https://github.com/NaWer)
+
+16 July 2014
+
+* Update Spanish (es) for validation.boolean by [sauralph](https://github.com/sauralph)
+
+9 July 2014
+
+* Update Turkish (tr) for validation.boolean, validation.required_with_all and validation.required_without_all by [Fatih AYTAÇ](https://github.com/computeus)
+
+8 July 2014
+
+* Update Chinese from Taiwan for validation.boolean by [Joy](https://github.com/joychao)
+* Update Traditional Chinese (Hong Kong) (zh-HK) and Chinese (zh-CN) for validation.boolean and validation.exists by [Joy](https://github.com/joychao)
+
+27 June 2014
+
+* Update Thai (th) for reminders.send by [chotikarn](https://github.com/chotikarn)
+* Update Brazilian (pt-BR) for validation.unique by [Ricardo Fuhrmann](https://github.com/Fuhrmann)
+
+19 June 2014
+
+* Update Brazilian (pt-BR) for validation.boolean and validation.required_with_all by [miguelbgouveia](https://github.com/miguelbgouveia)
+* Update Portuguese (pt) for validation.boolean and validation.required_with_all by [miguelbgouveia](https://github.com/miguelbgouveia)
+* Update Spanish (es) for validation.active_url by Benjamin Worwa
+
+11 June 2014
+
+* Update Danish (da) for validation.boolean by [Daniel Bøndergaard](https://github.com/danielboendergaard)
+
+10 June 2014
+
+* Update French (fr) for validation.boolean by [Fred Delrieu](https://github.com/caouecs)
+* Update Russian (ru) for validation.boolean by [Evgeny Kovalev](https://github.com/EvgenyKovalev)
+* Add validation.boolean for all languages
+
 09 June 2014
 
 * Update Macedonian (mk) by [Marko Aleksic](https://github.com/psybaron)

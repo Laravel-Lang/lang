@@ -22,6 +22,8 @@ Brazilian (pt-BR)
 * [Gabriel Machado](https://github.com/gmsantosxl)
 * [insign](https://github.com/insign)
 * [miguelbgouveia](https://github.com/miguelbgouveia)
+* [Ramiro Varandas Jr](https://github.com/ramirovjr)
+* [Ricardo Fuhrmann](https://github.com/Fuhrmann)
 
 Bulgarian (bg)
 
@@ -75,6 +77,7 @@ French (fr)
 * [Alex-Info.net](https://github.com/AlexInfoNet)
 * [Barbuslex](https://github.com/barbuslex)
 * [Elyahou](https://github.com/Elyahou)
+* [Erwan](https://github.com/NaWer)
 * [Fred Delrieu](https://github.com/caouecs)
 * [Laravel-France](https://github.com/laravel-france)
 
@@ -101,6 +104,7 @@ Hebrew (he)
 Hungarian (hu)
 
 * [Tamás Erdélyi](https://github.com/terdelyi)
+* [Zsombor Franczia](https://github.com/frzsombor)
 
 Indonesian (id)
 
@@ -151,6 +155,7 @@ Polish (pl)
 Portuguese (pt)
 
 * [miguelbgouveia](https://github.com/miguelbgouveia)
+* [Ramiro Varandas Jr](https://github.com/ramirovjr)
 
 Romanian (ro)
 
@@ -180,8 +185,10 @@ Slovak (sk)
 Spanish (es)
 
 * [Anton Zekeriev Rodin](https://github.com/antonrodin)
+* Benjamin Worwa
 * [Javier Cadiz](https://github.com/cadizjavier)
 * [Nikolas](https://github.com/nikoskip)
+* [sauralph](https://github.com/sauralph)
 
 Swedish (sv)
 
@@ -200,6 +207,7 @@ Thai (th)
 Traditional Chinese (Hong Kong) (zh-HK)
 
 * [Eric Li](https://github.com/ericksli)
+* [Fatih AYTAÇ](https://github.com/computeus)
 * [Joy](https://github.com/joychao)
 
 Turkish (tr)
@@ -211,3 +219,4 @@ Turkish (tr)
 Vietnamese (vi)
 
 * [anhsaker](https://github.com/anhsaker)
+* [Nguyễn Văn Ánh](https://github.com/anhskohbo)

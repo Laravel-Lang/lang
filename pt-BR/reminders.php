@@ -20,6 +20,6 @@ return array(
 
     "sent"     => "O lembrete da senha foi enviado!",
 
-    "reset"    => "Password has been reset!",
+    "reset"    => "A senha foi redefinida!",
 
 );

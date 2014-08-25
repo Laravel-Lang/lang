@@ -68,7 +68,7 @@ return array(
         "string"  => ":attribute måste innehålla :size tecken.",
         "array"   => ":attribute måste innehålla :size objekt."
     ),
-    "timezone"         => "The :attribute must be a valid zone.",
+    "timezone"         => ":attribute måste vara en giltig tidszon.",
     "unique"           => ":attribute används redan.",
     "url"              => "Formatet :attribute är ogiltig.",
 

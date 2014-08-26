@@ -17,10 +17,10 @@ return array(
 
     "user"     => "해당 이메일을 사용하는 사용자를 찾을 수 없습니다.",
 
-    "token"    => "해당 비밀번호 리셋 토큰은 유효하지 않습니다.",
+    "token"    => "해당 비밀번호 변경 토큰이 유효하지 않습니다.",
+    
+    "sent"     => "이메일 확인 후 비밀번호를 재설정 해주세요.",
 
-    "sent"     => "Password reminder sent!",
-
-    "reset"    => "Password has been reset!",
+    "reset"    => "비밀번호가 변경되었습니다.",
 
 );

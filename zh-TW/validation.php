@@ -69,7 +69,7 @@ return array(
         "string"  => ":attribute 必須是 :size 個字元。",
         "array"   => ":attribute 必須是 :size 個元素。"
     ),
-    "timezone"         => "The :attribute must be a valid zone.",
+    "timezone"         => ":attribute 必須是一個正確的時區值。",
     "unique"           => ":attribute 已經存在。",
     "url"              => ":attribute 的格式錯鋘。",
 

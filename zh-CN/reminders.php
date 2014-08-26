@@ -21,6 +21,6 @@ return array(
 
     "sent"     => "密码重置邮件已发送！",
 
-    "reset"    => "Password has been reset!",
+    "reset"    => "密码重置成功!",
 
 );

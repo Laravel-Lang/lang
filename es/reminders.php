@@ -13,14 +13,14 @@ return array(
     |
     */
 
-    "password" => "Las contraseñas deben contener al menos 6 caracteres y coincidir.",
+    "password" => "Las contrase&ntilde;as deben contener al menos 6 caracteres y coincidir.",
 
-    "user"     => "No podemos encontrar a un usuario con ese correo electrónico.",
+    "user"     => "No podemos encontrar a un usuario con ese correo electr&oacute;nico.",
 
-    "token"    => "Este token de recuperación de contraseña es inválido.",
+    "token"    => "Este token de recuperaci&oacute;n de contrase&ntilde;a es inv&aacute;lido.",
 
-    "sent"     => "¡Recordatorio de contraseña enviado!",
+    "sent"     => "&iexcl;Recordatorio de contrase&ntilde;a enviado!",
 
-    "reset"    => "Password has been reset!",
+    "reset"    => "La contrase&ntilde;a ha sido reseteada!",
 
 );

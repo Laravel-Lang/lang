@@ -27,7 +27,7 @@ return array(
         "string"  => "ข้อมูล :attribute ต้องอยู่ในช่วงระหว่าง :min - :max ตัวอักษร",
         "array"   => "ข้อมูล :attribute ต้องอยู่ในช่วงระหว่าง :min - :max ค่า"
     ),
-    "boolean"          => "The :attribute field must be true or false",
+    "boolean"          => "ข้อมูล :attribute ต้องเป็นจริง หรือเท็จ เท่านั้น",
     "confirmed"        => "ข้อมูล :attribute ไม่ตรงกัน",
     "date"             => "ข้อมูล :attribute ต้องเป็นวันที่",
     "date_format"      => "ข้อมูล :attribute ไม่ตรงกับข้อมูลกำหนด :format.",
@@ -36,7 +36,7 @@ return array(
     "digits_between"   => "ข้อมูล :attribute ต้องอยู่ในช่วง :min and :max",
     "email"            => "ข้อมูล :attribute ต้องเป็นอีเมล์",
     "exists"           => "ข้อมูล ที่ถูกเลือกจาก :attribute ไม่ถูกต้อง",
-    "image"            => "ข้อมูล :attribute ต้อง้ป็นรูปภาพ",
+    "image"            => "ข้อมูล :attribute ต้องเป็นรูปภาพ",
     "in"               => "ข้อมูล ที่ถูกเลือกใน :attribute ไม่ถูกต้อง",
     "integer"          => "ข้อมูล :attribute ต้องเป็นตัวเลข",
     "ip"               => "ข้อมูล :attribute ต้องเป็น IP",
@@ -69,7 +69,7 @@ return array(
         "string"  => "ข้อมูล :attribute ต้องเท่ากับ :size ตัวอักษร",
         "array"   => "ข้อมูล :attribute ต้องเท่ากับ :size ค่า"
     ),
-    "timezone"         => "The :attribute must be a valid zone.",
+    "timezone"         => "ข้อมูล :attribute ต้องเป็นข้อมูลเขตเวลาที่ถูกต้อง",
     "unique"           => "ข้อมูล :attribute ไม่สามารถใช้ได้",
     "url"              => "ข้อมูล :attribute ไม่ถูกต้อง",
 

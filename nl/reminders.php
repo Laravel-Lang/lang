@@ -21,6 +21,6 @@ return array(
 
     "sent"     => "Wachtwoord herinnering verzonden!",
 
-    "reset"    => "Password has been reset!",
+    "reset"    => "Wachtwoord is veranderd!",
 
 );

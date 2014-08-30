@@ -9,7 +9,7 @@
 | Brazilian | pt-BR | OK | OK | -- |
 | Bulgarian | bg | OK | OK | -- |
 | Catalan | ca | OK | OK | -- |
-| Chinese | zh-CN | -- | -- | -- |
+| Chinese | zh-CN | OK | OK  | OK |
 | Czech | cs | OK | OK | -- |
 | Danish | da | OK | OK | -- |
 | Dutch | nl | OK | OK | -- |
@@ -34,6 +34,6 @@
 | Spanish | es | OK | OK | -- |
 | Swedish | sv | OK | OK | -- |
 | Thai | th | OK | -- | -- |
-| Traditional Chinese (Hong Kong) | zh-HK | -- | -- | -- |
+| Traditional Chinese (Hong Kong) | zh-HK | OK | OK | OK |
 | Turkish | tr | OK | OK | -- |
 | Vietnamese | vi | OK | OK | -- |

@@ -40,12 +40,12 @@ Catalan (ca)
 Chinese (zh-CN)
 
 * [JohnLui](https://github.com/johnlui)
-* [Joy](https://github.com/joychao)
+* [Carlos](https://github.com/overtrue)
 * [phoenixg](https://github.com/phoenixg)
 
 Chinese from Taiwan (zh-TW)
 
-* [Joy](https://github.com/joychao)
+* [Carlos](https://github.com/overtrue)
 
 Czech (cs)
 
@@ -208,7 +208,7 @@ Traditional Chinese (Hong Kong) (zh-HK)
 
 * [Eric Li](https://github.com/ericksli)
 * [Fatih AYTAÇ](https://github.com/computeus)
-* [Joy](https://github.com/joychao)
+* [Carlos](https://github.com/overtrue)
 
 Turkish (tr)
 

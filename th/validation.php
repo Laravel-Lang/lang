@@ -33,7 +33,7 @@ return array(
     "date_format"      => "ข้อมูล :attribute ไม่ตรงกับข้อมูลกำหนด :format.",
     "different"        => "ข้อมูล :attribute และ :other ต้องไม่เท่ากัน",
     "digits"           => "ข้อมูล :attribute ต้องเป็น :digits",
-    "digits_between"   => "ข้อมูล :attribute ต้องอยู่ในช่วง :min and :max",
+    "digits_between"   => "ข้อมูล :attribute ต้องอยู่ในช่วงระหว่าง :min ถึง :max",
     "email"            => "ข้อมูล :attribute ต้องเป็นอีเมล์",
     "exists"           => "ข้อมูล ที่ถูกเลือกจาก :attribute ไม่ถูกต้อง",
     "image"            => "ข้อมูล :attribute ต้องเป็นรูปภาพ",

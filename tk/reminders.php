@@ -22,14 +22,14 @@ return array(
     |
     */
 
-    "password" => "Şifreler altı karakter olmalı ve onay ile eşleşmelidir.",
+    "password" => "Açarsöz 6 harpdan ybarat bolup, tassyklamasy bilen deň bolmaly.",
 
-    "user"     => "Bu e-mail adresi ile kayıtlı üye bulunamıyor.",
+    "user"     => "Bu e-mail adrese degişli ulanyjy tapylmady.",
 
-    "token"    => "Şifre sıfırlama bileti geçersiz.",
+    "token"    => "Açarsöz tazeleme bileti ýalňyş.",
 
-    "sent"     => "Şifre sıfırlama başarı ile gönderildi!",
+    "sent"     => "Açarsöz ýatlatmasy ugradyldy!",
 
-    "reset"    => "Password has been reset!",
+    "reset"    => "Açarsöz üýtgedildi!",
 
 );

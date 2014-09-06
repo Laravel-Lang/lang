@@ -52,35 +52,35 @@ return array(
     "max"                   => array(
         "numeric" => ":attribute :max den kiçi bolmalydyr.",
         "file"    => ":attribute :max kilobaýtdan kiçi bolmalydyr.",
-        "string"  => ":attribute değeri :max karakter değerinden kiçi bolmalydyr.",
-        "array"   => ":attribute değeri :max adedinden az nesneye sahip bolmalydyr."
+        "string"  => ":attribute :max harpdan kiçi bolmalydyr.",
+        "array"   => ":attribute iň az :max maddadan ybarat bolmalydyr."
     ),
-    "mimes"                 => ":attribute dosya biçimi :values bolmalydyr.",
+    "mimes"                 => ":attribute faýlň formaty :values bolmalydyr.",
     "min"                   => array(
-        "numeric" => ":attribute değeri :min değerinden büyük olmalıdır.",
-        "file"    => ":attribute değeri :min kilobaýt değerinden büyük bolmalydyr.",
-        "string"  => ":attribute değeri :min karakter değerinden büyük bolmalydyr.",
-        "array"   => ":attribute en az :min nesneye sahip olmalıdır."
+        "numeric" => ":attribute mukdary :min dan köp bolmalydyr.",
+        "file"    => ":attribute mukdary :min kilobaýtdan köp bolmalydyr.",
+        "string"  => ":attribute mukdary :min harpdan köp bolmalydyr.",
+        "array"   => ":attribute iň az :min harpdan bolmalydyr."
     ),
-    "not_in"                => "Seçili :attribute geçersiz.",
-    "numeric"               => ":attribute rakam bolmalydyr.",
-    "regex"                 => ":attribute biçimi geçersiz.",
-    "required"              => ":attribute alanı gereklidir.",
-    "required_if"           => ":attribute alanı, :other :value değerine sahip olduğunda zorunludur.",
-    "required_with"         => ":attribute alanı :values varken zorunludur.",
-    "required_with_all"     => ":attribute alanı herhangi bir :values değeri varken zorunludur.",
-    "required_without"      => ":attribute alanı :values yokken zorunludur.",
-    "required_without_all"  => ":attribute alanı :values değerlerinden herhangi biri yokken zorunludur.",
-    "same"                  => ":attribute ile :other eşleşmelidir.",
+    "not_in"                => "Saýlanan :attribute geçersiz.",
+    "numeric"               => ":attribute san bolmalydyr.",
+    "regex"                 => ":attribute formaty ýalňyş.",
+    "required"              => ":attribute meýdany zerur.",
+    "required_if"           => ":attribute meýdany, :other :value hümmetine eýe bolanynda zerurdyr.",
+    "required_with"         => ":attribute meýdany :values bar bolanda zerurdyr.",
+    "required_with_all"     => ":attribute meýdany haýsyda bolsa bir :values bar bolanda zerurdyr.",
+    "required_without"      => ":attribute meýdany :values ýok bolanda zerurdyr.",
+    "required_without_all"  => ":attribute meýdany :values dan haýsyda bolsa biri ýok bolanda zerurdyr.",
+    "same"                  => ":attribute bilen :other deň bolmalydyr.",
     "size"                  => array(
-        "numeric" => ":attribute :size bolmalydyr.",
+        "numeric" => ":attribute :size sandan ybarat bolmalydyr.",
         "file"    => ":attribute :size kilobaýt bolmalydyr.",
-        "string"  => ":attribute :size karakter bolmalydyr.",
-        "array"   => ":attribute :size nesneye sahip bolmalydyr."
+        "string"  => ":attribute :size harp bolmalydyr.",
+        "array"   => ":attribute :size madda eýe bolmalydyr."
     ),
-    "timezone"              => "The :attribute must be a valid zone.",
-    "unique"                => ":attribute daha önceden kayıt edilmiş.",
-    "url"                   => ":attribute biçimi geçersiz.",
+    "timezone"              => ":attribute dogry zolak bolmalydyr.",
+    "unique"                => ":attribute önden hasaba alyndy.",
+    "url"                   => ":attribute formaty ýalňyş.",
 
     /*
     |--------------------------------------------------------------------------

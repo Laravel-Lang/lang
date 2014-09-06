@@ -38,4 +38,5 @@
 | Thai | th | OK | OK | -- | -- | -- | OK |OK | OK |
 | Traditional Chinese (Hong Kong) | zh-HK | OK | OK | OK | OK | OK | OK | OK | OK |
 | Turkish | tr | OK | OK | OK | OK | OK | OK | -- | -- |
+| Turkmen | tk | OK | OK | OK | OK | OK | OK | OK | OK |
 | Vietnamese | vi | OK | OK | OK | OK | OK | OK | -- | -- |

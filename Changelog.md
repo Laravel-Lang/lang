@@ -1,5 +1,9 @@
 # Changelog
 
+06 September 2014
+
+* Add Turkmen (tk) by [Isa Ishangulyyev](https://github.com/isa424)
+
 05 September 2014
 
 * Update Dutch (nl) for validation.timezone by [Mark Mooibroek](https://github.com/markmooibroek)

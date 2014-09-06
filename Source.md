@@ -220,6 +220,10 @@ Turkish (tr)
 * [pellempus](https://github.com/pellempus)
 * [Sinan Eldem](https://github.com/sineld)
 
+Turkmen (tk)
+
+* [Isa Ishangulyyev](https://github.com/isa424)
+
 Vietnamese (vi)
 
 * [anhsaker](https://github.com/anhsaker)

@@ -59,7 +59,7 @@ return array(
     "required"       => ":attribute is verplicht.",
     "required_if"    => ":attribute is verplicht indien :other gelijk is aan :value.",
     "required_with"  => ":attribute is verplicht i.c.m. :values",
-    "required_with_all" => ":attribute is verplicht i.c.m. :values",
+    "required_with_all"    => ":attribute is verplicht i.c.m. :values",
     "required_without"     => ":attribute is verplicht als :values niet ingevuld is.",
     "required_without_all" => ":attribute is verplicht als :values niet ingevuld zijn.",
     "same"           => ":attribute en :other moeten overeenkomen.",
@@ -69,7 +69,7 @@ return array(
         "string"  => ":attribute moet :size characters zijn.",
         "array"   => ":attribute moet :size items bevatten."
     ),
-    "timezone"         => "Het :attribute moet een geldige zone zijn.",
+    "timezone"       => "Het :attribute moet een geldige zone zijn.",
     "unique"         => ":attribute is al in gebruik.",
     "url"            => ":attribute is geen geldige URL.",
 

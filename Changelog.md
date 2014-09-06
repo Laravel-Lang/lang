@@ -1,9 +1,33 @@
 # Changelog
 
+05 September 2014
+
+* Update Dutch (nl) for validation.timezone by [Mark Mooibroek](https://github.com/markmooibroek)
+
+03 September 2014
+
+* Update Dutch (nl) for reminders.reset by [Mark Mooibroek](https://github.com/markmooibroek)
+* Update Thai (th) for reminders.reset, validation.boolean, validation.timezone by [Pachara Limkraisan](https://github.com/kthoth)
+
+26 August 2014
+
+* Update Korean (ko) for reminders.reset, reminders.send, validation by [dbwhddn10](https://github.com/dbwhddn10)
+* Update Traditional Chinese (Hong Kong) (zh-HK), Chinese from Taiwan (zh-TW) and Chinese (zh-CN) for validation.timezone and reminders.reset by [Carlos](https://github.com/overtrue)
+
+25 August 2014
+
+* Update Portuguese (pt) for validation.timezone by [miguelbgouveia](https://github.com/miguelbgouveia)
+* Update Brazilian (pt-BR) for validation.timezone and reminders.reset by [miguelbgouveia](https://github.com/miguelbgouveia)
+* Update Swedish (sv) for reminders.reset and validation.timezone by [Christoffer Rydberg](https://github.com/murum)
+
+24 August 2014
+
+* Update Russian (ru) for reminders.reset and validation.timezone by [Evgeny Kovalev](https://github.com/EvgenyKovalev)
+
 23 August 2014
 
 * Add reminders.reset and validation.timezone for all languages
-* Update French (fr) for reminders.reset by [Fred Delrieu](https://github.com/caouecs)
+* Update French (fr) for reminders.reset and validation.timezone by [Fred Delrieu](https://github.com/caouecs)
 
 12 August 2014
 

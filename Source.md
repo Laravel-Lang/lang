@@ -39,8 +39,8 @@ Catalan (ca)
 
 Chinese (zh-CN)
 
-* [JohnLui](https://github.com/johnlui)
 * [Carlos](https://github.com/overtrue)
+* [JohnLui](https://github.com/johnlui)
 * [phoenixg](https://github.com/phoenixg)
 
 Chinese from Taiwan (zh-TW)
@@ -64,6 +64,7 @@ Dutch (nl)
 * [Jaspur](https://github.com/jaspur)
 * [Jeroen Gerits](https://github.com/jeroengerits)
 * [juukie14](https://github.com/juukie14)
+* [Mark Mooibroek](https://github.com/markmooibroek)
 * [Thomas de Zeeuw](https://github.com/Thomasdezeeuw)
 
 Finnish (fi)
@@ -127,6 +128,7 @@ Japanese (ja)
 
 Korean (ko)
 
+* [dbwhddn10](https://github.com/dbwhddn10)
 * [Kaden Lee](https://github.com/thisiskaden)
 
 Macedonian (mk)
@@ -193,6 +195,7 @@ Spanish (es)
 Swedish (sv)
 
 * [Alexander Wallin](https://github.com/alexanderwallin)
+* [Christoffer Rydberg](https://github.com/murum)
 * [coldKingdom](https://github.com/coldKingdom)
 * [Jonas Söderberg](https://github.com/imevul)
 * [Linus Odenring](https://github.com/linusodenring)
@@ -202,13 +205,14 @@ Swedish (sv)
 Thai (th)
 
 * [chotikarn](https://github.com/chotikarn)
+* [Pachara Limkraisan](https://github.com/kthoth)
 * [Teepluss](https://github.com/teepluss)
 
 Traditional Chinese (Hong Kong) (zh-HK)
 
+* [Carlos](https://github.com/overtrue)
 * [Eric Li](https://github.com/ericksli)
 * [Fatih AYTAÇ](https://github.com/computeus)
-* [Carlos](https://github.com/overtrue)
 
 Turkish (tr)
 

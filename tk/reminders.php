@@ -26,7 +26,7 @@ return array(
 
     "user"     => "Bu e-mail adrese degişli ulanyjy tapylmady.",
 
-    "token"    => "Açarsöz tazeleme bileti ýalňyş.",
+    "token"    => "Açarsöz tazeleme söz birligi ýalňyş.",
 
     "sent"     => "Açarsöz ýatlatmasy ugradyldy!",
 

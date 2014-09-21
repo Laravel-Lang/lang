@@ -14,13 +14,13 @@ return array(
     */
 
     "accepted"         => "Το πεδίο :attribute πρέπει να γίνει αποδεκτό.",
-    "active_url"       => "Το πεδίο :attribute δεν είναι αποδεκτή δ/νση URL.",
-    "after"            => "Το πεδίο :attribute μπορεί να είναι μία ημ/νία μετά από :date.",
+    "active_url"       => "Το πεδίο :attribute δεν είναι αποδεκτή διεύθυνση URL.",
+    "after"            => "Το πεδίο :attribute μπορεί να είναι μία ημερομηνία μετά από :date.",
     "alpha"            => "Το πεδίο :attribute μπορεί να περιέχει μόνο γράμματα.",
     "alpha_dash"       => "Το πεδίο :attribute μπορεί να περιέχει μόνο γράμματα, αριθμούς, και παύλες.",
     "alpha_num"        => "Το πεδίο :attribute μπορεί να περιέχει μόνο γράμματα και αριθμούς.",
     "array"            => "Το πεδίο :attribute πρέπει να είναι ένας πίνακας.",
-    "before"           => "Το πεδίο :attribute πρέπει να είναι μία ημ/νία πριν από :date.",
+    "before"           => "Το πεδίο :attribute πρέπει να είναι μία ημερομηνία πριν από :date.",
     "between"          => array(
         "numeric" => "Το πεδίο :attribute πρέπει να είναι μεταξύ :min - :max.",
         "file"    => "Το πεδίο :attribute πρέπει να είναι μεταξύ :min - :max kilobytes.",
@@ -34,7 +34,7 @@ return array(
     "different"        => "Το πεδίο :attribute και :other πρέπει να είναι διαφορετικά.",
     "digits"           => "Το πεδίο :attribute πρέπει να είναι :digits ψηφία.",
     "digits_between"   => "Το πεδίο :attribute πρέπει να είναι between :min and :max ψηφία.",
-    "email"            => "Το πεδίο :attribute δεν είναι αποδεκτή δ/νση email.",
+    "email"            => "Το πεδίο :attribute δεν είναι αποδεκτή διεύθυνση email.",
     "exists"           => "Το επιλεγμένο :attribute δεν είναι έγκυρο.",
     "image"            => "Το πεδίο :attribute πρέπει να είναι εικόνα.",
     "in"               => "Το επιλεγμένο :attribute δεν είναι έγκυρο.",
@@ -69,9 +69,9 @@ return array(
         "string"  => "Το πεδίο :attribute πρέπει να είναι :size χαρακτήρες.",
         "array"   => "Το πεδίο :attribute πρέπει να περιέχει :size αντικείμενα."
     ),
-    "timezone"         => "The :attribute must be a valid zone.",
+    "timezone"         => "Το πεδίο :attribute πρέπει να είναι μία έγκυρη ζώνη ώρας.",
     "unique"           => "Το πεδίο :attribute έχει ήδη εκχωρηθεί.",
-    "url"              => "Το πεδίο :attribute δεν είναι μία αποδεκτή δ/νση URL.",
+    "url"              => "Το πεδίο :attribute δεν είναι μία αποδεκτή διεύθυνση URL.",
 
     /*
     |--------------------------------------------------------------------------

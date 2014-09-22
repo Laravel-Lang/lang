@@ -60,7 +60,7 @@ return array(
     "required_if"      => "Полето :attribute се изисква, когато :other е :value.",
     "required_with"    => "Полето :attribute се изисква, когато :values има стойност.",
     "required_with_all" => "Полето :attribute е задължително, когато :values имат стойност.",
-    "required_without" => "Полето :attribute се изисква, когато :values няма стойност.",    
+    "required_without" => "Полето :attribute се изисква, когато :values няма стойност.",
     "required_without_all" => "Полето :attribute се изисква, когато никое от полетата :values няма стойност.",
     "same"             => "Полетата :attribute и :other трябва да съвпадат.",
     "size"             => array(

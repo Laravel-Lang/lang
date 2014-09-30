@@ -43,7 +43,7 @@ return array(
     "different"             => ":attribute bilen :other birbirinden tapawutly bolmalydyr.",
     "digits"                => ":attribute :digits san bolmalydyr.",
     "digits_between"        => ":attribute :min bilen :max arasynda san bolmalydyr.",
-    "email"                 => ":attribute formaty dogry däl.",
+    "email"                 => ":attribute formaty ýalňyş.",
     "exists"                => "Saýlanan :attribute ýalňyş.",
     "image"                 => ":attribute surat bolmalydyr.",
     "in"                    => ":attribute mukdary ýalňyş.",

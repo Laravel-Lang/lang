@@ -36,7 +36,7 @@ return [
     "digits_between"   => "Полето :attribute треба да има помеѓу :min и :max цифри.",
     "email"            => "Полето :attribute не е во валиден формат.",
     "exists"           => "Избранато поле :attribute веќе постои.",
-    "filled"           => "The :attribute field is required.",
+    "filled"           => "Полето :attribute е задолжително.",
     "image"            => "Полето :attribute мора да биде слика.",
     "in"               => "Избраното поле :attribute е невалидно.",
     "integer"          => "Полето :attribute мора да биде цел број.",

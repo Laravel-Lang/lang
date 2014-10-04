@@ -1,14 +1,5 @@
 <?php
 
-/**
- * Laravel - A PHP Framework For Web Artisans
- *
- * @package  Language
- * @version  4.x
- * @author   Sinan Eldem <sinan@sinaneldem.com.tr>
- * @link     http://sinaneldem.com.tr
- */
-
 return [
 
     /*

@@ -36,7 +36,7 @@ return [
     "digits_between"   => "Το πεδίο :attribute πρέπει να είναι between :min and :max ψηφία.",
     "email"            => "Το πεδίο :attribute δεν είναι αποδεκτή δ/νση email.",
     "exists"           => "Το επιλεγμένο :attribute δεν είναι έγκυρο.",
-    "filled"           => "The :attribute field is required.",
+    "filled"           => "Το πεδίο :attribute είναι απαραίτητο.",
     "image"            => "Το πεδίο :attribute πρέπει να είναι εικόνα.",
     "in"               => "Το επιλεγμένο :attribute δεν είναι έγκυρο.",
     "integer"          => "Το πεδίο :attribute πρέπει να είναι ακέραιος.",

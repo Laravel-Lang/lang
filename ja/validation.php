@@ -35,7 +35,7 @@ return [
     "digits_between"   => ":attributeは:min桁から:max桁で指定してください。",
     "email"            => ":attributeにはメールアドレスを指定してください。",
     "exists"           => "選択された:attributeが正しくありません。",
-    "filled"           => "The :attribute field is required.",
+    "filled"           => ":attributeは必須となります。",
     "image"            => ":attributeには画像を指定してください。",
     "in"               => "選択された:attributeが正しくありません。",
     "integer"          => ":attributeには整数を指定してください。",

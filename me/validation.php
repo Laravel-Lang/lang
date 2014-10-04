@@ -35,7 +35,7 @@ return [
     "digits_between"   => "Polje :attribute mora biti izemđu :min i :max cifri.",
     "email"            => "Format polja :attribute nije validan.",
     "exists"           => "Odabrano polje :attribute nije validno.",
-    "filled"           => "The :attribute field is required.",
+    "filled"           => "Polje :attribute je obavezno.",
     "image"            => "Polje :attribute mora biti slika.",
     "in"               => "Odabrano polje :attribute nije validno.",
     "integer"          => "Polje :attribute mora biti broj.",

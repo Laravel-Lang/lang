@@ -27,7 +27,7 @@ return [
         "string"  => "Le texte :attribute doit avoir entre :min et :max caractères.",
         "array"   => "Le champ :attribute doit avoir entre :min et :max éléments."
     ],
-    "boolean"              => "Le champ :attribute doit true ou false",
+    "boolean"              => "Le champ :attribute doit true ou false.",
     "confirmed"            => "Le champ de confirmation :attribute ne correspond pas.",
     "date"                 => "Le champ :attribute n'est pas une date valide.",
     "date_format"          => "Le champ :attribute ne correspond pas au format :format.",
@@ -36,7 +36,7 @@ return [
     "digits_between"       => "Le champ :attribute doit avoir entre :min and :max chiffres.",
     "email"                => "Le champ :attribute doit être une adresse email valide.",
     "exists"               => "Le champ :attribute sélectionné est invalide.",
-    "filled"           => "The :attribute field is required.",
+    "filled"               => "Le champ :attribute est obligatoire.",
     "image"                => "Le champ :attribute doit être une image.",
     "in"                   => "Le champ :attribute est invalide.",
     "integer"              => "Le champ :attribute doit être un entier.",

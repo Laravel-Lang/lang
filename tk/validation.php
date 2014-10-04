@@ -1,14 +1,5 @@
 <?php
 
-/**
- * Laravel - A PHP Framework For Web Artisans
- *
- * @package  Language
- * @version  4.x
- * @author   Isa Ishangulyyev <ishankuliyew424@gmail.com>
- * @link     http://github.com/isa424
- */
-
 return [
 
     /*
@@ -45,7 +36,7 @@ return [
     "digits_between"        => ":attribute :min bilen :max arasynda san bolmalydyr.",
     "email"                 => ":attribute formaty ýalňyş.",
     "exists"                => "Saýlanan :attribute ýalňyş.",
-    "filled"                => "The :attribute field is required.",
+    "filled"                => ":attribute meýdany zerur.",
     "image"                 => ":attribute surat bolmalydyr.",
     "in"                    => ":attribute mukdary ýalňyş.",
     "integer"               => ":attribute san bolmalydyr.",

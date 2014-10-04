@@ -36,7 +36,7 @@ return [
     "digits_between"    => ":attribute은(는) 반드시 :min에서 :max 자릿수 사이여야 합니다.",
     "email"             => ":attribute 형식은 유효하지 않습니다.",
     "exists"            => "선택된 :attribute은(는) 유효하지 않습니다.",
-    "filled"            => "The :attribute field is required.",
+    "filled"            => ":attribute 필드는 필수입니다.",
     "image"             => ":attribute은(는) 반드시 이미지여야 합니다.",
     "in"                => "선택된 :attribute은(는) 유효하지 않습니다.",
     "integer"           => ":attribute은(는) 반드시 정수여야 합니다.",

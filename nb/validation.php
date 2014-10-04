@@ -36,7 +36,7 @@ return [
     "digits_between"   => ":attribute skal være mellom :min og :max siffer.",
     "email"            => ":attribute format er ugyldig.",
     "exists"           => "Det valgte :attribute er ugyldig.",
-    "filled"           => "The :attribute field is required.",
+    "filled"           => ":attribute må fylles ut.",
     "image"            => ":attribute skal være et bilde.",
     "in"               => "Det valgte :attribute er ugyldig.",
     "integer"          => ":attribute skal være et heltall.",

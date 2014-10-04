@@ -36,7 +36,7 @@ return [
     "digits_between"   => ":attribute musí mať rozsah :min až :max číslic.",
     "email"            => ":attribute má neplatný formát.",
     "exists"           => "označený :attribute je neplatný.",
-    "filled"           => "The :attribute field is required.",
+    "filled"           => ":attribute je požadované.",
     "image"            => ":attribute musí byť obrázok.",
     "in"               => "označený :attribute je neplatný.",
     "integer"          => ":attribute musí byť celé číslo.",

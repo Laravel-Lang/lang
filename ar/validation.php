@@ -47,7 +47,7 @@ return [
     "digits_between"   => ":attribute يجب أن يكون بين :min و :max أرقام.",
     "email"            => ":attribute بصيغة خاطئة.",
     "exists"           => ":attribute المختار غير صالح.",
-    "filled"           => "The :attribute field is required.",
+    "filled"           => ":attribute مطلوب.",
     "image"            => ":attribute يجب أن يكون صورة",
     "in"               => "قيمة :attribute المختارة غير صالح.",
     "integer"          => ":attribute يجب أن يكون رقماً صحيحاً.",

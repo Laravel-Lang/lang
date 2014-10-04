@@ -36,7 +36,7 @@ return [
     "digits_between"       => "Isian :attribute harus antara angka :min dan :max.",
     "email"                => "Isian :attribute harus berupa alamat surel yang valid.",
     "exists"               => "Isian :attribute yang dipilih tidak valid.",
-    "filled"               => "The :attribute field is required.",
+    "filled"               => "Bidang isian :attribute wajib diisi.",
     "image"                => "Isian :attribute harus berupa gambar.",
     "in"                   => "Isian :attribute yang dipilih tidak valid.",
     "integer"              => "Isian :attribute harus merupakan bilangan bulat.",

@@ -1,14 +1,5 @@
 <?php
 
-/**
- * Laravel - A PHP Framework For Web Artisans
- *
- * @package  Language
- * @version  4.x
- * @author   Sinan Eldem <sinan@sinaneldem.com.tr>
- * @link     http://sinaneldem.com.tr
- */
-
 return [
 
     /*
@@ -45,7 +36,7 @@ return [
     "digits_between"        => ":attribute :min ile :max arasında rakam olmalıdır.",
     "email"                 => ":attribute biçimi geçersiz.",
     "exists"                => "Seçili :attribute geçersiz.",
-    "filled"                => "The :attribute field is required.",
+    "filled"                => ":attribute alanı gereklidir.",
     "image"                 => ":attribute alanı resim dosyası olmalıdır.",
     "in"                    => ":attribute değeri geçersiz.",
     "integer"               => ":attribute rakam olmalıdır.",

@@ -36,7 +36,7 @@ return [
     "digits_between"       => ":attribute ត្រូវចាប់ពីខ្ទុង :min​ទៅ :max។",
     "email"                => ":attribute ទំរង់នេះមិនត្រឹមត្រូវ។",
     "exists"               => "ការជ្រើសរើស :attribute ត្រឹមត្រូវ។",
-    "filled"               => "The :attribute field is required.",
+    "filled"               => "ទំរង់ :attribute នេះគឺទាមទារឲ្យមាន។",
     "image"                => ":attribute ត្រូវតៃជារូបភាព។",
     "in"                   => "ការជ្រើសរើស :attribute មិនត្រឹមត្រូវ។",
     "integer"              => ":attribute ត្រូវតែជាចំនួនគត់។",

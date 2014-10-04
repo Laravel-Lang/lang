@@ -2,7 +2,7 @@
 
 04 October 2014
 
-* Add validation.filled for all languages
+* Add validation.filled for all languages with same translation than validation.required
 
 30 September 2014
 

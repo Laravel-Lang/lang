@@ -35,7 +35,7 @@ return [
     "digits_between"   => ":attribute deve essere tra :min e :max cifre.",
     "email"            => ":attribute non è valido.",
     "exists"           => ":attribute selezionato/a non è valido.",
-    "filled"           => "The :attribute field is required.",
+    "filled"           => ":attribute è richiesto.",
     "image"            => ":attribute deve essere un'immagine.",
     "in"               => ":attribute selezionato non è valido.",
     "integer"          => ":attribute deve essere un numero intero.",

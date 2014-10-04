@@ -36,7 +36,7 @@ return [
     "digits_between"   => "A(z) :attribute értéke :min és :max közötti számjegy lehet!",
     "email"            => "A(z) :attribute nem érvényes email formátum.",
     "exists"           => "A(z) :attribute már létezik.",
-    "filled"           => "The :attribute field is required.",
+    "filled"           => "A(z) :attribute megadása kötelező!",
     "image"            => "A(z) :attribute képfájl kell, hogy legyen!",
     "in"               => "A kiválasztott :attribute érvénytelen.",
     "integer"          => "A(z) :attribute értéke szám kell, hogy legyen!",

@@ -35,7 +35,7 @@ return [
     "digits_between"   => ":attribute depet èssere intre :min e :max tzifras.",
     "email"            => ":attribute no est bàlidu.",
     "exists"           => ":attribute seberadu/a no est bàlidu.",
-    "filled"           => "The :attribute field is required.",
+    "filled"           => ":attribute est pedidu.",
     "image"            => ":attribute depet èssere un'immàgine.",
     "in"               => ":attribute seberadu no est bàlidu.",
     "integer"          => ":attribute depet èssere intreu.",

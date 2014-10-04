@@ -27,7 +27,7 @@ return array(
         "string"  => "Полето :attribute трябва да бъде между :min и :max знака.",
         "array"   => "Полето :attribute трябва да има между :min - :max елемента."
     ),
-    "boolean"          => "The :attribute field must be true or false",
+    "boolean"          => "Полето :attribute трябва да съдържа Да или Не",
     "confirmed"        => "Полето :attribute не е потвърдено.",
     "date"             => "Полето :attribute не е валидна дата.",
     "date_format"      => "Полето :attribute не е във формат :format.",
@@ -59,9 +59,9 @@ return array(
     "required"         => "Полето :attribute е задължително.",
     "required_if"      => "Полето :attribute се изисква, когато :other е :value.",
     "required_with"    => "Полето :attribute се изисква, когато :values има стойност.",
-    "required_with_all" => "The :attribute field is required when :values is present.",
+    "required_with_all" => "Полето :attribute е задължително, когато :values имат стойност.",
     "required_without" => "Полето :attribute се изисква, когато :values няма стойност.",
-    "required_without_all" => "The :attribute field is required when none of :values are present.",
+    "required_without_all" => "Полето :attribute се изисква, когато никое от полетата :values няма стойност.",
     "same"             => "Полетата :attribute и :other трябва да съвпадат.",
     "size"             => array(
         "numeric" => "Полето :attribute трябва да бъде :size.",
@@ -69,7 +69,7 @@ return array(
         "string"  => "Полето :attribute трябва да бъде :size знака.",
         "array"   => "Полето :attribute трябва да има :size елемента."
     ),
-    "timezone"         => "The :attribute must be a valid zone.",
+    "timezone"         => "Полето :attribute трябва да съдържа валидна часова зона.",
     "unique"           => "Полето :attribute вече съществува.",
     "url"              => "Полето :attribute е в невалиден формат.",
 

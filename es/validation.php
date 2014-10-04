@@ -14,7 +14,7 @@ return array(
     */
 
     "accepted"         => ":attribute debe ser aceptado.",
-    "active_url"       => ":attribute no es un URL válido.",
+    "active_url"       => ":attribute no es una URL válida.",
     "after"            => ":attribute debe ser una fecha posterior a :date.",
     "alpha"            => ":attribute solo debe contener letras.",
     "alpha_dash"       => ":attribute solo debe contener letras, números y guiones.",
@@ -69,7 +69,7 @@ return array(
         "string"  => ":attribute debe contener :size caracteres.",
         "array"   => ":attribute debe contener :size elementos.",
     ),
-    "timezone"         => "The :attribute must be a valid zone.",
+    "timezone"         => "El :attribute debe ser una zona válida.",
     "unique"           => ":attribute ya ha sido registrado.",
     "url"              => "El formato :attribute es inválido.",
 

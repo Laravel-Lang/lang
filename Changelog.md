@@ -1,5 +1,39 @@
 # Changelog
 
+30 September 2014
+
+* Update Turkish (tr) for validation.email by [Isa Ishangulyyev](https://github.com/isa424)
+
+28 September 2014
+
+* Update Turkish (tr) for reminders.reset and validation.timezone by [azakhi](https://github.com/azakhi)
+
+22 September 2014
+
+* Update Bulgarian (bg) for reminders.reset by [Roumen Damianoff](https://github.com/RoumenDamianoff)
+* Update German (de) for reminders.reset, validation.boolean and validation.timezone by [Marius Gebhardt](https://github.com/gbhrdt)
+* Update Greek (el) for reminders and validations by [Nikos Gr](https://github.com/grrnikos)
+
+18 September 2014
+
+* Update Spanish (es) for reminders.reset and validation.timezone by [Facundo Farias](https://github.com/facundofarias)
+
+15 September 2014
+
+* Update Italian (it) for validations and reminders.reset by [Budi Irawan](https://github.com/deerawan)
+
+14 September 2014
+
+* Update Vietnamese (vi) for reminders.reset and validation.timezone by [Nguyễn Văn Ánh](https://github.com/anhskohbo)
+
+10 September 2014
+
+* Update Bulgarian (bg) for validation.timezone, required*, boolean by [starstreak](https://github.com/starstreak)
+
+08 September 2014
+
+* Update Polish (pl) by [Jakub Syty](https://github.com/Nekromancer)
+
 06 September 2014
 
 * Add Turkmen (tk) by [Isa Ishangulyyev](https://github.com/isa424)

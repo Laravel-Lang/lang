@@ -6,7 +6,7 @@
 | Arabic | ar | OK | OK | OK | OK | OK | -- | -- | -- |
 | Bosnian | bs | OK | OK | OK | -- | -- | -- | -- | -- |
 | Brazilian | pt-BR | OK | OK | OK | OK | OK | OK | OK | OK |
-| Bulgarian | bg | OK | OK | -- | -- | -- | -- | -- | -- |
+| Bulgarian | bg | OK | OK | OK | OK | OK | OK | OK | OK |
 | Cambodian | km | OK | OK | OK | -- | -- | -- | -- | -- |
 | Catalan | ca | OK | OK | -- | -- | -- | -- | -- | -- |
 | Chinese | zh-CN | OK | OK | OK | OK | OK | OK | OK | OK |
@@ -16,12 +16,12 @@
 | Dutch | nl | OK | OK | OK | OK | OK | OK | OK | OK |
 | Finnish | fi | -- | OK | -- | -- | -- | -- | -- | -- |
 | French | fr | OK | OK | OK | OK | OK | OK | OK | OK |
-| German | de | OK | OK | OK | OK | OK | -- | -- | -- |
-| Greek | el | OK | OK | -- | -- | -- | -- | -- | -- |
+| German | de | OK | OK | OK | OK | OK | OK | OK | OK |
+| Greek | el | OK | OK | OK | OK | OK | OK | OK | OK |
 | Hebrew | he | -- | -- | -- | -- | -- | -- | -- | -- |
 | Hungarian | hu | OK | OK | OK | OK | OK | OK | -- | -- |
 | Indonesian | id | OK | OK | OK | OK | OK | OK | -- | -- |
-| Italian | it | OK | OK | -- | -- | -- | -- | -- | -- |
+| Italian | it | OK | OK | OK | OK | OK | OK | OK | OK |
 | Japanese | jp | OK | OK | OK | OK | OK | -- | -- | -- |
 | Korean | ko | OK | OK | OK | OK | OK | OK | OK | OK |
 | Macedonian | mk | OK | -- | -- | -- | -- | -- | -- | -- |
@@ -33,10 +33,10 @@
 | Russian | ru | OK | OK | OK | OK | OK | OK | OK | OK |
 | Serbian | sr | OK | OK | -- | -- | -- | -- | -- | -- |
 | Slovak | sk | OK | OK | -- | -- | -- | -- | -- | -- |
-| Spanish | es | OK | OK | OK | OK | OK | OK | -- | -- |
+| Spanish | es | OK | OK | OK | OK | OK | OK | OK | OK |
 | Swedish | sv | OK | OK | OK | OK | OK | OK | OK | OK |
 | Thai | th | OK | OK | -- | -- | -- | OK |OK | OK |
 | Traditional Chinese (Hong Kong) | zh-HK | OK | OK | OK | OK | OK | OK | OK | OK |
-| Turkish | tr | OK | OK | OK | OK | OK | OK | -- | -- |
+| Turkish | tr | OK | OK | OK | OK | OK | OK | OK | OK |
 | Turkmen | tk | OK | OK | OK | OK | OK | OK | OK | OK |
-| Vietnamese | vi | OK | OK | OK | OK | OK | OK | -- | -- |
+| Vietnamese | vi | OK | OK | OK | OK | OK | OK | OK | OK |

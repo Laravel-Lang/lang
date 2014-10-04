@@ -28,6 +28,7 @@ Brazilian (pt-BR)
 Bulgarian (bg)
 
 * [Roumen Damianoff](https://github.com/RoumenDamianoff)
+* [starstreak](https://github.com/starstreak)
 
 Cambodian (km)
 
@@ -89,6 +90,7 @@ German (de)
 * [Jones](https://github.com/JN-Jones)
 * [justb81](https://github.com/justb81)
 * [lanort](https://github.com/lanort)
+* [Marius Gebhardt](https://github.com/gbhrdt)
 * [Martin Hettiger](https://github.com/hettiger)
 * [nullEuro](https://github.com/nullEuro)
 
@@ -97,6 +99,7 @@ Greek (el)
 * [dimsav](https://github.com/dimsav)
 * [igaster](https://github.com/igaster)
 * [Konstantinos Pittas](https://github.com/kostaspt)
+* [Nikos Gr](https://github.com/grrnikos)
 
 Hebrew (he)
 
@@ -152,6 +155,7 @@ Persian (fa)
 Polish (pl)
 
 * [anojszewski](https://github.com/anojszewski)
+* [Jakub Syty](https://github.com/Nekromancer)
 * [Marcin Sągol](https://github.com/soee)
 
 Portuguese (pt)
@@ -188,6 +192,7 @@ Spanish (es)
 
 * [Anton Zekeriev Rodin](https://github.com/antonrodin)
 * Benjamin Worwa
+* [Facundo Farias](https://github.com/facundofarias)
 * [Javier Cadiz](https://github.com/cadizjavier)
 * [Nikolas](https://github.com/nikoskip)
 * [sauralph](https://github.com/sauralph)
@@ -217,6 +222,8 @@ Traditional Chinese (Hong Kong) (zh-HK)
 Turkish (tr)
 
 * [Arda Kılıçdağı](https://github.com/Ardakilic)
+* [azakhi](https://github.com/azakhi)
+* [Isa Ishangulyyev](https://github.com/isa424)
 * [pellempus](https://github.com/pellempus)
 * [Sinan Eldem](https://github.com/sineld)
 

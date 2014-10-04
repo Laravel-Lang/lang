@@ -1,6 +1,6 @@
 <?php
 
-return array(
+return [
 
     /*
     |--------------------------------------------------------------------------
@@ -22,12 +22,12 @@ return array(
     "alpha_num"            => "Поле :attribute может содержать только буквы и цифры.",
     "array"                => "Поле :attribute должно быть массивом.",
     "before"               => "В поле :attribute должна быть дата до :date.",
-    "between"              => array(
+    "between"              => [
         "numeric" => "Поле :attribute должно быть между :min и :max.",
         "file"    => "Размер файла в поле :attribute должен быть между :min и :max Килобайт(а).",
         "string"  => "Количество символов в поле :attribute должно быть между :min и :max.",
         "array"   => "Количество элементов в поле :attribute должно быть между :min и :max."
-    ),
+    ],
     "boolean"              => "Поле :attribute должно иметь значение логического типа.", // калька 'истина' или 'ложь' звучала бы слишком неестественно
     "confirmed"            => "Поле :attribute не совпадает с подтверждением.",
     "date"                 => "Поле :attribute не является датой.",
@@ -42,19 +42,19 @@ return array(
     "in"                   => "Выбранное значение для :attribute ошибочно.",
     "integer"              => "Поле :attribute должно быть целым числом.",
     "ip"                   => "Поле :attribute должно быть действительным IP-адресом.",
-    "max"                  => array(
+    "max"                  => [
         "numeric" => "Поле :attribute не может быть более :max.",
         "file"    => "Размер файла в поле :attribute не может быть более :max Килобайт(а).",
         "string"  => "Количество символов в поле :attribute не может превышать :max.",
         "array"   => "Количество элементов в поле :attribute не может превышать :max."
-    ),
+    ],
     "mimes"                => "Поле :attribute должно быть файлом одного из следующих типов: :values.",
-    "min"                  => array(
+    "min"                  => [
         "numeric" => "Поле :attribute должно быть не менее :min.",
         "file"    => "Размер файла в поле :attribute должен быть не менее :min Килобайт(а).",
         "string"  => "Количество символов в поле :attribute должно быть не менее :min.",
         "array"   => "Количество элементов в поле :attribute должно быть не менее :min."
-    ),
+    ],
     "not_in"               => "Выбранное значение для :attribute ошибочно.",
     "numeric"              => "Поле :attribute должно быть числом.",
     "regex"                => "Поле :attribute имеет ошибочный формат.",
@@ -65,12 +65,12 @@ return array(
     "required_without"     => "Поле :attribute обязательно для заполнения, когда :values не указано.",
     "required_without_all" => "Поле :attribute обязательно для заполнения, когда ни одно из :values не указано.",
     "same"                 => "Значение :attribute должно совпадать с :other.",
-    "size"                 => array(
+    "size"                 => [
         "numeric" => "Поле :attribute должно быть равным :size.",
         "file"    => "Размер файла в поле :attribute должен быть равен :size Килобайт(а).",
         "string"  => "Количество символов в поле :attribute должно быть равным :size.",
         "array"   => "Количество элементов в поле :attribute должно быть равным :size."
-    ),
+    ],
     "timezone"             => "Поле :attribute должно быть действительным часовым поясом.",
     "unique"               => "Такое значение поля :attribute уже существует.",
     "url"                  => "Поле :attribute имеет ошибочный формат.",
@@ -86,19 +86,19 @@ return array(
     | http://laravel.com/docs/validation#custom-error-messages
     | Пример использования
     |
-    |   'custom' => array(
-    |       'email' => array(
+    |   'custom' => [
+    |       'email' => [
     |           'required' => 'Нам необходимо знать Ваш электронный адрес!',
-    |       ),
-    |   ),
+    |       ],
+    |   ],
     |
     */
 
-    'custom' => array(
-        'attribute-name' => array(
+    'custom' => [
+        'attribute-name' => [
             'rule-name' => 'custom-message',
-        ),
-    ),
+        ],
+    ],
 
 
     /*
@@ -112,12 +112,12 @@ return array(
     |
     | Пример использования
     |
-    |   'attributes' => array(
+    |   'attributes' => [
     |       'email' => 'электронный адрес',
     |   )
     |
     */
 
-    'attributes' => array(),
+    'attributes' => [],
 
-);
+];

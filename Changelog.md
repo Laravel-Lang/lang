@@ -54,7 +54,7 @@
 26 August 2014
 
 * Update Korean (ko) for reminders.reset, reminders.send, validation by [dbwhddn10](https://github.com/dbwhddn10)
-* Update Traditional Chinese (Hong Kong) (zh-HK), Chinese from Taiwan (zh-TW) and Chinese (zh-CN) for validation.timezone and reminders.reset by [Carlos](https://github.com/overtrue)
+* Update Traditional Chinese (Hong Kong) (zh-HK], Chinese from Taiwan (zh-TW) and Chinese (zh-CN) for validation.timezone and reminders.reset by [Carlos](https://github.com/overtrue)
 
 25 August 2014
 

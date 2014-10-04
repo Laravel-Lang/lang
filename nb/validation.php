@@ -1,6 +1,6 @@
 <?php
 
-return array(
+return [
 
     /*
     |--------------------------------------------------------------------------
@@ -21,12 +21,12 @@ return array(
     "alpha_num"        => ":attribute må kun bestå av bokstaver og tall.",
     "array"            => ":attribute må være en matrise.",
     "before"           => ":attribute må være en dato før :date.",
-    "between"          => array(
+    "between"          => [
         "numeric" => ":attribute skal være mellom :min - :max.",
         "file"    => ":attribute skal være mellom :min - :max kilobytes.",
         "string"  => ":attribute skal være mellom :min - :max tegn.",
         "array"   => ":attribute må ha mellom :min - :max elementer."
-    ),
+    ],
     "boolean"          => "The :attribute field must be true or false",
     "confirmed"        => ":attribute er ikke likt bekreftelsesfeltet.",
     "date"             => ":attribute er ikke en gyldig dato.",
@@ -41,19 +41,19 @@ return array(
     "in"               => "Det valgte :attribute er ugyldig.",
     "integer"          => ":attribute skal være et heltall.",
     "ip"               => ":attribute skal være en gyldig IP adresse.",
-    "max"              => array(
+    "max"              => [
         "numeric" => ":attribute skal være mindre enn :max.",
         "file"    => ":attribute skal være mindre enn :max kilobytes.",
         "string"  => ":attribute skal være kortere enn :max tegn.",
         "array"   => ":attribute skal ikke ha fler enn :max elementer."
-    ),
+    ],
     "mimes"            => ":attribute skal være en fil av typen: :values.",
-    "min"              => array(
+    "min"              => [
         "numeric" => ":attribute skal være større enn :min.",
         "file"    => ":attribute skal være større enn :min kilobytes.",
         "string"  => ":attribute skal være lengre enn :min tegn.",
         "array"   => ":attribute må være minst :min elementer."
-    ),
+    ],
     "not_in"           => "Den valgte :attribute er ugyldig.",
     "numeric"          => ":attribute skal være et tall.",
     "regex"            => ":attribute formatet er ugyldig.",
@@ -64,12 +64,12 @@ return array(
     "required_without" => ":attribute må fylles ut når :values ikke er utfyllt.",
     "required_without_all" => "The :attribute field is required when none of :values are present.",
     "same"             => ":attribute og :other må være like.",
-    "size"             => array(
+    "size"             => [
         "numeric" => ":attribute må være :size.",
         "file"    => ":attribute må være :size kilobytes.",
         "string"  => ":attribute må være :size tegn lang.",
         "array"   => ":attribute må inneholde :size elementer."
-    ),
+    ],
     "timezone"         => "The :attribute must be a valid zone.",
     "unique"           => ":attribute er allerede brukt.",
     "url"              => ":attribute formatet er ugyldig.",
@@ -85,11 +85,11 @@ return array(
     |
     */
 
-    'custom' => array(
-        'attribute-name' => array(
+    'custom' => [
+        'attribute-name' => [
             'rule-name' => 'custom-message',
-        ),
-    ),
+        ],
+    ],
 
     /*
     |--------------------------------------------------------------------------
@@ -102,6 +102,6 @@ return array(
     |
     */
 
-    'attributes' => array(),
+    'attributes' => [],
 
-);
+];

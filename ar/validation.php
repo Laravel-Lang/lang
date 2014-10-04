@@ -1,6 +1,6 @@
 <?php
 
-return array(
+return [
 
     /*
     |--------------------------------------------------------------------------
@@ -32,12 +32,12 @@ return array(
     "alpha_dash"       => ":attribute يجب أن يحتوي  على أحرف وأرقام وإشارة ناقص.",
     "alpha_num"        => ":attribute يجب أن يحتوي  على أحرف وأرقام.",
     "array"            => ":attribute يجب ان تكون مصفوفة.",
-    "between"          => array(
+    "between"          => [
         "numeric" => ":attribute يجب أن يكون رقم بين :min - :max.",
         "file"    => ":attribute يجب أن يكون بين :min - :max كيلو بايت.",
         "string"  => ":attribute يجب أن يكون طوله بين :min - :max من الأحرف.",
         "array"   => ":attribute يجب ان يحتوي علي :min - :max بنود."
-    ),
+    ],
     "boolean"          => "The :attribute field must be true or false",
     "confirmed"        => "تأكيد :attribute لا يتطابق.",
     "date"             => ":attribute ليس تاريخ صحيح.",
@@ -52,19 +52,19 @@ return array(
     "in"               => "قيمة :attribute المختارة غير صالح.",
     "integer"          => ":attribute يجب أن يكون رقماً صحيحاً.",
     "ip"               => ":attribute يجب أن يكون عنوان أنترنت (IP) صحيحاً.",
-    "max"              => array(
+    "max"              => [
         "numeric" => ":attribute يجب ألا يكون أكبر من :max.",
         "file"    => ":attribute يجب ألا يكون أكبر من :max كيلو بايت.",
         "string"  => ":attribute يجب ألا يكون أكبر من :max حرف.",
         "array"   => ":attribute يجب ان لا يزيد علي :max بنود."
-    ),
+    ],
     "mimes"            => ":attribute يجب أن يكون ملف من نوع: :values.",
-    "min"              => array(
+    "min"              => [
         "numeric" => ":attribute يجب أن يكون على الأقل :min.",
         "file"    => ":attribute يجب أن يكون على الأقل :min كيلو بايت.",
         "string"  => ":attribute يجب أن يكون طوله على الأقل :min أحرف.",
         "array"   => ":attribute يجب ان يحتوي علي الاقل :min بنود."
-    ),
+    ],
     "not_in"           => ":attribute المختار غير صالح.",
     "numeric"          => ":attribute يجب أن يكون رقم.",
     "regex"            => ":attribute صيغته غير صالحة.",
@@ -75,12 +75,12 @@ return array(
     "required_without" => ":attribute مطلوب عندما لا يكون :values موجوداً.",
     "required_without_all" => " :attribute مطلوب عندما لا يكون :values موجوداً.",
     "same"             => ":attribute و :other يجب أن يتطابقا",
-    "size"             => array(
+    "size"             => [
         "numeric" => ":attribute يجب أن يكون :size.",
         "file"    => ":attribute يجب أن يكون :size كيلو بايت.",
         "string"  => ":attribute يجب أن يتكون من :size أحرف.",
         "array"   => ":attribute يجب ان يحتوي على :size بنود."
-    ),
+    ],
     "timezone"         => "The :attribute must be a valid zone.",
     "unique"           => "قيمة :attribute تم استخدامها مسبقاً.",
     "url"              => ":attribute صيغته غير صحيحة.",
@@ -106,11 +106,11 @@ return array(
     |
     */
 
-    'custom' => array(
-        'attribute-name' => array(
+    'custom' => [
+        'attribute-name' => [
             'rule-name' => 'custom-message',
-        ),
-    ),
+        ],
+    ],
 
     /*
     |--------------------------------------------------------------------------
@@ -129,7 +129,7 @@ return array(
     |
     */
 
-    'attributes' => array(
+    'attributes' => [
         "name" => "الاسم",
         "username" => "اسم المستخدم",
         "email" => "البريد الالكتروني",
@@ -158,6 +158,6 @@ return array(
         "time" => "الوقت",
         "available" => "متاح",
         "size" => "الحجم"
-    ),
+    ],
 
-);
+];

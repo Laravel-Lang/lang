@@ -9,7 +9,7 @@
  * @link     http://sinaneldem.com.tr
  */
 
-return array(
+return [
 
     /*
     |--------------------------------------------------------------------------
@@ -26,4 +26,4 @@ return array(
 
     'next'     => 'Sonraki &raquo;',
 
-);
+];

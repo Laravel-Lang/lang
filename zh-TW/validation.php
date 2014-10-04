@@ -1,6 +1,6 @@
 <?php
 
-return array(
+return [
 
     /*
     |--------------------------------------------------------------------------
@@ -21,12 +21,12 @@ return array(
     "alpha_num"        => ":attribute 只能以字母及數字組成。",
     "array"            => ":attribute 必须为数组。",
     "before"           => ":attribute 必須要在 :date 之前。",
-    "between"          => array(
+    "between"          => [
         "numeric" => ":attribute 必須介乎 :min 至 :max 之間。",
         "file"    => ":attribute 必須介乎 :min 至 :max kb 之間。 ",
         "string"  => ":attribute 必須介乎 :min 至 :max 個字元之間。",
         "array"   => ":attribute: 必須有 :min - :max 個元素。"
-    ),
+    ],
     "boolean"          => ":attribute 必須為bool值。",
     "confirmed"        => ":attribute 確認欄位的輸入並不相符。",
     "date"             => ":attribute 並非一個有效的日期。",
@@ -41,19 +41,19 @@ return array(
     "in"               => "所揀選的 :attribute 選項無效。",
     "integer"          => ":attribute 必須是一個整數。",
     "ip"               => ":attribute 必須是一個有效的 IP 地址。",
-    "max"              => array(
+    "max"              => [
         "numeric" => ":attribute 不能大於 :max。",
         "file"    => ":attribute 不能大於 :max kb。",
         "string"  => ":attribute 不能多於 :max 個字元。",
         "array"   => ":attribute 最多有 :max 個元素。"
-    ),
+    ],
     "mimes"            => ":attribute 必須為 :values 的檔案。",
-    "min"              => array(
+    "min"              => [
         "numeric" => ":attribute 不能小於 :min。",
         "file"    => ":attribute 不能小於 :min kb。",
         "string"  => ":attribute 不能小於 :min 個字元。",
         "array"   => ":attribute 至少有 :min 個元素。"
-    ),
+    ],
     "not_in"           => "所揀選的 :attribute 選項無效。",
     "numeric"          => ":attribute 必須為一個數字。",
     "regex"            => ":attribute 的格式錯誤。",
@@ -64,12 +64,12 @@ return array(
     "required_without" => "當 :values 留空時 :attribute field 不能留空。",
     "required_without_all" => "當 :values 都不出現時 :attribute 不能留空。",
     "same"             => ":attribute 與 :other 必須相同。",
-    "size"             => array(
+    "size"             => [
         "numeric" => ":attribute 的大小必須是 :size。",
         "file"    => ":attribute 的大小必須是 :size kb。",
         "string"  => ":attribute 必須是 :size 個字元。",
         "array"   => ":attribute 必須是 :size 個元素。"
-    ),
+    ],
     "timezone"         => ":attribute 必須是一個正確的時區值。",
     "unique"           => ":attribute 已經存在。",
     "url"              => ":attribute 的格式錯鋘。",
@@ -85,11 +85,11 @@ return array(
     |
     */
 
-    'custom' => array(
-        'attribute-name' => array(
+    'custom' => [
+        'attribute-name' => [
             'rule-name' => 'custom-message',
-        ),
-    ),
+        ],
+    ],
 
     /*
     |--------------------------------------------------------------------------
@@ -102,6 +102,6 @@ return array(
     |
     */
 
-    'attributes' => array(),
+    'attributes' => [],
 
-);
+];

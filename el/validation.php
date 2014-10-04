@@ -1,6 +1,6 @@
 <?php
 
-return array(
+return [
 
     /*
     |--------------------------------------------------------------------------
@@ -21,12 +21,12 @@ return array(
     "alpha_num"        => "Το πεδίο :attribute μπορεί να περιέχει μόνο γράμματα και αριθμούς.",
     "array"            => "Το πεδίο :attribute πρέπει να είναι ένας πίνακας.",
     "before"           => "Το πεδίο :attribute πρέπει να είναι μία ημ/νία πριν από :date.",
-    "between"          => array(
+    "between"          => [
         "numeric" => "Το πεδίο :attribute πρέπει να είναι μεταξύ :min - :max.",
         "file"    => "Το πεδίο :attribute πρέπει να είναι μεταξύ :min - :max kilobytes.",
         "string"  => "Το πεδίο :attribute πρέπει να είναι μεταξύ :min - :max χαρακτήρες.",
         "array"   => "Το πεδίο :attribute πρέπει να έχει μεταξύ :min - :max αντικείμενα."
-    ),
+    ],
     "boolean"          => "The :attribute field must be true or false",
     "confirmed"        => "Η επιβεβαίωση του :attribute δεν ταιριάζει.",
     "date"             => "Το πεδίο :attribute δεν αποτελεί αποδεκτή ημερομηνία.",
@@ -41,19 +41,19 @@ return array(
     "in"               => "Το επιλεγμένο :attribute δεν είναι έγκυρο.",
     "integer"          => "Το πεδίο :attribute πρέπει να είναι ακέραιος.",
     "ip"               => "Το πεδίο :attribute πρέπει να είναι αποδεκτή δ/νση IP.",
-    "max"              => array(
+    "max"              => [
         "numeric" => "Το πεδίο :attribute δεν μπορεί να είναι μεγαλύτερο από :max.",
         "file"    => "Το πεδίο :attribute δεν μπορεί να είναι μεγαλύτερό :max kilobytes.",
         "string"  => "Το πεδίο :attribute δεν μπορεί να είναι μεγαλύτερό :max χαρακτήρες.",
         "array"   => "Το πεδίο :attribute δεν μπορεί να έχει περισσότερα από :max αντικείμενα."
-    ),
+    ],
     "mimes"            => "Το πεδίο :attribute πρέπει να είναι αρχείο με τύπο: :values.",
-    "min"              => array(
+    "min"              => [
         "numeric" => "Το πεδίο :attribute πρέπει να είναι τουλάχιστον :min.",
         "file"    => "Το πεδίο :attribute πρέπει να είναι τουλάχιστον :min kilobytes.",
         "string"  => "Το πεδίο :attribute πρέπει να έχει τουλάχιστον :min χαρακτήρες.",
         "array"   => "Το πεδίο :attribute πρέπει να έχει τουλάχιστον :min αντικείμενα."
-    ),
+    ],
     "not_in"           => "Το επιλεγμένο :attribute δεν είναι αποδεκτό.",
     "numeric"          => "Το πεδίο :attribute πρέπει να είναι αριθμός.",
     "regex"            => "Η μορφή του :attribute δεν είναι αποδεκτή.",
@@ -64,12 +64,12 @@ return array(
     "required_without" => "Το πεδίο :attribute είναι απαραίτητο όταν δεν υπάρχει :values.",
     "required_without_all" => "The :attribute field is required when none of :values are present.",
     "same"             => "Τα πεδία :attribute και :other πρέπει να είναι ίδια.",
-    "size"             => array(
+    "size"             => [
         "numeric" => "Το πεδίο :attribute πρέπει να είναι :size.",
         "file"    => "Το πεδίο :attribute πρέπει να είναι :size kilobytes.",
         "string"  => "Το πεδίο :attribute πρέπει να είναι :size χαρακτήρες.",
         "array"   => "Το πεδίο :attribute πρέπει να περιέχει :size αντικείμενα."
-    ),
+    ],
     "timezone"         => "The :attribute must be a valid zone.",
     "unique"           => "Το πεδίο :attribute έχει ήδη εκχωρηθεί.",
     "url"              => "Το πεδίο :attribute δεν είναι μία αποδεκτή δ/νση URL.",
@@ -85,11 +85,11 @@ return array(
     |
     */
 
-    'custom' => array(
-        'attribute-name' => array(
+    'custom' => [
+        'attribute-name' => [
             'rule-name' => 'custom-message',
-        ),
-    ),
+        ],
+    ],
 
     /*
     |--------------------------------------------------------------------------
@@ -102,6 +102,6 @@ return array(
     |
     */
 
-    'attributes' => array(),
+    'attributes' => [],
 
-);
+];

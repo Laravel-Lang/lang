@@ -1,6 +1,6 @@
 <?php
 
-return array(
+return [
     /*
     |--------------------------------------------------------------------------
     | Validation Language Lines
@@ -19,12 +19,12 @@ return array(
     "alpha_num" => "Polje :attribute može sadržati samo slova i brojeve.",
     "array" => "Polje :attribute mora biti niz.",
     "before" => "Polje :attribute mora biti datum prije :date.",
-    "between" => array(
+    "between" => [
         "numeric" => "Polje :attribute mora biti izmedju :min - :max.",
         "file" => "Fajl :attribute mora biti izmedju :min - :max kilobajta.",
         "string" => "Polje :attribute mora biti izmedju :min - :max karaktera.",
         "array" => "Polje :attribute mora biti između :min - :max karaktera."
-    ),
+    ],
     "boolean"          => "The :attribute field must be true or false",
     "confirmed" => "Potvrda polja :attribute se ne poklapa.",
     "date" => "Polje :attribute nema ispravan datum.",
@@ -39,19 +39,19 @@ return array(
     "in" => "Odabrano polje :attribute nije validno.",
     "integer" => "Polje :attribute mora biti broj.",
     "ip" => "Polje :attribute mora biti validna IP adresa.",
-    "max" => array(
+    "max" => [
         "numeric" => "Polje :attribute mora biti manje od :max.",
         "file" => "Polje :attribute mora biti manje od :max kilobajta.",
         "string" => "Polje :attribute mora sadržati manje od :max karaktera.",
         "array" => "Polje :attribute mora sadržati manje od :max karaktera."
-    ),
+    ],
     "mimes" => "Polje :attribute mora biti fajl tipa: :values.",
-    "min" => array(
+    "min" => [
         "numeric" => "Polje :attribute mora biti najmanje :min.",
         "file" => "Fajl :attribute mora biti najmanje :min kilobajta.",
         "string" => "Polje :attribute mora sadržati najmanje :min karaktera.",
         "array" => "Polje :attribute mora sadržati najmanje :min karaktera."
-    ),
+    ],
     "not_in" => "Odabrani element polja :attribute nije validan.",
     "numeric" => "Polje :attribute mora biti broj.",
     "regex" => "Polje :attribute ima neispravan format.",
@@ -62,12 +62,12 @@ return array(
     "required_without" => "Polje :attribute je obavezno kada :values nije prikazano.",
     "required_without_all" => "Polje :attribute je obavezno kada nijedno :values nije prikazano.",
     "same" => "Polja :attribute i :other se moraju poklapati.",
-    "size" => array(
+    "size" => [
         "numeric" => "Polje :attribute mora biti :size.",
         "file" => "Fajl :attribute mora biti :size kilobajta.",
         "string" => "Polje :attribute mora biti :size karaktera.",
         "array" => "Polje :attribute mora biti :size karaktera."
-    ),
+    ],
     "timezone"         => "The :attribute must be a valid zone.",
     "unique" => "Polje :attribute već postoji.",
     "url" => "Format polja :attribute nije validan.",
@@ -83,11 +83,11 @@ return array(
     |
     */
 
-    'custom' => array(
-        'attribute-name' => array(
+    'custom' => [
+        'attribute-name' => [
             'rule-name' => 'custom-message',
-        ),
-    ),
+        ],
+    ],
 
     /*
     |--------------------------------------------------------------------------
@@ -100,6 +100,6 @@ return array(
     |
     */
 
-    'attributes' => array(),
+    'attributes' => [],
 
-);
+];

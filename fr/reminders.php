@@ -1,6 +1,6 @@
 <?php
 
-return array(
+return [
 
     /*
     |--------------------------------------------------------------------------
@@ -23,4 +23,4 @@ return array(
 
     "reset"    => "Le mot de passe a été réinitialisé !",
 
-);
+];

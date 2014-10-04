@@ -9,7 +9,7 @@
  * @link     http://sinaneldem.com.tr
  */
 
-return array(
+return [
 
     /*
     |--------------------------------------------------------------------------
@@ -32,4 +32,4 @@ return array(
 
     "reset"    => "Password has been reset!",
 
-);
+];

@@ -1,6 +1,6 @@
 <?php
 
-return array(
+return [
 
     /*
     |--------------------------------------------------------------------------
@@ -22,4 +22,4 @@ return array(
 
     "reset"    => "A senha foi redefinida!",
 
-);
+];

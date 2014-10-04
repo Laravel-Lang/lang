@@ -1,6 +1,6 @@
 <?php
 
-return array(
+return [
 
     /*
     |--------------------------------------------------------------------------
@@ -21,12 +21,12 @@ return array(
     "alpha_num"            => ":attribute អាចមានតែអក្សរ និងលេខ។",
     "array"                => ":attribute ត្រូវតែជា អារេ។",
     "before"               => ":attribute ត្រូវតែមានកាលបរិច្ឆេទមុន :date។",
-    "between"              => array(
+    "between"              => [
         "numeric" => ":attribute ត្រូវតែមានរវាង :min និង :max។",
         "file"    => ":attribute ត្រូវតែមានរវាង :min និង :max គីឡូបៃ។",
         "string"  => ":attribute ត្រូវតែមានរវាង :min និង :max តួអក្សរ។",
         "array"   => ":attribute ត្រូវតែមានធាតុរវាង :min និង :max។",
-    ),
+    ],
     "boolean"          => "The :attribute field must be true or false",
     "confirmed"            => ":attribute ការបញ្ជាក់មិនផ្គូផ្គង។",
     "date"                 => ":attribute គឺមិនមែនជាកាលបរិច្ឆេទត្រឹមត្រូវ។",
@@ -41,19 +41,19 @@ return array(
     "in"                   => "ការជ្រើសរើស :attribute មិនត្រឹមត្រូវ។",
     "integer"              => ":attribute ត្រូវតែជាចំនួនគត់។",
     "ip"                   => ":attribute ត្រូវតែជា IP address​ត្រឹមត្រូវ។",
-    "max"                  => array(
+    "max"                  => [
         "numeric" => ":attribute មិនត្រូវធំជាង :max​។",
         "file"    => ":attribute មិនត្រូវធំជាង :max គីឡូបៃ។",
         "string"  => ":attribute មិនត្រូវធំជាង :max តួអក្សរ។",
         "array"   => ":attribute មិនត្រូវច្រើនជាងធាតុនេះ :max។",
-    ),
+    ],
     "mimes"                => ":attribute ត្រូវតែជាប្រភេទឯកសារ type: :values នេះ។",
-    "min"                  => array(
+    "min"                  => [
         "numeric" => ":attribute ត្រូវតែតូចជាង :min។",
         "file"    => ":attribute ត្រូវតៃតួចជាង :min គីឡូបៃ។",
         "string"  => ":attribute ត្រូវតែតូចជាង :min តួអក្សរ។",
         "array"   => ":attribute ត្រូវតែតិចជាងធាតុនេះ :min។",
-    ),
+    ],
     "not_in"               => "ការជ្រើសរើស :attribute គឺត្រឹមត្រូវ។",
     "numeric"              => ":attribute ត្រូវតែជាលេខ។",
     "regex"                => ":attribute ទំរងមិនត្រឹមត្រូវ។",
@@ -64,12 +64,12 @@ return array(
     "required_without"     => "ទំរង់ :attribute នេះគឺទាមទារនៅពេល :values មិនត្រូវបង្ហាញ។",
     "required_without_all" => "ទំរង់ :attribute នេះគឺត្រូវបានទាមទារពេលគ្មាន :values បានបង្ហាញ។",
     "same"                 => "ទំរង់ :attribute និង :other ត្រូវតែដូចគ្នា។",
-    "size"                 => array(
+    "size"                 => [
         "numeric" => ":attribute ត្រូវតែ :size។",
         "file"    => ":attribute ត្រូវតែ :size គីឡូបៃ។",
         "string"  => ":attribute ត្រូវតែ :size តួអក្សរ។",
         "array"   => ":attribute ត្រូវតែមានទំហំ :size។",
-    ),
+    ],
     "unique"               => ":attribute ត្រូវបានប្រើរួចហើយ។",
     "url"                  => ":attribute ទំរង់ត្រឹមត្រូវ។",
     "timezone"         => "The :attribute must be a valid zone.",
@@ -85,11 +85,11 @@ return array(
     |
     */
 
-    'custom' => array(
-        'attribute-name' => array(
+    'custom' => [
+        'attribute-name' => [
             'rule-name' => 'custom-message',
-        ),
-    ),
+        ],
+    ],
 
     /*
     |--------------------------------------------------------------------------
@@ -102,6 +102,6 @@ return array(
     |
     */
 
-    'attributes' => array(),
+    'attributes' => [],
 
-);
+];

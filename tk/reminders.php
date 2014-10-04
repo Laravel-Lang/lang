@@ -9,7 +9,7 @@
  * @link     https://github.com/isa424
  */
 
-return array(
+return [
 
     /*
     |--------------------------------------------------------------------------
@@ -32,4 +32,4 @@ return array(
 
     "reset"    => "Açarsöz üýtgedildi!",
 
-);
+];

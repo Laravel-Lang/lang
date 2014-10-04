@@ -9,7 +9,7 @@
  * @link     http://github.com/isa424
  */
 
-return array(
+return [
 
     /*
     |--------------------------------------------------------------------------
@@ -30,12 +30,12 @@ return array(
     "alpha_num"             => ":attribute dine harplardan we sanlardan durmalydyr.",
     "array"                 => ":attribute ýygyndy bolmalydyr.",
     "before"                => ":attribute şundan has irki sene bolmalydyr :date.",
-    "between"               => array(
+    "between"               => [
         "numeric" => ":attribute :min - :max arasynda bolmalydyr.",
         "file"    => ":attribute :min - :max kilobaýt arasynda bolmalydyr.",
         "string"  => ":attribute :min - :max harplar arasynda bolmalydyr.",
         "array"   => ":attribute :min - :max arasynda madda eýe bolmalydyr."
-    ),
+    ],
     "boolean"               => ":attribute diňe dogry ýada ýalňyş bolmalydyr.",
     "confirmed"             => ":attribute tassyklamasy deň däl.",
     "date"                  => ":attribute dogry sene bolmalydyr.",
@@ -50,19 +50,19 @@ return array(
     "in"                    => ":attribute mukdary ýalňyş.",
     "integer"               => ":attribute san bolmalydyr.",
     "ip"                    => ":attribute dogry IP adres bolmalydyr.",
-    "max"                   => array(
+    "max"                   => [
         "numeric" => ":attribute :max den kiçi bolmalydyr.",
         "file"    => ":attribute :max kilobaýtdan kiçi bolmalydyr.",
         "string"  => ":attribute :max harpdan kiçi bolmalydyr.",
         "array"   => ":attribute iň az :max maddadan ybarat bolmalydyr."
-    ),
+    ],
     "mimes"                 => ":attribute faýlň formaty :values bolmalydyr.",
-    "min"                   => array(
+    "min"                   => [
         "numeric" => ":attribute mukdary :min dan köp bolmalydyr.",
         "file"    => ":attribute mukdary :min kilobaýtdan köp bolmalydyr.",
         "string"  => ":attribute mukdary :min harpdan köp bolmalydyr.",
         "array"   => ":attribute iň az :min harpdan bolmalydyr."
-    ),
+    ],
     "not_in"                => "Saýlanan :attribute geçersiz.",
     "numeric"               => ":attribute san bolmalydyr.",
     "regex"                 => ":attribute formaty ýalňyş.",
@@ -73,12 +73,12 @@ return array(
     "required_without"      => ":attribute meýdany :values ýok bolanda zerurdyr.",
     "required_without_all"  => ":attribute meýdany :values dan haýsyda bolsa biri ýok bolanda zerurdyr.",
     "same"                  => ":attribute bilen :other deň bolmalydyr.",
-    "size"                  => array(
+    "size"                  => [
         "numeric" => ":attribute :size sandan ybarat bolmalydyr.",
         "file"    => ":attribute :size kilobaýt bolmalydyr.",
         "string"  => ":attribute :size harp bolmalydyr.",
         "array"   => ":attribute :size madda eýe bolmalydyr."
-    ),
+    ],
     "timezone"              => ":attribute dogry zolak bolmalydyr.",
     "unique"                => ":attribute önden hasaba alyndy.",
     "url"                   => ":attribute formaty ýalňyş.",
@@ -94,11 +94,11 @@ return array(
     |
     */
 
-    'custom' => array(
-        'attribute-name' => array(
+    'custom' => [
+        'attribute-name' => [
             'rule-name' => 'custom-message',
-        ),
-    ),
+        ],
+    ],
 
     /*
     |--------------------------------------------------------------------------
@@ -111,6 +111,6 @@ return array(
     |
     */
 
-    'attributes' => array(),
+    'attributes' => [],
 
-);
+];

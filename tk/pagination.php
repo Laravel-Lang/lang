@@ -9,7 +9,7 @@
  * @link     https://github.com/isa424
  */
 
-return array(
+return [
 
     /*
     |--------------------------------------------------------------------------
@@ -26,4 +26,4 @@ return array(
 
     'next'     => 'Indiki &raquo;',
 
-);
+];

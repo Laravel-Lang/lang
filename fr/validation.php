@@ -1,6 +1,6 @@
 <?php
 
-return array(
+return [
 
     /*
     |--------------------------------------------------------------------------
@@ -21,12 +21,12 @@ return array(
     "alpha_num"            => "Le champ :attribute doit seulement contenir des chiffres et des lettres.",
     "array"                => "Le champ :attribute doit être un tableau.",
     "before"               => "Le champ :attribute doit être une date antérieure au :date.",
-    "between"              => array(
+    "between"              => [
         "numeric" => "La valeur de :attribute doit être comprise entre :min et :max.",
         "file"    => "Le fichier :attribute doit avoir une taille entre :min et :max kilobytes.",
         "string"  => "Le texte :attribute doit avoir entre :min et :max caractères.",
         "array"   => "Le champ :attribute doit avoir entre :min et :max éléments."
-    ),
+    ],
     "boolean"              => "Le champ :attribute doit true ou false",
     "confirmed"            => "Le champ de confirmation :attribute ne correspond pas.",
     "date"                 => "Le champ :attribute n'est pas une date valide.",
@@ -41,19 +41,19 @@ return array(
     "in"                   => "Le champ :attribute est invalide.",
     "integer"              => "Le champ :attribute doit être un entier.",
     "ip"                   => "Le champ :attribute doit être une adresse IP valide.",
-    "max"                  => array(
+    "max"                  => [
         "numeric" => "La valeur de :attribute ne peut être supérieure à :max.",
         "file"    => "Le fichier :attribute ne peut être plus gros que :max kilobytes.",
         "string"  => "Le texte de :attribute ne peut contenir plus de :max caractères.",
         "array"   => "Le champ :attribute ne peut avoir plus de :max éléments.",
-    ),
+    ],
     "mimes"                => "Le champ :attribute doit être un fichier de type : :values.",
-    "min"                  => array(
+    "min"                  => [
         "numeric" => "La valeur de :attribute doit être supérieure à :min.",
         "file"    => "Le fichier :attribute doit être plus que gros que :min kilobytes.",
         "string"  => "Le texte :attribute doit contenir au moins :min caractères.",
         "array"   => "Le champ :attribute doit avoir au moins :min éléments."
-    ),
+    ],
     "not_in"               => "Le champ :attribute sélectionné n'est pas valide.",
     "numeric"              => "Le champ :attribute doit contenir un nombre.",
     "regex"                => "Le format du champ :attribute est invalide.",
@@ -64,12 +64,12 @@ return array(
     "required_without"     => "Le champ :attribute est obligatoire quand :values n'est pas présent.",
     "required_without_all" => "Le champ :attribute est requis quand aucun de :values n'est présent.",
     "same"                 => "Les champs :attribute et :other doivent être identiques.",
-    "size"                 => array(
+    "size"                 => [
         "numeric" => "La valeur de :attribute doit être :size.",
         "file"    => "La taille du fichier de :attribute doit être de :size kilobytes.",
         "string"  => "Le texte de :attribute doit contenir :size caractères.",
         "array"   => "Le champ :attribute doit contenir :size éléments."
-    ),
+    ],
     "timezone"             => "Le champ :attribute doit être une zone valide.",
     "unique"               => "La valeur du champ :attribute est déjà utilisée.",
     "url"                  => "Le format de l'URL de :attribute n'est pas valide.",
@@ -85,11 +85,11 @@ return array(
     |
     */
 
-    'custom' => array(
-        'attribute-name' => array(
+    'custom' => [
+        'attribute-name' => [
             'rule-name' => 'custom-message',
-        ),
-    ),
+        ],
+    ],
 
     /*
     |--------------------------------------------------------------------------
@@ -102,7 +102,7 @@ return array(
     |
     */
 
-    'attributes' => array(
+    'attributes' => [
         "name" => "Nom",
         "username" => "Pseudo",
         "email" => "E-mail",
@@ -132,6 +132,6 @@ return array(
         "time" => "Heure",
         "available" => "Disponible",
         "size" => "Taille"
-    ),
+    ],
 
-);
+];

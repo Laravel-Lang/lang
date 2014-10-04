@@ -1,6 +1,6 @@
 <?php
 
-return array(
+return [
 
     /*
     |--------------------------------------------------------------------------
@@ -21,12 +21,12 @@ return array(
     "alpha_num"        => ":attribute باید شامل حروف الفبا و عدد باشد.",
     "array"            => ":attribute باید شامل آرایه باشد.",
     "before"           => ":attribute باید تاریخی قبل از :date باشد.",
-    "between"          => array(
+    "between"          => [
         "numeric" => ":attribute باید بین :min و :max باشد.",
         "file"    => ":attribute باید بین :min و :max کیلوبایت باشد.",
         "string"  => ":attribute باید بین :min و :max کاراکتر باشد.",
         "array"   => ":attribute باید بین :min و :max آیتم باشد.",
-    ),
+    ],
     "boolean"          => "The :attribute field must be true or false",
     "confirmed"        => ":attribute با تاییدیه مطابقت ندارد.",
     "date"             => ":attribute یک تاریخ معتبر نیست.",
@@ -41,19 +41,19 @@ return array(
     "in"               => ":attribute انتخاب شده، معتبر نیست.",
     "integer"          => ":attribute باید نوع داده ای عددی (integer) باشد.",
     "ip"               => ":attribute باید IP آدرس معتبر باشد.",
-    "max"              => array(
+    "max"              => [
         "numeric" => ":attribute نباید بزرگتر از :max باشد.",
         "file"    => ":attribute نباید بزرگتر از :max کیلوبایت باشد.",
         "string"  => ":attribute نباید بیشتر از :max کاراکتر باشد.",
         "array"   => ":attribute نباید بیشتر از :max آیتم باشد.",
-    ),
+    ],
     "mimes"            => ":attribute باید یکی از فرمت های :values باشد.",
-    "min"              => array(
+    "min"              => [
         "numeric" => ":attribute نباید کوچکتر از :max باشد.",
         "file"    => ":attribute نباید کوچکتر از :max کیلوبایت باشد.",
         "string"  => ":attribute نباید کمتر از max کاراکتر باشد.",
         "array"   => ":attribute نباید کمتر از :max آیتم باشد.",
-    ),
+    ],
     "not_in"           => ":attribute انتخاب شده، معتبر نیست.",
     "numeric"          => ":attribute باید شامل عدد باشد.",
     "regex"            => ":attribute یک فرمت معتبر نیست",
@@ -64,12 +64,12 @@ return array(
     "required_without" => ":attribute الزامی است زمانی که :values موجود نیست.",
     "required_without_all" => ":attribute الزامی است زمانی که :values موجود نیست.",
     "same"             => ":attribute و :other باید مانند هم باشند.",
-    "size"             => array(
+    "size"             => [
         "numeric" => ":attribute باید برابر با :size باشد.",
         "file"    => ":attribute باید برابر با :size کیلوبایت باشد.",
         "string"  => ":attribute باید برابر با :size کاراکتر باشد.",
         "array"   => ":attribute باسد شامل :size آیتم باشد.",
-    ),
+    ],
     "timezone"         => "The :attribute must be a valid zone.",
     "unique"           => ":attribute قبلا انتخاب شده است.",
     "url"              => "فرمت آدرس :attribute اشتباه است.",
@@ -85,7 +85,7 @@ return array(
     |
     */
 
-    'custom' => array(),
+    'custom' => [],
 
     /*
     |--------------------------------------------------------------------------
@@ -97,7 +97,7 @@ return array(
     | of "email". This simply helps us make messages a little cleaner.
     |
     */
-    'attributes' => array(
+    'attributes' => [
         "name" => "نام",
         "username" => "نام کاربری",
         "email" => "پست الکترونیکی",
@@ -128,5 +128,5 @@ return array(
         "time" => "زمان",
         "available" => "موجود",
         "size" => "اندازه"
-    ),
-);
+    ],
+];

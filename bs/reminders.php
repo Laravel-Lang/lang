@@ -1,6 +1,6 @@
 <?php
 
-return array(
+return [
 /*
 |--------------------------------------------------------------------------
 | Password Reminder Language Lines
@@ -22,4 +22,4 @@ return array(
 
     "reset"    => "Password has been reset!",
 
-);
+];

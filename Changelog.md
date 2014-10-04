@@ -1,5 +1,9 @@
 # Changelog
 
+04 October 2014
+
+* Add validation.filled for all languages
+
 30 September 2014
 
 * Update Turkish (tr) for validation.email by [Isa Ishangulyyev](https://github.com/isa424)

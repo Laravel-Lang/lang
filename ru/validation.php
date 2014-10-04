@@ -37,6 +37,7 @@ return array(
     "digits_between"       => "Длина цифрового поля :attribute должна быть между :min и :max.",
     "email"                => "Поле :attribute должно быть действительным электронным адресом.",
     "exists"               => "Выбранное значение для :attribute некорректно.",
+    "filled"               => "The :attribute field is required.",
     "image"                => "Поле :attribute должно быть изображением.",
     "in"                   => "Выбранное значение для :attribute ошибочно.",
     "integer"              => "Поле :attribute должно быть целым числом.",

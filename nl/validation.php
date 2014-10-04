@@ -36,6 +36,7 @@ return array(
     "digits_between" => ":attribute moet bestaan uit minimaal :min en maximaal :max cijfers.",
     "email"          => ":attribute is geen geldig e-mailadres.",
     "exists"         => ":attribute bestaat niet.",
+    "filled"         => "The :attribute field is required.",
     "image"          => ":attribute moet een afbeelding zijn.",
     "in"             => ":attribute is ongeldig.",
     "integer"        => ":attribute moet een getal zijn.",

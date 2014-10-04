@@ -36,6 +36,7 @@ return array(
     "digits_between"   => "The :attribute must be between :min and :max digits.",
     "email"            => ":attribute muoto on virheellinen.",
     "exists"           => "valittu :attribute on virheellinen.",
+    "filled"           => "The :attribute field is required.",
     "image"            => ":attribute pitää olla kuva.",
     "in"               => "valittu :attribute on virheellinen.",
     "integer"          => ":attribute pitää olla numero.",

@@ -36,6 +36,7 @@ return array(
     "digits_between"   => "Độ dài của trường :attribute phải nằm trong khoảng :min and :max chữ số.",
     "email"            => "Trường :attribute phải là một địa chỉ email hợp lệ.",
     "exists"           => "Giá trị đã chọn trong trường :attribute không hợp lệ.",
+    "filled"           => "The :attribute field is required.",
     "image"            => "Các tập tin trong trường :attribute phải là định dạng hình ảnh.",
     "in"               => "Giá trị đã chọn trong trường :attribute không hợp lệ.",
     "integer"          => "Trường :attribute phải là một số nguyên.",

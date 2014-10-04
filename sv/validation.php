@@ -35,6 +35,7 @@ return array(
     "digits_between"   => ":attribute måste vara mellan :min och :max tecken.",
     "email"            => "Fältet :attribute måste innehålla en korrekt e-postadress.",
     "exists"           => "Det valda :attribute är ogiltigt.",
+    "filled"           => "The :attribute field is required.",
     "image"            => ":attribute måste vara en bild.",
     "in"               => "Det valda :attribute är ogiltigt.",
     "integer"          => ":attribute måste vara en siffra.",

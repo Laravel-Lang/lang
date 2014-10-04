@@ -36,6 +36,7 @@ return array(
     "digits_between"   => ":attribute skal have mellem :min og :max cifre.",
     "email"            => ":attribute skal være en gyldig e-mailadresse.",
     "exists"           => "Det valgte :attribute er ugyldig.",
+    "filled"           => "The :attribute field is required.",
     "image"            => ":attribute skal være et billede.",
     "in"               => "Det valgte :attribute er ugyldig.",
     "integer"          => ":attribute skal være et heltal.",

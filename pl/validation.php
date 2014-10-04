@@ -36,6 +36,7 @@ return array(
     "digits_between"   => ":attribute musi mieć od :min do :max cyfr.",
     "email"            => "Format :attribute jest nieprawidłowy.",
     "exists"           => "Zaznaczony :attribute jest nieprawidłowy.",
+    "filled"           => "The :attribute field is required.",
     "image"            => ":attribute musi być obrazkiem.",
     "in"               => "Zaznaczony :attribute jest nieprawidłowy.",
     "integer"          => ":attribute musi być liczbą całkowitą.",

@@ -36,6 +36,7 @@ return array(
     "digits_between"   => ":attribute 必须是介于 :min 和 :max 位的数字。",
     "email"            => ":attribute 邮箱格式非法。",
     "exists"           => ":attribute 已经存在。",
+    "filled"           => "The :attribute field is required.",
     "image"            => ":attribute 必须是一张图片。",
     "in"               => "已选的属性 :attribute 非法。",
     "integer"          => ":attribute 必须是一个整数。",

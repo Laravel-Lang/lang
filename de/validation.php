@@ -36,6 +36,7 @@ return array(
     "digits_between"   => ":attribute muss zwischen :min und :max Stellen haben.",
     "email"            => ":attribute Format ist ungültig.",
     "exists"           => "Der gewählte Wert für :attribute ist ungültig.",
+    "filled"           => "The :attribute field is required.",
     "image"            => ":attribute muss ein Bild sein.",
     "in"               => "Der gewählte Wert für :attribute ist ungültig.",
     "integer"          => ":attribute muss eine ganze Zahl sein.",

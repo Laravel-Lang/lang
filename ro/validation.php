@@ -35,6 +35,7 @@ return array(
     "digits_between"   => "Câmpul :attribute trebuie să fie între :min și :max cifre.",
     "email"            => "Formatul câmpului :attribute este invalid.",
     "exists"           => "Câmpul :attribute selectat este invalid.",
+    "filled"           => "The :attribute field is required.",
     "image"            => "Câmpul :attribute trebuie să fie o imagine.",
     "in"               => "Câmpul :attribute selectat este invalid.",
     "integer"          => "Câmpul :attribute trebuie să fie un număr întreg.",

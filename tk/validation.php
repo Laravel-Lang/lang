@@ -45,6 +45,7 @@ return array(
     "digits_between"        => ":attribute :min bilen :max arasynda san bolmalydyr.",
     "email"                 => ":attribute formaty dogry däl.",
     "exists"                => "Saýlanan :attribute ýalňyş.",
+    "filled"                => "The :attribute field is required.",
     "image"                 => ":attribute surat bolmalydyr.",
     "in"                    => ":attribute mukdary ýalňyş.",
     "integer"               => ":attribute san bolmalydyr.",

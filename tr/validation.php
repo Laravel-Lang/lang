@@ -45,6 +45,7 @@ return array(
     "digits_between"        => ":attribute :min ile :max arasında rakam olmalıdır.",
     "email"                 => ":attribute biçimi geçersiz.",
     "exists"                => "Seçili :attribute geçersiz.",
+    "filled"                => "The :attribute field is required.",
     "image"                 => ":attribute alanı resim dosyası olmalıdır.",
     "in"                    => ":attribute değeri geçersiz.",
     "integer"               => ":attribute rakam olmalıdır.",

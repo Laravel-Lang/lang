@@ -36,6 +36,7 @@ return array(
     "digits_between"   => "ข้อมูล :attribute ต้องอยู่ในช่วงระหว่าง :min ถึง :max",
     "email"            => "ข้อมูล :attribute ต้องเป็นอีเมล์",
     "exists"           => "ข้อมูล ที่ถูกเลือกจาก :attribute ไม่ถูกต้อง",
+    "filled"           => "The :attribute field is required.",
     "image"            => "ข้อมูล :attribute ต้องเป็นรูปภาพ",
     "in"               => "ข้อมูล ที่ถูกเลือกใน :attribute ไม่ถูกต้อง",
     "integer"          => "ข้อมูล :attribute ต้องเป็นตัวเลข",

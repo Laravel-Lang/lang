@@ -36,6 +36,7 @@ return array(
     "digits_between"   => ":attribute باید بین :min و :max رقم باشد.",
     "email"            => "فرمت :attribute معتبر نیست.",
     "exists"           => ":attribute انتخاب شده، معتبر نیست.",
+    "filled"           => "The :attribute field is required.",
     "image"            => ":attribute باید تصویر باشد.",
     "in"               => ":attribute انتخاب شده، معتبر نیست.",
     "integer"          => ":attribute باید نوع داده ای عددی (integer) باشد.",

@@ -36,6 +36,7 @@ return array(
     "digits_between"   => ":attribute debe tener entre :min y :max dígitos.",
     "email"            => ":attribute no es un correo válido",
     "exists"           => ":attribute es inválido.",
+    "filled"           => "The :attribute field is required.",
     "image"            => ":attribute debe ser una imagen.",
     "in"               => ":attribute es inválido.",
     "integer"          => ":attribute debe ser un número entero.",

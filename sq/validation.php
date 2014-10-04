@@ -35,6 +35,7 @@ return array(
     "digits_between"   => "The :attribute must be between :min and :max digits.",
     "email"            => ":attribute formati është jo valid.",
     "exists"           => ":attribute e përzgjedhur është jo valid.",
+    "filled"           => "The :attribute field is required.",
     "image"            => ":attribute duhet të jetë imazh.",
     "in"               => ":attribute e përzgjedhur është jo valid.",
     "integer"          => ":attribute duhet të jete numër i plotë.",

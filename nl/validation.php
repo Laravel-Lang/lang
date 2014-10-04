@@ -35,6 +35,7 @@ return array(
     "digits"         => ":attribute moet bestaan uit :digits cijfers.",
     "digits_between" => ":attribute moet bestaan uit minimaal :min en maximaal :max cijfers.",
     "email"          => ":attribute is geen geldig e-mailadres.",
+    "filled"         => ":attribute moet ingevuld zijn.",
     "exists"         => ":attribute bestaat niet.",
     "image"          => ":attribute moet een afbeelding zijn.",
     "in"             => ":attribute is ongeldig.",
@@ -69,9 +70,9 @@ return array(
         "string"  => ":attribute moet :size characters zijn.",
         "array"   => ":attribute moet :size items bevatten."
     ),
-    "timezone"       => "Het :attribute moet een geldige zone zijn.",
     "unique"         => ":attribute is al in gebruik.",
     "url"            => ":attribute is geen geldige URL.",
+    "timezone"       => ":attribute moet een geldige tijdzone zijn.",
 
     /*
     |--------------------------------------------------------------------------

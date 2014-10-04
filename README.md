@@ -1,9 +1,17 @@
 Laravel4-lang
 =============
 
-In this repository, you can find the lang files for the framework PHP, [Laravel 4](http://www.laravel.com).
+In this repository, you can find the lang files for the framework PHP, [Laravel 4&5](http://www.laravel.com).
 
 Find more informations on http://caouecs.github.io/Laravel4-lang/
+
+Laravel 5.0
+---
+
+The files of languages have been updated for Laravel 5, in `laravel5` branch.
+
+* array for PHP 5.4+
+* validation.filled, with same translation than validation.required
 
 
 Laravel 4.0

@@ -27,7 +27,7 @@ return [
         "string"  => ":attribute musi zawierać się w granicach :min - :max znaków.",
         "array"   => ":attribute musi składać się z :min - :max elementów."
     ],
-    "boolean"          => "The :attribute field must be true or false",
+    "boolean"          => ":attribute musi mieć wartość prawda albo fałsz",
     "confirmed"        => "Potwierdzenie :attribute nie zgadza się.",
     "date"             => ":attribute nie jest prawidłową datą.",
     "date_format"      => ":attribute nie jest w formacie :format.",
@@ -60,9 +60,9 @@ return [
     "required"         => "Pole :attribute jest wymagane.",
     "required_if"      => "Pole :attribute jest wymagane gdy :other jest :value.",
     "required_with"    => "Pole :attribute jest wymagane gdy :values jest obecny.",
-    "required_with_all"    => "The :attribute field is required when :values is present.",
+    "required_with_all"    => "Pole :attribute jest wymagane gdy :values jest obecny.",
     "required_without" => "Pole :attribute jest wymagane gdy :values nie jest obecny.",
-    "required_without_all" => "The :attribute field is required when none of :values are present.",
+    "required_without_all" => "Pole :attribute jest wymagane gdy żadne z :values nie są obecne.",
     "same"             => "Pole :attribute i :other muszą się zgadzać.",
     "size"             => [
         "numeric" => ":attribute musi mieć :size.",
@@ -70,7 +70,7 @@ return [
         "string"  => ":attribute musi mieć :size znaków.",
         "array"   => ":attribute musi zawierać :size elementów."
     ],
-    "timezone"         => "The :attribute must be a valid zone.",
+    "timezone"         => ":attribute musi być prawidłową strefą czasową.",
     "unique"           => "Taki :attribute już występuje.",
     "url"              => "Format :attribute jest nieprawidłowy.",
 

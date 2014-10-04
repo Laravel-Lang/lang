@@ -21,6 +21,6 @@ return [
 
     "sent"     => "Promemoria della password inviato!",
 
-    "reset"    => "Password has been reset!",
+    "reset"    => "La password è stata reimpostata!",
 
 ];

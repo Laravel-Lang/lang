@@ -30,6 +30,6 @@ return [
 
     "sent"     => "Şifre sıfırlama başarı ile gönderildi!",
 
-    "reset"    => "Password has been reset!",
+    "reset"    => "Şifre sıfırlandı!",
 
 ];

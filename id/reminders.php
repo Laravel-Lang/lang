@@ -21,6 +21,6 @@ return [
 
     "sent"      => "Pengingat kata sandi dikirim!",
 
-    "reset"    => "Password has been reset!",
+    "reset"     => "Kata sandi sudah direset!",
 
 ];

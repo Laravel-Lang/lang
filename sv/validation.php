@@ -70,7 +70,7 @@ return array(
     ),
     "timezone"         => ":attribute måste vara en giltig tidszon.",
     "unique"           => ":attribute används redan.",
-    "url"              => "Formatet :attribute är ogiltig.",
+    "url"              => "Formatet :attribute är ogiltigt.",
 
     /*
     |--------------------------------------------------------------------------

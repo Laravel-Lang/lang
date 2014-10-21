@@ -1,14 +1,5 @@
 <?php
 
-/**
- * Laravel - A PHP Framework For Web Artisans
- *
- * @package  Language
- * @version  4.x
- * @author   Isa Ishangulyyev <ishankuliyew424@gmail.com>
- * @link     http://github.com/isa424
- */
-
 return array(
 
     /*

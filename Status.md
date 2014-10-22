@@ -14,6 +14,7 @@
 | Czech | cs | OK | OK | -- | -- | -- | -- | -- | -- |
 | Danish | da | OK | OK | OK | OK | OK | OK | -- | -- |
 | Dutch | nl | OK | OK | OK | OK | OK | OK | OK | OK |
+| Farsi | fa | OK | OK | OK | OK | OK | -- | -- | -- |
 | Finnish | fi | -- | OK | -- | -- | -- | -- | -- | -- |
 | French | fr | OK | OK | OK | OK | OK | OK | OK | OK |
 | German | de | OK | OK | OK | OK | OK | OK | OK | OK |

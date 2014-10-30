@@ -61,7 +61,7 @@ return array(
     "required_with"    => "El camp :attribute és obligatori quan :values és present.",
     "required_with_all" => "The :attribute field is required when :values is present.",
     "required_without" => "El camp :attribute és obligatori quan :values no és present.",
-    "required_without_all" => "The :attribute field is required when none of :values are present.",
+    "required_without_all" => "El camp :attribute és obligatori quan cap dels :values són presents.",
     "same"             => ":attribute i :other han de coincidir.",
     "size"             => array(
         "numeric" => "El tamany de :attribute ha de ser :size.",

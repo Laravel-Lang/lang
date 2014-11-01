@@ -9,6 +9,7 @@ Laravel 5.0
 ---
 
 New validation file with array for PHP 5.4 and with new tag ( filled ). This version in `laravel5` branch.
+The `reminders` file is now `passwords` file.
 
 Laravel 4.0
 ---

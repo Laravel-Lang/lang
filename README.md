@@ -12,6 +12,7 @@ The files of languages have been updated for Laravel 5, in `laravel5` branch.
 
 * array for PHP 5.4+
 * validation.filled, with same translation than validation.required
+* *reminders* file is now *languages* file
 
 
 Laravel 4.0

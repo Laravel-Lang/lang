@@ -3,8 +3,6 @@ Laravel4-lang
 
 In this repository, you can find the lang files for the framework PHP, [Laravel 4&5](http://www.laravel.com).
 
-Find more informations on http://caouecs.github.io/Laravel4-lang/
-
 Laravel 5.0
 ---
 

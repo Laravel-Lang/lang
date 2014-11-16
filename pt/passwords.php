@@ -20,6 +20,6 @@ return [
 
     "sent"     => "O lembrete para a palavra-passe foi enviado!",
 
-    "reset"    => "Password has been reset!",
+    "reset"    => "A palavra-passe foi redefinida!",
 
 ];

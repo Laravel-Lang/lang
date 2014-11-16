@@ -5,106 +5,84 @@ return array(
     /*
     |--------------------------------------------------------------------------
     | Validation Language Lines
-    |
-    | اسطر التحقق والتصديق للغة العربية
     |--------------------------------------------------------------------------
     |
     | The following language lines contain the default error messages used by
-    | the validator class.
-    |
-    | الاسطر ادناه تحتوي علي رسائل الخطأ الافتراضية المستخدمة في فئة التحقق.
-    |
-    | Some of these rules have multiple versions such as the size rules.
-    |
-    | بعض هذه القواعد تحتوي علي عدة نسخ مثل قاعدة الحجم.
-    |
-    | Feel free to tweak each of these messages.
-    |
-    | لا تتردد في تعديل اي منها.
+    | the validator class. Some of these rules have multiple versions such
+    | such as the size rules. Feel free to tweak each of these messages.
     |
     */
 
-    "accepted"         => ":attribute يجب أن يتم قبول.",
-    "active_url"       => ":attribute ليس عنوان إنترنت صالحًا.",
-    "before"           => ":attribute يجب أن يكون تاريخ قبل :date.",
-    "after"            => ":attribute يجب أن يكون تاريخًا بعد :date.",
-    "alpha"            => ":attribute يجب أن يحتوي  على أحرفاً فقط.",
-    "alpha_dash"       => ":attribute يجب أن يحتوي  على أحرف وأرقام وإشارة ناقص.",
-    "alpha_num"        => ":attribute يجب أن يحتوي  على أحرف وأرقام.",
-    "array"            => ":attribute يجب ان تكون مصفوفة.",
+    "accepted"         => "يجب قبول الحقل :attribute",
+    "active_url"       => "الحقل :attribute لا يُمثّل رابطًا صحيحًا",
+    "before"           => "يجب على الحقل :attribute أن يكون تاريخًا سابقًا للتاريخ :date.",
+    "after"            => "يجب على الحقل :attribute أن يكون تاريخًا لاحقًا للتاريخ :date.",
+    "alpha"            => "يجب أن لا يحتوي الحقل :attribute سوى على حروف",
+    "alpha_dash"       => "يجب أن لا يحتوي الحقل :attribute على حروف، أرقام ومطّات.",
+    "alpha_num"        => "يجب أن يحتوي :attribute على حروفٍ وأرقامٍ فقط",
+    "array"            => "يجب أن يكون الحقل :attribute ًمصفوفة",
     "between"          => array(
-        "numeric" => ":attribute يجب أن يكون رقم بين :min - :max.",
-        "file"    => ":attribute يجب أن يكون بين :min - :max كيلو بايت.",
-        "string"  => ":attribute يجب أن يكون طوله بين :min - :max من الأحرف.",
-        "array"   => ":attribute يجب ان يحتوي علي :min - :max بنود."
+        "numeric" => "يجب أن تكون قيمة :attribute محصورة ما بين :min و :max.",
+        "file"    => "يجب أن يكون حجم الملف :attribute محصورًا ما بين :min و :max كيلوبايت.",
+        "string"  => "يجب أن يكون عدد حروف النّص :attribute محصورًا ما بين :min و :max",
+        "array"   => "يجب أن يحتوي :attribute على عدد من العناصر محصورًا ما بين :min و :max"
     ),
-    "boolean"          => "The :attribute field must be true or false",
-    "confirmed"        => "تأكيد :attribute لا يتطابق.",
-    "date"             => ":attribute ليس تاريخ صحيح.",
-    "date_format"      => ":attribute لا يطابق اليصغة :format.",
-    "different"        => ":attribute و :other يجب أن يكونا مختلفين.",
-    "digits"           => ":attribute يجب أن يتكون من :digits أرقام.",
-    "digits_between"   => ":attribute يجب أن يكون بين :min و :max أرقام.",
-    "email"            => ":attribute بصيغة خاطئة.",
-    "exists"           => ":attribute المختار غير صالح.",
-    "image"            => ":attribute يجب أن يكون صورة",
-    "in"               => "قيمة :attribute المختارة غير صالح.",
-    "integer"          => ":attribute يجب أن يكون رقماً صحيحاً.",
-    "ip"               => ":attribute يجب أن يكون عنوان أنترنت (IP) صحيحاً.",
+    "boolean"          => "يجب أن تكون قيمة الحقل :attribute إما true أو false ",
+    "confirmed"        => "حقل التأكيد غير مُطابق للحقل :attribute",
+    "date"             => "الحقل :attribute ليس تاريخًا صحيحًا",
+    "date_format"      => "لا يتوافق الحقل :attribute مع الشكل :format.",
+    "different"        => "يجب أن يكون الحقلان :attribute و :other مُختلفان",
+    "digits"           => "يجب أن يحتوي الحقل :attribute على :digits رقمًا/أرقام",
+    "digits_between"   => "يجب أن يحتوي الحقل :attribute ما بين :min و :max رقمًا/أرقام ",
+    "email"            => "يجب أن يكون :attribute عنوان بريد إلكتروني صحيح البُنية",
+    "exists"           => "الحقل :attribute لاغٍ",
+    "image"            => "يجب أن يكون الحقل :attribute صورةً",
+    "in"               => "الحقل :attribute لاغٍ",
+    "integer"          => "يجب أن يكون الحقل :attribute عددًا صحيحًا",
+    "ip"               => "يجب أن يكون الحقل :attribute عنوان IP ذي بُنية صحيحة",
     "max"              => array(
-        "numeric" => ":attribute يجب ألا يكون أكبر من :max.",
-        "file"    => ":attribute يجب ألا يكون أكبر من :max كيلو بايت.",
-        "string"  => ":attribute يجب ألا يكون أكبر من :max حرف.",
-        "array"   => ":attribute يجب ان لا يزيد علي :max بنود."
+        "numeric" => "يجب أن تكون قيمة الحقل :attribute أصغر من :max.",
+        "file"    => "يجب أن يكون حجم الملف :attribute أصغر من :max كيلوبايت",
+        "string"  => "يجب أن لا يتجاوز طول النّص :attribute :max حروفٍ/حرفًا",
+        "array"   => "يجب أن لا يحتوي الحقل :attribute على أكثر من :max عناصر/عنصر."
     ),
-    "mimes"            => ":attribute يجب أن يكون ملف من نوع: :values.",
+    "mimes"            => "يجب أن يكون الحقل ملفًا من نوع : :values.",
     "min"              => array(
-        "numeric" => ":attribute يجب أن يكون على الأقل :min.",
-        "file"    => ":attribute يجب أن يكون على الأقل :min كيلو بايت.",
-        "string"  => ":attribute يجب أن يكون طوله على الأقل :min أحرف.",
-        "array"   => ":attribute يجب ان يحتوي علي الاقل :min بنود."
+        "numeric" => "يجب أن تكون قيمة الحقل :attribute أكبر من :min.",
+        "file"    => "يجب أن يكون حجم الملف :attribute أكبر من :min كيلوبايت",
+        "string"  => "يجب أن يكون طول النص :attribute أكبر :min حروفٍ/حرفًا",
+        "array"   => "يجب أن يحتوي الحقل :attribute على الأقل على :min عُنصرًا/عناصر"
     ),
-    "not_in"           => ":attribute المختار غير صالح.",
-    "numeric"          => ":attribute يجب أن يكون رقم.",
-    "regex"            => ":attribute صيغته غير صالحة.",
-    "required"         => ":attribute مطلوب.",
-    "required_if"      => ":attribute مطلوب عندما :other يساوي :value.",
-    "required_with"    => ":attribute مطلوب عندما يكون :values موجوداً.",
-    "required_with_all" => ":attribute مطلوب عندما يكون :values is موجوداً.",
-    "required_without" => ":attribute مطلوب عندما لا يكون :values موجوداً.",
-    "required_without_all" => " :attribute مطلوب عندما لا يكون :values موجوداً.",
-    "same"             => ":attribute و :other يجب أن يتطابقا",
+    "not_in"           => "الحقل :attribute لاغٍ",
+    "numeric"          => "يجب على الحقل :attribute أن يكون رقمًا",
+    "regex"            => "صيغة الحقل :attribute .غير صحيحة",
+    "required"         => "الحقل :attribute مطلوب.",
+    "required_if"      => "الحقل :attribute مطلوب في حال ما إذا كان :other يساوي :value.",
+    "required_with"    => "الحقل :attribute إذا توفّر :values.",
+    "required_with_all" => "الحقل :attribute إذا توفّر :values.",
+    "required_without" => "الحقل :attribute إذا لم يتوفّر :values.",
+    "required_without_all" => "الحقل :attribute إذا لم يتوفّر :values.",
+    "same"             => "يجب أن يتطابق الحقل :attribute مع :other",
     "size"             => array(
-        "numeric" => ":attribute يجب أن يكون :size.",
-        "file"    => ":attribute يجب أن يكون :size كيلو بايت.",
-        "string"  => ":attribute يجب أن يتكون من :size أحرف.",
-        "array"   => ":attribute يجب ان يحتوي على :size بنود."
+        "numeric" => "يجب أن تكون قيمة :attribute أكبر من :size.",
+        "file"    => "يجب أن يكون حجم الملف :attribute أكبر من :size كيلو بايت.",
+        "string"  => "يجب أن يحتوي النص :attribute عن ما لا يقل عن  :size حرفٍ/أحرف.",
+        "array"   => "يجب أن يحتوي الحقل :attribute عن ما لا يقل عن:min عنصرٍ/عناصر"
     ),
-    "timezone"         => "The :attribute must be a valid zone.",
-    "unique"           => "قيمة :attribute تم استخدامها مسبقاً.",
-    "url"              => ":attribute صيغته غير صحيحة.",
+    "timezone"         => "يجب أن يكون :attribute نطاقًا زمنيًا صحيحًا",
+    "unique"           => "قيمة الحقل :attribute مُستخدمة من قبل",
+    "url"              => "صيغة الرابط :attribute غير صحيحة",
 
     /*
     |--------------------------------------------------------------------------
     | Custom Validation Language Lines
-    |
-    | اسطر التحقق المخصصه للغة العربية
-    |
     |--------------------------------------------------------------------------
     |
     | Here you may specify custom validation messages for attributes using the
-    | convention "attribute.rule" to name the lines.
-    |
-    | من هنا يمكنك تحديد رسائل تحقق مخصصه للسمات باستخدام مجمع "attribute.rule"
-    | لتسمية السطر.
-    |
-    | his makes it quick to specify a specific custom language line for a given
-    | attribute rule.
-    |
-    | يكون التحديد سريعا عند استخدام سمه معينة للغة المخصصة
+    | convention "attribute.rule" to name the lines. This makes it quick to
+    | specify a specific custom language line for a given attribute rule.
     |
     */
-
     'custom' => array(
         'attribute-name' => array(
             'rule-name' => 'custom-message',
@@ -114,25 +92,19 @@ return array(
     /*
     |--------------------------------------------------------------------------
     | Custom Validation Attributes
-    |
-    | سمات التحقق المخصصه
-    |
     |--------------------------------------------------------------------------
     |
     | The following language lines are used to swap attribute place-holders
     | with something more reader friendly such as E-Mail Address instead
     | of "email". This simply helps us make messages a little cleaner.
     |
-    | الاسطر ادناه تستخدم لتبديل السمات بشكل مقروء اكثر مثل "البريد الالكتروني"
-    | بدلا عن "الايميل". هذه سيساعد في جعل الرسائل اوضح.
-    |
     */
 
     'attributes' => array(
         "name" => "الاسم",
-        "username" => "اسم المستخدم",
+        "username" => "اسم المُستخدم",
         "email" => "البريد الالكتروني",
-        "first_name" => "الاسم الأول",
+        "first_name" => "الاسم",
         "last_name" => "اسم العائلة",
         "password" => "كلمة السر",
         "city" => "المدينة",
@@ -149,13 +121,13 @@ return array(
         "hour" => "ساعة",
         "minute" => "دقيقة",
         "second" => "ثانية",
-        "title" => "العنوان",
-        "content" => "المحتوى",
+        "title" => "اللقب",
+        "content" => "المُحتوى",
         "description" => "الوصف",
-        "excerpt" => "الملخص",
+        "excerpt" => "المُلخص",
         "date" => "التاريخ",
         "time" => "الوقت",
-        "available" => "متاح",
+        "available" => "مُتاح",
         "size" => "الحجم"
     ),
 

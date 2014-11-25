@@ -12,6 +12,9 @@ The files of languages have been updated for Laravel 5, in `laravel5` branch.
 * validation.filled, with same translation than validation.required
 * *reminders* file is now *languages* file
 
+In `passwords` file [#311](https://github.com/caouecs/Laravel4-lang/issues/311) :
+
+    "sent" => "Password reset link sent!"
 
 Laravel 4.0
 ---

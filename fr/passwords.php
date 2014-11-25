@@ -19,7 +19,7 @@ return [
 
     "token"    => "Ce jeton de réinitialisation du mot de passe n'est pas valide.",
 
-    "sent"     => "Rappel du mot de passe envoyé !",
+    "sent"     => "Lien de réinitialisation du mot de passe envoyé !",
 
     "reset"    => "Le mot de passe a été réinitialisé !",
 

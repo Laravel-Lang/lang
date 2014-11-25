@@ -13,7 +13,7 @@ The `reminders` file is now `passwords` file.
 
 In `passwords` file [#311](https://github.com/caouecs/Laravel4-lang/issues/311) :
 
-    "sent" => "Password reset link sent!",
+    "sent" => "Password reset link sent!"
 
 Laravel 4.0
 ---

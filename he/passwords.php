@@ -19,7 +19,7 @@ return [
 
     "token"    => "אסימון איפוס הסיסמה הזה לא תקני.",
 
-    "sent"     => "Password reminder sent!",
+    "sent"     => "Password reset link sent!",
 
     "reset"    => "Password has been reset!",
 

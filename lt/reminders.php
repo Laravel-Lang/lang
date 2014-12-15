@@ -4,12 +4,12 @@ return array(
 
 	/*
 	|--------------------------------------------------------------------------
-	| Password Reminder Language Lines
+	| Slaptažodžio priminimo kalbos eilutės
 	|--------------------------------------------------------------------------
 	|
-	| The following language lines are the default lines which match reasons
-	| that are given by the password broker for a password update attempt
-	| has failed, such as for an invalid token or invalid new password.
+	| Sekančios kalbos eilutės yra numatytos elutės, atitinkančios priežastims,
+	| pateikiamoms slatažodžių tarpininko, kai nepavyksta slaptažodžio atnaujinimo  
+	| bandymas, tokioms kaip negaliojanti žymė ar neteisingas naujas slaptažodis..
 	|
 	*/
 

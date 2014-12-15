@@ -4,12 +4,12 @@ return array(
 
 	/*
 	|--------------------------------------------------------------------------
-	| Validation Language Lines
+	| Patvirtinimo kalbos eilutės
 	|--------------------------------------------------------------------------
 	|
-	| The following language lines contain the default error messages used by
-	| the validator class. Some of these rules have multiple versions such
-	| as the size rules. Feel free to tweak each of these messages here.
+	| Sekančios kalbos eilutėse yra numatyti klaidos pranešimai naudojami
+	| patvirtinimo klasėje. Kai kurios iš šių eilučių turi keletą versijų
+	| tokių kaip dydžio taisyklės. Galite laisvai pataisyti bet kuriuos pranešimus.
 	|
 	*/
 
@@ -75,12 +75,12 @@ return array(
 
 	/*
 	|--------------------------------------------------------------------------
-	| Custom Validation Language Lines
+	| Pasirinktiniai patvirtinimo kalbos eilutės
 	|--------------------------------------------------------------------------
 	|
-	| Here you may specify custom validation messages for attributes using the
-	| convention "attribute.rule" to name the lines. This makes it quick to
-	| specify a specific custom language line for a given attribute rule.
+	| Čia galite nurodyti pasirinktinius patvirtinimo pranešimus, naudodami
+	| konvenciją "attribute.rule" eilučių pavadinimams. Tai leidžia greitai
+	| nurodyti konkrečią pasirinktinę kalbos eilutę tam tikrai atributo taisyklei.
 	|
 	*/
 
@@ -92,12 +92,12 @@ return array(
 
 	/*
 	|--------------------------------------------------------------------------
-	| Custom Validation Attributes
+	| Pasirinktiniai patvirtinimo atributai
 	|--------------------------------------------------------------------------
 	|
-	| The following language lines are used to swap attribute place-holders
-	| with something more reader friendly such as E-Mail Address instead
-	| of "email". This simply helps us make messages a little cleaner.
+	| Sekančios kalbos eilutės naudojamos pakeisti vietos žymes 
+	| kuo nors labiau priimtinu skaitytojui (pvz. "El.Pašto Adresas" vietoj
+	| "email". TTai tiesiog padeda mums padaryti žinutes truputi aiškesnėmis.
 	|
 	*/
 

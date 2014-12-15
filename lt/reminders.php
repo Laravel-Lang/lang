@@ -13,14 +13,14 @@ return array(
 	|
 	*/
 
-	"password" => "Passwords must be at least six characters and match the confirmation.",
+	"password" => "Slaptažodis turi būti bent šešių simbolių ir sutapti su patvirtinimu.",
 
-	"user" => "We can't find a user with that e-mail address.",
+	"user" => "Vartotojas su tokiu el. pašu nerastas.",
 
-	"token" => "This password reset token is invalid.",
+	"token" => "Šis slaptažodžio raktas yra neteisingas.",
 
-	"sent" => "Password reminder sent!",
+	"sent" => "Slaptažodžio priminimas išsiųstas!",
 
-	"reset" => "Password has been reset!",
+	"reset" => "Nustatytas naujas slaptažodis!",
 
 );

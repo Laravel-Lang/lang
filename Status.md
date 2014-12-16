@@ -25,6 +25,7 @@
 | Italian | it | OK | OK | OK | OK | OK | OK | OK | OK |
 | Japanese | jp | OK | OK | OK | OK | OK | -- | -- | -- |
 | Korean | ko | OK | OK | OK | OK | OK | OK | OK | OK |
+| Lithunian | lt | OK | OK | OK | OK | OK | OK | OK | OK |
 | Macedonian | mk | OK | OK | -- | -- | -- | -- | -- | -- |
 | Montenegrin | me | OK | OK | OK | OK | OK | -- | -- | -- |
 | Norwegian Bokmål | nb | OK | OK | -- | -- | -- | -- | -- | -- |

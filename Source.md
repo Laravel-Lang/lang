@@ -134,6 +134,10 @@ Korean (ko)
 * [dbwhddn10](https://github.com/dbwhddn10)
 * [Kaden Lee](https://github.com/thisiskaden)
 
+Lithunian (lt)
+
+* [trigras](https://github.com/trigras)
+
 Macedonian (mk)
 
 * [Marko Aleksic](https://github.com/psybaron)

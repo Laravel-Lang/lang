@@ -14,7 +14,7 @@ return array(
 	*/
 
 	"accepted"             => "Laukas :attribute turi būti priimtas.",
-	"active_url"           => "Laukas :attribute nėra validus internetinis adresas.",
+	"active_url"           => "Laukas :attribute nėra galiojantis internetinis adresas.",
 	"after"                => "Laukelyje :attribute turi būti data po :date.",
 	"alpha"                => "Laukas :attribute gali turėti tik raides.",
 	"alpha_dash"           => "Laukas :attribute gali turėti tik raides, skaičius ir brūkšnelius.",
@@ -25,10 +25,10 @@ return array(
 		"numeric" => "Lauko :attribute reikšmė turi būti tarp :min ir :max.",
 		"file"    => "Failo dydis lauke :attribute turi būti tarp :min ir :max kilobaitų.",
 		"string"  => "Simbolių skaičius lauke :attribute turi būti tarp :min ir :max.",
-		"array"   => "Elementų skaičius lauke :attribute turi tūrėti nuo :min iki :max.",
+		"array"   => "Elementų skaičius lauke :attribute turi turėti nuo :min iki :max.",
 	),
 	"boolean"              => "Lauko reikšmė :attribute turi būti 'taip' arba 'ne'.",
-	"confirmed"            => "Lauko :attribute patvirinimas nesutampa.",
+	"confirmed"            => "Lauko :attribute patvirtinimas nesutampa.",
 	"date"                 => "Lauko :attribute reikšmė nėra galiojanti data.",
 	"date_format"          => "Lauko :attribute reikšmė neatitinka formato :format.",
 	"different"            => "Laukų :attribute ir :other reikšmės turi skirtis.",
@@ -38,7 +38,7 @@ return array(
 	"exists"               => "Pasirinkta negaliojanti :attribute reikšmė.",
 	"image"                => "Lauko :attribute reikšmė turi būti paveikslėlis.",
 	"in"                   => "Pasirinkta negaliojanti :attribute reikšmė.",
-	"integer"              => "Lauko :attribute reikšmė turi būti veikasis skaičius.",
+	"integer"              => "Lauko :attribute reikšmė turi būti sveikasis skaičius.",
 	"ip"                   => "Lauko :attribute reikšmė turi būti galiojantis IP adresas.",
 	"max"                  => array(
 		"numeric" => "Lauko :attribute reikšmė negali būti didesnė nei :max.",
@@ -54,14 +54,14 @@ return array(
 		"array"   => "Elementų kiekis lauke :attribute turi būti ne mažiau nei :min.",
 	),
 	"not_in"               => "Pasirinkta negaliojanti reikšmė :attribute.",
-	"numeric"              => "Laukas :attribute reikšmė turi būti skaičius.",
+	"numeric"              => "Lauko :attribute reikšmė turi būti skaičius.",
 	"regex"                => "Negaliojantis lauko :attribute formatas.",
-	"required"             => "Privaloma usžpildyti lauką :attribute.",
-	"required_if"          => "Privaloma usžpildyti lauką :attribute kai :other yra :value.",
-	"required_with"        => "Privaloma usžpildyti lauką :attribute kai pateikta :values.",
-	"required_with_all"    => "Privaloma usžpildyti lauką :attribute kai pateikta :values.",
-	"required_without"     => "Privaloma usžpildyti lauką :attribute kai nepateikta :values.",
-	"required_without_all" => "Privaloma usžpildyti lauką :attribute kai nepateikta nei viena iš reikšmių :values.",
+	"required"             => "Privaloma užpildyti lauką :attribute.",
+	"required_if"          => "Privaloma užpildyti lauką :attribute kai :other yra :value.",
+	"required_with"        => "Privaloma užpildyti lauką :attribute kai pateikta :values.",
+	"required_with_all"    => "Privaloma užpildyti lauką :attribute kai pateikta :values.",
+	"required_without"     => "Privaloma užpildyti lauką :attribute kai nepateikta :values.",
+	"required_without_all" => "Privaloma užpildyti lauką :attribute kai nepateikta nei viena iš reikšmių :values.",
 	"same"                 => "Laukai :attribute ir :other turi sutapti.",
 	"size"                 => array(
 		"numeric" => "Lauko :attribute reikšmė turi būti :size.",
@@ -71,7 +71,7 @@ return array(
 	),
 	"unique"               => "Tokia :attribute reikšmė jau pasirinkta.",
 	"url"                  => "Negaliojantis lauko :attribute formatas.",
-	"timezone"             => "Lauko :attribute mreikšmė turi būti galiojanti laiko zona.",
+	"timezone"             => "Lauko :attribute reikšmė turi būti galiojanti laiko zona.",
 
 	/*
 	|--------------------------------------------------------------------------

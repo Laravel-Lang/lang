@@ -1,5 +1,38 @@
 # Changelog
 
+16 December 2014
+
+* Add Lithunian (lt) by [trigras](https://github.com/trigras)
+
+17 November 2014
+
+* Update French (fr) by [Youghourta Benali](https://github.com/djug)
+
+16 November 2014
+
+* Update Portuguese (pt) by [Francisco Neves](https://github.com/fntneves)
+* Update Arabic (ar) by [Youghourta Benali](https://github.com/djug)
+
+14 November 2014
+
+* Update Swedish (sv) by [Robin Hallabro](https://github.com/hallabro)
+
+31 October 2014
+
+* Update Catalan (ca) by [Gerard Nesta](https://github.com/gerardnll)
+
+22 October 2014
+
+* Update Farsi (fa) by [Reza](https://github.com/PlangCoder)
+
+14 October 2014
+
+* Update Bosnian (bs) by [mrakodol](https://github.com/mrakodol)
+
+05 October 2014
+
+* Update Indonesian (id) by [Ivo Idham Perdameian](https://github.com/idhamperdameian)
+
 30 September 2014
 
 * Update Turkish (tr) for validation.email by [Isa Ishangulyyev](https://github.com/isa424)

@@ -3,12 +3,12 @@
 | Language | name | v4.0 | v4.1 | required_without_all | val.email | required_with_all | val.boolean | reminders.reset | val.timezone |
 |----------|:----:|:----:|:----:|:--------------------:|:---------:|:-----------------:|:-----------:|:---------------:|:------------:|
 | Albanian | sq | -- | -- | -- | -- | -- | -- | -- | -- |
-| Arabic | ar | OK | OK | OK | OK | OK | -- | -- | -- |
+| Arabic | ar | OK | OK | OK | OK | OK | OK | OK | OK |
 | Bosnian | bs | OK | OK | OK | -- | -- | -- | -- | -- |
 | Brazilian | pt-BR | OK | OK | OK | OK | OK | OK | OK | OK |
 | Bulgarian | bg | OK | OK | OK | OK | OK | OK | OK | OK |
 | Cambodian | km | OK | OK | OK | -- | -- | -- | -- | -- |
-| Catalan | ca | OK | OK | -- | -- | -- | -- | -- | -- |
+| Catalan | ca | OK | OK | OK | OK | OK | OK | OK | OK |
 | Chinese | zh-CN | OK | OK | OK | OK | OK | OK | OK | OK |
 | Chinese from Taiwan | zh-TW | OK | OK | OK | OK | OK | OK | OK | OK |
 | Czech | cs | OK | OK | -- | -- | -- | -- | -- | -- |
@@ -25,11 +25,12 @@
 | Italian | it | OK | OK | OK | OK | OK | OK | OK | OK |
 | Japanese | jp | OK | OK | OK | OK | OK | -- | -- | -- |
 | Korean | ko | OK | OK | OK | OK | OK | OK | OK | OK |
+| Lithunian | lt | OK | OK | OK | OK | OK | OK | OK | OK |
 | Macedonian | mk | OK | OK | -- | -- | -- | -- | -- | -- |
 | Montenegrin | me | OK | OK | OK | OK | OK | -- | -- | -- |
 | Norwegian Bokmål | nb | OK | OK | -- | -- | -- | -- | -- | -- |
 | Polish | pl | OK | OK | -- | -- | -- | -- | -- | -- |
-| Portuguese | pt | OK | OK | OK | OK | OK | OK | -- | OK |
+| Portuguese | pt | OK | OK | OK | OK | OK | OK | OK | OK |
 | Romanian | ro | OK | OK | OK | -- | -- | -- | -- | -- |
 | Russian | ru | OK | OK | OK | OK | OK | OK | OK | OK |
 | Serbian | sr | OK | OK | -- | -- | -- | -- | -- | -- |

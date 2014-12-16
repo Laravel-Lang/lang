@@ -4,16 +4,16 @@ return [
 
 	/*
 	|--------------------------------------------------------------------------
-	| Pagination Language Lines
+	| Puslapiavimo kalbos eilutės
 	|--------------------------------------------------------------------------
 	|
-	| The following language lines are used by the paginator library to build
-	| the simple pagination links. You are free to change them to anything
-	| you want to customize your views to better match your application.
+	| Šios kalbos eilutės yra naudojamas puslapiavimo bibliotekos kurti
+	| paprastas puslapiavimo nuorodas. Jūs galite laisvai keisti jas
+	| į bet kokias kitas labiau tinkančias Jūsų programai.
 	|
 	*/
 
-	'previous' => '&laquo; Previous',
-	'next'     => 'Next &raquo;',
+	'previous' => '&laquo; Ankstesnis',
+	'next'     => 'Sekantis &raquo;',
 
 ];

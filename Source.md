@@ -10,6 +10,7 @@ Arabic (ar)
 * [bo3bdo](https://github.com/bo3bdo)
 * [Ibrahim AshShohail](https://github.com/laheab)
 * [Ihab Shoully](https://github.com/shoully)
+* [Youghourta Benali](https://github.com/djug)
 
 Bosnian (bs)
 
@@ -37,6 +38,7 @@ Cambodian (km)
 Catalan (ca)
 
 * [David Moreno](https://github.com/davidmb91)
+* [Gerard Nesta](https://github.com/gerardnll)
 
 Chinese (zh-CN)
 
@@ -68,6 +70,10 @@ Dutch (nl)
 * [Mark Mooibroek](https://github.com/markmooibroek)
 * [Thomas de Zeeuw](https://github.com/Thomasdezeeuw)
 
+Farsi (fa)
+
+* [Reza](https://github.com/PlangCoder)
+
 Finnish (fi)
 
 * [Linus Odenring](https://github.com/linusodenring)
@@ -82,6 +88,7 @@ French (fr)
 * [Erwan](https://github.com/NaWer)
 * [Fred Delrieu](https://github.com/caouecs)
 * [Laravel-France](https://github.com/laravel-france)
+* [Youghourta Benali](https://github.com/djug)
 
 German (de)
 
@@ -164,6 +171,7 @@ Polish (pl)
 
 Portuguese (pt)
 
+* [Francisco Neves](https://github.com/fntneves)
 * [miguelbgouveia](https://github.com/miguelbgouveia)
 * [Ramiro Varandas Jr](https://github.com/ramirovjr)
 
@@ -208,6 +216,7 @@ Swedish (sv)
 * [coldKingdom](https://github.com/coldKingdom)
 * [Jonas Söderberg](https://github.com/imevul)
 * [Linus Odenring](https://github.com/linusodenring)
+* [Robin Hallabro](https://github.com/hallabro)
 * [thomeu](https://github.com/thomeu)
 * [Vincent Klaiber](https://github.com/vincentklaiber)
 

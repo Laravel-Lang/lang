@@ -16,6 +16,8 @@ In `passwords` file [#311](https://github.com/caouecs/Laravel4-lang/issues/311) 
 
     "sent" => "Password reset link sent!"
 
+ > After the commit [359af29](https://github.com/laravel/laravel/commit/359af29ef3fd67b12029fa2a4b0455a9bf4731c2), we prefer to wait. We can't accept pull request.
+
 Laravel 4.0
 ---
 

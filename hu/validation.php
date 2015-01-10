@@ -44,13 +44,13 @@ return array(
         "numeric" => "A(z) :attribute értéke nem lehet nagyobb, mint :max!",
         "file"    => "A(z) :attribute mérete nem lehet több, mint :max kilobájt.",
         "string"  => "A(z) :attribute hossza nem lehet több, mint :max karakter.",
-        "array"   => "A(z) :attribute nem tartalmazhat több mint :max elemet."
+        "array"   => "A(z) :attribute legfeljebb :max elemet kell, hogy tartalmazzon."
     ),
     "mimes"            => "A(z) :attribute kizárólag az alábbi fájlformátumok egyike lehet: :values.",
     "min"              => array(
         "numeric" => "A(z) :attribute értéke nem lehet kisebb, mint :min!",
-        "file"    => "A(z) :attribute mérete nem lehet több, mint :min kilobájt.",
-        "string"  => "A(z) :attribute hossza nem lehet több, mint :min karakter.",
+        "file"    => "A(z) :attribute mérete nem lehet kevesebb, mint :min kilobájt.",
+        "string"  => "A(z) :attribute hossza nem lehet kevesebb, mint :min karakter.",
         "array"   => "A(z) :attribute legalább :min elemet kell, hogy tartalmazzon."
     ),
     "not_in"               => "A(z) :attribute értéke érvénytelen.",

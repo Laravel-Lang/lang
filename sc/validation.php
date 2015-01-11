@@ -26,7 +26,7 @@ return array(
         "string"  => ":attribute depet èssere intre :min - :max caràteres.",
         "array"   => ":attribute depet èssere intre :min - :max elementos."
     ),
-    "boolean"          => "The :attribute field must be true or false",
+    "boolean"          => "Su campu :attribute depet èssere beru o farsu",
     "confirmed"        => "Su campu de cunfirma pro :attribute non torrat.",
     "date"             => ":attribute no est una data bàlida.",
     "date_format"      => ":attribute non torrat cun su formadu :format.",
@@ -68,7 +68,7 @@ return array(
         "string"  => ":attribute depet cuntènnere :size caràteres.",
         "array"   => ":attribute depet cuntènnere :size elementos."
     ),
-    "timezone"         => "The :attribute must be a valid zone.",
+    "timezone"         => ":attribute depet èssere una zona bàlida.",
     "unique"           => ":attribute est istadu giai impreadu.",
     "url"              => ":attribute depet èssere un'URL.",
 

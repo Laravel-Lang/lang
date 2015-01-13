@@ -21,6 +21,6 @@ return [
 
     "sent"     => "Regordu de sa password imbiadu!",
 
-    "reset"    => "Password has been reset!",
+    "reset"    => "Sa password est istada torrada a impostare!",
 
 ];

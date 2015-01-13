@@ -54,7 +54,7 @@ return [
         "array"   => ":attribute depet tènnere a su mancu :min elementos."
     ],
     "not_in"           => "Su balore seberadu pro :attribute no est bàlidu.",
-    "numeric"          => ":attribute depetèssere unu nùmeru.",
+    "numeric"          => ":attribute depet èssere unu nùmeru.",
     "regex"            => "Su formadu de su campu :attribute no est bàlidu.",
     "required"         => ":attribute est pedidu.",
     "required_if"      => "Su campu :attribute est pedidu cando :other est :value.",
@@ -69,7 +69,7 @@ return [
         "string"  => ":attribute depet cuntènnere :size caràteres.",
         "array"   => ":attribute depet cuntènnere :size elementos."
     ],
-    "timezone"         => "The :attribute must be a valid zone.",
+    "timezone"         => ":attribute depet èssere una zona bàlida.",
     "unique"           => ":attribute est istadu giai impreadu.",
     "url"              => ":attribute depet èssere un'URL.",
 

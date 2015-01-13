@@ -53,7 +53,7 @@ return array(
         "array"   => ":attribute depet tènnere a su mancu :min elementos."
     ),
     "not_in"           => "Su balore seberadu pro :attribute no est bàlidu.",
-    "numeric"          => ":attribute depetèssere unu nùmeru.",
+    "numeric"          => ":attribute depet èssere unu nùmeru.",
     "regex"            => "Su formadu de su campu :attribute no est bàlidu.",
     "required"         => ":attribute est pedidu.",
     "required_if"      => "Su campu :attribute est pedidu cando :other est :value.",

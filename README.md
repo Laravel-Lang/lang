@@ -11,9 +11,10 @@ Laravel 5.0
 New validation file with array for PHP 5.4 and with new tag ( filled ). This version in `laravel5` branch.
 The `reminders` file is now `passwords` file.
 
-In `passwords` file [#311](https://github.com/caouecs/Laravel4-lang/issues/311) :
+In `passwords` file [#323](https://github.com/caouecs/Laravel4-lang/issues/323) :
 
-    "sent" => "Password reset link sent!"
+    "sent" => "We have e-mailed your password reset link!"
+    "reset" => "Your password has been reset!"
 
 Laravel 4.0
 ---

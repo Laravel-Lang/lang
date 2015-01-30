@@ -19,8 +19,8 @@ return [
 
     "token"     => "Kata sandi token pengaturan ulang tidak sah.",
 
-    "sent"      => "Pengingat kata sandi dikirim!",
+    "sent"      => "Kami sudah mengirim email yang berisi tautan untuk mereset kata sandi Anda!",
 
-    "reset"     => "Kata sandi sudah direset!",
+    "reset"     => "Kata sandi Anda sudah direset!",
 
 ];

@@ -21,6 +21,6 @@ return [
 
     "sent"     => "パスワードリマインダーを送信しました！",
 
-    "reset"    => "Password has been reset!",
+    "reset"    => "パスワードがリセットされました！",
 
 ];

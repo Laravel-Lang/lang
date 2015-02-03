@@ -26,7 +26,7 @@ return [
         "string"  => ":attributeは:min文字から:max文字までとなります。",
         "array"   => ":attributeは:min個から:max個までとなります。"
     ],
-    "boolean"          => "The :attribute field must be true or false",
+    "boolean"          => ":attributeは真偽値で指定してください。",
     "confirmed"        => ":attributeは確認用フィールドと一致していません。",
     "date"             => ":attributeは正しい日付ではありません。",
     "date_format"      => ":attributeは日付フォーマット（:format）と一致していません。",
@@ -69,7 +69,7 @@ return [
         "string"  => ":attributeは:size文字で指定してください。",
         "array"   => ":attributeは:size個で指定してください。"
     ],
-    "timezone"         => "The :attribute must be a valid zone.",
+    "timezone"         => ":attributeはタイムゾーンを指定してください。",
     "unique"           => ":attributeが既に存在しています。",
     "url"              => ":attributeにはURLを指定してください。",
 

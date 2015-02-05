@@ -26,7 +26,7 @@ return array(
         "string"  => "Polje :attribute mora biti između :min - :max karaktera.",
         "array"   => "Polje :attribute mora biti između :min - :max stavki."
     ),
-    "boolean"          => "The :attribute field must be true or false",
+    "boolean"          => "Polje :attribute mora biti tačno ili netačno",
     "confirmed"        => "Potvrda polja :attribute se ne poklapa.",
     "date"             => "Polje :attribute nije važeći datum.",
     "date_format"      => "Polje :attribute ne odgovora prema formatu :format.",
@@ -68,7 +68,7 @@ return array(
         "string"  => "Polje :attribute mora biti :size karaktera.",
         "array"   => "Polje :attribute mora sadržati :size stavki."
     ),
-    "timezone"         => ":attribute mora biti ispravna vremenska zona.",
+    "timezone"         => "Polje :attribute mora biti ispravna vremenska zona.",
     "unique"           => "Polje :attribute već postoji.",
     "url"              => "Format polja :attribute ne važi.",
 

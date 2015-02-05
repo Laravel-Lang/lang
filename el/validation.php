@@ -9,7 +9,7 @@ return [
     |
     | The following language lines contain the default error messages used by
     | the validator class. Some of these rules have multiple versions such
-    | such as the size rules. Feel free to tweak each of these messages.
+    | as the size rules. Feel free to tweak each of these messages here.
     |
     */
 
@@ -20,14 +20,14 @@ return [
     "alpha_dash"       => "Το πεδίο :attribute μπορεί να περιέχει μόνο γράμματα, αριθμούς, και παύλες.",
     "alpha_num"        => "Το πεδίο :attribute μπορεί να περιέχει μόνο γράμματα και αριθμούς.",
     "array"            => "Το πεδίο :attribute πρέπει να είναι ένας πίνακας.",
-    "before"           => "Το πεδίο :attribute πρέπει να είναι μία ημ/νία πριν από :date.",
+    "before"           => "Το πεδίο :attribute πρέπει να είναι μία ημερομηνία πριν από :date.",
     "between"          => [
         "numeric" => "Το πεδίο :attribute πρέπει να είναι μεταξύ :min - :max.",
         "file"    => "Το πεδίο :attribute πρέπει να είναι μεταξύ :min - :max kilobytes.",
         "string"  => "Το πεδίο :attribute πρέπει να είναι μεταξύ :min - :max χαρακτήρες.",
         "array"   => "Το πεδίο :attribute πρέπει να έχει μεταξύ :min - :max αντικείμενα."
     ],
-    "boolean"          => "The :attribute field must be true or false",
+    "boolean"          => "Το πεδίο :attribute πρέπει να είναι true ή false.",
     "confirmed"        => "Η επιβεβαίωση του :attribute δεν ταιριάζει.",
     "date"             => "Το πεδίο :attribute δεν αποτελεί αποδεκτή ημερομηνία.",
     "date_format"      => "Το πεδίο :attribute δεν είναι της μορφής :format.",
@@ -40,14 +40,14 @@ return [
     "image"            => "Το πεδίο :attribute πρέπει να είναι εικόνα.",
     "in"               => "Το επιλεγμένο :attribute δεν είναι έγκυρο.",
     "integer"          => "Το πεδίο :attribute πρέπει να είναι ακέραιος.",
-    "ip"               => "Το πεδίο :attribute πρέπει να είναι αποδεκτή δ/νση IP.",
+    "ip"               => "Το πεδίο :attribute πρέπει να είναι μία έγκυρη διεύθυνση IP.",
     "max"              => [
         "numeric" => "Το πεδίο :attribute δεν μπορεί να είναι μεγαλύτερο από :max.",
         "file"    => "Το πεδίο :attribute δεν μπορεί να είναι μεγαλύτερό :max kilobytes.",
         "string"  => "Το πεδίο :attribute δεν μπορεί να είναι μεγαλύτερό :max χαρακτήρες.",
         "array"   => "Το πεδίο :attribute δεν μπορεί να έχει περισσότερα από :max αντικείμενα."
     ],
-    "mimes"            => "Το πεδίο :attribute πρέπει να είναι αρχείο με τύπο: :values.",
+    "mimes"            => "Το πεδίο :attribute πρέπει να είναι αρχείο τύπου: :values.",
     "min"              => [
         "numeric" => "Το πεδίο :attribute πρέπει να είναι τουλάχιστον :min.",
         "file"    => "Το πεδίο :attribute πρέπει να είναι τουλάχιστον :min kilobytes.",
@@ -70,9 +70,9 @@ return [
         "string"  => "Το πεδίο :attribute πρέπει να είναι :size χαρακτήρες.",
         "array"   => "Το πεδίο :attribute πρέπει να περιέχει :size αντικείμενα."
     ],
-    "timezone"         => "The :attribute must be a valid zone.",
     "unique"           => "Το πεδίο :attribute έχει ήδη εκχωρηθεί.",
-    "url"              => "Το πεδίο :attribute δεν είναι μία αποδεκτή δ/νση URL.",
+    "url"              => "Το πεδίο :attribute δεν είναι έγκυρη διεύθυνση URL.",
+    "timezone"         => "Το πεδίο :attribute πρέπει να είναι μία έγκυρη ζώνη ώρας.",
 
     /*
     |--------------------------------------------------------------------------

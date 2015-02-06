@@ -35,7 +35,7 @@ return array(
     "digits"           => ":attribute 必須是 :digits 位數字。",
     "digits_between"   => ":attribute 必須介乎 :min 至 :max 位數字。",
     "email"            => ":attribute 的格式無效。",
-    "exists"           => ":attribute 已經存在。",
+    "exists"           => ":attribute 不存在。",
     "image"            => ":attribute 必須是一張圖片。",
     "in"               => "所揀選的 :attribute 選項無效。",
     "integer"          => ":attribute 必須是一個整數。",

@@ -20,6 +20,6 @@ return [
 
     "sent"     => "Poslan vam je e-mail za povrat lozinke!",
 
-    "reset"    => "Password has been reset!",
+    "reset"    => "Lozinka je resetovana!",
 
 ];

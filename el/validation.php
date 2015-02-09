@@ -14,8 +14,8 @@ return [
     */
 
     "accepted"         => "Το πεδίο :attribute πρέπει να γίνει αποδεκτό.",
-    "active_url"       => "Το πεδίο :attribute δεν είναι αποδεκτή δ/νση URL.",
-    "after"            => "Το πεδίο :attribute μπορεί να είναι μία ημ/νία μετά από :date.",
+    "active_url"       => "Το πεδίο :attribute δεν είναι αποδεκτή διεύθυνση URL.",
+    "after"            => "Το πεδίο :attribute πρέπει να είναι μία ημερομηνία μετά από :date.",
     "alpha"            => "Το πεδίο :attribute μπορεί να περιέχει μόνο γράμματα.",
     "alpha_dash"       => "Το πεδίο :attribute μπορεί να περιέχει μόνο γράμματα, αριθμούς, και παύλες.",
     "alpha_num"        => "Το πεδίο :attribute μπορεί να περιέχει μόνο γράμματα και αριθμούς.",
@@ -29,14 +29,14 @@ return [
     ],
     "boolean"          => "Το πεδίο :attribute πρέπει να είναι true ή false.",
     "confirmed"        => "Η επιβεβαίωση του :attribute δεν ταιριάζει.",
-    "date"             => "Το πεδίο :attribute δεν αποτελεί αποδεκτή ημερομηνία.",
+    "date"             => "Το πεδίο :attribute δεν είναι έγκυρη ημερομηνία.",
     "date_format"      => "Το πεδίο :attribute δεν είναι της μορφής :format.",
     "different"        => "Το πεδίο :attribute και :other πρέπει να είναι διαφορετικά.",
     "digits"           => "Το πεδίο :attribute πρέπει να είναι :digits ψηφία.",
-    "digits_between"   => "Το πεδίο :attribute πρέπει να είναι between :min and :max ψηφία.",
-    "email"            => "Το πεδίο :attribute δεν είναι αποδεκτή δ/νση email.",
+    "digits_between"   => "Το πεδίο :attribute πρέπει να είναι μεταξύ :min και :max ψηφία.",
+    "email"            => "Το πεδίο :attribute πρέπει να είναι μία έγκυρη διεύθυνση email.",
+    "filled"           => "To πεδίο :attribute είναι απαραίτητο.",
     "exists"           => "Το επιλεγμένο :attribute δεν είναι έγκυρο.",
-    "filled"           => "Το πεδίο :attribute είναι απαραίτητο.",
     "image"            => "Το πεδίο :attribute πρέπει να είναι εικόνα.",
     "in"               => "Το επιλεγμένο :attribute δεν είναι έγκυρο.",
     "integer"          => "Το πεδίο :attribute πρέπει να είναι ακέραιος.",
@@ -60,9 +60,9 @@ return [
     "required"         => "Το πεδίο :attribute είναι απαραίτητο.",
     "required_if"      => "Το πεδίο :attribute είναι απαραίτητο όταν το πεδίο :other είναι :value.",
     "required_with"    => "Το πεδίο :attribute είναι απαραίτητο όταν υπάρχει :values.",
-    "required_with_all" => "The :attribute field is required when :values is present.",
+    "required_with_all" => "Το πεδίο :attribute είναι απαραίτητο όταν υπάρχουν :values.",
     "required_without" => "Το πεδίο :attribute είναι απαραίτητο όταν δεν υπάρχει :values.",
-    "required_without_all" => "The :attribute field is required when none of :values are present.",
+    "required_without_all" => "Το πεδίο :attribute είναι απαραίτητο όταν δεν υπάρχει κανένα από :values.",
     "same"             => "Τα πεδία :attribute και :other πρέπει να είναι ίδια.",
     "size"             => [
         "numeric" => "Το πεδίο :attribute πρέπει να είναι :size.",
@@ -70,9 +70,9 @@ return [
         "string"  => "Το πεδίο :attribute πρέπει να είναι :size χαρακτήρες.",
         "array"   => "Το πεδίο :attribute πρέπει να περιέχει :size αντικείμενα."
     ],
+    "timezone"         => "Το πεδίο :attribute πρέπει να είναι μία έγκυρη ζώνη ώρας.",
     "unique"           => "Το πεδίο :attribute έχει ήδη εκχωρηθεί.",
     "url"              => "Το πεδίο :attribute δεν είναι έγκυρη διεύθυνση URL.",
-    "timezone"         => "Το πεδίο :attribute πρέπει να είναι μία έγκυρη ζώνη ώρας.",
 
     /*
     |--------------------------------------------------------------------------

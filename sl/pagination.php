@@ -17,8 +17,4 @@ return [
 
 	'next'     => 'Naslednja &raquo;',
 
-    'first'    => 'Prvi',
-
-    'last'     => 'Zadnji',
-
 ];

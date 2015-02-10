@@ -20,5 +20,7 @@ return [
 	"token" => "Ponastavitveni žeton je neveljaven.",
 
 	"sent" => "Opomnik za geslo poslano!",
+	
+	"reset"    => "Geslo je bilo spremenjeno!",
 
 ];

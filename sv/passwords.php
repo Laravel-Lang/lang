@@ -17,7 +17,7 @@ return [
 
     "user"     => "Vi kan inte hitta en användare med den e-postadressen.",
 
-    "token"    => "Koden för lösnordsåterställning är ogiltig.",
+    "token"    => "Koden för lösenordsåterställning är ogiltig.",
 
     "sent"     => "Lösenordspåminnelse skickad!",
 

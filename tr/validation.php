@@ -39,7 +39,7 @@ return [
     "filled"                => ":attribute alanı gereklidir.",
     "image"                 => ":attribute alanı resim dosyası olmalıdır.",
     "in"                    => ":attribute değeri geçersiz.",
-    "integer"               => ":attribute rakam olmalıdır.",
+    "integer"               => ":attribute tamsayı olmalıdır.",
     "ip"                    => ":attribute geçerli bir IP adresi olmalıdır.",
     "max"                   => [
         "numeric" => ":attribute değeri :max değerinden küçük olmalıdır.",
@@ -55,7 +55,7 @@ return [
         "array"   => ":attribute en az :min nesneye sahip olmalıdır."
     ],
     "not_in"                => "Seçili :attribute geçersiz.",
-    "numeric"               => ":attribute rakam olmalıdır.",
+    "numeric"               => ":attribute sayı olmalıdır.",
     "regex"                 => ":attribute biçimi geçersiz.",
     "required"              => ":attribute alanı gereklidir.",
     "required_if"           => ":attribute alanı, :other :value değerine sahip olduğunda zorunludur.",

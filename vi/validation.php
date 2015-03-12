@@ -60,7 +60,7 @@ return [
     "required"         => "Trường :attribute không được bỏ trống.",
     "required_if"      => "Trường :attribute không được bỏ trống khi trường :other là :value.",
     "required_with"    => "Trường :attribute không được bỏ trống khi trường :values có giá trị.",
-    "required_with_all" => "The :attribute field is required when :values is present.",
+    "required_with_all" => "Trường :attribute không được bỏ trống khi :values có giá trị như hiện tại.",
     "required_without" => "Trường :attribute không được bỏ trống khi trường :values không có giá trị.",
     "required_without_all" => "Trường :attribute không được bỏ trống khi tất cả :values không có giá trị.",
     "same"             => "Trường :attribute và :other phải giống nhau.",

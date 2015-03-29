@@ -20,10 +20,10 @@ How add languages in my app ?
 
 ### Installation by Composer
 
- * For Laravel 4 : add `"caouecs/laravel-lang": "~1.0"` in your `composer.json` in "require" or run *composer require caouecs/laravel-lang*
- * For Laravel 5 : add `"caouecs/laravel-lang": "~2.0"` in your `composer.json` in "require"
+ * For Laravel 4 : add `"caouecs/laravel4-lang": "~1.0"` in your `composer.json` in "require" or run *composer require caouecs/laravel4-lang*
+ * For Laravel 5 : add `"caouecs/laravel4-lang": "~2.0"` in your `composer.json` in "require"
  * Do "composer update"
- * Files of languages are in "vendor/caouecs/laravel-lang" directory
+ * Files of languages are in "vendor/caouecs/laravel4-lang" directory
  * Copy the folders of languages that you want, in *app/lang* folder of your application Laravel
 
 ### Installation by Command

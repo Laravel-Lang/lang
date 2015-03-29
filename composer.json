@@ -1,6 +1,6 @@
 {
     "name": "caouecs/laravel4-lang",
-    "description": "Languages for Laravel4",
+    "description": "Languages for Laravel",
     "keywords": ["laravel", "languages", "lpm", "lang"],
     "license": "MIT",
     "authors": [
@@ -8,5 +8,8 @@
             "name": "caouecs",
             "email": "caouecs@caouecs.net"
         }
-    ]
+    ],
+    "suggest": {
+        "overtrue/laravel-lang": "Command to add languages in your project"
+    }
 }

@@ -1,6 +1,6 @@
 <?php
 
-return array(
+return [
 
     /*
     |--------------------------------------------------------------------------
@@ -21,12 +21,12 @@ return array(
     "alpha_num"        => ":attribute må kun bestå af bogstaver og tal.",
     "array"            => ":attribute skal være et array.",
     "before"           => ":attribute skal være en dato før :date.",
-    "between"          => array(
+    "between"          => [
         "numeric" => ":attribute skal være imellem :min - :max.",
         "file"    => ":attribute skal være imellem :min - :max kilobytes.",
         "string"  => ":attribute skal være imellem :min - :max tegn.",
         "array"   => ":attribute skal indeholde mellem :min - :max elementer."
-    ),
+    ],
     "boolean"          => ":attribute skal være sandt eller falsk",
     "confirmed"        => ":attribute er ikke det samme som bekræftelsesfeltet.",
     "date"             => ":attribute er ikke en gyldig dato.",
@@ -36,23 +36,24 @@ return array(
     "digits_between"   => ":attribute skal have mellem :min og :max cifre.",
     "email"            => ":attribute skal være en gyldig e-mailadresse.",
     "exists"           => "Det valgte :attribute er ugyldig.",
+    "filled"           => ":attribute skal udfyldes.",
     "image"            => ":attribute skal være et billede.",
     "in"               => "Det valgte :attribute er ugyldig.",
     "integer"          => ":attribute skal være et heltal.",
     "ip"               => ":attribute skal være en gyldig IP adresse.",
-    "max"              => array(
+    "max"              => [
         "numeric" => ":attribute skal være højest :max.",
         "file"    => ":attribute skal være højest :max kilobytes.",
         "string"  => ":attribute skal være højest :max tegn.",
         "array"   => ":attribute må ikke indeholde mere end :max elementer."
-    ),
+    ],
     "mimes"            => ":attribute skal være en fil af typen: :values.",
-    "min"              => array(
+    "min"              => [
         "numeric" => ":attribute skal være mindst :min.",
         "file"    => ":attribute skal være mindst :min kilobytes.",
         "string"  => ":attribute skal være mindst :min tegn.",
         "array"   => ":attribute skal indeholde mindst :min elementer."
-    ),
+    ],
     "not_in"           => "Den valgte :attribute er ugyldig.",
     "numeric"          => ":attribute skal være et tal.",
     "regex"            => ":attribute formatet er ugyldigt.",
@@ -63,12 +64,12 @@ return array(
     "required_without" => ":attribute skal udfyldes når :values ikke er udfyldt.",
     "required_without_all" => ":attribute skal udfyldes når ingen af :values er udfyldt.",
     "same"             => ":attribute og :other skal være ens.",
-    "size"             => array(
+    "size"             => [
         "numeric" => ":attribute skal være :size.",
         "file"    => ":attribute skal være :size kilobytes.",
         "string"  => ":attribute skal være :size tegn lang.",
         "array"   => ":attribute skal indeholde :size elementer."
-    ),
+    ],
     "timezone"         => "The :attribute must be a valid zone.",
     "unique"           => ":attribute er allerede taget.",
     "url"              => ":attribute formatet er ugyldigt.",
@@ -84,11 +85,11 @@ return array(
     |
     */
 
-    'custom' => array(
-        'attribute-name' => array(
+    'custom' => [
+        'attribute-name' => [
             'rule-name' => 'custom-message',
-        ),
-    ),
+        ],
+    ],
 
     /*
     |--------------------------------------------------------------------------
@@ -101,6 +102,6 @@ return array(
     |
     */
 
-    'attributes' => array(),
+    'attributes' => [],
 
-);
+];

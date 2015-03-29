@@ -1,6 +1,6 @@
 <?php
 
-return array(
+return [
 
     /*
     |--------------------------------------------------------------------------
@@ -21,12 +21,12 @@ return array(
     "alpha_num"        => "Полето :attribute може да содржи само букви и цифри.",
     "array"            => "Полето :attribute мора да биде низа.",
     "before"           => "Полето :attribute мора да биде датум пред :date.",
-    "between"          => array(
+    "between"          => [
         "numeric" => "Полето :attribute мора да биде помеѓу :min и :max.",
         "file"    => "Полето :attribute мора да биде помеѓу :min и :max килобајти.",
         "string"  => "Полето :attribute мора да биде помеѓу :min и :max карактери.",
         "array"   => "Полето :attribute мора да има помеѓу :min - :max карактери."
-    ),
+    ],
     "boolean"          => "The :attribute field must be true or false",
     "confirmed"        => "Полето :attribute не е потврдено.",
     "date"             => "Полето :attribute не е валиден датум.",
@@ -36,23 +36,24 @@ return array(
     "digits_between"   => "Полето :attribute треба да има помеѓу :min и :max цифри.",
     "email"            => "Полето :attribute не е во валиден формат.",
     "exists"           => "Избранато поле :attribute веќе постои.",
+    "filled"           => "Полето :attribute е задолжително.",
     "image"            => "Полето :attribute мора да биде слика.",
     "in"               => "Избраното поле :attribute е невалидно.",
     "integer"          => "Полето :attribute мора да биде цел број.",
     "ip"               => "Полето :attribute мора да биде IP адреса.",
-    "max"              => array(
+    "max"              => [
         "numeric" => "Полето :attribute мора да биде помало од :max.",
         "file"    => "Полето :attribute мора да биде помало од :max килобајти.",
         "string"  => "Полето :attribute мора да има помалку од :max карактери.",
         "array"   => "Полето :attribute не може да има повеќе од :max карактери."
-    ),
+    ],
     "mimes"            => "Полето :attribute мора да биде фајл од типот: :values.",
-    "min"              => array(
+    "min"              => [
         "numeric" => "Полето :attribute мора да биде минимум :min.",
         "file"    => "Полето :attribute мора да биде минимум :min килобајти.",
         "string"  => "Полето :attribute мора да има минимум :min карактери.",
         "array"   => "Полето :attribute мора да има минимум :min карактери."
-    ),
+    ],
     "not_in"           => "Избраното поле :attribute е невалидно.",
     "numeric"          => "Полето :attribute мора да биде број.",
     "regex"            => "Полето :attribute е во невалиден формат.",
@@ -63,12 +64,12 @@ return array(
     "required_without" => "Полето :attribute е задолжително, кога не е внесено :values.",
     "required_without_all" => "The :attribute field is required when none of :values are present.",
     "same"             => "Полињата :attribute и :other треба да совпаѓаат.",
-    "size"             => array(
+    "size"             => [
         "numeric" => "Полето :attribute мора да биде :size.",
         "file"    => "Полето :attribute мора да биде :size килобајти.",
         "string"  => "Полето :attribute мора да има :size карактери.",
         "array"   => "Полето :attribute мора да има :size карактери."
-    ),
+    ],
     "timezone"         => "The :attribute must be a valid zone.",
     "unique"           => "Полето :attribute веќе постои.",
     "url"              => "Полето :attribute не е во валиден формат.",
@@ -84,11 +85,11 @@ return array(
     |
     */
 
-    'custom' => array(
-        'attribute-name' => array(
+    'custom' => [
+        'attribute-name' => [
             'rule-name' => 'custom-message',
-        ),
-    ),
+        ],
+    ],
 
     /*
     |--------------------------------------------------------------------------
@@ -101,6 +102,6 @@ return array(
     |
     */
 
-    'attributes' => array(),
+    'attributes' => [],
 
-);
+];

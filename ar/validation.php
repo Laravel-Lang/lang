@@ -1,6 +1,6 @@
 <?php
 
-return array(
+return [
 
     /*
     |--------------------------------------------------------------------------
@@ -15,18 +15,18 @@ return array(
 
     "accepted"         => "يجب قبول الحقل :attribute",
     "active_url"       => "الحقل :attribute لا يُمثّل رابطًا صحيحًا",
-    "before"           => "يجب على الحقل :attribute أن يكون تاريخًا سابقًا للتاريخ :date.",
     "after"            => "يجب على الحقل :attribute أن يكون تاريخًا لاحقًا للتاريخ :date.",
     "alpha"            => "يجب أن لا يحتوي الحقل :attribute سوى على حروف",
     "alpha_dash"       => "يجب أن لا يحتوي الحقل :attribute على حروف، أرقام ومطّات.",
     "alpha_num"        => "يجب أن يحتوي :attribute على حروفٍ وأرقامٍ فقط",
     "array"            => "يجب أن يكون الحقل :attribute ًمصفوفة",
-    "between"          => array(
+    "before"           => "يجب على الحقل :attribute أن يكون تاريخًا سابقًا للتاريخ :date.",
+    "between"              => [
         "numeric" => "يجب أن تكون قيمة :attribute محصورة ما بين :min و :max.",
         "file"    => "يجب أن يكون حجم الملف :attribute محصورًا ما بين :min و :max كيلوبايت.",
         "string"  => "يجب أن يكون عدد حروف النّص :attribute محصورًا ما بين :min و :max",
         "array"   => "يجب أن يحتوي :attribute على عدد من العناصر محصورًا ما بين :min و :max"
-    ),
+    ],
     "boolean"          => "يجب أن تكون قيمة الحقل :attribute إما true أو false ",
     "confirmed"        => "حقل التأكيد غير مُطابق للحقل :attribute",
     "date"             => "الحقل :attribute ليس تاريخًا صحيحًا",
@@ -36,23 +36,24 @@ return array(
     "digits_between"   => "يجب أن يحتوي الحقل :attribute ما بين :min و :max رقمًا/أرقام ",
     "email"            => "يجب أن يكون :attribute عنوان بريد إلكتروني صحيح البُنية",
     "exists"           => "الحقل :attribute لاغٍ",
+    "filled"               => "الحقل :attribute إجباري",
     "image"            => "يجب أن يكون الحقل :attribute صورةً",
     "in"               => "الحقل :attribute لاغٍ",
     "integer"          => "يجب أن يكون الحقل :attribute عددًا صحيحًا",
     "ip"               => "يجب أن يكون الحقل :attribute عنوان IP ذي بُنية صحيحة",
-    "max"              => array(
+    "max"                  => [
         "numeric" => "يجب أن تكون قيمة الحقل :attribute أصغر من :max.",
         "file"    => "يجب أن يكون حجم الملف :attribute أصغر من :max كيلوبايت",
         "string"  => "يجب أن لا يتجاوز طول النّص :attribute :max حروفٍ/حرفًا",
         "array"   => "يجب أن لا يحتوي الحقل :attribute على أكثر من :max عناصر/عنصر."
-    ),
+    ],
     "mimes"            => "يجب أن يكون الحقل ملفًا من نوع : :values.",
-    "min"              => array(
+    "min"                  => [
         "numeric" => "يجب أن تكون قيمة الحقل :attribute أكبر من :min.",
         "file"    => "يجب أن يكون حجم الملف :attribute أكبر من :min كيلوبايت",
         "string"  => "يجب أن يكون طول النص :attribute أكبر :min حروفٍ/حرفًا",
         "array"   => "يجب أن يحتوي الحقل :attribute على الأقل على :min عُنصرًا/عناصر"
-    ),
+    ],
     "not_in"           => "الحقل :attribute لاغٍ",
     "numeric"          => "يجب على الحقل :attribute أن يكون رقمًا",
     "regex"            => "صيغة الحقل :attribute .غير صحيحة",
@@ -63,13 +64,13 @@ return array(
     "required_without" => "الحقل :attribute إذا لم يتوفّر :values.",
     "required_without_all" => "الحقل :attribute إذا لم يتوفّر :values.",
     "same"             => "يجب أن يتطابق الحقل :attribute مع :other",
-    "size"             => array(
+    "size"                 => [
         "numeric" => "يجب أن تكون قيمة :attribute أكبر من :size.",
         "file"    => "يجب أن يكون حجم الملف :attribute أكبر من :size كيلو بايت.",
         "string"  => "يجب أن يحتوي النص :attribute عن ما لا يقل عن  :size حرفٍ/أحرف.",
         "array"   => "يجب أن يحتوي الحقل :attribute عن ما لا يقل عن:min عنصرٍ/عناصر"
-    ),
-    "timezone"         => "يجب أن يكون :attribute نطاقًا زمنيًا صحيحًا",
+    ],
+     "timezone"         => "يجب أن يكون :attribute نطاقًا زمنيًا صحيحًا",
     "unique"           => "قيمة الحقل :attribute مُستخدمة من قبل",
     "url"              => "صيغة الرابط :attribute غير صحيحة",
 
@@ -83,11 +84,12 @@ return array(
     | specify a specific custom language line for a given attribute rule.
     |
     */
-    'custom' => array(
-        'attribute-name' => array(
+
+    'custom' => [
+        'attribute-name' => [
             'rule-name' => 'custom-message',
-        ),
-    ),
+        ],
+    ],
 
     /*
     |--------------------------------------------------------------------------
@@ -100,14 +102,15 @@ return array(
     |
     */
 
-    'attributes' => array(
-        "name" => "الاسم",
+    'attributes' => [
+       "name" => "الاسم",
         "username" => "اسم المُستخدم",
         "email" => "البريد الالكتروني",
         "first_name" => "الاسم",
         "last_name" => "اسم العائلة",
         "password" => "كلمة السر",
-        "city" => "المدينة",
+        "password_confirmation" => "تأكيد كلمة السر",
+         "city" => "المدينة",
         "country" => "الدولة",
         "address" => "العنوان",
         "phone" => "الهاتف",
@@ -129,6 +132,7 @@ return array(
         "time" => "الوقت",
         "available" => "مُتاح",
         "size" => "الحجم"
-    ),
+    ],
 
-);
+];
+

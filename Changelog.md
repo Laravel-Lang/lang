@@ -135,8 +135,8 @@
 
 8 July 2014
 
-* Update Chinese from Taiwan for validation.boolean by [Joy](https://github.com/joychao)
-* Update Traditional Chinese (Hong Kong) (zh-HK) and Chinese (zh-CN) for validation.boolean and validation.exists by [Joy](https://github.com/joychao)
+* Update Chinese from Taiwan for validation.boolean by [Carlos](https://github.com/overtrue)
+* Update Traditional Chinese (Hong Kong) (zh-HK) and Chinese (zh-CN) for validation.boolean and validation.exists by [Carlos](https://github.com/overtrue)
 
 27 June 2014
 
@@ -197,9 +197,9 @@
 
 07 April 2014
 
-* Update Chinese (zh-CN) by [Joy](https://github.com/joychao)
-* Update Chinese from Hong Kong (zh-HK) by [Joy](https://github.com/joychao)
-* Add Chinese from Taiwan (zh-TW) by [Joy](https://github.com/joychao)
+* Update Chinese (zh-CN) by [Carlos](https://github.com/overtrue)
+* Update Chinese from Hong Kong (zh-HK) by [Carlos](https://github.com/overtrue)
+* Add Chinese from Taiwan (zh-TW) by [Carlos](https://github.com/overtrue)
 * Update Japanese (ja) for validation by [Yuya Takahashi](https://github.com/takahashiyuya)
 
 04 April 2014

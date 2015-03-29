@@ -1,6 +1,6 @@
 <?php
 
-return array(
+return [
 
     /*
     |--------------------------------------------------------------------------
@@ -20,13 +20,13 @@ return array(
     "alpha_num"        => ":attribute podet cuntènnere isceti lìteras e nùmeros.",
     "array"            => ":attribute depet èssere un'array.",
     "before"           => ":attribute depet èssere una data chi benit prima de :date.",
-    "between"          => array(
+    "between"          => [
         "numeric" => ":attribute depet èssere intre :min - :max.",
         "file"    => ":attribute depet èssere intre :min - :max kilobytes.",
         "string"  => ":attribute depet èssere intre :min - :max caràteres.",
         "array"   => ":attribute depet èssere intre :min - :max elementos."
-    ),
-    "boolean"          => "Su campu :attribute depet èssere beru o farsu",
+    ],
+    "boolean"          => "The :attribute field must be true or false",
     "confirmed"        => "Su campu de cunfirma pro :attribute non torrat.",
     "date"             => ":attribute no est una data bàlida.",
     "date_format"      => ":attribute non torrat cun su formadu :format.",
@@ -35,23 +35,24 @@ return array(
     "digits_between"   => ":attribute depet èssere intre :min e :max tzifras.",
     "email"            => ":attribute no est bàlidu.",
     "exists"           => ":attribute seberadu/a no est bàlidu.",
+    "filled"           => ":attribute est pedidu.",
     "image"            => ":attribute depet èssere un'immàgine.",
     "in"               => ":attribute seberadu no est bàlidu.",
     "integer"          => ":attribute depet èssere intreu.",
     "ip"               => ":attribute depet èssere un'indiritzu IP bàlidu.",
-    "max"              => array(
+    "max"              => [
         "numeric" => ":attribute depet èssere prus piticu de :max.",
         "file"    => ":attribute non depet èssere prus mannu de :max kilobytes.",
         "string"  => ":attribute non podet cuntènnere prus de :max caràteres.",
         "array"   => ":attribute non podet tènnere prus de :max elementos."
-    ),
+    ],
     "mimes"            => ":attribute depet èssere de tipu: :values.",
-    "min"              => array(
+    "min"              => [
         "numeric" => ":attribute depet bàlere a su mancu :min.",
         "file"    => ":attribute depet èssere prus mannu de :min kilobytes.",
         "string"  => ":attribute depet cuntènnere a su mancu :min caràteres.",
         "array"   => ":attribute depet tènnere a su mancu :min elementos."
-    ),
+    ],
     "not_in"           => "Su balore seberadu pro :attribute no est bàlidu.",
     "numeric"          => ":attribute depet èssere unu nùmeru.",
     "regex"            => "Su formadu de su campu :attribute no est bàlidu.",
@@ -62,12 +63,12 @@ return array(
     "required_without" => "Su campu :attribute est pedidu cando :values no est presente.",
     "required_without_all" => "Su campu :attribute est pedidu cando perunu de :values sunt presentes.",
     "same"             => ":attribute e :other depent èssere uguales.",
-    "size"             => array(
+    "size"             => [
         "numeric" => ":attribute depet bàlere :size.",
         "file"    => ":attribute depet èssere mannu :size kilobytes.",
         "string"  => ":attribute depet cuntènnere :size caràteres.",
         "array"   => ":attribute depet cuntènnere :size elementos."
-    ),
+    ],
     "timezone"         => ":attribute depet èssere una zona bàlida.",
     "unique"           => ":attribute est istadu giai impreadu.",
     "url"              => ":attribute depet èssere un'URL.",
@@ -83,11 +84,11 @@ return array(
     |
     */
 
-    'custom' => array(
-        'attribute-name' => array(
+    'custom' => [
+        'attribute-name' => [
             'rule-name' => 'custom-message',
-        ),
-    ),
+        ],
+    ],
 
     /*
     |--------------------------------------------------------------------------
@@ -100,6 +101,6 @@ return array(
     |
     */
 
-    'attributes' => array(),
+    'attributes' => [],
 
-);
+];

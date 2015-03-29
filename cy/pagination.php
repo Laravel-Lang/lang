@@ -1,6 +1,6 @@
 <?php
 
-return array(
+return [
 
     /*
     |--------------------------------------------------------------------------
@@ -14,7 +14,6 @@ return array(
     */
 
     'previous' => '&laquo; Cynt',
-
     'next'     => 'Nesaf &raquo;',
 
-);
+];

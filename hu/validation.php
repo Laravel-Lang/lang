@@ -1,6 +1,6 @@
 <?php
 
-return array(
+return [
 
     /*
     |--------------------------------------------------------------------------
@@ -21,12 +21,12 @@ return array(
     "alpha_num"        => "A(z) :attribute kizárólag betűket és számokat tartalmazhat!",
     "array"            => "A(z) :attribute egy tömb kell, hogy legyen!",
     "before"           => "A(z) :attribute legalább :date előtti dátum kell, hogy legyen!",
-    "between"          => array(
+    "between"          => [
         "numeric" => "A(z) :attribute :min és :max közötti szám kell, hogy legyen!",
         "file"    => "A(z) :attribute mérete :min és :max kilobájt között kell, hogy legyen!",
         "string"  => "A(z) :attribute hossza :min és :max karakter között kell, hogy legyen!",
         "array"   => "A(z) :attribute :min - :max közötti elemet kell, hogy tartalmazzon!"
-    ),
+    ],
     "boolean"          => "A(z) :attribute mező csak true vagy false értéket kaphat!",
     "confirmed"        => "A(z) :attribute nem egyezik a megerősítéssel.",
     "date"             => "A(z) :attribute nem érvényes dátum.",
@@ -36,23 +36,24 @@ return array(
     "digits_between"   => "A(z) :attribute értéke :min és :max közötti számjegy lehet!",
     "email"            => "A(z) :attribute nem érvényes email formátum.",
     "exists"           => "A(z) :attribute már létezik.",
+    "filled"           => "A(z) :attribute megadása kötelező!",
     "image"            => "A(z) :attribute képfájl kell, hogy legyen!",
     "in"               => "A kiválasztott :attribute érvénytelen.",
     "integer"          => "A(z) :attribute értéke szám kell, hogy legyen!",
     "ip"               => "A(z) :attribute érvényes IP cím kell, hogy legyen!",
-    "max"              => array(
+    "max"              => [
         "numeric" => "A(z) :attribute értéke nem lehet nagyobb, mint :max!",
         "file"    => "A(z) :attribute mérete nem lehet több, mint :max kilobájt.",
         "string"  => "A(z) :attribute hossza nem lehet több, mint :max karakter.",
         "array"   => "A(z) :attribute legfeljebb :max elemet kell, hogy tartalmazzon."
-    ),
+    ],
     "mimes"            => "A(z) :attribute kizárólag az alábbi fájlformátumok egyike lehet: :values.",
-    "min"              => array(
+    "min"              => [
         "numeric" => "A(z) :attribute értéke nem lehet kisebb, mint :min!",
         "file"    => "A(z) :attribute mérete nem lehet kevesebb, mint :min kilobájt.",
         "string"  => "A(z) :attribute hossza nem lehet kevesebb, mint :min karakter.",
         "array"   => "A(z) :attribute legalább :min elemet kell, hogy tartalmazzon."
-    ),
+    ],
     "not_in"               => "A(z) :attribute értéke érvénytelen.",
     "numeric"              => "A(z) :attribute szám kell, hogy legyen!",
     "regex"                => "A(z) :attribute formátuma érvénytelen.",
@@ -63,12 +64,12 @@ return array(
     "required_without"     => "A(z) :attribute megadása kötelező, ha a(z) :values érték nem létezik.",
     "required_without_all" => "A(z) :attribute megadása kötelező, ha egyik :values érték sem létezik.",
     "same"                 => "A(z) :attribute és :other mezőknek egyezniük kell!",
-    "size"                 => array(
+    "size"                 => [
         "numeric" => "A(z) :attribute értéke :size kell, hogy legyen!",
         "file"    => "A(z) :attribute mérete :size kilobájt kell, hogy legyen!",
         "string"  => "A(z) :attribute hossza :size karakter kell, hogy legyen!",
         "array"   => "A(z) :attribute :size elemet kell tartalmazzon!"
-    ),
+    ],
     "timezone"         => "The :attribute must be a valid zone.",
     "unique"           => "A(z) :attribute már foglalt.",
     "url"              => "A(z) :attribute érvénytelen link.",
@@ -84,11 +85,11 @@ return array(
     |
     */
 
-    'custom' => array(
-        'attribute-name' => array(
+    'custom' => [
+        'attribute-name' => [
             'rule-name' => 'custom-message',
-        ),
-    ),
+        ],
+    ],
 
     /*
     |--------------------------------------------------------------------------
@@ -101,6 +102,6 @@ return array(
     |
     */
 
-    'attributes' => array(),
+    'attributes' => [],
 
-);
+];

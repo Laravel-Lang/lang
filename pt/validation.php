@@ -1,6 +1,6 @@
 <?php
 
-return array(
+return [
 
     /*
     |--------------------------------------------------------------------------
@@ -21,12 +21,12 @@ return array(
     "alpha_num"        => "O campo :attribute deverá conter apenas letras e números .",
     "array"            => "O campo :attribute deverá conter uma coleção de elementos.",
     "before"           => "O campo :attribute deverá conter uma data anterior a :date.",
-    "between"          => array(
+    "between"          => [
         "numeric" => "O campo :attribute deverá ter um valor entre :min - :max.",
         "file"    => "O campo :attribute deverá ter um tamanho entre :min - :max kilobytes.",
         "string"  => "O campo :attribute deverá conter entre :min - :max caracteres.",
         "array"   => "O campo :attribute deverá conter entre :min - :max elementos."
-    ),
+    ],
     "boolean"          => "O campo :attribute deverá conter o valor verdadeiro ou falso.",
     "confirmed"        => "A confirmação para o campo :attribute não coincide.",
     "date"             => "O campo :attribute não contém uma data válida.",
@@ -36,23 +36,24 @@ return array(
     "digits_between"   => "O campo :attribute deverá conter entre :min a :max caracteres.",
     "email"            => "O campo :attribute não contém um endereço de correio eletrónico válido.",
     "exists"           => "O valor selecionado para o campo :attribute é inválido.",
+    "filled"           => "É obrigatória a indicação de um valor para o campo :attribute.",
     "image"            => "O campo :attribute deverá conter uma imagem.",
     "in"               => "O campo :attribute não contém um valor válido.",
     "integer"          => "O campo :attribute deverá conter um número inteiro.",
     "ip"               => "O campo :attribute deverá conter um IP válido.",
-    "max"              => array(
+    "max"              => [
         "numeric" => "O campo :attribute não deverá conter um valor superior a :max.",
         "file"    => "O campo :attribute não deverá ter um tamanho superior a :max kilobytes.",
         "string"  => "O campo :attribute não deverá conter mais de :max caracteres.",
         "array"   => "O campo :attribute não deverá conter mais de :max elementos."
-    ),
+    ],
     "mimes"            => "O campo :attribute deverá conter um ficheiro do tipo: :values.",
-    "min"              => array(
+    "min"              => [
         "numeric" => "O campo :attribute deverá ter um valor superior ou igual a :min.",
         "file"    => "O campo :attribute deverá ter no mínimo :min kilobytes.",
         "string"  => "O campo :attribute deverá conter no mínimo :min caracteres.",
         "array"   => "O campo :attribute deverá conter no mínimo :min elementos."
-    ),
+    ],
     "not_in"           => "O campo :attribute contém um valor inválido.",
     "numeric"          => "O campo :attribute deverá conter um valor numérico.",
     "regex"            => "O formato do valor para o campo :attribute é inválido.",
@@ -63,12 +64,12 @@ return array(
     "required_without" => "É obrigatória a indicação de um valor para o campo :attribute quanto :values não está presente.",
     "required_without_all" => "É obrigatória a indicação de um valor para o campo :attribute quando nenhum dos :values está presente.",
     "same"             => "Os campos :attribute e :other deverão conter valores iguais.",
-    "size"             => array(
+    "size"             => [
         "numeric" => "O campo :attribute deverá conter o valor :size.",
         "file"    => "O campo :attribute deverá ter o tamanho de :size kilobytes.",
         "string"  => "O campo :attribute deverá conter :size caracteres.",
         "array"   => "O campo :attribute deverá conter :size elementos."
-    ),
+    ],
     "timezone"         => "O campo :attribute deverá ter um fuso horário válido.",
     "unique"           => "O valor indicado para o campo :attribute já se encontra registado.",
     "url"              => "O formato do URL indicado para o campo :attribute é inválido.",
@@ -84,11 +85,11 @@ return array(
     |
     */
 
-    'custom' => array(
-        'attribute-name' => array(
+    'custom' => [
+        'attribute-name' => [
             'rule-name' => 'custom-message',
-        ),
-    ),
+        ],
+    ],
 
     /*
     |--------------------------------------------------------------------------
@@ -101,6 +102,6 @@ return array(
     |
     */
 
-    'attributes' => array(),
+    'attributes' => [],
 
-);
+];

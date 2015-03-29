@@ -1,6 +1,6 @@
 <?php
 
-return array(
+return [
 
     /*
     |--------------------------------------------------------------------------
@@ -20,12 +20,12 @@ return array(
     "alpha_num"        => "Câmpul :attribute poate conține numai litere și numere.",
     "array"            => "Câmpul :attribute trebuie să fie un array.",
     "before"           => "Câmpul :attribute trebuie să fie o dată înainte de :date.",
-    "between"          => array(
+    "between"          => [
         "numeric" => "Câmpul :attribute trebuie să fie între :min și :max.",
         "file"    => "Câmpul :attribute trebuie să fie între :min și :max kilobiți.",
         "string"  => "Câmpul :attribute trebuie să fie între :min și :max caractere.",
         "array"   => "Câmpul :attribute trebuie să aibă :min - :max elemente."
-    ),
+    ],
     "boolean"          => "The :attribute field must be true or false",
     "confirmed"        => "Confirmarea :attribute nu se potrivește.",
     "date"             => "Câmpul :attribute nu este o dată validă.",
@@ -35,23 +35,24 @@ return array(
     "digits_between"   => "Câmpul :attribute trebuie să fie între :min și :max cifre.",
     "email"            => "Formatul câmpului :attribute este invalid.",
     "exists"           => "Câmpul :attribute selectat este invalid.",
+    "filled"           => "Câmpul :attribute este obligatoriu.",
     "image"            => "Câmpul :attribute trebuie să fie o imagine.",
     "in"               => "Câmpul :attribute selectat este invalid.",
     "integer"          => "Câmpul :attribute trebuie să fie un număr întreg.",
     "ip"               => "Câmpul :attribute trebuie să fie o adresă IP validă.",
-    "max"              => array(
+    "max"              => [
         "numeric" => "Câmpul :attribute trebuie să fie mai mic de :max.",
         "file"    => "Câmpul :attribute trebuie să fie mai mic de :max kilobiți.",
         "string"  => "Câmpul :attribute trebuie să fie mai mic de :max caractere.",
         "array"   => "Câmpul :attribute nu poate avea mai mult de :max elemente."
-    ),
+    ],
     "mimes"            => "Câmpul :attribute trebuie să fie un fișier de tipul: :values.",
-    "min"              => array(
+    "min"              => [
         "numeric" => "Câmpul :attribute trebuie să fie cel puțin :min.",
         "file"    => "Câmpul :attribute trebuie să aibă cel puțin :min kilobiți.",
         "string"  => "Câmpul :attribute trebuie să aibă cel puțin :min caractere.",
         "array"   => "Câmpul :attribute trebuie să aibă cel puțin :min elemente."
-    ),
+    ],
     "not_in"           => "Câmpul :attribute selectat este invalid.",
     "numeric"          => "Câmpul :attribute trebuie să fie un număr.",
     "regex"            => "Formatul câmpului :attribute este invalid.",
@@ -62,12 +63,12 @@ return array(
     "required_without" => "Câmpul :attribute este necesar atunci când :values nu este prezent.",
     "required_without_all" => "Câmpul :attribute este necesar atunci când nici una din valorile :values ne este prezentă.",
     "same"             => "Câmpul :attribute și :other trebuie să fie identice.",
-    "size"             => array(
+    "size"             => [
         "numeric" => "Câmpul :attribute trebuie să fie :size.",
         "file"    => "Câmpul :attribute trebuie să aibă :size kilobyte.",
         "string"  => "Câmpul :attribute trebuie să aibă :size caractere.",
         "array"   => "Câmpul :attribute trebuie sa conțină :size elemente."
-    ),
+    ],
     "timezone"         => "The :attribute must be a valid zone.",
     "unique"           => "Câmpul :attribute a fost deja folosit.",
     "url"              => "Câmpul :attribute nu este într-un format valid.",
@@ -83,11 +84,11 @@ return array(
     |
     */
 
-    'custom' => array(
-        'attribute-name' => array(
+    'custom' => [
+        'attribute-name' => [
             'rule-name' => 'custom-message',
-        ),
-    ),
+        ],
+    ],
 
     /*
     |--------------------------------------------------------------------------
@@ -100,6 +101,6 @@ return array(
     |
     */
 
-    'attributes' => array(),
+    'attributes' => [],
 
-);
+];

@@ -1,6 +1,6 @@
 <?php
 
-return array(
+return [
 
 	/*
 	|--------------------------------------------------------------------------
@@ -21,12 +21,12 @@ return array(
 	"alpha_num"            => ":attribute lahko vsebuje samo črke in številke.",
 	"array"                => ":attribute mora biti polje.",
 	"before"               => ":attribute mora biti pred datumom :date.",
-	"between"              => array(
+	"between"              => [
 		"numeric" => ":attribute mora biti med :min in :max.",
 		"file"    => ":attribute mora biti med :min in :max kilobajti.",
 		"string"  => ":attribute mora biti med :min in :max znaki.",
 		"array"   => ":attribute mora imeti med :min in :max elementov.",
-	),
+	],
 	"boolean"              => ":attribute polje mora biti 1 ali 0",
 	"confirmed"            => ":attribute potrditev se ne ujema.",
 	"date"                 => ":attribute ni veljaven datum.",
@@ -40,19 +40,19 @@ return array(
 	"in"                   => "izbran :attribute je neveljaven.",
 	"integer"              => ":attribute mora biti število.",
 	"ip"                   => ":attribute mora biti veljaven IP naslov.",
-	"max"                  => array(
+	"max"                  => [
 		"numeric" => ":attribute ne sme biti večje od :max.",
 		"file"    => ":attribute ne sme biti večje :max kilobajtov.",
 		"string"  => ":attribute ne sme biti večje :max znakov.",
 		"array"   => ":attribute ne smejo imeti več kot :max elementov.",
-	),
+	],
 	"mimes"                => ":attribute mora biti datoteka tipa: :values.",
-	"min"                  => array(
+	"min"                  => [
 		"numeric" => ":attribute mora biti vsaj dolžine :min.",
 		"file"    => ":attribute mora imeti vsaj :min kilobajtov.",
 		"string"  => ":attribute mora imeti vsaj :min znakov.",
 		"array"   => ":attribute mora imeti vsaj :min elementov.",
-	),
+	],
 	"not_in"               => "izbran :attribute je neveljaven.",
 	"numeric"              => ":attribute mora biti število.",
 	"regex"                => "Format polja :attribute je neveljaven.",
@@ -63,13 +63,12 @@ return array(
 	"required_without"     => "Polje :attribute je zahtevano, ko :values ni prisoten.",
 	"required_without_all" => "Polje :attribute je zahtevano, ko nobenih od :values niso prisotni.",
 	"same"                 => "Polje :attribute in :other se morata ujemati.",
-	"size"                 => array(
+	"size"                 => [
 		"numeric" => ":attribute mora biti :size.",
 		"file"    => ":attribute mora biti :size kilobajtov.",
 		"string"  => ":attribute mora biti :size znakov.",
 		"array"   => ":attribute mora vsebovati :size elementov.",
-	),
-	"timezone"         	   => ":attribute mora biti v veljavnem časovnem območju.",
+	],
 	"unique"               => ":attribute je že zaseden.",
 	"url"                  => ":attribute format je neveljaven.",
 
@@ -84,11 +83,11 @@ return array(
 	|
 	*/
 
-	'custom' => array(
-		'attribute-name' => array(
+	'custom' => [
+		'attribute-name' => [
 			'rule-name' => 'custom-message',
-		),
-	),
+		],
+	],
 
 	/*
 	|--------------------------------------------------------------------------
@@ -101,6 +100,6 @@ return array(
 	|
 	*/
 
-	'attributes' => array(),
+	'attributes' => [],
 
-);
+];

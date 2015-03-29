@@ -1,6 +1,6 @@
 <?php
 
-return array(
+return [
 
     /*
     |--------------------------------------------------------------------------
@@ -21,13 +21,13 @@ return array(
     "alpha_num"        => "Полето :attribute трябва да съдържа само букви и цифри.",
     "array"            => "Полето :attribute трябва да бъде масив.",
     "before"           => "Полето :attribute трябва да бъде дата преди :date.",
-    "between"          => array(
+    "between"          => [
         "numeric" => "Полето :attribute трябва да бъде между :min и :max.",
         "file"    => "Полето :attribute трябва да бъде между :min и :max килобайта.",
         "string"  => "Полето :attribute трябва да бъде между :min и :max знака.",
         "array"   => "Полето :attribute трябва да има между :min - :max елемента."
-    ),
-    "boolean"          => "Полето :attribute трябва да съдържа Да или Не",
+    ],
+    "boolean"          => "The :attribute field must be true or false",
     "confirmed"        => "Полето :attribute не е потвърдено.",
     "date"             => "Полето :attribute не е валидна дата.",
     "date_format"      => "Полето :attribute не е във формат :format.",
@@ -36,40 +36,41 @@ return array(
     "digits_between"   => "Полето :attribute трябва да има между :min и :max цифри.",
     "email"            => "Полето :attribute е в невалиден формат.",
     "exists"           => "Избранато поле :attribute вече съществува.",
+    "filled"           => "Полето :attribute е задължително.",
     "image"            => "Полето :attribute трябва да бъде изображение.",
     "in"               => "Избраното поле :attribute е невалидно.",
     "integer"          => "Полето :attribute трябва да бъде цяло число.",
     "ip"               => "Полето :attribute трябва да бъде IP адрес.",
-    "max"              => array(
+    "max"              => [
         "numeric" => "Полето :attribute трябва да бъде по-малко от :max.",
         "file"    => "Полето :attribute трябва да бъде по-малко от :max килобайта.",
         "string"  => "Полето :attribute трябва да бъде по-малко от :max знака.",
         "array"   => "Полето :attribute трябва да има по-малко от :max елемента."
-    ),
+    ],
     "mimes"            => "Полето :attribute трябва да бъде файл от тип: :values.",
-    "min"              => array(
+    "min"              => [
         "numeric" => "Полето :attribute трябва да бъде минимум :min.",
         "file"    => "Полето :attribute трябва да бъде минимум :min килобайта.",
         "string"  => "Полето :attribute трябва да бъде минимум :min знака.",
         "array"   => "Полето :attribute трябва има минимум :min елемента."
-    ),
+    ],
     "not_in"           => "Избраното поле :attribute е невалидно.",
     "numeric"          => "Полето :attribute трябва да бъде число.",
     "regex"            => "Полето :attribute е в невалиден формат.",
     "required"         => "Полето :attribute е задължително.",
     "required_if"      => "Полето :attribute се изисква, когато :other е :value.",
     "required_with"    => "Полето :attribute се изисква, когато :values има стойност.",
-    "required_with_all" => "Полето :attribute е задължително, когато :values имат стойност.",
+    "required_with_all" => "The :attribute field is required when :values is present.",
     "required_without" => "Полето :attribute се изисква, когато :values няма стойност.",
-    "required_without_all" => "Полето :attribute се изисква, когато никое от полетата :values няма стойност.",
+    "required_without_all" => "The :attribute field is required when none of :values are present.",
     "same"             => "Полетата :attribute и :other трябва да съвпадат.",
-    "size"             => array(
+    "size"             => [
         "numeric" => "Полето :attribute трябва да бъде :size.",
         "file"    => "Полето :attribute трябва да бъде :size килобайта.",
         "string"  => "Полето :attribute трябва да бъде :size знака.",
         "array"   => "Полето :attribute трябва да има :size елемента."
-    ),
-    "timezone"         => "Полето :attribute трябва да съдържа валидна часова зона.",
+    ],
+    "timezone"         => "The :attribute must be a valid zone.",
     "unique"           => "Полето :attribute вече съществува.",
     "url"              => "Полето :attribute е в невалиден формат.",
 
@@ -84,11 +85,11 @@ return array(
     |
     */
 
-    'custom' => array(
-        'attribute-name' => array(
+    'custom' => [
+        'attribute-name' => [
             'rule-name' => 'custom-message',
-        ),
-    ),
+        ],
+    ],
 
     /*
     |--------------------------------------------------------------------------
@@ -101,7 +102,7 @@ return array(
     |
     */
 
-    'attributes' => array(
+    'attributes' => [
             "name" => "Име",
             "username" => "Потребител",
             "email" => "E-mail",
@@ -133,6 +134,6 @@ return array(
             "recaptcha_response_field" => "Рекапча",
             "subject" => "Заглавие",
             "message" => "Съобщение"
-    ),
+    ],
 
-);
+];

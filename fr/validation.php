@@ -23,11 +23,11 @@ return [
     "before"               => "Le champ :attribute doit être une date antérieure au :date.",
     "between"              => [
         "numeric" => "La valeur de :attribute doit être comprise entre :min et :max.",
-        "file"    => "Le fichier :attribute doit avoir une taille entre :min et :max kilobytes.",
+        "file"    => "Le fichier :attribute doit avoir une taille entre :min et :max kilooctets.",
         "string"  => "Le texte :attribute doit avoir entre :min et :max caractères.",
-        "array"   => "Le champ :attribute doit avoir entre :min et :max éléments."
+        "array"   => "Le tableau :attribute doit avoir entre :min et :max éléments."
     ],
-    "boolean"              => "Le champ :attribute doit true ou false.",
+    "boolean"              => "Le champ :attribute doit être vrai ou faux.",
     "confirmed"            => "Le champ de confirmation :attribute ne correspond pas.",
     "date"                 => "Le champ :attribute n'est pas une date valide.",
     "date_format"          => "Le champ :attribute ne correspond pas au format :format.",
@@ -43,16 +43,16 @@ return [
     "ip"                   => "Le champ :attribute doit être une adresse IP valide.",
     "max"                  => [
         "numeric" => "La valeur de :attribute ne peut être supérieure à :max.",
-        "file"    => "Le fichier :attribute ne peut être plus gros que :max kilobytes.",
+        "file"    => "Le fichier :attribute ne peut être plus gros que :max kilooctets.",
         "string"  => "Le texte de :attribute ne peut contenir plus de :max caractères.",
-        "array"   => "Le champ :attribute ne peut avoir plus de :max éléments.",
+        "array"   => "Le tableau :attribute ne peut avoir plus de :max éléments.",
     ],
     "mimes"                => "Le champ :attribute doit être un fichier de type : :values.",
     "min"                  => [
         "numeric" => "La valeur de :attribute doit être supérieure à :min.",
         "file"    => "Le fichier :attribute doit être plus gros que :min kilobytes.",
         "string"  => "Le texte :attribute doit contenir au moins :min caractères.",
-        "array"   => "Le champ :attribute doit avoir au moins :min éléments."
+        "array"   => "Le tableau :attribute doit avoir au moins :min éléments."
     ],
     "not_in"               => "Le champ :attribute sélectionné n'est pas valide.",
     "numeric"              => "Le champ :attribute doit contenir un nombre.",
@@ -66,11 +66,11 @@ return [
     "same"                 => "Les champs :attribute et :other doivent être identiques.",
     "size"                 => [
         "numeric" => "La valeur de :attribute doit être :size.",
-        "file"    => "La taille du fichier de :attribute doit être de :size kilobytes.",
+        "file"    => "La taille du fichier de :attribute doit être de :size kilooctets.",
         "string"  => "Le texte de :attribute doit contenir :size caractères.",
-        "array"   => "Le champ :attribute doit contenir :size éléments."
+        "array"   => "Le tableau :attribute doit contenir :size éléments."
     ],
-    "timezone"             => "Le champ :attribute doit être une zone valide.",
+    "timezone"             => "Le champ :attribute doit être un fuseau horaire valide.",
     "unique"               => "La valeur du champ :attribute est déjà utilisée.",
     "url"                  => "Le format de l'URL de :attribute n'est pas valide.",
 

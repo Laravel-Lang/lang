@@ -27,7 +27,7 @@ return [
         "string"  => ":attribute باید بین :min و :max کاراکتر باشد.",
         "array"   => ":attribute باید بین :min و :max آیتم باشد.",
     ],
-    "boolean"          => "The :attribute field must be true or false",
+    "boolean"          => "فیلد :attribute فقط میتواند صحیح و یا غلط باشد",
     "confirmed"        => ":attribute با تاییدیه مطابقت ندارد.",
     "date"             => ":attribute یک تاریخ معتبر نیست.",
     "date_format"      => ":attribute با الگوی :format مطاقبت ندارد.",
@@ -70,7 +70,7 @@ return [
         "string"  => ":attribute باید برابر با :size کاراکتر باشد.",
         "array"   => ":attribute باسد شامل :size آیتم باشد.",
     ],
-    "timezone"         => "The :attribute must be a valid zone.",
+    "timezone"         => "فیلد :attribute باید یک منطقه صحیح باشد.",
     "unique"           => ":attribute قبلا انتخاب شده است.",
     "url"              => "فرمت آدرس :attribute اشتباه است.",
 

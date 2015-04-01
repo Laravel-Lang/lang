@@ -21,6 +21,6 @@ return array(
 
     "sent" => "یاد آور رمز عبور ارسال شد.",
 
-    "reset"    => "Password has been reset!",
+    "reset" => "بازگردانی کلمه عبور انجام شد",
 
 );

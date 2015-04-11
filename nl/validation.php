@@ -25,7 +25,7 @@ return [
         "numeric" => ":attribute moet tussen :min en :max zijn.",
         "file"    => ":attribute moet tussen :min en :max kilobytes zijn.",
         "string"  => ":attribute moet tussen :min en :max karakters zijn.",
-        "array"   => ":attribute moet tussen :min en :max items bevatten."
+        "array"   => ":attribute moet tussen :min en :max items bevatten.",
     ],
     "boolean"        => ":attribute moet true of false zijn.",
     "confirmed"      => ":attribute bevestiging komt niet overeen.",
@@ -45,14 +45,14 @@ return [
         "numeric" => ":attribute moet minder dan :max zijn.",
         "file"    => ":attribute moet minder dan :max kilobytes zijn.",
         "string"  => ":attribute moet minder dan :max karakters zijn.",
-        "array"   => ":attribute mag maximaal :max items bevatten."
+        "array"   => ":attribute mag maximaal :max items bevatten.",
     ],
     "mimes"          => ":attribute moet een bestand zijn van het bestandstype :values.",
     "min"            => [
         "numeric" => ":attribute moet minimaal :min zijn.",
         "file"    => ":attribute moet minimaal :min kilobytes zijn.",
         "string"  => ":attribute moet minimaal :min karakters zijn.",
-        "array"   => ":attribute moet minimaal :min items bevatten."
+        "array"   => ":attribute moet minimaal :min items bevatten.",
     ],
     "not_in"         => "Het formaat van :attribute is ongeldig.",
     "numeric"        => ":attribute moet een nummer zijn.",
@@ -68,7 +68,7 @@ return [
         "numeric" => ":attribute moet :size zijn.",
         "file"    => ":attribute moet :size kilobyte zijn.",
         "string"  => ":attribute moet :size characters zijn.",
-        "array"   => ":attribute moet :size items bevatten."
+        "array"   => ":attribute moet :size items bevatten.",
     ],
     "timezone"       => "Het :attribute moet een geldige zone zijn.",
     "unique"         => ":attribute is al in gebruik.",

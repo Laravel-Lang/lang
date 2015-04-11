@@ -24,7 +24,7 @@ return [
         "numeric" => ":attribute deve trovarsi tra :min - :max.",
         "file"    => ":attribute deve trovarsi tra :min - :max kilobytes.",
         "string"  => ":attribute deve trovarsi tra :min - :max caratteri.",
-        "array"   => ":attribute deve avere tra :min - :max elementi."
+        "array"   => ":attribute deve avere tra :min - :max elementi.",
     ],
     "boolean"          => "Il campo :attribute deve essere vero o falso.",
     "confirmed"        => "Il campo di conferma per :attribute non coincide.",
@@ -44,14 +44,14 @@ return [
         "numeric" => ":attribute deve essere minore di :max.",
         "file"    => ":attribute non deve essere più grande di :max kilobytes.",
         "string"  => ":attribute non può contenere più di :max caratteri.",
-        "array"   => ":attribute non può avere più di :max elementi."
+        "array"   => ":attribute non può avere più di :max elementi.",
     ],
     "mimes"            => ":attribute deve essere del tipo: :values.",
     "min"              => [
         "numeric" => ":attribute deve valere almeno :min.",
         "file"    => ":attribute deve essere più grande di :min kilobytes.",
         "string"  => ":attribute deve contenere almeno :min caratteri.",
-        "array"   => ":attribute deve avere almeno :min elementi."
+        "array"   => ":attribute deve avere almeno :min elementi.",
     ],
     "not_in"           => "Il valore selezionato per :attribute non è valido.",
     "numeric"          => ":attribute deve essere un numero.",
@@ -67,7 +67,7 @@ return [
         "numeric" => ":attribute deve valere :size.",
         "file"    => ":attribute deve essere grande :size kilobytes.",
         "string"  => ":attribute deve contenere :size caratteri.",
-        "array"   => ":attribute deve contenere :size elementi."
+        "array"   => ":attribute deve contenere :size elementi.",
     ],
     "timezone"         => ":attribute deve essere una zona valida.",
     "unique"           => ":attribute è stato già utilizzato.",

@@ -25,7 +25,7 @@ return [
         "numeric" => ":attribute skal være mellom :min - :max.",
         "file"    => ":attribute skal være mellom :min - :max kilobytes.",
         "string"  => ":attribute skal være mellom :min - :max tegn.",
-        "array"   => ":attribute må ha mellom :min - :max elementer."
+        "array"   => ":attribute må ha mellom :min - :max elementer.",
     ],
     "boolean"          => "The :attribute field must be true or false",
     "confirmed"        => ":attribute er ikke likt bekreftelsesfeltet.",
@@ -45,14 +45,14 @@ return [
         "numeric" => ":attribute skal være mindre enn :max.",
         "file"    => ":attribute skal være mindre enn :max kilobytes.",
         "string"  => ":attribute skal være kortere enn :max tegn.",
-        "array"   => ":attribute skal ikke ha fler enn :max elementer."
+        "array"   => ":attribute skal ikke ha fler enn :max elementer.",
     ],
     "mimes"            => ":attribute skal være en fil av typen: :values.",
     "min"              => [
         "numeric" => ":attribute skal være større enn :min.",
         "file"    => ":attribute skal være større enn :min kilobytes.",
         "string"  => ":attribute skal være lengre enn :min tegn.",
-        "array"   => ":attribute må være minst :min elementer."
+        "array"   => ":attribute må være minst :min elementer.",
     ],
     "not_in"           => "Den valgte :attribute er ugyldig.",
     "numeric"          => ":attribute skal være et tall.",
@@ -68,7 +68,7 @@ return [
         "numeric" => ":attribute må være :size.",
         "file"    => ":attribute må være :size kilobytes.",
         "string"  => ":attribute må være :size tegn lang.",
-        "array"   => ":attribute må inneholde :size elementer."
+        "array"   => ":attribute må inneholde :size elementer.",
     ],
     "timezone"         => "The :attribute must be a valid zone.",
     "unique"           => ":attribute er allerede brukt.",

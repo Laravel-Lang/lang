@@ -25,7 +25,7 @@ return [
         "numeric" => "La valeur de :attribute doit être comprise entre :min et :max.",
         "file"    => "Le fichier :attribute doit avoir une taille entre :min et :max kilo-octets.",
         "string"  => "Le texte :attribute doit avoir entre :min et :max caractères.",
-        "array"   => "Le tableau :attribute doit avoir entre :min et :max éléments."
+        "array"   => "Le tableau :attribute doit avoir entre :min et :max éléments.",
     ],
     "boolean"              => "Le champ :attribute doit être vrai ou faux.",
     "confirmed"            => "Le champ de confirmation :attribute ne correspond pas.",
@@ -52,7 +52,7 @@ return [
         "numeric" => "La valeur de :attribute doit être supérieure à :min.",
         "file"    => "Le fichier :attribute doit être plus gros que :min kilo-octets.",
         "string"  => "Le texte :attribute doit contenir au moins :min caractères.",
-        "array"   => "Le tableau :attribute doit avoir au moins :min éléments."
+        "array"   => "Le tableau :attribute doit avoir au moins :min éléments.",
     ],
     "not_in"               => "Le champ :attribute sélectionné n'est pas valide.",
     "numeric"              => "Le champ :attribute doit contenir un nombre.",
@@ -68,7 +68,7 @@ return [
         "numeric" => "La valeur de :attribute doit être :size.",
         "file"    => "La taille du fichier de :attribute doit être de :size kilo-octets.",
         "string"  => "Le texte de :attribute doit contenir :size caractères.",
-        "array"   => "Le tableau :attribute doit contenir :size éléments."
+        "array"   => "Le tableau :attribute doit contenir :size éléments.",
     ],
     "timezone"             => "Le champ :attribute doit être un fuseau horaire valide.",
     "unique"               => "La valeur du champ :attribute est déjà utilisée.",
@@ -131,7 +131,7 @@ return [
         "date" => "Date",
         "time" => "Heure",
         "available" => "Disponible",
-        "size" => "Taille"
+        "size" => "Taille",
     ],
 
 ];

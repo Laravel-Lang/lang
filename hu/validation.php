@@ -25,7 +25,7 @@ return [
         "numeric" => "A(z) :attribute :min és :max közötti szám kell, hogy legyen!",
         "file"    => "A(z) :attribute mérete :min és :max kilobájt között kell, hogy legyen!",
         "string"  => "A(z) :attribute hossza :min és :max karakter között kell, hogy legyen!",
-        "array"   => "A(z) :attribute :min - :max közötti elemet kell, hogy tartalmazzon!"
+        "array"   => "A(z) :attribute :min - :max közötti elemet kell, hogy tartalmazzon!",
     ],
     "boolean"          => "A(z) :attribute mező csak true vagy false értéket kaphat!",
     "confirmed"        => "A(z) :attribute nem egyezik a megerősítéssel.",
@@ -45,14 +45,14 @@ return [
         "numeric" => "A(z) :attribute értéke nem lehet nagyobb, mint :max!",
         "file"    => "A(z) :attribute mérete nem lehet több, mint :max kilobájt.",
         "string"  => "A(z) :attribute hossza nem lehet több, mint :max karakter.",
-        "array"   => "A(z) :attribute legfeljebb :max elemet kell, hogy tartalmazzon."
+        "array"   => "A(z) :attribute legfeljebb :max elemet kell, hogy tartalmazzon.",
     ],
     "mimes"            => "A(z) :attribute kizárólag az alábbi fájlformátumok egyike lehet: :values.",
     "min"              => [
         "numeric" => "A(z) :attribute értéke nem lehet kisebb, mint :min!",
         "file"    => "A(z) :attribute mérete nem lehet kevesebb, mint :min kilobájt.",
         "string"  => "A(z) :attribute hossza nem lehet kevesebb, mint :min karakter.",
-        "array"   => "A(z) :attribute legalább :min elemet kell, hogy tartalmazzon."
+        "array"   => "A(z) :attribute legalább :min elemet kell, hogy tartalmazzon.",
     ],
     "not_in"               => "A(z) :attribute értéke érvénytelen.",
     "numeric"              => "A(z) :attribute szám kell, hogy legyen!",
@@ -68,7 +68,7 @@ return [
         "numeric" => "A(z) :attribute értéke :size kell, hogy legyen!",
         "file"    => "A(z) :attribute mérete :size kilobájt kell, hogy legyen!",
         "string"  => "A(z) :attribute hossza :size karakter kell, hogy legyen!",
-        "array"   => "A(z) :attribute :size elemet kell tartalmazzon!"
+        "array"   => "A(z) :attribute :size elemet kell tartalmazzon!",
     ],
     "timezone"         => "The :attribute must be a valid zone.",
     "unique"           => "A(z) :attribute már foglalt.",

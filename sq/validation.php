@@ -24,7 +24,7 @@ return [
         "numeric" => ":attribute duhet të jetë në mes :min - :max.",
         "file"    => ":attribute duhet të jetë në mes :min - :max kilobajtëve.",
         "string"  => ":attribute duhet të jetë në mes :min - :max karaktereve.",
-        "array"   => "The :attribute must have between :min - :max items."
+        "array"   => "The :attribute must have between :min - :max items.",
     ],
     "boolean"          => "The :attribute field must be true or false",
     "confirmed"        => ":attribute konfirmimi nuk përputhet.",
@@ -44,14 +44,14 @@ return [
         "numeric" => ":attribute duhet të jetë më e vogël se :max.",
         "file"    => ":attribute duhet të jetë më e vogël se :max kilobytes.",
         "string"  => ":attribute duhet të jetë më e vogël se :max characters.",
-        "array"   => "The :attribute may not have more than :max items."
+        "array"   => "The :attribute may not have more than :max items.",
     ],
     "mimes"            => ":attribute duhet të jetë një fajll i tipit: :values.",
     "min"              => [
         "numeric" => ":attribute duhet të jetë së paku :min.",
         "file"    => ":attribute duhet të jetë së paku :min kilobajt.",
         "string"  => ":attribute duhet të jetë së paku :min karaktere.",
-        "array"   => "The :attribute must have at least :min items."
+        "array"   => "The :attribute must have at least :min items.",
     ],
     "not_in"           => ":attribute e përzgjedhur është jo valid.",
     "numeric"          => ":attribute duhet të jetë numër.",
@@ -67,7 +67,7 @@ return [
         "numeric" => ":attribute duhet të jetë :size.",
         "file"    => ":attribute duhet të jetë :size kilobajt.",
         "string"  => ":attribute duhet të jetë :size karaktere.",
-        "array"   => "The :attribute must contain :size items."
+        "array"   => "The :attribute must contain :size items.",
     ],
     "timezone"         => "The :attribute must be a valid zone.",
     "unique"           => ":attribute tashmë është marrë.",

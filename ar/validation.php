@@ -25,7 +25,7 @@ return [
         "numeric" => "يجب أن تكون قيمة :attribute محصورة ما بين :min و :max.",
         "file"    => "يجب أن يكون حجم الملف :attribute محصورًا ما بين :min و :max كيلوبايت.",
         "string"  => "يجب أن يكون عدد حروف النّص :attribute محصورًا ما بين :min و :max",
-        "array"   => "يجب أن يحتوي :attribute على عدد من العناصر محصورًا ما بين :min و :max"
+        "array"   => "يجب أن يحتوي :attribute على عدد من العناصر محصورًا ما بين :min و :max",
     ],
     "boolean"          => "يجب أن تكون قيمة الحقل :attribute إما true أو false ",
     "confirmed"        => "حقل التأكيد غير مُطابق للحقل :attribute",
@@ -45,14 +45,14 @@ return [
         "numeric" => "يجب أن تكون قيمة الحقل :attribute أصغر من :max.",
         "file"    => "يجب أن يكون حجم الملف :attribute أصغر من :max كيلوبايت",
         "string"  => "يجب أن لا يتجاوز طول النّص :attribute :max حروفٍ/حرفًا",
-        "array"   => "يجب أن لا يحتوي الحقل :attribute على أكثر من :max عناصر/عنصر."
+        "array"   => "يجب أن لا يحتوي الحقل :attribute على أكثر من :max عناصر/عنصر.",
     ],
     "mimes"            => "يجب أن يكون الحقل ملفًا من نوع : :values.",
     "min"                  => [
         "numeric" => "يجب أن تكون قيمة الحقل :attribute أكبر من :min.",
         "file"    => "يجب أن يكون حجم الملف :attribute أكبر من :min كيلوبايت",
         "string"  => "يجب أن يكون طول النص :attribute أكبر :min حروفٍ/حرفًا",
-        "array"   => "يجب أن يحتوي الحقل :attribute على الأقل على :min عُنصرًا/عناصر"
+        "array"   => "يجب أن يحتوي الحقل :attribute على الأقل على :min عُنصرًا/عناصر",
     ],
     "not_in"           => "الحقل :attribute لاغٍ",
     "numeric"          => "يجب على الحقل :attribute أن يكون رقمًا",
@@ -68,7 +68,7 @@ return [
         "numeric" => "يجب أن تكون قيمة :attribute أكبر من :size.",
         "file"    => "يجب أن يكون حجم الملف :attribute أكبر من :size كيلو بايت.",
         "string"  => "يجب أن يحتوي النص :attribute عن ما لا يقل عن  :size حرفٍ/أحرف.",
-        "array"   => "يجب أن يحتوي الحقل :attribute عن ما لا يقل عن:min عنصرٍ/عناصر"
+        "array"   => "يجب أن يحتوي الحقل :attribute عن ما لا يقل عن:min عنصرٍ/عناصر",
     ],
      "timezone"         => "يجب أن يكون :attribute نطاقًا زمنيًا صحيحًا",
     "unique"           => "قيمة الحقل :attribute مُستخدمة من قبل",
@@ -131,8 +131,7 @@ return [
         "date" => "التاريخ",
         "time" => "الوقت",
         "available" => "مُتاح",
-        "size" => "الحجم"
+        "size" => "الحجم",
     ],
 
 ];
-

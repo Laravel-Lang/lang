@@ -25,7 +25,7 @@ return [
         "numeric" => "Полето :attribute мора да биде помеѓу :min и :max.",
         "file"    => "Полето :attribute мора да биде помеѓу :min и :max килобајти.",
         "string"  => "Полето :attribute мора да биде помеѓу :min и :max карактери.",
-        "array"   => "Полето :attribute мора да има помеѓу :min - :max карактери."
+        "array"   => "Полето :attribute мора да има помеѓу :min - :max карактери.",
     ],
     "boolean"          => "The :attribute field must be true or false",
     "confirmed"        => "Полето :attribute не е потврдено.",
@@ -45,14 +45,14 @@ return [
         "numeric" => "Полето :attribute мора да биде помало од :max.",
         "file"    => "Полето :attribute мора да биде помало од :max килобајти.",
         "string"  => "Полето :attribute мора да има помалку од :max карактери.",
-        "array"   => "Полето :attribute не може да има повеќе од :max карактери."
+        "array"   => "Полето :attribute не може да има повеќе од :max карактери.",
     ],
     "mimes"            => "Полето :attribute мора да биде фајл од типот: :values.",
     "min"              => [
         "numeric" => "Полето :attribute мора да биде минимум :min.",
         "file"    => "Полето :attribute мора да биде минимум :min килобајти.",
         "string"  => "Полето :attribute мора да има минимум :min карактери.",
-        "array"   => "Полето :attribute мора да има минимум :min карактери."
+        "array"   => "Полето :attribute мора да има минимум :min карактери.",
     ],
     "not_in"           => "Избраното поле :attribute е невалидно.",
     "numeric"          => "Полето :attribute мора да биде број.",
@@ -68,7 +68,7 @@ return [
         "numeric" => "Полето :attribute мора да биде :size.",
         "file"    => "Полето :attribute мора да биде :size килобајти.",
         "string"  => "Полето :attribute мора да има :size карактери.",
-        "array"   => "Полето :attribute мора да има :size карактери."
+        "array"   => "Полето :attribute мора да има :size карактери.",
     ],
     "timezone"         => "The :attribute must be a valid zone.",
     "unique"           => "Полето :attribute веќе постои.",

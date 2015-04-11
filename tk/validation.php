@@ -25,7 +25,7 @@ return [
         "numeric" => ":attribute :min - :max arasynda bolmalydyr.",
         "file"    => ":attribute :min - :max kilobaýt arasynda bolmalydyr.",
         "string"  => ":attribute :min - :max harplar arasynda bolmalydyr.",
-        "array"   => ":attribute :min - :max arasynda madda eýe bolmalydyr."
+        "array"   => ":attribute :min - :max arasynda madda eýe bolmalydyr.",
     ],
     "boolean"               => ":attribute diňe dogry ýada ýalňyş bolmalydyr.",
     "confirmed"             => ":attribute tassyklamasy deň däl.",
@@ -45,14 +45,14 @@ return [
         "numeric" => ":attribute :max den kiçi bolmalydyr.",
         "file"    => ":attribute :max kilobaýtdan kiçi bolmalydyr.",
         "string"  => ":attribute :max harpdan kiçi bolmalydyr.",
-        "array"   => ":attribute iň az :max maddadan ybarat bolmalydyr."
+        "array"   => ":attribute iň az :max maddadan ybarat bolmalydyr.",
     ],
     "mimes"                 => ":attribute faýlň formaty :values bolmalydyr.",
     "min"                   => [
         "numeric" => ":attribute mukdary :min dan köp bolmalydyr.",
         "file"    => ":attribute mukdary :min kilobaýtdan köp bolmalydyr.",
         "string"  => ":attribute mukdary :min harpdan köp bolmalydyr.",
-        "array"   => ":attribute iň az :min harpdan bolmalydyr."
+        "array"   => ":attribute iň az :min harpdan bolmalydyr.",
     ],
     "not_in"                => "Saýlanan :attribute geçersiz.",
     "numeric"               => ":attribute san bolmalydyr.",
@@ -68,7 +68,7 @@ return [
         "numeric" => ":attribute :size sandan ybarat bolmalydyr.",
         "file"    => ":attribute :size kilobaýt bolmalydyr.",
         "string"  => ":attribute :size harp bolmalydyr.",
-        "array"   => ":attribute :size madda eýe bolmalydyr."
+        "array"   => ":attribute :size madda eýe bolmalydyr.",
     ],
     "timezone"              => ":attribute dogry zolak bolmalydyr.",
     "unique"                => ":attribute önden hasaba alyndy.",

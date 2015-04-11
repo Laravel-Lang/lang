@@ -24,7 +24,7 @@ return [
         "numeric" => ":attributeには:minから:maxまで数字を指定してください。",
         "file"    => ":attributeのファイルサイズは:min kBから:max kBまでとなります。",
         "string"  => ":attributeは:min文字から:max文字までとなります。",
-        "array"   => ":attributeは:min個から:max個までとなります。"
+        "array"   => ":attributeは:min個から:max個までとなります。",
     ],
     "boolean"          => ":attributeは真偽値で指定してください。",
     "confirmed"        => ":attributeは確認用フィールドと一致していません。",
@@ -44,14 +44,14 @@ return [
         "numeric" => ":attributeには:max以下の数字を指定してください。",
         "file"    => ":attributeのサイズが:max kB以下のファイルを指定してください。",
         "string"  => ":attributeは:max文字以下となります。",
-        "array"   => ":attributeは:max個以下となります。"
+        "array"   => ":attributeは:max個以下となります。",
     ],
     "mimes"            => ":attributeには:valuesタイプのファイルを指定してください。",
     "min"              => [
         "numeric" => ":attributeには:min以上の数字を指定してください。",
         "file"    => ":attributeのファイルサイズは:min kB以上までとなります。",
         "string"  => ":attributeは:min文字以上となります。",
-        "array"   => ":attributeは:max個以上となります。"
+        "array"   => ":attributeは:max個以上となります。",
     ],
     "not_in"           => "選択された:attributeが正しくありません。",
     "numeric"          => ":attributeには数字を指定してください。",
@@ -67,7 +67,7 @@ return [
         "numeric" => ":attributeには:sizeを指定してください。",
         "file"    => ":attributeのファイルサイズは:size kBと一致しません。",
         "string"  => ":attributeは:size文字で指定してください。",
-        "array"   => ":attributeは:size個で指定してください。"
+        "array"   => ":attributeは:size個で指定してください。",
     ],
     "timezone"         => ":attributeはタイムゾーンを指定してください。",
     "unique"           => ":attributeが既に存在しています。",

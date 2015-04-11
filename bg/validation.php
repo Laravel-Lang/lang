@@ -25,7 +25,7 @@ return [
         "numeric" => "Полето :attribute трябва да бъде между :min и :max.",
         "file"    => "Полето :attribute трябва да бъде между :min и :max килобайта.",
         "string"  => "Полето :attribute трябва да бъде между :min и :max знака.",
-        "array"   => "Полето :attribute трябва да има между :min - :max елемента."
+        "array"   => "Полето :attribute трябва да има между :min - :max елемента.",
     ],
     "boolean"          => "The :attribute field must be true or false",
     "confirmed"        => "Полето :attribute не е потвърдено.",
@@ -45,14 +45,14 @@ return [
         "numeric" => "Полето :attribute трябва да бъде по-малко от :max.",
         "file"    => "Полето :attribute трябва да бъде по-малко от :max килобайта.",
         "string"  => "Полето :attribute трябва да бъде по-малко от :max знака.",
-        "array"   => "Полето :attribute трябва да има по-малко от :max елемента."
+        "array"   => "Полето :attribute трябва да има по-малко от :max елемента.",
     ],
     "mimes"            => "Полето :attribute трябва да бъде файл от тип: :values.",
     "min"              => [
         "numeric" => "Полето :attribute трябва да бъде минимум :min.",
         "file"    => "Полето :attribute трябва да бъде минимум :min килобайта.",
         "string"  => "Полето :attribute трябва да бъде минимум :min знака.",
-        "array"   => "Полето :attribute трябва има минимум :min елемента."
+        "array"   => "Полето :attribute трябва има минимум :min елемента.",
     ],
     "not_in"           => "Избраното поле :attribute е невалидно.",
     "numeric"          => "Полето :attribute трябва да бъде число.",
@@ -68,7 +68,7 @@ return [
         "numeric" => "Полето :attribute трябва да бъде :size.",
         "file"    => "Полето :attribute трябва да бъде :size килобайта.",
         "string"  => "Полето :attribute трябва да бъде :size знака.",
-        "array"   => "Полето :attribute трябва да има :size елемента."
+        "array"   => "Полето :attribute трябва да има :size елемента.",
     ],
     "timezone"         => "The :attribute must be a valid zone.",
     "unique"           => "Полето :attribute вече съществува.",
@@ -133,7 +133,7 @@ return [
             "size" => "Размер",
             "recaptcha_response_field" => "Рекапча",
             "subject" => "Заглавие",
-            "message" => "Съобщение"
+            "message" => "Съобщение",
     ],
 
 ];

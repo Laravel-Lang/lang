@@ -25,7 +25,7 @@ return [
         "numeric" => "Το πεδίο :attribute πρέπει να είναι μεταξύ :min - :max.",
         "file"    => "Το πεδίο :attribute πρέπει να είναι μεταξύ :min - :max kilobytes.",
         "string"  => "Το πεδίο :attribute πρέπει να είναι μεταξύ :min - :max χαρακτήρες.",
-        "array"   => "Το πεδίο :attribute πρέπει να έχει μεταξύ :min - :max αντικείμενα."
+        "array"   => "Το πεδίο :attribute πρέπει να έχει μεταξύ :min - :max αντικείμενα.",
     ],
     "boolean"          => "Το πεδίο :attribute πρέπει να είναι true ή false.",
     "confirmed"        => "Η επιβεβαίωση του :attribute δεν ταιριάζει.",
@@ -45,14 +45,14 @@ return [
         "numeric" => "Το πεδίο :attribute δεν μπορεί να είναι μεγαλύτερο από :max.",
         "file"    => "Το πεδίο :attribute δεν μπορεί να είναι μεγαλύτερό :max kilobytes.",
         "string"  => "Το πεδίο :attribute δεν μπορεί να είναι μεγαλύτερό :max χαρακτήρες.",
-        "array"   => "Το πεδίο :attribute δεν μπορεί να έχει περισσότερα από :max αντικείμενα."
+        "array"   => "Το πεδίο :attribute δεν μπορεί να έχει περισσότερα από :max αντικείμενα.",
     ],
     "mimes"            => "Το πεδίο :attribute πρέπει να είναι αρχείο τύπου: :values.",
     "min"              => [
         "numeric" => "Το πεδίο :attribute πρέπει να είναι τουλάχιστον :min.",
         "file"    => "Το πεδίο :attribute πρέπει να είναι τουλάχιστον :min kilobytes.",
         "string"  => "Το πεδίο :attribute πρέπει να έχει τουλάχιστον :min χαρακτήρες.",
-        "array"   => "Το πεδίο :attribute πρέπει να έχει τουλάχιστον :min αντικείμενα."
+        "array"   => "Το πεδίο :attribute πρέπει να έχει τουλάχιστον :min αντικείμενα.",
     ],
     "not_in"           => "Το επιλεγμένο :attribute δεν είναι αποδεκτό.",
     "numeric"          => "Το πεδίο :attribute πρέπει να είναι αριθμός.",
@@ -68,7 +68,7 @@ return [
         "numeric" => "Το πεδίο :attribute πρέπει να είναι :size.",
         "file"    => "Το πεδίο :attribute πρέπει να είναι :size kilobytes.",
         "string"  => "Το πεδίο :attribute πρέπει να είναι :size χαρακτήρες.",
-        "array"   => "Το πεδίο :attribute πρέπει να περιέχει :size αντικείμενα."
+        "array"   => "Το πεδίο :attribute πρέπει να περιέχει :size αντικείμενα.",
     ],
     "timezone"         => "Το πεδίο :attribute πρέπει να είναι μία έγκυρη ζώνη ώρας.",
     "unique"           => "Το πεδίο :attribute έχει ήδη εκχωρηθεί.",

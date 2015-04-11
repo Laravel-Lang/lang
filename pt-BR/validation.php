@@ -25,7 +25,7 @@ return [
         "numeric" => "O campo :attribute deverá ter um valor entre :min - :max.",
         "file"    => "O campo :attribute deverá ter um tamanho entre :min - :max kilobytes.",
         "string"  => "O campo :attribute deverá conter entre :min - :max caracteres.",
-        "array"   => "O campo :attribute precisar ter entre :min - :max itens."
+        "array"   => "O campo :attribute precisar ter entre :min - :max itens.",
     ],
     "boolean"          => "O campo :attribute deverá ter o valor verdadeiro ou falso.",
     "confirmed"        => "A confirmação para o campo :attribute não coincide.",
@@ -45,14 +45,14 @@ return [
         "numeric" => "O campo :attribute não deverá conter um valor superior a :max.",
         "file"    => "O campo :attribute não deverá ter um tamanho superior a :max kilobytes.",
         "string"  => "O campo :attribute não deverá conter mais de :max caracteres.",
-        "array"   => "O campo :attribute deve ter no máximo :max itens."
+        "array"   => "O campo :attribute deve ter no máximo :max itens.",
     ],
     "mimes"            => "O campo :attribute deverá conter um arquivo do tipo: :values.",
     "min"              => [
         "numeric" => "O campo :attribute deverá ter um valor superior ou igual a :min.",
         "file"    => "O campo :attribute deverá ter no mínimo :min kilobytes.",
         "string"  => "O campo :attribute deverá conter no mínimo :min caracteres.",
-        "array"   => "O campo :attribute deve ter no mínimo :min itens."
+        "array"   => "O campo :attribute deve ter no mínimo :min itens.",
     ],
     "not_in"           => "O campo :attribute contém um valor inválido.",
     "numeric"          => "O campo :attribute deverá conter um valor numérico.",
@@ -68,7 +68,7 @@ return [
         "numeric" => "O campo :attribute deverá conter o valor :size.",
         "file"    => "O campo :attribute deverá ter o tamanho de :size kilobytes.",
         "string"  => "O campo :attribute deverá conter :size caracteres.",
-        "array"   => "O campo :attribute deve ter :size itens."
+        "array"   => "O campo :attribute deve ter :size itens.",
     ],
     "timezone"         => "O campo :attribute deverá ter um fuso horário válido.",
     "unique"           => "O valor indicado para o campo :attribute já se encontra registrado.",

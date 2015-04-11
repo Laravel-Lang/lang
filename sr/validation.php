@@ -24,7 +24,7 @@ return [
         "numeric" => "Polje :attribute mora biti između :min - :max.",
         "file"    => "Fajl :attribute mora biti između :min - :max kilobajta.",
         "string"  => "Polje :attribute mora biti između :min - :max karaktera.",
-        "array"   => "Polje :attribute mora biti između :min - :max stavki."
+        "array"   => "Polje :attribute mora biti između :min - :max stavki.",
     ],
     "boolean"          => "Polje :attribute mora biti tačno ili netačno",
     "confirmed"        => "Potvrda polja :attribute se ne poklapa.",
@@ -44,14 +44,14 @@ return [
         "numeric" => "Polje :attribute mora biti manje od :max.",
         "file"    => "Polje :attribute mora biti manje od :max kilobajta.",
         "string"  => "Polje :attribute mora sadržati manje od :max karaktera.",
-        "array"   => "Polje :attribute ne smije da image više od :max stavki."
+        "array"   => "Polje :attribute ne smije da image više od :max stavki.",
     ],
     "mimes"            => "Polje :attribute mora biti fajl tipa: :values.",
     "min"              => [
         "numeric" => "Polje :attribute mora biti najmanje :min.",
         "file"    => "Fajl :attribute mora biti najmanje :min kilobajta.",
         "string"  => "Polje :attribute mora sadržati najmanje :min karaktera.",
-        "array"   => "Polje :attribute mora sadrzati najmanje :min stavku."
+        "array"   => "Polje :attribute mora sadrzati najmanje :min stavku.",
     ],
     "not_in"           => "Odabrani element polja :attribute nije validan.",
     "numeric"          => "Polje :attribute mora biti broj.",
@@ -67,7 +67,7 @@ return [
         "numeric" => "Polje :attribute mora biti :size.",
         "file"    => "Fajl :attribute mora biti :size kilobajta.",
         "string"  => "Polje :attribute mora biti :size karaktera.",
-        "array"   => "Polje :attribute mora sadržati :size stavki."
+        "array"   => "Polje :attribute mora sadržati :size stavki.",
     ],
     "timezone"         => "Polje :attribute mora biti ispravna vremenska zona.",
     "unique"           => "Polje :attribute već postoji.",

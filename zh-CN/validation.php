@@ -25,7 +25,7 @@ return [
         "numeric" => ":attribute 必须介于 :min - :max 之间。",
         "file"    => ":attribute 必须介于 :min - :max kb 之间。",
         "string"  => ":attribute 必须介于 :min - :max 个字符之间。",
-        "array"   => ":attribute 必须只有 :min - :max 个单元。"
+        "array"   => ":attribute 必须只有 :min - :max 个单元。",
     ],
     "boolean"          => ":attribute 必须为布尔值。",
     "confirmed"        => ":attribute 两次输入不一致。",
@@ -45,14 +45,14 @@ return [
         "numeric" => ":attribute 不能大于 :max。",
         "file"    => ":attribute 不能大于 :max kb。",
         "string"  => ":attribute 不能大于 :max 个字符。",
-        "array"   => ":attribute 最多只有 :max 个单元。"
+        "array"   => ":attribute 最多只有 :max 个单元。",
     ],
     "mimes"            => ":attribute 必须是一个 :values 类型的文件。",
     "min"              => [
         "numeric" => ":attribute 必须大于等于 :min。",
         "file"    => ":attribute 大小不能小于 :min kb。",
         "string"  => ":attribute 至少为 :min 个字符。",
-        "array"   => ":attribute 至少有 :min 个单元。"
+        "array"   => ":attribute 至少有 :min 个单元。",
     ],
     "not_in"           => "已选的属性 :attribute 非法。",
     "numeric"          => ":attribute 必须是一个数字。",
@@ -68,7 +68,7 @@ return [
         "numeric" => ":attribute 大小必须为 :size。",
         "file"    => ":attribute 大小必须为 :size kb。",
         "string"  => ":attribute 必须是 :size 个字符。",
-        "array"   => ":attribute 必须为 :size 个单元。"
+        "array"   => ":attribute 必须为 :size 个单元。",
     ],
     "timezone"         => ":attribute 必须是一个合法的时区值。",
     "unique"           => ":attribute 已经存在。",

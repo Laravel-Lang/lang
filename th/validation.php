@@ -25,7 +25,7 @@ return [
         "numeric" => "ข้อมูล :attribute ต้องอยู่ในช่วงระหว่าง :min - :max.",
         "file"    => "ข้อมูล :attribute ต้องอยู่ในช่วงระหว่าง :min - :max กิโลไบร์ท",
         "string"  => "ข้อมูล :attribute ต้องอยู่ในช่วงระหว่าง :min - :max ตัวอักษร",
-        "array"   => "ข้อมูล :attribute ต้องอยู่ในช่วงระหว่าง :min - :max ค่า"
+        "array"   => "ข้อมูล :attribute ต้องอยู่ในช่วงระหว่าง :min - :max ค่า",
     ],
     "boolean"          => "ข้อมูล :attribute ต้องเป็นจริง หรือเท็จ เท่านั้น",
     "confirmed"        => "ข้อมูล :attribute ไม่ตรงกัน",
@@ -45,14 +45,14 @@ return [
         "numeric" => "ข้อมูล :attribute ต้องมีจำนวนไม่เกิน :max.",
         "file"    => "ข้อมูล :attribute ต้องมีจำนวนไม่เกิน :max กิโลไบร์ท",
         "string"  => "ข้อมูล :attribute ต้องมีจำนวนไม่เกิน :max ตัวอักษร",
-        "array"   => "ข้อมูล :attribute ต้องมีจำนวนไม่เกิน :max ค่า"
+        "array"   => "ข้อมูล :attribute ต้องมีจำนวนไม่เกิน :max ค่า",
     ],
     "mimes"            => "ข้อมูล :attribute ต้องเป็นชนิดไฟล์: :values.",
     "min"              => [
         "numeric" => "ข้อมูล :attribute ต้องมีจำนวนอย่างน้อย :min.",
         "file"    => "ข้อมูล :attribute ต้องมีจำนวนอย่างน้อย :min กิโลไบร์ท",
         "string"  => "ข้อมูล :attribute ต้องมีจำนวนอย่างน้อย :min ตัวอักษร",
-        "array"   => "ข้อมูล :attribute ต้องมีจำนวนอย่างน้อย :min ค่า"
+        "array"   => "ข้อมูล :attribute ต้องมีจำนวนอย่างน้อย :min ค่า",
     ],
     "not_in"           => "ข้อมูล ที่เลือกจาก :attribute ไม่ถูกต้อง",
     "numeric"          => "ข้อมูล :attribute ต้องเป็นตัวเลข",
@@ -68,7 +68,7 @@ return [
         "numeric" => "ข้อมูล :attribute ต้องเท่ากับ :size.",
         "file"    => "ข้อมูล :attribute ต้องเท่ากับ :size กิโลไบร์ท",
         "string"  => "ข้อมูล :attribute ต้องเท่ากับ :size ตัวอักษร",
-        "array"   => "ข้อมูล :attribute ต้องเท่ากับ :size ค่า"
+        "array"   => "ข้อมูล :attribute ต้องเท่ากับ :size ค่า",
     ],
     "timezone"         => "ข้อมูล :attribute ต้องเป็นข้อมูลเขตเวลาที่ถูกต้อง",
     "unique"           => "ข้อมูล :attribute ไม่สามารถใช้ได้",

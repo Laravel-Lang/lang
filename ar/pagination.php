@@ -18,4 +18,3 @@ return [
     'next'     => 'التالي &raquo;',
 
 ];
-

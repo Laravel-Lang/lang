@@ -24,7 +24,7 @@ return [
         "numeric" => ":attribute depet èssere intre :min - :max.",
         "file"    => ":attribute depet èssere intre :min - :max kilobytes.",
         "string"  => ":attribute depet èssere intre :min - :max caràteres.",
-        "array"   => ":attribute depet èssere intre :min - :max elementos."
+        "array"   => ":attribute depet èssere intre :min - :max elementos.",
     ],
     "boolean"          => "The :attribute field must be true or false",
     "confirmed"        => "Su campu de cunfirma pro :attribute non torrat.",
@@ -44,14 +44,14 @@ return [
         "numeric" => ":attribute depet èssere prus piticu de :max.",
         "file"    => ":attribute non depet èssere prus mannu de :max kilobytes.",
         "string"  => ":attribute non podet cuntènnere prus de :max caràteres.",
-        "array"   => ":attribute non podet tènnere prus de :max elementos."
+        "array"   => ":attribute non podet tènnere prus de :max elementos.",
     ],
     "mimes"            => ":attribute depet èssere de tipu: :values.",
     "min"              => [
         "numeric" => ":attribute depet bàlere a su mancu :min.",
         "file"    => ":attribute depet èssere prus mannu de :min kilobytes.",
         "string"  => ":attribute depet cuntènnere a su mancu :min caràteres.",
-        "array"   => ":attribute depet tènnere a su mancu :min elementos."
+        "array"   => ":attribute depet tènnere a su mancu :min elementos.",
     ],
     "not_in"           => "Su balore seberadu pro :attribute no est bàlidu.",
     "numeric"          => ":attribute depet èssere unu nùmeru.",
@@ -67,7 +67,7 @@ return [
         "numeric" => ":attribute depet bàlere :size.",
         "file"    => ":attribute depet èssere mannu :size kilobytes.",
         "string"  => ":attribute depet cuntènnere :size caràteres.",
-        "array"   => ":attribute depet cuntènnere :size elementos."
+        "array"   => ":attribute depet cuntènnere :size elementos.",
     ],
     "timezone"         => ":attribute depet èssere una zona bàlida.",
     "unique"           => ":attribute est istadu giai impreadu.",

@@ -25,7 +25,7 @@ return [
         "numeric" => ":attribute :min - :max arasında olmalıdır.",
         "file"    => ":attribute :min - :max arasındaki kilobayt değeri olmalıdır.",
         "string"  => ":attribute :min - :max arasında karakterden oluşmalıdır.",
-        "array"   => ":attribute :min - :max arasında nesneye sahip olmalıdır."
+        "array"   => ":attribute :min - :max arasında nesneye sahip olmalıdır.",
     ],
     "boolean"               => ":attribute sadece doğru veya yanlış olmalıdır.",
     "confirmed"             => ":attribute tekrarı eşleşmiyor.",
@@ -45,14 +45,14 @@ return [
         "numeric" => ":attribute değeri :max değerinden küçük olmalıdır.",
         "file"    => ":attribute değeri :max kilobayt değerinden küçük olmalıdır.",
         "string"  => ":attribute değeri :max karakter değerinden küçük olmalıdır.",
-        "array"   => ":attribute değeri :max adedinden az nesneye sahip olmalıdır."
+        "array"   => ":attribute değeri :max adedinden az nesneye sahip olmalıdır.",
     ],
     "mimes"                 => ":attribute dosya biçimi :values olmalıdır.",
     "min"                   => [
         "numeric" => ":attribute değeri :min değerinden büyük olmalıdır.",
         "file"    => ":attribute değeri :min kilobayt değerinden büyük olmalıdır.",
         "string"  => ":attribute değeri :min karakter değerinden büyük olmalıdır.",
-        "array"   => ":attribute en az :min nesneye sahip olmalıdır."
+        "array"   => ":attribute en az :min nesneye sahip olmalıdır.",
     ],
     "not_in"                => "Seçili :attribute geçersiz.",
     "numeric"               => ":attribute sayı olmalıdır.",
@@ -68,7 +68,7 @@ return [
         "numeric" => ":attribute :size olmalıdır.",
         "file"    => ":attribute :size kilobyte olmalıdır.",
         "string"  => ":attribute :size karakter olmalıdır.",
-        "array"   => ":attribute :size nesneye sahip olmalıdır."
+        "array"   => ":attribute :size nesneye sahip olmalıdır.",
     ],
     "timezone"              => ":attribute geçerli bir saat dilimi olmalıdır.",
     "unique"                => ":attribute daha önceden kayıt edilmiş.",

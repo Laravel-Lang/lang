@@ -25,7 +25,7 @@ return [
         "numeric" => ":attribute muss zwischen :min & :max liegen.",
         "file"    => ":attribute muss zwischen :min & :max Kilobytes groß sein.",
         "string"  => ":attribute muss zwischen :min & :max Zeichen lang sein.",
-        "array"   => ":attribute muss zwischen :min & :max Elemente haben."
+        "array"   => ":attribute muss zwischen :min & :max Elemente haben.",
     ],
     "boolean"          => ":attribute muss entweder 'true' oder 'false' sein.",
     "confirmed"        => ":attribute stimmt nicht mit der Bestätigung überein.",
@@ -45,14 +45,14 @@ return [
         "numeric" => ":attribute darf maximal :max sein.",
         "file"    => ":attribute darf maximal :max Kilobytes groß sein.",
         "string"  => ":attribute darf maximal :max Zeichen haben.",
-        "array"   => ":attribute darf nicht mehr als :max Elemente haben."
+        "array"   => ":attribute darf nicht mehr als :max Elemente haben.",
     ],
     "mimes"            => ":attribute muss den Dateityp :values haben.",
     "min"              => [
         "numeric" => ":attribute muss mindestens :min sein.",
         "file"    => ":attribute muss mindestens :min Kilobytes groß sein.",
         "string"  => ":attribute muss mindestens :min Zeichen lang sein.",
-        "array"   => ":attribute muss mindestens :min Elemente haben."
+        "array"   => ":attribute muss mindestens :min Elemente haben.",
     ],
     "not_in"           => "Der gewählte Wert für :attribute ist ungültig.",
     "numeric"          => ":attribute muss eine Zahl sein.",
@@ -68,7 +68,7 @@ return [
         "numeric" => ":attribute muss gleich :size sein.",
         "file"    => ":attribute muss :size Kilobyte groß sein.",
         "string"  => ":attribute muss :size Zeichen lang sein.",
-        "array"   => ":attribute muss genau :size Elemente haben."
+        "array"   => ":attribute muss genau :size Elemente haben.",
     ],
     "timezone"         => ":attribute muss eine gültige Zeitzone sein.",
     "unique"           => ":attribute ist schon vergeben.",

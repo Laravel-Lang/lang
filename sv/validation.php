@@ -24,7 +24,7 @@ return [
         "numeric" => ":attribute måste vara en siffra mellan :min och :max.",
         "file"    => ":attribute måste vara mellan :min till :max kilobyte stor.",
         "string"  => ":attribute måste innehålla :min till :max tecken.",
-        "array"   => ":attribute måste innehålla mellan :min - :max objekt."
+        "array"   => ":attribute måste innehålla mellan :min - :max objekt.",
     ],
     "boolean"          => ":attribute måste vara sant eller falskt",
     "confirmed"        => ":attribute bekräftelsen matchar inte.",
@@ -44,14 +44,14 @@ return [
         "numeric" => ":attribute får inte vara större än :max.",
         "file"    => ":attribute får max vara :max kilobyte stor.",
         "string"  => ":attribute får max innehålla :max tecken.",
-        "array"   => ":attribute får inte innehålla mer än :max objekt."
+        "array"   => ":attribute får inte innehålla mer än :max objekt.",
     ],
     "mimes"            => ":attribute måste vara en fil av typen: :values.",
     "min"              => [
         "numeric" => ":attribute måste vara större än :min.",
         "file"    => ":attribute måste vara minst :min kilobyte stor.",
         "string"  => ":attribute måste innehålla minst :min tecken.",
-        "array"   => ":attribute måste innehålla minst :min objekt."
+        "array"   => ":attribute måste innehålla minst :min objekt.",
     ],
     "not_in"           => "Det valda :attribute är ogiltigt.",
     "numeric"          => ":attribute måste vara en siffra.",
@@ -67,7 +67,7 @@ return [
         "numeric" => ":attribute måste vara :size.",
         "file"    => ":attribute får endast vara :size kilobyte stor.",
         "string"  => ":attribute måste innehålla :size tecken.",
-        "array"   => ":attribute måste innehålla :size objekt."
+        "array"   => ":attribute måste innehålla :size objekt.",
     ],
     "timezone"         => ":attribute måste vara en giltig tidszon.",
     "unique"           => ":attribute används redan.",

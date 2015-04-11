@@ -25,7 +25,7 @@ return [
         "numeric" => ":attribute חייב להיות מספר בין :min ל-:max.",
         "file"    => ":attribute חייב לשקול :min-:max קילובתים.",
         "string"  => ":attribute חייב להיות באורך של :min-:max תווים.",
-        "array"   => "The :attribute must have between :min - :max items."
+        "array"   => "The :attribute must have between :min - :max items.",
     ],
     "boolean"          => "The :attribute field must be true or false",
     "confirmed"        => "The :attribute confirmation does not match.",
@@ -45,14 +45,14 @@ return [
         "numeric" => "The :attribute may not be greater than :max.",
         "file"    => "The :attribute may not be greater than :max kilobytes.",
         "string"  => "The :attribute may not be greater than :max characters.",
-        "array"   => "The :attribute may not have more than :max items."
+        "array"   => "The :attribute may not have more than :max items.",
     ],
     "mimes"            => "The :attribute must be a file of type: :values.",
     "min"              => [
         "numeric" => "The :attribute must be at least :min.",
         "file"    => "The :attribute must be at least :min kilobytes.",
         "string"  => "The :attribute must be at least :min characters.",
-        "array"   => "The :attribute must have at least :min items."
+        "array"   => "The :attribute must have at least :min items.",
     ],
     "not_in"           => "The selected :attribute is invalid.",
     "numeric"          => "The :attribute must be a number.",
@@ -68,7 +68,7 @@ return [
         "numeric" => "The :attribute must be :size.",
         "file"    => "The :attribute must be :size kilobytes.",
         "string"  => "The :attribute must be :size characters.",
-        "array"   => "The :attribute must contain :size items."
+        "array"   => "The :attribute must contain :size items.",
     ],
     "timezone"         => "The :attribute must be a valid zone.",
     "unique"           => "The :attribute has already been taken.",

@@ -25,7 +25,7 @@ return [
         "numeric" => ":attribute musí být hodnota mezi :min a :max.",
         "file"    => ":attribute musí být větší než :min a menší než :max Kilobytů.",
         "string"  => ":attribute musí být delší než :min a kratší než :max znaků.",
-        "array"   => ":attribute musí obsahovat nejméně :min a nesmí obsahovat více než :max prvků."
+        "array"   => ":attribute musí obsahovat nejméně :min a nesmí obsahovat více než :max prvků.",
     ],
     "boolean"          => "The :attribute field must be true or false",
     "confirmed"        => ":attribute nebylo odsouhlaseno.",
@@ -45,14 +45,14 @@ return [
         "numeric" => ":attribute musí být nižší než :max.",
         "file"    => ":attribute musí být menší než :max Kilobytů.",
         "string"  => ":attribute musí být kratší než :max znaků.",
-        "array"   => ":attribute nesmí obsahovat více než :max prvků."
+        "array"   => ":attribute nesmí obsahovat více než :max prvků.",
     ],
     "mimes"            => ":attribute musí být jeden z následujících datových typů :values.",
     "min"              => [
         "numeric" => ":attribute musí být větší než :min.",
         "file"    => ":attribute musí být větší než :min Kilobytů.",
         "string"  => ":attribute musí být delší než :min znaků.",
-        "array"   => ":attribute musí obsahovat více než :min prvků."
+        "array"   => ":attribute musí obsahovat více než :min prvků.",
     ],
     "not_in"           => "Zvolená hodnota pro :attribute je neplatná.",
     "numeric"          => ":attribute musí být číslo.",
@@ -68,7 +68,7 @@ return [
         "numeric" => ":attribute musí být přesně :size.",
         "file"    => ":attribute musí mít přesně :size Kilobytů.",
         "string"  => ":attribute musí být přesně :size znaků dlouhý.",
-        "array"   => ":attribute musí obsahovat právě :size prvků."
+        "array"   => ":attribute musí obsahovat právě :size prvků.",
     ],
     "timezone"         => "The :attribute must be a valid zone.",
     "unique"           => ":attribute musí být unikátní.",

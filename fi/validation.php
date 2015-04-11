@@ -25,7 +25,7 @@ return [
         "numeric" => ":attribute numeron pitää olla välillä :min - :max.",
         "file"    => ":attribute tiedoston pitää olla välillä :min - :max kilobittiä.",
         "string"  => ":attribute elementin pitää olla välillä :min - :max kirjainta.",
-        "array"   => "The :attribute must have between :min - :max items."
+        "array"   => "The :attribute must have between :min - :max items.",
     ],
     "boolean"          => "The :attribute field must be true or false",
     "confirmed"        => ":attribute vahvistus ei täsmää.",
@@ -45,14 +45,14 @@ return [
         "numeric" => ":attribute pitää olla pienempi kuin :max.",
         "file"    => ":attribute pitää olla pienempi :max kilobittiä.",
         "string"  => ":attribute pitää olla pienempi :max kirjainta.",
-        "array"   => "The :attribute may not have more than :max items."
+        "array"   => "The :attribute may not have more than :max items.",
     ],
     "mimes"            => ":attribute pitää olla tiedostotyyppi: :values.",
     "min"              => [
         "numeric" => ":attribute pitää olla vähintään :min.",
         "file"    => ":attribute pitää olla vähintään :min kilobittiä.",
         "string"  => ":attribute pitää olla vähintään :min kirjainta.",
-        "array"   => "The :attribute must have at least :min items."
+        "array"   => "The :attribute must have at least :min items.",
     ],
     "not_in"           => "valittu :attribute on virheellinen.",
     "numeric"          => ":attribute pitää olla numero.",
@@ -68,7 +68,7 @@ return [
         "numeric" => ":attribute pitää olla kokoa: :size.",
         "file"    => ":attribute pitää olla kokoa: :size kilobittiä.",
         "string"  => ":attribute pitää olla kokoa: :size kirjainta.",
-        "array"   => "The :attribute must contain :size items."
+        "array"   => "The :attribute must contain :size items.",
     ],
     "timezone"         => "The :attribute must be a valid zone.",
     "unique"           => ":attribute on jo valittu.",

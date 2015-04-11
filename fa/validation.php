@@ -60,7 +60,7 @@ return [
     "required"         => "فیلد :attribute الزامی است",
     "required_if"      => "فیلد :attribute هنگامی که :other برابر با :value است، الزامیست.",
     "required_with"    => ":attribute الزامی است زمانی که :values موجود است.",
-    "required_with_all"=> ":attribute الزامی است زمانی که :values موجود است.",
+    "required_with_all" => ":attribute الزامی است زمانی که :values موجود است.",
     "required_without" => ":attribute الزامی است زمانی که :values موجود نیست.",
     "required_without_all" => ":attribute الزامی است زمانی که :values موجود نیست.",
     "same"             => ":attribute و :other باید مانند هم باشند.",
@@ -127,6 +127,6 @@ return [
         "date" => "تاریخ",
         "time" => "زمان",
         "available" => "موجود",
-        "size" => "اندازه"
+        "size" => "اندازه",
     ],
 ];

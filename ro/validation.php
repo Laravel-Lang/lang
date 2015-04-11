@@ -24,7 +24,7 @@ return [
         "numeric" => "Câmpul :attribute trebuie să fie între :min și :max.",
         "file"    => "Câmpul :attribute trebuie să fie între :min și :max kilobiți.",
         "string"  => "Câmpul :attribute trebuie să fie între :min și :max caractere.",
-        "array"   => "Câmpul :attribute trebuie să aibă :min - :max elemente."
+        "array"   => "Câmpul :attribute trebuie să aibă :min - :max elemente.",
     ],
     "boolean"          => "The :attribute field must be true or false",
     "confirmed"        => "Confirmarea :attribute nu se potrivește.",
@@ -44,14 +44,14 @@ return [
         "numeric" => "Câmpul :attribute trebuie să fie mai mic de :max.",
         "file"    => "Câmpul :attribute trebuie să fie mai mic de :max kilobiți.",
         "string"  => "Câmpul :attribute trebuie să fie mai mic de :max caractere.",
-        "array"   => "Câmpul :attribute nu poate avea mai mult de :max elemente."
+        "array"   => "Câmpul :attribute nu poate avea mai mult de :max elemente.",
     ],
     "mimes"            => "Câmpul :attribute trebuie să fie un fișier de tipul: :values.",
     "min"              => [
         "numeric" => "Câmpul :attribute trebuie să fie cel puțin :min.",
         "file"    => "Câmpul :attribute trebuie să aibă cel puțin :min kilobiți.",
         "string"  => "Câmpul :attribute trebuie să aibă cel puțin :min caractere.",
-        "array"   => "Câmpul :attribute trebuie să aibă cel puțin :min elemente."
+        "array"   => "Câmpul :attribute trebuie să aibă cel puțin :min elemente.",
     ],
     "not_in"           => "Câmpul :attribute selectat este invalid.",
     "numeric"          => "Câmpul :attribute trebuie să fie un număr.",
@@ -67,7 +67,7 @@ return [
         "numeric" => "Câmpul :attribute trebuie să fie :size.",
         "file"    => "Câmpul :attribute trebuie să aibă :size kilobyte.",
         "string"  => "Câmpul :attribute trebuie să aibă :size caractere.",
-        "array"   => "Câmpul :attribute trebuie sa conțină :size elemente."
+        "array"   => "Câmpul :attribute trebuie sa conțină :size elemente.",
     ],
     "timezone"         => "The :attribute must be a valid zone.",
     "unique"           => "Câmpul :attribute a fost deja folosit.",

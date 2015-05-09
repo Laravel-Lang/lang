@@ -32,7 +32,7 @@ How add languages in my app ?
  * For Laravel 5 : add `"caouecs/laravel4-lang": "~2.0"` in your `composer.json` in "require"
  * Do "composer update"
  * Files of languages are in "vendor/caouecs/laravel4-lang" directory
- * Copy the folders of languages that you want, in *app/lang* folder of your application Laravel
+ * Copy the folders of languages that you want, in *app/lang* (*resources/lang* in laravel 5) folder of your application Laravel
 
 ### Installation by Command
 

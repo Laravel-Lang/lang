@@ -70,6 +70,7 @@ return [
         "string"  => ":attribute باید برابر با :size کاراکتر باشد.",
         "array"   => ":attribute باسد شامل :size آیتم باشد.",
     ],
+    "string"           => "The :attribute must be a string.",
     "timezone"         => "فیلد :attribute باید یک منطقه صحیح باشد.",
     "unique"           => ":attribute قبلا انتخاب شده است.",
     "url"              => "فرمت آدرس :attribute اشتباه است.",

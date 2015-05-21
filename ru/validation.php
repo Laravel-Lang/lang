@@ -71,6 +71,7 @@ return [
         "string"  => "Количество символов в поле :attribute должно быть равным :size.",
         "array"   => "Количество элементов в поле :attribute должно быть равным :size.",
     ],
+    "string"               => "The :attribute must be a string.",
     "timezone"             => "Поле :attribute должно быть действительным часовым поясом.",
     "unique"               => "Такое значение поля :attribute уже существует.",
     "url"                  => "Поле :attribute имеет ошибочный формат.",

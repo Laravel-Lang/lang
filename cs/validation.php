@@ -70,6 +70,7 @@ return [
         "string"  => ":attribute musí být přesně :size znaků dlouhý.",
         "array"   => ":attribute musí obsahovat právě :size prvků.",
     ],
+    "string"           => "The :attribute must be a string.",
     "timezone"         => "The :attribute must be a valid zone.",
     "unique"           => ":attribute musí být unikátní.",
     "url"              => "Formát :attribute je neplatný.",

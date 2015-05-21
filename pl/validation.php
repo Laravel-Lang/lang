@@ -70,6 +70,7 @@ return [
         "string"  => ":attribute musi mieć :size znaków.",
         "array"   => ":attribute musi zawierać :size elementów.",
     ],
+    "string"           => "The :attribute must be a string.",
     "timezone"         => ":attribute musi być prawidłową strefą czasową.",
     "unique"           => "Taki :attribute już występuje.",
     "url"              => "Format :attribute jest nieprawidłowy.",

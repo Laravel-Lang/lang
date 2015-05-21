@@ -69,6 +69,8 @@ return [
         "string"  => ":attribute mora biti :size znakov.",
         "array"   => ":attribute mora vsebovati :size elementov.",
     ],
+    "string"               => "The :attribute must be a string.",
+    "timezone"             => "The :attribute must be a valid zone.",
     "unique"               => ":attribute je že zaseden.",
     "url"                  => ":attribute format je neveljaven.",
 

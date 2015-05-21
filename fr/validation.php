@@ -70,6 +70,7 @@ return [
         "string"  => "Le texte de :attribute doit contenir :size caractères.",
         "array"   => "Le tableau :attribute doit contenir :size éléments.",
     ],
+    "string"               => "The :attribute must be a string.",
     "timezone"             => "Le champ :attribute doit être un fuseau horaire valide.",
     "unique"               => "La valeur du champ :attribute est déjà utilisée.",
     "url"                  => "Le format de l'URL de :attribute n'est pas valide.",

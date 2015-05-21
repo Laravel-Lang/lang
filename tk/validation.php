@@ -70,6 +70,7 @@ return [
         "string"  => ":attribute :size harp bolmalydyr.",
         "array"   => ":attribute :size madda eýe bolmalydyr.",
     ],
+    "string"                => "The :attribute must be a string.",
     "timezone"              => ":attribute dogry zolak bolmalydyr.",
     "unique"                => ":attribute önden hasaba alyndy.",
     "url"                   => ":attribute formaty ýalňyş.",

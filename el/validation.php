@@ -70,6 +70,7 @@ return [
         "string"  => "Το πεδίο :attribute πρέπει να είναι :size χαρακτήρες.",
         "array"   => "Το πεδίο :attribute πρέπει να περιέχει :size αντικείμενα.",
     ],
+    "string"           => "The :attribute must be a string.",
     "timezone"         => "Το πεδίο :attribute πρέπει να είναι μία έγκυρη ζώνη ώρας.",
     "unique"           => "Το πεδίο :attribute έχει ήδη εκχωρηθεί.",
     "url"              => "Το πεδίο :attribute δεν είναι έγκυρη διεύθυνση URL.",

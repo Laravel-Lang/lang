@@ -70,9 +70,10 @@ return [
         "string"  => "Rhaid i :attribute fod yn :size nodyn.",
         "array"   => "Rhaid i :attribute fod yn :size eitem.",
     ],
+    "string"               => "The :attribute must be a string.",
+    "timezone"             => "Rhaid i :attribute fod yn timezone dilys.",
     "unique"               => "Mae :attribute eisoes yn bodoli.",
     "url"                  => "Nid yw fformat :attribute yn ddilys.",
-    "timezone"             => "Rhaid i :attribute fod yn timezone dilys.",
 
     /*
     |--------------------------------------------------------------------------

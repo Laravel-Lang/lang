@@ -67,10 +67,10 @@ return [
         "string" => "Polje :attribute mora biti :size znakova.",
         "array" => "Polje :attribute mora sadržavati :size stavki."
     ],
-    "timezone" => "Polje :attribute mora biti ispravna vremenska zona.",
     "string"   => "The :attribute must be a string.",
     "unique" => "Polje :attribute već postoji.",
     "url" => "Polje :attribute nije ispravnog formata.",
+    "timezone" => "Polje :attribute mora biti ispravna vremenska zona.",
 
     /*
     |--------------------------------------------------------------------------

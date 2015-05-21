@@ -69,10 +69,10 @@ return [
         "string"  => ":attribute depet cuntènnere :size caràteres.",
         "array"   => ":attribute depet cuntènnere :size elementos.",
     ],
-    "timezone"         => ":attribute depet èssere una zona bàlida.",
-    "string"               => "The :attribute must be a string.",
+    "string"           => "The :attribute must be a string.",
     "unique"           => ":attribute est istadu giai impreadu.",
     "url"              => ":attribute depet èssere un'URL.",
+    "timezone"         => ":attribute depet èssere una zona bàlida.",
 
     /*
     |--------------------------------------------------------------------------

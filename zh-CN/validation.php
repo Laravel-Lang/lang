@@ -70,10 +70,10 @@ return [
         "string"  => ":attribute 必须是 :size 个字符。",
         "array"   => ":attribute 必须为 :size 个单元。",
     ],
-    "timezone"         => ":attribute 必须是一个合法的时区值。",
     "string"           => ":attribute 必须是一个字符串。",
     "unique"           => ":attribute 已经存在。",
     "url"              => ":attribute 格式不正确。",
+    "timezone"         => ":attribute 必须是一个合法的时区值。",
 
     /*
     |--------------------------------------------------------------------------

@@ -70,10 +70,10 @@ return [
         "string"  => ":attribute må være :size tegn lang.",
         "array"   => ":attribute må inneholde :size elementer.",
     ],
-    "timezone"         => "The :attribute must be a valid zone.",
     "string"           => "The :attribute must be a string.",
     "unique"           => ":attribute er allerede brukt.",
     "url"              => ":attribute formatet er ugyldig.",
+    "timezone"         => "The :attribute must be a valid zone.",
 
     /*
     |--------------------------------------------------------------------------

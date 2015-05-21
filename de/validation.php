@@ -70,10 +70,10 @@ return [
         "string"  => ":attribute muss :size Zeichen lang sein.",
         "array"   => ":attribute muss genau :size Elemente haben.",
     ],
-    "timezone"         => ":attribute muss eine gültige Zeitzone sein.",
     "string"           => "The :attribute must be a string.",
     "unique"           => ":attribute ist schon vergeben.",
     "url"              => "Das Format von :attribute ist ungültig.",
+    "timezone"         => ":attribute muss eine gültige Zeitzone sein.",
 
     /*
     |--------------------------------------------------------------------------

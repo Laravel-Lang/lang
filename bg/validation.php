@@ -70,10 +70,10 @@ return [
         "string"  => "Полето :attribute трябва да бъде :size знака.",
         "array"   => "Полето :attribute трябва да има :size елемента.",
     ],
-    "timezone"         => "The :attribute must be a valid zone.",
     "string"           => "The :attribute must be a string.",
     "unique"           => "Полето :attribute вече съществува.",
     "url"              => "Полето :attribute е в невалиден формат.",
+    "timezone"         => "The :attribute must be a valid zone.",
 
     /*
     |--------------------------------------------------------------------------

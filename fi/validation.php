@@ -70,10 +70,10 @@ return [
         "string"  => ":attribute pitää olla kokoa: :size kirjainta.",
         "array"   => "The :attribute must contain :size items.",
     ],
-    "timezone"         => "The :attribute must be a valid zone.",
     "string"           => "The :attribute must be a string.",
     "unique"           => ":attribute on jo valittu.",
     "url"              => ":attribute URL-osoite on virheellinen.",
+    "timezone"         => "The :attribute must be a valid zone.",
 
     /*
     |--------------------------------------------------------------------------

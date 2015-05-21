@@ -70,10 +70,10 @@ return [
         "string"  => "Trường :attribute phải chứa :size ký tự.",
         "array"   => "Trường :attribute phải chứa :size phần tử.",
     ],
-    "timezone"         => "Trường :attribute phải là một múi giờ hợp lệ.",
     "string"           => "The :attribute must be a string.",
     "unique"           => "Trường :attribute đã có trong CSDL.",
     "url"              => "Trường :attribute không giống với định dạng một URL.",
+    "timezone"         => "Trường :attribute phải là một múi giờ hợp lệ.",
 
     /*
     |--------------------------------------------------------------------------

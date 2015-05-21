@@ -70,10 +70,10 @@ return [
         "string"  => "Isian :attribute harus berukuran :size karakter.",
         "array"   => "Isian :attribute harus mengandung :size item.",
     ],
-    "timezone"             => "Isian :attribute harus berupa zona waktu yang valid.",
     "string"               => "The :attribute must be a string.",
     "unique"               => "Isian :attribute sudah ada sebelumnya.",
     "url"                  => "Format isian :attribute tidak valid.",
+    "timezone"             => "Isian :attribute harus berupa zona waktu yang valid.",
 
     /*
     |---------------------------------------------------------------------------------------

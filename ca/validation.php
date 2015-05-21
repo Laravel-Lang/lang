@@ -71,9 +71,9 @@ return [
         "array"   => ":attribute ha de contenir :size ítems.",
     ],
     "string"           => "The :attribute must be a string.",
+    "timezone"         => "El camp :attribute ha de ser una zona vàlida.",
     "unique"           => ":attribute ja ha estat registrat.",
     "url"              => "El format :attribute és invàlid.",
-    "timezone"         => "El camp :attribute ha de ser una zona vàlida.",
 
     /*
     |--------------------------------------------------------------------------

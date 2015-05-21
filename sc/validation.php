@@ -70,9 +70,9 @@ return [
         "array"   => ":attribute depet cuntènnere :size elementos.",
     ],
     "string"           => "The :attribute must be a string.",
+    "timezone"         => ":attribute depet èssere una zona bàlida.",
     "unique"           => ":attribute est istadu giai impreadu.",
     "url"              => ":attribute depet èssere un'URL.",
-    "timezone"         => ":attribute depet èssere una zona bàlida.",
 
     /*
     |--------------------------------------------------------------------------

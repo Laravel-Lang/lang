@@ -71,9 +71,9 @@ return [
         "array"   => ":attribute :size nesneye sahip olmalıdır.",
     ],
     "string"                => "The :attribute must be a string.",
+    "timezone"              => ":attribute geçerli bir saat dilimi olmalıdır.",
     "unique"                => ":attribute daha önceden kayıt edilmiş.",
     "url"                   => ":attribute biçimi geçersiz.",
-    "timezone"              => ":attribute geçerli bir saat dilimi olmalıdır.",
 
     /*
     |--------------------------------------------------------------------------

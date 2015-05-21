@@ -70,9 +70,9 @@ return [
         "array"   => "The :attribute must contain :size items.",
     ],
     "string"           => "The :attribute must be a string.",
+    "timezone"         => "The :attribute must be a valid zone.",
     "unique"           => ":attribute tashmë është marrë.",
     "url"              => ":attribute formati është i pavlefshëm.",
-    "timezone"         => "The :attribute must be a valid zone.",
 
     /*
     |--------------------------------------------------------------------------

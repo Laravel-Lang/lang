@@ -71,9 +71,9 @@ return [
         "array"   => ":attribute ត្រូវតែមានទំហំ :size។",
     ],
     "string"               => "The :attribute must be a string.",
+    "timezone"         => "The :attribute must be a valid zone.",
     "unique"               => ":attribute ត្រូវបានប្រើរួចហើយ។",
     "url"                  => ":attribute ទំរង់ត្រឹមត្រូវ។",
-    "timezone"         => "The :attribute must be a valid zone.",
 
     /*
     |--------------------------------------------------------------------------

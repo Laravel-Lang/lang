@@ -70,9 +70,9 @@ return [
         "array"   => ":attributeは:size個で指定してください。",
     ],
     "string"           => "The :attribute must be a string.",
+    "timezone"         => ":attributeはタイムゾーンを指定してください。",
     "unique"           => ":attributeが既に存在しています。",
     "url"              => ":attributeにはURLを指定してください。",
-    "timezone"         => ":attributeはタイムゾーンを指定してください。",
 
     /*
     |--------------------------------------------------------------------------

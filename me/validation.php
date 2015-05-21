@@ -70,9 +70,9 @@ return [
         "array"   => "Polje :attribute mora sadržati :size stavki.",
     ],
     "string"           => "The :attribute must be a string.",
+    "timezone"         => "The :attribute must be a valid zone.",
     "unique"           => "Vrijednost za polje :attribute već postoji.",
     "url"              => "Format polja :attribute ne važi.",
-    "timezone"         => "The :attribute must be a valid zone.",
 
     /*
     |--------------------------------------------------------------------------

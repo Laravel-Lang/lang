@@ -71,9 +71,9 @@ return [
         "array"   => "Полето :attribute мора да има :size карактери.",
     ],
     "string"           => "The :attribute must be a string.",
+    "timezone"         => "The :attribute must be a valid zone.",
     "unique"           => "Полето :attribute веќе постои.",
     "url"              => "Полето :attribute не е во валиден формат.",
-    "timezone"         => "The :attribute must be a valid zone.",
 
     /*
     |--------------------------------------------------------------------------

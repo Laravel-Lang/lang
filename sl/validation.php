@@ -70,9 +70,9 @@ return [
         "array"   => ":attribute mora vsebovati :size elementov.",
     ],
     "string"               => "The :attribute must be a string.",
+    "timezone"             => "The :attribute must be a valid zone.",
     "unique"               => ":attribute je že zaseden.",
     "url"                  => ":attribute format je neveljaven.",
-    "timezone"             => "The :attribute must be a valid zone.",
 
     /*
     |--------------------------------------------------------------------------

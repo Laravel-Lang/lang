@@ -71,6 +71,7 @@ return [
         "array"   => ":attribute musí obsahovať :size prvkov.",
     ],
     "timezone"         => "The :attribute must be a valid zone.",
+    "string"           => "The :attribute must be a string.",
     "unique"           => ":attribute je nedostupný.",
     "url"              => ":attribute neplatný formát.",
 

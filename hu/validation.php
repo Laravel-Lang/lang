@@ -71,6 +71,7 @@ return [
         "array"   => "A(z) :attribute :size elemet kell tartalmazzon!",
     ],
     "timezone"         => "The :attribute must be a valid zone.",
+    "string"           => "The :attribute must be a string.",
     "unique"           => "A(z) :attribute már foglalt.",
     "url"              => "A(z) :attribute érvénytelen link.",
 

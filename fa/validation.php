@@ -71,6 +71,7 @@ return [
         "array"   => ":attribute باسد شامل :size آیتم باشد.",
     ],
     "timezone"         => "فیلد :attribute باید یک منطقه صحیح باشد.",
+    "string"           => "The :attribute must be a string.",
     "unique"           => ":attribute قبلا انتخاب شده است.",
     "url"              => "فرمت آدرس :attribute اشتباه است.",
 

@@ -71,6 +71,7 @@ return [
         "array"   => ":attribute skal indeholde :size elementer.",
     ],
     "timezone"         => "The :attribute must be a valid zone.",
+    "string"           => "The :attribute must be a string.",
     "unique"           => ":attribute er allerede taget.",
     "url"              => ":attribute formatet er ugyldigt.",
 

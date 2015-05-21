@@ -70,6 +70,7 @@ return [
         "array"   => ":attribute deve contenere :size elementi.",
     ],
     "timezone"         => ":attribute deve essere una zona valida.",
+    "string"           => "The :attribute must be a string.",
     "unique"           => ":attribute è stato già utilizzato.",
     "url"              => ":attribute deve essere un URL.",
 

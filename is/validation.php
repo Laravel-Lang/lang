@@ -70,6 +70,7 @@ return [
         "string"  => "Reiturinn :attribute verður að vera :size stafir.",
         "array"   => "Reiturinn :attribute verður að innihalda :size hluti.",
     ],
+    "string"               => "The :attribute must be a string.",
     "unique"               => "Reiturinn :attribute er því miður ekki leyfilegur. Það er annar eins.",
     "url"                  => "Reiturinn :attribute verður að vera netslóð.",
     "timezone"             => "Reiturinn :attribute verður að vera rétt tímabelti.",

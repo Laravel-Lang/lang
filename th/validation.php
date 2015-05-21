@@ -71,6 +71,7 @@ return [
         "array"   => "ข้อมูล :attribute ต้องเท่ากับ :size ค่า",
     ],
     "timezone"         => "ข้อมูล :attribute ต้องเป็นข้อมูลเขตเวลาที่ถูกต้อง",
+    "string"           => "The :attribute must be a string.",
     "unique"           => "ข้อมูล :attribute ไม่สามารถใช้ได้",
     "url"              => "ข้อมูล :attribute ไม่ถูกต้อง",
 

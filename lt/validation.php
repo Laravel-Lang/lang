@@ -70,6 +70,7 @@ return [
         "string"  => "Simbolių skaičius lauke :attribute turi būti :size.",
         "array"   => "Elementų kiekis lauke :attribute turi būti :size.",
     ],
+    "string"               => "The :attribute must be a string.",
     "unique"               => "Tokia :attribute reikšmė jau pasirinkta.",
     "url"                  => "Negaliojantis lauko :attribute formatas.",
     "timezone"             => "Lauko :attribute reikšmė turi būti galiojanti laiko zona.",

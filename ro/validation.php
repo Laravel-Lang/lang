@@ -70,6 +70,7 @@ return [
         "array"   => "Câmpul :attribute trebuie sa conțină :size elemente.",
     ],
     "timezone"         => "The :attribute must be a valid zone.",
+    "string"           => "The :attribute must be a string.",
     "unique"           => "Câmpul :attribute a fost deja folosit.",
     "url"              => "Câmpul :attribute nu este într-un format valid.",
 

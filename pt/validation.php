@@ -71,6 +71,7 @@ return [
         "array"   => "O campo :attribute deverá conter :size elementos.",
     ],
     "timezone"         => "O campo :attribute deverá ter um fuso horário válido.",
+    "string"           => "The :attribute must be a string.",
     "unique"           => "O valor indicado para o campo :attribute já se encontra registado.",
     "url"              => "O formato do URL indicado para o campo :attribute é inválido.",
 

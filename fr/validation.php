@@ -71,6 +71,7 @@ return [
         "array"   => "Le tableau :attribute doit contenir :size éléments.",
     ],
     "timezone"             => "Le champ :attribute doit être un fuseau horaire valide.",
+    "string"               => "The :attribute must be a string.",
     "unique"               => "La valeur du champ :attribute est déjà utilisée.",
     "url"                  => "Le format de l'URL de :attribute n'est pas valide.",
 

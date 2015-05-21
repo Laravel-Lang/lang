@@ -71,6 +71,7 @@ return [
         "array"     => ":attribute은(는) 반드시 :max 개의 아이템을 포함해야 합니다.",
     ],
     "timezone"          => ":attribute은(는) 올바른 시간대 이어야 합니다.",
+    "string"            => "The :attribute must be a string.",
     "unique"            => ":attribute은(는) 이미 사용중 입니다.",
     "url"               => ":attribute 형식은 유효하지 않습니다.",
 

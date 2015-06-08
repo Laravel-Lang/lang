@@ -101,6 +101,36 @@ return array(
     |
     */
 
-    'attributes' => array(),
+    'attributes' => array(
+        "name" => "Naam",
+        "username" => "Gebruikersnaam",
+        "email" => "E-mailadres",
+        "first_name" => "Voornaam",
+        "last_name" => "Achternaam",
+        "password" => "Wachtwoord",
+        "password_confirmation" => "Wachtwoord bevestiging",
+        "city" => "Stad",
+        "country" => "Land",
+        "address" => "Adres",
+        "phone" => "Telefoonnummer",
+        "mobile" => "Mobiel",
+        "age" => "Leeftijd",
+        "sex" => "Geslacht",
+        "gender" => "Geslacht",
+        "day" => "Dag",
+        "month" => "Maand",
+        "year" => "Jaar",
+        "hour" => "Uur",
+        "minute" => "Minuut",
+        "second" => "Seconde",
+        "title" => "Titel",
+        "content" => "Content",
+        "description" => "Omschrijving",
+        "excerpt" => "Uittreksel",
+        "date" => "Datum",
+        "time" => "Tijd",
+        "available" => "Beschikbaar",
+        "size" => "Maat"
+    ),
 
 );

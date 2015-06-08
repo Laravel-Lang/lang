@@ -21,6 +21,6 @@ return [
 
     "sent"     => "Pripomienka k zmene hesla bola odoslaná!",
 
-    "reset"    => "Password has been reset!",
+    "reset"    => "Heslo bolo zmenené!",
 
 ];

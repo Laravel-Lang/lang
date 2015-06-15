@@ -13,14 +13,14 @@ return [
     |
     */
 
-    "password" => "Passwords must be six characters and match the confirmation.",
+    "password" => "Fjalëkalimet duhet të jenë gjashtë karaktere dhe të përputhen me konfirmimin.",
 
-    "user"     => "We can't find a user with that e-mail address.",
+    "user"     => "Nuk mund të gjejmë një përdorues me atë adres email-i.",
 
-    "token"    => "This password reset token is invalid.",
+    "token"    => "Ky tallon për ndryshimin e fjalëkalimit është i pasaktë.",
 
-    "sent"     => "Password reset link sent!",
+    "sent"     => "Adresa për ndryshimin e fjalëkalimit u dërgua!",
 
-    "reset"    => "Password has been reset!",
+    "reset"    => "Fjalëkalimi u ndryshua!",
 
 ];

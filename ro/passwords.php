@@ -13,14 +13,10 @@ return [
     |
     */
 
-    "password" => "Parolele trebuie să fie de șase caractere și să se potrivească cu cea de confirmare.",
-
-    "user"     => "Nu putem găsi un utilizator cu acestă adresă de e-mail.",
-
-    "token"    => "Acest token de resetare a parolei este invalid.",
-
-    "sent"     => "Email cu confirmare a resetării parolei a fost trimis!",
-
-    "reset"    => "Password has been reset!",
+    'password' => 'Parolele trebuie să fie de șase caractere și să se potrivească cu cea de confirmare.',
+    'user' => 'Nu putem găsi un utilizator cu acestă adresă de e-mail.',
+    'token' => 'Acest token de resetare a parolei este invalid.',
+    'sent' => 'Email cu confirmare a resetării parolei a fost trimis!',
+    'reset' => 'Parola a fost resetată!',
 
 ];

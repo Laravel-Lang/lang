@@ -9,9 +9,10 @@ return [
     |
     | The following language lines contain the default error messages used by
     | the validator class. Some of these rules have multiple versions such
-    | such as the size rules. Feel free to tweak each of these messages.
+    | as the size rules. Feel free to tweak each of these messages here.
     |
     */
+
     "accepted"         => ":attribute deve essere accettato.",
     "active_url"       => ":attribute non è un URL valido.",
     "after"            => ":attribute deve essere una data successiva al :date.",
@@ -34,8 +35,8 @@ return [
     "digits"           => ":attribute deve essere di :digits cifre.",
     "digits_between"   => ":attribute deve essere tra :min e :max cifre.",
     "email"            => ":attribute non è valido.",
-    "exists"           => ":attribute selezionato/a non è valido.",
     "filled"           => ":attribute è richiesto.",
+    "exists"           => ":attribute selezionato/a non è valido.",
     "image"            => ":attribute deve essere un'immagine.",
     "in"               => ":attribute selezionato non è valido.",
     "integer"          => ":attribute deve essere un numero intero.",

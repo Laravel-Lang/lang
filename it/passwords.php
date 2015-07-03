@@ -19,5 +19,6 @@ return [
     'throttle' => 'Troppi tentativi di accesso. Riprova tra :seconds secondi.',
     'token'    => 'Questo token per la reimpostazione della password non è valido.',
     'user'     => 'Non esiste un utente associato a questo indirizzo e-mail.',
+    'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
 
 ];

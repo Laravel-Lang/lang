@@ -23,4 +23,6 @@ return [
 
     "reset"    => "¡Tu contraseña ha sido restablecida!",
 
+    'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
+
 ];

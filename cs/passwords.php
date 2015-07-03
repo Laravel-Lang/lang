@@ -23,4 +23,6 @@ return [
 
     "reset"    => "Password has been reset!",
 
+    'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
+
 ];

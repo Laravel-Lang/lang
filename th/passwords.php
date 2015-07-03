@@ -23,4 +23,6 @@ return [
 
     "reset"    => "ทำการตั้งค่ารหัสผ่านใหม่แล้ว",
 
+    'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
+
 ];

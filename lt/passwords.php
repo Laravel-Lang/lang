@@ -18,4 +18,5 @@ return [
     "token" => "Šis slaptažodžio raktas yra neteisingas.",
     "sent" => "Naujo slaptažodžio nustatymo nuoroda išsiųsta",
     "reset" => "Nustatytas naujas slaptažodis!",
+    'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
 ];

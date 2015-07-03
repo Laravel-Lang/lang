@@ -23,4 +23,6 @@ return [
 
     "reset"    => "Wachtwoord is veranderd!",
 
+    'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
+
 ];

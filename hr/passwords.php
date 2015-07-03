@@ -22,4 +22,6 @@ return [
     "sent" => "Poveznica za ponovono postavljanje lozinke je poslana!",
 
     "reset" => "Lozinka je postavljena!",
+
+    'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
 ];

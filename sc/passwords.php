@@ -23,4 +23,6 @@ return [
 
     "reset"    => "Sa password est istada torrada a impostare!",
 
+    'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
+
 ];

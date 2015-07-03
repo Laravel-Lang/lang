@@ -23,6 +23,6 @@ return [
 
     "reset"    => "Votre mot de passe a été réinitialisé !",
 
-    'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
+    'throttle' => 'Trop de tentatives de connexion. Veuillez essayer de nouveau dans :seconds secondes.',
 
 ];

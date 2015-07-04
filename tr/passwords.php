@@ -23,6 +23,4 @@ return [
 
     "reset"    => "Şifre sıfırlandı!",
 
-    'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
-
 ];

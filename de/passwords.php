@@ -23,6 +23,4 @@ return [
 
     "reset"    => "Das Passwort wurde zurückgesetzt!",
 
-    'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
-
 ];

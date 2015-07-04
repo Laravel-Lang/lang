@@ -23,6 +23,4 @@ return [
 
     "reset"    => "密碼重設已完成！",
 
-    'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
-
 ];

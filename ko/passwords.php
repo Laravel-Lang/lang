@@ -23,6 +23,4 @@ return [
 
     "reset"    => "비밀번호가 변경되었습니다.",
 
-    'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
-
 ];

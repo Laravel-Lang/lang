@@ -23,6 +23,4 @@ return [
 
     "reset"    => "La contrasenya s'ha restablert!",
 
-    'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
-
 ];

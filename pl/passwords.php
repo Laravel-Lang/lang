@@ -23,6 +23,4 @@ return [
 
     "reset"    => "Hasło zostało zresetowane!",
 
-    'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
-
 ];

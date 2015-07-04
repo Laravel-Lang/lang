@@ -18,5 +18,4 @@ return [
     'token' => 'Помилковий код для зміни пароля.',
     'sent' => 'Ми надіслали на Вашу електронну адресу посилання для зміни пароля!',
     'reset' => 'Ваш пароль змінено!',
-    'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
 ];

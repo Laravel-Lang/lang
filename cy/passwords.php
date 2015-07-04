@@ -18,6 +18,5 @@ return [
     "token" => "Nid yw'r tocyn ail-osod cyfrinair yn ddilys.",
     "sent" => "Rydym wedi e-bostio'r ddolen i ail-osod y cyfrinair!",
     "reset" => "Mae dy gyfrinair wedi ei ail-osod!",
-    'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
 
 ];

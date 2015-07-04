@@ -23,6 +23,4 @@ return [
 
     "reset"    => "تمت إعادة تعيين كلمة السر",
 
-    'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
-
 ];

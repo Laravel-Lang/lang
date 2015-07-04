@@ -23,6 +23,4 @@ return [
 
     "reset"    => "Έχει γίνει επαναφορά του συνθηματικού!",
 
-    'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
-
 ];

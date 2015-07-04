@@ -23,6 +23,4 @@ return [
 
     "reset"    => "Fjalëkalimi u ndryshua!",
 
-    'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
-
 ];

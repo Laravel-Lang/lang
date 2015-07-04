@@ -23,6 +23,4 @@ return [
 
     "reset"    => "Geslo je bilo spremenjeno!",
 
-    'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
-
 ];

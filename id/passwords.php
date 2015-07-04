@@ -23,6 +23,4 @@ return [
 
     "reset"     => "Kata sandi Anda sudah direset!",
 
-    'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
-
 ];

@@ -18,6 +18,5 @@ return [
     "token" => "Kóðinn til að endurheimta lykilorðið er rangur.",
     "sent" => "Við sendum þér tölvupóst með slóð til að endurheimta lykilorðið þitt.",
     "reset" => "Lykilorðið þitt hefur verið endurstillt!",
-    'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
 
 ];

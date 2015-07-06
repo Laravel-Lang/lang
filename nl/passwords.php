@@ -17,7 +17,7 @@ return [
 
     "user"     => "Geen gebruiker bekend met dat e-mailadres.",
 
-    "token"    => "Dit wachtwoord reset token is niet geldig.",
+    "token"    => "Deze wachtwoord reset token is niet geldig.",
 
     "sent"     => "Wachtwoord herinnering verzonden!",
 

@@ -68,7 +68,7 @@ return [
         "string"        => "Polje :attribute mora biti :size karaktera.",
         "array"         => "Polje :attribute mora biti :size karaktera.",
     ],
-    "string"            => "The :attribute must be a string.",
+    "string"            => "Polje :attribute mora sadrzavati slova.",
     "timezone"          => "Polje :attribute mora biti ispravna vremenska zona.",
     "unique"            => "Polje :attribute već postoji.",
     "url"               => "Format polja :attribute nije validan.",

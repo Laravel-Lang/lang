@@ -19,7 +19,7 @@ return [
     "alpha"            => ":attribute 只能以字母組成。",
     "alpha_dash"       => ":attribute 只能以字母、數字及斜線組成。",
     "alpha_num"        => ":attribute 只能以字母及數字組成。",
-    "array"            => ":attribute 必须为数组。",
+    "array"            => ":attribute 必須為陣列。",
     "before"           => ":attribute 必須要在 :date 之前。",
     "between"          => [
         "numeric" => ":attribute 必須介乎 :min 至 :max 之間。",
@@ -35,10 +35,10 @@ return [
     "digits"           => ":attribute 必須是 :digits 位數字。",
     "digits_between"   => ":attribute 必須介乎 :min 至 :max 位數字。",
     "email"            => ":attribute 的格式無效。",
-    "exists"           => "所揀選的 :attribute 選項無效。",
+    "exists"           => "所選擇的 :attribute 選項無效。",
     "filled"           => ":attribute 不能留空。",
     "image"            => ":attribute 必須是一張圖片。",
-    "in"               => "所揀選的 :attribute 選項無效。",
+    "in"               => "所選擇的 :attribute 選項無效。",
     "integer"          => ":attribute 必須是一個整數。",
     "ip"               => ":attribute 必須是一個有效的 IP 地址。",
     "max"              => [
@@ -70,10 +70,10 @@ return [
         "string"  => ":attribute 必須是 :size 個字元。",
         "array"   => ":attribute 必須是 :size 個元素。",
     ],
-    "string"           => ":attribute 必須是一个字符串。",
+    "string"           => ":attribute 必須是一個字串。",
     "timezone"         => ":attribute 必須是一個正確的時區值。",
     "unique"           => ":attribute 已經存在。",
-    "url"              => ":attribute 的格式錯鋘。",
+    "url"              => ":attribute 的格式錯誤。",
 
     /*
     |--------------------------------------------------------------------------

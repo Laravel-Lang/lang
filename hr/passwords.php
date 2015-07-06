@@ -22,4 +22,5 @@ return [
     "sent" => "Poveznica za ponovono postavljanje lozinke je poslana!",
 
     "reset" => "Lozinka je postavljena!",
+
 ];

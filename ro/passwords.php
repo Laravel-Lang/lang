@@ -18,4 +18,5 @@ return [
     'token' => 'Acest token de resetare a parolei este invalid.',
     'sent' => 'Email cu confirmare a resetării parolei a fost trimis!',
     'reset' => 'Parola a fost resetată!',
+
 ];

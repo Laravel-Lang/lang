@@ -15,7 +15,7 @@ return [
     */
 
     "accepted"             => "Вы должны принять :attribute.",
-    "active_url"           => "Поле :attribute недействительный URL.",
+    "active_url"           => "Поле :attribute содержит недействительный URL.",
     "after"                => "В поле :attribute должна быть дата после :date.",
     "alpha"                => "Поле :attribute может содержать только буквы.",
     "alpha_dash"           => "Поле :attribute может содержать только буквы, цифры и дефис.",
@@ -36,8 +36,8 @@ return [
     "digits"               => "Длина цифрового поля :attribute должна быть :digits.",
     "digits_between"       => "Длина цифрового поля :attribute должна быть между :min и :max.",
     "email"                => "Поле :attribute должно быть действительным электронным адресом.",
-    "exists"               => "Выбранное значение для :attribute некорректно.",
     "filled"               => "Поле :attribute обязательно для заполнения.",
+    "exists"               => "Выбранное значение для :attribute некорректно.",
     "image"                => "Поле :attribute должно быть изображением.",
     "in"                   => "Выбранное значение для :attribute ошибочно.",
     "integer"              => "Поле :attribute должно быть целым числом.",
@@ -71,7 +71,7 @@ return [
         "string"  => "Количество символов в поле :attribute должно быть равным :size.",
         "array"   => "Количество элементов в поле :attribute должно быть равным :size.",
     ],
-    "string"               => "The :attribute must be a string.",
+    "string"               => "Поле :attribute должно быть строкой.",
     "timezone"             => "Поле :attribute должно быть действительным часовым поясом.",
     "unique"               => "Такое значение поля :attribute уже существует.",
     "url"                  => "Поле :attribute имеет ошибочный формат.",
@@ -84,7 +84,7 @@ return [
     | Здесь Вы можете указать собственные сообщения для атрибутов.
     | Это позволяет легко указать свое сообщение для заданного правила атрибута.
     |
-    | http://laravel.com/docs/validation#custom-error-messages
+    | http://laravel.com/docs/5.1/validation#custom-error-messages
     | Пример использования
     |
     |   'custom' => [

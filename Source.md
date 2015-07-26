@@ -3,6 +3,7 @@
 Albanian (sq)
 
 * [Flakerim Ismani](https://github.com/Flakerimi)
+* [Shefqet Avdullau](https://github.com/shefi)
 
 Arabic (ar)
 
@@ -16,6 +17,7 @@ Bosnian (bs)
 
 * [Edis Golubić](https://github.com/golubic)
 * [mrakodol](https://github.com/mrakodol)
+* [Stojan Kukrika](https://github.com/stojankukrika)
 
 Brazilian (pt-BR)
 
@@ -42,13 +44,21 @@ Catalan (ca)
 
 Chinese (zh-CN)
 
-* [Carlos](https://github.com/overtrue)
+* [安正超](https://github.com/overtrue)
 * [JohnLui](https://github.com/johnlui)
+* [keeword](https://github.com/keeword)
 * [phoenixg](https://github.com/phoenixg)
+* [zhuzhichao](https://github.com/zhuzhichao)
 
 Chinese from Taiwan (zh-TW)
 
-* [Carlos](https://github.com/overtrue)
+* [安正超](https://github.com/overtrue)
+* [Wei-Hao Syu](https://github.com/whsyu)
+* [zhuzhichao](https://github.com/zhuzhichao)
+
+Croatian (hr)
+
+* [Denis Stančer](https://github.com/dstancer)
 
 Czech (cs)
 
@@ -66,12 +76,14 @@ Dutch (nl)
 * [Herman](https://github.com/sintemaa)
 * [Jaspur](https://github.com/jaspur)
 * [Jeroen Gerits](https://github.com/jeroengerits)
+* [jordyvandomselaar](https://github.com/jordyvandomselaar)
 * [juukie14](https://github.com/juukie14)
 * [Mark Mooibroek](https://github.com/markmooibroek)
 * [Thomas de Zeeuw](https://github.com/Thomasdezeeuw)
 
 Farsi (fa)
 
+* [Mahdi Ghadamyari](https://github.com/i0)
 * [Reza](https://github.com/PlangCoder)
 
 Finnish (fi)
@@ -88,6 +100,7 @@ French (fr)
 * [Erwan](https://github.com/NaWer)
 * [Fred Delrieu](https://github.com/caouecs)
 * [Laravel-France](https://github.com/laravel-france)
+* [lucbu](https://github.com/lucbu)
 * [Youghourta Benali](https://github.com/djug)
 
 German (de)
@@ -114,8 +127,13 @@ Hebrew (he)
 
 Hungarian (hu)
 
+* [lintaba](https://github.com/lintaba)
 * [Tamás Erdélyi](https://github.com/terdelyi)
 * [Zsombor Franczia](https://github.com/frzsombor)
+
+Icelandic (is)
+
+* [Kristján Ingi Geirsson](https://github.com/kristjaningi)
 
 Indonesian (id)
 
@@ -143,6 +161,7 @@ Korean (ko)
 
 Lithunian (lt)
 
+* sigitas
 * [trigras](https://github.com/trigras)
 
 Macedonian (mk)
@@ -179,6 +198,7 @@ Romanian (ro)
 
 * [flavy](https://github.com/flavy)
 * [Ionut Tanasa](https://github.com/ionut-tanasa)
+* [Liviu Roman](https://github.com/liviuroman)
 * [Vadim](https://github.com/cojocaru)
 
 Russian (ru)
@@ -186,9 +206,9 @@ Russian (ru)
 * [Evgeny Kovalev](https://github.com/EvgenyKovalev)
 * [Vasily Tsybenko](https://github.com/VasayXTX)
 
-Sardinian (sa)
+Sardinian (sc)
 
-* Massimeddu Cireddu
+* [Massimeddu Cireddu](https://github.com/massimeddu)
 
 Serbian (sr)
 
@@ -199,6 +219,11 @@ Slovak (sk)
 
 * [Andrej Badin](https://github.com/Andreyco)
 * [Martin Olšanský](https://github.com/MartinOlsansky)
+* [Peter Angelov](https://github.com/peterangelov)
+
+Slovene (sl)
+
+* [extra90](https://github.com/extra90)
 
 Spanish (es)
 
@@ -214,6 +239,7 @@ Swedish (sv)
 * [Alexander Wallin](https://github.com/alexanderwallin)
 * [Christoffer Rydberg](https://github.com/murum)
 * [coldKingdom](https://github.com/coldKingdom)
+* [Jellyfrog](https://github.com/Jellyfrog)
 * [Jonas Söderberg](https://github.com/imevul)
 * [Linus Odenring](https://github.com/linusodenring)
 * [Robin Hallabro](https://github.com/hallabro)
@@ -228,21 +254,29 @@ Thai (th)
 
 Traditional Chinese (Hong Kong) (zh-HK)
 
-* [Carlos](https://github.com/overtrue)
+* [安正超](https://github.com/overtrue)
 * [Eric Li](https://github.com/ericksli)
 * [Fatih AYTAÇ](https://github.com/computeus)
+* [keeword](https://github.com/keeword)
+* [zhuzhichao](https://github.com/zhuzhichao)
 
 Turkish (tr)
 
 * [Arda Kılıçdağı](https://github.com/Ardakilic)
 * [azakhi](https://github.com/azakhi)
 * [Isa Ishangulyyev](https://github.com/isa424)
+* [Mete Kabak](https://github.com/metekabak)
 * [pellempus](https://github.com/pellempus)
 * [Sinan Eldem](https://github.com/sineld)
 
 Turkmen (tk)
 
 * [Isa Ishangulyyev](https://github.com/isa424)
+
+Ukrainian (uk)
+
+* [Denis Isaychenko](https://github.com/Rhincodon)
+* taras
 
 Vietnamese (vi)
 

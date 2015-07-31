@@ -36,7 +36,7 @@ How add languages in my app ?
 
 ### Installation by Command
 
-If you have a Laravel5 project, you can use `laravel-lang` project of overtrue : *composer require "overtrue/laravel-lang:dev-master"*
+If you have a Laravel5 project, you can use `laravel-lang` project of overtrue : *composer require "caouecs/laravel-lang:dev-master"*
 
 ### Language by default in your app
 

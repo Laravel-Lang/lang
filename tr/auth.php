@@ -10,6 +10,6 @@ return [
     | these language lines according to your application's requirements.
     |
     */
-    'failed' => 'These credentials do not match our records.',
-    'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
+    'failed' => 'Bu bilgilere ait kayıt bulunamadı. ',
+    'throttle' => 'Çok fazla giriş yapma denemesi.  Lütfen :seconds saniye sonra tekrar deneyiniz.',
 ];

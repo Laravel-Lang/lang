@@ -41,6 +41,7 @@ return [
     "in"                => "선택된 :attribute은(는) 유효하지 않습니다.",
     "integer"           => ":attribute은(는) 반드시 정수여야 합니다.",
     "ip"                => ":attribute은(는) 반드시 유효한 IP 주소여야 합니다.",
+    'json'              => 'The :attribute must be a valid JSON string.',
     "max"               => [
         "numeric"   => ":attribute은(는) 반드시 :max 보다 작아야 합니다.",
         "file"      => ":attribute은(는) 반드시 :max 킬로바이트보다 작아야 합니다.",

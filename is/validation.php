@@ -41,6 +41,7 @@ return [
     "in"                   => "Reiturinn :attribute er ekki réttur.",
     "integer"              => "Reiturinn :attribute verður að vera tala.",
     "ip"                   => "Reiturinn :attribute verður að vera lögleg IP-tala.",
+    'json'                 => 'The :attribute must be a valid JSON string.',
     "max"                  => [
         "numeric" => "Reiturinn :attribute verður að innihalda færri stafi en :max.",
         "file"    => "Reiturinn :attribute verður að vera minni en :max kílóbæt.",

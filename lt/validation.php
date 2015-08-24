@@ -41,6 +41,7 @@ return [
     "in"                   => "Pasirinkta negaliojanti :attribute reikšmė.",
     "integer"              => "Lauko :attribute reikšmė turi būti veikasis skaičius.",
     "ip"                   => "Lauko :attribute reikšmė turi būti galiojantis IP adresas.",
+    'json'                 => 'The :attribute must be a valid JSON string.',
     "max"                  => [
         "numeric" => "Lauko :attribute reikšmė negali būti didesnė nei :max.",
         "file"    => "Failo dydis lauke :attribute reikšmė negali būti didesnė nei :max kilobaitų.",

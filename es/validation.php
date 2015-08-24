@@ -41,6 +41,7 @@ return [
     "in"               => ":attribute es inválido.",
     "integer"          => ":attribute debe ser un número entero.",
     "ip"               => ":attribute debe ser una dirección IP válida.",
+    'json'             => 'The :attribute must be a valid JSON string.',
     "max"              => [
         "numeric" => ":attribute no debe ser mayor a :max.",
         "file"    => ":attribute no debe ser mayor que :max kilobytes.",

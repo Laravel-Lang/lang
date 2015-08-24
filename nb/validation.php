@@ -41,6 +41,7 @@ return [
     "in"               => "Det valgte :attribute er ugyldig.",
     "integer"          => ":attribute skal være et heltall.",
     "ip"               => ":attribute skal være en gyldig IP adresse.",
+    'json'             => 'The :attribute must be a valid JSON string.',
     "max"              => [
         "numeric" => ":attribute skal være mindre enn :max.",
         "file"    => ":attribute skal være mindre enn :max kilobytes.",

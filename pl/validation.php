@@ -41,6 +41,7 @@ return [
     "in"               => "Zaznaczony :attribute jest nieprawidłowy.",
     "integer"          => ":attribute musi być liczbą całkowitą.",
     "ip"               => ":attribute musi być prawidłowym adresem IP.",
+    'json'             => 'The :attribute must be a valid JSON string.',
     "max"              => [
         "numeric" => ":attribute nie może być większy niż :max.",
         "file"    => ":attribute nie może być większy niż :max kilobajtów.",

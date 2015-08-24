@@ -38,6 +38,7 @@ return [
     "in" => "Odabrano polje :attribute nije ispravno.",
     "integer" => "Polje :attribute mora biti broj.",
     "ip" => "Polje :attribute mora biti ispravna IP adresa.",
+    'json' => 'The :attribute must be a valid JSON string.',
     "max" => [
         "numeric" => "Polje :attribute mora biti manje od :max.",
         "file" => "Polje :attribute mora biti manje od :max kilobajta.",

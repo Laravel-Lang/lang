@@ -41,6 +41,7 @@ return [
     "in"                    => ":attribute mukdary ýalňyş.",
     "integer"               => ":attribute san bolmalydyr.",
     "ip"                    => ":attribute dogry IP adres bolmalydyr.",
+    'json'                  => 'The :attribute must be a valid JSON string.',
     "max"                   => [
         "numeric" => ":attribute :max den kiçi bolmalydyr.",
         "file"    => ":attribute :max kilobaýtdan kiçi bolmalydyr.",

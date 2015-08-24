@@ -41,6 +41,7 @@ return [
     "in"               => "ข้อมูล ที่ถูกเลือกใน :attribute ไม่ถูกต้อง",
     "integer"          => "ข้อมูล :attribute ต้องเป็นตัวเลข",
     "ip"               => "ข้อมูล :attribute ต้องเป็น IP",
+    'json'             => 'The :attribute must be a valid JSON string.',
     "max"              => [
         "numeric" => "ข้อมูล :attribute ต้องมีจำนวนไม่เกิน :max.",
         "file"    => "ข้อมูล :attribute ต้องมีจำนวนไม่เกิน :max กิโลไบต์",

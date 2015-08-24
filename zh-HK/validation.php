@@ -41,6 +41,7 @@ return [
     "in"               => "所揀選的 :attribute 選項無效。",
     "integer"          => ":attribute 必須是一個整數。",
     "ip"               => ":attribute 必須是一個有效的 IP 地址。",
+    'json'             => 'The :attribute must be a valid JSON string.',
     "max"              => [
         "numeric" => ":attribute 不能大於 :max。",
         "file"    => ":attribute 不能大於 :max kb。",

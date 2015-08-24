@@ -40,6 +40,7 @@ return [
     "in"               => "選択された:attributeが正しくありません。",
     "integer"          => ":attributeには整数を指定してください。",
     "ip"               => ":attributeには有効なIPアドレスを指定してください。",
+    'json'             => 'The :attribute must be a valid JSON string.',
     "max"              => [
         "numeric" => ":attributeには:max以下の数字を指定してください。",
         "file"    => ":attributeのサイズが:max kB以下のファイルを指定してください。",

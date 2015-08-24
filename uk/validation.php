@@ -41,6 +41,7 @@ return [
     'in'                   => 'Вибране для :attribute значення не коректне.',
     'integer'              => 'Поле :attribute повинно містити ціле число.',
     'ip'                   => 'Поле :attribute повинно містити IP адресу.',
+    'json'                 => 'The :attribute must be a valid JSON string.',
     'max'                  => [
         'numeric' => 'Поле :attribute повинно бути не більше :max.',
         'file'    => 'Файл в полі :attribute повинен бути не більше :max Кілобайт.',

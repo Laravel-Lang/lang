@@ -41,6 +41,7 @@ return [
     "in"               => "Το επιλεγμένο :attribute δεν είναι έγκυρο.",
     "integer"          => "Το πεδίο :attribute πρέπει να είναι ακέραιος.",
     "ip"               => "Το πεδίο :attribute πρέπει να είναι μία έγκυρη διεύθυνση IP.",
+    'json'             => 'The :attribute must be a valid JSON string.',
     "max"              => [
         "numeric" => "Το πεδίο :attribute δεν μπορεί να είναι μεγαλύτερο από :max.",
         "file"    => "Το πεδίο :attribute δεν μπορεί να είναι μεγαλύτερό :max kilobytes.",

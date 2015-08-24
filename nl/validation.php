@@ -41,6 +41,7 @@ return [
     "in"             => ":attribute is ongeldig.",
     "integer"        => ":attribute moet een getal zijn.",
     "ip"             => ":attribute moet een geldig IP-adres zijn.",
+    'json'           => 'The :attribute must be a valid JSON string.',
     "max"            => [
         "numeric" => ":attribute moet minder dan :max zijn.",
         "file"    => ":attribute moet minder dan :max kilobytes zijn.",

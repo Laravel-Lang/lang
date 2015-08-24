@@ -40,6 +40,7 @@ return [
     "in"               => ":attribute përzgjedhur është i/e pasaktë.",
     "integer"          => ":attribute duhet të jetë numër i plotë.",
     "ip"               => ":attribute duhet të jetë një IP adresë e saktë.",
+    'json'             => 'The :attribute must be a valid JSON string.',
     "max"              => [
         "numeric" => ":attribute nuk mund të jetë më tepër se :max.",
         "file"    => ":attribute nuk mund të jetë më tepër se :max kilobajtë.",

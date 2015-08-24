@@ -41,6 +41,7 @@ return [
     "in"               => "Giá trị đã chọn trong trường :attribute không hợp lệ.",
     "integer"          => "Trường :attribute phải là một số nguyên.",
     "ip"               => "Trường :attribute phải là một địa chỉa IP.",
+    'json'             => 'The :attribute must be a valid JSON string.',
     "max"              => [
         "numeric" => "Trường :attribute không được lớn hơn :max.",
         "file"    => "Dung lượng tập tin trong trường :attribute không được lớn hơn :max kB.",

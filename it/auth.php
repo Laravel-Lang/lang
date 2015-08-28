@@ -1,5 +1,7 @@
 <?php
+
 return [
+
     /*
     |--------------------------------------------------------------------------
     | Authentication Language Lines
@@ -10,6 +12,8 @@ return [
     | these language lines according to your application's requirements.
     |
     */
-    'failed' => 'Credenziali non corrispondenti ai dati registrati.',
+
+    'failed'   => 'Credenziali non corrispondenti ai dati registrati.',
     'throttle' => 'Troppi tentativi di accesso. Riprova tra :seconds secondi.',
+
 ];

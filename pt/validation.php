@@ -41,7 +41,7 @@ return [
     "in"               => "O campo :attribute não contém um valor válido.",
     "integer"          => "O campo :attribute deverá conter um número inteiro.",
     "ip"               => "O campo :attribute deverá conter um IP válido.",
-    'json'             => 'The :attribute must be a valid JSON string.',
+    'json'             => 'O campo :attribute deverá conter um texto JSON válido.',
     "max"              => [
         "numeric" => "O campo :attribute não deverá conter um valor superior a :max.",
         "file"    => "O campo :attribute não deverá ter um tamanho superior a :max kilobytes.",

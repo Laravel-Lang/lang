@@ -13,14 +13,14 @@ return [
     |
     */
 
-    "password" => "Passwords skal minimum være 6 tegn og matche sikkerhedstjekket.",
+    "password" => "Adgangskoder skal minimum være 6 tegn og skal være tastet ens i begge felter.",
 
-    "user"     => "Vi kan ikke finde en bruger med den email-adresse.",
+    "user"     => "Vi kan ikke finde en bruger med den e-mail adresse.",
 
-    "token"    => "Password-nulstillingskoden er ugyldig.",
+    "token"    => "Koden til nulstilling af adgangskoden er ugyldig.",
 
-    "sent"     => "Password-påmindelse sendt!",
+    "sent"     => "Vi har sendt dig en e-mail til at nulstille din adgangskode!",
 
-    "reset"    => "Password has been reset!",
+    "reset"    => "Adgangskoden er blevet nulstillet!",
 
 ];

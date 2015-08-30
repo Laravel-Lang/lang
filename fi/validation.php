@@ -41,6 +41,7 @@ return [
     "in"               => "valittu :attribute on virheellinen.",
     "integer"          => ":attribute pitää olla numero.",
     "ip"               => ":attribute pitää olla validi IP-osoite.",
+    'json'             => 'The :attribute must be a valid JSON string.',
     "max"              => [
         "numeric" => ":attribute pitää olla pienempi kuin :max.",
         "file"    => ":attribute pitää olla pienempi :max kilobittiä.",

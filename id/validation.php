@@ -41,6 +41,7 @@ return [
     "in"                   => "Isian :attribute yang dipilih tidak valid.",
     "integer"              => "Isian :attribute harus merupakan bilangan bulat.",
     "ip"                   => "Isian :attribute harus berupa alamat IP yang valid.",
+    'json'                 => 'The :attribute must be a valid JSON string.',
     "max"                  => [
         "numeric" => "Isian :attribute seharusnya tidak lebih dari :max.",
         "file"    => "Isian :attribute seharusnya tidak lebih dari :max kilobytes.",
@@ -70,7 +71,7 @@ return [
         "string"  => "Isian :attribute harus berukuran :size karakter.",
         "array"   => "Isian :attribute harus mengandung :size item.",
     ],
-    "string"               => "The :attribute must be a string.",
+    "string"               => "Isian :attribute harus berupa string.",
     "timezone"             => "Isian :attribute harus berupa zona waktu yang valid.",
     "unique"               => "Isian :attribute sudah ada sebelumnya.",
     "url"                  => "Format isian :attribute tidak valid.",

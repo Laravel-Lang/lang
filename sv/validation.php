@@ -40,6 +40,7 @@ return [
     "in"               => "Det valda :attribute är ogiltigt.",
     "integer"          => ":attribute måste vara en siffra.",
     "ip"               => ":attribute måste vara en giltig IP-adress.",
+    'json'             => 'The :attribute must be a valid JSON string.',
     "max"              => [
         "numeric" => ":attribute får inte vara större än :max.",
         "file"    => ":attribute får max vara :max kilobyte stor.",

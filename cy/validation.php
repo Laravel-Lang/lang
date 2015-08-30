@@ -41,6 +41,7 @@ return [
     "in"                   => "Nid yw :attribute yn ddilys.",
     "integer"              => "Rhaid i :attribute fod yn integer.",
     "ip"                   => "Rhaid i :attribute fod yn gyfeiriad IP dilys.",
+    'json'                 => 'The :attribute must be a valid JSON string.',
     "max"                  => [
         "numeric" => "Ni chai :attribute fod yn fwy na :max.",
         "file"    => "Ni chai :attribute fod yn fwy na :max kilobytes.",

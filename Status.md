@@ -1,5 +1,7 @@
 # Status of Languages
 
+ => Not up to date
+
 | Language | name | v4.0 | v4.1 | required_without_all | val.email | required_with_all | val.boolean | reminders.reset | val.timezone |
 |----------|:----:|:----:|:----:|:--------------------:|:---------:|:-----------------:|:-----------:|:---------------:|:------------:|
 | Albanian | sq | -- | -- | -- | -- | -- | -- | -- | -- |

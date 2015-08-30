@@ -41,6 +41,7 @@ return [
     "in"                   => "Le champ :attribute est invalide.",
     "integer"              => "Le champ :attribute doit être un entier.",
     "ip"                   => "Le champ :attribute doit être une adresse IP valide.",
+    'json'                 => 'Le champ :attribute doit être un document JSON valide.',
     "max"                  => [
         "numeric" => "La valeur de :attribute ne peut être supérieure à :max.",
         "file"    => "Le fichier :attribute ne peut être plus gros que :max kilo-octets.",

@@ -41,6 +41,7 @@ return [
     "in"               => ":attribute انتخاب شده، معتبر نیست.",
     "integer"          => ":attribute باید نوع داده ای عددی (integer) باشد.",
     "ip"               => ":attribute باید IP آدرس معتبر باشد.",
+    'json'             => 'The :attribute must be a valid JSON string.',
     "max"              => [
         "numeric" => ":attribute نباید بزرگتر از :max باشد.",
         "file"    => ":attribute نباید بزرگتر از :max کیلوبایت باشد.",

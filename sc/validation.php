@@ -40,6 +40,7 @@ return [
     "in"               => ":attribute seberadu no est bàlidu.",
     "integer"          => ":attribute depet èssere intreu.",
     "ip"               => ":attribute depet èssere un'indiritzu IP bàlidu.",
+    'json'             => 'The :attribute must be a valid JSON string.',
     "max"              => [
         "numeric" => ":attribute depet èssere prus piticu de :max.",
         "file"    => ":attribute non depet èssere prus mannu de :max kilobytes.",

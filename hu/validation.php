@@ -41,6 +41,7 @@ return [
     "in"               => "A kiválasztott :attribute érvénytelen.",
     "integer"          => "A(z) :attribute értéke szám kell, hogy legyen!",
     "ip"               => "A(z) :attribute érvényes IP cím kell, hogy legyen!",
+    'json'             => 'The :attribute must be a valid JSON string.',
     "max"              => [
         "numeric" => "A(z) :attribute értéke nem lehet nagyobb, mint :max!",
         "file"    => "A(z) :attribute mérete nem lehet több, mint :max kilobájt.",

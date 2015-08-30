@@ -41,6 +41,7 @@ return [
     "in"                   => "ការជ្រើសរើស :attribute មិនត្រឹមត្រូវ។",
     "integer"              => ":attribute ត្រូវតែជាចំនួនគត់។",
     "ip"                   => ":attribute ត្រូវតែជា IP address​ត្រឹមត្រូវ។",
+    'json'                 => 'The :attribute must be a valid JSON string.',
     "max"                  => [
         "numeric" => ":attribute មិនត្រូវធំជាង :max​។",
         "file"    => ":attribute មិនត្រូវធំជាង :max គីឡូបៃ។",

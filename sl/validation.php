@@ -40,6 +40,7 @@ return [
     "in"                   => "izbran :attribute je neveljaven.",
     "integer"              => ":attribute mora biti število.",
     "ip"                   => ":attribute mora biti veljaven IP naslov.",
+    'json'                 => 'The :attribute must be a valid JSON string.',
     "max"                  => [
         "numeric" => ":attribute ne sme biti večje od :max.",
         "file"    => ":attribute ne sme biti večje :max kilobajtov.",

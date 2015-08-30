@@ -41,6 +41,7 @@ return [
     "in"                    => ":attribute değeri geçersiz.",
     "integer"               => ":attribute tamsayı olmalıdır.",
     "ip"                    => ":attribute geçerli bir IP adresi olmalıdır.",
+    'json'                  => 'The :attribute must be a valid JSON string.',
     "max"                   => [
         "numeric" => ":attribute değeri :max değerinden küçük olmalıdır.",
         "file"    => ":attribute değeri :max kilobayt değerinden küçük olmalıdır.",

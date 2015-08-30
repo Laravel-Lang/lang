@@ -41,6 +41,7 @@ return [
     'in'                   => 'Câmpul :attribute selectat este invalid.',
     'integer'              => 'Câmpul :attribute trebuie să fie un număr întreg.',
     'ip'                   => 'Câmpul :attribute trebuie să fie o adresă IP validă.',
+    'json'                 => 'The :attribute must be a valid JSON string.',
     'max'                  => [
         'numeric' => 'Câmpul :attribute trebuie să fie mai mic de :max.',
         'file'    => 'Câmpul :attribute trebuie să fie mai mic de :max kilobiți.',

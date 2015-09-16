@@ -43,10 +43,10 @@ return [
     "ip"             => ":attribute moet een geldig IP-adres zijn.",
     'json'           => 'The :attribute must be a valid JSON string.',
     "max"            => [
-        "numeric" => ":attribute moet minder dan :max zijn.",
-        "file"    => ":attribute moet minder dan :max kilobytes zijn.",
-        "string"  => ":attribute moet minder dan :max karakters zijn.",
-        "array"   => ":attribute mag maximaal :max items bevatten.",
+        "numeric" => ":attribute mag niet hoger dan :max zijn.",
+        "file"    => ":attribute mag niet meer dan :max kilobytes zijn.",
+        "string"  => ":attribute mag niet uit meer dan :max karakters bestaan.",
+        "array"   => ":attribute mag niet meer dan :max items bevatten.",
     ],
     "mimes"          => ":attribute moet een bestand zijn van het bestandstype :values.",
     "min"            => [

@@ -1,5 +1,7 @@
 <?php
+
 return [
+
     /*
     |--------------------------------------------------------------------------
     | Authentication Language Lines
@@ -10,6 +12,8 @@ return [
     | these language lines according to your application's requirements.
     |
     */
-    'failed' => 'These credentials do not match our records.',
-    'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
+
+    'failed' => 'Datele de identificare nu pot fi confirmate.',
+    'throttle' => 'Prea multe încercari de intrare în cont. Poți încerca din nou peste :seconds secunde.',
+
 ];

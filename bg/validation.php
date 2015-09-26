@@ -41,7 +41,7 @@ return [
     "in"               => "Избраното поле :attribute е невалидно.",
     "integer"          => "Полето :attribute трябва да бъде цяло число.",
     "ip"               => "Полето :attribute трябва да бъде IP адрес.",
-    'json'             => 'The :attribute must be a valid JSON string.',
+    'json'             => 'Полето :attribute трябва да бъде JSON низ.',
     "max"              => [
         "numeric" => "Полето :attribute трябва да бъде по-малко от :max.",
         "file"    => "Полето :attribute трябва да бъде по-малко от :max килобайта.",

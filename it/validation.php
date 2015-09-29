@@ -57,14 +57,14 @@ return [
         'array'   => ":attribute deve avere almeno :min elementi.",
     ],
 
-    'not_in'               => "Il valore selezionato per :attribute non è valido."
-    'numeric'              => ":attribute deve essere un numero."
-    'regex'                => "Il formato del campo :attribute non è valido."
-    'required'             => "Il campo :attribute è richiesto."
-    'required_if'          => "Il campo :attribute è richiesto quando :other è :value."
-    'required_with'        => "Il campo :attribute è richiesto quando :values è presente."
-    'required_with_all'    => "Il campo :attribute è richiesto quando :values è presente."
-    'required_without'     => "Il campo :attribute è richiesto quando :values non è presente."
+    'not_in'               => "Il valore selezionato per :attribute non è valido.",
+    'numeric'              => ":attribute deve essere un numero.",
+    'regex'                => "Il formato del campo :attribute non è valido.",
+    'required'             => "Il campo :attribute è richiesto.",
+    'required_if'          => "Il campo :attribute è richiesto quando :other è :value.",
+    'required_with'        => "Il campo :attribute è richiesto quando :values è presente.",
+    'required_with_all'    => "Il campo :attribute è richiesto quando :values è presente.",
+    'required_without'     => "Il campo :attribute è richiesto quando :values non è presente.",
     'required_without_all' => "Il campo :attribute è richiesto quando nessuno di :values è presente.",
     'same'                 => ":attribute e :other devono coincidere.",
     'size'                 => [

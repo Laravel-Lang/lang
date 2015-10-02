@@ -55,7 +55,7 @@ return [
         "string"    => ":attribute은(는) 반드시 :min 자리보다 커야 합니다.",
         "array"     => ":attribute은(는) 반드시 :max 아이템보다 커야 합니다.",
     ],
-    "notin"             => "선택된 :attribute은(는) 유효하지 않습니다.",
+    "not_in"            => "선택된 :attribute은(는) 유효하지 않습니다.",
     "numeric"           => ":attribute은(는) 반드시 숫자여야 합니다.",
     "regex"             => ":attribute 형식은 유효하지 않습니다.",
     "required"          => ":attribute 필드는 필수입니다.",

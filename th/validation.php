@@ -41,7 +41,7 @@ return [
     "in"               => "ข้อมูล ที่ถูกเลือกใน :attribute ไม่ถูกต้อง",
     "integer"          => "ข้อมูล :attribute ต้องเป็นตัวเลข",
     "ip"               => "ข้อมูล :attribute ต้องเป็น IP",
-    'json'             => 'The :attribute must be a valid JSON string.',
+    'json'             => 'ข้อมูล :attribute ต้องเป็นอักขระ JSON ที่สมบูรณ์',
     "max"              => [
         "numeric" => "ข้อมูล :attribute ต้องมีจำนวนไม่เกิน :max.",
         "file"    => "ข้อมูล :attribute ต้องมีจำนวนไม่เกิน :max กิโลไบต์",
@@ -71,7 +71,7 @@ return [
         "string"  => "ข้อมูล :attribute ต้องเท่ากับ :size ตัวอักษร",
         "array"   => "ข้อมูล :attribute ต้องเท่ากับ :size ค่า",
     ],
-    "string"           => "The :attribute must be a string.",
+    "string"           => "ข้อมูล :attribute ต้องเป็นอักขระ",
     "timezone"         => "ข้อมูล :attribute ต้องเป็นข้อมูลเขตเวลาที่ถูกต้อง",
     "unique"           => "ข้อมูล :attribute ไม่สามารถใช้ได้",
     "url"              => "ข้อมูล :attribute ไม่ถูกต้อง",

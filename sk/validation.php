@@ -41,7 +41,7 @@ return [
     "in"               => "označený :attribute je neplatný.",
     "integer"          => ":attribute musí byť celé číslo.",
     "ip"               => ":attribute musí byť platná IP adresa.",
-    'json'             => 'The :attribute must be a valid JSON string.',
+    'json'             => ":attribute musí byť platný JSON reťazec.",
     "max"              => [
         "numeric" => ":attribute nemôže byť väčší ako :max.",
         "file"    => ":attribute nemôže byť väčší ako :max kilobajtov.",

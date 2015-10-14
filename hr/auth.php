@@ -11,5 +11,5 @@ return [
     |
     */
     'failed' => 'Ovi podaci ne odgovaraju našima.',
-    'throttle' => 'Previše pogušaja prijave. Molim Vas pokušajte ponovno za :seconds sekundi.',
+    'throttle' => 'Previše pokušaja prijave. Molim Vas pokušajte ponovno za :seconds sekundi.',
 ];

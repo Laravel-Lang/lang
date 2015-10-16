@@ -114,6 +114,10 @@ German (de)
 * [Martin Hettiger](https://github.com/hettiger)
 * [nullEuro](https://github.com/nullEuro)
 
+Georgian (ka)
+
+* [Lado Lomidze (Landish)](https://github.com/Landish/)
+
 Greek (el)
 
 * [dimsav](https://github.com/dimsav)

@@ -20,6 +20,7 @@
 | Finnish | fi | -- | OK | -- | -- | -- | -- | -- | -- |
 | French | fr | OK | OK | OK | OK | OK | OK | OK | OK |
 | German | de | OK | OK | OK | OK | OK | OK | OK | OK |
+| Georgian | ka | OK | OK | OK | OK | OK | OK | OK | OK |
 | Greek | el | OK | OK | OK | OK | OK | OK | OK | OK |
 | Hebrew | he | -- | -- | -- | -- | -- | -- | -- | -- |
 | Hungarian | hu | OK | OK | OK | OK | OK | OK | -- | -- |

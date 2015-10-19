@@ -13,14 +13,14 @@ return [
     |
     */
 
-    "password" => "Lozinke moraju biti najmanje 6 karaktera.",
+    'password' => 'Lozinke moraju biti najmanje 6 karaktera.',
 
-    "user"     => "Nijesmo uspeli pronaći korisnika sa unešenom emajl adresom.",
+    'user'     => 'Nijesmo uspeli pronaći korisnika sa unešenom emajl adresom.',
 
-    "token"    => "Unešena oznaka za resetovanje lozinke nije validna.",
+    'token'    => 'Unešena oznaka za resetovanje lozinke nije validna.',
 
-    "sent"     => "Poslali smo link za resetovanje vaše lozinke!",
+    'sent'     => 'Poslali smo link za resetovanje vaše lozinke!',
 
-    "reset"    => "Password has been reset!",
+    'reset'    => 'Password has been reset!',
 
 ];

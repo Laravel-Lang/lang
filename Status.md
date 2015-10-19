@@ -25,7 +25,7 @@
 | Hungarian | hu | OK | OK | OK | OK | OK | OK | -- | -- |
 | Indonesian | id | OK | OK | OK | OK | OK | OK | OK | OK |
 | Italian | it | OK | OK | OK | OK | OK | OK | OK | OK |
-| Japanese | jp | OK | OK | OK | OK | OK | -- | -- | -- |
+| Japanese | jp | OK | OK | OK | OK | OK | OK | OK | OK |
 | Korean | ko | OK | OK | OK | OK | OK | OK | OK | OK |
 | Lithunian | lt | OK | OK | OK | OK | OK | OK | OK | OK |
 | Macedonian | mk | OK | OK | -- | -- | -- | -- | -- | -- |

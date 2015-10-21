@@ -13,14 +13,14 @@ return [
     |
     */
 
-    "password" => "Hasło musi mieć przynajmniej sześć znaków i zgadzać się z potwierdzeniem.",
+    'password' => 'Hasło musi mieć przynajmniej sześć znaków i zgadzać się z potwierdzeniem.',
 
-    "user"     => "Nie znaleziono użytkownika z takim adresem e-mail.",
+    'user'     => 'Nie znaleziono użytkownika z takim adresem e-mail.',
 
-    "token"    => "Token resetowania hasła jest nieprawidłowy.",
+    'token'    => 'Token resetowania hasła jest nieprawidłowy.',
 
-    "sent"     => "Przypomnienie hasła zostało wysłane!",
+    'sent'     => 'Przypomnienie hasła zostało wysłane!',
 
-    "reset"    => "Hasło zostało zresetowane!",
+    'reset'    => 'Hasło zostało zresetowane!',
 
 ];

@@ -13,14 +13,14 @@ return [
     |
     */
 
-    "password" => "Les contrasenyes han de contenir almenys 6 caràcters i coincidir.",
+    'password' => 'Les contrasenyes han de contenir almenys 6 caràcters i coincidir.',
 
-    "user"     => "No podem trobar a un usuari amb aquest correu electrònic.",
+    'user'     => 'No podem trobar a un usuari amb aquest correu electrònic.',
 
-    "token"    => "Aquest token de recuperació de contrasenya és invàlid.",
+    'token'    => 'Aquest token de recuperació de contrasenya és invàlid.',
 
-    "sent"     => "Recordatori de contrasenya enviat!",
+    'sent'     => 'Recordatori de contrasenya enviat!',
 
-    "reset"    => "La contrasenya s'ha restablert!",
+    'reset'    => "La contrasenya s'ha restablert!",
 
 ];

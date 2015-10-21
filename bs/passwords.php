@@ -12,14 +12,14 @@ return [
 |
 */
 
-    "password" => "Lozinke moraju da budu šest karaktera i da se slaže sa potvrdnom lozinkom.",
+    'password' => 'Lozinke moraju da budu šest karaktera i da se slaže sa potvrdnom lozinkom.',
 
-    "user" => "Ne može se pronaći korisnik sa tom e-mail adresom.",
+    'user' => 'Ne može se pronaći korisnik sa tom e-mail adresom.',
 
-    "token" => "Ovaj token za resetovanje lozinke nije ispravan.",
+    'token' => 'Ovaj token za resetovanje lozinke nije ispravan.',
 
-    "sent"     => "Poslan vam je e-mail za povrat lozinke!",
+    'sent'     => 'Poslan vam je e-mail za povrat lozinke!',
 
-    "reset"    => "Lozinka je resetovana!",
+    'reset'    => 'Lozinka je resetovana!',
 
 ];

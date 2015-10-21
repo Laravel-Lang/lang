@@ -157,6 +157,7 @@ Japanese (ja)
 
 * [Hirohisa Kawase](https://github.com/HiroKws)
 * [Yuya Takahashi](https://github.com/takahashiyuya)
+* [Fumio Furukawa](https://github.com/jumilla)
 
 Korean (ko)
 

@@ -57,7 +57,7 @@ return [
     ],
     "not_in"         => "Het formaat van :attribute is ongeldig.",
     "numeric"        => ":attribute moet een nummer zijn.",
-    "regex"          => ":attribute format is ongeldig.",
+    "regex"          => ":attribute formaat is ongeldig.",
     "required"       => ":attribute is verplicht.",
     "required_if"    => ":attribute is verplicht indien :other gelijk is aan :value.",
     "required_with"  => ":attribute is verplicht i.c.m. :values",

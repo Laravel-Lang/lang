@@ -11,5 +11,8 @@
     ],
     "suggest": {
         "overtrue/laravel-lang": "Command to add languages in your project"
+    },
+    "require-dev": {
+        "fabpot/php-cs-fixer": "^1.10"
     }
 }

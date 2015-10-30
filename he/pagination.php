@@ -15,6 +15,6 @@ return [
 
     'previous' => '&laquo; הקודם',
 
-    'next'     => 'הבא &raquo;',
+    'next' => 'הבא &raquo;',
 
 ];

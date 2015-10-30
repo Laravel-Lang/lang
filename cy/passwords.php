@@ -13,10 +13,10 @@ return [
     |
     */
 
-    "password" => "Rhaid i'r cyfrinair fod o leiaf chwe nodyn o hyd ac yn matchio'r maes cadarnhau.",
-    "user" => "Ni oes gennym ddefnyddiwr gyda'r cyfeiriad e-bost yna.",
-    "token" => "Nid yw'r tocyn ail-osod cyfrinair yn ddilys.",
-    "sent" => "Rydym wedi e-bostio'r ddolen i ail-osod y cyfrinair!",
-    "reset" => "Mae dy gyfrinair wedi ei ail-osod!",
+    'password' => "Rhaid i'r cyfrinair fod o leiaf chwe nodyn o hyd ac yn matchio'r maes cadarnhau.",
+    'user' => "Ni oes gennym ddefnyddiwr gyda'r cyfeiriad e-bost yna.",
+    'token' => "Nid yw'r tocyn ail-osod cyfrinair yn ddilys.",
+    'sent' => "Rydym wedi e-bostio'r ddolen i ail-osod y cyfrinair!",
+    'reset' => 'Mae dy gyfrinair wedi ei ail-osod!',
 
 ];

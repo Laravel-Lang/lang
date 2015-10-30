@@ -13,14 +13,14 @@ return [
     |
     */
 
-    "password" => "Passords skal være minst 6 tegn og matche bekreftelsen.",
+    'password' => 'Passords skal være minst 6 tegn og matche bekreftelsen.',
 
-    "user"     => "Vi kan ikke finne en bruker med denne e-postadressen.",
+    'user' => 'Vi kan ikke finne en bruker med denne e-postadressen.',
 
-    "token"    => "Passord-nullstillingskoden er ikke gyldig.",
+    'token' => 'Passord-nullstillingskoden er ikke gyldig.',
 
-    "sent"     => "Passord påminnelse sendt!",
+    'sent' => 'Passord påminnelse sendt!',
 
-    "reset"    => "Password has been reset!",
+    'reset' => 'Password has been reset!',
 
 ];

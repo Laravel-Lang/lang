@@ -15,6 +15,6 @@ return [
 
     'previous' => '&laquo; A in antis',
 
-    'next'     => 'A pustis &raquo;',
+    'next' => 'A pustis &raquo;',
 
 ];

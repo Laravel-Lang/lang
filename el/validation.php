@@ -60,6 +60,7 @@ return [
     'regex' => 'Η μορφή του :attribute δεν είναι αποδεκτή.',
     'required' => 'Το πεδίο :attribute είναι απαραίτητο.',
     'required_if' => 'Το πεδίο :attribute είναι απαραίτητο όταν το πεδίο :other είναι :value.',
+    'required_unless' => 'The :attribute field is required unless :other is in :value.',
     'required_with' => 'Το πεδίο :attribute είναι απαραίτητο όταν υπάρχει :values.',
     'required_with_all' => 'Το πεδίο :attribute είναι απαραίτητο όταν υπάρχουν :values.',
     'required_without' => 'Το πεδίο :attribute είναι απαραίτητο όταν δεν υπάρχει :values.',

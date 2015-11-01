@@ -60,6 +60,7 @@ return [
     'regex' => 'Nid yw fformat :attribute yn ddilys.',
     'required' => 'Rhaid cynnwys :attribute.',
     'required_if' => 'Rhaid cynnwys :attribute pan mae :other yn :value.',
+    'required_unless' => 'The :attribute field is required unless :other is in :value.',
     'required_with' => 'Rhaid cynnwys :attribute pan mae :values yn bresennol.',
     'required_with_all' => 'Rhaid cynnwys :attribute pan mae :values yn bresennol.',
     'required_without' => 'Rhaid cynnwys :attribute pan nad oes :values yn bresennol.',

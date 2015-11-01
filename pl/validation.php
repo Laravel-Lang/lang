@@ -60,6 +60,7 @@ return [
     'regex' => 'Format :attribute jest nieprawidłowy.',
     'required' => 'Pole :attribute jest wymagane.',
     'required_if' => 'Pole :attribute jest wymagane gdy :other jest :value.',
+    'required_unless' => 'The :attribute field is required unless :other is in :value.',
     'required_with' => 'Pole :attribute jest wymagane gdy :values jest obecny.',
     'required_with_all' => 'Pole :attribute jest wymagane gdy :values jest obecny.',
     'required_without' => 'Pole :attribute jest wymagane gdy :values nie jest obecny.',

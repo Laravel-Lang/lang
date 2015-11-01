@@ -60,6 +60,7 @@ return [
     'regex' => 'Định dạng trường :attribute không hợp lệ.',
     'required' => 'Trường :attribute không được bỏ trống.',
     'required_if' => 'Trường :attribute không được bỏ trống khi trường :other là :value.',
+    'required_unless' => 'The :attribute field is required unless :other is in :value.',
     'required_with' => 'Trường :attribute không được bỏ trống khi trường :values có giá trị.',
     'required_with_all' => 'The :attribute field is required when :values is present.',
     'required_without' => 'Trường :attribute không được bỏ trống khi trường :values không có giá trị.',

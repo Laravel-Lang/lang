@@ -60,6 +60,7 @@ return [
     'regex' => 'Reiturinn :attribute er ekki á réttu formi.',
     'required' => 'Reiturinn :attribute er nauðsynlegur.',
     'required_if' => 'Reiturinn :attribute er nauðsynlegur þegar :other er :value.',
+    'required_unless' => 'The :attribute field is required unless :other is in :value.',
     'required_with' => 'The :attribute field is required when :values is present.',
     'required_with_all' => 'The :attribute field is required when :values is present.',
     'required_without' => 'The :attribute field is required when :values is not present.',

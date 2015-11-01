@@ -13,14 +13,14 @@ return [
     |
     */
 
-    "password" => "Lozinka mora imati najmanje 6 karaktera i da odgovara potvrdi.",
+    'password' => 'Lozinka mora imati najmanje 6 karaktera i da odgovara potvrdi.',
 
-    "user"     => "Nismo uspeli pronaći korisnika sa email adresom.",
+    'user' => 'Nismo uspeli pronaći korisnika sa email adresom.',
 
-    "token"    => "Ukucana oznaka za resetovanje lozinke nije važeća.",
+    'token' => 'Ukucana oznaka za resetovanje lozinke nije važeća.',
 
-    "sent"     => "Poslali smo reset link za vašu lozinku!",
+    'sent' => 'Poslali smo reset link za vašu lozinku!',
 
-    "reset"    => "Lozinka je resetovana!",
+    'reset' => 'Lozinka je resetovana!',
 
 ];

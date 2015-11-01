@@ -13,14 +13,14 @@ return [
     |
     */
 
-    "password" => "Fjalëkalimet duhet të jenë gjashtë karaktere dhe të përputhen me konfirmimin.",
+    'password' => 'Fjalëkalimet duhet të jenë gjashtë karaktere dhe të përputhen me konfirmimin.',
 
-    "user"     => "Nuk mund të gjejmë një përdorues me atë adres email-i.",
+    'user' => 'Nuk mund të gjejmë një përdorues me atë adres email-i.',
 
-    "token"    => "Ky tallon për ndryshimin e fjalëkalimit është i pasaktë.",
+    'token' => 'Ky tallon për ndryshimin e fjalëkalimit është i pasaktë.',
 
-    "sent"     => "Adresa për ndryshimin e fjalëkalimit u dërgua!",
+    'sent' => 'Adresa për ndryshimin e fjalëkalimit u dërgua!',
 
-    "reset"    => "Fjalëkalimi u ndryshua!",
+    'reset' => 'Fjalëkalimi u ndryshua!',
 
 ];

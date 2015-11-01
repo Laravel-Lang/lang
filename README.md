@@ -51,6 +51,9 @@ How can I add a language in this project ?
 * create a directory with the short name of the language (ex: fr for French) from ISO-639-1 ( see [Wikipedia](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) )
 * copy these four files of the English version with your translation
     * for [Laravel](https://github.com/laravel/laravel/tree/master/resources/lang/en)
+* run [PHP-cs-fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)
+	* if installed to global, run `php-cs-fixer fix`.
+	* if installed to project local, run `vendor/bin/php-cs-fixer fix`.
 * add a pull request with the name of the language
 
 
@@ -59,6 +62,9 @@ How can I fix a file ?
 
 * fork this repository
 * update the file
+* run [PHP-cs-fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)
+	* if installed to global, run `php-cs-fixer fix`.
+	* if installed to project local, run `vendor/bin/php-cs-fixer fix`.
 * add a pull request with the name of the language
 
 The files for Laravel 4 are in `laravel4` branch, and for Laravel 5, are in `master` branch.

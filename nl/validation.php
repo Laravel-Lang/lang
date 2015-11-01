@@ -69,7 +69,7 @@ return [
     'size' => [
         'numeric' => ':attribute moet :size zijn.',
         'file' => ':attribute moet :size kilobyte zijn.',
-        'string' => ':attribute moet :size characters zijn.',
+        'string' => ':attribute moet :size karakters zijn.',
         'array' => ':attribute moet :size items bevatten.',
     ],
     'string' => 'Het :attribute moet een tekenreeks zijn.',

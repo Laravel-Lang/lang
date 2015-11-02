@@ -11,6 +11,6 @@ return [
     | these language lines according to your application's requirements.
     |
     */
-    'failed' => 'These credentials do not match our records.',
+    'failed' => 'بيانات الاعتماد هذه غير متتطابقة مع البيانات المسجلة لدينا.',
     'throttle' => 'عدد كبير جدا من محاولات الدخول. يرجى المحاولة مرة أخرى بعد :seconds ثواني.',
 ];

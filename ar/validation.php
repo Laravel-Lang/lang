@@ -72,7 +72,7 @@ return [
         'string' => 'يجب أن يحتوي النص :attribute عن ما لا يقل عن  :size حرفٍ/أحرف.',
         'array' => 'يجب أن يحتوي الحقل :attribute عن ما لا يقل عن:min عنصرٍ/عناصر',
     ],
-    'string' => 'The :attribute must be a string.',
+    'string' => 'يجب أن يكون الحقل :attribute نصآ.',
     'timezone' => 'يجب أن يكون :attribute نطاقًا زمنيًا صحيحًا',
     'unique' => 'قيمة الحقل :attribute مُستخدمة من قبل',
     'url' => 'صيغة الرابط :attribute غير صحيحة',

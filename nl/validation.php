@@ -60,7 +60,7 @@ return [
     'regex' => ':attribute formaat is ongeldig.',
     'required' => ':attribute is verplicht.',
     'required_if' => ':attribute is verplicht indien :other gelijk is aan :value.',
-    'required_unless' => 'The :attribute field is required unless :other is in :value.',
+    'required_unless' => ':attribute is verplicht tenzij :other voorkomt in :value.',
     'required_with' => ':attribute is verplicht i.c.m. :values',
     'required_with_all' => ':attribute is verplicht i.c.m. :values',
     'required_without' => ':attribute is verplicht als :values niet ingevuld is.',

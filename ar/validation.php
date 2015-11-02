@@ -41,7 +41,7 @@ return [
     'in' => 'الحقل :attribute لاغٍ',
     'integer' => 'يجب أن يكون الحقل :attribute عددًا صحيحًا',
     'ip' => 'يجب أن يكون الحقل :attribute عنوان IP ذي بُنية صحيحة',
-    'json' => 'The :attribute must be a valid JSON string.',
+    'json' => 'يجب أن يكون الحقل :attribute نصآ من نوع JSON.',
     'max' => [
         'numeric' => 'يجب أن تكون قيمة الحقل :attribute أصغر من :max.',
         'file' => 'يجب أن يكون حجم الملف :attribute أصغر من :max كيلوبايت',

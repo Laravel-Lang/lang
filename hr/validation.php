@@ -57,7 +57,7 @@ return [
     'regex' => 'Polje :attribute se ne podudara s formatom.',
     'required' => 'Polje :attribute je obavezno.',
     'required_if' => 'Polje :attribute je obavezno kada polje :other sadrži :value.',
-    'required_unless' => 'The :attribute field is required unless :other is in :value.',
+    'required_unless' => 'The :attribute field is required unless :other is in :values.',
     'required_with' => 'Polje :attribute je obavezno kada postoji polje :values.',
     'required_with_all' => 'Polje :attribute je obavezno kada postje polja :values.',
     'required_without' => 'Polje :attribute je obavezno kada ne postoji polje :values.',

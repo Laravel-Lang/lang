@@ -60,7 +60,7 @@ return [
     'regex' => ':attribute nemá správný formát.',
     'required' => ':attribute musí být vyplněno.',
     'required_if' => ':attribute musí být vyplněno pokud :other je :value.',
-    'required_unless' => 'The :attribute field is required unless :other is in :value.',
+    'required_unless' => 'The :attribute field is required unless :other is in :values.',
     'required_with' => ':attribute musí být vyplněno pokud :values je zvoleno.',
     'required_with_all' => 'The :attribute field is required when :values is present.',
     'required_without' => ':attribute musí být vyplněno pokud :values není vyplněno.',

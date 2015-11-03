@@ -60,7 +60,7 @@ return [
     'regex' => 'El format de :attribute és invàlid.',
     'required' => 'El camp :attribute és obligatori.',
     'required_if' => 'El camp :attribute és obligatori quan :other és :value.',
-    'required_unless' => 'The :attribute field is required unless :other is in :value.',
+    'required_unless' => 'The :attribute field is required unless :other is in :values.',
     'required_with' => 'El camp :attribute és obligatori quan :values és present.',
     'required_with_all' => 'El camp :attribute és obligatori quan :values és present.',
     'required_without' => 'El camp :attribute és obligatori quan :values no és present.',

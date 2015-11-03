@@ -60,7 +60,7 @@ return [
     'regex' => 'Format isian :attribute tidak valid.',
     'required' => 'Bidang isian :attribute wajib diisi.',
     'required_if' => 'Bidang isian :attribute wajib diisi bila :other adalah :value.',
-    'required_unless' => 'The :attribute field is required unless :other is in :value.',
+    'required_unless' => 'The :attribute field is required unless :other is in :values.',
     'required_with' => 'Bidang isian :attribute wajib diisi bila terdapat :values.',
     'required_with_all' => 'Bidang isian :attribute wajib diisi bila terdapat :values.',
     'required_without' => 'Bidang isian :attribute wajib diisi bila tidak terdapat :values.',

@@ -60,7 +60,7 @@ return [
     'regex' => ':attribute ទំរងមិនត្រឹមត្រូវ។',
     'required' => 'ទំរង់ :attribute នេះគឺទាមទារឲ្យមាន។',
     'required_if' => 'ទំរង់ :attribute នេះគឺទាមទារនៅពេល :other គឺ :value​។',
-    'required_unless' => 'The :attribute field is required unless :other is in :value.',
+    'required_unless' => 'The :attribute field is required unless :other is in :values.',
     'required_with' => 'ទំរង់ :attribute នេះគឺទាមទារនៅពេល :values ត្រូវបង្ហាញ។',
     'required_with_all' => 'The :attribute field is required when :values is present.',
     'required_without' => 'ទំរង់ :attribute នេះគឺទាមទារនៅពេល :values មិនត្រូវបង្ហាញ។',

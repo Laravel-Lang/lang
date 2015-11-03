@@ -60,7 +60,7 @@ return [
     'regex' => 'ข้อมูล :attribute มีรูปแบบไม่ถูกต้อง',
     'required' => 'ข้อมูล :attribute จำเป็นต้องกรอก',
     'required_if' => 'ข้อมูล :attribute จำเป็นต้องกรอกเมื่อ :other เป็น :value.',
-    'required_unless' => 'The :attribute field is required unless :other is in :value.',
+    'required_unless' => 'The :attribute field is required unless :other is in :values.',
     'required_with' => 'ข้อมูล :attribute จำเป็นต้องกรอกเมื่อ :values มีค่า',
     'required_with_all' => 'ข้อมูล :attribute จำเป็นต้องกรอกเมื่อ :values มีค่าทั้งหมด',
     'required_without' => 'ข้อมูล :attribute จำเป็นต้องกรอกเมื่อ :values ไม่มีค่า',

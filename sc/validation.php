@@ -59,7 +59,7 @@ return [
     'regex' => 'Su formadu de su campu :attribute no est bàlidu.',
     'required' => ':attribute est pedidu.',
     'required_if' => 'Su campu :attribute est pedidu cando :other est :value.',
-    'required_unless' => 'The :attribute field is required unless :other is in :value.',
+    'required_unless' => 'The :attribute field is required unless :other is in :values.',
     'required_with' => 'Su campu :attribute est pedidu cando :values est presente.',
     'required_with_all' => 'Su campu:attribute est pedidu cando :values est presente.',
     'required_without' => 'Su campu :attribute est pedidu cando :values no est presente.',

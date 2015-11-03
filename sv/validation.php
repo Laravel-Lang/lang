@@ -59,7 +59,7 @@ return [
     'regex' => 'Formatet för :attribute är ogiltigt.',
     'required' => 'Fältet :attribute är obligatoriskt.',
     'required_if' => 'Fältet :attribute är obligatoriskt då :other är :value.',
-    'required_unless' => 'The :attribute field is required unless :other is in :value.',
+    'required_unless' => 'The :attribute field is required unless :other is in :values.',
     'required_with' => 'Fältet :attribute är obligatoriskt då :values är ifyllt.',
     'required_with_all' => 'Fältet :attribute är obligatoriskt när :values är ifyllt.',
     'required_without' => 'Fältet :attribute är obligatoriskt då :values ej är ifyllt.',

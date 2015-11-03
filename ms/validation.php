@@ -60,7 +60,7 @@ return [
     'regex'                => ':attribute format is invalid.',
     'required'             => ':attribute field is required.',
     'required_if'          => ':attribute field is required when :other is :value.',
-    'required_unless'      => 'The :attribute field is required unless :other is in :value.',
+    'required_unless'      => 'The :attribute field is required unless :other is in :values.',
     'required_with'        => ':attribute field is required when :values is present.',
     'required_with_all'    => ':attribute field is required when :values is present.',
     'required_without'     => ':attribute field is required when :values is not present.',

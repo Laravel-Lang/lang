@@ -59,7 +59,7 @@ return [
     'regex' => 'Format polja :attribute je neveljaven.',
     'required' => 'Polje :attribute je zahtevano.',
     'required_if' => 'Polje :attribute je zahtevano, ko :other je :value.',
-    'required_unless' => 'The :attribute field is required unless :other is in :value.',
+    'required_unless' => 'The :attribute field is required unless :other is in :values.',
     'required_with' => 'Polje :attribute je zahtevano, ko je :values prisoten.',
     'required_with_all' => 'Polje :attribute je zahtevano, ko je :values prisoten.',
     'required_without' => 'Polje :attribute je zahtevano, ko :values ni prisoten.',

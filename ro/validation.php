@@ -60,7 +60,7 @@ return [
     'regex' => 'Câmpul :attribute nu are un format valid.',
     'required' => 'Câmpul :attribute este obligatoriu.',
     'required_if' => 'Câmpul :attribute este necesar când :other este :value.',
-    'required_unless' => 'The :attribute field is required unless :other is in :value.',
+    'required_unless' => 'The :attribute field is required unless :other is in :values.',
     'required_with' => 'Câmpul :attribute este necesar când există :values.',
     'required_with_all' => 'Câmpul :attribute este necesar când există :values.',
     'required_without' => 'Câmpul :attribute este necesar când nu există :values.',

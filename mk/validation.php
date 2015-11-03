@@ -60,7 +60,7 @@ return [
     'regex' => 'Полето :attribute е во невалиден формат.',
     'required' => 'Полето :attribute е задолжително.',
     'required_if' => 'Полето :attribute е задолжително, кога :other е :value.',
-    'required_unless' => 'The :attribute field is required unless :other is in :value.',
+    'required_unless' => 'The :attribute field is required unless :other is in :values.',
     'required_with' => 'Полето :attribute е задолжително, кога е внесено :values.',
     'required_with_all' => 'The :attribute field is required when :values is present.',
     'required_without' => 'Полето :attribute е задолжително, кога не е внесено :values.',

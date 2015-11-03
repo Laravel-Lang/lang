@@ -60,7 +60,7 @@ return [
     'regex' => ':attributeには、有効な正規表現を指定してください。',
     'required' => ':attributeは、必ず指定してください。',
     'required_if' => ':otherが:valueの場合、:attributeを指定してください',
-    'required_unless' => 'The :attribute field is required unless :other is in :value.',
+    'required_unless' => 'The :attribute field is required unless :other is in :values.',
     'required_with' => ':valuesが指定されている場合、:attributeも指定してください。',
     'required_with_all' => ':valuesが全て指定されている場合、:attributeも指定してください。',
     'required_without' => ':valuesが指定されていない場合、:attributeを指定してください。',

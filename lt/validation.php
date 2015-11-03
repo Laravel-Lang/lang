@@ -60,7 +60,7 @@ return [
     'regex' => 'Negaliojantis lauko :attribute formatas.',
     'required' => 'Privaloma užpildyti lauką :attribute.',
     'required_if' => 'Privaloma užpildyti lauką :attribute kai :other yra :value.',
-    'required_unless' => 'The :attribute field is required unless :other is in :value.',
+    'required_unless' => 'The :attribute field is required unless :other is in :values.',
     'required_with' => 'Privaloma užpildyti lauką :attribute kai pateikta :values.',
     'required_with_all' => 'Privaloma užpildyti lauką :attribute kai pateikta :values.',
     'required_without' => 'Privaloma užpildyti lauką :attribute kai nepateikta :values.',

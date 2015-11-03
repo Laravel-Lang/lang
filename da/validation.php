@@ -60,7 +60,7 @@ return [
     'regex' => ':attribute formatet er ugyldigt.',
     'required' => ':attribute skal udfyldes.',
     'required_if' => ':attribute skal udfyldes når :other er :value.',
-    'required_unless' => 'The :attribute field is required unless :other is in :value.',
+    'required_unless' => 'The :attribute field is required unless :other is in :values.',
     'required_with' => ':attribute skal udfyldes når :values er udfyldt.',
     'required_with_all' => ':attribute skal udfyldes når :values er udfyldt.',
     'required_without' => ':attribute skal udfyldes når :values ikke er udfyldt.',

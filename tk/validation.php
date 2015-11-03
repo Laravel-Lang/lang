@@ -60,7 +60,7 @@ return [
     'regex' => ':attribute formaty ýalňyş.',
     'required' => ':attribute meýdany zerur.',
     'required_if' => ':attribute meýdany, :other :value hümmetine eýe bolanynda zerurdyr.',
-    'required_unless' => 'The :attribute field is required unless :other is in :value.',
+    'required_unless' => 'The :attribute field is required unless :other is in :values.',
     'required_with' => ':attribute meýdany :values bar bolanda zerurdyr.',
     'required_with_all' => ':attribute meýdany haýsyda bolsa bir :values bar bolanda zerurdyr.',
     'required_without' => ':attribute meýdany :values ýok bolanda zerurdyr.',

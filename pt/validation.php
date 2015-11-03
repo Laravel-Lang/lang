@@ -60,7 +60,7 @@ return [
     'regex' => 'O formato do valor para o campo :attribute é inválido.',
     'required' => 'É obrigatória a indicação de um valor para o campo :attribute.',
     'required_if' => 'É obrigatória a indicação de um valor para o campo :attribute quando o valor do campo :other é igual a :value.',
-    'required_unless' => 'The :attribute field is required unless :other is in :value.',
+    'required_unless' => 'É obrigatória a indicação de um valor para o campo :attribute a menos que :other esteja presente em :values.',
     'required_with' => 'É obrigatória a indicação de um valor para o campo :attribute quando :values está presente.',
     'required_with_all' => 'É obrigatória a indicação de um valor para o campo :attribute quando um dos :values está presente.',
     'required_without' => 'É obrigatória a indicação de um valor para o campo :attribute quanto :values não está presente.',

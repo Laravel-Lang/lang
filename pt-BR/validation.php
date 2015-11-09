@@ -1,7 +1,5 @@
 <?php
-
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Validation Language Lines
@@ -12,7 +10,6 @@ return [
     | such as the size rules. Feel free to tweak each of these messages.
     |
     */
-
     'accepted' => 'O campo :attribute deve ser aceito.',
     'active_url' => 'O campo :attribute não contém um URL válido.',
     'after' => 'O campo :attribute deverá conter uma data posterior a :date.',
@@ -63,7 +60,7 @@ return [
     'required_unless' => 'O campo :attribute é obrigatório a menos que :other esteja presente em :values.',
     'required_with' => 'O campo :attribute é obrigatório quando :values está presente.',
     'required_with_all' => 'O campo :attribute é obrigatório quando um dos :values está presente.',
-    'required_without' => 'O campo :attribute é obrigatório quanto :values não está presente.',
+    'required_without' => 'O campo :attribute é obrigatório quando :values não está presente.',
     'required_without_all' => 'O campo :attribute é obrigatório quando nenhum dos :values está presente.',
     'same' => 'Os campos :attribute e :other deverão conter valores iguais.',
     'size' => [
@@ -76,7 +73,6 @@ return [
     'timezone' => 'O campo :attribute deverá ter um fuso horário válido.',
     'unique' => 'O valor indicado para o campo :attribute já se encontra utilizado.',
     'url' => 'O formato do URL indicado para o campo :attribute é inválido.',
-
     /*
     |--------------------------------------------------------------------------
     | Custom Validation Language Lines
@@ -87,13 +83,11 @@ return [
     | specify a specific custom language line for a given attribute rule.
     |
     */
-
     'custom' => [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
     ],
-
     /*
     |--------------------------------------------------------------------------
     | Custom Validation Attributes
@@ -104,7 +98,6 @@ return [
     | of "email". This simply helps us make messages a little cleaner.
     |
     */
-
     'attributes' => [],
-
 ];
+

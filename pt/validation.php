@@ -63,7 +63,7 @@ return [
     'required_unless' => 'É obrigatória a indicação de um valor para o campo :attribute a menos que :other esteja presente em :values.',
     'required_with' => 'É obrigatória a indicação de um valor para o campo :attribute quando :values está presente.',
     'required_with_all' => 'É obrigatória a indicação de um valor para o campo :attribute quando um dos :values está presente.',
-    'required_without' => 'É obrigatória a indicação de um valor para o campo :attribute quanto :values não está presente.',
+    'required_without' => 'É obrigatória a indicação de um valor para o campo :attribute quando :values não está presente.',
     'required_without_all' => 'É obrigatória a indicação de um valor para o campo :attribute quando nenhum dos :values está presente.',
     'same' => 'Os campos :attribute e :other deverão conter valores iguais.',
     'size' => [

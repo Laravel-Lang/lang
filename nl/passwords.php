@@ -17,7 +17,7 @@ return [
 
     'user' => 'Geen gebruiker bekend met dat e-mailadres.',
 
-    'token' => 'Dit wachtwoord reset token is niet geldig.',
+    'token' => 'Dit wachtwoordresettoken is niet geldig.',
 
     'sent' => 'We hebben een e-mail verstuurd met instructies om een nieuw wachtwoord in te stellen.',
 

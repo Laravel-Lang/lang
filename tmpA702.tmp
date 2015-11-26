@@ -12,11 +12,10 @@ return [
     | has failed, such as for an invalid token or invalid new password.
     |
     */
-
-    'password' => 'Lozinke moraju da budu šest karaktera i da se slaže sa potvrdnom lozinkom.',
-    'reset'    => 'Lozinka je resetovana!',
-    'sent'     => 'Poslan vam je e-mail za povrat lozinke!',
-    'token'    => 'Ovaj token za resetovanje lozinke nije ispravan.',
-    'user'     => 'Ne može se pronaći korisnik sa tom e-mail adresom.',
+    'password' => 'A senha deverá conter pelo menos seis carateres e ser igual à confirmação.',
+    'reset' => 'Sua senha foi redefinida!',
+    'sent' => 'Nós enviamos um link de recuperação de senha por e-mail.',
+    'token' => 'Este código de recuperação de senha é inválido.',
+    'user' => 'Não conseguimos encontrar nenhum usuário com o endereço de e-mail especificado.',
 
 ];

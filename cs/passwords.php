@@ -14,13 +14,9 @@ return [
     */
 
     'password' => 'Heslo musí obsahovat alespoň 6 znaků a musí odpovídat.',
-
-    'user' => 'Nepodařilo se najít uživatele s touto e-mailovou adresou.',
-
-    'token' => 'Klíč pro obnovu hesla je nesprávný.',
-
-    'sent' => 'Upomínka ke změně hesla byla odeslána!',
-
-    'reset' => 'Heslo bylo obnoveno!',
+    'reset'    => 'Heslo bylo obnoveno!',
+    'sent'     => 'Upomínka ke změně hesla byla odeslána!',
+    'token'    => 'Klíč pro obnovu hesla je nesprávný.',
+    'user'     => 'Nepodařilo se najít uživatele s touto e-mailovou adresou.',
 
 ];

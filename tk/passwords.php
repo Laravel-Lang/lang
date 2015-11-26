@@ -14,13 +14,9 @@ return [
     */
 
     'password' => 'Açarsöz 6 harpdan ybarat bolup, tassyklamasy bilen deň bolmaly.',
-
-    'user' => 'Bu e-mail adrese degişli ulanyjy tapylmady.',
-
-    'token' => 'Açarsöz tazeleme söz birligi ýalňyş.',
-
-    'sent' => 'Açarsöz ýatlatmasy ugradyldy!',
-
-    'reset' => 'Açarsöz üýtgedildi!',
+    'reset'    => 'Açarsöz üýtgedildi!',
+    'sent'     => 'Açarsöz ýatlatmasy ugradyldy!',
+    'token'    => 'Açarsöz tazeleme söz birligi ýalňyş.',
+    'user'     => 'Bu e-mail adrese degişli ulanyjy tapylmady.',
 
 ];

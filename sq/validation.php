@@ -12,69 +12,70 @@ return [
     | such as the size rules. Feel free to tweak each of these messages.
     |
     */
-    'accepted' => ':attribute duhet të pranohet.',
-    'active_url' => ':attribute nuk është adresë e saktë.',
-    'after' => ':attribute duhet të jetë datë pas :date.',
-    'alpha' => ':attribute mund të përmbajë vetëm shkronja.',
-    'alpha_dash' => ':attribute mund të përmbajë vetëm shkronja, numra, dhe viza.',
-    'alpha_num' => ':attribute mund të përmbajë vetëm shkronja dhe numra.',
-    'array' => ':attribute duhet të jetë një bashkësi (array).',
-    'before' => ':attribute duhet të jetë datë para :date.',
-    'between' => [
+
+    'accepted'             => ':attribute duhet të pranohet.',
+    'active_url'           => ':attribute nuk është adresë e saktë.',
+    'after'                => ':attribute duhet të jetë datë pas :date.',
+    'alpha'                => ':attribute mund të përmbajë vetëm shkronja.',
+    'alpha_dash'           => ':attribute mund të përmbajë vetëm shkronja, numra, dhe viza.',
+    'alpha_num'            => ':attribute mund të përmbajë vetëm shkronja dhe numra.',
+    'array'                => ':attribute duhet të jetë një bashkësi (array).',
+    'before'               => ':attribute duhet të jetë datë para :date.',
+    'between'              => [
         'numeric' => ':attribute duhet të jetë midis :min - :max.',
-        'file' => ':attribute duhet të jetë midis :min - :max kilobajtëve.',
-        'string' => ':attribute duhet të jetë midis :min - :max karaktereve.',
-        'array' => ':attribute duhet të jetë midis :min - :max elementëve.',
+        'file'    => ':attribute duhet të jetë midis :min - :max kilobajtëve.',
+        'string'  => ':attribute duhet të jetë midis :min - :max karaktereve.',
+        'array'   => ':attribute duhet të jetë midis :min - :max elementëve.',
     ],
-    'boolean' => 'Fusha :attribute duhet të jetë e vërtetë ose e gabuar',
-    'confirmed' => ':attribute konfirmimi nuk përputhet.',
-    'date' => ':attribute nuk është një datë e saktë.',
-    'date_format' => ':attribute nuk i përshtatet formatit :format.',
-    'different' => ':attribute dhe :other duhet të jenë të ndryshme.',
-    'digits' => ':attribute duhet të jetë :digits shifra.',
-    'digits_between' => ':attribute duhet të jetë midis :min dhe :max shifra.',
-    'email' => ':attribute formati është i pasaktë.',
-    'exists' => ':attribute përzgjedhur është i/e pasaktë.',
-    'filled' => 'Fusha :attribute është e kërkuar.',
-    'image' => ':attribute duhet të jetë imazh.',
-    'in' => ':attribute përzgjedhur është i/e pasaktë.',
-    'integer' => ':attribute duhet të jetë numër i plotë.',
-    'ip' => ':attribute duhet të jetë një IP adresë e saktë.',
-    'json' => 'The :attribute must be a valid JSON string.',
-    'max' => [
+    'boolean'              => 'Fusha :attribute duhet të jetë e vërtetë ose e gabuar',
+    'confirmed'            => ':attribute konfirmimi nuk përputhet.',
+    'date'                 => ':attribute nuk është një datë e saktë.',
+    'date_format'          => ':attribute nuk i përshtatet formatit :format.',
+    'different'            => ':attribute dhe :other duhet të jenë të ndryshme.',
+    'digits'               => ':attribute duhet të jetë :digits shifra.',
+    'digits_between'       => ':attribute duhet të jetë midis :min dhe :max shifra.',
+    'email'                => ':attribute formati është i pasaktë.',
+    'exists'               => ':attribute përzgjedhur është i/e pasaktë.',
+    'filled'               => 'Fusha :attribute është e kërkuar.',
+    'image'                => ':attribute duhet të jetë imazh.',
+    'in'                   => ':attribute përzgjedhur është i/e pasaktë.',
+    'integer'              => ':attribute duhet të jetë numër i plotë.',
+    'ip'                   => ':attribute duhet të jetë një IP adresë e saktë.',
+    'json'                 => 'The :attribute must be a valid JSON string.',
+    'max'                  => [
         'numeric' => ':attribute nuk mund të jetë më tepër se :max.',
-        'file' => ':attribute nuk mund të jetë më tepër se :max kilobajtë.',
-        'string' => ':attribute nuk mund të jetë më tepër se :max karaktere.',
-        'array' => ':attribute nuk mund të ketë më tepër se :max elemente.',
+        'file'    => ':attribute nuk mund të jetë më tepër se :max kilobajtë.',
+        'string'  => ':attribute nuk mund të jetë më tepër se :max karaktere.',
+        'array'   => ':attribute nuk mund të ketë më tepër se :max elemente.',
     ],
-    'mimes' => ':attribute duhet të jetë një dokument i tipit: :values.',
-    'min' => [
+    'mimes'                => ':attribute duhet të jetë një dokument i tipit: :values.',
+    'min'                  => [
         'numeric' => ':attribute nuk mund të jetë më pak se :min.',
-        'file' => ':attribute nuk mund të jetë më pak se :min kilobajtë.',
-        'string' => ':attribute nuk mund të jetë më pak se :min karaktere.',
-        'array' => ':attribute nuk mund të ketë më pak se :min elemente.',
+        'file'    => ':attribute nuk mund të jetë më pak se :min kilobajtë.',
+        'string'  => ':attribute nuk mund të jetë më pak se :min karaktere.',
+        'array'   => ':attribute nuk mund të ketë më pak se :min elemente.',
     ],
-    'not_in' => ':attribute përzgjedhur është i/e pasaktë.',
-    'numeric' => ':attribute duhet të jetë një numër.',
-    'regex' => 'Formati i :attribute është i pasaktë.',
-    'required' => 'Fusha :attribute është e kërkuar.',
-    'required_if' => 'Fusha :attribute është e kërkuar kur :other është :value.',
-    'required_unless' => 'The :attribute field is required unless :other is in :values.',
-    'required_with' => 'Fusha :attribute është e kërkuar kur :values ekziston.',
-    'required_with_all' => 'Fusha :attribute është e kërkuar kur :values ekziston.',
-    'required_without' => 'Fusha :attribute është e kërkuar kur :values nuk ekziston.',
+    'not_in'               => ':attribute përzgjedhur është i/e pasaktë.',
+    'numeric'              => ':attribute duhet të jetë një numër.',
+    'regex'                => 'Formati i :attribute është i pasaktë.',
+    'required'             => 'Fusha :attribute është e kërkuar.',
+    'required_if'          => 'Fusha :attribute është e kërkuar kur :other është :value.',
+    'required_unless'      => 'The :attribute field is required unless :other is in :values.',
+    'required_with'        => 'Fusha :attribute është e kërkuar kur :values ekziston.',
+    'required_with_all'    => 'Fusha :attribute është e kërkuar kur :values ekziston.',
+    'required_without'     => 'Fusha :attribute është e kërkuar kur :values nuk ekziston.',
     'required_without_all' => 'Fusha :attribute është e kërkuar kur nuk ekziston asnjë nga :values.',
-    'same' => ':attribute dhe :other duhet të përputhen.',
-    'size' => [
+    'same'                 => ':attribute dhe :other duhet të përputhen.',
+    'size'                 => [
         'numeric' => ':attribute duhet të jetë :size.',
-        'file' => ':attribute duhet të jetë :size kilobajtë.',
-        'string' => ':attribute duhet të jetë :size karaktere.',
-        'array' => ':attribute duhet të ketë :size elemente.',
+        'file'    => ':attribute duhet të jetë :size kilobajtë.',
+        'string'  => ':attribute duhet të jetë :size karaktere.',
+        'array'   => ':attribute duhet të ketë :size elemente.',
     ],
-    'string' => ':attribute duhet të jetë varg.',
-    'timezone' => ':attribute duhet të jetë zonë e saktë.',
-    'unique' => ':attribute është marrë tashmë.',
-    'url' => 'Formati i :attribute është i pasaktë.',
+    'string'               => ':attribute duhet të jetë varg.',
+    'timezone'             => ':attribute duhet të jetë zonë e saktë.',
+    'unique'               => ':attribute është marrë tashmë.',
+    'url'                  => 'Formati i :attribute është i pasaktë.',
 
     /*
     |--------------------------------------------------------------------------
@@ -87,7 +88,7 @@ return [
     |
     */
 
-    'custom' => [
+    'custom'               => [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
@@ -104,6 +105,8 @@ return [
     |
     */
 
-    'attributes' => [],
+    'attributes'           => [
+        //
+    ],
 
 ];

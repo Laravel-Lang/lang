@@ -14,13 +14,9 @@ return [
     */
 
     'password' => 'Las contraseñas deben contener al menos 6 caracteres y coincidir.',
-
-    'user' => 'No podemos encontrar a un usuario con ese correo electrónico.',
-
-    'token' => 'Este token de recuperación de contraseña es inválido.',
-
-    'sent' => '¡Recordatorio de contraseña enviado!',
-
-    'reset' => '¡Tu contraseña ha sido restablecida!',
+    'reset'    => '¡Tu contraseña ha sido restablecida!',
+    'sent'     => '¡Recordatorio de contraseña enviado!',
+    'token'    => 'Este token de recuperación de contraseña es inválido.',
+    'user'     => 'No podemos encontrar a un usuario con ese correo electrónico.',
 
 ];

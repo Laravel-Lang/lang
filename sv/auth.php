@@ -1,6 +1,7 @@
 <?php
 
 return [
+
     /*
     |--------------------------------------------------------------------------
     | Authentication Language Lines
@@ -11,6 +12,8 @@ return [
     | these language lines according to your application's requirements.
     |
     */
-    'failed' => 'Dessa uppgifter stämmer inte överens med vårt register.',
+
+    'failed'   => 'Dessa uppgifter stämmer inte överens med vårt register.',
     'throttle' => 'För många inloggningsförsök. Var vänlig försök igen om :seconds sekunder.',
+
 ];

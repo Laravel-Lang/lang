@@ -1,6 +1,7 @@
 <?php
 
 return [
+
     /*
     |--------------------------------------------------------------------------
     | Authentication Language Lines
@@ -11,6 +12,8 @@ return [
     | these language lines according to your application's requirements.
     |
     */
-    'failed' => 'ข้อมูลที่ใช้ในการยืนยันตัวตนไม่ถูกต้อง',
+
+    'failed'   => 'ข้อมูลที่ใช้ในการยืนยันตัวตนไม่ถูกต้อง',
     'throttle' => 'คุณได้พยายามเข้าระบบหลายครั้งเกินไป กรุณาลองใหม่ใน :seconds วินาทีข้างหน้า.',
+
 ];

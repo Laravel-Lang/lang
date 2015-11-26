@@ -1,6 +1,7 @@
 <?php
 
 return [
+
     /*
     |--------------------------------------------------------------------------
     | Authentication Language Lines
@@ -11,6 +12,8 @@ return [
     | these language lines according to your application's requirements.
     |
     */
-    'failed' => 'Bu kullanıcı bilgileri, bizim verilerle eşleşmiyor.',
+
+    'failed'   => 'Bu kullanıcı bilgileri, bizim verilerle eşleşmiyor.',
     'throttle' => 'Çok fazla oturum açma girişimleri. :seconds saniye içinde tekrar deneyin.',
+
 ];

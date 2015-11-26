@@ -1,6 +1,7 @@
 <?php
 
 return [
+
     /*
     |--------------------------------------------------------------------------
     | Authentication Language Lines
@@ -11,6 +12,8 @@ return [
     | these language lines according to your application's requirements.
     |
     */
-    'failed' => 'As credencias indicadas não coincidem com as registadas no sistema.',
+
+    'failed'   => 'As credencias indicadas não coincidem com as registadas no sistema.',
     'throttle' => 'O número limite de tentativas de login foi atingido. Por favor tente novamente em :seconds segundos.',
+
 ];

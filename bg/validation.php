@@ -42,7 +42,7 @@ return [
     'integer'              => 'Полето :attribute трябва да бъде цяло число.',
     'ip'                   => 'Полето :attribute трябва да бъде IP адрес.',
     'json'                 => 'Полето :attribute трябва да бъде JSON низ.',
-    'max' => [
+    'max'                  => [
         'numeric' => 'Полето :attribute трябва да бъде по-малко от :max.',
         'file'    => 'Полето :attribute трябва да бъде по-малко от :max килобайта.',
         'string'  => 'Полето :attribute трябва да бъде по-малко от :max знака.',

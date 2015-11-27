@@ -33,7 +33,7 @@ return [
     'date_format' => 'Le champ :attribute ne correspond pas au format :format.',
     'different' => 'Les champs :attribute et :other doivent être différents.',
     'digits' => 'Le champ :attribute doit avoir :digits chiffres.',
-    'digits_between' => 'Le champ :attribute doit avoir entre :min and :max chiffres.',
+    'digits_between' => 'Le champ :attribute doit avoir entre :min et :max chiffres.',
     'email' => 'Le champ :attribute doit être une adresse email valide.',
     'exists' => 'Le champ :attribute sélectionné est invalide.',
     'filled' => 'Le champ :attribute est obligatoire.',

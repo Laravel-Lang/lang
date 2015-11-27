@@ -14,13 +14,9 @@ return [
     */
 
     'password' => 'Wachtwoord moet minimaal zes tekens lang zijn en de wachtwoorden moeten overeenkomen.',
-
-    'user' => 'Geen gebruiker bekend met dat e-mailadres.',
-
-    'token' => 'Dit wachtwoordresettoken is niet geldig.',
-
-    'sent' => 'We hebben een e-mail verstuurd met instructies om een nieuw wachtwoord in te stellen.',
-
-    'reset' => 'Het wachtwoord van uw account is gewijzigd.',
+    'reset'    => 'Het wachtwoord van uw account is gewijzigd.',
+    'sent'     => 'We hebben een e-mail verstuurd met instructies om een nieuw wachtwoord in te stellen.',
+    'token'    => 'Dit wachtwoordresettoken is niet geldig.',
+    'user'     => 'Geen gebruiker bekend met dat e-mailadres.',
 
 ];

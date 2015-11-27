@@ -1,6 +1,7 @@
 <?php
 
 return [
+
     /*
     |--------------------------------------------------------------------------
     | Authentication Language Lines
@@ -11,6 +12,8 @@ return [
     | these language lines according to your application's requirements.
     |
     */
-    'failed' => 'פרטים אלה אינם תואמים את רישומינו.',
+
+    'failed'   => 'פרטים אלה אינם תואמים את רישומינו.',
     'throttle' => 'ניסיונות כניסה רבים מדי. אנא נסו שוב בעוד :seconds שניות.',
+
 ];

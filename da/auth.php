@@ -1,6 +1,7 @@
 <?php
 
 return [
+
     /*
     |--------------------------------------------------------------------------
     | Authentication Language Lines
@@ -11,6 +12,8 @@ return [
     | these language lines according to your application's requirements.
     |
     */
-    'failed' => 'De angivne oplysninger er ugyldige',
+
+    'failed'   => 'De angivne oplysninger er ugyldige',
     'throttle' => 'For mange login forsøg. Prøv igen om :seconds sekunder.',
+
 ];

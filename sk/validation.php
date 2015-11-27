@@ -13,69 +13,69 @@ return [
     |
     */
 
-    'accepted' => ':attribute musí byť akceptovaný.',
-    'active_url' => ':attribute má neplatnú URL adresu.',
-    'after' => ':attribute musí byť dátum po :date.',
-    'alpha' => ':attribute môže obsahovať len písmená.',
-    'alpha_dash' => ':attribute môže obsahovať len písmená, čísla a pomlčky.',
-    'alpha_num' => ':attribute môže obsahovať len písmená, čísla.',
-    'array' => ':attribute musí byť pole.',
-    'before' => ':attribute musí byť dátum pred :date.',
-    'between' => [
+    'accepted'             => ':attribute musí byť akceptovaný.',
+    'active_url'           => ':attribute má neplatnú URL adresu.',
+    'after'                => ':attribute musí byť dátum po :date.',
+    'alpha'                => ':attribute môže obsahovať len písmená.',
+    'alpha_dash'           => ':attribute môže obsahovať len písmená, čísla a pomlčky.',
+    'alpha_num'            => ':attribute môže obsahovať len písmená, čísla.',
+    'array'                => ':attribute musí byť pole.',
+    'before'               => ':attribute musí byť dátum pred :date.',
+    'between'              => [
         'numeric' => ':attribute musí mať rozsah :min - :max.',
-        'file' => ':attribute musí mať rozsah :min - :max kilobajtov.',
-        'string' => ':attribute musí mať rozsah :min - :max znakov.',
-        'array' => ':attribute musí mať rozsah :min - :max prvkov.',
+        'file'    => ':attribute musí mať rozsah :min - :max kilobajtov.',
+        'string'  => ':attribute musí mať rozsah :min - :max znakov.',
+        'array'   => ':attribute musí mať rozsah :min - :max prvkov.',
     ],
-    'boolean' => 'The :attribute field must be true or false',
-    'confirmed' => ':attribute konfirmácia sa nezhoduje.',
-    'date' => ':attribute má neplatný dátum.',
-    'date_format' => ':attribute sa nezhoduje s formátom :format.',
-    'different' => ':attribute a :other musia byť odlišné.',
-    'digits' => ':attribute musí mať :digits číslic.',
-    'digits_between' => ':attribute musí mať rozsah :min až :max číslic.',
-    'email' => ':attribute má neplatný formát.',
-    'exists' => 'označený :attribute je neplatný.',
-    'filled' => ':attribute je požadované.',
-    'image' => ':attribute musí byť obrázok.',
-    'in' => 'označený :attribute je neplatný.',
-    'integer' => ':attribute musí byť celé číslo.',
-    'ip' => ':attribute musí byť platná IP adresa.',
-    'json' => ':attribute musí byť platný JSON reťazec.',
-    'max' => [
+    'boolean'              => 'The :attribute field must be true or false',
+    'confirmed'            => ':attribute konfirmácia sa nezhoduje.',
+    'date'                 => ':attribute má neplatný dátum.',
+    'date_format'          => ':attribute sa nezhoduje s formátom :format.',
+    'different'            => ':attribute a :other musia byť odlišné.',
+    'digits'               => ':attribute musí mať :digits číslic.',
+    'digits_between'       => ':attribute musí mať rozsah :min až :max číslic.',
+    'email'                => ':attribute má neplatný formát.',
+    'exists'               => 'označený :attribute je neplatný.',
+    'filled'               => ':attribute je požadované.',
+    'image'                => ':attribute musí byť obrázok.',
+    'in'                   => 'označený :attribute je neplatný.',
+    'integer'              => ':attribute musí byť celé číslo.',
+    'ip'                   => ':attribute musí byť platná IP adresa.',
+    'json'                 => ':attribute musí byť platný JSON reťazec.',
+    'max'                  => [
         'numeric' => ':attribute nemôže byť väčší ako :max.',
-        'file' => ':attribute nemôže byť väčší ako :max kilobajtov.',
-        'string' => ':attribute nemôže byť väčší ako :max znakov.',
-        'array' => ':attribute nemôže mať viac ako :max prvkov.',
+        'file'    => ':attribute nemôže byť väčší ako :max kilobajtov.',
+        'string'  => ':attribute nemôže byť väčší ako :max znakov.',
+        'array'   => ':attribute nemôže mať viac ako :max prvkov.',
     ],
-    'mimes' => ':attribute musí byť súbor s koncovkou: :values.',
-    'min' => [
+    'mimes'                => ':attribute musí byť súbor s koncovkou: :values.',
+    'min'                  => [
         'numeric' => ':attribute musí mať aspoň :min.',
-        'file' => ':attribute musí mať aspoň :min kilobajtov.',
-        'string' => ':attribute musí mať aspoň :min znakov.',
-        'array' => ':attribute musí mať aspoň :min prvkov.',
+        'file'    => ':attribute musí mať aspoň :min kilobajtov.',
+        'string'  => ':attribute musí mať aspoň :min znakov.',
+        'array'   => ':attribute musí mať aspoň :min prvkov.',
     ],
-    'not_in' => 'označený:attribute je neplatný.',
-    'numeric' => ':attribute musí byť číslo.',
-    'regex' => ':attribute má neplatný formát.',
-    'required' => ':attribute je požadované.',
-    'required_if' => ':attribute je požadované keď :other je :value.',
-    'required_unless' => 'The :attribute field is required unless :other is in :values.',
-    'required_with' => ':attribute je požadované keď :values je prítomné.',
-    'required_with_all' => ':attribute je požadované ak :values je nastavené.',
-    'required_without' => ':attribute je požadované keď :values nie je prítomné.',
+    'not_in'               => 'označený:attribute je neplatný.',
+    'numeric'              => ':attribute musí byť číslo.',
+    'regex'                => ':attribute má neplatný formát.',
+    'required'             => ':attribute je požadované.',
+    'required_if'          => ':attribute je požadované keď :other je :value.',
+    'required_unless'      => 'The :attribute field is required unless :other is in :values.',
+    'required_with'        => ':attribute je požadované keď :values je prítomné.',
+    'required_with_all'    => ':attribute je požadované ak :values je nastavené.',
+    'required_without'     => ':attribute je požadované keď :values nie je prítomné.',
     'required_without_all' => ':attribute je požadované ak žiadne z :values nie je nastavené.',
-    'same' => ':attribute a :other sa musia zhodovať.',
-    'size' => [
+    'same'                 => ':attribute a :other sa musia zhodovať.',
+    'size'                 => [
         'numeric' => ':attribute musí byť :size.',
-        'file' => ':attribute musí mať :size kilobajtov.',
-        'string' => ':attribute musí mať :size znakov.',
-        'array' => ':attribute musí obsahovať :size prvkov.',
+        'file'    => ':attribute musí mať :size kilobajtov.',
+        'string'  => ':attribute musí mať :size znakov.',
+        'array'   => ':attribute musí obsahovať :size prvkov.',
     ],
-    'string' => ':attribute musí byť reťazec znakov.',
-    'timezone' => ':attribute musí byť platné časové pásmo.',
-    'unique' => ':attribute je nedostupný.',
-    'url' => ':attribute neplatný formát.',
+    'string'               => ':attribute musí byť reťazec znakov.',
+    'timezone'             => ':attribute musí byť platné časové pásmo.',
+    'unique'               => ':attribute je nedostupný.',
+    'url'                  => ':attribute neplatný formát.',
 
     /*
     |--------------------------------------------------------------------------
@@ -88,7 +88,7 @@ return [
     |
     */
 
-    'custom' => [
+    'custom'               => [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
@@ -105,6 +105,8 @@ return [
     |
     */
 
-    'attributes' => [],
+    'attributes'           => [
+        //
+    ],
 
 ];

@@ -1,6 +1,7 @@
 <?php
 
 return [
+
     /*
     |--------------------------------------------------------------------------
     | Authentication Language Lines
@@ -11,6 +12,7 @@ return [
     | these language lines according to your application's requirements.
     |
     */
-    'failed' => 'Ці облікові дані не збігаються з нашими записами.',
+
+    'failed'   => 'Ці облікові дані не збігаються з нашими записами.',
     'throttle' => 'Занадто багато спроб входу. Будь ласка, спробуйте ще раз, через :seconds секунд.',
 ];

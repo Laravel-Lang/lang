@@ -14,13 +14,9 @@ return [
     */
 
     'password' => 'A jelszónak legalább hat karakterből kell állnia és egyeznie kell a jelszó megerősítéssel.',
-
-    'user' => 'Nem található felhasználó a megadott email címmel.',
-
-    'token' => 'Ez az új jelszó generálásához tartozó token érvénytelen.',
-
-    'sent' => 'Jelszó-emlékeztető elküldve!',
-
-    'reset' => 'Password has been reset!',
+    'reset'    => 'Password has been reset!',
+    'sent'     => 'Jelszó-emlékeztető elküldve!',
+    'token'    => 'Ez az új jelszó generálásához tartozó token érvénytelen.',
+    'user'     => 'Nem található felhasználó a megadott email címmel.',
 
 ];

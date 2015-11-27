@@ -1,6 +1,7 @@
 <?php
 
 return [
+
     /*
     |--------------------------------------------------------------------------
     | Authentication Language Lines
@@ -11,6 +12,8 @@ return [
     | these language lines according to your application's requirements.
     |
     */
-    'failed' => 'Podaci ne odgovaraju ni jednom nalogu.',
+
+    'failed'   => 'Podaci ne odgovaraju ni jednom nalogu.',
     'throttle' => 'Previše neuspelih pokušaja. Pokušajte ponovo za :seconds sekundi.',
+
 ];

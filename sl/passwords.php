@@ -14,13 +14,9 @@ return [
     */
 
     'password' => 'Geslo mora biti dolgo vsaj šest znakov in se mora ujemati z potrditvenim geslom.',
-
-    'user' => 'Ne moremo najti uporabnika s tem e-poštnim naslovom.',
-
-    'token' => 'Ponastavitveni žeton je neveljaven.',
-
-    'sent' => 'Opomnik za geslo poslano!',
-
-    'reset' => 'Geslo je bilo spremenjeno!',
+    'reset'    => 'Geslo je bilo spremenjeno!',
+    'sent'     => 'Opomnik za geslo poslano!',
+    'token'    => 'Ponastavitveni žeton je neveljaven.',
+    'user'     => 'Ne moremo najti uporabnika s tem e-poštnim naslovom.',
 
 ];

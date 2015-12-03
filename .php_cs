@@ -4,13 +4,8 @@ use Symfony\CS\Config\Config;
 use Symfony\CS\FixerInterface;
 use Symfony\CS\Finder\DefaultFinder;
 
-$finder = Symfony\Component\Finder\Finder::create()
-    ->in(__DIR__)
-    ->name('*.php')
-    ->files()
-;
-
 $fixers = [
+    'align_double_arrow',
     'blankline_after_open_tag',
     'braces',
     'concat_without_spaces',
@@ -76,8 +71,10 @@ $fixers = [
     'whitespacy_lines',
 ];
 
+$finder = DefaultFinder::create()->in(__DIR__)->name('*.php');
+
 return Config::create()
     ->finder($finder)
     ->fixers($fixers)
     ->level(Symfony\CS\FixerInterface::PSR2_LEVEL)
-    ->setUsingCache(false);
+    ->setUsingCache(true);

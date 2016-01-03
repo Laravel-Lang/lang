@@ -40,7 +40,7 @@ If you have a Laravel5 project, you can use `laravel-lang` project of overtrue :
 
 ### Language by default in your app
 
-In the file *app/config/app.php*, change the value of *language* by the short name of your language.
+In the file *app/config/app.php*, change the value of *locale* by the short name of your language.
 
 ---
 

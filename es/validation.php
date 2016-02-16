@@ -134,7 +134,7 @@ return [
         'date'                  => 'fecha',
         'time'                  => 'hora',
         'subject'               => 'asunto',
-        'message'               => 'mensaje'
+        'message'               => 'mensaje',
     ],
 
 ];

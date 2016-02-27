@@ -57,6 +57,7 @@ return [
     ],
     'not_in'               => 'छानिएको :attribute अमान्य छ।',
     'numeric'              => ':attribute संख्या हुनुपर्छ।',
+    'present'              => 'The :attribute field must be present.',
     'regex'                => ':attribute को ढाँचा मिलेन।',
     'required'             => ':attribute दिइएको हुनुपर्छ।',
     'required_if'          => ':attribute चाहिन्छ जब :other :value हुन्छ।',

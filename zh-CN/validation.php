@@ -57,6 +57,7 @@ return [
     ],
     'not_in'               => '已选的属性 :attribute 非法。',
     'numeric'              => ':attribute 必须是一个数字。',
+    'present'              => 'The :attribute field must be present.',
     'regex'                => ':attribute 格式不正确。',
     'required'             => ':attribute 不能为空。',
     'required_if'          => '当 :other 为 :value 时 :attribute 不能为空。',

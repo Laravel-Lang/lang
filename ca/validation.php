@@ -57,6 +57,7 @@ return [
     ],
     'not_in'               => ':attribute és invàlid.',
     'numeric'              => ':attribute ha de ser numèric.',
+    'present'              => 'The :attribute field must be present.',
     'regex'                => 'El format de :attribute és invàlid.',
     'required'             => 'El camp :attribute és obligatori.',
     'required_if'          => 'El camp :attribute és obligatori quan :other és :value.',

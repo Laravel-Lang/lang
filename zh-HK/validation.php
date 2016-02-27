@@ -57,6 +57,7 @@ return [
     ],
     'not_in'               => '所揀選的 :attribute 選項無效。',
     'numeric'              => ':attribute 必須為一個數字。',
+    'present'              => 'The :attribute field must be present.',
     'regex'                => ':attribute 的格式錯誤。',
     'required'             => ':attribute 不能留空。',
     'required_if'          => '當 :other 是 :value 時 :attribute 不能留空。',

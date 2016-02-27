@@ -57,6 +57,7 @@ return [
     ],
     'not_in'               => ':attribute انتخاب شده، معتبر نیست.',
     'numeric'              => ':attribute باید شامل عدد باشد.',
+    'present'              => 'The :attribute field must be present.',
     'regex'                => ':attribute یک فرمت معتبر نیست',
     'required'             => 'فیلد :attribute الزامی است',
     'required_if'          => 'فیلد :attribute هنگامی که :other برابر با :value است، الزامیست.',

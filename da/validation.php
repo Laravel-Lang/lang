@@ -57,6 +57,7 @@ return [
     ],
     'not_in'               => 'Den valgte :attribute er ugyldig.',
     'numeric'              => ':attribute skal være et tal.',
+    'present'              => 'The :attribute field must be present.',
     'regex'                => ':attribute formatet er ugyldigt.',
     'required'             => ':attribute skal udfyldes.',
     'required_if'          => ':attribute skal udfyldes når :other er :value.',

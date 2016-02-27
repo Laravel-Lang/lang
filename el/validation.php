@@ -57,6 +57,7 @@ return [
     ],
     'not_in'               => 'Το επιλεγμένο :attribute δεν είναι αποδεκτό.',
     'numeric'              => 'Το πεδίο :attribute πρέπει να είναι αριθμός.',
+    'present'              => 'The :attribute field must be present.',
     'regex'                => 'Η μορφή του :attribute δεν είναι αποδεκτή.',
     'required'             => 'Το πεδίο :attribute είναι απαραίτητο.',
     'required_if'          => 'Το πεδίο :attribute είναι απαραίτητο όταν το πεδίο :other είναι :value.',

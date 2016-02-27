@@ -57,6 +57,7 @@ return [
     ],
     'not_in'               => 'Избраното поле :attribute е невалидно.',
     'numeric'              => 'Полето :attribute мора да биде број.',
+    'present'              => 'The :attribute field must be present.',
     'regex'                => 'Полето :attribute е во невалиден формат.',
     'required'             => 'Полето :attribute е задолжително.',
     'required_if'          => 'Полето :attribute е задолжително, кога :other е :value.',

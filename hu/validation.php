@@ -57,6 +57,7 @@ return [
     ],
     'not_in'               => 'A(z) :attribute értéke érvénytelen.',
     'numeric'              => 'A(z) :attribute szám kell, hogy legyen!',
+    'present'              => 'The :attribute field must be present.',
     'regex'                => 'A(z) :attribute formátuma érvénytelen.',
     'required'             => 'A(z) :attribute megadása kötelező!',
     'required_if'          => 'A(z) :attribute megadása kötelező, ha a(z) :other értéke :value!',

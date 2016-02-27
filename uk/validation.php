@@ -57,6 +57,7 @@ return [
     ],
     'not_in'               => 'Вибране для :attribute значення не коректне.',
     'numeric'              => 'Поле :attribute повинно містити число.',
+    'present'              => 'The :attribute field must be present.',
     'regex'                => 'Поле :attribute має хибний формат.',
     'required'             => "Поле :attribute є обов'язковим для заповнення.",
     'required_if'          => "Поле :attribute є обов'язковим для заповнення, коли :other є рівним :value.",

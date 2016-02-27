@@ -57,6 +57,7 @@ return [
     ],
     'not_in'               => 'Pasirinkta negaliojanti reikšmė :attribute.',
     'numeric'              => 'Lauko :attribute reikšmė turi būti skaičius.',
+    'present'              => 'The :attribute field must be present.',
     'regex'                => 'Negaliojantis lauko :attribute formatas.',
     'required'             => 'Privaloma užpildyti lauką :attribute.',
     'required_if'          => 'Privaloma užpildyti lauką :attribute kai :other yra :value.',

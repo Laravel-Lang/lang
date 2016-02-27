@@ -57,6 +57,7 @@ return [
     ],
     'not_in'               => 'Het formaat van :attribute is ongeldig.',
     'numeric'              => ':attribute moet een nummer zijn.',
+    'present'              => 'The :attribute field must be present.',
     'regex'                => ':attribute formaat is ongeldig.',
     'required'             => ':attribute is verplicht.',
     'required_if'          => ':attribute is verplicht indien :other gelijk is aan :value.',

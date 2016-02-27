@@ -56,6 +56,7 @@ return [
     ],
     'not_in'               => 'Odabrano polje :attribute nije ispravno.',
     'numeric'              => 'Polje :attribute mora biti broj.',
+    'present'              => 'The :attribute field must be present.',
     'regex'                => 'Polje :attribute se ne podudara s formatom.',
     'required'             => 'Polje :attribute je obavezno.',
     'required_if'          => 'Polje :attribute je obavezno kada polje :other sadrži :value.',

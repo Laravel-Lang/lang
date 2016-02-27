@@ -57,6 +57,7 @@ return [
     ],
     'not_in'               => 'الحقل :attribute لاغٍ',
     'numeric'              => 'يجب على الحقل :attribute أن يكون رقمًا',
+    'present'              => 'The :attribute field must be present.',
     'regex'                => 'صيغة الحقل :attribute .غير صحيحة',
     'required'             => 'الحقل :attribute مطلوب.',
     'required_if'          => 'الحقل :attribute مطلوب في حال ما إذا كان :other يساوي :value.',

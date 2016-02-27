@@ -57,6 +57,7 @@ return [
     ],
     'not_in'               => 'Su balore seberadu pro :attribute no est bàlidu.',
     'numeric'              => ':attribute depet èssere unu nùmeru.',
+    'present'              => 'The :attribute field must be present.',
     'regex'                => 'Su formadu de su campu :attribute no est bàlidu.',
     'required'             => ':attribute est pedidu.',
     'required_if'          => 'Su campu :attribute est pedidu cando :other est :value.',

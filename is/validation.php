@@ -57,6 +57,7 @@ return [
     ],
     'not_in'               => 'Reiturinn :attribute er ógildur.',
     'numeric'              => 'Reiturinn :attribute verður að vera tala.',
+    'present'              => 'The :attribute field must be present.',
     'regex'                => 'Reiturinn :attribute er ekki á réttu formi.',
     'required'             => 'Reiturinn :attribute er nauðsynlegur.',
     'required_if'          => 'Reiturinn :attribute er nauðsynlegur þegar :other er :value.',

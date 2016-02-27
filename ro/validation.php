@@ -57,6 +57,7 @@ return [
     ],
     'not_in'               => 'Câmpul :attribute selectat nu este valid.',
     'numeric'              => 'Câmpul :attribute trebuie să fie un număr.',
+    'present'              => 'The :attribute field must be present.',
     'regex'                => 'Câmpul :attribute nu are un format valid.',
     'required'             => 'Câmpul :attribute este obligatoriu.',
     'required_if'          => 'Câmpul :attribute este necesar când :other este :value.',

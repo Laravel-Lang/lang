@@ -57,6 +57,7 @@ return [
     ],
     'not_in'               => 'მითითებული :attribute არასწორია.',
     'numeric'              => ':attribute რიცხვი უნდა იყოს.',
+    'present'              => 'The :attribute field must be present.',
     'regex'                => ':attribute არ ემთხვევა ფორმატს.',
     'required'             => ':attribute აუცილებელია.',
     'required_if'          => ':attribute აუცილებელია, თუ :other-ის მნიშვნელობა ემთხვევა :value-ს.',

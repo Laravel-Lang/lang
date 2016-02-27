@@ -57,6 +57,7 @@ return [
     ],
     'not_in'               => 'Saýlanan :attribute geçersiz.',
     'numeric'              => ':attribute san bolmalydyr.',
+    'present'              => 'The :attribute field must be present.',
     'regex'                => ':attribute formaty ýalňyş.',
     'required'             => ':attribute meýdany zerur.',
     'required_if'          => ':attribute meýdany, :other :value hümmetine eýe bolanynda zerurdyr.',

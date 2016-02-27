@@ -5,11 +5,9 @@ In this repository, you can find the lang files for the framework PHP, [Laravel 
 
 ---
 
-## Update 29 March
+News of 27 February 2016:
 
-    The project changes its name, but not yet its Composer package's name.
-    You must choose the number of version of this project in your composer.json.
-
+* validation : add *present*
 
 ---
 
@@ -52,8 +50,8 @@ How can I add a language in this project ?
 * copy these four files of the English version with your translation
     * for [Laravel](https://github.com/laravel/laravel/tree/master/resources/lang/en)
 * run [PHP-cs-fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)
-	* if installed to global, run `php-cs-fixer fix`.
-	* if installed to project local, run `vendor/bin/php-cs-fixer fix`.
+    * if installed to global, run `php-cs-fixer fix`.
+    * if installed to project local, run `vendor/bin/php-cs-fixer fix`.
 * add a pull request with the name of the language
 
 
@@ -63,82 +61,8 @@ How can I fix a file ?
 * fork this repository
 * update the file
 * run [PHP-cs-fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)
-	* if installed to global, run `php-cs-fixer fix`.
-	* if installed to project local, run `vendor/bin/php-cs-fixer fix`.
+    * if installed to global, run `php-cs-fixer fix`.
+    * if installed to project local, run `vendor/bin/php-cs-fixer fix`.
 * add a pull request with the name of the language
 
 The files for Laravel 4 are in `laravel4` branch, and for Laravel 5, are in `master` branch.
-
-
-Laravel 4.0
----
-
-We need your help to finish to translate `validation.php` file with array elements.
-
-You can follow translations in the issue [#73](https://github.com/caouecs/laravel-lang/issues/73).
-
-Laravel 4.1
----
-
-### Password reminder sent
-
-To be ready for the new version of Laravel, we need your help. In `reminders.php` file, a new line has been added :
-
-    "sent" => "Password reminder sent!",
-
-You can follow translations in the issue [#137](https://github.com/caouecs/laravel-lang/issues/137).
-
-### Required without all
-
-In `validation.php` file, a new line has been added :
-
-    "required_without_all" => "The :attribute field is required when none of :values are present."
-
-You can follow translations in the issue [#172](https://github.com/caouecs/laravel-lang/issues/172).
-
-### Validation email
-
-In `validation.php` file, the text for email has been updated :
-
-    "email" => "The :attribute must be a valid email address."
-
-You can follow translations in the issue [#187](https://github.com/caouecs/laravel-lang/issues/187).
-
-### Required with all
-
-In `validation.php` file, a new line has been added :
-
-    "required_with_all" => "The :attribute field is required when :values is present."
-
-You can follow translations in the issue [#193](https://github.com/caouecs/laravel-lang/issues/193).
-
-Laravel 4.2
----
-
-### Reset in reminders
-
-In `reminders.php` file, a new line has been added :
-
-    "reset" => "Password has been reset!"
-
-You can follow translations in the issue [#258](https://github.com/caouecs/laravel-lang/issues/258).
-
-### Validation.timezone
-
-In `validation.php` file, a new line has been added :
-
-    "timezone" => "The :attribute must be a valid zone."
-
-You can follow translations in the issue [#259](https://github.com/caouecs/laravel-lang/issues/259).
-
-Laravel 5.0
----
-
-* array for PHP 5.4+
-* validation.filled, with same translation than validation.required
-* *reminders* file is now *languages* file
-
-In `passwords` file [#323](https://github.com/caouecs/laravel-lang/issues/323) :
-
-    "sent" => "We have e-mailed your password reset link!"
-    "reset" => "Your password has been reset!"

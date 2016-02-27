@@ -57,6 +57,7 @@ return [
     ],
     'not_in'               => '選択された:attributeは、有効ではありません。',
     'numeric'              => ':attributeには、数字を指定してください。',
+    'present'              => 'The :attribute field must be present.',
     'regex'                => ':attributeには、有効な正規表現を指定してください。',
     'required'             => ':attributeは、必ず指定してください。',
     'required_if'          => ':otherが:valueの場合、:attributeを指定してください。',

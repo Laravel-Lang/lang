@@ -57,6 +57,7 @@ return [
     ],
     'not_in'               => ':attribute përzgjedhur është i/e pasaktë.',
     'numeric'              => ':attribute duhet të jetë një numër.',
+    'present'              => 'The :attribute field must be present.',
     'regex'                => 'Formati i :attribute është i pasaktë.',
     'required'             => 'Fusha :attribute është e kërkuar.',
     'required_if'          => 'Fusha :attribute është e kërkuar kur :other është :value.',

@@ -57,6 +57,7 @@ return [
     ],
     'not_in'               => 'Isian :attribute yang dipilih tidak valid.',
     'numeric'              => 'Isian :attribute harus berupa angka.',
+    'present'              => 'The :attribute field must be present.',
     'regex'                => 'Format isian :attribute tidak valid.',
     'required'             => 'Bidang isian :attribute wajib diisi.',
     'required_if'          => 'Bidang isian :attribute wajib diisi bila :other adalah :value.',

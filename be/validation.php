@@ -58,6 +58,7 @@ return [
     ],
     'not_in'               => 'Выбранае значэнне для :attribute памылкова.',
     'numeric'              => 'Поле :attribute павінна быць лікам.',
+    'present'              => 'The :attribute field must be present.',
     'regex'                => 'Поле :attribute мае памылковы фармат.',
     'required'             => 'Поле :attribute абавязкова для запаўнення.',
     'required_if'          => 'Поле :attribute абавязкова для запаўнення, калі :other раўняецца :value.',

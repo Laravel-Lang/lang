@@ -57,6 +57,7 @@ return [
     ],
     'not_in'               => 'Det valda :attribute är ogiltigt.',
     'numeric'              => ':attribute måste vara en siffra.',
+    'present'              => 'The :attribute field must be present.',
     'regex'                => 'Formatet för :attribute är ogiltigt.',
     'required'             => 'Fältet :attribute är obligatoriskt.',
     'required_if'          => 'Fältet :attribute är obligatoriskt då :other är :value.',

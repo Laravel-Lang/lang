@@ -57,6 +57,7 @@ return [
     ],
     'not_in'               => 'ការជ្រើសរើស :attribute គឺត្រឹមត្រូវ។',
     'numeric'              => ':attribute ត្រូវតែជាលេខ។',
+    'present'              => 'The :attribute field must be present.',
     'regex'                => ':attribute ទំរងមិនត្រឹមត្រូវ។',
     'required'             => 'ទំរង់ :attribute នេះគឺទាមទារឲ្យមាន។',
     'required_if'          => 'ទំរង់ :attribute នេះគឺទាមទារនៅពេល :other គឺ :value​។',

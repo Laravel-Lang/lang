@@ -57,6 +57,7 @@ return [
     ],
     'not_in'               => 'Nid yw :attribute yn ddilys.',
     'numeric'              => 'Rhaid i :attribute fod yn rif.',
+    'present'              => 'The :attribute field must be present.',
     'regex'                => 'Nid yw fformat :attribute yn ddilys.',
     'required'             => 'Rhaid cynnwys :attribute.',
     'required_if'          => 'Rhaid cynnwys :attribute pan mae :other yn :value.',

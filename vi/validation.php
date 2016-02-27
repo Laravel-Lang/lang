@@ -57,6 +57,7 @@ return [
     ],
     'not_in'               => 'Giá trị đã chọn trong trường :attribute không hợp lệ.',
     'numeric'              => 'Trường :attribute phải là một số.',
+    'present'              => 'The :attribute field must be present.',
     'regex'                => 'Định dạng trường :attribute không hợp lệ.',
     'required'             => 'Trường :attribute không được bỏ trống.',
     'required_if'          => 'Trường :attribute không được bỏ trống khi trường :other là :value.',

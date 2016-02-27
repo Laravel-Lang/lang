@@ -57,6 +57,7 @@ return [
     ],
     'not_in'               => 'בחירת ה-:attribute אינה תקפה.',
     'numeric'              => 'שדה :attribute חייב להיות מספר.',
+    'present'              => 'The :attribute field must be present.',
     'regex'                => 'שדה :attribute בעל פורמט שאינו תקין.',
     'required'             => 'שדה :attribute הוא חובה.',
     'required_if'          => 'שדה :attribute נחוץ כאשר :other הוא :value.',

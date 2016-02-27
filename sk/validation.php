@@ -57,6 +57,7 @@ return [
     ],
     'not_in'               => 'označený:attribute je neplatný.',
     'numeric'              => ':attribute musí byť číslo.',
+    'present'              => 'The :attribute field must be present.',
     'regex'                => ':attribute má neplatný formát.',
     'required'             => ':attribute je požadované.',
     'required_if'          => ':attribute je požadované keď :other je :value.',

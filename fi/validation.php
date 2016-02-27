@@ -57,6 +57,7 @@ return [
     ],
     'not_in'               => 'valittu :attribute on virheellinen.',
     'numeric'              => ':attribute pitää olla numero.',
+    'present'              => 'The :attribute field must be present.',
     'regex'                => 'The :attribute format is invalid.',
     'required'             => ':attribute kenttä on pakollinen.',
     'required_if'          => 'The :attribute field is required when :other is :value.',

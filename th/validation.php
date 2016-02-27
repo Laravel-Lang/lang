@@ -57,6 +57,7 @@ return [
     ],
     'not_in'               => 'ข้อมูล ที่เลือกจาก :attribute ไม่ถูกต้อง',
     'numeric'              => 'ข้อมูล :attribute ต้องเป็นตัวเลข',
+    'present'              => 'The :attribute field must be present.',
     'regex'                => 'ข้อมูล :attribute มีรูปแบบไม่ถูกต้อง',
     'required'             => 'ข้อมูล :attribute จำเป็นต้องกรอก',
     'required_if'          => 'ข้อมูล :attribute จำเป็นต้องกรอกเมื่อ :other เป็น :value.',

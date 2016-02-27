@@ -57,6 +57,7 @@ return [
     ],
     'not_in'               => 'The selected :attribute is invalid.',
     'numeric'              => ':attribute must be a number.',
+    'present'              => 'The :attribute field must be present.',
     'regex'                => ':attribute format is invalid.',
     'required'             => ':attribute field is required.',
     'required_if'          => ':attribute field is required when :other is :value.',

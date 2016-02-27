@@ -57,6 +57,7 @@ return [
     ],
     'not_in'               => ':attribute non é válido.',
     'numeric'              => ':attribute debe de ser un número.',
+    'present'              => 'The :attribute field must be present.',
     'regex'                => 'O formato de :attribute non é válido.',
     'required'             => 'O campo :attribute é obrigatorio.',
     'required_if'          => 'O campo :attribute é obrigatorio cando :other é :value.',

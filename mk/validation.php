@@ -34,6 +34,7 @@ return [
     'different'            => 'Полињата :attribute и :other треба да се различни.',
     'digits'               => 'Полето :attribute треба да има :digits цифри.',
     'digits_between'       => 'Полето :attribute треба да има помеѓу :min и :max цифри.',
+    'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => 'Полето :attribute не е во валиден формат.',
     'exists'               => 'Избранато поле :attribute веќе постои.',
     'filled'               => 'Полето :attribute е задолжително.',

@@ -35,6 +35,7 @@ return [
     'different'            => 'Палі :attribute і :other павінны адрознівацца.',
     'digits'               => 'Даўжыня лічбавага поля :attribute павінна быць :digits.',
     'digits_between'       => 'Даўжыня лічбавага поля :attribute павінна быць паміж :min і :max.',
+    'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => 'Поле :attribute павінна быць сапраўдным электронным адрасам.',
     'filled'               => 'Поле :attribute абавязкова для запаўнення.',
     'exists'               => 'Выбранае значэнне для :attribute некарэктна.',

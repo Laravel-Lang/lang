@@ -34,6 +34,7 @@ return [
     'different'            => ':attribute ja :other tulee olla eri arvoisia.',
     'digits'               => ':attribute on oltava :digits numeroin.',
     'digits_between'       => 'The :attribute must be between :min and :max digits.',
+    'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => ':attribute muoto on virheellinen.',
     'exists'               => 'valittu :attribute on virheellinen.',
     'filled'               => ':attribute kenttä on pakollinen.',

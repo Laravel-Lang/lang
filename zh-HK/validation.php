@@ -34,6 +34,7 @@ return [
     'different'            => ':attribute 與 :other 必須不同。',
     'digits'               => ':attribute 必須是 :digits 位數字。',
     'digits_between'       => ':attribute 必須介乎 :min 至 :max 位數字。',
+    'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => ':attribute 的格式無效。',
     'exists'               => ':attribute 不存在。',
     'filled'               => ':attribute 不能留空。',

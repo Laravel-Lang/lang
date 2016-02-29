@@ -34,6 +34,7 @@ return [
     'different'            => 'Polja :attribute i :other moraju biti različita.',
     'digits'               => 'Polje :attribute mora sadržavati :digits znamenki.',
     'digits_between'       => 'Polje :attribute mora imati između :min i :max znamenki.',
+    'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => 'Polje :attribute mora biti ispravna e-mail adresa.',
     'exists'               => 'Odabrano polje :attribute nije ispravno.',
     'image'                => 'Polje :attribute mora biti slika.',

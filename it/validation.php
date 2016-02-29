@@ -34,6 +34,7 @@ return [
     'different'            => ':attribute e :other devono essere differenti.',
     'digits'               => ':attribute deve essere di :digits cifre.',
     'digits_between'       => ':attribute deve essere tra :min e :max cifre.',
+    'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => ':attribute non è valido.',
     'exists'               => ':attribute selezionato/a non è valido.',
     'filled'               => 'Il campo :attribute è richiesto.',

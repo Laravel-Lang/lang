@@ -34,6 +34,7 @@ return [
     'different'            => 'שדה :attribute ושדה :other חייבים להיות שונים.',
     'digits'               => 'שדה :attribute חייב להיות בעל :digits ספרות.',
     'digits_between'       => 'שדה :attribute חייב להיות בין :min ו-:max ספרות.',
+    'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => 'שדה :attribute חייב להיות כתובת אימייל תקנית.',
     'exists'               => 'בחירת ה-:attribute אינה תקפה.',
     'filled'               => 'שדה :attribute הוא חובה.',

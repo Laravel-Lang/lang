@@ -107,7 +107,35 @@ return [
     */
 
     'attributes'           => [
-        //
+        'name'                  => '名稱',
+        'username'              => '使用者名',
+        'email'                 => '郵箱',
+        'first_name'            => '名',
+        'last_name'             => '姓',
+        'password'              => '密碼',
+        'password_confirmation' => '確認密碼',
+        'city'                  => '城市',
+        'country'               => '國家',
+        'address'               => '地址',
+        'phone'                 => '電話',
+        'mobile'                => '手機',
+        'age'                   => '年齡',
+        'sex'                   => '性別',
+        'gender'                => '性別',
+        'day'                   => '天',
+        'month'                 => '月',
+        'year'                  => '年',
+        'hour'                  => '時',
+        'minute'                => '分',
+        'second'                => '秒',
+        'title'                 => '標題',
+        'content'               => '內容',
+        'description'           => '描述',
+        'excerpt'               => '摘要',
+        'date'                  => '日期',
+        'time'                  => '時間',
+        'available'             => '可用的',
+        'size'                  => '大小',
     ],
 
 ];

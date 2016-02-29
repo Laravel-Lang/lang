@@ -34,6 +34,7 @@ return [
     'different'            => ':attribute و :other باید متفاوت باشند.',
     'digits'               => ':attribute باید :digits رقم باشد.',
     'digits_between'       => ':attribute باید بین :min و :max رقم باشد.',
+    'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => 'فرمت :attribute معتبر نیست.',
     'exists'               => ':attribute انتخاب شده، معتبر نیست.',
     'filled'               => 'فیلد :attribute الزامی است',

@@ -34,6 +34,7 @@ return [
     'different'            => ':attribute და :other ერთმანეთს არ უნდა ემთხვეოდეს.',
     'digits'               => ':attribute :digits ციფრისგან უნდა შედგებოდეს.',
     'digits_between'       => ':attribute :min-დან :max ციფრამბდე უნდა შედგებოდეს.',
+    'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => ':attribute სწორი ელ.ფოსტა უნდა იყოს.',
     'exists'               => 'ასეთი :attribute არ არსებობს.',
     'filled'               => ':attribute აუცილებელია.',

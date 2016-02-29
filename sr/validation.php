@@ -34,6 +34,7 @@ return [
     'different'            => 'Polja :attribute i :other moraju biti različita.',
     'digits'               => 'Polje :attribute mora sadržati :digits šifri.',
     'digits_between'       => 'Polje :attribute mora biti izemđu :min i :max šifri.',
+    'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => 'Format polja :attribute nije validan.',
     'exists'               => 'Odabrano polje :attribute nije validno.',
     'filled'               => 'Polje :attribute je obavezno.',

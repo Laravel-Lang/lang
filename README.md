@@ -5,9 +5,13 @@ In this repository, you can find the lang files for the framework PHP, [Laravel 
 
 ---
 
+News of 2 March 2016:
+
+* validation: add *distinct*
+
 News of 27 February 2016:
 
-* validation : add *present*
+* validation: add *present*
 
 ---
 

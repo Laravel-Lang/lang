@@ -34,6 +34,7 @@ return [
     'different'            => ':attribute និង :other ត្រូវតែបញ្ជាក់។',
     'digits'               => ':attribute ត្រូវជាខ្ទុង :digits។',
     'digits_between'       => ':attribute ត្រូវចាប់ពីខ្ទុង :min​ទៅ :max។',
+    'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => ':attribute ទំរង់នេះមិនត្រឹមត្រូវ។',
     'exists'               => 'ការជ្រើសរើស :attribute ត្រឹមត្រូវ។',
     'filled'               => 'ទំរង់ :attribute នេះគឺទាមទារឲ្យមាន។',

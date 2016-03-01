@@ -34,6 +34,7 @@ return [
     'different'      => ':attributeと:otherには、異なるものを指定してください。',
     'digits'         => ':attributeは、:digits桁にしてください。',
     'digits_between' => ':attributeは、:min桁から:max桁にしてください。',
+    'distinct'             => 'The :attribute field has a duplicate value.',
     'email'          => ':attributeは、有効なメールアドレス形式で指定してください。',
     'exists'         => '選択された:attributeは、有効ではありません。',
     'filled'         => ':attributeは必須です。',

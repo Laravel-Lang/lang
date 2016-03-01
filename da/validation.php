@@ -34,6 +34,7 @@ return [
     'different'            => ':attribute og :other skal være forskellige.',
     'digits'               => ':attribute skal have :digits cifre.',
     'digits_between'       => ':attribute skal have mellem :min og :max cifre.',
+    'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => ':attribute skal være en gyldig e-mailadresse.',
     'exists'               => 'Det valgte :attribute er ugyldig.',
     'filled'               => ':attribute skal udfyldes.',

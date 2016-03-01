@@ -34,6 +34,7 @@ return [
     'different'            => 'Isian :attribute dan :other harus berbeda.',
     'digits'               => 'Isian :attribute harus berupa angka :digits.',
     'digits_between'       => 'Isian :attribute harus antara angka :min dan :max.',
+    'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => 'Isian :attribute harus berupa alamat surel yang valid.',
     'exists'               => 'Isian :attribute yang dipilih tidak valid.',
     'filled'               => 'Bidang isian :attribute wajib diisi.',

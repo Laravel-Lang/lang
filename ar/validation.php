@@ -34,6 +34,7 @@ return [
     'different'            => 'يجب أن يكون الحقلان :attribute و :other مُختلفان',
     'digits'               => 'يجب أن يحتوي الحقل :attribute على :digits رقمًا/أرقام',
     'digits_between'       => 'يجب أن يحتوي الحقل :attribute ما بين :min و :max رقمًا/أرقام ',
+    'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => 'يجب أن يكون :attribute عنوان بريد إلكتروني صحيح البُنية',
     'exists'               => 'الحقل :attribute لاغٍ',
     'filled'               => 'الحقل :attribute إجباري',

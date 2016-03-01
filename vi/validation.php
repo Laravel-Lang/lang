@@ -34,6 +34,7 @@ return [
     'different'            => 'Trường :attribute và :other phải khác nhau.',
     'digits'               => 'Độ dài của trường :attribute phải gồm :digits chữ số.',
     'digits_between'       => 'Độ dài của trường :attribute phải nằm trong khoảng :min and :max chữ số.',
+    'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => 'Trường :attribute phải là một địa chỉ email hợp lệ.',
     'exists'               => 'Giá trị đã chọn trong trường :attribute không hợp lệ.',
     'filled'               => 'Trường :attribute không được bỏ trống.',

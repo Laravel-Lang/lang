@@ -34,6 +34,7 @@ return [
     'different'            => 'Câmpurile :attribute și :other trebuie să fie diferite.',
     'digits'               => 'Câmpul :attribute trebuie să aibă :digits cifre.',
     'digits_between'       => 'Câmpul :attribute trebuie să aibă între :min și :max cifre.',
+    'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => 'Câmpul :attribute trebuie să fie o adresă de e-mail validă.',
     'exists'               => 'Câmpul :attribute selectat nu este valid.',
     'filled'               => 'Câmpul :attribute trebuie completat.',

@@ -34,6 +34,7 @@ return [
     'different'            => ':attribute a :other musia byť odlišné.',
     'digits'               => ':attribute musí mať :digits číslic.',
     'digits_between'       => ':attribute musí mať rozsah :min až :max číslic.',
+    'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => ':attribute má neplatný formát.',
     'exists'               => 'označený :attribute je neplatný.',
     'filled'               => ':attribute je požadované.',

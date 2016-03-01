@@ -34,6 +34,7 @@ return [
     'different'            => 'A(z) :attribute és :other értékei különbözőek kell, hogy legyenek!',
     'digits'               => 'A(z) :attribute :digits számjegyűnek kell lennie!',
     'digits_between'       => 'A(z) :attribute értéke :min és :max közötti számjegy lehet!',
+    'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => 'A(z) :attribute nem érvényes email formátum.',
     'exists'               => 'A(z) :attribute már létezik.',
     'filled'               => 'A(z) :attribute megadása kötelező!',

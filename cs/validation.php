@@ -34,6 +34,7 @@ return [
     'different'            => ':attribute a :other se musí lišit.',
     'digits'               => ':attribute musí být :digits pozic dlouhé.',
     'digits_between'       => ':attribute musí být dlouhé nejméně :min a nejvíce :max pozic.',
+    'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => ':attribute není platný formát.',
     'exists'               => 'Zvolená hodnota pro :attribute není platná.',
     'filled'               => ':attribute musí být vyplněno.',

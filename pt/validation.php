@@ -34,7 +34,7 @@ return [
     'different'            => 'Os campos :attribute e :other deverão conter valores diferentes.',
     'digits'               => 'O campo :attribute deverá conter :digits caracteres.',
     'digits_between'       => 'O campo :attribute deverá conter entre :min a :max caracteres.',
-    'distinct'             => 'The :attribute field has a duplicate value.',
+    'distinct'             => 'O campo :attribute contém um valor duplicado.',
     'email'                => 'O campo :attribute não contém um endereço de correio eletrónico válido.',
     'exists'               => 'O valor selecionado para o campo :attribute é inválido.',
     'filled'               => 'É obrigatória a indicação de um valor para o campo :attribute.',

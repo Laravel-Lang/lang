@@ -5,6 +5,10 @@ In this repository, you can find the lang files for the framework PHP, [Laravel 
 
 ---
 
+News of 7 March 2016:
+
+* validation: add *in_array*
+
 News of 2 March 2016:
 
 * validation: add *distinct*

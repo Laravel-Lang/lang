@@ -79,7 +79,6 @@ return [
     'timezone'         => 'The :attribute must be a valid zone.',
     'unique'           => 'Vrijednost za polje :attribute već postoji.',
     'url'              => 'Format polja :attribute ne važi.',
-    'pdv'              => 'Format polja PDV nije ispravan. Format je npr: 20/31-00112-1',
 
     /*
     |--------------------------------------------------------------------------

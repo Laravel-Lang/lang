@@ -40,6 +40,7 @@ return [
     'filled'               => ':attributeは必須です。',
     'image'                => ':attributeには、画像を指定してください。',
     'in'                   => '選択された:attributeは、有効ではありません。',
+    'in_array'             => 'The :attribute field does not exist in :other.',
     'integer'              => ':attributeには、整数を指定してください。',
     'ip'                   => ':attributeには、有効なIPアドレスを指定してください。',
     'json'                 => ':attributeには、有効なJSON文字列を指定してください。',

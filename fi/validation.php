@@ -40,6 +40,7 @@ return [
     'filled'               => ':attribute kenttä on pakollinen.',
     'image'                => ':attribute pitää olla kuva.',
     'in'                   => 'valittu :attribute on virheellinen.',
+    'in_array'             => 'The :attribute field does not exist in :other.',
     'integer'              => ':attribute pitää olla numero.',
     'ip'                   => ':attribute pitää olla validi IP-osoite.',
     'json'                 => 'The :attribute must be a valid JSON string.',

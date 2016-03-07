@@ -39,6 +39,7 @@ return [
     'exists'               => 'Odabrano polje :attribute nije ispravno.',
     'image'                => 'Polje :attribute mora biti slika.',
     'in'                   => 'Odabrano polje :attribute nije ispravno.',
+    'in_array'             => 'The :attribute field does not exist in :other.',
     'integer'              => 'Polje :attribute mora biti broj.',
     'ip'                   => 'Polje :attribute mora biti ispravna IP adresa.',
     'json'                 => 'The :attribute must be a valid JSON string.',

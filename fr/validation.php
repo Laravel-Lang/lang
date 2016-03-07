@@ -40,6 +40,7 @@ return [
     'filled'               => 'Le champ :attribute est obligatoire.',
     'image'                => 'Le champ :attribute doit être une image.',
     'in'                   => 'Le champ :attribute est invalide.',
+    'in_array'             => 'The :attribute field does not exist in :other.',
     'integer'              => 'Le champ :attribute doit être un entier.',
     'ip'                   => 'Le champ :attribute doit être une adresse IP valide.',
     'json'                 => 'Le champ :attribute doit être un document JSON valide.',

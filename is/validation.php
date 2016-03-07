@@ -40,6 +40,7 @@ return [
     'exists'               => 'Reiturinn :attribute er nú þegar til.',
     'image'                => 'Reiturinn :attribute verður að vera mynd.',
     'in'                   => 'Reiturinn :attribute er ekki réttur.',
+    'in_array'             => 'The :attribute field does not exist in :other.',
     'integer'              => 'Reiturinn :attribute verður að vera tala.',
     'ip'                   => 'Reiturinn :attribute verður að vera lögleg IP-tala.',
     'json'                 => 'The :attribute must be a valid JSON string.',

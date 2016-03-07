@@ -40,6 +40,7 @@ return [
     'filled'               => ':attribute alanı gereklidir.',
     'image'                => ':attribute alanı resim dosyası olmalıdır.',
     'in'                   => ':attribute değeri geçersiz.',
+    'in_array'             => 'The :attribute field does not exist in :other.',
     'integer'              => ':attribute tamsayı olmalıdır.',
     'ip'                   => ':attribute geçerli bir IP adresi olmalıdır.',
     'json'                 => 'The :attribute must be a valid JSON string.',

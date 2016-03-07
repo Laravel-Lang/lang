@@ -40,6 +40,7 @@ return [
     'exists'               => 'Вибране для :attribute значення не коректне.',
     'image'                => 'Поле :attribute має містити зображення.',
     'in'                   => 'Вибране для :attribute значення не коректне.',
+    'in_array'             => 'The :attribute field does not exist in :other.',
     'integer'              => 'Поле :attribute має містити ціле число.',
     'ip'                   => 'Поле :attribute має містити IP адресу.',
     'json'                 => 'Дані поля :attribute мають бути в форматі JSON.',

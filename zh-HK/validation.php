@@ -40,6 +40,7 @@ return [
     'filled'               => ':attribute 不能留空。',
     'image'                => ':attribute 必須是一張圖片。',
     'in'                   => '所揀選的 :attribute 選項無效。',
+    'in_array'             => 'The :attribute field does not exist in :other.',
     'integer'              => ':attribute 必須是一個整數。',
     'ip'                   => ':attribute 必須是一個有效的 IP 地址。',
     'json'                 => ':attribute 必須是正確的 JSON 格式。',

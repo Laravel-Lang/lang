@@ -40,6 +40,7 @@ return [
     'filled'               => 'A(z) :attribute megadása kötelező!',
     'image'                => 'A(z) :attribute képfájl kell, hogy legyen!',
     'in'                   => 'A kiválasztott :attribute érvénytelen.',
+    'in_array'             => 'The :attribute field does not exist in :other.',
     'integer'              => 'A(z) :attribute értéke szám kell, hogy legyen!',
     'ip'                   => 'A(z) :attribute érvényes IP cím kell, hogy legyen!',
     'json'                 => 'The :attribute must be a valid JSON string.',

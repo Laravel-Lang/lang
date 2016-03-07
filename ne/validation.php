@@ -40,6 +40,7 @@ return [
     'filled'               => ':attribute दिइएको हुनुपर्छ।',
     'image'                => ':attribute मा फोटो हुनुपर्छ।',
     'in'                   => 'छानिएको :attribute अमान्य छ।',
+    'in_array'             => 'The :attribute field does not exist in :other.',
     'integer'              => ':attribute पूर्ण संख्या हुनुपर्छ।',
     'ip'                   => ':attribute मा दिइएको मान्य IP ठेगाना हुनुपर्छ।',
     'json'                 => ':attribute मा दिइएको मान्य JSON string हुनुपर्छ।',

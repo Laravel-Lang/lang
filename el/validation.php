@@ -40,6 +40,7 @@ return [
     'exists'               => 'Το επιλεγμένο :attribute δεν είναι έγκυρο.',
     'image'                => 'Το πεδίο :attribute πρέπει να είναι εικόνα.',
     'in'                   => 'Το επιλεγμένο :attribute δεν είναι έγκυρο.',
+    'in_array'             => 'The :attribute field does not exist in :other.',
     'integer'              => 'Το πεδίο :attribute πρέπει να είναι ακέραιος.',
     'ip'                   => 'Το πεδίο :attribute πρέπει να είναι μία έγκυρη διεύθυνση IP.',
     'json'                 => 'Το πεδίο :attribute πρέπει να είναι μία έγκυρη συμβολοσειρά JSON.',

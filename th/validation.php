@@ -40,6 +40,7 @@ return [
     'filled'               => 'ข้อมูล :attribute จำเป็นต้องกรอก',
     'image'                => 'ข้อมูล :attribute ต้องเป็นรูปภาพ',
     'in'                   => 'ข้อมูล ที่ถูกเลือกใน :attribute ไม่ถูกต้อง',
+    'in_array'             => 'The :attribute field does not exist in :other.',
     'integer'              => 'ข้อมูล :attribute ต้องเป็นตัวเลข',
     'ip'                   => 'ข้อมูล :attribute ต้องเป็น IP',
     'json'                 => 'ข้อมูล :attribute ต้องเป็นอักขระ JSON ที่สมบูรณ์',

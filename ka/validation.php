@@ -40,6 +40,7 @@ return [
     'filled'               => ':attribute აუცილებელია.',
     'image'                => ':attribute სურათი უნდა იყოს.',
     'in'                   => 'მითითებული :attribute არასწორია.',
+    'in_array'             => 'The :attribute field does not exist in :other.',
     'integer'              => ':attribute მთელი რიცხვი უნდა იყოს.',
     'ip'                   => ':attribute IP მისამართი უნდა იყოს.',
     'json'                 => ':attribute JSON ტიპის უნდა იყოს.',

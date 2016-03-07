@@ -40,6 +40,7 @@ return [
     'exists'               => 'Nid yw :attribute yn ddilys.',
     'image'                => 'Rhaid i :attribute fod yn lun.',
     'in'                   => 'Nid yw :attribute yn ddilys.',
+    'in_array'             => 'The :attribute field does not exist in :other.',
     'integer'              => 'Rhaid i :attribute fod yn integer.',
     'ip'                   => 'Rhaid i :attribute fod yn gyfeiriad IP dilys.',
     'json'                 => 'The :attribute must be a valid JSON string.',

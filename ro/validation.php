@@ -40,6 +40,7 @@ return [
     'filled'               => 'Câmpul :attribute trebuie completat.',
     'image'                => 'Câmpul :attribute trebuie să fie o imagine.',
     'in'                   => 'Câmpul :attribute selectat nu este valid.',
+    'in_array'             => 'The :attribute field does not exist in :other.',
     'integer'              => 'Câmpul :attribute trebuie să fie un număr întreg.',
     'ip'                   => 'Câmpul :attribute trebuie să fie o adresă IP validă.',
     'json'                 => 'Câmpul :attribute trebuie să fie un string JSON valid.',

@@ -40,7 +40,7 @@ return [
     'filled'               => 'Bidang isian :attribute wajib diisi.',
     'image'                => 'Isian :attribute harus berupa gambar.',
     'in'                   => 'Isian :attribute yang dipilih tidak valid.',
-    'in_array'             => 'The :attribute field does not exist in :other.',
+    'in_array'             => 'Bidang isian :attribute tidak terdapat dalam :other.',
     'integer'              => 'Isian :attribute harus merupakan bilangan bulat.',
     'ip'                   => 'Isian :attribute harus berupa alamat IP yang valid.',
     'json'                 => 'Isian :attribute harus berupa JSON string yang valid.',

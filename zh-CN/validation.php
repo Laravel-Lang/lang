@@ -40,7 +40,7 @@ return [
     'filled'               => ':attribute 不能为空。',
     'image'                => ':attribute 必须是图片。',
     'in'                   => '已选的属性 :attribute 非法。',
-    'in_array'             => 'The :attribute field does not exist in :other.',
+    'in_array'             => ':attribute 没有在 :other 中。',
     'integer'              => ':attribute 必须是整数。',
     'ip'                   => ':attribute 必须是有效的 IP 地址。',
     'json'                 => ':attribute 必须是正确的 JSON 格式。',

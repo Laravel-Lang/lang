@@ -40,6 +40,7 @@ return [
     'filled'               => ':attribute muss ausgefüllt sein.',
     'image'                => ':attribute muss ein Bild sein.',
     'in'                   => 'Der gewählte Wert für :attribute ist ungültig.',
+    'in_array'             => 'The :attribute field does not exist in :other.',
     'integer'              => ':attribute muss eine ganze Zahl sein.',
     'ip'                   => ':attribute muss eine gültige IP-Adresse sein.',
     'json'                 => ':attribute muss ein gültiger JSON-String sein.',

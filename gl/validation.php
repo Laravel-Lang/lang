@@ -40,6 +40,7 @@ return [
     'filled'               => 'O campo :attribute é obrigatorio.',
     'image'                => ':attribute debe ser unha imaxe.',
     'in'                   => 'O :attribute seleccionado non é válido.',
+    'in_array'             => 'The :attribute field does not exist in :other.',
     'integer'              => ':attribute debe ser un número enteiro.',
     'ip'                   => ':attribute debe ser unha dirección IP válida.',
     'json'                 => ':attribute debe ser unha cadea JSON válida.',

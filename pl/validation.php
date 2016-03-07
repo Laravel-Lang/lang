@@ -40,6 +40,7 @@ return [
     'filled'               => 'Pole :attribute jest wymagane.',
     'image'                => ':attribute musi być obrazkiem.',
     'in'                   => 'Zaznaczony :attribute jest nieprawidłowy.',
+    'in_array'             => 'The :attribute field does not exist in :other.',
     'integer'              => ':attribute musi być liczbą całkowitą.',
     'ip'                   => ':attribute musi być prawidłowym adresem IP.',
     'json'                 => 'The :attribute must be a valid JSON string.',

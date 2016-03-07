@@ -40,6 +40,7 @@ return [
     'filled'               => 'ទំរង់ :attribute នេះគឺទាមទារឲ្យមាន។',
     'image'                => ':attribute ត្រូវតៃជារូបភាព។',
     'in'                   => 'ការជ្រើសរើស :attribute មិនត្រឹមត្រូវ។',
+    'in_array'             => 'The :attribute field does not exist in :other.',
     'integer'              => ':attribute ត្រូវតែជាចំនួនគត់។',
     'ip'                   => ':attribute ត្រូវតែជា IP address​ត្រឹមត្រូវ។',
     'json'                 => 'The :attribute must be a valid JSON string.',

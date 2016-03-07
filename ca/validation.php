@@ -40,6 +40,7 @@ return [
     'filled'               => 'El camp :attribute és obligatori.',
     'image'                => ':attribute ha de ser una imatge.',
     'in'                   => ':attribute és invàlid',
+    'in_array'             => 'The :attribute field does not exist in :other.',
     'integer'              => ':attribute ha de ser un nombre enter.',
     'ip'                   => ':attribute ha de ser una adreça IP vàlida.',
     'json'                 => 'El camp :attribute ha de contenir una cadena JSON vàlida.',

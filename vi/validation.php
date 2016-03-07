@@ -40,6 +40,7 @@ return [
     'filled'               => 'Trường :attribute không được bỏ trống.',
     'image'                => 'Các tập tin trong trường :attribute phải là định dạng hình ảnh.',
     'in'                   => 'Giá trị đã chọn trong trường :attribute không hợp lệ.',
+    'in_array'             => 'The :attribute field does not exist in :other.',
     'integer'              => 'Trường :attribute phải là một số nguyên.',
     'ip'                   => 'Trường :attribute phải là một địa chỉa IP.',
     'json'                 => 'The :attribute must be a valid JSON string.',

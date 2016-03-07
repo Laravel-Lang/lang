@@ -40,6 +40,7 @@ return [
     'filled'               => 'Fältet :attribute är obligatoriskt.',
     'image'                => ':attribute måste vara en bild.',
     'in'                   => 'Det valda :attribute är ogiltigt.',
+    'in_array'             => 'The :attribute field does not exist in :other.',
     'integer'              => ':attribute måste vara en siffra.',
     'ip'                   => ':attribute måste vara en giltig IP-adress.',
     'json'                 => 'The :attribute must be a valid JSON string.',

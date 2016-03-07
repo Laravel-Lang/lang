@@ -40,6 +40,7 @@ return [
     'filled'               => ':attribute skal udfyldes.',
     'image'                => ':attribute skal være et billede.',
     'in'                   => 'Det valgte :attribute er ugyldig.',
+    'in_array'             => 'The :attribute field does not exist in :other.',
     'integer'              => ':attribute skal være et heltal.',
     'ip'                   => ':attribute skal være en gyldig IP adresse.',
     'json'                 => ':attribute skal være en gyldig JSON streng.',

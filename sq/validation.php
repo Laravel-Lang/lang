@@ -40,6 +40,7 @@ return [
     'filled'               => 'Fusha :attribute është e kërkuar.',
     'image'                => ':attribute duhet të jetë imazh.',
     'in'                   => ':attribute përzgjedhur është i/e pasaktë.',
+    'in_array'             => 'The :attribute field does not exist in :other.',
     'integer'              => ':attribute duhet të jetë numër i plotë.',
     'ip'                   => ':attribute duhet të jetë një IP adresë e saktë.',
     'json'                 => 'The :attribute must be a valid JSON string.',

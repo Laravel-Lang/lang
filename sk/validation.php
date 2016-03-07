@@ -40,6 +40,7 @@ return [
     'filled'               => ':attribute je požadované.',
     'image'                => ':attribute musí byť obrázok.',
     'in'                   => 'označený :attribute je neplatný.',
+    'in_array'             => 'The :attribute field does not exist in :other.',
     'integer'              => ':attribute musí byť celé číslo.',
     'ip'                   => ':attribute musí byť platná IP adresa.',
     'json'                 => ':attribute musí byť platný JSON reťazec.',

@@ -39,6 +39,7 @@ return [
     'exists'               => 'izbran :attribute je neveljaven.',
     'image'                => ':attribute mora biti slika.',
     'in'                   => 'izbran :attribute je neveljaven.',
+    'in_array'             => 'The :attribute field does not exist in :other.',
     'integer'              => ':attribute mora biti število.',
     'ip'                   => ':attribute mora biti veljaven IP naslov.',
     'json'                 => 'The :attribute must be a valid JSON string.',

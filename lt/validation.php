@@ -40,6 +40,7 @@ return [
     'exists'               => 'Pasirinkta negaliojanti :attribute reikšmė.',
     'image'                => 'Lauko :attribute reikšmė turi būti paveikslėlis.',
     'in'                   => 'Pasirinkta negaliojanti :attribute reikšmė.',
+    'in_array'             => 'The :attribute field does not exist in :other.',
     'integer'              => 'Lauko :attribute reikšmė turi būti veikasis skaičius.',
     'ip'                   => 'Lauko :attribute reikšmė turi būti galiojantis IP adresas.',
     'json'                 => 'The :attribute must be a valid JSON string.',

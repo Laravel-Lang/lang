@@ -40,7 +40,7 @@ return [
     'filled'               => ':attribute is verplicht.',
     'image'                => ':attribute moet een afbeelding zijn.',
     'in'                   => ':attribute is ongeldig.',
-    'in_array'             => 'The :attribute field does not exist in :other.',
+    'in_array'             => 'Het :attribute veld bestaat niet in :other.',
     'integer'              => ':attribute moet een getal zijn.',
     'ip'                   => ':attribute moet een geldig IP-adres zijn.',
     'json'                 => 'The :attribute must be a valid JSON string.',

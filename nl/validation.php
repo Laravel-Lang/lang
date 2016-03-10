@@ -43,7 +43,7 @@ return [
     'in_array'             => 'The :attribute field does not exist in :other.',
     'integer'              => ':attribute moet een getal zijn.',
     'ip'                   => ':attribute moet een geldig IP-adres zijn.',
-    'json'                 => 'The :attribute must be a valid JSON string.',
+    'json'                 => ':attribute moet een geldige JSON-string zijn.',
     'max'                  => [
         'numeric' => ':attribute mag niet hoger dan :max zijn.',
         'file'    => ':attribute mag niet meer dan :max kilobytes zijn.',
@@ -59,7 +59,7 @@ return [
     ],
     'not_in'               => 'Het formaat van :attribute is ongeldig.',
     'numeric'              => ':attribute moet een nummer zijn.',
-    'present'              => 'The :attribute field must be present.',
+    'present'              => 'Het :attribute veld moet bestaan.',
     'regex'                => ':attribute formaat is ongeldig.',
     'required'             => ':attribute is verplicht.',
     'required_if'          => ':attribute is verplicht indien :other gelijk is aan :value.',

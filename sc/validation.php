@@ -40,6 +40,7 @@ return [
     'filled'               => ':attribute est pedidu.',
     'image'                => ":attribute depet èssere un'immàgine.",
     'in'                   => ':attribute seberadu no est bàlidu.',
+    'in_array'             => 'The :attribute field does not exist in :other.',
     'integer'              => ':attribute depet èssere intreu.',
     'ip'                   => ":attribute depet èssere un'indiritzu IP bàlidu.",
     'json'                 => 'The :attribute must be a valid JSON string.',

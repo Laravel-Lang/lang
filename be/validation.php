@@ -41,6 +41,7 @@ return [
     'exists'               => 'Выбранае значэнне для :attribute некарэктна.',
     'image'                => 'Поле :attribute павінна быць малюнкам.',
     'in'                   => 'Выбранае значэнне для :attribute памылкова.',
+    'in_array'             => 'The :attribute field does not exist in :other.',
     'integer'              => 'Поле :attribute павінна быць цэлым лікам.',
     'ip'                   => 'Поле :attribute дпавінна быць сапраўдным IP-адрасам.',
     'json'                 => 'Поле :attribute павінна быць JSON радком.',

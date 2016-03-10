@@ -40,6 +40,7 @@ return [
     'filled'               => 'فیلد :attribute الزامی است',
     'image'                => ':attribute باید تصویر باشد.',
     'in'                   => ':attribute انتخاب شده، معتبر نیست.',
+    'in_array'             => 'The :attribute field does not exist in :other.',
     'integer'              => ':attribute باید نوع داده ای عددی (integer) باشد.',
     'ip'                   => ':attribute باید IP آدرس معتبر باشد.',
     'json'                 => 'The :attribute must be a valid JSON string.',

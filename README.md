@@ -5,6 +5,10 @@ In this repository, you can find the lang files for the framework PHP, [Laravel 
 
 ---
 
+News of 7 March 2016:
+
+* validation: add *in_array*
+
 News of 2 March 2016:
 
 * validation: add *distinct*
@@ -69,4 +73,7 @@ How can I fix a file ?
     * if installed to project local, run `vendor/bin/php-cs-fixer fix`.
 * add a pull request with the name of the language
 
-The files for Laravel 4 are in `laravel4` branch, and for Laravel 5, are in `master` branch.
+Status of files
+---
+
+* todo.md

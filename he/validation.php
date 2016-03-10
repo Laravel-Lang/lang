@@ -40,6 +40,7 @@ return [
     'filled'               => 'שדה :attribute הוא חובה.',
     'image'                => 'שדה :attribute חייב להיות תמונה.',
     'in'                   => 'בחירת ה-:attribute אינה תקפה.',
+    'in_array'             => 'The :attribute field does not exist in :other.',
     'integer'              => 'שדה :attribute חייב להיות מספר שלם.',
     'ip'                   => 'שדה :attribute חייב להיות כתובת IP תקנית.',
     'json'                 => 'שדה :attribute חייב להיות מחרוזת JSON תקנית.',

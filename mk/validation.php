@@ -40,6 +40,7 @@ return [
     'filled'               => 'Полето :attribute е задолжително.',
     'image'                => 'Полето :attribute мора да биде слика.',
     'in'                   => 'Избраното поле :attribute е невалидно.',
+    'in_array'             => 'The :attribute field does not exist in :other.',
     'integer'              => 'Полето :attribute мора да биде цел број.',
     'ip'                   => 'Полето :attribute мора да биде IP адреса.',
     'json'                 => 'The :attribute must be a valid JSON string.',

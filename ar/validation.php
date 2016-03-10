@@ -41,7 +41,6 @@ return [
     'image'                => 'يجب أن يكون الحقل :attribute صورةً',
     'in'                   => 'الحقل :attribute لاغٍ',
     'in_array'             => 'The :attribute field does not exist in :other.',
-    'in_array'             => 'The :attribute field does not exist in :other.',
     'integer'              => 'يجب أن يكون الحقل :attribute عددًا صحيحًا',
 
     'ip'                   => 'يجب أن يكون الحقل :attribute عنوان IP ذي بُنية صحيحة',

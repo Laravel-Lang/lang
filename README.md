@@ -73,4 +73,7 @@ How can I fix a file ?
     * if installed to project local, run `vendor/bin/php-cs-fixer fix`.
 * add a pull request with the name of the language
 
-The files for Laravel 4 are in `laravel4` branch, and for Laravel 5, are in `master` branch.
+Status of files
+---
+
+* todo.md

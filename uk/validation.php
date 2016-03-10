@@ -75,6 +75,7 @@ return [
         'string'  => 'Текст в полі :attribute повинен містити :size символів.',
         'array'   => 'Поле :attribute повинне містити :size елементів.',
     ],
+    'string'               => 'The :attribute must be a string.',
     'timezone'             => 'Поле :attribute повинне містити коректну часову зону.',
     'unique'               => 'Таке значення поля :attribute вже існує.',
     'url'                  => 'Формат поля :attribute неправильний.',

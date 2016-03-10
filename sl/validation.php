@@ -37,6 +37,7 @@ return [
     'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => ':attribute mora biti veljaven e-poštni naslov.',
     'exists'               => 'izbran :attribute je neveljaven.',
+    'filled'               => 'The :attribute field is required.',
     'image'                => ':attribute mora biti slika.',
     'in'                   => 'izbran :attribute je neveljaven.',
     'in_array'             => 'The :attribute field does not exist in :other.',

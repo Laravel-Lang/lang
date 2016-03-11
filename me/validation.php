@@ -13,15 +13,15 @@ return [
     |
     */
 
-    'accepted'         => 'Polje :attribute mora biti prihvaćeno.',
-    'active_url'       => 'Polje :attribute nije validan URL.',
-    'after'            => 'Polje :attribute mora biti datum poslije :date.',
-    'alpha'            => 'Polje :attribute može sadržati samo slova.',
-    'alpha_dash'       => 'Polje :attribute može sadržati samo slova, brojeve i crtice.',
-    'alpha_num'        => 'Polje :attribute može sadržati samo slova i brojeve.',
-    'array'            => 'Polje :attribute mora sadržati određen broj stavki.',
-    'before'           => 'Polje :attribute mora biti datum prije :date.',
-    'between'          => [
+    'accepted'             => 'Polje :attribute mora biti prihvaćeno.',
+    'active_url'           => 'Polje :attribute nije validan URL.',
+    'after'                => 'Polje :attribute mora biti datum poslije :date.',
+    'alpha'                => 'Polje :attribute može sadržati samo slova.',
+    'alpha_dash'           => 'Polje :attribute može sadržati samo slova, brojeve i crtice.',
+    'alpha_num'            => 'Polje :attribute može sadržati samo slova i brojeve.',
+    'array'                => 'Polje :attribute mora sadržati određen broj stavki.',
+    'before'               => 'Polje :attribute mora biti datum prije :date.',
+    'between'              => [
         'numeric' => 'Polje :attribute mora biti između :min - :max.',
         'file'    => 'Fajl :attribute mora biti između :min - :max kilobajta.',
         'string'  => 'Polje :attribute mora sadržati između :min - :max karaktera.',
@@ -50,8 +50,8 @@ return [
         'string'  => 'Polje :attribute mora sadržati manje od :max karaktera.',
         'array'   => 'Polje :attribute ne smije da image više od :max stavki.',
     ],
-    'mimes'            => 'Polje :attribute mora biti fajl tipa: :values.',
-    'min'              => [
+    'mimes'                => 'Polje :attribute mora biti fajl tipa: :values.',
+    'min'                  => [
         'numeric' => 'Polje :attribute mora biti najmanje :min.',
         'file'    => 'Fajl :attribute mora biti najmanje :min kilobajta.',
         'string'  => 'Polje :attribute mora sadržati najmanje :min karaktera.',
@@ -75,10 +75,10 @@ return [
         'string'  => 'Polje :attribute mora biti :size karaktera.',
         'array'   => 'Polje :attribute mora sadržati :size stavki.',
     ],
-    'string'           => 'Polje :attribute mora biti string.',
-    'timezone'         => 'The :attribute must be a valid zone.',
-    'unique'           => 'Vrijednost za polje :attribute već postoji.',
-    'url'              => 'Format polja :attribute ne važi.',
+    'string'               => 'Polje :attribute mora biti string.',
+    'timezone'             => 'The :attribute must be a valid zone.',
+    'unique'               => 'Vrijednost za polje :attribute već postoji.',
+    'url'                  => 'Format polja :attribute ne važi.',
 
     /*
     |--------------------------------------------------------------------------

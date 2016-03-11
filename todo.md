@@ -176,14 +176,6 @@
  * lt:
 
  * me:
-    * auth : failed : not translated
-    * auth : throttle : not translated
-    * validation : distinct : not translated
-    * validation : in_array : not translated
-    * validation : json : not translated
-    * validation : present : not translated
-    * validation : required_unless : not translated
-    * validation : string : not translated
     * validation : timezone : not translated
 
  * mk:

@@ -2,328 +2,328 @@
 
 
  * ar:
-    * validation : distinct : not translated
-    * validation : in_array : not translated
-    * validation : present : not translated
+    * validation : distinct
+    * validation : in_array
+    * validation : present
 
  * be:
-    * validation : distinct : not translated
-    * validation : in_array : not translated
-    * validation : present : not translated
+    * validation : distinct
+    * validation : in_array
+    * validation : present
 
  * bg:
-    * validation : distinct : not translated
-    * validation : in_array : not translated
-    * validation : present : not translated
-    * validation : required_unless : not translated
+    * validation : distinct
+    * validation : in_array
+    * validation : present
+    * validation : required_unless
 
  * bs:
-    * auth : failed : not translated
-    * auth : throttle : not translated
-    * validation : distinct : not translated
-    * validation : in_array : not translated
-    * validation : json : not translated
-    * validation : present : not translated
-    * validation : required_unless : not translated
+    * auth : failed
+    * auth : throttle
+    * validation : distinct
+    * validation : in_array
+    * validation : json
+    * validation : present
+    * validation : required_unless
 
  * ca:
-    * validation : distinct : not translated
-    * validation : in_array : not translated
-    * validation : present : not translated
-    * validation : required_unless : not translated
+    * validation : distinct
+    * validation : in_array
+    * validation : present
+    * validation : required_unless
 
  * cs:
-    * validation : distinct : not translated
-    * validation : in_array : not translated
-    * validation : present : not translated
-    * validation : required_unless : not translated
+    * validation : distinct
+    * validation : in_array
+    * validation : present
+    * validation : required_unless
 
  * cy:
-    * auth : failed : not translated
-    * auth : throttle : not translated
-    * validation : distinct : not translated
-    * validation : in_array : not translated
-    * validation : json : not translated
-    * validation : present : not translated
-    * validation : required_unless : not translated
-    * validation : string : not translated
+    * auth : failed
+    * auth : throttle
+    * validation : distinct
+    * validation : in_array
+    * validation : json
+    * validation : present
+    * validation : required_unless
+    * validation : string
 
  * da:
-    * validation : distinct : not translated
-    * validation : in_array : not translated
-    * validation : present : not translated
-    * validation : required_unless : not translated
-    * validation : string : not translated
-    * validation : timezone : not translated
+    * validation : distinct
+    * validation : in_array
+    * validation : present
+    * validation : required_unless
+    * validation : string
+    * validation : timezone
 
  * de:
-    * validation : distinct : not translated
-    * validation : in_array : not translated
-    * validation : present : not translated
+    * validation : distinct
+    * validation : in_array
+    * validation : present
 
  * el:
-    * validation : distinct : not translated
-    * validation : in_array : not translated
-    * validation : present : not translated
+    * validation : distinct
+    * validation : in_array
+    * validation : present
 
  * es:
 
  * fa:
-    * validation : distinct : not translated
-    * validation : in_array : not translated
-    * validation : json : not translated
-    * validation : present : not translated
-    * validation : required_unless : not translated
-    * validation : string : not translated
+    * validation : distinct
+    * validation : in_array
+    * validation : json
+    * validation : present
+    * validation : required_unless
+    * validation : string
 
  * fi:
-    * auth : failed : not translated
-    * auth : throttle : not translated
-    * validation : array : not translated
-    * validation : digits_between : not translated
-    * validation : distinct : not translated
-    * validation : in_array : not translated
-    * validation : json : not translated
-    * validation : present : not translated
-    * validation : regex : not translated
-    * validation : required_if : not translated
-    * validation : required_unless : not translated
-    * validation : required_with : not translated
-    * validation : required_with_all : not translated
-    * validation : required_without : not translated
-    * validation : required_without_all : not translated
-    * validation : string : not translated
-    * validation : timezone : not translated
+    * auth : failed
+    * auth : throttle
+    * validation : array
+    * validation : digits_between
+    * validation : distinct
+    * validation : in_array
+    * validation : json
+    * validation : present
+    * validation : regex
+    * validation : required_if
+    * validation : required_unless
+    * validation : required_with
+    * validation : required_with_all
+    * validation : required_without
+    * validation : required_without_all
+    * validation : string
+    * validation : timezone
 
  * fr:
 
  * gl:
-    * validation : distinct : not translated
-    * validation : in_array : not translated
-    * validation : present : not translated
+    * validation : distinct
+    * validation : in_array
+    * validation : present
 
  * he:
-    * validation : distinct : not translated
-    * validation : in_array : not translated
-    * validation : present : not translated
+    * validation : distinct
+    * validation : in_array
+    * validation : present
 
  * hr:
-    * validation : distinct : not translated
-    * validation : filled : not translated
-    * validation : in_array : not translated
-    * validation : json : not translated
-    * validation : present : not translated
-    * validation : required_unless : not translated
-    * validation : string : not translated
+    * validation : distinct
+    * validation : filled
+    * validation : in_array
+    * validation : json
+    * validation : present
+    * validation : required_unless
+    * validation : string
 
  * hu:
-    * validation : distinct : not translated
-    * validation : in_array : not translated
-    * validation : json : not translated
-    * validation : present : not translated
-    * validation : required_unless : not translated
+    * validation : distinct
+    * validation : in_array
+    * validation : json
+    * validation : present
+    * validation : required_unless
 
  * id:
 
  * is:
-    * auth : failed : not translated
-    * auth : throttle : not translated
-    * validation : distinct : not translated
-    * validation : in_array : not translated
-    * validation : json : not translated
-    * validation : present : not translated
-    * validation : required_unless : not translated
-    * validation : required_with : not translated
-    * validation : required_with_all : not translated
-    * validation : required_without : not translated
-    * validation : required_without_all : not translated
-    * validation : string : not translated
+    * auth : failed
+    * auth : throttle
+    * validation : distinct
+    * validation : in_array
+    * validation : json
+    * validation : present
+    * validation : required_unless
+    * validation : required_with
+    * validation : required_with_all
+    * validation : required_without
+    * validation : required_without_all
+    * validation : string
 
  * it:
-    * validation : distinct : not translated
-    * validation : in_array : not translated
-    * validation : present : not translated
-    * validation : required_unless : not translated
+    * validation : distinct
+    * validation : in_array
+    * validation : present
+    * validation : required_unless
 
  * ja:
-    * validation : distinct : not translated
-    * validation : in_array : not translated
-    * validation : present : not translated
+    * validation : distinct
+    * validation : in_array
+    * validation : present
 
  * ka:
-    * validation : in_array : not translated
+    * validation : in_array
 
  * km:
-    * auth : failed : not translated
-    * auth : throttle : not translated
-    * validation : distinct : not translated
-    * validation : in_array : not translated
-    * validation : json : not translated
-    * validation : present : not translated
-    * validation : required_unless : not translated
-    * validation : required_with_all : not translated
-    * validation : string : not translated
-    * validation : timezone : not translated
+    * auth : failed
+    * auth : throttle
+    * validation : distinct
+    * validation : in_array
+    * validation : json
+    * validation : present
+    * validation : required_unless
+    * validation : required_with_all
+    * validation : string
+    * validation : timezone
 
  * ko:
-    * validation : distinct : not translated
-    * validation : in_array : not translated
-    * validation : json : not translated
-    * validation : present : not translated
-    * validation : required_unless : not translated
-    * validation : string : not translated
+    * validation : distinct
+    * validation : in_array
+    * validation : json
+    * validation : present
+    * validation : required_unless
+    * validation : string
 
  * lt:
 
  * me:
-    * validation : timezone : not translated
+    * validation : timezone
 
  * mk:
-    * auth : failed : not translated
-    * auth : throttle : not translated
-    * validation : distinct : not translated
-    * validation : in_array : not translated
-    * validation : json : not translated
-    * validation : present : not translated
-    * validation : required_unless : not translated
-    * validation : required_with_all : not translated
-    * validation : required_without_all : not translated
-    * validation : string : not translated
-    * validation : timezone : not translated
+    * auth : failed
+    * auth : throttle
+    * validation : distinct
+    * validation : in_array
+    * validation : json
+    * validation : present
+    * validation : required_unless
+    * validation : required_with_all
+    * validation : required_without_all
+    * validation : string
+    * validation : timezone
 
  * ms:
-    * validation : distinct : not translated
-    * validation : exists : not translated
-    * validation : in : not translated
-    * validation : in_array : not translated
-    * validation : not_in : not translated
-    * validation : present : not translated
-    * validation : required_unless : not translated
+    * validation : distinct
+    * validation : exists
+    * validation : in
+    * validation : in_array
+    * validation : not_in
+    * validation : present
+    * validation : required_unless
 
  * nb:
-    * validation : distinct : not translated
-    * validation : in_array : not translated
-    * validation : present : not translated
+    * validation : distinct
+    * validation : in_array
+    * validation : present
 
  * ne:
-    * validation : distinct : not translated
-    * validation : in_array : not translated
-    * validation : present : not translated
+    * validation : distinct
+    * validation : in_array
+    * validation : present
 
  * nl:
 
  * nn:
 
  * pl:
-    * validation : distinct : not translated
-    * validation : in_array : not translated
-    * validation : json : not translated
-    * validation : present : not translated
-    * validation : required_unless : not translated
-    * validation : string : not translated
+    * validation : distinct
+    * validation : in_array
+    * validation : json
+    * validation : present
+    * validation : required_unless
+    * validation : string
 
  * pt:
-    * validation : in_array : not translated
+    * validation : in_array
 
  * pt-BR:
-    * validation : in_array : not translated
+    * validation : in_array
 
  * ro:
-    * validation : distinct : not translated
-    * validation : in_array : not translated
-    * validation : present : not translated
-    * validation : required_unless : not translated
+    * validation : distinct
+    * validation : in_array
+    * validation : present
+    * validation : required_unless
 
  * ru:
-    * validation : in_array : not translated
+    * validation : in_array
 
  * sc:
-    * auth : failed : not translated
-    * auth : throttle : not translated
-    * validation : distinct : not translated
-    * validation : in_array : not translated
-    * validation : json : not translated
-    * validation : present : not translated
-    * validation : required_unless : not translated
-    * validation : string : not translated
+    * auth : failed
+    * auth : throttle
+    * validation : distinct
+    * validation : in_array
+    * validation : json
+    * validation : present
+    * validation : required_unless
+    * validation : string
 
  * sk:
 
  * sl:
-    * auth : failed : not translated
-    * auth : throttle : not translated
-    * validation : distinct : not translated
-    * validation : filled : not translated
-    * validation : in_array : not translated
-    * validation : json : not translated
-    * validation : present : not translated
-    * validation : required_unless : not translated
-    * validation : string : not translated
-    * validation : timezone : not translated
+    * auth : failed
+    * auth : throttle
+    * validation : distinct
+    * validation : filled
+    * validation : in_array
+    * validation : json
+    * validation : present
+    * validation : required_unless
+    * validation : string
+    * validation : timezone
 
  * sq:
-    * auth : failed : not translated
-    * auth : throttle : not translated
-    * validation : distinct : not translated
-    * validation : in_array : not translated
-    * validation : json : not translated
-    * validation : present : not translated
-    * validation : required_unless : not translated
+    * auth : failed
+    * auth : throttle
+    * validation : distinct
+    * validation : in_array
+    * validation : json
+    * validation : present
+    * validation : required_unless
 
  * sr:
-    * validation : distinct : not translated
-    * validation : in_array : not translated
-    * validation : json : not translated
-    * validation : present : not translated
-    * validation : required_unless : not translated
+    * validation : distinct
+    * validation : in_array
+    * validation : json
+    * validation : present
+    * validation : required_unless
 
  * sv:
-    * validation : distinct : not translated
-    * validation : in_array : not translated
-    * validation : json : not translated
-    * validation : present : not translated
-    * validation : required_unless : not translated
+    * validation : distinct
+    * validation : in_array
+    * validation : json
+    * validation : present
+    * validation : required_unless
 
  * th:
-    * validation : distinct : not translated
-    * validation : in_array : not translated
-    * validation : present : not translated
-    * validation : required_unless : not translated
+    * validation : distinct
+    * validation : in_array
+    * validation : present
+    * validation : required_unless
 
  * tk:
-    * auth : failed : not translated
-    * auth : throttle : not translated
-    * validation : distinct : not translated
-    * validation : in_array : not translated
-    * validation : json : not translated
-    * validation : present : not translated
-    * validation : required_unless : not translated
-    * validation : string : not translated
+    * auth : failed
+    * auth : throttle
+    * validation : distinct
+    * validation : in_array
+    * validation : json
+    * validation : present
+    * validation : required_unless
+    * validation : string
 
  * tr:
-    * validation : distinct : not translated
-    * validation : in_array : not translated
-    * validation : json : not translated
-    * validation : present : not translated
-    * validation : required_unless : not translated
+    * validation : distinct
+    * validation : in_array
+    * validation : json
+    * validation : present
+    * validation : required_unless
 
  * uk:
-    * validation : distinct : not translated
-    * validation : in_array : not translated
-    * validation : present : not translated
-    * validation : required_unless : not translated
-    * validation : string : not translated
+    * validation : distinct
+    * validation : in_array
+    * validation : present
+    * validation : required_unless
+    * validation : string
 
  * vi:
-    * auth : failed : not translated
-    * auth : throttle : not translated
-    * validation : distinct : not translated
-    * validation : in_array : not translated
-    * validation : json : not translated
-    * validation : present : not translated
-    * validation : required_unless : not translated
-    * validation : required_with_all : not translated
-    * validation : string : not translated
+    * auth : failed
+    * auth : throttle
+    * validation : distinct
+    * validation : in_array
+    * validation : json
+    * validation : present
+    * validation : required_unless
+    * validation : required_with_all
+    * validation : string
 
  * zh-CN:
 

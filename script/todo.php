@@ -36,9 +36,9 @@ foreach ($languages as $language) {
         foreach ($values as $key2 => $value2) {
             if ($key2 != 'custom' && $key2 != 'attributes') {
                 if (!isset($current[$key][$key2])) {
-                    $text .= '    * '.$key.' : '.$key2." : needed\n";
+                    $text .= '    * '.$key.' : '.$key2." : not present\n";
                 } elseif ($current[$key][$key2] == $english[$key][$key2]) {
-                    $text .= '    * '.$key.' : '.$key2." : not translated\n";
+                    $text .= '    * '.$key.' : '.$key2."\n";
                 }
             }
         }

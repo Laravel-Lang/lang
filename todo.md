@@ -211,7 +211,6 @@
     * validation : present : not translated
 
  * nl:
-    * validation : distinct : not translated
 
  * nn:
 
@@ -249,12 +248,6 @@
     * validation : string : not translated
 
  * sk:
-    * auth : failed : not translated
-    * auth : throttle : not translated
-    * validation : distinct : not translated
-    * validation : in_array : not translated
-    * validation : present : not translated
-    * validation : required_unless : not translated
 
  * sl:
     * auth : failed : not translated

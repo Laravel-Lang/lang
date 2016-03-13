@@ -117,11 +117,6 @@
     * validation : string
 
  * hu:
-    * validation : distinct
-    * validation : in_array
-    * validation : json
-    * validation : present
-    * validation : required_unless
 
  * id:
 

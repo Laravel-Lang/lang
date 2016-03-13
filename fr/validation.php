@@ -34,7 +34,7 @@ return [
     'different'            => 'Les champs :attribute et :other doivent être différents.',
     'digits'               => 'Le champ :attribute doit avoir :digits chiffres.',
     'digits_between'       => 'Le champ :attribute doit avoir entre :min et :max chiffres.',
-    'distinct'             => 'Le champ :attribute a une value dupliquée.',
+    'distinct'             => 'Le champ :attribute a une valeur dupliquée.',
     'email'                => 'Le champ :attribute doit être une adresse email valide.',
     'exists'               => 'Le champ :attribute sélectionné est invalide.',
     'filled'               => 'Le champ :attribute est obligatoire.',

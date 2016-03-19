@@ -1,50 +1,65 @@
 <?php
 
-// Get list of languages
-$glob = scandir(__DIR__.'/..');
+function getLanguages($basePath)
+{
+    $directories = scandir($basePath);
 
-$languages = null;
+    $languages = array_map(function ($dir) {
+        return in_array($dir, ['.', '..']) ? null : $dir;
+    }, $directories);
 
-foreach ($glob as $file) {
-    if (is_dir(__DIR__.'/../'.$file) && (!in_array($file, ['.', '..', '.git', '.phpintel', 'en', 'script']))) {
-        $languages[] = $file;
-    }
+    return array_filter($languages);
 }
 
-// Get English version
-$english = [
-    'auth'       => include(__DIR__.'/../en/auth.php'),
-    'pagination' => include(__DIR__.'/../en/pagination.php'),
-    'passwords'  => include(__DIR__.'/../en/passwords.php'),
-    'validation' => include(__DIR__.'/../en/validation.php'),
-];
-
-$text = "# Todo list\n\n";
-
-// Return diff language by language
-foreach ($languages as $language) {
-    $text .= "\n * ".$language.":\n";
-
-    $current = [
-        'auth'       => include(__DIR__.'/../'.$language.'/auth.php'),
-        'pagination' => include(__DIR__.'/../'.$language.'/pagination.php'),
-        'passwords'  => include(__DIR__.'/../'.$language.'/passwords.php'),
-        'validation' => include(__DIR__.'/../'.$language.'/validation.php'),
+function getTranslations($dir)
+{
+    return [
+        'auth'       => include("$dir/auth.php"),
+        'pagination' => include("$dir/pagination.php"),
+        'passwords'  => include("$dir/passwords.php"),
+        'validation' => include("$dir/validation.php"),
     ];
+}
 
-    foreach ($english as $key => $values) {
-        foreach ($values as $key2 => $value2) {
-            if ($key2 != 'custom' && $key2 != 'attributes') {
+function compareTranslations($text, $basePath, $default, $languages)
+{
+    // Return diff language by language
+    foreach ($languages as $language) {
+        $text .= "\n * ".$language.":\n";
+
+        $current = getTranslations("{$basePath}/{$language}");
+
+        foreach ($default as $key => $values) {
+            foreach ($values as $key2 => $value2) {
+                if ($key2 == 'custom' && $key2 == 'attributes') {
+                    continue;
+                }
+
                 if (!isset($current[$key][$key2])) {
                     $text .= '    * '.$key.' : '.$key2." : not present\n";
-                } elseif ($current[$key][$key2] == $english[$key][$key2]) {
+                } elseif ($current[$key][$key2] == $default[$key][$key2]) {
                     $text .= '    * '.$key.' : '.$key2."\n";
                 }
             }
         }
     }
+
+    return $text;
 }
 
-$pathTodoMd = __DIR__.'/../todo.md';
+function generate()
+{
+    // Get list of languages
+    $basePath = realpath(__DIR__.'/../src');
+    $languages = getLanguages($basePath);
 
-file_put_contents($pathTodoMd, $text);
+    // Get English version
+    $english = getTranslations(__DIR__.'/en');
+
+    $text = "# Todo list\n\n";
+    $text = compareTranslations($text, $basePath, $english, $languages);
+
+    file_put_contents(__DIR__.'/../todo.md', $text);
+}
+
+generate();

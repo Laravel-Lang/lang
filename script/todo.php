@@ -43,8 +43,8 @@ class TodoGenerator
     /**
      * Returns object.
      *
-     * @param  string $basePath Base path.
-     * @param  array  $excluded Excluded directories.
+     * @param string $basePath Base path.
+     * @param array  $excluded Excluded directories.
      *
      * @return TodoGenerator
      */
@@ -68,7 +68,9 @@ class TodoGenerator
 
     /**
      * Returns array of translations by language.
-     * @param  string $language Language code.
+     *
+     * @param string $language Language code.
+     *
      * @return array
      */
     private function getTranslations($language)
@@ -101,8 +103,9 @@ class TodoGenerator
 
     /**
      * Compare translations.
-     * @param  array $default    Language by default.
-     * @param  array $languages  Others languages.
+     *
+     * @param array $default   Language by default.
+     * @param array $languages Others languages.
      */
     private function compareTranslations(array $default, array $languages)
     {
@@ -117,7 +120,7 @@ class TodoGenerator
                         continue;
                     }
 
-                    if (! isset($current[$key][$key2])) {
+                    if (!isset($current[$key][$key2])) {
                         $this->output .= '    * '.$key.' : '.$key2." : not present\n";
                     } elseif ($current[$key][$key2] == $default[$key][$key2]) {
                         $this->output .= '    * '.$key.' : '.$key2."\n";
@@ -130,7 +133,7 @@ class TodoGenerator
     /**
      * Save todo list.
      *
-     * @param  string $path Path.
+     * @param string $path Path.
      */
     public function save($path)
     {

@@ -1,40 +1,60 @@
 <?php
-
+/**
+ * Todo generator for Laravel-lang project.
+ *
+ * @author  arcanedev-maroc
+ */
 class TodoGenerator
 {
-    /* ------------------------------------------------------------------------------------------------
-     |  Properties
-     | ------------------------------------------------------------------------------------------------
+    /**
+     * Base path.
+     *
+     * @var string
      */
-    /** @var string */
     protected $basePath;
 
-    /** @var array */
+    /**
+     * Excluded directories.
+     *
+     * @var array
+     */
     protected $excluded = [];
 
-    /** @var string */
-    protected $output = '';
+    /**
+     * Path of output file.
+     *
+     * @var string
+     */
+    protected $output = null;
 
-    /* ------------------------------------------------------------------------------------------------
-     |  Constructor
-     | ------------------------------------------------------------------------------------------------
+    /**
+     * Construct.
+     *
+     * @param string $basePath Base path.
+     * @param array  $excluded Excluded directories.
      */
     public function __construct($basePath, $excluded = [])
     {
         $this->basePath = realpath($basePath);
         $this->excluded = $excluded;
-        $this->output = '';
         $this->load();
     }
 
+    /**
+     * Returns object.
+     *
+     * @param  string $basePath Base path.
+     * @param  array  $excluded Excluded directories.
+     *
+     * @return TodoGenerator
+     */
     public static function make($basePath, $excluded = [])
     {
         return new self($basePath, $excluded);
     }
 
-    /* ------------------------------------------------------------------------------------------------
-     |  Main Functions
-     | ------------------------------------------------------------------------------------------------
+    /**
+     * Compare translations and generate file.
      */
     private function load()
     {
@@ -46,19 +66,29 @@ class TodoGenerator
         $this->compareTranslations($english, $languages);
     }
 
-    private function getTranslations($dir)
+    /**
+     * Returns array of translations by language.
+     * @param  string $language Language code.
+     * @return array
+     */
+    private function getTranslations($language)
     {
         return [
-            'auth'       => include("$dir/auth.php"),
-            'pagination' => include("$dir/pagination.php"),
-            'passwords'  => include("$dir/passwords.php"),
-            'validation' => include("$dir/validation.php"),
+            'auth'       => include($language.'/auth.php'),
+            'pagination' => include($language.'/pagination.php'),
+            'passwords'  => include($language.'/passwords.php'),
+            'validation' => include($language.'/validation.php'),
         ];
     }
 
+    /**
+     * Returns list of languages.
+     *
+     * @return array
+     */
     private function getLanguages()
     {
-        $directories = glob("{$this->basePath}/*", GLOB_ONLYDIR);
+        $directories = glob($this->basePath.'/*', GLOB_ONLYDIR);
 
         $languages = array_map(function ($dir) {
             $name = basename($dir);
@@ -69,7 +99,12 @@ class TodoGenerator
         return array_filter($languages);
     }
 
-    private function compareTranslations($default, $languages)
+    /**
+     * Compare translations.
+     * @param  array $default    Language by default.
+     * @param  array $languages  Others languages.
+     */
+    private function compareTranslations(array $default, array $languages)
     {
         // Return diff language by language
         foreach ($languages as $language) {
@@ -82,7 +117,7 @@ class TodoGenerator
                         continue;
                     }
 
-                    if (!isset($current[$key][$key2])) {
+                    if (! isset($current[$key][$key2])) {
                         $this->output .= '    * '.$key.' : '.$key2." : not present\n";
                     } elseif ($current[$key][$key2] == $default[$key][$key2]) {
                         $this->output .= '    * '.$key.' : '.$key2."\n";
@@ -92,9 +127,14 @@ class TodoGenerator
         }
     }
 
+    /**
+     * Save todo list.
+     *
+     * @param  string $path Path.
+     */
     public function save($path)
     {
-        file_put_contents(realpath($path), $this->output);
+        file_put_contents($path, $this->output);
     }
 }
 

@@ -141,4 +141,4 @@ class TodoGenerator
     }
 }
 
-TodoGenerator::make(__DIR__.'/..', ['script'])->save(__DIR__.'/../todo.md');
+TodoGenerator::make(__DIR__.'/../src')->save(__DIR__.'/../todo.md');

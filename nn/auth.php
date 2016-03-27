@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'failed'   => 'Prihlasovacie údaje nie sú správne.',
-    'throttle' => 'Prekročený limit pokusov. Skúste znovu o :seconds sekúnd.',
+    'failed'   => 'Brukarnamn og/eller passord er feil.',
+    'throttle' => 'For mange innloggingsforsøk. Ver venleg og prøv på nytt om :seconds sekund.',
 
 ];

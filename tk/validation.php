@@ -40,6 +40,7 @@ return [
     'filled'               => ':attribute meýdany zerur.',
     'image'                => ':attribute surat bolmalydyr.',
     'in'                   => ':attribute mukdary ýalňyş.',
+    'in_array'             => 'The :attribute field does not exist in :other.',
     'integer'              => ':attribute san bolmalydyr.',
     'ip'                   => ':attribute dogry IP adres bolmalydyr.',
     'json'                 => 'The :attribute must be a valid JSON string.',

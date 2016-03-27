@@ -9,9 +9,10 @@ return [
     |
     | The following language lines contain the default error messages used by
     | the validator class. Some of these rules have multiple versions such
-    | such as the size rules. Feel free to tweak each of these messages.
+    | as the size rules. Feel free to tweak each of these messages here.
     |
     */
+
     'accepted'             => 'Polje :attribute mora biti prihvaćeno.',
     'active_url'           => 'Polje :attribute nije validan URL.',
     'after'                => 'Polje :attribute mora biti datum poslije :date.',
@@ -33,15 +34,16 @@ return [
     'different'            => 'Polja :attribute i :other moraju biti različita.',
     'digits'               => 'Polje :attribute mora sadržati :digits cifara.',
     'digits_between'       => 'Polje :attribute mora biti izemđu :min i :max cifri.',
-    'distinct'             => 'The :attribute field has a duplicate value.',
+    'distinct'             => 'Polje :attribute nije jedinstveno.',
     'email'                => 'Format polja :attribute nije validan.',
     'exists'               => 'Odabrano polje :attribute nije validno.',
     'filled'               => 'Polje :attribute je obavezno.',
     'image'                => 'Polje :attribute mora biti slika.',
     'in'                   => 'Odabrano polje :attribute nije validno.',
+    'in_array'             => 'Polje :attribute ne postoji u :other.',
     'integer'              => 'Polje :attribute mora biti broj.',
     'ip'                   => 'Polje :attribute mora biti validna IP adresa.',
-    'json'                 => 'The :attribute must be a valid JSON string.',
+    'json'                 => 'Polje :attribute mora biti validan JSON string.',
     'max'                  => [
         'numeric' => 'Polje :attribute mora biti manje od :max.',
         'file'    => 'Polje :attribute mora biti manje od :max kilobajta.',
@@ -57,11 +59,11 @@ return [
     ],
     'not_in'               => 'Odabrani element polja :attribute nije validan.',
     'numeric'              => 'Polje :attribute mora biti broj.',
-    'present'              => 'The :attribute field must be present.',
+    'present'              => 'Polje :attribute mora postojati.',
     'regex'                => 'Format polja :attribute nije validan.',
     'required'             => 'Polje :attribute je obavezno.',
     'required_if'          => 'Polje :attribute je potrebno kada polje :other sadrži :value.',
-    'required_unless'      => 'The :attribute field is required unless :other is in :values.',
+    'required_unless'      => 'Polje :attribute je obavezno osim ako :other sadrži :values.',
     'required_with'        => 'Polje :attribute je obavezno kada polje :values je prisutan.',
     'required_with_all'    => 'Polje :attribute je obavezno kada polja :values nijesu prazna.',
     'required_without'     => 'Polje :attribute je potrebno kada polje :values nije prazno.',
@@ -73,7 +75,7 @@ return [
         'string'  => 'Polje :attribute mora biti :size karaktera.',
         'array'   => 'Polje :attribute mora sadržati :size stavki.',
     ],
-    'string'               => 'The :attribute must be a string.',
+    'string'               => 'Polje :attribute mora biti string.',
     'timezone'             => 'The :attribute must be a valid zone.',
     'unique'               => 'Vrijednost za polje :attribute već postoji.',
     'url'                  => 'Format polja :attribute ne važi.',
@@ -84,12 +86,12 @@ return [
     |--------------------------------------------------------------------------
     |
     | Here you may specify custom validation messages for attributes using the
-    | convention "attribute.rule" to name the lines. This makes it quick to
+    | convention 'attribute.rule' to name the lines. This makes it quick to
     | specify a specific custom language line for a given attribute rule.
     |
     */
 
-    'custom'               => [
+    'custom' => [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
@@ -102,12 +104,40 @@ return [
     |
     | The following language lines are used to swap attribute place-holders
     | with something more reader friendly such as E-Mail Address instead
-    | of "email". This simply helps us make messages a little cleaner.
+    | of 'email'. This simply helps us make messages a little cleaner.
     |
     */
 
     'attributes' => [
-        //
+        'name'                  => 'ime',
+        'username'              => 'username',
+        'email'                 => 'email',
+        'first_name'            => 'ime',
+        'last_name'             => 'prezime',
+        'password'              => 'password',
+        'password_confirmation' => 'ponovi password',
+        'city'                  => 'grad',
+        'country'               => 'država',
+        'address'               => 'adresa',
+        'phone'                 => 'telefona',
+        'mobile'                => 'mobilni',
+        'age'                   => 'godine',
+        'sex'                   => 'pol',
+        'gender'                => 'pol',
+        'year'                  => 'godina',
+        'month'                 => 'mjesec',
+        'day'                   => 'dan',
+        'hour'                  => 'sat',
+        'minute'                => 'minuta',
+        'second'                => 'sekunda',
+        'title'                 => 'naslov',
+        'body'                  => 'tijelo poruke',
+        'description'           => 'opis',
+        'excerpt'               => 'extracto',
+        'date'                  => 'datum',
+        'time'                  => 'vrijeme',
+        'subject'               => 'naslov',
+        'message'               => 'poruka',
     ],
 
 ];

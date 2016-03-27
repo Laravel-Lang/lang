@@ -54,7 +54,7 @@ return [
     'min'                  => [
         'numeric' => 'يجب أن تكون قيمة الحقل :attribute أكبر من :min.',
         'file'    => 'يجب أن يكون حجم الملف :attribute أكبر من :min كيلوبايت',
-        'string'  => 'يجب أن يكون طول النص :attribute أكبر :min حروفٍ/حرفًا',
+        'string'  => 'يجب أن يكون طول النص :attribute أكبر من :min حروفٍ/حرفًا',
         'array'   => 'يجب أن يحتوي الحقل :attribute على الأقل على :min عُنصرًا/عناصر',
     ],
     'not_in'               => 'الحقل :attribute لاغٍ',

@@ -40,7 +40,7 @@ return [
     'filled'               => 'É obrigatória a indicação de um valor para o campo :attribute.',
     'image'                => 'O campo :attribute deverá conter uma imagem.',
     'in'                   => 'O campo :attribute não contém um valor válido.',
-    'in_array'             => 'The :attribute field does not exist in :other.',
+    'in_array'             => 'O campo :attribute não existe em :other.',
     'integer'              => 'O campo :attribute deverá conter um número inteiro.',
     'ip'                   => 'O campo :attribute deverá conter um IP válido.',
     'json'                 => 'O campo :attribute deverá conter um texto JSON válido.',

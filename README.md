@@ -3,26 +3,6 @@ Laravel-lang
 
 In this repository, you can find the lang files for the framework PHP, [Laravel 4&5](http://www.laravel.com).
 
----
-
-News of 12 March 2016:
-
-* todo list: in todo.md
-
-News of 7 March 2016:
-
-* validation: add *in_array*
-
-News of 2 March 2016:
-
-* validation: add *distinct*
-
-News of 27 February 2016:
-
-* validation: add *present*
-
----
-
 How add languages in my app ?
 ---
 

@@ -1,10 +1,8 @@
-Laravel-lang
-=============
+# Laravel-lang
 
 In this repository, you can find the lang files for the framework PHP, [Laravel 4&5](http://www.laravel.com).
 
-How add languages in my app ?
----
+## How add languages in my app ?
 
 ### Installation by GitHub
 
@@ -18,10 +16,11 @@ How add languages in my app ?
 
 ### Installation by Composer
 
- * For Laravel 4 : add `"caouecs/laravel4-lang": "~1.0"` in your `composer.json` in "require" or run *composer require caouecs/laravel4-lang*
- * For Laravel 5 : add `"caouecs/laravel4-lang": "~2.0"` in your `composer.json` in "require"
+ * For Laravel 5.2 : add `"caouecs/laravel-lang": "~3.0"` in your `composer.json` in "require"
+ * For Laravel 5/5.1 : add `"caouecs/laravel4-lang": "~2.0"` in your `composer.json` in "require"
+ * For Laravel 4 : add `"caouecs/laravel4-lang": "~1.0"` in your `composer.json` in "require"
  * Do "composer update"
- * Files of languages are in "vendor/caouecs/laravel4-lang" directory
+ * Files of languages are in "vendor/caouecs/laravel-lang" directory
  * Copy the folders of languages that you want, in *app/lang* (*resources/lang* in laravel 5) folder of your application Laravel
 
 ### Installation by Command
@@ -32,32 +31,6 @@ If you have a Laravel5 project, you can use `laravel-lang` project of overtrue :
 
 In the file *app/config/app.php*, change the value of *locale* by the short name of your language.
 
----
+## Contributing
 
-How can I add a language in this project ?
----
-
-* fork this repository
-* create a directory with the short name of the language (ex: fr for French) from ISO-639-1 ( see [Wikipedia](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) )
-* copy these four files of the English version with your translation
-    * for [Laravel](https://github.com/laravel/laravel/tree/master/resources/lang/en)
-* run [PHP-cs-fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)
-    * if installed to global, run `php-cs-fixer fix`.
-    * if installed to project local, run `vendor/bin/php-cs-fixer fix`.
-* add a pull request with the name of the language
-
-
-How can I fix a file ?
----
-
-* fork this repository
-* update the file
-* run [PHP-cs-fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)
-    * if installed to global, run `php-cs-fixer fix`.
-    * if installed to project local, run `vendor/bin/php-cs-fixer fix`.
-* add a pull request with the name of the language
-
-Status of files
----
-
-* todo.md
+Please see [Contributing.md](Contributing.md) for details.

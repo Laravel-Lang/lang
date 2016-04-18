@@ -41,6 +41,12 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 * Check the [todo.md](todo.md) file to see the missing translations.
 
+## Projects based on this package
+
+* [Laravel-lang by overtrue](https://github.com/ARCANEDEV/LaravelLang)
+* [laravel-lang-installer by ablunier](https://github.com/ablunier/laravel-lang-installer)
+* [LaravelLang by Arcanedev](https://github.com/overtrue/laravel-lang)
+
 ## Credits
 
 - [caouecs](https://github.com/caouecs)

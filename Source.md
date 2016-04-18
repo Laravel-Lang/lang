@@ -166,6 +166,7 @@ Korean (ko)
 
 Lithunian (lt)
 
+* [fosron](https://github.com/fosron)
 * sigitas
 * [trigras](https://github.com/trigras)
 

@@ -168,6 +168,7 @@ Lithunian (lt)
 
 * sigitas
 * [trigras](https://github.com/trigras)
+* [fosron](https://github.com/fosron)
 
 Macedonian (mk)
 

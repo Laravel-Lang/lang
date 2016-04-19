@@ -2,8 +2,6 @@
 
 
  * ar:
-    * validation : distinct
-    * validation : in_array
     * validation : present
 
  * be:
@@ -49,12 +47,6 @@
     * validation : string
 
  * da:
-    * validation : distinct
-    * validation : in_array
-    * validation : present
-    * validation : required_unless
-    * validation : string
-    * validation : timezone
 
  * de:
     * validation : distinct
@@ -103,9 +95,6 @@
     * validation : present
 
  * he:
-    * validation : distinct
-    * validation : in_array
-    * validation : present
 
  * hr:
     * validation : distinct
@@ -218,10 +207,8 @@
     * validation : string
 
  * pt:
-    * validation : in_array
 
  * pt-BR:
-    * validation : in_array
 
  * ro:
     * validation : distinct
@@ -280,10 +267,6 @@
     * validation : required_unless
 
  * th:
-    * validation : distinct
-    * validation : in_array
-    * validation : present
-    * validation : required_unless
 
  * tk:
     * auth : failed

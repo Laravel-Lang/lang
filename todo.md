@@ -61,12 +61,7 @@
  * es:
 
  * fa:
-    * validation : distinct
-    * validation : in_array
-    * validation : json
     * validation : present
-    * validation : required_unless
-    * validation : string
 
  * fi:
     * auth : failed

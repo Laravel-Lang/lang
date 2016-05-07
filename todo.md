@@ -217,7 +217,6 @@
     * validation : required_unless
 
  * ru:
-    * validation : in_array
 
  * sc:
     * auth : failed

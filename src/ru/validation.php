@@ -41,7 +41,7 @@ return [
     'exists'               => 'Выбранное значение для :attribute некорректно.',
     'image'                => 'Поле :attribute должно быть изображением.',
     'in'                   => 'Выбранное значение для :attribute ошибочно.',
-    'in_array'             => 'The :attribute field does not exist in :other.',
+    'in_array'             => 'Поле :attribute не существует в :other.',
     'integer'              => 'Поле :attribute должно быть целым числом.',
     'ip'                   => 'Поле :attribute должно быть действительным IP-адресом.',
     'json'                 => 'Поле :attribute должно быть JSON строкой.',

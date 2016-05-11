@@ -94,9 +94,6 @@
     * validation : string
     * validation : timezone
 
- * fr:
-    * validation : dimensions
-
  * gl:
     * validation : dimensions
     * validation : distinct

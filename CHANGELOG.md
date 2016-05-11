@@ -1,5 +1,14 @@
 # Changelog
 
+## [3.0.2] 2016-05-11
+###
+
+* *dimensions* in validation
+
+## [3.0.0] 2016-04-24
+
+* v3: new directory for languages
+
 ## [2.0.40] 2016-03-12
 ### Added
 

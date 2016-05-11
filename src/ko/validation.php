@@ -34,6 +34,7 @@ return [
     'different'            => ':attribute와(과) :other은(는) 반드시 서로 달라야 합니다.',
     'digits'               => ':attribute은(는) 반드시 :digits 자릿수여야 합니다.',
     'digits_between'       => ':attribute은(는) 반드시 :min에서 :max 자릿수 사이여야 합니다.',
+    'dimensions'           => 'The :attribute has invalid image dimensions.',
     'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => ':attribute 형식은 유효하지 않습니다.',
     'exists'               => '선택된 :attribute은(는) 유효하지 않습니다.',

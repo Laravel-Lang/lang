@@ -34,6 +34,7 @@ return [
     'different'            => 'שדה :attribute ושדה :other חייבים להיות שונים.',
     'digits'               => 'שדה :attribute חייב להיות בעל :digits ספרות.',
     'digits_between'       => 'שדה :attribute חייב להיות בין :min ו-:max ספרות.',
+    'dimensions'           => 'The :attribute has invalid image dimensions.',
     'distinct'             => 'שדה :attribute קיים ערך כפול.',
     'email'                => 'שדה :attribute חייב להיות כתובת אימייל תקנית.',
     'exists'               => 'בחירת ה-:attribute אינה תקפה.',

@@ -34,6 +34,7 @@ return [
     'different'            => ':attribute a :other musia byť odlišné.',
     'digits'               => ':attribute musí mať :digits číslic.',
     'digits_between'       => ':attribute musí mať rozsah :min až :max číslic.',
+    'dimensions'           => 'The :attribute has invalid image dimensions.',
     'distinct'             => ':attribute je duplicitný.',
     'email'                => ':attribute má neplatný formát.',
     'exists'               => 'označený :attribute je neplatný.',

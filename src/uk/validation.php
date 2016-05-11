@@ -34,6 +34,7 @@ return [
     'different'            => 'Поля :attribute та :other повинні бути різними.',
     'digits'               => 'Довжина цифрового поля :attribute повинна дорівнювати :digits.',
     'digits_between'       => 'Довжина цифрового поля :attribute повинна бути від :min до :max.',
+    'dimensions'           => 'The :attribute has invalid image dimensions.',
     'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => 'Поле :attribute повинне містити коректну електронну адресу.',
     'filled'               => "Поле :attribute є обов'язковим для заповнення.",

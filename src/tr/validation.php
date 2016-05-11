@@ -34,6 +34,7 @@ return [
     'different'            => ':attribute ile :other birbirinden farklı olmalıdır.',
     'digits'               => ':attribute :digits rakam olmalıdır.',
     'digits_between'       => ':attribute :min ile :max arasında rakam olmalıdır.',
+    'dimensions'           => 'The :attribute has invalid image dimensions.',
     'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => ':attribute biçimi geçersiz.',
     'exists'               => 'Seçili :attribute geçersiz.',

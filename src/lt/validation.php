@@ -34,6 +34,7 @@ return [
     'different'            => 'Laukų :attribute ir :other reikšmės turi skirtis.',
     'digits'               => 'Laukas :attribute turi būti sudarytas iš :digits skaitmenų.',
     'digits_between'       => 'Laukas :attribute tuti turėti nuo :min iki :max skaitmenų.',
+    'dimensions'           => 'The :attribute has invalid image dimensions.',
     'distinct'             => 'Laukas :attribute pasikartoja.',
     'email'                => 'Lauko :attribute reikšmė turi būti galiojantis el. pašto adresas.',
     'filled'               => 'Laukas :attribute turi būti užpildytas.',

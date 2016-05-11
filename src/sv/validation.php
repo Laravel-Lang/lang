@@ -34,6 +34,7 @@ return [
     'different'            => ':attribute och :other får inte vara lika.',
     'digits'               => ':attribute måste vara minst :digits tecken.',
     'digits_between'       => ':attribute måste vara mellan :min och :max tecken.',
+    'dimensions'           => 'The :attribute has invalid image dimensions.',
     'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => 'Fältet :attribute måste innehålla en korrekt e-postadress.',
     'exists'               => 'Det valda :attribute är ogiltigt.',

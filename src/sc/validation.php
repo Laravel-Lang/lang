@@ -34,6 +34,7 @@ return [
     'different'            => ':attribute e :other depent èssere diferentes.',
     'digits'               => ':attribute depet èssere de :digits tzifras.',
     'digits_between'       => ':attribute depet èssere intre :min e :max tzifras.',
+    'dimensions'           => 'The :attribute has invalid image dimensions.',
     'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => ':attribute no est bàlidu.',
     'exists'               => ':attribute seberadu/a no est bàlidu.',

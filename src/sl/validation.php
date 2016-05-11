@@ -34,6 +34,7 @@ return [
     'different'            => ':attribute in :other mora biti drugačen.',
     'digits'               => ':attribute mora imeti :digits cifer.',
     'digits_between'       => ':attribute mora biti med :min in :max ciframi.',
+    'dimensions'           => 'The :attribute has invalid image dimensions.',
     'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => ':attribute mora biti veljaven e-poštni naslov.',
     'exists'               => 'izbran :attribute je neveljaven.',

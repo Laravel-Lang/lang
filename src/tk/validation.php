@@ -34,6 +34,7 @@ return [
     'different'            => ':attribute bilen :other birbirinden tapawutly bolmalydyr.',
     'digits'               => ':attribute :digits san bolmalydyr.',
     'digits_between'       => ':attribute :min bilen :max arasynda san bolmalydyr.',
+    'dimensions'           => 'The :attribute has invalid image dimensions.',
     'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => ':attribute formaty ýalňyş.',
     'exists'               => 'Saýlanan :attribute ýalňyş.',

@@ -34,6 +34,7 @@ return [
     'different'            => 'ข้อมูล :attribute และ :other ต้องไม่เท่ากัน',
     'digits'               => 'ข้อมูล :attribute ต้องเป็น :digits',
     'digits_between'       => 'ข้อมูล :attribute ต้องอยู่ในช่วงระหว่าง :min ถึง :max',
+    'dimensions'           => 'The :attribute has invalid image dimensions.',
     'distinct'             => 'ข้อมูล :attribute มีค่าที่ซ้ำกัน',
     'email'                => 'ข้อมูล :attribute ต้องเป็นอีเมล์',
     'exists'               => 'ข้อมูล ที่ถูกเลือกจาก :attribute ไม่ถูกต้อง',

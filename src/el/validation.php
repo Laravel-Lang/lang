@@ -34,6 +34,7 @@ return [
     'different'            => 'Το πεδίο :attribute και :other πρέπει να είναι διαφορετικά.',
     'digits'               => 'Το πεδίο :attribute πρέπει να είναι :digits ψηφία.',
     'digits_between'       => 'Το πεδίο :attribute πρέπει να είναι μεταξύ :min και :max ψηφία.',
+    'dimensions'           => 'The :attribute has invalid image dimensions.',
     'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => 'Το πεδίο :attribute πρέπει να είναι μία έγκυρη διεύθυνση email.',
     'filled'               => 'To πεδίο :attribute είναι απαραίτητο.',

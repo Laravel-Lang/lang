@@ -34,6 +34,7 @@ return [
     'different'            => ':attribute 與 :other 必須不同。',
     'digits'               => ':attribute 必須是 :digits 位數字。',
     'digits_between'       => ':attribute 必須介乎 :min 至 :max 位數字。',
+    'dimensions'           => 'The :attribute has invalid image dimensions.',
     'distinct'             => ':attribute 已經存在。',
     'email'                => ':attribute 的格式無效。',
     'exists'               => ':attribute 不存在。',

@@ -34,6 +34,7 @@ return [
     'different'            => 'Reiturinn :attribute og :other verða að vera ólíkir.',
     'digits'               => 'Reiturinn :attribute verður að vera :digits tölustafir.',
     'digits_between'       => 'Reiturinn :attribute verður að vera á milli :min og :max tölustafa.',
+    'dimensions'           => 'The :attribute has invalid image dimensions.',
     'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => 'Reiturinn :attribute snið netfangsins er ekki rétt.',
     'filled'               => 'Reiturinn :attribute verður að innihalda eitthvað.',

@@ -34,6 +34,7 @@ return [
     'different'            => 'Polja :attribute i :other moraju biti različita.',
     'digits'               => 'Polje :attribute mora sadržati :digits cifara.',
     'digits_between'       => 'Polje :attribute mora biti izemđu :min i :max cifri.',
+    'dimensions'           => 'The :attribute has invalid image dimensions.',
     'distinct'             => 'Polje :attribute nije jedinstveno.',
     'email'                => 'Format polja :attribute nije validan.',
     'exists'               => 'Odabrano polje :attribute nije validno.',

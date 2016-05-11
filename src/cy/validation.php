@@ -34,6 +34,7 @@ return [
     'different'            => 'Rhaid i :attribute a :other fod yn wahanol.',
     'digits'               => 'Rhaid i :attribute fod yn :digits digid.',
     'digits_between'       => 'Rhaid i :attribute fod rhwng :min a :max digid.',
+    'dimensions'           => 'The :attribute has invalid image dimensions.',
     'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => 'Rhaid i :attribute fod yn gyfeiriad ebost dilys.',
     'filled'               => 'Rhaid cynnwys :attribute.',

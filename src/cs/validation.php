@@ -34,6 +34,7 @@ return [
     'different'            => ':attribute a :other se musí lišit.',
     'digits'               => ':attribute musí být :digits pozic dlouhé.',
     'digits_between'       => ':attribute musí být dlouhé nejméně :min a nejvíce :max pozic.',
+    'dimensions'           => 'The :attribute has invalid image dimensions.',
     'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => ':attribute není platný formát.',
     'exists'               => 'Zvolená hodnota pro :attribute není platná.',

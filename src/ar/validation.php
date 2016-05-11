@@ -34,6 +34,7 @@ return [
     'different'            => 'يجب أن يكون الحقلان :attribute و :other مُختلفان',
     'digits'               => 'يجب أن يحتوي الحقل :attribute على :digits رقمًا/أرقام',
     'digits_between'       => 'يجب أن يحتوي الحقل :attribute ما بين :min و :max رقمًا/أرقام ',
+    'dimensions'           => 'The :attribute has invalid image dimensions.',
     'distinct'             => 'للحقل :attribute قيمة مُكرّرة.',
     'email'                => 'يجب أن يكون :attribute عنوان بريد إلكتروني صحيح البُنية',
     'exists'               => 'الحقل :attribute لاغٍ',

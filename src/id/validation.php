@@ -34,6 +34,7 @@ return [
     'different'            => 'Isian :attribute dan :other harus berbeda.',
     'digits'               => 'Isian :attribute harus berupa angka :digits.',
     'digits_between'       => 'Isian :attribute harus antara angka :min dan :max.',
+    'dimensions'           => 'The :attribute has invalid image dimensions.',
     'distinct'             => 'Bidang isian :attribute memiliki nilai yang duplikat.',
     'email'                => 'Isian :attribute harus berupa alamat surel yang valid.',
     'exists'               => 'Isian :attribute yang dipilih tidak valid.',

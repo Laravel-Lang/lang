@@ -34,6 +34,7 @@ return [
     'different'            => ':attribute en :other moeten verschillend zijn.',
     'digits'               => ':attribute moet bestaan uit :digits cijfers.',
     'digits_between'       => ':attribute moet bestaan uit minimaal :min en maximaal :max cijfers.',
+    'dimensions'           => 'The :attribute has invalid image dimensions.',
     'distinct'             => ':attribute heeft een dubbele waarde.',
     'email'                => ':attribute is geen geldig e-mailadres.',
     'exists'               => ':attribute bestaat niet.',

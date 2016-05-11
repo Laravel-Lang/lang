@@ -34,6 +34,7 @@ return [
     'different'            => ':attribute र :other फरक हुनुपर्छ।',
     'digits'               => ':attribute :digits अंकको हुनुपर्छ।',
     'digits_between'       => ':attribute :min देखि :max अंकको हुनुपर्छ।',
+    'dimensions'           => 'The :attribute has invalid image dimensions.',
     'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => ':attribute को इमेल ठेगाना मिलेन।',
     'exists'               => 'छानिएको :attribute अमान्य छ।',

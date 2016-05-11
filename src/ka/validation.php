@@ -34,6 +34,7 @@ return [
     'different'            => ':attribute და :other ერთმანეთს არ უნდა ემთხვეოდეს.',
     'digits'               => ':attribute :digits ციფრისგან უნდა შედგებოდეს.',
     'digits_between'       => ':attribute :min-დან :max ციფრამბდე უნდა შედგებოდეს.',
+    'dimensions'           => 'The :attribute has invalid image dimensions.',
     'distinct'             => ':attribute ველი შეიცავს გაორებულ მნიშვნელობას.',
     'email'                => ':attribute სწორი ელ.ფოსტა უნდა იყოს.',
     'exists'               => 'ასეთი :attribute არ არსებობს.',

@@ -34,6 +34,7 @@ return [
     'different'            => ':attribute ja :other tulee olla eri arvoisia.',
     'digits'               => ':attribute on oltava :digits numeroin.',
     'digits_between'       => 'The :attribute must be between :min and :max digits.',
+    'dimensions'           => 'The :attribute has invalid image dimensions.',
     'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => ':attribute muoto on virheellinen.',
     'exists'               => 'valittu :attribute on virheellinen.',

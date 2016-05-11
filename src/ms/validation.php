@@ -34,6 +34,7 @@ return [
     'different'            => ':attribute dan :other must be different.',
     'digits'               => ':attribute must be :digits digits.',
     'digits_between'       => ':attribute mesti mengandungi antara :min dan :max digits.',
+    'dimensions'           => 'The :attribute has invalid image dimensions.',
     'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => ':attribute must be a valid email address.',
     'exists'               => 'The selected :attribute is invalid.',

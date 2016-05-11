@@ -34,6 +34,7 @@ return [
     'different'            => 'Полетата :attribute и :other трябва да са различни.',
     'digits'               => 'Полето :attribute трябва да има :digits цифри.',
     'digits_between'       => 'Полето :attribute трябва да има между :min и :max цифри.',
+    'dimensions'           => 'The :attribute has invalid image dimensions.',
     'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => 'Полето :attribute е в невалиден формат.',
     'exists'               => 'Избранато поле :attribute вече съществува.',

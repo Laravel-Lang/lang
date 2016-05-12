@@ -69,7 +69,6 @@
     * validation : present
 
  * es:
-    * validation : dimensions
 
  * fa:
     * validation : dimensions
@@ -93,6 +92,8 @@
     * validation : required_without_all
     * validation : string
     * validation : timezone
+
+ * fr:
 
  * gl:
     * validation : dimensions
@@ -232,10 +233,8 @@
     * validation : string
 
  * pt:
-    * validation : dimensions
 
  * pt-BR:
-    * validation : dimensions
 
  * ro:
     * validation : dimensions

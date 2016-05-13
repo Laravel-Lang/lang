@@ -149,8 +149,6 @@
     * validation : present
 
  * ka:
-    * validation : dimensions
-    * validation : in_array
 
  * km:
     * auth : failed

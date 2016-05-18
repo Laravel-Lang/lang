@@ -102,7 +102,6 @@
     * validation : present
 
  * he:
-    * validation : dimensions
 
  * hr:
     * validation : dimensions
@@ -136,11 +135,6 @@
     * validation : string
 
  * it:
-    * validation : dimensions
-    * validation : distinct
-    * validation : in_array
-    * validation : present
-    * validation : required_unless
 
  * ja:
     * validation : dimensions
@@ -149,6 +143,9 @@
     * validation : present
 
  * ka:
+    * validation : distinct
+    * validation : in_array
+    * validation : present
 
  * km:
     * auth : failed

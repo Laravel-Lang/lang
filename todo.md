@@ -143,9 +143,6 @@
     * validation : present
 
  * ka:
-    * validation : distinct
-    * validation : in_array
-    * validation : present
 
  * km:
     * auth : failed

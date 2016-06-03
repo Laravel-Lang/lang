@@ -236,7 +236,6 @@
     * validation : required_unless
 
  * ru:
-    * validation : dimensions
 
  * sc:
     * auth : failed

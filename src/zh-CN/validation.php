@@ -122,7 +122,7 @@ return [
         'address'               => '地址',
         'phone'                 => '电话',
         'mobile'                => '手机',
-        'age'                   => '年轻',
+        'age'                   => '年龄',
         'sex'                   => '性别',
         'gender'                => '性别',
         'day'                   => '天',

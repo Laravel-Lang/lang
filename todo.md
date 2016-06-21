@@ -210,7 +210,6 @@
     * validation : present
 
  * nl:
-    * validation : dimensions
 
  * nn:
     * validation : dimensions

@@ -1,5 +1,7 @@
 <?php
+
 return [
+
     /*
     |--------------------------------------------------------------------------
     | Validation Language Lines
@@ -10,6 +12,7 @@ return [
     | as the size rules. Feel free to tweak each of these messages here.
     |
      */
+
     'accepted'             => ':attribute mesti diterima pakai.',
     'active_url'           => ':attribute bukan URL yang sah.',
     'after'                => ':attribute mesti tarikh selepas :date.',
@@ -72,6 +75,7 @@ return [
     'timezone'             => ':attribute mesti zon masa yang sah.',
     'unique'               => ':attribute telah wujud.',
     'url'                  => ':attribute format tidak sah.',
+
     /*
     |--------------------------------------------------------------------------
     | Custom Validation Language Lines
@@ -82,11 +86,13 @@ return [
     | specify a specific custom language line for a given attribute rule.
     |
      */
+
     'custom'               => [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
     ],
+
     /*
     |--------------------------------------------------------------------------
     | Custom Validation Attributes
@@ -97,5 +103,8 @@ return [
     | of "email". This simply helps us make messages a little cleaner.
     |
      */
-    'attributes'           => [],
+
+    'attributes'           => [
+        //
+    ],
 ];

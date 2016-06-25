@@ -11,75 +11,75 @@ return [
     | the validator class. Some of these rules have multiple versions such
     | as the size rules. Feel free to tweak each of these messages here.
     |
-    */
+     */
 
-    'accepted'             => ':attribute must be accepted.',
+    'accepted'             => ':attribute mesti diterima pakai.',
     'active_url'           => ':attribute bukan URL yang sah.',
-    'after'                => ':attribute must be a date after :date.',
+    'after'                => ':attribute mesti tarikh selepas :date.',
     'alpha'                => ':attribute hanya boleh mengandungi huruf.',
     'alpha_dash'           => ':attribute boleh mengandungi huruf, nombor, dan sengkang.',
     'alpha_num'            => ':attribute boleh mengandungi huruf dan nombor.',
-    'array'                => ':attribute must be an array.',
-    'before'               => ':attribute must be a date before :date.',
+    'array'                => ':attribute mesti jujukan.',
+    'before'               => ':attribute mesti tarikh sebelum :date.',
     'between'              => [
         'numeric' => ':attribute mesti mengandungi antara :min dan :max.',
         'file'    => ':attribute mesti mengandungi antara :min dan :max kilobait.',
         'string'  => ':attribute mesti mengandungi antara :min dan :max aksara.',
         'array'   => ':attribute mesti mengandungi antara :min dan :max perkara.',
     ],
-    'boolean'              => ':attribute field must be true or false.',
-    'confirmed'            => ':attribute confirmation does not match.',
+    'boolean'              => ':attribute mesti benar atau palsu.',
+    'confirmed'            => ':attribute pengesahan yang tidak sepadan.',
     'date'                 => ':attribute bukan tarikh yang sah.',
-    'date_format'          => ':attribute does not match the format :format.',
-    'different'            => ':attribute dan :other must be different.',
-    'digits'               => ':attribute must be :digits digits.',
+    'date_format'          => ':attribute tidak mengikut format :format.',
+    'different'            => ':attribute dan :other mesti berlainan.',
+    'dimensions'           => ':attribute tidak sah',
+    'digits'               => ':attribute mesti :digits.',
     'digits_between'       => ':attribute mesti mengandungi antara :min dan :max digits.',
-    'dimensions'           => 'The :attribute has invalid image dimensions.',
-    'distinct'             => 'The :attribute field has a duplicate value.',
-    'email'                => ':attribute must be a valid email address.',
-    'exists'               => 'The selected :attribute is invalid.',
-    'filled'               => ':attribute field is required.',
-    'image'                => ':attribute must be an image.',
-    'in'                   => 'The selected :attribute is invalid.',
-    'in_array'             => 'The :attribute field does not exist in :other.',
-    'integer'              => ':attribute must be an integer.',
-    'ip'                   => ':attribute must be a valid IP address.',
-    'json'                 => ':attribute must be a valid JSON string.',
+    'distinct'             => ':attribute adalah nilai yang berulang',
+    'email'                => ':attribute tidak sah.',
+    'exists'               => ':attribute tidak sah.',
+    'filled'               => ':attribute diperlukan.',
+    'image'                => ':attribute mesti imej.',
+    'in'                   => ':attribute tidak sah.',
+    'in_array'             => ':attribute tidak wujud dalam :other.',
+    'integer'              => ':attribute mesti integer.',
+    'ip'                   => ':attribute mesti alamat IP yang sah.',
+    'json'                 => ':attribute mesti JSON yang sah.',
     'max'                  => [
-        'numeric' => ':attribute may not be greater than :max.',
-        'file'    => ':attribute may not be greater than :max kilobait.',
-        'string'  => ':attribute may not be greater than :max aksara.',
-        'array'   => ':attribute may not have more than :max perkara.',
+        'numeric' => 'Jumlah :attribute mesti tidak melebihi :max.',
+        'file'    => 'Jumlah :attribute mesti tidak melebihi :max kilobait.',
+        'string'  => 'Jumlah :attribute mesti tidak melebihi :max aksara.',
+        'array'   => 'Jumlah :attribute mesti tidak melebihi :max perkara.',
     ],
-    'mimes'                => ':attribute must be a file of type: :values.',
+    'mimes'                => ':attribute mesti fail type: :values.',
     'min'                  => [
-        'numeric' => ':attribute must be at least :min.',
-        'file'    => ':attribute must be at least :min kilobait.',
-        'string'  => ':attribute must be at least :min aksara.',
-        'array'   => ':attribute must have at least :min perkara.',
+        'numeric' => 'Jumlah :attribute mesti sekurang-kurangnya :min.',
+        'file'    => 'Jumlah :attribute mesti sekurang-kurangnya :min kilobait.',
+        'string'  => 'Jumlah :attribute mesti sekurang-kurangnya :min aksara.',
+        'array'   => 'Jumlah :attribute mesti sekurang-kurangnya :min perkara.',
     ],
-    'not_in'               => 'The selected :attribute is invalid.',
-    'numeric'              => ':attribute must be a number.',
-    'present'              => 'The :attribute field must be present.',
-    'regex'                => ':attribute format is invalid.',
-    'required'             => ':attribute field is required.',
-    'required_if'          => ':attribute field is required when :other is :value.',
-    'required_unless'      => 'The :attribute field is required unless :other is in :values.',
-    'required_with'        => ':attribute field is required when :values is present.',
-    'required_with_all'    => ':attribute field is required when :values is present.',
-    'required_without'     => ':attribute field is required when :values is not present.',
-    'required_without_all' => ':attribute field is required when none of :values are present.',
-    'same'                 => ':attribute dan :other must match.',
+    'not_in'               => ':attribute tidak sah.',
+    'numeric'              => ':attribute mesti nombor.',
+    'present'              => ':attribute mesti wujud.',
+    'regex'                => ':attribute format tidak sah.',
+    'required'             => 'Ruangan :attribute diperlukan.',
+    'required_if'          => 'Ruangan :attribute diperlukan bila :other sama dengan :value.',
+    'required_unless'      => 'Ruangan :attribute diperlukan sekiranya :other ada dalam :values.',
+    'required_with'        => 'Ruangan :attribute diperlukan bila :values wujud.',
+    'required_with_all'    => 'Ruangan :attribute diperlukan bila :values wujud.',
+    'required_without'     => 'Ruangan :attribute diperlukan bila :values tidak wujud.',
+    'required_without_all' => 'Ruangan :attribute diperlukan bila kesemua :values wujud.',
+    'same'                 => 'Ruangan :attribute dan :other mesti sepadan.',
     'size'                 => [
-        'numeric' => ':attribute must be :size.',
-        'file'    => ':attribute must be :size kilobait.',
-        'string'  => ':attribute must be :size aksara.',
-        'array'   => ':attribute must contain :size perkara.',
+        'numeric' => 'Saiz :attribute mesti :size.',
+        'file'    => 'Saiz :attribute mesti :size kilobait.',
+        'string'  => 'Saiz :attribute mesti :size aksara.',
+        'array'   => 'Saiz :attribute mesti mengandungi :size perkara.',
     ],
-    'string'               => ':attribute must be a string.',
-    'timezone'             => ':attribute must be a valid zone.',
-    'unique'               => ':attribute has already been taken.',
-    'url'                  => ':attribute format is invalid.',
+    'string'               => ':attribute mesti aksara.',
+    'timezone'             => ':attribute mesti zon masa yang sah.',
+    'unique'               => ':attribute telah wujud.',
+    'url'                  => ':attribute format tidak sah.',
 
     /*
     |--------------------------------------------------------------------------
@@ -90,7 +90,7 @@ return [
     | convention "attribute.rule" to name the lines. This makes it quick to
     | specify a specific custom language line for a given attribute rule.
     |
-    */
+     */
 
     'custom'               => [
         'attribute-name' => [
@@ -107,10 +107,25 @@ return [
     | with something more reader friendly such as E-Mail Address instead
     | of "email". This simply helps us make messages a little cleaner.
     |
-    */
+     */
 
     'attributes'           => [
-        //
-    ],
+        'name'        => 'nama',
+        'email'       => 'alamat emel',
+        'password'    => 'kata laluan',
+        'dun_id'      => 'Dewan Undangan Negeri',
+        'dun'         => 'Dewan Undangan Negeri',
+        'parlimen_id' => 'parlimen',
+        'mukim_id'    => 'mukim',
+        'district'    => 'daerah',
+        'noJk'        => 'No JK',
+        'idMarris'    => 'Id Marris',
+        'road'        => 'nama jalan',
+        'typeOfWork'  => 'jenis jalan',
+        'workScope'   => 'skop kerja',
+        'cost'        => 'anggaran kos untuk kerja',
+        'length'      => 'panjang jalan',
+        'shortCode'   => 'singkatan nama daerah',
 
+    ],
 ];

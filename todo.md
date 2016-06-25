@@ -188,14 +188,6 @@
     * validation : timezone
 
  * ms:
-    * validation : dimensions
-    * validation : distinct
-    * validation : exists
-    * validation : in
-    * validation : in_array
-    * validation : not_in
-    * validation : present
-    * validation : required_unless
 
  * nb:
     * validation : dimensions

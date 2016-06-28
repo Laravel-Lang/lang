@@ -167,7 +167,6 @@
     * validation : string
 
  * lt:
-    * validation : dimensions
 
  * me:
     * validation : dimensions
@@ -304,12 +303,6 @@
     * validation : required_unless
 
  * uk:
-    * validation : dimensions
-    * validation : distinct
-    * validation : in_array
-    * validation : present
-    * validation : required_unless
-    * validation : string
 
  * vi:
     * auth : failed

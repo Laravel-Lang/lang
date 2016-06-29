@@ -57,10 +57,6 @@
     * validation : dimensions
 
  * de:
-    * validation : dimensions
-    * validation : distinct
-    * validation : in_array
-    * validation : present
 
  * el:
     * validation : dimensions

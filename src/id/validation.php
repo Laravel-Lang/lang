@@ -38,6 +38,7 @@ return [
     'distinct'             => 'Bidang isian :attribute memiliki nilai yang duplikat.',
     'email'                => 'Isian :attribute harus berupa alamat surel yang valid.',
     'exists'               => 'Isian :attribute yang dipilih tidak valid.',
+    'file'                 => 'The :attribute must be a file.',
     'filled'               => 'Bidang isian :attribute wajib diisi.',
     'image'                => 'Isian :attribute harus berupa gambar.',
     'in'                   => 'Isian :attribute yang dipilih tidak valid.',

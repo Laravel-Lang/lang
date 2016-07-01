@@ -37,6 +37,7 @@ return [
     'dimensions'           => 'The :attribute has invalid image dimensions.',
     'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => 'Rhaid i :attribute fod yn gyfeiriad ebost dilys.',
+    'file'                 => 'The :attribute must be a file.',
     'filled'               => 'Rhaid cynnwys :attribute.',
     'exists'               => 'Nid yw :attribute yn ddilys.',
     'image'                => 'Rhaid i :attribute fod yn lun.',

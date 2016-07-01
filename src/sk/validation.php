@@ -38,6 +38,7 @@ return [
     'distinct'             => ':attribute je duplicitný.',
     'email'                => ':attribute má neplatný formát.',
     'exists'               => 'označený :attribute je neplatný.',
+    'file'                 => 'The :attribute must be a file.',
     'filled'               => ':attribute je požadované.',
     'image'                => ':attribute musí byť obrázok.',
     'in'                   => 'označený :attribute je neplatný.',

@@ -38,6 +38,7 @@ return [
     'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => ':attribute 형식은 유효하지 않습니다.',
     'exists'               => '선택된 :attribute은(는) 유효하지 않습니다.',
+    'file'                 => 'The :attribute must be a file.',
     'filled'               => ':attribute 필드는 필수입니다.',
     'image'                => ':attribute은(는) 반드시 이미지여야 합니다.',
     'in'                   => '선택된 :attribute은(는) 유효하지 않습니다.',

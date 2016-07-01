@@ -38,6 +38,7 @@ return [
     'distinct'             => 'للحقل :attribute قيمة مُكرّرة.',
     'email'                => 'يجب أن يكون :attribute عنوان بريد إلكتروني صحيح البُنية',
     'exists'               => 'الحقل :attribute لاغٍ',
+    'file'                 => 'The :attribute must be a file.',
     'filled'               => 'الحقل :attribute إجباري',
     'image'                => 'يجب أن يكون الحقل :attribute صورةً',
     'in'                   => 'الحقل :attribute لاغٍ',

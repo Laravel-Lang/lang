@@ -38,6 +38,7 @@ return [
     'distinct'             => ':attribute heeft een dubbele waarde.',
     'email'                => ':attribute is geen geldig e-mailadres.',
     'exists'               => ':attribute bestaat niet.',
+    'file'                 => 'The :attribute must be a file.',
     'filled'               => ':attribute is verplicht.',
     'image'                => ':attribute moet een afbeelding zijn.',
     'in'                   => ':attribute is ongeldig.',

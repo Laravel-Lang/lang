@@ -38,6 +38,7 @@ return [
     'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => ':attributeは、有効なメールアドレス形式で指定してください。',
     'exists'               => '選択された:attributeは、有効ではありません。',
+    'file'                 => 'The :attribute must be a file.',
     'filled'               => ':attributeは必須です。',
     'image'                => ':attributeには、画像を指定してください。',
     'in'                   => '選択された:attributeは、有効ではありません。',

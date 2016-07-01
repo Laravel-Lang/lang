@@ -38,6 +38,7 @@ return [
     'distinct'             => ':attribute 已經存在。',
     'email'                => ':attribute 的格式無效。',
     'exists'               => ':attribute 不存在。',
+    'file'                 => 'The :attribute must be a file.',
     'filled'               => ':attribute 不能留空。',
     'image'                => ':attribute 必須是一張圖片。',
     'in'                   => '所揀選的 :attribute 選項無效。',

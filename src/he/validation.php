@@ -38,6 +38,7 @@ return [
     'distinct'             => 'שדה :attribute קיים ערך כפול.',
     'email'                => 'שדה :attribute חייב להיות כתובת אימייל תקנית.',
     'exists'               => 'בחירת ה-:attribute אינה תקפה.',
+    'file'                 => 'The :attribute must be a file.',
     'filled'               => 'שדה :attribute הוא חובה.',
     'image'                => 'שדה :attribute חייב להיות תמונה.',
     'in'                   => 'בחירת ה-:attribute אינה תקפה.',

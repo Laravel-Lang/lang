@@ -38,6 +38,7 @@ return [
     'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => ':attribute को इमेल ठेगाना मिलेन।',
     'exists'               => 'छानिएको :attribute अमान्य छ।',
+    'file'                 => 'The :attribute must be a file.',
     'filled'               => ':attribute दिइएको हुनुपर्छ।',
     'image'                => ':attribute मा फोटो हुनुपर्छ।',
     'in'                   => 'छानिएको :attribute अमान्य छ।',

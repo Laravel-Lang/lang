@@ -38,6 +38,7 @@ return [
     'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => ':attribute muoto on virheellinen.',
     'exists'               => 'valittu :attribute on virheellinen.',
+    'file'                 => 'The :attribute must be a file.',
     'filled'               => ':attribute kenttä on pakollinen.',
     'image'                => ':attribute pitää olla kuva.',
     'in'                   => 'valittu :attribute on virheellinen.',

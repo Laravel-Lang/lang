@@ -38,6 +38,7 @@ return [
     'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => 'Trường :attribute phải là một địa chỉ email hợp lệ.',
     'exists'               => 'Giá trị đã chọn trong trường :attribute không hợp lệ.',
+    'file'                 => 'The :attribute must be a file.',
     'filled'               => 'Trường :attribute không được bỏ trống.',
     'image'                => 'Các tập tin trong trường :attribute phải là định dạng hình ảnh.',
     'in'                   => 'Giá trị đã chọn trong trường :attribute không hợp lệ.',

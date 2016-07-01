@@ -38,6 +38,7 @@ return [
     'distinct'             => 'فیلد :attribute دارای یک مقدار تکراری می‌باشد.',
     'email'                => 'فرمت :attribute معتبر نیست.',
     'exists'               => ':attribute انتخاب شده، معتبر نیست.',
+    'file'                 => 'The :attribute must be a file.',
     'filled'               => 'فیلد :attribute الزامی است',
     'image'                => ':attribute باید تصویر باشد.',
     'in'                   => ':attribute انتخاب شده، معتبر نیست.',

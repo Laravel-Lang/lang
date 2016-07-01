@@ -38,6 +38,7 @@ return [
     'distinct'             => ':attribute 已經存在。',
     'email'                => ':attribute 不是一个合法的邮箱。',
     'exists'               => ':attribute 不存在。',
+    'file'                 => 'The :attribute must be a file.',
     'filled'               => ':attribute 不能为空。',
     'image'                => ':attribute 必须是图片。',
     'in'                   => '已选的属性 :attribute 非法。',

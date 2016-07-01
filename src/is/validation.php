@@ -37,6 +37,7 @@ return [
     'dimensions'           => 'The :attribute has invalid image dimensions.',
     'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => 'Reiturinn :attribute snið netfangsins er ekki rétt.',
+    'file'                 => 'The :attribute must be a file.',
     'filled'               => 'Reiturinn :attribute verður að innihalda eitthvað.',
     'exists'               => 'Reiturinn :attribute er nú þegar til.',
     'image'                => 'Reiturinn :attribute verður að vera mynd.',

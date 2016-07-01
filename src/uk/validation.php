@@ -37,6 +37,7 @@ return [
     'dimensions'           => 'Поле :attribute містіть неприпустимі розміри зображення.',
     'distinct'             => 'Поле :attribute містить значення, яке дублюється.',
     'email'                => 'Поле :attribute повинне містити коректну електронну адресу.',
+    'file'                 => 'The :attribute must be a file.',
     'filled'               => "Поле :attribute є обов'язковим для заповнення.",
     'exists'               => 'Вибране для :attribute значення не коректне.',
     'image'                => 'Поле :attribute має містити зображення.',

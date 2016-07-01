@@ -38,6 +38,7 @@ return [
     'distinct'             => 'ข้อมูล :attribute มีค่าที่ซ้ำกัน',
     'email'                => 'ข้อมูล :attribute ต้องเป็นอีเมล์',
     'exists'               => 'ข้อมูล ที่ถูกเลือกจาก :attribute ไม่ถูกต้อง',
+    'file'                 => 'The :attribute must be a file.',
     'filled'               => 'ข้อมูล :attribute จำเป็นต้องกรอก',
     'image'                => 'ข้อมูล :attribute ต้องเป็นรูปภาพ',
     'in'                   => 'ข้อมูล ที่ถูกเลือกใน :attribute ไม่ถูกต้อง',

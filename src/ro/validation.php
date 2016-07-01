@@ -38,6 +38,7 @@ return [
     'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => 'Câmpul :attribute trebuie să fie o adresă de e-mail validă.',
     'exists'               => 'Câmpul :attribute selectat nu este valid.',
+    'file'                 => 'The :attribute must be a file.',
     'filled'               => 'Câmpul :attribute trebuie completat.',
     'image'                => 'Câmpul :attribute trebuie să fie o imagine.',
     'in'                   => 'Câmpul :attribute selectat nu este valid.',

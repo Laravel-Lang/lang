@@ -38,6 +38,7 @@ return [
     'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => ':attribute no est bàlidu.',
     'exists'               => ':attribute seberadu/a no est bàlidu.',
+    'file'                 => 'The :attribute must be a file.',
     'filled'               => ':attribute est pedidu.',
     'image'                => ":attribute depet èssere un'immàgine.",
     'in'                   => ':attribute seberadu no est bàlidu.',

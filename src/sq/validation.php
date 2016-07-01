@@ -38,6 +38,7 @@ return [
     'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => ':attribute formati është i pasaktë.',
     'exists'               => ':attribute përzgjedhur është i/e pasaktë.',
+    'file'                 => 'The :attribute must be a file.',
     'filled'               => 'Fusha :attribute është e kërkuar.',
     'image'                => ':attribute duhet të jetë imazh.',
     'in'                   => ':attribute përzgjedhur është i/e pasaktë.',

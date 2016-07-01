@@ -38,6 +38,7 @@ return [
     'dimensions'           => 'The :attribute has invalid image dimensions.',
     'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => 'Поле :attribute павінна быць сапраўдным электронным адрасам.',
+    'file'                 => 'The :attribute must be a file.',
     'filled'               => 'Поле :attribute абавязкова для запаўнення.',
     'exists'               => 'Выбранае значэнне для :attribute некарэктна.',
     'image'                => 'Поле :attribute павінна быць малюнкам.',

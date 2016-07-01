@@ -38,6 +38,7 @@ return [
     'distinct'             => 'A(z) :attribute értékének egyedinek kell lennie!',
     'email'                => 'A(z) :attribute nem érvényes email formátum.',
     'exists'               => 'A(z) :attribute már létezik.',
+    'file'                 => 'The :attribute must be a file.',
     'filled'               => 'A(z) :attribute megadása kötelező!',
     'image'                => 'A(z) :attribute képfájl kell, hogy legyen!',
     'in'                   => 'A kiválasztott :attribute érvénytelen.',

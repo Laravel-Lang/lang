@@ -38,6 +38,7 @@ return [
     'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => ':attribute biçimi geçersiz.',
     'exists'               => 'Seçili :attribute geçersiz.',
+    'file'                 => 'The :attribute must be a file.',
     'filled'               => ':attribute alanı gereklidir.',
     'image'                => ':attribute alanı resim dosyası olmalıdır.',
     'in'                   => ':attribute değeri geçersiz.',

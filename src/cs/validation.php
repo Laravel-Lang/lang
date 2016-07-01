@@ -38,6 +38,7 @@ return [
     'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => ':attribute není platný formát.',
     'exists'               => 'Zvolená hodnota pro :attribute není platná.',
+    'file'                 => 'The :attribute must be a file.',
     'filled'               => ':attribute musí být vyplněno.',
     'image'                => ':attribute musí být obrázek.',
     'in'                   => 'Zvolená hodnota pro :attribute není platná.',

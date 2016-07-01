@@ -38,6 +38,7 @@ return [
     'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => 'Fältet :attribute måste innehålla en korrekt e-postadress.',
     'exists'               => 'Det valda :attribute är ogiltigt.',
+    'file'                 => 'The :attribute must be a file.',
     'filled'               => 'Fältet :attribute är obligatoriskt.',
     'image'                => ':attribute måste vara en bild.',
     'in'                   => 'Det valda :attribute är ogiltigt.',

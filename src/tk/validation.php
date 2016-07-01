@@ -38,6 +38,7 @@ return [
     'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => ':attribute formaty ýalňyş.',
     'exists'               => 'Saýlanan :attribute ýalňyş.',
+    'file'                 => 'The :attribute must be a file.',
     'filled'               => ':attribute meýdany zerur.',
     'image'                => ':attribute surat bolmalydyr.',
     'in'                   => ':attribute mukdary ýalňyş.',

@@ -38,6 +38,7 @@ return [
     'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => ':attribute format er ugyldig.',
     'exists'               => 'Det valgte :attribute er ugyldig.',
+    'file'                 => 'The :attribute must be a file.',
     'filled'               => ':attribute må fylles ut.',
     'image'                => ':attribute skal være et bilde.',
     'in'                   => 'Det valgte :attribute er ugyldig.',

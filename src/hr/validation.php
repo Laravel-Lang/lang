@@ -38,6 +38,7 @@ return [
     'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => 'Polje :attribute mora biti ispravna e-mail adresa.',
     'exists'               => 'Odabrano polje :attribute nije ispravno.',
+    'file'                 => 'The :attribute must be a file.',
     'filled'               => 'The :attribute field is required.',
     'image'                => 'Polje :attribute mora biti slika.',
     'in'                   => 'Odabrano polje :attribute nije ispravno.',

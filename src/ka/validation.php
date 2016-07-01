@@ -38,6 +38,7 @@ return [
     'distinct'             => ':attribute უნდა იყოს უნიკალური.',
     'email'                => ':attribute უნდა იყოს სწორი ელ.ფოსტა.',
     'exists'               => 'ასეთი :attribute არ არსებობს.',
+    'file'                 => 'The :attribute must be a file.',
     'filled'               => ':attribute აუცილებელია.',
     'image'                => ':attribute უნდა იყოს სურათი.',
     'in'                   => 'მითითებული :attribute არასწორია.',

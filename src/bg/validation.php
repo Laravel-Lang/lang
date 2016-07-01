@@ -38,6 +38,7 @@ return [
     'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => 'Полето :attribute е в невалиден формат.',
     'exists'               => 'Избранато поле :attribute вече съществува.',
+    'file'                 => 'The :attribute must be a file.',
     'filled'               => 'Полето :attribute е задължително.',
     'image'                => 'Полето :attribute трябва да бъде изображение.',
     'in'                   => 'Избраното поле :attribute е невалидно.',

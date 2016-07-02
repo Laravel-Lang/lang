@@ -247,7 +247,6 @@
     * validation : file
 
  * pt-BR:
-    * validation : file
 
  * ro:
     * validation : dimensions

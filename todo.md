@@ -244,7 +244,6 @@
     * validation : string
 
  * pt:
-    * validation : file
 
  * pt-BR:
 

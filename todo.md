@@ -256,7 +256,6 @@
     * validation : required_unless
 
  * ru:
-    * validation : file
 
  * sc:
     * auth : failed

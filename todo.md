@@ -358,8 +358,6 @@
     * validation : string
 
  * zh-CN:
-    * validation : dimensions
-    * validation : file
 
  * zh-HK:
     * validation : dimensions

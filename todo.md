@@ -65,7 +65,6 @@
     * validation : file
 
  * de:
-    * validation : file
 
  * el:
     * validation : dimensions
@@ -227,7 +226,6 @@
     * validation : present
 
  * nl:
-    * validation : file
 
  * nn:
     * validation : dimensions

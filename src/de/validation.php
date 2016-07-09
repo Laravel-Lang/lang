@@ -38,7 +38,7 @@ return [
     'distinct'             => 'Das Feld :attribute beinhaltet einen bereits vorhandenen Wert.',
     'email'                => ':attribute Format ist ungültig.',
     'exists'               => 'Der gewählte Wert für :attribute ist ungültig.',
-    'file'                 => 'The :attribute must be a file.',
+    'file'                 => ':attribute muss eine Datei sein.',
     'filled'               => ':attribute muss ausgefüllt sein.',
     'image'                => ':attribute muss ein Bild sein.',
     'in'                   => 'Der gewählte Wert für :attribute ist ungültig.',

@@ -35,7 +35,7 @@ return [
     'digits'               => ':attribute 必须是 :digits 位的数字。',
     'digits_between'       => ':attribute 必须是介于 :min 和 :max 位的数字。',
     'dimensions'           => ':attribute 图片尺寸不正确。',
-    'distinct'             => ':attribute 已經存在。',
+    'distinct'             => ':attribute 已经存在。',
     'email'                => ':attribute 不是一个合法的邮箱。',
     'exists'               => ':attribute 不存在。',
     'file'                 => ':attribute 必须是文件。',

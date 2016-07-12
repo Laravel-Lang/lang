@@ -352,9 +352,5 @@
  * zh-CN:
 
  * zh-HK:
-    * validation : dimensions
-    * validation : file
 
  * zh-TW:
-    * validation : dimensions
-    * validation : file

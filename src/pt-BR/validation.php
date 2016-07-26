@@ -23,7 +23,7 @@ return [
     'before'               => 'O campo :attribute deve conter uma data anterior a :date.',
     'between'              => [
         'numeric' => 'O campo :attribute deve conter um número entre :min e :max.',
-        'file'    => 'O campo :attribute deve conter um arquivo entre :min e :max kilobytes.',
+        'file'    => 'O campo :attribute deve conter um arquivo de :min a :max kilobytes.',
         'string'  => 'O campo :attribute deve conter entre :min a :max caracteres.',
         'array'   => 'O campo :attribute deve conter de :min a :max itens.',
     ],

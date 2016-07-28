@@ -226,15 +226,7 @@
     * validation : file
 
  * pl:
-    * validation : dimensions
-    * validation : distinct
-    * validation : file
-    * validation : in_array
-    * validation : json
-    * validation : present
-    * validation : required_unless
-    * validation : string
-
+  
  * pt:
 
  * pt-BR:

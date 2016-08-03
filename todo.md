@@ -292,13 +292,6 @@
     * validation : required_unless
 
  * sv:
-    * validation : dimensions
-    * validation : distinct
-    * validation : file
-    * validation : in_array
-    * validation : json
-    * validation : present
-    * validation : required_unless
 
  * th:
     * validation : dimensions

@@ -32,7 +32,7 @@ return [
     'date'                 => ':attribute är inte ett giltigt datum.',
     'date_format'          => ':attribute matchar inte formatet :format.',
     'different'            => ':attribute och :other får inte vara lika.',
-    'digits'               => ':attribute måste vara minst :digits tecken.',
+    'digits'               => ':attribute måste vara :digits tecken.',
     'digits_between'       => ':attribute måste vara mellan :min och :max tecken.',
     'dimensions'           => ':attribute har felaktiga bilddimensioner.',
     'distinct'             => ':attribute innehåller fler än en repetition av samma element.',

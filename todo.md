@@ -123,8 +123,6 @@
     * validation : file
 
  * id:
-    * validation : dimensions
-    * validation : file
 
  * is:
     * auth : failed
@@ -226,7 +224,7 @@
     * validation : file
 
  * pl:
-  
+
  * pt:
 
  * pt-BR:

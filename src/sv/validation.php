@@ -37,7 +37,7 @@ return [
     'dimensions'           => ':attribute har felaktiga bilddimensioner.',
     'distinct'             => ':attribute innehåller fler än en repetition av samma element.',
     'email'                => ':attribute måste innehålla en korrekt e-postadress.',
-    'exists'               => 'Det valda :attribute är ogiltigt.',
+    'exists'               => ':attribute är ogiltigt.',
     'file'                 => ':attribute måste vara en fil.',
     'filled'               => ':attribute är obligatoriskt.',
     'image'                => ':attribute måste vara en bild.',

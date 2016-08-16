@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'failed'   => 'A megadott adatokkal megegyező felhasználó nem található az adatbázisunkban.',
-    'throttle' => 'Túl sok próbálkozás. Kérjü próbálja újra :seconds másodperc múlva.',
+    'failed'   => 'Rossz email-jelszó páros.',
+    'throttle' => 'Túl sok próbálkozás. Kérjük próbálja újra :seconds másodperc múlva.',
 
 ];

@@ -68,11 +68,8 @@
     * validation : present
 
  * es:
-    * validation : file
 
  * fa:
-    * validation : dimensions
-    * validation : file
 
  * fi:
     * auth : failed
@@ -119,8 +116,6 @@
     * validation : string
 
  * hu:
-    * validation : dimensions
-    * validation : file
 
  * id:
 
@@ -308,11 +303,6 @@
     * validation : string
 
  * tr:
-    * validation : dimensions
-    * validation : distinct
-    * validation : file
-    * validation : in_array
-    * validation : json
     * validation : present
     * validation : required_unless
 

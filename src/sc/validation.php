@@ -53,6 +53,7 @@ return [
         'array'   => ':attribute non podet tènnere prus de :max elementos.',
     ],
     'mimes'                => ':attribute depet èssere de tipu: :values.',
+    'mimetypes'            => ':attribute depet èssere de tipu: :values.',
     'min'                  => [
         'numeric' => ':attribute depet bàlere a su mancu :min.',
         'file'    => ':attribute depet èssere prus mannu de :min kilobytes.',

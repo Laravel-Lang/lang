@@ -53,6 +53,7 @@ return [
         'array'   => 'ข้อมูล :attribute ต้องมีจำนวนไม่เกิน :max ค่า',
     ],
     'mimes'                => 'ข้อมูล :attribute ต้องเป็นชนิดไฟล์: :values.',
+    'mimetypes'            => 'ข้อมูล :attribute ต้องเป็นชนิดไฟล์: :values.',
     'min'                  => [
         'numeric' => 'ข้อมูล :attribute ต้องมีจำนวนอย่างน้อย :min.',
         'file'    => 'ข้อมูล :attribute ต้องมีจำนวนอย่างน้อย :min กิโลไบต์',

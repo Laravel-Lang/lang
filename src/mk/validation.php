@@ -53,6 +53,7 @@ return [
         'array'   => 'Полето :attribute не може да има повеќе од :max карактери.',
     ],
     'mimes'                => 'Полето :attribute мора да биде фајл од типот: :values.',
+    'mimetypes'            => 'Полето :attribute мора да биде фајл од типот: :values.',
     'min'                  => [
         'numeric' => 'Полето :attribute мора да биде минимум :min.',
         'file'    => 'Полето :attribute мора да биде минимум :min килобајти.',

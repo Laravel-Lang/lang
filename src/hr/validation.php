@@ -53,6 +53,7 @@ return [
         'array'   => 'Polje :attribute ne smije imati više od :max stavki.',
     ],
     'mimes'                => 'Polje :attribute mora biti datoteka tipa: :values.',
+    'mimetypes'            => 'Polje :attribute mora biti datoteka tipa: :values.',
     'min'                  => [
         'numeric' => 'Polje :attribute mora biti najmanje :min.',
         'file'    => 'Polje :attribute mora biti najmanje :min kilobajta.',

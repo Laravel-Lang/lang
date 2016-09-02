@@ -53,6 +53,7 @@ return [
         'array'   => 'Câmpul :attribute nu poate avea mai mult de :max elemente.',
     ],
     'mimes'                => 'Câmpul :attribute trebuie să fie un fișier de tipul: :values.',
+    'mimetypes'            => 'Câmpul :attribute trebuie să fie un fișier de tipul: :values.',
     'min'                  => [
         'numeric' => 'Câmpul :attribute nu poate fi mai mic de :min.',
         'file'    => 'Câmpul :attribute trebuie să aibă cel puțin :min kiloocteți.',

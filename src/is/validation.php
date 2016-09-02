@@ -53,6 +53,7 @@ return [
         'array'   => 'Reiturinn :attribute verður að innihalda færri en :max stök.',
     ],
     'mimes'                => 'Reiturinn :attribute verður að vera skrá af gerðinni: :values.',
+    'mimetypes'            => 'Reiturinn :attribute verður að vera skrá af gerðinni: :values.',
     'min'                  => [
         'numeric' => 'Reiturinn :attribute verður að vera að lágmarki :min tölustafir.',
         'file'    => 'Reiturinn :attribute verður að vera að lágmarki :min kílóbæt.',

@@ -53,6 +53,7 @@ return [
         'array'   => ':attribute nemôže mať viac ako :max prvkov.',
     ],
     'mimes'                => ':attribute musí byť súbor s koncovkou: :values.',
+    'mimetypes'            => ':attribute musí byť súbor s koncovkou: :values.',
     'min'                  => [
         'numeric' => ':attribute musí mať aspoň :min.',
         'file'    => ':attribute musí mať aspoň :min kilobajtov.',

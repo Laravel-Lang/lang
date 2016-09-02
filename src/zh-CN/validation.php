@@ -53,6 +53,7 @@ return [
         'array'   => ':attribute 最多只有 :max 个单元。',
     ],
     'mimes'                => ':attribute 必须是一个 :values 类型的文件。',
+    'mimetypes'            => ':attribute 必须是一个 :values 类型的文件。',
     'min'                  => [
         'numeric' => ':attribute 必须大于等于 :min。',
         'file'    => ':attribute 大小不能小于 :min kb。',

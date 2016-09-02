@@ -53,6 +53,7 @@ return [
         'array'   => ':attribute iň az :max maddadan ybarat bolmalydyr.',
     ],
     'mimes'                => ':attribute faýlň formaty :values bolmalydyr.',
+    'mimetypes'            => ':attribute faýlň formaty :values bolmalydyr.',
     'min'                  => [
         'numeric' => ':attribute mukdary :min dan köp bolmalydyr.',
         'file'    => ':attribute mukdary :min kilobaýtdan köp bolmalydyr.',

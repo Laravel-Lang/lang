@@ -53,6 +53,7 @@ return [
         'array'   => 'Jumlah :attribute mesti tidak melebihi :max perkara.',
     ],
     'mimes'                => ':attribute mesti fail type: :values.',
+    'mimetypes'            => ':attribute mesti fail type: :values.',
     'min'                  => [
         'numeric' => 'Jumlah :attribute mesti sekurang-kurangnya :min.',
         'file'    => 'Jumlah :attribute mesti sekurang-kurangnya :min kilobait.',

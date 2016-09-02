@@ -53,6 +53,7 @@ return [
         'array'   => 'A(z) :attribute legfeljebb :max elemet kell, hogy tartalmazzon.',
     ],
     'mimes'                => 'A(z) :attribute kizárólag az alábbi fájlformátumok egyike lehet: :values.',
+    'mimetypes'            => 'A(z) :attribute kizárólag az alábbi fájlformátumok egyike lehet: :values.',
     'min'                  => [
         'numeric' => 'A(z) :attribute értéke nem lehet kisebb, mint :min!',
         'file'    => 'A(z) :attribute mérete nem lehet kevesebb, mint :min kilobájt.',

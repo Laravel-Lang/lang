@@ -53,6 +53,7 @@ return [
         'array'   => 'Поле :attribute повинне містити не більше :max елементів.',
     ],
     'mimes'                => 'Поле :attribute повинне містити файл одного з типів: :values.',
+    'mimetypes'            => 'Поле :attribute повинне містити файл одного з типів: :values.',
     'min'                  => [
         'numeric' => 'Поле :attribute повинне бути не більше :min.',
         'file'    => 'Розмір Файлу в полі :attribute має бути не меншим :min кілобайт.',

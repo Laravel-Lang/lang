@@ -53,6 +53,7 @@ return [
         'array'   => ':attribute nesmí obsahovat více než :max prvků.',
     ],
     'mimes'                => ':attribute musí být jeden z následujících datových typů :values.',
+    'mimetypes'            => ':attribute musí být jeden z následujících datových typů :values.',
     'min'                  => [
         'numeric' => ':attribute musí být větší než :min.',
         'file'    => ':attribute musí být větší než :min Kilobytů.',

@@ -53,6 +53,7 @@ return [
         'array'   => 'The :attribute may not have more than :max items.',
     ],
     'mimes'                => ':attribute pitää olla tiedostotyyppi: :values.',
+    'mimetypes'            => ':attribute pitää olla tiedostotyyppi: :values.',
     'min'                  => [
         'numeric' => ':attribute pitää olla vähintään :min.',
         'file'    => ':attribute pitää olla vähintään :min kilobittiä.',

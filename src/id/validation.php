@@ -53,6 +53,7 @@ return [
         'array'   => 'Isian :attribute seharusnya tidak lebih dari :max item.',
     ],
     'mimes'                => 'Isian :attribute harus dokumen berjenis : :values.',
+    'mimetypes'            => 'Isian :attribute harus dokumen berjenis : :values.',
     'min'                  => [
         'numeric' => 'Isian :attribute harus minimal :min.',
         'file'    => 'Isian :attribute harus minimal :min kilobytes.',

@@ -53,6 +53,7 @@ return [
         'array'   => ':attribute nie może mieć więcej niż :max elementów.',
     ],
     'mimes'                => ':attribute musi być plikiem typu :values.',
+    'mimetypes'            => ':attribute musi być plikiem typu :values.',
     'min'                  => [
         'numeric' => ':attribute musi być nie mniejszy od :min.',
         'file'    => ':attribute musi mieć przynajmniej :min kilobajtów.',

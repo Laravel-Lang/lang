@@ -53,6 +53,7 @@ return [
         'array'   => 'Le tableau :attribute ne peut contenir plus de :max éléments.',
     ],
     'mimes'                => 'Le champ :attribute doit être un fichier de type : :values.',
+    'mimetypes'            => 'Le champ :attribute doit être un fichier de type : :values.',
     'min'                  => [
         'numeric' => 'La valeur de :attribute doit être supérieure à :min.',
         'file'    => 'La taille du fichier de :attribute doit être supérieure à :min kilo-octets.',

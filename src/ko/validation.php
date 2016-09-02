@@ -53,6 +53,7 @@ return [
         'array'   => ':attribute은(는) 반드시 :max 아이템보다 작아야 합니다.',
     ],
     'mimes'                => ':attribute은(는) 반드시 다음의 파일 형식이어야 합니다: :values.',
+    'mimetypes'            => ':attribute은(는) 반드시 다음의 파일 형식이어야 합니다: :values.',
     'min'                  => [
         'numeric' => ':attribute은(는) 반드시 :min 보다 커야 합니다.',
         'file'    => ':attribute은(는) 반드시 :min 킬로바이트보다 커야 합니다.',

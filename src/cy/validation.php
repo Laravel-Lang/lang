@@ -81,6 +81,7 @@ return [
     'string'               => 'The :attribute must be a string.',
     'timezone'             => 'Rhaid i :attribute fod yn timezone dilys.',
     'unique'               => 'Mae :attribute eisoes yn bodoli.',
+    'uploaded'             => 'The :attribute uploading failed.',
     'url'                  => 'Nid yw fformat :attribute yn ddilys.',
 
     /*

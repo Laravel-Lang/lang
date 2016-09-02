@@ -81,6 +81,7 @@ return [
     'string'               => 'يجب أن يكون الحقل :attribute نصآ.',
     'timezone'             => 'يجب أن يكون :attribute نطاقًا زمنيًا صحيحًا',
     'unique'               => 'قيمة الحقل :attribute مُستخدمة من قبل',
+    'uploaded'             => 'The :attribute uploading failed.',
     'url'                  => 'صيغة الرابط :attribute غير صحيحة',
 
     /*

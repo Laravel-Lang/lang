@@ -81,6 +81,7 @@ return [
     'string'               => 'ข้อมูล :attribute ต้องเป็นอักขระ',
     'timezone'             => 'ข้อมูล :attribute ต้องเป็นข้อมูลเขตเวลาที่ถูกต้อง',
     'unique'               => 'ข้อมูล :attribute ไม่สามารถใช้ได้',
+    'uploaded'             => 'The :attribute uploading failed.',
     'url'                  => 'ข้อมูล :attribute ไม่ถูกต้อง',
 
     /*

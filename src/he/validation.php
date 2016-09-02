@@ -81,6 +81,7 @@ return [
     'string'               => 'שדה :attribute חייב להיות מחרוזת.',
     'timezone'             => 'שדה :attribute חייב להיות איזור תקני.',
     'unique'               => 'שדה :attribute כבר תפוס.',
+    'uploaded'             => 'The :attribute uploading failed.',
     'url'                  => 'שדה :attribute בעל פורמט שאינו תקין.',
 
     /*

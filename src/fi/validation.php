@@ -81,6 +81,7 @@ return [
     'string'               => 'The :attribute must be a string.',
     'timezone'             => 'The :attribute must be a valid zone.',
     'unique'               => ':attribute on jo valittu.',
+    'uploaded'             => 'The :attribute uploading failed.',
     'url'                  => ':attribute URL-osoite on virheellinen.',
 
     /*

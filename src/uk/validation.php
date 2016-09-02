@@ -81,6 +81,7 @@ return [
     'string'               => 'Поле :attribute повинне містити текст.',
     'timezone'             => 'Поле :attribute повинне містити коректну часову зону.',
     'unique'               => 'Таке значення поля :attribute вже існує.',
+    'uploaded'             => 'The :attribute uploading failed.',
     'url'                  => 'Формат поля :attribute неправильний.',
 
     /*

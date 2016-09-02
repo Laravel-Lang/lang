@@ -53,6 +53,7 @@ return [
         'array'   => 'Trường :attribute không được lớn hơn :max phần tử.',
     ],
     'mimes'                => 'Trường :attribute phải là một tập tin có định dạng: :values.',
+    'mimetypes'            => 'Trường :attribute phải là một tập tin có định dạng: :values.',
     'min'                  => [
         'numeric' => 'Trường :attribute phải tối thiểu là :min.',
         'file'    => 'Dung lượng tập tin trong trường :attribute phải tối thiểu :min kB.',

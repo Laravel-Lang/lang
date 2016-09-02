@@ -53,6 +53,7 @@ return [
         'array'   => ':attribute मा :max भन्दा बढी आइटम हुनुहुदैन।',
     ],
     'mimes'                => ':attribute :values प्रकारको फाइल हुनुपर्छ।',
+    'mimetypes'            => ':attribute :values प्रकारको फाइल हुनुपर्छ।',
     'min'                  => [
         'numeric' => ':attribute कम्तिमा :min हुनुपर्छ।',
         'file'    => ':attribute कम्तिमा :min kilobytesको हुनुपर्छ।',

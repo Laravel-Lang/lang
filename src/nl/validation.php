@@ -53,6 +53,7 @@ return [
         'array'   => ':attribute mag niet meer dan :max items bevatten.',
     ],
     'mimes'                => ':attribute moet een bestand zijn van het bestandstype :values.',
+    'mimetypes'            => ':attribute moet een bestand zijn van het bestandstype :values.',
     'min'                  => [
         'numeric' => ':attribute moet minimaal :min zijn.',
         'file'    => ':attribute moet minimaal :min kilobytes zijn.',

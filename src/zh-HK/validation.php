@@ -53,6 +53,7 @@ return [
         'array'   => ':attribute 不能多於 :max 個項目。',
     ],
     'mimes'                => ':attribute 必須為 :values 的檔案。',
+    'mimetypes'            => ':attribute 必須為 :values 的檔案。',
     'min'                  => [
         'numeric' => ':attribute 不能小於 :min。',
         'file'    => ':attribute 不能小於 :min kb。',

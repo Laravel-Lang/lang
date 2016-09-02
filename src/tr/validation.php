@@ -53,6 +53,7 @@ return [
         'array'   => ':attribute değeri :max adedinden az nesneye sahip olmalıdır.',
     ],
     'mimes'                => ':attribute dosya biçimi :values olmalıdır.',
+    'mimetypes'            => ':attribute dosya biçimi :values olmalıdır.',
     'min'                  => [
         'numeric' => ':attribute değeri :min değerinden büyük olmalıdır.',
         'file'    => ':attribute değeri :min kilobayt değerinden büyük olmalıdır.',

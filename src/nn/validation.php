@@ -53,6 +53,7 @@ return [
         'array'   => ':attribute skal ikkje ha fleire enn :max element.',
     ],
     'mimes'                => ':attribute skal vere ei fil av typen: :values.',
+    'mimetypes'            => ':attribute skal vere ei fil av typen: :values.',
     'min'                  => [
         'numeric' => ':attribute skal vere større enn :min.',
         'file'    => ':attribute skal vere større enn :min kilobytes.',

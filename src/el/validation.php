@@ -53,6 +53,7 @@ return [
         'array'   => 'Το πεδίο :attribute δεν μπορεί να έχει περισσότερα από :max αντικείμενα.',
     ],
     'mimes'                => 'Το πεδίο :attribute πρέπει να είναι αρχείο τύπου: :values.',
+    'mimetypes'            => 'Το πεδίο :attribute πρέπει να είναι αρχείο τύπου: :values.',
     'min'                  => [
         'numeric' => 'Το πεδίο :attribute πρέπει να είναι τουλάχιστον :min.',
         'file'    => 'Το πεδίο :attribute πρέπει να είναι τουλάχιστον :min kilobytes.',

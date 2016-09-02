@@ -53,6 +53,7 @@ return [
         'array'   => ':attribute-ის რაოდენობა არ უნდა აღემატებოდეს :max-ს.',
     ],
     'mimes'                => ':attribute უნდა იყოს შემდეგი ტიპის: :values.',
+    'mimetypes'            => ':attribute უნდა იყოს შემდეგი ტიპის: :values.',
     'min'                  => [
         'numeric' => ':attribute უნდა იყოს მინიმუმ :min.',
         'file'    => ':attribute უნდა იყოს მინიმუმ :min კილობაიტი.',

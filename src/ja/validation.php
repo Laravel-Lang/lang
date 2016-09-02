@@ -52,8 +52,9 @@ return [
         'string'  => ':attributeは、:max文字以下にしてください。',
         'array'   => ':attributeの項目は、:max個以下にしてください。',
     ],
-    'mimes' => ':attributeには、:valuesタイプのファイルを指定してください。',
-    'min'   => [
+    'mimes'                => ':attributeには、:valuesタイプのファイルを指定してください。',
+    'mimetypes'            => ':attributeには、:valuesタイプのファイルを指定してください。',
+    'min'                  => [
         'numeric' => ':attributeには、:min以上の数字を指定してください。',
         'file'    => ':attributeには、:min KB以上のファイルを指定してください。',
         'string'  => ':attributeは、:min文字以上にしてください。',

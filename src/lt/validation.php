@@ -53,6 +53,7 @@ return [
         'array'   => 'Elementų kiekis lauke :attribute negali turėti daugiau nei :max elementų.',
     ],
     'mimes'                => 'Lauko reikšmė :attribute turi būti failas vieno iš sekančių tipų: :values.',
+    'mimetypes'            => 'Lauko reikšmė :attribute turi būti failas vieno iš sekančių tipų: :values.',
     'min'                  => [
         'numeric' => 'Lauko :attribute reikšmė turi būti ne mažesnė nei :min.',
         'file'    => 'Failo dydis lauke :attribute turi būti ne mažesnis nei :min kilobaitų.',

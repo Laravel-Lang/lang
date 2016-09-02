@@ -53,6 +53,7 @@ return [
         'array'   => ':attribute ne smejo imeti več kot :max elementov.',
     ],
     'mimes'                => ':attribute mora biti datoteka tipa: :values.',
+    'mimetypes'            => ':attribute mora biti datoteka tipa: :values.',
     'min'                  => [
         'numeric' => ':attribute mora biti vsaj dolžine :min.',
         'file'    => ':attribute mora imeti vsaj :min kilobajtov.',

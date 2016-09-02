@@ -53,6 +53,7 @@ return [
         'array'   => 'Ni chai :attribute fod yn fwy na :max eitem.',
     ],
     'mimes'                => "Rhaid i :attribute fod yn ffeil o'r math: :values.",
+    'mimetypes'            => "Rhaid i :attribute fod yn ffeil o'r math: :values.",
     'min'                  => [
         'numeric' => 'Rhaid i :attribute fod o leiaf :min.',
         'file'    => 'Rhaid i :attribute fod o leiaf :min kilobytes.',

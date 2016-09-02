@@ -53,6 +53,7 @@ return [
         'array'   => ':attribute មិនត្រូវច្រើនជាងធាតុនេះ :max។',
     ],
     'mimes'                => ':attribute ត្រូវតែជាប្រភេទឯកសារ type: :values នេះ។',
+    'mimetypes'            => ':attribute ត្រូវតែជាប្រភេទឯកសារ type: :values នេះ។',
     'min'                  => [
         'numeric' => ':attribute ត្រូវតែតូចជាង :min។',
         'file'    => ':attribute ត្រូវតៃតួចជាង :min គីឡូបៃ។',

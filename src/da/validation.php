@@ -81,6 +81,7 @@ return [
     'string'               => ':attribute skal være en streng.',
     'timezone'             => ':attribute skal være en gyldig tidszone.',
     'unique'               => ':attribute er allerede taget.',
+    'uploaded'             => 'The :attribute uploading failed.',
     'url'                  => ':attribute formatet er ugyldigt.',
 
     /*

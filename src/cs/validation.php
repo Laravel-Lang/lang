@@ -81,6 +81,7 @@ return [
     'string'               => ':attribute musí být řetězec znaků.',
     'timezone'             => ':attribute musí být platná časová zóna.',
     'unique'               => ':attribute musí být unikátní.',
+    'uploaded'             => 'The :attribute uploading failed.',
     'url'                  => 'Formát :attribute je neplatný.',
 
     /*

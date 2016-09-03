@@ -81,6 +81,7 @@ return [
     'string'               => ':attribute musi być ciągiem znaków.',
     'timezone'             => ':attribute musi być prawidłową strefą czasową.',
     'unique'               => 'Taki :attribute już występuje.',
+    'uploaded'             => 'The :attribute uploading failed.',
     'url'                  => 'Format :attribute jest nieprawidłowy.',
 
     /*

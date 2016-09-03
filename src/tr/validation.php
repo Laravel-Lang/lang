@@ -81,6 +81,7 @@ return [
     'string'               => ':attribute dizge olmalıdır.',
     'timezone'             => ':attribute geçerli bir saat dilimi olmalıdır.',
     'unique'               => ':attribute daha önceden kayıt edilmiş.',
+    'uploaded'             => 'The :attribute uploading failed.',
     'url'                  => ':attribute biçimi geçersiz.',
 
     /*

@@ -81,6 +81,7 @@ return [
     'string'               => 'The :attribute must be a string.',
     'timezone'             => ':attribute depet èssere una zona bàlida.',
     'unique'               => ':attribute est istadu giai impreadu.',
+    'uploaded'             => 'The :attribute uploading failed.',
     'url'                  => ":attribute depet èssere un'URL.",
 
     /*

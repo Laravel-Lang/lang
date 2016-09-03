@@ -5,6 +5,7 @@
     * validation : dimensions
     * validation : file
     * validation : present
+    * validation : uploaded
 
  * be:
     * validation : dimensions
@@ -12,6 +13,7 @@
     * validation : file
     * validation : in_array
     * validation : present
+    * validation : uploaded
 
  * bg:
     * validation : dimensions
@@ -20,6 +22,7 @@
     * validation : in_array
     * validation : present
     * validation : required_unless
+    * validation : uploaded
 
  * bs:
     * auth : failed
@@ -31,6 +34,7 @@
     * validation : json
     * validation : present
     * validation : required_unless
+    * validation : uploaded
 
  * ca:
     * validation : dimensions
@@ -39,8 +43,10 @@
     * validation : in_array
     * validation : present
     * validation : required_unless
+    * validation : uploaded
 
  * cs:
+    * validation : uploaded
 
  * cy:
     * auth : failed
@@ -53,12 +59,15 @@
     * validation : present
     * validation : required_unless
     * validation : string
+    * validation : uploaded
 
  * da:
     * validation : dimensions
     * validation : file
+    * validation : uploaded
 
  * de:
+    * validation : uploaded
 
  * el:
     * validation : dimensions
@@ -66,10 +75,13 @@
     * validation : file
     * validation : in_array
     * validation : present
+    * validation : uploaded
 
  * es:
+    * validation : uploaded
 
  * fa:
+    * validation : uploaded
 
  * fi:
     * auth : failed
@@ -91,8 +103,10 @@
     * validation : required_without_all
     * validation : string
     * validation : timezone
+    * validation : uploaded
 
  * fr:
+    * validation : uploaded
 
  * gl:
     * validation : dimensions
@@ -100,9 +114,11 @@
     * validation : file
     * validation : in_array
     * validation : present
+    * validation : uploaded
 
  * he:
     * validation : file
+    * validation : uploaded
 
  * hr:
     * validation : dimensions
@@ -114,10 +130,13 @@
     * validation : present
     * validation : required_unless
     * validation : string
+    * validation : uploaded
 
  * hu:
+    * validation : uploaded
 
  * id:
+    * validation : uploaded
 
  * is:
     * auth : failed
@@ -134,9 +153,11 @@
     * validation : required_without
     * validation : required_without_all
     * validation : string
+    * validation : uploaded
 
  * it:
     * validation : file
+    * validation : uploaded
 
  * ja:
     * validation : dimensions
@@ -144,9 +165,11 @@
     * validation : file
     * validation : in_array
     * validation : present
+    * validation : uploaded
 
  * ka:
     * validation : file
+    * validation : uploaded
 
  * km:
     * auth : failed
@@ -161,6 +184,7 @@
     * validation : required_with_all
     * validation : string
     * validation : timezone
+    * validation : uploaded
 
  * ko:
     * validation : dimensions
@@ -171,14 +195,17 @@
     * validation : present
     * validation : required_unless
     * validation : string
+    * validation : uploaded
 
  * lt:
     * validation : file
+    * validation : uploaded
 
  * me:
     * validation : dimensions
     * validation : file
     * validation : timezone
+    * validation : uploaded
 
  * mk:
     * auth : failed
@@ -194,9 +221,11 @@
     * validation : required_without_all
     * validation : string
     * validation : timezone
+    * validation : uploaded
 
  * ms:
     * validation : file
+    * validation : uploaded
 
  * nb:
     * validation : dimensions
@@ -204,6 +233,7 @@
     * validation : file
     * validation : in_array
     * validation : present
+    * validation : uploaded
 
  * ne:
     * validation : dimensions
@@ -211,16 +241,21 @@
     * validation : file
     * validation : in_array
     * validation : present
+    * validation : uploaded
 
  * nl:
+    * validation : uploaded
 
  * nn:
     * validation : dimensions
     * validation : file
+    * validation : uploaded
 
  * pl:
+    * validation : uploaded
 
  * pt:
+    * validation : uploaded
 
  * pt-BR:
 
@@ -231,8 +266,10 @@
     * validation : in_array
     * validation : present
     * validation : required_unless
+    * validation : uploaded
 
  * ru:
+    * validation : uploaded
 
  * sc:
     * auth : failed
@@ -245,10 +282,12 @@
     * validation : present
     * validation : required_unless
     * validation : string
+    * validation : uploaded
 
  * sk:
     * validation : dimensions
     * validation : file
+    * validation : uploaded
 
  * sl:
     * auth : failed
@@ -263,6 +302,7 @@
     * validation : required_unless
     * validation : string
     * validation : timezone
+    * validation : uploaded
 
  * sq:
     * auth : failed
@@ -274,6 +314,7 @@
     * validation : json
     * validation : present
     * validation : required_unless
+    * validation : uploaded
 
  * sr:
     * validation : dimensions
@@ -283,12 +324,15 @@
     * validation : json
     * validation : present
     * validation : required_unless
+    * validation : uploaded
 
  * sv:
+    * validation : uploaded
 
  * th:
     * validation : dimensions
     * validation : file
+    * validation : uploaded
 
  * tk:
     * auth : failed
@@ -301,13 +345,16 @@
     * validation : present
     * validation : required_unless
     * validation : string
+    * validation : uploaded
 
  * tr:
     * validation : present
     * validation : required_unless
+    * validation : uploaded
 
  * uk:
     * validation : file
+    * validation : uploaded
 
  * vi:
     * auth : failed
@@ -321,9 +368,13 @@
     * validation : required_unless
     * validation : required_with_all
     * validation : string
+    * validation : uploaded
 
  * zh-CN:
+    * validation : uploaded
 
  * zh-HK:
+    * validation : uploaded
 
  * zh-TW:
+    * validation : uploaded

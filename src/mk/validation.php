@@ -81,6 +81,7 @@ return [
     'string'               => 'The :attribute must be a string.',
     'timezone'             => 'The :attribute must be a valid zone.',
     'unique'               => 'Полето :attribute веќе постои.',
+    'uploaded'             => 'The :attribute uploading failed.',
     'url'                  => 'Полето :attribute не е во валиден формат.',
 
     /*

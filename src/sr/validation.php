@@ -81,6 +81,7 @@ return [
     'string'               => 'Polje :attribute mora sadržati slova.',
     'timezone'             => 'Polje :attribute mora biti ispravna vremenska zona.',
     'unique'               => 'Polje :attribute već postoji.',
+    'uploaded'             => 'The :attribute uploading failed.',
     'url'                  => 'Format polja :attribute ne važi.',
 
     /*

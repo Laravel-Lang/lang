@@ -81,6 +81,7 @@ return [
     'string'               => ':attribute უნდა იყოს ტექსტი.',
     'timezone'             => ':attribute უნდა იყოს სასაათო სარტყელი.',
     'unique'               => 'ასეთი :attribute უკვე არსებობს.',
+    'uploaded'             => 'The :attribute uploading failed.',
     'url'                  => ':attribute უნდა იყოს URL მისამართი.',
 
     /*

@@ -81,6 +81,7 @@ return [
     'string'               => ':attribute musí byť reťazec znakov.',
     'timezone'             => ':attribute musí byť platné časové pásmo.',
     'unique'               => ':attribute už existuje.',
+    'uploaded'             => 'The :attribute uploading failed.',
     'url'                  => ':attribute musí mať formát URL.',
 
     /*

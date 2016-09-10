@@ -269,7 +269,6 @@
     * validation : uploaded
 
  * ru:
-    * validation : uploaded
 
  * sc:
     * auth : failed

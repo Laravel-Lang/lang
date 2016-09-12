@@ -133,7 +133,6 @@
     * validation : uploaded
 
  * hu:
-    * validation : uploaded
 
  * id:
     * validation : uploaded
@@ -255,7 +254,6 @@
     * validation : uploaded
 
  * pt:
-    * validation : uploaded
 
  * pt-BR:
 
@@ -370,10 +368,7 @@
     * validation : uploaded
 
  * zh-CN:
-    * validation : uploaded
 
  * zh-HK:
-    * validation : uploaded
 
  * zh-TW:
-    * validation : uploaded

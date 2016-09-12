@@ -81,7 +81,7 @@ return [
     'string'               => ':attribute 必須是一個字串。',
     'timezone'             => ':attribute 必須是一個正確的時區值。',
     'unique'               => ':attribute 已經存在。',
-    'uploaded'             => 'The :attribute uploading failed.',
+    'uploaded'             => ':attribute 上傳失敗。',
     'url'                  => ':attribute 的格式錯誤。',
 
     /*

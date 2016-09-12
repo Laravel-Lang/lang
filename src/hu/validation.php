@@ -81,7 +81,7 @@ return [
     'string'               => 'A(z) :attribute szövegnek kell legyen.',
     'timezone'             => 'A(z) :attribute nem létező időzona.',
     'unique'               => 'A(z) :attribute már foglalt.',
-    'uploaded'             => 'The :attribute uploading failed.',
+    'uploaded'             => 'A(z) :attribute feltöltése sikertelen.',
     'url'                  => 'A(z) :attribute érvénytelen link.',
 
     /*

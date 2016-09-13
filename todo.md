@@ -78,7 +78,6 @@
     * validation : uploaded
 
  * es:
-    * validation : uploaded
 
  * fa:
     * validation : uploaded

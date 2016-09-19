@@ -81,7 +81,7 @@ return [
     'string'               => 'The :attribute must be a string.',
     'timezone'             => 'Reiturinn :attribute verður að vera rétt tímabelti.',
     'unique'               => 'Reiturinn :attribute er því miður ekki leyfilegur. Það er annar eins.',
-    'uploaded'             => 'The :attribute uploading failed.',
+    'uploaded'             => 'The :attribute failed to upload.',
     'url'                  => 'Reiturinn :attribute verður að vera netslóð.',
 
     /*

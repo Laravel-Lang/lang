@@ -81,7 +81,7 @@ return [
     'string'               => ':attribute string हुनुपर्छ।',
     'timezone'             => ':attribute मान्य समय क्षेत्र हुनुपर्छ।',
     'unique'               => 'यो :attribute पहिले नै लिई सकेको छ।',
-    'uploaded'             => 'The :attribute uploading failed.',
+    'uploaded'             => 'The :attribute failed to upload.',
     'url'                  => ':attribute को ढांचा मिलेन।',
 
     /*

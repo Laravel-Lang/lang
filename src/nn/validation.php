@@ -81,7 +81,7 @@ return [
     'string'               => ':attribute må vere ein tekststreng.',
     'timezone'             => ':attribute må vere ei gyldig tidssone.',
     'unique'               => ':attribute er allereie i bruk.',
-    'uploaded'             => 'The :attribute uploading failed.',
+    'uploaded'             => 'The :attribute failed to upload.',
     'url'                  => 'Formatet på :attribute er ugyldig.',
 
     /*

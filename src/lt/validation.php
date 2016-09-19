@@ -81,7 +81,7 @@ return [
     'string'               => 'Laukas :attribute turi būti tekstinis.',
     'timezone'             => 'Lauko :attribute reikšmė turi būti galiojanti laiko zona.',
     'unique'               => 'Tokia :attribute reikšmė jau pasirinkta.',
-    'uploaded'             => 'The :attribute uploading failed.',
+    'uploaded'             => 'The :attribute failed to upload.',
     'url'                  => 'Negaliojantis lauko :attribute formatas.',
 
     /*

@@ -37,7 +37,7 @@ return [
     'dimensions'           => "Le dimensioni dell'immagine di :attribute non sono valide.",
     'distinct'             => ':attribute contiene un valore duplicato.',
     'email'                => ':attribute non è valido.',
-    'exists'               => ':attribute selezionato/a non è valido.',
+    'exists'               => ':attribute selezionato non è valido.',
     'file'                 => 'The :attribute must be a file.',
     'filled'               => 'Il campo :attribute è richiesto.',
     'image'                => ":attribute deve essere un'immagine.",
@@ -81,7 +81,7 @@ return [
     'string'               => ':attribute deve essere una stringa.',
     'timezone'             => ':attribute deve essere una zona valida.',
     'unique'               => ':attribute è stato già utilizzato.',
-    'uploaded'             => 'The :attribute uploading failed.',
+    'uploaded'             => ':attribute non è stato caricato.',
     'url'                  => 'Il formato del campo :attribute non è valido.',
 
     /*

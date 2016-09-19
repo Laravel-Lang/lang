@@ -81,7 +81,7 @@ return [
     'string'               => ':attribute moet een tekenreeks zijn.',
     'timezone'             => ':attribute moet een geldige tijdzone zijn.',
     'unique'               => ':attribute is al in gebruik.',
-    'uploaded'             => 'The :attribute uploading failed.',
+    'uploaded'             => 'The :attribute failed to upload.',
     'url'                  => ':attribute is geen geldige URL.',
 
     /*

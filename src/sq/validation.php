@@ -81,7 +81,7 @@ return [
     'string'               => ':attribute duhet të jetë varg.',
     'timezone'             => ':attribute duhet të jetë zonë e saktë.',
     'unique'               => ':attribute është marrë tashmë.',
-    'uploaded'             => 'The :attribute uploading failed.',
+    'uploaded'             => 'The :attribute failed to upload.',
     'url'                  => 'Formati i :attribute është i pasaktë.',
 
     /*

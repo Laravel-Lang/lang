@@ -81,7 +81,7 @@ return [
     'string'               => ':attribute mesti aksara.',
     'timezone'             => ':attribute mesti zon masa yang sah.',
     'unique'               => ':attribute telah wujud.',
-    'uploaded'             => 'The :attribute uploading failed.',
+    'uploaded'             => 'The :attribute failed to upload.',
     'url'                  => ':attribute format tidak sah.',
 
     /*

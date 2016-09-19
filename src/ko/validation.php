@@ -81,7 +81,7 @@ return [
     'string'               => 'The :attribute must be a string.',
     'timezone'             => ':attribute은(는) 올바른 시간대 이어야 합니다.',
     'unique'               => ':attribute은(는) 이미 사용중 입니다.',
-    'uploaded'             => 'The :attribute uploading failed.',
+    'uploaded'             => 'The :attribute failed to upload.',
     'url'                  => ':attribute 형식은 유효하지 않습니다.',
 
     /*

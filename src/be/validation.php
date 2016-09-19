@@ -82,7 +82,7 @@ return [
     'string'               => 'Поле :attribute павінна быць радком.',
     'timezone'             => 'Поле :attribute павінна быць сапраўдным гадзінным поясам.',
     'unique'               => 'Такое значэнне поля :attribute ўжо існуе.',
-    'uploaded'             => 'The :attribute uploading failed.',
+    'uploaded'             => 'The :attribute failed to upload.',
     'url'                  => 'Поле :attribute мае памылковы фармат.',
 
     /*

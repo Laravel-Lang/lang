@@ -81,7 +81,7 @@ return [
     'string'               => ':attribute debe ser unha cadea de caracteres.',
     'timezone'             => ':attribute debe ser unha zona válida.',
     'unique'               => ':attribute xa foi empregado.',
-    'uploaded'             => 'The :attribute uploading failed.',
+    'uploaded'             => 'The :attribute failed to upload.',
     'url'                  => 'O formato de :attribute é inválido.',
 
     /*

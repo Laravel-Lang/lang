@@ -81,7 +81,7 @@ return [
     'string'               => 'The :attribute must be a string.',
     'timezone'             => ':attribute dogry zolak bolmalydyr.',
     'unique'               => ':attribute önden hasaba alyndy.',
-    'uploaded'             => 'The :attribute uploading failed.',
+    'uploaded'             => 'The :attribute failed to upload.',
     'url'                  => ':attribute formaty ýalňyş.',
 
     /*

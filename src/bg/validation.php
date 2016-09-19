@@ -81,7 +81,7 @@ return [
     'string'               => 'Полето :attribute трябва да бъде знаков низ.',
     'timezone'             => 'Полето :attribute трябва да съдържа валидна часова зона.',
     'unique'               => 'Полето :attribute вече съществува.',
-    'uploaded'             => 'The :attribute uploading failed.',
+    'uploaded'             => 'The :attribute failed to upload.',
     'url'                  => 'Полето :attribute е в невалиден формат.',
 
     /*

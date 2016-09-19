@@ -81,7 +81,7 @@ return [
     'string'               => 'The :attribute must be a string.',
     'timezone'             => 'Trường :attribute phải là một múi giờ hợp lệ.',
     'unique'               => 'Trường :attribute đã có trong CSDL.',
-    'uploaded'             => 'The :attribute uploading failed.',
+    'uploaded'             => 'The :attribute failed to upload.',
     'url'                  => 'Trường :attribute không giống với định dạng một URL.',
 
     /*

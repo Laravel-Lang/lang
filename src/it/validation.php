@@ -38,7 +38,7 @@ return [
     'distinct'             => ':attribute contiene un valore duplicato.',
     'email'                => ':attribute non è valido.',
     'exists'               => ':attribute selezionato non è valido.',
-    'file'                 => 'The :attribute must be a file.',
+    'file'                 => ':attribute deve essere un file.',
     'filled'               => 'Il campo :attribute è richiesto.',
     'image'                => ":attribute deve essere un'immagine.",
     'in'                   => ':attribute selezionato non è valido.',

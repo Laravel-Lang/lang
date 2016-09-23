@@ -105,7 +105,6 @@
     * validation : uploaded
 
  * fr:
-    * validation : uploaded
 
  * gl:
     * validation : dimensions
@@ -154,8 +153,6 @@
     * validation : uploaded
 
  * it:
-    * validation : file
-    * validation : uploaded
 
  * ja:
     * validation : dimensions

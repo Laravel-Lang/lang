@@ -4,12 +4,13 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Authentication Language Lines
+    | Языковые ресурсы аутентификации
     |--------------------------------------------------------------------------
     |
-    | The following language lines are used during authentication for various
-    | messages that we need to display to the user. You are free to modify
-    | these language lines according to your application's requirements.
+    | Следующие языковые ресурсы используются вовремя аутентификации для
+    | различных сообщений которые мы должны вывести пользователю на экран.
+    | Вы можете свободно изменять эти языковые ресурсы в соответствии
+    | с требованиями вашего приложения.
     |
     */
 

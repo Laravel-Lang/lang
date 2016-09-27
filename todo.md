@@ -80,7 +80,6 @@
  * es:
 
  * fa:
-    * validation : uploaded
 
  * fi:
     * auth : failed

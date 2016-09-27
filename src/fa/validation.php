@@ -81,7 +81,7 @@ return [
     'string'               => 'فیلد :attribute باید یک String باشد.',
     'timezone'             => 'فیلد :attribute باید یک منطقه صحیح باشد.',
     'unique'               => ':attribute قبلا انتخاب شده است.',
-    'uploaded'             => 'The :attribute failed to upload.',
+    'uploaded'             => 'فایل :attribute با موفقیت آپلود نشد.',
     'url'                  => 'فرمت آدرس :attribute اشتباه است.',
 
     /*

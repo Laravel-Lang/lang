@@ -162,8 +162,6 @@
     * validation : uploaded
 
  * ka:
-    * validation : file
-    * validation : uploaded
 
  * km:
     * auth : failed

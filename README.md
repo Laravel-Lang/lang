@@ -7,10 +7,9 @@ In this repository, you can find the lang files for the framework PHP, [Laravel 
 ## Install
 
 #### Via Composer
- * For Laravel 5.* : add `"caouecs/laravel-lang": "~3.0"` in your `composer.json` in "require"
- * For Laravel 5 : add `"caouecs/laravel4-lang": "~2.0"` in your `composer.json` in "require"
- * For Laravel 4 : add `"caouecs/laravel4-lang": "~1.0"` in your `composer.json` in "require"
- * Do "composer update"
+ * For Laravel 5.* : run ```composer require caouecs/laravel-lang:~3.0``` in your project folder
+ * For Laravel 5 : run ```composer require caouecs/laravel4-lang:~2.0``` in your project folder
+ * For Laravel 4 : run ```composer require caouecs/laravel4-lang:~1.0``` in your project folder
  * Files of languages are in "vendor/caouecs/laravel-lang" directory
  * Copy the folders of languages that you want, in *app/lang* (*resources/lang* in laravel 5) folder of your application Laravel
 

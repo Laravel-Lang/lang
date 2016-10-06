@@ -2,8 +2,6 @@
 
 
  * ar:
-    * validation : dimensions
-    * validation : file
     * validation : present
     * validation : uploaded
 
@@ -46,7 +44,6 @@
     * validation : uploaded
 
  * cs:
-    * validation : uploaded
 
  * cy:
     * auth : failed

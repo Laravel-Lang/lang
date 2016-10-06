@@ -2,8 +2,6 @@
 
 
  * ar:
-    * validation : present
-    * validation : uploaded
 
  * be:
     * validation : dimensions

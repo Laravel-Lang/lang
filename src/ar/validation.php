@@ -63,7 +63,6 @@ return [
     'not_in'               => 'الحقل :attribute لاغٍ',
     'numeric'              => 'يجب على الحقل :attribute أن يكون رقمًا',
     'present'              => 'يجب تقديم الحقل :attribute',
-    'present'              => 'The :attribute field must be present.',
     'regex'                => 'صيغة الحقل :attribute .غير صحيحة',
     'required'             => 'الحقل :attribute مطلوب.',
     'required_if'          => 'الحقل :attribute مطلوب في حال ما إذا كان :other يساوي :value.',
@@ -83,7 +82,6 @@ return [
     'timezone'             => 'يجب أن يكون :attribute نطاقًا زمنيًا صحيحًا',
     'unique'               => 'قيمة الحقل :attribute مُستخدمة من قبل',
     'uploaded'             => 'فشل في تحميل الـ :attribute',
-    'uploaded'             => 'The :attribute failed to upload.',
     'url'                  => 'صيغة الرابط :attribute غير صحيحة',
 
     /*

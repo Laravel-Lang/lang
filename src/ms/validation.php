@@ -81,7 +81,7 @@ return [
     'string'               => ':attribute mesti aksara.',
     'timezone'             => ':attribute mesti zon masa yang sah.',
     'unique'               => ':attribute telah wujud.',
-    'uploaded'             => 'The :attribute failed to upload.',
+    'uploaded'             => ':attribute gagal dimuat naik.',
     'url'                  => ':attribute format tidak sah.',
 
     /*
@@ -112,23 +112,5 @@ return [
     |
      */
 
-    'attributes'           => [
-        'name'        => 'nama',
-        'email'       => 'alamat emel',
-        'password'    => 'kata laluan',
-        'dun_id'      => 'Dewan Undangan Negeri',
-        'dun'         => 'Dewan Undangan Negeri',
-        'parlimen_id' => 'parlimen',
-        'mukim_id'    => 'mukim',
-        'district'    => 'daerah',
-        'noJk'        => 'No JK',
-        'idMarris'    => 'Id Marris',
-        'road'        => 'nama jalan',
-        'typeOfWork'  => 'jenis jalan',
-        'workScope'   => 'skop kerja',
-        'cost'        => 'anggaran kos untuk kerja',
-        'length'      => 'panjang jalan',
-        'shortCode'   => 'singkatan nama daerah',
-
-    ],
+    'attributes'           => [],
 ];

@@ -38,7 +38,7 @@ return [
     'distinct'             => ':attribute adalah nilai yang berulang',
     'email'                => ':attribute tidak sah.',
     'exists'               => ':attribute tidak sah.',
-    'file'                 => 'The :attribute must be a file.',
+    'file'                 => ':attribute mesti fail yang sah.',
     'filled'               => ':attribute diperlukan.',
     'image'                => ':attribute mesti imej.',
     'in'                   => ':attribute tidak sah.',

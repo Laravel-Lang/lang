@@ -20,6 +20,8 @@
     * validation : required_unless
     * validation : uploaded
 
+ * bn:
+
  * bs:
     * auth : failed
     * auth : throttle
@@ -211,8 +213,6 @@
     * validation : uploaded
 
  * ms:
-    * validation : file
-    * validation : uploaded
 
  * nb:
     * validation : dimensions

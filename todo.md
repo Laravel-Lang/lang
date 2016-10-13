@@ -342,18 +342,6 @@
     * validation : uploaded
 
  * vi:
-    * auth : failed
-    * auth : throttle
-    * validation : dimensions
-    * validation : distinct
-    * validation : file
-    * validation : in_array
-    * validation : json
-    * validation : present
-    * validation : required_unless
-    * validation : required_with_all
-    * validation : string
-    * validation : uploaded
 
  * zh-CN:
 

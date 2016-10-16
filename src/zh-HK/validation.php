@@ -115,7 +115,7 @@ return [
     'attributes'           => [
         'name'                  => '名稱',
         'username'              => '使用者名',
-        'email'                 => '郵箱',
+        'email'                 => '電郵',
         'first_name'            => '名',
         'last_name'             => '姓',
         'password'              => '密碼',

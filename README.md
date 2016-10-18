@@ -22,6 +22,16 @@ In this repository, you can find the lang files for the framework PHP, [Laravel 
     * `master` for Laravel5 project
  * Copy the folders of languages that you want, in *app/lang* folder of your application Laravel
 
+#### Via SVN
+
+Run this in your project directory:
+
+```
+svn export https://github.com/caouecs/Laravel-lang/trunk/src/[language-code] resources/lang/[language-code]
+```
+
+Replace [language-code] by any of the languages listed [here](src).
+
 ## Usage [Laravel only]
 
 In the file *app/config/app.php*, change the value of *locale* by the short name of your language.

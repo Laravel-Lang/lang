@@ -231,7 +231,6 @@
     * validation : uploaded
 
  * nl:
-    * validation : uploaded
 
  * nn:
     * validation : dimensions

@@ -129,7 +129,6 @@
  * hu:
 
  * id:
-    * validation : uploaded
 
  * is:
     * auth : failed

@@ -145,6 +145,7 @@ Indonesian (id)
 * [Budi Irawan](https://github.com/deerawan)
 * [Ivo Idham Perdameian](https://github.com/idhamperdameian)
 * [William Notowidagdo](https://github.com/williamn)
+* [Salahuddin Hairai](https://github.com/od3n)
 
 Italian (it)
 
@@ -174,6 +175,11 @@ Macedonian (mk)
 
 * [Marko Aleksic](https://github.com/psybaron)
 * [maced0n](https://github.com/maced0n)
+
+Malay (ms)
+
+* [Salahuddin Hairai](https://github.com/od3n)
+* [Kamarool Karim](https://github.com/kamaroolkarim)
 
 Montenegrin (me)
 

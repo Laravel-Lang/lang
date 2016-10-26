@@ -14,6 +14,6 @@ return [
     */
 
     'failed'   => 'Diese Zugangsdaten wurden nicht in unserer Datenbank gefunden.',
-    'throttle' => 'Zu viele Login Versuche. Versuchen Sie es bitte in :seconds Sekunden.',
+    'throttle' => 'Zu viele Loginversuche. Versuchen Sie es bitte in :seconds Sekunden nochmal.',
 
 ];

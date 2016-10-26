@@ -36,7 +36,7 @@ return [
     'digits_between'       => ':attribute muss zwischen :min und :max Stellen haben.',
     'dimensions'           => ':attribute hat ungültige Bildabmessungen.',
     'distinct'             => 'Das Feld :attribute beinhaltet einen bereits vorhandenen Wert.',
-    'email'                => ':attribute Format ist ungültig.',
+    'email'                => ':attribute muss eine gültige E-Mail-Adresse sein.',
     'exists'               => 'Der gewählte Wert für :attribute ist ungültig.',
     'file'                 => ':attribute muss eine Datei sein.',
     'filled'               => ':attribute muss ausgefüllt sein.',
@@ -115,7 +115,7 @@ return [
     'attributes' => [
         'username' => 'Benutzername',
         'password' => 'Passwort',
-        'email'    => 'E-Mail',
+        'email'    => 'E-Mail-Adresse',
     ],
 
 ];

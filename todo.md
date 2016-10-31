@@ -35,13 +35,6 @@
     * validation : uploaded
 
  * ca:
-    * validation : dimensions
-    * validation : distinct
-    * validation : file
-    * validation : in_array
-    * validation : present
-    * validation : required_unless
-    * validation : uploaded
 
  * cs:
 
@@ -60,8 +53,6 @@
 
  * da:
     * validation : dimensions
-    * validation : file
-    * validation : uploaded
 
  * de:
     * validation : uploaded

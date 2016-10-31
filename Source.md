@@ -22,6 +22,7 @@ Bosnian (bs)
 Brazilian (pt-BR)
 
 * [c0h1b4](https://github.com/c0h1b4)
+* [Fernando Henrique Bandeira](https://github.com/fernandobandeira)
 * [Gabriel Machado](https://github.com/gmsantosxl)
 * [insign](https://github.com/insign)
 * [miguelbgouveia](https://github.com/miguelbgouveia)

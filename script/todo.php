@@ -120,7 +120,7 @@ class TodoGenerator
                         continue;
                     }
 
-                    if (!isset($current[$key][$key2])) {
+                    if (! isset($current[$key][$key2])) {
                         $this->output .= '    * '.$key.' : '.$key2." : not present\n";
                     } elseif ($current[$key][$key2] == $default[$key][$key2]) {
                         $this->output .= '    * '.$key.' : '.$key2."\n";

@@ -15,10 +15,10 @@ return [
 
     'accepted'             => ':attribute pitää hyväksyä.',
     'active_url'           => ':attribute pitää olla validi URL-osoite.',
-    'after'                => ':attribute pitää olla päiväys :date päiväyksen jälkeen.',
-    'alpha'                => ':attribute voi vain sisältää kirjaimia.',
-    'alpha_dash'           => ':attribute voi vain sisältää kirjaimia, numeroita ja viivoja.',
-    'alpha_num'            => ':attribute voi vain sisältää kirjaimia ja numeroita.',
+    'after'                => ':attribute pitää olla päiväys :date jälkeen.',
+    'alpha'                => ':attribute voi sisältää vain kirjaimia.',
+    'alpha_dash'           => ':attribute voi sisältää vain kirjaimia, numeroita ja viivoja.',
+    'alpha_num'            => ':attribute voi sisältää vain kirjaimia ja numeroita.',
     'array'                => 'The :attribute must be an array.',
     'before'               => ':attribute pitää olla päiväys ennen :date.',
     'between'              => [

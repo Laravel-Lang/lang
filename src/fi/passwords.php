@@ -14,9 +14,9 @@ return [
     */
 
     'password' => 'Salasanan on oltava vähintään kuusi merkkiä ja ottelu.',
-    'reset'    => 'Password has been reset!',
+    'reset'    => 'Salasana on resetoitu!',
     'sent'     => 'Salasanan muistutus lähetetty!',
-    'token'    => 'Tämä elpyminen poletti salasanan on väärä.',
-    'user'     => 'Emme voi löytää käyttäjälle tämän sähköpostin.',
+    'token'    => 'Resetointitunniste on viallinen.',
+    'user'     => 'Tällä sähköpostiosoitteella ei löydy käyttäjää.',
 
 ];

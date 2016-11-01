@@ -34,7 +34,7 @@ return [
     'different'            => ':attribute og :other skal være forskellige.',
     'digits'               => ':attribute skal have :digits cifre.',
     'digits_between'       => ':attribute skal have mellem :min og :max cifre.',
-    'dimensions'           => 'The :attribute has invalid image dimensions.',
+    'dimensions'           => ':attribute har forkerte billede dimensioner.',
     'distinct'             => ':attribute har en duplikatværdi.',
     'email'                => ':attribute skal være en gyldig e-mailadresse.',
     'exists'               => 'Det valgte :attribute er ugyldig.',

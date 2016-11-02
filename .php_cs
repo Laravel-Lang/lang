@@ -24,7 +24,6 @@ $fixers = [
     'line_after_namespace',
     'linefeed',
     'list_commas',
-    'logical_not_operators_with_successor_space',
     'lowercase_constants',
     'lowercase_keywords',
     'method_argument_space',

@@ -52,7 +52,6 @@
     * validation : uploaded
 
  * da:
-    * validation : dimensions
 
  * de:
     * validation : uploaded
@@ -70,26 +69,9 @@
  * fa:
 
  * fi:
-    * auth : failed
-    * auth : throttle
     * validation : array
-    * validation : digits_between
     * validation : dimensions
-    * validation : distinct
-    * validation : file
-    * validation : in_array
-    * validation : json
-    * validation : present
-    * validation : regex
-    * validation : required_if
-    * validation : required_unless
-    * validation : required_with
-    * validation : required_with_all
-    * validation : required_without
-    * validation : required_without_all
-    * validation : string
-    * validation : timezone
-    * validation : uploaded
+    * validation : exists
 
  * fr:
 

@@ -16,11 +16,13 @@ return [
     'accepted'             => ':attribute mora biti sprejet.',
     'active_url'           => ':attribute ni pravilen.',
     'after'                => ':attribute mora biti za datumom :date.',
+    'after_or_equal'       => 'The :attribute must be a date after or equal to :date.',
     'alpha'                => ':attribute lahko vsebuje samo črke.',
     'alpha_dash'           => ':attribute lahko vsebuje samo črke, številke in črtice.',
     'alpha_num'            => ':attribute lahko vsebuje samo črke in številke.',
     'array'                => ':attribute mora biti polje.',
     'before'               => ':attribute mora biti pred datumom :date.',
+    'before_or_equal'      => 'The :attribute must be a date before or equal to :date.',
     'between'              => [
         'numeric' => ':attribute mora biti med :min in :max.',
         'file'    => ':attribute mora biti med :min in :max kilobajti.',

@@ -16,11 +16,13 @@ return [
     'accepted'             => 'Polje :attribute mora biti prihvaćeno.',
     'active_url'           => 'Polje :attribute nije ispravan URL.',
     'after'                => 'Polje :attribute mora biti datum nakon :date.',
+    'after_or_equal'       => 'The :attribute must be a date after or equal to :date.',
     'alpha'                => 'Polje :attribute smije sadržavati samo slova.',
     'alpha_dash'           => 'Polje :attribute smije sadržavati samo slova, brojeve i crtice.',
     'alpha_num'            => 'Polje :attribute smije sadržavati samo slova i brojeve.',
     'array'                => 'Polje :attribute mora biti niz.',
     'before'               => 'Polje :attribute mora biti datum prije :date.',
+    'before_or_equal'      => 'The :attribute must be a date before or equal to :date.',
     'between'              => [
         'numeric' => 'Polje :attribute mora biti između :min - :max.',
         'file'    => 'Polje :attribute mora biti između :min - :max kilobajta.',

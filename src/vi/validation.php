@@ -16,11 +16,13 @@ return [
     'accepted'             => 'Trường :attribute phải được chấp nhận.',
     'active_url'           => 'Trường :attribute không phải là một URL hợp lệ.',
     'after'                => 'Trường :attribute phải là một ngày sau ngày :date.',
+    'after_or_equal'       => 'The :attribute must be a date after or equal to :date.',
     'alpha'                => 'Trường :attribute chỉ có thể chứa các chữ cái.',
     'alpha_dash'           => 'Trường :attribute chỉ có thể chứa chữ cái, số và dấu gạch ngang.',
     'alpha_num'            => 'Trường :attribute chỉ có thể chứa chữ cái và số.',
     'array'                => 'Kiểu dữ liệu của trường :attribute phải là dạng mảng.',
     'before'               => 'Trường :attribute phải là một ngày trước ngày :date.',
+    'before_or_equal'      => 'The :attribute must be a date before or equal to :date.',
     'between'              => [
         'numeric' => 'Trường :attribute phải nằm trong khoảng :min - :max.',
         'file'    => 'Dung lượng tập tin trong trường :attribute phải từ :min - :max kB.',

@@ -16,11 +16,13 @@ return [
     'accepted'             => ':attribute må aksepterast.',
     'active_url'           => ':attribute er ikkje ein gyldig URL.',
     'after'                => ':attribute må vere ein dato etter :date.',
+    'after_or_equal'       => 'The :attribute must be a date after or equal to :date.',
     'alpha'                => ':attribute må berre vere av bokstavar.',
     'alpha_dash'           => ':attribute må berre vere av bokstavar, tal og bindestrekar.',
     'alpha_num'            => ':attribute må berre vere av bokstavar og tal.',
     'array'                => ':attribute må vere ei matrise.',
     'before'               => ':attribute må vere ein dato før :date.',
+    'before_or_equal'      => 'The :attribute must be a date before or equal to :date.',
     'between'              => [
         'numeric' => ':attribute skal vere mellom :min - :max.',
         'file'    => ':attribute skal vere mellom :min - :max kilobytes.',

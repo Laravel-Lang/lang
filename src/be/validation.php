@@ -17,11 +17,13 @@ return [
     'accepted'             => 'Вы павінны прыняць :attribute.',
     'active_url'           => 'Поле :attribute утрымлівае несапраўдны URL.',
     'after'                => 'У полі :attribute павінна быць дата пасля :date.',
+    'after_or_equal'       => 'The :attribute must be a date after or equal to :date.',
     'alpha'                => 'Поле :attribute можа мець толькі літары.',
     'alpha_dash'           => 'Поле :attribute можа мець толькі літары, лічбы і злучок.',
     'alpha_num'            => 'Поле :attribute можа мець толькі літары і лічбы.',
     'array'                => 'Поле :attribute павінна быць масівам.',
     'before'               => 'У полі :attribute павінна быць дата да :date.',
+    'before_or_equal'      => 'The :attribute must be a date before or equal to :date.',
     'between'              => [
         'numeric' => 'Поле :attribute павінна быць паміж :min і :max.',
         'file'    => 'Памер файла ў поле :attribute павінен быць паміж :min і :max кілабайт.',

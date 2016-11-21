@@ -16,11 +16,13 @@ return [
     'accepted'             => ':attribute musí byť akceptovaný.',
     'active_url'           => ':attribute má neplatnú URL adresu.',
     'after'                => ':attribute musí byť dátum po :date.',
+    'after_or_equal'       => 'The :attribute must be a date after or equal to :date.',
     'alpha'                => ':attribute môže obsahovať len písmená.',
     'alpha_dash'           => ':attribute môže obsahovať len písmená, čísla a pomlčky.',
     'alpha_num'            => ':attribute môže obsahovať len písmená, čísla.',
     'array'                => ':attribute musí byť pole.',
     'before'               => ':attribute musí byť dátum pred :date.',
+    'before_or_equal'      => 'The :attribute must be a date before or equal to :date.',
     'between'              => [
         'numeric' => ':attribute musí mať rozsah :min - :max.',
         'file'    => ':attribute musí mať rozsah :min - :max kilobajtov.',

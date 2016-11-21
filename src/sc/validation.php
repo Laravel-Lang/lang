@@ -16,11 +16,13 @@ return [
     'accepted'             => ':attribute depet èssere atzetadu.',
     'active_url'           => ":attribute no est un'URL bàlidu.",
     'after'                => ':attribute depet èssere una data chi benit a pustis de :date.',
+    'after_or_equal'       => 'The :attribute must be a date after or equal to :date.',
     'alpha'                => ':attribute podet cuntènnere isceti lìteras.',
     'alpha_dash'           => ':attribute podet cuntènnere isceti lìteras, nùmeros e tratigheddos.',
     'alpha_num'            => ':attribute podet cuntènnere isceti lìteras e nùmeros.',
     'array'                => ":attribute depet èssere un'array.",
     'before'               => ':attribute depet èssere una data chi benit prima de :date.',
+    'before_or_equal'      => 'The :attribute must be a date before or equal to :date.',
     'between'              => [
         'numeric' => ':attribute depet èssere intre :min - :max.',
         'file'    => ':attribute depet èssere intre :min - :max kilobytes.',

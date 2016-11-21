@@ -16,11 +16,13 @@ return [
     'accepted'             => 'Reiturinn :attribute verður að vera samþykktur.',
     'active_url'           => 'Reiturinn :attribute er ekki leyfileg vefslóð.',
     'after'                => 'Reiturinn :attribute verður að vera dagsetning eftir :date.',
+    'after_or_equal'       => 'The :attribute must be a date after or equal to :date.',
     'alpha'                => 'Reiturinn :attribute má aðeins innihalda bókstafi.',
     'alpha_dash'           => 'Reiturinn :attribute má aðeins innihalda bókstafi, tölur og undirstikanir.',
     'alpha_num'            => 'Reiturinn :attribute má aðeins innihalda bókstafi og tölur.',
     'array'                => 'Reiturinn :attribute verður að vera fylki.',
     'before'               => 'Reiturinn :attribute verður að vera dagsetning eftir :date.',
+    'before_or_equal'      => 'The :attribute must be a date before or equal to :date.',
     'between'              => [
         'numeric' => 'Reiturinn :attribute verður að vera á milli :min - :max.',
         'file'    => 'Reiturinn :attribute verður að vera á milli :min - :max kílóbæta.',

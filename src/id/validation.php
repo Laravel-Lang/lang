@@ -16,11 +16,13 @@ return [
     'accepted'             => 'Isian :attribute harus diterima.',
     'active_url'           => 'Isian :attribute bukan URL yang valid.',
     'after'                => 'Isian :attribute harus tanggal setelah :date.',
+    'after_or_equal'       => 'The :attribute must be a date after or equal to :date.',
     'alpha'                => 'Isian :attribute hanya boleh berisi huruf.',
     'alpha_dash'           => 'Isian :attribute hanya boleh berisi huruf, angka, dan strip.',
     'alpha_num'            => 'Isian :attribute hanya boleh berisi huruf dan angka.',
     'array'                => 'Isian :attribute harus berupa sebuah array.',
     'before'               => 'Isian :attribute harus tanggal sebelum :date.',
+    'before_or_equal'      => 'The :attribute must be a date before or equal to :date.',
     'between'              => [
         'numeric' => 'Isian :attribute harus antara :min dan :max.',
         'file'    => 'Isian :attribute harus antara :min dan :max kilobytes.',

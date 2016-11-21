@@ -16,11 +16,13 @@ return [
     'accepted'             => ':attribute duhet të pranohet.',
     'active_url'           => ':attribute nuk është adresë e saktë.',
     'after'                => ':attribute duhet të jetë datë pas :date.',
+    'after_or_equal'       => 'The :attribute must be a date after or equal to :date.',
     'alpha'                => ':attribute mund të përmbajë vetëm shkronja.',
     'alpha_dash'           => ':attribute mund të përmbajë vetëm shkronja, numra, dhe viza.',
     'alpha_num'            => ':attribute mund të përmbajë vetëm shkronja dhe numra.',
     'array'                => ':attribute duhet të jetë një bashkësi (array).',
     'before'               => ':attribute duhet të jetë datë para :date.',
+    'before_or_equal'      => 'The :attribute must be a date before or equal to :date.',
     'between'              => [
         'numeric' => ':attribute duhet të jetë midis :min - :max.',
         'file'    => ':attribute duhet të jetë midis :min - :max kilobajtëve.',

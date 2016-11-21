@@ -16,11 +16,13 @@ return [
     'accepted'             => 'Kenttä :attribute tulee hyväksyä.',
     'active_url'           => 'Kentän :attribute tulee olla validi URL-osoite.',
     'after'                => 'Kentän :attribute päiväyksen tulee olla :date jälkeen.',
+    'after_or_equal'       => 'The :attribute must be a date after or equal to :date.',
     'alpha'                => 'Kenttä :attribute voi sisältää vain kirjaimia.',
     'alpha_dash'           => 'Kenttä :attribute voi sisältää vain kirjaimia, numeroita ja viivoja.',
     'alpha_num'            => 'Kenttä :attribute voi sisältää vain kirjaimia ja numeroita.',
     'array'                => 'The :attribute must be an array.',
     'before'               => 'Kentän :attribute päiväyksen tulee olla ennen :date.',
+    'before_or_equal'      => 'The :attribute must be a date before or equal to :date.',
     'between'              => [
         'numeric' => 'Kentän :attribute tulee olla välillä :min - :max.',
         'file'    => 'Tiedoston :attribute tulee olla :min - :max kilobittiä.',

@@ -16,11 +16,13 @@ return [
     'accepted'             => 'يجب قبول الحقل :attribute',
     'active_url'           => 'الحقل :attribute لا يُمثّل رابطًا صحيحًا',
     'after'                => 'يجب على الحقل :attribute أن يكون تاريخًا لاحقًا للتاريخ :date.',
+    'after_or_equal'       => 'The :attribute must be a date after or equal to :date.',
     'alpha'                => 'يجب أن لا يحتوي الحقل :attribute سوى على حروف',
     'alpha_dash'           => 'يجب أن لا يحتوي الحقل :attribute على حروف، أرقام ومطّات.',
     'alpha_num'            => 'يجب أن يحتوي :attribute على حروفٍ وأرقامٍ فقط',
     'array'                => 'يجب أن يكون الحقل :attribute ًمصفوفة',
     'before'               => 'يجب على الحقل :attribute أن يكون تاريخًا سابقًا للتاريخ :date.',
+    'before_or_equal'      => 'The :attribute must be a date before or equal to :date.',
     'between'              => [
         'numeric' => 'يجب أن تكون قيمة :attribute محصورة ما بين :min و :max.',
         'file'    => 'يجب أن يكون حجم الملف :attribute محصورًا ما بين :min و :max كيلوبايت.',

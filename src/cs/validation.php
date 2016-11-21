@@ -16,11 +16,13 @@ return [
     'accepted'             => ':attribute musí být přijat.',
     'active_url'           => ':attribute není platnou URL adresou.',
     'after'                => ':attribute musí být datum po :date.',
+    'after_or_equal'       => 'The :attribute must be a date after or equal to :date.',
     'alpha'                => ':attribute může obsahovat pouze písmena.',
     'alpha_dash'           => ':attribute může obsahovat pouze písmena, číslice, pomlčky a podtržítka. České znaky (á, é, í, ó, ú, ů, ž, š, č, ř, ď, ť, ň) nejsou podporovány.',
     'alpha_num'            => ':attribute může obsahovat pouze písmena a číslice.',
     'array'                => ':attribute musí být pole.',
     'before'               => ':attribute musí být datum před :date.',
+    'before_or_equal'      => 'The :attribute must be a date before or equal to :date.',
     'between'              => [
         'numeric' => ':attribute musí být hodnota mezi :min a :max.',
         'file'    => ':attribute musí být větší než :min a menší než :max Kilobytů.',

@@ -16,11 +16,13 @@ return [
     'accepted'             => 'Трябва да приемете :attribute.',
     'active_url'           => 'Полето :attribute не е валиден URL адрес.',
     'after'                => 'Полето :attribute трябва да бъде дата след :date.',
+    'after_or_equal'       => 'The :attribute must be a date after or equal to :date.',
     'alpha'                => 'Полето :attribute трябва да съдържа само букви.',
     'alpha_dash'           => 'Полето :attribute трябва да съдържа само букви, цифри, долна черта и тире.',
     'alpha_num'            => 'Полето :attribute трябва да съдържа само букви и цифри.',
     'array'                => 'Полето :attribute трябва да бъде масив.',
     'before'               => 'Полето :attribute трябва да бъде дата преди :date.',
+    'before_or_equal'      => 'The :attribute must be a date before or equal to :date.',
     'between'              => [
         'numeric' => 'Полето :attribute трябва да бъде между :min и :max.',
         'file'    => 'Полето :attribute трябва да бъде между :min и :max килобайта.',

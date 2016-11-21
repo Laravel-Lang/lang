@@ -16,11 +16,13 @@ return [
     'accepted'             => 'Câmpul :attribute trebuie să fie acceptat.',
     'active_url'           => 'Câmpul :attribute nu este un URL valid.',
     'after'                => 'Câmpul :attribute trebuie să fie o dată după :date.',
+    'after_or_equal'       => 'The :attribute must be a date after or equal to :date.',
     'alpha'                => 'Câmpul :attribute poate conține doar litere.',
     'alpha_dash'           => 'Câmpul :attribute poate conține doar litere, numere și cratime.',
     'alpha_num'            => 'Câmpul :attribute poate conține doar litere și numere.',
     'array'                => 'Câmpul :attribute trebuie să fie un array.',
     'before'               => 'Câmpul :attribute trebuie să fie o dată înainte de :date.',
+    'before_or_equal'      => 'The :attribute must be a date before or equal to :date.',
     'between'              => [
         'numeric' => 'Câmpul :attribute trebuie să fie între :min și :max.',
         'file'    => 'Câmpul :attribute trebuie să fie între :min și :max kiloocteți.',

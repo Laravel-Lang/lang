@@ -16,11 +16,13 @@ return [
     'accepted'             => '必須接受 :attribute。',
     'active_url'           => ':attribute 並非一個有效的網址。',
     'after'                => ':attribute 必須要在 :date 之後。',
+    'after_or_equal'       => 'The :attribute must be a date after or equal to :date.',
     'alpha'                => ':attribute 只能以字母組成。',
     'alpha_dash'           => ':attribute 只能以字母、數字及斜線組成。',
     'alpha_num'            => ':attribute 只能以字母及數字組成。',
     'array'                => ':attribute 必須為陣列。',
     'before'               => ':attribute 必須要在 :date 之前。',
+    'before_or_equal'      => 'The :attribute must be a date before or equal to :date.',
     'between'              => [
         'numeric' => ':attribute 必須介乎 :min 至 :max 之間。',
         'file'    => ':attribute 必須介乎 :min 至 :max kb 之間。 ',

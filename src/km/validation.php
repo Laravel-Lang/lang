@@ -16,11 +16,13 @@ return [
     'accepted'             => ':attribute ត្រូវបានទទួលយក។',
     'active_url'           => ':attribute មិនមែនជា URL ត្រឹមត្រូវឡើយ។',
     'after'                => ':attribute ត្រូវតែមានកាលបរិច្ឆេទបន្ទាប់ពី :date។',
+    'after_or_equal'       => 'The :attribute must be a date after or equal to :date.',
     'alpha'                => ':attribute អាចមានអក្សរតែប៉ុណ្ណោះ។',
     'alpha_dash'           => ':attribute អាចមានតែអក្សរ លេខ និងសហសញ្ញា(-)។',
     'alpha_num'            => ':attribute អាចមានតែអក្សរ និងលេខ។',
     'array'                => ':attribute ត្រូវតែជា អារេ។',
     'before'               => ':attribute ត្រូវតែមានកាលបរិច្ឆេទមុន :date។',
+    'before_or_equal'      => 'The :attribute must be a date before or equal to :date.',
     'between'              => [
         'numeric' => ':attribute ត្រូវតែមានរវាង :min និង :max។',
         'file'    => ':attribute ត្រូវតែមានរវាង :min និង :max គីឡូបៃ។',

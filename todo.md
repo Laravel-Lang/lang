@@ -281,8 +281,6 @@
     * validation : uploaded
 
  * pt:
-    * validation : after_or_equal
-    * validation : before_or_equal
 
  * pt-BR:
 

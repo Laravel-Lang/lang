@@ -102,8 +102,6 @@
     * validation : exists
 
  * fr:
-    * validation : after_or_equal
-    * validation : before_or_equal
 
  * gl:
     * validation : after_or_equal

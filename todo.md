@@ -415,13 +415,7 @@
     * validation : before_or_equal
 
  * zh-CN:
-    * validation : after_or_equal
-    * validation : before_or_equal
 
  * zh-HK:
-    * validation : after_or_equal
-    * validation : before_or_equal
 
  * zh-TW:
-    * validation : after_or_equal
-    * validation : before_or_equal

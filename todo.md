@@ -287,8 +287,6 @@
     * validation : before_or_equal
 
  * pt-BR:
-    * validation : after_or_equal
-    * validation : before_or_equal
 
  * ro:
     * validation : after_or_equal

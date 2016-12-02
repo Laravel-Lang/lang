@@ -175,8 +175,6 @@
     * validation : uploaded
 
  * ka:
-    * validation : after_or_equal
-    * validation : before_or_equal
 
  * km:
     * auth : failed

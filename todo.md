@@ -16,15 +16,9 @@
     * validation : uploaded
 
  * bg:
-    * validation : after_or_equal
-    * validation : before_or_equal
-    * validation : dimensions
-    * validation : distinct
     * validation : file
     * validation : in_array
-    * validation : present
     * validation : required_unless
-    * validation : uploaded
 
  * bn:
     * validation : after_or_equal
@@ -72,8 +66,6 @@
     * validation : before_or_equal
 
  * de:
-    * validation : after_or_equal
-    * validation : before_or_equal
     * validation : uploaded
 
  * el:
@@ -263,8 +255,6 @@
     * validation : uploaded
 
  * nl:
-    * validation : after_or_equal
-    * validation : before_or_equal
 
  * nn:
     * validation : after_or_equal

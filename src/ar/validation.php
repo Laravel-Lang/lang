@@ -59,7 +59,7 @@ return [
     'min'                  => [
         'numeric' => 'يجب أن تكون قيمة الحقل :attribute مساوية أو أكبر لـ :min.',
         'file'    => 'يجب أن يكون حجم الملف :attribute على الأقل :min كيلوبايت',
-        'string'  => 'يجب أن يكون طول النص :attribute على الأقل :min حروفٍ/حرفا',
+        'string'  => 'يجب أن يكون طول النص :attribute على الأقل :min حروفٍ/حرفًا',
         'array'   => 'يجب أن يحتوي الحقل :attribute على الأقل على :min عُنصرًا/عناصر',
     ],
     'not_in'               => 'الحقل :attribute لاغٍ',
@@ -75,10 +75,10 @@ return [
     'required_without_all' => 'الحقل :attribute إذا لم يتوفّر :values.',
     'same'                 => 'يجب أن يتطابق الحقل :attribute مع :other',
     'size'                 => [
-        'numeric' => 'يجب أن تكون قيمة :attribute أكبر من :size.',
-        'file'    => 'يجب أن يكون حجم الملف :attribute أكبر من :size كيلو بايت.',
-        'string'  => 'يجب أن يحتوي النص :attribute عن ما لا يقل عن  :size حرفٍ/أحرف.',
-        'array'   => 'يجب أن يحتوي الحقل :attribute عن ما لا يقل عن:min عنصرٍ/عناصر',
+        'numeric' => 'يجب أن تكون قيمة الحقل :attribute مساوية لـ :size',
+        'file'    => 'يجب أن يكون حجم الملف :attribute :size كيلوبايت',
+        'string'  => 'يجب أن يحتوي النص :attribute على :size حروفٍ/حرفًا بالظبط',
+        'array'  => 'يجب أن يحتوي الحقل :attribute على :size عنصرٍ/عناصر بالظبط',
     ],
     'string'               => 'يجب أن يكون الحقل :attribute نصآ.',
     'timezone'             => 'يجب أن يكون :attribute نطاقًا زمنيًا صحيحًا',

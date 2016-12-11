@@ -78,7 +78,7 @@ return [
         'numeric' => 'يجب أن تكون قيمة الحقل :attribute مساوية لـ :size',
         'file'    => 'يجب أن يكون حجم الملف :attribute :size كيلوبايت',
         'string'  => 'يجب أن يحتوي النص :attribute على :size حروفٍ/حرفًا بالظبط',
-        'array'  => 'يجب أن يحتوي الحقل :attribute على :size عنصرٍ/عناصر بالظبط',
+        'array'   => 'يجب أن يحتوي الحقل :attribute على :size عنصرٍ/عناصر بالظبط',
     ],
     'string'               => 'يجب أن يكون الحقل :attribute نصآ.',
     'timezone'             => 'يجب أن يكون :attribute نطاقًا زمنيًا صحيحًا',

@@ -79,8 +79,6 @@
     * validation : uploaded
 
  * es:
-    * validation : after_or_equal
-    * validation : before_or_equal
 
  * fa:
     * validation : after_or_equal
@@ -110,6 +108,14 @@
     * validation : before_or_equal
     * validation : file
     * validation : uploaded
+
+ * hi:
+    * validation : after_or_equal : not present
+    * validation : before_or_equal : not present
+    * validation : dimensions : not present
+    * validation : file : not present
+    * validation : mimetypes : not present
+    * validation : uploaded : not present
 
  * hr:
     * validation : after_or_equal

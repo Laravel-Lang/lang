@@ -66,7 +66,6 @@
     * validation : before_or_equal
 
  * de:
-    * validation : uploaded
 
  * el:
     * validation : after_or_equal

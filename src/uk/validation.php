@@ -16,11 +16,13 @@ return [
     'accepted'             => 'Ви повинні прийняти :attribute.',
     'active_url'           => 'Поле :attribute не є правильним URL.',
     'after'                => 'Поле :attribute має містити дату не раніше :date.',
+    'after_or_equal'       => 'The :attribute must be a date after or equal to :date.',
     'alpha'                => 'Поле :attribute має містити лише літери.',
     'alpha_dash'           => 'Поле :attribute має містити лише літери, цифри та підкреслення.',
     'alpha_num'            => 'Поле :attribute має містити лише літери та цифри.',
     'array'                => 'Поле :attribute має бути масивом.',
     'before'               => 'Поле :attribute має містити дату не пізніше :date.',
+    'before_or_equal'      => 'The :attribute must be a date before or equal to :date.',
     'between'              => [
         'numeric' => 'Поле :attribute має бути між :min та :max.',
         'file'    => 'Розмір файлу в полі :attribute має бути не менше :min та не більше :max кілобайт.',

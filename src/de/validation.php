@@ -16,11 +16,13 @@ return [
     'accepted'             => ':attribute muss akzeptiert werden.',
     'active_url'           => ':attribute ist keine gültige Internet-Adresse.',
     'after'                => ':attribute muss ein Datum nach dem :date sein.',
+    'after_or_equal'       => ':attribute muss ein Datum nach dem :date oder gleich dem :date sein.',
     'alpha'                => ':attribute darf nur aus Buchstaben bestehen.',
     'alpha_dash'           => ':attribute darf nur aus Buchstaben, Zahlen, Binde- und Unterstrichen bestehen. Umlaute (ä, ö, ü) und Eszett (ß) sind nicht erlaubt.',
     'alpha_num'            => ':attribute darf nur aus Buchstaben und Zahlen bestehen.',
     'array'                => ':attribute muss ein Array sein.',
     'before'               => ':attribute muss ein Datum vor dem :date sein.',
+    'before_or_equal'      => ':attribute muss ein Datum vor dem :date oder gleich dem :date sein.',
     'between'              => [
         'numeric' => ':attribute muss zwischen :min & :max liegen.',
         'file'    => ':attribute muss zwischen :min & :max Kilobytes groß sein.',
@@ -81,7 +83,7 @@ return [
     'string'               => ':attribute muss ein String sein.',
     'timezone'             => ':attribute muss eine gültige Zeitzone sein.',
     'unique'               => ':attribute ist schon vergeben.',
-    'uploaded'             => 'The :attribute failed to upload.',
+    'uploaded'             => 'Der :attribute konnte nicht hochgeladen werden.',
     'url'                  => 'Das Format von :attribute ist ungültig.',
 
     /*

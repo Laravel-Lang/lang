@@ -16,11 +16,13 @@ return [
     'accepted'             => ':attribute باید پذیرفته شده باشد.',
     'active_url'           => 'آدرس :attribute معتبر نیست',
     'after'                => ':attribute باید تاریخی بعد از :date باشد.',
+    'after_or_equal'       => 'The :attribute must be a date after or equal to :date.',
     'alpha'                => ':attribute باید شامل حروف الفبا باشد.',
     'alpha_dash'           => ':attribute باید شامل حروف الفبا و عدد و خظ تیره(-) باشد.',
     'alpha_num'            => ':attribute باید شامل حروف الفبا و عدد باشد.',
     'array'                => ':attribute باید شامل آرایه باشد.',
     'before'               => ':attribute باید تاریخی قبل از :date باشد.',
+    'before_or_equal'      => 'The :attribute must be a date before or equal to :date.',
     'between'              => [
         'numeric' => ':attribute باید بین :min و :max باشد.',
         'file'    => ':attribute باید بین :min و :max کیلوبایت باشد.',

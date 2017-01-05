@@ -16,11 +16,13 @@ return [
     'accepted'             => 'Полето :attribute мора да биде прифатено.',
     'active_url'           => 'Полето :attribute не е валиден URL.',
     'after'                => 'Полето :attribute мора да биде датум после :date.',
+    'after_or_equal'       => 'The :attribute must be a date after or equal to :date.',
     'alpha'                => 'Полето :attribute може да содржи само букви.',
     'alpha_dash'           => 'Полето :attribute може да содржи само букви, цифри, долна црта и тире.',
     'alpha_num'            => 'Полето :attribute може да содржи само букви и цифри.',
     'array'                => 'Полето :attribute мора да биде низа.',
     'before'               => 'Полето :attribute мора да биде датум пред :date.',
+    'before_or_equal'      => 'The :attribute must be a date before or equal to :date.',
     'between'              => [
         'numeric' => 'Полето :attribute мора да биде помеѓу :min и :max.',
         'file'    => 'Полето :attribute мора да биде помеѓу :min и :max килобајти.',

@@ -16,11 +16,13 @@ return [
     'accepted'             => 'ข้อมูล :attribute ต้องผ่านการยอมรับก่อน',
     'active_url'           => 'ข้อมูล :attribute ต้องเป็น URL เท่านั้น',
     'after'                => 'ข้อมูล :attribute ต้องเป็นวันที่หลังจาก :date.',
+    'after_or_equal'       => 'The :attribute must be a date after or equal to :date.',
     'alpha'                => 'ข้อมูล :attribute ต้องเป็นตัวอักษรภาษาอังกฤษเท่านั้น',
     'alpha_dash'           => 'ข้อมูล :attribute ต้องเป็นตัวอักษรภาษาอังกฤษ ตัวเลข และ _ เท่านั้น',
     'alpha_num'            => 'ข้อมูล :attribute ต้องเป็นตัวอักษรภาษาอังกฤษ ตัวเลข เท่านั้น',
     'array'                => 'ข้อมูล :attribute ต้องเป็น array เท่านั้น',
     'before'               => 'ข้อมูล :attribute ต้องเป็นวันที่ก่อน :date.',
+    'before_or_equal'      => 'The :attribute must be a date before or equal to :date.',
     'between'              => [
         'numeric' => 'ข้อมูล :attribute ต้องอยู่ในช่วงระหว่าง :min - :max.',
         'file'    => 'ข้อมูล :attribute ต้องอยู่ในช่วงระหว่าง :min - :max กิโลไบต์',

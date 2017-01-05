@@ -16,11 +16,13 @@ return [
     'accepted'             => ':attribute skal accepteres.',
     'active_url'           => ':attribute er ikke en gyldig URL.',
     'after'                => ':attribute skal være en dato efter :date.',
+    'after_or_equal'       => 'The :attribute must be a date after or equal to :date.',
     'alpha'                => ':attribute må kun bestå af bogstaver.',
     'alpha_dash'           => ':attribute må kun bestå af bogstaver, tal og bindestreger.',
     'alpha_num'            => ':attribute må kun bestå af bogstaver og tal.',
     'array'                => ':attribute skal være et array.',
     'before'               => ':attribute skal være en dato før :date.',
+    'before_or_equal'      => 'The :attribute must be a date before or equal to :date.',
     'between'              => [
         'numeric' => ':attribute skal være mellem :min - :max.',
         'file'    => ':attribute skal være mellem :min - :max kilobytes.',

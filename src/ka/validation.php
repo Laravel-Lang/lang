@@ -16,11 +16,13 @@ return [
     'accepted'             => ':attribute უნდა იყოს მონიშნული.',
     'active_url'           => ':attribute უნდა იყოს URL მისამართი.',
     'after'                => ':attribute უნდა იყოს :date-ის შემდეგ.',
+    'after_or_equal'       => ':attribute უნდა იყოს :date-ის შემდეგ ან მისი ტოლი.',
     'alpha'                => ':attribute უნდა შეიცავდეს მხოლოდ ასოებს.',
     'alpha_dash'           => ':attribute უნდა შეიცავდეს მხოლოდ ასოებს, რიცხვებს და ტირეებს.',
     'alpha_num'            => ':attribute უნდა შეიცავდეს მხოლოდ ასოებს და რიცხვებს.',
     'array'                => ':attribute უნდა იყოს მასივი.',
     'before'               => ':attribute უნდა იყოს :date-მდე.',
+    'before_or_equal'      => ':attribute უნდა იყოს :date-მდე ან მისი ტოლი.',
     'between'              => [
         'numeric' => ':attribute უნდა იყოს :min-სა და :max-ს შორის.',
         'file'    => ':attribute უნდა იყოს :min-სა და :max კილობაიტს შორის.',

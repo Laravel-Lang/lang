@@ -16,11 +16,13 @@ return [
     'accepted'             => ':attribute mesti diterima pakai.',
     'active_url'           => ':attribute bukan URL yang sah.',
     'after'                => ':attribute mesti tarikh selepas :date.',
+    'after_or_equal'       => 'The :attribute must be a date after or equal to :date.',
     'alpha'                => ':attribute hanya boleh mengandungi huruf.',
     'alpha_dash'           => ':attribute boleh mengandungi huruf, nombor, dan sengkang.',
     'alpha_num'            => ':attribute boleh mengandungi huruf dan nombor.',
     'array'                => ':attribute mesti jujukan.',
     'before'               => ':attribute mesti tarikh sebelum :date.',
+    'before_or_equal'      => 'The :attribute must be a date before or equal to :date.',
     'between'              => [
         'numeric' => ':attribute mesti mengandungi antara :min dan :max.',
         'file'    => ':attribute mesti mengandungi antara :min dan :max kilobait.',

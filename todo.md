@@ -135,8 +135,6 @@
     * validation : before_or_equal
 
  * id:
-    * validation : after_or_equal
-    * validation : before_or_equal
 
  * is:
     * auth : failed
@@ -158,8 +156,6 @@
     * validation : uploaded
 
  * it:
-    * validation : after_or_equal
-    * validation : before_or_equal
 
  * ja:
     * validation : after_or_equal
@@ -358,9 +354,6 @@
     * validation : uploaded
 
  * sv:
-    * validation : after_or_equal
-    * validation : before_or_equal
-    * validation : uploaded
 
  * th:
     * validation : after_or_equal

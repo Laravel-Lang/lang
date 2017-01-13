@@ -136,7 +136,7 @@ return [
         'password_confirmation' => 'confirmação da senha',
         'password'              => 'senha',
         'phone'                 => 'telefone',
-        'second'                => 'segunto',
+        'second'                => 'segundo',
         'sex'                   => 'sexo',
         'state'                 => 'estado',
         'subject'               => 'asunto',

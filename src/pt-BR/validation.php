@@ -139,7 +139,7 @@ return [
         'second'                => 'segundo',
         'sex'                   => 'sexo',
         'state'                 => 'estado',
-        'subject'               => 'asunto',
+        'subject'               => 'assunto',
         'time'                  => 'hora',
         'title'                 => 'título',
         'username'              => 'usuário',

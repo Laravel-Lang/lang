@@ -145,7 +145,7 @@ return [
         'available'             => 'beschikbaar',
         'size'                  => 'grootte',
         'subject'               => 'onderwerp',
-        'message'               => 'boodschap'
+        'message'               => 'boodschap',
     ],
 
 ];

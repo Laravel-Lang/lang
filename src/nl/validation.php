@@ -115,7 +115,37 @@ return [
     */
 
     'attributes'           => [
-        //
+        'name'                  => 'naam',
+        'username'              => 'gebruikersnaam',
+        'email'                 => 'e-mailadres',
+        'first_name'            => 'voornaam',
+        'last_name'             => 'naam',
+        'password'              => 'wachtwoord',
+        'password_confirmation' => 'wachtwoordbevestiging',
+        'city'                  => 'stad',
+        'country'               => 'land',
+        'address'               => 'adres',
+        'phone'                 => 'telefoonnummer',
+        'mobile'                => 'mobiel',
+        'age'                   => 'leeftijd',
+        'sex'                   => 'geslacht',
+        'gender'                => 'gender',
+        'day'                   => 'dag',
+        'month'                 => 'maand',
+        'year'                  => 'jaar',
+        'hour'                  => 'uur',
+        'minute'                => 'minuut',
+        'second'                => 'seconde',
+        'title'                 => 'titel',
+        'content'               => 'inhoud',
+        'description'           => 'omschrijving',
+        'excerpt'               => 'uittreksel',
+        'date'                  => 'datum',
+        'time'                  => 'tijd',
+        'available'             => 'beschikbaar',
+        'size'                  => 'grootte',
+        'subject'               => 'onderwerp',
+        'message'               => 'boodschap',
     ],
 
 ];

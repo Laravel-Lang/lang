@@ -66,7 +66,6 @@
     * validation : before_or_equal
 
  * de:
-    * validation : uploaded
 
  * el:
     * validation : after_or_equal
@@ -79,8 +78,6 @@
     * validation : uploaded
 
  * es:
-    * validation : after_or_equal
-    * validation : before_or_equal
 
  * fa:
     * validation : after_or_equal
@@ -111,6 +108,14 @@
     * validation : file
     * validation : uploaded
 
+ * hi:
+    * validation : after_or_equal : not present
+    * validation : before_or_equal : not present
+    * validation : dimensions : not present
+    * validation : file : not present
+    * validation : mimetypes : not present
+    * validation : uploaded : not present
+
  * hr:
     * validation : after_or_equal
     * validation : before_or_equal
@@ -130,8 +135,6 @@
     * validation : before_or_equal
 
  * id:
-    * validation : after_or_equal
-    * validation : before_or_equal
 
  * is:
     * auth : failed
@@ -153,8 +156,6 @@
     * validation : uploaded
 
  * it:
-    * validation : after_or_equal
-    * validation : before_or_equal
 
  * ja:
     * validation : after_or_equal
@@ -353,9 +354,6 @@
     * validation : uploaded
 
  * sv:
-    * validation : after_or_equal
-    * validation : before_or_equal
-    * validation : uploaded
 
  * th:
     * validation : after_or_equal

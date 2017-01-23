@@ -1,4 +1,10 @@
 <?php
+/*
+|--------------------------------------------------------------------------
+| en
+| ver 1.0
+|--------------------------------------------------------------------------
+*/
 
 return [
 
@@ -13,7 +19,7 @@ return [
     |
     */
 
-    'failed' => 'ये साख हमारे रिकॉर्ड से मेल नहीं खा रहे हैं।',
-    'throttle' => 'बहुत सारे लॉगिन प्रयास। :seconds सेकंड में फिर से कोशिश करें।',
+    'failed' => 'Ang credentials na ito ay hindi katugma ng nasa rekord namin.',
+    'throttle' => 'Sobrang daming pagtatangkang mag-login. Pakisubukan ulit sa :segundo segundo.',
 
 ];

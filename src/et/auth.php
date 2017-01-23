@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'failed' => 'ये साख हमारे रिकॉर्ड से मेल नहीं खा रहे हैं।',
-    'throttle' => 'बहुत सारे लॉगिन प्रयास। :seconds सेकंड में फिर से कोशिश करें।',
+    'failed' => 'Need andmed ei klapi meie kirjetega.',
+    'throttle' => 'Liiga palju sisselogimise katseid. Palun proovi uuesti :seconds sekundi pärast.',
 
 ];

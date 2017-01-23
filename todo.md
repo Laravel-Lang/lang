@@ -79,6 +79,14 @@
 
  * es:
 
+ * et:
+    * validation : after_or_equal : not present
+    * validation : before_or_equal : not present
+    * validation : dimensions : not present
+    * validation : file : not present
+    * validation : mimetypes : not present
+    * validation : uploaded : not present
+
  * fa:
     * validation : after_or_equal
     * validation : before_or_equal
@@ -168,6 +176,14 @@
     * validation : uploaded
 
  * ka:
+
+ * kk:
+    * validation : after_or_equal : not present
+    * validation : before_or_equal : not present
+    * validation : dimensions : not present
+    * validation : file : not present
+    * validation : mimetypes : not present
+    * validation : uploaded : not present
 
  * km:
     * auth : failed
@@ -355,6 +371,14 @@
 
  * sv:
 
+ * sw:
+    * validation : after_or_equal : not present
+    * validation : before_or_equal : not present
+    * validation : dimensions : not present
+    * validation : file : not present
+    * validation : mimetypes : not present
+    * validation : uploaded : not present
+
  * th:
     * validation : after_or_equal
     * validation : before_or_equal
@@ -377,6 +401,14 @@
     * validation : string
     * validation : uploaded
 
+ * tl:
+    * validation : after_or_equal : not present
+    * validation : before_or_equal : not present
+    * validation : dimensions : not present
+    * validation : file : not present
+    * validation : mimetypes : not present
+    * validation : uploaded : not present
+
  * tr:
     * validation : after_or_equal
     * validation : before_or_equal
@@ -389,6 +421,14 @@
     * validation : before_or_equal
     * validation : file
     * validation : uploaded
+
+ * ur:
+    * validation : after_or_equal : not present
+    * validation : before_or_equal : not present
+    * validation : dimensions : not present
+    * validation : file : not present
+    * validation : mimetypes : not present
+    * validation : uploaded : not present
 
  * vi:
     * validation : after_or_equal

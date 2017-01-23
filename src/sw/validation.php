@@ -109,12 +109,12 @@ return [
     */
 
     'attributes' => [
-        'test_name' => 'Jina la jaribio',
-        'test_description' => 'Maelezo ya jaribio',
-        'test_locale' => 'Lugha',
-        'image' => 'Picha',
+        'test_name'               => 'Jina la jaribio',
+        'test_description'        => 'Maelezo ya jaribio',
+        'test_locale'             => 'Lugha',
+        'image'                   => 'Picha',
         'result_text_under_image' => 'Maandishi ya matokeo chini ya picha',
-        'short_text' => 'Maandishi mafupi',
+        'short_text'              => 'Maandishi mafupi',
     ],
 
 ];

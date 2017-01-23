@@ -109,12 +109,12 @@ return [
     */
 
     'attributes' => [
-        'test_name' => 'Сынақ атауы',
-        'test_description' => 'Сынақ сипаттамасы',
-        'test_locale' => 'Тілі',
-        'image' => 'Кескін',
+        'test_name'               => 'Сынақ атауы',
+        'test_description'        => 'Сынақ сипаттамасы',
+        'test_locale'             => 'Тілі',
+        'image'                   => 'Кескін',
         'result_text_under_image' => 'Кескін астындағы нәтиже мәтіні',
-        'short_text' => 'Қысқа мәтін',
+        'short_text'              => 'Қысқа мәтін',
     ],
 
 ];

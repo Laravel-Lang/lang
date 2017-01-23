@@ -109,12 +109,12 @@ return [
     */
 
     'attributes' => [
-        'test_name' => 'Subok na pangalan',
-        'test_description' => 'Subok na paglalarawan',
-        'test_locale' => 'Wika',
-        'image' => 'Imahe',
+        'test_name'               => 'Subok na pangalan',
+        'test_description'        => 'Subok na paglalarawan',
+        'test_locale'             => 'Wika',
+        'image'                   => 'Imahe',
         'result_text_under_image' => 'Resultang teksto sa ilalim ng imahe',
-        'short_text' => 'Maikling teksto',
+        'short_text'              => 'Maikling teksto',
     ],
 
 ];

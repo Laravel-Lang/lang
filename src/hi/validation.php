@@ -109,12 +109,12 @@ return [
     */
 
     'attributes' => [
-        'test_name' => 'टेस्ट का नाम',
-        'test_description' => 'टेस्ट का विवरण',
-        'test_locale' => 'भाषा',
-        'image' => 'छवि',
+        'test_name'               => 'टेस्ट का नाम',
+        'test_description'        => 'टेस्ट का विवरण',
+        'test_locale'             => 'भाषा',
+        'image'                   => 'छवि',
         'result_text_under_image' => 'छवि के नीचे परिणाम पाठ',
-        'short_text' => 'लघु पाठ',
+        'short_text'              => 'लघु पाठ',
     ],
 
 ];

@@ -109,12 +109,12 @@ return [
     */
 
     'attributes' => [
-        'test_name' => 'Testi nimi',
-        'test_description' => 'Testi kirjeldus',
-        'test_locale' => 'Keel',
-        'image' => 'Pilt',
+        'test_name'               => 'Testi nimi',
+        'test_description'        => 'Testi kirjeldus',
+        'test_locale'             => 'Keel',
+        'image'                   => 'Pilt',
         'result_text_under_image' => 'Tulemuse tekst pildi all',
-        'short_text' => 'Lühitekst',
+        'short_text'              => 'Lühitekst',
     ],
 
 ];

@@ -15,5 +15,5 @@ return [
 
     'previous' => 'na laquo; Awali',
     'next'     => 'Ifuatayo na raquo;',
-	
+
 ];

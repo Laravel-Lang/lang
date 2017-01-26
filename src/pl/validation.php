@@ -16,13 +16,13 @@ return [
     'accepted'             => ':attribute musi zostać zaakceptowany.',
     'active_url'           => ':attribute jest nieprawidłowym adresem URL.',
     'after'                => ':attribute musi być datą późniejszą od :date.',
-    'after_or_equal'       => 'The :attribute must be a date after or equal to :date.',
+    'after_or_equal'       => ':attribute must być datą nie wcześniejszą niż :date.',
     'alpha'                => ':attribute może zawierać jedynie litery.',
     'alpha_dash'           => ':attribute może zawierać jedynie litery, cyfry i myślniki.',
     'alpha_num'            => ':attribute może zawierać jedynie litery i cyfry.',
     'array'                => ':attribute musi być tablicą.',
     'before'               => ':attribute musi być datą wcześniejszą od :date.',
-    'before_or_equal'      => 'The :attribute must be a date before or equal to :date.',
+    'before_or_equal'      => ':attribute musi być datą nie późniejszą niż :date.',
     'between'              => [
         'numeric' => ':attribute musi zawierać się w granicach :min - :max.',
         'file'    => ':attribute musi zawierać się w granicach :min - :max kilobajtów.',
@@ -83,7 +83,7 @@ return [
     'string'               => ':attribute musi być ciągiem znaków.',
     'timezone'             => ':attribute musi być prawidłową strefą czasową.',
     'unique'               => 'Taki :attribute już występuje.',
-    'uploaded'             => 'The :attribute failed to upload.',
+    'uploaded'             => 'Nie udało się wgrać pliku :attribute.',
     'url'                  => 'Format :attribute jest nieprawidłowy.',
 
     /*

@@ -64,7 +64,7 @@ return [
     ],
     'not_in'               => 'Zaznaczony :attribute jest nieprawidłowy.',
     'numeric'              => ':attribute musi być liczbą.',
-    'present'              => ':attribute musi być teraźniejszy.',
+    'present'              => 'Pole :attribute musi być obecne.',
     'regex'                => 'Format :attribute jest nieprawidłowy.',
     'required'             => 'Pole :attribute jest wymagane.',
     'required_if'          => 'Pole :attribute jest wymagane gdy :other jest :value.',

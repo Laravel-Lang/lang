@@ -129,7 +129,7 @@ return [
         'first_name'            => 'voornaam',
         'gender'                => 'geslacht',
         'hour'                  => 'uur',
-        'last_name'             => 'naam',
+        'last_name'             => 'achternaam',
         'message'               => 'boodschap',
         'minute'                => 'minuut',
         'mobile'                => 'mobiel',

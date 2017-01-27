@@ -127,7 +127,7 @@ return [
         'email'                 => 'e-mailadres',
         'excerpt'               => 'uittreksel',
         'first_name'            => 'voornaam',
-        'gender'                => 'gender',
+        'gender'                => 'geslacht',
         'hour'                  => 'uur',
         'last_name'             => 'naam',
         'message'               => 'boodschap',

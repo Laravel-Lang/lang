@@ -281,9 +281,6 @@
     * validation : uploaded
 
  * pl:
-    * validation : after_or_equal
-    * validation : before_or_equal
-    * validation : uploaded
 
  * pt:
 
@@ -378,6 +375,8 @@
     * validation : file : not present
     * validation : mimetypes : not present
     * validation : uploaded : not present
+
+ * tg:
 
  * th:
     * validation : after_or_equal

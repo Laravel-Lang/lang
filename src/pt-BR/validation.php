@@ -121,7 +121,7 @@ return [
         'city'                  => 'cidade',
         'country'               => 'país',
         'date'                  => 'data',
-        'day'                   => 'día',
+        'day'                   => 'dia',
         'description'           => 'descrição',
         'excerpt'               => 'resumo',
         'first_name'            => 'primeiro nome',

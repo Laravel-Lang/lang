@@ -317,11 +317,6 @@
     * validation : uploaded
 
  * sk:
-    * validation : after_or_equal
-    * validation : before_or_equal
-    * validation : dimensions
-    * validation : file
-    * validation : uploaded
 
  * sl:
     * auth : failed

@@ -16,13 +16,13 @@ return [
     'accepted'             => 'Ви повинні прийняти :attribute.',
     'active_url'           => 'Поле :attribute не є правильним URL.',
     'after'                => 'Поле :attribute має містити дату не раніше :date.',
-    'after_or_equal'       => 'The :attribute must be a date after or equal to :date.',
+    'after_or_equal'       => 'Поле :attribute має містити дату не раніше або дорівнюватися :date.',
     'alpha'                => 'Поле :attribute має містити лише літери.',
     'alpha_dash'           => 'Поле :attribute має містити лише літери, цифри та підкреслення.',
     'alpha_num'            => 'Поле :attribute має містити лише літери та цифри.',
     'array'                => 'Поле :attribute має бути масивом.',
     'before'               => 'Поле :attribute має містити дату не пізніше :date.',
-    'before_or_equal'      => 'The :attribute must be a date before or equal to :date.',
+    'before_or_equal'      => 'Поле :attribute має містити дату не пізніше або дорівнюватися :date.',
     'between'              => [
         'numeric' => 'Поле :attribute має бути між :min та :max.',
         'file'    => 'Розмір файлу в полі :attribute має бути не менше :min та не більше :max кілобайт.',
@@ -39,7 +39,7 @@ return [
     'dimensions'           => 'Поле :attribute містіть неприпустимі розміри зображення.',
     'distinct'             => 'Поле :attribute містить значення, яке дублюється.',
     'email'                => 'Поле :attribute повинне містити коректну електронну адресу.',
-    'file'                 => 'The :attribute must be a file.',
+    'file'                 => 'Поле :attribute має містити файл.',
     'filled'               => "Поле :attribute є обов'язковим для заповнення.",
     'exists'               => 'Вибране для :attribute значення не коректне.',
     'image'                => 'Поле :attribute має містити зображення.',
@@ -58,7 +58,7 @@ return [
     'mimetypes'            => 'Поле :attribute повинне містити файл одного з типів: :values.',
     'min'                  => [
         'numeric' => 'Поле :attribute повинне бути не більше :min.',
-        'file'    => 'Розмір Файлу в полі :attribute має бути не меншим :min кілобайт.',
+        'file'    => 'Розмір файлу в полі :attribute має бути не меншим :min кілобайт.',
         'string'  => 'Текст в полі :attribute повинен містити не менше :min символів.',
         'array'   => 'Поле :attribute повинне містити не менше :min елементів.',
     ],
@@ -83,7 +83,7 @@ return [
     'string'               => 'Поле :attribute повинне містити текст.',
     'timezone'             => 'Поле :attribute повинне містити коректну часову зону.',
     'unique'               => 'Таке значення поля :attribute вже існує.',
-    'uploaded'             => 'The :attribute failed to upload.',
+    'uploaded'             => 'Завантаження поля :attribute не вдалося.',
     'url'                  => 'Формат поля :attribute неправильний.',
 
     /*

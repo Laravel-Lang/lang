@@ -287,19 +287,8 @@
  * pt-BR:
 
  * ro:
-    * validation : after_or_equal
-    * validation : before_or_equal
-    * validation : dimensions
-    * validation : distinct
-    * validation : file
-    * validation : in_array
-    * validation : present
-    * validation : required_unless
-    * validation : uploaded
 
  * ru:
-    * validation : after_or_equal
-    * validation : before_or_equal
 
  * sc:
     * auth : failed
@@ -411,10 +400,6 @@
     * validation : uploaded
 
  * uk:
-    * validation : after_or_equal
-    * validation : before_or_equal
-    * validation : file
-    * validation : uploaded
 
  * ur:
     * validation : after_or_equal : not present

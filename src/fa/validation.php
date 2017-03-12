@@ -115,11 +115,11 @@ return [
     'attributes'           => [
         'name'                  => 'نام',
         'username'              => 'نام کاربری',
-        'email'                 => 'پست الکترونیکی',
+        'email'                 => 'ایمیل',
         'first_name'            => 'نام',
         'last_name'             => 'نام خانوادگی',
         'password'              => 'رمز عبور',
-        'password_confirmation' => 'تاییدیه ی رمز عبور',
+        'password_confirmation' => 'تاییدیه‌ی رمز عبور',
         'city'                  => 'شهر',
         'country'               => 'کشور',
         'address'               => 'نشانی',

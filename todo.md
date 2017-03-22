@@ -68,14 +68,6 @@
  * de:
 
  * el:
-    * validation : after_or_equal
-    * validation : before_or_equal
-    * validation : dimensions
-    * validation : distinct
-    * validation : file
-    * validation : in_array
-    * validation : present
-    * validation : uploaded
 
  * es:
 
@@ -166,14 +158,6 @@
  * it:
 
  * ja:
-    * validation : after_or_equal
-    * validation : before_or_equal
-    * validation : dimensions
-    * validation : distinct
-    * validation : file
-    * validation : in_array
-    * validation : present
-    * validation : uploaded
 
  * ka:
 

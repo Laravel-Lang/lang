@@ -16,11 +16,13 @@ return [
     'accepted'             => ':attribute tuleb aktsepteerida.',
     'active_url'           => ':attribute ei ole kehtiv URL.',
     'after'                => ':attribute peab olema kuupäev pärast :date.',
+    'after_or_equal'       => ':attribute peab olema kuupäev pärast või samastuma :date.',
     'alpha'                => ':attribute võib sisaldada vaid tähemärke.',
     'alpha_dash'           => ':attribute võib sisaldada vaid tähti, numbreid ja kriipse.',
     'alpha_num'            => ':attribute võib sisaldada vaid tähti ja numbreid.',
     'array'                => ':attribute peab olema massiiv.',
     'before'               => ':attribute peab olema kuupäev enne :date.',
+    'before_or_equal'      => ':attribute peab olema kuupäev enne või samastuma :date.',
     'between'              => [
         'numeric' => ':attribute peab olema :min ja :max vahel.',
         'file'    => ':attribute peab olema :min ja :max kilobaidi vahel.',
@@ -34,9 +36,11 @@ return [
     'different'            => ':attribute ja :other peavad olema erinevad.',
     'digits'               => ':attribute peab olema :digits numbrit.',
     'digits_between'       => ':attribute peab olema :min ja :max numbri vahel.',
+    'dimensions'           => ':attribute on valed pildi suurused.',
     'distinct'             => ':attribute väljal on topeltväärtus.',
     'email'                => ':attribute peab olema kehtiv e-posti aadress.',
     'exists'               => 'Valitud :attribute on vigane.',
+    'file'                 => ':attribute peab olema fail.',
     'filled'               => ':attribute väli on nõutav.',
     'image'                => ':attribute peab olema pilt.',
     'in'                   => 'Valitud :attribute on vigane.',
@@ -51,6 +55,7 @@ return [
         'array'   => ':attribute ei tohi sisaldada rohkem kui :max kirjet.',
     ],
     'mimes'                => ':attribute peab olema :values tüüpi.',
+    'mimetypes'            => ':attribute peab olema :values tüüpi.',
     'min'                  => [
         'numeric' => ':attribute peab olema vähemalt :min.',
         'file'    => ':attribute peab olema vähemalt :min kilobaiti.',
@@ -78,6 +83,7 @@ return [
     'string'               => ':attribute peab olema string.',
     'timezone'             => ':attribute peab olema kehtiv tsoon.',
     'unique'               => ':attribute on juba hõivatud.',
+    'uploaded'             => ':attribute ei õnnestunud laadida.',
     'url'                  => ':attribute vorming on vigane.',
 
     /*

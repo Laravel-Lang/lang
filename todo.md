@@ -72,12 +72,6 @@
  * es:
 
  * et:
-    * validation : after_or_equal : not present
-    * validation : before_or_equal : not present
-    * validation : dimensions : not present
-    * validation : file : not present
-    * validation : mimetypes : not present
-    * validation : uploaded : not present
 
  * fa:
     * validation : after_or_equal

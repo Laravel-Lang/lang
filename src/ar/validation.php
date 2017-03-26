@@ -120,7 +120,7 @@ return [
         'email'                 => 'البريد الالكتروني',
         'first_name'            => 'الاسم',
         'last_name'             => 'اسم العائلة',
-        'password'              => 'كلمة  المرو',
+        'password'              => 'كلمة المرور',
         'password_confirmation' => 'تأكيد كلمة المرور',
         'city'                  => 'المدينة',
         'country'               => 'الدولة',

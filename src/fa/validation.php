@@ -22,7 +22,7 @@ return [
     'alpha_num'            => ':attribute باید فقط حروف الفبا و عدد باشد.',
     'array'                => ':attribute باید آرایه باشد.',
     'before'               => ':attribute باید تاریخی قبل از :date باشد.',
-    'before_or_equal'      =>  ':attribute باید تاریخی قبل از :date، یا مطابق با آن باشد.',
+    'before_or_equal'      => ':attribute باید تاریخی قبل از :date، یا مطابق با آن باشد.',
     'between'              => [
         'numeric' => ':attribute باید بین :min و :max باشد.',
         'file'    => ':attribute باید بین :min و :max کیلوبایت باشد.',

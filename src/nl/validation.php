@@ -18,7 +18,7 @@ return [
     'after'                => ':attribute moet een datum na :date zijn.',
     'after_or_equal'       => ':attribute moet een datum na of gelijk aan :date zijn.',
     'alpha'                => ':attribute mag alleen letters bevatten.',
-    'alpha_dash'           => ':attribute mag alleen letters, nummers, liggend streepje (_) en streepjes (-) bevatten.',
+    'alpha_dash'           => ':attribute mag alleen letters, nummers, underscores (_) en streepjes (-) bevatten.',
     'alpha_num'            => ':attribute mag alleen letters en nummers bevatten.',
     'array'                => ':attribute moet geselecteerde elementen bevatten.',
     'before'               => ':attribute moet een datum voor :date zijn.',

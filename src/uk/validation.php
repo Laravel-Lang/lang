@@ -57,7 +57,7 @@ return [
     'mimes'                => 'Поле :attribute повинне містити файл одного з типів: :values.',
     'mimetypes'            => 'Поле :attribute повинне містити файл одного з типів: :values.',
     'min'                  => [
-        'numeric' => 'Поле :attribute повинне бути не більше :min.',
+        'numeric' => 'Поле :attribute повинне бути не менше :min.',
         'file'    => 'Розмір файлу в полі :attribute має бути не меншим :min кілобайт.',
         'string'  => 'Текст в полі :attribute повинен містити не менше :min символів.',
         'array'   => 'Поле :attribute повинне містити не менше :min елементів.',

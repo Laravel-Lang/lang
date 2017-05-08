@@ -22,7 +22,7 @@ return [
     'alpha_num'            => 'يجب أن يحتوي :attribute على حروفٍ وأرقامٍ فقط',
     'array'                => 'يجب أن يكون الحقل :attribute ًمصفوفة',
     'before'               => 'يجب على الحقل :attribute أن يكون تاريخًا سابقًا للتاريخ :date.',
-    'before_or_equal'      => 'The :attribute must be a date before or equal to :date.',
+    'before_or_equal'      => 'الحقل :attribute يجب أن يكون تاريخا سابقا أو مطابقا للتاريخ :date',
     'between'              => [
         'numeric' => 'يجب أن تكون قيمة :attribute بين :min و :max.',
         'file'    => 'يجب أن يكون حجم الملف :attribute بين :min و :max كيلوبايت.',

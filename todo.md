@@ -3,7 +3,6 @@
 
  * ar:
     * validation : after_or_equal
-    * validation : before_or_equal
 
  * be:
     * validation : after_or_equal
@@ -74,8 +73,6 @@
  * et:
 
  * fa:
-    * validation : after_or_equal
-    * validation : before_or_equal
 
  * fi:
     * validation : after_or_equal

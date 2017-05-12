@@ -47,6 +47,8 @@ return [
     'in_array'             => ':attribute alanı :other içinde mevcut değil.',
     'integer'              => ':attribute tamsayı olmalıdır.',
     'ip'                   => ':attribute geçerli bir IP adresi olmalıdır.',
+    'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
+    'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
     'json'                 => ':attribute geçerli bir JSON değişkeni olmalıdır.',
     'max'                  => [
         'numeric' => ':attribute değeri :max değerinden küçük olmalıdır.',

@@ -47,6 +47,8 @@ return [
     'in_array'             => 'Қиммати :attribute дар :other мавҷуд нест.',
     'integer'              => 'Қиммати :attribute бояд адади бутун бошад.',
     'ip'                   => 'Қиммати :attribute бояд суроғаи дурусти IP бошад.',
+    'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
+    'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
     'json'                 => 'Қиммати :attribute бояд сатри дурусти JSON бошад.',
     'max'                  => [
         'numeric' => 'Қиммати :attribute набояд аз :max зиёд бошад.',

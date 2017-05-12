@@ -47,6 +47,8 @@ return [
     'in_array'             => ':attribute finns inte i :other.',
     'integer'              => ':attribute måste vara en siffra.',
     'ip'                   => ':attribute måste vara en giltig IP-adress.',
+    'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
+    'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
     'json'                 => ':attribute måste vara en giltig JSON-sträng.',
     'max'                  => [
         'numeric' => ':attribute får inte vara större än :max.',

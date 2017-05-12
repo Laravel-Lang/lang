@@ -47,6 +47,8 @@ return [
     'in_array'             => ':attribute sa nenachádza v :other.',
     'integer'              => ':attribute musí byť celé číslo.',
     'ip'                   => ':attribute musí byť platná IP adresa.',
+    'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
+    'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
     'json'                 => ':attribute musí byť platný JSON reťazec.',
     'max'                  => [
         'numeric' => ':attribute nemôže byť väčší ako :max.',

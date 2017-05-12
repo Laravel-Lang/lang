@@ -47,6 +47,8 @@ return [
     'in_array'             => 'The :attribute field does not exist in :other.',
     'integer'              => ':attribute mora biti število.',
     'ip'                   => ':attribute mora biti veljaven IP naslov.',
+    'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
+    'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
     'json'                 => 'The :attribute must be a valid JSON string.',
     'max'                  => [
         'numeric' => ':attribute ne sme biti večje od :max.',

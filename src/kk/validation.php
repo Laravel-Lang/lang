@@ -43,6 +43,8 @@ return [
     'in_array'             => ' :attribute жолы :other ішінде жоқ.',
     'integer'              => ' :attribute бүтін сан болуы керек.',
     'ip'                   => ' :attribute жарамды IP мекенжайы болуы керек.',
+    'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
+    'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
     'json'                 => ' :attribute жарамды JSON тармағы болуы керек.',
     'max'                  => [
         'numeric' => ' :attribute мәні :max мәнінен көп болмауы керек.',

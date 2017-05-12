@@ -47,6 +47,8 @@ return [
     'in_array'             => ':attribute 沒有在 :other 中。',
     'integer'              => ':attribute 必須是一個整數。',
     'ip'                   => ':attribute 必須是一個有效的 IP 位址。',
+    'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
+    'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
     'json'                 => ':attribute 必須是正確的 JSON 字串。',
     'max'                  => [
         'numeric' => ':attribute 不能大於 :max。',

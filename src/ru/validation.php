@@ -48,6 +48,8 @@ return [
     'in_array'             => 'Поле :attribute не существует в :other.',
     'integer'              => 'Поле :attribute должно быть целым числом.',
     'ip'                   => 'Поле :attribute должно быть действительным IP-адресом.',
+    'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
+    'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
     'json'                 => 'Поле :attribute должно быть JSON строкой.',
     'max'                  => [
         'numeric' => 'Поле :attribute не может быть более :max.',

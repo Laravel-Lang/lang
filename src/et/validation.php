@@ -47,6 +47,8 @@ return [
     'in_array'             => ':attribute väli ei eksisteeri :other sees.',
     'integer'              => ':attribute peab olema täisarv.',
     'ip'                   => ':attribute peab olema kehtiv IP aadress.',
+    'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
+    'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
     'json'                 => ':attribute peab olema kehtiv JSON string.',
     'max'                  => [
         'numeric' => ':attribute ei tohi olla suurem kui :max.',

@@ -47,6 +47,8 @@ return [
     'in_array'             => 'Trường :attribute phải thuộc tập cho phép: :other.',
     'integer'              => 'Trường :attribute phải là một số nguyên.',
     'ip'                   => 'Trường :attribute phải là một địa chỉ IP.',
+    'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
+    'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
     'json'                 => 'Trường :attribute phải là một chuỗi JSON.',
     'max'                  => [
         'numeric' => 'Trường :attribute không được lớn hơn :max.',

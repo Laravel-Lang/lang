@@ -47,6 +47,8 @@ return [
     'in_array'             => ':other :attribute ক্ষেত্রের অস্তিত্ব নেই.',
     'integer'              => ':attribute একটি পূর্ণসংখ্যা হতে হবে.',
     'ip'                   => ':attribute একটি বৈধ  IP address হতে হবে.',
+    'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
+    'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
     'json'                 => ':attribute একটি বৈধ JSON স্ট্রিং হতে হবে.',
     'max'                  => [
         'numeric' => ':max :attribute তার চেয়ে অনেক বেশী হতে পারে না.',

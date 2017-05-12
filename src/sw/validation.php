@@ -43,6 +43,8 @@ return [
     'in_array'             => 'Sehemu ya kipengele haipo katika :nyingine.',
     'integer'              => 'Kipengele lazima kiwe nambari kamili.',
     'ip'                   => 'Kipengele lazima kiwe anuani halali ya Itifaki ya Intaneti.',
+    'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
+    'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
     'json'                 => 'Kipengele lazima kiwe kidwe halali cha Nukuu ya Java.',
     'max'                  => [
         'numeric' => 'Kipengele huenda si kikubwa kuliko :kiwango cha juu.',

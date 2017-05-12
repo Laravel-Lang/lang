@@ -47,6 +47,8 @@ return [
     'in_array'             => 'A(z) :attribute értéke nem található a(z) :other értékek között.',
     'integer'              => 'A(z) :attribute értéke szám kell, hogy legyen!',
     'ip'                   => 'A(z) :attribute érvényes IP cím kell, hogy legyen!',
+    'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
+    'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
     'json'                 => 'A(z) :attribute érvényes JSON szöveg kell, hogy legyen!',
     'max'                  => [
         'numeric' => 'A(z) :attribute értéke nem lehet nagyobb, mint :max!',

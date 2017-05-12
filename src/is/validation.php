@@ -47,6 +47,8 @@ return [
     'in_array'             => 'The :attribute field does not exist in :other.',
     'integer'              => 'Reiturinn :attribute verður að vera tala.',
     'ip'                   => 'Reiturinn :attribute verður að vera lögleg IP-tala.',
+    'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
+    'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
     'json'                 => 'The :attribute must be a valid JSON string.',
     'max'                  => [
         'numeric' => 'Reiturinn :attribute verður að innihalda færri stafi en :max.',

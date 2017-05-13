@@ -178,17 +178,6 @@
     * validation : uploaded
 
  * ko:
-    * validation : after_or_equal
-    * validation : before_or_equal
-    * validation : dimensions
-    * validation : distinct
-    * validation : file
-    * validation : in_array
-    * validation : json
-    * validation : present
-    * validation : required_unless
-    * validation : string
-    * validation : uploaded
 
  * lt:
     * validation : after_or_equal

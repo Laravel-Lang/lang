@@ -47,6 +47,8 @@ return [
     'in_array'             => ':attribute není obsažen v :other.',
     'integer'              => ':attribute musí být celé číslo.',
     'ip'                   => ':attribute musí být platnou IP adresou.',
+    'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
+    'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
     'json'                 => ':attribute musí být platný JSON řetězec.',
     'max'                  => [
         'numeric' => ':attribute musí být nižší než :max.',

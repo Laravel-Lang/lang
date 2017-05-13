@@ -47,6 +47,8 @@ return [
     'in_array'             => 'فیلد :attribute در :other وجود ندارد.',
     'integer'              => ':attribute باید عدد صحیح باشد.',
     'ip'                   => ':attribute باید IP معتبر باشد.',
+    'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
+    'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
     'json'                 => 'فیلد :attribute باید یک رشته از نوع JSON باشد.',
     'max'                  => [
         'numeric' => ':attribute نباید بزرگتر از :max باشد.',

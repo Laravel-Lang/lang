@@ -47,6 +47,8 @@ return [
     'in_array'             => 'Laukas :attribute neegzistuoja :other lauke.',
     'integer'              => 'Lauko :attribute reikšmė turi būti veikasis skaičius.',
     'ip'                   => 'Lauko :attribute reikšmė turi būti galiojantis IP adresas.',
+    'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
+    'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
     'json'                 => 'Lauko :attribute reikšmė turi būti JSON tekstas.',
     'max'                  => [
         'numeric' => 'Lauko :attribute reikšmė negali būti didesnė nei :max.',

@@ -47,6 +47,8 @@ return [
     'in_array'             => 'El camp :attribute no existeix a :other.',
     'integer'              => ':attribute ha de ser un nombre enter.',
     'ip'                   => ':attribute ha de ser una adreça IP vàlida.',
+    'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
+    'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
     'json'                 => 'El camp :attribute ha de contenir una cadena JSON vàlida.',
     'max'                  => [
         'numeric' => ':attribute no ha de ser major a :max.',

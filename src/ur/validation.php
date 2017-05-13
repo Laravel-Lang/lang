@@ -43,6 +43,8 @@ return [
     'in_array'             => ':attribute فیلڈ :other میں موجود نہیں ہے۔',
     'integer'              => ':attribute لازماً کوئی عدد ہو۔',
     'ip'                   => ':attribute لازماً قابلِ قبول آئی پی پتہ ہو۔',
+    'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
+    'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
     'json'                 => ':attribute لازماً قابلِ قبول JSON سٹرِنگ ہو۔',
     'max'                  => [
         'numeric' => ':attribute کو :max سے بڑا نہیں ہونا چاہیے۔',

@@ -43,6 +43,8 @@ return [
     'in_array'             => ':attribute फील्ड, :other में मौजूद नहीं है।',
     'integer'              => ':attribute एक पूर्णांक होना चाहिए।',
     'ip'                   => ':attribute एक मान्य IP पता होना चाहिए।',
+    'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
+    'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
     'json'                 => ':attribute एक मान्य JSON स्ट्रिंग होना चाहिए।',
     'max'                  => [
         'numeric' => ':attribute, :max से बड़ा नहीं हो सकता है।',

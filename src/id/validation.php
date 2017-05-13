@@ -47,6 +47,8 @@ return [
     'in_array'             => 'Bidang isian :attribute tidak terdapat dalam :other.',
     'integer'              => 'Isian :attribute harus merupakan bilangan bulat.',
     'ip'                   => 'Isian :attribute harus berupa alamat IP yang valid.',
+    'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
+    'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
     'json'                 => 'Isian :attribute harus berupa JSON string yang valid.',
     'max'                  => [
         'numeric' => 'Isian :attribute seharusnya tidak lebih dari :max.',

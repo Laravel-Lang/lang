@@ -195,8 +195,6 @@
     * validation : ipv6
 
  * ja:
-    * validation : ipv4
-    * validation : ipv6
 
  * ka:
     * validation : ipv4

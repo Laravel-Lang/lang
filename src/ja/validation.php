@@ -48,8 +48,8 @@ return [
     'in_array'             => ':attributeは、:otherに存在しません。',
     'integer'              => ':attributeには、整数を指定してください。',
     'ip'                   => ':attributeには、有効なIPアドレスを指定してください。',
-    'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
-    'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
+    'ipv4'                 => ':attributeはIPv4アドレスを指定してください。',
+    'ipv6'                 => ':attributeはIPv6アドレスを指定してください。',
     'json'                 => ':attributeには、有効なJSON文字列を指定してください。',
     'max'                  => [
         'numeric' => ':attributeには、:max以下の数字を指定してください。',

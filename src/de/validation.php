@@ -47,8 +47,8 @@ return [
     'in_array'             => 'Der gewählte Wert für :attribute kommt nicht in :other vor.',
     'integer'              => ':attribute muss eine ganze Zahl sein.',
     'ip'                   => ':attribute muss eine gültige IP-Adresse sein.',
-    'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
-    'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
+    'ipv4'                 => ':attribute muss eine gültige IPv4-Adresse sein.',
+    'ipv6'                 => ':attribute muss eine gültige IPv6-Adresse sein.',
     'json'                 => ':attribute muss ein gültiger JSON-String sein.',
     'max'                  => [
         'numeric' => ':attribute darf maximal :max sein.',

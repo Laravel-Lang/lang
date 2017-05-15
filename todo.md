@@ -82,10 +82,6 @@
     * validation : ipv4
     * validation : ipv6
 
- * de:
-    * validation : ipv4
-    * validation : ipv6
-
  * el:
     * validation : ipv4
     * validation : ipv6

@@ -463,10 +463,6 @@
     * validation : required_unless
     * validation : uploaded
 
- * uk:
-    * validation : ipv4
-    * validation : ipv6
-
  * ur:
     * validation : after_or_equal : not present
     * validation : before_or_equal : not present

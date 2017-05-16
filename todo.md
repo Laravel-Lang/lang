@@ -326,10 +326,6 @@
     * validation : ipv4
     * validation : ipv6
 
- * ru:
-    * validation : ipv4
-    * validation : ipv6
-
  * sc:
     * auth : failed
     * auth : throttle

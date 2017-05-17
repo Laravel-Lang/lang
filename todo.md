@@ -82,6 +82,8 @@
     * validation : ipv4
     * validation : ipv6
 
+ * de:
+
  * el:
     * validation : ipv4
     * validation : ipv6
@@ -326,6 +328,8 @@
     * validation : ipv4
     * validation : ipv6
 
+ * ru:
+
  * sc:
     * auth : failed
     * auth : throttle
@@ -458,6 +462,8 @@
     * validation : present
     * validation : required_unless
     * validation : uploaded
+
+ * uk:
 
  * ur:
     * validation : after_or_equal : not present

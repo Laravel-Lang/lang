@@ -47,8 +47,8 @@ return [
     'in_array'             => ':attribute 필드는 :other에 존재하지 않습니다.',
     'integer'              => ':attribute은(는) 정수여야 합니다.',
     'ip'                   => ':attribute은(는) 유효한 IP 주소여야 합니다.',
-    'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
-    'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
+    'ipv4'                 => ':attribute은(는) 유효한 IPv4 주소여야 합니다.',
+    'ipv6'                 => ':attribute은(는) 유효한 IPv6 주소여야 합니다.',
     'json'                 => ':attribute은(는) JSON 문자열이어야 합니다.',
     'max'                  => [
         'numeric' => ':attribute은(는) :max보다 클 수 없습니다.',

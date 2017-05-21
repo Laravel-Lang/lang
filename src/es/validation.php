@@ -100,8 +100,8 @@ return [
     */
 
     'custom'               => [
-        'attribute-name' => [
-            'rule-name' => 'custom-message',
+        'password' => [
+            'min' => 'La :attribute debe contener más de :min caracteres',
         ],
     ],
 

@@ -89,8 +89,6 @@
     * validation : ipv6
 
  * es:
-    * validation : ipv4
-    * validation : ipv6
 
  * et:
     * validation : ipv4
@@ -228,8 +226,6 @@
     * validation : uploaded
 
  * ko:
-    * validation : ipv4
-    * validation : ipv6
 
  * lt:
     * validation : after_or_equal

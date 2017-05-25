@@ -47,8 +47,8 @@ return [
     'in_array'             => ':Attribute bestaat niet in :other.',
     'integer'              => ':Attribute moet een getal zijn.',
     'ip'                   => ':Attribute moet een geldig IP-adres zijn.',
-    'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
-    'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
+    'ipv4'                 => ':Attribute moet een geldig IPv4-adres zijn.',
+    'ipv6'                 => ':Attribute moet een geldig IPv6-adres zijn.',
     'json'                 => ':Attribute moet een geldige JSON-string zijn.',
     'max'                  => [
         'numeric' => ':Attribute mag niet hoger dan :max zijn.',

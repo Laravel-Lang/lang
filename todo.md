@@ -95,8 +95,6 @@
     * validation : ipv6
 
  * fa:
-    * validation : ipv4
-    * validation : ipv6
 
  * fi:
     * validation : after_or_equal

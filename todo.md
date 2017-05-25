@@ -296,8 +296,6 @@
     * validation : uploaded
 
  * nl:
-    * validation : ipv4
-    * validation : ipv6
 
  * nn:
     * validation : after_or_equal

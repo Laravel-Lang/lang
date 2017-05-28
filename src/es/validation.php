@@ -103,6 +103,9 @@ return [
         'password' => [
             'min' => 'La :attribute debe contener más de :min caracteres',
         ],
+        'email' => [
+            'unique' => 'El :attribute ya ha sido registrado.',
+        ],
     ],
 
     /*

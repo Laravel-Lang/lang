@@ -48,7 +48,7 @@ return [
     'integer'              => ':attribute moet een getal zijn.',
     'ip'                   => ':attribute moet een geldig IP-adres zijn.',
     'ipv4'                 => ':attribute moet een geldig IPv4-adres zijn.',
-    'ipv6'                 => ':attribute moet een geldig IPv4-adres zijn.',
+    'ipv6'                 => ':attribute moet een geldig IPv6-adres zijn.',
     'json'                 => ':attribute moet een geldige JSON-string zijn.',
     'max'                  => [
         'numeric' => ':attribute mag niet hoger dan :max zijn.',

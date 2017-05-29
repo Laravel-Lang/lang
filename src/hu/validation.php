@@ -16,7 +16,7 @@ return [
     'accepted'             => 'A(z) :attribute el kell legyen fogadva!',
     'active_url'           => 'A(z) :attribute nem érvényes url!',
     'after'                => 'A(z) :attribute :date utáni dátum kell, hogy legyen!',
-    'after_or_equal'       => 'A(z) :attribute nem lehet korábbi dátum, mint :date',
+    'after_or_equal'       => 'A(z) :attribute nem lehet korábbi dátum, mint :date!',
     'alpha'                => 'A(z) :attribute kizárólag betűket tartalmazhat!',
     'alpha_dash'           => 'A(z) :attribute kizárólag betűket, számokat és kötőjeleket tartalmazhat!',
     'alpha_num'            => 'A(z) :attribute kizárólag betűket és számokat tartalmazhat!',

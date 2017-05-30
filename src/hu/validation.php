@@ -15,14 +15,14 @@ return [
 
     'accepted'             => 'A(z) :attribute el kell legyen fogadva!',
     'active_url'           => 'A(z) :attribute nem érvényes url!',
-    'after'                => 'A(z) :attribute legalább :date utáni dátum kell, hogy legyen!',
-    'after_or_equal'       => 'The :attribute must be a date after or equal to :date.',
+    'after'                => 'A(z) :attribute :date utáni dátum kell, hogy legyen!',
+    'after_or_equal'       => 'A(z) :attribute nem lehet korábbi dátum, mint :date!',
     'alpha'                => 'A(z) :attribute kizárólag betűket tartalmazhat!',
     'alpha_dash'           => 'A(z) :attribute kizárólag betűket, számokat és kötőjeleket tartalmazhat!',
     'alpha_num'            => 'A(z) :attribute kizárólag betűket és számokat tartalmazhat!',
     'array'                => 'A(z) :attribute egy tömb kell, hogy legyen!',
-    'before'               => 'A(z) :attribute legalább :date előtti dátum kell, hogy legyen!',
-    'before_or_equal'      => 'The :attribute must be a date before or equal to :date.',
+    'before'               => 'A(z) :attribute :date előtti dátum kell, hogy legyen!',
+    'before_or_equal'      => 'A(z) :attribute nem lehet későbbi dátum, mint :date!',
     'between'              => [
         'numeric' => 'A(z) :attribute :min és :max közötti szám kell, hogy legyen!',
         'file'    => 'A(z) :attribute mérete :min és :max kilobájt között kell, hogy legyen!',

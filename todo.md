@@ -154,10 +154,6 @@
     * validation : uploaded
 
  * hu:
-    * validation : after_or_equal
-    * validation : before_or_equal
-    * validation : ipv4
-    * validation : ipv6
 
  * id:
     * validation : ipv4

@@ -135,6 +135,7 @@ Hungarian (hu)
 * [lintaba](https://github.com/lintaba)
 * [Tamás Erdélyi](https://github.com/terdelyi)
 * [Zsombor Franczia](https://github.com/frzsombor)
+* [balping](https://github.com/balping)
 
 Icelandic (is)
 

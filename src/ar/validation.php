@@ -47,8 +47,8 @@ return [
     'in_array'             => 'الحقل :attribute غير موجود في :other.',
     'integer'              => 'يجب أن يكون الحقل :attribute عددًا صحيحًا',
     'ip'                   => 'يجب أن يكون الحقل :attribute عنوان IP ذا بُنية صحيحة',
-    'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
-    'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
+    'ipv4'                 => 'يجب أن يكون الحقل :attribute عنوان IPv4 ذا بنية صحيحة.',
+    'ipv6'                 => 'يجب أن يكون الحقل :attribute عنوان IPv6 ذا بنية صحيحة.',
     'json'                 => 'يجب أن يكون الحقل :attribute نصا من نوع JSON.',
     'max'                  => [
         'numeric' => 'يجب أن تكون قيمة الحقل :attribute مساوية أو أصغر لـ :max.',

@@ -16,7 +16,7 @@ return [
     'accepted'             => 'يجب قبول الحقل :attribute',
     'active_url'           => 'الحقل :attribute لا يُمثّل رابطًا صحيحًا',
     'after'                => 'يجب على الحقل :attribute أن يكون تاريخًا لاحقًا للتاريخ :date.',
-    'after_or_equal'       => 'The :attribute must be a date after or equal to :date.',
+    'after_or_equal'       => 'الحقل :attribute يجب أن يكون تاريخاً لاحقاً أو مطابقاً للتاريخ :date.',
     'alpha'                => 'يجب أن لا يحتوي الحقل :attribute سوى على حروف',
     'alpha_dash'           => 'يجب أن لا يحتوي الحقل :attribute على حروف، أرقام ومطّات.',
     'alpha_num'            => 'يجب أن يحتوي :attribute على حروفٍ وأرقامٍ فقط',

@@ -11,6 +11,7 @@ Arabic (ar)
 * [bo3bdo](https://github.com/bo3bdo)
 * [Ibrahim AshShohail](https://github.com/laheab)
 * [Ihab Shoully](https://github.com/shoully)
+* [Mohamed Sabil](https://github.com/mohamedsabil83)
 * [Youghourta Benali](https://github.com/djug)
 
 Bosnian (bs)

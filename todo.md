@@ -2,7 +2,6 @@
 
 
  * ar:
-    
 
  * be:
     * validation : after_or_equal
@@ -75,10 +74,6 @@
     * validation : uploaded
 
  * da:
-    * validation : after_or_equal
-    * validation : before_or_equal
-    * validation : ipv4
-    * validation : ipv6
 
  * de:
 
@@ -288,8 +283,6 @@
     * validation : uploaded
 
  * nl:
-    * validation : ipv4
-    * validation : ipv6
 
  * nn:
     * validation : after_or_equal

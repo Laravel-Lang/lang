@@ -457,10 +457,6 @@
     * validation : uploaded : not present
 
  * vi:
-    * validation : after_or_equal
-    * validation : before_or_equal
-    * validation : ipv4
-    * validation : ipv6
 
  * zh-CN:
 

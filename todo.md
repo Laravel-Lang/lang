@@ -23,10 +23,6 @@
     * validation : required_unless
 
  * bn:
-    * validation : after_or_equal
-    * validation : before_or_equal
-    * validation : ipv4
-    * validation : ipv6
 
  * bs:
     * auth : failed
@@ -296,12 +292,8 @@
     * validation : ipv6
 
  * pt:
-    * validation : ipv4
-    * validation : ipv6
 
  * pt-BR:
-    * validation : ipv4
-    * validation : ipv6
 
  * ro:
     * validation : ipv4
@@ -327,8 +319,6 @@
     * validation : uploaded
 
  * sk:
-    * validation : ipv4
-    * validation : ipv6
 
  * sl:
     * auth : failed

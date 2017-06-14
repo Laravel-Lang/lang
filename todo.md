@@ -174,8 +174,6 @@
     * validation : uploaded
 
  * it:
-    * validation : ipv4
-    * validation : ipv6
 
  * ja:
 

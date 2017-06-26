@@ -2,9 +2,6 @@
 
 
  * ar:
-    * validation : after_or_equal
-    * validation : ipv4
-    * validation : ipv6
 
  * be:
     * validation : after_or_equal
@@ -26,10 +23,6 @@
     * validation : required_unless
 
  * bn:
-    * validation : after_or_equal
-    * validation : before_or_equal
-    * validation : ipv4
-    * validation : ipv6
 
  * bs:
     * auth : failed
@@ -77,10 +70,6 @@
     * validation : uploaded
 
  * da:
-    * validation : after_or_equal
-    * validation : before_or_equal
-    * validation : ipv4
-    * validation : ipv6
 
  * de:
 
@@ -95,8 +84,6 @@
     * validation : ipv6
 
  * fa:
-    * validation : ipv4
-    * validation : ipv6
 
  * fi:
     * validation : after_or_equal
@@ -156,10 +143,6 @@
     * validation : uploaded
 
  * hu:
-    * validation : after_or_equal
-    * validation : before_or_equal
-    * validation : ipv4
-    * validation : ipv6
 
  * id:
     * validation : ipv4
@@ -187,8 +170,6 @@
     * validation : uploaded
 
  * it:
-    * validation : ipv4
-    * validation : ipv6
 
  * ja:
 
@@ -296,8 +277,6 @@
     * validation : uploaded
 
  * nl:
-    * validation : ipv4
-    * validation : ipv6
 
  * nn:
     * validation : after_or_equal
@@ -313,12 +292,8 @@
     * validation : ipv6
 
  * pt:
-    * validation : ipv4
-    * validation : ipv6
 
  * pt-BR:
-    * validation : ipv4
-    * validation : ipv6
 
  * ro:
     * validation : ipv4
@@ -344,8 +319,6 @@
     * validation : uploaded
 
  * sk:
-    * validation : ipv4
-    * validation : ipv6
 
  * sl:
     * auth : failed
@@ -472,10 +445,6 @@
     * validation : uploaded : not present
 
  * vi:
-    * validation : after_or_equal
-    * validation : before_or_equal
-    * validation : ipv4
-    * validation : ipv6
 
  * zh-CN:
 

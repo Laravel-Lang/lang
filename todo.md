@@ -144,10 +144,6 @@
 
  * hu:
 
- * id:
-    * validation : ipv4
-    * validation : ipv6
-
  * is:
     * auth : failed
     * auth : throttle

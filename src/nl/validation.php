@@ -138,7 +138,7 @@ return [
         'month'                 => 'maand',
         'name'                  => 'naam',
         'password'              => 'wachtwoord',
-        'password_confirmation' => 'wachtwoord bevestiging',
+        'password_confirmation' => 'wachtwoordbevestiging',
         'phone'                 => 'telefoonnummer',
         'second'                => 'seconde',
         'sex'                   => 'geslacht',

@@ -80,8 +80,6 @@
  * es:
 
  * et:
-    * validation : ipv4
-    * validation : ipv6
 
  * fa:
 

@@ -43,6 +43,8 @@ return [
     'in_array'             => 'Ang :larangan ng attribute ay wala sa :iba.',
     'integer'              => 'Ang :attribute ay dapat isang integer.',
     'ip'                   => 'Ang :attribute ay dapat isang balidong IP address.',
+    'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
+    'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
     'json'                 => 'Ang :attribute ay dapat isang balidong JSON string.',
     'max'                  => [
         'numeric' => 'Ang :attribute ay hindi maaaring higit sa  :max.',

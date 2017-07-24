@@ -47,6 +47,8 @@ return [
     'in_array'             => 'The :attribute field does not exist in :other.',
     'integer'              => ':attribute पूर्ण संख्या हुनुपर्छ।',
     'ip'                   => ':attribute मा दिइएको मान्य IP ठेगाना हुनुपर्छ।',
+    'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
+    'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
     'json'                 => ':attribute मा दिइएको मान्य JSON string हुनुपर्छ।',
     'max'                  => [
         'numeric' => ':attribute :max भन्दा बढी हुनुहुदैन।',

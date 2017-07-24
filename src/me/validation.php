@@ -47,6 +47,8 @@ return [
     'in_array'             => 'Polje :attribute ne postoji u :other.',
     'integer'              => 'Polje :attribute mora biti broj.',
     'ip'                   => 'Polje :attribute mora biti validna IP adresa.',
+    'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
+    'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
     'json'                 => 'Polje :attribute mora biti validan JSON string.',
     'max'                  => [
         'numeric' => 'Polje :attribute mora biti manje od :max.',

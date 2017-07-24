@@ -47,6 +47,8 @@ return [
     'in_array'             => 'Значення поля :attribute не міститься в :other.',
     'integer'              => 'Поле :attribute має містити ціле число.',
     'ip'                   => 'Поле :attribute має містити IP адресу.',
+    'ipv4'                 => 'Поле :attribute має містити IPv4 адресу.',
+    'ipv6'                 => 'Поле :attribute має містити IPv6 адресу.',
     'json'                 => 'Дані поля :attribute мають бути в форматі JSON.',
     'max'                  => [
         'numeric' => 'Поле :attribute має бути не більше :max.',
@@ -57,7 +59,7 @@ return [
     'mimes'                => 'Поле :attribute повинне містити файл одного з типів: :values.',
     'mimetypes'            => 'Поле :attribute повинне містити файл одного з типів: :values.',
     'min'                  => [
-        'numeric' => 'Поле :attribute повинне бути не більше :min.',
+        'numeric' => 'Поле :attribute повинне бути не менше :min.',
         'file'    => 'Розмір файлу в полі :attribute має бути не меншим :min кілобайт.',
         'string'  => 'Текст в полі :attribute повинен містити не менше :min символів.',
         'array'   => 'Поле :attribute повинне містити не менше :min елементів.',

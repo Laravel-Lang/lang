@@ -4,6 +4,12 @@
 
 In this repository, you can find the lang files for the framework PHP, [Laravel 4&5](http://www.laravel.com).
 
+## Capital letters ( WIP )
+
+Since Laravel 5.2, we can define letters capitalized. A new branch has been created to add this feature : `capital_letters`.
+
+    We need your help to update validation files.
+
 ## Install
 
 #### Via Composer

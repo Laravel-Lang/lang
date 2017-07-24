@@ -47,6 +47,8 @@ return [
     'in_array'             => 'Câmpul :attribute nu există în :other.',
     'integer'              => 'Câmpul :attribute trebuie să fie un număr întreg.',
     'ip'                   => 'Câmpul :attribute trebuie să fie o adresă IP validă.',
+    'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
+    'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
     'json'                 => 'Câmpul :attribute trebuie să fie un string JSON valid.',
     'max'                  => [
         'numeric' => 'Câmpul :attribute nu poate fi mai mare de :max.',

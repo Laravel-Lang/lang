@@ -47,6 +47,8 @@ return [
     'in_array'             => 'The :attribute field does not exist in :other.',
     'integer'              => 'Rhaid i :attribute fod yn integer.',
     'ip'                   => 'Rhaid i :attribute fod yn gyfeiriad IP dilys.',
+    'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
+    'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
     'json'                 => 'The :attribute must be a valid JSON string.',
     'max'                  => [
         'numeric' => 'Ni chai :attribute fod yn fwy na :max.',

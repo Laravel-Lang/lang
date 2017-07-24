@@ -47,6 +47,8 @@ return [
     'in_array'             => 'El campo :attribute no existe en :other.',
     'integer'              => ':attribute debe ser un número entero.',
     'ip'                   => ':attribute debe ser una dirección IP válida.',
+    'ipv4'                 => ':attribute debe ser un dirección IPv4 válida',
+    'ipv6'                 => ':attribute debe ser un dirección IPv6 válida.',
     'json'                 => 'El campo :attribute debe tener una cadena JSON válida.',
     'max'                  => [
         'numeric' => ':attribute no debe ser mayor a :max.',
@@ -98,8 +100,11 @@ return [
     */
 
     'custom'               => [
-        'attribute-name' => [
-            'rule-name' => 'custom-message',
+        'password' => [
+            'min' => 'La :attribute debe contener más de :min caracteres',
+        ],
+        'email' => [
+            'unique' => 'El :attribute ya ha sido registrado.',
         ],
     ],
 
@@ -137,6 +142,7 @@ return [
         'minute'                => 'minuto',
         'second'                => 'segundo',
         'title'                 => 'título',
+        'content'               => 'contenido',
         'body'                  => 'contenido',
         'description'           => 'descripción',
         'excerpt'               => 'extracto',

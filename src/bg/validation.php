@@ -47,6 +47,8 @@ return [
     'in_array'             => 'The :attribute field does not exist in :other.',
     'integer'              => 'Полето :attribute трябва да бъде цяло число.',
     'ip'                   => 'Полето :attribute трябва да бъде IP адрес.',
+    'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
+    'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
     'json'                 => 'Полето :attribute трябва да бъде JSON низ.',
     'max'                  => [
         'numeric' => 'Полето :attribute трябва да бъде по-малко от :max.',

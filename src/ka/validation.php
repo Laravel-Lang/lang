@@ -47,8 +47,8 @@ return [
     'in_array'             => ':attribute უნდა არსებობდეს :other-ში.',
     'integer'              => ':attribute უნდა იყოს მთელი რიცხვი.',
     'ip'                   => ':attribute უნდა იყოს IP მისამართი.',
-    'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
-    'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
+    'ipv4'                 => ':attribute უნდა იყოს IPv4 მისამართი.',
+    'ipv6'                 => ':attribute უნდა იყოს IPv6 მისამართი.',
     'json'                 => ':attribute უნდა იყოს JSON ტიპის.',
     'max'                  => [
         'numeric' => ':attribute არ უნდა აღემატებოდეს :max-ს.',

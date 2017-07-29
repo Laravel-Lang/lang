@@ -117,7 +117,7 @@ return [
     */
 
     'attributes'           => [
-        'name' => 'név',
+        'name'     => 'név',
         'password' => 'jelszó',
     ],
 

@@ -47,8 +47,8 @@ return [
     'in_array'             => 'שדה :attribute לא קיים ב:other.',
     'integer'              => 'שדה :attribute חייב להיות מספר שלם.',
     'ip'                   => 'שדה :attribute חייב להיות כתובת IP תקנית.',
-    'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
-    'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
+    'ipv4'                 => 'שדה :attribute חייב להיות כתובת IPv4 תקנית.',
+    'ipv6'                 => 'The :attribute חייב להיות כתובת IPv6 תקנית.',
     'json'                 => 'שדה :attribute חייב להיות מחרוזת JSON תקנית.',
     'max'                  => [
         'numeric' => 'שדה :attribute אינו יכול להיות גדול מ-:max.',

@@ -40,7 +40,7 @@ return [
     'distinct'             => 'שדה :attribute קיים ערך כפול.',
     'email'                => 'שדה :attribute חייב להיות כתובת אימייל תקנית.',
     'exists'               => 'בחירת ה-:attribute אינה תקפה.',
-    'file'                 => 'The :attribute must be a file.',
+    'file'                 => 'שדה :attribute חייב להיות קובץ.',
     'filled'               => 'שדה :attribute הוא חובה.',
     'image'                => 'שדה :attribute חייב להיות תמונה.',
     'in'                   => 'בחירת ה-:attribute אינה תקפה.',
@@ -85,7 +85,7 @@ return [
     'string'               => 'שדה :attribute חייב להיות מחרוזת.',
     'timezone'             => 'שדה :attribute חייב להיות איזור תקני.',
     'unique'               => 'שדה :attribute כבר תפוס.',
-    'uploaded'             => 'The :attribute failed to upload.',
+    'uploaded'             => 'שדה :attribute ארעה שגיאה בעת ההעלאה.',
     'url'                  => 'שדה :attribute בעל פורמט שאינו תקין.',
 
     /*

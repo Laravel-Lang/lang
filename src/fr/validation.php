@@ -38,7 +38,7 @@ return [
     'digits_between'       => 'Le champ :attribute doit contenir entre :min et :max chiffres.',
     'dimensions'           => "La taille de l'image :attribute n'est pas conforme.",
     'distinct'             => 'Le champ :attribute a une valeur en double.',
-    'email'                => 'Le champ :attribute doit être une adresse mèl valide.',
+    'email'                => 'Le champ :attribute doit être une adresse courriel valide.',
     'exists'               => 'Le champ :attribute sélectionné est invalide.',
     'file'                 => 'Le champ :attribute doit être un fichier.',
     'filled'               => 'Le champ :attribute est obligatoire.',
@@ -119,7 +119,7 @@ return [
     'attributes'           => [
         'name'                  => 'nom',
         'username'              => "nom d'utilisateur",
-        'email'                 => 'adresse mèl',
+        'email'                 => 'adresse courriel',
         'first_name'            => 'prénom',
         'last_name'             => 'nom',
         'password'              => 'mot de passe',

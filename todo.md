@@ -107,12 +107,6 @@
     * validation : uploaded
 
  * he:
-    * validation : after_or_equal
-    * validation : before_or_equal
-    * validation : file
-    * validation : ipv4
-    * validation : ipv6
-    * validation : uploaded
 
  * hi:
     * validation : after_or_equal : not present

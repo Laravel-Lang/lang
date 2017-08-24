@@ -48,7 +48,7 @@ return [
     'integer'              => 'שדה :attribute חייב להיות מספר שלם.',
     'ip'                   => 'שדה :attribute חייב להיות כתובת IP תקנית.',
     'ipv4'                 => 'שדה :attribute חייב להיות כתובת IPv4 תקנית.',
-    'ipv6'                 => 'The :attribute חייב להיות כתובת IPv6 תקנית.',
+    'ipv6'                 => 'שדה :attribute חייב להיות כתובת IPv6 תקנית.',
     'json'                 => 'שדה :attribute חייב להיות מחרוזת JSON תקנית.',
     'max'                  => [
         'numeric' => 'שדה :attribute אינו יכול להיות גדול מ-:max.',

@@ -136,6 +136,8 @@
 
  * hu:
 
+ * id:
+
  * is:
     * auth : failed
     * auth : throttle
@@ -161,7 +163,7 @@
 
  * ja:
 
- * ka:    
+ * ka:
 
  * kk:
     * validation : after_or_equal : not present
@@ -232,11 +234,14 @@
     * validation : timezone
     * validation : uploaded
 
+ * mn:
+    * validation : ipv4 : not present
+    * validation : ipv6 : not present
+    * validation : required_without
+    * validation : required_without_all
+    * validation : same
+
  * ms:
-    * validation : after_or_equal
-    * validation : before_or_equal
-    * validation : ipv4
-    * validation : ipv6
 
  * nb:
     * validation : after_or_equal

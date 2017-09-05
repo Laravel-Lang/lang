@@ -18,7 +18,7 @@ return [
     'after'                => ':attribute muss ein Datum nach dem :date sein.',
     'after_or_equal'       => ':attribute muss ein Datum nach dem :date oder gleich dem :date sein.',
     'alpha'                => ':attribute darf nur aus Buchstaben bestehen.',
-    'alpha_dash'           => ':attribute darf nur aus Buchstaben, Zahlen, Binde- und Unterstrichen bestehen. Umlaute (ä, ö, ü) und Eszett (ß) sind nicht erlaubt.',
+    'alpha_dash'           => ':attribute darf nur aus Buchstaben, Zahlen, Binde- und Unterstrichen bestehen.',
     'alpha_num'            => ':attribute darf nur aus Buchstaben und Zahlen bestehen.',
     'array'                => ':attribute muss ein Array sein.',
     'before'               => ':attribute muss ein Datum vor dem :date sein.',

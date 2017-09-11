@@ -41,7 +41,7 @@ return [
     'email'                => 'Isian :attribute harus berupa alamat surel yang valid.',
     'exists'               => 'Isian :attribute yang dipilih tidak valid.',
     'file'                 => 'Bidang :attribute harus berupa sebuah berkas.',
-    'filled'               => 'Bidang isian :attribute wajib diisi.',
+    'filled'               => 'Isian :attribute harus memiliki nilai.',
     'image'                => 'Isian :attribute harus berupa gambar.',
     'in'                   => 'Isian :attribute yang dipilih tidak valid.',
     'in_array'             => 'Bidang isian :attribute tidak terdapat dalam :other.',

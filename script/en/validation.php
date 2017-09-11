@@ -41,7 +41,7 @@ return [
     'email'                => 'The :attribute must be a valid email address.',
     'exists'               => 'The selected :attribute is invalid.',
     'file'                 => 'The :attribute must be a file.',
-    'filled'               => 'The :attribute field is required.',
+    'filled'               => 'The :attribute field must have a value.',
     'image'                => 'The :attribute must be an image.',
     'in'                   => 'The selected :attribute is invalid.',
     'in_array'             => 'The :attribute field does not exist in :other.',
@@ -99,7 +99,7 @@ return [
     |
     */
 
-    'custom'               => [
+    'custom' => [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
@@ -116,6 +116,6 @@ return [
     |
     */
 
-    'attributes'           => [],
+    'attributes' => [],
 
 ];

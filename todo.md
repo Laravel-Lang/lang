@@ -124,7 +124,6 @@
     * validation : dimensions
     * validation : distinct
     * validation : file
-    * validation : filled
     * validation : in_array
     * validation : ipv4
     * validation : ipv6
@@ -319,7 +318,6 @@
     * validation : dimensions
     * validation : distinct
     * validation : file
-    * validation : filled
     * validation : in_array
     * validation : ipv4
     * validation : ipv6
@@ -415,13 +413,7 @@
     * validation : uploaded : not present
 
  * tr:
-    * validation : after_or_equal
-    * validation : before_or_equal
-    * validation : ipv4
-    * validation : ipv6
-    * validation : present
     * validation : required_unless
-    * validation : uploaded
 
  * uk:
 

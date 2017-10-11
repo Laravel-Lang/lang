@@ -142,6 +142,7 @@ return [
         'sex'                   => 'sexo',
         'state'                 => 'estado',
         'subject'               => 'assunto',
+        'text'                  => 'texto',
         'time'                  => 'hora',
         'title'                 => 'título',
         'username'              => 'usuário',

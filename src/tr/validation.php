@@ -70,7 +70,7 @@ return [
     'regex'                => ':attribute biçimi geçersiz.',
     'required'             => ':attribute alanı gereklidir.',
     'required_if'          => ':attribute alanı, :other :value değerine sahip olduğunda zorunludur.',
-    'required_unless'      => 'The :attribute field is required unless :other is in :values.',
+    'required_unless'      => ':attribute alanı, :other alanı :value değerlerinden birine sahip olmadığında zorunludur.',
     'required_with'        => ':attribute alanı :values varken zorunludur.',
     'required_with_all'    => ':attribute alanı herhangi bir :values değeri varken zorunludur.',
     'required_without'     => ':attribute alanı :values yokken zorunludur.',

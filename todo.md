@@ -308,22 +308,6 @@
  * sk:
 
  * sl:
-    * auth : failed
-    * auth : throttle
-    * validation : after_or_equal
-    * validation : before_or_equal
-    * validation : dimensions
-    * validation : distinct
-    * validation : file
-    * validation : in_array
-    * validation : ipv4
-    * validation : ipv6
-    * validation : json
-    * validation : present
-    * validation : required_unless
-    * validation : string
-    * validation : timezone
-    * validation : uploaded
 
  * sq:
     * auth : failed
@@ -410,7 +394,6 @@
     * validation : uploaded : not present
 
  * tr:
-    * validation : required_unless
 
  * uk:
 

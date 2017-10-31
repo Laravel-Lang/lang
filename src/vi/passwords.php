@@ -13,9 +13,9 @@ return [
     |
     */
 
-    'password' => 'Mật khẩu phải gồm 6 ký tự và khớp với phần xác nhận.',
-    'reset'    => 'Mật khẩu mới đã được cập nhật!',
-    'sent'     => 'Hướng dẫn cấp lại mật khẩu đã được gửi!',
+    'password' => 'Mật khẩu phải chứa ít nhất 6 ký tự và khớp với phần xác nhận.',
+    'reset'    => 'Mật khẩu của bạn đã được cập nhật!',
+    'sent'     => 'Chúng tôi đã gữi link lấy lại mật khẩu đến email của bạn',
     'token'    => 'Mã khôi phục mật khẩu không hợp lệ.',
     'user'     => 'Không tìm thấy người dùng với địa chỉ email này.',
 

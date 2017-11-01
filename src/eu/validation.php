@@ -74,7 +74,7 @@ return [
     'required_with'        => ':attribute derrigorrezkoa da :values bertan dagoenean.',
     'required_with_all'    => ':attribute derrigorrezkoa da :values bertan dagoenean.',
     'required_without'     => ':attribute derrigorrezkoa da :values bertan ez dagoenean.',
-    'required_without_all' => ':attribute derrigorrezkoa da :values-ik ez dagoenean.',
+    'required_without_all' => ':attribute derrigorrezkoa da :values bertan ez dagoenean.',
     'same'                 => ':attribute eta :other bat etorri behar dira.',
     'size'                 => [
         'numeric' => ':attribute-k :size-eko tamaina izan behar du.',

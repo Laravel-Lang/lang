@@ -38,7 +38,7 @@ return [
     'dimensions'           => 'الـ :attribute يحتوي على أبعاد صورة غير صالحة.',
     'distinct'             => 'للحقل :attribute قيمة مُكرّرة.',
     'email'                => 'يجب أن يكون :attribute عنوان بريد إلكتروني صحيح البُنية',
-    'exists'               => ':attribute لاغٍ',
+    'exists'               => 'القيمة المحددة :attribute غير موجودة',
     'file'                 => 'الـ :attribute يجب أن يكون ملفا.',
     'filled'               => ':attribute إجباري',
     'image'                => 'يجب أن يكون :attribute صورةً',

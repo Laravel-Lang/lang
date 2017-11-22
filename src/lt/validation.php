@@ -45,7 +45,7 @@ return [
     'image'                => 'Lauko :attribute reikšmė turi būti paveikslėlis.',
     'in'                   => 'Pasirinkta negaliojanti :attribute reikšmė.',
     'in_array'             => 'Laukas :attribute neegzistuoja :other lauke.',
-    'integer'              => 'Lauko :attribute reikšmė turi būti veikasis skaičius.',
+    'integer'              => 'Lauko :attribute reikšmė turi būti sveikasis skaičius.',
     'ip'                   => 'Lauko :attribute reikšmė turi būti galiojantis IP adresas.',
     'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
     'ipv6'                 => 'The :attribute must be a valid IPv6 address.',

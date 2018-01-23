@@ -102,14 +102,14 @@
  * he:
 
  * hi:
-    * validation : after_or_equal : not present
-    * validation : before_or_equal : not present
-    * validation : dimensions : not present
-    * validation : file : not present
+    * validation : after_or_equal
+    * validation : before_or_equal
+    * validation : dimensions
+    * validation : file
     * validation : ipv4
     * validation : ipv6
-    * validation : mimetypes : not present
-    * validation : uploaded : not present
+    * validation : mimetypes
+    * validation : uploaded
 
  * hr:
     * validation : after_or_equal
@@ -158,14 +158,14 @@
  * ka:
 
  * kk:
-    * validation : after_or_equal : not present
-    * validation : before_or_equal : not present
-    * validation : dimensions : not present
-    * validation : file : not present
+    * validation : after_or_equal
+    * validation : before_or_equal
+    * validation : dimensions
+    * validation : file
     * validation : ipv4
     * validation : ipv6
-    * validation : mimetypes : not present
-    * validation : uploaded : not present
+    * validation : mimetypes
+    * validation : uploaded
 
  * km:
     * auth : failed
@@ -231,8 +231,8 @@
     * validation : uploaded
 
  * mn:
-    * validation : ipv4 : not present
-    * validation : ipv6 : not present
+    * validation : ipv4
+    * validation : ipv6
     * validation : required_without
     * validation : required_without_all
     * validation : same
@@ -332,14 +332,14 @@
     * validation : ipv6
 
  * sw:
-    * validation : after_or_equal : not present
-    * validation : before_or_equal : not present
-    * validation : dimensions : not present
-    * validation : file : not present
+    * validation : after_or_equal
+    * validation : before_or_equal
+    * validation : dimensions
+    * validation : file
     * validation : ipv4
     * validation : ipv6
-    * validation : mimetypes : not present
-    * validation : uploaded : not present
+    * validation : mimetypes
+    * validation : uploaded
 
  * tg:
     * validation : ipv4
@@ -372,14 +372,14 @@
     * validation : uploaded
 
  * tl:
-    * validation : after_or_equal : not present
-    * validation : before_or_equal : not present
-    * validation : dimensions : not present
-    * validation : file : not present
+    * validation : after_or_equal
+    * validation : before_or_equal
+    * validation : dimensions
+    * validation : file
     * validation : ipv4
     * validation : ipv6
-    * validation : mimetypes : not present
-    * validation : uploaded : not present
+    * validation : mimetypes
+    * validation : uploaded
 
  * tr:
 
@@ -388,14 +388,14 @@
  * uk:
 
  * ur:
-    * validation : after_or_equal : not present
-    * validation : before_or_equal : not present
-    * validation : dimensions : not present
-    * validation : file : not present
+    * validation : after_or_equal
+    * validation : before_or_equal
+    * validation : dimensions
+    * validation : file
     * validation : ipv4
     * validation : ipv6
-    * validation : mimetypes : not present
-    * validation : uploaded : not present
+    * validation : mimetypes
+    * validation : uploaded
 
  * vi:
 

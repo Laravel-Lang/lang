@@ -16,11 +16,13 @@ return [
     'accepted'             => ':attribute को स्वीकार किया जाना चाहिए।',
     'active_url'           => ':attribute एक मान्य URL नहीं है।',
     'after'                => ':attribute, :date के बाद की एक तारीख होनी चाहिए।',
+    'after_or_equal'       => 'The :attribute must be a date after or equal to :date.',
     'alpha'                => ':attribute में केवल अक्षर हो सकते हैं।',
     'alpha_dash'           => ':attribute में केवल अक्षर, संख्या, और डैश हो सकते हैं।',
     'alpha_num'            => ':attribute में केवल अक्षर और संख्याएं हो सकती हैं।',
     'array'                => ':attribute एक सरणी होनी चाहिए।',
     'before'               => ':attribute, :date से पहले की एक तारीख होनी चाहिए।',
+    'before_or_equal'      => 'The :attribute must be a date before or equal to :date.',
     'between'              => [
         'numeric' => ':attribute, :min और :max के बीच होना चाहिए।',
         'file'    => ':attribute, :min और :max किलोबाइट के बीच होना चाहिए।',
@@ -34,9 +36,11 @@ return [
     'different'            => ':attribute और :other अलग होना चाहिए।',
     'digits'               => ':attribute, :digits अंक होना चाहिए।',
     'digits_between'       => ':attribute, :min और :max अंकों के बीच होना चाहिए।',
+    'dimensions'           => 'The :attribute has invalid image dimensions.',
     'distinct'             => ':attribute फील्ड का एक डुप्लिकेट मान होता है।',
     'email'                => ':attribute एक मान्य ईमेल पता होना चाहिए।',
     'exists'               => 'चुना गया :attribute अमान्य है।',
+    'file'                 => 'The :attribute must be a file.',
     'filled'               => ':attribute फील्ड आवश्यक होता है।',
     'image'                => ':attribute एक छवि होनी चाहिए।',
     'in'                   => 'चुना गया :attribute अमान्य है।',
@@ -53,6 +57,7 @@ return [
         'array'   => ':attribute, :max आइटमों से अधिक नहीं हो सकता है।',
     ],
     'mimes'                => ':attribute एक प्रकार की फ़ाइल: :values होना चाहिए।',
+    'mimetypes'            => 'The :attribute must be a file of type: :values.',
     'min'                  => [
         'numeric' => ':attribute कम से कम :min होना चाहिए।',
         'file'    => ':attribute कम से कम :min किलोबाइट होना चाहिए।',
@@ -80,6 +85,7 @@ return [
     'string'               => ':attribute एक स्ट्रिंग होनी चाहिए।',
     'timezone'             => ':attribute एक मान्य क्षेत्र होना चाहिए।',
     'unique'               => ':attribute को पहले ही ले लिया गया है।',
+    'uploaded'             => 'The :attribute failed to upload.',
     'url'                  => ':attribute फॉर्मेट अमान्य है।',
 
     /*

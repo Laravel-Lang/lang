@@ -16,11 +16,13 @@ return [
     'accepted'             => ' :attribute қабылдануы керек.',
     'active_url'           => ' :attribute жарамды URL мекенжайы емес.',
     'after'                => ' :attribute мәні :date күнінен кейінгі күн болуы керек.',
+    'after_or_equal'       => 'The :attribute must be a date after or equal to :date.',
     'alpha'                => ' :attribute тек әріптерден тұруы керек.',
     'alpha_dash'           => ' :attribute тек әріптерден, сандардан және сызықшалардан тұруы керек.',
     'alpha_num'            => ' :attribute тек әріптерден және сандардан тұруы керек.',
     'array'                => ' :attribute жиым болуы керек.',
     'before'               => ' :attribute мәні :date күнінен кейінгі күн болуы керек.',
+    'before_or_equal'      => 'The :attribute must be a date before or equal to :date.',
     'between'              => [
         'numeric' => ' :attribute мәні :min және :max аралығында болуы керек.',
         'file'    => ' :attribute көлемі :min және :max килобайт аралығында болуы керек.',
@@ -34,9 +36,11 @@ return [
     'different'            => ' :attribute және :other әр түрлі болуы керек.',
     'digits'               => ' :attribute мәні :digits сан болуы керек.',
     'digits_between'       => ' :attribute мәні :min және :max аралығындағы сан болуы керек.',
+    'dimensions'           => 'The :attribute has invalid image dimensions.',
     'distinct'             => ' :attribute жолында қосарланған мән бар.',
     'email'                => ' :attribute жарамды электрондық пошта мекенжайы болуы керек.',
     'exists'               => ' таңдалған :attribute жарамсыз.',
+    'file'                 => 'The :attribute must be a file.',
     'filled'               => ' :attribute жолы толтырылуы керек.',
     'image'                => ' :attribute кескін болуы керек.',
     'in'                   => ' таңдалған :attribute жарамсыз.',
@@ -53,6 +57,7 @@ return [
         'array'   => ' :attribute жиымының құрамы :max элементтен аспауы керек.',
     ],
     'mimes'                => ' :attribute мынадай файл түрі болуы керек: :values.',
+    'mimetypes'            => 'The :attribute must be a file of type: :values.',
     'min'                  => [
         'numeric' => ' :attribute кемінде :min болуы керек.',
         'file'    => ' :attribute көлемі кемінде :min килобайт болуы керек.',
@@ -80,6 +85,7 @@ return [
     'string'               => ' :attribute тармақ болуы керек.',
     'timezone'             => ' :attribute жарамды аймақ болуы керек.',
     'unique'               => ' :attribute бұрын алынған.',
+    'uploaded'             => 'The :attribute failed to upload.',
     'url'                  => ' :attribute пішімі жарамсыз.',
 
     /*

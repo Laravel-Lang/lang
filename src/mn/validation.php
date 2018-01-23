@@ -47,6 +47,8 @@ return [
     'in_array'             => ':Attribute талбарт оруулсан утга :other -д байхгүй байна.',
     'integer'              => ':Attribute талбарт бүхэл тоо оруулах шаардлагатай.',
     'ip'                   => ':Attribute талбарт зөв IP хаяг оруулах шаардлагатай.',
+    'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
+    'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
     'json'                 => ':Attribute талбарт зөв JSON тэмдэгт мөр оруулах шаардлагатай.',
     'max'                  => [
         'numeric' => ':Attribute талбарт :max буюу түүнээс бага утга оруулна уу.',

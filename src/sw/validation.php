@@ -16,11 +16,13 @@ return [
     'accepted'             => 'Lazima kipengele kikubalike.',
     'active_url'           => 'Kipengele sio Chanzo Cha Anuani halali.',
     'after'                => 'Kipengele lazima kiwe tarehe baada ya :tarehe.',
+    'after_or_equal'       => 'The :attribute must be a date after or equal to :date.',
     'alpha'                => 'Kipengele huenda kikawa tu chenye herufi.',
     'alpha_dash'           => 'Kipengele huenda kikawa tu chenye herufi, na vistari.',
     'alpha_num'            => 'Kipengele huenda kikawa tu chenye herufi na nambari.',
     'array'                => 'Kipengele lazima kiwe safu.',
     'before'               => 'Kipengele lazima kiwe tarehe kabla ya :tarehe.',
+    'before_or_equal'      => 'The :attribute must be a date before or equal to :date.',
     'between'              => [
         'numeric' => 'Kipengele lazima kiwe kati ya :kiwango cha chini na :kiwango cha juu.',
         'file'    => 'Kipengele lazima kiwe kati ya :kiwango cha chini na :kiwango cha juu cha kilobaiti.',
@@ -34,9 +36,11 @@ return [
     'different'            => 'Kipengele na :nyingine lazima viwe tofauti.',
     'digits'               => 'Kipengele lazima kiwe :tarakimu tarakimu.',
     'digits_between'       => 'Kipengele lazima kiwe kati ya :kiwango cha chini na :kiwango cha juu cha tarakimu.',
+    'dimensions'           => 'The :attribute has invalid image dimensions.',
     'distinct'             => 'Sehemu ya kipengele ina thamani rudufu.',
     'email'                => 'Kipengele lazima kiwe anuani halali ya barua pepe.',
     'exists'               => 'Kipengele kilichochaguliwa si halali.',
+    'file'                 => 'The :attribute must be a file.',
     'filled'               => 'Sehemu ya kipengele inahitajika.',
     'image'                => 'Kipengele lazima kiwe picha.',
     'in'                   => 'Kipengele kilichochaguliwa si halali.',
@@ -53,6 +57,7 @@ return [
         'array'   => 'Kipengele huenda kisiwe na zaidi ya :kiwango cha juu cha vifungu.',
     ],
     'mimes'                => 'Kipengele lazima kiwe faili ya aina: :viwango.',
+    'mimetypes'            => 'The :attribute must be a file of type: :values.',
     'min'                  => [
         'numeric' => 'Kipengele lazima kiwe angalau :kiwango cha chini.',
         'file'    => 'Kipengele lazima kiwe angalau :kiwango cha chini cha kilobaiti.',
@@ -80,6 +85,7 @@ return [
     'string'               => 'Kipengele lazima kiwe kidwe.',
     'timezone'             => 'Kipengele lazima kiwe ukanda halali.',
     'unique'               => 'Kipengele tayari kimechukuliwa.',
+    'uploaded'             => 'The :attribute failed to upload.',
     'url'                  => 'Muundo wa kipengele si halali.',
 
     /*

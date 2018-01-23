@@ -197,8 +197,8 @@
     * validation : uploaded
 
  * lv:
-    * validation : ipv4 : not present
-    * validation : ipv6 : not present
+    * validation : ipv4
+    * validation : ipv6
 
  * me:
     * validation : after_or_equal

@@ -19,6 +19,8 @@ Since Laravel 5.2, we can define letters capitalized. A new branch has been crea
 * Files of languages are in "vendor/caouecs/laravel-lang" directory
 * Copy the folders of languages that you want, in the *resources/lang* folder of your Laravel application (*app/lang* in Laravel 4).
 
+Next, run `php artisan vendor:publish`.
+
 #### Via GitHub
 
 * Clone the [GitHub repository](https://github.com/caouecs/laravel-lang/) : *git clone https://github.com/caouecs/Laravel-lang.git*

@@ -47,8 +47,8 @@ return [
     'in_array'             => ':attribute nie znajduje się w :other.',
     'integer'              => ':attribute musi być liczbą całkowitą.',
     'ip'                   => ':attribute musi być prawidłowym adresem IP.',
-    'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
-    'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
+    'ipv4'                 => ':attribute musi być prawidłowym adresem IPv4.',
+    'ipv6'                 => ':attribute musi być prawidłowym adresem IPv6.',
     'json'                 => ':attribute musi być poprawnym ciągiem znaków JSON.',
     'max'                  => [
         'numeric' => ':attribute nie może być większy niż :max.',

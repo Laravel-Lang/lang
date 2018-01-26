@@ -47,6 +47,8 @@ return [
     'in_array'             => ' :attribute laiks neeksistē :cits.',
     'integer'              => ' :attribute ir jabūt skaitim.',
     'ip'                   => ' :attribute jābūt derīgai IP adresei.',
+    'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
+    'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
     'json'                 => ' :attribute jābūt derīgai JSON virknei.',
     'max'                  => [
         'numeric' => ' :attribute nedrīkst pārsniegt :max.',

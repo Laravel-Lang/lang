@@ -15,6 +15,6 @@
         "ablunier/laravel-lang-installer": "Command for easily add languages to a Laravel project"
     },
     "require-dev": {
-        "friendsofphp/php-cs-fixer": "^1.10"
+        "friendsofphp/php-cs-fixer": "^2.10"
     }
 }

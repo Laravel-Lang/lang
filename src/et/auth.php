@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Authentication Language Lines
@@ -13,7 +12,6 @@ return [
     |
     */
 
-    'failed'   => 'Need andmed ei klapi meie kirjetega.',
+    'failed' => 'Need andmed ei klapi meie kirjetega.',
     'throttle' => 'Liiga palju sisselogimise katseid. Palun proovi uuesti :seconds sekundi pärast.',
-
 ];

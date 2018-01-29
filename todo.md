@@ -397,6 +397,10 @@
     * validation : mimetypes
     * validation : uploaded
 
+ * uz-cyrillic:
+
+ * uz-latin:
+
  * vi:
 
  * zh-CN:

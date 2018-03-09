@@ -125,7 +125,7 @@ return [
         'password_confirmation' => 'confirmació de la contrasenya',
         'city' => 'ciutat',
         'country' => 'país',
-        'address' => 'direcció',
+        'address' => 'adreça',
         'phone' => 'telèfon',
         'mobile' => 'mòbil',
         'age' => 'edat',

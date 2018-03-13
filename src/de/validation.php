@@ -122,7 +122,7 @@ return [
         'first_name' => 'Vorname',
         'last_name' => 'Nachname',
         'password' => 'Passwort',
-        'password_confirmation' => 'Passwordbestätigung',
+        'password_confirmation' => 'Passwort-Bestätigung',
         'city' => 'Stadt',
         'country' => 'Land',
         'address' => 'Adresse',

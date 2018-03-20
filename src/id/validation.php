@@ -64,6 +64,7 @@ return [
         'array' => 'Isian :attribute harus minimal :min item.',
     ],
     'not_in' => 'Isian :attribute yang dipilih tidak valid.',
+    'not_regex' => 'The :attribute format is invalid.',
     'numeric' => 'Isian :attribute harus berupa angka.',
     'present' => 'Bidang isian :attribute wajib ada.',
     'regex' => 'Format isian :attribute tidak valid.',

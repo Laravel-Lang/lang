@@ -64,6 +64,7 @@ return [
         'array' => ':attribute nuk mund të ketë më pak se :min elemente.',
     ],
     'not_in' => ':attribute përzgjedhur është i/e pasaktë.',
+    'not_regex' => 'The :attribute format is invalid.',
     'numeric' => ':attribute duhet të jetë një numër.',
     'present' => 'The :attribute field must be present.',
     'regex' => 'Formati i :attribute është i pasaktë.',

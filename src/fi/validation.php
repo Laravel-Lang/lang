@@ -64,6 +64,7 @@ return [
         'array' => 'Kentän :attribute tulee sisältää vähintään :min arvoa.',
     ],
     'not_in' => 'Kentän :attribute arvo on virheellinen.',
+    'not_regex' => 'The :attribute format is invalid.',
     'numeric' => 'Kentän :attribute arvon tulee olla numero.',
     'present' => 'Kenttä :attribute vaaditaan.',
     'regex' => 'Kentän :attribute arvo on väärää muotoa.',

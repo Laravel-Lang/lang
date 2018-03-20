@@ -64,6 +64,7 @@ return [
         'array' => ' :attribute jāsatur vismaz :min vienības.',
     ],
     'not_in' => ' izvēlieties :attribute ir nederīgs.',
+    'not_regex' => 'The :attribute format is invalid.',
     'numeric' => ' :attribute jābūt skaitlim.',
     'present' => ' :attribute laikums ir nepieciešams.',
     'regex' => ' :attribute formāts ir nederīgs.',

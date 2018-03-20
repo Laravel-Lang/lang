@@ -64,6 +64,7 @@ return [
         'array' => 'Полето :attribute мора да има минимум :min карактери.',
     ],
     'not_in' => 'Избраното поле :attribute е невалидно.',
+    'not_regex' => 'The :attribute format is invalid.',
     'numeric' => 'Полето :attribute мора да биде број.',
     'present' => 'The :attribute field must be present.',
     'regex' => 'Полето :attribute е во невалиден формат.',

@@ -64,6 +64,7 @@ return [
         'array' => ':attribute en az :min nesneye sahip olmalıdır.',
     ],
     'not_in' => 'Seçili :attribute geçersiz.',
+    'not_regex' => 'The :attribute format is invalid.',
     'numeric' => ':attribute sayı olmalıdır.',
     'present' => ':attribute alanı mevcut olmalıdır.',
     'regex' => ':attribute biçimi geçersiz.',

@@ -64,6 +64,7 @@ return [
         'array' => ':attribute कम से कम :min आइटम होना चाहिए।',
     ],
     'not_in' => 'चुना गया :attribute अमान्य है।',
+    'not_regex' => 'The :attribute format is invalid.',
     'numeric' => ':attribute एक संख्या होनी चाहिए।',
     'present' => ':attribute फील्ड मौजूद होना चाहिए।',
     'regex' => ':attribute फॉर्मेट अमान्य है।',

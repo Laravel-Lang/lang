@@ -64,6 +64,7 @@ return [
         'array' => 'Rhaid i :attribute fod o leiaf :min eitem.',
     ],
     'not_in' => 'Nid yw :attribute yn ddilys.',
+    'not_regex' => 'The :attribute format is invalid.',
     'numeric' => 'Rhaid i :attribute fod yn rif.',
     'present' => 'The :attribute field must be present.',
     'regex' => 'Nid yw fformat :attribute yn ddilys.',

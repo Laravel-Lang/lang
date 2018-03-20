@@ -64,6 +64,7 @@ return [
         'array' => 'A(z) :attribute legalább :min elemet kell, hogy tartalmazzon.',
     ],
     'not_in' => 'A(z) :attribute értéke érvénytelen.',
+    'not_regex' => 'The :attribute format is invalid.',
     'numeric' => 'A(z) :attribute szám kell, hogy legyen!',
     'present' => 'A(z) :attribute mező nem található!',
     'regex' => 'A(z) :attribute formátuma érvénytelen.',

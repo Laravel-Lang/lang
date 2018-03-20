@@ -64,6 +64,7 @@ return [
         'array' => 'ข้อมูล :attribute ต้องมีจำนวนอย่างน้อย :min ค่า',
     ],
     'not_in' => 'ข้อมูล ที่เลือกจาก :attribute ไม่ถูกต้อง',
+    'not_regex' => 'The :attribute format is invalid.',
     'numeric' => 'ข้อมูล :attribute ต้องเป็นตัวเลข',
     'present' => 'ข้อมูล :attribute ต้องเป็นปัจจุบัน',
     'regex' => 'ข้อมูล :attribute มีรูปแบบไม่ถูกต้อง',

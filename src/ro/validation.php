@@ -64,6 +64,7 @@ return [
         'array' => 'Câmpul :attribute trebuie să aibă cel puțin :min elemente.',
     ],
     'not_in' => 'Câmpul :attribute selectat nu este valid.',
+    'not_regex' => 'The :attribute format is invalid.',
     'numeric' => 'Câmpul :attribute trebuie să fie un număr.',
     'present' => 'Câmpul :attribute trebuie să fie prezent.',
     'regex' => 'Câmpul :attribute nu are un format valid.',

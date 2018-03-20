@@ -64,6 +64,7 @@ return [
         'array' => ':attribute iň az :min harpdan bolmalydyr.',
     ],
     'not_in' => 'Saýlanan :attribute geçersiz.',
+    'not_regex' => 'The :attribute format is invalid.',
     'numeric' => ':attribute san bolmalydyr.',
     'present' => 'The :attribute field must be present.',
     'regex' => ':attribute formaty ýalňyş.',

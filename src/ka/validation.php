@@ -64,6 +64,7 @@ return [
         'array' => ':attribute უნდა იყოს მინიმუმ :min.',
     ],
     'not_in' => 'მითითებული :attribute არასწორია.',
+    'not_regex' => 'The :attribute format is invalid.',
     'numeric' => ':attribute უნდა იყოს რიცხვი.',
     'present' => ':attribute უნდა არსებობდეს, თუნდაც ცარიელი.',
     'regex' => ':attribute არ ემთხვევა ფორმატს.',

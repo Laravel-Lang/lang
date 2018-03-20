@@ -64,6 +64,7 @@ return [
         'array' => ':attribute depet tènnere a su mancu :min elementos.',
     ],
     'not_in' => 'Su balore seberadu pro :attribute no est bàlidu.',
+    'not_regex' => 'The :attribute format is invalid.',
     'numeric' => ':attribute depet èssere unu nùmeru.',
     'present' => 'The :attribute field must be present.',
     'regex' => 'Su formadu de su campu :attribute no est bàlidu.',

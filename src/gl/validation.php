@@ -64,6 +64,7 @@ return [
         'array' => ':attribute debe conter polo menos :min elementos.',
     ],
     'not_in' => ':attribute non é válido.',
+    'not_regex' => 'The :attribute format is invalid.',
     'numeric' => ':attribute debe de ser un número.',
     'present' => 'The :attribute field must be present.',
     'regex' => 'O formato de :attribute non é válido.',

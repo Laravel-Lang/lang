@@ -64,6 +64,7 @@ return [
         'array' => 'Le tableau :attribute doit contenir au moins :min éléments.',
     ],
     'not_in' => "Le champ :attribute sélectionné n'est pas valide.",
+    'not_regex' => 'The :attribute format is invalid.',
     'numeric' => 'Le champ :attribute doit contenir un nombre.',
     'present' => 'Le champ :attribute doit être présent.',
     'regex' => 'Le format du champ :attribute est invalide.',

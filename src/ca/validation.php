@@ -64,6 +64,7 @@ return [
         'array' => ':attribute ha de tenir almenys :min ítems.',
     ],
     'not_in' => ':attribute és invàlid.',
+    'not_regex' => 'The :attribute format is invalid.',
     'numeric' => ':attribute ha de ser numèric.',
     'present' => 'El camp :attribute ha d\'existir.',
     'regex' => 'El format de :attribute és invàlid.',

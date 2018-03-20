@@ -64,6 +64,7 @@ return [
         'array' => ':Attribute талбарт хамгийн багадаа :min элемэнт оруулах боломжтой.',
     ],
     'not_in' => 'Буруу :attribute сонгогдсон байна.',
+    'not_regex' => 'The :attribute format is invalid.',
     'numeric' => ':Attribute талбарт тоон утга оруулна уу.',
     'present' => ':Attribute талбар байх шаардлагатай.',
     'regex' => ':Attribute талбарт оруулсан утга буруу байна.',

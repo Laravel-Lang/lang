@@ -64,6 +64,7 @@ return [
         'array' => ':attribute mora imeti vsaj :min elementov.',
     ],
     'not_in' => 'izbran :attribute je neveljaven.',
+    'not_regex' => 'The :attribute format is invalid.',
     'numeric' => ':attribute mora biti število.',
     'present' => 'Polje :attribute mora biti prisotno.',
     'regex' => 'Format polja :attribute je neveljaven.',

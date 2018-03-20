@@ -64,6 +64,7 @@ return [
         'array' => 'Το πεδίο :attribute πρέπει να έχει τουλάχιστον :min αντικείμενα.',
     ],
     'not_in' => 'Το επιλεγμένο :attribute δεν είναι αποδεκτό.',
+    'not_regex' => 'The :attribute format is invalid.',
     'numeric' => 'Το πεδίο :attribute πρέπει να είναι αριθμός.',
     'present' => 'Το πεδίο :attribute πρέπει να υπάρχει.',
     'regex' => 'Η μορφή του :attribute δεν είναι αποδεκτή.',

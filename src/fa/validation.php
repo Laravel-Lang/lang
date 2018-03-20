@@ -64,6 +64,7 @@ return [
         'array' => ':attribute نباید کمتر از :min آیتم باشد.',
     ],
     'not_in' => ':attribute انتخاب شده، معتبر نیست.',
+    'not_regex' => 'The :attribute format is invalid.',
     'numeric' => ':attribute باید عدد باشد.',
     'present' => 'فیلد :attribute باید در پارامترهای ارسالی وجود داشته باشد.',
     'regex' => 'فرمت :attribute معتبر نیست',

@@ -65,6 +65,7 @@ return [
         'array' => ':attributeの項目は、:max個以上にしてください。',
     ],
     'not_in' => '選択された:attributeは、有効ではありません。',
+    'not_regex' => 'The :attribute format is invalid.',
     'numeric' => ':attributeには、数字を指定してください。',
     'present' => ':attributeは、必ず存在しなくてはいけません。',
     'regex' => ':attributeには、有効な正規表現を指定してください。',

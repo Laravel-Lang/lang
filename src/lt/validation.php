@@ -64,6 +64,7 @@ return [
         'array' => 'Elementų kiekis lauke :attribute turi būti ne mažiau nei :min.',
     ],
     'not_in' => 'Pasirinkta negaliojanti reikšmė :attribute.',
+    'not_regex' => 'The :attribute format is invalid.',
     'numeric' => 'Lauko :attribute reikšmė turi būti skaičius.',
     'present' => 'Laukas :attribute turi egzistuoti.',
     'regex' => 'Negaliojantis lauko :attribute formatas.',

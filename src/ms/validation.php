@@ -64,6 +64,7 @@ return [
         'array' => 'Jumlah :attribute mesti sekurang-kurangnya :min perkara.',
     ],
     'not_in' => ':attribute tidak sah.',
+    'not_regex' => 'The :attribute format is invalid.',
     'numeric' => ':attribute mesti nombor.',
     'present' => ':attribute mesti wujud.',
     'regex' => ':attribute format tidak sah.',

@@ -64,6 +64,7 @@ return [
         'array' => ':attribute मा कम्तिमा :min आइटम हुनुपर्छ।',
     ],
     'not_in' => 'छानिएको :attribute अमान्य छ।',
+    'not_regex' => 'The :attribute format is invalid.',
     'numeric' => ':attribute संख्या हुनुपर्छ।',
     'present' => 'The :attribute field must be present.',
     'regex' => ':attribute को ढाँचा मिलेन।',

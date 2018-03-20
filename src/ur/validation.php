@@ -64,6 +64,7 @@ return [
         'array' => ':attribute میں لازماً کم از کم :min آئٹمز ہوں۔',
     ],
     'not_in' => 'منتخب :attribute قابلِ قبول نہیں ہے۔',
+    'not_regex' => 'The :attribute format is invalid.',
     'numeric' => ':attribute لازماً کوئی عدد ہو۔',
     'present' => ':attribute فیلڈ موجود ہونا ضروری ہے۔',
     'regex' => ':attribute قابلِ قبول فارمیٹ میں نہیں ہے۔',

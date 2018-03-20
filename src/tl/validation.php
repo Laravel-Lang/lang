@@ -64,6 +64,7 @@ return [
         'array' => 'Ang :attribute ay dapat di-kukulangin sa :min items.',
     ],
     'not_in' => 'Ang piniling :attribute ay imbalido.',
+    'not_regex' => 'The :attribute format is invalid.',
     'numeric' => 'Ang :attribute ay dapat isang numero.',
     'present' => 'Ang :larangan ng attribute ay dapat naroon.',
     'regex' => 'Ang :format ng attribute ay imbalido.',

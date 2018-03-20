@@ -64,6 +64,7 @@ return [
         'array' => ':Attribute maydonidagi elmentlar soni :min tadan kam bo‘lmasligi kerak.',
     ],
     'not_in' => ':Attribute maydoni uchun tanlangan qiymat xato.',
+    'not_regex' => 'The :attribute format is invalid.',
     'numeric' => ':Attribute maydoni son bo‘lishi kerak.',
     'present' => ':Attribute maydoni ko‘rsatilishi kerak.',
     'regex' => ':Attribute maydoni xato formatda.',

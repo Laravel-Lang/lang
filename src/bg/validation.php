@@ -64,6 +64,7 @@ return [
         'array' => 'Полето :attribute трябва има минимум :min елемента.',
     ],
     'not_in' => 'Избраното поле :attribute е невалидно.',
+    'not_regex' => 'The :attribute format is invalid.',
     'numeric' => 'Полето :attribute трябва да бъде число.',
     'present' => 'Полето :attribute трябва да съествува.',
     'regex' => 'Полето :attribute е в невалиден формат.',

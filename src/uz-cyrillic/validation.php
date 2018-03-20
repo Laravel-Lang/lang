@@ -64,6 +64,7 @@ return [
         'array' => ':Attribute майдонидаги элментлар сони :min тадан кам бўлмаслиги керак.',
     ],
     'not_in' => ':Attribute майдони учун танланган қиймат хато.',
+    'not_regex' => 'The :attribute format is invalid.',
     'numeric' => ':Attribute майдони сон бўлиши керак.',
     'present' => ':Attribute майдони кўрсатилиши керак.',
     'regex' => ':Attribute майдони хато форматда.',

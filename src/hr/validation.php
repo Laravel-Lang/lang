@@ -64,6 +64,7 @@ return [
         'array' => 'Polje :attribute mora sadržavati najmanje :min stavki.',
     ],
     'not_in' => 'Odabrano polje :attribute nije ispravno.',
+    'not_regex' => 'The :attribute format is invalid.',
     'numeric' => 'Polje :attribute mora biti broj.',
     'present' => 'The :attribute field must be present.',
     'regex' => 'Polje :attribute se ne podudara s formatom.',

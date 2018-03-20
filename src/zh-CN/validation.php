@@ -64,7 +64,7 @@ return [
         'array' => ':attribute 至少有 :min 个单元。',
     ],
     'not_in' => '已选的属性 :attribute 非法。',
-    'not_regex' => 'The :attribute format is invalid.',
+    'not_regex' => ':attribute 格式不正确。',
     'numeric' => ':attribute 必须是一个数字。',
     'present' => ':attribute 必须存在。',
     'regex' => ':attribute 格式不正确。',

@@ -100,7 +100,6 @@
     * validation : not_regex
 
  * fr:
-    * validation : not_regex
 
  * gl:
     * validation : after_or_equal

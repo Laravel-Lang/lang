@@ -64,6 +64,7 @@ return [
         'array' => ':attribute ئەڭ ئاز بولغاندا :min بۆلەك بۇلىشى كېرەك.',
     ],
     'not_in' => 'تاللانغان قىممەت :attribute ئىناۋەتسىز.',
+    'not_regex' => 'The :attribute format is invalid.',
     'numeric' => ':attribute چوقۇم سان-سىفىر بۇلىشى كېرەك.',
     'present' => ':attribute چوقۇم مەۋجۇت بۇلىشى كېرەك.',
     'regex' => ':attribute ھۆججەت تىپى ئىناۋەتسىز.',

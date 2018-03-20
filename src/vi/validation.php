@@ -64,6 +64,7 @@ return [
         'array' => 'Trường :attribute phải có tối thiểu :min phần tử.',
     ],
     'not_in' => 'Giá trị đã chọn trong trường :attribute không hợp lệ.',
+    'not_regex' => 'The :attribute format is invalid.',
     'numeric' => 'Trường :attribute phải là một số.',
     'present' => 'Trường :attribute phải được cung cấp.',
     'regex' => 'Định dạng trường :attribute không hợp lệ.',

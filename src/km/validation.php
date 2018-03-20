@@ -64,6 +64,7 @@ return [
         'array' => ':attribute ត្រូវតែតិចជាងធាតុនេះ :min។',
     ],
     'not_in' => 'ការជ្រើសរើស :attribute គឺត្រឹមត្រូវ។',
+    'not_regex' => 'The :attribute format is invalid.',
     'numeric' => ':attribute ត្រូវតែជាលេខ។',
     'present' => 'The :attribute field must be present.',
     'regex' => ':attribute ទំរងមិនត្រឹមត្រូវ។',

@@ -64,6 +64,7 @@ return [
         'array' => 'Kipengele lazima kiwe na angalau :kiwango cha chini cha vifungu.',
     ],
     'not_in' => 'Kipengele kilichochaguliwa si halali.',
+    'not_regex' => 'The :attribute format is invalid.',
     'numeric' => 'Kipengele lazima kiwe nambari.',
     'present' => 'Sehemu ya kipengele lazima iwepo.',
     'regex' => 'Muundo wa kipengele si halali.',

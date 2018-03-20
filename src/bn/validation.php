@@ -64,6 +64,7 @@ return [
         'array' => ':attribute অবশ্যই :min উপাদানের চেয়ে ছোট হতে হবে।',
     ],
     'not_in' => 'নির্বাচিত :attribute অবৈধ।',
+    'not_regex' => 'The :attribute format is invalid.',
     'numeric' => ':attribute একটি সংখ্যা হতে হবে।',
     'present' => ':attribute ক্ষেত্র উপস্থিত থাকা আবশ্যক।',
     'regex' => ':attribute বিন্যাস অবৈধ।',

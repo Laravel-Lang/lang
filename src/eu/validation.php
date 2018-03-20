@@ -64,6 +64,7 @@ return [
         'array' => ':attribute-k gutxienez :min ale euki behar ditu.',
     ],
     'not_in' => 'Hautatutako :attribute baliogabea da.',
+    'not_regex' => 'The :attribute format is invalid.',
     'numeric' => ':attribute zenbaki bat izan behar da.',
     'present' => ':attribute bertan egon behar da.',
     'regex' => ':attribute-k ez dauka formatu egokirik.',

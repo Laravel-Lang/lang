@@ -64,6 +64,7 @@ return [
         'array' => ':attribute 至少有 :min 個元素。',
     ],
     'not_in' => '所選擇的 :attribute 選項無效。',
+    'not_regex' => 'The :attribute format is invalid.',
     'numeric' => ':attribute 必須為一個數字。',
     'present' => ':attribute 必須存在。',
     'regex' => ':attribute 的格式錯誤。',

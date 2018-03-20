@@ -64,6 +64,7 @@ return [
         'array' => ' :attribute кемінде :min элементтен тұруы керек.',
     ],
     'not_in' => ' таңдалған :attribute жарамсыз.',
+    'not_regex' => 'The :attribute format is invalid.',
     'numeric' => ' :attribute сан болуы керек.',
     'present' => ' :attribute болуы керек.',
     'regex' => ' :attribute пішімі жарамсыз.',

@@ -64,6 +64,7 @@ return [
         'array' => ':attribute peab olema vähemalt :min kirjet.',
     ],
     'not_in' => 'Valitud :attribute on vigane.',
+    'not_regex' => 'The :attribute format is invalid.',
     'numeric' => ':attribute peab olema number.',
     'present' => ':attribute väli peab olema esindatud.',
     'regex' => ':attribute vorming on vigane.',

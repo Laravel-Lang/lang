@@ -64,6 +64,7 @@ return [
         'array' => 'Reiturinn :attribute verður að vera að lágmarki :min stök.',
     ],
     'not_in' => 'Reiturinn :attribute er ógildur.',
+    'not_regex' => 'The :attribute format is invalid.',
     'numeric' => 'Reiturinn :attribute verður að vera tala.',
     'present' => 'The :attribute field must be present.',
     'regex' => 'Reiturinn :attribute er ekki á réttu formi.',

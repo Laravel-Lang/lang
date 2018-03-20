@@ -65,6 +65,7 @@ return [
         'array' => 'Колькасць элементаў у поле :attribute павінна быць не менш :min.',
     ],
     'not_in' => 'Выбранае значэнне для :attribute памылкова.',
+    'not_regex' => 'The :attribute format is invalid.',
     'numeric' => 'Поле :attribute павінна быць лікам.',
     'present' => 'The :attribute field must be present.',
     'regex' => 'Поле :attribute мае памылковы фармат.',

@@ -64,6 +64,7 @@ return [
         'array' => ':attribute skal indeholde mindst :min elementer.',
     ],
     'not_in' => 'Den valgte :attribute er ugyldig.',
+    'not_regex' => 'The :attribute format is invalid.',
     'numeric' => ':attribute skal være et tal.',
     'present' => ':attribute skal være tilstede.',
     'regex' => ':attribute formatet er ugyldigt.',

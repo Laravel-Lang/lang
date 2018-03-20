@@ -64,6 +64,7 @@ return [
         'array' => 'Миқдори элементҳо дар :attribute бояд на кам аз :min бошад.',
     ],
     'not_in' => 'Қиммати интихобкардаи :attribute нодуруст мебошад.',
+    'not_regex' => 'The :attribute format is invalid.',
     'numeric' => 'Қиммати :attribute бояд адад бошад.',
     'present' => 'Қиммати :attribute бояд мавҷуд бошад.',
     'regex' => 'Формати :attribute нодуруст мебошад.',

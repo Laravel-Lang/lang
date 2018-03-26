@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Pagination Language Lines
@@ -14,6 +13,5 @@ return [
     */
 
     'previous' => '&laquo; Iepriekšējais',
-    'next'     => 'Nākamais &raquo;',
-
+    'next' => 'Nākamais &raquo;',
 ];

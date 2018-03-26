@@ -25,13 +25,13 @@ class TodoGenerator
      *
      * @var string
      */
-    protected $output = null;
+    protected $output;
 
     /**
      * Construct.
      *
-     * @param string $basePath Base path.
-     * @param array  $excluded Excluded directories.
+     * @param string $basePath base path
+     * @param array  $excluded excluded directories
      */
     public function __construct($basePath, $excluded = [])
     {
@@ -43,14 +43,24 @@ class TodoGenerator
     /**
      * Returns object.
      *
-     * @param string $basePath Base path.
-     * @param array  $excluded Excluded directories.
+     * @param string $basePath base path
+     * @param array  $excluded excluded directories
      *
      * @return TodoGenerator
      */
     public static function make($basePath, $excluded = [])
     {
         return new self($basePath, $excluded);
+    }
+
+    /**
+     * Save todo list.
+     *
+     * @param string $path path
+     */
+    public function save($path)
+    {
+        file_put_contents($path, $this->output);
     }
 
     /**
@@ -69,16 +79,16 @@ class TodoGenerator
     /**
      * Returns array of translations by language.
      *
-     * @param string $language Language code.
+     * @param string $language language code
      *
      * @return array
      */
     private function getTranslations($language)
     {
         return [
-            'auth'       => include($language.'/auth.php'),
+            'auth' => include($language.'/auth.php'),
             'pagination' => include($language.'/pagination.php'),
-            'passwords'  => include($language.'/passwords.php'),
+            'passwords' => include($language.'/passwords.php'),
             'validation' => include($language.'/validation.php'),
         ];
     }
@@ -95,7 +105,7 @@ class TodoGenerator
         $languages = array_map(function ($dir) {
             $name = basename($dir);
 
-            return in_array($name, $this->excluded) ? null : $name;
+            return in_array($name, $this->excluded, true) ? null : $name;
         }, $directories);
 
         return array_filter($languages);
@@ -104,8 +114,8 @@ class TodoGenerator
     /**
      * Compare translations.
      *
-     * @param array $default   Language by default.
-     * @param array $languages Others languages.
+     * @param array $default   language by default
+     * @param array $languages others languages
      */
     private function compareTranslations(array $default, array $languages)
     {
@@ -116,28 +126,18 @@ class TodoGenerator
 
             foreach ($default as $key => $values) {
                 foreach ($values as $key2 => $value2) {
-                    if (in_array($key2, ['custom', 'attributes'])) {
+                    if (in_array($key2, ['custom', 'attributes'], true)) {
                         continue;
                     }
 
                     if (!isset($current[$key][$key2])) {
                         $this->output .= '    * '.$key.' : '.$key2." : not present\n";
-                    } elseif ($current[$key][$key2] == $default[$key][$key2]) {
+                    } elseif ($current[$key][$key2] === $default[$key][$key2]) {
                         $this->output .= '    * '.$key.' : '.$key2."\n";
                     }
                 }
             }
         }
-    }
-
-    /**
-     * Save todo list.
-     *
-     * @param string $path Path.
-     */
-    public function save($path)
-    {
-        file_put_contents($path, $this->output);
     }
 }
 

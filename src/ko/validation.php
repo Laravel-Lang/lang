@@ -64,7 +64,7 @@ return [
         'array' => ':attribute은(는) 최소한 :min개의 항목이 있어야 합니다.',
     ],
     'not_in' => '선택된 :attribute이(가) 유효하지 않습니다.',
-    'not_regex' => 'The :attribute format is invalid.',
+    'not_regex' => ':attribute의 형식이 올바르지 않습니다.',
     'numeric' => ':attribute은(는) 숫자여야 합니다.',
     'present' => ':attribute 필드가 있어야 합니다.',
     'regex' => ':attribute 형식이 유효하지 않습니다.',

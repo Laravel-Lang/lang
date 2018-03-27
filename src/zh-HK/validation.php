@@ -64,7 +64,7 @@ return [
         'array' => ':attribute 不能小於 :min 個項目。',
     ],
     'not_in' => '所揀選的 :attribute 選項無效。',
-    'not_regex' => 'The :attribute format is invalid.',
+    'not_regex' => ':attribute 的格式錯誤。',
     'numeric' => ':attribute 必須為一個數字。',
     'present' => ':attribute 必須存在。',
     'regex' => ':attribute 的格式錯誤。',

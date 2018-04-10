@@ -461,7 +461,6 @@
     * validation : not_regex
 
  * vi:
-    * validation : not_regex
 
  * zh-CN:
     * validation : not_regex

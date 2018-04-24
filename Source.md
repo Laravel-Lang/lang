@@ -11,6 +11,7 @@ Arabic (ar)
 * [bo3bdo](https://github.com/bo3bdo)
 * [Ibrahim AshShohail](https://github.com/laheab)
 * [Ihab Shoully](https://github.com/shoully)
+* [Mohamed Sabil](https://github.com/mohamedsabil83)
 * [Youghourta Benali](https://github.com/djug)
 
 Bosnian (bs)
@@ -22,7 +23,8 @@ Bosnian (bs)
 Brazilian (pt-BR)
 
 * [c0h1b4](https://github.com/c0h1b4)
-* [Gabriel Machado](https://github.com/gmsantosxl)
+* [Fernando Henrique Bandeira](https://github.com/fernandobandeira)
+* [Gabriel Machado](https://github.com/gmsantos)
 * [insign](https://github.com/insign)
 * [miguelbgouveia](https://github.com/miguelbgouveia)
 * [Ramiro Varandas Jr](https://github.com/ramirovjr)
@@ -134,6 +136,7 @@ Hungarian (hu)
 * [lintaba](https://github.com/lintaba)
 * [Tamás Erdélyi](https://github.com/terdelyi)
 * [Zsombor Franczia](https://github.com/frzsombor)
+* [balping](https://github.com/balping)
 
 Icelandic (is)
 
@@ -145,6 +148,7 @@ Indonesian (id)
 * [Budi Irawan](https://github.com/deerawan)
 * [Ivo Idham Perdameian](https://github.com/idhamperdameian)
 * [William Notowidagdo](https://github.com/williamn)
+* [Salahuddin Hairai](https://github.com/od3n)
 
 Italian (it)
 
@@ -174,6 +178,11 @@ Macedonian (mk)
 
 * [Marko Aleksic](https://github.com/psybaron)
 * [maced0n](https://github.com/maced0n)
+
+Malay (ms)
+
+* [Salahuddin Hairai](https://github.com/od3n)
+* [Kamarool Karim](https://github.com/kamaroolkarim)
 
 Montenegrin (me)
 

@@ -1,5 +1,5 @@
 {
-    "name": "caouecs/laravel4-lang",
+    "name": "caouecs/laravel-lang",
     "description": "Languages for Laravel",
     "keywords": ["laravel", "languages", "lpm", "lang"],
     "license": "MIT",
@@ -10,9 +10,11 @@
         }
     ],
     "suggest": {
-        "overtrue/laravel-lang": "Command to add languages in your project"
+        "overtrue/laravel-lang": "Command to add languages in your project",
+        "arcanedev/laravel-lang": "Translations manager and checker for Laravel 5",
+        "ablunier/laravel-lang-installer": "Command for easily add languages to a Laravel project"
     },
     "require-dev": {
-        "fabpot/php-cs-fixer": "^1.10"
+        "friendsofphp/php-cs-fixer": "^2.10"
     }
 }

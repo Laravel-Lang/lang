@@ -1,83 +1,70 @@
-Laravel-lang
-=============
+# Laravel-lang
+
+[![Stories in Ready](https://badge.waffle.io/caouecs/Laravel-lang.svg?label=ready&title=Ready)](http://waffle.io/caouecs/Laravel-lang)
 
 In this repository, you can find the lang files for the framework PHP, [Laravel 4&5](http://www.laravel.com).
 
----
+## Capital letters ( WIP )
 
-News of 12 March 2016:
+Since Laravel 5.2, we can define letters capitalized. A new branch has been created to add this feature : `capital_letters`.
 
-* todo list: in todo.md
+    We need your help to update validation files.
 
-News of 7 March 2016:
+## Install
 
-* validation: add *in_array*
+#### Via Composer
+* For Laravel 5.* : run `composer require caouecs/laravel-lang:~3.0` in your project folder
+* For Laravel 5 : run `composer require caouecs/laravel4-lang:~2.0` in your project folder
+* For Laravel 4 : run `composer require caouecs/laravel4-lang:~1.0` in your project folder
+* Files of languages are in "vendor/caouecs/laravel-lang" directory
+* Copy the folders of languages that you want, in the *resources/lang* folder of your Laravel application (*app/lang* in Laravel 4).
 
-News of 2 March 2016:
+#### Via GitHub
 
-* validation: add *distinct*
-
-News of 27 February 2016:
-
-* validation: add *present*
-
----
-
-How add languages in my app ?
----
-
-### Installation by GitHub
-
- * Clone the [GitHub repository](https://github.com/caouecs/laravel-lang/) : *git clone https://github.com/caouecs/Laravel-lang.git*
- * Or download the [zip file](https://github.com/caouecs/laravel-lang/archive/master.zip)
- * Choose the branch:
+* Clone the [GitHub repository](https://github.com/caouecs/laravel-lang/) : *git clone https://github.com/caouecs/Laravel-lang.git*
+* Or download the [zip file](https://github.com/caouecs/laravel-lang/archive/master.zip)
+* Choose the branch:
     * `laravel4` for Laravel4 project
     * `master` for Laravel5 project
- * Copy the folders of languages that you want, in *app/lang* folder of your application Laravel
+* Copy the folders of languages that you want, in *resources/lang* folder of your Laravel application (*app/lang* in Laravel 4).
 
+#### Via SVN
 
-### Installation by Composer
+Run this in your project directory:
 
- * For Laravel 4 : add `"caouecs/laravel4-lang": "~1.0"` in your `composer.json` in "require" or run *composer require caouecs/laravel4-lang*
- * For Laravel 5 : add `"caouecs/laravel4-lang": "~2.0"` in your `composer.json` in "require"
- * Do "composer update"
- * Files of languages are in "vendor/caouecs/laravel4-lang" directory
- * Copy the folders of languages that you want, in *app/lang* (*resources/lang* in laravel 5) folder of your application Laravel
+```sh
+# Laravel 5:
+svn export https://github.com/caouecs/Laravel-lang/trunk/src/[language-code] resources/lang/[language-code]
 
-### Installation by Command
+# Laravel 4:
+svn export https://github.com/caouecs/Laravel-lang/branches/laravel4/[language-code] app/lang/[language-code]
+```
 
-If you have a Laravel5 project, you can use `laravel-lang` project of overtrue : *composer require "overtrue/laravel-lang:dev-master"*
+Replace `[language-code]` by any of the languages listed [here](src).
 
-### Language by default in your app
+## Usage [Laravel only]
 
-In the file *app/config/app.php*, change the value of *locale* by the short name of your language.
+In the file *config/app.php*, change the value of *locale* by the short name of your language (*app/config/app.php* in Laravel 4).
 
----
+## Change log
 
-How can I add a language in this project ?
----
+Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recently.
 
-* fork this repository
-* create a directory with the short name of the language (ex: fr for French) from ISO-639-1 ( see [Wikipedia](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) )
-* copy these four files of the English version with your translation
-    * for [Laravel](https://github.com/laravel/laravel/tree/master/resources/lang/en)
-* run [PHP-cs-fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)
-    * if installed to global, run `php-cs-fixer fix`.
-    * if installed to project local, run `vendor/bin/php-cs-fixer fix`.
-* add a pull request with the name of the language
+## Contributing
 
+Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
-How can I fix a file ?
----
+## Status of files
 
-* fork this repository
-* update the file
-* run [PHP-cs-fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)
-    * if installed to global, run `php-cs-fixer fix`.
-    * if installed to project local, run `vendor/bin/php-cs-fixer fix`.
-* add a pull request with the name of the language
+* Check the [todo.md](todo.md) file to see the missing translations.
 
-Status of files
----
+## Projects based on this package
 
-* todo.md
+* [LaravelLang by ARCANEDEV](https://github.com/ARCANEDEV/LaravelLang)
+* [Laravel-lang by overtrue](https://github.com/overtrue/laravel-lang)
+* [laravel-lang-installer by ablunier](https://github.com/ablunier/laravel-lang-installer)
+
+## Credits
+
+- [caouecs](https://github.com/caouecs)
+- [All Contributors](https://github.com/caouecs/Laravel-lang/graphs/contributors)

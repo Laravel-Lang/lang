@@ -64,7 +64,7 @@ return [
         'array' => ':attribute muss mindestens :min Elemente haben.',
     ],
     'not_in' => 'Der gewählte Wert für :attribute ist ungültig.',
-    'not_regex' => 'The :attribute format is invalid.',
+    'not_regex' => 'Das Format für :attribute ist ungültig.',
     'numeric' => ':attribute muss eine Zahl sein.',
     'present' => 'Das Feld :attribute muss vorhanden sein.',
     'regex' => ':attribute Format ist ungültig.',

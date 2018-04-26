@@ -145,5 +145,6 @@ return [
         'available' => 'موجود',
         'size' => 'اندازه',
         'terms' => 'شرایط',
+        'province' => 'استان',
     ],
 ];

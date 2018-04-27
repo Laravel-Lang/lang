@@ -64,7 +64,7 @@ return [
         'array' => ':attribute نباید کمتر از :min آیتم باشد.',
     ],
     'not_in' => ':attribute انتخاب شده، معتبر نیست.',
-    'not_regex' => 'The :attribute format is invalid.',
+    'not_regex' => 'فرمت :attribute معتبر نیست.',
     'numeric' => ':attribute باید عدد باشد.',
     'present' => 'فیلد :attribute باید در پارامترهای ارسالی وجود داشته باشد.',
     'regex' => 'فرمت :attribute معتبر نیست',
@@ -145,5 +145,6 @@ return [
         'available' => 'موجود',
         'size' => 'اندازه',
         'terms' => 'شرایط',
+        'province' => 'استان',
     ],
 ];

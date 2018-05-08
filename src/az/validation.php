@@ -41,6 +41,18 @@ return [
     'exists' => ' seçilmiş :attribute yanlışdır',
     'file' => ' :attribute fayl formatında olmalıdır',
     'filled' => ' :attribute qiyməti olmalıdır',
+    'gt' => [
+        'numeric' => 'The :attribute must be greater than :value.',
+        'file' => 'The :attribute must be greater than :value kilobytes.',
+        'string' => 'The :attribute must be greater than :value characters.',
+        'array' => 'The :attribute must have more than :value items.',
+    ],
+    'gte' => [
+        'numeric' => 'The :attribute must be greater than or equal :value.',
+        'file' => 'The :attribute must be greater than or equal :value kilobytes.',
+        'string' => 'The :attribute must be greater than or equal :value characters.',
+        'array' => 'The :attribute must have :value items or more.',
+    ],
     'image' => ' :attribute şəkil formatında olmalıdır',
     'in' => ' seçilmiş :attribute yanlışdır',
     'in_array' => ' :attribute :other qiymətləri arasında olmalıdır',
@@ -49,6 +61,18 @@ return [
     'ipv4' => ' :attribute İPv4 adres formatında olmalıdır',
     'ipv6' => ' :attribute İPv6 adres formatında olmalıdır',
     'json' => ' :attribute JSON formatında olmalıdır',
+    'lt' => [
+        'numeric' => 'The :attribute must be less than :value.',
+        'file' => 'The :attribute must be less than :value kilobytes.',
+        'string' => 'The :attribute must be less than :value characters.',
+        'array' => 'The :attribute must have less than :value items.',
+    ],
+    'lte' => [
+        'numeric' => 'The :attribute must be less than or equal :value.',
+        'file' => 'The :attribute must be less than or equal :value kilobytes.',
+        'string' => 'The :attribute must be less than or equal :value characters.',
+        'array' => 'The :attribute must not have more than :value items.',
+    ],
     'max' => [
         'numeric' => ' :attribute maksiumum :max rəqəmdən ibarət ola bilər',
         'file' => ' :attribute maksimum :max KB ölçüsündə ola bilər',

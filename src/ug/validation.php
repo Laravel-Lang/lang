@@ -41,6 +41,18 @@ return [
     'exists' => ':attribute مەۋجۇت ئەمەس.',
     'file' => ':attribute چوقۇم ھۆججەت بۇلىشى كېرەك.',
     'filled' => ':attribute قۇرۇق بولسا بولمايدۇ.',
+    'gt' => [
+        'numeric' => 'The :attribute must be greater than :value.',
+        'file' => 'The :attribute must be greater than :value kilobytes.',
+        'string' => 'The :attribute must be greater than :value characters.',
+        'array' => 'The :attribute must have more than :value items.',
+    ],
+    'gte' => [
+        'numeric' => 'The :attribute must be greater than or equal :value.',
+        'file' => 'The :attribute must be greater than or equal :value kilobytes.',
+        'string' => 'The :attribute must be greater than or equal :value characters.',
+        'array' => 'The :attribute must have :value items or more.',
+    ],
     'image' => ':attribute چوقۇم رەسىم ھۆججىتى بۇلىشى كېرەك.',
     'in' => 'تاللانغان قىممەت :attribute ئىناۋەتسىز',
     'in_array' => ':attribute :other نىڭ ئىچىدە ئەمەس.',
@@ -49,6 +61,18 @@ return [
     'ipv4' => ':attribute چوقۇم ئىناۋەتلىك IPv4 ئادىرىسى بۇلىشى كېرەك.',
     'ipv6' => ':attribute چوقۇم ئىناۋەتلىك IPv6 ئادىرىسى بۇلىشى كېرەك.',
     'json' => ':attribute چوقۇم ئىناۋەتلىك JSON تىپى بۇلىشى كېرەك.',
+    'lt' => [
+        'numeric' => 'The :attribute must be less than :value.',
+        'file' => 'The :attribute must be less than :value kilobytes.',
+        'string' => 'The :attribute must be less than :value characters.',
+        'array' => 'The :attribute must have less than :value items.',
+    ],
+    'lte' => [
+        'numeric' => 'The :attribute must be less than or equal :value.',
+        'file' => 'The :attribute must be less than or equal :value kilobytes.',
+        'string' => 'The :attribute must be less than or equal :value characters.',
+        'array' => 'The :attribute must not have more than :value items.',
+    ],
     'max' => [
         'numeric' => ':attribute :max دىن چوڭ بولماسلىكى كېرەك.',
         'file' => ':attribute :max kb دىن چوڭ بولماسلىكى كېرەك.',

@@ -41,6 +41,18 @@ return [
     'exists' => ':attribute es inválido.',
     'file' => 'El campo :attribute debe ser un archivo.',
     'filled' => 'El campo :attribute es obligatorio.',
+    'gt' => [
+        'numeric' => 'The :attribute must be greater than :value.',
+        'file' => 'The :attribute must be greater than :value kilobytes.',
+        'string' => 'The :attribute must be greater than :value characters.',
+        'array' => 'The :attribute must have more than :value items.',
+    ],
+    'gte' => [
+        'numeric' => 'The :attribute must be greater than or equal :value.',
+        'file' => 'The :attribute must be greater than or equal :value kilobytes.',
+        'string' => 'The :attribute must be greater than or equal :value characters.',
+        'array' => 'The :attribute must have :value items or more.',
+    ],
     'image' => ':attribute debe ser una imagen.',
     'in' => ':attribute es inválido.',
     'in_array' => 'El campo :attribute no existe en :other.',
@@ -49,6 +61,18 @@ return [
     'ipv4' => ':attribute debe ser un dirección IPv4 válida',
     'ipv6' => ':attribute debe ser un dirección IPv6 válida.',
     'json' => 'El campo :attribute debe tener una cadena JSON válida.',
+    'lt' => [
+        'numeric' => 'The :attribute must be less than :value.',
+        'file' => 'The :attribute must be less than :value kilobytes.',
+        'string' => 'The :attribute must be less than :value characters.',
+        'array' => 'The :attribute must have less than :value items.',
+    ],
+    'lte' => [
+        'numeric' => 'The :attribute must be less than or equal :value.',
+        'file' => 'The :attribute must be less than or equal :value kilobytes.',
+        'string' => 'The :attribute must be less than or equal :value characters.',
+        'array' => 'The :attribute must not have more than :value items.',
+    ],
     'max' => [
         'numeric' => ':attribute no debe ser mayor a :max.',
         'file' => ':attribute no debe ser mayor que :max kilobytes.',

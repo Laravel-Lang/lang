@@ -41,6 +41,18 @@ return [
     'exists' => 'A(z) :attribute már létezik.',
     'file' => 'A(z) :attribute fájl kell, hogy legyen!',
     'filled' => 'A(z) :attribute megadása kötelező!',
+    'gt' => [
+        'numeric' => 'The :attribute must be greater than :value.',
+        'file' => 'The :attribute must be greater than :value kilobytes.',
+        'string' => 'The :attribute must be greater than :value characters.',
+        'array' => 'The :attribute must have more than :value items.',
+    ],
+    'gte' => [
+        'numeric' => 'The :attribute must be greater than or equal :value.',
+        'file' => 'The :attribute must be greater than or equal :value kilobytes.',
+        'string' => 'The :attribute must be greater than or equal :value characters.',
+        'array' => 'The :attribute must have :value items or more.',
+    ],
     'image' => 'A(z) :attribute képfájl kell, hogy legyen!',
     'in' => 'A kiválasztott :attribute érvénytelen.',
     'in_array' => 'A(z) :attribute értéke nem található a(z) :other értékek között.',
@@ -49,6 +61,18 @@ return [
     'ipv4' => 'A(z) :attribute érvényes IPv4 cím kell, hogy legyen!',
     'ipv6' => 'A(z) :attribute érvényes IPv6 cím kell, hogy legyen!',
     'json' => 'A(z) :attribute érvényes JSON szöveg kell, hogy legyen!',
+    'lt' => [
+        'numeric' => 'The :attribute must be less than :value.',
+        'file' => 'The :attribute must be less than :value kilobytes.',
+        'string' => 'The :attribute must be less than :value characters.',
+        'array' => 'The :attribute must have less than :value items.',
+    ],
+    'lte' => [
+        'numeric' => 'The :attribute must be less than or equal :value.',
+        'file' => 'The :attribute must be less than or equal :value kilobytes.',
+        'string' => 'The :attribute must be less than or equal :value characters.',
+        'array' => 'The :attribute must not have more than :value items.',
+    ],
     'max' => [
         'numeric' => 'A(z) :attribute értéke nem lehet nagyobb, mint :max!',
         'file' => 'A(z) :attribute mérete nem lehet több, mint :max kilobájt.',

@@ -41,6 +41,18 @@ return [
     'exists' => ':attribute bestaat niet.',
     'file' => ':attribute moet een bestand zijn.',
     'filled' => ':attribute is verplicht.',
+    'gt' => [
+        'numeric' => 'The :attribute must be greater than :value.',
+        'file' => 'The :attribute must be greater than :value kilobytes.',
+        'string' => 'The :attribute must be greater than :value characters.',
+        'array' => 'The :attribute must have more than :value items.',
+    ],
+    'gte' => [
+        'numeric' => 'The :attribute must be greater than or equal :value.',
+        'file' => 'The :attribute must be greater than or equal :value kilobytes.',
+        'string' => 'The :attribute must be greater than or equal :value characters.',
+        'array' => 'The :attribute must have :value items or more.',
+    ],
     'image' => ':attribute moet een afbeelding zijn.',
     'in' => ':attribute is ongeldig.',
     'in_array' => ':attribute bestaat niet in :other.',
@@ -49,6 +61,18 @@ return [
     'ipv4' => ':attribute moet een geldig IPv4-adres zijn.',
     'ipv6' => ':attribute moet een geldig IPv6-adres zijn.',
     'json' => ':attribute moet een geldige JSON-string zijn.',
+    'lt' => [
+        'numeric' => 'The :attribute must be less than :value.',
+        'file' => 'The :attribute must be less than :value kilobytes.',
+        'string' => 'The :attribute must be less than :value characters.',
+        'array' => 'The :attribute must have less than :value items.',
+    ],
+    'lte' => [
+        'numeric' => 'The :attribute must be less than or equal :value.',
+        'file' => 'The :attribute must be less than or equal :value kilobytes.',
+        'string' => 'The :attribute must be less than or equal :value characters.',
+        'array' => 'The :attribute must not have more than :value items.',
+    ],
     'max' => [
         'numeric' => ':attribute mag niet hoger dan :max zijn.',
         'file' => ':attribute mag niet meer dan :max kilobytes zijn.',

@@ -41,6 +41,18 @@ return [
     'exists' => ':attribute selezionato non è valido.',
     'file' => ':attribute deve essere un file.',
     'filled' => 'Il campo :attribute deve contenere un valore.',
+    'gt' => [
+        'numeric' => 'The :attribute must be greater than :value.',
+        'file' => 'The :attribute must be greater than :value kilobytes.',
+        'string' => 'The :attribute must be greater than :value characters.',
+        'array' => 'The :attribute must have more than :value items.',
+    ],
+    'gte' => [
+        'numeric' => 'The :attribute must be greater than or equal :value.',
+        'file' => 'The :attribute must be greater than or equal :value kilobytes.',
+        'string' => 'The :attribute must be greater than or equal :value characters.',
+        'array' => 'The :attribute must have :value items or more.',
+    ],
     'image' => ":attribute deve essere un'immagine.",
     'in' => ':attribute selezionato non è valido.',
     'in_array' => 'Il valore del campo :attribute non esiste in :other.',
@@ -49,6 +61,18 @@ return [
     'ipv4' => ':attribute deve essere un indirizzo IPv4 valido.',
     'ipv6' => ':attribute deve essere un indirizzo IPv6 valido.',
     'json' => ':attribute deve essere una stringa JSON valida.',
+    'lt' => [
+        'numeric' => 'The :attribute must be less than :value.',
+        'file' => 'The :attribute must be less than :value kilobytes.',
+        'string' => 'The :attribute must be less than :value characters.',
+        'array' => 'The :attribute must have less than :value items.',
+    ],
+    'lte' => [
+        'numeric' => 'The :attribute must be less than or equal :value.',
+        'file' => 'The :attribute must be less than or equal :value kilobytes.',
+        'string' => 'The :attribute must be less than or equal :value characters.',
+        'array' => 'The :attribute must not have more than :value items.',
+    ],
     'max' => [
         'numeric' => ':attribute non può essere superiore a :max.',
         'file' => ':attribute non può essere superiore a :max kilobytes.',

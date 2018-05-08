@@ -41,6 +41,18 @@ return [
     'exists' => ':attribute 不存在。',
     'file' => ':attribute 必须是文件。',
     'filled' => ':attribute 不能为空。',
+    'gt' => [
+        'numeric' => 'The :attribute must be greater than :value.',
+        'file' => 'The :attribute must be greater than :value kilobytes.',
+        'string' => 'The :attribute must be greater than :value characters.',
+        'array' => 'The :attribute must have more than :value items.',
+    ],
+    'gte' => [
+        'numeric' => 'The :attribute must be greater than or equal :value.',
+        'file' => 'The :attribute must be greater than or equal :value kilobytes.',
+        'string' => 'The :attribute must be greater than or equal :value characters.',
+        'array' => 'The :attribute must have :value items or more.',
+    ],
     'image' => ':attribute 必须是图片。',
     'in' => '已选的属性 :attribute 非法。',
     'in_array' => ':attribute 没有在 :other 中。',
@@ -49,6 +61,18 @@ return [
     'ipv4' => ':attribute 必须是有效的 IPv4 地址。',
     'ipv6' => ':attribute 必须是有效的 IPv6 地址。',
     'json' => ':attribute 必须是正确的 JSON 格式。',
+    'lt' => [
+        'numeric' => 'The :attribute must be less than :value.',
+        'file' => 'The :attribute must be less than :value kilobytes.',
+        'string' => 'The :attribute must be less than :value characters.',
+        'array' => 'The :attribute must have less than :value items.',
+    ],
+    'lte' => [
+        'numeric' => 'The :attribute must be less than or equal :value.',
+        'file' => 'The :attribute must be less than or equal :value kilobytes.',
+        'string' => 'The :attribute must be less than or equal :value characters.',
+        'array' => 'The :attribute must not have more than :value items.',
+    ],
     'max' => [
         'numeric' => ':attribute 不能大于 :max。',
         'file' => ':attribute 不能大于 :max kb。',

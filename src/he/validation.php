@@ -41,6 +41,18 @@ return [
     'exists' => 'בחירת ה-:attribute אינה תקפה.',
     'file' => 'שדה :attribute חייב להיות קובץ.',
     'filled' => 'שדה :attribute הוא חובה.',
+    'gt' => [
+        'numeric' => 'The :attribute must be greater than :value.',
+        'file' => 'The :attribute must be greater than :value kilobytes.',
+        'string' => 'The :attribute must be greater than :value characters.',
+        'array' => 'The :attribute must have more than :value items.',
+    ],
+    'gte' => [
+        'numeric' => 'The :attribute must be greater than or equal :value.',
+        'file' => 'The :attribute must be greater than or equal :value kilobytes.',
+        'string' => 'The :attribute must be greater than or equal :value characters.',
+        'array' => 'The :attribute must have :value items or more.',
+    ],
     'image' => 'שדה :attribute חייב להיות תמונה.',
     'in' => 'בחירת ה-:attribute אינה תקפה.',
     'in_array' => 'שדה :attribute לא קיים ב:other.',
@@ -49,6 +61,18 @@ return [
     'ipv4' => 'שדה :attribute חייב להיות כתובת IPv4 תקנית.',
     'ipv6' => 'שדה :attribute חייב להיות כתובת IPv6 תקנית.',
     'json' => 'שדה :attribute חייב להיות מחרוזת JSON תקנית.',
+    'lt' => [
+        'numeric' => 'The :attribute must be less than :value.',
+        'file' => 'The :attribute must be less than :value kilobytes.',
+        'string' => 'The :attribute must be less than :value characters.',
+        'array' => 'The :attribute must have less than :value items.',
+    ],
+    'lte' => [
+        'numeric' => 'The :attribute must be less than or equal :value.',
+        'file' => 'The :attribute must be less than or equal :value kilobytes.',
+        'string' => 'The :attribute must be less than or equal :value characters.',
+        'array' => 'The :attribute must not have more than :value items.',
+    ],
     'max' => [
         'numeric' => 'שדה :attribute אינו יכול להיות גדול מ-:max.',
         'file' => 'שדה :attribute לא יכול להיות גדול מ-:max קילובייטים.',

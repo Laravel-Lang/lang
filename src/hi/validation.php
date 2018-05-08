@@ -41,6 +41,18 @@ return [
     'exists' => 'चुना गया :attribute अमान्य है।',
     'file' => 'The :attribute must be a file.',
     'filled' => ':attribute फील्ड आवश्यक होता है।',
+    'gt' => [
+        'numeric' => 'The :attribute must be greater than :value.',
+        'file' => 'The :attribute must be greater than :value kilobytes.',
+        'string' => 'The :attribute must be greater than :value characters.',
+        'array' => 'The :attribute must have more than :value items.',
+    ],
+    'gte' => [
+        'numeric' => 'The :attribute must be greater than or equal :value.',
+        'file' => 'The :attribute must be greater than or equal :value kilobytes.',
+        'string' => 'The :attribute must be greater than or equal :value characters.',
+        'array' => 'The :attribute must have :value items or more.',
+    ],
     'image' => ':attribute एक छवि होनी चाहिए।',
     'in' => 'चुना गया :attribute अमान्य है।',
     'in_array' => ':attribute फील्ड, :other में मौजूद नहीं है।',
@@ -49,6 +61,18 @@ return [
     'ipv4' => 'The :attribute must be a valid IPv4 address.',
     'ipv6' => 'The :attribute must be a valid IPv6 address.',
     'json' => ':attribute एक मान्य JSON स्ट्रिंग होना चाहिए।',
+    'lt' => [
+        'numeric' => 'The :attribute must be less than :value.',
+        'file' => 'The :attribute must be less than :value kilobytes.',
+        'string' => 'The :attribute must be less than :value characters.',
+        'array' => 'The :attribute must have less than :value items.',
+    ],
+    'lte' => [
+        'numeric' => 'The :attribute must be less than or equal :value.',
+        'file' => 'The :attribute must be less than or equal :value kilobytes.',
+        'string' => 'The :attribute must be less than or equal :value characters.',
+        'array' => 'The :attribute must not have more than :value items.',
+    ],
     'max' => [
         'numeric' => ':attribute, :max से बड़ा नहीं हो सकता है।',
         'file' => ':attribute :max किलोबाइट से बड़ा नहीं हो सकता है।',

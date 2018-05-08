@@ -41,6 +41,18 @@ return [
     'exists' => 'O valor selecionado para o campo :attribute é inválido.',
     'file' => 'O campo :attribute deve conter um arquivo.',
     'filled' => 'O campo :attribute é obrigatório.',
+    'gt' => [
+        'numeric' => 'The :attribute must be greater than :value.',
+        'file' => 'The :attribute must be greater than :value kilobytes.',
+        'string' => 'The :attribute must be greater than :value characters.',
+        'array' => 'The :attribute must have more than :value items.',
+    ],
+    'gte' => [
+        'numeric' => 'The :attribute must be greater than or equal :value.',
+        'file' => 'The :attribute must be greater than or equal :value kilobytes.',
+        'string' => 'The :attribute must be greater than or equal :value characters.',
+        'array' => 'The :attribute must have :value items or more.',
+    ],
     'image' => 'O campo :attribute deve conter uma imagem.',
     'in' => 'O campo :attribute não contém um valor válido.',
     'in_array' => 'O campo :attribute não existe em :other.',
@@ -49,6 +61,18 @@ return [
     'ipv4' => 'O campo :attribute deve conter um IPv4 válido.',
     'ipv6' => 'O campo :attribute deve conter um IPv6 válido.',
     'json' => 'O campo :attribute deve conter uma string JSON válida.',
+    'lt' => [
+        'numeric' => 'The :attribute must be less than :value.',
+        'file' => 'The :attribute must be less than :value kilobytes.',
+        'string' => 'The :attribute must be less than :value characters.',
+        'array' => 'The :attribute must have less than :value items.',
+    ],
+    'lte' => [
+        'numeric' => 'The :attribute must be less than or equal :value.',
+        'file' => 'The :attribute must be less than or equal :value kilobytes.',
+        'string' => 'The :attribute must be less than or equal :value characters.',
+        'array' => 'The :attribute must not have more than :value items.',
+    ],
     'max' => [
         'numeric' => 'O campo :attribute não pode conter um valor superior a :max.',
         'file' => 'O campo :attribute não pode conter um arquivo com mais de :max kilobytes.',

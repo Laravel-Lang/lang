@@ -41,6 +41,18 @@ return [
     'exists' => 'Der gewählte Wert für :attribute ist ungültig.',
     'file' => ':attribute muss eine Datei sein.',
     'filled' => ':attribute muss ausgefüllt sein.',
+    'gt' => [
+        'numeric' => 'The :attribute must be greater than :value.',
+        'file' => 'The :attribute must be greater than :value kilobytes.',
+        'string' => 'The :attribute must be greater than :value characters.',
+        'array' => 'The :attribute must have more than :value items.',
+    ],
+    'gte' => [
+        'numeric' => 'The :attribute must be greater than or equal :value.',
+        'file' => 'The :attribute must be greater than or equal :value kilobytes.',
+        'string' => 'The :attribute must be greater than or equal :value characters.',
+        'array' => 'The :attribute must have :value items or more.',
+    ],
     'image' => ':attribute muss ein Bild sein.',
     'in' => 'Der gewählte Wert für :attribute ist ungültig.',
     'in_array' => 'Der gewählte Wert für :attribute kommt nicht in :other vor.',
@@ -49,6 +61,18 @@ return [
     'ipv4' => ':attribute muss eine gültige IPv4-Adresse sein.',
     'ipv6' => ':attribute muss eine gültige IPv6-Adresse sein.',
     'json' => ':attribute muss ein gültiger JSON-String sein.',
+    'lt' => [
+        'numeric' => 'The :attribute must be less than :value.',
+        'file' => 'The :attribute must be less than :value kilobytes.',
+        'string' => 'The :attribute must be less than :value characters.',
+        'array' => 'The :attribute must have less than :value items.',
+    ],
+    'lte' => [
+        'numeric' => 'The :attribute must be less than or equal :value.',
+        'file' => 'The :attribute must be less than or equal :value kilobytes.',
+        'string' => 'The :attribute must be less than or equal :value characters.',
+        'array' => 'The :attribute must not have more than :value items.',
+    ],
     'max' => [
         'numeric' => ':attribute darf maximal :max sein.',
         'file' => ':attribute darf maximal :max Kilobytes groß sein.',

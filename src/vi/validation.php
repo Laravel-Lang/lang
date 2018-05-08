@@ -41,6 +41,18 @@ return [
     'exists' => 'Giá trị đã chọn trong trường :attribute không hợp lệ.',
     'file' => 'Trường :attribute phải là một tệp tin.',
     'filled' => 'Trường :attribute không được bỏ trống.',
+    'gt' => [
+        'numeric' => 'The :attribute must be greater than :value.',
+        'file' => 'The :attribute must be greater than :value kilobytes.',
+        'string' => 'The :attribute must be greater than :value characters.',
+        'array' => 'The :attribute must have more than :value items.',
+    ],
+    'gte' => [
+        'numeric' => 'The :attribute must be greater than or equal :value.',
+        'file' => 'The :attribute must be greater than or equal :value kilobytes.',
+        'string' => 'The :attribute must be greater than or equal :value characters.',
+        'array' => 'The :attribute must have :value items or more.',
+    ],
     'image' => 'Trường :attribute phải là định dạng hình ảnh.',
     'in' => 'Giá trị đã chọn trong trường :attribute không hợp lệ.',
     'in_array' => 'Trường :attribute phải thuộc tập cho phép: :other.',
@@ -49,6 +61,18 @@ return [
     'ipv4' => 'Trường :attribute phải là một địa chỉ IPv4.',
     'ipv6' => 'Trường :attribute phải là một địa chỉ IPv6.',
     'json' => 'Trường :attribute phải là một chuỗi JSON.',
+    'lt' => [
+        'numeric' => 'The :attribute must be less than :value.',
+        'file' => 'The :attribute must be less than :value kilobytes.',
+        'string' => 'The :attribute must be less than :value characters.',
+        'array' => 'The :attribute must have less than :value items.',
+    ],
+    'lte' => [
+        'numeric' => 'The :attribute must be less than or equal :value.',
+        'file' => 'The :attribute must be less than or equal :value kilobytes.',
+        'string' => 'The :attribute must be less than or equal :value characters.',
+        'array' => 'The :attribute must not have more than :value items.',
+    ],
     'max' => [
         'numeric' => 'Trường :attribute không được lớn hơn :max.',
         'file' => 'Dung lượng tập tin trong trường :attribute không được lớn hơn :max kB.',

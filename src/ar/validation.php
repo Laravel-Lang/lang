@@ -41,6 +41,18 @@ return [
     'exists' => 'القيمة المحددة :attribute غير موجودة',
     'file' => 'الـ :attribute يجب أن يكون ملفا.',
     'filled' => ':attribute إجباري',
+    'gt' => [
+        'numeric' => 'The :attribute must be greater than :value.',
+        'file' => 'The :attribute must be greater than :value kilobytes.',
+        'string' => 'The :attribute must be greater than :value characters.',
+        'array' => 'The :attribute must have more than :value items.',
+    ],
+    'gte' => [
+        'numeric' => 'The :attribute must be greater than or equal :value.',
+        'file' => 'The :attribute must be greater than or equal :value kilobytes.',
+        'string' => 'The :attribute must be greater than or equal :value characters.',
+        'array' => 'The :attribute must have :value items or more.',
+    ],
     'image' => 'يجب أن يكون :attribute صورةً',
     'in' => ':attribute لاغٍ',
     'in_array' => ':attribute غير موجود في :other.',
@@ -49,6 +61,18 @@ return [
     'ipv4' => 'يجب أن يكون :attribute عنوان IPv4 صحيحًا.',
     'ipv6' => 'يجب أن يكون :attribute عنوان IPv6 صحيحًا.',
     'json' => 'يجب أن يكون :attribute نصآ من نوع JSON.',
+    'lt' => [
+        'numeric' => 'The :attribute must be less than :value.',
+        'file' => 'The :attribute must be less than :value kilobytes.',
+        'string' => 'The :attribute must be less than :value characters.',
+        'array' => 'The :attribute must have less than :value items.',
+    ],
+    'lte' => [
+        'numeric' => 'The :attribute must be less than or equal :value.',
+        'file' => 'The :attribute must be less than or equal :value kilobytes.',
+        'string' => 'The :attribute must be less than or equal :value characters.',
+        'array' => 'The :attribute must not have more than :value items.',
+    ],
     'max' => [
         'numeric' => 'يجب أن تكون قيمة :attribute مساوية أو أصغر لـ :max.',
         'file' => 'يجب أن لا يتجاوز حجم الملف :attribute :max كيلوبايت',

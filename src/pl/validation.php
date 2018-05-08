@@ -41,6 +41,18 @@ return [
     'exists' => 'Zaznaczony :attribute jest nieprawidłowy.',
     'file' => ':attribute musi być plikiem.',
     'filled' => 'Pole :attribute jest wymagane.',
+    'gt' => [
+        'numeric' => 'The :attribute must be greater than :value.',
+        'file' => 'The :attribute must be greater than :value kilobytes.',
+        'string' => 'The :attribute must be greater than :value characters.',
+        'array' => 'The :attribute must have more than :value items.',
+    ],
+    'gte' => [
+        'numeric' => 'The :attribute must be greater than or equal :value.',
+        'file' => 'The :attribute must be greater than or equal :value kilobytes.',
+        'string' => 'The :attribute must be greater than or equal :value characters.',
+        'array' => 'The :attribute must have :value items or more.',
+    ],
     'image' => ':attribute musi być obrazkiem.',
     'in' => 'Zaznaczony :attribute jest nieprawidłowy.',
     'in_array' => ':attribute nie znajduje się w :other.',
@@ -49,6 +61,18 @@ return [
     'ipv4' => ':attribute musi być prawidłowym adresem IPv4.',
     'ipv6' => ':attribute musi być prawidłowym adresem IPv6.',
     'json' => ':attribute musi być poprawnym ciągiem znaków JSON.',
+    'lt' => [
+        'numeric' => 'The :attribute must be less than :value.',
+        'file' => 'The :attribute must be less than :value kilobytes.',
+        'string' => 'The :attribute must be less than :value characters.',
+        'array' => 'The :attribute must have less than :value items.',
+    ],
+    'lte' => [
+        'numeric' => 'The :attribute must be less than or equal :value.',
+        'file' => 'The :attribute must be less than or equal :value kilobytes.',
+        'string' => 'The :attribute must be less than or equal :value characters.',
+        'array' => 'The :attribute must not have more than :value items.',
+    ],
     'max' => [
         'numeric' => ':attribute nie może być większy niż :max.',
         'file' => ':attribute nie może być większy niż :max kilobajtów.',

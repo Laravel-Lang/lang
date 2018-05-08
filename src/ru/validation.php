@@ -42,6 +42,18 @@ return [
     'file' => 'Поле :attribute должно быть файлом.',
     'filled' => 'Поле :attribute обязательно для заполнения.',
     'exists' => 'Выбранное значение для :attribute некорректно.',
+    'gt' => [
+        'numeric' => 'The :attribute must be greater than :value.',
+        'file' => 'The :attribute must be greater than :value kilobytes.',
+        'string' => 'The :attribute must be greater than :value characters.',
+        'array' => 'The :attribute must have more than :value items.',
+    ],
+    'gte' => [
+        'numeric' => 'The :attribute must be greater than or equal :value.',
+        'file' => 'The :attribute must be greater than or equal :value kilobytes.',
+        'string' => 'The :attribute must be greater than or equal :value characters.',
+        'array' => 'The :attribute must have :value items or more.',
+    ],
     'image' => 'Поле :attribute должно быть изображением.',
     'in' => 'Выбранное значение для :attribute ошибочно.',
     'in_array' => 'Поле :attribute не существует в :other.',
@@ -50,6 +62,18 @@ return [
     'ipv4' => 'Поле :attribute должно быть действительным IPv4-адресом.',
     'ipv6' => 'Поле :attribute должно быть действительным IPv6-адресом.',
     'json' => 'Поле :attribute должно быть JSON строкой.',
+    'lt' => [
+        'numeric' => 'The :attribute must be less than :value.',
+        'file' => 'The :attribute must be less than :value kilobytes.',
+        'string' => 'The :attribute must be less than :value characters.',
+        'array' => 'The :attribute must have less than :value items.',
+    ],
+    'lte' => [
+        'numeric' => 'The :attribute must be less than or equal :value.',
+        'file' => 'The :attribute must be less than or equal :value kilobytes.',
+        'string' => 'The :attribute must be less than or equal :value characters.',
+        'array' => 'The :attribute must not have more than :value items.',
+    ],
     'max' => [
         'numeric' => 'Поле :attribute не может быть более :max.',
         'file' => 'Размер файла в поле :attribute не может быть более :max Килобайт(а).',

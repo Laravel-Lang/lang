@@ -41,6 +41,18 @@ return [
     'exists' => 'Hautatutako :attribute baliogabea da.',
     'file' => ':attribute fitxategi bat izan behar da.',
     'filled' => ':attribute-k balioren bat euki behar du.',
+    'gt' => [
+        'numeric' => 'The :attribute must be greater than :value.',
+        'file' => 'The :attribute must be greater than :value kilobytes.',
+        'string' => 'The :attribute must be greater than :value characters.',
+        'array' => 'The :attribute must have more than :value items.',
+    ],
+    'gte' => [
+        'numeric' => 'The :attribute must be greater than or equal :value.',
+        'file' => 'The :attribute must be greater than or equal :value kilobytes.',
+        'string' => 'The :attribute must be greater than or equal :value characters.',
+        'array' => 'The :attribute must have :value items or more.',
+    ],
     'image' => ':attribute irudi bat izan behar da.',
     'in' => 'Hautatutako :attribute baliogabea da.',
     'in_array' => ':attribute ez da :other-en existizen.',
@@ -49,6 +61,18 @@ return [
     'ipv4' => ':attribute baliozko IPv4 helbidea izan behar da.',
     'ipv6' => ':attribute baliozko IPv6 helbidea izan behar da.',
     'json' => ':attribute-k baliozko JSON karaktere-katea euki behar du.',
+    'lt' => [
+        'numeric' => 'The :attribute must be less than :value.',
+        'file' => 'The :attribute must be less than :value kilobytes.',
+        'string' => 'The :attribute must be less than :value characters.',
+        'array' => 'The :attribute must have less than :value items.',
+    ],
+    'lte' => [
+        'numeric' => 'The :attribute must be less than or equal :value.',
+        'file' => 'The :attribute must be less than or equal :value kilobytes.',
+        'string' => 'The :attribute must be less than or equal :value characters.',
+        'array' => 'The :attribute must not have more than :value items.',
+    ],
     'max' => [
         'numeric' => ':attribute ezin da :max baino handiagoa izan.',
         'file' => ':attribute-k ezin du :max kilobyte baino gehiagoko pisua euki.',

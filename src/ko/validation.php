@@ -41,6 +41,18 @@ return [
     'exists' => '선택된 :attribute은(는) 유효하지 않습니다.',
     'file' => ':attribute은(는) 파일이어야 합니다.',
     'filled' => ':attribute 필드는 값이 있어야 합니다.',
+    'gt' => [
+        'numeric' => 'The :attribute must be greater than :value.',
+        'file' => 'The :attribute must be greater than :value kilobytes.',
+        'string' => 'The :attribute must be greater than :value characters.',
+        'array' => 'The :attribute must have more than :value items.',
+    ],
+    'gte' => [
+        'numeric' => 'The :attribute must be greater than or equal :value.',
+        'file' => 'The :attribute must be greater than or equal :value kilobytes.',
+        'string' => 'The :attribute must be greater than or equal :value characters.',
+        'array' => 'The :attribute must have :value items or more.',
+    ],
     'image' => ':attribute은(는) 이미지여야 합니다.',
     'in' => '선택된 :attribute은(는) 유효하지 않습니다.',
     'in_array' => ':attribute 필드는 :other에 존재하지 않습니다.',
@@ -49,6 +61,18 @@ return [
     'ipv4' => ':attribute은(는) 유효한 IPv4 주소여야 합니다.',
     'ipv6' => ':attribute은(는) 유효한 IPv6 주소여야 합니다.',
     'json' => ':attribute은(는) JSON 문자열이어야 합니다.',
+    'lt' => [
+        'numeric' => 'The :attribute must be less than :value.',
+        'file' => 'The :attribute must be less than :value kilobytes.',
+        'string' => 'The :attribute must be less than :value characters.',
+        'array' => 'The :attribute must have less than :value items.',
+    ],
+    'lte' => [
+        'numeric' => 'The :attribute must be less than or equal :value.',
+        'file' => 'The :attribute must be less than or equal :value kilobytes.',
+        'string' => 'The :attribute must be less than or equal :value characters.',
+        'array' => 'The :attribute must not have more than :value items.',
+    ],
     'max' => [
         'numeric' => ':attribute은(는) :max보다 클 수 없습니다.',
         'file' => ':attribute은(는) :max킬로바이트보다 클 수 없습니다.',

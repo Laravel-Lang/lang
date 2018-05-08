@@ -41,6 +41,18 @@ return [
     'exists' => 'Kipengele kilichochaguliwa si halali.',
     'file' => 'The :attribute must be a file.',
     'filled' => 'Sehemu ya kipengele inahitajika.',
+    'gt' => [
+        'numeric' => 'The :attribute must be greater than :value.',
+        'file' => 'The :attribute must be greater than :value kilobytes.',
+        'string' => 'The :attribute must be greater than :value characters.',
+        'array' => 'The :attribute must have more than :value items.',
+    ],
+    'gte' => [
+        'numeric' => 'The :attribute must be greater than or equal :value.',
+        'file' => 'The :attribute must be greater than or equal :value kilobytes.',
+        'string' => 'The :attribute must be greater than or equal :value characters.',
+        'array' => 'The :attribute must have :value items or more.',
+    ],
     'image' => 'Kipengele lazima kiwe picha.',
     'in' => 'Kipengele kilichochaguliwa si halali.',
     'in_array' => 'Sehemu ya kipengele haipo katika :nyingine.',
@@ -49,6 +61,18 @@ return [
     'ipv4' => 'The :attribute must be a valid IPv4 address.',
     'ipv6' => 'The :attribute must be a valid IPv6 address.',
     'json' => 'Kipengele lazima kiwe kidwe halali cha Nukuu ya Java.',
+    'lt' => [
+        'numeric' => 'The :attribute must be less than :value.',
+        'file' => 'The :attribute must be less than :value kilobytes.',
+        'string' => 'The :attribute must be less than :value characters.',
+        'array' => 'The :attribute must have less than :value items.',
+    ],
+    'lte' => [
+        'numeric' => 'The :attribute must be less than or equal :value.',
+        'file' => 'The :attribute must be less than or equal :value kilobytes.',
+        'string' => 'The :attribute must be less than or equal :value characters.',
+        'array' => 'The :attribute must not have more than :value items.',
+    ],
     'max' => [
         'numeric' => 'Kipengele huenda si kikubwa kuliko :kiwango cha juu.',
         'file' => 'Kipengele huenda si kikubwa kuliko :kiwango cha juu cha kilobaiti.',

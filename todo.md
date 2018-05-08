@@ -168,10 +168,6 @@
     * validation : not_regex
 
  * fr:
-    * validation : gt
-    * validation : gte
-    * validation : lt
-    * validation : lte
 
  * gl:
     * validation : after_or_equal

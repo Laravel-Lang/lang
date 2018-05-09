@@ -2,10 +2,6 @@
 
 
  * ar:
-    * validation : gt
-    * validation : gte
-    * validation : lt
-    * validation : lte
 
  * az:
     * validation : gt

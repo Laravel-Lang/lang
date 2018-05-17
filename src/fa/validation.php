@@ -43,13 +43,13 @@ return [
     'filled' => 'فیلد :attribute الزامی است',
     'gt' => [
         'numeric' => ':attribute باید بزرگتر از :value باشد',
-        'file' => ':attribute باید بزرگتر از :value باشد',
+        'file' => ':attribute باید بزرگتر از :value کیلوبایت باشد',
         'string' => ':attribute باید بزرگتر از :value کاراکتر باشد',
         'array' => ':attribute باید بزرگتر از :value آیتم باشد',
     ],
     'gte' => [
         'numeric' => ':attribute باید بزرگتر یا مساوی از :value باشد',
-        'file' => ':attribute باید بزرگتر یا مساوی از :value باشد',
+        'file' => ':attribute باید بزرگتر یا مساوی از :value کیلوبایت باشد',
         'string' => ':attribute باید بزرگتر یا مساوی از :value کاراکتر باشد',
         'array' => ':attribute باید بزرگتر یا مساوی از :value آیتم باشد',
     ],
@@ -63,13 +63,13 @@ return [
     'json' => 'فیلد :attribute باید یک رشته از نوع JSON باشد.',
     'lt' => [
         'numeric' => ':attribute باید کوچکتر از :value باشد',
-        'file' => ':attribute باید کوچکتر از :value باشد',
+        'file' => ':attribute باید کوچکتر از :value کیلوبایت باشد',
         'string' => ':attribute باید کوچکتر از :value کاراکتر باشد',
         'array' => ':attribute باید کوچکتر از :value آیتم باشد',
     ],
     'lte' => [
         'numeric' => ':attribute باید کوچکتر یا مساوی از :value باشد',
-        'file' => ':attribute باید کوچکتر یا مساوی از :value باشد',
+        'file' => ':attribute باید کوچکتر یا مساوی از :value کیلوبایت باشد',
         'string' => ':attribute باید کوچکتر یا مساوی از :value کاراکتر باشد',
         'array' => ':attribute باید کوچکتر یا مساوی از :value آیتم باشد',
     ],

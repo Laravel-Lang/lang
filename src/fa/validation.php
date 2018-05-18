@@ -41,6 +41,18 @@ return [
     'exists' => ':attribute انتخاب شده، معتبر نیست.',
     'file' => ':attribute باید یک فایل باشد',
     'filled' => 'فیلد :attribute الزامی است',
+    'gt' => [
+        'numeric' => ':attribute باید بزرگتر از :value باشد',
+        'file' => ':attribute باید بزرگتر از :value کیلوبایت باشد',
+        'string' => ':attribute باید بزرگتر از :value کاراکتر باشد',
+        'array' => ':attribute باید بزرگتر از :value آیتم باشد',
+    ],
+    'gte' => [
+        'numeric' => ':attribute باید بزرگتر یا مساوی از :value باشد',
+        'file' => ':attribute باید بزرگتر یا مساوی از :value کیلوبایت باشد',
+        'string' => ':attribute باید بزرگتر یا مساوی از :value کاراکتر باشد',
+        'array' => ':attribute باید بزرگتر یا مساوی از :value آیتم باشد',
+    ],
     'image' => ':attribute باید تصویر باشد.',
     'in' => ':attribute انتخاب شده، معتبر نیست.',
     'in_array' => 'فیلد :attribute در :other وجود ندارد.',
@@ -49,6 +61,18 @@ return [
     'ipv4' => ':attribute باید یک آدرس معتبر از نوع IPv4 باشد.',
     'ipv6' => ':attribute باید یک آدرس معتبر از نوع IPv6 باشد.',
     'json' => 'فیلد :attribute باید یک رشته از نوع JSON باشد.',
+    'lt' => [
+        'numeric' => ':attribute باید کوچکتر از :value باشد',
+        'file' => ':attribute باید کوچکتر از :value کیلوبایت باشد',
+        'string' => ':attribute باید کوچکتر از :value کاراکتر باشد',
+        'array' => ':attribute باید کوچکتر از :value آیتم باشد',
+    ],
+    'lte' => [
+        'numeric' => ':attribute باید کوچکتر یا مساوی از :value باشد',
+        'file' => ':attribute باید کوچکتر یا مساوی از :value کیلوبایت باشد',
+        'string' => ':attribute باید کوچکتر یا مساوی از :value کاراکتر باشد',
+        'array' => ':attribute باید کوچکتر یا مساوی از :value آیتم باشد',
+    ],
     'max' => [
         'numeric' => ':attribute نباید بزرگتر از :max باشد.',
         'file' => ':attribute نباید بزرگتر از :max کیلوبایت باشد.',
@@ -64,6 +88,7 @@ return [
         'array' => ':attribute نباید کمتر از :min آیتم باشد.',
     ],
     'not_in' => ':attribute انتخاب شده، معتبر نیست.',
+    'not_regex' => 'فرمت :attribute معتبر نیست.',
     'numeric' => ':attribute باید عدد باشد.',
     'present' => 'فیلد :attribute باید در پارامترهای ارسالی وجود داشته باشد.',
     'regex' => 'فرمت :attribute معتبر نیست',
@@ -144,5 +169,6 @@ return [
         'available' => 'موجود',
         'size' => 'اندازه',
         'terms' => 'شرایط',
+        'province' => 'استان',
     ],
 ];

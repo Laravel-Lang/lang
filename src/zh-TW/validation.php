@@ -24,7 +24,7 @@ return [
     'before_or_equal' => ':attribute 必須要等於 :date 或更早。',
     'between' => [
         'numeric' => ':attribute 必須介於 :min 至 :max 之間。',
-        'file' => ':attribute 必須介於 :min 至 :max kb 之間。 ',
+        'file' => ':attribute 必須介於 :min 至 :max KB 之間。 ',
         'string' => ':attribute 必須介於 :min 至 :max 個字元之間。',
         'array' => ':attribute: 必須有 :min - :max 個元素。',
     ],
@@ -43,13 +43,13 @@ return [
     'filled' => ':attribute 不能留空。',
     'gt' => [
         'numeric' => ':attribute 必須大於 :value。',
-        'file' => ':attribute 必須大於 :value kb。',
+        'file' => ':attribute 必須大於 :value KB。',
         'string' => ':attribute 必須多於 :value 個字元。',
         'array' => ':attribute 必須多於 :value 個元素。',
     ],
     'gte' => [
         'numeric' => ':attribute 必須大於或等於 :value。',
-        'file' => ':attribute 必須大於或等於 :value kb。',
+        'file' => ':attribute 必須大於或等於 :value KB。',
         'string' => ':attribute 必須多於或等於 :value 個字元。',
         'array' => ':attribute 必須多於或等於 :value 個元素。',
     ],
@@ -63,19 +63,19 @@ return [
     'json' => ':attribute 必須是正確的 JSON 字串。',
     'lt' => [
         'numeric' => ':attribute 必須小於 :value。',
-        'file' => ':attribute 必須小於 :value kb。',
+        'file' => ':attribute 必須小於 :value KB。',
         'string' => ':attribute 必須少於 :value 個字元。',
         'array' => ':attribute 必須少於 :value 個元素。',
     ],
     'lte' => [
         'numeric' => ':attribute 必須小於或等於 :value。',
-        'file' => ':attribute 必須小於或等於 :value kb。',
+        'file' => ':attribute 必須小於或等於 :value KB。',
         'string' => ':attribute 必須少於或等於 :value 個字元。',
         'array' => ':attribute 必須少於或等於 :value 個元素。',
     ],
     'max' => [
         'numeric' => ':attribute 不能大於 :max。',
-        'file' => ':attribute 不能大於 :max kb。',
+        'file' => ':attribute 不能大於 :max KB。',
         'string' => ':attribute 不能多於 :max 個字元。',
         'array' => ':attribute 最多有 :max 個元素。',
     ],
@@ -83,7 +83,7 @@ return [
     'mimetypes' => ':attribute 必須為 :values 的檔案。',
     'min' => [
         'numeric' => ':attribute 不能小於 :min。',
-        'file' => ':attribute 不能小於 :min kb。',
+        'file' => ':attribute 不能小於 :min KB。',
         'string' => ':attribute 不能小於 :min 個字元。',
         'array' => ':attribute 至少有 :min 個元素。',
     ],
@@ -102,7 +102,7 @@ return [
     'same' => ':attribute 與 :other 必須相同。',
     'size' => [
         'numeric' => ':attribute 的大小必須是 :size。',
-        'file' => ':attribute 的大小必須是 :size kb。',
+        'file' => ':attribute 的大小必須是 :size KB。',
         'string' => ':attribute 必須是 :size 個字元。',
         'array' => ':attribute 必須是 :size 個元素。',
     ],

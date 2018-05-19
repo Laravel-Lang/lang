@@ -24,7 +24,7 @@ return [
     'before_or_equal' => ':attribute 必須要等於 :date 或更早。',
     'between' => [
         'numeric' => ':attribute 必須介於 :min 至 :max 之間。',
-        'file' => ':attribute 必須介於 :min 至 :max kb 之間。 ',
+        'file' => ':attribute 必須介於 :min 至 :max KB 之間。 ',
         'string' => ':attribute 必須介於 :min 至 :max 個字元之間。',
         'array' => ':attribute: 必須有 :min - :max 個元素。',
     ],

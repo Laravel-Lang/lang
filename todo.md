@@ -123,11 +123,6 @@
     * validation : not_regex
 
  * es:
-    * validation : gt
-    * validation : gte
-    * validation : lt
-    * validation : lte
-    * validation : not_regex
 
  * et:
     * validation : gt
@@ -144,10 +139,6 @@
     * validation : not_regex
 
  * fa:
-    * validation : gt
-    * validation : gte
-    * validation : lt
-    * validation : lte
 
  * fi:
     * validation : after_or_equal
@@ -166,21 +157,11 @@
  * fr:
 
  * gl:
-    * validation : after_or_equal
-    * validation : before_or_equal
     * validation : dimensions
     * validation : distinct
     * validation : file
-    * validation : gt
-    * validation : gte
     * validation : in_array
-    * validation : ipv4
-    * validation : ipv6
-    * validation : lt
-    * validation : lte
-    * validation : not_regex
     * validation : present
-    * validation : uploaded
 
  * he:
     * validation : gt
@@ -225,18 +206,9 @@
     * validation : uploaded
 
  * hu:
-    * validation : gt
-    * validation : gte
-    * validation : lt
-    * validation : lte
     * validation : not_regex
 
  * id:
-    * validation : gt
-    * validation : gte
-    * validation : lt
-    * validation : lte
-    * validation : not_regex
 
  * is:
     * auth : failed
@@ -265,11 +237,6 @@
     * validation : uploaded
 
  * it:
-    * validation : gt
-    * validation : gte
-    * validation : lt
-    * validation : lte
-    * validation : not_regex
 
  * ja:
     * validation : gt
@@ -405,11 +372,6 @@
     * validation : same
 
  * ms:
-    * validation : gt
-    * validation : gte
-    * validation : lt
-    * validation : lte
-    * validation : not_regex
 
  * nb:
     * validation : gt
@@ -469,10 +431,6 @@
     * validation : not_regex
 
  * pt-BR:
-    * validation : gt
-    * validation : gte
-    * validation : lt
-    * validation : lte
     * validation : not_regex
 
  * ro:
@@ -485,10 +443,6 @@
     * validation : not_regex
 
  * ru:
-    * validation : gt
-    * validation : gte
-    * validation : lt
-    * validation : lte
 
  * sc:
     * auth : failed
@@ -706,19 +660,7 @@
     * validation : lte
 
  * zh-CN:
-    * validation : gt
-    * validation : gte
-    * validation : lt
-    * validation : lte
 
  * zh-HK:
-    * validation : gt
-    * validation : gte
-    * validation : lt
-    * validation : lte
 
  * zh-TW:
-    * validation : gt
-    * validation : gte
-    * validation : lt
-    * validation : lte

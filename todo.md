@@ -521,13 +521,6 @@
     * validation : uploaded
 
  * sv:
-    * validation : gt
-    * validation : gte
-    * validation : ipv4
-    * validation : ipv6
-    * validation : lt
-    * validation : lte
-    * validation : not_regex
 
  * sw:
     * validation : after_or_equal

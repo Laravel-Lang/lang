@@ -111,6 +111,7 @@ return [
     'unique' => 'Trường :attribute đã có trong cơ sở dữ liệu.',
     'uploaded' => 'Trường :attribute tải lên thất bại.',
     'url' => 'Trường :attribute không giống với định dạng một URL.',
+    'uuid' => 'Trường :attribute có định dạng UUID không chính xác.',
 
     /*
     |--------------------------------------------------------------------------

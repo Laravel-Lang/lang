@@ -111,6 +111,7 @@ return [
     'unique' => 'Ang :attribute ay nakuha na.',
     'uploaded' => 'The :attribute failed to upload.',
     'url' => 'Ang :format ng attribute ay imbalido.',
+    'uuid' => 'Ang :format ay may hindi tamang format ng UUID.',
 
     /*
     |--------------------------------------------------------------------------

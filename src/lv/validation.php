@@ -111,6 +111,7 @@ return [
     'unique' => ' :attribute jau ir aizņemts.',
     'uploaded' => ' :attribute netika augšuplādēts.',
     'url' => ' :attribute formāts ir nederīgs.',
+    'uuid' => ' :attribute ir nepareizs UUID formāts.',
 
     /*
     |--------------------------------------------------------------------------

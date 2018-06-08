@@ -110,10 +110,6 @@
     * validation : not_regex
 
  * de:
-    * validation : gt
-    * validation : gte
-    * validation : lt
-    * validation : lte
 
  * el:
     * validation : gt

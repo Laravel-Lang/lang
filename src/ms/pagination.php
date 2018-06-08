@@ -13,5 +13,5 @@ return [
     */
 
     'previous' => '&laquo; Sebelumnya',
-    'next' => 'Seterusnya &raquo;',
+    'next'     => 'Seterusnya &raquo;',
 ];

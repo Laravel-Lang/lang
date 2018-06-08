@@ -13,5 +13,5 @@ return [
     */
 
     'previous' => '&laquo; Cynt',
-    'next' => 'Nesaf &raquo;',
+    'next'     => 'Nesaf &raquo;',
 ];

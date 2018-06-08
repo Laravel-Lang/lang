@@ -111,6 +111,7 @@ return [
     'unique' => ':attribute is al in gebruik.',
     'uploaded' => 'Het uploaden van :attribute is mislukt.',
     'url' => ':attribute is geen geldige URL.',
+    'uuid' => 'De :attribute heeft een onjuiste UUID-indeling.',
 
     /*
     |--------------------------------------------------------------------------

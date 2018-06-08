@@ -111,6 +111,7 @@ return [
     'unique' => ':attribute est istadu giai impreadu.',
     'uploaded' => 'The :attribute failed to upload.',
     'url' => ":attribute depet èssere un'URL.",
+    'uuid' => "U :attribute hè un format UUID incorrect.",
 
     /*
     |--------------------------------------------------------------------------

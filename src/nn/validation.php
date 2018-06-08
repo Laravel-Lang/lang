@@ -111,6 +111,7 @@ return [
     'unique' => ':attribute er allereie i bruk.',
     'uploaded' => 'The :attribute failed to upload.',
     'url' => 'Formatet på :attribute er ugyldig.',
+    'uuid' => 'Formatet på :attribute har et feil UUID-format.',
 
     /*
     |--------------------------------------------------------------------------

@@ -111,6 +111,7 @@ return [
     'unique' => ':attribute کو پہلے ہی کسی نے حاصل کر لیا ہے۔',
     'uploaded' => 'The :attribute failed to upload.',
     'url' => ':attribute فارمیٹ قابلِ قبول نہیں ہے۔',
+    'uuid' => ':attribute میں ایک غلط UUID کی شکل ہے۔',
 
     /*
     |--------------------------------------------------------------------------

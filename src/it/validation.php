@@ -111,6 +111,7 @@ return [
     'unique' => ':attribute è stato già utilizzato.',
     'uploaded' => ':attribute non è stato caricato.',
     'url' => 'Il formato del campo :attribute non è valido.',
+    'uuid' => 'Il :attribute ha un formato UUID errato.',
 
     /*
     |--------------------------------------------------------------------------

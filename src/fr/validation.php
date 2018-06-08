@@ -41,6 +41,18 @@ return [
     'exists' => 'Le champ :attribute sélectionné est invalide.',
     'file' => 'Le champ :attribute doit être un fichier.',
     'filled' => 'Le champ :attribute doit avoir une valeur.',
+    'gt' => [
+        'numeric' => 'La valeur de :attribute doit être supérieure à :value.',
+        'file' => 'La taille du fichier de :attribute doit être supérieure à :value kilo-octets.',
+        'string' => 'Le texte :attribute doit contenir plus de :value caractères.',
+        'array' => 'Le tableau :attribute doit contenir plus de :value éléments.',
+    ],
+    'gte' => [
+        'numeric' => 'La valeur de :attribute doit être supérieure ou égale à :value.',
+        'file' => 'La taille du fichier de :attribute doit être supérieure ou égale à :value kilo-octets.',
+        'string' => 'Le texte :attribute doit contenir au moins :value caractères.',
+        'array' => 'Le tableau :attribute doit contenir au moins :value éléments.',
+    ],
     'image' => 'Le champ :attribute doit être une image.',
     'in' => 'Le champ :attribute est invalide.',
     'in_array' => "Le champ :attribute n'existe pas dans :other.",
@@ -49,6 +61,18 @@ return [
     'ipv4' => 'Le champ :attribute doit être une adresse IPv4 valide.',
     'ipv6' => 'Le champ :attribute doit être une adresse IPv6 valide.',
     'json' => 'Le champ :attribute doit être un document JSON valide.',
+    'lt' => [
+        'numeric' => 'La valeur de :attribute doit être inférieure à :value.',
+        'file' => 'La taille du fichier de :attribute doit être inférieure à :value kilo-octets.',
+        'string' => 'Le texte :attribute doit contenir moins de :value caractères.',
+        'array' => 'Le tableau :attribute doit contenir moins de :value éléments.',
+    ],
+    'lte' => [
+        'numeric' => 'La valeur de :attribute doit être inférieure ou égale à :value.',
+        'file' => 'La taille du fichier de :attribute doit être inférieure ou égale à :value kilo-octets.',
+        'string' => 'Le texte :attribute doit contenir au plus :value caractères.',
+        'array' => 'Le tableau :attribute doit contenir au plus :value éléments.',
+    ],
     'max' => [
         'numeric' => 'La valeur de :attribute ne peut être supérieure à :max.',
         'file' => 'La taille du fichier de :attribute ne peut pas dépasser :max kilo-octets.',

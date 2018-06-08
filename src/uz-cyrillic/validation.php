@@ -41,6 +41,18 @@ return [
     'file' => ':Attribute майдони файл турида бўлиши керак.',
     'filled' => ':Attribute майдони тўлдирилиши шарт.',
     'exists' => ':Attribute майдони учун танланган қиймат нотўғри.',
+    'gt' => [
+        'numeric' => 'The :attribute must be greater than :value.',
+        'file' => 'The :attribute must be greater than :value kilobytes.',
+        'string' => 'The :attribute must be greater than :value characters.',
+        'array' => 'The :attribute must have more than :value items.',
+    ],
+    'gte' => [
+        'numeric' => 'The :attribute must be greater than or equal :value.',
+        'file' => 'The :attribute must be greater than or equal :value kilobytes.',
+        'string' => 'The :attribute must be greater than or equal :value characters.',
+        'array' => 'The :attribute must have :value items or more.',
+    ],
     'image' => ':Attribute майдони тасвир турида бўлиши керак.',
     'in' => ':Attribute майдони учун танланган қиймат хато.',
     'in_array' => ':Attribute майдонининг қиймати :other да мавжуд эмас.',
@@ -49,6 +61,18 @@ return [
     'ipv4' => ':Attribute майдони ҳақийқий IPv4 манзил бўлиши керак.',
     'ipv6' => ':Attribute майдони ҳақийқий IPv6 манзил бўлиши керак.',
     'json' => ':Attribute майдони JSON қатор (string) бўлиши керак.',
+    'lt' => [
+        'numeric' => 'The :attribute must be less than :value.',
+        'file' => 'The :attribute must be less than :value kilobytes.',
+        'string' => 'The :attribute must be less than :value characters.',
+        'array' => 'The :attribute must have less than :value items.',
+    ],
+    'lte' => [
+        'numeric' => 'The :attribute must be less than or equal :value.',
+        'file' => 'The :attribute must be less than or equal :value kilobytes.',
+        'string' => 'The :attribute must be less than or equal :value characters.',
+        'array' => 'The :attribute must not have more than :value items.',
+    ],
     'max' => [
         'numeric' => ':Attribute майдони қиймати :max дан ошмаслиги керак.',
         'file' => ':Attribute майдонидаги файлнинг ҳажми :max килобайтдан ошмаслиги керак.',

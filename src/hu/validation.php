@@ -41,6 +41,18 @@ return [
     'exists' => 'A(z) :attribute már létezik.',
     'file' => 'A(z) :attribute fájl kell, hogy legyen!',
     'filled' => 'A(z) :attribute megadása kötelező!',
+    'gt' => [
+        'numeric' => 'A(z) :attribute nagyobb kell, hogy legyen, mint :value!',
+        'file' => 'A(z) :attribute mérete nagyobb kell, hogy legyen, mint :value kilobájt.',
+        'string' => 'A(z) :attribute hosszabb kell, hogy legyen, mint :value karakter.',
+        'array' => 'A(z) :attribute több, mint :value elemet kell, hogy tartalmazzon.',
+    ],
+    'gte' => [
+        'numeric' => 'A(z) :attribute nagyobb vagy egyenlő kell, hogy legyen, mint :value!',
+        'file' => 'A(z) :attribute mérete nem lehet kevesebb, mint :value kilobájt.',
+        'string' => 'A(z) :attribute hossza nem lehet kevesebb, mint :value karakter.',
+        'array' => 'A(z) :attribute legalább :value elemet kell, hogy tartalmazzon.',
+    ],
     'image' => 'A(z) :attribute képfájl kell, hogy legyen!',
     'in' => 'A kiválasztott :attribute érvénytelen.',
     'in_array' => 'A(z) :attribute értéke nem található a(z) :other értékek között.',
@@ -49,6 +61,18 @@ return [
     'ipv4' => 'A(z) :attribute érvényes IPv4 cím kell, hogy legyen!',
     'ipv6' => 'A(z) :attribute érvényes IPv6 cím kell, hogy legyen!',
     'json' => 'A(z) :attribute érvényes JSON szöveg kell, hogy legyen!',
+    'lt' => [
+        'numeric' => 'A(z) :attribute kisebb kell, hogy legyen, mint :value!',
+        'file' => 'A(z) :attribute mérete kisebb kell, hogy legyen, mint :value kilobájt.',
+        'string' => 'A(z) :attribute rövidebb kell, hogy legyen, mint :value karakter.',
+        'array' => 'A(z) :attribute kevesebb, mint :value elemet kell, hogy tartalmazzon.',
+    ],
+    'lte' => [
+        'numeric' => 'A(z) :attribute kisebb vagy egyenlő kell, hogy legyen, mint :value!',
+        'file' => 'A(z) :attribute mérete nem lehet több, mint :value kilobájt.',
+        'string' => 'A(z) :attribute hossza nem lehet több, mint :value karakter.',
+        'array' => 'A(z) :attribute legfeljebb :value elemet kell, hogy tartalmazzon.',
+    ],
     'max' => [
         'numeric' => 'A(z) :attribute értéke nem lehet nagyobb, mint :max!',
         'file' => 'A(z) :attribute mérete nem lehet több, mint :max kilobájt.',

@@ -111,6 +111,7 @@ return [
     'unique' => ':attribute musí být unikátní.',
     'uploaded' => 'Nahrávání :attribute se nezdařilo.',
     'url' => 'Formát :attribute je neplatný.',
+    'uuid' => ':attribute má nesprávný formát UUID.',
 
     /*
     |--------------------------------------------------------------------------

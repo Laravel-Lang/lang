@@ -111,6 +111,7 @@ return [
     'unique' => 'ข้อมูล :attribute ไม่สามารถใช้ได้',
     'uploaded' => 'The :attribute failed to upload.',
     'url' => 'ข้อมูล :attribute ไม่ถูกต้อง',
+    'uuid' => ':attribute มีรูปแบบ UUID ไม่ถูกต้อง',
 
     /*
     |--------------------------------------------------------------------------

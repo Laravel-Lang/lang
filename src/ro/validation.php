@@ -111,6 +111,7 @@ return [
     'unique' => 'Câmpul :attribute a fost deja folosit.',
     'uploaded' => 'Câmpul :attribute nu a reușit încărcarea.',
     'url' => 'Câmpul :attribute nu este un URL valid.',
+    'uuid' => 'Câmpul :attribute are un format incorect UUID.',
 
     /*
     |--------------------------------------------------------------------------

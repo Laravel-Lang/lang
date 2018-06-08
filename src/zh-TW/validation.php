@@ -111,6 +111,7 @@ return [
     'unique' => ':attribute 已經存在。',
     'uploaded' => ':attribute 上傳失敗。',
     'url' => ':attribute 的格式錯誤。',
+    'uuid' => ':attribute 有一個不正確的UUID格式。',
 
     /*
     |--------------------------------------------------------------------------

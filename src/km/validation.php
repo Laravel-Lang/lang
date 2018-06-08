@@ -111,6 +111,7 @@ return [
     'unique' => ':attribute ត្រូវបានប្រើរួចហើយ។',
     'uploaded' => 'The :attribute failed to upload.',
     'url' => ':attribute ទំរង់ត្រឹមត្រូវ។',
+    'uuid' => ':attribute មានទ្រង់ទ្រាយ UUID មិនត្រឹមត្រូវ',
 
     /*
     |--------------------------------------------------------------------------

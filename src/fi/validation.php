@@ -111,6 +111,7 @@ return [
     'unique' => 'Kentän :attribute arvo ei ole uniikki.',
     'uploaded' => 'Tiedoston :attribute lataus epäonnistui.',
     'url' => 'Kentän :attribute arvon tulee olla validi URL-osoite.',
+    'uuid' => 'Kentän :attribute lla on väärä UUID-muoto.',
 
     /*
     |--------------------------------------------------------------------------

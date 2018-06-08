@@ -111,6 +111,7 @@ return [
     'unique' => 'A(z) :attribute már foglalt.',
     'uploaded' => 'A(z) :attribute feltöltése sikertelen.',
     'url' => 'A(z) :attribute érvénytelen link.',
+    'uuid' => 'A(z) :attribute-as hibás UUID formátumot tartalmaz.',
 
     /*
     |--------------------------------------------------------------------------

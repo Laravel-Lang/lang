@@ -111,6 +111,7 @@ return [
     'unique' => ' :attribute бұрын алынған.',
     'uploaded' => 'The :attribute failed to upload.',
     'url' => ' :attribute пішімі жарамсыз.',
+    'uuid' => ' :attribute дұрыс емес UUID пішімі бар.',
 
     /*
     |--------------------------------------------------------------------------

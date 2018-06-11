@@ -463,11 +463,6 @@
     * validation : uploaded
 
  * sk:
-    * validation : gt
-    * validation : gte
-    * validation : lt
-    * validation : lte
-    * validation : not_regex
 
  * sl:
     * validation : gt

@@ -393,12 +393,7 @@
     * validation : uploaded
 
  * nl:
-    * validation : gt
-    * validation : gte
-    * validation : lt
-    * validation : lte
-    * validation : not_regex
-
+ 
  * nn:
     * validation : after_or_equal
     * validation : before_or_equal

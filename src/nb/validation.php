@@ -76,7 +76,7 @@ return [
     'max'                  => [
         'numeric' => ':attribute må ikke være større enn :max.',
         'file'    => ':attribute må ikke være større enn :max kilobytes.',
-        'string'  => ':attribute må ikke være kortere enn :max tegn.',
+        'string'  => ':attribute må ikke være lengre enn :max tegn.',
         'array'   => ':attribute må ikke ha flere enn :max elementer.',
     ],
     'mimes'                => ':attribute må være en fil av typen: :values.',

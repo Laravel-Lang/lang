@@ -370,10 +370,6 @@
  * ms:
 
  * nb:
-    * validation : gt
-    * validation : gte
-    * validation : lt
-    * validation : lte
 
  * ne:
     * validation : after_or_equal
@@ -393,7 +389,7 @@
     * validation : uploaded
 
  * nl:
- 
+
  * nn:
     * validation : after_or_equal
     * validation : before_or_equal

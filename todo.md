@@ -405,10 +405,6 @@
     * validation : uploaded
 
  * pl:
-    * validation : gt
-    * validation : gte
-    * validation : lt
-    * validation : lte
 
  * pt:
     * validation : gt

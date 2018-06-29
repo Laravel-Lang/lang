@@ -1,13 +1,13 @@
 {
-  "Login": "Einloggen",
-  "E-Mail Address": "E-Mail Adresse",
-  "Password": "Passwort",
-  "Remember Me": "Angemeldet bleiben",
-  "Forgot Your Password?": "Passwort vergessen?",
-  "Register": "Registrieren",
-  "Name": "Name",
   "Confirm Password": "Passwort bestätigen",
+  "E-Mail Address": "E-Mail Adresse",
+  "Forgot Your Password?": "Passwort vergessen?",
+  "Login": "Einloggen",
+  "Logout": "Ausloggen",
+  "Name": "Name",
+  "Password": "Passwort",
+  "Register": "Registrieren",
+  "Remember Me": "Angemeldet bleiben",
   "Reset Password": "Passwort zurücksetzen",
-  "Send Password Reset Link": "Link zum Zurücksetzen des Passworts senden",
-  "Logout": "Ausloggen"
+  "Send Password Reset Link": "Link zum Zurücksetzen des Passworts senden"
 }

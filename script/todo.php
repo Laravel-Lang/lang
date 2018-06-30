@@ -69,7 +69,7 @@ class TodoGenerator
     private function load()
     {
         // Get English version
-        $english = $this->getTranslations(__DIR__.'/en');
+        $english = $this->getTranslations(__DIR__, 'en');
         $languages = $this->getLanguages();
 
         $this->output = "# Todo list\n\n";
@@ -79,17 +79,18 @@ class TodoGenerator
     /**
      * Returns array of translations by language.
      *
-     * @param string $language language code
+     * @param string $directory directory
+     * @param string $language  language code
      *
      * @return array
      */
-    private function getTranslations($language)
+    private function getTranslations($directory, $language)
     {
         return [
-            'auth'       => include($language.'/auth.php'),
-            'pagination' => include($language.'/pagination.php'),
-            'passwords'  => include($language.'/passwords.php'),
-            'validation' => include($language.'/validation.php'),
+            'auth'       => include($directory.'/'.$language.'/auth.php'),
+            'pagination' => include($directory.'/'.$language.'/pagination.php'),
+            'passwords'  => include($directory.'/'.$language.'/passwords.php'),
+            'validation' => include($directory.'/'.$language.'/validation.php'),
         ];
     }
 
@@ -122,7 +123,7 @@ class TodoGenerator
         // Return diff language by language
         foreach ($languages as $language) {
             $this->output .= "\n * ".$language.":\n";
-            $current = $this->getTranslations("{$this->basePath}/{$language}");
+            $current = $this->getTranslations($this->basePath, $language);
 
             foreach ($default as $key => $values) {
                 foreach ($values as $key2 => $value2) {

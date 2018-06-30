@@ -86,9 +86,9 @@ class TodoGenerator
     private function getTranslations($language)
     {
         return [
-            'auth' => include($language.'/auth.php'),
+            'auth'       => include($language.'/auth.php'),
             'pagination' => include($language.'/pagination.php'),
-            'passwords' => include($language.'/passwords.php'),
+            'passwords'  => include($language.'/passwords.php'),
             'validation' => include($language.'/validation.php'),
         ];
     }

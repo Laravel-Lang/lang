@@ -111,6 +111,8 @@
 
  * de:
 
+ * de-CH:
+
  * el:
     * validation : gt
     * validation : gte

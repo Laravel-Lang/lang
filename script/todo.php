@@ -87,6 +87,7 @@ class TodoGenerator
     private function getTranslations($directory, $language)
     {
         return [
+            'json'       => json_decode(file_get_contents($directory.'/'.$language.'/'.$language.'.json'), true),
             'auth'       => include($directory.'/'.$language.'/auth.php'),
             'pagination' => include($directory.'/'.$language.'/pagination.php'),
             'passwords'  => include($directory.'/'.$language.'/passwords.php'),

@@ -5,6 +5,7 @@
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -12,12 +13,15 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
 
  * az:
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -25,7 +29,9 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
     * validation : gt
     * validation : gte
     * validation : lt
@@ -36,6 +42,7 @@
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -43,7 +50,9 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
     * validation : after_or_equal
     * validation : before_or_equal
     * validation : dimensions
@@ -64,6 +73,7 @@
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -71,7 +81,9 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
     * validation : gt
     * validation : gte
     * validation : lt
@@ -82,6 +94,7 @@
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -89,7 +102,9 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
     * validation : gt
     * validation : gte
     * validation : lt
@@ -100,6 +115,7 @@
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -107,7 +123,9 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
     * auth : failed
     * auth : throttle
     * validation : after_or_equal
@@ -132,6 +150,7 @@
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -139,7 +158,9 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
     * validation : gt
     * validation : gte
     * validation : lt
@@ -150,6 +171,7 @@
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -157,7 +179,9 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
     * validation : after_or_equal
     * validation : before_or_equal
     * validation : gt
@@ -172,6 +196,7 @@
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -179,7 +204,9 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
     * auth : failed
     * auth : throttle
     * validation : after_or_equal
@@ -205,6 +232,7 @@
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -212,7 +240,9 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
     * validation : gt
     * validation : gte
     * validation : lt
@@ -220,12 +250,16 @@
     * validation : not_regex
 
  * de:
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Name
+    * json : Reset Password Notification : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
 
  * de-CH:
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -233,12 +267,15 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
 
  * el:
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -246,7 +283,9 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
     * validation : gt
     * validation : gte
     * validation : lt
@@ -257,6 +296,7 @@
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -264,12 +304,15 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
 
  * et:
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -277,7 +320,9 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
     * validation : gt
     * validation : gte
     * validation : lt
@@ -288,6 +333,7 @@
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -295,7 +341,9 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
     * validation : gt
     * validation : gte
     * validation : lt
@@ -306,6 +354,7 @@
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -313,12 +362,15 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
 
  * fi:
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -326,7 +378,9 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
     * validation : after_or_equal
     * validation : array
     * validation : before_or_equal
@@ -346,6 +400,7 @@
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -353,7 +408,9 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
     * validation : dimensions
     * validation : distinct
     * validation : file
@@ -364,6 +421,7 @@
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -371,7 +429,9 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
     * validation : gt
     * validation : gte
     * validation : lt
@@ -382,6 +442,7 @@
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -389,7 +450,9 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
     * validation : after_or_equal
     * validation : before_or_equal
     * validation : dimensions
@@ -408,6 +471,7 @@
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -415,7 +479,9 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
     * validation : after_or_equal
     * validation : before_or_equal
     * validation : dimensions
@@ -439,6 +505,7 @@
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -446,13 +513,16 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
     * validation : not_regex
 
  * id:
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -460,12 +530,15 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
 
  * is:
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -473,7 +546,9 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
     * auth : failed
     * auth : throttle
     * validation : after_or_equal
@@ -503,6 +578,7 @@
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -510,12 +586,15 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
 
  * ja:
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -523,7 +602,9 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
     * validation : gt
     * validation : gte
     * validation : lt
@@ -534,6 +615,7 @@
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -541,7 +623,9 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
     * validation : gt
     * validation : gte
     * validation : lt
@@ -552,6 +636,7 @@
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -559,7 +644,9 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
     * validation : after_or_equal
     * validation : before_or_equal
     * validation : dimensions
@@ -578,6 +665,7 @@
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -585,7 +673,9 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
     * auth : failed
     * auth : throttle
     * validation : after_or_equal
@@ -613,6 +703,7 @@
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -620,7 +711,9 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
     * validation : gt
     * validation : gte
     * validation : lt
@@ -630,6 +723,7 @@
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -637,7 +731,9 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
     * validation : after_or_equal
     * validation : before_or_equal
     * validation : file
@@ -654,6 +750,7 @@
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -661,7 +758,9 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
     * validation : gt
     * validation : gte
     * validation : ipv4
@@ -674,6 +773,7 @@
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -681,7 +781,9 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
     * validation : after_or_equal
     * validation : before_or_equal
     * validation : dimensions
@@ -700,6 +802,7 @@
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -707,7 +810,9 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
     * auth : failed
     * auth : throttle
     * validation : after_or_equal
@@ -736,6 +841,7 @@
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -743,7 +849,9 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
     * validation : gt
     * validation : gte
     * validation : ipv4
@@ -759,6 +867,7 @@
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -766,12 +875,15 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
 
  * nb:
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -779,12 +891,15 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
 
  * ne:
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -792,7 +907,9 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
     * validation : after_or_equal
     * validation : before_or_equal
     * validation : dimensions
@@ -813,6 +930,7 @@
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -820,12 +938,15 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
 
  * nn:
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -833,7 +954,9 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
     * validation : after_or_equal
     * validation : before_or_equal
     * validation : dimensions
@@ -851,6 +974,7 @@
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -858,12 +982,15 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
 
  * pt:
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -871,7 +998,9 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
     * validation : gt
     * validation : gte
     * validation : lt
@@ -882,6 +1011,7 @@
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -889,13 +1019,16 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
     * validation : not_regex
 
  * ro:
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -903,7 +1036,9 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
     * validation : gt
     * validation : gte
     * validation : ipv4
@@ -916,6 +1051,7 @@
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -923,12 +1059,15 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
 
  * sc:
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -936,7 +1075,9 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
     * auth : failed
     * auth : throttle
     * validation : after_or_equal
@@ -962,6 +1103,7 @@
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -969,12 +1111,15 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
 
  * sl:
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -982,7 +1127,9 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
     * validation : gt
     * validation : gte
     * validation : lt
@@ -993,6 +1140,7 @@
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -1000,7 +1148,9 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
     * auth : failed
     * auth : throttle
     * validation : after_or_equal
@@ -1025,6 +1175,7 @@
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -1032,7 +1183,9 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
     * validation : after_or_equal
     * validation : before_or_equal
     * validation : dimensions
@@ -1055,6 +1208,7 @@
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -1062,12 +1216,15 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
 
  * sw:
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -1075,7 +1232,9 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
     * validation : after_or_equal
     * validation : before_or_equal
     * validation : dimensions
@@ -1094,6 +1253,7 @@
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -1101,7 +1261,9 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
     * validation : gt
     * validation : gte
     * validation : ipv4
@@ -1114,6 +1276,7 @@
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -1121,7 +1284,9 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
     * validation : after_or_equal
     * validation : before_or_equal
     * validation : dimensions
@@ -1139,6 +1304,7 @@
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -1146,7 +1312,9 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
     * auth : failed
     * auth : throttle
     * validation : after_or_equal
@@ -1172,6 +1340,7 @@
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -1179,7 +1348,9 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
     * validation : after_or_equal
     * validation : before_or_equal
     * validation : dimensions
@@ -1198,6 +1369,7 @@
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -1205,7 +1377,9 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
     * validation : gt
     * validation : gte
     * validation : lt
@@ -1215,6 +1389,7 @@
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -1222,7 +1397,9 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
     * validation : gt
     * validation : gte
     * validation : lt
@@ -1233,6 +1410,7 @@
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -1240,7 +1418,9 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
     * validation : gt
     * validation : gte
     * validation : lt
@@ -1251,6 +1431,7 @@
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -1258,7 +1439,9 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
     * validation : after_or_equal
     * validation : before_or_equal
     * validation : dimensions
@@ -1277,6 +1460,7 @@
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -1284,7 +1468,9 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
     * validation : gt
     * validation : gte
     * validation : lt
@@ -1295,6 +1481,7 @@
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -1302,7 +1489,9 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
     * validation : gt
     * validation : gte
     * validation : lt
@@ -1313,6 +1502,7 @@
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -1320,7 +1510,9 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
     * validation : gt
     * validation : gte
     * validation : lt
@@ -1330,6 +1522,7 @@
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -1337,12 +1530,15 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
 
  * zh-HK:
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -1350,12 +1546,15 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
 
  * zh-TW:
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
     * json : Forgot Your Password? : not present
+    * json : If you did not request a password reset, no further action is required. : not present
     * json : Login : not present
     * json : Logout : not present
     * json : Name : not present
@@ -1363,4 +1562,6 @@
     * json : Register : not present
     * json : Remember Me : not present
     * json : Reset Password : not present
+    * json : Reset Password Notification : not present
     * json : Send Password Reset Link : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present

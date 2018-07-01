@@ -86,8 +86,15 @@ class TodoGenerator
      */
     private function getTranslations($directory, $language)
     {
+        $contentJson = '';
+        $fileJson = $directory.'/'.$language.'/'.$language.'.json';
+
+        if (file_exists($fileJson)) {
+            $contentJson = json_decode(file_get_contents($fileJson), true);
+        }
+
         return [
-            'json'       => json_decode(file_get_contents($directory.'/'.$language.'/'.$language.'.json'), true),
+            'json'       => $contentJson,
             'auth'       => include($directory.'/'.$language.'/auth.php'),
             'pagination' => include($directory.'/'.$language.'/pagination.php'),
             'passwords'  => include($directory.'/'.$language.'/passwords.php'),
@@ -127,7 +134,9 @@ class TodoGenerator
             $current = $this->getTranslations($this->basePath, $language);
 
             foreach ($default as $key => $values) {
-                foreach ($values as $key2 => $value2) {
+                $valuesKeys = array_keys($values);
+
+                foreach ($valuesKeys as $key2) {
                     if (in_array($key2, ['custom', 'attributes'], true)) {
                         continue;
                     }

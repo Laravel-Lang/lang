@@ -2,8 +2,30 @@
 
 
  * ar:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
 
  * az:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
     * validation : gt
     * validation : gte
     * validation : lt
@@ -11,6 +33,17 @@
     * validation : not_regex : not present
 
  * be:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
     * validation : after_or_equal
     * validation : before_or_equal
     * validation : dimensions
@@ -28,6 +61,17 @@
     * validation : uploaded
 
  * bg:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
     * validation : gt
     * validation : gte
     * validation : lt
@@ -35,6 +79,17 @@
     * validation : not_regex
 
  * bn:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
     * validation : gt
     * validation : gte
     * validation : lt
@@ -42,6 +97,17 @@
     * validation : not_regex
 
  * bs:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
     * auth : failed
     * auth : throttle
     * validation : after_or_equal
@@ -63,6 +129,17 @@
     * validation : uploaded
 
  * ca:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
     * validation : gt
     * validation : gte
     * validation : lt
@@ -70,6 +147,17 @@
     * validation : not_regex
 
  * cs:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
     * validation : after_or_equal
     * validation : before_or_equal
     * validation : gt
@@ -81,6 +169,17 @@
     * validation : not_regex
 
  * cy:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
     * auth : failed
     * auth : throttle
     * validation : after_or_equal
@@ -103,6 +202,17 @@
     * validation : uploaded
 
  * da:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
     * validation : gt
     * validation : gte
     * validation : lt
@@ -110,10 +220,33 @@
     * validation : not_regex
 
  * de:
+    * json : Name
 
  * de-CH:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
 
  * el:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
     * validation : gt
     * validation : gte
     * validation : lt
@@ -121,8 +254,30 @@
     * validation : not_regex
 
  * es:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
 
  * et:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
     * validation : gt
     * validation : gte
     * validation : lt
@@ -130,6 +285,17 @@
     * validation : not_regex
 
  * eu:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
     * validation : gt
     * validation : gte
     * validation : lt
@@ -137,8 +303,30 @@
     * validation : not_regex
 
  * fa:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
 
  * fi:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
     * validation : after_or_equal
     * validation : array
     * validation : before_or_equal
@@ -155,6 +343,17 @@
  * fr:
 
  * gl:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
     * validation : dimensions
     * validation : distinct
     * validation : file
@@ -162,6 +361,17 @@
     * validation : present
 
  * he:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
     * validation : gt
     * validation : gte
     * validation : lt
@@ -169,6 +379,17 @@
     * validation : not_regex
 
  * hi:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
     * validation : after_or_equal
     * validation : before_or_equal
     * validation : dimensions
@@ -184,6 +405,17 @@
     * validation : uploaded
 
  * hr:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
     * validation : after_or_equal
     * validation : before_or_equal
     * validation : dimensions
@@ -204,11 +436,44 @@
     * validation : uploaded
 
  * hu:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
     * validation : not_regex
 
  * id:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
 
  * is:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
     * auth : failed
     * auth : throttle
     * validation : after_or_equal
@@ -235,8 +500,30 @@
     * validation : uploaded
 
  * it:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
 
  * ja:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
     * validation : gt
     * validation : gte
     * validation : lt
@@ -244,6 +531,17 @@
     * validation : not_regex
 
  * ka:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
     * validation : gt
     * validation : gte
     * validation : lt
@@ -251,6 +549,17 @@
     * validation : not_regex
 
  * kk:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
     * validation : after_or_equal
     * validation : before_or_equal
     * validation : dimensions
@@ -266,6 +575,17 @@
     * validation : uploaded
 
  * km:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
     * auth : failed
     * auth : throttle
     * validation : after_or_equal
@@ -290,12 +610,34 @@
     * validation : uploaded
 
  * ko:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
     * validation : gt
     * validation : gte
     * validation : lt
     * validation : lte
 
  * lt:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
     * validation : after_or_equal
     * validation : before_or_equal
     * validation : file
@@ -309,6 +651,17 @@
     * validation : uploaded
 
  * lv:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
     * validation : gt
     * validation : gte
     * validation : ipv4
@@ -318,6 +671,17 @@
     * validation : not_regex
 
  * me:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
     * validation : after_or_equal
     * validation : before_or_equal
     * validation : dimensions
@@ -333,6 +697,17 @@
     * validation : uploaded
 
  * mk:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
     * auth : failed
     * auth : throttle
     * validation : after_or_equal
@@ -358,6 +733,17 @@
     * validation : uploaded
 
  * mn:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
     * validation : gt
     * validation : gte
     * validation : ipv4
@@ -370,10 +756,43 @@
     * validation : same
 
  * ms:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
 
  * nb:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
 
  * ne:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
     * validation : after_or_equal
     * validation : before_or_equal
     * validation : dimensions
@@ -391,8 +810,30 @@
     * validation : uploaded
 
  * nl:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
 
  * nn:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
     * validation : after_or_equal
     * validation : before_or_equal
     * validation : dimensions
@@ -407,8 +848,30 @@
     * validation : uploaded
 
  * pl:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
 
  * pt:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
     * validation : gt
     * validation : gte
     * validation : lt
@@ -416,9 +879,31 @@
     * validation : not_regex
 
  * pt-BR:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
     * validation : not_regex
 
  * ro:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
     * validation : gt
     * validation : gte
     * validation : ipv4
@@ -428,8 +913,30 @@
     * validation : not_regex
 
  * ru:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
 
  * sc:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
     * auth : failed
     * auth : throttle
     * validation : after_or_equal
@@ -452,8 +959,30 @@
     * validation : uploaded
 
  * sk:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
 
  * sl:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
     * validation : gt
     * validation : gte
     * validation : lt
@@ -461,6 +990,17 @@
     * validation : not_regex
 
  * sq:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
     * auth : failed
     * auth : throttle
     * validation : after_or_equal
@@ -482,6 +1022,17 @@
     * validation : uploaded
 
  * sr:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
     * validation : after_or_equal
     * validation : before_or_equal
     * validation : dimensions
@@ -501,8 +1052,30 @@
     * validation : uploaded
 
  * sv:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
 
  * sw:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
     * validation : after_or_equal
     * validation : before_or_equal
     * validation : dimensions
@@ -518,6 +1091,17 @@
     * validation : uploaded
 
  * tg:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
     * validation : gt
     * validation : gte
     * validation : ipv4
@@ -527,6 +1111,17 @@
     * validation : not_regex
 
  * th:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
     * validation : after_or_equal
     * validation : before_or_equal
     * validation : dimensions
@@ -541,6 +1136,17 @@
     * validation : uploaded
 
  * tk:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
     * auth : failed
     * auth : throttle
     * validation : after_or_equal
@@ -563,6 +1169,17 @@
     * validation : uploaded
 
  * tl:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
     * validation : after_or_equal
     * validation : before_or_equal
     * validation : dimensions
@@ -578,12 +1195,34 @@
     * validation : uploaded
 
  * tr:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
     * validation : gt
     * validation : gte
     * validation : lt
     * validation : lte
 
  * ug:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
     * validation : gt
     * validation : gte
     * validation : lt
@@ -591,6 +1230,17 @@
     * validation : not_regex
 
  * uk:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
     * validation : gt
     * validation : gte
     * validation : lt
@@ -598,6 +1248,17 @@
     * validation : not_regex
 
  * ur:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
     * validation : after_or_equal
     * validation : before_or_equal
     * validation : dimensions
@@ -613,6 +1274,17 @@
     * validation : uploaded
 
  * uz-cyrillic:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
     * validation : gt
     * validation : gte
     * validation : lt
@@ -620,6 +1292,17 @@
     * validation : not_regex
 
  * uz-latin:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
     * validation : gt
     * validation : gte
     * validation : lt
@@ -627,13 +1310,57 @@
     * validation : not_regex
 
  * vi:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
     * validation : gt
     * validation : gte
     * validation : lt
     * validation : lte
 
  * zh-CN:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
 
  * zh-HK:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present
 
  * zh-TW:
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Forgot Your Password? : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Send Password Reset Link : not present

@@ -1,0 +1,16 @@
+{
+  "Confirm Password": "تأكيد كلمة المرور",
+  "E-Mail Address": "البريد الالكتروني",
+  "Forgot Your Password?": "نسيت كلمة المرور؟",
+  "If you did not request a password reset, no further action is required.": "إذا لم تقم بطلب استعادة كلمة المرور، لا تحتاج القيام بأي إجراء.",
+  "Login": "تسجيل الدخول",
+  "Logout": "تسجيل الخروج",
+  "Name": "الاسم",
+  "Password": "كلمة المرور",
+  "Register": "تسجيل",
+  "Remember Me": "تذكرني",
+  "Reset Password": "استعادة كلمة المرور",
+  "Reset Password Notification": "تنبيه استعادة كلمة المرور",
+  "Send Password Reset Link": "أرسل رابط استعادة كلمة المرور",
+  "You are receiving this email because we received a password reset request for your account.": "لقد استلمت هذا الإيميل لأننا استقبلنا طلباً لاستعادة كلمة مرور حسابك."
+}

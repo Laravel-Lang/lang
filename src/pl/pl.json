@@ -1,0 +1,16 @@
+{
+  "Confirm Password": "Potwierdź hasło",
+  "E-Mail Address": "Adres e-mail",
+  "Forgot Your Password?": "Nie pamiętasz hasła?",
+  "If you did not request a password reset, no further action is required.": "Jeśli nie chcesz resetować hasła, zignoruj tę wiadomość.",
+  "Login": "Zaloguj się",
+  "Logout": "Wyloguj się",
+  "Name": "Imię i nazwisko",
+  "Password": "Hasło",
+  "Register": "Zarejestruj się",
+  "Remember Me": "Zapamiętaj mnie",
+  "Reset Password": "Zresetuj hasło",
+  "Reset Password Notification": "Zresetuj hasło",
+  "Send Password Reset Link": "Wyślij link resetujący hasło",
+  "You are receiving this email because we received a password reset request for your account.": "Otrzymujesz ten e-mail, ponieważ otrzymaliśmy prośbę o zresetowanie hasła dla Twojego konta."
+}

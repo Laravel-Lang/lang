@@ -1,0 +1,16 @@
+{
+  "Confirm Password": "确认密码",
+  "E-Mail Address": "E-Mail 地址",
+  "Forgot Your Password?": "忘记密码？",
+  "If you did not request a password reset, no further action is required.": "如果您未申请重置密码，请忽略此邮件。",
+  "Login": "登录",
+  "Logout": "注销",
+  "Name": "用户名",
+  "Password": "密码",
+  "Register": "注册",
+  "Remember Me": "记住我",
+  "Reset Password": "重置密码",
+  "Reset Password Notification": "重置密码通知",
+  "Send Password Reset Link": "发送重置密码链接",
+  "You are receiving this email because we received a password reset request for your account.": "您收到此电子邮件是因为我们收到了您帐户的密码重置请求。"
+}

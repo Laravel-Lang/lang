@@ -87,7 +87,7 @@ class TodoGenerator
     private function getTranslations($directory, $language)
     {
         $contentJson = '';
-        $fileJson = $directory.'/'.$language.'/'.$language.'.json';
+        $fileJson = $directory.'/../json/'.$language.'.json';
 
         if (file_exists($fileJson)) {
             $contentJson = json_decode(file_get_contents($fileJson), true);

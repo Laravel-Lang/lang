@@ -1,0 +1,16 @@
+{
+  "Confirm Password": "Konfirmasi Kata Sandi",
+  "E-Mail Address": "Alamat Surel",
+  "Forgot Your Password?": "Lupa Kata Sandi Anda?",
+  "If you did not request a password reset, no further action is required.": "Jika anda tidak meminta reset kata sandi, anda tidak perlu melakukan apapun.",
+  "Login": "Masuk",
+  "Logout": "Keluar",
+  "Name": "Nama",
+  "Password": "Kata Sandi",
+  "Register": "Daftar",
+  "Remember Me": "Ingat Saya",
+  "Reset Password": "Reset Kata Sandi",
+  "Reset Password Notification": "Pemberitahuan Reset Kata Sandi",
+  "Send Password Reset Link": "Kirim Tautan Reset Kata Sandi",
+  "You are receiving this email because we received a password reset request for your account.": "Anda menerima surel ini karena kami menerima permintan reset kata sandi untuk akun anda."
+}

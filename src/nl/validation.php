@@ -106,7 +106,7 @@ return [
         'string'  => ':attribute moet :size karakters zijn.',
         'array'   => ':attribute moet :size items bevatten.',
     ],
-    'string'               => ':attribute moet een tekenreeks zijn.',
+    'string'               => ':attribute moet een tekst zijn.',
     'timezone'             => ':attribute moet een geldige tijdzone zijn.',
     'unique'               => ':attribute is al in gebruik.',
     'uploaded'             => 'Het uploaden van :attribute is mislukt.',

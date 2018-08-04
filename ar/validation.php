@@ -22,10 +22,10 @@ return array(
     "alpha_num"        => "يجب أن يحتوي :attribute على حروفٍ وأرقامٍ فقط",
     "array"            => "يجب أن يكون الحقل :attribute ًمصفوفة",
     "between"          => array(
-        "numeric" => "يجب أن تكون قيمة :attribute محصورة ما بين :min و :max.",
-        "file"    => "يجب أن يكون حجم الملف :attribute محصورًا ما بين :min و :max كيلوبايت.",
-        "string"  => "يجب أن يكون عدد حروف النّص :attribute محصورًا ما بين :min و :max",
-        "array"   => "يجب أن يحتوي :attribute على عدد من العناصر محصورًا ما بين :min و :max"
+        "numeric" => "يجب أن تكون قيمة :attribute محصورة بين :min و :max.",
+        "file"    => "يجب أن يكون حجم الملف :attribute محصورًا بين :min و :max كيلوبايت.",
+        "string"  => "يجب أن يكون عدد حروف النّص :attribute محصورًا بين :min و :max",
+        "array"   => "يجب أن يحتوي :attribute على عدد من العناصر محصورًا بين :min و :max"
     ),
     "boolean"          => "يجب أن تكون قيمة الحقل :attribute إما true أو false ",
     "confirmed"        => "حقل التأكيد غير مُطابق للحقل :attribute",

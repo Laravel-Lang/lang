@@ -2,6 +2,7 @@
   "Confirm Password": "Wachtwoordbevestigen",
   "E-Mail Address": "E-Mailadres",
   "Forgot Your Password?": "Wachtwoord vergeten?",
+  "If you did not request a password reset, no further action is required.": "Als je geen wachtwoord herstel hebt aangevraagd, is er geen verdere handeling nodig.",
   "Login": "Inloggen",
   "Logout": "Uitloggen",
   "Name": "Naam",
@@ -9,5 +10,7 @@
   "Register": "Registreren",
   "Remember Me": "Onthoud me",
   "Reset Password": "Wachtwoord herstellen",
-  "Send Password Reset Link": "Verstuur wachtwoordherstel link"
+  "Reset Password Notification": "Wachtwoord herstellen notificatie",
+  "Send Password Reset Link": "Verstuur wachtwoordherstel link",
+  "You are receiving this email because we received a password reset request for your account.": "Je ontvangt deze email omdat we een wachtwoord herstel hebben ontvangen voor je account."
 }

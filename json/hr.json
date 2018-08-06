@@ -1,0 +1,16 @@
+{
+  "Confirm Password": "Potvrdite zaporku",
+  "E-Mail Address": "Adresa elektronske pošte",
+  "Forgot Your Password?": "Zaboravili ste zaporku?",
+  "If you did not request a password reset, no further action is required.": "Ukoliko niste zahtjevali promjenu zaporke, nije potrebno da preduzimate dalje korake.",
+  "Login": "Prijava",
+  "Logout": "Odjava",
+  "Name": "Ime",
+  "Password": "Zaporka",
+  "Register": "Registracija",
+  "Remember Me": "Zapamti me",
+  "Reset Password": "Resetuj zaporku",
+  "Reset Password Notification": "Obavijest o resetovanju zaporke",
+  "Send Password Reset Link": "Pošalji poveznicu za reset zaporke",
+  "You are receiving this email because we received a password reset request for your account.": "Ovaj e-mail Vam je poslat jer ste zahtjevali promjenu zaporke za vaš nalog."
+}

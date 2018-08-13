@@ -12,7 +12,8 @@
     "suggest": {
         "overtrue/laravel-lang": "Command to add languages in your project",
         "arcanedev/laravel-lang": "Translations manager and checker for Laravel 5",
-        "ablunier/laravel-lang-installer": "Command for easily add languages to a Laravel project"
+        "ablunier/laravel-lang-installer": "Command for easily add languages to a Laravel project",
+        "andrey-helldar/laravel-lang-publisher": "Easy installation and update of translation files for your project"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^2.10"

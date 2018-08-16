@@ -1,6 +1,6 @@
 # Laravel-lang
 
-[![Stories in Ready](https://badge.waffle.io/caouecs/Laravel-lang.svg?label=ready&title=Ready)](http://waffle.io/caouecs/Laravel-lang)
+[![Stories in Ready](https://badge.waffle.io/caouecs/Laravel-lang.svg)](http://waffle.io/caouecs/Laravel-lang)
 
 In this repository, you can find the lang files for the framework PHP, [Laravel 4&5](http://www.laravel.com).
 

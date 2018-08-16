@@ -63,6 +63,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [LaravelLang by ARCANEDEV](https://github.com/ARCANEDEV/LaravelLang)
 * [Laravel-lang by overtrue](https://github.com/overtrue/laravel-lang)
 * [laravel-lang-installer by ablunier](https://github.com/ablunier/laravel-lang-installer)
+* [laravel-lang-publisher by Andrey Helldar](https://github.com/andrey-helldar/laravel-lang-publisher)
 
 ## Credits
 

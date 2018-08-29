@@ -1439,24 +1439,6 @@
     * validation : not_regex
 
  * vi:
-    * json : Confirm Password : not present
-    * json : E-Mail Address : not present
-    * json : Forgot Your Password? : not present
-    * json : If you did not request a password reset, no further action is required. : not present
-    * json : Login : not present
-    * json : Logout : not present
-    * json : Name : not present
-    * json : Password : not present
-    * json : Register : not present
-    * json : Remember Me : not present
-    * json : Reset Password : not present
-    * json : Reset Password Notification : not present
-    * json : Send Password Reset Link : not present
-    * json : You are receiving this email because we received a password reset request for your account. : not present
-    * validation : gt
-    * validation : gte
-    * validation : lt
-    * validation : lte
 
  * zh-CN:
 

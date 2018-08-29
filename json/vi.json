@@ -1,0 +1,16 @@
+{
+  "Confirm Password": "Xác nhận mật khẩu",
+  "E-Mail Address": "Địa chỉ email",
+  "Forgot Your Password?": "Quên mật khẩu?",
+  "If you did not request a password reset, no further action is required.": "Nếu bạn không yêu cầu đặt lại mật khẩu, bạn không cần thực hiện thêm hành động nào.",
+  "Login": "Đăng nhập",
+  "Logout": "Đăng xuất",
+  "Name": "Tên",
+  "Password": "Mật khẩu",
+  "Register": "Đăng ký",
+  "Remember Me": "Ghi nhớ",
+  "Reset Password": "Đặt lại mật khẩu",
+  "Reset Password Notification": "Thông báo đặt lại mật khẩu",
+  "Send Password Reset Link": "Gửi đường dẫn đặt lại mật khẩu",
+  "You are receiving this email because we received a password reset request for your account.": "Bạn nhận được email này vì chúng tôi đã nhận được yêu cầu đặt lại mật khẩu cho tài khoản của bạn."
+}

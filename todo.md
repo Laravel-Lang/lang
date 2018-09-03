@@ -232,10 +232,6 @@
     * validation : not_regex
 
  * de:
-    * json : If you did not request a password reset, no further action is required. : not present
-    * json : Name
-    * json : Reset Password Notification : not present
-    * json : You are receiving this email because we received a password reset request for your account. : not present
 
  * de-CH:
     * json : Confirm Password : not present

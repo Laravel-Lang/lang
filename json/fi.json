@@ -1,0 +1,14 @@
+{
+    "Reset Password Notification": "Salasanan uudelleenasetusilmoitus",
+    "You are receiving this email because we received a password reset request for your account.":
+        "Saat tämän viestin koska saimme pyynnön vaihtaa salasanasi.",
+    "Reset Password": "Vaihdan salasanani",
+    "If you did not request a password reset, no further action is required.":
+        "Jos et ole pyytänyt salasanan vaihtoa, sinun ei tarvitse tehdä mitään ja voit poistaa tämän viestin.",
+
+    "Hello!": "Tervehdys.",
+    "Whoops!": "Tapahtui virhe.",
+    "Regards": "Terveisin",
+    "If you’re having trouble clicking the \":actionText\" button, copy and paste the URL below\ninto your web browser: [:actionURL](:actionURL)":
+        "Jos et pysty klikkaamaan \":actionText\" - nappia, leikkaa ja liimaa alla oleva URL\nselaimeesi: [:actionURL](:actionURL)"
+}

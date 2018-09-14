@@ -1,0 +1,16 @@
+{
+  "Confirm Password": "პაროლის დადასტურება",
+  "E-Mail Address": "ელ-ფოსტა",
+  "Forgot Your Password?": "პაროლი დაგავიწყდათ?",
+  "If you did not request a password reset, no further action is required.": "თუ არ მოგითხოვიათ პაროლის შეცვლა, არანაირი საპასუხო ქმედება არ არის საჭირო.",
+  "Login": "შესვლა",
+  "Logout": "გასვლა",
+  "Name": "სახელი",
+  "Password": "პაროლი",
+  "Register": "რეგისტრირება",
+  "Remember Me": "დამიმახსოვრე",
+  "Reset Password": "პაროლის აღდგენა",
+  "Reset Password Notification": "პაროლის აღდგენის შეტყობინება",
+  "Send Password Reset Link": "პაროლის აღსადგენი ლინკის გაგზავნა",
+  "You are receiving this email because we received a password reset request for your account.": "თქვენ ხედავთ აღნიშნულ შეტყობინებას რადგან მივიღეთ თქვენი მოთხოვნა პაროლის აღდგენასთან დაკავშირებით."
+}

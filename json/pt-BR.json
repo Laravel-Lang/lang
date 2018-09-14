@@ -2,15 +2,15 @@
   "Confirm Password": "Confirmar senha",
   "E-Mail Address": "Endereço de e-mail",
   "Forgot Your Password?": "Esqueceu a senha?",
-  "If you did not request a password reset, no further action is required.": "Si vous n'avez pas demandé de réinitialisation de mot de passe, aucune autre action n'est requise.",
-  "Login": "Login",
+  "If you did not request a password reset, no further action is required.": "Se você não solicitou essa redefinição de senha, ignore este e-mail.",
+  "Login": "Entrar",
   "Logout": "Sair",
   "Name": "Nome",
   "Password": "Senha",
   "Register": "Registrar",
   "Remember Me": "Lembre-se de mim",
   "Reset Password": "Redefinir senha",
-  "Reset Password Notification": "Notificaço de redefinição de senha",
+  "Reset Password Notification": "Notificação de redefinição de senha",
   "Send Password Reset Link": "Link de redefinição de senha enviado",
-  "You are receiving this email because we received a password reset request for your account.": "Você recebeu esse e-mail porque foi solicitado uma redefinição da senha na sua conta."
+  "You are receiving this email because we received a password reset request for your account.": "Você recebeu esse e-mail porque foi solicitado uma redefinição de senha na sua conta."
 }

@@ -813,7 +813,6 @@
     * json : Unauthorized : not present
     * json : Verify Your Email Address : not present
     * json : You are receiving this email because we received a password reset request for your account. : not present
-    * validation : not_regex
 
  * id:
     * json : A fresh verification link has been sent to your email address. : not present

@@ -12,6 +12,6 @@ return [
     |
     */
 
-    'previous' => '&laquo; Oldingi',
-    'next'     => 'Keyingi &raquo;',
+    'previous' => '« Oldingi',
+    'next'     => 'Keyingi »',
 ];

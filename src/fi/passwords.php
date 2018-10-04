@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Password Reminder Language Lines
@@ -18,5 +17,4 @@ return [
     'sent'     => 'Resetointilinkki lähetetty sähköpostitse!',
     'token'    => 'Resetointitunniste on viallinen.',
     'user'     => 'Sähköpostiosoitteella ei löydy käyttäjää.',
-
 ];

@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Password Reminder Language Lines
@@ -18,5 +17,4 @@ return [
     'sent'     => 'Opomnik za geslo poslano!',
     'token'    => 'Ponastavitveni žeton je neveljaven.',
     'user'     => 'Ne moremo najti uporabnika s tem e-poštnim naslovom.',
-
 ];

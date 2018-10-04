@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Validation Language Lines
@@ -9,20 +8,20 @@ return [
     |
     | The following language lines contain the default error messages used by
     | the validator class. Some of these rules have multiple versions such
-    | such as the size rules. Feel free to tweak each of these messages.
+    | as the size rules. Feel free to tweak each of these messages.
     |
     */
 
     'accepted'             => 'Trường :attribute phải được chấp nhận.',
     'active_url'           => 'Trường :attribute không phải là một URL hợp lệ.',
     'after'                => 'Trường :attribute phải là một ngày sau ngày :date.',
-    'after_or_equal'       => 'Trường :attribute phải là thời gian bắt đầu sau :date.',
+    'after_or_equal'       => 'Trường :attribute phải là thời gian bắt đầu sau hoặc đúng bằng :date.',
     'alpha'                => 'Trường :attribute chỉ có thể chứa các chữ cái.',
     'alpha_dash'           => 'Trường :attribute chỉ có thể chứa chữ cái, số và dấu gạch ngang.',
     'alpha_num'            => 'Trường :attribute chỉ có thể chứa chữ cái và số.',
     'array'                => 'Trường :attribute phải là dạng mảng.',
     'before'               => 'Trường :attribute phải là một ngày trước ngày :date.',
-    'before_or_equal'      => 'Trường :attribute phải là thời gian bắt đầu trước :date.',
+    'before_or_equal'      => 'Trường :attribute phải là thời gian bắt đầu trước hoặc đúng bằng :date.',
     'between'              => [
         'numeric' => 'Trường :attribute phải nằm trong khoảng :min - :max.',
         'file'    => 'Dung lượng tập tin trong trường :attribute phải từ :min - :max kB.',
@@ -42,6 +41,18 @@ return [
     'exists'               => 'Giá trị đã chọn trong trường :attribute không hợp lệ.',
     'file'                 => 'Trường :attribute phải là một tệp tin.',
     'filled'               => 'Trường :attribute không được bỏ trống.',
+    'gt'                   => [
+        'numeric' => 'Giá trị trường :attribute phải lớn hơn :value.',
+        'file'    => 'Dung lượng trường :attribute phải lớn hơn :value kilobytes.',
+        'string'  => 'Độ dài trường :attribute phải nhiều hơn :value kí tự.',
+        'array'   => 'Mảng :attribute phải có nhiều hơn :value phần tử.',
+    ],
+    'gte'                  => [
+        'numeric' => 'Giá trị trường :attribute phải lớn hơn hoặc bằng :value.',
+        'file'    => 'Dung lượng trường :attribute phải lớn hơn hoặc bằng :value kilobytes.',
+        'string'  => 'Độ dài trường :attribute phải lớn hơn hoặc bằng :value kí tự.',
+        'array'   => 'Mảng :attribute phải có ít nhất :value phần tử.',
+    ],
     'image'                => 'Trường :attribute phải là định dạng hình ảnh.',
     'in'                   => 'Giá trị đã chọn trong trường :attribute không hợp lệ.',
     'in_array'             => 'Trường :attribute phải thuộc tập cho phép: :other.',
@@ -50,6 +61,18 @@ return [
     'ipv4'                 => 'Trường :attribute phải là một địa chỉ IPv4.',
     'ipv6'                 => 'Trường :attribute phải là một địa chỉ IPv6.',
     'json'                 => 'Trường :attribute phải là một chuỗi JSON.',
+    'lt'                   => [
+        'numeric' => 'Giá trị trường :attribute phải nhỏ hơn :value.',
+        'file'    => 'Dung lượng trường :attribute phải nhỏ hơn :value kilobytes.',
+        'string'  => 'Độ dài trường :attribute phải nhỏ hơn :value kí tự.',
+        'array'   => 'Mảng :attribute phải có ít hơn :value phần tử.',
+    ],
+    'lte'                  => [
+        'numeric' => 'Giá trị trường :attribute phải nhỏ hơn hoặc bằng :value.',
+        'file'    => 'Dung lượng trường :attribute phải nhỏ hơn hoặc bằng :value kilobytes.',
+        'string'  => 'Độ dài trường :attribute phải nhỏ hơn hoặc bằng :value kí tự.',
+        'array'   => 'Mảng :attribute không được có nhiều hơn :value phần tử.',
+    ],
     'max'                  => [
         'numeric' => 'Trường :attribute không được lớn hơn :max.',
         'file'    => 'Dung lượng tập tin trong trường :attribute không được lớn hơn :max kB.',
@@ -65,9 +88,10 @@ return [
         'array'   => 'Trường :attribute phải có tối thiểu :min phần tử.',
     ],
     'not_in'               => 'Giá trị đã chọn trong trường :attribute không hợp lệ.',
+    'not_regex'            => 'Trường :attribute có định dạng không hợp lệ.',
     'numeric'              => 'Trường :attribute phải là một số.',
     'present'              => 'Trường :attribute phải được cung cấp.',
-    'regex'                => 'Định dạng trường :attribute không hợp lệ.',
+    'regex'                => 'Trường :attribute có định dạng không hợp lệ.',
     'required'             => 'Trường :attribute không được bỏ trống.',
     'required_if'          => 'Trường :attribute không được bỏ trống khi trường :other là :value.',
     'required_unless'      => 'Trường :attribute không được bỏ trống trừ khi :other là :values.',
@@ -99,7 +123,7 @@ return [
     |
     */
 
-    'custom'               => [
+    'custom' => [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
@@ -116,8 +140,6 @@ return [
     |
     */
 
-    'attributes'           => [
-        //
+    'attributes' => [
     ],
-
 ];

@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Password Reset Language Lines
@@ -18,5 +17,4 @@ return [
     'sent'     => 'Enviámosche por correo electrónico o enlace de restablecemento do contrasinal!',
     'token'    => 'Este token de restablecemento do contrasinal non é válido.',
     'user'     => 'Non podemos atopar un usuario con ese correo electrónico.',
-
 ];

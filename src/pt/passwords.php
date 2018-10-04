@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Password Reminder Language Lines
@@ -18,5 +17,4 @@ return [
     'sent'     => 'O lembrete para a palavra-passe foi enviado!',
     'token'    => 'Este código de recuperação da palavra-passe é inválido.',
     'user'     => 'Não existe nenhum utilizador com o endereço de correio eletrónico indicado.',
-
 ];

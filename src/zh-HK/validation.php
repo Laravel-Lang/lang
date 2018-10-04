@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Validation Language Lines
@@ -9,7 +8,7 @@ return [
     |
     | The following language lines contain the default error messages used by
     | the validator class. Some of these rules have multiple versions such
-    | such as the size rules. Feel free to tweak each of these messages.
+    | as the size rules. Feel free to tweak each of these messages.
     |
     */
 
@@ -25,7 +24,7 @@ return [
     'before_or_equal'      => ':attribute 必須要等於 :date 或更早。',
     'between'              => [
         'numeric' => ':attribute 必須介乎 :min 至 :max 之間。',
-        'file'    => ':attribute 必須介乎 :min 至 :max kb 之間。 ',
+        'file'    => ':attribute 必須介乎 :min 至 :max KB 之間。 ',
         'string'  => ':attribute 必須介乎 :min 至 :max 個字符之間。',
         'array'   => ':attribute: 必須有 :min 至 :max 個項目。',
     ],
@@ -42,6 +41,18 @@ return [
     'exists'               => ':attribute 不存在。',
     'file'                 => ':attribute 必須是文件。',
     'filled'               => ':attribute 不能留空。',
+    'gt'                   => [
+        'numeric' => ':attribute 必須大於 :value。',
+        'file'    => ':attribute 必須大於 :value KB。',
+        'string'  => ':attribute 必須多於 :value 個字符。',
+        'array'   => ':attribute 必須多於 :value 個項目。',
+    ],
+    'gte'                  => [
+        'numeric' => ':attribute 必須大於或等於 :value。',
+        'file'    => ':attribute 必須大於或等於 :value KB。',
+        'string'  => ':attribute 必須多於或等於 :value 個字符。',
+        'array'   => ':attribute 必須多於或等於 :value 個項目。',
+    ],
     'image'                => ':attribute 必須是一張圖片。',
     'in'                   => '所揀選的 :attribute 選項無效。',
     'in_array'             => ':attribute 沒有在 :other 中。',
@@ -50,9 +61,21 @@ return [
     'ipv4'                 => ':attribute 必須是一個有效的 IPv4 地址。',
     'ipv6'                 => ':attribute 必須是一個有效的 IPv6 地址。',
     'json'                 => ':attribute 必須是正確的 JSON 格式。',
+    'lt'                   => [
+        'numeric' => ':attribute 必須小於 :value。',
+        'file'    => ':attribute 必須小於 :value KB。',
+        'string'  => ':attribute 必須少於 :value 個字符。',
+        'array'   => ':attribute 必須少於 :value 個項目。',
+    ],
+    'lte'                  => [
+        'numeric' => ':attribute 必須小於或等於 :value。',
+        'file'    => ':attribute 必須小於或等於 :value KB。',
+        'string'  => ':attribute 必須少於或等於 :value 個字符。',
+        'array'   => ':attribute 必須少於或等於 :value 個項目。',
+    ],
     'max'                  => [
         'numeric' => ':attribute 不能大於 :max。',
-        'file'    => ':attribute 不能大於 :max kb。',
+        'file'    => ':attribute 不能大於 :max KB。',
         'string'  => ':attribute 不能多於 :max 個字符。',
         'array'   => ':attribute 不能多於 :max 個項目。',
     ],
@@ -60,11 +83,12 @@ return [
     'mimetypes'            => ':attribute 必須為 :values 的檔案。',
     'min'                  => [
         'numeric' => ':attribute 不能小於 :min。',
-        'file'    => ':attribute 不能小於 :min kb。',
+        'file'    => ':attribute 不能小於 :min KB。',
         'string'  => ':attribute 不能小於 :min 個字符。',
         'array'   => ':attribute 不能小於 :min 個項目。',
     ],
     'not_in'               => '所揀選的 :attribute 選項無效。',
+    'not_regex'            => ':attribute 的格式錯誤。',
     'numeric'              => ':attribute 必須為一個數字。',
     'present'              => ':attribute 必須存在。',
     'regex'                => ':attribute 的格式錯誤。',
@@ -78,7 +102,7 @@ return [
     'same'                 => ':attribute 與 :other 必須相同。',
     'size'                 => [
         'numeric' => ':attribute 的大小必須是 :size。',
-        'file'    => ':attribute 的大小必須是 :size kb。',
+        'file'    => ':attribute 的大小必須是 :size KB。',
         'string'  => ':attribute 必須是 :size 個字符。',
         'array'   => ':attribute 必須是 :size 個單元。',
     ],
@@ -99,7 +123,7 @@ return [
     |
     */
 
-    'custom'               => [
+    'custom' => [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
@@ -116,7 +140,7 @@ return [
     |
     */
 
-    'attributes'           => [
+    'attributes' => [
         'name'                  => '名稱',
         'username'              => '使用者名',
         'email'                 => '電郵',
@@ -147,5 +171,4 @@ return [
         'available'             => '可用的',
         'size'                  => '大小',
     ],
-
 ];

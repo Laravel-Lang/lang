@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Validation Language Lines
@@ -9,7 +8,7 @@ return [
     |
     | The following language lines contain the default error messages used by
     | the validator class. Some of these rules have multiple versions such
-    | such as the size rules. Feel free to tweak each of these messages.
+    | as the size rules. Feel free to tweak each of these messages.
     |
     */
 
@@ -42,6 +41,18 @@ return [
     'exists'               => 'Le champ :attribute sélectionné est invalide.',
     'file'                 => 'Le champ :attribute doit être un fichier.',
     'filled'               => 'Le champ :attribute doit avoir une valeur.',
+    'gt'                   => [
+        'numeric' => 'La valeur de :attribute doit être supérieure à :value.',
+        'file'    => 'La taille du fichier de :attribute doit être supérieure à :value kilo-octets.',
+        'string'  => 'Le texte :attribute doit contenir plus de :value caractères.',
+        'array'   => 'Le tableau :attribute doit contenir plus de :value éléments.',
+    ],
+    'gte'                  => [
+        'numeric' => 'La valeur de :attribute doit être supérieure ou égale à :value.',
+        'file'    => 'La taille du fichier de :attribute doit être supérieure ou égale à :value kilo-octets.',
+        'string'  => 'Le texte :attribute doit contenir au moins :value caractères.',
+        'array'   => 'Le tableau :attribute doit contenir au moins :value éléments.',
+    ],
     'image'                => 'Le champ :attribute doit être une image.',
     'in'                   => 'Le champ :attribute est invalide.',
     'in_array'             => "Le champ :attribute n'existe pas dans :other.",
@@ -50,6 +61,18 @@ return [
     'ipv4'                 => 'Le champ :attribute doit être une adresse IPv4 valide.',
     'ipv6'                 => 'Le champ :attribute doit être une adresse IPv6 valide.',
     'json'                 => 'Le champ :attribute doit être un document JSON valide.',
+    'lt'                   => [
+        'numeric' => 'La valeur de :attribute doit être inférieure à :value.',
+        'file'    => 'La taille du fichier de :attribute doit être inférieure à :value kilo-octets.',
+        'string'  => 'Le texte :attribute doit contenir moins de :value caractères.',
+        'array'   => 'Le tableau :attribute doit contenir moins de :value éléments.',
+    ],
+    'lte'                  => [
+        'numeric' => 'La valeur de :attribute doit être inférieure ou égale à :value.',
+        'file'    => 'La taille du fichier de :attribute doit être inférieure ou égale à :value kilo-octets.',
+        'string'  => 'Le texte :attribute doit contenir au plus :value caractères.',
+        'array'   => 'Le tableau :attribute doit contenir au plus :value éléments.',
+    ],
     'max'                  => [
         'numeric' => 'La valeur de :attribute ne peut être supérieure à :max.',
         'file'    => 'La taille du fichier de :attribute ne peut pas dépasser :max kilo-octets.',
@@ -65,6 +88,7 @@ return [
         'array'   => 'Le tableau :attribute doit contenir au moins :min éléments.',
     ],
     'not_in'               => "Le champ :attribute sélectionné n'est pas valide.",
+    'not_regex'            => "Le format du champ :attribute n'est pas valide.",
     'numeric'              => 'Le champ :attribute doit contenir un nombre.',
     'present'              => 'Le champ :attribute doit être présent.',
     'regex'                => 'Le format du champ :attribute est invalide.',
@@ -99,7 +123,7 @@ return [
     |
     */
 
-    'custom'               => [
+    'custom' => [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
@@ -116,7 +140,7 @@ return [
     |
     */
 
-    'attributes'           => [
+    'attributes' => [
         'name'                  => 'nom',
         'username'              => "nom d'utilisateur",
         'email'                 => 'adresse courriel',
@@ -147,5 +171,4 @@ return [
         'available'             => 'disponible',
         'size'                  => 'taille',
     ],
-
 ];

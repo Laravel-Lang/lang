@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Validation Language Lines
@@ -9,7 +8,7 @@ return [
     |
     | The following language lines contain the default error messages used by
     | the validator class. Some of these rules have multiple versions such
-    | such as the size rules. Feel free to tweak each of these messages.
+    | as the size rules. Feel free to tweak each of these messages.
     |
     */
 
@@ -42,6 +41,18 @@ return [
     'exists'               => ':attribute bestaat niet.',
     'file'                 => ':attribute moet een bestand zijn.',
     'filled'               => ':attribute is verplicht.',
+    'gt'                   => [
+        'numeric' => 'De :attribute moet groter zijn dan :value.',
+        'file'    => 'De :attribute moet groter zijn dan :value kilobytes.',
+        'string'  => 'De :attribute moet meer dan :value karakters bevatten.',
+        'array'   => 'De :attribute moet meer dan :value waardes bevatten.',
+    ],
+    'gte'                  => [
+        'numeric' => 'De :attribute moet groter of gelijk zijn aan :value.',
+        'file'    => 'De :attribute moet groter of gelijk zijn aan :value kilobytes.',
+        'string'  => 'De :attribute moet :value karakters of meer bevatten.',
+        'array'   => 'De :attribute moet :value waardes of meer bevatten.',
+    ],
     'image'                => ':attribute moet een afbeelding zijn.',
     'in'                   => ':attribute is ongeldig.',
     'in_array'             => ':attribute bestaat niet in :other.',
@@ -50,6 +61,18 @@ return [
     'ipv4'                 => ':attribute moet een geldig IPv4-adres zijn.',
     'ipv6'                 => ':attribute moet een geldig IPv6-adres zijn.',
     'json'                 => ':attribute moet een geldige JSON-string zijn.',
+    'lt'                   => [
+        'numeric' => 'De :attribute moet kleiner zijn dan :value.',
+        'file'    => 'De :attribute moet kleiner zijn dan :value kilobytes.',
+        'string'  => 'De :attribute moet minder dan :value karakters bevatten.',
+        'array'   => 'De :attribute moet minder dan :value waardes bevatten.',
+    ],
+    'lte'                  => [
+        'numeric' => 'De :attribute moet kleiner of gelijk zijn aan :value.',
+        'file'    => 'De :attribute moet kleiner of gelijk zijn aan :value kilobytes.',
+        'string'  => 'De :attribute moet :value karakters of minder bevatten.',
+        'array'   => 'De :attribute moet :value waardes of minder bevatten.',
+    ],
     'max'                  => [
         'numeric' => ':attribute mag niet hoger dan :max zijn.',
         'file'    => ':attribute mag niet meer dan :max kilobytes zijn.',
@@ -65,6 +88,7 @@ return [
         'array'   => ':attribute moet minimaal :min items bevatten.',
     ],
     'not_in'               => 'Het formaat van :attribute is ongeldig.',
+    'not_regex'            => 'De :attribute formaat is ongeldig.',
     'numeric'              => ':attribute moet een nummer zijn.',
     'present'              => ':attribute moet bestaan.',
     'regex'                => ':attribute formaat is ongeldig.',
@@ -82,7 +106,7 @@ return [
         'string'  => ':attribute moet :size karakters zijn.',
         'array'   => ':attribute moet :size items bevatten.',
     ],
-    'string'               => ':attribute moet een tekenreeks zijn.',
+    'string'               => ':attribute moet een tekst zijn.',
     'timezone'             => ':attribute moet een geldige tijdzone zijn.',
     'unique'               => ':attribute is al in gebruik.',
     'uploaded'             => 'Het uploaden van :attribute is mislukt.',
@@ -99,7 +123,7 @@ return [
     |
     */
 
-    'custom'               => [
+    'custom' => [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
@@ -116,7 +140,7 @@ return [
     |
     */
 
-    'attributes'           => [
+    'attributes' => [
         'address'               => 'adres',
         'age'                   => 'leeftijd',
         'available'             => 'beschikbaar',
@@ -149,5 +173,4 @@ return [
         'username'              => 'gebruikersnaam',
         'year'                  => 'jaar',
     ],
-
 ];

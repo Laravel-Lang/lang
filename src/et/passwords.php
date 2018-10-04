@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Password Reset Language Lines
@@ -18,5 +17,4 @@ return [
     'sent'     => 'Oleme saatnud sulle e-postiga parooli lähtestamise lingi!',
     'token'    => 'See parooli lähtestamise tunnus on vigane.',
     'user'     => 'Ei suutnud leida sellise e-posti aadressiga kasutajat.',
-
 ];

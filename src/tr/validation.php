@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Validation Language Lines
@@ -9,7 +8,7 @@ return [
     |
     | The following language lines contain the default error messages used by
     | the validator class. Some of these rules have multiple versions such
-    | such as the size rules. Feel free to tweak each of these messages.
+    | as the size rules. Feel free to tweak each of these messages.
     |
     */
 
@@ -42,6 +41,18 @@ return [
     'exists'               => 'Seçili :attribute geçersiz.',
     'file'                 => ':attribute dosya olmalıdır.',
     'filled'               => ':attribute alanının doldurulması zorunludur.',
+    'gt'                   => [
+        'numeric' => 'The :attribute must be greater than :value.',
+        'file'    => 'The :attribute must be greater than :value kilobytes.',
+        'string'  => 'The :attribute must be greater than :value characters.',
+        'array'   => 'The :attribute must have more than :value items.',
+    ],
+    'gte'                  => [
+        'numeric' => 'The :attribute must be greater than or equal :value.',
+        'file'    => 'The :attribute must be greater than or equal :value kilobytes.',
+        'string'  => 'The :attribute must be greater than or equal :value characters.',
+        'array'   => 'The :attribute must have :value items or more.',
+    ],
     'image'                => ':attribute alanı resim dosyası olmalıdır.',
     'in'                   => ':attribute değeri geçersiz.',
     'in_array'             => ':attribute alanı :other içinde mevcut değil.',
@@ -50,6 +61,18 @@ return [
     'ipv4'                 => ':attribute geçerli bir IPv4 adresi olmalıdır.',
     'ipv6'                 => ':attribute geçerli bir IPv6 adresi olmalıdır.',
     'json'                 => ':attribute geçerli bir JSON değişkeni olmalıdır.',
+    'lt'                   => [
+        'numeric' => 'The :attribute must be less than :value.',
+        'file'    => 'The :attribute must be less than :value kilobytes.',
+        'string'  => 'The :attribute must be less than :value characters.',
+        'array'   => 'The :attribute must have less than :value items.',
+    ],
+    'lte'                  => [
+        'numeric' => 'The :attribute must be less than or equal :value.',
+        'file'    => 'The :attribute must be less than or equal :value kilobytes.',
+        'string'  => 'The :attribute must be less than or equal :value characters.',
+        'array'   => 'The :attribute must not have more than :value items.',
+    ],
     'max'                  => [
         'numeric' => ':attribute değeri :max değerinden küçük olmalıdır.',
         'file'    => ':attribute değeri :max kilobayt değerinden küçük olmalıdır.',
@@ -65,12 +88,13 @@ return [
         'array'   => ':attribute en az :min nesneye sahip olmalıdır.',
     ],
     'not_in'               => 'Seçili :attribute geçersiz.',
+    'not_regex'            => ':attribute biçimi geçersiz.',
     'numeric'              => ':attribute sayı olmalıdır.',
     'present'              => ':attribute alanı mevcut olmalıdır.',
     'regex'                => ':attribute biçimi geçersiz.',
     'required'             => ':attribute alanı gereklidir.',
     'required_if'          => ':attribute alanı, :other :value değerine sahip olduğunda zorunludur.',
-    'required_unless'      => 'The :attribute field is required unless :other is in :values.',
+    'required_unless'      => ':attribute alanı, :other alanı :value değerlerinden birine sahip olmadığında zorunludur.',
     'required_with'        => ':attribute alanı :values varken zorunludur.',
     'required_with_all'    => ':attribute alanı herhangi bir :values değeri varken zorunludur.',
     'required_without'     => ':attribute alanı :values yokken zorunludur.',
@@ -99,7 +123,7 @@ return [
     |
     */
 
-    'custom'               => [
+    'custom' => [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
@@ -116,8 +140,6 @@ return [
     |
     */
 
-    'attributes'           => [
-        //
+    'attributes' => [
     ],
-
 ];

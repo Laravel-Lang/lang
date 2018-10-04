@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Validation Language Lines
@@ -16,13 +15,13 @@ return [
     'accepted'             => ':attribute debe ser aceptado.',
     'active_url'           => ':attribute non é unha URL válida.',
     'after'                => ':attribute debe ser unha data posterior a :date.',
-    'after_or_equal'       => 'The :attribute must be a date after or equal to :date.',
+    'after_or_equal'       => 'O :attribute debe ser unha data posterior ou igual a :date.',
     'alpha'                => ':attribute só debe conter letras.',
     'alpha_dash'           => ':attribute só debe conter letras, números e guións.',
     'alpha_num'            => ':attribute só debe conter letras e números.',
     'array'                => ':attribute debe ser un conxunto.',
     'before'               => ':attribute debe ser unha data anterior a :date.',
-    'before_or_equal'      => 'The :attribute must be a date before or equal to :date.',
+    'before_or_equal'      => 'O :attribute debe ser unha data previa ou igual a :date.',
     'between'              => [
         'numeric' => ':attribute debe estar entre :min e :max.',
         'file'    => 'O tamaño de :attribute debe estar entre :min e :max quilobites.',
@@ -42,14 +41,38 @@ return [
     'exists'               => 'O :attribute seleccionado non é válido.',
     'file'                 => 'The :attribute must be a file.',
     'filled'               => 'O campo :attribute é obrigatorio.',
+    'gt'                   => [
+        'numeric' => 'O :attribute debe ser maior que :value.',
+        'file'    => 'O :attribute debe ter máis de :value quilobytes.',
+        'string'  => 'O :attribute debe ter máis de :value caracteres.',
+        'array'   => 'O :attribute debe ter máis de :value elementos.',
+    ],
+    'gte'                  => [
+        'numeric' => 'O :attribute debe ser polo menos :value.',
+        'file'    => 'O :attribute debe ter polo menos de :value quilobytes.',
+        'string'  => 'O :attribute debe ter polo menos :value caracteres.',
+        'array'   => 'O :attribute deber ter polo menos :value elementos.',
+    ],
     'image'                => ':attribute debe ser unha imaxe.',
     'in'                   => 'O :attribute seleccionado non é válido.',
     'in_array'             => 'The :attribute field does not exist in :other.',
     'integer'              => ':attribute debe ser un número enteiro.',
     'ip'                   => ':attribute debe ser unha dirección IP válida.',
-    'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
-    'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
+    'ipv4'                 => 'O :attribute debe ser unha dirección IPv4 válida.',
+    'ipv6'                 => 'O :attribute debe ser unha dirección IPv6 válida.',
     'json'                 => ':attribute debe ser unha cadea JSON válida.',
+    'lt'                   => [
+        'numeric' => 'O :attribute debe ser menor que :value.',
+        'file'    => 'O :attribute debe ter menos de :value quilobytes.',
+        'string'  => 'O :attribute debe ter menos de :value caracteres.',
+        'array'   => 'O :attribute debe ter menos de :value elementos.',
+    ],
+    'lte'                  => [
+        'numeric' => 'O :attribute debe ser como moito :value.',
+        'file'    => 'O :attribute debe ter como moito :value quilobytes.',
+        'string'  => 'O :attribute debe ter como moito :value caracteres.',
+        'array'   => 'O :attribute non debe ter máis de :value elementos.',
+    ],
     'max'                  => [
         'numeric' => ':attribute non debe ser maior de :max.',
         'file'    => 'O tamaño de :attribute non debe ser maior de :max quilobites.',
@@ -65,6 +88,7 @@ return [
         'array'   => ':attribute debe conter polo menos :min elementos.',
     ],
     'not_in'               => ':attribute non é válido.',
+    'not_regex'            => 'O formato de :attribute non é válido.',
     'numeric'              => ':attribute debe de ser un número.',
     'present'              => 'The :attribute field must be present.',
     'regex'                => 'O formato de :attribute non é válido.',
@@ -85,7 +109,7 @@ return [
     'string'               => ':attribute debe ser unha cadea de caracteres.',
     'timezone'             => ':attribute debe ser unha zona válida.',
     'unique'               => ':attribute xa foi empregado.',
-    'uploaded'             => 'The :attribute failed to upload.',
+    'uploaded'             => 'O :attribute fallou na subida.',
     'url'                  => 'O formato de :attribute é inválido.',
 
     /*
@@ -117,5 +141,4 @@ return [
     */
 
     'attributes' => [],
-
 ];

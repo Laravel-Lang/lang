@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     /*
     |---------------------------------------------------------------------------------------
     | Baris Bahasa untuk Validasi
@@ -25,7 +24,7 @@ return [
     'before_or_equal'      => 'Isian :attribute harus berupa tanggal sebelum atau sama dengan tanggal :date.',
     'between'              => [
         'numeric' => 'Isian :attribute harus antara :min dan :max.',
-        'file'    => 'Isian :attribute harus antara :min dan :max kilobytes.',
+        'file'    => 'Bidang :attribute harus antara :min dan :max kilobita.',
         'string'  => 'Isian :attribute harus antara :min dan :max karakter.',
         'array'   => 'Isian :attribute harus antara :min dan :max item.',
     ],
@@ -42,6 +41,18 @@ return [
     'exists'               => 'Isian :attribute yang dipilih tidak valid.',
     'file'                 => 'Bidang :attribute harus berupa sebuah berkas.',
     'filled'               => 'Isian :attribute harus memiliki nilai.',
+    'gt'                   => [
+        'numeric' => 'Isian :attribute harus lebih besar dari :value.',
+        'file'    => 'Bidang :attribute harus lebih besar dari :value kilobita.',
+        'string'  => 'Isian :attribute harus lebih besar dari :value karakter.',
+        'array'   => 'Isian :attribute harus lebih dari :value item.',
+    ],
+    'gte'                  => [
+        'numeric' => 'Isian :attribute harus lebih besar dari atau sama dengan :value.',
+        'file'    => 'Bidang :attribute harus lebih besar dari atau sama dengan :value kilobita.',
+        'string'  => 'Isian :attribute harus lebih besar dari atau sama dengan :value karakter.',
+        'array'   => 'Isian :attribute harus mempunyai :value item atau lebih.',
+    ],
     'image'                => 'Isian :attribute harus berupa gambar.',
     'in'                   => 'Isian :attribute yang dipilih tidak valid.',
     'in_array'             => 'Bidang isian :attribute tidak terdapat dalam :other.',
@@ -50,9 +61,21 @@ return [
     'ipv4'                 => 'Isian :attribute harus berupa alamat IPv4 yang valid.',
     'ipv6'                 => 'Isian :attribute harus berupa alamat IPv6 yang valid.',
     'json'                 => 'Isian :attribute harus berupa JSON string yang valid.',
+    'lt'                   => [
+        'numeric' => 'Isian :attribute harus kurang dari :value.',
+        'file'    => 'Bidang :attribute harus kurang dari :value kilobita.',
+        'string'  => 'Isian :attribute harus kurang dari :value karakter.',
+        'array'   => 'Isian :attribute harus kurang dari :value item.',
+    ],
+    'lte'                  => [
+        'numeric' => 'Isian :attribute harus kurang dari atau sama dengan :value.',
+        'file'    => 'Bidang :attribute harus kurang dari atau sama dengan :value kilobita.',
+        'string'  => 'Isian :attribute harus kurang dari atau sama dengan :value karakter.',
+        'array'   => 'Isian :attribute harus tidak lebih dari :value item.',
+    ],
     'max'                  => [
         'numeric' => 'Isian :attribute seharusnya tidak lebih dari :max.',
-        'file'    => 'Isian :attribute seharusnya tidak lebih dari :max kilobytes.',
+        'file'    => 'Bidang :attribute seharusnya tidak lebih dari :max kilobita.',
         'string'  => 'Isian :attribute seharusnya tidak lebih dari :max karakter.',
         'array'   => 'Isian :attribute seharusnya tidak lebih dari :max item.',
     ],
@@ -60,11 +83,12 @@ return [
     'mimetypes'            => 'Isian :attribute harus dokumen berjenis : :values.',
     'min'                  => [
         'numeric' => 'Isian :attribute harus minimal :min.',
-        'file'    => 'Isian :attribute harus minimal :min kilobytes.',
+        'file'    => 'Bidang :attribute harus minimal :min kilobita.',
         'string'  => 'Isian :attribute harus minimal :min karakter.',
         'array'   => 'Isian :attribute harus minimal :min item.',
     ],
     'not_in'               => 'Isian :attribute yang dipilih tidak valid.',
+    'not_regex'            => 'Format isian :attribute tidak valid.',
     'numeric'              => 'Isian :attribute harus berupa angka.',
     'present'              => 'Bidang isian :attribute wajib ada.',
     'regex'                => 'Format isian :attribute tidak valid.',
@@ -78,7 +102,7 @@ return [
     'same'                 => 'Isian :attribute dan :other harus sama.',
     'size'                 => [
         'numeric' => 'Isian :attribute harus berukuran :size.',
-        'file'    => 'Isian :attribute harus berukuran :size kilobyte.',
+        'file'    => 'Bidang :attribute harus berukuran :size kilobyte.',
         'string'  => 'Isian :attribute harus berukuran :size karakter.',
         'array'   => 'Isian :attribute harus mengandung :size item.',
     ],
@@ -99,7 +123,7 @@ return [
     |
     */
 
-    'custom'               => [
+    'custom' => [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
@@ -116,8 +140,6 @@ return [
     |
     */
 
-    'attributes'           => [
-        //
+    'attributes' => [
     ],
-
 ];

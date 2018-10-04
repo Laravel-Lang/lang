@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Validation Language Lines
@@ -9,7 +8,7 @@ return [
     |
     | The following language lines contain the default error messages used by
     | the validator class. Some of these rules have multiple versions such
-    | such as the size rules. Feel free to tweak each of these messages.
+    | as the size rules. Feel free to tweak each of these messages.
     |
     */
 
@@ -42,6 +41,18 @@ return [
     'exists'               => ':attribute seberadu/a no est bàlidu.',
     'file'                 => 'The :attribute must be a file.',
     'filled'               => ':attribute est pedidu.',
+    'gt'                   => [
+        'numeric' => 'The :attribute must be greater than :value.',
+        'file'    => 'The :attribute must be greater than :value kilobytes.',
+        'string'  => 'The :attribute must be greater than :value characters.',
+        'array'   => 'The :attribute must have more than :value items.',
+    ],
+    'gte'                  => [
+        'numeric' => 'The :attribute must be greater than or equal :value.',
+        'file'    => 'The :attribute must be greater than or equal :value kilobytes.',
+        'string'  => 'The :attribute must be greater than or equal :value characters.',
+        'array'   => 'The :attribute must have :value items or more.',
+    ],
     'image'                => ":attribute depet èssere un'immàgine.",
     'in'                   => ':attribute seberadu no est bàlidu.',
     'in_array'             => 'The :attribute field does not exist in :other.',
@@ -50,6 +61,18 @@ return [
     'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
     'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
     'json'                 => 'The :attribute must be a valid JSON string.',
+    'lt'                   => [
+        'numeric' => 'The :attribute must be less than :value.',
+        'file'    => 'The :attribute must be less than :value kilobytes.',
+        'string'  => 'The :attribute must be less than :value characters.',
+        'array'   => 'The :attribute must have less than :value items.',
+    ],
+    'lte'                  => [
+        'numeric' => 'The :attribute must be less than or equal :value.',
+        'file'    => 'The :attribute must be less than or equal :value kilobytes.',
+        'string'  => 'The :attribute must be less than or equal :value characters.',
+        'array'   => 'The :attribute must not have more than :value items.',
+    ],
     'max'                  => [
         'numeric' => ':attribute depet èssere prus piticu de :max.',
         'file'    => ':attribute non depet èssere prus mannu de :max kilobytes.',
@@ -65,6 +88,7 @@ return [
         'array'   => ':attribute depet tènnere a su mancu :min elementos.',
     ],
     'not_in'               => 'Su balore seberadu pro :attribute no est bàlidu.',
+    'not_regex'            => 'The :attribute format is invalid.',
     'numeric'              => ':attribute depet èssere unu nùmeru.',
     'present'              => 'The :attribute field must be present.',
     'regex'                => 'Su formadu de su campu :attribute no est bàlidu.',
@@ -99,7 +123,7 @@ return [
     |
     */
 
-    'custom'               => [
+    'custom' => [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
@@ -116,8 +140,6 @@ return [
     |
     */
 
-    'attributes'           => [
-        //
+    'attributes' => [
     ],
-
 ];

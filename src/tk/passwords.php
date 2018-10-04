@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Password Reminder Language Lines
@@ -18,5 +17,4 @@ return [
     'sent'     => 'Açarsöz ýatlatmasy ugradyldy!',
     'token'    => 'Açarsöz tazeleme söz birligi ýalňyş.',
     'user'     => 'Bu e-mail adrese degişli ulanyjy tapylmady.',
-
 ];

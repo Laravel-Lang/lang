@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Password Reminder Language Lines
@@ -18,5 +17,4 @@ return [
     'sent'     => 'Lösenordspåminnelse skickad!',
     'token'    => 'Koden för lösenordsåterställning är ogiltig.',
     'user'     => 'Det finns ingen användare med den e-postadressen.',
-
 ];

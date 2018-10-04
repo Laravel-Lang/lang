@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Validation Language Lines
@@ -42,14 +41,38 @@ return [
     'exists'               => 'Câmpul :attribute selectat nu este valid.',
     'file'                 => 'Câmpul :attribute trebuie să fie un fișier.',
     'filled'               => 'Câmpul :attribute trebuie completat.',
+    'gt'                   => [
+        'numeric' => 'Câmpul :attribute trebuie să fie mai mare de :value.',
+        'file'    => 'Câmpul :attribute trebuie să fie mai mare de :value kilobyți.',
+        'string'  => 'Câmpul :attribute trebuie să fie mai mare de :value caractere.',
+        'array'   => 'Câmpul :attribute trebuie să aibă mai multe de :value elemente.',
+    ],
+    'gte'                  => [
+        'numeric' => 'Câmpul :attribute trebuie să fie mai mare sau egal cu :value.',
+        'file'    => 'Câmpul :attribute trebuie să fie mai mare sau egal cu :value kilobyți.',
+        'string'  => 'Câmpul :attribute trebuie să fie mai mare sau egal cu :value caractere.',
+        'array'   => 'Câmpul :attribute trebuie să aibă :value elemente sau mai multe.',
+    ],
     'image'                => 'Câmpul :attribute trebuie să fie o imagine.',
     'in'                   => 'Câmpul :attribute selectat nu este valid.',
     'in_array'             => 'Câmpul :attribute nu există în :other.',
     'integer'              => 'Câmpul :attribute trebuie să fie un număr întreg.',
     'ip'                   => 'Câmpul :attribute trebuie să fie o adresă IP validă.',
-    'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
-    'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
+    'ipv4'                 => 'Câmpul :attribute trebuie să fie o adresă IPv4 validă.',
+    'ipv6'                 => 'Câmpul :attribute trebuie să fie o adresă IPv6 validă.',
     'json'                 => 'Câmpul :attribute trebuie să fie un string JSON valid.',
+    'lt'                   => [
+        'numeric' => 'Câmpul :attribute trebuie să fie mai mic de :value.',
+        'file'    => 'Câmpul :attribute trebuie să fie mai mic de :value kilobyți.',
+        'string'  => 'Câmpul :attribute trebuie să fie mai mic de :value caractere.',
+        'array'   => 'Câmpul :attribute trebuie să aibă mai puțin de :value elemente.',
+    ],
+    'lte'                  => [
+        'numeric' => 'Câmpul :attribute trebuie să fie mai mic sau egal cu :value.',
+        'file'    => 'Câmpul :attribute trebuie să fie mai mic sau egal cu :value kilobyți.',
+        'string'  => 'Câmpul :attribute trebuie să fie mai mic sau egal cu :value caractere.',
+        'array'   => 'Câmpul :attribute trebuie să aibă :value elemente sau mai puține.',
+    ],
     'max'                  => [
         'numeric' => 'Câmpul :attribute nu poate fi mai mare de :max.',
         'file'    => 'Câmpul :attribute nu poate avea mai mult de :max kiloocteți.',
@@ -65,6 +88,7 @@ return [
         'array'   => 'Câmpul :attribute trebuie să aibă cel puțin :min elemente.',
     ],
     'not_in'               => 'Câmpul :attribute selectat nu este valid.',
+    'not_regex'            => 'Câmpul :attribute nu are un format valid.',
     'numeric'              => 'Câmpul :attribute trebuie să fie un număr.',
     'present'              => 'Câmpul :attribute trebuie să fie prezent.',
     'regex'                => 'Câmpul :attribute nu are un format valid.',
@@ -99,7 +123,7 @@ return [
     |
     */
 
-    'custom'               => [
+    'custom' => [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
@@ -116,8 +140,6 @@ return [
     |
     */
 
-    'attributes'           => [
-        //
+    'attributes' => [
     ],
-
 ];

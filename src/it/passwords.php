@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Password Reminder Language Lines
@@ -18,5 +17,4 @@ return [
     'sent'     => 'Promemoria della password inviato!',
     'token'    => 'Questo token per la reimpostazione della password non è valido.',
     'user'     => 'Non esiste un utente associato a questo indirizzo e-mail.',
-
 ];

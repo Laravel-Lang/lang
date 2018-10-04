@@ -8,7 +8,7 @@ return [
     |
     | The following language lines contain the default error messages used by
     | the validator class. Some of these rules have multiple versions such
-    | such as the size rules. Feel free to tweak each of these messages.
+    | as the size rules. Feel free to tweak each of these messages.
     |
     */
 
@@ -17,7 +17,7 @@ return [
     'after'                => 'يجب على :attribute أن يكون تاريخًا لاحقًا للتاريخ :date.',
     'after_or_equal'       => ':attribute يجب أن يكون تاريخاً لاحقاً أو مطابقاً للتاريخ :date.',
     'alpha'                => 'يجب أن لا يحتوي :attribute سوى على حروف',
-    'alpha_dash'           => 'يجب أن لا يحتوي :attribute على حروف، أرقام ومطّات.',
+    'alpha_dash'           => 'يجب أن لا يحتوي :attribute سوى على حروف، أرقام ومطّات.',
     'alpha_num'            => 'يجب أن يحتوي :attribute على حروفٍ وأرقامٍ فقط',
     'array'                => 'يجب أن يكون :attribute ًمصفوفة',
     'before'               => 'يجب على :attribute أن يكون تاريخًا سابقًا للتاريخ :date.',
@@ -38,19 +38,43 @@ return [
     'dimensions'           => 'الـ :attribute يحتوي على أبعاد صورة غير صالحة.',
     'distinct'             => 'للحقل :attribute قيمة مُكرّرة.',
     'email'                => 'يجب أن يكون :attribute عنوان بريد إلكتروني صحيح البُنية',
-    'exists'               => ':attribute لاغٍ',
+    'exists'               => 'القيمة المحددة :attribute غير موجودة',
     'file'                 => 'الـ :attribute يجب أن يكون ملفا.',
     'filled'               => ':attribute إجباري',
+    'gt'                   => [
+        'numeric' => 'يجب أن تكون قيمة :attribute أكبر من :max.',
+        'file'    => 'يجب أن يكون حجم الملف :attribute أكبر من :value كيلوبايت',
+        'string'  => 'يجب أن يكون طول النّص :attribute أكثر من :value حروفٍ/حرفًا',
+        'array'   => 'يجب أن يحتوي :attribute على أكثر من :value عناصر/عنصر.',
+    ],
+    'gte'                  => [
+        'numeric' => 'يجب أن تكون قيمة :attribute مساوية أو أكبر من :min.',
+        'file'    => 'يجب أن يكون حجم الملف :attribute على الأقل :value كيلوبايت',
+        'string'  => 'يجب أن يكون طول النص :attribute على الأقل :value حروفٍ/حرفًا',
+        'array'   => 'يجب أن يحتوي :attribute على الأقل على :value عُنصرًا/عناصر',
+    ],
     'image'                => 'يجب أن يكون :attribute صورةً',
-    'in'                   => ':attribute لاغٍ',
+    'in'                   => ':attribute غير موجود',
     'in_array'             => ':attribute غير موجود في :other.',
     'integer'              => 'يجب أن يكون :attribute عددًا صحيحًا',
     'ip'                   => 'يجب أن يكون :attribute عنوان IP صحيحًا',
     'ipv4'                 => 'يجب أن يكون :attribute عنوان IPv4 صحيحًا.',
     'ipv6'                 => 'يجب أن يكون :attribute عنوان IPv6 صحيحًا.',
     'json'                 => 'يجب أن يكون :attribute نصآ من نوع JSON.',
+    'lt'                   => [
+        'numeric' => 'يجب أن تكون قيمة :attribute أصغر من :max.',
+        'file'    => 'يجب أن يكون حجم الملف :attribute أصغر من :value كيلوبايت',
+        'string'  => 'يجب أن يكون طول النّص :attribute أقل من :value حروفٍ/حرفًا',
+        'array'   => 'يجب أن يحتوي :attribute على أقل من :value عناصر/عنصر.',
+    ],
+    'lte'                  => [
+        'numeric' => 'يجب أن تكون قيمة :attribute مساوية أو أصغر من :max.',
+        'file'    => 'يجب أن لا يتجاوز حجم الملف :attribute :max كيلوبايت',
+        'string'  => 'يجب أن لا يتجاوز طول النّص :attribute :max حروفٍ/حرفًا',
+        'array'   => 'يجب أن لا يحتوي :attribute على أكثر من :max عناصر/عنصر.',
+    ],
     'max'                  => [
-        'numeric' => 'يجب أن تكون قيمة :attribute مساوية أو أصغر لـ :max.',
+        'numeric' => 'يجب أن تكون قيمة :attribute مساوية أو أصغر من :max.',
         'file'    => 'يجب أن لا يتجاوز حجم الملف :attribute :max كيلوبايت',
         'string'  => 'يجب أن لا يتجاوز طول النّص :attribute :max حروفٍ/حرفًا',
         'array'   => 'يجب أن لا يحتوي :attribute على أكثر من :max عناصر/عنصر.',
@@ -58,12 +82,13 @@ return [
     'mimes'                => 'يجب أن يكون ملفًا من نوع : :values.',
     'mimetypes'            => 'يجب أن يكون ملفًا من نوع : :values.',
     'min'                  => [
-        'numeric' => 'يجب أن تكون قيمة :attribute مساوية أو أكبر لـ :min.',
+        'numeric' => 'يجب أن تكون قيمة :attribute مساوية أو أكبر من :min.',
         'file'    => 'يجب أن يكون حجم الملف :attribute على الأقل :min كيلوبايت',
         'string'  => 'يجب أن يكون طول النص :attribute على الأقل :min حروفٍ/حرفًا',
         'array'   => 'يجب أن يحتوي :attribute على الأقل على :min عُنصرًا/عناصر',
     ],
-    'not_in'               => ':attribute لاغٍ',
+    'not_in'               => ':attribute موجود',
+    'not_regex'            => 'صيغة :attribute غير صحيحة.',
     'numeric'              => 'يجب على :attribute أن يكون رقمًا',
     'present'              => 'يجب تقديم :attribute',
     'regex'                => 'صيغة :attribute .غير صحيحة',
@@ -78,8 +103,8 @@ return [
     'size'                 => [
         'numeric' => 'يجب أن تكون قيمة :attribute مساوية لـ :size',
         'file'    => 'يجب أن يكون حجم الملف :attribute :size كيلوبايت',
-        'string'  => 'يجب أن يحتوي النص :attribute على :size حروفٍ/حرفًا بالظبط',
-        'array'   => 'يجب أن يحتوي :attribute على :size عنصرٍ/عناصر بالظبط',
+        'string'  => 'يجب أن يحتوي النص :attribute على :size حروفٍ/حرفًا بالضبط',
+        'array'   => 'يجب أن يحتوي :attribute على :size عنصرٍ/عناصر بالضبط',
     ],
     'string'               => 'يجب أن يكون :attribute نصآ.',
     'timezone'             => 'يجب أن يكون :attribute نطاقًا زمنيًا صحيحًا',
@@ -98,7 +123,7 @@ return [
     |
     */
 
-    'custom'               => [
+    'custom' => [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
@@ -115,7 +140,7 @@ return [
     |
     */
 
-    'attributes'           => [
+    'attributes' => [
         'name'                  => 'الاسم',
         'username'              => 'اسم المُستخدم',
         'email'                 => 'البريد الالكتروني',

@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Validation Language Lines
@@ -9,33 +8,33 @@ return [
     |
     | The following language lines contain the default error messages used by
     | the validator class. Some of these rules have multiple versions such
-    | such as the size rules. Feel free to tweak each of these messages.
+    | as the size rules. Feel free to tweak each of these messages.
     |
     */
 
-    'accepted'             => ':attributeを承認してください。',
-    'active_url'           => ':attributeは、有効なURLではありません。',
-    'after'                => ':attributeには、:date以降の日付を指定してください。',
-    'after_or_equal'       => ':attributeには、:date以降もしくは同日時を指定してください。',
-    'alpha'                => ':attributeには、アルファベッドのみ使用できます。',
-    'alpha_dash'           => ":attributeには、英数字('A-Z','a-z','0-9')とハイフンと下線('-','_')が使用できます。",
-    'alpha_num'            => ":attributeには、英数字('A-Z','a-z','0-9')が使用できます。",
-    'array'                => ':attributeには、配列を指定してください。',
-    'before'               => ':attributeには、:date以前の日付を指定してください。',
-    'before_or_equal'      => ':attributeには、:date以前もしくは同日時を指定してください。',
-    'between'              => [
+    'accepted'        => ':attributeを承認してください。',
+    'active_url'      => ':attributeは、有効なURLではありません。',
+    'after'           => ':attributeには、:date以降の日付を指定してください。',
+    'after_or_equal'  => ':attributeには、:date以降もしくは同日時を指定してください。',
+    'alpha'           => ':attributeには、アルファベッドのみ使用できます。',
+    'alpha_dash'      => ":attributeには、英数字('A-Z','a-z','0-9')とハイフンと下線('-','_')が使用できます。",
+    'alpha_num'       => ":attributeには、英数字('A-Z','a-z','0-9')が使用できます。",
+    'array'           => ':attributeには、配列を指定してください。',
+    'before'          => ':attributeには、:date以前の日付を指定してください。',
+    'before_or_equal' => ':attributeには、:date以前もしくは同日時を指定してください。',
+    'between'         => [
         'numeric' => ':attributeには、:minから、:maxまでの数字を指定してください。',
         'file'    => ':attributeには、:min KBから:max KBまでのサイズのファイルを指定してください。',
         'string'  => ':attributeは、:min文字から:max文字にしてください。',
         'array'   => ':attributeの項目は、:min個から:max個にしてください。',
     ],
-    'boolean'              => ":attributeには、'true'か'false'を指定してください。",
-    'confirmed'            => ':attributeと:attribute確認が一致しません。',
-    'date'                 => ':attributeは、正しい日付ではありません。',
-    'date_format'          => ":attributeの形式は、':format'と合いません。",
-    'different'            => ':attributeと:otherには、異なるものを指定してください。',
-    'digits'               => ':attributeは、:digits桁にしてください。',
-    'digits_between'       => ':attributeは、:min桁から:max桁にしてください。',
+    'boolean'         => ":attributeには、'true'か'false'を指定してください。",
+    'confirmed'       => ':attributeと:attribute確認が一致しません。',
+    'date'            => ':attributeは、正しい日付ではありません。',
+    'date_format'     => ":attributeの形式は、':format'と合いません。",
+    'different'       => ':attributeと:otherには、異なるものを指定してください。',
+    'digits'          => ':attributeは、:digits桁にしてください。',
+    'digits_between'  => ':attributeは、:min桁から:max桁にしてください。',
 
     'dimensions'           => ':attributeは、正しい縦横比ではありません。',
     'distinct'             => ':attributeに重複した値があります。',
@@ -43,6 +42,18 @@ return [
     'exists'               => '選択された:attributeは、有効ではありません。',
     'file'                 => ':attributeはファイルでなければいけません。',
     'filled'               => ':attributeは必須です。',
+    'gt'                   => [
+        'numeric' => 'The :attribute must be greater than :value.',
+        'file'    => 'The :attribute must be greater than :value kilobytes.',
+        'string'  => 'The :attribute must be greater than :value characters.',
+        'array'   => 'The :attribute must have more than :value items.',
+    ],
+    'gte'                  => [
+        'numeric' => 'The :attribute must be greater than or equal :value.',
+        'file'    => 'The :attribute must be greater than or equal :value kilobytes.',
+        'string'  => 'The :attribute must be greater than or equal :value characters.',
+        'array'   => 'The :attribute must have :value items or more.',
+    ],
     'image'                => ':attributeには、画像を指定してください。',
     'in'                   => '選択された:attributeは、有効ではありません。',
     'in_array'             => ':attributeは、:otherに存在しません。',
@@ -51,6 +62,18 @@ return [
     'ipv4'                 => ':attributeはIPv4アドレスを指定してください。',
     'ipv6'                 => ':attributeはIPv6アドレスを指定してください。',
     'json'                 => ':attributeには、有効なJSON文字列を指定してください。',
+    'lt'                   => [
+        'numeric' => 'The :attribute must be less than :value.',
+        'file'    => 'The :attribute must be less than :value kilobytes.',
+        'string'  => 'The :attribute must be less than :value characters.',
+        'array'   => 'The :attribute must have less than :value items.',
+    ],
+    'lte'                  => [
+        'numeric' => 'The :attribute must be less than or equal :value.',
+        'file'    => 'The :attribute must be less than or equal :value kilobytes.',
+        'string'  => 'The :attribute must be less than or equal :value characters.',
+        'array'   => 'The :attribute must not have more than :value items.',
+    ],
     'max'                  => [
         'numeric' => ':attributeには、:max以下の数字を指定してください。',
         'file'    => ':attributeには、:max KB以下のファイルを指定してください。',
@@ -66,6 +89,7 @@ return [
         'array'   => ':attributeの項目は、:max個以上にしてください。',
     ],
     'not_in'               => '選択された:attributeは、有効ではありません。',
+    'not_regex'            => 'The :attribute format is invalid.',
     'numeric'              => ':attributeには、数字を指定してください。',
     'present'              => ':attributeは、必ず存在しなくてはいけません。',
     'regex'                => ':attributeには、有効な正規表現を指定してください。',
@@ -83,11 +107,11 @@ return [
         'string'  => ':attributeは、:size文字にしてください。',
         'array'   => ':attributeの項目は、:size個にしてください。',
     ],
-    'string'   => ':attributeには、文字を指定してください。',
-    'timezone' => ':attributeには、有効なタイムゾーンを指定してください。',
-    'unique'   => '指定の:attributeは既に使用されています。',
-    'uploaded' => ':attributeのアップロードに失敗しました。',
-    'url'      => ':attributeは、有効なURL形式で指定してください。',
+    'string'               => ':attributeには、文字を指定してください。',
+    'timezone'             => ':attributeには、有効なタイムゾーンを指定してください。',
+    'unique'               => '指定の:attributeは既に使用されています。',
+    'uploaded'             => ':attributeのアップロードに失敗しました。',
+    'url'                  => ':attributeは、有効なURL形式で指定してください。',
 
     /*
     |--------------------------------------------------------------------------
@@ -118,5 +142,4 @@ return [
     */
 
     'attributes' => [],
-
 ];

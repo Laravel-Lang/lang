@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Validation Language Lines
@@ -9,7 +8,7 @@ return [
     |
     | The following language lines contain the default error messages used by
     | the validator class. Some of these rules have multiple versions such
-    | such as the size rules. Feel free to tweak each of these messages.
+    | as the size rules. Feel free to tweak each of these messages.
     |
     */
 
@@ -42,6 +41,18 @@ return [
     'exists'               => ':attribute es inválido.',
     'file'                 => 'El campo :attribute debe ser un archivo.',
     'filled'               => 'El campo :attribute es obligatorio.',
+    'gt'                   => [
+        'numeric' => 'El campo :attribute debe ser mayor que :value.',
+        'file'    => 'El campo :attribute debe tener más de :value kilobytes.',
+        'string'  => 'El campo :attribute debe tener más de :value caracteres.',
+        'array'   => 'El campo :attribute debe tener más de :value elementos.',
+    ],
+    'gte'                  => [
+        'numeric' => 'El campo :attribute debe ser como mínimo :value.',
+        'file'    => 'El campo :attribute debe tener como mínimo :value kilobytes.',
+        'string'  => 'El campo :attribute debe tener como mínimo :value caracteres.',
+        'array'   => 'El campo :attribute debe tener como mínimo :value elementos.',
+    ],
     'image'                => ':attribute debe ser una imagen.',
     'in'                   => ':attribute es inválido.',
     'in_array'             => 'El campo :attribute no existe en :other.',
@@ -50,6 +61,18 @@ return [
     'ipv4'                 => ':attribute debe ser un dirección IPv4 válida',
     'ipv6'                 => ':attribute debe ser un dirección IPv6 válida.',
     'json'                 => 'El campo :attribute debe tener una cadena JSON válida.',
+    'lt'                   => [
+        'numeric' => 'El campo :attribute debe ser menor que :value.',
+        'file'    => 'El campo :attribute debe tener menos de :value kilobytes.',
+        'string'  => 'El campo :attribute debe tener menos de :value caracteres.',
+        'array'   => 'El campo :attribute debe tener menos de :value elementos.',
+    ],
+    'lte'                  => [
+        'numeric' => 'El campo :attribute debe ser como máximo :value.',
+        'file'    => 'El campo :attribute debe tener como máximo :value kilobytes.',
+        'string'  => 'El campo :attribute debe tener como máximo :value caracteres.',
+        'array'   => 'El campo :attribute debe tener como máximo :value elementos.',
+    ],
     'max'                  => [
         'numeric' => ':attribute no debe ser mayor a :max.',
         'file'    => ':attribute no debe ser mayor que :max kilobytes.',
@@ -65,6 +88,7 @@ return [
         'array'   => ':attribute debe tener al menos :min elementos.',
     ],
     'not_in'               => ':attribute es inválido.',
+    'not_regex'            => 'El formato del campo :attribute no es válido.',
     'numeric'              => ':attribute debe ser numérico.',
     'present'              => 'El campo :attribute debe estar presente.',
     'regex'                => 'El formato de :attribute es inválido.',
@@ -99,11 +123,11 @@ return [
     |
     */
 
-    'custom'               => [
+    'custom' => [
         'password' => [
             'min' => 'La :attribute debe contener más de :min caracteres',
         ],
-        'email' => [
+        'email'    => [
             'unique' => 'El :attribute ya ha sido registrado.',
         ],
     ],
@@ -119,7 +143,7 @@ return [
     |
     */
 
-    'attributes'           => [
+    'attributes' => [
         'name'                  => 'nombre',
         'username'              => 'usuario',
         'email'                 => 'correo electrónico',
@@ -151,5 +175,4 @@ return [
         'subject'               => 'asunto',
         'message'               => 'mensaje',
     ],
-
 ];

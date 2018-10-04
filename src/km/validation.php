@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Validation Language Lines
@@ -32,26 +31,50 @@ return [
     'boolean'              => 'The :attribute field must be true or false',
     'confirmed'            => ':attribute ការបញ្ជាក់មិនផ្គូផ្គង។',
     'date'                 => ':attribute គឺមិនមែនជាកាលបរិច្ឆេទត្រឹមត្រូវ។',
-    'date_format'          => ':attribute មិនត្រឹមត្រូវនិងទំរង :format​នេះ។',
+    'date_format'          => ':attribute មិនត្រឹមត្រូវនិងទំរង :formatនេះ។',
     'different'            => ':attribute និង :other ត្រូវតែបញ្ជាក់។',
     'digits'               => ':attribute ត្រូវជាខ្ទុង :digits។',
-    'digits_between'       => ':attribute ត្រូវចាប់ពីខ្ទុង :min​ទៅ :max។',
+    'digits_between'       => ':attribute ត្រូវចាប់ពីខ្ទុង :minទៅ :max។',
     'dimensions'           => 'The :attribute has invalid image dimensions.',
     'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => ':attribute ទំរង់នេះមិនត្រឹមត្រូវ។',
     'exists'               => 'ការជ្រើសរើស :attribute ត្រឹមត្រូវ។',
     'file'                 => 'The :attribute must be a file.',
     'filled'               => 'ទំរង់ :attribute នេះគឺទាមទារឲ្យមាន។',
+    'gt'                   => [
+        'numeric' => 'The :attribute must be greater than :value.',
+        'file'    => 'The :attribute must be greater than :value kilobytes.',
+        'string'  => 'The :attribute must be greater than :value characters.',
+        'array'   => 'The :attribute must have more than :value items.',
+    ],
+    'gte'                  => [
+        'numeric' => 'The :attribute must be greater than or equal :value.',
+        'file'    => 'The :attribute must be greater than or equal :value kilobytes.',
+        'string'  => 'The :attribute must be greater than or equal :value characters.',
+        'array'   => 'The :attribute must have :value items or more.',
+    ],
     'image'                => ':attribute ត្រូវតៃជារូបភាព។',
     'in'                   => 'ការជ្រើសរើស :attribute មិនត្រឹមត្រូវ។',
     'in_array'             => 'The :attribute field does not exist in :other.',
     'integer'              => ':attribute ត្រូវតែជាចំនួនគត់។',
-    'ip'                   => ':attribute ត្រូវតែជា IP address​ត្រឹមត្រូវ។',
+    'ip'                   => ':attribute ត្រូវតែជា IP addressត្រឹមត្រូវ។',
     'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
     'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
     'json'                 => 'The :attribute must be a valid JSON string.',
+    'lt'                   => [
+        'numeric' => 'The :attribute must be less than :value.',
+        'file'    => 'The :attribute must be less than :value kilobytes.',
+        'string'  => 'The :attribute must be less than :value characters.',
+        'array'   => 'The :attribute must have less than :value items.',
+    ],
+    'lte'                  => [
+        'numeric' => 'The :attribute must be less than or equal :value.',
+        'file'    => 'The :attribute must be less than or equal :value kilobytes.',
+        'string'  => 'The :attribute must be less than or equal :value characters.',
+        'array'   => 'The :attribute must not have more than :value items.',
+    ],
     'max'                  => [
-        'numeric' => ':attribute មិនត្រូវធំជាង :max​។',
+        'numeric' => ':attribute មិនត្រូវធំជាង :max។',
         'file'    => ':attribute មិនត្រូវធំជាង :max គីឡូបៃ។',
         'string'  => ':attribute មិនត្រូវធំជាង :max តួអក្សរ។',
         'array'   => ':attribute មិនត្រូវច្រើនជាងធាតុនេះ :max។',
@@ -65,11 +88,12 @@ return [
         'array'   => ':attribute ត្រូវតែតិចជាងធាតុនេះ :min។',
     ],
     'not_in'               => 'ការជ្រើសរើស :attribute គឺត្រឹមត្រូវ។',
+    'not_regex'            => 'The :attribute format is invalid.',
     'numeric'              => ':attribute ត្រូវតែជាលេខ។',
     'present'              => 'The :attribute field must be present.',
     'regex'                => ':attribute ទំរងមិនត្រឹមត្រូវ។',
     'required'             => 'ទំរង់ :attribute នេះគឺទាមទារឲ្យមាន។',
-    'required_if'          => 'ទំរង់ :attribute នេះគឺទាមទារនៅពេល :other គឺ :value​។',
+    'required_if'          => 'ទំរង់ :attribute នេះគឺទាមទារនៅពេល :other គឺ :value។',
     'required_unless'      => 'The :attribute field is required unless :other is in :values.',
     'required_with'        => 'ទំរង់ :attribute នេះគឺទាមទារនៅពេល :values ត្រូវបង្ហាញ។',
     'required_with_all'    => 'The :attribute field is required when :values is present.',
@@ -99,7 +123,7 @@ return [
     |
     */
 
-    'custom'               => [
+    'custom' => [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
@@ -116,8 +140,6 @@ return [
     |
     */
 
-    'attributes'           => [
-        //
+    'attributes' => [
     ],
-
 ];

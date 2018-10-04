@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Password Reminder Language Lines
@@ -18,5 +17,4 @@ return [
     'sent'     => 'Vi har sendt dig en e-mail til at nulstille din adgangskode!',
     'token'    => 'Koden til nulstilling af adgangskoden er ugyldig.',
     'user'     => 'Vi kan ikke finde en bruger med den e-mailadresse.',
-
 ];

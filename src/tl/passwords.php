@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Password Reset Language Lines
@@ -18,5 +17,4 @@ return [
     'sent'     => 'Na-email na namin sa iyo ang link sa pag-reset ng password!',
     'token'    => 'Ang token sa pag-reset ng password na ito ay imbalido.',
     'user'     => 'Hindi namin mahanap ang user na may ganyang email address.',
-
 ];

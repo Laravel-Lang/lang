@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Validation Language Lines
@@ -9,7 +8,7 @@ return [
     |
     | The following language lines contain the default error messages used by
     | the validator class. Some of these rules have multiple versions such
-    | such as the size rules. Feel free to tweak each of these messages.
+    | as the size rules. Feel free to tweak each of these messages.
     |
     */
 
@@ -42,6 +41,18 @@ return [
     'exists'               => 'Det valgte :attribute er ugyldig.',
     'file'                 => ':attribute skal være en fil.',
     'filled'               => ':attribute skal udfyldes.',
+    'gt'                   => [
+        'numeric' => 'The :attribute skal være større end :value.',
+        'file'    => 'The :attribute skal være større end :value kilobytes.',
+        'string'  => 'The :attribute skal være større end :value characters.',
+        'array'   => 'The :attribute skal være mere end :value items.',
+    ],
+    'gte'                  => [
+        'numeric' => 'The :attribute skal være større end eller lig med :value.',
+        'file'    => 'The :attribute skal være større end eller lig med :value kilobytes.',
+        'string'  => 'The :attribute skal være større end eller lig med :value characters.',
+        'array'   => 'The :attribute skal have :value items eller mere.',
+    ],
     'image'                => ':attribute skal være et billede.',
     'in'                   => 'Det valgte :attribute er ugyldig.',
     'in_array'             => ':attribute eksisterer ikke i :other.',
@@ -50,6 +61,18 @@ return [
     'ipv4'                 => ':attribute skal være en gyldig IPv4 adresse.',
     'ipv6'                 => ':attribute skal være en gyldig IPv6 adresse.',
     'json'                 => ':attribute skal være en gyldig JSON streng.',
+    'lt'                   => [
+        'numeric' => 'The :attribute skal være mindre end :value.',
+        'file'    => 'The :attribute skal være mindre end :value kilobytes.',
+        'string'  => 'The :attribute skal være mindre end :value characters.',
+        'array'   => 'The :attribute skal have mindre end :value items.',
+    ],
+    'lte'                  => [
+        'numeric' => 'The :attribute skal være mindre eller lig med :value.',
+        'file'    => 'The :attribute skal være mindre eller lig med :value kilobytes.',
+        'string'  => 'The :attribute skal være mindre eller lig med :value characters.',
+        'array'   => 'The :attribute må ikke have mere end :value items.',
+    ],
     'max'                  => [
         'numeric' => ':attribute skal være højest :max.',
         'file'    => ':attribute skal være højest :max kilobytes.',
@@ -65,6 +88,7 @@ return [
         'array'   => ':attribute skal indeholde mindst :min elementer.',
     ],
     'not_in'               => 'Den valgte :attribute er ugyldig.',
+    'not_regex'            => 'The :attribute format is invalid.',
     'numeric'              => ':attribute skal være et tal.',
     'present'              => ':attribute skal være tilstede.',
     'regex'                => ':attribute formatet er ugyldigt.',
@@ -99,7 +123,7 @@ return [
     |
     */
 
-    'custom'               => [
+    'custom' => [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
@@ -116,8 +140,6 @@ return [
     |
     */
 
-    'attributes'           => [
-        //
+    'attributes' => [
     ],
-
 ];

@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Validation Language Lines
@@ -9,7 +8,7 @@ return [
     |
     | The following language lines contain the default error messages used by
     | the validator class. Some of these rules have multiple versions such
-    | such as the size rules. Feel free to tweak each of these messages.
+    | as the size rules. Feel free to tweak each of these messages.
     |
     */
 
@@ -42,6 +41,18 @@ return [
     'exists'               => '선택된 :attribute은(는) 유효하지 않습니다.',
     'file'                 => ':attribute은(는) 파일이어야 합니다.',
     'filled'               => ':attribute 필드는 값이 있어야 합니다.',
+    'gt'                   => [
+        'numeric' => ':attribute의 값은 :value보다 커야 합니다.',
+        'file'    => ':attribute의 용량은 :value킬로바이트보다 커야 합니다.',
+        'string'  => ':attribute의 길이는 :value보다 길어야 합니다.',
+        'array'   => ':attribute의 항목수는 :value개 보다 많아야 합니다.',
+    ],
+    'gte'                  => [
+        'numeric' => ':attribute의 값은 :value보다 같거나 커야 합니다.',
+        'file'    => ':attribute의 용량은 :value킬로바이트보다 같거나 커야 합니다.',
+        'string'  => ':attribute의 길이는 :value보다 같거나 길어야 합니다.',
+        'array'   => ':attribute의 항목수는 :value개 보다 같거나 많아야 합니다.',
+    ],
     'image'                => ':attribute은(는) 이미지여야 합니다.',
     'in'                   => '선택된 :attribute은(는) 유효하지 않습니다.',
     'in_array'             => ':attribute 필드는 :other에 존재하지 않습니다.',
@@ -50,6 +61,18 @@ return [
     'ipv4'                 => ':attribute은(는) 유효한 IPv4 주소여야 합니다.',
     'ipv6'                 => ':attribute은(는) 유효한 IPv6 주소여야 합니다.',
     'json'                 => ':attribute은(는) JSON 문자열이어야 합니다.',
+    'lt'                   => [
+        'numeric' => ':attribute의 값은 :value보다 작아야 합니다.',
+        'file'    => ':attribute의 용량은 :value킬로바이트보다 작아야 합니다.',
+        'string'  => ':attribute의 길이는 :value보다 짧아야 합니다.',
+        'array'   => ':attribute의 항목수는 :value개 보다 작아야 합니다.',
+    ],
+    'lte'                  => [
+        'numeric' => ':attribute의 값은 :value보다 같거나 작아야 합니다.',
+        'file'    => ':attribute의 용량은 :value킬로바이트보다 같거나 작아야 합니다.',
+        'string'  => ':attribute의 길이는 :value보다 같거나 짧아야 합니다.',
+        'array'   => ':attribute의 항목수는 :value개 보다 같거나 작아야 합니다.',
+    ],
     'max'                  => [
         'numeric' => ':attribute은(는) :max보다 클 수 없습니다.',
         'file'    => ':attribute은(는) :max킬로바이트보다 클 수 없습니다.',
@@ -65,6 +88,7 @@ return [
         'array'   => ':attribute은(는) 최소한 :min개의 항목이 있어야 합니다.',
     ],
     'not_in'               => '선택된 :attribute이(가) 유효하지 않습니다.',
+    'not_regex'            => ':attribute의 형식이 올바르지 않습니다.',
     'numeric'              => ':attribute은(는) 숫자여야 합니다.',
     'present'              => ':attribute 필드가 있어야 합니다.',
     'regex'                => ':attribute 형식이 유효하지 않습니다.',
@@ -99,7 +123,7 @@ return [
     |
     */
 
-    'custom'               => [
+    'custom' => [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
@@ -116,8 +140,6 @@ return [
     |
     */
 
-    'attributes'           => [
-        //
+    'attributes' => [
     ],
-
 ];

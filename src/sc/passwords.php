@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Password Reminder Language Lines
@@ -18,5 +17,4 @@ return [
     'sent'     => 'Regordu de sa password imbiadu!',
     'token'    => 'Custu token pro torrare a impostare sa password no est bàlidu.',
     'user'     => "Non s'agatat un'impitadore assotziadu a custu indiritzu email.",
-
 ];

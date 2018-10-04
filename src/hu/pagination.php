@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Pagination Language Lines
@@ -13,7 +12,6 @@ return [
     |
     */
 
-    'previous' => '&laquo; Előző',
-    'next'     => 'Következő &raquo;',
-
+    'previous' => '« Előző',
+    'next'     => 'Következő »',
 ];

@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Validation Language Lines
@@ -42,14 +41,38 @@ return [
     'file'                 => 'Το πεδίο :attribute πρέπει να είναι αρχείο.',
     'filled'               => 'To πεδίο :attribute είναι απαραίτητο.',
     'exists'               => 'Το επιλεγμένο :attribute δεν είναι έγκυρο.',
+    'gt'                   => [
+        'numeric' => 'The :attribute must be greater than :value.',
+        'file'    => 'The :attribute must be greater than :value kilobytes.',
+        'string'  => 'The :attribute must be greater than :value characters.',
+        'array'   => 'The :attribute must have more than :value items.',
+    ],
+    'gte'                  => [
+        'numeric' => 'The :attribute must be greater than or equal :value.',
+        'file'    => 'The :attribute must be greater than or equal :value kilobytes.',
+        'string'  => 'The :attribute must be greater than or equal :value characters.',
+        'array'   => 'The :attribute must have :value items or more.',
+    ],
     'image'                => 'Το πεδίο :attribute πρέπει να είναι εικόνα.',
     'in'                   => 'Το επιλεγμένο :attribute δεν είναι έγκυρο.',
     'in_array'             => 'Το πεδίο :attribute δεν υπάρχει σε :other.',
     'integer'              => 'Το πεδίο :attribute πρέπει να είναι ακέραιος.',
     'ip'                   => 'Το πεδίο :attribute πρέπει να είναι μία έγκυρη διεύθυνση IP.',
-    'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
-    'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
+    'ipv4'                 => 'Το πεδίο :attribute πρέπει να είναι μία έγκυρη διεύθυνση IPv4.',
+    'ipv6'                 => 'Το πεδίο :attribute πρέπει να είναι μία έγκυρη διεύθυνση IPv6.',
     'json'                 => 'Το πεδίο :attribute πρέπει να είναι μία έγκυρη συμβολοσειρά JSON.',
+    'lt'                   => [
+        'numeric' => 'The :attribute must be less than :value.',
+        'file'    => 'The :attribute must be less than :value kilobytes.',
+        'string'  => 'The :attribute must be less than :value characters.',
+        'array'   => 'The :attribute must have less than :value items.',
+    ],
+    'lte'                  => [
+        'numeric' => 'The :attribute must be less than or equal :value.',
+        'file'    => 'The :attribute must be less than or equal :value kilobytes.',
+        'string'  => 'The :attribute must be less than or equal :value characters.',
+        'array'   => 'The :attribute must not have more than :value items.',
+    ],
     'max'                  => [
         'numeric' => 'Το πεδίο :attribute δεν μπορεί να είναι μεγαλύτερο από :max.',
         'file'    => 'Το πεδίο :attribute δεν μπορεί να είναι μεγαλύτερό :max kilobytes.',
@@ -65,6 +88,7 @@ return [
         'array'   => 'Το πεδίο :attribute πρέπει να έχει τουλάχιστον :min αντικείμενα.',
     ],
     'not_in'               => 'Το επιλεγμένο :attribute δεν είναι αποδεκτό.',
+    'not_regex'            => 'The :attribute format is invalid.',
     'numeric'              => 'Το πεδίο :attribute πρέπει να είναι αριθμός.',
     'present'              => 'Το πεδίο :attribute πρέπει να υπάρχει.',
     'regex'                => 'Η μορφή του :attribute δεν είναι αποδεκτή.',
@@ -99,7 +123,7 @@ return [
     |
     */
 
-    'custom'               => [
+    'custom' => [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
@@ -117,7 +141,5 @@ return [
     */
 
     'attributes' => [
-        //
     ],
-
 ];

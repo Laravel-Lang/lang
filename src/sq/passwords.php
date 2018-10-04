@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Password Reminder Language Lines
@@ -18,5 +17,4 @@ return [
     'sent'     => 'Adresa për ndryshimin e fjalëkalimit u dërgua!',
     'token'    => 'Ky tallon për ndryshimin e fjalëkalimit është i pasaktë.',
     'user'     => 'Nuk mund të gjejmë një përdorues me atë adres email-i.',
-
 ];

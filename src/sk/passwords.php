@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Password Reminder Language Lines
@@ -18,5 +17,4 @@ return [
     'sent'     => 'Pripomienka k zmene hesla bola odoslaná!',
     'token'    => 'Klúč pre obnovu hesla je neplatný.',
     'user'     => 'Nepodarilo sa nájsť používateľa s touto e-mailovou adresou.',
-
 ];

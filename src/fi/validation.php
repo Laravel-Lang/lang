@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Validation Language Lines
@@ -9,7 +8,7 @@ return [
     |
     | The following language lines contain the default error messages used by
     | the validator class. Some of these rules have multiple versions such
-    | such as the size rules. Feel free to tweak each of these messages.
+    | as the size rules. Feel free to tweak each of these messages.
     |
     */
 
@@ -42,6 +41,18 @@ return [
     'exists'               => 'The selected :attribute is invalid.',
     'file'                 => 'Kentän :attribute arvon tulee olla tiedosto.',
     'filled'               => 'Kenttä :attribute on pakollinen.',
+    'gt'                   => [
+        'numeric' => 'The :attribute must be greater than :value.',
+        'file'    => 'The :attribute must be greater than :value kilobytes.',
+        'string'  => 'The :attribute must be greater than :value characters.',
+        'array'   => 'The :attribute must have more than :value items.',
+    ],
+    'gte'                  => [
+        'numeric' => 'The :attribute must be greater than or equal :value.',
+        'file'    => 'The :attribute must be greater than or equal :value kilobytes.',
+        'string'  => 'The :attribute must be greater than or equal :value characters.',
+        'array'   => 'The :attribute must have :value items or more.',
+    ],
     'image'                => 'Kentän :attribute arvon tulee olla kuva.',
     'in'                   => 'Kentän :attribute arvo on virheellinen.',
     'in_array'             => 'Kentän :attribute arvo ei sisälly kentän :other arvoon.',
@@ -50,6 +61,18 @@ return [
     'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
     'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
     'json'                 => 'Kentän :attribute arvon tulee olla validia JSON:ia.',
+    'lt'                   => [
+        'numeric' => 'The :attribute must be less than :value.',
+        'file'    => 'The :attribute must be less than :value kilobytes.',
+        'string'  => 'The :attribute must be less than :value characters.',
+        'array'   => 'The :attribute must have less than :value items.',
+    ],
+    'lte'                  => [
+        'numeric' => 'The :attribute must be less than or equal :value.',
+        'file'    => 'The :attribute must be less than or equal :value kilobytes.',
+        'string'  => 'The :attribute must be less than or equal :value characters.',
+        'array'   => 'The :attribute must not have more than :value items.',
+    ],
     'max'                  => [
         'numeric' => 'Kentän arvon :attribute tulee olla enintään :max.',
         'file'    => 'Tiedoston :attribute tulee olla enintään :max kilobittiä.',
@@ -65,6 +88,7 @@ return [
         'array'   => 'Kentän :attribute tulee sisältää vähintään :min arvoa.',
     ],
     'not_in'               => 'Kentän :attribute arvo on virheellinen.',
+    'not_regex'            => 'The :attribute format is invalid.',
     'numeric'              => 'Kentän :attribute arvon tulee olla numero.',
     'present'              => 'Kenttä :attribute vaaditaan.',
     'regex'                => 'Kentän :attribute arvo on väärää muotoa.',
@@ -99,7 +123,7 @@ return [
     |
     */
 
-    'custom'               => [
+    'custom' => [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
@@ -116,8 +140,6 @@ return [
     |
     */
 
-    'attributes'           => [
-        //
+    'attributes' => [
     ],
-
 ];

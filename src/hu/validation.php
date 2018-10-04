@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Validation Language Lines
@@ -9,7 +8,7 @@ return [
     |
     | The following language lines contain the default error messages used by
     | the validator class. Some of these rules have multiple versions such
-    | such as the size rules. Feel free to tweak each of these messages.
+    | as the size rules. Feel free to tweak each of these messages.
     |
     */
 
@@ -42,6 +41,18 @@ return [
     'exists'               => 'A(z) :attribute már létezik.',
     'file'                 => 'A(z) :attribute fájl kell, hogy legyen!',
     'filled'               => 'A(z) :attribute megadása kötelező!',
+    'gt'                   => [
+        'numeric' => 'A(z) :attribute nagyobb kell, hogy legyen, mint :value!',
+        'file'    => 'A(z) :attribute mérete nagyobb kell, hogy legyen, mint :value kilobájt.',
+        'string'  => 'A(z) :attribute hosszabb kell, hogy legyen, mint :value karakter.',
+        'array'   => 'A(z) :attribute több, mint :value elemet kell, hogy tartalmazzon.',
+    ],
+    'gte'                  => [
+        'numeric' => 'A(z) :attribute nagyobb vagy egyenlő kell, hogy legyen, mint :value!',
+        'file'    => 'A(z) :attribute mérete nem lehet kevesebb, mint :value kilobájt.',
+        'string'  => 'A(z) :attribute hossza nem lehet kevesebb, mint :value karakter.',
+        'array'   => 'A(z) :attribute legalább :value elemet kell, hogy tartalmazzon.',
+    ],
     'image'                => 'A(z) :attribute képfájl kell, hogy legyen!',
     'in'                   => 'A kiválasztott :attribute érvénytelen.',
     'in_array'             => 'A(z) :attribute értéke nem található a(z) :other értékek között.',
@@ -50,6 +61,18 @@ return [
     'ipv4'                 => 'A(z) :attribute érvényes IPv4 cím kell, hogy legyen!',
     'ipv6'                 => 'A(z) :attribute érvényes IPv6 cím kell, hogy legyen!',
     'json'                 => 'A(z) :attribute érvényes JSON szöveg kell, hogy legyen!',
+    'lt'                   => [
+        'numeric' => 'A(z) :attribute kisebb kell, hogy legyen, mint :value!',
+        'file'    => 'A(z) :attribute mérete kisebb kell, hogy legyen, mint :value kilobájt.',
+        'string'  => 'A(z) :attribute rövidebb kell, hogy legyen, mint :value karakter.',
+        'array'   => 'A(z) :attribute kevesebb, mint :value elemet kell, hogy tartalmazzon.',
+    ],
+    'lte'                  => [
+        'numeric' => 'A(z) :attribute kisebb vagy egyenlő kell, hogy legyen, mint :value!',
+        'file'    => 'A(z) :attribute mérete nem lehet több, mint :value kilobájt.',
+        'string'  => 'A(z) :attribute hossza nem lehet több, mint :value karakter.',
+        'array'   => 'A(z) :attribute legfeljebb :value elemet kell, hogy tartalmazzon.',
+    ],
     'max'                  => [
         'numeric' => 'A(z) :attribute értéke nem lehet nagyobb, mint :max!',
         'file'    => 'A(z) :attribute mérete nem lehet több, mint :max kilobájt.',
@@ -65,6 +88,7 @@ return [
         'array'   => 'A(z) :attribute legalább :min elemet kell, hogy tartalmazzon.',
     ],
     'not_in'               => 'A(z) :attribute értéke érvénytelen.',
+    'not_regex'            => 'A(z) :attribute formátuma érvénytelen.',
     'numeric'              => 'A(z) :attribute szám kell, hogy legyen!',
     'present'              => 'A(z) :attribute mező nem található!',
     'regex'                => 'A(z) :attribute formátuma érvénytelen.',
@@ -82,7 +106,7 @@ return [
         'string'  => 'A(z) :attribute hossza :size karakter kell, hogy legyen!',
         'array'   => 'A(z) :attribute :size elemet kell tartalmazzon!',
     ],
-    'string'               => 'A(z) :attribute szövegnek kell legyen.',
+    'string'               => 'A(z) :attribute szöveg kell, hogy legyen.',
     'timezone'             => 'A(z) :attribute nem létező időzona.',
     'unique'               => 'A(z) :attribute már foglalt.',
     'uploaded'             => 'A(z) :attribute feltöltése sikertelen.',
@@ -99,7 +123,7 @@ return [
     |
     */
 
-    'custom'               => [
+    'custom' => [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
@@ -116,9 +140,8 @@ return [
     |
     */
 
-    'attributes'           => [
+    'attributes' => [
         'name'     => 'név',
         'password' => 'jelszó',
     ],
-
 ];

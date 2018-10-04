@@ -1,0 +1,16 @@
+{
+  "Confirm Password": "비밀번호 확인",
+  "E-Mail Address": "E-Mail 주소",
+  "Forgot Your Password?": "비밀번호를 잊으셨나요?",
+  "If you did not request a password reset, no further action is required.": "귀하께서 비밀번호 재설정을 요청하지 않으셨다면, 더이상 진행하지 마십시오.",
+  "Login": "로그인",
+  "Logout": "로그아웃",
+  "Name": "이름",
+  "Password": "비밀번호",
+  "Register": "회원가입",
+  "Remember Me": "ID 저장",
+  "Reset Password": "비밀번호 재설정",
+  "Reset Password Notification": "비밀번호 재설정 알림",
+  "Send Password Reset Link": "비밀번호 재설정 링크 보내기",
+  "You are receiving this email because we received a password reset request for your account.": "귀하의 계정에 비밀번호 재설정이 요청되어 해당 메일이 발송되었습니다."
+}

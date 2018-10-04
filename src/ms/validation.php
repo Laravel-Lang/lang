@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Validation Language Lines
@@ -29,7 +28,7 @@ return [
         'string'  => ':attribute mesti mengandungi antara :min dan :max aksara.',
         'array'   => ':attribute mesti mengandungi antara :min dan :max perkara.',
     ],
-    'boolean'              => ':attribute mesti benar atau palsu.',
+    'boolean'              => ':attribute mesti benar atau salah.',
     'confirmed'            => ':attribute pengesahan yang tidak sepadan.',
     'date'                 => ':attribute bukan tarikh yang sah.',
     'date_format'          => ':attribute tidak mengikut format :format.',
@@ -42,6 +41,18 @@ return [
     'exists'               => ':attribute tidak sah.',
     'file'                 => ':attribute mesti fail yang sah.',
     'filled'               => ':attribute diperlukan.',
+    'gt'                   => [
+        'numeric' => ':attribute mesti melebihi :value.',
+        'file'    => ':attribute mesti melebihi :value kilobait.',
+        'string'  => ':attribute mesti melebihi :value aksara.',
+        'array'   => ':attribute mesti mengandungi lebih daripada :value perkara.',
+    ],
+    'gte'                  => [
+        'numeric' => ':attribute mesti melebihi atau bersamaan :value.',
+        'file'    => ':attribute mesti melebihi atau bersamaan :value kilobait.',
+        'string'  => ':attribute mesti melebihi atau bersamaan :value aksara.',
+        'array'   => ':attribute mesti mengandungi :value perkara atau lebih.',
+    ],
     'image'                => ':attribute mesti imej.',
     'in'                   => ':attribute tidak sah.',
     'in_array'             => ':attribute tidak wujud dalam :other.',
@@ -50,6 +61,18 @@ return [
     'ipv4'                 => ':attribute mesti alamat IPv4 yang sah.',
     'ipv6'                 => ':attribute mesti alamat IPv6 yang sah',
     'json'                 => ':attribute mesti JSON yang sah.',
+    'lt'                   => [
+        'numeric' => ':attribute mesti kurang daripada :value.',
+        'file'    => ':attribute mesti kurang daripada :value kilobait.',
+        'string'  => ':attribute mesti kurang daripada :value aksara.',
+        'array'   => ':attribute mesti mengandungi kurang daripada :value perkara.',
+    ],
+    'lte'                  => [
+        'numeric' => ':attribute mesti kurang daripada atau bersamaan dengan :value.',
+        'file'    => ':attribute mesti kurang daripada atau bersamaan dengan :value kilobait.',
+        'string'  => ':attribute mesti kurang daripada atau bersamaan dengan :value aksara.',
+        'array'   => ':attribute mesti mengandungi kurang daripada atau bersamaan dengan :value perkara.',
+    ],
     'max'                  => [
         'numeric' => 'Jumlah :attribute mesti tidak melebihi :max.',
         'file'    => 'Jumlah :attribute mesti tidak melebihi :max kilobait.',
@@ -65,9 +88,10 @@ return [
         'array'   => 'Jumlah :attribute mesti sekurang-kurangnya :min perkara.',
     ],
     'not_in'               => ':attribute tidak sah.',
+    'not_regex'            => 'Format :attribute adalah tidak sah.',
     'numeric'              => ':attribute mesti nombor.',
     'present'              => ':attribute mesti wujud.',
-    'regex'                => ':attribute format tidak sah.',
+    'regex'                => 'Format :attribute tidak sah.',
     'required'             => 'Ruangan :attribute diperlukan.',
     'required_if'          => 'Ruangan :attribute diperlukan bila :other sama dengan :value.',
     'required_unless'      => 'Ruangan :attribute diperlukan sekiranya :other ada dalam :values.',
@@ -99,7 +123,7 @@ return [
     |
      */
 
-    'custom'               => [
+    'custom' => [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
@@ -116,5 +140,5 @@ return [
     |
      */
 
-    'attributes'           => [],
+    'attributes' => [],
 ];

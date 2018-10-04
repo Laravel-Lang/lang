@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Validation Language Lines
@@ -25,7 +24,7 @@ return [
     'before_or_equal'      => ':attribute deve essere una data precedente o uguale al :date.',
     'between'              => [
         'numeric' => ':attribute deve trovarsi tra :min - :max.',
-        'file'    => ':attribute deve trovarsi tra :min - :max kilobytes.',
+        'file'    => ':attribute deve trovarsi tra :min - :max kilobyte.',
         'string'  => ':attribute deve trovarsi tra :min - :max caratteri.',
         'array'   => ':attribute deve avere tra :min - :max elementi.',
     ],
@@ -42,6 +41,18 @@ return [
     'exists'               => ':attribute selezionato non è valido.',
     'file'                 => ':attribute deve essere un file.',
     'filled'               => 'Il campo :attribute deve contenere un valore.',
+    'gt'                   => [
+        'numeric' => ':attribute deve essere maggiore di :value.',
+        'file'    => ':attribute deve essere maggiore di :value kilobyte.',
+        'string'  => ':attribute deve contenere più di :value caratteri.',
+        'array'   => ':attribute deve contenere più di :value elementi.',
+    ],
+    'gte'                  => [
+        'numeric' => ':attribute deve essere uguale o maggiore di :value.',
+        'file'    => ':attribute deve essere uguale o maggiore di :value kilobyte.',
+        'string'  => ':attribute deve contenere un numero di caratteri uguale o maggiore di :value.',
+        'array'   => ':attribute deve contenere un numero di elementi uguale o maggiore di :value.',
+    ],
     'image'                => ":attribute deve essere un'immagine.",
     'in'                   => ':attribute selezionato non è valido.',
     'in_array'             => 'Il valore del campo :attribute non esiste in :other.',
@@ -50,9 +61,21 @@ return [
     'ipv4'                 => ':attribute deve essere un indirizzo IPv4 valido.',
     'ipv6'                 => ':attribute deve essere un indirizzo IPv6 valido.',
     'json'                 => ':attribute deve essere una stringa JSON valida.',
+    'lt'                   => [
+        'numeric' => ':attribute deve essere minore di :value.',
+        'file'    => ':attribute deve essere minore di :value kilobyte.',
+        'string'  => ':attribute deve contenere meno di :value caratteri.',
+        'array'   => ':attribute deve contenere meno di :value elementi.',
+    ],
+    'lte'                  => [
+        'numeric' => ':attribute deve essere minore o uguale a :value.',
+        'file'    => ':attribute deve essere minore o uguale a :value kilobyte.',
+        'string'  => ':attribute deve contenere un numero di caratteri minore o uguale a :value.',
+        'array'   => ':attribute deve contenere un numero di elementi minore o uguale a :value.',
+    ],
     'max'                  => [
         'numeric' => ':attribute non può essere superiore a :max.',
-        'file'    => ':attribute non può essere superiore a :max kilobytes.',
+        'file'    => ':attribute non può essere superiore a :max kilobyte.',
         'string'  => ':attribute non può contenere più di :max caratteri.',
         'array'   => ':attribute non può avere più di :max elementi.',
     ],
@@ -60,11 +83,12 @@ return [
     'mimetypes'            => ':attribute deve essere del tipo: :values.',
     'min'                  => [
         'numeric' => ':attribute deve essere almeno :min.',
-        'file'    => ':attribute deve essere almeno di :min kilobytes.',
+        'file'    => ':attribute deve essere almeno di :min kilobyte.',
         'string'  => ':attribute deve contenere almeno :min caratteri.',
         'array'   => ':attribute deve avere almeno :min elementi.',
     ],
     'not_in'               => 'Il valore selezionato per :attribute non è valido.',
+    'not_regex'            => 'Il formato di :attribute non è valido.',
     'numeric'              => ':attribute deve essere un numero.',
     'present'              => 'Il campo :attribute deve essere presente.',
     'regex'                => 'Il formato del campo :attribute non è valido.',
@@ -78,7 +102,7 @@ return [
     'same'                 => ':attribute e :other devono coincidere.',
     'size'                 => [
         'numeric' => ':attribute deve essere :size.',
-        'file'    => ':attribute deve essere :size kilobytes.',
+        'file'    => ':attribute deve essere :size kilobyte.',
         'string'  => ':attribute deve contenere :size caratteri.',
         'array'   => ':attribute deve contenere :size elementi.',
     ],
@@ -99,7 +123,7 @@ return [
     |
     */
 
-    'custom'               => [
+    'custom' => [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
@@ -117,7 +141,32 @@ return [
     */
 
     'attributes' => [
-        //
+        'name'                  => 'nome',
+        'username'              => 'nome utente',
+        'first_name'            => 'nome',
+        'last_name'             => 'cognome',
+        'password_confirmation' => 'conferma password',
+        'city'                  => 'città',
+        'country'               => 'paese',
+        'address'               => 'indirizzo',
+        'phone'                 => 'telefono',
+        'mobile'                => 'cellulare',
+        'age'                   => 'età',
+        'sex'                   => 'sesso',
+        'gender'                => 'genere',
+        'day'                   => 'giorno',
+        'month'                 => 'mese',
+        'year'                  => 'anno',
+        'hour'                  => 'ora',
+        'minute'                => 'minuto',
+        'second'                => 'secondo',
+        'title'                 => 'titolo',
+        'content'               => 'contenuto',
+        'description'           => 'descrizione',
+        'excerpt'               => 'estratto',
+        'date'                  => 'data',
+        'time'                  => 'ora',
+        'available'             => 'disponibile',
+        'size'                  => 'dimensione',
     ],
-
 ];

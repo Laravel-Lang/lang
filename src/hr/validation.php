@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Validation Language Lines
@@ -9,20 +8,20 @@ return [
     |
     | The following language lines contain the default error messages used by
     | the validator class. Some of these rules have multiple versions such
-    | such as the size rules. Feel free to tweak each of these messages.
+    | as the size rules. Feel free to tweak each of these messages.
     |
     */
 
     'accepted'             => 'Polje :attribute mora biti prihvaćeno.',
     'active_url'           => 'Polje :attribute nije ispravan URL.',
     'after'                => 'Polje :attribute mora biti datum nakon :date.',
-    'after_or_equal'       => 'The :attribute must be a date after or equal to :date.',
+    'after_or_equal'       => 'Polje :attribute mora biti datum veći ili jednak :date.',
     'alpha'                => 'Polje :attribute smije sadržavati samo slova.',
     'alpha_dash'           => 'Polje :attribute smije sadržavati samo slova, brojeve i crtice.',
     'alpha_num'            => 'Polje :attribute smije sadržavati samo slova i brojeve.',
     'array'                => 'Polje :attribute mora biti niz.',
     'before'               => 'Polje :attribute mora biti datum prije :date.',
-    'before_or_equal'      => 'The :attribute must be a date before or equal to :date.',
+    'before_or_equal'      => 'Polje :attribute mora biti datum manji ili jednak :date.',
     'between'              => [
         'numeric' => 'Polje :attribute mora biti između :min - :max.',
         'file'    => 'Polje :attribute mora biti između :min - :max kilobajta.',
@@ -36,20 +35,44 @@ return [
     'different'            => 'Polja :attribute i :other moraju biti različita.',
     'digits'               => 'Polje :attribute mora sadržavati :digits znamenki.',
     'digits_between'       => 'Polje :attribute mora imati između :min i :max znamenki.',
-    'dimensions'           => 'The :attribute has invalid image dimensions.',
-    'distinct'             => 'The :attribute field has a duplicate value.',
+    'dimensions'           => 'Polje :attribute ima neispravne dimenzije slike.',
+    'distinct'             => 'Polje :attribute ima dupliciranu vrijednost.',
     'email'                => 'Polje :attribute mora biti ispravna e-mail adresa.',
     'exists'               => 'Odabrano polje :attribute nije ispravno.',
-    'file'                 => 'The :attribute must be a file.',
-    'filled'               => 'The :attribute field is required.',
+    'file'                 => 'Polje :attribute mora biti datoteka.',
+    'filled'               => 'Polje :attribute je obavezno.',
+    'gt'                   => [
+        'numeric' => 'Polje :attribute mora biti veće od :value.',
+        'file'    => 'Polje :attribute mora biti veće od :value kilobajta.',
+        'string'  => 'Polje :attribute mora biti veće od :value karaktera.',
+        'array'   => 'Polje :attribute mora biti veće od :value stavki.',
+    ],
+    'gte'                  => [
+        'numeric' => 'Polje :attribute mora biti veće ili jednako :value.',
+        'file'    => 'Polje :attribute mora biti veće ili jednako :value kilobajta.',
+        'string'  => 'Polje :attribute mora biti veće ili jednako :value znakova.',
+        'array'   => 'Polje :attribute mora imati :value stavki ili više.',
+    ],
     'image'                => 'Polje :attribute mora biti slika.',
     'in'                   => 'Odabrano polje :attribute nije ispravno.',
-    'in_array'             => 'The :attribute field does not exist in :other.',
+    'in_array'             => 'Polje :attribute ne postoji u :other.',
     'integer'              => 'Polje :attribute mora biti broj.',
     'ip'                   => 'Polje :attribute mora biti ispravna IP adresa.',
-    'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
-    'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
-    'json'                 => 'The :attribute must be a valid JSON string.',
+    'ipv4'                 => 'Polje :attribute mora biti ispravna IPv4 adresa.',
+    'ipv6'                 => 'Polje :attribute mora biti ispravna IPv6 adresa.',
+    'json'                 => 'Polje :attribute mora biti ispravan JSON string.',
+    'lt'                   => [
+        'numeric' => 'Polje :attribute mora biti manje od :value.',
+        'file'    => 'Polje :attribute mora biti manje od :value kilobajta.',
+        'string'  => 'Polje :attribute mora biti manje od :value znakova.',
+        'array'   => 'Polje :attribute mora biti manje od :value stavki.',
+    ],
+    'lte'                  => [
+        'numeric' => 'Polje :attribute mora biti manje ili jednako :value.',
+        'file'    => 'Polje :attribute mora biti manje ili jednako :value kilobajta.',
+        'string'  => 'Polje :attribute mora biti manje ili jednako :value znakova.',
+        'array'   => 'Polje :attribute ne smije imati više od :value stavki.',
+    ],
     'max'                  => [
         'numeric' => 'Polje :attribute mora biti manje od :max.',
         'file'    => 'Polje :attribute mora biti manje od :max kilobajta.',
@@ -65,12 +88,13 @@ return [
         'array'   => 'Polje :attribute mora sadržavati najmanje :min stavki.',
     ],
     'not_in'               => 'Odabrano polje :attribute nije ispravno.',
+    'not_regex'            => 'Format polja :attribute je neispravan.',
     'numeric'              => 'Polje :attribute mora biti broj.',
-    'present'              => 'The :attribute field must be present.',
+    'present'              => 'Polje :attribute mora biti prisutno.',
     'regex'                => 'Polje :attribute se ne podudara s formatom.',
     'required'             => 'Polje :attribute je obavezno.',
     'required_if'          => 'Polje :attribute je obavezno kada polje :other sadrži :value.',
-    'required_unless'      => 'The :attribute field is required unless :other is in :values.',
+    'required_unless'      => 'Polje :attribute je obavezno osim :other je u :values.',
     'required_with'        => 'Polje :attribute je obavezno kada postoji polje :values.',
     'required_with_all'    => 'Polje :attribute je obavezno kada postje polja :values.',
     'required_without'     => 'Polje :attribute je obavezno kada ne postoji polje :values.',
@@ -82,10 +106,10 @@ return [
         'string'  => 'Polje :attribute mora biti :size znakova.',
         'array'   => 'Polje :attribute mora sadržavati :size stavki.',
     ],
-    'string'               => 'The :attribute must be a string.',
+    'string'               => 'Polje :attribute mora biti string.',
     'timezone'             => 'Polje :attribute mora biti ispravna vremenska zona.',
     'unique'               => 'Polje :attribute već postoji.',
-    'uploaded'             => 'The :attribute failed to upload.',
+    'uploaded'             => 'Polje :attribute nije uspešno učitano.',
     'url'                  => 'Polje :attribute nije ispravnog formata.',
 
     /*
@@ -99,7 +123,7 @@ return [
     |
     */
 
-    'custom'               => [
+    'custom' => [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
@@ -116,8 +140,6 @@ return [
     |
     */
 
-    'attributes'           => [
-        //
+    'attributes' => [
     ],
-
 ];

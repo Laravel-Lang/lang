@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Validation Language Lines
@@ -42,6 +41,18 @@ return [
     'exists'               => 'Odabrano polje :attribute nije validno.',
     'file'                 => 'The :attribute must be a file.',
     'filled'               => 'Polje :attribute je obavezno.',
+    'gt'                   => [
+        'numeric' => 'The :attribute must be greater than :value.',
+        'file'    => 'The :attribute must be greater than :value kilobytes.',
+        'string'  => 'The :attribute must be greater than :value characters.',
+        'array'   => 'The :attribute must have more than :value items.',
+    ],
+    'gte'                  => [
+        'numeric' => 'The :attribute must be greater than or equal :value.',
+        'file'    => 'The :attribute must be greater than or equal :value kilobytes.',
+        'string'  => 'The :attribute must be greater than or equal :value characters.',
+        'array'   => 'The :attribute must have :value items or more.',
+    ],
     'image'                => 'Polje :attribute mora biti slika.',
     'in'                   => 'Odabrano polje :attribute nije validno.',
     'in_array'             => 'Polje :attribute ne postoji u :other.',
@@ -50,6 +61,18 @@ return [
     'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
     'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
     'json'                 => 'Polje :attribute mora biti validan JSON string.',
+    'lt'                   => [
+        'numeric' => 'The :attribute must be less than :value.',
+        'file'    => 'The :attribute must be less than :value kilobytes.',
+        'string'  => 'The :attribute must be less than :value characters.',
+        'array'   => 'The :attribute must have less than :value items.',
+    ],
+    'lte'                  => [
+        'numeric' => 'The :attribute must be less than or equal :value.',
+        'file'    => 'The :attribute must be less than or equal :value kilobytes.',
+        'string'  => 'The :attribute must be less than or equal :value characters.',
+        'array'   => 'The :attribute must not have more than :value items.',
+    ],
     'max'                  => [
         'numeric' => 'Polje :attribute mora biti manje od :max.',
         'file'    => 'Polje :attribute mora biti manje od :max kilobajta.',
@@ -65,6 +88,7 @@ return [
         'array'   => 'Polje :attribute mora sadrzati najmanje :min stavke.',
     ],
     'not_in'               => 'Odabrani element polja :attribute nije validan.',
+    'not_regex'            => 'The :attribute format is invalid.',
     'numeric'              => 'Polje :attribute mora biti broj.',
     'present'              => 'Polje :attribute mora postojati.',
     'regex'                => 'Format polja :attribute nije validan.',
@@ -147,5 +171,4 @@ return [
         'subject'               => 'naslov',
         'message'               => 'poruka',
     ],
-
 ];

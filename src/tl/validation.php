@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Validation Language Lines
@@ -16,11 +15,13 @@ return [
     'accepted'             => 'Ang :attribute ay dapat tanggapin.',
     'active_url'           => 'Ang :attribute ay hindi balidong URL.',
     'after'                => 'Ang :attribute ay dapat petsa pagkatapos ng :petsa.',
+    'after_or_equal'       => 'The :attribute must be a date after or equal to :date.',
     'alpha'                => 'Ang :attribute ay maaaring magtaglay ng mga letra lang.',
     'alpha_dash'           => 'Ang :attribute ay maaaring magtaglay ng mga letra, numero at gitling lang.',
     'alpha_num'            => 'Ang :attribute ay maaaring magtaglay ng mga letra at numero lang.',
     'array'                => 'Ang :attribute ay dapat magkakasunod.',
     'before'               => 'Ang :attribute ay dapat petsa bago ang :petsa.',
+    'before_or_equal'      => 'The :attribute must be a date before or equal to :date.',
     'between'              => [
         'numeric' => 'Ang :attribute ay dapat nasa pagitan ng :min at:max.',
         'file'    => 'Ang :attribute ay dapat nasa pagitan ng :min at :max kilobytes.',
@@ -34,10 +35,24 @@ return [
     'different'            => 'Ang :attribute at :isa pa ay dapat magkaiba.',
     'digits'               => 'Ang :attribute ay dapat :digits digits.',
     'digits_between'       => 'Ang :attribute ay dapat nasa pagitan ng :min at :max digits.',
+    'dimensions'           => 'The :attribute has invalid image dimensions.',
     'distinct'             => 'Ang :larangan ng attribute ay may katulad na balyu.',
     'email'                => 'Ang :attribute ay dapat balidong email address.',
     'exists'               => 'Ang piniling :attribute ay imbalido.',
+    'file'                 => 'The :attribute must be a file.',
     'filled'               => 'Ang :larangan ng attribute ay kailangan.',
+    'gt'                   => [
+        'numeric' => 'The :attribute must be greater than :value.',
+        'file'    => 'The :attribute must be greater than :value kilobytes.',
+        'string'  => 'The :attribute must be greater than :value characters.',
+        'array'   => 'The :attribute must have more than :value items.',
+    ],
+    'gte'                  => [
+        'numeric' => 'The :attribute must be greater than or equal :value.',
+        'file'    => 'The :attribute must be greater than or equal :value kilobytes.',
+        'string'  => 'The :attribute must be greater than or equal :value characters.',
+        'array'   => 'The :attribute must have :value items or more.',
+    ],
     'image'                => 'Ang :attribute ay dapat isang imahe.',
     'in'                   => 'Ang piniling :attribute ay imbalido.',
     'in_array'             => 'Ang :larangan ng attribute ay wala sa :iba.',
@@ -46,6 +61,18 @@ return [
     'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
     'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
     'json'                 => 'Ang :attribute ay dapat isang balidong JSON string.',
+    'lt'                   => [
+        'numeric' => 'The :attribute must be less than :value.',
+        'file'    => 'The :attribute must be less than :value kilobytes.',
+        'string'  => 'The :attribute must be less than :value characters.',
+        'array'   => 'The :attribute must have less than :value items.',
+    ],
+    'lte'                  => [
+        'numeric' => 'The :attribute must be less than or equal :value.',
+        'file'    => 'The :attribute must be less than or equal :value kilobytes.',
+        'string'  => 'The :attribute must be less than or equal :value characters.',
+        'array'   => 'The :attribute must not have more than :value items.',
+    ],
     'max'                  => [
         'numeric' => 'Ang :attribute ay hindi maaaring higit sa  :max.',
         'file'    => 'Ang :attribute ay hindi maaaring higit sa  :max kilobytes.',
@@ -53,6 +80,7 @@ return [
         'array'   => 'Ang :attribute ay hindi maaaring higit sa :max items.',
     ],
     'mimes'                => 'Ang :attribute ay dapat file ng uri na: :values.',
+    'mimetypes'            => 'The :attribute must be a file of type: :values.',
     'min'                  => [
         'numeric' => 'Ang :attribute ay dapat di-kukulangin sa :min.',
         'file'    => 'Ang :attribute ay dapat di-kukulangin sa :min kilobytes.',
@@ -60,6 +88,7 @@ return [
         'array'   => 'Ang :attribute ay dapat di-kukulangin sa :min items.',
     ],
     'not_in'               => 'Ang piniling :attribute ay imbalido.',
+    'not_regex'            => 'The :attribute format is invalid.',
     'numeric'              => 'Ang :attribute ay dapat isang numero.',
     'present'              => 'Ang :larangan ng attribute ay dapat naroon.',
     'regex'                => 'Ang :format ng attribute ay imbalido.',
@@ -80,6 +109,7 @@ return [
     'string'               => 'Ang  :attribute ay dapat isang string.',
     'timezone'             => 'Ang :attribute ay dapat isang balidong sona.',
     'unique'               => 'Ang :attribute ay nakuha na.',
+    'uploaded'             => 'The :attribute failed to upload.',
     'url'                  => 'Ang :format ng attribute ay imbalido.',
 
     /*
@@ -118,5 +148,4 @@ return [
         'result_text_under_image' => 'Resultang teksto sa ilalim ng imahe',
         'short_text'              => 'Maikling teksto',
     ],
-
 ];

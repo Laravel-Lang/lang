@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Validation Language Lines
@@ -16,11 +15,13 @@ return [
     'accepted'             => ' :attribute қабылдануы керек.',
     'active_url'           => ' :attribute жарамды URL мекенжайы емес.',
     'after'                => ' :attribute мәні :date күнінен кейінгі күн болуы керек.',
+    'after_or_equal'       => 'The :attribute must be a date after or equal to :date.',
     'alpha'                => ' :attribute тек әріптерден тұруы керек.',
     'alpha_dash'           => ' :attribute тек әріптерден, сандардан және сызықшалардан тұруы керек.',
     'alpha_num'            => ' :attribute тек әріптерден және сандардан тұруы керек.',
     'array'                => ' :attribute жиым болуы керек.',
     'before'               => ' :attribute мәні :date күнінен кейінгі күн болуы керек.',
+    'before_or_equal'      => 'The :attribute must be a date before or equal to :date.',
     'between'              => [
         'numeric' => ' :attribute мәні :min және :max аралығында болуы керек.',
         'file'    => ' :attribute көлемі :min және :max килобайт аралығында болуы керек.',
@@ -34,10 +35,24 @@ return [
     'different'            => ' :attribute және :other әр түрлі болуы керек.',
     'digits'               => ' :attribute мәні :digits сан болуы керек.',
     'digits_between'       => ' :attribute мәні :min және :max аралығындағы сан болуы керек.',
+    'dimensions'           => 'The :attribute has invalid image dimensions.',
     'distinct'             => ' :attribute жолында қосарланған мән бар.',
     'email'                => ' :attribute жарамды электрондық пошта мекенжайы болуы керек.',
     'exists'               => ' таңдалған :attribute жарамсыз.',
+    'file'                 => 'The :attribute must be a file.',
     'filled'               => ' :attribute жолы толтырылуы керек.',
+    'gt'                   => [
+        'numeric' => 'The :attribute must be greater than :value.',
+        'file'    => 'The :attribute must be greater than :value kilobytes.',
+        'string'  => 'The :attribute must be greater than :value characters.',
+        'array'   => 'The :attribute must have more than :value items.',
+    ],
+    'gte'                  => [
+        'numeric' => 'The :attribute must be greater than or equal :value.',
+        'file'    => 'The :attribute must be greater than or equal :value kilobytes.',
+        'string'  => 'The :attribute must be greater than or equal :value characters.',
+        'array'   => 'The :attribute must have :value items or more.',
+    ],
     'image'                => ' :attribute кескін болуы керек.',
     'in'                   => ' таңдалған :attribute жарамсыз.',
     'in_array'             => ' :attribute жолы :other ішінде жоқ.',
@@ -46,6 +61,18 @@ return [
     'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
     'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
     'json'                 => ' :attribute жарамды JSON тармағы болуы керек.',
+    'lt'                   => [
+        'numeric' => 'The :attribute must be less than :value.',
+        'file'    => 'The :attribute must be less than :value kilobytes.',
+        'string'  => 'The :attribute must be less than :value characters.',
+        'array'   => 'The :attribute must have less than :value items.',
+    ],
+    'lte'                  => [
+        'numeric' => 'The :attribute must be less than or equal :value.',
+        'file'    => 'The :attribute must be less than or equal :value kilobytes.',
+        'string'  => 'The :attribute must be less than or equal :value characters.',
+        'array'   => 'The :attribute must not have more than :value items.',
+    ],
     'max'                  => [
         'numeric' => ' :attribute мәні :max мәнінен көп болмауы керек.',
         'file'    => ' :attribute мәні :max килобайттан көп болмауы керек.',
@@ -53,6 +80,7 @@ return [
         'array'   => ' :attribute жиымының құрамы :max элементтен аспауы керек.',
     ],
     'mimes'                => ' :attribute мынадай файл түрі болуы керек: :values.',
+    'mimetypes'            => 'The :attribute must be a file of type: :values.',
     'min'                  => [
         'numeric' => ' :attribute кемінде :min болуы керек.',
         'file'    => ' :attribute көлемі кемінде :min килобайт болуы керек.',
@@ -60,6 +88,7 @@ return [
         'array'   => ' :attribute кемінде :min элементтен тұруы керек.',
     ],
     'not_in'               => ' таңдалған :attribute жарамсыз.',
+    'not_regex'            => 'The :attribute format is invalid.',
     'numeric'              => ' :attribute сан болуы керек.',
     'present'              => ' :attribute болуы керек.',
     'regex'                => ' :attribute пішімі жарамсыз.',
@@ -80,6 +109,7 @@ return [
     'string'               => ' :attribute тармақ болуы керек.',
     'timezone'             => ' :attribute жарамды аймақ болуы керек.',
     'unique'               => ' :attribute бұрын алынған.',
+    'uploaded'             => 'The :attribute failed to upload.',
     'url'                  => ' :attribute пішімі жарамсыз.',
 
     /*
@@ -118,5 +148,4 @@ return [
         'result_text_under_image' => 'Кескін астындағы нәтиже мәтіні',
         'short_text'              => 'Қысқа мәтін',
     ],
-
 ];

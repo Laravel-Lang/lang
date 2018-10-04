@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Validation Language Lines
@@ -42,6 +41,18 @@ return [
     'exists'               => 'Қиммати интихобкардаи :attribute нодуруст мебошад.',
     'file'                 => 'Қиммати :attribute бояд файл бошад.',
     'filled'               => ':attribute бояд дорои қиммат бошад.',
+    'gt'                   => [
+        'numeric' => 'The :attribute must be greater than :value.',
+        'file'    => 'The :attribute must be greater than :value kilobytes.',
+        'string'  => 'The :attribute must be greater than :value characters.',
+        'array'   => 'The :attribute must have more than :value items.',
+    ],
+    'gte'                  => [
+        'numeric' => 'The :attribute must be greater than or equal :value.',
+        'file'    => 'The :attribute must be greater than or equal :value kilobytes.',
+        'string'  => 'The :attribute must be greater than or equal :value characters.',
+        'array'   => 'The :attribute must have :value items or more.',
+    ],
     'image'                => 'Қиммати :attribute бояд расм бошад.',
     'in'                   => 'Қиммати интихобкардаи :attribute нодуруст мебошад.',
     'in_array'             => 'Қиммати :attribute дар :other мавҷуд нест.',
@@ -50,6 +61,18 @@ return [
     'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
     'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
     'json'                 => 'Қиммати :attribute бояд сатри дурусти JSON бошад.',
+    'lt'                   => [
+        'numeric' => 'The :attribute must be less than :value.',
+        'file'    => 'The :attribute must be less than :value kilobytes.',
+        'string'  => 'The :attribute must be less than :value characters.',
+        'array'   => 'The :attribute must have less than :value items.',
+    ],
+    'lte'                  => [
+        'numeric' => 'The :attribute must be less than or equal :value.',
+        'file'    => 'The :attribute must be less than or equal :value kilobytes.',
+        'string'  => 'The :attribute must be less than or equal :value characters.',
+        'array'   => 'The :attribute must not have more than :value items.',
+    ],
     'max'                  => [
         'numeric' => 'Қиммати :attribute набояд аз :max зиёд бошад.',
         'file'    => 'Ҳаҷми файл дар :attribute набояд аз :max Килобайт зиёд бошад.',
@@ -65,6 +88,7 @@ return [
         'array'   => 'Миқдори элементҳо дар :attribute бояд на кам аз :min бошад.',
     ],
     'not_in'               => 'Қиммати интихобкардаи :attribute нодуруст мебошад.',
+    'not_regex'            => 'The :attribute format is invalid.',
     'numeric'              => 'Қиммати :attribute бояд адад бошад.',
     'present'              => 'Қиммати :attribute бояд мавҷуд бошад.',
     'regex'                => 'Формати :attribute нодуруст мебошад.',
@@ -99,7 +123,7 @@ return [
     |
     */
 
-    'custom'               => [
+    'custom' => [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
@@ -116,6 +140,5 @@ return [
     |
     */
 
-    'attributes'           => [],
-
+    'attributes' => [],
 ];

@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Patvirtinimo kalbos eilutės
@@ -42,14 +41,38 @@ return [
     'file'                 => 'The :attribute must be a file.',
     'filled'               => 'Laukas :attribute turi būti užpildytas.',
     'exists'               => 'Pasirinkta negaliojanti :attribute reikšmė.',
+    'gt'                   => [
+        'numeric' => 'The :attribute must be greater than :value.',
+        'file'    => 'The :attribute must be greater than :value kilobytes.',
+        'string'  => 'The :attribute must be greater than :value characters.',
+        'array'   => 'The :attribute must have more than :value items.',
+    ],
+    'gte'                  => [
+        'numeric' => 'The :attribute must be greater than or equal :value.',
+        'file'    => 'The :attribute must be greater than or equal :value kilobytes.',
+        'string'  => 'The :attribute must be greater than or equal :value characters.',
+        'array'   => 'The :attribute must have :value items or more.',
+    ],
     'image'                => 'Lauko :attribute reikšmė turi būti paveikslėlis.',
     'in'                   => 'Pasirinkta negaliojanti :attribute reikšmė.',
     'in_array'             => 'Laukas :attribute neegzistuoja :other lauke.',
-    'integer'              => 'Lauko :attribute reikšmė turi būti veikasis skaičius.',
+    'integer'              => 'Lauko :attribute reikšmė turi būti sveikasis skaičius.',
     'ip'                   => 'Lauko :attribute reikšmė turi būti galiojantis IP adresas.',
     'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
     'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
     'json'                 => 'Lauko :attribute reikšmė turi būti JSON tekstas.',
+    'lt'                   => [
+        'numeric' => 'The :attribute must be less than :value.',
+        'file'    => 'The :attribute must be less than :value kilobytes.',
+        'string'  => 'The :attribute must be less than :value characters.',
+        'array'   => 'The :attribute must have less than :value items.',
+    ],
+    'lte'                  => [
+        'numeric' => 'The :attribute must be less than or equal :value.',
+        'file'    => 'The :attribute must be less than or equal :value kilobytes.',
+        'string'  => 'The :attribute must be less than or equal :value characters.',
+        'array'   => 'The :attribute must not have more than :value items.',
+    ],
     'max'                  => [
         'numeric' => 'Lauko :attribute reikšmė negali būti didesnė nei :max.',
         'file'    => 'Failo dydis lauke :attribute reikšmė negali būti didesnė nei :max kilobaitų.',
@@ -65,6 +88,7 @@ return [
         'array'   => 'Elementų kiekis lauke :attribute turi būti ne mažiau nei :min.',
     ],
     'not_in'               => 'Pasirinkta negaliojanti reikšmė :attribute.',
+    'not_regex'            => 'The :attribute format is invalid.',
     'numeric'              => 'Lauko :attribute reikšmė turi būti skaičius.',
     'present'              => 'Laukas :attribute turi egzistuoti.',
     'regex'                => 'Negaliojantis lauko :attribute formatas.',
@@ -99,7 +123,7 @@ return [
     |
     */
 
-    'custom'               => [
+    'custom' => [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
@@ -116,8 +140,6 @@ return [
     |
     */
 
-    'attributes'           => [
-        //
+    'attributes' => [
     ],
-
 ];

@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Мовні ресурси перевірки введення
@@ -42,6 +41,18 @@ return [
     'file'                 => 'Поле :attribute має містити файл.',
     'filled'               => "Поле :attribute є обов'язковим для заповнення.",
     'exists'               => 'Вибране для :attribute значення не коректне.',
+    'gt'                   => [
+        'numeric' => 'The :attribute must be greater than :value.',
+        'file'    => 'The :attribute must be greater than :value kilobytes.',
+        'string'  => 'The :attribute must be greater than :value characters.',
+        'array'   => 'The :attribute must have more than :value items.',
+    ],
+    'gte'                  => [
+        'numeric' => 'The :attribute must be greater than or equal :value.',
+        'file'    => 'The :attribute must be greater than or equal :value kilobytes.',
+        'string'  => 'The :attribute must be greater than or equal :value characters.',
+        'array'   => 'The :attribute must have :value items or more.',
+    ],
     'image'                => 'Поле :attribute має містити зображення.',
     'in'                   => 'Вибране для :attribute значення не коректне.',
     'in_array'             => 'Значення поля :attribute не міститься в :other.',
@@ -50,6 +61,18 @@ return [
     'ipv4'                 => 'Поле :attribute має містити IPv4 адресу.',
     'ipv6'                 => 'Поле :attribute має містити IPv6 адресу.',
     'json'                 => 'Дані поля :attribute мають бути в форматі JSON.',
+    'lt'                   => [
+        'numeric' => 'The :attribute must be less than :value.',
+        'file'    => 'The :attribute must be less than :value kilobytes.',
+        'string'  => 'The :attribute must be less than :value characters.',
+        'array'   => 'The :attribute must have less than :value items.',
+    ],
+    'lte'                  => [
+        'numeric' => 'The :attribute must be less than or equal :value.',
+        'file'    => 'The :attribute must be less than or equal :value kilobytes.',
+        'string'  => 'The :attribute must be less than or equal :value characters.',
+        'array'   => 'The :attribute must not have more than :value items.',
+    ],
     'max'                  => [
         'numeric' => 'Поле :attribute має бути не більше :max.',
         'file'    => 'Файл в полі :attribute має бути не більше :max кілобайт.',
@@ -65,6 +88,7 @@ return [
         'array'   => 'Поле :attribute повинне містити не менше :min елементів.',
     ],
     'not_in'               => 'Вибране для :attribute значення не коректне.',
+    'not_regex'            => 'The :attribute format is invalid.',
     'numeric'              => 'Поле :attribute повинно містити число.',
     'present'              => 'Поле :attribute повинне бути присутнє.',
     'regex'                => 'Поле :attribute має хибний формат.',
@@ -99,7 +123,7 @@ return [
     |
     */
 
-    'custom'               => [
+    'custom' => [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
@@ -116,8 +140,6 @@ return [
     |
     */
 
-    'attributes'           => [
-        //
+    'attributes' => [
     ],
-
 ];

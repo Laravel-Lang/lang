@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Validation Language Lines
@@ -42,6 +41,18 @@ return [
     'exists'               => 'নির্বাচিত :attribute টি অবৈধ।',
     'file'                 => ':attribute একটি ফাইল হতে হবে।',
     'filled'               => ':attribute স্থানটি পূরণ করতে হবে।',
+    'gt'                   => [
+        'numeric' => 'The :attribute must be greater than :value.',
+        'file'    => 'The :attribute must be greater than :value kilobytes.',
+        'string'  => 'The :attribute must be greater than :value characters.',
+        'array'   => 'The :attribute must have more than :value items.',
+    ],
+    'gte'                  => [
+        'numeric' => 'The :attribute must be greater than or equal :value.',
+        'file'    => 'The :attribute must be greater than or equal :value kilobytes.',
+        'string'  => 'The :attribute must be greater than or equal :value characters.',
+        'array'   => 'The :attribute must have :value items or more.',
+    ],
     'image'                => ':attribute একটি ইমেজ হতে হবে।',
     'in'                   => 'নির্বাচিত :attribute টি অবৈধ।',
     'in_array'             => ':attribute উপাদানটি :other এ খুঁজে পাওয়া যায়নি।.',
@@ -50,6 +61,18 @@ return [
     'ipv4'                 => ':attribute টি একটি বৈধ IPv4 address হতে হবে।',
     'ipv6'                 => ':attribute টি একটি বৈধ IPv6 address হতে হবে।',
     'json'                 => ':attribute একটি বৈধ JSON স্ট্রিং হতে হবে।',
+    'lt'                   => [
+        'numeric' => 'The :attribute must be less than :value.',
+        'file'    => 'The :attribute must be less than :value kilobytes.',
+        'string'  => 'The :attribute must be less than :value characters.',
+        'array'   => 'The :attribute must have less than :value items.',
+    ],
+    'lte'                  => [
+        'numeric' => 'The :attribute must be less than or equal :value.',
+        'file'    => 'The :attribute must be less than or equal :value kilobytes.',
+        'string'  => 'The :attribute must be less than or equal :value characters.',
+        'array'   => 'The :attribute must not have more than :value items.',
+    ],
     'max'                  => [
         'numeric' => ' :attribute এর মান :max এর চেয়ে বড় হতে পারেনা।',
         'file'    => ':attribute এর মান :max কিলোবাইট এর চেয়ে বড় হতে পারেনা।',
@@ -65,6 +88,7 @@ return [
         'array'   => ':attribute অবশ্যই :min উপাদানের চেয়ে ছোট হতে হবে।',
     ],
     'not_in'               => 'নির্বাচিত :attribute অবৈধ।',
+    'not_regex'            => 'The :attribute format is invalid.',
     'numeric'              => ':attribute একটি সংখ্যা হতে হবে।',
     'present'              => ':attribute ক্ষেত্র উপস্থিত থাকা আবশ্যক।',
     'regex'                => ':attribute বিন্যাস অবৈধ।',
@@ -99,7 +123,7 @@ return [
     |
     */
 
-    'custom'               => [
+    'custom' => [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
@@ -116,6 +140,5 @@ return [
     |
     */
 
-    'attributes'           => [],
-
+    'attributes' => [],
 ];

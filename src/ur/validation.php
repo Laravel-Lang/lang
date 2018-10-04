@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Validation Language Lines
@@ -16,11 +15,13 @@ return [
     'accepted'             => ':attribute تسلیم کرنا لازمی ہے۔',
     'active_url'           => ':attribute قابلِ قبول یو آر ایل نہیں ہے۔',
     'after'                => ':attribute لازماً :date کے بعد کی کوئی تاریخ ہو۔',
+    'after_or_equal'       => 'The :attribute must be a date after or equal to :date.',
     'alpha'                => ':attribute صرف حروفِ تہجی پر مشتمل ہو سکتا ہے۔',
     'alpha_dash'           => ':attribute صرف حروفِ تہجی، اعداد، ڈیشِز پر مشتمل ہو سکتا ہے۔',
     'alpha_num'            => ':attribute میں صرف حروفِ تہجی و اعداد شامل ہو سکتے ہیں۔',
     'array'                => ':attribute لازماً کسی رینج پر مشتمل ہو۔',
     'before'               => ':attribute لازماً :date سے پہلے کی کوئی تاریخ ہو۔',
+    'before_or_equal'      => 'The :attribute must be a date before or equal to :date.',
     'between'              => [
         'numeric' => ':attribute لازماً :min اور :max کے درمیان ہو۔',
         'file'    => ':attribute لازماً :min اور :max کلو بائٹس کے درمیان ہو۔',
@@ -34,10 +35,24 @@ return [
     'different'            => ':attribute اور :other لازماً مختلف ہوں۔',
     'digits'               => ':attribute لازماً :digits اعداد ہوں۔',
     'digits_between'       => ':attribute لازماً :min اور :max اعداد کے درمیان ہو۔',
+    'dimensions'           => 'The :attribute has invalid image dimensions.',
     'distinct'             => ':attribute کی دہری ویلیو ہے۔',
     'email'                => ':attribute لازماً قابلِ قبول ای میل ہو۔',
     'exists'               => 'منتخب :attribute درست نہیں ہے۔',
+    'file'                 => 'The :attribute must be a file.',
     'filled'               => ':attribute کو بھرنا ضروری ہے۔',
+    'gt'                   => [
+        'numeric' => 'The :attribute must be greater than :value.',
+        'file'    => 'The :attribute must be greater than :value kilobytes.',
+        'string'  => 'The :attribute must be greater than :value characters.',
+        'array'   => 'The :attribute must have more than :value items.',
+    ],
+    'gte'                  => [
+        'numeric' => 'The :attribute must be greater than or equal :value.',
+        'file'    => 'The :attribute must be greater than or equal :value kilobytes.',
+        'string'  => 'The :attribute must be greater than or equal :value characters.',
+        'array'   => 'The :attribute must have :value items or more.',
+    ],
     'image'                => ':attribute لازماً کوئی تصویر ہو۔',
     'in'                   => 'منتخب :attribute قابلِ قبول نہیں ہے۔',
     'in_array'             => ':attribute فیلڈ :other میں موجود نہیں ہے۔',
@@ -46,6 +61,18 @@ return [
     'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
     'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
     'json'                 => ':attribute لازماً قابلِ قبول JSON سٹرِنگ ہو۔',
+    'lt'                   => [
+        'numeric' => 'The :attribute must be less than :value.',
+        'file'    => 'The :attribute must be less than :value kilobytes.',
+        'string'  => 'The :attribute must be less than :value characters.',
+        'array'   => 'The :attribute must have less than :value items.',
+    ],
+    'lte'                  => [
+        'numeric' => 'The :attribute must be less than or equal :value.',
+        'file'    => 'The :attribute must be less than or equal :value kilobytes.',
+        'string'  => 'The :attribute must be less than or equal :value characters.',
+        'array'   => 'The :attribute must not have more than :value items.',
+    ],
     'max'                  => [
         'numeric' => ':attribute کو :max سے بڑا نہیں ہونا چاہیے۔',
         'file'    => ':attribute کو :max کلو بائٹس سے زیادہ نہیں ہونا چاہیے۔',
@@ -53,6 +80,7 @@ return [
         'array'   => ':attribute میں :max سے زیادہ آئٹمز نہیں ہو سکتیں۔',
     ],
     'mimes'                => ':attribute لازماً :type :values قسم کی فائل ہو۔',
+    'mimetypes'            => 'The :attribute must be a file of type: :values.',
     'min'                  => [
         'numeric' => ':attribute لازماً کم از کم :min ہو۔',
         'file'    => ':attribute لازماً کم از کم :min کلو بائٹس کی ہو۔',
@@ -60,6 +88,7 @@ return [
         'array'   => ':attribute میں لازماً کم از کم :min آئٹمز ہوں۔',
     ],
     'not_in'               => 'منتخب :attribute قابلِ قبول نہیں ہے۔',
+    'not_regex'            => 'The :attribute format is invalid.',
     'numeric'              => ':attribute لازماً کوئی عدد ہو۔',
     'present'              => ':attribute فیلڈ موجود ہونا ضروری ہے۔',
     'regex'                => ':attribute قابلِ قبول فارمیٹ میں نہیں ہے۔',
@@ -80,6 +109,7 @@ return [
     'string'               => ':attribute لازماً کوئی سٹرنگ ہو۔',
     'timezone'             => ':attribute لازماً کوئی قابلِ قبول خطۂِ وقت ہو۔',
     'unique'               => ':attribute کو پہلے ہی کسی نے حاصل کر لیا ہے۔',
+    'uploaded'             => 'The :attribute failed to upload.',
     'url'                  => ':attribute فارمیٹ قابلِ قبول نہیں ہے۔',
 
     /*
@@ -118,5 +148,4 @@ return [
         'result_text_under_image' => 'تصویر کے تحت نتیجے کا متن',
         'short_text'              => 'مختصر متن',
     ],
-
 ];

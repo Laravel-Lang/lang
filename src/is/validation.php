@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Validation Language Lines
@@ -42,6 +41,18 @@ return [
     'file'                 => 'The :attribute must be a file.',
     'filled'               => 'Reiturinn :attribute verður að innihalda eitthvað.',
     'exists'               => 'Reiturinn :attribute er nú þegar til.',
+    'gt'                   => [
+        'numeric' => 'The :attribute must be greater than :value.',
+        'file'    => 'The :attribute must be greater than :value kilobytes.',
+        'string'  => 'The :attribute must be greater than :value characters.',
+        'array'   => 'The :attribute must have more than :value items.',
+    ],
+    'gte'                  => [
+        'numeric' => 'The :attribute must be greater than or equal :value.',
+        'file'    => 'The :attribute must be greater than or equal :value kilobytes.',
+        'string'  => 'The :attribute must be greater than or equal :value characters.',
+        'array'   => 'The :attribute must have :value items or more.',
+    ],
     'image'                => 'Reiturinn :attribute verður að vera mynd.',
     'in'                   => 'Reiturinn :attribute er ekki réttur.',
     'in_array'             => 'The :attribute field does not exist in :other.',
@@ -50,6 +61,18 @@ return [
     'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
     'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
     'json'                 => 'The :attribute must be a valid JSON string.',
+    'lt'                   => [
+        'numeric' => 'The :attribute must be less than :value.',
+        'file'    => 'The :attribute must be less than :value kilobytes.',
+        'string'  => 'The :attribute must be less than :value characters.',
+        'array'   => 'The :attribute must have less than :value items.',
+    ],
+    'lte'                  => [
+        'numeric' => 'The :attribute must be less than or equal :value.',
+        'file'    => 'The :attribute must be less than or equal :value kilobytes.',
+        'string'  => 'The :attribute must be less than or equal :value characters.',
+        'array'   => 'The :attribute must not have more than :value items.',
+    ],
     'max'                  => [
         'numeric' => 'Reiturinn :attribute verður að innihalda færri stafi en :max.',
         'file'    => 'Reiturinn :attribute verður að vera minni en :max kílóbæt.',
@@ -65,6 +88,7 @@ return [
         'array'   => 'Reiturinn :attribute verður að vera að lágmarki :min stök.',
     ],
     'not_in'               => 'Reiturinn :attribute er ógildur.',
+    'not_regex'            => 'The :attribute format is invalid.',
     'numeric'              => 'Reiturinn :attribute verður að vera tala.',
     'present'              => 'The :attribute field must be present.',
     'regex'                => 'Reiturinn :attribute er ekki á réttu formi.',
@@ -99,7 +123,7 @@ return [
     |
     */
 
-    'custom'               => [
+    'custom' => [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
@@ -116,7 +140,7 @@ return [
     |
     */
 
-    'attributes'           => [
+    'attributes' => [
         'name'                  => 'Nafn',
         'username'              => 'Notendanafn',
         'email'                 => 'Netfang',
@@ -147,5 +171,4 @@ return [
         'available'             => 'Í boði',
         'size'                  => 'Stærð',
     ],
-
 ];

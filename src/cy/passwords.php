@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Password Reminder Language Lines
@@ -18,5 +17,4 @@ return [
     'sent'     => "Rydym wedi e-bostio'r ddolen i ail-osod y cyfrinair!",
     'token'    => "Nid yw'r tocyn ail-osod cyfrinair yn ddilys.",
     'user'     => "Ni oes gennym ddefnyddiwr gyda'r cyfeiriad e-bost yna.",
-
 ];

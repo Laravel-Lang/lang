@@ -1,6 +1,6 @@
 # Laravel-lang
 
-[![Stories in Ready](https://badge.waffle.io/caouecs/Laravel-lang.svg?label=ready&title=Ready)](http://waffle.io/caouecs/Laravel-lang)
+[![Stories in Ready](https://badge.waffle.io/caouecs/Laravel-lang.svg)](http://waffle.io/caouecs/Laravel-lang)
 
 In this repository, you can find the lang files for the framework PHP, [Laravel 4&5](http://www.laravel.com).
 
@@ -60,9 +60,10 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Projects based on this package
 
-* [LaravelLang by ARCANEDEV](https://github.com/ARCANEDEV/LaravelLang)
-* [Laravel-lang by overtrue](https://github.com/overtrue/laravel-lang)
-* [laravel-lang-installer by ablunier](https://github.com/ablunier/laravel-lang-installer)
+* [LaravelLang by ARCANEDEV](https://github.com/ARCANEDEV/LaravelLang) - Translations manager and checker for Laravel 5.
+* [Laravel-lang by overtrue](https://github.com/overtrue/laravel-lang) - Command to add languages in your project.
+* [laravel-lang-installer by ablunier](https://github.com/ablunier/laravel-lang-installer) - Command for easily add languages to a Laravel project.
+* [laravel-lang-publisher by Andrey Helldar](https://github.com/andrey-helldar/laravel-lang-publisher) - Easy installation and update of translation files for your project.
 
 ## Credits
 

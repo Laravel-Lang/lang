@@ -12,6 +12,6 @@ return [
     |
     */
 
-    'previous' => '&laquo; předchozí',
-    'next'     => 'další &raquo;',
+    'previous' => '« předchozí',
+    'next'     => 'další »',
 ];

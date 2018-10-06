@@ -150,7 +150,7 @@ return [
         'date'                  => '日期',
         'day'                   => '天',
         'description'           => '描述',
-        'email'                 => '電子郵件',
+        'email'                 => 'E-mail',
         'excerpt'               => '摘要',
         'first_name'            => '名',
         'gender'                => '性別',

@@ -2272,22 +2272,6 @@
     * validation : not_regex
 
  * vi:
-    * json : A fresh verification link has been sent to your email address. : not present
-    * json : Error : not present
-    * json : Go Home : not present
-    * json : hi : not present
-    * json : Oh no : not present
-    * json : Page Expired : not present
-    * json : Page Not Found : not present
-    * json : Service Unavailable : not present
-    * json : Sorry, the page you are looking for could not be found. : not present
-    * json : Sorry, you are making too many requests to our servers. : not present
-    * json : Sorry, you are not authorized to access this page. : not present
-    * json : Sorry, your session has expired. Please refresh and try again. : not present
-    * json : Sorry, we are doing some maintenance. Please check back soon. : not present
-    * json : Too Many Requests : not present
-    * json : Unauthorized : not present
-    * json : Verify Your Email Address : not present
 
  * zh-CN:
 

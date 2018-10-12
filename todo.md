@@ -1,9 +1,78 @@
 # Todo list
 
+* [ar](#ar)
+* [az](#az)
+* [be](#be)
+* [bg](#bg)
+* [bn](#bn)
+* [bs](#bs)
+* [ca](#ca)
+* [cs](#cs)
+* [cy](#cy)
+* [da](#da)
+* [de](#de)
+* [de-CH](#de-CH)
+* [el](#el)
+* [es](#es)
+* [et](#et)
+* [eu](#eu)
+* [fa](#fa)
+* [fi](#fi)
+* [fr](#fr)
+* [gl](#gl)
+* [he](#he)
+* [hi](#hi)
+* [hr](#hr)
+* [hu](#hu)
+* [id](#id)
+* [is](#is)
+* [it](#it)
+* [ja](#ja)
+* [ka](#ka)
+* [kk](#kk)
+* [km](#km)
+* [ko](#ko)
+* [lt](#lt)
+* [lv](#lv)
+* [me](#me)
+* [mk](#mk)
+* [mn](#mn)
+* [ms](#ms)
+* [nb](#nb)
+* [ne](#ne)
+* [nl](#nl)
+* [nn](#nn)
+* [pl](#pl)
+* [pt](#pt)
+* [pt-BR](#pt-BR)
+* [ro](#ro)
+* [ru](#ru)
+* [sc](#sc)
+* [sk](#sk)
+* [sl](#sl)
+* [sq](#sq)
+* [sr](#sr)
+* [sv](#sv)
+* [sw](#sw)
+* [tg](#tg)
+* [th](#th)
+* [tk](#tk)
+* [tl](#tl)
+* [tr](#tr)
+* [ug](#ug)
+* [uk](#uk)
+* [ur](#ur)
+* [uz-cyrillic](#uz-cyrillic)
+* [uz-latin](#uz-latin)
+* [vi](#vi)
+* [zh-CN](#zh-CN)
+* [zh-HK](#zh-HK)
+* [zh-TW](#zh-TW)
 
- * ar:
 
- * az:
+ * ##### ar:
+
+ * ##### az:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
@@ -40,7 +109,7 @@
     * validation : lte
     * validation : not_regex : not present
 
- * be:
+ * ##### be:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
@@ -87,7 +156,7 @@
     * validation : present
     * validation : uploaded
 
- * bg:
+ * ##### bg:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
@@ -124,7 +193,7 @@
     * validation : lte
     * validation : not_regex
 
- * bn:
+ * ##### bn:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
@@ -161,7 +230,7 @@
     * validation : lte
     * validation : not_regex
 
- * bs:
+ * ##### bs:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
@@ -212,7 +281,7 @@
     * validation : required_unless
     * validation : uploaded
 
- * ca:
+ * ##### ca:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
@@ -249,7 +318,7 @@
     * validation : lte
     * validation : not_regex
 
- * cs:
+ * ##### cs:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
@@ -290,7 +359,7 @@
     * validation : lte
     * validation : not_regex
 
- * cy:
+ * ##### cy:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
@@ -342,7 +411,7 @@
     * validation : string
     * validation : uploaded
 
- * da:
+ * ##### da:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
@@ -375,7 +444,7 @@
     * json : You are receiving this email because we received a password reset request for your account. : not present
     * validation : not_regex
 
- * de:
+ * ##### de:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Error : not present
     * json : Go Home : not present
@@ -390,7 +459,7 @@
     * json : Unauthorized : not present
     * json : Verify Your Email Address : not present
 
- * de-CH:
+ * ##### de-CH:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
@@ -422,46 +491,7 @@
     * json : Verify Your Email Address : not present
     * json : You are receiving this email because we received a password reset request for your account. : not present
 
- * el:
-    * json : A fresh verification link has been sent to your email address. : not present
-    * json : Confirm Password : not present
-    * json : E-Mail Address : not present
-    * json : Error : not present
-    * json : Forgot Your Password? : not present
-    * json : Go Home : not present
-    * json : hi : not present
-    * json : If you did not request a password reset, no further action is required. : not present
-    * json : Login : not present
-    * json : Logout : not present
-    * json : Name : not present
-    * json : Oh no : not present
-    * json : Page Expired : not present
-    * json : Page Not Found : not present
-    * json : Password : not present
-    * json : Register : not present
-    * json : Remember Me : not present
-    * json : Reset Password : not present
-    * json : Reset Password Notification : not present
-    * json : Send Password Reset Link : not present
-    * json : Service Unavailable : not present
-    * json : Sorry, the page you are looking for could not be found. : not present
-    * json : Sorry, you are making too many requests to our servers. : not present
-    * json : Sorry, you are not authorized to access this page. : not present
-    * json : Sorry, your session has expired. Please refresh and try again. : not present
-    * json : Sorry, we are doing some maintenance. Please check back soon. : not present
-    * json : Too Many Requests : not present
-    * json : Unauthorized : not present
-    * json : Verify Your Email Address : not present
-    * json : You are receiving this email because we received a password reset request for your account. : not present
-    * validation : gt
-    * validation : gte
-    * validation : lt
-    * validation : lte
-    * validation : not_regex
-
- * es:
-
- * et:
+ * ##### el:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
@@ -498,7 +528,9 @@
     * validation : lte
     * validation : not_regex
 
- * eu:
+ * ##### es:
+
+ * ##### et:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
@@ -535,7 +567,44 @@
     * validation : lte
     * validation : not_regex
 
- * fa:
+ * ##### eu:
+    * json : A fresh verification link has been sent to your email address. : not present
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Error : not present
+    * json : Forgot Your Password? : not present
+    * json : Go Home : not present
+    * json : hi : not present
+    * json : If you did not request a password reset, no further action is required. : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Oh no : not present
+    * json : Page Expired : not present
+    * json : Page Not Found : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Reset Password Notification : not present
+    * json : Send Password Reset Link : not present
+    * json : Service Unavailable : not present
+    * json : Sorry, the page you are looking for could not be found. : not present
+    * json : Sorry, you are making too many requests to our servers. : not present
+    * json : Sorry, you are not authorized to access this page. : not present
+    * json : Sorry, your session has expired. Please refresh and try again. : not present
+    * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+    * json : Too Many Requests : not present
+    * json : Unauthorized : not present
+    * json : Verify Your Email Address : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
+    * validation : gt
+    * validation : gte
+    * validation : lt
+    * validation : lte
+    * validation : not_regex
+
+ * ##### fa:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
@@ -567,7 +636,7 @@
     * json : Verify Your Email Address : not present
     * json : You are receiving this email because we received a password reset request for your account. : not present
 
- * fi:
+ * ##### fi:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
@@ -607,7 +676,7 @@
     * validation : lte
     * validation : not_regex
 
- * fr:
+ * ##### fr:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Error : not present
     * json : Go Home : not present
@@ -625,7 +694,7 @@
     * json : Unauthorized : not present
     * json : Verify Your Email Address : not present
 
- * gl:
+ * ##### gl:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
@@ -662,7 +731,7 @@
     * validation : in_array
     * validation : present
 
- * he:
+ * ##### he:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
@@ -699,7 +768,7 @@
     * validation : lte
     * validation : not_regex
 
- * hi:
+ * ##### hi:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
@@ -744,7 +813,7 @@
     * validation : not_regex
     * validation : uploaded
 
- * hr:
+ * ##### hr:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Error : not present
     * json : Go Home : not present
@@ -762,7 +831,7 @@
     * json : Unauthorized : not present
     * json : Verify Your Email Address : not present
 
- * hu:
+ * ##### hu:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
@@ -794,7 +863,7 @@
     * json : Verify Your Email Address : not present
     * json : You are receiving this email because we received a password reset request for your account. : not present
 
- * id:
+ * ##### id:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Error : not present
     * json : Go Home : not present
@@ -812,7 +881,7 @@
     * json : Unauthorized : not present
     * json : Verify Your Email Address : not present
 
- * is:
+ * ##### is:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
@@ -868,7 +937,7 @@
     * validation : string
     * validation : uploaded
 
- * it:
+ * ##### it:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
@@ -900,7 +969,7 @@
     * json : Verify Your Email Address : not present
     * json : You are receiving this email because we received a password reset request for your account. : not present
 
- * ja:
+ * ##### ja:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
@@ -937,7 +1006,7 @@
     * validation : lte
     * validation : not_regex
 
- * ka:
+ * ##### ka:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Error : not present
     * json : Go Home : not present
@@ -955,7 +1024,7 @@
     * json : Unauthorized : not present
     * json : Verify Your Email Address : not present
 
- * kk:
+ * ##### kk:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
@@ -1000,7 +1069,7 @@
     * validation : not_regex
     * validation : uploaded
 
- * km:
+ * ##### km:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
@@ -1054,7 +1123,7 @@
     * validation : timezone
     * validation : uploaded
 
- * ko:
+ * ##### ko:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Error : not present
     * json : Go Home : not present
@@ -1072,7 +1141,7 @@
     * json : Unauthorized : not present
     * json : Verify Your Email Address : not present
 
- * lt:
+ * ##### lt:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
@@ -1115,7 +1184,7 @@
     * validation : not_regex
     * validation : uploaded
 
- * lv:
+ * ##### lv:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
@@ -1154,7 +1223,7 @@
     * validation : lte
     * validation : not_regex
 
- * me:
+ * ##### me:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
@@ -1199,7 +1268,7 @@
     * validation : timezone
     * validation : uploaded
 
- * mk:
+ * ##### mk:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
@@ -1254,7 +1323,7 @@
     * validation : timezone
     * validation : uploaded
 
- * mn:
+ * ##### mn:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
@@ -1296,7 +1365,7 @@
     * validation : required_without_all
     * validation : same
 
- * ms:
+ * ##### ms:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
@@ -1328,7 +1397,7 @@
     * json : Verify Your Email Address : not present
     * json : You are receiving this email because we received a password reset request for your account. : not present
 
- * nb:
+ * ##### nb:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
@@ -1360,7 +1429,7 @@
     * json : Verify Your Email Address : not present
     * json : You are receiving this email because we received a password reset request for your account. : not present
 
- * ne:
+ * ##### ne:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
@@ -1407,10 +1476,10 @@
     * validation : present
     * validation : uploaded
 
- * nl:
+ * ##### nl:
     * json : Error
 
- * nn:
+ * ##### nn:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
@@ -1454,7 +1523,7 @@
     * validation : not_regex
     * validation : uploaded
 
- * pl:
+ * ##### pl:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Error : not present
     * json : Go Home : not present
@@ -1472,7 +1541,7 @@
     * json : Unauthorized : not present
     * json : Verify Your Email Address : not present
 
- * pt:
+ * ##### pt:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
@@ -1509,7 +1578,7 @@
     * validation : lte
     * validation : not_regex
 
- * pt-BR:
+ * ##### pt-BR:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Error : not present
     * json : Go Home : not present
@@ -1528,7 +1597,7 @@
     * json : Verify Your Email Address : not present
     * validation : not_regex
 
- * ro:
+ * ##### ro:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
@@ -1560,7 +1629,7 @@
     * json : Verify Your Email Address : not present
     * json : You are receiving this email because we received a password reset request for your account. : not present
 
- * ru:
+ * ##### ru:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Error : not present
     * json : Go Home : not present
@@ -1578,7 +1647,7 @@
     * json : Unauthorized : not present
     * json : Verify Your Email Address : not present
 
- * sc:
+ * ##### sc:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
@@ -1630,7 +1699,7 @@
     * validation : string
     * validation : uploaded
 
- * sk:
+ * ##### sk:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
@@ -1662,7 +1731,7 @@
     * json : Verify Your Email Address : not present
     * json : You are receiving this email because we received a password reset request for your account. : not present
 
- * sl:
+ * ##### sl:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
@@ -1699,7 +1768,7 @@
     * validation : lte
     * validation : not_regex
 
- * sq:
+ * ##### sq:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
@@ -1750,7 +1819,7 @@
     * validation : required_unless
     * validation : uploaded
 
- * sr:
+ * ##### sr:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Error : not present
     * json : Go Home : not present
@@ -1785,7 +1854,7 @@
     * validation : required_unless
     * validation : uploaded
 
- * sv:
+ * ##### sv:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
@@ -1817,7 +1886,7 @@
     * json : Verify Your Email Address : not present
     * json : You are receiving this email because we received a password reset request for your account. : not present
 
- * sw:
+ * ##### sw:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
@@ -1862,7 +1931,7 @@
     * validation : not_regex
     * validation : uploaded
 
- * tg:
+ * ##### tg:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
@@ -1901,7 +1970,7 @@
     * validation : lte
     * validation : not_regex
 
- * th:
+ * ##### th:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
@@ -1945,7 +2014,7 @@
     * validation : not_regex
     * validation : uploaded
 
- * tk:
+ * ##### tk:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
@@ -1997,7 +2066,7 @@
     * validation : string
     * validation : uploaded
 
- * tl:
+ * ##### tl:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
@@ -2042,7 +2111,7 @@
     * validation : not_regex
     * validation : uploaded
 
- * tr:
+ * ##### tr:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
@@ -2078,44 +2147,7 @@
     * validation : lt
     * validation : lte
 
- * ug:
-    * json : A fresh verification link has been sent to your email address. : not present
-    * json : Confirm Password : not present
-    * json : E-Mail Address : not present
-    * json : Error : not present
-    * json : Forgot Your Password? : not present
-    * json : Go Home : not present
-    * json : hi : not present
-    * json : If you did not request a password reset, no further action is required. : not present
-    * json : Login : not present
-    * json : Logout : not present
-    * json : Name : not present
-    * json : Oh no : not present
-    * json : Page Expired : not present
-    * json : Page Not Found : not present
-    * json : Password : not present
-    * json : Register : not present
-    * json : Remember Me : not present
-    * json : Reset Password : not present
-    * json : Reset Password Notification : not present
-    * json : Send Password Reset Link : not present
-    * json : Service Unavailable : not present
-    * json : Sorry, the page you are looking for could not be found. : not present
-    * json : Sorry, you are making too many requests to our servers. : not present
-    * json : Sorry, you are not authorized to access this page. : not present
-    * json : Sorry, your session has expired. Please refresh and try again. : not present
-    * json : Sorry, we are doing some maintenance. Please check back soon. : not present
-    * json : Too Many Requests : not present
-    * json : Unauthorized : not present
-    * json : Verify Your Email Address : not present
-    * json : You are receiving this email because we received a password reset request for your account. : not present
-    * validation : gt
-    * validation : gte
-    * validation : lt
-    * validation : lte
-    * validation : not_regex
-
- * uk:
+ * ##### ug:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
@@ -2152,7 +2184,44 @@
     * validation : lte
     * validation : not_regex
 
- * ur:
+ * ##### uk:
+    * json : A fresh verification link has been sent to your email address. : not present
+    * json : Confirm Password : not present
+    * json : E-Mail Address : not present
+    * json : Error : not present
+    * json : Forgot Your Password? : not present
+    * json : Go Home : not present
+    * json : hi : not present
+    * json : If you did not request a password reset, no further action is required. : not present
+    * json : Login : not present
+    * json : Logout : not present
+    * json : Name : not present
+    * json : Oh no : not present
+    * json : Page Expired : not present
+    * json : Page Not Found : not present
+    * json : Password : not present
+    * json : Register : not present
+    * json : Remember Me : not present
+    * json : Reset Password : not present
+    * json : Reset Password Notification : not present
+    * json : Send Password Reset Link : not present
+    * json : Service Unavailable : not present
+    * json : Sorry, the page you are looking for could not be found. : not present
+    * json : Sorry, you are making too many requests to our servers. : not present
+    * json : Sorry, you are not authorized to access this page. : not present
+    * json : Sorry, your session has expired. Please refresh and try again. : not present
+    * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+    * json : Too Many Requests : not present
+    * json : Unauthorized : not present
+    * json : Verify Your Email Address : not present
+    * json : You are receiving this email because we received a password reset request for your account. : not present
+    * validation : gt
+    * validation : gte
+    * validation : lt
+    * validation : lte
+    * validation : not_regex
+
+ * ##### ur:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
@@ -2197,7 +2266,7 @@
     * validation : not_regex
     * validation : uploaded
 
- * uz-cyrillic:
+ * ##### uz-cyrillic:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
@@ -2234,7 +2303,7 @@
     * validation : lte
     * validation : not_regex
 
- * uz-latin:
+ * ##### uz-latin:
     * json : A fresh verification link has been sent to your email address. : not present
     * json : Confirm Password : not present
     * json : E-Mail Address : not present
@@ -2271,10 +2340,10 @@
     * validation : lte
     * validation : not_regex
 
- * vi:
+ * ##### vi:
 
- * zh-CN:
+ * ##### zh-CN:
 
- * zh-HK:
+ * ##### zh-HK:
 
- * zh-TW:
+ * ##### zh-TW:

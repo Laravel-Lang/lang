@@ -15,7 +15,6 @@
   "Reset Password": "Passwort zurücksetzen",
   "Send Password Reset Link": "Link zum Zurücksetzen des Passworts senden",
   "If you did not request a password reset, no further action is required.": "Falls sie den Link zum Zurücksetzen des Passworts nicht angefordert haben, können sie diese E-Mail ignorieren.",
-  "Name": "Name",
   "Reset Password Notification": "Passwort zurücksetzen",
   "You are receiving this email because we received a password reset request for your account.": "Sie erhalten diese Nachricht, weil für ihren Account beantragt wurde das Passwort zurückzusetzen."
 }

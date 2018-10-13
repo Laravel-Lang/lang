@@ -156,7 +156,7 @@ class TodoGenerator
     /**
      * Adding elements to the resulting array.
      *
-     * @param string $key
+     * @param string      $key
      * @param string|null $value
      */
     private function addOutput(string $key, string $value = null)
@@ -188,7 +188,7 @@ class TodoGenerator
         foreach ($this->output as $language => $values) {
             $output .= "#### {$language}:\n";
             $output .= implode(PHP_EOL, $values);
-            $output .= PHP_EOL . PHP_EOL;
+            $output .= PHP_EOL.PHP_EOL;
         }
 
         return $output;

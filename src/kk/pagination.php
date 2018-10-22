@@ -12,6 +12,6 @@ return [
     |
     */
 
-    'previous' => '« Алдыңғы',
-    'next'     => 'Келесі »',
+    'previous' => '&laquo; Алдыңғы',
+    'next'     => 'Келесі &raquo;',
 ];

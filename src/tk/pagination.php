@@ -13,5 +13,5 @@ return [
     */
 
     'previous' => '« Öňki',
-    'next'     => 'Indiki »',
+    'next' => 'Indiki »',
 ];

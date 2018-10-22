@@ -13,5 +13,5 @@ return [
     */
 
     'previous' => '« Prapa',
-    'next'     => 'Para »',
+    'next' => 'Para »',
 ];

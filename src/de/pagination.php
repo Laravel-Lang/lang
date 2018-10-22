@@ -13,5 +13,5 @@ return [
     */
 
     'previous' => '« Zurück',
-    'next'     => 'Weiter »',
+    'next' => 'Weiter »',
 ];

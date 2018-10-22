@@ -13,5 +13,5 @@ return [
     */
 
     'previous' => '« A in antis',
-    'next'     => 'A pustis »',
+    'next' => 'A pustis »',
 ];

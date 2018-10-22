@@ -13,5 +13,5 @@ return [
     */
 
     'previous' => '« Førre',
-    'next'     => 'Neste »',
+    'next' => 'Neste »',
 ];

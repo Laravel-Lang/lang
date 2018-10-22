@@ -13,5 +13,5 @@ return [
     */
 
     'previous' => '« Eelmine',
-    'next'     => 'Järgmine »',
+    'next' => 'Järgmine »',
 ];

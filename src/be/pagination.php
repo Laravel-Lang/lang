@@ -12,6 +12,6 @@ return [
     |
     */
 
-    'previous' => '« Назад',
-    'next'     => 'Наперад »',
+    'previous' => '&laquo; Назад',
+    'next'     => 'Наперад &raquo;',
 ];

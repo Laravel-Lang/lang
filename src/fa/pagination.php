@@ -12,6 +12,6 @@ return [
     |
     */
 
-    'previous' => '« قبلی',
-    'next'     => 'بعدی »',
+    'previous' => '&laquo; قبلی',
+    'next'     => 'بعدی &raquo;',
 ];

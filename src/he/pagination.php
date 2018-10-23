@@ -12,6 +12,6 @@ return [
     |
     */
 
-    'previous' => '« הקודם',
-    'next'     => 'הבא »',
+    'previous' => '&laquo; הקודם',
+    'next'     => 'הבא &raquo;',
 ];

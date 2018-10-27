@@ -87,6 +87,7 @@ return [
         'string' => 'Le texte :attribute doit contenir au moins :min caractères.',
         'array' => 'Le tableau :attribute doit contenir au moins :min éléments.',
     ],
+<<<<<<< HEAD
     'not_in' => "Le champ :attribute sélectionné n'est pas valide.",
     'not_regex' => "Le format du champ :attribute n'est pas valide.",
     'numeric' => 'Le champ :attribute doit contenir un nombre.',
@@ -98,6 +99,19 @@ return [
     'required_with' => 'Le champ :attribute est obligatoire quand :values est présent.',
     'required_with_all' => 'Le champ :attribute est obligatoire quand :values est présent.',
     'required_without' => "Le champ :attribute est obligatoire quand :values n'est pas présent.",
+=======
+    'not_in'               => "Le champ :attribute sélectionné n'est pas valide.",
+    'not_regex'            => "Le format du champ :attribute n'est pas valide.",
+    'numeric'              => 'Le champ :attribute doit contenir un nombre.',
+    'present'              => 'Le champ :attribute doit être présent.',
+    'regex'                => 'Le format du champ :attribute est invalide.',
+    'required'             => 'Le champ :attribute est obligatoire.',
+    'required_if'          => 'Le champ :attribute est obligatoire quand la valeur de :other est :value.',
+    'required_unless'      => 'Le champ :attribute est obligatoire sauf si :other est :values.',
+    'required_with'        => 'Le champ :attribute est obligatoire quand :values est présent.',
+    'required_with_all'    => 'Le champ :attribute est obligatoire quand :values sont présents.',
+    'required_without'     => "Le champ :attribute est obligatoire quand :values n'est pas présent.",
+>>>>>>> a81fae06722affcec435fa7f65655838f256548b
     'required_without_all' => "Le champ :attribute est requis quand aucun de :values n'est présent.",
     'same' => 'Les champs :attribute et :other doivent être identiques.',
     'size' => [

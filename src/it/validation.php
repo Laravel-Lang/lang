@@ -87,6 +87,7 @@ return [
         'string' => ':attribute deve contenere almeno :min caratteri.',
         'array' => ':attribute deve avere almeno :min elementi.',
     ],
+<<<<<<< HEAD
     'not_in' => 'Il valore selezionato per :attribute non è valido.',
     'not_regex' => 'Il formato di :attribute non è valido.',
     'numeric' => ':attribute deve essere un numero.',
@@ -98,6 +99,19 @@ return [
     'required_with' => 'Il campo :attribute è richiesto quando :values è presente.',
     'required_with_all' => 'Il campo :attribute è richiesto quando :values è presente.',
     'required_without' => 'Il campo :attribute è richiesto quando :values non è presente.',
+=======
+    'not_in'               => 'Il valore selezionato per :attribute non è valido.',
+    'not_regex'            => 'Il formato di :attribute non è valido.',
+    'numeric'              => ':attribute deve essere un numero.',
+    'present'              => 'Il campo :attribute deve essere presente.',
+    'regex'                => 'Il formato del campo :attribute non è valido.',
+    'required'             => 'Il campo :attribute è richiesto.',
+    'required_if'          => 'Il campo :attribute è richiesto quando :other è :value.',
+    'required_unless'      => 'Il campo :attribute è richiesto a meno che :other sia in :values.',
+    'required_with'        => 'Il campo :attribute è richiesto quando :values è presente.',
+    'required_with_all'    => 'Il campo :attribute è richiesto quando :values sono presenti.',
+    'required_without'     => 'Il campo :attribute è richiesto quando :values non è presente.',
+>>>>>>> a81fae06722affcec435fa7f65655838f256548b
     'required_without_all' => 'Il campo :attribute è richiesto quando nessuno di :values è presente.',
     'same' => ':attribute e :other devono coincidere.',
     'size' => [

@@ -12,6 +12,6 @@ return [
     |
     */
 
-    'previous' => '« Trang sau',
-    'next'     => 'Trang trước »',
+    'previous' => '&laquo; Trang sau',
+    'next'     => 'Trang trước &raquo;',
 ];

@@ -24,7 +24,7 @@ return [
     'before_or_equal'      => 'Kentän :attribute päiväyksen tulee olla sama tai ennen kuin :date.',
     'between'              => [
         'numeric' => 'Kentän :attribute tulee olla välillä :min - :max.',
-        'file'    => 'Tiedoston :attribute tulee olla :min - :max kilobittiä.',
+        'file'    => 'Tiedoston :attribute tulee olla :min - :max kilotavua.',
         'string'  => 'Kentän :attribute tulee olla :min - :max merkkiä pitkä.',
         'array'   => 'Kentän :attribute tulee sisältää välillä :min - :max arvoa.',
     ],

@@ -1,6 +1,5 @@
 # Todo list
 
-* [ar](#ar)
 * [az](#az)
 * [be](#be)
 * [bg](#bg)
@@ -68,10 +67,6 @@
 * [zh-CN](#zh-CN)
 * [zh-HK](#zh-HK)
 * [zh-TW](#zh-TW)
-
-#### ar:
-
-  * validation : uuid : not present
 
 #### az:
 

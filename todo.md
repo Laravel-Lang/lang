@@ -1661,7 +1661,6 @@
 
 #### ru:
 
-  * validation : uuid : not present
 
 #### sc:
 

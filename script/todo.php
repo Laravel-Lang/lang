@@ -23,9 +23,9 @@ class TodoGenerator
     /**
      * Path of output file.
      *
-     * @var string
+     * @var array
      */
-    protected $output;
+    protected $output = [];
 
     /**
      * Construct.
@@ -60,7 +60,7 @@ class TodoGenerator
      */
     public function save($path)
     {
-        file_put_contents($path, $this->output);
+        file_put_contents($path, $this->getOutput());
     }
 
     /**
@@ -72,7 +72,6 @@ class TodoGenerator
         $english = $this->getTranslations(__DIR__, 'en');
         $languages = $this->getLanguages();
 
-        $this->output = "# Todo list\n\n";
         $this->compareTranslations($english, $languages);
     }
 
@@ -133,7 +132,7 @@ class TodoGenerator
     {
         // Return diff language by language
         foreach ($languages as $language) {
-            $this->output .= "\n * ".$language.":\n";
+            $this->addOutput($language);
             $current = $this->getTranslations($this->basePath, $language);
 
             foreach ($default as $key => $values) {
@@ -145,13 +144,54 @@ class TodoGenerator
                     }
 
                     if (!isset($current[$key][$key2])) {
-                        $this->output .= '    * '.$key.' : '.$key2." : not present\n";
+                        $this->addOutput($language, "  * {$key} : {$key2} : not present");
                     } elseif ($current[$key][$key2] === $default[$key][$key2]) {
-                        $this->output .= '    * '.$key.' : '.$key2."\n";
+                        $this->addOutput($language, "  * {$key} : {$key2}");
                     }
                 }
             }
         }
+    }
+
+    /**
+     * Adding elements to the resulting array.
+     *
+     * @param string      $key
+     * @param string|null $value
+     */
+    private function addOutput(string $key, string $value = null)
+    {
+        if (!array_key_exists($key, $this->output)) {
+            $this->output[$key] = [];
+        }
+
+        $this->output[$key][] = $value;
+    }
+
+    /**
+     * Forming the page content for output.
+     *
+     * @return string
+     */
+    private function getOutput()
+    {
+        $output = "# Todo list\n\n";
+
+        // Make menu
+        foreach (array_keys($this->output) as $language) {
+            $output .= "* [$language](#$language)\n";
+        }
+
+        $output .= "\n";
+
+        // Make items
+        foreach ($this->output as $language => $values) {
+            $output .= "#### {$language}:\n";
+            $output .= implode(PHP_EOL, $values);
+            $output .= PHP_EOL.PHP_EOL;
+        }
+
+        return $output;
     }
 }
 

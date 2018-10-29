@@ -71,6 +71,7 @@
 
 #### ar:
 
+  * validation : uuid : not present
 
 #### az:
 
@@ -109,6 +110,7 @@
   * validation : lt
   * validation : lte
   * validation : not_regex : not present
+  * validation : uuid : not present
 
 #### be:
 
@@ -157,6 +159,7 @@
   * validation : not_regex
   * validation : present
   * validation : uploaded
+  * validation : uuid : not present
 
 #### bg:
 
@@ -195,6 +198,7 @@
   * validation : lt
   * validation : lte
   * validation : not_regex
+  * validation : uuid : not present
 
 #### bn:
 
@@ -233,6 +237,7 @@
   * validation : lt
   * validation : lte
   * validation : not_regex
+  * validation : uuid : not present
 
 #### bs:
 
@@ -285,6 +290,7 @@
   * validation : present
   * validation : required_unless
   * validation : uploaded
+  * validation : uuid : not present
 
 #### ca:
 
@@ -323,6 +329,7 @@
   * validation : lt
   * validation : lte
   * validation : not_regex
+  * validation : uuid : not present
 
 #### cs:
 
@@ -365,6 +372,7 @@
   * validation : lt
   * validation : lte
   * validation : not_regex
+  * validation : uuid : not present
 
 #### cy:
 
@@ -418,6 +426,7 @@
   * validation : required_unless
   * validation : string
   * validation : uploaded
+  * validation : uuid : not present
 
 #### da:
 
@@ -452,6 +461,7 @@
   * json : Verify Your Email Address : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
   * validation : not_regex
+  * validation : uuid : not present
 
 #### de:
 
@@ -468,6 +478,7 @@
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Your Email Address : not present
+  * validation : uuid : not present
 
 #### de-CH:
 
@@ -501,6 +512,7 @@
   * json : Unauthorized : not present
   * json : Verify Your Email Address : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
+  * validation : uuid : not present
 
 #### el:
 
@@ -539,9 +551,11 @@
   * validation : lt
   * validation : lte
   * validation : not_regex
+  * validation : uuid : not present
 
 #### es:
 
+  * validation : uuid : not present
 
 #### et:
 
@@ -580,6 +594,7 @@
   * validation : lt
   * validation : lte
   * validation : not_regex
+  * validation : uuid : not present
 
 #### eu:
 
@@ -618,6 +633,7 @@
   * validation : lt
   * validation : lte
   * validation : not_regex
+  * validation : uuid : not present
 
 #### fa:
 
@@ -651,6 +667,7 @@
   * json : Unauthorized : not present
   * json : Verify Your Email Address : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
+  * validation : uuid : not present
 
 #### fi:
 
@@ -680,21 +697,11 @@
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Your Email Address : not present
-  * validation : after_or_equal
-  * validation : array
-  * validation : before_or_equal
-  * validation : dimensions
-  * validation : exists
-  * validation : gt
-  * validation : gte
-  * validation : ipv4
-  * validation : ipv6
-  * validation : lt
-  * validation : lte
-  * validation : not_regex
+  * validation : uuid : not present
 
 #### fr:
 
+  * validation : uuid : not present
 
 #### gl:
 
@@ -733,6 +740,7 @@
   * validation : file
   * validation : in_array
   * validation : present
+  * validation : uuid : not present
 
 #### he:
 
@@ -771,6 +779,7 @@
   * validation : lt
   * validation : lte
   * validation : not_regex
+  * validation : uuid : not present
 
 #### hi:
 
@@ -817,6 +826,7 @@
   * validation : mimetypes
   * validation : not_regex
   * validation : uploaded
+  * validation : uuid : not present
 
 #### hr:
 
@@ -836,6 +846,7 @@
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Your Email Address : not present
+  * validation : uuid : not present
 
 #### hu:
 
@@ -869,6 +880,7 @@
   * json : Unauthorized : not present
   * json : Verify Your Email Address : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
+  * validation : uuid : not present
 
 #### id:
 
@@ -888,6 +900,7 @@
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Your Email Address : not present
+  * validation : uuid : not present
 
 #### is:
 
@@ -940,44 +953,17 @@
   * validation : present
   * validation : required_unless
   * validation : required_with
-  * validation : required_with_all
   * validation : required_without
   * validation : required_without_all
   * validation : string
   * validation : uploaded
+  * validation : uuid : not present
 
 #### it:
 
-  * json : A fresh verification link has been sent to your email address. : not present
-  * json : Confirm Password : not present
-  * json : E-Mail Address : not present
-  * json : Error : not present
-  * json : Forgot Your Password? : not present
-  * json : Go Home : not present
-  * json : hi : not present
-  * json : If you did not request a password reset, no further action is required. : not present
-  * json : Login : not present
-  * json : Logout : not present
-  * json : Name : not present
-  * json : Oh no : not present
-  * json : Page Expired : not present
-  * json : Page Not Found : not present
-  * json : Password : not present
-  * json : Register : not present
-  * json : Remember Me : not present
-  * json : Reset Password : not present
-  * json : Reset Password Notification : not present
-  * json : Send Password Reset Link : not present
-  * json : Service Unavailable : not present
-  * json : Sorry, the page you are looking for could not be found. : not present
-  * json : Sorry, you are making too many requests to our servers. : not present
-  * json : Sorry, you are not authorized to access this page. : not present
-  * json : Sorry, your session has expired. Please refresh and try again. : not present
-  * json : Sorry, we are doing some maintenance. Please check back soon. : not present
-  * json : Too Many Requests : not present
-  * json : Unauthorized : not present
-  * json : Verify Your Email Address : not present
-  * json : You are receiving this email because we received a password reset request for your account. : not present
+  * json : Oh no
+  * json : Password
+  * validation : uuid : not present
 
 #### ja:
 
@@ -1016,6 +1002,7 @@
   * validation : lt
   * validation : lte
   * validation : not_regex
+  * validation : uuid : not present
 
 #### ka:
 
@@ -1035,6 +1022,7 @@
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Your Email Address : not present
+  * validation : uuid : not present
 
 #### kk:
 
@@ -1081,6 +1069,7 @@
   * validation : mimetypes
   * validation : not_regex
   * validation : uploaded
+  * validation : uuid : not present
 
 #### km:
 
@@ -1132,10 +1121,10 @@
   * validation : not_regex
   * validation : present
   * validation : required_unless
-  * validation : required_with_all
   * validation : string
   * validation : timezone
   * validation : uploaded
+  * validation : uuid : not present
 
 #### ko:
 
@@ -1155,6 +1144,7 @@
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Your Email Address : not present
+  * validation : uuid : not present
 
 #### lt:
 
@@ -1199,6 +1189,7 @@
   * validation : lte
   * validation : not_regex
   * validation : uploaded
+  * validation : uuid : not present
 
 #### lv:
 
@@ -1239,6 +1230,7 @@
   * validation : lt
   * validation : lte
   * validation : not_regex
+  * validation : uuid : not present
 
 #### me:
 
@@ -1285,6 +1277,7 @@
   * validation : not_regex
   * validation : timezone
   * validation : uploaded
+  * validation : uuid : not present
 
 #### mk:
 
@@ -1336,11 +1329,11 @@
   * validation : not_regex
   * validation : present
   * validation : required_unless
-  * validation : required_with_all
   * validation : required_without_all
   * validation : string
   * validation : timezone
   * validation : uploaded
+  * validation : uuid : not present
 
 #### mn:
 
@@ -1384,6 +1377,7 @@
   * validation : required_without
   * validation : required_without_all
   * validation : same
+  * validation : uuid : not present
 
 #### ms:
 
@@ -1417,6 +1411,7 @@
   * json : Unauthorized : not present
   * json : Verify Your Email Address : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
+  * validation : uuid : not present
 
 #### nb:
 
@@ -1450,6 +1445,7 @@
   * json : Unauthorized : not present
   * json : Verify Your Email Address : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
+  * validation : uuid : not present
 
 #### ne:
 
@@ -1498,10 +1494,11 @@
   * validation : not_regex
   * validation : present
   * validation : uploaded
+  * validation : uuid : not present
 
 #### nl:
 
-  * json : Error
+  * validation : uuid : not present
 
 #### nn:
 
@@ -1547,6 +1544,7 @@
   * validation : lte
   * validation : not_regex
   * validation : uploaded
+  * validation : uuid : not present
 
 #### pl:
 
@@ -1566,6 +1564,7 @@
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Your Email Address : not present
+  * validation : uuid : not present
 
 #### pt:
 
@@ -1604,6 +1603,7 @@
   * validation : lt
   * validation : lte
   * validation : not_regex
+  * validation : uuid : not present
 
 #### pt-BR:
 
@@ -1623,6 +1623,7 @@
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Your Email Address : not present
+  * validation : uuid : not present
 
 #### ro:
 
@@ -1656,9 +1657,11 @@
   * json : Unauthorized : not present
   * json : Verify Your Email Address : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
+  * validation : uuid : not present
 
 #### ru:
 
+  * validation : uuid : not present
 
 #### sc:
 
@@ -1712,6 +1715,7 @@
   * validation : required_unless
   * validation : string
   * validation : uploaded
+  * validation : uuid : not present
 
 #### sk:
 
@@ -1745,6 +1749,7 @@
   * json : Unauthorized : not present
   * json : Verify Your Email Address : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
+  * validation : uuid : not present
 
 #### sl:
 
@@ -1783,6 +1788,7 @@
   * validation : lt
   * validation : lte
   * validation : not_regex
+  * validation : uuid : not present
 
 #### sq:
 
@@ -1835,6 +1841,7 @@
   * validation : present
   * validation : required_unless
   * validation : uploaded
+  * validation : uuid : not present
 
 #### sr:
 
@@ -1871,6 +1878,7 @@
   * validation : present
   * validation : required_unless
   * validation : uploaded
+  * validation : uuid : not present
 
 #### sv:
 
@@ -1904,6 +1912,7 @@
   * json : Unauthorized : not present
   * json : Verify Your Email Address : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
+  * validation : uuid : not present
 
 #### sw:
 
@@ -1950,6 +1959,7 @@
   * validation : mimetypes
   * validation : not_regex
   * validation : uploaded
+  * validation : uuid : not present
 
 #### tg:
 
@@ -1990,9 +2000,11 @@
   * validation : lt
   * validation : lte
   * validation : not_regex
+  * validation : uuid : not present
 
 #### th:
 
+  * validation : uuid : not present
 
 #### tk:
 
@@ -2046,6 +2058,7 @@
   * validation : required_unless
   * validation : string
   * validation : uploaded
+  * validation : uuid : not present
 
 #### tl:
 
@@ -2092,6 +2105,7 @@
   * validation : mimetypes
   * validation : not_regex
   * validation : uploaded
+  * validation : uuid : not present
 
 #### tr:
 
@@ -2129,6 +2143,7 @@
   * validation : gte
   * validation : lt
   * validation : lte
+  * validation : uuid : not present
 
 #### ug:
 
@@ -2167,44 +2182,17 @@
   * validation : lt
   * validation : lte
   * validation : not_regex
+  * validation : uuid : not present
 
 #### uk:
 
-  * json : A fresh verification link has been sent to your email address. : not present
-  * json : Confirm Password : not present
-  * json : E-Mail Address : not present
-  * json : Error : not present
-  * json : Forgot Your Password? : not present
-  * json : Go Home : not present
-  * json : hi : not present
-  * json : If you did not request a password reset, no further action is required. : not present
-  * json : Login : not present
-  * json : Logout : not present
-  * json : Name : not present
-  * json : Oh no : not present
-  * json : Page Expired : not present
-  * json : Page Not Found : not present
-  * json : Password : not present
-  * json : Register : not present
-  * json : Remember Me : not present
-  * json : Reset Password : not present
-  * json : Reset Password Notification : not present
-  * json : Send Password Reset Link : not present
-  * json : Service Unavailable : not present
-  * json : Sorry, the page you are looking for could not be found. : not present
-  * json : Sorry, you are making too many requests to our servers. : not present
-  * json : Sorry, you are not authorized to access this page. : not present
-  * json : Sorry, your session has expired. Please refresh and try again. : not present
-  * json : Sorry, we are doing some maintenance. Please check back soon. : not present
-  * json : Too Many Requests : not present
-  * json : Unauthorized : not present
-  * json : Verify Your Email Address : not present
-  * json : You are receiving this email because we received a password reset request for your account. : not present
+  * json : Page Expired
   * validation : gt
   * validation : gte
   * validation : lt
   * validation : lte
   * validation : not_regex
+  * validation : uuid : not present
 
 #### ur:
 
@@ -2251,6 +2239,7 @@
   * validation : mimetypes
   * validation : not_regex
   * validation : uploaded
+  * validation : uuid : not present
 
 #### uz-cyrillic:
 
@@ -2289,6 +2278,7 @@
   * validation : lt
   * validation : lte
   * validation : not_regex
+  * validation : uuid : not present
 
 #### uz-latin:
 
@@ -2327,14 +2317,21 @@
   * validation : lt
   * validation : lte
   * validation : not_regex
+  * validation : uuid : not present
 
 #### vi:
 
+  * validation : uuid : not present
 
 #### zh-CN:
 
+  * validation : uuid : not present
 
 #### zh-HK:
 
+  * validation : uuid : not present
 
 #### zh-TW:
+
+  * validation : uuid : not present
+

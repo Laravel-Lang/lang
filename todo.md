@@ -3025,29 +3025,6 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### uk:
 
-  * json : All rights reserved. : not present
-  * json : Before proceeding, please check your email for a verification link. : not present
-  * json : click here to request another : not present
-  * json : Forbidden : not present
-  * json : Hello! : not present
-  * json : If you did not create an account, no further action is required. : not present
-  * json : If you did not receive the email : not present
-  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:actionURL](:actionURL) : not present
-  * json : Page Expired
-  * json : Please click the button below to verify your email address. : not present
-  * json : Regards : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Toggle navigation : not present
-  * json : Whoops! : not present
-  * json : Whoops, something went wrong on our servers. : not present
-  * validation : gt
-  * validation : gte
-  * validation : lt
-  * validation : lte
-  * validation : not_regex
-  * validation : uuid : not present
-
 #### ur:
 
   * json : A fresh verification link has been sent to your email address. : not present

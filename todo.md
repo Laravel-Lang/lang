@@ -2239,7 +2239,6 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: [:actionURL](:actionURL) : not present
   * json : Please click the button below to verify your email address. : not present
-  * json : Regards : not present
   * json : Sorry, you are forbidden from accessing this page. : not present
   * json : Toggle navigation : not present
 

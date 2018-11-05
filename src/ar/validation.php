@@ -11,7 +11,7 @@ return [
     | as the size rules. Feel free to tweak each of these messages.
     |
     */
-    
+
     'accepted'             => 'يجب قبول :attribute.',
     'active_url'           => ':attribute لا يُمثّل رابطًا صحيحًا.',
     'after'                => 'يجب على :attribute أن يكون تاريخًا لاحقًا للتاريخ :date.',
@@ -112,7 +112,7 @@ return [
     'uploaded'             => 'فشل في تحميل الـ :attribute.',
     'url'                  => 'صيغة الرابط :attribute غير صحيحة.',
     'uuid'                 => ':attribute يجب أن يكون بصيغة UUID سليمة.',
-    
+
     /*
     |--------------------------------------------------------------------------
     | Custom Validation Language Lines
@@ -123,13 +123,13 @@ return [
     | specify a specific custom language line for a given attribute rule.
     |
     */
-    
+
     'custom' => [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
     ],
-    
+
     /*
     |--------------------------------------------------------------------------
     | Custom Validation Attributes
@@ -140,7 +140,7 @@ return [
     | of "email". This simply helps us make messages a little cleaner.
     |
     */
-    
+
     'attributes' => [
         'name'                  => 'الاسم',
         'username'              => 'اسم المُستخدم',

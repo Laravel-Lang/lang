@@ -1,13 +1,10 @@
 {
   "A fresh verification link has been sent to your email address.": "Ссылка на сброс пароля была отправлена на Ваш email-адрес.",
-  "All rights reserved.": "Все права защищены.",
   "Confirm Password": "Подтверждение пароля",
   "E-Mail Address": "E-Mail адрес",
   "Error": "Ошибка",
-  "Forbidden": "Запрещено",
   "Forgot Your Password?": "Забыли пароль?",
   "Go Home": "Домой",
-  "Hello!": "Здравствуйте!",
   "hi": "привет",
   "If you did not request a password reset, no further action is required.": "Если Вы не запрашивали сброс пароля, то дополнительных действий не требуется.",
   "Login": "Войти",
@@ -17,7 +14,6 @@
   "Page Expired": "Страница устарела",
   "Page Not Found": "Страница не найдена",
   "Password": "Пароль",
-  "Regards": "С уважением",
   "Register": "Регистрация",
   "Remember Me": "Запомнить меня",
   "Reset Password": "Сбросить пароль",
@@ -32,7 +28,5 @@
   "Too Many Requests": "Слишком много запросов",
   "Unauthorized": "Не авторизован",
   "Verify Your Email Address": "Проверьте Ваш email-адрес",
-  "You are receiving this email because we received a password reset request for your account.": "Вы получили это письмо, потому что мы получили запрос на сброс пароля для Вашей учетной записи.",
-  "Whoops!": "Упс!",
-  "Whoops, something went wrong on our servers.": "Упс, на наших серверах что-то пошло не так."
+  "You are receiving this email because we received a password reset request for your account.": "Вы получили это письмо, потому что мы получили запрос на сброс пароля для Вашей учетной записи."
 }

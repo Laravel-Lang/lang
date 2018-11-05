@@ -94,7 +94,7 @@ return [
     'regex'                => ':attribute 的格式錯誤。',
     'required'             => ':attribute 不能留空。',
     'required_if'          => '當 :other 是 :value 時 :attribute 不能留空。',
-    'required_unless'      => '當 :other 不是 :value 時 :attribute 不能留空。',
+    'required_unless'      => '當 :other 不是 :values 時 :attribute 不能留空。',
     'required_with'        => '當 :values 出現時 :attribute 不能留空。',
     'required_with_all'    => '當 :values 出現時 :attribute 不能為空。',
     'required_without'     => '當 :values 留空時 :attribute field 不能留空。',

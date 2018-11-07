@@ -4,18 +4,12 @@
 
 In this repository, you can find the lang files for the framework PHP, [Laravel 4&5](http://www.laravel.com).
 
-## Capital letters ( WIP )
-
-Since Laravel 5.2, we can define letters capitalized. A new branch has been created to add this feature : `capital_letters`.
-
-    We need your help to update validation files.
-
 ## Install
 
 #### Via Composer
 * For Laravel 5.* : run `composer require caouecs/laravel-lang:~3.0` in your project folder
-* For Laravel 5 : run `composer require caouecs/laravel4-lang:~2.0` in your project folder
-* For Laravel 4 : run `composer require caouecs/laravel4-lang:~1.0` in your project folder
+* For Laravel 5 : run `composer require caouecs/laravel-lang:~2.0` in your project folder
+* For Laravel 4 : run `composer require caouecs/laravel-lang:~1.0` in your project folder
 * Files of languages are in "vendor/caouecs/laravel-lang" directory
 * Copy the folders of languages that you want, in the *resources/lang* folder of your Laravel application (*app/lang* in Laravel 4).
 

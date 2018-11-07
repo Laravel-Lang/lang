@@ -94,7 +94,7 @@ return [
     'regex'                => ':attribute ھۆججەت تىپى ئىناۋەتسىز.',
     'required'             => ':attribute قۇرۇق بولسا بولمايدۇ.',
     'required_if'          => ':other :value بولغاندا :attribute قۇرۇق بولسا بولمايدۇ.',
-    'required_unless'      => ':other :value بولمىغاندا :attribute قۇرۇق بولسا بولمايدۇ.',
+    'required_unless'      => ':other :values بولمىغاندا :attribute قۇرۇق بولسا بولمايدۇ.',
     'required_with'        => ':values مەۋجۈت بولغاندا :attribute قۇرۇق بولسا بولمايدۇ.',
     'required_with_all'    => ':values مەۋجۈت بولغاندا :attribute قۇرۇق بولسا بولمايدۇ.',
     'required_without'     => ':values مەۋجۈت بولمىغاندا :attribute قۇرۇق بولسا بولمايدۇ.',

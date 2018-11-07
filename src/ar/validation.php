@@ -42,13 +42,13 @@ return [
     'file'                 => 'الـ :attribute يجب أن يكون ملفا.',
     'filled'               => ':attribute إجباري.',
     'gt'                   => [
-        'numeric' => 'يجب أن تكون قيمة :attribute أكبر من :max.',
+        'numeric' => 'يجب أن تكون قيمة :attribute أكبر من :value.',
         'file'    => 'يجب أن يكون حجم الملف :attribute أكبر من :value كيلوبايت.',
         'string'  => 'يجب أن يكون طول النّص :attribute أكثر من :value حروفٍ/حرفًا.',
         'array'   => 'يجب أن يحتوي :attribute على أكثر من :value عناصر/عنصر.',
     ],
     'gte'                  => [
-        'numeric' => 'يجب أن تكون قيمة :attribute مساوية أو أكبر من :min.',
+        'numeric' => 'يجب أن تكون قيمة :attribute مساوية أو أكبر من :value.',
         'file'    => 'يجب أن يكون حجم الملف :attribute على الأقل :value كيلوبايت.',
         'string'  => 'يجب أن يكون طول النص :attribute على الأقل :value حروفٍ/حرفًا.',
         'array'   => 'يجب أن يحتوي :attribute على الأقل على :value عُنصرًا/عناصر.',
@@ -62,16 +62,16 @@ return [
     'ipv6'                 => 'يجب أن يكون :attribute عنوان IPv6 صحيحًا.',
     'json'                 => 'يجب أن يكون :attribute نصآ من نوع JSON.',
     'lt'                   => [
-        'numeric' => 'يجب أن تكون قيمة :attribute أصغر من :max.',
+        'numeric' => 'يجب أن تكون قيمة :attribute أصغر من :value.',
         'file'    => 'يجب أن يكون حجم الملف :attribute أصغر من :value كيلوبايت.',
         'string'  => 'يجب أن يكون طول النّص :attribute أقل من :value حروفٍ/حرفًا.',
         'array'   => 'يجب أن يحتوي :attribute على أقل من :value عناصر/عنصر.',
     ],
     'lte'                  => [
-        'numeric' => 'يجب أن تكون قيمة :attribute مساوية أو أصغر من :max.',
-        'file'    => 'يجب أن لا يتجاوز حجم الملف :attribute :max كيلوبايت.',
-        'string'  => 'يجب أن لا يتجاوز طول النّص :attribute :max حروفٍ/حرفًا.',
-        'array'   => 'يجب أن لا يحتوي :attribute على أكثر من :max عناصر/عنصر.',
+        'numeric' => 'يجب أن تكون قيمة :attribute مساوية أو أصغر من :value.',
+        'file'    => 'يجب أن لا يتجاوز حجم الملف :attribute :value كيلوبايت.',
+        'string'  => 'يجب أن لا يتجاوز طول النّص :attribute :value حروفٍ/حرفًا.',
+        'array'   => 'يجب أن لا يحتوي :attribute على أكثر من :value عناصر/عنصر.',
     ],
     'max'                  => [
         'numeric' => 'يجب أن تكون قيمة :attribute مساوية أو أصغر من :max.',

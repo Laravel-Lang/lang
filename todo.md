@@ -1,5 +1,6 @@
 # Todo list
 
+* [ar](#ar)
 * [az](#az)
 * [be](#be)
 * [bg](#bg)
@@ -67,6 +68,10 @@
 * [zh-CN](#zh-CN)
 * [zh-HK](#zh-HK)
 * [zh-TW](#zh-TW)
+
+#### ar:
+
+  * json : Sorry, you are forbidden from accessing this page. : not present
 
 #### az:
 

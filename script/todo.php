@@ -180,7 +180,7 @@ class TodoGenerator
         // Make menu
         $columns = 12;
 
-        $captions    = implode('|', array_fill(0, $columns, ' '));
+        $captions = implode('|', array_fill(0, $columns, ' '));
         $subcaptions = implode('|', array_fill(0, $columns, ':---:'));
 
         $output .= "|$captions|\n";
@@ -193,8 +193,8 @@ class TodoGenerator
 
         $rows = array_chunk($menu, $columns);
         array_map(function ($row) use (&$output) {
-            $row    = implode(' | ', $row);
-            $output .= $row . "\n";
+            $row = implode(' | ', $row);
+            $output .= $row."\n";
         }, $rows);
 
         $output .= "\n\n";

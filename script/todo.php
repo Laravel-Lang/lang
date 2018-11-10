@@ -178,11 +178,26 @@ class TodoGenerator
         $output = "# Todo list\n\n";
 
         // Make menu
+        $columns = 12;
+
+        $captions    = implode('|', array_fill(0, $columns, ' '));
+        $subcaptions = implode('|', array_fill(0, $columns, ':---:'));
+
+        $output .= "|$captions|\n";
+        $output .= "|$subcaptions|\n";
+
+        $menu = [];
         foreach (array_keys($this->output) as $language) {
-            $output .= "* [$language](#$language)\n";
+            $menu[] = "[$language](#$language)";
         }
 
-        $output .= "\n";
+        $rows = array_chunk($menu, $columns);
+        array_map(function ($row) use (&$output) {
+            $row    = implode(' | ', $row);
+            $output .= $row . "\n";
+        }, $rows);
+
+        $output .= "\n\n";
 
         // Make items
         foreach ($this->output as $language => $values) {

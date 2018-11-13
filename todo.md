@@ -12,7 +12,6 @@
 
 #### ar:
 
-  * json : Sorry, you are forbidden from accessing this page. : not present
 
 #### az:
 

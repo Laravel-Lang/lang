@@ -3107,33 +3107,10 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### zh-CN:
 
-  * json : All rights reserved. : not present
-  * json : Forbidden : not present
-  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:actionURL](:actionURL) : not present
-  * json : Regards : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Toggle navigation : not present
-  * json : Whoops, something went wrong on our servers. : not present
-  * validation : uuid : not present
 
 #### zh-HK:
 
-  * json : All rights reserved. : not present
-  * json : Forbidden : not present
-  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:actionURL](:actionURL) : not present
-  * json : Regards : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Toggle navigation : not present
-  * json : Whoops, something went wrong on our servers. : not present
-  * validation : uuid : not present
 
 #### zh-TW:
 
-  * json : All rights reserved. : not present
-  * json : Regards : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Toggle navigation : not present
-  * validation : uuid : not present
 

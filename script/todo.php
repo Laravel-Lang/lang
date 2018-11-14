@@ -203,7 +203,7 @@ class TodoGenerator
         foreach ($this->output as $language => $values) {
             $output .= "#### {$language}:\n";
             $output .= implode(PHP_EOL, $values);
-            $output .= PHP_EOL.PHP_EOL;
+            $output .= "\n\n[ [to top](#todo-list) ]\n\n";
         }
 
         return $output;

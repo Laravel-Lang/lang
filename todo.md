@@ -569,35 +569,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### de:
 
-  * json : A fresh verification link has been sent to your email address. : not present
-  * json : All rights reserved. : not present
-  * json : Before proceeding, please check your email for a verification link. : not present
-  * json : click here to request another : not present
-  * json : Error : not present
-  * json : Forbidden : not present
-  * json : Go Home : not present
-  * json : Hello! : not present
-  * json : If you did not create an account, no further action is required. : not present
-  * json : If you did not receive the email : not present
-  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:actionURL](:actionURL) : not present
   * json : Name
-  * json : Please click the button below to verify your email address. : not present
-  * json : Regards : not present
-  * json : Service Unavailable : not present
-  * json : Sorry, the page you are looking for could not be found. : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Sorry, you are making too many requests to our servers. : not present
-  * json : Sorry, you are not authorized to access this page. : not present
-  * json : Sorry, your session has expired. Please refresh and try again. : not present
-  * json : Sorry, we are doing some maintenance. Please check back soon. : not present
-  * json : Toggle navigation : not present
-  * json : Too Many Requests : not present
-  * json : Unauthorized : not present
-  * json : Verify Email Address : not present
-  * json : Verify Your Email Address : not present
-  * json : Whoops! : not present
-  * json : Whoops, something went wrong on our servers. : not present
   * validation : uuid : not present
 
 [ [to top](#todo-list) ]

@@ -111,6 +111,7 @@ return [
     'unique'               => ':attribute on juba hõivatud.',
     'uploaded'             => ':attribute ei õnnestunud laadida.',
     'url'                  => ':attribute vorming on vigane.',
+    'uuid'                 => 'The :attribute must be a valid UUID.',
 
     /*
     |--------------------------------------------------------------------------

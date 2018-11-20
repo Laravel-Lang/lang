@@ -111,6 +111,7 @@ return [
     'unique'               => ':attribute už existuje.',
     'uploaded'             => 'Nepodarilo sa nahrať :attribute.',
     'url'                  => ':attribute musí mať formát URL.',
+    'uuid'                 => 'The :attribute must be a valid UUID.',
 
     /*
     |--------------------------------------------------------------------------

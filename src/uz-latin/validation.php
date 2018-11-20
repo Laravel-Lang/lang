@@ -111,6 +111,7 @@ return [
     'unique'               => ':Attribute maydonining bunday qiymati mavjud (kiritlgan).',
     'uploaded'             => ':Attribute maydonini yuklash muvaffaqiyatli amalga oshmadi.',
     'url'                  => ':Attribute maydoni noto‘g‘ri formatga ega.',
+    'uuid'                 => 'The :attribute must be a valid UUID.',
 
     /*
     |--------------------------------------------------------------------------

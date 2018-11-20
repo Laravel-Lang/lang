@@ -111,6 +111,7 @@ return [
     'unique'               => ':attribute को पहले ही ले लिया गया है।',
     'uploaded'             => 'The :attribute failed to upload.',
     'url'                  => ':attribute फॉर्मेट अमान्य है।',
+    'uuid'                 => 'The :attribute must be a valid UUID.',
 
     /*
     |--------------------------------------------------------------------------

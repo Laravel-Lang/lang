@@ -111,6 +111,7 @@ return [
     'unique'               => 'שדה :attribute כבר תפוס.',
     'uploaded'             => 'שדה :attribute ארעה שגיאה בעת ההעלאה.',
     'url'                  => 'שדה :attribute בעל פורמט שאינו תקין.',
+    'uuid'                 => 'The :attribute must be a valid UUID.',
 
     /*
     |--------------------------------------------------------------------------

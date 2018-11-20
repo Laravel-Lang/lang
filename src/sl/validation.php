@@ -111,6 +111,7 @@ return [
     'unique'               => ':attribute je že zaseden.',
     'uploaded'             => 'Nalaganje :attribute ni uspelo.',
     'url'                  => ':attribute format je neveljaven.',
+    'uuid'                 => 'The :attribute must be a valid UUID.',
 
     /*
     |--------------------------------------------------------------------------

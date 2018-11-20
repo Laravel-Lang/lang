@@ -111,6 +111,7 @@ return [
     'unique'               => 'Reiturinn :attribute er því miður ekki leyfilegur. Það er annar eins.',
     'uploaded'             => 'The :attribute failed to upload.',
     'url'                  => 'Reiturinn :attribute verður að vera netslóð.',
+    'uuid'                 => 'The :attribute must be a valid UUID.',
 
     /*
     |--------------------------------------------------------------------------

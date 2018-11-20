@@ -111,6 +111,7 @@ return [
     'unique'               => ':attribute daha önceden kayıt edilmiş.',
     'uploaded'             => ':attribute yüklemesi başarısız.',
     'url'                  => ':attribute biçimi geçersiz.',
+    'uuid'                 => 'The :attribute must be a valid UUID.',
 
     /*
     |--------------------------------------------------------------------------

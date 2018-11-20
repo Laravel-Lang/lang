@@ -111,6 +111,7 @@ return [
     'unique'               => 'Mae :attribute eisoes yn bodoli.',
     'uploaded'             => 'The :attribute failed to upload.',
     'url'                  => 'Nid yw fformat :attribute yn ddilys.',
+    'uuid'                 => 'The :attribute must be a valid UUID.',
 
     /*
     |--------------------------------------------------------------------------

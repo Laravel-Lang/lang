@@ -111,6 +111,7 @@ return [
     'unique'               => ':attribute önden hasaba alyndy.',
     'uploaded'             => 'The :attribute failed to upload.',
     'url'                  => ':attribute formaty ýalňyş.',
+    'uuid'                 => 'The :attribute must be a valid UUID.',
 
     /*
     |--------------------------------------------------------------------------

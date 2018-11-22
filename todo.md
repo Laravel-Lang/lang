@@ -570,7 +570,6 @@ into your web browser: [:actionURL](:actionURL) : not present
 #### de:
 
   * json : Name
-  * validation : uuid
 
 [ [to top](#todo-list) ]
 

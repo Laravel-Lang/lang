@@ -586,7 +586,6 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### es:
 
-  * json : Verify Email Address : not present
 
 [ [to top](#todo-list) ]
 

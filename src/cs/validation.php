@@ -142,6 +142,6 @@ return [
     */
 
     'attributes' => [
-        'password' => 'heslo'
+        'password' => 'heslo',
     ],
 ];

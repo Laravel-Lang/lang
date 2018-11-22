@@ -111,6 +111,7 @@ return [
     'unique'               => ':attribute ئاللابۇرۇن مەۋجۈت.',
     'uploaded'             => ':attribute يوللاش مەغلۇپ بولدى.',
     'url'                  => ':attribute ھۆججەت تىپى ئىناۋەتسىز.',
+    'uuid'                 => 'The :attribute must be a valid UUID.',
 
     /*
     |--------------------------------------------------------------------------

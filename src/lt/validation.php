@@ -111,6 +111,7 @@ return [
     'unique'               => 'Tokia :attribute reikšmė jau pasirinkta.',
     'uploaded'             => 'The :attribute failed to upload.',
     'url'                  => 'Negaliojantis lauko :attribute formatas.',
+    'uuid'                 => 'The :attribute must be a valid UUID.',
 
     /*
     |--------------------------------------------------------------------------

@@ -112,6 +112,7 @@ return [
     'unique'               => '指定の:attributeは既に使用されています。',
     'uploaded'             => ':attributeのアップロードに失敗しました。',
     'url'                  => ':attributeは、有効なURL形式で指定してください。',
+    'uuid'                 => 'The :attribute must be a valid UUID.',
 
     /*
     |--------------------------------------------------------------------------

@@ -111,6 +111,7 @@ return [
     'unique'               => 'Taki :attribute już występuje.',
     'uploaded'             => 'Nie udało się wgrać pliku :attribute.',
     'url'                  => 'Format :attribute jest nieprawidłowy.',
+    'uuid'                 => 'The :attribute must be a valid UUID.',
 
     /*
     |--------------------------------------------------------------------------

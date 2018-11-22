@@ -111,6 +111,7 @@ return [
     'unique'               => ':attribute ja està registrat i no es pot repetir.',
     'uploaded'             => ':attribute ha fallat al pujar.',
     'url'                  => ':attribute no és una adreça web vàlida.',
+    'uuid'                 => 'The :attribute must be a valid UUID.',
 
     /*
     |--------------------------------------------------------------------------

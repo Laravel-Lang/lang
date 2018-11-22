@@ -88,6 +88,7 @@ return [
         'array'   => ' :attribute minimum :min hədd\'dən ibarət ola bilər',
     ],
     'not_in'               => ' seçilmiş :attribute yanlışdır',
+    'not_regex'            => 'The :attribute format is invalid.',
     'numeric'              => ' :attribute rəqəmlərdən ibarət olmalıdır',
     'present'              => ' :attribute iştirak etməlidir',
     'regex'                => ' :attribute formatı yanlışdır',
@@ -110,6 +111,7 @@ return [
     'unique'               => ' :attribute artıq iştirak edib',
     'uploaded'             => ' :attribute yüklənməsi mümkün olmadı',
     'url'                  => ' :attribute formatı yanlışdır',
+    'uuid'                 => 'The :attribute must be a valid UUID.',
 
     /*
     |--------------------------------------------------------------------------

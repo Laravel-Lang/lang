@@ -111,6 +111,7 @@ return [
     'unique'               => ':attribute ইতিমধ্যেই নেওয়া হয়েছে।',
     'uploaded'             => ':attribute আপলোড করতে ব্যর্থ হয়েছে।',
     'url'                  => ':attribute বিন্যাস অবৈধ।',
+    'uuid'                 => 'The :attribute must be a valid UUID.',
 
     /*
     |--------------------------------------------------------------------------

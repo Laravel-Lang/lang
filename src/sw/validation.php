@@ -111,6 +111,7 @@ return [
     'unique'               => 'Kipengele tayari kimechukuliwa.',
     'uploaded'             => 'The :attribute failed to upload.',
     'url'                  => 'Muundo wa kipengele si halali.',
+    'uuid'                 => 'The :attribute must be a valid UUID.',
 
     /*
     |--------------------------------------------------------------------------

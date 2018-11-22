@@ -111,6 +111,7 @@ return [
     'unique'               => 'Isian :attribute sudah ada sebelumnya.',
     'uploaded'             => 'Isian :attribute gagal diunggah.',
     'url'                  => 'Format isian :attribute tidak valid.',
+    'uuid'                 => 'The :attribute must be a valid UUID.',
 
     /*
     |---------------------------------------------------------------------------------------

@@ -111,6 +111,7 @@ return [
     'unique'               => 'Полето :attribute веќе постои.',
     'uploaded'             => 'The :attribute failed to upload.',
     'url'                  => 'Полето :attribute не е во валиден формат.',
+    'uuid'                 => 'The :attribute must be a valid UUID.',
 
     /*
     |--------------------------------------------------------------------------

@@ -29,7 +29,7 @@ return [
         'array'   => ':attribute musí obsahovat nejméně :min a nesmí obsahovat více než :max prvků.',
     ],
     'boolean'              => ':attribute musí být true nebo false',
-    'confirmed'            => ':attribute nebylo odsouhlaseno.',
+    'confirmed'            => ':attribute nesouhlasí.',
     'date'                 => ':attribute musí být platné datum.',
     'date_format'          => ':attribute není platný formát data podle :format.',
     'different'            => ':attribute a :other se musí lišit.',
@@ -111,6 +111,7 @@ return [
     'unique'               => ':attribute musí být unikátní.',
     'uploaded'             => 'Nahrávání :attribute se nezdařilo.',
     'url'                  => 'Formát :attribute je neplatný.',
+    'uuid'                 => 'The :attribute must be a valid UUID.',
 
     /*
     |--------------------------------------------------------------------------
@@ -141,5 +142,6 @@ return [
     */
 
     'attributes' => [
+        'password' => 'heslo',
     ],
 ];

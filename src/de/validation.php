@@ -111,6 +111,7 @@ return [
     'unique'               => ':attribute ist schon vergeben.',
     'uploaded'             => ':attribute konnte nicht hochgeladen werden.',
     'url'                  => ':attribute muss eine URL sein.',
+    'uuid'                 => ':attribute muss ein UUID sein.',
 
     /*
     |--------------------------------------------------------------------------

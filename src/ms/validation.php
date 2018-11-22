@@ -111,6 +111,7 @@ return [
     'unique'               => ':attribute telah wujud.',
     'uploaded'             => ':attribute gagal dimuat naik.',
     'url'                  => ':attribute format tidak sah.',
+    'uuid'                 => 'The :attribute must be a valid UUID.',
 
     /*
     |--------------------------------------------------------------------------

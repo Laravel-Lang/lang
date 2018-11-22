@@ -581,12 +581,6 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### el:
 
-  * validation : gt
-  * validation : gte
-  * validation : lt
-  * validation : lte
-  * validation : not_regex
-  * validation : uuid
 
 [ [to top](#todo-list) ]
 

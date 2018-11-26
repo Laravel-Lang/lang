@@ -383,16 +383,6 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### cs:
 
-  * validation : after_or_equal
-  * validation : before_or_equal
-  * validation : gt
-  * validation : gte
-  * validation : ipv4
-  * validation : ipv6
-  * validation : lt
-  * validation : lte
-  * validation : not_regex
-  * validation : uuid
 
 [ [to top](#todo-list) ]
 

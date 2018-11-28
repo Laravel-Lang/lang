@@ -12,6 +12,8 @@
 
 #### ar:
 
+  * validation : date_equals : not present
+  * validation : starts_with : not present
 
 [ [to top](#todo-list) ]
 
@@ -63,11 +65,13 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
   * json : Whoops! : not present
   * json : Whoops, something went wrong on our servers. : not present
+  * validation : date_equals : not present
   * validation : gt
   * validation : gte
   * validation : lt
   * validation : lte
   * validation : not_regex
+  * validation : starts_with : not present
   * validation : uuid
 
 [ [to top](#todo-list) ]
@@ -122,6 +126,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Whoops, something went wrong on our servers. : not present
   * validation : after_or_equal
   * validation : before_or_equal
+  * validation : date_equals : not present
   * validation : dimensions
   * validation : distinct
   * validation : file
@@ -134,6 +139,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * validation : lte
   * validation : not_regex
   * validation : present
+  * validation : starts_with : not present
   * validation : uploaded
   * validation : uuid
 
@@ -187,11 +193,13 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
   * json : Whoops! : not present
   * json : Whoops, something went wrong on our servers. : not present
+  * validation : date_equals : not present
   * validation : gt
   * validation : gte
   * validation : lt
   * validation : lte
   * validation : not_regex
+  * validation : starts_with : not present
   * validation : uuid
 
 [ [to top](#todo-list) ]
@@ -244,11 +252,13 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
   * json : Whoops! : not present
   * json : Whoops, something went wrong on our servers. : not present
+  * validation : date_equals : not present
   * validation : gt
   * validation : gte
   * validation : lt
   * validation : lte
   * validation : not_regex
+  * validation : starts_with : not present
   * validation : uuid
 
 [ [to top](#todo-list) ]
@@ -305,6 +315,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * auth : throttle
   * validation : after_or_equal
   * validation : before_or_equal
+  * validation : date_equals : not present
   * validation : dimensions
   * validation : distinct
   * validation : file
@@ -319,6 +330,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * validation : not_regex
   * validation : present
   * validation : required_unless
+  * validation : starts_with : not present
   * validation : uploaded
   * validation : uuid
 
@@ -372,17 +384,21 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
   * json : Whoops! : not present
   * json : Whoops, something went wrong on our servers. : not present
+  * validation : date_equals : not present
   * validation : gt
   * validation : gte
   * validation : lt
   * validation : lte
   * validation : not_regex
+  * validation : starts_with : not present
   * validation : uuid
 
 [ [to top](#todo-list) ]
 
 #### cs:
 
+  * validation : date_equals : not present
+  * validation : starts_with : not present
 
 [ [to top](#todo-list) ]
 
@@ -438,6 +454,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * auth : throttle
   * validation : after_or_equal
   * validation : before_or_equal
+  * validation : date_equals : not present
   * validation : dimensions
   * validation : distinct
   * validation : file
@@ -452,6 +469,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * validation : not_regex
   * validation : present
   * validation : required_unless
+  * validation : starts_with : not present
   * validation : string
   * validation : uploaded
   * validation : uuid
@@ -506,7 +524,9 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
   * json : Whoops! : not present
   * json : Whoops, something went wrong on our servers. : not present
+  * validation : date_equals : not present
   * validation : not_regex
+  * validation : starts_with : not present
   * validation : uuid
 
 [ [to top](#todo-list) ]
@@ -514,6 +534,8 @@ into your web browser: [:actionURL](:actionURL) : not present
 #### de:
 
   * json : Name
+  * validation : date_equals : not present
+  * validation : starts_with : not present
 
 [ [to top](#todo-list) ]
 
@@ -565,17 +587,23 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
   * json : Whoops! : not present
   * json : Whoops, something went wrong on our servers. : not present
+  * validation : date_equals : not present
+  * validation : starts_with : not present
   * validation : uuid
 
 [ [to top](#todo-list) ]
 
 #### el:
 
+  * validation : date_equals : not present
+  * validation : starts_with : not present
 
 [ [to top](#todo-list) ]
 
 #### es:
 
+  * validation : date_equals : not present
+  * validation : starts_with : not present
 
 [ [to top](#todo-list) ]
 
@@ -627,17 +655,21 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
   * json : Whoops! : not present
   * json : Whoops, something went wrong on our servers. : not present
+  * validation : date_equals : not present
   * validation : gt
   * validation : gte
   * validation : lt
   * validation : lte
   * validation : not_regex
+  * validation : starts_with : not present
   * validation : uuid
 
 [ [to top](#todo-list) ]
 
 #### eu:
 
+  * validation : date_equals : not present
+  * validation : starts_with : not present
 
 [ [to top](#todo-list) ]
 
@@ -689,6 +721,8 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
   * json : Whoops! : not present
   * json : Whoops, something went wrong on our servers. : not present
+  * validation : date_equals : not present
+  * validation : starts_with : not present
   * validation : uuid
 
 [ [to top](#todo-list) ]
@@ -732,12 +766,16 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Verify Email Address : not present
   * json : Verify Your Email Address : not present
   * json : Whoops, something went wrong on our servers. : not present
+  * validation : date_equals : not present
+  * validation : starts_with : not present
   * validation : uuid
 
 [ [to top](#todo-list) ]
 
 #### fr:
 
+  * validation : date_equals : not present
+  * validation : starts_with : not present
 
 [ [to top](#todo-list) ]
 
@@ -789,11 +827,13 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
   * json : Whoops! : not present
   * json : Whoops, something went wrong on our servers. : not present
+  * validation : date_equals : not present
   * validation : dimensions
   * validation : distinct
   * validation : file
   * validation : in_array
   * validation : present
+  * validation : starts_with : not present
   * validation : uuid
 
 [ [to top](#todo-list) ]
@@ -846,11 +886,13 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
   * json : Whoops! : not present
   * json : Whoops, something went wrong on our servers. : not present
+  * validation : date_equals : not present
   * validation : gt
   * validation : gte
   * validation : lt
   * validation : lte
   * validation : not_regex
+  * validation : starts_with : not present
   * validation : uuid
 
 [ [to top](#todo-list) ]
@@ -905,6 +947,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Whoops, something went wrong on our servers. : not present
   * validation : after_or_equal
   * validation : before_or_equal
+  * validation : date_equals : not present
   * validation : dimensions
   * validation : file
   * validation : gt
@@ -915,6 +958,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * validation : lte
   * validation : mimetypes
   * validation : not_regex
+  * validation : starts_with : not present
   * validation : uploaded
   * validation : uuid
 
@@ -954,6 +998,8 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Verify Your Email Address : not present
   * json : Whoops! : not present
   * json : Whoops, something went wrong on our servers. : not present
+  * validation : date_equals : not present
+  * validation : starts_with : not present
   * validation : uuid
 
 [ [to top](#todo-list) ]
@@ -1006,6 +1052,8 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
   * json : Whoops! : not present
   * json : Whoops, something went wrong on our servers. : not present
+  * validation : date_equals : not present
+  * validation : starts_with : not present
   * validation : uuid
 
 [ [to top](#todo-list) ]
@@ -1044,6 +1092,8 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Verify Your Email Address : not present
   * json : Whoops! : not present
   * json : Whoops, something went wrong on our servers. : not present
+  * validation : date_equals : not present
+  * validation : starts_with : not present
   * validation : uuid
 
 [ [to top](#todo-list) ]
@@ -1100,6 +1150,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * auth : throttle
   * validation : after_or_equal
   * validation : before_or_equal
+  * validation : date_equals : not present
   * validation : dimensions
   * validation : distinct
   * validation : file
@@ -1117,6 +1168,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * validation : required_with
   * validation : required_without
   * validation : required_without_all
+  * validation : starts_with : not present
   * validation : string
   * validation : uploaded
   * validation : uuid
@@ -1143,6 +1195,8 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Verify Email Address : not present
   * json : Whoops! : not present
   * json : Whoops, something went wrong on our servers. : not present
+  * validation : date_equals : not present
+  * validation : starts_with : not present
   * validation : uuid
 
 [ [to top](#todo-list) ]
@@ -1195,11 +1249,13 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
   * json : Whoops! : not present
   * json : Whoops, something went wrong on our servers. : not present
+  * validation : date_equals : not present
   * validation : gt
   * validation : gte
   * validation : lt
   * validation : lte
   * validation : not_regex
+  * validation : starts_with : not present
   * validation : uuid
 
 [ [to top](#todo-list) ]
@@ -1238,6 +1294,8 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Verify Your Email Address : not present
   * json : Whoops! : not present
   * json : Whoops, something went wrong on our servers. : not present
+  * validation : date_equals : not present
+  * validation : starts_with : not present
   * validation : uuid
 
 [ [to top](#todo-list) ]
@@ -1292,6 +1350,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Whoops, something went wrong on our servers. : not present
   * validation : after_or_equal
   * validation : before_or_equal
+  * validation : date_equals : not present
   * validation : dimensions
   * validation : file
   * validation : gt
@@ -1302,6 +1361,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * validation : lte
   * validation : mimetypes
   * validation : not_regex
+  * validation : starts_with : not present
   * validation : uploaded
   * validation : uuid
 
@@ -1359,6 +1419,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * auth : throttle
   * validation : after_or_equal
   * validation : before_or_equal
+  * validation : date_equals : not present
   * validation : dimensions
   * validation : distinct
   * validation : file
@@ -1373,6 +1434,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * validation : not_regex
   * validation : present
   * validation : required_unless
+  * validation : starts_with : not present
   * validation : string
   * validation : timezone
   * validation : uploaded
@@ -1414,6 +1476,8 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Verify Your Email Address : not present
   * json : Whoops! : not present
   * json : Whoops, something went wrong on our servers. : not present
+  * validation : date_equals : not present
+  * validation : starts_with : not present
   * validation : uuid
 
 [ [to top](#todo-list) ]
@@ -1468,6 +1532,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Whoops, something went wrong on our servers. : not present
   * validation : after_or_equal
   * validation : before_or_equal
+  * validation : date_equals : not present
   * validation : file
   * validation : gt
   * validation : gte
@@ -1476,6 +1541,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * validation : lt
   * validation : lte
   * validation : not_regex
+  * validation : starts_with : not present
   * validation : uploaded
   * validation : uuid
 
@@ -1529,6 +1595,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
   * json : Whoops! : not present
   * json : Whoops, something went wrong on our servers. : not present
+  * validation : date_equals : not present
   * validation : gt
   * validation : gte
   * validation : ipv4
@@ -1536,6 +1603,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * validation : lt
   * validation : lte
   * validation : not_regex
+  * validation : starts_with : not present
   * validation : uuid
 
 [ [to top](#todo-list) ]
@@ -1590,6 +1658,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Whoops, something went wrong on our servers. : not present
   * validation : after_or_equal
   * validation : before_or_equal
+  * validation : date_equals : not present
   * validation : dimensions
   * validation : file
   * validation : gt
@@ -1599,6 +1668,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * validation : lt
   * validation : lte
   * validation : not_regex
+  * validation : starts_with : not present
   * validation : timezone
   * validation : uploaded
   * validation : uuid
@@ -1657,6 +1727,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * auth : throttle
   * validation : after_or_equal
   * validation : before_or_equal
+  * validation : date_equals : not present
   * validation : dimensions
   * validation : distinct
   * validation : file
@@ -1672,6 +1743,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * validation : present
   * validation : required_unless
   * validation : required_without_all
+  * validation : starts_with : not present
   * validation : string
   * validation : timezone
   * validation : uploaded
@@ -1727,6 +1799,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
   * json : Whoops! : not present
   * json : Whoops, something went wrong on our servers. : not present
+  * validation : date_equals : not present
   * validation : gt
   * validation : gte
   * validation : ipv4
@@ -1737,6 +1810,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * validation : required_without
   * validation : required_without_all
   * validation : same
+  * validation : starts_with : not present
   * validation : uuid
 
 [ [to top](#todo-list) ]
@@ -1745,6 +1819,8 @@ into your web browser: [:actionURL](:actionURL) : not present
 
   * json : Name
   * json : Verify Email Address : not present
+  * validation : date_equals : not present
+  * validation : starts_with : not present
   * validation : uuid
 
 [ [to top](#todo-list) ]
@@ -1797,6 +1873,8 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
   * json : Whoops! : not present
   * json : Whoops, something went wrong on our servers. : not present
+  * validation : date_equals : not present
+  * validation : starts_with : not present
   * validation : uuid
 
 [ [to top](#todo-list) ]
@@ -1851,6 +1929,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Whoops, something went wrong on our servers. : not present
   * validation : after_or_equal
   * validation : before_or_equal
+  * validation : date_equals : not present
   * validation : dimensions
   * validation : distinct
   * validation : file
@@ -1863,6 +1942,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * validation : lte
   * validation : not_regex
   * validation : present
+  * validation : starts_with : not present
   * validation : uploaded
   * validation : uuid
 
@@ -1871,6 +1951,8 @@ into your web browser: [:actionURL](:actionURL) : not present
 #### nl:
 
   * json : Toggle navigation
+  * validation : date_equals : not present
+  * validation : starts_with : not present
   * validation : uuid
 
 [ [to top](#todo-list) ]
@@ -1925,6 +2007,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Whoops, something went wrong on our servers. : not present
   * validation : after_or_equal
   * validation : before_or_equal
+  * validation : date_equals : not present
   * validation : dimensions
   * validation : file
   * validation : gt
@@ -1934,6 +2017,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * validation : lt
   * validation : lte
   * validation : not_regex
+  * validation : starts_with : not present
   * validation : uploaded
   * validation : uuid
 
@@ -1973,6 +2057,8 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Verify Your Email Address : not present
   * json : Whoops! : not present
   * json : Whoops, something went wrong on our servers. : not present
+  * validation : date_equals : not present
+  * validation : starts_with : not present
   * validation : uuid
 
 [ [to top](#todo-list) ]
@@ -2025,17 +2111,21 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
   * json : Whoops! : not present
   * json : Whoops, something went wrong on our servers. : not present
+  * validation : date_equals : not present
   * validation : gt
   * validation : gte
   * validation : lt
   * validation : lte
   * validation : not_regex
+  * validation : starts_with : not present
   * validation : uuid
 
 [ [to top](#todo-list) ]
 
 #### pt-BR:
 
+  * validation : date_equals : not present
+  * validation : starts_with : not present
 
 [ [to top](#todo-list) ]
 
@@ -2087,12 +2177,16 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
   * json : Whoops! : not present
   * json : Whoops, something went wrong on our servers. : not present
+  * validation : date_equals : not present
+  * validation : starts_with : not present
   * validation : uuid
 
 [ [to top](#todo-list) ]
 
 #### ru:
 
+  * validation : date_equals : not present
+  * validation : starts_with : not present
 
 [ [to top](#todo-list) ]
 
@@ -2148,6 +2242,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * auth : throttle
   * validation : after_or_equal
   * validation : before_or_equal
+  * validation : date_equals : not present
   * validation : dimensions
   * validation : distinct
   * validation : file
@@ -2162,6 +2257,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * validation : not_regex
   * validation : present
   * validation : required_unless
+  * validation : starts_with : not present
   * validation : string
   * validation : uploaded
   * validation : uuid
@@ -2170,6 +2266,8 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### sk:
 
+  * validation : date_equals : not present
+  * validation : starts_with : not present
   * validation : uuid
 
 [ [to top](#todo-list) ]
@@ -2222,11 +2320,13 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
   * json : Whoops! : not present
   * json : Whoops, something went wrong on our servers. : not present
+  * validation : date_equals : not present
   * validation : gt
   * validation : gte
   * validation : lt
   * validation : lte
   * validation : not_regex
+  * validation : starts_with : not present
   * validation : uuid
 
 [ [to top](#todo-list) ]
@@ -2283,6 +2383,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * auth : throttle
   * validation : after_or_equal
   * validation : before_or_equal
+  * validation : date_equals : not present
   * validation : dimensions
   * validation : distinct
   * validation : file
@@ -2297,6 +2398,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * validation : not_regex
   * validation : present
   * validation : required_unless
+  * validation : starts_with : not present
   * validation : uploaded
   * validation : uuid
 
@@ -2338,6 +2440,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Whoops, something went wrong on our servers. : not present
   * validation : after_or_equal
   * validation : before_or_equal
+  * validation : date_equals : not present
   * validation : dimensions
   * validation : distinct
   * validation : file
@@ -2352,6 +2455,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * validation : not_regex
   * validation : present
   * validation : required_unless
+  * validation : starts_with : not present
   * validation : uploaded
   * validation : uuid
 
@@ -2405,6 +2509,8 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
   * json : Whoops! : not present
   * json : Whoops, something went wrong on our servers. : not present
+  * validation : date_equals : not present
+  * validation : starts_with : not present
   * validation : uuid
 
 [ [to top](#todo-list) ]
@@ -2459,6 +2565,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Whoops, something went wrong on our servers. : not present
   * validation : after_or_equal
   * validation : before_or_equal
+  * validation : date_equals : not present
   * validation : dimensions
   * validation : file
   * validation : gt
@@ -2469,6 +2576,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * validation : lte
   * validation : mimetypes
   * validation : not_regex
+  * validation : starts_with : not present
   * validation : uploaded
   * validation : uuid
 
@@ -2522,6 +2630,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
   * json : Whoops! : not present
   * json : Whoops, something went wrong on our servers. : not present
+  * validation : date_equals : not present
   * validation : gt
   * validation : gte
   * validation : ipv4
@@ -2529,6 +2638,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * validation : lt
   * validation : lte
   * validation : not_regex
+  * validation : starts_with : not present
   * validation : uuid
 
 [ [to top](#todo-list) ]
@@ -2543,6 +2653,8 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Sorry, you are forbidden from accessing this page. : not present
   * json : Toggle navigation : not present
   * json : Whoops, something went wrong on our servers. : not present
+  * validation : date_equals : not present
+  * validation : starts_with : not present
   * validation : uuid
 
 [ [to top](#todo-list) ]
@@ -2599,6 +2711,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * auth : throttle
   * validation : after_or_equal
   * validation : before_or_equal
+  * validation : date_equals : not present
   * validation : dimensions
   * validation : distinct
   * validation : file
@@ -2613,6 +2726,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * validation : not_regex
   * validation : present
   * validation : required_unless
+  * validation : starts_with : not present
   * validation : string
   * validation : uploaded
   * validation : uuid
@@ -2669,6 +2783,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Whoops, something went wrong on our servers. : not present
   * validation : after_or_equal
   * validation : before_or_equal
+  * validation : date_equals : not present
   * validation : dimensions
   * validation : file
   * validation : gt
@@ -2679,6 +2794,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * validation : lte
   * validation : mimetypes
   * validation : not_regex
+  * validation : starts_with : not present
   * validation : uploaded
   * validation : uuid
 
@@ -2732,10 +2848,12 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
   * json : Whoops! : not present
   * json : Whoops, something went wrong on our servers. : not present
+  * validation : date_equals : not present
   * validation : gt
   * validation : gte
   * validation : lt
   * validation : lte
+  * validation : starts_with : not present
   * validation : uuid
 
 [ [to top](#todo-list) ]
@@ -2788,11 +2906,13 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
   * json : Whoops! : not present
   * json : Whoops, something went wrong on our servers. : not present
+  * validation : date_equals : not present
   * validation : gt
   * validation : gte
   * validation : lt
   * validation : lte
   * validation : not_regex
+  * validation : starts_with : not present
   * validation : uuid
 
 [ [to top](#todo-list) ]
@@ -2800,6 +2920,8 @@ into your web browser: [:actionURL](:actionURL) : not present
 #### uk:
 
   * json : Verify Email Address : not present
+  * validation : date_equals : not present
+  * validation : starts_with : not present
 
 [ [to top](#todo-list) ]
 
@@ -2853,6 +2975,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Whoops, something went wrong on our servers. : not present
   * validation : after_or_equal
   * validation : before_or_equal
+  * validation : date_equals : not present
   * validation : dimensions
   * validation : file
   * validation : gt
@@ -2863,6 +2986,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * validation : lte
   * validation : mimetypes
   * validation : not_regex
+  * validation : starts_with : not present
   * validation : uploaded
   * validation : uuid
 
@@ -2916,11 +3040,13 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
   * json : Whoops! : not present
   * json : Whoops, something went wrong on our servers. : not present
+  * validation : date_equals : not present
   * validation : gt
   * validation : gte
   * validation : lt
   * validation : lte
   * validation : not_regex
+  * validation : starts_with : not present
   * validation : uuid
 
 [ [to top](#todo-list) ]
@@ -2973,16 +3099,20 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
   * json : Whoops! : not present
   * json : Whoops, something went wrong on our servers. : not present
+  * validation : date_equals : not present
   * validation : gt
   * validation : gte
   * validation : lt
   * validation : lte
   * validation : not_regex
+  * validation : starts_with : not present
   * validation : uuid
 
 [ [to top](#todo-list) ]
 
 #### vi:
+
+  * validation : uuid
 
 [ [to top](#todo-list) ]
 
@@ -2993,11 +3123,15 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### zh-HK:
 
+  * validation : date_equals : not present
+  * validation : starts_with : not present
 
 [ [to top](#todo-list) ]
 
 #### zh-TW:
 
+  * validation : date_equals : not present
+  * validation : starts_with : not present
 
 [ [to top](#todo-list) ]
 

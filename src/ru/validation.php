@@ -32,6 +32,7 @@ return [
     'boolean'              => 'Поле :attribute должно иметь значение логического типа.', // калька 'истина' или 'ложь' звучала бы слишком неестественно
     'confirmed'            => 'Поле :attribute не совпадает с подтверждением.',
     'date'                 => 'Поле :attribute не является датой.',
+    'date_equals'          => 'The :attribute must be a date equal to :date.',
     'date_format'          => 'Поле :attribute не соответствует формату :format.',
     'different'            => 'Поля :attribute и :other должны различаться.',
     'digits'               => 'Длина цифрового поля :attribute должна быть :digits.',
@@ -107,6 +108,7 @@ return [
         'string'  => 'Количество символов в поле :attribute должно быть равным :size.',
         'array'   => 'Количество элементов в поле :attribute должно быть равным :size.',
     ],
+    'starts_with'          => 'The :attribute must start with one of the following: :values',
     'string'               => 'Поле :attribute должно быть строкой.',
     'timezone'             => 'Поле :attribute должно быть действительным часовым поясом.',
     'unique'               => 'Такое значение поля :attribute уже существует.',

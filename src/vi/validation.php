@@ -1,6 +1,7 @@
 <?php
 
 return [
+
     /*
     |--------------------------------------------------------------------------
     | Validation Language Lines
@@ -31,6 +32,7 @@ return [
     'boolean'              => 'Trường :attribute phải là true hoặc false.',
     'confirmed'            => 'Giá trị xác nhận trong trường :attribute không khớp.',
     'date'                 => 'Trường :attribute không phải là định dạng của ngày-tháng.',
+    'date_equals'          => 'Trường :attribute phải là một ngày bằng với :date.',
     'date_format'          => 'Trường :attribute không giống với định dạng :format.',
     'different'            => 'Trường :attribute và :other phải khác nhau.',
     'digits'               => 'Độ dài của trường :attribute phải gồm :digits chữ số.',
@@ -106,6 +108,7 @@ return [
         'string'  => 'Trường :attribute phải chứa :size ký tự.',
         'array'   => 'Trường :attribute phải chứa :size phần tử.',
     ],
+    'starts_with'          => 'Trường :attribute phải được bắt đầu bằng một trong những giá trị sau: :values',
     'string'               => 'Trường :attribute phải là một chuỗi ký tự.',
     'timezone'             => 'Trường :attribute phải là một múi giờ hợp lệ.',
     'unique'               => 'Trường :attribute đã có trong cơ sở dữ liệu.',
@@ -141,6 +144,6 @@ return [
     |
     */
 
-    'attributes' => [
-    ],
+    'attributes' => [],
+
 ];

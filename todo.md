@@ -2185,9 +2185,6 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### ru:
 
-  * validation : date_equals
-  * validation : starts_with
-
 [ [to top](#todo-list) ]
 
 #### sc:

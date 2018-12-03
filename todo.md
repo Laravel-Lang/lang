@@ -2919,10 +2919,6 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### uk:
 
-  * json : Verify Email Address : not present
-  * validation : date_equals
-  * validation : starts_with
-
 [ [to top](#todo-list) ]
 
 #### ur:

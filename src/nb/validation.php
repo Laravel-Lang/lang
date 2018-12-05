@@ -31,7 +31,7 @@ return [
     'boolean'              => ':attribute må være sann eller usann',
     'confirmed'            => ':attribute er ikke likt bekreftelsesfeltet.',
     'date'                 => ':attribute er ikke en gyldig dato.',
-    'date_equals'          => 'The :attribute must be a date equal to :date.',
+    'date_equals'          => ':attribute må være en dato lik :date.',
     'date_format'          => ':attribute samsvarer ikke med formatet :format.',
     'different'            => ':attribute og :other må være forskellige.',
     'digits'               => ':attribute må ha :digits siffer.',
@@ -107,13 +107,13 @@ return [
         'string'  => ':attribute må være :size tegn lang.',
         'array'   => ':attribute må inneholde :size elementer.',
     ],
-    'starts_with'          => 'The :attribute must start with one of the following: :values',
+    'starts_with'          => ':attribute må begynne med en av følgende: :values',
     'string'               => ':attribute må være en tekststreng.',
     'timezone'             => ':attribute må være en gyldig tidssone.',
     'unique'               => ':attribute er allerede i bruk.',
     'uploaded'             => ':attribute kunne ikke lastes opp.',
     'url'                  => 'Formatet på :attribute er ugyldig.',
-    'uuid'                 => 'The :attribute must be a valid UUID.',
+    'uuid'                 => ':attribute må være en gyldig UUID.',
 
     /*
     |--------------------------------------------------------------------------

@@ -1804,11 +1804,6 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### ms:
 
-  * json : Name
-  * json : Verify Email Address : not present
-  * validation : date_equals
-  * validation : starts_with
-  * validation : uuid
 
 [ [to top](#todo-list) ]
 

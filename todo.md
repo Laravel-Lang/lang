@@ -12,8 +12,6 @@
 
 #### ar:
 
-  * validation : date_equals
-  * validation : starts_with
 
 [ [to top](#todo-list) ]
 
@@ -1804,6 +1802,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### ms:
 
+  * json : Verify Email Address : not present
 
 [ [to top](#todo-list) ]
 

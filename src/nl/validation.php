@@ -31,7 +31,7 @@ return [
     'boolean'              => ':attribute moet ja of nee zijn.',
     'confirmed'            => ':attribute bevestiging komt niet overeen.',
     'date'                 => ':attribute moet een datum bevatten.',
-    'date_equals'          => 'The :attribute must be a date equal to :date.',
+    'date_equals'          => ':attribute moet een datum gelijk aan :date zijn.',
     'date_format'          => ':attribute moet een geldig datum formaat bevatten.',
     'different'            => ':attribute en :other moeten verschillend zijn.',
     'digits'               => ':attribute moet bestaan uit :digits cijfers.',
@@ -107,13 +107,13 @@ return [
         'string'  => ':attribute moet :size tekens zijn.',
         'array'   => ':attribute moet :size items bevatten.',
     ],
-    'starts_with'          => 'The :attribute must start with one of the following: :values',
+    'starts_with'          => ':attribute moet starten met een van de volgende: :values',
     'string'               => ':attribute moet een tekst zijn.',
     'timezone'             => ':attribute moet een geldige tijdzone zijn.',
     'unique'               => ':attribute is al in gebruik.',
     'uploaded'             => 'Het uploaden van :attribute is mislukt.',
-    'url'                  => ':attribute is geen geldige URL.',
-    'uuid'                 => 'The :attribute must be a valid UUID.',
+    'url'                  => ':attribute moet een geen geldig URL zijn.',
+    'uuid'                 => ':attribute moet een geldig UUID zijn.',
 
     /*
     |--------------------------------------------------------------------------

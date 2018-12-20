@@ -1883,9 +1883,6 @@ into your web browser: [:actionURL](:actionURL) : not present
 #### nl:
 
   * json : Toggle navigation
-  * validation : date_equals
-  * validation : starts_with
-  * validation : uuid
 
 [ [to top](#todo-list) ]
 

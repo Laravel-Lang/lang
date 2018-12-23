@@ -1,0 +1,16 @@
+{
+  "Confirm Password": "Şifre Onayı",
+  "E-Mail Address": "E-posta Adresi",
+  "Forgot Your Password?": "Şifrenizi mi Unuttunuz?",
+  "If you did not request a password reset, no further action is required.": "Şifre talebinde bulunmadıysanız, bu mesajı güvenle silebilirsiniz.",
+  "Login": "Giriş",
+  "Logout": "Çıkış",
+  "Name": "İsim",
+  "Password": "Şifre",
+  "Register": "Kayıt Ol",
+  "Remember Me": "Beni Hatırla",
+  "Reset Password": "Şifre Sıfırlama",
+  "Reset Password Notification": "Şifremi Unuttum Bildirimi",
+  "Send Password Reset Link": "Şifremi Unuttum Bildirimi Gönder",
+  "You are receiving this email because we received a password reset request for your account.": "Şifrenizi unuttuğunuzu belirttiğiniz için bu sıfırlama mesajı gönderilmiştir."
+}

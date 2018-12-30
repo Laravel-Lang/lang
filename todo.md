@@ -1882,8 +1882,6 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### nl:
 
-  * json : Toggle navigation
-
 [ [to top](#todo-list) ]
 
 #### nn:

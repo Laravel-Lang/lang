@@ -108,7 +108,7 @@ return [
         'array'   => 'يجب أن يحتوي :attribute على :size عنصرٍ/عناصر بالضبط.',
     ],
     'starts_with'          => 'يجب أن يبدأ :attribute بأحد القيم التالية: :values',
-    'string'               => 'يجب أن يكون :attribute نصآ.',
+    'string'               => 'يجب أن يكون :attribute نصًا.',
     'timezone'             => 'يجب أن يكون :attribute نطاقًا زمنيًا صحيحًا.',
     'unique'               => 'قيمة :attribute مُستخدمة من قبل.',
     'uploaded'             => 'فشل في تحميل الـ :attribute.',

@@ -8,7 +8,7 @@
   "Name": "이름",
   "Password": "비밀번호",
   "Register": "회원가입",
-  "Remember Me": "ID 저장",
+  "Remember Me": "로그인 상태 유지",
   "Reset Password": "비밀번호 재설정",
   "Reset Password Notification": "비밀번호 재설정 알림",
   "Send Password Reset Link": "비밀번호 재설정 링크 보내기",

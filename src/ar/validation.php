@@ -33,7 +33,7 @@ return [
     'date'                 => ':attribute ليس تاريخًا صحيحًا.',
     'date_equals'          => 'يجب أن يكون :attribute مطابقاً للتاريخ :date.',
     'date_format'          => 'لا يتوافق :attribute مع الشكل :format.',
-    'different'            => 'يجب أن يكون الحقلان :attribute و :other مُختلفان.',
+    'different'            => 'يجب أن يكون الحقلان :attribute و :other مُختلفين.',
     'digits'               => 'يجب أن يحتوي :attribute على :digits رقمًا/أرقام.',
     'digits_between'       => 'يجب أن يحتوي :attribute بين :min و :max رقمًا/أرقام .',
     'dimensions'           => 'الـ :attribute يحتوي على أبعاد صورة غير صالحة.',

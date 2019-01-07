@@ -600,8 +600,6 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### es:
 
-  * validation : date_equals
-  * validation : starts_with
 
 [ [to top](#todo-list) ]
 
@@ -772,8 +770,6 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### fr:
 
-  * validation : date_equals
-  * validation : starts_with
 
 [ [to top](#todo-list) ]
 
@@ -1881,6 +1877,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 
 #### nl:
+
 
 [ [to top](#todo-list) ]
 

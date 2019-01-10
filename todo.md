@@ -3006,8 +3006,6 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### zh-TW:
 
-  * validation : date_equals
-  * validation : starts_with
 
 [ [to top](#todo-list) ]
 

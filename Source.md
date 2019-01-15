@@ -162,7 +162,7 @@ Japanese (ja)
 * [Hirohisa Kawase](https://github.com/HiroKws)
 * [Yuya Takahashi](https://github.com/takahashiyuya)
 * [Jumilla](https://github.com/jumilla)
-* [Kieshi Mitsuhashi](https://github.com/xenbeat)
+* [Keishi Mitsuhashi](https://github.com/xenbeat)
 
 Korean (ko)
 

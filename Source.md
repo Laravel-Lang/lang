@@ -221,6 +221,7 @@ Russian (ru)
 
 * [Evgeny Kovalev](https://github.com/EvgenyKovalev)
 * [Vasily Tsybenko](https://github.com/VasayXTX)
+* [Andrey Helldar](https://github.com/andrey-helldar)
 
 Sardinian (sc)
 

@@ -1966,8 +1966,6 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### pt-BR:
 
-  * validation : date_equals
-  * validation : starts_with
 
 [ [to top](#todo-list) ]
 

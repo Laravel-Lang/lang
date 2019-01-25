@@ -87,7 +87,7 @@ class TodoGenerator
     {
         $contentJson = '';
 
-        $directoryJson = ($language == 'en') ? '/en/' : '/../json/';
+        $directoryJson = ('en' === $language) ? '/en/' : '/../json/';
 
         $fileJson = $directory.$directoryJson.$language.'.json';
 
@@ -96,10 +96,10 @@ class TodoGenerator
         }
 
         return [
-            'json'       => $contentJson,
-            'auth'       => include($directory.'/'.$language.'/auth.php'),
+            'json' => $contentJson,
+            'auth' => include($directory.'/'.$language.'/auth.php'),
             'pagination' => include($directory.'/'.$language.'/pagination.php'),
-            'passwords'  => include($directory.'/'.$language.'/passwords.php'),
+            'passwords' => include($directory.'/'.$language.'/passwords.php'),
             'validation' => include($directory.'/'.$language.'/validation.php'),
         ];
     }
@@ -157,7 +157,7 @@ class TodoGenerator
      * Adding elements to the resulting array.
      *
      * @param string      $key
-     * @param string|null $value
+     * @param null|string $value
      */
     private function addOutput(string $key, string $value = null)
     {
@@ -183,12 +183,12 @@ class TodoGenerator
         $captions = implode('|', array_fill(0, $columns, ' '));
         $subcaptions = implode('|', array_fill(0, $columns, ':---:'));
 
-        $output .= "|$captions|\n";
-        $output .= "|$subcaptions|\n";
+        $output .= "|${captions}|\n";
+        $output .= "|${subcaptions}|\n";
 
         $menu = [];
         foreach (array_keys($this->output) as $language) {
-            $menu[] = "[$language](#$language)";
+            $menu[] = "[${language}](#${language})";
         }
 
         $rows = array_chunk($menu, $columns);

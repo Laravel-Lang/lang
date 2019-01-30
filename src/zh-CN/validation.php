@@ -17,7 +17,7 @@ return [
     'after'                => ':attribute 必须要晚于 :date。',
     'after_or_equal'       => ':attribute 必须要等于 :date 或更晚。',
     'alpha'                => ':attribute 只能由字母组成。',
-    'alpha_dash'           => ':attribute 只能由字母、数字和斜杠组成。',
+    'alpha_dash'           => ':attribute 只能由字母、数字、短划线(-)和下划线(_)组成。',
     'alpha_num'            => ':attribute 只能由字母和数字组成。',
     'array'                => ':attribute 必须是一个数组。',
     'before'               => ':attribute 必须要早于 :date。',

@@ -12,6 +12,7 @@
 
 #### ar:
 
+  * json : This password reset link will expire in :count minutes. : not present
 
 [ [to top](#todo-list) ]
 
@@ -55,6 +56,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Sorry, you are not authorized to access this page. : not present
   * json : Sorry, your session has expired. Please refresh and try again. : not present
   * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
@@ -114,6 +116,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Sorry, you are not authorized to access this page. : not present
   * json : Sorry, your session has expired. Please refresh and try again. : not present
   * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
@@ -183,6 +186,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Sorry, you are not authorized to access this page. : not present
   * json : Sorry, your session has expired. Please refresh and try again. : not present
   * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
@@ -242,6 +246,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Sorry, you are not authorized to access this page. : not present
   * json : Sorry, your session has expired. Please refresh and try again. : not present
   * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
@@ -301,6 +306,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Sorry, you are not authorized to access this page. : not present
   * json : Sorry, your session has expired. Please refresh and try again. : not present
   * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
@@ -374,6 +380,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Sorry, you are not authorized to access this page. : not present
   * json : Sorry, your session has expired. Please refresh and try again. : not present
   * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
@@ -395,6 +402,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### cs:
 
+  * json : This password reset link will expire in :count minutes. : not present
   * validation : date_equals
   * validation : starts_with
 
@@ -440,6 +448,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Sorry, you are not authorized to access this page. : not present
   * json : Sorry, your session has expired. Please refresh and try again. : not present
   * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
@@ -514,6 +523,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Sorry, you are not authorized to access this page. : not present
   * json : Sorry, your session has expired. Please refresh and try again. : not present
   * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
@@ -532,6 +542,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 #### de:
 
   * json : Name
+  * json : This password reset link will expire in :count minutes. : not present
   * validation : date_equals
   * validation : starts_with
 
@@ -577,6 +588,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Sorry, you are not authorized to access this page. : not present
   * json : Sorry, your session has expired. Please refresh and try again. : not present
   * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
@@ -593,6 +605,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### el:
 
+  * json : This password reset link will expire in :count minutes. : not present
   * validation : date_equals
   * validation : starts_with
 
@@ -643,6 +656,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Sorry, you are not authorized to access this page. : not present
   * json : Sorry, your session has expired. Please refresh and try again. : not present
   * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
@@ -664,6 +678,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### eu:
 
+  * json : This password reset link will expire in :count minutes. : not present
   * validation : date_equals
   * validation : starts_with
 
@@ -709,6 +724,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Sorry, you are not authorized to access this page. : not present
   * json : Sorry, your session has expired. Please refresh and try again. : not present
   * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
@@ -756,6 +772,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Sorry, you are not authorized to access this page. : not present
   * json : Sorry, your session has expired. Please refresh and try again. : not present
   * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
@@ -770,6 +787,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### fr:
 
+  * json : This password reset link will expire in :count minutes. : not present
 
 [ [to top](#todo-list) ]
 
@@ -813,6 +831,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Sorry, you are not authorized to access this page. : not present
   * json : Sorry, your session has expired. Please refresh and try again. : not present
   * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
@@ -872,6 +891,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Sorry, you are not authorized to access this page. : not present
   * json : Sorry, your session has expired. Please refresh and try again. : not present
   * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
@@ -931,6 +951,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Sorry, you are not authorized to access this page. : not present
   * json : Sorry, your session has expired. Please refresh and try again. : not present
   * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
@@ -985,6 +1006,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Sorry, you are not authorized to access this page. : not present
   * json : Sorry, your session has expired. Please refresh and try again. : not present
   * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
@@ -1038,6 +1060,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Sorry, you are not authorized to access this page. : not present
   * json : Sorry, your session has expired. Please refresh and try again. : not present
   * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
@@ -1079,6 +1102,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Sorry, you are not authorized to access this page. : not present
   * json : Sorry, your session has expired. Please refresh and try again. : not present
   * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
@@ -1132,6 +1156,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Sorry, you are not authorized to access this page. : not present
   * json : Sorry, your session has expired. Please refresh and try again. : not present
   * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
@@ -1174,11 +1199,13 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : click here to request another : not present
   * json : Oh no
   * json : Password
+  * json : This password reset link will expire in :count minutes. : not present
 
 [ [to top](#todo-list) ]
 
 #### ja:
 
+  * json : This password reset link will expire in :count minutes. : not present
 
 [ [to top](#todo-list) ]
 
@@ -1209,6 +1236,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Sorry, you are not authorized to access this page. : not present
   * json : Sorry, your session has expired. Please refresh and try again. : not present
   * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
@@ -1262,6 +1290,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Sorry, you are not authorized to access this page. : not present
   * json : Sorry, your session has expired. Please refresh and try again. : not present
   * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
@@ -1329,6 +1358,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Sorry, you are not authorized to access this page. : not present
   * json : Sorry, your session has expired. Please refresh and try again. : not present
   * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
@@ -1391,6 +1421,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Sorry, you are not authorized to access this page. : not present
   * json : Sorry, your session has expired. Please refresh and try again. : not present
   * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
@@ -1444,6 +1475,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Sorry, you are not authorized to access this page. : not present
   * json : Sorry, your session has expired. Please refresh and try again. : not present
   * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
@@ -1496,6 +1528,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Sorry, you are not authorized to access this page. : not present
   * json : Sorry, your session has expired. Please refresh and try again. : not present
   * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
@@ -1557,6 +1590,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Sorry, you are not authorized to access this page. : not present
   * json : Sorry, your session has expired. Please refresh and try again. : not present
   * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
@@ -1624,6 +1658,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Sorry, you are not authorized to access this page. : not present
   * json : Sorry, your session has expired. Please refresh and try again. : not present
   * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
@@ -1700,6 +1735,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Sorry, you are not authorized to access this page. : not present
   * json : Sorry, your session has expired. Please refresh and try again. : not present
   * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
@@ -1726,12 +1762,14 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### ms:
 
+  * json : This password reset link will expire in :count minutes. : not present
   * json : Verify Email Address : not present
 
 [ [to top](#todo-list) ]
 
 #### nb:
 
+  * json : This password reset link will expire in :count minutes. : not present
 
 [ [to top](#todo-list) ]
 
@@ -1775,6 +1813,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Sorry, you are not authorized to access this page. : not present
   * json : Sorry, your session has expired. Please refresh and try again. : not present
   * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
@@ -1849,6 +1888,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Sorry, you are not authorized to access this page. : not present
   * json : Sorry, your session has expired. Please refresh and try again. : not present
   * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
@@ -1882,6 +1922,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: [:actionURL](:actionURL) : not present
   * json : Regards : not present
+  * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
   * json : Unauthorized : not present
 
@@ -1927,6 +1968,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Sorry, you are not authorized to access this page. : not present
   * json : Sorry, your session has expired. Please refresh and try again. : not present
   * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
@@ -1948,6 +1990,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### pt-BR:
 
+  * json : This password reset link will expire in :count minutes. : not present
 
 [ [to top](#todo-list) ]
 
@@ -1991,6 +2034,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Sorry, you are not authorized to access this page. : not present
   * json : Sorry, your session has expired. Please refresh and try again. : not present
   * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
@@ -2007,6 +2051,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### ru:
 
+  * json : This password reset link will expire in :count minutes. : not present
 
 [ [to top](#todo-list) ]
 
@@ -2050,6 +2095,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Sorry, you are not authorized to access this page. : not present
   * json : Sorry, your session has expired. Please refresh and try again. : not present
   * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
@@ -2086,6 +2132,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### sk:
 
+  * json : This password reset link will expire in :count minutes. : not present
 
 [ [to top](#todo-list) ]
 
@@ -2129,6 +2176,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Sorry, you are not authorized to access this page. : not present
   * json : Sorry, your session has expired. Please refresh and try again. : not present
   * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
@@ -2188,6 +2236,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Sorry, you are not authorized to access this page. : not present
   * json : Sorry, your session has expired. Please refresh and try again. : not present
   * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
@@ -2248,6 +2297,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Sorry, you are not authorized to access this page. : not present
   * json : Sorry, your session has expired. Please refresh and try again. : not present
   * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
@@ -2318,6 +2368,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Sorry, you are not authorized to access this page. : not present
   * json : Sorry, your session has expired. Please refresh and try again. : not present
   * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
@@ -2372,6 +2423,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Sorry, you are not authorized to access this page. : not present
   * json : Sorry, your session has expired. Please refresh and try again. : not present
   * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
@@ -2439,6 +2491,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Sorry, you are not authorized to access this page. : not present
   * json : Sorry, your session has expired. Please refresh and try again. : not present
   * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
@@ -2468,6 +2521,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 into your web browser: [:actionURL](:actionURL) : not present
   * json : Regards : not present
   * json : Sorry, you are forbidden from accessing this page. : not present
+  * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
   * json : Whoops, something went wrong on our servers. : not present
   * validation : date_equals
@@ -2516,6 +2570,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Sorry, you are not authorized to access this page. : not present
   * json : Sorry, your session has expired. Please refresh and try again. : not present
   * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
@@ -2590,6 +2645,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Sorry, you are not authorized to access this page. : not present
   * json : Sorry, your session has expired. Please refresh and try again. : not present
   * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
@@ -2644,6 +2700,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Sorry, you are not authorized to access this page. : not present
   * json : Sorry, your session has expired. Please refresh and try again. : not present
   * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
@@ -2701,6 +2758,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Sorry, you are not authorized to access this page. : not present
   * json : Sorry, your session has expired. Please refresh and try again. : not present
   * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
@@ -2722,6 +2780,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### uk:
 
+  * json : This password reset link will expire in :count minutes. : not present
 
 [ [to top](#todo-list) ]
 
@@ -2752,6 +2811,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Sorry, you are not authorized to access this page. : not present
   * json : Sorry, your session has expired. Please refresh and try again. : not present
   * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
@@ -2818,6 +2878,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Sorry, you are not authorized to access this page. : not present
   * json : Sorry, your session has expired. Please refresh and try again. : not present
   * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
@@ -2877,6 +2938,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Sorry, you are not authorized to access this page. : not present
   * json : Sorry, your session has expired. Please refresh and try again. : not present
   * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
@@ -2898,16 +2960,19 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### vi:
 
+  * json : This password reset link will expire in :count minutes. : not present
 
 [ [to top](#todo-list) ]
 
 #### zh-CN:
 
+  * json : This password reset link will expire in :count minutes. : not present
 
 [ [to top](#todo-list) ]
 
 #### zh-HK:
 
+  * json : This password reset link will expire in :count minutes. : not present
   * validation : date_equals
   * validation : starts_with
 
@@ -2915,6 +2980,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### zh-TW:
 
+  * json : This password reset link will expire in :count minutes. : not present
 
 [ [to top](#todo-list) ]
 

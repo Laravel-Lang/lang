@@ -36,6 +36,7 @@
   "Sorry, you are not authorized to access this page.": "Sorry, je bent niet geautoriseerd om toegang te krijgen tot deze pagina.",
   "Sorry, your session has expired. Please refresh and try again.": "Sorry, je sessie is verlopen. Herlaad de pagina en probeer het opnieuw.",
   "Sorry, we are doing some maintenance. Please check back soon.": "Sorry, we zijn op dit moment bezig met onderhoud. Probeer het binnenkort opnieuw.",
+  "This password reset link will expire in :count minutes.": "Deze wachtwoord herstel link verloopt over :count minuten.",
   "Toggle navigation": "Aan/uitzetten navigatie",
   "Too Many Requests": "Te veel verzoeken",
   "Unauthorized": "Onbevoegd",

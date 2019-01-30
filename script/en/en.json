@@ -36,6 +36,7 @@
   "Sorry, you are not authorized to access this page.": "Sorry, you are not authorized to access this page.",
   "Sorry, your session has expired. Please refresh and try again.": "Sorry, your session has expired. Please refresh and try again.",
   "Sorry, we are doing some maintenance. Please check back soon.": "Sorry, we are doing some maintenance. Please check back soon.",
+  "This password reset link will expire in :count minutes.": "This password reset link will expire in :count minutes.",
   "Toggle navigation": "Toggle navigation",
   "Too Many Requests": "Too Many Requests",
   "Unauthorized": "Unauthorized",

@@ -36,6 +36,7 @@
   "Sorry, you are not authorized to access this page.": "Lo sentimos, no estás autorizado para acceder a esta página.",
   "Sorry, your session has expired. Please refresh and try again.": "Lo sentimos, tu sesión ha expirado. Por favor, actualice y vuelva a intentarlo.",
   "Sorry, we are doing some maintenance. Please check back soon.": "Lo sentimos, estamos haciendo un poco de mantenimiento. Por favor, vuelva pronto.",
+  "This password reset link will expire in :count minutes.": "Este enlace de restablecimiento de contraseña caducará en :count minutos.",
   "Toggle navigation": "Activar navegación",
   "Too Many Requests": "Demansiadas peticiones",
   "Unauthorized": "No autorizado",

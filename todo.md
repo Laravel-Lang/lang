@@ -787,7 +787,6 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### fr:
 
-  * json : This password reset link will expire in :count minutes. : not present
 
 [ [to top](#todo-list) ]
 

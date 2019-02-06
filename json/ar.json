@@ -36,6 +36,7 @@
     "Sorry, you are not authorized to access this page.": "عذرًا، أنت غير مصرح لك بالوصول إلى هذه الصفحة.",
     "Sorry, your session has expired. Please refresh and try again.": "عذرًا، لقد انتهت صلاحية جلستك. يرجى التحديث والمحاولة مرة أخرى.",
     "Sorry, we are doing some maintenance. Please check back soon.": "عذرًا، نقوم ببعض الصيانة حالياً. الرجاء التحقق مرة أخرى قريباً.",
+    "This password reset link will expire in :count minutes.": "ستنتهي صلاحية رابط استعادة كلمة المرور خلال :count دقيقة.",
     "Toggle navigation": "إظهار/إخفاء القائمة",
     "Too Many Requests": "طلبات كثيرة جدًا",
     "Unauthorized": "غير مصرح",

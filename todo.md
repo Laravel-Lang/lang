@@ -12,7 +12,6 @@
 
 #### ar:
 
-  * json : This password reset link will expire in :count minutes. : not present
 
 [ [to top](#todo-list) ]
 

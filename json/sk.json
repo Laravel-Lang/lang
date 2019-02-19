@@ -36,6 +36,7 @@
   "Sorry, you are not authorized to access this page.": "Je nám to ľúto, ale na túto stránku nemáte oprávnenie.",
   "Sorry, your session has expired. Please refresh and try again.": "Je nám to ľúto, ale Vaša relácia vypršala. Prosím aktualizujte stránku a skúste to znovu.",
   "Sorry, we are doing some maintenance. Please check back soon.": "Je nám to ľúto, ale momentálne prebieha údržba. Skúste to prosím neskôr.",
+  "This password reset link will expire in :count minutes.": "Platnosť resetovacieho odkazu je limitovaná v minútach (:count min)",
   "Toggle navigation": "Prepnúť navigáciu",
   "Too Many Requests": "Príliš veľa požiadaviek",
   "Unauthorized": "Neautorizované",

@@ -1297,22 +1297,6 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
   * json : Whoops! : not present
   * json : Whoops, something went wrong on our servers. : not present
-  * validation : after_or_equal
-  * validation : before_or_equal
-  * validation : date_equals
-  * validation : dimensions
-  * validation : file
-  * validation : gt
-  * validation : gte
-  * validation : ipv4
-  * validation : ipv6
-  * validation : lt
-  * validation : lte
-  * validation : mimetypes
-  * validation : not_regex
-  * validation : starts_with
-  * validation : uploaded
-  * validation : uuid
 
 [ [to top](#todo-list) ]
 

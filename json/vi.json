@@ -36,6 +36,7 @@
   "Sorry, you are not authorized to access this page.": "Xin lỗi, bạn không được phép truy cập trang này.",
   "Sorry, your session has expired. Please refresh and try again.": "Xin lỗi, phiên của bạn đã hết hạn. Vui lòng làm mới và thử lại.",
   "Sorry, we are doing some maintenance. Please check back soon.": "Rất tiếc, chúng tôi đang thực hiện một số bảo trì. Vui lòng thử lại sau.",
+  "This password reset link will expire in :count minutes.": "Đường dẫn lấy lại mật khẩu sẽ hết hạn trong :count phút.",
   "Toggle navigation": "Chuyển hướng điều hướng",
   "Too Many Requests": "Quá Nhiều Yêu Cầu",
   "Unauthorized": "Không Được Phép",

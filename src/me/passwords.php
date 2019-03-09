@@ -12,7 +12,7 @@ return [
     |
     */
 
-    'password' => 'Password mora biti dugačak najmanje 6 karaktera i biti isti kao password u polju za potvrdu.',
+    'password' => 'Password mora biti dugačak najmanje 8 karaktera i biti isti kao password u polju za potvrdu.',
     'reset'    => 'Vaš password je resetovan!',
     'sent'     => 'Poslali smo Vam link za reset Vašeg password-a!',
     'token'    => 'Token za reset ovog passworda nije validan.',

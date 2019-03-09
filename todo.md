@@ -2894,8 +2894,6 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### vi:
 
-  * json : This password reset link will expire in :count minutes. : not present
-
 [ [to top](#todo-list) ]
 
 #### zh-CN:

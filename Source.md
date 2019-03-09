@@ -299,3 +299,4 @@ Vietnamese (vi)
 
 * [anhsaker](https://github.com/anhsaker)
 * [Nguyễn Văn Ánh](https://github.com/anhskohbo)
+* [Đinh Quốc Hân](https://github.com/dinhquochan)

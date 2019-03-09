@@ -1926,7 +1926,6 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### pt-BR:
 
-  * json : This password reset link will expire in :count minutes. : not present
 
 [ [to top](#todo-list) ]
 
@@ -2918,4 +2917,3 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : This password reset link will expire in :count minutes. : not present
 
 [ [to top](#todo-list) ]
-

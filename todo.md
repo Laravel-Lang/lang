@@ -541,7 +541,6 @@ into your web browser: [:actionURL](:actionURL) : not present
 #### de:
 
   * json : Name
-  * json : This password reset link will expire in :count minutes. : not present
   * validation : date_equals
   * validation : starts_with
 

@@ -50,7 +50,7 @@ return [
     ],
     'gte'                  => [
         'numeric' => ':attribute musi być większy lub równy :value.',
-        'file'    => ':attribute musi być większy lub równy :value kijobajtów.',
+        'file'    => ':attribute musi być większy lub równy :value kilobajtów.',
         'string'  => ':attribute musi być dłuższy lub równy :value znaków.',
         'array'   => ':attribute musi mieć :value lub więcej elementów.',
     ],
@@ -64,13 +64,13 @@ return [
     'json'                 => ':attribute musi być poprawnym ciągiem znaków JSON.',
     'lt'                   => [
         'numeric' => ':attribute musi być mniejszy niż :value.',
-        'file'    => ':attribute musi być mniejszy niż :value kijobajtów.',
+        'file'    => ':attribute musi być mniejszy niż :value kilobajtów.',
         'string'  => ':attribute musi być krótszy niż :value znaków.',
         'array'   => ':attribute musi mieć mniej niż :value elementów.',
     ],
     'lte'                  => [
         'numeric' => ':attribute musi być mniejszy lub równy :value.',
-        'file'    => ':attribute musi być mniejszy lub równy :value kijobajtów.',
+        'file'    => ':attribute musi być mniejszy lub równy :value kilobajtów.',
         'string'  => ':attribute musi być krótszy lub równy :value znaków.',
         'array'   => ':attribute musi mieć :value lub mniej elementów.',
     ],

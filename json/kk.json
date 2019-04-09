@@ -36,6 +36,7 @@
   "Sorry, you are not authorized to access this page.": "Кешіріңіз, сізге осы бетке кіруге болмайды.",
   "Sorry, your session has expired. Please refresh and try again.": "Кешіріңіз, сессия мерзімі аяқталды. Әрекетті жаңартып, қайталаңыз.",
   "Sorry, we are doing some maintenance. Please check back soon.": "Кешіріңіз, біз кейбір жұмыстар жасап жатырмыз. Кейінірек кіріңіз.",
+  "This password reset link will expire in :count minutes.": "Құпия сөзді қалпына келтіру сілтемесінің қолданылу мерзімі :count минуттан кейін аяқталады.",
   "Toggle navigation": "Навигацияны ауыстыру",
   "Too Many Requests": "Тым көп сұраулар",
   "Unauthorized": "Авторизацияланған жоқ",

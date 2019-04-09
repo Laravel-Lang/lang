@@ -4,10 +4,15 @@
 
 In this repository, you can find the lang files for the framework PHP, [Laravel 4&5](http://www.laravel.com).
 
+## Help us
+
+    With [Laravel 5.8](https://github.com/caouecs/Laravel-lang/issues/1007), we must update passwords file, with the numbers of characters for the password, in `laravel58` branch.
+
 ## Install
 
 #### Via Composer
-* For Laravel 5.* : run `composer require caouecs/laravel-lang:~3.0` in your project folder
+* For Laravel 5.8 : run `composer require caouecs/laravel-lang:dev-laravel58` in your project folder
+* For Laravel 5.1-7 : run `composer require caouecs/laravel-lang:~3.0` in your project folder
 * For Laravel 5 : run `composer require caouecs/laravel-lang:~2.0` in your project folder
 * For Laravel 4 : run `composer require caouecs/laravel-lang:~1.0` in your project folder
 * Files of languages are in "vendor/caouecs/laravel-lang" directory

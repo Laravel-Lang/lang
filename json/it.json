@@ -35,12 +35,13 @@
     "Sorry, you are not authorized to access this page.": "Siamo spiacenti, non sei autorizzato ad accedere a questa pagina.",
     "Sorry, your session has expired. Please refresh and try again.": "Siamo spiacenti, la tua sessione è scaduta. Ricarica la pagina e prova di nuovo.",
     "Sorry, we are doing some maintenance. Please check back soon.": "Siamo spiacenti, siamo in fase di manutenzione. Torna presto.",
+    "This password reset link will expire in :count minutes.": "Questo link di reset della password scadrà tra :count minuti.",
     "Toggle navigation": "Cambia navigazione",
     "Too Many Requests": "Troppe richieste",
     "Unauthorized": "Non autorizzato",
     "Verify Your Email Address": "Verifica il tuo indirizzo Email",
     "Verify Email Address": "Verifica indirizzo Email",
-    "Whoops!": "Osp!",
+    "Whoops!": "Ops!",
     "Whoops, something went wrong on our servers.": "Ops, qualcosa non ha funzionato sui nostri server.",
     "You are receiving this email because we received a password reset request for your account.": "Hai ricevuto questa email perché abbiamo ricevuto una richiesta di reset della password per il tuo account."
   }

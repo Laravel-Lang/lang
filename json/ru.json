@@ -36,6 +36,7 @@
   "Sorry, you are not authorized to access this page.": "К сожалению, у вас нет доступа к этой странице.",
   "Sorry, your session has expired. Please refresh and try again.": "К сожалению, срок действия вашей сессии истек. Обновите и повторите попытку.",
   "Sorry, we are doing some maintenance. Please check back soon.": "Извините, мы проводим некоторые работы. Пожалуйста, зайдите позже.",
+  "This password reset link will expire in :count minutes.": "Срок действия ссылки для сброса пароля истекает через :count минут.",
   "Toggle navigation": "Переключить навигацию",
   "Too Many Requests": "Слишком много запросов",
   "Unauthorized": "Не авторизован",

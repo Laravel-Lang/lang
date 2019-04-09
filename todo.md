@@ -1248,8 +1248,6 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### kk:
 
-  * json : This password reset link will expire in :count minutes. : not present
-
 [ [to top](#todo-list) ]
 
 #### km:

@@ -1197,7 +1197,6 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : click here to request another : not present
   * json : Oh no
   * json : Password
-  * json : This password reset link will expire in :count minutes. : not present
 
 [ [to top](#todo-list) ]
 

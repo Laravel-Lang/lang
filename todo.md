@@ -12,6 +12,12 @@
 
 #### ar:
 
+  * json : Invalid signature. : not present
+  * json : Not Found : not present
+  * json : Server Error : not present
+  * json : This action is unauthorized. : not present
+  * json : Too Many Attempts. : not present
+  * json : Your email address is not verified. : not present
 
 [ [to top](#todo-list) ]
 
@@ -23,23 +29,22 @@
   * json : click here to request another : not present
   * json : Confirm Password : not present
   * json : E-Mail Address : not present
-  * json : Error : not present
   * json : Forbidden : not present
   * json : Forgot Your Password? : not present
   * json : Go Home : not present
   * json : Hello! : not present
-  * json : hi : not present
   * json : If you did not create an account, no further action is required. : not present
   * json : If you did not receive the email : not present
   * json : If you did not request a password reset, no further action is required. : not present
   * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: [:actionURL](:actionURL) : not present
+  * json : Invalid signature. : not present
   * json : Login : not present
   * json : Logout : not present
   * json : Name : not present
+  * json : Not Found : not present
   * json : Oh no : not present
   * json : Page Expired : not present
-  * json : Page Not Found : not present
   * json : Password : not present
   * json : Please click the button below to verify your email address. : not present
   * json : Regards : not present
@@ -48,22 +53,19 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Reset Password : not present
   * json : Reset Password Notification : not present
   * json : Send Password Reset Link : not present
+  * json : Server Error : not present
   * json : Service Unavailable : not present
-  * json : Sorry, the page you are looking for could not be found. : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Sorry, you are making too many requests to our servers. : not present
-  * json : Sorry, you are not authorized to access this page. : not present
-  * json : Sorry, your session has expired. Please refresh and try again. : not present
-  * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
+  * json : Too Many Attempts. : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Email Address : not present
   * json : Verify Your Email Address : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
+  * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * json : Whoops, something went wrong on our servers. : not present
   * validation : date_equals
   * validation : gt
   * validation : gte
@@ -83,23 +85,22 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : click here to request another : not present
   * json : Confirm Password : not present
   * json : E-Mail Address : not present
-  * json : Error : not present
   * json : Forbidden : not present
   * json : Forgot Your Password? : not present
   * json : Go Home : not present
   * json : Hello! : not present
-  * json : hi : not present
   * json : If you did not create an account, no further action is required. : not present
   * json : If you did not receive the email : not present
   * json : If you did not request a password reset, no further action is required. : not present
   * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: [:actionURL](:actionURL) : not present
+  * json : Invalid signature. : not present
   * json : Login : not present
   * json : Logout : not present
   * json : Name : not present
+  * json : Not Found : not present
   * json : Oh no : not present
   * json : Page Expired : not present
-  * json : Page Not Found : not present
   * json : Password : not present
   * json : Please click the button below to verify your email address. : not present
   * json : Regards : not present
@@ -108,22 +109,19 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Reset Password : not present
   * json : Reset Password Notification : not present
   * json : Send Password Reset Link : not present
+  * json : Server Error : not present
   * json : Service Unavailable : not present
-  * json : Sorry, the page you are looking for could not be found. : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Sorry, you are making too many requests to our servers. : not present
-  * json : Sorry, you are not authorized to access this page. : not present
-  * json : Sorry, your session has expired. Please refresh and try again. : not present
-  * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
+  * json : Too Many Attempts. : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Email Address : not present
   * json : Verify Your Email Address : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
+  * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * json : Whoops, something went wrong on our servers. : not present
   * validation : after_or_equal
   * validation : before_or_equal
   * validation : date_equals
@@ -153,23 +151,22 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : click here to request another : not present
   * json : Confirm Password : not present
   * json : E-Mail Address : not present
-  * json : Error : not present
   * json : Forbidden : not present
   * json : Forgot Your Password? : not present
   * json : Go Home : not present
   * json : Hello! : not present
-  * json : hi : not present
   * json : If you did not create an account, no further action is required. : not present
   * json : If you did not receive the email : not present
   * json : If you did not request a password reset, no further action is required. : not present
   * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: [:actionURL](:actionURL) : not present
+  * json : Invalid signature. : not present
   * json : Login : not present
   * json : Logout : not present
   * json : Name : not present
+  * json : Not Found : not present
   * json : Oh no : not present
   * json : Page Expired : not present
-  * json : Page Not Found : not present
   * json : Password : not present
   * json : Please click the button below to verify your email address. : not present
   * json : Regards : not present
@@ -178,22 +175,19 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Reset Password : not present
   * json : Reset Password Notification : not present
   * json : Send Password Reset Link : not present
+  * json : Server Error : not present
   * json : Service Unavailable : not present
-  * json : Sorry, the page you are looking for could not be found. : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Sorry, you are making too many requests to our servers. : not present
-  * json : Sorry, you are not authorized to access this page. : not present
-  * json : Sorry, your session has expired. Please refresh and try again. : not present
-  * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
+  * json : Too Many Attempts. : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Email Address : not present
   * json : Verify Your Email Address : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
+  * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * json : Whoops, something went wrong on our servers. : not present
   * validation : date_equals
   * validation : gt
   * validation : gte
@@ -213,23 +207,22 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : click here to request another : not present
   * json : Confirm Password : not present
   * json : E-Mail Address : not present
-  * json : Error : not present
   * json : Forbidden : not present
   * json : Forgot Your Password? : not present
   * json : Go Home : not present
   * json : Hello! : not present
-  * json : hi : not present
   * json : If you did not create an account, no further action is required. : not present
   * json : If you did not receive the email : not present
   * json : If you did not request a password reset, no further action is required. : not present
   * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: [:actionURL](:actionURL) : not present
+  * json : Invalid signature. : not present
   * json : Login : not present
   * json : Logout : not present
   * json : Name : not present
+  * json : Not Found : not present
   * json : Oh no : not present
   * json : Page Expired : not present
-  * json : Page Not Found : not present
   * json : Password : not present
   * json : Please click the button below to verify your email address. : not present
   * json : Regards : not present
@@ -238,22 +231,19 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Reset Password : not present
   * json : Reset Password Notification : not present
   * json : Send Password Reset Link : not present
+  * json : Server Error : not present
   * json : Service Unavailable : not present
-  * json : Sorry, the page you are looking for could not be found. : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Sorry, you are making too many requests to our servers. : not present
-  * json : Sorry, you are not authorized to access this page. : not present
-  * json : Sorry, your session has expired. Please refresh and try again. : not present
-  * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
+  * json : Too Many Attempts. : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Email Address : not present
   * json : Verify Your Email Address : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
+  * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * json : Whoops, something went wrong on our servers. : not present
   * validation : date_equals
   * validation : gt
   * validation : gte
@@ -273,23 +263,22 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : click here to request another : not present
   * json : Confirm Password : not present
   * json : E-Mail Address : not present
-  * json : Error : not present
   * json : Forbidden : not present
   * json : Forgot Your Password? : not present
   * json : Go Home : not present
   * json : Hello! : not present
-  * json : hi : not present
   * json : If you did not create an account, no further action is required. : not present
   * json : If you did not receive the email : not present
   * json : If you did not request a password reset, no further action is required. : not present
   * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: [:actionURL](:actionURL) : not present
+  * json : Invalid signature. : not present
   * json : Login : not present
   * json : Logout : not present
   * json : Name : not present
+  * json : Not Found : not present
   * json : Oh no : not present
   * json : Page Expired : not present
-  * json : Page Not Found : not present
   * json : Password : not present
   * json : Please click the button below to verify your email address. : not present
   * json : Regards : not present
@@ -298,22 +287,19 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Reset Password : not present
   * json : Reset Password Notification : not present
   * json : Send Password Reset Link : not present
+  * json : Server Error : not present
   * json : Service Unavailable : not present
-  * json : Sorry, the page you are looking for could not be found. : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Sorry, you are making too many requests to our servers. : not present
-  * json : Sorry, you are not authorized to access this page. : not present
-  * json : Sorry, your session has expired. Please refresh and try again. : not present
-  * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
+  * json : Too Many Attempts. : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Email Address : not present
   * json : Verify Your Email Address : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
+  * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * json : Whoops, something went wrong on our servers. : not present
   * auth : failed
   * auth : throttle
   * validation : after_or_equal
@@ -347,23 +333,22 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : click here to request another : not present
   * json : Confirm Password : not present
   * json : E-Mail Address : not present
-  * json : Error : not present
   * json : Forbidden : not present
   * json : Forgot Your Password? : not present
   * json : Go Home : not present
   * json : Hello! : not present
-  * json : hi : not present
   * json : If you did not create an account, no further action is required. : not present
   * json : If you did not receive the email : not present
   * json : If you did not request a password reset, no further action is required. : not present
   * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: [:actionURL](:actionURL) : not present
+  * json : Invalid signature. : not present
   * json : Login : not present
   * json : Logout : not present
   * json : Name : not present
+  * json : Not Found : not present
   * json : Oh no : not present
   * json : Page Expired : not present
-  * json : Page Not Found : not present
   * json : Password : not present
   * json : Please click the button below to verify your email address. : not present
   * json : Regards : not present
@@ -372,22 +357,19 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Reset Password : not present
   * json : Reset Password Notification : not present
   * json : Send Password Reset Link : not present
+  * json : Server Error : not present
   * json : Service Unavailable : not present
-  * json : Sorry, the page you are looking for could not be found. : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Sorry, you are making too many requests to our servers. : not present
-  * json : Sorry, you are not authorized to access this page. : not present
-  * json : Sorry, your session has expired. Please refresh and try again. : not present
-  * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
+  * json : Too Many Attempts. : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Email Address : not present
   * json : Verify Your Email Address : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
+  * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * json : Whoops, something went wrong on our servers. : not present
   * validation : date_equals
   * validation : gt
   * validation : gte
@@ -401,7 +383,13 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### cs:
 
+  * json : Invalid signature. : not present
+  * json : Not Found : not present
+  * json : Server Error : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
+  * json : Too Many Attempts. : not present
+  * json : Your email address is not verified. : not present
   * validation : date_equals
   * validation : starts_with
 
@@ -415,23 +403,22 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : click here to request another : not present
   * json : Confirm Password : not present
   * json : E-Mail Address : not present
-  * json : Error : not present
   * json : Forbidden : not present
   * json : Forgot Your Password? : not present
   * json : Go Home : not present
   * json : Hello! : not present
-  * json : hi : not present
   * json : If you did not create an account, no further action is required. : not present
   * json : If you did not receive the email : not present
   * json : If you did not request a password reset, no further action is required. : not present
   * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: [:actionURL](:actionURL) : not present
+  * json : Invalid signature. : not present
   * json : Login : not present
   * json : Logout : not present
   * json : Name : not present
+  * json : Not Found : not present
   * json : Oh no : not present
   * json : Page Expired : not present
-  * json : Page Not Found : not present
   * json : Password : not present
   * json : Please click the button below to verify your email address. : not present
   * json : Regards : not present
@@ -440,22 +427,19 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Reset Password : not present
   * json : Reset Password Notification : not present
   * json : Send Password Reset Link : not present
+  * json : Server Error : not present
   * json : Service Unavailable : not present
-  * json : Sorry, the page you are looking for could not be found. : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Sorry, you are making too many requests to our servers. : not present
-  * json : Sorry, you are not authorized to access this page. : not present
-  * json : Sorry, your session has expired. Please refresh and try again. : not present
-  * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
+  * json : Too Many Attempts. : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Email Address : not present
   * json : Verify Your Email Address : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
+  * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * json : Whoops, something went wrong on our servers. : not present
   * auth : failed
   * auth : throttle
   * validation : after_or_equal
@@ -490,23 +474,22 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : click here to request another : not present
   * json : Confirm Password : not present
   * json : E-Mail Address : not present
-  * json : Error : not present
   * json : Forbidden : not present
   * json : Forgot Your Password? : not present
   * json : Go Home : not present
   * json : Hello! : not present
-  * json : hi : not present
   * json : If you did not create an account, no further action is required. : not present
   * json : If you did not receive the email : not present
   * json : If you did not request a password reset, no further action is required. : not present
   * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: [:actionURL](:actionURL) : not present
+  * json : Invalid signature. : not present
   * json : Login : not present
   * json : Logout : not present
   * json : Name : not present
+  * json : Not Found : not present
   * json : Oh no : not present
   * json : Page Expired : not present
-  * json : Page Not Found : not present
   * json : Password : not present
   * json : Please click the button below to verify your email address. : not present
   * json : Regards : not present
@@ -515,22 +498,19 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Reset Password : not present
   * json : Reset Password Notification : not present
   * json : Send Password Reset Link : not present
+  * json : Server Error : not present
   * json : Service Unavailable : not present
-  * json : Sorry, the page you are looking for could not be found. : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Sorry, you are making too many requests to our servers. : not present
-  * json : Sorry, you are not authorized to access this page. : not present
-  * json : Sorry, your session has expired. Please refresh and try again. : not present
-  * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
+  * json : Too Many Attempts. : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Email Address : not present
   * json : Verify Your Email Address : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
+  * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * json : Whoops, something went wrong on our servers. : not present
   * validation : date_equals
   * validation : not_regex
   * validation : starts_with
@@ -540,8 +520,14 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### de:
 
+  * json : Invalid signature. : not present
   * json : Name
+  * json : Not Found : not present
+  * json : Server Error : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
+  * json : Too Many Attempts. : not present
+  * json : Your email address is not verified. : not present
   * validation : date_equals
   * validation : starts_with
 
@@ -555,23 +541,22 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : click here to request another : not present
   * json : Confirm Password : not present
   * json : E-Mail Address : not present
-  * json : Error : not present
   * json : Forbidden : not present
   * json : Forgot Your Password? : not present
   * json : Go Home : not present
   * json : Hello! : not present
-  * json : hi : not present
   * json : If you did not create an account, no further action is required. : not present
   * json : If you did not receive the email : not present
   * json : If you did not request a password reset, no further action is required. : not present
   * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: [:actionURL](:actionURL) : not present
+  * json : Invalid signature. : not present
   * json : Login : not present
   * json : Logout : not present
   * json : Name : not present
+  * json : Not Found : not present
   * json : Oh no : not present
   * json : Page Expired : not present
-  * json : Page Not Found : not present
   * json : Password : not present
   * json : Please click the button below to verify your email address. : not present
   * json : Regards : not present
@@ -580,22 +565,19 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Reset Password : not present
   * json : Reset Password Notification : not present
   * json : Send Password Reset Link : not present
+  * json : Server Error : not present
   * json : Service Unavailable : not present
-  * json : Sorry, the page you are looking for could not be found. : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Sorry, you are making too many requests to our servers. : not present
-  * json : Sorry, you are not authorized to access this page. : not present
-  * json : Sorry, your session has expired. Please refresh and try again. : not present
-  * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
+  * json : Too Many Attempts. : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Email Address : not present
   * json : Verify Your Email Address : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
+  * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * json : Whoops, something went wrong on our servers. : not present
   * validation : date_equals
   * validation : starts_with
   * validation : uuid
@@ -604,7 +586,13 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### el:
 
+  * json : Invalid signature. : not present
+  * json : Not Found : not present
+  * json : Server Error : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
+  * json : Too Many Attempts. : not present
+  * json : Your email address is not verified. : not present
   * validation : date_equals
   * validation : starts_with
 
@@ -612,6 +600,12 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### es:
 
+  * json : Invalid signature. : not present
+  * json : Not Found : not present
+  * json : Server Error : not present
+  * json : This action is unauthorized. : not present
+  * json : Too Many Attempts. : not present
+  * json : Your email address is not verified. : not present
 
 [ [to top](#todo-list) ]
 
@@ -623,23 +617,22 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : click here to request another : not present
   * json : Confirm Password : not present
   * json : E-Mail Address : not present
-  * json : Error : not present
   * json : Forbidden : not present
   * json : Forgot Your Password? : not present
   * json : Go Home : not present
   * json : Hello! : not present
-  * json : hi : not present
   * json : If you did not create an account, no further action is required. : not present
   * json : If you did not receive the email : not present
   * json : If you did not request a password reset, no further action is required. : not present
   * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: [:actionURL](:actionURL) : not present
+  * json : Invalid signature. : not present
   * json : Login : not present
   * json : Logout : not present
   * json : Name : not present
+  * json : Not Found : not present
   * json : Oh no : not present
   * json : Page Expired : not present
-  * json : Page Not Found : not present
   * json : Password : not present
   * json : Please click the button below to verify your email address. : not present
   * json : Regards : not present
@@ -648,22 +641,19 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Reset Password : not present
   * json : Reset Password Notification : not present
   * json : Send Password Reset Link : not present
+  * json : Server Error : not present
   * json : Service Unavailable : not present
-  * json : Sorry, the page you are looking for could not be found. : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Sorry, you are making too many requests to our servers. : not present
-  * json : Sorry, you are not authorized to access this page. : not present
-  * json : Sorry, your session has expired. Please refresh and try again. : not present
-  * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
+  * json : Too Many Attempts. : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Email Address : not present
   * json : Verify Your Email Address : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
+  * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * json : Whoops, something went wrong on our servers. : not present
   * validation : date_equals
   * validation : gt
   * validation : gte
@@ -677,7 +667,13 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### eu:
 
+  * json : Invalid signature. : not present
+  * json : Not Found : not present
+  * json : Server Error : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
+  * json : Too Many Attempts. : not present
+  * json : Your email address is not verified. : not present
   * validation : date_equals
   * validation : starts_with
 
@@ -691,23 +687,22 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : click here to request another : not present
   * json : Confirm Password : not present
   * json : E-Mail Address : not present
-  * json : Error : not present
   * json : Forbidden : not present
   * json : Forgot Your Password? : not present
   * json : Go Home : not present
   * json : Hello! : not present
-  * json : hi : not present
   * json : If you did not create an account, no further action is required. : not present
   * json : If you did not receive the email : not present
   * json : If you did not request a password reset, no further action is required. : not present
   * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: [:actionURL](:actionURL) : not present
+  * json : Invalid signature. : not present
   * json : Login : not present
   * json : Logout : not present
   * json : Name : not present
+  * json : Not Found : not present
   * json : Oh no : not present
   * json : Page Expired : not present
-  * json : Page Not Found : not present
   * json : Password : not present
   * json : Please click the button below to verify your email address. : not present
   * json : Regards : not present
@@ -716,22 +711,19 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Reset Password : not present
   * json : Reset Password Notification : not present
   * json : Send Password Reset Link : not present
+  * json : Server Error : not present
   * json : Service Unavailable : not present
-  * json : Sorry, the page you are looking for could not be found. : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Sorry, you are making too many requests to our servers. : not present
-  * json : Sorry, you are not authorized to access this page. : not present
-  * json : Sorry, your session has expired. Please refresh and try again. : not present
-  * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
+  * json : Too Many Attempts. : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Email Address : not present
   * json : Verify Your Email Address : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
+  * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * json : Whoops, something went wrong on our servers. : not present
   * validation : date_equals
   * validation : starts_with
   * validation : uuid
@@ -746,38 +738,34 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : click here to request another : not present
   * json : Confirm Password : not present
   * json : E-Mail Address : not present
-  * json : Error : not present
   * json : Forbidden : not present
   * json : Forgot Your Password? : not present
   * json : Go Home : not present
-  * json : hi : not present
   * json : If you did not create an account, no further action is required. : not present
   * json : If you did not receive the email : not present
+  * json : Invalid signature. : not present
   * json : Login : not present
   * json : Logout : not present
   * json : Name : not present
+  * json : Not Found : not present
   * json : Oh no : not present
   * json : Page Expired : not present
-  * json : Page Not Found : not present
   * json : Password : not present
   * json : Please click the button below to verify your email address. : not present
   * json : Register : not present
   * json : Remember Me : not present
   * json : Send Password Reset Link : not present
+  * json : Server Error : not present
   * json : Service Unavailable : not present
-  * json : Sorry, the page you are looking for could not be found. : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Sorry, you are making too many requests to our servers. : not present
-  * json : Sorry, you are not authorized to access this page. : not present
-  * json : Sorry, your session has expired. Please refresh and try again. : not present
-  * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
+  * json : Too Many Attempts. : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Email Address : not present
   * json : Verify Your Email Address : not present
-  * json : Whoops, something went wrong on our servers. : not present
+  * json : Your email address is not verified. : not present
   * validation : date_equals
   * validation : starts_with
   * validation : uuid
@@ -786,6 +774,12 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### fr:
 
+  * json : Invalid signature. : not present
+  * json : Not Found : not present
+  * json : Server Error : not present
+  * json : This action is unauthorized. : not present
+  * json : Too Many Attempts. : not present
+  * json : Your email address is not verified. : not present
 
 [ [to top](#todo-list) ]
 
@@ -797,23 +791,22 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : click here to request another : not present
   * json : Confirm Password : not present
   * json : E-Mail Address : not present
-  * json : Error : not present
   * json : Forbidden : not present
   * json : Forgot Your Password? : not present
   * json : Go Home : not present
   * json : Hello! : not present
-  * json : hi : not present
   * json : If you did not create an account, no further action is required. : not present
   * json : If you did not receive the email : not present
   * json : If you did not request a password reset, no further action is required. : not present
   * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: [:actionURL](:actionURL) : not present
+  * json : Invalid signature. : not present
   * json : Login : not present
   * json : Logout : not present
   * json : Name : not present
+  * json : Not Found : not present
   * json : Oh no : not present
   * json : Page Expired : not present
-  * json : Page Not Found : not present
   * json : Password : not present
   * json : Please click the button below to verify your email address. : not present
   * json : Regards : not present
@@ -822,22 +815,19 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Reset Password : not present
   * json : Reset Password Notification : not present
   * json : Send Password Reset Link : not present
+  * json : Server Error : not present
   * json : Service Unavailable : not present
-  * json : Sorry, the page you are looking for could not be found. : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Sorry, you are making too many requests to our servers. : not present
-  * json : Sorry, you are not authorized to access this page. : not present
-  * json : Sorry, your session has expired. Please refresh and try again. : not present
-  * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
+  * json : Too Many Attempts. : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Email Address : not present
   * json : Verify Your Email Address : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
+  * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * json : Whoops, something went wrong on our servers. : not present
   * validation : date_equals
   * validation : dimensions
   * validation : distinct
@@ -857,23 +847,22 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : click here to request another : not present
   * json : Confirm Password : not present
   * json : E-Mail Address : not present
-  * json : Error : not present
   * json : Forbidden : not present
   * json : Forgot Your Password? : not present
   * json : Go Home : not present
   * json : Hello! : not present
-  * json : hi : not present
   * json : If you did not create an account, no further action is required. : not present
   * json : If you did not receive the email : not present
   * json : If you did not request a password reset, no further action is required. : not present
   * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: [:actionURL](:actionURL) : not present
+  * json : Invalid signature. : not present
   * json : Login : not present
   * json : Logout : not present
   * json : Name : not present
+  * json : Not Found : not present
   * json : Oh no : not present
   * json : Page Expired : not present
-  * json : Page Not Found : not present
   * json : Password : not present
   * json : Please click the button below to verify your email address. : not present
   * json : Regards : not present
@@ -882,22 +871,19 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Reset Password : not present
   * json : Reset Password Notification : not present
   * json : Send Password Reset Link : not present
+  * json : Server Error : not present
   * json : Service Unavailable : not present
-  * json : Sorry, the page you are looking for could not be found. : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Sorry, you are making too many requests to our servers. : not present
-  * json : Sorry, you are not authorized to access this page. : not present
-  * json : Sorry, your session has expired. Please refresh and try again. : not present
-  * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
+  * json : Too Many Attempts. : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Email Address : not present
   * json : Verify Your Email Address : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
+  * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * json : Whoops, something went wrong on our servers. : not present
   * validation : date_equals
   * validation : gt
   * validation : gte
@@ -917,23 +903,22 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : click here to request another : not present
   * json : Confirm Password : not present
   * json : E-Mail Address : not present
-  * json : Error : not present
   * json : Forbidden : not present
   * json : Forgot Your Password? : not present
   * json : Go Home : not present
   * json : Hello! : not present
-  * json : hi : not present
   * json : If you did not create an account, no further action is required. : not present
   * json : If you did not receive the email : not present
   * json : If you did not request a password reset, no further action is required. : not present
   * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: [:actionURL](:actionURL) : not present
+  * json : Invalid signature. : not present
   * json : Login : not present
   * json : Logout : not present
   * json : Name : not present
+  * json : Not Found : not present
   * json : Oh no : not present
   * json : Page Expired : not present
-  * json : Page Not Found : not present
   * json : Password : not present
   * json : Please click the button below to verify your email address. : not present
   * json : Regards : not present
@@ -942,22 +927,19 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Reset Password : not present
   * json : Reset Password Notification : not present
   * json : Send Password Reset Link : not present
+  * json : Server Error : not present
   * json : Service Unavailable : not present
-  * json : Sorry, the page you are looking for could not be found. : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Sorry, you are making too many requests to our servers. : not present
-  * json : Sorry, you are not authorized to access this page. : not present
-  * json : Sorry, your session has expired. Please refresh and try again. : not present
-  * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
+  * json : Too Many Attempts. : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Email Address : not present
   * json : Verify Your Email Address : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
+  * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * json : Whoops, something went wrong on our servers. : not present
   * validation : after_or_equal
   * validation : before_or_equal
   * validation : date_equals
@@ -983,35 +965,31 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : All rights reserved. : not present
   * json : Before proceeding, please check your email for a verification link. : not present
   * json : click here to request another : not present
-  * json : Error : not present
   * json : Forbidden : not present
   * json : Go Home : not present
   * json : Hello! : not present
-  * json : hi : not present
   * json : If you did not create an account, no further action is required. : not present
   * json : If you did not receive the email : not present
   * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: [:actionURL](:actionURL) : not present
+  * json : Invalid signature. : not present
+  * json : Not Found : not present
   * json : Oh no : not present
   * json : Page Expired : not present
-  * json : Page Not Found : not present
   * json : Please click the button below to verify your email address. : not present
   * json : Regards : not present
+  * json : Server Error : not present
   * json : Service Unavailable : not present
-  * json : Sorry, the page you are looking for could not be found. : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Sorry, you are making too many requests to our servers. : not present
-  * json : Sorry, you are not authorized to access this page. : not present
-  * json : Sorry, your session has expired. Please refresh and try again. : not present
-  * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
+  * json : Too Many Attempts. : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Email Address : not present
   * json : Verify Your Email Address : not present
+  * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * json : Whoops, something went wrong on our servers. : not present
   * validation : date_equals
   * validation : starts_with
   * validation : uuid
@@ -1026,23 +1004,22 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : click here to request another : not present
   * json : Confirm Password : not present
   * json : E-Mail Address : not present
-  * json : Error : not present
   * json : Forbidden : not present
   * json : Forgot Your Password? : not present
   * json : Go Home : not present
   * json : Hello! : not present
-  * json : hi : not present
   * json : If you did not create an account, no further action is required. : not present
   * json : If you did not receive the email : not present
   * json : If you did not request a password reset, no further action is required. : not present
   * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: [:actionURL](:actionURL) : not present
+  * json : Invalid signature. : not present
   * json : Login : not present
   * json : Logout : not present
   * json : Name : not present
+  * json : Not Found : not present
   * json : Oh no : not present
   * json : Page Expired : not present
-  * json : Page Not Found : not present
   * json : Password : not present
   * json : Please click the button below to verify your email address. : not present
   * json : Regards : not present
@@ -1051,22 +1028,19 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Reset Password : not present
   * json : Reset Password Notification : not present
   * json : Send Password Reset Link : not present
+  * json : Server Error : not present
   * json : Service Unavailable : not present
-  * json : Sorry, the page you are looking for could not be found. : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Sorry, you are making too many requests to our servers. : not present
-  * json : Sorry, you are not authorized to access this page. : not present
-  * json : Sorry, your session has expired. Please refresh and try again. : not present
-  * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
+  * json : Too Many Attempts. : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Email Address : not present
   * json : Verify Your Email Address : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
+  * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * json : Whoops, something went wrong on our servers. : not present
   * validation : date_equals
   * validation : starts_with
   * validation : uuid
@@ -1079,35 +1053,31 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : All rights reserved. : not present
   * json : Before proceeding, please check your email for a verification link. : not present
   * json : click here to request another : not present
-  * json : Error : not present
   * json : Forbidden : not present
   * json : Go Home : not present
   * json : Hello! : not present
-  * json : hi : not present
   * json : If you did not create an account, no further action is required. : not present
   * json : If you did not receive the email : not present
   * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: [:actionURL](:actionURL) : not present
+  * json : Invalid signature. : not present
+  * json : Not Found : not present
   * json : Oh no : not present
   * json : Page Expired : not present
-  * json : Page Not Found : not present
   * json : Please click the button below to verify your email address. : not present
   * json : Regards : not present
+  * json : Server Error : not present
   * json : Service Unavailable : not present
-  * json : Sorry, the page you are looking for could not be found. : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Sorry, you are making too many requests to our servers. : not present
-  * json : Sorry, you are not authorized to access this page. : not present
-  * json : Sorry, your session has expired. Please refresh and try again. : not present
-  * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
+  * json : Too Many Attempts. : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Email Address : not present
   * json : Verify Your Email Address : not present
+  * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * json : Whoops, something went wrong on our servers. : not present
   * validation : date_equals
   * validation : starts_with
   * validation : uuid
@@ -1122,23 +1092,22 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : click here to request another : not present
   * json : Confirm Password : not present
   * json : E-Mail Address : not present
-  * json : Error : not present
   * json : Forbidden : not present
   * json : Forgot Your Password? : not present
   * json : Go Home : not present
   * json : Hello! : not present
-  * json : hi : not present
   * json : If you did not create an account, no further action is required. : not present
   * json : If you did not receive the email : not present
   * json : If you did not request a password reset, no further action is required. : not present
   * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: [:actionURL](:actionURL) : not present
+  * json : Invalid signature. : not present
   * json : Login : not present
   * json : Logout : not present
   * json : Name : not present
+  * json : Not Found : not present
   * json : Oh no : not present
   * json : Page Expired : not present
-  * json : Page Not Found : not present
   * json : Password : not present
   * json : Please click the button below to verify your email address. : not present
   * json : Regards : not present
@@ -1147,22 +1116,19 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Reset Password : not present
   * json : Reset Password Notification : not present
   * json : Send Password Reset Link : not present
+  * json : Server Error : not present
   * json : Service Unavailable : not present
-  * json : Sorry, the page you are looking for could not be found. : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Sorry, you are making too many requests to our servers. : not present
-  * json : Sorry, you are not authorized to access this page. : not present
-  * json : Sorry, your session has expired. Please refresh and try again. : not present
-  * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
+  * json : Too Many Attempts. : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Email Address : not present
   * json : Verify Your Email Address : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
+  * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * json : Whoops, something went wrong on our servers. : not present
   * auth : failed
   * auth : throttle
   * validation : after_or_equal
@@ -1195,14 +1161,26 @@ into your web browser: [:actionURL](:actionURL) : not present
 #### it:
 
   * json : click here to request another : not present
+  * json : Invalid signature. : not present
+  * json : Not Found : not present
   * json : Oh no
   * json : Password
+  * json : Server Error : not present
+  * json : This action is unauthorized. : not present
+  * json : Too Many Attempts. : not present
+  * json : Your email address is not verified. : not present
 
 [ [to top](#todo-list) ]
 
 #### ja:
 
+  * json : Invalid signature. : not present
+  * json : Not Found : not present
+  * json : Server Error : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
+  * json : Too Many Attempts. : not present
+  * json : Your email address is not verified. : not present
 
 [ [to top](#todo-list) ]
 
@@ -1212,35 +1190,31 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : All rights reserved. : not present
   * json : Before proceeding, please check your email for a verification link. : not present
   * json : click here to request another : not present
-  * json : Error : not present
   * json : Forbidden : not present
   * json : Go Home : not present
   * json : Hello! : not present
-  * json : hi : not present
   * json : If you did not create an account, no further action is required. : not present
   * json : If you did not receive the email : not present
   * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: [:actionURL](:actionURL) : not present
+  * json : Invalid signature. : not present
+  * json : Not Found : not present
   * json : Oh no : not present
   * json : Page Expired : not present
-  * json : Page Not Found : not present
   * json : Please click the button below to verify your email address. : not present
   * json : Regards : not present
+  * json : Server Error : not present
   * json : Service Unavailable : not present
-  * json : Sorry, the page you are looking for could not be found. : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Sorry, you are making too many requests to our servers. : not present
-  * json : Sorry, you are not authorized to access this page. : not present
-  * json : Sorry, your session has expired. Please refresh and try again. : not present
-  * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
+  * json : Too Many Attempts. : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Email Address : not present
   * json : Verify Your Email Address : not present
+  * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * json : Whoops, something went wrong on our servers. : not present
   * validation : date_equals
   * validation : starts_with
   * validation : uuid
@@ -1249,7 +1223,13 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### kk:
 
+  * json : Invalid signature. : not present
+  * json : Not Found : not present
+  * json : Server Error : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
+  * json : Too Many Attempts. : not present
+  * json : Your email address is not verified. : not present
 
 [ [to top](#todo-list) ]
 
@@ -1261,23 +1241,22 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : click here to request another : not present
   * json : Confirm Password : not present
   * json : E-Mail Address : not present
-  * json : Error : not present
   * json : Forbidden : not present
   * json : Forgot Your Password? : not present
   * json : Go Home : not present
   * json : Hello! : not present
-  * json : hi : not present
   * json : If you did not create an account, no further action is required. : not present
   * json : If you did not receive the email : not present
   * json : If you did not request a password reset, no further action is required. : not present
   * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: [:actionURL](:actionURL) : not present
+  * json : Invalid signature. : not present
   * json : Login : not present
   * json : Logout : not present
   * json : Name : not present
+  * json : Not Found : not present
   * json : Oh no : not present
   * json : Page Expired : not present
-  * json : Page Not Found : not present
   * json : Password : not present
   * json : Please click the button below to verify your email address. : not present
   * json : Regards : not present
@@ -1286,22 +1265,19 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Reset Password : not present
   * json : Reset Password Notification : not present
   * json : Send Password Reset Link : not present
+  * json : Server Error : not present
   * json : Service Unavailable : not present
-  * json : Sorry, the page you are looking for could not be found. : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Sorry, you are making too many requests to our servers. : not present
-  * json : Sorry, you are not authorized to access this page. : not present
-  * json : Sorry, your session has expired. Please refresh and try again. : not present
-  * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
+  * json : Too Many Attempts. : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Email Address : not present
   * json : Verify Your Email Address : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
+  * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * json : Whoops, something went wrong on our servers. : not present
   * auth : failed
   * auth : throttle
   * validation : after_or_equal
@@ -1337,23 +1313,22 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : click here to request another : not present
   * json : Confirm Password : not present
   * json : E-Mail Address : not present
-  * json : Error : not present
   * json : Forbidden : not present
   * json : Forgot Your Password? : not present
   * json : Go Home : not present
   * json : Hello! : not present
-  * json : hi : not present
   * json : If you did not create an account, no further action is required. : not present
   * json : If you did not receive the email : not present
   * json : If you did not request a password reset, no further action is required. : not present
   * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: [:actionURL](:actionURL) : not present
+  * json : Invalid signature. : not present
   * json : Login : not present
   * json : Logout : not present
   * json : Name : not present
+  * json : Not Found : not present
   * json : Oh no : not present
   * json : Page Expired : not present
-  * json : Page Not Found : not present
   * json : Password : not present
   * json : Please click the button below to verify your email address. : not present
   * json : Regards : not present
@@ -1362,22 +1337,19 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Reset Password : not present
   * json : Reset Password Notification : not present
   * json : Send Password Reset Link : not present
+  * json : Server Error : not present
   * json : Service Unavailable : not present
-  * json : Sorry, the page you are looking for could not be found. : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Sorry, you are making too many requests to our servers. : not present
-  * json : Sorry, you are not authorized to access this page. : not present
-  * json : Sorry, your session has expired. Please refresh and try again. : not present
-  * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
+  * json : Too Many Attempts. : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Email Address : not present
   * json : Verify Your Email Address : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
+  * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * json : Whoops, something went wrong on our servers. : not present
 
 [ [to top](#todo-list) ]
 
@@ -1387,35 +1359,31 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : All rights reserved. : not present
   * json : Before proceeding, please check your email for a verification link. : not present
   * json : click here to request another : not present
-  * json : Error : not present
   * json : Forbidden : not present
   * json : Go Home : not present
   * json : Hello! : not present
-  * json : hi : not present
   * json : If you did not create an account, no further action is required. : not present
   * json : If you did not receive the email : not present
   * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: [:actionURL](:actionURL) : not present
+  * json : Invalid signature. : not present
+  * json : Not Found : not present
   * json : Oh no : not present
   * json : Page Expired : not present
-  * json : Page Not Found : not present
   * json : Please click the button below to verify your email address. : not present
   * json : Regards : not present
+  * json : Server Error : not present
   * json : Service Unavailable : not present
-  * json : Sorry, the page you are looking for could not be found. : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Sorry, you are making too many requests to our servers. : not present
-  * json : Sorry, you are not authorized to access this page. : not present
-  * json : Sorry, your session has expired. Please refresh and try again. : not present
-  * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
+  * json : Too Many Attempts. : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Email Address : not present
   * json : Verify Your Email Address : not present
+  * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * json : Whoops, something went wrong on our servers. : not present
   * validation : date_equals
   * validation : starts_with
   * validation : uuid
@@ -1430,23 +1398,22 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : click here to request another : not present
   * json : Confirm Password : not present
   * json : E-Mail Address : not present
-  * json : Error : not present
   * json : Forbidden : not present
   * json : Forgot Your Password? : not present
   * json : Go Home : not present
   * json : Hello! : not present
-  * json : hi : not present
   * json : If you did not create an account, no further action is required. : not present
   * json : If you did not receive the email : not present
   * json : If you did not request a password reset, no further action is required. : not present
   * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: [:actionURL](:actionURL) : not present
+  * json : Invalid signature. : not present
   * json : Login : not present
   * json : Logout : not present
   * json : Name : not present
+  * json : Not Found : not present
   * json : Oh no : not present
   * json : Page Expired : not present
-  * json : Page Not Found : not present
   * json : Password : not present
   * json : Please click the button below to verify your email address. : not present
   * json : Regards : not present
@@ -1455,22 +1422,19 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Reset Password : not present
   * json : Reset Password Notification : not present
   * json : Send Password Reset Link : not present
+  * json : Server Error : not present
   * json : Service Unavailable : not present
-  * json : Sorry, the page you are looking for could not be found. : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Sorry, you are making too many requests to our servers. : not present
-  * json : Sorry, you are not authorized to access this page. : not present
-  * json : Sorry, your session has expired. Please refresh and try again. : not present
-  * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
+  * json : Too Many Attempts. : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Email Address : not present
   * json : Verify Your Email Address : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
+  * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * json : Whoops, something went wrong on our servers. : not present
   * validation : file
 
 [ [to top](#todo-list) ]
@@ -1483,23 +1447,22 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : click here to request another : not present
   * json : Confirm Password : not present
   * json : E-Mail Address : not present
-  * json : Error : not present
   * json : Forbidden : not present
   * json : Forgot Your Password? : not present
   * json : Go Home : not present
   * json : Hello! : not present
-  * json : hi : not present
   * json : If you did not create an account, no further action is required. : not present
   * json : If you did not receive the email : not present
   * json : If you did not request a password reset, no further action is required. : not present
   * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: [:actionURL](:actionURL) : not present
+  * json : Invalid signature. : not present
   * json : Login : not present
   * json : Logout : not present
   * json : Name : not present
+  * json : Not Found : not present
   * json : Oh no : not present
   * json : Page Expired : not present
-  * json : Page Not Found : not present
   * json : Password : not present
   * json : Please click the button below to verify your email address. : not present
   * json : Regards : not present
@@ -1508,22 +1471,19 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Reset Password : not present
   * json : Reset Password Notification : not present
   * json : Send Password Reset Link : not present
+  * json : Server Error : not present
   * json : Service Unavailable : not present
-  * json : Sorry, the page you are looking for could not be found. : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Sorry, you are making too many requests to our servers. : not present
-  * json : Sorry, you are not authorized to access this page. : not present
-  * json : Sorry, your session has expired. Please refresh and try again. : not present
-  * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
+  * json : Too Many Attempts. : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Email Address : not present
   * json : Verify Your Email Address : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
+  * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * json : Whoops, something went wrong on our servers. : not present
   * validation : date_equals
   * validation : gt
   * validation : gte
@@ -1545,23 +1505,22 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : click here to request another : not present
   * json : Confirm Password : not present
   * json : E-Mail Address : not present
-  * json : Error : not present
   * json : Forbidden : not present
   * json : Forgot Your Password? : not present
   * json : Go Home : not present
   * json : Hello! : not present
-  * json : hi : not present
   * json : If you did not create an account, no further action is required. : not present
   * json : If you did not receive the email : not present
   * json : If you did not request a password reset, no further action is required. : not present
   * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: [:actionURL](:actionURL) : not present
+  * json : Invalid signature. : not present
   * json : Login : not present
   * json : Logout : not present
   * json : Name : not present
+  * json : Not Found : not present
   * json : Oh no : not present
   * json : Page Expired : not present
-  * json : Page Not Found : not present
   * json : Password : not present
   * json : Please click the button below to verify your email address. : not present
   * json : Regards : not present
@@ -1570,22 +1529,19 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Reset Password : not present
   * json : Reset Password Notification : not present
   * json : Send Password Reset Link : not present
+  * json : Server Error : not present
   * json : Service Unavailable : not present
-  * json : Sorry, the page you are looking for could not be found. : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Sorry, you are making too many requests to our servers. : not present
-  * json : Sorry, you are not authorized to access this page. : not present
-  * json : Sorry, your session has expired. Please refresh and try again. : not present
-  * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
+  * json : Too Many Attempts. : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Email Address : not present
   * json : Verify Your Email Address : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
+  * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * json : Whoops, something went wrong on our servers. : not present
   * validation : after_or_equal
   * validation : before_or_equal
   * validation : date_equals
@@ -1613,23 +1569,22 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : click here to request another : not present
   * json : Confirm Password : not present
   * json : E-Mail Address : not present
-  * json : Error : not present
   * json : Forbidden : not present
   * json : Forgot Your Password? : not present
   * json : Go Home : not present
   * json : Hello! : not present
-  * json : hi : not present
   * json : If you did not create an account, no further action is required. : not present
   * json : If you did not receive the email : not present
   * json : If you did not request a password reset, no further action is required. : not present
   * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: [:actionURL](:actionURL) : not present
+  * json : Invalid signature. : not present
   * json : Login : not present
   * json : Logout : not present
   * json : Name : not present
+  * json : Not Found : not present
   * json : Oh no : not present
   * json : Page Expired : not present
-  * json : Page Not Found : not present
   * json : Password : not present
   * json : Please click the button below to verify your email address. : not present
   * json : Regards : not present
@@ -1638,22 +1593,19 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Reset Password : not present
   * json : Reset Password Notification : not present
   * json : Send Password Reset Link : not present
+  * json : Server Error : not present
   * json : Service Unavailable : not present
-  * json : Sorry, the page you are looking for could not be found. : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Sorry, you are making too many requests to our servers. : not present
-  * json : Sorry, you are not authorized to access this page. : not present
-  * json : Sorry, your session has expired. Please refresh and try again. : not present
-  * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
+  * json : Too Many Attempts. : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Email Address : not present
   * json : Verify Your Email Address : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
+  * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * json : Whoops, something went wrong on our servers. : not present
   * auth : failed
   * auth : throttle
   * validation : after_or_equal
@@ -1690,23 +1642,22 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : click here to request another : not present
   * json : Confirm Password : not present
   * json : E-Mail Address : not present
-  * json : Error : not present
   * json : Forbidden : not present
   * json : Forgot Your Password? : not present
   * json : Go Home : not present
   * json : Hello! : not present
-  * json : hi : not present
   * json : If you did not create an account, no further action is required. : not present
   * json : If you did not receive the email : not present
   * json : If you did not request a password reset, no further action is required. : not present
   * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: [:actionURL](:actionURL) : not present
+  * json : Invalid signature. : not present
   * json : Login : not present
   * json : Logout : not present
   * json : Name : not present
+  * json : Not Found : not present
   * json : Oh no : not present
   * json : Page Expired : not present
-  * json : Page Not Found : not present
   * json : Password : not present
   * json : Please click the button below to verify your email address. : not present
   * json : Regards : not present
@@ -1715,22 +1666,19 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Reset Password : not present
   * json : Reset Password Notification : not present
   * json : Send Password Reset Link : not present
+  * json : Server Error : not present
   * json : Service Unavailable : not present
-  * json : Sorry, the page you are looking for could not be found. : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Sorry, you are making too many requests to our servers. : not present
-  * json : Sorry, you are not authorized to access this page. : not present
-  * json : Sorry, your session has expired. Please refresh and try again. : not present
-  * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
+  * json : Too Many Attempts. : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Email Address : not present
   * json : Verify Your Email Address : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
+  * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * json : Whoops, something went wrong on our servers. : not present
   * validation : date_equals
   * validation : gt
   * validation : gte
@@ -1749,14 +1697,26 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### ms:
 
+  * json : Invalid signature. : not present
+  * json : Not Found : not present
+  * json : Server Error : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
+  * json : Too Many Attempts. : not present
   * json : Verify Email Address : not present
+  * json : Your email address is not verified. : not present
 
 [ [to top](#todo-list) ]
 
 #### nb:
 
+  * json : Invalid signature. : not present
+  * json : Not Found : not present
+  * json : Server Error : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
+  * json : Too Many Attempts. : not present
+  * json : Your email address is not verified. : not present
 
 [ [to top](#todo-list) ]
 
@@ -1768,23 +1728,22 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : click here to request another : not present
   * json : Confirm Password : not present
   * json : E-Mail Address : not present
-  * json : Error : not present
   * json : Forbidden : not present
   * json : Forgot Your Password? : not present
   * json : Go Home : not present
   * json : Hello! : not present
-  * json : hi : not present
   * json : If you did not create an account, no further action is required. : not present
   * json : If you did not receive the email : not present
   * json : If you did not request a password reset, no further action is required. : not present
   * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: [:actionURL](:actionURL) : not present
+  * json : Invalid signature. : not present
   * json : Login : not present
   * json : Logout : not present
   * json : Name : not present
+  * json : Not Found : not present
   * json : Oh no : not present
   * json : Page Expired : not present
-  * json : Page Not Found : not present
   * json : Password : not present
   * json : Please click the button below to verify your email address. : not present
   * json : Regards : not present
@@ -1793,22 +1752,19 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Reset Password : not present
   * json : Reset Password Notification : not present
   * json : Send Password Reset Link : not present
+  * json : Server Error : not present
   * json : Service Unavailable : not present
-  * json : Sorry, the page you are looking for could not be found. : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Sorry, you are making too many requests to our servers. : not present
-  * json : Sorry, you are not authorized to access this page. : not present
-  * json : Sorry, your session has expired. Please refresh and try again. : not present
-  * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
+  * json : Too Many Attempts. : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Email Address : not present
   * json : Verify Your Email Address : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
+  * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * json : Whoops, something went wrong on our servers. : not present
   * validation : after_or_equal
   * validation : before_or_equal
   * validation : date_equals
@@ -1832,6 +1788,11 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### nl:
 
+  * json : Invalid signature. : not present
+  * json : Not Found : not present
+  * json : Server Error : not present
+  * json : Too Many Attempts. : not present
+  * json : Your email address is not verified. : not present
 
 [ [to top](#todo-list) ]
 
@@ -1843,23 +1804,22 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : click here to request another : not present
   * json : Confirm Password : not present
   * json : E-Mail Address : not present
-  * json : Error : not present
   * json : Forbidden : not present
   * json : Forgot Your Password? : not present
   * json : Go Home : not present
   * json : Hello! : not present
-  * json : hi : not present
   * json : If you did not create an account, no further action is required. : not present
   * json : If you did not receive the email : not present
   * json : If you did not request a password reset, no further action is required. : not present
   * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: [:actionURL](:actionURL) : not present
+  * json : Invalid signature. : not present
   * json : Login : not present
   * json : Logout : not present
   * json : Name : not present
+  * json : Not Found : not present
   * json : Oh no : not present
   * json : Page Expired : not present
-  * json : Page Not Found : not present
   * json : Password : not present
   * json : Please click the button below to verify your email address. : not present
   * json : Regards : not present
@@ -1868,22 +1828,19 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Reset Password : not present
   * json : Reset Password Notification : not present
   * json : Send Password Reset Link : not present
+  * json : Server Error : not present
   * json : Service Unavailable : not present
-  * json : Sorry, the page you are looking for could not be found. : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Sorry, you are making too many requests to our servers. : not present
-  * json : Sorry, you are not authorized to access this page. : not present
-  * json : Sorry, your session has expired. Please refresh and try again. : not present
-  * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
+  * json : Too Many Attempts. : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Email Address : not present
   * json : Verify Your Email Address : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
+  * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * json : Whoops, something went wrong on our servers. : not present
   * validation : after_or_equal
   * validation : before_or_equal
   * validation : date_equals
@@ -1908,10 +1865,16 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : If you did not create an account, no further action is required. : not present
   * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: [:actionURL](:actionURL) : not present
+  * json : Invalid signature. : not present
+  * json : Not Found : not present
   * json : Regards : not present
+  * json : Server Error : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
+  * json : Too Many Attempts. : not present
   * json : Unauthorized : not present
+  * json : Your email address is not verified. : not present
 
 [ [to top](#todo-list) ]
 
@@ -1923,23 +1886,22 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : click here to request another : not present
   * json : Confirm Password : not present
   * json : E-Mail Address : not present
-  * json : Error : not present
   * json : Forbidden : not present
   * json : Forgot Your Password? : not present
   * json : Go Home : not present
   * json : Hello! : not present
-  * json : hi : not present
   * json : If you did not create an account, no further action is required. : not present
   * json : If you did not receive the email : not present
   * json : If you did not request a password reset, no further action is required. : not present
   * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: [:actionURL](:actionURL) : not present
+  * json : Invalid signature. : not present
   * json : Login : not present
   * json : Logout : not present
   * json : Name : not present
+  * json : Not Found : not present
   * json : Oh no : not present
   * json : Page Expired : not present
-  * json : Page Not Found : not present
   * json : Password : not present
   * json : Please click the button below to verify your email address. : not present
   * json : Regards : not present
@@ -1948,22 +1910,19 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Reset Password : not present
   * json : Reset Password Notification : not present
   * json : Send Password Reset Link : not present
+  * json : Server Error : not present
   * json : Service Unavailable : not present
-  * json : Sorry, the page you are looking for could not be found. : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Sorry, you are making too many requests to our servers. : not present
-  * json : Sorry, you are not authorized to access this page. : not present
-  * json : Sorry, your session has expired. Please refresh and try again. : not present
-  * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
+  * json : Too Many Attempts. : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Email Address : not present
   * json : Verify Your Email Address : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
+  * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * json : Whoops, something went wrong on our servers. : not present
   * validation : date_equals
   * validation : gt
   * validation : gte
@@ -1977,6 +1936,12 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### pt-BR:
 
+  * json : Invalid signature. : not present
+  * json : Not Found : not present
+  * json : Server Error : not present
+  * json : This action is unauthorized. : not present
+  * json : Too Many Attempts. : not present
+  * json : Your email address is not verified. : not present
 
 [ [to top](#todo-list) ]
 
@@ -1988,23 +1953,22 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : click here to request another : not present
   * json : Confirm Password : not present
   * json : E-Mail Address : not present
-  * json : Error : not present
   * json : Forbidden : not present
   * json : Forgot Your Password? : not present
   * json : Go Home : not present
   * json : Hello! : not present
-  * json : hi : not present
   * json : If you did not create an account, no further action is required. : not present
   * json : If you did not receive the email : not present
   * json : If you did not request a password reset, no further action is required. : not present
   * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: [:actionURL](:actionURL) : not present
+  * json : Invalid signature. : not present
   * json : Login : not present
   * json : Logout : not present
   * json : Name : not present
+  * json : Not Found : not present
   * json : Oh no : not present
   * json : Page Expired : not present
-  * json : Page Not Found : not present
   * json : Password : not present
   * json : Please click the button below to verify your email address. : not present
   * json : Regards : not present
@@ -2013,22 +1977,19 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Reset Password : not present
   * json : Reset Password Notification : not present
   * json : Send Password Reset Link : not present
+  * json : Server Error : not present
   * json : Service Unavailable : not present
-  * json : Sorry, the page you are looking for could not be found. : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Sorry, you are making too many requests to our servers. : not present
-  * json : Sorry, you are not authorized to access this page. : not present
-  * json : Sorry, your session has expired. Please refresh and try again. : not present
-  * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
+  * json : Too Many Attempts. : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Email Address : not present
   * json : Verify Your Email Address : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
+  * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * json : Whoops, something went wrong on our servers. : not present
   * validation : date_equals
   * validation : starts_with
   * validation : uuid
@@ -2037,7 +1998,13 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### ru:
 
+  * json : Invalid signature. : not present
+  * json : Not Found : not present
+  * json : Server Error : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
+  * json : Too Many Attempts. : not present
+  * json : Your email address is not verified. : not present
 
 [ [to top](#todo-list) ]
 
@@ -2049,23 +2016,22 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : click here to request another : not present
   * json : Confirm Password : not present
   * json : E-Mail Address : not present
-  * json : Error : not present
   * json : Forbidden : not present
   * json : Forgot Your Password? : not present
   * json : Go Home : not present
   * json : Hello! : not present
-  * json : hi : not present
   * json : If you did not create an account, no further action is required. : not present
   * json : If you did not receive the email : not present
   * json : If you did not request a password reset, no further action is required. : not present
   * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: [:actionURL](:actionURL) : not present
+  * json : Invalid signature. : not present
   * json : Login : not present
   * json : Logout : not present
   * json : Name : not present
+  * json : Not Found : not present
   * json : Oh no : not present
   * json : Page Expired : not present
-  * json : Page Not Found : not present
   * json : Password : not present
   * json : Please click the button below to verify your email address. : not present
   * json : Regards : not present
@@ -2074,22 +2040,19 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Reset Password : not present
   * json : Reset Password Notification : not present
   * json : Send Password Reset Link : not present
+  * json : Server Error : not present
   * json : Service Unavailable : not present
-  * json : Sorry, the page you are looking for could not be found. : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Sorry, you are making too many requests to our servers. : not present
-  * json : Sorry, you are not authorized to access this page. : not present
-  * json : Sorry, your session has expired. Please refresh and try again. : not present
-  * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
+  * json : Too Many Attempts. : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Email Address : not present
   * json : Verify Your Email Address : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
+  * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * json : Whoops, something went wrong on our servers. : not present
   * auth : failed
   * auth : throttle
   * validation : after_or_equal
@@ -2118,6 +2081,12 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### sk:
 
+  * json : Invalid signature. : not present
+  * json : Not Found : not present
+  * json : Server Error : not present
+  * json : This action is unauthorized. : not present
+  * json : Too Many Attempts. : not present
+  * json : Your email address is not verified. : not present
 
 [ [to top](#todo-list) ]
 
@@ -2129,23 +2098,22 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : click here to request another : not present
   * json : Confirm Password : not present
   * json : E-Mail Address : not present
-  * json : Error : not present
   * json : Forbidden : not present
   * json : Forgot Your Password? : not present
   * json : Go Home : not present
   * json : Hello! : not present
-  * json : hi : not present
   * json : If you did not create an account, no further action is required. : not present
   * json : If you did not receive the email : not present
   * json : If you did not request a password reset, no further action is required. : not present
   * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: [:actionURL](:actionURL) : not present
+  * json : Invalid signature. : not present
   * json : Login : not present
   * json : Logout : not present
   * json : Name : not present
+  * json : Not Found : not present
   * json : Oh no : not present
   * json : Page Expired : not present
-  * json : Page Not Found : not present
   * json : Password : not present
   * json : Please click the button below to verify your email address. : not present
   * json : Regards : not present
@@ -2154,22 +2122,19 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Reset Password : not present
   * json : Reset Password Notification : not present
   * json : Send Password Reset Link : not present
+  * json : Server Error : not present
   * json : Service Unavailable : not present
-  * json : Sorry, the page you are looking for could not be found. : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Sorry, you are making too many requests to our servers. : not present
-  * json : Sorry, you are not authorized to access this page. : not present
-  * json : Sorry, your session has expired. Please refresh and try again. : not present
-  * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
+  * json : Too Many Attempts. : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Email Address : not present
   * json : Verify Your Email Address : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
+  * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * json : Whoops, something went wrong on our servers. : not present
   * validation : date_equals
   * validation : gt
   * validation : gte
@@ -2189,23 +2154,22 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : click here to request another : not present
   * json : Confirm Password : not present
   * json : E-Mail Address : not present
-  * json : Error : not present
   * json : Forbidden : not present
   * json : Forgot Your Password? : not present
   * json : Go Home : not present
   * json : Hello! : not present
-  * json : hi : not present
   * json : If you did not create an account, no further action is required. : not present
   * json : If you did not receive the email : not present
   * json : If you did not request a password reset, no further action is required. : not present
   * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: [:actionURL](:actionURL) : not present
+  * json : Invalid signature. : not present
   * json : Login : not present
   * json : Logout : not present
   * json : Name : not present
+  * json : Not Found : not present
   * json : Oh no : not present
   * json : Page Expired : not present
-  * json : Page Not Found : not present
   * json : Password : not present
   * json : Please click the button below to verify your email address. : not present
   * json : Regards : not present
@@ -2214,22 +2178,19 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Reset Password : not present
   * json : Reset Password Notification : not present
   * json : Send Password Reset Link : not present
+  * json : Server Error : not present
   * json : Service Unavailable : not present
-  * json : Sorry, the page you are looking for could not be found. : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Sorry, you are making too many requests to our servers. : not present
-  * json : Sorry, you are not authorized to access this page. : not present
-  * json : Sorry, your session has expired. Please refresh and try again. : not present
-  * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
+  * json : Too Many Attempts. : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Email Address : not present
   * json : Verify Your Email Address : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
+  * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * json : Whoops, something went wrong on our servers. : not present
   * auth : failed
   * auth : throttle
   * validation : after_or_equal
@@ -2261,35 +2222,31 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : All rights reserved. : not present
   * json : Before proceeding, please check your email for a verification link. : not present
   * json : click here to request another : not present
-  * json : Error : not present
   * json : Forbidden : not present
   * json : Go Home : not present
   * json : Hello! : not present
-  * json : hi : not present
   * json : If you did not create an account, no further action is required. : not present
   * json : If you did not receive the email : not present
   * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: [:actionURL](:actionURL) : not present
+  * json : Invalid signature. : not present
+  * json : Not Found : not present
   * json : Oh no : not present
   * json : Page Expired : not present
-  * json : Page Not Found : not present
   * json : Please click the button below to verify your email address. : not present
   * json : Regards : not present
+  * json : Server Error : not present
   * json : Service Unavailable : not present
-  * json : Sorry, the page you are looking for could not be found. : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Sorry, you are making too many requests to our servers. : not present
-  * json : Sorry, you are not authorized to access this page. : not present
-  * json : Sorry, your session has expired. Please refresh and try again. : not present
-  * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
+  * json : Too Many Attempts. : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Email Address : not present
   * json : Verify Your Email Address : not present
+  * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * json : Whoops, something went wrong on our servers. : not present
   * validation : after_or_equal
   * validation : before_or_equal
   * validation : date_equals
@@ -2321,23 +2278,22 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : click here to request another : not present
   * json : Confirm Password : not present
   * json : E-Mail Address : not present
-  * json : Error : not present
   * json : Forbidden : not present
   * json : Forgot Your Password? : not present
   * json : Go Home : not present
   * json : Hello! : not present
-  * json : hi : not present
   * json : If you did not create an account, no further action is required. : not present
   * json : If you did not receive the email : not present
   * json : If you did not request a password reset, no further action is required. : not present
   * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: [:actionURL](:actionURL) : not present
+  * json : Invalid signature. : not present
   * json : Login : not present
   * json : Logout : not present
   * json : Name : not present
+  * json : Not Found : not present
   * json : Oh no : not present
   * json : Page Expired : not present
-  * json : Page Not Found : not present
   * json : Password : not present
   * json : Please click the button below to verify your email address. : not present
   * json : Regards : not present
@@ -2346,22 +2302,19 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Reset Password : not present
   * json : Reset Password Notification : not present
   * json : Send Password Reset Link : not present
+  * json : Server Error : not present
   * json : Service Unavailable : not present
-  * json : Sorry, the page you are looking for could not be found. : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Sorry, you are making too many requests to our servers. : not present
-  * json : Sorry, you are not authorized to access this page. : not present
-  * json : Sorry, your session has expired. Please refresh and try again. : not present
-  * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
+  * json : Too Many Attempts. : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Email Address : not present
   * json : Verify Your Email Address : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
+  * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * json : Whoops, something went wrong on our servers. : not present
   * validation : date_equals
   * validation : starts_with
   * validation : uuid
@@ -2376,23 +2329,22 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : click here to request another : not present
   * json : Confirm Password : not present
   * json : E-Mail Address : not present
-  * json : Error : not present
   * json : Forbidden : not present
   * json : Forgot Your Password? : not present
   * json : Go Home : not present
   * json : Hello! : not present
-  * json : hi : not present
   * json : If you did not create an account, no further action is required. : not present
   * json : If you did not receive the email : not present
   * json : If you did not request a password reset, no further action is required. : not present
   * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: [:actionURL](:actionURL) : not present
+  * json : Invalid signature. : not present
   * json : Login : not present
   * json : Logout : not present
   * json : Name : not present
+  * json : Not Found : not present
   * json : Oh no : not present
   * json : Page Expired : not present
-  * json : Page Not Found : not present
   * json : Password : not present
   * json : Please click the button below to verify your email address. : not present
   * json : Regards : not present
@@ -2401,22 +2353,19 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Reset Password : not present
   * json : Reset Password Notification : not present
   * json : Send Password Reset Link : not present
+  * json : Server Error : not present
   * json : Service Unavailable : not present
-  * json : Sorry, the page you are looking for could not be found. : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Sorry, you are making too many requests to our servers. : not present
-  * json : Sorry, you are not authorized to access this page. : not present
-  * json : Sorry, your session has expired. Please refresh and try again. : not present
-  * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
+  * json : Too Many Attempts. : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Email Address : not present
   * json : Verify Your Email Address : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
+  * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * json : Whoops, something went wrong on our servers. : not present
   * validation : after_or_equal
   * validation : before_or_equal
   * validation : date_equals
@@ -2444,23 +2393,22 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : click here to request another : not present
   * json : Confirm Password : not present
   * json : E-Mail Address : not present
-  * json : Error : not present
   * json : Forbidden : not present
   * json : Forgot Your Password? : not present
   * json : Go Home : not present
   * json : Hello! : not present
-  * json : hi : not present
   * json : If you did not create an account, no further action is required. : not present
   * json : If you did not receive the email : not present
   * json : If you did not request a password reset, no further action is required. : not present
   * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: [:actionURL](:actionURL) : not present
+  * json : Invalid signature. : not present
   * json : Login : not present
   * json : Logout : not present
   * json : Name : not present
+  * json : Not Found : not present
   * json : Oh no : not present
   * json : Page Expired : not present
-  * json : Page Not Found : not present
   * json : Password : not present
   * json : Please click the button below to verify your email address. : not present
   * json : Regards : not present
@@ -2469,22 +2417,19 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Reset Password : not present
   * json : Reset Password Notification : not present
   * json : Send Password Reset Link : not present
+  * json : Server Error : not present
   * json : Service Unavailable : not present
-  * json : Sorry, the page you are looking for could not be found. : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Sorry, you are making too many requests to our servers. : not present
-  * json : Sorry, you are not authorized to access this page. : not present
-  * json : Sorry, your session has expired. Please refresh and try again. : not present
-  * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
+  * json : Too Many Attempts. : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Email Address : not present
   * json : Verify Your Email Address : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
+  * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * json : Whoops, something went wrong on our servers. : not present
   * validation : date_equals
   * validation : gt
   * validation : gte
@@ -2504,11 +2449,15 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Forbidden : not present
   * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: [:actionURL](:actionURL) : not present
+  * json : Invalid signature. : not present
+  * json : Not Found : not present
   * json : Regards : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
+  * json : Server Error : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
-  * json : Whoops, something went wrong on our servers. : not present
+  * json : Too Many Attempts. : not present
+  * json : Your email address is not verified. : not present
   * validation : date_equals
   * validation : starts_with
   * validation : uuid
@@ -2523,23 +2472,22 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : click here to request another : not present
   * json : Confirm Password : not present
   * json : E-Mail Address : not present
-  * json : Error : not present
   * json : Forbidden : not present
   * json : Forgot Your Password? : not present
   * json : Go Home : not present
   * json : Hello! : not present
-  * json : hi : not present
   * json : If you did not create an account, no further action is required. : not present
   * json : If you did not receive the email : not present
   * json : If you did not request a password reset, no further action is required. : not present
   * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: [:actionURL](:actionURL) : not present
+  * json : Invalid signature. : not present
   * json : Login : not present
   * json : Logout : not present
   * json : Name : not present
+  * json : Not Found : not present
   * json : Oh no : not present
   * json : Page Expired : not present
-  * json : Page Not Found : not present
   * json : Password : not present
   * json : Please click the button below to verify your email address. : not present
   * json : Regards : not present
@@ -2548,22 +2496,19 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Reset Password : not present
   * json : Reset Password Notification : not present
   * json : Send Password Reset Link : not present
+  * json : Server Error : not present
   * json : Service Unavailable : not present
-  * json : Sorry, the page you are looking for could not be found. : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Sorry, you are making too many requests to our servers. : not present
-  * json : Sorry, you are not authorized to access this page. : not present
-  * json : Sorry, your session has expired. Please refresh and try again. : not present
-  * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
+  * json : Too Many Attempts. : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Email Address : not present
   * json : Verify Your Email Address : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
+  * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * json : Whoops, something went wrong on our servers. : not present
   * auth : failed
   * auth : throttle
   * validation : after_or_equal
@@ -2598,23 +2543,22 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : click here to request another : not present
   * json : Confirm Password : not present
   * json : E-Mail Address : not present
-  * json : Error : not present
   * json : Forbidden : not present
   * json : Forgot Your Password? : not present
   * json : Go Home : not present
   * json : Hello! : not present
-  * json : hi : not present
   * json : If you did not create an account, no further action is required. : not present
   * json : If you did not receive the email : not present
   * json : If you did not request a password reset, no further action is required. : not present
   * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: [:actionURL](:actionURL) : not present
+  * json : Invalid signature. : not present
   * json : Login : not present
   * json : Logout : not present
   * json : Name : not present
+  * json : Not Found : not present
   * json : Oh no : not present
   * json : Page Expired : not present
-  * json : Page Not Found : not present
   * json : Password : not present
   * json : Please click the button below to verify your email address. : not present
   * json : Regards : not present
@@ -2623,22 +2567,19 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Reset Password : not present
   * json : Reset Password Notification : not present
   * json : Send Password Reset Link : not present
+  * json : Server Error : not present
   * json : Service Unavailable : not present
-  * json : Sorry, the page you are looking for could not be found. : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Sorry, you are making too many requests to our servers. : not present
-  * json : Sorry, you are not authorized to access this page. : not present
-  * json : Sorry, your session has expired. Please refresh and try again. : not present
-  * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
+  * json : Too Many Attempts. : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Email Address : not present
   * json : Verify Your Email Address : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
+  * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * json : Whoops, something went wrong on our servers. : not present
   * validation : after_or_equal
   * validation : before_or_equal
   * validation : date_equals
@@ -2664,35 +2605,31 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : All rights reserved. : not present
   * json : Before proceeding, please check your email for a verification link. : not present
   * json : click here to request another : not present
-  * json : Error : not present
   * json : Forbidden : not present
   * json : Go Home : not present
   * json : Hello! : not present
-  * json : hi : not present
   * json : If you did not create an account, no further action is required. : not present
   * json : If you did not receive the email : not present
   * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: [:actionURL](:actionURL) : not present
+  * json : Invalid signature. : not present
+  * json : Not Found : not present
   * json : Oh no : not present
   * json : Page Expired : not present
-  * json : Page Not Found : not present
   * json : Please click the button below to verify your email address. : not present
   * json : Regards : not present
+  * json : Server Error : not present
   * json : Service Unavailable : not present
-  * json : Sorry, the page you are looking for could not be found. : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Sorry, you are making too many requests to our servers. : not present
-  * json : Sorry, you are not authorized to access this page. : not present
-  * json : Sorry, your session has expired. Please refresh and try again. : not present
-  * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
+  * json : Too Many Attempts. : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Email Address : not present
   * json : Verify Your Email Address : not present
+  * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * json : Whoops, something went wrong on our servers. : not present
   * validation : date_equals
   * validation : gt
   * validation : gte
@@ -2711,23 +2648,22 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : click here to request another : not present
   * json : Confirm Password : not present
   * json : E-Mail Address : not present
-  * json : Error : not present
   * json : Forbidden : not present
   * json : Forgot Your Password? : not present
   * json : Go Home : not present
   * json : Hello! : not present
-  * json : hi : not present
   * json : If you did not create an account, no further action is required. : not present
   * json : If you did not receive the email : not present
   * json : If you did not request a password reset, no further action is required. : not present
   * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: [:actionURL](:actionURL) : not present
+  * json : Invalid signature. : not present
   * json : Login : not present
   * json : Logout : not present
   * json : Name : not present
+  * json : Not Found : not present
   * json : Oh no : not present
   * json : Page Expired : not present
-  * json : Page Not Found : not present
   * json : Password : not present
   * json : Please click the button below to verify your email address. : not present
   * json : Regards : not present
@@ -2736,22 +2672,19 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Reset Password : not present
   * json : Reset Password Notification : not present
   * json : Send Password Reset Link : not present
+  * json : Server Error : not present
   * json : Service Unavailable : not present
-  * json : Sorry, the page you are looking for could not be found. : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Sorry, you are making too many requests to our servers. : not present
-  * json : Sorry, you are not authorized to access this page. : not present
-  * json : Sorry, your session has expired. Please refresh and try again. : not present
-  * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
+  * json : Too Many Attempts. : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Email Address : not present
   * json : Verify Your Email Address : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
+  * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * json : Whoops, something went wrong on our servers. : not present
   * validation : date_equals
   * validation : gt
   * validation : gte
@@ -2765,7 +2698,13 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### uk:
 
+  * json : Invalid signature. : not present
+  * json : Not Found : not present
+  * json : Server Error : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
+  * json : Too Many Attempts. : not present
+  * json : Your email address is not verified. : not present
 
 [ [to top](#todo-list) ]
 
@@ -2775,35 +2714,31 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : All rights reserved. : not present
   * json : Before proceeding, please check your email for a verification link. : not present
   * json : click here to request another : not present
-  * json : Error : not present
   * json : Forbidden : not present
   * json : Go Home : not present
   * json : Hello! : not present
-  * json : hi : not present
   * json : If you did not create an account, no further action is required. : not present
   * json : If you did not receive the email : not present
   * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: [:actionURL](:actionURL) : not present
+  * json : Invalid signature. : not present
+  * json : Not Found : not present
   * json : Oh no : not present
   * json : Page Expired : not present
-  * json : Page Not Found : not present
   * json : Please click the button below to verify your email address. : not present
   * json : Regards : not present
+  * json : Server Error : not present
   * json : Service Unavailable : not present
-  * json : Sorry, the page you are looking for could not be found. : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Sorry, you are making too many requests to our servers. : not present
-  * json : Sorry, you are not authorized to access this page. : not present
-  * json : Sorry, your session has expired. Please refresh and try again. : not present
-  * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
+  * json : Too Many Attempts. : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Email Address : not present
   * json : Verify Your Email Address : not present
+  * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * json : Whoops, something went wrong on our servers. : not present
   * validation : after_or_equal
   * validation : before_or_equal
   * validation : date_equals
@@ -2831,23 +2766,22 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : click here to request another : not present
   * json : Confirm Password : not present
   * json : E-Mail Address : not present
-  * json : Error : not present
   * json : Forbidden : not present
   * json : Forgot Your Password? : not present
   * json : Go Home : not present
   * json : Hello! : not present
-  * json : hi : not present
   * json : If you did not create an account, no further action is required. : not present
   * json : If you did not receive the email : not present
   * json : If you did not request a password reset, no further action is required. : not present
   * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: [:actionURL](:actionURL) : not present
+  * json : Invalid signature. : not present
   * json : Login : not present
   * json : Logout : not present
   * json : Name : not present
+  * json : Not Found : not present
   * json : Oh no : not present
   * json : Page Expired : not present
-  * json : Page Not Found : not present
   * json : Password : not present
   * json : Please click the button below to verify your email address. : not present
   * json : Regards : not present
@@ -2856,22 +2790,19 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Reset Password : not present
   * json : Reset Password Notification : not present
   * json : Send Password Reset Link : not present
+  * json : Server Error : not present
   * json : Service Unavailable : not present
-  * json : Sorry, the page you are looking for could not be found. : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Sorry, you are making too many requests to our servers. : not present
-  * json : Sorry, you are not authorized to access this page. : not present
-  * json : Sorry, your session has expired. Please refresh and try again. : not present
-  * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
+  * json : Too Many Attempts. : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Email Address : not present
   * json : Verify Your Email Address : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
+  * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * json : Whoops, something went wrong on our servers. : not present
   * validation : date_equals
   * validation : gt
   * validation : gte
@@ -2891,23 +2822,22 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : click here to request another : not present
   * json : Confirm Password : not present
   * json : E-Mail Address : not present
-  * json : Error : not present
   * json : Forbidden : not present
   * json : Forgot Your Password? : not present
   * json : Go Home : not present
   * json : Hello! : not present
-  * json : hi : not present
   * json : If you did not create an account, no further action is required. : not present
   * json : If you did not receive the email : not present
   * json : If you did not request a password reset, no further action is required. : not present
   * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: [:actionURL](:actionURL) : not present
+  * json : Invalid signature. : not present
   * json : Login : not present
   * json : Logout : not present
   * json : Name : not present
+  * json : Not Found : not present
   * json : Oh no : not present
   * json : Page Expired : not present
-  * json : Page Not Found : not present
   * json : Password : not present
   * json : Please click the button below to verify your email address. : not present
   * json : Regards : not present
@@ -2916,22 +2846,19 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Reset Password : not present
   * json : Reset Password Notification : not present
   * json : Send Password Reset Link : not present
+  * json : Server Error : not present
   * json : Service Unavailable : not present
-  * json : Sorry, the page you are looking for could not be found. : not present
-  * json : Sorry, you are forbidden from accessing this page. : not present
-  * json : Sorry, you are making too many requests to our servers. : not present
-  * json : Sorry, you are not authorized to access this page. : not present
-  * json : Sorry, your session has expired. Please refresh and try again. : not present
-  * json : Sorry, we are doing some maintenance. Please check back soon. : not present
+  * json : This action is unauthorized. : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Toggle navigation : not present
+  * json : Too Many Attempts. : not present
   * json : Too Many Requests : not present
   * json : Unauthorized : not present
   * json : Verify Email Address : not present
   * json : Verify Your Email Address : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
+  * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * json : Whoops, something went wrong on our servers. : not present
   * validation : date_equals
   * validation : gt
   * validation : gte
@@ -2945,6 +2872,12 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### vi:
 
+  * json : Invalid signature. : not present
+  * json : Not Found : not present
+  * json : Server Error : not present
+  * json : This action is unauthorized. : not present
+  * json : Too Many Attempts. : not present
+  * json : Your email address is not verified. : not present
 
 [ [to top](#todo-list) ]
 
@@ -2955,15 +2888,11 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### zh-HK:
 
-  * json : This password reset link will expire in :count minutes. : not present
-  * validation : date_equals
-  * validation : starts_with
 
 [ [to top](#todo-list) ]
 
 #### zh-TW:
 
-  * json : This password reset link will expire in :count minutes. : not present
 
 [ [to top](#todo-list) ]
 

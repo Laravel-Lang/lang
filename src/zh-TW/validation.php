@@ -8,14 +8,14 @@ return [
     |
     | The following language lines contain the default error messages used by
     | the validator class. Some of these rules have multiple versions such
-    | as the size rules. Feel free to tweak each of these messages.
+    | as the size rules. Feel free to tweak each of these messages here.
     |
     */
 
     'accepted'             => '必須接受 :attribute。',
-    'active_url'           => ':attribute 並非一個有效的網址。',
+    'active_url'           => ':attribute 不是有效的網址。',
     'after'                => ':attribute 必須要晚於 :date。',
-    'after_or_equal'       => ':attribute 必須要等於 :date 或更晚',
+    'after_or_equal'       => ':attribute 必須要等於 :date 或更晚。',
     'alpha'                => ':attribute 只能以字母組成。',
     'alpha_dash'           => ':attribute 只能以字母、數字、連接線(-)及底線(_)組成。',
     'alpha_num'            => ':attribute 只能以字母及數字組成。',
@@ -30,7 +30,7 @@ return [
     ],
     'boolean'              => ':attribute 必須為布林值。',
     'confirmed'            => ':attribute 確認欄位的輸入不一致。',
-    'date'                 => ':attribute 並非一個有效的日期。',
+    'date'                 => ':attribute 不是有效的日期。',
     'date_equals'          => ':attribute 必須等於 :date。',
     'date_format'          => ':attribute 不符合 :format 的格式。',
     'different'            => ':attribute 與 :other 必須不同。',
@@ -38,9 +38,9 @@ return [
     'digits_between'       => ':attribute 必須介於 :min 至 :max 位數字。',
     'dimensions'           => ':attribute 圖片尺寸不正確。',
     'distinct'             => ':attribute 已經存在。',
-    'email'                => ':attribute 必須是有效的電子郵件位址。',
-    'exists'               => '所選擇的 :attribute 選項無效。',
-    'file'                 => ':attribute 必須是一個檔案。',
+    'email'                => ':attribute 必須是有效的 E-mail。',
+    'exists'               => ':attribute 不存在。',
+    'file'                 => ':attribute 必須是有效的檔案。',
     'filled'               => ':attribute 不能留空。',
     'gt'                   => [
         'numeric' => ':attribute 必須大於 :value。',
@@ -121,7 +121,7 @@ return [
     |--------------------------------------------------------------------------
     |
     | Here you may specify custom validation messages for attributes using the
-    | convention 'attribute.rule' to name the lines. This makes it quick to
+    | convention "attribute.rule" to name the lines. This makes it quick to
     | specify a specific custom language line for a given attribute rule.
     |
     */
@@ -137,9 +137,9 @@ return [
     | Custom Validation Attributes
     |--------------------------------------------------------------------------
     |
-    | The following language lines are used to swap attribute place-holders
-    | with something more reader friendly such as E-Mail Address instead
-    | of 'email'. This simply helps us make messages a little cleaner.
+    | The following language lines are used to swap our attribute placeholder
+    | with something more reader friendly such as "E-Mail Address" instead
+    | of "email". This simply helps us make our message more expressive.
     |
     */
 
@@ -171,7 +171,7 @@ return [
         'size'                  => '大小',
         'time'                  => '時間',
         'title'                 => '標題',
-        'username'              => '使用者名字',
+        'username'              => '使用者名稱',
         'year'                  => '年',
     ],
 ];

@@ -19,7 +19,7 @@ return [
     'alpha_num'            => 'شمیرې او متره :attribute یوازې خطونه او شمیرې.',
     'array'                => 'دا باید وي :attribute ًمیټرکس.',
     'before'               => 'باید:attribute د تاریخ پخوا تاریخ وټاکئ :date.',
-    'before_or_equal'     => ':attribute دا باید وي د تیر نیټې یا نیټې سره سمون خوري :date.',
+    'before_or_equal'      => ':attribute دا باید وي د تیر نیټې یا نیټې سره سمون خوري :date.',
     'between'              => [
         'numeric' => 'دا باید ارزښت وي :attribute ما بين:min او :max.',
         'file'    => 'د دوتنې اندازه باید وي:attribute ما بين:min او :max كيلوبايت.',

@@ -18,6 +18,7 @@
   * json : This action is unauthorized. : not present
   * json : Too Many Attempts. : not present
   * json : Your email address is not verified. : not present
+  * validation : ends_with : not present
 
 [ [to top](#todo-list) ]
 
@@ -524,6 +525,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * validation : ends_with : not present
 =======
   * validation : date_equals
+  * validation : ends_with : not present
   * validation : not_regex
   * validation : starts_with
   * validation : uuid
@@ -628,7 +630,11 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : This action is unauthorized. : not present
   * json : Too Many Attempts. : not present
   * json : Your email address is not verified. : not present
+<<<<<<< HEAD
 >>>>>>> Update zh-* languages
+=======
+  * validation : ends_with : not present
+>>>>>>> Add ends_with attribute to validation.php
 
 [ [to top](#todo-list) ]
 
@@ -753,6 +759,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Your email address is not verified. : not present
   * json : Whoops! : not present
   * validation : date_equals
+  * validation : ends_with : not present
   * validation : starts_with
   * validation : uuid
 >>>>>>> Update zh-* languages
@@ -810,6 +817,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : This action is unauthorized. : not present
   * json : Too Many Attempts. : not present
   * json : Your email address is not verified. : not present
+  * validation : ends_with : not present
 
 [ [to top](#todo-list) ]
 
@@ -980,6 +988,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * validation : before_or_equal
   * validation : date_equals
   * validation : dimensions
+  * validation : ends_with : not present
   * validation : file
   * validation : gt
 >>>>>>> Update zh-* languages
@@ -1115,6 +1124,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * validation : ends_with : not present
 =======
   * validation : date_equals
+  * validation : ends_with : not present
   * validation : starts_with
   * validation : uuid
 >>>>>>> Update zh-* languages
@@ -1210,7 +1220,11 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : This action is unauthorized. : not present
   * json : Too Many Attempts. : not present
   * json : Your email address is not verified. : not present
+<<<<<<< HEAD
 >>>>>>> Update zh-* languages
+=======
+  * validation : ends_with : not present
+>>>>>>> Add ends_with attribute to validation.php
 
 [ [to top](#todo-list) ]
 
@@ -1226,7 +1240,11 @@ into your web browser: [:actionURL](:actionURL) : not present
 =======
   * json : Too Many Attempts. : not present
   * json : Your email address is not verified. : not present
+<<<<<<< HEAD
 >>>>>>> Update zh-* languages
+=======
+  * validation : ends_with : not present
+>>>>>>> Add ends_with attribute to validation.php
 
 [ [to top](#todo-list) ]
 
@@ -1280,7 +1298,11 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Too Many Attempts. : not present
   * json : Your email address is not verified. : not present
+<<<<<<< HEAD
 >>>>>>> Update zh-* languages
+=======
+  * validation : ends_with : not present
+>>>>>>> Add ends_with attribute to validation.php
 
 [ [to top](#todo-list) ]
 
@@ -1405,7 +1427,11 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
   * json : Your email address is not verified. : not present
   * json : Whoops! : not present
+<<<<<<< HEAD
 >>>>>>> Update zh-* languages
+=======
+  * validation : ends_with : not present
+>>>>>>> Add ends_with attribute to validation.php
 
 [ [to top](#todo-list) ]
 
@@ -1495,7 +1521,11 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
   * json : Your email address is not verified. : not present
   * json : Whoops! : not present
+<<<<<<< HEAD
 >>>>>>> Update zh-* languages
+=======
+  * validation : ends_with : not present
+>>>>>>> Add ends_with attribute to validation.php
   * validation : file
 
 [ [to top](#todo-list) ]
@@ -1780,7 +1810,11 @@ into your web browser: [:actionURL](:actionURL) : not present
   * validation : ends_with : not present
 =======
   * json : Your email address is not verified. : not present
+<<<<<<< HEAD
 >>>>>>> Update zh-* languages
+=======
+  * validation : ends_with : not present
+>>>>>>> Add ends_with attribute to validation.php
 
 [ [to top](#todo-list) ]
 
@@ -1796,7 +1830,11 @@ into your web browser: [:actionURL](:actionURL) : not present
 =======
   * json : Too Many Attempts. : not present
   * json : Your email address is not verified. : not present
+<<<<<<< HEAD
 >>>>>>> Update zh-* languages
+=======
+  * validation : ends_with : not present
+>>>>>>> Add ends_with attribute to validation.php
 
 [ [to top](#todo-list) ]
 
@@ -1877,7 +1915,11 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Server Error : not present
   * json : Too Many Attempts. : not present
   * json : Your email address is not verified. : not present
+<<<<<<< HEAD
 >>>>>>> Update zh-* languages
+=======
+  * validation : ends_with : not present
+>>>>>>> Add ends_with attribute to validation.php
 
 [ [to top](#todo-list) ]
 
@@ -1971,7 +2013,11 @@ into your web browser: [:actionURL](:actionURL) : not present
   * validation : ends_with : not present
 =======
   * json : Your email address is not verified. : not present
+<<<<<<< HEAD
 >>>>>>> Update zh-* languages
+=======
+  * validation : ends_with : not present
+>>>>>>> Add ends_with attribute to validation.php
 
 [ [to top](#todo-list) ]
 
@@ -2043,7 +2089,11 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : This action is unauthorized. : not present
   * json : Too Many Attempts. : not present
   * json : Your email address is not verified. : not present
+<<<<<<< HEAD
 >>>>>>> Update zh-* languages
+=======
+  * validation : ends_with : not present
+>>>>>>> Add ends_with attribute to validation.php
 
 [ [to top](#todo-list) ]
 
@@ -2110,7 +2160,11 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Too Many Attempts. : not present
   * json : Your email address is not verified. : not present
+<<<<<<< HEAD
 >>>>>>> Update zh-* languages
+=======
+  * validation : ends_with : not present
+>>>>>>> Add ends_with attribute to validation.php
 
 [ [to top](#todo-list) ]
 
@@ -2197,6 +2251,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : This action is unauthorized. : not present
   * json : Too Many Attempts. : not present
   * json : Your email address is not verified. : not present
+  * validation : ends_with : not present
 
 [ [to top](#todo-list) ]
 
@@ -2296,6 +2351,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * validation : ends_with : not present
 =======
   * validation : date_equals
+  * validation : ends_with : not present
   * validation : gt
   * validation : gte
   * validation : lt
@@ -2879,7 +2935,11 @@ into your web browser: [:actionURL](:actionURL) : not present
 =======
   * json : Too Many Attempts. : not present
   * json : Your email address is not verified. : not present
+<<<<<<< HEAD
 >>>>>>> Update zh-* languages
+=======
+  * validation : ends_with : not present
+>>>>>>> Add ends_with attribute to validation.php
 
 [ [to top](#todo-list) ]
 
@@ -3059,7 +3119,11 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : This action is unauthorized. : not present
   * json : Too Many Attempts. : not present
   * json : Your email address is not verified. : not present
+<<<<<<< HEAD
 >>>>>>> Update zh-* languages
+=======
+  * validation : ends_with : not present
+>>>>>>> Add ends_with attribute to validation.php
 
 [ [to top](#todo-list) ]
 

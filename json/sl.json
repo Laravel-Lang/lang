@@ -1,0 +1,16 @@
+{
+  "Confirm Password": "Potrdite geslo",
+  "E-Mail Address": "E-mail naslov",
+  "Forgot Your Password?": "Pozabljeno geslo?",
+  "If you did not request a password reset, no further action is required.": "V kolikor niste zahtevali ponastavitve gesla, nadaljni koraki niso potrebni.",
+  "Login": "Prijava",
+  "Logout": "Odjava",
+  "Name": "Ime",
+  "Password": "Geslo",
+  "Register": "Registracija",
+  "Remember Me": "Zapomni si me",
+  "Reset Password": "Ponastavi geslo",
+  "Reset Password Notification": "Obvestilo o ponastavitvi gesla",
+  "Send Password Reset Link": "Pošlji povezavo za ponastavitev gesla",
+  "You are receiving this email because we received a password reset request for your account.": "Ta e-mail vam je bil poslan, ker ste zahtevali ponastavitev gesla za vaš račun."
+}

@@ -185,10 +185,6 @@ Malay (ms)
 * [Salahuddin Hairai](https://github.com/od3n)
 * [Kamarool Karim](https://github.com/kamaroolkarim)
 
-Marathi (mr)
-
-* [Girish Vete](https://github.com/gvete)
-
 Montenegrin (me)
 
 * [Ognjen MIletić](https://github.com/ognjenm)

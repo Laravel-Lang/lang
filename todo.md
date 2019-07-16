@@ -2081,6 +2081,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 #### pt-BR:
 
 <<<<<<< HEAD
+<<<<<<< HEAD
   * validation : ends_with : not present
 =======
   * json : Invalid signature. : not present
@@ -2094,6 +2095,8 @@ into your web browser: [:actionURL](:actionURL) : not present
 =======
   * validation : ends_with : not present
 >>>>>>> Add ends_with attribute to validation.php
+=======
+>>>>>>> [pt-BR] Updated json strings
 
 [ [to top](#todo-list) ]
 

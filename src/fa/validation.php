@@ -31,7 +31,7 @@ return [
     'boolean'              => 'فیلد :attribute فقط می‌تواند true و یا false باشد.',
     'confirmed'            => ':attribute با فیلد تکرار مطابقت ندارد.',
     'date'                 => ':attribute یک تاریخ معتبر نیست.',
-    'date_equals'          => 'The :attribute must be a date equal to :date.',
+    'date_equals'          => ':attribute باید یک تاریخ برابر با تاریخ :date باشد.',
     'date_format'          => ':attribute با الگوی :format مطابقت ندارد.',
     'different'            => ':attribute و :other باید از یکدیگر متفاوت باشند.',
     'digits'               => ':attribute باید :digits رقم باشد.',
@@ -107,13 +107,13 @@ return [
         'string'  => ':attribute باید برابر با :size کاراکتر باشد.',
         'array'   => ':attribute باید شامل :size آیتم باشد.',
     ],
-    'starts_with'          => 'The :attribute must start with one of the following: :values',
+    'starts_with'          => ':attribute باید با یکی از این ها شروع شود: :values',
     'string'               => 'فیلد :attribute باید رشته باشد.',
     'timezone'             => 'فیلد :attribute باید یک منطقه زمانی معتبر باشد.',
     'unique'               => ':attribute قبلا انتخاب شده است.',
     'uploaded'             => 'بارگذاری فایل :attribute موفقیت آمیز نبود.',
     'url'                  => ':attribute معتبر نمی‌باشد.',
-    'uuid'                 => 'The :attribute must be a valid UUID.',
+    'uuid'                 => ':attribute باید یک UUID معتبر باشد.',
 
     /*
     |--------------------------------------------------------------------------

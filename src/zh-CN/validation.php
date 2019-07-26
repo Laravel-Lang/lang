@@ -39,6 +39,7 @@ return [
     'dimensions'           => ':attribute 图片尺寸不正确。',
     'distinct'             => ':attribute 已经存在。',
     'email'                => ':attribute 不是一个合法的邮箱。',
+    'ends_with'            => ':attribute 结尾必须包含下列之一：:values',
     'exists'               => ':attribute 不存在。',
     'file'                 => ':attribute 必须是文件。',
     'filled'               => ':attribute 不能为空。',

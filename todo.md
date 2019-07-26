@@ -1981,14 +1981,6 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### pt-BR:
 
-  * json : Invalid signature. : not present
-  * json : Not Found : not present
-  * json : Server Error : not present
-  * json : This action is unauthorized. : not present
-  * json : Too Many Attempts. : not present
-  * json : Your email address is not verified. : not present
-  * validation : ends_with : not present
-
 [ [to top](#todo-list) ]
 
 #### ro:

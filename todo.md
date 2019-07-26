@@ -1981,6 +1981,8 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### pt-BR:
 
+  * validation : ends_with : not present
+
 [ [to top](#todo-list) ]
 
 #### ro:
@@ -2044,7 +2046,6 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : This password reset link will expire in :count minutes. : not present
   * json : Too Many Attempts. : not present
   * json : Your email address is not verified. : not present
-  * validation : ends_with : not present
 
 [ [to top](#todo-list) ]
 

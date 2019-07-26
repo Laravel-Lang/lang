@@ -12,7 +12,6 @@
 
 #### ar:
 
-  * validation : ends_with : not present
 
 [ [to top](#todo-list) ]
 

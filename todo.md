@@ -752,7 +752,6 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### fr:
 
-  * validation : ends_with : not present
 
 [ [to top](#todo-list) ]
 

@@ -2082,6 +2082,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   * validation : ends_with : not present
 =======
   * json : Invalid signature. : not present
@@ -2097,6 +2098,9 @@ into your web browser: [:actionURL](:actionURL) : not present
 >>>>>>> Add ends_with attribute to validation.php
 =======
 >>>>>>> [pt-BR] Updated json strings
+=======
+  * validation : ends_with : not present
+>>>>>>> [5.8] [ru] Fixed: validation : ends_with
 
 [ [to top](#todo-list) ]
 
@@ -2164,10 +2168,13 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Too Many Attempts. : not present
   * json : Your email address is not verified. : not present
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> Update zh-* languages
 =======
   * validation : ends_with : not present
 >>>>>>> Add ends_with attribute to validation.php
+=======
+>>>>>>> [5.8] [ru] Fixed: validation : ends_with
 
 [ [to top](#todo-list) ]
 

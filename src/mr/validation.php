@@ -12,17 +12,17 @@ return [
     |
     */
 
-    'accepted'             => ':attribute ला स्वीकार केला गेला पाहिजे.',
-    'active_url'           => ':attribute हा एक बरोबर URL नाही आहे.',
-    'after'                => ':attribute, :date नंतरची एक तारीख पाहिजे.',
+    'accepted'                 => ':attribute ला स्वीकार केला गेला पाहिजे.',
+    'active_url'               => ':attribute हा एक बरोबर URL नाही आहे.',
+    'after'                    => ':attribute, :date नंतरची एक तारीख पाहिजे.',
         'after_or_equal'       => ':attribute, :date हि किंवा त्या नंतरची एक तारीख पाहिजे.',
-    'alpha'                => ':attribute मध्ये फक्त अक्षरे वैध आहेत.',
-    'alpha_dash'           => ':attribute मध्ये फक्त अक्षरे, संख्या आणि डॅश वैध आहेत.',
-    'alpha_num'            => ':attribute मध्ये फक्त अक्षरे आणि संख्या वैध आहेत.',
-    'array'                => ':attribute साठी फक्त सूची वैध आहे.',
-    'before'               => ':attribute, :date आधीची एक तारीख पाहिजे.',
-    'before_or_equal'      => ':attribute, :date हि किंवा त्या आधीची एक तारीख पाहिजे.',
-    'between'              => [
+    'alpha'                    => ':attribute मध्ये फक्त अक्षरे वैध आहेत.',
+    'alpha_dash'               => ':attribute मध्ये फक्त अक्षरे, संख्या आणि डॅश वैध आहेत.',
+    'alpha_num'                => ':attribute मध्ये फक्त अक्षरे आणि संख्या वैध आहेत.',
+    'array'                    => ':attribute साठी फक्त सूची वैध आहे.',
+    'before'                   => ':attribute, :date आधीची एक तारीख पाहिजे.',
+    'before_or_equal'          => ':attribute, :date हि किंवा त्या आधीची एक तारीख पाहिजे.',
+    'between'                  => [
         'numeric' => ':attribute, :min किंवा :max यामध्ये असावी.',
         'file'    => ':attribute, :min किंवा :max किलोबाइट यामध्ये असावी.',
         'string'  => ':attribute, :min किंवा :max शब्द यामध्ये असावी.',

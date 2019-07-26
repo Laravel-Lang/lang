@@ -1977,7 +1977,6 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### ru:
 
-  * validation : ends_with : not present
 
 [ [to top](#todo-list) ]
 

@@ -146,6 +146,7 @@ return [
     'attributes' => [
         'address'               => 'adres',
         'age'                   => 'leeftijd',
+        'amount'                => 'bedrag',
         'available'             => 'beschikbaar',
         'city'                  => 'stad',
         'content'               => 'inhoud',

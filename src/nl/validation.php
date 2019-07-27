@@ -151,6 +151,7 @@ return [
         'city'                  => 'stad',
         'content'               => 'inhoud',
         'country'               => 'land',
+        'currency'              => 'valuta'    
         'date'                  => 'datum',
         'day'                   => 'dag',
         'description'           => 'omschrijving',

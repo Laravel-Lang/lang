@@ -8,7 +8,7 @@ return [
     |
     | The following language lines contain the default error messages used by
     | the validator class. Some of these rules have multiple versions such
-    | as the size rules. Feel free to tweak each of these messages.
+    | as the size rules. Feel free to tweak each of these messages here.
     |
     */
 
@@ -31,7 +31,7 @@ return [
     'boolean'              => ':attribute 必須是布爾值。',
     'confirmed'            => ':attribute 確認欄位的輸入並不相符。',
     'date'                 => ':attribute 並非一個有效的日期。',
-    'date_equals'          => 'The :attribute must be a date equal to :date.',
+    'date_equals'          => ':attribute 必須等於 :date。',
     'date_format'          => ':attribute 與 :format 格式不相符。',
     'different'            => ':attribute 與 :other 必須不同。',
     'digits'               => ':attribute 必須是 :digits 位數字。',
@@ -108,7 +108,7 @@ return [
         'string'  => ':attribute 必須是 :size 個字符。',
         'array'   => ':attribute 必須是 :size 個單元。',
     ],
-    'starts_with'          => 'The :attribute must start with one of the following: :values',
+    'starts_with'          => ':attribute 必須以 :values 其中之一開頭。',
     'string'               => ':attribute 必須是一個字符串',
     'timezone'             => ':attribute 必須是一個正確的時區值。',
     'unique'               => ':attribute 已經存在。',
@@ -122,7 +122,7 @@ return [
     |--------------------------------------------------------------------------
     |
     | Here you may specify custom validation messages for attributes using the
-    | convention 'attribute.rule' to name the lines. This makes it quick to
+    | convention "attribute.rule" to name the lines. This makes it quick to
     | specify a specific custom language line for a given attribute rule.
     |
     */
@@ -138,9 +138,9 @@ return [
     | Custom Validation Attributes
     |--------------------------------------------------------------------------
     |
-    | The following language lines are used to swap attribute place-holders
-    | with something more reader friendly such as E-Mail Address instead
-    | of 'email'. This simply helps us make messages a little cleaner.
+    | The following language lines are used to swap our attribute placeholder
+    | with something more reader friendly such as "E-Mail Address" instead
+    | of "email". This simply helps us make our message more expressive.
     |
     */
 

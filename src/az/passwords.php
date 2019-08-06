@@ -12,7 +12,7 @@ return [
     |
     */
 
-    'password' => 'Şifrə ən az 6 simvoldan ibarət olmalı və təkrarı ilə uyğun olmalıdır',
+    'password' => 'Şifrə ən az 8 simvoldan ibarət olmalı və təkrarı ilə uyğun olmalıdır',
     'reset'    => 'Şifrə yeniləndi',
     'sent'     => 'Şifrə yeniləmə adresi sizə email olaraq göndərildi',
     'token'    => 'Bu şifrə yeniləmə kodu yanlışdır',

@@ -12,9 +12,9 @@ return [
     |
     */
 
-    'password' => 'Wachtwoord moet minimaal acht tekens lang zijn en de wachtwoorden moeten overeenkomen.',
-    'reset'    => 'Het wachtwoord van uw account is gewijzigd.',
-    'sent'     => 'We hebben een e-mail verstuurd met instructies om een nieuw wachtwoord in te stellen.',
-    'token'    => 'Dit wachtwoordhersteltoken is niet geldig.',
-    'user'     => 'Geen gebruiker bekend met het e-mailadres.',
+    'password' => 'پاسورډ باید لږترلږه 6 حروف ولري او د تصدیق ساحه سره سمون ولري.',
+    'reset'    => 'ما خپل پاسورډ جوړ کړی دی',
+    'sent'     => 'د پاسورډ یادونې لیږل شوی.',
+    'token'    => 'د دې کارن د بیاکتنې نښه ناباوره ده.',
+    'user'     => 'د کاروونکي د برېښناليک پتې سره کارن ونه موندل شو.',
 ];

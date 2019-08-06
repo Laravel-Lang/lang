@@ -12,7 +12,7 @@ return [
     |
     */
 
-    'password' => 'Açarsöz 6 harpdan ybarat bolup, tassyklamasy bilen deň bolmaly.',
+    'password' => 'Açarsöz 8 harpdan ybarat bolup, tassyklamasy bilen deň bolmaly.',
     'reset'    => 'Açarsöz üýtgedildi!',
     'sent'     => 'Açarsöz ýatlatmasy ugradyldy!',
     'token'    => 'Açarsöz tazeleme söz birligi ýalňyş.',

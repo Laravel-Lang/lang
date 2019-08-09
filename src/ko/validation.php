@@ -31,7 +31,7 @@ return [
     'boolean'              => ':attribute은(는) true 또는 false 이어야 합니다.',
     'confirmed'            => ':attribute 확인 항목이 일치하지 않습니다.',
     'date'                 => ':attribute은(는) 유효한 날짜가 아닙니다.',
-    'date_equals'          => 'The :attribute must be a date equal to :date.',
+    'date_equals'          => ':attribute은(는) :date과(와) 같은날짜여야합니다.',
     'date_format'          => ':attribute이(가) :format 형식과 일치하지 않습니다.',
     'different'            => ':attribute와(과) :other은(는) 서로 달라야 합니다.',
     'digits'               => ':attribute은(는) :digits 자리 숫자여야 합니다.',
@@ -107,13 +107,13 @@ return [
         'string'  => ':attribute은(는) :size자여야 합니다.',
         'array'   => ':attribute은(는) :size개의 항목을 포함해야 합니다.',
     ],
-    'starts_with'          => 'The :attribute must start with one of the following: :values',
+    'starts_with'          => ':attribute은(는) :values 중하나로시작해야합니다.',
     'string'               => ':attribute은(는) 문자열이어야 합니다.',
     'timezone'             => ':attribute은(는) 올바른 시간대 이어야 합니다.',
     'unique'               => ':attribute은(는) 이미 사용 중입니다.',
     'uploaded'             => ':attribute을(를) 업로드하지 못했습니다.',
     'url'                  => ':attribute 형식은 유효하지 않습니다.',
-    'uuid'                 => 'The :attribute must be a valid UUID.',
+    'uuid'                 => ':attribute은(는) 유효한UUID여야합니다.',
 
     /*
     |--------------------------------------------------------------------------

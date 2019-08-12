@@ -41,6 +41,7 @@ return [
     'distinct'             => 'Поле :attribute содержит повторяющееся значение.',
     'email'                => 'Поле :attribute должно быть действительным электронным адресом.',
     'ends_with'            => 'Поле :attribute должно заканчиваться одним из следующих значений: :values',
+    'ends_with'            => 'The :attribute must end with one of the following: :values',
     'exists'               => 'Выбранное значение для :attribute некорректно.',
     'file'                 => 'Поле :attribute должно быть файлом.',
     'filled'               => 'Поле :attribute обязательно для заполнения.',

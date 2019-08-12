@@ -39,6 +39,7 @@ return [
     'dimensions'           => 'The :attribute has invalid image dimensions.',
     'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => ':attribute ទំរង់នេះមិនត្រឹមត្រូវ។',
+    'ends_with'            => 'The :attribute must end with one of the following: :values',
     'exists'               => 'ការជ្រើសរើស :attribute ត្រឹមត្រូវ។',
     'file'                 => 'The :attribute must be a file.',
     'filled'               => 'ទំរង់ :attribute នេះគឺទាមទារឲ្យមាន។',

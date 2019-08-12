@@ -31,7 +31,7 @@ return [
     'boolean'              => 'Câmpul :attribute trebuie să fie adevărat sau fals.',
     'confirmed'            => 'Confirmarea :attribute nu se potrivește.',
     'date'                 => 'Câmpul :attribute nu este o dată validă.',
-    'date_equals'          => 'The :attribute must be a date equal to :date.',
+    'date_equals'          => 'Aceasta :attribute trebuie să fie o dată egală cu :date.',
     'date_format'          => 'Câmpul :attribute trebuie să fie în formatul :format.',
     'different'            => 'Câmpurile :attribute și :other trebuie să fie diferite.',
     'digits'               => 'Câmpul :attribute trebuie să aibă :digits cifre.',
@@ -39,6 +39,7 @@ return [
     'dimensions'           => 'Câmpul :attribute are dimensiuni de imagine nevalide.',
     'distinct'             => 'Câmpul :attribute are o valoare duplicat.',
     'email'                => 'Câmpul :attribute trebuie să fie o adresă de e-mail validă.',
+    'ends_with'            => 'The :attribute must end with one of the following: :values',
     'exists'               => 'Câmpul :attribute selectat nu este valid.',
     'file'                 => 'Câmpul :attribute trebuie să fie un fișier.',
     'filled'               => 'Câmpul :attribute trebuie completat.',
@@ -107,13 +108,13 @@ return [
         'string'  => 'Câmpul :attribute trebuie să aibă :size caractere.',
         'array'   => 'Câmpul :attribute trebuie să aibă :size elemente.',
     ],
-    'starts_with'          => 'The :attribute must start with one of the following: :values',
+    'starts_with'          => 'Acesta :attribute trebuie să înceapă cu una din următoarele: :values',
     'string'               => 'Câmpul :attribute trebuie să fie string.',
     'timezone'             => 'Câmpul :attribute trebuie să fie un fus orar valid.',
     'unique'               => 'Câmpul :attribute a fost deja folosit.',
     'uploaded'             => 'Câmpul :attribute nu a reușit încărcarea.',
     'url'                  => 'Câmpul :attribute nu este un URL valid.',
-    'uuid'                 => 'The :attribute must be a valid UUID.',
+    'uuid'                 => 'Acesta :attribute trebuie să fie un cod UUID valid.',
 
     /*
     |--------------------------------------------------------------------------

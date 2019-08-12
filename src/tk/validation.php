@@ -39,6 +39,7 @@ return [
     'dimensions'           => 'The :attribute has invalid image dimensions.',
     'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => ':attribute formaty ýalňyş.',
+    'ends_with'            => 'The :attribute must end with one of the following: :values',
     'exists'               => 'Saýlanan :attribute ýalňyş.',
     'file'                 => 'The :attribute must be a file.',
     'filled'               => ':attribute meýdany zerur.',

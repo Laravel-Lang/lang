@@ -39,9 +39,10 @@ return [
     'dimensions'           => ':Attribute майдонидаги тасвир тўғри келмайдиган ўлчамларга эга.',
     'distinct'             => ':Attribute майдони такрорланувчи қийматлардан иборат.',
     'email'                => ':Attribute майдони ҳақийқий электрон почта манзили бўлиши керак.',
+    'ends_with'            => 'The :attribute must end with one of the following: :values',
+    'exists'               => ':Attribute майдони учун танланган қиймат нотўғри.',
     'file'                 => ':Attribute майдони файл турида бўлиши керак.',
     'filled'               => ':Attribute майдони тўлдирилиши шарт.',
-    'exists'               => ':Attribute майдони учун танланган қиймат нотўғри.',
     'gt'                   => [
         'numeric' => 'The :attribute must be greater than :value.',
         'file'    => 'The :attribute must be greater than :value kilobytes.',

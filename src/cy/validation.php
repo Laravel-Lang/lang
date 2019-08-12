@@ -39,9 +39,10 @@ return [
     'dimensions'           => 'The :attribute has invalid image dimensions.',
     'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => 'Rhaid i :attribute fod yn gyfeiriad ebost dilys.',
+    'ends_with'            => 'The :attribute must end with one of the following: :values',
+    'exists'               => 'Nid yw :attribute yn ddilys.',
     'file'                 => 'The :attribute must be a file.',
     'filled'               => 'Rhaid cynnwys :attribute.',
-    'exists'               => 'Nid yw :attribute yn ddilys.',
     'gt'                   => [
         'numeric' => 'The :attribute must be greater than :value.',
         'file'    => 'The :attribute must be greater than :value kilobytes.',

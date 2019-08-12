@@ -39,6 +39,7 @@ return [
     'dimensions'           => ':attribute अयोग्य माप आहे.',
     'distinct'             => ':attribute वेगवेगळे असावेत.',
     'email'                => ':attribute एक वैध ईमेल पत्ता असणे आवश्यक आहे.',
+    'ends_with'            => 'The :attribute must end with one of the following: :values',
     'exists'               => 'निवडलेेलेे :attribute वैध नाही.',
     'file'                 => ':attribute एक फ़ाइल असावी.',
     'filled'               => ':attribute फील्ड आवश्यक आहे.',

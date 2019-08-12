@@ -39,6 +39,7 @@ return [
     'dimensions'           => ':attribute görsel ölçüleri geçersiz.',
     'distinct'             => ':attribute alanı yinelenen bir değere sahip.',
     'email'                => ':attribute biçimi geçersiz.',
+    'ends_with'            => 'The :attribute must end with one of the following: :values',
     'exists'               => 'Seçili :attribute geçersiz.',
     'file'                 => ':attribute dosya olmalıdır.',
     'filled'               => ':attribute alanının doldurulması zorunludur.',

@@ -39,6 +39,7 @@ return [
     'dimensions'           => 'Les dimensions de la imatge :attribute no són vàlides.',
     'distinct'             => 'El camp :attribute té un valor duplicat.',
     'email'                => ':attribute no és un e-mail vàlid',
+    'ends_with'            => 'The :attribute must end with one of the following: :values',
     'exists'               => ':attribute és invàlid.',
     'file'                 => 'El camp :attribute ha de ser un arxiu.',
     'filled'               => 'El camp :attribute és obligatori.',

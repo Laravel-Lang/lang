@@ -40,6 +40,7 @@ return [
     'dimensions'           => 'Trường :attribute có kích thước không hợp lệ.',
     'distinct'             => 'Trường :attribute có giá trị trùng lặp.',
     'email'                => 'Trường :attribute phải là một địa chỉ email hợp lệ.',
+    'ends_with'            => 'The :attribute must end with one of the following: :values',
     'exists'               => 'Giá trị đã chọn trong trường :attribute không hợp lệ.',
     'file'                 => 'Trường :attribute phải là một tệp tin.',
     'filled'               => 'Trường :attribute không được bỏ trống.',

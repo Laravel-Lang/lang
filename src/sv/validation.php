@@ -39,6 +39,7 @@ return [
     'dimensions'           => ':attribute har felaktiga bilddimensioner.',
     'distinct'             => ':attribute innehåller fler än en repetition av samma element.',
     'email'                => ':attribute måste innehålla en korrekt e-postadress.',
+    'ends_with'            => 'The :attribute must end with one of the following: :values',
     'exists'               => ':attribute är ogiltigt.',
     'file'                 => ':attribute måste vara en fil.',
     'filled'               => ':attribute är obligatoriskt.',

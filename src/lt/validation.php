@@ -38,9 +38,10 @@ return [
     'dimensions'           => 'Lauke :attribute įkeltas paveiksliukas neatitinka išmatavimų reikalavimo.',
     'distinct'             => 'Laukas :attribute pasikartoja.',
     'email'                => 'Lauko :attribute reikšmė turi būti galiojantis el. pašto adresas.',
+    'ends_with'            => 'The :attribute must end with one of the following: :values',
+    'exists'               => 'Pasirinkta negaliojanti :attribute reikšmė.',
     'file'                 => ':attribute turi būti failas.',
     'filled'               => 'Laukas :attribute turi būti užpildytas.',
-    'exists'               => 'Pasirinkta negaliojanti :attribute reikšmė.',
     'gt'                   => [
         'numeric' => 'Lauko :attribute reikšmė turi būti didesnė negu :value.',
         'file'    => 'Lauko :attribute reikšmė turi būti didesnė negu :value kilobaitai.',

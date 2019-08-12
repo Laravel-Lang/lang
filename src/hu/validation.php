@@ -39,6 +39,7 @@ return [
     'dimensions'           => 'A(z) :attribute felbontása nem megfelelő.',
     'distinct'             => 'A(z) :attribute értékének egyedinek kell lennie!',
     'email'                => 'A(z) :attribute nem érvényes email formátum.',
+    'ends_with'            => 'The :attribute must end with one of the following: :values',
     'exists'               => 'A(z) :attribute már létezik.',
     'file'                 => 'A(z) :attribute fájl kell, hogy legyen!',
     'filled'               => 'A(z) :attribute megadása kötelező!',

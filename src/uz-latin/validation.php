@@ -39,9 +39,10 @@ return [
     'dimensions'           => ':Attribute maydonidagi tasvir to‘g‘ri kelmaydigan o‘lchamlarga ega.',
     'distinct'             => ':Attribute maydoni takrorlanuvchi qiymatlardan iborat.',
     'email'                => ':Attribute maydoni haqiyqiy elektron pochta manzili bo‘lishi kerak.',
+    'ends_with'            => 'The :attribute must end with one of the following: :values',
+    'exists'               => ':Attribute maydoni uchun tanlangan qiymat noto‘g‘ri.',
     'file'                 => ':Attribute maydoni fayl turida bo‘lishi kerak.',
     'filled'               => ':Attribute maydoni to‘ldirilishi shart.',
-    'exists'               => ':Attribute maydoni uchun tanlangan qiymat noto‘g‘ri.',
     'gt'                   => [
         'numeric' => 'The :attribute must be greater than :value.',
         'file'    => 'The :attribute must be greater than :value kilobytes.',

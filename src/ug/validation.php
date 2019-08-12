@@ -39,6 +39,7 @@ return [
     'dimensions'           => ':attribute رەسىم ئۆلچىمى ئىناۋەتسىز.',
     'distinct'             => ':attribute ئاللابۇرۇن مەۋجۈت.',
     'email'                => ':attribute ئىناۋەتلىك تورخەت ئادىرىسى ئەمەس.',
+    'ends_with'            => 'The :attribute must end with one of the following: :values',
     'exists'               => ':attribute مەۋجۇت ئەمەس.',
     'file'                 => ':attribute چوقۇم ھۆججەت بۇلىشى كېرەك.',
     'filled'               => ':attribute قۇرۇق بولسا بولمايدۇ.',

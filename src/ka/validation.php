@@ -39,6 +39,7 @@ return [
     'dimensions'           => ':attribute შეიცავს სურათის არასწორ ზომებს.',
     'distinct'             => ':attribute უნდა იყოს უნიკალური.',
     'email'                => ':attribute უნდა იყოს სწორი ელ.ფოსტა.',
+    'ends_with'            => 'The :attribute must end with one of the following: :values',
     'exists'               => 'ასეთი :attribute არ არსებობს.',
     'file'                 => ':attribute უნდა იყოს ფაილი.',
     'filled'               => ':attribute აუცილებელია.',

@@ -39,6 +39,7 @@ return [
     'dimensions'           => ':attribute은(는) 유효하지 않는 이미지 크기입니다.',
     'distinct'             => ':attribute 필드에 중복된 값이 있습니다.',
     'email'                => ':attribute은(는) 유효한 이메일 주소여야 합니다.',
+    'ends_with'            => 'The :attribute must end with one of the following: :values',
     'exists'               => '선택된 :attribute은(는) 유효하지 않습니다.',
     'file'                 => ':attribute은(는) 파일이어야 합니다.',
     'filled'               => ':attribute 필드는 값이 있어야 합니다.',

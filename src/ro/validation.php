@@ -39,6 +39,7 @@ return [
     'dimensions'           => 'Câmpul :attribute are dimensiuni de imagine nevalide.',
     'distinct'             => 'Câmpul :attribute are o valoare duplicat.',
     'email'                => 'Câmpul :attribute trebuie să fie o adresă de e-mail validă.',
+    'ends_with'            => 'The :attribute must end with one of the following: :values',
     'exists'               => 'Câmpul :attribute selectat nu este valid.',
     'file'                 => 'Câmpul :attribute trebuie să fie un fișier.',
     'filled'               => 'Câmpul :attribute trebuie completat.',

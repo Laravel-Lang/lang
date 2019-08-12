@@ -39,6 +39,7 @@ return [
     'dimensions'           => ':attribute ima napačne dimenzije slike.',
     'distinct'             => ':attribute je duplikat.',
     'email'                => ':attribute mora biti veljaven e-poštni naslov.',
+    'ends_with'            => 'The :attribute must end with one of the following: :values',
     'exists'               => 'izbran :attribute je neveljaven.',
     'file'                 => ':attribute mora biti datoteka.',
     'filled'               => ':attribute mora biti izpolnjen.',

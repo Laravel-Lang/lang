@@ -39,6 +39,7 @@ return [
     'dimensions'           => ':attribute ina vipimo vya picha ambavyo si sahihi.',
     'distinct'             => 'Sehemu ya kipengele ina thamani rudufu.',
     'email'                => 'Kipengele lazima kiwe anuani halali ya barua pepe.',
+    'ends_with'            => 'The :attribute must end with one of the following: :values',
     'exists'               => 'Kipengele kilichochaguliwa si halali.',
     'file'                 => ':attribute linapaswa kuwa faili.',
     'filled'               => 'Sehemu ya kipengele inahitajika.',

@@ -39,6 +39,7 @@ return [
     'dimensions'           => 'Polje :attribute ima neispravne dimenzije slike.',
     'distinct'             => 'Polje :attribute ima dupliciranu vrijednost.',
     'email'                => 'Polje :attribute mora biti ispravna e-mail adresa.',
+    'ends_with'            => 'The :attribute must end with one of the following: :values',
     'exists'               => 'Odabrano polje :attribute nije ispravno.',
     'file'                 => 'Polje :attribute mora biti datoteka.',
     'filled'               => 'Polje :attribute je obavezno.',

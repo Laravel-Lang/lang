@@ -39,6 +39,7 @@ return [
     'dimensions'           => 'Kentän :attribute kuvalla on virheelliset mitat.',
     'distinct'             => 'Kentän :attribute arvo ei ole uniikki.',
     'email'                => 'Kentän :attribute arvo ei ole validi sähköpostiosoite.',
+    'ends_with'            => 'The :attribute must end with one of the following: :values',
     'exists'               => 'Kentän :attribute valittu arvo on virheellinen.',
     'file'                 => 'Kentän :attribute arvon tulee olla tiedosto.',
     'filled'               => 'Kenttä :attribute on pakollinen.',

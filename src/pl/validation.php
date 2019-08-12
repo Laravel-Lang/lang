@@ -39,6 +39,7 @@ return [
     'dimensions'           => ':attribute ma niepoprawne wymiary.',
     'distinct'             => ':attribute ma zduplikowane wartości.',
     'email'                => 'Format :attribute jest nieprawidłowy.',
+    'ends_with'            => 'The :attribute must end with one of the following: :values',
     'exists'               => 'Zaznaczony :attribute jest nieprawidłowy.',
     'file'                 => ':attribute musi być plikiem.',
     'filled'               => 'Pole :attribute jest wymagane.',

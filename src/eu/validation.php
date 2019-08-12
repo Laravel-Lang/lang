@@ -39,6 +39,7 @@ return [
     'dimensions'           => ':attribute irudiaren neurriak baliogabeak dira.',
     'distinct'             => ':attribute-(e)k bikoiztutako balioa dauka.',
     'email'                => ':attribute baliozko helbide elektronikoa izan behar da.',
+    'ends_with'            => 'The :attribute must end with one of the following: :values',
     'exists'               => ':attribute baliogabea da.',
     'file'                 => ':attribute fitxategi bat izan behar da.',
     'filled'               => ':attribute derrigorrezkoa da.',

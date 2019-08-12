@@ -38,6 +38,7 @@ return [
     'dimensions'           => 'د :attribute د ناباوره انځور اړخونه لري.',
     'distinct'             => 'د ساحې څخه :attribute د نقل ارزښت .',
     'email'                => 'دا باید وي :attribute یو باوري بریښلیک پته جوړښت.',
+    'ends_with'            => 'The :attribute must end with one of the following: :values',
     'exists'               => 'مشخص ارزښت :attribute شتون نلري.',
     'file'                 => 'د :attribute دا باید یوه فایل وي.',
     'filled'               => ':attribute لازمه ده.',

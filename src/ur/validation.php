@@ -39,6 +39,7 @@ return [
     'dimensions'           => 'The :attribute has invalid image dimensions.',
     'distinct'             => ':attribute کی دہری ویلیو ہے۔',
     'email'                => ':attribute لازماً قابلِ قبول ای میل ہو۔',
+    'ends_with'            => 'The :attribute must end with one of the following: :values',
     'exists'               => 'منتخب :attribute درست نہیں ہے۔',
     'file'                 => 'The :attribute must be a file.',
     'filled'               => ':attribute کو بھرنا ضروری ہے۔',

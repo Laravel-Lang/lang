@@ -39,6 +39,7 @@ return [
     'dimensions'           => ':attribute heeft geen geldige afmetingen voor afbeeldingen.',
     'distinct'             => ':attribute heeft een dubbele waarde.',
     'email'                => ':attribute is geen geldig e-mailadres.',
+    'ends_with'            => 'The :attribute must end with one of the following: :values',
     'exists'               => ':attribute bestaat niet.',
     'file'                 => ':attribute moet een bestand zijn.',
     'filled'               => ':attribute is verplicht.',

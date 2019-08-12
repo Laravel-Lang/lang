@@ -39,6 +39,7 @@ return [
     'dimensions'           => ':attribute har forkerte billeddimensioner.',
     'distinct'             => ':attribute har en duplikatværdi.',
     'email'                => ':attribute skal være en gyldig e-mailadresse.',
+    'ends_with'            => 'The :attribute must end with one of the following: :values',
     'exists'               => 'Valgte :attribute er ugyldig.',
     'file'                 => ':attribute skal være en fil.',
     'filled'               => ':attribute skal udfyldes.',

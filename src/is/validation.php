@@ -39,9 +39,10 @@ return [
     'dimensions'           => ':attribute hefur ógilda myndvídd.',
     'distinct'             => ':attribute reiturinn hefur tvítekið gildi.',
     'email'                => 'Reiturinn :attribute snið netfangsins er ekki rétt.',
+    'ends_with'            => 'The :attribute must end with one of the following: :values',
+    'exists'               => 'Reiturinn :attribute er nú þegar til.',
     'file'                 => ':attribute verður að vera skrá.',
     'filled'               => 'Reiturinn :attribute verður að innihalda eitthvað.',
-    'exists'               => 'Reiturinn :attribute er nú þegar til.',
     'gt'                   => [
         'numeric' => ':attribute verður að vera stærra en :value.',
         'file'    => ':attribute verður að vera stærra en :value kílóbæti.',

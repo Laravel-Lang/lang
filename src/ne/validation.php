@@ -39,6 +39,7 @@ return [
     'dimensions'           => 'The :attribute has invalid image dimensions.',
     'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => ':attribute को इमेल ठेगाना मिलेन।',
+    'ends_with'            => 'The :attribute must end with one of the following: :values',
     'exists'               => 'छानिएको :attribute अमान्य छ।',
     'file'                 => 'The :attribute must be a file.',
     'filled'               => ':attribute दिइएको हुनुपर्छ।',

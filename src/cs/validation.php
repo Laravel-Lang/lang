@@ -39,6 +39,7 @@ return [
     'dimensions'           => ':attribute má neplatné rozměry.',
     'distinct'             => ':attribute má duplicitní hodnotu.',
     'email'                => ':attribute není platný formát.',
+    'ends_with'            => 'The :attribute must end with one of the following: :values',
     'exists'               => 'Zvolená hodnota pro :attribute není platná.',
     'file'                 => ':attribute musí být soubor.',
     'filled'               => ':attribute musí být vyplněno.',

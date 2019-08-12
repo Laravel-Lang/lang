@@ -39,6 +39,7 @@ return [
     'dimensions'           => 'שדה :attribute מימדי התמונה לא תקינים',
     'distinct'             => 'שדה :attribute קיים ערך כפול.',
     'email'                => 'שדה :attribute חייב להיות כתובת אימייל תקנית.',
+    'ends_with'            => 'The :attribute must end with one of the following: :values',
     'exists'               => 'בחירת ה-:attribute אינה תקפה.',
     'file'                 => 'שדה :attribute חייב להיות קובץ.',
     'filled'               => 'שדה :attribute הוא חובה.',

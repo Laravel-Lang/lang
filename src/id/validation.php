@@ -39,6 +39,7 @@ return [
     'dimensions'           => 'Bidang :attribute tidak memiliki dimensi gambar yang valid.',
     'distinct'             => 'Bidang isian :attribute memiliki nilai yang duplikat.',
     'email'                => 'Isian :attribute harus berupa alamat surel yang valid.',
+    'ends_with'            => 'The :attribute must end with one of the following: :values',
     'exists'               => 'Isian :attribute yang dipilih tidak valid.',
     'file'                 => 'Bidang :attribute harus berupa sebuah berkas.',
     'filled'               => 'Isian :attribute harus memiliki nilai.',

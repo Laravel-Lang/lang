@@ -31,7 +31,7 @@ return [
     'boolean'              => ':attribute måste vara sant eller falskt.',
     'confirmed'            => ':attribute bekräftelsen matchar inte.',
     'date'                 => ':attribute är inte ett giltigt datum.',
-    'date_equals'          => 'The :attribute must be a date equal to :date.',
+    'date_equals'          => ':attribute måste vara ett datum lika med :date.',
     'date_format'          => ':attribute matchar inte formatet :format.',
     'different'            => ':attribute och :other får inte vara lika.',
     'digits'               => ':attribute måste vara :digits tecken.',
@@ -107,13 +107,13 @@ return [
         'string'  => ':attribute måste innehålla :size tecken.',
         'array'   => ':attribute måste innehålla :size objekt.',
     ],
-    'starts_with'          => 'The :attribute must start with one of the following: :values',
+    'starts_with'          => ':attribute måste börja med en av följande: :values',
     'string'               => ':attribute måste vara en sträng.',
     'timezone'             => ':attribute måste vara en giltig tidszon.',
     'unique'               => ':attribute används redan.',
     'uploaded'             => ':attribute kunde inte laddas upp.',
     'url'                  => ':attribute har ett ogiltigt format.',
-    'uuid'                 => 'The :attribute must be a valid UUID.',
+    'uuid'                 => ':attribute måste vara ett giltigt UUID.',
 
     /*
     |--------------------------------------------------------------------------

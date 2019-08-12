@@ -31,7 +31,7 @@ return [
     'boolean'              => 'Polje :attribute mora biti false ili true.',
     'confirmed'            => 'Potvrda polja :attribute se ne podudara.',
     'date'                 => 'Polje :attribute nije ispravan datum.',
-    'date_equals'          => 'The :attribute must be a date equal to :date.',
+    'date_equals'          => 'Stavka :attribute mora biti jednaka :date.',
     'date_format'          => 'Polje :attribute ne podudara s formatom :format.',
     'different'            => 'Polja :attribute i :other moraju biti različita.',
     'digits'               => 'Polje :attribute mora sadržavati :digits znamenki.',
@@ -107,13 +107,13 @@ return [
         'string'  => 'Polje :attribute mora biti :size znakova.',
         'array'   => 'Polje :attribute mora sadržavati :size stavki.',
     ],
-    'starts_with'          => 'The :attribute must start with one of the following: :values',
+    'starts_with'          => 'Stavka :attribute mora započinjati jednom od narednih stavki: :values',
     'string'               => 'Polje :attribute mora biti string.',
     'timezone'             => 'Polje :attribute mora biti ispravna vremenska zona.',
     'unique'               => 'Polje :attribute već postoji.',
     'uploaded'             => 'Polje :attribute nije uspešno učitano.',
     'url'                  => 'Polje :attribute nije ispravnog formata.',
-    'uuid'                 => 'The :attribute must be a valid UUID.',
+    'uuid'                 => 'Stavka :attribute mora biti valjani UUID.',
 
     /*
     |--------------------------------------------------------------------------

@@ -1,7 +1,5 @@
 # Laravel-lang
 
-[![Stories in Ready](https://badge.waffle.io/caouecs/Laravel-lang.svg)](http://waffle.io/caouecs/Laravel-lang)
-
 In this repository, you can find the lang files for the framework PHP, [Laravel 4&5](http://www.laravel.com).
 
 ## Install
@@ -20,8 +18,7 @@ In this repository, you can find the lang files for the framework PHP, [Laravel 
 * Or download the [zip file](https://github.com/caouecs/laravel-lang/archive/master.zip)
 * Choose the branch:
     * `laravel4` for Laravel4 project
-    * `master` for Laravel 5.1-5.7 project
-    * `laravel58` for Laravel 5.8 project
+    * `master` for Laravel 5.8 project
 * Copy the folders of languages that you want, in *resources/lang* folder of your Laravel application (*app/lang* in Laravel 4).
 
 #### Via SVN

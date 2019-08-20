@@ -1835,7 +1835,6 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### ru:
 
-
 [ [to top](#todo-list) ]
 
 #### sc:

@@ -19,6 +19,7 @@ In this repository, you can find the lang files for the framework PHP, [Laravel 
 * Choose the branch:
     * `laravel4` for Laravel4 project
     * `master` for Laravel 5.8 project
+    * `laravel58` for Laravel 5.8 project
 * Copy the folders of languages that you want, in *resources/lang* folder of your Laravel application (*app/lang* in Laravel 4).
 
 #### Via SVN

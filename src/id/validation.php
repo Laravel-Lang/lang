@@ -1,4 +1,5 @@
 <?php
+
 return [
     /*
     |---------------------------------------------------------------------------------------
@@ -10,6 +11,7 @@ return [
     | Jangan ragu untuk mengoptimalkan setiap pesan yang ada di sini.
     |
     */
+
     'accepted'             => ':attribute harus diterima.',
     'active_url'           => ':attribute bukan URL yang valid.',
     'after'                => ':attribute harus berisi tanggal setelah :date.',
@@ -113,6 +115,7 @@ return [
     'uploaded'             => ':attribute gagal diunggah.',
     'url'                  => 'Format :attribute tidak valid.',
     'uuid'                 => ':attribute harus merupakan UUID yang valid.',
+
     /*
     |---------------------------------------------------------------------------------------
     | Baris Bahasa untuk Validasi Kustom
@@ -123,11 +126,13 @@ return [
     | dalam menentukan baris bahasa kustom yang spesifik untuk aturan atribut yang diberikan.
     |
     */
+
     'custom' => [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
     ],
+
     /*
     |---------------------------------------------------------------------------------------
     | Kustom Validasi Atribut
@@ -138,6 +143,7 @@ return [
     | Hal ini membantu kita dalam membuat pesan menjadi lebih ekspresif.
     |
     */
+
     'attributes' => [
     ],
 ];

@@ -31,7 +31,7 @@
   "Server Error": "Chyba serveru",
   "Service Unavailable": "Služba je nedostupná",
   "This action is unauthorized.": "Pro tuto akci nemáte oprávnění.",
-  "This password reset link will expire in :count minutes.": "Tento odkaz na resetování hesla vyprší za :count minut.",
+  "This password reset link will expire in :count minutes.": "Tento odkaz na obnovení hesla vyprší za :count minut.",
   "Toggle navigation": "Přepnout navigaci",
   "Too Many Attempts.": "Příliš mnoho pokusů.",
   "Too Many Requests": "Příliš mnoho požadavků",

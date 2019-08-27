@@ -12,6 +12,12 @@ In this repository, you can find the lang files for the framework PHP, [Laravel 
 * Files of languages are in "vendor/caouecs/laravel-lang" directory
 * Copy the folders of languages that you want, in the *resources/lang* folder of your Laravel application (*app/lang* in Laravel 4).
 
+You can also use one of the suggested translation managers to automatically update files in your project:
+* [andrey-helldar/laravel-lang-publisher](https://github.com/andrey-helldar/laravel-lang-publisher)
+* [arcanedev/laravel-lang](https://github.com/ARCANEDEV/LaravelLang)
+* [ablunier/laravel-lang-installer](https://github.com/ablunier/laravel-lang-installer)
+* [overtrue/laravel-lang](https://github.com/overtrue/laravel-lang)
+
 #### Via GitHub
 
 * Clone the [GitHub repository](https://github.com/caouecs/laravel-lang/) : *git clone https://github.com/caouecs/Laravel-lang.git*

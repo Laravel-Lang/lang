@@ -44,5 +44,11 @@
   "Verify Your Email Address": "Patvirtinkite savo el. pašto adresą",
   "You are receiving this email because we received a password reset request for your account.": "Jūs gavote šį el. laišką, nes buvo išsiųsta jūsų paskyros slaptažodžio atstatymo užklausa.",
   "Whoops!": "Ups!",
-  "Whoops, something went wrong on our servers.": "Ups, įvyko klaida."
+  "Whoops, something went wrong on our servers.": "Ups, įvyko klaida.",
+  "Invalid signature.": "Neteisingas parašas.",
+  "Not Found": "Nerasta",
+  "Server Error" : "Serverio klaida",
+  "This action is unauthorized.": "Jūs neturite leidimo atlikti šį veiksmą.",
+  "Too Many Attempts.": "Per daug bandymų.",
+  "Your email address is not verified.": "Jūsų el. pašto adresas yra nepatvirtintas."
 }

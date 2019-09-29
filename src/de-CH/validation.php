@@ -31,7 +31,7 @@ return [
     'boolean'              => ":attribute muss entweder 'true' oder 'false' sein.",
     'confirmed'            => ':attribute stimmt nicht mit der Bestätigung überein.',
     'date'                 => ':attribute muss ein gültiges Datum sein.',
-    'date_equals'          => 'The :attribute must be a date equal to :date.',
+    'date_equals'          => ':attribute muss ein Datum gleich dem :date sein.',
     'date_format'          => ':attribute entspricht nicht dem gültigen Format für :format.',
     'different'            => ':attribute und :other müssen sich unterscheiden.',
     'digits'               => ':attribute muss :digits Stellen haben.',
@@ -39,7 +39,7 @@ return [
     'dimensions'           => ':attribute hat ungültige Bildabmessungen.',
     'distinct'             => ':attribute beinhaltet einen bereits vorhandenen Wert.',
     'email'                => ':attribute muss eine gültige E-Mail-Adresse sein.',
-    'ends_with'            => 'The :attribute must end with one of the following: :values',
+    'ends_with'            => ':attribute muss eine der folgenden Endungen aufweisen: :values',
     'exists'               => 'Der gewählte Wert für :attribute ist ungültig.',
     'file'                 => ':attribute muss eine Datei sein.',
     'filled'               => ':attribute muss ausgefüllt sein.',
@@ -108,13 +108,13 @@ return [
         'string'  => ':attribute muss :size Zeichen lang sein.',
         'array'   => ':attribute muss genau :size Elemente haben.',
     ],
-    'starts_with'          => 'The :attribute must start with one of the following: :values',
+    'starts_with'          => ':attribute muss einen der folgenden Anfänge aufweisen: :values',
     'string'               => ':attribute muss ein String sein.',
     'timezone'             => ':attribute muss eine gültige Zeitzone sein.',
     'unique'               => ':attribute ist schon vergeben.',
     'uploaded'             => ':attribute konnte nicht hochgeladen werden.',
     'url'                  => ':attribute muss eine URL sein.',
-    'uuid'                 => 'The :attribute must be a valid UUID.',
+    'uuid'                 => 'attribute muss ein UUID sein.',
 
     /*
     |--------------------------------------------------------------------------

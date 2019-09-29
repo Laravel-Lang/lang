@@ -549,10 +549,6 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
   * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * validation : date_equals
-  * validation : ends_with
-  * validation : starts_with
-  * validation : uuid
 
 [ [to top](#todo-list) ]
 

@@ -494,14 +494,6 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### de:
 
-  * json : Invalid signature. : not present
-  * json : Name
-  * json : Not Found : not present
-  * json : Server Error : not present
-  * json : This action is unauthorized. : not present
-  * json : Too Many Attempts. : not present
-  * json : Your email address is not verified. : not present
-
 [ [to top](#todo-list) ]
 
 #### de-CH:

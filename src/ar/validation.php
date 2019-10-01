@@ -89,7 +89,7 @@ return [
         'string'  => 'يجب أن يكون طول النص :attribute على الأقل :min حروفٍ/حرفًا.',
         'array'   => 'يجب أن يحتوي :attribute على الأقل على :min عُنصرًا/عناصر.',
     ],
-    'not_in'               => ':attribute موجود.',
+    'not_in'               => 'العنصر :attribute غير صحيح.',
     'not_regex'            => 'صيغة :attribute غير صحيحة.',
     'numeric'              => 'يجب على :attribute أن يكون رقمًا.',
     'present'              => 'يجب تقديم :attribute.',

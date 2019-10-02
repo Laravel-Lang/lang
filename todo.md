@@ -494,6 +494,8 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### de:
 
+  * json : Name
+
 [ [to top](#todo-list) ]
 
 #### de-CH:
@@ -586,8 +588,6 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Too Many Attempts. : not present
   * json : Your email address is not verified. : not present
   * validation : date_equals
-  * validation : ends_with
-  * validation : starts_with
 
 [ [to top](#todo-list) ]
 

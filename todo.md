@@ -875,15 +875,8 @@ into your web browser: [:actionURL](:actionURL) : not present
 #### it:
 
   * json : click here to request another : not present
-  * json : Invalid signature. : not present
-  * json : Not Found : not present
   * json : Oh no
   * json : Password
-  * json : Server Error : not present
-  * json : This action is unauthorized. : not present
-  * json : Too Many Attempts. : not present
-  * json : Your email address is not verified. : not present
-  * validation : ends_with
 
 [ [to top](#todo-list) ]
 
@@ -2429,6 +2422,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 
 #### vi:
+
 
 [ [to top](#todo-list) ]
 

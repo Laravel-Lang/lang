@@ -92,6 +92,7 @@ return [
     'not_in'               => '已选的属性 :attribute 非法。',
     'not_regex'            => ':attribute 的格式错误。',
     'numeric'              => ':attribute 必须是一个数字。',
+    'password'             => '密码错误',
     'present'              => ':attribute 必须存在。',
     'regex'                => ':attribute 格式不正确。',
     'required'             => ':attribute 不能为空。',

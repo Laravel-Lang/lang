@@ -92,6 +92,7 @@ return [
     'not_in'               => '所選擇的 :attribute 選項無效。',
     'not_regex'            => ':attribute 的格式錯誤。',
     'numeric'              => ':attribute 必須為一個數字。',
+    'password'             => '密碼錯誤',
     'present'              => ':attribute 必須存在。',
     'regex'                => ':attribute 的格式錯誤。',
     'required'             => ':attribute 不能留空。',

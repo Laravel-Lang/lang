@@ -92,6 +92,7 @@ return [
     'not_in'               => 'العنصر :attribute غير صحيح.',
     'not_regex'            => 'صيغة :attribute غير صحيحة.',
     'numeric'              => 'يجب على :attribute أن يكون رقمًا.',
+    'password'             => 'كلمة المرور غير صحيحة.',
     'present'              => 'يجب تقديم :attribute.',
     'regex'                => 'صيغة :attribute .غير صحيحة.',
     'required'             => ':attribute مطلوب.',

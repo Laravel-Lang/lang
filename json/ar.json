@@ -22,6 +22,7 @@
   "Page Expired": "الصفحة منتهية الصلاحية",
   "Password": "كلمة المرور",
   "Please click the button below to verify your email address.": "يرجى النقر على الزر أدناه للتحقق من عنوان بريدك الإلكتروني.",
+  "Please confirm your password before continuing.": "يرجى تأكيد كلمة مرورك قبل المتابعة.",
   "Regards": "مع التحية",
   "Register": "تسجيل",
   "Remember Me": "تذكرني",
@@ -38,6 +39,7 @@
   "Unauthorized": "غير مصرّح",
   "Verify Email Address": "التحقق من عنوان البريد الإلكتروني",
   "Verify Your Email Address": "تحقق من عنوان البريد الإلكتروني الخاص بك",
+  "We won't ask for your password again for a few hours.": "لن نطلب كلمة المرور مرة أخرى لبضع ساعات.",
   "You are receiving this email because we received a password reset request for your account.": "لقد استلمت هذا الإيميل لأننا استقبلنا طلباً لاستعادة كلمة مرور حسابك.",
   "Your email address is not verified.": "بريدك الإلكتروني غير موثّق.",
   "Whoops!": "عذراً!"

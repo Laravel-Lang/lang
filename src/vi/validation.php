@@ -93,6 +93,7 @@ return [
     'not_in'               => 'Giá trị đã chọn trong trường :attribute không hợp lệ.',
     'not_regex'            => 'Trường :attribute có định dạng không hợp lệ.',
     'numeric'              => 'Trường :attribute phải là một số.',
+    'password'             => 'Mật khẩu không đúng.',
     'present'              => 'Trường :attribute phải được cung cấp.',
     'regex'                => 'Trường :attribute có định dạng không hợp lệ.',
     'required'             => 'Trường :attribute không được bỏ trống.',

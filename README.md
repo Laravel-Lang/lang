@@ -62,3 +62,5 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 - [caouecs](https://github.com/caouecs)
 - [All Contributors](https://github.com/caouecs/Laravel-lang/graphs/contributors)
+
+#Contributing github.com/nathaniellers

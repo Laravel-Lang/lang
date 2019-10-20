@@ -531,9 +531,6 @@ into your web browser: [:actionURL](:actionURL) : not present
 #### de-CH:
 
   * json : Name
-  * json : Please confirm your password before continuing. : not present
-  * json : We won't ask for your password again for a few hours. : not present
-  * validation : password : not present
 
 [ [to top](#todo-list) ]
 

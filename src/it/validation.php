@@ -39,6 +39,7 @@ return [
     'dimensions'           => "Le dimensioni dell'immagine di :attribute non sono valide.",
     'distinct'             => ':attribute contiene un valore duplicato.',
     'email'                => ':attribute non è valido.',
+    'ends_with'            => ':attribute deve finire con uno dei seguenti valori: :values',
     'exists'               => ':attribute selezionato non è valido.',
     'file'                 => ':attribute deve essere un file.',
     'filled'               => 'Il campo :attribute deve contenere un valore.',

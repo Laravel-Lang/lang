@@ -39,6 +39,7 @@ return [
     'dimensions'           => 'The :attribute has invalid image dimensions.',
     'distinct'             => 'Ang :attribute ng attribute ay may katulad na balyu.',
     'email'                => 'Ang :attribute ay dapat balidong email address.',
+    'ends_with'            => 'The :attribute must end with one of the following: :values',
     'exists'               => 'Ang piniling :attribute ay imbalido.',
     'file'                 => 'The :attribute must be a file.',
     'filled'               => 'Ang :attribute ng attribute ay kailangan.',

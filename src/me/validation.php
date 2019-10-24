@@ -39,6 +39,7 @@ return [
     'dimensions'           => 'The :attribute has invalid image dimensions.',
     'distinct'             => 'Polje :attribute nije jedinstveno.',
     'email'                => 'Format polja :attribute nije validan.',
+    'ends_with'            => 'The :attribute must end with one of the following: :values',
     'exists'               => 'Odabrano polje :attribute nije validno.',
     'file'                 => 'The :attribute must be a file.',
     'filled'               => 'Polje :attribute je obavezno.',

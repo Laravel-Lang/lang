@@ -39,6 +39,7 @@ return [
     'dimensions'           => ':attribute অবৈধ ইমেজ মাত্রা রয়েছে।',
     'distinct'             => ':attribute এর স্থানে একটি নকল মান আছে।',
     'email'                => ':attribute একটি বৈধ ইমেইল ঠিকানা হতে হবে।',
+    'ends_with'            => 'The :attribute must end with one of the following: :values',
     'exists'               => 'নির্বাচিত :attribute টি অবৈধ।',
     'file'                 => ':attribute একটি ফাইল হতে হবে।',
     'filled'               => ':attribute স্থানটি পূরণ করতে হবে।',

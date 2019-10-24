@@ -31,7 +31,7 @@ return [
     'boolean'              => 'A(z) :attribute mező csak true vagy false értéket kaphat!',
     'confirmed'            => 'A(z) :attribute nem egyezik a megerősítéssel.',
     'date'                 => 'A(z) :attribute nem érvényes dátum.',
-    'date_equals'          => 'The :attribute must be a date equal to :date.',
+    'date_equals'          => ':attribute meg kell egyezzen a következővel: :date.',
     'date_format'          => 'A(z) :attribute nem egyezik az alábbi dátum formátummal :format!',
     'different'            => 'A(z) :attribute és :other értékei különbözőek kell, hogy legyenek!',
     'digits'               => 'A(z) :attribute :digits számjegyű kell, hogy legyen!',
@@ -39,6 +39,7 @@ return [
     'dimensions'           => 'A(z) :attribute felbontása nem megfelelő.',
     'distinct'             => 'A(z) :attribute értékének egyedinek kell lennie!',
     'email'                => 'A(z) :attribute nem érvényes email formátum.',
+    'ends_with'            => 'A(z) :attribute a következővel kell végződjön: :values',
     'exists'               => 'A(z) :attribute már létezik.',
     'file'                 => 'A(z) :attribute fájl kell, hogy legyen!',
     'filled'               => 'A(z) :attribute megadása kötelező!',
@@ -107,13 +108,13 @@ return [
         'string'  => 'A(z) :attribute hossza :size karakter kell, hogy legyen!',
         'array'   => 'A(z) :attribute :size elemet kell tartalmazzon!',
     ],
-    'starts_with'          => 'The :attribute must start with one of the following: :values',
+    'starts_with'          => ':attribute a következővel kell kezdődjön: :values',
     'string'               => 'A(z) :attribute szöveg kell, hogy legyen.',
     'timezone'             => 'A(z) :attribute nem létező időzona.',
     'unique'               => 'A(z) :attribute már foglalt.',
     'uploaded'             => 'A(z) :attribute feltöltése sikertelen.',
     'url'                  => 'A(z) :attribute érvénytelen link.',
-    'uuid'                 => 'The :attribute must be a valid UUID.',
+    'uuid'                 => ':attribute érvényes UUID-val kell rendelkezzen.',
 
     /*
     |--------------------------------------------------------------------------

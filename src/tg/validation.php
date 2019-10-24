@@ -39,6 +39,7 @@ return [
     'dimensions'           => 'Қиммати :attribute дорои андозаи расми нодуруст мебошад.',
     'distinct'             => ':attribute дорои қиммати такроршаванда мебошад.',
     'email'                => 'Қиммати :attribute бояд суроғаи электронии дуруст бошад.',
+    'ends_with'            => 'The :attribute must end with one of the following: :values',
     'exists'               => 'Қиммати интихобкардаи :attribute нодуруст мебошад.',
     'file'                 => 'Қиммати :attribute бояд файл бошад.',
     'filled'               => ':attribute бояд дорои қиммат бошад.',

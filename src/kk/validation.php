@@ -39,6 +39,7 @@ return [
     'dimensions'           => ' :attribute сурет өлшемі жарамсыз.',
     'distinct'             => ' :attribute жолында қосарланған мән бар.',
     'email'                => ' :attribute жарамды электрондық пошта мекенжайы болуы керек.',
+    'ends_with'            => 'The :attribute must end with one of the following: :values',
     'exists'               => ' таңдалған :attribute жарамсыз.',
     'file'                 => ' :attribute файл болуы тиіс.',
     'filled'               => ' :attribute жолы толтырылуы керек.',

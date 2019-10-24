@@ -31,7 +31,7 @@ return [
     'boolean'              => 'ข้อมูล :attribute ต้องเป็นจริง หรือเท็จ เท่านั้น',
     'confirmed'            => 'ข้อมูล :attribute ไม่ตรงกัน',
     'date'                 => 'ข้อมูล :attribute ต้องเป็นวันที่',
-    'date_equals'          => 'The :attribute must be a date equal to :date.',
+    'date_equals'          => 'ข้อมูล :attribute ต้องเป็นวันที่ที่เท่ากับ :date',
     'date_format'          => 'ข้อมูล :attribute ไม่ตรงกับข้อมูลกำหนด :format.',
     'different'            => 'ข้อมูล :attribute และ :other ต้องไม่เท่ากัน',
     'digits'               => 'ข้อมูล :attribute ต้องเป็น :digits',
@@ -39,6 +39,7 @@ return [
     'dimensions'           => 'ข้อมูล :attribute มีขนาดไม่ถูกต้อง.',
     'distinct'             => 'ข้อมูล :attribute มีค่าที่ซ้ำกัน',
     'email'                => 'ข้อมูล :attribute ต้องเป็นอีเมล์',
+    'ends_with'            => 'The :attribute must end with one of the following: :values',
     'exists'               => 'ข้อมูล ที่ถูกเลือกจาก :attribute ไม่ถูกต้อง',
     'file'                 => 'ข้อมูล :attribute ต้องเป็นไฟล์.',
     'filled'               => 'ข้อมูล :attribute จำเป็นต้องกรอก',
@@ -107,13 +108,13 @@ return [
         'string'  => 'ข้อมูล :attribute ต้องเท่ากับ :size ตัวอักษร',
         'array'   => 'ข้อมูล :attribute ต้องเท่ากับ :size ค่า',
     ],
-    'starts_with'          => 'The :attribute must start with one of the following: :values',
+    'starts_with'          => 'ข้อมูล :attribute ต้องเริ่มด้วยค่าใดค่าหนึ่งต่อไปนี้: :values',
     'string'               => 'ข้อมูล :attribute ต้องเป็นอักขระ',
     'timezone'             => 'ข้อมูล :attribute ต้องเป็นข้อมูลเขตเวลาที่ถูกต้อง',
     'unique'               => 'ข้อมูล :attribute ไม่สามารถใช้ได้',
     'uploaded'             => 'ข้อมูล :attribute ไม่สามารพอัพโหลดได้.',
     'url'                  => 'ข้อมูล :attribute ไม่ถูกต้อง',
-    'uuid'                 => 'The :attribute must be a valid UUID.',
+    'uuid'                 => 'ข้อมูล :attribute ต้องเป็นค่าUUID ที่ถูกต้อง',
 
     /*
     |--------------------------------------------------------------------------

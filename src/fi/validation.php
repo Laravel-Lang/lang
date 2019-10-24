@@ -31,7 +31,7 @@ return [
     'boolean'              => 'Kentän :attribute arvon tulee olla tosi tai epätosi.',
     'confirmed'            => 'Kentän :attribute vahvistus ei täsmää.',
     'date'                 => 'Kentän :attribute arvo ei ole kelvollinen päivämäärä.',
-    'date_equals'          => 'The :attribute must be a date equal to :date.',
+    'date_equals'          => ':attribute on oltava sama päivämäärä kuin :date.',
     'date_format'          => 'Kentän :attribute arvo ei vastaa muotoa :format.',
     'different'            => 'Kenttien :attribute ja :other tulee olla eriarvoisia.',
     'digits'               => 'Kentän :attribute arvon on oltava :digits numeroa.',
@@ -39,6 +39,7 @@ return [
     'dimensions'           => 'Kentän :attribute kuvalla on virheelliset mitat.',
     'distinct'             => 'Kentän :attribute arvo ei ole uniikki.',
     'email'                => 'Kentän :attribute arvo ei ole validi sähköpostiosoite.',
+    'ends_with'            => 'The :attribute must end with one of the following: :values',
     'exists'               => 'Kentän :attribute valittu arvo on virheellinen.',
     'file'                 => 'Kentän :attribute arvon tulee olla tiedosto.',
     'filled'               => 'Kenttä :attribute on pakollinen.',
@@ -107,13 +108,13 @@ return [
         'string'  => 'Kentän :attribute arvon tulee olla kokoa :size merkkiä.',
         'array'   => 'Kentän :attribute tulee sisältää :size arvoa.',
     ],
-    'starts_with'          => 'The :attribute must start with one of the following: :values',
+    'starts_with'          => 'Attribuutin :attribute tulee alkaa yhdellä seuraavista: :values',
     'string'               => 'Kentän :attribute arvon tulee olla tekstiä.',
     'timezone'             => 'Kentän :attribute arvon tulee olla validi aikavyöhyketunniste.',
     'unique'               => 'Kentän :attribute arvo ei ole uniikki.',
     'uploaded'             => 'Tiedoston :attribute lataus epäonnistui.',
     'url'                  => 'Kentän :attribute arvon tulee olla validi URL-osoite.',
-    'uuid'                 => 'The :attribute must be a valid UUID.',
+    'uuid'                 => ':attribute tulee olla kelvollinen UUID.',
 
     /*
     |--------------------------------------------------------------------------

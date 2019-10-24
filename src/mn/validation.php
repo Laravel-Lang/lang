@@ -39,6 +39,7 @@ return [
     'dimensions'           => ':Attribute талбарийн зургийн хэмжээс буруу байна.',
     'distinct'             => ':Attribute талбарт ялгаатай утга оруулах шаардлагатай.',
     'email'                => ':Attribute талбарт зөв и-мэйл хаяг оруулах шаардлагатай.',
+    'ends_with'            => 'The :attribute must end with one of the following: :values',
     'exists'               => 'Сонгогдсон :attribute буруу байна.',
     'file'                 => ':Attribute талбарт файл оруулах шаардлагатай.',
     'filled'               => ':Attribute талбар шаардлагатай.',

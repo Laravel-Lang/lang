@@ -12,9 +12,9 @@ return [
     |
     */
 
-    'password' => 'Os contrasinais deben conter polo menos seis caracteres e coincidir.',
+    'password' => 'Os contrasinais deben conter polo menos oito caracteres e coincidir.',
     'reset'    => 'O teu contrasinal foi restablecido!',
-    'sent'     => 'Enviámosche por correo electrónico o enlace de restablecemento do contrasinal!',
+    'sent'     => 'Enviámosche por correo electrónico o enlace para restablecer o teu contrasinal!',
     'token'    => 'Este token de restablecemento do contrasinal non é válido.',
-    'user'     => 'Non podemos atopar un usuario con ese correo electrónico.',
+    'user'     => 'Non podemos encontrar un usuario con esa dirección de correo electrónico.',
 ];

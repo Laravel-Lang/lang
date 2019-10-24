@@ -8,7 +8,7 @@ return [
     |
     | The following language lines contain the default error messages used by
     | the validator class. Some of these rules have multiple versions such
-    | as the size rules. Feel free to tweak each of these messages.
+    | as the size rules. Feel free to tweak each of these messages here.
     |
     */
 
@@ -39,6 +39,7 @@ return [
     'dimensions'           => ':attribute 图片尺寸不正确。',
     'distinct'             => ':attribute 已经存在。',
     'email'                => ':attribute 不是一个合法的邮箱。',
+    'ends_with'            => ':attribute 结尾必须包含下列之一：:values',
     'exists'               => ':attribute 不存在。',
     'file'                 => ':attribute 必须是文件。',
     'filled'               => ':attribute 不能为空。',
@@ -91,6 +92,7 @@ return [
     'not_in'               => '已选的属性 :attribute 非法。',
     'not_regex'            => ':attribute 的格式错误。',
     'numeric'              => ':attribute 必须是一个数字。',
+    'password'             => '密码错误',
     'present'              => ':attribute 必须存在。',
     'regex'                => ':attribute 格式不正确。',
     'required'             => ':attribute 不能为空。',
@@ -121,7 +123,7 @@ return [
     |--------------------------------------------------------------------------
     |
     | Here you may specify custom validation messages for attributes using the
-    | convention 'attribute.rule' to name the lines. This makes it quick to
+    | convention "attribute.rule" to name the lines. This makes it quick to
     | specify a specific custom language line for a given attribute rule.
     |
     */
@@ -137,9 +139,9 @@ return [
     | Custom Validation Attributes
     |--------------------------------------------------------------------------
     |
-    | The following language lines are used to swap attribute place-holders
-    | with something more reader friendly such as E-Mail Address instead
-    | of 'email'. This simply helps us make messages a little cleaner.
+    | The following language lines are used to swap our attribute placeholder
+    | with something more reader friendly such as "E-Mail Address" instead
+    | of "email". This simply helps us make our message more expressive.
     |
     */
 

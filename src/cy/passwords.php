@@ -12,7 +12,7 @@ return [
     |
     */
 
-    'password' => "Rhaid i'r cyfrinair fod o leiaf chwe nodyn o hyd ac yn matchio'r maes cadarnhau.",
+    'password' => "Rhaid i'r cyfrinair fod o leiaf wyth nodyn o hyd ac yn matchio'r maes cadarnhau.",
     'reset'    => 'Mae dy gyfrinair wedi ei ail-osod!',
     'sent'     => "Rydym wedi e-bostio'r ddolen i ail-osod y cyfrinair!",
     'token'    => "Nid yw'r tocyn ail-osod cyfrinair yn ddilys.",

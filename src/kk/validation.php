@@ -130,7 +130,7 @@ return [
 
     'custom' => [
         'attribute-name' => [
-            'rule-name' => 'басқа хабар',
+            'rule-name' => 'custom-message',
         ],
     ],
 
@@ -146,11 +146,34 @@ return [
     */
 
     'attributes' => [
-        'test_name'               => 'Сынақ атауы',
-        'test_description'        => 'Сынақ сипаттамасы',
-        'test_locale'             => 'Тілі',
-        'image'                   => 'Кескін',
-        'result_text_under_image' => 'Кескін астындағы нәтиже мәтіні',
-        'short_text'              => 'Қысқа мәтін',
+        'name'                  => 'Аты',
+        'username'              => 'Лақап аты',
+        'email'                 => 'E-Mail мекенжай',
+        'first_name'            => 'Аты',
+        'last_name'             => 'Тегі',
+        'password'              => 'Құпиясөз',
+        'password_confirmation' => 'Құпиясөзді растау',
+        'city'                  => 'Қала',
+        'country'               => 'Ел',
+        'address'               => 'Мекенжай',
+        'phone'                 => 'Телефон',
+        'mobile'                => 'Моб. нөмір',
+        'age'                   => 'Жасы',
+        'sex'                   => 'Жынысы',
+        'gender'                => 'Жынысы',
+        'day'                   => 'Күн',
+        'month'                 => 'Ай',
+        'year'                  => 'Жыл',
+        'hour'                  => 'Сағат',
+        'minute'                => 'Минут',
+        'second'                => 'Секунд',
+        'title'                 => 'Атауы',
+        'content'               => 'Контент',
+        'description'           => 'Сипаттамасы',
+        'excerpt'               => 'Үзінді',
+        'date'                  => 'Күні',
+        'time'                  => 'Уақыт',
+        'available'             => 'Қолжетімді',
+        'size'                  => 'Көлемі',
     ],
 ];

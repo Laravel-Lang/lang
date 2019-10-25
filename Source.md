@@ -164,6 +164,10 @@ Japanese (ja)
 * [Jumilla](https://github.com/jumilla)
 * [Keishi Mitsuhashi](https://github.com/xenbeat)
 
+Kazakh (kk)
+
+* [Altynbek](https://github.com/altynbek07)
+
 Korean (ko)
 
 * [dbwhddn10](https://github.com/dbwhddn10)

@@ -880,13 +880,6 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### id:
 
-  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:actionURL](:actionURL) : not present
-  * json : Please confirm your password before continuing. : not present
-  * json : Server Error
-  * json : We won't ask for your password again for a few hours. : not present
-  * validation : password : not present
-
 [ [to top](#todo-list) ]
 
 #### is:

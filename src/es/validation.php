@@ -180,5 +180,6 @@ return [
         'subject'               => 'asunto',
         'message'               => 'mensaje',
         'price'                 => 'precio',
+        'terms'                 => 'términos',
     ],
 ];

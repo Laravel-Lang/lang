@@ -12,9 +12,10 @@ return [
     |
     */
 
-    'password' => 'Slaptažodis turi būti bent aštuonių simbolių ir sutapti su patvirtinimu.',
-    'reset'    => 'Nustatytas naujas slaptažodis!',
-    'sent'     => 'Naujo slaptažodžio nustatymo nuoroda išsiųsta',
-    'token'    => 'Šis slaptažodžio raktas yra neteisingas.',
-    'user'     => 'Vartotojas su tokiu el. paštu nerastas.',
+    'password'  => 'Slaptažodis turi būti bent aštuonių simbolių ir sutapti su patvirtinimu.',
+    'reset'     => 'Nustatytas naujas slaptažodis!',
+    'sent'      => 'Naujo slaptažodžio nustatymo nuoroda išsiųsta',
+    'throttled' => 'Please wait before retrying.',
+    'token'     => 'Šis slaptažodžio raktas yra neteisingas.',
+    'user'      => 'Vartotojas su tokiu el. paštu nerastas.',
 ];

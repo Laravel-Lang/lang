@@ -13,7 +13,7 @@
 
 #### ar:
 
-  * passwords : throttled : not present
+  * passwords : throttled
 
 [ [to top](#todo-list) ]
 
@@ -64,7 +64,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
   * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : date_equals
   * validation : ends_with
   * validation : gt
@@ -125,7 +125,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
   * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : after_or_equal
   * validation : before_or_equal
   * validation : date_equals
@@ -196,7 +196,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
   * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : ends_with
   * validation : password : not present
 
@@ -249,7 +249,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
   * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : date_equals
   * validation : ends_with
   * validation : gt
@@ -312,7 +312,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Whoops! : not present
   * auth : failed
   * auth : throttle
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : after_or_equal
   * validation : before_or_equal
   * validation : date_equals
@@ -385,7 +385,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
   * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : ends_with
   * validation : password : not present
 
@@ -395,7 +395,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 
   * json : Please confirm your password before continuing. : not present
   * json : We won't ask for your password again for a few hours. : not present
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : password : not present
 
 [ [to top](#todo-list) ]
@@ -449,7 +449,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Whoops! : not present
   * auth : failed
   * auth : throttle
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : after_or_equal
   * validation : before_or_equal
   * validation : date_equals
@@ -523,7 +523,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
   * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : ends_with
   * validation : password : not present
 
@@ -532,14 +532,14 @@ into your web browser: [:actionURL](:actionURL) : not present
 #### de:
 
   * json : Name
-  * passwords : throttled : not present
+  * passwords : throttled
 
 [ [to top](#todo-list) ]
 
 #### de-CH:
 
   * json : Name
-  * passwords : throttled : not present
+  * passwords : throttled
 
 [ [to top](#todo-list) ]
 
@@ -554,7 +554,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Too Many Attempts. : not present
   * json : We won't ask for your password again for a few hours. : not present
   * json : Your email address is not verified. : not present
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : ends_with
   * validation : password : not present
 
@@ -612,7 +612,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
   * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : ends_with
   * validation : password : not present
 
@@ -629,7 +629,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Too Many Attempts. : not present
   * json : We won't ask for your password again for a few hours. : not present
   * json : Your email address is not verified. : not present
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : date_equals
   * validation : password : not present
 
@@ -687,7 +687,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Verify Your Email Address : not present
   * json : We won't ask for your password again for a few hours. : not present
   * json : Your email address is not verified. : not present
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : ends_with
   * validation : password : not present
 
@@ -746,9 +746,9 @@ into your web browser: [:actionURL](:actionURL) : not present
   * pagination : next
   * passwords : reset
   * passwords : sent
+  * passwords : throttled
   * passwords : token
   * passwords : user
-  * passwords : throttled : not present
   * validation : ends_with
   * validation : password : not present
 
@@ -758,7 +758,6 @@ into your web browser: [:actionURL](:actionURL) : not present
 
   * json : Please confirm your password before continuing. : not present
   * json : We won't ask for your password again for a few hours. : not present
-  * passwords : throttled : not present
 
 [ [to top](#todo-list) ]
 
@@ -772,7 +771,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Too Many Attempts. : not present
   * json : We won't ask for your password again for a few hours. : not present
   * json : Your email address is not verified. : not present
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : password : not present
 
 [ [to top](#todo-list) ]
@@ -781,7 +780,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 
   * json : Please confirm your password before continuing. : not present
   * json : We won't ask for your password again for a few hours. : not present
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : ends_with
   * validation : password : not present
 
@@ -834,7 +833,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
   * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : ends_with
   * validation : gte
   * validation : lt
@@ -876,7 +875,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : We won't ask for your password again for a few hours. : not present
   * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : ends_with
   * validation : password : not present
 
@@ -886,7 +885,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 
   * json : Please confirm your password before continuing. : not present
   * json : We won't ask for your password again for a few hours. : not present
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : password : not present
 
 [ [to top](#todo-list) ]
@@ -896,7 +895,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: [:actionURL](:actionURL) : not present
   * json : Server Error
-  * passwords : throttled : not present
+  * passwords : throttled
 
 [ [to top](#todo-list) ]
 
@@ -949,7 +948,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Whoops! : not present
   * auth : failed
   * auth : throttle
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : ends_with
   * validation : password : not present
 
@@ -962,7 +961,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Password
   * json : Please confirm your password before continuing. : not present
   * json : We won't ask for your password again for a few hours. : not present
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : password : not present
 
 [ [to top](#todo-list) ]
@@ -978,7 +977,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Too Many Attempts. : not present
   * json : We won't ask for your password again for a few hours. : not present
   * json : Your email address is not verified. : not present
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : ends_with
   * validation : password : not present
 
@@ -1017,7 +1016,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : We won't ask for your password again for a few hours. : not present
   * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : date_equals
   * validation : ends_with
   * validation : password : not present
@@ -1028,7 +1027,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### kk:
 
-  * passwords : throttled : not present
+  * passwords : throttled
 
 [ [to top](#todo-list) ]
 
@@ -1081,7 +1080,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Whoops! : not present
   * auth : failed
   * auth : throttle
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : after_or_equal
   * validation : before_or_equal
   * validation : date_equals
@@ -1119,7 +1118,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Too Many Attempts. : not present
   * json : We won't ask for your password again for a few hours. : not present
   * json : Your email address is not verified. : not present
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : ends_with
   * validation : password : not present
 
@@ -1127,40 +1126,8 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### ko:
 
-  * json : A fresh verification link has been sent to your email address. : not present
-  * json : All rights reserved. : not present
-  * json : Before proceeding, please check your email for a verification link. : not present
-  * json : click here to request another : not present
-  * json : Forbidden : not present
-  * json : Go Home : not present
-  * json : Hello! : not present
-  * json : If you did not create an account, no further action is required. : not present
-  * json : If you did not receive the email : not present
-  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:actionURL](:actionURL) : not present
-  * json : Invalid signature. : not present
-  * json : Not Found : not present
-  * json : Oh no : not present
-  * json : Page Expired : not present
-  * json : Please click the button below to verify your email address. : not present
-  * json : Please confirm your password before continuing. : not present
-  * json : Regards : not present
-  * json : Server Error : not present
-  * json : Service Unavailable : not present
-  * json : This action is unauthorized. : not present
-  * json : This password reset link will expire in :count minutes. : not present
-  * json : Toggle navigation : not present
-  * json : Too Many Attempts. : not present
-  * json : Too Many Requests : not present
-  * json : Unauthorized : not present
-  * json : Verify Email Address : not present
-  * json : Verify Your Email Address : not present
   * json : We won't ask for your password again for a few hours. : not present
-  * json : Your email address is not verified. : not present
-  * json : Whoops! : not present
-  * passwords : throttled : not present
-  * validation : ends_with
-  * validation : password : not present
+  * passwords : throttled
 
 [ [to top](#todo-list) ]
 
@@ -1168,7 +1135,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 
   * json : Please confirm your password before continuing. : not present
   * json : We won't ask for your password again for a few hours. : not present
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : password : not present
 
 [ [to top](#todo-list) ]
@@ -1220,7 +1187,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
   * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : ends_with
   * validation : password : not present
 
@@ -1273,7 +1240,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
   * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : after_or_equal
   * validation : before_or_equal
   * validation : date_equals
@@ -1344,7 +1311,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Whoops! : not present
   * auth : failed
   * auth : throttle
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : after_or_equal
   * validation : before_or_equal
   * validation : date_equals
@@ -1420,7 +1387,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
   * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : date_equals
   * validation : ends_with
   * validation : gt
@@ -1450,7 +1417,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Too Many Attempts. : not present
   * json : We won't ask for your password again for a few hours. : not present
   * json : Your email address is not verified. : not present
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : ends_with
   * validation : password : not present
 
@@ -1468,7 +1435,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Verify Email Address : not present
   * json : We won't ask for your password again for a few hours. : not present
   * json : Your email address is not verified. : not present
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : ends_with
   * validation : password : not present
 
@@ -1478,7 +1445,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 
   * json : Please confirm your password before continuing. : not present
   * json : We won't ask for your password again for a few hours. : not present
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : password : not present
 
 [ [to top](#todo-list) ]
@@ -1530,7 +1497,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
   * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : after_or_equal
   * validation : before_or_equal
   * validation : date_equals
@@ -1563,7 +1530,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Too Many Attempts. : not present
   * json : We won't ask for your password again for a few hours. : not present
   * json : Your email address is not verified. : not present
-  * passwords : throttled : not present
+  * passwords : throttled
 
 [ [to top](#todo-list) ]
 
@@ -1571,14 +1538,14 @@ into your web browser: [:actionURL](:actionURL) : not present
 
   * json : Please confirm your password before continuing. : not present
   * json : We won't ask for your password again for a few hours. : not present
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : password : not present
 
 [ [to top](#todo-list) ]
 
 #### pl:
 
-  * passwords : throttled : not present
+  * passwords : throttled
 
 [ [to top](#todo-list) ]
 
@@ -1593,7 +1560,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Too Many Attempts. : not present
   * json : We won't ask for your password again for a few hours. : not present
   * json : Your email address is not verified. : not present
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : ends_with
   * validation : password : not present
 
@@ -1646,7 +1613,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
   * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : ends_with
   * validation : password : not present
 
@@ -1656,7 +1623,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 
   * json : Please confirm your password before continuing. : not present
   * json : We won't ask for your password again for a few hours. : not present
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : ends_with
   * validation : password : not present
 
@@ -1664,13 +1631,13 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### ro:
 
-  * passwords : throttled : not present
+  * passwords : throttled
 
 [ [to top](#todo-list) ]
 
 #### ru:
 
-  * passwords : throttled : not present
+  * passwords : throttled
 
 [ [to top](#todo-list) ]
 
@@ -1723,7 +1690,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Whoops! : not present
   * auth : failed
   * auth : throttle
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : after_or_equal
   * validation : before_or_equal
   * validation : date_equals
@@ -1797,7 +1764,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
   * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : ends_with
   * validation : password : not present
 
@@ -1813,7 +1780,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Too Many Attempts. : not present
   * json : We won't ask for your password again for a few hours. : not present
   * json : Your email address is not verified. : not present
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : ends_with
   * validation : password : not present
 
@@ -1852,7 +1819,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : We won't ask for your password again for a few hours. : not present
   * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : ends_with
   * validation : password : not present
 
@@ -1907,7 +1874,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Whoops! : not present
   * auth : failed
   * auth : throttle
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : after_or_equal
   * validation : before_or_equal
   * validation : date_equals
@@ -1966,7 +1933,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : We won't ask for your password again for a few hours. : not present
   * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : ends_with
   * validation : password : not present
 
@@ -2019,7 +1986,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
   * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : ends_with
   * validation : password : not present
 
@@ -2072,7 +2039,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
   * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : ends_with
   * validation : password : not present
 
@@ -2125,7 +2092,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
   * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : date_equals
   * validation : ends_with
   * validation : gt
@@ -2158,7 +2125,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Too Many Attempts. : not present
   * json : We won't ask for your password again for a few hours. : not present
   * json : Your email address is not verified. : not present
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : ends_with
   * validation : password : not present
 
@@ -2213,7 +2180,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Whoops! : not present
   * auth : failed
   * auth : throttle
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : after_or_equal
   * validation : before_or_equal
   * validation : date_equals
@@ -2287,7 +2254,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
   * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : after_or_equal
   * validation : before_or_equal
   * validation : date_equals
@@ -2342,7 +2309,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : We won't ask for your password again for a few hours. : not present
   * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : ends_with
   * validation : password : not present
 
@@ -2395,7 +2362,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
   * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : date_equals
   * validation : ends_with
   * validation : gt
@@ -2413,7 +2380,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 
   * json : Please confirm your password before continuing. : not present
   * json : We won't ask for your password again for a few hours. : not present
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : password : not present
 
 [ [to top](#todo-list) ]
@@ -2451,7 +2418,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : We won't ask for your password again for a few hours. : not present
   * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : after_or_equal
   * validation : before_or_equal
   * validation : date_equals
@@ -2520,7 +2487,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
   * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : date_equals
   * validation : ends_with
   * validation : gt
@@ -2581,7 +2548,7 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : You are receiving this email because we received a password reset request for your account. : not present
   * json : Your email address is not verified. : not present
   * json : Whoops! : not present
-  * passwords : throttled : not present
+  * passwords : throttled
   * validation : date_equals
   * validation : ends_with
   * validation : gt
@@ -2597,7 +2564,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### vi:
 
-  * passwords : throttled : not present
+  * passwords : throttled
 
 [ [to top](#todo-list) ]
 

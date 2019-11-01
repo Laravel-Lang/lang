@@ -109,7 +109,7 @@ return [
         'string'  => ':attribute 必須是 :size 個字元。',
         'array'   => ':attribute 必須是 :size 個元素。',
     ],
-    'starts_with'          => ':attribute 必須以 :values 其中之一開頭。',
+    'starts_with'          => ':attribute 開頭必須包含下列之一：:values',
     'string'               => ':attribute 必須是一個字串。',
     'timezone'             => ':attribute 必須是一個正確的時區值。',
     'unique'               => ':attribute 已經存在。',

@@ -1637,7 +1637,6 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### ru:
 
-  * passwords : throttled
 
 [ [to top](#todo-list) ]
 

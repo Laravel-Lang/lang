@@ -13,7 +13,6 @@
 
 #### ar:
 
-  * passwords : throttled
 
 [ [to top](#todo-list) ]
 

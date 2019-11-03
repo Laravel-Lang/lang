@@ -1132,8 +1132,6 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### lt:
 
-  * passwords : throttled
-  * validation : password : not present
 
 [ [to top](#todo-list) ]
 

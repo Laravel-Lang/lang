@@ -1132,7 +1132,6 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### lt:
 
-  * json : We won't ask for your password again for a few hours. : not present
   * passwords : throttled
   * validation : password : not present
 

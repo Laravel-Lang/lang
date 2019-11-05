@@ -891,10 +891,6 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### id:
 
-  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:actionURL](:actionURL) : not present
-  * json : Server Error
-  * passwords : throttled
 
 [ [to top](#todo-list) ]
 

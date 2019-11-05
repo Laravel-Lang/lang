@@ -91,6 +91,7 @@ return [
     'not_in'               => 'Pasirinkta negaliojanti reikšmė :attribute.',
     'not_regex'            => 'Lauko :attribute formatas yra neteisingas.',
     'numeric'              => 'Lauko :attribute reikšmė turi būti skaičius.',
+    'password'             => 'Slaptažodis neteisingas.',
     'present'              => 'Laukas :attribute turi egzistuoti.',
     'regex'                => 'Negaliojantis lauko :attribute formatas.',
     'required'             => 'Privaloma užpildyti lauką :attribute.',

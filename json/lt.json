@@ -50,5 +50,7 @@
   "Server Error" : "Serverio klaida",
   "This action is unauthorized.": "Jūs neturite leidimo atlikti šį veiksmą.",
   "Too Many Attempts.": "Per daug bandymų.",
-  "Your email address is not verified.": "Jūsų el. pašto adresas yra nepatvirtintas."
+  "Your email address is not verified.": "Jūsų el. pašto adresas yra nepatvirtintas.",
+  "Please confirm your password before continuing.": "Įveskite savo slaptažodį prieš tęsiant.",
+  "We won't ask for your password again for a few hours.": "Mes neprašysime įvesti slaptažodžio kelias valandas."
 }

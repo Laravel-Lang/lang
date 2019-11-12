@@ -1521,7 +1521,6 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : Too Many Attempts. : not present
   * json : We won't ask for your password again for a few hours. : not present
   * json : Your email address is not verified. : not present
-  * passwords : throttled
 
 [ [to top](#todo-list) ]
 
@@ -2368,10 +2367,6 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 #### uk:
 
-  * json : Please confirm your password before continuing. : not present
-  * json : We won't ask for your password again for a few hours. : not present
-  * passwords : throttled
-  * validation : password : not present
 
 [ [to top](#todo-list) ]
 

@@ -11,6 +11,6 @@ return [
     | these language lines according to your application's requirements.
     |
     */
-    'failed'   => 'මෙම අක්තපත්ර අපගේ වාර්තා වලට ගැලපෙන්නේ නැත.',
+    'failed' => 'මෙම අක්තපත්ර අපගේ වාර්තා වලට ගැලපෙන්නේ නැත.',
     'throttle' => 'බොහෝ පිවිසුම් උත්සහයන් සිදු කර ඇත. කරුණාකර නැවත උත්සාහ කරන්න: තත්පර තත්පර.',
 ];

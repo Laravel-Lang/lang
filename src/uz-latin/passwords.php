@@ -12,10 +12,10 @@ return [
     |
     */
 
-    'password'  => 'Kaliz so‘z kamida 8 ta beligan iborat bo‘lishi va tasdiqlanishi kerak.',
-    'reset'     => 'Sizning kalit so‘zingiz tiklandi!',
-    'sent'      => 'Kalit so‘zni tiklash havolasini elektron pochta orqali yubordik!',
+    'password' => 'Kaliz so‘z kamida 8 ta beligan iborat bo‘lishi va tasdiqlanishi kerak.',
+    'reset' => 'Sizning kalit so‘zingiz tiklandi!',
+    'sent' => 'Kalit so‘zni tiklash havolasini elektron pochta orqali yubordik!',
     'throttled' => 'Please wait before retrying.',
-    'token'     => 'Ushbu kalit so‘zni qayta tiklash belgisi (token) noto‘g‘ri.',
-    'user'      => 'Ushbu elektron pochta manzilli foydalanuvchi topilmadi.',
+    'token' => 'Ushbu kalit so‘zni qayta tiklash belgisi (token) noto‘g‘ri.',
+    'user' => 'Ushbu elektron pochta manzilli foydalanuvchi topilmadi.',
 ];

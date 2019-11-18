@@ -96,10 +96,10 @@ class TodoGenerator
         }
 
         return [
-            'json' => $contentJson,
-            'auth' => include($directory.'/'.$language.'/auth.php'),
+            'json'       => $contentJson,
+            'auth'       => include($directory.'/'.$language.'/auth.php'),
             'pagination' => include($directory.'/'.$language.'/pagination.php'),
-            'passwords' => include($directory.'/'.$language.'/passwords.php'),
+            'passwords'  => include($directory.'/'.$language.'/passwords.php'),
             'validation' => include($directory.'/'.$language.'/validation.php'),
         ];
     }

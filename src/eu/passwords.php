@@ -12,10 +12,10 @@ return [
     |
     */
 
-    'password' => 'Pasahitzak gutxienez sei karaktere eduki behar dituzte eta bat etorri behar dira.',
-    'reset' => 'Zure pasahitza berrezarri da!',
-    'sent' => 'Zure pasahitza berrezartzeko esteka postaz bidali dizugu!',
+    'password'  => 'Pasahitzak gutxienez sei karaktere eduki behar dituzte eta bat etorri behar dira.',
+    'reset'     => 'Zure pasahitza berrezarri da!',
+    'sent'      => 'Zure pasahitza berrezartzeko esteka postaz bidali dizugu!',
     'throttled' => 'Please wait before retrying.',
-    'token' => 'Pasahitza berreskuratzeko tokena baliogabea da.',
-    'user' => 'Ezin izan dugu helbide elektroniko horrekin bat datorren erabiltzailerik aurkitu.',
+    'token'     => 'Pasahitza berreskuratzeko tokena baliogabea da.',
+    'user'      => 'Ezin izan dugu helbide elektroniko horrekin bat datorren erabiltzailerik aurkitu.',
 ];

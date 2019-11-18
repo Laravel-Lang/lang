@@ -3,7 +3,7 @@
 return [
     '2018-01-29' => [
         'uz-cyrillic' => 'add new language : Uzbek cyrillic',
-        'yz-latin' => 'add new language : Uzbek latin',
+        'yz-latin'    => 'add new language : Uzbek latin',
     ],
     '2018-01-23' => [
         'lv' => 'fix rename validation file',

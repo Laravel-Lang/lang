@@ -971,8 +971,6 @@ into your web browser: [:actionURL](:actionURL) : not present
   * json : We won't ask for your password again for a few hours. : not present
   * json : Your email address is not verified. : not present
   * passwords : throttled
-  * validation : ends_with
-  * validation : password : not present
 
 [ [to top](#todo-list) ]
 

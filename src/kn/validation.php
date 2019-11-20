@@ -69,21 +69,21 @@ return [
         'string'  => 'ಈ  :attribute ನಲ್ಲಿ  :value ಅಕ್ಷರಗಳಿಗಿಂತ ಕಡಿಮೆ ಇರಬೇಕು.',
         'array'   => 'ಈ  :attribute ನಲ್ಲಿ  :value ಐಟಂಗಳಿಗಿಂತ ಕಡಿಮೆ ಇರಬೇಕು.',
     ],
-    'lte'	   => [
+    'lte' => [
         'numeric' => 'ಈ  :attribute ನಲ್ಲಿ  :value ಗಿಂತ  ಕಡಿಮೆ ಅಥವಾ ಸಮನಾಗಿರಬೇಕು.',
         'file'    => 'ಈ  :attribute ನಲ್ಲಿ  :value ಕಿಲೋಬೈಟ್ಗಳಿಗಿಂತ  ಕಡಿಮೆ ಅಥವಾ ಸಮನಾಗಿರಬೇಕು.   ',
         'string'  => 'ಈ  :attribute ನಲ್ಲಿ  :value ಅಕ್ಷರಗಳಿಗಿಂತ  ಕಡಿಮೆ ಅಥವಾ ಸಮನಾಗಿರಬೇಕು.',
         'array'   => 'ಈ  :attribute ನಲ್ಲಿ  :value ಐಟಂಗಳಿಗಿಂತ  ಕಡಿಮೆ ಅಥವಾ ಸಮನಾಗಿರಬೇಕು .',
     ],
-    'max' 	   => [
+    'max' => [
         'numeric' => 'ಈ  :attribute ನಲ್ಲಿ  :max ಗಿಂತ ಹೆಚ್ಚು ಇರಬಾರದು .',
         'file'    => 'ಈ  :attribute ನಲ್ಲಿ  :max ಕಿಲೋಬೈಟ್ಗಳಿಗಿಂತ ಹೆಚ್ಚು ಇರಬಾರದು .',
         'string'  => 'ಈ  :attribute ನಲ್ಲಿ  :max ಅಕ್ಷರಗಳಿಗಿಂತ ಹೆಚ್ಚು ಇರಬಾರದು .',
         'array'   => 'ಈ  :attribute ನಲ್ಲಿ  :max ಐಟಂಗಳಿಗಿಂತ  ಹೆಚ್ಚು ಇರಬಾರದು .',
     ],
-    'mimes'    => 'ಈ  :attribute ನಲ್ಲಿ  :values ಬಗೆಯ ಫೈಲ್ ಆಗಿರಬೇಕು.',
-    'mimetypes'=> 'ಈ  :attribute ನಲ್ಲಿ :values ಬಗೆಯ ಫೈಲ್ ಆಗಿರಬೇಕು.',
-    'min'      => [
+    'mimes'     => 'ಈ  :attribute ನಲ್ಲಿ  :values ಬಗೆಯ ಫೈಲ್ ಆಗಿರಬೇಕು.',
+    'mimetypes' => 'ಈ  :attribute ನಲ್ಲಿ :values ಬಗೆಯ ಫೈಲ್ ಆಗಿರಬೇಕು.',
+    'min'       => [
         'numeric' => 'ಈ  :attribute ಕನಿಷ್ಠ  :min  ಇರಬೇಕು.',
         'file'    => 'ಈ  :attribute ಕನಿಷ್ಠ :min ಕಿಲೋಬೈಟ್ಗಳಿರಬೇಕು.  ',
         'string'  => 'ಈ  :attribute ಕನಿಷ್ಠ :min ಅಕ್ಷರಗಳಿರಬೇಕು.',

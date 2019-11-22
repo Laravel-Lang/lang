@@ -15,6 +15,9 @@
         "ablunier/laravel-lang-installer": "Command for easily add languages to a Laravel project",
         "andrey-helldar/laravel-lang-publisher": "Easy installation and update of translation files for your project"
     },
+    "require": {
+        "ext-json": "*"
+    },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^2.10"
     }

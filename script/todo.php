@@ -76,7 +76,7 @@ class Output
 
     protected function summary(string $language): string
     {
-        return "{$this->line}#### {$language}{$this->line}";
+        return "{$this->line}## {$language}{$this->line}";
     }
 
     protected function content(array $values): string

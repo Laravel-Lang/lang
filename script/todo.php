@@ -40,6 +40,8 @@ class Output
 
     protected $eol = PHP_EOL;
 
+    protected $line = PHP_EOL . PHP_EOL;
+
     protected $columns = 10;
 
     public function add(string $language, string $value = null): void
@@ -59,11 +61,9 @@ class Output
         $result .= $this->table();
 
         foreach ($this->items as $language => $values) {
-            $is_empty = $this->isEmpty($values);
-            $icon     = $this->icon($is_empty);
 
-            $result .= $this->summary($language, $icon);
-            $result .= $this->content($values, $is_empty);
+            $result .= $this->summary($language);
+            $result .= $this->content($values);
         }
 
         return $result;
@@ -74,14 +74,14 @@ class Output
         return '# Todo list' . $this->eol;
     }
 
-    protected function summary(string $language, string $icon): string
+    protected function summary(string $language): string
     {
-        return "{$this->eol}#### {$icon} {$language}{$this->eol}";
+        return "{$this->line}#### {$language}{$this->line}";
     }
 
-    protected function content(array $values, bool $is_empty = false): string
+    protected function content(array $values): string
     {
-        if ($is_empty) {
+        if ($this->isEmpty($values)) {
             return $this->eol . 'All lines are translated 😊' . $this->eol;
         }
 

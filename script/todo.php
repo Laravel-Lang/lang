@@ -123,7 +123,7 @@ HTML;
         $languages = array_map(function ($language) {
             $icon = $this->icon($this->items[$language]);
 
-            return "[{$language} {$icon}](#$language)";
+            return "[{$language} {$icon}](#${language})";
         }, $languages);
 
         return implode('|', $languages);
@@ -178,8 +178,6 @@ class TodoGenerator
 
     /**
      * Save todo list.
-     *
-     * @param string $path
      */
     public function save(string $path): void
     {
@@ -209,10 +207,10 @@ class TodoGenerator
     private function getTranslations(string $language, string $directory = __DIR__): array
     {
         return [
-            'json'       => $this->getJsonContent($language, $directory),
-            'auth'       => $this->getContent($language, $directory, 'auth.php'),
+            'json' => $this->getJsonContent($language, $directory),
+            'auth' => $this->getContent($language, $directory, 'auth.php'),
             'pagination' => $this->getContent($language, $directory, 'pagination.php'),
-            'passwords'  => $this->getContent($language, $directory, 'passwords.php'),
+            'passwords' => $this->getContent($language, $directory, 'passwords.php'),
             'validation' => $this->getContent($language, $directory, 'validation.php'),
         ];
     }

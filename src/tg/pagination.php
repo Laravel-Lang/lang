@@ -13,5 +13,5 @@ return [
     */
 
     'previous' => '&laquo; Қаблӣ',
-    'next'     => 'Баъдӣ &raquo;',
+    'next' => 'Баъдӣ &raquo;',
 ];

@@ -5,7 +5,7 @@
 [de ❗](#de)|[de-CH ❗](#de-CH)|[el ❗](#el)|[es ✔](#es)|[et ❗](#et)|[eu ❗](#eu)|[fa ❗](#fa)|[fi ❗](#fi)|[fil ❗](#fil)|[fr ✔](#fr)
 [gl ❗](#gl)|[he ❗](#he)|[hi ❗](#hi)|[hr ❗](#hr)|[hu ❗](#hu)|[id ✔](#id)|[is ❗](#is)|[it ❗](#it)|[ja ❗](#ja)|[ka ❗](#ka)
 [kk ❗](#kk)|[km ❗](#km)|[kn ❗](#kn)|[ko ❗](#ko)|[lt ✔](#lt)|[lv ❗](#lv)|[me ❗](#me)|[mk ❗](#mk)|[mn ❗](#mn)|[mr ❗](#mr)
-[ms ❗](#ms)|[nb ❗](#nb)|[ne ❗](#ne)|[nl ❗](#nl)|[nn ❗](#nn)|[pl ❗](#pl)|[ps ❗](#ps)|[pt ❗](#pt)|[pt-BR ❗](#pt-BR)|[ro ❗](#ro)
+[ms ❗](#ms)|[nb ❗](#nb)|[ne ❗](#ne)|[nl ❗](#nl)|[nn ❗](#nn)|[pl ❗](#pl)|[ps ❗](#ps)|[pt ❗](#pt)|[pt-BR ✔](#pt-BR)|[ro ❗](#ro)
 [ru ✔](#ru)|[sc ❗](#sc)|[si ❗](#si)|[sk ❗](#sk)|[sl ❗](#sl)|[sq ❗](#sq)|[sr ❗](#sr)|[sv ❗](#sv)|[sw ❗](#sw)|[tg ❗](#tg)
 [th ❗](#th)|[tk ❗](#tk)|[tl ❗](#tl)|[tr ❗](#tr)|[ug ❗](#ug)|[uk ✔](#uk)|[ur ❗](#ur)|[uz-cyrillic ❗](#uz-cyrillic)|[uz-latin ❗](#uz-latin)|[vi ❗](#vi)
 [zh-CN ✔](#zh-CN)|[zh-HK ✔](#zh-HK)|[zh-TW ✔](#zh-TW)
@@ -13,13 +13,13 @@
 
 
 
-### ar
+## ar
 
 
 All lines are translated 😊
 
 
-### az
+## az
 
 <details>
 <summary>show</summary>
@@ -84,7 +84,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### be
+## be
 
 <details>
 <summary>show</summary>
@@ -159,7 +159,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### bg
+## bg
 
 <details>
 <summary>show</summary>
@@ -216,7 +216,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### bn
+## bn
 
 <details>
 <summary>show</summary>
@@ -281,7 +281,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### bs
+## bs
 
 <details>
 <summary>show</summary>
@@ -360,7 +360,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### ca
+## ca
 
 <details>
 <summary>show</summary>
@@ -417,7 +417,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### cs
+## cs
 
 <details>
 <summary>show</summary>
@@ -430,7 +430,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### cy
+## cy
 
 <details>
 <summary>show</summary>
@@ -510,7 +510,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### da
+## da
 
 <details>
 <summary>show</summary>
@@ -567,7 +567,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### de
+## de
 
 <details>
 <summary>show</summary>
@@ -578,7 +578,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### de-CH
+## de-CH
 
 <details>
 <summary>show</summary>
@@ -589,7 +589,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### el
+## el
 
 <details>
 <summary>show</summary>
@@ -610,13 +610,13 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### es
+## es
 
 
 All lines are translated 😊
 
 
-### et
+## et
 
 <details>
 <summary>show</summary>
@@ -673,7 +673,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### eu
+## eu
 
 <details>
 <summary>show</summary>
@@ -694,7 +694,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### fa
+## fa
 
 <details>
 <summary>show</summary>
@@ -712,7 +712,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### fi
+## fi
 
 <details>
 <summary>show</summary>
@@ -760,7 +760,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### fil
+## fil
 
 <details>
 <summary>show</summary>
@@ -825,13 +825,13 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### fr
+## fr
 
 
 All lines are translated 😊
 
 
-### gl
+## gl
 
 <details>
 <summary>show</summary>
@@ -850,7 +850,7 @@ All lines are translated 😊
 [ [to top](#todo-list) ]
 </details>
 
-### he
+## he
 
 <details>
 <summary>show</summary>
@@ -864,7 +864,7 @@ All lines are translated 😊
 [ [to top](#todo-list) ]
 </details>
 
-### hi
+## hi
 
 <details>
 <summary>show</summary>
@@ -924,7 +924,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### hr
+## hr
 
 <details>
 <summary>show</summary>
@@ -967,7 +967,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### hu
+## hu
 
 <details>
 <summary>show</summary>
@@ -980,13 +980,13 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### id
+## id
 
 
 All lines are translated 😊
 
 
-### is
+## is
 
 <details>
 <summary>show</summary>
@@ -1045,7 +1045,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### it
+## it
 
 <details>
 <summary>show</summary>
@@ -1061,7 +1061,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### ja
+## ja
 
 <details>
 <summary>show</summary>
@@ -1080,7 +1080,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### ka
+## ka
 
 <details>
 <summary>show</summary>
@@ -1126,7 +1126,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### kk
+## kk
 
 <details>
 <summary>show</summary>
@@ -1136,7 +1136,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### km
+## km
 
 <details>
 <summary>show</summary>
@@ -1217,7 +1217,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### kn
+## kn
 
 <details>
 <summary>show</summary>
@@ -1237,7 +1237,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### ko
+## ko
 
 <details>
 <summary>show</summary>
@@ -1248,13 +1248,13 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### lt
+## lt
 
 
 All lines are translated 😊
 
 
-### lv
+## lv
 
 <details>
 <summary>show</summary>
@@ -1311,7 +1311,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### me
+## me
 
 <details>
 <summary>show</summary>
@@ -1384,7 +1384,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### mk
+## mk
 
 <details>
 <summary>show</summary>
@@ -1466,7 +1466,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### mn
+## mn
 
 <details>
 <summary>show</summary>
@@ -1536,7 +1536,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### mr
+## mr
 
 <details>
 <summary>show</summary>
@@ -1557,7 +1557,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### ms
+## ms
 
 <details>
 <summary>show</summary>
@@ -1579,7 +1579,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### nb
+## nb
 
 <details>
 <summary>show</summary>
@@ -1592,7 +1592,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### ne
+## ne
 
 <details>
 <summary>show</summary>
@@ -1667,7 +1667,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### nl
+## nl
 
 <details>
 <summary>show</summary>
@@ -1683,7 +1683,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### nn
+## nn
 
 <details>
 <summary>show</summary>
@@ -1696,7 +1696,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### pl
+## pl
 
 <details>
 <summary>show</summary>
@@ -1706,7 +1706,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### ps
+## ps
 
 <details>
 <summary>show</summary>
@@ -1727,7 +1727,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### pt
+## pt
 
 <details>
 <summary>show</summary>
@@ -1784,37 +1784,29 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### pt-BR
-
-<details>
-<summary>show</summary>
-
- * json : Please confirm your password before continuing. : not present
- * json : We won't ask for your password again for a few hours. : not present
- * passwords : throttled
- * validation : ends_with
- * validation : password : not present
-
-[ [to top](#todo-list) ]
-</details>
-
-### ro
-
-<details>
-<summary>show</summary>
-
- * passwords : throttled
-
-[ [to top](#todo-list) ]
-</details>
-
-### ru
+## pt-BR
 
 
 All lines are translated 😊
 
 
-### sc
+## ro
+
+<details>
+<summary>show</summary>
+
+ * passwords : throttled
+
+[ [to top](#todo-list) ]
+</details>
+
+## ru
+
+
+All lines are translated 😊
+
+
+## sc
 
 <details>
 <summary>show</summary>
@@ -1894,7 +1886,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### si
+## si
 
 <details>
 <summary>show</summary>
@@ -1951,7 +1943,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### sk
+## sk
 
 <details>
 <summary>show</summary>
@@ -1971,7 +1963,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### sl
+## sl
 
 <details>
 <summary>show</summary>
@@ -2014,7 +2006,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### sq
+## sq
 
 <details>
 <summary>show</summary>
@@ -2093,7 +2085,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### sr
+## sr
 
 <details>
 <summary>show</summary>
@@ -2136,64 +2128,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### sv
-
-<details>
-<summary>show</summary>
-
- * json : A fresh verification link has been sent to your email address. : not present
- * json : All rights reserved. : not present
- * json : Before proceeding, please check your email for a verification link. : not present
- * json : click here to request another : not present
- * json : Confirm Password : not present
- * json : E-Mail Address : not present
- * json : Forbidden : not present
- * json : Forgot Your Password? : not present
- * json : Go Home : not present
- * json : Hello! : not present
- * json : If you did not create an account, no further action is required. : not present
- * json : If you did not receive the email : not present
- * json : If you did not request a password reset, no further action is required. : not present
- * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:actionURL](:actionURL) : not present
- * json : Invalid signature. : not present
- * json : Login : not present
- * json : Logout : not present
- * json : Name : not present
- * json : Not Found : not present
- * json : Oh no : not present
- * json : Page Expired : not present
- * json : Password : not present
- * json : Please click the button below to verify your email address. : not present
- * json : Please confirm your password before continuing. : not present
- * json : Regards : not present
- * json : Register : not present
- * json : Remember Me : not present
- * json : Reset Password : not present
- * json : Reset Password Notification : not present
- * json : Send Password Reset Link : not present
- * json : Server Error : not present
- * json : Service Unavailable : not present
- * json : This action is unauthorized. : not present
- * json : This password reset link will expire in :count minutes. : not present
- * json : Toggle navigation : not present
- * json : Too Many Attempts. : not present
- * json : Too Many Requests : not present
- * json : Unauthorized : not present
- * json : Verify Email Address : not present
- * json : Verify Your Email Address : not present
- * json : We won't ask for your password again for a few hours. : not present
- * json : You are receiving this email because we received a password reset request for your account. : not present
- * json : Your email address is not verified. : not present
- * json : Whoops! : not present
- * passwords : throttled
- * validation : ends_with
- * validation : password : not present
-
-[ [to top](#todo-list) ]
-</details>
-
-### sw
+## sv
 
 <details>
 <summary>show</summary>
@@ -2250,7 +2185,64 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### tg
+## sw
+
+<details>
+<summary>show</summary>
+
+ * json : A fresh verification link has been sent to your email address. : not present
+ * json : All rights reserved. : not present
+ * json : Before proceeding, please check your email for a verification link. : not present
+ * json : click here to request another : not present
+ * json : Confirm Password : not present
+ * json : E-Mail Address : not present
+ * json : Forbidden : not present
+ * json : Forgot Your Password? : not present
+ * json : Go Home : not present
+ * json : Hello! : not present
+ * json : If you did not create an account, no further action is required. : not present
+ * json : If you did not receive the email : not present
+ * json : If you did not request a password reset, no further action is required. : not present
+ * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
+into your web browser: [:actionURL](:actionURL) : not present
+ * json : Invalid signature. : not present
+ * json : Login : not present
+ * json : Logout : not present
+ * json : Name : not present
+ * json : Not Found : not present
+ * json : Oh no : not present
+ * json : Page Expired : not present
+ * json : Password : not present
+ * json : Please click the button below to verify your email address. : not present
+ * json : Please confirm your password before continuing. : not present
+ * json : Regards : not present
+ * json : Register : not present
+ * json : Remember Me : not present
+ * json : Reset Password : not present
+ * json : Reset Password Notification : not present
+ * json : Send Password Reset Link : not present
+ * json : Server Error : not present
+ * json : Service Unavailable : not present
+ * json : This action is unauthorized. : not present
+ * json : This password reset link will expire in :count minutes. : not present
+ * json : Toggle navigation : not present
+ * json : Too Many Attempts. : not present
+ * json : Too Many Requests : not present
+ * json : Unauthorized : not present
+ * json : Verify Email Address : not present
+ * json : Verify Your Email Address : not present
+ * json : We won't ask for your password again for a few hours. : not present
+ * json : You are receiving this email because we received a password reset request for your account. : not present
+ * json : Your email address is not verified. : not present
+ * json : Whoops! : not present
+ * passwords : throttled
+ * validation : ends_with
+ * validation : password : not present
+
+[ [to top](#todo-list) ]
+</details>
+
+## tg
 
 <details>
 <summary>show</summary>
@@ -2317,7 +2309,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### th
+## th
 
 <details>
 <summary>show</summary>
@@ -2344,7 +2336,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### tk
+## tk
 
 <details>
 <summary>show</summary>
@@ -2424,7 +2416,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### tl
+## tl
 
 <details>
 <summary>show</summary>
@@ -2497,7 +2489,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### tr
+## tr
 
 <details>
 <summary>show</summary>
@@ -2540,7 +2532,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### ug
+## ug
 
 <details>
 <summary>show</summary>
@@ -2605,13 +2597,13 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### uk
+## uk
 
 
 All lines are translated 😊
 
 
-### ur
+## ur
 
 <details>
 <summary>show</summary>
@@ -2670,7 +2662,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### uz-cyrillic
+## uz-cyrillic
 
 <details>
 <summary>show</summary>
@@ -2735,7 +2727,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### uz-latin
+## uz-latin
 
 <details>
 <summary>show</summary>
@@ -2800,7 +2792,7 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### vi
+## vi
 
 <details>
 <summary>show</summary>
@@ -2810,19 +2802,19 @@ into your web browser: [:actionURL](:actionURL) : not present
 [ [to top](#todo-list) ]
 </details>
 
-### zh-CN
+## zh-CN
 
 
 All lines are translated 😊
 
 
-### zh-HK
+## zh-HK
 
 
 All lines are translated 😊
 
 
-### zh-TW
+## zh-TW
 
 
 All lines are translated 😊

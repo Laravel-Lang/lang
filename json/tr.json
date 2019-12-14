@@ -12,5 +12,8 @@
   "Reset Password": "Parola Sıfırlama",
   "Reset Password Notification": "Parola Unuttum Bildirimi",
   "Send Password Reset Link": "Parola Unuttum Bildirimi Gönder",
-  "You are receiving this email because we received a password reset request for your account.": "Parola unuttuğunuzu belirttiğiniz için bu sıfırlama mesajı gönderilmiştir."
+  "You are receiving this email because we received a password reset request for your account.": "Parola unuttuğunuzu belirttiğiniz için bu sıfırlama mesajı gönderilmiştir.",
+  "If you’re having trouble clicking the \":actionText\" button, copy and paste the URL below\ninto your web browser: [:actionURL](:actionURL)": "Eğer \":actionText\" butonuna basmakta zorluk yaşıyorsanız, aşağıdaki URL'i tarayıcınıza yapıştırınız. \n[:actionURL](:actionURL)",
+  "Regards": "Saygılarımızla",
+  "This password reset link will expire in :count minutes.": "Bu sıfırlama bağlantısı :count dakika sonra geçerililiğini kaybedecektir."
 }

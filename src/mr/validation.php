@@ -15,7 +15,7 @@ return [
     'accepted'           => ':attribute ला स्वीकार केला गेला पाहिजे.',
     'active_url'         => ':attribute हा एक बरोबर URL नाही आहे.',
     'after'              => ':attribute, :date नंतरची एक तारीख पाहिजे.',
-        'after_or_equal' => ':attribute, :date हि किंवा त्या नंतरची एक तारीख पाहिजे.',
+    'after_or_equal'     => ':attribute, :date हि किंवा त्या नंतरची एक तारीख पाहिजे.',
     'alpha'              => ':attribute मध्ये फक्त अक्षरे वैध आहेत.',
     'alpha_dash'         => ':attribute मध्ये फक्त अक्षरे, संख्या आणि डॅश वैध आहेत.',
     'alpha_num'          => ':attribute मध्ये फक्त अक्षरे आणि संख्या वैध आहेत.',

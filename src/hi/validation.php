@@ -39,7 +39,7 @@ return [
     'dimensions'     => ':attribute का अमान्य चित्त माप है।',
     'distinct'       => ':attribute फील्ड का एक डुप्लिकेट मान होता है।',
     'email'          => ':attribute एक मान्य ईमेल पता होना चाहिए।',
-    'ends_with'      => 'The :attribute must end with one of the following: :values',
+    'ends_with'      => 'The :attribute must end with one of the following: :values.',
     'exists'         => 'चुना गया :attribute अमान्य है।',
     'file'           => ':attribute एक फ़ाइल होनी चाहिए।',
     'filled'         => ':attribute फील्ड आवश्यक होता है।',

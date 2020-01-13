@@ -39,7 +39,7 @@ return [
     'dimensions'     => ' :attribute ir nederīgs attēla izmērs.',
     'distinct'       => ' :attribute laikam ir dubulta vērtība.',
     'email'          => ' :attribute derīgam e-pastam.',
-    'ends_with'      => 'The :attribute must end with one of the following: :values',
+    'ends_with'      => 'The :attribute must end with one of the following: :values.',
     'exists'         => 'Izvēlētais :attribute ir nederīgs.',
     'file'           => ' :attribute jābūt failam.',
     'filled'         => ':attribute lauks ir nepieciešams.',

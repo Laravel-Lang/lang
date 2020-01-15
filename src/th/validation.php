@@ -39,7 +39,7 @@ return [
     'dimensions'     => 'ข้อมูล :attribute มีขนาดไม่ถูกต้อง.',
     'distinct'       => 'ข้อมูล :attribute มีค่าที่ซ้ำกัน',
     'email'          => 'ข้อมูล :attribute ต้องเป็นอีเมล์',
-    'ends_with'      => 'The :attribute must end with one of the following: :values',
+    'ends_with'      => 'The :attribute must end with one of the following: :values.',
     'exists'         => 'ข้อมูล ที่ถูกเลือกจาก :attribute ไม่ถูกต้อง',
     'file'           => 'ข้อมูล :attribute ต้องเป็นไฟล์.',
     'filled'         => 'ข้อมูล :attribute จำเป็นต้องกรอก',

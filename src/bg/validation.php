@@ -39,7 +39,7 @@ return [
     'dimensions'     => 'Невалидни размери за снимка :attribute.',
     'distinct'       => 'Данните в полето :attribute се дублират.',
     'email'          => 'Полето :attribute е в невалиден формат.',
-    'ends_with'      => 'The :attribute must end with one of the following: :values',
+    'ends_with'      => 'The :attribute must end with one of the following: :values.',
     'exists'         => 'Избранато поле :attribute вече съществува.',
     'file'           => 'Полето :attribute трябва да бъде файл.',
     'filled'         => 'Полето :attribute е задължително.',

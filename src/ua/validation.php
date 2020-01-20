@@ -15,14 +15,14 @@ return [
 
     'accepted'        => 'Ви повинні прийняти :attribute.',
     'active_url'      => 'Поле :attribute не є дійсною URL-адресою.',
-    'after'           => 'у полі :attribute повинна бути дата після :date.',
-    'after_or_equal'  => 'у полі :attribute повинна бути дата після (або рівна) :date.',
+    'after'           => 'У полі :attribute повинна бути дата після :date.',
+    'after_or_equal'  => 'У полі :attribute повинна бути дата після (або рівна) :date.',
     'alpha'           => 'Поле :attribute може містити лише літери.',
     'alpha_dash'      => 'Поле :attribute може містити лише літери, цифри, дефіс і нижнє підкреслення.',
     'alpha_num'       => 'Поле :attribute може містити лише літери і цифри.',
     'array'           => 'Поле :attribute повинно бути масивом.',
-    'before'          => 'у полі :attribute повинна бути дата до :date.',
-    'before_or_equal' => 'у полі :attribute повинна бути дата до (або рівна) :date.',
+    'before'          => 'У полі :attribute повинна бути дата до :date.',
+    'before_or_equal' => 'У полі :attribute повинна бути дата до (або рівна) :date.',
     'between'         => [
         'numeric' => 'Поле :attribute повинно бути між :min і :max.',
         'file'    => 'Розмір файла у полі :attribute повинен бути між :min і :max Кілобайт(а).',
@@ -44,7 +44,7 @@ return [
     'exists'         => 'Вибране значення для :attribute некоректне.',
     'file'           => 'Поле :attribute повинно бути файлом.',
     'filled'         => 'Поле :attribute обов\'язково повинно мати значення.',
-    'gt'             => [//
+    'gt'             => [
         'numeric' => 'Поле :attribute повинно бути більше, ніж :value.',
         'file'    => 'Розмір файла у полі :attribute повинен бути більше :value Кілобайт(а).',
         'string'  => 'Кількість символів у полі :attribute повинна бути більше :value.',

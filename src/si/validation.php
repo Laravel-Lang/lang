@@ -38,7 +38,7 @@ return [
     'dimensions'     => 'මෙම :attribute වලංගු නොවන පිළිබිඹුවක් ඇත.',
     'distinct'       => 'මෙම :attribute ක්ෂේත්රයේ අනුපිටපත් වටිනාකමක් ඇත.',
     'email'          => 'මෙම :attribute වලංගු විද්යුත් තැපැල් ලිපිනයක් විය යුතුය.',
-    'ends_with'      => 'The :attribute must end with one of the following: :values',
+    'ends_with'      => 'The :attribute must end with one of the following: :values.',
     'exists'         => 'මෙම තෝරා ඇත :attribute අවලංගුයි.',
     'file'           => 'මෙම :attribute ගොනුවක් විය යුතුය.',
     'filled'         => 'මෙම :attribute ක්ෂේත්රයේ වටිනාකමක් තිබිය යුතුය.',

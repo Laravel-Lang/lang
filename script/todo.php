@@ -254,6 +254,8 @@ class TodoGenerator
             }
         }
 
+        sort($result);
+
         return array_filter($result);
     }
 

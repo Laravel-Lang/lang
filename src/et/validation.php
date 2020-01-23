@@ -39,7 +39,7 @@ return [
     'dimensions'     => ':attribute on valed pildi suurused.',
     'distinct'       => ':attribute väljal on topeltväärtus.',
     'email'          => ':attribute peab olema kehtiv e-posti aadress.',
-    'ends_with'      => 'The :attribute must end with one of the following: :values',
+    'ends_with'      => 'The :attribute must end with one of the following: :values.',
     'exists'         => 'Valitud :attribute on vigane.',
     'file'           => ':attribute peab olema fail.',
     'filled'         => ':attribute väli on nõutav.',

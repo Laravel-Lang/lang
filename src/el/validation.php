@@ -39,7 +39,7 @@ return [
     'dimensions'     => 'Το πεδίο :attribute περιέχει μη έγκυρες διαστάσεις εικόνας.',
     'distinct'       => 'Το πεδίο :attribute περιέχει δύο φορές την ίδια τιμή.',
     'email'          => 'Το πεδίο :attribute πρέπει να είναι μία έγκυρη διεύθυνση email.',
-    'ends_with'      => 'The :attribute must end with one of the following: :values',
+    'ends_with'      => 'The :attribute must end with one of the following: :values.',
     'exists'         => 'Το επιλεγμένο :attribute δεν είναι έγκυρο.',
     'file'           => 'Το πεδίο :attribute πρέπει να είναι αρχείο.',
     'filled'         => 'To πεδίο :attribute είναι απαραίτητο.',

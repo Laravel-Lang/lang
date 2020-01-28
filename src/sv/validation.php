@@ -92,6 +92,7 @@ return [
     'not_in'               => ':attribute är ogiltigt.',
     'not_regex'            => 'Formatet för :attribute är ogiltigt.',
     'numeric'              => ':attribute måste vara en siffra.',
+    'password'             => 'Lösenordet är fel.',
     'present'              => ':attribute måste finnas med.',
     'regex'                => ':attribute har ogiltigt format.',
     'required'             => ':attribute är obligatoriskt.',

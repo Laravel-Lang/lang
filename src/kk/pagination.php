@@ -13,5 +13,5 @@ return [
     */
 
     'previous' => '&laquo; Алдыңғы',
-    'next'     => 'Келесі &raquo;',
+    'next' => 'Келесі &raquo;',
 ];

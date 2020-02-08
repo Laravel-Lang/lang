@@ -3,15 +3,14 @@
 return [
     /*
     |--------------------------------------------------------------------------
-    | Authentication Language Lines
+    | Autentifikatsiya uchun til resurslari.
     |--------------------------------------------------------------------------
     |
-    | The following language lines are used during authentication for various
-    | messages that we need to display to the user. You are free to modify
-    | these language lines according to your application's requirements.
+    | Quyidagi xatolik va ma'lumotlar foydalanuvchi uchun autentifikatsiya vaqtida ko'rsatilishi kerak.
+    | Siz ularni o'z ilovangiz talablaridan kelib chiqqan holda, istalgan ko'rinishda o'zgartirishingiz mumkin.
     |
     */
 
-    'failed'   => 'Bunday maʼlumotlarga ega foydalanuvchi mavjud emas.',
+    'failed' => 'Bunday foydalanuvchi mavjud emas.',
     'throttle' => 'Kirish uchun juda ko‘p urunishlar aniqlandi. Iltimos :seconds soniyadan so‘ng yana urinib ko‘ring.',
 ];

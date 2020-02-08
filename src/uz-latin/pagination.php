@@ -12,5 +12,5 @@ return [
     */
 
     'previous' => '&laquo; Ortga',
-    'next' => 'Oldinga &raquo;',
+    'next'     => 'Oldinga &raquo;',
 ];

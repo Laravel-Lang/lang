@@ -10,10 +10,10 @@ return [
     | kiritishdagi xatoliklar vaqtida ko'rsatiladi.
     |
     */
-    'password' => 'Parol kamida 8 ta belgidan iborat bo‘lishi va tasdiqlanishi kerak.',
-    'reset' => 'Sizning parolingiz o‘zgartirildi!',
-    'sent' => 'Parolni tiklash havolasini elektron pochta orqali yubordik!',
+    'password'  => 'Parol kamida 8 ta belgidan iborat bo‘lishi va tasdiqlanishi kerak.',
+    'reset'     => 'Sizning parolingiz o‘zgartirildi!',
+    'sent'      => 'Parolni tiklash havolasini elektron pochta orqali yubordik!',
     'throttled' => 'Iltimos birozdan so‘ng qayta urinib ko‘ring.',
-    'token' => 'Parolni qayta tiklash kodi noto‘g‘ri.',
-    'user' => 'Bunday elektron manzilga ega foydalanuvchi topilmadi.',
+    'token'     => 'Parolni qayta tiklash kodi noto‘g‘ri.',
+    'user'      => 'Bunday elektron manzilga ega foydalanuvchi topilmadi.',
 ];

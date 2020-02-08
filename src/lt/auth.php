@@ -11,6 +11,6 @@ return [
     |
     */
 
-    'failed' => 'Prisijungimo duomenys neatitinka.',
+    'failed'   => 'Prisijungimo duomenys neatitinka.',
     'throttle' => 'Per daug bandymų prisijungti. Bandykite po :seconds sec.',
 ];

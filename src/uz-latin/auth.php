@@ -11,6 +11,6 @@ return [
     |
     */
 
-    'failed' => 'Bunday foydalanuvchi mavjud emas.',
+    'failed'   => 'Bunday foydalanuvchi mavjud emas.',
     'throttle' => 'Kirish uchun juda ko‘p urunishlar aniqlandi. Iltimos :seconds soniyadan so‘ng yana urinib ko‘ring.',
 ];

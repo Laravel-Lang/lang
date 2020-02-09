@@ -1,6 +1,6 @@
 # Laravel-lang
 
-In this repository, you can find the lang files for the framework PHP, [Laravel 4&5](http://www.laravel.com).
+In this repository, you can find the lang files for the framework PHP, [Laravel 4/5/6](http://www.laravel.com).
 
 ## Install
 
@@ -53,7 +53,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Projects based on this package
 
-* [LaravelLang by ARCANEDEV](https://github.com/ARCANEDEV/LaravelLang) - Translations manager and checker for Laravel 5.
+* [LaravelLang by ARCANEDEV](https://github.com/ARCANEDEV/LaravelLang) - Translations manager and checker for Laravel.
 * [Laravel-lang by overtrue](https://github.com/overtrue/laravel-lang) - Command to add languages in your project.
 * [laravel-lang-installer by ablunier](https://github.com/ablunier/laravel-lang-installer) - Command for easily add languages to a Laravel project.
 * [laravel-lang-publisher by Andrey Helldar](https://github.com/andrey-helldar/laravel-lang-publisher) - Easy installation and update of translation files for your project.

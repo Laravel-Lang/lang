@@ -115,6 +115,7 @@ German (de)
 * [Marius Gebhardt](https://github.com/gbhrdt)
 * [Martin Hettiger](https://github.com/hettiger)
 * [nullEuro](https://github.com/nullEuro)
+* [Maxime Delwaulle](https://github.com/MaximeDelwaulle)
 
 Georgian (ka)
 

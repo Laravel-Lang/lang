@@ -12,10 +12,10 @@ return [
     |
     */
 
-    'password'  => 'Passwörter müssen mindestens 8 Zeichen lang sein und korrekt bestätigt werden.',
-    'reset'     => 'Das Passwort wurde zurückgesetzt!',
-    'sent'      => 'Passworterinnerung wurde gesendet!',
-    'throttled' => 'Please wait before retrying.',
-    'token'     => 'Der Passwort-Wiederherstellungs-Schlüssel ist ungültig oder abgelaufen.',
-    'user'      => 'Es konnte leider kein Nutzer mit dieser E-Mail-Adresse gefunden werden.',
+    'password' => 'Passwörter müssen mindestens 8 Zeichen lang sein und korrekt bestätigt werden.',
+    'reset' => 'Das Passwort wurde zurückgesetzt!',
+    'sent' => 'Wir haben den Passwort-Wiederherstellungs-Link per E-Mail gesendet!',
+    'throttled' => 'Bitte vor einem weiteren Versuch zunächst warten.',
+    'token' => 'Der Passwort-Wiederherstellungs-Schlüssel ist ungültig oder abgelaufen.',
+    'user' => 'Es konnte leider kein Nutzer mit dieser E-Mail-Adresse gefunden werden.',
 ];

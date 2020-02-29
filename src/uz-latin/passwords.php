@@ -11,10 +11,10 @@ return [
     | has failed, such as for an invalid token or invalid new password.
     |
     */
-    'password'  => 'Parol kamida 8 ta belgidan iborat bo‘lishi va tasdiqlanishi kerak.',
-    'reset'     => 'Sizning parolingiz tiklandi!',
-    'sent'      => 'Parolni tiklash havolasini elektron pochta orqali yubordik!',
+    'password' => 'Parol kamida 8 ta belgidan iborat bo‘lishi va tasdiqlanishi kerak.',
+    'reset' => 'Sizning parolingiz tiklandi!',
+    'sent' => 'Parolni tiklash havolasini elektron pochta orqali yubordik!',
     'throttled' => 'Iltimos birozdan so‘ng qayta urinib ko‘ring.',
-    'token'     => 'Ushbu parolni qayta tiklash kodi noto‘g‘ri.',
-    'user'      => 'Ushbu elektron pochta manziliga ega foydalanuvchi topilmadi.',
+    'token' => 'Ushbu parolni qayta tiklash kodi noto‘g‘ri.',
+    'user' => 'Ushbu elektron pochta manziliga ega foydalanuvchi topilmadi.',
 ];

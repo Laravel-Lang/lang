@@ -13,5 +13,5 @@ return [
     */
 
     'previous' => '&laquo; ئالدىنقى بەت',
-    'next'     => 'كىيىنكى بەت &raquo;',
+    'next' => 'كىيىنكى بەت &raquo;',
 ];

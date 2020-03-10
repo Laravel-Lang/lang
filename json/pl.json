@@ -14,7 +14,7 @@
   "If you did not create an account, no further action is required.": "Jeśli nie stworzyłeś konta, zignoruj tę wiadomość.",
   "If you did not receive the email": "Jeśli nie otrzymałeś(aś) emaila",
   "If you did not request a password reset, no further action is required.": "Jeśli nie chcesz resetować hasła, zignoruj tę wiadomość.",
-  "If you’re having trouble clicking the \":actionText\" button, copy and paste the URL below\ninto your web browser: [:actionURL](:actionURL)": "Jeżeli masz problemy z kliknięciem przycisku \":actionText\", skopiuj i wklej poniższy adres w pasek przeglądarki: [:actionURL](:actionURL)",
+  "If you’re having trouble clicking the \":actionText\" button, copy and paste the URL below\ninto your web browser: [:displayableActionUrl](:actionURL)": "Jeżeli masz problemy z kliknięciem przycisku \":actionText\", skopiuj i wklej poniższy adres w pasek przeglądarki: [:displayableActionUrl](:actionURL)",
   "Invalid signature.": "Nieprawidłowy podpis.",
   "Login": "Zaloguj się",
   "Logout": "Wyloguj się",

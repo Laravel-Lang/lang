@@ -12,7 +12,6 @@ return [
     |
     */
 
-    'password'  => 'Lykilorðið verður að innihalda að minnsta kosti 8 stafi.',
     'reset'     => 'Lykilorðið þitt hefur verið endurstillt!',
     'sent'      => 'Við sendum þér tölvupóst með slóð til að endurheimta lykilorðið þitt.',
     'throttled' => 'Please wait before retrying.',

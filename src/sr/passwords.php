@@ -12,7 +12,6 @@ return [
     |
     */
 
-    'password'  => 'Lozinka mora imati najmanje 8 karaktera i da odgovara potvrdi.',
     'reset'     => 'Lozinka je resetovana!',
     'sent'      => 'Poslali smo reset link za vašu lozinku!',
     'throttled' => 'Please wait before retrying.',

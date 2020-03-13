@@ -12,7 +12,6 @@ return [
     |
     */
 
-    'password'  => 'Le password devono essere di almeno 8 caratteri e devono coincidere.',
     'reset'     => 'La password è stata reimpostata!',
     'sent'      => 'Promemoria della password inviato!',
     'throttled' => 'Please wait before retrying.',

@@ -12,7 +12,6 @@ return [
     |
     */
 
-    'password'  => 'Geslo mora biti dolgo vsaj šest znakov in se mora ujemati z potrditvenim geslom.',
     'reset'     => 'Geslo je bilo spremenjeno!',
     'sent'      => 'Opomnik za geslo poslano!',
     'throttled' => 'Please wait before retrying.',

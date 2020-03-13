@@ -12,7 +12,6 @@ return [
     |
     */
 
-    'password'  => 'パスワードは6文字以上かつ確認フィールドと一致していなければなりません。',
     'reset'     => 'パスワードをリセットしました。',
     'sent'      => 'パスワードリマインダーを送信しました。',
     'throttled' => 'Please wait before retrying.',

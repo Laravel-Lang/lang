@@ -39,9 +39,6 @@ Replace `[language-code]` by any of the languages listed [here](src).
 
 In the file *config/app.php*, change the value of *locale* by the short name of your language (*app/config/app.php* in Laravel 4).
 
-## Change log
-
-Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recently.
 
 ## Contributing
 

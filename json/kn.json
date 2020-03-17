@@ -14,7 +14,7 @@
     "If you did not create an account, no further action is required.": "ನೀವು ಖಾತೆಯೊಂದನ್ನು ರಚಿಸದಿದ್ದರೆ, ಹೆಚ್ಚಿನ ಕ್ರಮಗಳ ಅಗತ್ಯವಿಲ್ಲ.",
     "If you did not receive the email": "ನೀವು ಇಮೇಲ್ ಸ್ವೀಕರಿಸದಿದ್ದರೆ ",
     "If you did not request a password reset, no further action is required.": "ಪಾಸ್ವರ್ಡ್ ಮರುಹೊಂದಿಸಲು ನೀವು ವಿನಂತಿಸದಿದ್ದರೆ, ಹೆಚ್ಚಿನ ಕ್ರಮಗಳ ಅಗತ್ಯವಿಲ್ಲ.",
-    "If you’re having trouble clicking the \":actionText\" button, copy and paste the URL below\ninto your web browser: [:actionURL](:actionURL)": " \":actionText\" ಗುಂಡಿಯನ್ನು ಕ್ಲಿಕ್ ಮಾಡುವಲ್ಲಿ ನೀವು ತೊಂದರೆ ಹೊಂದಿದ್ದರೆ, ನಿಮ್ಮ ವೆಬ್ ಬ್ರೌಸರ್ಗೆ ಕೆಳಗಿನ URL ನಕಲಿಸಿ ಮತ್ತು ಅಂಟಿಸಿ:  [:actionURL](:actionURL)",
+    "If you’re having trouble clicking the \":actionText\" button, copy and paste the URL below\ninto your web browser: [:displayableActionUrl](:actionURL)": " \":actionText\" ಗುಂಡಿಯನ್ನು ಕ್ಲಿಕ್ ಮಾಡುವಲ್ಲಿ ನೀವು ತೊಂದರೆ ಹೊಂದಿದ್ದರೆ, ನಿಮ್ಮ ವೆಬ್ ಬ್ರೌಸರ್ಗೆ ಕೆಳಗಿನ URL ನಕಲಿಸಿ ಮತ್ತು ಅಂಟಿಸಿ:  [:displayableActionUrl](:actionURL)",
     "Login": "ಲಾಗಿನ್",
     "Logout": "ಲಾಗ್ ಔಟ್",
     "Name": "ಹೆಸರು",

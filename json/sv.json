@@ -14,7 +14,7 @@
   "If you did not create an account, no further action is required.": "Om du ej har skapat ett konto behöver du ej göra något.",
   "If you did not receive the email": "Om du inte mottog e-postmeddelandet",
   "If you did not request a password reset, no further action is required.": "Om du inte har begärt ett lösenord behöver du ej göra något.",
-  "If you’re having trouble clicking the \":actionText\" button, copy and paste the URL below\ninto your web browser: [:actionURL](:actionURL)": "Om det ej fungerar att klicka på \":actionText\"-knappen, kopiera och klista in länken nedan i webbläsarens adressfält:\n[:actionURL](:actionURL)",
+  "If you’re having trouble clicking the \":actionText\" button, copy and paste the URL below\ninto your web browser: [:displayableActionUrl](:actionURL)": "Om det ej fungerar att klicka på \":actionText\"-knappen, kopiera och klista in länken nedan i webbläsarens adressfält:\n[:displayableActionUrl](:actionURL)",
   "Invalid signature.": "Felaktig signering.",
   "Login": "Logga in",
   "Logout": "Logga ut",

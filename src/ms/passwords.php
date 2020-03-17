@@ -12,7 +12,6 @@ return [
     |
     */
 
-    'password'  => 'Kata laluan mestilah sekurang-kurangnya enam aksara dan sepadan dengan pengesahan.',
     'reset'     => 'Kata laluan anda telah ditetapkan semula!',
     'sent'      => 'Kami telah e-mel pautan set semula kata laluan anda!',
     'throttled' => 'Please wait before retrying.',

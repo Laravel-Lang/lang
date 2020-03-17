@@ -13,7 +13,7 @@
     "If you did not create an account, no further action is required.": "आपण एखादे खाते तयार केले नसेल तर पुढील कोणतीही क्रिया आवश्यक नाही.",
     "If you did not receive the email": "आपल्याला ईमेल प्राप्त झाला नाही तर",
     "If you did not request a password reset, no further action is required.": "आपण संकेतशब्द रीसेटची विनंती केली नसल्यास, कोणतीही क्रिया आवश्यक नाही.",
-    "If you’re having trouble clicking the \":actionText\" button, copy and paste the URL below\ninto your web browser: [:actionURL](:actionURL)": "आपण :actionText यावर क्लिक करू शकत नसल्यास, खाली आपल्या URL च्या अॅड्रेस बारमध्ये URL कॉपी आणि पेस्ट करा: [:actionURL] (:actionURL)",
+    "If you’re having trouble clicking the \":actionText\" button, copy and paste the URL below\ninto your web browser: [:displayableActionUrl](:actionURL)": "आपण :actionText यावर क्लिक करू शकत नसल्यास, खाली आपल्या URL च्या अॅड्रेस बारमध्ये URL कॉपी आणि पेस्ट करा: [:displayableActionUrl] (:actionURL)",
     "Login": "लॉग इन",
     "Logout": "निर्गमन",
     "Name": "नाव",

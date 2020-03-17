@@ -12,7 +12,6 @@ return [
     |
     */
 
-    'password'  => 'Parolei jābūt vismaz 8 zīmes garai un jāatbilst apstiprinājumam.',
     'reset'     => 'Jūsu parole ir atjaunināta!',
     'sent'      => 'Mēs nosūtījām paroles maiņas linku uz jūsu e-pastu!',
     'throttled' => 'Please wait before retrying.',

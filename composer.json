@@ -17,8 +17,5 @@
     },
     "require": {
         "ext-json": "*"
-    },
-    "require-dev": {
-        "friendsofphp/php-cs-fixer": "^2.10"
     }
 }

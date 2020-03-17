@@ -12,7 +12,6 @@ return [
     |
     */
 
-    'password'  => 'Açarsöz 8 harpdan ybarat bolup, tassyklamasy bilen deň bolmaly.',
     'reset'     => 'Açarsöz üýtgedildi!',
     'sent'      => 'Açarsöz ýatlatmasy ugradyldy!',
     'throttled' => 'Please wait before retrying.',

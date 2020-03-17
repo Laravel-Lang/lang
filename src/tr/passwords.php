@@ -12,7 +12,6 @@ return [
     |
     */
 
-    'password'  => 'Parolanız en az altı karakter olmalı ve doğrulama ile eşleşmelidir.',
     'reset'     => 'Parolanız sıfırlandı!',
     'sent'      => 'Parola sıfırlama bağlantınız e-posta ile gönderildi!',
     'throttled' => 'Lütfen tekrar denemeden önce bekleyiniz.',

@@ -12,7 +12,6 @@ return [
     |
     */
 
-    'password'  => 'Lazima nenosiri liwe angalau na urefu wa herufi sita na lazima lilingane na uthibitisho.',
     'reset'     => 'Nenosiri lako limefufuliwa upya!',
     'sent'      => 'Tumekutumia barua pepe ya fungo la kufufua nenosiri!',
     'throttled' => 'Please wait before retrying.',

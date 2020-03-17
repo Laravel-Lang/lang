@@ -12,7 +12,6 @@ return [
     |
     */
 
-    'password'  => 'Adgangskode skal minimum være 8 tegn og skal være tastet ens i begge felter.',
     'reset'     => 'Adgangskoden er blevet nulstillet!',
     'sent'      => 'Vi har sendt dig en e-mail til at nulstille din adgangskode!',
     'throttled' => 'Please wait before retrying.',

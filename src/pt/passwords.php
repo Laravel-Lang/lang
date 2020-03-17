@@ -12,7 +12,6 @@ return [
     |
     */
 
-    'password'  => 'A palavra-passe deverá conter pelo menos seis carateres e ser igual à confirmação.',
     'reset'     => 'A palavra-passe foi redefinida!',
     'sent'      => 'O lembrete para a palavra-passe foi enviado!',
     'throttled' => 'Por favor aguarde, antes de tentar novamente.',

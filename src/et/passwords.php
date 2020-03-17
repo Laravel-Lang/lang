@@ -12,7 +12,6 @@ return [
     |
     */
 
-    'password'  => 'Parool peab olema vähemalt 8 tähemärki pikk ja vastama kinnitusele.',
     'reset'     => 'Sinu parool on lähtestatud!',
     'sent'      => 'Oleme saatnud sulle e-postiga parooli lähtestamise lingi!',
     'throttled' => 'Please wait before retrying.',

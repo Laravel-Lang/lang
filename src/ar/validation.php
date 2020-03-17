@@ -62,7 +62,7 @@ return [
     'ip'       => 'يجب أن يكون :attribute عنوان IP صحيحًا.',
     'ipv4'     => 'يجب أن يكون :attribute عنوان IPv4 صحيحًا.',
     'ipv6'     => 'يجب أن يكون :attribute عنوان IPv6 صحيحًا.',
-    'json'     => 'يجب أن يكون :attribute نصآ من نوع JSON.',
+    'json'     => 'يجب أن يكون :attribute نصًا من نوع JSON.',
     'lt'       => [
         'numeric' => 'يجب أن تكون قيمة :attribute أصغر من :value.',
         'file'    => 'يجب أن يكون حجم الملف :attribute أصغر من :value كيلوبايت.',

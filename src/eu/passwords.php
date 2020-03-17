@@ -12,7 +12,6 @@ return [
     |
     */
 
-    'password'  => 'Pasahitzak gutxienez sei karaktere eduki behar dituzte eta bat etorri behar dira.',
     'reset'     => 'Zure pasahitza berrezarri da!',
     'sent'      => 'Zure pasahitza berrezartzeko esteka postaz bidali dizugu!',
     'throttled' => 'Please wait before retrying.',

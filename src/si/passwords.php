@@ -11,7 +11,7 @@ return [
     | has failed, such as for an invalid token or invalid new password.
     |
     */
-    'password'  => 'මුරපද අවම වශයෙන් අක්ෂර හයකින් සමන්විත විය යුතු අතර එය තහවුරු කිරීම සමඟ ගැලපේ.',
+
     'reset'     => 'ඔබගේ මුරපදය යළි සැකසිනි!',
     'sent'      => 'ඔබගේ රහස් පද යළි සකසන සබැඳිය අප විසින් ඊ-තැපැල් කර ඇත!',
     'throttled' => 'Please wait before retrying.',

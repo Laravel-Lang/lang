@@ -12,7 +12,6 @@ return [
     |
     */
 
-    'password'  => 'Os contrasinais deben conter polo menos oito caracteres e coincidir.',
     'reset'     => 'O teu contrasinal foi restablecido!',
     'sent'      => 'Enviámosche por correo electrónico o enlace para restablecer o teu contrasinal!',
     'throttled' => 'Please wait before retrying.',

@@ -12,7 +12,6 @@ return [
     |
     */
 
-    'password'  => 'Heslo sa musí zhodovať a obsahovať najmenej šesť znakov.',
     'reset'     => 'Heslo bolo zmenené!',
     'sent'      => 'Pripomienka k zmene hesla bola odoslaná!',
     'throttled' => 'Pred ďalším pokusom chvíľu počkajte.',

@@ -3,7 +3,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 [ar ✔](#ar)|[az ❗](#az)|[be ❗](#be)|[bg ❗](#bg)|[bn ❗](#bn)|[bs ❗](#bs)|[ca ❗](#ca)|[cs ❗](#cs)|[cy ❗](#cy)|[da ❗](#da)
 [de ❗](#de)|[de-CH ❗](#de-CH)|[el ❗](#el)|[es ✔](#es)|[et ❗](#et)|[eu ❗](#eu)|[fa ❗](#fa)|[fi ❗](#fi)|[fil ❗](#fil)|[fr ✔](#fr)
-[gl ❗](#gl)|[he ❗](#he)|[hi ❗](#hi)|[hr ❗](#hr)|[hu ❗](#hu)|[hy ✔](#hy)|[id ✔](#id)|[is ❗](#is)|[it ❗](#it)|[ja ❗](#ja)
+[gl ❗](#gl)|[he ❗](#he)|[hi ❗](#hi)|[hr ❗](#hr)|[hu ❗](#hu)|[hy ❗](#hy)|[id ✔](#id)|[is ❗](#is)|[it ❗](#it)|[ja ❗](#ja)
 [ka ❗](#ka)|[kk ❗](#kk)|[km ❗](#km)|[kn ❗](#kn)|[ko ❗](#ko)|[lt ✔](#lt)|[lv ❗](#lv)|[me ❗](#me)|[mk ❗](#mk)|[mn ❗](#mn)
 [mr ❗](#mr)|[ms ❗](#ms)|[nb ❗](#nb)|[ne ❗](#ne)|[nl ✔](#nl)|[nn ❗](#nn)|[pl ✔](#pl)|[ps ❗](#ps)|[pt ✔](#pt)|[pt-BR ✔](#pt-BR)
 [ro ❗](#ro)|[ru ✔](#ru)|[sc ❗](#sc)|[si ❗](#si)|[sk ✔](#sk)|[sl ❗](#sl)|[sq ❗](#sq)|[sr ❗](#sr)|[sv ✔](#sv)|[sw ❗](#sw)
@@ -38,7 +38,7 @@ All lines are translated 😊
  * json : If you did not receive the email : not present
  * json : If you did not request a password reset, no further action is required. : not present
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:actionURL](:actionURL) : not present
+into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Invalid signature. : not present
  * json : Login : not present
  * json : Logout : not present
@@ -103,7 +103,7 @@ into your web browser: [:actionURL](:actionURL) : not present
  * json : If you did not receive the email : not present
  * json : If you did not request a password reset, no further action is required. : not present
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:actionURL](:actionURL) : not present
+into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Invalid signature. : not present
  * json : Login : not present
  * json : Logout : not present
@@ -178,7 +178,7 @@ into your web browser: [:actionURL](:actionURL) : not present
  * json : If you did not receive the email : not present
  * json : If you did not request a password reset, no further action is required. : not present
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:actionURL](:actionURL) : not present
+into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Invalid signature. : not present
  * json : Login : not present
  * json : Logout : not present
@@ -235,7 +235,7 @@ into your web browser: [:actionURL](:actionURL) : not present
  * json : If you did not receive the email : not present
  * json : If you did not request a password reset, no further action is required. : not present
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:actionURL](:actionURL) : not present
+into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Invalid signature. : not present
  * json : Login : not present
  * json : Logout : not present
@@ -300,7 +300,7 @@ into your web browser: [:actionURL](:actionURL) : not present
  * json : If you did not receive the email : not present
  * json : If you did not request a password reset, no further action is required. : not present
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:actionURL](:actionURL) : not present
+into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Invalid signature. : not present
  * json : Login : not present
  * json : Logout : not present
@@ -379,7 +379,7 @@ into your web browser: [:actionURL](:actionURL) : not present
  * json : If you did not receive the email : not present
  * json : If you did not request a password reset, no further action is required. : not present
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:actionURL](:actionURL) : not present
+into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Invalid signature. : not present
  * json : Login : not present
  * json : Logout : not present
@@ -449,7 +449,7 @@ into your web browser: [:actionURL](:actionURL) : not present
  * json : If you did not receive the email : not present
  * json : If you did not request a password reset, no further action is required. : not present
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:actionURL](:actionURL) : not present
+into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Invalid signature. : not present
  * json : Login : not present
  * json : Logout : not present
@@ -529,7 +529,7 @@ into your web browser: [:actionURL](:actionURL) : not present
  * json : If you did not receive the email : not present
  * json : If you did not request a password reset, no further action is required. : not present
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:actionURL](:actionURL) : not present
+into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Invalid signature. : not present
  * json : Login : not present
  * json : Logout : not present
@@ -633,7 +633,7 @@ All lines are translated 😊
  * json : If you did not receive the email : not present
  * json : If you did not request a password reset, no further action is required. : not present
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:actionURL](:actionURL) : not present
+into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Invalid signature. : not present
  * json : Login : not present
  * json : Logout : not present
@@ -777,7 +777,7 @@ into your web browser: [:actionURL](:actionURL) : not present
  * json : If you did not receive the email : not present
  * json : If you did not request a password reset, no further action is required. : not present
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:actionURL](:actionURL) : not present
+into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Invalid signature. : not present
  * json : Login : not present
  * json : Logout : not present
@@ -879,7 +879,7 @@ All lines are translated 😊
  * json : If you did not receive the email : not present
  * json : If you did not request a password reset, no further action is required. : not present
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:actionURL](:actionURL) : not present
+into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Invalid signature. : not present
  * json : Login : not present
  * json : Logout : not present
@@ -935,7 +935,7 @@ into your web browser: [:actionURL](:actionURL) : not present
  * json : If you did not create an account, no further action is required. : not present
  * json : If you did not receive the email : not present
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:actionURL](:actionURL) : not present
+into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Invalid signature. : not present
  * json : Not Found : not present
  * json : Oh no : not present
@@ -978,9 +978,14 @@ into your web browser: [:actionURL](:actionURL) : not present
 
 ## hy
 
+<details>
+<summary>show</summary>
 
-All lines are translated 😊
+ * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
+into your web browser: [:displayableActionUrl](:actionURL) : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## id
 
@@ -1007,7 +1012,7 @@ All lines are translated 😊
  * json : If you did not receive the email : not present
  * json : If you did not request a password reset, no further action is required. : not present
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:actionURL](:actionURL) : not present
+into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Invalid signature. : not present
  * json : Login : not present
  * json : Logout : not present
@@ -1096,7 +1101,7 @@ into your web browser: [:actionURL](:actionURL) : not present
  * json : If you did not create an account, no further action is required. : not present
  * json : If you did not receive the email : not present
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:actionURL](:actionURL) : not present
+into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Invalid signature. : not present
  * json : Not Found : not present
  * json : Oh no : not present
@@ -1156,7 +1161,7 @@ into your web browser: [:actionURL](:actionURL) : not present
  * json : If you did not receive the email : not present
  * json : If you did not request a password reset, no further action is required. : not present
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:actionURL](:actionURL) : not present
+into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Invalid signature. : not present
  * json : Login : not present
  * json : Logout : not present
@@ -1274,7 +1279,7 @@ All lines are translated 😊
  * json : If you did not receive the email : not present
  * json : If you did not request a password reset, no further action is required. : not present
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:actionURL](:actionURL) : not present
+into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Invalid signature. : not present
  * json : Login : not present
  * json : Logout : not present
@@ -1331,7 +1336,7 @@ into your web browser: [:actionURL](:actionURL) : not present
  * json : If you did not receive the email : not present
  * json : If you did not request a password reset, no further action is required. : not present
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:actionURL](:actionURL) : not present
+into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Invalid signature. : not present
  * json : Login : not present
  * json : Logout : not present
@@ -1404,7 +1409,7 @@ into your web browser: [:actionURL](:actionURL) : not present
  * json : If you did not receive the email : not present
  * json : If you did not request a password reset, no further action is required. : not present
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:actionURL](:actionURL) : not present
+into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Invalid signature. : not present
  * json : Login : not present
  * json : Logout : not present
@@ -1486,7 +1491,7 @@ into your web browser: [:actionURL](:actionURL) : not present
  * json : If you did not receive the email : not present
  * json : If you did not request a password reset, no further action is required. : not present
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:actionURL](:actionURL) : not present
+into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Invalid signature. : not present
  * json : Login : not present
  * json : Logout : not present
@@ -1612,7 +1617,7 @@ into your web browser: [:actionURL](:actionURL) : not present
  * json : If you did not receive the email : not present
  * json : If you did not request a password reset, no further action is required. : not present
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:actionURL](:actionURL) : not present
+into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Invalid signature. : not present
  * json : Login : not present
  * json : Logout : not present
@@ -1761,7 +1766,7 @@ All lines are translated 😊
  * json : If you did not receive the email : not present
  * json : If you did not request a password reset, no further action is required. : not present
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:actionURL](:actionURL) : not present
+into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Invalid signature. : not present
  * json : Login : not present
  * json : Logout : not present
@@ -1841,7 +1846,7 @@ into your web browser: [:actionURL](:actionURL) : not present
  * json : If you did not receive the email : not present
  * json : If you did not request a password reset, no further action is required. : not present
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:actionURL](:actionURL) : not present
+into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Invalid signature. : not present
  * json : Login : not present
  * json : Logout : not present
@@ -1900,7 +1905,7 @@ All lines are translated 😊
  * json : If you did not create an account, no further action is required. : not present
  * json : If you did not receive the email : not present
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:actionURL](:actionURL) : not present
+into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Invalid signature. : not present
  * json : Not Found : not present
  * json : Oh no : not present
@@ -1947,7 +1952,7 @@ into your web browser: [:actionURL](:actionURL) : not present
  * json : If you did not receive the email : not present
  * json : If you did not request a password reset, no further action is required. : not present
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:actionURL](:actionURL) : not present
+into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Invalid signature. : not present
  * json : Login : not present
  * json : Logout : not present
@@ -2022,7 +2027,7 @@ into your web browser: [:actionURL](:actionURL) : not present
  * json : If you did not create an account, no further action is required. : not present
  * json : If you did not receive the email : not present
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:actionURL](:actionURL) : not present
+into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Invalid signature. : not present
  * json : Not Found : not present
  * json : Oh no : not present
@@ -2075,7 +2080,7 @@ All lines are translated 😊
  * json : If you did not receive the email : not present
  * json : If you did not request a password reset, no further action is required. : not present
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:actionURL](:actionURL) : not present
+into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Invalid signature. : not present
  * json : Login : not present
  * json : Logout : not present
@@ -2132,7 +2137,7 @@ into your web browser: [:actionURL](:actionURL) : not present
  * json : If you did not receive the email : not present
  * json : If you did not request a password reset, no further action is required. : not present
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:actionURL](:actionURL) : not present
+into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Invalid signature. : not present
  * json : Login : not present
  * json : Logout : not present
@@ -2188,7 +2193,7 @@ into your web browser: [:actionURL](:actionURL) : not present
  * json : All rights reserved. : not present
  * json : Forbidden : not present
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:actionURL](:actionURL) : not present
+into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Invalid signature. : not present
  * json : Not Found : not present
  * json : Please confirm your password before continuing. : not present
@@ -2226,7 +2231,7 @@ into your web browser: [:actionURL](:actionURL) : not present
  * json : If you did not receive the email : not present
  * json : If you did not request a password reset, no further action is required. : not present
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:actionURL](:actionURL) : not present
+into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Invalid signature. : not present
  * json : Login : not present
  * json : Logout : not present
@@ -2306,7 +2311,7 @@ into your web browser: [:actionURL](:actionURL) : not present
  * json : If you did not receive the email : not present
  * json : If you did not request a password reset, no further action is required. : not present
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:actionURL](:actionURL) : not present
+into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Invalid signature. : not present
  * json : Login : not present
  * json : Logout : not present
@@ -2389,7 +2394,7 @@ into your web browser: [:actionURL](:actionURL) : not present
  * json : If you did not receive the email : not present
  * json : If you did not request a password reset, no further action is required. : not present
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:actionURL](:actionURL) : not present
+into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Invalid signature. : not present
  * json : Login : not present
  * json : Logout : not present
@@ -2456,7 +2461,7 @@ All lines are translated 😊
  * json : If you did not create an account, no further action is required. : not present
  * json : If you did not receive the email : not present
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:actionURL](:actionURL) : not present
+into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Invalid signature. : not present
  * json : Not Found : not present
  * json : Oh no : not present
@@ -2519,7 +2524,7 @@ into your web browser: [:actionURL](:actionURL) : not present
  * json : If you did not receive the email : not present
  * json : If you did not request a password reset, no further action is required. : not present
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:actionURL](:actionURL) : not present
+into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Invalid signature. : not present
  * json : Login : not present
  * json : Logout : not present
@@ -2584,7 +2589,7 @@ into your web browser: [:actionURL](:actionURL) : not present
  * json : If you did not receive the email : not present
  * json : If you did not request a password reset, no further action is required. : not present
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:actionURL](:actionURL) : not present
+into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Invalid signature. : not present
  * json : Login : not present
  * json : Logout : not present

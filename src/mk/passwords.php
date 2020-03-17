@@ -12,7 +12,6 @@ return [
     |
     */
 
-    'password'  => 'Лозинката треба да биде најмалку шест карактери и да совпаѓа со потврдната лозинка.',
     'reset'     => 'Password has been reset!',
     'sent'      => 'Испратен емаил со инструкции за ресетирање на лозинка!',
     'throttled' => 'Please wait before retrying.',

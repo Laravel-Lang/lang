@@ -12,7 +12,6 @@ return [
     |
     */
 
-    'password'  => 'Salasanan on oltava vähintään kuusi merkkiä pitkä ja vastattava vahvistuskentän arvoa.',
     'reset'     => 'Salasana on resetoitu!',
     'sent'      => 'Resetointilinkki lähetetty sähköpostitse!',
     'throttled' => 'Please wait before retrying.',

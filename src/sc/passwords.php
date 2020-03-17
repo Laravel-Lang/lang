@@ -12,7 +12,6 @@ return [
     |
     */
 
-    'password'  => 'Is password depent èssere a su mancu de 8 caràteres e depent èssere uguales.',
     'reset'     => 'Sa password est istada torrada a impostare!',
     'sent'      => 'Regordu de sa password imbiadu!',
     'throttled' => 'Please wait before retrying.',

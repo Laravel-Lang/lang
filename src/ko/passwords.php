@@ -12,7 +12,6 @@ return [
     |
     */
 
-    'password'  => '비밀번호는 최소한 6자 이상이어야 하며 확인 항목과 일치해야 합니다.',
     'reset'     => '비밀번호가 변경되었습니다!',
     'sent'      => '비밀번호 재설정 링크를 이메일로 전송했습니다!',
     'throttled' => 'Please wait before retrying.',

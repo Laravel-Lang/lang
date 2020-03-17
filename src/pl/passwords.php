@@ -12,7 +12,6 @@ return [
     |
     */
 
-    'password'  => 'Hasło musi mieć przynajmniej osiem znaków i zgadzać się z potwierdzeniem.',
     'reset'     => 'Hasło zostało zresetowane!',
     'sent'      => 'Przypomnienie hasła zostało wysłane!',
     'throttled' => 'Proszę zaczekać zanim spróbujesz ponownie.',

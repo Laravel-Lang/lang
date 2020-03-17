@@ -10,16 +10,14 @@
 [tg ❗](#tg)|[th ❗](#th)|[tk ❗](#tk)|[tl ❗](#tl)|[tr ❗](#tr)|[ug ❗](#ug)|[uk ✔](#uk)|[ur ❗](#ur)|[uz-cyrillic ❗](#uz-cyrillic)|[uz-latin ❗](#uz-latin)
 [vi ❗](#vi)|[zh-CN ✔](#zh-CN)|[zh-HK ✔](#zh-HK)|[zh-TW ✔](#zh-TW)
 
+
+
+
 ## ar
 
-<details>
-<summary>show</summary>
 
- * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:displayableActionUrl](:actionURL) : not present
+All lines are translated 😊
 
-[ [to top](#todo-list) ]
-</details>
 
 ## az
 
@@ -424,8 +422,6 @@ into your web browser: [:displayableActionUrl](:actionURL) : not present
 <details>
 <summary>show</summary>
 
- * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Please confirm your password before continuing. : not present
  * json : We won't ask for your password again for a few hours. : not present
  * passwords : throttled
@@ -533,7 +529,7 @@ into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : If you did not receive the email : not present
  * json : If you did not request a password reset, no further action is required. : not present
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-wser: [:displayableActionUrl](:actionURL) : not present
+into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Invalid signature. : not present
  * json : Login : not present
  * json : Logout : not present
@@ -576,8 +572,6 @@ wser: [:displayableActionUrl](:actionURL) : not present
 <details>
 <summary>show</summary>
 
- * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Name
  * passwords : throttled
 
@@ -589,8 +583,6 @@ into your web browser: [:displayableActionUrl](:actionURL) : not present
 <details>
 <summary>show</summary>
 
- * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Name
  * passwords : throttled
 
@@ -602,8 +594,6 @@ into your web browser: [:displayableActionUrl](:actionURL) : not present
 <details>
 <summary>show</summary>
 
- * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Invalid signature. : not present
  * json : Not Found : not present
  * json : Please confirm your password before continuing. : not present
@@ -620,14 +610,9 @@ into your web browser: [:displayableActionUrl](:actionURL) : not present
 
 ## es
 
-<details>
-<summary>show</summary>
 
- * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:displayableActionUrl](:actionURL) : not present
+All lines are translated 😊
 
-[ [to top](#todo-list) ]
-</details>
 
 ## et
 
@@ -691,8 +676,6 @@ into your web browser: [:displayableActionUrl](:actionURL) : not present
 <details>
 <summary>show</summary>
 
- * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Invalid signature. : not present
  * json : Not Found : not present
  * json : Please confirm your password before continuing. : not present
@@ -714,8 +697,6 @@ into your web browser: [:displayableActionUrl](:actionURL) : not present
 <details>
 <summary>show</summary>
 
- * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Invalid signature. : not present
  * json : Not Found : not present
  * json : Please confirm your password before continuing. : not present
@@ -745,8 +726,6 @@ into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Go Home : not present
  * json : If you did not create an account, no further action is required. : not present
  * json : If you did not receive the email : not present
- * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Invalid signature. : not present
  * json : Login : not present
  * json : Logout : not present
@@ -846,22 +825,15 @@ into your web browser: [:displayableActionUrl](:actionURL) : not present
 
 ## fr
 
-<details>
-<summary>show</summary>
 
- * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:displayableActionUrl](:actionURL) : not present
+All lines are translated 😊
 
-[ [to top](#todo-list) ]
-</details>
 
 ## gl
 
 <details>
 <summary>show</summary>
 
- * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Invalid signature. : not present
  * json : Not Found : not present
  * json : Please confirm your password before continuing. : not present
@@ -881,8 +853,6 @@ into your web browser: [:displayableActionUrl](:actionURL) : not present
 <details>
 <summary>show</summary>
 
- * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Please confirm your password before continuing. : not present
  * json : We won't ask for your password again for a few hours. : not present
  * validation : password : not present
@@ -998,8 +968,6 @@ into your web browser: [:displayableActionUrl](:actionURL) : not present
 <details>
 <summary>show</summary>
 
- * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Please confirm your password before continuing. : not present
  * json : We won't ask for your password again for a few hours. : not present
  * passwords : throttled
@@ -1021,14 +989,9 @@ into your web browser: [:displayableActionUrl](:actionURL) : not present
 
 ## id
 
-<details>
-<summary>show</summary>
 
- * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:displayableActionUrl](:actionURL) : not present
+All lines are translated 😊
 
-[ [to top](#todo-list) ]
-</details>
 
 ## is
 
@@ -1095,8 +1058,6 @@ into your web browser: [:displayableActionUrl](:actionURL) : not present
 <summary>show</summary>
 
  * json : click here to request another : not present
- * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Oh no
  * json : Password
  * json : Please confirm your password before continuing. : not present
@@ -1112,8 +1073,6 @@ into your web browser: [:displayableActionUrl](:actionURL) : not present
 <details>
 <summary>show</summary>
 
- * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Invalid signature. : not present
  * json : Not Found : not present
  * json : Please confirm your password before continuing. : not present
@@ -1178,8 +1137,6 @@ into your web browser: [:displayableActionUrl](:actionURL) : not present
 <details>
 <summary>show</summary>
 
- * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:displayableActionUrl](:actionURL) : not present
  * passwords : throttled
 
 [ [to top](#todo-list) ]
@@ -1271,8 +1228,6 @@ into your web browser: [:displayableActionUrl](:actionURL) : not present
 <details>
 <summary>show</summary>
 
- * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Invalid signature. : not present
  * json : Not Found : not present
  * json : Please confirm your password before continuing. : not present
@@ -1293,8 +1248,6 @@ into your web browser: [:displayableActionUrl](:actionURL) : not present
 <details>
 <summary>show</summary>
 
- * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : We won't ask for your password again for a few hours. : not present
  * passwords : throttled
 
@@ -1303,14 +1256,9 @@ into your web browser: [:displayableActionUrl](:actionURL) : not present
 
 ## lt
 
-<details>
-<summary>show</summary>
 
- * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:displayableActionUrl](:actionURL) : not present
+All lines are translated 😊
 
-[ [to top](#todo-list) ]
-</details>
 
 ## lv
 
@@ -1600,8 +1548,6 @@ into your web browser: [:displayableActionUrl](:actionURL) : not present
 <summary>show</summary>
 
  * json : click here to request another : not present
- * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Invalid signature. : not present
  * json : Not Found : not present
  * json : Please confirm your password before continuing. : not present
@@ -1622,8 +1568,6 @@ into your web browser: [:displayableActionUrl](:actionURL) : not present
 <details>
 <summary>show</summary>
 
- * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Invalid signature. : not present
  * json : Not Found : not present
  * json : Please confirm your password before continuing. : not present
@@ -1646,8 +1590,6 @@ into your web browser: [:displayableActionUrl](:actionURL) : not present
 <details>
 <summary>show</summary>
 
- * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Please confirm your password before continuing. : not present
  * json : We won't ask for your password again for a few hours. : not present
  * passwords : throttled
@@ -1733,22 +1675,15 @@ into your web browser: [:displayableActionUrl](:actionURL) : not present
 
 ## nl
 
-<details>
-<summary>show</summary>
 
- * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:displayableActionUrl](:actionURL) : not present
+All lines are translated 😊
 
-[ [to top](#todo-list) ]
-</details>
 
 ## nn
 
 <details>
 <summary>show</summary>
 
- * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Please confirm your password before continuing. : not present
  * json : We won't ask for your password again for a few hours. : not present
  * passwords : throttled
@@ -1759,22 +1694,15 @@ into your web browser: [:displayableActionUrl](:actionURL) : not present
 
 ## pl
 
-<details>
-<summary>show</summary>
 
- * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:displayableActionUrl](:actionURL) : not present
+All lines are translated 😊
 
-[ [to top](#todo-list) ]
-</details>
 
 ## ps
 
 <details>
 <summary>show</summary>
 
- * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:displayableActionUrl](:actionURL) : not present
  * json : Invalid signature. : not present
  * json : Not Found : not present
  * json : Please confirm your password before continuing. : not present
@@ -1793,33 +1721,21 @@ into your web browser: [:displayableActionUrl](:actionURL) : not present
 
 ## pt
 
-<details>
-<summary>show</summary>
 
- * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:displayableActionUrl](:actionURL) : not present
+All lines are translated 😊
 
-[ [to top](#todo-list) ]
-</details>
 
 ## pt-BR
 
-<details>
-<summary>show</summary>
 
- * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:displayableActionUrl](:actionURL) : not present
+All lines are translated 😊
 
-[ [to top](#todo-list) ]
-</details>
 
 ## ro
 
 <details>
 <summary>show</summary>
 
- * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:displayableActionUrl](:actionURL) : not present
  * passwords : throttled
 
 [ [to top](#todo-list) ]
@@ -1827,14 +1743,9 @@ into your web browser: [:displayableActionUrl](:actionURL) : not present
 
 ## ru
 
-<details>
-<summary>show</summary>
 
- * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:displayableActionUrl](:actionURL) : not present
+All lines are translated 😊
 
-[ [to top](#todo-list) ]
-</details>
 
 ## sc
 
@@ -1975,14 +1886,9 @@ into your web browser: [:displayableActionUrl](:actionURL) : not present
 
 ## sk
 
-<details>
-<summary>show</summary>
 
- * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:displayableActionUrl](:actionURL) : not present
+All lines are translated 😊
 
-[ [to top](#todo-list) ]
-</details>
 
 ## sl
 
@@ -2151,14 +2057,9 @@ into your web browser: [:displayableActionUrl](:actionURL) : not present
 
 ## sv
 
-<details>
-<summary>show</summary>
 
- * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:displayableActionUrl](:actionURL) : not present
+All lines are translated 😊
 
-[ [to top](#todo-list) ]
-</details>
 
 ## sw
 
@@ -2469,8 +2370,6 @@ into your web browser: [:displayableActionUrl](:actionURL) : not present
 <details>
 <summary>show</summary>
 
- * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:displayableActionUrl](:actionURL) : not present
  * validation : password : not present
 
 [ [to top](#todo-list) ]
@@ -2543,14 +2442,9 @@ into your web browser: [:displayableActionUrl](:actionURL) : not present
 
 ## uk
 
-<details>
-<summary>show</summary>
 
- * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:displayableActionUrl](:actionURL) : not present
+All lines are translated 😊
 
-[ [to top](#todo-list) ]
-</details>
 
 ## ur
 
@@ -2735,8 +2629,6 @@ into your web browser: [:displayableActionUrl](:actionURL) : not present
 <details>
 <summary>show</summary>
 
- * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: [:displayableActionUrl](:actionURL) : not present
  * passwords : throttled
 
 [ [to top](#todo-list) ]

@@ -109,7 +109,7 @@ return [
         'string'  => ':Attribute måste innehålla :size tecken.',
         'array'   => ':Attribute måste innehålla :size objekt.',
     ],
-    'starts_with' => ':Attribute måste börja med en av följande: :values',
+    'starts_with' => ':Attribute måste börja med en av följande: :values.',
     'string'      => ':Attribute måste vara en sträng.',
     'timezone'    => ':Attribute måste vara en giltig tidszon.',
     'unique'      => ':Attribute används redan.',

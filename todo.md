@@ -573,7 +573,6 @@ into your web browser: [:displayableActionUrl](:actionURL) : not present
 <summary>show</summary>
 
  * json : Name
- * passwords : throttled
 
 [ [to top](#todo-list) ]
 </details>

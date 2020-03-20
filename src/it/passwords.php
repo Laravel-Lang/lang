@@ -14,7 +14,7 @@ return [
 
     'reset'     => 'La password è stata reimpostata!',
     'sent'      => 'Promemoria della password inviato!',
-    'throttled' => 'Please wait before retrying.',
+    'throttled' => 'Per favore attendi prima di riprovare.',
     'token'     => 'Questo token per la reimpostazione della password non è valido.',
     'user'      => 'Non esiste un utente associato a questo indirizzo e-mail.',
 ];

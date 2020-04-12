@@ -1,6 +1,7 @@
 <?php
 
 return [
+
     /*
     |--------------------------------------------------------------------------
     | Validation Language Lines
@@ -8,7 +9,7 @@ return [
     |
     | The following language lines contain the default error messages used by
     | the validator class. Some of these rules have multiple versions such
-    | as the size rules. Feel free to tweak each of these messages.
+    | as the size rules. Feel free to tweak each of these messages here.
     |
     */
 
@@ -92,6 +93,7 @@ return [
     'not_in'               => 'Seçili :attribute geçersiz.',
     'not_regex'            => ':attribute biçimi geçersiz.',
     'numeric'              => ':attribute sayı olmalıdır.',
+    'password'             => 'Şifre yanlış.',
     'present'              => ':attribute alanı mevcut olmalıdır.',
     'regex'                => ':attribute biçimi geçersiz.',
     'required'             => ':attribute alanı gereklidir.',
@@ -118,39 +120,32 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Özelleştirilmiş doğrulama mesajları
+    | Custom Validation Language Lines
     |--------------------------------------------------------------------------
     |
-    | Bu alanda her niteleyici (attribute) ve kural (rule) ikilisine özel hata
-    | mesajları tanımlayabilirsiniz. Bu özellik, son kullanıcıya daha gerçekçi
-    | metinler göstermeniz için oldukça faydalıdır.
-    |
-    | Örnek olarak:
-    |
-    | 'email.email': 'Girdiğiniz e-posta adresi geçerli değil.'
-    | 'x.regex': 'x alanı için "a-b.c" formatında veri girmelisiniz.'
+    | Here you may specify custom validation messages for attributes using the
+    | convention "attribute.rule" to name the lines. This makes it quick to
+    | specify a specific custom language line for a given attribute rule.
     |
     */
+
     'custom' => [
         'niteleyici-adi' => [
-            'kural-adi' => 'ozel-hata-mesaji',
+            'kural-adi' => 'ozel-mesaj',
         ],
     ],
 
     /*
     |--------------------------------------------------------------------------
-    | Özelleştirilmiş niteleyici isimleri
+    | Custom Validation Attributes
     |--------------------------------------------------------------------------
     |
-    | Bu alandaki bilgiler "email" gibi niteleyici isimlerini "e-posta adresi"
-    | gibi daha okunabilir metinlere çevirmek için kullanılır. Bu bilgiler
-    | hata mesajlarının daha temiz olmasını sağlar.
-    |
-    | Örnek olarak:
-    |
-    | 'email' => 'e-posta adresi',
-    | 'password' => 'parola',
+    | The following language lines are used to swap our attribute placeholder
+    | with something more reader friendly such as "E-Mail Address" instead
+    | of "email". This simply helps us make our message more expressive.
     |
     */
+
     'attributes' => [],
+
 ];

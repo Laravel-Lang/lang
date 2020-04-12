@@ -31,7 +31,7 @@ return [
     'boolean'        => ':attribute უნდა იყოს true, false, 0 ან 1.',
     'confirmed'      => ':attribute არ ემთხვევა დადასტურებას.',
     'date'           => ':attribute შეიცავს თარიღის არასწორ ფორმატს.',
-    'date_equals'    => 'The :attribute must be a date equal to :date.',
+    'date_equals'    => ':attribute თარიღი უნდა იყოს :date.',
     'date_format'    => ':attribute არ ემთხვევა თარიღის ფორმატს: :format.',
     'different'      => ':attribute და :other არ უნდა ემთხვეოდეს ერთმანეთს.',
     'digits'         => ':attribute უნდა შედგებოდეს :digits ციფრისგან.',
@@ -39,7 +39,7 @@ return [
     'dimensions'     => ':attribute შეიცავს სურათის არასწორ ზომებს.',
     'distinct'       => ':attribute უნდა იყოს უნიკალური.',
     'email'          => ':attribute უნდა იყოს სწორი ელ.ფოსტა.',
-    'ends_with'      => 'The :attribute must end with one of the following: :values.',
+    'ends_with'      => ':attribute დაბოლოება უნდა იყოს: :values.',
     'exists'         => 'ასეთი :attribute არ არსებობს.',
     'file'           => ':attribute უნდა იყოს ფაილი.',
     'filled'         => ':attribute აუცილებელია.',
@@ -108,13 +108,13 @@ return [
         'string'  => ':attribute უნდა შედგებოდეს :size სიმბოლოსგან.',
         'array'   => ':attribute უნდა შეიცავდეს :size ელემენტს.',
     ],
-    'starts_with' => 'The :attribute must start with one of the following: :values.',
+    'starts_with' => ':attribute დასაწყისი უნდა იყოს: :values.',
     'string'      => ':attribute უნდა იყოს ტექსტი.',
     'timezone'    => ':attribute უნდა იყოს სასაათო სარტყელი.',
     'unique'      => 'ასეთი :attribute უკვე არსებობს.',
     'uploaded'    => ':attribute-ის ატვირთვა ვერ მოხერხდა.',
     'url'         => ':attribute უნდა იყოს URL მისამართი.',
-    'uuid'        => 'The :attribute must be a valid UUID.',
+    'uuid'        => ':attribute უნდა იყოს ვალიდური UUID.',
 
     /*
     |--------------------------------------------------------------------------

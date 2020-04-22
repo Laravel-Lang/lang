@@ -176,7 +176,7 @@ return [
         'second'                => 'segon',
         'sex'                   => 'sexe',
         'subject'               => 'assumpte',
-        'terms'                  => 'termes',
+        'terms'                 => 'termes',
         'time'                  => 'hora',
         'title'                 => 'títol',
         'username'              => 'usuari',

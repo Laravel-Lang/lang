@@ -93,6 +93,7 @@ return [
     'not_regex'            => 'Il formato di :attribute non è valido.',
     'numeric'              => ':attribute deve essere un numero.',
     'present'              => 'Il campo :attribute deve essere presente.',
+    'password'             => 'Il campo :attribute non è corretto.',
     'regex'                => 'Il formato del campo :attribute non è valido.',
     'required'             => 'Il campo :attribute è richiesto.',
     'required_if'          => 'Il campo :attribute è richiesto quando :other è :value.',

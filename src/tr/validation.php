@@ -4,145 +4,155 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Validation Language Lines
+    | Doğrulama Dil Satırları
     |--------------------------------------------------------------------------
     |
-    | The following language lines contain the default error messages used by
-    | the validator class. Some of these rules have multiple versions such
-    | as the size rules. Feel free to tweak each of these messages here.
+    | Aşağıdaki dil satırları doğrulama sınıfıları tarafından kullanılan varsayılan
+    | hata mesajlarını içermektedir. "size" gibi bazı kuralların birden çok çeşidi
+    | bulunmaktadır. Bu mesajların, her birini, burada değiştirmekten çekinmeyin.
     |
     */
 
-    'accepted'        => ':attribute kabul edilmelidir.',
-    'active_url'      => ':attribute geçerli bir URL olmalıdır.',
-    'after'           => ':attribute şundan daha eski bir tarih olmalıdır :date.',
-    'after_or_equal'  => ':attribute tarihi :date tarihinden sonra veya tarihine eşit olmalıdır.',
-    'alpha'           => ':attribute sadece harflerden oluşmalıdır.',
-    'alpha_dash'      => ':attribute sadece harfler, rakamlar ve tirelerden oluşmalıdır.',
-    'alpha_num'       => ':attribute sadece harfler ve rakamlar içermelidir.',
-    'array'           => ':attribute dizi olmalıdır.',
-    'before'          => ':attribute şundan daha önceki bir tarih olmalıdır :date.',
-    'before_or_equal' => ':attribute tarihi :date tarihinden önce veya tarihine eşit olmalıdır.',
-    'between'         => [
-        'numeric' => ':attribute :min - :max arasında olmalıdır.',
-        'file'    => ':attribute :min - :max arasındaki kilobayt değeri olmalıdır.',
-        'string'  => ':attribute :min - :max arasında karakterden oluşmalıdır.',
-        'array'   => ':attribute :min - :max arasında nesneye sahip olmalıdır.',
+    'accepted'             => ':attribute mutlaka kabul edilmelidir.',
+    'active_url'           => ':attribute mutlaka geçerli bir URL olmalıdır.',
+    'after'                => ':attribute mutlaka :date tarihinden sonra olmalıdır.',
+    'after_or_equal'       => ':attribute mutlaka :date tarihinden sonra veya aynı tarihte olmalıdır.',
+    'alpha'                => ':attribute sadece harflerden oluşmalıdır.',
+    'alpha_dash'           => ':attribute sadece harflerden, rakamlardan ve tirelerden oluşmalıdır.',
+    'alpha_num'            => ':attribute sadece harflerden ve rakamlardan oluşmalıdır.',
+    'array'                => ':attribute mutlaka bir dizi olmalıdır.',
+    'before'               => ':attribute mutlaka :date tarihinden önce olmalıdır.',
+    'before_or_equal'      => ':attribute mutlaka :date tarihinden önce veya aynı tarihte olmalıdır.',
+    'between'              => [
+        'numeric' => ':attribute mutlaka :min - :max arasında olmalıdır.',
+        'file'    => ':attribute mutlaka :min - :max kilobayt arasında olmalıdır.',
+        'string'  => ':attribute mutlaka :min - :max harf arasında olmalıdır.',
+        'array'   => ':attribute mutlaka :min - :max arasında öğe içermelidir.',
     ],
-    'boolean'        => ':attribute sadece doğru veya yanlış olmalıdır.',
-    'confirmed'      => ':attribute tekrarı eşleşmiyor.',
-    'date'           => ':attribute geçerli bir tarih olmalıdır.',
-    'date_equals'    => ':attribute şuna eşit bir tarih olmalıdır: :date.',
-    'date_format'    => ':attribute :format biçimi ile eşleşmiyor.',
-    'different'      => ':attribute ile :other birbirinden farklı olmalıdır.',
-    'digits'         => ':attribute :digits rakam olmalıdır.',
-    'digits_between' => ':attribute :min ile :max arasında rakam olmalıdır.',
-    'dimensions'     => ':attribute görsel ölçüleri geçersiz.',
-    'distinct'       => ':attribute alanı yinelenen bir değere sahip.',
-    'email'          => ':attribute biçimi geçersiz.',
-    'ends_with'      => ':attribute şunlardan biriyle bitmelidir: :values',
-    'exists'         => 'Seçili :attribute geçersiz.',
-    'file'           => ':attribute dosya olmalıdır.',
-    'filled'         => ':attribute alanının doldurulması zorunludur.',
-    'gt'             => [
-        'numeric' => ':attribute şu değerden büyük olmalıdır: :value.',
-        'file'    => ':attribute, :value kilobayttan fazla olmalıdır.',
-        'string'  => ':attribute, :value karakterden fazla olmalıdır.',
-        'array'   => ':attribute, :value öğeden fazla öğe içermelidir.',
+    'boolean'              => ':attribute sadece doğru veya yanlış olmalıdır.',
+    'confirmed'            => ':attribute tekrarı eşleşmiyor.',
+    'date'                 => ':attribute geçerli bir tarih değil.',
+    'date_equals'          => ':attribute mutlaka :date ile aynı tarihte olmalıdır.',
+    'date_format'          => ':attribute mutlaka :format biçiminde olmalıdır.',
+    'different'            => ':attribute ile :other mutlaka birbirinden farklı olmalıdır.',
+    'digits'               => ':attribute mutlaka :digits basamaklı olmalıdır.',
+    'digits_between'       => ':attribute mutlaka en az :min, en fazla :max basamaklı olmalıdır.',
+    'dimensions'           => ':attribute geçersiz resim boyutlarına sahip.',
+    'distinct'             => ':attribute alanı yinelenen bir değere sahip.',
+    'email'                => ':attribute mutlaka geçerli bir eposta adresi olmalıdır.',
+    'ends_with'            => ':attribute sadece şu değerlerden biriyle bitebilir: :values.',
+    'exists'               => 'Seçili :attribute geçersiz.',
+    'file'                 => ':attribute mutlaka bir dosya olmalıdır.',
+    'filled'               => ':attribute mutlaka doldurulmalıdır.',
+    'gt'                   => [
+        'numeric' => ':attribute mutlaka :value sayısından büyük olmalıdır.',
+        'file'    => ':attribute mutlaka :value kilobayttan büyük olmalıdır.',
+        'string'  => ':attribute mutlaka :value harften uzun olmalıdır.',
+        'array'   => ':attribute mutlaka :value sayısından daha fazla öğe içermelidir.',
     ],
-    'gte' => [
-        'numeric' => ':attribute, :value değerinden büyük veya bu değere eşit olmalıdır.',
-        'file'    => ':attribute, :value kilobayttan fazla veya bu değere eşit olmalıdır.',
-        'string'  => ':attribute, :value karakter veya daha fazla karakter içermelidir.',
-        'array'   => ':attribute, :value veya daha fazla öğe içermelidir.',
+    'gte'                  => [
+        'numeric' => ':attribute mutlaka :value sayısından büyük veya eşit olmalıdır.',
+        'file'    => ':attribute mutlaka :value kilobayttan büyük veya eşit olmalıdır.',
+        'string'  => ':attribute mutlaka :value harften uzun veya eşit olmalıdır.',
+        'array'   => ':attribute mutlaka :value veya daha fazla öğe içermelidir.',
     ],
-    'image'    => ':attribute alanı resim dosyası olmalıdır.',
-    'in'       => ':attribute değeri geçersiz.',
-    'in_array' => ':attribute alanı :other içinde mevcut değil.',
-    'integer'  => ':attribute tamsayı olmalıdır.',
-    'ip'       => ':attribute geçerli bir IP adresi olmalıdır.',
-    'ipv4'     => ':attribute geçerli bir IPv4 adresi olmalıdır.',
-    'ipv6'     => ':attribute geçerli bir IPv6 adresi olmalıdır.',
-    'json'     => ':attribute geçerli bir JSON değişkeni olmalıdır.',
-    'lt'       => [
-        'numeric' => ':attribute şu değerden küçük olmalıdır: :value.',
-        'file'    => ':attribute, :value kilobayttan fazla olmalıdır.',
-        'string'  => ':attribute, :value karakterden az olmalıdır.',
-        'array'   => ':attribute, :value öğeden az öğe içermelidir.',
+    'image'                => ':attribute mutlaka bir resim olmalıdır.',
+    'in'                   => 'Seçili :attribute geçersiz.',
+    'in_array'             => ':attribute :other içinde mevcut değil.',
+    'integer'              => ':attribute mutlaka bir tamsayı olmalıdır.',
+    'ip'                   => ':attribute mutlaka geçerli bir IP adresi olmalıdır.',
+    'ipv4'                 => ':attribute mutlaka geçerli bir IPv4 adresi olmalıdır.',
+    'ipv6'                 => ':attribute mutlaka geçerli bir IPv6 adresi olmalıdır.',
+    'json'                 => ':attribute mutlaka geçerli bir JSON içeriği olmalıdır.',
+    'lt'                   => [
+        'numeric' => ':attribute mutlaka :value sayısından küçük olmalıdır.',
+        'file'    => ':attribute mutlaka :value kilobayttan küçük olmalıdır.',
+        'string'  => ':attribute mutlaka :value harften kısa olmalıdır.',
+        'array'   => ':attribute mutlaka :value sayısından daha az öğe içermelidir.',
     ],
-    'lte' => [
-        'numeric' => ':attribute, :value değerinden düşük veya bu değere eşit olmalıdır.',
-        'file'    => ':attribute, :value kilobayttan az veya bu değere eşit olmalıdır.',
-        'string'  => ':attribute, :value karakterden az veya buna eşit olmalıdır.',
-        'array'   => ':attribute, :value öğeden fazla öğe içermemelidir.',
+    'lte'                  => [
+        'numeric' => ':attribute mutlaka :value sayısından küçük veya eşit olmalıdır.',
+        'file'    => ':attribute mutlaka :value kilobayttan küçük veya eşit olmalıdır.',
+        'string'  => ':attribute mutlaka :value harften kısa veya eşit olmalıdır.',
+        'array'   => ':attribute mutlaka :value veya daha az öğe içermelidir.',
     ],
-    'max' => [
-        'numeric' => ':attribute değeri :max değerinden küçük olmalıdır.',
-        'file'    => ':attribute değeri :max kilobayt değerinden küçük olmalıdır.',
-        'string'  => ':attribute değeri :max karakter değerinden küçük olmalıdır.',
-        'array'   => ':attribute değeri :max adedinden az nesneye sahip olmalıdır.',
+    'max'                  => [
+        'numeric' => ':attribute en fazla :max olabilir.',
+        'file'    => ':attribute en fazla :max kilobayt olabilir.',
+        'string'  => ':attribute en fazla :max harf olabilir.',
+        'array'   => ':attribute en fazla :max öğe içerebilir.',
     ],
-    'mimes'     => ':attribute dosya biçimi :values olmalıdır.',
-    'mimetypes' => ':attribute dosya biçimi :values olmalıdır.',
-    'min'       => [
-        'numeric' => ':attribute değeri :min değerinden büyük olmalıdır.',
-        'file'    => ':attribute değeri :min kilobayt değerinden büyük olmalıdır.',
-        'string'  => ':attribute değeri :min karakter değerinden büyük olmalıdır.',
-        'array'   => ':attribute en az :min nesneye sahip olmalıdır.',
+    'mimes'                => ':attribute mutlaka :values biçiminde bir dosya olmalıdır.',
+    'mimetypes'            => ':attribute mutlaka :values biçiminde bir dosya olmalıdır.',
+    'min'                  => [
+        'numeric' => ':attribute en az :max olabilir.',
+        'file'    => ':attribute en az :max kilobayt olabilir.',
+        'string'  => ':attribute en az :max harf olabilir.',
+        'array'   => ':attribute en az :max öğe içerebilir.',
     ],
     'not_in'               => 'Seçili :attribute geçersiz.',
     'not_regex'            => ':attribute biçimi geçersiz.',
-    'numeric'              => ':attribute sayı olmalıdır.',
-    'password'             => 'Şifre yanlış.',
-    'present'              => ':attribute alanı mevcut olmalıdır.',
+    'numeric'              => ':attribute mutlaka bir sayı olmalıdır.',
+    'password'             => 'Parola geçersiz.',
+    'present'              => ':attribute mutlaka mevcut olmalıdır.',
     'regex'                => ':attribute biçimi geçersiz.',
-    'required'             => ':attribute alanı gereklidir.',
-    'required_if'          => ':attribute alanı, :other :value değerine sahip olduğunda zorunludur.',
-    'required_unless'      => ':attribute alanı, :other alanı :values değerlerinden birine sahip olmadığında zorunludur.',
-    'required_with'        => ':attribute alanı :values varken zorunludur.',
-    'required_with_all'    => ':attribute alanı herhangi bir :values değeri varken zorunludur.',
-    'required_without'     => ':attribute alanı :values yokken zorunludur.',
-    'required_without_all' => ':attribute alanı :values değerlerinden herhangi biri yokken zorunludur.',
+    'required'             => ':attribute mutlaka gereklidir.',
+    'required_if'          => ':attribute :other :value değerine sahip olduğunda mutlaka gereklidir.',
+    'required_unless'      => ':attribute :other :value değerlerinden birine sahip olmadığında mutlaka gereklidir.',
+    'required_with'        => ':attribute :values varken mutlaka gereklidir.',
+    'required_with_all'    => ':attribute herhangi bir :values değeri varken mutlaka gereklidir.',
+    'required_without'     => ':attribute :values yokken mutlaka gereklidir.',
+    'required_without_all' => ':attribute :values değerlerinden herhangi biri yokken mutlaka gereklidir.',
     'same'                 => ':attribute ile :other eşleşmelidir.',
     'size'                 => [
-        'numeric' => ':attribute :size olmalıdır.',
-        'file'    => ':attribute :size kilobyte olmalıdır.',
-        'string'  => ':attribute :size karakter olmalıdır.',
-        'array'   => ':attribute :size nesneye sahip olmalıdır.',
+        'numeric' => ':attribute mutlaka :size olmalıdır.',
+        'file'    => ':attribute mutlaka :size kilobayt olmalıdır.',
+        'string'  => ':attribute mutlaka :size harfli olmalıdır.',
+        'array'   => ':attribute mutlaka :size öğeye sahip olmalıdır.',
     ],
-    'starts_with' => ':attribute şunlardan biriyle başlamalıdır: :values',
-    'string'      => ':attribute dizge olmalıdır.',
-    'timezone'    => ':attribute geçerli bir saat dilimi olmalıdır.',
-    'unique'      => ':attribute daha önceden kayıt edilmiş.',
-    'uploaded'    => ':attribute yüklemesi başarısız.',
-    'url'         => ':attribute biçimi geçersiz.',
-    'uuid'        => ':attribute geçerli bir UUID olmalıdır.',
+    'starts_with'          => ':attribute sadece şu değerlerden biriyle başlayabilir: :values.',
+    'string'               => ':attribute mutlaka bir metin olmalıdır.',
+    'timezone'             => ':attribute mutlaka geçerli bir saat dilimi olmalıdır.',
+    'unique'               => ':attribute zaten alınmış.',
+    'uploaded'             => ':attribute yüklemesi başarısız.',
+    'url'                  => ':attribute biçimi geçersiz.',
+    'uuid'                 => ':attribute mutlaka geçerli bir UUID olmalıdır.',
 
     /*
     |--------------------------------------------------------------------------
-    | Custom Validation Language Lines
+    | Özelleştirilmiş Doğrulama Dil Satırları
     |--------------------------------------------------------------------------
     |
-    | Here you may specify custom validation messages for attributes using the
-    | convention "attribute.rule" to name the lines. This makes it quick to
-    | specify a specific custom language line for a given attribute rule.
+    | Burada satırları adlandırmak için "attribute.rule" kuralını kullanarak
+    | öznitelikler için özel doğrulama mesajları belirtebilirsiniz. Böylece
+    | basit ve hızlıca özelleştirilmiş bir dil satırı tanımlayabilirsiniz.
+    |
+    | Örneğin:
+    |
+    | 'tckn.required': 'Kimlik no mutlaka gereklidir.'
     |
     */
 
     'custom' => [
         'niteleyici-adi' => [
-            'kural-adi' => 'ozel-mesaj',
+            'kural-adi' => 'Özel doğrulama mesajı',
         ],
     ],
 
     /*
     |--------------------------------------------------------------------------
-    | Custom Validation Attributes
+    | Özelleştirilmiş Doğrulama Öznitelikleri
     |--------------------------------------------------------------------------
     |
-    | The following language lines are used to swap our attribute placeholder
-    | with something more reader friendly such as "E-Mail Address" instead
-    | of "email". This simply helps us make our message more expressive.
+    | Aşağıdaki dil satırları örneğin öznitelik yertutucumuzu "email" yerine
+    | "E-posta Adresi" gibi daha anlaşılabilir bir metinle değiştirmek için
+    | kullanılır. Bu basitçe mesajlarımızı daha anlaşılabilir hale getirir.
+    |
+    | Örneğin:
+    |
+    | 'email'       => 'E-posta Adresi',
+    | 'password'    => 'Parola',
+    | 'username'    => 'Kullanıcı Adı',
     |
     */
 

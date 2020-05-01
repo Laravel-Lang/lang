@@ -109,7 +109,7 @@ return [
         'array'   => ':attribute باید شامل :size آیتم باشد.',
     ],
     'starts_with' => ':attribute باید با یکی از این ها شروع شود: :values',
-    'string'      => 'فیلد :attribute باید رشته باشد.',
+    'string'      => 'فیلد :attribute باید متن باشد.',
     'timezone'    => 'فیلد :attribute باید یک منطقه زمانی معتبر باشد.',
     'unique'      => ':attribute قبلا انتخاب شده است.',
     'uploaded'    => 'بارگذاری فایل :attribute موفقیت آمیز نبود.',

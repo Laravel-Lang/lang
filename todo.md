@@ -1,23 +1,28 @@
 # Todo list
 | | | | | | | | | | |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-[ar ✔](#ar)|[az ❗](#az)|[be ❗](#be)|[bg ❗](#bg)|[bn ❗](#bn)|[bs ❗](#bs)|[ca ❗](#ca)|[cs ❗](#cs)|[cy ❗](#cy)|[da ❗](#da)
-[de ❗](#de)|[de-CH ❗](#de-CH)|[el ❗](#el)|[es ✔](#es)|[et ❗](#et)|[eu ❗](#eu)|[fa ❗](#fa)|[fi ❗](#fi)|[fil ❗](#fil)|[fr ✔](#fr)
-[gl ❗](#gl)|[he ❗](#he)|[hi ❗](#hi)|[hr ❗](#hr)|[hu ✔](#hu)|[hy ❗](#hy)|[id ✔](#id)|[is ❗](#is)|[it ❗](#it)|[ja ❗](#ja)
-[ka ❗](#ka)|[kk ❗](#kk)|[km ❗](#km)|[kn ❗](#kn)|[ko ✔](#ko)|[lt ✔](#lt)|[lv ❗](#lv)|[me ❗](#me)|[mk ❗](#mk)|[mn ❗](#mn)
-[mr ❗](#mr)|[ms ❗](#ms)|[nb ❗](#nb)|[ne ❗](#ne)|[nl ✔](#nl)|[nn ❗](#nn)|[pl ✔](#pl)|[ps ❗](#ps)|[pt ✔](#pt)|[pt-BR ✔](#pt-BR)
-[ro ❗](#ro)|[ru ✔](#ru)|[sc ❗](#sc)|[si ❗](#si)|[sk ✔](#sk)|[sl ❗](#sl)|[sq ❗](#sq)|[sr ❗](#sr)|[sv ✔](#sv)|[sw ❗](#sw)
-[tg ❗](#tg)|[th ❗](#th)|[tk ❗](#tk)|[tl ❗](#tl)|[tr ✔](#tr)|[ug ❗](#ug)|[uk ✔](#uk)|[ur ❗](#ur)|[uz-cyrillic ❗](#uz-cyrillic)|[uz-latin ❗](#uz-latin)
-[vi ❗](#vi)|[zh-CN ✔](#zh-CN)|[zh-HK ✔](#zh-HK)|[zh-TW ✔](#zh-TW)
+[ar ❗](#ar)|[az ❗](#az)|[be ❗](#be)|[bg ❗](#bg)|[bn ❗](#bn)|[bs ❗](#bs)|[ca ❗](#ca)|[cs ❗](#cs)|[cy ❗](#cy)|[da ❗](#da)
+[de ❗](#de)|[de-CH ❗](#de-CH)|[el ❗](#el)|[es ❗](#es)|[et ❗](#et)|[eu ❗](#eu)|[fa ❗](#fa)|[fi ❗](#fi)|[fil ❗](#fil)|[fr ❗](#fr)
+[gl ❗](#gl)|[he ❗](#he)|[hi ❗](#hi)|[hr ❗](#hr)|[hu ❗](#hu)|[hy ❗](#hy)|[id ❗](#id)|[is ❗](#is)|[it ❗](#it)|[ja ❗](#ja)
+[ka ❗](#ka)|[kk ❗](#kk)|[km ❗](#km)|[kn ❗](#kn)|[ko ❗](#ko)|[lt ❗](#lt)|[lv ❗](#lv)|[me ❗](#me)|[mk ❗](#mk)|[mn ❗](#mn)
+[mr ❗](#mr)|[ms ❗](#ms)|[nb ❗](#nb)|[ne ❗](#ne)|[nl ❗](#nl)|[nn ❗](#nn)|[pl ❗](#pl)|[ps ❗](#ps)|[pt ❗](#pt)|[pt-BR ❗](#pt-BR)
+[ro ❗](#ro)|[ru ❗](#ru)|[sc ❗](#sc)|[si ❗](#si)|[sk ❗](#sk)|[sl ❗](#sl)|[sq ❗](#sq)|[sr ❗](#sr)|[sv ❗](#sv)|[sw ❗](#sw)
+[tg ❗](#tg)|[th ❗](#th)|[tk ❗](#tk)|[tl ❗](#tl)|[tr ❗](#tr)|[ug ❗](#ug)|[uk ❗](#uk)|[ur ❗](#ur)|[uz-cyrillic ❗](#uz-cyrillic)|[uz-latin ❗](#uz-latin)
+[vi ❗](#vi)|[zh-CN ❗](#zh-CN)|[zh-HK ❗](#zh-HK)|[zh-TW ❗](#zh-TW)
 
 
 
 
 ## ar
 
+<details>
+<summary>show</summary>
 
-All lines are translated 😊
+ * json : Dashboard : not present
+ * json : You are logged in! : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## az
 
@@ -29,6 +34,7 @@ All lines are translated 😊
  * json : Before proceeding, please check your email for a verification link. : not present
  * json : click here to request another : not present
  * json : Confirm Password : not present
+ * json : Dashboard : not present
  * json : E-Mail Address : not present
  * json : Forbidden : not present
  * json : Forgot Your Password? : not present
@@ -66,6 +72,7 @@ into your web browser: : not present
  * json : Verify Email Address : not present
  * json : Verify Your Email Address : not present
  * json : We won't ask for your password again for a few hours. : not present
+ * json : You are logged in! : not present
  * json : You are receiving this email because we received a password reset request for your account. : not present
  * json : Your email address is not verified. : not present
  * json : Whoops! : not present
@@ -94,6 +101,7 @@ into your web browser: : not present
  * json : Before proceeding, please check your email for a verification link. : not present
  * json : click here to request another : not present
  * json : Confirm Password : not present
+ * json : Dashboard : not present
  * json : E-Mail Address : not present
  * json : Forbidden : not present
  * json : Forgot Your Password? : not present
@@ -131,6 +139,7 @@ into your web browser: : not present
  * json : Verify Email Address : not present
  * json : Verify Your Email Address : not present
  * json : We won't ask for your password again for a few hours. : not present
+ * json : You are logged in! : not present
  * json : You are receiving this email because we received a password reset request for your account. : not present
  * json : Your email address is not verified. : not present
  * json : Whoops! : not present
@@ -169,6 +178,7 @@ into your web browser: : not present
  * json : Before proceeding, please check your email for a verification link. : not present
  * json : click here to request another : not present
  * json : Confirm Password : not present
+ * json : Dashboard : not present
  * json : E-Mail Address : not present
  * json : Forbidden : not present
  * json : Forgot Your Password? : not present
@@ -206,6 +216,7 @@ into your web browser: : not present
  * json : Verify Email Address : not present
  * json : Verify Your Email Address : not present
  * json : We won't ask for your password again for a few hours. : not present
+ * json : You are logged in! : not present
  * json : You are receiving this email because we received a password reset request for your account. : not present
  * json : Your email address is not verified. : not present
  * json : Whoops! : not present
@@ -224,6 +235,7 @@ into your web browser: : not present
  * json : Before proceeding, please check your email for a verification link. : not present
  * json : click here to request another : not present
  * json : Confirm Password : not present
+ * json : Dashboard : not present
  * json : E-Mail Address : not present
  * json : Forbidden : not present
  * json : Forgot Your Password? : not present
@@ -261,6 +273,7 @@ into your web browser: : not present
  * json : Verify Email Address : not present
  * json : Verify Your Email Address : not present
  * json : We won't ask for your password again for a few hours. : not present
+ * json : You are logged in! : not present
  * json : You are receiving this email because we received a password reset request for your account. : not present
  * json : Your email address is not verified. : not present
  * json : Whoops! : not present
@@ -289,6 +302,7 @@ into your web browser: : not present
  * json : Before proceeding, please check your email for a verification link. : not present
  * json : click here to request another : not present
  * json : Confirm Password : not present
+ * json : Dashboard : not present
  * json : E-Mail Address : not present
  * json : Forbidden : not present
  * json : Forgot Your Password? : not present
@@ -326,6 +340,7 @@ into your web browser: : not present
  * json : Verify Email Address : not present
  * json : Verify Your Email Address : not present
  * json : We won't ask for your password again for a few hours. : not present
+ * json : You are logged in! : not present
  * json : You are receiving this email because we received a password reset request for your account. : not present
  * json : Your email address is not verified. : not present
  * json : Whoops! : not present
@@ -363,6 +378,8 @@ into your web browser: : not present
 <details>
 <summary>show</summary>
 
+ * json : Dashboard : not present
+ * json : You are logged in! : not present
  * validation : ends_with
 
 [ [to top](#todo-list) ]
@@ -373,8 +390,10 @@ into your web browser: : not present
 <details>
 <summary>show</summary>
 
+ * json : Dashboard : not present
  * json : Please confirm your password before continuing. : not present
  * json : We won't ask for your password again for a few hours. : not present
+ * json : You are logged in! : not present
  * validation : password : not present
 
 [ [to top](#todo-list) ]
@@ -390,6 +409,7 @@ into your web browser: : not present
  * json : Before proceeding, please check your email for a verification link. : not present
  * json : click here to request another : not present
  * json : Confirm Password : not present
+ * json : Dashboard : not present
  * json : E-Mail Address : not present
  * json : Forbidden : not present
  * json : Forgot Your Password? : not present
@@ -427,6 +447,7 @@ into your web browser: : not present
  * json : Verify Email Address : not present
  * json : Verify Your Email Address : not present
  * json : We won't ask for your password again for a few hours. : not present
+ * json : You are logged in! : not present
  * json : You are receiving this email because we received a password reset request for your account. : not present
  * json : Your email address is not verified. : not present
  * json : Whoops! : not present
@@ -470,6 +491,7 @@ into your web browser: : not present
  * json : Before proceeding, please check your email for a verification link. : not present
  * json : click here to request another : not present
  * json : Confirm Password : not present
+ * json : Dashboard : not present
  * json : E-Mail Address : not present
  * json : Forbidden : not present
  * json : Forgot Your Password? : not present
@@ -507,6 +529,7 @@ into your web browser: : not present
  * json : Verify Email Address : not present
  * json : Verify Your Email Address : not present
  * json : We won't ask for your password again for a few hours. : not present
+ * json : You are logged in! : not present
  * json : You are receiving this email because we received a password reset request for your account. : not present
  * json : Your email address is not verified. : not present
  * json : Whoops! : not present
@@ -522,7 +545,9 @@ into your web browser: : not present
 <details>
 <summary>show</summary>
 
+ * json : Dashboard : not present
  * json : Name
+ * json : You are logged in! : not present
 
 [ [to top](#todo-list) ]
 </details>
@@ -532,7 +557,9 @@ into your web browser: : not present
 <details>
 <summary>show</summary>
 
+ * json : Dashboard : not present
  * json : Name
+ * json : You are logged in! : not present
 
 [ [to top](#todo-list) ]
 </details>
@@ -542,6 +569,7 @@ into your web browser: : not present
 <details>
 <summary>show</summary>
 
+ * json : Dashboard : not present
  * json : Invalid signature. : not present
  * json : Not Found : not present
  * json : Please confirm your password before continuing. : not present
@@ -550,6 +578,7 @@ into your web browser: : not present
  * json : This password reset link will expire in :count minutes. : not present
  * json : Too Many Attempts. : not present
  * json : We won't ask for your password again for a few hours. : not present
+ * json : You are logged in! : not present
  * json : Your email address is not verified. : not present
  * passwords : throttled
 
@@ -558,9 +587,15 @@ into your web browser: : not present
 
 ## es
 
+<details>
+<summary>show</summary>
 
-All lines are translated 😊
+ * json : Dashboard : not present
+ * json : Oh no
+ * json : You are logged in! : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## et
 
@@ -572,6 +607,7 @@ All lines are translated 😊
  * json : Before proceeding, please check your email for a verification link. : not present
  * json : click here to request another : not present
  * json : Confirm Password : not present
+ * json : Dashboard : not present
  * json : E-Mail Address : not present
  * json : Forbidden : not present
  * json : Forgot Your Password? : not present
@@ -609,6 +645,7 @@ into your web browser: : not present
  * json : Verify Email Address : not present
  * json : Verify Your Email Address : not present
  * json : We won't ask for your password again for a few hours. : not present
+ * json : You are logged in! : not present
  * json : You are receiving this email because we received a password reset request for your account. : not present
  * json : Your email address is not verified. : not present
  * json : Whoops! : not present
@@ -624,6 +661,7 @@ into your web browser: : not present
 <details>
 <summary>show</summary>
 
+ * json : Dashboard : not present
  * json : Invalid signature. : not present
  * json : Not Found : not present
  * json : Please confirm your password before continuing. : not present
@@ -632,6 +670,7 @@ into your web browser: : not present
  * json : This password reset link will expire in :count minutes. : not present
  * json : Too Many Attempts. : not present
  * json : We won't ask for your password again for a few hours. : not present
+ * json : You are logged in! : not present
  * json : Your email address is not verified. : not present
  * passwords : throttled
  * validation : date_equals
@@ -645,6 +684,7 @@ into your web browser: : not present
 <details>
 <summary>show</summary>
 
+ * json : Dashboard : not present
  * json : Invalid signature. : not present
  * json : Not Found : not present
  * json : Please confirm your password before continuing. : not present
@@ -652,6 +692,7 @@ into your web browser: : not present
  * json : This action is unauthorized. : not present
  * json : Too Many Attempts. : not present
  * json : We won't ask for your password again for a few hours. : not present
+ * json : You are logged in! : not present
  * json : Your email address is not verified. : not present
  * validation : password : not present
 
@@ -668,6 +709,7 @@ into your web browser: : not present
  * json : Before proceeding, please check your email for a verification link. : not present
  * json : click here to request another : not present
  * json : Confirm Password : not present
+ * json : Dashboard : not present
  * json : E-Mail Address : not present
  * json : Forbidden : not present
  * json : Forgot Your Password? : not present
@@ -698,6 +740,7 @@ into your web browser: : not present
  * json : Verify Email Address : not present
  * json : Verify Your Email Address : not present
  * json : We won't ask for your password again for a few hours. : not present
+ * json : You are logged in! : not present
  * json : Your email address is not verified. : not present
  * validation : ends_with
  * validation : password : not present
@@ -715,6 +758,7 @@ into your web browser: : not present
  * json : Before proceeding, please check your email for a verification link. : not present
  * json : click here to request another : not present
  * json : Confirm Password : not present
+ * json : Dashboard : not present
  * json : E-Mail Address : not present
  * json : Forbidden : not present
  * json : Forgot Your Password? : not present
@@ -752,6 +796,7 @@ into your web browser: : not present
  * json : Verify Email Address : not present
  * json : Verify Your Email Address : not present
  * json : We won't ask for your password again for a few hours. : not present
+ * json : You are logged in! : not present
  * json : You are receiving this email because we received a password reset request for your account. : not present
  * json : Your email address is not verified. : not present
  * json : Whoops! : not present
@@ -772,15 +817,21 @@ into your web browser: : not present
 
 ## fr
 
+<details>
+<summary>show</summary>
 
-All lines are translated 😊
+ * json : Dashboard : not present
+ * json : You are logged in! : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## gl
 
 <details>
 <summary>show</summary>
 
+ * json : Dashboard : not present
  * json : Invalid signature. : not present
  * json : Not Found : not present
  * json : Please confirm your password before continuing. : not present
@@ -788,6 +839,7 @@ All lines are translated 😊
  * json : This action is unauthorized. : not present
  * json : Too Many Attempts. : not present
  * json : We won't ask for your password again for a few hours. : not present
+ * json : You are logged in! : not present
  * json : Your email address is not verified. : not present
  * passwords : throttled
  * validation : password : not present
@@ -800,8 +852,10 @@ All lines are translated 😊
 <details>
 <summary>show</summary>
 
+ * json : Dashboard : not present
  * json : Please confirm your password before continuing. : not present
  * json : We won't ask for your password again for a few hours. : not present
+ * json : You are logged in! : not present
  * validation : password : not present
 
 [ [to top](#todo-list) ]
@@ -817,6 +871,7 @@ All lines are translated 😊
  * json : Before proceeding, please check your email for a verification link. : not present
  * json : click here to request another : not present
  * json : Confirm Password : not present
+ * json : Dashboard : not present
  * json : E-Mail Address : not present
  * json : Forbidden : not present
  * json : Forgot Your Password? : not present
@@ -854,6 +909,7 @@ into your web browser: : not present
  * json : Verify Email Address : not present
  * json : Verify Your Email Address : not present
  * json : We won't ask for your password again for a few hours. : not present
+ * json : You are logged in! : not present
  * json : You are receiving this email because we received a password reset request for your account. : not present
  * json : Your email address is not verified. : not present
  * json : Whoops! : not present
@@ -876,6 +932,7 @@ into your web browser: : not present
  * json : All rights reserved. : not present
  * json : Before proceeding, please check your email for a verification link. : not present
  * json : click here to request another : not present
+ * json : Dashboard : not present
  * json : Forbidden : not present
  * json : Go Home : not present
  * json : Hello! : not present
@@ -901,6 +958,7 @@ into your web browser: : not present
  * json : Verify Email Address : not present
  * json : Verify Your Email Address : not present
  * json : We won't ask for your password again for a few hours. : not present
+ * json : You are logged in! : not present
  * json : Your email address is not verified. : not present
  * json : Whoops! : not present
  * passwords : throttled
@@ -912,26 +970,38 @@ into your web browser: : not present
 
 ## hu
 
+<details>
+<summary>show</summary>
 
-All lines are translated 😊
+ * json : Dashboard : not present
+ * json : You are logged in! : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## hy
 
 <details>
 <summary>show</summary>
 
+ * json : Dashboard : not present
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: : not present
+ * json : You are logged in! : not present
 
 [ [to top](#todo-list) ]
 </details>
 
 ## id
 
+<details>
+<summary>show</summary>
 
-All lines are translated 😊
+ * json : Dashboard : not present
+ * json : You are logged in! : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## is
 
@@ -943,6 +1013,7 @@ All lines are translated 😊
  * json : Before proceeding, please check your email for a verification link. : not present
  * json : click here to request another : not present
  * json : Confirm Password : not present
+ * json : Dashboard : not present
  * json : E-Mail Address : not present
  * json : Forbidden : not present
  * json : Forgot Your Password? : not present
@@ -980,6 +1051,7 @@ into your web browser: : not present
  * json : Verify Email Address : not present
  * json : Verify Your Email Address : not present
  * json : We won't ask for your password again for a few hours. : not present
+ * json : You are logged in! : not present
  * json : You are receiving this email because we received a password reset request for your account. : not present
  * json : Your email address is not verified. : not present
  * json : Whoops! : not present
@@ -998,10 +1070,12 @@ into your web browser: : not present
 <summary>show</summary>
 
  * json : click here to request another : not present
+ * json : Dashboard : not present
  * json : Oh no
  * json : Password
  * json : Please confirm your password before continuing. : not present
  * json : We won't ask for your password again for a few hours. : not present
+ * json : You are logged in! : not present
 
 [ [to top](#todo-list) ]
 </details>
@@ -1011,6 +1085,7 @@ into your web browser: : not present
 <details>
 <summary>show</summary>
 
+ * json : Dashboard : not present
  * json : Invalid signature. : not present
  * json : Not Found : not present
  * json : Please confirm your password before continuing. : not present
@@ -1019,6 +1094,7 @@ into your web browser: : not present
  * json : This password reset link will expire in :count minutes. : not present
  * json : Too Many Attempts. : not present
  * json : We won't ask for your password again for a few hours. : not present
+ * json : You are logged in! : not present
  * json : Your email address is not verified. : not present
 
 [ [to top](#todo-list) ]
@@ -1033,6 +1109,7 @@ into your web browser: : not present
  * json : All rights reserved. : not present
  * json : Before proceeding, please check your email for a verification link. : not present
  * json : click here to request another : not present
+ * json : Dashboard : not present
  * json : Forbidden : not present
  * json : Go Home : not present
  * json : Hello! : not present
@@ -1058,6 +1135,7 @@ into your web browser: : not present
  * json : Verify Email Address : not present
  * json : Verify Your Email Address : not present
  * json : We won't ask for your password again for a few hours. : not present
+ * json : You are logged in! : not present
  * json : Your email address is not verified. : not present
  * json : Whoops! : not present
  * passwords : throttled
@@ -1071,6 +1149,8 @@ into your web browser: : not present
 <details>
 <summary>show</summary>
 
+ * json : Dashboard : not present
+ * json : You are logged in! : not present
  * passwords : throttled
 
 [ [to top](#todo-list) ]
@@ -1086,6 +1166,7 @@ into your web browser: : not present
  * json : Before proceeding, please check your email for a verification link. : not present
  * json : click here to request another : not present
  * json : Confirm Password : not present
+ * json : Dashboard : not present
  * json : E-Mail Address : not present
  * json : Forbidden : not present
  * json : Forgot Your Password? : not present
@@ -1123,6 +1204,7 @@ into your web browser: : not present
  * json : Verify Email Address : not present
  * json : Verify Your Email Address : not present
  * json : We won't ask for your password again for a few hours. : not present
+ * json : You are logged in! : not present
  * json : You are receiving this email because we received a password reset request for your account. : not present
  * json : Your email address is not verified. : not present
  * json : Whoops! : not present
@@ -1162,6 +1244,7 @@ into your web browser: : not present
 <details>
 <summary>show</summary>
 
+ * json : Dashboard : not present
  * json : Invalid signature. : not present
  * json : Not Found : not present
  * json : Please confirm your password before continuing. : not present
@@ -1169,6 +1252,7 @@ into your web browser: : not present
  * json : This action is unauthorized. : not present
  * json : Too Many Attempts. : not present
  * json : We won't ask for your password again for a few hours. : not present
+ * json : You are logged in! : not present
  * json : Your email address is not verified. : not present
  * passwords : throttled
  * validation : ends_with
@@ -1179,15 +1263,25 @@ into your web browser: : not present
 
 ## ko
 
+<details>
+<summary>show</summary>
 
-All lines are translated 😊
+ * json : Dashboard : not present
+ * json : You are logged in! : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## lt
 
+<details>
+<summary>show</summary>
 
-All lines are translated 😊
+ * json : Dashboard : not present
+ * json : You are logged in! : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## lv
 
@@ -1199,6 +1293,7 @@ All lines are translated 😊
  * json : Before proceeding, please check your email for a verification link. : not present
  * json : click here to request another : not present
  * json : Confirm Password : not present
+ * json : Dashboard : not present
  * json : E-Mail Address : not present
  * json : Forbidden : not present
  * json : Forgot Your Password? : not present
@@ -1236,6 +1331,7 @@ into your web browser: : not present
  * json : Verify Email Address : not present
  * json : Verify Your Email Address : not present
  * json : We won't ask for your password again for a few hours. : not present
+ * json : You are logged in! : not present
  * json : You are receiving this email because we received a password reset request for your account. : not present
  * json : Your email address is not verified. : not present
  * json : Whoops! : not present
@@ -1256,6 +1352,7 @@ into your web browser: : not present
  * json : Before proceeding, please check your email for a verification link. : not present
  * json : click here to request another : not present
  * json : Confirm Password : not present
+ * json : Dashboard : not present
  * json : E-Mail Address : not present
  * json : Forbidden : not present
  * json : Forgot Your Password? : not present
@@ -1293,6 +1390,7 @@ into your web browser: : not present
  * json : Verify Email Address : not present
  * json : Verify Your Email Address : not present
  * json : We won't ask for your password again for a few hours. : not present
+ * json : You are logged in! : not present
  * json : You are receiving this email because we received a password reset request for your account. : not present
  * json : Your email address is not verified. : not present
  * json : Whoops! : not present
@@ -1329,6 +1427,7 @@ into your web browser: : not present
  * json : Before proceeding, please check your email for a verification link. : not present
  * json : click here to request another : not present
  * json : Confirm Password : not present
+ * json : Dashboard : not present
  * json : E-Mail Address : not present
  * json : Forbidden : not present
  * json : Forgot Your Password? : not present
@@ -1366,6 +1465,7 @@ into your web browser: : not present
  * json : Verify Email Address : not present
  * json : Verify Your Email Address : not present
  * json : We won't ask for your password again for a few hours. : not present
+ * json : You are logged in! : not present
  * json : You are receiving this email because we received a password reset request for your account. : not present
  * json : Your email address is not verified. : not present
  * json : Whoops! : not present
@@ -1411,6 +1511,7 @@ into your web browser: : not present
  * json : Before proceeding, please check your email for a verification link. : not present
  * json : click here to request another : not present
  * json : Confirm Password : not present
+ * json : Dashboard : not present
  * json : E-Mail Address : not present
  * json : Forbidden : not present
  * json : Forgot Your Password? : not present
@@ -1448,6 +1549,7 @@ into your web browser: : not present
  * json : Verify Email Address : not present
  * json : Verify Your Email Address : not present
  * json : We won't ask for your password again for a few hours. : not present
+ * json : You are logged in! : not present
  * json : You are receiving this email because we received a password reset request for your account. : not present
  * json : Your email address is not verified. : not present
  * json : Whoops! : not present
@@ -1477,6 +1579,7 @@ into your web browser: : not present
 <summary>show</summary>
 
  * json : click here to request another : not present
+ * json : Dashboard : not present
  * json : Invalid signature. : not present
  * json : Not Found : not present
  * json : Please confirm your password before continuing. : not present
@@ -1484,6 +1587,7 @@ into your web browser: : not present
  * json : This action is unauthorized. : not present
  * json : Too Many Attempts. : not present
  * json : We won't ask for your password again for a few hours. : not present
+ * json : You are logged in! : not present
  * json : Your email address is not verified. : not present
  * passwords : throttled
  * validation : ends_with
@@ -1497,6 +1601,7 @@ into your web browser: : not present
 <details>
 <summary>show</summary>
 
+ * json : Dashboard : not present
  * json : Invalid signature. : not present
  * json : Not Found : not present
  * json : Please confirm your password before continuing. : not present
@@ -1506,6 +1611,7 @@ into your web browser: : not present
  * json : Too Many Attempts. : not present
  * json : Verify Email Address : not present
  * json : We won't ask for your password again for a few hours. : not present
+ * json : You are logged in! : not present
  * json : Your email address is not verified. : not present
  * passwords : throttled
  * validation : ends_with
@@ -1519,8 +1625,10 @@ into your web browser: : not present
 <details>
 <summary>show</summary>
 
+ * json : Dashboard : not present
  * json : Please confirm your password before continuing. : not present
  * json : We won't ask for your password again for a few hours. : not present
+ * json : You are logged in! : not present
  * passwords : throttled
  * validation : password : not present
 
@@ -1537,6 +1645,7 @@ into your web browser: : not present
  * json : Before proceeding, please check your email for a verification link. : not present
  * json : click here to request another : not present
  * json : Confirm Password : not present
+ * json : Dashboard : not present
  * json : E-Mail Address : not present
  * json : Forbidden : not present
  * json : Forgot Your Password? : not present
@@ -1574,6 +1683,7 @@ into your web browser: : not present
  * json : Verify Email Address : not present
  * json : Verify Your Email Address : not present
  * json : We won't ask for your password again for a few hours. : not present
+ * json : You are logged in! : not present
  * json : You are receiving this email because we received a password reset request for your account. : not present
  * json : Your email address is not verified. : not present
  * json : Whoops! : not present
@@ -1604,17 +1714,24 @@ into your web browser: : not present
 
 ## nl
 
+<details>
+<summary>show</summary>
 
-All lines are translated 😊
+ * json : Dashboard : not present
+ * json : You are logged in! : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## nn
 
 <details>
 <summary>show</summary>
 
+ * json : Dashboard : not present
  * json : Please confirm your password before continuing. : not present
  * json : We won't ask for your password again for a few hours. : not present
+ * json : You are logged in! : not present
  * passwords : throttled
  * validation : password : not present
 
@@ -1623,15 +1740,21 @@ All lines are translated 😊
 
 ## pl
 
+<details>
+<summary>show</summary>
 
-All lines are translated 😊
+ * json : Dashboard : not present
+ * json : You are logged in! : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## ps
 
 <details>
 <summary>show</summary>
 
+ * json : Dashboard : not present
  * json : Invalid signature. : not present
  * json : Not Found : not present
  * json : Please confirm your password before continuing. : not present
@@ -1640,6 +1763,7 @@ All lines are translated 😊
  * json : This password reset link will expire in :count minutes. : not present
  * json : Too Many Attempts. : not present
  * json : We won't ask for your password again for a few hours. : not present
+ * json : You are logged in! : not present
  * json : Your email address is not verified. : not present
  * passwords : throttled
  * validation : ends_with
@@ -1650,21 +1774,33 @@ All lines are translated 😊
 
 ## pt
 
+<details>
+<summary>show</summary>
 
-All lines are translated 😊
+ * json : Dashboard : not present
+ * json : You are logged in! : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## pt-BR
 
+<details>
+<summary>show</summary>
 
-All lines are translated 😊
+ * json : Dashboard : not present
+ * json : You are logged in! : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## ro
 
 <details>
 <summary>show</summary>
 
+ * json : Dashboard : not present
+ * json : You are logged in! : not present
  * passwords : throttled
 
 [ [to top](#todo-list) ]
@@ -1672,9 +1808,14 @@ All lines are translated 😊
 
 ## ru
 
+<details>
+<summary>show</summary>
 
-All lines are translated 😊
+ * json : Dashboard : not present
+ * json : You are logged in! : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## sc
 
@@ -1686,6 +1827,7 @@ All lines are translated 😊
  * json : Before proceeding, please check your email for a verification link. : not present
  * json : click here to request another : not present
  * json : Confirm Password : not present
+ * json : Dashboard : not present
  * json : E-Mail Address : not present
  * json : Forbidden : not present
  * json : Forgot Your Password? : not present
@@ -1723,6 +1865,7 @@ into your web browser: : not present
  * json : Verify Email Address : not present
  * json : Verify Your Email Address : not present
  * json : We won't ask for your password again for a few hours. : not present
+ * json : You are logged in! : not present
  * json : You are receiving this email because we received a password reset request for your account. : not present
  * json : Your email address is not verified. : not present
  * json : Whoops! : not present
@@ -1766,6 +1909,7 @@ into your web browser: : not present
  * json : Before proceeding, please check your email for a verification link. : not present
  * json : click here to request another : not present
  * json : Confirm Password : not present
+ * json : Dashboard : not present
  * json : E-Mail Address : not present
  * json : Forbidden : not present
  * json : Forgot Your Password? : not present
@@ -1803,6 +1947,7 @@ into your web browser: : not present
  * json : Verify Email Address : not present
  * json : Verify Your Email Address : not present
  * json : We won't ask for your password again for a few hours. : not present
+ * json : You are logged in! : not present
  * json : You are receiving this email because we received a password reset request for your account. : not present
  * json : Your email address is not verified. : not present
  * json : Whoops! : not present
@@ -1815,9 +1960,14 @@ into your web browser: : not present
 
 ## sk
 
+<details>
+<summary>show</summary>
 
-All lines are translated 😊
+ * json : Dashboard : not present
+ * json : You are logged in! : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## sl
 
@@ -1828,6 +1978,7 @@ All lines are translated 😊
  * json : All rights reserved. : not present
  * json : Before proceeding, please check your email for a verification link. : not present
  * json : click here to request another : not present
+ * json : Dashboard : not present
  * json : Forbidden : not present
  * json : Go Home : not present
  * json : Hello! : not present
@@ -1853,6 +2004,7 @@ into your web browser: : not present
  * json : Verify Email Address : not present
  * json : Verify Your Email Address : not present
  * json : We won't ask for your password again for a few hours. : not present
+ * json : You are logged in! : not present
  * json : Your email address is not verified. : not present
  * json : Whoops! : not present
  * passwords : throttled
@@ -1872,6 +2024,7 @@ into your web browser: : not present
  * json : Before proceeding, please check your email for a verification link. : not present
  * json : click here to request another : not present
  * json : Confirm Password : not present
+ * json : Dashboard : not present
  * json : E-Mail Address : not present
  * json : Forbidden : not present
  * json : Forgot Your Password? : not present
@@ -1909,6 +2062,7 @@ into your web browser: : not present
  * json : Verify Email Address : not present
  * json : Verify Your Email Address : not present
  * json : We won't ask for your password again for a few hours. : not present
+ * json : You are logged in! : not present
  * json : You are receiving this email because we received a password reset request for your account. : not present
  * json : Your email address is not verified. : not present
  * json : Whoops! : not present
@@ -1950,6 +2104,7 @@ into your web browser: : not present
  * json : All rights reserved. : not present
  * json : Before proceeding, please check your email for a verification link. : not present
  * json : click here to request another : not present
+ * json : Dashboard : not present
  * json : Forbidden : not present
  * json : Go Home : not present
  * json : Hello! : not present
@@ -1975,6 +2130,7 @@ into your web browser: : not present
  * json : Verify Email Address : not present
  * json : Verify Your Email Address : not present
  * json : We won't ask for your password again for a few hours. : not present
+ * json : You are logged in! : not present
  * json : Your email address is not verified. : not present
  * json : Whoops! : not present
  * passwords : throttled
@@ -1986,9 +2142,14 @@ into your web browser: : not present
 
 ## sv
 
+<details>
+<summary>show</summary>
 
-All lines are translated 😊
+ * json : Dashboard : not present
+ * json : You are logged in! : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## sw
 
@@ -2000,6 +2161,7 @@ All lines are translated 😊
  * json : Before proceeding, please check your email for a verification link. : not present
  * json : click here to request another : not present
  * json : Confirm Password : not present
+ * json : Dashboard : not present
  * json : E-Mail Address : not present
  * json : Forbidden : not present
  * json : Forgot Your Password? : not present
@@ -2037,6 +2199,7 @@ into your web browser: : not present
  * json : Verify Email Address : not present
  * json : Verify Your Email Address : not present
  * json : We won't ask for your password again for a few hours. : not present
+ * json : You are logged in! : not present
  * json : You are receiving this email because we received a password reset request for your account. : not present
  * json : Your email address is not verified. : not present
  * json : Whoops! : not present
@@ -2057,6 +2220,7 @@ into your web browser: : not present
  * json : Before proceeding, please check your email for a verification link. : not present
  * json : click here to request another : not present
  * json : Confirm Password : not present
+ * json : Dashboard : not present
  * json : E-Mail Address : not present
  * json : Forbidden : not present
  * json : Forgot Your Password? : not present
@@ -2094,6 +2258,7 @@ into your web browser: : not present
  * json : Verify Email Address : not present
  * json : Verify Your Email Address : not present
  * json : We won't ask for your password again for a few hours. : not present
+ * json : You are logged in! : not present
  * json : You are receiving this email because we received a password reset request for your account. : not present
  * json : Your email address is not verified. : not present
  * json : Whoops! : not present
@@ -2120,6 +2285,7 @@ into your web browser: : not present
 <summary>show</summary>
 
  * json : All rights reserved. : not present
+ * json : Dashboard : not present
  * json : Forbidden : not present
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: : not present
@@ -2133,6 +2299,7 @@ into your web browser: : not present
  * json : Toggle navigation : not present
  * json : Too Many Attempts. : not present
  * json : We won't ask for your password again for a few hours. : not present
+ * json : You are logged in! : not present
  * json : Your email address is not verified. : not present
  * passwords : throttled
  * validation : ends_with
@@ -2151,6 +2318,7 @@ into your web browser: : not present
  * json : Before proceeding, please check your email for a verification link. : not present
  * json : click here to request another : not present
  * json : Confirm Password : not present
+ * json : Dashboard : not present
  * json : E-Mail Address : not present
  * json : Forbidden : not present
  * json : Forgot Your Password? : not present
@@ -2188,6 +2356,7 @@ into your web browser: : not present
  * json : Verify Email Address : not present
  * json : Verify Your Email Address : not present
  * json : We won't ask for your password again for a few hours. : not present
+ * json : You are logged in! : not present
  * json : You are receiving this email because we received a password reset request for your account. : not present
  * json : Your email address is not verified. : not present
  * json : Whoops! : not present
@@ -2231,6 +2400,7 @@ into your web browser: : not present
  * json : Before proceeding, please check your email for a verification link. : not present
  * json : click here to request another : not present
  * json : Confirm Password : not present
+ * json : Dashboard : not present
  * json : E-Mail Address : not present
  * json : Forbidden : not present
  * json : Forgot Your Password? : not present
@@ -2268,6 +2438,7 @@ into your web browser: : not present
  * json : Verify Email Address : not present
  * json : Verify Your Email Address : not present
  * json : We won't ask for your password again for a few hours. : not present
+ * json : You are logged in! : not present
  * json : You are receiving this email because we received a password reset request for your account. : not present
  * json : Your email address is not verified. : not present
  * json : Whoops! : not present
@@ -2296,9 +2467,14 @@ into your web browser: : not present
 
 ## tr
 
+<details>
+<summary>show</summary>
 
-All lines are translated 😊
+ * json : Dashboard : not present
+ * json : You are logged in! : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## ug
 
@@ -2310,6 +2486,7 @@ All lines are translated 😊
  * json : Before proceeding, please check your email for a verification link. : not present
  * json : click here to request another : not present
  * json : Confirm Password : not present
+ * json : Dashboard : not present
  * json : E-Mail Address : not present
  * json : Forbidden : not present
  * json : Forgot Your Password? : not present
@@ -2347,6 +2524,7 @@ into your web browser: : not present
  * json : Verify Email Address : not present
  * json : Verify Your Email Address : not present
  * json : We won't ask for your password again for a few hours. : not present
+ * json : You are logged in! : not present
  * json : You are receiving this email because we received a password reset request for your account. : not present
  * json : Your email address is not verified. : not present
  * json : Whoops! : not present
@@ -2367,9 +2545,14 @@ into your web browser: : not present
 
 ## uk
 
+<details>
+<summary>show</summary>
 
-All lines are translated 😊
+ * json : Dashboard : not present
+ * json : You are logged in! : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## ur
 
@@ -2380,6 +2563,7 @@ All lines are translated 😊
  * json : All rights reserved. : not present
  * json : Before proceeding, please check your email for a verification link. : not present
  * json : click here to request another : not present
+ * json : Dashboard : not present
  * json : Forbidden : not present
  * json : Go Home : not present
  * json : Hello! : not present
@@ -2405,6 +2589,7 @@ into your web browser: : not present
  * json : Verify Email Address : not present
  * json : Verify Your Email Address : not present
  * json : We won't ask for your password again for a few hours. : not present
+ * json : You are logged in! : not present
  * json : Your email address is not verified. : not present
  * json : Whoops! : not present
  * passwords : throttled
@@ -2440,6 +2625,7 @@ into your web browser: : not present
  * json : Before proceeding, please check your email for a verification link. : not present
  * json : click here to request another : not present
  * json : Confirm Password : not present
+ * json : Dashboard : not present
  * json : E-Mail Address : not present
  * json : Forbidden : not present
  * json : Forgot Your Password? : not present
@@ -2477,6 +2663,7 @@ into your web browser: : not present
  * json : Verify Email Address : not present
  * json : Verify Your Email Address : not present
  * json : We won't ask for your password again for a few hours. : not present
+ * json : You are logged in! : not present
  * json : You are receiving this email because we received a password reset request for your account. : not present
  * json : Your email address is not verified. : not present
  * json : Whoops! : not present
@@ -2505,6 +2692,7 @@ into your web browser: : not present
  * json : Before proceeding, please check your email for a verification link. : not present
  * json : click here to request another : not present
  * json : Confirm Password : not present
+ * json : Dashboard : not present
  * json : E-Mail Address : not present
  * json : Forbidden : not present
  * json : Forgot Your Password? : not present
@@ -2542,6 +2730,7 @@ into your web browser: : not present
  * json : Verify Email Address : not present
  * json : Verify Your Email Address : not present
  * json : We won't ask for your password again for a few hours. : not present
+ * json : You are logged in! : not present
  * json : You are receiving this email because we received a password reset request for your account. : not present
  * json : Your email address is not verified. : not present
  * json : Whoops! : not present
@@ -2554,6 +2743,8 @@ into your web browser: : not present
 <details>
 <summary>show</summary>
 
+ * json : Dashboard : not present
+ * json : You are logged in! : not present
  * passwords : throttled
 
 [ [to top](#todo-list) ]
@@ -2561,17 +2752,33 @@ into your web browser: : not present
 
 ## zh-CN
 
+<details>
+<summary>show</summary>
 
-All lines are translated 😊
+ * json : Dashboard : not present
+ * json : You are logged in! : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## zh-HK
 
+<details>
+<summary>show</summary>
 
-All lines are translated 😊
+ * json : Dashboard : not present
+ * json : You are logged in! : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## zh-TW
 
+<details>
+<summary>show</summary>
 
-All lines are translated 😊
+ * json : Dashboard : not present
+ * json : You are logged in! : not present
+
+[ [to top](#todo-list) ]
+</details>

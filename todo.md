@@ -2,11 +2,11 @@
 | | | | | | | | | | |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 [ar ✔](#ar)|[az ❗](#az)|[be ❗](#be)|[bg ❗](#bg)|[bn ❗](#bn)|[bs ❗](#bs)|[ca ❗](#ca)|[cs ❗](#cs)|[cy ❗](#cy)|[da ❗](#da)
-[de ❗](#de)|[de-CH ❗](#de-CH)|[el ❗](#el)|[es ❗](#es)|[et ❗](#et)|[eu ❗](#eu)|[fa ❗](#fa)|[fi ❗](#fi)|[fil ❗](#fil)|[fr ❗](#fr)
+[de ❗](#de)|[de-CH ❗](#de-CH)|[el ❗](#el)|[es ❗](#es)|[et ❗](#et)|[eu ❗](#eu)|[fa ❗](#fa)|[fi ❗](#fi)|[fil ❗](#fil)|[fr ✔](#fr)
 [gl ❗](#gl)|[he ❗](#he)|[hi ❗](#hi)|[hr ❗](#hr)|[hu ❗](#hu)|[hy ❗](#hy)|[id ❗](#id)|[is ❗](#is)|[it ❗](#it)|[ja ❗](#ja)
 [ka ❗](#ka)|[kk ❗](#kk)|[km ❗](#km)|[kn ❗](#kn)|[ko ❗](#ko)|[lt ❗](#lt)|[lv ❗](#lv)|[me ❗](#me)|[mk ❗](#mk)|[mn ❗](#mn)
 [mr ❗](#mr)|[ms ❗](#ms)|[nb ❗](#nb)|[ne ❗](#ne)|[nl ❗](#nl)|[nn ❗](#nn)|[pl ❗](#pl)|[ps ❗](#ps)|[pt ❗](#pt)|[pt-BR ❗](#pt-BR)
-[ro ❗](#ro)|[ru ❗](#ru)|[sc ❗](#sc)|[si ❗](#si)|[sk ❗](#sk)|[sl ❗](#sl)|[sq ❗](#sq)|[sr ❗](#sr)|[sv ❗](#sv)|[sw ❗](#sw)
+[ro ❗](#ro)|[ru ❗](#ru)|[sc ❗](#sc)|[si ❗](#si)|[sk ❗](#sk)|[sl ❗](#sl)|[sq ❗](#sq)|[sr ✔](#sr)|[sv ❗](#sv)|[sw ❗](#sw)
 [tg ❗](#tg)|[th ❗](#th)|[tk ❗](#tk)|[tl ❗](#tl)|[tr ❗](#tr)|[ug ❗](#ug)|[uk ❗](#uk)|[ur ❗](#ur)|[uz-cyrillic ❗](#uz-cyrillic)|[uz-latin ❗](#uz-latin)
 [vi ❗](#vi)|[zh-CN ❗](#zh-CN)|[zh-HK ❗](#zh-HK)|[zh-TW ❗](#zh-TW)
 
@@ -812,14 +812,9 @@ into your web browser: : not present
 
 ## fr
 
-<details>
-<summary>show</summary>
 
- * json : Dashboard : not present
- * json : You are logged in! : not present
+All lines are translated 😊
 
-[ [to top](#todo-list) ]
-</details>
 
 ## gl
 
@@ -2092,48 +2087,9 @@ into your web browser: : not present
 
 ## sr
 
-<details>
-<summary>show</summary>
 
- * json : A fresh verification link has been sent to your email address. : not present
- * json : All rights reserved. : not present
- * json : Before proceeding, please check your email for a verification link. : not present
- * json : click here to request another : not present
- * json : Dashboard : not present
- * json : Forbidden : not present
- * json : Go Home : not present
- * json : Hello! : not present
- * json : If you did not create an account, no further action is required. : not present
- * json : If you did not receive the email : not present
- * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: : not present
- * json : Invalid signature. : not present
- * json : Not Found : not present
- * json : Oh no : not present
- * json : Page Expired : not present
- * json : Please click the button below to verify your email address. : not present
- * json : Please confirm your password before continuing. : not present
- * json : Regards : not present
- * json : Server Error : not present
- * json : Service Unavailable : not present
- * json : This action is unauthorized. : not present
- * json : This password reset link will expire in :count minutes. : not present
- * json : Toggle navigation : not present
- * json : Too Many Attempts. : not present
- * json : Too Many Requests : not present
- * json : Unauthorized : not present
- * json : Verify Email Address : not present
- * json : Verify Your Email Address : not present
- * json : We won't ask for your password again for a few hours. : not present
- * json : You are logged in! : not present
- * json : Your email address is not verified. : not present
- * json : Whoops! : not present
- * passwords : throttled
- * validation : ends_with
- * validation : password : not present
+All lines are translated 😊
 
-[ [to top](#todo-list) ]
-</details>
 
 ## sv
 

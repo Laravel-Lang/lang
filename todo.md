@@ -5,7 +5,7 @@
 [de ❗](#de)|[de-CH ❗](#de-CH)|[el ❗](#el)|[es ❗](#es)|[et ❗](#et)|[eu ❗](#eu)|[fa ❗](#fa)|[fi ❗](#fi)|[fil ❗](#fil)|[fr ✔](#fr)
 [gl ❗](#gl)|[he ❗](#he)|[hi ❗](#hi)|[hr ❗](#hr)|[hu ❗](#hu)|[hy ❗](#hy)|[id ❗](#id)|[is ❗](#is)|[it ❗](#it)|[ja ❗](#ja)
 [ka ❗](#ka)|[kk ❗](#kk)|[km ❗](#km)|[kn ❗](#kn)|[ko ❗](#ko)|[lt ❗](#lt)|[lv ❗](#lv)|[me ❗](#me)|[mk ❗](#mk)|[mn ❗](#mn)
-[mr ❗](#mr)|[ms ❗](#ms)|[nb ❗](#nb)|[ne ❗](#ne)|[nl ❗](#nl)|[nn ❗](#nn)|[pl ❗](#pl)|[ps ❗](#ps)|[pt ❗](#pt)|[pt-BR ❗](#pt-BR)
+[mr ❗](#mr)|[ms ❗](#ms)|[nb ❗](#nb)|[ne ❗](#ne)|[nl ❗](#nl)|[nn ❗](#nn)|[pl  ✔](#pl)|[ps ❗](#ps)|[pt ❗](#pt)|[pt-BR ❗](#pt-BR)
 [ro ❗](#ro)|[ru ❗](#ru)|[sc ❗](#sc)|[si ❗](#si)|[sk ❗](#sk)|[sl ❗](#sl)|[sq ❗](#sq)|[sr ✔](#sr)|[sv ❗](#sv)|[sw ❗](#sw)
 [tg ❗](#tg)|[th ❗](#th)|[tk ❗](#tk)|[tl ❗](#tl)|[tr ❗](#tr)|[ug ❗](#ug)|[uk ❗](#uk)|[ur ❗](#ur)|[uz-cyrillic ❗](#uz-cyrillic)|[uz-latin ❗](#uz-latin)
 [vi ❗](#vi)|[zh-CN ❗](#zh-CN)|[zh-HK ❗](#zh-HK)|[zh-TW ❗](#zh-TW)
@@ -1730,14 +1730,9 @@ into your web browser: : not present
 
 ## pl
 
-<details>
-<summary>show</summary>
 
- * json : Dashboard : not present
- * json : You are logged in! : not present
+All lines are translated 😊
 
-[ [to top](#todo-list) ]
-</details>
 
 ## ps
 

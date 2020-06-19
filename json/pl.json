@@ -4,6 +4,7 @@
   "Before proceeding, please check your email for a verification link.": "Zanim przejdziesz dalej, sprawdź swój adres email po link weryfikacyjny.",
   "click here to request another": "kliknij tutaj, aby poprosić ponownie",
   "Confirm Password": "Potwierdź hasło",
+  "Dashboard": "Panel",
   "E-Mail Address": "Adres e-mail",
   "Error": "Błąd",
   "Forbidden": "Zabronione",
@@ -51,6 +52,7 @@
   "We won't ask for your password again for a few hours.": "Nie będziemy prosić o kolejne hasło przez kilka następnych godzin.",
   "Whoops!": "Ups!",
   "Whoops, something went wrong on our servers.": "Ups! Coś poszło nie tak na naszych serwerach.",
+  "You are logged in!": "Jesteś zalogowany!",
   "You are receiving this email because we received a password reset request for your account.": "Otrzymujesz ten e-mail, ponieważ otrzymaliśmy prośbę o zresetowanie hasła dla Twojego konta.",
   "Your email address is not verified.": "Twój adres e-mail nie jest zweryfikowany."
 }

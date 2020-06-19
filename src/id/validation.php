@@ -76,9 +76,9 @@ return [
         'array'   => ':Attribute harus tidak lebih dari :value anggota.',
     ],
     'max' => [
-        'numeric' => ':Attribute maskimal bernilai :max.',
+        'numeric' => ':Attribute maksimal bernilai :max.',
         'file'    => ':Attribute maksimal berukuran :max kilobita.',
-        'string'  => ':Attribute maskimal berisi :max karakter.',
+        'string'  => ':Attribute maksimal berisi :max karakter.',
         'array'   => ':Attribute maksimal terdiri dari :max anggota.',
     ],
     'mimes'     => ':Attribute harus berupa berkas berjenis: :values.',

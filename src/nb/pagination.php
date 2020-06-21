@@ -1,6 +1,7 @@
 <?php
 
 return [
+
     /*
     |--------------------------------------------------------------------------
     | Pagination Language Lines
@@ -13,5 +14,6 @@ return [
     */
 
     'previous' => '&laquo; Forrige',
-    'next'     => 'Neste &raquo;',
+    'next' => 'Neste &raquo;',
+
 ];

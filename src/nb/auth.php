@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'failed' => 'Disse opplysningene samsvarer ikke med hva vi har lagret.',
+    'failed'   => 'Disse opplysningene samsvarer ikke med hva vi har lagret.',
     'throttle' => 'For mange innloggingsforsøk. Vennligst prøv igjen om :seconds sekunder.',
 
 ];

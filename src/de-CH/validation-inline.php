@@ -67,7 +67,7 @@ return [
         'numeric' => 'Der Wert muss kleiner :value sein.',
         'file'    => 'Die Datei muss kleiner :value Kilobytes gross sein.',
         'string'  => 'Die Zeichenkette muss kleiner :value Zeichen lang sein.',
-        'array'   => ':Der Inhalt muss kleiner :value Elemente haben.',
+        'array'   => 'Der Inhalt muss kleiner :value Elemente haben.',
     ],
     'lte' => [
         'numeric' => 'Der Wert muss kleiner oder gleich :value sein.',

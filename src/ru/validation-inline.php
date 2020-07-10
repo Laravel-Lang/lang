@@ -1,131 +1,139 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
-    | Validation Language Lines
+    | Языковые ресурсы для проверки значений
     |--------------------------------------------------------------------------
     |
-    | The following language lines contain the default error messages used by
-    | the validator class. Some of these rules have multiple versions such
-    | as the size rules. Feel free to tweak each of these messages here.
+    | Последующие языковые строки содержат сообщения по-умолчанию, используемые
+    | классом, проверяющим значения (валидатором). Некоторые из правил имеют
+    | несколько версий, например, size. Вы можете поменять их на любые
+    | другие, которые лучше подходят для вашего приложения.
     |
     */
 
-    'accepted'        => 'This field must be accepted.',
-    'active_url'      => 'This is not a valid URL.',
-    'after'           => 'This must be a date after :date.',
-    'after_or_equal'  => 'This must be a date after or equal to :date.',
-    'alpha'           => 'This field may only contain letters.',
-    'alpha_dash'      => 'This field may only contain letters, numbers, dashes and underscores.',
-    'alpha_num'       => 'This field may only contain letters and numbers.',
-    'array'           => 'This field must be an array.',
-    'before'          => 'This must be a date before :date.',
-    'before_or_equal' => 'This must be a date before or equal to :date.',
+    'accepted'        => 'Должно быть принято.',
+    'active_url'      => 'Недействительный URL.',
+    'after'           => 'Дата должна быть больше :date.',
+    'after_or_equal'  => 'Дата должна быть больше или равняться :date.',
+    'alpha'           => 'Здесь могут быть только буквы.',
+    'alpha_dash'      => 'Здесь могут быть только буквы, цифры, дефис и нижнее подчеркивание.',
+    'alpha_num'       => 'Здесь могут быть только буквы и цифры.',
+    'array'           => 'Здесь должен быть массив.',
+    'before'          => 'Дата здесь должна быть раньше :date.',
+    'before_or_equal' => 'Дата здесь должна быть раньше или равняться :date.',
     'between'         => [
-        'numeric' => 'This value must be between :min and :max.',
-        'file'    => 'This file must be between :min and :max kilobytes.',
-        'string'  => 'This string must be between :min and :max characters.',
-        'array'   => 'This content must have between :min and :max items.',
+        'numeric' => 'Значение должно быть между :min и :max.',
+        'file'    => 'Размер файла должен быть между :min и :max Килобайт(а).',
+        'string'  => 'Количество символов должно быть между :min и :max.',
+        'array'   => 'Количество элементов должно быть между :min и :max.',
     ],
-    'boolean'        => 'This field must be true or false.',
-    'confirmed'      => 'The confirmation does not match.',
-    'date'           => 'This is not a valid date.',
-    'date_equals'    => 'This must be a date equal to :date.',
-    'date_format'    => 'This does not match the format :format.',
-    'different'      => 'This value must be different from :other.',
-    'digits'         => 'This must be :digits digits.',
-    'digits_between' => 'This must be between :min and :max digits.',
-    'dimensions'     => 'This image has invalid dimensions.',
-    'distinct'       => 'This field has a duplicate value.',
-    'email'          => 'This must be a valid email address.',
-    'ends_with'      => 'This must end with one of the following: :values.',
-    'exists'         => 'The selected value is invalid.',
-    'file'           => 'The content must be a file.',
-    'filled'         => 'This field must have a value.',
+    'boolean'        => 'Поле должно иметь значение логического типа.',
+    'confirmed'      => 'Не совпадает с подтверждением.',
+    'date'           => 'Не является датой.',
+    'date_equals'    => 'Дата должна быть равной :date.',
+    'date_format'    => 'Не соответствует формату :format.',
+    'different'      => 'Значение должно отличаться от :other',
+    'digits'         => 'Длина должна быть :digits.',
+    'digits_between' => 'Длина должна быть между :min и :max.',
+    'dimensions'     => 'Изображение имеет недопустимые размеры.',
+    'distinct'       => 'Поле содержит повторяющееся значение.',
+    'email'          => 'Электронный адрес должен быть действительным.',
+    'ends_with'      => 'Должно заканчиваться одним из следующих значений: :values',
+    'exists'         => 'Выбранное значение некорректно.',
+    'file'           => 'Содержимое должно быть файлом.',
+    'filled'         => 'Обязательно для заполнения.',
     'gt'             => [
-        'numeric' => 'The value must be greater than :value.',
-        'file'    => 'The file size must be greater than :value kilobytes.',
-        'string'  => 'The string must be greater than :value characters.',
-        'array'   => 'The content must have more than :value items.',
+        'numeric' => 'Значение должно быть больше :value.',
+        'file'    => 'Размер файла должен быть больше :value Килобайт(а).',
+        'string'  => 'Количество символов должно быть больше :value.',
+        'array'   => 'Количество элементов должно быть больше :value.',
     ],
     'gte' => [
-        'numeric' => 'The value must be greater than or equal :value.',
-        'file'    => 'The file size must be greater than or equal :value kilobytes.',
-        'string'  => 'The string must be greater than or equal :value characters.',
-        'array'   => 'The content must have :value items or more.',
+        'numeric' => 'Значение должно быть :value или больше.',
+        'file'    => 'Размер файла должен быть :value Килобайт(а) или больше.',
+        'string'  => 'Количество символов должно быть :value или больше.',
+        'array'   => 'Количество элементов должно быть :value или больше.',
     ],
-    'image'    => 'This must be an image.',
-    'in'       => 'The selected value is invalid.',
-    'in_array' => 'This value does not exist in :other.',
-    'integer'  => 'This must be an integer.',
-    'ip'       => 'This must be a valid IP address.',
-    'ipv4'     => 'This must be a valid IPv4 address.',
-    'ipv6'     => 'This must be a valid IPv6 address.',
-    'json'     => 'This must be a valid JSON string.',
+    'image'    => 'Здесь должно быть изображение.',
+    'in'       => 'Выбранное значение ошибочно.',
+    'in_array' => 'Значение не существует в :other.',
+    'integer'  => 'Должно быть целое число.',
+    'ip'       => 'Должен быть действительный IP-адрес.',
+    'ipv4'     => 'Должен быть действительный IPv4-адрес.',
+    'ipv6'     => 'Должен быть действительный IPv6-адрес.',
+    'json'     => 'Должно быть JSON строкой.',
     'lt'       => [
-        'numeric' => 'The value must be less than :value.',
-        'file'    => 'The file size must be less than :value kilobytes.',
-        'string'  => 'The string must be less than :value characters.',
-        'array'   => 'The content must have less than :value items.',
+        'numeric' => 'Значение должно быть меньше :value.',
+        'file'    => 'Размер файла должен быть меньше :value Килобайт(а).',
+        'string'  => 'Количество символов должно быть меньше :value.',
+        'array'   => 'Количество элементов должно быть меньше :value.',
     ],
     'lte' => [
-        'numeric' => 'The value must be less than or equal :value.',
-        'file'    => 'The file size must be less than or equal :value kilobytes.',
-        'string'  => 'The string must be less than or equal :value characters.',
-        'array'   => 'The content must not have more than :value items.',
+        'numeric' => 'Значение должно быть :value или меньше.',
+        'file'    => 'Размер файла должен быть :value Килобайт(а) или меньше.',
+        'string'  => 'Количество символов должно быть :value или меньше.',
+        'array'   => 'Количество элементов должно быть :value или меньше.',
     ],
     'max' => [
-        'numeric' => 'The value may not be greater than :max.',
-        'file'    => 'The file size may not be greater than :max kilobytes.',
-        'string'  => 'The string may not be greater than :max characters.',
-        'array'   => 'The content may not have more than :max items.',
+        'numeric' => 'Значение не может быть больше :max.',
+        'file'    => 'Размер файла не может быть больше :max Килобайт(а).',
+        'string'  => 'Количество символов не может превышать :max.',
+        'array'   => 'Количество элементов не может превышать :max.',
     ],
-    'mimes'     => 'This must be a file of type: :values.',
-    'mimetypes' => 'This must be a file of type: :values.',
+    'mimes'     => 'Должен быть файл одного из следующих типов: :values.',
+    'mimetypes' => 'Должен быть файл одного из следующих типов: :values.',
     'min'       => [
-        'numeric' => 'The value must be at least :min.',
-        'file'    => 'The file size must be at least :min kilobytes.',
-        'string'  => 'The string must be at least :min characters.',
-        'array'   => 'The value must have at least :min items.',
+        'numeric' => 'Значение должно быть не меньше :min.',
+        'file'    => 'Размер файла должен быть не меньше :min Килобайт(а).',
+        'string'  => 'Количество символов должно быть не меньше :min.',
+        'array'   => 'Количество элементов должно быть не меньше :min.',
     ],
-    'not_in'               => 'The selected value is invalid.',
-    'not_regex'            => 'This format is invalid.',
-    'numeric'              => 'This must be a number.',
-    'password'             => 'The password is incorrect.',
-    'present'              => 'This field must be present.',
-    'regex'                => 'This format is invalid.',
-    'required'             => 'This field is required.',
-    'required_if'          => 'This field is required when :other is :value.',
-    'required_unless'      => 'This field is required unless :other is in :values.',
-    'required_with'        => 'This field is required when :values is present.',
-    'required_with_all'    => 'This field is required when :values are present.',
-    'required_without'     => 'This field is required when :values is not present.',
-    'required_without_all' => 'This field is required when none of :values are present.',
-    'same'                 => 'The value of this field must match the one from :other.',
+    'not_in'               => 'Выбранное значение ошибочно.',
+    'not_regex'            => 'Выбранный формат ошибочный.',
+    'numeric'              => 'Здесь должно быть число.',
+    'password'             => 'Неверный пароль.',
+    'present'              => 'Значение должно быть.',
+    'regex'                => 'Ошибочный формат.',
+    'required'             => 'Обязательно для заполнения.',
+    'required_if'          => 'Обязательно для заполнения, когда :other равно :value.',
+    'required_unless'      => 'Обязательно для заполнения, когда :other не равно :values.',
+    'required_with'        => 'Обязательно для заполнения, когда :values указано.',
+    'required_with_all'    => 'Обязательно для заполнения, когда :values указано.',
+    'required_without'     => 'Обязательно для заполнения, когда :values не указано.',
+    'required_without_all' => 'Обязательно для заполнения, когда ни одно из :values не указано.',
+    'same'                 => 'Значение должно совпадать с :other.',
     'size'                 => [
-        'numeric' => 'The value must be :size.',
-        'file'    => 'The file size must be :size kilobytes.',
-        'string'  => 'The string must be :size characters.',
-        'array'   => 'The content must contain :size items.',
+        'numeric' => 'Значение должно быть равным :size.',
+        'file'    => 'Размер файла должен быть равен :size Килобайт(а).',
+        'string'  => 'Количество символов должно быть равным :size.',
+        'array'   => 'Количество элементов должно быть равным :size.',
     ],
-    'starts_with' => 'This must start with one of the following: :values.',
-    'string'      => 'This must be a string.',
-    'timezone'    => 'This must be a valid zone.',
-    'unique'      => 'This has already been taken.',
-    'uploaded'    => 'This failed to upload.',
-    'url'         => 'This format is invalid.',
-    'uuid'        => 'This must be a valid UUID.',
+    'starts_with' => 'Значение должно начинаться из одного из следующих значений: :values',
+    'string'      => 'Здесь должна быть строка.',
+    'timezone'    => 'Должен быть действительный часовой пояс.',
+    'unique'      => 'Такое значение уже существует.',
+    'uploaded'    => 'Загрузка не удалась.',
+    'url'         => 'Ошибочный формат URL.',
+    'uuid'        => 'Должен быть корректный UUID.',
 
     /*
     |--------------------------------------------------------------------------
-    | Custom Validation Language Lines
+    | Собственные языковые ресурсы для проверки значений
     |--------------------------------------------------------------------------
     |
-    | Here you may specify custom validation messages for attributes using the
-    | convention "attribute.rule" to name the lines. This makes it quick to
-    | specify a specific custom language line for a given attribute rule.
+    | Здесь Вы можете указать собственные сообщения для атрибутов.
+    | Это позволяет легко указать свое сообщение для заданного правила атрибута.
+    |
+    | http://laravel.com/docs/validation#custom-error-messages
+    | Пример использования
+    |
+    |   'custom' => [
+    |       'email' => [
+    |           'required' => 'Нам необходимо знать Ваш электронный адрес!',
+    |       ],
+    |   ],
     |
     */
 
@@ -134,5 +142,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-
 ];

@@ -1234,14 +1234,9 @@ into your web browser: : not present
 
 ## lt
 
-<details>
-<summary>show</summary>
 
- * json : Dashboard : not present
- * json : You are logged in! : not present
+All lines are translated 😊
 
-[ [to top](#todo-list) ]
-</details>
 
 ## lv
 

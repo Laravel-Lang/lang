@@ -209,11 +209,12 @@ class TodoGenerator
     private function getTranslations(string $language, string $directory = __DIR__): array
     {
         return [
-            'json'       => $this->getJsonContent($language, $directory),
-            'auth'       => $this->getContent($language, $directory, 'auth.php'),
-            'pagination' => $this->getContent($language, $directory, 'pagination.php'),
-            'passwords'  => $this->getContent($language, $directory, 'passwords.php'),
-            'validation' => $this->getContent($language, $directory, 'validation.php'),
+            'json'              => $this->getJsonContent($language, $directory),
+            'auth'              => $this->getContent($language, $directory, 'auth.php'),
+            'pagination'        => $this->getContent($language, $directory, 'pagination.php'),
+            'passwords'         => $this->getContent($language, $directory, 'passwords.php'),
+            'validation'        => $this->getContent($language, $directory, 'validation.php'),
+            'validation-inline' => $this->getContent($language, $directory, 'validation-inline.php'),
         ];
     }
 

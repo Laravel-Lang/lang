@@ -155,7 +155,7 @@ return [
         'password_confirmation' => 'تأكيد كلمة المرور',
         'city'                  => 'المدينة',
         'country'               => 'الدولة',
-        'address'               => 'عنوان السكن',
+        'address'               => 'العنوان',
         'phone'                 => 'الهاتف',
         'mobile'                => 'الجوال',
         'age'                   => 'العمر',

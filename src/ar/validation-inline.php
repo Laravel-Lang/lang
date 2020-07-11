@@ -13,7 +13,7 @@ return [
     |
     */
 
-'accepted'        => 'يجب قبول :attribute.',
+    'accepted'        => 'يجب قبول :attribute.',
     'active_url'      => ':attribute لا يُمثّل رابطًا صحيحًا.',
     'after'           => 'يجب على :attribute أن يكون تاريخًا لاحقًا للتاريخ :date.',
     'after_or_equal'  => ':attribute يجب أن يكون تاريخاً لاحقاً أو مطابقاً للتاريخ :date.',

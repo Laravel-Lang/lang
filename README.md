@@ -5,11 +5,12 @@ In this repository, you can find the lang files for the framework PHP, [Laravel 
 ## New
 
 * in version 6.1, we propose a new file by language: `validation-inline.php` ( see #1268 )
-* in future version 7, we will have new directory names to follow ISO-15897 ( see #1269 )
+* in version 7, we propose new directory names to follow ISO-15897 ( see #1269 )
 
 ## Install
 
 #### Via Composer
+* For Laravel 7.x and new directory names : run `composer require caouecs/laravel-lang:~7.0` in your project folder
 * For Laravel 7.x : run `composer require caouecs/laravel-lang:~6.1` in your project folder
 * For Laravel 6.x : run `composer require caouecs/laravel-lang:~5.0` in your project folder
 * For Laravel 5.8 : run `composer require caouecs/laravel-lang:~4.0` in your project folder

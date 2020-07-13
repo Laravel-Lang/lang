@@ -2,13 +2,13 @@
 | | | | | | | | | | |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 [ar ✔](#ar)|[az ❗](#az)|[be ❗](#be)|[bg ❗](#bg)|[bn ❗](#bn)|[bs ❗](#bs)|[ca ❗](#ca)|[cs ❗](#cs)|[cy ❗](#cy)|[da ❗](#da)
-[de ❗](#de)|[de-CH ❗](#de-CH)|[el ❗](#el)|[es ❗](#es)|[et ❗](#et)|[eu ❗](#eu)|[fa ❗](#fa)|[fi ❗](#fi)|[fil ❗](#fil)|[fr ✔](#fr)
+[de ❗](#de)|[de_CH ❗](#de_CH)|[el ❗](#el)|[es ❗](#es)|[et ❗](#et)|[eu ❗](#eu)|[fa ❗](#fa)|[fi ❗](#fi)|[fil ❗](#fil)|[fr ✔](#fr)
 [gl ❗](#gl)|[he ❗](#he)|[hi ❗](#hi)|[hr ❗](#hr)|[hu ❗](#hu)|[hy ❗](#hy)|[id ❗](#id)|[is ❗](#is)|[it ❗](#it)|[ja ❗](#ja)
 [ka ❗](#ka)|[kk ❗](#kk)|[km ❗](#km)|[kn ❗](#kn)|[ko ❗](#ko)|[lt ❗](#lt)|[lv ❗](#lv)|[me ❗](#me)|[mk ❗](#mk)|[mn ❗](#mn)
-[mr ❗](#mr)|[ms ❗](#ms)|[nb ❗](#nb)|[ne ❗](#ne)|[nl ❗](#nl)|[nn ❗](#nn)|[pl ❗](#pl)|[ps ❗](#ps)|[pt ❗](#pt)|[pt-BR ❗](#pt-BR)
-[ro ❗](#ro)|[ru ✔](#ru)|[sc ❗](#sc)|[si ❗](#si)|[sk ❗](#sk)|[sl ❗](#sl)|[sq ❗](#sq)|[sr-cyrillic ❗](#sr-cyrillic)|[sr-latin ❗](#sr-latin)|[sv ❗](#sv)
-[sw ❗](#sw)|[tg ❗](#tg)|[th ❗](#th)|[tk ❗](#tk)|[tl ❗](#tl)|[tr ❗](#tr)|[ug ❗](#ug)|[uk ❗](#uk)|[ur ❗](#ur)|[uz-cyrillic ❗](#uz-cyrillic)
-[uz-latin ❗](#uz-latin)|[vi ❗](#vi)|[zh-CN ❗](#zh-CN)|[zh-HK ❗](#zh-HK)|[zh-TW ❗](#zh-TW)
+[mr ❗](#mr)|[ms ❗](#ms)|[nb ❗](#nb)|[ne ❗](#ne)|[nl ❗](#nl)|[nn ❗](#nn)|[pl ❗](#pl)|[ps ❗](#ps)|[pt ❗](#pt)|[pt_BR ❗](#pt_BR)
+[ro ❗](#ro)|[ru ✔](#ru)|[sc ❗](#sc)|[si ❗](#si)|[sk ❗](#sk)|[sl ❗](#sl)|[sq ❗](#sq)|[sr_Cyrillic ❗](#sr_Cyrillic)|[sr_Latin ❗](#sr_Latin)|[sv ❗](#sv)
+[sw ❗](#sw)|[tg ❗](#tg)|[th ❗](#th)|[tk ❗](#tk)|[tl ❗](#tl)|[tr ❗](#tr)|[ug ❗](#ug)|[uk ❗](#uk)|[ur ❗](#ur)|[uz_Cyrillic ❗](#uz_Cyrillic)
+[uz_Latin ❗](#uz_Latin)|[vi ❗](#vi)|[zh_CN ❗](#zh_CN)|[zh_HK ❗](#zh_HK)|[zh_TW ❗](#zh_TW)
 
 
 
@@ -1122,7 +1122,7 @@ into your web browser: : not present
 [ [to top](#todo-list) ]
 </details>
 
-## de-CH
+## de_CH
 
 <details>
 <summary>show</summary>
@@ -1517,70 +1517,6 @@ into your web browser: : not present
  * json : You are logged in! : not present
  * json : Your email address is not verified. : not present
  * validation : password : not present
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt
- * validation-inline : gte
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt
- * validation-inline : lte
- * validation-inline : max
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -4642,7 +4578,7 @@ into your web browser: : not present
 [ [to top](#todo-list) ]
 </details>
 
-## pt-BR
+## pt_BR
 
 <details>
 <summary>show</summary>
@@ -5395,7 +5331,7 @@ into your web browser: : not present
 [ [to top](#todo-list) ]
 </details>
 
-## sr-cyrillic
+## sr_Cyrillic
 
 <details>
 <summary>show</summary>
@@ -5468,7 +5404,7 @@ into your web browser: : not present
 [ [to top](#todo-list) ]
 </details>
 
-## sr-latin
+## sr_Latin
 
 <details>
 <summary>show</summary>
@@ -6656,7 +6592,7 @@ into your web browser: : not present
 [ [to top](#todo-list) ]
 </details>
 
-## uz-cyrillic
+## uz_Cyrillic
 
 <details>
 <summary>show</summary>
@@ -6787,7 +6723,7 @@ into your web browser: : not present
 [ [to top](#todo-list) ]
 </details>
 
-## uz-latin
+## uz_Latin
 
 <details>
 <summary>show</summary>
@@ -6983,7 +6919,7 @@ into your web browser: : not present
 [ [to top](#todo-list) ]
 </details>
 
-## zh-CN
+## zh_CN
 
 <details>
 <summary>show</summary>
@@ -7058,7 +6994,7 @@ into your web browser: : not present
 [ [to top](#todo-list) ]
 </details>
 
-## zh-HK
+## zh_HK
 
 <details>
 <summary>show</summary>
@@ -7133,7 +7069,7 @@ into your web browser: : not present
 [ [to top](#todo-list) ]
 </details>
 
-## zh-TW
+## zh_TW
 
 <details>
 <summary>show</summary>

@@ -10,6 +10,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
  * Changelog file
+ 
+### Changed
+
+ * #1290 [pl] Translate validation-inline; tweak some validation translations
 
 ## [7.0.1] - 2020-07-14
 

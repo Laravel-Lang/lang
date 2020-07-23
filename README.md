@@ -11,16 +11,20 @@ In this repository, you can find the lang files for the framework PHP, [Laravel 
 
 #### Via Composer
 In your project directory, install the package with composer using following command:
-* For Laravel 7.x and new directory names : `composer require caouecs/laravel-lang:~7.0`
-* For Laravel 7.x : `composer require caouecs/laravel-lang:~6.1`
-* For Laravel 6.x : `composer require caouecs/laravel-lang:~5.0`
-* For Laravel 5.8 : `composer require caouecs/laravel-lang:~4.0`
-* For Laravel 5.1-5.7 : `composer require caouecs/laravel-lang:~3.0`
-* For Laravel 5 : `composer require caouecs/laravel-lang:~2.0`
-* For Laravel 4 : `composer require caouecs/laravel-lang:~1.0`
+
+| Laravel version                         | Composer command                             |
+| --------------------------------------- | -------------------------------------------- |
+| Laravel 7.x and new directory names | `composer require caouecs/laravel-lang:~7.0` |
+| Laravel 7.x                             | `composer require caouecs/laravel-lang:~6.1` |
+| Laravel 6.x                             | `composer require caouecs/laravel-lang:~5.0` |
+| Laravel 5.8                             | `composer require caouecs/laravel-lang:~4.0` |
+| Laravel 5.1-5.7                         | `composer require caouecs/laravel-lang:~3.0` |
+| Laravel 5                               | `composer require caouecs/laravel-lang:~2.0` |
+| Laravel 4                               | `composer require caouecs/laravel-lang:~1.0` |
+
 
 ##### Copy files
-After adding the dependency using composer (as described above) to your application you can find the language files under the directory "`vendor/caouecs/laravel-lang`".
+After adding the dependency using composer (as described above) to your application you can find the language files under the directory `vendor/caouecs/laravel-lang`.
 
 Copy the folders (and JSON files) of languages that you want to use, into the directory `resources/lang` of your Laravel application (or `app/lang` in Laravel 4).
 

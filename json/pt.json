@@ -4,6 +4,7 @@
     "Before proceeding, please check your email for a verification link.": "Antes de prosseguir, procure pelo link de verificação na sua caixa de correio.",
     "click here to request another": "clique aqui para pedir outro",
     "Confirm Password": "Confirmar Palavra-passe",
+    "Dashboard": "Painel de Controlo",
     "E-Mail Address": "Endereço de e-mail",
     "Forbidden": "Proibido",
     "Forgot Your Password?": "Esqueceu-se da Palavra-passe?",
@@ -40,6 +41,7 @@
     "Verify Email Address": "Verifique o endereço de e-mail",
     "Verify Your Email Address": "Verifique seu endereço de e-mail",
     "We won't ask for your password again for a few hours.": "Não vamos pedir a sua palavra-passe novamente por algumas horas.",
+    "You are logged in!": "A sessão foi iniciada!",
     "You are receiving this email because we received a password reset request for your account.": "Recebeu esse e-mail porque foi solicitada a redefinição da palavra-passe da sua conta.",
     "Your email address is not verified.": "Seu endereço de e-mail não está verificado.",
     "Whoops!": "Ops!"

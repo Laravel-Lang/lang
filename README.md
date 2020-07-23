@@ -4,8 +4,8 @@ In this repository, you can find the lang files for the framework PHP, [Laravel 
 
 ## News
 
-* In Laravel version 6.1, we propose a new file by language: `validation-inline.php` ( see #1268 )
-* in Laravel version 7, we propose new directory names to follow ISO-15897 ( see #1269 )
+* in version 6.1, we propose a new file by language: `validation-inline.php` ( see #1268 )
+* in version 7, we propose new directory names to follow ISO-15897 ( see #1269 )
 
 ## Install
 

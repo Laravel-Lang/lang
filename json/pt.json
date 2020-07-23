@@ -32,7 +32,7 @@
     "Server Error": "Erro do servidor",
     "Service Unavailable": "Serviço indisponível",
     "This action is unauthorized.": "Esta ação não é autorizada.",
-    "This password reset link will expire in :count minutes." : "O Link de para alterar a palavra-passe vai expirar em :count minutos.",
+    "This password reset link will expire in :count minutes.": "O Link para alterar a palavra-passe vai expirar em :count minutos.",
     "Toggle navigation": "Alternar navegação",
     "Too Many Attempts.": "Muitas tentativas.",
     "Too Many Requests": "Muitos pedidos",
@@ -43,4 +43,4 @@
     "You are receiving this email because we received a password reset request for your account.": "Recebeu esse e-mail porque foi solicitada a redefinição da palavra-passe da sua conta.",
     "Your email address is not verified.": "Seu endereço de e-mail não está verificado.",
     "Whoops!": "Ops!"
-  }
+}

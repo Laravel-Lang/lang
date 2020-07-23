@@ -10,7 +10,7 @@ In this repository, you can find the lang files for the framework PHP, [Laravel 
 ## Install
 
 #### Via Composer
-In your project directory, install the package to your Laravel project with composer using following command based on the version of Laravel you are using:
+Install the Laravel-lang package to your Laravel project with composer using command from the table below based on the version of Laravel you are using:
 
 | Laravel version                         | Composer command                             |
 | --------------------------------------- | -------------------------------------------- |

@@ -20,7 +20,9 @@ In this repository, you can find the lang files for the framework PHP, [Laravel 
 
 ##### Copy files
 After adding the dependency using composer (as described above) to your application you can find the language files under the directory "`vendor/caouecs/laravel-lang`".
+
 Copy the folders (and JSON files) of languages that you want to use, into the directory `resources/lang` of your Laravel application (or `app/lang` in Laravel 4).
+
 
 #### Via GitHub
 
@@ -30,6 +32,7 @@ Copy the folders (and JSON files) of languages that you want to use, into the di
     * `laravel4` for Laravel 4 project
     * `master` for Laravel 5, 6, 7 projects
 * Copy the folders of languages that you want, in `resources/lang` folder of your Laravel application (or `app/lang` in Laravel 4).
+
 
 #### Via SVN
 
@@ -45,6 +48,7 @@ svn export https://github.com/caouecs/Laravel-lang/branches/laravel4/[language-c
 
 Replace `[language-code]` by any of the languages listed [here](src).
 
+
 ## Usage [Laravel only]
 
 In the file *config/app.php*, change the value of *locale* by the short name of your language (*app/config/app.php* in Laravel 4).
@@ -54,9 +58,11 @@ In the file *config/app.php*, change the value of *locale* by the short name of 
 
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
+
 ## Status of files
 
 * Check the [todo.md](todo.md) file to see the missing translations.
+
 
 ## Projects based on this package
 

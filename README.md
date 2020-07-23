@@ -2,23 +2,25 @@
 
 In this repository, you can find the lang files for the framework PHP, [Laravel 4/5/6/7](https://laravel.com).
 
-## New
+## News
 
-* in version 6.1, we propose a new file by language: `validation-inline.php` ( see #1268 )
-* in version 7, we propose new directory names to follow ISO-15897 ( see #1269 )
+* In Laravel version 6.1, we propose a new file by language: `validation-inline.php` ( see #1268 )
+* in Laravel version 7, we propose new directory names to follow ISO-15897 ( see #1269 )
 
 ## Install
 
 #### Via Composer
-* For Laravel 7.x and new directory names : run `composer require caouecs/laravel-lang:~7.0` in your project folder
+* For Laravel 7.x and new directory names : Install the package by running `composer require caouecs/laravel-lang:~7.0` in your project
 * For Laravel 7.x : run `composer require caouecs/laravel-lang:~6.1` in your project folder
 * For Laravel 6.x : run `composer require caouecs/laravel-lang:~5.0` in your project folder
 * For Laravel 5.8 : run `composer require caouecs/laravel-lang:~4.0` in your project folder
 * For Laravel 5.1-5.7 : run `composer require caouecs/laravel-lang:~3.0` in your project folder
 * For Laravel 5 : run `composer require caouecs/laravel-lang:~2.0` in your project folder
 * For Laravel 4 : run `composer require caouecs/laravel-lang:~1.0` in your project folder
-* Files of languages are in "vendor/caouecs/laravel-lang" directory
-* Copy the folders of languages that you want, in the *resources/lang* folder of your Laravel application (*app/lang* in Laravel 4).
+
+##### Copy files
+After adding the dependency using composer (as described above) to your application you can find the language files under the directory "`vendor/caouecs/laravel-lang`".
+Copy the folders (and JSON files) of languages that you want to use, into the directory `resources/lang` of your Laravel application (or `app/lang` in Laravel 4).
 
 #### Via GitHub
 
@@ -27,7 +29,7 @@ In this repository, you can find the lang files for the framework PHP, [Laravel 
 * Choose the branch:
     * `laravel4` for Laravel 4 project
     * `master` for Laravel 5, 6, 7 projects
-* Copy the folders of languages that you want, in *resources/lang* folder of your Laravel application (*app/lang* in Laravel 4).
+* Copy the folders of languages that you want, in `resources/lang` folder of your Laravel application (or `app/lang` in Laravel 4).
 
 #### Via SVN
 

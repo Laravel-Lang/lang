@@ -36,7 +36,7 @@ return [
     'date_format'    => 'Isto não corresponde ao formato :format.',
     'different'      => 'Este valor deve ser diferente de :other.',
     'digits'         => 'Este valor deve ter :digits digitos.',
-    'digits_between' => 'Este valor deve estar entre :min ou :max digitos.',
+    'digits_between' => 'Este valor deve estar entre :min e :max digitos.',
     'dimensions'     => 'Esta imagem tem dimensões inválidas.',
     'distinct'       => 'Este campo tem um valor duplicado.',
     'email'          => 'Este deve ser um endereço de e-mail válido.',

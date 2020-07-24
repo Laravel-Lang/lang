@@ -39,7 +39,7 @@ return [
     'digits_between' => 'Este valor deve estar entre :min ou :max digitos.',
     'dimensions'     => 'Esta imagem tem dimensões inválidas.',
     'distinct'       => 'Este campo tem um valor duplicado.',
-    'email'          => 'Este deve ser um endereço de email válido.',
+    'email'          => 'Este deve ser um endereço de e-mail válido.',
     'ends_with'      => 'Isso deve terminar com um dos seguintes valores :values.',
     'exists'         => 'O valor selecionado é inválido.',
     'file'           => 'O conteúdo deve ser um ficheiro.',

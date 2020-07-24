@@ -38,7 +38,7 @@ return [
     'digits_between' => 'O campo :attribute deverá conter entre :min a :max caracteres.',
     'dimensions'     => 'O campo :attribute deverá conter uma dimensão de imagem válida.',
     'distinct'       => 'O campo :attribute contém um valor duplicado.',
-    'email'          => 'O campo :attribute não contém um endereço de correio eletrónico válido.',
+    'email'          => 'O campo :attribute não contém um endereço de e-mail válido.',
     'ends_with'      => 'O campo :attribute deverá terminar com : :values.',
     'exists'         => 'O valor selecionado para o campo :attribute é inválido.',
     'file'           => 'O campo :attribute deverá conter um ficheiro.',
@@ -145,6 +145,5 @@ return [
     |
     */
 
-    'attributes' => [
-    ],
+    'attributes' => [],
 ];

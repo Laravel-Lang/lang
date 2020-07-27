@@ -14,7 +14,7 @@ return [
 
     'reset'     => 'Fjalëkalimi u ndryshua!',
     'sent'      => 'Adresa për ndryshimin e fjalëkalimit u dërgua!',
-    'throttled' => 'Please wait before retrying.',
+    'throttled' => 'Ju lutemi prisni para se të provoni përsëri.',
     'token'     => 'Ky tallon për ndryshimin e fjalëkalimit është i pasaktë.',
-    'user'      => 'Nuk mund të gjejmë një përdorues me atë adres email-i.',
+    'user'      => 'Nuk mund të gjejmë një përdorues me atë adresë email-i.',
 ];

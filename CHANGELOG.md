@@ -14,11 +14,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
- * #1290 [pl] Translate validation-inline; tweak some validation translations
- * #1291 [pt_BR] Update validation-inline
- * #1294 Update readme
- * #1295 [pt] Update json, validation-inline, validation and passwords
- * #1297 [sq] Update auth, passwords and validation
+ * feature: #1290 [pl] Translate validation-inline; tweak some validation translations
+ * feature: #1291 [pt_BR] Update validation-inline
+ * feature: #1294 Update readme
+ * feature: #1295 [pt] Update json, validation-inline, validation and passwords
+ * feature: #1297 [sq] Update auth, passwords and validation
 
 ## [7.0.1] - 2020-07-14
 

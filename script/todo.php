@@ -24,7 +24,6 @@ class Storage
     public function store(string $path, string $content): void
     {
         $path = $this->realpath($path);
-
         file_put_contents($path, $content);
     }
 

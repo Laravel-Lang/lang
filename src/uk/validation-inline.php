@@ -90,7 +90,7 @@ return [
         'string'  => 'The string must be at least :min characters.',
         'array'   => 'The value must have at least :min items.',
     ],
-    'not_in'               => 'The selected value is invalid.',
+    'not_in'               => 'Вибране значення недійсне.',
     'not_regex'            => 'This format is invalid.',
     'numeric'              => 'This must be a number.',
     'password'             => 'The password is incorrect.',

@@ -11,7 +11,7 @@ return [
     */
 
     'Laravel'=> 'लाराभेल',
-    'Welcome'=> 'स्वागत',
+    'Welcome'=> 'स्वागत छ ',
     'Login' => 'लगइन',
     'Register'=> 'दर्ता',
     'Docs'=> 'कागजात',

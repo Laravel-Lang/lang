@@ -21,8 +21,8 @@ return [
     'alpha_num'       => ':attribute मा अक्षर र संख्याहरू मात्र हुनसक्छ।',
     'array'           => ':attribute एर्रे हुनुपर्छ।',
     'before'          => ':attribute को मिति :date भन्दा अघि हुनुपर्छ।',
-    'before_or_equal' => ':attribute मिति भन्दा अघि वा बराबर मिति हुनुपर्दछ। ',
-    'between' => [
+    'before_or_equal' => ':attribute मिति भन्दा अघि वा बराबर :date हुनुपर्दछ। ',
+    'between'         => [
         'numeric' => ':attribute :min र :maxको बिचमा हुनुपर्छ।',
         'file'    => ':attribute :min र :max किलोबाइट्स को बिचमा हुनुपर्छ।',
         'string'  => ':attribute :min र :max वर्णको बिचमा हुनुपर्छ।',

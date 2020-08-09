@@ -92,6 +92,7 @@ return [
     'not_in'               => 'घेतलेला :attribute वैध नाही.',
     'not_regex'            => ':attribute प्रारूप वैध नाही.',
     'numeric'              => ':attribute एक संख्या असावी.',
+    'password'             => 'The password is incorrect.',
     'present'              => ':attribute फील्ड उपस्थित असावी.',
     'regex'                => ':attribute फॉर्मेट वैध नाही.',
     'required'             => ':attribute फील्ड आवश्यक आहे.',

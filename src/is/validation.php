@@ -92,6 +92,7 @@ return [
     'not_in'               => 'Reiturinn :attribute er ógildur.',
     'not_regex'            => ':attribute sniðið er ógilt.',
     'numeric'              => 'Reiturinn :attribute verður að vera tala.',
+    'password'             => 'The password is incorrect.',
     'present'              => ':attribute reiturinn verður að vera til staðar.',
     'regex'                => 'Reiturinn :attribute er ekki á réttu formi.',
     'required'             => 'Reiturinn :attribute er nauðsynlegur.',

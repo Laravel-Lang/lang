@@ -92,6 +92,7 @@ return [
     'not_in'               => 'Den valgte :attribute er ugyldig.',
     'not_regex'            => 'Formatet på :attribute er ugyldig.',
     'numeric'              => ':attribute skal vere eit tal.',
+    'password'             => 'The password is incorrect.',
     'present'              => ':attribute må vere til stades.',
     'regex'                => 'Formatet på :attribute er ugyldig.',
     'required'             => ':attribute må fyllast ut.',

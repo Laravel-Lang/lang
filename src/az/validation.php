@@ -92,6 +92,7 @@ return [
     'not_in'               => ' seçilmiş :attribute yanlışdır',
     'not_regex'            => 'The :attribute format is invalid.',
     'numeric'              => ' :attribute rəqəmlərdən ibarət olmalıdır',
+    'password'             => 'The password is incorrect.',
     'present'              => ' :attribute iştirak etməlidir',
     'regex'                => ' :attribute formatı yanlışdır',
     'required'             => ' :attribute mütləqdir',

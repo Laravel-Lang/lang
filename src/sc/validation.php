@@ -92,6 +92,7 @@ return [
     'not_in'               => 'Su balore seberadu pro :attribute no est bàlidu.',
     'not_regex'            => 'The :attribute format is invalid.',
     'numeric'              => ':attribute depet èssere unu nùmeru.',
+    'password'             => 'The password is incorrect.',
     'present'              => 'The :attribute field must be present.',
     'regex'                => 'Su formadu de su campu :attribute no est bàlidu.',
     'required'             => ':attribute est pedidu.',

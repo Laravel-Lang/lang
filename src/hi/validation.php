@@ -92,6 +92,7 @@ return [
     'not_in'               => 'चुना गया :attribute अमान्य है।',
     'not_regex'            => ':attribute प्रारूप अमान्य है।',
     'numeric'              => ':attribute एक संख्या होनी चाहिए।',
+    'password'             => 'The password is incorrect.',
     'present'              => ':attribute फील्ड मौजूद होना चाहिए।',
     'regex'                => ':attribute फॉर्मेट अमान्य है।',
     'required'             => ':attribute फील्ड आवश्यक होता है।',

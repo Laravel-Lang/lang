@@ -92,6 +92,7 @@ return [
     'not_in'               => 'নির্বাচিত :attribute অবৈধ।',
     'not_regex'            => 'The :attribute format is invalid.',
     'numeric'              => ':attribute একটি সংখ্যা হতে হবে।',
+    'password'             => 'The password is incorrect.',
     'present'              => ':attribute ক্ষেত্র উপস্থিত থাকা আবশ্যক।',
     'regex'                => ':attribute বিন্যাস অবৈধ।',
     'required'             => ':attribute স্থানটি পূরণ করা বাধ্যতামূলক।',

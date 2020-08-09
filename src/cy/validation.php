@@ -92,6 +92,7 @@ return [
     'not_in'               => 'Nid yw :attribute yn ddilys.',
     'not_regex'            => 'The :attribute format is invalid.',
     'numeric'              => 'Rhaid i :attribute fod yn rif.',
+    'password'             => 'The password is incorrect.',
     'present'              => 'The :attribute field must be present.',
     'regex'                => 'Nid yw fformat :attribute yn ddilys.',
     'required'             => 'Rhaid cynnwys :attribute.',

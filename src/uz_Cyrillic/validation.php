@@ -92,6 +92,7 @@ return [
     'not_in'               => ':Attribute майдони учун танланган қиймат хато.',
     'not_regex'            => 'The :attribute format is invalid.',
     'numeric'              => ':Attribute майдони сон бўлиши керак.',
+    'password'             => 'The password is incorrect.',
     'present'              => ':Attribute майдони кўрсатилиши керак.',
     'regex'                => ':Attribute майдони хато форматда.',
     'required'             => ':Attribute майдони тўлдирилиши шарт.',

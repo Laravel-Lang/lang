@@ -91,6 +91,7 @@ return [
     'not_in'               => 'මෙම තෝරා ඇත :attribute අවලංගුයි.',
     'not_regex'            => 'මෙම :attribute ආකෘතිය අවලංගුයි.',
     'numeric'              => 'මෙම :attribute අංකයක් විය යුතුය.',
+    'password'             => 'The password is incorrect.',
     'present'              => 'මෙම :attribute ක්ෂේත්රයයි තිබිය යුතුය.',
     'regex'                => 'මෙම :attribute ආකෘතිය අවලංගුයි.',
     'required'             => 'මෙම :attribute ක්ෂේත්රයයි අවශ්යයි.',

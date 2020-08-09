@@ -92,6 +92,7 @@ return [
     'not_in'               => 'בחירת ה-:attribute אינה תקפה.',
     'not_regex'            => 'הפורמט של :attribute איננו חוקי.',
     'numeric'              => 'שדה :attribute חייב להיות מספר.',
+    'password'             => 'The password is incorrect.',
     'present'              => 'שדה :attribute חייב להיות קיים.',
     'regex'                => 'שדה :attribute בעל פורמט שאינו תקין.',
     'required'             => 'שדה :attribute הוא חובה.',

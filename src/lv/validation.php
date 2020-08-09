@@ -92,6 +92,7 @@ return [
     'not_in'               => ' izvēlieties :attribute ir nederīgs.',
     'not_regex'            => ':attribute formāts ir nederīgs.',
     'numeric'              => ' :attribute jābūt skaitlim.',
+    'password'             => 'The password is incorrect.',
     'present'              => ' :attribute laikums ir nepieciešams.',
     'regex'                => ' :attribute formāts ir nederīgs.',
     'required'             => ' :attribute laukums ir nepieciešams.',

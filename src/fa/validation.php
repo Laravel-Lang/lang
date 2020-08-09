@@ -92,6 +92,7 @@ return [
     'not_in'               => ':attribute انتخاب شده، معتبر نیست.',
     'not_regex'            => 'فرمت :attribute معتبر نیست.',
     'numeric'              => ':attribute باید عدد یا رشته‌ای از اعداد باشد.',
+    'password'             => 'The password is incorrect.',
     'present'              => 'فیلد :attribute باید در پارامترهای ارسالی وجود داشته باشد.',
     'regex'                => 'فرمت :attribute معتبر نیست.',
     'required'             => 'فیلد :attribute الزامی است.',

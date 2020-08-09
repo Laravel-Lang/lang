@@ -92,6 +92,7 @@ return [
     'not_in'               => 'Odabrani element polja :attribute nije validan.',
     'not_regex'            => 'The :attribute format is invalid.',
     'numeric'              => 'Polje :attribute mora biti broj.',
+    'password'             => 'The password is incorrect.',
     'present'              => 'Polje :attribute mora postojati.',
     'regex'                => 'Format polja :attribute nije validan.',
     'required'             => 'Polje :attribute je obavezno.',

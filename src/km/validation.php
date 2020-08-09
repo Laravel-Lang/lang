@@ -92,6 +92,7 @@ return [
     'not_in'               => 'ការជ្រើសរើស :attribute គឺត្រឹមត្រូវ។',
     'not_regex'            => 'The :attribute format is invalid.',
     'numeric'              => ':attribute ត្រូវតែជាលេខ។',
+    'password'             => 'The password is incorrect.',
     'present'              => 'The :attribute field must be present.',
     'regex'                => ':attribute ទំរងមិនត្រឹមត្រូវ។',
     'required'             => 'ទំរង់ :attribute នេះគឺទាមទារឲ្យមាន។',

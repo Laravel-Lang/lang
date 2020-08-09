@@ -91,6 +91,7 @@ return [
     'not_in'               => ':attribute موجود.',
     'not_regex'            => 'فورمول :attribute غلط.',
     'numeric'              => 'باید:attribute یو شمېره.',
+    'password'             => 'The password is incorrect.',
     'present'              => 'باید چمتو شی :attribute.',
     'regex'                => 'فورمول :attribute .غير صحيح.',
     'required'             => ':attribute اړینه ده.',

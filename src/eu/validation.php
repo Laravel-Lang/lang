@@ -92,6 +92,7 @@ return [
     'not_in'               => ':attribute baliogabea da.',
     'not_regex'            => ':attribute formatua baliogabea da.',
     'numeric'              => ':attribute zenbakizkoa izan behar da.',
+    'password'             => 'The password is incorrect.',
     'present'              => ':attribute ezin da hutsik egon.',
     'regex'                => ':attribute baliogabea da.',
     'required'             => ':attribute derrigorrezkoa da.',

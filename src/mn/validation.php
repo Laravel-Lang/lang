@@ -92,6 +92,7 @@ return [
     'not_in'               => 'Буруу :attribute сонгогдсон байна.',
     'not_regex'            => 'The :attribute format is invalid.',
     'numeric'              => ':Attribute талбарт тоон утга оруулна уу.',
+    'password'             => 'The password is incorrect.',
     'present'              => ':Attribute талбар байх шаардлагатай.',
     'regex'                => ':Attribute талбарт оруулсан утга буруу байна.',
     'required'             => ':Attribute талбар шаардлагатай.',

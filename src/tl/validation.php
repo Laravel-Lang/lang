@@ -92,6 +92,7 @@ return [
     'not_in'               => 'Ang piniling :attribute ay imbalido.',
     'not_regex'            => 'The :attribute format is invalid.',
     'numeric'              => 'Ang :attribute ay dapat isang numero.',
+    'password'             => 'The password is incorrect.',
     'present'              => 'Ang :attribute ng attribute ay dapat naroon.',
     'regex'                => 'Ang :attribute ng attribute ay imbalido.',
     'required'             => 'Ang :attribute ng attribute ay kailangan.',

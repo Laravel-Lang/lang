@@ -92,6 +92,7 @@ return [
     'not_in'               => 'Избраното поле :attribute е невалидно.',
     'not_regex'            => 'Форматът на :attribute е невалиден.',
     'numeric'              => 'Полето :attribute трябва да бъде число.',
+    'password'             => 'The password is incorrect.',
     'present'              => 'Полето :attribute трябва да съествува.',
     'regex'                => 'Полето :attribute е в невалиден формат.',
     'required'             => 'Полето :attribute е задължително.',

@@ -92,6 +92,7 @@ return [
     'not_in'               => ':attribute seleccionado non é válido.',
     'not_regex'            => 'O formato de :attribute non é válido.',
     'numeric'              => ':attribute debe ser un número.',
+    'password'             => 'The password is incorrect.',
     'present'              => 'O campo :attribute debe estar presente.',
     'regex'                => 'O formato de :attribute non é válido.',
     'required'             => 'O campo :attribute é obrigatorio.',

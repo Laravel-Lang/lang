@@ -4,6 +4,7 @@
   "Before proceeding, please check your email for a verification link.": "Før du fortsætter bedes du verificere din konto. Tjek din indbakke.",
   "click here to request another": "klik her for at anmode om ny",
   "Confirm Password": "Bekræft password",
+  "Dashboard": "Dashboard",
   "E-Mail Address": "Email-adresse",
   "Forbidden": "Forbudt",
   "Forgot Your Password?": "Glemt dit password?",
@@ -41,6 +42,7 @@
   "Verify Email Address": "Bekræft email-adresse",
   "Verify Your Email Address": "Bekræft din email-adresse",
   "We won't ask for your password again for a few hours.": "Vi vil ikke forespørge dit password indenfor de næste par timer.",
+  "You are logged in!": "You are logged in!",
   "You are receiving this email because we received a password reset request for your account.": "Du modtager denne email fordi vi har modtaget en anmodning om nulstilling af passwordet for din konto.",
   "Your email address is not verified.": "Din email-adresse er endnu ikke verificeret.",
   "Whoops!": "Ups!"

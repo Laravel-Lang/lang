@@ -92,6 +92,7 @@ return [
     'not_in'               => 'Қиммати интихобкардаи :attribute нодуруст мебошад.',
     'not_regex'            => 'The :attribute format is invalid.',
     'numeric'              => 'Қиммати :attribute бояд адад бошад.',
+    'password'             => 'The password is incorrect.',
     'present'              => 'Қиммати :attribute бояд мавҷуд бошад.',
     'regex'                => 'Формати :attribute нодуруст мебошад.',
     'required'             => ':attribute бояд дорои қиммат бошад.',

@@ -92,7 +92,7 @@ return [
     'not_in'               => 'छानिएको :attribute अमान्य छ।',
     'not_regex'            => ':attribute ढाँचा अवैध छ.',
     'numeric'              => ':attribute संख्या हुनुपर्छ।',
-    'password'             => 'The password is incorrect.',
+    'password'             => 'पासवर्ड गलत छ।',
     'present'              => ':attribute क्षेत्र उपस्थित हुनुपर्दछ.',
     'regex'                => ':attribute को ढाँचा मिलेन।',
     'required'             => ':attribute दिइएको हुनुपर्छ।',

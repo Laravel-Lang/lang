@@ -92,7 +92,7 @@ return [
     'not_in'               => ':attribute përzgjedhur është i/e pasaktë.',
     'not_regex'            => 'Formati i :attribute është i pasaktë.',
     'numeric'              => ':attribute duhet të jetë një numër.',
-    'password'             => 'The password is incorrect.',
+    'password'             => 'Fjalëkalimi është i pasaktë.',
     'present'              => ':attribute duhet të jetë prezent/e.',
     'regex'                => 'Formati i :attribute është i pasaktë.',
     'required'             => 'Fusha :attribute është e kërkuar.',

@@ -9,65 +9,60 @@ In this repository, you can find the lang files for the framework PHP, [Laravel 
 
 ## Install
 
-#### Via Composer
+### Via Composer
+
 Install the Laravel-lang package to your Laravel project with composer using command from the table below based on the version of Laravel you are using:
 
-| Laravel version                         | Composer command                             |
-| --------------------------------------- | -------------------------------------------- |
-| Laravel 7.x and new directory names | `composer require caouecs/laravel-lang:~7.0` |
-| Laravel 7.x                             | `composer require caouecs/laravel-lang:~6.1` |
-| Laravel 6.x                             | `composer require caouecs/laravel-lang:~5.0` |
-| Laravel 5.8                             | `composer require caouecs/laravel-lang:~4.0` |
-| Laravel 5.1-5.7                         | `composer require caouecs/laravel-lang:~3.0` |
-| Laravel 5                               | `composer require caouecs/laravel-lang:~2.0` |
-| Laravel 4                               | `composer require caouecs/laravel-lang:~1.0` |
+| Laravel version                     | Composer command                                  |
+|-------------------------------------|---------------------------------------------------|
+| Laravel 7.x and new directory names | `composer require laravel-lang/lang:~7.0` |
+| Laravel 7.x                         | `composer require laravel-lang/lang:~6.1` |
+| Laravel 6.x                         | `composer require laravel-lang/lang:~5.0` |
+| Laravel 5.8                         | `composer require laravel-lang/lang:~4.0` |
+| Laravel 5.1-5.7                     | `composer require laravel-lang/lang:~3.0` |
+| Laravel 5                           | `composer require laravel-lang/lang:~2.0` |
+| Laravel 4                           | `composer require laravel-lang/lang:~1.0` |
 
+#### Copy files
 
-##### Copy files
-After adding the dependency using composer (as described above) to your application you can find the language files under the directory `vendor/caouecs/laravel-lang`.
+After adding the dependency using composer (as described above) to your application you can find the language files under the directory `vendor/laravel-lang/lang`.
 
 Copy the folders (and JSON files) of languages that you want to use, into the directory `resources/lang` of your Laravel application (or `app/lang` in Laravel 4).
 
+### Via GitHub
 
-#### Via GitHub
-
-* Clone the [GitHub repository](https://github.com/caouecs/laravel-lang/) : *git clone https://github.com/caouecs/Laravel-lang.git*
-* Or download the [zip file](https://github.com/caouecs/laravel-lang/archive/master.zip)
+* Clone the [GitHub repository](https://github.com/Laravel-Lang/lang/) : *git clone https://github.com/Laravel-Lang/lang.git*
+* Or download the [zip file](https://github.com/Laravel-Lang/lang/archive/master.zip)
 * Choose the branch:
     * `laravel4` for Laravel 4 project
     * `master` for Laravel 5, 6, 7 projects
 * Copy the folders of languages that you want, in `resources/lang` folder of your Laravel application (or `app/lang` in Laravel 4).
 
-
-#### Via SVN
+### Via SVN
 
 Run this in your project directory:
 
 ```sh
 # Laravel 5:
-svn export https://github.com/caouecs/Laravel-lang/trunk/src/[language-code] resources/lang/[language-code]
+svn export https://github.com/Laravel-Lang/lang/trunk/src/[language-code] resources/lang/[language-code]
 
 # Laravel 4:
-svn export https://github.com/caouecs/Laravel-lang/branches/laravel4/[language-code] app/lang/[language-code]
+svn export https://github.com/Laravel-Lang/lang/branches/laravel4/[language-code] app/lang/[language-code]
 ```
 
 Replace `[language-code]` by any of the languages listed [here](src).
-
 
 ## Usage [Laravel only]
 
 In the file *config/app.php*, change the value of *locale* by the short name of your language (*app/config/app.php* in Laravel 4).
 
-
 ## Contributing
 
-Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
-
+Please see [CONTRIBUTING](https://github.com/Laravel-Lang/lang/CONTRIBUTING.md) for details.
 
 ## Status of files
 
-* Check the [todo.md](todo.md) file to see the missing translations.
-
+* Check the [todo.md](https://github.com/Laravel-Lang/lang/todo.md) file to see the missing translations.
 
 ## Projects based on this package
 
@@ -77,5 +72,5 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Credits
 
-- [caouecs](https://github.com/caouecs)
-- [All Contributors](https://github.com/caouecs/Laravel-lang/graphs/contributors)
+- [Referents by language](https://github.com/Laravel-Lang/lang/referents.md)
+- [All Contributors](https://github.com/Laravel-Lang/lang/graphs/contributors)

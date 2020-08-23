@@ -5,6 +5,15 @@ All notable changes to this project will be documented in this file, since v7.0.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [7.0.3] - 2020-08-23
+
+### Changed
+
+ * feature: #1302 #1306 #1307 [Ne] Translated to Nepali Language (Validation-inline and json)
+ * feature: #1310 [da] passwords.throttlled
+ * feature: #1312 [es] validation and validation-inline
+ * feature: #1313 [sq] validation-inline and validation translations
+
 ## [7.0.2] - 2020-08-05
 
 ### Added
@@ -41,7 +50,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
  * feature: #1269 Rename locale folders following ISO 15897 format
 
-[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/7.0.2...master
+[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/7.0.3...master
+[7.0.3]: https://github.com/caouecs/Laravel-lang/compare/7.0.2...7.0.3
 [7.0.2]: https://github.com/caouecs/Laravel-lang/compare/7.0.1...7.0.2
 [7.0.1]: https://github.com/caouecs/Laravel-lang/compare/7.0.0...7.0.1
 [7.0.0]: https://github.com/caouecs/Laravel-lang/compare/6.1.4...7.0.0

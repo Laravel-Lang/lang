@@ -11,8 +11,8 @@
 | ca | |
 | cs | |
 | cy | |
-| da | @jensstigaard  |
-| de | @WhereIsLucas |
+| da | [@jensstigaard](https://github.com/jensstigaard)  |
+| de | [@WhereIsLucas](https://github.com/WhereIsLucas) |
 | de_CH | |
 | el | |
 | es | |
@@ -21,7 +21,7 @@
 | fa | |
 | fi | |
 | fil | |
-| fr | @caouecs, @WhereIsLucas |
+| fr | [@caouecs](https://github.com/caouecs), [@WhereIsLucas](https://github.com/WhereIsLucas) |
 | gl | |
 | he | |
 | hi | |
@@ -46,14 +46,14 @@
 | ms | |
 | nb | |
 | ne | |
-| nl | @WhereIsLucas |
+| nl | [@WhereIsLucas](https://github.com/WhereIsLucas) |
 | nn | |
 | pl | |
 | ps | |
-| pt | @jorgercosta |
+| pt | [@jorgercosta](https://github.com/jorgercosta) |
 | pt_BR | |
 | ro | |
-| ru | @andrey-helldar |
+| ru | [@andrey-helldar](https://github.com/andrey-helldar) |
 | sc | |
 | si | |
 | sk | |
@@ -69,11 +69,11 @@
 | tl | |
 | tr | |
 | ug | |
-| uk | @MrAlKuz |
+| uk | [@MrAlKuz](https://github.com/MrAlKuz) |
 | ur | |
 | uz_Cyrillic | |
 | uz_Latin | |
 | vi | |
-| zh_CN | @overtrue |
-| zh_HK | @overtrue |
-| zh_TW | @overtrue |
+| zh_CN | [@overtrue](https://github.com/overtrue) |
+| zh_HK | [@overtrue](https://github.com/overtrue) |
+| zh_TW | [@overtrue](https://github.com/overtrue) |

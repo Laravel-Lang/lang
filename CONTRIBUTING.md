@@ -2,7 +2,7 @@
 
 Contributions are **welcome** and will be fully **credited**.
 
-We accept contributions via Pull Requests on [Github](https://github.com/Laravel-Lang/Laravel-lang).
+We accept contributions via Pull Requests on [Github](https://github.com/Laravel-Lang/lang).
 
 ## How can I add a language in this project ?
 

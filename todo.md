@@ -6,7 +6,7 @@
 [gl ❗](#gl)|[he ❗](#he)|[hi ❗](#hi)|[hr ❗](#hr)|[hu ❗](#hu)|[hy ❗](#hy)|[id ❗](#id)|[is ❗](#is)|[it ❗](#it)|[ja ❗](#ja)
 [ka ❗](#ka)|[kk ❗](#kk)|[km ❗](#km)|[kn ❗](#kn)|[ko ❗](#ko)|[lt ❗](#lt)|[lv ❗](#lv)|[me ❗](#me)|[mk ❗](#mk)|[mn ❗](#mn)
 [mr ❗](#mr)|[ms ❗](#ms)|[nb ❗](#nb)|[ne ✔](#ne)|[nl ❗](#nl)|[nn ❗](#nn)|[pl ✔](#pl)|[ps ❗](#ps)|[pt ✔](#pt)|[pt_BR ✔](#pt_BR)
-[ro ❗](#ro)|[ru ✔](#ru)|[sc ❗](#sc)|[si ❗](#si)|[sk ❗](#sk)|[sl ❗](#sl)|[sq ❗](#sq)|[sr_Cyrillic ❗](#sr_Cyrillic)|[sr_Latin ❗](#sr_Latin)|[sv ❗](#sv)
+[ro ❗](#ro)|[ru ✔](#ru)|[sc ❗](#sc)|[si ❗](#si)|[sk ❗](#sk)|[sl ❗](#sl)|[sq ❗](#sq)|[sr_Cyrillic ✔](#sr_Cyrillic)|[sr_Latin ✔](#sr_Latin)|[sv ❗](#sv)
 [sw ❗](#sw)|[tg ❗](#tg)|[th ❗](#th)|[tk ❗](#tk)|[tl ❗](#tl)|[tr ❗](#tr)|[ug ❗](#ug)|[uk ✔](#uk)|[ur ❗](#ur)|[uz_Cyrillic ❗](#uz_Cyrillic)
 [uz_Latin ❗](#uz_Latin)|[vi ❗](#vi)|[zh_CN ✔](#zh_CN)|[zh_HK ✔](#zh_HK)|[zh_TW ✔](#zh_TW)
 
@@ -4843,149 +4843,15 @@ into your web browser:
 
 ## sr_Cyrillic
 
-<details>
-<summary>show</summary>
 
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt
- * validation-inline : gte
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt
- * validation-inline : lte
- * validation-inline : max
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
+All lines are translated 😊
 
-[ [to top](#todo-list) ]
-</details>
 
 ## sr_Latin
 
-<details>
-<summary>show</summary>
 
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt
- * validation-inline : gte
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt
- * validation-inline : lte
- * validation-inline : max
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
+All lines are translated 😊
 
-[ [to top](#todo-list) ]
-</details>
 
 ## sv
 

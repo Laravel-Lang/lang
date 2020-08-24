@@ -92,6 +92,7 @@ return [
     'not_in'               => 'Valitud :attribute on vigane.',
     'not_regex'            => ':attribute vorming on vale',
     'numeric'              => ':attribute peab olema number.',
+    'password'             => 'The password is incorrect.',
     'present'              => ':attribute väli peab olema esindatud.',
     'regex'                => ':attribute vorming on vigane.',
     'required'             => ':attribute väli on nõutud.',

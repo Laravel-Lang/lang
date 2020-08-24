@@ -93,6 +93,7 @@ return [
     'not_in'               => 'Выбранае значэнне для :attribute памылкова.',
     'not_regex'            => 'The :attribute format is invalid.',
     'numeric'              => 'Поле :attribute павінна быць лікам.',
+    'password'             => 'The password is incorrect.',
     'present'              => 'The :attribute field must be present.',
     'regex'                => 'Поле :attribute мае памылковы фармат.',
     'required'             => 'Поле :attribute абавязкова для запаўнення.',

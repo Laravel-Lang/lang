@@ -92,6 +92,7 @@ return [
     'not_in'               => 'ข้อมูล ที่เลือกจาก :attribute ไม่ถูกต้อง',
     'not_regex'            => 'ข้อมูล :attribute มีรูปแบบไม่ถูกต้อง.',
     'numeric'              => 'ข้อมูล :attribute ต้องเป็นตัวเลข',
+    'password'             => 'The password is incorrect.',
     'present'              => 'ข้อมูล :attribute ต้องเป็นปัจจุบัน',
     'regex'                => 'ข้อมูล :attribute มีรูปแบบไม่ถูกต้อง',
     'required'             => 'ข้อมูล :attribute จำเป็นต้องกรอก',

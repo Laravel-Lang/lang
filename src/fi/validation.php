@@ -92,6 +92,7 @@ return [
     'not_in'               => 'Kentän :attribute arvo on virheellinen.',
     'not_regex'            => 'Kentän :attribute formaatti on virheellinen.',
     'numeric'              => 'Kentän :attribute arvon tulee olla numero.',
+    'password'             => 'The password is incorrect.',
     'present'              => 'Kenttä :attribute vaaditaan.',
     'regex'                => 'Kentän :attribute arvo on väärää muotoa.',
     'required'             => 'Kenttä :attribute vaaditaan.',

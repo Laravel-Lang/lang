@@ -1,18 +1,17 @@
 {
-    "name": "caouecs/laravel-lang",
+    "name": "laravel-lang/lang",
     "description": "Languages for Laravel",
     "keywords": ["laravel", "languages", "lpm", "lang"],
     "license": "MIT",
     "authors": [
         {
-            "name": "caouecs",
-            "email": "caouecs@caouecs.net"
+            "name": "Laravel-Lang Team",
+            "url": "https://github.com/Laravel-Lang"
         }
     ],
     "suggest": {
         "overtrue/laravel-lang": "Command to add languages in your project",
         "arcanedev/laravel-lang": "Translations manager and checker for Laravel 5",
-        "ablunier/laravel-lang-installer": "Command for easily add languages to a Laravel project",
         "andrey-helldar/laravel-lang-publisher": "Easy installation and update of translation files for your project"
     },
     "require": {

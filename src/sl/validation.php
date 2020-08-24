@@ -92,6 +92,7 @@ return [
     'not_in'               => 'Izbran :attribute je neveljaven.',
     'not_regex'            => 'Format :attribute je neveljaven.',
     'numeric'              => ':attribute mora biti število.',
+    'password'             => 'The password is incorrect.',
     'present'              => 'Polje :attribute mora biti prisotno.',
     'regex'                => 'Format polja :attribute je neveljaven.',
     'required'             => 'Polje :attribute je obvezno.',

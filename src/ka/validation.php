@@ -92,6 +92,7 @@ return [
     'not_in'               => 'მითითებული :attribute არასწორია.',
     'not_regex'            => ':attribute არასწორ ფორმატშია.',
     'numeric'              => ':attribute უნდა იყოს რიცხვი.',
+    'password'             => 'The password is incorrect.',
     'present'              => ':attribute უნდა არსებობდეს, თუნდაც ცარიელი.',
     'regex'                => ':attribute არ ემთხვევა ფორმატს.',
     'required'             => ':attribute აუცილებელია.',

@@ -12,6 +12,6 @@ return [
     |
     */
 
-    'failed'   => 'These credentials do not match our records.',
-    'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
+    'failed'   => 'Këto të dhëna nuk përputhen me të dhënat tona.',
+    'throttle' => 'Shumë tentime për t\'u kyçur. Ju lutem provoni përsëri pas :seconds sekondave.',
 ];

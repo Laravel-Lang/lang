@@ -92,6 +92,7 @@ return [
     'not_in'               => 'Hindi valid ang piniling :attribute.',
     'not_regex'            => 'Hindi valid ang format na :attribute.',
     'numeric'              => 'Dapat na numero ang :attribute.',
+    'password'             => 'The password is incorrect.',
     'present'              => 'Dapat na mayroon ng field na :attribute.',
     'regex'                => 'Hindi valid ang format na :attribute.',
     'required'             => 'Kinakailangan ang field na :attribute.',

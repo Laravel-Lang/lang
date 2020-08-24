@@ -58,11 +58,11 @@ In the file *config/app.php*, change the value of *locale* by the short name of 
 
 ## Contributing
 
-Please see [CONTRIBUTING](https://github.com/Laravel-Lang/lang/CONTRIBUTING.md) for details.
+Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Status of files
 
-* Check the [todo.md](https://github.com/Laravel-Lang/lang/todo.md) file to see the missing translations.
+* Check the [todo.md](todo.md) file to see the missing translations.
 
 ## Projects based on this package
 
@@ -72,5 +72,5 @@ Please see [CONTRIBUTING](https://github.com/Laravel-Lang/lang/CONTRIBUTING.md) 
 
 ## Credits
 
-- [Referents by language](https://github.com/Laravel-Lang/lang/referents.md)
+- [Referents by language](referents.md)
 - [All Contributors](https://github.com/Laravel-Lang/lang/graphs/contributors)

@@ -59,8 +59,8 @@
 | sk | |
 | sl | |
 | sq | |
-| sr_Cyrillic | |
-| sr_Latin | |
+| sr_Cyrillic | [@LukaLatkovic](https://github.com/LukaLatkovic) |
+| sr_Latin | [@LukaLatkovic](https://github.com/LukaLatkovic) |
 | sv | |
 | sw | |
 | tg | |

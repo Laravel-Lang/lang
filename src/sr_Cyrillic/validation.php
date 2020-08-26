@@ -32,7 +32,7 @@ return [
     'confirmed'      => 'Потврда поља :attribute се не поклапа.',
     'date'           => 'Поље :attribute није важећи датум.',
     'date_equals'    => 'Поље :attribute мора да буде датум: :date.',
-    'date_format'    => 'Поље :attribute не одговора према формату :формат.',
+    'date_format'    => 'Поље :attribute не одговора према формату :format.',
     'different'      => 'Поља :attribute и :other морају бити различита.',
     'digits'         => 'Поље :attribute мора садржати :digits шифри.',
     'digits_between' => 'Поље :attribute мора бити иземђу :min и :max шифри.',

@@ -4,6 +4,7 @@
   "Before proceeding, please check your email for a verification link.": "Sebelum melanjutkan, silahkan periksa surel Anda untuk tautan verifikasi.",
   "click here to request another": "Klik disini untuk meminta lagi",
   "Confirm Password": "Konfirmasi Kata Sandi",
+  "Dashboard": "Dashboard",
   "E-Mail Address": "Alamat Surel",
   "Forbidden": "Dilarang",
   "Forgot Your Password?": "Lupa Kata Sandi Anda?",
@@ -40,6 +41,7 @@
   "Verify Email Address": "Verifikasi Alamat Surel",
   "Verify Your Email Address": "Verifikasi Alamat Surel Anda",
   "We won't ask for your password again for a few hours.": "Kami tidak akan meminta lagi kata sandi Anda untuk beberapa jam.",
+  "You are logged in!": "You are logged in!",
   "You are receiving this email because we received a password reset request for your account.": "Anda menerima surel ini karena kami menerima permintan pengaturan ulang kata sandi untuk akun anda.",
   "Your email address is not verified." : "Alamat surel Anda belum terverifikasi.",
   "Whoops!": "Aduh!"

@@ -2,7 +2,7 @@
 | | | | | | | | | | |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 [ar ✔](#ar)|[az ❗](#az)|[be ❗](#be)|[bg ❗](#bg)|[bn ❗](#bn)|[bs ❗](#bs)|[ca ❗](#ca)|[cs ❗](#cs)|[cy ❗](#cy)|[da ❗](#da)
-[de ❗](#de)|[de_CH ❗](#de_CH)|[el ❗](#el)|[es ❗](#es)|[et ❗](#et)|[eu ❗](#eu)|[fa ❗](#fa)|[fi ❗](#fi)|[fil ❗](#fil)|[fr ✔](#fr)
+[de ❗](#de)|[de_CH ❗](#de_CH)|[el ❗](#el)|[es ✔](#es)|[et ❗](#et)|[eu ❗](#eu)|[fa ❗](#fa)|[fi ❗](#fi)|[fil ❗](#fil)|[fr ✔](#fr)
 [gl ❗](#gl)|[he ❗](#he)|[hi ❗](#hi)|[hr ❗](#hr)|[hu ❗](#hu)|[hy ❗](#hy)|[id ❗](#id)|[is ❗](#is)|[it ❗](#it)|[ja ❗](#ja)
 [ka ❗](#ka)|[kk ❗](#kk)|[km ❗](#km)|[kn ❗](#kn)|[ko ❗](#ko)|[lt ❗](#lt)|[lv ❗](#lv)|[me ❗](#me)|[mk ❗](#mk)|[mn ❗](#mn)
 [mr ❗](#mr)|[ms ❗](#ms)|[nb ❗](#nb)|[ne ✔](#ne)|[nl ❗](#nl)|[nn ❗](#nn)|[pl ✔](#pl)|[ps ❗](#ps)|[pt ✔](#pt)|[pt_BR ✔](#pt_BR)
@@ -1175,59 +1175,9 @@ into your web browser:
 
 ## es
 
-<details>
-<summary>show</summary>
 
- * json : A fresh verification link has been sent to your email address. : not present
- * json : All rights reserved. : not present
- * json : Before proceeding, please check your email for a verification link. : not present
- * json : click here to request another : not present
- * json : Confirm Password : not present
- * json : Dashboard : not present
- * json : E-Mail Address : not present
- * json : Forbidden : not present
- * json : Forgot Your Password? : not present
- * json : Go Home : not present
- * json : Hello! : not present
- * json : If you did not create an account, no further action is required. : not present
- * json : If you did not receive the email : not present
- * json : If you did not request a password reset, no further action is required. : not present
- * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: : not present
- * json : Invalid signature. : not present
- * json : Login : not present
- * json : Logout : not present
- * json : Name : not present
- * json : Not Found : not present
- * json : Oh no : not present
- * json : Page Expired : not present
- * json : Password : not present
- * json : Please click the button below to verify your email address. : not present
- * json : Please confirm your password before continuing. : not present
- * json : Regards : not present
- * json : Register : not present
- * json : Remember Me : not present
- * json : Reset Password : not present
- * json : Reset Password Notification : not present
- * json : Send Password Reset Link : not present
- * json : Server Error : not present
- * json : Service Unavailable : not present
- * json : This action is unauthorized. : not present
- * json : This password reset link will expire in :count minutes. : not present
- * json : Toggle navigation : not present
- * json : Too Many Attempts. : not present
- * json : Too Many Requests : not present
- * json : Unauthorized : not present
- * json : Verify Email Address : not present
- * json : Verify Your Email Address : not present
- * json : We won't ask for your password again for a few hours. : not present
- * json : You are logged in! : not present
- * json : You are receiving this email because we received a password reset request for your account. : not present
- * json : Your email address is not verified. : not present
- * json : Whoops! : not present
+All lines are translated 😊
 
-[ [to top](#todo-list) ]
-</details>
 
 ## et
 
@@ -2264,8 +2214,8 @@ into your web browser: : not present
 <details>
 <summary>show</summary>
 
- * json : Dashboard : not present
- * json : You are logged in! : not present
+ * json : Dashboard
+ * json : You are logged in!
  * validation-inline : accepted
  * validation-inline : active_url
  * validation-inline : after

@@ -66,9 +66,9 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Projects based on this package
 
-* [LaravelLang by ARCANEDEV](https://github.com/ARCANEDEV/LaravelLang) - Translations manager and checker for Laravel.
-* [Laravel-lang by overtrue](https://github.com/overtrue/laravel-lang) - Command to add languages in your project.
-* [laravel-lang-publisher by Andrey Helldar](https://github.com/andrey-helldar/laravel-lang-publisher) - Easy installation and update of translation files for your project.
+* [LaravelLang](https://github.com/ARCANEDEV/LaravelLang) by [*@arcanedev-maroc*](https://github.com/ARCANEDEV) - Translations manager and checker for Laravel.
+* [Laravel-lang](https://github.com/overtrue/laravel-lang) by [*@overtrue*](https://github.com/overtrue) - Command to add languages in your project.
+* [Lang Publisher](https://github.com/andrey-helldar/laravel-lang-publisher) by [*@andrey-helldar*](https://github.com/andrey-helldar) - Easy installation and update of translation files for your project.
 
 ## Credits
 

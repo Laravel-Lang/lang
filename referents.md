@@ -2,7 +2,7 @@
 
 | Lang | Assignee |
 | --- |:--|
-| ar | |
+| ar | [@mohamedsabil83](https://github.com/mohamedsabil83) |
 | az | |
 | be | |
 | bg | |

@@ -98,7 +98,7 @@ return [
     'regex'                => '형식이 올바르지 않습니다.',
     'required'             => '이 필드는 필수입니다.',
     'required_if'          => ':other이(가) :value 일 때 이 필드는 필수입니다.',
-    'required_unless'      => ':other이(가) :values에 없다면 :attribute 이 필드는 필수입니다.',
+    'required_unless'      => ':other이(가) :values에 없다면 이 필드는 필수입니다.',
     'required_with'        => ':values이(가) 있는 경우이 필드는 필수입니다.',
     'required_with_all'    => ':values이(가) 모두 있는 경우 이 필드는 필수입니다.',
     'required_without'     => ':values이(가) 없는 경우 이 필드는 필수입니다.',

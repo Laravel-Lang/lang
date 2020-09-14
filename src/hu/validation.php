@@ -40,7 +40,7 @@ return [
     'distinct'       => 'A(z) :attribute értékének egyedinek kell lennie!',
     'email'          => 'A(z) :attribute nem érvényes email formátum.',
     'ends_with'      => 'A(z) :attribute a következővel kell végződjön: :values',
-    'exists'         => 'A(z) :attribute már létezik.',
+    'exists'         => 'A kiválasztott :attribute érvénytelen.',
     'file'           => 'A(z) :attribute fájl kell, hogy legyen!',
     'filled'         => 'A(z) :attribute megadása kötelező!',
     'gt'             => [

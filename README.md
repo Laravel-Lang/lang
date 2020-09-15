@@ -1,6 +1,6 @@
 # Laravel-lang
 
-In this repository, you can find the lang files for the framework PHP, [Laravel 4/5/6/7](https://laravel.com).
+In this repository, you can find the lang files for the framework PHP, [Laravel 4/5/6/7/8](https://laravel.com).
 
 ## News
 

@@ -1,23 +1,42 @@
 # Todo list
 | | | | | | | | | | |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-[ar ✔](#ar)|[az ❗](#az)|[be ❗](#be)|[bg ❗](#bg)|[bn ❗](#bn)|[bs ❗](#bs)|[ca ❗](#ca)|[cs ❗](#cs)|[cy ❗](#cy)|[da ❗](#da)
-[de ❗](#de)|[de_CH ❗](#de_CH)|[el ❗](#el)|[es ✔](#es)|[et ❗](#et)|[eu ❗](#eu)|[fa ❗](#fa)|[fi ❗](#fi)|[fil ❗](#fil)|[fr ✔](#fr)
-[gl ❗](#gl)|[he ❗](#he)|[hi ❗](#hi)|[hr ❗](#hr)|[hu ❗](#hu)|[hy ❗](#hy)|[id ✔](#id)|[is ❗](#is)|[it ❗](#it)|[ja ❗](#ja)
-[ka ❗](#ka)|[kk ❗](#kk)|[km ❗](#km)|[kn ❗](#kn)|[ko ❗](#ko)|[lt ✔](#lt)|[lv ❗](#lv)|[me ❗](#me)|[mk ❗](#mk)|[mn ❗](#mn)
-[mr ❗](#mr)|[ms ❗](#ms)|[nb ❗](#nb)|[ne ✔](#ne)|[nl ❗](#nl)|[nn ❗](#nn)|[pl ✔](#pl)|[ps ❗](#ps)|[pt ✔](#pt)|[pt_BR ✔](#pt_BR)
-[ro ❗](#ro)|[ru ✔](#ru)|[sc ❗](#sc)|[si ❗](#si)|[sk ❗](#sk)|[sl ❗](#sl)|[sq ❗](#sq)|[sr_Cyrillic ✔](#sr_Cyrillic)|[sr_Latin ✔](#sr_Latin)|[sv ❗](#sv)
-[sw ❗](#sw)|[tg ❗](#tg)|[th ❗](#th)|[tk ❗](#tk)|[tl ❗](#tl)|[tr ❗](#tr)|[ug ❗](#ug)|[uk ✔](#uk)|[ur ❗](#ur)|[uz_Cyrillic ❗](#uz_Cyrillic)
-[uz_Latin ❗](#uz_Latin)|[vi ❗](#vi)|[zh_CN ✔](#zh_CN)|[zh_HK ✔](#zh_HK)|[zh_TW ✔](#zh_TW)
+[ar ❗](#ar)|[az ❗](#az)|[be ❗](#be)|[bg ❗](#bg)|[bn ❗](#bn)|[bs ❗](#bs)|[ca ❗](#ca)|[cs ❗](#cs)|[cy ❗](#cy)|[da ❗](#da)
+[de ❗](#de)|[de_CH ❗](#de_CH)|[el ❗](#el)|[es ❗](#es)|[et ❗](#et)|[eu ❗](#eu)|[fa ❗](#fa)|[fi ❗](#fi)|[fil ❗](#fil)|[fr ❗](#fr)
+[gl ❗](#gl)|[he ❗](#he)|[hi ❗](#hi)|[hr ❗](#hr)|[hu ❗](#hu)|[hy ❗](#hy)|[id ❗](#id)|[is ❗](#is)|[it ❗](#it)|[ja ❗](#ja)
+[ka ❗](#ka)|[kk ❗](#kk)|[km ❗](#km)|[kn ❗](#kn)|[ko ❗](#ko)|[lt ❗](#lt)|[lv ❗](#lv)|[me ❗](#me)|[mk ❗](#mk)|[mn ❗](#mn)
+[mr ❗](#mr)|[ms ❗](#ms)|[nb ❗](#nb)|[ne ❗](#ne)|[nl ❗](#nl)|[nn ❗](#nn)|[pl ❗](#pl)|[ps ❗](#ps)|[pt ❗](#pt)|[pt_BR ❗](#pt_BR)
+[ro ❗](#ro)|[ru ❗](#ru)|[sc ❗](#sc)|[si ❗](#si)|[sk ❗](#sk)|[sl ❗](#sl)|[sq ❗](#sq)|[sr_Cyrillic ❗](#sr_Cyrillic)|[sr_Latin ❗](#sr_Latin)|[sv ❗](#sv)
+[sw ❗](#sw)|[tg ❗](#tg)|[th ❗](#th)|[tk ❗](#tk)|[tl ❗](#tl)|[tr ❗](#tr)|[ug ❗](#ug)|[uk ❗](#uk)|[ur ❗](#ur)|[uz_Cyrillic ❗](#uz_Cyrillic)
+[uz_Latin ❗](#uz_Latin)|[vi ❗](#vi)|[zh_CN ❗](#zh_CN)|[zh_HK ❗](#zh_HK)|[zh_TW ❗](#zh_TW)
 
 
 
 
 ## ar
 
+<details>
+<summary>show</summary>
 
-All lines are translated 😊
+ * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Already registered?
+ * json : Email Password Reset Link
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Forgot your password?
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
+ * json : Resend Verification Email
+ * json : The :attribute must be a valid role.
+ * json : This password does not match our records.
+ * json : This user already belongs to the team.
+ * json : Use a recovery code
+ * json : Use an authentication code
+ * json : We were unable to find a registered user with this email address.
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
 
+[ [to top](#todo-list) ]
+</details>
 
 ## az
 
@@ -25,14 +44,19 @@ All lines are translated 😊
 <summary>show</summary>
 
  * json : A fresh verification link has been sent to your email address.
+ * json : A new verification link has been sent to the email address you provided during registration.
  * json : All rights reserved.
+ * json : Already registered?
  * json : Before proceeding, please check your email for a verification link.
  * json : click here to request another
  * json : Confirm Password
  * json : Dashboard
  * json : E-Mail Address
+ * json : Email Password Reset Link
  * json : Forbidden
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
+ * json : Forgot your password?
  * json : Go Home
  * json : Hello!
  * json : If you did not create an account, no further action is required.
@@ -49,28 +73,39 @@ into your web browser:
  * json : Page Expired
  * json : Password
  * json : Please click the button below to verify your email address.
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Regards
  * json : Register
  * json : Remember Me
- * json : Reset Password
+ * json : Resend Verification Email
  * json : Reset Password Notification
+ * json : Reset Password
  * json : Send Password Reset Link
  * json : Server Error
  * json : Service Unavailable
+ * json : The :attribute must be a valid role.
  * json : This action is unauthorized.
+ * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This user already belongs to the team.
  * json : Toggle navigation
  * json : Too Many Attempts.
  * json : Too Many Requests
  * json : Unauthorized
+ * json : Use a recovery code
+ * json : Use an authentication code
  * json : Verify Email Address
  * json : Verify Your Email Address
+ * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours.
+ * json : Whoops!
  * json : You are logged in!
  * json : You are receiving this email because we received a password reset request for your account.
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * json : Whoops!
  * passwords : throttled
  * validation : date_equals
  * validation : ends_with
@@ -156,14 +191,19 @@ into your web browser:
 <summary>show</summary>
 
  * json : A fresh verification link has been sent to your email address.
+ * json : A new verification link has been sent to the email address you provided during registration.
  * json : All rights reserved.
+ * json : Already registered?
  * json : Before proceeding, please check your email for a verification link.
  * json : click here to request another
  * json : Confirm Password
  * json : Dashboard
  * json : E-Mail Address
+ * json : Email Password Reset Link
  * json : Forbidden
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
+ * json : Forgot your password?
  * json : Go Home
  * json : Hello!
  * json : If you did not create an account, no further action is required.
@@ -180,28 +220,39 @@ into your web browser:
  * json : Page Expired
  * json : Password
  * json : Please click the button below to verify your email address.
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Regards
  * json : Register
  * json : Remember Me
- * json : Reset Password
+ * json : Resend Verification Email
  * json : Reset Password Notification
+ * json : Reset Password
  * json : Send Password Reset Link
  * json : Server Error
  * json : Service Unavailable
+ * json : The :attribute must be a valid role.
  * json : This action is unauthorized.
+ * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This user already belongs to the team.
  * json : Toggle navigation
  * json : Too Many Attempts.
  * json : Too Many Requests
  * json : Unauthorized
+ * json : Use a recovery code
+ * json : Use an authentication code
  * json : Verify Email Address
  * json : Verify Your Email Address
+ * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours.
+ * json : Whoops!
  * json : You are logged in!
  * json : You are receiving this email because we received a password reset request for your account.
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * json : Whoops!
  * passwords : throttled
  * validation : after_or_equal
  * validation : before_or_equal
@@ -297,14 +348,19 @@ into your web browser:
 <summary>show</summary>
 
  * json : A fresh verification link has been sent to your email address.
+ * json : A new verification link has been sent to the email address you provided during registration.
  * json : All rights reserved.
+ * json : Already registered?
  * json : Before proceeding, please check your email for a verification link.
  * json : click here to request another
  * json : Confirm Password
  * json : Dashboard
  * json : E-Mail Address
+ * json : Email Password Reset Link
  * json : Forbidden
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
+ * json : Forgot your password?
  * json : Go Home
  * json : Hello!
  * json : If you did not create an account, no further action is required.
@@ -321,28 +377,39 @@ into your web browser:
  * json : Page Expired
  * json : Password
  * json : Please click the button below to verify your email address.
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Regards
  * json : Register
  * json : Remember Me
- * json : Reset Password
+ * json : Resend Verification Email
  * json : Reset Password Notification
+ * json : Reset Password
  * json : Send Password Reset Link
  * json : Server Error
  * json : Service Unavailable
+ * json : The :attribute must be a valid role.
  * json : This action is unauthorized.
+ * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This user already belongs to the team.
  * json : Toggle navigation
  * json : Too Many Attempts.
  * json : Too Many Requests
  * json : Unauthorized
+ * json : Use a recovery code
+ * json : Use an authentication code
  * json : Verify Email Address
  * json : Verify Your Email Address
+ * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours.
+ * json : Whoops!
  * json : You are logged in!
  * json : You are receiving this email because we received a password reset request for your account.
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * json : Whoops!
  * validation : password
  * validation-inline : accepted
  * validation-inline : active_url
@@ -418,14 +485,19 @@ into your web browser:
 <summary>show</summary>
 
  * json : A fresh verification link has been sent to your email address.
+ * json : A new verification link has been sent to the email address you provided during registration.
  * json : All rights reserved.
+ * json : Already registered?
  * json : Before proceeding, please check your email for a verification link.
  * json : click here to request another
  * json : Confirm Password
  * json : Dashboard
  * json : E-Mail Address
+ * json : Email Password Reset Link
  * json : Forbidden
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
+ * json : Forgot your password?
  * json : Go Home
  * json : Hello!
  * json : If you did not create an account, no further action is required.
@@ -442,28 +514,39 @@ into your web browser:
  * json : Page Expired
  * json : Password
  * json : Please click the button below to verify your email address.
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Regards
  * json : Register
  * json : Remember Me
- * json : Reset Password
+ * json : Resend Verification Email
  * json : Reset Password Notification
+ * json : Reset Password
  * json : Send Password Reset Link
  * json : Server Error
  * json : Service Unavailable
+ * json : The :attribute must be a valid role.
  * json : This action is unauthorized.
+ * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This user already belongs to the team.
  * json : Toggle navigation
  * json : Too Many Attempts.
  * json : Too Many Requests
  * json : Unauthorized
+ * json : Use a recovery code
+ * json : Use an authentication code
  * json : Verify Email Address
  * json : Verify Your Email Address
+ * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours.
+ * json : Whoops!
  * json : You are logged in!
  * json : You are receiving this email because we received a password reset request for your account.
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * json : Whoops!
  * passwords : throttled
  * validation : date_equals
  * validation : ends_with
@@ -549,14 +632,19 @@ into your web browser:
 <summary>show</summary>
 
  * json : A fresh verification link has been sent to your email address.
+ * json : A new verification link has been sent to the email address you provided during registration.
  * json : All rights reserved.
+ * json : Already registered?
  * json : Before proceeding, please check your email for a verification link.
  * json : click here to request another
  * json : Confirm Password
  * json : Dashboard
  * json : E-Mail Address
+ * json : Email Password Reset Link
  * json : Forbidden
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
+ * json : Forgot your password?
  * json : Go Home
  * json : Hello!
  * json : If you did not create an account, no further action is required.
@@ -573,28 +661,39 @@ into your web browser:
  * json : Page Expired
  * json : Password
  * json : Please click the button below to verify your email address.
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Regards
  * json : Register
  * json : Remember Me
- * json : Reset Password
+ * json : Resend Verification Email
  * json : Reset Password Notification
+ * json : Reset Password
  * json : Send Password Reset Link
  * json : Server Error
  * json : Service Unavailable
+ * json : The :attribute must be a valid role.
  * json : This action is unauthorized.
+ * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This user already belongs to the team.
  * json : Toggle navigation
  * json : Too Many Attempts.
  * json : Too Many Requests
  * json : Unauthorized
+ * json : Use a recovery code
+ * json : Use an authentication code
  * json : Verify Email Address
  * json : Verify Your Email Address
+ * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours.
+ * json : Whoops!
  * json : You are logged in!
  * json : You are receiving this email because we received a password reset request for your account.
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * json : Whoops!
  * auth : failed
  * auth : throttle
  * passwords : throttled
@@ -693,8 +792,24 @@ into your web browser:
 <details>
 <summary>show</summary>
 
+ * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Already registered?
  * json : Dashboard
+ * json : Email Password Reset Link
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Forgot your password?
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
+ * json : Resend Verification Email
+ * json : The :attribute must be a valid role.
+ * json : This password does not match our records.
+ * json : This user already belongs to the team.
+ * json : Use a recovery code
+ * json : Use an authentication code
+ * json : We were unable to find a registered user with this email address.
  * json : You are logged in!
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
  * validation : ends_with
  * validation-inline : accepted
  * validation-inline : active_url
@@ -769,10 +884,26 @@ into your web browser:
 <details>
 <summary>show</summary>
 
+ * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Already registered?
  * json : Dashboard
+ * json : Email Password Reset Link
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Forgot your password?
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
+ * json : Resend Verification Email
+ * json : The :attribute must be a valid role.
+ * json : This password does not match our records.
+ * json : This user already belongs to the team.
+ * json : Use a recovery code
+ * json : Use an authentication code
+ * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours.
  * json : You are logged in!
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
  * validation : password
  * validation-inline : accepted
  * validation-inline : active_url
@@ -848,14 +979,19 @@ into your web browser:
 <summary>show</summary>
 
  * json : A fresh verification link has been sent to your email address.
+ * json : A new verification link has been sent to the email address you provided during registration.
  * json : All rights reserved.
+ * json : Already registered?
  * json : Before proceeding, please check your email for a verification link.
  * json : click here to request another
  * json : Confirm Password
  * json : Dashboard
  * json : E-Mail Address
+ * json : Email Password Reset Link
  * json : Forbidden
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
+ * json : Forgot your password?
  * json : Go Home
  * json : Hello!
  * json : If you did not create an account, no further action is required.
@@ -872,28 +1008,39 @@ into your web browser:
  * json : Page Expired
  * json : Password
  * json : Please click the button below to verify your email address.
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Regards
  * json : Register
  * json : Remember Me
- * json : Reset Password
+ * json : Resend Verification Email
  * json : Reset Password Notification
+ * json : Reset Password
  * json : Send Password Reset Link
  * json : Server Error
  * json : Service Unavailable
+ * json : The :attribute must be a valid role.
  * json : This action is unauthorized.
+ * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This user already belongs to the team.
  * json : Toggle navigation
  * json : Too Many Attempts.
  * json : Too Many Requests
  * json : Unauthorized
+ * json : Use a recovery code
+ * json : Use an authentication code
  * json : Verify Email Address
  * json : Verify Your Email Address
+ * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours.
+ * json : Whoops!
  * json : You are logged in!
  * json : You are receiving this email because we received a password reset request for your account.
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * json : Whoops!
  * auth : failed
  * auth : throttle
  * passwords : throttled
@@ -993,9 +1140,25 @@ into your web browser:
 <details>
 <summary>show</summary>
 
+ * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Already registered?
  * json : Dashboard
+ * json : Email Password Reset Link
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Forgot your password?
  * json : Password
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
+ * json : Resend Verification Email
+ * json : The :attribute must be a valid role.
+ * json : This password does not match our records.
+ * json : This user already belongs to the team.
+ * json : Use a recovery code
+ * json : Use an authentication code
+ * json : We were unable to find a registered user with this email address.
  * json : You are logged in!
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
  * validation : ends_with
  * validation : password
  * validation-inline : accepted
@@ -1071,8 +1234,24 @@ into your web browser:
 <details>
 <summary>show</summary>
 
+ * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Already registered?
  * json : Dashboard
+ * json : Email Password Reset Link
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Forgot your password?
  * json : Name
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
+ * json : Resend Verification Email
+ * json : The :attribute must be a valid role.
+ * json : This password does not match our records.
+ * json : This user already belongs to the team.
+ * json : Use a recovery code
+ * json : Use an authentication code
+ * json : We were unable to find a registered user with this email address.
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
 
 [ [to top](#todo-list) ]
 </details>
@@ -1082,8 +1261,24 @@ into your web browser:
 <details>
 <summary>show</summary>
 
+ * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Already registered?
  * json : Dashboard
+ * json : Email Password Reset Link
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Forgot your password?
  * json : Name
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
+ * json : Resend Verification Email
+ * json : The :attribute must be a valid role.
+ * json : This password does not match our records.
+ * json : This user already belongs to the team.
+ * json : Use a recovery code
+ * json : Use an authentication code
+ * json : We were unable to find a registered user with this email address.
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
 
 [ [to top](#todo-list) ]
 </details>
@@ -1093,16 +1288,32 @@ into your web browser:
 <details>
 <summary>show</summary>
 
+ * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Already registered?
  * json : Dashboard
+ * json : Email Password Reset Link
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Forgot your password?
  * json : Invalid signature.
  * json : Not Found
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
+ * json : Resend Verification Email
  * json : Server Error
+ * json : The :attribute must be a valid role.
  * json : This action is unauthorized.
+ * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This user already belongs to the team.
  * json : Too Many Attempts.
+ * json : Use a recovery code
+ * json : Use an authentication code
+ * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours.
  * json : You are logged in!
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
  * json : Your email address is not verified.
  * passwords : throttled
  * validation-inline : accepted
@@ -1175,9 +1386,28 @@ into your web browser:
 
 ## es
 
+<details>
+<summary>show</summary>
 
-All lines are translated 😊
+ * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Already registered?
+ * json : Email Password Reset Link
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Forgot your password?
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
+ * json : Resend Verification Email
+ * json : The :attribute must be a valid role.
+ * json : This password does not match our records.
+ * json : This user already belongs to the team.
+ * json : Use a recovery code
+ * json : Use an authentication code
+ * json : We were unable to find a registered user with this email address.
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
 
+[ [to top](#todo-list) ]
+</details>
 
 ## et
 
@@ -1185,14 +1415,19 @@ All lines are translated 😊
 <summary>show</summary>
 
  * json : A fresh verification link has been sent to your email address.
+ * json : A new verification link has been sent to the email address you provided during registration.
  * json : All rights reserved.
+ * json : Already registered?
  * json : Before proceeding, please check your email for a verification link.
  * json : click here to request another
  * json : Confirm Password
  * json : Dashboard
  * json : E-Mail Address
+ * json : Email Password Reset Link
  * json : Forbidden
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
+ * json : Forgot your password?
  * json : Go Home
  * json : Hello!
  * json : If you did not create an account, no further action is required.
@@ -1209,28 +1444,39 @@ into your web browser:
  * json : Page Expired
  * json : Password
  * json : Please click the button below to verify your email address.
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Regards
  * json : Register
  * json : Remember Me
- * json : Reset Password
+ * json : Resend Verification Email
  * json : Reset Password Notification
+ * json : Reset Password
  * json : Send Password Reset Link
  * json : Server Error
  * json : Service Unavailable
+ * json : The :attribute must be a valid role.
  * json : This action is unauthorized.
+ * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This user already belongs to the team.
  * json : Toggle navigation
  * json : Too Many Attempts.
  * json : Too Many Requests
  * json : Unauthorized
+ * json : Use a recovery code
+ * json : Use an authentication code
  * json : Verify Email Address
  * json : Verify Your Email Address
+ * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours.
+ * json : Whoops!
  * json : You are logged in!
  * json : You are receiving this email because we received a password reset request for your account.
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * json : Whoops!
  * passwords : throttled
  * validation : ends_with
  * validation : password
@@ -1307,16 +1553,32 @@ into your web browser:
 <details>
 <summary>show</summary>
 
+ * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Already registered?
  * json : Dashboard : not present
+ * json : Email Password Reset Link
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Forgot your password?
  * json : Invalid signature. : not present
  * json : Not Found : not present
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing. : not present
+ * json : Resend Verification Email
  * json : Server Error : not present
+ * json : The :attribute must be a valid role.
  * json : This action is unauthorized. : not present
+ * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes. : not present
+ * json : This user already belongs to the team.
  * json : Too Many Attempts. : not present
+ * json : Use a recovery code
+ * json : Use an authentication code
+ * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours. : not present
  * json : You are logged in! : not present
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
  * json : Your email address is not verified. : not present
  * passwords : throttled
  * validation : date_equals
@@ -1394,15 +1656,31 @@ into your web browser:
 <details>
 <summary>show</summary>
 
+ * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Already registered?
  * json : Dashboard : not present
+ * json : Email Password Reset Link
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Forgot your password?
  * json : Invalid signature. : not present
  * json : Not Found : not present
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing. : not present
+ * json : Resend Verification Email
  * json : Server Error : not present
+ * json : The :attribute must be a valid role.
  * json : This action is unauthorized. : not present
+ * json : This password does not match our records.
+ * json : This user already belongs to the team.
  * json : Too Many Attempts. : not present
+ * json : Use a recovery code
+ * json : Use an authentication code
+ * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours. : not present
  * json : You are logged in! : not present
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
  * json : Your email address is not verified. : not present
 
 [ [to top](#todo-list) ]
@@ -1414,14 +1692,19 @@ into your web browser:
 <summary>show</summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
+ * json : A new verification link has been sent to the email address you provided during registration.
  * json : All rights reserved. : not present
+ * json : Already registered?
  * json : Before proceeding, please check your email for a verification link. : not present
  * json : click here to request another : not present
  * json : Confirm Password : not present
  * json : Dashboard : not present
  * json : E-Mail Address : not present
+ * json : Email Password Reset Link
  * json : Forbidden : not present
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password? : not present
+ * json : Forgot your password?
  * json : Go Home : not present
  * json : If you did not create an account, no further action is required. : not present
  * json : If you did not receive the email : not present
@@ -1434,22 +1717,33 @@ into your web browser:
  * json : Page Expired : not present
  * json : Password : not present
  * json : Please click the button below to verify your email address. : not present
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing. : not present
  * json : Register : not present
  * json : Remember Me : not present
+ * json : Resend Verification Email
  * json : Send Password Reset Link : not present
  * json : Server Error : not present
  * json : Service Unavailable : not present
+ * json : The :attribute must be a valid role.
  * json : This action is unauthorized. : not present
+ * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes. : not present
+ * json : This user already belongs to the team.
  * json : Toggle navigation : not present
  * json : Too Many Attempts. : not present
  * json : Too Many Requests : not present
  * json : Unauthorized : not present
+ * json : Use a recovery code
+ * json : Use an authentication code
  * json : Verify Email Address : not present
  * json : Verify Your Email Address : not present
+ * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours. : not present
  * json : You are logged in! : not present
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
  * json : Your email address is not verified. : not present
  * validation : ends_with
  * validation : password
@@ -1527,14 +1821,19 @@ into your web browser:
 <summary>show</summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
+ * json : A new verification link has been sent to the email address you provided during registration. : not present
  * json : All rights reserved. : not present
+ * json : Already registered? : not present
  * json : Before proceeding, please check your email for a verification link. : not present
  * json : click here to request another : not present
  * json : Confirm Password : not present
  * json : Dashboard : not present
  * json : E-Mail Address : not present
+ * json : Email Password Reset Link : not present
  * json : Forbidden : not present
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one. : not present
  * json : Forgot Your Password? : not present
+ * json : Forgot your password? : not present
  * json : Go Home : not present
  * json : Hello! : not present
  * json : If you did not create an account, no further action is required. : not present
@@ -1551,28 +1850,39 @@ into your web browser: : not present
  * json : Page Expired : not present
  * json : Password : not present
  * json : Please click the button below to verify your email address. : not present
+ * json : Please confirm access to your account by entering one of your emergency recovery codes. : not present
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application. : not present
  * json : Please confirm your password before continuing. : not present
  * json : Regards : not present
  * json : Register : not present
  * json : Remember Me : not present
- * json : Reset Password : not present
+ * json : Resend Verification Email : not present
  * json : Reset Password Notification : not present
+ * json : Reset Password : not present
  * json : Send Password Reset Link : not present
  * json : Server Error : not present
  * json : Service Unavailable : not present
+ * json : The :attribute must be a valid role. : not present
  * json : This action is unauthorized. : not present
+ * json : This password does not match our records. : not present
  * json : This password reset link will expire in :count minutes. : not present
+ * json : This user already belongs to the team. : not present
  * json : Toggle navigation : not present
  * json : Too Many Attempts. : not present
  * json : Too Many Requests : not present
  * json : Unauthorized : not present
+ * json : Use a recovery code : not present
+ * json : Use an authentication code : not present
  * json : Verify Email Address : not present
  * json : Verify Your Email Address : not present
+ * json : We were unable to find a registered user with this email address. : not present
  * json : We won't ask for your password again for a few hours. : not present
+ * json : Whoops! : not present
  * json : You are logged in! : not present
  * json : You are receiving this email because we received a password reset request for your account. : not present
+ * json : You may not delete your personal team. : not present
+ * json : You may not leave a team that you created. : not present
  * json : Your email address is not verified. : not present
- * json : Whoops! : not present
  * auth : failed
  * auth : throttle
  * pagination : previous
@@ -1654,24 +1964,59 @@ into your web browser: : not present
 
 ## fr
 
+<details>
+<summary>show</summary>
 
-All lines are translated 😊
+ * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Already registered?
+ * json : Email Password Reset Link
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Forgot your password?
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
+ * json : Resend Verification Email
+ * json : The :attribute must be a valid role.
+ * json : This password does not match our records.
+ * json : This user already belongs to the team.
+ * json : Use a recovery code
+ * json : Use an authentication code
+ * json : We were unable to find a registered user with this email address.
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
 
+[ [to top](#todo-list) ]
+</details>
 
 ## gl
 
 <details>
 <summary>show</summary>
 
+ * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Already registered?
  * json : Dashboard : not present
+ * json : Email Password Reset Link
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Forgot your password?
  * json : Invalid signature. : not present
  * json : Not Found : not present
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing. : not present
+ * json : Resend Verification Email
  * json : Server Error : not present
+ * json : The :attribute must be a valid role.
  * json : This action is unauthorized. : not present
+ * json : This password does not match our records.
+ * json : This user already belongs to the team.
  * json : Too Many Attempts. : not present
+ * json : Use a recovery code
+ * json : Use an authentication code
+ * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours. : not present
  * json : You are logged in! : not present
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
  * json : Your email address is not verified. : not present
  * passwords : throttled
  * validation : password
@@ -1748,10 +2093,26 @@ All lines are translated 😊
 <details>
 <summary>show</summary>
 
+ * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Already registered?
  * json : Dashboard : not present
+ * json : Email Password Reset Link
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Forgot your password?
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing. : not present
+ * json : Resend Verification Email
+ * json : The :attribute must be a valid role.
+ * json : This password does not match our records.
+ * json : This user already belongs to the team.
+ * json : Use a recovery code
+ * json : Use an authentication code
+ * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours. : not present
  * json : You are logged in! : not present
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
  * validation : password
  * validation-inline : accepted
  * validation-inline : active_url
@@ -1827,14 +2188,19 @@ All lines are translated 😊
 <summary>show</summary>
 
  * json : A fresh verification link has been sent to your email address.
+ * json : A new verification link has been sent to the email address you provided during registration.
  * json : All rights reserved.
+ * json : Already registered?
  * json : Before proceeding, please check your email for a verification link.
  * json : click here to request another
  * json : Confirm Password
  * json : Dashboard
  * json : E-Mail Address
+ * json : Email Password Reset Link
  * json : Forbidden
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
+ * json : Forgot your password?
  * json : Go Home
  * json : Hello!
  * json : If you did not create an account, no further action is required.
@@ -1851,28 +2217,39 @@ into your web browser:
  * json : Page Expired
  * json : Password
  * json : Please click the button below to verify your email address.
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Regards
  * json : Register
  * json : Remember Me
- * json : Reset Password
+ * json : Resend Verification Email
  * json : Reset Password Notification
+ * json : Reset Password
  * json : Send Password Reset Link
  * json : Server Error
  * json : Service Unavailable
+ * json : The :attribute must be a valid role.
  * json : This action is unauthorized.
+ * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This user already belongs to the team.
  * json : Toggle navigation
  * json : Too Many Attempts.
  * json : Too Many Requests
  * json : Unauthorized
+ * json : Use a recovery code
+ * json : Use an authentication code
  * json : Verify Email Address
  * json : Verify Your Email Address
+ * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours.
+ * json : Whoops!
  * json : You are logged in!
  * json : You are receiving this email because we received a password reset request for your account.
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * json : Whoops!
  * passwords : throttled
  * validation : ends_with
  * validation : gte
@@ -1953,11 +2330,16 @@ into your web browser:
 <summary>show</summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
+ * json : A new verification link has been sent to the email address you provided during registration.
  * json : All rights reserved. : not present
+ * json : Already registered?
  * json : Before proceeding, please check your email for a verification link. : not present
  * json : click here to request another : not present
  * json : Dashboard : not present
+ * json : Email Password Reset Link
  * json : Forbidden : not present
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Forgot your password?
  * json : Go Home : not present
  * json : Hello! : not present
  * json : If you did not create an account, no further action is required. : not present
@@ -1969,22 +2351,33 @@ into your web browser: : not present
  * json : Oh no : not present
  * json : Page Expired : not present
  * json : Please click the button below to verify your email address. : not present
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing. : not present
  * json : Regards : not present
+ * json : Resend Verification Email
  * json : Server Error : not present
  * json : Service Unavailable : not present
+ * json : The :attribute must be a valid role.
  * json : This action is unauthorized. : not present
+ * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes. : not present
+ * json : This user already belongs to the team.
  * json : Toggle navigation : not present
  * json : Too Many Attempts. : not present
  * json : Too Many Requests : not present
  * json : Unauthorized : not present
+ * json : Use a recovery code
+ * json : Use an authentication code
  * json : Verify Email Address : not present
  * json : Verify Your Email Address : not present
+ * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours. : not present
- * json : You are logged in! : not present
- * json : Your email address is not verified. : not present
  * json : Whoops! : not present
+ * json : You are logged in! : not present
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
+ * json : Your email address is not verified. : not present
  * passwords : throttled
  * validation : ends_with
  * validation : password
@@ -2061,8 +2454,24 @@ into your web browser: : not present
 <details>
 <summary>show</summary>
 
+ * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Already registered?
  * json : Dashboard : not present
+ * json : Email Password Reset Link
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Forgot your password?
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
+ * json : Resend Verification Email
+ * json : The :attribute must be a valid role.
+ * json : This password does not match our records.
+ * json : This user already belongs to the team.
+ * json : Use a recovery code
+ * json : Use an authentication code
+ * json : We were unable to find a registered user with this email address.
  * json : You are logged in! : not present
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
  * validation-inline : accepted
  * validation-inline : active_url
  * validation-inline : after
@@ -2136,10 +2545,26 @@ into your web browser: : not present
 <details>
 <summary>show</summary>
 
+ * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Already registered?
  * json : Dashboard : not present
+ * json : Email Password Reset Link
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Forgot your password?
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: : not present
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
+ * json : Resend Verification Email
+ * json : The :attribute must be a valid role.
+ * json : This password does not match our records.
+ * json : This user already belongs to the team.
+ * json : Use a recovery code
+ * json : Use an authentication code
+ * json : We were unable to find a registered user with this email address.
  * json : You are logged in! : not present
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
  * validation-inline : accepted
  * validation-inline : active_url
  * validation-inline : after
@@ -2210,9 +2635,28 @@ into your web browser: : not present
 
 ## id
 
+<details>
+<summary>show</summary>
 
-All lines are translated 😊
+ * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Already registered?
+ * json : Email Password Reset Link
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Forgot your password?
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
+ * json : Resend Verification Email
+ * json : The :attribute must be a valid role.
+ * json : This password does not match our records.
+ * json : This user already belongs to the team.
+ * json : Use a recovery code
+ * json : Use an authentication code
+ * json : We were unable to find a registered user with this email address.
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
 
+[ [to top](#todo-list) ]
+</details>
 
 ## is
 
@@ -2220,14 +2664,19 @@ All lines are translated 😊
 <summary>show</summary>
 
  * json : A fresh verification link has been sent to your email address.
+ * json : A new verification link has been sent to the email address you provided during registration.
  * json : All rights reserved.
+ * json : Already registered?
  * json : Before proceeding, please check your email for a verification link.
  * json : click here to request another
  * json : Confirm Password
  * json : Dashboard
  * json : E-Mail Address
+ * json : Email Password Reset Link
  * json : Forbidden
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
+ * json : Forgot your password?
  * json : Go Home
  * json : Hello!
  * json : If you did not create an account, no further action is required.
@@ -2244,28 +2693,39 @@ into your web browser:
  * json : Page Expired
  * json : Password
  * json : Please click the button below to verify your email address.
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Regards
  * json : Register
  * json : Remember Me
- * json : Reset Password
+ * json : Resend Verification Email
  * json : Reset Password Notification
+ * json : Reset Password
  * json : Send Password Reset Link
  * json : Server Error
  * json : Service Unavailable
+ * json : The :attribute must be a valid role.
  * json : This action is unauthorized.
+ * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This user already belongs to the team.
  * json : Toggle navigation
  * json : Too Many Attempts.
  * json : Too Many Requests
  * json : Unauthorized
+ * json : Use a recovery code
+ * json : Use an authentication code
  * json : Verify Email Address
  * json : Verify Your Email Address
+ * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours.
+ * json : Whoops!
  * json : You are logged in!
  * json : You are receiving this email because we received a password reset request for your account.
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * json : Whoops!
  * auth : failed
  * auth : throttle
  * passwords : throttled
@@ -2344,13 +2804,29 @@ into your web browser:
 <details>
 <summary>show</summary>
 
+ * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Already registered?
  * json : click here to request another : not present
  * json : Dashboard : not present
+ * json : Email Password Reset Link
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Forgot your password?
  * json : Oh no
  * json : Password
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing. : not present
+ * json : Resend Verification Email
+ * json : The :attribute must be a valid role.
+ * json : This password does not match our records.
+ * json : This user already belongs to the team.
+ * json : Use a recovery code
+ * json : Use an authentication code
+ * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours. : not present
  * json : You are logged in! : not present
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
  * validation-inline : accepted
  * validation-inline : active_url
  * validation-inline : after
@@ -2424,16 +2900,32 @@ into your web browser:
 <details>
 <summary>show</summary>
 
+ * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Already registered?
  * json : Dashboard : not present
+ * json : Email Password Reset Link
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Forgot your password?
  * json : Invalid signature. : not present
  * json : Not Found : not present
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing. : not present
+ * json : Resend Verification Email
  * json : Server Error : not present
+ * json : The :attribute must be a valid role.
  * json : This action is unauthorized. : not present
+ * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes. : not present
+ * json : This user already belongs to the team.
  * json : Too Many Attempts. : not present
+ * json : Use a recovery code
+ * json : Use an authentication code
+ * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours. : not present
  * json : You are logged in! : not present
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
  * json : Your email address is not verified. : not present
  * validation-inline : accepted
  * validation-inline : active_url
@@ -2509,11 +3001,16 @@ into your web browser:
 <summary>show</summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
+ * json : A new verification link has been sent to the email address you provided during registration.
  * json : All rights reserved. : not present
+ * json : Already registered?
  * json : Before proceeding, please check your email for a verification link. : not present
  * json : click here to request another : not present
  * json : Dashboard : not present
+ * json : Email Password Reset Link
  * json : Forbidden : not present
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Forgot your password?
  * json : Go Home : not present
  * json : Hello! : not present
  * json : If you did not create an account, no further action is required. : not present
@@ -2525,22 +3022,33 @@ into your web browser: : not present
  * json : Oh no : not present
  * json : Page Expired : not present
  * json : Please click the button below to verify your email address. : not present
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing. : not present
  * json : Regards : not present
+ * json : Resend Verification Email
  * json : Server Error : not present
  * json : Service Unavailable : not present
+ * json : The :attribute must be a valid role.
  * json : This action is unauthorized. : not present
+ * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes. : not present
+ * json : This user already belongs to the team.
  * json : Toggle navigation : not present
  * json : Too Many Attempts. : not present
  * json : Too Many Requests : not present
  * json : Unauthorized : not present
+ * json : Use a recovery code
+ * json : Use an authentication code
  * json : Verify Email Address : not present
  * json : Verify Your Email Address : not present
+ * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours. : not present
- * json : You are logged in! : not present
- * json : Your email address is not verified. : not present
  * json : Whoops! : not present
+ * json : You are logged in! : not present
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
+ * json : Your email address is not verified. : not present
  * passwords : throttled
  * validation : password
  * validation-inline : accepted
@@ -2616,8 +3124,24 @@ into your web browser: : not present
 <details>
 <summary>show</summary>
 
+ * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Already registered?
  * json : Dashboard : not present
+ * json : Email Password Reset Link
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Forgot your password?
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
+ * json : Resend Verification Email
+ * json : The :attribute must be a valid role.
+ * json : This password does not match our records.
+ * json : This user already belongs to the team.
+ * json : Use a recovery code
+ * json : Use an authentication code
+ * json : We were unable to find a registered user with this email address.
  * json : You are logged in! : not present
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
  * passwords : throttled
  * validation-inline : accepted
  * validation-inline : active_url
@@ -2693,14 +3217,19 @@ into your web browser: : not present
 <summary>show</summary>
 
  * json : A fresh verification link has been sent to your email address.
+ * json : A new verification link has been sent to the email address you provided during registration.
  * json : All rights reserved.
+ * json : Already registered?
  * json : Before proceeding, please check your email for a verification link.
  * json : click here to request another
  * json : Confirm Password
  * json : Dashboard
  * json : E-Mail Address
+ * json : Email Password Reset Link
  * json : Forbidden
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
+ * json : Forgot your password?
  * json : Go Home
  * json : Hello!
  * json : If you did not create an account, no further action is required.
@@ -2717,28 +3246,39 @@ into your web browser:
  * json : Page Expired
  * json : Password
  * json : Please click the button below to verify your email address.
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Regards
  * json : Register
  * json : Remember Me
- * json : Reset Password
+ * json : Resend Verification Email
  * json : Reset Password Notification
+ * json : Reset Password
  * json : Send Password Reset Link
  * json : Server Error
  * json : Service Unavailable
+ * json : The :attribute must be a valid role.
  * json : This action is unauthorized.
+ * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This user already belongs to the team.
  * json : Toggle navigation
  * json : Too Many Attempts.
  * json : Too Many Requests
  * json : Unauthorized
+ * json : Use a recovery code
+ * json : Use an authentication code
  * json : Verify Email Address
  * json : Verify Your Email Address
+ * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours.
+ * json : Whoops!
  * json : You are logged in!
  * json : You are receiving this email because we received a password reset request for your account.
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * json : Whoops!
  * auth : failed
  * auth : throttle
  * passwords : throttled
@@ -2839,15 +3379,31 @@ into your web browser:
 <details>
 <summary>show</summary>
 
+ * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Already registered?
  * json : Dashboard : not present
+ * json : Email Password Reset Link
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Forgot your password?
  * json : Invalid signature. : not present
  * json : Not Found : not present
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing. : not present
+ * json : Resend Verification Email
  * json : Server Error : not present
+ * json : The :attribute must be a valid role.
  * json : This action is unauthorized. : not present
+ * json : This password does not match our records.
+ * json : This user already belongs to the team.
  * json : Too Many Attempts. : not present
+ * json : Use a recovery code
+ * json : Use an authentication code
+ * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours. : not present
  * json : You are logged in! : not present
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
  * json : Your email address is not verified. : not present
  * passwords : throttled
  * validation : ends_with
@@ -2925,17 +3481,52 @@ into your web browser:
 <details>
 <summary>show</summary>
 
+ * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Already registered?
  * json : Dashboard : not present
+ * json : Email Password Reset Link
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Forgot your password?
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
+ * json : Resend Verification Email
+ * json : The :attribute must be a valid role.
+ * json : This password does not match our records.
+ * json : This user already belongs to the team.
+ * json : Use a recovery code
+ * json : Use an authentication code
+ * json : We were unable to find a registered user with this email address.
  * json : You are logged in! : not present
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
 
 [ [to top](#todo-list) ]
 </details>
 
 ## lt
 
+<details>
+<summary>show</summary>
 
-All lines are translated 😊
+ * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Already registered?
+ * json : Email Password Reset Link
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Forgot your password?
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
+ * json : Resend Verification Email
+ * json : The :attribute must be a valid role.
+ * json : This password does not match our records.
+ * json : This user already belongs to the team.
+ * json : Use a recovery code
+ * json : Use an authentication code
+ * json : We were unable to find a registered user with this email address.
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
 
+[ [to top](#todo-list) ]
+</details>
 
 ## lv
 
@@ -2943,14 +3534,19 @@ All lines are translated 😊
 <summary>show</summary>
 
  * json : A fresh verification link has been sent to your email address.
+ * json : A new verification link has been sent to the email address you provided during registration.
  * json : All rights reserved.
+ * json : Already registered?
  * json : Before proceeding, please check your email for a verification link.
  * json : click here to request another
  * json : Confirm Password
  * json : Dashboard
  * json : E-Mail Address
+ * json : Email Password Reset Link
  * json : Forbidden
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
+ * json : Forgot your password?
  * json : Go Home
  * json : Hello!
  * json : If you did not create an account, no further action is required.
@@ -2967,28 +3563,39 @@ into your web browser:
  * json : Page Expired
  * json : Password
  * json : Please click the button below to verify your email address.
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Regards
  * json : Register
  * json : Remember Me
- * json : Reset Password
+ * json : Resend Verification Email
  * json : Reset Password Notification
+ * json : Reset Password
  * json : Send Password Reset Link
  * json : Server Error
  * json : Service Unavailable
+ * json : The :attribute must be a valid role.
  * json : This action is unauthorized.
+ * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This user already belongs to the team.
  * json : Toggle navigation
  * json : Too Many Attempts.
  * json : Too Many Requests
  * json : Unauthorized
+ * json : Use a recovery code
+ * json : Use an authentication code
  * json : Verify Email Address
  * json : Verify Your Email Address
+ * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours.
+ * json : Whoops!
  * json : You are logged in!
  * json : You are receiving this email because we received a password reset request for your account.
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * json : Whoops!
  * passwords : throttled
  * validation : ends_with
  * validation : password
@@ -3066,14 +3673,19 @@ into your web browser:
 <summary>show</summary>
 
  * json : A fresh verification link has been sent to your email address.
+ * json : A new verification link has been sent to the email address you provided during registration.
  * json : All rights reserved.
+ * json : Already registered?
  * json : Before proceeding, please check your email for a verification link.
  * json : click here to request another
  * json : Confirm Password
  * json : Dashboard
  * json : E-Mail Address
+ * json : Email Password Reset Link
  * json : Forbidden
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
+ * json : Forgot your password?
  * json : Go Home
  * json : Hello!
  * json : If you did not create an account, no further action is required.
@@ -3090,28 +3702,39 @@ into your web browser:
  * json : Page Expired
  * json : Password
  * json : Please click the button below to verify your email address.
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Regards
  * json : Register
  * json : Remember Me
- * json : Reset Password
+ * json : Resend Verification Email
  * json : Reset Password Notification
+ * json : Reset Password
  * json : Send Password Reset Link
  * json : Server Error
  * json : Service Unavailable
+ * json : The :attribute must be a valid role.
  * json : This action is unauthorized.
+ * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This user already belongs to the team.
  * json : Toggle navigation
  * json : Too Many Attempts.
  * json : Too Many Requests
  * json : Unauthorized
+ * json : Use a recovery code
+ * json : Use an authentication code
  * json : Verify Email Address
  * json : Verify Your Email Address
+ * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours.
+ * json : Whoops!
  * json : You are logged in!
  * json : You are receiving this email because we received a password reset request for your account.
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * json : Whoops!
  * passwords : throttled
  * validation : after_or_equal
  * validation : before_or_equal
@@ -3205,14 +3828,19 @@ into your web browser:
 <summary>show</summary>
 
  * json : A fresh verification link has been sent to your email address.
+ * json : A new verification link has been sent to the email address you provided during registration.
  * json : All rights reserved.
+ * json : Already registered?
  * json : Before proceeding, please check your email for a verification link.
  * json : click here to request another
  * json : Confirm Password
  * json : Dashboard
  * json : E-Mail Address
+ * json : Email Password Reset Link
  * json : Forbidden
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
+ * json : Forgot your password?
  * json : Go Home
  * json : Hello!
  * json : If you did not create an account, no further action is required.
@@ -3229,28 +3857,39 @@ into your web browser:
  * json : Page Expired
  * json : Password
  * json : Please click the button below to verify your email address.
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Regards
  * json : Register
  * json : Remember Me
- * json : Reset Password
+ * json : Resend Verification Email
  * json : Reset Password Notification
+ * json : Reset Password
  * json : Send Password Reset Link
  * json : Server Error
  * json : Service Unavailable
+ * json : The :attribute must be a valid role.
  * json : This action is unauthorized.
+ * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This user already belongs to the team.
  * json : Toggle navigation
  * json : Too Many Attempts.
  * json : Too Many Requests
  * json : Unauthorized
+ * json : Use a recovery code
+ * json : Use an authentication code
  * json : Verify Email Address
  * json : Verify Your Email Address
+ * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours.
+ * json : Whoops!
  * json : You are logged in!
  * json : You are receiving this email because we received a password reset request for your account.
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * json : Whoops!
  * auth : failed
  * auth : throttle
  * passwords : throttled
@@ -3353,14 +3992,19 @@ into your web browser:
 <summary>show</summary>
 
  * json : A fresh verification link has been sent to your email address.
+ * json : A new verification link has been sent to the email address you provided during registration.
  * json : All rights reserved.
+ * json : Already registered?
  * json : Before proceeding, please check your email for a verification link.
  * json : click here to request another
  * json : Confirm Password
  * json : Dashboard
  * json : E-Mail Address
+ * json : Email Password Reset Link
  * json : Forbidden
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
+ * json : Forgot your password?
  * json : Go Home
  * json : Hello!
  * json : If you did not create an account, no further action is required.
@@ -3377,28 +4021,39 @@ into your web browser:
  * json : Page Expired
  * json : Password
  * json : Please click the button below to verify your email address.
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Regards
  * json : Register
  * json : Remember Me
- * json : Reset Password
+ * json : Resend Verification Email
  * json : Reset Password Notification
+ * json : Reset Password
  * json : Send Password Reset Link
  * json : Server Error
  * json : Service Unavailable
+ * json : The :attribute must be a valid role.
  * json : This action is unauthorized.
+ * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This user already belongs to the team.
  * json : Toggle navigation
  * json : Too Many Attempts.
  * json : Too Many Requests
  * json : Unauthorized
+ * json : Use a recovery code
+ * json : Use an authentication code
  * json : Verify Email Address
  * json : Verify Your Email Address
+ * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours.
+ * json : Whoops!
  * json : You are logged in!
  * json : You are receiving this email because we received a password reset request for your account.
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * json : Whoops!
  * passwords : throttled
  * validation : date_equals
  * validation : ends_with
@@ -3488,16 +4143,32 @@ into your web browser:
 <details>
 <summary>show</summary>
 
+ * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Already registered?
  * json : click here to request another : not present
  * json : Dashboard : not present
+ * json : Email Password Reset Link
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Forgot your password?
  * json : Invalid signature. : not present
  * json : Not Found : not present
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing. : not present
+ * json : Resend Verification Email
  * json : Server Error : not present
+ * json : The :attribute must be a valid role.
  * json : This action is unauthorized. : not present
+ * json : This password does not match our records.
+ * json : This user already belongs to the team.
  * json : Too Many Attempts. : not present
+ * json : Use a recovery code
+ * json : Use an authentication code
+ * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours. : not present
  * json : You are logged in! : not present
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
  * json : Your email address is not verified. : not present
  * passwords : throttled
  * validation : ends_with
@@ -3575,17 +4246,33 @@ into your web browser:
 <details>
 <summary>show</summary>
 
+ * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Already registered?
  * json : Dashboard : not present
+ * json : Email Password Reset Link
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Forgot your password?
  * json : Invalid signature. : not present
  * json : Not Found : not present
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing. : not present
+ * json : Resend Verification Email
  * json : Server Error : not present
+ * json : The :attribute must be a valid role.
  * json : This action is unauthorized. : not present
+ * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes. : not present
+ * json : This user already belongs to the team.
  * json : Too Many Attempts. : not present
+ * json : Use a recovery code
+ * json : Use an authentication code
  * json : Verify Email Address : not present
+ * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours. : not present
  * json : You are logged in! : not present
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
  * json : Your email address is not verified. : not present
  * passwords : throttled
  * validation : ends_with
@@ -3663,10 +4350,26 @@ into your web browser:
 <details>
 <summary>show</summary>
 
+ * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Already registered?
  * json : Dashboard : not present
+ * json : Email Password Reset Link
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Forgot your password?
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing. : not present
+ * json : Resend Verification Email
+ * json : The :attribute must be a valid role.
+ * json : This password does not match our records.
+ * json : This user already belongs to the team.
+ * json : Use a recovery code
+ * json : Use an authentication code
+ * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours. : not present
  * json : You are logged in! : not present
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
  * validation-inline : accepted
  * validation-inline : active_url
  * validation-inline : after
@@ -3737,81 +4440,51 @@ into your web browser:
 
 ## ne
 
+<details>
+<summary>show</summary>
 
-All lines are translated 😊
+ * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Already registered?
+ * json : Email Password Reset Link
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Forgot your password?
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
+ * json : Resend Verification Email
+ * json : The :attribute must be a valid role.
+ * json : This password does not match our records.
+ * json : This user already belongs to the team.
+ * json : Use a recovery code
+ * json : Use an authentication code
+ * json : We were unable to find a registered user with this email address.
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
 
+[ [to top](#todo-list) ]
+</details>
 
 ## nl
 
 <details>
 <summary>show</summary>
 
- * json : Dashboard : not present
- * json : You are logged in! : not present
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt
- * validation-inline : gte
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt
- * validation-inline : lte
- * validation-inline : max
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
+ * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Already registered?
+ * json : Dashboard
+ * json : Email Password Reset Link
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Forgot your password?
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
+ * json : Resend Verification Email
+ * json : The :attribute must be a valid role.
+ * json : This password does not match our records.
+ * json : This user already belongs to the team.
+ * json : Use a recovery code
+ * json : Use an authentication code
+ * json : We were unable to find a registered user with this email address.
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
 
 [ [to top](#todo-list) ]
 </details>
@@ -3821,10 +4494,26 @@ All lines are translated 😊
 <details>
 <summary>show</summary>
 
+ * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Already registered?
  * json : Dashboard : not present
+ * json : Email Password Reset Link
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Forgot your password?
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing. : not present
+ * json : Resend Verification Email
+ * json : The :attribute must be a valid role.
+ * json : This password does not match our records.
+ * json : This user already belongs to the team.
+ * json : Use a recovery code
+ * json : Use an authentication code
+ * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours. : not present
  * json : You are logged in! : not present
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
  * passwords : throttled
  * validation : password
  * validation-inline : accepted
@@ -3897,25 +4586,60 @@ All lines are translated 😊
 
 ## pl
 
+<details>
+<summary>show</summary>
 
-All lines are translated 😊
+ * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Already registered?
+ * json : Email Password Reset Link
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Forgot your password?
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
+ * json : Resend Verification Email
+ * json : The :attribute must be a valid role.
+ * json : This password does not match our records.
+ * json : This user already belongs to the team.
+ * json : Use a recovery code
+ * json : Use an authentication code
+ * json : We were unable to find a registered user with this email address.
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
 
+[ [to top](#todo-list) ]
+</details>
 
 ## ps
 
 <details>
 <summary>show</summary>
 
+ * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Already registered?
  * json : Dashboard : not present
+ * json : Email Password Reset Link
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Forgot your password?
  * json : Invalid signature. : not present
  * json : Not Found : not present
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing. : not present
+ * json : Resend Verification Email
  * json : Server Error : not present
+ * json : The :attribute must be a valid role.
  * json : This action is unauthorized. : not present
+ * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes. : not present
+ * json : This user already belongs to the team.
  * json : Too Many Attempts. : not present
+ * json : Use a recovery code
+ * json : Use an authentication code
+ * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours. : not present
  * json : You are logged in! : not present
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
  * json : Your email address is not verified. : not present
  * passwords : throttled
  * validation : ends_with
@@ -3990,23 +4714,77 @@ All lines are translated 😊
 
 ## pt
 
+<details>
+<summary>show</summary>
 
-All lines are translated 😊
+ * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Already registered?
+ * json : Email Password Reset Link
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Forgot your password?
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
+ * json : Resend Verification Email
+ * json : The :attribute must be a valid role.
+ * json : This password does not match our records.
+ * json : This user already belongs to the team.
+ * json : Use a recovery code
+ * json : Use an authentication code
+ * json : We were unable to find a registered user with this email address.
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
 
+[ [to top](#todo-list) ]
+</details>
 
 ## pt_BR
 
+<details>
+<summary>show</summary>
 
-All lines are translated 😊
+ * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Already registered?
+ * json : Email Password Reset Link
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Forgot your password?
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
+ * json : Resend Verification Email
+ * json : The :attribute must be a valid role.
+ * json : This password does not match our records.
+ * json : This user already belongs to the team.
+ * json : Use a recovery code
+ * json : Use an authentication code
+ * json : We were unable to find a registered user with this email address.
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
 
+[ [to top](#todo-list) ]
+</details>
 
 ## ro
 
 <details>
 <summary>show</summary>
 
+ * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Already registered?
  * json : Dashboard : not present
+ * json : Email Password Reset Link
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Forgot your password?
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
+ * json : Resend Verification Email
+ * json : The :attribute must be a valid role.
+ * json : This password does not match our records.
+ * json : This user already belongs to the team.
+ * json : Use a recovery code
+ * json : Use an authentication code
+ * json : We were unable to find a registered user with this email address.
  * json : You are logged in! : not present
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
  * passwords : throttled
  * validation-inline : accepted
  * validation-inline : active_url
@@ -4078,9 +4856,28 @@ All lines are translated 😊
 
 ## ru
 
+<details>
+<summary>show</summary>
 
-All lines are translated 😊
+ * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Already registered?
+ * json : Email Password Reset Link
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Forgot your password?
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
+ * json : Resend Verification Email
+ * json : The :attribute must be a valid role.
+ * json : This password does not match our records.
+ * json : This user already belongs to the team.
+ * json : Use a recovery code
+ * json : Use an authentication code
+ * json : We were unable to find a registered user with this email address.
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
 
+[ [to top](#todo-list) ]
+</details>
 
 ## sc
 
@@ -4088,14 +4885,19 @@ All lines are translated 😊
 <summary>show</summary>
 
  * json : A fresh verification link has been sent to your email address.
+ * json : A new verification link has been sent to the email address you provided during registration.
  * json : All rights reserved.
+ * json : Already registered?
  * json : Before proceeding, please check your email for a verification link.
  * json : click here to request another
  * json : Confirm Password
  * json : Dashboard
  * json : E-Mail Address
+ * json : Email Password Reset Link
  * json : Forbidden
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
+ * json : Forgot your password?
  * json : Go Home
  * json : Hello!
  * json : If you did not create an account, no further action is required.
@@ -4112,28 +4914,39 @@ into your web browser:
  * json : Page Expired
  * json : Password
  * json : Please click the button below to verify your email address.
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Regards
  * json : Register
  * json : Remember Me
- * json : Reset Password
+ * json : Resend Verification Email
  * json : Reset Password Notification
+ * json : Reset Password
  * json : Send Password Reset Link
  * json : Server Error
  * json : Service Unavailable
+ * json : The :attribute must be a valid role.
  * json : This action is unauthorized.
+ * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This user already belongs to the team.
  * json : Toggle navigation
  * json : Too Many Attempts.
  * json : Too Many Requests
  * json : Unauthorized
+ * json : Use a recovery code
+ * json : Use an authentication code
  * json : Verify Email Address
  * json : Verify Your Email Address
+ * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours.
+ * json : Whoops!
  * json : You are logged in!
  * json : You are receiving this email because we received a password reset request for your account.
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * json : Whoops!
  * auth : failed
  * auth : throttle
  * passwords : throttled
@@ -4234,14 +5047,19 @@ into your web browser:
 <summary>show</summary>
 
  * json : A fresh verification link has been sent to your email address.
+ * json : A new verification link has been sent to the email address you provided during registration.
  * json : All rights reserved.
+ * json : Already registered?
  * json : Before proceeding, please check your email for a verification link.
  * json : click here to request another
  * json : Confirm Password
  * json : Dashboard
  * json : E-Mail Address
+ * json : Email Password Reset Link
  * json : Forbidden
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
+ * json : Forgot your password?
  * json : Go Home
  * json : Hello!
  * json : If you did not create an account, no further action is required.
@@ -4258,28 +5076,39 @@ into your web browser:
  * json : Page Expired
  * json : Password
  * json : Please click the button below to verify your email address.
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Regards
  * json : Register
  * json : Remember Me
- * json : Reset Password
+ * json : Resend Verification Email
  * json : Reset Password Notification
+ * json : Reset Password
  * json : Send Password Reset Link
  * json : Server Error
  * json : Service Unavailable
+ * json : The :attribute must be a valid role.
  * json : This action is unauthorized.
+ * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This user already belongs to the team.
  * json : Toggle navigation
  * json : Too Many Attempts.
  * json : Too Many Requests
  * json : Unauthorized
+ * json : Use a recovery code
+ * json : Use an authentication code
  * json : Verify Email Address
  * json : Verify Your Email Address
+ * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours.
+ * json : Whoops!
  * json : You are logged in!
  * json : You are receiving this email because we received a password reset request for your account.
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * json : Whoops!
  * validation : ends_with
  * validation : password
  * validation-inline : accepted
@@ -4355,8 +5184,24 @@ into your web browser:
 <details>
 <summary>show</summary>
 
+ * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Already registered?
  * json : Dashboard : not present
+ * json : Email Password Reset Link
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Forgot your password?
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
+ * json : Resend Verification Email
+ * json : The :attribute must be a valid role.
+ * json : This password does not match our records.
+ * json : This user already belongs to the team.
+ * json : Use a recovery code
+ * json : Use an authentication code
+ * json : We were unable to find a registered user with this email address.
  * json : You are logged in! : not present
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
  * validation-inline : accepted
  * validation-inline : active_url
  * validation-inline : after
@@ -4431,11 +5276,16 @@ into your web browser:
 <summary>show</summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
+ * json : A new verification link has been sent to the email address you provided during registration.
  * json : All rights reserved. : not present
+ * json : Already registered?
  * json : Before proceeding, please check your email for a verification link. : not present
  * json : click here to request another : not present
  * json : Dashboard : not present
+ * json : Email Password Reset Link
  * json : Forbidden : not present
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Forgot your password?
  * json : Go Home : not present
  * json : Hello! : not present
  * json : If you did not create an account, no further action is required. : not present
@@ -4447,22 +5297,33 @@ into your web browser: : not present
  * json : Oh no : not present
  * json : Page Expired : not present
  * json : Please click the button below to verify your email address. : not present
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing. : not present
  * json : Regards : not present
+ * json : Resend Verification Email
  * json : Server Error : not present
  * json : Service Unavailable : not present
+ * json : The :attribute must be a valid role.
  * json : This action is unauthorized. : not present
+ * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes. : not present
+ * json : This user already belongs to the team.
  * json : Toggle navigation : not present
  * json : Too Many Attempts. : not present
  * json : Too Many Requests : not present
  * json : Unauthorized : not present
+ * json : Use a recovery code
+ * json : Use an authentication code
  * json : Verify Email Address : not present
  * json : Verify Your Email Address : not present
+ * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours. : not present
- * json : You are logged in! : not present
- * json : Your email address is not verified. : not present
  * json : Whoops! : not present
+ * json : You are logged in! : not present
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
+ * json : Your email address is not verified. : not present
  * passwords : throttled
  * validation : ends_with
  * validation : password
@@ -4540,14 +5401,19 @@ into your web browser: : not present
 <summary>show</summary>
 
  * json : A fresh verification link has been sent to your email address.
+ * json : A new verification link has been sent to the email address you provided during registration.
  * json : All rights reserved.
+ * json : Already registered?
  * json : Before proceeding, please check your email for a verification link.
  * json : click here to request another
  * json : Confirm Password
  * json : Dashboard
  * json : E-Mail Address
+ * json : Email Password Reset Link
  * json : Forbidden
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
+ * json : Forgot your password?
  * json : Go Home
  * json : Hello!
  * json : If you did not create an account, no further action is required.
@@ -4564,51 +5430,116 @@ into your web browser:
  * json : Page Expired
  * json : Password
  * json : Please click the button below to verify your email address.
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Regards
  * json : Register
  * json : Remember Me
- * json : Reset Password
+ * json : Resend Verification Email
  * json : Reset Password Notification
+ * json : Reset Password
  * json : Send Password Reset Link
  * json : Server Error
  * json : Service Unavailable
+ * json : The :attribute must be a valid role.
  * json : This action is unauthorized.
+ * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This user already belongs to the team.
  * json : Toggle navigation
  * json : Too Many Attempts.
  * json : Too Many Requests
  * json : Unauthorized
+ * json : Use a recovery code
+ * json : Use an authentication code
  * json : Verify Email Address
  * json : Verify Your Email Address
+ * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours.
+ * json : Whoops!
  * json : You are logged in!
  * json : You are receiving this email because we received a password reset request for your account.
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * json : Whoops!
 
 [ [to top](#todo-list) ]
 </details>
 
 ## sr_Cyrillic
 
+<details>
+<summary>show</summary>
 
-All lines are translated 😊
+ * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Already registered?
+ * json : Email Password Reset Link
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Forgot your password?
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
+ * json : Resend Verification Email
+ * json : The :attribute must be a valid role.
+ * json : This password does not match our records.
+ * json : This user already belongs to the team.
+ * json : Use a recovery code
+ * json : Use an authentication code
+ * json : We were unable to find a registered user with this email address.
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
 
+[ [to top](#todo-list) ]
+</details>
 
 ## sr_Latin
 
+<details>
+<summary>show</summary>
 
-All lines are translated 😊
+ * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Already registered?
+ * json : Email Password Reset Link
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Forgot your password?
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
+ * json : Resend Verification Email
+ * json : The :attribute must be a valid role.
+ * json : This password does not match our records.
+ * json : This user already belongs to the team.
+ * json : Use a recovery code
+ * json : Use an authentication code
+ * json : We were unable to find a registered user with this email address.
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
 
+[ [to top](#todo-list) ]
+</details>
 
 ## sv
 
 <details>
 <summary>show</summary>
 
+ * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Already registered?
  * json : Dashboard : not present
+ * json : Email Password Reset Link
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Forgot your password?
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
+ * json : Resend Verification Email
+ * json : The :attribute must be a valid role.
+ * json : This password does not match our records.
+ * json : This user already belongs to the team.
+ * json : Use a recovery code
+ * json : Use an authentication code
+ * json : We were unable to find a registered user with this email address.
  * json : You are logged in! : not present
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
  * validation-inline : accepted
  * validation-inline : active_url
  * validation-inline : after
@@ -4683,14 +5614,19 @@ All lines are translated 😊
 <summary>show</summary>
 
  * json : A fresh verification link has been sent to your email address.
+ * json : A new verification link has been sent to the email address you provided during registration.
  * json : All rights reserved.
+ * json : Already registered?
  * json : Before proceeding, please check your email for a verification link.
  * json : click here to request another
  * json : Confirm Password
  * json : Dashboard
  * json : E-Mail Address
+ * json : Email Password Reset Link
  * json : Forbidden
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
+ * json : Forgot your password?
  * json : Go Home
  * json : Hello!
  * json : If you did not create an account, no further action is required.
@@ -4707,28 +5643,39 @@ into your web browser:
  * json : Page Expired
  * json : Password
  * json : Please click the button below to verify your email address.
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Regards
  * json : Register
  * json : Remember Me
- * json : Reset Password
+ * json : Resend Verification Email
  * json : Reset Password Notification
+ * json : Reset Password
  * json : Send Password Reset Link
  * json : Server Error
  * json : Service Unavailable
+ * json : The :attribute must be a valid role.
  * json : This action is unauthorized.
+ * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This user already belongs to the team.
  * json : Toggle navigation
  * json : Too Many Attempts.
  * json : Too Many Requests
  * json : Unauthorized
+ * json : Use a recovery code
+ * json : Use an authentication code
  * json : Verify Email Address
  * json : Verify Your Email Address
+ * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours.
+ * json : Whoops!
  * json : You are logged in!
  * json : You are receiving this email because we received a password reset request for your account.
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * json : Whoops!
  * passwords : throttled
  * validation : ends_with
  * validation : password
@@ -4806,14 +5753,19 @@ into your web browser:
 <summary>show</summary>
 
  * json : A fresh verification link has been sent to your email address.
+ * json : A new verification link has been sent to the email address you provided during registration.
  * json : All rights reserved.
+ * json : Already registered?
  * json : Before proceeding, please check your email for a verification link.
  * json : click here to request another
  * json : Confirm Password
  * json : Dashboard
  * json : E-Mail Address
+ * json : Email Password Reset Link
  * json : Forbidden
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
+ * json : Forgot your password?
  * json : Go Home
  * json : Hello!
  * json : If you did not create an account, no further action is required.
@@ -4830,28 +5782,39 @@ into your web browser:
  * json : Page Expired
  * json : Password
  * json : Please click the button below to verify your email address.
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Regards
  * json : Register
  * json : Remember Me
- * json : Reset Password
+ * json : Resend Verification Email
  * json : Reset Password Notification
+ * json : Reset Password
  * json : Send Password Reset Link
  * json : Server Error
  * json : Service Unavailable
+ * json : The :attribute must be a valid role.
  * json : This action is unauthorized.
+ * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This user already belongs to the team.
  * json : Toggle navigation
  * json : Too Many Attempts.
  * json : Too Many Requests
  * json : Unauthorized
+ * json : Use a recovery code
+ * json : Use an authentication code
  * json : Verify Email Address
  * json : Verify Your Email Address
+ * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours.
+ * json : Whoops!
  * json : You are logged in!
  * json : You are receiving this email because we received a password reset request for your account.
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * json : Whoops!
  * passwords : throttled
  * validation : date_equals
  * validation : ends_with
@@ -4938,22 +5901,38 @@ into your web browser:
 <details>
 <summary>show</summary>
 
+ * json : A new verification link has been sent to the email address you provided during registration.
  * json : All rights reserved.
+ * json : Already registered?
  * json : Dashboard
+ * json : Email Password Reset Link
  * json : Forbidden
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Forgot your password?
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: : not present
  * json : Invalid signature.
  * json : Not Found
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing. : not present
  * json : Regards : not present
+ * json : Resend Verification Email
  * json : Server Error : not present
+ * json : The :attribute must be a valid role.
  * json : This action is unauthorized. : not present
+ * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes. : not present
+ * json : This user already belongs to the team.
  * json : Toggle navigation : not present
  * json : Too Many Attempts. : not present
+ * json : Use a recovery code
+ * json : Use an authentication code
+ * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours. : not present
  * json : You are logged in! : not present
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
  * json : Your email address is not verified.
  * passwords : throttled
  * validation : ends_with
@@ -5032,14 +6011,19 @@ into your web browser: : not present
 <summary>show</summary>
 
  * json : A fresh verification link has been sent to your email address.
+ * json : A new verification link has been sent to the email address you provided during registration.
  * json : All rights reserved.
+ * json : Already registered?
  * json : Before proceeding, please check your email for a verification link.
  * json : click here to request another
  * json : Confirm Password
  * json : Dashboard
  * json : E-Mail Address
+ * json : Email Password Reset Link
  * json : Forbidden
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
+ * json : Forgot your password?
  * json : Go Home
  * json : Hello!
  * json : If you did not create an account, no further action is required.
@@ -5056,28 +6040,39 @@ into your web browser:
  * json : Page Expired
  * json : Password
  * json : Please click the button below to verify your email address.
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Regards
  * json : Register
  * json : Remember Me
- * json : Reset Password
+ * json : Resend Verification Email
  * json : Reset Password Notification
+ * json : Reset Password
  * json : Send Password Reset Link
  * json : Server Error
  * json : Service Unavailable
+ * json : The :attribute must be a valid role.
  * json : This action is unauthorized.
+ * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This user already belongs to the team.
  * json : Toggle navigation
  * json : Too Many Attempts.
  * json : Too Many Requests
  * json : Unauthorized
+ * json : Use a recovery code
+ * json : Use an authentication code
  * json : Verify Email Address
  * json : Verify Your Email Address
+ * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours.
+ * json : Whoops!
  * json : You are logged in!
  * json : You are receiving this email because we received a password reset request for your account.
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * json : Whoops!
  * auth : failed
  * auth : throttle
  * passwords : throttled
@@ -5178,14 +6173,19 @@ into your web browser:
 <summary>show</summary>
 
  * json : A fresh verification link has been sent to your email address.
+ * json : A new verification link has been sent to the email address you provided during registration.
  * json : All rights reserved.
+ * json : Already registered?
  * json : Before proceeding, please check your email for a verification link.
  * json : click here to request another
  * json : Confirm Password
  * json : Dashboard
  * json : E-Mail Address
+ * json : Email Password Reset Link
  * json : Forbidden
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
+ * json : Forgot your password?
  * json : Go Home
  * json : Hello!
  * json : If you did not create an account, no further action is required.
@@ -5202,28 +6202,39 @@ into your web browser:
  * json : Page Expired
  * json : Password
  * json : Please click the button below to verify your email address.
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Regards
  * json : Register
  * json : Remember Me
- * json : Reset Password
+ * json : Resend Verification Email
  * json : Reset Password Notification
+ * json : Reset Password
  * json : Send Password Reset Link
  * json : Server Error
  * json : Service Unavailable
+ * json : The :attribute must be a valid role.
  * json : This action is unauthorized.
+ * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This user already belongs to the team.
  * json : Toggle navigation
  * json : Too Many Attempts.
  * json : Too Many Requests
  * json : Unauthorized
+ * json : Use a recovery code
+ * json : Use an authentication code
  * json : Verify Email Address
  * json : Verify Your Email Address
+ * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours.
+ * json : Whoops!
  * json : You are logged in!
  * json : You are receiving this email because we received a password reset request for your account.
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * json : Whoops!
  * passwords : throttled
  * validation : after_or_equal
  * validation : before_or_equal
@@ -5316,8 +6327,24 @@ into your web browser:
 <details>
 <summary>show</summary>
 
+ * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Already registered?
  * json : Dashboard
+ * json : Email Password Reset Link
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Forgot your password?
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
+ * json : Resend Verification Email
+ * json : The :attribute must be a valid role.
+ * json : This password does not match our records.
+ * json : This user already belongs to the team.
+ * json : Use a recovery code
+ * json : Use an authentication code
+ * json : We were unable to find a registered user with this email address.
  * json : You are logged in!
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
  * validation-inline : accepted
  * validation-inline : after
  * validation-inline : after_or_equal
@@ -5386,14 +6413,19 @@ into your web browser:
 <summary>show</summary>
 
  * json : A fresh verification link has been sent to your email address.
+ * json : A new verification link has been sent to the email address you provided during registration.
  * json : All rights reserved.
+ * json : Already registered?
  * json : Before proceeding, please check your email for a verification link.
  * json : click here to request another
  * json : Confirm Password
  * json : Dashboard
  * json : E-Mail Address
+ * json : Email Password Reset Link
  * json : Forbidden
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
+ * json : Forgot your password?
  * json : Go Home
  * json : Hello!
  * json : If you did not create an account, no further action is required.
@@ -5410,28 +6442,39 @@ into your web browser:
  * json : Page Expired
  * json : Password
  * json : Please click the button below to verify your email address.
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Regards
  * json : Register
  * json : Remember Me
- * json : Reset Password
+ * json : Resend Verification Email
  * json : Reset Password Notification
+ * json : Reset Password
  * json : Send Password Reset Link
  * json : Server Error
  * json : Service Unavailable
+ * json : The :attribute must be a valid role.
  * json : This action is unauthorized.
+ * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This user already belongs to the team.
  * json : Toggle navigation
  * json : Too Many Attempts.
  * json : Too Many Requests
  * json : Unauthorized
+ * json : Use a recovery code
+ * json : Use an authentication code
  * json : Verify Email Address
  * json : Verify Your Email Address
+ * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours.
+ * json : Whoops!
  * json : You are logged in!
  * json : You are receiving this email because we received a password reset request for your account.
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * json : Whoops!
  * passwords : throttled
  * validation : date_equals
  * validation : ends_with
@@ -5513,9 +6556,28 @@ into your web browser:
 
 ## uk
 
+<details>
+<summary>show</summary>
 
-All lines are translated 😊
+ * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Already registered?
+ * json : Email Password Reset Link
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Forgot your password?
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
+ * json : Resend Verification Email
+ * json : The :attribute must be a valid role.
+ * json : This password does not match our records.
+ * json : This user already belongs to the team.
+ * json : Use a recovery code
+ * json : Use an authentication code
+ * json : We were unable to find a registered user with this email address.
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
 
+[ [to top](#todo-list) ]
+</details>
 
 ## ur
 
@@ -5523,11 +6585,16 @@ All lines are translated 😊
 <summary>show</summary>
 
  * json : A fresh verification link has been sent to your email address.
+ * json : A new verification link has been sent to the email address you provided during registration.
  * json : All rights reserved.
+ * json : Already registered?
  * json : Before proceeding, please check your email for a verification link.
  * json : click here to request another
  * json : Dashboard
+ * json : Email Password Reset Link
  * json : Forbidden
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Forgot your password?
  * json : Go Home
  * json : Hello!
  * json : If you did not create an account, no further action is required.
@@ -5539,22 +6606,33 @@ into your web browser:
  * json : Oh no
  * json : Page Expired
  * json : Please click the button below to verify your email address.
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Regards
+ * json : Resend Verification Email
  * json : Server Error
  * json : Service Unavailable
+ * json : The :attribute must be a valid role.
  * json : This action is unauthorized.
+ * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This user already belongs to the team.
  * json : Toggle navigation
  * json : Too Many Attempts.
  * json : Too Many Requests
  * json : Unauthorized
+ * json : Use a recovery code
+ * json : Use an authentication code
  * json : Verify Email Address
  * json : Verify Your Email Address
+ * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours.
- * json : You are logged in!
- * json : Your email address is not verified.
  * json : Whoops!
+ * json : You are logged in!
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
+ * json : Your email address is not verified.
  * passwords : throttled
  * validation : after_or_equal
  * validation : before_or_equal
@@ -5648,14 +6726,19 @@ into your web browser:
 <summary>show</summary>
 
  * json : A fresh verification link has been sent to your email address.
+ * json : A new verification link has been sent to the email address you provided during registration.
  * json : All rights reserved.
+ * json : Already registered?
  * json : Before proceeding, please check your email for a verification link.
  * json : click here to request another
  * json : Confirm Password
  * json : Dashboard
  * json : E-Mail Address
+ * json : Email Password Reset Link
  * json : Forbidden
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
+ * json : Forgot your password?
  * json : Go Home
  * json : Hello!
  * json : If you did not create an account, no further action is required.
@@ -5672,28 +6755,39 @@ into your web browser:
  * json : Page Expired
  * json : Password
  * json : Please click the button below to verify your email address.
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Regards
  * json : Register
  * json : Remember Me
- * json : Reset Password
+ * json : Resend Verification Email
  * json : Reset Password Notification
+ * json : Reset Password
  * json : Send Password Reset Link
  * json : Server Error
  * json : Service Unavailable
+ * json : The :attribute must be a valid role.
  * json : This action is unauthorized.
+ * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This user already belongs to the team.
  * json : Toggle navigation
  * json : Too Many Attempts.
  * json : Too Many Requests
  * json : Unauthorized
+ * json : Use a recovery code
+ * json : Use an authentication code
  * json : Verify Email Address
  * json : Verify Your Email Address
+ * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours.
+ * json : Whoops!
  * json : You are logged in!
  * json : You are receiving this email because we received a password reset request for your account.
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * json : Whoops!
  * passwords : throttled
  * validation : date_equals
  * validation : ends_with
@@ -5779,14 +6873,19 @@ into your web browser:
 <summary>show</summary>
 
  * json : A fresh verification link has been sent to your email address.
+ * json : A new verification link has been sent to the email address you provided during registration.
  * json : All rights reserved.
+ * json : Already registered?
  * json : Before proceeding, please check your email for a verification link.
  * json : click here to request another
  * json : Confirm Password
  * json : Dashboard
  * json : E-Mail Address
+ * json : Email Password Reset Link
  * json : Forbidden
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
+ * json : Forgot your password?
  * json : Go Home
  * json : Hello!
  * json : If you did not create an account, no further action is required.
@@ -5803,28 +6902,39 @@ into your web browser:
  * json : Page Expired
  * json : Password
  * json : Please click the button below to verify your email address.
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Regards
  * json : Register
  * json : Remember Me
- * json : Reset Password
+ * json : Resend Verification Email
  * json : Reset Password Notification
+ * json : Reset Password
  * json : Send Password Reset Link
  * json : Server Error
  * json : Service Unavailable
+ * json : The :attribute must be a valid role.
  * json : This action is unauthorized.
+ * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This user already belongs to the team.
  * json : Toggle navigation
  * json : Too Many Attempts.
  * json : Too Many Requests
  * json : Unauthorized
+ * json : Use a recovery code
+ * json : Use an authentication code
  * json : Verify Email Address
  * json : Verify Your Email Address
+ * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours.
+ * json : Whoops!
  * json : You are logged in!
  * json : You are receiving this email because we received a password reset request for your account.
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * json : Whoops!
  * validation-inline : accepted
  * validation-inline : active_url
  * validation-inline : after
@@ -5898,8 +7008,24 @@ into your web browser:
 <details>
 <summary>show</summary>
 
+ * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Already registered?
  * json : Dashboard
+ * json : Email Password Reset Link
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Forgot your password?
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
+ * json : Resend Verification Email
+ * json : The :attribute must be a valid role.
+ * json : This password does not match our records.
+ * json : This user already belongs to the team.
+ * json : Use a recovery code
+ * json : Use an authentication code
+ * json : We were unable to find a registered user with this email address.
  * json : You are logged in!
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
  * passwords : throttled
  * validation-inline : accepted
  * validation-inline : active_url
@@ -5971,17 +7097,75 @@ into your web browser:
 
 ## zh_CN
 
+<details>
+<summary>show</summary>
 
-All lines are translated 😊
+ * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Already registered?
+ * json : Email Password Reset Link
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Forgot your password?
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
+ * json : Resend Verification Email
+ * json : The :attribute must be a valid role.
+ * json : This password does not match our records.
+ * json : This user already belongs to the team.
+ * json : Use a recovery code
+ * json : Use an authentication code
+ * json : We were unable to find a registered user with this email address.
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
 
+[ [to top](#todo-list) ]
+</details>
 
 ## zh_HK
 
+<details>
+<summary>show</summary>
 
-All lines are translated 😊
+ * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Already registered?
+ * json : Email Password Reset Link
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Forgot your password?
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
+ * json : Resend Verification Email
+ * json : The :attribute must be a valid role.
+ * json : This password does not match our records.
+ * json : This user already belongs to the team.
+ * json : Use a recovery code
+ * json : Use an authentication code
+ * json : We were unable to find a registered user with this email address.
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
 
+[ [to top](#todo-list) ]
+</details>
 
 ## zh_TW
 
+<details>
+<summary>show</summary>
 
-All lines are translated 😊
+ * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Already registered?
+ * json : Email Password Reset Link
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Forgot your password?
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
+ * json : Resend Verification Email
+ * json : The :attribute must be a valid role.
+ * json : This password does not match our records.
+ * json : This user already belongs to the team.
+ * json : Use a recovery code
+ * json : Use an authentication code
+ * json : We were unable to find a registered user with this email address.
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
+
+[ [to top](#todo-list) ]
+</details>

@@ -6,7 +6,7 @@
 [gl ❗](#gl)|[he ❗](#he)|[hi ❗](#hi)|[hr ❗](#hr)|[hu ❗](#hu)|[hy ❗](#hy)|[id ❗](#id)|[is ❗](#is)|[it ❗](#it)|[ja ❗](#ja)
 [ka ❗](#ka)|[kk ❗](#kk)|[km ❗](#km)|[kn ❗](#kn)|[ko ❗](#ko)|[lt ❗](#lt)|[lv ❗](#lv)|[me ❗](#me)|[mk ❗](#mk)|[mn ❗](#mn)
 [mr ❗](#mr)|[ms ❗](#ms)|[nb ❗](#nb)|[ne ❗](#ne)|[nl ❗](#nl)|[nn ❗](#nn)|[pl ❗](#pl)|[ps ❗](#ps)|[pt ❗](#pt)|[pt_BR ❗](#pt_BR)
-[ro ❗](#ro)|[ru ❗](#ru)|[sc ❗](#sc)|[si ❗](#si)|[sk ❗](#sk)|[sl ❗](#sl)|[sq ❗](#sq)|[sr_Cyrillic ❗](#sr_Cyrillic)|[sr_Latin ❗](#sr_Latin)|[sv ❗](#sv)
+[ro ❗](#ro)|[ru ✔](#ru)|[sc ❗](#sc)|[si ❗](#si)|[sk ❗](#sk)|[sl ❗](#sl)|[sq ❗](#sq)|[sr_Cyrillic ❗](#sr_Cyrillic)|[sr_Latin ❗](#sr_Latin)|[sv ❗](#sv)
 [sw ❗](#sw)|[tg ❗](#tg)|[th ❗](#th)|[tk ❗](#tk)|[tl ❗](#tl)|[tr ❗](#tr)|[ug ❗](#ug)|[uk ❗](#uk)|[ur ❗](#ur)|[uz_Cyrillic ❗](#uz_Cyrillic)
 [uz_Latin ❗](#uz_Latin)|[vi ❗](#vi)|[zh_CN ❗](#zh_CN)|[zh_HK ❗](#zh_HK)|[zh_TW ❗](#zh_TW)
 
@@ -21,6 +21,7 @@
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Already registered?
  * json : Email Password Reset Link
+ * json : Email
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
@@ -53,6 +54,7 @@
  * json : Dashboard
  * json : E-Mail Address
  * json : Email Password Reset Link
+ * json : Email
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
@@ -200,6 +202,7 @@ into your web browser:
  * json : Dashboard
  * json : E-Mail Address
  * json : Email Password Reset Link
+ * json : Email
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
@@ -357,6 +360,7 @@ into your web browser:
  * json : Dashboard
  * json : E-Mail Address
  * json : Email Password Reset Link
+ * json : Email
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
@@ -494,6 +498,7 @@ into your web browser:
  * json : Dashboard
  * json : E-Mail Address
  * json : Email Password Reset Link
+ * json : Email
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
@@ -641,6 +646,7 @@ into your web browser:
  * json : Dashboard
  * json : E-Mail Address
  * json : Email Password Reset Link
+ * json : Email
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
@@ -796,6 +802,7 @@ into your web browser:
  * json : Already registered?
  * json : Dashboard
  * json : Email Password Reset Link
+ * json : Email
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
@@ -888,6 +895,7 @@ into your web browser:
  * json : Already registered?
  * json : Dashboard
  * json : Email Password Reset Link
+ * json : Email
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
@@ -988,6 +996,7 @@ into your web browser:
  * json : Dashboard
  * json : E-Mail Address
  * json : Email Password Reset Link
+ * json : Email
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
@@ -1144,6 +1153,7 @@ into your web browser:
  * json : Already registered?
  * json : Dashboard
  * json : Email Password Reset Link
+ * json : Email
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
  * json : Password
@@ -1238,6 +1248,7 @@ into your web browser:
  * json : Already registered?
  * json : Dashboard
  * json : Email Password Reset Link
+ * json : Email
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
  * json : Name
@@ -1265,6 +1276,7 @@ into your web browser:
  * json : Already registered?
  * json : Dashboard
  * json : Email Password Reset Link
+ * json : Email
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
  * json : Name
@@ -1292,6 +1304,7 @@ into your web browser:
  * json : Already registered?
  * json : Dashboard
  * json : Email Password Reset Link
+ * json : Email
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
  * json : Invalid signature.
@@ -1392,6 +1405,7 @@ into your web browser:
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Already registered?
  * json : Email Password Reset Link
+ * json : Email
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
@@ -1424,6 +1438,7 @@ into your web browser:
  * json : Dashboard
  * json : E-Mail Address
  * json : Email Password Reset Link
+ * json : Email
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
@@ -1557,6 +1572,7 @@ into your web browser:
  * json : Already registered?
  * json : Dashboard : not present
  * json : Email Password Reset Link
+ * json : Email
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
  * json : Invalid signature. : not present
@@ -1660,6 +1676,7 @@ into your web browser:
  * json : Already registered?
  * json : Dashboard : not present
  * json : Email Password Reset Link
+ * json : Email
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
  * json : Invalid signature. : not present
@@ -1701,6 +1718,7 @@ into your web browser:
  * json : Dashboard : not present
  * json : E-Mail Address : not present
  * json : Email Password Reset Link
+ * json : Email
  * json : Forbidden : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password? : not present
@@ -1830,6 +1848,7 @@ into your web browser:
  * json : Dashboard : not present
  * json : E-Mail Address : not present
  * json : Email Password Reset Link : not present
+ * json : Email : not present
  * json : Forbidden : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one. : not present
  * json : Forgot Your Password? : not present
@@ -1970,6 +1989,7 @@ into your web browser: : not present
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Already registered?
  * json : Email Password Reset Link
+ * json : Email
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
@@ -1996,6 +2016,7 @@ into your web browser: : not present
  * json : Already registered?
  * json : Dashboard : not present
  * json : Email Password Reset Link
+ * json : Email
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
  * json : Invalid signature. : not present
@@ -2097,6 +2118,7 @@ into your web browser: : not present
  * json : Already registered?
  * json : Dashboard : not present
  * json : Email Password Reset Link
+ * json : Email
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
@@ -2197,6 +2219,7 @@ into your web browser: : not present
  * json : Dashboard
  * json : E-Mail Address
  * json : Email Password Reset Link
+ * json : Email
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
@@ -2337,6 +2360,7 @@ into your web browser:
  * json : click here to request another : not present
  * json : Dashboard : not present
  * json : Email Password Reset Link
+ * json : Email
  * json : Forbidden : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
@@ -2458,6 +2482,7 @@ into your web browser: : not present
  * json : Already registered?
  * json : Dashboard : not present
  * json : Email Password Reset Link
+ * json : Email
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
@@ -2549,6 +2574,7 @@ into your web browser: : not present
  * json : Already registered?
  * json : Dashboard : not present
  * json : Email Password Reset Link
+ * json : Email
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
@@ -2641,6 +2667,7 @@ into your web browser: : not present
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Already registered?
  * json : Email Password Reset Link
+ * json : Email
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
@@ -2673,6 +2700,7 @@ into your web browser: : not present
  * json : Dashboard
  * json : E-Mail Address
  * json : Email Password Reset Link
+ * json : Email
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
@@ -2809,6 +2837,7 @@ into your web browser:
  * json : click here to request another : not present
  * json : Dashboard : not present
  * json : Email Password Reset Link
+ * json : Email
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
  * json : Oh no
@@ -2904,6 +2933,7 @@ into your web browser:
  * json : Already registered?
  * json : Dashboard : not present
  * json : Email Password Reset Link
+ * json : Email
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
  * json : Invalid signature. : not present
@@ -3008,6 +3038,7 @@ into your web browser:
  * json : click here to request another : not present
  * json : Dashboard : not present
  * json : Email Password Reset Link
+ * json : Email
  * json : Forbidden : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
@@ -3128,6 +3159,7 @@ into your web browser: : not present
  * json : Already registered?
  * json : Dashboard : not present
  * json : Email Password Reset Link
+ * json : Email
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
@@ -3226,6 +3258,7 @@ into your web browser: : not present
  * json : Dashboard
  * json : E-Mail Address
  * json : Email Password Reset Link
+ * json : Email
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
@@ -3383,6 +3416,7 @@ into your web browser:
  * json : Already registered?
  * json : Dashboard : not present
  * json : Email Password Reset Link
+ * json : Email
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
  * json : Invalid signature. : not present
@@ -3485,6 +3519,7 @@ into your web browser:
  * json : Already registered?
  * json : Dashboard : not present
  * json : Email Password Reset Link
+ * json : Email
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
@@ -3511,6 +3546,7 @@ into your web browser:
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Already registered?
  * json : Email Password Reset Link
+ * json : Email
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
@@ -3543,6 +3579,7 @@ into your web browser:
  * json : Dashboard
  * json : E-Mail Address
  * json : Email Password Reset Link
+ * json : Email
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
@@ -3682,6 +3719,7 @@ into your web browser:
  * json : Dashboard
  * json : E-Mail Address
  * json : Email Password Reset Link
+ * json : Email
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
@@ -3837,6 +3875,7 @@ into your web browser:
  * json : Dashboard
  * json : E-Mail Address
  * json : Email Password Reset Link
+ * json : Email
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
@@ -4001,6 +4040,7 @@ into your web browser:
  * json : Dashboard
  * json : E-Mail Address
  * json : Email Password Reset Link
+ * json : Email
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
@@ -4148,6 +4188,7 @@ into your web browser:
  * json : click here to request another : not present
  * json : Dashboard : not present
  * json : Email Password Reset Link
+ * json : Email
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
  * json : Invalid signature. : not present
@@ -4250,6 +4291,7 @@ into your web browser:
  * json : Already registered?
  * json : Dashboard : not present
  * json : Email Password Reset Link
+ * json : Email
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
  * json : Invalid signature. : not present
@@ -4354,6 +4396,7 @@ into your web browser:
  * json : Already registered?
  * json : Dashboard : not present
  * json : Email Password Reset Link
+ * json : Email
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
@@ -4446,6 +4489,7 @@ into your web browser:
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Already registered?
  * json : Email Password Reset Link
+ * json : Email
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
@@ -4472,6 +4516,7 @@ into your web browser:
  * json : Already registered?
  * json : Dashboard
  * json : Email Password Reset Link
+ * json : Email
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
@@ -4498,6 +4543,7 @@ into your web browser:
  * json : Already registered?
  * json : Dashboard : not present
  * json : Email Password Reset Link
+ * json : Email
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
@@ -4592,6 +4638,7 @@ into your web browser:
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Already registered?
  * json : Email Password Reset Link
+ * json : Email
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
@@ -4618,6 +4665,7 @@ into your web browser:
  * json : Already registered?
  * json : Dashboard : not present
  * json : Email Password Reset Link
+ * json : Email
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
  * json : Invalid signature. : not present
@@ -4720,6 +4768,7 @@ into your web browser:
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Already registered?
  * json : Email Password Reset Link
+ * json : Email
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
@@ -4745,6 +4794,7 @@ into your web browser:
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Already registered?
  * json : Email Password Reset Link
+ * json : Email
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
@@ -4771,6 +4821,7 @@ into your web browser:
  * json : Already registered?
  * json : Dashboard : not present
  * json : Email Password Reset Link
+ * json : Email
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
@@ -4856,28 +4907,9 @@ into your web browser:
 
 ## ru
 
-<details>
-<summary>show</summary>
 
- * json : A new verification link has been sent to the email address you provided during registration.
- * json : Already registered?
- * json : Email Password Reset Link
- * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
- * json : Forgot your password?
- * json : Please confirm access to your account by entering one of your emergency recovery codes.
- * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
- * json : Resend Verification Email
- * json : The :attribute must be a valid role.
- * json : This password does not match our records.
- * json : This user already belongs to the team.
- * json : Use a recovery code
- * json : Use an authentication code
- * json : We were unable to find a registered user with this email address.
- * json : You may not delete your personal team.
- * json : You may not leave a team that you created.
+All lines are translated 😊
 
-[ [to top](#todo-list) ]
-</details>
 
 ## sc
 
@@ -4894,6 +4926,7 @@ into your web browser:
  * json : Dashboard
  * json : E-Mail Address
  * json : Email Password Reset Link
+ * json : Email
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
@@ -5056,6 +5089,7 @@ into your web browser:
  * json : Dashboard
  * json : E-Mail Address
  * json : Email Password Reset Link
+ * json : Email
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
@@ -5188,6 +5222,7 @@ into your web browser:
  * json : Already registered?
  * json : Dashboard : not present
  * json : Email Password Reset Link
+ * json : Email
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
@@ -5283,6 +5318,7 @@ into your web browser:
  * json : click here to request another : not present
  * json : Dashboard : not present
  * json : Email Password Reset Link
+ * json : Email
  * json : Forbidden : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
@@ -5410,6 +5446,7 @@ into your web browser: : not present
  * json : Dashboard
  * json : E-Mail Address
  * json : Email Password Reset Link
+ * json : Email
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
@@ -5475,6 +5512,7 @@ into your web browser:
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Already registered?
  * json : Email Password Reset Link
+ * json : Email
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
@@ -5500,6 +5538,7 @@ into your web browser:
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Already registered?
  * json : Email Password Reset Link
+ * json : Email
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
@@ -5526,6 +5565,7 @@ into your web browser:
  * json : Already registered?
  * json : Dashboard : not present
  * json : Email Password Reset Link
+ * json : Email
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
@@ -5623,6 +5663,7 @@ into your web browser:
  * json : Dashboard
  * json : E-Mail Address
  * json : Email Password Reset Link
+ * json : Email
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
@@ -5762,6 +5803,7 @@ into your web browser:
  * json : Dashboard
  * json : E-Mail Address
  * json : Email Password Reset Link
+ * json : Email
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
@@ -5906,6 +5948,7 @@ into your web browser:
  * json : Already registered?
  * json : Dashboard
  * json : Email Password Reset Link
+ * json : Email
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
@@ -6020,6 +6063,7 @@ into your web browser: : not present
  * json : Dashboard
  * json : E-Mail Address
  * json : Email Password Reset Link
+ * json : Email
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
@@ -6182,6 +6226,7 @@ into your web browser:
  * json : Dashboard
  * json : E-Mail Address
  * json : Email Password Reset Link
+ * json : Email
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
@@ -6331,6 +6376,7 @@ into your web browser:
  * json : Already registered?
  * json : Dashboard
  * json : Email Password Reset Link
+ * json : Email
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
@@ -6422,6 +6468,7 @@ into your web browser:
  * json : Dashboard
  * json : E-Mail Address
  * json : Email Password Reset Link
+ * json : Email
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
@@ -6562,6 +6609,7 @@ into your web browser:
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Already registered?
  * json : Email Password Reset Link
+ * json : Email
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
@@ -6592,6 +6640,7 @@ into your web browser:
  * json : click here to request another
  * json : Dashboard
  * json : Email Password Reset Link
+ * json : Email
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
@@ -6735,6 +6784,7 @@ into your web browser:
  * json : Dashboard
  * json : E-Mail Address
  * json : Email Password Reset Link
+ * json : Email
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
@@ -6882,6 +6932,7 @@ into your web browser:
  * json : Dashboard
  * json : E-Mail Address
  * json : Email Password Reset Link
+ * json : Email
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
@@ -7012,6 +7063,7 @@ into your web browser:
  * json : Already registered?
  * json : Dashboard
  * json : Email Password Reset Link
+ * json : Email
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
@@ -7103,6 +7155,7 @@ into your web browser:
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Already registered?
  * json : Email Password Reset Link
+ * json : Email
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
@@ -7128,6 +7181,7 @@ into your web browser:
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Already registered?
  * json : Email Password Reset Link
+ * json : Email
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
@@ -7153,6 +7207,7 @@ into your web browser:
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Already registered?
  * json : Email Password Reset Link
+ * json : Email
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
  * json : Please confirm access to your account by entering one of your emergency recovery codes.

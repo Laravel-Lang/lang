@@ -117,6 +117,7 @@
     "Team Name": "Nombre del Equipo",
     "Team Owner": "Propietario del Equipo",
     "Team Settings": "Ajustes del equipo",
+    "The :attribute must be a valid role.": ":Attribute debe ser un rol válido.",
     "The team's name and owner information.": "Nombre del equipo e información del propietario.",
     "This action is unauthorized.": "Esta acción no está autorizada.",
     "This device": "Este dispositivo",

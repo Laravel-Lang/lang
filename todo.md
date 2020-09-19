@@ -6,7 +6,7 @@
 [gl ❗](#gl)|[he ❗](#he)|[hi ❗](#hi)|[hr ❗](#hr)|[hu ❗](#hu)|[hy ❗](#hy)|[id ❗](#id)|[is ❗](#is)|[it ❗](#it)|[ja ❗](#ja)
 [ka ❗](#ka)|[kk ❗](#kk)|[km ❗](#km)|[kn ❗](#kn)|[ko ❗](#ko)|[lt ❗](#lt)|[lv ❗](#lv)|[me ❗](#me)|[mk ❗](#mk)|[mn ❗](#mn)
 [mr ❗](#mr)|[ms ❗](#ms)|[nb ❗](#nb)|[ne ❗](#ne)|[nl ❗](#nl)|[nn ❗](#nn)|[pl ❗](#pl)|[ps ❗](#ps)|[pt ❗](#pt)|[pt_BR ❗](#pt_BR)
-[ro ❗](#ro)|[ru ✔](#ru)|[sc ❗](#sc)|[si ❗](#si)|[sk ❗](#sk)|[sl ❗](#sl)|[sq ❗](#sq)|[sr_Cyrillic ❗](#sr_Cyrillic)|[sr_Latin ❗](#sr_Latin)|[sv ❗](#sv)
+[ro ❗](#ro)|[ru ❗](#ru)|[sc ❗](#sc)|[si ❗](#si)|[sk ❗](#sk)|[sl ❗](#sl)|[sq ❗](#sq)|[sr_Cyrillic ❗](#sr_Cyrillic)|[sr_Latin ❗](#sr_Latin)|[sv ❗](#sv)
 [sw ❗](#sw)|[tg ❗](#tg)|[th ❗](#th)|[tk ❗](#tk)|[tl ❗](#tl)|[tr ❗](#tr)|[ug ❗](#ug)|[uk ❗](#uk)|[ur ❗](#ur)|[uz_Cyrillic ❗](#uz_Cyrillic)
 [uz_Latin ❗](#uz_Latin)|[vi ❗](#vi)|[zh_CN ❗](#zh_CN)|[zh_HK ❗](#zh_HK)|[zh_TW ❗](#zh_TW)
 
@@ -31,6 +31,7 @@
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -58,6 +59,7 @@
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : Last active : not present
  * json : Last used : not present
  * json : Leave Team : not present
@@ -71,6 +73,7 @@
  * json : Nevermind : not present
  * json : New Password : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
  * json : Permissions : not present
@@ -145,6 +148,7 @@
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -181,6 +185,7 @@
  * json : Forgot your password?
  * json : Go Home
  * json : Hello!
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you did not request a password reset, no further action is required.
@@ -205,6 +210,7 @@ into your web browser:
  * json : Not Found
  * json : Oh no
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Page Expired
  * json : Password
  * json : Permanently delete this team. : not present
@@ -379,6 +385,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -415,6 +422,7 @@ into your web browser:
  * json : Forgot your password?
  * json : Go Home
  * json : Hello!
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you did not request a password reset, no further action is required.
@@ -439,6 +447,7 @@ into your web browser:
  * json : Not Found
  * json : Oh no
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Page Expired
  * json : Password
  * json : Permanently delete this team. : not present
@@ -623,6 +632,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -659,6 +669,7 @@ into your web browser:
  * json : Forgot your password?
  * json : Go Home
  * json : Hello!
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you did not request a password reset, no further action is required.
@@ -683,6 +694,7 @@ into your web browser:
  * json : Not Found
  * json : Oh no
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Page Expired
  * json : Password
  * json : Permanently delete this team. : not present
@@ -847,6 +859,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -883,6 +896,7 @@ into your web browser:
  * json : Forgot your password?
  * json : Go Home
  * json : Hello!
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you did not request a password reset, no further action is required.
@@ -907,6 +921,7 @@ into your web browser:
  * json : Not Found
  * json : Oh no
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Page Expired
  * json : Password
  * json : Permanently delete this team. : not present
@@ -1081,6 +1096,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -1117,6 +1133,7 @@ into your web browser:
  * json : Forgot your password?
  * json : Go Home
  * json : Hello!
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you did not request a password reset, no further action is required.
@@ -1141,6 +1158,7 @@ into your web browser:
  * json : Not Found
  * json : Oh no
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Page Expired
  * json : Password
  * json : Permanently delete this team. : not present
@@ -1327,6 +1345,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -1355,6 +1374,7 @@ into your web browser:
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : Last active : not present
  * json : Last used : not present
  * json : Leave Team : not present
@@ -1368,6 +1388,7 @@ into your web browser:
  * json : Nevermind : not present
  * json : New Password : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
  * json : Permissions : not present
@@ -1506,6 +1527,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -1534,6 +1556,7 @@ into your web browser:
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : Last active : not present
  * json : Last used : not present
  * json : Leave Team : not present
@@ -1547,6 +1570,7 @@ into your web browser:
  * json : Nevermind : not present
  * json : New Password : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
  * json : Permissions : not present
@@ -1689,6 +1713,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -1725,6 +1750,7 @@ into your web browser:
  * json : Forgot your password?
  * json : Go Home
  * json : Hello!
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you did not request a password reset, no further action is required.
@@ -1749,6 +1775,7 @@ into your web browser:
  * json : Not Found
  * json : Oh no
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Page Expired
  * json : Password
  * json : Permanently delete this team. : not present
@@ -1936,6 +1963,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -1964,6 +1992,7 @@ into your web browser:
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : Last active : not present
  * json : Last used : not present
  * json : Leave Team : not present
@@ -1977,6 +2006,7 @@ into your web browser:
  * json : Nevermind : not present
  * json : New Password : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Password
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
@@ -2117,6 +2147,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -2145,6 +2176,7 @@ into your web browser:
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : Last active : not present
  * json : Last used : not present
  * json : Leave Team : not present
@@ -2159,6 +2191,7 @@ into your web browser:
  * json : Nevermind : not present
  * json : New Password : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
  * json : Permissions : not present
@@ -2231,6 +2264,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -2259,6 +2293,7 @@ into your web browser:
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : Last active : not present
  * json : Last used : not present
  * json : Leave Team : not present
@@ -2273,6 +2308,7 @@ into your web browser:
  * json : Nevermind : not present
  * json : New Password : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
  * json : Permissions : not present
@@ -2345,6 +2381,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -2373,6 +2410,7 @@ into your web browser:
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : Invalid signature.
  * json : Last active : not present
  * json : Last used : not present
@@ -2388,6 +2426,7 @@ into your web browser:
  * json : New Password : not present
  * json : Not Found
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
  * json : Permissions : not present
@@ -2541,6 +2580,7 @@ All lines are translated 😊
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -2577,6 +2617,7 @@ All lines are translated 😊
  * json : Forgot your password?
  * json : Go Home
  * json : Hello!
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you did not request a password reset, no further action is required.
@@ -2601,6 +2642,7 @@ into your web browser:
  * json : Not Found
  * json : Oh no
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Page Expired
  * json : Password
  * json : Permanently delete this team. : not present
@@ -2765,6 +2807,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -2793,6 +2836,7 @@ into your web browser:
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : Invalid signature. : not present
  * json : Last active : not present
  * json : Last used : not present
@@ -2808,6 +2852,7 @@ into your web browser:
  * json : New Password : not present
  * json : Not Found : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
  * json : Permissions : not present
@@ -2955,6 +3000,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -2983,6 +3029,7 @@ into your web browser:
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : Invalid signature. : not present
  * json : Last active : not present
  * json : Last used : not present
@@ -2998,6 +3045,7 @@ into your web browser:
  * json : New Password : not present
  * json : Not Found : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
  * json : Permissions : not present
@@ -3079,6 +3127,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -3114,6 +3163,7 @@ into your web browser:
  * json : Forgot Your Password? : not present
  * json : Forgot your password?
  * json : Go Home : not present
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you did not create an account, no further action is required. : not present
  * json : If you did not receive the email : not present
  * json : Invalid signature. : not present
@@ -3135,6 +3185,7 @@ into your web browser:
  * json : Not Found : not present
  * json : Oh no : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Page Expired : not present
  * json : Password : not present
  * json : Permanently delete this team. : not present
@@ -3295,6 +3346,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -3331,6 +3383,7 @@ into your web browser:
  * json : Forgot your password? : not present
  * json : Go Home : not present
  * json : Hello! : not present
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you did not create an account, no further action is required. : not present
  * json : If you did not receive the email : not present
  * json : If you did not request a password reset, no further action is required. : not present
@@ -3355,6 +3408,7 @@ into your web browser: : not present
  * json : Not Found : not present
  * json : Oh no : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Page Expired : not present
  * json : Password : not present
  * json : Permanently delete this team. : not present
@@ -3527,6 +3581,7 @@ into your web browser: : not present
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -3554,6 +3609,7 @@ into your web browser: : not present
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : Last active : not present
  * json : Last used : not present
  * json : Leave Team : not present
@@ -3567,6 +3623,7 @@ into your web browser: : not present
  * json : Nevermind : not present
  * json : New Password : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
  * json : Permissions : not present
@@ -3639,6 +3696,7 @@ into your web browser: : not present
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -3667,6 +3725,7 @@ into your web browser: : not present
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : Invalid signature. : not present
  * json : Last active : not present
  * json : Last used : not present
@@ -3682,6 +3741,7 @@ into your web browser: : not present
  * json : New Password : not present
  * json : Not Found : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
  * json : Permissions : not present
@@ -3827,6 +3887,7 @@ into your web browser: : not present
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -3855,6 +3916,7 @@ into your web browser: : not present
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : Last active : not present
  * json : Last used : not present
  * json : Leave Team : not present
@@ -3868,6 +3930,7 @@ into your web browser: : not present
  * json : Nevermind : not present
  * json : New Password : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
  * json : Permissions : not present
@@ -4010,6 +4073,7 @@ into your web browser: : not present
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -4046,6 +4110,7 @@ into your web browser: : not present
  * json : Forgot your password?
  * json : Go Home
  * json : Hello!
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you did not request a password reset, no further action is required.
@@ -4070,6 +4135,7 @@ into your web browser:
  * json : Not Found
  * json : Oh no
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Page Expired
  * json : Password
  * json : Permanently delete this team. : not present
@@ -4239,6 +4305,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -4272,6 +4339,7 @@ into your web browser:
  * json : Forgot your password?
  * json : Go Home : not present
  * json : Hello! : not present
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you did not create an account, no further action is required. : not present
  * json : If you did not receive the email : not present
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
@@ -4292,6 +4360,7 @@ into your web browser: : not present
  * json : Not Found : not present
  * json : Oh no : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Page Expired : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
@@ -4449,6 +4518,7 @@ into your web browser: : not present
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -4477,6 +4547,7 @@ into your web browser: : not present
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : Last active : not present
  * json : Last used : not present
  * json : Leave Team : not present
@@ -4490,6 +4561,7 @@ into your web browser: : not present
  * json : Nevermind : not present
  * json : New Password : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
  * json : Permissions : not present
@@ -4627,6 +4699,7 @@ into your web browser: : not present
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -4655,6 +4728,7 @@ into your web browser: : not present
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: : not present
  * json : Last active : not present
@@ -4670,6 +4744,7 @@ into your web browser: : not present
  * json : Nevermind : not present
  * json : New Password : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
  * json : Permissions : not present
@@ -4807,6 +4882,7 @@ into your web browser: : not present
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -4834,6 +4910,7 @@ into your web browser: : not present
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : Last active : not present
  * json : Last used : not present
  * json : Leave Team : not present
@@ -4847,6 +4924,7 @@ into your web browser: : not present
  * json : Nevermind : not present
  * json : New Password : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
  * json : Permissions : not present
@@ -4921,6 +4999,7 @@ into your web browser: : not present
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -4957,6 +5036,7 @@ into your web browser: : not present
  * json : Forgot your password?
  * json : Go Home
  * json : Hello!
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you did not request a password reset, no further action is required.
@@ -4981,6 +5061,7 @@ into your web browser:
  * json : Not Found
  * json : Oh no
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Page Expired
  * json : Password
  * json : Permanently delete this team. : not present
@@ -5147,6 +5228,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -5176,6 +5258,7 @@ into your web browser:
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : Last active : not present
  * json : Last used : not present
  * json : Leave Team : not present
@@ -5190,6 +5273,7 @@ into your web browser:
  * json : New Password : not present
  * json : Oh no
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Password
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
@@ -5330,6 +5414,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -5358,6 +5443,7 @@ into your web browser:
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : Invalid signature. : not present
  * json : Last active : not present
  * json : Last used : not present
@@ -5373,6 +5459,7 @@ into your web browser:
  * json : New Password : not present
  * json : Not Found : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
  * json : Permissions : not present
@@ -5519,6 +5606,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -5552,6 +5640,7 @@ into your web browser:
  * json : Forgot your password?
  * json : Go Home : not present
  * json : Hello! : not present
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you did not create an account, no further action is required. : not present
  * json : If you did not receive the email : not present
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
@@ -5572,6 +5661,7 @@ into your web browser: : not present
  * json : Not Found : not present
  * json : Oh no : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Page Expired : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
@@ -5728,6 +5818,7 @@ into your web browser: : not present
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -5756,6 +5847,7 @@ into your web browser: : not present
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : Last active : not present
  * json : Last used : not present
  * json : Leave Team : not present
@@ -5769,6 +5861,7 @@ into your web browser: : not present
  * json : Nevermind : not present
  * json : New Password : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
  * json : Permissions : not present
@@ -5909,6 +6002,7 @@ into your web browser: : not present
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -5945,6 +6039,7 @@ into your web browser: : not present
  * json : Forgot your password?
  * json : Go Home
  * json : Hello!
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you did not request a password reset, no further action is required.
@@ -5969,6 +6064,7 @@ into your web browser:
  * json : Not Found
  * json : Oh no
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Page Expired
  * json : Password
  * json : Permanently delete this team. : not present
@@ -6157,6 +6253,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -6185,6 +6282,7 @@ into your web browser:
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : Invalid signature. : not present
  * json : Last active : not present
  * json : Last used : not present
@@ -6200,6 +6298,7 @@ into your web browser:
  * json : New Password : not present
  * json : Not Found : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
  * json : Permissions : not present
@@ -6346,6 +6445,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -6374,6 +6474,7 @@ into your web browser:
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : Last active : not present
  * json : Last used : not present
  * json : Leave Team : not present
@@ -6387,6 +6488,7 @@ into your web browser:
  * json : Nevermind : not present
  * json : New Password : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
  * json : Permissions : not present
@@ -6460,6 +6562,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -6487,6 +6590,7 @@ into your web browser:
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : Last active : not present
  * json : Last used : not present
  * json : Leave Team : not present
@@ -6500,6 +6604,7 @@ into your web browser:
  * json : Nevermind : not present
  * json : New Password : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
  * json : Permissions : not present
@@ -6574,6 +6679,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -6610,6 +6716,7 @@ into your web browser:
  * json : Forgot your password?
  * json : Go Home
  * json : Hello!
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you did not request a password reset, no further action is required.
@@ -6634,6 +6741,7 @@ into your web browser:
  * json : Not Found
  * json : Oh no
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Page Expired
  * json : Password
  * json : Permanently delete this team. : not present
@@ -6800,6 +6908,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -6836,6 +6945,7 @@ into your web browser:
  * json : Forgot your password?
  * json : Go Home
  * json : Hello!
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you did not request a password reset, no further action is required.
@@ -6860,6 +6970,7 @@ into your web browser:
  * json : Not Found
  * json : Oh no
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Page Expired
  * json : Password
  * json : Permanently delete this team. : not present
@@ -7042,6 +7153,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -7078,6 +7190,7 @@ into your web browser:
  * json : Forgot your password?
  * json : Go Home
  * json : Hello!
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you did not request a password reset, no further action is required.
@@ -7102,6 +7215,7 @@ into your web browser:
  * json : Not Found
  * json : Oh no
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Page Expired
  * json : Password
  * json : Permanently delete this team. : not present
@@ -7293,6 +7407,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -7329,6 +7444,7 @@ into your web browser:
  * json : Forgot your password?
  * json : Go Home
  * json : Hello!
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you did not request a password reset, no further action is required.
@@ -7353,6 +7469,7 @@ into your web browser:
  * json : Not Found
  * json : Oh no
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Page Expired
  * json : Password
  * json : Permanently delete this team. : not present
@@ -7530,6 +7647,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -7559,6 +7677,7 @@ into your web browser:
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : Invalid signature. : not present
  * json : Last active : not present
  * json : Last used : not present
@@ -7574,6 +7693,7 @@ into your web browser:
  * json : New Password : not present
  * json : Not Found : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
  * json : Permissions : not present
@@ -7720,6 +7840,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -7748,6 +7869,7 @@ into your web browser:
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : Invalid signature. : not present
  * json : Last active : not present
  * json : Last used : not present
@@ -7763,6 +7885,7 @@ into your web browser:
  * json : New Password : not present
  * json : Not Found : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
  * json : Permissions : not present
@@ -7911,6 +8034,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -7939,6 +8063,7 @@ into your web browser:
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : Last active : not present
  * json : Last used : not present
  * json : Leave Team : not present
@@ -7952,6 +8077,7 @@ into your web browser:
  * json : Nevermind : not present
  * json : New Password : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
  * json : Permissions : not present
@@ -8091,6 +8217,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -8118,6 +8245,7 @@ into your web browser:
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : Last active : not present
  * json : Last used : not present
  * json : Leave Team : not present
@@ -8131,6 +8259,7 @@ into your web browser:
  * json : Nevermind : not present
  * json : New Password : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
  * json : Permissions : not present
@@ -8203,6 +8332,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -8231,6 +8361,7 @@ into your web browser:
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : Last active : not present
  * json : Last used : not present
  * json : Leave Team : not present
@@ -8244,6 +8375,7 @@ into your web browser:
  * json : Nevermind : not present
  * json : New Password : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
  * json : Permissions : not present
@@ -8316,6 +8448,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -8344,6 +8477,7 @@ into your web browser:
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : Last active : not present
  * json : Last used : not present
  * json : Leave Team : not present
@@ -8357,6 +8491,7 @@ into your web browser:
  * json : Nevermind : not present
  * json : New Password : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
  * json : Permissions : not present
@@ -8498,6 +8633,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -8525,6 +8661,7 @@ into your web browser:
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : Last active : not present
  * json : Last used : not present
  * json : Leave Team : not present
@@ -8538,6 +8675,7 @@ into your web browser:
  * json : Nevermind : not present
  * json : New Password : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
  * json : Permissions : not present
@@ -8610,6 +8748,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -8638,6 +8777,7 @@ into your web browser:
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : Invalid signature. : not present
  * json : Last active : not present
  * json : Last used : not present
@@ -8653,6 +8793,7 @@ into your web browser:
  * json : New Password : not present
  * json : Not Found : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
  * json : Permissions : not present
@@ -8800,6 +8941,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -8827,6 +8969,7 @@ into your web browser:
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : Last active : not present
  * json : Last used : not present
  * json : Leave Team : not present
@@ -8840,6 +8983,7 @@ into your web browser:
  * json : Nevermind : not present
  * json : New Password : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
  * json : Permissions : not present
@@ -8912,6 +9056,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -8939,6 +9084,7 @@ into your web browser:
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : Last active : not present
  * json : Last used : not present
  * json : Leave Team : not present
@@ -8952,6 +9098,7 @@ into your web browser:
  * json : Nevermind : not present
  * json : New Password : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
  * json : Permissions : not present
@@ -9024,6 +9171,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -9052,6 +9200,7 @@ into your web browser:
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : Last active : not present
  * json : Last used : not present
  * json : Leave Team : not present
@@ -9065,6 +9214,7 @@ into your web browser:
  * json : Nevermind : not present
  * json : New Password : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
  * json : Permissions : not present
@@ -9187,9 +9337,15 @@ into your web browser:
 
 ## ru
 
+<details>
+<summary>show</summary>
 
-All lines are translated 😊
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## sc
 
@@ -9211,6 +9367,7 @@ All lines are translated 😊
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -9247,6 +9404,7 @@ All lines are translated 😊
  * json : Forgot your password?
  * json : Go Home
  * json : Hello!
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you did not request a password reset, no further action is required.
@@ -9271,6 +9429,7 @@ into your web browser:
  * json : Not Found
  * json : Oh no
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Page Expired
  * json : Password
  * json : Permanently delete this team. : not present
@@ -9460,6 +9619,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -9496,6 +9656,7 @@ into your web browser:
  * json : Forgot your password?
  * json : Go Home
  * json : Hello!
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you did not request a password reset, no further action is required.
@@ -9520,6 +9681,7 @@ into your web browser:
  * json : Not Found
  * json : Oh no
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Page Expired
  * json : Password
  * json : Permanently delete this team. : not present
@@ -9683,6 +9845,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -9711,6 +9874,7 @@ into your web browser:
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : Last active : not present
  * json : Last used : not present
  * json : Leave Team : not present
@@ -9724,6 +9888,7 @@ into your web browser:
  * json : Nevermind : not present
  * json : New Password : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
  * json : Permissions : not present
@@ -9863,6 +10028,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -9896,6 +10062,7 @@ into your web browser:
  * json : Forgot your password?
  * json : Go Home : not present
  * json : Hello! : not present
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you did not create an account, no further action is required. : not present
  * json : If you did not receive the email : not present
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
@@ -9916,6 +10083,7 @@ into your web browser: : not present
  * json : Not Found : not present
  * json : Oh no : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Page Expired : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
@@ -10075,6 +10243,7 @@ into your web browser: : not present
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -10111,6 +10280,7 @@ into your web browser: : not present
  * json : Forgot your password?
  * json : Go Home
  * json : Hello!
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you did not request a password reset, no further action is required.
@@ -10135,6 +10305,7 @@ into your web browser:
  * json : Not Found
  * json : Oh no
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Page Expired
  * json : Password
  * json : Permanently delete this team. : not present
@@ -10232,6 +10403,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -10259,6 +10431,7 @@ into your web browser:
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : Last active : not present
  * json : Last used : not present
  * json : Leave Team : not present
@@ -10272,6 +10445,7 @@ into your web browser:
  * json : Nevermind : not present
  * json : New Password : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
  * json : Permissions : not present
@@ -10344,6 +10518,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -10371,6 +10546,7 @@ into your web browser:
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : Last active : not present
  * json : Last used : not present
  * json : Leave Team : not present
@@ -10384,6 +10560,7 @@ into your web browser:
  * json : Nevermind : not present
  * json : New Password : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
  * json : Permissions : not present
@@ -10456,6 +10633,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -10484,6 +10662,7 @@ into your web browser:
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : Last active : not present
  * json : Last used : not present
  * json : Leave Team : not present
@@ -10497,6 +10676,7 @@ into your web browser:
  * json : Nevermind : not present
  * json : New Password : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
  * json : Permissions : not present
@@ -10636,6 +10816,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -10672,6 +10853,7 @@ into your web browser:
  * json : Forgot your password?
  * json : Go Home
  * json : Hello!
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you did not request a password reset, no further action is required.
@@ -10696,6 +10878,7 @@ into your web browser:
  * json : Not Found
  * json : Oh no
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Page Expired
  * json : Password
  * json : Permanently delete this team. : not present
@@ -10862,6 +11045,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -10898,6 +11082,7 @@ into your web browser:
  * json : Forgot your password?
  * json : Go Home
  * json : Hello!
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you did not request a password reset, no further action is required.
@@ -10922,6 +11107,7 @@ into your web browser:
  * json : Not Found
  * json : Oh no
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Page Expired
  * json : Password
  * json : Permanently delete this team. : not present
@@ -11097,6 +11283,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -11126,6 +11313,7 @@ into your web browser:
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser: : not present
  * json : Invalid signature.
@@ -11143,6 +11331,7 @@ into your web browser: : not present
  * json : New Password : not present
  * json : Not Found
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
  * json : Permissions : not present
@@ -11294,6 +11483,7 @@ into your web browser: : not present
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -11330,6 +11520,7 @@ into your web browser: : not present
  * json : Forgot your password?
  * json : Go Home
  * json : Hello!
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you did not request a password reset, no further action is required.
@@ -11354,6 +11545,7 @@ into your web browser:
  * json : Not Found
  * json : Oh no
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Page Expired
  * json : Password
  * json : Permanently delete this team. : not present
@@ -11543,6 +11735,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -11579,6 +11772,7 @@ into your web browser:
  * json : Forgot your password?
  * json : Go Home
  * json : Hello!
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you did not request a password reset, no further action is required.
@@ -11603,6 +11797,7 @@ into your web browser:
  * json : Not Found
  * json : Oh no
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Page Expired
  * json : Password
  * json : Permanently delete this team. : not present
@@ -11783,6 +11978,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -11811,6 +12007,7 @@ into your web browser:
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : Last active : not present
  * json : Last used : not present
  * json : Leave Team : not present
@@ -11824,6 +12021,7 @@ into your web browser:
  * json : Nevermind : not present
  * json : New Password : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
  * json : Permissions : not present
@@ -11957,6 +12155,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -11993,6 +12192,7 @@ into your web browser:
  * json : Forgot your password?
  * json : Go Home
  * json : Hello!
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you did not request a password reset, no further action is required.
@@ -12017,6 +12217,7 @@ into your web browser:
  * json : Not Found
  * json : Oh no
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Page Expired
  * json : Password
  * json : Permanently delete this team. : not present
@@ -12189,6 +12390,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -12216,6 +12418,7 @@ into your web browser:
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : Last active : not present
  * json : Last used : not present
  * json : Leave Team : not present
@@ -12229,6 +12432,7 @@ into your web browser:
  * json : Nevermind : not present
  * json : New Password : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
  * json : Permissions : not present
@@ -12303,6 +12507,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -12336,6 +12541,7 @@ into your web browser:
  * json : Forgot your password?
  * json : Go Home
  * json : Hello!
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
@@ -12356,6 +12562,7 @@ into your web browser:
  * json : Not Found
  * json : Oh no
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Page Expired
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
@@ -12531,6 +12738,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -12567,6 +12775,7 @@ into your web browser:
  * json : Forgot your password?
  * json : Go Home
  * json : Hello!
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you did not request a password reset, no further action is required.
@@ -12591,6 +12800,7 @@ into your web browser:
  * json : Not Found
  * json : Oh no
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Page Expired
  * json : Password
  * json : Permanently delete this team. : not present
@@ -12765,6 +12975,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -12801,6 +13012,7 @@ into your web browser:
  * json : Forgot your password?
  * json : Go Home
  * json : Hello!
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you did not request a password reset, no further action is required.
@@ -12825,6 +13037,7 @@ into your web browser:
  * json : Not Found
  * json : Oh no
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Page Expired
  * json : Password
  * json : Permanently delete this team. : not present
@@ -12986,6 +13199,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -13014,6 +13228,7 @@ into your web browser:
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : Last active : not present
  * json : Last used : not present
  * json : Leave Team : not present
@@ -13027,6 +13242,7 @@ into your web browser:
  * json : Nevermind : not present
  * json : New Password : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
  * json : Permissions : not present
@@ -13165,6 +13381,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -13192,6 +13409,7 @@ into your web browser:
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : Last active : not present
  * json : Last used : not present
  * json : Leave Team : not present
@@ -13205,6 +13423,7 @@ into your web browser:
  * json : Nevermind : not present
  * json : New Password : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
  * json : Permissions : not present
@@ -13277,6 +13496,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -13304,6 +13524,7 @@ into your web browser:
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : Last active : not present
  * json : Last used : not present
  * json : Leave Team : not present
@@ -13317,6 +13538,7 @@ into your web browser:
  * json : Nevermind : not present
  * json : New Password : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
  * json : Permissions : not present
@@ -13389,6 +13611,7 @@ into your web browser:
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
  * json : API Tokens : not present
  * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
  * json : Are you sure you would like to delete this API token? : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
@@ -13416,6 +13639,7 @@ into your web browser:
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : Last active : not present
  * json : Last used : not present
  * json : Leave Team : not present
@@ -13429,6 +13653,7 @@ into your web browser:
  * json : Nevermind : not present
  * json : New Password : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
  * json : Permissions : not present

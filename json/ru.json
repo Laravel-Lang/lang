@@ -14,6 +14,7 @@
     "API tokens allow third-party services to authenticate with our application on your behalf.": "API токены позволяют сторонним службам аутентифицироваться в приложении от Вашего имени.",
     "API Tokens": "API токены",
     "Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted.": "Вы уверены, что хотите удалить эту команду? После удаления команды все её ресурсы и данные будут удалены без возможности восстановления.",
+    "Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.": "Вы уверены, что хотите удалить свою учётную запись? После удаления Вашей учётной записи все её ресурсы и данные будут удалены без возможности восстановления. Пожалуйста, введите свой пароль для подтверждения удаления учётной записи.",
     "Are you sure you would like to delete this API token?": "Вы уверены, что хотите удалить этот API токен?",
     "Are you sure you would like to leave this team?": "Вы уверены, что хотите покинуть эту команду?",
     "Are you sure you would like to remove this person from the team?": "Вы уверены, что хотите удалить этого члена команды?",

@@ -15,7 +15,7 @@
 | de | [@WhereIsLucas](https://github.com/WhereIsLucas) |
 | de_CH | |
 | el | |
-| es | |
+| es | [@luisprmat](https://github.com/luisprmat) |
 | et | |
 | eu | |
 | fa | |

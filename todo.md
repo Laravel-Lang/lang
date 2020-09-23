@@ -1,7 +1,7 @@
 # Todo list
 | | | | | | | | | | |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-[ar ❗](#ar)|[az ❗](#az)|[be ❗](#be)|[bg ❗](#bg)|[bn ❗](#bn)|[bs ❗](#bs)|[ca ❗](#ca)|[cs ❗](#cs)|[cy ❗](#cy)|[da ❗](#da)
+[ar ✔](#ar)|[az ❗](#az)|[be ❗](#be)|[bg ❗](#bg)|[bn ❗](#bn)|[bs ❗](#bs)|[ca ❗](#ca)|[cs ❗](#cs)|[cy ❗](#cy)|[da ❗](#da)
 [de ❗](#de)|[de_CH ❗](#de_CH)|[el ❗](#el)|[es ✔](#es)|[et ❗](#et)|[eu ❗](#eu)|[fa ❗](#fa)|[fi ❗](#fi)|[fil ❗](#fil)|[fr ❗](#fr)
 [gl ❗](#gl)|[he ❗](#he)|[hi ❗](#hi)|[hr ❗](#hr)|[hu ❗](#hu)|[hy ❗](#hy)|[id ❗](#id)|[is ❗](#is)|[it ❗](#it)|[ja ❗](#ja)
 [ka ❗](#ka)|[kk ❗](#kk)|[km ❗](#km)|[kn ❗](#kn)|[ko ❗](#ko)|[lt ❗](#lt)|[lv ❗](#lv)|[me ❗](#me)|[mk ❗](#mk)|[mn ❗](#mn)
@@ -15,25 +15,9 @@
 
 ## ar
 
-<details>
-<summary>show</summary>
 
- * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
- * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
- * json : The :attribute must be at least :length characters and contain at least one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
- * json : The :attribute must be at least :length characters. : not present
- * json : The provided password does not match your current password. : not present
- * json : The provided password was incorrect. : not present
- * json : The provided two factor authentication code was invalid. : not present
+All lines are translated 😊
 
-[ [to top](#todo-list) ]
-</details>
 
 ## az
 

@@ -127,7 +127,7 @@
     "The :attribute must be at least :length characters and contain at least one number.": "O campo :attribute deve ter pelo menos :length caracteres e conter pelo menos um número.",
     "The :attribute must be at least :length characters and contain at least one special character.": "O campo :attribute deve ter pelo menos :length caracteres e conter pelo menos um caractere especial.",
     "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "O campo :attribute deve ter pelo menos :length caracteres e conter pelo menos uma maiúscula e um número.",
-    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "O campo :attribute deve ter pelo menos :length caracteres e um caractere especial.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "O campo :attribute deve ter pelo menos :length caracteres e conter pelo menos uma maiúscula e um caractere especial.",
     "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "O campo :attribute deve ter pelo menos :length caracteres e conter pelo menos uma maiúscula, um número e um caractere especial.",
     "The :attribute must be at least :length characters and contain at least one uppercase character.": "O campo :attribute deve ter pelo menos :length caracteres e conter pelo menos uma maiúscula.",
     "This action is unauthorized.": "Esta ação não é autorizada.",

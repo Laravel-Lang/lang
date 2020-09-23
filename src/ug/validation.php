@@ -92,6 +92,7 @@ return [
     'not_in'               => 'تاللانغان قىممەت :attribute ئىناۋەتسىز.',
     'not_regex'            => 'The :attribute format is invalid.',
     'numeric'              => ':attribute چوقۇم سان-سىفىر بۇلىشى كېرەك.',
+    'password'             => 'The password is incorrect.',
     'present'              => ':attribute چوقۇم مەۋجۇت بۇلىشى كېرەك.',
     'regex'                => ':attribute ھۆججەت تىپى ئىناۋەتسىز.',
     'required'             => ':attribute قۇرۇق بولسا بولمايدۇ.',

@@ -92,6 +92,7 @@ return [
     'not_in'               => 'Kipengele kilichochaguliwa si halali.',
     'not_regex'            => 'Muundo wa :attribute si sahihi.',
     'numeric'              => 'Kipengele lazima kiwe nambari.',
+    'password'             => 'The password is incorrect.',
     'present'              => 'Sehemu ya kipengele lazima iwepo.',
     'regex'                => 'Muundo wa kipengele si halali.',
     'required'             => 'Sehemu ya kipengele inahitajika.',

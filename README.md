@@ -1,6 +1,6 @@
 # Laravel-lang
 
-In this repository, you can find the lang files for the framework PHP, [Laravel 4/5/6/7/8](https://laravel.com).
+In this repository, you can find the lang files for the [Laravel Framework 4/5/6/7/8](https://laravel.com), [Laravel Jetstream](https://jetstream.laravel.com/1.x/introduction.html) and [Laravel Fortify](https://github.com/laravel/fortify).
 
 ## News
 

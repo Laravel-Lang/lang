@@ -4,23 +4,23 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Validation Language Lines
+    | Doğrulama Dil Satırları
     |--------------------------------------------------------------------------
     |
-    | The following language lines contain the default error messages used by
-    | the validator class. Some of these rules have multiple versions such
-    | as the size rules. Feel free to tweak each of these messages here.
+    | Aşağıdaki dil satırları doğrulama sınıfı tarafından kullanılan varsayılan
+    | hata mesajlarını içerir. Kuralların bazıları birçok versiyon içerir, örneğin
+    | boyut kuralları. Bu mesajların, her birini, burada değiştirmekten çekinmeyin.
     |
     */
 
     'accepted'        => 'This field must be accepted.',
-    'active_url'      => 'This is not a valid URL.',
+    'active_url'      => 'URL geçerli değil.',
     'after'           => 'This must be a date after :date.',
     'after_or_equal'  => 'This must be a date after or equal to :date.',
-    'alpha'           => 'This field may only contain letters.',
+    'alpha'           => 'Bu alan yalnızca harf içerebilir.',
     'alpha_dash'      => 'This field may only contain letters, numbers, dashes and underscores.',
     'alpha_num'       => 'This field may only contain letters and numbers.',
-    'array'           => 'This field must be an array.',
+    'array'           => 'Bu alan bir dizi olmalı.',
     'before'          => 'This must be a date before :date.',
     'before_or_equal' => 'This must be a date before or equal to :date.',
     'between'         => [
@@ -37,12 +37,12 @@ return [
     'different'      => 'This value must be different from :other.',
     'digits'         => 'This must be :digits digits.',
     'digits_between' => 'This must be between :min and :max digits.',
-    'dimensions'     => 'This image has invalid dimensions.',
+    'dimensions'     => 'Resim boyutları geçersiz.',
     'distinct'       => 'This field has a duplicate value.',
-    'email'          => 'This must be a valid email address.',
+    'email'          => 'Mail adresi geçerli değil.',
     'ends_with'      => 'This must end with one of the following: :values.',
     'exists'         => 'The selected value is invalid.',
-    'file'           => 'The content must be a file.',
+    'file'           => 'İçerik bir dosya olmalı.',
     'filled'         => 'This field must have a value.',
     'gt'             => [
         'numeric' => 'The value must be greater than :value.',

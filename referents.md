@@ -2,7 +2,7 @@
 
 | Lang | Assignee |
 | --- |:--|
-| ar | |
+| ar | [@mohamedsabil83](https://github.com/mohamedsabil83), [@Khuthaily](https://github.com/Khuthaily) |
 | az | |
 | be | |
 | bg | |
@@ -15,7 +15,7 @@
 | de | [@WhereIsLucas](https://github.com/WhereIsLucas) |
 | de_CH | |
 | el | |
-| es | |
+| es | [@luisprmat](https://github.com/luisprmat) |
 | et | |
 | eu | |
 | fa | |
@@ -59,8 +59,8 @@
 | sk | |
 | sl | |
 | sq | |
-| sr_Cyrillic | |
-| sr_Latin | |
+| sr_Cyrillic | [@LukaLatkovic](https://github.com/LukaLatkovic) |
+| sr_Latin | [@LukaLatkovic](https://github.com/LukaLatkovic) |
 | sv | |
 | sw | |
 | tg | |

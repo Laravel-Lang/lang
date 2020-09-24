@@ -4,128 +4,128 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Validation Language Lines
+    | Patvirtinimo kalbos eilutės
     |--------------------------------------------------------------------------
     |
-    | The following language lines contain the default error messages used by
-    | the validator class. Some of these rules have multiple versions such
-    | as the size rules. Feel free to tweak each of these messages here.
+    | Sekančios kalbos eilutėse yra numatyti klaidos pranešimai naudojami
+    | patvirtinimo klasėje. Kai kurios iš šių eilučių turi keletą versijų
+    | tokių kaip dydžio taisyklės. Galite laisvai pataisyti bet kuriuos pranešimus.
     |
     */
 
-    'accepted'        => 'This field must be accepted.',
-    'active_url'      => 'This is not a valid URL.',
-    'after'           => 'This must be a date after :date.',
-    'after_or_equal'  => 'This must be a date after or equal to :date.',
-    'alpha'           => 'This field may only contain letters.',
-    'alpha_dash'      => 'This field may only contain letters, numbers, dashes and underscores.',
-    'alpha_num'       => 'This field may only contain letters and numbers.',
-    'array'           => 'This field must be an array.',
-    'before'          => 'This must be a date before :date.',
-    'before_or_equal' => 'This must be a date before or equal to :date.',
-    'between'         => [
-        'numeric' => 'This value must be between :min and :max.',
-        'file'    => 'This file must be between :min and :max kilobytes.',
-        'string'  => 'This string must be between :min and :max characters.',
-        'array'   => 'This content must have between :min and :max items.',
+    'accepted'             => 'Šis laukas turi būti priimtas.',
+    'active_url'           => 'Šio lauko reikšmė nėra galiojantis internetinis adresas.',
+    'after'                => 'Šio lauko reikšmė turi būti po :date datos',
+    'after_or_equal'       => 'Šio lauko reikšmė privalo būti data lygi arba vėlesnė negu :date.',
+    'alpha'                => 'Šis laukas gali turėti tik raides.',
+    'alpha_dash'           => 'Šis laukas gali turėti tik raides, skaičius ir brūkšnelius.',
+    'alpha_num'            => 'Šis laukas gali turėti tik raides ir skaičius.',
+    'array'                => 'Šis laukas turi būti masyvas.',
+    'before'               => 'Šio lauko reikšmė turi būti data prieš :date.',
+    'before_or_equal'      => 'Šio lauko reikšmė privalo būti data lygi arba ankstesnė negu :date.',
+    'between'              => [
+        'numeric' => 'Šio lauko reikšmė turi būti tarp :min ir :max.',
+        'file'    => 'Failo dydis šiame lauke turi būti tarp :min ir :max kilobaitų.',
+        'string'  => 'Simbolių skaičius šiame lauke turi būti tarp :min ir :max.',
+        'array'   => 'Elementų skaičius šiame lauke turi turėti nuo :min iki :max.',
     ],
-    'boolean'        => 'This field must be true or false.',
-    'confirmed'      => 'The confirmation does not match.',
-    'date'           => 'This is not a valid date.',
-    'date_equals'    => 'This must be a date equal to :date.',
-    'date_format'    => 'This does not match the format :format.',
-    'different'      => 'This value must be different from :other.',
-    'digits'         => 'This must be :digits digits.',
-    'digits_between' => 'This must be between :min and :max digits.',
-    'dimensions'     => 'This image has invalid dimensions.',
-    'distinct'       => 'This field has a duplicate value.',
-    'email'          => 'This must be a valid email address.',
-    'ends_with'      => 'This must end with one of the following: :values.',
-    'exists'         => 'The selected value is invalid.',
-    'file'           => 'The content must be a file.',
-    'filled'         => 'This field must have a value.',
-    'gt'             => [
-        'numeric' => 'The value must be greater than :value.',
-        'file'    => 'The file size must be greater than :value kilobytes.',
-        'string'  => 'The string must be greater than :value characters.',
-        'array'   => 'The content must have more than :value items.',
+    'boolean'              => "Šio lauko reikšmė turi būti 'taip' arba 'ne'.",
+    'confirmed'            => 'Šio lauko patvirtinimas nesutampa.',
+    'date'                 => 'Šio lauko reikšmė nėra galiojanti data.',
+    'date_equals'          => 'Šio lauko reikšmė turi būti data lygi :date.',
+    'date_format'          => 'Šio lauko reikšmė neatitinka formato :format.',
+    'different'            => 'Šio lauko reikšmė privalo skirtis nuo :other.',
+    'digits'               => 'Šio laukas turi būti sudarytas iš :digits skaitmenų.',
+    'digits_between'       => 'Šis laukas turi turėti nuo :min iki :max skaitmenų.',
+    'dimensions'           => 'Šis įkeltas paveiksliukas neatitinka išmatavimų reikalavimo.',
+    'distinct'             => 'Šio lauko reikšmė pasikartoja.',
+    'email'                => 'Šio lauko reikšmė turi būti galiojantis el. pašto adresas.',
+    'ends_with'            => 'Šis laukas turi baigtis vienu iš: :values',
+    'exists'               => 'Šio lauko reikšmė negalioja.',
+    'file'                 => 'Šis laukas turi būti failas.',
+    'filled'               => 'Šis laukas turi būti užpildytas.',
+    'gt'                   => [
+        'numeric' => 'Šio lauko reikšmė turi būti didesnė negu :value.',
+        'file'    => 'Šis failas turi būti didesnis negu :value kilobaitai.',
+        'string'  => 'Šio lauko simbolių skaičius turi būti didesnis negu :value simboliai.',
+        'array'   => 'Šis laukas turi turėti daugiau nei :value elementus.',
     ],
-    'gte' => [
-        'numeric' => 'The value must be greater than or equal :value.',
-        'file'    => 'The file size must be greater than or equal :value kilobytes.',
-        'string'  => 'The string must be greater than or equal :value characters.',
-        'array'   => 'The content must have :value items or more.',
+    'gte'                  => [
+        'numeric' => 'Šio lauko reikšmė turi būti didesnė arba lygi :value.',
+        'file'    => 'Šis failas turi būti didesnis arba lygus :value kilobaitams.',
+        'string'  => 'Šio lauko reikšmė turi būti didesnė arba lygi :value simboliams.',
+        'array'   => 'Šis laukas turi turėti :value elementus arba daugiau.',
     ],
-    'image'    => 'This must be an image.',
-    'in'       => 'The selected value is invalid.',
-    'in_array' => 'This value does not exist in :other.',
-    'integer'  => 'This must be an integer.',
-    'ip'       => 'This must be a valid IP address.',
-    'ipv4'     => 'This must be a valid IPv4 address.',
-    'ipv6'     => 'This must be a valid IPv6 address.',
-    'json'     => 'This must be a valid JSON string.',
-    'lt'       => [
-        'numeric' => 'The value must be less than :value.',
-        'file'    => 'The file size must be less than :value kilobytes.',
-        'string'  => 'The string must be less than :value characters.',
-        'array'   => 'The content must have less than :value items.',
+    'image'                => 'Šio lauko reikšmė turi būti paveikslėlis.',
+    'in'                   => 'Pasirinkta negaliojanti šio lauko reikšmė.',
+    'in_array'             => 'Ši reikšmė neegzistuoja :other lauke.',
+    'integer'              => 'Šio lauko reikšmė turi būti sveikasis skaičius.',
+    'ip'                   => 'Šio lauko reikšmė turi būti galiojantis IP adresas.',
+    'ipv4'                 => 'Šio lauko reikšmė turi būti galiojantis IPv4 adresas.',
+    'ipv6'                 => 'Šio lauko reikšmė turi būti galiojantis IPv6 adresas.',
+    'json'                 => 'Šio lauko reikšmė turi būti JSON tekstas.',
+    'lt'                   => [
+        'numeric' => 'Šio lauko reikšmė turi būti mažesnė negu :value.',
+        'file'    => 'Šis failas turi būti mažesnis negu :value kilobaitai.',
+        'string'  => 'Šio lauko reikšmė turi būti mažesnė negu :value simboliai.',
+        'array'   => 'Šis laukas turi turėti mažiau negu :value elementus.',
     ],
-    'lte' => [
-        'numeric' => 'The value must be less than or equal :value.',
-        'file'    => 'The file size must be less than or equal :value kilobytes.',
-        'string'  => 'The string must be less than or equal :value characters.',
-        'array'   => 'The content must not have more than :value items.',
+    'lte'                  => [
+        'numeric' => 'Šio lauko reikšmė turi būti mažesnė arba lygi :value.',
+        'file'    => 'Šis failas turi būti mažesnis arba lygus :value kilobaitams.',
+        'string'  => 'Šio lauko reikšmė turi būti mažesnė arba lygi :value simboliams.',
+        'array'   => 'Šis laukas turi turėti mažiau arba lygiai :value elementus.',
     ],
-    'max' => [
-        'numeric' => 'The value may not be greater than :max.',
-        'file'    => 'The file size may not be greater than :max kilobytes.',
-        'string'  => 'The string may not be greater than :max characters.',
-        'array'   => 'The content may not have more than :max items.',
+    'max'                  => [
+        'numeric' => 'Šio lauko reikšmė negali būti didesnė nei :max.',
+        'file'    => 'Šis failas negali būti didesnis nei :max kilobaitų.',
+        'string'  => 'Šio lauko reikšmė negali būti didesnė nei :max simbolių.',
+        'array'   => 'Šis laukas negali turėti daugiau nei :max elementų.',
     ],
-    'mimes'     => 'This must be a file of type: :values.',
-    'mimetypes' => 'This must be a file of type: :values.',
-    'min'       => [
-        'numeric' => 'The value must be at least :min.',
-        'file'    => 'The file size must be at least :min kilobytes.',
-        'string'  => 'The string must be at least :min characters.',
-        'array'   => 'The value must have at least :min items.',
+    'mimes'                => 'Šis laukas turi būti failas vieno iš sekančių tipų: :values.',
+    'mimetypes'            => 'Šis laukas turi būti failas vieno iš sekančių tipų: :values.',
+    'min'                  => [
+        'numeric' => 'Šio lauko reikšmė turi būti ne mažesnė nei :min.',
+        'file'    => 'Šis failas turi būti ne mažesnis nei :min kilobaitų.',
+        'string'  => 'Šio lauko simbolių kiekis turi būti ne mažiau nei :min.',
+        'array'   => 'Šio lauko elementų kiekis turi būti ne mažiau nei :min.',
     ],
-    'not_in'               => 'The selected value is invalid.',
-    'not_regex'            => 'This format is invalid.',
-    'numeric'              => 'This must be a number.',
-    'password'             => 'The password is incorrect.',
-    'present'              => 'This field must be present.',
-    'regex'                => 'This format is invalid.',
-    'required'             => 'This field is required.',
-    'required_if'          => 'This field is required when :other is :value.',
-    'required_unless'      => 'This field is required unless :other is in :values.',
-    'required_with'        => 'This field is required when :values is present.',
-    'required_with_all'    => 'This field is required when :values are present.',
-    'required_without'     => 'This field is required when :values is not present.',
-    'required_without_all' => 'This field is required when none of :values are present.',
-    'same'                 => 'The value of this field must match the one from :other.',
+    'not_in'               => 'Pasirinkta negaliojanti reikšmė.',
+    'not_regex'            => 'Šio lauko formatas yra neteisingas.',
+    'numeric'              => 'Šio lauko reikšmė turi būti skaičius.',
+    'password'             => 'Slaptažodis neteisingas.',
+    'present'              => 'Šis laukas turi egzistuoti.',
+    'regex'                => 'Negaliojantis šio lauko formatas.',
+    'required'             => 'Privaloma užpildyti šį lauką.',
+    'required_if'          => 'Privaloma užpildyti šį lauką, kai :other yra :value.',
+    'required_unless'      => 'Šis laukas yra privalomas, nebent :other yra tarp :values reikšmių.',
+    'required_with'        => 'Privaloma užpildyti šį lauką, kai pateikta :values.',
+    'required_with_all'    => 'Privaloma užpildyti šį lauką, kai pateikta :values.',
+    'required_without'     => 'Privaloma užpildyti šį lauką, kai nepateikta :values.',
+    'required_without_all' => 'Privaloma užpildyti šį lauką, kai nepateikta nei viena iš reikšmių :values.',
+    'same'                 => 'Šis ir :other laukai turi sutapti.',
     'size'                 => [
-        'numeric' => 'The value must be :size.',
-        'file'    => 'The file size must be :size kilobytes.',
-        'string'  => 'The string must be :size characters.',
-        'array'   => 'The content must contain :size items.',
+        'numeric' => 'Šio lauko reikšmė turi būti :size.',
+        'file'    => 'Šio failo dydis turi būti :size kilobaitai.',
+        'string'  => 'Simbolių skaičius šiame lauke turi būti :size.',
+        'array'   => 'Elementų skačius šiame lauke turi būti :size.',
     ],
-    'starts_with' => 'This must start with one of the following: :values.',
-    'string'      => 'This must be a string.',
-    'timezone'    => 'This must be a valid zone.',
-    'unique'      => 'This has already been taken.',
-    'uploaded'    => 'This failed to upload.',
-    'url'         => 'This format is invalid.',
-    'uuid'        => 'This must be a valid UUID.',
+    'starts_with'          => 'Šis laukas turi prasidėti vienu iš: :values',
+    'string'               => 'Šis laukas turi būti tekstinis.',
+    'timezone'             => 'Šio lauko reikšmė turi būti galiojanti laiko zona.',
+    'unique'               => 'Ši reikšmė jau pasirinkta.',
+    'uploaded'             => 'Nepavyko įkelti šio lauko.',
+    'url'                  => 'Negaliojantis šio lauko formatas.',
+    'uuid'                 => 'Šio lauko reikšmė turi būti galiojantis UUID.',
 
     /*
     |--------------------------------------------------------------------------
-    | Custom Validation Language Lines
+    | Pasirinktiniai patvirtinimo kalbos eilutės
     |--------------------------------------------------------------------------
     |
-    | Here you may specify custom validation messages for attributes using the
-    | convention "attribute.rule" to name the lines. This makes it quick to
-    | specify a specific custom language line for a given attribute rule.
+    | Čia galite nurodyti pasirinktinius patvirtinimo pranešimus, naudodami
+    | konvenciją "attribute.rule" eilučių pavadinimams. Tai leidžia greitai
+    | nurodyti konkrečią pasirinktinę kalbos eilutę tam tikrai atributo taisyklei.
     |
     */
 

@@ -18,7 +18,7 @@ class Storage
 
     public function load(string $path)
     {
-        return include $this->realpath($path);
+        return file_exists($this->realpath($path)) ? include $this->realpath($path) : null;
     }
 
     public function store(string $path, string $content): void
@@ -30,6 +30,25 @@ class Storage
     public function realpath(string $path): string
     {
         return realpath($path);
+    }
+
+    public function isExclusionList(string $language,  $key): bool
+    {
+        if (is_string($key)) {
+            $exclude = $this->getExclusionList($language) ?? [];
+            if (in_array($key, $exclude, true)) {
+                return true;
+            }
+        }
+
+        return false;
+    }
+
+    private function getExclusionList(string $language, string $directory = __DIR__): ?array
+    {
+        return $this->load(
+            implode(DIRECTORY_SEPARATOR, [$directory, 'excludes', $language . '.php'])
+        );
     }
 }
 
@@ -284,11 +303,13 @@ class TodoGenerator
                             " * {$key} : {$key2} : not present"
                         );
                     } elseif ($current[$key][$key2] === $default[$key][$key2]) {
-                        $this->output->add(
-                            $language,
-                            " * {$key} : {$key2}"
-                        );
-                    }
+                        if (! $this->storage->isExclusionList($language, $current[$key][$key2])) {
+                                $this->output->add(
+                                    $language,
+                                    " * {$key} : {$key2}"
+                                );
+                            }
+                        }
                 }, array_keys($values));
             }
         }, $languages);

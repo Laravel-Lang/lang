@@ -92,7 +92,7 @@ return [
     'not_in'               => ':attribute tidak sah.',
     'not_regex'            => 'Format :attribute adalah tidak sah.',
     'numeric'              => ':attribute mesti nombor.',
-    'password'             => ':attribute tidak sah.',
+    'password'             => 'Kata laluan tidak sah.',
     'present'              => ':attribute mesti wujud.',
     'regex'                => 'Format :attribute tidak sah.',
     'required'             => 'Ruangan :attribute diperlukan.',

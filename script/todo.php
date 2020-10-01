@@ -103,16 +103,31 @@ class Output
         }
 
         $content = implode($this->eol, $values);
+        $sumMissing = count($values);
+        $sumNotPresent = $this->getSumNotPresent($values);
 
         return <<<HTML
 <details>
-<summary>show</summary>
+<summary>show<small> (all missing: $sumMissing, including not present: $sumNotPresent)</small></summary>
 
 {$content}
 
 [ [to top](#todo-list) ]
 </details>
 HTML;
+    }
+
+    protected function getSumNotPresent(array $data): int
+    {
+        $sum = 0;
+        foreach ($data as $value) {
+            if(strpos($value, ' : not present') !== false)
+            {
+                $sum++;
+            }
+        }
+
+        return $sum;
     }
 
     protected function table(): string

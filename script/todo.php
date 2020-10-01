@@ -18,7 +18,11 @@ class Storage
 
     public function load(string $path)
     {
-        return file_exists($this->realpath($path)) ? include $this->realpath($path) : null;
+        $include = $this->realpath($path);
+
+        return file_exists($include)
+            ? include $include
+            : null;
     }
 
     public function store(string $path, string $content): void
@@ -36,6 +40,7 @@ class Storage
     {
         if (is_string($key)) {
             $exclude = $this->getExclusionList($language) ?? [];
+
             if (in_array($key, $exclude, true)) {
                 return true;
             }
@@ -121,8 +126,7 @@ HTML;
     {
         $sum = 0;
         foreach ($data as $value) {
-            if(strpos($value, ' : not present') !== false)
-            {
+            if (strpos($value, ' : not present') !== false) {
                 $sum++;
             }
         }

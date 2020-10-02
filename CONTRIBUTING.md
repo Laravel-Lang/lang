@@ -28,7 +28,7 @@ We can avoid this situation in the following way:
 * fork this repository if you haven't already
 * add a PHP file named with the short name of the language (ex: `es.php` for Spanish) inside the directory `script/excludes`
 * this php file must return an array of strings with each of the tags that we must exclude.
-    * for example suppose that the strings `'Email'` and `'API Token'` in `es.json` (ex: for Spanish) do not need translation in this language and therefore want to exclude them. The php file should have this structure which you can copy for other languages.
+    * for example suppose that the strings `'Email'` and `'API Token'` in `es.json` (ex: for Spanish) do not need translation in this language and therefore want to exclude them. The PHP file `es.php` (for example) in `script/excludes/` should have this structure which you can copy for other languages.
 
 ```php
 <?php

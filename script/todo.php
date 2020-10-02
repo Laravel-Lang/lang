@@ -36,7 +36,7 @@ class Storage
         return realpath($path);
     }
 
-    public function isExclusionList(string $language,  $key): bool
+    public function isExclusionList(string $language, $key): bool
     {
         if (is_string($key)) {
             $exclude = $this->getExclusionList($language) ?? [];
@@ -107,8 +107,8 @@ class Output
             return $this->eol . 'All lines are translated 😊' . $this->eol;
         }
 
-        $content = implode($this->eol, $values);
-        $sumMissing = count($values);
+        $content       = implode($this->eol, $values);
+        $sumMissing    = count($values);
         $sumNotPresent = $this->getSumNotPresent($values);
 
         return <<<HTML
@@ -125,6 +125,7 @@ HTML;
     protected function getSumNotPresent(array $data): int
     {
         $sum = 0;
+
         foreach ($data as $value) {
             if (strpos($value, ' : not present') !== false) {
                 $sum++;
@@ -323,12 +324,12 @@ class TodoGenerator
                         );
                     } elseif ($current[$key][$key2] === $default[$key][$key2]) {
                         if (! $this->storage->isExclusionList($language, $current[$key][$key2])) {
-                                $this->output->add(
-                                    $language,
-                                    " * {$key} : {$key2}"
-                                );
-                            }
+                            $this->output->add(
+                                $language,
+                                " * {$key} : {$key2}"
+                            );
                         }
+                    }
                 }, array_keys($values));
             }
         }, $languages);

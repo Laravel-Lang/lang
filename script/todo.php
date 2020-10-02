@@ -18,7 +18,11 @@ class Storage
 
     public function load(string $path)
     {
-        return include $this->realpath($path);
+        $include = $this->realpath($path);
+
+        return file_exists($include)
+            ? include $include
+            : null;
     }
 
     public function store(string $path, string $content): void
@@ -30,6 +34,26 @@ class Storage
     public function realpath(string $path): string
     {
         return realpath($path);
+    }
+
+    public function isExclusionList(string $language, $key): bool
+    {
+        if (is_string($key)) {
+            $exclude = $this->getExclusionList($language) ?? [];
+
+            if (in_array($key, $exclude, true)) {
+                return true;
+            }
+        }
+
+        return false;
+    }
+
+    private function getExclusionList(string $language, string $directory = __DIR__): ?array
+    {
+        return $this->load(
+            implode(DIRECTORY_SEPARATOR, [$directory, 'excludes', $language . '.php'])
+        );
     }
 }
 
@@ -83,17 +107,32 @@ class Output
             return $this->eol . 'All lines are translated 😊' . $this->eol;
         }
 
-        $content = implode($this->eol, $values);
+        $content       = implode($this->eol, $values);
+        $sumMissing    = count($values);
+        $sumNotPresent = $this->getSumNotPresent($values);
 
         return <<<HTML
 <details>
-<summary>show</summary>
+<summary>show<small> (all missing: $sumMissing, including not present: $sumNotPresent)</small></summary>
 
 {$content}
 
 [ [to top](#todo-list) ]
 </details>
 HTML;
+    }
+
+    protected function getSumNotPresent(array $data): int
+    {
+        $sum = 0;
+
+        foreach ($data as $value) {
+            if (strpos($value, ' : not present') !== false) {
+                $sum++;
+            }
+        }
+
+        return $sum;
     }
 
     protected function table(): string
@@ -284,10 +323,12 @@ class TodoGenerator
                             " * {$key} : {$key2} : not present"
                         );
                     } elseif ($current[$key][$key2] === $default[$key][$key2]) {
-                        $this->output->add(
-                            $language,
-                            " * {$key} : {$key2}"
-                        );
+                        if (! $this->storage->isExclusionList($language, $current[$key][$key2])) {
+                            $this->output->add(
+                                $language,
+                                " * {$key} : {$key2}"
+                            );
+                        }
                     }
                 }, array_keys($values));
             }

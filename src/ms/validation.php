@@ -39,7 +39,7 @@ return [
     'digits_between'       => ':attribute mesti mengandungi antara :min dan :max digits.',
     'distinct'             => ':attribute adalah nilai yang berulang',
     'email'                => ':attribute tidak sah.',
-    'ends_with'            => 'The :attribute must end with one of the following: :values.',
+    'ends_with'            => ':attribute mesti berakhir dengan salah satu dari: :values.',
     'exists'               => ':attribute tidak sah.',
     'file'                 => ':attribute mesti fail yang sah.',
     'filled'               => ':attribute diperlukan.',

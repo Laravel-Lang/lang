@@ -2416,16 +2416,14 @@ into your web browser:
 ## el
 
 <details>
-<summary>show<small> (all missing: 198, including not present: 105)</small></summary>
+<summary>show<small> (all missing: 182, including not present: 107)</small></summary>
 
- * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
  * json : Add additional security to your account using two factor authentication. : not present
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
  * json : All of the people that are part of this team. : not present
- * json : Already registered?
  * json : API Token Permissions : not present
  * json : API Token : not present
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
@@ -2453,13 +2451,11 @@ into your web browser:
  * json : Delete : not present
  * json : Disable : not present
  * json : Done. : not present
- * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
  * json : Ensure your account is using a long, random password to stay secure. : not present
  * json : For your security, please confirm your password to continue. : not present
- * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
- * json : Forgot your password?
+ * json : Forgot your password? : not present
  * json : Go to page :page : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
  * json : Invalid signature.
@@ -2486,7 +2482,6 @@ into your web browser:
  * json : Photo : not present
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
- * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
@@ -2498,13 +2493,11 @@ into your web browser:
  * json : Remove Photo : not present
  * json : Remove Team Member : not present
  * json : Remove : not present
- * json : Resend Verification Email
  * json : results : not present
  * json : Role : not present
  * json : Save : not present
  * json : Saved. : not present
  * json : Select A New Photo : not present
- * json : Server Error
  * json : Show Recovery Codes : not present
  * json : Showing : not present
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
@@ -2526,31 +2519,22 @@ into your web browser:
  * json : The provided password was incorrect. : not present
  * json : The provided two factor authentication code was invalid. : not present
  * json : The team's name and owner information. : not present
- * json : This action is unauthorized.
  * json : This device : not present
- * json : This password does not match our records.
- * json : This password reset link will expire in :count minutes.
- * json : This user already belongs to the team.
  * json : to : not present
  * json : Token Name : not present
- * json : Too Many Attempts.
+ * json : Too Many Attempts. : not present
  * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application. : not present
  * json : Two Factor Authentication : not present
  * json : Update Password : not present
  * json : Update your account's profile information and email address. : not present
  * json : Use a recovery code
- * json : Use an authentication code
- * json : We were unable to find a registered user with this email address.
- * json : We won't ask for your password again for a few hours.
  * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application. : not present
  * json : Whoops! Something went wrong. : not present
- * json : You are logged in!
  * json : You have enabled two factor authentication. : not present
  * json : You have not enabled two factor authentication. : not present
  * json : You may delete any of your existing tokens if they are no longer needed. : not present
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
- * json : Your email address is not verified.
  * passwords : throttled
  * validation-inline : accepted
  * validation-inline : active_url
@@ -8212,7 +8196,7 @@ into your web browser:
 ## ms
 
 <details>
-<summary>show<small> (all missing: 200, including not present: 117)</small></summary>
+<summary>show<small> (all missing: 199, including not present: 117)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -8349,7 +8333,6 @@ into your web browser:
  * json : You may not leave a team that you created.
  * json : Your email address is not verified. : not present
  * passwords : throttled
- * validation : ends_with
  * validation-inline : accepted
  * validation-inline : active_url
  * validation-inline : after

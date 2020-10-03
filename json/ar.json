@@ -79,6 +79,7 @@
     "Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain.": "بمجرد حذف الفريق، سيتم حذف جميع موارده وبياناته نهائيًا. قبل حذف هذا الفريق ، يرجى تنزيل أي بيانات أو معلومات بخصوص هذا الفريق ترغب في الاحتفاظ بها.",
     "Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.": "بمجرد حذف حسابك، سيتم حذف جميع موارده وبياناته نهائياً. قبل حذف حسابك، يرجى تنزيل أي بيانات أو معلومات ترغب في الاحتفاظ بها.",
     "Page Expired": "الصفحة منتهية الصلاحية",
+    "Pagination Navigation": "التنقل بين الصفحات",
     "Password": "كلمة المرور",
     "Permanently delete this team.": "احذف هذا الفريق بشكل دائم.",
     "Permanently delete your account.": "احذف حسابك بشكل دائم.",

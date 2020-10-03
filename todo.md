@@ -3696,51 +3696,19 @@ into your web browser: : not present
 ## fr
 
 <details>
-<summary>show<small> (all missing: 44, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 12, including not present: 0)</small></summary>
 
- * json : API tokens allow third-party services to authenticate with our application on your behalf.
- * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted.
- * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
- * json : Are you sure you would like to delete this API token?
- * json : Are you sure you would like to leave this team?
- * json : Are you sure you would like to remove this person from the team?
- * json : Code
- * json : Create a new team to collaborate with others on projects.
- * json : Disable
- * json : Email
- * json : Enable
- * json : Ensure your account is using a long, random password to stay secure.
- * json : For your security, please confirm your password to continue.
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password.
- * json : Last active
- * json : Last used
- * json : Logout Other Browser Sessions
  * json : Manage and logout your active sessions on other browsers and devices.
  * json : Nevermind
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain.
  * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.
- * json : Pagination Navigation : not present
- * json : Permanently delete this team.
- * json : Permanently delete your account.
- * json : Permissions
+ * json : Pagination Navigation
  * json : Please copy your new API token. For your security, it won't be shown again.
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
  * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
- * json : The :attribute must be at least :length characters and contain at least one number.
- * json : The :attribute must be at least :length characters and contain at least one special character.
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number.
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
- * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
- * json : The :attribute must be at least :length characters and contain at least one uppercase character.
- * json : The :attribute must be at least :length characters.
- * json : The provided password does not match your current password.
- * json : The provided password was incorrect.
- * json : The provided two factor authentication code was invalid.
- * json : The team's name and owner information.
- * json : This device
  * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
- * json : Update your account's profile information and email address.
  * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application.
 
 [ [to top](#todo-list) ]

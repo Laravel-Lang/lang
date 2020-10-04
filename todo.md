@@ -8300,7 +8300,6 @@ into your web browser:
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified. : not present
- * passwords : throttled
  * validation-inline : accepted
  * validation-inline : active_url
  * validation-inline : after

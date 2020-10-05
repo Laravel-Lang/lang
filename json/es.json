@@ -136,6 +136,7 @@
     "Team Name": "Nombre del Equipo",
     "Team Owner": "Propietario del Equipo",
     "Team Settings": "Ajustes del equipo",
+    "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.": "¡Gracias por registrarse! Antes de comenzar, ¿podría verificar su dirección de correo electrónico haciendo clic en el enlace que le acabamos de enviar? Si no recibió el correo electrónico, con gusto le enviaremos otro.",
     "The :attribute must be a valid role.": ":Attribute debe ser un rol válido.",
     "The :attribute must be at least :length characters and contain at least one number.": "La :attribute debe tener al menos :length caracteres y contener por lo menos un número.",
     "The :attribute must be at least :length characters and contain at least one special character.": "La :attribute debe tener al menos :length caracteres y contener por lo menos un carácter especial.",

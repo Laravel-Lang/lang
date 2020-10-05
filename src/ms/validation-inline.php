@@ -14,10 +14,10 @@ return [
      */
 
     'accepted'             => 'Ruangan ini mesti diterima pakai.',
-    'active_url'           => 'URL ini adalah tidak sah',
+    'active_url'           => 'URL ini adalah tidak sah.',
     'after'                => 'Tarikh mesti tarikh selepas :date.',
     'after_or_equal'       => 'Tarikh mesti tarikh selepas atau bersamaan :date.',
-    'alpha'                => 'Ruangan ini hanya boleh mengandungi hurug',
+    'alpha'                => 'Ruangan ini hanya boleh mengandungi huruf.',
     'alpha_dash'           => 'Ruangan ini boleh mengandungi huruf, nombor, dan sengkang.',
     'alpha_num'            => 'Ruangan ini boleh mengandungi huruf dan nombor.',
     'array'                => 'Ruangan ini mesti jujukan.',
@@ -35,10 +35,10 @@ return [
     'date_equals'          => 'Tarikh mesti sama dengan :date.',
     'date_format'          => 'Format tarikh tidak sepadan dengan :format.',
     'different'            => 'Nilai ini dan :other mesti berlainan.',
-    'dimensions'           => 'Dimensi imej tidak sah',
     'digits'               => 'Ruangan ini mesti :digits.',
     'digits_between'       => 'Ruangan ini mesti mengandungi nilai antara :min dan :max digits.',
-    'distinct'             => 'Ruangan ini mempunyai nilai yang berulang',
+    'dimensions'           => 'Dimensi imej tidak sah.',
+    'distinct'             => 'Ruangan ini mempunyai nilai yang berulang.',
     'email'                => 'Alamat emel mestilah sah.',
     'ends_with'            => 'Nilai mesti berakhir dengan salah satu dari nilai berikut: :values.',
     'exists'               => 'Pilihan tidak sah.',
@@ -110,7 +110,7 @@ return [
         'string'  => 'Saiz rentetan mesti :size aksara.',
         'array'   => 'Saiz jujukan mesti mengandungi :size perkara.',
     ],
-    'starts_with'          => 'Nilai mesti bermula dengan salah satu dari: :values',
+    'starts_with'          => 'Nilai mesti bermula dengan salah satu dari: :values.',
     'string'               => 'Nilai mesti jujukan.',
     'timezone'             => 'Nilai mesti zon masa yang sah.',
     'unique'               => 'Nilai telah wujud.',
@@ -127,9 +127,9 @@ return [
     | convention "attribute.rule" to name the lines. This makes it quick to
     | specify a specific custom language line for a given attribute rule.
     |
-     */
+    */
 
-    'custom'               => [
+    'custom' => [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],

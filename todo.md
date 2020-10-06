@@ -3789,19 +3789,8 @@ into your web browser: : not present
 ## fr
 
 <details>
-<summary>show<small> (all missing: 16, including not present: 4)</small></summary>
+<summary>show<small> (all missing: 5, including not present: 0)</small></summary>
 
- * json : Administrator users can perform any action. : not present
- * json : Administrator : not present
- * json : Editor users have the ability to read, create, and update. : not present
- * json : Editor : not present
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password.
- * json : Manage and logout your active sessions on other browsers and devices.
- * json : Nevermind
- * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain.
- * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.
- * json : Pagination Navigation
- * json : Please copy your new API token. For your security, it won't be shown again.
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
  * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.

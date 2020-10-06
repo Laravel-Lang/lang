@@ -11,5 +11,6 @@ return [
     |
     */
 
+    'Administrator',
     'Email',
 ];

@@ -9185,17 +9185,9 @@ into your web browser:
 
 ## pl
 
-<details>
-<summary>show<small> (all missing: 5, including not present: 5)</small></summary>
 
- * json : Administrator users can perform any action. : not present
- * json : Administrator : not present
- * json : Editor users have the ability to read, create, and update. : not present
- * json : Editor : not present
- * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
+All lines are translated 😊
 
-[ [to top](#todo-list) ]
-</details>
 
 ## ps
 

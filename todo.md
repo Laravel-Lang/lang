@@ -1,12 +1,12 @@
 # Todo list
 | | | | | | | | | | |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-[ar ✔](#ar)|[az ❗](#az)|[be ❗](#be)|[bg ❗](#bg)|[bn ❗](#bn)|[bs ❗](#bs)|[ca ❗](#ca)|[cs ❗](#cs)|[cy ❗](#cy)|[da ❗](#da)
+[ar ❗](#ar)|[az ❗](#az)|[be ❗](#be)|[bg ❗](#bg)|[bn ❗](#bn)|[bs ❗](#bs)|[ca ❗](#ca)|[cs ❗](#cs)|[cy ❗](#cy)|[da ❗](#da)
 [de ❗](#de)|[de_CH ❗](#de_CH)|[el ❗](#el)|[es ✔](#es)|[et ❗](#et)|[eu ❗](#eu)|[fa ❗](#fa)|[fi ❗](#fi)|[fil ❗](#fil)|[fr ❗](#fr)
 [gl ❗](#gl)|[he ❗](#he)|[hi ❗](#hi)|[hr ❗](#hr)|[hu ❗](#hu)|[hy ❗](#hy)|[id ❗](#id)|[is ❗](#is)|[it ❗](#it)|[ja ❗](#ja)
 [ka ❗](#ka)|[kk ❗](#kk)|[km ❗](#km)|[kn ❗](#kn)|[ko ❗](#ko)|[lt ❗](#lt)|[lv ❗](#lv)|[me ❗](#me)|[mk ❗](#mk)|[mn ❗](#mn)
 [mr ❗](#mr)|[ms ❗](#ms)|[nb ❗](#nb)|[ne ❗](#ne)|[nl ❗](#nl)|[nn ❗](#nn)|[pl ✔](#pl)|[ps ❗](#ps)|[pt ❗](#pt)|[pt_BR ❗](#pt_BR)
-[ro ❗](#ro)|[ru ✔](#ru)|[sc ❗](#sc)|[si ❗](#si)|[sk ❗](#sk)|[sl ❗](#sl)|[sq ❗](#sq)|[sr_Cyrillic ❗](#sr_Cyrillic)|[sr_Latin ❗](#sr_Latin)|[sv ❗](#sv)
+[ro ❗](#ro)|[ru ❗](#ru)|[sc ❗](#sc)|[si ❗](#si)|[sk ❗](#sk)|[sl ❗](#sl)|[sq ❗](#sq)|[sr_Cyrillic ❗](#sr_Cyrillic)|[sr_Latin ❗](#sr_Latin)|[sv ❗](#sv)
 [sw ❗](#sw)|[tg ❗](#tg)|[th ❗](#th)|[tk ❗](#tk)|[tl ❗](#tl)|[tr ❗](#tr)|[ug ❗](#ug)|[uk ❗](#uk)|[ur ❗](#ur)|[uz_Cyrillic ❗](#uz_Cyrillic)
 [uz_Latin ❗](#uz_Latin)|[vi ❗](#vi)|[zh_CN ❗](#zh_CN)|[zh_HK ❗](#zh_HK)|[zh_TW ❗](#zh_TW)
 
@@ -15,14 +15,22 @@
 
 ## ar
 
+<details>
+<summary>show<small> (all missing: 5, including not present: 5)</small></summary>
 
-All lines are translated 😊
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## az
 
 <details>
-<summary>show<small> (all missing: 243, including not present: 105)</small></summary>
+<summary>show<small> (all missing: 248, including not present: 110)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -31,6 +39,8 @@ All lines are translated 😊
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : All rights reserved.
  * json : Already registered?
@@ -65,6 +75,8 @@ All lines are translated 😊
  * json : Disable : not present
  * json : Done. : not present
  * json : E-Mail Address
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -149,6 +161,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -275,7 +288,7 @@ into your web browser:
 ## be
 
 <details>
-<summary>show<small> (all missing: 253, including not present: 105)</small></summary>
+<summary>show<small> (all missing: 258, including not present: 110)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -284,6 +297,8 @@ into your web browser:
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : All rights reserved.
  * json : Already registered?
@@ -318,6 +333,8 @@ into your web browser:
  * json : Disable : not present
  * json : Done. : not present
  * json : E-Mail Address
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -402,6 +419,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -538,7 +556,7 @@ into your web browser:
 ## bg
 
 <details>
-<summary>show<small> (all missing: 233, including not present: 105)</small></summary>
+<summary>show<small> (all missing: 238, including not present: 110)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -547,6 +565,8 @@ into your web browser:
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : All rights reserved.
  * json : Already registered?
@@ -581,6 +601,8 @@ into your web browser:
  * json : Disable : not present
  * json : Done. : not present
  * json : E-Mail Address
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -665,6 +687,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -781,7 +804,7 @@ into your web browser:
 ## bn
 
 <details>
-<summary>show<small> (all missing: 243, including not present: 105)</small></summary>
+<summary>show<small> (all missing: 248, including not present: 110)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -790,6 +813,8 @@ into your web browser:
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : All rights reserved.
  * json : Already registered?
@@ -824,6 +849,8 @@ into your web browser:
  * json : Disable : not present
  * json : Done. : not present
  * json : E-Mail Address
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -908,6 +935,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -1034,7 +1062,7 @@ into your web browser:
 ## bs
 
 <details>
-<summary>show<small> (all missing: 257, including not present: 105)</small></summary>
+<summary>show<small> (all missing: 262, including not present: 110)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -1043,6 +1071,8 @@ into your web browser:
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : All rights reserved.
  * json : Already registered?
@@ -1077,6 +1107,8 @@ into your web browser:
  * json : Disable : not present
  * json : Done. : not present
  * json : E-Mail Address
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -1161,6 +1193,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -1301,7 +1334,7 @@ into your web browser:
 ## ca
 
 <details>
-<summary>show<small> (all missing: 189, including not present: 105)</small></summary>
+<summary>show<small> (all missing: 194, including not present: 110)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -1309,6 +1342,8 @@ into your web browser:
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : Already registered?
  * json : API Token Permissions : not present
@@ -1338,6 +1373,8 @@ into your web browser:
  * json : Delete : not present
  * json : Disable : not present
  * json : Done. : not present
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -1395,6 +1432,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -1499,7 +1537,7 @@ into your web browser:
 ## cs
 
 <details>
-<summary>show<small> (all missing: 191, including not present: 105)</small></summary>
+<summary>show<small> (all missing: 196, including not present: 110)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -1507,6 +1545,8 @@ into your web browser:
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : Already registered?
  * json : API Token Permissions : not present
@@ -1536,6 +1576,8 @@ into your web browser:
  * json : Delete : not present
  * json : Disable : not present
  * json : Done. : not present
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -1594,6 +1636,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -1699,7 +1742,7 @@ into your web browser:
 ## cy
 
 <details>
-<summary>show<small> (all missing: 258, including not present: 105)</small></summary>
+<summary>show<small> (all missing: 263, including not present: 110)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -1708,6 +1751,8 @@ into your web browser:
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : All rights reserved.
  * json : Already registered?
@@ -1742,6 +1787,8 @@ into your web browser:
  * json : Disable : not present
  * json : Done. : not present
  * json : E-Mail Address
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -1826,6 +1873,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -1967,7 +2015,7 @@ into your web browser:
 ## da
 
 <details>
-<summary>show<small> (all missing: 191, including not present: 105)</small></summary>
+<summary>show<small> (all missing: 196, including not present: 110)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -1975,6 +2023,8 @@ into your web browser:
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : Already registered?
  * json : API Token Permissions : not present
@@ -2004,6 +2054,8 @@ into your web browser:
  * json : Delete : not present
  * json : Disable : not present
  * json : Done. : not present
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -2062,6 +2114,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -2167,13 +2220,15 @@ into your web browser:
 ## de
 
 <details>
-<summary>show<small> (all missing: 107, including not present: 105)</small></summary>
+<summary>show<small> (all missing: 112, including not present: 110)</small></summary>
 
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
  * json : Add additional security to your account using two factor authentication. : not present
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : API Token Permissions : not present
  * json : API Token : not present
@@ -2202,6 +2257,8 @@ into your web browser:
  * json : Delete : not present
  * json : Disable : not present
  * json : Done. : not present
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Enable : not present
  * json : Ensure your account is using a long, random password to stay secure. : not present
  * json : For your security, please confirm your password to continue. : not present
@@ -2253,6 +2310,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
@@ -2283,7 +2341,7 @@ into your web browser:
 ## de_CH
 
 <details>
-<summary>show<small> (all missing: 124, including not present: 105)</small></summary>
+<summary>show<small> (all missing: 129, including not present: 110)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -2291,6 +2349,8 @@ into your web browser:
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : Already registered?
  * json : API Token Permissions : not present
@@ -2320,6 +2380,8 @@ into your web browser:
  * json : Delete : not present
  * json : Disable : not present
  * json : Done. : not present
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -2378,6 +2440,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -2416,13 +2479,15 @@ into your web browser:
 ## el
 
 <details>
-<summary>show<small> (all missing: 182, including not present: 107)</small></summary>
+<summary>show<small> (all missing: 187, including not present: 112)</small></summary>
 
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
  * json : Add additional security to your account using two factor authentication. : not present
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : API Token Permissions : not present
  * json : API Token : not present
@@ -2451,6 +2516,8 @@ into your web browser:
  * json : Delete : not present
  * json : Disable : not present
  * json : Done. : not present
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email
  * json : Enable : not present
  * json : Ensure your account is using a long, random password to stay secure. : not present
@@ -2507,6 +2574,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -2613,7 +2681,7 @@ All lines are translated 😊
 ## et
 
 <details>
-<summary>show<small> (all missing: 235, including not present: 105)</small></summary>
+<summary>show<small> (all missing: 240, including not present: 110)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -2622,6 +2690,8 @@ All lines are translated 😊
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : All rights reserved.
  * json : Already registered?
@@ -2656,6 +2726,8 @@ All lines are translated 😊
  * json : Disable : not present
  * json : Done. : not present
  * json : E-Mail Address
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -2740,6 +2812,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -2858,7 +2931,7 @@ into your web browser:
 ## eu
 
 <details>
-<summary>show<small> (all missing: 200, including not present: 116)</small></summary>
+<summary>show<small> (all missing: 205, including not present: 121)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -2866,6 +2939,8 @@ into your web browser:
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : Already registered?
  * json : API Token Permissions : not present
@@ -2895,6 +2970,8 @@ into your web browser:
  * json : Delete : not present
  * json : Disable : not present
  * json : Done. : not present
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -2956,6 +3033,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -3067,7 +3145,7 @@ into your web browser:
 ## fa
 
 <details>
-<summary>show<small> (all missing: 132, including not present: 115)</small></summary>
+<summary>show<small> (all missing: 137, including not present: 120)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -3075,6 +3153,8 @@ into your web browser:
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : Already registered?
  * json : API Token Permissions : not present
@@ -3104,6 +3184,8 @@ into your web browser:
  * json : Delete : not present
  * json : Disable : not present
  * json : Done. : not present
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -3165,6 +3247,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -3208,7 +3291,7 @@ into your web browser:
 ## fi
 
 <details>
-<summary>show<small> (all missing: 226, including not present: 143)</small></summary>
+<summary>show<small> (all missing: 231, including not present: 148)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -3217,6 +3300,8 @@ into your web browser:
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : All rights reserved. : not present
  * json : Already registered?
@@ -3251,6 +3336,8 @@ into your web browser:
  * json : Disable : not present
  * json : Done. : not present
  * json : E-Mail Address : not present
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -3328,6 +3415,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -3443,7 +3531,7 @@ into your web browser:
 ## fil
 
 <details>
-<summary>show<small> (all missing: 243, including not present: 168)</small></summary>
+<summary>show<small> (all missing: 248, including not present: 173)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration. : not present
@@ -3452,6 +3540,8 @@ into your web browser:
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : All rights reserved. : not present
  * json : Already registered? : not present
@@ -3486,6 +3576,8 @@ into your web browser:
  * json : Disable : not present
  * json : Done. : not present
  * json : E-Mail Address : not present
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link : not present
  * json : Email : not present
  * json : Enable : not present
@@ -3570,6 +3662,7 @@ into your web browser: : not present
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role. : not present
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -3696,8 +3789,12 @@ into your web browser: : not present
 ## fr
 
 <details>
-<summary>show<small> (all missing: 12, including not present: 0)</small></summary>
+<summary>show<small> (all missing: 16, including not present: 4)</small></summary>
 
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password.
  * json : Manage and logout your active sessions on other browsers and devices.
  * json : Nevermind
@@ -3717,7 +3814,7 @@ into your web browser: : not present
 ## gl
 
 <details>
-<summary>show<small> (all missing: 198, including not present: 115)</small></summary>
+<summary>show<small> (all missing: 203, including not present: 120)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -3725,6 +3822,8 @@ into your web browser: : not present
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : Already registered?
  * json : API Token Permissions : not present
@@ -3754,6 +3853,8 @@ into your web browser: : not present
  * json : Delete : not present
  * json : Disable : not present
  * json : Done. : not present
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -3815,6 +3916,7 @@ into your web browser: : not present
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -3924,7 +4026,7 @@ into your web browser: : not present
 ## he
 
 <details>
-<summary>show<small> (all missing: 191, including not present: 109)</small></summary>
+<summary>show<small> (all missing: 196, including not present: 114)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -3932,6 +4034,8 @@ into your web browser: : not present
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : Already registered?
  * json : API Token Permissions : not present
@@ -3961,6 +4065,8 @@ into your web browser: : not present
  * json : Delete : not present
  * json : Disable : not present
  * json : Done. : not present
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -4019,6 +4125,7 @@ into your web browser: : not present
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -4124,7 +4231,7 @@ into your web browser: : not present
 ## hi
 
 <details>
-<summary>show<small> (all missing: 238, including not present: 105)</small></summary>
+<summary>show<small> (all missing: 243, including not present: 110)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -4133,6 +4240,8 @@ into your web browser: : not present
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : All rights reserved.
  * json : Already registered?
@@ -4167,6 +4276,8 @@ into your web browser: : not present
  * json : Disable : not present
  * json : Done. : not present
  * json : E-Mail Address
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -4251,6 +4362,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -4372,7 +4484,7 @@ into your web browser:
 ## hr
 
 <details>
-<summary>show<small> (all missing: 220, including not present: 137)</small></summary>
+<summary>show<small> (all missing: 225, including not present: 142)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -4381,6 +4493,8 @@ into your web browser:
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : All rights reserved. : not present
  * json : Already registered?
@@ -4413,6 +4527,8 @@ into your web browser:
  * json : Delete : not present
  * json : Disable : not present
  * json : Done. : not present
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -4486,6 +4602,7 @@ into your web browser: : not present
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -4602,7 +4719,7 @@ into your web browser: : not present
 ## hu
 
 <details>
-<summary>show<small> (all missing: 188, including not present: 107)</small></summary>
+<summary>show<small> (all missing: 193, including not present: 112)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -4610,6 +4727,8 @@ into your web browser: : not present
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : Already registered?
  * json : API Token Permissions : not present
@@ -4639,6 +4758,8 @@ into your web browser: : not present
  * json : Delete : not present
  * json : Disable : not present
  * json : Done. : not present
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -4696,6 +4817,7 @@ into your web browser: : not present
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -4799,7 +4921,7 @@ into your web browser: : not present
 ## hy
 
 <details>
-<summary>show<small> (all missing: 189, including not present: 108)</small></summary>
+<summary>show<small> (all missing: 194, including not present: 113)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -4807,6 +4929,8 @@ into your web browser: : not present
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : Already registered?
  * json : API Token Permissions : not present
@@ -4836,6 +4960,8 @@ into your web browser: : not present
  * json : Delete : not present
  * json : Disable : not present
  * json : Done. : not present
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -4895,6 +5021,7 @@ into your web browser: : not present
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -4998,13 +5125,15 @@ into your web browser: : not present
 ## id
 
 <details>
-<summary>show<small> (all missing: 105, including not present: 105)</small></summary>
+<summary>show<small> (all missing: 110, including not present: 110)</small></summary>
 
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
  * json : Add additional security to your account using two factor authentication. : not present
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : API Token Permissions : not present
  * json : API Token : not present
@@ -5032,6 +5161,8 @@ into your web browser: : not present
  * json : Delete : not present
  * json : Disable : not present
  * json : Done. : not present
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Enable : not present
  * json : Ensure your account is using a long, random password to stay secure. : not present
  * json : For your security, please confirm your password to continue. : not present
@@ -5082,6 +5213,7 @@ into your web browser: : not present
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
@@ -5112,7 +5244,7 @@ into your web browser: : not present
 ## is
 
 <details>
-<summary>show<small> (all missing: 237, including not present: 105)</small></summary>
+<summary>show<small> (all missing: 242, including not present: 110)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -5121,6 +5253,8 @@ into your web browser: : not present
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : All rights reserved.
  * json : Already registered?
@@ -5155,6 +5289,8 @@ into your web browser: : not present
  * json : Disable : not present
  * json : Done. : not present
  * json : E-Mail Address
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -5239,6 +5375,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -5359,13 +5496,15 @@ into your web browser:
 ## it
 
 <details>
-<summary>show<small> (all missing: 178, including not present: 111)</small></summary>
+<summary>show<small> (all missing: 183, including not present: 116)</small></summary>
 
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
  * json : Add additional security to your account using two factor authentication. : not present
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : API Token Permissions : not present
  * json : API Token : not present
@@ -5395,6 +5534,8 @@ into your web browser:
  * json : Delete : not present
  * json : Disable : not present
  * json : Done. : not present
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email
  * json : Enable : not present
  * json : Ensure your account is using a long, random password to stay secure. : not present
@@ -5450,6 +5591,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
@@ -5546,7 +5688,7 @@ into your web browser:
 ## ja
 
 <details>
-<summary>show<small> (all missing: 197, including not present: 116)</small></summary>
+<summary>show<small> (all missing: 202, including not present: 121)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -5554,6 +5696,8 @@ into your web browser:
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : Already registered?
  * json : API Token Permissions : not present
@@ -5583,6 +5727,8 @@ into your web browser:
  * json : Delete : not present
  * json : Disable : not present
  * json : Done. : not present
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -5644,6 +5790,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -5752,7 +5899,7 @@ into your web browser:
 ## ka
 
 <details>
-<summary>show<small> (all missing: 220, including not present: 137)</small></summary>
+<summary>show<small> (all missing: 225, including not present: 142)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -5761,6 +5908,8 @@ into your web browser:
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : All rights reserved. : not present
  * json : Already registered?
@@ -5793,6 +5942,8 @@ into your web browser:
  * json : Delete : not present
  * json : Disable : not present
  * json : Done. : not present
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -5866,6 +6017,7 @@ into your web browser: : not present
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -5982,7 +6134,7 @@ into your web browser: : not present
 ## kk
 
 <details>
-<summary>show<small> (all missing: 189, including not present: 107)</small></summary>
+<summary>show<small> (all missing: 194, including not present: 112)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -5990,6 +6142,8 @@ into your web browser: : not present
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : Already registered?
  * json : API Token Permissions : not present
@@ -6019,6 +6173,8 @@ into your web browser: : not present
  * json : Delete : not present
  * json : Disable : not present
  * json : Done. : not present
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -6076,6 +6232,7 @@ into your web browser: : not present
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -6180,7 +6337,7 @@ into your web browser: : not present
 ## km
 
 <details>
-<summary>show<small> (all missing: 259, including not present: 105)</small></summary>
+<summary>show<small> (all missing: 264, including not present: 110)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -6189,6 +6346,8 @@ into your web browser: : not present
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : All rights reserved.
  * json : Already registered?
@@ -6223,6 +6382,8 @@ into your web browser: : not present
  * json : Disable : not present
  * json : Done. : not present
  * json : E-Mail Address
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -6307,6 +6468,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -6449,7 +6611,7 @@ into your web browser:
 ## kn
 
 <details>
-<summary>show<small> (all missing: 199, including not present: 115)</small></summary>
+<summary>show<small> (all missing: 204, including not present: 120)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -6457,6 +6619,8 @@ into your web browser:
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : Already registered?
  * json : API Token Permissions : not present
@@ -6486,6 +6650,8 @@ into your web browser:
  * json : Delete : not present
  * json : Disable : not present
  * json : Done. : not present
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -6547,6 +6713,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -6657,7 +6824,7 @@ into your web browser:
 ## ko
 
 <details>
-<summary>show<small> (all missing: 124, including not present: 107)</small></summary>
+<summary>show<small> (all missing: 129, including not present: 112)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -6665,6 +6832,8 @@ into your web browser:
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : Already registered?
  * json : API Token Permissions : not present
@@ -6694,6 +6863,8 @@ into your web browser:
  * json : Delete : not present
  * json : Disable : not present
  * json : Done. : not present
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -6751,6 +6922,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -6790,7 +6962,7 @@ into your web browser:
 ## lt
 
 <details>
-<summary>show<small> (all missing: 122, including not present: 105)</small></summary>
+<summary>show<small> (all missing: 127, including not present: 110)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -6798,6 +6970,8 @@ into your web browser:
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : Already registered?
  * json : API Token Permissions : not present
@@ -6826,6 +7000,8 @@ into your web browser:
  * json : Delete : not present
  * json : Disable : not present
  * json : Done. : not present
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -6883,6 +7059,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -6921,7 +7098,7 @@ into your web browser:
 ## lv
 
 <details>
-<summary>show<small> (all missing: 235, including not present: 105)</small></summary>
+<summary>show<small> (all missing: 240, including not present: 110)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -6930,6 +7107,8 @@ into your web browser:
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : All rights reserved.
  * json : Already registered?
@@ -6964,6 +7143,8 @@ into your web browser:
  * json : Disable : not present
  * json : Done. : not present
  * json : E-Mail Address
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -7048,6 +7229,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -7166,7 +7348,7 @@ into your web browser:
 ## me
 
 <details>
-<summary>show<small> (all missing: 251, including not present: 105)</small></summary>
+<summary>show<small> (all missing: 256, including not present: 110)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -7175,6 +7357,8 @@ into your web browser:
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : All rights reserved.
  * json : Already registered?
@@ -7209,6 +7393,8 @@ into your web browser:
  * json : Disable : not present
  * json : Done. : not present
  * json : E-Mail Address
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -7293,6 +7479,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -7427,7 +7614,7 @@ into your web browser:
 ## mk
 
 <details>
-<summary>show<small> (all missing: 260, including not present: 105)</small></summary>
+<summary>show<small> (all missing: 265, including not present: 110)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -7436,6 +7623,8 @@ into your web browser:
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : All rights reserved.
  * json : Already registered?
@@ -7470,6 +7659,8 @@ into your web browser:
  * json : Disable : not present
  * json : Done. : not present
  * json : E-Mail Address
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -7554,6 +7745,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -7697,7 +7889,7 @@ into your web browser:
 ## mn
 
 <details>
-<summary>show<small> (all missing: 248, including not present: 105)</small></summary>
+<summary>show<small> (all missing: 253, including not present: 110)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -7706,6 +7898,8 @@ into your web browser:
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : All rights reserved.
  * json : Already registered?
@@ -7740,6 +7934,8 @@ into your web browser:
  * json : Disable : not present
  * json : Done. : not present
  * json : E-Mail Address
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -7824,6 +8020,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -7955,7 +8152,7 @@ into your web browser:
 ## mr
 
 <details>
-<summary>show<small> (all missing: 200, including not present: 116)</small></summary>
+<summary>show<small> (all missing: 205, including not present: 121)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -7963,6 +8160,8 @@ into your web browser:
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : Already registered?
  * json : API Token Permissions : not present
@@ -7993,6 +8192,8 @@ into your web browser:
  * json : Delete : not present
  * json : Disable : not present
  * json : Done. : not present
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -8054,6 +8255,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -8164,7 +8366,7 @@ into your web browser:
 ## ms
 
 <details>
-<summary>show<small> (all missing: 199, including not present: 117)</small></summary>
+<summary>show<small> (all missing: 139, including not present: 122)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -8172,6 +8374,8 @@ into your web browser:
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : Already registered?
  * json : API Token Permissions : not present
@@ -8201,6 +8405,8 @@ into your web browser:
  * json : Delete : not present
  * json : Disable : not present
  * json : Done. : not present
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -8262,6 +8468,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -8300,70 +8507,6 @@ into your web browser:
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified. : not present
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt
- * validation-inline : gte
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt
- * validation-inline : lte
- * validation-inline : max
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -8371,7 +8514,7 @@ into your web browser:
 ## nb
 
 <details>
-<summary>show<small> (all missing: 190, including not present: 109)</small></summary>
+<summary>show<small> (all missing: 195, including not present: 114)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -8379,6 +8522,8 @@ into your web browser:
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : Already registered?
  * json : API Token Permissions : not present
@@ -8408,6 +8553,8 @@ into your web browser:
  * json : Delete : not present
  * json : Disable : not present
  * json : Done. : not present
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -8466,6 +8613,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -8570,7 +8718,7 @@ into your web browser:
 ## ne
 
 <details>
-<summary>show<small> (all missing: 122, including not present: 105)</small></summary>
+<summary>show<small> (all missing: 127, including not present: 110)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -8578,6 +8726,8 @@ into your web browser:
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : Already registered?
  * json : API Token Permissions : not present
@@ -8606,6 +8756,8 @@ into your web browser:
  * json : Delete : not present
  * json : Disable : not present
  * json : Done. : not present
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -8663,6 +8815,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -8701,7 +8854,7 @@ into your web browser:
 ## nl
 
 <details>
-<summary>show<small> (all missing: 123, including not present: 105)</small></summary>
+<summary>show<small> (all missing: 128, including not present: 110)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -8709,6 +8862,8 @@ into your web browser:
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : Already registered?
  * json : API Token Permissions : not present
@@ -8738,6 +8893,8 @@ into your web browser:
  * json : Delete : not present
  * json : Disable : not present
  * json : Done. : not present
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -8795,6 +8952,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -8833,7 +8991,7 @@ into your web browser:
 ## nn
 
 <details>
-<summary>show<small> (all missing: 192, including not present: 109)</small></summary>
+<summary>show<small> (all missing: 197, including not present: 114)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -8841,6 +8999,8 @@ into your web browser:
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : Already registered?
  * json : API Token Permissions : not present
@@ -8870,6 +9030,8 @@ into your web browser:
  * json : Delete : not present
  * json : Disable : not present
  * json : Done. : not present
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -8928,6 +9090,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -9040,7 +9203,7 @@ All lines are translated 😊
 ## ps
 
 <details>
-<summary>show<small> (all missing: 200, including not present: 116)</small></summary>
+<summary>show<small> (all missing: 205, including not present: 121)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -9048,6 +9211,8 @@ All lines are translated 😊
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : Already registered?
  * json : API Token Permissions : not present
@@ -9077,6 +9242,8 @@ All lines are translated 😊
  * json : Delete : not present
  * json : Disable : not present
  * json : Done. : not present
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -9138,6 +9305,7 @@ All lines are translated 😊
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -9249,10 +9417,15 @@ All lines are translated 😊
 ## pt
 
 <details>
-<summary>show<small> (all missing: 2, including not present: 0)</small></summary>
+<summary>show<small> (all missing: 7, including not present: 5)</small></summary>
 
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : API Token
  * json : API Tokens
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
 
 [ [to top](#todo-list) ]
 </details>
@@ -9260,9 +9433,14 @@ All lines are translated 😊
 ## pt_BR
 
 <details>
-<summary>show<small> (all missing: 1, including not present: 0)</small></summary>
+<summary>show<small> (all missing: 6, including not present: 5)</small></summary>
 
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
 
 [ [to top](#todo-list) ]
 </details>
@@ -9270,7 +9448,7 @@ All lines are translated 😊
 ## ro
 
 <details>
-<summary>show<small> (all missing: 189, including not present: 107)</small></summary>
+<summary>show<small> (all missing: 194, including not present: 112)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -9278,6 +9456,8 @@ All lines are translated 😊
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : Already registered?
  * json : API Token Permissions : not present
@@ -9307,6 +9487,8 @@ All lines are translated 😊
  * json : Delete : not present
  * json : Disable : not present
  * json : Done. : not present
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -9364,6 +9546,7 @@ All lines are translated 😊
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -9467,14 +9650,18 @@ All lines are translated 😊
 
 ## ru
 
+<details>
+<summary>show<small> (all missing: 1, including not present: 1)</small></summary>
 
-All lines are translated 😊
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## sc
 
 <details>
-<summary>show<small> (all missing: 258, including not present: 105)</small></summary>
+<summary>show<small> (all missing: 263, including not present: 110)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -9483,6 +9670,8 @@ All lines are translated 😊
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : All rights reserved.
  * json : Already registered?
@@ -9517,6 +9706,8 @@ All lines are translated 😊
  * json : Disable : not present
  * json : Done. : not present
  * json : E-Mail Address
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -9601,6 +9792,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -9742,7 +9934,7 @@ into your web browser:
 ## si
 
 <details>
-<summary>show<small> (all missing: 234, including not present: 105)</small></summary>
+<summary>show<small> (all missing: 239, including not present: 110)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -9751,6 +9943,8 @@ into your web browser:
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : All rights reserved.
  * json : Already registered?
@@ -9785,6 +9979,8 @@ into your web browser:
  * json : Disable : not present
  * json : Done. : not present
  * json : E-Mail Address
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -9869,6 +10065,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -9986,7 +10183,7 @@ into your web browser:
 ## sk
 
 <details>
-<summary>show<small> (all missing: 188, including not present: 107)</small></summary>
+<summary>show<small> (all missing: 193, including not present: 112)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -9994,6 +10191,8 @@ into your web browser:
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : Already registered?
  * json : API Token Permissions : not present
@@ -10023,6 +10222,8 @@ into your web browser:
  * json : Delete : not present
  * json : Disable : not present
  * json : Done. : not present
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -10080,6 +10281,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -10183,7 +10385,7 @@ into your web browser:
 ## sl
 
 <details>
-<summary>show<small> (all missing: 221, including not present: 137)</small></summary>
+<summary>show<small> (all missing: 226, including not present: 142)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -10192,6 +10394,8 @@ into your web browser:
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : All rights reserved. : not present
  * json : Already registered?
@@ -10224,6 +10428,8 @@ into your web browser:
  * json : Delete : not present
  * json : Disable : not present
  * json : Done. : not present
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -10297,6 +10503,7 @@ into your web browser: : not present
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -10414,7 +10621,7 @@ into your web browser: : not present
 ## sq
 
 <details>
-<summary>show<small> (all missing: 168, including not present: 105)</small></summary>
+<summary>show<small> (all missing: 173, including not present: 110)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -10423,6 +10630,8 @@ into your web browser: : not present
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : All rights reserved.
  * json : Already registered?
@@ -10457,6 +10666,8 @@ into your web browser: : not present
  * json : Disable : not present
  * json : Done. : not present
  * json : E-Mail Address
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -10541,6 +10752,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -10592,13 +10804,18 @@ into your web browser:
 ## sr_Cyrillic
 
 <details>
-<summary>show<small> (all missing: 6, including not present: 6)</small></summary>
+<summary>show<small> (all missing: 11, including not present: 11)</small></summary>
 
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Go to page :page : not present
  * json : of : not present
  * json : Pagination Navigation : not present
  * json : results : not present
  * json : Showing : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : to : not present
 
 [ [to top](#todo-list) ]
@@ -10607,13 +10824,18 @@ into your web browser:
 ## sr_Latin
 
 <details>
-<summary>show<small> (all missing: 6, including not present: 6)</small></summary>
+<summary>show<small> (all missing: 11, including not present: 11)</small></summary>
 
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Go to page :page : not present
  * json : of : not present
  * json : Pagination Navigation : not present
  * json : results : not present
  * json : Showing : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : to : not present
 
 [ [to top](#todo-list) ]
@@ -10622,7 +10844,7 @@ into your web browser:
 ## sv
 
 <details>
-<summary>show<small> (all missing: 188, including not present: 107)</small></summary>
+<summary>show<small> (all missing: 193, including not present: 112)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -10630,6 +10852,8 @@ into your web browser:
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : Already registered?
  * json : API Token Permissions : not present
@@ -10659,6 +10883,8 @@ into your web browser:
  * json : Delete : not present
  * json : Disable : not present
  * json : Done. : not present
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -10716,6 +10942,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -10819,7 +11046,7 @@ into your web browser:
 ## sw
 
 <details>
-<summary>show<small> (all missing: 235, including not present: 105)</small></summary>
+<summary>show<small> (all missing: 240, including not present: 110)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -10828,6 +11055,8 @@ into your web browser:
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : All rights reserved.
  * json : Already registered?
@@ -10862,6 +11091,8 @@ into your web browser:
  * json : Disable : not present
  * json : Done. : not present
  * json : E-Mail Address
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -10946,6 +11177,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -11064,7 +11296,7 @@ into your web browser:
 ## tg
 
 <details>
-<summary>show<small> (all missing: 245, including not present: 105)</small></summary>
+<summary>show<small> (all missing: 250, including not present: 110)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -11073,6 +11305,8 @@ into your web browser:
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : All rights reserved.
  * json : Already registered?
@@ -11107,6 +11341,8 @@ into your web browser:
  * json : Disable : not present
  * json : Done. : not present
  * json : E-Mail Address
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -11191,6 +11427,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -11319,7 +11556,7 @@ into your web browser:
 ## th
 
 <details>
-<summary>show<small> (all missing: 205, including not present: 115)</small></summary>
+<summary>show<small> (all missing: 210, including not present: 120)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -11327,6 +11564,8 @@ into your web browser:
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : All rights reserved.
  * json : Already registered?
@@ -11357,6 +11596,8 @@ into your web browser:
  * json : Delete : not present
  * json : Disable : not present
  * json : Done. : not present
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -11422,6 +11663,7 @@ into your web browser: : not present
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -11534,7 +11776,7 @@ into your web browser: : not present
 ## tk
 
 <details>
-<summary>show<small> (all missing: 258, including not present: 105)</small></summary>
+<summary>show<small> (all missing: 263, including not present: 110)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -11543,6 +11785,8 @@ into your web browser: : not present
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : All rights reserved.
  * json : Already registered?
@@ -11577,6 +11821,8 @@ into your web browser: : not present
  * json : Disable : not present
  * json : Done. : not present
  * json : E-Mail Address
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -11661,6 +11907,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -11802,7 +12049,7 @@ into your web browser:
 ## tl
 
 <details>
-<summary>show<small> (all missing: 251, including not present: 105)</small></summary>
+<summary>show<small> (all missing: 256, including not present: 110)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -11811,6 +12058,8 @@ into your web browser:
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : All rights reserved.
  * json : Already registered?
@@ -11845,6 +12094,8 @@ into your web browser:
  * json : Disable : not present
  * json : Done. : not present
  * json : E-Mail Address
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -11929,6 +12180,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -12063,13 +12315,15 @@ into your web browser:
 ## tr
 
 <details>
-<summary>show<small> (all missing: 172, including not present: 105)</small></summary>
+<summary>show<small> (all missing: 177, including not present: 110)</small></summary>
 
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
  * json : Add additional security to your account using two factor authentication. : not present
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : API Token Permissions : not present
  * json : API Token : not present
@@ -12098,6 +12352,8 @@ into your web browser:
  * json : Delete : not present
  * json : Disable : not present
  * json : Done. : not present
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Enable : not present
  * json : Ensure your account is using a long, random password to stay secure. : not present
  * json : For your security, please confirm your password to continue. : not present
@@ -12149,6 +12405,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -12244,7 +12501,7 @@ into your web browser:
 ## ug
 
 <details>
-<summary>show<small> (all missing: 243, including not present: 105)</small></summary>
+<summary>show<small> (all missing: 248, including not present: 110)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -12253,6 +12510,8 @@ into your web browser:
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : All rights reserved.
  * json : Already registered?
@@ -12287,6 +12546,8 @@ into your web browser:
  * json : Disable : not present
  * json : Done. : not present
  * json : E-Mail Address
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -12371,6 +12632,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -12497,7 +12759,7 @@ into your web browser:
 ## uk
 
 <details>
-<summary>show<small> (all missing: 122, including not present: 105)</small></summary>
+<summary>show<small> (all missing: 127, including not present: 110)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -12505,6 +12767,8 @@ into your web browser:
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : Already registered?
  * json : API Token Permissions : not present
@@ -12533,6 +12797,8 @@ into your web browser:
  * json : Delete : not present
  * json : Disable : not present
  * json : Done. : not present
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -12590,6 +12856,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -12628,7 +12895,7 @@ into your web browser:
 ## ur
 
 <details>
-<summary>show<small> (all missing: 237, including not present: 105)</small></summary>
+<summary>show<small> (all missing: 242, including not present: 110)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -12637,6 +12904,8 @@ into your web browser:
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : All rights reserved.
  * json : Already registered?
@@ -12669,6 +12938,8 @@ into your web browser:
  * json : Delete : not present
  * json : Disable : not present
  * json : Done. : not present
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -12742,6 +13013,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -12875,7 +13147,7 @@ into your web browser:
 ## uz_Cyrillic
 
 <details>
-<summary>show<small> (all missing: 232, including not present: 105)</small></summary>
+<summary>show<small> (all missing: 237, including not present: 110)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -12884,6 +13156,8 @@ into your web browser:
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : All rights reserved.
  * json : Already registered?
@@ -12918,6 +13192,8 @@ into your web browser:
  * json : Disable : not present
  * json : Done. : not present
  * json : E-Mail Address
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -13002,6 +13278,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -13117,7 +13394,7 @@ into your web browser:
 ## uz_Latin
 
 <details>
-<summary>show<small> (all missing: 232, including not present: 105)</small></summary>
+<summary>show<small> (all missing: 237, including not present: 110)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -13126,6 +13403,8 @@ into your web browser:
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : All rights reserved.
  * json : Already registered?
@@ -13160,6 +13439,8 @@ into your web browser:
  * json : Disable : not present
  * json : Done. : not present
  * json : E-Mail Address
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -13244,6 +13525,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -13359,7 +13641,7 @@ into your web browser:
 ## vi
 
 <details>
-<summary>show<small> (all missing: 189, including not present: 105)</small></summary>
+<summary>show<small> (all missing: 194, including not present: 110)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -13367,6 +13649,8 @@ into your web browser:
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : Already registered?
  * json : API Token Permissions : not present
@@ -13396,6 +13680,8 @@ into your web browser:
  * json : Delete : not present
  * json : Disable : not present
  * json : Done. : not present
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -13453,6 +13739,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -13557,7 +13844,7 @@ into your web browser:
 ## zh_CN
 
 <details>
-<summary>show<small> (all missing: 122, including not present: 105)</small></summary>
+<summary>show<small> (all missing: 127, including not present: 110)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -13565,6 +13852,8 @@ into your web browser:
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : Already registered?
  * json : API Token Permissions : not present
@@ -13593,6 +13882,8 @@ into your web browser:
  * json : Delete : not present
  * json : Disable : not present
  * json : Done. : not present
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -13650,6 +13941,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -13688,7 +13980,7 @@ into your web browser:
 ## zh_HK
 
 <details>
-<summary>show<small> (all missing: 122, including not present: 105)</small></summary>
+<summary>show<small> (all missing: 127, including not present: 110)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -13696,6 +13988,8 @@ into your web browser:
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : Already registered?
  * json : API Token Permissions : not present
@@ -13724,6 +14018,8 @@ into your web browser:
  * json : Delete : not present
  * json : Disable : not present
  * json : Done. : not present
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -13781,6 +14077,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -13819,7 +14116,7 @@ into your web browser:
 ## zh_TW
 
 <details>
-<summary>show<small> (all missing: 122, including not present: 105)</small></summary>
+<summary>show<small> (all missing: 127, including not present: 110)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -13827,6 +14124,8 @@ into your web browser:
  * json : Add Team Member : not present
  * json : Add : not present
  * json : Added. : not present
+ * json : Administrator users can perform any action. : not present
+ * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : Already registered?
  * json : API Token Permissions : not present
@@ -13855,6 +14154,8 @@ into your web browser:
  * json : Delete : not present
  * json : Disable : not present
  * json : Done. : not present
+ * json : Editor users have the ability to read, create, and update. : not present
+ * json : Editor : not present
  * json : Email Password Reset Link
  * json : Email
  * json : Enable : not present
@@ -13912,6 +14213,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present

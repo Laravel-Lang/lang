@@ -38,6 +38,7 @@ jobs:
                 if: success()
                 run: |
                     IS_DIRTY=1
+
                     { git add . && git commit -a -m "Updated todo.md file"; } || IS_DIRTY=0
 
                     echo ::set-output name=is_dirty::${IS_DIRTY}

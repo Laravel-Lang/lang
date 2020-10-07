@@ -24,19 +24,26 @@ jobs:
                     extensions: mbstring, json
 
             -   name: Git setup
+                if: success()
                 run: |
                     git config --local user.email "action@github.com"
                     git config --local user.name "GitHub Action"
 
             -   name: Generate todo.md
+                if: success()
                 run: php script/todo.php
 
             -   name: Commit file
+                id: commit
+                if: success()
                 run: |
-                    git add .
-                    git commit -a -m "Updated todo.md file"
+                    IS_DIRTY=1
+                    { git add . && git commit -a -m "Updated todo.md file"; } || IS_DIRTY=0
+
+                    echo ::set-output name=is_dirty::${IS_DIRTY}
 
             -   name: Push changes
                 uses: ad-m/github-push-action@master
+                if: success() && steps.commit.outputs.is_dirty == 1
                 with:
                     github_token: ${{ secrets.GITHUB_TOKEN }}

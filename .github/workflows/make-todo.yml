@@ -1,0 +1,42 @@
+name: make-todo
+on:
+    push:
+        branches:
+            - master
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+
+        strategy:
+            fail-fast: true
+
+        name: Make TODO.md
+
+        steps:
+            -   name: Checkout code
+                uses: actions/checkout@v2
+
+            -   name: Setup PHP
+                uses: shivammathur/setup-php@v1
+                with:
+                    php-version: 7.4
+                    extensions: mbstring, json
+
+            -   name: Git setup
+                run: |
+                    git config --local user.email "action@github.com"
+                    git config --local user.name "GitHub Action"
+
+            -   name: Generate todo.md
+                run: php script/todo.php
+
+            -   name: Commit file
+                run: |
+                    git add .
+                    git commit -a -m "Updated todo.md file"
+
+            -   name: Push changes
+                uses: ad-m/github-push-action@master
+                with:
+                    github_token: ${{ secrets.GITHUB_TOKEN }}

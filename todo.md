@@ -3781,10 +3781,8 @@ into your web browser: : not present
 ## fr
 
 <details>
-<summary>show<small> (all missing: 5, including not present: 0)</small></summary>
+<summary>show<small> (all missing: 3, including not present: 0)</small></summary>
 
- * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
  * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
  * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application.

@@ -27,6 +27,7 @@ class Storage
 
     public function store(string $path, string $content): void
     {
+        $path = $this->realpath($path);
         file_put_contents($path, $content);
     }
 
@@ -310,28 +311,56 @@ class TodoGenerator
 
             $current = $this->getTranslations($language, $this->basePath);
 
-            foreach ($default as $key => $values) {
-                array_map(function ($key2) use ($key, $current, $language, $default) {
-                    if (in_array($key2, ['custom', 'attributes'], true)) {
-                        return;
-                    }
-
-                    if (! isset($current[$key][$key2])) {
-                        $this->output->add(
-                            $language,
-                            " * {$key} : {$key2} : not present"
-                        );
-                    } elseif ($current[$key][$key2] === $default[$key][$key2]) {
-                        if (! $this->storage->isExclusionList($language, $current[$key][$key2])) {
-                            $this->output->add(
-                                $language,
-                                " * {$key} : {$key2}"
-                            );
-                        }
-                    }
-                }, array_keys($values));
-            }
+            $this->generatingInfoList($default, $current, $language);
         }, $languages);
+    }
+
+    private function generatingInfoList($default, $current, $language)
+    {
+        $arrayDefault = $this->align($default, ['custom', 'attributes']);
+        $arrayCurrent = $this->align($current);
+
+        foreach ($arrayDefault as $key => $values) {
+            if (! isset($arrayCurrent[$key])) {
+                $this->output->add(
+                    $language,
+                    " * {$key} : not present"
+                );
+            } elseif ($arrayCurrent[$key] === $values) {
+                if (! $this->storage->isExclusionList($language, $arrayCurrent[$key])) {
+                    $this->output->add(
+                        $language,
+                        " * {$key}"
+                    );
+                }
+            }
+        }
+    }
+
+    private function align($items = [], $ignore = [], $prefix = '', $connector = ' : ')
+    {
+        $newArray = [];
+
+        if ( ! is_array($ignore)) {
+            $ignore = (array) $ignore;
+        }
+
+        foreach ($items as $key => $value) {
+            if( in_array($key, $ignore)) {
+                continue;
+            }
+
+            if (is_array($value) && ! empty($value)) {
+                $newArray = array_merge(
+                    $newArray,
+                    $this->align($value, $ignore, $prefix . $key . $connector, '.')
+                );
+            } else {
+                $newArray[$prefix.$key] = $value;
+            }
+        }
+
+        return $newArray;
     }
 }
 

@@ -14,4 +14,5 @@ return [
     'Administrator',
     'Code',
     'Dashboard',
+    'Name',
 ];

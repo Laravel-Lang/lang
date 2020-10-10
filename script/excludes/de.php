@@ -15,4 +15,5 @@ return [
     'Code',
     'Dashboard',
     'Name',
+    'Editor',
 ];

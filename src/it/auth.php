@@ -12,6 +12,6 @@ return [
     |
     */
 
-    'failed'   => 'Credenziali non corrispondenti ai dati registrati.',
+    'failed'   => 'Credenziali non valide.',
     'throttle' => 'Troppi tentativi di accesso. Riprova tra :seconds secondi.',
 ];

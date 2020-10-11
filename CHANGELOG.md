@@ -5,6 +5,36 @@ All notable changes to this project will be documented in this file, since v7.0.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [7.0.8] - 2020-10-11
+
+### Changed
+
+ * feature: #1383 #1411 [fr] json file
+ * feature: #1385 [el] json file
+ * feature: #1387 #1388 #1392 [ms] validation.php validation-inline.php passwords.php
+ * feature: #1390 #1398 [ar] json file
+ * feature: #1393 #1397 [ru] json file
+ * feature: #1393 #1394 [en] add tags
+ * feature: #1394 [es] json file
+ * feature: #1395 [pl] json file
+ * feature: #1400 [lt] json file
+ * feature: #1402 #1413 [it] validation-inline.php auth.php passwords.php json file
+ * feature: #1404 [pt] json file
+ * feature: #1412 [de] json file
+
+### Documentation
+
+ * feature: #1386 Contributing
+
+### Todo script
+
+ * fix: #1406 ignores the additional informations
+
+### Workflow
+
+ * feature: #1401 #1403 Make todo
+ * feature: #1405 template bug report
+
 ## [7.0.7] - 2020-10-02
 
 ### Changed
@@ -108,7 +138,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
  * feature: #1269 Rename locale folders following ISO 15897 format
 
-[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/7.0.7...master
+[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/7.0.8...master
+[7.0.8]: https://github.com/caouecs/Laravel-lang/compare/7.0.7...7.0.8
 [7.0.7]: https://github.com/caouecs/Laravel-lang/compare/7.0.6...7.0.7
 [7.0.6]: https://github.com/caouecs/Laravel-lang/compare/7.0.5...7.0.6
 [7.0.5]: https://github.com/caouecs/Laravel-lang/compare/7.0.4...7.0.5

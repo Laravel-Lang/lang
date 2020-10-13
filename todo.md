@@ -22,179 +22,179 @@ All lines are translated 😊
 ## az
 
 <details>
-<summary>show<small> (all missing: 284, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 284, including not present: 0)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
- * json : Add a new team member to your team, allowing them to collaborate with you. : not present
- * json : Add additional security to your account using two factor authentication. : not present
- * json : Add Team Member : not present
- * json : Add : not present
- * json : Added. : not present
- * json : Administrator users can perform any action. : not present
- * json : Administrator : not present
- * json : All of the people that are part of this team. : not present
+ * json : Add a new team member to your team, allowing them to collaborate with you.
+ * json : Add additional security to your account using two factor authentication.
+ * json : Add Team Member
+ * json : Add
+ * json : Added.
+ * json : Administrator users can perform any action.
+ * json : Administrator
+ * json : All of the people that are part of this team.
  * json : All rights reserved.
  * json : Already registered?
- * json : API Token Permissions : not present
- * json : API Token : not present
- * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
- * json : API Tokens : not present
- * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
- * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
- * json : Are you sure you would like to delete this API token? : not present
- * json : Are you sure you would like to leave this team? : not present
- * json : Are you sure you would like to remove this person from the team? : not present
+ * json : API Token Permissions
+ * json : API Token
+ * json : API tokens allow third-party services to authenticate with our application on your behalf.
+ * json : API Tokens
+ * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted.
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+ * json : Are you sure you would like to delete this API token?
+ * json : Are you sure you would like to leave this team?
+ * json : Are you sure you would like to remove this person from the team?
  * json : Before proceeding, please check your email for a verification link.
- * json : Browser Sessions : not present
+ * json : Browser Sessions
  * json : click here to request another
- * json : Close : not present
- * json : Code : not present
+ * json : Close
+ * json : Code
  * json : Confirm Password
- * json : Confirm : not present
- * json : Create a new team to collaborate with others on projects. : not present
- * json : Create API Token : not present
- * json : Create New Team : not present
- * json : Create Team : not present
- * json : Create : not present
- * json : Created. : not present
- * json : Current Password : not present
+ * json : Confirm
+ * json : Create a new team to collaborate with others on projects.
+ * json : Create API Token
+ * json : Create New Team
+ * json : Create Team
+ * json : Create
+ * json : Created.
+ * json : Current Password
  * json : Dashboard
- * json : Delete Account : not present
- * json : Delete API Token : not present
- * json : Delete Team : not present
- * json : Delete : not present
- * json : Disable : not present
- * json : Done. : not present
+ * json : Delete Account
+ * json : Delete API Token
+ * json : Delete Team
+ * json : Delete
+ * json : Disable
+ * json : Done.
  * json : E-Mail Address
- * json : Editor users have the ability to read, create, and update. : not present
- * json : Editor : not present
+ * json : Editor users have the ability to read, create, and update.
+ * json : Editor
  * json : Email Password Reset Link
  * json : Email
- * json : Enable : not present
- * json : Ensure your account is using a long, random password to stay secure. : not present
- * json : For your security, please confirm your password to continue. : not present
+ * json : Enable
+ * json : Ensure your account is using a long, random password to stay secure.
+ * json : For your security, please confirm your password to continue.
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
  * json : Forgot your password?
  * json : Go Home
- * json : Go to page :page : not present
+ * json : Go to page :page
  * json : Hello!
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password.
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you did not request a password reset, no further action is required.
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser:
  * json : Invalid signature.
- * json : Last active : not present
- * json : Last used : not present
- * json : Leave Team : not present
- * json : Leave : not present
+ * json : Last active
+ * json : Last used
+ * json : Leave Team
+ * json : Leave
  * json : Login
- * json : Logout Other Browser Sessions : not present
+ * json : Logout Other Browser Sessions
  * json : Logout
- * json : Manage Account : not present
- * json : Manage and logout your active sessions on other browsers and devices. : not present
- * json : Manage API Tokens : not present
- * json : Manage Role : not present
- * json : Manage Team : not present
+ * json : Manage Account
+ * json : Manage and logout your active sessions on other browsers and devices.
+ * json : Manage API Tokens
+ * json : Manage Role
+ * json : Manage Team
  * json : Name
- * json : Nevermind : not present
- * json : New Password : not present
+ * json : Nevermind
+ * json : New Password
  * json : Not Found
- * json : of : not present
+ * json : of
  * json : Oh no
- * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
- * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
+ * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain.
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.
  * json : Page Expired
- * json : Pagination Navigation : not present
+ * json : Pagination Navigation
  * json : Password
- * json : Permanently delete this team. : not present
- * json : Permanently delete your account. : not present
- * json : Permissions : not present
- * json : Photo : not present
+ * json : Permanently delete this team.
+ * json : Permanently delete your account.
+ * json : Permissions
+ * json : Photo
  * json : Please click the button below to verify your email address.
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
- * json : Please copy your new API token. For your security, it won't be shown again. : not present
- * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
- * json : Profile Information : not present
- * json : Profile : not present
- * json : Recovery Code : not present
+ * json : Please copy your new API token. For your security, it won't be shown again.
+ * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+ * json : Profile Information
+ * json : Profile
+ * json : Recovery Code
  * json : Regards
- * json : Regenerate Recovery Codes : not present
+ * json : Regenerate Recovery Codes
  * json : Register
  * json : Remember Me
- * json : Remember me : not present
- * json : Remove Photo : not present
- * json : Remove Team Member : not present
- * json : Remove : not present
+ * json : Remember me
+ * json : Remove Photo
+ * json : Remove Team Member
+ * json : Remove
  * json : Resend Verification Email
  * json : Reset Password Notification
  * json : Reset Password
- * json : results : not present
- * json : Role : not present
- * json : Save : not present
- * json : Saved. : not present
- * json : Select A New Photo : not present
+ * json : results
+ * json : Role
+ * json : Save
+ * json : Saved.
+ * json : Select A New Photo
  * json : Send Password Reset Link
  * json : Server Error
  * json : Service Unavailable
- * json : Show Recovery Codes : not present
- * json : Showing : not present
- * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
- * json : Switch Teams : not present
- * json : Team Details : not present
- * json : Team Members : not present
- * json : Team Name : not present
- * json : Team Owner : not present
- * json : Team Settings : not present
- * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
+ * json : Show Recovery Codes
+ * json : Showing
+ * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
+ * json : Switch Teams
+ * json : Team Details
+ * json : Team Members
+ * json : Team Name
+ * json : Team Owner
+ * json : Team Settings
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
- * json : The :attribute must be at least :length characters and contain at least one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
- * json : The :attribute must be at least :length characters. : not present
- * json : The provided password does not match your current password. : not present
- * json : The provided password was incorrect. : not present
- * json : The provided two factor authentication code was invalid. : not present
- * json : The team's name and owner information. : not present
+ * json : The :attribute must be at least :length characters and contain at least one number.
+ * json : The :attribute must be at least :length characters and contain at least one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character.
+ * json : The :attribute must be at least :length characters.
+ * json : The provided password does not match your current password.
+ * json : The provided password was incorrect.
+ * json : The provided two factor authentication code was invalid.
+ * json : The team's name and owner information.
  * json : This action is unauthorized.
- * json : This device : not present
+ * json : This device
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
  * json : This user already belongs to the team.
- * json : to : not present
+ * json : to
  * json : Toggle navigation
- * json : Token Name : not present
+ * json : Token Name
  * json : Too Many Attempts.
  * json : Too Many Requests
- * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application. : not present
- * json : Two Factor Authentication : not present
+ * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
+ * json : Two Factor Authentication
  * json : Unauthorized
- * json : Update Password : not present
- * json : Update your account's profile information and email address. : not present
+ * json : Update Password
+ * json : Update your account's profile information and email address.
  * json : Use a recovery code
  * json : Use an authentication code
  * json : Verify Email Address
  * json : Verify Your Email Address
  * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours.
- * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application. : not present
- * json : Whoops! Something went wrong. : not present
+ * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application.
+ * json : Whoops! Something went wrong.
  * json : Whoops!
  * json : You are logged in!
  * json : You are receiving this email because we received a password reset request for your account.
- * json : You have enabled two factor authentication. : not present
- * json : You have not enabled two factor authentication. : not present
- * json : You may delete any of your existing tokens if they are no longer needed. : not present
+ * json : You have enabled two factor authentication.
+ * json : You have not enabled two factor authentication.
+ * json : You may delete any of your existing tokens if they are no longer needed.
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified.
@@ -316,179 +316,179 @@ into your web browser:
 ## be
 
 <details>
-<summary>show<small> (all missing: 294, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 294, including not present: 0)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
- * json : Add a new team member to your team, allowing them to collaborate with you. : not present
- * json : Add additional security to your account using two factor authentication. : not present
- * json : Add Team Member : not present
- * json : Add : not present
- * json : Added. : not present
- * json : Administrator users can perform any action. : not present
- * json : Administrator : not present
- * json : All of the people that are part of this team. : not present
+ * json : Add a new team member to your team, allowing them to collaborate with you.
+ * json : Add additional security to your account using two factor authentication.
+ * json : Add Team Member
+ * json : Add
+ * json : Added.
+ * json : Administrator users can perform any action.
+ * json : Administrator
+ * json : All of the people that are part of this team.
  * json : All rights reserved.
  * json : Already registered?
- * json : API Token Permissions : not present
- * json : API Token : not present
- * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
- * json : API Tokens : not present
- * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
- * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
- * json : Are you sure you would like to delete this API token? : not present
- * json : Are you sure you would like to leave this team? : not present
- * json : Are you sure you would like to remove this person from the team? : not present
+ * json : API Token Permissions
+ * json : API Token
+ * json : API tokens allow third-party services to authenticate with our application on your behalf.
+ * json : API Tokens
+ * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted.
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+ * json : Are you sure you would like to delete this API token?
+ * json : Are you sure you would like to leave this team?
+ * json : Are you sure you would like to remove this person from the team?
  * json : Before proceeding, please check your email for a verification link.
- * json : Browser Sessions : not present
+ * json : Browser Sessions
  * json : click here to request another
- * json : Close : not present
- * json : Code : not present
+ * json : Close
+ * json : Code
  * json : Confirm Password
- * json : Confirm : not present
- * json : Create a new team to collaborate with others on projects. : not present
- * json : Create API Token : not present
- * json : Create New Team : not present
- * json : Create Team : not present
- * json : Create : not present
- * json : Created. : not present
- * json : Current Password : not present
+ * json : Confirm
+ * json : Create a new team to collaborate with others on projects.
+ * json : Create API Token
+ * json : Create New Team
+ * json : Create Team
+ * json : Create
+ * json : Created.
+ * json : Current Password
  * json : Dashboard
- * json : Delete Account : not present
- * json : Delete API Token : not present
- * json : Delete Team : not present
- * json : Delete : not present
- * json : Disable : not present
- * json : Done. : not present
+ * json : Delete Account
+ * json : Delete API Token
+ * json : Delete Team
+ * json : Delete
+ * json : Disable
+ * json : Done.
  * json : E-Mail Address
- * json : Editor users have the ability to read, create, and update. : not present
- * json : Editor : not present
+ * json : Editor users have the ability to read, create, and update.
+ * json : Editor
  * json : Email Password Reset Link
  * json : Email
- * json : Enable : not present
- * json : Ensure your account is using a long, random password to stay secure. : not present
- * json : For your security, please confirm your password to continue. : not present
+ * json : Enable
+ * json : Ensure your account is using a long, random password to stay secure.
+ * json : For your security, please confirm your password to continue.
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
  * json : Forgot your password?
  * json : Go Home
- * json : Go to page :page : not present
+ * json : Go to page :page
  * json : Hello!
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password.
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you did not request a password reset, no further action is required.
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser:
  * json : Invalid signature.
- * json : Last active : not present
- * json : Last used : not present
- * json : Leave Team : not present
- * json : Leave : not present
+ * json : Last active
+ * json : Last used
+ * json : Leave Team
+ * json : Leave
  * json : Login
- * json : Logout Other Browser Sessions : not present
+ * json : Logout Other Browser Sessions
  * json : Logout
- * json : Manage Account : not present
- * json : Manage and logout your active sessions on other browsers and devices. : not present
- * json : Manage API Tokens : not present
- * json : Manage Role : not present
- * json : Manage Team : not present
+ * json : Manage Account
+ * json : Manage and logout your active sessions on other browsers and devices.
+ * json : Manage API Tokens
+ * json : Manage Role
+ * json : Manage Team
  * json : Name
- * json : Nevermind : not present
- * json : New Password : not present
+ * json : Nevermind
+ * json : New Password
  * json : Not Found
- * json : of : not present
+ * json : of
  * json : Oh no
- * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
- * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
+ * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain.
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.
  * json : Page Expired
- * json : Pagination Navigation : not present
+ * json : Pagination Navigation
  * json : Password
- * json : Permanently delete this team. : not present
- * json : Permanently delete your account. : not present
- * json : Permissions : not present
- * json : Photo : not present
+ * json : Permanently delete this team.
+ * json : Permanently delete your account.
+ * json : Permissions
+ * json : Photo
  * json : Please click the button below to verify your email address.
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
- * json : Please copy your new API token. For your security, it won't be shown again. : not present
- * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
- * json : Profile Information : not present
- * json : Profile : not present
- * json : Recovery Code : not present
+ * json : Please copy your new API token. For your security, it won't be shown again.
+ * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+ * json : Profile Information
+ * json : Profile
+ * json : Recovery Code
  * json : Regards
- * json : Regenerate Recovery Codes : not present
+ * json : Regenerate Recovery Codes
  * json : Register
  * json : Remember Me
- * json : Remember me : not present
- * json : Remove Photo : not present
- * json : Remove Team Member : not present
- * json : Remove : not present
+ * json : Remember me
+ * json : Remove Photo
+ * json : Remove Team Member
+ * json : Remove
  * json : Resend Verification Email
  * json : Reset Password Notification
  * json : Reset Password
- * json : results : not present
- * json : Role : not present
- * json : Save : not present
- * json : Saved. : not present
- * json : Select A New Photo : not present
+ * json : results
+ * json : Role
+ * json : Save
+ * json : Saved.
+ * json : Select A New Photo
  * json : Send Password Reset Link
  * json : Server Error
  * json : Service Unavailable
- * json : Show Recovery Codes : not present
- * json : Showing : not present
- * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
- * json : Switch Teams : not present
- * json : Team Details : not present
- * json : Team Members : not present
- * json : Team Name : not present
- * json : Team Owner : not present
- * json : Team Settings : not present
- * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
+ * json : Show Recovery Codes
+ * json : Showing
+ * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
+ * json : Switch Teams
+ * json : Team Details
+ * json : Team Members
+ * json : Team Name
+ * json : Team Owner
+ * json : Team Settings
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
- * json : The :attribute must be at least :length characters and contain at least one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
- * json : The :attribute must be at least :length characters. : not present
- * json : The provided password does not match your current password. : not present
- * json : The provided password was incorrect. : not present
- * json : The provided two factor authentication code was invalid. : not present
- * json : The team's name and owner information. : not present
+ * json : The :attribute must be at least :length characters and contain at least one number.
+ * json : The :attribute must be at least :length characters and contain at least one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character.
+ * json : The :attribute must be at least :length characters.
+ * json : The provided password does not match your current password.
+ * json : The provided password was incorrect.
+ * json : The provided two factor authentication code was invalid.
+ * json : The team's name and owner information.
  * json : This action is unauthorized.
- * json : This device : not present
+ * json : This device
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
  * json : This user already belongs to the team.
- * json : to : not present
+ * json : to
  * json : Toggle navigation
- * json : Token Name : not present
+ * json : Token Name
  * json : Too Many Attempts.
  * json : Too Many Requests
- * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application. : not present
- * json : Two Factor Authentication : not present
+ * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
+ * json : Two Factor Authentication
  * json : Unauthorized
- * json : Update Password : not present
- * json : Update your account's profile information and email address. : not present
+ * json : Update Password
+ * json : Update your account's profile information and email address.
  * json : Use a recovery code
  * json : Use an authentication code
  * json : Verify Email Address
  * json : Verify Your Email Address
  * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours.
- * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application. : not present
- * json : Whoops! Something went wrong. : not present
+ * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application.
+ * json : Whoops! Something went wrong.
  * json : Whoops!
  * json : You are logged in!
  * json : You are receiving this email because we received a password reset request for your account.
- * json : You have enabled two factor authentication. : not present
- * json : You have not enabled two factor authentication. : not present
- * json : You may delete any of your existing tokens if they are no longer needed. : not present
+ * json : You have enabled two factor authentication.
+ * json : You have not enabled two factor authentication.
+ * json : You may delete any of your existing tokens if they are no longer needed.
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified.
@@ -620,179 +620,179 @@ into your web browser:
 ## bg
 
 <details>
-<summary>show<small> (all missing: 262, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 262, including not present: 0)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
- * json : Add a new team member to your team, allowing them to collaborate with you. : not present
- * json : Add additional security to your account using two factor authentication. : not present
- * json : Add Team Member : not present
- * json : Add : not present
- * json : Added. : not present
- * json : Administrator users can perform any action. : not present
- * json : Administrator : not present
- * json : All of the people that are part of this team. : not present
+ * json : Add a new team member to your team, allowing them to collaborate with you.
+ * json : Add additional security to your account using two factor authentication.
+ * json : Add Team Member
+ * json : Add
+ * json : Added.
+ * json : Administrator users can perform any action.
+ * json : Administrator
+ * json : All of the people that are part of this team.
  * json : All rights reserved.
  * json : Already registered?
- * json : API Token Permissions : not present
- * json : API Token : not present
- * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
- * json : API Tokens : not present
- * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
- * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
- * json : Are you sure you would like to delete this API token? : not present
- * json : Are you sure you would like to leave this team? : not present
- * json : Are you sure you would like to remove this person from the team? : not present
+ * json : API Token Permissions
+ * json : API Token
+ * json : API tokens allow third-party services to authenticate with our application on your behalf.
+ * json : API Tokens
+ * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted.
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+ * json : Are you sure you would like to delete this API token?
+ * json : Are you sure you would like to leave this team?
+ * json : Are you sure you would like to remove this person from the team?
  * json : Before proceeding, please check your email for a verification link.
- * json : Browser Sessions : not present
+ * json : Browser Sessions
  * json : click here to request another
- * json : Close : not present
- * json : Code : not present
+ * json : Close
+ * json : Code
  * json : Confirm Password
- * json : Confirm : not present
- * json : Create a new team to collaborate with others on projects. : not present
- * json : Create API Token : not present
- * json : Create New Team : not present
- * json : Create Team : not present
- * json : Create : not present
- * json : Created. : not present
- * json : Current Password : not present
+ * json : Confirm
+ * json : Create a new team to collaborate with others on projects.
+ * json : Create API Token
+ * json : Create New Team
+ * json : Create Team
+ * json : Create
+ * json : Created.
+ * json : Current Password
  * json : Dashboard
- * json : Delete Account : not present
- * json : Delete API Token : not present
- * json : Delete Team : not present
- * json : Delete : not present
- * json : Disable : not present
- * json : Done. : not present
+ * json : Delete Account
+ * json : Delete API Token
+ * json : Delete Team
+ * json : Delete
+ * json : Disable
+ * json : Done.
  * json : E-Mail Address
- * json : Editor users have the ability to read, create, and update. : not present
- * json : Editor : not present
+ * json : Editor users have the ability to read, create, and update.
+ * json : Editor
  * json : Email Password Reset Link
  * json : Email
- * json : Enable : not present
- * json : Ensure your account is using a long, random password to stay secure. : not present
- * json : For your security, please confirm your password to continue. : not present
+ * json : Enable
+ * json : Ensure your account is using a long, random password to stay secure.
+ * json : For your security, please confirm your password to continue.
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
  * json : Forgot your password?
  * json : Go Home
- * json : Go to page :page : not present
+ * json : Go to page :page
  * json : Hello!
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password.
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you did not request a password reset, no further action is required.
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser:
  * json : Invalid signature.
- * json : Last active : not present
- * json : Last used : not present
- * json : Leave Team : not present
- * json : Leave : not present
+ * json : Last active
+ * json : Last used
+ * json : Leave Team
+ * json : Leave
  * json : Login
- * json : Logout Other Browser Sessions : not present
+ * json : Logout Other Browser Sessions
  * json : Logout
- * json : Manage Account : not present
- * json : Manage and logout your active sessions on other browsers and devices. : not present
- * json : Manage API Tokens : not present
- * json : Manage Role : not present
- * json : Manage Team : not present
+ * json : Manage Account
+ * json : Manage and logout your active sessions on other browsers and devices.
+ * json : Manage API Tokens
+ * json : Manage Role
+ * json : Manage Team
  * json : Name
- * json : Nevermind : not present
- * json : New Password : not present
+ * json : Nevermind
+ * json : New Password
  * json : Not Found
- * json : of : not present
+ * json : of
  * json : Oh no
- * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
- * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
+ * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain.
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.
  * json : Page Expired
- * json : Pagination Navigation : not present
+ * json : Pagination Navigation
  * json : Password
- * json : Permanently delete this team. : not present
- * json : Permanently delete your account. : not present
- * json : Permissions : not present
- * json : Photo : not present
+ * json : Permanently delete this team.
+ * json : Permanently delete your account.
+ * json : Permissions
+ * json : Photo
  * json : Please click the button below to verify your email address.
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
- * json : Please copy your new API token. For your security, it won't be shown again. : not present
- * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
- * json : Profile Information : not present
- * json : Profile : not present
- * json : Recovery Code : not present
+ * json : Please copy your new API token. For your security, it won't be shown again.
+ * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+ * json : Profile Information
+ * json : Profile
+ * json : Recovery Code
  * json : Regards
- * json : Regenerate Recovery Codes : not present
+ * json : Regenerate Recovery Codes
  * json : Register
  * json : Remember Me
- * json : Remember me : not present
- * json : Remove Photo : not present
- * json : Remove Team Member : not present
- * json : Remove : not present
+ * json : Remember me
+ * json : Remove Photo
+ * json : Remove Team Member
+ * json : Remove
  * json : Resend Verification Email
  * json : Reset Password Notification
  * json : Reset Password
- * json : results : not present
- * json : Role : not present
- * json : Save : not present
- * json : Saved. : not present
- * json : Select A New Photo : not present
+ * json : results
+ * json : Role
+ * json : Save
+ * json : Saved.
+ * json : Select A New Photo
  * json : Send Password Reset Link
  * json : Server Error
  * json : Service Unavailable
- * json : Show Recovery Codes : not present
- * json : Showing : not present
- * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
- * json : Switch Teams : not present
- * json : Team Details : not present
- * json : Team Members : not present
- * json : Team Name : not present
- * json : Team Owner : not present
- * json : Team Settings : not present
- * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
+ * json : Show Recovery Codes
+ * json : Showing
+ * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
+ * json : Switch Teams
+ * json : Team Details
+ * json : Team Members
+ * json : Team Name
+ * json : Team Owner
+ * json : Team Settings
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
- * json : The :attribute must be at least :length characters and contain at least one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
- * json : The :attribute must be at least :length characters. : not present
- * json : The provided password does not match your current password. : not present
- * json : The provided password was incorrect. : not present
- * json : The provided two factor authentication code was invalid. : not present
- * json : The team's name and owner information. : not present
+ * json : The :attribute must be at least :length characters and contain at least one number.
+ * json : The :attribute must be at least :length characters and contain at least one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character.
+ * json : The :attribute must be at least :length characters.
+ * json : The provided password does not match your current password.
+ * json : The provided password was incorrect.
+ * json : The provided two factor authentication code was invalid.
+ * json : The team's name and owner information.
  * json : This action is unauthorized.
- * json : This device : not present
+ * json : This device
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
  * json : This user already belongs to the team.
- * json : to : not present
+ * json : to
  * json : Toggle navigation
- * json : Token Name : not present
+ * json : Token Name
  * json : Too Many Attempts.
  * json : Too Many Requests
- * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application. : not present
- * json : Two Factor Authentication : not present
+ * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
+ * json : Two Factor Authentication
  * json : Unauthorized
- * json : Update Password : not present
- * json : Update your account's profile information and email address. : not present
+ * json : Update Password
+ * json : Update your account's profile information and email address.
  * json : Use a recovery code
  * json : Use an authentication code
  * json : Verify Email Address
  * json : Verify Your Email Address
  * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours.
- * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application. : not present
- * json : Whoops! Something went wrong. : not present
+ * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application.
+ * json : Whoops! Something went wrong.
  * json : Whoops!
  * json : You are logged in!
  * json : You are receiving this email because we received a password reset request for your account.
- * json : You have enabled two factor authentication. : not present
- * json : You have not enabled two factor authentication. : not present
- * json : You may delete any of your existing tokens if they are no longer needed. : not present
+ * json : You have enabled two factor authentication.
+ * json : You have not enabled two factor authentication.
+ * json : You may delete any of your existing tokens if they are no longer needed.
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified.
@@ -892,179 +892,179 @@ into your web browser:
 ## bn
 
 <details>
-<summary>show<small> (all missing: 284, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 284, including not present: 0)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
- * json : Add a new team member to your team, allowing them to collaborate with you. : not present
- * json : Add additional security to your account using two factor authentication. : not present
- * json : Add Team Member : not present
- * json : Add : not present
- * json : Added. : not present
- * json : Administrator users can perform any action. : not present
- * json : Administrator : not present
- * json : All of the people that are part of this team. : not present
+ * json : Add a new team member to your team, allowing them to collaborate with you.
+ * json : Add additional security to your account using two factor authentication.
+ * json : Add Team Member
+ * json : Add
+ * json : Added.
+ * json : Administrator users can perform any action.
+ * json : Administrator
+ * json : All of the people that are part of this team.
  * json : All rights reserved.
  * json : Already registered?
- * json : API Token Permissions : not present
- * json : API Token : not present
- * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
- * json : API Tokens : not present
- * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
- * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
- * json : Are you sure you would like to delete this API token? : not present
- * json : Are you sure you would like to leave this team? : not present
- * json : Are you sure you would like to remove this person from the team? : not present
+ * json : API Token Permissions
+ * json : API Token
+ * json : API tokens allow third-party services to authenticate with our application on your behalf.
+ * json : API Tokens
+ * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted.
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+ * json : Are you sure you would like to delete this API token?
+ * json : Are you sure you would like to leave this team?
+ * json : Are you sure you would like to remove this person from the team?
  * json : Before proceeding, please check your email for a verification link.
- * json : Browser Sessions : not present
+ * json : Browser Sessions
  * json : click here to request another
- * json : Close : not present
- * json : Code : not present
+ * json : Close
+ * json : Code
  * json : Confirm Password
- * json : Confirm : not present
- * json : Create a new team to collaborate with others on projects. : not present
- * json : Create API Token : not present
- * json : Create New Team : not present
- * json : Create Team : not present
- * json : Create : not present
- * json : Created. : not present
- * json : Current Password : not present
+ * json : Confirm
+ * json : Create a new team to collaborate with others on projects.
+ * json : Create API Token
+ * json : Create New Team
+ * json : Create Team
+ * json : Create
+ * json : Created.
+ * json : Current Password
  * json : Dashboard
- * json : Delete Account : not present
- * json : Delete API Token : not present
- * json : Delete Team : not present
- * json : Delete : not present
- * json : Disable : not present
- * json : Done. : not present
+ * json : Delete Account
+ * json : Delete API Token
+ * json : Delete Team
+ * json : Delete
+ * json : Disable
+ * json : Done.
  * json : E-Mail Address
- * json : Editor users have the ability to read, create, and update. : not present
- * json : Editor : not present
+ * json : Editor users have the ability to read, create, and update.
+ * json : Editor
  * json : Email Password Reset Link
  * json : Email
- * json : Enable : not present
- * json : Ensure your account is using a long, random password to stay secure. : not present
- * json : For your security, please confirm your password to continue. : not present
+ * json : Enable
+ * json : Ensure your account is using a long, random password to stay secure.
+ * json : For your security, please confirm your password to continue.
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
  * json : Forgot your password?
  * json : Go Home
- * json : Go to page :page : not present
+ * json : Go to page :page
  * json : Hello!
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password.
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you did not request a password reset, no further action is required.
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser:
  * json : Invalid signature.
- * json : Last active : not present
- * json : Last used : not present
- * json : Leave Team : not present
- * json : Leave : not present
+ * json : Last active
+ * json : Last used
+ * json : Leave Team
+ * json : Leave
  * json : Login
- * json : Logout Other Browser Sessions : not present
+ * json : Logout Other Browser Sessions
  * json : Logout
- * json : Manage Account : not present
- * json : Manage and logout your active sessions on other browsers and devices. : not present
- * json : Manage API Tokens : not present
- * json : Manage Role : not present
- * json : Manage Team : not present
+ * json : Manage Account
+ * json : Manage and logout your active sessions on other browsers and devices.
+ * json : Manage API Tokens
+ * json : Manage Role
+ * json : Manage Team
  * json : Name
- * json : Nevermind : not present
- * json : New Password : not present
+ * json : Nevermind
+ * json : New Password
  * json : Not Found
- * json : of : not present
+ * json : of
  * json : Oh no
- * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
- * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
+ * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain.
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.
  * json : Page Expired
- * json : Pagination Navigation : not present
+ * json : Pagination Navigation
  * json : Password
- * json : Permanently delete this team. : not present
- * json : Permanently delete your account. : not present
- * json : Permissions : not present
- * json : Photo : not present
+ * json : Permanently delete this team.
+ * json : Permanently delete your account.
+ * json : Permissions
+ * json : Photo
  * json : Please click the button below to verify your email address.
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
- * json : Please copy your new API token. For your security, it won't be shown again. : not present
- * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
- * json : Profile Information : not present
- * json : Profile : not present
- * json : Recovery Code : not present
+ * json : Please copy your new API token. For your security, it won't be shown again.
+ * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+ * json : Profile Information
+ * json : Profile
+ * json : Recovery Code
  * json : Regards
- * json : Regenerate Recovery Codes : not present
+ * json : Regenerate Recovery Codes
  * json : Register
  * json : Remember Me
- * json : Remember me : not present
- * json : Remove Photo : not present
- * json : Remove Team Member : not present
- * json : Remove : not present
+ * json : Remember me
+ * json : Remove Photo
+ * json : Remove Team Member
+ * json : Remove
  * json : Resend Verification Email
  * json : Reset Password Notification
  * json : Reset Password
- * json : results : not present
- * json : Role : not present
- * json : Save : not present
- * json : Saved. : not present
- * json : Select A New Photo : not present
+ * json : results
+ * json : Role
+ * json : Save
+ * json : Saved.
+ * json : Select A New Photo
  * json : Send Password Reset Link
  * json : Server Error
  * json : Service Unavailable
- * json : Show Recovery Codes : not present
- * json : Showing : not present
- * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
- * json : Switch Teams : not present
- * json : Team Details : not present
- * json : Team Members : not present
- * json : Team Name : not present
- * json : Team Owner : not present
- * json : Team Settings : not present
- * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
+ * json : Show Recovery Codes
+ * json : Showing
+ * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
+ * json : Switch Teams
+ * json : Team Details
+ * json : Team Members
+ * json : Team Name
+ * json : Team Owner
+ * json : Team Settings
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
- * json : The :attribute must be at least :length characters and contain at least one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
- * json : The :attribute must be at least :length characters. : not present
- * json : The provided password does not match your current password. : not present
- * json : The provided password was incorrect. : not present
- * json : The provided two factor authentication code was invalid. : not present
- * json : The team's name and owner information. : not present
+ * json : The :attribute must be at least :length characters and contain at least one number.
+ * json : The :attribute must be at least :length characters and contain at least one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character.
+ * json : The :attribute must be at least :length characters.
+ * json : The provided password does not match your current password.
+ * json : The provided password was incorrect.
+ * json : The provided two factor authentication code was invalid.
+ * json : The team's name and owner information.
  * json : This action is unauthorized.
- * json : This device : not present
+ * json : This device
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
  * json : This user already belongs to the team.
- * json : to : not present
+ * json : to
  * json : Toggle navigation
- * json : Token Name : not present
+ * json : Token Name
  * json : Too Many Attempts.
  * json : Too Many Requests
- * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application. : not present
- * json : Two Factor Authentication : not present
+ * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
+ * json : Two Factor Authentication
  * json : Unauthorized
- * json : Update Password : not present
- * json : Update your account's profile information and email address. : not present
+ * json : Update Password
+ * json : Update your account's profile information and email address.
  * json : Use a recovery code
  * json : Use an authentication code
  * json : Verify Email Address
  * json : Verify Your Email Address
  * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours.
- * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application. : not present
- * json : Whoops! Something went wrong. : not present
+ * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application.
+ * json : Whoops! Something went wrong.
  * json : Whoops!
  * json : You are logged in!
  * json : You are receiving this email because we received a password reset request for your account.
- * json : You have enabled two factor authentication. : not present
- * json : You have not enabled two factor authentication. : not present
- * json : You may delete any of your existing tokens if they are no longer needed. : not present
+ * json : You have enabled two factor authentication.
+ * json : You have not enabled two factor authentication.
+ * json : You may delete any of your existing tokens if they are no longer needed.
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified.
@@ -1186,179 +1186,179 @@ into your web browser:
 ## bs
 
 <details>
-<summary>show<small> (all missing: 298, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 298, including not present: 0)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
- * json : Add a new team member to your team, allowing them to collaborate with you. : not present
- * json : Add additional security to your account using two factor authentication. : not present
- * json : Add Team Member : not present
- * json : Add : not present
- * json : Added. : not present
- * json : Administrator users can perform any action. : not present
- * json : Administrator : not present
- * json : All of the people that are part of this team. : not present
+ * json : Add a new team member to your team, allowing them to collaborate with you.
+ * json : Add additional security to your account using two factor authentication.
+ * json : Add Team Member
+ * json : Add
+ * json : Added.
+ * json : Administrator users can perform any action.
+ * json : Administrator
+ * json : All of the people that are part of this team.
  * json : All rights reserved.
  * json : Already registered?
- * json : API Token Permissions : not present
- * json : API Token : not present
- * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
- * json : API Tokens : not present
- * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
- * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
- * json : Are you sure you would like to delete this API token? : not present
- * json : Are you sure you would like to leave this team? : not present
- * json : Are you sure you would like to remove this person from the team? : not present
+ * json : API Token Permissions
+ * json : API Token
+ * json : API tokens allow third-party services to authenticate with our application on your behalf.
+ * json : API Tokens
+ * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted.
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+ * json : Are you sure you would like to delete this API token?
+ * json : Are you sure you would like to leave this team?
+ * json : Are you sure you would like to remove this person from the team?
  * json : Before proceeding, please check your email for a verification link.
- * json : Browser Sessions : not present
+ * json : Browser Sessions
  * json : click here to request another
- * json : Close : not present
- * json : Code : not present
+ * json : Close
+ * json : Code
  * json : Confirm Password
- * json : Confirm : not present
- * json : Create a new team to collaborate with others on projects. : not present
- * json : Create API Token : not present
- * json : Create New Team : not present
- * json : Create Team : not present
- * json : Create : not present
- * json : Created. : not present
- * json : Current Password : not present
+ * json : Confirm
+ * json : Create a new team to collaborate with others on projects.
+ * json : Create API Token
+ * json : Create New Team
+ * json : Create Team
+ * json : Create
+ * json : Created.
+ * json : Current Password
  * json : Dashboard
- * json : Delete Account : not present
- * json : Delete API Token : not present
- * json : Delete Team : not present
- * json : Delete : not present
- * json : Disable : not present
- * json : Done. : not present
+ * json : Delete Account
+ * json : Delete API Token
+ * json : Delete Team
+ * json : Delete
+ * json : Disable
+ * json : Done.
  * json : E-Mail Address
- * json : Editor users have the ability to read, create, and update. : not present
- * json : Editor : not present
+ * json : Editor users have the ability to read, create, and update.
+ * json : Editor
  * json : Email Password Reset Link
  * json : Email
- * json : Enable : not present
- * json : Ensure your account is using a long, random password to stay secure. : not present
- * json : For your security, please confirm your password to continue. : not present
+ * json : Enable
+ * json : Ensure your account is using a long, random password to stay secure.
+ * json : For your security, please confirm your password to continue.
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
  * json : Forgot your password?
  * json : Go Home
- * json : Go to page :page : not present
+ * json : Go to page :page
  * json : Hello!
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password.
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you did not request a password reset, no further action is required.
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser:
  * json : Invalid signature.
- * json : Last active : not present
- * json : Last used : not present
- * json : Leave Team : not present
- * json : Leave : not present
+ * json : Last active
+ * json : Last used
+ * json : Leave Team
+ * json : Leave
  * json : Login
- * json : Logout Other Browser Sessions : not present
+ * json : Logout Other Browser Sessions
  * json : Logout
- * json : Manage Account : not present
- * json : Manage and logout your active sessions on other browsers and devices. : not present
- * json : Manage API Tokens : not present
- * json : Manage Role : not present
- * json : Manage Team : not present
+ * json : Manage Account
+ * json : Manage and logout your active sessions on other browsers and devices.
+ * json : Manage API Tokens
+ * json : Manage Role
+ * json : Manage Team
  * json : Name
- * json : Nevermind : not present
- * json : New Password : not present
+ * json : Nevermind
+ * json : New Password
  * json : Not Found
- * json : of : not present
+ * json : of
  * json : Oh no
- * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
- * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
+ * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain.
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.
  * json : Page Expired
- * json : Pagination Navigation : not present
+ * json : Pagination Navigation
  * json : Password
- * json : Permanently delete this team. : not present
- * json : Permanently delete your account. : not present
- * json : Permissions : not present
- * json : Photo : not present
+ * json : Permanently delete this team.
+ * json : Permanently delete your account.
+ * json : Permissions
+ * json : Photo
  * json : Please click the button below to verify your email address.
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
- * json : Please copy your new API token. For your security, it won't be shown again. : not present
- * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
- * json : Profile Information : not present
- * json : Profile : not present
- * json : Recovery Code : not present
+ * json : Please copy your new API token. For your security, it won't be shown again.
+ * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+ * json : Profile Information
+ * json : Profile
+ * json : Recovery Code
  * json : Regards
- * json : Regenerate Recovery Codes : not present
+ * json : Regenerate Recovery Codes
  * json : Register
  * json : Remember Me
- * json : Remember me : not present
- * json : Remove Photo : not present
- * json : Remove Team Member : not present
- * json : Remove : not present
+ * json : Remember me
+ * json : Remove Photo
+ * json : Remove Team Member
+ * json : Remove
  * json : Resend Verification Email
  * json : Reset Password Notification
  * json : Reset Password
- * json : results : not present
- * json : Role : not present
- * json : Save : not present
- * json : Saved. : not present
- * json : Select A New Photo : not present
+ * json : results
+ * json : Role
+ * json : Save
+ * json : Saved.
+ * json : Select A New Photo
  * json : Send Password Reset Link
  * json : Server Error
  * json : Service Unavailable
- * json : Show Recovery Codes : not present
- * json : Showing : not present
- * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
- * json : Switch Teams : not present
- * json : Team Details : not present
- * json : Team Members : not present
- * json : Team Name : not present
- * json : Team Owner : not present
- * json : Team Settings : not present
- * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
+ * json : Show Recovery Codes
+ * json : Showing
+ * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
+ * json : Switch Teams
+ * json : Team Details
+ * json : Team Members
+ * json : Team Name
+ * json : Team Owner
+ * json : Team Settings
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
- * json : The :attribute must be at least :length characters and contain at least one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
- * json : The :attribute must be at least :length characters. : not present
- * json : The provided password does not match your current password. : not present
- * json : The provided password was incorrect. : not present
- * json : The provided two factor authentication code was invalid. : not present
- * json : The team's name and owner information. : not present
+ * json : The :attribute must be at least :length characters and contain at least one number.
+ * json : The :attribute must be at least :length characters and contain at least one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character.
+ * json : The :attribute must be at least :length characters.
+ * json : The provided password does not match your current password.
+ * json : The provided password was incorrect.
+ * json : The provided two factor authentication code was invalid.
+ * json : The team's name and owner information.
  * json : This action is unauthorized.
- * json : This device : not present
+ * json : This device
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
  * json : This user already belongs to the team.
- * json : to : not present
+ * json : to
  * json : Toggle navigation
- * json : Token Name : not present
+ * json : Token Name
  * json : Too Many Attempts.
  * json : Too Many Requests
- * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application. : not present
- * json : Two Factor Authentication : not present
+ * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
+ * json : Two Factor Authentication
  * json : Unauthorized
- * json : Update Password : not present
- * json : Update your account's profile information and email address. : not present
+ * json : Update Password
+ * json : Update your account's profile information and email address.
  * json : Use a recovery code
  * json : Use an authentication code
  * json : Verify Email Address
  * json : Verify Your Email Address
  * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours.
- * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application. : not present
- * json : Whoops! Something went wrong. : not present
+ * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application.
+ * json : Whoops! Something went wrong.
  * json : Whoops!
  * json : You are logged in!
  * json : You are receiving this email because we received a password reset request for your account.
- * json : You have enabled two factor authentication. : not present
- * json : You have not enabled two factor authentication. : not present
- * json : You may delete any of your existing tokens if they are no longer needed. : not present
+ * json : You have enabled two factor authentication.
+ * json : You have not enabled two factor authentication.
+ * json : You may delete any of your existing tokens if they are no longer needed.
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified.
@@ -1494,135 +1494,135 @@ into your web browser:
 ## ca
 
 <details>
-<summary>show<small> (all missing: 218, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 218, including not present: 0)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
- * json : Add a new team member to your team, allowing them to collaborate with you. : not present
- * json : Add additional security to your account using two factor authentication. : not present
- * json : Add Team Member : not present
- * json : Add : not present
- * json : Added. : not present
- * json : Administrator users can perform any action. : not present
- * json : Administrator : not present
- * json : All of the people that are part of this team. : not present
+ * json : Add a new team member to your team, allowing them to collaborate with you.
+ * json : Add additional security to your account using two factor authentication.
+ * json : Add Team Member
+ * json : Add
+ * json : Added.
+ * json : Administrator users can perform any action.
+ * json : Administrator
+ * json : All of the people that are part of this team.
  * json : Already registered?
- * json : API Token Permissions : not present
- * json : API Token : not present
- * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
- * json : API Tokens : not present
- * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
- * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
- * json : Are you sure you would like to delete this API token? : not present
- * json : Are you sure you would like to leave this team? : not present
- * json : Are you sure you would like to remove this person from the team? : not present
- * json : Browser Sessions : not present
- * json : Close : not present
- * json : Code : not present
- * json : Confirm : not present
- * json : Create a new team to collaborate with others on projects. : not present
- * json : Create API Token : not present
- * json : Create New Team : not present
- * json : Create Team : not present
- * json : Create : not present
- * json : Created. : not present
- * json : Current Password : not present
+ * json : API Token Permissions
+ * json : API Token
+ * json : API tokens allow third-party services to authenticate with our application on your behalf.
+ * json : API Tokens
+ * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted.
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+ * json : Are you sure you would like to delete this API token?
+ * json : Are you sure you would like to leave this team?
+ * json : Are you sure you would like to remove this person from the team?
+ * json : Browser Sessions
+ * json : Close
+ * json : Code
+ * json : Confirm
+ * json : Create a new team to collaborate with others on projects.
+ * json : Create API Token
+ * json : Create New Team
+ * json : Create Team
+ * json : Create
+ * json : Created.
+ * json : Current Password
  * json : Dashboard
- * json : Delete Account : not present
- * json : Delete API Token : not present
- * json : Delete Team : not present
- * json : Delete : not present
- * json : Disable : not present
- * json : Done. : not present
- * json : Editor users have the ability to read, create, and update. : not present
- * json : Editor : not present
+ * json : Delete Account
+ * json : Delete API Token
+ * json : Delete Team
+ * json : Delete
+ * json : Disable
+ * json : Done.
+ * json : Editor users have the ability to read, create, and update.
+ * json : Editor
  * json : Email Password Reset Link
  * json : Email
- * json : Enable : not present
- * json : Ensure your account is using a long, random password to stay secure. : not present
- * json : For your security, please confirm your password to continue. : not present
+ * json : Enable
+ * json : Ensure your account is using a long, random password to stay secure.
+ * json : For your security, please confirm your password to continue.
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
- * json : Go to page :page : not present
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
- * json : Last active : not present
- * json : Last used : not present
- * json : Leave Team : not present
- * json : Leave : not present
- * json : Logout Other Browser Sessions : not present
- * json : Manage Account : not present
- * json : Manage and logout your active sessions on other browsers and devices. : not present
- * json : Manage API Tokens : not present
- * json : Manage Role : not present
- * json : Manage Team : not present
- * json : Nevermind : not present
- * json : New Password : not present
- * json : of : not present
- * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
- * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
- * json : Pagination Navigation : not present
- * json : Permanently delete this team. : not present
- * json : Permanently delete your account. : not present
- * json : Permissions : not present
- * json : Photo : not present
+ * json : Go to page :page
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password.
+ * json : Last active
+ * json : Last used
+ * json : Leave Team
+ * json : Leave
+ * json : Logout Other Browser Sessions
+ * json : Manage Account
+ * json : Manage and logout your active sessions on other browsers and devices.
+ * json : Manage API Tokens
+ * json : Manage Role
+ * json : Manage Team
+ * json : Nevermind
+ * json : New Password
+ * json : of
+ * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain.
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.
+ * json : Pagination Navigation
+ * json : Permanently delete this team.
+ * json : Permanently delete your account.
+ * json : Permissions
+ * json : Photo
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
- * json : Please copy your new API token. For your security, it won't be shown again. : not present
- * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
- * json : Profile Information : not present
- * json : Profile : not present
- * json : Recovery Code : not present
- * json : Regenerate Recovery Codes : not present
- * json : Remember me : not present
- * json : Remove Photo : not present
- * json : Remove Team Member : not present
- * json : Remove : not present
+ * json : Please copy your new API token. For your security, it won't be shown again.
+ * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+ * json : Profile Information
+ * json : Profile
+ * json : Recovery Code
+ * json : Regenerate Recovery Codes
+ * json : Remember me
+ * json : Remove Photo
+ * json : Remove Team Member
+ * json : Remove
  * json : Resend Verification Email
- * json : results : not present
- * json : Role : not present
- * json : Save : not present
- * json : Saved. : not present
- * json : Select A New Photo : not present
- * json : Show Recovery Codes : not present
- * json : Showing : not present
- * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
- * json : Switch Teams : not present
- * json : Team Details : not present
- * json : Team Members : not present
- * json : Team Name : not present
- * json : Team Owner : not present
- * json : Team Settings : not present
- * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
+ * json : results
+ * json : Role
+ * json : Save
+ * json : Saved.
+ * json : Select A New Photo
+ * json : Show Recovery Codes
+ * json : Showing
+ * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
+ * json : Switch Teams
+ * json : Team Details
+ * json : Team Members
+ * json : Team Name
+ * json : Team Owner
+ * json : Team Settings
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
- * json : The :attribute must be at least :length characters and contain at least one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
- * json : The :attribute must be at least :length characters. : not present
- * json : The provided password does not match your current password. : not present
- * json : The provided password was incorrect. : not present
- * json : The provided two factor authentication code was invalid. : not present
- * json : The team's name and owner information. : not present
- * json : This device : not present
+ * json : The :attribute must be at least :length characters and contain at least one number.
+ * json : The :attribute must be at least :length characters and contain at least one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character.
+ * json : The :attribute must be at least :length characters.
+ * json : The provided password does not match your current password.
+ * json : The provided password was incorrect.
+ * json : The provided two factor authentication code was invalid.
+ * json : The team's name and owner information.
+ * json : This device
  * json : This password does not match our records.
  * json : This user already belongs to the team.
- * json : to : not present
- * json : Token Name : not present
- * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application. : not present
- * json : Two Factor Authentication : not present
- * json : Update Password : not present
- * json : Update your account's profile information and email address. : not present
+ * json : to
+ * json : Token Name
+ * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
+ * json : Two Factor Authentication
+ * json : Update Password
+ * json : Update your account's profile information and email address.
  * json : Use a recovery code
  * json : Use an authentication code
  * json : We were unable to find a registered user with this email address.
- * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application. : not present
- * json : Whoops! Something went wrong. : not present
+ * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application.
+ * json : Whoops! Something went wrong.
  * json : You are logged in!
- * json : You have enabled two factor authentication. : not present
- * json : You have not enabled two factor authentication. : not present
- * json : You may delete any of your existing tokens if they are no longer needed. : not present
+ * json : You have enabled two factor authentication.
+ * json : You have not enabled two factor authentication.
+ * json : You may delete any of your existing tokens if they are no longer needed.
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * validation : ends_with
@@ -1721,137 +1721,137 @@ into your web browser:
 ## cs
 
 <details>
-<summary>show<small> (all missing: 220, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 220, including not present: 0)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
- * json : Add a new team member to your team, allowing them to collaborate with you. : not present
- * json : Add additional security to your account using two factor authentication. : not present
- * json : Add Team Member : not present
- * json : Add : not present
- * json : Added. : not present
- * json : Administrator users can perform any action. : not present
- * json : Administrator : not present
- * json : All of the people that are part of this team. : not present
+ * json : Add a new team member to your team, allowing them to collaborate with you.
+ * json : Add additional security to your account using two factor authentication.
+ * json : Add Team Member
+ * json : Add
+ * json : Added.
+ * json : Administrator users can perform any action.
+ * json : Administrator
+ * json : All of the people that are part of this team.
  * json : Already registered?
- * json : API Token Permissions : not present
- * json : API Token : not present
- * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
- * json : API Tokens : not present
- * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
- * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
- * json : Are you sure you would like to delete this API token? : not present
- * json : Are you sure you would like to leave this team? : not present
- * json : Are you sure you would like to remove this person from the team? : not present
- * json : Browser Sessions : not present
- * json : Close : not present
- * json : Code : not present
- * json : Confirm : not present
- * json : Create a new team to collaborate with others on projects. : not present
- * json : Create API Token : not present
- * json : Create New Team : not present
- * json : Create Team : not present
- * json : Create : not present
- * json : Created. : not present
- * json : Current Password : not present
+ * json : API Token Permissions
+ * json : API Token
+ * json : API tokens allow third-party services to authenticate with our application on your behalf.
+ * json : API Tokens
+ * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted.
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+ * json : Are you sure you would like to delete this API token?
+ * json : Are you sure you would like to leave this team?
+ * json : Are you sure you would like to remove this person from the team?
+ * json : Browser Sessions
+ * json : Close
+ * json : Code
+ * json : Confirm
+ * json : Create a new team to collaborate with others on projects.
+ * json : Create API Token
+ * json : Create New Team
+ * json : Create Team
+ * json : Create
+ * json : Created.
+ * json : Current Password
  * json : Dashboard
- * json : Delete Account : not present
- * json : Delete API Token : not present
- * json : Delete Team : not present
- * json : Delete : not present
- * json : Disable : not present
- * json : Done. : not present
- * json : Editor users have the ability to read, create, and update. : not present
- * json : Editor : not present
+ * json : Delete Account
+ * json : Delete API Token
+ * json : Delete Team
+ * json : Delete
+ * json : Disable
+ * json : Done.
+ * json : Editor users have the ability to read, create, and update.
+ * json : Editor
  * json : Email Password Reset Link
  * json : Email
- * json : Enable : not present
- * json : Ensure your account is using a long, random password to stay secure. : not present
- * json : For your security, please confirm your password to continue. : not present
+ * json : Enable
+ * json : Ensure your account is using a long, random password to stay secure.
+ * json : For your security, please confirm your password to continue.
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
- * json : Go to page :page : not present
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
- * json : Last active : not present
- * json : Last used : not present
- * json : Leave Team : not present
- * json : Leave : not present
- * json : Logout Other Browser Sessions : not present
- * json : Manage Account : not present
- * json : Manage and logout your active sessions on other browsers and devices. : not present
- * json : Manage API Tokens : not present
- * json : Manage Role : not present
- * json : Manage Team : not present
- * json : Nevermind : not present
- * json : New Password : not present
- * json : of : not present
- * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
- * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
- * json : Pagination Navigation : not present
- * json : Permanently delete this team. : not present
- * json : Permanently delete your account. : not present
- * json : Permissions : not present
- * json : Photo : not present
+ * json : Go to page :page
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password.
+ * json : Last active
+ * json : Last used
+ * json : Leave Team
+ * json : Leave
+ * json : Logout Other Browser Sessions
+ * json : Manage Account
+ * json : Manage and logout your active sessions on other browsers and devices.
+ * json : Manage API Tokens
+ * json : Manage Role
+ * json : Manage Team
+ * json : Nevermind
+ * json : New Password
+ * json : of
+ * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain.
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.
+ * json : Pagination Navigation
+ * json : Permanently delete this team.
+ * json : Permanently delete your account.
+ * json : Permissions
+ * json : Photo
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
- * json : Please copy your new API token. For your security, it won't be shown again. : not present
- * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
- * json : Profile Information : not present
- * json : Profile : not present
- * json : Recovery Code : not present
- * json : Regenerate Recovery Codes : not present
- * json : Remember me : not present
- * json : Remove Photo : not present
- * json : Remove Team Member : not present
- * json : Remove : not present
+ * json : Please copy your new API token. For your security, it won't be shown again.
+ * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+ * json : Profile Information
+ * json : Profile
+ * json : Recovery Code
+ * json : Regenerate Recovery Codes
+ * json : Remember me
+ * json : Remove Photo
+ * json : Remove Team Member
+ * json : Remove
  * json : Resend Verification Email
- * json : results : not present
- * json : Role : not present
- * json : Save : not present
- * json : Saved. : not present
- * json : Select A New Photo : not present
- * json : Show Recovery Codes : not present
- * json : Showing : not present
- * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
- * json : Switch Teams : not present
- * json : Team Details : not present
- * json : Team Members : not present
- * json : Team Name : not present
- * json : Team Owner : not present
- * json : Team Settings : not present
- * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
+ * json : results
+ * json : Role
+ * json : Save
+ * json : Saved.
+ * json : Select A New Photo
+ * json : Show Recovery Codes
+ * json : Showing
+ * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
+ * json : Switch Teams
+ * json : Team Details
+ * json : Team Members
+ * json : Team Name
+ * json : Team Owner
+ * json : Team Settings
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
- * json : The :attribute must be at least :length characters and contain at least one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
- * json : The :attribute must be at least :length characters. : not present
- * json : The provided password does not match your current password. : not present
- * json : The provided password was incorrect. : not present
- * json : The provided two factor authentication code was invalid. : not present
- * json : The team's name and owner information. : not present
- * json : This device : not present
+ * json : The :attribute must be at least :length characters and contain at least one number.
+ * json : The :attribute must be at least :length characters and contain at least one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character.
+ * json : The :attribute must be at least :length characters.
+ * json : The provided password does not match your current password.
+ * json : The provided password was incorrect.
+ * json : The provided two factor authentication code was invalid.
+ * json : The team's name and owner information.
+ * json : This device
  * json : This password does not match our records.
  * json : This user already belongs to the team.
- * json : to : not present
- * json : Token Name : not present
- * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application. : not present
- * json : Two Factor Authentication : not present
- * json : Update Password : not present
- * json : Update your account's profile information and email address. : not present
+ * json : to
+ * json : Token Name
+ * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
+ * json : Two Factor Authentication
+ * json : Update Password
+ * json : Update your account's profile information and email address.
  * json : Use a recovery code
  * json : Use an authentication code
  * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours.
- * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application. : not present
- * json : Whoops! Something went wrong. : not present
+ * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application.
+ * json : Whoops! Something went wrong.
  * json : You are logged in!
- * json : You have enabled two factor authentication. : not present
- * json : You have not enabled two factor authentication. : not present
- * json : You may delete any of your existing tokens if they are no longer needed. : not present
+ * json : You have enabled two factor authentication.
+ * json : You have not enabled two factor authentication.
+ * json : You may delete any of your existing tokens if they are no longer needed.
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * validation : password
@@ -1950,179 +1950,179 @@ into your web browser:
 ## cy
 
 <details>
-<summary>show<small> (all missing: 299, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 299, including not present: 0)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
- * json : Add a new team member to your team, allowing them to collaborate with you. : not present
- * json : Add additional security to your account using two factor authentication. : not present
- * json : Add Team Member : not present
- * json : Add : not present
- * json : Added. : not present
- * json : Administrator users can perform any action. : not present
- * json : Administrator : not present
- * json : All of the people that are part of this team. : not present
+ * json : Add a new team member to your team, allowing them to collaborate with you.
+ * json : Add additional security to your account using two factor authentication.
+ * json : Add Team Member
+ * json : Add
+ * json : Added.
+ * json : Administrator users can perform any action.
+ * json : Administrator
+ * json : All of the people that are part of this team.
  * json : All rights reserved.
  * json : Already registered?
- * json : API Token Permissions : not present
- * json : API Token : not present
- * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
- * json : API Tokens : not present
- * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
- * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
- * json : Are you sure you would like to delete this API token? : not present
- * json : Are you sure you would like to leave this team? : not present
- * json : Are you sure you would like to remove this person from the team? : not present
+ * json : API Token Permissions
+ * json : API Token
+ * json : API tokens allow third-party services to authenticate with our application on your behalf.
+ * json : API Tokens
+ * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted.
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+ * json : Are you sure you would like to delete this API token?
+ * json : Are you sure you would like to leave this team?
+ * json : Are you sure you would like to remove this person from the team?
  * json : Before proceeding, please check your email for a verification link.
- * json : Browser Sessions : not present
+ * json : Browser Sessions
  * json : click here to request another
- * json : Close : not present
- * json : Code : not present
+ * json : Close
+ * json : Code
  * json : Confirm Password
- * json : Confirm : not present
- * json : Create a new team to collaborate with others on projects. : not present
- * json : Create API Token : not present
- * json : Create New Team : not present
- * json : Create Team : not present
- * json : Create : not present
- * json : Created. : not present
- * json : Current Password : not present
+ * json : Confirm
+ * json : Create a new team to collaborate with others on projects.
+ * json : Create API Token
+ * json : Create New Team
+ * json : Create Team
+ * json : Create
+ * json : Created.
+ * json : Current Password
  * json : Dashboard
- * json : Delete Account : not present
- * json : Delete API Token : not present
- * json : Delete Team : not present
- * json : Delete : not present
- * json : Disable : not present
- * json : Done. : not present
+ * json : Delete Account
+ * json : Delete API Token
+ * json : Delete Team
+ * json : Delete
+ * json : Disable
+ * json : Done.
  * json : E-Mail Address
- * json : Editor users have the ability to read, create, and update. : not present
- * json : Editor : not present
+ * json : Editor users have the ability to read, create, and update.
+ * json : Editor
  * json : Email Password Reset Link
  * json : Email
- * json : Enable : not present
- * json : Ensure your account is using a long, random password to stay secure. : not present
- * json : For your security, please confirm your password to continue. : not present
+ * json : Enable
+ * json : Ensure your account is using a long, random password to stay secure.
+ * json : For your security, please confirm your password to continue.
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
  * json : Forgot your password?
  * json : Go Home
- * json : Go to page :page : not present
+ * json : Go to page :page
  * json : Hello!
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password.
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you did not request a password reset, no further action is required.
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser:
  * json : Invalid signature.
- * json : Last active : not present
- * json : Last used : not present
- * json : Leave Team : not present
- * json : Leave : not present
+ * json : Last active
+ * json : Last used
+ * json : Leave Team
+ * json : Leave
  * json : Login
- * json : Logout Other Browser Sessions : not present
+ * json : Logout Other Browser Sessions
  * json : Logout
- * json : Manage Account : not present
- * json : Manage and logout your active sessions on other browsers and devices. : not present
- * json : Manage API Tokens : not present
- * json : Manage Role : not present
- * json : Manage Team : not present
+ * json : Manage Account
+ * json : Manage and logout your active sessions on other browsers and devices.
+ * json : Manage API Tokens
+ * json : Manage Role
+ * json : Manage Team
  * json : Name
- * json : Nevermind : not present
- * json : New Password : not present
+ * json : Nevermind
+ * json : New Password
  * json : Not Found
- * json : of : not present
+ * json : of
  * json : Oh no
- * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
- * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
+ * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain.
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.
  * json : Page Expired
- * json : Pagination Navigation : not present
+ * json : Pagination Navigation
  * json : Password
- * json : Permanently delete this team. : not present
- * json : Permanently delete your account. : not present
- * json : Permissions : not present
- * json : Photo : not present
+ * json : Permanently delete this team.
+ * json : Permanently delete your account.
+ * json : Permissions
+ * json : Photo
  * json : Please click the button below to verify your email address.
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
- * json : Please copy your new API token. For your security, it won't be shown again. : not present
- * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
- * json : Profile Information : not present
- * json : Profile : not present
- * json : Recovery Code : not present
+ * json : Please copy your new API token. For your security, it won't be shown again.
+ * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+ * json : Profile Information
+ * json : Profile
+ * json : Recovery Code
  * json : Regards
- * json : Regenerate Recovery Codes : not present
+ * json : Regenerate Recovery Codes
  * json : Register
  * json : Remember Me
- * json : Remember me : not present
- * json : Remove Photo : not present
- * json : Remove Team Member : not present
- * json : Remove : not present
+ * json : Remember me
+ * json : Remove Photo
+ * json : Remove Team Member
+ * json : Remove
  * json : Resend Verification Email
  * json : Reset Password Notification
  * json : Reset Password
- * json : results : not present
- * json : Role : not present
- * json : Save : not present
- * json : Saved. : not present
- * json : Select A New Photo : not present
+ * json : results
+ * json : Role
+ * json : Save
+ * json : Saved.
+ * json : Select A New Photo
  * json : Send Password Reset Link
  * json : Server Error
  * json : Service Unavailable
- * json : Show Recovery Codes : not present
- * json : Showing : not present
- * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
- * json : Switch Teams : not present
- * json : Team Details : not present
- * json : Team Members : not present
- * json : Team Name : not present
- * json : Team Owner : not present
- * json : Team Settings : not present
- * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
+ * json : Show Recovery Codes
+ * json : Showing
+ * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
+ * json : Switch Teams
+ * json : Team Details
+ * json : Team Members
+ * json : Team Name
+ * json : Team Owner
+ * json : Team Settings
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
- * json : The :attribute must be at least :length characters and contain at least one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
- * json : The :attribute must be at least :length characters. : not present
- * json : The provided password does not match your current password. : not present
- * json : The provided password was incorrect. : not present
- * json : The provided two factor authentication code was invalid. : not present
- * json : The team's name and owner information. : not present
+ * json : The :attribute must be at least :length characters and contain at least one number.
+ * json : The :attribute must be at least :length characters and contain at least one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character.
+ * json : The :attribute must be at least :length characters.
+ * json : The provided password does not match your current password.
+ * json : The provided password was incorrect.
+ * json : The provided two factor authentication code was invalid.
+ * json : The team's name and owner information.
  * json : This action is unauthorized.
- * json : This device : not present
+ * json : This device
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
  * json : This user already belongs to the team.
- * json : to : not present
+ * json : to
  * json : Toggle navigation
- * json : Token Name : not present
+ * json : Token Name
  * json : Too Many Attempts.
  * json : Too Many Requests
- * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application. : not present
- * json : Two Factor Authentication : not present
+ * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
+ * json : Two Factor Authentication
  * json : Unauthorized
- * json : Update Password : not present
- * json : Update your account's profile information and email address. : not present
+ * json : Update Password
+ * json : Update your account's profile information and email address.
  * json : Use a recovery code
  * json : Use an authentication code
  * json : Verify Email Address
  * json : Verify Your Email Address
  * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours.
- * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application. : not present
- * json : Whoops! Something went wrong. : not present
+ * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application.
+ * json : Whoops! Something went wrong.
  * json : Whoops!
  * json : You are logged in!
  * json : You are receiving this email because we received a password reset request for your account.
- * json : You have enabled two factor authentication. : not present
- * json : You have not enabled two factor authentication. : not present
- * json : You may delete any of your existing tokens if they are no longer needed. : not present
+ * json : You have enabled two factor authentication.
+ * json : You have not enabled two factor authentication.
+ * json : You may delete any of your existing tokens if they are no longer needed.
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified.
@@ -2259,136 +2259,136 @@ into your web browser:
 ## da
 
 <details>
-<summary>show<small> (all missing: 220, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 220, including not present: 0)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
- * json : Add a new team member to your team, allowing them to collaborate with you. : not present
- * json : Add additional security to your account using two factor authentication. : not present
- * json : Add Team Member : not present
- * json : Add : not present
- * json : Added. : not present
- * json : Administrator users can perform any action. : not present
- * json : Administrator : not present
- * json : All of the people that are part of this team. : not present
+ * json : Add a new team member to your team, allowing them to collaborate with you.
+ * json : Add additional security to your account using two factor authentication.
+ * json : Add Team Member
+ * json : Add
+ * json : Added.
+ * json : Administrator users can perform any action.
+ * json : Administrator
+ * json : All of the people that are part of this team.
  * json : Already registered?
- * json : API Token Permissions : not present
- * json : API Token : not present
- * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
- * json : API Tokens : not present
- * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
- * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
- * json : Are you sure you would like to delete this API token? : not present
- * json : Are you sure you would like to leave this team? : not present
- * json : Are you sure you would like to remove this person from the team? : not present
- * json : Browser Sessions : not present
- * json : Close : not present
- * json : Code : not present
- * json : Confirm : not present
- * json : Create a new team to collaborate with others on projects. : not present
- * json : Create API Token : not present
- * json : Create New Team : not present
- * json : Create Team : not present
- * json : Create : not present
- * json : Created. : not present
- * json : Current Password : not present
+ * json : API Token Permissions
+ * json : API Token
+ * json : API tokens allow third-party services to authenticate with our application on your behalf.
+ * json : API Tokens
+ * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted.
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+ * json : Are you sure you would like to delete this API token?
+ * json : Are you sure you would like to leave this team?
+ * json : Are you sure you would like to remove this person from the team?
+ * json : Browser Sessions
+ * json : Close
+ * json : Code
+ * json : Confirm
+ * json : Create a new team to collaborate with others on projects.
+ * json : Create API Token
+ * json : Create New Team
+ * json : Create Team
+ * json : Create
+ * json : Created.
+ * json : Current Password
  * json : Dashboard
- * json : Delete Account : not present
- * json : Delete API Token : not present
- * json : Delete Team : not present
- * json : Delete : not present
- * json : Disable : not present
- * json : Done. : not present
- * json : Editor users have the ability to read, create, and update. : not present
- * json : Editor : not present
+ * json : Delete Account
+ * json : Delete API Token
+ * json : Delete Team
+ * json : Delete
+ * json : Disable
+ * json : Done.
+ * json : Editor users have the ability to read, create, and update.
+ * json : Editor
  * json : Email Password Reset Link
  * json : Email
- * json : Enable : not present
- * json : Ensure your account is using a long, random password to stay secure. : not present
- * json : For your security, please confirm your password to continue. : not present
+ * json : Enable
+ * json : Ensure your account is using a long, random password to stay secure.
+ * json : For your security, please confirm your password to continue.
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
- * json : Go to page :page : not present
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
- * json : Last active : not present
- * json : Last used : not present
- * json : Leave Team : not present
- * json : Leave : not present
- * json : Logout Other Browser Sessions : not present
- * json : Manage Account : not present
- * json : Manage and logout your active sessions on other browsers and devices. : not present
- * json : Manage API Tokens : not present
- * json : Manage Role : not present
- * json : Manage Team : not present
- * json : Nevermind : not present
- * json : New Password : not present
- * json : of : not present
- * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
- * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
- * json : Pagination Navigation : not present
+ * json : Go to page :page
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password.
+ * json : Last active
+ * json : Last used
+ * json : Leave Team
+ * json : Leave
+ * json : Logout Other Browser Sessions
+ * json : Manage Account
+ * json : Manage and logout your active sessions on other browsers and devices.
+ * json : Manage API Tokens
+ * json : Manage Role
+ * json : Manage Team
+ * json : Nevermind
+ * json : New Password
+ * json : of
+ * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain.
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.
+ * json : Pagination Navigation
  * json : Password
- * json : Permanently delete this team. : not present
- * json : Permanently delete your account. : not present
- * json : Permissions : not present
- * json : Photo : not present
+ * json : Permanently delete this team.
+ * json : Permanently delete your account.
+ * json : Permissions
+ * json : Photo
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
- * json : Please copy your new API token. For your security, it won't be shown again. : not present
- * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
- * json : Profile Information : not present
- * json : Profile : not present
- * json : Recovery Code : not present
- * json : Regenerate Recovery Codes : not present
- * json : Remember me : not present
- * json : Remove Photo : not present
- * json : Remove Team Member : not present
- * json : Remove : not present
+ * json : Please copy your new API token. For your security, it won't be shown again.
+ * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+ * json : Profile Information
+ * json : Profile
+ * json : Recovery Code
+ * json : Regenerate Recovery Codes
+ * json : Remember me
+ * json : Remove Photo
+ * json : Remove Team Member
+ * json : Remove
  * json : Resend Verification Email
- * json : results : not present
- * json : Role : not present
- * json : Save : not present
- * json : Saved. : not present
- * json : Select A New Photo : not present
- * json : Show Recovery Codes : not present
- * json : Showing : not present
- * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
- * json : Switch Teams : not present
- * json : Team Details : not present
- * json : Team Members : not present
- * json : Team Name : not present
- * json : Team Owner : not present
- * json : Team Settings : not present
- * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
+ * json : results
+ * json : Role
+ * json : Save
+ * json : Saved.
+ * json : Select A New Photo
+ * json : Show Recovery Codes
+ * json : Showing
+ * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
+ * json : Switch Teams
+ * json : Team Details
+ * json : Team Members
+ * json : Team Name
+ * json : Team Owner
+ * json : Team Settings
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
- * json : The :attribute must be at least :length characters and contain at least one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
- * json : The :attribute must be at least :length characters. : not present
- * json : The provided password does not match your current password. : not present
- * json : The provided password was incorrect. : not present
- * json : The provided two factor authentication code was invalid. : not present
- * json : The team's name and owner information. : not present
- * json : This device : not present
+ * json : The :attribute must be at least :length characters and contain at least one number.
+ * json : The :attribute must be at least :length characters and contain at least one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character.
+ * json : The :attribute must be at least :length characters.
+ * json : The provided password does not match your current password.
+ * json : The provided password was incorrect.
+ * json : The provided two factor authentication code was invalid.
+ * json : The team's name and owner information.
+ * json : This device
  * json : This password does not match our records.
  * json : This user already belongs to the team.
- * json : to : not present
- * json : Token Name : not present
- * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application. : not present
- * json : Two Factor Authentication : not present
- * json : Update Password : not present
- * json : Update your account's profile information and email address. : not present
+ * json : to
+ * json : Token Name
+ * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
+ * json : Two Factor Authentication
+ * json : Update Password
+ * json : Update your account's profile information and email address.
  * json : Use a recovery code
  * json : Use an authentication code
  * json : We were unable to find a registered user with this email address.
- * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application. : not present
- * json : Whoops! Something went wrong. : not present
+ * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application.
+ * json : Whoops! Something went wrong.
  * json : You are logged in!
- * json : You have enabled two factor authentication. : not present
- * json : You have not enabled two factor authentication. : not present
- * json : You may delete any of your existing tokens if they are no longer needed. : not present
+ * json : You have enabled two factor authentication.
+ * json : You have not enabled two factor authentication.
+ * json : You may delete any of your existing tokens if they are no longer needed.
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * validation : ends_with
@@ -2494,135 +2494,135 @@ All lines are translated 😊
 ## de_CH
 
 <details>
-<summary>show<small> (all missing: 129, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 129, including not present: 0)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
- * json : Add a new team member to your team, allowing them to collaborate with you. : not present
- * json : Add additional security to your account using two factor authentication. : not present
- * json : Add Team Member : not present
- * json : Add : not present
- * json : Added. : not present
- * json : Administrator users can perform any action. : not present
- * json : Administrator : not present
- * json : All of the people that are part of this team. : not present
+ * json : Add a new team member to your team, allowing them to collaborate with you.
+ * json : Add additional security to your account using two factor authentication.
+ * json : Add Team Member
+ * json : Add
+ * json : Added.
+ * json : Administrator users can perform any action.
+ * json : Administrator
+ * json : All of the people that are part of this team.
  * json : Already registered?
- * json : API Token Permissions : not present
- * json : API Token : not present
- * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
- * json : API Tokens : not present
- * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
- * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
- * json : Are you sure you would like to delete this API token? : not present
- * json : Are you sure you would like to leave this team? : not present
- * json : Are you sure you would like to remove this person from the team? : not present
- * json : Browser Sessions : not present
- * json : Close : not present
- * json : Code : not present
- * json : Confirm : not present
- * json : Create a new team to collaborate with others on projects. : not present
- * json : Create API Token : not present
- * json : Create New Team : not present
- * json : Create Team : not present
- * json : Create : not present
- * json : Created. : not present
- * json : Current Password : not present
+ * json : API Token Permissions
+ * json : API Token
+ * json : API tokens allow third-party services to authenticate with our application on your behalf.
+ * json : API Tokens
+ * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted.
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+ * json : Are you sure you would like to delete this API token?
+ * json : Are you sure you would like to leave this team?
+ * json : Are you sure you would like to remove this person from the team?
+ * json : Browser Sessions
+ * json : Close
+ * json : Code
+ * json : Confirm
+ * json : Create a new team to collaborate with others on projects.
+ * json : Create API Token
+ * json : Create New Team
+ * json : Create Team
+ * json : Create
+ * json : Created.
+ * json : Current Password
  * json : Dashboard
- * json : Delete Account : not present
- * json : Delete API Token : not present
- * json : Delete Team : not present
- * json : Delete : not present
- * json : Disable : not present
- * json : Done. : not present
- * json : Editor users have the ability to read, create, and update. : not present
- * json : Editor : not present
+ * json : Delete Account
+ * json : Delete API Token
+ * json : Delete Team
+ * json : Delete
+ * json : Disable
+ * json : Done.
+ * json : Editor users have the ability to read, create, and update.
+ * json : Editor
  * json : Email Password Reset Link
  * json : Email
- * json : Enable : not present
- * json : Ensure your account is using a long, random password to stay secure. : not present
- * json : For your security, please confirm your password to continue. : not present
+ * json : Enable
+ * json : Ensure your account is using a long, random password to stay secure.
+ * json : For your security, please confirm your password to continue.
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
- * json : Go to page :page : not present
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
- * json : Last active : not present
- * json : Last used : not present
- * json : Leave Team : not present
- * json : Leave : not present
- * json : Logout Other Browser Sessions : not present
- * json : Manage Account : not present
- * json : Manage and logout your active sessions on other browsers and devices. : not present
- * json : Manage API Tokens : not present
- * json : Manage Role : not present
- * json : Manage Team : not present
+ * json : Go to page :page
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password.
+ * json : Last active
+ * json : Last used
+ * json : Leave Team
+ * json : Leave
+ * json : Logout Other Browser Sessions
+ * json : Manage Account
+ * json : Manage and logout your active sessions on other browsers and devices.
+ * json : Manage API Tokens
+ * json : Manage Role
+ * json : Manage Team
  * json : Name
- * json : Nevermind : not present
- * json : New Password : not present
- * json : of : not present
- * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
- * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
- * json : Pagination Navigation : not present
- * json : Permanently delete this team. : not present
- * json : Permanently delete your account. : not present
- * json : Permissions : not present
- * json : Photo : not present
+ * json : Nevermind
+ * json : New Password
+ * json : of
+ * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain.
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.
+ * json : Pagination Navigation
+ * json : Permanently delete this team.
+ * json : Permanently delete your account.
+ * json : Permissions
+ * json : Photo
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
- * json : Please copy your new API token. For your security, it won't be shown again. : not present
- * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
- * json : Profile Information : not present
- * json : Profile : not present
- * json : Recovery Code : not present
- * json : Regenerate Recovery Codes : not present
- * json : Remember me : not present
- * json : Remove Photo : not present
- * json : Remove Team Member : not present
- * json : Remove : not present
+ * json : Please copy your new API token. For your security, it won't be shown again.
+ * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+ * json : Profile Information
+ * json : Profile
+ * json : Recovery Code
+ * json : Regenerate Recovery Codes
+ * json : Remember me
+ * json : Remove Photo
+ * json : Remove Team Member
+ * json : Remove
  * json : Resend Verification Email
- * json : results : not present
- * json : Role : not present
- * json : Save : not present
- * json : Saved. : not present
- * json : Select A New Photo : not present
- * json : Show Recovery Codes : not present
- * json : Showing : not present
- * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
- * json : Switch Teams : not present
- * json : Team Details : not present
- * json : Team Members : not present
- * json : Team Name : not present
- * json : Team Owner : not present
- * json : Team Settings : not present
- * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
+ * json : results
+ * json : Role
+ * json : Save
+ * json : Saved.
+ * json : Select A New Photo
+ * json : Show Recovery Codes
+ * json : Showing
+ * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
+ * json : Switch Teams
+ * json : Team Details
+ * json : Team Members
+ * json : Team Name
+ * json : Team Owner
+ * json : Team Settings
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
- * json : The :attribute must be at least :length characters and contain at least one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
- * json : The :attribute must be at least :length characters. : not present
- * json : The provided password does not match your current password. : not present
- * json : The provided password was incorrect. : not present
- * json : The provided two factor authentication code was invalid. : not present
- * json : The team's name and owner information. : not present
- * json : This device : not present
+ * json : The :attribute must be at least :length characters and contain at least one number.
+ * json : The :attribute must be at least :length characters and contain at least one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character.
+ * json : The :attribute must be at least :length characters.
+ * json : The provided password does not match your current password.
+ * json : The provided password was incorrect.
+ * json : The provided two factor authentication code was invalid.
+ * json : The team's name and owner information.
+ * json : This device
  * json : This password does not match our records.
  * json : This user already belongs to the team.
- * json : to : not present
- * json : Token Name : not present
- * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application. : not present
- * json : Two Factor Authentication : not present
- * json : Update Password : not present
- * json : Update your account's profile information and email address. : not present
+ * json : to
+ * json : Token Name
+ * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
+ * json : Two Factor Authentication
+ * json : Update Password
+ * json : Update your account's profile information and email address.
  * json : Use a recovery code
  * json : Use an authentication code
  * json : We were unable to find a registered user with this email address.
- * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application. : not present
- * json : Whoops! Something went wrong. : not present
- * json : You have enabled two factor authentication. : not present
- * json : You have not enabled two factor authentication. : not present
- * json : You may delete any of your existing tokens if they are no longer needed. : not present
+ * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application.
+ * json : Whoops! Something went wrong.
+ * json : You have enabled two factor authentication.
+ * json : You have not enabled two factor authentication.
+ * json : You may delete any of your existing tokens if they are no longer needed.
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
 
@@ -2632,128 +2632,127 @@ All lines are translated 😊
 ## el
 
 <details>
-<summary>show<small> (all missing: 211, including not present: 112)</small></summary>
+<summary>show<small> (all missing: 210, including not present: 0)</small></summary>
 
- * json : Add a new team member to your team, allowing them to collaborate with you. : not present
- * json : Add additional security to your account using two factor authentication. : not present
- * json : Add Team Member : not present
- * json : Add : not present
- * json : Added. : not present
- * json : Administrator users can perform any action. : not present
- * json : Administrator : not present
- * json : All of the people that are part of this team. : not present
- * json : API Token Permissions : not present
- * json : API Token : not present
- * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
- * json : API Tokens : not present
- * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
- * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
- * json : Are you sure you would like to delete this API token? : not present
- * json : Are you sure you would like to leave this team? : not present
- * json : Are you sure you would like to remove this person from the team? : not present
- * json : Browser Sessions : not present
- * json : Close : not present
- * json : Code : not present
- * json : Confirm : not present
- * json : Create a new team to collaborate with others on projects. : not present
- * json : Create API Token : not present
- * json : Create New Team : not present
- * json : Create Team : not present
- * json : Create : not present
- * json : Created. : not present
- * json : Current Password : not present
+ * json : Add a new team member to your team, allowing them to collaborate with you.
+ * json : Add additional security to your account using two factor authentication.
+ * json : Add Team Member
+ * json : Add
+ * json : Added.
+ * json : Administrator users can perform any action.
+ * json : Administrator
+ * json : All of the people that are part of this team.
+ * json : API Token Permissions
+ * json : API Token
+ * json : API tokens allow third-party services to authenticate with our application on your behalf.
+ * json : API Tokens
+ * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted.
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+ * json : Are you sure you would like to delete this API token?
+ * json : Are you sure you would like to leave this team?
+ * json : Are you sure you would like to remove this person from the team?
+ * json : Browser Sessions
+ * json : Close
+ * json : Code
+ * json : Confirm
+ * json : Create a new team to collaborate with others on projects.
+ * json : Create API Token
+ * json : Create New Team
+ * json : Create Team
+ * json : Create
+ * json : Created.
+ * json : Current Password
  * json : Dashboard
- * json : Delete Account : not present
- * json : Delete API Token : not present
- * json : Delete Team : not present
- * json : Delete : not present
- * json : Disable : not present
- * json : Done. : not present
- * json : Editor users have the ability to read, create, and update. : not present
- * json : Editor : not present
+ * json : Delete Account
+ * json : Delete API Token
+ * json : Delete Team
+ * json : Delete
+ * json : Disable
+ * json : Done.
+ * json : Editor users have the ability to read, create, and update.
+ * json : Editor
  * json : Email
- * json : Enable : not present
- * json : Ensure your account is using a long, random password to stay secure. : not present
- * json : For your security, please confirm your password to continue. : not present
- * json : Forgot your password? : not present
- * json : Go to page :page : not present
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
+ * json : Enable
+ * json : Ensure your account is using a long, random password to stay secure.
+ * json : For your security, please confirm your password to continue.
+ * json : Go to page :page
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password.
  * json : Invalid signature.
- * json : Last active : not present
- * json : Last used : not present
- * json : Leave Team : not present
- * json : Leave : not present
- * json : Logout Other Browser Sessions : not present
- * json : Manage Account : not present
- * json : Manage and logout your active sessions on other browsers and devices. : not present
- * json : Manage API Tokens : not present
- * json : Manage Role : not present
- * json : Manage Team : not present
- * json : Nevermind : not present
- * json : New Password : not present
+ * json : Last active
+ * json : Last used
+ * json : Leave Team
+ * json : Leave
+ * json : Logout Other Browser Sessions
+ * json : Manage Account
+ * json : Manage and logout your active sessions on other browsers and devices.
+ * json : Manage API Tokens
+ * json : Manage Role
+ * json : Manage Team
+ * json : Nevermind
+ * json : New Password
  * json : Not Found
- * json : of : not present
- * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
- * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
- * json : Pagination Navigation : not present
- * json : Permanently delete this team. : not present
- * json : Permanently delete your account. : not present
- * json : Permissions : not present
- * json : Photo : not present
+ * json : of
+ * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain.
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.
+ * json : Pagination Navigation
+ * json : Permanently delete this team.
+ * json : Permanently delete your account.
+ * json : Permissions
+ * json : Photo
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
- * json : Please copy your new API token. For your security, it won't be shown again. : not present
- * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
- * json : Profile Information : not present
- * json : Profile : not present
- * json : Recovery Code : not present
- * json : Regenerate Recovery Codes : not present
- * json : Remember me : not present
- * json : Remove Photo : not present
- * json : Remove Team Member : not present
- * json : Remove : not present
- * json : results : not present
- * json : Role : not present
- * json : Save : not present
- * json : Saved. : not present
- * json : Select A New Photo : not present
- * json : Show Recovery Codes : not present
- * json : Showing : not present
- * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
- * json : Switch Teams : not present
- * json : Team Details : not present
- * json : Team Members : not present
- * json : Team Name : not present
- * json : Team Owner : not present
- * json : Team Settings : not present
- * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
+ * json : Please copy your new API token. For your security, it won't be shown again.
+ * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+ * json : Profile Information
+ * json : Profile
+ * json : Recovery Code
+ * json : Regenerate Recovery Codes
+ * json : Remember me
+ * json : Remove Photo
+ * json : Remove Team Member
+ * json : Remove
+ * json : results
+ * json : Role
+ * json : Save
+ * json : Saved.
+ * json : Select A New Photo
+ * json : Show Recovery Codes
+ * json : Showing
+ * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
+ * json : Switch Teams
+ * json : Team Details
+ * json : Team Members
+ * json : Team Name
+ * json : Team Owner
+ * json : Team Settings
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
- * json : The :attribute must be at least :length characters and contain at least one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
- * json : The :attribute must be at least :length characters. : not present
- * json : The provided password does not match your current password. : not present
- * json : The provided password was incorrect. : not present
- * json : The provided two factor authentication code was invalid. : not present
- * json : The team's name and owner information. : not present
- * json : This device : not present
- * json : to : not present
- * json : Token Name : not present
- * json : Too Many Attempts. : not present
- * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application. : not present
- * json : Two Factor Authentication : not present
- * json : Update Password : not present
- * json : Update your account's profile information and email address. : not present
+ * json : The :attribute must be at least :length characters and contain at least one number.
+ * json : The :attribute must be at least :length characters and contain at least one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character.
+ * json : The :attribute must be at least :length characters.
+ * json : The provided password does not match your current password.
+ * json : The provided password was incorrect.
+ * json : The provided two factor authentication code was invalid.
+ * json : The team's name and owner information.
+ * json : This device
+ * json : to
+ * json : Token Name
+ * json : Too Many Attempts.
+ * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
+ * json : Two Factor Authentication
+ * json : Update Password
+ * json : Update your account's profile information and email address.
  * json : Use a recovery code
- * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application. : not present
- * json : Whoops! Something went wrong. : not present
- * json : You have enabled two factor authentication. : not present
- * json : You have not enabled two factor authentication. : not present
- * json : You may delete any of your existing tokens if they are no longer needed. : not present
+ * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application.
+ * json : Whoops! Something went wrong.
+ * json : You have enabled two factor authentication.
+ * json : You have not enabled two factor authentication.
+ * json : You may delete any of your existing tokens if they are no longer needed.
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * passwords : throttled
@@ -2858,179 +2857,179 @@ All lines are translated 😊
 ## et
 
 <details>
-<summary>show<small> (all missing: 264, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 264, including not present: 0)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
- * json : Add a new team member to your team, allowing them to collaborate with you. : not present
- * json : Add additional security to your account using two factor authentication. : not present
- * json : Add Team Member : not present
- * json : Add : not present
- * json : Added. : not present
- * json : Administrator users can perform any action. : not present
- * json : Administrator : not present
- * json : All of the people that are part of this team. : not present
+ * json : Add a new team member to your team, allowing them to collaborate with you.
+ * json : Add additional security to your account using two factor authentication.
+ * json : Add Team Member
+ * json : Add
+ * json : Added.
+ * json : Administrator users can perform any action.
+ * json : Administrator
+ * json : All of the people that are part of this team.
  * json : All rights reserved.
  * json : Already registered?
- * json : API Token Permissions : not present
- * json : API Token : not present
- * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
- * json : API Tokens : not present
- * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
- * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
- * json : Are you sure you would like to delete this API token? : not present
- * json : Are you sure you would like to leave this team? : not present
- * json : Are you sure you would like to remove this person from the team? : not present
+ * json : API Token Permissions
+ * json : API Token
+ * json : API tokens allow third-party services to authenticate with our application on your behalf.
+ * json : API Tokens
+ * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted.
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+ * json : Are you sure you would like to delete this API token?
+ * json : Are you sure you would like to leave this team?
+ * json : Are you sure you would like to remove this person from the team?
  * json : Before proceeding, please check your email for a verification link.
- * json : Browser Sessions : not present
+ * json : Browser Sessions
  * json : click here to request another
- * json : Close : not present
- * json : Code : not present
+ * json : Close
+ * json : Code
  * json : Confirm Password
- * json : Confirm : not present
- * json : Create a new team to collaborate with others on projects. : not present
- * json : Create API Token : not present
- * json : Create New Team : not present
- * json : Create Team : not present
- * json : Create : not present
- * json : Created. : not present
- * json : Current Password : not present
+ * json : Confirm
+ * json : Create a new team to collaborate with others on projects.
+ * json : Create API Token
+ * json : Create New Team
+ * json : Create Team
+ * json : Create
+ * json : Created.
+ * json : Current Password
  * json : Dashboard
- * json : Delete Account : not present
- * json : Delete API Token : not present
- * json : Delete Team : not present
- * json : Delete : not present
- * json : Disable : not present
- * json : Done. : not present
+ * json : Delete Account
+ * json : Delete API Token
+ * json : Delete Team
+ * json : Delete
+ * json : Disable
+ * json : Done.
  * json : E-Mail Address
- * json : Editor users have the ability to read, create, and update. : not present
- * json : Editor : not present
+ * json : Editor users have the ability to read, create, and update.
+ * json : Editor
  * json : Email Password Reset Link
  * json : Email
- * json : Enable : not present
- * json : Ensure your account is using a long, random password to stay secure. : not present
- * json : For your security, please confirm your password to continue. : not present
+ * json : Enable
+ * json : Ensure your account is using a long, random password to stay secure.
+ * json : For your security, please confirm your password to continue.
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
  * json : Forgot your password?
  * json : Go Home
- * json : Go to page :page : not present
+ * json : Go to page :page
  * json : Hello!
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password.
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you did not request a password reset, no further action is required.
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser:
  * json : Invalid signature.
- * json : Last active : not present
- * json : Last used : not present
- * json : Leave Team : not present
- * json : Leave : not present
+ * json : Last active
+ * json : Last used
+ * json : Leave Team
+ * json : Leave
  * json : Login
- * json : Logout Other Browser Sessions : not present
+ * json : Logout Other Browser Sessions
  * json : Logout
- * json : Manage Account : not present
- * json : Manage and logout your active sessions on other browsers and devices. : not present
- * json : Manage API Tokens : not present
- * json : Manage Role : not present
- * json : Manage Team : not present
+ * json : Manage Account
+ * json : Manage and logout your active sessions on other browsers and devices.
+ * json : Manage API Tokens
+ * json : Manage Role
+ * json : Manage Team
  * json : Name
- * json : Nevermind : not present
- * json : New Password : not present
+ * json : Nevermind
+ * json : New Password
  * json : Not Found
- * json : of : not present
+ * json : of
  * json : Oh no
- * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
- * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
+ * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain.
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.
  * json : Page Expired
- * json : Pagination Navigation : not present
+ * json : Pagination Navigation
  * json : Password
- * json : Permanently delete this team. : not present
- * json : Permanently delete your account. : not present
- * json : Permissions : not present
- * json : Photo : not present
+ * json : Permanently delete this team.
+ * json : Permanently delete your account.
+ * json : Permissions
+ * json : Photo
  * json : Please click the button below to verify your email address.
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
- * json : Please copy your new API token. For your security, it won't be shown again. : not present
- * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
- * json : Profile Information : not present
- * json : Profile : not present
- * json : Recovery Code : not present
+ * json : Please copy your new API token. For your security, it won't be shown again.
+ * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+ * json : Profile Information
+ * json : Profile
+ * json : Recovery Code
  * json : Regards
- * json : Regenerate Recovery Codes : not present
+ * json : Regenerate Recovery Codes
  * json : Register
  * json : Remember Me
- * json : Remember me : not present
- * json : Remove Photo : not present
- * json : Remove Team Member : not present
- * json : Remove : not present
+ * json : Remember me
+ * json : Remove Photo
+ * json : Remove Team Member
+ * json : Remove
  * json : Resend Verification Email
  * json : Reset Password Notification
  * json : Reset Password
- * json : results : not present
- * json : Role : not present
- * json : Save : not present
- * json : Saved. : not present
- * json : Select A New Photo : not present
+ * json : results
+ * json : Role
+ * json : Save
+ * json : Saved.
+ * json : Select A New Photo
  * json : Send Password Reset Link
  * json : Server Error
  * json : Service Unavailable
- * json : Show Recovery Codes : not present
- * json : Showing : not present
- * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
- * json : Switch Teams : not present
- * json : Team Details : not present
- * json : Team Members : not present
- * json : Team Name : not present
- * json : Team Owner : not present
- * json : Team Settings : not present
- * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
+ * json : Show Recovery Codes
+ * json : Showing
+ * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
+ * json : Switch Teams
+ * json : Team Details
+ * json : Team Members
+ * json : Team Name
+ * json : Team Owner
+ * json : Team Settings
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
- * json : The :attribute must be at least :length characters and contain at least one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
- * json : The :attribute must be at least :length characters. : not present
- * json : The provided password does not match your current password. : not present
- * json : The provided password was incorrect. : not present
- * json : The provided two factor authentication code was invalid. : not present
- * json : The team's name and owner information. : not present
+ * json : The :attribute must be at least :length characters and contain at least one number.
+ * json : The :attribute must be at least :length characters and contain at least one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character.
+ * json : The :attribute must be at least :length characters.
+ * json : The provided password does not match your current password.
+ * json : The provided password was incorrect.
+ * json : The provided two factor authentication code was invalid.
+ * json : The team's name and owner information.
  * json : This action is unauthorized.
- * json : This device : not present
+ * json : This device
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
  * json : This user already belongs to the team.
- * json : to : not present
+ * json : to
  * json : Toggle navigation
- * json : Token Name : not present
+ * json : Token Name
  * json : Too Many Attempts.
  * json : Too Many Requests
- * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application. : not present
- * json : Two Factor Authentication : not present
+ * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
+ * json : Two Factor Authentication
  * json : Unauthorized
- * json : Update Password : not present
- * json : Update your account's profile information and email address. : not present
+ * json : Update Password
+ * json : Update your account's profile information and email address.
  * json : Use a recovery code
  * json : Use an authentication code
  * json : Verify Email Address
  * json : Verify Your Email Address
  * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours.
- * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application. : not present
- * json : Whoops! Something went wrong. : not present
+ * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application.
+ * json : Whoops! Something went wrong.
  * json : Whoops!
  * json : You are logged in!
  * json : You are receiving this email because we received a password reset request for your account.
- * json : You have enabled two factor authentication. : not present
- * json : You have not enabled two factor authentication. : not present
- * json : You may delete any of your existing tokens if they are no longer needed. : not present
+ * json : You have enabled two factor authentication.
+ * json : You have not enabled two factor authentication.
+ * json : You may delete any of your existing tokens if they are no longer needed.
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified.
@@ -3132,143 +3131,143 @@ into your web browser:
 ## eu
 
 <details>
-<summary>show<small> (all missing: 229, including not present: 121)</small></summary>
+<summary>show<small> (all missing: 229, including not present: 11)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
- * json : Add a new team member to your team, allowing them to collaborate with you. : not present
- * json : Add additional security to your account using two factor authentication. : not present
- * json : Add Team Member : not present
- * json : Add : not present
- * json : Added. : not present
- * json : Administrator users can perform any action. : not present
- * json : Administrator : not present
- * json : All of the people that are part of this team. : not present
+ * json : Add a new team member to your team, allowing them to collaborate with you.
+ * json : Add additional security to your account using two factor authentication.
+ * json : Add Team Member
+ * json : Add
+ * json : Added.
+ * json : Administrator users can perform any action.
+ * json : Administrator
+ * json : All of the people that are part of this team.
  * json : Already registered?
- * json : API Token Permissions : not present
- * json : API Token : not present
- * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
- * json : API Tokens : not present
- * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
- * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
- * json : Are you sure you would like to delete this API token? : not present
- * json : Are you sure you would like to leave this team? : not present
- * json : Are you sure you would like to remove this person from the team? : not present
- * json : Browser Sessions : not present
- * json : Close : not present
- * json : Code : not present
- * json : Confirm : not present
- * json : Create a new team to collaborate with others on projects. : not present
- * json : Create API Token : not present
- * json : Create New Team : not present
- * json : Create Team : not present
- * json : Create : not present
- * json : Created. : not present
- * json : Current Password : not present
+ * json : API Token Permissions
+ * json : API Token
+ * json : API tokens allow third-party services to authenticate with our application on your behalf.
+ * json : API Tokens
+ * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted.
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+ * json : Are you sure you would like to delete this API token?
+ * json : Are you sure you would like to leave this team?
+ * json : Are you sure you would like to remove this person from the team?
+ * json : Browser Sessions
+ * json : Close
+ * json : Code
+ * json : Confirm
+ * json : Create a new team to collaborate with others on projects.
+ * json : Create API Token
+ * json : Create New Team
+ * json : Create Team
+ * json : Create
+ * json : Created.
+ * json : Current Password
  * json : Dashboard : not present
- * json : Delete Account : not present
- * json : Delete API Token : not present
- * json : Delete Team : not present
- * json : Delete : not present
- * json : Disable : not present
- * json : Done. : not present
- * json : Editor users have the ability to read, create, and update. : not present
- * json : Editor : not present
+ * json : Delete Account
+ * json : Delete API Token
+ * json : Delete Team
+ * json : Delete
+ * json : Disable
+ * json : Done.
+ * json : Editor users have the ability to read, create, and update.
+ * json : Editor
  * json : Email Password Reset Link
  * json : Email
- * json : Enable : not present
- * json : Ensure your account is using a long, random password to stay secure. : not present
- * json : For your security, please confirm your password to continue. : not present
+ * json : Enable
+ * json : Ensure your account is using a long, random password to stay secure.
+ * json : For your security, please confirm your password to continue.
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
- * json : Go to page :page : not present
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
+ * json : Go to page :page
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password.
  * json : Invalid signature. : not present
- * json : Last active : not present
- * json : Last used : not present
- * json : Leave Team : not present
- * json : Leave : not present
- * json : Logout Other Browser Sessions : not present
- * json : Manage Account : not present
- * json : Manage and logout your active sessions on other browsers and devices. : not present
- * json : Manage API Tokens : not present
- * json : Manage Role : not present
- * json : Manage Team : not present
- * json : Nevermind : not present
- * json : New Password : not present
+ * json : Last active
+ * json : Last used
+ * json : Leave Team
+ * json : Leave
+ * json : Logout Other Browser Sessions
+ * json : Manage Account
+ * json : Manage and logout your active sessions on other browsers and devices.
+ * json : Manage API Tokens
+ * json : Manage Role
+ * json : Manage Team
+ * json : Nevermind
+ * json : New Password
  * json : Not Found : not present
- * json : of : not present
- * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
- * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
- * json : Pagination Navigation : not present
- * json : Permanently delete this team. : not present
- * json : Permanently delete your account. : not present
- * json : Permissions : not present
- * json : Photo : not present
+ * json : of
+ * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain.
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.
+ * json : Pagination Navigation
+ * json : Permanently delete this team.
+ * json : Permanently delete your account.
+ * json : Permissions
+ * json : Photo
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing. : not present
- * json : Please copy your new API token. For your security, it won't be shown again. : not present
- * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
- * json : Profile Information : not present
- * json : Profile : not present
- * json : Recovery Code : not present
- * json : Regenerate Recovery Codes : not present
- * json : Remember me : not present
- * json : Remove Photo : not present
- * json : Remove Team Member : not present
- * json : Remove : not present
+ * json : Please copy your new API token. For your security, it won't be shown again.
+ * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+ * json : Profile Information
+ * json : Profile
+ * json : Recovery Code
+ * json : Regenerate Recovery Codes
+ * json : Remember me
+ * json : Remove Photo
+ * json : Remove Team Member
+ * json : Remove
  * json : Resend Verification Email
- * json : results : not present
- * json : Role : not present
- * json : Save : not present
- * json : Saved. : not present
- * json : Select A New Photo : not present
+ * json : results
+ * json : Role
+ * json : Save
+ * json : Saved.
+ * json : Select A New Photo
  * json : Server Error : not present
- * json : Show Recovery Codes : not present
- * json : Showing : not present
- * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
- * json : Switch Teams : not present
- * json : Team Details : not present
- * json : Team Members : not present
- * json : Team Name : not present
- * json : Team Owner : not present
- * json : Team Settings : not present
- * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
+ * json : Show Recovery Codes
+ * json : Showing
+ * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
+ * json : Switch Teams
+ * json : Team Details
+ * json : Team Members
+ * json : Team Name
+ * json : Team Owner
+ * json : Team Settings
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
- * json : The :attribute must be at least :length characters and contain at least one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
- * json : The :attribute must be at least :length characters. : not present
- * json : The provided password does not match your current password. : not present
- * json : The provided password was incorrect. : not present
- * json : The provided two factor authentication code was invalid. : not present
- * json : The team's name and owner information. : not present
+ * json : The :attribute must be at least :length characters and contain at least one number.
+ * json : The :attribute must be at least :length characters and contain at least one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character.
+ * json : The :attribute must be at least :length characters.
+ * json : The provided password does not match your current password.
+ * json : The provided password was incorrect.
+ * json : The provided two factor authentication code was invalid.
+ * json : The team's name and owner information.
  * json : This action is unauthorized. : not present
- * json : This device : not present
+ * json : This device
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes. : not present
  * json : This user already belongs to the team.
- * json : to : not present
- * json : Token Name : not present
+ * json : to
+ * json : Token Name
  * json : Too Many Attempts. : not present
- * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application. : not present
- * json : Two Factor Authentication : not present
- * json : Update Password : not present
- * json : Update your account's profile information and email address. : not present
+ * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
+ * json : Two Factor Authentication
+ * json : Update Password
+ * json : Update your account's profile information and email address.
  * json : Use a recovery code
  * json : Use an authentication code
  * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours. : not present
- * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application. : not present
- * json : Whoops! Something went wrong. : not present
+ * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application.
+ * json : Whoops! Something went wrong.
  * json : You are logged in! : not present
- * json : You have enabled two factor authentication. : not present
- * json : You have not enabled two factor authentication. : not present
- * json : You may delete any of your existing tokens if they are no longer needed. : not present
+ * json : You have enabled two factor authentication.
+ * json : You have not enabled two factor authentication.
+ * json : You may delete any of your existing tokens if they are no longer needed.
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified. : not present
@@ -12477,179 +12476,179 @@ into your web browser: : not present
 ## tk
 
 <details>
-<summary>show<small> (all missing: 299, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 299, including not present: 0)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
- * json : Add a new team member to your team, allowing them to collaborate with you. : not present
- * json : Add additional security to your account using two factor authentication. : not present
- * json : Add Team Member : not present
- * json : Add : not present
- * json : Added. : not present
- * json : Administrator users can perform any action. : not present
- * json : Administrator : not present
- * json : All of the people that are part of this team. : not present
+ * json : Add a new team member to your team, allowing them to collaborate with you.
+ * json : Add additional security to your account using two factor authentication.
+ * json : Add Team Member
+ * json : Add
+ * json : Added.
+ * json : Administrator users can perform any action.
+ * json : Administrator
+ * json : All of the people that are part of this team.
  * json : All rights reserved.
  * json : Already registered?
- * json : API Token Permissions : not present
- * json : API Token : not present
- * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
- * json : API Tokens : not present
- * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
- * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
- * json : Are you sure you would like to delete this API token? : not present
- * json : Are you sure you would like to leave this team? : not present
- * json : Are you sure you would like to remove this person from the team? : not present
+ * json : API Token Permissions
+ * json : API Token
+ * json : API tokens allow third-party services to authenticate with our application on your behalf.
+ * json : API Tokens
+ * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted.
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+ * json : Are you sure you would like to delete this API token?
+ * json : Are you sure you would like to leave this team?
+ * json : Are you sure you would like to remove this person from the team?
  * json : Before proceeding, please check your email for a verification link.
- * json : Browser Sessions : not present
+ * json : Browser Sessions
  * json : click here to request another
- * json : Close : not present
- * json : Code : not present
+ * json : Close
+ * json : Code
  * json : Confirm Password
- * json : Confirm : not present
- * json : Create a new team to collaborate with others on projects. : not present
- * json : Create API Token : not present
- * json : Create New Team : not present
- * json : Create Team : not present
- * json : Create : not present
- * json : Created. : not present
- * json : Current Password : not present
+ * json : Confirm
+ * json : Create a new team to collaborate with others on projects.
+ * json : Create API Token
+ * json : Create New Team
+ * json : Create Team
+ * json : Create
+ * json : Created.
+ * json : Current Password
  * json : Dashboard
- * json : Delete Account : not present
- * json : Delete API Token : not present
- * json : Delete Team : not present
- * json : Delete : not present
- * json : Disable : not present
- * json : Done. : not present
+ * json : Delete Account
+ * json : Delete API Token
+ * json : Delete Team
+ * json : Delete
+ * json : Disable
+ * json : Done.
  * json : E-Mail Address
- * json : Editor users have the ability to read, create, and update. : not present
- * json : Editor : not present
+ * json : Editor users have the ability to read, create, and update.
+ * json : Editor
  * json : Email Password Reset Link
  * json : Email
- * json : Enable : not present
- * json : Ensure your account is using a long, random password to stay secure. : not present
- * json : For your security, please confirm your password to continue. : not present
+ * json : Enable
+ * json : Ensure your account is using a long, random password to stay secure.
+ * json : For your security, please confirm your password to continue.
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
  * json : Forgot your password?
  * json : Go Home
- * json : Go to page :page : not present
+ * json : Go to page :page
  * json : Hello!
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password.
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you did not request a password reset, no further action is required.
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser:
  * json : Invalid signature.
- * json : Last active : not present
- * json : Last used : not present
- * json : Leave Team : not present
- * json : Leave : not present
+ * json : Last active
+ * json : Last used
+ * json : Leave Team
+ * json : Leave
  * json : Login
- * json : Logout Other Browser Sessions : not present
+ * json : Logout Other Browser Sessions
  * json : Logout
- * json : Manage Account : not present
- * json : Manage and logout your active sessions on other browsers and devices. : not present
- * json : Manage API Tokens : not present
- * json : Manage Role : not present
- * json : Manage Team : not present
+ * json : Manage Account
+ * json : Manage and logout your active sessions on other browsers and devices.
+ * json : Manage API Tokens
+ * json : Manage Role
+ * json : Manage Team
  * json : Name
- * json : Nevermind : not present
- * json : New Password : not present
+ * json : Nevermind
+ * json : New Password
  * json : Not Found
- * json : of : not present
+ * json : of
  * json : Oh no
- * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
- * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
+ * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain.
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.
  * json : Page Expired
- * json : Pagination Navigation : not present
+ * json : Pagination Navigation
  * json : Password
- * json : Permanently delete this team. : not present
- * json : Permanently delete your account. : not present
- * json : Permissions : not present
- * json : Photo : not present
+ * json : Permanently delete this team.
+ * json : Permanently delete your account.
+ * json : Permissions
+ * json : Photo
  * json : Please click the button below to verify your email address.
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
- * json : Please copy your new API token. For your security, it won't be shown again. : not present
- * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
- * json : Profile Information : not present
- * json : Profile : not present
- * json : Recovery Code : not present
+ * json : Please copy your new API token. For your security, it won't be shown again.
+ * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+ * json : Profile Information
+ * json : Profile
+ * json : Recovery Code
  * json : Regards
- * json : Regenerate Recovery Codes : not present
+ * json : Regenerate Recovery Codes
  * json : Register
  * json : Remember Me
- * json : Remember me : not present
- * json : Remove Photo : not present
- * json : Remove Team Member : not present
- * json : Remove : not present
+ * json : Remember me
+ * json : Remove Photo
+ * json : Remove Team Member
+ * json : Remove
  * json : Resend Verification Email
  * json : Reset Password Notification
  * json : Reset Password
- * json : results : not present
- * json : Role : not present
- * json : Save : not present
- * json : Saved. : not present
- * json : Select A New Photo : not present
+ * json : results
+ * json : Role
+ * json : Save
+ * json : Saved.
+ * json : Select A New Photo
  * json : Send Password Reset Link
  * json : Server Error
  * json : Service Unavailable
- * json : Show Recovery Codes : not present
- * json : Showing : not present
- * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
- * json : Switch Teams : not present
- * json : Team Details : not present
- * json : Team Members : not present
- * json : Team Name : not present
- * json : Team Owner : not present
- * json : Team Settings : not present
- * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
+ * json : Show Recovery Codes
+ * json : Showing
+ * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
+ * json : Switch Teams
+ * json : Team Details
+ * json : Team Members
+ * json : Team Name
+ * json : Team Owner
+ * json : Team Settings
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
- * json : The :attribute must be at least :length characters and contain at least one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
- * json : The :attribute must be at least :length characters. : not present
- * json : The provided password does not match your current password. : not present
- * json : The provided password was incorrect. : not present
- * json : The provided two factor authentication code was invalid. : not present
- * json : The team's name and owner information. : not present
+ * json : The :attribute must be at least :length characters and contain at least one number.
+ * json : The :attribute must be at least :length characters and contain at least one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character.
+ * json : The :attribute must be at least :length characters.
+ * json : The provided password does not match your current password.
+ * json : The provided password was incorrect.
+ * json : The provided two factor authentication code was invalid.
+ * json : The team's name and owner information.
  * json : This action is unauthorized.
- * json : This device : not present
+ * json : This device
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
  * json : This user already belongs to the team.
- * json : to : not present
+ * json : to
  * json : Toggle navigation
- * json : Token Name : not present
+ * json : Token Name
  * json : Too Many Attempts.
  * json : Too Many Requests
- * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application. : not present
- * json : Two Factor Authentication : not present
+ * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
+ * json : Two Factor Authentication
  * json : Unauthorized
- * json : Update Password : not present
- * json : Update your account's profile information and email address. : not present
+ * json : Update Password
+ * json : Update your account's profile information and email address.
  * json : Use a recovery code
  * json : Use an authentication code
  * json : Verify Email Address
  * json : Verify Your Email Address
  * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours.
- * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application. : not present
- * json : Whoops! Something went wrong. : not present
+ * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application.
+ * json : Whoops! Something went wrong.
  * json : Whoops!
  * json : You are logged in!
  * json : You are receiving this email because we received a password reset request for your account.
- * json : You have enabled two factor authentication. : not present
- * json : You have not enabled two factor authentication. : not present
- * json : You may delete any of your existing tokens if they are no longer needed. : not present
+ * json : You have enabled two factor authentication.
+ * json : You have not enabled two factor authentication.
+ * json : You may delete any of your existing tokens if they are no longer needed.
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified.
@@ -12786,179 +12785,179 @@ into your web browser:
 ## tl
 
 <details>
-<summary>show<small> (all missing: 292, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 292, including not present: 0)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
- * json : Add a new team member to your team, allowing them to collaborate with you. : not present
- * json : Add additional security to your account using two factor authentication. : not present
- * json : Add Team Member : not present
- * json : Add : not present
- * json : Added. : not present
- * json : Administrator users can perform any action. : not present
- * json : Administrator : not present
- * json : All of the people that are part of this team. : not present
+ * json : Add a new team member to your team, allowing them to collaborate with you.
+ * json : Add additional security to your account using two factor authentication.
+ * json : Add Team Member
+ * json : Add
+ * json : Added.
+ * json : Administrator users can perform any action.
+ * json : Administrator
+ * json : All of the people that are part of this team.
  * json : All rights reserved.
  * json : Already registered?
- * json : API Token Permissions : not present
- * json : API Token : not present
- * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
- * json : API Tokens : not present
- * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
- * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
- * json : Are you sure you would like to delete this API token? : not present
- * json : Are you sure you would like to leave this team? : not present
- * json : Are you sure you would like to remove this person from the team? : not present
+ * json : API Token Permissions
+ * json : API Token
+ * json : API tokens allow third-party services to authenticate with our application on your behalf.
+ * json : API Tokens
+ * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted.
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+ * json : Are you sure you would like to delete this API token?
+ * json : Are you sure you would like to leave this team?
+ * json : Are you sure you would like to remove this person from the team?
  * json : Before proceeding, please check your email for a verification link.
- * json : Browser Sessions : not present
+ * json : Browser Sessions
  * json : click here to request another
- * json : Close : not present
- * json : Code : not present
+ * json : Close
+ * json : Code
  * json : Confirm Password
- * json : Confirm : not present
- * json : Create a new team to collaborate with others on projects. : not present
- * json : Create API Token : not present
- * json : Create New Team : not present
- * json : Create Team : not present
- * json : Create : not present
- * json : Created. : not present
- * json : Current Password : not present
+ * json : Confirm
+ * json : Create a new team to collaborate with others on projects.
+ * json : Create API Token
+ * json : Create New Team
+ * json : Create Team
+ * json : Create
+ * json : Created.
+ * json : Current Password
  * json : Dashboard
- * json : Delete Account : not present
- * json : Delete API Token : not present
- * json : Delete Team : not present
- * json : Delete : not present
- * json : Disable : not present
- * json : Done. : not present
+ * json : Delete Account
+ * json : Delete API Token
+ * json : Delete Team
+ * json : Delete
+ * json : Disable
+ * json : Done.
  * json : E-Mail Address
- * json : Editor users have the ability to read, create, and update. : not present
- * json : Editor : not present
+ * json : Editor users have the ability to read, create, and update.
+ * json : Editor
  * json : Email Password Reset Link
  * json : Email
- * json : Enable : not present
- * json : Ensure your account is using a long, random password to stay secure. : not present
- * json : For your security, please confirm your password to continue. : not present
+ * json : Enable
+ * json : Ensure your account is using a long, random password to stay secure.
+ * json : For your security, please confirm your password to continue.
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
  * json : Forgot your password?
  * json : Go Home
- * json : Go to page :page : not present
+ * json : Go to page :page
  * json : Hello!
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password.
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you did not request a password reset, no further action is required.
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser:
  * json : Invalid signature.
- * json : Last active : not present
- * json : Last used : not present
- * json : Leave Team : not present
- * json : Leave : not present
+ * json : Last active
+ * json : Last used
+ * json : Leave Team
+ * json : Leave
  * json : Login
- * json : Logout Other Browser Sessions : not present
+ * json : Logout Other Browser Sessions
  * json : Logout
- * json : Manage Account : not present
- * json : Manage and logout your active sessions on other browsers and devices. : not present
- * json : Manage API Tokens : not present
- * json : Manage Role : not present
- * json : Manage Team : not present
+ * json : Manage Account
+ * json : Manage and logout your active sessions on other browsers and devices.
+ * json : Manage API Tokens
+ * json : Manage Role
+ * json : Manage Team
  * json : Name
- * json : Nevermind : not present
- * json : New Password : not present
+ * json : Nevermind
+ * json : New Password
  * json : Not Found
- * json : of : not present
+ * json : of
  * json : Oh no
- * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
- * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
+ * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain.
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.
  * json : Page Expired
- * json : Pagination Navigation : not present
+ * json : Pagination Navigation
  * json : Password
- * json : Permanently delete this team. : not present
- * json : Permanently delete your account. : not present
- * json : Permissions : not present
- * json : Photo : not present
+ * json : Permanently delete this team.
+ * json : Permanently delete your account.
+ * json : Permissions
+ * json : Photo
  * json : Please click the button below to verify your email address.
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
- * json : Please copy your new API token. For your security, it won't be shown again. : not present
- * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
- * json : Profile Information : not present
- * json : Profile : not present
- * json : Recovery Code : not present
+ * json : Please copy your new API token. For your security, it won't be shown again.
+ * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+ * json : Profile Information
+ * json : Profile
+ * json : Recovery Code
  * json : Regards
- * json : Regenerate Recovery Codes : not present
+ * json : Regenerate Recovery Codes
  * json : Register
  * json : Remember Me
- * json : Remember me : not present
- * json : Remove Photo : not present
- * json : Remove Team Member : not present
- * json : Remove : not present
+ * json : Remember me
+ * json : Remove Photo
+ * json : Remove Team Member
+ * json : Remove
  * json : Resend Verification Email
  * json : Reset Password Notification
  * json : Reset Password
- * json : results : not present
- * json : Role : not present
- * json : Save : not present
- * json : Saved. : not present
- * json : Select A New Photo : not present
+ * json : results
+ * json : Role
+ * json : Save
+ * json : Saved.
+ * json : Select A New Photo
  * json : Send Password Reset Link
  * json : Server Error
  * json : Service Unavailable
- * json : Show Recovery Codes : not present
- * json : Showing : not present
- * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
- * json : Switch Teams : not present
- * json : Team Details : not present
- * json : Team Members : not present
- * json : Team Name : not present
- * json : Team Owner : not present
- * json : Team Settings : not present
- * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
+ * json : Show Recovery Codes
+ * json : Showing
+ * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
+ * json : Switch Teams
+ * json : Team Details
+ * json : Team Members
+ * json : Team Name
+ * json : Team Owner
+ * json : Team Settings
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
- * json : The :attribute must be at least :length characters and contain at least one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
- * json : The :attribute must be at least :length characters. : not present
- * json : The provided password does not match your current password. : not present
- * json : The provided password was incorrect. : not present
- * json : The provided two factor authentication code was invalid. : not present
- * json : The team's name and owner information. : not present
+ * json : The :attribute must be at least :length characters and contain at least one number.
+ * json : The :attribute must be at least :length characters and contain at least one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character.
+ * json : The :attribute must be at least :length characters.
+ * json : The provided password does not match your current password.
+ * json : The provided password was incorrect.
+ * json : The provided two factor authentication code was invalid.
+ * json : The team's name and owner information.
  * json : This action is unauthorized.
- * json : This device : not present
+ * json : This device
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
  * json : This user already belongs to the team.
- * json : to : not present
+ * json : to
  * json : Toggle navigation
- * json : Token Name : not present
+ * json : Token Name
  * json : Too Many Attempts.
  * json : Too Many Requests
- * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application. : not present
- * json : Two Factor Authentication : not present
+ * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
+ * json : Two Factor Authentication
  * json : Unauthorized
- * json : Update Password : not present
- * json : Update your account's profile information and email address. : not present
+ * json : Update Password
+ * json : Update your account's profile information and email address.
  * json : Use a recovery code
  * json : Use an authentication code
  * json : Verify Email Address
  * json : Verify Your Email Address
  * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours.
- * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application. : not present
- * json : Whoops! Something went wrong. : not present
+ * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application.
+ * json : Whoops! Something went wrong.
  * json : Whoops!
  * json : You are logged in!
  * json : You are receiving this email because we received a password reset request for your account.
- * json : You have enabled two factor authentication. : not present
- * json : You have not enabled two factor authentication. : not present
- * json : You may delete any of your existing tokens if they are no longer needed. : not present
+ * json : You have enabled two factor authentication.
+ * json : You have not enabled two factor authentication.
+ * json : You may delete any of your existing tokens if they are no longer needed.
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified.
@@ -13088,125 +13087,125 @@ into your web browser:
 ## tr
 
 <details>
-<summary>show<small> (all missing: 201, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 201, including not present: 0)</small></summary>
 
- * json : Add a new team member to your team, allowing them to collaborate with you. : not present
- * json : Add additional security to your account using two factor authentication. : not present
- * json : Add Team Member : not present
- * json : Add : not present
- * json : Added. : not present
- * json : Administrator users can perform any action. : not present
- * json : Administrator : not present
- * json : All of the people that are part of this team. : not present
- * json : API Token Permissions : not present
- * json : API Token : not present
- * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
- * json : API Tokens : not present
- * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
- * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
- * json : Are you sure you would like to delete this API token? : not present
- * json : Are you sure you would like to leave this team? : not present
- * json : Are you sure you would like to remove this person from the team? : not present
- * json : Browser Sessions : not present
- * json : Close : not present
- * json : Code : not present
- * json : Confirm : not present
- * json : Create a new team to collaborate with others on projects. : not present
- * json : Create API Token : not present
- * json : Create New Team : not present
- * json : Create Team : not present
- * json : Create : not present
- * json : Created. : not present
- * json : Current Password : not present
+ * json : Add a new team member to your team, allowing them to collaborate with you.
+ * json : Add additional security to your account using two factor authentication.
+ * json : Add Team Member
+ * json : Add
+ * json : Added.
+ * json : Administrator users can perform any action.
+ * json : Administrator
+ * json : All of the people that are part of this team.
+ * json : API Token Permissions
+ * json : API Token
+ * json : API tokens allow third-party services to authenticate with our application on your behalf.
+ * json : API Tokens
+ * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted.
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+ * json : Are you sure you would like to delete this API token?
+ * json : Are you sure you would like to leave this team?
+ * json : Are you sure you would like to remove this person from the team?
+ * json : Browser Sessions
+ * json : Close
+ * json : Code
+ * json : Confirm
+ * json : Create a new team to collaborate with others on projects.
+ * json : Create API Token
+ * json : Create New Team
+ * json : Create Team
+ * json : Create
+ * json : Created.
+ * json : Current Password
  * json : Dashboard
- * json : Delete Account : not present
- * json : Delete API Token : not present
- * json : Delete Team : not present
- * json : Delete : not present
- * json : Disable : not present
- * json : Done. : not present
- * json : Editor users have the ability to read, create, and update. : not present
- * json : Editor : not present
- * json : Enable : not present
- * json : Ensure your account is using a long, random password to stay secure. : not present
- * json : For your security, please confirm your password to continue. : not present
- * json : Go to page :page : not present
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
- * json : Last active : not present
- * json : Last used : not present
- * json : Leave Team : not present
- * json : Leave : not present
- * json : Logout Other Browser Sessions : not present
- * json : Manage Account : not present
- * json : Manage and logout your active sessions on other browsers and devices. : not present
- * json : Manage API Tokens : not present
- * json : Manage Role : not present
- * json : Manage Team : not present
- * json : Nevermind : not present
- * json : New Password : not present
- * json : of : not present
- * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
- * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
- * json : Pagination Navigation : not present
- * json : Permanently delete this team. : not present
- * json : Permanently delete your account. : not present
- * json : Permissions : not present
- * json : Photo : not present
+ * json : Delete Account
+ * json : Delete API Token
+ * json : Delete Team
+ * json : Delete
+ * json : Disable
+ * json : Done.
+ * json : Editor users have the ability to read, create, and update.
+ * json : Editor
+ * json : Enable
+ * json : Ensure your account is using a long, random password to stay secure.
+ * json : For your security, please confirm your password to continue.
+ * json : Go to page :page
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password.
+ * json : Last active
+ * json : Last used
+ * json : Leave Team
+ * json : Leave
+ * json : Logout Other Browser Sessions
+ * json : Manage Account
+ * json : Manage and logout your active sessions on other browsers and devices.
+ * json : Manage API Tokens
+ * json : Manage Role
+ * json : Manage Team
+ * json : Nevermind
+ * json : New Password
+ * json : of
+ * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain.
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.
+ * json : Pagination Navigation
+ * json : Permanently delete this team.
+ * json : Permanently delete your account.
+ * json : Permissions
+ * json : Photo
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
- * json : Please copy your new API token. For your security, it won't be shown again. : not present
- * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
- * json : Profile Information : not present
- * json : Profile : not present
- * json : Recovery Code : not present
- * json : Regenerate Recovery Codes : not present
- * json : Remember me : not present
- * json : Remove Photo : not present
- * json : Remove Team Member : not present
- * json : Remove : not present
- * json : results : not present
- * json : Role : not present
- * json : Save : not present
- * json : Saved. : not present
- * json : Select A New Photo : not present
- * json : Show Recovery Codes : not present
- * json : Showing : not present
- * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
- * json : Switch Teams : not present
- * json : Team Details : not present
- * json : Team Members : not present
- * json : Team Name : not present
- * json : Team Owner : not present
- * json : Team Settings : not present
- * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
+ * json : Please copy your new API token. For your security, it won't be shown again.
+ * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+ * json : Profile Information
+ * json : Profile
+ * json : Recovery Code
+ * json : Regenerate Recovery Codes
+ * json : Remember me
+ * json : Remove Photo
+ * json : Remove Team Member
+ * json : Remove
+ * json : results
+ * json : Role
+ * json : Save
+ * json : Saved.
+ * json : Select A New Photo
+ * json : Show Recovery Codes
+ * json : Showing
+ * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
+ * json : Switch Teams
+ * json : Team Details
+ * json : Team Members
+ * json : Team Name
+ * json : Team Owner
+ * json : Team Settings
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
- * json : The :attribute must be at least :length characters and contain at least one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
- * json : The :attribute must be at least :length characters. : not present
- * json : The provided password does not match your current password. : not present
- * json : The provided password was incorrect. : not present
- * json : The provided two factor authentication code was invalid. : not present
- * json : The team's name and owner information. : not present
- * json : This device : not present
+ * json : The :attribute must be at least :length characters and contain at least one number.
+ * json : The :attribute must be at least :length characters and contain at least one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character.
+ * json : The :attribute must be at least :length characters.
+ * json : The provided password does not match your current password.
+ * json : The provided password was incorrect.
+ * json : The provided two factor authentication code was invalid.
+ * json : The team's name and owner information.
+ * json : This device
  * json : This user already belongs to the team.
- * json : to : not present
- * json : Token Name : not present
- * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application. : not present
- * json : Two Factor Authentication : not present
- * json : Update Password : not present
- * json : Update your account's profile information and email address. : not present
+ * json : to
+ * json : Token Name
+ * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
+ * json : Two Factor Authentication
+ * json : Update Password
+ * json : Update your account's profile information and email address.
  * json : Use an authentication code
  * json : We were unable to find a registered user with this email address.
- * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application. : not present
- * json : Whoops! Something went wrong. : not present
+ * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application.
+ * json : Whoops! Something went wrong.
  * json : You are logged in!
- * json : You have enabled two factor authentication. : not present
- * json : You have not enabled two factor authentication. : not present
- * json : You may delete any of your existing tokens if they are no longer needed. : not present
+ * json : You have enabled two factor authentication.
+ * json : You have not enabled two factor authentication.
+ * json : You may delete any of your existing tokens if they are no longer needed.
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * validation-inline : accepted
@@ -13298,179 +13297,179 @@ into your web browser:
 ## ug
 
 <details>
-<summary>show<small> (all missing: 284, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 284, including not present: 0)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
- * json : Add a new team member to your team, allowing them to collaborate with you. : not present
- * json : Add additional security to your account using two factor authentication. : not present
- * json : Add Team Member : not present
- * json : Add : not present
- * json : Added. : not present
- * json : Administrator users can perform any action. : not present
- * json : Administrator : not present
- * json : All of the people that are part of this team. : not present
+ * json : Add a new team member to your team, allowing them to collaborate with you.
+ * json : Add additional security to your account using two factor authentication.
+ * json : Add Team Member
+ * json : Add
+ * json : Added.
+ * json : Administrator users can perform any action.
+ * json : Administrator
+ * json : All of the people that are part of this team.
  * json : All rights reserved.
  * json : Already registered?
- * json : API Token Permissions : not present
- * json : API Token : not present
- * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
- * json : API Tokens : not present
- * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
- * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
- * json : Are you sure you would like to delete this API token? : not present
- * json : Are you sure you would like to leave this team? : not present
- * json : Are you sure you would like to remove this person from the team? : not present
+ * json : API Token Permissions
+ * json : API Token
+ * json : API tokens allow third-party services to authenticate with our application on your behalf.
+ * json : API Tokens
+ * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted.
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+ * json : Are you sure you would like to delete this API token?
+ * json : Are you sure you would like to leave this team?
+ * json : Are you sure you would like to remove this person from the team?
  * json : Before proceeding, please check your email for a verification link.
- * json : Browser Sessions : not present
+ * json : Browser Sessions
  * json : click here to request another
- * json : Close : not present
- * json : Code : not present
+ * json : Close
+ * json : Code
  * json : Confirm Password
- * json : Confirm : not present
- * json : Create a new team to collaborate with others on projects. : not present
- * json : Create API Token : not present
- * json : Create New Team : not present
- * json : Create Team : not present
- * json : Create : not present
- * json : Created. : not present
- * json : Current Password : not present
+ * json : Confirm
+ * json : Create a new team to collaborate with others on projects.
+ * json : Create API Token
+ * json : Create New Team
+ * json : Create Team
+ * json : Create
+ * json : Created.
+ * json : Current Password
  * json : Dashboard
- * json : Delete Account : not present
- * json : Delete API Token : not present
- * json : Delete Team : not present
- * json : Delete : not present
- * json : Disable : not present
- * json : Done. : not present
+ * json : Delete Account
+ * json : Delete API Token
+ * json : Delete Team
+ * json : Delete
+ * json : Disable
+ * json : Done.
  * json : E-Mail Address
- * json : Editor users have the ability to read, create, and update. : not present
- * json : Editor : not present
+ * json : Editor users have the ability to read, create, and update.
+ * json : Editor
  * json : Email Password Reset Link
  * json : Email
- * json : Enable : not present
- * json : Ensure your account is using a long, random password to stay secure. : not present
- * json : For your security, please confirm your password to continue. : not present
+ * json : Enable
+ * json : Ensure your account is using a long, random password to stay secure.
+ * json : For your security, please confirm your password to continue.
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
  * json : Forgot your password?
  * json : Go Home
- * json : Go to page :page : not present
+ * json : Go to page :page
  * json : Hello!
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password.
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you did not request a password reset, no further action is required.
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser:
  * json : Invalid signature.
- * json : Last active : not present
- * json : Last used : not present
- * json : Leave Team : not present
- * json : Leave : not present
+ * json : Last active
+ * json : Last used
+ * json : Leave Team
+ * json : Leave
  * json : Login
- * json : Logout Other Browser Sessions : not present
+ * json : Logout Other Browser Sessions
  * json : Logout
- * json : Manage Account : not present
- * json : Manage and logout your active sessions on other browsers and devices. : not present
- * json : Manage API Tokens : not present
- * json : Manage Role : not present
- * json : Manage Team : not present
+ * json : Manage Account
+ * json : Manage and logout your active sessions on other browsers and devices.
+ * json : Manage API Tokens
+ * json : Manage Role
+ * json : Manage Team
  * json : Name
- * json : Nevermind : not present
- * json : New Password : not present
+ * json : Nevermind
+ * json : New Password
  * json : Not Found
- * json : of : not present
+ * json : of
  * json : Oh no
- * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
- * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
+ * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain.
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.
  * json : Page Expired
- * json : Pagination Navigation : not present
+ * json : Pagination Navigation
  * json : Password
- * json : Permanently delete this team. : not present
- * json : Permanently delete your account. : not present
- * json : Permissions : not present
- * json : Photo : not present
+ * json : Permanently delete this team.
+ * json : Permanently delete your account.
+ * json : Permissions
+ * json : Photo
  * json : Please click the button below to verify your email address.
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
- * json : Please copy your new API token. For your security, it won't be shown again. : not present
- * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
- * json : Profile Information : not present
- * json : Profile : not present
- * json : Recovery Code : not present
+ * json : Please copy your new API token. For your security, it won't be shown again.
+ * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+ * json : Profile Information
+ * json : Profile
+ * json : Recovery Code
  * json : Regards
- * json : Regenerate Recovery Codes : not present
+ * json : Regenerate Recovery Codes
  * json : Register
  * json : Remember Me
- * json : Remember me : not present
- * json : Remove Photo : not present
- * json : Remove Team Member : not present
- * json : Remove : not present
+ * json : Remember me
+ * json : Remove Photo
+ * json : Remove Team Member
+ * json : Remove
  * json : Resend Verification Email
  * json : Reset Password Notification
  * json : Reset Password
- * json : results : not present
- * json : Role : not present
- * json : Save : not present
- * json : Saved. : not present
- * json : Select A New Photo : not present
+ * json : results
+ * json : Role
+ * json : Save
+ * json : Saved.
+ * json : Select A New Photo
  * json : Send Password Reset Link
  * json : Server Error
  * json : Service Unavailable
- * json : Show Recovery Codes : not present
- * json : Showing : not present
- * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
- * json : Switch Teams : not present
- * json : Team Details : not present
- * json : Team Members : not present
- * json : Team Name : not present
- * json : Team Owner : not present
- * json : Team Settings : not present
- * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
+ * json : Show Recovery Codes
+ * json : Showing
+ * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
+ * json : Switch Teams
+ * json : Team Details
+ * json : Team Members
+ * json : Team Name
+ * json : Team Owner
+ * json : Team Settings
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
- * json : The :attribute must be at least :length characters and contain at least one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
- * json : The :attribute must be at least :length characters. : not present
- * json : The provided password does not match your current password. : not present
- * json : The provided password was incorrect. : not present
- * json : The provided two factor authentication code was invalid. : not present
- * json : The team's name and owner information. : not present
+ * json : The :attribute must be at least :length characters and contain at least one number.
+ * json : The :attribute must be at least :length characters and contain at least one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character.
+ * json : The :attribute must be at least :length characters.
+ * json : The provided password does not match your current password.
+ * json : The provided password was incorrect.
+ * json : The provided two factor authentication code was invalid.
+ * json : The team's name and owner information.
  * json : This action is unauthorized.
- * json : This device : not present
+ * json : This device
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
  * json : This user already belongs to the team.
- * json : to : not present
+ * json : to
  * json : Toggle navigation
- * json : Token Name : not present
+ * json : Token Name
  * json : Too Many Attempts.
  * json : Too Many Requests
- * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application. : not present
- * json : Two Factor Authentication : not present
+ * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
+ * json : Two Factor Authentication
  * json : Unauthorized
- * json : Update Password : not present
- * json : Update your account's profile information and email address. : not present
+ * json : Update Password
+ * json : Update your account's profile information and email address.
  * json : Use a recovery code
  * json : Use an authentication code
  * json : Verify Email Address
  * json : Verify Your Email Address
  * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours.
- * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application. : not present
- * json : Whoops! Something went wrong. : not present
+ * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application.
+ * json : Whoops! Something went wrong.
  * json : Whoops!
  * json : You are logged in!
  * json : You are receiving this email because we received a password reset request for your account.
- * json : You have enabled two factor authentication. : not present
- * json : You have not enabled two factor authentication. : not present
- * json : You may delete any of your existing tokens if they are no longer needed. : not present
+ * json : You have enabled two factor authentication.
+ * json : You have not enabled two factor authentication.
+ * json : You may delete any of your existing tokens if they are no longer needed.
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified.
@@ -13592,133 +13591,133 @@ into your web browser:
 ## uk
 
 <details>
-<summary>show<small> (all missing: 127, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 127, including not present: 0)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
- * json : Add a new team member to your team, allowing them to collaborate with you. : not present
- * json : Add additional security to your account using two factor authentication. : not present
- * json : Add Team Member : not present
- * json : Add : not present
- * json : Added. : not present
- * json : Administrator users can perform any action. : not present
- * json : Administrator : not present
- * json : All of the people that are part of this team. : not present
+ * json : Add a new team member to your team, allowing them to collaborate with you.
+ * json : Add additional security to your account using two factor authentication.
+ * json : Add Team Member
+ * json : Add
+ * json : Added.
+ * json : Administrator users can perform any action.
+ * json : Administrator
+ * json : All of the people that are part of this team.
  * json : Already registered?
- * json : API Token Permissions : not present
- * json : API Token : not present
- * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
- * json : API Tokens : not present
- * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
- * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
- * json : Are you sure you would like to delete this API token? : not present
- * json : Are you sure you would like to leave this team? : not present
- * json : Are you sure you would like to remove this person from the team? : not present
- * json : Browser Sessions : not present
- * json : Close : not present
- * json : Code : not present
- * json : Confirm : not present
- * json : Create a new team to collaborate with others on projects. : not present
- * json : Create API Token : not present
- * json : Create New Team : not present
- * json : Create Team : not present
- * json : Create : not present
- * json : Created. : not present
- * json : Current Password : not present
- * json : Delete Account : not present
- * json : Delete API Token : not present
- * json : Delete Team : not present
- * json : Delete : not present
- * json : Disable : not present
- * json : Done. : not present
- * json : Editor users have the ability to read, create, and update. : not present
- * json : Editor : not present
+ * json : API Token Permissions
+ * json : API Token
+ * json : API tokens allow third-party services to authenticate with our application on your behalf.
+ * json : API Tokens
+ * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted.
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+ * json : Are you sure you would like to delete this API token?
+ * json : Are you sure you would like to leave this team?
+ * json : Are you sure you would like to remove this person from the team?
+ * json : Browser Sessions
+ * json : Close
+ * json : Code
+ * json : Confirm
+ * json : Create a new team to collaborate with others on projects.
+ * json : Create API Token
+ * json : Create New Team
+ * json : Create Team
+ * json : Create
+ * json : Created.
+ * json : Current Password
+ * json : Delete Account
+ * json : Delete API Token
+ * json : Delete Team
+ * json : Delete
+ * json : Disable
+ * json : Done.
+ * json : Editor users have the ability to read, create, and update.
+ * json : Editor
  * json : Email Password Reset Link
  * json : Email
- * json : Enable : not present
- * json : Ensure your account is using a long, random password to stay secure. : not present
- * json : For your security, please confirm your password to continue. : not present
+ * json : Enable
+ * json : Ensure your account is using a long, random password to stay secure.
+ * json : For your security, please confirm your password to continue.
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
- * json : Go to page :page : not present
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
- * json : Last active : not present
- * json : Last used : not present
- * json : Leave Team : not present
- * json : Leave : not present
- * json : Logout Other Browser Sessions : not present
- * json : Manage Account : not present
- * json : Manage and logout your active sessions on other browsers and devices. : not present
- * json : Manage API Tokens : not present
- * json : Manage Role : not present
- * json : Manage Team : not present
- * json : Nevermind : not present
- * json : New Password : not present
- * json : of : not present
- * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
- * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
- * json : Pagination Navigation : not present
- * json : Permanently delete this team. : not present
- * json : Permanently delete your account. : not present
- * json : Permissions : not present
- * json : Photo : not present
+ * json : Go to page :page
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password.
+ * json : Last active
+ * json : Last used
+ * json : Leave Team
+ * json : Leave
+ * json : Logout Other Browser Sessions
+ * json : Manage Account
+ * json : Manage and logout your active sessions on other browsers and devices.
+ * json : Manage API Tokens
+ * json : Manage Role
+ * json : Manage Team
+ * json : Nevermind
+ * json : New Password
+ * json : of
+ * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain.
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.
+ * json : Pagination Navigation
+ * json : Permanently delete this team.
+ * json : Permanently delete your account.
+ * json : Permissions
+ * json : Photo
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
- * json : Please copy your new API token. For your security, it won't be shown again. : not present
- * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
- * json : Profile Information : not present
- * json : Profile : not present
- * json : Recovery Code : not present
- * json : Regenerate Recovery Codes : not present
- * json : Remember me : not present
- * json : Remove Photo : not present
- * json : Remove Team Member : not present
- * json : Remove : not present
+ * json : Please copy your new API token. For your security, it won't be shown again.
+ * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+ * json : Profile Information
+ * json : Profile
+ * json : Recovery Code
+ * json : Regenerate Recovery Codes
+ * json : Remember me
+ * json : Remove Photo
+ * json : Remove Team Member
+ * json : Remove
  * json : Resend Verification Email
- * json : results : not present
- * json : Role : not present
- * json : Save : not present
- * json : Saved. : not present
- * json : Select A New Photo : not present
- * json : Show Recovery Codes : not present
- * json : Showing : not present
- * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
- * json : Switch Teams : not present
- * json : Team Details : not present
- * json : Team Members : not present
- * json : Team Name : not present
- * json : Team Owner : not present
- * json : Team Settings : not present
- * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
+ * json : results
+ * json : Role
+ * json : Save
+ * json : Saved.
+ * json : Select A New Photo
+ * json : Show Recovery Codes
+ * json : Showing
+ * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
+ * json : Switch Teams
+ * json : Team Details
+ * json : Team Members
+ * json : Team Name
+ * json : Team Owner
+ * json : Team Settings
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
- * json : The :attribute must be at least :length characters and contain at least one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
- * json : The :attribute must be at least :length characters. : not present
- * json : The provided password does not match your current password. : not present
- * json : The provided password was incorrect. : not present
- * json : The provided two factor authentication code was invalid. : not present
- * json : The team's name and owner information. : not present
- * json : This device : not present
+ * json : The :attribute must be at least :length characters and contain at least one number.
+ * json : The :attribute must be at least :length characters and contain at least one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character.
+ * json : The :attribute must be at least :length characters.
+ * json : The provided password does not match your current password.
+ * json : The provided password was incorrect.
+ * json : The provided two factor authentication code was invalid.
+ * json : The team's name and owner information.
+ * json : This device
  * json : This password does not match our records.
  * json : This user already belongs to the team.
- * json : to : not present
- * json : Token Name : not present
- * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application. : not present
- * json : Two Factor Authentication : not present
- * json : Update Password : not present
- * json : Update your account's profile information and email address. : not present
+ * json : to
+ * json : Token Name
+ * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
+ * json : Two Factor Authentication
+ * json : Update Password
+ * json : Update your account's profile information and email address.
  * json : Use a recovery code
  * json : Use an authentication code
  * json : We were unable to find a registered user with this email address.
- * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application. : not present
- * json : Whoops! Something went wrong. : not present
- * json : You have enabled two factor authentication. : not present
- * json : You have not enabled two factor authentication. : not present
- * json : You may delete any of your existing tokens if they are no longer needed. : not present
+ * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application.
+ * json : Whoops! Something went wrong.
+ * json : You have enabled two factor authentication.
+ * json : You have not enabled two factor authentication.
+ * json : You may delete any of your existing tokens if they are no longer needed.
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
 
@@ -13728,165 +13727,165 @@ into your web browser:
 ## ur
 
 <details>
-<summary>show<small> (all missing: 278, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 278, including not present: 0)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
- * json : Add a new team member to your team, allowing them to collaborate with you. : not present
- * json : Add additional security to your account using two factor authentication. : not present
- * json : Add Team Member : not present
- * json : Add : not present
- * json : Added. : not present
- * json : Administrator users can perform any action. : not present
- * json : Administrator : not present
- * json : All of the people that are part of this team. : not present
+ * json : Add a new team member to your team, allowing them to collaborate with you.
+ * json : Add additional security to your account using two factor authentication.
+ * json : Add Team Member
+ * json : Add
+ * json : Added.
+ * json : Administrator users can perform any action.
+ * json : Administrator
+ * json : All of the people that are part of this team.
  * json : All rights reserved.
  * json : Already registered?
- * json : API Token Permissions : not present
- * json : API Token : not present
- * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
- * json : API Tokens : not present
- * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
- * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
- * json : Are you sure you would like to delete this API token? : not present
- * json : Are you sure you would like to leave this team? : not present
- * json : Are you sure you would like to remove this person from the team? : not present
+ * json : API Token Permissions
+ * json : API Token
+ * json : API tokens allow third-party services to authenticate with our application on your behalf.
+ * json : API Tokens
+ * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted.
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+ * json : Are you sure you would like to delete this API token?
+ * json : Are you sure you would like to leave this team?
+ * json : Are you sure you would like to remove this person from the team?
  * json : Before proceeding, please check your email for a verification link.
- * json : Browser Sessions : not present
+ * json : Browser Sessions
  * json : click here to request another
- * json : Close : not present
- * json : Code : not present
- * json : Confirm : not present
- * json : Create a new team to collaborate with others on projects. : not present
- * json : Create API Token : not present
- * json : Create New Team : not present
- * json : Create Team : not present
- * json : Create : not present
- * json : Created. : not present
- * json : Current Password : not present
+ * json : Close
+ * json : Code
+ * json : Confirm
+ * json : Create a new team to collaborate with others on projects.
+ * json : Create API Token
+ * json : Create New Team
+ * json : Create Team
+ * json : Create
+ * json : Created.
+ * json : Current Password
  * json : Dashboard
- * json : Delete Account : not present
- * json : Delete API Token : not present
- * json : Delete Team : not present
- * json : Delete : not present
- * json : Disable : not present
- * json : Done. : not present
- * json : Editor users have the ability to read, create, and update. : not present
- * json : Editor : not present
+ * json : Delete Account
+ * json : Delete API Token
+ * json : Delete Team
+ * json : Delete
+ * json : Disable
+ * json : Done.
+ * json : Editor users have the ability to read, create, and update.
+ * json : Editor
  * json : Email Password Reset Link
  * json : Email
- * json : Enable : not present
- * json : Ensure your account is using a long, random password to stay secure. : not present
- * json : For your security, please confirm your password to continue. : not present
+ * json : Enable
+ * json : Ensure your account is using a long, random password to stay secure.
+ * json : For your security, please confirm your password to continue.
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
  * json : Go Home
- * json : Go to page :page : not present
+ * json : Go to page :page
  * json : Hello!
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password.
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser:
  * json : Invalid signature.
- * json : Last active : not present
- * json : Last used : not present
- * json : Leave Team : not present
- * json : Leave : not present
- * json : Logout Other Browser Sessions : not present
- * json : Manage Account : not present
- * json : Manage and logout your active sessions on other browsers and devices. : not present
- * json : Manage API Tokens : not present
- * json : Manage Role : not present
- * json : Manage Team : not present
- * json : Nevermind : not present
- * json : New Password : not present
+ * json : Last active
+ * json : Last used
+ * json : Leave Team
+ * json : Leave
+ * json : Logout Other Browser Sessions
+ * json : Manage Account
+ * json : Manage and logout your active sessions on other browsers and devices.
+ * json : Manage API Tokens
+ * json : Manage Role
+ * json : Manage Team
+ * json : Nevermind
+ * json : New Password
  * json : Not Found
- * json : of : not present
+ * json : of
  * json : Oh no
- * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
- * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
+ * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain.
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.
  * json : Page Expired
- * json : Pagination Navigation : not present
- * json : Permanently delete this team. : not present
- * json : Permanently delete your account. : not present
- * json : Permissions : not present
- * json : Photo : not present
+ * json : Pagination Navigation
+ * json : Permanently delete this team.
+ * json : Permanently delete your account.
+ * json : Permissions
+ * json : Photo
  * json : Please click the button below to verify your email address.
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
- * json : Please copy your new API token. For your security, it won't be shown again. : not present
- * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
- * json : Profile Information : not present
- * json : Profile : not present
- * json : Recovery Code : not present
+ * json : Please copy your new API token. For your security, it won't be shown again.
+ * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+ * json : Profile Information
+ * json : Profile
+ * json : Recovery Code
  * json : Regards
- * json : Regenerate Recovery Codes : not present
- * json : Remember me : not present
- * json : Remove Photo : not present
- * json : Remove Team Member : not present
- * json : Remove : not present
+ * json : Regenerate Recovery Codes
+ * json : Remember me
+ * json : Remove Photo
+ * json : Remove Team Member
+ * json : Remove
  * json : Resend Verification Email
- * json : results : not present
- * json : Role : not present
- * json : Save : not present
- * json : Saved. : not present
- * json : Select A New Photo : not present
+ * json : results
+ * json : Role
+ * json : Save
+ * json : Saved.
+ * json : Select A New Photo
  * json : Server Error
  * json : Service Unavailable
- * json : Show Recovery Codes : not present
- * json : Showing : not present
- * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
- * json : Switch Teams : not present
- * json : Team Details : not present
- * json : Team Members : not present
- * json : Team Name : not present
- * json : Team Owner : not present
- * json : Team Settings : not present
- * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
+ * json : Show Recovery Codes
+ * json : Showing
+ * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
+ * json : Switch Teams
+ * json : Team Details
+ * json : Team Members
+ * json : Team Name
+ * json : Team Owner
+ * json : Team Settings
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
- * json : The :attribute must be at least :length characters and contain at least one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
- * json : The :attribute must be at least :length characters. : not present
- * json : The provided password does not match your current password. : not present
- * json : The provided password was incorrect. : not present
- * json : The provided two factor authentication code was invalid. : not present
- * json : The team's name and owner information. : not present
+ * json : The :attribute must be at least :length characters and contain at least one number.
+ * json : The :attribute must be at least :length characters and contain at least one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character.
+ * json : The :attribute must be at least :length characters.
+ * json : The provided password does not match your current password.
+ * json : The provided password was incorrect.
+ * json : The provided two factor authentication code was invalid.
+ * json : The team's name and owner information.
  * json : This action is unauthorized.
- * json : This device : not present
+ * json : This device
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
  * json : This user already belongs to the team.
- * json : to : not present
+ * json : to
  * json : Toggle navigation
- * json : Token Name : not present
+ * json : Token Name
  * json : Too Many Attempts.
  * json : Too Many Requests
- * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application. : not present
- * json : Two Factor Authentication : not present
+ * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
+ * json : Two Factor Authentication
  * json : Unauthorized
- * json : Update Password : not present
- * json : Update your account's profile information and email address. : not present
+ * json : Update Password
+ * json : Update your account's profile information and email address.
  * json : Use a recovery code
  * json : Use an authentication code
  * json : Verify Email Address
  * json : Verify Your Email Address
  * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours.
- * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application. : not present
- * json : Whoops! Something went wrong. : not present
+ * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application.
+ * json : Whoops! Something went wrong.
  * json : Whoops!
  * json : You are logged in!
- * json : You have enabled two factor authentication. : not present
- * json : You have not enabled two factor authentication. : not present
- * json : You may delete any of your existing tokens if they are no longer needed. : not present
+ * json : You have enabled two factor authentication.
+ * json : You have not enabled two factor authentication.
+ * json : You may delete any of your existing tokens if they are no longer needed.
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified.
@@ -14016,179 +14015,179 @@ into your web browser:
 ## uz_Cyrillic
 
 <details>
-<summary>show<small> (all missing: 261, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 261, including not present: 0)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
- * json : Add a new team member to your team, allowing them to collaborate with you. : not present
- * json : Add additional security to your account using two factor authentication. : not present
- * json : Add Team Member : not present
- * json : Add : not present
- * json : Added. : not present
- * json : Administrator users can perform any action. : not present
- * json : Administrator : not present
- * json : All of the people that are part of this team. : not present
+ * json : Add a new team member to your team, allowing them to collaborate with you.
+ * json : Add additional security to your account using two factor authentication.
+ * json : Add Team Member
+ * json : Add
+ * json : Added.
+ * json : Administrator users can perform any action.
+ * json : Administrator
+ * json : All of the people that are part of this team.
  * json : All rights reserved.
  * json : Already registered?
- * json : API Token Permissions : not present
- * json : API Token : not present
- * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
- * json : API Tokens : not present
- * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
- * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
- * json : Are you sure you would like to delete this API token? : not present
- * json : Are you sure you would like to leave this team? : not present
- * json : Are you sure you would like to remove this person from the team? : not present
+ * json : API Token Permissions
+ * json : API Token
+ * json : API tokens allow third-party services to authenticate with our application on your behalf.
+ * json : API Tokens
+ * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted.
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+ * json : Are you sure you would like to delete this API token?
+ * json : Are you sure you would like to leave this team?
+ * json : Are you sure you would like to remove this person from the team?
  * json : Before proceeding, please check your email for a verification link.
- * json : Browser Sessions : not present
+ * json : Browser Sessions
  * json : click here to request another
- * json : Close : not present
- * json : Code : not present
+ * json : Close
+ * json : Code
  * json : Confirm Password
- * json : Confirm : not present
- * json : Create a new team to collaborate with others on projects. : not present
- * json : Create API Token : not present
- * json : Create New Team : not present
- * json : Create Team : not present
- * json : Create : not present
- * json : Created. : not present
- * json : Current Password : not present
+ * json : Confirm
+ * json : Create a new team to collaborate with others on projects.
+ * json : Create API Token
+ * json : Create New Team
+ * json : Create Team
+ * json : Create
+ * json : Created.
+ * json : Current Password
  * json : Dashboard
- * json : Delete Account : not present
- * json : Delete API Token : not present
- * json : Delete Team : not present
- * json : Delete : not present
- * json : Disable : not present
- * json : Done. : not present
+ * json : Delete Account
+ * json : Delete API Token
+ * json : Delete Team
+ * json : Delete
+ * json : Disable
+ * json : Done.
  * json : E-Mail Address
- * json : Editor users have the ability to read, create, and update. : not present
- * json : Editor : not present
+ * json : Editor users have the ability to read, create, and update.
+ * json : Editor
  * json : Email Password Reset Link
  * json : Email
- * json : Enable : not present
- * json : Ensure your account is using a long, random password to stay secure. : not present
- * json : For your security, please confirm your password to continue. : not present
+ * json : Enable
+ * json : Ensure your account is using a long, random password to stay secure.
+ * json : For your security, please confirm your password to continue.
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
  * json : Forgot your password?
  * json : Go Home
- * json : Go to page :page : not present
+ * json : Go to page :page
  * json : Hello!
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password.
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you did not request a password reset, no further action is required.
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser:
  * json : Invalid signature.
- * json : Last active : not present
- * json : Last used : not present
- * json : Leave Team : not present
- * json : Leave : not present
+ * json : Last active
+ * json : Last used
+ * json : Leave Team
+ * json : Leave
  * json : Login
- * json : Logout Other Browser Sessions : not present
+ * json : Logout Other Browser Sessions
  * json : Logout
- * json : Manage Account : not present
- * json : Manage and logout your active sessions on other browsers and devices. : not present
- * json : Manage API Tokens : not present
- * json : Manage Role : not present
- * json : Manage Team : not present
+ * json : Manage Account
+ * json : Manage and logout your active sessions on other browsers and devices.
+ * json : Manage API Tokens
+ * json : Manage Role
+ * json : Manage Team
  * json : Name
- * json : Nevermind : not present
- * json : New Password : not present
+ * json : Nevermind
+ * json : New Password
  * json : Not Found
- * json : of : not present
+ * json : of
  * json : Oh no
- * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
- * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
+ * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain.
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.
  * json : Page Expired
- * json : Pagination Navigation : not present
+ * json : Pagination Navigation
  * json : Password
- * json : Permanently delete this team. : not present
- * json : Permanently delete your account. : not present
- * json : Permissions : not present
- * json : Photo : not present
+ * json : Permanently delete this team.
+ * json : Permanently delete your account.
+ * json : Permissions
+ * json : Photo
  * json : Please click the button below to verify your email address.
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
- * json : Please copy your new API token. For your security, it won't be shown again. : not present
- * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
- * json : Profile Information : not present
- * json : Profile : not present
- * json : Recovery Code : not present
+ * json : Please copy your new API token. For your security, it won't be shown again.
+ * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+ * json : Profile Information
+ * json : Profile
+ * json : Recovery Code
  * json : Regards
- * json : Regenerate Recovery Codes : not present
+ * json : Regenerate Recovery Codes
  * json : Register
  * json : Remember Me
- * json : Remember me : not present
- * json : Remove Photo : not present
- * json : Remove Team Member : not present
- * json : Remove : not present
+ * json : Remember me
+ * json : Remove Photo
+ * json : Remove Team Member
+ * json : Remove
  * json : Resend Verification Email
  * json : Reset Password Notification
  * json : Reset Password
- * json : results : not present
- * json : Role : not present
- * json : Save : not present
- * json : Saved. : not present
- * json : Select A New Photo : not present
+ * json : results
+ * json : Role
+ * json : Save
+ * json : Saved.
+ * json : Select A New Photo
  * json : Send Password Reset Link
  * json : Server Error
  * json : Service Unavailable
- * json : Show Recovery Codes : not present
- * json : Showing : not present
- * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
- * json : Switch Teams : not present
- * json : Team Details : not present
- * json : Team Members : not present
- * json : Team Name : not present
- * json : Team Owner : not present
- * json : Team Settings : not present
- * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
+ * json : Show Recovery Codes
+ * json : Showing
+ * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
+ * json : Switch Teams
+ * json : Team Details
+ * json : Team Members
+ * json : Team Name
+ * json : Team Owner
+ * json : Team Settings
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
- * json : The :attribute must be at least :length characters and contain at least one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
- * json : The :attribute must be at least :length characters. : not present
- * json : The provided password does not match your current password. : not present
- * json : The provided password was incorrect. : not present
- * json : The provided two factor authentication code was invalid. : not present
- * json : The team's name and owner information. : not present
+ * json : The :attribute must be at least :length characters and contain at least one number.
+ * json : The :attribute must be at least :length characters and contain at least one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character.
+ * json : The :attribute must be at least :length characters.
+ * json : The provided password does not match your current password.
+ * json : The provided password was incorrect.
+ * json : The provided two factor authentication code was invalid.
+ * json : The team's name and owner information.
  * json : This action is unauthorized.
- * json : This device : not present
+ * json : This device
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
  * json : This user already belongs to the team.
- * json : to : not present
+ * json : to
  * json : Toggle navigation
- * json : Token Name : not present
+ * json : Token Name
  * json : Too Many Attempts.
  * json : Too Many Requests
- * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application. : not present
- * json : Two Factor Authentication : not present
+ * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
+ * json : Two Factor Authentication
  * json : Unauthorized
- * json : Update Password : not present
- * json : Update your account's profile information and email address. : not present
+ * json : Update Password
+ * json : Update your account's profile information and email address.
  * json : Use a recovery code
  * json : Use an authentication code
  * json : Verify Email Address
  * json : Verify Your Email Address
  * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours.
- * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application. : not present
- * json : Whoops! Something went wrong. : not present
+ * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application.
+ * json : Whoops! Something went wrong.
  * json : Whoops!
  * json : You are logged in!
  * json : You are receiving this email because we received a password reset request for your account.
- * json : You have enabled two factor authentication. : not present
- * json : You have not enabled two factor authentication. : not present
- * json : You may delete any of your existing tokens if they are no longer needed. : not present
+ * json : You have enabled two factor authentication.
+ * json : You have not enabled two factor authentication.
+ * json : You may delete any of your existing tokens if they are no longer needed.
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified.
@@ -14287,179 +14286,179 @@ into your web browser:
 ## uz_Latin
 
 <details>
-<summary>show<small> (all missing: 261, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 261, including not present: 0)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
- * json : Add a new team member to your team, allowing them to collaborate with you. : not present
- * json : Add additional security to your account using two factor authentication. : not present
- * json : Add Team Member : not present
- * json : Add : not present
- * json : Added. : not present
- * json : Administrator users can perform any action. : not present
- * json : Administrator : not present
- * json : All of the people that are part of this team. : not present
+ * json : Add a new team member to your team, allowing them to collaborate with you.
+ * json : Add additional security to your account using two factor authentication.
+ * json : Add Team Member
+ * json : Add
+ * json : Added.
+ * json : Administrator users can perform any action.
+ * json : Administrator
+ * json : All of the people that are part of this team.
  * json : All rights reserved.
  * json : Already registered?
- * json : API Token Permissions : not present
- * json : API Token : not present
- * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
- * json : API Tokens : not present
- * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
- * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
- * json : Are you sure you would like to delete this API token? : not present
- * json : Are you sure you would like to leave this team? : not present
- * json : Are you sure you would like to remove this person from the team? : not present
+ * json : API Token Permissions
+ * json : API Token
+ * json : API tokens allow third-party services to authenticate with our application on your behalf.
+ * json : API Tokens
+ * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted.
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+ * json : Are you sure you would like to delete this API token?
+ * json : Are you sure you would like to leave this team?
+ * json : Are you sure you would like to remove this person from the team?
  * json : Before proceeding, please check your email for a verification link.
- * json : Browser Sessions : not present
+ * json : Browser Sessions
  * json : click here to request another
- * json : Close : not present
- * json : Code : not present
+ * json : Close
+ * json : Code
  * json : Confirm Password
- * json : Confirm : not present
- * json : Create a new team to collaborate with others on projects. : not present
- * json : Create API Token : not present
- * json : Create New Team : not present
- * json : Create Team : not present
- * json : Create : not present
- * json : Created. : not present
- * json : Current Password : not present
+ * json : Confirm
+ * json : Create a new team to collaborate with others on projects.
+ * json : Create API Token
+ * json : Create New Team
+ * json : Create Team
+ * json : Create
+ * json : Created.
+ * json : Current Password
  * json : Dashboard
- * json : Delete Account : not present
- * json : Delete API Token : not present
- * json : Delete Team : not present
- * json : Delete : not present
- * json : Disable : not present
- * json : Done. : not present
+ * json : Delete Account
+ * json : Delete API Token
+ * json : Delete Team
+ * json : Delete
+ * json : Disable
+ * json : Done.
  * json : E-Mail Address
- * json : Editor users have the ability to read, create, and update. : not present
- * json : Editor : not present
+ * json : Editor users have the ability to read, create, and update.
+ * json : Editor
  * json : Email Password Reset Link
  * json : Email
- * json : Enable : not present
- * json : Ensure your account is using a long, random password to stay secure. : not present
- * json : For your security, please confirm your password to continue. : not present
+ * json : Enable
+ * json : Ensure your account is using a long, random password to stay secure.
+ * json : For your security, please confirm your password to continue.
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
  * json : Forgot your password?
  * json : Go Home
- * json : Go to page :page : not present
+ * json : Go to page :page
  * json : Hello!
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password.
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you did not request a password reset, no further action is required.
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser:
  * json : Invalid signature.
- * json : Last active : not present
- * json : Last used : not present
- * json : Leave Team : not present
- * json : Leave : not present
+ * json : Last active
+ * json : Last used
+ * json : Leave Team
+ * json : Leave
  * json : Login
- * json : Logout Other Browser Sessions : not present
+ * json : Logout Other Browser Sessions
  * json : Logout
- * json : Manage Account : not present
- * json : Manage and logout your active sessions on other browsers and devices. : not present
- * json : Manage API Tokens : not present
- * json : Manage Role : not present
- * json : Manage Team : not present
+ * json : Manage Account
+ * json : Manage and logout your active sessions on other browsers and devices.
+ * json : Manage API Tokens
+ * json : Manage Role
+ * json : Manage Team
  * json : Name
- * json : Nevermind : not present
- * json : New Password : not present
+ * json : Nevermind
+ * json : New Password
  * json : Not Found
- * json : of : not present
+ * json : of
  * json : Oh no
- * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
- * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
+ * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain.
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.
  * json : Page Expired
- * json : Pagination Navigation : not present
+ * json : Pagination Navigation
  * json : Password
- * json : Permanently delete this team. : not present
- * json : Permanently delete your account. : not present
- * json : Permissions : not present
- * json : Photo : not present
+ * json : Permanently delete this team.
+ * json : Permanently delete your account.
+ * json : Permissions
+ * json : Photo
  * json : Please click the button below to verify your email address.
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
- * json : Please copy your new API token. For your security, it won't be shown again. : not present
- * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
- * json : Profile Information : not present
- * json : Profile : not present
- * json : Recovery Code : not present
+ * json : Please copy your new API token. For your security, it won't be shown again.
+ * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+ * json : Profile Information
+ * json : Profile
+ * json : Recovery Code
  * json : Regards
- * json : Regenerate Recovery Codes : not present
+ * json : Regenerate Recovery Codes
  * json : Register
  * json : Remember Me
- * json : Remember me : not present
- * json : Remove Photo : not present
- * json : Remove Team Member : not present
- * json : Remove : not present
+ * json : Remember me
+ * json : Remove Photo
+ * json : Remove Team Member
+ * json : Remove
  * json : Resend Verification Email
  * json : Reset Password Notification
  * json : Reset Password
- * json : results : not present
- * json : Role : not present
- * json : Save : not present
- * json : Saved. : not present
- * json : Select A New Photo : not present
+ * json : results
+ * json : Role
+ * json : Save
+ * json : Saved.
+ * json : Select A New Photo
  * json : Send Password Reset Link
  * json : Server Error
  * json : Service Unavailable
- * json : Show Recovery Codes : not present
- * json : Showing : not present
- * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
- * json : Switch Teams : not present
- * json : Team Details : not present
- * json : Team Members : not present
- * json : Team Name : not present
- * json : Team Owner : not present
- * json : Team Settings : not present
- * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
+ * json : Show Recovery Codes
+ * json : Showing
+ * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
+ * json : Switch Teams
+ * json : Team Details
+ * json : Team Members
+ * json : Team Name
+ * json : Team Owner
+ * json : Team Settings
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
- * json : The :attribute must be at least :length characters and contain at least one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
- * json : The :attribute must be at least :length characters. : not present
- * json : The provided password does not match your current password. : not present
- * json : The provided password was incorrect. : not present
- * json : The provided two factor authentication code was invalid. : not present
- * json : The team's name and owner information. : not present
+ * json : The :attribute must be at least :length characters and contain at least one number.
+ * json : The :attribute must be at least :length characters and contain at least one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character.
+ * json : The :attribute must be at least :length characters.
+ * json : The provided password does not match your current password.
+ * json : The provided password was incorrect.
+ * json : The provided two factor authentication code was invalid.
+ * json : The team's name and owner information.
  * json : This action is unauthorized.
- * json : This device : not present
+ * json : This device
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
  * json : This user already belongs to the team.
- * json : to : not present
+ * json : to
  * json : Toggle navigation
- * json : Token Name : not present
+ * json : Token Name
  * json : Too Many Attempts.
  * json : Too Many Requests
- * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application. : not present
- * json : Two Factor Authentication : not present
+ * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
+ * json : Two Factor Authentication
  * json : Unauthorized
- * json : Update Password : not present
- * json : Update your account's profile information and email address. : not present
+ * json : Update Password
+ * json : Update your account's profile information and email address.
  * json : Use a recovery code
  * json : Use an authentication code
  * json : Verify Email Address
  * json : Verify Your Email Address
  * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours.
- * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application. : not present
- * json : Whoops! Something went wrong. : not present
+ * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application.
+ * json : Whoops! Something went wrong.
  * json : Whoops!
  * json : You are logged in!
  * json : You are receiving this email because we received a password reset request for your account.
- * json : You have enabled two factor authentication. : not present
- * json : You have not enabled two factor authentication. : not present
- * json : You may delete any of your existing tokens if they are no longer needed. : not present
+ * json : You have enabled two factor authentication.
+ * json : You have not enabled two factor authentication.
+ * json : You may delete any of your existing tokens if they are no longer needed.
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified.
@@ -14558,135 +14557,133 @@ into your web browser:
 ## vi
 
 <details>
-<summary>show<small> (all missing: 218, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 216, including not present: 0)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
- * json : Add a new team member to your team, allowing them to collaborate with you. : not present
- * json : Add additional security to your account using two factor authentication. : not present
- * json : Add Team Member : not present
- * json : Add : not present
- * json : Added. : not present
- * json : Administrator users can perform any action. : not present
- * json : Administrator : not present
- * json : All of the people that are part of this team. : not present
+ * json : Add a new team member to your team, allowing them to collaborate with you.
+ * json : Add additional security to your account using two factor authentication.
+ * json : Add Team Member
+ * json : Add
+ * json : Added.
+ * json : Administrator users can perform any action.
+ * json : Administrator
+ * json : All of the people that are part of this team.
  * json : Already registered?
- * json : API Token Permissions : not present
- * json : API Token : not present
- * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
- * json : API Tokens : not present
- * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
- * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
- * json : Are you sure you would like to delete this API token? : not present
- * json : Are you sure you would like to leave this team? : not present
- * json : Are you sure you would like to remove this person from the team? : not present
- * json : Browser Sessions : not present
- * json : Close : not present
- * json : Code : not present
- * json : Confirm : not present
- * json : Create a new team to collaborate with others on projects. : not present
- * json : Create API Token : not present
- * json : Create New Team : not present
- * json : Create Team : not present
- * json : Create : not present
- * json : Created. : not present
- * json : Current Password : not present
+ * json : API Token Permissions
+ * json : API Token
+ * json : API tokens allow third-party services to authenticate with our application on your behalf.
+ * json : API Tokens
+ * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted.
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+ * json : Are you sure you would like to delete this API token?
+ * json : Are you sure you would like to leave this team?
+ * json : Are you sure you would like to remove this person from the team?
+ * json : Browser Sessions
+ * json : Close
+ * json : Code
+ * json : Confirm
+ * json : Create a new team to collaborate with others on projects.
+ * json : Create API Token
+ * json : Create New Team
+ * json : Create Team
+ * json : Create
+ * json : Created.
+ * json : Current Password
  * json : Dashboard
- * json : Delete Account : not present
- * json : Delete API Token : not present
- * json : Delete Team : not present
- * json : Delete : not present
- * json : Disable : not present
- * json : Done. : not present
- * json : Editor users have the ability to read, create, and update. : not present
- * json : Editor : not present
+ * json : Delete Account
+ * json : Delete API Token
+ * json : Delete Team
+ * json : Delete
+ * json : Disable
+ * json : Done.
+ * json : Editor users have the ability to read, create, and update.
+ * json : Editor
  * json : Email Password Reset Link
  * json : Email
- * json : Enable : not present
- * json : Ensure your account is using a long, random password to stay secure. : not present
- * json : For your security, please confirm your password to continue. : not present
+ * json : Enable
+ * json : Ensure your account is using a long, random password to stay secure.
+ * json : For your security, please confirm your password to continue.
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
- * json : Forgot your password?
- * json : Go to page :page : not present
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
- * json : Last active : not present
- * json : Last used : not present
- * json : Leave Team : not present
- * json : Leave : not present
- * json : Logout Other Browser Sessions : not present
- * json : Manage Account : not present
- * json : Manage and logout your active sessions on other browsers and devices. : not present
- * json : Manage API Tokens : not present
- * json : Manage Role : not present
- * json : Manage Team : not present
- * json : Nevermind : not present
- * json : New Password : not present
- * json : of : not present
- * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
- * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
- * json : Pagination Navigation : not present
- * json : Permanently delete this team. : not present
- * json : Permanently delete your account. : not present
- * json : Permissions : not present
- * json : Photo : not present
+ * json : Go to page :page
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password.
+ * json : Last active
+ * json : Last used
+ * json : Leave Team
+ * json : Leave
+ * json : Logout Other Browser Sessions
+ * json : Manage Account
+ * json : Manage and logout your active sessions on other browsers and devices.
+ * json : Manage API Tokens
+ * json : Manage Role
+ * json : Manage Team
+ * json : Nevermind
+ * json : New Password
+ * json : of
+ * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain.
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.
+ * json : Pagination Navigation
+ * json : Permanently delete this team.
+ * json : Permanently delete your account.
+ * json : Permissions
+ * json : Photo
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
- * json : Please copy your new API token. For your security, it won't be shown again. : not present
- * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
- * json : Profile Information : not present
- * json : Profile : not present
- * json : Recovery Code : not present
- * json : Regenerate Recovery Codes : not present
- * json : Remember me : not present
- * json : Remove Photo : not present
- * json : Remove Team Member : not present
- * json : Remove : not present
+ * json : Please copy your new API token. For your security, it won't be shown again.
+ * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+ * json : Profile Information
+ * json : Profile
+ * json : Recovery Code
+ * json : Regenerate Recovery Codes
+ * json : Remove Photo
+ * json : Remove Team Member
+ * json : Remove
  * json : Resend Verification Email
- * json : results : not present
- * json : Role : not present
- * json : Save : not present
- * json : Saved. : not present
- * json : Select A New Photo : not present
- * json : Show Recovery Codes : not present
- * json : Showing : not present
- * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
- * json : Switch Teams : not present
- * json : Team Details : not present
- * json : Team Members : not present
- * json : Team Name : not present
- * json : Team Owner : not present
- * json : Team Settings : not present
- * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
+ * json : results
+ * json : Role
+ * json : Save
+ * json : Saved.
+ * json : Select A New Photo
+ * json : Show Recovery Codes
+ * json : Showing
+ * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
+ * json : Switch Teams
+ * json : Team Details
+ * json : Team Members
+ * json : Team Name
+ * json : Team Owner
+ * json : Team Settings
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
- * json : The :attribute must be at least :length characters and contain at least one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
- * json : The :attribute must be at least :length characters. : not present
- * json : The provided password does not match your current password. : not present
- * json : The provided password was incorrect. : not present
- * json : The provided two factor authentication code was invalid. : not present
- * json : The team's name and owner information. : not present
- * json : This device : not present
+ * json : The :attribute must be at least :length characters and contain at least one number.
+ * json : The :attribute must be at least :length characters and contain at least one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character.
+ * json : The :attribute must be at least :length characters.
+ * json : The provided password does not match your current password.
+ * json : The provided password was incorrect.
+ * json : The provided two factor authentication code was invalid.
+ * json : The team's name and owner information.
+ * json : This device
  * json : This password does not match our records.
  * json : This user already belongs to the team.
- * json : to : not present
- * json : Token Name : not present
- * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application. : not present
- * json : Two Factor Authentication : not present
- * json : Update Password : not present
- * json : Update your account's profile information and email address. : not present
+ * json : to
+ * json : Token Name
+ * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
+ * json : Two Factor Authentication
+ * json : Update Password
+ * json : Update your account's profile information and email address.
  * json : Use a recovery code
  * json : Use an authentication code
  * json : We were unable to find a registered user with this email address.
- * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application. : not present
- * json : Whoops! Something went wrong. : not present
+ * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application.
+ * json : Whoops! Something went wrong.
  * json : You are logged in!
- * json : You have enabled two factor authentication. : not present
- * json : You have not enabled two factor authentication. : not present
- * json : You may delete any of your existing tokens if they are no longer needed. : not present
+ * json : You have enabled two factor authentication.
+ * json : You have not enabled two factor authentication.
+ * json : You may delete any of your existing tokens if they are no longer needed.
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * passwords : throttled
@@ -14785,133 +14782,131 @@ into your web browser:
 ## zh_CN
 
 <details>
-<summary>show<small> (all missing: 127, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 125, including not present: 0)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
- * json : Add a new team member to your team, allowing them to collaborate with you. : not present
- * json : Add additional security to your account using two factor authentication. : not present
- * json : Add Team Member : not present
- * json : Add : not present
- * json : Added. : not present
- * json : Administrator users can perform any action. : not present
- * json : Administrator : not present
- * json : All of the people that are part of this team. : not present
+ * json : Add a new team member to your team, allowing them to collaborate with you.
+ * json : Add additional security to your account using two factor authentication.
+ * json : Add Team Member
+ * json : Add
+ * json : Added.
+ * json : Administrator users can perform any action.
+ * json : Administrator
+ * json : All of the people that are part of this team.
  * json : Already registered?
- * json : API Token Permissions : not present
- * json : API Token : not present
- * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
- * json : API Tokens : not present
- * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
- * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
- * json : Are you sure you would like to delete this API token? : not present
- * json : Are you sure you would like to leave this team? : not present
- * json : Are you sure you would like to remove this person from the team? : not present
- * json : Browser Sessions : not present
- * json : Close : not present
- * json : Code : not present
- * json : Confirm : not present
- * json : Create a new team to collaborate with others on projects. : not present
- * json : Create API Token : not present
- * json : Create New Team : not present
- * json : Create Team : not present
- * json : Create : not present
- * json : Created. : not present
- * json : Current Password : not present
- * json : Delete Account : not present
- * json : Delete API Token : not present
- * json : Delete Team : not present
- * json : Delete : not present
- * json : Disable : not present
- * json : Done. : not present
- * json : Editor users have the ability to read, create, and update. : not present
- * json : Editor : not present
+ * json : API Token Permissions
+ * json : API Token
+ * json : API tokens allow third-party services to authenticate with our application on your behalf.
+ * json : API Tokens
+ * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted.
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+ * json : Are you sure you would like to delete this API token?
+ * json : Are you sure you would like to leave this team?
+ * json : Are you sure you would like to remove this person from the team?
+ * json : Browser Sessions
+ * json : Close
+ * json : Code
+ * json : Confirm
+ * json : Create a new team to collaborate with others on projects.
+ * json : Create API Token
+ * json : Create New Team
+ * json : Create Team
+ * json : Create
+ * json : Created.
+ * json : Current Password
+ * json : Delete Account
+ * json : Delete API Token
+ * json : Delete Team
+ * json : Delete
+ * json : Disable
+ * json : Done.
+ * json : Editor users have the ability to read, create, and update.
+ * json : Editor
  * json : Email Password Reset Link
  * json : Email
- * json : Enable : not present
- * json : Ensure your account is using a long, random password to stay secure. : not present
- * json : For your security, please confirm your password to continue. : not present
+ * json : Enable
+ * json : Ensure your account is using a long, random password to stay secure.
+ * json : For your security, please confirm your password to continue.
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
- * json : Forgot your password?
- * json : Go to page :page : not present
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
- * json : Last active : not present
- * json : Last used : not present
- * json : Leave Team : not present
- * json : Leave : not present
- * json : Logout Other Browser Sessions : not present
- * json : Manage Account : not present
- * json : Manage and logout your active sessions on other browsers and devices. : not present
- * json : Manage API Tokens : not present
- * json : Manage Role : not present
- * json : Manage Team : not present
- * json : Nevermind : not present
- * json : New Password : not present
- * json : of : not present
- * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
- * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
- * json : Pagination Navigation : not present
- * json : Permanently delete this team. : not present
- * json : Permanently delete your account. : not present
- * json : Permissions : not present
- * json : Photo : not present
+ * json : Go to page :page
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password.
+ * json : Last active
+ * json : Last used
+ * json : Leave Team
+ * json : Leave
+ * json : Logout Other Browser Sessions
+ * json : Manage Account
+ * json : Manage and logout your active sessions on other browsers and devices.
+ * json : Manage API Tokens
+ * json : Manage Role
+ * json : Manage Team
+ * json : Nevermind
+ * json : New Password
+ * json : of
+ * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain.
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.
+ * json : Pagination Navigation
+ * json : Permanently delete this team.
+ * json : Permanently delete your account.
+ * json : Permissions
+ * json : Photo
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
- * json : Please copy your new API token. For your security, it won't be shown again. : not present
- * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
- * json : Profile Information : not present
- * json : Profile : not present
- * json : Recovery Code : not present
- * json : Regenerate Recovery Codes : not present
- * json : Remember me : not present
- * json : Remove Photo : not present
- * json : Remove Team Member : not present
- * json : Remove : not present
+ * json : Please copy your new API token. For your security, it won't be shown again.
+ * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+ * json : Profile Information
+ * json : Profile
+ * json : Recovery Code
+ * json : Regenerate Recovery Codes
+ * json : Remove Photo
+ * json : Remove Team Member
+ * json : Remove
  * json : Resend Verification Email
- * json : results : not present
- * json : Role : not present
- * json : Save : not present
- * json : Saved. : not present
- * json : Select A New Photo : not present
- * json : Show Recovery Codes : not present
- * json : Showing : not present
- * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
- * json : Switch Teams : not present
- * json : Team Details : not present
- * json : Team Members : not present
- * json : Team Name : not present
- * json : Team Owner : not present
- * json : Team Settings : not present
- * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
+ * json : results
+ * json : Role
+ * json : Save
+ * json : Saved.
+ * json : Select A New Photo
+ * json : Show Recovery Codes
+ * json : Showing
+ * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
+ * json : Switch Teams
+ * json : Team Details
+ * json : Team Members
+ * json : Team Name
+ * json : Team Owner
+ * json : Team Settings
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
- * json : The :attribute must be at least :length characters and contain at least one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
- * json : The :attribute must be at least :length characters. : not present
- * json : The provided password does not match your current password. : not present
- * json : The provided password was incorrect. : not present
- * json : The provided two factor authentication code was invalid. : not present
- * json : The team's name and owner information. : not present
- * json : This device : not present
+ * json : The :attribute must be at least :length characters and contain at least one number.
+ * json : The :attribute must be at least :length characters and contain at least one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character.
+ * json : The :attribute must be at least :length characters.
+ * json : The provided password does not match your current password.
+ * json : The provided password was incorrect.
+ * json : The provided two factor authentication code was invalid.
+ * json : The team's name and owner information.
+ * json : This device
  * json : This password does not match our records.
  * json : This user already belongs to the team.
- * json : to : not present
- * json : Token Name : not present
- * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application. : not present
- * json : Two Factor Authentication : not present
- * json : Update Password : not present
- * json : Update your account's profile information and email address. : not present
+ * json : to
+ * json : Token Name
+ * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
+ * json : Two Factor Authentication
+ * json : Update Password
+ * json : Update your account's profile information and email address.
  * json : Use a recovery code
  * json : Use an authentication code
  * json : We were unable to find a registered user with this email address.
- * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application. : not present
- * json : Whoops! Something went wrong. : not present
- * json : You have enabled two factor authentication. : not present
- * json : You have not enabled two factor authentication. : not present
- * json : You may delete any of your existing tokens if they are no longer needed. : not present
+ * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application.
+ * json : Whoops! Something went wrong.
+ * json : You have enabled two factor authentication.
+ * json : You have not enabled two factor authentication.
+ * json : You may delete any of your existing tokens if they are no longer needed.
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
 
@@ -14921,133 +14916,131 @@ into your web browser:
 ## zh_HK
 
 <details>
-<summary>show<small> (all missing: 127, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 125, including not present: 0)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
- * json : Add a new team member to your team, allowing them to collaborate with you. : not present
- * json : Add additional security to your account using two factor authentication. : not present
- * json : Add Team Member : not present
- * json : Add : not present
- * json : Added. : not present
- * json : Administrator users can perform any action. : not present
- * json : Administrator : not present
- * json : All of the people that are part of this team. : not present
+ * json : Add a new team member to your team, allowing them to collaborate with you.
+ * json : Add additional security to your account using two factor authentication.
+ * json : Add Team Member
+ * json : Add
+ * json : Added.
+ * json : Administrator users can perform any action.
+ * json : Administrator
+ * json : All of the people that are part of this team.
  * json : Already registered?
- * json : API Token Permissions : not present
- * json : API Token : not present
- * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
- * json : API Tokens : not present
- * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
- * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
- * json : Are you sure you would like to delete this API token? : not present
- * json : Are you sure you would like to leave this team? : not present
- * json : Are you sure you would like to remove this person from the team? : not present
- * json : Browser Sessions : not present
- * json : Close : not present
- * json : Code : not present
- * json : Confirm : not present
- * json : Create a new team to collaborate with others on projects. : not present
- * json : Create API Token : not present
- * json : Create New Team : not present
- * json : Create Team : not present
- * json : Create : not present
- * json : Created. : not present
- * json : Current Password : not present
- * json : Delete Account : not present
- * json : Delete API Token : not present
- * json : Delete Team : not present
- * json : Delete : not present
- * json : Disable : not present
- * json : Done. : not present
- * json : Editor users have the ability to read, create, and update. : not present
- * json : Editor : not present
+ * json : API Token Permissions
+ * json : API Token
+ * json : API tokens allow third-party services to authenticate with our application on your behalf.
+ * json : API Tokens
+ * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted.
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+ * json : Are you sure you would like to delete this API token?
+ * json : Are you sure you would like to leave this team?
+ * json : Are you sure you would like to remove this person from the team?
+ * json : Browser Sessions
+ * json : Close
+ * json : Code
+ * json : Confirm
+ * json : Create a new team to collaborate with others on projects.
+ * json : Create API Token
+ * json : Create New Team
+ * json : Create Team
+ * json : Create
+ * json : Created.
+ * json : Current Password
+ * json : Delete Account
+ * json : Delete API Token
+ * json : Delete Team
+ * json : Delete
+ * json : Disable
+ * json : Done.
+ * json : Editor users have the ability to read, create, and update.
+ * json : Editor
  * json : Email Password Reset Link
  * json : Email
- * json : Enable : not present
- * json : Ensure your account is using a long, random password to stay secure. : not present
- * json : For your security, please confirm your password to continue. : not present
+ * json : Enable
+ * json : Ensure your account is using a long, random password to stay secure.
+ * json : For your security, please confirm your password to continue.
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
- * json : Forgot your password?
- * json : Go to page :page : not present
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
- * json : Last active : not present
- * json : Last used : not present
- * json : Leave Team : not present
- * json : Leave : not present
- * json : Logout Other Browser Sessions : not present
- * json : Manage Account : not present
- * json : Manage and logout your active sessions on other browsers and devices. : not present
- * json : Manage API Tokens : not present
- * json : Manage Role : not present
- * json : Manage Team : not present
- * json : Nevermind : not present
- * json : New Password : not present
- * json : of : not present
- * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
- * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
- * json : Pagination Navigation : not present
- * json : Permanently delete this team. : not present
- * json : Permanently delete your account. : not present
- * json : Permissions : not present
- * json : Photo : not present
+ * json : Go to page :page
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password.
+ * json : Last active
+ * json : Last used
+ * json : Leave Team
+ * json : Leave
+ * json : Logout Other Browser Sessions
+ * json : Manage Account
+ * json : Manage and logout your active sessions on other browsers and devices.
+ * json : Manage API Tokens
+ * json : Manage Role
+ * json : Manage Team
+ * json : Nevermind
+ * json : New Password
+ * json : of
+ * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain.
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.
+ * json : Pagination Navigation
+ * json : Permanently delete this team.
+ * json : Permanently delete your account.
+ * json : Permissions
+ * json : Photo
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
- * json : Please copy your new API token. For your security, it won't be shown again. : not present
- * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
- * json : Profile Information : not present
- * json : Profile : not present
- * json : Recovery Code : not present
- * json : Regenerate Recovery Codes : not present
- * json : Remember me : not present
- * json : Remove Photo : not present
- * json : Remove Team Member : not present
- * json : Remove : not present
+ * json : Please copy your new API token. For your security, it won't be shown again.
+ * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+ * json : Profile Information
+ * json : Profile
+ * json : Recovery Code
+ * json : Regenerate Recovery Codes
+ * json : Remove Photo
+ * json : Remove Team Member
+ * json : Remove
  * json : Resend Verification Email
- * json : results : not present
- * json : Role : not present
- * json : Save : not present
- * json : Saved. : not present
- * json : Select A New Photo : not present
- * json : Show Recovery Codes : not present
- * json : Showing : not present
- * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
- * json : Switch Teams : not present
- * json : Team Details : not present
- * json : Team Members : not present
- * json : Team Name : not present
- * json : Team Owner : not present
- * json : Team Settings : not present
- * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
+ * json : results
+ * json : Role
+ * json : Save
+ * json : Saved.
+ * json : Select A New Photo
+ * json : Show Recovery Codes
+ * json : Showing
+ * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
+ * json : Switch Teams
+ * json : Team Details
+ * json : Team Members
+ * json : Team Name
+ * json : Team Owner
+ * json : Team Settings
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
- * json : The :attribute must be at least :length characters and contain at least one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
- * json : The :attribute must be at least :length characters. : not present
- * json : The provided password does not match your current password. : not present
- * json : The provided password was incorrect. : not present
- * json : The provided two factor authentication code was invalid. : not present
- * json : The team's name and owner information. : not present
- * json : This device : not present
+ * json : The :attribute must be at least :length characters and contain at least one number.
+ * json : The :attribute must be at least :length characters and contain at least one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character.
+ * json : The :attribute must be at least :length characters.
+ * json : The provided password does not match your current password.
+ * json : The provided password was incorrect.
+ * json : The provided two factor authentication code was invalid.
+ * json : The team's name and owner information.
+ * json : This device
  * json : This password does not match our records.
  * json : This user already belongs to the team.
- * json : to : not present
- * json : Token Name : not present
- * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application. : not present
- * json : Two Factor Authentication : not present
- * json : Update Password : not present
- * json : Update your account's profile information and email address. : not present
+ * json : to
+ * json : Token Name
+ * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
+ * json : Two Factor Authentication
+ * json : Update Password
+ * json : Update your account's profile information and email address.
  * json : Use a recovery code
  * json : Use an authentication code
  * json : We were unable to find a registered user with this email address.
- * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application. : not present
- * json : Whoops! Something went wrong. : not present
- * json : You have enabled two factor authentication. : not present
- * json : You have not enabled two factor authentication. : not present
- * json : You may delete any of your existing tokens if they are no longer needed. : not present
+ * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application.
+ * json : Whoops! Something went wrong.
+ * json : You have enabled two factor authentication.
+ * json : You have not enabled two factor authentication.
+ * json : You may delete any of your existing tokens if they are no longer needed.
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
 
@@ -15057,133 +15050,131 @@ into your web browser:
 ## zh_TW
 
 <details>
-<summary>show<small> (all missing: 127, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 125, including not present: 0)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
- * json : Add a new team member to your team, allowing them to collaborate with you. : not present
- * json : Add additional security to your account using two factor authentication. : not present
- * json : Add Team Member : not present
- * json : Add : not present
- * json : Added. : not present
- * json : Administrator users can perform any action. : not present
- * json : Administrator : not present
- * json : All of the people that are part of this team. : not present
+ * json : Add a new team member to your team, allowing them to collaborate with you.
+ * json : Add additional security to your account using two factor authentication.
+ * json : Add Team Member
+ * json : Add
+ * json : Added.
+ * json : Administrator users can perform any action.
+ * json : Administrator
+ * json : All of the people that are part of this team.
  * json : Already registered?
- * json : API Token Permissions : not present
- * json : API Token : not present
- * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
- * json : API Tokens : not present
- * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
- * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
- * json : Are you sure you would like to delete this API token? : not present
- * json : Are you sure you would like to leave this team? : not present
- * json : Are you sure you would like to remove this person from the team? : not present
- * json : Browser Sessions : not present
- * json : Close : not present
- * json : Code : not present
- * json : Confirm : not present
- * json : Create a new team to collaborate with others on projects. : not present
- * json : Create API Token : not present
- * json : Create New Team : not present
- * json : Create Team : not present
- * json : Create : not present
- * json : Created. : not present
- * json : Current Password : not present
- * json : Delete Account : not present
- * json : Delete API Token : not present
- * json : Delete Team : not present
- * json : Delete : not present
- * json : Disable : not present
- * json : Done. : not present
- * json : Editor users have the ability to read, create, and update. : not present
- * json : Editor : not present
+ * json : API Token Permissions
+ * json : API Token
+ * json : API tokens allow third-party services to authenticate with our application on your behalf.
+ * json : API Tokens
+ * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted.
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+ * json : Are you sure you would like to delete this API token?
+ * json : Are you sure you would like to leave this team?
+ * json : Are you sure you would like to remove this person from the team?
+ * json : Browser Sessions
+ * json : Close
+ * json : Code
+ * json : Confirm
+ * json : Create a new team to collaborate with others on projects.
+ * json : Create API Token
+ * json : Create New Team
+ * json : Create Team
+ * json : Create
+ * json : Created.
+ * json : Current Password
+ * json : Delete Account
+ * json : Delete API Token
+ * json : Delete Team
+ * json : Delete
+ * json : Disable
+ * json : Done.
+ * json : Editor users have the ability to read, create, and update.
+ * json : Editor
  * json : Email Password Reset Link
  * json : Email
- * json : Enable : not present
- * json : Ensure your account is using a long, random password to stay secure. : not present
- * json : For your security, please confirm your password to continue. : not present
+ * json : Enable
+ * json : Ensure your account is using a long, random password to stay secure.
+ * json : For your security, please confirm your password to continue.
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
- * json : Forgot your password?
- * json : Go to page :page : not present
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password. : not present
- * json : Last active : not present
- * json : Last used : not present
- * json : Leave Team : not present
- * json : Leave : not present
- * json : Logout Other Browser Sessions : not present
- * json : Manage Account : not present
- * json : Manage and logout your active sessions on other browsers and devices. : not present
- * json : Manage API Tokens : not present
- * json : Manage Role : not present
- * json : Manage Team : not present
- * json : Nevermind : not present
- * json : New Password : not present
- * json : of : not present
- * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
- * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
- * json : Pagination Navigation : not present
- * json : Permanently delete this team. : not present
- * json : Permanently delete your account. : not present
- * json : Permissions : not present
- * json : Photo : not present
+ * json : Go to page :page
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password.
+ * json : Last active
+ * json : Last used
+ * json : Leave Team
+ * json : Leave
+ * json : Logout Other Browser Sessions
+ * json : Manage Account
+ * json : Manage and logout your active sessions on other browsers and devices.
+ * json : Manage API Tokens
+ * json : Manage Role
+ * json : Manage Team
+ * json : Nevermind
+ * json : New Password
+ * json : of
+ * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain.
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.
+ * json : Pagination Navigation
+ * json : Permanently delete this team.
+ * json : Permanently delete your account.
+ * json : Permissions
+ * json : Photo
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
- * json : Please copy your new API token. For your security, it won't be shown again. : not present
- * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
- * json : Profile Information : not present
- * json : Profile : not present
- * json : Recovery Code : not present
- * json : Regenerate Recovery Codes : not present
- * json : Remember me : not present
- * json : Remove Photo : not present
- * json : Remove Team Member : not present
- * json : Remove : not present
+ * json : Please copy your new API token. For your security, it won't be shown again.
+ * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+ * json : Profile Information
+ * json : Profile
+ * json : Recovery Code
+ * json : Regenerate Recovery Codes
+ * json : Remove Photo
+ * json : Remove Team Member
+ * json : Remove
  * json : Resend Verification Email
- * json : results : not present
- * json : Role : not present
- * json : Save : not present
- * json : Saved. : not present
- * json : Select A New Photo : not present
- * json : Show Recovery Codes : not present
- * json : Showing : not present
- * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
- * json : Switch Teams : not present
- * json : Team Details : not present
- * json : Team Members : not present
- * json : Team Name : not present
- * json : Team Owner : not present
- * json : Team Settings : not present
- * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
+ * json : results
+ * json : Role
+ * json : Save
+ * json : Saved.
+ * json : Select A New Photo
+ * json : Show Recovery Codes
+ * json : Showing
+ * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
+ * json : Switch Teams
+ * json : Team Details
+ * json : Team Members
+ * json : Team Name
+ * json : Team Owner
+ * json : Team Settings
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
- * json : The :attribute must be at least :length characters and contain at least one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
- * json : The :attribute must be at least :length characters. : not present
- * json : The provided password does not match your current password. : not present
- * json : The provided password was incorrect. : not present
- * json : The provided two factor authentication code was invalid. : not present
- * json : The team's name and owner information. : not present
- * json : This device : not present
+ * json : The :attribute must be at least :length characters and contain at least one number.
+ * json : The :attribute must be at least :length characters and contain at least one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character.
+ * json : The :attribute must be at least :length characters.
+ * json : The provided password does not match your current password.
+ * json : The provided password was incorrect.
+ * json : The provided two factor authentication code was invalid.
+ * json : The team's name and owner information.
+ * json : This device
  * json : This password does not match our records.
  * json : This user already belongs to the team.
- * json : to : not present
- * json : Token Name : not present
- * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application. : not present
- * json : Two Factor Authentication : not present
- * json : Update Password : not present
- * json : Update your account's profile information and email address. : not present
+ * json : to
+ * json : Token Name
+ * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
+ * json : Two Factor Authentication
+ * json : Update Password
+ * json : Update your account's profile information and email address.
  * json : Use a recovery code
  * json : Use an authentication code
  * json : We were unable to find a registered user with this email address.
- * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application. : not present
- * json : Whoops! Something went wrong. : not present
- * json : You have enabled two factor authentication. : not present
- * json : You have not enabled two factor authentication. : not present
- * json : You may delete any of your existing tokens if they are no longer needed. : not present
+ * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application.
+ * json : Whoops! Something went wrong.
+ * json : You have enabled two factor authentication.
+ * json : You have not enabled two factor authentication.
+ * json : You may delete any of your existing tokens if they are no longer needed.
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
 

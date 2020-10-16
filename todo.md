@@ -10019,14 +10019,9 @@ into your web browser:
 ## pt_BR
 
 <details>
-<summary>show<small> (all missing: 8, including not present: 7)</small></summary>
+<summary>show<small> (all missing: 3, including not present: 2)</small></summary>
 
- * json : Administrator users can perform any action. : not present
- * json : Administrator : not present
- * json : Editor users have the ability to read, create, and update. : not present
- * json : Editor : not present
- * json : Email
- * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
+ * json : Editor
  * validation : multiple_of : not present
  * validation-inline : multiple_of : not present
 

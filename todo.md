@@ -2883,10 +2883,9 @@ into your web browser:
 ## es
 
 <details>
-<summary>show<small> (all missing: 3, including not present: 2)</small></summary>
+<summary>show<small> (all missing: 2, including not present: 1)</small></summary>
 
  * json : Oh no
- * validation : multiple_of : not present
  * validation-inline : multiple_of : not present
 
 [ [to top](#todo-list) ]

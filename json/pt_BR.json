@@ -41,7 +41,7 @@
     "Done.": "Feito.",
     "E-Mail Address": "Endereço de e-mail",
     "Email Password Reset Link": "Link de redefinição de senha",
-    "Email": "Email",
+    "Email": "E-mail",
     "Enable": "Ativar",
     "Ensure your account is using a long, random password to stay secure.": "Garanta que sua conta esteja usando uma senha longa, e aleatória para se manter seguro.",
     "For your security, please confirm your password to continue.": "Para sua segurança, por favor confirme a sua senha antes de prosseguir.",
@@ -166,5 +166,12 @@
     "You may delete any of your existing tokens if they are no longer needed.": "Você pode excluir seus tokens existentes se eles não forem mais necessários.",
     "You may not delete your personal team.": "Você não pode excluir o seu time pessoal.",
     "You may not leave a team that you created.": "Você não pode sair de um time que você criou.",
-    "Your email address is not verified.": "Seu endereço de e-mail não está verificado."
+    "Your email address is not verified.": "Seu endereço de e-mail não está verificado.",
+    "Administrator users can perform any action.": "Usuários com privilégios de Administrador podem executar qualquer acão.",
+    "Administrator": "Administrador",
+    "Editor users have the ability to read, create, and update.": "Usuários com privilégios de Editor podem ler, criar e atualizar.",
+    "Editor": "Editor",
+    "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.": "Obrigado por se registar! Antes de começar, confirme o seu endereço de e-mail clicando no link presente no e-mail que acabamos de te enviar? Caso não tenha recebido o email, teremos o maior prazer em reenviar-lhe outro."
+
+
 }

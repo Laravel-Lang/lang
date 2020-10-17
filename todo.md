@@ -6722,7 +6722,7 @@ into your web browser: : not present
 ## km
 
 <details>
-<summary>show<small> (all missing: 302, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 262, including not present: 110)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -6898,46 +6898,6 @@ into your web browser:
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * auth : failed
- * auth : throttle
- * passwords : throttled
- * validation : after_or_equal
- * validation : before_or_equal
- * validation : date_equals
- * validation : dimensions
- * validation : distinct
- * validation : ends_with
- * validation : file
- * validation : gt.numeric
- * validation : gt.file
- * validation : gt.string
- * validation : gt.array
- * validation : gte.numeric
- * validation : gte.file
- * validation : gte.string
- * validation : gte.array
- * validation : in_array
- * validation : ipv4
- * validation : ipv6
- * validation : json
- * validation : lt.numeric
- * validation : lt.file
- * validation : lt.string
- * validation : lt.array
- * validation : lte.numeric
- * validation : lte.file
- * validation : lte.string
- * validation : lte.array
- * validation : multiple_of
- * validation : not_regex
- * validation : password
- * validation : present
- * validation : required_unless
- * validation : starts_with
- * validation : string
- * validation : timezone
- * validation : uploaded
- * validation : uuid
  * validation-inline : accepted
  * validation-inline : active_url
  * validation-inline : after

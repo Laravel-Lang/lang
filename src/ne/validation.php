@@ -89,6 +89,7 @@ return [
         'string'  => ':attribute कम्तिमा :min वर्णको हुनुपर्छ।',
         'array'   => ':attribute मा कम्तिमा :min आइटम हुनुपर्छ।',
     ],
+    'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => 'छानिएको :attribute अमान्य छ।',
     'not_regex'            => ':attribute ढाँचा अवैध छ.',
     'numeric'              => ':attribute संख्या हुनुपर्छ।',

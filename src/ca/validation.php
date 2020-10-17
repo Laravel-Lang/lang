@@ -89,6 +89,7 @@ return [
         'string'  => ':attribute ha de contenir almenys :min caràcters.',
         'array'   => ':attribute ha de tenir almenys :min ítems.',
     ],
+    'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => ':attribute és invàlid.',
     'not_regex'            => 'El format de :attribute no és vàlid.',
     'numeric'              => ':attribute ha de ser numèric.',

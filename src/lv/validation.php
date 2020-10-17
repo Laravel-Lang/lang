@@ -89,6 +89,7 @@ return [
         'string'  => ' :attribute jābūt vismaz :min zīmes.',
         'array'   => ' :attribute jāsatur vismaz :min vienības.',
     ],
+    'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => ' izvēlieties :attribute ir nederīgs.',
     'not_regex'            => ':attribute formāts ir nederīgs.',
     'numeric'              => ' :attribute jābūt skaitlim.',

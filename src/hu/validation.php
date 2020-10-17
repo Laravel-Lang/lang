@@ -89,6 +89,7 @@ return [
         'string'  => 'A(z) :attribute hossza nem lehet kevesebb, mint :min karakter.',
         'array'   => 'A(z) :attribute legalább :min elemet kell, hogy tartalmazzon.',
     ],
+    'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => 'A(z) :attribute értéke érvénytelen.',
     'not_regex'            => 'A(z) :attribute formátuma érvénytelen.',
     'numeric'              => 'A(z) :attribute szám kell, hogy legyen!',

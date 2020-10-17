@@ -89,6 +89,7 @@ return [
         'string'  => 'שדה :attribute חייב להיות לפחות :min תווים.',
         'array'   => 'שדה :attribute חייב להיות לפחות :min פריטים.',
     ],
+    'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => 'בחירת ה-:attribute אינה תקפה.',
     'not_regex'            => 'הפורמט של :attribute איננו חוקי.',
     'numeric'              => 'שדה :attribute חייב להיות מספר.',

@@ -88,6 +88,7 @@ return [
         'string'  => ':Attribute moet minimaal :min tekens zijn.',
         'array'   => ':Attribute moet minimaal :min items bevatten.',
     ],
+    'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => 'Het formaat van :attribute is ongeldig.',
     'not_regex'            => 'De :attribute formaat is ongeldig.',
     'numeric'              => ':Attribute moet een nummer zijn.',

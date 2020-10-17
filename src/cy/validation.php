@@ -89,6 +89,7 @@ return [
         'string'  => 'Rhaid i :attribute fod o leiaf :min nodyn.',
         'array'   => 'Rhaid i :attribute fod o leiaf :min eitem.',
     ],
+    'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => 'Nid yw :attribute yn ddilys.',
     'not_regex'            => 'The :attribute format is invalid.',
     'numeric'              => 'Rhaid i :attribute fod yn rif.',

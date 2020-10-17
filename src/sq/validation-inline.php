@@ -90,6 +90,7 @@ return [
         'string'  => 'Kjo nuk mund të ketë më pak se :min karaktere.',
         'array'   => 'Kjo nuk mund të ketë më pak se :min elemente.',
     ],
+    'multiple_of'          => 'The value must be a multiple of :value',
     'not_in'               => 'Vlera e përzgjedhur është e pasaktë.',
     'not_regex'            => 'Ky format është i pasaktë.',
     'numeric'              => 'Kjo duhet të jetë një numër.',

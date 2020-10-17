@@ -89,6 +89,7 @@ return [
         'string'  => ' :attribute кемінде :min таңбадан тұруы керек.',
         'array'   => ' :attribute кемінде :min элементтен тұруы керек.',
     ],
+    'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => ' таңдалған :attribute жарамсыз.',
     'not_regex'            => ' таңдалған :attribute форматы жарамсыз.',
     'numeric'              => ' :attribute сан болуы керек.',

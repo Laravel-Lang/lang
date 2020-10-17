@@ -89,6 +89,7 @@ return [
         'string'  => ':Attribute талбарт :min буюу түүнээс их үсэг бүхий текст оруулна уу.',
         'array'   => ':Attribute талбарт хамгийн багадаа :min элемэнт оруулах боломжтой.',
     ],
+    'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => 'Буруу :attribute сонгогдсон байна.',
     'not_regex'            => 'The :attribute format is invalid.',
     'numeric'              => ':Attribute талбарт тоон утга оруулна уу.',

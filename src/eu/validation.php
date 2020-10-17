@@ -89,6 +89,7 @@ return [
         'string'  => ':attribute-(e)k gutxienez :min karaktere izan behar ditu.',
         'array'   => ':attribute-(e)k gutxienez :min elementu izan behar ditu.',
     ],
+    'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => ':attribute baliogabea da.',
     'not_regex'            => ':attribute formatua baliogabea da.',
     'numeric'              => ':attribute zenbakizkoa izan behar da.',

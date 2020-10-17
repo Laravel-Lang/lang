@@ -89,6 +89,7 @@ return [
         'string'  => 'Миқдори аломатҳо дар :attribute бояд на кам аз :min бошад.',
         'array'   => 'Миқдори элементҳо дар :attribute бояд на кам аз :min бошад.',
     ],
+    'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => 'Қиммати интихобкардаи :attribute нодуруст мебошад.',
     'not_regex'            => 'The :attribute format is invalid.',
     'numeric'              => 'Қиммати :attribute бояд адад бошад.',

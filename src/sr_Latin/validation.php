@@ -89,6 +89,7 @@ return [
         'string'  => 'Polje :attribute mora sadržati najmanje :min karaktera.',
         'array'   => 'Polje :attribute mora sadrzati najmanje :min stavku.',
     ],
+    'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => 'Odabrani element polja :attribute nije validan.',
     'not_regex'            => 'Format :attribute je nevažeći.',
     'numeric'              => 'Polje :attribute mora biti broj.',

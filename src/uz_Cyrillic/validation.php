@@ -90,6 +90,7 @@ return [
         'string'  => ':attribute даги белгилар сони :min тадан кам бўлмаслиги керак.',
         'array'   => ':attribute даги элементлар сони :min тадан кам бўлмаслиги керак.',
     ],
+    'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => ':attribute учун танланган қиймат хато.',
     'not_regex'            => ':attribute учун танланган формат хато.',
     'numeric'              => ':attribute майдони сон бўлиши керак.',

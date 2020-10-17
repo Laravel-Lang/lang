@@ -89,6 +89,7 @@ return [
         'string'  => ':attribute nuk mund të ketë më pak se :min karaktere.',
         'array'   => ':attribute nuk mund të ketë më pak se :min elemente.',
     ],
+    'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => ':attribute përzgjedhur është i/e pasaktë.',
     'not_regex'            => 'Formati i :attribute është i pasaktë.',
     'numeric'              => ':attribute duhet të jetë një numër.',

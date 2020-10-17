@@ -89,6 +89,7 @@ return [
         'string'  => ':attribute უნდა შეიცავდეს მინიმუმ :min სიმბოლოს.',
         'array'   => ':attribute უნდა იყოს მინიმუმ :min.',
     ],
+    'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => 'მითითებული :attribute არასწორია.',
     'not_regex'            => ':attribute არასწორ ფორმატშია.',
     'numeric'              => ':attribute უნდა იყოს რიცხვი.',

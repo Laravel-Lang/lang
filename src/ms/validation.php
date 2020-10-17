@@ -89,6 +89,7 @@ return [
         'string'  => 'Jumlah :attribute mesti sekurang-kurangnya :min aksara.',
         'array'   => 'Jumlah :attribute mesti sekurang-kurangnya :min perkara.',
     ],
+    'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => ':attribute tidak sah.',
     'not_regex'            => 'Format :attribute adalah tidak sah.',
     'numeric'              => ':attribute mesti nombor.',

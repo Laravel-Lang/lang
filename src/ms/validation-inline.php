@@ -90,6 +90,7 @@ return [
         'string'  => 'Rentetan mesti sekurang-kurangnya :min aksara.',
         'array'   => 'Jujukan mesti sekurang-kurangnya :min perkara.',
     ],
+    'multiple_of'          => 'The value must be a multiple of :value',
     'not_in'               => 'Pilihan tidak sah.',
     'not_regex'            => 'Format tidak sah.',
     'numeric'              => 'Nilai mesti nombor.',

@@ -89,6 +89,7 @@ return [
         'string'  => ':attribute skal vere lengre enn :min teikn.',
         'array'   => ':attribute må vere minst :min element.',
     ],
+    'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => 'Den valgte :attribute er ugyldig.',
     'not_regex'            => 'Formatet på :attribute er ugyldig.',
     'numeric'              => ':attribute skal vere eit tal.',

@@ -89,6 +89,7 @@ return [
         'string'  => ':attribute musí být delší než :min znaků.',
         'array'   => ':attribute musí obsahovat více než :min prvků.',
     ],
+    'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => 'Zvolená hodnota pro :attribute je neplatná.',
     'not_regex'            => ':attribute musí být regulární výraz.',
     'numeric'              => ':attribute musí být číslo.',

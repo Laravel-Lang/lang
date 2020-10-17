@@ -89,6 +89,7 @@ return [
         'string'  => ':attribute mora imeti vsaj :min znakov.',
         'array'   => ':attribute mora imeti vsaj :min elementov.',
     ],
+    'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => 'Izbran :attribute je neveljaven.',
     'not_regex'            => 'Format :attribute je neveljaven.',
     'numeric'              => ':attribute mora biti število.',

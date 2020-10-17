@@ -89,6 +89,7 @@ return [
         'string'  => '不能小於 :min 個字元。',
         'array'   => '至少有 :min 個元素。',
     ],
+    'multiple_of'          => 'The value must be a multiple of :value',
     'not_in'               => '選項無效。',
     'not_regex'            => '格式錯誤。',
     'numeric'              => '必須為一個數字。',

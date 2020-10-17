@@ -90,6 +90,7 @@ return [
         'string'  => 'Колькасць сiмвалаў у поле :attribute павінна быць не менш :min.',
         'array'   => 'Колькасць элементаў у поле :attribute павінна быць не менш :min.',
     ],
+    'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => 'Выбранае значэнне для :attribute памылкова.',
     'not_regex'            => 'The :attribute format is invalid.',
     'numeric'              => 'Поле :attribute павінна быць лікам.',

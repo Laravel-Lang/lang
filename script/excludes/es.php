@@ -12,4 +12,5 @@ return [
     */
 
     'Editor',
+    'Oh no',
 ];

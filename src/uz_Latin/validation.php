@@ -90,6 +90,7 @@ return [
         'string'  => ':attribute dagi belgilar soni :min tadan kam bo‘lmasligi kerak.',
         'array'   => ':attribute dagi elementlar soni :min tadan kam bo‘lmasligi kerak.',
     ],
+    'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => ':attribute uchun tanlangan qiymat xato.',
     'not_regex'            => ':attribute uchun tanlangan format xato.',
     'numeric'              => ':attribute son bo‘lishi kerak.',

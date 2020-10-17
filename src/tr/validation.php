@@ -90,6 +90,7 @@ return [
         'string'  => ':attribute en az :min harf olabilir.',
         'array'   => ':attribute en az :min öğe içerebilir.',
     ],
+    'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => 'Seçili :attribute geçersiz.',
     'not_regex'            => ':attribute biçimi geçersiz.',
     'numeric'              => ':attribute mutlaka bir sayı olmalıdır.',

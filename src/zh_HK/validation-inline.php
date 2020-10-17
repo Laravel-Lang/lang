@@ -90,6 +90,7 @@ return [
         'string'  => '不能小於 :min 個字符。',
         'array'   => '不能小於 :min 個項目。',
     ],
+    'multiple_of'          => 'The value must be a multiple of :value',
     'not_in'               => '選項無效。',
     'not_regex'            => '格式錯誤。',
     'numeric'              => '必須為一個數字。',

@@ -90,6 +90,7 @@ return [
         'string'  => 'String harus berisi minimal :min karakter.',
         'array'   => 'Panjang array harus minimal :min item.',
     ],
+    'multiple_of'          => 'The value must be a multiple of :value',
     'not_in'               => 'Pilihan nilai tidak sesuai.',
     'not_regex'            => 'Format ini tidak sesuai.',
     'numeric'              => 'Ini harus berisi angka.',

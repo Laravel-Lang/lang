@@ -90,6 +90,7 @@ return [
         'string'  => 'The string must be at least :min characters.',
         'array'   => 'The value must have at least :min items.',
     ],
+    'multiple_of'          => 'The value must be a multiple of :value',
     'not_in'               => 'The selected value is invalid.',
     'not_regex'            => 'This format is invalid.',
     'numeric'              => 'This must be a number.',

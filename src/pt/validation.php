@@ -89,6 +89,7 @@ return [
         'string'  => 'O campo :attribute deverá conter no mínimo :min caracteres.',
         'array'   => 'O campo :attribute deverá conter no mínimo :min elementos.',
     ],
+    'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => 'O campo :attribute contém um valor inválido.',
     'not_regex'            => 'O formato de :attribute não é válido',
     'numeric'              => 'O campo :attribute deverá conter um valor numérico.',

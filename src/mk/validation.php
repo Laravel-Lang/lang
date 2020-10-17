@@ -89,6 +89,7 @@ return [
         'string'  => 'Полето :attribute мора да има минимум :min карактери.',
         'array'   => 'Полето :attribute мора да има минимум :min карактери.',
     ],
+    'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => 'Избраното поле :attribute е невалидно.',
     'not_regex'            => 'The :attribute format is invalid.',
     'numeric'              => 'Полето :attribute мора да биде број.',

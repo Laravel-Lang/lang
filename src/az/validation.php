@@ -89,6 +89,7 @@ return [
         'string'  => ' :attribute minimum :min simvoldan ibarət ola bilər',
         'array'   => ' :attribute minimum :min hədd\'dən ibarət ola bilər',
     ],
+    'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => ' seçilmiş :attribute yanlışdır',
     'not_regex'            => 'The :attribute format is invalid.',
     'numeric'              => ' :attribute rəqəmlərdən ibarət olmalıdır',

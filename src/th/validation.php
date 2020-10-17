@@ -89,6 +89,7 @@ return [
         'string'  => 'ข้อมูล :attribute ต้องมีความยาวตัวอักษรอย่างน้อย :min ตัวอักษร',
         'array'   => 'ข้อมูล :attribute ต้องมีอย่างน้อย :min ค่า',
     ],
+    'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => 'ข้อมูล ที่เลือกจาก :attribute ไม่ถูกต้อง',
     'not_regex'            => 'ข้อมูล :attribute มีรูปแบบไม่ถูกต้อง.',
     'numeric'              => 'ข้อมูล :attribute ต้องเป็นตัวเลข',

@@ -89,6 +89,7 @@ return [
         'string'  => ':attribute peab olema vähemalt :min tähemärki.',
         'array'   => ':attribute peab olema vähemalt :min kirjet.',
     ],
+    'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => 'Valitud :attribute on vigane.',
     'not_regex'            => ':attribute vorming on vale',
     'numeric'              => ':attribute peab olema number.',

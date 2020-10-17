@@ -89,6 +89,7 @@ return [
         'string'  => 'Die Zeichenkette muss mindestens :min Zeichen lang sein.',
         'array'   => 'Der Inhalt muss mindestens :min Elemente haben.',
     ],
+    'multiple_of'          => 'The value must be a multiple of :value',
     'not_in'               => 'Der gewählte Wert ist ungültig.',
     'not_regex'            => 'Dieses Format ist ungültig.',
     'numeric'              => 'Das muss eine Zahl sein.',

@@ -90,6 +90,7 @@ return [
         'string'  => ':attribute դաշտի նիշերի քանակը պետք է լինի առնվազն :min։',
         'array'   => ':attribute դաշտում էլեմենտների քանակը պետք է լինի առնվազն :min։',
     ],
+    'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => ':attribute դաշտի ընտրված արժեքն անվավեր է։',
     'not_regex'            => ':attribute դաշտի ձևաչափը սխալ է։',
     'numeric'              => ':attribute դաշտը պետք է լինի թիվ։',

@@ -1,7 +1,7 @@
 <?php
 
 return [
-    /*
+	/*
     |--------------------------------------------------------------------------
     | Authentication Language Lines
     |--------------------------------------------------------------------------
@@ -12,6 +12,6 @@ return [
     |
     */
 
-    'failed'   => 'These credentials do not match our records.',
-    'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
+	'failed'   => 'ពាក្យសម្ងាត់មិនត្រឺមត្រូវ។',
+	'throttle' => 'ការបញ្ចូលច្រើនដងពេក។ សូមសាកល្បង :seconds វិនាទីក្រោយ។',
 ];

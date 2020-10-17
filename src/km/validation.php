@@ -1,7 +1,7 @@
 <?php
 
 return [
-    /*
+	/*
     |--------------------------------------------------------------------------
     | Validation Language Lines
     |--------------------------------------------------------------------------
@@ -12,112 +12,113 @@ return [
     |
     */
 
-    'accepted'             => ':attribute ត្រូវបានទទួលយក។',
-    'active_url'           => ':attribute មិនមែនជា URL ត្រឹមត្រូវឡើយ។',
-    'after'                => ':attribute ត្រូវតែមានកាលបរិច្ឆេទបន្ទាប់ពី :date។',
-    'after_or_equal'       => 'The :attribute must be a date after or equal to :date.',
-    'alpha'                => ':attribute អាចមានអក្សរតែប៉ុណ្ណោះ។',
-    'alpha_dash'           => ':attribute អាចមានតែអក្សរ លេខ និងសហសញ្ញា(-)។',
-    'alpha_num'            => ':attribute អាចមានតែអក្សរ និងលេខ។',
-    'array'                => ':attribute ត្រូវតែជា អារេ។',
-    'before'               => ':attribute ត្រូវតែមានកាលបរិច្ឆេទមុន :date។',
-    'before_or_equal'      => 'The :attribute must be a date before or equal to :date.',
-    'between'              => [
-        'numeric' => ':attribute ត្រូវតែមានរវាង :min និង :max។',
-        'file'    => ':attribute ត្រូវតែមានរវាង :min និង :max គីឡូបៃ។',
-        'string'  => ':attribute ត្រូវតែមានរវាង :min និង :max តួអក្សរ។',
-        'array'   => ':attribute ត្រូវតែមានធាតុរវាង :min និង :max។',
-    ],
-    'boolean'              => 'The :attribute field must be true or false',
-    'confirmed'            => ':attribute ការបញ្ជាក់មិនផ្គូផ្គង។',
-    'date'                 => ':attribute គឺមិនមែនជាកាលបរិច្ឆេទត្រឹមត្រូវ។',
-    'date_equals'          => 'The :attribute must be a date equal to :date.',
-    'date_format'          => ':attribute មិនត្រឹមត្រូវនិងទំរង :formatនេះ។',
-    'different'            => ':attribute និង :other ត្រូវតែបញ្ជាក់។',
-    'digits'               => ':attribute ត្រូវជាខ្ទុង :digits។',
-    'digits_between'       => ':attribute ត្រូវចាប់ពីខ្ទុង :minទៅ :max។',
-    'dimensions'           => 'The :attribute has invalid image dimensions.',
-    'distinct'             => 'The :attribute field has a duplicate value.',
-    'email'                => ':attribute ទំរង់នេះមិនត្រឹមត្រូវ។',
-    'ends_with'            => 'The :attribute must end with one of the following: :values.',
-    'exists'               => 'ការជ្រើសរើស :attribute ត្រឹមត្រូវ។',
-    'file'                 => 'The :attribute must be a file.',
-    'filled'               => 'ទំរង់ :attribute នេះគឺទាមទារឲ្យមាន។',
-    'gt'                   => [
-        'numeric' => 'The :attribute must be greater than :value.',
-        'file'    => 'The :attribute must be greater than :value kilobytes.',
-        'string'  => 'The :attribute must be greater than :value characters.',
-        'array'   => 'The :attribute must have more than :value items.',
-    ],
-    'gte'                  => [
-        'numeric' => 'The :attribute must be greater than or equal :value.',
-        'file'    => 'The :attribute must be greater than or equal :value kilobytes.',
-        'string'  => 'The :attribute must be greater than or equal :value characters.',
-        'array'   => 'The :attribute must have :value items or more.',
-    ],
-    'image'                => ':attribute ត្រូវតៃជារូបភាព។',
-    'in'                   => 'ការជ្រើសរើស :attribute មិនត្រឹមត្រូវ។',
-    'in_array'             => 'The :attribute field does not exist in :other.',
-    'integer'              => ':attribute ត្រូវតែជាចំនួនគត់។',
-    'ip'                   => ':attribute ត្រូវតែជា IP addressត្រឹមត្រូវ។',
-    'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
-    'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
-    'json'                 => 'The :attribute must be a valid JSON string.',
-    'lt'                   => [
-        'numeric' => 'The :attribute must be less than :value.',
-        'file'    => 'The :attribute must be less than :value kilobytes.',
-        'string'  => 'The :attribute must be less than :value characters.',
-        'array'   => 'The :attribute must have less than :value items.',
-    ],
-    'lte'                  => [
-        'numeric' => 'The :attribute must be less than or equal :value.',
-        'file'    => 'The :attribute must be less than or equal :value kilobytes.',
-        'string'  => 'The :attribute must be less than or equal :value characters.',
-        'array'   => 'The :attribute must not have more than :value items.',
-    ],
-    'max'                  => [
-        'numeric' => ':attribute មិនត្រូវធំជាង :max។',
-        'file'    => ':attribute មិនត្រូវធំជាង :max គីឡូបៃ។',
-        'string'  => ':attribute មិនត្រូវធំជាង :max តួអក្សរ។',
-        'array'   => ':attribute មិនត្រូវច្រើនជាងធាតុនេះ :max។',
-    ],
-    'mimes'                => ':attribute ត្រូវតែជាប្រភេទឯកសារ type: :values នេះ។',
-    'mimetypes'            => ':attribute ត្រូវតែជាប្រភេទឯកសារ type: :values នេះ។',
-    'min'                  => [
-        'numeric' => ':attribute ត្រូវតែតូចជាង :min។',
-        'file'    => ':attribute ត្រូវតៃតួចជាង :min គីឡូបៃ។',
-        'string'  => ':attribute ត្រូវតែតូចជាង :min តួអក្សរ។',
-        'array'   => ':attribute ត្រូវតែតិចជាងធាតុនេះ :min។',
-    ],
-    'not_in'               => 'ការជ្រើសរើស :attribute គឺត្រឹមត្រូវ។',
-    'not_regex'            => 'The :attribute format is invalid.',
-    'numeric'              => ':attribute ត្រូវតែជាលេខ។',
-    'password'             => 'The password is incorrect.',
-    'present'              => 'The :attribute field must be present.',
-    'regex'                => ':attribute ទំរងមិនត្រឹមត្រូវ។',
-    'required'             => 'ទំរង់ :attribute នេះគឺទាមទារឲ្យមាន។',
-    'required_if'          => 'ទំរង់ :attribute នេះគឺទាមទារនៅពេល :other គឺ :value។',
-    'required_unless'      => 'The :attribute field is required unless :other is in :values.',
-    'required_with'        => 'ទំរង់ :attribute នេះគឺទាមទារនៅពេល :values ត្រូវបង្ហាញ។',
-    'required_with_all'    => 'The :attribute field is required when :values is present.',
-    'required_without'     => 'ទំរង់ :attribute នេះគឺទាមទារនៅពេល :values មិនត្រូវបង្ហាញ។',
-    'required_without_all' => 'ទំរង់ :attribute នេះគឺត្រូវបានទាមទារពេលគ្មាន :values បានបង្ហាញ។',
-    'same'                 => 'ទំរង់ :attribute និង :other ត្រូវតែដូចគ្នា។',
-    'size'                 => [
-        'numeric' => ':attribute ត្រូវតែ :size។',
-        'file'    => ':attribute ត្រូវតែ :size គីឡូបៃ។',
-        'string'  => ':attribute ត្រូវតែ :size តួអក្សរ។',
-        'array'   => ':attribute ត្រូវតែមានទំហំ :size។',
-    ],
-    'starts_with'          => 'The :attribute must start with one of the following: :values.',
-    'string'               => 'The :attribute must be a string.',
-    'timezone'             => 'The :attribute must be a valid zone.',
-    'unique'               => ':attribute ត្រូវបានប្រើរួចហើយ។',
-    'uploaded'             => 'The :attribute failed to upload.',
-    'url'                  => ':attribute ទំរង់ត្រឹមត្រូវ។',
-    'uuid'                 => 'The :attribute must be a valid UUID.',
+	'accepted'             => ':attribute ត្រូវបានទទួលយក។',
+	'active_url'           => ':attribute មិនមែនជា URL ត្រឹមត្រូវឡើយ។',
+	'after'                => ':attribute ត្រូវតែមានកាលបរិច្ឆេទបន្ទាប់ពី :date។',
+	'after_or_equal'       => ':attribute ត្រូវតែជាកាលបរិច្ឆេទ ក្រោយឬស្មើ :date។',
+	'alpha'                => ':attribute អាចមានអក្សរតែប៉ុណ្ណោះ។',
+	'alpha_dash'           => ':attribute អាចមានតែអក្សរ លេខ និងសហសញ្ញា(-)។',
+	'alpha_num'            => ':attribute អាចមានតែអក្សរ និងលេខ។',
+	'array'                => ':attribute ត្រូវតែជា សំណុំ។',
+	'before'               => ':attribute ត្រូវតែមានកាលបរិច្ឆេទមុន :date។',
+	'before_or_equal'      => ':attribute ត្រូវតែជាកាលបរិច្ឆេទ មុនឬស្មើ :date។',
+	'between'              => [
+		'numeric' => ':attribute ត្រូវតែមានរវាង :min និង :max។',
+		'file'    => ':attribute ត្រូវតែមានរវាង :min និង :max គីឡូបៃ។',
+		'string'  => ':attribute ត្រូវតែមានរវាង :min និង :max តួអក្សរ។',
+		'array'   => ':attribute ត្រូវតែមានចំនួនរវាង :min និង :max។',
+	],
+	'boolean'              => ':attribute ត្រូវតែជា true ឬ false',
+	'confirmed'            => ':attribute ការបញ្ជាក់មិនផ្គូរផ្គង។',
+	'date'                 => ':attribute គឺមិនមែនជាកាលបរិច្ឆេទត្រឹមត្រូវ។',
+	'date_equals'          => ':attribute ត្រូវតែជាកាលបរិច្ឆេទស្មើនឹង :date.',
+	'date_format'          => ':attribute មិនត្រឹមត្រូវនឹងទម្រង់ :format នេះ។',
+	'different'            => ':attribute និង :other ត្រូវតែបញ្ជាក់។',
+	'digits'               => ':attribute ត្រូវជាខ្ទង់ :digits។',
+	'digits_between'       => ':attribute ត្រូវចាប់ពីខ្ទង់ :min ទៅ :max។',
+	'dimensions'           => 'ទំហំរូបភាព​ :attribute មិនត្រឹមត្រូវ។',
+	'distinct'             => ':attribute មានតម្លៃស្ទួន។',
+	'email'                => ':attribute ទម្រង់នេះមិនត្រឹមត្រូវ។',
+	'ends_with'            => ':attribute ត្រូវបញ្ចប់ដោយពាក្យមួយក្នុងចំណោម :values។',
+	'exists'               => 'ការជ្រើសរើស :attribute ត្រឹមត្រូវ។',
+	'file'                 => ':attribute ត្រូវតែជាប្រភេទឯកសារ។',
+	'filled'               => 'ទម្រង់ :attribute នេះគឺទាមទារឲ្យមាន។',
+	'gt'                   => [
+		'numeric' => ':attribute ត្រូវតែធំជាង :value។',
+		'file'    => ':attribute ត្រូវតែធំជាង :value គីឡូបៃ។',
+		'string'  => ':attribute ត្រូវតែធំជាង :value តួអក្សរ។',
+		'array'   => ':attribute ត្រូវមានច្រើនជាង :value។',
+	],
+	'gte'                  => [
+		'numeric' => ':attribute ត្រូវតែធំជាងឬស្មើ :value.',
+		'file'    => ':attribute ត្រូវតែធំជាងឬស្មើ :value គីឡូបៃ។',
+		'string'  => ':attribute ត្រូវតែធំជាងឬស្មើ :value តួអក្សរ។',
+		'array'   => ':attribute ត្រូវមានចំនួន :value ឬច្រើនជាង។',
+	],
+	'image'                => ':attribute ត្រូវតៃជារូបភាព។',
+	'in'                   => 'ការជ្រើសរើស :attribute មិនត្រឹមត្រូវ។',
+	'in_array'             => ':attribute ត្រូវតែជាមួយក្នុងចំណោម :other។',
+	'integer'              => ':attribute ត្រូវតែជាចំនួនគត់។',
+	'ip'                   => ':attribute ត្រូវតែជា IP address ត្រឹមត្រូវ។',
+	'ipv4'                 => ':attribute ត្រូវតែជា IPv4 address ត្រឹមត្រូវ។',
+	'ipv6'                 => ':attribute ត្រូវតែជា IPv6 address ត្រឹមត្រូវ។',
+	'json'                 => ':attribute ត្រូវតែជា JSON string ត្រឹមត្រូវ។',
+	'lt'                   => [
+		'numeric' => ':attribute ត្រូវតែតិចជាង :value.',
+		'file'    => ':attribute ត្រូវតែតិចជាង :value គីឡូបៃ។',
+		'string'  => ':attribute ត្រូវតែតិចជាង :value តួអក្សរ។',
+		'array'   => ':attribute ត្រូវតែមានចំនួនតិចជាង :value។',
+	],
+	'lte'                  => [
+		'numeric' => ':attribute ត្រូវតែតិចជាងឬស្មើ :value.',
+		'file'    => ':attribute ត្រូវតែតិចជាងឬស្មើ :value គីឡូបៃ។',
+		'string'  => ':attribute ត្រូវតែតិចជាងឬស្មើ :value តួអក្សរ។',
+		'array'   => ':attribute ត្រូវមានចំនួនតិចជាង :value។',
+	],
+	'max'                  => [
+		'numeric' => ':attribute មិនត្រូវធំជាង :max។',
+		'file'    => ':attribute មិនត្រូវធំជាង :max គីឡូបៃ។',
+		'string'  => ':attribute មិនត្រូវធំជាង :max តួអក្សរ។',
+		'array'   => ':attribute មិនត្រូវច្រើនជាងធាតុនេះ :max។',
+	],
+	'mimes'                => ':attribute ត្រូវតែជាប្រភេទឯកសារ type: :values នេះ។',
+	'mimetypes'            => ':attribute ត្រូវតែជាប្រភេទឯកសារ type: :values នេះ។',
+	'min'                  => [
+		'numeric' => ':attribute ត្រូវតែតូចជាង :min។',
+		'file'    => ':attribute ត្រូវតៃតួចជាង :min គីឡូបៃ។',
+		'string'  => ':attribute ត្រូវតែតូចជាង :min តួអក្សរ។',
+		'array'   => ':attribute ត្រូវតែតិចជាងធាតុនេះ :min។',
+	],
+	'multiple_of'          => ':attribute ត្រូវតែជាចំនួនចែកដាច់នឹង :value។',
+	'not_in'               => 'ការជ្រើសរើស :attribute គឺមិនត្រឹមត្រូវ។',
+	'not_regex'            => ':attribute ទម្រង់ គឺមិនត្រឹមត្រូវ។',
+	'numeric'              => ':attribute ត្រូវតែជាលេខ។',
+	'password'             => 'ពាក្យសម្ងាត់មិនត្រឺមត្រូវ។',
+	'present'              => ':attribute ត្រូវតែមាន។',
+	'regex'                => ':attribute ទម្រង់មិនត្រឹមត្រូវ។',
+	'required'             => ':attribute នេះគឺទាមទារឲ្យមាន។',
+	'required_if'          => ':attribute នេះគឺទាមទារនៅពេល :other គឺ :value។',
+	'required_unless'      => ':attribute នេះគឺទាមទារនៅពេល :other មិនមែន :values។',
+	'required_with'        => ':attribute នេះគឺទាមទារនៅពេល :values មាន។',
+	'required_with_all'    => ':attribute នេះគឺទាមទារនៅពេល :values មាន។',
+	'required_without'     => ':attribute នេះគឺទាមទារនៅពេល :values មិនមាន។',
+	'required_without_all' => ':attribute នេះគឺត្រូវបានទាមទារពេល :values មិនមាន។',
+	'same'                 => ':attribute និង :other ត្រូវតែដូចគ្នា។',
+	'size'                 => [
+		'numeric' => ':attribute ត្រូវតែ :size។',
+		'file'    => ':attribute ត្រូវតែ :size គីឡូបៃ។',
+		'string'  => ':attribute ត្រូវតែ :size តួអក្សរ។',
+		'array'   => ':attribute ត្រូវតែមានទំហំ :size។',
+	],
+	'starts_with'          => ':attribute ត្រូវចាប់ផ្តើមដោយ :values ណាមួយ។',
+	'string'               => ':attribute ត្រូវតែជាប្រភេទតួអក្សរ។',
+	'timezone'             => ':attribute ត្រូវតែជាតំបន់ដែលត្រឹមត្រូវ។',
+	'unique'               => ':attribute ត្រូវបានប្រើរួចហើយ។',
+	'uploaded'             => ':attribute បរាជ័យក្នុងការបញ្ចូល។',
+	'url'                  => ':attribute ទម្រង់ត្រឹមត្រូវ។',
+	'uuid'                 => ':attribute ត្រូវតែជាទម្រង់ UUID។',
 
-    /*
+	/*
     |--------------------------------------------------------------------------
     | Custom Validation Language Lines
     |--------------------------------------------------------------------------
@@ -128,13 +129,13 @@ return [
     |
     */
 
-    'custom' => [
-        'attribute-name' => [
-            'rule-name' => 'custom-message',
-        ],
-    ],
+	'custom' => [
+		'attribute-name' => [
+			'rule-name' => 'custom-message',
+		],
+	],
 
-    /*
+	/*
     |--------------------------------------------------------------------------
     | Custom Validation Attributes
     |--------------------------------------------------------------------------
@@ -145,6 +146,5 @@ return [
     |
     */
 
-    'attributes' => [
-    ],
+	'attributes' => [],
 ];

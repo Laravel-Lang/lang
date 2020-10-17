@@ -90,6 +90,7 @@ return [
         'string'  => 'يجب أن يكون طول النص :attribute على الأقل :min حروفٍ/حرفًا.',
         'array'   => 'يجب أن يحتوي :attribute على الأقل على :min عُنصرًا/عناصر.',
     ],
+    'multiple_of'          => 'The value must be a multiple of :value',
     'not_in'               => 'العنصر :attribute غير صحيح.',
     'not_regex'            => 'صيغة :attribute غير صحيحة.',
     'numeric'              => 'يجب على :attribute أن يكون رقمًا.',

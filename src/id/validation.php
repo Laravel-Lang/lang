@@ -89,6 +89,7 @@ return [
         'string'  => ':Attribute minimal berisi :min karakter.',
         'array'   => ':Attribute minimal terdiri dari :min anggota.',
     ],
+    'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => ':Attribute yang dipilih tidak valid.',
     'not_regex'            => 'Format :attribute tidak valid.',
     'numeric'              => ':Attribute harus berupa angka.',

@@ -89,6 +89,7 @@ return [
         'string'  => ':attribute ត្រូវតែតូចជាង :min តួអក្សរ។',
         'array'   => ':attribute ត្រូវតែតិចជាងធាតុនេះ :min។',
     ],
+    'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => 'ការជ្រើសរើស :attribute គឺត្រឹមត្រូវ។',
     'not_regex'            => 'The :attribute format is invalid.',
     'numeric'              => ':attribute ត្រូវតែជាលេខ។',

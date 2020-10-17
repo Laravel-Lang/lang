@@ -89,6 +89,7 @@ return [
         'string'  => ':attribute debe ser polo menos de :min caracteres.',
         'array'   => ':attribute debe ter polo menos :min elementos.',
     ],
+    'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => ':attribute seleccionado non é válido.',
     'not_regex'            => 'O formato de :attribute non é válido.',
     'numeric'              => ':attribute debe ser un número.',

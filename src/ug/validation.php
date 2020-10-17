@@ -89,6 +89,7 @@ return [
         'string'  => ':attribute ئەڭ ئاز بولغاندا :min خەت بۇلىشى كېرەك.',
         'array'   => ':attribute ئەڭ ئاز بولغاندا :min بۆلەك بۇلىشى كېرەك.',
     ],
+    'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => 'تاللانغان قىممەت :attribute ئىناۋەتسىز.',
     'not_regex'            => 'The :attribute format is invalid.',
     'numeric'              => ':attribute چوقۇم سان-سىفىر بۇلىشى كېرەك.',

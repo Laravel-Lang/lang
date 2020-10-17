@@ -90,6 +90,7 @@ return [
         'string'  => 'У рядку має бути не менше :min символів.',
         'array'   => 'Значення повинно мати не менше :min елементів.',
     ],
+    'multiple_of'          => 'The value must be a multiple of :value',
     'not_in'               => 'Вибране значення недійсне.',
     'not_regex'            => 'Формат недійсний.',
     'numeric'              => 'Повинно бути число.',

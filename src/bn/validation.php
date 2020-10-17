@@ -89,6 +89,7 @@ return [
         'string'  => ':attribute অবশ্যই :min অক্ষর এর চেয়ে ছোট হতে হবে।',
         'array'   => ':attribute অবশ্যই :min উপাদানের চেয়ে ছোট হতে হবে।',
     ],
+    'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => 'নির্বাচিত :attribute অবৈধ।',
     'not_regex'            => 'The :attribute format is invalid.',
     'numeric'              => ':attribute একটি সংখ্যা হতে হবে।',

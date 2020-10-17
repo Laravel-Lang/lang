@@ -89,6 +89,7 @@ return [
         'string'  => ':attribute कमीत कमी :min शब्द असावी.',
         'array'   => ':attribute कमीत कमी :min आइटम असावी.',
     ],
+    'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => 'घेतलेला :attribute वैध नाही.',
     'not_regex'            => ':attribute प्रारूप वैध नाही.',
     'numeric'              => ':attribute एक संख्या असावी.',

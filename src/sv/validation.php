@@ -89,6 +89,7 @@ return [
         'string'  => ':Attribute måste innehålla minst :min tecken.',
         'array'   => ':Attribute måste innehålla minst :min objekt.',
     ],
+    'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => ':Attribute är ogiltigt.',
     'not_regex'            => 'Formatet för :attribute är ogiltigt.',
     'numeric'              => ':Attribute måste vara en siffra.',

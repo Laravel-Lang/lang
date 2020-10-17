@@ -90,6 +90,7 @@ return [
         'string'  => 'Rečenica mora da sadrži najmanje :min slova.',
         'array'   => 'Niz mora da ima najmanje :min stavki.',
     ],
+    'multiple_of'          => 'The value must be a multiple of :value',
     'not_in'               => 'Selektovana vrednost nije validna.',
     'not_regex'            => 'Format nije validan.',
     'numeric'              => 'Ovo mora biti broj.',

@@ -89,6 +89,7 @@ return [
         'string'  => 'Trường :attribute phải có tối thiểu :min ký tự.',
         'array'   => 'Trường :attribute phải có tối thiểu :min phần tử.',
     ],
+    'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => 'Giá trị đã chọn trong trường :attribute không hợp lệ.',
     'not_regex'            => 'Trường :attribute có định dạng không hợp lệ.',
     'numeric'              => 'Trường :attribute phải là một số.',

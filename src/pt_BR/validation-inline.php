@@ -90,6 +90,7 @@ return [
         'string'  => 'A sequência deve ser pelo menos :min characters.',
         'array'   => 'O valor deve ter pelo menos :min itens.',
     ],
+    'multiple_of'          => 'The value must be a multiple of :value',
     'not_in'               => 'O valor selecionado é inválido.',
     'not_regex'            => 'Este formato é inválido.',
     'numeric'              => 'Este deve ser um número.',

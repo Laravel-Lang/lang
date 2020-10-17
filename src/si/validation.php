@@ -88,6 +88,7 @@ return [
         'string'  => 'මෙම :attribute අවම වශයෙන් විය යුතුය :min ප්රමාණය..',
         'array'   => 'මෙම :attribute අවම වශයෙන් තිබිය යුතුය :min අයිතම.',
     ],
+    'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => 'මෙම තෝරා ඇත :attribute අවලංගුයි.',
     'not_regex'            => 'මෙම :attribute ආකෘතිය අවලංගුයි.',
     'numeric'              => 'මෙම :attribute අංකයක් විය යුතුය.',

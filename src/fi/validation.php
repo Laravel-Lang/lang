@@ -89,6 +89,7 @@ return [
         'string'  => 'Kentän :attribute arvon tulee olla vähintään :min merkkiä.',
         'array'   => 'Kentän :attribute tulee sisältää vähintään :min arvoa.',
     ],
+    'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => 'Kentän :attribute arvo on virheellinen.',
     'not_regex'            => 'Kentän :attribute formaatti on virheellinen.',
     'numeric'              => 'Kentän :attribute arvon tulee olla numero.',

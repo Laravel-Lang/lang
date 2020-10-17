@@ -90,6 +90,7 @@ return [
         'string'  => 'Šio lauko simbolių kiekis turi būti ne mažiau nei :min.',
         'array'   => 'Šio lauko elementų kiekis turi būti ne mažiau nei :min.',
     ],
+    'multiple_of'          => 'The value must be a multiple of :value',
     'not_in'               => 'Pasirinkta negaliojanti reikšmė.',
     'not_regex'            => 'Šio lauko formatas yra neteisingas.',
     'numeric'              => 'Šio lauko reikšmė turi būti skaičius.',

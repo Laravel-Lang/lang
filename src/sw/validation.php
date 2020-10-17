@@ -89,6 +89,7 @@ return [
         'string'  => 'Kipengele lazima kiwe angalau :min cha herufi.',
         'array'   => 'Kipengele lazima kiwe na angalau :min cha vifungu.',
     ],
+    'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => 'Kipengele kilichochaguliwa si halali.',
     'not_regex'            => 'Muundo wa :attribute si sahihi.',
     'numeric'              => 'Kipengele lazima kiwe nambari.',

@@ -89,6 +89,7 @@ return [
         'string'  => ':attributeは、:min文字以上にしてください。',
         'array'   => ':attributeの項目は、:min個以上にしてください。',
     ],
+    'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => '選択された:attributeは、有効ではありません。',
     'not_regex'            => ':attributeの形式が無効です。',
     'numeric'              => ':attributeには、数字を指定してください。',

@@ -89,6 +89,7 @@ return [
         'string'  => 'Το πεδίο :attribute πρέπει να έχει τουλάχιστον :min χαρακτήρες.',
         'array'   => 'Το πεδίο :attribute πρέπει να έχει τουλάχιστον :min αντικείμενα.',
     ],
+    'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => 'Το επιλεγμένο :attribute δεν είναι αποδεκτό.',
     'not_regex'            => 'Η μορφή του πεδίου :attribute δεν είναι αποδεκτή.',
     'numeric'              => 'Το πεδίο :attribute πρέπει να είναι αριθμός.',

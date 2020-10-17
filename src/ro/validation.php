@@ -89,6 +89,7 @@ return [
         'string'  => 'Câmpul :attribute trebuie să aibă cel puțin :min caractere.',
         'array'   => 'Câmpul :attribute trebuie să aibă cel puțin :min elemente.',
     ],
+    'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => 'Câmpul :attribute selectat nu este valid.',
     'not_regex'            => 'Câmpul :attribute nu are un format valid.',
     'numeric'              => 'Câmpul :attribute trebuie să fie un număr.',

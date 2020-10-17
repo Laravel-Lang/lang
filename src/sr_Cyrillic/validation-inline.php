@@ -90,6 +90,7 @@ return [
         'string'  => 'Реченица мора да садржи најмање :min слова.',
         'array'   => 'Низ мора да има најмање :min ставки.',
     ],
+    'multiple_of'          => 'The value must be a multiple of :value',
     'not_in'               => 'Селектована вредност није валидна.',
     'not_regex'            => 'Формат није валидан.',
     'numeric'              => 'Ово мора бити број.',

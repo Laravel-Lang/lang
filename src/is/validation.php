@@ -89,6 +89,7 @@ return [
         'string'  => 'Reiturinn :attribute verður að vera að lágmarki :min stafir.',
         'array'   => 'Reiturinn :attribute verður að vera að lágmarki :min stök.',
     ],
+    'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => 'Reiturinn :attribute er ógildur.',
     'not_regex'            => ':attribute sniðið er ógilt.',
     'numeric'              => 'Reiturinn :attribute verður að vera tala.',

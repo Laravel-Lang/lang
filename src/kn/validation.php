@@ -89,6 +89,7 @@ return [
         'string'  => 'ಈ  :attribute ಕನಿಷ್ಠ :min ಅಕ್ಷರಗಳಿರಬೇಕು.',
         'array'   => 'ಈ  :attribute ಕನಿಷ್ಠ :min ಐಟಂಗಳಿರಬೇಕು.  ',
     ],
+    'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => 'ಈ  ಆಯ್ಕೆಮಾಡಲಾದ :attribute ಅಮಾನ್ಯವಾಗಿದೆ.',
     'not_regex'            => 'ಈ  :attribute ಸ್ವರೂಪ ಅಮಾನ್ಯವಾಗಿದೆ.',
     'numeric'              => 'ಈ  :attribute must be a number.',

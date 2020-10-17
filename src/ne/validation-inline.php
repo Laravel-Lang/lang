@@ -90,6 +90,7 @@ return [
         'string'  => 'स्ट्रिङ्ग कम्तिमा हुनुपर्दछ :min वर्णहरू।',
         'array'   => 'मान कम्तिमा पनि हुनुपर्दछ :min आईटमहरू।',
     ],
+    'multiple_of'          => 'The value must be a multiple of :value',
     'not_in'               => 'चयनित मान अवैध छ।',
     'not_regex'            => 'यो ढाँचा अवैध छ।',
     'numeric'              => 'यो संख्या हुनुपर्दछ।',

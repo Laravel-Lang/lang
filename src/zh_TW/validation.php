@@ -89,6 +89,7 @@ return [
         'string'  => ':attribute 不能小於 :min 個字元。',
         'array'   => ':attribute 至少有 :min 個元素。',
     ],
+    'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => '所選擇的 :attribute 選項無效。',
     'not_regex'            => ':attribute 的格式錯誤。',
     'numeric'              => ':attribute 必須為一個數字。',

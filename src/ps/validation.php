@@ -88,6 +88,7 @@ return [
         'string'  => 'د متن اوږدوالی باید وي :attribute لږترلږه :min توري/توري.',
         'array'   => 'شمیرې او متره :attribute لږ تر لږه :min عنصر / عناصر.',
     ],
+    'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => ':attribute موجود.',
     'not_regex'            => 'فورمول :attribute غلط.',
     'numeric'              => 'باید:attribute یو شمېره.',

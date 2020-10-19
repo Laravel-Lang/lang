@@ -90,7 +90,7 @@ return [
         'string'  => 'Pole musi mieć przynajmniej :min znaków.',
         'array'   => 'Pole musi mieć przynajmniej :min elementów.',
     ],
-    'multiple_of'          => 'The value must be a multiple of :value',
+    'multiple_of'          => 'Pole :attribute musi być wielokrotnością wartości :value',
     'not_in'               => 'Zaznaczona wartość jest nieprawidłowa.',
     'not_regex'            => 'Format pola jest nieprawidłowy.',
     'numeric'              => 'Pole musi być liczbą.',

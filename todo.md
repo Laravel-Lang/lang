@@ -1,11 +1,11 @@
 # Todo list
 | | | | | | | | | | |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-[ar ❗](#ar)|[az ❗](#az)|[be ❗](#be)|[bg ❗](#bg)|[bn ❗](#bn)|[bs ❗](#bs)|[ca ❗](#ca)|[cs ❗](#cs)|[cy ❗](#cy)|[da ❗](#da)
-[de ❗](#de)|[de_CH ❗](#de_CH)|[el ❗](#el)|[es ✔](#es)|[et ❗](#et)|[eu ❗](#eu)|[fa ❗](#fa)|[fi ❗](#fi)|[fil ❗](#fil)|[fr ❗](#fr)
+[ar ✔](#ar)|[az ❗](#az)|[be ❗](#be)|[bg ❗](#bg)|[bn ❗](#bn)|[bs ❗](#bs)|[ca ❗](#ca)|[cs ❗](#cs)|[cy ❗](#cy)|[da ❗](#da)
+[de ❗](#de)|[de_CH ❗](#de_CH)|[el ❗](#el)|[es ✔](#es)|[et ❗](#et)|[eu ❗](#eu)|[fa ❗](#fa)|[fi ❗](#fi)|[fil ❗](#fil)|[fr ✔](#fr)
 [gl ❗](#gl)|[he ❗](#he)|[hi ❗](#hi)|[hr ❗](#hr)|[hu ❗](#hu)|[hy ❗](#hy)|[id ❗](#id)|[is ❗](#is)|[it ❗](#it)|[ja ❗](#ja)
 [ka ❗](#ka)|[kk ❗](#kk)|[km ❗](#km)|[kn ❗](#kn)|[ko ❗](#ko)|[lt ❗](#lt)|[lv ❗](#lv)|[me ❗](#me)|[mk ❗](#mk)|[mn ❗](#mn)
-[mr ❗](#mr)|[ms ❗](#ms)|[nb ❗](#nb)|[ne ❗](#ne)|[nl ❗](#nl)|[nn ❗](#nn)|[pl ❗](#pl)|[ps ❗](#ps)|[pt ❗](#pt)|[pt_BR ❗](#pt_BR)
+[mr ❗](#mr)|[ms ❗](#ms)|[nb ❗](#nb)|[ne ❗](#ne)|[nl ❗](#nl)|[nn ❗](#nn)|[pl ✔](#pl)|[ps ❗](#ps)|[pt ❗](#pt)|[pt_BR ❗](#pt_BR)
 [ro ❗](#ro)|[ru ❗](#ru)|[sc ❗](#sc)|[si ❗](#si)|[sk ❗](#sk)|[sl ❗](#sl)|[sq ❗](#sq)|[sr_Cyrillic ❗](#sr_Cyrillic)|[sr_Latin ❗](#sr_Latin)|[sv ❗](#sv)
 [sw ❗](#sw)|[tg ❗](#tg)|[th ❗](#th)|[tk ❗](#tk)|[tl ❗](#tl)|[tr ❗](#tr)|[ug ❗](#ug)|[uk ❗](#uk)|[ur ❗](#ur)|[uz_Cyrillic ❗](#uz_Cyrillic)
 [uz_Latin ❗](#uz_Latin)|[vi ❗](#vi)|[zh_CN ❗](#zh_CN)|[zh_HK ❗](#zh_HK)|[zh_TW ❗](#zh_TW)
@@ -15,18 +15,14 @@
 
 ## ar
 
-<details>
-<summary>show<small> (all missing: 1, including not present: 1)</small></summary>
 
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
+All lines are translated 😊
 
-[ [to top](#todo-list) ]
-</details>
 
 ## az
 
 <details>
-<summary>show<small> (all missing: 286, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 286, including not present: 0)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -85,7 +81,7 @@
  * json : Go Home
  * json : Go to page :page
  * json : Hello!
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you did not request a password reset, no further action is required.
@@ -322,7 +318,7 @@ into your web browser:
 ## be
 
 <details>
-<summary>show<small> (all missing: 296, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 296, including not present: 0)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -381,7 +377,7 @@ into your web browser:
  * json : Go Home
  * json : Go to page :page
  * json : Hello!
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you did not request a password reset, no further action is required.
@@ -628,7 +624,7 @@ into your web browser:
 ## bg
 
 <details>
-<summary>show<small> (all missing: 264, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 264, including not present: 0)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -687,7 +683,7 @@ into your web browser:
  * json : Go Home
  * json : Go to page :page
  * json : Hello!
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you did not request a password reset, no further action is required.
@@ -902,7 +898,7 @@ into your web browser:
 ## bn
 
 <details>
-<summary>show<small> (all missing: 286, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 286, including not present: 0)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -961,7 +957,7 @@ into your web browser:
  * json : Go Home
  * json : Go to page :page
  * json : Hello!
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you did not request a password reset, no further action is required.
@@ -1198,7 +1194,7 @@ into your web browser:
 ## bs
 
 <details>
-<summary>show<small> (all missing: 300, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 300, including not present: 0)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -1257,7 +1253,7 @@ into your web browser:
  * json : Go Home
  * json : Go to page :page
  * json : Hello!
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you did not request a password reset, no further action is required.
@@ -1508,7 +1504,7 @@ into your web browser:
 ## ca
 
 <details>
-<summary>show<small> (all missing: 220, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 220, including not present: 0)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you.
@@ -1557,7 +1553,7 @@ into your web browser:
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
  * json : Go to page :page
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : Last active
  * json : Last used
  * json : Leave Team
@@ -1737,7 +1733,7 @@ into your web browser:
 ## cs
 
 <details>
-<summary>show<small> (all missing: 222, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 222, including not present: 0)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you.
@@ -1786,7 +1782,7 @@ into your web browser:
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
  * json : Go to page :page
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : Last active
  * json : Last used
  * json : Leave Team
@@ -1968,7 +1964,7 @@ into your web browser:
 ## cy
 
 <details>
-<summary>show<small> (all missing: 301, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 301, including not present: 0)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -2027,7 +2023,7 @@ into your web browser:
  * json : Go Home
  * json : Go to page :page
  * json : Hello!
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you did not request a password reset, no further action is required.
@@ -2279,7 +2275,7 @@ into your web browser:
 ## da
 
 <details>
-<summary>show<small> (all missing: 222, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 222, including not present: 0)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you.
@@ -2328,7 +2324,7 @@ into your web browser:
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
  * json : Go to page :page
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : Last active
  * json : Last used
  * json : Leave Team
@@ -2510,9 +2506,8 @@ into your web browser:
 ## de
 
 <details>
-<summary>show<small> (all missing: 3, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 2, including not present: 0)</small></summary>
 
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * validation : multiple_of
  * validation-inline : multiple_of
 
@@ -2522,7 +2517,7 @@ into your web browser:
 ## de_CH
 
 <details>
-<summary>show<small> (all missing: 131, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 131, including not present: 0)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you.
@@ -2571,7 +2566,7 @@ into your web browser:
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
  * json : Go to page :page
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : Last active
  * json : Last used
  * json : Leave Team
@@ -2662,7 +2657,7 @@ into your web browser:
 ## el
 
 <details>
-<summary>show<small> (all missing: 212, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 212, including not present: 0)</small></summary>
 
  * json : Add a new team member to your team, allowing them to collaborate with you.
  * json : Add additional security to your account using two factor authentication.
@@ -2706,7 +2701,7 @@ into your web browser:
  * json : Ensure your account is using a long, random password to stay secure.
  * json : For your security, please confirm your password to continue.
  * json : Go to page :page
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : Invalid signature.
  * json : Last active
  * json : Last used
@@ -2889,7 +2884,7 @@ All lines are translated 😊
 ## et
 
 <details>
-<summary>show<small> (all missing: 266, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 266, including not present: 0)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -2948,7 +2943,7 @@ All lines are translated 😊
  * json : Go Home
  * json : Go to page :page
  * json : Hello!
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you did not request a password reset, no further action is required.
@@ -3165,7 +3160,7 @@ into your web browser:
 ## eu
 
 <details>
-<summary>show<small> (all missing: 231, including not present: 12)</small></summary>
+<summary>show<small> (all missing: 231, including not present: 11)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you.
@@ -3214,7 +3209,7 @@ into your web browser:
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
  * json : Go to page :page
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : Invalid signature. : not present
  * json : Last active
  * json : Last used
@@ -4102,13 +4097,9 @@ into your web browser: : not present
 
 ## fr
 
-<details>
-<summary>show<small> (all missing: 1, including not present: 1)</small></summary>
 
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
+All lines are translated 😊
 
-[ [to top](#todo-list) ]
-</details>
 
 ## gl
 
@@ -5988,9 +5979,8 @@ into your web browser:
 ## it
 
 <details>
-<summary>show<small> (all missing: 3, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 2, including not present: 0)</small></summary>
 
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * validation : multiple_of
  * validation-inline : multiple_of
 
@@ -7378,9 +7368,8 @@ into your web browser:
 ## lt
 
 <details>
-<summary>show<small> (all missing: 3, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 2, including not present: 0)</small></summary>
 
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * validation : multiple_of
  * validation-inline : multiple_of
 
@@ -9712,13 +9701,9 @@ into your web browser:
 
 ## pl
 
-<details>
-<summary>show<small> (all missing: 1, including not present: 1)</small></summary>
 
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
+All lines are translated 😊
 
-[ [to top](#todo-list) ]
-</details>
 
 ## ps
 
@@ -9963,9 +9948,8 @@ into your web browser:
 ## pt
 
 <details>
-<summary>show<small> (all missing: 3, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 2, including not present: 0)</small></summary>
 
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * validation : multiple_of
  * validation-inline : multiple_of
 
@@ -9975,10 +9959,9 @@ into your web browser:
 ## pt_BR
 
 <details>
-<summary>show<small> (all missing: 4, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 3, including not present: 0)</small></summary>
 
  * json : Editor
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * validation : multiple_of
  * validation-inline : multiple_of
 
@@ -10217,9 +10200,8 @@ into your web browser:
 ## ru
 
 <details>
-<summary>show<small> (all missing: 3, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 2, including not present: 0)</small></summary>
 
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * validation : multiple_of
  * validation-inline : multiple_of
 
@@ -11490,14 +11472,13 @@ into your web browser:
 ## sr_Cyrillic
 
 <details>
-<summary>show<small> (all missing: 14, including not present: 12)</small></summary>
+<summary>show<small> (all missing: 13, including not present: 11)</small></summary>
 
  * json : Administrator users can perform any action. : not present
  * json : Administrator : not present
  * json : Editor users have the ability to read, create, and update. : not present
  * json : Editor : not present
  * json : Go to page :page : not present
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : of : not present
  * json : Pagination Navigation : not present
  * json : results : not present
@@ -11513,14 +11494,13 @@ into your web browser:
 ## sr_Latin
 
 <details>
-<summary>show<small> (all missing: 14, including not present: 12)</small></summary>
+<summary>show<small> (all missing: 13, including not present: 11)</small></summary>
 
  * json : Administrator users can perform any action. : not present
  * json : Administrator : not present
  * json : Editor users have the ability to read, create, and update. : not present
  * json : Editor : not present
  * json : Go to page :page : not present
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : of : not present
  * json : Pagination Navigation : not present
  * json : results : not present
@@ -12584,7 +12564,7 @@ into your web browser: : not present
 ## tk
 
 <details>
-<summary>show<small> (all missing: 301, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 301, including not present: 0)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -12643,7 +12623,7 @@ into your web browser: : not present
  * json : Go Home
  * json : Go to page :page
  * json : Hello!
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you did not request a password reset, no further action is required.
@@ -12895,7 +12875,7 @@ into your web browser:
 ## tl
 
 <details>
-<summary>show<small> (all missing: 294, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 294, including not present: 0)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -12954,7 +12934,7 @@ into your web browser:
  * json : Go Home
  * json : Go to page :page
  * json : Hello!
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you did not request a password reset, no further action is required.
@@ -13199,7 +13179,7 @@ into your web browser:
 ## tr
 
 <details>
-<summary>show<small> (all missing: 203, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 203, including not present: 0)</small></summary>
 
  * json : Add a new team member to your team, allowing them to collaborate with you.
  * json : Add additional security to your account using two factor authentication.
@@ -13242,7 +13222,7 @@ into your web browser:
  * json : Ensure your account is using a long, random password to stay secure.
  * json : For your security, please confirm your password to continue.
  * json : Go to page :page
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : Last active
  * json : Last used
  * json : Leave Team
@@ -13411,7 +13391,7 @@ into your web browser:
 ## ug
 
 <details>
-<summary>show<small> (all missing: 286, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 286, including not present: 0)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -13470,7 +13450,7 @@ into your web browser:
  * json : Go Home
  * json : Go to page :page
  * json : Hello!
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you did not request a password reset, no further action is required.
@@ -13707,7 +13687,7 @@ into your web browser:
 ## uk
 
 <details>
-<summary>show<small> (all missing: 129, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 129, including not present: 0)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you.
@@ -13755,7 +13735,7 @@ into your web browser:
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
  * json : Go to page :page
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : Last active
  * json : Last used
  * json : Leave Team
@@ -13845,7 +13825,7 @@ into your web browser:
 ## ur
 
 <details>
-<summary>show<small> (all missing: 280, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 280, including not present: 0)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -13901,7 +13881,7 @@ into your web browser:
  * json : Go Home
  * json : Go to page :page
  * json : Hello!
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
@@ -14135,7 +14115,7 @@ into your web browser:
 ## uz_Cyrillic
 
 <details>
-<summary>show<small> (all missing: 263, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 263, including not present: 0)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -14194,7 +14174,7 @@ into your web browser:
  * json : Go Home
  * json : Go to page :page
  * json : Hello!
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you did not request a password reset, no further action is required.
@@ -14408,7 +14388,7 @@ into your web browser:
 ## uz_Latin
 
 <details>
-<summary>show<small> (all missing: 263, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 263, including not present: 0)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -14467,7 +14447,7 @@ into your web browser:
  * json : Go Home
  * json : Go to page :page
  * json : Hello!
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you did not create an account, no further action is required.
  * json : If you did not receive the email
  * json : If you did not request a password reset, no further action is required.
@@ -14681,7 +14661,7 @@ into your web browser:
 ## vi
 
 <details>
-<summary>show<small> (all missing: 218, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 218, including not present: 0)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you.
@@ -14729,7 +14709,7 @@ into your web browser:
  * json : For your security, please confirm your password to continue.
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Go to page :page
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : Last active
  * json : Last used
  * json : Leave Team
@@ -14908,7 +14888,7 @@ into your web browser:
 ## zh_CN
 
 <details>
-<summary>show<small> (all missing: 127, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 127, including not present: 0)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you.
@@ -14955,7 +14935,7 @@ into your web browser:
  * json : For your security, please confirm your password to continue.
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Go to page :page
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : Last active
  * json : Last used
  * json : Leave Team
@@ -15044,7 +15024,7 @@ into your web browser:
 ## zh_HK
 
 <details>
-<summary>show<small> (all missing: 127, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 127, including not present: 0)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you.
@@ -15091,7 +15071,7 @@ into your web browser:
  * json : For your security, please confirm your password to continue.
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Go to page :page
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : Last active
  * json : Last used
  * json : Leave Team
@@ -15180,7 +15160,7 @@ into your web browser:
 ## zh_TW
 
 <details>
-<summary>show<small> (all missing: 127, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 127, including not present: 0)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you.
@@ -15227,7 +15207,7 @@ into your web browser:
  * json : For your security, please confirm your password to continue.
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Go to page :page
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : Last active
  * json : Last used
  * json : Leave Team

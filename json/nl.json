@@ -50,6 +50,7 @@
     "Profile": "Profiel",
     "Regards": "Met vriendelijke groet",
     "Register": "Registreren",
+    "Remember me": "Onthouden",
     "Remember Me": "Onthoud mij",
     "Resend Verification Email": "Verificatiemail opnieuw versturen",
     "Reset Password Notification": "Wachtwoordherstel notificatie",
@@ -93,6 +94,5 @@
     "You are receiving this email because we received a password reset request for your account.": "Je ontvangt deze e-mail omdat we een wachtwoordherstel verzoek hebben ontvangen voor je account.",
     "You may not delete your personal team.": "You may not delete your personal team.",
     "You may not leave a team that you created.": "You may not leave a team that you created.",
-    "Your email address is not verified.": "Je e-mailadres is niet geverifieerd.",
-    "Remember me": "Onthouden"
+    "Your email address is not verified.": "Je e-mailadres is niet geverifieerd."
 }

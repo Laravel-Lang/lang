@@ -148,6 +148,7 @@ return [
         'username'              => 'نام کاربری',
         'email'                 => 'ایمیل',
         'first_name'            => 'نام',
+        'full_name'             => 'نام کامل',
         'last_name'             => 'نام خانوادگی',
         'password'              => 'رمز عبور',
         'password_confirmation' => 'تکرار رمز عبور',
@@ -176,5 +177,9 @@ return [
         'size'                  => 'اندازه',
         'terms'                 => 'شرایط',
         'province'              => 'استان',
+        'file'                  => 'فایل',
+        'image'                 => 'تصویر',
+        'photo'                 => 'تصویر',
+        'count'                 => 'تعداد',
     ],
 ];

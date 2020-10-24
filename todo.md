@@ -9331,7 +9331,7 @@ into your web browser:
 ## nl
 
 <details>
-<summary>show<small> (all missing: 102, including not present: 87)</small></summary>
+<summary>show<small> (all missing: 94, including not present: 87)</small></summary>
 
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
  * json : Add additional security to your account using two factor authentication. : not present
@@ -9341,7 +9341,6 @@ into your web browser:
  * json : Administrator users can perform any action. : not present
  * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
- * json : Already registered?
  * json : API Token Permissions : not present
  * json : API Token : not present
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
@@ -9418,21 +9417,14 @@ into your web browser:
  * json : The provided password was incorrect. : not present
  * json : The provided two factor authentication code was invalid. : not present
  * json : The team's name and owner information. : not present
- * json : This password does not match our records.
- * json : This user already belongs to the team.
  * json : to : not present
  * json : Token Name : not present
  * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application. : not present
  * json : Two Factor Authentication : not present
- * json : Use a recovery code
- * json : Use an authentication code
- * json : We were unable to find a registered user with this email address.
  * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application. : not present
  * json : You have enabled two factor authentication. : not present
  * json : You have not enabled two factor authentication. : not present
  * json : You may delete any of your existing tokens if they are no longer needed. : not present
- * json : You may not delete your personal team.
- * json : You may not leave a team that you created.
  * validation : multiple_of
  * validation-inline : multiple_of
 

@@ -89,7 +89,7 @@ return [
         'string'  => 'Trường này phải có tối thiểu :min ký tự.',
         'array'   => 'Trường này phải có tối thiểu :min phần tử.',
     ],
-    'multiple_of'          => 'The này must be a multiple of :value',
+    'multiple_of'          => 'Trường này phải là bội số của :value',
     'not_in'               => 'Giá trị đã chọn trong trường này không hợp lệ.',
     'not_regex'            => 'Trường này có định dạng không hợp lệ.',
     'numeric'              => 'Trường này phải là một số.',

@@ -88,7 +88,7 @@ return [
         'string'  => 'Simbolių kiekis lauke :attribute turi būti ne mažiau nei :min.',
         'array'   => 'Elementų kiekis lauke :attribute turi būti ne mažiau nei :min.',
     ],
-    'multiple_of'          => 'The :attribute must be a multiple of :value',
+    'multiple_of'          => 'Laukas :attribute turi būti :value kartotinis.',
     'not_in'               => 'Pasirinkta negaliojanti reikšmė :attribute.',
     'not_regex'            => 'Lauko :attribute formatas yra neteisingas.',
     'numeric'              => 'Lauko :attribute reikšmė turi būti skaičius.',

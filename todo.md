@@ -7362,14 +7362,9 @@ into your web browser:
 
 ## lt
 
-<details>
-<summary>show<small> (all missing: 2, including not present: 0)</small></summary>
 
- * validation : multiple_of
- * validation-inline : multiple_of
+All lines are translated 😊
 
-[ [to top](#todo-list) ]
-</details>
 
 ## lv
 

@@ -3,8 +3,8 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 [ar ✔](#ar)|[az ❗](#az)|[be ❗](#be)|[bg ❗](#bg)|[bn ❗](#bn)|[bs ❗](#bs)|[ca ❗](#ca)|[cs ❗](#cs)|[cy ❗](#cy)|[da ❗](#da)
 [de ❗](#de)|[de_CH ❗](#de_CH)|[el ❗](#el)|[es ✔](#es)|[et ❗](#et)|[eu ❗](#eu)|[fa ❗](#fa)|[fi ❗](#fi)|[fil ❗](#fil)|[fr ✔](#fr)
-[gl ❗](#gl)|[he ❗](#he)|[hi ❗](#hi)|[hr ❗](#hr)|[hu ❗](#hu)|[hy ❗](#hy)|[id ❗](#id)|[is ❗](#is)|[it ❗](#it)|[ja ❗](#ja)
-[ka ❗](#ka)|[kk ❗](#kk)|[km ❗](#km)|[kn ❗](#kn)|[ko ❗](#ko)|[lt ✔](#lt)|[lv ❗](#lv)|[me ❗](#me)|[mk ❗](#mk)|[mn ❗](#mn)
+[gl ❗](#gl)|[he ❗](#he)|[hi ❗](#hi)|[hr ❗](#hr)|[hu ❗](#hu)|[hy ❗](#hy)|[id ❗](#id)|[is ❗](#is)|[it ✔](#it)|[ja ❗](#ja)
+[ka ❗](#ka)|[kk ❗](#kk)|[km ❗](#km)|[kn ❗](#kn)|[ko ❗](#ko)|[lt ❗](#lt)|[lv ❗](#lv)|[me ❗](#me)|[mk ❗](#mk)|[mn ❗](#mn)
 [mr ❗](#mr)|[ms ❗](#ms)|[nb ❗](#nb)|[ne ❗](#ne)|[nl ❗](#nl)|[nn ❗](#nn)|[pl ✔](#pl)|[ps ❗](#ps)|[pt ❗](#pt)|[pt_BR ❗](#pt_BR)
 [ro ❗](#ro)|[ru ✔](#ru)|[sc ❗](#sc)|[si ❗](#si)|[sk ❗](#sk)|[sl ❗](#sl)|[sq ❗](#sq)|[sr_Cyrillic ❗](#sr_Cyrillic)|[sr_Latin ❗](#sr_Latin)|[sv ❗](#sv)
 [sw ❗](#sw)|[tg ❗](#tg)|[th ❗](#th)|[tk ❗](#tk)|[tl ❗](#tl)|[tr ❗](#tr)|[ug ❗](#ug)|[uk ❗](#uk)|[ur ❗](#ur)|[uz_Cyrillic ❗](#uz_Cyrillic)
@@ -5978,14 +5978,9 @@ into your web browser:
 
 ## it
 
-<details>
-<summary>show<small> (all missing: 2, including not present: 0)</small></summary>
 
- * validation : multiple_of
- * validation-inline : multiple_of
+All lines are translated 😊
 
-[ [to top](#todo-list) ]
-</details>
 
 ## ja
 

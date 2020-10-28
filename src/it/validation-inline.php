@@ -90,7 +90,7 @@ return [
         'string'  => 'Deve contenere minimo :min caratteri.',
         'array'   => 'Deve contenere minimo :min elementi.',
     ],
-    'multiple_of'          => 'The value must be a multiple of :value',
+    'multiple_of'          => 'Deve essere un multiplo di :value',
     'not_in'               => 'Valore non valido.',
     'not_regex'            => 'Formato non valido.',
     'numeric'              => 'Deve essere un numero.',

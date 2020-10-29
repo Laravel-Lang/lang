@@ -35,7 +35,7 @@ return [
     'date_format'    => 'Trường này không giống với định dạng :format.',
     'different'      => 'Trường này và :other phải khác nhau.',
     'digits'         => 'Độ dài của trường này phải gồm :digits chữ số.',
-    'digits_between' => 'Độ dài của trường này phải nằm trong khoảng :min and :max chữ số.',
+    'digits_between' => 'Độ dài của trường này phải nằm trong khoảng :min và :max chữ số.',
     'dimensions'     => 'Trường này có kích thước không hợp lệ.',
     'distinct'       => 'Trường này có giá trị trùng lặp.',
     'email'          => 'Trường này phải là một địa chỉ email hợp lệ.',

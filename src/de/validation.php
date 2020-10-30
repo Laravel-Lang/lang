@@ -89,7 +89,7 @@ return [
         'string'  => ':attribute muss mindestens :min Zeichen lang sein.',
         'array'   => ':attribute muss mindestens :min Elemente haben.',
     ],
-    'multiple_of'          => 'The :attribute must be a multiple of :value',
+    'multiple_of'          => ':attribute muss ein Vielfaches von :value sein.',
     'not_in'               => 'Der gewählte Wert für :attribute ist ungültig.',
     'not_regex'            => ':attribute hat ein ungültiges Format.',
     'numeric'              => ':attribute muss eine Zahl sein.',

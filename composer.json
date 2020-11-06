@@ -1,5 +1,5 @@
 {
-    "name": "mammo32_laravel-lang/lang",
+    "name": "mammo32_laravel/lang",
     "description": "Languages for Laravel",
     "keywords": ["laravel", "languages", "lpm", "lang"],
     "license": "MIT",

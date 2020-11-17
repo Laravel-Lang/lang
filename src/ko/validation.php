@@ -89,7 +89,7 @@ return [
         'string'  => ':attribute은(는) 최소한 :min자이어야 합니다.',
         'array'   => ':attribute은(는) 최소한 :min개의 항목이 있어야 합니다.',
     ],
-    'multiple_of'          => 'The :attribute must be a multiple of :value',
+    'multiple_of'          => ':attribute 는 :value 의 배수여야 합니다.',
     'not_in'               => '선택된 :attribute이(가) 올바르지 않습니다.',
     'not_regex'            => ':attribute의 형식이 올바르지 않습니다.',
     'numeric'              => ':attribute은(는) 숫자여야 합니다.',

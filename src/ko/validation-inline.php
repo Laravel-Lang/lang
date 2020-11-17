@@ -90,7 +90,7 @@ return [
         'string'  => '이 문자열의 길이는 최소한 :min자이어야 합니다.',
         'array'   => '이 배열의 항목 수는 최소한 :min개의 항목이 있어야 합니다.',
     ],
-    'multiple_of'          => 'The value must be a multiple of :value',
+    'multiple_of'          => '이 값은 :value 의 배수여야 합니다.',
     'not_in'               => '선택된 값은 올바르지 않습니다.',
     'not_regex'            => '형식이 올바르지 않습니다.',
     'numeric'              => '숫자여야 합니다.',

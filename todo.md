@@ -13065,7 +13065,7 @@ into your web browser:
 ## tr
 
 <details>
-<summary>show<small> (all missing: 204, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 203, including not present: 1)</small></summary>
 
  * json : Add a new team member to your team, allowing them to collaborate with you.
  * json : Add additional security to your account using two factor authentication.
@@ -13137,7 +13137,6 @@ into your web browser:
  * json : Profile
  * json : Recovery Code
  * json : Regenerate Recovery Codes
- * json : Remember me
  * json : Remove Photo
  * json : Remove Team Member
  * json : Remove

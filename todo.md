@@ -3412,9 +3412,8 @@ into your web browser:
 ## fa
 
 <details>
-<summary>show<small> (all missing: 140, including not present: 121)</small></summary>
+<summary>show<small> (all missing: 123, including not present: 121)</small></summary>
 
- * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
  * json : Add additional security to your account using two factor authentication. : not present
  * json : Add Team Member : not present
@@ -3423,7 +3422,6 @@ into your web browser:
  * json : Administrator users can perform any action. : not present
  * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
- * json : Already registered?
  * json : API Token Permissions : not present
  * json : API Token : not present
  * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
@@ -3453,13 +3451,9 @@ into your web browser:
  * json : Done. : not present
  * json : Editor users have the ability to read, create, and update. : not present
  * json : Editor : not present
- * json : Email Password Reset Link
- * json : Email
  * json : Enable : not present
  * json : Ensure your account is using a long, random password to stay secure. : not present
  * json : For your security, please confirm your password to continue. : not present
- * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
- * json : Forgot your password?
  * json : Go to page :page : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : Invalid signature. : not present
@@ -3484,8 +3478,6 @@ into your web browser:
  * json : Permanently delete your account. : not present
  * json : Permissions : not present
  * json : Photo : not present
- * json : Please confirm access to your account by entering one of your emergency recovery codes.
- * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing. : not present
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
@@ -3498,7 +3490,6 @@ into your web browser:
  * json : Remove Photo : not present
  * json : Remove Team Member : not present
  * json : Remove : not present
- * json : Resend Verification Email
  * json : results : not present
  * json : Role : not present
  * json : Save : not present
@@ -3515,7 +3506,6 @@ into your web browser:
  * json : Team Owner : not present
  * json : Team Settings : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
- * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
@@ -3529,8 +3519,6 @@ into your web browser:
  * json : The team's name and owner information. : not present
  * json : This action is unauthorized. : not present
  * json : This device : not present
- * json : This password does not match our records.
- * json : This user already belongs to the team.
  * json : to : not present
  * json : Token Name : not present
  * json : Too Many Attempts. : not present
@@ -3538,9 +3526,6 @@ into your web browser:
  * json : Two Factor Authentication : not present
  * json : Update Password : not present
  * json : Update your account's profile information and email address. : not present
- * json : Use a recovery code
- * json : Use an authentication code
- * json : We were unable to find a registered user with this email address.
  * json : We won't ask for your password again for a few hours. : not present
  * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application. : not present
  * json : Whoops! Something went wrong. : not present
@@ -3548,8 +3533,6 @@ into your web browser:
  * json : You have enabled two factor authentication. : not present
  * json : You have not enabled two factor authentication. : not present
  * json : You may delete any of your existing tokens if they are no longer needed. : not present
- * json : You may not delete your personal team.
- * json : You may not leave a team that you created.
  * json : Your email address is not verified. : not present
  * auth : password : not present
  * validation : multiple_of

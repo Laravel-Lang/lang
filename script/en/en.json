@@ -142,6 +142,7 @@
     "The team's name and owner information.": "The team's name and owner information.",
     "This action is unauthorized.": "This action is unauthorized.",
     "This device": "This device",
+    "This is a secure area of the application. Please confirm your password before continuing.": "This is a secure area of the application. Please confirm your password before continuing.",
     "This password does not match our records.": "This password does not match our records.",
     "This password reset link will expire in :count minutes.": "This password reset link will expire in :count minutes.",
     "This user already belongs to the team.": "This user already belongs to the team.",

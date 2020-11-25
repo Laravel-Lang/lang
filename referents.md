@@ -59,8 +59,8 @@
 | sk | |
 | sl | |
 | sq | |
-| sr_Cyrillic | [@LukaLatkovic](https://github.com/LukaLatkovic) |
-| sr_Latin | [@LukaLatkovic](https://github.com/LukaLatkovic) |
+| sr_Cyrl | [@LukaLatkovic](https://github.com/LukaLatkovic) |
+| sr_Latn | [@LukaLatkovic](https://github.com/LukaLatkovic) |
 | sv | |
 | sw | |
 | tg | |
@@ -71,8 +71,8 @@
 | ug | |
 | uk | [@MrAlKuz](https://github.com/MrAlKuz) |
 | ur | |
-| uz_Cyrillic | |
-| uz_Latin | |
+| uz_Cyrl | |
+| uz_Latn | |
 | vi | |
 | zh_CN | [@overtrue](https://github.com/overtrue) |
 | zh_HK | [@overtrue](https://github.com/overtrue) |

@@ -1,28 +1,32 @@
 # Todo list
 | | | | | | | | | | |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-[ar ✔](#ar)|[az ❗](#az)|[be ❗](#be)|[bg ❗](#bg)|[bn ❗](#bn)|[bs ❗](#bs)|[ca ❗](#ca)|[cs ❗](#cs)|[cy ❗](#cy)|[da ❗](#da)
+[ar ❗](#ar)|[az ❗](#az)|[be ❗](#be)|[bg ❗](#bg)|[bn ❗](#bn)|[bs ❗](#bs)|[ca ❗](#ca)|[cs ❗](#cs)|[cy ❗](#cy)|[da ❗](#da)
 [de ❗](#de)|[de_CH ❗](#de_CH)|[el ❗](#el)|[es ✔](#es)|[et ❗](#et)|[eu ❗](#eu)|[fa ❗](#fa)|[fi ❗](#fi)|[fil ❗](#fil)|[fr ❗](#fr)
 [gl ❗](#gl)|[he ❗](#he)|[hi ❗](#hi)|[hr ❗](#hr)|[hu ❗](#hu)|[hy ❗](#hy)|[id ❗](#id)|[is ❗](#is)|[it ❗](#it)|[ja ❗](#ja)
-[ka ❗](#ka)|[kk ❗](#kk)|[km ❗](#km)|[kn ❗](#kn)|[ko ✔](#ko)|[lt ✔](#lt)|[lv ❗](#lv)|[me ❗](#me)|[mk ❗](#mk)|[mn ❗](#mn)
+[ka ❗](#ka)|[kk ❗](#kk)|[km ❗](#km)|[kn ❗](#kn)|[ko ❗](#ko)|[lt ❗](#lt)|[lv ❗](#lv)|[me ❗](#me)|[mk ❗](#mk)|[mn ❗](#mn)
 [mr ❗](#mr)|[ms ❗](#ms)|[nb ❗](#nb)|[ne ❗](#ne)|[nl ❗](#nl)|[nn ❗](#nn)|[pl ❗](#pl)|[ps ❗](#ps)|[pt ❗](#pt)|[pt_BR ❗](#pt_BR)
-[ro ❗](#ro)|[ru ✔](#ru)|[sc ❗](#sc)|[si ❗](#si)|[sk ❗](#sk)|[sl ❗](#sl)|[sq ❗](#sq)|[sr_Cyrillic ❗](#sr_Cyrillic)|[sr_Latin ❗](#sr_Latin)|[sv ❗](#sv)
+[ro ❗](#ro)|[ru ❗](#ru)|[sc ❗](#sc)|[si ❗](#si)|[sk ❗](#sk)|[sl ❗](#sl)|[sq ❗](#sq)|[sr_Cyrillic ❗](#sr_Cyrillic)|[sr_Latin ❗](#sr_Latin)|[sv ❗](#sv)
 [sw ❗](#sw)|[tg ❗](#tg)|[th ❗](#th)|[tk ❗](#tk)|[tl ❗](#tl)|[tr ❗](#tr)|[ug ❗](#ug)|[uk ❗](#uk)|[ur ❗](#ur)|[uz_Cyrillic ❗](#uz_Cyrillic)
-[uz_Latin ❗](#uz_Latin)|[vi ✔](#vi)|[zh_CN ❗](#zh_CN)|[zh_HK ❗](#zh_HK)|[zh_TW ❗](#zh_TW)
+[uz_Latin ❗](#uz_Latin)|[vi ❗](#vi)|[zh_CN ❗](#zh_CN)|[zh_HK ❗](#zh_HK)|[zh_TW ❗](#zh_TW)
 
 
 
 
 ## ar
 
+<details>
+<summary>show<small> (all missing: 1, including not present: 1)</small></summary>
 
-All lines are translated 😊
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## az
 
 <details>
-<summary>show<small> (all missing: 287, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 288, including not present: 2)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -168,6 +172,7 @@ into your web browser:
  * json : The team's name and owner information.
  * json : This action is unauthorized.
  * json : This device
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
  * json : This user already belongs to the team.
@@ -319,7 +324,7 @@ into your web browser:
 ## be
 
 <details>
-<summary>show<small> (all missing: 297, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 298, including not present: 2)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -465,6 +470,7 @@ into your web browser:
  * json : The team's name and owner information.
  * json : This action is unauthorized.
  * json : This device
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
  * json : This user already belongs to the team.
@@ -626,7 +632,7 @@ into your web browser:
 ## bg
 
 <details>
-<summary>show<small> (all missing: 265, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 266, including not present: 2)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -772,6 +778,7 @@ into your web browser:
  * json : The team's name and owner information.
  * json : This action is unauthorized.
  * json : This device
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
  * json : This user already belongs to the team.
@@ -901,7 +908,7 @@ into your web browser:
 ## bn
 
 <details>
-<summary>show<small> (all missing: 287, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 288, including not present: 2)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -1047,6 +1054,7 @@ into your web browser:
  * json : The team's name and owner information.
  * json : This action is unauthorized.
  * json : This device
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
  * json : This user already belongs to the team.
@@ -1198,7 +1206,7 @@ into your web browser:
 ## bs
 
 <details>
-<summary>show<small> (all missing: 301, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 302, including not present: 2)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -1344,6 +1352,7 @@ into your web browser:
  * json : The team's name and owner information.
  * json : This action is unauthorized.
  * json : This device
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
  * json : This user already belongs to the team.
@@ -1509,7 +1518,7 @@ into your web browser:
 ## ca
 
 <details>
-<summary>show<small> (all missing: 221, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 222, including not present: 2)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you.
@@ -1621,6 +1630,7 @@ into your web browser:
  * json : The provided two factor authentication code was invalid.
  * json : The team's name and owner information.
  * json : This device
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This user already belongs to the team.
  * json : to
@@ -1739,7 +1749,7 @@ into your web browser:
 ## cs
 
 <details>
-<summary>show<small> (all missing: 223, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 224, including not present: 2)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you.
@@ -1852,6 +1862,7 @@ into your web browser:
  * json : The provided two factor authentication code was invalid.
  * json : The team's name and owner information.
  * json : This device
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This user already belongs to the team.
  * json : to
@@ -1971,7 +1982,7 @@ into your web browser:
 ## cy
 
 <details>
-<summary>show<small> (all missing: 302, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 303, including not present: 2)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -2117,6 +2128,7 @@ into your web browser:
  * json : The team's name and owner information.
  * json : This action is unauthorized.
  * json : This device
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
  * json : This user already belongs to the team.
@@ -2283,7 +2295,7 @@ into your web browser:
 ## da
 
 <details>
-<summary>show<small> (all missing: 223, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 224, including not present: 2)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you.
@@ -2396,6 +2408,7 @@ into your web browser:
  * json : The provided two factor authentication code was invalid.
  * json : The team's name and owner information.
  * json : This device
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This user already belongs to the team.
  * json : to
@@ -2515,8 +2528,9 @@ into your web browser:
 ## de
 
 <details>
-<summary>show<small> (all missing: 1, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 2, including not present: 2)</small></summary>
 
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * auth : password : not present
 
 [ [to top](#todo-list) ]
@@ -2525,7 +2539,7 @@ into your web browser:
 ## de_CH
 
 <details>
-<summary>show<small> (all missing: 132, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 133, including not present: 2)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you.
@@ -2638,6 +2652,7 @@ into your web browser:
  * json : The provided two factor authentication code was invalid.
  * json : The team's name and owner information.
  * json : This device
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This user already belongs to the team.
  * json : to
@@ -2666,7 +2681,7 @@ into your web browser:
 ## el
 
 <details>
-<summary>show<small> (all missing: 213, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 214, including not present: 2)</small></summary>
 
  * json : Add a new team member to your team, allowing them to collaborate with you.
  * json : Add additional security to your account using two factor authentication.
@@ -2774,6 +2789,7 @@ into your web browser:
  * json : The provided two factor authentication code was invalid.
  * json : The team's name and owner information.
  * json : This device
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : to
  * json : Token Name
  * json : Too Many Attempts.
@@ -2894,7 +2910,7 @@ All lines are translated 😊
 ## et
 
 <details>
-<summary>show<small> (all missing: 267, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 268, including not present: 2)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -3040,6 +3056,7 @@ into your web browser:
  * json : The team's name and owner information.
  * json : This action is unauthorized.
  * json : This device
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
  * json : This user already belongs to the team.
@@ -3171,7 +3188,7 @@ into your web browser:
 ## eu
 
 <details>
-<summary>show<small> (all missing: 232, including not present: 12)</small></summary>
+<summary>show<small> (all missing: 233, including not present: 13)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you.
@@ -3288,6 +3305,7 @@ into your web browser:
  * json : The team's name and owner information.
  * json : This action is unauthorized. : not present
  * json : This device
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes. : not present
  * json : This user already belongs to the team.
@@ -3412,7 +3430,7 @@ into your web browser:
 ## fa
 
 <details>
-<summary>show<small> (all missing: 123, including not present: 121)</small></summary>
+<summary>show<small> (all missing: 124, including not present: 122)</small></summary>
 
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
  * json : Add additional security to your account using two factor authentication. : not present
@@ -3519,6 +3537,7 @@ into your web browser:
  * json : The team's name and owner information. : not present
  * json : This action is unauthorized. : not present
  * json : This device : not present
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : to : not present
  * json : Token Name : not present
  * json : Too Many Attempts. : not present
@@ -3544,7 +3563,7 @@ into your web browser:
 ## fi
 
 <details>
-<summary>show<small> (all missing: 258, including not present: 149)</small></summary>
+<summary>show<small> (all missing: 259, including not present: 150)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -3683,6 +3702,7 @@ into your web browser:
  * json : The team's name and owner information. : not present
  * json : This action is unauthorized. : not present
  * json : This device : not present
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes. : not present
  * json : This user already belongs to the team.
@@ -3811,7 +3831,7 @@ into your web browser:
 ## fil
 
 <details>
-<summary>show<small> (all missing: 275, including not present: 174)</small></summary>
+<summary>show<small> (all missing: 276, including not present: 175)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration. : not present
@@ -3957,6 +3977,7 @@ into your web browser: : not present
  * json : The team's name and owner information. : not present
  * json : This action is unauthorized. : not present
  * json : This device : not present
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records. : not present
  * json : This password reset link will expire in :count minutes. : not present
  * json : This user already belongs to the team. : not present
@@ -4096,8 +4117,9 @@ into your web browser: : not present
 ## fr
 
 <details>
-<summary>show<small> (all missing: 1, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 2, including not present: 2)</small></summary>
 
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * auth : password : not present
 
 [ [to top](#todo-list) ]
@@ -4106,7 +4128,7 @@ into your web browser: : not present
 ## gl
 
 <details>
-<summary>show<small> (all missing: 230, including not present: 121)</small></summary>
+<summary>show<small> (all missing: 231, including not present: 122)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -4223,6 +4245,7 @@ into your web browser: : not present
  * json : The team's name and owner information. : not present
  * json : This action is unauthorized. : not present
  * json : This device : not present
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This user already belongs to the team.
  * json : to : not present
@@ -4345,7 +4368,7 @@ into your web browser: : not present
 ## he
 
 <details>
-<summary>show<small> (all missing: 223, including not present: 115)</small></summary>
+<summary>show<small> (all missing: 224, including not present: 116)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -4458,6 +4481,7 @@ into your web browser: : not present
  * json : The provided two factor authentication code was invalid. : not present
  * json : The team's name and owner information. : not present
  * json : This device : not present
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This user already belongs to the team.
  * json : to : not present
@@ -4577,7 +4601,7 @@ into your web browser: : not present
 ## hi
 
 <details>
-<summary>show<small> (all missing: 279, including not present: 111)</small></summary>
+<summary>show<small> (all missing: 280, including not present: 112)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -4723,6 +4747,7 @@ into your web browser:
  * json : The team's name and owner information. : not present
  * json : This action is unauthorized.
  * json : This device : not present
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
  * json : This user already belongs to the team.
@@ -4866,7 +4891,7 @@ into your web browser:
 ## hr
 
 <details>
-<summary>show<small> (all missing: 252, including not present: 143)</small></summary>
+<summary>show<small> (all missing: 253, including not present: 144)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -4999,6 +5024,7 @@ into your web browser: : not present
  * json : The team's name and owner information. : not present
  * json : This action is unauthorized. : not present
  * json : This device : not present
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes. : not present
  * json : This user already belongs to the team.
@@ -5128,7 +5154,7 @@ into your web browser: : not present
 ## hu
 
 <details>
-<summary>show<small> (all missing: 220, including not present: 113)</small></summary>
+<summary>show<small> (all missing: 221, including not present: 114)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -5240,6 +5266,7 @@ into your web browser: : not present
  * json : The provided two factor authentication code was invalid. : not present
  * json : The team's name and owner information. : not present
  * json : This device : not present
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This user already belongs to the team.
  * json : to : not present
@@ -5357,7 +5384,7 @@ into your web browser: : not present
 ## hy
 
 <details>
-<summary>show<small> (all missing: 221, including not present: 114)</small></summary>
+<summary>show<small> (all missing: 222, including not present: 115)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -5471,6 +5498,7 @@ into your web browser: : not present
  * json : The provided two factor authentication code was invalid. : not present
  * json : The team's name and owner information. : not present
  * json : This device : not present
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This user already belongs to the team.
  * json : to : not present
@@ -5588,7 +5616,7 @@ into your web browser: : not present
 ## id
 
 <details>
-<summary>show<small> (all missing: 113, including not present: 111)</small></summary>
+<summary>show<small> (all missing: 114, including not present: 112)</small></summary>
 
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
  * json : Add additional security to your account using two factor authentication. : not present
@@ -5689,6 +5717,7 @@ into your web browser: : not present
  * json : The provided two factor authentication code was invalid. : not present
  * json : The team's name and owner information. : not present
  * json : This device : not present
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : to : not present
  * json : Token Name : not present
  * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application. : not present
@@ -5710,7 +5739,7 @@ into your web browser: : not present
 ## is
 
 <details>
-<summary>show<small> (all missing: 269, including not present: 111)</small></summary>
+<summary>show<small> (all missing: 270, including not present: 112)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -5856,6 +5885,7 @@ into your web browser:
  * json : The team's name and owner information. : not present
  * json : This action is unauthorized.
  * json : This device : not present
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
  * json : This user already belongs to the team.
@@ -5989,8 +6019,9 @@ into your web browser:
 ## it
 
 <details>
-<summary>show<small> (all missing: 1, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 2, including not present: 2)</small></summary>
 
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * auth : password : not present
 
 [ [to top](#todo-list) ]
@@ -5999,7 +6030,7 @@ into your web browser:
 ## ja
 
 <details>
-<summary>show<small> (all missing: 229, including not present: 122)</small></summary>
+<summary>show<small> (all missing: 230, including not present: 123)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -6116,6 +6147,7 @@ into your web browser:
  * json : The team's name and owner information. : not present
  * json : This action is unauthorized. : not present
  * json : This device : not present
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes. : not present
  * json : This user already belongs to the team.
@@ -6237,7 +6269,7 @@ into your web browser:
 ## ka
 
 <details>
-<summary>show<small> (all missing: 252, including not present: 143)</small></summary>
+<summary>show<small> (all missing: 253, including not present: 144)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -6370,6 +6402,7 @@ into your web browser: : not present
  * json : The team's name and owner information. : not present
  * json : This action is unauthorized. : not present
  * json : This device : not present
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes. : not present
  * json : This user already belongs to the team.
@@ -6499,7 +6532,7 @@ into your web browser: : not present
 ## kk
 
 <details>
-<summary>show<small> (all missing: 221, including not present: 113)</small></summary>
+<summary>show<small> (all missing: 222, including not present: 114)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -6611,6 +6644,7 @@ into your web browser: : not present
  * json : The provided two factor authentication code was invalid. : not present
  * json : The team's name and owner information. : not present
  * json : This device : not present
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This user already belongs to the team.
  * json : to : not present
@@ -6729,7 +6763,7 @@ into your web browser: : not present
 ## km
 
 <details>
-<summary>show<small> (all missing: 263, including not present: 111)</small></summary>
+<summary>show<small> (all missing: 264, including not present: 112)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -6875,6 +6909,7 @@ into your web browser:
  * json : The team's name and owner information. : not present
  * json : This action is unauthorized.
  * json : This device : not present
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
  * json : This user already belongs to the team.
@@ -7002,7 +7037,7 @@ into your web browser:
 ## kn
 
 <details>
-<summary>show<small> (all missing: 231, including not present: 121)</small></summary>
+<summary>show<small> (all missing: 232, including not present: 122)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -7119,6 +7154,7 @@ into your web browser:
  * json : The team's name and owner information. : not present
  * json : This action is unauthorized. : not present
  * json : This device : not present
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This user already belongs to the team.
  * json : to : not present
@@ -7241,20 +7277,28 @@ into your web browser:
 
 ## ko
 
+<details>
+<summary>show<small> (all missing: 1, including not present: 1)</small></summary>
 
-All lines are translated 😊
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## lt
 
+<details>
+<summary>show<small> (all missing: 1, including not present: 1)</small></summary>
 
-All lines are translated 😊
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## lv
 
 <details>
-<summary>show<small> (all missing: 267, including not present: 111)</small></summary>
+<summary>show<small> (all missing: 268, including not present: 112)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -7400,6 +7444,7 @@ into your web browser:
  * json : The team's name and owner information. : not present
  * json : This action is unauthorized.
  * json : This device : not present
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
  * json : This user already belongs to the team.
@@ -7531,7 +7576,7 @@ into your web browser:
 ## me
 
 <details>
-<summary>show<small> (all missing: 295, including not present: 111)</small></summary>
+<summary>show<small> (all missing: 296, including not present: 112)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -7677,6 +7722,7 @@ into your web browser:
  * json : The team's name and owner information. : not present
  * json : This action is unauthorized.
  * json : This device : not present
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
  * json : This user already belongs to the team.
@@ -7836,7 +7882,7 @@ into your web browser:
 ## mk
 
 <details>
-<summary>show<small> (all missing: 304, including not present: 111)</small></summary>
+<summary>show<small> (all missing: 305, including not present: 112)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -7982,6 +8028,7 @@ into your web browser:
  * json : The team's name and owner information. : not present
  * json : This action is unauthorized.
  * json : This device : not present
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
  * json : This user already belongs to the team.
@@ -8150,7 +8197,7 @@ into your web browser:
 ## mn
 
 <details>
-<summary>show<small> (all missing: 292, including not present: 111)</small></summary>
+<summary>show<small> (all missing: 293, including not present: 112)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -8296,6 +8343,7 @@ into your web browser:
  * json : The team's name and owner information. : not present
  * json : This action is unauthorized.
  * json : This device : not present
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
  * json : This user already belongs to the team.
@@ -8452,7 +8500,7 @@ into your web browser:
 ## mr
 
 <details>
-<summary>show<small> (all missing: 232, including not present: 122)</small></summary>
+<summary>show<small> (all missing: 233, including not present: 123)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -8570,6 +8618,7 @@ into your web browser:
  * json : The team's name and owner information. : not present
  * json : This action is unauthorized. : not present
  * json : This device : not present
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This user already belongs to the team.
  * json : to : not present
@@ -8693,7 +8742,7 @@ into your web browser:
 ## ms
 
 <details>
-<summary>show<small> (all missing: 142, including not present: 123)</small></summary>
+<summary>show<small> (all missing: 143, including not present: 124)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -8810,6 +8859,7 @@ into your web browser:
  * json : The team's name and owner information. : not present
  * json : This action is unauthorized. : not present
  * json : This device : not present
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes. : not present
  * json : This user already belongs to the team.
@@ -8844,7 +8894,7 @@ into your web browser:
 ## nb
 
 <details>
-<summary>show<small> (all missing: 222, including not present: 115)</small></summary>
+<summary>show<small> (all missing: 223, including not present: 116)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -8957,6 +9007,7 @@ into your web browser:
  * json : The provided two factor authentication code was invalid. : not present
  * json : The team's name and owner information. : not present
  * json : This device : not present
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This user already belongs to the team.
  * json : to : not present
@@ -9075,7 +9126,7 @@ into your web browser:
 ## ne
 
 <details>
-<summary>show<small> (all missing: 130, including not present: 111)</small></summary>
+<summary>show<small> (all missing: 131, including not present: 112)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -9186,6 +9237,7 @@ into your web browser:
  * json : The provided two factor authentication code was invalid. : not present
  * json : The team's name and owner information. : not present
  * json : This device : not present
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This user already belongs to the team.
  * json : to : not present
@@ -9214,7 +9266,7 @@ into your web browser:
 ## nl
 
 <details>
-<summary>show<small> (all missing: 95, including not present: 88)</small></summary>
+<summary>show<small> (all missing: 96, including not present: 89)</small></summary>
 
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
  * json : Add additional security to your account using two factor authentication. : not present
@@ -9300,6 +9352,7 @@ into your web browser:
  * json : The provided password was incorrect. : not present
  * json : The provided two factor authentication code was invalid. : not present
  * json : The team's name and owner information. : not present
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : to : not present
  * json : Token Name : not present
  * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application. : not present
@@ -9318,7 +9371,7 @@ into your web browser:
 ## nn
 
 <details>
-<summary>show<small> (all missing: 224, including not present: 115)</small></summary>
+<summary>show<small> (all missing: 225, including not present: 116)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -9431,6 +9484,7 @@ into your web browser:
  * json : The provided two factor authentication code was invalid. : not present
  * json : The team's name and owner information. : not present
  * json : This device : not present
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This user already belongs to the team.
  * json : to : not present
@@ -9551,8 +9605,9 @@ into your web browser:
 ## pl
 
 <details>
-<summary>show<small> (all missing: 1, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 2, including not present: 2)</small></summary>
 
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * auth : password : not present
 
 [ [to top](#todo-list) ]
@@ -9561,7 +9616,7 @@ into your web browser:
 ## ps
 
 <details>
-<summary>show<small> (all missing: 232, including not present: 122)</small></summary>
+<summary>show<small> (all missing: 233, including not present: 123)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -9678,6 +9733,7 @@ into your web browser:
  * json : The team's name and owner information. : not present
  * json : This action is unauthorized. : not present
  * json : This device : not present
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes. : not present
  * json : This user already belongs to the team.
@@ -9802,8 +9858,9 @@ into your web browser:
 ## pt
 
 <details>
-<summary>show<small> (all missing: 3, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 4, including not present: 2)</small></summary>
 
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * auth : password : not present
  * validation : multiple_of
  * validation-inline : multiple_of
@@ -9814,9 +9871,10 @@ into your web browser:
 ## pt_BR
 
 <details>
-<summary>show<small> (all missing: 4, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 5, including not present: 2)</small></summary>
 
  * json : Editor
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * auth : password : not present
  * validation : multiple_of
  * validation-inline : multiple_of
@@ -9827,7 +9885,7 @@ into your web browser:
 ## ro
 
 <details>
-<summary>show<small> (all missing: 221, including not present: 113)</small></summary>
+<summary>show<small> (all missing: 222, including not present: 114)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -9939,6 +9997,7 @@ into your web browser:
  * json : The provided two factor authentication code was invalid. : not present
  * json : The team's name and owner information. : not present
  * json : This device : not present
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This user already belongs to the team.
  * json : to : not present
@@ -10056,14 +10115,18 @@ into your web browser:
 
 ## ru
 
+<details>
+<summary>show<small> (all missing: 1, including not present: 1)</small></summary>
 
-All lines are translated 😊
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## sc
 
 <details>
-<summary>show<small> (all missing: 302, including not present: 111)</small></summary>
+<summary>show<small> (all missing: 303, including not present: 112)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -10209,6 +10272,7 @@ into your web browser:
  * json : The team's name and owner information. : not present
  * json : This action is unauthorized.
  * json : This device : not present
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
  * json : This user already belongs to the team.
@@ -10375,7 +10439,7 @@ into your web browser:
 ## si
 
 <details>
-<summary>show<small> (all missing: 266, including not present: 111)</small></summary>
+<summary>show<small> (all missing: 267, including not present: 112)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -10521,6 +10585,7 @@ into your web browser:
  * json : The team's name and owner information. : not present
  * json : This action is unauthorized.
  * json : This device : not present
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
  * json : This user already belongs to the team.
@@ -10651,7 +10716,7 @@ into your web browser:
 ## sk
 
 <details>
-<summary>show<small> (all missing: 220, including not present: 113)</small></summary>
+<summary>show<small> (all missing: 221, including not present: 114)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -10763,6 +10828,7 @@ into your web browser:
  * json : The provided two factor authentication code was invalid. : not present
  * json : The team's name and owner information. : not present
  * json : This device : not present
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This user already belongs to the team.
  * json : to : not present
@@ -10880,7 +10946,7 @@ into your web browser:
 ## sl
 
 <details>
-<summary>show<small> (all missing: 253, including not present: 143)</small></summary>
+<summary>show<small> (all missing: 254, including not present: 144)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -11013,6 +11079,7 @@ into your web browser: : not present
  * json : The team's name and owner information. : not present
  * json : This action is unauthorized. : not present
  * json : This device : not present
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes. : not present
  * json : This user already belongs to the team.
@@ -11143,7 +11210,7 @@ into your web browser: : not present
 ## sq
 
 <details>
-<summary>show<small> (all missing: 176, including not present: 111)</small></summary>
+<summary>show<small> (all missing: 177, including not present: 112)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -11289,6 +11356,7 @@ into your web browser:
  * json : The team's name and owner information. : not present
  * json : This action is unauthorized.
  * json : This device : not present
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
  * json : This user already belongs to the team.
@@ -11329,7 +11397,7 @@ into your web browser:
 ## sr_Cyrillic
 
 <details>
-<summary>show<small> (all missing: 14, including not present: 12)</small></summary>
+<summary>show<small> (all missing: 15, including not present: 13)</small></summary>
 
  * json : Administrator users can perform any action. : not present
  * json : Administrator : not present
@@ -11341,6 +11409,7 @@ into your web browser:
  * json : results : not present
  * json : Showing : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : to : not present
  * auth : password : not present
  * validation : multiple_of
@@ -11352,7 +11421,7 @@ into your web browser:
 ## sr_Latin
 
 <details>
-<summary>show<small> (all missing: 14, including not present: 12)</small></summary>
+<summary>show<small> (all missing: 15, including not present: 13)</small></summary>
 
  * json : Administrator users can perform any action. : not present
  * json : Administrator : not present
@@ -11364,6 +11433,7 @@ into your web browser:
  * json : results : not present
  * json : Showing : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : to : not present
  * auth : password : not present
  * validation : multiple_of
@@ -11375,7 +11445,7 @@ into your web browser:
 ## sv
 
 <details>
-<summary>show<small> (all missing: 220, including not present: 113)</small></summary>
+<summary>show<small> (all missing: 221, including not present: 114)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -11487,6 +11557,7 @@ into your web browser:
  * json : The provided two factor authentication code was invalid. : not present
  * json : The team's name and owner information. : not present
  * json : This device : not present
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This user already belongs to the team.
  * json : to : not present
@@ -11604,7 +11675,7 @@ into your web browser:
 ## sw
 
 <details>
-<summary>show<small> (all missing: 267, including not present: 111)</small></summary>
+<summary>show<small> (all missing: 268, including not present: 112)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -11750,6 +11821,7 @@ into your web browser:
  * json : The team's name and owner information. : not present
  * json : This action is unauthorized.
  * json : This device : not present
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
  * json : This user already belongs to the team.
@@ -11881,7 +11953,7 @@ into your web browser:
 ## tg
 
 <details>
-<summary>show<small> (all missing: 289, including not present: 111)</small></summary>
+<summary>show<small> (all missing: 290, including not present: 112)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -12027,6 +12099,7 @@ into your web browser:
  * json : The team's name and owner information. : not present
  * json : This action is unauthorized.
  * json : This device : not present
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
  * json : This user already belongs to the team.
@@ -12180,7 +12253,7 @@ into your web browser:
 ## th
 
 <details>
-<summary>show<small> (all missing: 237, including not present: 121)</small></summary>
+<summary>show<small> (all missing: 238, including not present: 122)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -12302,6 +12375,7 @@ into your web browser: : not present
  * json : The team's name and owner information. : not present
  * json : This action is unauthorized. : not present
  * json : This device : not present
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes. : not present
  * json : This user already belongs to the team.
@@ -12427,7 +12501,7 @@ into your web browser: : not present
 ## tk
 
 <details>
-<summary>show<small> (all missing: 302, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 303, including not present: 2)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -12573,6 +12647,7 @@ into your web browser:
  * json : The team's name and owner information.
  * json : This action is unauthorized.
  * json : This device
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
  * json : This user already belongs to the team.
@@ -12739,7 +12814,7 @@ into your web browser:
 ## tl
 
 <details>
-<summary>show<small> (all missing: 295, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 296, including not present: 2)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -12885,6 +12960,7 @@ into your web browser:
  * json : The team's name and owner information.
  * json : This action is unauthorized.
  * json : This device
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
  * json : This user already belongs to the team.
@@ -13044,7 +13120,7 @@ into your web browser:
 ## tr
 
 <details>
-<summary>show<small> (all missing: 203, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 204, including not present: 2)</small></summary>
 
  * json : Add a new team member to your team, allowing them to collaborate with you.
  * json : Add additional security to your account using two factor authentication.
@@ -13147,6 +13223,7 @@ into your web browser:
  * json : The provided two factor authentication code was invalid.
  * json : The team's name and owner information.
  * json : This device
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This user already belongs to the team.
  * json : to
  * json : Token Name
@@ -13256,7 +13333,7 @@ into your web browser:
 ## ug
 
 <details>
-<summary>show<small> (all missing: 287, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 288, including not present: 2)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -13402,6 +13479,7 @@ into your web browser:
  * json : The team's name and owner information.
  * json : This action is unauthorized.
  * json : This device
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
  * json : This user already belongs to the team.
@@ -13553,8 +13631,9 @@ into your web browser:
 ## uk
 
 <details>
-<summary>show<small> (all missing: 3, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 4, including not present: 2)</small></summary>
 
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * auth : password : not present
  * validation : multiple_of
  * validation-inline : multiple_of
@@ -13565,7 +13644,7 @@ into your web browser:
 ## ur
 
 <details>
-<summary>show<small> (all missing: 281, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 282, including not present: 2)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -13698,6 +13777,7 @@ into your web browser:
  * json : The team's name and owner information.
  * json : This action is unauthorized.
  * json : This device
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
  * json : This user already belongs to the team.
@@ -13856,7 +13936,7 @@ into your web browser:
 ## uz_Cyrillic
 
 <details>
-<summary>show<small> (all missing: 264, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 265, including not present: 2)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -14002,6 +14082,7 @@ into your web browser:
  * json : The team's name and owner information.
  * json : This action is unauthorized.
  * json : This device
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
  * json : This user already belongs to the team.
@@ -14130,7 +14211,7 @@ into your web browser:
 ## uz_Latin
 
 <details>
-<summary>show<small> (all missing: 264, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 265, including not present: 2)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -14276,6 +14357,7 @@ into your web browser:
  * json : The team's name and owner information.
  * json : This action is unauthorized.
  * json : This device
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
  * json : This user already belongs to the team.
@@ -14403,14 +14485,18 @@ into your web browser:
 
 ## vi
 
+<details>
+<summary>show<small> (all missing: 1, including not present: 1)</small></summary>
 
-All lines are translated 😊
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## zh_CN
 
 <details>
-<summary>show<small> (all missing: 128, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 129, including not present: 2)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you.
@@ -14519,6 +14605,7 @@ All lines are translated 😊
  * json : The provided two factor authentication code was invalid.
  * json : The team's name and owner information.
  * json : This device
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This user already belongs to the team.
  * json : to
@@ -14547,7 +14634,7 @@ All lines are translated 😊
 ## zh_HK
 
 <details>
-<summary>show<small> (all missing: 128, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 129, including not present: 2)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you.
@@ -14656,6 +14743,7 @@ All lines are translated 😊
  * json : The provided two factor authentication code was invalid.
  * json : The team's name and owner information.
  * json : This device
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This user already belongs to the team.
  * json : to
@@ -14684,7 +14772,7 @@ All lines are translated 😊
 ## zh_TW
 
 <details>
-<summary>show<small> (all missing: 128, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 129, including not present: 2)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you.
@@ -14793,6 +14881,7 @@ All lines are translated 😊
  * json : The provided two factor authentication code was invalid.
  * json : The team's name and owner information.
  * json : This device
+ * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This user already belongs to the team.
  * json : to

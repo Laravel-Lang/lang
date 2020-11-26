@@ -4117,10 +4117,9 @@ into your web browser: : not present
 ## fr
 
 <details>
-<summary>show<small> (all missing: 2, including not present: 2)</small></summary>
+<summary>show<small> (all missing: 1, including not present: 1)</small></summary>
 
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
- * auth : password : not present
 
 [ [to top](#todo-list) ]
 </details>

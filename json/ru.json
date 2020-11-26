@@ -151,6 +151,7 @@
     "The team's name and owner information.": "Название команды и информация о её владельце.",
     "This action is unauthorized.": "Неавторизованное действие.",
     "This device": "Это устройство",
+    "This is a secure area of the application. Please confirm your password before continuing.": "Это защищённая область приложения. Пожалуйста, подтвердите Ваш пароль, прежде чем продолжить.",
     "This password does not match our records.": "Пароль не соответствует.",
     "This password reset link will expire in :count minutes.": "Срок действия ссылки для сброса пароля истекает через :count минут.",
     "This user already belongs to the team.": "Пользователь уже входит в команду.",

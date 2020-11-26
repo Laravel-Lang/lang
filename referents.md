@@ -39,7 +39,6 @@
 | ko | |
 | lt | |
 | lv | |
-| me | |
 | mk | |
 | mn | |
 | mr | |
@@ -61,6 +60,7 @@
 | sq | |
 | sr_Cyrl | [@LukaLatkovic](https://github.com/LukaLatkovic) |
 | sr_Latn | [@LukaLatkovic](https://github.com/LukaLatkovic) |
+| sr_Latn_ME | [@LukaLatkovic](https://github.com/LukaLatkovic) |
 | sv | |
 | sw | |
 | tg | |

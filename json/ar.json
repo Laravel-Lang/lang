@@ -142,6 +142,7 @@
     "The team's name and owner information.": "اسم الفريق ومعلومات المالك.",
     "This action is unauthorized.": "عملية غير مصرّح بها.",
     "This device": "هذا الجهاز",
+    "This is a secure area of the application. Please confirm your password before continuing.": "هذه منطقة آمنة للتطبيق. يرجى تأكيد كلمة المرور الخاصة بك قبل المتابعة.",
     "This password does not match our records.": "كلمة المرور لا تتطابق مع سجلاتنا.",
     "This password reset link will expire in :count minutes.": "ستنتهي صلاحية رابط استعادة كلمة المرور خلال :count دقيقة.",
     "This user already belongs to the team.": "هذا المستخدم ينتمي بالفعل إلى الفريق.",

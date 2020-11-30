@@ -90,7 +90,7 @@ return [
         'string'  => 'De waarde moet minimaal :min tekens zijn.',
         'array'   => 'De inhoud moet minimaal :min items bevatten.',
     ],
-    'multiple_of'          => 'The value must be a multiple of :value',
+    'multiple_of'          => 'De waarde moet een veelvoud van :value zijn.',
     'not_in'               => 'De geselecteerde waarde is ongeldig.',
     'not_regex'            => 'Dit formaat is ongeldig.',
     'numeric'              => 'Dit moet een nummer zijn',

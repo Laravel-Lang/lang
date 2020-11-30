@@ -6,6 +6,7 @@ In this repository, you can find the lang files for the [Laravel Framework 4/5/6
 
 * in version 6.1, we propose a new file by language: `validation-inline.php` ( see #1268 )
 * in version 7, we propose new directory names to follow ISO-15897 ( see #1269 )
+* in version 8, we propose new directory names to follow Php Intl ( see #1453 )
 
 ## Install
 
@@ -15,6 +16,7 @@ Install the Laravel-lang package to your Laravel project with composer using com
 
 | Laravel version                     | Composer command                                  |
 |-------------------------------------|---------------------------------------------------|
+| Laravel 7-8 with Php Intl           | `composer require laravel-lang/lang:~8.0` |
 | Laravel 8.x                         | `composer require laravel-lang/lang:~7.0` |
 | Laravel 7.x and new directory names | `composer require laravel-lang/lang:~7.0` |
 | Laravel 7.x                         | `composer require laravel-lang/lang:~6.1` |

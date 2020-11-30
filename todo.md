@@ -2539,7 +2539,7 @@ into your web browser:
 ## de_CH
 
 <details>
-<summary>show<small> (all missing: 133, including not present: 2)</small></summary>
+<summary>show<small> (all missing: 131, including not present: 2)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you.
@@ -2672,8 +2672,6 @@ into your web browser:
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * auth : password : not present
- * validation : multiple_of
- * validation-inline : multiple_of
 
 [ [to top](#todo-list) ]
 </details>

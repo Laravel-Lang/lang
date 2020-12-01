@@ -30,7 +30,7 @@
 | hy | |
 | id | |
 | is | |
-| it | |
+| it | [@masterix21](https://github.com/masterix21) |
 | ja | |
 | ka | |
 | kk | |

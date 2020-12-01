@@ -12,6 +12,7 @@ return [
     |
     */
 
-    'failed'   => 'Neispravan username i/ili password.',
-    'throttle' => 'Previše neuspješnih pokušaja. Probajte ponovo za :seconds sekundi.',
+    'failed'   => 'Podaci ne odgovaraju ni jednom nalogu.',
+    'password' => 'Neispravna lozinka.',
+    'throttle' => 'Previše neuspelih pokušaja. Pokušajte ponovo za :seconds sekundi.',
 ];

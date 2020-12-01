@@ -3,7 +3,7 @@
 return [
     /*
     |--------------------------------------------------------------------------
-    | Password Reminder Language Lines
+    | Password Reset Language Lines
     |--------------------------------------------------------------------------
     |
     | The following language lines are the default lines which match reasons
@@ -12,9 +12,9 @@ return [
     |
     */
 
-    'reset'     => 'Vaš password je resetovan!',
-    'sent'      => 'Poslali smo Vam link za reset Vašeg password-a!',
-    'throttled' => 'Please wait before retrying.',
-    'token'     => 'Token za reset ovog passworda nije validan.',
-    'user'      => 'Ne možemo naći korisnika sa unijetom email adresom.',
+    'reset'     => 'Lozinka je resetovana.',
+    'sent'      => 'Poslali smo vam e-mail sa uputstvom kako da resetujete lozinku.',
+    'throttled' => 'Molimo sačekajte prije nego što pokušate ponovo.',
+    'token'     => 'Link za resetovanje lozinke nije ispravan.',
+    'user'      => 'Nepostojeći korisnik.',
 ];

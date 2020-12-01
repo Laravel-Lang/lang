@@ -43,13 +43,13 @@ return [
     'exists'               => 'Odabrana vrijednost za :attribute nije ispravna.',
     'file'                 => 'Polje :attribute mora da bude dokument.',
     'filled'               => 'Polje :attribute mora da sadrži podatak.',
-    'gt' => [
+    'gt'                   => [
         'numeric' => 'Polje :attribute mora da bude veće od :value.',
         'file'    => 'Veličina dokumenta :attribute mora da bude veća od :value kb.',
         'string'  => 'Polje :attribute mora da sadrži više od :value znakova.',
         'array'   => 'Niz :attribute mora da sadrži više od :value stavki.',
     ],
-    'gte' => [
+    'gte'                  => [
         'numeric' => 'Polje :attribute može da bude najmanje :value.',
         'file'    => 'Veličina dokumenta :attribute mora da bude :value kb ili veća.',
         'string'  => 'Polje :attribute mora da sadrži najmanje :value znakova.',
@@ -63,19 +63,19 @@ return [
     'ipv4'                 => 'Polje :attribute mora da bude ispravna IPv4 adresa.',
     'ipv6'                 => 'Polje :attribute mora da bude ispravna IPv6 adresa.',
     'json'                 => 'Polje :attribute mora da bude u JSON formatu.',
-    'lt' => [
+    'lt'                   => [
         'numeric' => 'Polje :attribute mora da bude manje od :value.',
         'file'    => 'Veličina dokumenta :attribute mora da bude manja od :value kb.',
         'string'  => 'Polje :attribute mora da sadrži manje od :value znakova.',
         'array'   => 'Niz :attribute mora da sadrži manje od :value stavki.',
     ],
-    'lte' => [
+    'lte'                  => [
         'numeric' => 'Polje :attribute može da bude najviše :value.',
         'file'    => 'Veličina dokumenta :attribute mora da bude :value kb ili manja.',
         'string'  => 'Polje :attribute mora da sadrži najviše :value znakova.',
         'array'   => 'Niz :attribute mora da sadrži najviše :value stavki.',
     ],
-    'max' => [
+    'max'                  => [
         'numeric' => 'Polje :attribute može da bude najviše :max.',
         'file'    => 'Veličina dokumenta :attribute mora da bude :max kb ili manja.',
         'string'  => 'Polje :attribute mora da sadrži najviše :max znakova.',
@@ -83,7 +83,7 @@ return [
     ],
     'mimes'                => 'Vrsta dokumenta za polje :attribute mora da bude: :values.',
     'mimetypes'            => 'Vrsta dokumenta za polje :attribute mora da bude: :values.',
-    'min' => [
+    'min'                  => [
         'numeric' => 'Polje :attribute može da bude najmanje :min.',
         'file' => 'Veličina dokumenta :attribute mora da bude :min kb ili veća.',
         'string' => 'Polje :attribute mora da sadrži najmanje :min znakova.',
@@ -104,19 +104,19 @@ return [
     'required_without'     => 'Morate da popunite polje :attribute jer nisu popunjena polja :values.',
     'required_without_all' => 'Morate da popunite polje :attribute jer nisu popunjena polja :values.',
     'same'                 => 'Polje :attribute ovog polja se mora poklopiti sa jednim od sledećeg: :other.',
-    'size' => [
+    'size'                 => [
         'numeric' => 'Polje :attribute mora da bude tačno :value.',
         'file'    => 'Veličina dokumenta :attribute mora da bude tačno :value k.',
         'string'  => 'Polje :attribute mora da sadrži tačno :value znakova.',
         'array'   => 'Niz :attribute mora da sadrži tačno :value stavki.',
     ],
-    'starts_with'         => 'Polje :attribute mora da počne sa: :values.',
-    'string'              => 'Polje :attribute mora da bude rečenica.',
-    'timezone'            => 'Polje :attribute mora da bude ispravna vremenska zona.',
-    'unique'              => 'Unijeta vrijednost za :attribute već postoji.',
-    'uploaded'            => 'Greška pri postavljanju dokumenata.',
-    'url'                 => 'Polje :attribute nije link.',
-    'uuid'                => 'Polje :attribute nije pretstavljen kao jedinstveni identifikator.',
+    'starts_with'          => 'Polje :attribute mora da počne sa: :values.',
+    'string'               => 'Polje :attribute mora da bude rečenica.',
+    'timezone'             => 'Polje :attribute mora da bude ispravna vremenska zona.',
+    'unique'               => 'Unijeta vrijednost za :attribute već postoji.',
+    'uploaded'             => 'Greška pri postavljanju dokumenata.',
+    'url'                  => 'Polje :attribute nije link.',
+    'uuid'                 => 'Polje :attribute nije pretstavljen kao jedinstveni identifikator.',
 
     /*
     |--------------------------------------------------------------------------

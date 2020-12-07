@@ -63,5 +63,7 @@
     "You may not delete your personal team.": "شما نمی توانید تیم شخصی خود را حذف کنید.",
     "You may not leave a team that you created.": "شما نمی توانید تیمی که خودتان ساخته اید را ترک کنید.",
     "Add": "افزودن",
-    "Added.": "افزوده شد"
+    "Added.": "افزوده شد",
+    "Administrator": "مدیر",
+    "Close": "بسته"
 }

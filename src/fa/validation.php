@@ -89,7 +89,7 @@ return [
         'string'  => ':attribute نباید کمتر از :min کاراکتر داشته باشد.',
         'array'   => ':attribute نباید کمتر از :min آیتم داشته باشد.',
     ],
-    'multiple_of'          => 'The :attribute must be a multiple of :value',
+    'multiple_of'          => 'مقدار :attribute باید مضربی از :value باشد.',
     'not_in'               => ':attribute انتخاب شده، معتبر نیست.',
     'not_regex'            => 'فرمت :attribute معتبر نیست.',
     'numeric'              => ':attribute باید عدد یا رشته‌ای از اعداد باشد.',

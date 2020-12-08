@@ -61,5 +61,16 @@
     "Whoops, something went wrong on our servers.": "وای! یک چیزی توی سرور ما درست کار نمی کند.",
     "You are receiving this email because we received a password reset request for your account.": "شما این ایمیل را به دلیل درخواست رمز عبور جدید دریافت کرده اید.",
     "You may not delete your personal team.": "شما نمی توانید تیم شخصی خود را حذف کنید.",
-    "You may not leave a team that you created.": "شما نمی توانید تیمی که خودتان ساخته اید را ترک کنید."
+    "You may not leave a team that you created.": "شما نمی توانید تیمی که خودتان ساخته اید را ترک کنید.",
+    "Add": "افزودن",
+    "Added.": "افزوده شد",
+    "Administrator": "مدیر",
+    "Close": "بسته",
+    "Code": "کد",
+    "Confirm": "تایید",
+    "Create New Team": "ایجاد تیم جدید",
+    "Create Team": "ایجاد تیم",
+    "Create": "ایجاد",
+    "Created.": "ایجاد شد",
+    "Current Password": "رمز عبور فعلی"
 }

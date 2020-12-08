@@ -3424,15 +3424,12 @@ into your web browser:
 ## fa
 
 <details>
-<summary>show<small> (all missing: 121, including not present: 121)</small></summary>
+<summary>show<small> (all missing: 110, including not present: 110)</small></summary>
 
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
  * json : Add additional security to your account using two factor authentication. : not present
  * json : Add Team Member : not present
- * json : Add : not present
- * json : Added. : not present
  * json : Administrator users can perform any action. : not present
- * json : Administrator : not present
  * json : All of the people that are part of this team. : not present
  * json : API Token Permissions : not present
  * json : API Token : not present
@@ -3444,16 +3441,8 @@ into your web browser:
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Browser Sessions : not present
- * json : Close : not present
- * json : Code : not present
- * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
  * json : Create API Token : not present
- * json : Create New Team : not present
- * json : Create Team : not present
- * json : Create : not present
- * json : Created. : not present
- * json : Current Password : not present
  * json : Dashboard : not present
  * json : Delete Account : not present
  * json : Delete API Token : not present

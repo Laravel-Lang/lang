@@ -2,7 +2,7 @@
 | | | | | | | | | | |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 [ar ✔](#ar)|[az ❗](#az)|[be ❗](#be)|[bg ❗](#bg)|[bn ❗](#bn)|[bs ❗](#bs)|[ca ❗](#ca)|[cs ❗](#cs)|[cy ❗](#cy)|[da ❗](#da)
-[de ❗](#de)|[de_CH ❗](#de_CH)|[el ❗](#el)|[es ✔](#es)|[et ❗](#et)|[eu ❗](#eu)|[fa ❗](#fa)|[fi ❗](#fi)|[fil ❗](#fil)|[fr ✔](#fr)
+[de ❗](#de)|[de_CH ❗](#de_CH)|[el ❗](#el)|[es ✔](#es)|[et ❗](#et)|[eu ❗](#eu)|[fa ✔](#fa)|[fi ❗](#fi)|[fil ❗](#fil)|[fr ✔](#fr)
 [gl ❗](#gl)|[he ❗](#he)|[hi ❗](#hi)|[hr ❗](#hr)|[hu ❗](#hu)|[hy ❗](#hy)|[id ❗](#id)|[is ❗](#is)|[it ✔](#it)|[ja ❗](#ja)
 [ka ❗](#ka)|[kk ❗](#kk)|[km ❗](#km)|[kn ❗](#kn)|[ko ❗](#ko)|[lt ❗](#lt)|[lv ❗](#lv)|[mk ❗](#mk)|[mn ❗](#mn)|[mr ❗](#mr)
 [ms ❗](#ms)|[nb ❗](#nb)|[ne ❗](#ne)|[nl ✔](#nl)|[nn ❗](#nn)|[pl ❗](#pl)|[ps ❗](#ps)|[pt ❗](#pt)|[pt_BR ❗](#pt_BR)|[ro ❗](#ro)
@@ -3423,78 +3423,7 @@ into your web browser:
 
 ## fa
 
-<details>
-<summary>show<small> (all missing: 66, including not present: 66)</small></summary>
-
- * json : Add a new team member to your team, allowing them to collaborate with you. : not present
- * json : Add additional security to your account using two factor authentication. : not present
- * json : Add Team Member : not present
- * json : Administrator users can perform any action. : not present
- * json : All of the people that are part of this team. : not present
- * json : API Token Permissions : not present
- * json : API Token : not present
- * json : API tokens allow third-party services to authenticate with our application on your behalf. : not present
- * json : API Tokens : not present
- * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted. : not present
- * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account. : not present
- * json : Are you sure you would like to delete this API token? : not present
- * json : Are you sure you would like to leave this team? : not present
- * json : Are you sure you would like to remove this person from the team? : not present
- * json : Browser Sessions : not present
- * json : Create a new team to collaborate with others on projects. : not present
- * json : Create API Token : not present
- * json : Delete API Token : not present
- * json : Done. : not present
- * json : Editor users have the ability to read, create, and update. : not present
- * json : Editor : not present
- * json : Ensure your account is using a long, random password to stay secure. : not present
- * json : For your security, please confirm your password to continue. : not present
- * json : Go to page :page : not present
- * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
- * json : Invalid signature. : not present
- * json : Logout Other Browser Sessions : not present
- * json : Manage and logout your active sessions on other browsers and devices. : not present
- * json : Manage API Tokens : not present
- * json : of : not present
- * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
- * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
- * json : Please confirm your password before continuing. : not present
- * json : Please copy your new API token. For your security, it won't be shown again. : not present
- * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
- * json : Remove Team Member : not present
- * json : Select A New Photo : not present
- * json : Server Error : not present
- * json : Showing : not present
- * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
- * json : Switch Teams : not present
- * json : Team Owner : not present
- * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
- * json : The :attribute must be at least :length characters and contain at least one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
- * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
- * json : The :attribute must be at least :length characters. : not present
- * json : The provided password does not match your current password. : not present
- * json : The provided password was incorrect. : not present
- * json : The provided two factor authentication code was invalid. : not present
- * json : The team's name and owner information. : not present
- * json : This action is unauthorized. : not present
- * json : This is a secure area of the application. Please confirm your password before continuing. : not present
- * json : Token Name : not present
- * json : Too Many Attempts. : not present
- * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application. : not present
- * json : Two Factor Authentication : not present
- * json : Update your account's profile information and email address. : not present
- * json : We won't ask for your password again for a few hours. : not present
- * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application. : not present
- * json : You may delete any of your existing tokens if they are no longer needed. : not present
- * json : Your email address is not verified. : not present
-
-[ [to top](#todo-list) ]
-</details>
+All lines are translated 😊
 
 ## fi
 

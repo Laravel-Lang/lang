@@ -19,7 +19,7 @@ return [
     'alpha'                => 'Lo camp :attribute a de conténer solament de letras.',
     'alpha_dash'           => 'Lo camp :attribute a de conténer solament de letras, nombres e de tirets.',
     'alpha_num'            => 'Lo camp :attribute a de conténer solament de letras e nombres.',
-    'array'                => 'Lo camp :attribute deu èsser una cadena de tèxte.',
+    'array'                => 'Lo camp :attribute deu èsser un tablèu.',
     'before'               => 'Lo camp :attribute deu èsser una data anteriora a :date.',
     'before_or_equal'      => 'Lo camp :attribute deu èsser una data anteriora o egala a :date.',
     'between'              => [
@@ -77,7 +77,7 @@ return [
     ],    
     'max'                  => [
         'numeric' => 'La valor de :attribute deu pas èsser superiora a :max.',
-        'file'    => 'La talha del fichièr:attribute deu pas èsser superior a :max kiloctets.',
+        'file'    => 'La talha del fichièr :attribute deu pas èsser superior a :max kiloctets.',
         'string'  => 'Lo tèxt :attribute deu èsser superior a :max caractèrs.',
         'array'   => 'Lo tablèu :attribute deu pas conténer mai de :max elements.',
     ],

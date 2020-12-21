@@ -92,7 +92,7 @@ return
     ],
     'multiple_of'          => 'La valor deu èsser un multiple de :value',    
     'not_in'               => 'Lo camp seleccionat es invalid.',
-    'not_regex'            => 'Lo format :del camp es invalid.',
+    'not_regex'            => 'Lo format del camp es invalid.',
     'numeric'              => 'Lo camp deu èsser un nombre.',
     'password'             => 'Lo senhal es incorrèct',
     'present'              => 'Aqueste camp deu èsser present.',

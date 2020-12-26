@@ -12,6 +12,7 @@ return [
     |
     */
 
-    'failed'   => 'Neispravan username i/ili password.',
-    'throttle' => 'Previše neuspješnih pokušaja. Probajte ponovo za :seconds sekundi.',
+    'failed'   => 'Aqueles identificants correspondon pas a nòstres enregistraments.',
+    'password' => 'Lo senhal provesit es pas corrèct.',
+    'throttle' => 'Tròp d’ensages de connexion. Tornatz ensajar d’aquí :seconds segondas.',
 ];

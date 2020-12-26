@@ -151,6 +151,7 @@
     "The team's name and owner information." : "Les informations concernant l'équipe et son propriétaire.",
     "This action is unauthorized.": "Cette action n'est pas autorisée.",
     "This device" : "Cet appareil",
+    "This is a secure area of the application. Please confirm your password before continuing.": "C'est une zone sécurisée de l'application. Veuillez confirmer votre mot de passe avant de continuer.",
     "This password does not match our records.": "Ce mot de passe ne correspond pas à nos enregistrements.",
     "This password reset link will expire in :count minutes.": "Ce lien de réinitialisation du mot de passe expirera dans :count minutes.",
     "This user already belongs to the team.": "Cet utilisateur appartient déjà à l'équipe.",

@@ -12,7 +12,7 @@ return [
     |
     */
 
-    'failed'   => 'مشخصات وارد شده با اطلاعات ما سازگار نیست.',
-    'throttle' => 'دفعات تلاش شما برای ورود بیش از حد مجاز است. لطفا پس از :seconds ثانیه مجددا تلاش فرمایید.',
-    'password' => 'رمز عبور شما معتبر نیست.',
+    'failed'   => 'Podaci ne odgovaraju ni jednom nalogu.',
+    'password' => 'Neispravna lozinka.',
+    'throttle' => 'Previše neuspelih pokušaja. Pokušajte ponovo za :seconds sekundi.',
 ];

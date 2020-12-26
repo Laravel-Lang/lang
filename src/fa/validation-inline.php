@@ -90,7 +90,7 @@ return [
         'string'  => 'رشته ورودی باید حداقل :min حرف داشته باشد.',
         'array'   => 'مقدار ورودی باید حداقل :min گزینه داشته باشد.',
     ],
-    'multiple_of'          => 'The value must be a multiple of :value',
+    'multiple_of'          => 'مقدار باید مضربی از :value باشد.',
     'not_in'               => 'گزینه انتخابی نامعتبر است.',
     'not_regex'            => 'این فرمت نامعتبر است.',
     'numeric'              => 'این مقدار باید عددی باشد.',

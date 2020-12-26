@@ -5,6 +5,35 @@ All notable changes to this project will be documented in this file, since v7.0.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [8.0.0] - 2020-11-30
+
+### Changed
+
+ * feature: [sr, uz, me] #1453 Rename \*\_Cyrillic to \*\_Cyrl and \*\_Latin to \*\_Latn (php Intl)]
+
+## [7.0.9] - 2020-11-30
+
+### Changed
+
+ * feature: [ar] #1419 #1431 #1447 #1462 validation-inline.php validation.php auth.php json file
+ * feature: [es] #1414 #1416 #1417 #1422 #1442 #1450 #1452 validation.php validation-inline.php passwords.php json file
+ * feature: [fr] #1441 json file
+ * feature: [id] #1439 auth.php
+ * feature: [it] #1435 #1459 validation-inline.php validation.php auth.php json file
+ * feature: [km] #1418 auth.php validation.php passwords.php
+ * feature: [ko] #1444 validation-inline.php validation.php auth.php json file
+ * feature: [lt] #1434 #1436 #1449 validation-inline.php validation.php auth.php json file
+ * feature: [nl] #1424 #1425 #1428 #1457 auth.php validation.php validation-inline.php json file
+ * feature: [pl] #1420 validation-inline.php validation.php
+ * feature: [de_CH] #1458 validation-inline.php validation.php
+ * feature: [pt_Br] #1415 json file
+ * feature: [ru] #1426 #1427 #1445 #1454 validation-inline.php validation.php auth.php json file
+ * feature: [sv] #1430 json file
+ * feature: [tr] #1448 #1456 json file
+ * feature: [uk] #1446 json file
+ * feature: [fa] #1451 json file
+ * feature: [vi] #1433 #1443 validation-inline.php validation.php passwords.php auth.php json file
+
 ## [7.0.8] - 2020-10-11
 
 ### Changed
@@ -138,7 +167,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
  * feature: #1269 Rename locale folders following ISO 15897 format
 
-[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/7.0.8...master
+[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/8.0.0...master
+[8.0.0]: https://github.com/caouecs/Laravel-lang/compare/7.0.9...8.0.0
+[7.0.9]: https://github.com/caouecs/Laravel-lang/compare/7.0.8...7.0.9
 [7.0.8]: https://github.com/caouecs/Laravel-lang/compare/7.0.7...7.0.8
 [7.0.7]: https://github.com/caouecs/Laravel-lang/compare/7.0.6...7.0.7
 [7.0.6]: https://github.com/caouecs/Laravel-lang/compare/7.0.5...7.0.6

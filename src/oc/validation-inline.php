@@ -1,7 +1,7 @@
 <?php
 
-return
-    
+return [
+
     /*
     |--------------------------------------------------------------------------
     | Validation Language Lines
@@ -40,7 +40,7 @@ return
     'dimensions'           => 'La talha de l’imatge es pas confòrma.',
     'distinct'             => 'Aqueste camp a un doblon.',
     'email'                => 'Aqueste camp deu èsser una adreça de corrièl valida.',
-    'ends_with'            => 'Aqueste camp deu acabar per una de las valors seguentas : :values',
+    'ends_with'            => 'Aqueste camp deu acabar per una de las valors seguentas : :values',
     'exists'               => 'Aqueste camp seleccionat es invalid.',
     'file'                 => 'Aqueste camp deu èsser un fichièr.',
     'filled'               => 'Aqueste camp deu aver una valor.',
@@ -55,7 +55,7 @@ return
         'file'    => 'La talha del fichièr deu èsser superiora o egala a :value kilo-octets.',
         'string'  => 'Lo tèxt deu conténer almens :value caractèrs.',
         'array'   => 'Lo tablèu deu conténer almens :value elements.',
-    ],   
+    ],
     'image'                => 'Aqueste camp deu èsser un imatge.',
     'in'                   => 'Aqueste camp es invalid.',
     'in_array'             => 'Aqueste camp existís pas dins :other.',
@@ -75,22 +75,22 @@ return
         'file'    => 'La talha del fichièr deu èsser inferiora o egala :value kilo-octets.',
         'string'  => 'Lo tèxt deu conténer al pus mai :value caractèrs.',
         'array'   => 'Lo tablèu deu conténer al pus mai :value elements.',
-    ],    
+    ],
     'max'                  => [
         'numeric' => 'La valor deu pas èsser superiora a :max.',
         'file'    => 'La talha del fichièr deu pas èsser superior a :max kiloctets.',
         'string'  => 'Lo tèxt deu èsser superior a :max caractèrs.',
         'array'   => 'Lo tablèu deu pas conténer mai de :max elements.',
     ],
-    'mimes'                => 'Lo fichièr deu èsser del tipe : :values.',
-    'mimetypes'            => 'Lo fichièr deu èsser del tipe :values.',
+    'mimes'                => 'Lo fichièr deu èsser del tipe : :values.',
+    'mimetypes'            => 'Lo fichièr deu èsser del tipe :values.',
     'min'                  => [
         'numeric' => 'La valor deu fa almens :min o mai.',
         'file'    => 'La talha del fichièr deu fa almens :min kiloctets.',
         'string'  => 'Lo tèxt deu fa almens :min caractèrs.',
         'array'   => 'Lo tablèu deu conténer almens :min elements.',
     ],
-    'multiple_of'          => 'La valor deu èsser un multiple de :value',    
+    'multiple_of'          => 'La valor deu èsser un multiple de :value',
     'not_in'               => 'Lo camp seleccionat es invalid.',
     'not_regex'            => 'Lo format del camp es invalid.',
     'numeric'              => 'Lo camp deu èsser un nombre.',
@@ -111,7 +111,7 @@ return
         'string'  => 'Lo tèxt deu conténer :size caractèrs.',
         'array'   => 'Lo tablèu deu conténer :size elements.',
     ],
-    'starts_with'          => 'Aqueste camp deu començar amb una de las valors seguentas : :values',    
+    'starts_with'          => 'Aqueste camp deu començar amb una de las valors seguentas : :values',
     'string'               => 'Aqueste camp deu èsser una cadena de tèxt.',
     'timezone'             => 'Aqueste camp deu èsser una zòna orària valida.',
     'unique'               => 'La valor es ja presa.',

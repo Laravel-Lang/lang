@@ -5,10 +5,10 @@
 [de ❗](#de)|[de_CH ❗](#de_CH)|[el ❗](#el)|[es ✔](#es)|[et ❗](#et)|[eu ❗](#eu)|[fa ❗](#fa)|[fi ❗](#fi)|[fil ❗](#fil)|[fr ✔](#fr)
 [gl ❗](#gl)|[he ❗](#he)|[hi ❗](#hi)|[hr ❗](#hr)|[hu ❗](#hu)|[hy ❗](#hy)|[id ❗](#id)|[is ❗](#is)|[it ✔](#it)|[ja ❗](#ja)
 [ka ❗](#ka)|[kk ❗](#kk)|[km ❗](#km)|[kn ❗](#kn)|[ko ❗](#ko)|[lt ❗](#lt)|[lv ❗](#lv)|[mk ❗](#mk)|[mn ❗](#mn)|[mr ❗](#mr)
-[ms ❗](#ms)|[nb ❗](#nb)|[ne ❗](#ne)|[nl ✔](#nl)|[nn ❗](#nn)|[pl ❗](#pl)|[ps ❗](#ps)|[pt ❗](#pt)|[pt_BR ❗](#pt_BR)|[ro ❗](#ro)
-[ru ✔](#ru)|[sc ❗](#sc)|[si ❗](#si)|[sk ❗](#sk)|[sl ❗](#sl)|[sq ❗](#sq)|[sr_Cyrl ❗](#sr_Cyrl)|[sr_Latn ❗](#sr_Latn)|[sr_Latn_ME ❗](#sr_Latn_ME)|[sv ❗](#sv)
-[sw ❗](#sw)|[tg ❗](#tg)|[th ❗](#th)|[tk ❗](#tk)|[tl ❗](#tl)|[tr ❗](#tr)|[ug ❗](#ug)|[uk ❗](#uk)|[ur ❗](#ur)|[uz_Cyrl ❗](#uz_Cyrl)
-[uz_Latn ❗](#uz_Latn)|[vi ❗](#vi)|[zh_CN ❗](#zh_CN)|[zh_HK ❗](#zh_HK)|[zh_TW ❗](#zh_TW)
+[ms ❗](#ms)|[nb ❗](#nb)|[ne ❗](#ne)|[nl ✔](#nl)|[nn ❗](#nn)|[oc ❗](#oc)|[pl ❗](#pl)|[ps ❗](#ps)|[pt ❗](#pt)|[pt_BR ❗](#pt_BR)
+[ro ❗](#ro)|[ru ✔](#ru)|[sc ❗](#sc)|[si ❗](#si)|[sk ❗](#sk)|[sl ❗](#sl)|[sq ❗](#sq)|[sr_Cyrl ❗](#sr_Cyrl)|[sr_Latn ❗](#sr_Latn)|[sr_Latn_ME ❗](#sr_Latn_ME)
+[sv ❗](#sv)|[sw ❗](#sw)|[tg ❗](#tg)|[th ❗](#th)|[tk ❗](#tk)|[tl ❗](#tl)|[tr ❗](#tr)|[ug ❗](#ug)|[uk ❗](#uk)|[ur ❗](#ur)
+[uz_Cyrl ❗](#uz_Cyrl)|[uz_Latn ❗](#uz_Latn)|[vi ❗](#vi)|[zh_CN ❗](#zh_CN)|[zh_HK ❗](#zh_HK)|[zh_TW ❗](#zh_TW)
 
 
 
@@ -9123,6 +9123,191 @@ All lines are translated 😊
  * validation-inline : uploaded
  * validation-inline : url
  * validation-inline : uuid
+
+[ [to top](#todo-list) ]
+</details>
+
+## oc
+
+<details>
+<summary>show<small> (all missing: 175, including not present: 0)</small></summary>
+
+ * json : A fresh verification link has been sent to your email address.
+ * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Add a new team member to your team, allowing them to collaborate with you.
+ * json : Add additional security to your account using two factor authentication.
+ * json : Add Team Member
+ * json : Add
+ * json : Added.
+ * json : Administrator users can perform any action.
+ * json : Administrator
+ * json : All of the people that are part of this team.
+ * json : All rights reserved.
+ * json : Already registered?
+ * json : API Token Permissions
+ * json : API Token
+ * json : API tokens allow third-party services to authenticate with our application on your behalf.
+ * json : API Tokens
+ * json : Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted.
+ * json : Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+ * json : Are you sure you would like to delete this API token?
+ * json : Are you sure you would like to leave this team?
+ * json : Are you sure you would like to remove this person from the team?
+ * json : Before proceeding, please check your email for a verification link.
+ * json : Browser Sessions
+ * json : click here to request another
+ * json : Close
+ * json : Code
+ * json : Confirm Password
+ * json : Confirm
+ * json : Create a new team to collaborate with others on projects.
+ * json : Create API Token
+ * json : Create New Team
+ * json : Create Team
+ * json : Create
+ * json : Created.
+ * json : Current Password
+ * json : Dashboard
+ * json : Delete Account
+ * json : Delete API Token
+ * json : Delete Team
+ * json : Delete
+ * json : Disable
+ * json : Done.
+ * json : E-Mail Address
+ * json : Editor users have the ability to read, create, and update.
+ * json : Editor
+ * json : Email Password Reset Link
+ * json : Email
+ * json : Enable
+ * json : Ensure your account is using a long, random password to stay secure.
+ * json : For your security, please confirm your password to continue.
+ * json : Forbidden
+ * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Forgot Your Password?
+ * json : Forgot your password?
+ * json : Go Home
+ * json : Go to page :page
+ * json : Hello!
+ * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
+ * json : If you did not create an account, no further action is required.
+ * json : If you did not receive the email
+ * json : If you did not request a password reset, no further action is required.
+ * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
+into your web browser:
+ * json : Invalid signature.
+ * json : Last active
+ * json : Last used
+ * json : Leave Team
+ * json : Leave
+ * json : Login
+ * json : Logout Other Browser Sessions
+ * json : Logout
+ * json : Manage Account
+ * json : Manage and logout your active sessions on other browsers and devices.
+ * json : Manage API Tokens
+ * json : Manage Role
+ * json : Manage Team
+ * json : Name
+ * json : Nevermind
+ * json : New Password
+ * json : Not Found
+ * json : of
+ * json : Oh no
+ * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain.
+ * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.
+ * json : Page Expired
+ * json : Pagination Navigation
+ * json : Password
+ * json : Permanently delete this team.
+ * json : Permanently delete your account.
+ * json : Permissions
+ * json : Photo
+ * json : Please click the button below to verify your email address.
+ * json : Please confirm access to your account by entering one of your emergency recovery codes.
+ * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
+ * json : Please confirm your password before continuing.
+ * json : Please copy your new API token. For your security, it won't be shown again.
+ * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+ * json : Profile Information
+ * json : Profile
+ * json : Recovery Code
+ * json : Regards
+ * json : Regenerate Recovery Codes
+ * json : Register
+ * json : Remember Me
+ * json : Remember me
+ * json : Remove Photo
+ * json : Remove Team Member
+ * json : Remove
+ * json : Resend Verification Email
+ * json : Reset Password Notification
+ * json : Reset Password
+ * json : results
+ * json : Role
+ * json : Save
+ * json : Saved.
+ * json : Select A New Photo
+ * json : Send Password Reset Link
+ * json : Server Error
+ * json : Service Unavailable
+ * json : Show Recovery Codes
+ * json : Showing
+ * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
+ * json : Switch Teams
+ * json : Team Details
+ * json : Team Members
+ * json : Team Name
+ * json : Team Owner
+ * json : Team Settings
+ * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
+ * json : The :attribute must be a valid role.
+ * json : The :attribute must be at least :length characters and contain at least one number.
+ * json : The :attribute must be at least :length characters and contain at least one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
+ * json : The :attribute must be at least :length characters and contain at least one uppercase character.
+ * json : The :attribute must be at least :length characters.
+ * json : The provided password does not match your current password.
+ * json : The provided password was incorrect.
+ * json : The provided two factor authentication code was invalid.
+ * json : The team's name and owner information.
+ * json : This action is unauthorized.
+ * json : This device
+ * json : This is a secure area of the application. Please confirm your password before continuing.
+ * json : This password does not match our records.
+ * json : This password reset link will expire in :count minutes.
+ * json : This user already belongs to the team.
+ * json : to
+ * json : Toggle navigation
+ * json : Token Name
+ * json : Too Many Attempts.
+ * json : Too Many Requests
+ * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
+ * json : Two Factor Authentication
+ * json : Unauthorized
+ * json : Update Password
+ * json : Update your account's profile information and email address.
+ * json : Use a recovery code
+ * json : Use an authentication code
+ * json : Verify Email Address
+ * json : Verify Your Email Address
+ * json : We were unable to find a registered user with this email address.
+ * json : We won't ask for your password again for a few hours.
+ * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application.
+ * json : Whoops! Something went wrong.
+ * json : Whoops!
+ * json : You are logged in!
+ * json : You are receiving this email because we received a password reset request for your account.
+ * json : You have enabled two factor authentication.
+ * json : You have not enabled two factor authentication.
+ * json : You may delete any of your existing tokens if they are no longer needed.
+ * json : You may not delete your personal team.
+ * json : You may not leave a team that you created.
+ * json : Your email address is not verified.
+ * passwords : throttled
 
 [ [to top](#todo-list) ]
 </details>

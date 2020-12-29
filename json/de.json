@@ -149,7 +149,7 @@
     "The provided password was incorrect.": "Das angegebene Passwort war falsch.",
     "The provided two factor authentication code was invalid.": "Der angegebene Zwei-Faktor-Authentifizierungscode war ungültig.",
     "The team's name and owner information.": "Der Name des Teams und Informationen zum Besitzer.",
-    "This action is unauthorized.": "Diese Aktion wurde nicht authorisiert.",
+    "This action is unauthorized.": "Diese Aktion wurde nicht autorisiert.",
     "This device": "Dieses Gerät",
     "This password does not match our records.": "Dieses Passwort ist uns nicht bekannt.",
     "This password reset link will expire in :count minutes.": "Dieser Link zum Zurücksetzen des Passworts läuft in :count Minuten ab.",

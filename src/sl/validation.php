@@ -39,7 +39,7 @@ return [
     'dimensions'     => ':attribute ima napačne dimenzije slike.',
     'distinct'       => ':attribute je duplikat.',
     'email'          => ':attribute mora biti veljaven e-poštni naslov.',
-    'ends_with'      => 'The :attribute must end with one of the following: :values.',
+    'ends_with'      => ':attribute se mora končati z eno od naslednjih vrednosti: :values.',
     'exists'         => 'izbran :attribute je neveljaven.',
     'file'           => ':attribute mora biti datoteka.',
     'filled'         => ':attribute mora biti izpolnjen.',
@@ -89,11 +89,11 @@ return [
         'string'  => ':attribute mora imeti vsaj :min znakov.',
         'array'   => ':attribute mora imeti vsaj :min elementov.',
     ],
-    'multiple_of'          => 'The :attribute must be a multiple of :value',
+    'multiple_of'          => ':attribute mora biti večkratnik od :value',
     'not_in'               => 'Izbran :attribute je neveljaven.',
     'not_regex'            => 'Format :attribute je neveljaven.',
     'numeric'              => ':attribute mora biti število.',
-    'password'             => 'The password is incorrect.',
+    'password'             => 'Greslo ni pravilno.',
     'present'              => 'Polje :attribute mora biti prisotno.',
     'regex'                => 'Format polja :attribute je neveljaven.',
     'required'             => 'Polje :attribute je obvezno.',
@@ -146,6 +146,5 @@ return [
     |
     */
 
-    'attributes' => [
-    ],
+    'attributes' => [],
 ];

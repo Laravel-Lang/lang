@@ -5,6 +5,23 @@ All notable changes to this project will be documented in this file, since v7.0.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [8.0.1] - 2021-01-03
+
+### Added
+
+ * new: [oc] #1466
+
+### Changed
+
+ * feature: [ar] #1476 json file
+ * feature: [de] #1471 #1472 json file
+ * feature: [fa] #1467 #1468 #1470 #1477 auth.php validation.php validation-inline.php json file
+ * feature: [fr] #1469 auth.php
+ * feature: [ja] #1461 exclude file and json file
+ * feature: [ru] #1465 #1475 json file
+ * feature: [sl] #1479 auth.php passwords.php validation.php validation-inline.php
+ * feature: [sr_Latn_ME] #1463 auth.php pagination.php passwords.php validation.php
+
 ## [8.0.0] - 2020-11-30
 
 ### Changed
@@ -167,7 +184,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
  * feature: #1269 Rename locale folders following ISO 15897 format
 
-[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/8.0.0...master
+[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/8.0.1...master
+[8.0.1]: https://github.com/caouecs/Laravel-lang/compare/8.0.0...8.0.1
 [8.0.0]: https://github.com/caouecs/Laravel-lang/compare/7.0.9...8.0.0
 [7.0.9]: https://github.com/caouecs/Laravel-lang/compare/7.0.8...7.0.9
 [7.0.8]: https://github.com/caouecs/Laravel-lang/compare/7.0.7...7.0.8

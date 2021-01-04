@@ -6,7 +6,7 @@
 [gl ❗](#gl)|[he ❗](#he)|[hi ❗](#hi)|[hr ❗](#hr)|[hu ❗](#hu)|[hy ❗](#hy)|[id ❗](#id)|[is ❗](#is)|[it ✔](#it)|[ja ❗](#ja)
 [ka ❗](#ka)|[kk ❗](#kk)|[km ❗](#km)|[kn ❗](#kn)|[ko ❗](#ko)|[lt ❗](#lt)|[lv ❗](#lv)|[mk ❗](#mk)|[mn ❗](#mn)|[mr ❗](#mr)
 [ms ❗](#ms)|[nb ❗](#nb)|[ne ❗](#ne)|[nl ✔](#nl)|[nn ❗](#nn)|[oc ❗](#oc)|[pl ❗](#pl)|[ps ❗](#ps)|[pt ❗](#pt)|[pt_BR ❗](#pt_BR)
-[ro ❗](#ro)|[ru ✔](#ru)|[sc ❗](#sc)|[si ❗](#si)|[sk ❗](#sk)|[sl ❗](#sl)|[sq ❗](#sq)|[sr_Cyrl ❗](#sr_Cyrl)|[sr_Latn ❗](#sr_Latn)|[sr_Latn_ME ❗](#sr_Latn_ME)
+[ro ❗](#ro)|[ru ✔](#ru)|[sc ❗](#sc)|[si ❗](#si)|[sk ❗](#sk)|[sl ✔](#sl)|[sq ❗](#sq)|[sr_Cyrl ❗](#sr_Cyrl)|[sr_Latn ❗](#sr_Latn)|[sr_Latn_ME ❗](#sr_Latn_ME)
 [sv ❗](#sv)|[sw ❗](#sw)|[tg ❗](#tg)|[th ❗](#th)|[tk ❗](#tk)|[tl ❗](#tl)|[tr ❗](#tr)|[ug ❗](#ug)|[uk ❗](#uk)|[ur ❗](#ur)
 [uz_Cyrl ❗](#uz_Cyrl)|[uz_Latn ❗](#uz_Latn)|[vi ❗](#vi)|[zh_CN ❗](#zh_CN)|[zh_HK ❗](#zh_HK)|[zh_TW ❗](#zh_TW)
 
@@ -10651,14 +10651,9 @@ into your web browser:
 
 ## sl
 
-<details>
-<summary>show<small> (all missing: 2, including not present: 0)</small></summary>
 
- * json : Administrator
- * json : Email
+All lines are translated 😊
 
-[ [to top](#todo-list) ]
-</details>
 
 ## sq
 

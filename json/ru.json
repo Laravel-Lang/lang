@@ -154,7 +154,7 @@
     "The provided password was incorrect.": "Неверный пароль.",
     "The provided two factor authentication code was invalid.": "Неверный код двухфакторной аутентификации.",
     "The team's name and owner information.": "Название команды и информация о её владельце.",
-    "These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation.": "Эти люди были приглашены в Вашу команду и получили электронное письмо с приглашением. Они могут присоединиться к команде, приняв приглашение."
+    "These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation.": "Эти люди были приглашены в Вашу команду и получили электронное письмо с приглашением. Они могут присоединиться к команде, приняв приглашение.",
     "This action is unauthorized.": "Неавторизованное действие.",
     "This device": "Это устройство",
     "This is a secure area of the application. Please confirm your password before continuing.": "Это защищённая область приложения. Пожалуйста, подтвердите Ваш пароль, прежде чем продолжить.",
@@ -190,5 +190,5 @@
     "You may delete any of your existing tokens if they are no longer needed.": "Вы можете удалить любой из имеющихся у Вас токенов, если они больше не нужны.",
     "You may not delete your personal team.": "Вы не можете удалить свою команду.",
     "You may not leave a team that you created.": "Вы не можете покидать созданную Вами команду.",
-    "Your email address is not verified.": "Ваш email адрес не подтвержден.",
+    "Your email address is not verified.": "Ваш email адрес не подтвержден."
 }

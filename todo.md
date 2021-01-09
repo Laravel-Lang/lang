@@ -1,13 +1,13 @@
 # Todo list
 | | | | | | | | | | |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-[ar ✔](#ar)|[az ❗](#az)|[be ❗](#be)|[bg ❗](#bg)|[bn ❗](#bn)|[bs ❗](#bs)|[ca ❗](#ca)|[cs ❗](#cs)|[cy ❗](#cy)|[da ❗](#da)
-[de ❗](#de)|[de_CH ❗](#de_CH)|[el ❗](#el)|[es ❗](#es)|[et ❗](#et)|[eu ❗](#eu)|[fa ❗](#fa)|[fi ❗](#fi)|[fil ❗](#fil)|[fr ❗](#fr)
+[ar ❗](#ar)|[az ❗](#az)|[be ❗](#be)|[bg ❗](#bg)|[bn ❗](#bn)|[bs ❗](#bs)|[ca ❗](#ca)|[cs ❗](#cs)|[cy ❗](#cy)|[da ❗](#da)
+[de ❗](#de)|[de_CH ❗](#de_CH)|[el ❗](#el)|[es ✔](#es)|[et ❗](#et)|[eu ❗](#eu)|[fa ❗](#fa)|[fi ❗](#fi)|[fil ❗](#fil)|[fr ❗](#fr)
 [gl ❗](#gl)|[he ❗](#he)|[hi ❗](#hi)|[hr ❗](#hr)|[hu ❗](#hu)|[hy ❗](#hy)|[id ❗](#id)|[is ❗](#is)|[it ❗](#it)|[ja ❗](#ja)
 [ka ❗](#ka)|[kk ❗](#kk)|[km ❗](#km)|[kn ❗](#kn)|[ko ❗](#ko)|[lt ❗](#lt)|[lv ❗](#lv)|[mk ❗](#mk)|[mn ❗](#mn)|[mr ❗](#mr)
 [ms ❗](#ms)|[nb ❗](#nb)|[ne ❗](#ne)|[nl ❗](#nl)|[nn ❗](#nn)|[oc ❗](#oc)|[pl ❗](#pl)|[ps ❗](#ps)|[pt ❗](#pt)|[pt_BR ❗](#pt_BR)
-[ro ❗](#ro)|[ru ✔](#ru)|[sc ❗](#sc)|[si ❗](#si)|[sk ❗](#sk)|[sl ❗](#sl)|[sq ❗](#sq)|[sr_Cyrl ❗](#sr_Cyrl)|[sr_Latn ❗](#sr_Latn)|[sr_Latn_ME ❗](#sr_Latn_ME)
-[sv ❗](#sv)|[sw ❗](#sw)|[tg ❗](#tg)|[th ❗](#th)|[tk ❗](#tk)|[tl ❗](#tl)|[tr ❗](#tr)|[ug ❗](#ug)|[uk ✔](#uk)|[ur ❗](#ur)
+[ro ❗](#ro)|[ru ❗](#ru)|[sc ❗](#sc)|[si ❗](#si)|[sk ❗](#sk)|[sl ❗](#sl)|[sq ❗](#sq)|[sr_Cyrl ❗](#sr_Cyrl)|[sr_Latn ❗](#sr_Latn)|[sr_Latn_ME ❗](#sr_Latn_ME)
+[sv ❗](#sv)|[sw ❗](#sw)|[tg ❗](#tg)|[th ❗](#th)|[tk ❗](#tk)|[tl ❗](#tl)|[tr ❗](#tr)|[ug ❗](#ug)|[uk ❗](#uk)|[ur ❗](#ur)
 [uz_Cyrl ❗](#uz_Cyrl)|[uz_Latn ❗](#uz_Latn)|[vi ❗](#vi)|[zh_CN ❗](#zh_CN)|[zh_HK ❗](#zh_HK)|[zh_TW ❗](#zh_TW)
 
 
@@ -15,14 +15,21 @@
 
 ## ar
 
+<details>
+<summary>show<small> (all missing: 4, including not present: 4)</small></summary>
 
-All lines are translated 😊
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
+ * json : Terms of Service : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## az
 
 <details>
-<summary>show<small> (all missing: 296, including not present: 10)</small></summary>
+<summary>show<small> (all missing: 299, including not present: 14)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -82,6 +89,7 @@ All lines are translated 😊
  * json : Go to page :page
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -126,7 +134,8 @@ into your web browser:
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again.
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information
  * json : Profile
  * json : Recovery Code
@@ -158,6 +167,7 @@ into your web browser:
  * json : Team Name
  * json : Team Owner
  * json : Team Settings
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number.
@@ -328,7 +338,7 @@ into your web browser:
 ## be
 
 <details>
-<summary>show<small> (all missing: 306, including not present: 10)</small></summary>
+<summary>show<small> (all missing: 309, including not present: 14)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -388,6 +398,7 @@ into your web browser:
  * json : Go to page :page
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -432,7 +443,8 @@ into your web browser:
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again.
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information
  * json : Profile
  * json : Recovery Code
@@ -464,6 +476,7 @@ into your web browser:
  * json : Team Name
  * json : Team Owner
  * json : Team Settings
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number.
@@ -644,7 +657,7 @@ into your web browser:
 ## bg
 
 <details>
-<summary>show<small> (all missing: 274, including not present: 10)</small></summary>
+<summary>show<small> (all missing: 277, including not present: 14)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -704,6 +717,7 @@ into your web browser:
  * json : Go to page :page
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -748,7 +762,8 @@ into your web browser:
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again.
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information
  * json : Profile
  * json : Recovery Code
@@ -780,6 +795,7 @@ into your web browser:
  * json : Team Name
  * json : Team Owner
  * json : Team Settings
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number.
@@ -928,7 +944,7 @@ into your web browser:
 ## bn
 
 <details>
-<summary>show<small> (all missing: 296, including not present: 10)</small></summary>
+<summary>show<small> (all missing: 299, including not present: 14)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -988,6 +1004,7 @@ into your web browser:
  * json : Go to page :page
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -1032,7 +1049,8 @@ into your web browser:
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again.
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information
  * json : Profile
  * json : Recovery Code
@@ -1064,6 +1082,7 @@ into your web browser:
  * json : Team Name
  * json : Team Owner
  * json : Team Settings
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number.
@@ -1234,7 +1253,7 @@ into your web browser:
 ## bs
 
 <details>
-<summary>show<small> (all missing: 310, including not present: 10)</small></summary>
+<summary>show<small> (all missing: 313, including not present: 14)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -1294,6 +1313,7 @@ into your web browser:
  * json : Go to page :page
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -1338,7 +1358,8 @@ into your web browser:
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again.
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information
  * json : Profile
  * json : Recovery Code
@@ -1370,6 +1391,7 @@ into your web browser:
  * json : Team Name
  * json : Team Owner
  * json : Team Settings
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number.
@@ -1554,7 +1576,7 @@ into your web browser:
 ## ca
 
 <details>
-<summary>show<small> (all missing: 230, including not present: 10)</small></summary>
+<summary>show<small> (all missing: 233, including not present: 14)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you.
@@ -1604,6 +1626,7 @@ into your web browser:
  * json : Forgot your password?
  * json : Go to page :page
  * json : Great! You have accepted the invitation to join the :team team. : not present
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
@@ -1633,7 +1656,8 @@ into your web browser:
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please copy your new API token. For your security, it won't be shown again.
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information
  * json : Profile
  * json : Recovery Code
@@ -1657,6 +1681,7 @@ into your web browser:
  * json : Team Name
  * json : Team Owner
  * json : Team Settings
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number.
@@ -1793,7 +1818,7 @@ into your web browser:
 ## cs
 
 <details>
-<summary>show<small> (all missing: 232, including not present: 10)</small></summary>
+<summary>show<small> (all missing: 235, including not present: 14)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you.
@@ -1843,6 +1868,7 @@ into your web browser:
  * json : Forgot your password?
  * json : Go to page :page
  * json : Great! You have accepted the invitation to join the :team team. : not present
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
@@ -1873,7 +1899,8 @@ into your web browser:
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again.
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information
  * json : Profile
  * json : Recovery Code
@@ -1897,6 +1924,7 @@ into your web browser:
  * json : Team Name
  * json : Team Owner
  * json : Team Settings
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number.
@@ -2034,7 +2062,7 @@ into your web browser:
 ## cy
 
 <details>
-<summary>show<small> (all missing: 311, including not present: 10)</small></summary>
+<summary>show<small> (all missing: 314, including not present: 14)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -2094,6 +2122,7 @@ into your web browser:
  * json : Go to page :page
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -2138,7 +2167,8 @@ into your web browser:
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again.
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information
  * json : Profile
  * json : Recovery Code
@@ -2170,6 +2200,7 @@ into your web browser:
  * json : Team Name
  * json : Team Owner
  * json : Team Settings
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number.
@@ -2355,7 +2386,7 @@ into your web browser:
 ## da
 
 <details>
-<summary>show<small> (all missing: 232, including not present: 10)</small></summary>
+<summary>show<small> (all missing: 235, including not present: 14)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you.
@@ -2405,6 +2436,7 @@ into your web browser:
  * json : Forgot your password?
  * json : Go to page :page
  * json : Great! You have accepted the invitation to join the :team team. : not present
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
@@ -2435,7 +2467,8 @@ into your web browser:
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please copy your new API token. For your security, it won't be shown again.
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information
  * json : Profile
  * json : Recovery Code
@@ -2459,6 +2492,7 @@ into your web browser:
  * json : Team Name
  * json : Team Owner
  * json : Team Settings
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number.
@@ -2596,13 +2630,17 @@ into your web browser:
 ## de
 
 <details>
-<summary>show<small> (all missing: 10, including not present: 10)</small></summary>
+<summary>show<small> (all missing: 14, including not present: 14)</small></summary>
 
  * json : Great! You have accepted the invitation to join the :team team. : not present
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
  * json : If you do not have an account, you may create one by clicking the button below. After creating an account, you may click the invitation acceptance button in this email to accept the team invitation: : not present
  * json : Pending Team Invitations : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
+ * json : Terms of Service : not present
  * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This user has already been invited to the team. : not present
@@ -2615,7 +2653,7 @@ into your web browser:
 ## de_CH
 
 <details>
-<summary>show<small> (all missing: 139, including not present: 10)</small></summary>
+<summary>show<small> (all missing: 142, including not present: 14)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you.
@@ -2665,6 +2703,7 @@ into your web browser:
  * json : Forgot your password?
  * json : Go to page :page
  * json : Great! You have accepted the invitation to join the :team team. : not present
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
@@ -2695,7 +2734,8 @@ into your web browser:
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please copy your new API token. For your security, it won't be shown again.
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information
  * json : Profile
  * json : Recovery Code
@@ -2719,6 +2759,7 @@ into your web browser:
  * json : Team Name
  * json : Team Owner
  * json : Team Settings
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number.
@@ -2763,7 +2804,7 @@ into your web browser:
 ## el
 
 <details>
-<summary>show<small> (all missing: 222, including not present: 10)</small></summary>
+<summary>show<small> (all missing: 225, including not present: 14)</small></summary>
 
  * json : Add a new team member to your team, allowing them to collaborate with you.
  * json : Add additional security to your account using two factor authentication.
@@ -2808,6 +2849,7 @@ into your web browser:
  * json : For your security, please confirm your password to continue.
  * json : Go to page :page
  * json : Great! You have accepted the invitation to join the :team team. : not present
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
@@ -2839,7 +2881,8 @@ into your web browser:
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please copy your new API token. For your security, it won't be shown again.
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information
  * json : Profile
  * json : Recovery Code
@@ -2862,6 +2905,7 @@ into your web browser:
  * json : Team Name
  * json : Team Owner
  * json : Team Settings
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number.
@@ -2993,25 +3037,14 @@ into your web browser:
 
 ## es
 
-<details>
-<summary>show<small> (all missing: 8, including not present: 8)</small></summary>
 
- * json : Great! You have accepted the invitation to join the :team team. : not present
- * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
- * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
- * json : If you do not have an account, you may create one by clicking the button below. After creating an account, you may click the invitation acceptance button in this email to accept the team invitation: : not present
- * json : Pending Team Invitations : not present
- * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
- * json : This user has already been invited to the team. : not present
- * json : You have been invited to join the :team team! : not present
+All lines are translated 😊
 
-[ [to top](#todo-list) ]
-</details>
 
 ## et
 
 <details>
-<summary>show<small> (all missing: 276, including not present: 10)</small></summary>
+<summary>show<small> (all missing: 279, including not present: 14)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -3071,6 +3104,7 @@ into your web browser:
  * json : Go to page :page
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -3115,7 +3149,8 @@ into your web browser:
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again.
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information
  * json : Profile
  * json : Recovery Code
@@ -3147,6 +3182,7 @@ into your web browser:
  * json : Team Name
  * json : Team Owner
  * json : Team Settings
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number.
@@ -3297,7 +3333,7 @@ into your web browser:
 ## eu
 
 <details>
-<summary>show<small> (all missing: 241, including not present: 21)</small></summary>
+<summary>show<small> (all missing: 244, including not present: 25)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you.
@@ -3347,6 +3383,7 @@ into your web browser:
  * json : Forgot your password?
  * json : Go to page :page
  * json : Great! You have accepted the invitation to join the :team team. : not present
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
@@ -3379,7 +3416,8 @@ into your web browser:
  * json : Please confirm your password before continuing. : not present
  * json : Please copy your new API token. For your security, it won't be shown again.
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information
  * json : Profile
  * json : Recovery Code
@@ -3404,6 +3442,7 @@ into your web browser:
  * json : Team Name
  * json : Team Owner
  * json : Team Settings
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number.
@@ -3547,7 +3586,7 @@ into your web browser:
 ## fa
 
 <details>
-<summary>show<small> (all missing: 182, including not present: 182)</small></summary>
+<summary>show<small> (all missing: 185, including not present: 185)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration. : not present
@@ -3607,6 +3646,7 @@ into your web browser:
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello! : not present
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required. : not present
@@ -3651,7 +3691,8 @@ into your web browser: : not present
  * json : Please confirm your password before continuing. : not present
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
  * json : Recovery Code : not present
@@ -3683,6 +3724,7 @@ into your web browser: : not present
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role. : not present
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
@@ -3739,7 +3781,7 @@ into your web browser: : not present
 ## fi
 
 <details>
-<summary>show<small> (all missing: 267, including not present: 158)</small></summary>
+<summary>show<small> (all missing: 270, including not present: 161)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -3798,6 +3840,7 @@ into your web browser: : not present
  * json : Go Home : not present
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required. : not present
@@ -3839,7 +3882,8 @@ into your web browser: : not present
  * json : Please confirm your password before continuing. : not present
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
  * json : Recovery Code : not present
@@ -3868,6 +3912,7 @@ into your web browser: : not present
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
@@ -4015,7 +4060,7 @@ into your web browser: : not present
 ## fil
 
 <details>
-<summary>show<small> (all missing: 284, including not present: 183)</small></summary>
+<summary>show<small> (all missing: 287, including not present: 186)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration. : not present
@@ -4075,6 +4120,7 @@ into your web browser: : not present
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello! : not present
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required. : not present
@@ -4119,7 +4165,8 @@ into your web browser: : not present
  * json : Please confirm your password before continuing. : not present
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
  * json : Recovery Code : not present
@@ -4151,6 +4198,7 @@ into your web browser: : not present
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role. : not present
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
@@ -4309,13 +4357,17 @@ into your web browser: : not present
 ## fr
 
 <details>
-<summary>show<small> (all missing: 8, including not present: 8)</small></summary>
+<summary>show<small> (all missing: 12, including not present: 12)</small></summary>
 
  * json : Great! You have accepted the invitation to join the :team team. : not present
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
  * json : If you do not have an account, you may create one by clicking the button below. After creating an account, you may click the invitation acceptance button in this email to accept the team invitation: : not present
  * json : Pending Team Invitations : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
+ * json : Terms of Service : not present
  * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
  * json : This user has already been invited to the team. : not present
  * json : You have been invited to join the :team team! : not present
@@ -4326,7 +4378,7 @@ into your web browser: : not present
 ## gl
 
 <details>
-<summary>show<small> (all missing: 239, including not present: 130)</small></summary>
+<summary>show<small> (all missing: 242, including not present: 133)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -4376,6 +4428,7 @@ into your web browser: : not present
  * json : Forgot your password?
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
@@ -4408,7 +4461,8 @@ into your web browser: : not present
  * json : Please confirm your password before continuing. : not present
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
  * json : Recovery Code : not present
@@ -4433,6 +4487,7 @@ into your web browser: : not present
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
@@ -4574,7 +4629,7 @@ into your web browser: : not present
 ## he
 
 <details>
-<summary>show<small> (all missing: 232, including not present: 124)</small></summary>
+<summary>show<small> (all missing: 235, including not present: 127)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -4624,6 +4679,7 @@ into your web browser: : not present
  * json : Forgot your password?
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
@@ -4654,7 +4710,8 @@ into your web browser: : not present
  * json : Please confirm your password before continuing. : not present
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
  * json : Recovery Code : not present
@@ -4678,6 +4735,7 @@ into your web browser: : not present
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
@@ -4815,7 +4873,7 @@ into your web browser: : not present
 ## hi
 
 <details>
-<summary>show<small> (all missing: 288, including not present: 120)</small></summary>
+<summary>show<small> (all missing: 291, including not present: 123)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -4875,6 +4933,7 @@ into your web browser: : not present
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -4919,7 +4978,8 @@ into your web browser:
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
  * json : Recovery Code : not present
@@ -4951,6 +5011,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
@@ -5113,7 +5174,7 @@ into your web browser:
 ## hr
 
 <details>
-<summary>show<small> (all missing: 261, including not present: 152)</small></summary>
+<summary>show<small> (all missing: 264, including not present: 155)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -5170,6 +5231,7 @@ into your web browser:
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello! : not present
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required. : not present
@@ -5209,7 +5271,8 @@ into your web browser: : not present
  * json : Please confirm your password before continuing. : not present
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
  * json : Recovery Code : not present
@@ -5236,6 +5299,7 @@ into your web browser: : not present
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
@@ -5384,7 +5448,7 @@ into your web browser: : not present
 ## hu
 
 <details>
-<summary>show<small> (all missing: 229, including not present: 122)</small></summary>
+<summary>show<small> (all missing: 232, including not present: 125)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -5434,6 +5498,7 @@ into your web browser: : not present
  * json : Forgot your password?
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
@@ -5463,7 +5528,8 @@ into your web browser: : not present
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
  * json : Recovery Code : not present
@@ -5487,6 +5553,7 @@ into your web browser: : not present
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
@@ -5622,7 +5689,7 @@ into your web browser: : not present
 ## hy
 
 <details>
-<summary>show<small> (all missing: 230, including not present: 123)</small></summary>
+<summary>show<small> (all missing: 233, including not present: 126)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -5672,6 +5739,7 @@ into your web browser: : not present
  * json : Forgot your password?
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
@@ -5703,7 +5771,8 @@ into your web browser: : not present
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
  * json : Recovery Code : not present
@@ -5727,6 +5796,7 @@ into your web browser: : not present
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
@@ -5862,7 +5932,7 @@ into your web browser: : not present
 ## id
 
 <details>
-<summary>show<small> (all missing: 122, including not present: 120)</small></summary>
+<summary>show<small> (all missing: 125, including not present: 123)</small></summary>
 
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
  * json : Add additional security to your account using two factor authentication. : not present
@@ -5905,6 +5975,7 @@ into your web browser: : not present
  * json : For your security, please confirm your password to continue. : not present
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
@@ -5932,7 +6003,8 @@ into your web browser: : not present
  * json : Photo : not present
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
  * json : Recovery Code : not present
@@ -5955,6 +6027,7 @@ into your web browser: : not present
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -5993,7 +6066,7 @@ into your web browser: : not present
 ## is
 
 <details>
-<summary>show<small> (all missing: 278, including not present: 120)</small></summary>
+<summary>show<small> (all missing: 281, including not present: 123)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -6053,6 +6126,7 @@ into your web browser: : not present
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -6097,7 +6171,8 @@ into your web browser:
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
  * json : Recovery Code : not present
@@ -6129,6 +6204,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
@@ -6281,13 +6357,17 @@ into your web browser:
 ## it
 
 <details>
-<summary>show<small> (all missing: 8, including not present: 8)</small></summary>
+<summary>show<small> (all missing: 12, including not present: 12)</small></summary>
 
  * json : Great! You have accepted the invitation to join the :team team. : not present
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
  * json : If you do not have an account, you may create one by clicking the button below. After creating an account, you may click the invitation acceptance button in this email to accept the team invitation: : not present
  * json : Pending Team Invitations : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
+ * json : Terms of Service : not present
  * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
  * json : This user has already been invited to the team. : not present
  * json : You have been invited to join the :team team! : not present
@@ -6298,12 +6378,13 @@ into your web browser:
 ## ja
 
 <details>
-<summary>show<small> (all missing: 133, including not present: 42)</small></summary>
+<summary>show<small> (all missing: 137, including not present: 46)</small></summary>
 
  * json : Are you sure you would like to leave this team? : not present
  * json : Forgot Your Password? : not present
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
  * json : If you do not have an account, you may create one by clicking the button below. After creating an account, you may click the invitation acceptance button in this email to accept the team invitation: : not present
@@ -6316,9 +6397,12 @@ into your web browser:
  * json : Pagination Navigation : not present
  * json : Pending Team Invitations : not present
  * json : Please confirm your password before continuing. : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : results : not present
  * json : Server Error : not present
  * json : Showing : not present
+ * json : Terms of Service : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
@@ -6440,7 +6524,7 @@ into your web browser:
 ## ka
 
 <details>
-<summary>show<small> (all missing: 261, including not present: 152)</small></summary>
+<summary>show<small> (all missing: 264, including not present: 155)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -6497,6 +6581,7 @@ into your web browser:
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello! : not present
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required. : not present
@@ -6536,7 +6621,8 @@ into your web browser: : not present
  * json : Please confirm your password before continuing. : not present
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
  * json : Recovery Code : not present
@@ -6563,6 +6649,7 @@ into your web browser: : not present
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
@@ -6711,7 +6798,7 @@ into your web browser: : not present
 ## kk
 
 <details>
-<summary>show<small> (all missing: 230, including not present: 122)</small></summary>
+<summary>show<small> (all missing: 233, including not present: 125)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -6761,6 +6848,7 @@ into your web browser: : not present
  * json : Forgot your password?
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
@@ -6790,7 +6878,8 @@ into your web browser: : not present
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
  * json : Recovery Code : not present
@@ -6814,6 +6903,7 @@ into your web browser: : not present
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
@@ -6950,7 +7040,7 @@ into your web browser: : not present
 ## km
 
 <details>
-<summary>show<small> (all missing: 272, including not present: 120)</small></summary>
+<summary>show<small> (all missing: 275, including not present: 123)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -7010,6 +7100,7 @@ into your web browser: : not present
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -7054,7 +7145,8 @@ into your web browser:
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
  * json : Recovery Code : not present
@@ -7086,6 +7178,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
@@ -7232,7 +7325,7 @@ into your web browser:
 ## kn
 
 <details>
-<summary>show<small> (all missing: 240, including not present: 130)</small></summary>
+<summary>show<small> (all missing: 243, including not present: 133)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -7282,6 +7375,7 @@ into your web browser:
  * json : Forgot your password?
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
@@ -7314,7 +7408,8 @@ into your web browser:
  * json : Please confirm your password before continuing. : not present
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
  * json : Recovery Code : not present
@@ -7339,6 +7434,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
@@ -7481,13 +7577,17 @@ into your web browser:
 ## ko
 
 <details>
-<summary>show<small> (all missing: 9, including not present: 9)</small></summary>
+<summary>show<small> (all missing: 13, including not present: 13)</small></summary>
 
  * json : Great! You have accepted the invitation to join the :team team. : not present
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
  * json : If you do not have an account, you may create one by clicking the button below. After creating an account, you may click the invitation acceptance button in this email to accept the team invitation: : not present
  * json : Pending Team Invitations : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
+ * json : Terms of Service : not present
  * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This user has already been invited to the team. : not present
@@ -7499,13 +7599,17 @@ into your web browser:
 ## lt
 
 <details>
-<summary>show<small> (all missing: 9, including not present: 9)</small></summary>
+<summary>show<small> (all missing: 13, including not present: 13)</small></summary>
 
  * json : Great! You have accepted the invitation to join the :team team. : not present
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
  * json : If you do not have an account, you may create one by clicking the button below. After creating an account, you may click the invitation acceptance button in this email to accept the team invitation: : not present
  * json : Pending Team Invitations : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
+ * json : Terms of Service : not present
  * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This user has already been invited to the team. : not present
@@ -7517,7 +7621,7 @@ into your web browser:
 ## lv
 
 <details>
-<summary>show<small> (all missing: 276, including not present: 120)</small></summary>
+<summary>show<small> (all missing: 279, including not present: 123)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -7577,6 +7681,7 @@ into your web browser:
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -7621,7 +7726,8 @@ into your web browser:
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
  * json : Recovery Code : not present
@@ -7653,6 +7759,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
@@ -7803,7 +7910,7 @@ into your web browser:
 ## mk
 
 <details>
-<summary>show<small> (all missing: 313, including not present: 120)</small></summary>
+<summary>show<small> (all missing: 316, including not present: 123)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -7863,6 +7970,7 @@ into your web browser:
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -7907,7 +8015,8 @@ into your web browser:
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
  * json : Recovery Code : not present
@@ -7939,6 +8048,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
@@ -8126,7 +8236,7 @@ into your web browser:
 ## mn
 
 <details>
-<summary>show<small> (all missing: 301, including not present: 120)</small></summary>
+<summary>show<small> (all missing: 304, including not present: 123)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -8186,6 +8296,7 @@ into your web browser:
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -8230,7 +8341,8 @@ into your web browser:
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
  * json : Recovery Code : not present
@@ -8262,6 +8374,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
@@ -8437,7 +8550,7 @@ into your web browser:
 ## mr
 
 <details>
-<summary>show<small> (all missing: 241, including not present: 131)</small></summary>
+<summary>show<small> (all missing: 244, including not present: 134)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -8488,6 +8601,7 @@ into your web browser:
  * json : Forgot your password?
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
@@ -8520,7 +8634,8 @@ into your web browser:
  * json : Please confirm your password before continuing. : not present
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
  * json : Recovery Code : not present
@@ -8545,6 +8660,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
@@ -8687,7 +8803,7 @@ into your web browser:
 ## ms
 
 <details>
-<summary>show<small> (all missing: 151, including not present: 132)</small></summary>
+<summary>show<small> (all missing: 154, including not present: 135)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -8737,6 +8853,7 @@ into your web browser:
  * json : Forgot your password?
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
@@ -8769,7 +8886,8 @@ into your web browser:
  * json : Please confirm your password before continuing. : not present
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
  * json : Recovery Code : not present
@@ -8794,6 +8912,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
@@ -8847,7 +8966,7 @@ into your web browser:
 ## nb
 
 <details>
-<summary>show<small> (all missing: 231, including not present: 124)</small></summary>
+<summary>show<small> (all missing: 234, including not present: 127)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -8897,6 +9016,7 @@ into your web browser:
  * json : Forgot your password?
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
@@ -8927,7 +9047,8 @@ into your web browser:
  * json : Please confirm your password before continuing. : not present
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
  * json : Recovery Code : not present
@@ -8951,6 +9072,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
@@ -9087,7 +9209,7 @@ into your web browser:
 ## ne
 
 <details>
-<summary>show<small> (all missing: 139, including not present: 120)</small></summary>
+<summary>show<small> (all missing: 142, including not present: 123)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -9136,6 +9258,7 @@ into your web browser:
  * json : Forgot your password?
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
@@ -9165,7 +9288,8 @@ into your web browser:
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
  * json : Recovery Code : not present
@@ -9189,6 +9313,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
@@ -9235,13 +9360,17 @@ into your web browser:
 ## nl
 
 <details>
-<summary>show<small> (all missing: 8, including not present: 8)</small></summary>
+<summary>show<small> (all missing: 12, including not present: 12)</small></summary>
 
  * json : Great! You have accepted the invitation to join the :team team. : not present
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
  * json : If you do not have an account, you may create one by clicking the button below. After creating an account, you may click the invitation acceptance button in this email to accept the team invitation: : not present
  * json : Pending Team Invitations : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
+ * json : Terms of Service : not present
  * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
  * json : This user has already been invited to the team. : not present
  * json : You have been invited to join the :team team! : not present
@@ -9252,7 +9381,7 @@ into your web browser:
 ## nn
 
 <details>
-<summary>show<small> (all missing: 233, including not present: 124)</small></summary>
+<summary>show<small> (all missing: 236, including not present: 127)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -9302,6 +9431,7 @@ into your web browser:
  * json : Forgot your password?
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
@@ -9332,7 +9462,8 @@ into your web browser:
  * json : Please confirm your password before continuing. : not present
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
  * json : Recovery Code : not present
@@ -9356,6 +9487,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
@@ -9494,7 +9626,7 @@ into your web browser:
 ## oc
 
 <details>
-<summary>show<small> (all missing: 183, including not present: 8)</small></summary>
+<summary>show<small> (all missing: 186, including not present: 12)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -9554,6 +9686,7 @@ into your web browser:
  * json : Go to page :page
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -9598,7 +9731,8 @@ into your web browser:
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again.
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information
  * json : Profile
  * json : Recovery Code
@@ -9630,6 +9764,7 @@ into your web browser:
  * json : Team Name
  * json : Team Owner
  * json : Team Settings
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number.
@@ -9687,13 +9822,17 @@ into your web browser:
 ## pl
 
 <details>
-<summary>show<small> (all missing: 10, including not present: 10)</small></summary>
+<summary>show<small> (all missing: 14, including not present: 14)</small></summary>
 
  * json : Great! You have accepted the invitation to join the :team team. : not present
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
  * json : If you do not have an account, you may create one by clicking the button below. After creating an account, you may click the invitation acceptance button in this email to accept the team invitation: : not present
  * json : Pending Team Invitations : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
+ * json : Terms of Service : not present
  * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This user has already been invited to the team. : not present
@@ -9706,7 +9845,7 @@ into your web browser:
 ## ps
 
 <details>
-<summary>show<small> (all missing: 241, including not present: 131)</small></summary>
+<summary>show<small> (all missing: 244, including not present: 134)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -9756,6 +9895,7 @@ into your web browser:
  * json : Forgot your password?
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
@@ -9788,7 +9928,8 @@ into your web browser:
  * json : Please confirm your password before continuing. : not present
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
  * json : Recovery Code : not present
@@ -9813,6 +9954,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
@@ -9956,13 +10098,17 @@ into your web browser:
 ## pt
 
 <details>
-<summary>show<small> (all missing: 12, including not present: 10)</small></summary>
+<summary>show<small> (all missing: 16, including not present: 14)</small></summary>
 
  * json : Great! You have accepted the invitation to join the :team team. : not present
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
  * json : If you do not have an account, you may create one by clicking the button below. After creating an account, you may click the invitation acceptance button in this email to accept the team invitation: : not present
  * json : Pending Team Invitations : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
+ * json : Terms of Service : not present
  * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This user has already been invited to the team. : not present
@@ -9977,14 +10123,18 @@ into your web browser:
 ## pt_BR
 
 <details>
-<summary>show<small> (all missing: 13, including not present: 10)</small></summary>
+<summary>show<small> (all missing: 17, including not present: 14)</small></summary>
 
  * json : Editor
  * json : Great! You have accepted the invitation to join the :team team. : not present
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
  * json : If you do not have an account, you may create one by clicking the button below. After creating an account, you may click the invitation acceptance button in this email to accept the team invitation: : not present
  * json : Pending Team Invitations : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
+ * json : Terms of Service : not present
  * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This user has already been invited to the team. : not present
@@ -9999,7 +10149,7 @@ into your web browser:
 ## ro
 
 <details>
-<summary>show<small> (all missing: 230, including not present: 122)</small></summary>
+<summary>show<small> (all missing: 233, including not present: 125)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -10049,6 +10199,7 @@ into your web browser:
  * json : Forgot your password?
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
@@ -10078,7 +10229,8 @@ into your web browser:
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
  * json : Recovery Code : not present
@@ -10102,6 +10254,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
@@ -10237,14 +10390,21 @@ into your web browser:
 
 ## ru
 
+<details>
+<summary>show<small> (all missing: 4, including not present: 4)</small></summary>
 
-All lines are translated 😊
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
+ * json : Terms of Service : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## sc
 
 <details>
-<summary>show<small> (all missing: 311, including not present: 120)</small></summary>
+<summary>show<small> (all missing: 314, including not present: 123)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -10304,6 +10464,7 @@ All lines are translated 😊
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -10348,7 +10509,8 @@ into your web browser:
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
  * json : Recovery Code : not present
@@ -10380,6 +10542,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
@@ -10565,7 +10728,7 @@ into your web browser:
 ## si
 
 <details>
-<summary>show<small> (all missing: 275, including not present: 120)</small></summary>
+<summary>show<small> (all missing: 278, including not present: 123)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -10625,6 +10788,7 @@ into your web browser:
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -10669,7 +10833,8 @@ into your web browser:
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
  * json : Recovery Code : not present
@@ -10701,6 +10866,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
@@ -10850,7 +11016,7 @@ into your web browser:
 ## sk
 
 <details>
-<summary>show<small> (all missing: 229, including not present: 122)</small></summary>
+<summary>show<small> (all missing: 232, including not present: 125)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -10900,6 +11066,7 @@ into your web browser:
  * json : Forgot your password?
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
@@ -10929,7 +11096,8 @@ into your web browser:
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
  * json : Recovery Code : not present
@@ -10953,6 +11121,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
@@ -11088,13 +11257,17 @@ into your web browser:
 ## sl
 
 <details>
-<summary>show<small> (all missing: 8, including not present: 8)</small></summary>
+<summary>show<small> (all missing: 12, including not present: 12)</small></summary>
 
  * json : Great! You have accepted the invitation to join the :team team. : not present
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
  * json : If you do not have an account, you may create one by clicking the button below. After creating an account, you may click the invitation acceptance button in this email to accept the team invitation: : not present
  * json : Pending Team Invitations : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
+ * json : Terms of Service : not present
  * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
  * json : This user has already been invited to the team. : not present
  * json : You have been invited to join the :team team! : not present
@@ -11105,7 +11278,7 @@ into your web browser:
 ## sq
 
 <details>
-<summary>show<small> (all missing: 185, including not present: 120)</small></summary>
+<summary>show<small> (all missing: 188, including not present: 123)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -11165,6 +11338,7 @@ into your web browser:
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -11209,7 +11383,8 @@ into your web browser:
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
  * json : Recovery Code : not present
@@ -11241,6 +11416,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
@@ -11300,7 +11476,7 @@ into your web browser:
 ## sr_Cyrl
 
 <details>
-<summary>show<small> (all missing: 23, including not present: 21)</small></summary>
+<summary>show<small> (all missing: 27, including not present: 25)</small></summary>
 
  * json : Administrator users can perform any action. : not present
  * json : Administrator : not present
@@ -11308,14 +11484,18 @@ into your web browser:
  * json : Editor : not present
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
  * json : If you do not have an account, you may create one by clicking the button below. After creating an account, you may click the invitation acceptance button in this email to accept the team invitation: : not present
  * json : of : not present
  * json : Pagination Navigation : not present
  * json : Pending Team Invitations : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : results : not present
  * json : Showing : not present
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
@@ -11332,7 +11512,7 @@ into your web browser:
 ## sr_Latn
 
 <details>
-<summary>show<small> (all missing: 23, including not present: 21)</small></summary>
+<summary>show<small> (all missing: 27, including not present: 25)</small></summary>
 
  * json : Administrator users can perform any action. : not present
  * json : Administrator : not present
@@ -11340,14 +11520,18 @@ into your web browser:
  * json : Editor : not present
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
  * json : If you do not have an account, you may create one by clicking the button below. After creating an account, you may click the invitation acceptance button in this email to accept the team invitation: : not present
  * json : of : not present
  * json : Pagination Navigation : not present
  * json : Pending Team Invitations : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : results : not present
  * json : Showing : not present
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
@@ -11364,7 +11548,7 @@ into your web browser:
 ## sr_Latn_ME
 
 <details>
-<summary>show<small> (all missing: 271, including not present: 119)</small></summary>
+<summary>show<small> (all missing: 274, including not present: 122)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -11424,6 +11608,7 @@ into your web browser:
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -11468,7 +11653,8 @@ into your web browser:
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
  * json : Recovery Code : not present
@@ -11500,6 +11686,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
@@ -11645,7 +11832,7 @@ into your web browser:
 ## sv
 
 <details>
-<summary>show<small> (all missing: 229, including not present: 122)</small></summary>
+<summary>show<small> (all missing: 232, including not present: 125)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -11695,6 +11882,7 @@ into your web browser:
  * json : Forgot your password?
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
@@ -11724,7 +11912,8 @@ into your web browser:
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
  * json : Recovery Code : not present
@@ -11748,6 +11937,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
@@ -11883,7 +12073,7 @@ into your web browser:
 ## sw
 
 <details>
-<summary>show<small> (all missing: 276, including not present: 120)</small></summary>
+<summary>show<small> (all missing: 279, including not present: 123)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -11943,6 +12133,7 @@ into your web browser:
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -11987,7 +12178,8 @@ into your web browser:
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
  * json : Recovery Code : not present
@@ -12019,6 +12211,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
@@ -12169,7 +12362,7 @@ into your web browser:
 ## tg
 
 <details>
-<summary>show<small> (all missing: 298, including not present: 120)</small></summary>
+<summary>show<small> (all missing: 301, including not present: 123)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -12229,6 +12422,7 @@ into your web browser:
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -12273,7 +12467,8 @@ into your web browser:
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
  * json : Recovery Code : not present
@@ -12305,6 +12500,7 @@ into your web browser:
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
@@ -12477,7 +12673,7 @@ into your web browser:
 ## th
 
 <details>
-<summary>show<small> (all missing: 246, including not present: 130)</small></summary>
+<summary>show<small> (all missing: 249, including not present: 133)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -12529,6 +12725,7 @@ into your web browser:
  * json : Forgot your password?
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
@@ -12563,7 +12760,8 @@ into your web browser: : not present
  * json : Please confirm your password before continuing. : not present
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
  * json : Recovery Code : not present
@@ -12589,6 +12787,7 @@ into your web browser: : not present
  * json : Team Name : not present
  * json : Team Owner : not present
  * json : Team Settings : not present
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
@@ -12733,7 +12932,7 @@ into your web browser: : not present
 ## tk
 
 <details>
-<summary>show<small> (all missing: 311, including not present: 10)</small></summary>
+<summary>show<small> (all missing: 314, including not present: 14)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -12793,6 +12992,7 @@ into your web browser: : not present
  * json : Go to page :page
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -12837,7 +13037,8 @@ into your web browser:
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again.
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information
  * json : Profile
  * json : Recovery Code
@@ -12869,6 +13070,7 @@ into your web browser:
  * json : Team Name
  * json : Team Owner
  * json : Team Settings
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number.
@@ -13054,7 +13256,7 @@ into your web browser:
 ## tl
 
 <details>
-<summary>show<small> (all missing: 304, including not present: 10)</small></summary>
+<summary>show<small> (all missing: 307, including not present: 14)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -13114,6 +13316,7 @@ into your web browser:
  * json : Go to page :page
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -13158,7 +13361,8 @@ into your web browser:
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again.
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information
  * json : Profile
  * json : Recovery Code
@@ -13190,6 +13394,7 @@ into your web browser:
  * json : Team Name
  * json : Team Owner
  * json : Team Settings
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number.
@@ -13368,17 +13573,21 @@ into your web browser:
 ## tr
 
 <details>
-<summary>show<small> (all missing: 98, including not present: 10)</small></summary>
+<summary>show<small> (all missing: 102, including not present: 14)</small></summary>
 
  * json : Great! You have accepted the invitation to join the :team team. : not present
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
  * json : If you do not have an account, you may create one by clicking the button below. After creating an account, you may click the invitation acceptance button in this email to accept the team invitation: : not present
  * json : of
  * json : Pending Team Invitations : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Select A New Photo
  * json : Show Recovery Codes
  * json : Showing
+ * json : Terms of Service : not present
  * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This user has already been invited to the team. : not present
@@ -13475,7 +13684,7 @@ into your web browser:
 ## ug
 
 <details>
-<summary>show<small> (all missing: 296, including not present: 10)</small></summary>
+<summary>show<small> (all missing: 299, including not present: 14)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -13535,6 +13744,7 @@ into your web browser:
  * json : Go to page :page
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -13579,7 +13789,8 @@ into your web browser:
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again.
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information
  * json : Profile
  * json : Recovery Code
@@ -13611,6 +13822,7 @@ into your web browser:
  * json : Team Name
  * json : Team Owner
  * json : Team Settings
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number.
@@ -13780,14 +13992,21 @@ into your web browser:
 
 ## uk
 
+<details>
+<summary>show<small> (all missing: 4, including not present: 4)</small></summary>
 
-All lines are translated 😊
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
+ * json : Terms of Service : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## ur
 
 <details>
-<summary>show<small> (all missing: 290, including not present: 10)</small></summary>
+<summary>show<small> (all missing: 293, including not present: 14)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -13844,6 +14063,7 @@ All lines are translated 😊
  * json : Go to page :page
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -13883,7 +14103,8 @@ into your web browser:
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again.
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information
  * json : Profile
  * json : Recovery Code
@@ -13910,6 +14131,7 @@ into your web browser:
  * json : Team Name
  * json : Team Owner
  * json : Team Settings
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number.
@@ -14087,7 +14309,7 @@ into your web browser:
 ## uz_Cyrl
 
 <details>
-<summary>show<small> (all missing: 273, including not present: 10)</small></summary>
+<summary>show<small> (all missing: 276, including not present: 14)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -14147,6 +14369,7 @@ into your web browser:
  * json : Go to page :page
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -14191,7 +14414,8 @@ into your web browser:
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again.
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information
  * json : Profile
  * json : Recovery Code
@@ -14223,6 +14447,7 @@ into your web browser:
  * json : Team Name
  * json : Team Owner
  * json : Team Settings
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number.
@@ -14370,7 +14595,7 @@ into your web browser:
 ## uz_Latn
 
 <details>
-<summary>show<small> (all missing: 273, including not present: 10)</small></summary>
+<summary>show<small> (all missing: 276, including not present: 14)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -14430,6 +14655,7 @@ into your web browser:
  * json : Go to page :page
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -14474,7 +14700,8 @@ into your web browser:
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again.
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information
  * json : Profile
  * json : Recovery Code
@@ -14506,6 +14733,7 @@ into your web browser:
  * json : Team Name
  * json : Team Owner
  * json : Team Settings
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number.
@@ -14653,13 +14881,17 @@ into your web browser:
 ## vi
 
 <details>
-<summary>show<small> (all missing: 9, including not present: 9)</small></summary>
+<summary>show<small> (all missing: 13, including not present: 13)</small></summary>
 
  * json : Great! You have accepted the invitation to join the :team team. : not present
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
  * json : If you do not have an account, you may create one by clicking the button below. After creating an account, you may click the invitation acceptance button in this email to accept the team invitation: : not present
  * json : Pending Team Invitations : not present
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
+ * json : Terms of Service : not present
  * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This user has already been invited to the team. : not present
@@ -14671,7 +14903,7 @@ into your web browser:
 ## zh_CN
 
 <details>
-<summary>show<small> (all missing: 137, including not present: 10)</small></summary>
+<summary>show<small> (all missing: 140, including not present: 14)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you.
@@ -14719,6 +14951,7 @@ into your web browser:
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Go to page :page
  * json : Great! You have accepted the invitation to join the :team team. : not present
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
@@ -14748,7 +14981,8 @@ into your web browser:
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please copy your new API token. For your security, it won't be shown again.
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information
  * json : Profile
  * json : Recovery Code
@@ -14771,6 +15005,7 @@ into your web browser:
  * json : Team Name
  * json : Team Owner
  * json : Team Settings
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number.
@@ -14817,7 +15052,7 @@ into your web browser:
 ## zh_HK
 
 <details>
-<summary>show<small> (all missing: 137, including not present: 10)</small></summary>
+<summary>show<small> (all missing: 140, including not present: 14)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you.
@@ -14865,6 +15100,7 @@ into your web browser:
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Go to page :page
  * json : Great! You have accepted the invitation to join the :team team. : not present
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
@@ -14894,7 +15130,8 @@ into your web browser:
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please copy your new API token. For your security, it won't be shown again.
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information
  * json : Profile
  * json : Recovery Code
@@ -14917,6 +15154,7 @@ into your web browser:
  * json : Team Name
  * json : Team Owner
  * json : Team Settings
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number.
@@ -14963,7 +15201,7 @@ into your web browser:
 ## zh_TW
 
 <details>
-<summary>show<small> (all missing: 137, including not present: 10)</small></summary>
+<summary>show<small> (all missing: 140, including not present: 14)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you.
@@ -15011,6 +15249,7 @@ into your web browser:
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Go to page :page
  * json : Great! You have accepted the invitation to join the :team team. : not present
+ * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
@@ -15040,7 +15279,8 @@ into your web browser:
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please copy your new API token. For your security, it won't be shown again.
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
- * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+ * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Privacy Policy : not present
  * json : Profile Information
  * json : Profile
  * json : Recovery Code
@@ -15063,6 +15303,7 @@ into your web browser:
  * json : Team Name
  * json : Team Owner
  * json : Team Settings
+ * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number.

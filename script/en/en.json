@@ -1,6 +1,7 @@
 {
     "A fresh verification link has been sent to your email address.": "A fresh verification link has been sent to your email address.",
     "A new verification link has been sent to the email address you provided during registration.": "A new verification link has been sent to the email address you provided during registration.",
+    "Accept Invitation": "Accept Invitation",
     "Add a new team member to your team, allowing them to collaborate with you.": "Add a new team member to your team, allowing them to collaborate with you.",
     "Add additional security to your account using two factor authentication.": "Add additional security to your account using two factor authentication.",
     "Add Team Member": "Add Team Member",
@@ -28,6 +29,7 @@
     "Confirm Password": "Confirm Password",
     "Confirm": "Confirm",
     "Create a new team to collaborate with others on projects.": "Create a new team to collaborate with others on projects.",
+    "Create Account": "Create Account",
     "Create API Token": "Create API Token",
     "Create New Team": "Create New Team",
     "Create Team": "Create Team",

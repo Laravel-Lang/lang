@@ -1,7 +1,7 @@
 # Todo list
 | | | | | | | | | | |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-[ar ✔](#ar)|[az ❗](#az)|[be ❗](#be)|[bg ❗](#bg)|[bn ❗](#bn)|[bs ❗](#bs)|[ca ❗](#ca)|[cs ❗](#cs)|[cy ❗](#cy)|[da ❗](#da)
+[ar ❗](#ar)|[az ❗](#az)|[be ❗](#be)|[bg ❗](#bg)|[bn ❗](#bn)|[bs ❗](#bs)|[ca ❗](#ca)|[cs ❗](#cs)|[cy ❗](#cy)|[da ❗](#da)
 [de ❗](#de)|[de_CH ❗](#de_CH)|[el ❗](#el)|[es ✔](#es)|[et ❗](#et)|[eu ❗](#eu)|[fa ❗](#fa)|[fi ❗](#fi)|[fil ❗](#fil)|[fr ❗](#fr)
 [gl ❗](#gl)|[he ❗](#he)|[hi ❗](#hi)|[hr ❗](#hr)|[hu ❗](#hu)|[hy ❗](#hy)|[id ❗](#id)|[is ❗](#is)|[it ❗](#it)|[ja ❗](#ja)
 [ka ❗](#ka)|[kk ❗](#kk)|[km ❗](#km)|[kn ❗](#kn)|[ko ❗](#ko)|[lt ❗](#lt)|[lv ❗](#lv)|[mk ❗](#mk)|[mn ❗](#mn)|[mr ❗](#mr)
@@ -15,17 +15,23 @@
 
 ## ar
 
+<details>
+<summary>show<small> (all missing: 2, including not present: 2)</small></summary>
 
-All lines are translated 😊
+ * json : Accept Invitation : not present
+ * json : Create Account : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## az
 
 <details>
-<summary>show<small> (all missing: 299, including not present: 14)</small></summary>
+<summary>show<small> (all missing: 301, including not present: 16)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you.
  * json : Add additional security to your account using two factor authentication.
  * json : Add Team Member
@@ -53,6 +59,7 @@ All lines are translated 😊
  * json : Confirm Password
  * json : Confirm
  * json : Create a new team to collaborate with others on projects.
+ * json : Create Account : not present
  * json : Create API Token
  * json : Create New Team
  * json : Create Team
@@ -331,10 +338,11 @@ into your web browser:
 ## be
 
 <details>
-<summary>show<small> (all missing: 309, including not present: 14)</small></summary>
+<summary>show<small> (all missing: 311, including not present: 16)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you.
  * json : Add additional security to your account using two factor authentication.
  * json : Add Team Member
@@ -362,6 +370,7 @@ into your web browser:
  * json : Confirm Password
  * json : Confirm
  * json : Create a new team to collaborate with others on projects.
+ * json : Create Account : not present
  * json : Create API Token
  * json : Create New Team
  * json : Create Team
@@ -650,10 +659,11 @@ into your web browser:
 ## bg
 
 <details>
-<summary>show<small> (all missing: 277, including not present: 14)</small></summary>
+<summary>show<small> (all missing: 279, including not present: 16)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you.
  * json : Add additional security to your account using two factor authentication.
  * json : Add Team Member
@@ -681,6 +691,7 @@ into your web browser:
  * json : Confirm Password
  * json : Confirm
  * json : Create a new team to collaborate with others on projects.
+ * json : Create Account : not present
  * json : Create API Token
  * json : Create New Team
  * json : Create Team
@@ -937,10 +948,11 @@ into your web browser:
 ## bn
 
 <details>
-<summary>show<small> (all missing: 299, including not present: 14)</small></summary>
+<summary>show<small> (all missing: 301, including not present: 16)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you.
  * json : Add additional security to your account using two factor authentication.
  * json : Add Team Member
@@ -968,6 +980,7 @@ into your web browser:
  * json : Confirm Password
  * json : Confirm
  * json : Create a new team to collaborate with others on projects.
+ * json : Create Account : not present
  * json : Create API Token
  * json : Create New Team
  * json : Create Team
@@ -1246,10 +1259,11 @@ into your web browser:
 ## bs
 
 <details>
-<summary>show<small> (all missing: 313, including not present: 14)</small></summary>
+<summary>show<small> (all missing: 315, including not present: 16)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you.
  * json : Add additional security to your account using two factor authentication.
  * json : Add Team Member
@@ -1277,6 +1291,7 @@ into your web browser:
  * json : Confirm Password
  * json : Confirm
  * json : Create a new team to collaborate with others on projects.
+ * json : Create Account : not present
  * json : Create API Token
  * json : Create New Team
  * json : Create Team
@@ -1569,9 +1584,10 @@ into your web browser:
 ## ca
 
 <details>
-<summary>show<small> (all missing: 233, including not present: 14)</small></summary>
+<summary>show<small> (all missing: 235, including not present: 16)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you.
  * json : Add additional security to your account using two factor authentication.
  * json : Add Team Member
@@ -1595,6 +1611,7 @@ into your web browser:
  * json : Code
  * json : Confirm
  * json : Create a new team to collaborate with others on projects.
+ * json : Create Account : not present
  * json : Create API Token
  * json : Create New Team
  * json : Create Team
@@ -1811,9 +1828,10 @@ into your web browser:
 ## cs
 
 <details>
-<summary>show<small> (all missing: 235, including not present: 14)</small></summary>
+<summary>show<small> (all missing: 237, including not present: 16)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you.
  * json : Add additional security to your account using two factor authentication.
  * json : Add Team Member
@@ -1837,6 +1855,7 @@ into your web browser:
  * json : Code
  * json : Confirm
  * json : Create a new team to collaborate with others on projects.
+ * json : Create Account : not present
  * json : Create API Token
  * json : Create New Team
  * json : Create Team
@@ -2055,10 +2074,11 @@ into your web browser:
 ## cy
 
 <details>
-<summary>show<small> (all missing: 314, including not present: 14)</small></summary>
+<summary>show<small> (all missing: 316, including not present: 16)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you.
  * json : Add additional security to your account using two factor authentication.
  * json : Add Team Member
@@ -2086,6 +2106,7 @@ into your web browser:
  * json : Confirm Password
  * json : Confirm
  * json : Create a new team to collaborate with others on projects.
+ * json : Create Account : not present
  * json : Create API Token
  * json : Create New Team
  * json : Create Team
@@ -2379,9 +2400,10 @@ into your web browser:
 ## da
 
 <details>
-<summary>show<small> (all missing: 235, including not present: 14)</small></summary>
+<summary>show<small> (all missing: 237, including not present: 16)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you.
  * json : Add additional security to your account using two factor authentication.
  * json : Add Team Member
@@ -2405,6 +2427,7 @@ into your web browser:
  * json : Code
  * json : Confirm
  * json : Create a new team to collaborate with others on projects.
+ * json : Create Account : not present
  * json : Create API Token
  * json : Create New Team
  * json : Create Team
@@ -2623,8 +2646,10 @@ into your web browser:
 ## de
 
 <details>
-<summary>show<small> (all missing: 14, including not present: 14)</small></summary>
+<summary>show<small> (all missing: 16, including not present: 16)</small></summary>
 
+ * json : Accept Invitation : not present
+ * json : Create Account : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
@@ -2646,9 +2671,10 @@ into your web browser:
 ## de_CH
 
 <details>
-<summary>show<small> (all missing: 142, including not present: 14)</small></summary>
+<summary>show<small> (all missing: 144, including not present: 16)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you.
  * json : Add additional security to your account using two factor authentication.
  * json : Add Team Member
@@ -2672,6 +2698,7 @@ into your web browser:
  * json : Code
  * json : Confirm
  * json : Create a new team to collaborate with others on projects.
+ * json : Create Account : not present
  * json : Create API Token
  * json : Create New Team
  * json : Create Team
@@ -2797,8 +2824,9 @@ into your web browser:
 ## el
 
 <details>
-<summary>show<small> (all missing: 225, including not present: 14)</small></summary>
+<summary>show<small> (all missing: 227, including not present: 16)</small></summary>
 
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you.
  * json : Add additional security to your account using two factor authentication.
  * json : Add Team Member
@@ -2821,6 +2849,7 @@ into your web browser:
  * json : Code
  * json : Confirm
  * json : Create a new team to collaborate with others on projects.
+ * json : Create Account : not present
  * json : Create API Token
  * json : Create New Team
  * json : Create Team
@@ -3037,10 +3066,11 @@ All lines are translated 😊
 ## et
 
 <details>
-<summary>show<small> (all missing: 279, including not present: 14)</small></summary>
+<summary>show<small> (all missing: 281, including not present: 16)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you.
  * json : Add additional security to your account using two factor authentication.
  * json : Add Team Member
@@ -3068,6 +3098,7 @@ All lines are translated 😊
  * json : Confirm Password
  * json : Confirm
  * json : Create a new team to collaborate with others on projects.
+ * json : Create Account : not present
  * json : Create API Token
  * json : Create New Team
  * json : Create Team
@@ -3326,9 +3357,10 @@ into your web browser:
 ## eu
 
 <details>
-<summary>show<small> (all missing: 244, including not present: 25)</small></summary>
+<summary>show<small> (all missing: 246, including not present: 27)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you.
  * json : Add additional security to your account using two factor authentication.
  * json : Add Team Member
@@ -3352,6 +3384,7 @@ into your web browser:
  * json : Code
  * json : Confirm
  * json : Create a new team to collaborate with others on projects.
+ * json : Create Account : not present
  * json : Create API Token
  * json : Create New Team
  * json : Create Team
@@ -3579,10 +3612,11 @@ into your web browser:
 ## fa
 
 <details>
-<summary>show<small> (all missing: 185, including not present: 185)</small></summary>
+<summary>show<small> (all missing: 187, including not present: 187)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration. : not present
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
  * json : Add additional security to your account using two factor authentication. : not present
  * json : Add Team Member : not present
@@ -3610,6 +3644,7 @@ into your web browser:
  * json : Confirm Password : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
+ * json : Create Account : not present
  * json : Create API Token : not present
  * json : Create New Team : not present
  * json : Create Team : not present
@@ -3774,10 +3809,11 @@ into your web browser: : not present
 ## fi
 
 <details>
-<summary>show<small> (all missing: 270, including not present: 161)</small></summary>
+<summary>show<small> (all missing: 272, including not present: 163)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
  * json : Add additional security to your account using two factor authentication. : not present
  * json : Add Team Member : not present
@@ -3805,6 +3841,7 @@ into your web browser: : not present
  * json : Confirm Password : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
+ * json : Create Account : not present
  * json : Create API Token : not present
  * json : Create New Team : not present
  * json : Create Team : not present
@@ -4053,10 +4090,11 @@ into your web browser: : not present
 ## fil
 
 <details>
-<summary>show<small> (all missing: 287, including not present: 186)</small></summary>
+<summary>show<small> (all missing: 289, including not present: 188)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration. : not present
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
  * json : Add additional security to your account using two factor authentication. : not present
  * json : Add Team Member : not present
@@ -4084,6 +4122,7 @@ into your web browser: : not present
  * json : Confirm Password : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
+ * json : Create Account : not present
  * json : Create API Token : not present
  * json : Create New Team : not present
  * json : Create Team : not present
@@ -4350,8 +4389,10 @@ into your web browser: : not present
 ## fr
 
 <details>
-<summary>show<small> (all missing: 12, including not present: 12)</small></summary>
+<summary>show<small> (all missing: 14, including not present: 14)</small></summary>
 
+ * json : Accept Invitation : not present
+ * json : Create Account : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
@@ -4371,9 +4412,10 @@ into your web browser: : not present
 ## gl
 
 <details>
-<summary>show<small> (all missing: 242, including not present: 133)</small></summary>
+<summary>show<small> (all missing: 244, including not present: 135)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
  * json : Add additional security to your account using two factor authentication. : not present
  * json : Add Team Member : not present
@@ -4397,6 +4439,7 @@ into your web browser: : not present
  * json : Code : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
+ * json : Create Account : not present
  * json : Create API Token : not present
  * json : Create New Team : not present
  * json : Create Team : not present
@@ -4622,9 +4665,10 @@ into your web browser: : not present
 ## he
 
 <details>
-<summary>show<small> (all missing: 235, including not present: 127)</small></summary>
+<summary>show<small> (all missing: 237, including not present: 129)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
  * json : Add additional security to your account using two factor authentication. : not present
  * json : Add Team Member : not present
@@ -4648,6 +4692,7 @@ into your web browser: : not present
  * json : Code : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
+ * json : Create Account : not present
  * json : Create API Token : not present
  * json : Create New Team : not present
  * json : Create Team : not present
@@ -4866,10 +4911,11 @@ into your web browser: : not present
 ## hi
 
 <details>
-<summary>show<small> (all missing: 291, including not present: 123)</small></summary>
+<summary>show<small> (all missing: 293, including not present: 125)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
  * json : Add additional security to your account using two factor authentication. : not present
  * json : Add Team Member : not present
@@ -4897,6 +4943,7 @@ into your web browser: : not present
  * json : Confirm Password
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
+ * json : Create Account : not present
  * json : Create API Token : not present
  * json : Create New Team : not present
  * json : Create Team : not present
@@ -5167,10 +5214,11 @@ into your web browser:
 ## hr
 
 <details>
-<summary>show<small> (all missing: 264, including not present: 155)</small></summary>
+<summary>show<small> (all missing: 266, including not present: 157)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
  * json : Add additional security to your account using two factor authentication. : not present
  * json : Add Team Member : not present
@@ -5197,6 +5245,7 @@ into your web browser:
  * json : Code : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
+ * json : Create Account : not present
  * json : Create API Token : not present
  * json : Create New Team : not present
  * json : Create Team : not present
@@ -5441,9 +5490,10 @@ into your web browser: : not present
 ## hu
 
 <details>
-<summary>show<small> (all missing: 232, including not present: 125)</small></summary>
+<summary>show<small> (all missing: 234, including not present: 127)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
  * json : Add additional security to your account using two factor authentication. : not present
  * json : Add Team Member : not present
@@ -5467,6 +5517,7 @@ into your web browser: : not present
  * json : Code : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
+ * json : Create Account : not present
  * json : Create API Token : not present
  * json : Create New Team : not present
  * json : Create Team : not present
@@ -5682,9 +5733,10 @@ into your web browser: : not present
 ## hy
 
 <details>
-<summary>show<small> (all missing: 233, including not present: 126)</small></summary>
+<summary>show<small> (all missing: 235, including not present: 128)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
  * json : Add additional security to your account using two factor authentication. : not present
  * json : Add Team Member : not present
@@ -5708,6 +5760,7 @@ into your web browser: : not present
  * json : Code : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
+ * json : Create Account : not present
  * json : Create API Token : not present
  * json : Create New Team : not present
  * json : Create Team : not present
@@ -5925,8 +5978,9 @@ into your web browser: : not present
 ## id
 
 <details>
-<summary>show<small> (all missing: 125, including not present: 123)</small></summary>
+<summary>show<small> (all missing: 127, including not present: 125)</small></summary>
 
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
  * json : Add additional security to your account using two factor authentication. : not present
  * json : Add Team Member : not present
@@ -5949,6 +6003,7 @@ into your web browser: : not present
  * json : Code : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
+ * json : Create Account : not present
  * json : Create API Token : not present
  * json : Create New Team : not present
  * json : Create Team : not present
@@ -6059,10 +6114,11 @@ into your web browser: : not present
 ## is
 
 <details>
-<summary>show<small> (all missing: 281, including not present: 123)</small></summary>
+<summary>show<small> (all missing: 283, including not present: 125)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
  * json : Add additional security to your account using two factor authentication. : not present
  * json : Add Team Member : not present
@@ -6090,6 +6146,7 @@ into your web browser: : not present
  * json : Confirm Password
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
+ * json : Create Account : not present
  * json : Create API Token : not present
  * json : Create New Team : not present
  * json : Create Team : not present
@@ -6350,8 +6407,10 @@ into your web browser:
 ## it
 
 <details>
-<summary>show<small> (all missing: 12, including not present: 12)</small></summary>
+<summary>show<small> (all missing: 14, including not present: 14)</small></summary>
 
+ * json : Accept Invitation : not present
+ * json : Create Account : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
@@ -6371,9 +6430,11 @@ into your web browser:
 ## ja
 
 <details>
-<summary>show<small> (all missing: 137, including not present: 46)</small></summary>
+<summary>show<small> (all missing: 139, including not present: 48)</small></summary>
 
+ * json : Accept Invitation : not present
  * json : Are you sure you would like to leave this team? : not present
+ * json : Create Account : not present
  * json : Forgot Your Password? : not present
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
@@ -6517,10 +6578,11 @@ into your web browser:
 ## ka
 
 <details>
-<summary>show<small> (all missing: 264, including not present: 155)</small></summary>
+<summary>show<small> (all missing: 266, including not present: 157)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
  * json : Add additional security to your account using two factor authentication. : not present
  * json : Add Team Member : not present
@@ -6547,6 +6609,7 @@ into your web browser:
  * json : Code : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
+ * json : Create Account : not present
  * json : Create API Token : not present
  * json : Create New Team : not present
  * json : Create Team : not present
@@ -6791,9 +6854,10 @@ into your web browser: : not present
 ## kk
 
 <details>
-<summary>show<small> (all missing: 233, including not present: 125)</small></summary>
+<summary>show<small> (all missing: 235, including not present: 127)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
  * json : Add additional security to your account using two factor authentication. : not present
  * json : Add Team Member : not present
@@ -6817,6 +6881,7 @@ into your web browser: : not present
  * json : Code : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
+ * json : Create Account : not present
  * json : Create API Token : not present
  * json : Create New Team : not present
  * json : Create Team : not present
@@ -7033,10 +7098,11 @@ into your web browser: : not present
 ## km
 
 <details>
-<summary>show<small> (all missing: 275, including not present: 123)</small></summary>
+<summary>show<small> (all missing: 277, including not present: 125)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
  * json : Add additional security to your account using two factor authentication. : not present
  * json : Add Team Member : not present
@@ -7064,6 +7130,7 @@ into your web browser: : not present
  * json : Confirm Password
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
+ * json : Create Account : not present
  * json : Create API Token : not present
  * json : Create New Team : not present
  * json : Create Team : not present
@@ -7318,9 +7385,10 @@ into your web browser:
 ## kn
 
 <details>
-<summary>show<small> (all missing: 243, including not present: 133)</small></summary>
+<summary>show<small> (all missing: 245, including not present: 135)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
  * json : Add additional security to your account using two factor authentication. : not present
  * json : Add Team Member : not present
@@ -7344,6 +7412,7 @@ into your web browser:
  * json : Code : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
+ * json : Create Account : not present
  * json : Create API Token : not present
  * json : Create New Team : not present
  * json : Create Team : not present
@@ -7570,8 +7639,10 @@ into your web browser:
 ## ko
 
 <details>
-<summary>show<small> (all missing: 13, including not present: 13)</small></summary>
+<summary>show<small> (all missing: 15, including not present: 15)</small></summary>
 
+ * json : Accept Invitation : not present
+ * json : Create Account : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
@@ -7592,8 +7663,10 @@ into your web browser:
 ## lt
 
 <details>
-<summary>show<small> (all missing: 13, including not present: 13)</small></summary>
+<summary>show<small> (all missing: 15, including not present: 15)</small></summary>
 
+ * json : Accept Invitation : not present
+ * json : Create Account : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
@@ -7614,10 +7687,11 @@ into your web browser:
 ## lv
 
 <details>
-<summary>show<small> (all missing: 279, including not present: 123)</small></summary>
+<summary>show<small> (all missing: 281, including not present: 125)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
  * json : Add additional security to your account using two factor authentication. : not present
  * json : Add Team Member : not present
@@ -7645,6 +7719,7 @@ into your web browser:
  * json : Confirm Password
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
+ * json : Create Account : not present
  * json : Create API Token : not present
  * json : Create New Team : not present
  * json : Create Team : not present
@@ -7903,10 +7978,11 @@ into your web browser:
 ## mk
 
 <details>
-<summary>show<small> (all missing: 316, including not present: 123)</small></summary>
+<summary>show<small> (all missing: 318, including not present: 125)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
  * json : Add additional security to your account using two factor authentication. : not present
  * json : Add Team Member : not present
@@ -7934,6 +8010,7 @@ into your web browser:
  * json : Confirm Password
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
+ * json : Create Account : not present
  * json : Create API Token : not present
  * json : Create New Team : not present
  * json : Create Team : not present
@@ -8229,10 +8306,11 @@ into your web browser:
 ## mn
 
 <details>
-<summary>show<small> (all missing: 304, including not present: 123)</small></summary>
+<summary>show<small> (all missing: 306, including not present: 125)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
  * json : Add additional security to your account using two factor authentication. : not present
  * json : Add Team Member : not present
@@ -8260,6 +8338,7 @@ into your web browser:
  * json : Confirm Password
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
+ * json : Create Account : not present
  * json : Create API Token : not present
  * json : Create New Team : not present
  * json : Create Team : not present
@@ -8543,9 +8622,10 @@ into your web browser:
 ## mr
 
 <details>
-<summary>show<small> (all missing: 244, including not present: 134)</small></summary>
+<summary>show<small> (all missing: 246, including not present: 136)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
  * json : Add additional security to your account using two factor authentication. : not present
  * json : Add Team Member : not present
@@ -8570,6 +8650,7 @@ into your web browser:
  * json : Code : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
+ * json : Create Account : not present
  * json : Create API Token : not present
  * json : Create New Team : not present
  * json : Create Team : not present
@@ -8796,9 +8877,10 @@ into your web browser:
 ## ms
 
 <details>
-<summary>show<small> (all missing: 154, including not present: 135)</small></summary>
+<summary>show<small> (all missing: 156, including not present: 137)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
  * json : Add additional security to your account using two factor authentication. : not present
  * json : Add Team Member : not present
@@ -8822,6 +8904,7 @@ into your web browser:
  * json : Code : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
+ * json : Create Account : not present
  * json : Create API Token : not present
  * json : Create New Team : not present
  * json : Create Team : not present
@@ -8959,9 +9042,10 @@ into your web browser:
 ## nb
 
 <details>
-<summary>show<small> (all missing: 234, including not present: 127)</small></summary>
+<summary>show<small> (all missing: 236, including not present: 129)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
  * json : Add additional security to your account using two factor authentication. : not present
  * json : Add Team Member : not present
@@ -8985,6 +9069,7 @@ into your web browser:
  * json : Code : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
+ * json : Create Account : not present
  * json : Create API Token : not present
  * json : Create New Team : not present
  * json : Create Team : not present
@@ -9202,9 +9287,10 @@ into your web browser:
 ## ne
 
 <details>
-<summary>show<small> (all missing: 142, including not present: 123)</small></summary>
+<summary>show<small> (all missing: 144, including not present: 125)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
  * json : Add additional security to your account using two factor authentication. : not present
  * json : Add Team Member : not present
@@ -9228,6 +9314,7 @@ into your web browser:
  * json : Code : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
+ * json : Create Account : not present
  * json : Create API Token : not present
  * json : Create New Team : not present
  * json : Create Team : not present
@@ -9353,8 +9440,10 @@ into your web browser:
 ## nl
 
 <details>
-<summary>show<small> (all missing: 12, including not present: 12)</small></summary>
+<summary>show<small> (all missing: 14, including not present: 14)</small></summary>
 
+ * json : Accept Invitation : not present
+ * json : Create Account : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
@@ -9374,9 +9463,10 @@ into your web browser:
 ## nn
 
 <details>
-<summary>show<small> (all missing: 236, including not present: 127)</small></summary>
+<summary>show<small> (all missing: 238, including not present: 129)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
  * json : Add additional security to your account using two factor authentication. : not present
  * json : Add Team Member : not present
@@ -9400,6 +9490,7 @@ into your web browser:
  * json : Code : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
+ * json : Create Account : not present
  * json : Create API Token : not present
  * json : Create New Team : not present
  * json : Create Team : not present
@@ -9619,10 +9710,11 @@ into your web browser:
 ## oc
 
 <details>
-<summary>show<small> (all missing: 186, including not present: 12)</small></summary>
+<summary>show<small> (all missing: 188, including not present: 14)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you.
  * json : Add additional security to your account using two factor authentication.
  * json : Add Team Member
@@ -9650,6 +9742,7 @@ into your web browser:
  * json : Confirm Password
  * json : Confirm
  * json : Create a new team to collaborate with others on projects.
+ * json : Create Account : not present
  * json : Create API Token
  * json : Create New Team
  * json : Create Team
@@ -9815,8 +9908,10 @@ into your web browser:
 ## pl
 
 <details>
-<summary>show<small> (all missing: 14, including not present: 14)</small></summary>
+<summary>show<small> (all missing: 16, including not present: 16)</small></summary>
 
+ * json : Accept Invitation : not present
+ * json : Create Account : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
@@ -9838,9 +9933,10 @@ into your web browser:
 ## ps
 
 <details>
-<summary>show<small> (all missing: 244, including not present: 134)</small></summary>
+<summary>show<small> (all missing: 246, including not present: 136)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
  * json : Add additional security to your account using two factor authentication. : not present
  * json : Add Team Member : not present
@@ -9864,6 +9960,7 @@ into your web browser:
  * json : Code : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
+ * json : Create Account : not present
  * json : Create API Token : not present
  * json : Create New Team : not present
  * json : Create Team : not present
@@ -10091,8 +10188,10 @@ into your web browser:
 ## pt
 
 <details>
-<summary>show<small> (all missing: 16, including not present: 14)</small></summary>
+<summary>show<small> (all missing: 18, including not present: 16)</small></summary>
 
+ * json : Accept Invitation : not present
+ * json : Create Account : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
@@ -10116,8 +10215,10 @@ into your web browser:
 ## pt_BR
 
 <details>
-<summary>show<small> (all missing: 17, including not present: 14)</small></summary>
+<summary>show<small> (all missing: 19, including not present: 16)</small></summary>
 
+ * json : Accept Invitation : not present
+ * json : Create Account : not present
  * json : Editor
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
@@ -10142,9 +10243,10 @@ into your web browser:
 ## ro
 
 <details>
-<summary>show<small> (all missing: 233, including not present: 125)</small></summary>
+<summary>show<small> (all missing: 235, including not present: 127)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
  * json : Add additional security to your account using two factor authentication. : not present
  * json : Add Team Member : not present
@@ -10168,6 +10270,7 @@ into your web browser:
  * json : Code : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
+ * json : Create Account : not present
  * json : Create API Token : not present
  * json : Create New Team : not present
  * json : Create Team : not present
@@ -10384,8 +10487,10 @@ into your web browser:
 ## ru
 
 <details>
-<summary>show<small> (all missing: 4, including not present: 4)</small></summary>
+<summary>show<small> (all missing: 6, including not present: 6)</small></summary>
 
+ * json : Accept Invitation : not present
+ * json : Create Account : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -10397,10 +10502,11 @@ into your web browser:
 ## sc
 
 <details>
-<summary>show<small> (all missing: 314, including not present: 123)</small></summary>
+<summary>show<small> (all missing: 316, including not present: 125)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
  * json : Add additional security to your account using two factor authentication. : not present
  * json : Add Team Member : not present
@@ -10428,6 +10534,7 @@ into your web browser:
  * json : Confirm Password
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
+ * json : Create Account : not present
  * json : Create API Token : not present
  * json : Create New Team : not present
  * json : Create Team : not present
@@ -10721,10 +10828,11 @@ into your web browser:
 ## si
 
 <details>
-<summary>show<small> (all missing: 278, including not present: 123)</small></summary>
+<summary>show<small> (all missing: 280, including not present: 125)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
  * json : Add additional security to your account using two factor authentication. : not present
  * json : Add Team Member : not present
@@ -10752,6 +10860,7 @@ into your web browser:
  * json : Confirm Password
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
+ * json : Create Account : not present
  * json : Create API Token : not present
  * json : Create New Team : not present
  * json : Create Team : not present
@@ -11009,9 +11118,10 @@ into your web browser:
 ## sk
 
 <details>
-<summary>show<small> (all missing: 232, including not present: 125)</small></summary>
+<summary>show<small> (all missing: 234, including not present: 127)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
  * json : Add additional security to your account using two factor authentication. : not present
  * json : Add Team Member : not present
@@ -11035,6 +11145,7 @@ into your web browser:
  * json : Code : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
+ * json : Create Account : not present
  * json : Create API Token : not present
  * json : Create New Team : not present
  * json : Create Team : not present
@@ -11250,8 +11361,10 @@ into your web browser:
 ## sl
 
 <details>
-<summary>show<small> (all missing: 12, including not present: 12)</small></summary>
+<summary>show<small> (all missing: 14, including not present: 14)</small></summary>
 
+ * json : Accept Invitation : not present
+ * json : Create Account : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
@@ -11271,10 +11384,11 @@ into your web browser:
 ## sq
 
 <details>
-<summary>show<small> (all missing: 188, including not present: 123)</small></summary>
+<summary>show<small> (all missing: 190, including not present: 125)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
  * json : Add additional security to your account using two factor authentication. : not present
  * json : Add Team Member : not present
@@ -11302,6 +11416,7 @@ into your web browser:
  * json : Confirm Password
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
+ * json : Create Account : not present
  * json : Create API Token : not present
  * json : Create New Team : not present
  * json : Create Team : not present
@@ -11469,10 +11584,12 @@ into your web browser:
 ## sr_Cyrl
 
 <details>
-<summary>show<small> (all missing: 27, including not present: 25)</small></summary>
+<summary>show<small> (all missing: 29, including not present: 27)</small></summary>
 
+ * json : Accept Invitation : not present
  * json : Administrator users can perform any action. : not present
  * json : Administrator : not present
+ * json : Create Account : not present
  * json : Editor users have the ability to read, create, and update. : not present
  * json : Editor : not present
  * json : Go to page :page : not present
@@ -11505,10 +11622,12 @@ into your web browser:
 ## sr_Latn
 
 <details>
-<summary>show<small> (all missing: 27, including not present: 25)</small></summary>
+<summary>show<small> (all missing: 29, including not present: 27)</small></summary>
 
+ * json : Accept Invitation : not present
  * json : Administrator users can perform any action. : not present
  * json : Administrator : not present
+ * json : Create Account : not present
  * json : Editor users have the ability to read, create, and update. : not present
  * json : Editor : not present
  * json : Go to page :page : not present
@@ -11541,10 +11660,11 @@ into your web browser:
 ## sr_Latn_ME
 
 <details>
-<summary>show<small> (all missing: 274, including not present: 122)</small></summary>
+<summary>show<small> (all missing: 276, including not present: 124)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
  * json : Add additional security to your account using two factor authentication. : not present
  * json : Add Team Member : not present
@@ -11572,6 +11692,7 @@ into your web browser:
  * json : Confirm Password
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
+ * json : Create Account : not present
  * json : Create API Token : not present
  * json : Create New Team : not present
  * json : Create Team : not present
@@ -11825,9 +11946,10 @@ into your web browser:
 ## sv
 
 <details>
-<summary>show<small> (all missing: 232, including not present: 125)</small></summary>
+<summary>show<small> (all missing: 234, including not present: 127)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
  * json : Add additional security to your account using two factor authentication. : not present
  * json : Add Team Member : not present
@@ -11851,6 +11973,7 @@ into your web browser:
  * json : Code : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
+ * json : Create Account : not present
  * json : Create API Token : not present
  * json : Create New Team : not present
  * json : Create Team : not present
@@ -12066,10 +12189,11 @@ into your web browser:
 ## sw
 
 <details>
-<summary>show<small> (all missing: 279, including not present: 123)</small></summary>
+<summary>show<small> (all missing: 281, including not present: 125)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
  * json : Add additional security to your account using two factor authentication. : not present
  * json : Add Team Member : not present
@@ -12097,6 +12221,7 @@ into your web browser:
  * json : Confirm Password
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
+ * json : Create Account : not present
  * json : Create API Token : not present
  * json : Create New Team : not present
  * json : Create Team : not present
@@ -12355,10 +12480,11 @@ into your web browser:
 ## tg
 
 <details>
-<summary>show<small> (all missing: 301, including not present: 123)</small></summary>
+<summary>show<small> (all missing: 303, including not present: 125)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
  * json : Add additional security to your account using two factor authentication. : not present
  * json : Add Team Member : not present
@@ -12386,6 +12512,7 @@ into your web browser:
  * json : Confirm Password
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
+ * json : Create Account : not present
  * json : Create API Token : not present
  * json : Create New Team : not present
  * json : Create Team : not present
@@ -12666,9 +12793,10 @@ into your web browser:
 ## th
 
 <details>
-<summary>show<small> (all missing: 249, including not present: 133)</small></summary>
+<summary>show<small> (all missing: 251, including not present: 135)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
  * json : Add additional security to your account using two factor authentication. : not present
  * json : Add Team Member : not present
@@ -12693,6 +12821,7 @@ into your web browser:
  * json : Code : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
+ * json : Create Account : not present
  * json : Create API Token : not present
  * json : Create New Team : not present
  * json : Create Team : not present
@@ -12925,10 +13054,11 @@ into your web browser: : not present
 ## tk
 
 <details>
-<summary>show<small> (all missing: 314, including not present: 14)</small></summary>
+<summary>show<small> (all missing: 316, including not present: 16)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you.
  * json : Add additional security to your account using two factor authentication.
  * json : Add Team Member
@@ -12956,6 +13086,7 @@ into your web browser: : not present
  * json : Confirm Password
  * json : Confirm
  * json : Create a new team to collaborate with others on projects.
+ * json : Create Account : not present
  * json : Create API Token
  * json : Create New Team
  * json : Create Team
@@ -13249,10 +13380,11 @@ into your web browser:
 ## tl
 
 <details>
-<summary>show<small> (all missing: 307, including not present: 14)</small></summary>
+<summary>show<small> (all missing: 309, including not present: 16)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you.
  * json : Add additional security to your account using two factor authentication.
  * json : Add Team Member
@@ -13280,6 +13412,7 @@ into your web browser:
  * json : Confirm Password
  * json : Confirm
  * json : Create a new team to collaborate with others on projects.
+ * json : Create Account : not present
  * json : Create API Token
  * json : Create New Team
  * json : Create Team
@@ -13566,8 +13699,10 @@ into your web browser:
 ## tr
 
 <details>
-<summary>show<small> (all missing: 102, including not present: 14)</small></summary>
+<summary>show<small> (all missing: 104, including not present: 16)</small></summary>
 
+ * json : Accept Invitation : not present
+ * json : Create Account : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
@@ -13677,10 +13812,11 @@ into your web browser:
 ## ug
 
 <details>
-<summary>show<small> (all missing: 299, including not present: 14)</small></summary>
+<summary>show<small> (all missing: 301, including not present: 16)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you.
  * json : Add additional security to your account using two factor authentication.
  * json : Add Team Member
@@ -13708,6 +13844,7 @@ into your web browser:
  * json : Confirm Password
  * json : Confirm
  * json : Create a new team to collaborate with others on projects.
+ * json : Create Account : not present
  * json : Create API Token
  * json : Create New Team
  * json : Create Team
@@ -13986,8 +14123,10 @@ into your web browser:
 ## uk
 
 <details>
-<summary>show<small> (all missing: 4, including not present: 4)</small></summary>
+<summary>show<small> (all missing: 6, including not present: 6)</small></summary>
 
+ * json : Accept Invitation : not present
+ * json : Create Account : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -13999,10 +14138,11 @@ into your web browser:
 ## ur
 
 <details>
-<summary>show<small> (all missing: 293, including not present: 14)</small></summary>
+<summary>show<small> (all missing: 295, including not present: 16)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you.
  * json : Add additional security to your account using two factor authentication.
  * json : Add Team Member
@@ -14029,6 +14169,7 @@ into your web browser:
  * json : Code
  * json : Confirm
  * json : Create a new team to collaborate with others on projects.
+ * json : Create Account : not present
  * json : Create API Token
  * json : Create New Team
  * json : Create Team
@@ -14302,10 +14443,11 @@ into your web browser:
 ## uz_Cyrl
 
 <details>
-<summary>show<small> (all missing: 276, including not present: 14)</small></summary>
+<summary>show<small> (all missing: 278, including not present: 16)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you.
  * json : Add additional security to your account using two factor authentication.
  * json : Add Team Member
@@ -14333,6 +14475,7 @@ into your web browser:
  * json : Confirm Password
  * json : Confirm
  * json : Create a new team to collaborate with others on projects.
+ * json : Create Account : not present
  * json : Create API Token
  * json : Create New Team
  * json : Create Team
@@ -14588,10 +14731,11 @@ into your web browser:
 ## uz_Latn
 
 <details>
-<summary>show<small> (all missing: 276, including not present: 14)</small></summary>
+<summary>show<small> (all missing: 278, including not present: 16)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you.
  * json : Add additional security to your account using two factor authentication.
  * json : Add Team Member
@@ -14619,6 +14763,7 @@ into your web browser:
  * json : Confirm Password
  * json : Confirm
  * json : Create a new team to collaborate with others on projects.
+ * json : Create Account : not present
  * json : Create API Token
  * json : Create New Team
  * json : Create Team
@@ -14874,8 +15019,10 @@ into your web browser:
 ## vi
 
 <details>
-<summary>show<small> (all missing: 13, including not present: 13)</small></summary>
+<summary>show<small> (all missing: 15, including not present: 15)</small></summary>
 
+ * json : Accept Invitation : not present
+ * json : Create Account : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
@@ -14896,9 +15043,10 @@ into your web browser:
 ## zh_CN
 
 <details>
-<summary>show<small> (all missing: 140, including not present: 14)</small></summary>
+<summary>show<small> (all missing: 142, including not present: 16)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you.
  * json : Add additional security to your account using two factor authentication.
  * json : Add Team Member
@@ -14922,6 +15070,7 @@ into your web browser:
  * json : Code
  * json : Confirm
  * json : Create a new team to collaborate with others on projects.
+ * json : Create Account : not present
  * json : Create API Token
  * json : Create New Team
  * json : Create Team
@@ -15045,9 +15194,10 @@ into your web browser:
 ## zh_HK
 
 <details>
-<summary>show<small> (all missing: 140, including not present: 14)</small></summary>
+<summary>show<small> (all missing: 142, including not present: 16)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you.
  * json : Add additional security to your account using two factor authentication.
  * json : Add Team Member
@@ -15071,6 +15221,7 @@ into your web browser:
  * json : Code
  * json : Confirm
  * json : Create a new team to collaborate with others on projects.
+ * json : Create Account : not present
  * json : Create API Token
  * json : Create New Team
  * json : Create Team
@@ -15194,9 +15345,10 @@ into your web browser:
 ## zh_TW
 
 <details>
-<summary>show<small> (all missing: 140, including not present: 14)</small></summary>
+<summary>show<small> (all missing: 142, including not present: 16)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
+ * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you.
  * json : Add additional security to your account using two factor authentication.
  * json : Add Team Member
@@ -15220,6 +15372,7 @@ into your web browser:
  * json : Code
  * json : Confirm
  * json : Create a new team to collaborate with others on projects.
+ * json : Create Account : not present
  * json : Create API Token
  * json : Create New Team
  * json : Create Team

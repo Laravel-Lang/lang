@@ -1,6 +1,7 @@
 {
     "A fresh verification link has been sent to your email address.": "Se ha enviado un nuevo enlace de verificación a su correo electrónico.",
     "A new verification link has been sent to the email address you provided during registration.": "Se ha enviado un nuevo enlace de verificación a la dirección de correo electrónico que proporcionó durante el registro.",
+    "Accept Invitation": "Aceptar invitación",
     "Add": "Agregar",
     "Add a new team member to your team, allowing them to collaborate with you.": "Agregue un nuevo miembro a su equipo, lo que le permitirá colaborar con usted.",
     "Add additional security to your account using two factor authentication.": "Agregue seguridad adicional a su cuenta mediante la autenticación de dos factores.",
@@ -29,6 +30,7 @@
     "Confirm Password": "Confirmar contraseña",
     "Create": "Crear",
     "Create a new team to collaborate with others on projects.": "Cree un nuevo equipo para colaborar con otros en proyectos.",
+    "Create Account": "Crear cuenta",
     "Create API Token": "Crear Token API",
     "Create New Team": "Crear nuevo equipo",
     "Create Team": "Crear equipo",

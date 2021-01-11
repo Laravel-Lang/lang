@@ -1,6 +1,7 @@
 {
     "A fresh verification link has been sent to your email address.": "تم إرسال رابط تحقق جديد إلى عنوان بريدك الإلكتروني.",
     "A new verification link has been sent to the email address you provided during registration.": "تم إرسال رابط تحقق جديد إلى عنوان البريد الإلكتروني الذي قمت بالتسجيل به.",
+    "Accept Invitation": "قبول الدعوة",
     "Add a new team member to your team, allowing them to collaborate with you.": "أضف عضوًا جديدًا إلى فريقك، مما يتيح لهم التعاون معك.",
     "Add additional security to your account using two factor authentication.": "أضف أمانًا إضافيًا إلى حسابك باستخدام المصادقة الثنائية.",
     "Add Team Member": "إضافة عضو للفريق",
@@ -28,6 +29,7 @@
     "Confirm Password": "تأكيد كلمة المرور",
     "Confirm": "تأكيد",
     "Create a new team to collaborate with others on projects.": "أنشئ فريقًا جديدًا للتعاون مع الآخرين في المشاريع.",
+    "Create Account": "إنشاء حساب",
     "Create API Token": "إنشاء رمز API",
     "Create New Team": "إنشاء فريق جديد",
     "Create Team": "إنشاء فريق",

@@ -181,5 +181,9 @@
     "You may delete any of your existing tokens if they are no longer needed.": "Sie können alle vorhandenen Token löschen, wenn sie nicht mehr benötigt werden.",
     "You may not delete your personal team.": "Sie können Ihr persönliches Team nicht löschen.",
     "You may not leave a team that you created.": "Sie können ein von Ihnen erstelltes Team nicht verlassen.",
-    "Your email address is not verified.": "Ihre E-Mail Adresse wurde noch nicht bestätigt."
+    "Your email address is not verified.": "Ihre E-Mail Adresse wurde noch nicht bestätigt.",
+    "Terms of Service": "Nutzungsbedingungen",
+    "Privacy Policy": "Datenschutzerklärung",
+    "I agree to the :terms_of_service and :privacy_policy": "Ich akzeptiere die :terms_of_service und :privacy_policy",
+    "Create Account": "Neues Konto registrieren"
 }

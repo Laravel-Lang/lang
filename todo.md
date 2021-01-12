@@ -1,12 +1,12 @@
 # Todo list
 | | | | | | | | | | |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-[ar ✔](#ar)|[az ❗](#az)|[be ❗](#be)|[bg ❗](#bg)|[bn ❗](#bn)|[bs ❗](#bs)|[ca ❗](#ca)|[cs ❗](#cs)|[cy ❗](#cy)|[da ❗](#da)
+[ar ❗](#ar)|[az ❗](#az)|[be ❗](#be)|[bg ❗](#bg)|[bn ❗](#bn)|[bs ❗](#bs)|[ca ❗](#ca)|[cs ❗](#cs)|[cy ❗](#cy)|[da ❗](#da)
 [de ❗](#de)|[de_CH ❗](#de_CH)|[el ❗](#el)|[es ✔](#es)|[et ❗](#et)|[eu ❗](#eu)|[fa ❗](#fa)|[fi ❗](#fi)|[fil ❗](#fil)|[fr ❗](#fr)
-[gl ❗](#gl)|[he ❗](#he)|[hi ❗](#hi)|[hr ❗](#hr)|[hu ❗](#hu)|[hy ❗](#hy)|[id ❗](#id)|[is ❗](#is)|[it ✔](#it)|[ja ❗](#ja)
+[gl ❗](#gl)|[he ❗](#he)|[hi ❗](#hi)|[hr ❗](#hr)|[hu ❗](#hu)|[hy ❗](#hy)|[id ❗](#id)|[is ❗](#is)|[it ❗](#it)|[ja ❗](#ja)
 [ka ❗](#ka)|[kk ❗](#kk)|[km ❗](#km)|[kn ❗](#kn)|[ko ❗](#ko)|[lt ❗](#lt)|[lv ❗](#lv)|[mk ❗](#mk)|[mn ❗](#mn)|[mr ❗](#mr)
 [ms ❗](#ms)|[nb ❗](#nb)|[ne ❗](#ne)|[nl ❗](#nl)|[nn ❗](#nn)|[oc ❗](#oc)|[pl ❗](#pl)|[ps ❗](#ps)|[pt ❗](#pt)|[pt_BR ❗](#pt_BR)
-[ro ❗](#ro)|[ru ✔](#ru)|[sc ❗](#sc)|[si ❗](#si)|[sk ❗](#sk)|[sl ❗](#sl)|[sq ❗](#sq)|[sr_Cyrl ❗](#sr_Cyrl)|[sr_Latn ❗](#sr_Latn)|[sr_Latn_ME ❗](#sr_Latn_ME)
+[ro ❗](#ro)|[ru ❗](#ru)|[sc ❗](#sc)|[si ❗](#si)|[sk ❗](#sk)|[sl ❗](#sl)|[sq ❗](#sq)|[sr_Cyrl ❗](#sr_Cyrl)|[sr_Latn ❗](#sr_Latn)|[sr_Latn_ME ❗](#sr_Latn_ME)
 [sv ❗](#sv)|[sw ❗](#sw)|[tg ❗](#tg)|[th ❗](#th)|[tk ❗](#tk)|[tl ❗](#tl)|[tr ❗](#tr)|[ug ❗](#ug)|[uk ❗](#uk)|[ur ❗](#ur)
 [uz_Cyrl ❗](#uz_Cyrl)|[uz_Latn ❗](#uz_Latn)|[vi ❗](#vi)|[zh_CN ❗](#zh_CN)|[zh_HK ❗](#zh_HK)|[zh_TW ❗](#zh_TW)
 
@@ -15,14 +15,18 @@
 
 ## ar
 
+<details>
+<summary>show<small> (all missing: 1, including not present: 1)</small></summary>
 
-All lines are translated 😊
+ * json : Team Invitation : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## az
 
 <details>
-<summary>show<small> (all missing: 301, including not present: 16)</small></summary>
+<summary>show<small> (all missing: 302, including not present: 17)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -158,6 +162,7 @@ into your web browser:
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
  * json : Switch Teams
  * json : Team Details
+ * json : Team Invitation : not present
  * json : Team Members
  * json : Team Name
  * json : Team Owner
@@ -333,7 +338,7 @@ into your web browser:
 ## be
 
 <details>
-<summary>show<small> (all missing: 311, including not present: 16)</small></summary>
+<summary>show<small> (all missing: 312, including not present: 17)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -469,6 +474,7 @@ into your web browser:
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
  * json : Switch Teams
  * json : Team Details
+ * json : Team Invitation : not present
  * json : Team Members
  * json : Team Name
  * json : Team Owner
@@ -654,7 +660,7 @@ into your web browser:
 ## bg
 
 <details>
-<summary>show<small> (all missing: 279, including not present: 16)</small></summary>
+<summary>show<small> (all missing: 280, including not present: 17)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -790,6 +796,7 @@ into your web browser:
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
  * json : Switch Teams
  * json : Team Details
+ * json : Team Invitation : not present
  * json : Team Members
  * json : Team Name
  * json : Team Owner
@@ -943,7 +950,7 @@ into your web browser:
 ## bn
 
 <details>
-<summary>show<small> (all missing: 301, including not present: 16)</small></summary>
+<summary>show<small> (all missing: 302, including not present: 17)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -1079,6 +1086,7 @@ into your web browser:
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
  * json : Switch Teams
  * json : Team Details
+ * json : Team Invitation : not present
  * json : Team Members
  * json : Team Name
  * json : Team Owner
@@ -1254,7 +1262,7 @@ into your web browser:
 ## bs
 
 <details>
-<summary>show<small> (all missing: 315, including not present: 16)</small></summary>
+<summary>show<small> (all missing: 316, including not present: 17)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -1390,6 +1398,7 @@ into your web browser:
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
  * json : Switch Teams
  * json : Team Details
+ * json : Team Invitation : not present
  * json : Team Members
  * json : Team Name
  * json : Team Owner
@@ -1579,7 +1588,7 @@ into your web browser:
 ## ca
 
 <details>
-<summary>show<small> (all missing: 235, including not present: 16)</small></summary>
+<summary>show<small> (all missing: 236, including not present: 17)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -1682,6 +1691,7 @@ into your web browser:
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
  * json : Switch Teams
  * json : Team Details
+ * json : Team Invitation : not present
  * json : Team Members
  * json : Team Name
  * json : Team Owner
@@ -1823,7 +1833,7 @@ into your web browser:
 ## cs
 
 <details>
-<summary>show<small> (all missing: 237, including not present: 16)</small></summary>
+<summary>show<small> (all missing: 238, including not present: 17)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -1927,6 +1937,7 @@ into your web browser:
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
  * json : Switch Teams
  * json : Team Details
+ * json : Team Invitation : not present
  * json : Team Members
  * json : Team Name
  * json : Team Owner
@@ -2069,7 +2080,7 @@ into your web browser:
 ## cy
 
 <details>
-<summary>show<small> (all missing: 316, including not present: 16)</small></summary>
+<summary>show<small> (all missing: 317, including not present: 17)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -2205,6 +2216,7 @@ into your web browser:
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
  * json : Switch Teams
  * json : Team Details
+ * json : Team Invitation : not present
  * json : Team Members
  * json : Team Name
  * json : Team Owner
@@ -2395,7 +2407,7 @@ into your web browser:
 ## da
 
 <details>
-<summary>show<small> (all missing: 237, including not present: 16)</small></summary>
+<summary>show<small> (all missing: 238, including not present: 17)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -2499,6 +2511,7 @@ into your web browser:
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
  * json : Switch Teams
  * json : Team Details
+ * json : Team Invitation : not present
  * json : Team Members
  * json : Team Name
  * json : Team Owner
@@ -2641,7 +2654,7 @@ into your web browser:
 ## de
 
 <details>
-<summary>show<small> (all missing: 16, including not present: 16)</small></summary>
+<summary>show<small> (all missing: 17, including not present: 17)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Create Account : not present
@@ -2653,6 +2666,7 @@ into your web browser:
  * json : Pending Team Invitations : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
+ * json : Team Invitation : not present
  * json : Terms of Service : not present
  * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
@@ -2666,7 +2680,7 @@ into your web browser:
 ## de_CH
 
 <details>
-<summary>show<small> (all missing: 144, including not present: 16)</small></summary>
+<summary>show<small> (all missing: 145, including not present: 17)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -2770,6 +2784,7 @@ into your web browser:
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
  * json : Switch Teams
  * json : Team Details
+ * json : Team Invitation : not present
  * json : Team Members
  * json : Team Name
  * json : Team Owner
@@ -2819,7 +2834,7 @@ into your web browser:
 ## el
 
 <details>
-<summary>show<small> (all missing: 227, including not present: 16)</small></summary>
+<summary>show<small> (all missing: 228, including not present: 17)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you.
@@ -2918,6 +2933,7 @@ into your web browser:
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
  * json : Switch Teams
  * json : Team Details
+ * json : Team Invitation : not present
  * json : Team Members
  * json : Team Name
  * json : Team Owner
@@ -3061,7 +3077,7 @@ All lines are translated 😊
 ## et
 
 <details>
-<summary>show<small> (all missing: 281, including not present: 16)</small></summary>
+<summary>show<small> (all missing: 282, including not present: 17)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -3197,6 +3213,7 @@ into your web browser:
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
  * json : Switch Teams
  * json : Team Details
+ * json : Team Invitation : not present
  * json : Team Members
  * json : Team Name
  * json : Team Owner
@@ -3352,7 +3369,7 @@ into your web browser:
 ## eu
 
 <details>
-<summary>show<small> (all missing: 246, including not present: 27)</small></summary>
+<summary>show<small> (all missing: 247, including not present: 28)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -3459,6 +3476,7 @@ into your web browser:
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
  * json : Switch Teams
  * json : Team Details
+ * json : Team Invitation : not present
  * json : Team Members
  * json : Team Name
  * json : Team Owner
@@ -3607,7 +3625,7 @@ into your web browser:
 ## fa
 
 <details>
-<summary>show<small> (all missing: 187, including not present: 187)</small></summary>
+<summary>show<small> (all missing: 188, including not present: 188)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration. : not present
@@ -3743,6 +3761,7 @@ into your web browser: : not present
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
  * json : Switch Teams : not present
  * json : Team Details : not present
+ * json : Team Invitation : not present
  * json : Team Members : not present
  * json : Team Name : not present
  * json : Team Owner : not present
@@ -3804,7 +3823,7 @@ into your web browser: : not present
 ## fi
 
 <details>
-<summary>show<small> (all missing: 272, including not present: 163)</small></summary>
+<summary>show<small> (all missing: 273, including not present: 164)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -3933,6 +3952,7 @@ into your web browser: : not present
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
  * json : Switch Teams : not present
  * json : Team Details : not present
+ * json : Team Invitation : not present
  * json : Team Members : not present
  * json : Team Name : not present
  * json : Team Owner : not present
@@ -4085,7 +4105,7 @@ into your web browser: : not present
 ## fil
 
 <details>
-<summary>show<small> (all missing: 289, including not present: 188)</small></summary>
+<summary>show<small> (all missing: 290, including not present: 189)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration. : not present
@@ -4221,6 +4241,7 @@ into your web browser: : not present
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
  * json : Switch Teams : not present
  * json : Team Details : not present
+ * json : Team Invitation : not present
  * json : Team Members : not present
  * json : Team Name : not present
  * json : Team Owner : not present
@@ -4384,7 +4405,7 @@ into your web browser: : not present
 ## fr
 
 <details>
-<summary>show<small> (all missing: 14, including not present: 14)</small></summary>
+<summary>show<small> (all missing: 15, including not present: 15)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Create Account : not present
@@ -4396,6 +4417,7 @@ into your web browser: : not present
  * json : Pending Team Invitations : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
+ * json : Team Invitation : not present
  * json : Terms of Service : not present
  * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
  * json : This user has already been invited to the team. : not present
@@ -4407,7 +4429,7 @@ into your web browser: : not present
 ## gl
 
 <details>
-<summary>show<small> (all missing: 244, including not present: 135)</small></summary>
+<summary>show<small> (all missing: 245, including not present: 136)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -4514,6 +4536,7 @@ into your web browser: : not present
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
  * json : Switch Teams : not present
  * json : Team Details : not present
+ * json : Team Invitation : not present
  * json : Team Members : not present
  * json : Team Name : not present
  * json : Team Owner : not present
@@ -4660,7 +4683,7 @@ into your web browser: : not present
 ## he
 
 <details>
-<summary>show<small> (all missing: 237, including not present: 129)</small></summary>
+<summary>show<small> (all missing: 238, including not present: 130)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -4764,6 +4787,7 @@ into your web browser: : not present
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
  * json : Switch Teams : not present
  * json : Team Details : not present
+ * json : Team Invitation : not present
  * json : Team Members : not present
  * json : Team Name : not present
  * json : Team Owner : not present
@@ -4906,7 +4930,7 @@ into your web browser: : not present
 ## hi
 
 <details>
-<summary>show<small> (all missing: 293, including not present: 125)</small></summary>
+<summary>show<small> (all missing: 294, including not present: 126)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -5042,6 +5066,7 @@ into your web browser:
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
  * json : Switch Teams : not present
  * json : Team Details : not present
+ * json : Team Invitation : not present
  * json : Team Members : not present
  * json : Team Name : not present
  * json : Team Owner : not present
@@ -5209,7 +5234,7 @@ into your web browser:
 ## hr
 
 <details>
-<summary>show<small> (all missing: 266, including not present: 157)</small></summary>
+<summary>show<small> (all missing: 267, including not present: 158)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -5332,6 +5357,7 @@ into your web browser: : not present
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
  * json : Switch Teams : not present
  * json : Team Details : not present
+ * json : Team Invitation : not present
  * json : Team Members : not present
  * json : Team Name : not present
  * json : Team Owner : not present
@@ -5485,7 +5511,7 @@ into your web browser: : not present
 ## hu
 
 <details>
-<summary>show<small> (all missing: 234, including not present: 127)</small></summary>
+<summary>show<small> (all missing: 235, including not present: 128)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -5588,6 +5614,7 @@ into your web browser: : not present
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
  * json : Switch Teams : not present
  * json : Team Details : not present
+ * json : Team Invitation : not present
  * json : Team Members : not present
  * json : Team Name : not present
  * json : Team Owner : not present
@@ -5728,7 +5755,7 @@ into your web browser: : not present
 ## hy
 
 <details>
-<summary>show<small> (all missing: 235, including not present: 128)</small></summary>
+<summary>show<small> (all missing: 236, including not present: 129)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -5833,6 +5860,7 @@ into your web browser: : not present
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
  * json : Switch Teams : not present
  * json : Team Details : not present
+ * json : Team Invitation : not present
  * json : Team Members : not present
  * json : Team Name : not present
  * json : Team Owner : not present
@@ -5973,7 +6001,7 @@ into your web browser: : not present
 ## id
 
 <details>
-<summary>show<small> (all missing: 127, including not present: 125)</small></summary>
+<summary>show<small> (all missing: 128, including not present: 126)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -6066,6 +6094,7 @@ into your web browser: : not present
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
  * json : Switch Teams : not present
  * json : Team Details : not present
+ * json : Team Invitation : not present
  * json : Team Members : not present
  * json : Team Name : not present
  * json : Team Owner : not present
@@ -6109,7 +6138,7 @@ into your web browser: : not present
 ## is
 
 <details>
-<summary>show<small> (all missing: 283, including not present: 125)</small></summary>
+<summary>show<small> (all missing: 284, including not present: 126)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -6245,6 +6274,7 @@ into your web browser:
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
  * json : Switch Teams : not present
  * json : Team Details : not present
+ * json : Team Invitation : not present
  * json : Team Members : not present
  * json : Team Name : not present
  * json : Team Owner : not present
@@ -6401,14 +6431,18 @@ into your web browser:
 
 ## it
 
+<details>
+<summary>show<small> (all missing: 1, including not present: 1)</small></summary>
 
-All lines are translated 😊
+ * json : Team Invitation : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## ja
 
 <details>
-<summary>show<small> (all missing: 139, including not present: 48)</small></summary>
+<summary>show<small> (all missing: 140, including not present: 49)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Are you sure you would like to leave this team? : not present
@@ -6434,6 +6468,7 @@ All lines are translated 😊
  * json : results : not present
  * json : Server Error : not present
  * json : Showing : not present
+ * json : Team Invitation : not present
  * json : Terms of Service : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
@@ -6556,7 +6591,7 @@ All lines are translated 😊
 ## ka
 
 <details>
-<summary>show<small> (all missing: 266, including not present: 157)</small></summary>
+<summary>show<small> (all missing: 267, including not present: 158)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -6679,6 +6714,7 @@ into your web browser: : not present
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
  * json : Switch Teams : not present
  * json : Team Details : not present
+ * json : Team Invitation : not present
  * json : Team Members : not present
  * json : Team Name : not present
  * json : Team Owner : not present
@@ -6832,7 +6868,7 @@ into your web browser: : not present
 ## kk
 
 <details>
-<summary>show<small> (all missing: 235, including not present: 127)</small></summary>
+<summary>show<small> (all missing: 236, including not present: 128)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -6935,6 +6971,7 @@ into your web browser: : not present
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
  * json : Switch Teams : not present
  * json : Team Details : not present
+ * json : Team Invitation : not present
  * json : Team Members : not present
  * json : Team Name : not present
  * json : Team Owner : not present
@@ -7076,7 +7113,7 @@ into your web browser: : not present
 ## km
 
 <details>
-<summary>show<small> (all missing: 277, including not present: 125)</small></summary>
+<summary>show<small> (all missing: 278, including not present: 126)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -7212,6 +7249,7 @@ into your web browser:
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
  * json : Switch Teams : not present
  * json : Team Details : not present
+ * json : Team Invitation : not present
  * json : Team Members : not present
  * json : Team Name : not present
  * json : Team Owner : not present
@@ -7363,7 +7401,7 @@ into your web browser:
 ## kn
 
 <details>
-<summary>show<small> (all missing: 245, including not present: 135)</small></summary>
+<summary>show<small> (all missing: 246, including not present: 136)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -7470,6 +7508,7 @@ into your web browser:
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
  * json : Switch Teams : not present
  * json : Team Details : not present
+ * json : Team Invitation : not present
  * json : Team Members : not present
  * json : Team Name : not present
  * json : Team Owner : not present
@@ -7617,7 +7656,7 @@ into your web browser:
 ## ko
 
 <details>
-<summary>show<small> (all missing: 15, including not present: 15)</small></summary>
+<summary>show<small> (all missing: 16, including not present: 16)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Create Account : not present
@@ -7629,6 +7668,7 @@ into your web browser:
  * json : Pending Team Invitations : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
+ * json : Team Invitation : not present
  * json : Terms of Service : not present
  * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
@@ -7641,7 +7681,7 @@ into your web browser:
 ## lt
 
 <details>
-<summary>show<small> (all missing: 15, including not present: 15)</small></summary>
+<summary>show<small> (all missing: 16, including not present: 16)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Create Account : not present
@@ -7653,6 +7693,7 @@ into your web browser:
  * json : Pending Team Invitations : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
+ * json : Team Invitation : not present
  * json : Terms of Service : not present
  * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
@@ -7665,7 +7706,7 @@ into your web browser:
 ## lv
 
 <details>
-<summary>show<small> (all missing: 281, including not present: 125)</small></summary>
+<summary>show<small> (all missing: 282, including not present: 126)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -7801,6 +7842,7 @@ into your web browser:
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
  * json : Switch Teams : not present
  * json : Team Details : not present
+ * json : Team Invitation : not present
  * json : Team Members : not present
  * json : Team Name : not present
  * json : Team Owner : not present
@@ -7956,7 +7998,7 @@ into your web browser:
 ## mk
 
 <details>
-<summary>show<small> (all missing: 318, including not present: 125)</small></summary>
+<summary>show<small> (all missing: 319, including not present: 126)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -8092,6 +8134,7 @@ into your web browser:
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
  * json : Switch Teams : not present
  * json : Team Details : not present
+ * json : Team Invitation : not present
  * json : Team Members : not present
  * json : Team Name : not present
  * json : Team Owner : not present
@@ -8284,7 +8327,7 @@ into your web browser:
 ## mn
 
 <details>
-<summary>show<small> (all missing: 306, including not present: 125)</small></summary>
+<summary>show<small> (all missing: 307, including not present: 126)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -8420,6 +8463,7 @@ into your web browser:
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
  * json : Switch Teams : not present
  * json : Team Details : not present
+ * json : Team Invitation : not present
  * json : Team Members : not present
  * json : Team Name : not present
  * json : Team Owner : not present
@@ -8600,7 +8644,7 @@ into your web browser:
 ## mr
 
 <details>
-<summary>show<small> (all missing: 246, including not present: 136)</small></summary>
+<summary>show<small> (all missing: 247, including not present: 137)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -8708,6 +8752,7 @@ into your web browser:
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
  * json : Switch Teams : not present
  * json : Team Details : not present
+ * json : Team Invitation : not present
  * json : Team Members : not present
  * json : Team Name : not present
  * json : Team Owner : not present
@@ -8855,7 +8900,7 @@ into your web browser:
 ## ms
 
 <details>
-<summary>show<small> (all missing: 156, including not present: 137)</small></summary>
+<summary>show<small> (all missing: 157, including not present: 138)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -8962,6 +9007,7 @@ into your web browser:
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
  * json : Switch Teams : not present
  * json : Team Details : not present
+ * json : Team Invitation : not present
  * json : Team Members : not present
  * json : Team Name : not present
  * json : Team Owner : not present
@@ -9020,7 +9066,7 @@ into your web browser:
 ## nb
 
 <details>
-<summary>show<small> (all missing: 236, including not present: 129)</small></summary>
+<summary>show<small> (all missing: 237, including not present: 130)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -9124,6 +9170,7 @@ into your web browser:
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
  * json : Switch Teams : not present
  * json : Team Details : not present
+ * json : Team Invitation : not present
  * json : Team Members : not present
  * json : Team Name : not present
  * json : Team Owner : not present
@@ -9265,7 +9312,7 @@ into your web browser:
 ## ne
 
 <details>
-<summary>show<small> (all missing: 144, including not present: 125)</small></summary>
+<summary>show<small> (all missing: 145, including not present: 126)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -9367,6 +9414,7 @@ into your web browser:
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
  * json : Switch Teams : not present
  * json : Team Details : not present
+ * json : Team Invitation : not present
  * json : Team Members : not present
  * json : Team Name : not present
  * json : Team Owner : not present
@@ -9418,7 +9466,7 @@ into your web browser:
 ## nl
 
 <details>
-<summary>show<small> (all missing: 14, including not present: 14)</small></summary>
+<summary>show<small> (all missing: 15, including not present: 15)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Create Account : not present
@@ -9430,6 +9478,7 @@ into your web browser:
  * json : Pending Team Invitations : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
+ * json : Team Invitation : not present
  * json : Terms of Service : not present
  * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
  * json : This user has already been invited to the team. : not present
@@ -9441,7 +9490,7 @@ into your web browser:
 ## nn
 
 <details>
-<summary>show<small> (all missing: 238, including not present: 129)</small></summary>
+<summary>show<small> (all missing: 239, including not present: 130)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -9545,6 +9594,7 @@ into your web browser:
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
  * json : Switch Teams : not present
  * json : Team Details : not present
+ * json : Team Invitation : not present
  * json : Team Members : not present
  * json : Team Name : not present
  * json : Team Owner : not present
@@ -9688,7 +9738,7 @@ into your web browser:
 ## oc
 
 <details>
-<summary>show<small> (all missing: 188, including not present: 14)</small></summary>
+<summary>show<small> (all missing: 189, including not present: 15)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -9824,6 +9874,7 @@ into your web browser:
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
  * json : Switch Teams
  * json : Team Details
+ * json : Team Invitation : not present
  * json : Team Members
  * json : Team Name
  * json : Team Owner
@@ -9886,7 +9937,7 @@ into your web browser:
 ## pl
 
 <details>
-<summary>show<small> (all missing: 16, including not present: 16)</small></summary>
+<summary>show<small> (all missing: 17, including not present: 17)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Create Account : not present
@@ -9898,6 +9949,7 @@ into your web browser:
  * json : Pending Team Invitations : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
+ * json : Team Invitation : not present
  * json : Terms of Service : not present
  * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
@@ -9911,7 +9963,7 @@ into your web browser:
 ## ps
 
 <details>
-<summary>show<small> (all missing: 246, including not present: 136)</small></summary>
+<summary>show<small> (all missing: 247, including not present: 137)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -10018,6 +10070,7 @@ into your web browser:
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
  * json : Switch Teams : not present
  * json : Team Details : not present
+ * json : Team Invitation : not present
  * json : Team Members : not present
  * json : Team Name : not present
  * json : Team Owner : not present
@@ -10166,7 +10219,7 @@ into your web browser:
 ## pt
 
 <details>
-<summary>show<small> (all missing: 18, including not present: 16)</small></summary>
+<summary>show<small> (all missing: 19, including not present: 17)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Create Account : not present
@@ -10178,6 +10231,7 @@ into your web browser:
  * json : Pending Team Invitations : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
+ * json : Team Invitation : not present
  * json : Terms of Service : not present
  * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
@@ -10193,7 +10247,7 @@ into your web browser:
 ## pt_BR
 
 <details>
-<summary>show<small> (all missing: 19, including not present: 16)</small></summary>
+<summary>show<small> (all missing: 20, including not present: 17)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Create Account : not present
@@ -10206,6 +10260,7 @@ into your web browser:
  * json : Pending Team Invitations : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
+ * json : Team Invitation : not present
  * json : Terms of Service : not present
  * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
@@ -10221,7 +10276,7 @@ into your web browser:
 ## ro
 
 <details>
-<summary>show<small> (all missing: 235, including not present: 127)</small></summary>
+<summary>show<small> (all missing: 236, including not present: 128)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -10324,6 +10379,7 @@ into your web browser:
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
  * json : Switch Teams : not present
  * json : Team Details : not present
+ * json : Team Invitation : not present
  * json : Team Members : not present
  * json : Team Name : not present
  * json : Team Owner : not present
@@ -10464,14 +10520,18 @@ into your web browser:
 
 ## ru
 
+<details>
+<summary>show<small> (all missing: 1, including not present: 1)</small></summary>
 
-All lines are translated 😊
+ * json : Team Invitation : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## sc
 
 <details>
-<summary>show<small> (all missing: 316, including not present: 125)</small></summary>
+<summary>show<small> (all missing: 317, including not present: 126)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -10607,6 +10667,7 @@ into your web browser:
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
  * json : Switch Teams : not present
  * json : Team Details : not present
+ * json : Team Invitation : not present
  * json : Team Members : not present
  * json : Team Name : not present
  * json : Team Owner : not present
@@ -10797,7 +10858,7 @@ into your web browser:
 ## si
 
 <details>
-<summary>show<small> (all missing: 280, including not present: 125)</small></summary>
+<summary>show<small> (all missing: 281, including not present: 126)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -10933,6 +10994,7 @@ into your web browser:
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
  * json : Switch Teams : not present
  * json : Team Details : not present
+ * json : Team Invitation : not present
  * json : Team Members : not present
  * json : Team Name : not present
  * json : Team Owner : not present
@@ -11087,7 +11149,7 @@ into your web browser:
 ## sk
 
 <details>
-<summary>show<small> (all missing: 234, including not present: 127)</small></summary>
+<summary>show<small> (all missing: 235, including not present: 128)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -11190,6 +11252,7 @@ into your web browser:
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
  * json : Switch Teams : not present
  * json : Team Details : not present
+ * json : Team Invitation : not present
  * json : Team Members : not present
  * json : Team Name : not present
  * json : Team Owner : not present
@@ -11330,7 +11393,7 @@ into your web browser:
 ## sl
 
 <details>
-<summary>show<small> (all missing: 14, including not present: 14)</small></summary>
+<summary>show<small> (all missing: 15, including not present: 15)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Create Account : not present
@@ -11342,6 +11405,7 @@ into your web browser:
  * json : Pending Team Invitations : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
+ * json : Team Invitation : not present
  * json : Terms of Service : not present
  * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
  * json : This user has already been invited to the team. : not present
@@ -11353,7 +11417,7 @@ into your web browser:
 ## sq
 
 <details>
-<summary>show<small> (all missing: 190, including not present: 125)</small></summary>
+<summary>show<small> (all missing: 191, including not present: 126)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -11489,6 +11553,7 @@ into your web browser:
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
  * json : Switch Teams : not present
  * json : Team Details : not present
+ * json : Team Invitation : not present
  * json : Team Members : not present
  * json : Team Name : not present
  * json : Team Owner : not present
@@ -11553,7 +11618,7 @@ into your web browser:
 ## sr_Cyrl
 
 <details>
-<summary>show<small> (all missing: 29, including not present: 27)</small></summary>
+<summary>show<small> (all missing: 30, including not present: 28)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Administrator users can perform any action. : not present
@@ -11574,6 +11639,7 @@ into your web browser:
  * json : Privacy Policy : not present
  * json : results : not present
  * json : Showing : not present
+ * json : Team Invitation : not present
  * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
@@ -11591,7 +11657,7 @@ into your web browser:
 ## sr_Latn
 
 <details>
-<summary>show<small> (all missing: 29, including not present: 27)</small></summary>
+<summary>show<small> (all missing: 30, including not present: 28)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Administrator users can perform any action. : not present
@@ -11612,6 +11678,7 @@ into your web browser:
  * json : Privacy Policy : not present
  * json : results : not present
  * json : Showing : not present
+ * json : Team Invitation : not present
  * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
@@ -11629,7 +11696,7 @@ into your web browser:
 ## sr_Latn_ME
 
 <details>
-<summary>show<small> (all missing: 276, including not present: 124)</small></summary>
+<summary>show<small> (all missing: 277, including not present: 125)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -11765,6 +11832,7 @@ into your web browser:
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
  * json : Switch Teams : not present
  * json : Team Details : not present
+ * json : Team Invitation : not present
  * json : Team Members : not present
  * json : Team Name : not present
  * json : Team Owner : not present
@@ -11915,7 +11983,7 @@ into your web browser:
 ## sv
 
 <details>
-<summary>show<small> (all missing: 196, including not present: 98)</small></summary>
+<summary>show<small> (all missing: 197, including not present: 99)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -11987,6 +12055,7 @@ into your web browser:
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
  * json : Switch Teams : not present
  * json : Team Details : not present
+ * json : Team Invitation : not present
  * json : Team Members : not present
  * json : Team Name : not present
  * json : Team Owner : not present
@@ -12120,7 +12189,7 @@ into your web browser:
 ## sw
 
 <details>
-<summary>show<small> (all missing: 281, including not present: 125)</small></summary>
+<summary>show<small> (all missing: 282, including not present: 126)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -12256,6 +12325,7 @@ into your web browser:
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
  * json : Switch Teams : not present
  * json : Team Details : not present
+ * json : Team Invitation : not present
  * json : Team Members : not present
  * json : Team Name : not present
  * json : Team Owner : not present
@@ -12411,7 +12481,7 @@ into your web browser:
 ## tg
 
 <details>
-<summary>show<small> (all missing: 303, including not present: 125)</small></summary>
+<summary>show<small> (all missing: 304, including not present: 126)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -12547,6 +12617,7 @@ into your web browser:
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
  * json : Switch Teams : not present
  * json : Team Details : not present
+ * json : Team Invitation : not present
  * json : Team Members : not present
  * json : Team Name : not present
  * json : Team Owner : not present
@@ -12724,7 +12795,7 @@ into your web browser:
 ## th
 
 <details>
-<summary>show<small> (all missing: 251, including not present: 135)</small></summary>
+<summary>show<small> (all missing: 252, including not present: 136)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -12836,6 +12907,7 @@ into your web browser: : not present
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost. : not present
  * json : Switch Teams : not present
  * json : Team Details : not present
+ * json : Team Invitation : not present
  * json : Team Members : not present
  * json : Team Name : not present
  * json : Team Owner : not present
@@ -12985,7 +13057,7 @@ into your web browser: : not present
 ## tk
 
 <details>
-<summary>show<small> (all missing: 316, including not present: 16)</small></summary>
+<summary>show<small> (all missing: 317, including not present: 17)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -13121,6 +13193,7 @@ into your web browser:
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
  * json : Switch Teams
  * json : Team Details
+ * json : Team Invitation : not present
  * json : Team Members
  * json : Team Name
  * json : Team Owner
@@ -13311,7 +13384,7 @@ into your web browser:
 ## tl
 
 <details>
-<summary>show<small> (all missing: 309, including not present: 16)</small></summary>
+<summary>show<small> (all missing: 310, including not present: 17)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -13447,6 +13520,7 @@ into your web browser:
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
  * json : Switch Teams
  * json : Team Details
+ * json : Team Invitation : not present
  * json : Team Members
  * json : Team Name
  * json : Team Owner
@@ -13630,7 +13704,7 @@ into your web browser:
 ## tr
 
 <details>
-<summary>show<small> (all missing: 104, including not present: 16)</small></summary>
+<summary>show<small> (all missing: 105, including not present: 17)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Create Account : not present
@@ -13646,6 +13720,7 @@ into your web browser:
  * json : Select A New Photo
  * json : Show Recovery Codes
  * json : Showing
+ * json : Team Invitation : not present
  * json : Terms of Service : not present
  * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
@@ -13743,7 +13818,7 @@ into your web browser:
 ## ug
 
 <details>
-<summary>show<small> (all missing: 301, including not present: 16)</small></summary>
+<summary>show<small> (all missing: 302, including not present: 17)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -13879,6 +13954,7 @@ into your web browser:
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
  * json : Switch Teams
  * json : Team Details
+ * json : Team Invitation : not present
  * json : Team Members
  * json : Team Name
  * json : Team Owner
@@ -14054,13 +14130,14 @@ into your web browser:
 ## uk
 
 <details>
-<summary>show<small> (all missing: 6, including not present: 6)</small></summary>
+<summary>show<small> (all missing: 7, including not present: 7)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Create Account : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
+ * json : Team Invitation : not present
  * json : Terms of Service : not present
 
 [ [to top](#todo-list) ]
@@ -14069,7 +14146,7 @@ into your web browser:
 ## ur
 
 <details>
-<summary>show<small> (all missing: 295, including not present: 16)</small></summary>
+<summary>show<small> (all missing: 296, including not present: 17)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -14192,6 +14269,7 @@ into your web browser:
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
  * json : Switch Teams
  * json : Team Details
+ * json : Team Invitation : not present
  * json : Team Members
  * json : Team Name
  * json : Team Owner
@@ -14374,7 +14452,7 @@ into your web browser:
 ## uz_Cyrl
 
 <details>
-<summary>show<small> (all missing: 278, including not present: 16)</small></summary>
+<summary>show<small> (all missing: 279, including not present: 17)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -14510,6 +14588,7 @@ into your web browser:
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
  * json : Switch Teams
  * json : Team Details
+ * json : Team Invitation : not present
  * json : Team Members
  * json : Team Name
  * json : Team Owner
@@ -14662,7 +14741,7 @@ into your web browser:
 ## uz_Latn
 
 <details>
-<summary>show<small> (all missing: 278, including not present: 16)</small></summary>
+<summary>show<small> (all missing: 279, including not present: 17)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -14798,6 +14877,7 @@ into your web browser:
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
  * json : Switch Teams
  * json : Team Details
+ * json : Team Invitation : not present
  * json : Team Members
  * json : Team Name
  * json : Team Owner
@@ -14950,7 +15030,7 @@ into your web browser:
 ## vi
 
 <details>
-<summary>show<small> (all missing: 15, including not present: 15)</small></summary>
+<summary>show<small> (all missing: 16, including not present: 16)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Create Account : not present
@@ -14962,6 +15042,7 @@ into your web browser:
  * json : Pending Team Invitations : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
+ * json : Team Invitation : not present
  * json : Terms of Service : not present
  * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
@@ -14974,7 +15055,7 @@ into your web browser:
 ## zh_CN
 
 <details>
-<summary>show<small> (all missing: 142, including not present: 16)</small></summary>
+<summary>show<small> (all missing: 143, including not present: 17)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -15074,6 +15155,7 @@ into your web browser:
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
  * json : Switch Teams
  * json : Team Details
+ * json : Team Invitation : not present
  * json : Team Members
  * json : Team Name
  * json : Team Owner
@@ -15125,7 +15207,7 @@ into your web browser:
 ## zh_HK
 
 <details>
-<summary>show<small> (all missing: 142, including not present: 16)</small></summary>
+<summary>show<small> (all missing: 143, including not present: 17)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -15225,6 +15307,7 @@ into your web browser:
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
  * json : Switch Teams
  * json : Team Details
+ * json : Team Invitation : not present
  * json : Team Members
  * json : Team Name
  * json : Team Owner
@@ -15276,7 +15359,7 @@ into your web browser:
 ## zh_TW
 
 <details>
-<summary>show<small> (all missing: 142, including not present: 16)</small></summary>
+<summary>show<small> (all missing: 143, including not present: 17)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -15376,6 +15459,7 @@ into your web browser:
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
  * json : Switch Teams
  * json : Team Details
+ * json : Team Invitation : not present
  * json : Team Members
  * json : Team Name
  * json : Team Owner

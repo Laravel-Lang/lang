@@ -47,7 +47,7 @@ return [
         'numeric' => ':attribute უნდა იყოს :value-ზე მეტი.',
         'file'    => ':attribute უნდა იყოს :value კილობაიტზე მეტი.',
         'string'  => ':attribute უნდა შეიცავდეს :value სიმბოლოზე მეტს.',
-        'array'   => ':attribute უნდა შეიცავლდეს :value ელემენტზე მეტს.',
+        'array'   => ':attribute უნდა შეიცავდეს :value ელემენტზე მეტს.',
     ],
     'gte'                  => [
         'numeric' => ':attribute უნდა იყოს მინიმუმ :value.',
@@ -67,7 +67,7 @@ return [
         'numeric' => ':attribute უნდა იყოს :value-ზე ნაკლები.',
         'file'    => ':attribute უნდა იყოს :value კილობაიტზე ნაკლები.',
         'string'  => ':attribute უნდა შეიცავდეს :value სიმბოლოზე ნაკლებს.',
-        'array'   => ':attribute უნდა შეიცავლდეს :value ელემენტზე ნაკლებს.',
+        'array'   => ':attribute უნდა შეიცავდეს :value ელემენტზე ნაკლებს.',
     ],
     'lte'                  => [
         'numeric' => ':attribute უნდა იყოს მაქსიმუმ :value.',

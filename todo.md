@@ -1,9 +1,9 @@
 # Todo list
 | | | | | | | | | | |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-[ar ✔](#ar)|[az ❗](#az)|[be ❗](#be)|[bg ❗](#bg)|[bn ❗](#bn)|[bs ❗](#bs)|[ca ❗](#ca)|[cs ❗](#cs)|[cy ❗](#cy)|[da ❗](#da)
-[de ❗](#de)|[de_CH ❗](#de_CH)|[el ❗](#el)|[es ✔](#es)|[et ❗](#et)|[eu ❗](#eu)|[fa ❗](#fa)|[fi ❗](#fi)|[fil ❗](#fil)|[fr ✔](#fr)
-[gl ❗](#gl)|[he ❗](#he)|[hi ❗](#hi)|[hr ❗](#hr)|[hu ❗](#hu)|[hy ❗](#hy)|[id ❗](#id)|[is ❗](#is)|[it ✔](#it)|[ja ❗](#ja)
+[ar ❗](#ar)|[az ❗](#az)|[be ❗](#be)|[bg ❗](#bg)|[bn ❗](#bn)|[bs ❗](#bs)|[ca ❗](#ca)|[cs ❗](#cs)|[cy ❗](#cy)|[da ❗](#da)
+[de ❗](#de)|[de_CH ❗](#de_CH)|[el ❗](#el)|[es ✔](#es)|[et ❗](#et)|[eu ❗](#eu)|[fa ❗](#fa)|[fi ❗](#fi)|[fil ❗](#fil)|[fr ❗](#fr)
+[gl ❗](#gl)|[he ❗](#he)|[hi ❗](#hi)|[hr ❗](#hr)|[hu ❗](#hu)|[hy ❗](#hy)|[id ❗](#id)|[is ❗](#is)|[it ❗](#it)|[ja ❗](#ja)
 [ka ❗](#ka)|[kk ❗](#kk)|[km ❗](#km)|[kn ❗](#kn)|[ko ❗](#ko)|[lt ❗](#lt)|[lv ❗](#lv)|[mk ❗](#mk)|[mn ❗](#mn)|[mr ❗](#mr)
 [ms ❗](#ms)|[nb ❗](#nb)|[ne ❗](#ne)|[nl ❗](#nl)|[nn ❗](#nn)|[oc ❗](#oc)|[pl ❗](#pl)|[ps ❗](#ps)|[pt ❗](#pt)|[pt_BR ❗](#pt_BR)
 [ro ❗](#ro)|[ru ❗](#ru)|[sc ❗](#sc)|[si ❗](#si)|[sk ❗](#sk)|[sl ❗](#sl)|[sq ❗](#sq)|[sr_Cyrl ❗](#sr_Cyrl)|[sr_Latn ❗](#sr_Latn)|[sr_Latn_ME ❗](#sr_Latn_ME)
@@ -15,14 +15,18 @@
 
 ## ar
 
+<details>
+<summary>show<small> (all missing: 1, including not present: 1)</small></summary>
 
-All lines are translated 😊
+ * json : Cancel : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## az
 
 <details>
-<summary>show<small> (all missing: 302, including not present: 17)</small></summary>
+<summary>show<small> (all missing: 303, including not present: 18)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -48,6 +52,7 @@ All lines are translated 😊
  * json : Are you sure you would like to remove this person from the team?
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions
+ * json : Cancel : not present
  * json : click here to request another
  * json : Close
  * json : Code
@@ -334,7 +339,7 @@ into your web browser:
 ## be
 
 <details>
-<summary>show<small> (all missing: 312, including not present: 17)</small></summary>
+<summary>show<small> (all missing: 313, including not present: 18)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -360,6 +365,7 @@ into your web browser:
  * json : Are you sure you would like to remove this person from the team?
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions
+ * json : Cancel : not present
  * json : click here to request another
  * json : Close
  * json : Code
@@ -656,7 +662,7 @@ into your web browser:
 ## bg
 
 <details>
-<summary>show<small> (all missing: 280, including not present: 17)</small></summary>
+<summary>show<small> (all missing: 281, including not present: 18)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -682,6 +688,7 @@ into your web browser:
  * json : Are you sure you would like to remove this person from the team?
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions
+ * json : Cancel : not present
  * json : click here to request another
  * json : Close
  * json : Code
@@ -946,7 +953,7 @@ into your web browser:
 ## bn
 
 <details>
-<summary>show<small> (all missing: 302, including not present: 17)</small></summary>
+<summary>show<small> (all missing: 303, including not present: 18)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -972,6 +979,7 @@ into your web browser:
  * json : Are you sure you would like to remove this person from the team?
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions
+ * json : Cancel : not present
  * json : click here to request another
  * json : Close
  * json : Code
@@ -1284,6 +1292,7 @@ into your web browser:
  * json : Are you sure you would like to remove this person from the team?
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions
+ * json : Cancel : not present
  * json : click here to request another
  * json : Close
  * json : Code
@@ -1449,7 +1458,6 @@ into your web browser:
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * auth : password : not present
  * validation-inline : accepted
  * validation-inline : active_url
  * validation-inline : after
@@ -1546,7 +1554,7 @@ into your web browser:
 ## ca
 
 <details>
-<summary>show<small> (all missing: 236, including not present: 17)</small></summary>
+<summary>show<small> (all missing: 237, including not present: 18)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -1569,6 +1577,7 @@ into your web browser:
  * json : Are you sure you would like to leave this team?
  * json : Are you sure you would like to remove this person from the team?
  * json : Browser Sessions
+ * json : Cancel : not present
  * json : Close
  * json : Code
  * json : Confirm
@@ -1791,7 +1800,7 @@ into your web browser:
 ## cs
 
 <details>
-<summary>show<small> (all missing: 238, including not present: 17)</small></summary>
+<summary>show<small> (all missing: 239, including not present: 18)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -1814,6 +1823,7 @@ into your web browser:
  * json : Are you sure you would like to leave this team?
  * json : Are you sure you would like to remove this person from the team?
  * json : Browser Sessions
+ * json : Cancel : not present
  * json : Close
  * json : Code
  * json : Confirm
@@ -2038,7 +2048,7 @@ into your web browser:
 ## cy
 
 <details>
-<summary>show<small> (all missing: 317, including not present: 17)</small></summary>
+<summary>show<small> (all missing: 318, including not present: 18)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -2064,6 +2074,7 @@ into your web browser:
  * json : Are you sure you would like to remove this person from the team?
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions
+ * json : Cancel : not present
  * json : click here to request another
  * json : Close
  * json : Code
@@ -2365,7 +2376,7 @@ into your web browser:
 ## da
 
 <details>
-<summary>show<small> (all missing: 238, including not present: 17)</small></summary>
+<summary>show<small> (all missing: 239, including not present: 18)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -2388,6 +2399,7 @@ into your web browser:
  * json : Are you sure you would like to leave this team?
  * json : Are you sure you would like to remove this person from the team?
  * json : Browser Sessions
+ * json : Cancel : not present
  * json : Close
  * json : Code
  * json : Confirm
@@ -2612,9 +2624,10 @@ into your web browser:
 ## de
 
 <details>
-<summary>show<small> (all missing: 12, including not present: 12)</small></summary>
+<summary>show<small> (all missing: 13, including not present: 13)</small></summary>
 
  * json : Accept Invitation : not present
+ * json : Cancel : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
@@ -2633,7 +2646,7 @@ into your web browser:
 ## de_CH
 
 <details>
-<summary>show<small> (all missing: 145, including not present: 17)</small></summary>
+<summary>show<small> (all missing: 146, including not present: 18)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -2656,6 +2669,7 @@ into your web browser:
  * json : Are you sure you would like to leave this team?
  * json : Are you sure you would like to remove this person from the team?
  * json : Browser Sessions
+ * json : Cancel : not present
  * json : Close
  * json : Code
  * json : Confirm
@@ -2787,7 +2801,7 @@ into your web browser:
 ## el
 
 <details>
-<summary>show<small> (all missing: 228, including not present: 17)</small></summary>
+<summary>show<small> (all missing: 229, including not present: 18)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you.
@@ -2808,6 +2822,7 @@ into your web browser:
  * json : Are you sure you would like to leave this team?
  * json : Are you sure you would like to remove this person from the team?
  * json : Browser Sessions
+ * json : Cancel : not present
  * json : Close
  * json : Code
  * json : Confirm
@@ -3030,7 +3045,7 @@ All lines are translated 😊
 ## et
 
 <details>
-<summary>show<small> (all missing: 282, including not present: 17)</small></summary>
+<summary>show<small> (all missing: 283, including not present: 18)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -3056,6 +3071,7 @@ All lines are translated 😊
  * json : Are you sure you would like to remove this person from the team?
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions
+ * json : Cancel : not present
  * json : click here to request another
  * json : Close
  * json : Code
@@ -3322,7 +3338,7 @@ into your web browser:
 ## eu
 
 <details>
-<summary>show<small> (all missing: 247, including not present: 28)</small></summary>
+<summary>show<small> (all missing: 248, including not present: 29)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -3345,6 +3361,7 @@ into your web browser:
  * json : Are you sure you would like to leave this team?
  * json : Are you sure you would like to remove this person from the team?
  * json : Browser Sessions
+ * json : Cancel : not present
  * json : Close
  * json : Code
  * json : Confirm
@@ -3578,7 +3595,7 @@ into your web browser:
 ## fa
 
 <details>
-<summary>show<small> (all missing: 188, including not present: 188)</small></summary>
+<summary>show<small> (all missing: 189, including not present: 189)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration. : not present
@@ -3604,6 +3621,7 @@ into your web browser:
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Before proceeding, please check your email for a verification link. : not present
  * json : Browser Sessions : not present
+ * json : Cancel : not present
  * json : click here to request another : not present
  * json : Close : not present
  * json : Code : not present
@@ -3776,7 +3794,7 @@ into your web browser: : not present
 ## fi
 
 <details>
-<summary>show<small> (all missing: 273, including not present: 164)</small></summary>
+<summary>show<small> (all missing: 274, including not present: 165)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -3802,6 +3820,7 @@ into your web browser: : not present
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Before proceeding, please check your email for a verification link. : not present
  * json : Browser Sessions : not present
+ * json : Cancel : not present
  * json : click here to request another : not present
  * json : Close : not present
  * json : Code : not present
@@ -4058,7 +4077,7 @@ into your web browser: : not present
 ## fil
 
 <details>
-<summary>show<small> (all missing: 290, including not present: 189)</small></summary>
+<summary>show<small> (all missing: 291, including not present: 190)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration. : not present
@@ -4084,6 +4103,7 @@ into your web browser: : not present
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Before proceeding, please check your email for a verification link. : not present
  * json : Browser Sessions : not present
+ * json : Cancel : not present
  * json : click here to request another : not present
  * json : Close : not present
  * json : Code : not present
@@ -4357,14 +4377,18 @@ into your web browser: : not present
 
 ## fr
 
+<details>
+<summary>show<small> (all missing: 1, including not present: 1)</small></summary>
 
-All lines are translated 😊
+ * json : Cancel : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## gl
 
 <details>
-<summary>show<small> (all missing: 245, including not present: 136)</small></summary>
+<summary>show<small> (all missing: 246, including not present: 137)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -4387,6 +4411,7 @@ All lines are translated 😊
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Browser Sessions : not present
+ * json : Cancel : not present
  * json : Close : not present
  * json : Code : not present
  * json : Confirm : not present
@@ -4618,7 +4643,7 @@ All lines are translated 😊
 ## he
 
 <details>
-<summary>show<small> (all missing: 238, including not present: 130)</small></summary>
+<summary>show<small> (all missing: 239, including not present: 131)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -4641,6 +4666,7 @@ All lines are translated 😊
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Browser Sessions : not present
+ * json : Cancel : not present
  * json : Close : not present
  * json : Code : not present
  * json : Confirm : not present
@@ -4865,7 +4891,7 @@ All lines are translated 😊
 ## hi
 
 <details>
-<summary>show<small> (all missing: 294, including not present: 126)</small></summary>
+<summary>show<small> (all missing: 295, including not present: 127)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -4891,6 +4917,7 @@ All lines are translated 😊
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions : not present
+ * json : Cancel : not present
  * json : click here to request another
  * json : Close : not present
  * json : Code : not present
@@ -5169,7 +5196,7 @@ into your web browser:
 ## hr
 
 <details>
-<summary>show<small> (all missing: 267, including not present: 158)</small></summary>
+<summary>show<small> (all missing: 268, including not present: 159)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -5195,6 +5222,7 @@ into your web browser:
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Before proceeding, please check your email for a verification link. : not present
  * json : Browser Sessions : not present
+ * json : Cancel : not present
  * json : click here to request another : not present
  * json : Close : not present
  * json : Code : not present
@@ -5446,7 +5474,7 @@ into your web browser: : not present
 ## hu
 
 <details>
-<summary>show<small> (all missing: 235, including not present: 128)</small></summary>
+<summary>show<small> (all missing: 236, including not present: 129)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -5469,6 +5497,7 @@ into your web browser: : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Browser Sessions : not present
+ * json : Cancel : not present
  * json : Close : not present
  * json : Code : not present
  * json : Confirm : not present
@@ -5690,7 +5719,7 @@ into your web browser: : not present
 ## hy
 
 <details>
-<summary>show<small> (all missing: 236, including not present: 129)</small></summary>
+<summary>show<small> (all missing: 237, including not present: 130)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -5713,6 +5742,7 @@ into your web browser: : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Browser Sessions : not present
+ * json : Cancel : not present
  * json : Close : not present
  * json : Code : not present
  * json : Confirm : not present
@@ -5936,7 +5966,7 @@ into your web browser: : not present
 ## id
 
 <details>
-<summary>show<small> (all missing: 128, including not present: 126)</small></summary>
+<summary>show<small> (all missing: 129, including not present: 127)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -5957,6 +5987,7 @@ into your web browser: : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Browser Sessions : not present
+ * json : Cancel : not present
  * json : Close : not present
  * json : Code : not present
  * json : Confirm : not present
@@ -6073,7 +6104,7 @@ into your web browser: : not present
 ## is
 
 <details>
-<summary>show<small> (all missing: 284, including not present: 126)</small></summary>
+<summary>show<small> (all missing: 285, including not present: 127)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -6099,6 +6130,7 @@ into your web browser: : not present
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions : not present
+ * json : Cancel : not present
  * json : click here to request another
  * json : Close : not present
  * json : Code : not present
@@ -6366,17 +6398,22 @@ into your web browser:
 
 ## it
 
+<details>
+<summary>show<small> (all missing: 1, including not present: 1)</small></summary>
 
-All lines are translated 😊
+ * json : Cancel : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## ja
 
 <details>
-<summary>show<small> (all missing: 140, including not present: 49)</small></summary>
+<summary>show<small> (all missing: 141, including not present: 50)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Are you sure you would like to leave this team? : not present
+ * json : Cancel : not present
  * json : Create Account : not present
  * json : Forgot Your Password? : not present
  * json : Go to page :page : not present
@@ -6522,7 +6559,7 @@ All lines are translated 😊
 ## ka
 
 <details>
-<summary>show<small> (all missing: 263, including not present: 157)</small></summary>
+<summary>show<small> (all missing: 264, including not present: 158)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -6548,6 +6585,7 @@ All lines are translated 😊
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Before proceeding, please check your email for a verification link. : not present
  * json : Browser Sessions : not present
+ * json : Cancel : not present
  * json : click here to request another : not present
  * json : Close : not present
  * json : Code : not present
@@ -6795,7 +6833,7 @@ into your web browser: : not present
 ## kk
 
 <details>
-<summary>show<small> (all missing: 236, including not present: 128)</small></summary>
+<summary>show<small> (all missing: 237, including not present: 129)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -6818,6 +6856,7 @@ into your web browser: : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Browser Sessions : not present
+ * json : Cancel : not present
  * json : Close : not present
  * json : Code : not present
  * json : Confirm : not present
@@ -7040,7 +7079,7 @@ into your web browser: : not present
 ## km
 
 <details>
-<summary>show<small> (all missing: 278, including not present: 126)</small></summary>
+<summary>show<small> (all missing: 279, including not present: 127)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -7066,6 +7105,7 @@ into your web browser: : not present
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions : not present
+ * json : Cancel : not present
  * json : click here to request another
  * json : Close : not present
  * json : Code : not present
@@ -7328,7 +7368,7 @@ into your web browser:
 ## kn
 
 <details>
-<summary>show<small> (all missing: 246, including not present: 136)</small></summary>
+<summary>show<small> (all missing: 247, including not present: 137)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -7351,6 +7391,7 @@ into your web browser:
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Browser Sessions : not present
+ * json : Cancel : not present
  * json : Close : not present
  * json : Code : not present
  * json : Confirm : not present
@@ -7583,9 +7624,10 @@ into your web browser:
 ## ko
 
 <details>
-<summary>show<small> (all missing: 16, including not present: 16)</small></summary>
+<summary>show<small> (all missing: 17, including not present: 17)</small></summary>
 
  * json : Accept Invitation : not present
+ * json : Cancel : not present
  * json : Create Account : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
@@ -7608,9 +7650,10 @@ into your web browser:
 ## lt
 
 <details>
-<summary>show<small> (all missing: 16, including not present: 16)</small></summary>
+<summary>show<small> (all missing: 17, including not present: 17)</small></summary>
 
  * json : Accept Invitation : not present
+ * json : Cancel : not present
  * json : Create Account : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
@@ -7633,7 +7676,7 @@ into your web browser:
 ## lv
 
 <details>
-<summary>show<small> (all missing: 282, including not present: 126)</small></summary>
+<summary>show<small> (all missing: 283, including not present: 127)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -7659,6 +7702,7 @@ into your web browser:
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions : not present
+ * json : Cancel : not present
  * json : click here to request another
  * json : Close : not present
  * json : Code : not present
@@ -7925,7 +7969,7 @@ into your web browser:
 ## mk
 
 <details>
-<summary>show<small> (all missing: 319, including not present: 126)</small></summary>
+<summary>show<small> (all missing: 320, including not present: 127)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -7951,6 +7995,7 @@ into your web browser:
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions : not present
+ * json : Cancel : not present
  * json : click here to request another
  * json : Close : not present
  * json : Code : not present
@@ -8254,7 +8299,7 @@ into your web browser:
 ## mn
 
 <details>
-<summary>show<small> (all missing: 307, including not present: 126)</small></summary>
+<summary>show<small> (all missing: 308, including not present: 127)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -8280,6 +8325,7 @@ into your web browser:
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions : not present
+ * json : Cancel : not present
  * json : click here to request another
  * json : Close : not present
  * json : Code : not present
@@ -8571,7 +8617,7 @@ into your web browser:
 ## mr
 
 <details>
-<summary>show<small> (all missing: 247, including not present: 137)</small></summary>
+<summary>show<small> (all missing: 248, including not present: 138)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -8594,6 +8640,7 @@ into your web browser:
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Browser Sessions : not present
+ * json : Cancel : not present
  * json : click here to request another : not present
  * json : Close : not present
  * json : Code : not present
@@ -8827,7 +8874,7 @@ into your web browser:
 ## ms
 
 <details>
-<summary>show<small> (all missing: 157, including not present: 138)</small></summary>
+<summary>show<small> (all missing: 158, including not present: 139)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -8850,6 +8897,7 @@ into your web browser:
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Browser Sessions : not present
+ * json : Cancel : not present
  * json : Close : not present
  * json : Code : not present
  * json : Confirm : not present
@@ -8993,7 +9041,7 @@ into your web browser:
 ## nb
 
 <details>
-<summary>show<small> (all missing: 237, including not present: 130)</small></summary>
+<summary>show<small> (all missing: 238, including not present: 131)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -9016,6 +9064,7 @@ into your web browser:
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Browser Sessions : not present
+ * json : Cancel : not present
  * json : Close : not present
  * json : Code : not present
  * json : Confirm : not present
@@ -9239,7 +9288,7 @@ into your web browser:
 ## ne
 
 <details>
-<summary>show<small> (all missing: 145, including not present: 126)</small></summary>
+<summary>show<small> (all missing: 146, including not present: 127)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -9262,6 +9311,7 @@ into your web browser:
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Browser Sessions : not present
+ * json : Cancel : not present
  * json : Close : not present
  * json : Code : not present
  * json : Confirm : not present
@@ -9393,9 +9443,10 @@ into your web browser:
 ## nl
 
 <details>
-<summary>show<small> (all missing: 15, including not present: 15)</small></summary>
+<summary>show<small> (all missing: 16, including not present: 16)</small></summary>
 
  * json : Accept Invitation : not present
+ * json : Cancel : not present
  * json : Create Account : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
@@ -9417,7 +9468,7 @@ into your web browser:
 ## nn
 
 <details>
-<summary>show<small> (all missing: 239, including not present: 130)</small></summary>
+<summary>show<small> (all missing: 240, including not present: 131)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -9440,6 +9491,7 @@ into your web browser:
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Browser Sessions : not present
+ * json : Cancel : not present
  * json : Close : not present
  * json : Code : not present
  * json : Confirm : not present
@@ -9665,7 +9717,7 @@ into your web browser:
 ## oc
 
 <details>
-<summary>show<small> (all missing: 189, including not present: 15)</small></summary>
+<summary>show<small> (all missing: 190, including not present: 16)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -9691,6 +9743,7 @@ into your web browser:
  * json : Are you sure you would like to remove this person from the team?
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions
+ * json : Cancel : not present
  * json : click here to request another
  * json : Close
  * json : Code
@@ -9864,9 +9917,10 @@ into your web browser:
 ## pl
 
 <details>
-<summary>show<small> (all missing: 17, including not present: 17)</small></summary>
+<summary>show<small> (all missing: 18, including not present: 18)</small></summary>
 
  * json : Accept Invitation : not present
+ * json : Cancel : not present
  * json : Create Account : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
@@ -9890,7 +9944,7 @@ into your web browser:
 ## ps
 
 <details>
-<summary>show<small> (all missing: 247, including not present: 137)</small></summary>
+<summary>show<small> (all missing: 248, including not present: 138)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -9913,6 +9967,7 @@ into your web browser:
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Browser Sessions : not present
+ * json : Cancel : not present
  * json : Close : not present
  * json : Code : not present
  * json : Confirm : not present
@@ -10146,9 +10201,10 @@ into your web browser:
 ## pt
 
 <details>
-<summary>show<small> (all missing: 19, including not present: 17)</small></summary>
+<summary>show<small> (all missing: 20, including not present: 18)</small></summary>
 
  * json : Accept Invitation : not present
+ * json : Cancel : not present
  * json : Create Account : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
@@ -10174,9 +10230,10 @@ into your web browser:
 ## pt_BR
 
 <details>
-<summary>show<small> (all missing: 20, including not present: 17)</small></summary>
+<summary>show<small> (all missing: 21, including not present: 18)</small></summary>
 
  * json : Accept Invitation : not present
+ * json : Cancel : not present
  * json : Create Account : not present
  * json : Editor
  * json : Great! You have accepted the invitation to join the :team team. : not present
@@ -10203,7 +10260,7 @@ into your web browser:
 ## ro
 
 <details>
-<summary>show<small> (all missing: 236, including not present: 128)</small></summary>
+<summary>show<small> (all missing: 237, including not present: 129)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -10226,6 +10283,7 @@ into your web browser:
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Browser Sessions : not present
+ * json : Cancel : not present
  * json : Close : not present
  * json : Code : not present
  * json : Confirm : not present
@@ -10448,8 +10506,9 @@ into your web browser:
 ## ru
 
 <details>
-<summary>show<small> (all missing: 1, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 2, including not present: 2)</small></summary>
 
+ * json : Cancel : not present
  * json : Team Invitation : not present
 
 [ [to top](#todo-list) ]
@@ -10458,7 +10517,7 @@ into your web browser:
 ## sc
 
 <details>
-<summary>show<small> (all missing: 317, including not present: 126)</small></summary>
+<summary>show<small> (all missing: 318, including not present: 127)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -10484,6 +10543,7 @@ into your web browser:
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions : not present
+ * json : Cancel : not present
  * json : click here to request another
  * json : Close : not present
  * json : Code : not present
@@ -10785,7 +10845,7 @@ into your web browser:
 ## si
 
 <details>
-<summary>show<small> (all missing: 281, including not present: 126)</small></summary>
+<summary>show<small> (all missing: 282, including not present: 127)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -10811,6 +10871,7 @@ into your web browser:
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions : not present
+ * json : Cancel : not present
  * json : click here to request another
  * json : Close : not present
  * json : Code : not present
@@ -11076,7 +11137,7 @@ into your web browser:
 ## sk
 
 <details>
-<summary>show<small> (all missing: 235, including not present: 128)</small></summary>
+<summary>show<small> (all missing: 236, including not present: 129)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -11099,6 +11160,7 @@ into your web browser:
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Browser Sessions : not present
+ * json : Cancel : not present
  * json : Close : not present
  * json : Code : not present
  * json : Confirm : not present
@@ -11320,9 +11382,10 @@ into your web browser:
 ## sl
 
 <details>
-<summary>show<small> (all missing: 15, including not present: 15)</small></summary>
+<summary>show<small> (all missing: 16, including not present: 16)</small></summary>
 
  * json : Accept Invitation : not present
+ * json : Cancel : not present
  * json : Create Account : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
@@ -11344,7 +11407,7 @@ into your web browser:
 ## sq
 
 <details>
-<summary>show<small> (all missing: 191, including not present: 126)</small></summary>
+<summary>show<small> (all missing: 192, including not present: 127)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -11370,6 +11433,7 @@ into your web browser:
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions : not present
+ * json : Cancel : not present
  * json : click here to request another
  * json : Close : not present
  * json : Code : not present
@@ -11545,11 +11609,12 @@ into your web browser:
 ## sr_Cyrl
 
 <details>
-<summary>show<small> (all missing: 30, including not present: 28)</small></summary>
+<summary>show<small> (all missing: 31, including not present: 29)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Administrator users can perform any action. : not present
  * json : Administrator : not present
+ * json : Cancel : not present
  * json : Create Account : not present
  * json : Editor users have the ability to read, create, and update. : not present
  * json : Editor : not present
@@ -11584,11 +11649,12 @@ into your web browser:
 ## sr_Latn
 
 <details>
-<summary>show<small> (all missing: 30, including not present: 28)</small></summary>
+<summary>show<small> (all missing: 31, including not present: 29)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Administrator users can perform any action. : not present
  * json : Administrator : not present
+ * json : Cancel : not present
  * json : Create Account : not present
  * json : Editor users have the ability to read, create, and update. : not present
  * json : Editor : not present
@@ -11623,7 +11689,7 @@ into your web browser:
 ## sr_Latn_ME
 
 <details>
-<summary>show<small> (all missing: 277, including not present: 125)</small></summary>
+<summary>show<small> (all missing: 278, including not present: 126)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -11649,6 +11715,7 @@ into your web browser:
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions : not present
+ * json : Cancel : not present
  * json : click here to request another
  * json : Close : not present
  * json : Code : not present
@@ -11910,7 +11977,7 @@ into your web browser:
 ## sv
 
 <details>
-<summary>show<small> (all missing: 197, including not present: 99)</small></summary>
+<summary>show<small> (all missing: 198, including not present: 100)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -11928,6 +11995,7 @@ into your web browser:
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Browser Sessions : not present
+ * json : Cancel : not present
  * json : Create a new team to collaborate with others on projects. : not present
  * json : Create Account : not present
  * json : Create API Token : not present
@@ -12116,7 +12184,7 @@ into your web browser:
 ## sw
 
 <details>
-<summary>show<small> (all missing: 282, including not present: 126)</small></summary>
+<summary>show<small> (all missing: 283, including not present: 127)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -12142,6 +12210,7 @@ into your web browser:
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions : not present
+ * json : Cancel : not present
  * json : click here to request another
  * json : Close : not present
  * json : Code : not present
@@ -12408,7 +12477,7 @@ into your web browser:
 ## tg
 
 <details>
-<summary>show<small> (all missing: 304, including not present: 126)</small></summary>
+<summary>show<small> (all missing: 305, including not present: 127)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -12434,6 +12503,7 @@ into your web browser:
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions : not present
+ * json : Cancel : not present
  * json : click here to request another
  * json : Close : not present
  * json : Code : not present
@@ -12722,7 +12792,7 @@ into your web browser:
 ## th
 
 <details>
-<summary>show<small> (all missing: 252, including not present: 136)</small></summary>
+<summary>show<small> (all missing: 253, including not present: 137)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -12746,6 +12816,7 @@ into your web browser:
  * json : Are you sure you would like to leave this team? : not present
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Browser Sessions : not present
+ * json : Cancel : not present
  * json : Close : not present
  * json : Code : not present
  * json : Confirm : not present
@@ -12984,7 +13055,7 @@ into your web browser: : not present
 ## tk
 
 <details>
-<summary>show<small> (all missing: 317, including not present: 17)</small></summary>
+<summary>show<small> (all missing: 318, including not present: 18)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -13010,6 +13081,7 @@ into your web browser: : not present
  * json : Are you sure you would like to remove this person from the team?
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions
+ * json : Cancel : not present
  * json : click here to request another
  * json : Close
  * json : Code
@@ -13311,7 +13383,7 @@ into your web browser:
 ## tl
 
 <details>
-<summary>show<small> (all missing: 310, including not present: 17)</small></summary>
+<summary>show<small> (all missing: 311, including not present: 18)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -13337,6 +13409,7 @@ into your web browser:
  * json : Are you sure you would like to remove this person from the team?
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions
+ * json : Cancel : not present
  * json : click here to request another
  * json : Close
  * json : Code
@@ -13631,9 +13704,10 @@ into your web browser:
 ## tr
 
 <details>
-<summary>show<small> (all missing: 105, including not present: 17)</small></summary>
+<summary>show<small> (all missing: 106, including not present: 18)</small></summary>
 
  * json : Accept Invitation : not present
+ * json : Cancel : not present
  * json : Create Account : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
@@ -13745,7 +13819,7 @@ into your web browser:
 ## ug
 
 <details>
-<summary>show<small> (all missing: 302, including not present: 17)</small></summary>
+<summary>show<small> (all missing: 303, including not present: 18)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -13771,6 +13845,7 @@ into your web browser:
  * json : Are you sure you would like to remove this person from the team?
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions
+ * json : Cancel : not present
  * json : click here to request another
  * json : Close
  * json : Code
@@ -14057,9 +14132,10 @@ into your web browser:
 ## uk
 
 <details>
-<summary>show<small> (all missing: 7, including not present: 7)</small></summary>
+<summary>show<small> (all missing: 8, including not present: 8)</small></summary>
 
  * json : Accept Invitation : not present
+ * json : Cancel : not present
  * json : Create Account : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
@@ -14073,7 +14149,7 @@ into your web browser:
 ## ur
 
 <details>
-<summary>show<small> (all missing: 296, including not present: 17)</small></summary>
+<summary>show<small> (all missing: 297, including not present: 18)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -14099,6 +14175,7 @@ into your web browser:
  * json : Are you sure you would like to remove this person from the team?
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions
+ * json : Cancel : not present
  * json : click here to request another
  * json : Close
  * json : Code
@@ -14379,7 +14456,7 @@ into your web browser:
 ## uz_Cyrl
 
 <details>
-<summary>show<small> (all missing: 279, including not present: 17)</small></summary>
+<summary>show<small> (all missing: 280, including not present: 18)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -14405,6 +14482,7 @@ into your web browser:
  * json : Are you sure you would like to remove this person from the team?
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions
+ * json : Cancel : not present
  * json : click here to request another
  * json : Close
  * json : Code
@@ -14668,7 +14746,7 @@ into your web browser:
 ## uz_Latn
 
 <details>
-<summary>show<small> (all missing: 279, including not present: 17)</small></summary>
+<summary>show<small> (all missing: 280, including not present: 18)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -14694,6 +14772,7 @@ into your web browser:
  * json : Are you sure you would like to remove this person from the team?
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions
+ * json : Cancel : not present
  * json : click here to request another
  * json : Close
  * json : Code
@@ -14957,9 +15036,10 @@ into your web browser:
 ## vi
 
 <details>
-<summary>show<small> (all missing: 16, including not present: 16)</small></summary>
+<summary>show<small> (all missing: 17, including not present: 17)</small></summary>
 
  * json : Accept Invitation : not present
+ * json : Cancel : not present
  * json : Create Account : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
@@ -14982,7 +15062,7 @@ into your web browser:
 ## zh_CN
 
 <details>
-<summary>show<small> (all missing: 143, including not present: 17)</small></summary>
+<summary>show<small> (all missing: 144, including not present: 18)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -15005,6 +15085,7 @@ into your web browser:
  * json : Are you sure you would like to leave this team?
  * json : Are you sure you would like to remove this person from the team?
  * json : Browser Sessions
+ * json : Cancel : not present
  * json : Close
  * json : Code
  * json : Confirm
@@ -15134,7 +15215,7 @@ into your web browser:
 ## zh_HK
 
 <details>
-<summary>show<small> (all missing: 143, including not present: 17)</small></summary>
+<summary>show<small> (all missing: 144, including not present: 18)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -15157,6 +15238,7 @@ into your web browser:
  * json : Are you sure you would like to leave this team?
  * json : Are you sure you would like to remove this person from the team?
  * json : Browser Sessions
+ * json : Cancel : not present
  * json : Close
  * json : Code
  * json : Confirm
@@ -15286,7 +15368,7 @@ into your web browser:
 ## zh_TW
 
 <details>
-<summary>show<small> (all missing: 143, including not present: 17)</small></summary>
+<summary>show<small> (all missing: 144, including not present: 18)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -15309,6 +15391,7 @@ into your web browser:
  * json : Are you sure you would like to leave this team?
  * json : Are you sure you would like to remove this person from the team?
  * json : Browser Sessions
+ * json : Cancel : not present
  * json : Close
  * json : Code
  * json : Confirm

@@ -154,6 +154,7 @@ return [
         'last_name'             => 'Nachname',
         'password'              => 'Passwort',
         'password_confirmation' => 'Passwort Bestätigung',
+        'current_password'      => 'Derzeitiges Passwort',
         'city'                  => 'Stadt',
         'country'               => 'Land',
         'address'               => 'Adresse',

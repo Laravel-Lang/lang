@@ -2797,7 +2797,7 @@ into your web browser:
 ## el
 
 <details>
-<summary>show<small> (all missing: 229, including not present: 18)</small></summary>
+<summary>show<small> (all missing: 222, including not present: 18)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you.
@@ -2905,13 +2905,6 @@ into your web browser:
  * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
- * json : The :attribute must be at least :length characters and contain at least one number.
- * json : The :attribute must be at least :length characters and contain at least one special character.
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number.
- * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
- * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
- * json : The :attribute must be at least :length characters and contain at least one uppercase character.
- * json : The :attribute must be at least :length characters.
  * json : The provided password does not match your current password.
  * json : The provided password was incorrect.
  * json : The provided two factor authentication code was invalid.

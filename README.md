@@ -32,6 +32,8 @@ After adding the dependency using composer (as described above) to your applicat
 
 Copy the folders (and JSON files) of languages that you want to use, into the directory `resources/lang` of your Laravel application (or `app/lang` in Laravel 4).
 
+If you are using Laravel Mix, add `mix.copy('vendor/laravel-lang/lang/src/ms', 'resources/lang/ms');` to your `webpack.mix.js` to let mix automatically copy the directory every time you compile.
+
 ### Via GitHub
 
 * Clone the [GitHub repository](https://github.com/Laravel-Lang/lang/) : *git clone https://github.com/Laravel-Lang/lang.git*

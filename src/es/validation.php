@@ -156,6 +156,7 @@ return [
         'city'                  => 'ciudad',
         'content'               => 'contenido',
         'country'               => 'país',
+        'current_password'      => 'contraseña actual',
         'date'                  => 'fecha',
         'day'                   => 'día',
         'description'           => 'descripción',

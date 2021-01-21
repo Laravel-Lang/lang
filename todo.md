@@ -10245,7 +10245,7 @@ into your web browser:
 ## ro
 
 <details>
-<summary>show<small> (all missing: 237, including not present: 129)</small></summary>
+<summary>show<small> (all missing: 236, including not present: 128)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -10392,7 +10392,6 @@ into your web browser:
  * json : You may delete any of your existing tokens if they are no longer needed. : not present
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
- * auth : password : not present
  * passwords : throttled
  * validation : multiple_of
  * validation-inline : accepted

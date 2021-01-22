@@ -39,7 +39,7 @@
 | ko | |
 | lt | |
 | lv | |
-| mk | |
+| mk | [@keljtanoski](https://github.com/keljtanoski) |
 | mn | |
 | mr | |
 | ms | |

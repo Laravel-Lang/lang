@@ -13,9 +13,9 @@ return [
     |
     */
 
-    'accepted'             => 'This field must be accepted.',
-    'active_url'           => 'This is not a valid URL.',
-    'after'                => 'This must be a date after :date.',
+    'accepted'             => 'Ова поле мора да биде прифатено.',
+    'active_url'           => 'Ова не е валидна URL-адреса.',
+    'after'                => 'Ова мора да биде датум после :date.',
     'after_or_equal'       => 'This must be a date after or equal to :date.',
     'alpha'                => 'This field may only contain letters.',
     'alpha_dash'           => 'This field may only contain letters, numbers, dashes and underscores.',

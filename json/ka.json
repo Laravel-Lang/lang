@@ -1,4 +1,4 @@
-{    
+{
     "A new verification link has been sent to the email address you provided during registration.": "A new verification link has been sent to the email address you provided during registration.",
     "Already registered?": "Already registered?",
     "Confirm Password": "პაროლის დადასტურება",
@@ -29,7 +29,7 @@
     "We were unable to find a registered user with this email address.": "We were unable to find a registered user with this email address.",
     "You are receiving this email because we received a password reset request for your account.": "თქვენ ხედავთ აღნიშნულ შეტყობინებას რადგან მივიღეთ თქვენი მოთხოვნა პაროლის აღდგენასთან დაკავშირებით.",
     "You may not delete your personal team.": "You may not delete your personal team.",
-    "You may not leave a team that you created.": "You may not leave a team that you created.",{
+    "You may not leave a team that you created.": "You may not leave a team that you created.",
     "These credentials do not match our records.": "მომხმარებელი ამ მონაცემებით არ არსებობს.",
     "Too many login attempts. Please try again in :seconds seconds.": "წარუმატებელი ავტორიზაცია. გთხოვთ, სცადოთ :seconds წამში.",
     "&laquo; Previous": "&laquo; წინა",

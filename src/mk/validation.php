@@ -100,7 +100,7 @@ return [
     'required_if'          => 'Полето :attribute е задолжително кога :other е :value.',
     'required_unless'      => 'Полето :attribute е задолжително освен кога :other е во :values.',
     'required_with'        => 'Полето :attribute е задолжително кога е внесено :values.',
-    'required_with_all'    => 'Полето :attribute е задолжително кога :values е присутно.',
+    'required_with_all'    => 'Полето :attribute е задолжително кога :values се присутни.',
     'required_without'     => 'Полето :attribute е задолжително кога не е внесено :values.',
     'required_without_all' => 'Полето :attribute е задолжително кога ниту една вредност од следните: :values се присутни.',
     'same'                 => 'Полињата :attribute и :other треба да совпаѓаат.',

@@ -90,7 +90,7 @@ return [
         'string'  => '至少为 :min 个字符。',
         'array'   => '至少有 :min 个单元。',
     ],
-    'multiple_of'          => 'The value must be a multiple of :value',
+    'multiple_of'          => '必须是 :value 中的多个值。',
     'not_in'               => '选项无效。',
     'not_regex'            => '格式错误。',
     'numeric'              => '必须是一个数字。',

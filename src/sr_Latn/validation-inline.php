@@ -95,7 +95,7 @@ return [
     'not_regex'            => 'Format nije validan.',
     'numeric'              => 'Ovo mora biti broj.',
     'password'             => 'Pogrešna lozinka.',
-    'present'              => 'Ovo polje mora da bude prisutno..',
+    'present'              => 'Ovo polje mora da bude prisutno.',
     'regex'                => 'Format nije validan.',
     'required'             => 'Ovo polje je obavezno.',
     'required_if'          => 'Ovo polje je obavezno kadakada polje :other sadrži :value.',

@@ -89,7 +89,7 @@ return [
         'string'  => ':attribute 至少为 :min 个字符。',
         'array'   => ':attribute 至少有 :min 个单元。',
     ],
-    'multiple_of'          => 'The :attribute must be a multiple of :value',
+    'multiple_of'          => ':attribute 必须是 :value 中的多个值。',
     'not_in'               => '已选的属性 :attribute 非法。',
     'not_regex'            => ':attribute 的格式错误。',
     'numeric'              => ':attribute 必须是一个数字。',

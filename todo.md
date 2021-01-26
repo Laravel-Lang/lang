@@ -14733,14 +14733,11 @@ into your web browser:
 ## zh_HK
 
 <details>
-<summary>show<small> (all missing: 5, including not present: 2)</small></summary>
+<summary>show<small> (all missing: 3, including not present: 0)</small></summary>
 
  * json : API Token
  * json : API Tokens
  * json : Email
- * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: : not present
- * json : You have been invited to join the :team team! : not present
 
 [ [to top](#todo-list) ]
 </details>
@@ -14748,14 +14745,11 @@ into your web browser: : not present
 ## zh_TW
 
 <details>
-<summary>show<small> (all missing: 5, including not present: 2)</small></summary>
+<summary>show<small> (all missing: 3, including not present: 0)</small></summary>
 
  * json : API Token
  * json : API Tokens
  * json : Email
- * json : If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser: : not present
- * json : You have been invited to join the :team team! : not present
 
 [ [to top](#todo-list) ]
 </details>

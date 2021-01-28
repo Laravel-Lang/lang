@@ -16,7 +16,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [8.0.2] - 2021-01-25
 
-### Reference
+### Added
 
  * feature: #1481 Added new Jetstream 2.0 translation keys
  * feature: #1485 Add missing tags and translate new tags for Jetstream 2.0

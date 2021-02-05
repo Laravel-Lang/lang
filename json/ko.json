@@ -1,6 +1,6 @@
 {
     "A fresh verification link has been sent to your email address.": "새로운 확인 링크를 귀하의 이메일 주소로 보냈습니다.",
-    "A new verification link has been sent to the email address you provided during registration.": "새로운 확인 링크를 등록 시 사용한 이메일 주소로 보냈습니다.",
+    "A new verification link has been sent to the email address you provided during registration.": "새로운 확인 링크를 가입할 때 사용한 이메일 주소로 보냈습니다.",
     "Add a new team member to your team, allowing them to collaborate with you.": "팀에 멤버를 추가하여 함께 협업 할 수 있습니다.",
     "Add additional security to your account using two factor authentication.": "2단계 인증을 사용하여 계정 보안을 강화하세요.",
     "Add Team Member": "팀 멤버 추가",
@@ -159,7 +159,7 @@
     "Use an authentication code": "인증 코드 사용",
     "Verify Email Address": "이메일 주소 확인",
     "Verify Your Email Address": "이메일 주소 확인",
-    "We were unable to find a registered user with this email address.": "이 이메일 주소로 등록 된 사용자를 찾을 수 없습니다.",
+    "We were unable to find a registered user with this email address.": "이 이메일 주소로 등록된 사용자를 찾을 수 없습니다.",
     "We won't ask for your password again for a few hours.": "몇 시간 동안 비밀번호를 다시 확인하지 않습니다.",
     "When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application.": "2단계 인증이 활성화되면 인증 중에 코드를 입력하라는 메시지가 표시됩니다. 휴대전화의 Google Authenticator 애플리케이션에서 이 코드를 확인 할 수 있습니다.",
     "Whoops! Something went wrong.": "저런! 뭔가 잘못되었습니다.",

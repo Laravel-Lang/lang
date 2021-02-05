@@ -171,5 +171,22 @@
     "You may delete any of your existing tokens if they are no longer needed.": "더 이상 필요하지 않은 경우 기존 토큰을 삭제할 수 있습니다.",
     "You may not delete your personal team.": "개인 팀을 삭제할 수 없습니다.",
     "You may not leave a team that you created.": "자신이 만든 팀을 탈퇴 할 수 없습니다.",
-    "Your email address is not verified.": "이메일 주소가 확인되지 않습니다."
+    "Your email address is not verified.": "이메일 주소가 확인되지 않습니다.",
+    "Accept Invitation": "초대 수락",
+    "Cancel": "취소",
+    "Create Account": "계정 만들기",
+    "Great! You have accepted the invitation to join the :team team.": ":team 팀의 초대를 수락하셨습니다!",
+    "I agree to the :terms_of_service and :privacy_policy": ":terms_of_service와 :privacy_policy에 동의합니다.",
+    "If you already have an account, you may accept this invitation by clicking the button below:": "이미 계정을 가지고 계시다면, 아래 버튼을 눌러 초대를 수락 할 수 있습니다.",
+    "If you did not expect to receive an invitation to this team, you may discard this email.": "이 팀에서 초대를 받기로 하시지 않으셨다면, 무시하셔도 됩니다.",
+    "If you do not have an account, you may create one by clicking the button below. After creating an account, you may click the invitation acceptance button in this email to accept the team invitation:": "계정이 없으시다면 아래 버튼을 눌러 계정을 만들고, 이 메일에 있는 수락 버튼을 눌러 팀 초대를 수락 할 수 있습니다:",
+    "Pending Team Invitations": "대기 중인 팀 초대",
+    "Please provide the email address of the person you would like to add to this team.": "팀에 추가하시고 싶은 사람의 이메일 주소를 적어주세요.",
+    "Privacy Policy": "개인정보 보호 정책",
+    "Team Invitation": "팀 초대",
+    "Terms of Service": "이용 약관",
+    "These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation.": "이 분들은 팀에 초대되어 초대 메일이 발송되었고, 초대를 수락하여 팀에 들어 올 수 있습니다.",
+    "This is a secure area of the application. Please confirm your password before continuing.": "이 곳은 보안 구역입니다. 진행하기 위해서 비밀번호를 입력해주세요.",
+    "This user has already been invited to the team.": "이미 이 팀에 초대하신 분입니다.",
+    "You have been invited to join the :team team!": ":team 팀에 초대되셨습니다!"
 }

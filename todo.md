@@ -10788,7 +10788,7 @@ into your web browser:
 ## sk
 
 <details>
-<summary>show<small> (all missing: 236, including not present: 129)</small></summary>
+<summary>show<small> (all missing: 235, including not present: 129)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -10838,7 +10838,6 @@ into your web browser:
  * json : Ensure your account is using a long, random password to stay secure. : not present
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
- * json : Forgot your password?
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present

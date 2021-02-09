@@ -5,6 +5,46 @@ All notable changes to this project will be documented in this file, since v7.0.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [8.0.3] - 2021-01-29
+
+### Changed
+
+ * feature: [fr] json file
+ * feature: [zh_CN] #1523 auth.php validation.php validation-inline.php exclude.php json file
+ * feature: [zh_HK] #1523 auth.php validation.php validation-inline.php exclude.php json file
+ * feature: [zh_TW] #1523 auth.php validation.php validation-inline.php exclude.php json file
+
+## [8.0.2] - 2021-01-25
+
+### Added
+
+ * feature: #1481 Added new Jetstream 2.0 translation keys
+ * feature: #1485 Add missing tags and translate new tags for Jetstream 2.0
+ * feature: #1488 Add missing tags related to button's labels for mail - team
+ * feature: #1494 Translate subject of Team Invitation email
+ * feature: #1506 Translate cancel button of team invitation
+
+### Changed
+
+ * feature: [ar] #1483 #1486 #1489 #1504 #1508 json file
+ * feature: [bs] #1500 #1505 auth.php passwords.php validation.php
+ * feature: [de] #1493 #1507 auth.php validation.php json file
+ * feature: [el] #1509 json file
+ * feature: [es] #1485 #1487 #1488 #1494 #1506 #1518 validation.php json file
+ * feature: [fr] #1501 json file
+ * feature: [it] #1491 #1502 #1511 json file
+ * feature: [ka] #1497 #1498 #1499 #1503 auth.php passwords.php validation.php
+ * feature: [lt] #1521 json file
+ * feature: [mk] #1521 #1522 auth.php passwords.php validation.php validation-inline.php json file
+ * feature: [nl] #1482 auth.php
+ * feature: [ro] #1517 auth.php
+ * feature: [ru] #1481 #1490 #1515 #1516 validation.php json file
+ * feature: [sl] #1480 excluse file and json file
+ * feature: [sr_Cyrl] #1521 validation-inline.php
+ * feature: [sr_Latn] #1521 validation-inline.php
+ * feature: [sv] #1492 json file
+ * feature: [uk] #1484 auth.php validation.php validation-inline.php json file
+
 ## [8.0.1] - 2021-01-03
 
 ### Added
@@ -184,7 +224,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
  * feature: #1269 Rename locale folders following ISO 15897 format
 
-[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/8.0.1...master
+[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/8.0.3...master
+[8.0.3]: https://github.com/caouecs/Laravel-lang/compare/8.0.2...8.0.3
+[8.0.2]: https://github.com/caouecs/Laravel-lang/compare/8.0.1...8.0.2
 [8.0.1]: https://github.com/caouecs/Laravel-lang/compare/8.0.0...8.0.1
 [8.0.0]: https://github.com/caouecs/Laravel-lang/compare/7.0.9...8.0.0
 [7.0.9]: https://github.com/caouecs/Laravel-lang/compare/7.0.8...7.0.9

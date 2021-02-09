@@ -28,7 +28,7 @@ return [
         'string'  => 'Diese Zeichenkette muss zwischen :min & :max Zeichen lang sein.',
         'array'   => 'Dieser Inhalt muss zwischen :min & :max Elemente haben.',
     ],
-    'boolean'              => "Dieses Feld muss entweder 'true' oder 'false' sein.",
+    'boolean'              => "Dieses Feld muss entweder 'true' (wahr) oder 'false' (falsch) sein.",
     'confirmed'            => 'Die Bestätigung stimmt nicht überein.',
     'date'                 => 'Das ist kein gültiges Datum.',
     'date_equals'          => 'Das Datum muss identisch zu :date sein.',

@@ -14475,8 +14475,6 @@ into your web browser:
 
 All lines are translated 😊
 
-[ [to top](#todo-list) ]
-</details>
 
 ## zh_CN
 

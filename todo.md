@@ -5,10 +5,10 @@
 [de ❗](#de)|[de_CH ❗](#de_CH)|[el ❗](#el)|[es ✔](#es)|[et ❗](#et)|[eu ❗](#eu)|[fa ❗](#fa)|[fi ❗](#fi)|[fil ❗](#fil)|[fr ✔](#fr)
 [gl ❗](#gl)|[he ❗](#he)|[hi ❗](#hi)|[hr ❗](#hr)|[hu ❗](#hu)|[hy ❗](#hy)|[id ❗](#id)|[is ❗](#is)|[it ✔](#it)|[ja ❗](#ja)
 [ka ❗](#ka)|[kk ❗](#kk)|[km ❗](#km)|[kn ❗](#kn)|[ko ✔](#ko)|[lt ❗](#lt)|[lv ❗](#lv)|[mk ✔](#mk)|[mn ❗](#mn)|[mr ❗](#mr)
-[ms ❗](#ms)|[nb ❗](#nb)|[ne ❗](#ne)|[nl ❗](#nl)|[nn ❗](#nn)|[oc ❗](#oc)|[pl ❗](#pl)|[ps ❗](#ps)|[pt ❗](#pt)|[pt_BR ❗](#pt_BR)
+[ms ❗](#ms)|[nb ❗](#nb)|[ne ❗](#ne)|[nl ✔](#nl)|[nn ❗](#nn)|[oc ❗](#oc)|[pl ❗](#pl)|[ps ❗](#ps)|[pt ❗](#pt)|[pt_BR ❗](#pt_BR)
 [ro ❗](#ro)|[ru ✔](#ru)|[sc ❗](#sc)|[si ❗](#si)|[sk ❗](#sk)|[sl ❗](#sl)|[sq ❗](#sq)|[sr_Cyrl ❗](#sr_Cyrl)|[sr_Latn ❗](#sr_Latn)|[sr_Latn_ME ❗](#sr_Latn_ME)
 [sv ❗](#sv)|[sw ❗](#sw)|[tg ❗](#tg)|[th ❗](#th)|[tk ❗](#tk)|[tl ❗](#tl)|[tr ❗](#tr)|[ug ❗](#ug)|[uk ❗](#uk)|[ur ❗](#ur)
-[uz_Cyrl ❗](#uz_Cyrl)|[uz_Latn ❗](#uz_Latn)|[vi ❗](#vi)|[zh_CN ✔](#zh_CN)|[zh_HK ✔](#zh_HK)|[zh_TW ✔](#zh_TW)
+[uz_Cyrl ❗](#uz_Cyrl)|[uz_Latn ❗](#uz_Latn)|[vi ✔](#vi)|[zh_CN ✔](#zh_CN)|[zh_HK ✔](#zh_HK)|[zh_TW ✔](#zh_TW)
 
 
 
@@ -8905,28 +8905,9 @@ into your web browser:
 
 ## nl
 
-<details>
-<summary>show<small> (all missing: 16, including not present: 16)</small></summary>
 
- * json : Accept Invitation : not present
- * json : Cancel : not present
- * json : Create Account : not present
- * json : Great! You have accepted the invitation to join the :team team. : not present
- * json : I agree to the :terms_of_service and :privacy_policy : not present
- * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
- * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
- * json : If you do not have an account, you may create one by clicking the button below. After creating an account, you may click the invitation acceptance button in this email to accept the team invitation: : not present
- * json : Pending Team Invitations : not present
- * json : Please provide the email address of the person you would like to add to this team. : not present
- * json : Privacy Policy : not present
- * json : Team Invitation : not present
- * json : Terms of Service : not present
- * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
- * json : This user has already been invited to the team. : not present
- * json : You have been invited to join the :team team! : not present
+All lines are translated 😊
 
-[ [to top](#todo-list) ]
-</details>
 
 ## nn
 
@@ -14491,29 +14472,9 @@ into your web browser:
 
 ## vi
 
-<details>
-<summary>show<small> (all missing: 17, including not present: 17)</small></summary>
 
- * json : Accept Invitation : not present
- * json : Cancel : not present
- * json : Create Account : not present
- * json : Great! You have accepted the invitation to join the :team team. : not present
- * json : I agree to the :terms_of_service and :privacy_policy : not present
- * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
- * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
- * json : If you do not have an account, you may create one by clicking the button below. After creating an account, you may click the invitation acceptance button in this email to accept the team invitation: : not present
- * json : Pending Team Invitations : not present
- * json : Please provide the email address of the person you would like to add to this team. : not present
- * json : Privacy Policy : not present
- * json : Team Invitation : not present
- * json : Terms of Service : not present
- * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
- * json : This is a secure area of the application. Please confirm your password before continuing. : not present
- * json : This user has already been invited to the team. : not present
- * json : You have been invited to join the :team team! : not present
+All lines are translated 😊
 
-[ [to top](#todo-list) ]
-</details>
 
 ## zh_CN
 

@@ -176,5 +176,8 @@ return [
         'size'                  => 'اندازه',
         'terms'                 => 'شرایط',
         'province'              => 'استان',
+        'district'              => 'ناحیه',
+        'area'                  => 'منطقه',
+        'national_code'         => 'کد ملی',
     ],
 ];

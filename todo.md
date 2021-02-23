@@ -2620,21 +2620,10 @@ into your web browser:
 ## de
 
 <details>
-<summary>show<small> (all missing: 13, including not present: 13)</small></summary>
+<summary>show<small> (all missing: 2, including not present: 2)</small></summary>
 
- * json : Accept Invitation : not present
- * json : Cancel : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
- * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
- * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
- * json : If you do not have an account, you may create one by clicking the button below. After creating an account, you may click the invitation acceptance button in this email to accept the team invitation: : not present
- * json : Pending Team Invitations : not present
- * json : Please provide the email address of the person you would like to add to this team. : not present
- * json : Team Invitation : not present
  * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
- * json : This is a secure area of the application. Please confirm your password before continuing. : not present
- * json : This user has already been invited to the team. : not present
- * json : You have been invited to join the :team team! : not present
 
 [ [to top](#todo-list) ]
 </details>

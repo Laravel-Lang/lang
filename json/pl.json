@@ -188,5 +188,15 @@
     "If you already have an account, you may accept this invitation by clicking the button below:": "Jeśli masz już konto, możesz przyjąć zaproszenie, klikając poniższy przycisk:",
     "If you did not expect to receive an invitation to this team, you may discard this email.": "Jeśli nie spodziewałeś się zaproszenia do tego zespołu, możesz wyrzucić tę wiadomość.",
     "If you do not have an account, you may create one by clicking the button below. After creating an account, you may click the invitation acceptance button in this email to accept the team invitation:": "Jeśli nie masz konta, możesz je utworzyć, klikając przycisk poniżej. Po utworzeniu konta możesz kliknąć przycisk akceptacji zaproszenia w tej wiadomości e-mail, aby zaakceptować zaproszenie do zespołu:",
+    "Pending Team Invitations": "Oczekujące zaproszenia do zespołu",
+    "Please provide the email address of the person you would like to add to this team.": "Podaj adres e-mail osoby, którą chcesz dodać do tego zespołu.",
+    "Privacy Policy": "Polityka prywatności",
+    "Team Invitation": "Zaproszenie do zespołu",
+    "Terms of Service": "Warunki korzystania z usługi",
+    "These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation.": "Osoby te zostały zaproszone do Twojego zespołu i został wysłany e-mail z zaproszeniem. Mogą dołączyć do zespołu, akceptując zaproszenie e-mail.",
+    "This is a secure area of the application. Please confirm your password before continuing.": "To jest bezpieczny obszar aplikacji. Proszę potwierdzić hasło, aby kontynuować.",
+    "This user has already been invited to the team.": "Ten użytkownik został już zaproszony do zespołu.",
+    "You have been invited to join the :team team!": "Zostałeś zaproszony do zespołu :team!",
+    "password": "hasło",
     "Your email address is not verified.": "Twój adres email nie jest zweryfikowany."
 }

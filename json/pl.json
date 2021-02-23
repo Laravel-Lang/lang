@@ -181,5 +181,12 @@
     "You may delete any of your existing tokens if they are no longer needed.": "Możesz usunąć niektóre z istniejących tokenów, jeżeli nie są już potrzebne.",
     "You may not delete your personal team.": "Nie możesz usunąć swojego osobistego zespołu.",
     "You may not leave a team that you created.": "Nie możesz opuścić zespołu, które stworzyłeś",
+    "Cancel": "Anuluj",
+    "Accept Invitation": "Przyjmij zaproszenie",
+    "Great! You have accepted the invitation to join the :team team.": "Świetny! Zaakceptowałeś zaproszenie do zespołu :team.",
+    "I agree to the :terms_of_service and :privacy_policy": "Wyrażam zgodę na :terms_of_service i :privacy_policy",
+    "If you already have an account, you may accept this invitation by clicking the button below:": "Jeśli masz już konto, możesz przyjąć zaproszenie, klikając poniższy przycisk:",
+    "If you did not expect to receive an invitation to this team, you may discard this email.": "Jeśli nie spodziewałeś się zaproszenia do tego zespołu, możesz wyrzucić tę wiadomość.",
+    "If you do not have an account, you may create one by clicking the button below. After creating an account, you may click the invitation acceptance button in this email to accept the team invitation:": "Jeśli nie masz konta, możesz je utworzyć, klikając przycisk poniżej. Po utworzeniu konta możesz kliknąć przycisk akceptacji zaproszenia w tej wiadomości e-mail, aby zaakceptować zaproszenie do zespołu:",
     "Your email address is not verified.": "Twój adres email nie jest zweryfikowany."
 }

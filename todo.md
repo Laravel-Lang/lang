@@ -1,28 +1,38 @@
 # Todo list
 | | | | | | | | | | |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-[ar ✔](#ar)|[az ❗](#az)|[be ❗](#be)|[bg ❗](#bg)|[bn ❗](#bn)|[bs ❗](#bs)|[ca ❗](#ca)|[cs ❗](#cs)|[cy ❗](#cy)|[da ❗](#da)
-[de ❗](#de)|[de_CH ❗](#de_CH)|[el ❗](#el)|[es ✔](#es)|[et ❗](#et)|[eu ❗](#eu)|[fa ❗](#fa)|[fi ❗](#fi)|[fil ❗](#fil)|[fr ✔](#fr)
-[gl ❗](#gl)|[he ❗](#he)|[hi ❗](#hi)|[hr ❗](#hr)|[hu ❗](#hu)|[hy ❗](#hy)|[id ❗](#id)|[is ❗](#is)|[it ✔](#it)|[ja ❗](#ja)
-[ka ❗](#ka)|[kk ❗](#kk)|[km ❗](#km)|[kn ❗](#kn)|[ko ✔](#ko)|[lt ❗](#lt)|[lv ❗](#lv)|[mk ✔](#mk)|[mn ❗](#mn)|[mr ❗](#mr)
-[ms ❗](#ms)|[nb ❗](#nb)|[ne ❗](#ne)|[nl ✔](#nl)|[nn ❗](#nn)|[oc ❗](#oc)|[pl ✔](#pl)|[ps ❗](#ps)|[pt ❗](#pt)|[pt_BR ❗](#pt_BR)
-[ro ❗](#ro)|[ru ✔](#ru)|[sc ❗](#sc)|[si ❗](#si)|[sk ❗](#sk)|[sl ❗](#sl)|[sq ❗](#sq)|[sr_Cyrl ❗](#sr_Cyrl)|[sr_Latn ❗](#sr_Latn)|[sr_Latn_ME ❗](#sr_Latn_ME)
+[ar ❗](#ar)|[az ❗](#az)|[be ❗](#be)|[bg ❗](#bg)|[bn ❗](#bn)|[bs ❗](#bs)|[ca ❗](#ca)|[cs ❗](#cs)|[cy ❗](#cy)|[da ❗](#da)
+[de ❗](#de)|[de_CH ❗](#de_CH)|[el ❗](#el)|[es ✔](#es)|[et ❗](#et)|[eu ❗](#eu)|[fa ❗](#fa)|[fi ❗](#fi)|[fil ❗](#fil)|[fr ❗](#fr)
+[gl ❗](#gl)|[he ❗](#he)|[hi ❗](#hi)|[hr ❗](#hr)|[hu ❗](#hu)|[hy ❗](#hy)|[id ❗](#id)|[is ❗](#is)|[it ❗](#it)|[ja ❗](#ja)
+[ka ❗](#ka)|[kk ❗](#kk)|[km ❗](#km)|[kn ❗](#kn)|[ko ❗](#ko)|[lt ❗](#lt)|[lv ❗](#lv)|[mk ❗](#mk)|[mn ❗](#mn)|[mr ❗](#mr)
+[ms ❗](#ms)|[nb ❗](#nb)|[ne ❗](#ne)|[nl ❗](#nl)|[nn ❗](#nn)|[oc ❗](#oc)|[pl ❗](#pl)|[ps ❗](#ps)|[pt ❗](#pt)|[pt_BR ❗](#pt_BR)
+[ro ❗](#ro)|[ru ❗](#ru)|[sc ❗](#sc)|[si ❗](#si)|[sk ❗](#sk)|[sl ❗](#sl)|[sq ❗](#sq)|[sr_Cyrl ❗](#sr_Cyrl)|[sr_Latn ❗](#sr_Latn)|[sr_Latn_ME ❗](#sr_Latn_ME)
 [sv ❗](#sv)|[sw ❗](#sw)|[tg ❗](#tg)|[th ❗](#th)|[tk ❗](#tk)|[tl ❗](#tl)|[tr ❗](#tr)|[ug ❗](#ug)|[uk ❗](#uk)|[ur ❗](#ur)
-[uz_Cyrl ❗](#uz_Cyrl)|[uz_Latn ❗](#uz_Latn)|[vi ✔](#vi)|[zh_CN ✔](#zh_CN)|[zh_HK ✔](#zh_HK)|[zh_TW ✔](#zh_TW)
+[uz_Cyrl ❗](#uz_Cyrl)|[uz_Latn ❗](#uz_Latn)|[vi ❗](#vi)|[zh_CN ❗](#zh_CN)|[zh_HK ❗](#zh_HK)|[zh_TW ❗](#zh_TW)
 
 
 
 
 ## ar
 
+<details>
+<summary>show<small> (all missing: 7, including not present: 7)</small></summary>
 
-All lines are translated 😊
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## az
 
 <details>
-<summary>show<small> (all missing: 303, including not present: 18)</small></summary>
+<summary>show<small> (all missing: 310, including not present: 25)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -86,6 +96,7 @@ All lines are translated 😊
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -100,10 +111,15 @@ into your web browser:
  * json : Last used
  * json : Leave Team
  * json : Leave
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Login
- * json : Logout Other Browser Sessions
  * json : Logout
+ * json : Logout Other Browser Sessions
  * json : Manage Account
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices.
  * json : Manage API Tokens
  * json : Manage Role
@@ -129,6 +145,7 @@ into your web browser:
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again.
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -335,7 +352,7 @@ into your web browser:
 ## be
 
 <details>
-<summary>show<small> (all missing: 313, including not present: 18)</small></summary>
+<summary>show<small> (all missing: 320, including not present: 25)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -399,6 +416,7 @@ into your web browser:
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -413,10 +431,15 @@ into your web browser:
  * json : Last used
  * json : Leave Team
  * json : Leave
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Login
- * json : Logout Other Browser Sessions
  * json : Logout
+ * json : Logout Other Browser Sessions
  * json : Manage Account
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices.
  * json : Manage API Tokens
  * json : Manage Role
@@ -442,6 +465,7 @@ into your web browser:
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again.
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -658,7 +682,7 @@ into your web browser:
 ## bg
 
 <details>
-<summary>show<small> (all missing: 281, including not present: 18)</small></summary>
+<summary>show<small> (all missing: 288, including not present: 25)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -722,6 +746,7 @@ into your web browser:
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -736,10 +761,15 @@ into your web browser:
  * json : Last used
  * json : Leave Team
  * json : Leave
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Login
- * json : Logout Other Browser Sessions
  * json : Logout
+ * json : Logout Other Browser Sessions
  * json : Manage Account
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices.
  * json : Manage API Tokens
  * json : Manage Role
@@ -765,6 +795,7 @@ into your web browser:
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again.
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -949,7 +980,7 @@ into your web browser:
 ## bn
 
 <details>
-<summary>show<small> (all missing: 303, including not present: 18)</small></summary>
+<summary>show<small> (all missing: 310, including not present: 25)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -1013,6 +1044,7 @@ into your web browser:
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -1027,10 +1059,15 @@ into your web browser:
  * json : Last used
  * json : Leave Team
  * json : Leave
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Login
- * json : Logout Other Browser Sessions
  * json : Logout
+ * json : Logout Other Browser Sessions
  * json : Manage Account
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices.
  * json : Manage API Tokens
  * json : Manage Role
@@ -1056,6 +1093,7 @@ into your web browser:
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again.
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -1262,7 +1300,7 @@ into your web browser:
 ## bs
 
 <details>
-<summary>show<small> (all missing: 278, including not present: 17)</small></summary>
+<summary>show<small> (all missing: 285, including not present: 24)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -1326,6 +1364,7 @@ into your web browser:
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -1340,10 +1379,15 @@ into your web browser:
  * json : Last used
  * json : Leave Team
  * json : Leave
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Login
- * json : Logout Other Browser Sessions
  * json : Logout
+ * json : Logout Other Browser Sessions
  * json : Manage Account
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices.
  * json : Manage API Tokens
  * json : Manage Role
@@ -1369,6 +1413,7 @@ into your web browser:
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again.
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -1550,7 +1595,7 @@ into your web browser:
 ## ca
 
 <details>
-<summary>show<small> (all missing: 237, including not present: 18)</small></summary>
+<summary>show<small> (all missing: 244, including not present: 25)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -1604,6 +1649,7 @@ into your web browser:
  * json : Go to page :page
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
@@ -1612,8 +1658,13 @@ into your web browser:
  * json : Last used
  * json : Leave Team
  * json : Leave
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Logout Other Browser Sessions
  * json : Manage Account
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices.
  * json : Manage API Tokens
  * json : Manage Role
@@ -1632,6 +1683,7 @@ into your web browser:
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please copy your new API token. For your security, it won't be shown again.
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -1796,7 +1848,7 @@ into your web browser:
 ## cs
 
 <details>
-<summary>show<small> (all missing: 239, including not present: 18)</small></summary>
+<summary>show<small> (all missing: 246, including not present: 25)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -1850,6 +1902,7 @@ into your web browser:
  * json : Go to page :page
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
@@ -1858,8 +1911,13 @@ into your web browser:
  * json : Last used
  * json : Leave Team
  * json : Leave
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Logout Other Browser Sessions
  * json : Manage Account
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices.
  * json : Manage API Tokens
  * json : Manage Role
@@ -1879,6 +1937,7 @@ into your web browser:
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again.
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -2044,7 +2103,7 @@ into your web browser:
 ## cy
 
 <details>
-<summary>show<small> (all missing: 318, including not present: 18)</small></summary>
+<summary>show<small> (all missing: 325, including not present: 25)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -2108,6 +2167,7 @@ into your web browser:
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -2122,10 +2182,15 @@ into your web browser:
  * json : Last used
  * json : Leave Team
  * json : Leave
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Login
- * json : Logout Other Browser Sessions
  * json : Logout
+ * json : Logout Other Browser Sessions
  * json : Manage Account
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices.
  * json : Manage API Tokens
  * json : Manage Role
@@ -2151,6 +2216,7 @@ into your web browser:
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again.
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -2372,7 +2438,7 @@ into your web browser:
 ## da
 
 <details>
-<summary>show<small> (all missing: 239, including not present: 18)</small></summary>
+<summary>show<small> (all missing: 246, including not present: 25)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -2426,6 +2492,7 @@ into your web browser:
  * json : Go to page :page
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
@@ -2434,8 +2501,13 @@ into your web browser:
  * json : Last used
  * json : Leave Team
  * json : Leave
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Logout Other Browser Sessions
  * json : Manage Account
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices.
  * json : Manage API Tokens
  * json : Manage Role
@@ -2455,6 +2527,7 @@ into your web browser:
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please copy your new API token. For your security, it won't be shown again.
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -2620,9 +2693,16 @@ into your web browser:
 ## de
 
 <details>
-<summary>show<small> (all missing: 2, including not present: 2)</small></summary>
+<summary>show<small> (all missing: 9, including not present: 9)</small></summary>
 
  * json : Great! You have accepted the invitation to join the :team team. : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
 
 [ [to top](#todo-list) ]
@@ -2631,7 +2711,7 @@ into your web browser:
 ## de_CH
 
 <details>
-<summary>show<small> (all missing: 146, including not present: 18)</small></summary>
+<summary>show<small> (all missing: 153, including not present: 25)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -2685,6 +2765,7 @@ into your web browser:
  * json : Go to page :page
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
@@ -2693,8 +2774,13 @@ into your web browser:
  * json : Last used
  * json : Leave Team
  * json : Leave
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Logout Other Browser Sessions
  * json : Manage Account
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices.
  * json : Manage API Tokens
  * json : Manage Role
@@ -2714,6 +2800,7 @@ into your web browser:
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please copy your new API token. For your security, it won't be shown again.
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -2786,7 +2873,7 @@ into your web browser:
 ## el
 
 <details>
-<summary>show<small> (all missing: 222, including not present: 18)</small></summary>
+<summary>show<small> (all missing: 229, including not present: 25)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you.
@@ -2835,6 +2922,7 @@ into your web browser:
  * json : Go to page :page
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
@@ -2844,8 +2932,13 @@ into your web browser:
  * json : Last used
  * json : Leave Team
  * json : Leave
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Logout Other Browser Sessions
  * json : Manage Account
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices.
  * json : Manage API Tokens
  * json : Manage Role
@@ -2865,6 +2958,7 @@ into your web browser:
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please copy your new API token. For your security, it won't be shown again.
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -3023,7 +3117,7 @@ All lines are translated 😊
 ## et
 
 <details>
-<summary>show<small> (all missing: 283, including not present: 18)</small></summary>
+<summary>show<small> (all missing: 290, including not present: 25)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -3087,6 +3181,7 @@ All lines are translated 😊
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -3101,10 +3196,15 @@ into your web browser:
  * json : Last used
  * json : Leave Team
  * json : Leave
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Login
- * json : Logout Other Browser Sessions
  * json : Logout
+ * json : Logout Other Browser Sessions
  * json : Manage Account
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices.
  * json : Manage API Tokens
  * json : Manage Role
@@ -3130,6 +3230,7 @@ into your web browser:
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again.
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -3316,7 +3417,7 @@ into your web browser:
 ## eu
 
 <details>
-<summary>show<small> (all missing: 248, including not present: 29)</small></summary>
+<summary>show<small> (all missing: 255, including not present: 36)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -3370,6 +3471,7 @@ into your web browser:
  * json : Go to page :page
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
@@ -3379,8 +3481,13 @@ into your web browser:
  * json : Last used
  * json : Leave Team
  * json : Leave
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Logout Other Browser Sessions
  * json : Manage Account
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices.
  * json : Manage API Tokens
  * json : Manage Role
@@ -3401,6 +3508,7 @@ into your web browser:
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing. : not present
  * json : Please copy your new API token. For your security, it won't be shown again.
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -3573,17 +3681,24 @@ into your web browser:
 ## fa
 
 <details>
-<summary>show<small> (all missing: 16, including not present: 16)</small></summary>
+<summary>show<small> (all missing: 23, including not present: 23)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Cancel : not present
  * json : Create Account : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
  * json : If you do not have an account, you may create one by clicking the button below. After creating an account, you may click the invitation acceptance button in this email to accept the team invitation: : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Pending Team Invitations : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
  * json : Team Invitation : not present
@@ -3598,7 +3713,7 @@ into your web browser:
 ## fi
 
 <details>
-<summary>show<small> (all missing: 274, including not present: 165)</small></summary>
+<summary>show<small> (all missing: 281, including not present: 172)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -3661,6 +3776,7 @@ into your web browser:
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required. : not present
@@ -3672,10 +3788,15 @@ into your web browser:
  * json : Last used : not present
  * json : Leave Team : not present
  * json : Leave : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Login : not present
- * json : Logout Other Browser Sessions : not present
  * json : Logout : not present
+ * json : Logout Other Browser Sessions : not present
  * json : Manage Account : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices. : not present
  * json : Manage API Tokens : not present
  * json : Manage Role : not present
@@ -3701,6 +3822,7 @@ into your web browser:
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing. : not present
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -3881,7 +4003,7 @@ into your web browser:
 ## fil
 
 <details>
-<summary>show<small> (all missing: 291, including not present: 190)</small></summary>
+<summary>show<small> (all missing: 298, including not present: 197)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration. : not present
@@ -3945,6 +4067,7 @@ into your web browser:
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello! : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required. : not present
@@ -3959,10 +4082,15 @@ into your web browser: : not present
  * json : Last used : not present
  * json : Leave Team : not present
  * json : Leave : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Login : not present
- * json : Logout Other Browser Sessions : not present
  * json : Logout : not present
+ * json : Logout Other Browser Sessions : not present
  * json : Manage Account : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices. : not present
  * json : Manage API Tokens : not present
  * json : Manage Role : not present
@@ -3988,6 +4116,7 @@ into your web browser: : not present
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application. : not present
  * json : Please confirm your password before continuing. : not present
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -4181,14 +4310,24 @@ into your web browser: : not present
 
 ## fr
 
+<details>
+<summary>show<small> (all missing: 7, including not present: 7)</small></summary>
 
-All lines are translated 😊
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## gl
 
 <details>
-<summary>show<small> (all missing: 246, including not present: 137)</small></summary>
+<summary>show<small> (all missing: 253, including not present: 144)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -4242,6 +4381,7 @@ All lines are translated 😊
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
@@ -4251,8 +4391,13 @@ All lines are translated 😊
  * json : Last used : not present
  * json : Leave Team : not present
  * json : Leave : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Logout Other Browser Sessions : not present
  * json : Manage Account : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices. : not present
  * json : Manage API Tokens : not present
  * json : Manage Role : not present
@@ -4273,6 +4418,7 @@ All lines are translated 😊
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing. : not present
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -4443,7 +4589,7 @@ All lines are translated 😊
 ## he
 
 <details>
-<summary>show<small> (all missing: 239, including not present: 131)</small></summary>
+<summary>show<small> (all missing: 246, including not present: 138)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -4497,6 +4643,7 @@ All lines are translated 😊
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
@@ -4505,8 +4652,13 @@ All lines are translated 😊
  * json : Last used : not present
  * json : Leave Team : not present
  * json : Leave : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Logout Other Browser Sessions : not present
  * json : Manage Account : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices. : not present
  * json : Manage API Tokens : not present
  * json : Manage Role : not present
@@ -4526,6 +4678,7 @@ All lines are translated 😊
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing. : not present
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -4691,7 +4844,7 @@ All lines are translated 😊
 ## hi
 
 <details>
-<summary>show<small> (all missing: 295, including not present: 127)</small></summary>
+<summary>show<small> (all missing: 302, including not present: 134)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -4755,6 +4908,7 @@ All lines are translated 😊
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -4769,10 +4923,15 @@ into your web browser:
  * json : Last used : not present
  * json : Leave Team : not present
  * json : Leave : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Login
- * json : Logout Other Browser Sessions : not present
  * json : Logout
+ * json : Logout Other Browser Sessions : not present
  * json : Manage Account : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices. : not present
  * json : Manage API Tokens : not present
  * json : Manage Role : not present
@@ -4798,6 +4957,7 @@ into your web browser:
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -4996,7 +5156,7 @@ into your web browser:
 ## hr
 
 <details>
-<summary>show<small> (all missing: 268, including not present: 159)</small></summary>
+<summary>show<small> (all missing: 275, including not present: 166)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -5057,6 +5217,7 @@ into your web browser:
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello! : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required. : not present
@@ -5070,8 +5231,13 @@ into your web browser: : not present
  * json : Last used : not present
  * json : Leave Team : not present
  * json : Leave : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Logout Other Browser Sessions : not present
  * json : Manage Account : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices. : not present
  * json : Manage API Tokens : not present
  * json : Manage Role : not present
@@ -5095,6 +5261,7 @@ into your web browser: : not present
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing. : not present
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -5274,7 +5441,7 @@ into your web browser: : not present
 ## hu
 
 <details>
-<summary>show<small> (all missing: 236, including not present: 129)</small></summary>
+<summary>show<small> (all missing: 243, including not present: 136)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -5328,6 +5495,7 @@ into your web browser: : not present
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
@@ -5336,8 +5504,13 @@ into your web browser: : not present
  * json : Last used : not present
  * json : Leave Team : not present
  * json : Leave : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Logout Other Browser Sessions : not present
  * json : Manage Account : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices. : not present
  * json : Manage API Tokens : not present
  * json : Manage Role : not present
@@ -5356,6 +5529,7 @@ into your web browser: : not present
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -5519,7 +5693,7 @@ into your web browser: : not present
 ## hy
 
 <details>
-<summary>show<small> (all missing: 237, including not present: 130)</small></summary>
+<summary>show<small> (all missing: 244, including not present: 137)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -5573,6 +5747,7 @@ into your web browser: : not present
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
@@ -5583,8 +5758,13 @@ into your web browser: : not present
  * json : Last used : not present
  * json : Leave Team : not present
  * json : Leave : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Logout Other Browser Sessions : not present
  * json : Manage Account : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices. : not present
  * json : Manage API Tokens : not present
  * json : Manage Role : not present
@@ -5603,6 +5783,7 @@ into your web browser: : not present
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -5766,7 +5947,7 @@ into your web browser: : not present
 ## id
 
 <details>
-<summary>show<small> (all missing: 129, including not present: 127)</small></summary>
+<summary>show<small> (all missing: 136, including not present: 134)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -5813,6 +5994,7 @@ into your web browser: : not present
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
@@ -5821,8 +6003,13 @@ into your web browser: : not present
  * json : Last used : not present
  * json : Leave Team : not present
  * json : Leave : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Logout Other Browser Sessions : not present
  * json : Manage Account : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices. : not present
  * json : Manage API Tokens : not present
  * json : Manage Role : not present
@@ -5839,6 +6026,7 @@ into your web browser: : not present
  * json : Permissions : not present
  * json : Photo : not present
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -5904,7 +6092,7 @@ into your web browser: : not present
 ## is
 
 <details>
-<summary>show<small> (all missing: 285, including not present: 127)</small></summary>
+<summary>show<small> (all missing: 292, including not present: 134)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -5968,6 +6156,7 @@ into your web browser: : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -5982,10 +6171,15 @@ into your web browser:
  * json : Last used : not present
  * json : Leave Team : not present
  * json : Leave : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Login
- * json : Logout Other Browser Sessions : not present
  * json : Logout
+ * json : Logout Other Browser Sessions : not present
  * json : Manage Account : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices. : not present
  * json : Manage API Tokens : not present
  * json : Manage Role : not present
@@ -6011,6 +6205,7 @@ into your web browser:
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -6198,14 +6393,24 @@ into your web browser:
 
 ## it
 
+<details>
+<summary>show<small> (all missing: 7, including not present: 7)</small></summary>
 
-All lines are translated 😊
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## ja
 
 <details>
-<summary>show<small> (all missing: 141, including not present: 50)</small></summary>
+<summary>show<small> (all missing: 148, including not present: 57)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Are you sure you would like to leave this team? : not present
@@ -6215,6 +6420,7 @@ All lines are translated 😊
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
  * json : If you do not have an account, you may create one by clicking the button below. After creating an account, you may click the invitation acceptance button in this email to accept the team invitation: : not present
@@ -6222,11 +6428,17 @@ All lines are translated 😊
  * json : Last used : not present
  * json : Leave Team : not present
  * json : Leave : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Not Found : not present
  * json : of : not present
  * json : Pagination Navigation : not present
  * json : Pending Team Invitations : not present
  * json : Please confirm your password before continuing. : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
  * json : results : not present
@@ -6355,7 +6567,7 @@ All lines are translated 😊
 ## ka
 
 <details>
-<summary>show<small> (all missing: 264, including not present: 158)</small></summary>
+<summary>show<small> (all missing: 271, including not present: 165)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -6416,6 +6628,7 @@ All lines are translated 😊
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello! : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required. : not present
@@ -6429,8 +6642,13 @@ into your web browser: : not present
  * json : Last used : not present
  * json : Leave Team : not present
  * json : Leave : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Logout Other Browser Sessions : not present
  * json : Manage Account : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices. : not present
  * json : Manage API Tokens : not present
  * json : Manage Role : not present
@@ -6454,6 +6672,7 @@ into your web browser: : not present
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing. : not present
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -6629,7 +6848,7 @@ into your web browser: : not present
 ## kk
 
 <details>
-<summary>show<small> (all missing: 237, including not present: 129)</small></summary>
+<summary>show<small> (all missing: 244, including not present: 136)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -6683,6 +6902,7 @@ into your web browser: : not present
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
@@ -6691,8 +6911,13 @@ into your web browser: : not present
  * json : Last used : not present
  * json : Leave Team : not present
  * json : Leave : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Logout Other Browser Sessions : not present
  * json : Manage Account : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices. : not present
  * json : Manage API Tokens : not present
  * json : Manage Role : not present
@@ -6711,6 +6936,7 @@ into your web browser: : not present
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -6875,7 +7101,7 @@ into your web browser: : not present
 ## km
 
 <details>
-<summary>show<small> (all missing: 279, including not present: 127)</small></summary>
+<summary>show<small> (all missing: 286, including not present: 134)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -6939,6 +7165,7 @@ into your web browser: : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -6953,10 +7180,15 @@ into your web browser:
  * json : Last used : not present
  * json : Leave Team : not present
  * json : Leave : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Login
- * json : Logout Other Browser Sessions : not present
  * json : Logout
+ * json : Logout Other Browser Sessions : not present
  * json : Manage Account : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices. : not present
  * json : Manage API Tokens : not present
  * json : Manage Role : not present
@@ -6982,6 +7214,7 @@ into your web browser:
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -7164,7 +7397,7 @@ into your web browser:
 ## kn
 
 <details>
-<summary>show<small> (all missing: 247, including not present: 137)</small></summary>
+<summary>show<small> (all missing: 254, including not present: 144)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -7218,6 +7451,7 @@ into your web browser:
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
@@ -7227,8 +7461,13 @@ into your web browser:
  * json : Last used : not present
  * json : Leave Team : not present
  * json : Leave : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Logout Other Browser Sessions : not present
  * json : Manage Account : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices. : not present
  * json : Manage API Tokens : not present
  * json : Manage Role : not present
@@ -7249,6 +7488,7 @@ into your web browser:
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing. : not present
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -7419,24 +7659,41 @@ into your web browser:
 
 ## ko
 
+<details>
+<summary>show<small> (all missing: 7, including not present: 7)</small></summary>
 
-All lines are translated 😊
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## lt
 
 <details>
-<summary>show<small> (all missing: 17, including not present: 17)</small></summary>
+<summary>show<small> (all missing: 24, including not present: 24)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Cancel : not present
  * json : Create Account : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
  * json : If you do not have an account, you may create one by clicking the button below. After creating an account, you may click the invitation acceptance button in this email to accept the team invitation: : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Pending Team Invitations : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
  * json : Team Invitation : not present
@@ -7452,7 +7709,7 @@ All lines are translated 😊
 ## lv
 
 <details>
-<summary>show<small> (all missing: 283, including not present: 127)</small></summary>
+<summary>show<small> (all missing: 290, including not present: 134)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -7516,6 +7773,7 @@ All lines are translated 😊
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -7530,10 +7788,15 @@ into your web browser:
  * json : Last used : not present
  * json : Leave Team : not present
  * json : Leave : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Login
- * json : Logout Other Browser Sessions : not present
  * json : Logout
+ * json : Logout Other Browser Sessions : not present
  * json : Manage Account : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices. : not present
  * json : Manage API Tokens : not present
  * json : Manage Role : not present
@@ -7559,6 +7822,7 @@ into your web browser:
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -7744,14 +8008,24 @@ into your web browser:
 
 ## mk
 
+<details>
+<summary>show<small> (all missing: 7, including not present: 7)</small></summary>
 
-All lines are translated 😊
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## mn
 
 <details>
-<summary>show<small> (all missing: 308, including not present: 127)</small></summary>
+<summary>show<small> (all missing: 315, including not present: 134)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -7815,6 +8089,7 @@ All lines are translated 😊
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -7829,10 +8104,15 @@ into your web browser:
  * json : Last used : not present
  * json : Leave Team : not present
  * json : Leave : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Login
- * json : Logout Other Browser Sessions : not present
  * json : Logout
+ * json : Logout Other Browser Sessions : not present
  * json : Manage Account : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices. : not present
  * json : Manage API Tokens : not present
  * json : Manage Role : not present
@@ -7858,6 +8138,7 @@ into your web browser:
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -8069,7 +8350,7 @@ into your web browser:
 ## mr
 
 <details>
-<summary>show<small> (all missing: 248, including not present: 138)</small></summary>
+<summary>show<small> (all missing: 255, including not present: 145)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -8124,6 +8405,7 @@ into your web browser:
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
@@ -8133,8 +8415,13 @@ into your web browser:
  * json : Last used : not present
  * json : Leave Team : not present
  * json : Leave : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Logout Other Browser Sessions : not present
  * json : Manage Account : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices. : not present
  * json : Manage API Tokens : not present
  * json : Manage Role : not present
@@ -8155,6 +8442,7 @@ into your web browser:
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing. : not present
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -8326,7 +8614,7 @@ into your web browser:
 ## ms
 
 <details>
-<summary>show<small> (all missing: 158, including not present: 139)</small></summary>
+<summary>show<small> (all missing: 165, including not present: 146)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -8380,6 +8668,7 @@ into your web browser:
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
@@ -8389,8 +8678,13 @@ into your web browser:
  * json : Last used : not present
  * json : Leave Team : not present
  * json : Leave : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Logout Other Browser Sessions : not present
  * json : Manage Account : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices. : not present
  * json : Manage API Tokens : not present
  * json : Manage Role : not present
@@ -8411,6 +8705,7 @@ into your web browser:
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing. : not present
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -8493,7 +8788,7 @@ into your web browser:
 ## nb
 
 <details>
-<summary>show<small> (all missing: 238, including not present: 131)</small></summary>
+<summary>show<small> (all missing: 245, including not present: 138)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -8547,6 +8842,7 @@ into your web browser:
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
@@ -8555,8 +8851,13 @@ into your web browser:
  * json : Last used : not present
  * json : Leave Team : not present
  * json : Leave : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Logout Other Browser Sessions : not present
  * json : Manage Account : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices. : not present
  * json : Manage API Tokens : not present
  * json : Manage Role : not present
@@ -8576,6 +8877,7 @@ into your web browser:
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing. : not present
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -8740,7 +9042,7 @@ into your web browser:
 ## ne
 
 <details>
-<summary>show<small> (all missing: 146, including not present: 127)</small></summary>
+<summary>show<small> (all missing: 153, including not present: 134)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -8793,6 +9095,7 @@ into your web browser:
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
@@ -8801,8 +9104,13 @@ into your web browser:
  * json : Last used : not present
  * json : Leave Team : not present
  * json : Leave : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Logout Other Browser Sessions : not present
  * json : Manage Account : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices. : not present
  * json : Manage API Tokens : not present
  * json : Manage Role : not present
@@ -8821,6 +9129,7 @@ into your web browser:
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -8894,14 +9203,24 @@ into your web browser:
 
 ## nl
 
+<details>
+<summary>show<small> (all missing: 7, including not present: 7)</small></summary>
 
-All lines are translated 😊
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## nn
 
 <details>
-<summary>show<small> (all missing: 240, including not present: 131)</small></summary>
+<summary>show<small> (all missing: 247, including not present: 138)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -8955,6 +9274,7 @@ All lines are translated 😊
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
@@ -8963,8 +9283,13 @@ All lines are translated 😊
  * json : Last used : not present
  * json : Leave Team : not present
  * json : Leave : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Logout Other Browser Sessions : not present
  * json : Manage Account : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices. : not present
  * json : Manage API Tokens : not present
  * json : Manage Role : not present
@@ -8984,6 +9309,7 @@ All lines are translated 😊
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing. : not present
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -9150,7 +9476,7 @@ All lines are translated 😊
 ## oc
 
 <details>
-<summary>show<small> (all missing: 190, including not present: 16)</small></summary>
+<summary>show<small> (all missing: 197, including not present: 23)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -9214,6 +9540,7 @@ All lines are translated 😊
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -9228,10 +9555,15 @@ into your web browser:
  * json : Last used
  * json : Leave Team
  * json : Leave
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Login
- * json : Logout Other Browser Sessions
  * json : Logout
+ * json : Logout Other Browser Sessions
  * json : Manage Account
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices.
  * json : Manage API Tokens
  * json : Manage Role
@@ -9257,6 +9589,7 @@ into your web browser:
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again.
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -9349,14 +9682,24 @@ into your web browser:
 
 ## pl
 
+<details>
+<summary>show<small> (all missing: 7, including not present: 7)</small></summary>
 
-All lines are translated 😊
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## ps
 
 <details>
-<summary>show<small> (all missing: 248, including not present: 138)</small></summary>
+<summary>show<small> (all missing: 255, including not present: 145)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -9410,6 +9753,7 @@ All lines are translated 😊
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
@@ -9419,8 +9763,13 @@ All lines are translated 😊
  * json : Last used : not present
  * json : Leave Team : not present
  * json : Leave : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Logout Other Browser Sessions : not present
  * json : Manage Account : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices. : not present
  * json : Manage API Tokens : not present
  * json : Manage Role : not present
@@ -9441,6 +9790,7 @@ All lines are translated 😊
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing. : not present
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -9613,17 +9963,24 @@ All lines are translated 😊
 ## pt
 
 <details>
-<summary>show<small> (all missing: 20, including not present: 18)</small></summary>
+<summary>show<small> (all missing: 27, including not present: 25)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Cancel : not present
  * json : Create Account : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
  * json : If you do not have an account, you may create one by clicking the button below. After creating an account, you may click the invitation acceptance button in this email to accept the team invitation: : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Pending Team Invitations : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
  * json : Team Invitation : not present
@@ -9642,7 +9999,7 @@ All lines are translated 😊
 ## pt_BR
 
 <details>
-<summary>show<small> (all missing: 21, including not present: 18)</small></summary>
+<summary>show<small> (all missing: 28, including not present: 25)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Cancel : not present
@@ -9650,10 +10007,17 @@ All lines are translated 😊
  * json : Editor
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
  * json : If you do not have an account, you may create one by clicking the button below. After creating an account, you may click the invitation acceptance button in this email to accept the team invitation: : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Pending Team Invitations : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
  * json : Team Invitation : not present
@@ -9672,7 +10036,7 @@ All lines are translated 😊
 ## ro
 
 <details>
-<summary>show<small> (all missing: 236, including not present: 128)</small></summary>
+<summary>show<small> (all missing: 243, including not present: 135)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -9726,6 +10090,7 @@ All lines are translated 😊
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
@@ -9734,8 +10099,13 @@ All lines are translated 😊
  * json : Last used : not present
  * json : Leave Team : not present
  * json : Leave : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Logout Other Browser Sessions : not present
  * json : Manage Account : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices. : not present
  * json : Manage API Tokens : not present
  * json : Manage Role : not present
@@ -9754,6 +10124,7 @@ All lines are translated 😊
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -9916,14 +10287,24 @@ All lines are translated 😊
 
 ## ru
 
+<details>
+<summary>show<small> (all missing: 7, including not present: 7)</small></summary>
 
-All lines are translated 😊
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## sc
 
 <details>
-<summary>show<small> (all missing: 318, including not present: 127)</small></summary>
+<summary>show<small> (all missing: 325, including not present: 134)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -9987,6 +10368,7 @@ All lines are translated 😊
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -10001,10 +10383,15 @@ into your web browser:
  * json : Last used : not present
  * json : Leave Team : not present
  * json : Leave : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Login
- * json : Logout Other Browser Sessions : not present
  * json : Logout
+ * json : Logout Other Browser Sessions : not present
  * json : Manage Account : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices. : not present
  * json : Manage API Tokens : not present
  * json : Manage Role : not present
@@ -10030,6 +10417,7 @@ into your web browser:
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -10251,7 +10639,7 @@ into your web browser:
 ## si
 
 <details>
-<summary>show<small> (all missing: 282, including not present: 127)</small></summary>
+<summary>show<small> (all missing: 289, including not present: 134)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -10315,6 +10703,7 @@ into your web browser:
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -10329,10 +10718,15 @@ into your web browser:
  * json : Last used : not present
  * json : Leave Team : not present
  * json : Leave : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Login
- * json : Logout Other Browser Sessions : not present
  * json : Logout
+ * json : Logout Other Browser Sessions : not present
  * json : Manage Account : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices. : not present
  * json : Manage API Tokens : not present
  * json : Manage Role : not present
@@ -10358,6 +10752,7 @@ into your web browser:
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -10543,7 +10938,7 @@ into your web browser:
 ## sk
 
 <details>
-<summary>show<small> (all missing: 235, including not present: 129)</small></summary>
+<summary>show<small> (all missing: 242, including not present: 136)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -10596,6 +10991,7 @@ into your web browser:
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
@@ -10604,8 +11000,13 @@ into your web browser:
  * json : Last used : not present
  * json : Leave Team : not present
  * json : Leave : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Logout Other Browser Sessions : not present
  * json : Manage Account : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices. : not present
  * json : Manage API Tokens : not present
  * json : Manage Role : not present
@@ -10624,6 +11025,7 @@ into your web browser:
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -10787,17 +11189,24 @@ into your web browser:
 ## sl
 
 <details>
-<summary>show<small> (all missing: 16, including not present: 16)</small></summary>
+<summary>show<small> (all missing: 23, including not present: 23)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Cancel : not present
  * json : Create Account : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
  * json : If you do not have an account, you may create one by clicking the button below. After creating an account, you may click the invitation acceptance button in this email to accept the team invitation: : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Pending Team Invitations : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
  * json : Team Invitation : not present
@@ -10812,7 +11221,7 @@ into your web browser:
 ## sq
 
 <details>
-<summary>show<small> (all missing: 192, including not present: 127)</small></summary>
+<summary>show<small> (all missing: 199, including not present: 134)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -10876,6 +11285,7 @@ into your web browser:
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -10890,10 +11300,15 @@ into your web browser:
  * json : Last used : not present
  * json : Leave Team : not present
  * json : Leave : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Login
- * json : Logout Other Browser Sessions : not present
  * json : Logout
+ * json : Logout Other Browser Sessions : not present
  * json : Manage Account : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices. : not present
  * json : Manage API Tokens : not present
  * json : Manage Role : not present
@@ -10919,6 +11334,7 @@ into your web browser:
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -11014,7 +11430,7 @@ into your web browser:
 ## sr_Cyrl
 
 <details>
-<summary>show<small> (all missing: 31, including not present: 29)</small></summary>
+<summary>show<small> (all missing: 38, including not present: 36)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Administrator users can perform any action. : not present
@@ -11026,12 +11442,19 @@ into your web browser:
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
  * json : If you do not have an account, you may create one by clicking the button below. After creating an account, you may click the invitation acceptance button in this email to accept the team invitation: : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : of : not present
  * json : Pagination Navigation : not present
  * json : Pending Team Invitations : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
  * json : results : not present
@@ -11054,7 +11477,7 @@ into your web browser:
 ## sr_Latn
 
 <details>
-<summary>show<small> (all missing: 31, including not present: 29)</small></summary>
+<summary>show<small> (all missing: 38, including not present: 36)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Administrator users can perform any action. : not present
@@ -11066,12 +11489,19 @@ into your web browser:
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
  * json : If you do not have an account, you may create one by clicking the button below. After creating an account, you may click the invitation acceptance button in this email to accept the team invitation: : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : of : not present
  * json : Pagination Navigation : not present
  * json : Pending Team Invitations : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
  * json : results : not present
@@ -11094,7 +11524,7 @@ into your web browser:
 ## sr_Latn_ME
 
 <details>
-<summary>show<small> (all missing: 278, including not present: 126)</small></summary>
+<summary>show<small> (all missing: 285, including not present: 133)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -11158,6 +11588,7 @@ into your web browser:
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -11172,10 +11603,15 @@ into your web browser:
  * json : Last used : not present
  * json : Leave Team : not present
  * json : Leave : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Login
- * json : Logout Other Browser Sessions : not present
  * json : Logout
+ * json : Logout Other Browser Sessions : not present
  * json : Manage Account : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices. : not present
  * json : Manage API Tokens : not present
  * json : Manage Role : not present
@@ -11201,6 +11637,7 @@ into your web browser:
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -11382,7 +11819,7 @@ into your web browser:
 ## sv
 
 <details>
-<summary>show<small> (all missing: 198, including not present: 100)</small></summary>
+<summary>show<small> (all missing: 205, including not present: 107)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -11419,12 +11856,18 @@ into your web browser:
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
  * json : If you do not have an account, you may create one by clicking the button below. After creating an account, you may click the invitation acceptance button in this email to accept the team invitation: : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Logout Other Browser Sessions : not present
  * json : Manage Account : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices. : not present
  * json : Manage API Tokens : not present
  * json : Manage Role : not present
@@ -11441,6 +11884,7 @@ into your web browser:
  * json : Please confirm access to your account by entering one of your emergency recovery codes.
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -11589,7 +12033,7 @@ into your web browser:
 ## sw
 
 <details>
-<summary>show<small> (all missing: 283, including not present: 127)</small></summary>
+<summary>show<small> (all missing: 290, including not present: 134)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -11653,6 +12097,7 @@ into your web browser:
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -11667,10 +12112,15 @@ into your web browser:
  * json : Last used : not present
  * json : Leave Team : not present
  * json : Leave : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Login
- * json : Logout Other Browser Sessions : not present
  * json : Logout
+ * json : Logout Other Browser Sessions : not present
  * json : Manage Account : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices. : not present
  * json : Manage API Tokens : not present
  * json : Manage Role : not present
@@ -11696,6 +12146,7 @@ into your web browser:
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -11882,7 +12333,7 @@ into your web browser:
 ## tg
 
 <details>
-<summary>show<small> (all missing: 305, including not present: 127)</small></summary>
+<summary>show<small> (all missing: 312, including not present: 134)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -11946,6 +12397,7 @@ into your web browser:
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -11960,10 +12412,15 @@ into your web browser:
  * json : Last used : not present
  * json : Leave Team : not present
  * json : Leave : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Login
- * json : Logout Other Browser Sessions : not present
  * json : Logout
+ * json : Logout Other Browser Sessions : not present
  * json : Manage Account : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices. : not present
  * json : Manage API Tokens : not present
  * json : Manage Role : not present
@@ -11989,6 +12446,7 @@ into your web browser:
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -12197,7 +12655,7 @@ into your web browser:
 ## th
 
 <details>
-<summary>show<small> (all missing: 253, including not present: 137)</small></summary>
+<summary>show<small> (all missing: 260, including not present: 144)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -12253,6 +12711,7 @@ into your web browser:
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
@@ -12264,8 +12723,13 @@ into your web browser: : not present
  * json : Last used : not present
  * json : Leave Team : not present
  * json : Leave : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Logout Other Browser Sessions : not present
  * json : Manage Account : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices. : not present
  * json : Manage API Tokens : not present
  * json : Manage Role : not present
@@ -12286,6 +12750,7 @@ into your web browser: : not present
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing. : not present
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -12460,7 +12925,7 @@ into your web browser: : not present
 ## tk
 
 <details>
-<summary>show<small> (all missing: 318, including not present: 18)</small></summary>
+<summary>show<small> (all missing: 325, including not present: 25)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -12524,6 +12989,7 @@ into your web browser: : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -12538,10 +13004,15 @@ into your web browser:
  * json : Last used
  * json : Leave Team
  * json : Leave
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Login
- * json : Logout Other Browser Sessions
  * json : Logout
+ * json : Logout Other Browser Sessions
  * json : Manage Account
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices.
  * json : Manage API Tokens
  * json : Manage Role
@@ -12567,6 +13038,7 @@ into your web browser:
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again.
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -12788,7 +13260,7 @@ into your web browser:
 ## tl
 
 <details>
-<summary>show<small> (all missing: 311, including not present: 18)</small></summary>
+<summary>show<small> (all missing: 318, including not present: 25)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -12852,6 +13324,7 @@ into your web browser:
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -12866,10 +13339,15 @@ into your web browser:
  * json : Last used
  * json : Leave Team
  * json : Leave
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Login
- * json : Logout Other Browser Sessions
  * json : Logout
+ * json : Logout Other Browser Sessions
  * json : Manage Account
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices.
  * json : Manage API Tokens
  * json : Manage Role
@@ -12895,6 +13373,7 @@ into your web browser:
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again.
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -13109,18 +13588,25 @@ into your web browser:
 ## tr
 
 <details>
-<summary>show<small> (all missing: 106, including not present: 18)</small></summary>
+<summary>show<small> (all missing: 113, including not present: 25)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Cancel : not present
  * json : Create Account : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
  * json : If you do not have an account, you may create one by clicking the button below. After creating an account, you may click the invitation acceptance button in this email to accept the team invitation: : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : of
  * json : Pending Team Invitations : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
  * json : Select A New Photo
@@ -13224,7 +13710,7 @@ into your web browser:
 ## ug
 
 <details>
-<summary>show<small> (all missing: 303, including not present: 18)</small></summary>
+<summary>show<small> (all missing: 310, including not present: 25)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -13288,6 +13774,7 @@ into your web browser:
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -13302,10 +13789,15 @@ into your web browser:
  * json : Last used
  * json : Leave Team
  * json : Leave
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Login
- * json : Logout Other Browser Sessions
  * json : Logout
+ * json : Logout Other Browser Sessions
  * json : Manage Account
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices.
  * json : Manage API Tokens
  * json : Manage Role
@@ -13331,6 +13823,7 @@ into your web browser:
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again.
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -13537,12 +14030,19 @@ into your web browser:
 ## uk
 
 <details>
-<summary>show<small> (all missing: 8, including not present: 8)</small></summary>
+<summary>show<small> (all missing: 15, including not present: 15)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Cancel : not present
  * json : Create Account : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
  * json : Team Invitation : not present
@@ -13554,7 +14054,7 @@ into your web browser:
 ## ur
 
 <details>
-<summary>show<small> (all missing: 297, including not present: 18)</small></summary>
+<summary>show<small> (all missing: 304, including not present: 25)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -13615,6 +14115,7 @@ into your web browser:
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -13628,8 +14129,13 @@ into your web browser:
  * json : Last used
  * json : Leave Team
  * json : Leave
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Logout Other Browser Sessions
  * json : Manage Account
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices.
  * json : Manage API Tokens
  * json : Manage Role
@@ -13653,6 +14159,7 @@ into your web browser:
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again.
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -13861,7 +14368,7 @@ into your web browser:
 ## uz_Cyrl
 
 <details>
-<summary>show<small> (all missing: 280, including not present: 18)</small></summary>
+<summary>show<small> (all missing: 287, including not present: 25)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -13925,6 +14432,7 @@ into your web browser:
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -13939,10 +14447,15 @@ into your web browser:
  * json : Last used
  * json : Leave Team
  * json : Leave
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Login
- * json : Logout Other Browser Sessions
  * json : Logout
+ * json : Logout Other Browser Sessions
  * json : Manage Account
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices.
  * json : Manage API Tokens
  * json : Manage Role
@@ -13968,6 +14481,7 @@ into your web browser:
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again.
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -14151,7 +14665,7 @@ into your web browser:
 ## uz_Latn
 
 <details>
-<summary>show<small> (all missing: 280, including not present: 18)</small></summary>
+<summary>show<small> (all missing: 287, including not present: 25)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -14215,6 +14729,7 @@ into your web browser:
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : Hello!
  * json : I agree to the :terms_of_service and :privacy_policy : not present
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not create an account, no further action is required.
@@ -14229,10 +14744,15 @@ into your web browser:
  * json : Last used
  * json : Leave Team
  * json : Leave
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
  * json : Login
- * json : Logout Other Browser Sessions
  * json : Logout
+ * json : Logout Other Browser Sessions
  * json : Manage Account
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Manage and logout your active sessions on other browsers and devices.
  * json : Manage API Tokens
  * json : Manage Role
@@ -14258,6 +14778,7 @@ into your web browser:
  * json : Please confirm access to your account by entering the authentication code provided by your authenticator application.
  * json : Please confirm your password before continuing.
  * json : Please copy your new API token. For your security, it won't be shown again.
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Privacy Policy : not present
@@ -14440,23 +14961,64 @@ into your web browser:
 
 ## vi
 
+<details>
+<summary>show<small> (all missing: 7, including not present: 7)</small></summary>
 
-All lines are translated 😊
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## zh_CN
 
+<details>
+<summary>show<small> (all missing: 7, including not present: 7)</small></summary>
 
-All lines are translated 😊
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## zh_HK
 
+<details>
+<summary>show<small> (all missing: 7, including not present: 7)</small></summary>
 
-All lines are translated 😊
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## zh_TW
 
+<details>
+<summary>show<small> (all missing: 7, including not present: 7)</small></summary>
 
-All lines are translated 😊
+ * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
+ * json : Log in : not present
+ * json : Log out : not present
+ * json : Log Out : not present
+ * json : Log Out Other Browser Sessions : not present
+ * json : Manage and log out your active sessions on other browsers and devices. : not present
+ * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
+
+[ [to top](#todo-list) ]
+</details>

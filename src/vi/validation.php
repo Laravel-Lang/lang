@@ -25,7 +25,7 @@ return [
     'between'         => [
         'numeric' => 'Trường :attribute phải nằm trong khoảng :min - :max.',
         'file'    => 'Dung lượng tập tin trong trường :attribute phải từ :min - :max kB.',
-        'string'  => 'Trường :attribute phải từ :min - :max ký tự.',
+        'string'  => 'Trường :attribute phải từ :min - :max kí tự.',
         'array'   => 'Trường :attribute phải có từ :min - :max phần tử.',
     ],
     'boolean'        => 'Trường :attribute phải là true hoặc false.',
@@ -78,7 +78,7 @@ return [
     'max' => [
         'numeric' => 'Trường :attribute không được lớn hơn :max.',
         'file'    => 'Dung lượng tập tin trong trường :attribute không được lớn hơn :max kB.',
-        'string'  => 'Trường :attribute không được lớn hơn :max ký tự.',
+        'string'  => 'Trường :attribute không được lớn hơn :max kí tự.',
         'array'   => 'Trường :attribute không được lớn hơn :max phần tử.',
     ],
     'mimes'     => 'Trường :attribute phải là một tập tin có định dạng: :values.',
@@ -86,7 +86,7 @@ return [
     'min'       => [
         'numeric' => 'Trường :attribute phải tối thiểu là :min.',
         'file'    => 'Dung lượng tập tin trong trường :attribute phải tối thiểu :min kB.',
-        'string'  => 'Trường :attribute phải có tối thiểu :min ký tự.',
+        'string'  => 'Trường :attribute phải có tối thiểu :min kí tự.',
         'array'   => 'Trường :attribute phải có tối thiểu :min phần tử.',
     ],
     'multiple_of'          => 'Trường :attribute phải là bội số của :value',
@@ -107,11 +107,11 @@ return [
     'size'                 => [
         'numeric' => 'Trường :attribute phải bằng :size.',
         'file'    => 'Dung lượng tập tin trong trường :attribute phải bằng :size kB.',
-        'string'  => 'Trường :attribute phải chứa :size ký tự.',
+        'string'  => 'Trường :attribute phải chứa :size kí tự.',
         'array'   => 'Trường :attribute phải chứa :size phần tử.',
     ],
     'starts_with' => 'Trường :attribute phải được bắt đầu bằng một trong những giá trị sau: :values',
-    'string'      => 'Trường :attribute phải là một chuỗi ký tự.',
+    'string'      => 'Trường :attribute phải là một chuỗi kí tự.',
     'timezone'    => 'Trường :attribute phải là một múi giờ hợp lệ.',
     'unique'      => 'Trường :attribute đã có trong cơ sở dữ liệu.',
     'uploaded'    => 'Trường :attribute tải lên thất bại.',

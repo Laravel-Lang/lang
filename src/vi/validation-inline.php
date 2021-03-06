@@ -25,7 +25,7 @@ return [
     'between'         => [
         'numeric' => 'Trường này phải nằm trong khoảng :min - :max.',
         'file'    => 'Dung lượng tập tin trong trường này phải từ :min - :max kB.',
-        'string'  => 'Trường này phải từ :min - :max ký tự.',
+        'string'  => 'Trường này phải từ :min - :max kí tự.',
         'array'   => 'Trường này phải có từ :min - :max phần tử.',
     ],
     'boolean'        => 'Trường này phải là true hoặc false.',
@@ -78,7 +78,7 @@ return [
     'max' => [
         'numeric' => 'Trường này không được lớn hơn :max.',
         'file'    => 'Dung lượng tập tin trong trường này không được lớn hơn :max kB.',
-        'string'  => 'Trường này không được lớn hơn :max ký tự.',
+        'string'  => 'Trường này không được lớn hơn :max kí tự.',
         'array'   => 'Trường này không được lớn hơn :max phần tử.',
     ],
     'mimes'     => 'Trường này phải là một tập tin có định dạng: :values.',
@@ -86,7 +86,7 @@ return [
     'min'       => [
         'numeric' => 'Trường này phải tối thiểu là :min.',
         'file'    => 'Dung lượng tập tin trong trường này phải tối thiểu :min kB.',
-        'string'  => 'Trường này phải có tối thiểu :min ký tự.',
+        'string'  => 'Trường này phải có tối thiểu :min kí tự.',
         'array'   => 'Trường này phải có tối thiểu :min phần tử.',
     ],
     'multiple_of'          => 'Trường này phải là bội số của :value',
@@ -107,11 +107,11 @@ return [
     'size'                 => [
         'numeric' => 'Trường này phải bằng :size.',
         'file'    => 'Dung lượng tập tin trong trường này phải bằng :size kB.',
-        'string'  => 'Trường này phải chứa :size ký tự.',
+        'string'  => 'Trường này phải chứa :size kí tự.',
         'array'   => 'Trường này phải chứa :size phần tử.',
     ],
     'starts_with' => 'Trường này phải được bắt đầu bằng một trong những giá trị sau: :values',
-    'string'      => 'Trường này phải là một chuỗi ký tự.',
+    'string'      => 'Trường này phải là một chuỗi kí tự.',
     'timezone'    => 'Trường này phải là một múi giờ hợp lệ.',
     'unique'      => 'Trường này đã có trong cơ sở dữ liệu.',
     'uploaded'    => 'Trường này tải lên thất bại.',

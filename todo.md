@@ -4301,15 +4301,10 @@ into your web browser: : not present
 ## fr
 
 <details>
-<summary>show<small> (all missing: 7, including not present: 7)</small></summary>
+<summary>show<small> (all missing: 2, including not present: 2)</small></summary>
 
- * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : Log in : not present
  * json : Log out : not present
- * json : Log Out : not present
- * json : Log Out Other Browser Sessions : not present
- * json : Manage and log out your active sessions on other browsers and devices. : not present
- * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
 
 [ [to top](#todo-list) ]
 </details>

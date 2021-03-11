@@ -1,10 +1,10 @@
 # Todo list
 | | | | | | | | | | |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-[ar ✔](#ar)|[az ❗](#az)|[be ❗](#be)|[bg ❗](#bg)|[bn ❗](#bn)|[bs ❗](#bs)|[ca ❗](#ca)|[cs ❗](#cs)|[cy ❗](#cy)|[da ❗](#da)
+[ar ❗](#ar)|[az ❗](#az)|[be ❗](#be)|[bg ❗](#bg)|[bn ❗](#bn)|[bs ❗](#bs)|[ca ❗](#ca)|[cs ❗](#cs)|[cy ❗](#cy)|[da ❗](#da)
 [de ❗](#de)|[de_CH ❗](#de_CH)|[el ❗](#el)|[es ✔](#es)|[et ❗](#et)|[eu ❗](#eu)|[fa ❗](#fa)|[fi ❗](#fi)|[fil ❗](#fil)|[fr ❗](#fr)
-[gl ❗](#gl)|[he ❗](#he)|[hi ❗](#hi)|[hr ❗](#hr)|[hu ❗](#hu)|[hy ❗](#hy)|[id ❗](#id)|[is ❗](#is)|[it ✔](#it)|[ja ❗](#ja)
-[ka ❗](#ka)|[kk ❗](#kk)|[km ❗](#km)|[kn ❗](#kn)|[ko ❗](#ko)|[lt ❗](#lt)|[lv ❗](#lv)|[mk ✔](#mk)|[mn ❗](#mn)|[mr ❗](#mr)
+[gl ❗](#gl)|[he ❗](#he)|[hi ❗](#hi)|[hr ❗](#hr)|[hu ❗](#hu)|[hy ❗](#hy)|[id ❗](#id)|[is ❗](#is)|[it ❗](#it)|[ja ❗](#ja)
+[ka ❗](#ka)|[kk ❗](#kk)|[km ❗](#km)|[kn ❗](#kn)|[ko ❗](#ko)|[lt ❗](#lt)|[lv ❗](#lv)|[mk ❗](#mk)|[mn ❗](#mn)|[mr ❗](#mr)
 [ms ❗](#ms)|[nb ❗](#nb)|[ne ❗](#ne)|[nl ❗](#nl)|[nn ❗](#nn)|[oc ❗](#oc)|[pl ❗](#pl)|[ps ❗](#ps)|[pt ❗](#pt)|[pt_BR ❗](#pt_BR)
 [ro ❗](#ro)|[ru ✔](#ru)|[sc ❗](#sc)|[si ❗](#si)|[sk ❗](#sk)|[sl ❗](#sl)|[sq ❗](#sq)|[sr_Cyrl ❗](#sr_Cyrl)|[sr_Latn ❗](#sr_Latn)|[sr_Latn_ME ❗](#sr_Latn_ME)
 [sv ❗](#sv)|[sw ❗](#sw)|[tg ❗](#tg)|[th ❗](#th)|[tk ❗](#tk)|[tl ❗](#tl)|[tr ❗](#tr)|[ug ❗](#ug)|[uk ❗](#uk)|[ur ❗](#ur)
@@ -15,14 +15,18 @@
 
 ## ar
 
+<details>
+<summary>show<small> (all missing: 1, including not present: 1)</small></summary>
 
-All lines are translated 😊
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## az
 
 <details>
-<summary>show<small> (all missing: 310, including not present: 25)</small></summary>
+<summary>show<small> (all missing: 311, including not present: 26)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -175,6 +179,7 @@ into your web browser:
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number.
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
@@ -342,7 +347,7 @@ into your web browser:
 ## be
 
 <details>
-<summary>show<small> (all missing: 320, including not present: 25)</small></summary>
+<summary>show<small> (all missing: 321, including not present: 26)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -495,6 +500,7 @@ into your web browser:
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number.
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
@@ -672,7 +678,7 @@ into your web browser:
 ## bg
 
 <details>
-<summary>show<small> (all missing: 288, including not present: 25)</small></summary>
+<summary>show<small> (all missing: 289, including not present: 26)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -825,6 +831,7 @@ into your web browser:
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number.
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
@@ -970,7 +977,7 @@ into your web browser:
 ## bn
 
 <details>
-<summary>show<small> (all missing: 310, including not present: 25)</small></summary>
+<summary>show<small> (all missing: 311, including not present: 26)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -1123,6 +1130,7 @@ into your web browser:
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number.
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
@@ -1290,7 +1298,7 @@ into your web browser:
 ## bs
 
 <details>
-<summary>show<small> (all missing: 285, including not present: 24)</small></summary>
+<summary>show<small> (all missing: 286, including not present: 25)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -1443,6 +1451,7 @@ into your web browser:
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number.
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
@@ -1585,7 +1594,7 @@ into your web browser:
 ## ca
 
 <details>
-<summary>show<small> (all missing: 244, including not present: 25)</small></summary>
+<summary>show<small> (all missing: 245, including not present: 26)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -1705,6 +1714,7 @@ into your web browser:
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number.
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
@@ -1838,7 +1848,7 @@ into your web browser:
 ## cs
 
 <details>
-<summary>show<small> (all missing: 246, including not present: 25)</small></summary>
+<summary>show<small> (all missing: 247, including not present: 26)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -1959,6 +1969,7 @@ into your web browser:
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number.
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
@@ -2093,7 +2104,7 @@ into your web browser:
 ## cy
 
 <details>
-<summary>show<small> (all missing: 325, including not present: 25)</small></summary>
+<summary>show<small> (all missing: 326, including not present: 26)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -2246,6 +2257,7 @@ into your web browser:
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number.
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
@@ -2428,7 +2440,7 @@ into your web browser:
 ## da
 
 <details>
-<summary>show<small> (all missing: 246, including not present: 25)</small></summary>
+<summary>show<small> (all missing: 247, including not present: 26)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -2549,6 +2561,7 @@ into your web browser:
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number.
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
@@ -2683,7 +2696,7 @@ into your web browser:
 ## de
 
 <details>
-<summary>show<small> (all missing: 9, including not present: 9)</small></summary>
+<summary>show<small> (all missing: 10, including not present: 10)</small></summary>
 
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
@@ -2693,6 +2706,7 @@ into your web browser:
  * json : Log Out Other Browser Sessions : not present
  * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
 
 [ [to top](#todo-list) ]
@@ -2701,7 +2715,7 @@ into your web browser:
 ## de_CH
 
 <details>
-<summary>show<small> (all missing: 153, including not present: 25)</small></summary>
+<summary>show<small> (all missing: 154, including not present: 26)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -2822,6 +2836,7 @@ into your web browser:
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number.
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
@@ -2863,7 +2878,7 @@ into your web browser:
 ## el
 
 <details>
-<summary>show<small> (all missing: 229, including not present: 25)</small></summary>
+<summary>show<small> (all missing: 230, including not present: 26)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you.
@@ -2978,6 +2993,7 @@ into your web browser:
  * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The provided password does not match your current password.
  * json : The provided password was incorrect.
  * json : The provided two factor authentication code was invalid.
@@ -3107,7 +3123,7 @@ All lines are translated 😊
 ## et
 
 <details>
-<summary>show<small> (all missing: 290, including not present: 25)</small></summary>
+<summary>show<small> (all missing: 291, including not present: 26)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -3260,6 +3276,7 @@ into your web browser:
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number.
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
@@ -3407,7 +3424,7 @@ into your web browser:
 ## eu
 
 <details>
-<summary>show<small> (all missing: 255, including not present: 36)</small></summary>
+<summary>show<small> (all missing: 256, including not present: 37)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -3531,6 +3548,7 @@ into your web browser:
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number.
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
@@ -3671,7 +3689,7 @@ into your web browser:
 ## fa
 
 <details>
-<summary>show<small> (all missing: 23, including not present: 23)</small></summary>
+<summary>show<small> (all missing: 24, including not present: 24)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Cancel : not present
@@ -3693,6 +3711,7 @@ into your web browser:
  * json : Privacy Policy : not present
  * json : Team Invitation : not present
  * json : Terms of Service : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
  * json : This user has already been invited to the team. : not present
  * json : You have been invited to join the :team team! : not present
@@ -3703,7 +3722,7 @@ into your web browser:
 ## fi
 
 <details>
-<summary>show<small> (all missing: 281, including not present: 172)</small></summary>
+<summary>show<small> (all missing: 282, including not present: 173)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -3849,6 +3868,7 @@ into your web browser:
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
@@ -3993,7 +4013,7 @@ into your web browser:
 ## fil
 
 <details>
-<summary>show<small> (all missing: 298, including not present: 197)</small></summary>
+<summary>show<small> (all missing: 299, including not present: 198)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration. : not present
@@ -4146,6 +4166,7 @@ into your web browser: : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role. : not present
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
@@ -4301,10 +4322,11 @@ into your web browser: : not present
 ## fr
 
 <details>
-<summary>show<small> (all missing: 2, including not present: 2)</small></summary>
+<summary>show<small> (all missing: 3, including not present: 3)</small></summary>
 
  * json : Log in : not present
  * json : Log out : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
 
 [ [to top](#todo-list) ]
 </details>
@@ -4312,7 +4334,7 @@ into your web browser: : not present
 ## gl
 
 <details>
-<summary>show<small> (all missing: 253, including not present: 144)</small></summary>
+<summary>show<small> (all missing: 254, including not present: 145)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -4436,6 +4458,7 @@ into your web browser: : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
@@ -4574,7 +4597,7 @@ into your web browser: : not present
 ## he
 
 <details>
-<summary>show<small> (all missing: 246, including not present: 138)</small></summary>
+<summary>show<small> (all missing: 247, including not present: 139)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -4695,6 +4718,7 @@ into your web browser: : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
@@ -4829,7 +4853,7 @@ into your web browser: : not present
 ## hi
 
 <details>
-<summary>show<small> (all missing: 302, including not present: 134)</small></summary>
+<summary>show<small> (all missing: 303, including not present: 135)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -4982,6 +5006,7 @@ into your web browser:
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
@@ -5141,7 +5166,7 @@ into your web browser:
 ## hr
 
 <details>
-<summary>show<small> (all missing: 275, including not present: 166)</small></summary>
+<summary>show<small> (all missing: 276, including not present: 167)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -5281,6 +5306,7 @@ into your web browser: : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
@@ -5426,7 +5452,7 @@ into your web browser: : not present
 ## hu
 
 <details>
-<summary>show<small> (all missing: 243, including not present: 136)</small></summary>
+<summary>show<small> (all missing: 244, including not present: 137)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -5546,6 +5572,7 @@ into your web browser: : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
@@ -5678,7 +5705,7 @@ into your web browser: : not present
 ## hy
 
 <details>
-<summary>show<small> (all missing: 244, including not present: 137)</small></summary>
+<summary>show<small> (all missing: 245, including not present: 138)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -5800,6 +5827,7 @@ into your web browser: : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
@@ -5932,7 +5960,7 @@ into your web browser: : not present
 ## id
 
 <details>
-<summary>show<small> (all missing: 136, including not present: 134)</small></summary>
+<summary>show<small> (all missing: 137, including not present: 135)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -6041,6 +6069,7 @@ into your web browser: : not present
  * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
@@ -6077,7 +6106,7 @@ into your web browser: : not present
 ## is
 
 <details>
-<summary>show<small> (all missing: 292, including not present: 134)</small></summary>
+<summary>show<small> (all missing: 293, including not present: 135)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -6230,6 +6259,7 @@ into your web browser:
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
@@ -6378,14 +6408,18 @@ into your web browser:
 
 ## it
 
+<details>
+<summary>show<small> (all missing: 1, including not present: 1)</small></summary>
 
-All lines are translated 😊
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## ja
 
 <details>
-<summary>show<small> (all missing: 148, including not present: 57)</small></summary>
+<summary>show<small> (all missing: 149, including not present: 58)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Are you sure you would like to leave this team? : not present
@@ -6423,6 +6457,7 @@ All lines are translated 😊
  * json : Terms of Service : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
@@ -6542,7 +6577,7 @@ All lines are translated 😊
 ## ka
 
 <details>
-<summary>show<small> (all missing: 271, including not present: 165)</small></summary>
+<summary>show<small> (all missing: 272, including not present: 166)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -6682,6 +6717,7 @@ into your web browser: : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
@@ -6823,7 +6859,7 @@ into your web browser: : not present
 ## kk
 
 <details>
-<summary>show<small> (all missing: 244, including not present: 136)</small></summary>
+<summary>show<small> (all missing: 245, including not present: 137)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -6943,6 +6979,7 @@ into your web browser: : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
@@ -7076,7 +7113,7 @@ into your web browser: : not present
 ## km
 
 <details>
-<summary>show<small> (all missing: 286, including not present: 134)</small></summary>
+<summary>show<small> (all missing: 287, including not present: 135)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -7229,6 +7266,7 @@ into your web browser:
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
@@ -7372,7 +7410,7 @@ into your web browser:
 ## kn
 
 <details>
-<summary>show<small> (all missing: 254, including not present: 144)</small></summary>
+<summary>show<small> (all missing: 255, including not present: 145)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -7496,6 +7534,7 @@ into your web browser:
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
@@ -7635,7 +7674,7 @@ into your web browser:
 ## ko
 
 <details>
-<summary>show<small> (all missing: 7, including not present: 7)</small></summary>
+<summary>show<small> (all missing: 8, including not present: 8)</small></summary>
 
  * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : Log in : not present
@@ -7644,6 +7683,7 @@ into your web browser:
  * json : Log Out Other Browser Sessions : not present
  * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
 
 [ [to top](#todo-list) ]
 </details>
@@ -7651,7 +7691,7 @@ into your web browser:
 ## lt
 
 <details>
-<summary>show<small> (all missing: 24, including not present: 24)</small></summary>
+<summary>show<small> (all missing: 25, including not present: 25)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Cancel : not present
@@ -7673,6 +7713,7 @@ into your web browser:
  * json : Privacy Policy : not present
  * json : Team Invitation : not present
  * json : Terms of Service : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This user has already been invited to the team. : not present
@@ -7684,7 +7725,7 @@ into your web browser:
 ## lv
 
 <details>
-<summary>show<small> (all missing: 290, including not present: 134)</small></summary>
+<summary>show<small> (all missing: 291, including not present: 135)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -7837,6 +7878,7 @@ into your web browser:
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
@@ -7983,14 +8025,18 @@ into your web browser:
 
 ## mk
 
+<details>
+<summary>show<small> (all missing: 1, including not present: 1)</small></summary>
 
-All lines are translated 😊
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## mn
 
 <details>
-<summary>show<small> (all missing: 315, including not present: 134)</small></summary>
+<summary>show<small> (all missing: 316, including not present: 135)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -8143,6 +8189,7 @@ into your web browser:
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
@@ -8315,7 +8362,7 @@ into your web browser:
 ## mr
 
 <details>
-<summary>show<small> (all missing: 255, including not present: 145)</small></summary>
+<summary>show<small> (all missing: 256, including not present: 146)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -8440,6 +8487,7 @@ into your web browser:
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
@@ -8579,7 +8627,7 @@ into your web browser:
 ## ms
 
 <details>
-<summary>show<small> (all missing: 165, including not present: 146)</small></summary>
+<summary>show<small> (all missing: 166, including not present: 147)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -8703,6 +8751,7 @@ into your web browser:
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
@@ -8753,7 +8802,7 @@ into your web browser:
 ## nb
 
 <details>
-<summary>show<small> (all missing: 245, including not present: 138)</small></summary>
+<summary>show<small> (all missing: 246, including not present: 139)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -8874,6 +8923,7 @@ into your web browser:
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
@@ -9007,7 +9057,7 @@ into your web browser:
 ## ne
 
 <details>
-<summary>show<small> (all missing: 153, including not present: 134)</small></summary>
+<summary>show<small> (all missing: 154, including not present: 135)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -9126,6 +9176,7 @@ into your web browser:
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
@@ -9169,7 +9220,7 @@ into your web browser:
 ## nl
 
 <details>
-<summary>show<small> (all missing: 7, including not present: 7)</small></summary>
+<summary>show<small> (all missing: 8, including not present: 8)</small></summary>
 
  * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : Log in : not present
@@ -9178,6 +9229,7 @@ into your web browser:
  * json : Log Out Other Browser Sessions : not present
  * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
 
 [ [to top](#todo-list) ]
 </details>
@@ -9185,7 +9237,7 @@ into your web browser:
 ## nn
 
 <details>
-<summary>show<small> (all missing: 247, including not present: 138)</small></summary>
+<summary>show<small> (all missing: 248, including not present: 139)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -9306,6 +9358,7 @@ into your web browser:
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
@@ -9441,7 +9494,7 @@ into your web browser:
 ## oc
 
 <details>
-<summary>show<small> (all missing: 197, including not present: 23)</small></summary>
+<summary>show<small> (all missing: 198, including not present: 24)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -9594,6 +9647,7 @@ into your web browser:
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number.
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
@@ -9648,7 +9702,7 @@ into your web browser:
 ## pl
 
 <details>
-<summary>show<small> (all missing: 7, including not present: 7)</small></summary>
+<summary>show<small> (all missing: 8, including not present: 8)</small></summary>
 
  * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : Log in : not present
@@ -9657,6 +9711,7 @@ into your web browser:
  * json : Log Out Other Browser Sessions : not present
  * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
 
 [ [to top](#todo-list) ]
 </details>
@@ -9664,7 +9719,7 @@ into your web browser:
 ## ps
 
 <details>
-<summary>show<small> (all missing: 255, including not present: 145)</small></summary>
+<summary>show<small> (all missing: 256, including not present: 146)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -9788,6 +9843,7 @@ into your web browser:
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
@@ -9928,7 +9984,7 @@ into your web browser:
 ## pt
 
 <details>
-<summary>show<small> (all missing: 27, including not present: 25)</small></summary>
+<summary>show<small> (all missing: 28, including not present: 26)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Cancel : not present
@@ -9950,6 +10006,7 @@ into your web browser:
  * json : Privacy Policy : not present
  * json : Team Invitation : not present
  * json : Terms of Service : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This user has already been invited to the team. : not present
@@ -9964,7 +10021,7 @@ into your web browser:
 ## pt_BR
 
 <details>
-<summary>show<small> (all missing: 28, including not present: 25)</small></summary>
+<summary>show<small> (all missing: 29, including not present: 26)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Cancel : not present
@@ -9987,6 +10044,7 @@ into your web browser:
  * json : Privacy Policy : not present
  * json : Team Invitation : not present
  * json : Terms of Service : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This user has already been invited to the team. : not present
@@ -10001,7 +10059,7 @@ into your web browser:
 ## ro
 
 <details>
-<summary>show<small> (all missing: 243, including not present: 135)</small></summary>
+<summary>show<small> (all missing: 244, including not present: 136)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -10121,6 +10179,7 @@ into your web browser:
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
@@ -10259,7 +10318,7 @@ All lines are translated 😊
 ## sc
 
 <details>
-<summary>show<small> (all missing: 325, including not present: 134)</small></summary>
+<summary>show<small> (all missing: 326, including not present: 135)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -10412,6 +10471,7 @@ into your web browser:
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
@@ -10594,7 +10654,7 @@ into your web browser:
 ## si
 
 <details>
-<summary>show<small> (all missing: 289, including not present: 134)</small></summary>
+<summary>show<small> (all missing: 290, including not present: 135)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -10747,6 +10807,7 @@ into your web browser:
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
@@ -10893,7 +10954,7 @@ into your web browser:
 ## sk
 
 <details>
-<summary>show<small> (all missing: 242, including not present: 136)</small></summary>
+<summary>show<small> (all missing: 243, including not present: 137)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -11012,6 +11073,7 @@ into your web browser:
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
@@ -11144,7 +11206,7 @@ into your web browser:
 ## sl
 
 <details>
-<summary>show<small> (all missing: 23, including not present: 23)</small></summary>
+<summary>show<small> (all missing: 24, including not present: 24)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Cancel : not present
@@ -11166,6 +11228,7 @@ into your web browser:
  * json : Privacy Policy : not present
  * json : Team Invitation : not present
  * json : Terms of Service : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
  * json : This user has already been invited to the team. : not present
  * json : You have been invited to join the :team team! : not present
@@ -11176,7 +11239,7 @@ into your web browser:
 ## sq
 
 <details>
-<summary>show<small> (all missing: 199, including not present: 134)</small></summary>
+<summary>show<small> (all missing: 200, including not present: 135)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -11329,6 +11392,7 @@ into your web browser:
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
@@ -11385,7 +11449,7 @@ into your web browser:
 ## sr_Cyrl
 
 <details>
-<summary>show<small> (all missing: 38, including not present: 36)</small></summary>
+<summary>show<small> (all missing: 39, including not present: 37)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Administrator users can perform any action. : not present
@@ -11417,6 +11481,7 @@ into your web browser:
  * json : Team Invitation : not present
  * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This user has already been invited to the team. : not present
@@ -11432,7 +11497,7 @@ into your web browser:
 ## sr_Latn
 
 <details>
-<summary>show<small> (all missing: 38, including not present: 36)</small></summary>
+<summary>show<small> (all missing: 39, including not present: 37)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Administrator users can perform any action. : not present
@@ -11464,6 +11529,7 @@ into your web browser:
  * json : Team Invitation : not present
  * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This user has already been invited to the team. : not present
@@ -11479,7 +11545,7 @@ into your web browser:
 ## sr_Latn_ME
 
 <details>
-<summary>show<small> (all missing: 285, including not present: 133)</small></summary>
+<summary>show<small> (all missing: 286, including not present: 134)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -11632,6 +11698,7 @@ into your web browser:
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
@@ -11774,7 +11841,7 @@ into your web browser:
 ## sv
 
 <details>
-<summary>show<small> (all missing: 205, including not present: 107)</small></summary>
+<summary>show<small> (all missing: 206, including not present: 108)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -11863,6 +11930,7 @@ into your web browser:
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
@@ -11988,7 +12056,7 @@ into your web browser:
 ## sw
 
 <details>
-<summary>show<small> (all missing: 290, including not present: 134)</small></summary>
+<summary>show<small> (all missing: 291, including not present: 135)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -12141,6 +12209,7 @@ into your web browser:
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
@@ -12288,7 +12357,7 @@ into your web browser:
 ## tg
 
 <details>
-<summary>show<small> (all missing: 312, including not present: 134)</small></summary>
+<summary>show<small> (all missing: 313, including not present: 135)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -12441,6 +12510,7 @@ into your web browser:
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
@@ -12610,7 +12680,7 @@ into your web browser:
 ## th
 
 <details>
-<summary>show<small> (all missing: 260, including not present: 144)</small></summary>
+<summary>show<small> (all missing: 261, including not present: 145)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -12739,6 +12809,7 @@ into your web browser: : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number. : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character. : not present
@@ -12880,7 +12951,7 @@ into your web browser: : not present
 ## tk
 
 <details>
-<summary>show<small> (all missing: 325, including not present: 25)</small></summary>
+<summary>show<small> (all missing: 326, including not present: 26)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -13033,6 +13104,7 @@ into your web browser:
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number.
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
@@ -13215,7 +13287,7 @@ into your web browser:
 ## tl
 
 <details>
-<summary>show<small> (all missing: 318, including not present: 25)</small></summary>
+<summary>show<small> (all missing: 319, including not present: 26)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -13368,6 +13440,7 @@ into your web browser:
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number.
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
@@ -13543,7 +13616,7 @@ into your web browser:
 ## tr
 
 <details>
-<summary>show<small> (all missing: 113, including not present: 25)</small></summary>
+<summary>show<small> (all missing: 114, including not present: 26)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Cancel : not present
@@ -13569,6 +13642,7 @@ into your web browser:
  * json : Showing
  * json : Team Invitation : not present
  * json : Terms of Service : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This user has already been invited to the team. : not present
@@ -13665,7 +13739,7 @@ into your web browser:
 ## ug
 
 <details>
-<summary>show<small> (all missing: 310, including not present: 25)</small></summary>
+<summary>show<small> (all missing: 311, including not present: 26)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -13818,6 +13892,7 @@ into your web browser:
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number.
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
@@ -13985,7 +14060,7 @@ into your web browser:
 ## uk
 
 <details>
-<summary>show<small> (all missing: 15, including not present: 15)</small></summary>
+<summary>show<small> (all missing: 16, including not present: 16)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Cancel : not present
@@ -14002,6 +14077,7 @@ into your web browser:
  * json : Privacy Policy : not present
  * json : Team Invitation : not present
  * json : Terms of Service : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
 
 [ [to top](#todo-list) ]
 </details>
@@ -14009,7 +14085,7 @@ into your web browser:
 ## ur
 
 <details>
-<summary>show<small> (all missing: 304, including not present: 25)</small></summary>
+<summary>show<small> (all missing: 305, including not present: 26)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -14149,6 +14225,7 @@ into your web browser:
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number.
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
@@ -14323,7 +14400,7 @@ into your web browser:
 ## uz_Cyrl
 
 <details>
-<summary>show<small> (all missing: 287, including not present: 25)</small></summary>
+<summary>show<small> (all missing: 288, including not present: 26)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -14476,6 +14553,7 @@ into your web browser:
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number.
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
@@ -14620,7 +14698,7 @@ into your web browser:
 ## uz_Latn
 
 <details>
-<summary>show<small> (all missing: 287, including not present: 25)</small></summary>
+<summary>show<small> (all missing: 288, including not present: 26)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -14773,6 +14851,7 @@ into your web browser:
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one number.
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one number.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
@@ -14917,7 +14996,7 @@ into your web browser:
 ## vi
 
 <details>
-<summary>show<small> (all missing: 7, including not present: 7)</small></summary>
+<summary>show<small> (all missing: 8, including not present: 8)</small></summary>
 
  * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : Log in : not present
@@ -14926,6 +15005,7 @@ into your web browser:
  * json : Log Out Other Browser Sessions : not present
  * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
 
 [ [to top](#todo-list) ]
 </details>
@@ -14933,15 +15013,9 @@ into your web browser:
 ## zh_CN
 
 <details>
-<summary>show<small> (all missing: 7, including not present: 7)</small></summary>
+<summary>show<small> (all missing: 1, including not present: 1)</small></summary>
 
- * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
- * json : Log in : not present
- * json : Log out : not present
- * json : Log Out : not present
- * json : Log Out Other Browser Sessions : not present
- * json : Manage and log out your active sessions on other browsers and devices. : not present
- * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
 
 [ [to top](#todo-list) ]
 </details>
@@ -14949,15 +15023,9 @@ into your web browser:
 ## zh_HK
 
 <details>
-<summary>show<small> (all missing: 7, including not present: 7)</small></summary>
+<summary>show<small> (all missing: 1, including not present: 1)</small></summary>
 
- * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
- * json : Log in : not present
- * json : Log out : not present
- * json : Log Out : not present
- * json : Log Out Other Browser Sessions : not present
- * json : Manage and log out your active sessions on other browsers and devices. : not present
- * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
 
 [ [to top](#todo-list) ]
 </details>
@@ -14965,15 +15033,9 @@ into your web browser:
 ## zh_TW
 
 <details>
-<summary>show<small> (all missing: 7, including not present: 7)</small></summary>
+<summary>show<small> (all missing: 1, including not present: 1)</small></summary>
 
- * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
- * json : Log in : not present
- * json : Log out : not present
- * json : Log Out : not present
- * json : Log Out Other Browser Sessions : not present
- * json : Manage and log out your active sessions on other browsers and devices. : not present
- * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
+ * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
 
 [ [to top](#todo-list) ]
 </details>

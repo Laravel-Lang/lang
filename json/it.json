@@ -159,6 +159,7 @@
     "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.": "Grazie per esserti iscritto! Prima di iniziare, potresti verificare il tuo indirizzo cliccando sul link che ti abbiamo appena inviato via email? Se non hai ricevuto l'email, te ne invieremo volentieri un'altra.",
     "The :attribute must be a valid role.": ":attribute deve avere un ruolo valido.",
     "The :attribute must be at least :length characters and contain at least one number.": ":attribute deve contenere almeno :length caratteri ed un numero.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": ":attribute deve contenere almeno :length caratteri, un carattere speciale ed un numero.",
     "The :attribute must be at least :length characters and contain at least one special character.": ":attribute deve contenere almeno :length caratteri ed un carattere speciale.",
     "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": ":attribute deve contenere almeno :length caratteri, una maiuscola e un numero.",
     "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": ":attribute deve contenere almeno :length caratteri, una maiuscola e un carattere speciale.",

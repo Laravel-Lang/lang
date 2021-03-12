@@ -6821,27 +6821,9 @@ into your web browser:
 
 ## it
 
-<details>
-<summary>show<small> (all missing: 15, including not present: 15)</small></summary>
 
- * json : Card : not present
- * json : Confirm Payment : not present
- * json : Confirm your :amount payment : not present
- * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
- * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
- * json : Full name : not present
- * json : Go back : not present
- * json : Pay :amount : not present
- * json : Payment Cancelled : not present
- * json : Payment Confirmation : not present
- * json : Payment Successful : not present
- * json : Please provide your name. : not present
- * json : The payment was successful. : not present
- * json : This payment was already successfully confirmed. : not present
- * json : This payment was cancelled. : not present
+All lines are translated 😊
 
-[ [to top](#todo-list) ]
-</details>
 
 ## ja
 

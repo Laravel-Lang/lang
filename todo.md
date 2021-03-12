@@ -1,10 +1,10 @@
 # Todo list
 | | | | | | | | | | |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-[ar ❗](#ar)|[az ❗](#az)|[be ❗](#be)|[bg ❗](#bg)|[bn ❗](#bn)|[bs ❗](#bs)|[ca ❗](#ca)|[cs ❗](#cs)|[cy ❗](#cy)|[da ❗](#da)
-[de ❗](#de)|[de_CH ❗](#de_CH)|[el ❗](#el)|[es ✔](#es)|[et ❗](#et)|[eu ❗](#eu)|[fa ❗](#fa)|[fi ❗](#fi)|[fil ❗](#fil)|[fr ❗](#fr)
+[ar ✔](#ar)|[az ❗](#az)|[be ❗](#be)|[bg ❗](#bg)|[bn ❗](#bn)|[bs ❗](#bs)|[ca ❗](#ca)|[cs ❗](#cs)|[cy ❗](#cy)|[da ❗](#da)
+[de ❗](#de)|[de_CH ❗](#de_CH)|[el ❗](#el)|[es ❗](#es)|[et ❗](#et)|[eu ❗](#eu)|[fa ❗](#fa)|[fi ❗](#fi)|[fil ❗](#fil)|[fr ❗](#fr)
 [gl ❗](#gl)|[he ❗](#he)|[hi ❗](#hi)|[hr ❗](#hr)|[hu ❗](#hu)|[hy ❗](#hy)|[id ❗](#id)|[is ❗](#is)|[it ❗](#it)|[ja ❗](#ja)
-[ka ❗](#ka)|[kk ❗](#kk)|[km ❗](#km)|[kn ❗](#kn)|[ko ❗](#ko)|[lt ❗](#lt)|[lv ❗](#lv)|[mk ✔](#mk)|[mn ❗](#mn)|[mr ❗](#mr)
+[ka ❗](#ka)|[kk ❗](#kk)|[km ❗](#km)|[kn ❗](#kn)|[ko ❗](#ko)|[lt ❗](#lt)|[lv ❗](#lv)|[mk ❗](#mk)|[mn ❗](#mn)|[mr ❗](#mr)
 [ms ❗](#ms)|[nb ❗](#nb)|[ne ❗](#ne)|[nl ❗](#nl)|[nn ❗](#nn)|[oc ❗](#oc)|[pl ❗](#pl)|[ps ❗](#ps)|[pt ❗](#pt)|[pt_BR ❗](#pt_BR)
 [ro ❗](#ro)|[ru ✔](#ru)|[sc ❗](#sc)|[si ❗](#si)|[sk ❗](#sk)|[sl ❗](#sl)|[sq ❗](#sq)|[sr_Cyrl ❗](#sr_Cyrl)|[sr_Latn ❗](#sr_Latn)|[sr_Latn_ME ❗](#sr_Latn_ME)
 [sv ❗](#sv)|[sw ❗](#sw)|[tg ❗](#tg)|[th ❗](#th)|[tk ❗](#tk)|[tl ❗](#tl)|[tr ❗](#tr)|[ug ❗](#ug)|[uk ❗](#uk)|[ur ❗](#ur)
@@ -15,33 +15,14 @@
 
 ## ar
 
-<details>
-<summary>show<small> (all missing: 16, including not present: 16)</small></summary>
 
- * json : Card : not present
- * json : Confirm Payment : not present
- * json : Confirm your :amount payment : not present
- * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
- * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
- * json : Full name : not present
- * json : Go back : not present
- * json : Pay :amount : not present
- * json : Payment Cancelled : not present
- * json : Payment Confirmation : not present
- * json : Payment Successful : not present
- * json : Please provide your name. : not present
- * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
- * json : The payment was successful. : not present
- * json : This payment was already successfully confirmed. : not present
- * json : This payment was cancelled. : not present
+All lines are translated 😊
 
-[ [to top](#todo-list) ]
-</details>
 
 ## az
 
 <details>
-<summary>show<small> (all missing: 326, including not present: 41)</small></summary>
+<summary>show<small> (all missing: 327, including not present: 41)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -167,6 +148,7 @@ into your web browser:
  * json : Please copy your new API token. For your security, it won't be shown again.
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -377,7 +359,7 @@ into your web browser:
 ## be
 
 <details>
-<summary>show<small> (all missing: 336, including not present: 41)</small></summary>
+<summary>show<small> (all missing: 337, including not present: 41)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -503,6 +485,7 @@ into your web browser:
  * json : Please copy your new API token. For your security, it won't be shown again.
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -723,7 +706,7 @@ into your web browser:
 ## bg
 
 <details>
-<summary>show<small> (all missing: 304, including not present: 41)</small></summary>
+<summary>show<small> (all missing: 305, including not present: 41)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -849,6 +832,7 @@ into your web browser:
  * json : Please copy your new API token. For your security, it won't be shown again.
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -1037,7 +1021,7 @@ into your web browser:
 ## bn
 
 <details>
-<summary>show<small> (all missing: 326, including not present: 41)</small></summary>
+<summary>show<small> (all missing: 327, including not present: 41)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -1163,6 +1147,7 @@ into your web browser:
  * json : Please copy your new API token. For your security, it won't be shown again.
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -1373,7 +1358,7 @@ into your web browser:
 ## bs
 
 <details>
-<summary>show<small> (all missing: 301, including not present: 40)</small></summary>
+<summary>show<small> (all missing: 302, including not present: 40)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -1499,6 +1484,7 @@ into your web browser:
  * json : Please copy your new API token. For your security, it won't be shown again.
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -1684,7 +1670,7 @@ into your web browser:
 ## ca
 
 <details>
-<summary>show<small> (all missing: 260, including not present: 41)</small></summary>
+<summary>show<small> (all missing: 261, including not present: 41)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -1785,6 +1771,7 @@ into your web browser:
  * json : Please copy your new API token. For your security, it won't be shown again.
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -1953,7 +1940,7 @@ into your web browser:
 ## cs
 
 <details>
-<summary>show<small> (all missing: 262, including not present: 41)</small></summary>
+<summary>show<small> (all missing: 263, including not present: 41)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -2055,6 +2042,7 @@ into your web browser:
  * json : Please copy your new API token. For your security, it won't be shown again.
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -2224,7 +2212,7 @@ into your web browser:
 ## cy
 
 <details>
-<summary>show<small> (all missing: 341, including not present: 41)</small></summary>
+<summary>show<small> (all missing: 342, including not present: 41)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -2350,6 +2338,7 @@ into your web browser:
  * json : Please copy your new API token. For your security, it won't be shown again.
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -2575,7 +2564,7 @@ into your web browser:
 ## da
 
 <details>
-<summary>show<small> (all missing: 262, including not present: 41)</small></summary>
+<summary>show<small> (all missing: 263, including not present: 41)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -2677,6 +2666,7 @@ into your web browser:
  * json : Please copy your new API token. For your security, it won't be shown again.
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -2880,7 +2870,7 @@ into your web browser:
 ## de_CH
 
 <details>
-<summary>show<small> (all missing: 169, including not present: 41)</small></summary>
+<summary>show<small> (all missing: 170, including not present: 41)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -2982,6 +2972,7 @@ into your web browser:
  * json : Please copy your new API token. For your security, it won't be shown again.
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -3058,7 +3049,7 @@ into your web browser:
 ## el
 
 <details>
-<summary>show<small> (all missing: 245, including not present: 41)</small></summary>
+<summary>show<small> (all missing: 246, including not present: 41)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you.
@@ -3156,6 +3147,7 @@ into your web browser:
  * json : Please copy your new API token. For your security, it won't be shown again.
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -3311,14 +3303,18 @@ into your web browser:
 
 ## es
 
+<details>
+<summary>show<small> (all missing: 1, including not present: 1)</small></summary>
 
-All lines are translated 😊
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## et
 
 <details>
-<summary>show<small> (all missing: 306, including not present: 41)</small></summary>
+<summary>show<small> (all missing: 307, including not present: 41)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -3444,6 +3440,7 @@ into your web browser:
  * json : Please copy your new API token. For your security, it won't be shown again.
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -3634,7 +3631,7 @@ into your web browser:
 ## eu
 
 <details>
-<summary>show<small> (all missing: 271, including not present: 52)</small></summary>
+<summary>show<small> (all missing: 272, including not present: 52)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -3738,6 +3735,7 @@ into your web browser:
  * json : Please copy your new API token. For your security, it won't be shown again.
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -3962,7 +3960,7 @@ into your web browser:
 ## fi
 
 <details>
-<summary>show<small> (all missing: 297, including not present: 188)</small></summary>
+<summary>show<small> (all missing: 298, including not present: 189)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -4084,6 +4082,7 @@ into your web browser:
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -4268,7 +4267,7 @@ into your web browser:
 ## fil
 
 <details>
-<summary>show<small> (all missing: 314, including not present: 213)</small></summary>
+<summary>show<small> (all missing: 315, including not present: 214)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration. : not present
@@ -4394,6 +4393,7 @@ into your web browser: : not present
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -4619,7 +4619,7 @@ into your web browser: : not present
 ## gl
 
 <details>
-<summary>show<small> (all missing: 269, including not present: 160)</small></summary>
+<summary>show<small> (all missing: 270, including not present: 161)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -4723,6 +4723,7 @@ into your web browser: : not present
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -4897,7 +4898,7 @@ into your web browser: : not present
 ## he
 
 <details>
-<summary>show<small> (all missing: 262, including not present: 154)</small></summary>
+<summary>show<small> (all missing: 263, including not present: 155)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -4999,6 +5000,7 @@ into your web browser: : not present
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -5168,7 +5170,7 @@ into your web browser: : not present
 ## hi
 
 <details>
-<summary>show<small> (all missing: 318, including not present: 150)</small></summary>
+<summary>show<small> (all missing: 319, including not present: 151)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -5294,6 +5296,7 @@ into your web browser:
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -5496,7 +5499,7 @@ into your web browser:
 ## hr
 
 <details>
-<summary>show<small> (all missing: 291, including not present: 182)</small></summary>
+<summary>show<small> (all missing: 292, including not present: 183)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -5614,6 +5617,7 @@ into your web browser: : not present
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -5797,7 +5801,7 @@ into your web browser: : not present
 ## hu
 
 <details>
-<summary>show<small> (all missing: 259, including not present: 152)</small></summary>
+<summary>show<small> (all missing: 260, including not present: 153)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -5898,6 +5902,7 @@ into your web browser: : not present
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -6065,7 +6070,7 @@ into your web browser: : not present
 ## hy
 
 <details>
-<summary>show<small> (all missing: 260, including not present: 153)</small></summary>
+<summary>show<small> (all missing: 261, including not present: 154)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -6168,6 +6173,7 @@ into your web browser: : not present
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -6335,7 +6341,7 @@ into your web browser: : not present
 ## id
 
 <details>
-<summary>show<small> (all missing: 152, including not present: 150)</small></summary>
+<summary>show<small> (all missing: 153, including not present: 151)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -6427,6 +6433,7 @@ into your web browser: : not present
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -6496,7 +6503,7 @@ into your web browser: : not present
 ## is
 
 <details>
-<summary>show<small> (all missing: 308, including not present: 150)</small></summary>
+<summary>show<small> (all missing: 309, including not present: 151)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -6622,6 +6629,7 @@ into your web browser:
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -7011,7 +7019,7 @@ into your web browser:
 ## ka
 
 <details>
-<summary>show<small> (all missing: 287, including not present: 181)</small></summary>
+<summary>show<small> (all missing: 288, including not present: 182)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -7129,6 +7137,7 @@ into your web browser: : not present
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -7308,7 +7317,7 @@ into your web browser: : not present
 ## kk
 
 <details>
-<summary>show<small> (all missing: 260, including not present: 152)</small></summary>
+<summary>show<small> (all missing: 261, including not present: 153)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -7409,6 +7418,7 @@ into your web browser: : not present
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -7577,7 +7587,7 @@ into your web browser: : not present
 ## km
 
 <details>
-<summary>show<small> (all missing: 302, including not present: 150)</small></summary>
+<summary>show<small> (all missing: 303, including not present: 151)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -7703,6 +7713,7 @@ into your web browser:
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -7889,7 +7900,7 @@ into your web browser:
 ## kn
 
 <details>
-<summary>show<small> (all missing: 270, including not present: 160)</small></summary>
+<summary>show<small> (all missing: 271, including not present: 161)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -7993,6 +8004,7 @@ into your web browser:
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -8249,7 +8261,7 @@ into your web browser:
 ## lv
 
 <details>
-<summary>show<small> (all missing: 306, including not present: 150)</small></summary>
+<summary>show<small> (all missing: 307, including not present: 151)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -8375,6 +8387,7 @@ into your web browser:
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -8564,14 +8577,18 @@ into your web browser:
 
 ## mk
 
+<details>
+<summary>show<small> (all missing: 1, including not present: 1)</small></summary>
 
-All lines are translated 😊
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
 
+[ [to top](#todo-list) ]
+</details>
 
 ## mn
 
 <details>
-<summary>show<small> (all missing: 331, including not present: 150)</small></summary>
+<summary>show<small> (all missing: 332, including not present: 151)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -8697,6 +8714,7 @@ into your web browser:
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -8912,7 +8930,7 @@ into your web browser:
 ## mr
 
 <details>
-<summary>show<small> (all missing: 271, including not present: 161)</small></summary>
+<summary>show<small> (all missing: 272, including not present: 162)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -9017,6 +9035,7 @@ into your web browser:
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -9192,7 +9211,7 @@ into your web browser:
 ## ms
 
 <details>
-<summary>show<small> (all missing: 181, including not present: 162)</small></summary>
+<summary>show<small> (all missing: 182, including not present: 163)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -9296,6 +9315,7 @@ into your web browser:
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -9382,7 +9402,7 @@ into your web browser:
 ## nb
 
 <details>
-<summary>show<small> (all missing: 261, including not present: 154)</small></summary>
+<summary>show<small> (all missing: 262, including not present: 155)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -9484,6 +9504,7 @@ into your web browser:
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -9652,7 +9673,7 @@ into your web browser:
 ## ne
 
 <details>
-<summary>show<small> (all missing: 169, including not present: 150)</small></summary>
+<summary>show<small> (all missing: 170, including not present: 151)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -9752,6 +9773,7 @@ into your web browser:
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -9862,7 +9884,7 @@ into your web browser:
 ## nn
 
 <details>
-<summary>show<small> (all missing: 263, including not present: 154)</small></summary>
+<summary>show<small> (all missing: 264, including not present: 155)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -9964,6 +9986,7 @@ into your web browser:
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -10134,7 +10157,7 @@ into your web browser:
 ## oc
 
 <details>
-<summary>show<small> (all missing: 213, including not present: 39)</small></summary>
+<summary>show<small> (all missing: 214, including not present: 39)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -10260,6 +10283,7 @@ into your web browser:
  * json : Please copy your new API token. For your security, it won't be shown again.
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -10389,7 +10413,7 @@ into your web browser:
 ## ps
 
 <details>
-<summary>show<small> (all missing: 271, including not present: 161)</small></summary>
+<summary>show<small> (all missing: 272, including not present: 162)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -10493,6 +10517,7 @@ into your web browser:
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -10774,7 +10799,7 @@ into your web browser:
 ## ro
 
 <details>
-<summary>show<small> (all missing: 259, including not present: 151)</small></summary>
+<summary>show<small> (all missing: 260, including not present: 152)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -10875,6 +10900,7 @@ into your web browser:
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -11048,7 +11074,7 @@ All lines are translated 😊
 ## sc
 
 <details>
-<summary>show<small> (all missing: 341, including not present: 150)</small></summary>
+<summary>show<small> (all missing: 342, including not present: 151)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -11174,6 +11200,7 @@ into your web browser:
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -11399,7 +11426,7 @@ into your web browser:
 ## si
 
 <details>
-<summary>show<small> (all missing: 305, including not present: 150)</small></summary>
+<summary>show<small> (all missing: 306, including not present: 151)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -11525,6 +11552,7 @@ into your web browser:
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -11714,7 +11742,7 @@ into your web browser:
 ## sk
 
 <details>
-<summary>show<small> (all missing: 258, including not present: 152)</small></summary>
+<summary>show<small> (all missing: 259, including not present: 153)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -11814,6 +11842,7 @@ into your web browser:
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -12029,7 +12058,7 @@ into your web browser:
 ## sq
 
 <details>
-<summary>show<small> (all missing: 215, including not present: 150)</small></summary>
+<summary>show<small> (all missing: 216, including not present: 151)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -12155,6 +12184,7 @@ into your web browser:
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -12380,7 +12410,7 @@ into your web browser:
 ## sr_Latn_ME
 
 <details>
-<summary>show<small> (all missing: 301, including not present: 149)</small></summary>
+<summary>show<small> (all missing: 302, including not present: 150)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -12506,6 +12536,7 @@ into your web browser:
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -12691,7 +12722,7 @@ into your web browser:
 ## sv
 
 <details>
-<summary>show<small> (all missing: 221, including not present: 123)</small></summary>
+<summary>show<small> (all missing: 222, including not present: 124)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -12769,6 +12800,7 @@ into your web browser:
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -12921,7 +12953,7 @@ into your web browser:
 ## sw
 
 <details>
-<summary>show<small> (all missing: 306, including not present: 150)</small></summary>
+<summary>show<small> (all missing: 307, including not present: 151)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -13047,6 +13079,7 @@ into your web browser:
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -13237,7 +13270,7 @@ into your web browser:
 ## tg
 
 <details>
-<summary>show<small> (all missing: 328, including not present: 150)</small></summary>
+<summary>show<small> (all missing: 329, including not present: 151)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -13363,6 +13396,7 @@ into your web browser:
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -13575,7 +13609,7 @@ into your web browser:
 ## th
 
 <details>
-<summary>show<small> (all missing: 276, including not present: 160)</small></summary>
+<summary>show<small> (all missing: 277, including not present: 161)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -13683,6 +13717,7 @@ into your web browser: : not present
  * json : Please copy your new API token. For your security, it won't be shown again. : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -13861,7 +13896,7 @@ into your web browser: : not present
 ## tk
 
 <details>
-<summary>show<small> (all missing: 341, including not present: 41)</small></summary>
+<summary>show<small> (all missing: 342, including not present: 41)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -13987,6 +14022,7 @@ into your web browser:
  * json : Please copy your new API token. For your security, it won't be shown again.
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -14212,7 +14248,7 @@ into your web browser:
 ## tl
 
 <details>
-<summary>show<small> (all missing: 334, including not present: 41)</small></summary>
+<summary>show<small> (all missing: 335, including not present: 41)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -14338,6 +14374,7 @@ into your web browser:
  * json : Please copy your new API token. For your security, it won't be shown again.
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -14694,7 +14731,7 @@ into your web browser:
 ## ug
 
 <details>
-<summary>show<small> (all missing: 326, including not present: 41)</small></summary>
+<summary>show<small> (all missing: 327, including not present: 41)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -14820,6 +14857,7 @@ into your web browser:
  * json : Please copy your new API token. For your security, it won't be shown again.
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -15070,7 +15108,7 @@ into your web browser:
 ## ur
 
 <details>
-<summary>show<small> (all missing: 320, including not present: 41)</small></summary>
+<summary>show<small> (all missing: 321, including not present: 41)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -15188,6 +15226,7 @@ into your web browser:
  * json : Please copy your new API token. For your security, it won't be shown again.
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -15400,7 +15439,7 @@ into your web browser:
 ## uz_Cyrl
 
 <details>
-<summary>show<small> (all missing: 303, including not present: 41)</small></summary>
+<summary>show<small> (all missing: 304, including not present: 41)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -15526,6 +15565,7 @@ into your web browser:
  * json : Please copy your new API token. For your security, it won't be shown again.
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -15713,7 +15753,7 @@ into your web browser:
 ## uz_Latn
 
 <details>
-<summary>show<small> (all missing: 303, including not present: 41)</small></summary>
+<summary>show<small> (all missing: 304, including not present: 41)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -15839,6 +15879,7 @@ into your web browser:
  * json : Please copy your new API token. For your security, it won't be shown again.
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present
@@ -16026,7 +16067,7 @@ into your web browser:
 ## vi
 
 <details>
-<summary>show<small> (all missing: 23, including not present: 23)</small></summary>
+<summary>show<small> (all missing: 24, including not present: 24)</small></summary>
 
  * json : Card : not present
  * json : Confirm Payment : not present
@@ -16046,6 +16087,7 @@ into your web browser:
  * json : Payment Confirmation : not present
  * json : Payment Successful : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
+ * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
  * json : Please provide your name. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
  * json : The payment was successful. : not present

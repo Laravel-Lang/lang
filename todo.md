@@ -16045,7 +16045,7 @@ into your web browser:
 ## vi
 
 <details>
-<summary>show<small> (all missing: 24, including not present: 24)</small></summary>
+<summary>show<small> (all missing: 17, including not present: 17)</small></summary>
 
  * json : Card : not present
  * json : Confirm Payment : not present
@@ -16054,17 +16054,10 @@ into your web browser:
  * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : Full name : not present
  * json : Go back : not present
- * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
- * json : Log in : not present
- * json : Log out : not present
- * json : Log Out : not present
- * json : Log Out Other Browser Sessions : not present
- * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Pay :amount : not present
  * json : Payment Cancelled : not present
  * json : Payment Confirmation : not present
  * json : Payment Successful : not present
- * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account. : not present
  * json : Please provide your name. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present

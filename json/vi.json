@@ -187,5 +187,12 @@
     "You may delete any of your existing tokens if they are no longer needed.": "Bạn có thể xóa bất kì token hiện có nào của mình nếu chúng không còn cần thiết.",
     "You may not delete your personal team.": "Bạn không thể xóa nhóm cá nhân của mình.",
     "You may not leave a team that you created.": "Bạn không được rời khỏi nhóm mà bạn đã tạo.",
-    "Your email address is not verified.": "Email của bạn chưa được xác minh."
+    "Your email address is not verified.": "Email của bạn chưa được xác minh.",
+    "Log in": "Đăng nhập",
+    "Log out": "Đăng xuất",
+    "Log Out": "Đăng Xuất",
+    "Log Out Other Browser Sessions": "Đăng Xuất Khỏi Các Phiên Trình Duyệt Khác",
+    "Manage and log out your active sessions on other browsers and devices.": "Quản lý và đăng xuất khỏi các phiên hoạt động của bạn trên các trình duyệt và thiết bị khác.",
+    "Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices.": "Vui lòng nhập mật khẩu của bạn để xác nhận rằng bạn muốn đăng xuất khỏi các phiên trình duyệt khác trên tất cả các thiết bị của mình.",
+    "If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.": "Nếu cần, bạn có thể đăng xuất khỏi tất cả các phiên trình duyệt khác trên tất cả các thiết bị của mình. Một số phiên gần đây của bạn được liệt kê bên dưới; tuy nhiên, danh sách này có thể không đầy đủ. Nếu bạn cảm thấy tài khoản của mình đã bị xâm phạm, bạn cũng nên cập nhật mật khẩu của mình."
 }

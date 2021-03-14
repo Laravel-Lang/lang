@@ -6824,11 +6824,10 @@ All lines are translated 😊
 ## ja
 
 <details>
-<summary>show<small> (all missing: 158, including not present: 67)</small></summary>
+<summary>show<small> (all missing: 157, including not present: 66)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Are you sure you would like to leave this team? : not present
- * json : Cancel : not present
  * json : Card : not present
  * json : Confirm Payment : not present
  * json : Confirm your :amount payment : not present

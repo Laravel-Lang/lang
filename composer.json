@@ -6,7 +6,7 @@
     "authors": [
         {
             "name": "Laravel-Lang Team",
-            "url": "https://github.com/Laravel-Lang"
+            "homepage": "https://github.com/Laravel-Lang"
         }
     ],
     "suggest": {

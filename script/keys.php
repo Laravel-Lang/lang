@@ -6,6 +6,7 @@ use Helldar\Support\Concerns\Makeable;
 use Helldar\Support\Facades\Helpers\Arr;
 use Helldar\Support\Facades\Helpers\Filesystem\Directory;
 use Helldar\Support\Facades\Helpers\Filesystem\File;
+use Helldar\Support\Facades\Helpers\Str;
 
 require __DIR__ . '/../vendor/autoload.php';
 
@@ -122,5 +123,65 @@ class Php extends Processor
     }
 }
 
+class En extends Processor
+{
+    public function run(): void
+    {
+        foreach ($this->files() as $file) {
+            $path = $this->source_path . '/' . $file;
+
+            $this->process($path, $file);
+        }
+    }
+
+    protected function load(string $path): array
+    {
+        return $this->isJson($path) ? $this->loadJson($path) : $this->loadPhp($path);
+    }
+
+    protected function loadJson(string $path): array
+    {
+        $content = Pretty::make()->loadRaw(realpath($path));
+
+        return json_decode($content, true);
+    }
+
+    protected function loadPhp(string $path): array
+    {
+        return Pretty::make()->load($path);
+    }
+
+    protected function store(string $path, array $content): void
+    {
+        $this->isJson($path)
+            ? $this->storeJson($path, $content)
+            : $this->storePhp($path, $content);
+    }
+
+    protected function storeJson(string $path, array $content): void
+    {
+        Arr::storeAsJson($path, $content, true, JSON_UNESCAPED_UNICODE ^ JSON_PRETTY_PRINT);
+    }
+
+    protected function storePhp(string $path, array $content): void
+    {
+        $service = Formatter::make();
+        $service->setEqualsAlign();
+
+        Pretty::make($service->raw($content))->store($path);
+    }
+
+    protected function files(): array
+    {
+        return File::names($this->source_path);
+    }
+
+    protected function isJson(string $filename): bool
+    {
+        return Str::endsWith($filename, 'json');
+    }
+}
+
+En::make()->run();
 Json::make()->run();
 Php::make()->run();

@@ -1,18 +1,6 @@
 <?php
 
 return [
-
-    /*
-    |--------------------------------------------------------------------------
-    | Validation Language Lines
-    |--------------------------------------------------------------------------
-    |
-    | The following language lines contain the default error messages used by
-    | the validator class. Some of these rules have multiple versions such
-    | as the size rules. Feel free to tweak each of these messages here.
-    |
-    */
-
     'accepted'             => 'This field must be accepted.',
     'active_url'           => 'This is not a valid URL.',
     'after'                => 'This must be a date after :date.',
@@ -31,6 +19,11 @@ return [
     ],
     'boolean'              => 'This field must be true or false.',
     'confirmed'            => 'The confirmation does not match.',
+    'custom'               => [
+        'attribute-name' => [
+            'rule-name' => 'custom-message',
+        ],
+    ],
     'date'                 => 'This is not a valid date.',
     'date_equals'          => 'This must be a date equal to :date.',
     'date_format'          => 'This does not match the format :format.',
@@ -58,8 +51,8 @@ return [
     ],
     'image'                => 'This must be an image.',
     'in'                   => 'The selected value is invalid.',
-    'in_array'             => 'This value does not exist in :other.',
     'integer'              => 'This must be an integer.',
+    'in_array'             => 'This value does not exist in :other.',
     'ip'                   => 'This must be a valid IP address.',
     'ipv4'                 => 'This must be a valid IPv4 address.',
     'ipv6'                 => 'This must be a valid IPv6 address.',
@@ -101,9 +94,9 @@ return [
     'required_if'          => 'This field is required when :other is :value.',
     'required_unless'      => 'This field is required unless :other is in :values.',
     'required_with'        => 'This field is required when :values is present.',
-    'required_with_all'    => 'This field is required when :values are present.',
     'required_without'     => 'This field is required when :values is not present.',
     'required_without_all' => 'This field is required when none of :values are present.',
+    'required_with_all'    => 'This field is required when :values are present.',
     'same'                 => 'The value of this field must match the one from :other.',
     'size'                 => [
         'numeric' => 'The value must be :size.',
@@ -118,22 +111,4 @@ return [
     'uploaded'             => 'This failed to upload.',
     'url'                  => 'This format is invalid.',
     'uuid'                 => 'This must be a valid UUID.',
-
-    /*
-    |--------------------------------------------------------------------------
-    | Custom Validation Language Lines
-    |--------------------------------------------------------------------------
-    |
-    | Here you may specify custom validation messages for attributes using the
-    | convention "attribute.rule" to name the lines. This makes it quick to
-    | specify a specific custom language line for a given attribute rule.
-    |
-    */
-
-    'custom' => [
-        'attribute-name' => [
-            'rule-name' => 'custom-message',
-        ],
-    ],
-
 ];

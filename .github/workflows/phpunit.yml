@@ -14,8 +14,8 @@ jobs:
             -   name: Setup PHP
                 uses: shivammathur/setup-php@v2
                 with:
-                    php-version: ${{ matrix.php }}
-                    extensions: curl, mbstring, zip, pcntl, pdo, pdo_sqlite, iconv
+                    php-version: 8.0
+                    extensions: curl, mbstring, zip, pcntl, pdo, pdo_sqlite, iconv, json
                     coverage: none
 
             -   name: Composer self update

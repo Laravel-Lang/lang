@@ -4,9 +4,8 @@ namespace Tests;
 
 use Helldar\PrettyArray\Services\File as Pretty;
 use Helldar\Support\Facades\Helpers\Filesystem\Directory;
-use Tests\TestCase as BaseTestCase;
 
-final class PhpTest extends BaseTestCase
+final class PhpTest extends TestCase
 {
     protected $target_path = __DIR__ . '/../src';
 

@@ -6824,11 +6824,10 @@ All lines are translated 😊
 ## ja
 
 <details>
-<summary>show<small> (all missing: 164, including not present: 73)</small></summary>
+<summary>show<small> (all missing: 157, including not present: 66)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Are you sure you would like to leave this team? : not present
- * json : Cancel : not present
  * json : Card : not present
  * json : Confirm Payment : not present
  * json : Confirm your :amount payment : not present
@@ -6841,7 +6840,6 @@ All lines are translated 😊
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
- * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : If you already have an account, you may accept this invitation by clicking the button below: : not present
  * json : If you did not expect to receive an invitation to this team, you may discard this email. : not present
  * json : If you do not have an account, you may create one by clicking the button below. After creating an account, you may click the invitation acceptance button in this email to accept the team invitation: : not present
@@ -6849,11 +6847,7 @@ All lines are translated 😊
  * json : Last used : not present
  * json : Leave Team : not present
  * json : Leave : not present
- * json : Log in : not present
  * json : Log out : not present
- * json : Log Out : not present
- * json : Log Out Other Browser Sessions : not present
- * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : Not Found : not present
  * json : of : not present
  * json : Pagination Navigation : not present
@@ -6863,7 +6857,6 @@ All lines are translated 😊
  * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Please confirm your password before continuing. : not present
- * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
  * json : Please provide your name. : not present
  * json : Privacy Policy : not present

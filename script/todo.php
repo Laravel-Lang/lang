@@ -106,32 +106,18 @@ class Output
             return $this->eol . 'All lines are translated 😊' . $this->eol;
         }
 
-        $content       = implode($this->eol, $values);
-        $sumMissing    = count($values);
-        $sumNotPresent = $this->getSumNotPresent($values);
+        $content    = implode($this->eol, $values);
+        $sumMissing = count($values);
 
         return <<<HTML
 <details>
-<summary>show<small> (all missing: $sumMissing, including not present: $sumNotPresent)</small></summary>
+<summary>show<small> (all missing: $sumMissing)</small></summary>
 
 {$content}
 
 [ [to top](#todo-list) ]
 </details>
 HTML;
-    }
-
-    protected function getSumNotPresent(array $data): int
-    {
-        $sum = 0;
-
-        foreach ($data as $value) {
-            if (strpos($value, ' : not present') !== false) {
-                $sum++;
-            }
-        }
-
-        return $sum;
     }
 
     protected function table(): string
@@ -201,7 +187,7 @@ class TodoGenerator
     /**
      * Returns object.
      *
-     * @param  string  $basePath base path
+     * @param  string  $basePath  base path
      *
      * @return TodoGenerator
      */
@@ -238,8 +224,8 @@ class TodoGenerator
     /**
      * Returns array of translations by language.
      *
-     * @param  string  $language language code
-     * @param  string  $directory directory
+     * @param  string  $language  language code
+     * @param  string  $directory  directory
      *
      * @return array
      */
@@ -300,8 +286,8 @@ class TodoGenerator
     /**
      * Compare translations.
      *
-     * @param  array  $default language by default
-     * @param  array  $languages others languages
+     * @param  array  $default  language by default
+     * @param  array  $languages  others languages
      */
     private function compareTranslations(array $languages, array $default)
     {
@@ -340,12 +326,12 @@ class TodoGenerator
     {
         $newArray = [];
 
-        if ( ! is_array($ignore)) {
+        if (! is_array($ignore)) {
             $ignore = (array) $ignore;
         }
 
         foreach ($items as $key => $value) {
-            if( in_array($key, $ignore)) {
+            if (in_array($key, $ignore)) {
                 continue;
             }
 
@@ -355,7 +341,7 @@ class TodoGenerator
                     $this->align($value, $ignore, $prefix . $key . $connector, '.')
                 );
             } else {
-                $newArray[$prefix.$key] = $value;
+                $newArray[$prefix . $key] = $value;
             }
         }
 

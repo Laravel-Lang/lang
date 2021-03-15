@@ -16,5 +16,9 @@
     },
     "require": {
         "ext-json": "*"
+    },
+    "require-dev": {
+        "andrey-helldar/support": "^2.18.3",
+        "andrey-helldar/pretty-array": "^2.0"
     }
 }

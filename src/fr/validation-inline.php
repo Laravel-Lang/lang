@@ -1,20 +1,8 @@
 <?php
 
 return [
-
-    /*
-    |--------------------------------------------------------------------------
-    | Validation Language Lines
-    |--------------------------------------------------------------------------
-    |
-    | The following language lines contain the default error messages used by
-    | the validator class. Some of these rules have multiple versions such
-    | as the size rules. Feel free to tweak each of these messages here.
-    |
-    */
-
     'accepted'             => 'Ce champ doit être accepté.',
-    'active_url'           => "Ce n'est pas une URL valide",
+    'active_url'           => 'Ce n\'est pas une URL valide',
     'after'                => 'La date doit être postérieure au :date.',
     'after_or_equal'       => 'La date doit être postérieure ou égale au :date.',
     'alpha'                => 'Ce champ doit contenir uniquement des lettres',
@@ -31,13 +19,13 @@ return [
     ],
     'boolean'              => 'Ce champ doit être vrai ou faux.',
     'confirmed'            => 'Le champ de confirmation ne correspond pas.',
-    'date'                 => "Ce n'est pas une date valide.",
+    'date'                 => 'Ce n\'est pas une date valide.',
     'date_equals'          => 'La date doit être égale à :date.',
     'date_format'          => 'Ce champ ne correspond pas au format :format.',
     'different'            => 'Cette valeur doit être différente de :other.',
     'digits'               => 'Ce champ doit contenir :digits chiffres.',
     'digits_between'       => 'Ce champ doit contenir entre :min et :max chiffres.',
-    'dimensions'           => "La taille de l'image n'est pas conforme.",
+    'dimensions'           => 'La taille de l\'image n\'est pas conforme.',
     'distinct'             => 'Ce champ a une valeur en double.',
     'email'                => 'Ce champ doit être une adresse email valide.',
     'ends_with'            => 'Ce champ doit se terminer par une des valeurs suivantes : :values',
@@ -58,7 +46,7 @@ return [
     ],
     'image'                => 'Ce champ doit être une image.',
     'in'                   => 'Ce champ est invalide.',
-    'in_array'             => "Ce champ n'existe pas dans :other.",
+    'in_array'             => 'Ce champ n\'existe pas dans :other.',
     'integer'              => 'Ce champ doit être un entier.',
     'ip'                   => 'Ce champ doit être une adresse IP valide.',
     'ipv4'                 => 'Ce champ doit être une adresse IPv4 valide.',
@@ -91,8 +79,8 @@ return [
         'array'   => 'Le tableau doit contenir au moins :min éléments.',
     ],
     'multiple_of'          => 'La valeur doit être un multiple de :value',
-    'not_in'               => "Le champ sélectionné n'est pas valide.",
-    'not_regex'            => "Le format du champ n'est pas valide.",
+    'not_in'               => 'Le champ sélectionné n\'est pas valide.',
+    'not_regex'            => 'Le format du champ n\'est pas valide.',
     'numeric'              => 'Ce champ doit contenir un nombre.',
     'password'             => 'Le mot de passe est incorrect',
     'present'              => 'Ce champ doit être présent.',
@@ -102,8 +90,8 @@ return [
     'required_unless'      => 'Ce champ est obligatoire sauf si :other est :values.',
     'required_with'        => 'Ce champ est obligatoire quand :values est présent.',
     'required_with_all'    => 'Ce champ est obligatoire quand :values sont présents.',
-    'required_without'     => "Ce champ est obligatoire quand :values n'est pas présent.",
-    'required_without_all' => "Ce champ est requis quand aucun de :values n'est présent.",
+    'required_without'     => 'Ce champ est obligatoire quand :values n\'est pas présent.',
+    'required_without_all' => 'Ce champ est requis quand aucun de :values n\'est présent.',
     'same'                 => 'Ce champ doit être identique à :other.',
     'size'                 => [
         'numeric' => 'La valeur doit être :size.',
@@ -115,67 +103,12 @@ return [
     'string'               => 'Ce champ doit être une chaîne de caractères.',
     'timezone'             => 'Ce champ doit être un fuseau horaire valide.',
     'unique'               => 'La valeur est déjà utilisée.',
-    'uploaded'             => "Le fichier n'a pu être téléversé.",
-    'url'                  => "Le format de l'URL n'est pas valide.",
+    'uploaded'             => 'Le fichier n\'a pu être téléversé.',
+    'url'                  => 'Le format de l\'URL n\'est pas valide.',
     'uuid'                 => 'Ce champ doit être un UUID valide',
-
-    /*
-    |--------------------------------------------------------------------------
-    | Custom Validation Language Lines
-    |--------------------------------------------------------------------------
-    |
-    | Here you may specify custom validation messages for attributes using the
-    | convention "attribute.rule" to name the lines. This makes it quick to
-    | specify a specific custom language line for a given attribute rule.
-    |
-    */
-
-    'custom' => [
+    'custom'               => [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
-    ],
-
-    /*
-    |--------------------------------------------------------------------------
-    | Custom Validation Attributes
-    |--------------------------------------------------------------------------
-    |
-    | The following language lines are used to swap attribute place-holders
-    | with something more reader friendly such as E-Mail Address instead
-    | of "email". This simply helps us make messages a little cleaner.
-    |
-    */
-
-    'attributes' => [
-        'name'                  => 'nom',
-        'username'              => "nom d'utilisateur",
-        'email'                 => 'adresse email',
-        'first_name'            => 'prénom',
-        'last_name'             => 'nom',
-        'password'              => 'mot de passe',
-        'password_confirmation' => 'confirmation du mot de passe',
-        'city'                  => 'ville',
-        'country'               => 'pays',
-        'address'               => 'adresse',
-        'phone'                 => 'téléphone',
-        'mobile'                => 'portable',
-        'age'                   => 'âge',
-        'sex'                   => 'sexe',
-        'gender'                => 'genre',
-        'day'                   => 'jour',
-        'month'                 => 'mois',
-        'year'                  => 'année',
-        'hour'                  => 'heure',
-        'minute'                => 'minute',
-        'second'                => 'seconde',
-        'title'                 => 'titre',
-        'content'               => 'contenu',
-        'description'           => 'description',
-        'excerpt'               => 'extrait',
-        'date'                  => 'date',
-        'time'                  => 'heure',
-        'available'             => 'disponible',
-        'size'                  => 'taille',
     ],
 ];

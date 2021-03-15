@@ -38,7 +38,7 @@ jobs:
 
                     { git add . && git commit -a -m "Updating translations keys"; } || IS_DIRTY=0
 
-                    echo ::set-output name=is_dirty_keys::${IS_DIRTY}
+                    echo ::set-output name=is_dirty::${IS_DIRTY}
 
             -   name: Generate todo.md
                 if: success()
@@ -52,7 +52,7 @@ jobs:
 
                     { git add . && git commit -a -m "Updated todo.md file"; } || IS_DIRTY=0
 
-                    echo ::set-output name=is_dirty_todo::${IS_DIRTY}
+                    echo ::set-output name=is_dirty::${IS_DIRTY}
 
             -   name: Push changes
                 uses: ad-m/github-push-action@master

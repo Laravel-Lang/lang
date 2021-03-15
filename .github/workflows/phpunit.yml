@@ -22,8 +22,7 @@ jobs:
                 run: composer self-update
 
             -   name: Install dependencies
-                run: |
-                    composer update --prefer-stable --prefer-dist --no-progress --no-interaction
+                run: composer update --prefer-stable --prefer-dist --no-progress --no-interaction
 
             -   name: Execute tests
                 run: sudo vendor/bin/phpunit

@@ -1,0 +1,29 @@
+name: phpunit
+on: [ push ]
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+
+        name: PHP Unit
+
+        steps:
+            -   name: Checkout code
+                uses: actions/checkout@v2
+
+            -   name: Setup PHP
+                uses: shivammathur/setup-php@v2
+                with:
+                    php-version: ${{ matrix.php }}
+                    extensions: curl, mbstring, zip, pcntl, pdo, pdo_sqlite, iconv
+                    coverage: none
+
+            -   name: Composer self update
+                run: composer self-update
+
+            -   name: Install dependencies
+                run: |
+                    composer update --prefer-stable --prefer-dist --no-progress --no-interaction
+
+            -   name: Execute tests
+                run: sudo vendor/bin/phpunit

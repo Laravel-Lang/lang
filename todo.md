@@ -8,7 +8,7 @@
 [ms ❗](#ms)|[nb ❗](#nb)|[ne ❗](#ne)|[nl ❗](#nl)|[nn ❗](#nn)|[oc ❗](#oc)|[pl ❗](#pl)|[ps ❗](#ps)|[pt ❗](#pt)|[pt_BR ❗](#pt_BR)
 [ro ❗](#ro)|[ru ✔](#ru)|[sc ❗](#sc)|[si ❗](#si)|[sk ❗](#sk)|[sl ❗](#sl)|[sq ❗](#sq)|[sr_Cyrl ❗](#sr_Cyrl)|[sr_Latn ❗](#sr_Latn)|[sr_Latn_ME ❗](#sr_Latn_ME)
 [sv ❗](#sv)|[sw ❗](#sw)|[tg ❗](#tg)|[th ❗](#th)|[tk ❗](#tk)|[tl ❗](#tl)|[tr ❗](#tr)|[ug ❗](#ug)|[uk ❗](#uk)|[ur ❗](#ur)
-[uz_Cyrl ❗](#uz_Cyrl)|[uz_Latn ❗](#uz_Latn)|[vi ❗](#vi)|[zh_CN ❗](#zh_CN)|[zh_HK ❗](#zh_HK)|[zh_TW ❗](#zh_TW)
+[uz_Cyrl ❗](#uz_Cyrl)|[uz_Latn ❗](#uz_Latn)|[vi ❗](#vi)|[zh_CN ✔](#zh_CN)|[zh_HK ✔](#zh_HK)|[zh_TW ✔](#zh_TW)
 
 
 
@@ -16063,75 +16063,17 @@ into your web browser:
 
 ## zh_CN
 
-<details>
-<summary>show<small> (all missing: 16, including not present: 16)</small></summary>
 
- * json : Card : not present
- * json : Confirm Payment : not present
- * json : Confirm your :amount payment : not present
- * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
- * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
- * json : Full name : not present
- * json : Go back : not present
- * json : Pay :amount : not present
- * json : Payment Cancelled : not present
- * json : Payment Confirmation : not present
- * json : Payment Successful : not present
- * json : Please provide your name. : not present
- * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
- * json : The payment was successful. : not present
- * json : This payment was already successfully confirmed. : not present
- * json : This payment was cancelled. : not present
+All lines are translated 😊
 
-[ [to top](#todo-list) ]
-</details>
 
 ## zh_HK
 
-<details>
-<summary>show<small> (all missing: 16, including not present: 16)</small></summary>
 
- * json : Card : not present
- * json : Confirm Payment : not present
- * json : Confirm your :amount payment : not present
- * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
- * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
- * json : Full name : not present
- * json : Go back : not present
- * json : Pay :amount : not present
- * json : Payment Cancelled : not present
- * json : Payment Confirmation : not present
- * json : Payment Successful : not present
- * json : Please provide your name. : not present
- * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
- * json : The payment was successful. : not present
- * json : This payment was already successfully confirmed. : not present
- * json : This payment was cancelled. : not present
+All lines are translated 😊
 
-[ [to top](#todo-list) ]
-</details>
 
 ## zh_TW
 
-<details>
-<summary>show<small> (all missing: 16, including not present: 16)</small></summary>
 
- * json : Card : not present
- * json : Confirm Payment : not present
- * json : Confirm your :amount payment : not present
- * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
- * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
- * json : Full name : not present
- * json : Go back : not present
- * json : Pay :amount : not present
- * json : Payment Cancelled : not present
- * json : Payment Confirmation : not present
- * json : Payment Successful : not present
- * json : Please provide your name. : not present
- * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
- * json : The payment was successful. : not present
- * json : This payment was already successfully confirmed. : not present
- * json : This payment was cancelled. : not present
-
-[ [to top](#todo-list) ]
-</details>
+All lines are translated 😊

@@ -26,9 +26,22 @@ abstract class Processor
 
     abstract protected function store(string $path, array $content): void;
 
-    protected function compare(array $source, array $target): array
+    protected function compare(array $source, array $target, string $filename): array
     {
         $target = Arr::only($target, array_keys($source));
+
+        $this->sort($source);
+        $this->sort($target);
+
+        if ($this->isValidation($filename)) {
+            $custom     = $this->getFallbackValue($source, $target, 'custom');
+            $attributes = $this->getFallbackValue($source, $target, 'attributes');
+
+            $source = Arr::except($source, ['custom', 'attributes']);
+            $target = Arr::except($target, ['custom', 'attributes']);
+
+            return array_merge($source, $target, compact('custom', 'attributes'));
+        }
 
         return array_merge($source, $target);
     }
@@ -38,7 +51,7 @@ abstract class Processor
         $source = $this->source($this->source_path, $filename);
         $target = $this->load($target_path);
 
-        $content = $this->compare($source, $target);
+        $content = $this->compare($source, $target, $filename);
 
         $this->store($target_path, $content);
     }
@@ -50,6 +63,27 @@ abstract class Processor
         }
 
         return $this->source[$filename] = $this->load($directory . '/' . $filename);
+    }
+
+    protected function getFallbackValue(array $source, array $target, string $key)
+    {
+        return Arr::get($target, $key) ?: Arr::get($source, $key);
+    }
+
+    protected function isValidation(string $filename): bool
+    {
+        return Str::startsWith($filename, 'validation');
+    }
+
+    protected function sort(array &$array): void
+    {
+        ksort($array, SORT_FLAG_CASE ^ SORT_STRING);
+
+        foreach ($array as $key => &$value) {
+            if (is_array($value)) {
+                $this->sort($value);
+            }
+        }
     }
 }
 
@@ -80,7 +114,7 @@ class Json extends Processor
 
     protected function store(string $path, array $content): void
     {
-        Arr::storeAsJson($path, $content, true, JSON_UNESCAPED_UNICODE ^ JSON_PRETTY_PRINT);
+        Arr::storeAsJson($path, $content, false, JSON_UNESCAPED_UNICODE ^ JSON_PRETTY_PRINT);
     }
 }
 

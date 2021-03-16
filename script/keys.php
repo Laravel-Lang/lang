@@ -77,13 +77,7 @@ abstract class Processor
 
     protected function sort(array &$array): void
     {
-        ksort($array, SORT_FLAG_CASE ^ SORT_STRING);
-
-        foreach ($array as $key => &$value) {
-            if (is_array($value)) {
-                $this->sort($value);
-            }
-        }
+        $array = Arr::ksort($array);
     }
 }
 

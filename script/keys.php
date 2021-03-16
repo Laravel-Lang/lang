@@ -67,7 +67,7 @@ abstract class Processor
 
     protected function getFallbackValue(array $source, array $target, string $key)
     {
-        return Arr::get($target, $key) ?: Arr::get($source, $key);
+        return Arr::get($target, $key) ?: Arr::get($source, $key, []);
     }
 
     protected function isValidation(string $filename): bool

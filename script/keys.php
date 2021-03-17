@@ -178,40 +178,5 @@ class Php extends Processor
     }
 }
 
-class En extends Processor
-{
-    public function run(): void
-    {
-        foreach ($this->files() as $file) {
-            $path = $this->source_path . '/' . $file;
-
-            $this->process($path, $file);
-        }
-    }
-
-    protected function load(string $path): array
-    {
-        return $this->isJson($path) ? $this->loadJson($path) : $this->loadPhp($path);
-    }
-
-    protected function loadJson(string $path): array
-    {
-        $content = Pretty::make()->loadRaw(realpath($path));
-
-        return json_decode($content, true);
-    }
-
-    protected function loadPhp(string $path): array
-    {
-        return Pretty::make()->load($path);
-    }
-
-    protected function files(): array
-    {
-        return File::names($this->source_path);
-    }
-}
-
-En::make()->run();
 Json::make()->run();
 Php::make()->run();

@@ -23,7 +23,7 @@
     },
     "require-dev": {
         "php": "^7.4|^8.0",
-        "andrey-helldar/support": "^2.19.1",
+        "andrey-helldar/support": "^2.20",
         "andrey-helldar/pretty-array": "^2.0",
         "phpunit/phpunit": "^9.5"
     },

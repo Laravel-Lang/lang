@@ -24,8 +24,6 @@ abstract class Processor
 
     abstract protected function load(string $path): array;
 
-    abstract protected function store(string $path, array $content): void;
-
     protected function compare(array $source, array $target, string $filename): array
     {
         $target = Arr::only($target, array_keys($source));
@@ -77,7 +75,49 @@ abstract class Processor
 
     protected function sort(array &$array): void
     {
-        $array = Arr::ksort($array);
+        $array = Arr::ksort($array, static function ($current, $next) {
+            $current = is_string($current) ? Str::lower($current) : $current;
+            $next    = is_string($next) ? Str::lower($next) : $next;
+
+            if ($current === $next) {
+                return 0;
+            }
+
+            if (is_string($current) && is_numeric($next)) {
+                return -1;
+            }
+
+            if (is_numeric($current) && is_string($next)) {
+                return 1;
+            }
+
+            return $current < $next ? -1 : 1;
+        });
+    }
+
+    protected function isJson(string $filename): bool
+    {
+        return Str::endsWith($filename, 'json');
+    }
+
+    protected function store(string $path, array $content): void
+    {
+        $this->isJson($path)
+            ? $this->storeJson($path, $content)
+            : $this->storePhp($path, $content);
+    }
+
+    protected function storeJson(string $path, array $content): void
+    {
+        Arr::storeAsJson($path, $content, false, JSON_UNESCAPED_UNICODE ^ JSON_PRETTY_PRINT);
+    }
+
+    protected function storePhp(string $path, array $content): void
+    {
+        $service = Formatter::make();
+        $service->setEqualsAlign();
+
+        Pretty::make($service->raw($content))->store($path);
     }
 }
 
@@ -104,11 +144,6 @@ class Json extends Processor
         $content = Pretty::make()->loadRaw(realpath($path));
 
         return json_decode($content, true);
-    }
-
-    protected function store(string $path, array $content): void
-    {
-        Arr::storeAsJson($path, $content, false, JSON_UNESCAPED_UNICODE ^ JSON_PRETTY_PRINT);
     }
 }
 
@@ -141,14 +176,6 @@ class Php extends Processor
     {
         return Pretty::make()->load($path);
     }
-
-    protected function store(string $path, array $content): void
-    {
-        $service = Formatter::make();
-        $service->setEqualsAlign();
-
-        Pretty::make($service->raw($content))->store($path);
-    }
 }
 
 class En extends Processor
@@ -179,34 +206,9 @@ class En extends Processor
         return Pretty::make()->load($path);
     }
 
-    protected function store(string $path, array $content): void
-    {
-        $this->isJson($path)
-            ? $this->storeJson($path, $content)
-            : $this->storePhp($path, $content);
-    }
-
-    protected function storeJson(string $path, array $content): void
-    {
-        Arr::storeAsJson($path, $content, true, JSON_UNESCAPED_UNICODE ^ JSON_PRETTY_PRINT);
-    }
-
-    protected function storePhp(string $path, array $content): void
-    {
-        $service = Formatter::make();
-        $service->setEqualsAlign();
-
-        Pretty::make($service->raw($content))->store($path);
-    }
-
     protected function files(): array
     {
         return File::names($this->source_path);
-    }
-
-    protected function isJson(string $filename): bool
-    {
-        return Str::endsWith($filename, 'json');
     }
 }
 

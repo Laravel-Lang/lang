@@ -18,13 +18,20 @@ jobs:
                 uses: shivammathur/setup-php@v2
                 with:
                     php-version: 8.0
-                    extensions: mbstring, json
+                    extensions: curl, mbstring, zip, pcntl, pdo, pdo_sqlite, iconv, json
+                    coverage: none
 
             -   name: Git setup
                 if: success()
                 run: |
                     git config --local user.email "action@github.com"
                     git config --local user.name "GitHub Action"
+
+            -   name: Composer self update
+                run: composer self-update
+
+            -   name: Install dependencies
+                run: composer update --prefer-stable --prefer-dist --no-progress --no-interaction
 
             -   name: Keys actualization
                 if: success()

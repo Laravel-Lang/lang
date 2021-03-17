@@ -75,24 +75,7 @@ abstract class Processor
 
     protected function sort(array &$array): void
     {
-        $array = Arr::ksort($array, static function ($current, $next) {
-            $current = is_string($current) ? Str::lower($current) : $current;
-            $next    = is_string($next) ? Str::lower($next) : $next;
-
-            if ($current === $next) {
-                return 0;
-            }
-
-            if (is_string($current) && is_numeric($next)) {
-                return -1;
-            }
-
-            if (is_numeric($current) && is_string($next)) {
-                return 1;
-            }
-
-            return $current < $next ? -1 : 1;
-        });
+        $array = Arr::ksort($array);
     }
 
     protected function isJson(string $filename): bool

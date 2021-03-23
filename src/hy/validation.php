@@ -1,18 +1,6 @@
 <?php
 
 return [
-
-    /*
-    |--------------------------------------------------------------------------
-    | Validation Language Lines
-    |--------------------------------------------------------------------------
-    |
-    | The following language lines contain the default error messages used by
-    | the validator class. Some of these rules have multiple versions such
-    | as the size rules. Feel free to tweak each of these messages here.
-    |
-    */
-
     'accepted'             => ':attribute դաշտը պետք է ընդունվի։',
     'active_url'           => ':attribute դաշտը վավեր URL չէ։',
     'after'                => ':attribute դաշտի ամսաթիվը պետք է լինի :date-ից հետո։',
@@ -21,13 +9,14 @@ return [
     'alpha_dash'           => ':attribute դաշտը պետք է պարունակի միայն տառեր, թվեր, գծիկներ և ընդգծումներ։',
     'alpha_num'            => ':attribute դաշտը պետք է պարունակի միայն տառեր և թվեր։',
     'array'                => ':attribute դաշտը պետք է լինի զանգված։',
+    'attached'             => 'This :attribute is already attached.',
     'before'               => ':attribute դաշտի ամսաթիվը պետք է լինի :date-ից առաջ։',
     'before_or_equal'      => ':attribute դաշտի ամսաթիվը պետք է լինի :date կամ դրանից առաջ։',
     'between'              => [
-        'numeric' => ':attribute դաշտը պետք է լինի :min և :max թվերի միջև։',
-        'file'    => ':attribute դաշտի ֆայլի չափը պետք է լինի :min և :max կիլոբայթի միջև։',
-        'string'  => ':attribute դաշտը պետք է ունենա :min-ից :max նիշ։',
         'array'   => ':attribute դաշտում էլեմենտների քանակը պետք է լինի :min-ի և :max-ի միջև։',
+        'file'    => ':attribute դաշտի ֆայլի չափը պետք է լինի :min և :max կիլոբայթի միջև։',
+        'numeric' => ':attribute դաշտը պետք է լինի :min և :max թվերի միջև։',
+        'string'  => ':attribute դաշտը պետք է ունենա :min-ից :max նիշ։',
     ],
     'boolean'              => ':attribute դաշտի արժեքը պետք է լինի ճշմարիտ կամ կեղծ։',
     'confirmed'            => ':attribute դաշտը չի համապատասխանում հաստատմանը։',
@@ -45,16 +34,16 @@ return [
     'file'                 => ':attribute-ը պետք է լինի ֆայլ։',
     'filled'               => ':attribute դաշտը պետք է անպայման ունենա արժեք։',
     'gt'                   => [
-        'numeric' => ':attribute դաշտը պետք է լինի :value-ից մեծ։',
-        'file'    => ':attribute դաշտի ֆայլի չափը պետք է լինի :value կիլոբայթից մեծ։',
-        'string'  => ':attribute դաշտի նիշերի քանակը պետք է գերազանցի :value-ը։',
         'array'   => ':attribute դաշտում էլեմենտների քանակը պետք է լինի :value-ից մեծ։',
+        'file'    => ':attribute դաշտի ֆայլի չափը պետք է լինի :value կիլոբայթից մեծ։',
+        'numeric' => ':attribute դաշտը պետք է լինի :value-ից մեծ։',
+        'string'  => ':attribute դաշտի նիշերի քանակը պետք է գերազանցի :value-ը։',
     ],
     'gte'                  => [
-        'numeric' => ':attribute դաշտը պետք է մեծ կամ հավասար լինի :value-ից։',
-        'file'    => ':attribute դաշտի ֆայլի չափը պետք է մեծ կամ հավասար լինի :value կիլոբայթից։',
-        'string'  => ':attribute դաշտի նիշերի քանակը պետք է մեծ կամ հավասար լինի :value-ից։',
         'array'   => ':attribute դաշտում էլեմենտների քանակը պետք է մեծ կամ հավասար լինի :value-ից։',
+        'file'    => ':attribute դաշտի ֆայլի չափը պետք է մեծ կամ հավասար լինի :value կիլոբայթից։',
+        'numeric' => ':attribute դաշտը պետք է մեծ կամ հավասար լինի :value-ից։',
+        'string'  => ':attribute դաշտի նիշերի քանակը պետք է մեծ կամ հավասար լինի :value-ից։',
     ],
     'image'                => ':attribute դաշտը պետք է լինի նկար։',
     'in'                   => ':attribute դաշտի ընտրված արժեքն անվավեր է։',
@@ -65,30 +54,30 @@ return [
     'ipv6'                 => ':attribute դաշտը պետք է լինի վավեր IPv6 հասցե։',
     'json'                 => ':attribute դաշտը պետք է լինի վավեր JSON տեքստ։',
     'lt'                   => [
-        'numeric' => ':attribute դաշտը պետք է փոքր լինի :value-ից։',
-        'file'    => ':attribute դաշտի ֆայլի չափը պետք է փոքր լինի :value կիլոբայթից։',
-        'string'  => ':attribute դաշտը պետք է ունենա :value-ից պակաս նիշեր։',
         'array'   => ':attribute դաշտում էլեմենտների քանակը պետք է փոքր լինի :value-ից։',
+        'file'    => ':attribute դաշտի ֆայլի չափը պետք է փոքր լինի :value կիլոբայթից։',
+        'numeric' => ':attribute դաշտը պետք է փոքր լինի :value-ից։',
+        'string'  => ':attribute դաշտը պետք է ունենա :value-ից պակաս նիշեր։',
     ],
     'lte'                  => [
-        'numeric' => ':attribute դաշտը պետք է փոքր կամ հավասար լինի :value-ից։',
-        'file'    => ':attribute դաշտի ֆայլի չափը պետք է փոքր կամ հավասար լինի :value կիլոբայթից։',
-        'string'  => ':attribute դաշտի նիշերի քանակը պետք է փոքր կամ հավասար լինի :value-ից։',
         'array'   => ':attribute դաշտում էլեմենտների քանակը պետք է փոքր կամ հավասար լինի :value-ից։',
+        'file'    => ':attribute դաշտի ֆայլի չափը պետք է փոքր կամ հավասար լինի :value կիլոբայթից։',
+        'numeric' => ':attribute դաշտը պետք է փոքր կամ հավասար լինի :value-ից։',
+        'string'  => ':attribute դաշտի նիշերի քանակը պետք է փոքր կամ հավասար լինի :value-ից։',
     ],
     'max'                  => [
-        'numeric' => ':attribute դաշտը չի կարող լինել :max-ից մեծ։',
-        'file'    => ':attribute դաշտի ֆայլի չափը չպետք է գերազանցի :max կիլոբայթը։',
-        'string'  => ':attribute դաշտի նիշերի քանակը չի կարող լինել :max-ց մեծ։',
         'array'   => ':attribute դաշտում էլեմենտների քանակը չպետք է գերազանցի :max-ը։',
+        'file'    => ':attribute դաշտի ֆայլի չափը չպետք է գերազանցի :max կիլոբայթը։',
+        'numeric' => ':attribute դաշտը չի կարող լինել :max-ից մեծ։',
+        'string'  => ':attribute դաշտի նիշերի քանակը չի կարող լինել :max-ց մեծ։',
     ],
     'mimes'                => ':attribute դաշտի ֆայլի տեսակը պետք է լինի հետևյալներից մեկը․ :values։',
     'mimetypes'            => ':attribute դաշտի ֆայլի տեսակը պետք է լինի հետևյալներից մեկը․ :values։',
     'min'                  => [
-        'numeric' => ':attribute դաշտը պետք է լինի առնվազն :min։',
-        'file'    => ':attribute դաշտի ֆայլի չափը պետք է լինի առնվազն :min կիլոբայթ։',
-        'string'  => ':attribute դաշտի նիշերի քանակը պետք է լինի առնվազն :min։',
         'array'   => ':attribute դաշտում էլեմենտների քանակը պետք է լինի առնվազն :min։',
+        'file'    => ':attribute դաշտի ֆայլի չափը պետք է լինի առնվազն :min կիլոբայթ։',
+        'numeric' => ':attribute դաշտը պետք է լինի առնվազն :min։',
+        'string'  => ':attribute դաշտի նիշերի քանակը պետք է լինի առնվազն :min։',
     ],
     'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => ':attribute դաշտի ընտրված արժեքն անվավեր է։',
@@ -97,6 +86,7 @@ return [
     'password'             => 'Գաղտնաբառը սխալ է։',
     'present'              => ':attribute դաշտը պետք է առկա լինի։',
     'regex'                => ':attribute դաշտի ձևաչափը սխալ է։',
+    'relatable'            => 'This :attribute may not be associated with this resource.',
     'required'             => ':attribute դաշտը պարտադիր է։',
     'required_if'          => ':attribute դաշտը պարտադիր է երբ :other-ը հավասար է :value։',
     'required_unless'      => ':attribute դաշտը պարտադիր է քանի դեռ :other-ը հավասար չէ :values։',
@@ -106,10 +96,10 @@ return [
     'required_without_all' => ':attribute դաշտը պարտադիր է երբ :values արժեքներից ոչ մեկը նշված չեն։',
     'same'                 => ':attribute և :other դաշտերը պետք է համընկնեն։',
     'size'                 => [
-        'numeric' => ':attribute դաշտը պետք է հավասար լինի :size-ի։',
-        'file'    => ':attribute դաշտում ֆայլի չափը պետք է լինի :size կիլոբայթ։',
-        'string'  => ':attribute դաշտը պետք է ունենա :size նիշ։',
         'array'   => ':attribute դաշտը պետք է պարունակի :size էլեմենտ։',
+        'file'    => ':attribute դաշտում ֆայլի չափը պետք է լինի :size կիլոբայթ։',
+        'numeric' => ':attribute դաշտը պետք է հավասար լինի :size-ի։',
+        'string'  => ':attribute դաշտը պետք է ունենա :size նիշ։',
     ],
     'starts_with'          => ':attribute դաշտը պետք է սկսվի հետևյալ արժեքներից մեկով․ :values։',
     'string'               => ':attribute դաշտը պետք է լինի տեքստ։',
@@ -118,64 +108,40 @@ return [
     'uploaded'             => ':attribute-ի վերբեռնումը ձախողվել է։',
     'url'                  => ':attribute դաշտի ձևաչափը սխալ է։',
     'uuid'                 => ':attribute դաշտը պետք է լինի վավեր UUID։',
-
-    /*
-    |--------------------------------------------------------------------------
-    | Custom Validation Language Lines
-    |--------------------------------------------------------------------------
-    |
-    | Here you may specify custom validation messages for attributes using the
-    | convention "attribute.rule" to name the lines. This makes it quick to
-    | specify a specific custom language line for a given attribute rule.
-    |
-    */
-
-    'custom' => [
+    'custom'               => [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
     ],
-
-    /*
-    |--------------------------------------------------------------------------
-    | Custom Validation Attributes
-    |--------------------------------------------------------------------------
-    |
-    | The following language lines are used to swap our attribute placeholder
-    | with something more reader friendly such as "E-Mail Address" instead
-    | of "email". This simply helps us make our message more expressive.
-    |
-    */
-
-    'attributes' => [
-        'name'                  => 'Անուն',
-        'username'              => 'Օգտանուն',
+    'attributes'           => [
+        'address'               => 'Հասցե',
+        'age'                   => 'Տարիք',
+        'available'             => 'Առկա',
+        'city'                  => 'Քաղաք',
+        'content'               => 'Բովանդակություն',
+        'country'               => 'Երկիր',
+        'date'                  => 'Ամսաթիվ',
+        'day'                   => 'Օր',
+        'description'           => 'Նկարագրություն',
         'email'                 => 'Էլ-փոստի հասցե',
+        'excerpt'               => 'Քաղվածք',
         'first_name'            => 'Անուն',
+        'gender'                => 'Սեռ',
+        'hour'                  => 'Ժամ',
         'last_name'             => 'Ազգանուն',
+        'minute'                => 'Րոպե',
+        'mobile'                => 'Բջջ. հեռ.',
+        'month'                 => 'Ամիս',
+        'name'                  => 'Անուն',
         'password'              => 'Գաղտնաբառ',
         'password_confirmation' => 'Գաղտնաբառի հաստատում',
-        'city'                  => 'Քաղաք',
-        'country'               => 'Երկիր',
-        'address'               => 'Հասցե',
         'phone'                 => 'Հեռախոսահամար',
-        'mobile'                => 'Բջջ. հեռ.',
-        'age'                   => 'Տարիք',
-        'sex'                   => 'Սեռ',
-        'gender'                => 'Սեռ',
-        'day'                   => 'Օր',
-        'month'                 => 'Ամիս',
-        'year'                  => 'Տարի',
-        'hour'                  => 'Ժամ',
-        'minute'                => 'Րոպե',
         'second'                => 'Վայրկյան',
-        'title'                 => 'Վերնագիր',
-        'content'               => 'Բովանդակություն',
-        'description'           => 'Նկարագրություն',
-        'excerpt'               => 'Քաղվածք',
-        'date'                  => 'Ամսաթիվ',
-        'time'                  => 'Ժամանակ',
-        'available'             => 'Առկա',
+        'sex'                   => 'Սեռ',
         'size'                  => 'Չափ',
+        'time'                  => 'Ժամանակ',
+        'title'                 => 'Վերնագիր',
+        'username'              => 'Օգտանուն',
+        'year'                  => 'Տարի',
     ],
 ];

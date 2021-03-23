@@ -1,17 +1,6 @@
 <?php
 
 return [
-    /*
-    |--------------------------------------------------------------------------
-    | Validation Language Lines
-    |--------------------------------------------------------------------------
-    |
-    | The following language lines contain the default error messages used by
-    | the validator class. Some of these rules have multiple versions such
-    | as the size rules. Feel free to tweak each of these messages.
-    |
-    */
-
     'accepted'             => 'Трябва да приемете :attribute.',
     'active_url'           => 'Полето :attribute не е валиден URL адрес.',
     'after'                => 'Полето :attribute трябва да бъде дата след :date.',
@@ -20,13 +9,14 @@ return [
     'alpha_dash'           => 'Полето :attribute трябва да съдържа само букви, цифри, долна черта и тире.',
     'alpha_num'            => 'Полето :attribute трябва да съдържа само букви и цифри.',
     'array'                => 'Полето :attribute трябва да бъде масив.',
+    'attached'             => 'This :attribute is already attached.',
     'before'               => 'Полето :attribute трябва да бъде дата преди :date.',
     'before_or_equal'      => 'Полето :attribute трябва да бъде дата преди или равна на :date.',
     'between'              => [
-        'numeric' => 'Полето :attribute трябва да бъде между :min и :max.',
-        'file'    => 'Полето :attribute трябва да бъде между :min и :max килобайта.',
-        'string'  => 'Полето :attribute трябва да бъде между :min и :max знака.',
         'array'   => 'Полето :attribute трябва да има между :min - :max елемента.',
+        'file'    => 'Полето :attribute трябва да бъде между :min и :max килобайта.',
+        'numeric' => 'Полето :attribute трябва да бъде между :min и :max.',
+        'string'  => 'Полето :attribute трябва да бъде между :min и :max знака.',
     ],
     'boolean'              => 'Полето :attribute трябва да съдържа Да или Не',
     'confirmed'            => 'Полето :attribute не е потвърдено.',
@@ -44,16 +34,16 @@ return [
     'file'                 => 'Полето :attribute трябва да бъде файл.',
     'filled'               => 'Полето :attribute е задължително.',
     'gt'                   => [
-        'numeric' => ':attribute трябва да бъде по-голямa от :value.',
-        'file'    => ':attribute трябва да бъде по-голяма от :valueкилобайта.',
-        'string'  => ':attribute трябва да бъде по-голяма от :value знака.',
         'array'   => ':attribute трябва да разполага с повече от :value елемента.',
+        'file'    => ':attribute трябва да бъде по-голяма от :valueкилобайта.',
+        'numeric' => ':attribute трябва да бъде по-голямa от :value.',
+        'string'  => ':attribute трябва да бъде по-голяма от :value знака.',
     ],
     'gte'                  => [
-        'numeric' => ':attribute трябва да бъде по-голяма от или равна на :value.',
-        'file'    => ':attribute трябва да бъде по-голяма от или равна на :value килобайта.',
-        'string'  => ':attribute трябва да бъде по-голяма от или равна на :valueзнака.',
         'array'   => ':attribute трябва да разполага с :value елемента или повече.',
+        'file'    => ':attribute трябва да бъде по-голяма от или равна на :value килобайта.',
+        'numeric' => ':attribute трябва да бъде по-голяма от или равна на :value.',
+        'string'  => ':attribute трябва да бъде по-голяма от или равна на :valueзнака.',
     ],
     'image'                => 'Полето :attribute трябва да бъде изображение.',
     'in'                   => 'Избраното поле :attribute е невалидно.',
@@ -64,30 +54,30 @@ return [
     'ipv6'                 => 'Полето :attribute трябва да бъде IPv6 адрес.',
     'json'                 => 'Полето :attribute трябва да бъде JSON низ.',
     'lt'                   => [
-        'numeric' => ':attribute трябва да бъде по-малка от :value.',
-        'file'    => ':attribute трябва да бъде по-малка от :value килобайта.',
-        'string'  => ':attribute трябва да бъде по-малка от :value знака.',
         'array'   => ':attribute трябва да разполага с по-малко от :value елемента.',
+        'file'    => ':attribute трябва да бъде по-малка от :value килобайта.',
+        'numeric' => ':attribute трябва да бъде по-малка от :value.',
+        'string'  => ':attribute трябва да бъде по-малка от :value знака.',
     ],
     'lte'                  => [
-        'numeric' => ':attribute трябва да бъде по-малка от или равна на :value.',
-        'file'    => ':attribute трябва да бъде по-малка от или равна на :value килобайта.',
-        'string'  => ':attribute трябва да бъде по-малка от или равна на :value знака.',
         'array'   => ':attribute не трябва да разполага с повече от :value елемента.',
+        'file'    => ':attribute трябва да бъде по-малка от или равна на :value килобайта.',
+        'numeric' => ':attribute трябва да бъде по-малка от или равна на :value.',
+        'string'  => ':attribute трябва да бъде по-малка от или равна на :value знака.',
     ],
     'max'                  => [
-        'numeric' => 'Полето :attribute трябва да бъде по-малко от :max.',
-        'file'    => 'Полето :attribute трябва да бъде по-малко от :max килобайта.',
-        'string'  => 'Полето :attribute трябва да бъде по-малко от :max знака.',
         'array'   => 'Полето :attribute трябва да има по-малко от :max елемента.',
+        'file'    => 'Полето :attribute трябва да бъде по-малко от :max килобайта.',
+        'numeric' => 'Полето :attribute трябва да бъде по-малко от :max.',
+        'string'  => 'Полето :attribute трябва да бъде по-малко от :max знака.',
     ],
     'mimes'                => 'Полето :attribute трябва да бъде файл от тип: :values.',
     'mimetypes'            => 'Полето :attribute трябва да бъде файл от тип: :values.',
     'min'                  => [
-        'numeric' => 'Полето :attribute трябва да бъде минимум :min.',
-        'file'    => 'Полето :attribute трябва да бъде минимум :min килобайта.',
-        'string'  => 'Полето :attribute трябва да бъде минимум :min знака.',
         'array'   => 'Полето :attribute трябва има минимум :min елемента.',
+        'file'    => 'Полето :attribute трябва да бъде минимум :min килобайта.',
+        'numeric' => 'Полето :attribute трябва да бъде минимум :min.',
+        'string'  => 'Полето :attribute трябва да бъде минимум :min знака.',
     ],
     'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => 'Избраното поле :attribute е невалидно.',
@@ -96,6 +86,7 @@ return [
     'password'             => 'The password is incorrect.',
     'present'              => 'Полето :attribute трябва да съествува.',
     'regex'                => 'Полето :attribute е в невалиден формат.',
+    'relatable'            => 'This :attribute may not be associated with this resource.',
     'required'             => 'Полето :attribute е задължително.',
     'required_if'          => 'Полето :attribute се изисква, когато :other е :value.',
     'required_unless'      => 'Полето :attribute се изисква, освен ако :other не е в :values.',
@@ -105,10 +96,10 @@ return [
     'required_without_all' => 'Полето :attribute се изисква, когато никое от полетата :values няма стойност.',
     'same'                 => 'Полетата :attribute и :other трябва да съвпадат.',
     'size'                 => [
-        'numeric' => 'Полето :attribute трябва да бъде :size.',
-        'file'    => 'Полето :attribute трябва да бъде :size килобайта.',
-        'string'  => 'Полето :attribute трябва да бъде :size знака.',
         'array'   => 'Полето :attribute трябва да има :size елемента.',
+        'file'    => 'Полето :attribute трябва да бъде :size килобайта.',
+        'numeric' => 'Полето :attribute трябва да бъде :size.',
+        'string'  => 'Полето :attribute трябва да бъде :size знака.',
     ],
     'starts_with'          => ':attribute трябва да започва с едно от следните: :values.',
     'string'               => 'Полето :attribute трябва да бъде знаков низ.',
@@ -117,66 +108,42 @@ return [
     'uploaded'             => 'Неуспешно качване на :attribute.',
     'url'                  => 'Полето :attribute е в невалиден формат.',
     'uuid'                 => ':attribute трябва да бъде валиден UUID.',
-
-    /*
-    |--------------------------------------------------------------------------
-    | Custom Validation Language Lines
-    |--------------------------------------------------------------------------
-    |
-    | Here you may specify custom validation messages for attributes using the
-    | convention "attribute.rule" to name the lines. This makes it quick to
-    | specify a specific custom language line for a given attribute rule.
-    |
-    */
-
-    'custom' => [
+    'custom'               => [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
     ],
-
-    /*
-    |--------------------------------------------------------------------------
-    | Custom Validation Attributes
-    |--------------------------------------------------------------------------
-    |
-    | The following language lines are used to swap attribute place-holders
-    | with something more reader friendly such as E-Mail Address instead
-    | of "email". This simply helps us make messages a little cleaner.
-    |
-    */
-
-    'attributes' => [
-        'name'                     => 'Име',
-        'username'                 => 'Потребител',
-        'email'                    => 'E-mail',
-        'first_name'               => 'Име',
-        'last_name'                => 'Фамилия',
-        'password'                 => 'Парола',
-        'city'                     => 'Град',
-        'country'                  => 'Държава',
+    'attributes'           => [
         'address'                  => 'Адрес',
-        'phone'                    => 'Телефон',
-        'mobile'                   => 'GSM',
         'age'                      => 'Възраст',
-        'sex'                      => 'Пол',
-        'gender'                   => 'Пол',
-        'day'                      => 'Ден',
-        'month'                    => 'Месец',
-        'year'                     => 'Година',
-        'hour'                     => 'Час',
-        'minute'                   => 'Минута',
-        'second'                   => 'Секунда',
-        'title'                    => 'Заглавие',
-        'content'                  => 'Съдържание',
-        'description'              => 'Описание',
-        'excerpt'                  => 'Откъс',
-        'date'                     => 'Дата',
-        'time'                     => 'Време',
         'available'                => 'Достъпен',
-        'size'                     => 'Размер',
-        'recaptcha_response_field' => 'Рекапча',
-        'subject'                  => 'Заглавие',
+        'city'                     => 'Град',
+        'content'                  => 'Съдържание',
+        'country'                  => 'Държава',
+        'date'                     => 'Дата',
+        'day'                      => 'Ден',
+        'description'              => 'Описание',
+        'email'                    => 'E-mail',
+        'excerpt'                  => 'Откъс',
+        'first_name'               => 'Име',
+        'gender'                   => 'Пол',
+        'hour'                     => 'Час',
+        'last_name'                => 'Фамилия',
         'message'                  => 'Съобщение',
+        'minute'                   => 'Минута',
+        'mobile'                   => 'GSM',
+        'month'                    => 'Месец',
+        'name'                     => 'Име',
+        'password'                 => 'Парола',
+        'phone'                    => 'Телефон',
+        'recaptcha_response_field' => 'Рекапча',
+        'second'                   => 'Секунда',
+        'sex'                      => 'Пол',
+        'size'                     => 'Размер',
+        'subject'                  => 'Заглавие',
+        'time'                     => 'Време',
+        'title'                    => 'Заглавие',
+        'username'                 => 'Потребител',
+        'year'                     => 'Година',
     ],
 ];

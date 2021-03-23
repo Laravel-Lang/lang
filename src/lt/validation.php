@@ -1,16 +1,6 @@
 <?php
 
 return [
-    /*
-    |--------------------------------------------------------------------------
-    | Patvirtinimo kalbos eilutės
-    |--------------------------------------------------------------------------
-    |
-    | Sekančios kalbos eilutėse yra numatyti klaidos pranešimai naudojami
-    | patvirtinimo klasėje. Kai kurios iš šių eilučių turi keletą versijų
-    | tokių kaip dydžio taisyklės. Galite laisvai pataisyti bet kuriuos pranešimus.
-    |
-    */
     'accepted'             => 'Laukas :attribute turi būti priimtas.',
     'active_url'           => 'Laukas :attribute nėra galiojantis internetinis adresas.',
     'after'                => 'Lauko :attribute reikšmė turi būti po :date datos.',
@@ -19,15 +9,16 @@ return [
     'alpha_dash'           => 'Laukas :attribute gali turėti tik raides, skaičius ir brūkšnelius.',
     'alpha_num'            => 'Laukas :attribute gali turėti tik raides ir skaičius.',
     'array'                => 'Laukas :attribute turi būti masyvas.',
+    'attached'             => 'This :attribute is already attached.',
     'before'               => 'Laukas :attribute turi būti data prieš :date.',
     'before_or_equal'      => 'Lauko :attribute reikšmė privalo būti data lygi arba ankstesnė negu :date.',
     'between'              => [
-        'numeric' => 'Lauko :attribute reikšmė turi būti tarp :min ir :max.',
-        'file'    => 'Failo dydis lauke :attribute turi būti tarp :min ir :max kilobaitų.',
-        'string'  => 'Simbolių skaičius lauke :attribute turi būti tarp :min ir :max.',
         'array'   => 'Elementų skaičius lauke :attribute turi turėti nuo :min iki :max.',
+        'file'    => 'Failo dydis lauke :attribute turi būti tarp :min ir :max kilobaitų.',
+        'numeric' => 'Lauko :attribute reikšmė turi būti tarp :min ir :max.',
+        'string'  => 'Simbolių skaičius lauke :attribute turi būti tarp :min ir :max.',
     ],
-    'boolean'              => "Lauko reikšmė :attribute turi būti 'taip' arba 'ne'.",
+    'boolean'              => 'Lauko reikšmė :attribute turi būti \'taip\' arba \'ne\'.',
     'confirmed'            => 'Lauko :attribute patvirtinimas nesutampa.',
     'date'                 => 'Lauko :attribute reikšmė nėra galiojanti data.',
     'date_equals'          => 'Lauko :attribute reikšmė turi būti data lygi :date.',
@@ -43,16 +34,16 @@ return [
     'file'                 => ':attribute turi būti failas.',
     'filled'               => 'Laukas :attribute turi būti užpildytas.',
     'gt'                   => [
-        'numeric' => 'Lauko :attribute reikšmė turi būti didesnė negu :value.',
-        'file'    => 'Failas lauke :attribute turi būti didesnis negu :value kilobaitai.',
-        'string'  => 'Lauko :attribute reikšmė turi būti didesnė negu :value simboliai.',
         'array'   => 'Laukas :attribute turi turėti daugiau nei :value elementus.',
+        'file'    => 'Failas lauke :attribute turi būti didesnis negu :value kilobaitai.',
+        'numeric' => 'Lauko :attribute reikšmė turi būti didesnė negu :value.',
+        'string'  => 'Lauko :attribute reikšmė turi būti didesnė negu :value simboliai.',
     ],
     'gte'                  => [
-        'numeric' => 'Lauko :attribute reikšmė turi būti didesnė arba lygi :value.',
-        'file'    => 'Failas lauke :attribute turi būti didesnis arba lygus :value kilobaitams.',
-        'string'  => 'Lauko :attribute reikšmė turi būti didesnė arba lygi :value simboliams.',
         'array'   => 'Laukas :attribute turi turėti :value elementus arba daugiau.',
+        'file'    => 'Failas lauke :attribute turi būti didesnis arba lygus :value kilobaitams.',
+        'numeric' => 'Lauko :attribute reikšmė turi būti didesnė arba lygi :value.',
+        'string'  => 'Lauko :attribute reikšmė turi būti didesnė arba lygi :value simboliams.',
     ],
     'image'                => 'Lauko :attribute reikšmė turi būti paveikslėlis.',
     'in'                   => 'Pasirinkta negaliojanti :attribute reikšmė.',
@@ -63,30 +54,30 @@ return [
     'ipv6'                 => 'Lauko :attribute reikšmė turi būti galiojantis IPv6 adresas.',
     'json'                 => 'Lauko :attribute reikšmė turi būti JSON tekstas.',
     'lt'                   => [
-        'numeric' => 'Lauko :attribute reikšmė turi būti mažesnė negu :value.',
-        'file'    => 'Failas lauke :attribute turi būti mažesnis negu :value kilobaitai.',
-        'string'  => 'Lauko :attribute reikšmė turi būti mažesnė negu :value simboliai.',
         'array'   => 'Laukas :attribute turi turėti mažiau negu :value elementus.',
+        'file'    => 'Failas lauke :attribute turi būti mažesnis negu :value kilobaitai.',
+        'numeric' => 'Lauko :attribute reikšmė turi būti mažesnė negu :value.',
+        'string'  => 'Lauko :attribute reikšmė turi būti mažesnė negu :value simboliai.',
     ],
     'lte'                  => [
-        'numeric' => 'Lauko :attribute reikšmė turi būti mažesnė arba lygi :value.',
-        'file'    => 'Failas lauke :attribute turi būti mažesnis arba lygus :value kilobaitams.',
-        'string'  => 'Lauko :attribute reikšmė turi būti mažesnė arba lygi :value simboliams.',
         'array'   => 'Laukas :attribute turi turėti mažiau arba lygiai :value elementus.',
+        'file'    => 'Failas lauke :attribute turi būti mažesnis arba lygus :value kilobaitams.',
+        'numeric' => 'Lauko :attribute reikšmė turi būti mažesnė arba lygi :value.',
+        'string'  => 'Lauko :attribute reikšmė turi būti mažesnė arba lygi :value simboliams.',
     ],
     'max'                  => [
-        'numeric' => 'Lauko :attribute reikšmė negali būti didesnė nei :max.',
-        'file'    => 'Failo dydis lauke :attribute negali būti didesnis nei :max kilobaitų.',
-        'string'  => 'Simbolių kiekis lauke :attribute reikšmė negali būti didesnė nei :max simbolių.',
         'array'   => 'Elementų kiekis lauke :attribute negali turėti daugiau nei :max elementų.',
+        'file'    => 'Failo dydis lauke :attribute negali būti didesnis nei :max kilobaitų.',
+        'numeric' => 'Lauko :attribute reikšmė negali būti didesnė nei :max.',
+        'string'  => 'Simbolių kiekis lauke :attribute reikšmė negali būti didesnė nei :max simbolių.',
     ],
     'mimes'                => 'Lauko reikšmė :attribute turi būti failas vieno iš sekančių tipų: :values.',
     'mimetypes'            => 'Lauko reikšmė :attribute turi būti failas vieno iš sekančių tipų: :values.',
     'min'                  => [
-        'numeric' => 'Lauko :attribute reikšmė turi būti ne mažesnė nei :min.',
-        'file'    => 'Failo dydis lauke :attribute turi būti ne mažesnis nei :min kilobaitų.',
-        'string'  => 'Simbolių kiekis lauke :attribute turi būti ne mažiau nei :min.',
         'array'   => 'Elementų kiekis lauke :attribute turi būti ne mažiau nei :min.',
+        'file'    => 'Failo dydis lauke :attribute turi būti ne mažesnis nei :min kilobaitų.',
+        'numeric' => 'Lauko :attribute reikšmė turi būti ne mažesnė nei :min.',
+        'string'  => 'Simbolių kiekis lauke :attribute turi būti ne mažiau nei :min.',
     ],
     'multiple_of'          => 'Laukas :attribute turi būti :value kartotinis.',
     'not_in'               => 'Pasirinkta negaliojanti reikšmė :attribute.',
@@ -95,6 +86,7 @@ return [
     'password'             => 'Slaptažodis neteisingas.',
     'present'              => 'Laukas :attribute turi egzistuoti.',
     'regex'                => 'Negaliojantis lauko :attribute formatas.',
+    'relatable'            => 'This :attribute may not be associated with this resource.',
     'required'             => 'Privaloma užpildyti lauką :attribute.',
     'required_if'          => 'Privaloma užpildyti lauką :attribute, kai :other yra :value.',
     'required_unless'      => 'Laukas :attribute yra privalomas, nebent :other yra tarp :values reikšmių.',
@@ -104,10 +96,10 @@ return [
     'required_without_all' => 'Privaloma užpildyti lauką :attribute, kai nepateikta nei viena iš reikšmių :values.',
     'same'                 => 'Laukai :attribute ir :other turi sutapti.',
     'size'                 => [
-        'numeric' => 'Lauko :attribute reikšmė turi būti :size.',
-        'file'    => 'Failo dydis lauke :attribute turi būti :size kilobaitai.',
-        'string'  => 'Simbolių skaičius lauke :attribute turi būti :size.',
         'array'   => 'Elementų kiekis lauke :attribute turi būti :size.',
+        'file'    => 'Failo dydis lauke :attribute turi būti :size kilobaitai.',
+        'numeric' => 'Lauko :attribute reikšmė turi būti :size.',
+        'string'  => 'Simbolių skaičius lauke :attribute turi būti :size.',
     ],
     'starts_with'          => 'Laukas :attribute turi prasidėti vienu iš: :values',
     'string'               => 'Laukas :attribute turi būti tekstinis.',
@@ -116,31 +108,10 @@ return [
     'uploaded'             => 'Nepavyko įkelti :attribute lauko.',
     'url'                  => 'Negaliojantis lauko :attribute formatas.',
     'uuid'                 => 'Lauko :attribute reikšmė turi būti galiojantis UUID.',
-    /*
-    |--------------------------------------------------------------------------
-    | Pasirinktiniai patvirtinimo kalbos eilutės
-    |--------------------------------------------------------------------------
-    |
-    | Čia galite nurodyti pasirinktinius patvirtinimo pranešimus, naudodami
-    | konvenciją "attribute.rule" eilučių pavadinimams. Tai leidžia greitai
-    | nurodyti konkrečią pasirinktinę kalbos eilutę tam tikrai atributo taisyklei.
-    |
-    */
     'custom'               => [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
     ],
-    /*
-    |--------------------------------------------------------------------------
-    | Pasirinktiniai patvirtinimo atributai
-    |--------------------------------------------------------------------------
-    |
-    | Sekančios kalbos eilutės naudojamos pakeisti vietos žymes
-    | kuo nors labiau priimtinu skaitytojui (pvz. "El.Pašto Adresas" vietoj
-    | "email". TTai tiesiog padeda mums padaryti žinutes truputi aiškesnėmis.
-    |
-    */
-    'attributes'           => [
-    ],
+    'attributes'           => [],
 ];

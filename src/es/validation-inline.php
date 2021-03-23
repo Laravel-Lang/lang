@@ -1,18 +1,6 @@
 <?php
 
 return [
-
-    /*
-    |--------------------------------------------------------------------------
-    | Validation Language Lines
-    |--------------------------------------------------------------------------
-    |
-    | The following language lines contain the default error messages used by
-    | the validator class. Some of these rules have multiple versions such
-    | as the size rules. Feel free to tweak each of these messages here.
-    |
-    */
-
     'accepted'             => 'Este campo debe ser aceptado.',
     'active_url'           => 'Esta no es una URL válida.',
     'after'                => 'Debe ser una fecha después de :date.',
@@ -21,13 +9,14 @@ return [
     'alpha_dash'           => 'Este campo solo puede contener letras, números, guiones y guiones bajos.',
     'alpha_num'            => 'Este campo solo puede contener letras y números.',
     'array'                => 'Este campo debe ser un array (colección).',
+    'attached'             => 'This field is already attached.',
     'before'               => 'Debe ser una fecha antes de :date.',
     'before_or_equal'      => 'Debe ser una fecha anterior o igual a :date.',
     'between'              => [
-        'numeric' => 'Este valor debe ser entre :min y :max.',
-        'file'    => 'Este archivo debe ser entre :min y :max kilobytes.',
-        'string'  => 'El texto debe ser entre :min y :max caracteres.',
         'array'   => 'El contenido debe tener entre :min y :max elementos.',
+        'file'    => 'Este archivo debe ser entre :min y :max kilobytes.',
+        'numeric' => 'Este valor debe ser entre :min y :max.',
+        'string'  => 'El texto debe ser entre :min y :max caracteres.',
     ],
     'boolean'              => 'El campo debe ser verdadero o falso.',
     'confirmed'            => 'La confirmación no coincide.',
@@ -45,16 +34,16 @@ return [
     'file'                 => 'El campo debe ser un archivo.',
     'filled'               => 'Este campo debe tener un valor.',
     'gt'                   => [
-        'numeric' => 'El valor del campo debe ser mayor que :value.',
-        'file'    => 'El archivo debe ser mayor que :value kilobytes.',
-        'string'  => 'El texto debe ser mayor de :value caracteres.',
         'array'   => 'El contenido debe tener mas de :value elementos.',
+        'file'    => 'El archivo debe ser mayor que :value kilobytes.',
+        'numeric' => 'El valor del campo debe ser mayor que :value.',
+        'string'  => 'El texto debe ser mayor de :value caracteres.',
     ],
     'gte'                  => [
-        'numeric' => 'El valor debe ser mayor o igual que :value.',
-        'file'    => 'El tamaño del archivo debe ser mayor o igual que :value kilobytes.',
-        'string'  => 'El texto debe ser mayor o igual de :value caracteres.',
         'array'   => 'El contenido debe tener :value elementos o más.',
+        'file'    => 'El tamaño del archivo debe ser mayor o igual que :value kilobytes.',
+        'numeric' => 'El valor debe ser mayor o igual que :value.',
+        'string'  => 'El texto debe ser mayor o igual de :value caracteres.',
     ],
     'image'                => 'Esta debe ser una imagen.',
     'in'                   => 'El valor seleccionado es inválido.',
@@ -65,30 +54,30 @@ return [
     'ipv6'                 => 'Debe ser una dirección IPv6 válida.',
     'json'                 => 'Debe ser un texto válido en JSON.',
     'lt'                   => [
-        'numeric' => 'El valor debe ser menor que :value.',
-        'file'    => 'El tamaño del archivo debe ser menor a :value kilobytes.',
-        'string'  => 'El texto debe ser menor de :value caracteres.',
         'array'   => 'El contenido debe tener menor de :value elementos.',
+        'file'    => 'El tamaño del archivo debe ser menor a :value kilobytes.',
+        'numeric' => 'El valor debe ser menor que :value.',
+        'string'  => 'El texto debe ser menor de :value caracteres.',
     ],
     'lte'                  => [
-        'numeric' => 'El valor debe ser menor o igual que :value.',
-        'file'    => 'El tamaño del archivo debe ser menor o igual que :value kilobytes.',
-        'string'  => 'El texto debe ser menor o igual de :value caracteres.',
         'array'   => 'El contenido no debe tener más de :value elementos.',
+        'file'    => 'El tamaño del archivo debe ser menor o igual que :value kilobytes.',
+        'numeric' => 'El valor debe ser menor o igual que :value.',
+        'string'  => 'El texto debe ser menor o igual de :value caracteres.',
     ],
     'max'                  => [
-        'numeric' => 'El valor no debe ser mayor de :max.',
-        'file'    => 'El tamaño del archivo no debe ser mayor a :max kilobytes.',
-        'string'  => 'El texto no debe ser mayor a :max caracteres.',
         'array'   => 'El contenido no debe tener más de :max elementos.',
+        'file'    => 'El tamaño del archivo no debe ser mayor a :max kilobytes.',
+        'numeric' => 'El valor no debe ser mayor de :max.',
+        'string'  => 'El texto no debe ser mayor a :max caracteres.',
     ],
     'mimes'                => 'Debe ser un archivo de tipo: :values.',
     'mimetypes'            => 'Debe ser un archivo de tipo: :values.',
     'min'                  => [
-        'numeric' => 'El valor debe ser al menos de :min.',
-        'file'    => 'El tamaño del archivo debe ser al menos de :min kilobytes.',
-        'string'  => 'El texto debe ser al menos de :min caracteres.',
         'array'   => 'El contenido debe tener al menos :min elementos.',
+        'file'    => 'El tamaño del archivo debe ser al menos de :min kilobytes.',
+        'numeric' => 'El valor debe ser al menos de :min.',
+        'string'  => 'El texto debe ser al menos de :min caracteres.',
     ],
     'multiple_of'          => 'Este valor debe ser múltiplo de :value',
     'not_in'               => 'El valor seleccionado es inválido.',
@@ -97,6 +86,7 @@ return [
     'password'             => 'La contraseña es incorrecta.',
     'present'              => 'Este campo debe estar presente.',
     'regex'                => 'Este formato es inválido.',
+    'relatable'            => 'This field may not be associated with this resource.',
     'required'             => 'Este campo es requerido.',
     'required_if'          => 'Este campo es requerido cuando :other es :value.',
     'required_unless'      => 'Este campo es requerido a menos que :other esté en :values.',
@@ -106,10 +96,10 @@ return [
     'required_without_all' => 'Este campo es requerido cuando ninguno de :values están presentes.',
     'same'                 => 'El valor de este campo debe ser igual a :other.',
     'size'                 => [
-        'numeric' => 'El valor debe ser :size.',
-        'file'    => 'El tamaño del archivo debe ser de :size kilobytes.',
-        'string'  => 'El texto debe ser de :size caracteres.',
         'array'   => 'El contenido debe tener :size elementos.',
+        'file'    => 'El tamaño del archivo debe ser de :size kilobytes.',
+        'numeric' => 'El valor debe ser :size.',
+        'string'  => 'El texto debe ser de :size caracteres.',
     ],
     'starts_with'          => 'Debe comenzar con alguno de los siguientes valores: :values.',
     'string'               => 'Debe ser un texto.',
@@ -118,22 +108,10 @@ return [
     'uploaded'             => 'Falló al subir.',
     'url'                  => 'Este formato es inválido.',
     'uuid'                 => 'Debe ser un UUID válido.',
-
-    /*
-    |--------------------------------------------------------------------------
-    | Custom Validation Language Lines
-    |--------------------------------------------------------------------------
-    |
-    | Here you may specify custom validation messages for attributes using the
-    | convention "attribute.rule" to name the lines. This makes it quick to
-    | specify a specific custom language line for a given attribute rule.
-    |
-    */
-
-    'custom' => [
+    'custom'               => [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
     ],
-
+    'attributes'           => [],
 ];

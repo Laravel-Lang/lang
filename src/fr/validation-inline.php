@@ -9,6 +9,7 @@ return [
     'alpha_dash'           => 'Ce champ doit contenir uniquement des lettres, des chiffres et des tirets.',
     'alpha_num'            => 'Ce champ doit contenir uniquement des chiffres et des lettres.',
     'array'                => 'Ce champ doit être un tableau.',
+    'attached'             => 'This field is already attached.',
     'before'               => 'Ce champ doit être une date antérieure au :date.',
     'before_or_equal'      => 'Ce champ doit être une date antérieure ou égale au :date.',
     'between'              => [
@@ -85,6 +86,7 @@ return [
     'password'             => 'Le mot de passe est incorrect',
     'present'              => 'Ce champ doit être présent.',
     'regex'                => 'Le format du champ est invalide.',
+    'relatable'            => 'This field may not be associated with this resource.',
     'required'             => 'Ce champ est obligatoire.',
     'required_if'          => 'Ce champ est obligatoire quand la valeur de :other est :value.',
     'required_unless'      => 'Ce champ est obligatoire sauf si :other est :values.',

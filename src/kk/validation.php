@@ -1,17 +1,6 @@
 <?php
 
 return [
-    /*
-    |--------------------------------------------------------------------------
-    | Validation Language Lines
-    |--------------------------------------------------------------------------
-    |
-    | The following language lines contain the default error messages used by
-    | the validator class. Some of these rules have multiple versions such
-    | as the size rules. Feel free to tweak each of these messages here.
-    |
-    */
-
     'accepted'             => ' :attribute қабылдануы керек.',
     'active_url'           => ' :attribute жарамды URL мекенжайы емес.',
     'after'                => ' :attribute мәні :date күнінен кейінгі күн болуы керек.',
@@ -20,13 +9,14 @@ return [
     'alpha_dash'           => ' :attribute тек әріптерден, сандардан және сызықшалардан тұруы керек.',
     'alpha_num'            => ' :attribute тек әріптерден және сандардан тұруы керек.',
     'array'                => ' :attribute жиым болуы керек.',
+    'attached'             => 'This :attribute is already attached.',
     'before'               => ' :attribute мәні :date күнінен дейінгі күн болуы керек.',
     'before_or_equal'      => ' :attribute мәні :date күнінен дейінгі күн немесе тең болуы керек.',
     'between'              => [
-        'numeric' => ' :attribute мәні :min және :max аралығында болуы керек.',
-        'file'    => ' :attribute көлемі :min және :max килобайт аралығында болуы керек.',
-        'string'  => ' :attribute тармағы :min және :max аралығындағы таңбалардан тұруы керек.',
         'array'   => ' :attribute жиымы :min және :max аралығындағы элементтерден тұруы керек.',
+        'file'    => ' :attribute көлемі :min және :max килобайт аралығында болуы керек.',
+        'numeric' => ' :attribute мәні :min және :max аралығында болуы керек.',
+        'string'  => ' :attribute тармағы :min және :max аралығындағы таңбалардан тұруы керек.',
     ],
     'boolean'              => ' :attribute жолы шын немесе жалған мән болуы керек.',
     'confirmed'            => ' :attribute растауы сәйкес емес.',
@@ -44,16 +34,16 @@ return [
     'file'                 => ' :attribute файл болуы тиіс.',
     'filled'               => ' :attribute жолы толтырылуы керек.',
     'gt'                   => [
-        'numeric' => ' :attribute мәні :value үлкен болуы керек.',
-        'file'    => ' :attribute файл өлшемі :value килобайттан үлкен болуы керек.',
-        'string'  => ' :attribute мәні :value таңбалардан үлкен болуы керек.',
         'array'   => ' :attribute мәні :value элементтерден үлкен болуы керек.',
+        'file'    => ' :attribute файл өлшемі :value килобайттан үлкен болуы керек.',
+        'numeric' => ' :attribute мәні :value үлкен болуы керек.',
+        'string'  => ' :attribute мәні :value таңбалардан үлкен болуы керек.',
     ],
     'gte'                  => [
-        'numeric' => ' :attribute мәні :value үлкен немесе тең болуы керек.',
-        'file'    => ' :attribute файл өлшемі :value килобайттан үлкен немесе тең болуы керек.',
-        'string'  => ' :attribute мәні :value таңбалардан үлкен немесе тең болуы керек.',
         'array'   => ' :attribute мәні :value элементтерден үлкен немесе тең болуы керек.',
+        'file'    => ' :attribute файл өлшемі :value килобайттан үлкен немесе тең болуы керек.',
+        'numeric' => ' :attribute мәні :value үлкен немесе тең болуы керек.',
+        'string'  => ' :attribute мәні :value таңбалардан үлкен немесе тең болуы керек.',
     ],
     'image'                => ' :attribute кескін болуы керек.',
     'in'                   => ' таңдалған :attribute жарамсыз.',
@@ -64,30 +54,30 @@ return [
     'ipv6'                 => ' :attribute жарамды IPv6 мекенжайы болуы керек.',
     'json'                 => ' :attribute жарамды JSON тармағы болуы керек.',
     'lt'                   => [
-        'numeric' => ' :attribute мәні :value кіші болуы керек.',
-        'file'    => ' :attribute файл өлшемі :value килобайттан кіші болуы керек.',
-        'string'  => ' :attribute мәні :value таңбалардан кіші болуы керек.',
         'array'   => ' :attribute мәні :value элементтерден кіші болуы керек.',
+        'file'    => ' :attribute файл өлшемі :value килобайттан кіші болуы керек.',
+        'numeric' => ' :attribute мәні :value кіші болуы керек.',
+        'string'  => ' :attribute мәні :value таңбалардан кіші болуы керек.',
     ],
     'lte'                  => [
-        'numeric' => ' :attribute мәні :value кіші немесе тең болуы керек.',
-        'file'    => ' :attribute файл өлшемі :value килобайттан кіші неменсе тең болуы керек.',
-        'string'  => ' :attribute мәні :value таңбалардан кіші немесе тең болуы керек.',
         'array'   => ' :attribute мәні :value элементтерден кіші немесе тең болуы керек.',
+        'file'    => ' :attribute файл өлшемі :value килобайттан кіші неменсе тең болуы керек.',
+        'numeric' => ' :attribute мәні :value кіші немесе тең болуы керек.',
+        'string'  => ' :attribute мәні :value таңбалардан кіші немесе тең болуы керек.',
     ],
     'max'                  => [
-        'numeric' => ' :attribute мәні :max мәнінен көп болмауы керек.',
-        'file'    => ' :attribute мәні :max килобайттан көп болмауы керек.',
-        'string'  => ' :attribute тармағы :max таңбадан ұзын болмауы керек.',
         'array'   => ' :attribute жиымының құрамы :max элементтен аспауы керек.',
+        'file'    => ' :attribute мәні :max килобайттан көп болмауы керек.',
+        'numeric' => ' :attribute мәні :max мәнінен көп болмауы керек.',
+        'string'  => ' :attribute тармағы :max таңбадан ұзын болмауы керек.',
     ],
     'mimes'                => ' :attribute мынадай файл түрі болуы керек: :values.',
     'mimetypes'            => ' :attribute мынадай файл түрі болуы керек: :values.',
     'min'                  => [
-        'numeric' => ' :attribute кемінде :min болуы керек.',
-        'file'    => ' :attribute көлемі кемінде :min килобайт болуы керек.',
-        'string'  => ' :attribute кемінде :min таңбадан тұруы керек.',
         'array'   => ' :attribute кемінде :min элементтен тұруы керек.',
+        'file'    => ' :attribute көлемі кемінде :min килобайт болуы керек.',
+        'numeric' => ' :attribute кемінде :min болуы керек.',
+        'string'  => ' :attribute кемінде :min таңбадан тұруы керек.',
     ],
     'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => ' таңдалған :attribute жарамсыз.',
@@ -96,6 +86,7 @@ return [
     'password'             => 'Қате құпиясөз.',
     'present'              => ' :attribute болуы керек.',
     'regex'                => ' :attribute пішімі жарамсыз.',
+    'relatable'            => 'This :attribute may not be associated with this resource.',
     'required'             => ' :attribute жолы толтырылуы керек.',
     'required_if'          => ' :attribute жолы :other мәні :value болған кезде толтырылуы керек.',
     'required_unless'      => ' :attribute жолы :other мәні :values ішінде болмағанда толтырылуы керек.',
@@ -105,10 +96,10 @@ return [
     'required_without_all' => ' :attribute жолы ешбір :values болмағанда толтырылуы керек.',
     'same'                 => ' :attribute және :other сәйкес болуы керек.',
     'size'                 => [
-        'numeric' => ' :attribute көлемі :size болуы керек.',
-        'file'    => ' :attribute көлемі :size килобайт болуы керек.',
-        'string'  => ' :attribute тармағы :size таңбадан тұруы керек.',
         'array'   => ' :attribute жиымы :size элементтен тұруы керек.',
+        'file'    => ' :attribute көлемі :size килобайт болуы керек.',
+        'numeric' => ' :attribute көлемі :size болуы керек.',
+        'string'  => ' :attribute тармағы :size таңбадан тұруы керек.',
     ],
     'starts_with'          => ' :attribute келесі мәндердің біреуінен басталуы керек: :values',
     'string'               => ' :attribute тармақ болуы керек.',
@@ -117,64 +108,40 @@ return [
     'uploaded'             => ' :attribute жүктелуі сәтсіз аяқталды.',
     'url'                  => ' :attribute пішімі жарамсыз.',
     'uuid'                 => ' :attribute мәні жарамды UUID болуы керек.',
-
-    /*
-    |--------------------------------------------------------------------------
-    | Custom Validation Language Lines
-    |--------------------------------------------------------------------------
-    |
-    | Here you may specify custom validation messages for attributes using the
-    | convention "attribute.rule" to name the lines. This makes it quick to
-    | specify a specific custom language line for a given attribute rule.
-    |
-    */
-
-    'custom' => [
+    'custom'               => [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
     ],
-
-    /*
-    |--------------------------------------------------------------------------
-    | Custom Validation Attributes
-    |--------------------------------------------------------------------------
-    |
-    | The following language lines are used to swap attribute place-holders
-    | with something more reader friendly such as E-Mail Address instead
-    | of "email". This simply helps us make messages a little cleaner.
-    |
-    */
-
-    'attributes' => [
-        'name'                  => 'Аты',
-        'username'              => 'Лақап аты',
+    'attributes'           => [
+        'address'               => 'Мекенжай',
+        'age'                   => 'Жасы',
+        'available'             => 'Қолжетімді',
+        'city'                  => 'Қала',
+        'content'               => 'Контент',
+        'country'               => 'Ел',
+        'date'                  => 'Күні',
+        'day'                   => 'Күн',
+        'description'           => 'Сипаттамасы',
         'email'                 => 'E-Mail мекенжай',
+        'excerpt'               => 'Үзінді',
         'first_name'            => 'Аты',
+        'gender'                => 'Жынысы',
+        'hour'                  => 'Сағат',
         'last_name'             => 'Тегі',
+        'minute'                => 'Минут',
+        'mobile'                => 'Моб. нөмір',
+        'month'                 => 'Ай',
+        'name'                  => 'Аты',
         'password'              => 'Құпиясөз',
         'password_confirmation' => 'Құпиясөзді растау',
-        'city'                  => 'Қала',
-        'country'               => 'Ел',
-        'address'               => 'Мекенжай',
         'phone'                 => 'Телефон',
-        'mobile'                => 'Моб. нөмір',
-        'age'                   => 'Жасы',
-        'sex'                   => 'Жынысы',
-        'gender'                => 'Жынысы',
-        'day'                   => 'Күн',
-        'month'                 => 'Ай',
-        'year'                  => 'Жыл',
-        'hour'                  => 'Сағат',
-        'minute'                => 'Минут',
         'second'                => 'Секунд',
-        'title'                 => 'Атауы',
-        'content'               => 'Контент',
-        'description'           => 'Сипаттамасы',
-        'excerpt'               => 'Үзінді',
-        'date'                  => 'Күні',
-        'time'                  => 'Уақыт',
-        'available'             => 'Қолжетімді',
+        'sex'                   => 'Жынысы',
         'size'                  => 'Көлемі',
+        'time'                  => 'Уақыт',
+        'title'                 => 'Атауы',
+        'username'              => 'Лақап аты',
+        'year'                  => 'Жыл',
     ],
 ];

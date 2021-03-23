@@ -1,93 +1,83 @@
 <?php
 
 return [
-    /*
-    |--------------------------------------------------------------------------
-    | Validation Language Lines
-    |--------------------------------------------------------------------------
-    |
-    | The following language lines contain the default error messages used by
-    | the validator class. Some of these rules have multiple versions such
-    | as the size rules. Feel free to tweak each of these messages here.
-    |
-    */
-
-    'accepted'        => 'Lazima kipengele kikubalike.',
-    'active_url'      => 'Kipengele sio Chanzo Cha Anuani halali.',
-    'after'           => 'Kipengele lazima kiwe tarehe baada ya :date.',
-    'after_or_equal'  => ':attribute inapaswa kuwa tarehe baada au sawa na :date.',
-    'alpha'           => 'Kipengele huenda kikawa tu chenye herufi.',
-    'alpha_dash'      => 'Kipengele huenda kikawa tu chenye herufi, na vistari.',
-    'alpha_num'       => 'Kipengele huenda kikawa tu chenye herufi na nambari.',
-    'array'           => 'Kipengele lazima kiwe safu.',
-    'before'          => 'Kipengele lazima kiwe tarehe kabla ya :date.',
-    'before_or_equal' => ':attribute inapaswa kuwa tarehe kabla au sawa na :date.',
-    'between'         => [
-        'numeric' => 'Kipengele lazima kiwe kati ya :min na :max.',
-        'file'    => 'Kipengele lazima kiwe kati ya :min na :max cha kilobaiti.',
-        'string'  => 'Kipengele lazima kiwe kati ya :min na :max cha herufi.',
+    'accepted'             => 'Lazima kipengele kikubalike.',
+    'active_url'           => 'Kipengele sio Chanzo Cha Anuani halali.',
+    'after'                => 'Kipengele lazima kiwe tarehe baada ya :date.',
+    'after_or_equal'       => ':attribute inapaswa kuwa tarehe baada au sawa na :date.',
+    'alpha'                => 'Kipengele huenda kikawa tu chenye herufi.',
+    'alpha_dash'           => 'Kipengele huenda kikawa tu chenye herufi, na vistari.',
+    'alpha_num'            => 'Kipengele huenda kikawa tu chenye herufi na nambari.',
+    'array'                => 'Kipengele lazima kiwe safu.',
+    'attached'             => 'This :attribute is already attached.',
+    'before'               => 'Kipengele lazima kiwe tarehe kabla ya :date.',
+    'before_or_equal'      => ':attribute inapaswa kuwa tarehe kabla au sawa na :date.',
+    'between'              => [
         'array'   => 'Kipengele lazima kiwe na kati ya :min na :max cha vifungu.',
+        'file'    => 'Kipengele lazima kiwe kati ya :min na :max cha kilobaiti.',
+        'numeric' => 'Kipengele lazima kiwe kati ya :min na :max.',
+        'string'  => 'Kipengele lazima kiwe kati ya :min na :max cha herufi.',
     ],
-    'boolean'        => 'Sehemu ya kipengele lazima iwe kweli au si kweli.',
-    'confirmed'      => 'Uthibitisho wa kipengele haulingani.',
-    'date'           => 'Kipengele si tarehe halali.',
-    'date_equals'    => ':attribute inapaswa kuwa tarehe sawa na :date.',
-    'date_format'    => 'Kipengele hakilingani na muundo :date.',
-    'different'      => 'Kipengele na :other lazima viwe tofauti.',
-    'digits'         => 'Kipengele lazima kiwe :digits tarakimu.',
-    'digits_between' => 'Kipengele lazima kiwe kati ya :min na :max cha tarakimu.',
-    'dimensions'     => ':attribute ina vipimo vya picha ambavyo si sahihi.',
-    'distinct'       => 'Sehemu ya kipengele ina thamani rudufu.',
-    'email'          => 'Kipengele lazima kiwe anuani halali ya barua pepe.',
-    'ends_with'      => 'The :attribute must end with one of the following: :values.',
-    'exists'         => 'Kipengele kilichochaguliwa si halali.',
-    'file'           => ':attribute linapaswa kuwa faili.',
-    'filled'         => 'Sehemu ya kipengele inahitajika.',
-    'gt'             => [
-        'numeric' => ':attribute inapaswa kuwa kubwa kuliko :value.',
-        'file'    => ':attribute inapaswa kuwa kubwa kuliko kilobaiti :value.',
-        'string'  => ':attribute inapaswa kuwa kubwa kuliko herufi :value.',
+    'boolean'              => 'Sehemu ya kipengele lazima iwe kweli au si kweli.',
+    'confirmed'            => 'Uthibitisho wa kipengele haulingani.',
+    'date'                 => 'Kipengele si tarehe halali.',
+    'date_equals'          => ':attribute inapaswa kuwa tarehe sawa na :date.',
+    'date_format'          => 'Kipengele hakilingani na muundo :date.',
+    'different'            => 'Kipengele na :other lazima viwe tofauti.',
+    'digits'               => 'Kipengele lazima kiwe :digits tarakimu.',
+    'digits_between'       => 'Kipengele lazima kiwe kati ya :min na :max cha tarakimu.',
+    'dimensions'           => ':attribute ina vipimo vya picha ambavyo si sahihi.',
+    'distinct'             => 'Sehemu ya kipengele ina thamani rudufu.',
+    'email'                => 'Kipengele lazima kiwe anuani halali ya barua pepe.',
+    'ends_with'            => 'The :attribute must end with one of the following: :values.',
+    'exists'               => 'Kipengele kilichochaguliwa si halali.',
+    'file'                 => ':attribute linapaswa kuwa faili.',
+    'filled'               => 'Sehemu ya kipengele inahitajika.',
+    'gt'                   => [
         'array'   => ':attribute inapaswa kuwa na vitu zaidi ya :value.',
+        'file'    => ':attribute inapaswa kuwa kubwa kuliko kilobaiti :value.',
+        'numeric' => ':attribute inapaswa kuwa kubwa kuliko :value.',
+        'string'  => ':attribute inapaswa kuwa kubwa kuliko herufi :value.',
     ],
-    'gte' => [
-        'numeric' => ':attribute inapaswa kuwa kubwa kuliko au sawa na :value.',
-        'file'    => ':attribute inapaswa kuwa kubwa au sawa na kilobaiti :value.',
-        'string'  => ':attribute inapaswa kuwa kubwa kuliko au sawa na herufi :value.',
+    'gte'                  => [
         'array'   => ':attribute inapaswa kuwa na vitu :value au zaidi.',
+        'file'    => ':attribute inapaswa kuwa kubwa au sawa na kilobaiti :value.',
+        'numeric' => ':attribute inapaswa kuwa kubwa kuliko au sawa na :value.',
+        'string'  => ':attribute inapaswa kuwa kubwa kuliko au sawa na herufi :value.',
     ],
-    'image'    => 'Kipengele lazima kiwe picha.',
-    'in'       => 'Kipengele kilichochaguliwa si halali.',
-    'in_array' => 'Sehemu ya kipengele haipo katika :other.',
-    'integer'  => 'Kipengele lazima kiwe nambari kamili.',
-    'ip'       => 'Kipengele lazima kiwe anuani halali ya Itifaki ya Intaneti.',
-    'ipv4'     => ':attribute inapaswa kuwa anwani ya IPv4 sahihi.',
-    'ipv6'     => ':attribute inapaswa kuwa anwani ya IPv6 sahihi.',
-    'json'     => 'Kipengele lazima kiwe kidwe halali cha Nukuu ya Java.',
-    'lt'       => [
-        'numeric' => ':attribute inapaswa kuwa chini ya :value.',
-        'file'    => ':attribute inapaswa kuwa chini ya kilobaiti :value.',
-        'string'  => ':attribute inapaswa kuwa chini ya herufi :value.',
+    'image'                => 'Kipengele lazima kiwe picha.',
+    'in'                   => 'Kipengele kilichochaguliwa si halali.',
+    'in_array'             => 'Sehemu ya kipengele haipo katika :other.',
+    'integer'              => 'Kipengele lazima kiwe nambari kamili.',
+    'ip'                   => 'Kipengele lazima kiwe anuani halali ya Itifaki ya Intaneti.',
+    'ipv4'                 => ':attribute inapaswa kuwa anwani ya IPv4 sahihi.',
+    'ipv6'                 => ':attribute inapaswa kuwa anwani ya IPv6 sahihi.',
+    'json'                 => 'Kipengele lazima kiwe kidwe halali cha Nukuu ya Java.',
+    'lt'                   => [
         'array'   => ':attribute inapaswa kuwa chini ya vitu :value.',
+        'file'    => ':attribute inapaswa kuwa chini ya kilobaiti :value.',
+        'numeric' => ':attribute inapaswa kuwa chini ya :value.',
+        'string'  => ':attribute inapaswa kuwa chini ya herufi :value.',
     ],
-    'lte' => [
-        'numeric' => ':attribute inapaswa kuwa ndogo kuliko au sawa na :value.',
-        'file'    => ':attribute inapaswa kuwa ndogo kuliko au sawa na kilobaiti :value.',
-        'string'  => ':attribute inapaswa kuwa ndogo au sawa na herufi :value.',
+    'lte'                  => [
         'array'   => ':attribute haipaswi kuwa na vitu ziadi ya :value.',
+        'file'    => ':attribute inapaswa kuwa ndogo kuliko au sawa na kilobaiti :value.',
+        'numeric' => ':attribute inapaswa kuwa ndogo kuliko au sawa na :value.',
+        'string'  => ':attribute inapaswa kuwa ndogo au sawa na herufi :value.',
     ],
-    'max' => [
-        'numeric' => 'Kipengele huenda si kikubwa kuliko :max.',
-        'file'    => 'Kipengele huenda si kikubwa kuliko :max cha kilobaiti.',
-        'string'  => 'Kipengele huenda si kikubwa kuliko :max cha herufi.',
+    'max'                  => [
         'array'   => 'Kipengele huenda kisiwe na zaidi ya :max cha vifungu.',
+        'file'    => 'Kipengele huenda si kikubwa kuliko :max cha kilobaiti.',
+        'numeric' => 'Kipengele huenda si kikubwa kuliko :max.',
+        'string'  => 'Kipengele huenda si kikubwa kuliko :max cha herufi.',
     ],
-    'mimes'     => 'Kipengele lazima kiwe faili ya aina: :values.',
-    'mimetypes' => ':attribute linapaswa kuwa faili la aina ya: :values.',
-    'min'       => [
-        'numeric' => 'Kipengele lazima kiwe angalau :min.',
-        'file'    => 'Kipengele lazima kiwe angalau :min cha kilobaiti.',
-        'string'  => 'Kipengele lazima kiwe angalau :min cha herufi.',
+    'mimes'                => 'Kipengele lazima kiwe faili ya aina: :values.',
+    'mimetypes'            => ':attribute linapaswa kuwa faili la aina ya: :values.',
+    'min'                  => [
         'array'   => 'Kipengele lazima kiwe na angalau :min cha vifungu.',
+        'file'    => 'Kipengele lazima kiwe angalau :min cha kilobaiti.',
+        'numeric' => 'Kipengele lazima kiwe angalau :min.',
+        'string'  => 'Kipengele lazima kiwe angalau :min cha herufi.',
     ],
     'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => 'Kipengele kilichochaguliwa si halali.',
@@ -96,6 +86,7 @@ return [
     'password'             => 'The password is incorrect.',
     'present'              => 'Sehemu ya kipengele lazima iwepo.',
     'regex'                => 'Muundo wa kipengele si halali.',
+    'relatable'            => 'This :attribute may not be associated with this resource.',
     'required'             => 'Sehemu ya kipengele inahitajika.',
     'required_if'          => 'Sehemu ya kipengele inahitajika wakati :other ni :value.',
     'required_unless'      => 'Sehemu ya kipengele inahitajika isipokuwa :other ni katika :values.',
@@ -105,53 +96,29 @@ return [
     'required_without_all' => 'Sehemu ya kipengele inahitajika wakati hakuna hata moja ya :values ipo.',
     'same'                 => 'Kipengele na :other lazima vilingane.',
     'size'                 => [
-        'numeric' => 'Kipengele lazima kiwe :size.',
-        'file'    => 'Kipengele lazima kiwe :size cha kilobaiti.',
-        'string'  => 'Kipengele lazima kiwe :size cha herufi.',
         'array'   => 'Kipengele lazima kiwe chenye :size vya kipimo.',
+        'file'    => 'Kipengele lazima kiwe :size cha kilobaiti.',
+        'numeric' => 'Kipengele lazima kiwe :size.',
+        'string'  => 'Kipengele lazima kiwe :size cha herufi.',
     ],
-    'starts_with' => ':attribute inapaswa kuanza na moja kati ya hizi zifuatazo: :values',
-    'string'      => 'Kipengele lazima kiwe kidwe.',
-    'timezone'    => 'Kipengele lazima kiwe ukanda halali.',
-    'unique'      => 'Kipengele tayari kimechukuliwa.',
-    'uploaded'    => ':attribute imeshindwa kupakia.',
-    'url'         => 'Muundo wa kipengele si halali.',
-    'uuid'        => ':attribute inapaswa kuwa UUID yako.',
-
-    /*
-    |--------------------------------------------------------------------------
-    | Custom Validation Language Lines
-    |--------------------------------------------------------------------------
-    |
-    | Here you may specify custom validation messages for attributes using the
-    | convention "attribute.rule" to name the lines. This makes it quick to
-    | specify a specific custom language line for a given attribute rule.
-    |
-    */
-
-    'custom' => [
+    'starts_with'          => ':attribute inapaswa kuanza na moja kati ya hizi zifuatazo: :values',
+    'string'               => 'Kipengele lazima kiwe kidwe.',
+    'timezone'             => 'Kipengele lazima kiwe ukanda halali.',
+    'unique'               => 'Kipengele tayari kimechukuliwa.',
+    'uploaded'             => ':attribute imeshindwa kupakia.',
+    'url'                  => 'Muundo wa kipengele si halali.',
+    'uuid'                 => ':attribute inapaswa kuwa UUID yako.',
+    'custom'               => [
         'attribute-name' => [
             'rule-name' => 'ujumbe wa desturi',
         ],
     ],
-
-    /*
-    |--------------------------------------------------------------------------
-    | Custom Validation Attributes
-    |--------------------------------------------------------------------------
-    |
-    | The following language lines are used to swap attribute place-holders
-    | with something more reader friendly such as E-Mail Address instead
-    | of "email". This simply helps us make messages a little cleaner.
-    |
-    */
-
-    'attributes' => [
-        'test_name'               => 'Jina la jaribio',
-        'test_description'        => 'Maelezo ya jaribio',
-        'test_locale'             => 'Lugha',
+    'attributes'           => [
         'image'                   => 'Picha',
         'result_text_under_image' => 'Maandishi ya matokeo chini ya picha',
         'short_text'              => 'Maandishi mafupi',
+        'test_description'        => 'Maelezo ya jaribio',
+        'test_locale'             => 'Lugha',
+        'test_name'               => 'Jina la jaribio',
     ],
 ];

@@ -1,16 +1,6 @@
 <?php
 
 return [
-    /*
-    |--------------------------------------------------------------------------
-    | Validation Language Lines
-    |--------------------------------------------------------------------------
-    |
-    | The following language lines contain the default error messages used by
-    | the validator class. Some of these rules have multiple versions such
-    | as the size rules. Feel free to tweak each of these messages here.
-    |
-    */
     'accepted'             => 'باید ومنل شی :attribute.',
     'active_url'           => ':attribute یو باوري لینک نه دی.',
     'after'                => 'باید:attribute تر نن ورځې نیټې پورې :date.',
@@ -19,13 +9,14 @@ return [
     'alpha_dash'           => 'دا باید شامل نه وي :attribute یوازې په حرفو کې، شمیرې او متره.',
     'alpha_num'            => 'شمیرې او متره :attribute یوازې خطونه او شمیرې.',
     'array'                => 'دا باید وي :attribute ًمیټرکس.',
+    'attached'             => 'This :attribute is already attached.',
     'before'               => 'باید:attribute د تاریخ پخوا تاریخ وټاکئ :date.',
     'before_or_equal'      => ':attribute دا باید وي د تیر نیټې یا نیټې سره سمون خوري :date.',
     'between'              => [
-        'numeric' => 'دا باید ارزښت وي :attribute ما بين:min او :max.',
-        'file'    => 'د دوتنې اندازه باید وي:attribute ما بين:min او :max كيلوبايت.',
-        'string'  => 'د متن حروف باید باید وي :attribute ما بين:min او :max.',
         'array'   => 'شمیرې او متره :attribute د عناصرو په منځ کې :min او :max.',
+        'file'    => 'د دوتنې اندازه باید وي:attribute ما بين:min او :max كيلوبايت.',
+        'numeric' => 'دا باید ارزښت وي :attribute ما بين:min او :max.',
+        'string'  => 'د متن حروف باید باید وي :attribute ما بين:min او :max.',
     ],
     'boolean'              => 'دا باید ارزښت وي :attribute او یا هم true یا false .',
     'confirmed'            => 'د تایید ساحه د ساحې سره سمون نه لري:attribute.',
@@ -43,16 +34,16 @@ return [
     'file'                 => 'د :attribute دا باید یوه فایل وي.',
     'filled'               => ':attribute لازمه ده.',
     'gt'                   => [
-        'numeric' => 'دا باید ارزښت وي :attribute په پرتله ډیر :value.',
-        'file'    => 'د دوتنې اندازه باید وي:attribute په پرتله ډیر :value كيلوبايت.',
-        'string'  => 'د متن اوږدوالی باید وي :attribute څخه زیات :value توري/توري.',
         'array'   => 'شمیرې او متره :attribute له زیاتو څخه :value عناصر/عنصر.',
+        'file'    => 'د دوتنې اندازه باید وي:attribute په پرتله ډیر :value كيلوبايت.',
+        'numeric' => 'دا باید ارزښت وي :attribute په پرتله ډیر :value.',
+        'string'  => 'د متن اوږدوالی باید وي :attribute څخه زیات :value توري/توري.',
     ],
     'gte'                  => [
-        'numeric' => 'دا باید ارزښت وي :attribute مساوی یا زیات :value.',
-        'file'    => 'د دوتنې اندازه باید وي:attribute لږترلږه :value كيلوبايت.',
-        'string'  => 'د متن اوږدوالی باید وي :attribute لږترلږه :value توري/توري.',
         'array'   => 'شمیرې او متره :attribute لږ تر لږه :value عنصر / عناصر.',
+        'file'    => 'د دوتنې اندازه باید وي:attribute لږترلږه :value كيلوبايت.',
+        'numeric' => 'دا باید ارزښت وي :attribute مساوی یا زیات :value.',
+        'string'  => 'د متن اوږدوالی باید وي :attribute لږترلږه :value توري/توري.',
     ],
     'image'                => 'دا باید وي :attribute انځور.',
     'in'                   => ':attribute غير موجود.',
@@ -63,30 +54,30 @@ return [
     'ipv6'                 => 'دا باید وي:attribute عنوان IPv6 ریښتیا.',
     'json'                 => 'دا باید وي:attribute د اوریدلو ډول JSON.',
     'lt'                   => [
-        'numeric' => 'دا باید ارزښت وي :attribute لږ :value.',
-        'file'    => 'د دوتنې اندازه باید وي:attribute لږ :value كيلوبايت.',
-        'string'  => 'د متن اوږدوالی باید وي :attribute له کم څخه :value توري/توري.',
         'array'   => 'شمیرې او متره :attribute له کم څخه :value عناصر/عنصر.',
+        'file'    => 'د دوتنې اندازه باید وي:attribute لږ :value كيلوبايت.',
+        'numeric' => 'دا باید ارزښت وي :attribute لږ :value.',
+        'string'  => 'د متن اوږدوالی باید وي :attribute له کم څخه :value توري/توري.',
     ],
     'lte'                  => [
-        'numeric' => 'دا باید ارزښت وي :attribute نسبت برابر یا کوچنی :value.',
-        'file'    => 'د دوتنې اندازه باید له حد نه زیاته نه وي :attribute :value كيلوبايت.',
-        'string'  => 'د متن اوږدوالی باید له زیاتوالی نه وي:attribute :value توري/توري.',
         'array'   => 'دا باید شامل نه وي :attribute له زیاتو څخه :value عناصر/عنصر.',
+        'file'    => 'د دوتنې اندازه باید له حد نه زیاته نه وي :attribute :value كيلوبايت.',
+        'numeric' => 'دا باید ارزښت وي :attribute نسبت برابر یا کوچنی :value.',
+        'string'  => 'د متن اوږدوالی باید له زیاتوالی نه وي:attribute :value توري/توري.',
     ],
     'max'                  => [
-        'numeric' => 'دا باید ارزښت وي :attribute نسبت برابر یا کوچنی :max.',
-        'file'    => 'د دوتنې اندازه باید له حد نه زیاته وي :attribute :max كيلوبايت.',
-        'string'  => 'د متن اوږدوالی باید له زیاتوالی نه وي:attribute :max توري/توري.',
         'array'   => 'دا باید شامل نه وي :attribute له زیاتو څخه :max عناصر/عنصر.',
+        'file'    => 'د دوتنې اندازه باید له حد نه زیاته وي :attribute :max كيلوبايت.',
+        'numeric' => 'دا باید ارزښت وي :attribute نسبت برابر یا کوچنی :max.',
+        'string'  => 'د متن اوږدوالی باید له زیاتوالی نه وي:attribute :max توري/توري.',
     ],
     'mimes'                => 'دا باید د ډول دوسیه وي : :values.',
     'mimetypes'            => 'دا باید یوه فایل وي: :values.',
     'min'                  => [
-        'numeric' => 'دا باید ارزښت وي :attribute مساوی یا زیات :min.',
-        'file'    => 'د دوتنې اندازه باید وي:attribute لږترلږه :min كيلوبايت.',
-        'string'  => 'د متن اوږدوالی باید وي :attribute لږترلږه :min توري/توري.',
         'array'   => 'شمیرې او متره :attribute لږ تر لږه :min عنصر / عناصر.',
+        'file'    => 'د دوتنې اندازه باید وي:attribute لږترلږه :min كيلوبايت.',
+        'numeric' => 'دا باید ارزښت وي :attribute مساوی یا زیات :min.',
+        'string'  => 'د متن اوږدوالی باید وي :attribute لږترلږه :min توري/توري.',
     ],
     'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => ':attribute موجود.',
@@ -95,6 +86,7 @@ return [
     'password'             => 'The password is incorrect.',
     'present'              => 'باید چمتو شی :attribute.',
     'regex'                => 'فورمول :attribute .غير صحيح.',
+    'relatable'            => 'This :attribute may not be associated with this resource.',
     'required'             => ':attribute اړینه ده.',
     'required_if'          => ':attribute که چیرې د اړتیا په صورت کې اړتیا وي:other مساو :value.',
     'required_unless'      => ':attribute که نه :other مساو :values.',
@@ -104,10 +96,10 @@ return [
     'required_without_all' => ':attribute که اړتیا شتون نلري :values.',
     'same'                 => 'اړینه ده :attribute سره :other.',
     'size'                 => [
-        'numeric' => 'دا باید ارزښت وي :attribute سره برابر :size.',
-        'file'    => 'د دوتنې اندازه باید وي:attribute :size كيلوبايت.',
-        'string'  => 'شمیرې او متره متن :attribute په :size توري/توري په سمه توګه.',
         'array'   => 'شمیرې او متره :attribute په :size عنصر/عناصر په سمه توګه.',
+        'file'    => 'د دوتنې اندازه باید وي:attribute :size كيلوبايت.',
+        'numeric' => 'دا باید ارزښت وي :attribute سره برابر :size.',
+        'string'  => 'شمیرې او متره متن :attribute په :size توري/توري په سمه توګه.',
     ],
     'starts_with'          => 'دا باید پیل شي :attribute د لاندې ارزښتونو څخه یو: :values',
     'string'               => 'دا باید وي:attribute متن.',
@@ -116,60 +108,40 @@ return [
     'uploaded'             => 'د پورته کولو توان نلري :attribute.',
     'url'                  => 'د لینک بڼه :attribute غلط.',
     'uuid'                 => ':attribute دا باید غیر رسمي وي UUID غږ.',
-    /*
-    |--------------------------------------------------------------------------
-    | Custom Validation Language Lines
-    |--------------------------------------------------------------------------
-    |
-    | Here you may specify custom validation messages for attributes using the
-    | convention "attribute.rule" to name the lines. This makes it quick to
-    | specify a specific custom language line for a given attribute rule.
-    |
-    */
     'custom'               => [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
     ],
-    /*
-    |--------------------------------------------------------------------------
-    | Custom Validation Attributes
-    |--------------------------------------------------------------------------
-    |
-    | The following language lines are used to swap attribute place-holders
-    | with something more reader friendly such as E-Mail Address instead
-    | of "email". This simply helps us make messages a little cleaner.
-    |
-    */
     'attributes'           => [
-        'name'                  => 'نوم',
-        'username'              => 'د کارن نوم',
+        'address'               => 'د استوګنې پته',
+        'age'                   => 'عمر',
+        'available'             => 'شته',
+        'city'                  => 'ښار',
+        'content'               => 'منځپانګې',
+        'country'               => 'هېواد',
+        'date'                  => 'نېټه',
+        'day'                   => 'ورځ',
+        'description'           => 'تشریح',
         'email'                 => 'برېښلیک',
+        'excerpt'               => 'لنډیز',
         'first_name'            => 'لومړی نوم',
+        'gender'                => 'جنس',
+        'hour'                  => 'ساعت',
         'last_name'             => 'وروستۍ نوم',
+        'minute'                => 'دقیقې',
+        'mobile'                => 'ګرځنده',
+        'month'                 => 'میاشت',
+        'name'                  => 'نوم',
         'password'              => 'پاسورډ',
         'password_confirmation' => 'پاسورډ تایید کړه',
-        'city'                  => 'ښار',
-        'country'               => 'هېواد',
-        'address'               => 'د استوګنې پته',
         'phone'                 => 'تلیفون',
-        'mobile'                => 'ګرځنده',
-        'age'                   => 'عمر',
-        'sex'                   => 'جنس',
-        'gender'                => 'جنس',
-        'day'                   => 'ورځ',
-        'month'                 => 'میاشت',
-        'year'                  => 'کال',
-        'hour'                  => 'ساعت',
-        'minute'                => 'دقیقې',
         'second'                => 'ثانوي',
-        'title'                 => 'سرلیک',
-        'content'               => 'منځپانګې',
-        'description'           => 'تشریح',
-        'excerpt'               => 'لنډیز',
-        'date'                  => 'نېټه',
-        'time'                  => 'وخت',
-        'available'             => 'شته',
+        'sex'                   => 'جنس',
         'size'                  => 'اندازه',
+        'time'                  => 'وخت',
+        'title'                 => 'سرلیک',
+        'username'              => 'د کارن نوم',
+        'year'                  => 'کال',
     ],
 ];

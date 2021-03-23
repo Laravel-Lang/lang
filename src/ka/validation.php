@@ -1,18 +1,6 @@
 <?php
 
 return [
-
-    /*
-    |--------------------------------------------------------------------------
-    | Validation Language Lines
-    |--------------------------------------------------------------------------
-    |
-    | The following language lines contain the default error messages used by
-    | the validator class. Some of these rules have multiple versions such
-    | as the size rules. Feel free to tweak each of these messages here.
-    |
-    */
-
     'accepted'             => ':attribute უნდა იყოს მონიშნული.',
     'active_url'           => ':attribute არ არის სწორი URL მისამართი.',
     'after'                => ':attribute უნდა იყოს თარიღი :date-ის შემდეგ.',
@@ -21,13 +9,14 @@ return [
     'alpha_dash'           => ':attribute უნდა შეიცავდეს მხოლოდ ასოებს, რიცხვებს, ტირეებს და ქვეტირეებს.',
     'alpha_num'            => ':attribute უნდა შეიცავდეს მხოლოდ ასოებს და რიცხვებს.',
     'array'                => ':attribute უნდა იყოს მასივი.',
+    'attached'             => 'This :attribute is already attached.',
     'before'               => ':attribute უნდა იყოს თარიღი :date-მდე.',
     'before_or_equal'      => ':attribute უნდა იყოს თარიღი :date-მდე ან მისი ტოლი.',
     'between'              => [
-        'numeric' => ':attribute უნდა იყოს :min-სა და :max-ს შორის.',
-        'file'    => ':attribute უნდა იყოს :min-სა და :max კილობაიტს შორის.',
-        'string'  => ':attribute უნდა იყოს :min-სა და :max სიმბოლოს შორის.',
         'array'   => ':attribute-ის რაოდენობა უნდა იყოს :min-დან :max-მდე.',
+        'file'    => ':attribute უნდა იყოს :min-სა და :max კილობაიტს შორის.',
+        'numeric' => ':attribute უნდა იყოს :min-სა და :max-ს შორის.',
+        'string'  => ':attribute უნდა იყოს :min-სა და :max სიმბოლოს შორის.',
     ],
     'boolean'              => ':attribute ველი უნდა იყოს true ან false.',
     'confirmed'            => ':attribute-ის დადასტურება არ ემთხვევა.',
@@ -45,16 +34,16 @@ return [
     'file'                 => ':attribute უნდა იყოს ფაილი.',
     'filled'               => ':attribute აუცილებელია.',
     'gt'                   => [
-        'numeric' => ':attribute უნდა იყოს :value-ზე მეტი.',
-        'file'    => ':attribute უნდა იყოს :value კილობაიტზე მეტი.',
-        'string'  => ':attribute უნდა შეიცავდეს :value სიმბოლოზე მეტს.',
         'array'   => ':attribute უნდა შეიცავდეს :value ელემენტზე მეტს.',
+        'file'    => ':attribute უნდა იყოს :value კილობაიტზე მეტი.',
+        'numeric' => ':attribute უნდა იყოს :value-ზე მეტი.',
+        'string'  => ':attribute უნდა შეიცავდეს :value სიმბოლოზე მეტს.',
     ],
     'gte'                  => [
-        'numeric' => ':attribute უნდა იყოს მინიმუმ :value.',
-        'file'    => ':attribute უნდა იყოს მინიმუმ :value კილობაიტი.',
-        'string'  => ':attribute უნდა შეიცავდეს მინიმუმ :value სიმბოლოს.',
         'array'   => ':attribute უნდა შეიცავდეს მინიმუმ :value ელემენტს.',
+        'file'    => ':attribute უნდა იყოს მინიმუმ :value კილობაიტი.',
+        'numeric' => ':attribute უნდა იყოს მინიმუმ :value.',
+        'string'  => ':attribute უნდა შეიცავდეს მინიმუმ :value სიმბოლოს.',
     ],
     'image'                => ':attribute უნდა იყოს სურათი.',
     'in'                   => 'არჩეული :attribute არასწორია.',
@@ -65,30 +54,30 @@ return [
     'ipv6'                 => ':attribute უნდა იყოს ვალიდური IPv6 მისამართი.',
     'json'                 => ':attribute უნდა იყოს სწორი JSON ტიპის.',
     'lt'                   => [
-        'numeric' => ':attribute უნდა იყოს :value-ზე ნაკლები.',
-        'file'    => ':attribute უნდა იყოს :value კილობაიტზე ნაკლები.',
-        'string'  => ':attribute უნდა შეიცავდეს :value სიმბოლოზე ნაკლებს.',
         'array'   => ':attribute უნდა შეიცავდეს :value ელემენტზე ნაკლებს.',
+        'file'    => ':attribute უნდა იყოს :value კილობაიტზე ნაკლები.',
+        'numeric' => ':attribute უნდა იყოს :value-ზე ნაკლები.',
+        'string'  => ':attribute უნდა შეიცავდეს :value სიმბოლოზე ნაკლებს.',
     ],
     'lte'                  => [
-        'numeric' => ':attribute უნდა იყოს მაქსიმუმ :value.',
-        'file'    => ':attribute უნდა იყოს მაქსიმუმ :value კილობაიტი.',
-        'string'  => ':attribute უნდა შეიცავდეს მაქსიმუმ :value სიმბოლოს.',
         'array'   => ':attribute უნდა შეიცავდეს მაქსიმუმ :value ელემენტს.',
+        'file'    => ':attribute უნდა იყოს მაქსიმუმ :value კილობაიტი.',
+        'numeric' => ':attribute უნდა იყოს მაქსიმუმ :value.',
+        'string'  => ':attribute უნდა შეიცავდეს მაქსიმუმ :value სიმბოლოს.',
     ],
     'max'                  => [
-        'numeric' => ':attribute არ უნდა აღემატებოდეს :max-ს.',
-        'file'    => ':attribute არ უნდა აღემატებოდეს :max კილობაიტს.',
-        'string'  => ':attribute არ უნდა აღემატებოდეს :max სიმბოლოს.',
         'array'   => ':attribute-ს არ უნდა ჰქონდეს :max ელემენტზე მეტი.',
+        'file'    => ':attribute არ უნდა აღემატებოდეს :max კილობაიტს.',
+        'numeric' => ':attribute არ უნდა აღემატებოდეს :max-ს.',
+        'string'  => ':attribute არ უნდა აღემატებოდეს :max სიმბოლოს.',
     ],
     'mimes'                => ':attribute უნდა იყოს შემდეგი ფაილური ტიპის: :values.',
     'mimetypes'            => ':attribute უნდა იყოს შემდეგი ფაილური ტიპის: :values.',
     'min'                  => [
-        'numeric' => ':attribute უნდა იყოს მინიმუმ :min.',
-        'file'    => ':attribute უნდა იყოს მინიმუმ :min კილობაიტი.',
-        'string'  => ':attribute უნდა შეიცავდეს მინიმუმ :min სიმბოლოს.',
         'array'   => ':attribute-ს უნდა ჰქონდეს მინიმუმ :min ელემენტი.',
+        'file'    => ':attribute უნდა იყოს მინიმუმ :min კილობაიტი.',
+        'numeric' => ':attribute უნდა იყოს მინიმუმ :min.',
+        'string'  => ':attribute უნდა შეიცავდეს მინიმუმ :min სიმბოლოს.',
     ],
     'multiple_of'          => ':attribute უნდა იყოს :value-ს ჯერადი',
     'not_in'               => 'არჩეული :attribute არასწორია.',
@@ -97,6 +86,7 @@ return [
     'password'             => 'პაროლი არასწორია.',
     'present'              => ':attribute-ის ველი უნდა არსებობდეს, თუნდაც ცარიელი.',
     'regex'                => ':attribute-ის ფორმატი არასწორია.',
+    'relatable'            => 'This :attribute may not be associated with this resource.',
     'required'             => ':attribute-ის ველი აუცილებელია.',
     'required_if'          => ':attribute-ის ველი აუცილებელია, თუ :other-ის მნიშვნელობა ემთხვევა :value-ს.',
     'required_unless'      => ':attribute-ის ველი აუცილებელია, თუ :values არ შეიცავს :other-ს.',
@@ -106,10 +96,10 @@ return [
     'required_without_all' => ':attribute-ის ველი აუცილებელია, თუ არცერთი :values არ არის მითითებული.',
     'same'                 => ':attribute და :other უნდა ემთხვეოდეს ერთმანეთს.',
     'size'                 => [
-        'numeric' => ':attribute უნდა იყოს :size.',
-        'file'    => ':attribute უნდა იყოს :size კილობაიტი.',
-        'string'  => ':attribute უნდა შედგებოდეს :size სიმბოლოსგან.',
         'array'   => ':attribute უნდა შეიცავდეს :size ელემენტს.',
+        'file'    => ':attribute უნდა იყოს :size კილობაიტი.',
+        'numeric' => ':attribute უნდა იყოს :size.',
+        'string'  => ':attribute უნდა შედგებოდეს :size სიმბოლოსგან.',
     ],
     'starts_with'          => ':attribute უნდა იწყებოდეს შემდეგიდან ერთ-ერთით: :values.',
     'string'               => ':attribute უნდა იყოს ტექსტი.',
@@ -118,35 +108,10 @@ return [
     'uploaded'             => ':attribute-ის ატვირთვა ვერ მოხერხდა.',
     'url'                  => ':attribute-ის ფორმატი არასწორია.',
     'uuid'                 => ':attribute უნდა იყოს ვალიდური UUID.',
-
-    /*
-    |--------------------------------------------------------------------------
-    | Custom Validation Language Lines
-    |--------------------------------------------------------------------------
-    |
-    | Here you may specify custom validation messages for attributes using the
-    | convention "attribute.rule" to name the lines. This makes it quick to
-    | specify a specific custom language line for a given attribute rule.
-    |
-    */
-
-    'custom' => [
+    'custom'               => [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
     ],
-
-    /*
-    |--------------------------------------------------------------------------
-    | Custom Validation Attributes
-    |--------------------------------------------------------------------------
-    |
-    | The following language lines are used to swap our attribute placeholder
-    | with something more reader friendly such as "E-Mail Address" instead
-    | of "email". This simply helps us make our message more expressive.
-    |
-    */
-
-    'attributes' => [],
-
+    'attributes'           => [],
 ];

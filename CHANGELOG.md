@@ -5,6 +5,32 @@ All notable changes to this project will be documented in this file, since v7.0.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [8.1.0] - 2021-01-23
+
+### Added
+
+ * Laravel Cashier
+ * Laravel Nova
+ * Script to update translation files
+
+### Changed
+
+ * feature: [ar] #1538 #1553 json file
+ * feature: [de] #1532 json file
+ * feature: [es] #1534 #1545 #1550 #1556 json file
+ * feature: [fa] #1527 #1531 validation.php json file
+ * feature: [fr] #1528 #1539 json file
+ * feature: [it] #1535 #1548 #1552 json file
+ * feature: [ja] #1558 json file
+ * feature: [ko] #1524 json file
+ * feature: [mk] #1536 #1549 json file
+ * feature: [nl] #1529 json file
+ * feature: [pl] #1530 auth, json file
+ * feature: [ru] #1537 #1546 #1551 #1554 json file
+ * feature: [sk] json file
+ * feature: [vi] #1530 #1543 #1557 validation.php validation-inline.php json file
+ * feature: [zh_*] #1544 #1559 json file
+
 ## [8.0.3] - 2021-01-29
 
 ### Changed
@@ -224,7 +250,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
  * feature: #1269 Rename locale folders following ISO 15897 format
 
-[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/8.0.3...master
+[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/8.1.0...master
+[8.1.0]: https://github.com/caouecs/Laravel-lang/compare/8.0.3...8.1.0
 [8.0.3]: https://github.com/caouecs/Laravel-lang/compare/8.0.2...8.0.3
 [8.0.2]: https://github.com/caouecs/Laravel-lang/compare/8.0.1...8.0.2
 [8.0.1]: https://github.com/caouecs/Laravel-lang/compare/8.0.0...8.0.1

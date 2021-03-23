@@ -1,5 +1,4 @@
 {
-    "*": "*",
     "30 Days": "30 Days",
     "60 Days": "60 Days",
     "90 Days": "90 Days",
@@ -615,6 +614,5 @@
     "You may not leave a team that you created.": "You may not leave a team that you created.",
     "Your email address is not verified.": "Сіздің email мекенжайыңыз расталмаған.",
     "Zambia": "Zambia",
-    "Zimbabwe": "Zimbabwe",
-    "—": "—"
+    "Zimbabwe": "Zimbabwe"
 }

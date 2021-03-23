@@ -1,5 +1,4 @@
 {
-    "*": "*",
     "30 Days": "30 Days",
     "60 Days": "60 Days",
     "90 Days": "90 Days",
@@ -615,6 +614,5 @@
     "You may not leave a team that you created.": "你不能离开你创建的团队。",
     "Your email address is not verified.": "您的电子邮件尚未验证通过。",
     "Zambia": "Zambia",
-    "Zimbabwe": "Zimbabwe",
-    "—": "—"
+    "Zimbabwe": "Zimbabwe"
 }

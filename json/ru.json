@@ -1,5 +1,4 @@
 {
-    "*": "*",
     "30 Days": "30 дней",
     "60 Days": "60 дней",
     "90 Days": "90 дней",
@@ -615,6 +614,5 @@
     "You may not leave a team that you created.": "Вы не можете покидать созданную Вами команду.",
     "Your email address is not verified.": "Ваш email адрес не подтвержден.",
     "Zambia": "Zambia",
-    "Zimbabwe": "Zimbabwe",
-    "—": "—"
+    "Zimbabwe": "Zimbabwe"
 }

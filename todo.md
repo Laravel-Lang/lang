@@ -7027,28 +7027,14 @@ into your web browser: : not present
 ## fr
 
 <details>
-<summary>show<small> (all missing: 173)</small></summary>
+<summary>show<small> (all missing: 128)</small></summary>
 
- * 30 Days : not present
- * 60 Days : not present
- * 90 Days : not present
  * :amount Total : not present
- * :resource Details : not present
- * :resource Details: :title : not present
  * Action Happened At : not present
- * Action Initiated By : not present
- * Action Name : not present
- * Action Status : not present
  * Action Target : not present
- * Action : not present
- * Actions : not present
- * Add row : not present
- * All resources loaded. : not present
  * An error occured while uploading the file. : not present
  * Another user has updated this resource since this page was loaded. Please refresh the page and try again. : not present
- * April : not present
  * Are you sure you want to delete the selected resources? : not present
- * Are you sure you want to delete this file? : not present
  * Are you sure you want to delete this resource? : not present
  * Are you sure you want to detach the selected resources? : not present
  * Are you sure you want to detach this resource? : not present
@@ -7060,8 +7046,6 @@ into your web browser: : not present
  * Attach & Attach Another : not present
  * Attach :resource : not present
  * Attach : not present
- * August : not present
- * Card : not present
  * Changes : not present
  * Choose :field : not present
  * Choose :resource : not present
@@ -7070,7 +7054,6 @@ into your web browser: : not present
  * Choose File : not present
  * Choose Type : not present
  * Choose : not present
- * Click to choose : not present
  * Confirm Payment : not present
  * Confirm your :amount payment : not present
  * Constant : not present
@@ -7078,7 +7061,6 @@ into your web browser: : not present
  * Create & Add Another : not present
  * Create :resource : not present
  * Customize : not present
- * December : not present
  * Decrease : not present
  * Delete File : not present
  * Delete Resource : not present
@@ -7095,29 +7077,15 @@ into your web browser: : not present
  * Email Address : not present
  * Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
  * Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
- * February : not present
  * Force Delete Resource : not present
  * Force Delete Selected : not present
  * Force Delete : not present
- * Full name : not present
  * Go back : not present
- * Hide Content : not present
  * Hold Up! : not present
- * ID : not present
  * Increase : not present
- * January : not present
- * July : not present
- * June : not present
- * Key : not present
  * Load :perPage More : not present
- * Log in : not present
- * Log out : not present
- * March : not present
- * May : not present
  * Month To Date : not present
  * New :resource : not present
- * New : not present
- * Next : not present
  * No :resource matched the given criteria. : not present
  * No additional information... : not present
  * No Current Data : not present
@@ -7126,21 +7094,13 @@ into your web browser: : not present
  * No Increase : not present
  * No Prior Data : not present
  * No Results Found. : not present
- * No : not present
- * Nova User : not present
- * November : not present
- * October : not present
  * Only Trashed : not present
- * Original : not present
  * Pay :amount : not present
- * Payment Cancelled : not present
  * Payment Confirmation : not present
  * Payment Successful : not present
- * Per Page : not present
+ * Please provide the email address of the person you would like to add to this team. : not present
  * Please provide your name. : not present
  * Press / to search : not present
- * Preview : not present
- * Previous : not present
  * Reload : not present
  * Reset Filters : not present
  * resource : not present
@@ -7154,7 +7114,6 @@ into your web browser: : not present
  * Select Action : not present
  * Select All Matching : not present
  * Select All : not present
- * September : not present
  * Show All Fields : not present
  * Show Content : not present
  * Something went wrong. : not present
@@ -7181,15 +7140,12 @@ into your web browser: : not present
  * This payment was already successfully confirmed. : not present
  * This payment was cancelled. : not present
  * This resource no longer exists : not present
- * Today : not present
- * total : not present
  * Trashed : not present
  * Update & Continue Editing : not present
  * Update :resource : not present
  * Update :resource: :title : not present
  * Update attached :resource: :title : not present
  * Update : not present
- * Value : not present
  * View : not present
  * We're lost in space. The page you were trying to view does not exist. : not present
  * Welcome Back! : not present
@@ -7197,7 +7153,6 @@ into your web browser: : not present
  * With Trashed : not present
  * Write : not present
  * Year To Date : not present
- * Yes : not present
  * attached : not present
  * relatable : not present
  * attached : not present

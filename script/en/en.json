@@ -1,5 +1,4 @@
 {
-    "*": "*",
     "30 Days": "30 Days",
     "60 Days": "60 Days",
     "90 Days": "90 Days",
@@ -616,5 +615,4 @@
     "Your email address is not verified.": "Your email address is not verified.",
     "Zambia": "Zambia",
     "Zimbabwe": "Zimbabwe",
-    "—": "—"
 }

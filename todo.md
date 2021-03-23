@@ -16,7 +16,7 @@
 ## ar
 
 <details>
-<summary>show<small> (all missing: 155, including not present: 155)</small></summary>
+<summary>show<small> (all missing: 155)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -180,7 +180,7 @@
 ## az
 
 <details>
-<summary>show<small> (all missing: 446, including not present: 446)</small></summary>
+<summary>show<small> (all missing: 434)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -552,10 +552,6 @@ into your web browser: : not present
  * attached : not present
  * date_equals : not present
  * ends_with : not present
- * gt : not present
- * gte : not present
- * lt : not present
- * lte : not present
  * multiple_of : not present
  * not_regex : not present
  * password : not present
@@ -573,7 +569,6 @@ into your web browser: : not present
  * attached : not present
  * before : not present
  * before_or_equal : not present
- * between : not present
  * boolean : not present
  * confirmed : not present
  * date : not present
@@ -589,8 +584,6 @@ into your web browser: : not present
  * exists : not present
  * file : not present
  * filled : not present
- * gt : not present
- * gte : not present
  * image : not present
  * in : not present
  * in_array : not present
@@ -599,12 +592,8 @@ into your web browser: : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
- * max : not present
  * mimes : not present
  * mimetypes : not present
- * min : not present
  * multiple_of : not present
  * not_in : not present
  * not_regex : not present
@@ -621,7 +610,6 @@ into your web browser: : not present
  * required_without : not present
  * required_without_all : not present
  * same : not present
- * size : not present
  * starts_with : not present
  * string : not present
  * timezone : not present
@@ -636,7 +624,7 @@ into your web browser: : not present
 ## be
 
 <details>
-<summary>show<small> (all missing: 456, including not present: 456)</small></summary>
+<summary>show<small> (all missing: 444)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -1013,13 +1001,9 @@ into your web browser: : not present
  * distinct : not present
  * ends_with : not present
  * file : not present
- * gt : not present
- * gte : not present
  * in_array : not present
  * ipv4 : not present
  * ipv6 : not present
- * lt : not present
- * lte : not present
  * multiple_of : not present
  * not_regex : not present
  * password : not present
@@ -1039,7 +1023,6 @@ into your web browser: : not present
  * attached : not present
  * before : not present
  * before_or_equal : not present
- * between : not present
  * boolean : not present
  * confirmed : not present
  * date : not present
@@ -1055,8 +1038,6 @@ into your web browser: : not present
  * exists : not present
  * file : not present
  * filled : not present
- * gt : not present
- * gte : not present
  * image : not present
  * in : not present
  * in_array : not present
@@ -1065,12 +1046,8 @@ into your web browser: : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
- * max : not present
  * mimes : not present
  * mimetypes : not present
- * min : not present
  * multiple_of : not present
  * not_in : not present
  * not_regex : not present
@@ -1087,7 +1064,6 @@ into your web browser: : not present
  * required_without : not present
  * required_without_all : not present
  * same : not present
- * size : not present
  * starts_with : not present
  * string : not present
  * timezone : not present
@@ -1102,7 +1078,7 @@ into your web browser: : not present
 ## bg
 
 <details>
-<summary>show<small> (all missing: 436, including not present: 436)</small></summary>
+<summary>show<small> (all missing: 428)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -1485,7 +1461,6 @@ into your web browser: : not present
  * attached : not present
  * before : not present
  * before_or_equal : not present
- * between : not present
  * boolean : not present
  * confirmed : not present
  * date : not present
@@ -1501,8 +1476,6 @@ into your web browser: : not present
  * exists : not present
  * file : not present
  * filled : not present
- * gt : not present
- * gte : not present
  * image : not present
  * in : not present
  * in_array : not present
@@ -1511,12 +1484,8 @@ into your web browser: : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
- * max : not present
  * mimes : not present
  * mimetypes : not present
- * min : not present
  * multiple_of : not present
  * not_in : not present
  * not_regex : not present
@@ -1533,7 +1502,6 @@ into your web browser: : not present
  * required_without : not present
  * required_without_all : not present
  * same : not present
- * size : not present
  * starts_with : not present
  * string : not present
  * timezone : not present
@@ -1548,7 +1516,7 @@ into your web browser: : not present
 ## bn
 
 <details>
-<summary>show<small> (all missing: 446, including not present: 446)</small></summary>
+<summary>show<small> (all missing: 434)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -1920,10 +1888,6 @@ into your web browser: : not present
  * attached : not present
  * date_equals : not present
  * ends_with : not present
- * gt : not present
- * gte : not present
- * lt : not present
- * lte : not present
  * multiple_of : not present
  * not_regex : not present
  * password : not present
@@ -1941,7 +1905,6 @@ into your web browser: : not present
  * attached : not present
  * before : not present
  * before_or_equal : not present
- * between : not present
  * boolean : not present
  * confirmed : not present
  * date : not present
@@ -1957,8 +1920,6 @@ into your web browser: : not present
  * exists : not present
  * file : not present
  * filled : not present
- * gt : not present
- * gte : not present
  * image : not present
  * in : not present
  * in_array : not present
@@ -1967,12 +1928,8 @@ into your web browser: : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
- * max : not present
  * mimes : not present
  * mimetypes : not present
- * min : not present
  * multiple_of : not present
  * not_in : not present
  * not_regex : not present
@@ -1989,7 +1946,6 @@ into your web browser: : not present
  * required_without : not present
  * required_without_all : not present
  * same : not present
- * size : not present
  * starts_with : not present
  * string : not present
  * timezone : not present
@@ -2004,7 +1960,7 @@ into your web browser: : not present
 ## bs
 
 <details>
-<summary>show<small> (all missing: 433, including not present: 433)</small></summary>
+<summary>show<small> (all missing: 425)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -2384,7 +2340,6 @@ into your web browser: : not present
  * attached : not present
  * before : not present
  * before_or_equal : not present
- * between : not present
  * boolean : not present
  * confirmed : not present
  * date : not present
@@ -2400,8 +2355,6 @@ into your web browser: : not present
  * exists : not present
  * file : not present
  * filled : not present
- * gt : not present
- * gte : not present
  * image : not present
  * in : not present
  * in_array : not present
@@ -2410,12 +2363,8 @@ into your web browser: : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
- * max : not present
  * mimes : not present
  * mimetypes : not present
- * min : not present
  * multiple_of : not present
  * not_in : not present
  * not_regex : not present
@@ -2432,7 +2381,6 @@ into your web browser: : not present
  * required_without : not present
  * required_without_all : not present
  * same : not present
- * size : not present
  * starts_with : not present
  * string : not present
  * timezone : not present
@@ -2447,7 +2395,7 @@ into your web browser: : not present
 ## ca
 
 <details>
-<summary>show<small> (all missing: 392, including not present: 392)</small></summary>
+<summary>show<small> (all missing: 384)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -2785,7 +2733,6 @@ into your web browser: : not present
  * attached : not present
  * before : not present
  * before_or_equal : not present
- * between : not present
  * boolean : not present
  * confirmed : not present
  * date : not present
@@ -2801,8 +2748,6 @@ into your web browser: : not present
  * exists : not present
  * file : not present
  * filled : not present
- * gt : not present
- * gte : not present
  * image : not present
  * in : not present
  * in_array : not present
@@ -2811,12 +2756,8 @@ into your web browser: : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
- * max : not present
  * mimes : not present
  * mimetypes : not present
- * min : not present
  * multiple_of : not present
  * not_in : not present
  * not_regex : not present
@@ -2833,7 +2774,6 @@ into your web browser: : not present
  * required_without : not present
  * required_without_all : not present
  * same : not present
- * size : not present
  * starts_with : not present
  * string : not present
  * timezone : not present
@@ -2848,7 +2788,7 @@ into your web browser: : not present
 ## cs
 
 <details>
-<summary>show<small> (all missing: 394, including not present: 394)</small></summary>
+<summary>show<small> (all missing: 386)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -3188,7 +3128,6 @@ into your web browser: : not present
  * attached : not present
  * before : not present
  * before_or_equal : not present
- * between : not present
  * boolean : not present
  * confirmed : not present
  * date : not present
@@ -3204,8 +3143,6 @@ into your web browser: : not present
  * exists : not present
  * file : not present
  * filled : not present
- * gt : not present
- * gte : not present
  * image : not present
  * in : not present
  * in_array : not present
@@ -3214,12 +3151,8 @@ into your web browser: : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
- * max : not present
  * mimes : not present
  * mimetypes : not present
- * min : not present
  * multiple_of : not present
  * not_in : not present
  * not_regex : not present
@@ -3236,7 +3169,6 @@ into your web browser: : not present
  * required_without : not present
  * required_without_all : not present
  * same : not present
- * size : not present
  * starts_with : not present
  * string : not present
  * timezone : not present
@@ -3251,7 +3183,7 @@ into your web browser: : not present
 ## cy
 
 <details>
-<summary>show<small> (all missing: 461, including not present: 461)</small></summary>
+<summary>show<small> (all missing: 449)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -3630,14 +3562,10 @@ into your web browser: : not present
  * distinct : not present
  * ends_with : not present
  * file : not present
- * gt : not present
- * gte : not present
  * in_array : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
  * multiple_of : not present
  * not_regex : not present
  * password : not present
@@ -3659,7 +3587,6 @@ into your web browser: : not present
  * attached : not present
  * before : not present
  * before_or_equal : not present
- * between : not present
  * boolean : not present
  * confirmed : not present
  * date : not present
@@ -3675,8 +3602,6 @@ into your web browser: : not present
  * exists : not present
  * file : not present
  * filled : not present
- * gt : not present
- * gte : not present
  * image : not present
  * in : not present
  * in_array : not present
@@ -3685,12 +3610,8 @@ into your web browser: : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
- * max : not present
  * mimes : not present
  * mimetypes : not present
- * min : not present
  * multiple_of : not present
  * not_in : not present
  * not_regex : not present
@@ -3707,7 +3628,6 @@ into your web browser: : not present
  * required_without : not present
  * required_without_all : not present
  * same : not present
- * size : not present
  * starts_with : not present
  * string : not present
  * timezone : not present
@@ -3722,7 +3642,7 @@ into your web browser: : not present
 ## da
 
 <details>
-<summary>show<small> (all missing: 394, including not present: 394)</small></summary>
+<summary>show<small> (all missing: 386)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -4062,7 +3982,6 @@ into your web browser: : not present
  * attached : not present
  * before : not present
  * before_or_equal : not present
- * between : not present
  * boolean : not present
  * confirmed : not present
  * date : not present
@@ -4078,8 +3997,6 @@ into your web browser: : not present
  * exists : not present
  * file : not present
  * filled : not present
- * gt : not present
- * gte : not present
  * image : not present
  * in : not present
  * in_array : not present
@@ -4088,12 +4005,8 @@ into your web browser: : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
- * max : not present
  * mimes : not present
  * mimetypes : not present
- * min : not present
  * multiple_of : not present
  * not_in : not present
  * not_regex : not present
@@ -4110,7 +4023,6 @@ into your web browser: : not present
  * required_without : not present
  * required_without_all : not present
  * same : not present
- * size : not present
  * starts_with : not present
  * string : not present
  * timezone : not present
@@ -4125,7 +4037,7 @@ into your web browser: : not present
 ## de
 
 <details>
-<summary>show<small> (all missing: 180, including not present: 180)</small></summary>
+<summary>show<small> (all missing: 180)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -4314,7 +4226,7 @@ into your web browser: : not present
 ## de_CH
 
 <details>
-<summary>show<small> (all missing: 325, including not present: 325)</small></summary>
+<summary>show<small> (all missing: 325)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -4648,7 +4560,7 @@ into your web browser: : not present
 ## el
 
 <details>
-<summary>show<small> (all missing: 377, including not present: 377)</small></summary>
+<summary>show<small> (all missing: 369)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -4971,7 +4883,6 @@ into your web browser: : not present
  * attached : not present
  * before : not present
  * before_or_equal : not present
- * between : not present
  * boolean : not present
  * confirmed : not present
  * date : not present
@@ -4987,8 +4898,6 @@ into your web browser: : not present
  * exists : not present
  * file : not present
  * filled : not present
- * gt : not present
- * gte : not present
  * image : not present
  * in : not present
  * in_array : not present
@@ -4997,12 +4906,8 @@ into your web browser: : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
- * max : not present
  * mimes : not present
  * mimetypes : not present
- * min : not present
  * multiple_of : not present
  * not_in : not present
  * not_regex : not present
@@ -5019,7 +4924,6 @@ into your web browser: : not present
  * required_without : not present
  * required_without_all : not present
  * same : not present
- * size : not present
  * starts_with : not present
  * string : not present
  * timezone : not present
@@ -5034,7 +4938,7 @@ into your web browser: : not present
 ## es
 
 <details>
-<summary>show<small> (all missing: 155, including not present: 155)</small></summary>
+<summary>show<small> (all missing: 155)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -5198,7 +5102,7 @@ into your web browser: : not present
 ## et
 
 <details>
-<summary>show<small> (all missing: 438, including not present: 438)</small></summary>
+<summary>show<small> (all missing: 430)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -5583,7 +5487,6 @@ into your web browser: : not present
  * attached : not present
  * before : not present
  * before_or_equal : not present
- * between : not present
  * boolean : not present
  * confirmed : not present
  * date : not present
@@ -5599,8 +5502,6 @@ into your web browser: : not present
  * exists : not present
  * file : not present
  * filled : not present
- * gt : not present
- * gte : not present
  * image : not present
  * in : not present
  * in_array : not present
@@ -5609,12 +5510,8 @@ into your web browser: : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
- * max : not present
  * mimes : not present
  * mimetypes : not present
- * min : not present
  * multiple_of : not present
  * not_in : not present
  * not_regex : not present
@@ -5631,7 +5528,6 @@ into your web browser: : not present
  * required_without : not present
  * required_without_all : not present
  * same : not present
- * size : not present
  * starts_with : not present
  * string : not present
  * timezone : not present
@@ -5646,7 +5542,7 @@ into your web browser: : not present
 ## eu
 
 <details>
-<summary>show<small> (all missing: 403, including not present: 403)</small></summary>
+<summary>show<small> (all missing: 395)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -5995,7 +5891,6 @@ into your web browser: : not present
  * attached : not present
  * before : not present
  * before_or_equal : not present
- * between : not present
  * boolean : not present
  * confirmed : not present
  * date : not present
@@ -6011,8 +5906,6 @@ into your web browser: : not present
  * exists : not present
  * file : not present
  * filled : not present
- * gt : not present
- * gte : not present
  * image : not present
  * in : not present
  * in_array : not present
@@ -6021,12 +5914,8 @@ into your web browser: : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
- * max : not present
  * mimes : not present
  * mimetypes : not present
- * min : not present
  * multiple_of : not present
  * not_in : not present
  * not_regex : not present
@@ -6043,7 +5932,6 @@ into your web browser: : not present
  * required_without : not present
  * required_without_all : not present
  * same : not present
- * size : not present
  * starts_with : not present
  * string : not present
  * timezone : not present
@@ -6058,7 +5946,7 @@ into your web browser: : not present
 ## fa
 
 <details>
-<summary>show<small> (all missing: 194, including not present: 194)</small></summary>
+<summary>show<small> (all missing: 194)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -6261,7 +6149,7 @@ into your web browser: : not present
 ## fi
 
 <details>
-<summary>show<small> (all missing: 429, including not present: 429)</small></summary>
+<summary>show<small> (all missing: 421)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -6636,7 +6524,6 @@ into your web browser: : not present
  * attached : not present
  * before : not present
  * before_or_equal : not present
- * between : not present
  * boolean : not present
  * confirmed : not present
  * date : not present
@@ -6652,8 +6539,6 @@ into your web browser: : not present
  * exists : not present
  * file : not present
  * filled : not present
- * gt : not present
- * gte : not present
  * image : not present
  * in : not present
  * in_array : not present
@@ -6662,12 +6547,8 @@ into your web browser: : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
- * max : not present
  * mimes : not present
  * mimetypes : not present
- * min : not present
  * multiple_of : not present
  * not_in : not present
  * not_regex : not present
@@ -6684,7 +6565,6 @@ into your web browser: : not present
  * required_without : not present
  * required_without_all : not present
  * same : not present
- * size : not present
  * starts_with : not present
  * string : not present
  * timezone : not present
@@ -6699,7 +6579,7 @@ into your web browser: : not present
 ## fil
 
 <details>
-<summary>show<small> (all missing: 446, including not present: 446)</small></summary>
+<summary>show<small> (all missing: 438)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -7092,7 +6972,6 @@ into your web browser: : not present
  * attached : not present
  * before : not present
  * before_or_equal : not present
- * between : not present
  * boolean : not present
  * confirmed : not present
  * date : not present
@@ -7108,8 +6987,6 @@ into your web browser: : not present
  * exists : not present
  * file : not present
  * filled : not present
- * gt : not present
- * gte : not present
  * image : not present
  * in : not present
  * in_array : not present
@@ -7118,12 +6995,8 @@ into your web browser: : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
- * max : not present
  * mimes : not present
  * mimetypes : not present
- * min : not present
  * multiple_of : not present
  * not_in : not present
  * not_regex : not present
@@ -7140,7 +7013,6 @@ into your web browser: : not present
  * required_without : not present
  * required_without_all : not present
  * same : not present
- * size : not present
  * starts_with : not present
  * string : not present
  * timezone : not present
@@ -7155,7 +7027,7 @@ into your web browser: : not present
 ## fr
 
 <details>
-<summary>show<small> (all missing: 173, including not present: 173)</small></summary>
+<summary>show<small> (all missing: 173)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -7337,7 +7209,7 @@ into your web browser: : not present
 ## gl
 
 <details>
-<summary>show<small> (all missing: 401, including not present: 401)</small></summary>
+<summary>show<small> (all missing: 393)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -7684,7 +7556,6 @@ into your web browser: : not present
  * attached : not present
  * before : not present
  * before_or_equal : not present
- * between : not present
  * boolean : not present
  * confirmed : not present
  * date : not present
@@ -7700,8 +7571,6 @@ into your web browser: : not present
  * exists : not present
  * file : not present
  * filled : not present
- * gt : not present
- * gte : not present
  * image : not present
  * in : not present
  * in_array : not present
@@ -7710,12 +7579,8 @@ into your web browser: : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
- * max : not present
  * mimes : not present
  * mimetypes : not present
- * min : not present
  * multiple_of : not present
  * not_in : not present
  * not_regex : not present
@@ -7732,7 +7597,6 @@ into your web browser: : not present
  * required_without : not present
  * required_without_all : not present
  * same : not present
- * size : not present
  * starts_with : not present
  * string : not present
  * timezone : not present
@@ -7747,7 +7611,7 @@ into your web browser: : not present
 ## he
 
 <details>
-<summary>show<small> (all missing: 394, including not present: 394)</small></summary>
+<summary>show<small> (all missing: 386)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -8087,7 +7951,6 @@ into your web browser: : not present
  * attached : not present
  * before : not present
  * before_or_equal : not present
- * between : not present
  * boolean : not present
  * confirmed : not present
  * date : not present
@@ -8103,8 +7966,6 @@ into your web browser: : not present
  * exists : not present
  * file : not present
  * filled : not present
- * gt : not present
- * gte : not present
  * image : not present
  * in : not present
  * in_array : not present
@@ -8113,12 +7974,8 @@ into your web browser: : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
- * max : not present
  * mimes : not present
  * mimetypes : not present
- * min : not present
  * multiple_of : not present
  * not_in : not present
  * not_regex : not present
@@ -8135,7 +7992,6 @@ into your web browser: : not present
  * required_without : not present
  * required_without_all : not present
  * same : not present
- * size : not present
  * starts_with : not present
  * string : not present
  * timezone : not present
@@ -8150,7 +8006,7 @@ into your web browser: : not present
 ## hi
 
 <details>
-<summary>show<small> (all missing: 441, including not present: 441)</small></summary>
+<summary>show<small> (all missing: 430)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -8521,9 +8377,6 @@ into your web browser: : not present
  * throttled : not present
  * attached : not present
  * ends_with : not present
- * gte : not present
- * lt : not present
- * lte : not present
  * multiple_of : not present
  * password : not present
  * relatable : not present
@@ -8538,7 +8391,6 @@ into your web browser: : not present
  * attached : not present
  * before : not present
  * before_or_equal : not present
- * between : not present
  * boolean : not present
  * confirmed : not present
  * date : not present
@@ -8554,8 +8406,6 @@ into your web browser: : not present
  * exists : not present
  * file : not present
  * filled : not present
- * gt : not present
- * gte : not present
  * image : not present
  * in : not present
  * in_array : not present
@@ -8564,12 +8414,8 @@ into your web browser: : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
- * max : not present
  * mimes : not present
  * mimetypes : not present
- * min : not present
  * multiple_of : not present
  * not_in : not present
  * not_regex : not present
@@ -8586,7 +8432,6 @@ into your web browser: : not present
  * required_without : not present
  * required_without_all : not present
  * same : not present
- * size : not present
  * starts_with : not present
  * string : not present
  * timezone : not present
@@ -8601,7 +8446,7 @@ into your web browser: : not present
 ## hr
 
 <details>
-<summary>show<small> (all missing: 423, including not present: 423)</small></summary>
+<summary>show<small> (all missing: 415)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -8971,7 +8816,6 @@ into your web browser: : not present
  * attached : not present
  * before : not present
  * before_or_equal : not present
- * between : not present
  * boolean : not present
  * confirmed : not present
  * date : not present
@@ -8987,8 +8831,6 @@ into your web browser: : not present
  * exists : not present
  * file : not present
  * filled : not present
- * gt : not present
- * gte : not present
  * image : not present
  * in : not present
  * in_array : not present
@@ -8997,12 +8839,8 @@ into your web browser: : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
- * max : not present
  * mimes : not present
  * mimetypes : not present
- * min : not present
  * multiple_of : not present
  * not_in : not present
  * not_regex : not present
@@ -9019,7 +8857,6 @@ into your web browser: : not present
  * required_without : not present
  * required_without_all : not present
  * same : not present
- * size : not present
  * starts_with : not present
  * string : not present
  * timezone : not present
@@ -9034,7 +8871,7 @@ into your web browser: : not present
 ## hu
 
 <details>
-<summary>show<small> (all missing: 391, including not present: 391)</small></summary>
+<summary>show<small> (all missing: 383)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -9371,7 +9208,6 @@ into your web browser: : not present
  * attached : not present
  * before : not present
  * before_or_equal : not present
- * between : not present
  * boolean : not present
  * confirmed : not present
  * date : not present
@@ -9387,8 +9223,6 @@ into your web browser: : not present
  * exists : not present
  * file : not present
  * filled : not present
- * gt : not present
- * gte : not present
  * image : not present
  * in : not present
  * in_array : not present
@@ -9397,12 +9231,8 @@ into your web browser: : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
- * max : not present
  * mimes : not present
  * mimetypes : not present
- * min : not present
  * multiple_of : not present
  * not_in : not present
  * not_regex : not present
@@ -9419,7 +9249,6 @@ into your web browser: : not present
  * required_without : not present
  * required_without_all : not present
  * same : not present
- * size : not present
  * starts_with : not present
  * string : not present
  * timezone : not present
@@ -9434,7 +9263,7 @@ into your web browser: : not present
 ## hy
 
 <details>
-<summary>show<small> (all missing: 392, including not present: 392)</small></summary>
+<summary>show<small> (all missing: 384)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -9773,7 +9602,6 @@ into your web browser: : not present
  * attached : not present
  * before : not present
  * before_or_equal : not present
- * between : not present
  * boolean : not present
  * confirmed : not present
  * date : not present
@@ -9789,8 +9617,6 @@ into your web browser: : not present
  * exists : not present
  * file : not present
  * filled : not present
- * gt : not present
- * gte : not present
  * image : not present
  * in : not present
  * in_array : not present
@@ -9799,12 +9625,8 @@ into your web browser: : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
- * max : not present
  * mimes : not present
  * mimetypes : not present
- * min : not present
  * multiple_of : not present
  * not_in : not present
  * not_regex : not present
@@ -9821,7 +9643,6 @@ into your web browser: : not present
  * required_without : not present
  * required_without_all : not present
  * same : not present
- * size : not present
  * starts_with : not present
  * string : not present
  * timezone : not present
@@ -9836,7 +9657,7 @@ into your web browser: : not present
 ## id
 
 <details>
-<summary>show<small> (all missing: 308, including not present: 308)</small></summary>
+<summary>show<small> (all missing: 308)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -10153,7 +9974,7 @@ into your web browser: : not present
 ## is
 
 <details>
-<summary>show<small> (all missing: 440, including not present: 440)</small></summary>
+<summary>show<small> (all missing: 432)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -10540,7 +10361,6 @@ into your web browser: : not present
  * attached : not present
  * before : not present
  * before_or_equal : not present
- * between : not present
  * boolean : not present
  * confirmed : not present
  * date : not present
@@ -10556,8 +10376,6 @@ into your web browser: : not present
  * exists : not present
  * file : not present
  * filled : not present
- * gt : not present
- * gte : not present
  * image : not present
  * in : not present
  * in_array : not present
@@ -10566,12 +10384,8 @@ into your web browser: : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
- * max : not present
  * mimes : not present
  * mimetypes : not present
- * min : not present
  * multiple_of : not present
  * not_in : not present
  * not_regex : not present
@@ -10588,7 +10402,6 @@ into your web browser: : not present
  * required_without : not present
  * required_without_all : not present
  * same : not present
- * size : not present
  * starts_with : not present
  * string : not present
  * timezone : not present
@@ -10603,7 +10416,7 @@ into your web browser: : not present
 ## it
 
 <details>
-<summary>show<small> (all missing: 155, including not present: 155)</small></summary>
+<summary>show<small> (all missing: 155)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -10767,7 +10580,7 @@ into your web browser: : not present
 ## ja
 
 <details>
-<summary>show<small> (all missing: 288, including not present: 288)</small></summary>
+<summary>show<small> (all missing: 280)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -11001,7 +10814,6 @@ into your web browser: : not present
  * attached : not present
  * before : not present
  * before_or_equal : not present
- * between : not present
  * boolean : not present
  * confirmed : not present
  * date : not present
@@ -11017,8 +10829,6 @@ into your web browser: : not present
  * exists : not present
  * file : not present
  * filled : not present
- * gt : not present
- * gte : not present
  * image : not present
  * in : not present
  * in_array : not present
@@ -11027,12 +10837,8 @@ into your web browser: : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
- * max : not present
  * mimes : not present
  * mimetypes : not present
- * min : not present
  * multiple_of : not present
  * not_in : not present
  * not_regex : not present
@@ -11049,7 +10855,6 @@ into your web browser: : not present
  * required_without : not present
  * required_without_all : not present
  * same : not present
- * size : not present
  * starts_with : not present
  * string : not present
  * timezone : not present
@@ -11064,7 +10869,7 @@ into your web browser: : not present
 ## ka
 
 <details>
-<summary>show<small> (all missing: 419, including not present: 419)</small></summary>
+<summary>show<small> (all missing: 411)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -11430,7 +11235,6 @@ into your web browser: : not present
  * attached : not present
  * before : not present
  * before_or_equal : not present
- * between : not present
  * boolean : not present
  * confirmed : not present
  * date : not present
@@ -11446,8 +11250,6 @@ into your web browser: : not present
  * exists : not present
  * file : not present
  * filled : not present
- * gt : not present
- * gte : not present
  * image : not present
  * in : not present
  * in_array : not present
@@ -11456,12 +11258,8 @@ into your web browser: : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
- * max : not present
  * mimes : not present
  * mimetypes : not present
- * min : not present
  * multiple_of : not present
  * not_in : not present
  * not_regex : not present
@@ -11478,7 +11276,6 @@ into your web browser: : not present
  * required_without : not present
  * required_without_all : not present
  * same : not present
- * size : not present
  * starts_with : not present
  * string : not present
  * timezone : not present
@@ -11493,7 +11290,7 @@ into your web browser: : not present
 ## kk
 
 <details>
-<summary>show<small> (all missing: 392, including not present: 392)</small></summary>
+<summary>show<small> (all missing: 384)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -11831,7 +11628,6 @@ into your web browser: : not present
  * attached : not present
  * before : not present
  * before_or_equal : not present
- * between : not present
  * boolean : not present
  * confirmed : not present
  * date : not present
@@ -11847,8 +11643,6 @@ into your web browser: : not present
  * exists : not present
  * file : not present
  * filled : not present
- * gt : not present
- * gte : not present
  * image : not present
  * in : not present
  * in_array : not present
@@ -11857,12 +11651,8 @@ into your web browser: : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
- * max : not present
  * mimes : not present
  * mimetypes : not present
- * min : not present
  * multiple_of : not present
  * not_in : not present
  * not_regex : not present
@@ -11879,7 +11669,6 @@ into your web browser: : not present
  * required_without : not present
  * required_without_all : not present
  * same : not present
- * size : not present
  * starts_with : not present
  * string : not present
  * timezone : not present
@@ -11894,7 +11683,7 @@ into your web browser: : not present
 ## km
 
 <details>
-<summary>show<small> (all missing: 434, including not present: 434)</small></summary>
+<summary>show<small> (all missing: 426)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -12275,7 +12064,6 @@ into your web browser: : not present
  * attached : not present
  * before : not present
  * before_or_equal : not present
- * between : not present
  * boolean : not present
  * confirmed : not present
  * date : not present
@@ -12291,8 +12079,6 @@ into your web browser: : not present
  * exists : not present
  * file : not present
  * filled : not present
- * gt : not present
- * gte : not present
  * image : not present
  * in : not present
  * in_array : not present
@@ -12301,12 +12087,8 @@ into your web browser: : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
- * max : not present
  * mimes : not present
  * mimetypes : not present
- * min : not present
  * multiple_of : not present
  * not_in : not present
  * not_regex : not present
@@ -12323,7 +12105,6 @@ into your web browser: : not present
  * required_without : not present
  * required_without_all : not present
  * same : not present
- * size : not present
  * starts_with : not present
  * string : not present
  * timezone : not present
@@ -12338,7 +12119,7 @@ into your web browser: : not present
 ## kn
 
 <details>
-<summary>show<small> (all missing: 402, including not present: 402)</small></summary>
+<summary>show<small> (all missing: 394)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -12686,7 +12467,6 @@ into your web browser: : not present
  * attached : not present
  * before : not present
  * before_or_equal : not present
- * between : not present
  * boolean : not present
  * confirmed : not present
  * date : not present
@@ -12702,8 +12482,6 @@ into your web browser: : not present
  * exists : not present
  * file : not present
  * filled : not present
- * gt : not present
- * gte : not present
  * image : not present
  * in : not present
  * in_array : not present
@@ -12712,12 +12490,8 @@ into your web browser: : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
- * max : not present
  * mimes : not present
  * mimetypes : not present
- * min : not present
  * multiple_of : not present
  * not_in : not present
  * not_regex : not present
@@ -12734,7 +12508,6 @@ into your web browser: : not present
  * required_without : not present
  * required_without_all : not present
  * same : not present
- * size : not present
  * starts_with : not present
  * string : not present
  * timezone : not present
@@ -12749,7 +12522,7 @@ into your web browser: : not present
 ## ko
 
 <details>
-<summary>show<small> (all missing: 178, including not present: 178)</small></summary>
+<summary>show<small> (all missing: 178)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -12936,7 +12709,7 @@ into your web browser: : not present
 ## lt
 
 <details>
-<summary>show<small> (all missing: 195, including not present: 195)</small></summary>
+<summary>show<small> (all missing: 195)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -13140,7 +12913,7 @@ into your web browser: : not present
 ## lv
 
 <details>
-<summary>show<small> (all missing: 438, including not present: 438)</small></summary>
+<summary>show<small> (all missing: 430)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -13525,7 +13298,6 @@ into your web browser: : not present
  * attached : not present
  * before : not present
  * before_or_equal : not present
- * between : not present
  * boolean : not present
  * confirmed : not present
  * date : not present
@@ -13541,8 +13313,6 @@ into your web browser: : not present
  * exists : not present
  * file : not present
  * filled : not present
- * gt : not present
- * gte : not present
  * image : not present
  * in : not present
  * in_array : not present
@@ -13551,12 +13321,8 @@ into your web browser: : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
- * max : not present
  * mimes : not present
  * mimetypes : not present
- * min : not present
  * multiple_of : not present
  * not_in : not present
  * not_regex : not present
@@ -13573,7 +13339,6 @@ into your web browser: : not present
  * required_without : not present
  * required_without_all : not present
  * same : not present
- * size : not present
  * starts_with : not present
  * string : not present
  * timezone : not present
@@ -13588,7 +13353,7 @@ into your web browser: : not present
 ## mk
 
 <details>
-<summary>show<small> (all missing: 156, including not present: 156)</small></summary>
+<summary>show<small> (all missing: 156)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -13753,7 +13518,7 @@ into your web browser: : not present
 ## mn
 
 <details>
-<summary>show<small> (all missing: 451, including not present: 451)</small></summary>
+<summary>show<small> (all missing: 439)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -14125,12 +13890,8 @@ into your web browser: : not present
  * attached : not present
  * date_equals : not present
  * ends_with : not present
- * gt : not present
- * gte : not present
  * ipv4 : not present
  * ipv6 : not present
- * lt : not present
- * lte : not present
  * multiple_of : not present
  * not_regex : not present
  * password : not present
@@ -14151,7 +13912,6 @@ into your web browser: : not present
  * attached : not present
  * before : not present
  * before_or_equal : not present
- * between : not present
  * boolean : not present
  * confirmed : not present
  * date : not present
@@ -14167,8 +13927,6 @@ into your web browser: : not present
  * exists : not present
  * file : not present
  * filled : not present
- * gt : not present
- * gte : not present
  * image : not present
  * in : not present
  * in_array : not present
@@ -14177,12 +13935,8 @@ into your web browser: : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
- * max : not present
  * mimes : not present
  * mimetypes : not present
- * min : not present
  * multiple_of : not present
  * not_in : not present
  * not_regex : not present
@@ -14199,7 +13953,6 @@ into your web browser: : not present
  * required_without : not present
  * required_without_all : not present
  * same : not present
- * size : not present
  * starts_with : not present
  * string : not present
  * timezone : not present
@@ -14214,7 +13967,7 @@ into your web browser: : not present
 ## mr
 
 <details>
-<summary>show<small> (all missing: 403, including not present: 403)</small></summary>
+<summary>show<small> (all missing: 395)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -14563,7 +14316,6 @@ into your web browser: : not present
  * attached : not present
  * before : not present
  * before_or_equal : not present
- * between : not present
  * boolean : not present
  * confirmed : not present
  * date : not present
@@ -14579,8 +14331,6 @@ into your web browser: : not present
  * exists : not present
  * file : not present
  * filled : not present
- * gt : not present
- * gte : not present
  * image : not present
  * in : not present
  * in_array : not present
@@ -14589,12 +14339,8 @@ into your web browser: : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
- * max : not present
  * mimes : not present
  * mimetypes : not present
- * min : not present
  * multiple_of : not present
  * not_in : not present
  * not_regex : not present
@@ -14611,7 +14357,6 @@ into your web browser: : not present
  * required_without : not present
  * required_without_all : not present
  * same : not present
- * size : not present
  * starts_with : not present
  * string : not present
  * timezone : not present
@@ -14626,7 +14371,7 @@ into your web browser: : not present
 ## ms
 
 <details>
-<summary>show<small> (all missing: 337, including not present: 337)</small></summary>
+<summary>show<small> (all missing: 337)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -14972,7 +14717,7 @@ into your web browser: : not present
 ## nb
 
 <details>
-<summary>show<small> (all missing: 393, including not present: 393)</small></summary>
+<summary>show<small> (all missing: 385)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -15311,7 +15056,6 @@ into your web browser: : not present
  * attached : not present
  * before : not present
  * before_or_equal : not present
- * between : not present
  * boolean : not present
  * confirmed : not present
  * date : not present
@@ -15327,8 +15071,6 @@ into your web browser: : not present
  * exists : not present
  * file : not present
  * filled : not present
- * gt : not present
- * gte : not present
  * image : not present
  * in : not present
  * in_array : not present
@@ -15337,12 +15079,8 @@ into your web browser: : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
- * max : not present
  * mimes : not present
  * mimetypes : not present
- * min : not present
  * multiple_of : not present
  * not_in : not present
  * not_regex : not present
@@ -15359,7 +15097,6 @@ into your web browser: : not present
  * required_without : not present
  * required_without_all : not present
  * same : not present
- * size : not present
  * starts_with : not present
  * string : not present
  * timezone : not present
@@ -15374,7 +15111,7 @@ into your web browser: : not present
 ## ne
 
 <details>
-<summary>show<small> (all missing: 325, including not present: 325)</small></summary>
+<summary>show<small> (all missing: 325)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -15708,7 +15445,7 @@ into your web browser: : not present
 ## nl
 
 <details>
-<summary>show<small> (all missing: 178, including not present: 178)</small></summary>
+<summary>show<small> (all missing: 178)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -15895,7 +15632,7 @@ into your web browser: : not present
 ## nn
 
 <details>
-<summary>show<small> (all missing: 395, including not present: 395)</small></summary>
+<summary>show<small> (all missing: 387)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -16236,7 +15973,6 @@ into your web browser: : not present
  * attached : not present
  * before : not present
  * before_or_equal : not present
- * between : not present
  * boolean : not present
  * confirmed : not present
  * date : not present
@@ -16252,8 +15988,6 @@ into your web browser: : not present
  * exists : not present
  * file : not present
  * filled : not present
- * gt : not present
- * gte : not present
  * image : not present
  * in : not present
  * in_array : not present
@@ -16262,12 +15996,8 @@ into your web browser: : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
- * max : not present
  * mimes : not present
  * mimetypes : not present
- * min : not present
  * multiple_of : not present
  * not_in : not present
  * not_regex : not present
@@ -16284,7 +16014,6 @@ into your web browser: : not present
  * required_without : not present
  * required_without_all : not present
  * same : not present
- * size : not present
  * starts_with : not present
  * string : not present
  * timezone : not present
@@ -16299,7 +16028,7 @@ into your web browser: : not present
 ## oc
 
 <details>
-<summary>show<small> (all missing: 369, including not present: 369)</small></summary>
+<summary>show<small> (all missing: 369)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -16678,7 +16407,7 @@ into your web browser: : not present
 ## pl
 
 <details>
-<summary>show<small> (all missing: 178, including not present: 178)</small></summary>
+<summary>show<small> (all missing: 178)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -16865,7 +16594,7 @@ into your web browser: : not present
 ## ps
 
 <details>
-<summary>show<small> (all missing: 403, including not present: 403)</small></summary>
+<summary>show<small> (all missing: 395)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -17214,7 +16943,6 @@ into your web browser: : not present
  * attached : not present
  * before : not present
  * before_or_equal : not present
- * between : not present
  * boolean : not present
  * confirmed : not present
  * date : not present
@@ -17230,8 +16958,6 @@ into your web browser: : not present
  * exists : not present
  * file : not present
  * filled : not present
- * gt : not present
- * gte : not present
  * image : not present
  * in : not present
  * in_array : not present
@@ -17240,12 +16966,8 @@ into your web browser: : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
- * max : not present
  * mimes : not present
  * mimetypes : not present
- * min : not present
  * multiple_of : not present
  * not_in : not present
  * not_regex : not present
@@ -17262,7 +16984,6 @@ into your web browser: : not present
  * required_without : not present
  * required_without_all : not present
  * same : not present
- * size : not present
  * starts_with : not present
  * string : not present
  * timezone : not present
@@ -17277,7 +16998,7 @@ into your web browser: : not present
 ## pt
 
 <details>
-<summary>show<small> (all missing: 198, including not present: 198)</small></summary>
+<summary>show<small> (all missing: 198)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -17484,7 +17205,7 @@ into your web browser: : not present
 ## pt_BR
 
 <details>
-<summary>show<small> (all missing: 199, including not present: 199)</small></summary>
+<summary>show<small> (all missing: 199)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -17692,7 +17413,7 @@ into your web browser: : not present
 ## ro
 
 <details>
-<summary>show<small> (all missing: 391, including not present: 391)</small></summary>
+<summary>show<small> (all missing: 383)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -18029,7 +17750,6 @@ into your web browser: : not present
  * attached : not present
  * before : not present
  * before_or_equal : not present
- * between : not present
  * boolean : not present
  * confirmed : not present
  * date : not present
@@ -18045,8 +17765,6 @@ into your web browser: : not present
  * exists : not present
  * file : not present
  * filled : not present
- * gt : not present
- * gte : not present
  * image : not present
  * in : not present
  * in_array : not present
@@ -18055,12 +17773,8 @@ into your web browser: : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
- * max : not present
  * mimes : not present
  * mimetypes : not present
- * min : not present
  * multiple_of : not present
  * not_in : not present
  * not_regex : not present
@@ -18077,7 +17791,6 @@ into your web browser: : not present
  * required_without : not present
  * required_without_all : not present
  * same : not present
- * size : not present
  * starts_with : not present
  * string : not present
  * timezone : not present
@@ -18098,7 +17811,7 @@ All lines are translated 😊
 ## sc
 
 <details>
-<summary>show<small> (all missing: 461, including not present: 461)</small></summary>
+<summary>show<small> (all missing: 449)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -18477,14 +18190,10 @@ into your web browser: : not present
  * distinct : not present
  * ends_with : not present
  * file : not present
- * gt : not present
- * gte : not present
  * in_array : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
  * multiple_of : not present
  * not_regex : not present
  * password : not present
@@ -18506,7 +18215,6 @@ into your web browser: : not present
  * attached : not present
  * before : not present
  * before_or_equal : not present
- * between : not present
  * boolean : not present
  * confirmed : not present
  * date : not present
@@ -18522,8 +18230,6 @@ into your web browser: : not present
  * exists : not present
  * file : not present
  * filled : not present
- * gt : not present
- * gte : not present
  * image : not present
  * in : not present
  * in_array : not present
@@ -18532,12 +18238,8 @@ into your web browser: : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
- * max : not present
  * mimes : not present
  * mimetypes : not present
- * min : not present
  * multiple_of : not present
  * not_in : not present
  * not_regex : not present
@@ -18554,7 +18256,6 @@ into your web browser: : not present
  * required_without : not present
  * required_without_all : not present
  * same : not present
- * size : not present
  * starts_with : not present
  * string : not present
  * timezone : not present
@@ -18569,7 +18270,7 @@ into your web browser: : not present
 ## si
 
 <details>
-<summary>show<small> (all missing: 437, including not present: 437)</small></summary>
+<summary>show<small> (all missing: 429)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -18953,7 +18654,6 @@ into your web browser: : not present
  * attached : not present
  * before : not present
  * before_or_equal : not present
- * between : not present
  * boolean : not present
  * confirmed : not present
  * date : not present
@@ -18969,8 +18669,6 @@ into your web browser: : not present
  * exists : not present
  * file : not present
  * filled : not present
- * gt : not present
- * gte : not present
  * image : not present
  * in : not present
  * in_array : not present
@@ -18979,12 +18677,8 @@ into your web browser: : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
- * max : not present
  * mimes : not present
  * mimetypes : not present
- * min : not present
  * multiple_of : not present
  * not_in : not present
  * not_regex : not present
@@ -19001,7 +18695,6 @@ into your web browser: : not present
  * required_without : not present
  * required_without_all : not present
  * same : not present
- * size : not present
  * starts_with : not present
  * string : not present
  * timezone : not present
@@ -19016,7 +18709,7 @@ into your web browser: : not present
 ## sk
 
 <details>
-<summary>show<small> (all missing: 390, including not present: 390)</small></summary>
+<summary>show<small> (all missing: 382)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -19352,7 +19045,6 @@ into your web browser: : not present
  * attached : not present
  * before : not present
  * before_or_equal : not present
- * between : not present
  * boolean : not present
  * confirmed : not present
  * date : not present
@@ -19368,8 +19060,6 @@ into your web browser: : not present
  * exists : not present
  * file : not present
  * filled : not present
- * gt : not present
- * gte : not present
  * image : not present
  * in : not present
  * in_array : not present
@@ -19378,12 +19068,8 @@ into your web browser: : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
- * max : not present
  * mimes : not present
  * mimetypes : not present
- * min : not present
  * multiple_of : not present
  * not_in : not present
  * not_regex : not present
@@ -19400,7 +19086,6 @@ into your web browser: : not present
  * required_without : not present
  * required_without_all : not present
  * same : not present
- * size : not present
  * starts_with : not present
  * string : not present
  * timezone : not present
@@ -19415,7 +19100,7 @@ into your web browser: : not present
 ## sl
 
 <details>
-<summary>show<small> (all missing: 194, including not present: 194)</small></summary>
+<summary>show<small> (all missing: 194)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -19618,7 +19303,7 @@ into your web browser: : not present
 ## sq
 
 <details>
-<summary>show<small> (all missing: 371, including not present: 371)</small></summary>
+<summary>show<small> (all missing: 371)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -19999,7 +19684,7 @@ into your web browser: : not present
 ## sr_Cyrl
 
 <details>
-<summary>show<small> (all missing: 209, including not present: 209)</small></summary>
+<summary>show<small> (all missing: 209)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -20217,7 +19902,7 @@ into your web browser: : not present
 ## sr_Latn
 
 <details>
-<summary>show<small> (all missing: 209, including not present: 209)</small></summary>
+<summary>show<small> (all missing: 209)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -20435,7 +20120,7 @@ into your web browser: : not present
 ## sr_Latn_ME
 
 <details>
-<summary>show<small> (all missing: 433, including not present: 433)</small></summary>
+<summary>show<small> (all missing: 425)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -20815,7 +20500,6 @@ into your web browser: : not present
  * attached : not present
  * before : not present
  * before_or_equal : not present
- * between : not present
  * boolean : not present
  * confirmed : not present
  * date : not present
@@ -20831,8 +20515,6 @@ into your web browser: : not present
  * exists : not present
  * file : not present
  * filled : not present
- * gt : not present
- * gte : not present
  * image : not present
  * in : not present
  * in_array : not present
@@ -20841,12 +20523,8 @@ into your web browser: : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
- * max : not present
  * mimes : not present
  * mimetypes : not present
- * min : not present
  * multiple_of : not present
  * not_in : not present
  * not_regex : not present
@@ -20863,7 +20541,6 @@ into your web browser: : not present
  * required_without : not present
  * required_without_all : not present
  * same : not present
- * size : not present
  * starts_with : not present
  * string : not present
  * timezone : not present
@@ -20878,7 +20555,7 @@ into your web browser: : not present
 ## sv
 
 <details>
-<summary>show<small> (all missing: 353, including not present: 353)</small></summary>
+<summary>show<small> (all missing: 345)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -21177,7 +20854,6 @@ into your web browser: : not present
  * attached : not present
  * before : not present
  * before_or_equal : not present
- * between : not present
  * boolean : not present
  * confirmed : not present
  * date : not present
@@ -21193,8 +20869,6 @@ into your web browser: : not present
  * exists : not present
  * file : not present
  * filled : not present
- * gt : not present
- * gte : not present
  * image : not present
  * in : not present
  * in_array : not present
@@ -21203,12 +20877,8 @@ into your web browser: : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
- * max : not present
  * mimes : not present
  * mimetypes : not present
- * min : not present
  * multiple_of : not present
  * not_in : not present
  * not_regex : not present
@@ -21225,7 +20895,6 @@ into your web browser: : not present
  * required_without : not present
  * required_without_all : not present
  * same : not present
- * size : not present
  * starts_with : not present
  * string : not present
  * timezone : not present
@@ -21240,7 +20909,7 @@ into your web browser: : not present
 ## sw
 
 <details>
-<summary>show<small> (all missing: 438, including not present: 438)</small></summary>
+<summary>show<small> (all missing: 430)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -21625,7 +21294,6 @@ into your web browser: : not present
  * attached : not present
  * before : not present
  * before_or_equal : not present
- * between : not present
  * boolean : not present
  * confirmed : not present
  * date : not present
@@ -21641,8 +21309,6 @@ into your web browser: : not present
  * exists : not present
  * file : not present
  * filled : not present
- * gt : not present
- * gte : not present
  * image : not present
  * in : not present
  * in_array : not present
@@ -21651,12 +21317,8 @@ into your web browser: : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
- * max : not present
  * mimes : not present
  * mimetypes : not present
- * min : not present
  * multiple_of : not present
  * not_in : not present
  * not_regex : not present
@@ -21673,7 +21335,6 @@ into your web browser: : not present
  * required_without : not present
  * required_without_all : not present
  * same : not present
- * size : not present
  * starts_with : not present
  * string : not present
  * timezone : not present
@@ -21688,7 +21349,7 @@ into your web browser: : not present
 ## tg
 
 <details>
-<summary>show<small> (all missing: 448, including not present: 448)</small></summary>
+<summary>show<small> (all missing: 436)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -22060,12 +21721,8 @@ into your web browser: : not present
  * attached : not present
  * date_equals : not present
  * ends_with : not present
- * gt : not present
- * gte : not present
  * ipv4 : not present
  * ipv6 : not present
- * lt : not present
- * lte : not present
  * multiple_of : not present
  * not_regex : not present
  * password : not present
@@ -22083,7 +21740,6 @@ into your web browser: : not present
  * attached : not present
  * before : not present
  * before_or_equal : not present
- * between : not present
  * boolean : not present
  * confirmed : not present
  * date : not present
@@ -22099,8 +21755,6 @@ into your web browser: : not present
  * exists : not present
  * file : not present
  * filled : not present
- * gt : not present
- * gte : not present
  * image : not present
  * in : not present
  * in_array : not present
@@ -22109,12 +21763,8 @@ into your web browser: : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
- * max : not present
  * mimes : not present
  * mimetypes : not present
- * min : not present
  * multiple_of : not present
  * not_in : not present
  * not_regex : not present
@@ -22131,7 +21781,6 @@ into your web browser: : not present
  * required_without : not present
  * required_without_all : not present
  * same : not present
- * size : not present
  * starts_with : not present
  * string : not present
  * timezone : not present
@@ -22146,7 +21795,7 @@ into your web browser: : not present
 ## th
 
 <details>
-<summary>show<small> (all missing: 408, including not present: 408)</small></summary>
+<summary>show<small> (all missing: 400)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -22501,7 +22150,6 @@ into your web browser: : not present
  * attached : not present
  * before : not present
  * before_or_equal : not present
- * between : not present
  * boolean : not present
  * confirmed : not present
  * date : not present
@@ -22517,8 +22165,6 @@ into your web browser: : not present
  * exists : not present
  * file : not present
  * filled : not present
- * gt : not present
- * gte : not present
  * image : not present
  * in : not present
  * in_array : not present
@@ -22527,12 +22173,8 @@ into your web browser: : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
- * max : not present
  * mimes : not present
  * mimetypes : not present
- * min : not present
  * multiple_of : not present
  * not_in : not present
  * not_regex : not present
@@ -22549,7 +22191,6 @@ into your web browser: : not present
  * required_without : not present
  * required_without_all : not present
  * same : not present
- * size : not present
  * starts_with : not present
  * string : not present
  * timezone : not present
@@ -22564,7 +22205,7 @@ into your web browser: : not present
 ## tk
 
 <details>
-<summary>show<small> (all missing: 461, including not present: 461)</small></summary>
+<summary>show<small> (all missing: 449)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -22943,14 +22584,10 @@ into your web browser: : not present
  * distinct : not present
  * ends_with : not present
  * file : not present
- * gt : not present
- * gte : not present
  * in_array : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
  * multiple_of : not present
  * not_regex : not present
  * password : not present
@@ -22972,7 +22609,6 @@ into your web browser: : not present
  * attached : not present
  * before : not present
  * before_or_equal : not present
- * between : not present
  * boolean : not present
  * confirmed : not present
  * date : not present
@@ -22988,8 +22624,6 @@ into your web browser: : not present
  * exists : not present
  * file : not present
  * filled : not present
- * gt : not present
- * gte : not present
  * image : not present
  * in : not present
  * in_array : not present
@@ -22998,12 +22632,8 @@ into your web browser: : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
- * max : not present
  * mimes : not present
  * mimetypes : not present
- * min : not present
  * multiple_of : not present
  * not_in : not present
  * not_regex : not present
@@ -23020,7 +22650,6 @@ into your web browser: : not present
  * required_without : not present
  * required_without_all : not present
  * same : not present
- * size : not present
  * starts_with : not present
  * string : not present
  * timezone : not present
@@ -23035,7 +22664,7 @@ into your web browser: : not present
 ## tl
 
 <details>
-<summary>show<small> (all missing: 454, including not present: 454)</small></summary>
+<summary>show<small> (all missing: 442)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -23411,12 +23040,8 @@ into your web browser: : not present
  * dimensions : not present
  * ends_with : not present
  * file : not present
- * gt : not present
- * gte : not present
  * ipv4 : not present
  * ipv6 : not present
- * lt : not present
- * lte : not present
  * mimetypes : not present
  * multiple_of : not present
  * not_regex : not present
@@ -23436,7 +23061,6 @@ into your web browser: : not present
  * attached : not present
  * before : not present
  * before_or_equal : not present
- * between : not present
  * boolean : not present
  * confirmed : not present
  * date : not present
@@ -23452,8 +23076,6 @@ into your web browser: : not present
  * exists : not present
  * file : not present
  * filled : not present
- * gt : not present
- * gte : not present
  * image : not present
  * in : not present
  * in_array : not present
@@ -23462,12 +23084,8 @@ into your web browser: : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
- * max : not present
  * mimes : not present
  * mimetypes : not present
- * min : not present
  * multiple_of : not present
  * not_in : not present
  * not_regex : not present
@@ -23484,7 +23102,6 @@ into your web browser: : not present
  * required_without : not present
  * required_without_all : not present
  * same : not present
- * size : not present
  * starts_with : not present
  * string : not present
  * timezone : not present
@@ -23499,7 +23116,7 @@ into your web browser: : not present
 ## tr
 
 <details>
-<summary>show<small> (all missing: 260, including not present: 260)</small></summary>
+<summary>show<small> (all missing: 252)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -23708,7 +23325,6 @@ into your web browser: : not present
  * attached : not present
  * before : not present
  * before_or_equal : not present
- * between : not present
  * boolean : not present
  * confirmed : not present
  * date : not present
@@ -23721,8 +23337,6 @@ into your web browser: : not present
  * ends_with : not present
  * exists : not present
  * filled : not present
- * gt : not present
- * gte : not present
  * image : not present
  * in : not present
  * in_array : not present
@@ -23731,12 +23345,8 @@ into your web browser: : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
- * max : not present
  * mimes : not present
  * mimetypes : not present
- * min : not present
  * multiple_of : not present
  * not_in : not present
  * not_regex : not present
@@ -23753,7 +23363,6 @@ into your web browser: : not present
  * required_without : not present
  * required_without_all : not present
  * same : not present
- * size : not present
  * starts_with : not present
  * string : not present
  * timezone : not present
@@ -23768,7 +23377,7 @@ into your web browser: : not present
 ## ug
 
 <details>
-<summary>show<small> (all missing: 446, including not present: 446)</small></summary>
+<summary>show<small> (all missing: 434)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -24140,10 +23749,6 @@ into your web browser: : not present
  * attached : not present
  * date_equals : not present
  * ends_with : not present
- * gt : not present
- * gte : not present
- * lt : not present
- * lte : not present
  * multiple_of : not present
  * not_regex : not present
  * password : not present
@@ -24161,7 +23766,6 @@ into your web browser: : not present
  * attached : not present
  * before : not present
  * before_or_equal : not present
- * between : not present
  * boolean : not present
  * confirmed : not present
  * date : not present
@@ -24177,8 +23781,6 @@ into your web browser: : not present
  * exists : not present
  * file : not present
  * filled : not present
- * gt : not present
- * gte : not present
  * image : not present
  * in : not present
  * in_array : not present
@@ -24187,12 +23789,8 @@ into your web browser: : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
- * max : not present
  * mimes : not present
  * mimetypes : not present
- * min : not present
  * multiple_of : not present
  * not_in : not present
  * not_regex : not present
@@ -24209,7 +23807,6 @@ into your web browser: : not present
  * required_without : not present
  * required_without_all : not present
  * same : not present
- * size : not present
  * starts_with : not present
  * string : not present
  * timezone : not present
@@ -24224,7 +23821,7 @@ into your web browser: : not present
 ## uk
 
 <details>
-<summary>show<small> (all missing: 186, including not present: 186)</small></summary>
+<summary>show<small> (all missing: 186)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -24419,7 +24016,7 @@ into your web browser: : not present
 ## ur
 
 <details>
-<summary>show<small> (all missing: 440, including not present: 440)</small></summary>
+<summary>show<small> (all missing: 428)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -24781,12 +24378,8 @@ into your web browser: : not present
  * dimensions : not present
  * ends_with : not present
  * file : not present
- * gt : not present
- * gte : not present
  * ipv4 : not present
  * ipv6 : not present
- * lt : not present
- * lte : not present
  * mimetypes : not present
  * multiple_of : not present
  * not_regex : not present
@@ -24806,7 +24399,6 @@ into your web browser: : not present
  * attached : not present
  * before : not present
  * before_or_equal : not present
- * between : not present
  * boolean : not present
  * confirmed : not present
  * date : not present
@@ -24822,8 +24414,6 @@ into your web browser: : not present
  * exists : not present
  * file : not present
  * filled : not present
- * gt : not present
- * gte : not present
  * image : not present
  * in : not present
  * in_array : not present
@@ -24832,12 +24422,8 @@ into your web browser: : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
- * max : not present
  * mimes : not present
  * mimetypes : not present
- * min : not present
  * multiple_of : not present
  * not_in : not present
  * not_regex : not present
@@ -24854,7 +24440,6 @@ into your web browser: : not present
  * required_without : not present
  * required_without_all : not present
  * same : not present
- * size : not present
  * starts_with : not present
  * string : not present
  * timezone : not present
@@ -24869,7 +24454,7 @@ into your web browser: : not present
 ## uz_Cyrl
 
 <details>
-<summary>show<small> (all missing: 435, including not present: 435)</small></summary>
+<summary>show<small> (all missing: 427)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -25251,7 +24836,6 @@ into your web browser: : not present
  * attached : not present
  * before : not present
  * before_or_equal : not present
- * between : not present
  * boolean : not present
  * confirmed : not present
  * date : not present
@@ -25267,8 +24851,6 @@ into your web browser: : not present
  * exists : not present
  * file : not present
  * filled : not present
- * gt : not present
- * gte : not present
  * image : not present
  * in : not present
  * in_array : not present
@@ -25277,12 +24859,8 @@ into your web browser: : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
- * max : not present
  * mimes : not present
  * mimetypes : not present
- * min : not present
  * multiple_of : not present
  * not_in : not present
  * not_regex : not present
@@ -25299,7 +24877,6 @@ into your web browser: : not present
  * required_without : not present
  * required_without_all : not present
  * same : not present
- * size : not present
  * starts_with : not present
  * string : not present
  * timezone : not present
@@ -25314,7 +24891,7 @@ into your web browser: : not present
 ## uz_Latn
 
 <details>
-<summary>show<small> (all missing: 435, including not present: 435)</small></summary>
+<summary>show<small> (all missing: 427)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -25696,7 +25273,6 @@ into your web browser: : not present
  * attached : not present
  * before : not present
  * before_or_equal : not present
- * between : not present
  * boolean : not present
  * confirmed : not present
  * date : not present
@@ -25712,8 +25288,6 @@ into your web browser: : not present
  * exists : not present
  * file : not present
  * filled : not present
- * gt : not present
- * gte : not present
  * image : not present
  * in : not present
  * in_array : not present
@@ -25722,12 +25296,8 @@ into your web browser: : not present
  * ipv4 : not present
  * ipv6 : not present
  * json : not present
- * lt : not present
- * lte : not present
- * max : not present
  * mimes : not present
  * mimetypes : not present
- * min : not present
  * multiple_of : not present
  * not_in : not present
  * not_regex : not present
@@ -25744,7 +25314,6 @@ into your web browser: : not present
  * required_without : not present
  * required_without_all : not present
  * same : not present
- * size : not present
  * starts_with : not present
  * string : not present
  * timezone : not present
@@ -25759,7 +25328,7 @@ into your web browser: : not present
 ## vi
 
 <details>
-<summary>show<small> (all missing: 172, including not present: 172)</small></summary>
+<summary>show<small> (all missing: 172)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -25940,7 +25509,7 @@ into your web browser: : not present
 ## zh_CN
 
 <details>
-<summary>show<small> (all missing: 155, including not present: 155)</small></summary>
+<summary>show<small> (all missing: 155)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -26104,7 +25673,7 @@ into your web browser: : not present
 ## zh_HK
 
 <details>
-<summary>show<small> (all missing: 155, including not present: 155)</small></summary>
+<summary>show<small> (all missing: 155)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -26268,7 +25837,7 @@ into your web browser: : not present
 ## zh_TW
 
 <details>
-<summary>show<small> (all missing: 155, including not present: 155)</small></summary>
+<summary>show<small> (all missing: 155)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present

@@ -7027,129 +7027,40 @@ into your web browser: : not present
 ## fr
 
 <details>
-<summary>show<small> (all missing: 128)</small></summary>
+<summary>show<small> (all missing: 39)</small></summary>
 
- * :amount Total : not present
- * Action Happened At : not present
- * Action Target : not present
- * An error occured while uploading the file. : not present
- * Another user has updated this resource since this page was loaded. Please refresh the page and try again. : not present
- * Are you sure you want to delete the selected resources? : not present
- * Are you sure you want to delete this resource? : not present
- * Are you sure you want to detach the selected resources? : not present
- * Are you sure you want to detach this resource? : not present
- * Are you sure you want to force delete the selected resources? : not present
- * Are you sure you want to force delete this resource? : not present
- * Are you sure you want to restore the selected resources? : not present
- * Are you sure you want to restore this resource? : not present
- * Are you sure you want to run this action? : not present
- * Attach & Attach Another : not present
- * Attach :resource : not present
- * Attach : not present
- * Changes : not present
- * Choose :field : not present
- * Choose :resource : not present
- * Choose an option : not present
- * Choose date : not present
- * Choose File : not present
- * Choose Type : not present
- * Choose : not present
- * Confirm Payment : not present
- * Confirm your :amount payment : not present
  * Constant : not present
- * could not be found. : not present
- * Create & Add Another : not present
- * Create :resource : not present
- * Customize : not present
- * Decrease : not present
- * Delete File : not present
- * Delete Resource : not present
- * Delete Selected : not present
- * Detach Resource : not present
- * Detach Selected : not present
- * Detach : not present
- * Details : not present
- * Do you really want to leave? You have unsaved changes. : not present
- * Download : not present
- * Edit :resource : not present
- * Edit Attached : not present
- * Edit : not present
- * Email Address : not present
  * Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
  * Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
- * Force Delete Resource : not present
- * Force Delete Selected : not present
- * Force Delete : not present
- * Go back : not present
- * Hold Up! : not present
- * Increase : not present
  * Load :perPage More : not present
- * Month To Date : not present
- * New :resource : not present
  * No :resource matched the given criteria. : not present
- * No additional information... : not present
- * No Current Data : not present
- * No Data : not present
- * no file selected : not present
  * No Increase : not present
  * No Prior Data : not present
- * No Results Found. : not present
  * Only Trashed : not present
- * Pay :amount : not present
- * Payment Confirmation : not present
- * Payment Successful : not present
  * Please provide the email address of the person you would like to add to this team. : not present
  * Please provide your name. : not present
  * Press / to search : not present
- * Reload : not present
  * Reset Filters : not present
- * resource : not present
- * Resources : not present
- * resources : not present
- * Restore Resource : not present
- * Restore Selected : not present
- * Restore : not present
- * Run Action : not present
- * Search : not present
- * Select Action : not present
  * Select All Matching : not present
- * Select All : not present
- * Show All Fields : not present
- * Show Content : not present
  * Something went wrong. : not present
- * Sorry! You are not authorized to perform this action. : not present
- * Sorry, your session has expired. : not present
  * Start Polling : not present
  * Stop Polling : not present
  * The :attribute must be at least :length characters and contain at least one special character and one number. : not present
- * The :resource was created! : not present
- * The :resource was deleted! : not present
- * The :resource was restored! : not present
- * The :resource was updated! : not present
  * The action ran successfully! : not present
- * The file was deleted! : not present
  * The government won't let us show you what's behind these doors : not present
  * The HasOne relationship has already been filled. : not present
  * The payment was successful. : not present
- * The resource was updated! : not present
  * There are no available options for this resource. : not present
  * There was a problem executing the action. : not present
  * There was a problem submitting the form. : not present
  * This file field is read-only. : not present
- * This image : not present
  * This payment was already successfully confirmed. : not present
  * This payment was cancelled. : not present
  * This resource no longer exists : not present
  * Trashed : not present
  * Update & Continue Editing : not present
- * Update :resource : not present
- * Update :resource: :title : not present
  * Update attached :resource: :title : not present
- * Update : not present
- * View : not present
  * We're lost in space. The page you were trying to view does not exist. : not present
- * Welcome Back! : not present
- * Whoops : not present
  * With Trashed : not present
  * Write : not present
  * Year To Date : not present

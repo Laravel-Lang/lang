@@ -94,6 +94,9 @@ return [
     'required_with_all'    => ':attribute herhangi bir :values değeri varken mutlaka gereklidir.',
     'required_without'     => ':attribute :values yokken mutlaka gereklidir.',
     'required_without_all' => ':attribute :values değerlerinden herhangi biri yokken mutlaka gereklidir.',
+    'prohibited'           => ':attribute alanı kısıtlanmıştır.',
+    'prohibited_if'        => ':other alanının değeri :value olduğunda :attribute alanına veri girişi yapılamaz.',
+    'prohibited_unless'    => ':other alanı :value değerlerinin dışında olduğunda :attribute alanına veri girişi yapılamaz.',
     'same'                 => ':attribute ile :other eşleşmelidir.',
     'size'                 => [
         'array'   => ':attribute mutlaka :size öğeye sahip olmalıdır.',

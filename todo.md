@@ -17160,59 +17160,16 @@ into your web browser: : not present
 ## pt_BR
 
 <details>
-<summary>show<small> (all missing: 199)</small></summary>
+<summary>show<small> (all missing: 156)</small></summary>
 
- * 30 Days : not present
- * 60 Days : not present
- * 90 Days : not present
  * :amount Total : not present
  * :resource Details : not present
  * :resource Details: :title : not present
- * Accept Invitation : not present
  * Action Happened At : not present
- * Action Initiated By : not present
- * Action Name : not present
- * Action Status : not present
  * Action Target : not present
- * Action : not present
- * Actions : not present
- * Add row : not present
  * All resources loaded. : not present
- * An error occured while uploading the file. : not present
  * Another user has updated this resource since this page was loaded. Please refresh the page and try again. : not present
- * April : not present
- * Are you sure you want to delete the selected resources? : not present
- * Are you sure you want to delete this file? : not present
- * Are you sure you want to delete this resource? : not present
- * Are you sure you want to detach the selected resources? : not present
- * Are you sure you want to detach this resource? : not present
- * Are you sure you want to force delete the selected resources? : not present
- * Are you sure you want to force delete this resource? : not present
- * Are you sure you want to restore the selected resources? : not present
- * Are you sure you want to restore this resource? : not present
- * Are you sure you want to run this action? : not present
- * Attach & Attach Another : not present
- * Attach :resource : not present
- * Attach : not present
- * August : not present
- * Cancel : not present
- * Card : not present
- * Changes : not present
- * Choose :field : not present
- * Choose :resource : not present
- * Choose an option : not present
- * Choose date : not present
- * Choose File : not present
- * Choose Type : not present
- * Choose : not present
- * Click to choose : not present
- * Confirm Payment : not present
- * Confirm your :amount payment : not present
- * Constant : not present
  * could not be found. : not present
- * Create & Add Another : not present
- * Create :resource : not present
- * Create Account : not present
  * Customize : not present
  * December : not present
  * Decrease : not present

@@ -11,6 +11,7 @@ return [
     |
     */
 
+    ':amount Total',
     'Action',
     'Actions',
     'Afghanistan',

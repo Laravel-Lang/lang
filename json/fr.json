@@ -2,6 +2,7 @@
     "30 Days": "30 jours",
     "60 Days": "60 jours",
     "90 Days": "90 jours",
+    ":amount Total": ":amount Total",
     ":resource Details": "Détails :resource",
     ":resource Details: :title": " Détails :resource :title :",
     "A fresh verification link has been sent to your email address.": "Un nouveau lien de vérification a été envoyé à votre adresse email.",

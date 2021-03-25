@@ -1,17 +1,6 @@
 <?php
 
 return [
-    /*
-    |--------------------------------------------------------------------------
-    | Validation Language Lines
-    |--------------------------------------------------------------------------
-    |
-    | The following language lines contain the default error messages used by
-    | the validator class. Some of these rules have multiple versions such
-    | as the size rules. Feel free to tweak each of these messages here.
-    |
-     */
-
     'accepted'             => ':attribute mesti diterima pakai.',
     'active_url'           => ':attribute bukan URL yang sah.',
     'after'                => ':attribute mesti tarikh selepas :date.',
@@ -20,13 +9,14 @@ return [
     'alpha_dash'           => ':attribute boleh mengandungi huruf, nombor, dan sengkang.',
     'alpha_num'            => ':attribute boleh mengandungi huruf dan nombor.',
     'array'                => ':attribute mesti jujukan.',
+    'attached'             => 'This :attribute is already attached.',
     'before'               => ':attribute mesti tarikh sebelum :date.',
     'before_or_equal'      => ':attribute mesti tarikh sebelum atau sama dengan :date.',
     'between'              => [
-        'numeric' => ':attribute mesti mengandungi antara :min dan :max.',
-        'file'    => ':attribute mesti mengandungi antara :min dan :max kilobait.',
-        'string'  => ':attribute mesti mengandungi antara :min dan :max aksara.',
         'array'   => ':attribute mesti mengandungi antara :min dan :max perkara.',
+        'file'    => ':attribute mesti mengandungi antara :min dan :max kilobait.',
+        'numeric' => ':attribute mesti mengandungi antara :min dan :max.',
+        'string'  => ':attribute mesti mengandungi antara :min dan :max aksara.',
     ],
     'boolean'              => ':attribute mesti benar atau salah.',
     'confirmed'            => ':attribute pengesahan yang tidak sepadan.',
@@ -34,9 +24,9 @@ return [
     'date_equals'          => ':attribute mesti tarikh sama dengan :date.',
     'date_format'          => ':attribute tidak mengikut format :format.',
     'different'            => ':attribute dan :other mesti berlainan.',
-    'dimensions'           => ':attribute tidak sah',
     'digits'               => ':attribute mesti :digits.',
     'digits_between'       => ':attribute mesti mengandungi antara :min dan :max digits.',
+    'dimensions'           => ':attribute tidak sah',
     'distinct'             => ':attribute adalah nilai yang berulang',
     'email'                => ':attribute tidak sah.',
     'ends_with'            => ':attribute mesti berakhir dengan salah satu dari: :values.',
@@ -44,16 +34,16 @@ return [
     'file'                 => ':attribute mesti fail yang sah.',
     'filled'               => ':attribute diperlukan.',
     'gt'                   => [
-        'numeric' => ':attribute mesti melebihi :value.',
-        'file'    => ':attribute mesti melebihi :value kilobait.',
-        'string'  => ':attribute mesti melebihi :value aksara.',
         'array'   => ':attribute mesti mengandungi lebih daripada :value perkara.',
+        'file'    => ':attribute mesti melebihi :value kilobait.',
+        'numeric' => ':attribute mesti melebihi :value.',
+        'string'  => ':attribute mesti melebihi :value aksara.',
     ],
     'gte'                  => [
-        'numeric' => ':attribute mesti melebihi atau bersamaan :value.',
-        'file'    => ':attribute mesti melebihi atau bersamaan :value kilobait.',
-        'string'  => ':attribute mesti melebihi atau bersamaan :value aksara.',
         'array'   => ':attribute mesti mengandungi :value perkara atau lebih.',
+        'file'    => ':attribute mesti melebihi atau bersamaan :value kilobait.',
+        'numeric' => ':attribute mesti melebihi atau bersamaan :value.',
+        'string'  => ':attribute mesti melebihi atau bersamaan :value aksara.',
     ],
     'image'                => ':attribute mesti imej.',
     'in'                   => ':attribute tidak sah.',
@@ -64,30 +54,30 @@ return [
     'ipv6'                 => ':attribute mesti alamat IPv6 yang sah',
     'json'                 => ':attribute mesti JSON yang sah.',
     'lt'                   => [
-        'numeric' => ':attribute mesti kurang daripada :value.',
-        'file'    => ':attribute mesti kurang daripada :value kilobait.',
-        'string'  => ':attribute mesti kurang daripada :value aksara.',
         'array'   => ':attribute mesti mengandungi kurang daripada :value perkara.',
+        'file'    => ':attribute mesti kurang daripada :value kilobait.',
+        'numeric' => ':attribute mesti kurang daripada :value.',
+        'string'  => ':attribute mesti kurang daripada :value aksara.',
     ],
     'lte'                  => [
-        'numeric' => ':attribute mesti kurang daripada atau bersamaan dengan :value.',
-        'file'    => ':attribute mesti kurang daripada atau bersamaan dengan :value kilobait.',
-        'string'  => ':attribute mesti kurang daripada atau bersamaan dengan :value aksara.',
         'array'   => ':attribute mesti mengandungi kurang daripada atau bersamaan dengan :value perkara.',
+        'file'    => ':attribute mesti kurang daripada atau bersamaan dengan :value kilobait.',
+        'numeric' => ':attribute mesti kurang daripada atau bersamaan dengan :value.',
+        'string'  => ':attribute mesti kurang daripada atau bersamaan dengan :value aksara.',
     ],
     'max'                  => [
-        'numeric' => 'Jumlah :attribute mesti tidak melebihi :max.',
-        'file'    => 'Jumlah :attribute mesti tidak melebihi :max kilobait.',
-        'string'  => 'Jumlah :attribute mesti tidak melebihi :max aksara.',
         'array'   => 'Jumlah :attribute mesti tidak melebihi :max perkara.',
+        'file'    => 'Jumlah :attribute mesti tidak melebihi :max kilobait.',
+        'numeric' => 'Jumlah :attribute mesti tidak melebihi :max.',
+        'string'  => 'Jumlah :attribute mesti tidak melebihi :max aksara.',
     ],
     'mimes'                => ':attribute mesti fail type: :values.',
     'mimetypes'            => ':attribute mesti fail type: :values.',
     'min'                  => [
-        'numeric' => 'Jumlah :attribute mesti sekurang-kurangnya :min.',
-        'file'    => 'Jumlah :attribute mesti sekurang-kurangnya :min kilobait.',
-        'string'  => 'Jumlah :attribute mesti sekurang-kurangnya :min aksara.',
         'array'   => 'Jumlah :attribute mesti sekurang-kurangnya :min perkara.',
+        'file'    => 'Jumlah :attribute mesti sekurang-kurangnya :min kilobait.',
+        'numeric' => 'Jumlah :attribute mesti sekurang-kurangnya :min.',
+        'string'  => 'Jumlah :attribute mesti sekurang-kurangnya :min aksara.',
     ],
     'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => ':attribute tidak sah.',
@@ -96,6 +86,7 @@ return [
     'password'             => 'Kata laluan tidak sah.',
     'present'              => ':attribute mesti wujud.',
     'regex'                => 'Format :attribute tidak sah.',
+    'relatable'            => 'This :attribute may not be associated with this resource.',
     'required'             => 'Ruangan :attribute diperlukan.',
     'required_if'          => 'Ruangan :attribute diperlukan bila :other sama dengan :value.',
     'required_unless'      => 'Ruangan :attribute diperlukan sekiranya :other ada dalam :values.',
@@ -105,10 +96,10 @@ return [
     'required_without_all' => 'Ruangan :attribute diperlukan bila kesemua :values wujud.',
     'same'                 => 'Ruangan :attribute dan :other mesti sepadan.',
     'size'                 => [
-        'numeric' => 'Saiz :attribute mesti :size.',
-        'file'    => 'Saiz :attribute mesti :size kilobait.',
-        'string'  => 'Saiz :attribute mesti :size aksara.',
         'array'   => 'Saiz :attribute mesti mengandungi :size perkara.',
+        'file'    => 'Saiz :attribute mesti :size kilobait.',
+        'numeric' => 'Saiz :attribute mesti :size.',
+        'string'  => 'Saiz :attribute mesti :size aksara.',
     ],
     'starts_with'          => ':attribute mesti bermula dengan salah satu dari: :values',
     'string'               => ':attribute mesti aksara.',
@@ -117,34 +108,10 @@ return [
     'uploaded'             => ':attribute gagal dimuat naik.',
     'url'                  => ':attribute format tidak sah.',
     'uuid'                 => ':attribute mesti UUID yang sah.',
-
-    /*
-    |--------------------------------------------------------------------------
-    | Custom Validation Language Lines
-    |--------------------------------------------------------------------------
-    |
-    | Here you may specify custom validation messages for attributes using the
-    | convention "attribute.rule" to name the lines. This makes it quick to
-    | specify a specific custom language line for a given attribute rule.
-    |
-     */
-
-    'custom' => [
+    'custom'               => [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
     ],
-
-    /*
-    |--------------------------------------------------------------------------
-    | Custom Validation Attributes
-    |--------------------------------------------------------------------------
-    |
-    | The following language lines are used to swap attribute place-holders
-    | with something more reader friendly such as E-Mail Address instead
-    | of "email". This simply helps us make messages a little cleaner.
-    |
-     */
-
-    'attributes' => [],
+    'attributes'           => [],
 ];

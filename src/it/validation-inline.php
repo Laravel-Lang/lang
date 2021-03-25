@@ -1,18 +1,6 @@
 <?php
 
 return [
-
-    /*
-    |--------------------------------------------------------------------------
-    | Validation Language Lines
-    |--------------------------------------------------------------------------
-    |
-    | The following language lines contain the default error messages used by
-    | the validator class. Some of these rules have multiple versions such
-    | as the size rules. Feel free to tweak each of these messages here.
-    |
-    */
-
     'accepted'             => 'Deve essere accettato.',
     'active_url'           => 'Non è un URL valido.',
     'after'                => 'Deve essere una data successiva al :date.',
@@ -21,13 +9,14 @@ return [
     'alpha_dash'           => 'Può contenere solo lettere, numeri e trattini.',
     'alpha_num'            => 'Può contenere solo lettere e numeri.',
     'array'                => 'Deve essere un array.',
+    'attached'             => 'This field is already attached.',
     'before'               => 'Deve essere una data precedente al :date.',
     'before_or_equal'      => 'Deve essere una data precedente o uguale al :date.',
     'between'              => [
-        'numeric' => 'Deve essere compreso tra :min e :max.',
-        'file'    => 'Deve essere compreso tra :min e :max kilobytes.',
-        'string'  => 'Deve essere compreso tra :min e :max caratteri.',
         'array'   => 'Deve contenere tra :min e :max elementi.',
+        'file'    => 'Deve essere compreso tra :min e :max kilobytes.',
+        'numeric' => 'Deve essere compreso tra :min e :max.',
+        'string'  => 'Deve essere compreso tra :min e :max caratteri.',
     ],
     'boolean'              => 'Deve essere vero o falso.',
     'confirmed'            => 'Il valore di conferma non corrisponde.',
@@ -45,18 +34,18 @@ return [
     'file'                 => 'Deve essere un file.',
     'filled'               => 'Deve contenere un valore.',
     'gt'                   => [
-        'numeric' => 'Deve essere maggiore di :value.',
-        'file'    => 'Deve essere maggiore di :value kilobytes.',
-        'string'  => 'Deve contenere più di :value caratteri.',
         'array'   => 'Deve contenere più di :value elementi.',
+        'file'    => 'Deve essere maggiore di :value kilobytes.',
+        'numeric' => 'Deve essere maggiore di :value.',
+        'string'  => 'Deve contenere più di :value caratteri.',
     ],
     'gte'                  => [
-        'numeric' => 'Deve essere uguale o maggiore a :value.',
-        'file'    => 'Deve essere maggiore o uguale a :value kilobytes.',
-        'string'  => 'Deve contenere almeno :value caratteri.',
         'array'   => 'Deve contenere almeno :value elementi.',
+        'file'    => 'Deve essere maggiore o uguale a :value kilobytes.',
+        'numeric' => 'Deve essere uguale o maggiore a :value.',
+        'string'  => 'Deve contenere almeno :value caratteri.',
     ],
-    'image'                => "Deve essere un'immagine.",
+    'image'                => 'Deve essere un\'immagine.',
     'in'                   => 'Valore non valido.',
     'in_array'             => 'Non esiste in :other.',
     'integer'              => 'Deve essere un numero intero.',
@@ -65,30 +54,30 @@ return [
     'ipv6'                 => 'Deve essere un indirizzo IPv6 valido.',
     'json'                 => 'Deve essere una stringa JSON valida.',
     'lt'                   => [
-        'numeric' => 'Deve essere inferiore a :value.',
-        'file'    => 'Deve essere inferiore a :value kilobytes.',
-        'string'  => 'Deve contenere meno di :value caratteri.',
         'array'   => 'Deve contenere meno di :value elementi.',
+        'file'    => 'Deve essere inferiore a :value kilobytes.',
+        'numeric' => 'Deve essere inferiore a :value.',
+        'string'  => 'Deve contenere meno di :value caratteri.',
     ],
     'lte'                  => [
-        'numeric' => 'Deve essere inferiore o uguale a :value.',
-        'file'    => 'Deve essere inferiore o uguale a :value kilobytes.',
-        'string'  => 'Deve contenere massimo :value caratteri.',
         'array'   => 'Deve contenere massimo :value elementi.',
+        'file'    => 'Deve essere inferiore o uguale a :value kilobytes.',
+        'numeric' => 'Deve essere inferiore o uguale a :value.',
+        'string'  => 'Deve contenere massimo :value caratteri.',
     ],
     'max'                  => [
-        'numeric' => 'Non può essere superiore a :max.',
-        'file'    => 'Non può essere superiore a :max kilobytes.',
-        'string'  => 'Non può contenere più di :max caratteri.',
         'array'   => 'Non può contenere più di :max elementi.',
+        'file'    => 'Non può essere superiore a :max kilobytes.',
+        'numeric' => 'Non può essere superiore a :max.',
+        'string'  => 'Non può contenere più di :max caratteri.',
     ],
     'mimes'                => 'Deve essere del tipo: :values.',
     'mimetypes'            => 'Deve essere del tipo: :values.',
     'min'                  => [
-        'numeric' => 'Deve essere minimo :min.',
-        'file'    => 'Deve essere minimo :min kilobytes.',
-        'string'  => 'Deve contenere minimo :min caratteri.',
         'array'   => 'Deve contenere minimo :min elementi.',
+        'file'    => 'Deve essere minimo :min kilobytes.',
+        'numeric' => 'Deve essere minimo :min.',
+        'string'  => 'Deve contenere minimo :min caratteri.',
     ],
     'multiple_of'          => 'Deve essere un multiplo di :value',
     'not_in'               => 'Valore non valido.',
@@ -97,6 +86,7 @@ return [
     'password'             => 'Password errata.',
     'present'              => 'Devi specificare un valore.',
     'regex'                => 'Formato non valido.',
+    'relatable'            => 'This field may not be associated with this resource.',
     'required'             => 'Obbligatorio.',
     'required_if'          => 'Obbligatorio quando :other è :value.',
     'required_unless'      => 'Obbligatorio a meno che :other sia :values.',
@@ -106,34 +96,22 @@ return [
     'required_without_all' => 'Obbligatorio quando nessuno di :values è presente.',
     'same'                 => 'Deve coincidere con :other.',
     'size'                 => [
-        'numeric' => 'Deve essere :size.',
-        'file'    => 'Deve essere :size kilobytes.',
-        'string'  => 'Deve essere :size caratteri.',
         'array'   => 'Deve contenere :size elementi.',
+        'file'    => 'Deve essere :size kilobytes.',
+        'numeric' => 'Deve essere :size.',
+        'string'  => 'Deve essere :size caratteri.',
     ],
     'starts_with'          => 'Deve iniziare con uno dei seguenti: :values.',
     'string'               => 'Deve essere una stringa.',
     'timezone'             => 'Deve essere una zona valida.',
-    'unique'               => "E' già in uso.",
+    'unique'               => 'E\' già in uso.',
     'uploaded'             => 'Deve essere caricato.',
     'url'                  => 'Formato non valido.',
     'uuid'                 => 'Deve essere un UUID valido.',
-
-    /*
-    |--------------------------------------------------------------------------
-    | Custom Validation Language Lines
-    |--------------------------------------------------------------------------
-    |
-    | Here you may specify custom validation messages for attributes using the
-    | convention "attribute.rule" to name the lines. This makes it quick to
-    | specify a specific custom language line for a given attribute rule.
-    |
-    */
-
-    'custom' => [
+    'custom'               => [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
     ],
-
+    'attributes'           => [],
 ];

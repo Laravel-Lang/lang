@@ -1,18 +1,6 @@
 <?php
 
 return [
-
-    /*
-    |--------------------------------------------------------------------------
-    | Validation Language Lines
-    |--------------------------------------------------------------------------
-    |
-    | The following language lines contain the default error messages used by
-    | the validator class. Some of these rules have multiple versions such
-    | as the size rules. Feel free to tweak each of these messages here.
-    |
-    */
-
     'accepted'             => 'Aqueste camp deu èsser acceptat.',
     'active_url'           => 'Aquò es pas una URL valida.',
     'after'                => 'La data deu èsser posteriora a :date.',
@@ -21,13 +9,14 @@ return [
     'alpha_dash'           => 'Lo camp a de conténer pas que de letras, nombres e de tirets.',
     'alpha_num'            => 'Lo camp a de conténer pas que de letras e nombres.',
     'array'                => 'Lo camp deu èsser un tablèu.',
+    'attached'             => 'This field is already attached.',
     'before'               => 'La deu èsser data anteriora a :date.',
     'before_or_equal'      => 'La deu èsser anteriora o egala a :date.',
     'between'              => [
-        'numeric' => 'La valor de :attribute deu èsser entre :min e :max.',
-        'file'    => 'La talha del fichièr deu èsser entre :min e :max kiloctets.',
-        'string'  => 'Lo tèxt deu conténer entre :min e :max caractèrs.',
         'array'   => 'Lo tablèu deu aver entre :min e :max elements.',
+        'file'    => 'La talha del fichièr deu èsser entre :min e :max kiloctets.',
+        'numeric' => 'La valor de :attribute deu èsser entre :min e :max.',
+        'string'  => 'Lo tèxt deu conténer entre :min e :max caractèrs.',
     ],
     'boolean'              => 'Aqueste camp deu èsser verai o fals.',
     'confirmed'            => 'Lo camp de confirmacion correspond pas.',
@@ -44,17 +33,17 @@ return [
     'exists'               => 'Aqueste camp seleccionat es invalid.',
     'file'                 => 'Aqueste camp deu èsser un fichièr.',
     'filled'               => 'Aqueste camp deu aver una valor.',
-     'gt'                   => [
-        'numeric' => 'La valor de deu èsser superiora a :value.',
-        'file'    => 'La talha del fichièr deu èsser superiora a :value kilo-octets.',
-        'string'  => 'Lo tèxt deu conténer mai de :value caractèrs.',
+    'gt'                   => [
         'array'   => 'Lo tablèu deu conténer mai de :value elements.',
+        'file'    => 'La talha del fichièr deu èsser superiora a :value kilo-octets.',
+        'numeric' => 'La valor de deu èsser superiora a :value.',
+        'string'  => 'Lo tèxt deu conténer mai de :value caractèrs.',
     ],
     'gte'                  => [
-        'numeric' => 'La valor deu èsser superiora o egala a :value.',
-        'file'    => 'La talha del fichièr deu èsser superiora o egala a :value kilo-octets.',
-        'string'  => 'Lo tèxt deu conténer almens :value caractèrs.',
         'array'   => 'Lo tablèu deu conténer almens :value elements.',
+        'file'    => 'La talha del fichièr deu èsser superiora o egala a :value kilo-octets.',
+        'numeric' => 'La valor deu èsser superiora o egala a :value.',
+        'string'  => 'Lo tèxt deu conténer almens :value caractèrs.',
     ],
     'image'                => 'Aqueste camp deu èsser un imatge.',
     'in'                   => 'Aqueste camp es invalid.',
@@ -65,30 +54,30 @@ return [
     'ipv6'                 => 'Aqueste camp deu èsser una adreça IPv6 valida.',
     'json'                 => 'Aqueste camp deu èsser una cadena JSON valida.',
     'lt'                   => [
-        'numeric' => 'La valor deu èsser inferiora a :value.',
-        'file'    => 'La talha del fichièr deu èsser inferiora a :value kilo-octets.',
-        'string'  => 'Lo tèxt deu conténer almens :value caractèrs.',
         'array'   => 'Lo tablèu deu conténer almens :value elements.',
+        'file'    => 'La talha del fichièr deu èsser inferiora a :value kilo-octets.',
+        'numeric' => 'La valor deu èsser inferiora a :value.',
+        'string'  => 'Lo tèxt deu conténer almens :value caractèrs.',
     ],
     'lte'                  => [
-        'numeric' => 'La valor deu èsser inferiora o egala a :value.',
-        'file'    => 'La talha del fichièr deu èsser inferiora o egala :value kilo-octets.',
-        'string'  => 'Lo tèxt deu conténer al pus mai :value caractèrs.',
         'array'   => 'Lo tablèu deu conténer al pus mai :value elements.',
+        'file'    => 'La talha del fichièr deu èsser inferiora o egala :value kilo-octets.',
+        'numeric' => 'La valor deu èsser inferiora o egala a :value.',
+        'string'  => 'Lo tèxt deu conténer al pus mai :value caractèrs.',
     ],
     'max'                  => [
-        'numeric' => 'La valor deu pas èsser superiora a :max.',
-        'file'    => 'La talha del fichièr deu pas èsser superior a :max kiloctets.',
-        'string'  => 'Lo tèxt deu èsser superior a :max caractèrs.',
         'array'   => 'Lo tablèu deu pas conténer mai de :max elements.',
+        'file'    => 'La talha del fichièr deu pas èsser superior a :max kiloctets.',
+        'numeric' => 'La valor deu pas èsser superiora a :max.',
+        'string'  => 'Lo tèxt deu èsser superior a :max caractèrs.',
     ],
     'mimes'                => 'Lo fichièr deu èsser del tipe : :values.',
     'mimetypes'            => 'Lo fichièr deu èsser del tipe :values.',
     'min'                  => [
-        'numeric' => 'La valor deu fa almens :min o mai.',
-        'file'    => 'La talha del fichièr deu fa almens :min kiloctets.',
-        'string'  => 'Lo tèxt deu fa almens :min caractèrs.',
         'array'   => 'Lo tablèu deu conténer almens :min elements.',
+        'file'    => 'La talha del fichièr deu fa almens :min kiloctets.',
+        'numeric' => 'La valor deu fa almens :min o mai.',
+        'string'  => 'Lo tèxt deu fa almens :min caractèrs.',
     ],
     'multiple_of'          => 'La valor deu èsser un multiple de :value',
     'not_in'               => 'Lo camp seleccionat es invalid.',
@@ -97,6 +86,7 @@ return [
     'password'             => 'Lo senhal es incorrèct',
     'present'              => 'Aqueste camp deu èsser present.',
     'regex'                => 'Lo format del camp es invalid.',
+    'relatable'            => 'This field may not be associated with this resource.',
     'required'             => 'Aqueste camp es obligatòri.',
     'required_if'          => 'Aqueste camp es obligatòri quand :other es :value.',
     'required_unless'      => 'Aqueste camp es obligatòri levat se :other es dins :values.',
@@ -106,10 +96,10 @@ return [
     'required_without_all' => 'Aqueste camp es obligatòri quand cap de :values son presents.',
     'same'                 => 'Aqueste camp es identic a :other.',
     'size'                 => [
-        'numeric' => 'La valor deu èsser :size.',
-        'file'    => 'La talha del fichièr deu èsser :size kiloctets.',
-        'string'  => 'Lo tèxt deu conténer :size caractèrs.',
         'array'   => 'Lo tablèu deu conténer :size elements.',
+        'file'    => 'La talha del fichièr deu èsser :size kiloctets.',
+        'numeric' => 'La valor deu èsser :size.',
+        'string'  => 'Lo tèxt deu conténer :size caractèrs.',
     ],
     'starts_with'          => 'Aqueste camp deu començar amb una de las valors seguentas : :values',
     'string'               => 'Aqueste camp deu èsser una cadena de tèxt.',
@@ -118,64 +108,10 @@ return [
     'uploaded'             => 'Lo fichièr a pas pogut s’enviar.',
     'url'                  => 'Lo format de l’URL es invalid.',
     'uuid'                 => 'Aqueste camp deu èsser un UUID valid',
-
-    /*
-    |--------------------------------------------------------------------------
-    | Custom Validation Language Lines
-    |--------------------------------------------------------------------------
-    |
-    | Here you may specify custom validation messages for attributes using the
-    | convention "attribute.rule" to name the lines. This makes it quick to
-    | specify a specific custom language line for a given attribute rule.
-    |
-    */
-
-    'custom' => [
+    'custom'               => [
         'attribute-name' => [
             'rule-name' => 'messatge-personalizat',
         ],
     ],
-
-    /*
-    |--------------------------------------------------------------------------
-    | Custom Validation Attributes
-    |--------------------------------------------------------------------------
-    |
-    | The following language lines are used to swap attribute place-holders
-    | with something more reader friendly such as E-Mail Address instead
-    | of "email". This simply helps us make messages a little cleaner.
-    |
-    */
-
-    'attributes' => [
-        'name'                  => 'nom',
-        'username'              => "nom d'utilizaire",
-        'email'                 => 'adreça electronica',
-        'first_name'            => 'prenom',
-        'last_name'             => 'nom',
-        'password'              => 'senhal',
-        'password_confirmation' => 'confirmacion del senhal',
-        'city'                  => 'vila',
-        'country'               => 'país',
-        'address'               => 'adreça',
-        'phone'                 => 'telefòn',
-        'mobile'                => 'mobil',
-        'age'                   => 'atge',
-        'sex'                   => 'sèxe',
-        'gender'                => 'genre',
-        'day'                   => 'jorn',
-        'month'                 => 'mes',
-        'year'                  => 'annada',
-        'hour'                  => 'ora',
-        'minute'                => 'minuta',
-        'second'                => 'segonda',
-        'title'                 => 'títol',
-        'content'               => 'contengut',
-        'description'           => 'descripcion',
-        'excerpt'               => 'extrach',
-        'date'                  => 'data',
-        'time'                  => 'ora',
-        'available'             => 'disponible',
-        'size'                  => 'talha',
-    ],
+    'attributes'           => [],
 ];

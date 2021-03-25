@@ -1,17 +1,6 @@
 <?php
 
 return [
-    /*
-    |--------------------------------------------------------------------------
-    | Validation Language Lines
-    |--------------------------------------------------------------------------
-    |
-    | The following language lines contain the default error messages used by
-    | the validator class. Some of these rules have multiple versions such
-    | as the size rules. Feel free to tweak each of these messages here.
-    |
-    */
-
     'accepted'             => 'Το πεδίο :attribute πρέπει να γίνει αποδεκτό.',
     'active_url'           => 'Το πεδίο :attribute δεν είναι αποδεκτή διεύθυνση URL.',
     'after'                => 'Το πεδίο :attribute πρέπει να είναι μία ημερομηνία μετά από :date.',
@@ -20,13 +9,14 @@ return [
     'alpha_dash'           => 'Το πεδίο :attribute μπορεί να περιέχει μόνο γράμματα, αριθμούς, και παύλες.',
     'alpha_num'            => 'Το πεδίο :attribute μπορεί να περιέχει μόνο γράμματα και αριθμούς.',
     'array'                => 'Το πεδίο :attribute πρέπει να είναι ένας πίνακας.',
+    'attached'             => 'This :attribute is already attached.',
     'before'               => 'Το πεδίο :attribute πρέπει να είναι μία ημερομηνία πριν από :date.',
     'before_or_equal'      => 'Το πεδίο :attribute πρέπει να είναι μία ημερομηνία ίδια ή πριν από :date.',
     'between'              => [
-        'numeric' => 'Το πεδίο :attribute πρέπει να είναι μεταξύ :min - :max.',
-        'file'    => 'Το πεδίο :attribute πρέπει να είναι μεταξύ :min - :max kilobytes.',
-        'string'  => 'Το πεδίο :attribute πρέπει να είναι μεταξύ :min - :max χαρακτήρες.',
         'array'   => 'Το πεδίο :attribute πρέπει να έχει μεταξύ :min - :max αντικείμενα.',
+        'file'    => 'Το πεδίο :attribute πρέπει να είναι μεταξύ :min - :max kilobytes.',
+        'numeric' => 'Το πεδίο :attribute πρέπει να είναι μεταξύ :min - :max.',
+        'string'  => 'Το πεδίο :attribute πρέπει να είναι μεταξύ :min - :max χαρακτήρες.',
     ],
     'boolean'              => 'Το πεδίο :attribute πρέπει να είναι true ή false.',
     'confirmed'            => 'Η επιβεβαίωση του :attribute δεν ταιριάζει.',
@@ -44,16 +34,16 @@ return [
     'file'                 => 'Το πεδίο :attribute πρέπει να είναι αρχείο.',
     'filled'               => 'To πεδίο :attribute είναι απαραίτητο.',
     'gt'                   => [
-        'numeric' => 'To πεδίο :attribute πρέπει να είναι μεγαλύτερο από :value.',
-        'file'    => 'To πεδίο :attribute πρέπει να είναι μεγαλύτερο από :value kilobytes.',
-        'string'  => 'To πεδίο :attribute πρέπει να είναι μεγαλύτερο από :value χαρακτήρες.',
         'array'   => 'To πεδίο :attribute πρέπει να έχει περισσότερα από :value αντικείμενα.',
+        'file'    => 'To πεδίο :attribute πρέπει να είναι μεγαλύτερο από :value kilobytes.',
+        'numeric' => 'To πεδίο :attribute πρέπει να είναι μεγαλύτερο από :value.',
+        'string'  => 'To πεδίο :attribute πρέπει να είναι μεγαλύτερο από :value χαρακτήρες.',
     ],
     'gte'                  => [
-        'numeric' => 'To πεδίο :attribute πρέπει να είναι μεγαλύτερο ή ίσο από :value.',
-        'file'    => 'To πεδίο :attribute πρέπει να είναι μεγαλύτερο ή ίσο από :value kilobytes.',
-        'string'  => 'To πεδίο :attribute πρέπει να είναι μεγαλύτερο ή ίσο από :value χαρακτήρες.',
         'array'   => 'To πεδίο :attribute πρέπει να έχει :value αντικείμενα ή περισσότερα.',
+        'file'    => 'To πεδίο :attribute πρέπει να είναι μεγαλύτερο ή ίσο από :value kilobytes.',
+        'numeric' => 'To πεδίο :attribute πρέπει να είναι μεγαλύτερο ή ίσο από :value.',
+        'string'  => 'To πεδίο :attribute πρέπει να είναι μεγαλύτερο ή ίσο από :value χαρακτήρες.',
     ],
     'image'                => 'Το πεδίο :attribute πρέπει να είναι εικόνα.',
     'in'                   => 'Το επιλεγμένο :attribute δεν είναι έγκυρο.',
@@ -64,30 +54,30 @@ return [
     'ipv6'                 => 'Το πεδίο :attribute πρέπει να είναι μία έγκυρη διεύθυνση IPv6.',
     'json'                 => 'Το πεδίο :attribute πρέπει να είναι μία έγκυρη συμβολοσειρά JSON.',
     'lt'                   => [
-        'numeric' => 'To πεδίο :attribute πρέπει να είναι μικρότερo από :value.',
-        'file'    => 'To πεδίο :attribute πρέπει να είναι μικρότερo από :value kilobytes.',
-        'string'  => 'To πεδίο :attribute πρέπει να είναι μικρότερo από :value χαρακτήρες.',
         'array'   => 'To πεδίο :attribute πρέπει να έχει λιγότερα από :value αντικείμενα.',
+        'file'    => 'To πεδίο :attribute πρέπει να είναι μικρότερo από :value kilobytes.',
+        'numeric' => 'To πεδίο :attribute πρέπει να είναι μικρότερo από :value.',
+        'string'  => 'To πεδίο :attribute πρέπει να είναι μικρότερo από :value χαρακτήρες.',
     ],
     'lte'                  => [
-        'numeric' => 'To πεδίο :attribute πρέπει να είναι μικρότερo ή ίσο από :value.',
-        'file'    => 'To πεδίο :attribute πρέπει να είναι μικρότερo ή ίσο από  :value kilobytes.',
-        'string'  => 'To πεδίο :attribute πρέπει να είναι μικρότερo ή ίσο από  :value χαρακτήρες.',
         'array'   => 'To πεδίο :attribute δεν πρέπει να υπερβαίνει τα :value αντικείμενα.',
+        'file'    => 'To πεδίο :attribute πρέπει να είναι μικρότερo ή ίσο από  :value kilobytes.',
+        'numeric' => 'To πεδίο :attribute πρέπει να είναι μικρότερo ή ίσο από :value.',
+        'string'  => 'To πεδίο :attribute πρέπει να είναι μικρότερo ή ίσο από  :value χαρακτήρες.',
     ],
     'max'                  => [
-        'numeric' => 'Το πεδίο :attribute δεν μπορεί να είναι μεγαλύτερο από :max.',
-        'file'    => 'Το πεδίο :attribute δεν μπορεί να είναι μεγαλύτερό :max kilobytes.',
-        'string'  => 'Το πεδίο :attribute δεν μπορεί να έχει περισσότερους από :max χαρακτήρες.',
         'array'   => 'Το πεδίο :attribute δεν μπορεί να έχει περισσότερα από :max αντικείμενα.',
+        'file'    => 'Το πεδίο :attribute δεν μπορεί να είναι μεγαλύτερό :max kilobytes.',
+        'numeric' => 'Το πεδίο :attribute δεν μπορεί να είναι μεγαλύτερο από :max.',
+        'string'  => 'Το πεδίο :attribute δεν μπορεί να έχει περισσότερους από :max χαρακτήρες.',
     ],
     'mimes'                => 'Το πεδίο :attribute πρέπει να είναι αρχείο τύπου: :values.',
     'mimetypes'            => 'Το πεδίο :attribute πρέπει να είναι αρχείο τύπου: :values.',
     'min'                  => [
-        'numeric' => 'Το πεδίο :attribute πρέπει να είναι τουλάχιστον :min.',
-        'file'    => 'Το πεδίο :attribute πρέπει να είναι τουλάχιστον :min kilobytes.',
-        'string'  => 'Το πεδίο :attribute πρέπει να έχει τουλάχιστον :min χαρακτήρες.',
         'array'   => 'Το πεδίο :attribute πρέπει να έχει τουλάχιστον :min αντικείμενα.',
+        'file'    => 'Το πεδίο :attribute πρέπει να είναι τουλάχιστον :min kilobytes.',
+        'numeric' => 'Το πεδίο :attribute πρέπει να είναι τουλάχιστον :min.',
+        'string'  => 'Το πεδίο :attribute πρέπει να έχει τουλάχιστον :min χαρακτήρες.',
     ],
     'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => 'Το επιλεγμένο :attribute δεν είναι αποδεκτό.',
@@ -96,6 +86,7 @@ return [
     'password'             => 'Ο κωδικός είναι λανθασμένος.',
     'present'              => 'Το πεδίο :attribute πρέπει να υπάρχει.',
     'regex'                => 'Η μορφή του πεδίου :attribute δεν είναι αποδεκτή.',
+    'relatable'            => 'This :attribute may not be associated with this resource.',
     'required'             => 'Το πεδίο :attribute είναι απαραίτητο.',
     'required_if'          => 'Το πεδίο :attribute είναι απαραίτητο όταν το πεδίο :other είναι :value.',
     'required_unless'      => 'Το πεδίο :attribute είναι απαραίτητο εκτός αν το πεδίο :other εμπεριέχει :values.',
@@ -105,79 +96,55 @@ return [
     'required_without_all' => 'Το πεδίο :attribute είναι απαραίτητο όταν δεν υπάρχει κανένα από :values.',
     'same'                 => 'Τα πεδία :attribute και :other πρέπει να είναι ίδια.',
     'size'                 => [
-        'numeric' => 'Το πεδίο :attribute πρέπει να είναι :size.',
-        'file'    => 'Το πεδίο :attribute πρέπει να είναι :size kilobytes.',
-        'string'  => 'Το πεδίο :attribute πρέπει να είναι :size χαρακτήρες.',
         'array'   => 'Το πεδίο :attribute πρέπει να περιέχει :size αντικείμενα.',
+        'file'    => 'Το πεδίο :attribute πρέπει να είναι :size kilobytes.',
+        'numeric' => 'Το πεδίο :attribute πρέπει να είναι :size.',
+        'string'  => 'Το πεδίο :attribute πρέπει να είναι :size χαρακτήρες.',
     ],
-    'starts_with'          => '"Το στοιχείο :attribute πρέπει να ξεκινά με ένα από τα παρακάτω: :values',
+    'starts_with'          => 'Το στοιχείο :attribute πρέπει να ξεκινά με ένα από τα παρακάτω: :values',
     'string'               => 'Το πεδίο :attribute πρέπει να είναι αλφαριθμητικό.',
     'timezone'             => 'Το πεδίο :attribute πρέπει να είναι μία έγκυρη ζώνη ώρας.',
     'unique'               => 'Το πεδίο :attribute έχει ήδη εκχωρηθεί.',
     'uploaded'             => 'Η μεταφόρτωση του πεδίου :attribute απέτυχε.',
     'url'                  => 'Το πεδίο :attribute δεν είναι έγκυρη διεύθυνση URL.',
     'uuid'                 => 'Το πεδίο :attribute πρέπει να είναι έγκυρο UUID.',
-
-    /*
-    |--------------------------------------------------------------------------
-    | Custom Validation Language Lines
-    |--------------------------------------------------------------------------
-    |
-    | Here you may specify custom validation messages for attributes using the
-    | convention "attribute.rule" to name the lines. This makes it quick to
-    | specify a specific custom language line for a given attribute rule.
-    |
-    */
-
-    'custom' => [
+    'custom'               => [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
     ],
-
-    /*
-    |--------------------------------------------------------------------------
-    | Custom Validation Attributes
-    |--------------------------------------------------------------------------
-    |
-    | The following language lines are used to swap attribute place-holders
-    | with something more reader friendly such as E-Mail Address instead
-    | of "email". This simply helps us make messages a little cleaner.
-    |
-    */
-
-    'attributes' => [
-        'name'                     => 'Όνομα',
-        'username'                 => 'Όνομα χρήστη',
+    'attributes'           => [
+        'address'                  => 'Διεύθυνση',
+        'age'                      => 'Ηλικία',
+        'available'                => 'Διαθέσιμος',
+        'city'                     => 'Πόλη',
+        'content'                  => 'Περιεχόμενο',
+        'country'                  => 'Χώρα',
+        'date'                     => 'Ημερομηνία',
+        'day'                      => 'Ημέρα',
+        'description'              => 'Περιγραφή',
         'email'                    => 'E-mail',
+        'excerpt'                  => 'Απόσπασμα',
         'first_name'               => 'Όνομα',
+        'gender'                   => 'Γένος',
+        'hour'                     => 'Ωρα',
         'last_name'                => 'Επίθετο',
+        'message'                  => 'Μήνυμα',
+        'minute'                   => 'Λεπτό',
+        'mobile'                   => 'Κινητό τηλέφωνο',
+        'month'                    => 'Μήνας',
+        'name'                     => 'Όνομα',
         'password'                 => 'Συνθηματικό',
         'password_confirmation'    => 'Επιβεβαίωση συνθηματικού',
-        'city'                     => 'Πόλη',
-        'country'                  => 'Χώρα',
-        'address'                  => 'Διεύθυνση',
         'phone'                    => 'Τηλέφωνο',
-        'mobile'                   => 'Κινητό τηλέφωνο',
-        'age'                      => 'Ηλικία',
-        'sex'                      => 'Φύλο',
-        'gender'                   => 'Γένος',
-        'day'                      => 'Ημέρα',
-        'month'                    => 'Μήνας',
-        'year'                     => 'Ετος',
-        'hour'                     => 'Ωρα',
-        'minute'                   => 'Λεπτό',
-        'second'                   => 'Δευτερόλεπτο',
-        'title'                    => 'Τίτλος',
-        'content'                  => 'Περιεχόμενο',
-        'description'              => 'Περιγραφή',
-        'excerpt'                  => 'Απόσπασμα',
-        'date'                     => 'Ημερομηνία',
-        'time'                     => 'Χρόνος',
-        'available'                => 'Διαθέσιμος',
-        'size'                     => 'Μέγεθος',
         'recaptcha_response_field' => 'Η επαλήθευση recaptcha ',
+        'second'                   => 'Δευτερόλεπτο',
+        'sex'                      => 'Φύλο',
+        'size'                     => 'Μέγεθος',
         'subject'                  => 'Θέμα',
-        'message'                  => 'Μήνυμα',
+        'time'                     => 'Χρόνος',
+        'title'                    => 'Τίτλος',
+        'username'                 => 'Όνομα χρήστη',
+        'year'                     => 'Ετος',
     ],
 ];

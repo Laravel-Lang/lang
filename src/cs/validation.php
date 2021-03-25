@@ -1,17 +1,6 @@
 <?php
 
 return [
-    /*
-    |--------------------------------------------------------------------------
-    | Validation Language Lines
-    |--------------------------------------------------------------------------
-    |
-    | The following language lines contain the default error messages used by
-    | the validator class. Some of these rules have multiple versions such
-    | as the size rules. Feel free to tweak each of these messages.
-    |
-    */
-
     'accepted'             => ':attribute musí být přijat.',
     'active_url'           => ':attribute není platnou URL adresou.',
     'after'                => ':attribute musí být datum po :date.',
@@ -20,13 +9,14 @@ return [
     'alpha_dash'           => ':attribute může obsahovat pouze písmena, číslice, pomlčky a podtržítka. České znaky (á, é, í, ó, ú, ů, ž, š, č, ř, ď, ť, ň) nejsou podporovány.',
     'alpha_num'            => ':attribute může obsahovat pouze písmena a číslice.',
     'array'                => ':attribute musí být pole.',
+    'attached'             => 'This :attribute is already attached.',
     'before'               => ':attribute musí být datum před :date.',
     'before_or_equal'      => 'Datum :attribute musí být před nebo rovno :date.',
     'between'              => [
-        'numeric' => ':attribute musí být hodnota mezi :min a :max.',
-        'file'    => ':attribute musí být větší než :min a menší než :max Kilobytů.',
-        'string'  => ':attribute musí být delší než :min a kratší než :max znaků.',
         'array'   => ':attribute musí obsahovat nejméně :min a nesmí obsahovat více než :max prvků.',
+        'file'    => ':attribute musí být větší než :min a menší než :max Kilobytů.',
+        'numeric' => ':attribute musí být hodnota mezi :min a :max.',
+        'string'  => ':attribute musí být delší než :min a kratší než :max znaků.',
     ],
     'boolean'              => ':attribute musí být true nebo false',
     'confirmed'            => ':attribute nesouhlasí.',
@@ -44,16 +34,16 @@ return [
     'file'                 => ':attribute musí být soubor.',
     'filled'               => ':attribute musí být vyplněno.',
     'gt'                   => [
-        'numeric' => ':attribute musí být větší než :value.',
-        'file'    => 'Velikost souboru :attribute musí být větší než :value kB.',
-        'string'  => 'Počet znaků :attribute musí být větší :value.',
         'array'   => 'Pole :attribute musí mít více prvků než :value.',
+        'file'    => 'Velikost souboru :attribute musí být větší než :value kB.',
+        'numeric' => ':attribute musí být větší než :value.',
+        'string'  => 'Počet znaků :attribute musí být větší :value.',
     ],
     'gte'                  => [
-        'numeric' => ':attribute musí být větší nebo rovno :value.',
-        'file'    => 'Velikost souboru :attribute musí být větší nebo rovno :value kB.',
-        'string'  => 'Počet znaků :attribute musí být větší nebo rovno :value.',
         'array'   => 'Pole :attribute musí mít :value prvků nebo více.',
+        'file'    => 'Velikost souboru :attribute musí být větší nebo rovno :value kB.',
+        'numeric' => ':attribute musí být větší nebo rovno :value.',
+        'string'  => 'Počet znaků :attribute musí být větší nebo rovno :value.',
     ],
     'image'                => ':attribute musí být obrázek.',
     'in'                   => 'Zvolená hodnota pro :attribute je neplatná.',
@@ -64,30 +54,30 @@ return [
     'ipv6'                 => ':attribute musí být platná IPv6 adresa.',
     'json'                 => ':attribute musí být platný JSON řetězec.',
     'lt'                   => [
-        'numeric' => ':attribute musí být menší než :value.',
-        'file'    => 'Velikost souboru :attribute musí být menší než :value kB.',
-        'string'  => ':attribute musí obsahovat méně než :value znaků.',
         'array'   => ':attribute by měl obsahovat méně než :value položek.',
+        'file'    => 'Velikost souboru :attribute musí být menší než :value kB.',
+        'numeric' => ':attribute musí být menší než :value.',
+        'string'  => ':attribute musí obsahovat méně než :value znaků.',
     ],
     'lte'                  => [
-        'numeric' => ':attribute musí být menší nebo rovno než :value.',
-        'file'    => 'Velikost souboru :attribute musí být menší než :value kB.',
-        'string'  => ':attribute nesmí být delší než :value znaků.',
         'array'   => ':attribute by měl obsahovat maximálně :value položek.',
+        'file'    => 'Velikost souboru :attribute musí být menší než :value kB.',
+        'numeric' => ':attribute musí být menší nebo rovno než :value.',
+        'string'  => ':attribute nesmí být delší než :value znaků.',
     ],
     'max'                  => [
-        'numeric' => ':attribute nemůže být větší než :max.',
-        'file'    => 'Velikost souboru :attribute musí být menší než :value kB.',
-        'string'  => ':attribute nemůže být delší než :max znaků.',
         'array'   => ':attribute nemůže obsahovat více než :max prvků.',
+        'file'    => 'Velikost souboru :attribute musí být menší než :value kB.',
+        'numeric' => ':attribute nemůže být větší než :max.',
+        'string'  => ':attribute nemůže být delší než :max znaků.',
     ],
     'mimes'                => ':attribute musí být jeden z následujících datových typů :values.',
     'mimetypes'            => ':attribute musí být jeden z následujících datových typů :values.',
     'min'                  => [
-        'numeric' => ':attribute musí být větší než :min.',
-        'file'    => ':attribute musí být větší než :min kB.',
-        'string'  => ':attribute musí být delší než :min znaků.',
         'array'   => ':attribute musí obsahovat více než :min prvků.',
+        'file'    => ':attribute musí být větší než :min kB.',
+        'numeric' => ':attribute musí být větší než :min.',
+        'string'  => ':attribute musí být delší než :min znaků.',
     ],
     'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => 'Zvolená hodnota pro :attribute je neplatná.',
@@ -96,6 +86,7 @@ return [
     'password'             => 'The password is incorrect.',
     'present'              => ':attribute musí být vyplněno.',
     'regex'                => ':attribute nemá správný formát.',
+    'relatable'            => 'This :attribute may not be associated with this resource.',
     'required'             => ':attribute musí být vyplněno.',
     'required_if'          => ':attribute musí být vyplněno pokud :other je :value.',
     'required_unless'      => ':attribute musí být vyplněno dokud :other je v :values.',
@@ -105,10 +96,10 @@ return [
     'required_without_all' => ':attribute musí být vyplněno pokud není žádné z :values zvoleno.',
     'same'                 => ':attribute a :other se musí shodovat.',
     'size'                 => [
-        'numeric' => ':attribute musí být přesně :size.',
-        'file'    => ':attribute musí mít přesně :size Kilobytů.',
-        'string'  => ':attribute musí být přesně :size znaků dlouhý.',
         'array'   => ':attribute musí obsahovat právě :size prvků.',
+        'file'    => ':attribute musí mít přesně :size Kilobytů.',
+        'numeric' => ':attribute musí být přesně :size.',
+        'string'  => ':attribute musí být přesně :size znaků dlouhý.',
     ],
     'starts_with'          => ':attribute musí začínat jednou z následujících hodnot: :values',
     'string'               => ':attribute musí být řetězec znaků.',
@@ -117,36 +108,12 @@ return [
     'uploaded'             => 'Nahrávání :attribute se nezdařilo.',
     'url'                  => 'Formát :attribute je neplatný.',
     'uuid'                 => ':attribute musí být validní UUID.',
-
-    /*
-    |--------------------------------------------------------------------------
-    | Custom Validation Language Lines
-    |--------------------------------------------------------------------------
-    |
-    | Here you may specify custom validation messages for attributes using the
-    | convention "attribute.rule" to name the lines. This makes it quick to
-    | specify a specific custom language line for a given attribute rule.
-    |
-    */
-
-    'custom' => [
+    'custom'               => [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
     ],
-
-    /*
-    |--------------------------------------------------------------------------
-    | Custom Validation Attributes
-    |--------------------------------------------------------------------------
-    |
-    | The following language lines are used to swap attribute place-holders
-    | with something more reader friendly such as E-Mail Address instead
-    | of "email". This simply helps us make messages a little cleaner.
-    |
-    */
-
-    'attributes' => [
+    'attributes'           => [
         'password' => 'heslo',
     ],
 ];

@@ -1,18 +1,6 @@
 <?php
 
 return [
-
-    /*
-    |--------------------------------------------------------------------------
-    | Baris Bahasa untuk Validasi
-    |--------------------------------------------------------------------------
-    |
-    | Baris bahasa berikut ini berisi stdanar pesan kesalahan yang digunakan oleh
-    | kelas validasi. Beberapa aturan mempunyai banyak versi seperti aturan 'size'.
-    | Jangan ragu untuk mengoptimalkan setiap pesan yang ada di sini.
-    |
-    */
-
     'accepted'             => 'Bidang ini harus diterima.',
     'active_url'           => 'URL ini tidak sah.',
     'after'                => 'Tanggal harus berisi setelah :date.',
@@ -21,13 +9,14 @@ return [
     'alpha_dash'           => 'Bidang ini hanya boleh berisi huruf, angka, strip, dan garis bawah.',
     'alpha_num'            => 'Bidang ini hanya boleh berisi huruf dan angka.',
     'array'                => 'Bidang harus berisi sebuah array.',
+    'attached'             => 'This field is already attached.',
     'before'               => 'Tanggal harus berisi sebelum :date.',
     'before_or_equal'      => 'Tanggal harus berisi tanggal sebelum atau sama dengan :date.',
     'between'              => [
-        'numeric' => 'Nilai ini harus bernilai di antara :min dan :max.',
-        'file'    => 'Berkas ini harus berukuran di antara :min dan :max kilobyte.',
-        'string'  => 'String ini harus memiliki panjang di antara :min dan :max karakter.',
         'array'   => 'Konten ini harus memiliki panjang di antara :min dan :max item.',
+        'file'    => 'Berkas ini harus berukuran di antara :min dan :max kilobyte.',
+        'numeric' => 'Nilai ini harus bernilai di antara :min dan :max.',
+        'string'  => 'String ini harus memiliki panjang di antara :min dan :max karakter.',
     ],
     'boolean'              => 'Bidang ini harus berisi true atau false.',
     'confirmed'            => 'Konfirmasi tidak sesuai.',
@@ -45,16 +34,16 @@ return [
     'file'                 => 'Konten harus berisi sebuah berkas.',
     'filled'               => 'Bidang ini harus berisi sebuah nilai.',
     'gt'                   => [
-        'numeric' => 'Nilai harus lebih besar dari :value.',
-        'file'    => 'Ukuran berkas harus berisi lebih besar dari :value kilobyte.',
-        'string'  => 'String harus berisi lebih besar dari :value karakter.',
         'array'   => 'Konten harus memiliki lebih dari :value item.',
+        'file'    => 'Ukuran berkas harus berisi lebih besar dari :value kilobyte.',
+        'numeric' => 'Nilai harus lebih besar dari :value.',
+        'string'  => 'String harus berisi lebih besar dari :value karakter.',
     ],
     'gte'                  => [
-        'numeric' => 'Nilai harus berisi lebih besar dari atau setara :value.',
-        'file'    => 'Ukuran konten harus berisi lebih besar dari atau setara :value kilobyte.',
-        'string'  => 'String harus berisi lebih besar dari atau setara :value karakter.',
         'array'   => 'Konten harus memiliki :value item atau lebih.',
+        'file'    => 'Ukuran konten harus berisi lebih besar dari atau setara :value kilobyte.',
+        'numeric' => 'Nilai harus berisi lebih besar dari atau setara :value.',
+        'string'  => 'String harus berisi lebih besar dari atau setara :value karakter.',
     ],
     'image'                => 'Ini harus berisi sebuah gambar.',
     'in'                   => 'Pilihan nilai tidak sesuai.',
@@ -65,30 +54,30 @@ return [
     'ipv6'                 => 'Ini harus berisi alamat IPv6 yang valid.',
     'json'                 => 'Ini harus berisi string JSON yang valid.',
     'lt'                   => [
-        'numeric' => 'Nilai harus berisi kurang dari :value.',
-        'file'    => 'Ukuran konten harus berisi kurang dari :value kilobyte.',
-        'string'  => 'String harus berisi kurang dari :value karakter.',
         'array'   => 'Panjang array harus kurang dari :value item.',
+        'file'    => 'Ukuran konten harus berisi kurang dari :value kilobyte.',
+        'numeric' => 'Nilai harus berisi kurang dari :value.',
+        'string'  => 'String harus berisi kurang dari :value karakter.',
     ],
     'lte'                  => [
-        'numeric' => 'Nilai harus berisi kurang dari atau setara :value.',
-        'file'    => 'Ukuran konten harus berisi kurang dari atau setara :value kilobyte.',
-        'string'  => 'String harus berisi kurang dari atau setara :value karakter.',
         'array'   => 'Panjang array harus lebih dari :value item.',
+        'file'    => 'Ukuran konten harus berisi kurang dari atau setara :value kilobyte.',
+        'numeric' => 'Nilai harus berisi kurang dari atau setara :value.',
+        'string'  => 'String harus berisi kurang dari atau setara :value karakter.',
     ],
     'max'                  => [
-        'numeric' => 'Nilai tidak boleh lebih besar dari :max.',
-        'file'    => 'Ukuran konten tidak boleh lebih besar dari :max kilobyte.',
-        'string'  => 'String tidak boleh lebih besar dari :max karakter.',
         'array'   => 'Panjang array tidak boleh lebih dari :max item.',
+        'file'    => 'Ukuran konten tidak boleh lebih besar dari :max kilobyte.',
+        'numeric' => 'Nilai tidak boleh lebih besar dari :max.',
+        'string'  => 'String tidak boleh lebih besar dari :max karakter.',
     ],
     'mimes'                => 'Ini harus berisi sebuah berkas berjenis: :values.',
     'mimetypes'            => 'Ini harus berisi sebuah berkas berjenis: :values.',
     'min'                  => [
-        'numeric' => 'Nilai harus berisi minimal :min.',
-        'file'    => 'Ukuran konten harus berisi minimal :min kilobyte.',
-        'string'  => 'String harus berisi minimal :min karakter.',
         'array'   => 'Panjang array harus minimal :min item.',
+        'file'    => 'Ukuran konten harus berisi minimal :min kilobyte.',
+        'numeric' => 'Nilai harus berisi minimal :min.',
+        'string'  => 'String harus berisi minimal :min karakter.',
     ],
     'multiple_of'          => 'The value must be a multiple of :value',
     'not_in'               => 'Pilihan nilai tidak sesuai.',
@@ -97,6 +86,7 @@ return [
     'password'             => 'Kata sandi tidak sesuai',
     'present'              => 'Bidang ini wajib ada.',
     'regex'                => 'Format ini tidak sesuai.',
+    'relatable'            => 'This field may not be associated with this resource.',
     'required'             => 'Bidang ini wajib di isi',
     'required_if'          => 'Bidang ini wajib di isi bila :other adalah :value.',
     'required_unless'      => 'Bidang ini wajib di isi jika :other berada dalam :values.',
@@ -106,10 +96,10 @@ return [
     'required_without_all' => 'Bidang ini wajib di isi bila tidak satupun :values tersedia.',
     'same'                 => 'Nilai dari bidang ini harus sesuai dengan :other.',
     'size'                 => [
-        'numeric' => 'Nilai harus berisi :size.',
-        'file'    => 'Ukuran konten harus berisi :size kilobyte.',
-        'string'  => 'String harus berisi :size karakter.',
         'array'   => 'Panjang array harus memiliki :size item.',
+        'file'    => 'Ukuran konten harus berisi :size kilobyte.',
+        'numeric' => 'Nilai harus berisi :size.',
+        'string'  => 'String harus berisi :size karakter.',
     ],
     'starts_with'          => 'Ini harus diawali salah satu dari berikut: :values.',
     'string'               => 'Ini harus berisi sebuah string.',
@@ -118,22 +108,10 @@ return [
     'uploaded'             => 'Berkas gagal diunggah.',
     'url'                  => 'Format ini tidak valid.',
     'uuid'                 => 'Ini harus merupakan UUID yang valid.',
-
-    /*
-    |---------------------------------------------------------------------------------------
-    | Baris Bahasa untuk Validasi Kustom
-    |---------------------------------------------------------------------------------------
-    |
-    | Di sini Anda dapat menentukan pesan validasi untuk atribut sesuai keinginan dengan
-    | menggunakan konvensi "attribute.rule" dalam penamaan barisnya. Hal ini mempercepat
-    | dalam menentukan baris bahasa kustom yang spesifik untuk aturan atribut yang diberikan.
-    |
-    */
-
-    'custom' => [
+    'custom'               => [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
     ],
-
+    'attributes'           => [],
 ];

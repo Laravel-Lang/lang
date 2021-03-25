@@ -1,17 +1,6 @@
 <?php
 
 return [
-    /*
-    |--------------------------------------------------------------------------
-    | Validation Language Lines
-    |--------------------------------------------------------------------------
-    |
-    | The following language lines contain the default error messages used by
-    | the validator class. Some of these rules have multiple versions such
-    | as the size rules. Feel free to tweak each of these messages.
-    |
-    */
-
     'accepted'             => 'שדה :attribute חייב להיות מסומן.',
     'active_url'           => 'שדה :attribute הוא לא כתובת אתר תקנית.',
     'after'                => 'שדה :attribute חייב להיות תאריך אחרי :date.',
@@ -20,13 +9,14 @@ return [
     'alpha_dash'           => 'שדה :attribute יכול להכיל אותיות, מספרים ומקפים בלבד.',
     'alpha_num'            => 'שדה :attribute יכול להכיל אותיות ומספרים בלבד.',
     'array'                => 'שדה :attribute חייב להיות מערך.',
+    'attached'             => 'This :attribute is already attached.',
     'before'               => 'שדה :attribute חייב להיות תאריך לפני :date.',
     'before_or_equal'      => 'שדה :attribute חייב להיות תאריך מוקדם או שווה ל :date.',
     'between'              => [
-        'numeric' => 'שדה :attribute חייב להיות בין :min ל-:max.',
-        'file'    => 'שדה :attribute חייב להיות בין :min ל-:max קילובייטים.',
-        'string'  => 'שדה :attribute חייב להיות בין :min ל-:max תווים.',
         'array'   => 'שדה :attribute חייב להיות בין :min ל-:max פריטים.',
+        'file'    => 'שדה :attribute חייב להיות בין :min ל-:max קילובייטים.',
+        'numeric' => 'שדה :attribute חייב להיות בין :min ל-:max.',
+        'string'  => 'שדה :attribute חייב להיות בין :min ל-:max תווים.',
     ],
     'boolean'              => 'שדה :attribute חייב להיות אמת או שקר.',
     'confirmed'            => 'שדה האישור של :attribute לא תואם.',
@@ -44,16 +34,16 @@ return [
     'file'                 => 'שדה :attribute חייב להיות קובץ.',
     'filled'               => 'שדה :attribute הוא חובה.',
     'gt'                   => [
-        'numeric' => 'על ה :attribute להיות גדול יותר מ- :value.',
-        'file'    => 'על ה :attribute להיות גדול יותר מ- :value קילו-בתים.',
-        'string'  => 'על ה :attribute להיות גדול יותר מ- :value תווים.',
         'array'   => 'על ה :attribute לכלול יותר מ- :value פריטים.',
+        'file'    => 'על ה :attribute להיות גדול יותר מ- :value קילו-בתים.',
+        'numeric' => 'על ה :attribute להיות גדול יותר מ- :value.',
+        'string'  => 'על ה :attribute להיות גדול יותר מ- :value תווים.',
     ],
     'gte'                  => [
-        'numeric' => 'על ה :attribute להיות גדול יותר או שווה ל- :value.',
-        'file'    => 'על ה :attribute להיות גדול יותר או שווה ל- :value קילו-בתים.',
-        'string'  => 'על ה :attribute להיות גדול יותר או שווה ל- :value תווים.',
         'array'   => 'ה :attribute חייב לכלול :value פריטים או יותר.',
+        'file'    => 'על ה :attribute להיות גדול יותר או שווה ל- :value קילו-בתים.',
+        'numeric' => 'על ה :attribute להיות גדול יותר או שווה ל- :value.',
+        'string'  => 'על ה :attribute להיות גדול יותר או שווה ל- :value תווים.',
     ],
     'image'                => 'שדה :attribute חייב להיות תמונה.',
     'in'                   => 'בחירת ה-:attribute אינה תקפה.',
@@ -64,30 +54,30 @@ return [
     'ipv6'                 => 'שדה :attribute חייב להיות כתובת IPv6 תקנית.',
     'json'                 => 'שדה :attribute חייב להיות מחרוזת JSON תקנית.',
     'lt'                   => [
-        'numeric' => 'על ה :attribute להיות נמוך יותר מ- :value.',
-        'file'    => 'על ה :attribute להיות קטן יותר מ- :value קילו-בתים.',
-        'string'  => 'על ה :attribute להכיל פחות מ- :value תווים.',
         'array'   => 'על ה :attribute לכלול פחות מ- :value פריטים.',
+        'file'    => 'על ה :attribute להיות קטן יותר מ- :value קילו-בתים.',
+        'numeric' => 'על ה :attribute להיות נמוך יותר מ- :value.',
+        'string'  => 'על ה :attribute להכיל פחות מ- :value תווים.',
     ],
     'lte'                  => [
-        'numeric' => 'על ה :attribute להיות נמוך או שווה ל- :value.',
-        'file'    => 'על ה :attribute להיות קטן יותר או שווה ל- :value קילו-בתים.',
-        'string'  => 'על ה :attribute להכיל :value תווים או פחות.',
         'array'   => 'ה :attribute לא יכול לכלול יותר מאשר :value פריטים.',
+        'file'    => 'על ה :attribute להיות קטן יותר או שווה ל- :value קילו-בתים.',
+        'numeric' => 'על ה :attribute להיות נמוך או שווה ל- :value.',
+        'string'  => 'על ה :attribute להכיל :value תווים או פחות.',
     ],
     'max'                  => [
-        'numeric' => 'שדה :attribute אינו יכול להיות גדול מ-:max.',
-        'file'    => 'שדה :attribute לא יכול להיות גדול מ-:max קילובייטים.',
-        'string'  => 'שדה :attribute לא יכול להיות גדול מ-:max characters.',
         'array'   => 'שדה :attribute לא יכול להכיל יותר מ-:max פריטים.',
+        'file'    => 'שדה :attribute לא יכול להיות גדול מ-:max קילובייטים.',
+        'numeric' => 'שדה :attribute אינו יכול להיות גדול מ-:max.',
+        'string'  => 'שדה :attribute לא יכול להיות גדול מ-:max characters.',
     ],
     'mimes'                => 'שדה :attribute צריך להיות קובץ מסוג: :values.',
     'mimetypes'            => 'שדה :attribute צריך להיות קובץ מסוג: :values.',
     'min'                  => [
-        'numeric' => 'שדה :attribute חייב להיות לפחות :min.',
-        'file'    => 'שדה :attribute חייב להיות לפחות :min קילובייטים.',
-        'string'  => 'שדה :attribute חייב להיות לפחות :min תווים.',
         'array'   => 'שדה :attribute חייב להיות לפחות :min פריטים.',
+        'file'    => 'שדה :attribute חייב להיות לפחות :min קילובייטים.',
+        'numeric' => 'שדה :attribute חייב להיות לפחות :min.',
+        'string'  => 'שדה :attribute חייב להיות לפחות :min תווים.',
     ],
     'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => 'בחירת ה-:attribute אינה תקפה.',
@@ -96,6 +86,7 @@ return [
     'password'             => 'The password is incorrect.',
     'present'              => 'שדה :attribute חייב להיות קיים.',
     'regex'                => 'שדה :attribute בעל פורמט שאינו תקין.',
+    'relatable'            => 'This :attribute may not be associated with this resource.',
     'required'             => 'שדה :attribute הוא חובה.',
     'required_if'          => 'שדה :attribute נחוץ כאשר :other הוא :value.',
     'required_unless'      => 'שדה :attribute נחוץ אלא אם כן :other הוא בין :values.',
@@ -105,10 +96,10 @@ return [
     'required_without_all' => 'שדה :attribute נחוץ כאשר אף אחד מ-:values נמצאים.',
     'same'                 => 'שדה :attribute ו-:other חייבים להיות זהים.',
     'size'                 => [
-        'numeric' => 'שדה :attribute חייב להיות :size.',
-        'file'    => 'שדה :attribute חייב להיות :size קילובייטים.',
-        'string'  => 'שדה :attribute חייב להיות :size תווים.',
         'array'   => 'שדה :attribute חייב להכיל :size פריטים.',
+        'file'    => 'שדה :attribute חייב להיות :size קילובייטים.',
+        'numeric' => 'שדה :attribute חייב להיות :size.',
+        'string'  => 'שדה :attribute חייב להיות :size תווים.',
     ],
     'starts_with'          => 'ה :attribute חייב להתחיל עם אחד מהבאים: :values',
     'string'               => 'שדה :attribute חייב להיות מחרוזת.',
@@ -117,35 +108,10 @@ return [
     'uploaded'             => 'שדה :attribute ארעה שגיאה בעת ההעלאה.',
     'url'                  => 'שדה :attribute בעל פורמט שאינו תקין.',
     'uuid'                 => 'ה :attribute חייב להיות מזהה ייחודי אוניברסלי (UUID) חוקי.',
-
-    /*
-    |--------------------------------------------------------------------------
-    | Custom Validation Language Lines
-    |--------------------------------------------------------------------------
-    |
-    | Here you may specify custom validation messages for attributes using the
-    | convention "attribute.rule" to name the lines. This makes it quick to
-    | specify a specific custom language line for a given attribute rule.
-    |
-    */
-
-    'custom' => [
+    'custom'               => [
         'attribute-name' => [
             'rule-name' => 'הודעה מותאמת',
         ],
     ],
-
-    /*
-    |--------------------------------------------------------------------------
-    | Custom Validation Attributes
-    |--------------------------------------------------------------------------
-    |
-    | The following language lines are used to swap attribute place-holders
-    | with something more reader friendly such as E-Mail Address instead
-    | of "email". This simply helps us make messages a little cleaner.
-    |
-    */
-
-    'attributes' => [
-    ],
+    'attributes'           => [],
 ];

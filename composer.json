@@ -6,9 +6,13 @@
     "authors": [
         {
             "name": "Laravel-Lang Team",
-            "url": "https://github.com/Laravel-Lang"
+            "homepage": "https://github.com/Laravel-Lang"
         }
     ],
+    "support": {
+        "issues": "https://github.com/Laravel-Lang/lang/issues",
+        "source": "https://github.com/Laravel-Lang/lang"
+    },
     "suggest": {
         "overtrue/laravel-lang": "Command to add languages in your project",
         "arcanedev/laravel-lang": "Translations manager and checker for Laravel 5",
@@ -16,5 +20,22 @@
     },
     "require": {
         "ext-json": "*"
-    }
+    },
+    "require-dev": {
+        "php": "^7.4|^8.0",
+        "andrey-helldar/support": "^3.0",
+        "andrey-helldar/pretty-array": "^2.0",
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests"
+        }
+    },
+    "config": {
+        "preferred-install": "dist",
+        "sort-packages": true
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
 }

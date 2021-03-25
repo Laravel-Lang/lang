@@ -1,17 +1,6 @@
 <?php
 
 return [
-    /*
-    |--------------------------------------------------------------------------
-    | Validation Language Lines
-    |--------------------------------------------------------------------------
-    |
-    | The following language lines contain the default error messages used by
-    | the validator class. Some of these rules have multiple versions such
-    | as the size rules. Feel free to tweak each of these messages.
-    |
-    */
-
     'accepted'             => ':attribute må aksepterast.',
     'active_url'           => ':attribute er ikkje ein gyldig URL.',
     'after'                => ':attribute må vere ein dato etter :date.',
@@ -20,13 +9,14 @@ return [
     'alpha_dash'           => ':attribute må berre vere av bokstavar, tal og bindestrekar.',
     'alpha_num'            => ':attribute må berre vere av bokstavar og tal.',
     'array'                => ':attribute må vere ei matrise.',
+    'attached'             => 'This :attribute is already attached.',
     'before'               => ':attribute må vere ein dato før :date.',
     'before_or_equal'      => ':attribute må vere ein dato før eller lik :date.',
     'between'              => [
-        'numeric' => ':attribute skal vere mellom :min - :max.',
-        'file'    => ':attribute skal vere mellom :min - :max kilobytes.',
-        'string'  => ':attribute skal vere mellom :min - :max teikn.',
         'array'   => ':attribute må ha mellom :min - :max element.',
+        'file'    => ':attribute skal vere mellom :min - :max kilobytes.',
+        'numeric' => ':attribute skal vere mellom :min - :max.',
+        'string'  => ':attribute skal vere mellom :min - :max teikn.',
     ],
     'boolean'              => ':attribute må vere sann eller usann.',
     'confirmed'            => ':attribute er ikkje likt feltet for stadfesting.',
@@ -44,16 +34,16 @@ return [
     'file'                 => ':attribute må vere ei fil.',
     'filled'               => ':attribute må fyllast ut.',
     'gt'                   => [
-        'numeric' => ':attribute må vere større enn :value.',
-        'file'    => ':attribute må vere større enn :value kilobyte.',
-        'string'  => ':attribute må vere lengre enn :value teikn.',
         'array'   => ':attribute må vere minst :value element.',
+        'file'    => ':attribute må vere større enn :value kilobyte.',
+        'numeric' => ':attribute må vere større enn :value.',
+        'string'  => ':attribute må vere lengre enn :value teikn.',
     ],
     'gte'                  => [
-        'numeric' => ':attribute må vere større enn eller lik :value.',
-        'file'    => ':attribute må vere større enn eller lik :value kilobyte.',
-        'string'  => ':attribute må vere lengre enn eller lik :value teikn.',
         'array'   => ':attribute må ha :value element eller meir.',
+        'file'    => ':attribute må vere større enn eller lik :value kilobyte.',
+        'numeric' => ':attribute må vere større enn eller lik :value.',
+        'string'  => ':attribute må vere lengre enn eller lik :value teikn.',
     ],
     'image'                => ':attribute skal vere eit bilete.',
     'in'                   => 'Det valde :attribute er ugyldig.',
@@ -64,30 +54,30 @@ return [
     'ipv6'                 => ':attribute skal vere ei gyldig IPv6-adresse.',
     'json'                 => ':attribute må vere på JSON-format.',
     'lt'                   => [
-        'numeric' => ':attribute må vere mindre enn :value.',
-        'file'    => ':attribute må vere mindre enn :value kilobyte.',
-        'string'  => ':attribute må vere kortare enn :value teikn.',
         'array'   => ':attribute må ha færre enn :value element.',
+        'file'    => ':attribute må vere mindre enn :value kilobyte.',
+        'numeric' => ':attribute må vere mindre enn :value.',
+        'string'  => ':attribute må vere kortare enn :value teikn.',
     ],
     'lte'                  => [
-        'numeric' => ':attribute må vere mindre enn eller lik :value.',
-        'file'    => ':attribute må vere mindre enn eller lik :value kilobyte.',
-        'string'  => ':attribute må vere kortare enn eller lik :value teikn.',
         'array'   => ':attribute må ikkje ha fleire enn :value element.',
+        'file'    => ':attribute må vere mindre enn eller lik :value kilobyte.',
+        'numeric' => ':attribute må vere mindre enn eller lik :value.',
+        'string'  => ':attribute må vere kortare enn eller lik :value teikn.',
     ],
     'max'                  => [
-        'numeric' => ':attribute skal vere mindre enn :max.',
-        'file'    => ':attribute skal vere mindre enn :max kilobytes.',
-        'string'  => ':attribute skal vere kortare enn :max teikn.',
         'array'   => ':attribute skal ikkje ha fleire enn :max element.',
+        'file'    => ':attribute skal vere mindre enn :max kilobytes.',
+        'numeric' => ':attribute skal vere mindre enn :max.',
+        'string'  => ':attribute skal vere kortare enn :max teikn.',
     ],
     'mimes'                => ':attribute skal vere ei fil av typen: :values.',
     'mimetypes'            => ':attribute skal vere ei fil av typen: :values.',
     'min'                  => [
-        'numeric' => ':attribute skal vere større enn :min.',
-        'file'    => ':attribute skal vere større enn :min kilobyte.',
-        'string'  => ':attribute skal vere lengre enn :min teikn.',
         'array'   => ':attribute må vere minst :min element.',
+        'file'    => ':attribute skal vere større enn :min kilobyte.',
+        'numeric' => ':attribute skal vere større enn :min.',
+        'string'  => ':attribute skal vere lengre enn :min teikn.',
     ],
     'multiple_of'          => 'The :attribute must be a multiple of :value',
     'not_in'               => 'Den valgte :attribute er ugyldig.',
@@ -96,6 +86,7 @@ return [
     'password'             => 'The password is incorrect.',
     'present'              => ':attribute må vere til stades.',
     'regex'                => 'Formatet på :attribute er ugyldig.',
+    'relatable'            => 'This :attribute may not be associated with this resource.',
     'required'             => ':attribute må fyllast ut.',
     'required_if'          => ':attribute må fyllast ut når :other er :value.',
     'required_unless'      => ':attribute må vere til stades viss ikkje :other finnas hjå verdiene :values.',
@@ -105,10 +96,10 @@ return [
     'required_without_all' => ':attribute må vere til stades når inga av :values er oppgjeve.',
     'same'                 => ':attribute og :other må vere like.',
     'size'                 => [
-        'numeric' => ':attribute må vere :size.',
-        'file'    => ':attribute må vere :size kilobytes.',
-        'string'  => ':attribute må vere :size teikn lang.',
         'array'   => ':attribute må innehalde :size element.',
+        'file'    => ':attribute må vere :size kilobytes.',
+        'numeric' => ':attribute må vere :size.',
+        'string'  => ':attribute må vere :size teikn lang.',
     ],
     'starts_with'          => ':attribute må starte med ein av følgande: :values',
     'string'               => ':attribute må vere ein tekststreng.',
@@ -117,35 +108,10 @@ return [
     'uploaded'             => ':attribute kunne ikkje lastast opp.',
     'url'                  => 'Formatet på :attribute er ugyldig.',
     'uuid'                 => ':attribute må vere ein gyldig UUID.',
-
-    /*
-    |--------------------------------------------------------------------------
-    | Custom Validation Language Lines
-    |--------------------------------------------------------------------------
-    |
-    | Here you may specify custom validation messages for attributes using the
-    | convention "attribute.rule" to name the lines. This makes it quick to
-    | specify a specific custom language line for a given attribute rule.
-    |
-    */
-
-    'custom' => [
+    'custom'               => [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
     ],
-
-    /*
-    |--------------------------------------------------------------------------
-    | Custom Validation Attributes
-    |--------------------------------------------------------------------------
-    |
-    | The following language lines are used to swap attribute place-holders
-    | with something more reader friendly such as E-Mail Address instead
-    | of "email". This simply helps us make messages a little cleaner.
-    |
-    */
-
-    'attributes' => [
-    ],
+    'attributes'           => [],
 ];

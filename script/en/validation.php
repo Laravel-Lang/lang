@@ -107,7 +107,7 @@ return [
     'required_without_all' => 'The :attribute field is required when none of :values are present.',
     'prohibited'           => 'The :attribute field is prohibited.',
     'prohibited_if'        => 'The :attribute field is prohibited when :other is :value.',
-    'prohibited_unless'.   => 'The :attribute field is prohibited unless :other is in :values.',
+    'prohibited_unless'    => 'The :attribute field is prohibited unless :other is in :values.',
     'same'                 => 'The :attribute and :other must match.',
     'size'                 => [
         'numeric' => 'The :attribute must be :size.',

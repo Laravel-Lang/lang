@@ -94,6 +94,9 @@ return [
     'required_with_all'    => 'This field is required when :values are present.',
     'required_without'     => 'This field is required when :values is not present.',
     'required_without_all' => 'This field is required when none of :values are present.',
+    'prohibited'           => 'Bu alan kısıtlanmıştır.',
+    'prohibited_if'        => ':other alanının değeri :value olduğunda bu alana veri girişi yapılamaz.',
+    'prohibited_unless'    => ':other alanı :value değerlerinin dışında olduğunda bu alana veri girişi yapılamaz.',
     'same'                 => 'The value of this field must match the one from :other.',
     'size'                 => [
         'array'   => 'The content must contain :size items.',

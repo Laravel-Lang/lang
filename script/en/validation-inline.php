@@ -107,6 +107,9 @@ return [
     'required_without'     => 'This field is required when :values is not present.',
     'required_without_all' => 'This field is required when none of :values are present.',
     'same'                 => 'The value of this field must match the one from :other.',
+    'prohibited'           => 'This field is prohibited.',
+    'prohibited_if'        => 'This field is prohibited when :other is :value.',
+    'prohibited_unless'    => 'This field is prohibited unless :other is in :values.',
     'size'                 => [
         'numeric' => 'The value must be :size.',
         'file'    => 'The file size must be :size kilobytes.',

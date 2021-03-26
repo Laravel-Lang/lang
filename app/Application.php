@@ -3,11 +3,14 @@
 namespace LaravelLang\Lang;
 
 use Helldar\Support\Concerns\Makeable;
+use LaravelLang\Lang\Contracts\Filesystem;
 use LaravelLang\Lang\Contracts\Processable;
 
-class Application
+final class Application
 {
     use Makeable;
+
+    protected Filesystem $filesystem;
 
     public function __construct(
         protected string $base_path
@@ -33,11 +36,6 @@ class Application
         return $this->basePath();
     }
 
-    public function processor(Processable $processor): void
-    {
-        $processor->application($this)->run();
-    }
-
     public function cleanPath(string $path = null): ?string
     {
         if (! empty($path)) {
@@ -45,5 +43,24 @@ class Application
         }
 
         return null;
+    }
+
+    public function filesystem(Filesystem $filesystem): self
+    {
+        $this->filesystem = $filesystem->application($this);
+
+        return $this;
+    }
+
+    public function getFilesystem(): Filesystem
+    {
+        return $this->filesystem;
+    }
+
+    public function processor(Processable $processor, Filesystem $filesystem): void
+    {
+        $this->filesystem($filesystem);
+
+        $processor->application($this)->run();
     }
 }

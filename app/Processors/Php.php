@@ -2,13 +2,12 @@
 
 namespace LaravelLang\Lang\Processors;
 
-use Helldar\PrettyArray\Services\File as Pretty;
 use Helldar\Support\Facades\Helpers\Filesystem\Directory;
 use Helldar\Support\Facades\Helpers\Filesystem\File;
 
 final class Php extends Processor
 {
-    protected $target_path = 'src';
+    protected string $target_path = 'src';
 
     public function run(): void
     {
@@ -29,10 +28,5 @@ final class Php extends Processor
     protected function locales(): array
     {
         return Directory::names($this->getTargetPath());
-    }
-
-    protected function load(string $path): array
-    {
-        return Pretty::make()->load($path);
     }
 }

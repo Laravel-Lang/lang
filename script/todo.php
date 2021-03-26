@@ -1,38 +1,17 @@
 <?php
 
+use LaravelLang\Lang\Processors\Todo;
+use LaravelLang\Lang\Services\Filesystem\Markdown;
+
+require __DIR__ . '/../vendor/autoload.php';
+
+/** @var \LaravelLang\Lang\Application $app */
+$app = require_once __DIR__ . '/../bootstrap/app.php';
+
+$app->processor(Todo::make(), Markdown::make());
+
 class Storage
 {
-    public function directories(string $path): DirectoryIterator
-    {
-        return new DirectoryIterator(
-            $this->realpath($path)
-        );
-    }
-
-    public function getDecodedJson(string $filename)
-    {
-        return file_exists($filename)
-            ? json_decode(file_get_contents($filename), true)
-            : null;
-    }
-
-    public function load(string $path): array
-    {
-        $include = $this->realpath($path);
-
-        return file_exists($include) ? include $include : [];
-    }
-
-    public function store(string $path, string $content): void
-    {
-        file_put_contents($path, $content);
-    }
-
-    public function realpath(string $path): string
-    {
-        return realpath($path);
-    }
-
     public function isExclusionList(string $language, $key): bool
     {
         if (is_string($key)) {

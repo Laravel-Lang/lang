@@ -2,8 +2,6 @@
 
 namespace LaravelLang\Lang\Processors;
 
-use Helldar\PrettyArray\Services\File as Pretty;
-use Helldar\PrettyArray\Services\Formatter;
 use Helldar\Support\Concerns\Makeable;
 use Helldar\Support\Facades\Helpers\Arr;
 use Helldar\Support\Facades\Helpers\Str;
@@ -14,18 +12,15 @@ abstract class Processor implements Processable
 {
     use Makeable;
 
-    /** @var \LaravelLang\Lang\Application */
-    protected $application;
+    protected Application $app;
 
-    protected $source = [];
+    protected array $source = [];
 
-    protected $target_path;
+    protected string $target_path;
 
-    abstract protected function load(string $path): array;
-
-    function application(Application $app): Processable
+    public function application(Application $app): Processable
     {
-        $this->application = $app;
+        $this->app = $app;
 
         return $this;
     }
@@ -76,16 +71,16 @@ abstract class Processor implements Processable
 
     protected function getTargetPath(string $path = null): string
     {
-        if ($path = $this->application->cleanPath($path)) {
+        if ($path = $this->app->cleanPath($path)) {
             $path = '/' . $path;
         }
 
-        return $this->application->path($this->target_path . $path);
+        return $this->app->path($this->target_path . $path);
     }
 
     protected function getSourcePath(string $filename = null): string
     {
-        return $this->application->sourcePath($filename);
+        return $this->app->sourcePath($filename);
     }
 
     protected function isValidation(string $filename): bool
@@ -98,28 +93,13 @@ abstract class Processor implements Processable
         $array = Arr::ksort($array);
     }
 
-    protected function isJson(string $filename): bool
+    protected function load(string $path): array
     {
-        return Str::endsWith($filename, 'json');
+        return $this->app->getFilesystem()->load($path);
     }
 
     protected function store(string $path, array $content): void
     {
-        $this->isJson($path)
-            ? $this->storeJson($path, $content)
-            : $this->storePhp($path, $content);
-    }
-
-    protected function storeJson(string $path, array $content): void
-    {
-        Arr::storeAsJson($path, $content, false, JSON_UNESCAPED_UNICODE ^ JSON_PRETTY_PRINT);
-    }
-
-    protected function storePhp(string $path, array $content): void
-    {
-        $service = Formatter::make();
-        $service->setEqualsAlign();
-
-        Pretty::make($service->raw($content))->store($path);
+        $this->app->getFilesystem()->store($path, $content);
     }
 }

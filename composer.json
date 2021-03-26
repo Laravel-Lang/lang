@@ -22,13 +22,14 @@
         "ext-json": "*"
     },
     "require-dev": {
-        "php": "^7.4|^8.0",
+        "php": "^8.0",
         "andrey-helldar/support": "^3.0",
-        "andrey-helldar/pretty-array": "^2.0",
+        "andrey-helldar/pretty-array": "^2.1",
         "phpunit/phpunit": "^9.5"
     },
     "autoload-dev": {
         "psr-4": {
+            "LaravelLang\\Lang\\": "app",
             "Tests\\": "tests"
         }
     },

@@ -9,7 +9,7 @@ return [
     'alpha_dash'           => 'يجب أن لا يحتوي :attribute سوى على حروف، أرقام ومطّات.',
     'alpha_num'            => 'يجب أن يحتوي :attribute على حروفٍ وأرقامٍ فقط.',
     'array'                => 'يجب أن يكون :attribute ًمصفوفة.',
-    'attached'             => 'This :attribute is already attached.',
+    'attached'             => ':attribute تم إرفاقه بالفعل.',
     'before'               => 'يجب على :attribute أن يكون تاريخًا سابقًا للتاريخ :date.',
     'before_or_equal'      => ':attribute يجب أن يكون تاريخا سابقا أو مطابقا للتاريخ :date.',
     'between'              => [
@@ -86,7 +86,7 @@ return [
     'password'             => 'كلمة المرور غير صحيحة.',
     'present'              => 'يجب تقديم :attribute.',
     'regex'                => 'صيغة :attribute .غير صحيحة.',
-    'relatable'            => 'This :attribute may not be associated with this resource.',
+    'relatable'            => ':attribute قد لا يكون مرتبطا بالمصدر المحدد.',
     'required'             => ':attribute مطلوب.',
     'required_if'          => ':attribute مطلوب في حال ما إذا كان :other يساوي :value.',
     'required_unless'      => ':attribute مطلوب في حال ما لم يكن :other يساوي :values.',

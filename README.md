@@ -75,5 +75,5 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Credits
 
-- [Referents by language](referents.md)
+- [Referents by language](REFERENTS.md)
 - [All Contributors](https://github.com/Laravel-Lang/lang/graphs/contributors)

@@ -16797,7 +16797,7 @@ into your web browser: : not present
 ## pt
 
 <details>
-<summary>show<small> (all missing: 204)</small></summary>
+<summary>show<small> (all missing: 203)</small></summary>
 
  * 30 Days : not present
  * 60 Days : not present
@@ -16990,7 +16990,6 @@ into your web browser: : not present
  * Year To Date : not present
  * Yes : not present
  * You have been invited to join the :team team! : not present
- * password : not present
  * attached : not present
  * multiple_of : not present
  * relatable : not present
@@ -17010,7 +17009,7 @@ into your web browser: : not present
 ## pt_BR
 
 <details>
-<summary>show<small> (all missing: 162)</small></summary>
+<summary>show<small> (all missing: 161)</small></summary>
 
  * :amount Total : not present
  * :resource Details : not present
@@ -17161,7 +17160,6 @@ into your web browser: : not present
  * Year To Date : not present
  * Yes : not present
  * You have been invited to join the :team team! : not present
- * password : not present
  * attached : not present
  * multiple_of : not present
  * relatable : not present

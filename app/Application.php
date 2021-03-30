@@ -47,7 +47,7 @@ final class Application
 
     public function filesystem(Filesystem $filesystem): self
     {
-        $this->filesystem = $filesystem->application($this);
+        $this->filesystem = $filesystem->application($this)->prepare();
 
         return $this;
     }

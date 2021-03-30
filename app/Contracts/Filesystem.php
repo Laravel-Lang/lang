@@ -11,4 +11,6 @@ interface Filesystem
     public function load(string $path): array;
 
     public function store(string $path, array $content): void;
+
+    public function prepare(): self;
 }

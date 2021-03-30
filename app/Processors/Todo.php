@@ -16,7 +16,7 @@ class Todo extends Processor
     protected array $translations = [];
 
     /** @var \LaravelLang\Lang\Contracts\Filesystem[]|array */
-    protected $filesystems = [];
+    protected array $filesystems = [];
 
     public function __construct()
     {
@@ -62,9 +62,7 @@ class Todo extends Processor
 
     protected function getFilesystem(string $filename): Filesystem
     {
-        $type = $this->isJson($filename)
-            ? JsonFilesystem::class
-            : PhpFilesystem::class;
+        $type = $this->isJson($filename) ? JsonFilesystem::class : PhpFilesystem::class;
 
         return $this->filesystems[$type];
     }

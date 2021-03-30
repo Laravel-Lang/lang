@@ -18,4 +18,14 @@ abstract class Base implements Filesystem
 
         return $this;
     }
+
+    public function prepare(): Filesystem
+    {
+        return $this;
+    }
+
+    public function load(string $path): array
+    {
+        return [];
+    }
 }

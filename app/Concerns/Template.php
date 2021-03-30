@@ -51,9 +51,9 @@ trait Template
         return $this->getTemplate(Resource::TODO);
     }
 
-    protected function templateLanguages(): string
+    protected function templateLocales(): string
     {
-        return $this->getTemplate(Resource::LANGUAGE);
+        return $this->getTemplate(Resource::LOCALE);
     }
 
     protected function templateList(): string

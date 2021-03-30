@@ -4,15 +4,15 @@ namespace LaravelLang\Lang\Processors\Todo;
 
 use Helldar\Support\Facades\Helpers\Filesystem\Directory;
 
-final class Languages extends Processor
+final class Locales extends Processor
 {
     protected function saving(): void
     {
-        foreach ($this->languages as $locale => $items) {
+        foreach ($this->locales as $locale => $items) {
             $count   = $this->countMissing($locale);
             $content = $this->compileList($items);
 
-            $result = $this->replace($this->templateLanguages(), compact('locale', 'count', 'content'));
+            $result = $this->replace($this->templateLocales(), compact('locale', 'count', 'content'));
 
             $this->save('todo/' . $locale . '.md', $result);
         }

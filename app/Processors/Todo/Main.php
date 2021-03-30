@@ -27,7 +27,7 @@ class Main extends Processor
     {
         $locales = [];
 
-        foreach (array_keys($this->languages) as $locale) {
+        foreach (array_keys($this->locales) as $locale) {
             $missing = $this->countMissing($locale);
 
             $locales[] = Locale::make($locale, $missing);

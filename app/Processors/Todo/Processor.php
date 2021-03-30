@@ -29,7 +29,7 @@ abstract class Processor extends BaseProcessor
 
     protected array $source_files = [];
 
-    protected array $languages = [];
+    protected array $locales = [];
 
     abstract protected function saving(): void;
 
@@ -63,9 +63,9 @@ abstract class Processor extends BaseProcessor
         if ($diff = $this->compare($source, $target, $locale, $is_validation)) {
             $key = $this->getFileBasename($corrected);
 
-            $this->languages[$locale][$key] = $diff;
+            $this->locales[$locale][$key] = $diff;
         } else {
-            $this->languages[$locale] = [];
+            $this->locales[$locale] = [];
         }
     }
 
@@ -95,7 +95,7 @@ abstract class Processor extends BaseProcessor
     {
         $items = array_map(static function (array $items) {
             return count($items);
-        }, $this->languages[$locale]);
+        }, $this->locales[$locale]);
 
         return array_sum($items);
     }

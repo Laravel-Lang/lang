@@ -3,19 +3,21 @@
 namespace Tests;
 
 use Helldar\Support\Facades\Helpers\Filesystem\Directory;
+use Helldar\Support\Facades\Helpers\Str;
 
 final class TodoTest extends TestCase
 {
     protected $target_path = __DIR__ . '/../src';
 
-    protected $todo = __DIR__ . '/../todo.md';
+    protected $todo = __DIR__ . '/../TODO.md';
 
     public function testSee(): void
     {
         foreach ($this->locales() as $locale) {
-            $text = '## ' . $locale;
+            $slug = Str::slug($locale);
 
-            $this->assertSee($this->todo, $text);
+            $this->assertSee($this->todo, "{$locale}&nbsp;");
+            $this->assertSee($this->todo, "(todo/{$slug}.md)");
         }
     }
 
@@ -24,6 +26,10 @@ final class TodoTest extends TestCase
         $this->assertDoesntSee($this->todo, '## foo');
         $this->assertDoesntSee($this->todo, '## bar');
         $this->assertDoesntSee($this->todo, '## baz');
+
+        $this->assertDoesntSee($this->todo, '(todo/foo.md)');
+        $this->assertDoesntSee($this->todo, '(todo/bar.md)');
+        $this->assertDoesntSee($this->todo, '(todo/baz.md)');
     }
 
     protected function locales(): array

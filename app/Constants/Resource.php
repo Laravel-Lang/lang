@@ -6,7 +6,7 @@ final class Resource
 {
     public const TODO = 'todo.stub';
 
-    public const LANGUAGE = 'language.stub';
+    public const LOCALE = 'locale.stub';
 
     public const COMPONENT_LIST = 'components/list/index.stub';
 

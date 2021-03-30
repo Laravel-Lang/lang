@@ -23,9 +23,10 @@
     },
     "require-dev": {
         "php": "^8.0",
-        "andrey-helldar/support": "^3.2",
         "andrey-helldar/pretty-array": "^2.1",
-        "phpunit/phpunit": "^9.5"
+        "andrey-helldar/support": "^3.2",
+        "phpunit/phpunit": "^9.5",
+        "symfony/var-dumper": "^5.2"
     },
     "autoload-dev": {
         "psr-4": {

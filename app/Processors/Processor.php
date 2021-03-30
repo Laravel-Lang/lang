@@ -25,7 +25,7 @@ abstract class Processor implements Processable
         return $this;
     }
 
-    protected function compare(array $source, array $target, string $filename): array
+    protected function merge(array $source, array $target, string $filename): array
     {
         $target = Arr::only($target, array_keys($source));
 
@@ -45,12 +45,12 @@ abstract class Processor implements Processable
         return array_merge($source, $target);
     }
 
-    protected function process(string $target_path, string $filename): void
+    protected function process(string $target_path, string $filename, string $locale): void
     {
         $source = $this->source($filename);
         $target = $this->load($target_path);
 
-        $content = $this->compare($source, $target, $filename);
+        $content = $this->merge($source, $target, $filename);
 
         $this->store($target_path, $content);
     }

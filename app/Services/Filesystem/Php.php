@@ -12,7 +12,7 @@ final class Php extends Base
         return Pretty::make()->load($path);
     }
 
-    public function store(string $path, array $content): void
+    public function store(string $path, array|string $content): void
     {
         $service = Formatter::make();
         $service->setEqualsAlign();

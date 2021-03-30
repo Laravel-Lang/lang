@@ -13,7 +13,7 @@ final class Json extends Processor
         foreach ($this->locales() as $locale) {
             $target_path = $this->getTargetPath($locale);
 
-            $this->process($target_path, 'en.json');
+            $this->process($target_path, 'en.json', $locale);
         }
     }
 

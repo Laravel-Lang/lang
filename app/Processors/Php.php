@@ -15,7 +15,7 @@ final class Php extends Processor
             foreach ($this->files($locale) as $file) {
                 $target_path = $this->getTargetPath($locale . '/' . $file);
 
-                $this->process($target_path, $file);
+                $this->process($target_path, $file, $locale);
             }
         }
     }

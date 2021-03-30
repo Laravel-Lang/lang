@@ -65,7 +65,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Status of files
 
-* Check the [todo.md](todo.md) file to see the missing translations.
+* Check the [TODO.md](TODO.md) file to see the missing translations.
 
 ## Projects based on this package
 

@@ -27,9 +27,6 @@ jobs:
                     git config --local user.email "action@github.com"
                     git config --local user.name "GitHub Action"
 
-            -   name: Composer self update
-                run: composer self-update
-
             -   name: Install dependencies
                 run: composer update --prefer-stable --prefer-dist --no-progress --no-interaction
 

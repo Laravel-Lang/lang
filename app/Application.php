@@ -36,6 +36,16 @@ final class Application
         return $this->basePath();
     }
 
+    public function excludePath(string $locale): string
+    {
+        return $this->path('script/excludes/' . $locale . '.php');
+    }
+
+    public function resourcePath(string $filename): string
+    {
+        return $this->path('resources/' . $filename);
+    }
+
     public function cleanPath(string $path = null): ?string
     {
         if (! empty($path)) {

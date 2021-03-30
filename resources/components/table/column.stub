@@ -1,1 +1,4 @@
-<td>{{content}}</td>
+<td style="text-align: center">
+
+{{column}}
+</td>

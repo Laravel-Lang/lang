@@ -7,6 +7,8 @@ use Helldar\Support\Facades\Helpers\Filesystem\Directory;
 use Helldar\Support\Facades\Helpers\Filesystem\File;
 use Helldar\Support\Facades\Helpers\Str;
 use Helldar\Support\Facades\Tools\Sorter;
+use LaravelLang\Lang\Concerns\Excludeable;
+use LaravelLang\Lang\Concerns\Template;
 use LaravelLang\Lang\Contracts\Filesystem;
 use LaravelLang\Lang\Processors\Processor as BaseProcessor;
 use LaravelLang\Lang\Services\Filesystem\Base;
@@ -15,6 +17,9 @@ use LaravelLang\Lang\Services\Filesystem\Php as PhpFilesystem;
 
 abstract class Processor extends BaseProcessor
 {
+    use Excludeable;
+    use Template;
+
     protected string $extension = '.md';
 
     protected string $target_path = 'todo';
@@ -24,14 +29,15 @@ abstract class Processor extends BaseProcessor
 
     protected array $source_files = [];
 
-    protected array $result = [];
+    protected array $languages = [];
 
-    abstract protected function save(): void;
+    abstract protected function saving(): void;
 
     public function run(): void
     {
+        $this->ensureDirectory();
         $this->handle();
-        $this->save();
+        $this->saving();
     }
 
     protected function handle(): void
@@ -47,22 +53,37 @@ abstract class Processor extends BaseProcessor
 
     protected function process(string $target_path, string $filename, string $locale): void
     {
+        $corrected = $this->getCorrectedFilename($filename, $locale);
+
         $source = $this->source($filename);
-        $target = $this->target($locale, $this->getCorrectedFilename($filename, $locale));
+        $target = $this->target($locale, $corrected);
 
         $is_validation = $this->isValidation($filename);
 
-        if ($diff = $this->compare($source, $target, $is_validation)) {
-            $key = $this->getFileBasename($filename);
+        if ($diff = $this->compare($source, $target, $locale, $is_validation)) {
+            $key = $this->getFileBasename($corrected);
 
-            $this->result[$locale][$key] = array_values($diff);
+            $this->languages[$locale][$key] = $diff;
+        } else {
+            $this->languages[$locale] = [];
         }
     }
 
-    protected function compare(array $source, array $target, bool $is_validation): array
+    protected function save(string $path, array|string $content): void
     {
-        return array_filter($target, static function ($value, $key) use ($source, $is_validation) {
+        $content = is_string($content) ? $content : implode(PHP_EOL, $content);
+
+        File::store($path, $content);
+    }
+
+    protected function compare(array $source, array $target, string $locale, bool $is_validation): array
+    {
+        return array_filter($target, function ($value, $key) use ($source, $locale, $is_validation) {
             if ($is_validation && in_array($key, ['custom', 'attributes'])) {
+                return false;
+            }
+
+            if ($this->hasExclude($key, $locale)) {
                 return false;
             }
 
@@ -74,7 +95,7 @@ abstract class Processor extends BaseProcessor
     {
         $items = array_map(static function (array $items) {
             return count($items);
-        }, $this->result[$locale]);
+        }, $this->languages[$locale]);
 
         return array_sum($items);
     }
@@ -114,7 +135,9 @@ abstract class Processor extends BaseProcessor
 
     protected function getFileBasename(string $filename): string
     {
-        return pathinfo($filename, PATHINFO_FILENAME);
+        $flag = $this->isJson($filename) ? PATHINFO_EXTENSION : PATHINFO_FILENAME;
+
+        return pathinfo($filename, $flag);
     }
 
     protected function getCorrectedFilename(string $filename, string $locale): string
@@ -162,5 +185,20 @@ abstract class Processor extends BaseProcessor
     protected function isJson(string $filename): bool
     {
         return Str::endsWith($filename, '.json');
+    }
+
+    protected function link(?string $value): string
+    {
+        return empty($value) ? '' : sprintf('todo/%s.md', Str::slug($value));
+    }
+
+    protected function replace(string $template, array $values, bool $return_empty = false): string
+    {
+        return $return_empty ? '' : Str::replace($template, $values, '{{%s}}');
+    }
+
+    protected function ensureDirectory(): void
+    {
+        //
     }
 }

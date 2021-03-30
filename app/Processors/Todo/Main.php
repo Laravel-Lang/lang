@@ -8,26 +8,32 @@ class Main extends Processor
 {
     protected int $columns = 12;
 
-    protected function save(): void
+    protected function saving(): void
     {
-        $items = $this->prepare();
+        $rows = '';
 
-        dd(
-            $this->group($items)
-        );
-    }
-
-    protected function prepare(): array
-    {
-        $content = [];
-
-        foreach (array_keys($this->result) as $locale) {
-            $missing = $this->countMissing($locale);
-
-            $content[] = Locale::make($locale, $missing);
+        foreach ($this->grouped() as $items) {
+            $rows .= $this->compileRow($items);
         }
 
-        return $content;
+        $content = $this->compileTable($rows);
+
+        $result = $this->replace($this->templateTodo(), compact('content'));
+
+        $this->save('TODO.md', $result);
+    }
+
+    protected function grouped(): array
+    {
+        $locales = [];
+
+        foreach (array_keys($this->languages) as $locale) {
+            $missing = $this->countMissing($locale);
+
+            $locales[] = Locale::make($locale, $missing);
+        }
+
+        return $this->group($locales);
     }
 
     protected function group(array $items): array
@@ -43,5 +49,43 @@ class Main extends Processor
 
             return $items;
         }, array_chunk($items, $this->columns));
+    }
+
+    protected function compileTable(string $content): string
+    {
+        return $this->replace($this->templateTable(), compact('content'));
+    }
+
+    /**
+     * @param  \LaravelLang\Lang\Models\Locale[]|array  $items
+     *
+     * @return string
+     */
+    protected function compileRow(array $items): string
+    {
+        $row = $this->compileColumns($items);
+
+        return $this->replace($this->templateTableRow(), compact('row'));
+    }
+
+    /**
+     * @param  \LaravelLang\Lang\Models\Locale[]|array  $items
+     *
+     * @return string
+     */
+    protected function compileColumns(array $items): string
+    {
+        $row = '';
+
+        foreach ($items as $item) {
+            $column = $this->replace($this->templateLink(), [
+                'title' => $item->getTitle(),
+                'link'  => $this->link($item->getLocale()),
+            ], $item->isEmpty());
+
+            $row .= $this->replace($this->templateTabletColumn(), compact('column'));
+        }
+
+        return $row;
     }
 }

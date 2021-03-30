@@ -1,9 +1,7 @@
-# {{lang}}
+# {{locale}}
 
-### Missed: {{count}}
-
-[ [go back](../todo.md) ]
+###### All missed: {{count}}
 
 {{content}}
 
-[ [go back](../todo.md), [to top](#{{top-link}}) ]
+[ [go back](../TODO.md), [to top](#) ]

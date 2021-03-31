@@ -10,7 +10,7 @@
 * throttled : Please wait before retrying.
 
 
-[ [to top](#) ]
+[ [go back](../TODO.md), [to top](#) ]
 
 ### validation-inline
 
@@ -80,7 +80,7 @@
 * uuid : This must be a valid UUID.
 
 
-[ [to top](#) ]
+[ [go back](../TODO.md), [to top](#) ]
 
 ### validation
 
@@ -94,7 +94,7 @@
 * relatable : This :attribute may not be associated with this resource.
 
 
-[ [to top](#) ]
+[ [go back](../TODO.md), [to top](#) ]
 
 ### json
 
@@ -407,7 +407,5 @@
 * You may not leave a team that you created.
 
 
-[ [to top](#) ]
-
-
 [ [go back](../TODO.md), [to top](#) ]
+

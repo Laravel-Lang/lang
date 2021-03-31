@@ -10,7 +10,7 @@
 * throttled : Please wait before retrying.
 
 
-[ [to top](#) ]
+[ [go back](../TODO.md), [to top](#) ]
 
 ### validation-inline
 
@@ -80,7 +80,7 @@
 * uuid : This must be a valid UUID.
 
 
-[ [to top](#) ]
+[ [go back](../TODO.md), [to top](#) ]
 
 ### validation
 
@@ -108,7 +108,7 @@
 * uuid : The :attribute must be a valid UUID.
 
 
-[ [to top](#) ]
+[ [go back](../TODO.md), [to top](#) ]
 
 ### json
 
@@ -481,7 +481,5 @@ into your web browser:
 * Your email address is not verified.
 
 
-[ [to top](#) ]
-
-
 [ [go back](../TODO.md), [to top](#) ]
+

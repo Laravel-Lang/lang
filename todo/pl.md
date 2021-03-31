@@ -14,7 +14,7 @@
 * relatable : This field may not be associated with this resource.
 
 
-[ [to top](#) ]
+[ [go back](../TODO.md), [to top](#) ]
 
 ### validation
 
@@ -27,7 +27,7 @@
 * relatable : This :attribute may not be associated with this resource.
 
 
-[ [to top](#) ]
+[ [go back](../TODO.md), [to top](#) ]
 
 ### json
 
@@ -209,7 +209,5 @@
 * Yes
 
 
-[ [to top](#) ]
-
-
 [ [go back](../TODO.md), [to top](#) ]
+

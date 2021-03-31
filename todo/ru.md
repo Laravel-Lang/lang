@@ -4,5 +4,3 @@
 
 All lines are translated 😊
 
-
-[ [go back](../TODO.md), [to top](#) ]

@@ -12,7 +12,7 @@
 * throttle : Too many login attempts. Please try again in :seconds seconds.
 
 
-[ [to top](#) ]
+[ [go back](../TODO.md), [to top](#) ]
 
 ### pagination
 
@@ -22,7 +22,7 @@
 * previous : &laquo; Previous
 
 
-[ [to top](#) ]
+[ [go back](../TODO.md), [to top](#) ]
 
 ### passwords
 
@@ -35,7 +35,7 @@
 * user : We can't find a user with that email address.
 
 
-[ [to top](#) ]
+[ [go back](../TODO.md), [to top](#) ]
 
 ### validation-inline
 
@@ -105,7 +105,7 @@
 * uuid : This must be a valid UUID.
 
 
-[ [to top](#) ]
+[ [go back](../TODO.md), [to top](#) ]
 
 ### validation
 
@@ -121,7 +121,7 @@
 * relatable : This :attribute may not be associated with this resource.
 
 
-[ [to top](#) ]
+[ [go back](../TODO.md), [to top](#) ]
 
 ### json
 
@@ -494,7 +494,5 @@ into your web browser:
 * Your email address is not verified.
 
 
-[ [to top](#) ]
-
-
 [ [go back](../TODO.md), [to top](#) ]
+

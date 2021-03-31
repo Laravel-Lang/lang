@@ -78,24 +78,28 @@ abstract class Processor extends BaseProcessor
 
     protected function compare(array $source, array $target, string $locale, bool $is_validation): array
     {
-        return array_filter($target, function ($value, $key) use ($source, $locale, $is_validation) {
-            if ($is_validation && in_array($key, ['custom', 'attributes'])) {
-                return false;
-            }
+        return array_filter($target,
+            fn ($value, $key) => $this->hasEquals($value, $key, $source, $locale, $is_validation),
+            ARRAY_FILTER_USE_BOTH
+        );
+    }
 
-            if ($this->hasExclude($key, $locale)) {
-                return false;
-            }
+    protected function hasEquals($value, $key, array $source, string $locale, bool $is_validation): bool
+    {
+        if ($is_validation && in_array($key, ['custom', 'attributes'])) {
+            return false;
+        }
 
-            return Arr::get($source, $key) === $value;
-        }, ARRAY_FILTER_USE_BOTH);
+        if ($this->hasExclude($key, $locale)) {
+            return false;
+        }
+
+        return Arr::get($source, $key) === $value;
     }
 
     protected function countMissing(string $locale): int
     {
-        $items = array_map(static function (array $items) {
-            return count($items);
-        }, $this->locales[$locale]);
+        $items = array_map(static fn (array $items) => count($items), $this->locales[$locale]);
 
         return array_sum($items);
     }

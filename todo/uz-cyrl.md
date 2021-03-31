@@ -71,7 +71,7 @@
 * uuid : This must be a valid UUID.
 
 
-[ [go back](../TODO.md), [to top](#) ]
+[ [go back](../TODO.md) | [to top](#) ]
 
 ### validation
 
@@ -85,7 +85,7 @@
 * relatable : This :attribute may not be associated with this resource.
 
 
-[ [go back](../TODO.md), [to top](#) ]
+[ [go back](../TODO.md) | [to top](#) ]
 
 ### json
 
@@ -458,5 +458,5 @@ into your web browser:
 * Your email address is not verified.
 
 
-[ [go back](../TODO.md), [to top](#) ]
+[ [go back](../TODO.md) | [to top](#) ]
 

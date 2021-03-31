@@ -331,5 +331,5 @@ into your web browser:
 * You may not leave a team that you created.
 
 
-[ [go back](../TODO.md), [to top](#) ]
+[ [go back](../TODO.md) | [to top](#) ]
 

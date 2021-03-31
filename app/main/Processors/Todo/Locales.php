@@ -3,6 +3,7 @@
 namespace LaravelLang\Lang\Processors\Todo;
 
 use Helldar\Support\Facades\Helpers\Filesystem\Directory;
+use Helldar\Support\Facades\Helpers\Str;
 
 final class Locales extends Processor
 {
@@ -14,7 +15,9 @@ final class Locales extends Processor
 
             $result = $this->replace($this->templateLocales(), compact('locale', 'count', 'content'));
 
-            $this->save('todo/' . $locale . '.md', $result);
+            $filename = Str::slug($locale);
+
+            $this->save('todo/' . $filename . '.md', $result);
         }
     }
 

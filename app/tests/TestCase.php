@@ -9,9 +9,9 @@ use PHPUnit\Framework\TestCase as BaseTestCase;
 
 abstract class TestCase extends BaseTestCase
 {
-    protected $source_path = __DIR__ . '/../../script/en';
+    protected string $source_path = __DIR__ . '/../../script/en';
 
-    protected $target_path;
+    protected string $target_path;
 
     protected function source(string $filename): array
     {

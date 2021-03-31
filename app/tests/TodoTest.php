@@ -7,9 +7,9 @@ use Helldar\Support\Facades\Helpers\Str;
 
 final class TodoTest extends TestCase
 {
-    protected $target_path = __DIR__ . '/../src';
+    protected $target_path = __DIR__ . '/../../src';
 
-    protected $todo = __DIR__ . '/../TODO.md';
+    protected $todo = __DIR__ . '/../../TODO.md';
 
     public function testSee(): void
     {

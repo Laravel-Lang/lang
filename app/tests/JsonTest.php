@@ -7,7 +7,7 @@ use Helldar\Support\Facades\Helpers\Filesystem\File;
 
 final class JsonTest extends TestCase
 {
-    protected $target_path = __DIR__ . '/../json';
+    protected $target_path = __DIR__ . '/../../json';
 
     public function testJson(): void
     {

@@ -9,7 +9,7 @@ use PHPUnit\Framework\TestCase as BaseTestCase;
 
 abstract class TestCase extends BaseTestCase
 {
-    protected $source_path = __DIR__ . '/../script/en';
+    protected $source_path = __DIR__ . '/../../script/en';
 
     protected $target_path;
 

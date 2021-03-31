@@ -32,7 +32,7 @@ jobs:
 
             -   name: Keys actualization
                 if: success()
-                run: php script/keys.php
+                run: php app/keys.php
 
             -   name: Commit files after checking keys
                 id: commit_keys
@@ -46,7 +46,7 @@ jobs:
 
             -   name: Generate todo.md
                 if: success()
-                run: php script/todo.php
+                run: php app/todo.php
 
             -   name: Commit file
                 id: commit_todo

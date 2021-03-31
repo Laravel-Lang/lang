@@ -30,8 +30,8 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "LaravelLang\\Lang\\": "app",
-            "Tests\\": "tests"
+            "LaravelLang\\Lang\\": "app/main",
+            "Tests\\": "app/tests"
         }
     },
     "config": {

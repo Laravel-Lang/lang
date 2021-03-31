@@ -4,12 +4,8 @@
 tests/ export-ignore
 
 app/ export-ignore
-bootstrap/ export-ignore
-resources/ export-ignore
 
-script/excludes export-ignore
-script/keys.php export-ignore
-script/todo.php export-ignore
+excludes/ export-ignore
 
 todo/ export-ignore
 TODO.md export-ignore

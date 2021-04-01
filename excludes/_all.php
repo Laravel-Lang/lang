@@ -196,7 +196,6 @@ return [
     'Portugal',
     'Puerto Rico',
     'Qatar',
-    'Quarter To Date',
     'Reunion',
     'Romania',
     'Russian Federation',

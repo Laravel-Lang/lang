@@ -1,1 +1,3 @@
 <a href="{{link}}">{{title}}</a>
+
+[{{title}}]({{link}})

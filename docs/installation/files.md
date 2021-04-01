@@ -1,4 +1,4 @@
-[Repository](https://github.com/Laravel-Lang/lang) / [Main page](../index.md) / [Installation](../index.md) / Copy files
+[Repository](https://github.com/Laravel-Lang/lang) / [Main page](../index.md) / [Installation](../index.md#installation) / Copy files
 
 # Copy files
 

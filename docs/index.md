@@ -41,5 +41,3 @@ Please see [CONTRIBUTING](contributing.md) for details.
 
 - [Referents by language](referents.md)
 - [All Contributors](https://github.com/Laravel-Lang/lang/graphs/contributors)
-
-[ [Main page](index.md) ]

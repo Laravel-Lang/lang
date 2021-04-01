@@ -1,4 +1,4 @@
-<td align="center" width="8%">
+<td align="center" width="{{width}}%">
 
 {{column}}
 </td>

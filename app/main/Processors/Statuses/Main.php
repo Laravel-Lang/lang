@@ -6,7 +6,7 @@ use LaravelLang\Lang\Models\Locale;
 
 class Main extends Processor
 {
-    protected int $columns = 12;
+    protected int $columns = 9;
 
     protected function saving(): void
     {
@@ -83,7 +83,9 @@ class Main extends Processor
                 'link'  => $this->link($item->getLocale()),
             ], $item->isEmpty());
 
-            $row .= $this->replace($this->templateTabletColumn(), compact('column'));
+            $width = round(100 / $this->columns);
+
+            $row .= $this->replace($this->templateTabletColumn(), compact('column', 'width'));
         }
 
         return $row;

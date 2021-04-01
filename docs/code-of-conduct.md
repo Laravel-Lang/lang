@@ -1,4 +1,4 @@
-[Laravel Lang](../README.md) / [Main Page](index.md) / Contributor Covenant Code of Conduct
+[Laravel Lang](https://github.com/Laravel-Lang/lang) / [Main Page](index.md) / Contributor Covenant Code of Conduct
 
 # Contributor Covenant Code of Conduct
 

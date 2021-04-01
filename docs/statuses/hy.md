@@ -1,13 +1,13 @@
-[Laravel Lang](../README.md) / [Main Page](../index.md) / [Status](../status.md) / hy
+[Laravel Lang](https://github.com/Laravel-Lang/lang) / [Main Page](../index.md) / [Status](../status.md) / hy
 
 # hy
 
-###### All missed: 568
+##### All missed: 568
 
 
 ### json
 
-###### Missing: 568
+##### Missing: 568
 
 * 30 Days
 * 60 Days

@@ -1,13 +1,13 @@
-[Laravel Lang](../README.md) / [Main Page](../index.md) / [Status](../status.md) / ka
+[Laravel Lang](https://github.com/Laravel-Lang/lang) / [Main Page](../index.md) / [Status](../status.md) / ka
 
 # ka
 
-###### All missed: 664
+##### All missed: 664
 
 
 ### validation-inline
 
-###### Missing: 62
+##### Missing: 62
 
 * accepted : This field must be accepted.
 * active_url : This is not a valid URL.
@@ -77,7 +77,7 @@
 
 ### validation
 
-###### Missing: 5
+##### Missing: 5
 
 * attached : This :attribute is already attached.
 * prohibited : The :attribute field is prohibited.
@@ -90,7 +90,7 @@
 
 ### json
 
-###### Missing: 597
+##### Missing: 597
 
 * 30 Days
 * 60 Days

@@ -1,13 +1,13 @@
-[Laravel Lang](../README.md) / [Main Page](../index.md) / [Status](../status.md) / bn
+[Laravel Lang](https://github.com/Laravel-Lang/lang) / [Main Page](../index.md) / [Status](../status.md) / bn
 
 # bn
 
-###### All missed: 686
+##### All missed: 686
 
 
 ### passwords
 
-###### Missing: 1
+##### Missing: 1
 
 * throttled : Please wait before retrying.
 
@@ -16,7 +16,7 @@
 
 ### validation-inline
 
-###### Missing: 62
+##### Missing: 62
 
 * accepted : This field must be accepted.
 * active_url : This is not a valid URL.
@@ -86,7 +86,7 @@
 
 ### validation
 
-###### Missing: 12
+##### Missing: 12
 
 * attached : This :attribute is already attached.
 * date_equals : The :attribute must be a date equal to :date.
@@ -106,7 +106,7 @@
 
 ### json
 
-###### Missing: 611
+##### Missing: 611
 
 * 30 Days
 * 60 Days

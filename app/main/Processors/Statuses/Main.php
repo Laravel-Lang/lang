@@ -6,7 +6,7 @@ use LaravelLang\Lang\Models\Locale;
 
 class Main extends Processor
 {
-    protected int $columns = 12;
+    protected int $columns = 8;
 
     protected function saving(): void
     {

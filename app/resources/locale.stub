@@ -1,7 +1,7 @@
-[Laravel Lang](../README.md) / [Main Page](../index.md) / [Status](../status.md) / {{locale}}
+[Laravel Lang](https://github.com/Laravel-Lang/lang) / [Main Page](../index.md) / [Status](../status.md) / {{locale}}
 
 # {{locale}}
 
-###### All missed: {{count}}
+##### All missed: {{count}}
 
 {{content}}

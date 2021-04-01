@@ -24,7 +24,7 @@ In the file *config/app.php*, change the value of *locale* by the short name of 
 
 ## Translation status
 
-The current status of the translated keys is available at [this page](status.md).
+The current status of the translated keys is available at [STATUS](status.md) page.
 
 ## Contributing
 

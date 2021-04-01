@@ -7,7 +7,7 @@ use Helldar\Support\Facades\Helpers\Filesystem\Directory;
 
 final class PhpTest extends TestCase
 {
-    protected $target_path = __DIR__ . '/../../src';
+    protected string $target_path = __DIR__ . '/../../src';
 
     public function testAuth(): void
     {

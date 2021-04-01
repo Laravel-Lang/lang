@@ -7,9 +7,9 @@ use Helldar\Support\Facades\Helpers\Str;
 
 class TodoLocalesTest extends TestCase
 {
-    protected $source_path = __DIR__ . '/../../src';
+    protected string $source_path = __DIR__ . '/../../src';
 
-    protected $target_path = __DIR__ . '/../../todo';
+    protected string $target_path = __DIR__ . '/../../todo';
 
     public function testSee(): void
     {

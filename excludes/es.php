@@ -11,6 +11,11 @@ return [
     |
     */
 
+    ':amount Total',
     'Editor',
+    'ID',
     'Oh no',
+    'Original',
+    'No',
+    'total'
 ];

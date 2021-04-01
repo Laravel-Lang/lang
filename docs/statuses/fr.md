@@ -5,49 +5,33 @@
 ###### All missed: 45
 
 
-### validation-inline
-
-###### Missing: 5
-
-* attached : This field is already attached.
-* prohibited : This field is prohibited.
-* prohibited_if : This field is prohibited when :other is :value.
-* prohibited_unless : This field is prohibited unless :other is in :values.
-* relatable : This field may not be associated with this resource.
-
-
-[ [go back](../status.md) | [to top](#) ]
-
-### validation
-
-###### Missing: 5
-
-* attached : This :attribute is already attached.
-* prohibited : The :attribute field is prohibited.
-* prohibited_if : The :attribute field is prohibited when :other is :value.
-* prohibited_unless : The :attribute field is prohibited unless :other is in :values.
-* relatable : This :attribute may not be associated with this resource.
-
-
-[ [go back](../status.md) | [to top](#) ]
-
 ### json
 
-###### Missing: 35
+###### Missing: 45
 
+* Aland Islands : Åland Islands
 * Constant
 * Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below.
 * Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below.
+* Gibraltar
+* Iran, Islamic Republic Of : Iran
+* Lao People's Democratic Republic : Laos
 * Load :perPage More
+* Niue
 * No :resource matched the given criteria.
 * No Increase
 * No Prior Data
 * Only Trashed
+* Papua New Guinea
+* Paraguay
 * Please provide the email address of the person you would like to add to this team.
 * Please provide your name.
 * Press / to search
+* Quarter To Date
 * Reset Filters
+* Reunion : Réunion
 * Select All Matching
+* Sint Maarten (Dutch part) : Sint Maarten
 * Something went wrong.
 * Start Polling
 * Stop Polling

@@ -5,393 +5,393 @@
 <table width="100%">
 <tr><td align="center" width="8%">
 
-[af&nbsp;❗](todo/af.md)
+[af&nbsp;❗](statuses/af.md)
 
 </td>
 <td align="center" width="8%">
 
-[ar&nbsp;❗](todo/ar.md)
+[ar&nbsp;❗](statuses/ar.md)
 
 </td>
 <td align="center" width="8%">
 
-[az&nbsp;❗](todo/az.md)
+[az&nbsp;❗](statuses/az.md)
 
 </td>
 <td align="center" width="8%">
 
-[be&nbsp;❗](todo/be.md)
+[be&nbsp;❗](statuses/be.md)
 
 </td>
 <td align="center" width="8%">
 
-[bg&nbsp;❗](todo/bg.md)
+[bg&nbsp;❗](statuses/bg.md)
 
 </td>
 <td align="center" width="8%">
 
-[bn&nbsp;❗](todo/bn.md)
+[bn&nbsp;❗](statuses/bn.md)
 
 </td>
 <td align="center" width="8%">
 
-[bs&nbsp;❗](todo/bs.md)
+[bs&nbsp;❗](statuses/bs.md)
 
 </td>
 <td align="center" width="8%">
 
-[ca&nbsp;❗](todo/ca.md)
+[ca&nbsp;❗](statuses/ca.md)
 
 </td>
 <td align="center" width="8%">
 
-[cs&nbsp;❗](todo/cs.md)
+[cs&nbsp;❗](statuses/cs.md)
 
 </td>
 <td align="center" width="8%">
 
-[cy&nbsp;❗](todo/cy.md)
+[cy&nbsp;❗](statuses/cy.md)
 
 </td>
 <td align="center" width="8%">
 
-[da&nbsp;❗](todo/da.md)
+[da&nbsp;❗](statuses/da.md)
 
 </td>
 <td align="center" width="8%">
 
-[de&nbsp;❗](todo/de.md)
-
-</td>
-</tr>
-<tr><td align="center" width="8%">
-
-[de_CH&nbsp;❗](todo/de-ch.md)
-
-</td>
-<td align="center" width="8%">
-
-[el&nbsp;❗](todo/el.md)
-
-</td>
-<td align="center" width="8%">
-
-[es&nbsp;✔](todo/es.md)
-
-</td>
-<td align="center" width="8%">
-
-[et&nbsp;❗](todo/et.md)
-
-</td>
-<td align="center" width="8%">
-
-[eu&nbsp;❗](todo/eu.md)
-
-</td>
-<td align="center" width="8%">
-
-[fa&nbsp;❗](todo/fa.md)
-
-</td>
-<td align="center" width="8%">
-
-[fi&nbsp;❗](todo/fi.md)
-
-</td>
-<td align="center" width="8%">
-
-[fil&nbsp;❗](todo/fil.md)
-
-</td>
-<td align="center" width="8%">
-
-[fr&nbsp;❗](todo/fr.md)
-
-</td>
-<td align="center" width="8%">
-
-[gl&nbsp;❗](todo/gl.md)
-
-</td>
-<td align="center" width="8%">
-
-[he&nbsp;❗](todo/he.md)
-
-</td>
-<td align="center" width="8%">
-
-[hi&nbsp;❗](todo/hi.md)
+[de&nbsp;❗](statuses/de.md)
 
 </td>
 </tr>
 <tr><td align="center" width="8%">
 
-[hr&nbsp;❗](todo/hr.md)
+[de_CH&nbsp;❗](statuses/de-ch.md)
 
 </td>
 <td align="center" width="8%">
 
-[hu&nbsp;❗](todo/hu.md)
+[el&nbsp;❗](statuses/el.md)
 
 </td>
 <td align="center" width="8%">
 
-[hy&nbsp;❗](todo/hy.md)
+[es&nbsp;✔](statuses/es.md)
 
 </td>
 <td align="center" width="8%">
 
-[id&nbsp;❗](todo/id.md)
+[et&nbsp;❗](statuses/et.md)
 
 </td>
 <td align="center" width="8%">
 
-[is&nbsp;❗](todo/is.md)
+[eu&nbsp;❗](statuses/eu.md)
 
 </td>
 <td align="center" width="8%">
 
-[it&nbsp;❗](todo/it.md)
+[fa&nbsp;❗](statuses/fa.md)
 
 </td>
 <td align="center" width="8%">
 
-[ja&nbsp;❗](todo/ja.md)
+[fi&nbsp;❗](statuses/fi.md)
 
 </td>
 <td align="center" width="8%">
 
-[ka&nbsp;❗](todo/ka.md)
+[fil&nbsp;❗](statuses/fil.md)
 
 </td>
 <td align="center" width="8%">
 
-[kk&nbsp;❗](todo/kk.md)
+[fr&nbsp;❗](statuses/fr.md)
 
 </td>
 <td align="center" width="8%">
 
-[km&nbsp;❗](todo/km.md)
+[gl&nbsp;❗](statuses/gl.md)
 
 </td>
 <td align="center" width="8%">
 
-[kn&nbsp;❗](todo/kn.md)
+[he&nbsp;❗](statuses/he.md)
 
 </td>
 <td align="center" width="8%">
 
-[ko&nbsp;❗](todo/ko.md)
+[hi&nbsp;❗](statuses/hi.md)
 
 </td>
 </tr>
 <tr><td align="center" width="8%">
 
-[lt&nbsp;❗](todo/lt.md)
+[hr&nbsp;❗](statuses/hr.md)
 
 </td>
 <td align="center" width="8%">
 
-[lv&nbsp;❗](todo/lv.md)
+[hu&nbsp;❗](statuses/hu.md)
 
 </td>
 <td align="center" width="8%">
 
-[mk&nbsp;❗](todo/mk.md)
+[hy&nbsp;❗](statuses/hy.md)
 
 </td>
 <td align="center" width="8%">
 
-[mn&nbsp;❗](todo/mn.md)
+[id&nbsp;❗](statuses/id.md)
 
 </td>
 <td align="center" width="8%">
 
-[mr&nbsp;❗](todo/mr.md)
+[is&nbsp;❗](statuses/is.md)
 
 </td>
 <td align="center" width="8%">
 
-[ms&nbsp;❗](todo/ms.md)
+[it&nbsp;❗](statuses/it.md)
 
 </td>
 <td align="center" width="8%">
 
-[nb&nbsp;❗](todo/nb.md)
+[ja&nbsp;❗](statuses/ja.md)
 
 </td>
 <td align="center" width="8%">
 
-[ne&nbsp;❗](todo/ne.md)
+[ka&nbsp;❗](statuses/ka.md)
 
 </td>
 <td align="center" width="8%">
 
-[nl&nbsp;❗](todo/nl.md)
+[kk&nbsp;❗](statuses/kk.md)
 
 </td>
 <td align="center" width="8%">
 
-[nn&nbsp;❗](todo/nn.md)
+[km&nbsp;❗](statuses/km.md)
 
 </td>
 <td align="center" width="8%">
 
-[oc&nbsp;❗](todo/oc.md)
+[kn&nbsp;❗](statuses/kn.md)
 
 </td>
 <td align="center" width="8%">
 
-[pl&nbsp;❗](todo/pl.md)
+[ko&nbsp;❗](statuses/ko.md)
 
 </td>
 </tr>
 <tr><td align="center" width="8%">
 
-[ps&nbsp;❗](todo/ps.md)
+[lt&nbsp;❗](statuses/lt.md)
 
 </td>
 <td align="center" width="8%">
 
-[pt&nbsp;❗](todo/pt.md)
+[lv&nbsp;❗](statuses/lv.md)
 
 </td>
 <td align="center" width="8%">
 
-[pt_BR&nbsp;❗](todo/pt-br.md)
+[mk&nbsp;❗](statuses/mk.md)
 
 </td>
 <td align="center" width="8%">
 
-[ro&nbsp;❗](todo/ro.md)
+[mn&nbsp;❗](statuses/mn.md)
 
 </td>
 <td align="center" width="8%">
 
-[ru&nbsp;✔](todo/ru.md)
+[mr&nbsp;❗](statuses/mr.md)
 
 </td>
 <td align="center" width="8%">
 
-[sc&nbsp;❗](todo/sc.md)
+[ms&nbsp;❗](statuses/ms.md)
 
 </td>
 <td align="center" width="8%">
 
-[si&nbsp;❗](todo/si.md)
+[nb&nbsp;❗](statuses/nb.md)
 
 </td>
 <td align="center" width="8%">
 
-[sk&nbsp;❗](todo/sk.md)
+[ne&nbsp;❗](statuses/ne.md)
 
 </td>
 <td align="center" width="8%">
 
-[sl&nbsp;❗](todo/sl.md)
+[nl&nbsp;❗](statuses/nl.md)
 
 </td>
 <td align="center" width="8%">
 
-[sq&nbsp;❗](todo/sq.md)
+[nn&nbsp;❗](statuses/nn.md)
 
 </td>
 <td align="center" width="8%">
 
-[sr_Cyrl&nbsp;❗](todo/sr-cyrl.md)
+[oc&nbsp;❗](statuses/oc.md)
 
 </td>
 <td align="center" width="8%">
 
-[sr_Latn&nbsp;❗](todo/sr-latn.md)
+[pl&nbsp;❗](statuses/pl.md)
 
 </td>
 </tr>
 <tr><td align="center" width="8%">
 
-[sr_Latn_ME&nbsp;❗](todo/sr-latn-me.md)
+[ps&nbsp;❗](statuses/ps.md)
 
 </td>
 <td align="center" width="8%">
 
-[sv&nbsp;❗](todo/sv.md)
+[pt&nbsp;❗](statuses/pt.md)
 
 </td>
 <td align="center" width="8%">
 
-[sw&nbsp;❗](todo/sw.md)
+[pt_BR&nbsp;❗](statuses/pt-br.md)
 
 </td>
 <td align="center" width="8%">
 
-[tg&nbsp;❗](todo/tg.md)
+[ro&nbsp;❗](statuses/ro.md)
 
 </td>
 <td align="center" width="8%">
 
-[th&nbsp;❗](todo/th.md)
+[ru&nbsp;✔](statuses/ru.md)
 
 </td>
 <td align="center" width="8%">
 
-[tk&nbsp;❗](todo/tk.md)
+[sc&nbsp;❗](statuses/sc.md)
 
 </td>
 <td align="center" width="8%">
 
-[tl&nbsp;❗](todo/tl.md)
+[si&nbsp;❗](statuses/si.md)
 
 </td>
 <td align="center" width="8%">
 
-[tr&nbsp;❗](todo/tr.md)
+[sk&nbsp;❗](statuses/sk.md)
 
 </td>
 <td align="center" width="8%">
 
-[ug&nbsp;❗](todo/ug.md)
+[sl&nbsp;❗](statuses/sl.md)
 
 </td>
 <td align="center" width="8%">
 
-[uk&nbsp;❗](todo/uk.md)
+[sq&nbsp;❗](statuses/sq.md)
 
 </td>
 <td align="center" width="8%">
 
-[ur&nbsp;❗](todo/ur.md)
+[sr_Cyrl&nbsp;❗](statuses/sr-cyrl.md)
 
 </td>
 <td align="center" width="8%">
 
-[uz_Cyrl&nbsp;❗](todo/uz-cyrl.md)
+[sr_Latn&nbsp;❗](statuses/sr-latn.md)
 
 </td>
 </tr>
 <tr><td align="center" width="8%">
 
-[uz_Latn&nbsp;❗](todo/uz-latn.md)
+[sr_Latn_ME&nbsp;❗](statuses/sr-latn-me.md)
 
 </td>
 <td align="center" width="8%">
 
-[vi&nbsp;❗](todo/vi.md)
+[sv&nbsp;❗](statuses/sv.md)
 
 </td>
 <td align="center" width="8%">
 
-[zh_CN&nbsp;❗](todo/zh-cn.md)
+[sw&nbsp;❗](statuses/sw.md)
 
 </td>
 <td align="center" width="8%">
 
-[zh_HK&nbsp;❗](todo/zh-hk.md)
+[tg&nbsp;❗](statuses/tg.md)
 
 </td>
 <td align="center" width="8%">
 
-[zh_TW&nbsp;❗](todo/zh-tw.md)
+[th&nbsp;❗](statuses/th.md)
+
+</td>
+<td align="center" width="8%">
+
+[tk&nbsp;❗](statuses/tk.md)
+
+</td>
+<td align="center" width="8%">
+
+[tl&nbsp;❗](statuses/tl.md)
+
+</td>
+<td align="center" width="8%">
+
+[tr&nbsp;❗](statuses/tr.md)
+
+</td>
+<td align="center" width="8%">
+
+[ug&nbsp;❗](statuses/ug.md)
+
+</td>
+<td align="center" width="8%">
+
+[uk&nbsp;❗](statuses/uk.md)
+
+</td>
+<td align="center" width="8%">
+
+[ur&nbsp;❗](statuses/ur.md)
+
+</td>
+<td align="center" width="8%">
+
+[uz_Cyrl&nbsp;❗](statuses/uz-cyrl.md)
+
+</td>
+</tr>
+<tr><td align="center" width="8%">
+
+[uz_Latn&nbsp;❗](statuses/uz-latn.md)
+
+</td>
+<td align="center" width="8%">
+
+[vi&nbsp;❗](statuses/vi.md)
+
+</td>
+<td align="center" width="8%">
+
+[zh_CN&nbsp;❗](statuses/zh-cn.md)
+
+</td>
+<td align="center" width="8%">
+
+[zh_HK&nbsp;❗](statuses/zh-hk.md)
+
+</td>
+<td align="center" width="8%">
+
+[zh_TW&nbsp;❗](statuses/zh-tw.md)
 
 </td>
 <td align="center" width="8%">

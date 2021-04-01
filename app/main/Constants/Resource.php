@@ -4,7 +4,7 @@ namespace LaravelLang\Lang\Constants;
 
 final class Resource
 {
-    public const TODO = 'todo.stub';
+    public const STATUS = 'status.stub';
 
     public const LOCALE = 'locale.stub';
 

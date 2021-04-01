@@ -24,17 +24,17 @@ We accept contributions via Pull Requests on [Github](https://github.com/Laravel
 
 ## What should I do if there is a tag whose translation is the same as in English?
 
-In some languages ​​there are some strings whose translation is the same as in English. In this case, the script that generates the `todo.md` adds them by
-default to the list of pending translations. This affects the *completion status* for this language which would never be marked in *todo list* with (✔) but
-with (❗) even if all other strings were translated.
+In some languages ​​there are some strings whose translation is the same as in English. In this case, the script that generates the [status.md](status.md) adds
+them by default to the list of pending translations. This affects the *completion status* for this language which would never be marked in *status list* with (
+✔) but with (❗) even if all other strings were translated.
 
 We can avoid this situation in the following way:
 
 * fork this repository if you haven't already
-* add a PHP file named with the short name of the language (ex: `es.php` for Spanish) inside the directory `script/excludes`
+* add a PHP file named with the short name of the language (ex: `es.php` for Spanish) inside the directory `excludes`
 * this php file must return an array of strings with each of the tags that we must exclude.
     * for example suppose that the strings `'Email'` and `'API Token'` in `es.json` (ex: for Spanish) do not need translation in this language and therefore
-      want to exclude them. The PHP file `es.php` (for example) in `script/excludes/` should have this structure which you can copy for other languages.
+      want to exclude them. The PHP file `es.php` (for example) in `excludes` should have this structure which you can copy for other languages.
 
 ```php
 <?php

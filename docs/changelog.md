@@ -140,7 +140,7 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 * feature: #1386 Contributing
 
-### Todo script
+### Status script
 
 * fix: #1406 ignores the additional informations
 

@@ -5,13 +5,9 @@
 In this repository, you can find the lang files for the [Laravel Framework 4/5/6/7/8](https://laravel.com), [Laravel Jetstream](https://jetstream.laravel.com)
 , [Laravel Fortify](https://github.com/laravel/fortify), [Laravel Cashier](https://laravel.com/docs/8.x/billing) and [Laravel Nova](https://nova.laravel.com).
 
-## News
+## Changelog
 
-* in version 6.1, we propose a new file by language: `validation-inline.php` (see #1268)
-* in version 7, we propose new directory names to follow ISO-15897 (see #1269)
-* in version 8, we propose new directory names to follow Php Intl (see #1453)
-
-> See [changelog](changelog.md)
+* See [changelog](changelog.md)
 
 ## Installation
 
@@ -28,7 +24,7 @@ In the file *config/app.php*, change the value of *locale* by the short name of 
 
 ## Translation status
 
-The current status of the translated keys is available at [this link](status.md).
+The current status of the translated keys is available at [this page](status.md).
 
 ## Contributing
 

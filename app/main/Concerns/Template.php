@@ -5,7 +5,7 @@ namespace LaravelLang\Lang\Concerns;
 use Helldar\PrettyArray\Services\File;
 use LaravelLang\Lang\Constants\Resource;
 
-/** @mixin \LaravelLang\Lang\Processors\Todo\Processor */
+/** @mixin \LaravelLang\Lang\Processors\Statuses\Processor */
 trait Template
 {
     protected array $templates = [];
@@ -46,9 +46,9 @@ trait Template
         return $this->getTemplate(Resource::COMPONENT_LINK);
     }
 
-    protected function templateTodo(): string
+    protected function templateStatus(): string
     {
-        return $this->getTemplate(Resource::TODO);
+        return $this->getTemplate(Resource::STATUS);
     }
 
     protected function templateLocales(): string

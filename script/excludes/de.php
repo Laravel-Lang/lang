@@ -16,5 +16,4 @@ return [
     'Dashboard',
     'Name',
     'Editor',
-    'API Token',
 ];

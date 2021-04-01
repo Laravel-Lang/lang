@@ -1,3 +1,5 @@
+[Repository](https://github.com/Laravel-Lang/lang) / [Main page](../index.md) / [Status](../status.md) / uz_Cyrl
+
 # uz_Cyrl
 
 ###### All missed: 432

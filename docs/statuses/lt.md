@@ -1,3 +1,5 @@
+[Repository](https://github.com/Laravel-Lang/lang) / [Main page](../index.md) / [Status](../status.md) / lt
+
 # lt
 
 ###### All missed: 201

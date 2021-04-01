@@ -1,4 +1,4 @@
-[Repository](https://github.com/Laravel-Lang/lang) / [Main page](../index.md) / [Installation](../index.md#installation) / Via Composer
+[Repository](https://github.com/Laravel-Lang/lang) / [Main Page](../index.md) / [Installation](../index.md#installation) / Via Composer
 
 # Via Composer
 

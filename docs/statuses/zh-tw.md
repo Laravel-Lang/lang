@@ -1,3 +1,5 @@
+[Repository](https://github.com/Laravel-Lang/lang) / [Main page](../index.md) / [Status](../status.md) / zh_TW
+
 # zh_TW
 
 ###### All missed: 161

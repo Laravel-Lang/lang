@@ -1,4 +1,4 @@
-[Repository](https://github.com/Laravel-Lang/lang) / [Main page](index.md) / Changelog
+[Repository](https://github.com/Laravel-Lang/lang) / [Main Page](index.md) / Changelog
 
 # Changelog
 

@@ -1,6 +1,6 @@
 # uz_Latn
 
-###### All missed: 684
+###### All missed: 679
 
 
 ### validation-inline
@@ -89,7 +89,7 @@
 
 ### json
 
-###### Missing: 616
+###### Missing: 611
 
 * 30 Days
 * 60 Days
@@ -180,7 +180,6 @@
 * Brazil
 * British Indian Ocean Territory
 * Browser Sessions
-* Brunei Darussalam : Brunei
 * Bulgaria
 * Burkina Faso
 * Burundi
@@ -220,7 +219,6 @@
 * Constant
 * Cook Islands
 * Costa Rica
-* Cote D'Ivoire : Côte d'Ivoire
 * could not be found.
 * Create
 * Create & Add Another
@@ -323,7 +321,6 @@
 * Hello!
 * Hide Content
 * Hold Up!
-* Holy See (Vatican City State) : Vatican City
 * Honduras
 * Hong Kong
 * Hungary
@@ -579,7 +576,6 @@ into your web browser:
 * Sudan
 * Suriname
 * Svalbard And Jan Mayen : Svalbard and Jan Mayen
-* Swaziland : Eswatini
 * Sweden
 * Switch Teams
 * Switzerland
@@ -678,7 +674,6 @@ into your web browser:
 * Venezuela
 * Verify Email Address
 * Verify Your Email Address
-* Viet Nam : Vietnam
 * View
 * Virgin Islands, British : British Virgin Islands
 * Virgin Islands, U.S. : U.S. Virgin Islands

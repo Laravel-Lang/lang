@@ -1,15 +1,14 @@
 # fr
 
-###### All missed: 48
+###### All missed: 45
 
 
 ### json
 
-###### Missing: 48
+###### Missing: 45
 
 * Aland Islands : Åland Islands
 * Constant
-* Cote D'Ivoire : Côte d'Ivoire
 * Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below.
 * Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below.
 * Gibraltar
@@ -34,7 +33,6 @@
 * Something went wrong.
 * Start Polling
 * Stop Polling
-* Swaziland : Eswatini
 * The :attribute must be at least :length characters and contain at least one special character and one number.
 * The action ran successfully!
 * The government won't let us show you what's behind these doors
@@ -50,7 +48,6 @@
 * Trashed
 * Update & Continue Editing
 * Update attached :resource: :title
-* Viet Nam : Vietnam
 * We're lost in space. The page you were trying to view does not exist.
 * With Trashed
 * Write

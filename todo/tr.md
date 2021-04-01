@@ -1,6 +1,6 @@
 # tr
 
-###### All missed: 503
+###### All missed: 498
 
 
 ### validation-inline
@@ -77,7 +77,7 @@
 
 ### json
 
-###### Missing: 447
+###### Missing: 442
 
 * 30 Days
 * 60 Days
@@ -145,7 +145,6 @@
 * Bouvet Island
 * Brazil
 * British Indian Ocean Territory
-* Brunei Darussalam : Brunei
 * Bulgaria
 * Burkina Faso
 * Burundi
@@ -180,7 +179,6 @@
 * Constant
 * Cook Islands
 * Costa Rica
-* Cote D'Ivoire : Côte d'Ivoire
 * could not be found.
 * Create & Add Another
 * Create :resource
@@ -254,7 +252,6 @@
 * Heard Island & Mcdonald Islands : Heard Island and McDonald Islands
 * Hide Content
 * Hold Up!
-* Holy See (Vatican City State) : Vatican City
 * Honduras
 * Hong Kong
 * Hungary
@@ -448,7 +445,6 @@
 * Sudan
 * Suriname
 * Svalbard And Jan Mayen : Svalbard and Jan Mayen
-* Swaziland : Eswatini
 * Sweden
 * Switzerland
 * Syrian Arab Republic : Syria
@@ -509,7 +505,6 @@
 * Value
 * Vanuatu
 * Venezuela
-* Viet Nam : Vietnam
 * View
 * Virgin Islands, British : British Virgin Islands
 * Virgin Islands, U.S. : U.S. Virgin Islands

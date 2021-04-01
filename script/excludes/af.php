@@ -11,10 +11,5 @@ return [
     |
     */
 
-    'Administrator',
-    'Code',
-    'Dashboard',
-    'Name',
-    'Editor',
     'API Token',
 ];

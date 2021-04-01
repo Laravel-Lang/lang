@@ -55,6 +55,6 @@ return [
 
 * add these changes to the pull request you will send
 
-## Status of files
+## Translation status
 
-* [TODO.md](TODO.md)
+* [status.md](status.md)

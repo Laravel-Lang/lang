@@ -4,6 +4,7 @@
 
 | Lang | Assignee |
 | --- |:--|
+| af | |
 | ar | [@mohamedsabil83](https://github.com/mohamedsabil83), [@Khuthaily](https://github.com/Khuthaily) |
 | az | |
 | be | |

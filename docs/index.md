@@ -28,7 +28,7 @@ The current status of the translated keys is available at [STATUS](status.md) pa
 
 ## Contributing
 
-Please see [CONTRIBUTING](contributing.md) for details.
+Please see [contributing](contributing.md) page for details.
 
 ## Projects based on this package
 

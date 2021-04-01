@@ -1,13 +1,13 @@
-[Laravel Lang](../README.md) / [Main Page](../index.md) / [Status](../status.md) / oc
+[Laravel Lang](https://github.com/Laravel-Lang/lang) / [Main Page](../index.md) / [Status](../status.md) / oc
 
 # oc
 
-###### All missed: 622
+##### All missed: 622
 
 
 ### passwords
 
-###### Missing: 1
+##### Missing: 1
 
 * throttled : Please wait before retrying.
 
@@ -16,7 +16,7 @@
 
 ### validation-inline
 
-###### Missing: 5
+##### Missing: 5
 
 * attached : This field is already attached.
 * prohibited : This field is prohibited.
@@ -29,7 +29,7 @@
 
 ### validation
 
-###### Missing: 5
+##### Missing: 5
 
 * attached : This :attribute is already attached.
 * prohibited : The :attribute field is prohibited.
@@ -42,7 +42,7 @@
 
 ### json
 
-###### Missing: 611
+##### Missing: 611
 
 * 30 Days
 * 60 Days

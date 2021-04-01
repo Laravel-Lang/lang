@@ -1,13 +1,13 @@
-[Laravel Lang](../README.md) / [Main Page](../index.md) / [Status](../status.md) / fil
+[Laravel Lang](https://github.com/Laravel-Lang/lang) / [Main Page](../index.md) / [Status](../status.md) / fil
 
 # fil
 
-###### All missed: 691
+##### All missed: 691
 
 
 ### auth
 
-###### Missing: 3
+##### Missing: 3
 
 * failed : These credentials do not match our records.
 * password : The provided password is incorrect.
@@ -18,7 +18,7 @@
 
 ### pagination
 
-###### Missing: 2
+##### Missing: 2
 
 * next : Next &raquo;
 * previous : &laquo; Previous
@@ -28,7 +28,7 @@
 
 ### passwords
 
-###### Missing: 5
+##### Missing: 5
 
 * reset : Your password has been reset!
 * sent : We have emailed your password reset link!
@@ -41,7 +41,7 @@
 
 ### validation-inline
 
-###### Missing: 62
+##### Missing: 62
 
 * accepted : This field must be accepted.
 * active_url : This is not a valid URL.
@@ -111,7 +111,7 @@
 
 ### validation
 
-###### Missing: 8
+##### Missing: 8
 
 * attached : This :attribute is already attached.
 * ends_with : The :attribute must end with one of the following: :values.
@@ -127,7 +127,7 @@
 
 ### json
 
-###### Missing: 611
+##### Missing: 611
 
 * 30 Days
 * 60 Days

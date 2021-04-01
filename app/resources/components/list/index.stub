@@ -1,7 +1,7 @@
 
 ### {{filename}}
 
-###### Missing: {{count}}
+##### Missing: {{count}}
 
 {{content}}
 

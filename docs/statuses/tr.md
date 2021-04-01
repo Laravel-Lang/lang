@@ -1,13 +1,13 @@
-[Laravel Lang](../README.md) / [Main Page](../index.md) / [Status](../status.md) / tr
+[Laravel Lang](https://github.com/Laravel-Lang/lang) / [Main Page](../index.md) / [Status](../status.md) / tr
 
 # tr
 
-###### All missed: 498
+##### All missed: 498
 
 
 ### validation-inline
 
-###### Missing: 53
+##### Missing: 53
 
 * accepted : This field must be accepted.
 * after : This must be a date after :date.
@@ -68,7 +68,7 @@
 
 ### validation
 
-###### Missing: 3
+##### Missing: 3
 
 * attached : This :attribute is already attached.
 * multiple_of : The :attribute must be a multiple of :value
@@ -79,7 +79,7 @@
 
 ### json
 
-###### Missing: 442
+##### Missing: 442
 
 * 30 Days
 * 60 Days

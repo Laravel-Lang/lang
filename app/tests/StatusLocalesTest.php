@@ -19,7 +19,7 @@ class StatusLocalesTest extends TestCase
             $this->assertFileExists($path);
 
             $this->assertSee($path, '# ' . Str::before($locale, '.'));
-            $this->assertSee($path, '###### All missed:');
+            $this->assertSee($path, '##### All missed:');
 
             $this->assertDoesntSee($path, '## foo');
             $this->assertDoesntSee($path, '## bar');

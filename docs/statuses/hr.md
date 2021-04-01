@@ -1,13 +1,13 @@
-[Laravel Lang](../README.md) / [Main Page](../index.md) / [Status](../status.md) / hr
+[Laravel Lang](https://github.com/Laravel-Lang/lang) / [Main Page](../index.md) / [Status](../status.md) / hr
 
 # hr
 
-###### All missed: 667
+##### All missed: 667
 
 
 ### validation-inline
 
-###### Missing: 62
+##### Missing: 62
 
 * accepted : This field must be accepted.
 * active_url : This is not a valid URL.
@@ -77,7 +77,7 @@
 
 ### validation
 
-###### Missing: 8
+##### Missing: 8
 
 * attached : This :attribute is already attached.
 * ends_with : The :attribute must end with one of the following: :values.
@@ -93,7 +93,7 @@
 
 ### json
 
-###### Missing: 597
+##### Missing: 597
 
 * 30 Days
 * 60 Days

@@ -1,13 +1,13 @@
-[Laravel Lang](../README.md) / [Main Page](../index.md) / [Status](../status.md) / af
+[Laravel Lang](https://github.com/Laravel-Lang/lang) / [Main Page](../index.md) / [Status](../status.md) / af
 
 # af
 
-###### All missed: 437
+##### All missed: 437
 
 
 ### validation-inline
 
-###### Missing: 5
+##### Missing: 5
 
 * attached : This field is already attached.
 * prohibited : This field is prohibited.
@@ -20,7 +20,7 @@
 
 ### validation
 
-###### Missing: 6
+##### Missing: 6
 
 * attached : This :attribute is already attached.
 * multiple_of : The :attribute must be a multiple of :value
@@ -34,7 +34,7 @@
 
 ### json
 
-###### Missing: 426
+##### Missing: 426
 
 * 30 Days
 * 60 Days

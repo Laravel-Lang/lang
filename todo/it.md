@@ -1,6 +1,6 @@
 # it
 
-###### All missed: 11
+###### All missed: 19
 
 
 ### validation-inline
@@ -31,9 +31,17 @@
 
 ### json
 
-###### Missing: 1
+###### Missing: 9
 
+* Brunei Darussalam : Brunei
 * Download
+* Iran, Islamic Republic Of : Iran
+* Lao People's Democratic Republic : Laos
+* Micronesia, Federated States Of : Micronesia
+* Peru
+* Sint Maarten (Dutch part) : Sint Maarten
+* Swaziland : Eswatini
+* Viet Nam : Vietnam
 
 
 [ [go back](../TODO.md) | [to top](#) ]

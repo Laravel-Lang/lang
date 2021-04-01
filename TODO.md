@@ -74,7 +74,7 @@
 </td>
 <td align="center" width="8%">
 
-[es&nbsp;✔](todo/es.md)
+[es&nbsp;❗](todo/es.md)
 
 </td>
 <td align="center" width="8%">

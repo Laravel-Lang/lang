@@ -1,6 +1,6 @@
 # fr
 
-###### All missed: 45
+###### All missed: 58
 
 
 ### validation-inline
@@ -31,24 +31,36 @@
 
 ### json
 
-###### Missing: 35
+###### Missing: 48
 
+* Aland Islands : Åland Islands
 * Constant
+* Cote D'Ivoire : Côte d'Ivoire
 * Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below.
 * Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below.
+* Gibraltar
+* Iran, Islamic Republic Of : Iran
+* Lao People's Democratic Republic : Laos
 * Load :perPage More
+* Niue
 * No :resource matched the given criteria.
 * No Increase
 * No Prior Data
 * Only Trashed
+* Papua New Guinea
+* Paraguay
 * Please provide the email address of the person you would like to add to this team.
 * Please provide your name.
 * Press / to search
+* Quarter To Date
 * Reset Filters
+* Reunion : Réunion
 * Select All Matching
+* Sint Maarten (Dutch part) : Sint Maarten
 * Something went wrong.
 * Start Polling
 * Stop Polling
+* Swaziland : Eswatini
 * The :attribute must be at least :length characters and contain at least one special character and one number.
 * The action ran successfully!
 * The government won't let us show you what's behind these doors
@@ -64,6 +76,7 @@
 * Trashed
 * Update & Continue Editing
 * Update attached :resource: :title
+* Viet Nam : Vietnam
 * We're lost in space. The page you were trying to view does not exist.
 * With Trashed
 * Write

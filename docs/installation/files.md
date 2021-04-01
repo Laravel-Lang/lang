@@ -1,3 +1,5 @@
+[Repository](https://github.com/Laravel-Lang/lang) / [Main page](../index.md) / [Installation](../index.md) / Copy files
+
 # Copy files
 
 After adding the dependency using composer (as described above) to your application you can find the language files under the

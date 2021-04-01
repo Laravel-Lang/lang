@@ -1,3 +1,5 @@
+[Repository](https://github.com/Laravel-Lang/lang) / [Main page](index.md) / Contributing
+
 # Contributing
 
 Contributions are **welcome** and will be fully **credited**.

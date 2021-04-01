@@ -1,4 +1,6 @@
-# Todo List
+[Repository](https://github.com/Laravel-Lang/lang) / [Main page](index.md) / Translation status
+
+# Translation status
 
 <table width="100%">
 <tr><td align="center" width="8%">

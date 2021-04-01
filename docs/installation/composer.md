@@ -1,3 +1,5 @@
+[Repository](https://github.com/Laravel-Lang/lang) / [Main page](../index.md) / [Installation](../index.md) / Via Composer
+
 # Via Composer
 
 Install the Laravel-lang package to your Laravel project with composer using command from the table below based on the version of Laravel you are using:

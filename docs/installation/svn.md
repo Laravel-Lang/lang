@@ -1,4 +1,4 @@
-# Via SVN
+[Repository](https://github.com/Laravel-Lang/lang) / [Main page](../index.md) / [Installation](../index.md) / Via SVN
 
 Run this in your project directory:
 

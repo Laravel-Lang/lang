@@ -8,7 +8,7 @@
 </td>
 <td align="center" width="8%">
 
-[ar&nbsp;❗](todo/ar.md)
+[ar&nbsp;✔](todo/ar.md)
 
 </td>
 <td align="center" width="8%">

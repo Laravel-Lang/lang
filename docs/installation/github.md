@@ -1,4 +1,4 @@
-[Repository](https://github.com/Laravel-Lang/lang) / [Main Page](../index.md) / [Installation](../index.md#installation) / Via GitHub
+[Laravel Lang](../README.md) / [Main Page](../index.md) / [Installation](../index.md#installation) / Via GitHub
 
 * Clone the [GitHub repository](https://github.com/Laravel-Lang/lang/) : *git clone https://github.com/Laravel-Lang/lang.git*
 * Or download the [zip file](https://github.com/Laravel-Lang/lang/archive/master.zip)

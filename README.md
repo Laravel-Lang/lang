@@ -1,18 +1,17 @@
-# Laravel-lang
+# Laravel Lang
 
 In this repository, you can find the lang files for the [Laravel Framework 4/5/6/7/8](https://laravel.com), [Laravel Jetstream](https://jetstream.laravel.com)
 , [Laravel Fortify](https://github.com/laravel/fortify), [Laravel Cashier](https://laravel.com/docs/8.x/billing) and [Laravel Nova](https://nova.laravel.com).
 
 <p align="center">
     [
-    <a href="https://laravel-lang.github.io/lang">Documentation</a>
-    |
-    <a href="docs/status.md">Status</a>
+        <a href="docs/index.md">Documentation</a> |
+        <a href="docs/status.md">Status</a>
     ]
 </p>
 
 ## News
-s
+
 * in version 6.1, we propose a new file by language: `validation-inline.php` ( see #1268 )
 * in version 7, we propose new directory names to follow ISO-15897 ( see #1269 )
 * in version 8, we propose new directory names to follow Php Intl ( see #1453 )

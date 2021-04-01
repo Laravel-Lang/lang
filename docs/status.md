@@ -1,486 +1,418 @@
-[Repository](https://github.com/Laravel-Lang/lang) / [Main Page](index.md) / Completion Status
+[Laravel Lang](../README.md) / [Main Page](index.md) / Completion Status
 
 # Completion status
 
 <table width="100%">
-<tr><td align="center" width="13%">
-<a href="statuses/af.md">af&nbsp;❗</a>
+<tr><td align="center" width="8%">
 
 [af&nbsp;❗](statuses/af.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/ar.md">ar&nbsp;❗</a>
+<td align="center" width="8%">
 
 [ar&nbsp;❗](statuses/ar.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/az.md">az&nbsp;❗</a>
+<td align="center" width="8%">
 
 [az&nbsp;❗](statuses/az.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/be.md">be&nbsp;❗</a>
+<td align="center" width="8%">
 
 [be&nbsp;❗](statuses/be.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/bg.md">bg&nbsp;❗</a>
+<td align="center" width="8%">
 
 [bg&nbsp;❗](statuses/bg.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/bn.md">bn&nbsp;❗</a>
+<td align="center" width="8%">
 
 [bn&nbsp;❗](statuses/bn.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/bs.md">bs&nbsp;❗</a>
+<td align="center" width="8%">
 
 [bs&nbsp;❗](statuses/bs.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/ca.md">ca&nbsp;❗</a>
+<td align="center" width="8%">
 
 [ca&nbsp;❗](statuses/ca.md)
 
 </td>
-</tr>
-<tr><td align="center" width="13%">
-<a href="statuses/cs.md">cs&nbsp;❗</a>
+<td align="center" width="8%">
 
 [cs&nbsp;❗](statuses/cs.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/cy.md">cy&nbsp;❗</a>
+<td align="center" width="8%">
 
 [cy&nbsp;❗](statuses/cy.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/da.md">da&nbsp;❗</a>
+<td align="center" width="8%">
 
 [da&nbsp;❗](statuses/da.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/de.md">de&nbsp;❗</a>
+<td align="center" width="8%">
 
 [de&nbsp;❗](statuses/de.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/de-ch.md">de_CH&nbsp;❗</a>
+</tr>
+<tr><td align="center" width="8%">
 
 [de_CH&nbsp;❗](statuses/de-ch.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/el.md">el&nbsp;❗</a>
+<td align="center" width="8%">
 
 [el&nbsp;❗](statuses/el.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/es.md">es&nbsp;✔</a>
+<td align="center" width="8%">
 
 [es&nbsp;✔](statuses/es.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/et.md">et&nbsp;❗</a>
+<td align="center" width="8%">
 
 [et&nbsp;❗](statuses/et.md)
 
 </td>
-</tr>
-<tr><td align="center" width="13%">
-<a href="statuses/eu.md">eu&nbsp;❗</a>
+<td align="center" width="8%">
 
 [eu&nbsp;❗](statuses/eu.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/fa.md">fa&nbsp;❗</a>
+<td align="center" width="8%">
 
 [fa&nbsp;❗](statuses/fa.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/fi.md">fi&nbsp;❗</a>
+<td align="center" width="8%">
 
 [fi&nbsp;❗](statuses/fi.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/fil.md">fil&nbsp;❗</a>
+<td align="center" width="8%">
 
 [fil&nbsp;❗](statuses/fil.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/fr.md">fr&nbsp;❗</a>
+<td align="center" width="8%">
 
 [fr&nbsp;❗](statuses/fr.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/gl.md">gl&nbsp;❗</a>
+<td align="center" width="8%">
 
 [gl&nbsp;❗](statuses/gl.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/he.md">he&nbsp;❗</a>
+<td align="center" width="8%">
 
 [he&nbsp;❗](statuses/he.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/hi.md">hi&nbsp;❗</a>
+<td align="center" width="8%">
 
 [hi&nbsp;❗](statuses/hi.md)
 
 </td>
 </tr>
-<tr><td align="center" width="13%">
-<a href="statuses/hr.md">hr&nbsp;❗</a>
+<tr><td align="center" width="8%">
 
 [hr&nbsp;❗](statuses/hr.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/hu.md">hu&nbsp;❗</a>
+<td align="center" width="8%">
 
 [hu&nbsp;❗](statuses/hu.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/hy.md">hy&nbsp;❗</a>
+<td align="center" width="8%">
 
 [hy&nbsp;❗](statuses/hy.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/id.md">id&nbsp;❗</a>
+<td align="center" width="8%">
 
 [id&nbsp;❗](statuses/id.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/is.md">is&nbsp;❗</a>
+<td align="center" width="8%">
 
 [is&nbsp;❗](statuses/is.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/it.md">it&nbsp;❗</a>
+<td align="center" width="8%">
 
 [it&nbsp;❗](statuses/it.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/ja.md">ja&nbsp;❗</a>
+<td align="center" width="8%">
 
 [ja&nbsp;❗](statuses/ja.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/ka.md">ka&nbsp;❗</a>
+<td align="center" width="8%">
 
 [ka&nbsp;❗](statuses/ka.md)
 
 </td>
-</tr>
-<tr><td align="center" width="13%">
-<a href="statuses/kk.md">kk&nbsp;❗</a>
+<td align="center" width="8%">
 
 [kk&nbsp;❗](statuses/kk.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/km.md">km&nbsp;❗</a>
+<td align="center" width="8%">
 
 [km&nbsp;❗](statuses/km.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/kn.md">kn&nbsp;❗</a>
+<td align="center" width="8%">
 
 [kn&nbsp;❗](statuses/kn.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/ko.md">ko&nbsp;❗</a>
+<td align="center" width="8%">
 
 [ko&nbsp;❗](statuses/ko.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/lt.md">lt&nbsp;❗</a>
+</tr>
+<tr><td align="center" width="8%">
 
 [lt&nbsp;❗](statuses/lt.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/lv.md">lv&nbsp;❗</a>
+<td align="center" width="8%">
 
 [lv&nbsp;❗](statuses/lv.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/mk.md">mk&nbsp;❗</a>
+<td align="center" width="8%">
 
 [mk&nbsp;❗](statuses/mk.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/mn.md">mn&nbsp;❗</a>
+<td align="center" width="8%">
 
 [mn&nbsp;❗](statuses/mn.md)
 
 </td>
-</tr>
-<tr><td align="center" width="13%">
-<a href="statuses/mr.md">mr&nbsp;❗</a>
+<td align="center" width="8%">
 
 [mr&nbsp;❗](statuses/mr.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/ms.md">ms&nbsp;❗</a>
+<td align="center" width="8%">
 
 [ms&nbsp;❗](statuses/ms.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/nb.md">nb&nbsp;❗</a>
+<td align="center" width="8%">
 
 [nb&nbsp;❗](statuses/nb.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/ne.md">ne&nbsp;❗</a>
+<td align="center" width="8%">
 
 [ne&nbsp;❗](statuses/ne.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/nl.md">nl&nbsp;❗</a>
+<td align="center" width="8%">
 
 [nl&nbsp;❗](statuses/nl.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/nn.md">nn&nbsp;❗</a>
+<td align="center" width="8%">
 
 [nn&nbsp;❗](statuses/nn.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/oc.md">oc&nbsp;❗</a>
+<td align="center" width="8%">
 
 [oc&nbsp;❗](statuses/oc.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/pl.md">pl&nbsp;❗</a>
+<td align="center" width="8%">
 
 [pl&nbsp;❗](statuses/pl.md)
 
 </td>
 </tr>
-<tr><td align="center" width="13%">
-<a href="statuses/ps.md">ps&nbsp;❗</a>
+<tr><td align="center" width="8%">
 
 [ps&nbsp;❗](statuses/ps.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/pt.md">pt&nbsp;❗</a>
+<td align="center" width="8%">
 
 [pt&nbsp;❗](statuses/pt.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/pt-br.md">pt_BR&nbsp;❗</a>
+<td align="center" width="8%">
 
 [pt_BR&nbsp;❗](statuses/pt-br.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/ro.md">ro&nbsp;❗</a>
+<td align="center" width="8%">
 
 [ro&nbsp;❗](statuses/ro.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/ru.md">ru&nbsp;✔</a>
+<td align="center" width="8%">
 
 [ru&nbsp;✔](statuses/ru.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/sc.md">sc&nbsp;❗</a>
+<td align="center" width="8%">
 
 [sc&nbsp;❗](statuses/sc.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/si.md">si&nbsp;❗</a>
+<td align="center" width="8%">
 
 [si&nbsp;❗](statuses/si.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/sk.md">sk&nbsp;❗</a>
+<td align="center" width="8%">
 
 [sk&nbsp;❗](statuses/sk.md)
 
 </td>
-</tr>
-<tr><td align="center" width="13%">
-<a href="statuses/sl.md">sl&nbsp;❗</a>
+<td align="center" width="8%">
 
 [sl&nbsp;❗](statuses/sl.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/sq.md">sq&nbsp;❗</a>
+<td align="center" width="8%">
 
 [sq&nbsp;❗](statuses/sq.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/sr-cyrl.md">sr_Cyrl&nbsp;❗</a>
+<td align="center" width="8%">
 
 [sr_Cyrl&nbsp;❗](statuses/sr-cyrl.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/sr-latn.md">sr_Latn&nbsp;❗</a>
+<td align="center" width="8%">
 
 [sr_Latn&nbsp;❗](statuses/sr-latn.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/sr-latn-me.md">sr_Latn_ME&nbsp;❗</a>
+</tr>
+<tr><td align="center" width="8%">
 
 [sr_Latn_ME&nbsp;❗](statuses/sr-latn-me.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/sv.md">sv&nbsp;❗</a>
+<td align="center" width="8%">
 
 [sv&nbsp;❗](statuses/sv.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/sw.md">sw&nbsp;❗</a>
+<td align="center" width="8%">
 
 [sw&nbsp;❗](statuses/sw.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/tg.md">tg&nbsp;❗</a>
+<td align="center" width="8%">
 
 [tg&nbsp;❗](statuses/tg.md)
 
 </td>
-</tr>
-<tr><td align="center" width="13%">
-<a href="statuses/th.md">th&nbsp;❗</a>
+<td align="center" width="8%">
 
 [th&nbsp;❗](statuses/th.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/tk.md">tk&nbsp;❗</a>
+<td align="center" width="8%">
 
 [tk&nbsp;❗](statuses/tk.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/tl.md">tl&nbsp;❗</a>
+<td align="center" width="8%">
 
 [tl&nbsp;❗](statuses/tl.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/tr.md">tr&nbsp;❗</a>
+<td align="center" width="8%">
 
 [tr&nbsp;❗](statuses/tr.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/ug.md">ug&nbsp;❗</a>
+<td align="center" width="8%">
 
 [ug&nbsp;❗](statuses/ug.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/uk.md">uk&nbsp;❗</a>
+<td align="center" width="8%">
 
 [uk&nbsp;❗](statuses/uk.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/ur.md">ur&nbsp;❗</a>
+<td align="center" width="8%">
 
 [ur&nbsp;❗](statuses/ur.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/uz-cyrl.md">uz_Cyrl&nbsp;❗</a>
+<td align="center" width="8%">
 
 [uz_Cyrl&nbsp;❗](statuses/uz-cyrl.md)
 
 </td>
 </tr>
-<tr><td align="center" width="13%">
-<a href="statuses/uz-latn.md">uz_Latn&nbsp;❗</a>
+<tr><td align="center" width="8%">
 
 [uz_Latn&nbsp;❗](statuses/uz-latn.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/vi.md">vi&nbsp;❗</a>
+<td align="center" width="8%">
 
 [vi&nbsp;❗](statuses/vi.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/zh-cn.md">zh_CN&nbsp;❗</a>
+<td align="center" width="8%">
 
 [zh_CN&nbsp;❗](statuses/zh-cn.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/zh-hk.md">zh_HK&nbsp;❗</a>
+<td align="center" width="8%">
 
 [zh_HK&nbsp;❗](statuses/zh-hk.md)
 
 </td>
-<td align="center" width="13%">
-<a href="statuses/zh-tw.md">zh_TW&nbsp;❗</a>
+<td align="center" width="8%">
 
 [zh_TW&nbsp;❗](statuses/zh-tw.md)
 
 </td>
-<td align="center" width="13%">
+<td align="center" width="8%">
 
 </td>
-<td align="center" width="13%">
+<td align="center" width="8%">
 
 </td>
-<td align="center" width="13%">
+<td align="center" width="8%">
+
+</td>
+<td align="center" width="8%">
+
+</td>
+<td align="center" width="8%">
+
+</td>
+<td align="center" width="8%">
+
+</td>
+<td align="center" width="8%">
 
 </td>
 </tr>

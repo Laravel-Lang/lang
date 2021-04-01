@@ -1,4 +1,4 @@
-[Repository](https://github.com/Laravel-Lang/lang) / [Main page](../index.md) / [Status](../status.md) / ru
+[Laravel Lang](../README.md) / [Main Page](../index.md) / [Status](../status.md) / ru
 
 # ru
 

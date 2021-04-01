@@ -1,4 +1,4 @@
-[Repository](https://github.com/Laravel-Lang/lang) / [Main Page](index.md) / Referents
+[Laravel Lang](../README.md) / [Main Page](index.md) / Referents
 
 # Referents by language
 

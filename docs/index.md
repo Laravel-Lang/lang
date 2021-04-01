@@ -1,4 +1,4 @@
-[Repository](https://github.com/Laravel-Lang/lang) / Main page
+[Laravel Lang](../README.md) / Main Page
 
 # Laravel Lang
 
@@ -28,7 +28,7 @@ The current status of the translated keys is available at [status](status.md) pa
 
 ## Contributing
 
-Please see [contributing](contributing-code.md) page for details.
+Please see [contributing](contributing.md) page for details.
 
 ## Projects based on this package
 

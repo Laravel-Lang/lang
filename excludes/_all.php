@@ -11,9 +11,6 @@ return [
     |
     */
 
-    '*',
-    '—',
-
     'Afghanistan',
     'Aland Islands',
     'Albania',

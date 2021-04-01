@@ -24,11 +24,11 @@ In the file *config/app.php*, change the value of *locale* by the short name of 
 
 ## Translation status
 
-The current status of the translated keys is available at [STATUS](status.md) page.
+The current status of the translated keys is available at [status](status.md) page.
 
 ## Contributing
 
-Please see [contributing](contributing.md) page for details.
+Please see [contributing](contributings.md) page for details.
 
 ## Projects based on this package
 

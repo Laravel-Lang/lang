@@ -1,11 +1,13 @@
+[Laravel Lang](https://github.com/Laravel-Lang/lang) / [Main Page](../index.md) / [Completion Status](../status.md) / nl
+
 # nl
 
-###### All missed: 406
+##### All missed: 406
 
 
 ### validation-inline
 
-###### Missing: 5
+##### Missing: 5
 
 * attached : This field is already attached.
 * prohibited : This field is prohibited.
@@ -14,11 +16,11 @@
 * relatable : This field may not be associated with this resource.
 
 
-[ [go back](../TODO.md) | [to top](#) ]
+[ [go back](../status.md) | [to top](#) ]
 
 ### validation
 
-###### Missing: 5
+##### Missing: 5
 
 * attached : This :attribute is already attached.
 * prohibited : The :attribute field is prohibited.
@@ -27,11 +29,11 @@
 * relatable : This :attribute may not be associated with this resource.
 
 
-[ [go back](../TODO.md) | [to top](#) ]
+[ [go back](../status.md) | [to top](#) ]
 
 ### json
 
-###### Missing: 396
+##### Missing: 396
 
 * :resource Details
 * :resource Details: :title
@@ -431,5 +433,5 @@
 * Zimbabwe
 
 
-[ [go back](../TODO.md) | [to top](#) ]
+[ [go back](../status.md) | [to top](#) ]
 

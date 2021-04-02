@@ -86,7 +86,7 @@ abstract class Processor extends BaseProcessor
 
     protected function hasEquals($value, $key, array $source, string $locale, bool $is_validation): bool
     {
-        if ($is_validation && in_array($key, ['custom', 'attributes'])) {
+        if ($is_validation && in_array($key, ['custom', 'attributes'], true)) {
             return false;
         }
 

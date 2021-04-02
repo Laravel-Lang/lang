@@ -2,7 +2,7 @@
 
 # af
 
-##### All missed: 437
+##### All missed: 436
 
 
 ### validation-inline
@@ -34,7 +34,7 @@
 
 ### json
 
-##### Missing: 426
+##### Missing: 425
 
 * 30 Days
 * 60 Days
@@ -63,7 +63,6 @@
 * Another user has updated this resource since this page was loaded. Please refresh the page and try again.
 * Antarctica
 * Antigua And Barbuda : Antigua and Barbuda
-* API Token
 * API Tokens
 * April
 * Are you sure you want to delete the selected resources?

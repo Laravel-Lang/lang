@@ -1,6 +1,6 @@
 # nl
 
-###### All missed: 431
+###### All missed: 406
 
 
 ### validation-inline
@@ -31,15 +31,10 @@
 
 ### json
 
-###### Missing: 421
+###### Missing: 396
 
-* 30 Days
-* 60 Days
-* 90 Days
-* :amount Total
 * :resource Details
 * :resource Details: :title
-* Action
 * Action Happened At : Happened At
 * Action Initiated By : Initiated By
 * Action Name : Name
@@ -131,7 +126,6 @@
 * Constant
 * Cook Islands
 * Costa Rica
-* could not be found.
 * Create & Add Another
 * Create :resource
 * Croatia
@@ -156,12 +150,9 @@
 * Dominican Republic
 * Download
 * Ecuador
-* Edit
-* Edit :resource
 * Edit Attached
 * Egypt
 * El Salvador
-* Email Address
 * Equatorial Guinea
 * Eritrea
 * Estonia
@@ -243,11 +234,6 @@
 * Liechtenstein
 * Lithuania
 * Load :perPage More
-* Log in
-* Log out
-* Log Out
-* Log Out Other Browser Sessions
-* Luxembourg
 * Macao
 * Macedonia : North Macedonia
 * Madagascar
@@ -256,7 +242,6 @@
 * Maldives
 * Mali
 * Malta
-* Manage and log out your active sessions on other browsers and devices.
 * March
 * Marshall Islands
 * Martinique
@@ -312,11 +297,6 @@
 * Panama
 * Papua New Guinea
 * Paraguay
-* Pay :amount
-* Payment Cancelled
-* Payment Confirmation
-* Payment Successful
-* Per Page
 * Peru
 * Philippines
 * Pitcairn : Pitcairn Islands
@@ -373,7 +353,6 @@
 * Somalia
 * Something went wrong.
 * Sorry! You are not authorized to perform this action.
-* Sorry, your session has expired.
 * South Africa
 * South Georgia And Sandwich Isl. : South Georgia and South Sandwich Islands
 * South Sudan
@@ -411,12 +390,9 @@
 * This payment was cancelled.
 * This resource no longer exists
 * Timor-Leste
-* Today
 * Togo
 * Tokelau
 * Tonga
-* total
-* Trashed
 * Trinidad And Tobago : Trinidad and Tobago
 * Tunisia
 * Turkey
@@ -446,7 +422,6 @@
 * We're lost in space. The page you were trying to view does not exist.
 * Welcome Back!
 * Western Sahara
-* Whoops
 * With Trashed
 * Write
 * Year To Date

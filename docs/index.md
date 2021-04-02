@@ -5,6 +5,10 @@
 In this repository, you can find the lang files for the [Laravel Framework 4/5/6/7/8](https://laravel.com), [Laravel Jetstream](https://jetstream.laravel.com)
 , [Laravel Fortify](https://github.com/laravel/fortify), [Laravel Cashier](https://laravel.com/docs/8.x/billing) and [Laravel Nova](https://nova.laravel.com).
 
+## Translation status
+
+The current status of the translated keys is available at [STATUS](status.md) page.
+
 ## Changelog
 
 * See [changelog](changelog.md)
@@ -21,10 +25,6 @@ In this repository, you can find the lang files for the [Laravel Framework 4/5/6
 > Laravel only
 
 In the file *config/app.php*, change the value of *locale* by the short name of your language (*app/config/app.php* in Laravel 4).
-
-## Translation status
-
-The current status of the translated keys is available at [status](status.md) page.
 
 ## Contributing
 

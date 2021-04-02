@@ -5,8 +5,8 @@ In this repository, you can find the lang files for the [Laravel Framework 4/5/6
 
 <p align="center">
     [
-        <a href="docs/index.md">Documentation</a> |
-        <a href="docs/status.md">Status</a>
+        <a href="https://laravel-lang.github.io/lang">Documentation</a> |
+        <a href="https://laravel-lang.github.io/lang/status.html">Completion Status</a>
     ]
 </p>
 

@@ -1,20 +1,34 @@
+[Laravel Lang](https://github.com/Laravel-Lang/lang) / Main Page
+
 # Laravel Lang
 
 In this repository, you can find the lang files for the [Laravel Framework 4/5/6/7/8](https://laravel.com), [Laravel Jetstream](https://jetstream.laravel.com)
 , [Laravel Fortify](https://github.com/laravel/fortify), [Laravel Cashier](https://laravel.com/docs/8.x/billing) and [Laravel Nova](https://nova.laravel.com).
 
-<p align="center">
-    [
-        <a href="docs/index.md">Documentation</a> |
-        <a href="docs/status.md">Status</a>
-    ]
-</p>
+## Changelog
 
-## News
+* See [changelog](changelog.md)
 
-* in version 6.1, we propose a new file by language: `validation-inline.php` ( see #1268 )
-* in version 7, we propose new directory names to follow ISO-15897 ( see #1269 )
-* in version 8, we propose new directory names to follow Php Intl ( see #1453 )
+## Installation
+
+* [Via Composer](installation/composer.md)
+* [Via GitHub](installation/github.md)
+* [Via SVN](installation/github.md)
+* [Copy files](installation/files.md)
+
+## Usage
+
+> Laravel only
+
+In the file *config/app.php*, change the value of *locale* by the short name of your language (*app/config/app.php* in Laravel 4).
+
+## Translation status
+
+The current status of the translated keys is available at [status](status.md) page.
+
+## Contributing
+
+Please see [contributing](contributing-to-dev.md) page for details.
 
 ## Projects based on this package
 
@@ -25,5 +39,5 @@ In this repository, you can find the lang files for the [Laravel Framework 4/5/6
 
 ## Credits
 
-- [Referents by language](docs/referents.md)
+- [Referents by language](referents.md)
 - [All Contributors](https://github.com/Laravel-Lang/lang/graphs/contributors)

@@ -5,6 +5,31 @@ All notable changes to this project will be documented in this file, since v7.0.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [8.1.1] - 2021-04-02
+
+## Added
+
+ * #1565 Add prohibited validation rule
+ * #1510 [af] Added Afrikaans language support
+
+### Changed
+
+ * feature: [ar] #1584 validation.php validation-inline.php json file
+ * feature: [es] #1566 #1579 #1585 validation.php validation-inline.php json file
+ * feature: [fr] #1580 json file
+ * feature: [hy] #1572 #1573 #1574 auth.php validation.php
+ * feature: [it] #1568 json file
+ * feature: [nl] #1587 json file
+ * feature: [pt] #1575 auth.php
+ * feature: [pt_BR] #1564 #1575 auth.php json file
+ * feature: [ru] #1576 #1582 validation.php validation-inline.php json file
+ * feature: [tr] #1565 validation.php validation-inline.php
+
+### Todo script
+
+ * New version with automatic add needed tags
+ * One page by language
+
 ## [8.1.0] - 2021-01-23
 
 ### Added
@@ -250,7 +275,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
  * feature: #1269 Rename locale folders following ISO 15897 format
 
-[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/8.1.0...master
+[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/8.1.1...master
+[8.1.1]: https://github.com/caouecs/Laravel-lang/compare/8.1.0...8.1.1
 [8.1.0]: https://github.com/caouecs/Laravel-lang/compare/8.0.3...8.1.0
 [8.0.3]: https://github.com/caouecs/Laravel-lang/compare/8.0.2...8.0.3
 [8.0.2]: https://github.com/caouecs/Laravel-lang/compare/8.0.1...8.0.2

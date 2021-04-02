@@ -12,7 +12,7 @@ trait Excludeable
 
     protected function hasExclude(string $key, string $locale): bool
     {
-        return in_array($key, $this->getExcludes($locale)) || in_array($key, $this->getExcludes());
+        return in_array($key, $this->getExcludes($locale), true) || in_array($key, $this->getExcludes(), true);
     }
 
     protected function getExcludes(string $locale = null): array

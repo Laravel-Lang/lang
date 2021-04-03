@@ -179,5 +179,6 @@ return [
         'district'              => 'ناحیه',
         'area'                  => 'منطقه',
         'national_code'         => 'کد ملی',
+        'verification_code'     => 'کد تایید',
     ],
 ];

@@ -20,18 +20,11 @@ abstract class Compiler implements Stringable
     ) {
     }
 
-    abstract protected function handle(): string;
-
     public function items(array $items): self
     {
         $this->items = $items;
 
         return $this;
-    }
-
-    public function toString(): string
-    {
-        return $this->handle() ?: '';
     }
 
     protected function isJson(string $filename): bool

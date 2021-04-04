@@ -8,20 +8,11 @@ class Table extends Compiler
 {
     protected string $align = 'left';
 
-    protected int $width = 0;
-
     protected int $columns = 1;
 
     public function align(string $align): self
     {
         $this->align = $align;
-
-        return $this;
-    }
-
-    public function width(int $width): self
-    {
-        $this->width = $width;
 
         return $this;
     }
@@ -33,9 +24,9 @@ class Table extends Compiler
         return $this;
     }
 
-    protected function handle(): string
+    public function toString(): string
     {
-        $width = $this->getWidth($this->width ? 100 : 0);
+        $width = $this->getWidth($this->getTableWidth());
 
         $content = $this->compileRows();
 
@@ -67,7 +58,7 @@ class Table extends Compiler
     protected function compileColumn(string $column): string
     {
         $align = $this->getAlign();
-        $width = $this->getWidth($this->width ? round($this->width / $this->columns) : 0);
+        $width = $this->getWidth($this->getColumnWidth());
 
         return $this->template(Resource::COMPONENT_TABLE_COLUMN, compact('align', 'width', 'column'));
     }
@@ -79,12 +70,27 @@ class Table extends Compiler
         return $this->template(Resource::COMPONENT_TABLE_ATTRIBUTE_ALIGN, compact('align'), true);
     }
 
-    protected function getWidth(int $width): ?string
+    protected function getWidth(?int $width): ?string
     {
         if (! $width) {
             return null;
         }
 
         return $this->template(Resource::COMPONENT_TABLE_ATTRIBUTE_WIDTH, compact('width'), true);
+    }
+
+    protected function getTableWidth(): ?int
+    {
+        return $this->hasColumns() ? 100 : null;
+    }
+
+    protected function getColumnWidth(): ?int
+    {
+        return $this->hasColumns() ? round(100 / $this->columns) : null;
+    }
+
+    protected function hasColumns(): bool
+    {
+        return $this->columns > 1;
     }
 }

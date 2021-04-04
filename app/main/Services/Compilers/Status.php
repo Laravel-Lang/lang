@@ -10,7 +10,7 @@ class Status extends Compiler
 {
     protected int $columns = 8;
 
-    protected function handle(): string
+    public function toString(): string
     {
         $content = $this->compileContent();
 
@@ -56,7 +56,6 @@ class Status extends Compiler
         return Table::make($this->app)
             ->items($rows)
             ->align('center')
-            ->width(100)
             ->columns($this->columns)
             ->toString();
     }

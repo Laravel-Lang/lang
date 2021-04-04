@@ -6,7 +6,7 @@ use LaravelLang\Lang\Constants\Resource;
 
 class Locale extends Compiler
 {
-    protected function handle(): string
+    public function toString(): string
     {
         return $this->template(Resource::LOCALE, $this->items);
     }

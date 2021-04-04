@@ -6,7 +6,7 @@ use LaravelLang\Lang\Constants\Resource;
 
 class Collection extends Compiler
 {
-    protected function handle(): string
+    public function toString(): string
     {
         $result = '';
 

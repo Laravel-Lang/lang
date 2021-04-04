@@ -8,19 +8,19 @@ final class Resource
 
     public const LOCALE = 'locale.stub';
 
-    public const COMPONENT_LIST = 'components/list/index.stub';
-
-    public const COMPONENT_LIST_ITEM = 'components/list/item.stub';
-
-    public const COMPONENT_LIST_ITEM_JSON = 'components/list/item-json.stub';
-
-    public const COMPONENT_TABLE = 'components/table/index.stub';
-
-    public const COMPONENT_TABLE_ROW = 'components/table/row.stub';
-
-    public const COMPONENT_TABLE_COLUMN = 'components/table/column.stub';
+    public const COMPONENT_ALL_TRANSLATED = 'components/translated.stub';
 
     public const COMPONENT_LINK = 'components/link.stub';
 
-    public const COMPONENT_ALL_TRANSLATED = 'components/translated.stub';
+    public const COMPONENT_LOCALE = 'components/locale.stub';
+
+    public const COMPONENT_TABLE = 'components/table/index.stub';
+
+    public const COMPONENT_TABLE_COLUMN = 'components/table/column.stub';
+
+    public const COMPONENT_TABLE_ROW = 'components/table/row.stub';
+
+    public const COMPONENT_TABLE_ATTRIBUTE_ALIGN = 'components/table/attributes/align.stub';
+
+    public const COMPONENT_TABLE_ATTRIBUTE_WIDTH = 'components/table/attributes/width.stub';
 }

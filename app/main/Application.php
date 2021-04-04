@@ -3,10 +3,11 @@
 namespace LaravelLang\Lang;
 
 use Helldar\Support\Concerns\Makeable;
+use LaravelLang\Lang\Contracts\Application as ApplicationContract;
 use LaravelLang\Lang\Contracts\Filesystem;
 use LaravelLang\Lang\Contracts\Processable;
 
-final class Application
+final class Application implements ApplicationContract
 {
     use Makeable;
 
@@ -55,7 +56,7 @@ final class Application
         return null;
     }
 
-    public function filesystem(Filesystem $filesystem): self
+    public function filesystem(Filesystem $filesystem): ApplicationContract
     {
         $this->filesystem = $filesystem->application($this);
 

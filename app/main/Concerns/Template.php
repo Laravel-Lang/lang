@@ -3,76 +3,39 @@
 namespace LaravelLang\Lang\Concerns;
 
 use Helldar\PrettyArray\Services\File;
-use LaravelLang\Lang\Constants\Resource;
+use Helldar\Support\Facades\Helpers\Str;
 
-/** @mixin \LaravelLang\Lang\Processors\Statuses\Processor */
 trait Template
 {
-    protected array $templates = [];
+    protected static array $templates = [];
 
-    protected function getTemplate(string $filename): string
+    protected function template(string $filename, array $values = [], bool $trim = false, bool $return_empty = false): string
     {
-        if ($this->templates[$filename] ?? false) {
-            return $this->templates[$filename];
+        $template = $this->getTemplate($filename, $trim);
+
+        return $this->replace($template, $values, $return_empty);
+    }
+
+    protected function replace(string $template, array $values, bool $return_empty = false): string
+    {
+        return $return_empty ? '' : Str::replace($template, $values, '{{%s}}');
+    }
+
+    protected function getTemplate(string $filename, bool $trim = false): string
+    {
+        if (static::$templates[$filename] ?? false) {
+            return static::$templates[$filename];
         }
 
-        return $this->templates[$filename] = File::make()->loadRaw(
+        $template = File::make()->loadRaw(
             $this->templatePath($filename)
         );
+
+        return static::$templates[$filename] = $trim ? trim($template) : $template;
     }
 
     protected function templatePath(string $filename): string
     {
         return $this->app->resourcePath($filename);
-    }
-
-    protected function templateTable(): string
-    {
-        return $this->getTemplate(Resource::COMPONENT_TABLE);
-    }
-
-    protected function templateTableRow(): string
-    {
-        return $this->getTemplate(Resource::COMPONENT_TABLE_ROW);
-    }
-
-    protected function templateTabletColumn(): string
-    {
-        return $this->getTemplate(Resource::COMPONENT_TABLE_COLUMN);
-    }
-
-    protected function templateLink(): string
-    {
-        return $this->getTemplate(Resource::COMPONENT_LINK);
-    }
-
-    protected function templateStatus(): string
-    {
-        return $this->getTemplate(Resource::STATUS);
-    }
-
-    protected function templateLocales(): string
-    {
-        return $this->getTemplate(Resource::LOCALE);
-    }
-
-    protected function templateList(): string
-    {
-        return $this->getTemplate(Resource::COMPONENT_LIST);
-    }
-
-    protected function templateListItem(): string
-    {
-        return $this->getTemplate(Resource::COMPONENT_LIST_ITEM);
-    }
-
-    protected function templateListItemJson(): string
-    {
-        return $this->getTemplate(Resource::COMPONENT_LIST_ITEM_JSON);
-    }
-
-    protected function templateAllTranslated(): string
-    {
-        return $this->getTemplate(Resource::COMPONENT_ALL_TRANSLATED);
     }
 }

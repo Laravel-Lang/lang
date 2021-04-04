@@ -4,6 +4,10 @@ namespace LaravelLang\Lang\Processors\Statuses;
 
 use Helldar\Support\Facades\Helpers\Filesystem\Directory;
 use Helldar\Support\Facades\Helpers\Str;
+use LaravelLang\Lang\Constants\Resource;
+use LaravelLang\Lang\Contracts\Stringable;
+use LaravelLang\Lang\Services\Compilers\Collection;
+use LaravelLang\Lang\Services\Compilers\Locale;
 
 final class Locales extends Processor
 {
@@ -13,7 +17,7 @@ final class Locales extends Processor
             $count   = $this->countMissing($locale);
             $content = $this->compileList($items);
 
-            $result = $this->replace($this->templateLocales(), compact('locale', 'count', 'content'));
+            $result = $this->compileContent($content, $locale, $count);
 
             $filename = Str::slug($locale);
 
@@ -21,32 +25,16 @@ final class Locales extends Processor
         }
     }
 
-    protected function compileList(array $items): string
+    protected function compileContent(string $content, string $locale, int $count): Stringable
     {
-        $list = '';
-
-        foreach ($items as $filename => $values) {
-            $content = $this->compileItems($values);
-
-            $count = count($values);
-
-            $list .= $this->replace($this->templateList(), compact('filename', 'count', 'content'));
-        }
-
-        return $list ?: $this->templateAllTranslated();
+        return Locale::make($this->app)->items(compact('locale', 'count', 'content'));
     }
 
-    protected function compileItems(array $items): string
+    protected function compileList(array $items): string
     {
-        $content = '';
+        $content = Collection::make($this->app)->items($items)->toString();
 
-        foreach ($items as $key => $item) {
-            $template = $key === $item ? $this->templateListItemJson() : $this->templateListItem();
-
-            $content .= $this->replace($template, compact('key', 'item'));
-        }
-
-        return $content;
+        return $content ?: $this->template(Resource::COMPONENT_ALL_TRANSLATED);
     }
 
     protected function ensureDirectory(): void

@@ -86,11 +86,16 @@ class Table extends Compiler
 
     protected function getColumnWidth(): ?int
     {
-        return $this->hasColumns() ? round(100 / $this->columns) : null;
+        return $this->hasColumns() ? round(100 / $this->getColumns()) : null;
     }
 
     protected function hasColumns(): bool
     {
-        return $this->columns > 1;
+        return $this->getColumns() > 1;
+    }
+
+    protected function getColumns(): int
+    {
+        return abs($this->columns);
     }
 }

@@ -9,9 +9,21 @@
 
 ##### Missing: 3
 
-* Iran, Islamic Republic Of : Iran
-* Lao People's Democratic Republic : Laos
-* Sint Maarten (Dutch part) : Sint Maarten
+<table >
+<tr><td align="left" >
+Iran, Islamic Republic Of
+</td>
+</tr>
+<tr><td align="left" >
+Lao People's Democratic Republic
+</td>
+</tr>
+<tr><td align="left" >
+Sint Maarten (Dutch part)
+</td>
+</tr>
+
+</table>
 
 
 [ [go back](../status.md) | [to top](#) ]

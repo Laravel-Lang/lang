@@ -6,9 +6,9 @@ use Helldar\PrettyArray\Services\File as PrettyFile;
 use Helldar\Support\Facades\Helpers\Filesystem\File;
 
 /** @mixin \LaravelLang\Lang\Processors\Processor */
-trait Excludeable
+trait Excludes
 {
-    protected array $excludes = [];
+    protected static array $excludes = [];
 
     protected function hasExclude(string $key, string $locale): bool
     {
@@ -21,10 +21,10 @@ trait Excludeable
 
         $path = $this->app->excludePath($locale);
 
-        if ($this->excludes[$locale] ?? false) {
-            return $this->excludes[$locale];
+        if (static::$excludes[$locale] ?? false) {
+            return static::$excludes[$locale];
         }
 
-        return $this->excludes[$locale] = File::exists($path) ? PrettyFile::make()->load($path) : [];
+        return static::$excludes[$locale] = File::exists($path) ? PrettyFile::make()->load($path) : [];
     }
 }

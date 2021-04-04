@@ -7,9 +7,10 @@ use Helldar\Support\Facades\Helpers\Filesystem\Directory;
 use Helldar\Support\Facades\Helpers\Filesystem\File;
 use Helldar\Support\Facades\Helpers\Str;
 use Helldar\Support\Facades\Tools\Sorter;
-use LaravelLang\Lang\Concerns\Excludeable;
+use LaravelLang\Lang\Concerns\Excludes;
 use LaravelLang\Lang\Concerns\Template;
 use LaravelLang\Lang\Contracts\Filesystem;
+use LaravelLang\Lang\Contracts\Stringable;
 use LaravelLang\Lang\Processors\Processor as BaseProcessor;
 use LaravelLang\Lang\Services\Filesystem\Base;
 use LaravelLang\Lang\Services\Filesystem\Json as JsonFilesystem;
@@ -17,7 +18,7 @@ use LaravelLang\Lang\Services\Filesystem\Php as PhpFilesystem;
 
 abstract class Processor extends BaseProcessor
 {
-    use Excludeable;
+    use Excludes;
     use Template;
 
     protected string $extension = '.md';
@@ -69,11 +70,9 @@ abstract class Processor extends BaseProcessor
         }
     }
 
-    protected function save(string $path, array|string $content): void
+    protected function save(string $path, Stringable $content): void
     {
-        $content = is_string($content) ? $content : implode(PHP_EOL, $content);
-
-        File::store($path, $content);
+        File::store($path, $content->toString());
     }
 
     protected function compare(array $source, array $target, string $locale, bool $is_validation): array
@@ -189,16 +188,6 @@ abstract class Processor extends BaseProcessor
     protected function isJson(string $filename): bool
     {
         return Str::endsWith($filename, '.json');
-    }
-
-    protected function link(?string $value): string
-    {
-        return empty($value) ? '' : sprintf('statuses/%s.md', Str::slug($value));
-    }
-
-    protected function replace(string $template, array $values, bool $return_empty = false): string
-    {
-        return $return_empty ? '' : Str::replace($template, $values, '{{%s}}');
     }
 
     protected function ensureDirectory(): void

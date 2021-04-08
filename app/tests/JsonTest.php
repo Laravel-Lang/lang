@@ -14,9 +14,11 @@ final class JsonTest extends TestCase
         $source = $this->source('en.json');
 
         foreach ($this->files() as $file) {
-            $target = $this->load($this->target_path . '/' . $file);
+            $path = $this->target_path . '/' . $file;
 
-            $this->assertSame(array_keys($source), array_keys($target));
+            $target = $this->load($path);
+
+            $this->assertSame(array_keys($source), array_keys($target), $this->messageForPath($path));
         }
     }
 

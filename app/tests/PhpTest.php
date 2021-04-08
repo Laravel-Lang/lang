@@ -9,66 +9,17 @@ final class PhpTest extends TestCase
 {
     protected string $target_path = __DIR__ . '/../../src';
 
-    public function testAuth(): void
+    protected array $files = ['auth.php', 'pagination.php', 'passwords.php', 'validation.php', 'validation-inline.php'];
+
+    public function testPhp(): void
     {
-        $filename = 'auth.php';
+        foreach ($this->files as $filename) {
+            $source = $this->source($filename);
 
-        $source = $this->source($filename);
+            foreach ($this->locales() as $locale) {
+                $path = $this->target_path . '/' . $locale . '/' . $filename;
 
-        foreach ($this->locales() as $locale) {
-            $target = $this->load($this->target_path . '/' . $locale . '/' . $filename);
-
-            $this->assertSame(array_keys($source), array_keys($target));
-        }
-    }
-
-    public function testPagination(): void
-    {
-        $filename = 'pagination.php';
-
-        $source = $this->source($filename);
-
-        foreach ($this->locales() as $locale) {
-            $target = $this->load($this->target_path . '/' . $locale . '/' . $filename);
-
-            $this->assertSame(array_keys($source), array_keys($target));
-        }
-    }
-
-    public function testPasswords(): void
-    {
-        $filename = 'passwords.php';
-
-        $source = $this->source($filename);
-
-        foreach ($this->locales() as $locale) {
-            $target = $this->load($this->target_path . '/' . $locale . '/' . $filename);
-
-            $this->assertSame(array_keys($source), array_keys($target));
-        }
-    }
-
-    public function testValidation(): void
-    {
-        $filename = 'validation.php';
-
-        $source = $this->source($filename);
-
-        foreach ($this->locales() as $locale) {
-            $target = $this->load($this->target_path . '/' . $locale . '/' . $filename);
-
-            $this->assertSame(array_keys($source), array_keys($target));
-        }
-    }
-
-    public function testValidationInline(): void
-    {
-        $filename = 'validation-inline.php';
-
-        $source = $this->source($filename);
-
-        foreach ($this->locales() as $locale) {
-            $target = $this->load($this->target_path . '/' . $locale . '/' . $filename);
+                $target = $this->load($path);
 
             $this->assertSame(array_keys($source), array_keys($target));
         }

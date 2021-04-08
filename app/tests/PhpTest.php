@@ -21,7 +21,12 @@ final class PhpTest extends TestCase
 
                 $target = $this->load($path);
 
-            $this->assertSame(array_keys($source), array_keys($target));
+                $this->assertSame(array_keys($source), array_keys($target), $this->messageForLocale($path, $locale));
+
+                if ($this->isInline($filename)) {
+                    $this->assertDoesntSee($path, ':attribute');
+                }
+            }
         }
     }
 

@@ -7,6 +7,7 @@ use Helldar\Support\Facades\Helpers\Arr;
 use Helldar\Support\Facades\Helpers\Str;
 use LaravelLang\Lang\Application;
 use LaravelLang\Lang\Contracts\Processable;
+use LaravelLang\Lang\Contracts\Stringable;
 
 abstract class Processor implements Processable
 {
@@ -98,7 +99,7 @@ abstract class Processor implements Processable
         return $this->app->getFilesystem()->load($path);
     }
 
-    protected function store(string $path, array $content): void
+    protected function store(string $path, array|string|Stringable $content): void
     {
         $this->app->getFilesystem()->store($path, $content);
     }

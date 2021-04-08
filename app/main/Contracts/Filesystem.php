@@ -10,5 +10,5 @@ interface Filesystem
 
     public function load(string $path): array;
 
-    public function store(string $path, array|string $content): void;
+    public function store(string $path, array|string|Stringable $content): void;
 }

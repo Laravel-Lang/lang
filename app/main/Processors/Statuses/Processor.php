@@ -10,7 +10,6 @@ use Helldar\Support\Facades\Tools\Sorter;
 use LaravelLang\Lang\Concerns\Excludes;
 use LaravelLang\Lang\Concerns\Template;
 use LaravelLang\Lang\Contracts\Filesystem;
-use LaravelLang\Lang\Contracts\Stringable;
 use LaravelLang\Lang\Processors\Processor as BaseProcessor;
 use LaravelLang\Lang\Services\Filesystem\Base;
 use LaravelLang\Lang\Services\Filesystem\Json as JsonFilesystem;
@@ -68,11 +67,6 @@ abstract class Processor extends BaseProcessor
         } else {
             $this->locales[$locale] = [];
         }
-    }
-
-    protected function save(string $path, Stringable $content): void
-    {
-        File::store($path, $content->toString());
     }
 
     protected function compare(array $source, array $target, string $locale, bool $is_validation): array

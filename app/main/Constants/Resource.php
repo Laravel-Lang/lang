@@ -8,6 +8,8 @@ final class Resource
 
     public const LOCALE = 'locale.stub';
 
+    public const REFERENTS = 'referents.stub';
+
     public const COMPONENT_ALL_TRANSLATED = 'components/translated.stub';
 
     public const COMPONENT_LINK = 'components/link.stub';

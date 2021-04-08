@@ -4,6 +4,7 @@ namespace LaravelLang\Lang\Services\Filesystem;
 
 use Helldar\PrettyArray\Services\File as Pretty;
 use Helldar\Support\Facades\Helpers\Arr;
+use LaravelLang\Lang\Contracts\Stringable;
 
 final class Json extends Base
 {
@@ -14,7 +15,7 @@ final class Json extends Base
         return json_decode($content, true);
     }
 
-    public function store(string $path, array|string $content): void
+    public function store(string $path, array|string|Stringable $content): void
     {
         Arr::storeAsJson($path, $content, false, JSON_UNESCAPED_UNICODE ^ JSON_PRETTY_PRINT);
     }

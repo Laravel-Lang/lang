@@ -11,7 +11,7 @@ class Main extends Processor
     {
         $result = $this->compileContent($this->locales);
 
-        $this->save('docs/status.md', $result);
+        $this->store('docs/status.md', $result);
     }
 
     protected function compileContent(array $items): Stringable

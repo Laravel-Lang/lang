@@ -21,7 +21,7 @@ final class Locales extends Processor
 
             $filename = Str::slug($locale);
 
-            $this->save($this->pathStatus($filename . '.md'), $result);
+            $this->store($this->pathStatus($filename . '.md'), $result);
         }
     }
 

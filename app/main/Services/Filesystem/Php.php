@@ -4,6 +4,7 @@ namespace LaravelLang\Lang\Services\Filesystem;
 
 use Helldar\PrettyArray\Services\File as Pretty;
 use Helldar\PrettyArray\Services\Formatter;
+use LaravelLang\Lang\Contracts\Stringable;
 
 final class Php extends Base
 {
@@ -12,7 +13,7 @@ final class Php extends Base
         return Pretty::make()->load($path);
     }
 
-    public function store(string $path, array|string $content): void
+    public function store(string $path, array|string|Stringable $content): void
     {
         $service = Formatter::make();
         $service->setEqualsAlign();

@@ -50,6 +50,7 @@
 | ne | |
 | nl | [@WhereIsLucas](https://github.com/WhereIsLucas) |
 | nn | |
+| oc | |
 | pl | |
 | ps | |
 | pt | [@jorgercosta](https://github.com/jorgercosta) |

@@ -58,6 +58,20 @@ jobs:
 
                     echo ::set-output name=is_dirty::${IS_DIRTY}
 
+            -   name: Checking for excludes
+                if: success()
+                run: php app/excludes.php
+
+            -   name: Commit files after checking for excludes
+                id: excludes
+                if: success()
+                run: |
+                    IS_DIRTY=1
+
+                    { git add . && git commit -a -m "Updating excludes files"; } || IS_DIRTY=0
+
+                    echo ::set-output name=is_dirty::${IS_DIRTY}
+
             -   name: Status update
                 if: success()
                 run: php app/status.php
@@ -74,6 +88,6 @@ jobs:
 
             -   name: Push changes
                 uses: ad-m/github-push-action@master
-                if: success() && (steps.commit_keys.outputs.is_dirty == 1 || steps.referents.outputs.is_dirty == 1 || steps.commit_status.outputs.is_dirty == 1)
+                if: success() && (steps.commit_keys.outputs.is_dirty == 1 || steps.referents.outputs.is_dirty == 1 || steps.excludes.outputs.is_dirty == 1 || steps.commit_status.outputs.is_dirty == 1)
                 with:
                     github_token: ${{ secrets.GITHUB_TOKEN }}

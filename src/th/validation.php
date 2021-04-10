@@ -1,5 +1,16 @@
 <?php
 
+/*
+|--------------------------------------------------------------------------
+| Validation Language Lines
+|--------------------------------------------------------------------------
+|
+| The following language lines contain the default error messages used by
+| the validator class. Some of these rules have multiple versions such
+| as the size rules. Feel free to tweak each of these messages here.
+|
+*/
+
 return [
     'accepted'             => 'ข้อมูล :attribute ต้องผ่านการยอมรับก่อน',
     'active_url'           => 'ข้อมูล :attribute ต้องเป็น URL เท่านั้น',

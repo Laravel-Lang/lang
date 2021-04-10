@@ -4,13 +4,19 @@ namespace LaravelLang\Lang\Processors;
 
 use Helldar\Support\Concerns\Makeable;
 use Helldar\Support\Facades\Helpers\Arr;
-use Helldar\Support\Facades\Helpers\Str;
+use Helldar\Support\Tools\Stub;
 use LaravelLang\Lang\Application;
+use LaravelLang\Lang\Concerns\Contains;
+use LaravelLang\Lang\Contracts\Filesystem;
 use LaravelLang\Lang\Contracts\Processable;
 use LaravelLang\Lang\Contracts\Stringable;
+use LaravelLang\Lang\Services\Filesystem\Base;
+use LaravelLang\Lang\Services\Filesystem\Json as JsonFilesystem;
+use LaravelLang\Lang\Services\Filesystem\Php as PhpFilesystem;
 
 abstract class Processor implements Processable
 {
+    use Contains;
     use Makeable;
 
     protected Application $app;
@@ -18,6 +24,9 @@ abstract class Processor implements Processable
     protected array $source = [];
 
     protected string $target_path;
+
+    /** @var \LaravelLang\Lang\Contracts\Filesystem[]|array */
+    protected array $filesystems = [];
 
     public function application(Application $app): Processable
     {
@@ -46,14 +55,14 @@ abstract class Processor implements Processable
         return array_merge($source, $target);
     }
 
-    protected function process(string $target_path, string $filename, string $locale): void
+    protected function process(string $target_path, string $filename, string $locale = null): void
     {
         $source = $this->source($filename);
         $target = $this->load($target_path);
 
         $content = $this->merge($source, $target, $filename);
 
-        $this->store($target_path, $content);
+        $this->store($target_path, $content, $filename);
     }
 
     protected function source(string $filename): array
@@ -84,11 +93,6 @@ abstract class Processor implements Processable
         return $this->app->sourcePath($filename);
     }
 
-    protected function isValidation(string $filename): bool
-    {
-        return Str::startsWith($filename, 'validation');
-    }
-
     protected function sort(array &$array): void
     {
         $array = Arr::ksort($array);
@@ -96,11 +100,39 @@ abstract class Processor implements Processable
 
     protected function load(string $path): array
     {
-        return $this->app->getFilesystem()->load($path);
+        return $this->getFilesystem($path)->load($path);
     }
 
-    protected function store(string $path, array|string|Stringable $content): void
+    protected function getFilesystem(string $filename): Filesystem
     {
-        $this->app->getFilesystem()->store($path, $content);
+        $class = $this->getFilesystemClass($filename);
+
+        if ($this->filesystems[$class] ?? false) {
+            return $this->filesystems[$class];
+        }
+
+        return $this->filesystems[$class] = $this->loadFilesystem($class);
+    }
+
+    protected function getFilesystemClass(string $path): string
+    {
+        return $this->isJson($path) ? JsonFilesystem::class : PhpFilesystem::class;
+    }
+
+    protected function loadFilesystem(Filesystem|Base|string $filesystem): Filesystem
+    {
+        return $filesystem::make()->application($this->app);
+    }
+
+    protected function store(string $path, array|string|Stringable $content, string $source_filename = null, bool $is_simple = false): void
+    {
+        $stub = $this->getStubPath($source_filename);
+
+        $this->app->getFilesystem()->store($path, $content, $is_simple, $stub);
+    }
+
+    protected function getStubPath(?string $filename): ?string
+    {
+        return empty($filename) ? Stub::PHP_ARRAY : $filename;
     }
 }

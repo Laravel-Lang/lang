@@ -2,6 +2,7 @@
 
 namespace LaravelLang\Lang\Contracts;
 
+use Helldar\Support\Tools\Stub;
 use LaravelLang\Lang\Application;
 
 interface Filesystem
@@ -10,5 +11,5 @@ interface Filesystem
 
     public function load(string $path): array;
 
-    public function store(string $path, array|string|Stringable $content): void;
+    public function store(string $path, array|string|Stringable $content, bool $is_simple = false, string $stub = Stub::PHP_ARRAY): void;
 }

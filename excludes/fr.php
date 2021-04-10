@@ -1,16 +1,16 @@
 <?php
 
-return [
-    /*
-    |--------------------------------------------------------------------------
-    | Exclusion list
-    |--------------------------------------------------------------------------
-    |
-    | This is a list of exclusions for words or phrases where the original
-    | form of the word has the same spelling in a given language.
-    |
-    */
+/*
+|--------------------------------------------------------------------------
+| Exclusion list
+|--------------------------------------------------------------------------
+|
+| This is a list of exclusions for words or phrases where the original
+| form of the word has the same spelling in a given language.
+|
+*/
 
+return [
     ':amount Total',
     'Action',
     'Actions',
@@ -25,7 +25,6 @@ return [
     'Burkina Faso',
     'Burundi',
     'Canada',
-    'Code',
     'Code',
     'Congo',
     'Costa Rica',

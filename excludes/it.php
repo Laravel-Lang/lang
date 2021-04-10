@@ -1,27 +1,16 @@
 <?php
 
+/*
+|--------------------------------------------------------------------------
+| Exclusion list
+|--------------------------------------------------------------------------
+|
+| This is a list of exclusions for words or phrases where the original
+| form of the word has the same spelling in a given language.
+|
+*/
+
 return [
-    /*
-    |--------------------------------------------------------------------------
-    | Exclusion list
-    |--------------------------------------------------------------------------
-    |
-    | This is a list of exclusions for words or phrases where the original
-    | form of the word has the same spelling in a given language.
-    |
-    */
-
-    'ID',
-    'Email',
-    'Oh no',
-    'Editor',
-    'Password',
-    'Dashboard',
-    'No',
-
-    /**
-     * Countries
-     */
     'Afghanistan',
     'Albania',
     'Algeria',
@@ -42,7 +31,6 @@ return [
     'Bhutan',
     'Bolivia',
     'Botswana',
-    'Brunei',
     'Bulgaria',
     'Burkina Faso',
     'Burundi',
@@ -52,9 +40,12 @@ return [
     'Congo',
     'Costa Rica',
     'Cuba',
+    'Dashboard',
     'Dominica',
     'Ecuador',
+    'Editor',
     'El Salvador',
+    'Email',
     'Eritrea',
     'Estonia',
     'Gabon',
@@ -70,6 +61,7 @@ return [
     'Haiti',
     'Honduras',
     'Hong Kong',
+    'ID',
     'India',
     'Indonesia',
     'Iran, Islamic Republic Of',
@@ -104,11 +96,14 @@ return [
     'Niger',
     'Nigeria',
     'Niue',
+    'No',
+    'Oh no',
     'Oman',
     'Pakistan',
     'Palau',
     'Panama',
     'Paraguay',
+    'Password',
     'Qatar',
     'Romania',
     'Samoa',
@@ -138,7 +133,6 @@ return [
     'Uzbekistan',
     'Vanuatu',
     'Venezuela',
-    'Vietnam',
     'Yemen',
     'Zambia',
     'Zimbabwe',

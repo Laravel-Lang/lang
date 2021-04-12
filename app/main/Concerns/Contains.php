@@ -6,7 +6,7 @@ trait Contains
 {
     protected function isJson(string $filename): bool
     {
-        return str_contains($filename, 'json');
+        return str_ends_with($filename, 'json');
     }
 
     protected function isPhp(string $filename): bool
@@ -16,6 +16,6 @@ trait Contains
 
     protected function isValidation(string $filename): bool
     {
-        return str_contains($filename, 'validation');
+        return str_starts_with($filename, 'validation');
     }
 }

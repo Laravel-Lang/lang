@@ -60,7 +60,7 @@ abstract class TestCase extends BaseTestCase
 
     protected function isValidation(string $filename): bool
     {
-        return str_contains($filename, 'validation');
+        return str_starts_with($filename, 'validation');
     }
 
     protected function isInline(string $filename): bool

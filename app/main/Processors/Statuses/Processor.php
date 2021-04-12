@@ -5,7 +5,6 @@ namespace LaravelLang\Lang\Processors\Statuses;
 use Helldar\Support\Facades\Helpers\Arr;
 use Helldar\Support\Facades\Helpers\Filesystem\Directory;
 use Helldar\Support\Facades\Helpers\Filesystem\File;
-use Helldar\Support\Facades\Helpers\Str;
 use Helldar\Support\Facades\Tools\Sorter;
 use LaravelLang\Lang\Concerns\Excludes;
 use LaravelLang\Lang\Concerns\Template;
@@ -90,11 +89,9 @@ abstract class Processor extends BaseProcessor
         return array_sum($items);
     }
 
-    protected function getLangPath(string $locale = null): string
+    protected function getLocalePath(string $locale = null): string
     {
-        $locale = $this->app->cleanPath($locale);
-
-        return $this->app->path('src/' . $locale);
+        return $this->app->localePath($locale);
     }
 
     protected function getFileBasename(string $filename): string
@@ -111,7 +108,7 @@ abstract class Processor extends BaseProcessor
 
     protected function locales(): array
     {
-        return Directory::names($this->getLangPath());
+        return Directory::names($this->getLocalePath());
     }
 
     protected function files(): array
@@ -122,12 +119,12 @@ abstract class Processor extends BaseProcessor
 
         $files = File::names($this->getSourcePath());
 
-        return $this->source_files = Arr::sort($files, static function (string $a, string $b) {
+        return $this->source_files = Arr::sort($files, function (string $a, string $b) {
             if ($a === $b) {
                 return 0;
             }
 
-            if (Str::endsWith($a, '.json')) {
+            if ($this->isJson($a)) {
                 return 1;
             }
 
@@ -139,9 +136,9 @@ abstract class Processor extends BaseProcessor
 
     protected function target(string $locale, string $filename): array
     {
-        $path = $this->isJson($filename)
-            ? $this->app->path('json/' . $filename)
-            : $this->app->path('src/' . $locale . '/' . $filename);
+        $corrected = $this->getCorrectedFilename($filename, $locale);
+
+        $path = $this->getLocalePath($locale . '/' . $corrected);
 
         return $this->load($path);
     }

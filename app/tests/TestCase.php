@@ -12,9 +12,9 @@ abstract class TestCase extends BaseTestCase
 {
     use Messages;
 
-    protected string $source_path = __DIR__ . '/../../script/en';
+    protected string $source_path = __DIR__ . '/../../source';
 
-    protected string $target_path;
+    protected string $target_path = __DIR__ . '/../../locales';
 
     protected function source(string $filename): array
     {

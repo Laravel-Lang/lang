@@ -10,11 +10,13 @@ interface Application
 
     public function sourcePath(string $filename = null): string;
 
-    public function path(string $path = null): string;
+    public function localePath(string $locale = null): string;
 
     public function excludePath(string $locale): string;
 
     public function resourcePath(string $filename): string;
+
+    public function path(string $path = null): string;
 
     public function cleanPath(string $path = null): ?string;
 

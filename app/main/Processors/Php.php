@@ -7,7 +7,7 @@ use Helldar\Support\Facades\Helpers\Filesystem\File;
 
 final class Php extends Processor
 {
-    protected string $target_path = 'src';
+    protected string $target_path = 'locales';
 
     public function run(): void
     {
@@ -22,7 +22,7 @@ final class Php extends Processor
 
     protected function files(string $locale): array
     {
-        return File::names($this->getTargetPath($locale));
+        return File::names($this->getTargetPath($locale), fn ($filename) => $this->isPhp($filename));
     }
 
     protected function locales(): array

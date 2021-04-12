@@ -14,7 +14,7 @@ class Referents extends Processor
 {
     use Template;
 
-    protected string $target_path = 'src';
+    protected string $target_path = 'locales';
 
     public function run(): void
     {

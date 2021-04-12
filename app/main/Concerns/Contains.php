@@ -8,11 +8,16 @@ trait Contains
 {
     protected function isJson(string $filename): bool
     {
-        return Str::endsWith($filename, '.json');
+        return Str::contains($filename, 'json');
+    }
+
+    protected function isPhp(string $filename): bool
+    {
+        return ! $this->isJson($filename);
     }
 
     protected function isValidation(string $filename): bool
     {
-        return Str::startsWith($filename, 'validation');
+        return Str::contains($filename, 'validation');
     }
 }

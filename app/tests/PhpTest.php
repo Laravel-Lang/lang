@@ -9,8 +9,6 @@ use Helldar\Support\Facades\Helpers\Str;
 
 final class PhpTest extends TestCase
 {
-    protected string $target_path = __DIR__ . '/../../src';
-
     public function testPhp(): void
     {
         foreach ($this->files() as $filename) {

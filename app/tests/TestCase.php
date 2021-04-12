@@ -4,7 +4,6 @@ namespace Tests;
 
 use Helldar\PrettyArray\Services\File;
 use Helldar\Support\Facades\Helpers\Arr;
-use Helldar\Support\Facades\Helpers\Str;
 use PHPUnit\Framework\TestCase as BaseTestCase;
 use Tests\Concerns\Messages;
 
@@ -61,7 +60,7 @@ abstract class TestCase extends BaseTestCase
 
     protected function isValidation(string $filename): bool
     {
-        return Str::startsWith($filename, 'validation');
+        return str_contains($filename, 'validation');
     }
 
     protected function isInline(string $filename): bool

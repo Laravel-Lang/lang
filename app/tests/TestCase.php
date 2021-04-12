@@ -39,7 +39,7 @@ abstract class TestCase extends BaseTestCase
         $file = File::make()->loadRaw($path);
 
         $this->assertTrue(
-            Str::contains($file, $content),
+            str_contains($file, $content),
             $this->messageAssertSee($path, $content)
         );
     }
@@ -49,7 +49,7 @@ abstract class TestCase extends BaseTestCase
         $file = File::make()->loadRaw($path);
 
         $this->assertFalse(
-            Str::contains($file, $content),
+            str_contains($file, $content),
             $this->messageAssertDoesntSee($path, $content)
         );
     }
@@ -66,6 +66,6 @@ abstract class TestCase extends BaseTestCase
 
     protected function isInline(string $filename): bool
     {
-        return Str::contains($filename, 'inline');
+        return str_contains($filename, 'inline');
     }
 }

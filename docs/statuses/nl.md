@@ -2,12 +2,12 @@
 
 # nl
 
-##### All missed: 396
+##### All missed: 312
 
 
 ### json
 
-##### Missing: 396
+##### Missing: 312
 
 <table >
 <tr><td align="left" >
@@ -19,31 +19,7 @@
 </td>
 </tr>
 <tr><td align="left" >
-Action Happened At
-</td>
-</tr>
-<tr><td align="left" >
-Action Initiated By
-</td>
-</tr>
-<tr><td align="left" >
-Action Name
-</td>
-</tr>
-<tr><td align="left" >
 Action Status
-</td>
-</tr>
-<tr><td align="left" >
-Action Target
-</td>
-</tr>
-<tr><td align="left" >
-Actions
-</td>
-</tr>
-<tr><td align="left" >
-Add row
 </td>
 </tr>
 <tr><td align="left" >
@@ -52,14 +28,6 @@ Afghanistan
 </tr>
 <tr><td align="left" >
 Aland Islands
-</td>
-</tr>
-<tr><td align="left" >
-Albania
-</td>
-</tr>
-<tr><td align="left" >
-Algeria
 </td>
 </tr>
 <tr><td align="left" >
@@ -200,10 +168,6 @@ Barbados
 </tr>
 <tr><td align="left" >
 Belarus
-</td>
-</tr>
-<tr><td align="left" >
-Belgium
 </td>
 </tr>
 <tr><td align="left" >
@@ -388,10 +352,6 @@ Create & Add Another
 </tr>
 <tr><td align="left" >
 Create :resource
-</td>
-</tr>
-<tr><td align="left" >
-Croatia
 </td>
 </tr>
 <tr><td align="left" >
@@ -807,14 +767,6 @@ Liechtenstein
 </td>
 </tr>
 <tr><td align="left" >
-Lithuania
-</td>
-</tr>
-<tr><td align="left" >
-Load :perPage More
-</td>
-</tr>
-<tr><td align="left" >
 Macao
 </td>
 </tr>
@@ -864,10 +816,6 @@ Mauritania
 </tr>
 <tr><td align="left" >
 Mauritius
-</td>
-</tr>
-<tr><td align="left" >
-May
 </td>
 </tr>
 <tr><td align="left" >
@@ -931,27 +879,7 @@ Nepal
 </td>
 </tr>
 <tr><td align="left" >
-Netherlands
-</td>
-</tr>
-<tr><td align="left" >
-New
-</td>
-</tr>
-<tr><td align="left" >
-New :resource
-</td>
-</tr>
-<tr><td align="left" >
 New Caledonia
-</td>
-</tr>
-<tr><td align="left" >
-New Zealand
-</td>
-</tr>
-<tr><td align="left" >
-Next
 </td>
 </tr>
 <tr><td align="left" >
@@ -968,30 +896,6 @@ Nigeria
 </tr>
 <tr><td align="left" >
 Niue
-</td>
-</tr>
-<tr><td align="left" >
-No
-</td>
-</tr>
-<tr><td align="left" >
-No :resource matched the given criteria.
-</td>
-</tr>
-<tr><td align="left" >
-No additional information...
-</td>
-</tr>
-<tr><td align="left" >
-No Current Data
-</td>
-</tr>
-<tr><td align="left" >
-No Data
-</td>
-</tr>
-<tr><td align="left" >
-no file selected
 </td>
 </tr>
 <tr><td align="left" >
@@ -1015,14 +919,6 @@ Northern Mariana Islands
 </td>
 </tr>
 <tr><td align="left" >
-Norway
-</td>
-</tr>
-<tr><td align="left" >
-Nova User
-</td>
-</tr>
-<tr><td align="left" >
 November
 </td>
 </tr>
@@ -1032,14 +928,6 @@ October
 </tr>
 <tr><td align="left" >
 Oman
-</td>
-</tr>
-<tr><td align="left" >
-Only Trashed
-</td>
-</tr>
-<tr><td align="left" >
-Original
 </td>
 </tr>
 <tr><td align="left" >
@@ -1083,27 +971,11 @@ Please enter your password to confirm you would like to log out of your other br
 </td>
 </tr>
 <tr><td align="left" >
-Please provide your name.
-</td>
-</tr>
-<tr><td align="left" >
 Poland
 </td>
 </tr>
 <tr><td align="left" >
 Portugal
-</td>
-</tr>
-<tr><td align="left" >
-Press / to search
-</td>
-</tr>
-<tr><td align="left" >
-Preview
-</td>
-</tr>
-<tr><td align="left" >
-Previous
 </td>
 </tr>
 <tr><td align="left" >
@@ -1127,39 +999,7 @@ Reset Filters
 </td>
 </tr>
 <tr><td align="left" >
-resource
-</td>
-</tr>
-<tr><td align="left" >
-Resources
-</td>
-</tr>
-<tr><td align="left" >
-resources
-</td>
-</tr>
-<tr><td align="left" >
-Restore
-</td>
-</tr>
-<tr><td align="left" >
-Restore Resource
-</td>
-</tr>
-<tr><td align="left" >
-Restore Selected
-</td>
-</tr>
-<tr><td align="left" >
 Reunion
-</td>
-</tr>
-<tr><td align="left" >
-Romania
-</td>
-</tr>
-<tr><td align="left" >
-Run Action
 </td>
 </tr>
 <tr><td align="left" >
@@ -1211,26 +1051,6 @@ Sao Tome And Principe
 </td>
 </tr>
 <tr><td align="left" >
-Saudi Arabia
-</td>
-</tr>
-<tr><td align="left" >
-Search
-</td>
-</tr>
-<tr><td align="left" >
-Select Action
-</td>
-</tr>
-<tr><td align="left" >
-Select All
-</td>
-</tr>
-<tr><td align="left" >
-Select All Matching
-</td>
-</tr>
-<tr><td align="left" >
 Senegal
 </td>
 </tr>
@@ -1239,19 +1059,7 @@ September
 </td>
 </tr>
 <tr><td align="left" >
-Serbia
-</td>
-</tr>
-<tr><td align="left" >
 Seychelles
-</td>
-</tr>
-<tr><td align="left" >
-Show All Fields
-</td>
-</tr>
-<tr><td align="left" >
-Show Content
 </td>
 </tr>
 <tr><td align="left" >
@@ -1267,39 +1075,7 @@ Sint Maarten (Dutch part)
 </td>
 </tr>
 <tr><td align="left" >
-Slovakia
-</td>
-</tr>
-<tr><td align="left" >
-Slovenia
-</td>
-</tr>
-<tr><td align="left" >
-Solomon Islands
-</td>
-</tr>
-<tr><td align="left" >
-Somalia
-</td>
-</tr>
-<tr><td align="left" >
-Something went wrong.
-</td>
-</tr>
-<tr><td align="left" >
-Sorry! You are not authorized to perform this action.
-</td>
-</tr>
-<tr><td align="left" >
-South Africa
-</td>
-</tr>
-<tr><td align="left" >
 South Georgia And Sandwich Isl.
-</td>
-</tr>
-<tr><td align="left" >
-South Sudan
 </td>
 </tr>
 <tr><td align="left" >
@@ -1319,27 +1095,11 @@ Stop Polling
 </td>
 </tr>
 <tr><td align="left" >
-Sudan
-</td>
-</tr>
-<tr><td align="left" >
 Suriname
 </td>
 </tr>
 <tr><td align="left" >
 Svalbard And Jan Mayen
-</td>
-</tr>
-<tr><td align="left" >
-Sweden
-</td>
-</tr>
-<tr><td align="left" >
-Switzerland
-</td>
-</tr>
-<tr><td align="left" >
-Syrian Arab Republic
 </td>
 </tr>
 <tr><td align="left" >
@@ -1451,23 +1211,7 @@ Tonga
 </td>
 </tr>
 <tr><td align="left" >
-Trinidad And Tobago
-</td>
-</tr>
-<tr><td align="left" >
-Tunisia
-</td>
-</tr>
-<tr><td align="left" >
-Turkey
-</td>
-</tr>
-<tr><td align="left" >
 Turkmenistan
-</td>
-</tr>
-<tr><td align="left" >
-Turks And Caicos Islands
 </td>
 </tr>
 <tr><td align="left" >
@@ -1475,59 +1219,11 @@ Tuvalu
 </td>
 </tr>
 <tr><td align="left" >
-Uganda
-</td>
-</tr>
-<tr><td align="left" >
-Ukraine
-</td>
-</tr>
-<tr><td align="left" >
-United Arab Emirates
-</td>
-</tr>
-<tr><td align="left" >
-United Kingdom
-</td>
-</tr>
-<tr><td align="left" >
-United States
-</td>
-</tr>
-<tr><td align="left" >
 United States Outlying Islands
 </td>
 </tr>
 <tr><td align="left" >
-Update
-</td>
-</tr>
-<tr><td align="left" >
-Update & Continue Editing
-</td>
-</tr>
-<tr><td align="left" >
-Update :resource
-</td>
-</tr>
-<tr><td align="left" >
-Update :resource: :title
-</td>
-</tr>
-<tr><td align="left" >
-Update attached :resource: :title
-</td>
-</tr>
-<tr><td align="left" >
 Uruguay
-</td>
-</tr>
-<tr><td align="left" >
-Uzbekistan
-</td>
-</tr>
-<tr><td align="left" >
-Value
 </td>
 </tr>
 <tr><td align="left" >
@@ -1536,10 +1232,6 @@ Vanuatu
 </tr>
 <tr><td align="left" >
 Venezuela
-</td>
-</tr>
-<tr><td align="left" >
-View
 </td>
 </tr>
 <tr><td align="left" >
@@ -1555,35 +1247,7 @@ Wallis And Futuna
 </td>
 </tr>
 <tr><td align="left" >
-We're lost in space. The page you were trying to view does not exist.
-</td>
-</tr>
-<tr><td align="left" >
-Welcome Back!
-</td>
-</tr>
-<tr><td align="left" >
-Western Sahara
-</td>
-</tr>
-<tr><td align="left" >
-With Trashed
-</td>
-</tr>
-<tr><td align="left" >
-Write
-</td>
-</tr>
-<tr><td align="left" >
 Year To Date
-</td>
-</tr>
-<tr><td align="left" >
-Yemen
-</td>
-</tr>
-<tr><td align="left" >
-Yes
 </td>
 </tr>
 <tr><td align="left" >

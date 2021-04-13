@@ -13,6 +13,6 @@
 
 return [
     'failed'   => 'Rossz email-jelszó páros.',
-    'password' => 'The provided password is incorrect.',
+    'password' => 'A megadott jelszó helytelen.',
     'throttle' => 'Túl sok próbálkozás. Kérjük próbálja újra :seconds másodperc múlva.',
 ];

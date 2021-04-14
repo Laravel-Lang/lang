@@ -30,7 +30,7 @@ In the file *config/app.php*, change the value of *locale* by the short name of 
 
 Please see [contributing](contributing-to-dev.md) page for details.
 
-## Projects based on this package
+## Translation managers
 
 * [LaravelLang](https://github.com/ARCANEDEV/LaravelLang) by [*@arcanedev-maroc*](https://github.com/ARCANEDEV) - Translations manager and checker for Laravel.
 * [Laravel-lang](https://github.com/overtrue/laravel-lang) by [*@overtrue*](https://github.com/overtrue) - Command to add languages in your project.

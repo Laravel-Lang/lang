@@ -16,7 +16,7 @@ In this repository, you can find the lang files for the [Laravel Framework 4/5/6
 * in version 7, we propose new directory names to follow ISO-15897 ( see #1269 )
 * in version 8, we propose new directory names to follow Php Intl ( see #1453 )
 
-## Projects based on this package
+## Translation managers
 
 * [LaravelLang](https://github.com/ARCANEDEV/LaravelLang) by [*@arcanedev-maroc*](https://github.com/ARCANEDEV) - Translations manager and checker for Laravel.
 * [Laravel-lang](https://github.com/overtrue/laravel-lang) by [*@overtrue*](https://github.com/overtrue) - Command to add languages in your project.

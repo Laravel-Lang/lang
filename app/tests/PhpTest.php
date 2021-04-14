@@ -5,12 +5,9 @@ namespace Tests;
 use Helldar\PrettyArray\Services\File as Pretty;
 use Helldar\Support\Facades\Helpers\Filesystem\Directory;
 use Helldar\Support\Facades\Helpers\Filesystem\File;
-use Helldar\Support\Facades\Helpers\Str;
 
 final class PhpTest extends TestCase
 {
-    protected string $target_path = __DIR__ . '/../../src';
-
     public function testPhp(): void
     {
         foreach ($this->files() as $filename) {
@@ -32,7 +29,7 @@ final class PhpTest extends TestCase
 
     protected function files(): array
     {
-        return File::names($this->source_path, static fn ($filename) => Str::endsWith($filename, '.php'));
+        return File::names($this->source_path, static fn ($filename) => str_ends_with($filename, '.php'));
     }
 
     protected function locales(): array

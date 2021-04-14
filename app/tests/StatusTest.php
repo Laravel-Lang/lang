@@ -7,7 +7,7 @@ use Helldar\Support\Facades\Helpers\Str;
 
 final class StatusTest extends TestCase
 {
-    protected string $target_path = __DIR__ . '/../../src';
+    protected string $target_path = __DIR__ . '/../../locales';
 
     protected string $status = __DIR__ . '/../../docs/status.md';
 

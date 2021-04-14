@@ -3,18 +3,16 @@
 namespace Tests;
 
 use Helldar\PrettyArray\Services\File as Pretty;
-use Helldar\Support\Facades\Helpers\Filesystem\File;
+use Helldar\Support\Facades\Helpers\Filesystem\Directory;
 
 final class JsonTest extends TestCase
 {
-    protected string $target_path = __DIR__ . '/../../json';
-
     public function testJson(): void
     {
         $source = $this->source('en.json');
 
-        foreach ($this->files() as $file) {
-            $path = $this->target_path . '/' . $file;
+        foreach ($this->files() as $locale) {
+            $path = $this->target_path . '/' . $locale . '/' . $locale . '.json';
 
             $target = $this->load($path);
 
@@ -24,7 +22,7 @@ final class JsonTest extends TestCase
 
     protected function files(): array
     {
-        return File::names($this->target_path);
+        return Directory::names($this->target_path);
     }
 
     protected function load(string $path): array

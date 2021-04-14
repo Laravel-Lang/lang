@@ -25,7 +25,22 @@ final class Application implements ApplicationContract
 
     public function sourcePath(string $filename = null): string
     {
-        return $this->path('script/en/' . $this->cleanPath($filename));
+        return $this->path('source/' . $this->cleanPath($filename));
+    }
+
+    public function localePath(string $locale = null): string
+    {
+        return $this->path('locales/' . $this->cleanPath($locale));
+    }
+
+    public function excludePath(string $locale): string
+    {
+        return $this->path('excludes/' . $this->cleanPath($locale) . '.php');
+    }
+
+    public function resourcePath(string $filename): string
+    {
+        return $this->path('app/resources/' . $this->cleanPath($filename));
     }
 
     public function path(string $path = null): string
@@ -35,16 +50,6 @@ final class Application implements ApplicationContract
         }
 
         return $this->basePath();
-    }
-
-    public function excludePath(string $locale): string
-    {
-        return $this->path('excludes/' . $locale . '.php');
-    }
-
-    public function resourcePath(string $filename): string
-    {
-        return $this->path('app/resources/' . $filename);
     }
 
     public function cleanPath(string $path = null): ?string

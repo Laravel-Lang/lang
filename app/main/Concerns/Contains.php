@@ -2,17 +2,20 @@
 
 namespace LaravelLang\Lang\Concerns;
 
-use Helldar\Support\Facades\Helpers\Str;
-
 trait Contains
 {
     protected function isJson(string $filename): bool
     {
-        return Str::endsWith($filename, '.json');
+        return str_ends_with($filename, 'json');
+    }
+
+    protected function isPhp(string $filename): bool
+    {
+        return ! $this->isJson($filename);
     }
 
     protected function isValidation(string $filename): bool
     {
-        return Str::startsWith($filename, 'validation');
+        return str_starts_with($filename, 'validation');
     }
 }

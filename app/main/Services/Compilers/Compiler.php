@@ -3,13 +3,14 @@
 namespace LaravelLang\Lang\Services\Compilers;
 
 use Helldar\Support\Concerns\Makeable;
-use Helldar\Support\Facades\Helpers\Str;
+use LaravelLang\Lang\Concerns\Contains;
 use LaravelLang\Lang\Concerns\Template;
 use LaravelLang\Lang\Contracts\Application;
 use LaravelLang\Lang\Contracts\Stringable;
 
 abstract class Compiler implements Stringable
 {
+    use Contains;
     use Makeable;
     use Template;
 
@@ -25,10 +26,5 @@ abstract class Compiler implements Stringable
         $this->items = $items;
 
         return $this;
-    }
-
-    protected function isJson(string $filename): bool
-    {
-        return Str::contains($filename, 'json');
     }
 }

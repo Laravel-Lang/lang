@@ -7,6 +7,15 @@ All notable changes to this project will be documented in this file, since v7.0.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres
 to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [9.0.0] - 2021-04-14
+
+New structure of files:
+
+ * `source/` - stores php and json source files
+ * `locales/{locale}` - stores php and json files with translations.
+
+For more information, see #1606 and #1607.
+
 ## [8.1.3] - 2021-04-14
 
 ### Changed
@@ -303,7 +312,8 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 * feature: #1269 Rename locale folders following ISO 15897 format
 
-[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/8.1.3...master
+[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/9.0.0...master
+[9.0.0]: https://github.com/caouecs/Laravel-lang/compare/8.1.3...9.0.0
 [8.1.3]: https://github.com/caouecs/Laravel-lang/compare/8.1.2...8.1.3
 [8.1.2]: https://github.com/caouecs/Laravel-lang/compare/8.1.1...8.1.2
 [8.1.1]: https://github.com/caouecs/Laravel-lang/compare/8.1.0...8.1.1

@@ -7,6 +7,25 @@ All notable changes to this project will be documented in this file, since v7.0.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres
 to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [8.1.3] - 2021-04-14
+
+### Changed
+
+ * feature: [hu] #1609 auth.php
+ * feature: [nl] #1603 #1610 validation.php validation-inline.php json file
+
+### Documentation
+
+ * feature: #1599 contributing to dev
+ * feature: #1601 referents
+ * feature: #1614 readme
+
+### Todo script
+
+ * feature: #1600 Added validation for the `:attribute` string in the `validation-inline.php` files
+ * feature: #1602 Added auto-update `docs/referents.md` file
+ * feature: #1604 Added check of exclusion files for keys relevance
+
 ## [8.1.2] - 2021-04-07
 
 ### Changed
@@ -284,7 +303,8 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 * feature: #1269 Rename locale folders following ISO 15897 format
 
-[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/8.1.2...master
+[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/8.1.3...master
+[8.1.3]: https://github.com/caouecs/Laravel-lang/compare/8.1.2...8.1.3
 [8.1.2]: https://github.com/caouecs/Laravel-lang/compare/8.1.1...8.1.2
 [8.1.1]: https://github.com/caouecs/Laravel-lang/compare/8.1.0...8.1.1
 [8.1.0]: https://github.com/caouecs/Laravel-lang/compare/8.0.3...8.1.0

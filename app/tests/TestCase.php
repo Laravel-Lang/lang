@@ -43,14 +43,18 @@ abstract class TestCase extends BaseTestCase
         );
     }
 
-    protected function assertDoesntSee(string $path, string $content): void
+    protected function assertDoesntSee(string $path, string|array $content): void
     {
         $file = File::make()->loadRaw($path);
 
-        $this->assertFalse(
-            str_contains($file, $content),
-            $this->messageAssertDoesntSee($path, $content)
-        );
+        $values = Arr::wrap($content);
+
+        foreach ($values as $value) {
+            $this->assertFalse(
+                str_contains($file, $value),
+                $this->messageAssertDoesntSee($path, $value)
+            );
+        }
     }
 
     protected function sort(array &$array): void

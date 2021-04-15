@@ -16,6 +16,8 @@ class Main extends Processor
 
     protected function compileContent(array $items): Stringable
     {
-        return Status::make($this->app)->items($items);
+        return Status::make($this->app)
+            ->extend($this->getCounts())
+            ->items($items);
     }
 }

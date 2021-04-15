@@ -2,6 +2,6 @@
 
 # Completion status
 
-> Translation of localizations is completed by **{{status}}%** ({{count_translated}} / {{count_all}}).
+> Translation of localizations is completed by **{{count_diff_percents}}%** ({{count_diff}} / {{count_all}}).
 
 {{content}}

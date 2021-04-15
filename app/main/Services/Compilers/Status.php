@@ -12,13 +12,7 @@ class Status extends Compiler
 
     public function toString(): string
     {
-        $count_all        = $this->countAll();
-        $count_translated = $this->countTranslated();
-
-        $content = $this->compileContent();
-        $status  = $this->compileStatus($count_all, $count_translated);
-
-        return $this->template(Resource::STATUS, compact('content', 'status', 'count_all', 'count_translated'));
+        return $this->template(Resource::STATUS, $this->getContent());
     }
 
     protected function grouped(): array
@@ -64,23 +58,6 @@ class Status extends Compiler
             ->toString();
     }
 
-    protected function compileStatus(int $all, int $translated): int
-    {
-        return round(($translated / $all) * 100);
-    }
-
-    protected function countAll(): int
-    {
-        return count($this->items);
-    }
-
-    protected function countTranslated(): int
-    {
-        $filtered = array_filter($this->items, static fn ($value) => empty($value));
-
-        return count($filtered);
-    }
-
     /**
      * @param  \LaravelLang\Lang\Models\Locale[]|array  $items
      *
@@ -98,6 +75,13 @@ class Status extends Compiler
         }
 
         return $row;
+    }
+
+    protected function getContent(): array
+    {
+        $content = $this->compileContent();
+
+        return array_merge(compact('content'), $this->extend);
     }
 
     protected function link(?string $value): string

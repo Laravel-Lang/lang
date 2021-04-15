@@ -16,6 +16,8 @@ abstract class Compiler implements Stringable
 
     protected array $items;
 
+    protected array $extend = [];
+
     public function __construct(
         protected Application $app
     ) {
@@ -24,6 +26,13 @@ abstract class Compiler implements Stringable
     public function items(array $items): self
     {
         $this->items = $items;
+
+        return $this;
+    }
+
+    public function extend(array $values): self
+    {
+        $this->extend = $values;
 
         return $this;
     }

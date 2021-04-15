@@ -262,6 +262,7 @@ return [
     'Virgin Islands, U.S.',
     'Wallis And Futuna',
     'Western Sahara',
+    'Whoops',
     'Yemen',
     'Zambia',
     'Zimbabwe',

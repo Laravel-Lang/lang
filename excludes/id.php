@@ -152,5 +152,5 @@ return [
     'Vanuatu',
     'Venezuela',
     'Zambia',
-    'Zimbabwe'
+    'Zimbabwe',
 ];

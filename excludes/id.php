@@ -118,7 +118,6 @@ return [
     'September',
     'Seychelles',
     'Sierra Leone',
-    'Sint Maarten',
     'Slovenia',
     'Somalia',
     'Sri Lanka',
@@ -142,5 +141,5 @@ return [
     'Vanuatu',
     'Venezuela',
     'Zambia',
-    'Zimbabwe'
+    'Zimbabwe',
 ];

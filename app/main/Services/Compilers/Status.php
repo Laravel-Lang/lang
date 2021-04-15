@@ -12,10 +12,13 @@ class Status extends Compiler
 
     public function toString(): string
     {
-        $content = $this->compileContent();
-        $status  = $this->compileStatus();
+        $count_all        = $this->countAll();
+        $count_translated = $this->countTranslated();
 
-        return $this->template(Resource::STATUS, compact('content', 'status'));
+        $content = $this->compileContent();
+        $status  = $this->compileStatus($count_all, $count_translated);
+
+        return $this->template(Resource::STATUS, compact('content', 'status', 'count_all', 'count_translated'));
     }
 
     protected function grouped(): array
@@ -61,13 +64,21 @@ class Status extends Compiler
             ->toString();
     }
 
-    protected function compileStatus(): int
+    protected function compileStatus(int $all, int $translated): int
     {
-        $all = count($this->items);
-
-        $translated = count(array_filter($this->items, static fn ($value) => empty($value)));
-
         return round(($translated / $all) * 100);
+    }
+
+    protected function countAll(): int
+    {
+        return count($this->items);
+    }
+
+    protected function countTranslated(): int
+    {
+        $filtered = array_filter($this->items, static fn ($value) => empty($value));
+
+        return count($filtered);
     }
 
     /**

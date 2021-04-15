@@ -2,6 +2,8 @@
 
 # Completion status
 
+> Translation of localizations is completed by **6%**.
+
 <table width="100%">
 <tr><td align="center" width="13%">
 

@@ -13,8 +13,9 @@ class Status extends Compiler
     public function toString(): string
     {
         $content = $this->compileContent();
+        $status  = $this->compileStatus();
 
-        return $this->template(Resource::STATUS, compact('content'));
+        return $this->template(Resource::STATUS, compact('content', 'status'));
     }
 
     protected function grouped(): array
@@ -58,6 +59,15 @@ class Status extends Compiler
             ->align('center')
             ->columns($this->columns)
             ->toString();
+    }
+
+    protected function compileStatus(): int
+    {
+        $all = count($this->items);
+
+        $translated = count(array_filter($this->items, static fn ($value) => empty($value)));
+
+        return round(($translated / $all) * 100);
     }
 
     /**

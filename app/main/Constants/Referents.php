@@ -32,6 +32,8 @@ class Referents
 
     public const uk = ['MrAlKuz'];
 
+    public const vi = ['dinhquochan'];
+
     public const zh_CN = ['overtrue'];
 
     public const zh_HK = ['overtrue'];

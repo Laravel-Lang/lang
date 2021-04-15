@@ -9,7 +9,7 @@ return [
     'alpha_dash'           => 'Ovo polje može sadržati samo slova, brojeve i povlake.',
     'alpha_num'            => 'Ovo polje može sadržati samo slova i brojeve.',
     'array'                => 'Ovo polje mora sadržati nekih niz stavki.',
-    'attached'             => 'Ovaj :attribute je već priložen.',
+    'attached'             => 'Ovo je već priloženo.',
     'before'               => 'Ovo mora biti datum pre :date.',
     'before_or_equal'      => 'Ovo mora biti :date ili raniji datum.',
     'between'              => [

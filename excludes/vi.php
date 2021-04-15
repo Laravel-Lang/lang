@@ -13,7 +13,6 @@
 return [
     'Administrator',
     'Afghanistan',
-    'Åland Islands',
     'Albania',
     'Algeria',
     'American Samoa',

@@ -2,20 +2,20 @@
 
 namespace LaravelLang\Lang;
 
+use Dotenv\Dotenv;
 use Helldar\Support\Concerns\Makeable;
 use LaravelLang\Lang\Contracts\Application as ApplicationContract;
-use LaravelLang\Lang\Contracts\Filesystem;
 use LaravelLang\Lang\Contracts\Processable;
+use LaravelLang\Lang\Facades\Env;
 
 final class Application implements ApplicationContract
 {
     use Makeable;
 
-    protected Filesystem $filesystem;
-
     public function __construct(
         protected string $base_path
     ) {
+        $this->createDotenv()->safeLoad();
     }
 
     public function basePath(): string
@@ -61,22 +61,27 @@ final class Application implements ApplicationContract
         return null;
     }
 
-    public function filesystem(Filesystem $filesystem): ApplicationContract
+    public function processor(Processable $processor): void
     {
-        $this->filesystem = $filesystem->application($this);
-
-        return $this;
-    }
-
-    public function getFilesystem(): Filesystem
-    {
-        return $this->filesystem;
-    }
-
-    public function processor(Processable $processor, Filesystem $filesystem): void
-    {
-        $this->filesystem($filesystem);
-
         $processor->application($this)->run();
+    }
+
+    protected function createDotenv(): Dotenv
+    {
+        return Dotenv::create(
+            Env::getRepository(),
+            $this->environmentPath(),
+            $this->environmentFile()
+        );
+    }
+
+    protected function environmentPath(): string
+    {
+        return $this->path('app');
+    }
+
+    protected function environmentFile(): string
+    {
+        return '.env';
     }
 }

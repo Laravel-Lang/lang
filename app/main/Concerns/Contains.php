@@ -9,6 +9,11 @@ trait Contains
         return str_ends_with($filename, 'json');
     }
 
+    protected function isMarkdown(string $filename): bool
+    {
+        return str_ends_with($filename, 'md');
+    }
+
     protected function isPhp(string $filename): bool
     {
         return ! $this->isJson($filename);

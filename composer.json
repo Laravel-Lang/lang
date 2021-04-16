@@ -24,15 +24,20 @@
     "require-dev": {
         "php": "^8.0",
         "andrey-helldar/pretty-array": "^2.3",
-        "andrey-helldar/support": "^3.4",
+        "andrey-helldar/support": "^3.6",
+        "guzzlehttp/guzzle": "^7.3",
         "phpunit/phpunit": "^9.5",
-        "symfony/var-dumper": "^5.2"
+        "symfony/var-dumper": "^5.2",
+        "vlucas/phpdotenv": "^5.3"
     },
     "autoload-dev": {
         "psr-4": {
             "LaravelLang\\Lang\\": "app/main",
             "Tests\\": "app/tests"
-        }
+        },
+        "files": [
+            "app/main/helpers.php"
+        ]
     },
     "config": {
         "preferred-install": "dist",

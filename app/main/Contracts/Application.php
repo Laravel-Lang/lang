@@ -20,9 +20,5 @@ interface Application
 
     public function cleanPath(string $path = null): ?string;
 
-    public function filesystem(Filesystem $filesystem): self;
-
-    public function getFilesystem(): Filesystem;
-
-    public function processor(Processable $processor, Filesystem $filesystem): void;
+    public function processor(Processable $processor): void;
 }

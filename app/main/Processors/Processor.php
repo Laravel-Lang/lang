@@ -13,6 +13,7 @@ use LaravelLang\Lang\Contracts\Processable;
 use LaravelLang\Lang\Contracts\Stringable;
 use LaravelLang\Lang\Services\Filesystem\Base;
 use LaravelLang\Lang\Services\Filesystem\Json as JsonFilesystem;
+use LaravelLang\Lang\Services\Filesystem\Markdown as MarkdownFilesystem;
 use LaravelLang\Lang\Services\Filesystem\Php as PhpFilesystem;
 
 abstract class Processor implements Processable
@@ -122,7 +123,11 @@ abstract class Processor implements Processable
 
     protected function getFilesystemClass(string $path): string
     {
-        return $this->isJson($path) ? JsonFilesystem::class : PhpFilesystem::class;
+        return match (true) {
+            $this->isJson($path) => JsonFilesystem::class,
+            $this->isMarkdown($path) => MarkdownFilesystem::class,
+            default => PhpFilesystem::class,
+        };
     }
 
     protected function loadFilesystem(Filesystem|Base|string $filesystem): Filesystem
@@ -134,7 +139,7 @@ abstract class Processor implements Processable
     {
         $stub = $this->getStubPath($source_filename);
 
-        $this->app->getFilesystem()->store($path, $content, $is_simple, $stub);
+        $this->getFilesystem($path)->store($path, $content, $is_simple, $stub);
     }
 
     protected function getStubPath(?string $filename): ?string

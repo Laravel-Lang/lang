@@ -13,6 +13,8 @@ final class Translator extends Processor
     {
         foreach ($this->locales as $locale => $items) {
             foreach ($items as $filename => $values) {
+                dump(sprintf('[%s] %s...', $locale, $filename));
+
                 $filename = $this->restoreFilename($locale, $filename);
 
                 $this->translateKeys($locale, $filename, $values);

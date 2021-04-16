@@ -7,6 +7,24 @@ All notable changes to this project will be documented in this file, since v7.0.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres
 to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [Unreleased]
+
+### Changed
+
+ * feature: [de] #1622 #1623 validation.php validation-inline.php json file
+ * feature: [id] #1616 validation.php validation-inline.php json file
+ * feature: [ko] #1608 validation.php validation-inline.php json file
+ * feature: [vi] #1617 #1624 validation.php validation-inline.php json file
+
+### Documentation
+
+ * feature: #1618 readme
+
+### Todo script
+
+ * feature: #1619 Added check for ":Attribute" when running tests
+ * feature: #1620 Adding a percentage of translations
+
 ## [9.0.0] - 2021-04-14
 
 New structure of files:

@@ -12,9 +12,7 @@ class Status extends Compiler
 
     public function toString(): string
     {
-        $content = $this->compileContent();
-
-        return $this->template(Resource::STATUS, compact('content'));
+        return $this->template(Resource::STATUS, $this->getContent());
     }
 
     protected function grouped(): array
@@ -77,6 +75,13 @@ class Status extends Compiler
         }
 
         return $row;
+    }
+
+    protected function getContent(): array
+    {
+        $content = $this->compileContent();
+
+        return array_merge(compact('content'), $this->extend);
     }
 
     protected function link(?string $value): string

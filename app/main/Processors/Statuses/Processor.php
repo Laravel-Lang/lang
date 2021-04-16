@@ -6,12 +6,14 @@ use Helldar\Support\Facades\Helpers\Arr;
 use Helldar\Support\Facades\Helpers\Filesystem\Directory;
 use Helldar\Support\Facades\Helpers\Filesystem\File;
 use Helldar\Support\Facades\Tools\Sorter;
+use LaravelLang\Lang\Concerns\Countable;
 use LaravelLang\Lang\Concerns\Excludes;
 use LaravelLang\Lang\Concerns\Template;
 use LaravelLang\Lang\Processors\Processor as BaseProcessor;
 
 abstract class Processor extends BaseProcessor
 {
+    use Countable;
     use Excludes;
     use Template;
 
@@ -52,10 +54,14 @@ abstract class Processor extends BaseProcessor
 
         $is_validation = $this->isValidation($filename);
 
+        $this->addCount($source);
+
         if ($diff = $this->compare($source, $target, $locale, $is_validation)) {
             $key = $this->getFileBasename($corrected);
 
             $this->locales[$locale][$key] = $diff;
+
+            $this->addCount($diff, 'diff');
         } else {
             $this->locales[$locale] = [];
         }

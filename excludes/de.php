@@ -62,7 +62,6 @@ return [
     'Kiribati',
     'Kosovo',
     'Kuwait',
-    'Lens',
     'Lesotho',
     'Liberia',
     'Liechtenstein',

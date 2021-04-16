@@ -2,6 +2,7 @@
 
 namespace LaravelLang\Lang\Concerns;
 
+use Helldar\Support\Facades\Helpers\Digit;
 use Helldar\Support\Facades\Helpers\Str;
 use LaravelLang\Lang\Services\Counter;
 
@@ -99,6 +100,6 @@ trait Countable
 
     protected function countFormat(int $count): string
     {
-        return number_format($count, thousands_separator: '\'');
+        return Digit::toShort($count);
     }
 }

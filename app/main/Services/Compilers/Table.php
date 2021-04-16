@@ -4,7 +4,7 @@ namespace LaravelLang\Lang\Services\Compilers;
 
 use LaravelLang\Lang\Constants\Resource;
 
-class Table extends Compiler
+final class Table extends Compiler
 {
     protected string $align = 'left';
 

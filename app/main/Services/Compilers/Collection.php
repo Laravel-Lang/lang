@@ -4,7 +4,7 @@ namespace LaravelLang\Lang\Services\Compilers;
 
 use LaravelLang\Lang\Constants\Resource;
 
-class Collection extends Compiler
+final class Collection extends Compiler
 {
     public function toString(): string
     {

@@ -2,8 +2,6 @@
 
 namespace LaravelLang\Lang\Processors;
 
-use Helldar\Support\Facades\Helpers\Filesystem\Directory;
-
 final class Json extends Processor
 {
     protected string $target_path = 'locales';
@@ -15,10 +13,5 @@ final class Json extends Processor
 
             $this->process($target_path, 'en.json', $locale);
         }
-    }
-
-    protected function locales(): array
-    {
-        return Directory::names($this->getTargetPath());
     }
 }

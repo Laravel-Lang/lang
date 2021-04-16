@@ -10,7 +10,7 @@ use LaravelLang\Lang\Services\Compilers\Referents as Compilator;
 use ReflectionClass;
 use ReflectionClassConstant;
 
-class Referents extends Processor
+final class Referents extends Processor
 {
     use Template;
 

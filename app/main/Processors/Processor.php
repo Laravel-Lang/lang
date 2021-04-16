@@ -4,6 +4,7 @@ namespace LaravelLang\Lang\Processors;
 
 use Helldar\Support\Concerns\Makeable;
 use Helldar\Support\Facades\Helpers\Arr;
+use Helldar\Support\Facades\Helpers\Filesystem\Directory;
 use Helldar\Support\Tools\Stub;
 use LaravelLang\Lang\Application;
 use LaravelLang\Lang\Concerns\Contains;
@@ -101,6 +102,11 @@ abstract class Processor implements Processable
     protected function load(string $path): array
     {
         return $this->getFilesystem($path)->load($path);
+    }
+
+    protected function locales(): array
+    {
+        return Directory::names($this->getTargetPath());
     }
 
     protected function getFilesystem(string $filename): Filesystem

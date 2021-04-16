@@ -2,7 +2,6 @@
 
 namespace LaravelLang\Lang\Processors\Statuses;
 
-use Helldar\Support\Facades\Helpers\Str;
 use LaravelLang\Lang\Facades\Translate;
 use Throwable;
 
@@ -92,9 +91,9 @@ final class Translator extends Processor
         return str_replace(array_keys($items), array_values($items), $text);
     }
 
-    protected function getRandomValue(array $items): string
+    protected function getRandomValue(array $items): int
     {
-        $random = Str::upper(Str::random(4));
+        $random = random_int(1000, 9999);
 
         return in_array($random, $items, true) ? $this->getRandomValue($items) : $random;
     }

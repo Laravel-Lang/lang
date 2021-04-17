@@ -7,8 +7,6 @@ use Throwable;
 
 final class Translator extends Processor
 {
-    protected bool $break = false;
-
     protected function saving(): void
     {
         foreach ($this->locales as $locale => $items) {
@@ -18,10 +16,6 @@ final class Translator extends Processor
                 $filename = $this->restoreFilename($locale, $filename);
 
                 $this->translateKeys($locale, $filename, $values);
-
-                if ($this->break) {
-                    return;
-                }
             }
         }
     }
@@ -34,8 +28,6 @@ final class Translator extends Processor
             }
         }
         catch (Throwable $e) {
-            $this->break = true;
-
             dump($e->getMessage());
         }
         finally {

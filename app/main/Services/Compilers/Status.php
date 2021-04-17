@@ -6,7 +6,7 @@ use Helldar\Support\Facades\Helpers\Str;
 use LaravelLang\Lang\Constants\Resource;
 use LaravelLang\Lang\Models\Locale;
 
-class Status extends Compiler
+final class Status extends Compiler
 {
     protected int $columns = 8;
 

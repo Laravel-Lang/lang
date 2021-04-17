@@ -5,7 +5,7 @@ namespace LaravelLang\Lang\Processors;
 use Helldar\Support\Facades\Helpers\Arr;
 use Helldar\Support\Facades\Helpers\Filesystem\File;
 
-class Excludes extends Processor
+final class Excludes extends Processor
 {
     protected string $target_path = 'excludes';
 

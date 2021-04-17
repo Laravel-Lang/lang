@@ -2,8 +2,6 @@
 
 use LaravelLang\Lang\Application;
 
-$app = Application::make(
+return Application::make(
     realpath(__DIR__ . '/../../')
 );
-
-return $app;

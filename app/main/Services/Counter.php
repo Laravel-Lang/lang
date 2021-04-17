@@ -4,7 +4,7 @@ namespace LaravelLang\Lang\Services;
 
 use Helldar\Support\Concerns\Makeable;
 
-class Counter
+final class Counter
 {
     use Makeable;
 

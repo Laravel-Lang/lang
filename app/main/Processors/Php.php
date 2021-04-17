@@ -2,7 +2,6 @@
 
 namespace LaravelLang\Lang\Processors;
 
-use Helldar\Support\Facades\Helpers\Filesystem\Directory;
 use Helldar\Support\Facades\Helpers\Filesystem\File;
 
 final class Php extends Processor
@@ -23,10 +22,5 @@ final class Php extends Processor
     protected function files(string $locale): array
     {
         return File::names($this->getTargetPath($locale), fn ($filename) => $this->isPhp($filename));
-    }
-
-    protected function locales(): array
-    {
-        return Directory::names($this->getTargetPath());
     }
 }

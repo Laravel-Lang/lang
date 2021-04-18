@@ -11,10 +11,19 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ### Changed
 
+ * feature: [az] #1694 validation.php
  * feature: [de] #1622 #1623 validation.php validation-inline.php json file
- * feature: [id] #1616 validation.php validation-inline.php json file
+ * feature: [de] #1696 validation.php validation-inline.php json file
+ * feature: [de_CH] #1695 validation.php validation-inline.php json file
+ * feature: [fa] #1693 json file
+ * feature: [id] #1616 #1621 validation.php validation-inline.php json file
  * feature: [ko] #1608 validation.php validation-inline.php json file
+ * feature: [ko] #1636 json file
+ * feature: [pt] #1646 validation.php validation-inline.php json file
  * feature: [vi] #1617 #1624 validation.php validation-inline.php json file
+ * feature: [zh_CN] #1666 validation.php validation-inline.php json file
+ * feature: [zh_HK] #1667 validation.php validation-inline.php json file
+ * feature: [zh_TW] #1668 validation.php validation-inline.php json file
 
 ### Documentation
 
@@ -24,6 +33,9 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
  * feature: #1619 Added check for ":Attribute" when running tests
  * feature: #1620 Adding a percentage of translations
+ * feature: #1625 Added processors for translating localizations
+ * feature: #1629 Removed duplicate call line
+ * feature: #1691 Added a script for creating commits separated by localizations
 
 ## [9.0.0] - 2021-04-14
 
@@ -201,18 +213,18 @@ For more information, see #1606 and #1607.
 
 ### Changed
 
-* feature: #1383 #1411 [fr] json file
-* feature: #1385 [el] json file
-* feature: #1387 #1388 #1392 [ms] validation.php validation-inline.php passwords.php
-* feature: #1390 #1398 [ar] json file
-* feature: #1393 #1397 [ru] json file
-* feature: #1393 #1394 [en] add tags
-* feature: #1394 [es] json file
-* feature: #1395 [pl] json file
-* feature: #1400 [lt] json file
-* feature: #1402 #1413 [it] validation-inline.php auth.php passwords.php json file
-* feature: #1404 [pt] json file
-* feature: #1412 [de] json file
+* feature: [ar] #1390 #1398 json file
+* feature: [de] #1412 json file
+* feature: [el] #1385 json file
+* feature: [en] #1393 #1394 add tags
+* feature: [es] #1394 json file
+* feature: [fr] #1383 #1411 json file
+* feature: [it] #1402 #1413 validation-inline.php auth.php passwords.php json file
+* feature: [lt] #1400 json file
+* feature: [ms] #1387 #1388 #1392 validation.php validation-inline.php passwords.php
+* feature: [pl] #1395 json file
+* feature: [pt] #1404 json file
+* feature: [ru] #1393 #1397 json file
 
 ### Documentation
 
@@ -231,11 +243,11 @@ For more information, see #1606 and #1607.
 
 ### Changed
 
-* feature: #1375 [pt_BR] json file
-* feature: #1379 [hr] passwords.php
-* feature: #1380 [ms] validation.php
-* feature: #1381 [id] json file
-* feature: #1382 [tr] json file
+* feature: [hr] #1379 passwords.php
+* feature: [id] #1381 json file
+* feature: [ms] #1380 validation.php
+* feature: [pt_BR] #1375 json file
+* feature: [tr] #1382 json file
 
 ### Todo script
 
@@ -245,74 +257,72 @@ For more information, see #1606 and #1607.
 
 ### Changed
 
-* feature: #1339 #1369 [ar] json file
-* feature: #1352 [uz_*] validation auth password
-* feature: #1356 #1362 #1368 [ru] json file
-* feature: #1358 #1374 [pt] json file
-* feature: #1360 #1367 #1373 [pl] json file
-* feature: #1361 #1371 [es] json file
-* feature: #1361 #1368 [en] json file
-* feature: #1363 [sr_*] json file
-* feature: #1370 [de] json file
+* feature: [ar] #1339 #1369 json file
+* feature: [de] #1370 json file
+* feature: [en] #1361 #1368 json file
+* feature: [es] #1361 #1371 json file
 * feature: [fr] json file
+* feature: [pl] #1360 #1367 #1373 json file
+* feature: [pt] #1358 #1374 json file
+* feature: [ru] #1356 #1362 #1368 json file
+* feature: [sr_*] #1363 json file
+* feature: [uz_*] #1352 validation auth password
 
 ## [7.0.5] - 2020-09-23
 
 ### Changed
 
-* feature: #1327 #1328 [tr] validation.php
-* feature: #1330 [nl] json file
-* feature: #1331 [nl] validation-inline.php
-* feature: #1332 [hu] validation.php
 * feature: #1333 Laravel 8 support
 * feature: #1335 #1354 Add support for Laravel JetStream
-* feature: #1341 [es] json files
-* feature: #1341 #1346 [en] json files
-* feature: #1342 [pt] json files
-* feature: #1345 [it] json files
-* feature: #1346 [ru] json files
-* feature: #1351 [pl] json files
+* feature: [en] #1341 #1346 json files
+* feature: [es] #1341 json files
+* feature: [hu] #1332 validation.php
+* feature: [it] #1345 json files
+* feature: [nl] #1330 #1331 json file validation-inline.php
+* feature: [pl] #1351 json files
+* feature: [pt] #1342 json files
+* feature: [ru] #1346 json files
+* feature: [tr] #1327 #1328 validation.php
 
 ## [7.0.4] - 2020-09-11
 
 ### Changed
 
+* feature: [es] #1317 json file
+* feature: [fa] #1318 validation.password
+* feature: [id] #1323 #1324 json and validation-inline
+* feature: [ko] #1326 validation-inline
+* feature: [lt] #1320 validation-inline and validation
+* feature: [sr_*] #1316 validation-inline file
 * feature: new organization
-* feature: #1316 [sr_*] validation-inline file
-* feature: #1317 [es] json file
-* feature: #1318 [fa] validation.password
-* feature: #1320 [lt] validation-inline and validation
-* feature: #1323 #1324 [id] json and validation-inline
-* feature: #1326 [ko] validation-inline
 
 ## [7.0.3] - 2020-08-23
 
 ### Changed
 
-* feature: #1302 #1306 #1307 [Ne] Translated to Nepali Language (Validation-inline and json)
-* feature: #1310 [da] passwords.throttlled
-* feature: #1312 [es] validation and validation-inline
-* feature: #1313 [sq] validation-inline and validation translations
+* feature: [da] #1310 passwords.throttlled
+* feature: [es] #1312 validation and validation-inline
+* feature: [ne] #1302 #1306 #1307 Translated to Nepali Language (Validation-inline and json)
+* feature: [sq] #1313 validation-inline and validation translations
 
 ## [7.0.2] - 2020-08-05
 
 ### Added
 
 * Changelog file
-* # 1293 [da] Add json
 
 ### Changed
 
-* feature: #1290 [pl] Translate validation-inline; tweak some validation translations
-* feature: #1291 [pt_BR] Update validation-inline
-* feature: #1292 [es] Update json
 * feature: #1294 Update readme
-* feature: #1295 [pt] Update json, validation-inline, validation and passwords
-* feature: #1297 [sq] Update auth, passwords and validation
-* feature: #1298 [si] Update passwords
-* feature: #1299 [zh_*] Update json and validation-inline
-* feature: #1300 [uk] validation-inline
-* feature: #1301 [uk] json
+* feature: [da] #1293 Add json
+* feature: [es] #1292 Update json
+* feature: [pl] #1290 Translate validation-inline; tweak some validation translations
+* feature: [pt] #1295 Update json, validation-inline, validation and passwords
+* feature: [pt_BR] #1291 Update validation-inline
+* feature: [si] #1298 Update passwords
+* feature: [sq] #1297 Update auth, passwords and validation
+* feature: [uk] #1300 #1301 validation-inline json file
+* feature: [zh_*] #1299 Update json and validation-inline
 
 ## [7.0.1] - 2020-07-14
 

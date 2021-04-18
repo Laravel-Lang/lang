@@ -186,7 +186,7 @@
 </td>
 <td align="center" width="13%">
 
-[ko&nbsp;❗](statuses/ko.md)
+[ko&nbsp;✔](statuses/ko.md)
 
 </td>
 <td align="center" width="13%">

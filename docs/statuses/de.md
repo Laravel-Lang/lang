@@ -2,12 +2,12 @@
 
 # de
 
-##### All missed: 15
+##### All missed: 11
 
 
 ### json
 
-##### Missing: 15
+##### Missing: 11
 
 <table >
 <tr><td align="left" >
@@ -39,18 +39,6 @@ Lao People's Democratic Republic
 </td>
 </tr>
 <tr><td align="left" >
-Lens
-</td>
-</tr>
-<tr><td align="left" >
-Macedonia
-</td>
-</tr>
-<tr><td align="left" >
-Reunion
-</td>
-</tr>
-<tr><td align="left" >
 Saint Helena
 </td>
 </tr>
@@ -64,10 +52,6 @@ Saint Martin
 </tr>
 <tr><td align="left" >
 Sint Maarten (Dutch part)
-</td>
-</tr>
-<tr><td align="left" >
-United States Outlying Islands
 </td>
 </tr>
 

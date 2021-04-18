@@ -20,7 +20,7 @@ return [
     'alpha_dash'           => 'Este campo pode conter apenas letras, números, traços e o caractere de sublinhado.',
     'alpha_num'            => 'Este campo pode conter apenas letras e números',
     'array'                => 'Este campo deve ser uma matriz.',
-    'attached'             => 'Este campo já está ligado.',
+    'attached'             => 'Este campo já está anexado.',
     'before'               => 'Esta deve ser uma data anterior a :date.',
     'before_or_equal'      => 'Esta deve ser uma data anterior ou igual a :date.',
     'between'              => [

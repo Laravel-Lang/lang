@@ -2,7 +2,7 @@
 
 # fa
 
-##### All missed: 447
+##### All missed: 408
 
 
 ### validation-inline
@@ -99,21 +99,9 @@ This :attribute may not be associated with this resource.
 
 ### json
 
-##### Missing: 437
+##### Missing: 398
 
 <table >
-<tr><td align="left" >
-30 Days
-</td>
-</tr>
-<tr><td align="left" >
-60 Days
-</td>
-</tr>
-<tr><td align="left" >
-90 Days
-</td>
-</tr>
 <tr><td align="left" >
 :amount Total
 </td>
@@ -143,26 +131,6 @@ Action Initiated By
 </td>
 </tr>
 <tr><td align="left" >
-Action Name
-</td>
-</tr>
-<tr><td align="left" >
-Action Status
-</td>
-</tr>
-<tr><td align="left" >
-Action Target
-</td>
-</tr>
-<tr><td align="left" >
-Actions
-</td>
-</tr>
-<tr><td align="left" >
-Add row
-</td>
-</tr>
-<tr><td align="left" >
 Afghanistan
 </td>
 </tr>
@@ -176,10 +144,6 @@ Albania
 </tr>
 <tr><td align="left" >
 Algeria
-</td>
-</tr>
-<tr><td align="left" >
-All resources loaded.
 </td>
 </tr>
 <tr><td align="left" >
@@ -523,10 +487,6 @@ Croatia
 </td>
 </tr>
 <tr><td align="left" >
-Cuba
-</td>
-</tr>
-<tr><td align="left" >
 Curaçao
 </td>
 </tr>
@@ -599,23 +559,7 @@ Dominican Republic
 </td>
 </tr>
 <tr><td align="left" >
-Download
-</td>
-</tr>
-<tr><td align="left" >
 Ecuador
-</td>
-</tr>
-<tr><td align="left" >
-Edit
-</td>
-</tr>
-<tr><td align="left" >
-Edit :resource
-</td>
-</tr>
-<tr><td align="left" >
-Edit Attached
 </td>
 </tr>
 <tr><td align="left" >
@@ -624,10 +568,6 @@ Egypt
 </tr>
 <tr><td align="left" >
 El Salvador
-</td>
-</tr>
-<tr><td align="left" >
-Email Address
 </td>
 </tr>
 <tr><td align="left" >
@@ -675,14 +615,6 @@ Finland
 </td>
 </tr>
 <tr><td align="left" >
-Force Delete
-</td>
-</tr>
-<tr><td align="left" >
-Force Delete Resource
-</td>
-</tr>
-<tr><td align="left" >
 Force Delete Selected
 </td>
 </tr>
@@ -700,10 +632,6 @@ French Polynesia
 </tr>
 <tr><td align="left" >
 French Southern Territories
-</td>
-</tr>
-<tr><td align="left" >
-Full name
 </td>
 </tr>
 <tr><td align="left" >
@@ -728,10 +656,6 @@ Ghana
 </tr>
 <tr><td align="left" >
 Gibraltar
-</td>
-</tr>
-<tr><td align="left" >
-Go back
 </td>
 </tr>
 <tr><td align="left" >
@@ -815,10 +739,6 @@ Iceland
 </td>
 </tr>
 <tr><td align="left" >
-ID
-</td>
-</tr>
-<tr><td align="left" >
 If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
 </td>
 </tr>
@@ -851,10 +771,6 @@ Iran, Islamic Republic Of
 </td>
 </tr>
 <tr><td align="left" >
-Iraq
-</td>
-</tr>
-<tr><td align="left" >
 Ireland
 </td>
 </tr>
@@ -876,10 +792,6 @@ Jamaica
 </tr>
 <tr><td align="left" >
 January
-</td>
-</tr>
-<tr><td align="left" >
-Japan
 </td>
 </tr>
 <tr><td align="left" >
@@ -972,22 +884,6 @@ Lithuania
 </tr>
 <tr><td align="left" >
 Load :perPage More
-</td>
-</tr>
-<tr><td align="left" >
-Log in
-</td>
-</tr>
-<tr><td align="left" >
-Log out
-</td>
-</tr>
-<tr><td align="left" >
-Log Out
-</td>
-</tr>
-<tr><td align="left" >
-Log Out Other Browser Sessions
 </td>
 </tr>
 <tr><td align="left" >
@@ -1119,23 +1015,11 @@ Netherlands
 </td>
 </tr>
 <tr><td align="left" >
-New
-</td>
-</tr>
-<tr><td align="left" >
-New :resource
-</td>
-</tr>
-<tr><td align="left" >
 New Caledonia
 </td>
 </tr>
 <tr><td align="left" >
 New Zealand
-</td>
-</tr>
-<tr><td align="left" >
-Next
 </td>
 </tr>
 <tr><td align="left" >
@@ -1343,18 +1227,6 @@ Reset Filters
 </td>
 </tr>
 <tr><td align="left" >
-resource
-</td>
-</tr>
-<tr><td align="left" >
-Resources
-</td>
-</tr>
-<tr><td align="left" >
-resources
-</td>
-</tr>
-<tr><td align="left" >
 Restore
 </td>
 </tr>
@@ -1372,10 +1244,6 @@ Reunion
 </tr>
 <tr><td align="left" >
 Romania
-</td>
-</tr>
-<tr><td align="left" >
-Run Action
 </td>
 </tr>
 <tr><td align="left" >
@@ -1747,19 +1615,7 @@ United States Outlying Islands
 </td>
 </tr>
 <tr><td align="left" >
-Update
-</td>
-</tr>
-<tr><td align="left" >
 Update & Continue Editing
-</td>
-</tr>
-<tr><td align="left" >
-Update :resource
-</td>
-</tr>
-<tr><td align="left" >
-Update :resource: :title
 </td>
 </tr>
 <tr><td align="left" >
@@ -1807,15 +1663,7 @@ We're lost in space. The page you were trying to view does not exist.
 </td>
 </tr>
 <tr><td align="left" >
-Welcome Back!
-</td>
-</tr>
-<tr><td align="left" >
 Western Sahara
-</td>
-</tr>
-<tr><td align="left" >
-Whoops
 </td>
 </tr>
 <tr><td align="left" >
@@ -1832,10 +1680,6 @@ Year To Date
 </tr>
 <tr><td align="left" >
 Yemen
-</td>
-</tr>
-<tr><td align="left" >
-Yes
 </td>
 </tr>
 <tr><td align="left" >

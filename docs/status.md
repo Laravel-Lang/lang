@@ -386,17 +386,17 @@
 </td>
 <td align="center" width="13%">
 
-[zh_CN&nbsp;❗](statuses/zh-cn.md)
+[zh_CN&nbsp;✔](statuses/zh-cn.md)
 
 </td>
 <td align="center" width="13%">
 
-[zh_HK&nbsp;❗](statuses/zh-hk.md)
+[zh_HK&nbsp;✔](statuses/zh-hk.md)
 
 </td>
 <td align="center" width="13%">
 
-[zh_TW&nbsp;❗](statuses/zh-tw.md)
+[zh_TW&nbsp;✔](statuses/zh-tw.md)
 
 </td>
 <td align="center" width="13%">

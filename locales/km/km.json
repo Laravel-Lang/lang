@@ -508,7 +508,7 @@
     "The :attribute must be at least :length characters and contain at least one special character and one number.": ":attribute ត្រូវតែមានយ៉ាងហោ :length តួអក្សរនិងមានយ៉ាងហោចណាស់លេខមួយ និងអក្សរពិសេសមួយ។",
     "The :attribute must be at least :length characters and contain at least one special character.": ":attribute ត្រូវតែមានយ៉ាងហោច :length តួអក្សរនិងមានយ៉ាងហោចណាស់មួយអក្សរពិសេស។",
     "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": ":attribute ត្រូវតែមានយ៉ាងហោច :length តួអក្សរនិងមានយ៉ាងហោចណាស់អក្សរធំមួយ និងលេខមួយ។",
-    "The :attribute must be at least :: characters and contain at least one uppercase character and one special character.": ":attribute ត្រូវតែមានយ៉ាងហោច :length តួអក្សរនិងមានយ៉ាងហោចណាស់អក្សរធំមួយ និងអក្សរពិសេសមួយ។",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.",
     "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "attribute ត្រូវតែមានយ៉ាងហោច :length តួអក្សរនិងមានយ៉ាងហោចណាស់អក្សរធំមួយ លេខមួយ និងអក្សរពិសេសមួយ។",
     "The :attribute must be at least :length characters and contain at least one uppercase character.": ":attribute ត្រូវតែមានយ៉ាងហោច :length តួអក្សរនិងមានយ៉ាងហោចណាស់អក្សរធំមួយ។",
     "The :attribute must be at least :length characters.": ":attribute ត្រូវតែមានយ៉ាងហោច :length តួអក្សរ។",

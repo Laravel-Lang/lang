@@ -58,7 +58,7 @@ return [
     ],
     'image'                => 'Bu bir resim olmalıdır.',
     'in'                   => 'Seçili değer geçersiz.',
-    'in_array'             => 'Bu değer :other yok.',
+    'in_array'             => 'Bu değer :other ögelerinin arasında yok.',
     'integer'              => 'Bu bir tam sayı olmalıdır.',
     'ip'                   => 'Bu geçerli bir IP adresi olmalıdır.',
     'ipv4'                 => 'Bu geçerli bir IPv4 adresi olmalıdır.',

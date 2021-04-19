@@ -123,8 +123,8 @@ return [
     'url'                  => 'Bu biçim geçersiz.',
     'uuid'                 => 'Bu geçerli bir UUID olmalıdır.',
     'custom'               => [
-        'attribute-name' => [
-            'rule-name' => 'ozel-mesaj',
+        'niteleyici-adi' => [
+            'kural-adi' => 'Özel doğrulama mesajı',
         ],
     ],
     'attributes'           => [],

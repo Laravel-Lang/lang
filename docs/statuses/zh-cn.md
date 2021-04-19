@@ -2,18 +2,14 @@
 
 # zh_CN
 
-##### All missed: 2
+##### All missed: 1
 
 
 ### json
 
-##### Missing: 2
+##### Missing: 1
 
 <table >
-<tr><td align="left" >
-ID
-</td>
-</tr>
 <tr><td align="left" >
 Qatar
 </td>

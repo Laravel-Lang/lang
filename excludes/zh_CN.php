@@ -14,4 +14,5 @@ return [
     'API Token',
     'API Tokens',
     'Email',
+    'ID',
 ];

@@ -20,7 +20,7 @@ return [
     'alpha_dash'           => 'Hierdie veld mag slegs letters, syfers, strepies en onderstrepe bevat.',
     'alpha_num'            => 'Hierdie veld mag slegs letters en syfers bevat.',
     'array'                => 'Hierdie veld moet \'n array wees.',
-    'attached'             => 'Hierdie gebied is reeds aangeheg.',
+    'attached'             => 'Hierdie veld is reeds aangeheg.',
     'before'               => 'Dit moet \'n datum voor :date wees.',
     'before_or_equal'      => 'Dit moet \'n datum gelyk of voor :date wees.',
     'between'              => [

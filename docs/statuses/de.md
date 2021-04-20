@@ -2,22 +2,14 @@
 
 # de
 
-##### All missed: 11
+##### All missed: 10
 
 
 ### json
 
-##### Missing: 11
+##### Missing: 10
 
 <table >
-<tr><td align="left" >
-:resource Details
-</td>
-</tr>
-<tr><td align="left" >
-:resource Details: :title
-</td>
-</tr>
 <tr><td align="left" >
 Action Name
 </td>
@@ -36,6 +28,10 @@ Isle Of Man
 </tr>
 <tr><td align="left" >
 Lao People's Democratic Republic
+</td>
+</tr>
+<tr><td align="left" >
+Reunion
 </td>
 </tr>
 <tr><td align="left" >

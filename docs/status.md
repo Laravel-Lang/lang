@@ -63,7 +63,7 @@
 </td>
 <td align="center" width="13%">
 
-[de&nbsp;❗](statuses/de.md)
+[de&nbsp;✔](statuses/de.md)
 
 </td>
 <td align="center" width="13%">

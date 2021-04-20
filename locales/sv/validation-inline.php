@@ -118,7 +118,7 @@ return [
     'starts_with'          => 'Detta måste börja med något av följande: :values.',
     'string'               => 'Detta måste vara en sträng.',
     'timezone'             => 'Detta måste vara en giltig zon.',
-    'unique'               => 'Detta har redan tagits.',
+    'unique'               => 'Detta har redan använts.',
     'uploaded'             => 'Det gick inte att ladda upp.',
     'url'                  => 'Detta format är ogiltigt.',
     'uuid'                 => 'Detta måste vara en giltig UUID.',

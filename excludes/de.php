@@ -11,6 +11,8 @@
 */
 
 return [
+    ':resource Details',
+    ':resource Details: :title',
     'Administrator',
     'Afghanistan',
     'Andorra',
@@ -56,12 +58,14 @@ return [
     'Haiti',
     'Honduras',
     'ID',
+    'Isle of Man',
     'Israel',
     'Japan',
     'Jersey',
     'Kiribati',
     'Kosovo',
     'Kuwait',
+    'Lens',
     'Lesotho',
     'Liberia',
     'Liechtenstein',

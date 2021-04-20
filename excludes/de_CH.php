@@ -58,7 +58,6 @@ return [
     'Haiti',
     'Honduras',
     'ID',
-    'Isle of Man',
     'Israel',
     'Japan',
     'Jersey',

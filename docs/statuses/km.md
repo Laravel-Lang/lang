@@ -2,40 +2,24 @@
 
 # km
 
-##### All missed: 7
+##### All missed: 3
 
 
 ### json
 
-##### Missing: 7
+##### Missing: 3
 
 <table >
 <tr><td align="left" >
-Aruba
+API Token
 </td>
 </tr>
 <tr><td align="left" >
-Kiribati
+API Tokens
 </td>
 </tr>
 <tr><td align="left" >
-Mayotte
-</td>
-</tr>
-<tr><td align="left" >
-Montserrat
-</td>
-</tr>
-<tr><td align="left" >
-Qatar
-</td>
-</tr>
-<tr><td align="left" >
-Togo
-</td>
-</tr>
-<tr><td align="left" >
-Tokelau
+The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
 </td>
 </tr>
 

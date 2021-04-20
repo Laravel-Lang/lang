@@ -60,7 +60,6 @@ return [
     'Haiti',
     'Honduras',
     'ID',
-
     'Israel',
     'Japan',
     'Jersey',

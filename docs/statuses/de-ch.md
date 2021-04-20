@@ -2,25 +2,7 @@
 
 # de_CH
 
-##### All missed: 2
+##### All missed: 0
 
-
-### json
-
-##### Missing: 2
-
-<table >
-<tr><td align="left" >
-Iran, Islamic Republic Of
-</td>
-</tr>
-<tr><td align="left" >
-Isle Of Man
-</td>
-</tr>
-
-</table>
-
-
-[ [go back](../status.md) | [to top](#) ]
+All lines are translated 😊
 

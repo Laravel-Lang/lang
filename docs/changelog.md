@@ -16,12 +16,22 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
  * feature: [de] #1622 #1623 validation.php validation-inline.php json file
  * feature: [de] #1696 validation.php validation-inline.php json file
  * feature: [de_CH] #1695 validation.php validation-inline.php json file
+ * feature: [el] #1678 validation.php validation-inline.php json file
  * feature: [fa] #1693 json file
- * feature: [id] #1616 #1621 validation.php validation-inline.php json file
+ * feature: [hr] #1686 validation.php validation-inline.php json file
+ * feature: [hy] #1688 #1699 json file
+ * feature: [id] #1616 #1621 #1689 validation.php validation-inline.php json file
+ * feature: [km] #1634 #1698 validation.php validation-inline.php json file
  * feature: [ko] #1608 #1636 validation.php validation-inline.php json file
  * feature: [lt] #1637 validation.php validation-inline.php json file
  * feature: [ne] #1643 validation.php validation-inline.php json file
+ * feature: [pl] #1645 validation.php validation-inline.php json file
  * feature: [pt] #1646 validation.php validation-inline.php json file
+ * feature: [pt_BR] #1647 validation.php validation-inline.php json file
+ * feature: [ro] #1648 validation.php validation-inline.php json file
+ * feature: [si] #1649 validation.php validation-inline.php json file
+ * feature: [sv] #1656 validation.php validation-inline.php json file
+ * feature: [tr] #1697 validation.php validation-inline.php json file
  * feature: [vi] #1617 #1624 validation.php validation-inline.php json file
  * feature: [zh_CN] #1666 validation.php validation-inline.php json file
  * feature: [zh_HK] #1667 validation.php validation-inline.php json file

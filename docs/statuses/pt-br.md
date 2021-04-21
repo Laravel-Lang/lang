@@ -2,12 +2,12 @@
 
 # pt_BR
 
-##### All missed: 67
+##### All missed: 66
 
 
 ### json
 
-##### Missing: 67
+##### Missing: 66
 
 <table >
 <tr><td align="left" >
@@ -256,10 +256,6 @@ Tokelau
 </tr>
 <tr><td align="left" >
 Tonga
-</td>
-</tr>
-<tr><td align="left" >
-total
 </td>
 </tr>
 <tr><td align="left" >

@@ -2,12 +2,12 @@
 
 # pt
 
-##### All missed: 52
+##### All missed: 51
 
 
 ### json
 
-##### Missing: 52
+##### Missing: 51
 
 <table >
 <tr><td align="left" >
@@ -200,10 +200,6 @@ Togo
 </tr>
 <tr><td align="left" >
 Tokelau
-</td>
-</tr>
-<tr><td align="left" >
-total
 </td>
 </tr>
 <tr><td align="left" >

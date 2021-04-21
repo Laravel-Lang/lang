@@ -14,8 +14,8 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
  * feature: [af] #1626 validation.php validation-inline.php json file
  * feature: [az] #1694 validation.php
  * feature: [de] #1622 #1623 validation.php validation-inline.php json file
- * feature: [de] #1696 validation.php validation-inline.php json file
- * feature: [de_CH] #1695 validation.php validation-inline.php json file
+ * feature: [de] #1696 #1700 #1705 validation.php validation-inline.php json file
+ * feature: [de_CH] #1695 #1703 #1704 validation.php validation-inline.php json file
  * feature: [el] #1678 validation.php validation-inline.php json file
  * feature: [fa] #1693 json file
  * feature: [hr] #1686 validation.php validation-inline.php json file

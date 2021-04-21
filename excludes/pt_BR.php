@@ -22,4 +22,5 @@ return [
     'Hong Kong',
     'India',
     'Indonesia',
+    'total',
 ];

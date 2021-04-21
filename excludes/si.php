@@ -11,8 +11,15 @@
 */
 
 return [
-    'API Token',
-    'API Tokens',
-    'Editor',
-    'total',
+    'Bouvet Island',
+    'Burundi',
+    'Czech Republic',
+    'ID',
+    'Lesotho',
+    'Logout',
+    'Macao',
+    'Montserrat',
+    'Qatar',
+    'Sint Maarten (Dutch part)',
+    'Toggle navigation',
 ];

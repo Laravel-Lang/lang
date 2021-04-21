@@ -102,6 +102,7 @@ return [
     'Peru',
     'Portugal',
     'Puerto Rico',
+    'Reunion',
     'Saint Helena',
     'Saint Lucia',
     'Saint Martin',

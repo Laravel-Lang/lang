@@ -350,7 +350,7 @@
 </td>
 <td align="center" width="13%">
 
-[tr&nbsp;❗](statuses/tr.md)
+[tr&nbsp;✔](statuses/tr.md)
 
 </td>
 <td align="center" width="13%">

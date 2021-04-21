@@ -7,7 +7,7 @@ All notable changes to this project will be documented in this file, since v7.0.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres
 to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased]
+## [9.0.1] - 2021-04-21
 
 ### Changed
 
@@ -24,6 +24,7 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
  * feature: [km] #1634 #1698 validation.php validation-inline.php json file
  * feature: [ko] #1608 #1636 validation.php validation-inline.php json file
  * feature: [lt] #1637 validation.php validation-inline.php json file
+ * feature: [mk] #1639 validation.php validation-inline.php json file
  * feature: [ne] #1643 validation.php validation-inline.php json file
  * feature: [pl] #1645 validation.php validation-inline.php json file
  * feature: [pt] #1646 validation.php validation-inline.php json file
@@ -352,7 +353,8 @@ For more information, see #1606 and #1607.
 
 * feature: #1269 Rename locale folders following ISO 15897 format
 
-[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/9.0.0...master
+[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/9.0.1...master
+[9.0.1]: https://github.com/caouecs/Laravel-lang/compare/9.0.0...9.0.1
 [9.0.0]: https://github.com/caouecs/Laravel-lang/compare/8.1.3...9.0.0
 [8.1.3]: https://github.com/caouecs/Laravel-lang/compare/8.1.2...8.1.3
 [8.1.2]: https://github.com/caouecs/Laravel-lang/compare/8.1.1...8.1.2

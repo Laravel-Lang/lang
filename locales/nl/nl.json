@@ -4,7 +4,7 @@
     "90 Days": "90 dagen",
     ":amount Total": ":amount Totaal",
     ":resource Details": ":resource Informatie",
-    ":resource Details: :title": ":resource Informatie :title",
+    ":resource Details: :title": ":resource Informatie: :title",
     "A fresh verification link has been sent to your email address.": "Er is een nieuwe verificatielink naar je e-mailadres verstuurd.",
     "A new verification link has been sent to the email address you provided during registration.": "Er is een nieuwe verificatielink verstuurd naar het e-mailadres dat je ingegeven hebt tijdens de registratie.",
     "Accept Invitation": "Uitnodiging accepteren",

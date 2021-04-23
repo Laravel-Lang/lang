@@ -14,4 +14,6 @@ return [
     'Code',
     'Dashboard',
     'Email',
+    'Start Polling',
+    'Tonga',
 ];

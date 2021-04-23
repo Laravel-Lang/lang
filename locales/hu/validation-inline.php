@@ -43,7 +43,7 @@ return [
     'ends_with'            => 'Ennek az alábbiak egyikével kell végződnie: :values.',
     'exists'               => 'A kiválasztott érték érvénytelen.',
     'file'                 => 'A tartalomnak fájlnak kell lennie.',
-    'filled'               => 'Ennek a mezőnek értéknek kell lennie.',
+    'filled'               => 'Ennek a mezőnek kell legyen értéke.',
     'gt'                   => [
         'array'   => 'The content must have more than :value items.',
         'file'    => 'The file size must be greater than :value kilobytes.',
@@ -61,8 +61,8 @@ return [
     'in_array'             => 'Ez az érték nem létezik :other-ban.',
     'integer'              => 'Ennek egész számnak kell lennie.',
     'ip'                   => 'Ennek érvényes IP-címnek kell lennie.',
-    'ipv4'                 => 'Ennek érvényes IPv4-címnek kell lennie.',
-    'ipv6'                 => 'Ennek érvényes IPv6-címnek kell lennie.',
+    'ipv4'                 => 'Ennek érvényes IPv4 címnek kell lennie.',
+    'ipv6'                 => 'Ennek érvényes IPv6 címnek kell lennie.',
     'json'                 => 'Ez egy érvényes JSON karakterlánc lehet.',
     'lt'                   => [
         'array'   => 'The content must have less than :value items.',
@@ -107,7 +107,7 @@ return [
     'required_with'        => 'Ez a mező akkor szükséges, ha :values van jelen.',
     'required_with_all'    => 'Ez a mező akkor szükséges, ha :values van jelen.',
     'required_without'     => 'Ez a mező akkor szükséges, ha :values nincs jelen.',
-    'required_without_all' => 'Erre a mezőre akkor van szükség, ha a :values egyik sem jelen van.',
+    'required_without_all' => 'Erre a mezőre akkor van szükség, ha egyik :values sincs jelen.',
     'same'                 => 'A mező értékének meg kell egyeznie az :other-es értékkel.',
     'size'                 => [
         'array'   => 'The content must contain :size items.',

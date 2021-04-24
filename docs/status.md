@@ -2,7 +2,7 @@
 
 # Completion status
 
-> Translation of localizations is completed by **76%** (47.6K / 62.8K).
+> Translation of localizations is completed by **77%** (48.1K / 62.8K).
 
 <table width="100%">
 <tr><td align="center" width="13%">
@@ -37,7 +37,7 @@
 </td>
 <td align="center" width="13%">
 
-[bs&nbsp;❗&nbsp;🤖](statuses/bs.md)
+[bs&nbsp;✔&nbsp;🤖](statuses/bs.md)
 
 </td>
 <td align="center" width="13%">
@@ -53,7 +53,7 @@
 </td>
 <td align="center" width="13%">
 
-[cy&nbsp;❗&nbsp;🤖](statuses/cy.md)
+[cy&nbsp;✔&nbsp;🤖](statuses/cy.md)
 
 </td>
 <td align="center" width="13%">
@@ -83,13 +83,13 @@
 </td>
 <td align="center" width="13%">
 
-[et&nbsp;❗&nbsp;🤖](statuses/et.md)
+[et&nbsp;✔&nbsp;🤖](statuses/et.md)
 
 </td>
 </tr>
 <tr><td align="center" width="13%">
 
-[eu&nbsp;❗&nbsp;🤖](statuses/eu.md)
+[eu&nbsp;✔&nbsp;🤖](statuses/eu.md)
 
 </td>
 <td align="center" width="13%">
@@ -150,7 +150,7 @@
 </td>
 <td align="center" width="13%">
 
-[is&nbsp;❗&nbsp;🤖](statuses/is.md)
+[is&nbsp;✔&nbsp;🤖](statuses/is.md)
 
 </td>
 <td align="center" width="13%">
@@ -196,7 +196,7 @@
 </td>
 <td align="center" width="13%">
 
-[lv&nbsp;❗&nbsp;🤖](statuses/lv.md)
+[lv&nbsp;✔&nbsp;🤖](statuses/lv.md)
 
 </td>
 <td align="center" width="13%">
@@ -206,13 +206,13 @@
 </td>
 <td align="center" width="13%">
 
-[mn&nbsp;❗&nbsp;🤖](statuses/mn.md)
+[mn&nbsp;✔&nbsp;🤖](statuses/mn.md)
 
 </td>
 </tr>
 <tr><td align="center" width="13%">
 
-[mr&nbsp;❗&nbsp;🤖](statuses/mr.md)
+[mr&nbsp;✔&nbsp;🤖](statuses/mr.md)
 
 </td>
 <td align="center" width="13%">
@@ -232,7 +232,7 @@
 </td>
 <td align="center" width="13%">
 
-[nl&nbsp;❗](statuses/nl.md)
+[nl&nbsp;✔](statuses/nl.md)
 
 </td>
 <td align="center" width="13%">

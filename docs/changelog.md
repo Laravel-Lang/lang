@@ -11,14 +11,40 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ### Changed
 
+ * feature: [az] #1627 passwords.php validation.php validation-inline.php json file
+ * feature: [be] #1628 passwords.php validation.php validation-inline.php json file
  * feature: [bg] #1669 #1712 validation.php validation-inline.php json file
+ * feature: [bn] #1670 passwords.php validation.php validation-inline.php json file
+ * feature: [bs] #1671 validation.php validation-inline.php json file
+ * feature: [cs] #1673 validation.php validation-inline.php json file
+ * feature: [cy] #1674 passwords.php validation.php validation-inline.php json file
  * feature: [de] #1708 #1710 validation.php validation-inline.php
  * feature: [de_CH] #1709 validation.php validation-inline.php
+ * feature: [et] #1679 passwords.php validation.php validation-inline.php json file
+ * feature: [eu] #1680 passwords.php validation.php validation-inline.php json file
+ * feature: [fi] #1682 validation.php validation-inline.php json file
  * feature: [fr] #1711 json file
+ * feature: [he] #1684 validation.php validation-inline.php json file
+ * feature: [hi] #1685 passwords.php validation.php validation-inline.php json file
  * feature: [hu] #1687 validation.php validation-inline.php json file
+ * feature: [is] #1690 passwords.php validation.php validation-inline.php json file
+ * feature: [lv] #1638 passwords.php validation.php validation-inline.php json file
+ * feature: [mn] #1640 passwords.php validation.php validation-inline.php json file
+ * feature: [mr] #1641 passwords.php validation.php validation-inline.php json file
  * feature: [nl] #1644 json file exclude
+ * feature: [sk] #1650 validation.php validation-inline.php json file
+ * feature: [sq] #1652 validation.php validation-inline.php json file
+ * feature: [sw] #1657 passwords.php validation.php validation-inline.php json file
+ * feature: [tg] #1658 passwords.php validation.php validation-inline.php json file
+ * feature: [th] #1659 passwords.php validation.php validation-inline.php json file
+ * feature: [tl] #1660 passwords.php validation.php validation-inline.php json file
+ * feature: [ur] #1663 passwords.php validation.php validation-inline.php json file
  * feature: [uz_Cyrl] #1664 validation.php validation-inline.php json file
  * feature: [uz_Latn] #1665 validation.php validation-inline.php json file
+
+### Todo script
+
+ * feature: #1713 Added the ability to flag machine translation
 
 ## [9.0.1] - 2021-04-21
 

@@ -17,12 +17,12 @@
 </td>
 <td align="center" width="13%">
 
-[az&nbsp;❗](statuses/az.md)
+[az&nbsp;❗&nbsp;🤖](statuses/az.md)
 
 </td>
 <td align="center" width="13%">
 
-[be&nbsp;❗](statuses/be.md)
+[be&nbsp;❗&nbsp;🤖](statuses/be.md)
 
 </td>
 <td align="center" width="13%">
@@ -32,33 +32,33 @@
 </td>
 <td align="center" width="13%">
 
-[bn&nbsp;❗](statuses/bn.md)
+[bn&nbsp;❗&nbsp;🤖](statuses/bn.md)
 
 </td>
 <td align="center" width="13%">
 
-[bs&nbsp;❗](statuses/bs.md)
+[bs&nbsp;❗&nbsp;🤖](statuses/bs.md)
 
 </td>
 <td align="center" width="13%">
 
-[ca&nbsp;❗](statuses/ca.md)
+[ca&nbsp;❗&nbsp;🤖](statuses/ca.md)
 
 </td>
 </tr>
 <tr><td align="center" width="13%">
 
-[cs&nbsp;❗](statuses/cs.md)
+[cs&nbsp;❗&nbsp;🤖](statuses/cs.md)
 
 </td>
 <td align="center" width="13%">
 
-[cy&nbsp;❗](statuses/cy.md)
+[cy&nbsp;❗&nbsp;🤖](statuses/cy.md)
 
 </td>
 <td align="center" width="13%">
 
-[da&nbsp;❗](statuses/da.md)
+[da&nbsp;❗&nbsp;🤖](statuses/da.md)
 
 </td>
 <td align="center" width="13%">
@@ -83,13 +83,13 @@
 </td>
 <td align="center" width="13%">
 
-[et&nbsp;❗](statuses/et.md)
+[et&nbsp;❗&nbsp;🤖](statuses/et.md)
 
 </td>
 </tr>
 <tr><td align="center" width="13%">
 
-[eu&nbsp;❗](statuses/eu.md)
+[eu&nbsp;❗&nbsp;🤖](statuses/eu.md)
 
 </td>
 <td align="center" width="13%">
@@ -99,7 +99,7 @@
 </td>
 <td align="center" width="13%">
 
-[fi&nbsp;❗](statuses/fi.md)
+[fi&nbsp;❗&nbsp;🤖](statuses/fi.md)
 
 </td>
 <td align="center" width="13%">
@@ -114,17 +114,17 @@
 </td>
 <td align="center" width="13%">
 
-[gl&nbsp;❗](statuses/gl.md)
+[gl&nbsp;❗&nbsp;🤖](statuses/gl.md)
 
 </td>
 <td align="center" width="13%">
 
-[he&nbsp;❗](statuses/he.md)
+[he&nbsp;❗&nbsp;🤖](statuses/he.md)
 
 </td>
 <td align="center" width="13%">
 
-[hi&nbsp;❗](statuses/hi.md)
+[hi&nbsp;❗&nbsp;🤖](statuses/hi.md)
 
 </td>
 </tr>
@@ -150,7 +150,7 @@
 </td>
 <td align="center" width="13%">
 
-[is&nbsp;❗](statuses/is.md)
+[is&nbsp;❗&nbsp;🤖](statuses/is.md)
 
 </td>
 <td align="center" width="13%">
@@ -160,18 +160,18 @@
 </td>
 <td align="center" width="13%">
 
-[ja&nbsp;❗](statuses/ja.md)
+[ja&nbsp;❗&nbsp;🤖](statuses/ja.md)
 
 </td>
 <td align="center" width="13%">
 
-[ka&nbsp;❗](statuses/ka.md)
+[ka&nbsp;❗&nbsp;🤖](statuses/ka.md)
 
 </td>
 </tr>
 <tr><td align="center" width="13%">
 
-[kk&nbsp;❗](statuses/kk.md)
+[kk&nbsp;❗&nbsp;🤖](statuses/kk.md)
 
 </td>
 <td align="center" width="13%">
@@ -181,7 +181,7 @@
 </td>
 <td align="center" width="13%">
 
-[kn&nbsp;❗](statuses/kn.md)
+[kn&nbsp;❗&nbsp;🤖](statuses/kn.md)
 
 </td>
 <td align="center" width="13%">
@@ -196,7 +196,7 @@
 </td>
 <td align="center" width="13%">
 
-[lv&nbsp;❗](statuses/lv.md)
+[lv&nbsp;❗&nbsp;🤖](statuses/lv.md)
 
 </td>
 <td align="center" width="13%">
@@ -206,18 +206,18 @@
 </td>
 <td align="center" width="13%">
 
-[mn&nbsp;❗](statuses/mn.md)
+[mn&nbsp;❗&nbsp;🤖](statuses/mn.md)
 
 </td>
 </tr>
 <tr><td align="center" width="13%">
 
-[mr&nbsp;❗](statuses/mr.md)
+[mr&nbsp;❗&nbsp;🤖](statuses/mr.md)
 
 </td>
 <td align="center" width="13%">
 
-[ms&nbsp;❗](statuses/ms.md)
+[ms&nbsp;❗&nbsp;🤖](statuses/ms.md)
 
 </td>
 <td align="center" width="13%">
@@ -288,33 +288,33 @@
 </td>
 <td align="center" width="13%">
 
-[sk&nbsp;❗](statuses/sk.md)
+[sk&nbsp;❗&nbsp;🤖](statuses/sk.md)
 
 </td>
 </tr>
 <tr><td align="center" width="13%">
 
-[sl&nbsp;❗](statuses/sl.md)
+[sl&nbsp;❗&nbsp;🤖](statuses/sl.md)
 
 </td>
 <td align="center" width="13%">
 
-[sq&nbsp;❗](statuses/sq.md)
+[sq&nbsp;❗&nbsp;🤖](statuses/sq.md)
 
 </td>
 <td align="center" width="13%">
 
-[sr_Cyrl&nbsp;❗](statuses/sr-cyrl.md)
+[sr_Cyrl&nbsp;❗&nbsp;🤖](statuses/sr-cyrl.md)
 
 </td>
 <td align="center" width="13%">
 
-[sr_Latn&nbsp;❗](statuses/sr-latn.md)
+[sr_Latn&nbsp;❗&nbsp;🤖](statuses/sr-latn.md)
 
 </td>
 <td align="center" width="13%">
 
-[sr_Latn_ME&nbsp;❗](statuses/sr-latn-me.md)
+[sr_Latn_ME&nbsp;❗&nbsp;🤖](statuses/sr-latn-me.md)
 
 </td>
 <td align="center" width="13%">
@@ -324,18 +324,18 @@
 </td>
 <td align="center" width="13%">
 
-[sw&nbsp;❗](statuses/sw.md)
+[sw&nbsp;❗&nbsp;🤖](statuses/sw.md)
 
 </td>
 <td align="center" width="13%">
 
-[tg&nbsp;❗](statuses/tg.md)
+[tg&nbsp;❗&nbsp;🤖](statuses/tg.md)
 
 </td>
 </tr>
 <tr><td align="center" width="13%">
 
-[th&nbsp;❗](statuses/th.md)
+[th&nbsp;❗&nbsp;🤖](statuses/th.md)
 
 </td>
 <td align="center" width="13%">
@@ -345,7 +345,7 @@
 </td>
 <td align="center" width="13%">
 
-[tl&nbsp;❗](statuses/tl.md)
+[tl&nbsp;❗&nbsp;🤖](statuses/tl.md)
 
 </td>
 <td align="center" width="13%">
@@ -360,12 +360,12 @@
 </td>
 <td align="center" width="13%">
 
-[uk&nbsp;❗](statuses/uk.md)
+[uk&nbsp;❗&nbsp;🤖](statuses/uk.md)
 
 </td>
 <td align="center" width="13%">
 
-[ur&nbsp;❗](statuses/ur.md)
+[ur&nbsp;❗&nbsp;🤖](statuses/ur.md)
 
 </td>
 <td align="center" width="13%">

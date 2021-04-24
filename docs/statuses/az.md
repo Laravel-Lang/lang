@@ -2,28 +2,20 @@
 
 # az
 
-##### All missed: 57
+##### All missed: 55
 
 
 ### json
 
-##### Missing: 57
+##### Missing: 55
 
 <table >
-<tr><td align="left" >
-Action Status
-</td>
-</tr>
 <tr><td align="left" >
 Andorra
 </td>
 </tr>
 <tr><td align="left" >
 Angola
-</td>
-</tr>
-<tr><td align="left" >
-API Tokens
 </td>
 </tr>
 <tr><td align="left" >

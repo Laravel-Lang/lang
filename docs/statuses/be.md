@@ -2,25 +2,7 @@
 
 # be
 
-##### All missed: 2
+##### All missed: 0
 
-
-### json
-
-##### Missing: 2
-
-<table >
-<tr><td align="left" >
-Luxembourg
-</td>
-</tr>
-<tr><td align="left" >
-Qatar
-</td>
-</tr>
-
-</table>
-
-
-[ [go back](../status.md) | [to top](#) ]
+All lines are translated 😊
 

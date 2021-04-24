@@ -2,22 +2,14 @@
 
 # bs
 
-##### All missed: 62
+##### All missed: 60
 
 
 ### json
 
-##### Missing: 62
+##### Missing: 60
 
 <table >
-<tr><td align="left" >
-Action Status
-</td>
-</tr>
-<tr><td align="left" >
-Administrator
-</td>
-</tr>
 <tr><td align="left" >
 American Samoa
 </td>

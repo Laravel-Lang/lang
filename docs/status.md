@@ -22,17 +22,17 @@
 </td>
 <td align="center" width="13%">
 
-[be&nbsp;❗&nbsp;🤖](statuses/be.md)
+[be&nbsp;✔&nbsp;🤖](statuses/be.md)
 
 </td>
 <td align="center" width="13%">
 
-[bg&nbsp;❗](statuses/bg.md)
+[bg&nbsp;✔&nbsp;🤖](statuses/bg.md)
 
 </td>
 <td align="center" width="13%">
 
-[bn&nbsp;❗&nbsp;🤖](statuses/bn.md)
+[bn&nbsp;✔&nbsp;🤖](statuses/bn.md)
 
 </td>
 <td align="center" width="13%">

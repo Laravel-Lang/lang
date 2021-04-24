@@ -11,8 +11,8 @@
 */
 
 return [
-    'Andorra',
     'Action Status',
+    'Andorra',
     'Angola',
     'API Token',
     'API Tokens',

@@ -2,12 +2,12 @@
 
 # az
 
-##### All missed: 44
+##### All missed: 57
 
 
 ### json
 
-##### Missing: 44
+##### Missing: 57
 
 <table >
 <tr><td align="left" >
@@ -16,6 +16,10 @@ Action Status
 </tr>
 <tr><td align="left" >
 Andorra
+</td>
+</tr>
+<tr><td align="left" >
+Angola
 </td>
 </tr>
 <tr><td align="left" >
@@ -31,7 +35,19 @@ Aruba
 </td>
 </tr>
 <tr><td align="left" >
+Barbados
+</td>
+</tr>
+<tr><td align="left" >
 Belarus
+</td>
+</tr>
+<tr><td align="left" >
+Belize
+</td>
+</tr>
+<tr><td align="left" >
+Benin
 </td>
 </tr>
 <tr><td align="left" >
@@ -59,11 +75,23 @@ Enable
 </td>
 </tr>
 <tr><td align="left" >
+Fiji
+</td>
+</tr>
+<tr><td align="left" >
 Gibraltar
 </td>
 </tr>
 <tr><td align="left" >
+Greenland
+</td>
+</tr>
+<tr><td align="left" >
 Guernsey
+</td>
+</tr>
+<tr><td align="left" >
+Guyana
 </td>
 </tr>
 <tr><td align="left" >
@@ -72,6 +100,14 @@ Haiti
 </tr>
 <tr><td align="left" >
 Honduras
+</td>
+</tr>
+<tr><td align="left" >
+Hong Kong
+</td>
+</tr>
+<tr><td align="left" >
+Jamaica
 </td>
 </tr>
 <tr><td align="left" >
@@ -91,11 +127,19 @@ Lao People's Democratic Republic
 </td>
 </tr>
 <tr><td align="left" >
+Lesotho
+</td>
+</tr>
+<tr><td align="left" >
 Luxembourg
 </td>
 </tr>
 <tr><td align="left" >
 Malta
+</td>
+</tr>
+<tr><td align="left" >
+Mauritius
 </td>
 </tr>
 <tr><td align="left" >
@@ -155,6 +199,10 @@ Qatar
 </td>
 </tr>
 <tr><td align="left" >
+Rwanda
+</td>
+</tr>
+<tr><td align="left" >
 Samoa
 </td>
 </tr>
@@ -164,6 +212,10 @@ Sudan
 </tr>
 <tr><td align="left" >
 Suriname
+</td>
+</tr>
+<tr><td align="left" >
+Tanzania
 </td>
 </tr>
 <tr><td align="left" >

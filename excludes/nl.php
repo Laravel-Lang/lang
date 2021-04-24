@@ -11,8 +11,8 @@
 */
 
 return [
-    'Afghanistan',
     'Action Status',
+    'Afghanistan',
     'Angola',
     'Anguilla',
     'Antarctica',

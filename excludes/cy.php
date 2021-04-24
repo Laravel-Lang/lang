@@ -11,7 +11,7 @@
 */
 
 return [
-	'Afghanistan',
+    'Afghanistan',
     'Albania',
     'Algeria',
     'American Samoa',

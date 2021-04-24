@@ -11,7 +11,7 @@
 */
 
 return [
-	'Andorra',
+    'Andorra',
     'Angola',
     'Anguilla',
     'Argentina',

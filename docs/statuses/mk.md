@@ -2,12 +2,12 @@
 
 # mk
 
-##### All missed: 31
+##### All missed: 36
 
 
 ### json
 
-##### Missing: 31
+##### Missing: 36
 
 <table >
 <tr><td align="left" >
@@ -108,6 +108,26 @@ Sint Maarten (Dutch part)
 </tr>
 <tr><td align="left" >
 Svalbard And Jan Mayen
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one letter.
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one number.
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one symbol.
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one uppercase and one lowercase letter.
+</td>
+</tr>
+<tr><td align="left" >
+The given :attribute has appeared in a data leak. Please choose a different :attribute.
 </td>
 </tr>
 <tr><td align="left" >

@@ -2,12 +2,12 @@
 
 # cs
 
-##### All missed: 60
+##### All missed: 65
 
 
 ### json
 
-##### Missing: 60
+##### Missing: 65
 
 <table >
 <tr><td align="left" >
@@ -212,6 +212,26 @@ Sierra Leone
 </tr>
 <tr><td align="left" >
 Sint Maarten (Dutch part)
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one letter.
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one number.
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one symbol.
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one uppercase and one lowercase letter.
+</td>
+</tr>
+<tr><td align="left" >
+The given :attribute has appeared in a data leak. Please choose a different :attribute.
 </td>
 </tr>
 <tr><td align="left" >

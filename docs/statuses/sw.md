@@ -2,12 +2,12 @@
 
 # sw
 
-##### All missed: 198
+##### All missed: 203
 
 
 ### json
 
-##### Missing: 198
+##### Missing: 203
 
 <table >
 <tr><td align="left" >
@@ -708,6 +708,26 @@ Tanzania
 </tr>
 <tr><td align="left" >
 Thailand
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one letter.
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one number.
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one symbol.
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one uppercase and one lowercase letter.
+</td>
+</tr>
+<tr><td align="left" >
+The given :attribute has appeared in a data leak. Please choose a different :attribute.
 </td>
 </tr>
 <tr><td align="left" >

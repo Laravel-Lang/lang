@@ -2,12 +2,12 @@
 
 # ca
 
-##### All missed: 84
+##### All missed: 89
 
 
 ### json
 
-##### Missing: 84
+##### Missing: 89
 
 <table >
 <tr><td align="left" >
@@ -300,6 +300,26 @@ Sudan
 </tr>
 <tr><td align="left" >
 Taiwan
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one letter.
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one number.
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one symbol.
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one uppercase and one lowercase letter.
+</td>
+</tr>
+<tr><td align="left" >
+The given :attribute has appeared in a data leak. Please choose a different :attribute.
 </td>
 </tr>
 <tr><td align="left" >

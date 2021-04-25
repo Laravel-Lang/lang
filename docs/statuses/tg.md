@@ -2,12 +2,12 @@
 
 # tg
 
-##### All missed: 8
+##### All missed: 13
 
 
 ### json
 
-##### Missing: 8
+##### Missing: 13
 
 <table >
 <tr><td align="left" >
@@ -40,6 +40,26 @@ Qatar
 </tr>
 <tr><td align="left" >
 September
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one letter.
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one number.
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one symbol.
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one uppercase and one lowercase letter.
+</td>
+</tr>
+<tr><td align="left" >
+The given :attribute has appeared in a data leak. Please choose a different :attribute.
 </td>
 </tr>
 

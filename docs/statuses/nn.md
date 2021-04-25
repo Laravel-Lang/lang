@@ -2,7 +2,7 @@
 
 # nn
 
-##### All missed: 639
+##### All missed: 644
 
 
 ### passwords
@@ -530,7 +530,7 @@ This :attribute may not be associated with this resource.
 
 ### json
 
-##### Missing: 569
+##### Missing: 574
 
 <table >
 <tr><td align="left" >
@@ -2446,6 +2446,22 @@ The :attribute must be at least :length characters.
 </td>
 </tr>
 <tr><td align="left" >
+The :attribute must contain at least one letter.
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one number.
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one symbol.
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one uppercase and one lowercase letter.
+</td>
+</tr>
+<tr><td align="left" >
 The :resource was created!
 </td>
 </tr>
@@ -2467,6 +2483,10 @@ The action ran successfully!
 </tr>
 <tr><td align="left" >
 The file was deleted!
+</td>
+</tr>
+<tr><td align="left" >
+The given :attribute has appeared in a data leak. Please choose a different :attribute.
 </td>
 </tr>
 <tr><td align="left" >

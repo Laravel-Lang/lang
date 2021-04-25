@@ -2,12 +2,12 @@
 
 # sq
 
-##### All missed: 91
+##### All missed: 96
 
 
 ### json
 
-##### Missing: 91
+##### Missing: 96
 
 <table >
 <tr><td align="left" >
@@ -336,6 +336,26 @@ Suriname
 </tr>
 <tr><td align="left" >
 Tanzania
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one letter.
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one number.
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one symbol.
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one uppercase and one lowercase letter.
+</td>
+</tr>
+<tr><td align="left" >
+The given :attribute has appeared in a data leak. Please choose a different :attribute.
 </td>
 </tr>
 <tr><td align="left" >

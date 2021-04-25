@@ -2,7 +2,7 @@
 
 # kn
 
-##### All missed: 13
+##### All missed: 18
 
 
 ### validation-inline
@@ -50,7 +50,7 @@ The :attribute must end with one of the following: :values.
 
 ### json
 
-##### Missing: 10
+##### Missing: 15
 
 <table >
 <tr><td align="left" >
@@ -86,7 +86,27 @@ Qatar
 </td>
 </tr>
 <tr><td align="left" >
+The :attribute must contain at least one letter.
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one number.
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one symbol.
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one uppercase and one lowercase letter.
+</td>
+</tr>
+<tr><td align="left" >
 The file was deleted!
+</td>
+</tr>
+<tr><td align="left" >
+The given :attribute has appeared in a data leak. Please choose a different :attribute.
 </td>
 </tr>
 <tr><td align="left" >

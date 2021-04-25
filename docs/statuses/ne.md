@@ -2,12 +2,12 @@
 
 # ne
 
-##### All missed: 23
+##### All missed: 28
 
 
 ### json
 
-##### Missing: 23
+##### Missing: 28
 
 <table >
 <tr><td align="left" >
@@ -100,6 +100,26 @@ Search
 </tr>
 <tr><td align="left" >
 Sorry, your session has expired.
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one letter.
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one number.
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one symbol.
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one uppercase and one lowercase letter.
+</td>
+</tr>
+<tr><td align="left" >
+The given :attribute has appeared in a data leak. Please choose a different :attribute.
 </td>
 </tr>
 

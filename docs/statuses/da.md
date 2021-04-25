@@ -2,12 +2,12 @@
 
 # da
 
-##### All missed: 133
+##### All missed: 138
 
 
 ### json
 
-##### Missing: 133
+##### Missing: 138
 
 <table >
 <tr><td align="left" >
@@ -492,6 +492,26 @@ Team Invitation
 </tr>
 <tr><td align="left" >
 Thailand
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one letter.
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one number.
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one symbol.
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one uppercase and one lowercase letter.
+</td>
+</tr>
+<tr><td align="left" >
+The given :attribute has appeared in a data leak. Please choose a different :attribute.
 </td>
 </tr>
 <tr><td align="left" >

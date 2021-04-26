@@ -8,7 +8,7 @@ use LaravelLang\Lang\Models\Locale;
 
 final class Status extends Compiler
 {
-    protected int $columns = 8;
+    protected int $columns = 6;
 
     public function toString(): string
     {

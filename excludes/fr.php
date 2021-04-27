@@ -82,6 +82,7 @@ return [
     'Portugal',
     'Qatar',
     'Reunion',
+    'Réunion',
     'Rwanda',
     'Samoa',
     'Seychelles',

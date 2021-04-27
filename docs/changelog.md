@@ -13,13 +13,21 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
  * feature: [es] #1718 json file
  * feature: [fr] json file
+ * feature: [id] #1722 json file
  * feature: [ms] #1720 validation.php validation-inline.php
  * feature: [pt] exclude file
  * feature: [pt_BR] exclude file
+ * feature: [ru] #1721 #1725 json file
+ * feature: [vi] #1723 json file
 
 ### Reference
 
+ * feature: [en] #1715 Start of add of Laravel Spark tags
  * feature: [en] #1717 Add translations for new Password Validation Rule
+
+### Todo Script
+
+ * feature: #1724 Reduced the number of displayed columns
 
 ## [9.1.0] - 2021-04-24
 

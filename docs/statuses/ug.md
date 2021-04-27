@@ -2,7 +2,7 @@
 
 # ug
 
-##### All missed: 691
+##### All missed: 776
 
 
 ### passwords
@@ -565,7 +565,7 @@ The :attribute must be a valid UUID.
 
 ### json
 
-##### Missing: 616
+##### Missing: 701
 
 <table >
 <tr><td align="left" >
@@ -582,6 +582,10 @@ The :attribute must be a valid UUID.
 </tr>
 <tr><td align="left" >
 :amount Total
+</td>
+</tr>
+<tr><td align="left" >
+:days day trial
 </td>
 </tr>
 <tr><td align="left" >
@@ -653,7 +657,19 @@ Add Team Member
 </td>
 </tr>
 <tr><td align="left" >
+Add VAT Number
+</td>
+</tr>
+<tr><td align="left" >
 Added.
+</td>
+</tr>
+<tr><td align="left" >
+Address
+</td>
+</tr>
+<tr><td align="left" >
+Address Line 2
 </td>
 </tr>
 <tr><td align="left" >
@@ -705,6 +721,10 @@ An error occured while uploading the file.
 </td>
 </tr>
 <tr><td align="left" >
+An unexpected error occurred and we have notified our support team. Please try again later.
+</td>
+</tr>
+<tr><td align="left" >
 Andorra
 </td>
 </tr>
@@ -722,6 +742,10 @@ Another user has updated this resource since this page was loaded. Please refres
 </tr>
 <tr><td align="left" >
 Antarctica
+</td>
+</tr>
+<tr><td align="left" >
+Antigua and Barbuda
 </td>
 </tr>
 <tr><td align="left" >
@@ -893,7 +917,19 @@ Bhutan
 </td>
 </tr>
 <tr><td align="left" >
+Billing Information
+</td>
+</tr>
+<tr><td align="left" >
+Billing Management
+</td>
+</tr>
+<tr><td align="left" >
 Bolivia
+</td>
+</tr>
+<tr><td align="left" >
+Bolivia, Plurinational State of
 </td>
 </tr>
 <tr><td align="left" >
@@ -902,6 +938,10 @@ Bonaire, Sint Eustatius and Saba
 </tr>
 <tr><td align="left" >
 Bosnia And Herzegovina
+</td>
+</tr>
+<tr><td align="left" >
+Bosnia and Herzegovina
 </td>
 </tr>
 <tr><td align="left" >
@@ -953,6 +993,10 @@ Cancel
 </td>
 </tr>
 <tr><td align="left" >
+Cancel Subscription
+</td>
+</tr>
+<tr><td align="left" >
 Cape Verde
 </td>
 </tr>
@@ -970,6 +1014,10 @@ Central African Republic
 </tr>
 <tr><td align="left" >
 Chad
+</td>
+</tr>
+<tr><td align="left" >
+Change Subscription Plan
 </td>
 </tr>
 <tr><td align="left" >
@@ -1014,6 +1062,10 @@ Choose Type
 </tr>
 <tr><td align="left" >
 Christmas Island
+</td>
+</tr>
+<tr><td align="left" >
+City
 </td>
 </tr>
 <tr><td align="left" >
@@ -1069,6 +1121,10 @@ Congo, Democratic Republic
 </td>
 </tr>
 <tr><td align="left" >
+Congo, the Democratic Republic of the
+</td>
+</tr>
+<tr><td align="left" >
 Constant
 </td>
 </tr>
@@ -1082,6 +1138,14 @@ Costa Rica
 </tr>
 <tr><td align="left" >
 could not be found.
+</td>
+</tr>
+<tr><td align="left" >
+Country
+</td>
+</tr>
+<tr><td align="left" >
+Coupon
 </td>
 </tr>
 <tr><td align="left" >
@@ -1137,6 +1201,14 @@ Current Password
 </td>
 </tr>
 <tr><td align="left" >
+Current Subscription Plan
+</td>
+</tr>
+<tr><td align="left" >
+Currently Subscribed
+</td>
+</tr>
+<tr><td align="left" >
 Customize
 </td>
 </tr>
@@ -1145,7 +1217,7 @@ Cyprus
 </td>
 </tr>
 <tr><td align="left" >
-Czech Republic
+Côte d'Ivoire
 </td>
 </tr>
 <tr><td align="left" >
@@ -1237,6 +1309,10 @@ Download
 </td>
 </tr>
 <tr><td align="left" >
+Download Receipt
+</td>
+</tr>
+<tr><td align="left" >
 E-Mail Address
 </td>
 </tr>
@@ -1281,6 +1357,10 @@ Email Address
 </td>
 </tr>
 <tr><td align="left" >
+Email Addresses
+</td>
+</tr>
+<tr><td align="left" >
 Email Password Reset Link
 </td>
 </tr>
@@ -1306,6 +1386,14 @@ Estonia
 </tr>
 <tr><td align="left" >
 Ethiopia
+</td>
+</tr>
+<tr><td align="left" >
+ex VAT
+</td>
+</tr>
+<tr><td align="left" >
+Extra Billing Information
 </td>
 </tr>
 <tr><td align="left" >
@@ -1473,7 +1561,19 @@ Haiti
 </td>
 </tr>
 <tr><td align="left" >
+Have a coupon code?
+</td>
+</tr>
+<tr><td align="left" >
+Having second thoughts about cancelling your subscription? You can instantly reactive your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
+</td>
+</tr>
+<tr><td align="left" >
 Heard Island & Mcdonald Islands
+</td>
+</tr>
+<tr><td align="left" >
+Heard Island and McDonald Islands
 </td>
 </tr>
 <tr><td align="left" >
@@ -1545,6 +1645,10 @@ If you do not have an account, you may create one by clicking the button below. 
 </td>
 </tr>
 <tr><td align="left" >
+If you need to add specific contact or tax information to your receipts, like your full business name, VAT identification number, or address of record, you may add it here.
+</td>
+</tr>
+<tr><td align="left" >
 If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser:
 </td>
@@ -1566,6 +1670,10 @@ Invalid signature.
 </td>
 </tr>
 <tr><td align="left" >
+Iran, Islamic Republic of
+</td>
+</tr>
+<tr><td align="left" >
 Iran, Islamic Republic Of
 </td>
 </tr>
@@ -1578,11 +1686,19 @@ Ireland
 </td>
 </tr>
 <tr><td align="left" >
+Isle of Man
+</td>
+</tr>
+<tr><td align="left" >
 Isle Of Man
 </td>
 </tr>
 <tr><td align="left" >
 Israel
+</td>
+</tr>
+<tr><td align="left" >
+It looks like you do not have an active subscription. You may choose one of the subscription plans below to get started. Subscription plans may be changed or cancelled at your convenience.
 </td>
 </tr>
 <tr><td align="left" >
@@ -1642,6 +1758,10 @@ Korea, Democratic People's Republic of
 </td>
 </tr>
 <tr><td align="left" >
+Korea, Republic of
+</td>
+</tr>
+<tr><td align="left" >
 Kosovo
 </td>
 </tr>
@@ -1651,10 +1771,6 @@ Kuwait
 </tr>
 <tr><td align="left" >
 Kyrgyzstan
-</td>
-</tr>
-<tr><td align="left" >
-Lao People's Democratic Republic
 </td>
 </tr>
 <tr><td align="left" >
@@ -1750,6 +1866,10 @@ Macedonia
 </td>
 </tr>
 <tr><td align="left" >
+Macedonia, the former Yugoslav Republic of
+</td>
+</tr>
+<tr><td align="left" >
 Madagascar
 </td>
 </tr>
@@ -1798,6 +1918,10 @@ Manage Team
 </td>
 </tr>
 <tr><td align="left" >
+Managing billing for :billableName
+</td>
+</tr>
+<tr><td align="left" >
 March
 </td>
 </tr>
@@ -1838,6 +1962,10 @@ Moldova
 </td>
 </tr>
 <tr><td align="left" >
+Moldova, Republic of
+</td>
+</tr>
+<tr><td align="left" >
 Monaco
 </td>
 </tr>
@@ -1851,6 +1979,14 @@ Montenegro
 </tr>
 <tr><td align="left" >
 Month To Date
+</td>
+</tr>
+<tr><td align="left" >
+Monthly
+</td>
+</tr>
+<tr><td align="left" >
+monthly
 </td>
 </tr>
 <tr><td align="left" >
@@ -1890,7 +2026,15 @@ Netherlands
 </td>
 </tr>
 <tr><td align="left" >
+Netherlands Antilles
+</td>
+</tr>
+<tr><td align="left" >
 Nevermind
+</td>
+</tr>
+<tr><td align="left" >
+Nevermind, I'll keep my old plan
 </td>
 </tr>
 <tr><td align="left" >
@@ -2026,6 +2170,10 @@ Original
 </td>
 </tr>
 <tr><td align="left" >
+Our billing management portal allows you to conveniently manage your subscription plan, payment method, and download your recent invoices.
+</td>
+</tr>
+<tr><td align="left" >
 Page Expired
 </td>
 </tr>
@@ -2071,6 +2219,10 @@ Payment Cancelled
 </tr>
 <tr><td align="left" >
 Payment Confirmation
+</td>
+</tr>
+<tr><td align="left" >
+Payment Information
 </td>
 </tr>
 <tr><td align="left" >
@@ -2142,6 +2294,10 @@ Please enter your password to confirm you would like to logout of your other bro
 </td>
 </tr>
 <tr><td align="left" >
+Please provide a maximum of three receipt emails addresses.
+</td>
+</tr>
+<tr><td align="left" >
 Please provide the email address of the person you would like to add to this team.
 </td>
 </tr>
@@ -2195,6 +2351,14 @@ Qatar
 </tr>
 <tr><td align="left" >
 Quarter To Date
+</td>
+</tr>
+<tr><td align="left" >
+Receipt Email Addresses
+</td>
+</tr>
+<tr><td align="left" >
+Receipts
 </td>
 </tr>
 <tr><td align="left" >
@@ -2282,6 +2446,14 @@ results
 </td>
 </tr>
 <tr><td align="left" >
+Resume Subscription
+</td>
+</tr>
+<tr><td align="left" >
+Return to :appName
+</td>
+</tr>
+<tr><td align="left" >
 Reunion
 </td>
 </tr>
@@ -2306,11 +2478,23 @@ Rwanda
 </td>
 </tr>
 <tr><td align="left" >
+Réunion
+</td>
+</tr>
+<tr><td align="left" >
 Saint Barthelemy
 </td>
 </tr>
 <tr><td align="left" >
+Saint Barthélemy
+</td>
+</tr>
+<tr><td align="left" >
 Saint Helena
+</td>
+</tr>
+<tr><td align="left" >
+Saint Kitts and Nevis
 </td>
 </tr>
 <tr><td align="left" >
@@ -2326,6 +2510,14 @@ Saint Martin
 </td>
 </tr>
 <tr><td align="left" >
+Saint Martin (French part)
+</td>
+</tr>
+<tr><td align="left" >
+Saint Pierre and Miquelon
+</td>
+</tr>
+<tr><td align="left" >
 Saint Pierre And Miquelon
 </td>
 </tr>
@@ -2334,11 +2526,19 @@ Saint Vincent And Grenadines
 </td>
 </tr>
 <tr><td align="left" >
+Saint Vincent and the Grenadines
+</td>
+</tr>
+<tr><td align="left" >
 Samoa
 </td>
 </tr>
 <tr><td align="left" >
 San Marino
+</td>
+</tr>
+<tr><td align="left" >
+Sao Tome and Principe
 </td>
 </tr>
 <tr><td align="left" >
@@ -2359,6 +2559,14 @@ Saved.
 </tr>
 <tr><td align="left" >
 Search
+</td>
+</tr>
+<tr><td align="left" >
+Select
+</td>
+</tr>
+<tr><td align="left" >
+Select a different plan
 </td>
 </tr>
 <tr><td align="left" >
@@ -2426,6 +2634,10 @@ Sierra Leone
 </td>
 </tr>
 <tr><td align="left" >
+Signed in as
+</td>
+</tr>
+<tr><td align="left" >
 Singapore
 </td>
 </tr>
@@ -2470,6 +2682,10 @@ South Georgia And Sandwich Isl.
 </td>
 </tr>
 <tr><td align="left" >
+South Georgia and the South Sandwich Islands
+</td>
+</tr>
+<tr><td align="left" >
 South Sudan
 </td>
 </tr>
@@ -2486,11 +2702,23 @@ Start Polling
 </td>
 </tr>
 <tr><td align="left" >
+State / County
+</td>
+</tr>
+<tr><td align="left" >
 Stop Polling
 </td>
 </tr>
 <tr><td align="left" >
 Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
+</td>
+</tr>
+<tr><td align="left" >
+Subscribe
+</td>
+</tr>
+<tr><td align="left" >
+Subscription Information
 </td>
 </tr>
 <tr><td align="left" >
@@ -2526,11 +2754,19 @@ Taiwan
 </td>
 </tr>
 <tr><td align="left" >
+Taiwan, Province of China
+</td>
+</tr>
+<tr><td align="left" >
 Tajikistan
 </td>
 </tr>
 <tr><td align="left" >
 Tanzania
+</td>
+</tr>
+<tr><td align="left" >
+Tanzania, United Republic of
 </td>
 </tr>
 <tr><td align="left" >
@@ -2567,6 +2803,14 @@ Thailand
 </tr>
 <tr><td align="left" >
 Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
+</td>
+</tr>
+<tr><td align="left" >
+Thanks for your continued support. We've attached a copy of your invoice for your records. Please let us know if you have any questions or concerns.
+</td>
+</tr>
+<tr><td align="left" >
+Thanks,
 </td>
 </tr>
 <tr><td align="left" >
@@ -2662,6 +2906,10 @@ The payment was successful.
 </td>
 </tr>
 <tr><td align="left" >
+The provided coupon code is invalid.
+</td>
+</tr>
+<tr><td align="left" >
 The provided password does not match your current password.
 </td>
 </tr>
@@ -2674,7 +2922,23 @@ The provided two factor authentication code was invalid.
 </td>
 </tr>
 <tr><td align="left" >
+The provided VAT number is invalid.
+</td>
+</tr>
+<tr><td align="left" >
+The receipt emails must be valid email addresses.
+</td>
+</tr>
+<tr><td align="left" >
 The resource was updated!
+</td>
+</tr>
+<tr><td align="left" >
+The selected country is invalid.
+</td>
+</tr>
+<tr><td align="left" >
+The selected plan is invalid.
 </td>
 </tr>
 <tr><td align="left" >
@@ -2695,6 +2959,10 @@ There was a problem submitting the form.
 </tr>
 <tr><td align="left" >
 These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation.
+</td>
+</tr>
+<tr><td align="left" >
+This account does not have an active subscription.
 </td>
 </tr>
 <tr><td align="left" >
@@ -2735,6 +3003,10 @@ This payment was cancelled.
 </tr>
 <tr><td align="left" >
 This resource no longer exists
+</td>
+</tr>
+<tr><td align="left" >
+This subscription has expired and cannot be resumed. Please create a new subscription.
 </td>
 </tr>
 <tr><td align="left" >
@@ -2790,6 +3062,10 @@ total
 </td>
 </tr>
 <tr><td align="left" >
+Total:
+</td>
+</tr>
+<tr><td align="left" >
 Trashed
 </td>
 </tr>
@@ -2807,6 +3083,10 @@ Turkey
 </tr>
 <tr><td align="left" >
 Turkmenistan
+</td>
+</tr>
+<tr><td align="left" >
+Turks and Caicos Islands
 </td>
 </tr>
 <tr><td align="left" >
@@ -2850,6 +3130,10 @@ United States
 </td>
 </tr>
 <tr><td align="left" >
+United States Minor Outlying Islands
+</td>
+</tr>
+<tr><td align="left" >
 United States Outlying Islands
 </td>
 </tr>
@@ -2875,6 +3159,10 @@ Update attached :resource: :title
 </tr>
 <tr><td align="left" >
 Update Password
+</td>
+</tr>
+<tr><td align="left" >
+Update Payment Information
 </td>
 </tr>
 <tr><td align="left" >
@@ -2906,7 +3194,15 @@ Vanuatu
 </td>
 </tr>
 <tr><td align="left" >
+VAT Number
+</td>
+</tr>
+<tr><td align="left" >
 Venezuela
+</td>
+</tr>
+<tr><td align="left" >
+Venezuela, Bolivarian Republic of
 </td>
 </tr>
 <tr><td align="left" >
@@ -2930,11 +3226,23 @@ Virgin Islands, U.S.
 </td>
 </tr>
 <tr><td align="left" >
+Wallis and Futuna
+</td>
+</tr>
+<tr><td align="left" >
 Wallis And Futuna
 </td>
 </tr>
 <tr><td align="left" >
+We are unable to process your payment. Please contact customer support.
+</td>
+</tr>
+<tr><td align="left" >
 We were unable to find a registered user with this email address.
+</td>
+</tr>
+<tr><td align="left" >
+We will send a receipt download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
 </td>
 </tr>
 <tr><td align="left" >
@@ -2982,11 +3290,19 @@ Year To Date
 </td>
 </tr>
 <tr><td align="left" >
+Yearly
+</td>
+</tr>
+<tr><td align="left" >
 Yemen
 </td>
 </tr>
 <tr><td align="left" >
 Yes
+</td>
+</tr>
+<tr><td align="left" >
+You are currently within your free trial period. Your trial will expire on :date.
 </td>
 </tr>
 <tr><td align="left" >
@@ -3010,6 +3326,10 @@ You have not enabled two factor authentication.
 </td>
 </tr>
 <tr><td align="left" >
+You may cancel your subscription at any time. Once your subscription has been cancelled, you will have the option to resume the subscription until the end of your current billing cycle.
+</td>
+</tr>
+<tr><td align="left" >
 You may delete any of your existing tokens if they are no longer needed.
 </td>
 </tr>
@@ -3022,7 +3342,23 @@ You may not leave a team that you created.
 </td>
 </tr>
 <tr><td align="left" >
+Your :invoiceName invoice is now available!
+</td>
+</tr>
+<tr><td align="left" >
+Your card was declined. Please contact your card issuer for more information.
+</td>
+</tr>
+<tr><td align="left" >
+Your current payment method is a credit card ending in :lastFour that expires on :expiration.
+</td>
+</tr>
+<tr><td align="left" >
 Your email address is not verified.
+</td>
+</tr>
+<tr><td align="left" >
+Your registered VAT Number is :vatNumber.
 </td>
 </tr>
 <tr><td align="left" >
@@ -3031,6 +3367,10 @@ Zambia
 </tr>
 <tr><td align="left" >
 Zimbabwe
+</td>
+</tr>
+<tr><td align="left" >
+Zip / Postal Code
 </td>
 </tr>
 

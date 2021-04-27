@@ -2,21 +2,7 @@
 
 # fr
 
-##### All missed: 1
+##### All missed: 0
 
-
-### json
-
-##### Missing: 1
-
-<table >
-<tr><td align="left" >
-Réunion
-</td>
-</tr>
-
-</table>
-
-
-[ [go back](../status.md) | [to top](#) ]
+All lines are translated 😊
 

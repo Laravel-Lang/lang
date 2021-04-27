@@ -2,12 +2,12 @@
 
 # ar
 
-##### All missed: 92
+##### All missed: 67
 
 
 ### json
 
-##### Missing: 92
+##### Missing: 67
 
 <table >
 <tr><td align="left" >
@@ -31,23 +31,11 @@ An unexpected error occurred and we have notified our support team. Please try a
 </td>
 </tr>
 <tr><td align="left" >
-Antigua and Barbuda
-</td>
-</tr>
-<tr><td align="left" >
 Billing Information
 </td>
 </tr>
 <tr><td align="left" >
 Billing Management
-</td>
-</tr>
-<tr><td align="left" >
-Bolivia, Plurinational State of
-</td>
-</tr>
-<tr><td align="left" >
-Bosnia and Herzegovina
 </td>
 </tr>
 <tr><td align="left" >
@@ -60,10 +48,6 @@ Change Subscription Plan
 </tr>
 <tr><td align="left" >
 City
-</td>
-</tr>
-<tr><td align="left" >
-Congo, the Democratic Republic of the
 </td>
 </tr>
 <tr><td align="left" >
@@ -80,10 +64,6 @@ Current Subscription Plan
 </tr>
 <tr><td align="left" >
 Currently Subscribed
-</td>
-</tr>
-<tr><td align="left" >
-Côte d'Ivoire
 </td>
 </tr>
 <tr><td align="left" >
@@ -111,19 +91,7 @@ Having second thoughts about cancelling your subscription? You can instantly rea
 </td>
 </tr>
 <tr><td align="left" >
-Heard Island and McDonald Islands
-</td>
-</tr>
-<tr><td align="left" >
 If you need to add specific contact or tax information to your receipts, like your full business name, VAT identification number, or address of record, you may add it here.
-</td>
-</tr>
-<tr><td align="left" >
-Iran, Islamic Republic of
-</td>
-</tr>
-<tr><td align="left" >
-Isle of Man
 </td>
 </tr>
 <tr><td align="left" >
@@ -131,19 +99,7 @@ It looks like you do not have an active subscription. You may choose one of the 
 </td>
 </tr>
 <tr><td align="left" >
-Korea, Republic of
-</td>
-</tr>
-<tr><td align="left" >
-Macedonia, the former Yugoslav Republic of
-</td>
-</tr>
-<tr><td align="left" >
 Managing billing for :billableName
-</td>
-</tr>
-<tr><td align="left" >
-Moldova, Republic of
 </td>
 </tr>
 <tr><td align="left" >
@@ -191,34 +147,6 @@ Return to :appName
 </td>
 </tr>
 <tr><td align="left" >
-Réunion
-</td>
-</tr>
-<tr><td align="left" >
-Saint Barthélemy
-</td>
-</tr>
-<tr><td align="left" >
-Saint Kitts and Nevis
-</td>
-</tr>
-<tr><td align="left" >
-Saint Martin (French part)
-</td>
-</tr>
-<tr><td align="left" >
-Saint Pierre and Miquelon
-</td>
-</tr>
-<tr><td align="left" >
-Saint Vincent and the Grenadines
-</td>
-</tr>
-<tr><td align="left" >
-Sao Tome and Principe
-</td>
-</tr>
-<tr><td align="left" >
 Select
 </td>
 </tr>
@@ -231,10 +159,6 @@ Signed in as
 </td>
 </tr>
 <tr><td align="left" >
-South Georgia and the South Sandwich Islands
-</td>
-</tr>
-<tr><td align="left" >
 State / County
 </td>
 </tr>
@@ -244,14 +168,6 @@ Subscribe
 </tr>
 <tr><td align="left" >
 Subscription Information
-</td>
-</tr>
-<tr><td align="left" >
-Taiwan, Province of China
-</td>
-</tr>
-<tr><td align="left" >
-Tanzania, United Republic of
 </td>
 </tr>
 <tr><td align="left" >
@@ -315,27 +231,11 @@ Total:
 </td>
 </tr>
 <tr><td align="left" >
-Turks and Caicos Islands
-</td>
-</tr>
-<tr><td align="left" >
-United States Minor Outlying Islands
-</td>
-</tr>
-<tr><td align="left" >
 Update Payment Information
 </td>
 </tr>
 <tr><td align="left" >
 VAT Number
-</td>
-</tr>
-<tr><td align="left" >
-Venezuela, Bolivarian Republic of
-</td>
-</tr>
-<tr><td align="left" >
-Wallis and Futuna
 </td>
 </tr>
 <tr><td align="left" >

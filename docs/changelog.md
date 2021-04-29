@@ -11,9 +11,12 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ### Changed
 
- * feature: [es] #1718 json file
+ * feature: [af] json file
+ * feature: [ar] #1730 #1732 json file
+ * feature: [es] #1718 #1727 #1731 json file
  * feature: [fr] json file
  * feature: [id] #1722 json file
+ * feature: [it] #1729 json file
  * feature: [ms] #1720 validation.php validation-inline.php
  * feature: [pt] exclude file
  * feature: [pt_BR] exclude file

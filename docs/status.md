@@ -12,7 +12,7 @@
 </td>
 <td align="center" width="17%">
 
-[ar&nbsp;❗](statuses/ar.md)
+[ar&nbsp;✔](statuses/ar.md)
 
 </td>
 <td align="center" width="17%">
@@ -79,7 +79,7 @@
 </td>
 <td align="center" width="17%">
 
-[es&nbsp;❗](statuses/es.md)
+[es&nbsp;✔](statuses/es.md)
 
 </td>
 <td align="center" width="17%">

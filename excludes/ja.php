@@ -12,4 +12,5 @@
 
 return [
     'All rights reserved.',
+    'ex VAT',
 ];

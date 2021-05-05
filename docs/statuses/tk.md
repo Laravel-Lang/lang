@@ -2,7 +2,7 @@
 
 # tk
 
-##### All missed: 789
+##### All missed: 837
 
 
 ### passwords
@@ -25,7 +25,7 @@ Please wait before retrying.
 
 ### validation-inline
 
-##### Missing: 62
+##### Missing: 94
 
 <table >
 <tr><td align="left" >
@@ -103,6 +103,34 @@ before_or_equal
 </td>
 <td align="left" >
 This must be a date before or equal to :date.
+</td>
+</tr>
+<tr><td align="left" >
+between.array
+</td>
+<td align="left" >
+This content must have between :min and :max items.
+</td>
+</tr>
+<tr><td align="left" >
+between.file
+</td>
+<td align="left" >
+This file must be between :min and :max kilobytes.
+</td>
+</tr>
+<tr><td align="left" >
+between.numeric
+</td>
+<td align="left" >
+This value must be between :min and :max.
+</td>
+</tr>
+<tr><td align="left" >
+between.string
+</td>
+<td align="left" >
+This string must be between :min and :max characters.
 </td>
 </tr>
 <tr><td align="left" >
@@ -211,6 +239,62 @@ This field must have a value.
 </td>
 </tr>
 <tr><td align="left" >
+gt.array
+</td>
+<td align="left" >
+The content must have more than :value items.
+</td>
+</tr>
+<tr><td align="left" >
+gt.file
+</td>
+<td align="left" >
+The file size must be greater than :value kilobytes.
+</td>
+</tr>
+<tr><td align="left" >
+gt.numeric
+</td>
+<td align="left" >
+The value must be greater than :value.
+</td>
+</tr>
+<tr><td align="left" >
+gt.string
+</td>
+<td align="left" >
+The string must be greater than :value characters.
+</td>
+</tr>
+<tr><td align="left" >
+gte.array
+</td>
+<td align="left" >
+The content must have :value items or more.
+</td>
+</tr>
+<tr><td align="left" >
+gte.file
+</td>
+<td align="left" >
+The file size must be greater than or equal :value kilobytes.
+</td>
+</tr>
+<tr><td align="left" >
+gte.numeric
+</td>
+<td align="left" >
+The value must be greater than or equal :value.
+</td>
+</tr>
+<tr><td align="left" >
+gte.string
+</td>
+<td align="left" >
+The string must be greater than or equal :value characters.
+</td>
+</tr>
+<tr><td align="left" >
 image
 </td>
 <td align="left" >
@@ -267,6 +351,90 @@ This must be a valid JSON string.
 </td>
 </tr>
 <tr><td align="left" >
+lt.array
+</td>
+<td align="left" >
+The content must have less than :value items.
+</td>
+</tr>
+<tr><td align="left" >
+lt.file
+</td>
+<td align="left" >
+The file size must be less than :value kilobytes.
+</td>
+</tr>
+<tr><td align="left" >
+lt.numeric
+</td>
+<td align="left" >
+The value must be less than :value.
+</td>
+</tr>
+<tr><td align="left" >
+lt.string
+</td>
+<td align="left" >
+The string must be less than :value characters.
+</td>
+</tr>
+<tr><td align="left" >
+lte.array
+</td>
+<td align="left" >
+The content must not have more than :value items.
+</td>
+</tr>
+<tr><td align="left" >
+lte.file
+</td>
+<td align="left" >
+The file size must be less than or equal :value kilobytes.
+</td>
+</tr>
+<tr><td align="left" >
+lte.numeric
+</td>
+<td align="left" >
+The value must be less than or equal :value.
+</td>
+</tr>
+<tr><td align="left" >
+lte.string
+</td>
+<td align="left" >
+The string must be less than or equal :value characters.
+</td>
+</tr>
+<tr><td align="left" >
+max.array
+</td>
+<td align="left" >
+The content may not have more than :max items.
+</td>
+</tr>
+<tr><td align="left" >
+max.file
+</td>
+<td align="left" >
+The file size may not be greater than :max kilobytes.
+</td>
+</tr>
+<tr><td align="left" >
+max.numeric
+</td>
+<td align="left" >
+The value may not be greater than :max.
+</td>
+</tr>
+<tr><td align="left" >
+max.string
+</td>
+<td align="left" >
+The string may not be greater than :max characters.
+</td>
+</tr>
+<tr><td align="left" >
 mimes
 </td>
 <td align="left" >
@@ -278,6 +446,34 @@ mimetypes
 </td>
 <td align="left" >
 This must be a file of type: :values.
+</td>
+</tr>
+<tr><td align="left" >
+min.array
+</td>
+<td align="left" >
+The value must have at least :min items.
+</td>
+</tr>
+<tr><td align="left" >
+min.file
+</td>
+<td align="left" >
+The file size must be at least :min kilobytes.
+</td>
+</tr>
+<tr><td align="left" >
+min.numeric
+</td>
+<td align="left" >
+The value must be at least :min.
+</td>
+</tr>
+<tr><td align="left" >
+min.string
+</td>
+<td align="left" >
+The string must be at least :min characters.
 </td>
 </tr>
 <tr><td align="left" >
@@ -414,6 +610,34 @@ The value of this field must match the one from :other.
 </td>
 </tr>
 <tr><td align="left" >
+size.array
+</td>
+<td align="left" >
+The content must contain :size items.
+</td>
+</tr>
+<tr><td align="left" >
+size.file
+</td>
+<td align="left" >
+The file size must be :size kilobytes.
+</td>
+</tr>
+<tr><td align="left" >
+size.numeric
+</td>
+<td align="left" >
+The value must be :size.
+</td>
+</tr>
+<tr><td align="left" >
+size.string
+</td>
+<td align="left" >
+The string must be :size characters.
+</td>
+</tr>
+<tr><td align="left" >
 starts_with
 </td>
 <td align="left" >
@@ -470,7 +694,7 @@ This must be a valid UUID.
 
 ### validation
 
-##### Missing: 25
+##### Missing: 41
 
 <table >
 <tr><td align="left" >
@@ -530,6 +754,62 @@ The :attribute must be a file.
 </td>
 </tr>
 <tr><td align="left" >
+gt.array
+</td>
+<td align="left" >
+The :attribute must have more than :value items.
+</td>
+</tr>
+<tr><td align="left" >
+gt.file
+</td>
+<td align="left" >
+The :attribute must be greater than :value kilobytes.
+</td>
+</tr>
+<tr><td align="left" >
+gt.numeric
+</td>
+<td align="left" >
+The :attribute must be greater than :value.
+</td>
+</tr>
+<tr><td align="left" >
+gt.string
+</td>
+<td align="left" >
+The :attribute must be greater than :value characters.
+</td>
+</tr>
+<tr><td align="left" >
+gte.array
+</td>
+<td align="left" >
+The :attribute must have :value items or more.
+</td>
+</tr>
+<tr><td align="left" >
+gte.file
+</td>
+<td align="left" >
+The :attribute must be greater than or equal :value kilobytes.
+</td>
+</tr>
+<tr><td align="left" >
+gte.numeric
+</td>
+<td align="left" >
+The :attribute must be greater than or equal :value.
+</td>
+</tr>
+<tr><td align="left" >
+gte.string
+</td>
+<td align="left" >
+The :attribute must be greater than or equal :value characters.
+</td>
+</tr>
+<tr><td align="left" >
 in_array
 </td>
 <td align="left" >
@@ -555,6 +835,62 @@ json
 </td>
 <td align="left" >
 The :attribute must be a valid JSON string.
+</td>
+</tr>
+<tr><td align="left" >
+lt.array
+</td>
+<td align="left" >
+The :attribute must have less than :value items.
+</td>
+</tr>
+<tr><td align="left" >
+lt.file
+</td>
+<td align="left" >
+The :attribute must be less than :value kilobytes.
+</td>
+</tr>
+<tr><td align="left" >
+lt.numeric
+</td>
+<td align="left" >
+The :attribute must be less than :value.
+</td>
+</tr>
+<tr><td align="left" >
+lt.string
+</td>
+<td align="left" >
+The :attribute must be less than :value characters.
+</td>
+</tr>
+<tr><td align="left" >
+lte.array
+</td>
+<td align="left" >
+The :attribute must not have more than :value items.
+</td>
+</tr>
+<tr><td align="left" >
+lte.file
+</td>
+<td align="left" >
+The :attribute must be less than or equal :value kilobytes.
+</td>
+</tr>
+<tr><td align="left" >
+lte.numeric
+</td>
+<td align="left" >
+The :attribute must be less than or equal :value.
+</td>
+</tr>
+<tr><td align="left" >
+lte.string
+</td>
+<td align="left" >
+The :attribute must be less than or equal :value characters.
 </td>
 </tr>
 <tr><td align="left" >

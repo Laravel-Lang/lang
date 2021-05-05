@@ -58,6 +58,7 @@ return [
     'Guyana',
     'Haiti',
     'Honduras',
+    'Hong Kong',
     'ID',
     'India',
     'Iran, Islamic Republic Of',

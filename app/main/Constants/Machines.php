@@ -7,7 +7,6 @@ class Machines
     public const LOCALES = [
         'az',
         'be',
-        'bg',
         'bn',
         'bs',
         'ca',
@@ -20,15 +19,14 @@ class Machines
         'gl',
         'he',
         'hi',
+        'hu',
         'is',
-        'ja',
         'ka',
         'kk',
         'kn',
         'lv',
         'mn',
         'mr',
-        'ms',
         'sk',
         'sl',
         'sq',
@@ -41,5 +39,7 @@ class Machines
         'tl',
         'uk',
         'ur',
+        'uz_Cyrl',
+        'uz_Latn'
     ];
 }

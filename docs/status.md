@@ -27,7 +27,7 @@
 </td>
 <td align="center" width="17%">
 
-[bg&nbsp;❗&nbsp;🤖](statuses/bg.md)
+[bg&nbsp;❗](statuses/bg.md)
 
 </td>
 <td align="center" width="17%">
@@ -136,7 +136,7 @@
 </td>
 <td align="center" width="17%">
 
-[hu&nbsp;❗](statuses/hu.md)
+[hu&nbsp;❗&nbsp;🤖](statuses/hu.md)
 
 </td>
 <td align="center" width="17%">
@@ -162,7 +162,7 @@
 </tr>
 <tr><td align="center" width="17%">
 
-[ja&nbsp;❗&nbsp;🤖](statuses/ja.md)
+[ja&nbsp;❗](statuses/ja.md)
 
 </td>
 <td align="center" width="17%">
@@ -218,7 +218,7 @@
 </td>
 <td align="center" width="17%">
 
-[ms&nbsp;❗&nbsp;🤖](statuses/ms.md)
+[ms&nbsp;❗](statuses/ms.md)
 
 </td>
 </tr>
@@ -373,13 +373,13 @@
 </td>
 <td align="center" width="17%">
 
-[uz_Cyrl&nbsp;❗](statuses/uz-cyrl.md)
+[uz_Cyrl&nbsp;❗&nbsp;🤖](statuses/uz-cyrl.md)
 
 </td>
 </tr>
 <tr><td align="center" width="17%">
 
-[uz_Latn&nbsp;❗](statuses/uz-latn.md)
+[uz_Latn&nbsp;❗&nbsp;🤖](statuses/uz-latn.md)
 
 </td>
 <td align="center" width="17%">

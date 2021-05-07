@@ -2,7 +2,7 @@
 
 # bn
 
-##### All missed: 133
+##### All missed: 131
 
 
 ### validation-inline
@@ -365,13 +365,9 @@ The :attribute must be less than or equal :value characters.
 
 ### json
 
-##### Missing: 85
+##### Missing: 83
 
 <table >
-<tr><td align="left" >
-Antigua and Barbuda
-</td>
-</tr>
 <tr><td align="left" >
 Bolivia, Plurinational State of
 </td>
@@ -390,10 +386,6 @@ Change Subscription Plan
 </tr>
 <tr><td align="left" >
 City
-</td>
-</tr>
-<tr><td align="left" >
-Congo, the Democratic Republic of the
 </td>
 </tr>
 <tr><td align="left" >

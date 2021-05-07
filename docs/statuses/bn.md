@@ -2,7 +2,7 @@
 
 # bn
 
-##### All missed: 140
+##### All missed: 133
 
 
 ### validation-inline
@@ -365,39 +365,11 @@ The :attribute must be less than or equal :value characters.
 
 ### json
 
-##### Missing: 92
+##### Missing: 85
 
 <table >
 <tr><td align="left" >
-:days day trial
-</td>
-</tr>
-<tr><td align="left" >
-Add VAT Number
-</td>
-</tr>
-<tr><td align="left" >
-Address
-</td>
-</tr>
-<tr><td align="left" >
-Address Line 2
-</td>
-</tr>
-<tr><td align="left" >
-An unexpected error occurred and we have notified our support team. Please try again later.
-</td>
-</tr>
-<tr><td align="left" >
 Antigua and Barbuda
-</td>
-</tr>
-<tr><td align="left" >
-Billing Information
-</td>
-</tr>
-<tr><td align="left" >
-Billing Management
 </td>
 </tr>
 <tr><td align="left" >

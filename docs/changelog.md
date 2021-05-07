@@ -7,6 +7,19 @@ All notable changes to this project will be documented in this file, since v7.0.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres
 to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [Unreleased]
+
+### Changed
+
+ * feature: [bn] #1739 #1741 auth.php json file
+ * feature: [de] #1737 json file
+ * feature: [nb] #1743 json file
+ * feature: [nl] #1733 json file
+
+### Todo Script
+
+ * feature: #1738 Added comparison of sub-elements of arrays
+
 ## [9.1.1] - 2021-05-02
 
 ### Changed

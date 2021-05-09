@@ -2,7 +2,7 @@
 
 # nb
 
-##### All missed: 759
+##### All missed: 636
 
 
 ### validation-inline
@@ -729,115 +729,15 @@ This :attribute may not be associated with this resource.
 
 ### json
 
-##### Missing: 659
+##### Missing: 536
 
 <table >
-<tr><td align="left" >
-30 Days
-</td>
-</tr>
-<tr><td align="left" >
-60 Days
-</td>
-</tr>
-<tr><td align="left" >
-90 Days
-</td>
-</tr>
-<tr><td align="left" >
-:amount Total
-</td>
-</tr>
-<tr><td align="left" >
-:days day trial
-</td>
-</tr>
-<tr><td align="left" >
-:resource Details
-</td>
-</tr>
-<tr><td align="left" >
-:resource Details: :title
-</td>
-</tr>
-<tr><td align="left" >
-A new verification link has been sent to the email address you provided during registration.
-</td>
-</tr>
-<tr><td align="left" >
-Accept Invitation
-</td>
-</tr>
-<tr><td align="left" >
-Action
-</td>
-</tr>
-<tr><td align="left" >
-Action Happened At
-</td>
-</tr>
-<tr><td align="left" >
-Action Initiated By
-</td>
-</tr>
-<tr><td align="left" >
-Action Name
-</td>
-</tr>
 <tr><td align="left" >
 Action Status
 </td>
 </tr>
 <tr><td align="left" >
-Action Target
-</td>
-</tr>
-<tr><td align="left" >
-Actions
-</td>
-</tr>
-<tr><td align="left" >
-Add
-</td>
-</tr>
-<tr><td align="left" >
-Add a new team member to your team, allowing them to collaborate with you.
-</td>
-</tr>
-<tr><td align="left" >
-Add additional security to your account using two factor authentication.
-</td>
-</tr>
-<tr><td align="left" >
-Add row
-</td>
-</tr>
-<tr><td align="left" >
-Add Team Member
-</td>
-</tr>
-<tr><td align="left" >
-Add VAT Number
-</td>
-</tr>
-<tr><td align="left" >
-Added.
-</td>
-</tr>
-<tr><td align="left" >
-Address
-</td>
-</tr>
-<tr><td align="left" >
-Address Line 2
-</td>
-</tr>
-<tr><td align="left" >
 Administrator
-</td>
-</tr>
-<tr><td align="left" >
-Administrator users can perform any action.
 </td>
 </tr>
 <tr><td align="left" >
@@ -857,27 +757,7 @@ Algeria
 </td>
 </tr>
 <tr><td align="left" >
-All of the people that are part of this team.
-</td>
-</tr>
-<tr><td align="left" >
-All resources loaded.
-</td>
-</tr>
-<tr><td align="left" >
-Already registered?
-</td>
-</tr>
-<tr><td align="left" >
 American Samoa
-</td>
-</tr>
-<tr><td align="left" >
-An error occured while uploading the file.
-</td>
-</tr>
-<tr><td align="left" >
-An unexpected error occurred and we have notified our support team. Please try again later.
 </td>
 </tr>
 <tr><td align="left" >
@@ -893,10 +773,6 @@ Anguilla
 </td>
 </tr>
 <tr><td align="left" >
-Another user has updated this resource since this page was loaded. Please refresh the page and try again.
-</td>
-</tr>
-<tr><td align="left" >
 Antarctica
 </td>
 </tr>
@@ -909,83 +785,7 @@ Antigua And Barbuda
 </td>
 </tr>
 <tr><td align="left" >
-API Token
-</td>
-</tr>
-<tr><td align="left" >
-API Token Permissions
-</td>
-</tr>
-<tr><td align="left" >
-API Tokens
-</td>
-</tr>
-<tr><td align="left" >
-API tokens allow third-party services to authenticate with our application on your behalf.
-</td>
-</tr>
-<tr><td align="left" >
 April
-</td>
-</tr>
-<tr><td align="left" >
-Are you sure you want to delete the selected resources?
-</td>
-</tr>
-<tr><td align="left" >
-Are you sure you want to delete this file?
-</td>
-</tr>
-<tr><td align="left" >
-Are you sure you want to delete this resource?
-</td>
-</tr>
-<tr><td align="left" >
-Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted.
-</td>
-</tr>
-<tr><td align="left" >
-Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
-</td>
-</tr>
-<tr><td align="left" >
-Are you sure you want to detach the selected resources?
-</td>
-</tr>
-<tr><td align="left" >
-Are you sure you want to detach this resource?
-</td>
-</tr>
-<tr><td align="left" >
-Are you sure you want to force delete the selected resources?
-</td>
-</tr>
-<tr><td align="left" >
-Are you sure you want to force delete this resource?
-</td>
-</tr>
-<tr><td align="left" >
-Are you sure you want to restore the selected resources?
-</td>
-</tr>
-<tr><td align="left" >
-Are you sure you want to restore this resource?
-</td>
-</tr>
-<tr><td align="left" >
-Are you sure you want to run this action?
-</td>
-</tr>
-<tr><td align="left" >
-Are you sure you would like to delete this API token?
-</td>
-</tr>
-<tr><td align="left" >
-Are you sure you would like to leave this team?
-</td>
-</tr>
-<tr><td align="left" >
-Are you sure you would like to remove this person from the team?
 </td>
 </tr>
 <tr><td align="left" >
@@ -1002,14 +802,6 @@ Aruba
 </tr>
 <tr><td align="left" >
 Attach
-</td>
-</tr>
-<tr><td align="left" >
-Attach & Attach Another
-</td>
-</tr>
-<tr><td align="left" >
-Attach :resource
 </td>
 </tr>
 <tr><td align="left" >
@@ -1066,14 +858,6 @@ Bermuda
 </tr>
 <tr><td align="left" >
 Bhutan
-</td>
-</tr>
-<tr><td align="left" >
-Billing Information
-</td>
-</tr>
-<tr><td align="left" >
-Billing Management
 </td>
 </tr>
 <tr><td align="left" >
@@ -1145,10 +929,6 @@ Cancel
 </td>
 </tr>
 <tr><td align="left" >
-Cancel Subscription
-</td>
-</tr>
-<tr><td align="left" >
 Cape Verde
 </td>
 </tr>
@@ -1189,51 +969,11 @@ Choose
 </td>
 </tr>
 <tr><td align="left" >
-Choose :field
-</td>
-</tr>
-<tr><td align="left" >
-Choose :resource
-</td>
-</tr>
-<tr><td align="left" >
-Choose an option
-</td>
-</tr>
-<tr><td align="left" >
-Choose date
-</td>
-</tr>
-<tr><td align="left" >
-Choose File
-</td>
-</tr>
-<tr><td align="left" >
-Choose Type
-</td>
-</tr>
-<tr><td align="left" >
 Christmas Island
 </td>
 </tr>
 <tr><td align="left" >
-City
-</td>
-</tr>
-<tr><td align="left" >
-Click to choose
-</td>
-</tr>
-<tr><td align="left" >
-Close
-</td>
-</tr>
-<tr><td align="left" >
 Cocos (Keeling) Islands
-</td>
-</tr>
-<tr><td align="left" >
-Code
 </td>
 </tr>
 <tr><td align="left" >
@@ -1242,18 +982,6 @@ Colombia
 </tr>
 <tr><td align="left" >
 Comoros
-</td>
-</tr>
-<tr><td align="left" >
-Confirm
-</td>
-</tr>
-<tr><td align="left" >
-Confirm Payment
-</td>
-</tr>
-<tr><td align="left" >
-Confirm your :amount payment
 </td>
 </tr>
 <tr><td align="left" >
@@ -1281,51 +1009,7 @@ Costa Rica
 </td>
 </tr>
 <tr><td align="left" >
-could not be found.
-</td>
-</tr>
-<tr><td align="left" >
-Country
-</td>
-</tr>
-<tr><td align="left" >
 Coupon
-</td>
-</tr>
-<tr><td align="left" >
-Create
-</td>
-</tr>
-<tr><td align="left" >
-Create & Add Another
-</td>
-</tr>
-<tr><td align="left" >
-Create :resource
-</td>
-</tr>
-<tr><td align="left" >
-Create a new team to collaborate with others on projects.
-</td>
-</tr>
-<tr><td align="left" >
-Create Account
-</td>
-</tr>
-<tr><td align="left" >
-Create API Token
-</td>
-</tr>
-<tr><td align="left" >
-Create New Team
-</td>
-</tr>
-<tr><td align="left" >
-Create Team
-</td>
-</tr>
-<tr><td align="left" >
-Created.
 </td>
 </tr>
 <tr><td align="left" >
@@ -1341,22 +1025,6 @@ Curaçao
 </td>
 </tr>
 <tr><td align="left" >
-Current Password
-</td>
-</tr>
-<tr><td align="left" >
-Current Subscription Plan
-</td>
-</tr>
-<tr><td align="left" >
-Currently Subscribed
-</td>
-</tr>
-<tr><td align="left" >
-Customize
-</td>
-</tr>
-<tr><td align="left" >
 Cyprus
 </td>
 </tr>
@@ -1369,71 +1037,11 @@ Dashboard
 </td>
 </tr>
 <tr><td align="left" >
-December
-</td>
-</tr>
-<tr><td align="left" >
-Decrease
-</td>
-</tr>
-<tr><td align="left" >
-Delete
-</td>
-</tr>
-<tr><td align="left" >
-Delete Account
-</td>
-</tr>
-<tr><td align="left" >
-Delete API Token
-</td>
-</tr>
-<tr><td align="left" >
-Delete File
-</td>
-</tr>
-<tr><td align="left" >
-Delete Resource
-</td>
-</tr>
-<tr><td align="left" >
-Delete Selected
-</td>
-</tr>
-<tr><td align="left" >
-Delete Team
-</td>
-</tr>
-<tr><td align="left" >
 Denmark
 </td>
 </tr>
 <tr><td align="left" >
-Detach
-</td>
-</tr>
-<tr><td align="left" >
-Detach Resource
-</td>
-</tr>
-<tr><td align="left" >
-Detach Selected
-</td>
-</tr>
-<tr><td align="left" >
-Details
-</td>
-</tr>
-<tr><td align="left" >
-Disable
-</td>
-</tr>
-<tr><td align="left" >
 Djibouti
-</td>
-</tr>
-<tr><td align="left" >
-Do you really want to leave? You have unsaved changes.
 </td>
 </tr>
 <tr><td align="left" >
@@ -1445,39 +1053,7 @@ Dominican Republic
 </td>
 </tr>
 <tr><td align="left" >
-Done.
-</td>
-</tr>
-<tr><td align="left" >
-Download
-</td>
-</tr>
-<tr><td align="left" >
-Download Receipt
-</td>
-</tr>
-<tr><td align="left" >
 Ecuador
-</td>
-</tr>
-<tr><td align="left" >
-Edit
-</td>
-</tr>
-<tr><td align="left" >
-Edit :resource
-</td>
-</tr>
-<tr><td align="left" >
-Edit Attached
-</td>
-</tr>
-<tr><td align="left" >
-Editor
-</td>
-</tr>
-<tr><td align="left" >
-Editor users have the ability to read, create, and update.
 </td>
 </tr>
 <tr><td align="left" >
@@ -1486,30 +1062,6 @@ Egypt
 </tr>
 <tr><td align="left" >
 El Salvador
-</td>
-</tr>
-<tr><td align="left" >
-Email
-</td>
-</tr>
-<tr><td align="left" >
-Email Address
-</td>
-</tr>
-<tr><td align="left" >
-Email Addresses
-</td>
-</tr>
-<tr><td align="left" >
-Email Password Reset Link
-</td>
-</tr>
-<tr><td align="left" >
-Enable
-</td>
-</tr>
-<tr><td align="left" >
-Ensure your account is using a long, random password to stay secure.
 </td>
 </tr>
 <tr><td align="left" >
@@ -1529,22 +1081,6 @@ Ethiopia
 </td>
 </tr>
 <tr><td align="left" >
-ex VAT
-</td>
-</tr>
-<tr><td align="left" >
-Extra Billing Information
-</td>
-</tr>
-<tr><td align="left" >
-Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below.
-</td>
-</tr>
-<tr><td align="left" >
-Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below.
-</td>
-</tr>
-<tr><td align="left" >
 Falkland Islands (Malvinas)
 </td>
 </tr>
@@ -1553,39 +1089,11 @@ Faroe Islands
 </td>
 </tr>
 <tr><td align="left" >
-February
-</td>
-</tr>
-<tr><td align="left" >
 Fiji
 </td>
 </tr>
 <tr><td align="left" >
 Finland
-</td>
-</tr>
-<tr><td align="left" >
-For your security, please confirm your password to continue.
-</td>
-</tr>
-<tr><td align="left" >
-Force Delete
-</td>
-</tr>
-<tr><td align="left" >
-Force Delete Resource
-</td>
-</tr>
-<tr><td align="left" >
-Force Delete Selected
-</td>
-</tr>
-<tr><td align="left" >
-Forgot your password?
-</td>
-</tr>
-<tr><td align="left" >
-Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
 </td>
 </tr>
 <tr><td align="left" >

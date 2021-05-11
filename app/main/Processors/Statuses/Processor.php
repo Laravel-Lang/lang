@@ -9,7 +9,10 @@ use Helldar\Support\Facades\Tools\Sorter;
 use LaravelLang\Lang\Concerns\Countable;
 use LaravelLang\Lang\Concerns\Excludes;
 use LaravelLang\Lang\Concerns\Template;
+use LaravelLang\Lang\Facades\Arr as ArrHelper;
 use LaravelLang\Lang\Processors\Processor as BaseProcessor;
+
+use function PHPUnit\Framework\returnArgument;
 
 abstract class Processor extends BaseProcessor
 {
@@ -69,10 +72,22 @@ abstract class Processor extends BaseProcessor
 
     protected function compare(array $source, array $target, string $locale, bool $is_validation): array
     {
+        $source = $this->prepareComparing($source, $is_validation);
+        $target = $this->prepareComparing($target, $is_validation);
+
         return array_filter($target,
             fn ($value, $key) => $this->hasEquals($value, $key, $source, $locale, $is_validation),
             ARRAY_FILTER_USE_BOTH
         );
+    }
+
+    protected function prepareComparing(array $array, bool $is_validation): array
+    {
+        if ($is_validation) {
+            $array = Arr::except($array, ['custom', 'attributes']);
+        }
+
+        return ArrHelper::flatten($array);
     }
 
     protected function hasEquals($value, $key, array $source, string $locale, bool $is_validation): bool

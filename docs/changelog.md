@@ -11,15 +11,40 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ### Changed
 
- * feature: [es] #1718 json file
+ * feature: [bn] #1739 #1741 auth.php json file
+ * feature: [de] #1737 json file
+ * feature: [nb] #1743 json file
+ * feature: [nl] #1733 json file
+
+### Todo Script
+
+ * feature: #1738 Added comparison of sub-elements of arrays
+
+## [9.1.1] - 2021-05-02
+
+### Changed
+
+ * feature: [af] json file
+ * feature: [ar] #1730 #1732 json file
+ * feature: [es] #1718 #1727 #1731 json file
  * feature: [fr] json file
+ * feature: [id] #1722 json file
+ * feature: [it] #1729 json file
+ * feature: [ja] #1736 auth.php pagination.php passwords.php validation-inline.php json exclude files
  * feature: [ms] #1720 validation.php validation-inline.php
  * feature: [pt] exclude file
- * feature: [pt_BR] exclude file
+ * feature: [pt_BR] #1726 json exclude files
+ * feature: [ru] #1721 #1725 json file
+ * feature: [vi] #1723 json file
 
 ### Reference
 
+ * feature: [en] #1715 Start of add of Laravel Spark tags
  * feature: [en] #1717 Add translations for new Password Validation Rule
+
+### Todo Script
+
+ * feature: #1724 Reduced the number of displayed columns
 
 ## [9.1.0] - 2021-04-24
 
@@ -419,7 +444,8 @@ For more information, see #1606 and #1607.
 
 * feature: #1269 Rename locale folders following ISO 15897 format
 
-[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/9.1.0...master
+[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/9.1.1...master
+[9.1.1]: https://github.com/caouecs/Laravel-lang/compare/9.1.0...9.1.1
 [9.1.0]: https://github.com/caouecs/Laravel-lang/compare/9.0.1...9.1.0
 [9.0.1]: https://github.com/caouecs/Laravel-lang/compare/9.0.0...9.0.1
 [9.0.0]: https://github.com/caouecs/Laravel-lang/compare/8.1.3...9.0.0

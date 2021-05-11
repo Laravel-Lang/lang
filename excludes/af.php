@@ -35,6 +35,7 @@ return [
     'Christmas Island',
     'Colombia',
     'Costa Rica',
+    'Côte d\'Ivoire',
     'Ecuador',
     'Eritrea',
     'Finland',

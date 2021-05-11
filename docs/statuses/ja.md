@@ -2,40 +2,36 @@
 
 # ja
 
-##### All missed: 7
+##### All missed: 6
 
 
 ### json
 
-##### Missing: 7
+##### Missing: 6
 
 <table >
+<tr><td align="left" >
+Billing Information
+</td>
+</tr>
+<tr><td align="left" >
+Billing Management
+</td>
+</tr>
+<tr><td align="left" >
+Extra Billing Information
+</td>
+</tr>
 <tr><td align="left" >
 ID
 </td>
 </tr>
 <tr><td align="left" >
-Qatar
+Signed in as
 </td>
 </tr>
 <tr><td align="left" >
-The :attribute must contain at least one letter.
-</td>
-</tr>
-<tr><td align="left" >
-The :attribute must contain at least one number.
-</td>
-</tr>
-<tr><td align="left" >
-The :attribute must contain at least one symbol.
-</td>
-</tr>
-<tr><td align="left" >
-The :attribute must contain at least one uppercase and one lowercase letter.
-</td>
-</tr>
-<tr><td align="left" >
-The given :attribute has appeared in a data leak. Please choose a different :attribute.
+Thanks,
 </td>
 </tr>
 

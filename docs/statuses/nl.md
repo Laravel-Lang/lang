@@ -2,32 +2,108 @@
 
 # nl
 
-##### All missed: 5
+##### All missed: 24
 
 
 ### json
 
-##### Missing: 5
+##### Missing: 24
 
 <table >
 <tr><td align="left" >
-The :attribute must contain at least one letter.
+Billing Information
 </td>
 </tr>
 <tr><td align="left" >
-The :attribute must contain at least one number.
+Billing Management
 </td>
 </tr>
 <tr><td align="left" >
-The :attribute must contain at least one symbol.
+Bolivia, Plurinational State of
 </td>
 </tr>
 <tr><td align="left" >
-The :attribute must contain at least one uppercase and one lowercase letter.
+Congo, the Democratic Republic of the
 </td>
 </tr>
 <tr><td align="left" >
-The given :attribute has appeared in a data leak. Please choose a different :attribute.
+Côte d'Ivoire
+</td>
+</tr>
+<tr><td align="left" >
+Korea, Republic of
+</td>
+</tr>
+<tr><td align="left" >
+Macedonia, the former Yugoslav Republic of
+</td>
+</tr>
+<tr><td align="left" >
+Moldova, Republic of
+</td>
+</tr>
+<tr><td align="left" >
+Receipt Email Addresses
+</td>
+</tr>
+<tr><td align="left" >
+Receipts
+</td>
+</tr>
+<tr><td align="left" >
+Réunion
+</td>
+</tr>
+<tr><td align="left" >
+Saint Barthélemy
+</td>
+</tr>
+<tr><td align="left" >
+Saint Martin (French part)
+</td>
+</tr>
+<tr><td align="left" >
+South Georgia and the South Sandwich Islands
+</td>
+</tr>
+<tr><td align="left" >
+Taiwan, Province of China
+</td>
+</tr>
+<tr><td align="left" >
+Tanzania, United Republic of
+</td>
+</tr>
+<tr><td align="left" >
+The provided coupon code is invalid.
+</td>
+</tr>
+<tr><td align="left" >
+The receipt emails must be valid email addresses.
+</td>
+</tr>
+<tr><td align="left" >
+Total:
+</td>
+</tr>
+<tr><td align="left" >
+Turks and Caicos Islands
+</td>
+</tr>
+<tr><td align="left" >
+United States Minor Outlying Islands
+</td>
+</tr>
+<tr><td align="left" >
+Venezuela, Bolivarian Republic of
+</td>
+</tr>
+<tr><td align="left" >
+Wallis and Futuna
+</td>
+</tr>
+<tr><td align="left" >
+We will send a receipt download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
 </td>
 </tr>
 

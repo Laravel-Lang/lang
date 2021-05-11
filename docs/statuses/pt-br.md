@@ -2,12 +2,12 @@
 
 # pt_BR
 
-##### All missed: 87
+##### All missed: 84
 
 
 ### json
 
-##### Missing: 87
+##### Missing: 84
 
 <table >
 <tr><td align="left" >
@@ -16,10 +16,6 @@
 </tr>
 <tr><td align="left" >
 Add VAT Number
-</td>
-</tr>
-<tr><td align="left" >
-Address
 </td>
 </tr>
 <tr><td align="left" >
@@ -59,15 +55,7 @@ Change Subscription Plan
 </td>
 </tr>
 <tr><td align="left" >
-City
-</td>
-</tr>
-<tr><td align="left" >
 Congo, the Democratic Republic of the
-</td>
-</tr>
-<tr><td align="left" >
-Country
 </td>
 </tr>
 <tr><td align="left" >

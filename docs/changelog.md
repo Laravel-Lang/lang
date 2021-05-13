@@ -13,8 +13,10 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
  * feature: [bn] #1739 #1741 auth.php json file
  * feature: [de] #1737 json file
- * feature: [nb] #1743 json file
+ * feature: [it] #1745 json file
+ * feature: [nb] #1743 #1744 json file
  * feature: [nl] #1733 json file
+ * feature: [pt_BR] #1746 json file
 
 ### Todo Script
 

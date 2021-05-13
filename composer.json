@@ -26,6 +26,8 @@
         "andrey-helldar/pretty-array": "^2.3",
         "andrey-helldar/support": "^3.6",
         "guzzlehttp/guzzle": "^7.3",
+        "laravel/cashier": "^12.13",
+        "laravel/cashier-paddle": "^1.4",
         "phpunit/phpunit": "^9.5",
         "symfony/var-dumper": "^5.2",
         "vlucas/phpdotenv": "^5.3"

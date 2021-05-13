@@ -11,10 +11,10 @@ final class PhpTest extends TestCase
     public function testPhp(): void
     {
         foreach ($this->files() as $filename) {
-            $source = $this->source($filename);
+            $source = $this->source('main/' . $filename);
 
             foreach ($this->locales() as $locale) {
-                $path = $this->target_path . '/' . $locale . '/' . $filename;
+                $path = $this->target_path . '/' . $locale . '/main/' . $filename;
 
                 $target = $this->load($path);
 
@@ -29,7 +29,7 @@ final class PhpTest extends TestCase
 
     protected function files(): array
     {
-        return File::names($this->source_path, static fn ($filename) => str_ends_with($filename, '.php'));
+        return File::names($this->source_path . '/main', static fn ($filename) => str_ends_with($filename, '.php'));
     }
 
     protected function locales(): array

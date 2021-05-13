@@ -7,20 +7,32 @@ use Helldar\Support\Facades\Helpers\Filesystem\Directory;
 
 final class JsonTest extends TestCase
 {
+    protected array $files = [
+        'cashier.json',
+        'fortify.json',
+        'jetstream.json',
+        'nova.json',
+        'main/main.json',
+        'spark/paddle.json',
+        'spark/stripe.json',
+    ];
+
     public function testJson(): void
     {
-        $source = $this->source('en.json');
+        foreach ($this->files as $file) {
+            $source = $this->source($file);
 
-        foreach ($this->files() as $locale) {
-            $path = $this->target_path . '/' . $locale . '/' . $locale . '.json';
+            foreach ($this->locales() as $locale) {
+                $path = $this->target_path . '/' . $locale . '/' . $file;
 
-            $target = $this->load($path);
+                $target = $this->load($path);
 
-            $this->assertSame(array_keys($source), array_keys($target), $this->messageForPath($path));
+                $this->assertSame(array_keys($source), array_keys($target), $this->messageForPath($path));
+            }
         }
     }
 
-    protected function files(): array
+    protected function locales(): array
     {
         return Directory::names($this->target_path);
     }

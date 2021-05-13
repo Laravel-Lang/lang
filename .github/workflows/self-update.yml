@@ -30,57 +30,61 @@ jobs:
             -   name: Install dependencies
                 run: composer update --prefer-stable --prefer-dist --no-progress --no-interaction
 
-            -   name: Keys actualization
+            -   name: Scanning packages
+                id: commit_packages
                 if: success()
-                run: php app/keys.php
+                run: |
+                    IS_DIRTY=1
 
-            -   name: Commit files after checking keys
+                    php app/packages.php
+
+                    { git add . && git commit -a -m "Updating package files"; } || IS_DIRTY=0
+
+                    echo ::set-output name=is_dirty::${IS_DIRTY}
+
+            -   name: Keys actualization
                 id: commit_keys
                 if: success()
                 run: |
                     IS_DIRTY=1
+
+                    php app/keys.php
 
                     { git add . && git commit -a -m "Updating translations keys"; } || IS_DIRTY=0
 
                     echo ::set-output name=is_dirty::${IS_DIRTY}
 
             -   name: Updating referents
-                if: success()
-                run: php app/referents.php
-
-            -   name: Commit files after referents update
                 id: referents
                 if: success()
                 run: |
                     IS_DIRTY=1
+
+                    php app/referents.php
 
                     { git add . && git commit -a -m "Updating the `docs/referents.md` file"; } || IS_DIRTY=0
 
                     echo ::set-output name=is_dirty::${IS_DIRTY}
 
             -   name: Checking for excludes
-                if: success()
-                run: php app/excludes.php
-
-            -   name: Commit files after checking for excludes
                 id: excludes
                 if: success()
                 run: |
                     IS_DIRTY=1
+
+                    php app/excludes.php
 
                     { git add . && git commit -a -m "Updating excludes files"; } || IS_DIRTY=0
 
                     echo ::set-output name=is_dirty::${IS_DIRTY}
 
             -   name: Status update
-                if: success()
-                run: php app/status.php
-
-            -   name: Commit file
                 id: commit_status
                 if: success()
                 run: |
                     IS_DIRTY=1
+
+                    php app/status.php
 
                     { git add . && git commit -a -m "Updated status of translations"; } || IS_DIRTY=0
 
@@ -88,6 +92,6 @@ jobs:
 
             -   name: Push changes
                 uses: ad-m/github-push-action@master
-                if: success() && (steps.commit_keys.outputs.is_dirty == 1 || steps.referents.outputs.is_dirty == 1 || steps.excludes.outputs.is_dirty == 1 || steps.commit_status.outputs.is_dirty == 1)
+                if: success() && (steps.commit_packages.outputs.is_dirty == 1 || steps.commit_keys.outputs.is_dirty == 1 || steps.referents.outputs.is_dirty == 1 || steps.excludes.outputs.is_dirty == 1 || steps.commit_status.outputs.is_dirty == 1)
                 with:
                     github_token: ${{ secrets.GITHUB_TOKEN }}

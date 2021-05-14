@@ -88,12 +88,12 @@ class Parser
     {
         $sub_key = $this->match($value)[0];
 
-        return trim($sub_key, " \t\n\r\0\x0B,()");
+        return trim($sub_key, " \t\n\r\0\x0B,()[]");
     }
 
     protected function isKeyCollision($value): bool
     {
-        return Str::contains((string) $value, ['(', ')', '\'', '"']);
+        return Str::contains((string) $value, ['(', ')', '[', ']', '\'', '"']);
     }
 
     protected function keys(): array

@@ -10,7 +10,7 @@ class Parser
 {
     use Makeable;
 
-    protected const REGEX = '/(__|trans)\((.+)(\)|\[)/U';
+    protected const REGEX = '/(__|trans|@lang|Lang\:\:get)\((.+)(\)|,\s?\[)/U';
 
     protected array $files = [];
 

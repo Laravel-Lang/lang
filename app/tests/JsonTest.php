@@ -3,27 +3,20 @@
 namespace Tests;
 
 use Helldar\PrettyArray\Services\File as Pretty;
-use Helldar\Support\Facades\Helpers\Filesystem\Directory;
 
 final class JsonTest extends TestCase
 {
-    protected array $files = [
-        'cashier.json',
-        'fortify.json',
-        'jetstream.json',
-        'nova.json',
-        'main/main.json',
-        'spark/paddle.json',
-        'spark/stripe.json',
-    ];
-
     public function testJson(): void
     {
-        foreach ($this->files as $file) {
-            $source = $this->source($file);
+        foreach ($this->files('.json') as $filename) {
+            $resolved = $this->resolveFilename($filename);
+
+            $source = $this->source($resolved);
 
             foreach ($this->locales() as $locale) {
-                $path = $this->target_path . '/' . $locale . '/' . $file;
+                $filename = $this->resolveFilename($filename, $locale);
+
+                $path = $this->target_path . '/' . $locale . '/' . $filename;
 
                 $target = $this->load($path);
 
@@ -32,15 +25,15 @@ final class JsonTest extends TestCase
         }
     }
 
-    protected function locales(): array
-    {
-        return Directory::names($this->target_path);
-    }
-
     protected function load(string $path): array
     {
         $content = Pretty::make()->loadRaw($path);
 
         return json_decode($content, true);
+    }
+
+    protected function resolveFilename(string $filename, string $locale = null): string
+    {
+        return $this->isMainJson($filename) && ! empty($locale) ? $locale . '.json' : $filename;
     }
 }

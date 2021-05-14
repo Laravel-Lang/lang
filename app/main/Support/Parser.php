@@ -86,7 +86,7 @@ class Parser
 
     protected function subkey(string $value): string
     {
-        $sub_key = $this->match($value, self::REGEX)[0];
+        $sub_key = $this->match($value)[0];
 
         return trim($sub_key, " \t\n\r\0\x0B,()");
     }

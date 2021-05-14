@@ -7,12 +7,12 @@ use LaravelLang\Lang\Processors\Processor as BaseProcessor;
 abstract class Processor extends BaseProcessor
 {
     protected array $files = [
-        'cashier.json',
-        'fortify.json',
-        'jetstream.json',
-        'nova.json',
-        'spark/paddle.json',
-        'spark/stripe.json',
+        'packages/cashier.json',
+        'packages/fortify.json',
+        'packages/jetstream.json',
+        'packages/nova.json',
+        'packages/spark-paddle.json',
+        'packages/spark-stripe.json',
     ];
 
     protected function process(string $target_path, string $filename, string $locale = null): void
@@ -37,7 +37,7 @@ abstract class Processor extends BaseProcessor
     protected function main(?string $locale): string
     {
         return empty($locale) || $locale === 'en'
-            ? $this->getSourcePath('main/main.json')
-            : $this->getTargetPath($locale . '/main/main.json');
+            ? $this->getSourcePath('en.json')
+            : $this->getTargetPath($locale . '/' . $locale . '.json');
     }
 }

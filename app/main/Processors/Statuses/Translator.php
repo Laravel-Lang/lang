@@ -92,6 +92,10 @@ final class Translator extends Processor
 
     protected function restoreFilename(string $locale, string $filename): string
     {
-        return $this->isJson($filename) ? $locale . '.json' : $filename . '.php';
+        return match (true) {
+            $this->isMainJson($filename) => $locale . '.json',
+            $this->isJson($filename) => $filename . '.json',
+            default => $filename . '.php',
+        };
     }
 }

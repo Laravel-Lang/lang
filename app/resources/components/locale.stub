@@ -1,5 +1,5 @@
 
-### {{filename}}
+### [{{basename}}](https://github.com/Laravel-Lang/lang/blob/master/locales/{{locale}}/{{filename}})
 
 ##### Missing: {{count}}
 

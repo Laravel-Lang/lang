@@ -8,8 +8,8 @@ use LaravelLang\Lang\Facades\Package;
 final class Packages extends Processor
 {
     protected array $packages = [
-        'laravel/fortify'   => 'fortify.json',
-        'laravel/jetstream' => 'jetstream.json',
+        'laravel/fortify'   => 'packages/fortify.json',
+        'laravel/jetstream' => 'packages/jetstream.json',
     ];
 
     public function run(): void
@@ -36,9 +36,7 @@ final class Packages extends Processor
     {
         $path = $this->vendorPath($package);
 
-        return Package::some()
-            ->path($path)
-            ->content();
+        return Package::some()->path($path)->content();
     }
 
     protected function vendorPath(string $package): string

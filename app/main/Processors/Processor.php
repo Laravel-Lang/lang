@@ -117,6 +117,11 @@ abstract class Processor implements Processable
         return Directory::names($this->getTargetPath());
     }
 
+    protected function resolveFilename(string $filename, string $locale): string
+    {
+        return $this->isMainJson($filename) ? $locale . '.json' : $filename;
+    }
+
     protected function getFilesystem(string $filename): Filesystem
     {
         $class = $this->getFilesystemClass($filename);
@@ -132,7 +137,9 @@ abstract class Processor implements Processable
     {
         return match (true) {
             $this->isJson($path) => JsonFilesystem::class,
+
             $this->isMarkdown($path) => MarkdownFilesystem::class,
+
             default => PhpFilesystem::class,
         };
     }

@@ -4,7 +4,7 @@ namespace LaravelLang\Lang\Processors;
 
 use Helldar\Support\Facades\Helpers\Filesystem\File;
 
-final class Php extends Processor
+final class Process extends Processor
 {
     protected string $target_path = 'locales';
 
@@ -14,13 +14,15 @@ final class Php extends Processor
             foreach ($this->files($locale) as $file) {
                 $target_path = $this->getTargetPath($locale . '/' . $file);
 
-                $this->process($target_path, $file, $locale);
+                $filename = $this->isMainJson($file) ? 'en.json' : $file;
+
+                $this->process($target_path, $filename, $locale);
             }
         }
     }
 
     protected function files(string $locale): array
     {
-        return File::names($this->getTargetPath($locale), fn ($filename) => $this->isPhp($filename));
+        return File::names($this->getTargetPath($locale), recursive: true);
     }
 }

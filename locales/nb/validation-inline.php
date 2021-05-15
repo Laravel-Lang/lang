@@ -1,131 +1,143 @@
 <?php
 
-/*
-|--------------------------------------------------------------------------
-| Validation Language Lines
-|--------------------------------------------------------------------------
-|
-| The following language lines contain the default error messages used by
-| the validator class. Some of these rules have multiple versions such
-| as the size rules. Feel free to tweak each of these messages here.
-|
-*/
-
 return [
-    'accepted'             => 'This field must be accepted.',
-    'active_url'           => 'This is not a valid URL.',
-    'after'                => 'This must be a date after :date.',
-    'after_or_equal'       => 'This must be a date after or equal to :date.',
-    'alpha'                => 'This field may only contain letters.',
-    'alpha_dash'           => 'This field may only contain letters, numbers, dashes and underscores.',
-    'alpha_num'            => 'This field may only contain letters and numbers.',
-    'array'                => 'This field must be an array.',
-    'attached'             => 'This field is already attached.',
-    'before'               => 'This must be a date before :date.',
-    'before_or_equal'      => 'This must be a date before or equal to :date.',
+    /*
+    |--------------------------------------------------------------------------
+    | Validation Language Lines
+    |--------------------------------------------------------------------------
+    |
+    | The following language lines contain the default error messages used by
+    | the validator class. Some of these rules have multiple versions such
+    | as the size rules. Feel free to tweak each of these messages here.
+    |
+    */
+
+    'accepted'             => 'Må aksepteres.',
+    'active_url'           => 'Er ikke en gyldig URL.',
+    'after'                => 'Må være en dato etter :date.',
+    'after_or_equal'       => 'Må være en dato etter eller lik :date.',
+    'alpha'                => 'Må kun bestå av bokstaver.',
+    'alpha_dash'           => 'Må kun bestå av bokstaver, tall og bindestreker.',
+    'alpha_num'            => 'Må kun bestå av bokstaver og tall.',
+    'array'                => 'Må være en matrise.',
+    'attached'             => 'Er allerede vedlagt.',
+    'before'               => 'Må være en dato før :date.',
+    'before_or_equal'      => 'Må være en dato før eller lik :date.',
     'between'              => [
-        'array'   => 'This content must have between :min and :max items.',
-        'file'    => 'This file must be between :min and :max kilobytes.',
-        'numeric' => 'This value must be between :min and :max.',
-        'string'  => 'This string must be between :min and :max characters.',
+        'numeric' => 'Må være mellom :min - :max.',
+        'file'    => 'Må være mellom :min - :max kilobytes.',
+        'string'  => 'Må være mellom :min - :max tegn.',
+        'array'   => 'Må ha mellom :min - :max elementer.',
     ],
-    'boolean'              => 'This field must be true or false.',
-    'confirmed'            => 'The confirmation does not match.',
-    'date'                 => 'This is not a valid date.',
-    'date_equals'          => 'This must be a date equal to :date.',
-    'date_format'          => 'This does not match the format :format.',
-    'different'            => 'This value must be different from :other.',
-    'digits'               => 'This must be :digits digits.',
-    'digits_between'       => 'This must be between :min and :max digits.',
-    'dimensions'           => 'This image has invalid dimensions.',
-    'distinct'             => 'This field has a duplicate value.',
-    'email'                => 'This must be a valid email address.',
-    'ends_with'            => 'This must end with one of the following: :values.',
-    'exists'               => 'The selected value is invalid.',
-    'file'                 => 'The content must be a file.',
-    'filled'               => 'This field must have a value.',
+    'boolean'              => 'Må være sann eller usann',
+    'confirmed'            => 'Er ikke likt bekreftelsesfeltet.',
+    'date'                 => 'Er ikke en gyldig dato.',
+    'date_equals'          => 'Må være en dato lik :date.',
+    'date_format'          => 'Samsvarer ikke med formatet :format.',
+    'different'            => 'Denne og :other må være forskellige.',
+    'digits'               => 'Må ha :digits siffer.',
+    'digits_between'       => 'Må være mellom :min og :max siffer.',
+    'dimensions'           => 'Har ugyldige bildedimensjoner.',
+    'distinct'             => 'Har en duplisert verdi.',
+    'email'                => 'Må være en gyldig e-postadresse.',
+    'ends_with'            => 'Må ende med en av følgende: :values.',
+    'exists'               => 'Den valgte veriden er ugyldig.',
+    'file'                 => 'Må være en fil.',
+    'filled'               => 'Må fylles ut.',
     'gt'                   => [
-        'array'   => 'The content must have more than :value items.',
-        'file'    => 'The file size must be greater than :value kilobytes.',
-        'numeric' => 'The value must be greater than :value.',
-        'string'  => 'The string must be greater than :value characters.',
+        'numeric' => 'Må være større enn :value.',
+        'file'    => 'Må være større enn :value kilobytes.',
+        'string'  => 'Må være større enn :value tegn.',
+        'array'   => 'Må ha flere enn :value elementer.',
     ],
     'gte'                  => [
-        'array'   => 'The content must have :value items or more.',
-        'file'    => 'The file size must be greater than or equal :value kilobytes.',
-        'numeric' => 'The value must be greater than or equal :value.',
-        'string'  => 'The string must be greater than or equal :value characters.',
+        'numeric' => 'Må være større enn eller lik :value.',
+        'file'    => 'Må være større enn eller lik :value kilobytes.',
+        'string'  => 'Må være større enn eller lik :value tegn.',
+        'array'   => 'Må ha :value elementer eller flere.',
     ],
-    'image'                => 'This must be an image.',
-    'in'                   => 'The selected value is invalid.',
-    'in_array'             => 'This value does not exist in :other.',
-    'integer'              => 'This must be an integer.',
-    'ip'                   => 'This must be a valid IP address.',
-    'ipv4'                 => 'This must be a valid IPv4 address.',
-    'ipv6'                 => 'This must be a valid IPv6 address.',
-    'json'                 => 'This must be a valid JSON string.',
+    'image'                => 'Må være et bilde.',
+    'in'                   => 'Den valgte veriden er ugyldig.',
+    'in_array'             => 'Den valgte veriden eksisterer ikke i :other.',
+    'integer'              => 'Må være et heltall.',
+    'ip'                   => 'Må være en gyldig IP-adresse.',
+    'ipv4'                 => 'Må være en gyldig IPv4-adresse.',
+    'ipv6'                 => 'Må være en gyldig IPv6-addresse.',
+    'json'                 => 'Må være på JSON-format.',
     'lt'                   => [
-        'array'   => 'The content must have less than :value items.',
-        'file'    => 'The file size must be less than :value kilobytes.',
-        'numeric' => 'The value must be less than :value.',
-        'string'  => 'The string must be less than :value characters.',
+        'numeric' => 'Må være mindre enn :value.',
+        'file'    => 'Må være mindre enn :value kilobytes.',
+        'string'  => 'Må være kortere enn :value tegn.',
+        'array'   => 'Må ha færre enn :value elementer.',
     ],
     'lte'                  => [
-        'array'   => 'The content must not have more than :value items.',
-        'file'    => 'The file size must be less than or equal :value kilobytes.',
-        'numeric' => 'The value must be less than or equal :value.',
-        'string'  => 'The string must be less than or equal :value characters.',
+        'numeric' => 'Må være mindre enn eller lik :value.',
+        'file'    => 'Må være mindre enn eller lik :value kilobytes.',
+        'string'  => 'Må være kortere enn eller lik :value tegn.',
+        'array'   => 'Må ikke ha flere enn :value elementer.',
     ],
     'max'                  => [
-        'array'   => 'The content may not have more than :max items.',
-        'file'    => 'The file size may not be greater than :max kilobytes.',
-        'numeric' => 'The value may not be greater than :max.',
-        'string'  => 'The string may not be greater than :max characters.',
+        'numeric' => 'Må ikke være større enn :max.',
+        'file'    => 'Må ikke være større enn :max kilobytes.',
+        'string'  => 'Må ikke være større enn :max tegn.',
+        'array'   => 'Må ikke ha flere enn :max elementer.',
     ],
-    'mimes'                => 'This must be a file of type: :values.',
-    'mimetypes'            => 'This must be a file of type: :values.',
+    'mimes'                => 'Må være en fil av typen: :values.',
+    'mimetypes'            => 'Må være en fil av typen: :values.',
     'min'                  => [
-        'array'   => 'The value must have at least :min items.',
-        'file'    => 'The file size must be at least :min kilobytes.',
-        'numeric' => 'The value must be at least :min.',
-        'string'  => 'The string must be at least :min characters.',
+        'numeric' => 'Må være minst :min.',
+        'file'    => 'Må være minst :min kilobytes.',
+        'string'  => 'Må være minst :min tegn.',
+        'array'   => 'Må ha minst :min elementer.',
     ],
-    'multiple_of'          => 'The value must be a multiple of :value',
-    'not_in'               => 'The selected value is invalid.',
-    'not_regex'            => 'This format is invalid.',
-    'numeric'              => 'This must be a number.',
-    'password'             => 'The password is incorrect.',
-    'present'              => 'This field must be present.',
-    'prohibited'           => 'This field is prohibited.',
-    'prohibited_if'        => 'This field is prohibited when :other is :value.',
-    'prohibited_unless'    => 'This field is prohibited unless :other is in :values.',
-    'regex'                => 'This format is invalid.',
-    'relatable'            => 'This field may not be associated with this resource.',
-    'required'             => 'This field is required.',
-    'required_if'          => 'This field is required when :other is :value.',
-    'required_unless'      => 'This field is required unless :other is in :values.',
-    'required_with'        => 'This field is required when :values is present.',
-    'required_with_all'    => 'This field is required when :values are present.',
-    'required_without'     => 'This field is required when :values is not present.',
-    'required_without_all' => 'This field is required when none of :values are present.',
-    'same'                 => 'The value of this field must match the one from :other.',
+    'multiple_of'          => 'Må være flere av :value',
+    'not_in'               => 'Den valgte veriden er ugyldig.',
+    'not_regex'            => 'Formatet på veriden er ugyldig.',
+    'numeric'              => 'Må være et tall.',
+    'password'             => 'Passordet er feil.',
+    'present'              => 'Må eksistere.',
+    'regex'                => 'Formatet på veriden er ugyldig.',
+    'relatable'            => 'Kan ikke være knyttet til denne ressursen.',
+    'required'             => 'Må fylles ut.',
+    'required_if'          => 'Må fylles ut når :other er :value.',
+    'required_unless'      => 'Er påkrevd med mindre :other finnes blant verdiene :values.',
+    'required_with'        => 'Må fylles ut når :values er utfylt.',
+    'required_with_all'    => 'Er påkrevd når :values er oppgitt.',
+    'required_without'     => 'Må fylles ut når :values ikke er utfylt.',
+    'required_without_all' => 'Er påkrevd når ingen av :values er oppgitt.',
+    'prohibited'           => 'Felt er forbudt.',
+    'prohibited_if'        => 'Felt er forbudt når :other er :value.',
+    'prohibited_unless'    => 'Felt er forbudt med mindre :other er i :values.',
+    'same'                 => 'Denne og :other må være like.',
     'size'                 => [
-        'array'   => 'The content must contain :size items.',
-        'file'    => 'The file size must be :size kilobytes.',
-        'numeric' => 'The value must be :size.',
-        'string'  => 'The string must be :size characters.',
+        'numeric' => 'Må være :size.',
+        'file'    => 'Må være :size kilobytes.',
+        'string'  => 'Må være :size tegn lang.',
+        'array'   => 'Må inneholde :size elementer.',
     ],
-    'starts_with'          => 'This must start with one of the following: :values.',
-    'string'               => 'This must be a string.',
-    'timezone'             => 'This must be a valid zone.',
-    'unique'               => 'This has already been taken.',
-    'uploaded'             => 'This failed to upload.',
-    'url'                  => 'This format is invalid.',
-    'uuid'                 => 'This must be a valid UUID.',
-    'custom'               => [
+    'starts_with'          => 'Må starte med en av følgende: :values.',
+    'string'               => 'Må være en tekststreng.',
+    'timezone'             => 'Må være en gyldig tidssone.',
+    'unique'               => 'Er allerede i bruk.',
+    'uploaded'             => 'Kunne ikke lastes opp.',
+    'url'                  => 'Formatet på er ugyldig.',
+    'uuid'                 => 'Må være en gyldig UUID.',
+
+    /*
+    |--------------------------------------------------------------------------
+    | Custom Validation Language Lines
+    |--------------------------------------------------------------------------
+    |
+    | Here you may specify custom validation messages for attributes using the
+    | convention "attribute.rule" to name the lines. This makes it quick to
+    | specify a specific custom language line for a given attribute rule.
+    |
+    */
+
+    'custom' => [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
+    
 ];

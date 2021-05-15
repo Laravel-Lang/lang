@@ -2,734 +2,12 @@
 
 # nb
 
-##### All missed: 374
+##### All missed: 147
 
-
-### validation-inline
-
-##### Missing: 94
-
-<table >
-<tr><td align="left" >
-accepted
-</td>
-<td align="left" >
-This field must be accepted.
-</td>
-</tr>
-<tr><td align="left" >
-active_url
-</td>
-<td align="left" >
-This is not a valid URL.
-</td>
-</tr>
-<tr><td align="left" >
-after
-</td>
-<td align="left" >
-This must be a date after :date.
-</td>
-</tr>
-<tr><td align="left" >
-after_or_equal
-</td>
-<td align="left" >
-This must be a date after or equal to :date.
-</td>
-</tr>
-<tr><td align="left" >
-alpha
-</td>
-<td align="left" >
-This field may only contain letters.
-</td>
-</tr>
-<tr><td align="left" >
-alpha_dash
-</td>
-<td align="left" >
-This field may only contain letters, numbers, dashes and underscores.
-</td>
-</tr>
-<tr><td align="left" >
-alpha_num
-</td>
-<td align="left" >
-This field may only contain letters and numbers.
-</td>
-</tr>
-<tr><td align="left" >
-array
-</td>
-<td align="left" >
-This field must be an array.
-</td>
-</tr>
-<tr><td align="left" >
-attached
-</td>
-<td align="left" >
-This field is already attached.
-</td>
-</tr>
-<tr><td align="left" >
-before
-</td>
-<td align="left" >
-This must be a date before :date.
-</td>
-</tr>
-<tr><td align="left" >
-before_or_equal
-</td>
-<td align="left" >
-This must be a date before or equal to :date.
-</td>
-</tr>
-<tr><td align="left" >
-between.array
-</td>
-<td align="left" >
-This content must have between :min and :max items.
-</td>
-</tr>
-<tr><td align="left" >
-between.file
-</td>
-<td align="left" >
-This file must be between :min and :max kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-between.numeric
-</td>
-<td align="left" >
-This value must be between :min and :max.
-</td>
-</tr>
-<tr><td align="left" >
-between.string
-</td>
-<td align="left" >
-This string must be between :min and :max characters.
-</td>
-</tr>
-<tr><td align="left" >
-boolean
-</td>
-<td align="left" >
-This field must be true or false.
-</td>
-</tr>
-<tr><td align="left" >
-confirmed
-</td>
-<td align="left" >
-The confirmation does not match.
-</td>
-</tr>
-<tr><td align="left" >
-date
-</td>
-<td align="left" >
-This is not a valid date.
-</td>
-</tr>
-<tr><td align="left" >
-date_equals
-</td>
-<td align="left" >
-This must be a date equal to :date.
-</td>
-</tr>
-<tr><td align="left" >
-date_format
-</td>
-<td align="left" >
-This does not match the format :format.
-</td>
-</tr>
-<tr><td align="left" >
-different
-</td>
-<td align="left" >
-This value must be different from :other.
-</td>
-</tr>
-<tr><td align="left" >
-digits
-</td>
-<td align="left" >
-This must be :digits digits.
-</td>
-</tr>
-<tr><td align="left" >
-digits_between
-</td>
-<td align="left" >
-This must be between :min and :max digits.
-</td>
-</tr>
-<tr><td align="left" >
-dimensions
-</td>
-<td align="left" >
-This image has invalid dimensions.
-</td>
-</tr>
-<tr><td align="left" >
-distinct
-</td>
-<td align="left" >
-This field has a duplicate value.
-</td>
-</tr>
-<tr><td align="left" >
-email
-</td>
-<td align="left" >
-This must be a valid email address.
-</td>
-</tr>
-<tr><td align="left" >
-ends_with
-</td>
-<td align="left" >
-This must end with one of the following: :values.
-</td>
-</tr>
-<tr><td align="left" >
-exists
-</td>
-<td align="left" >
-The selected value is invalid.
-</td>
-</tr>
-<tr><td align="left" >
-file
-</td>
-<td align="left" >
-The content must be a file.
-</td>
-</tr>
-<tr><td align="left" >
-filled
-</td>
-<td align="left" >
-This field must have a value.
-</td>
-</tr>
-<tr><td align="left" >
-gt.array
-</td>
-<td align="left" >
-The content must have more than :value items.
-</td>
-</tr>
-<tr><td align="left" >
-gt.file
-</td>
-<td align="left" >
-The file size must be greater than :value kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-gt.numeric
-</td>
-<td align="left" >
-The value must be greater than :value.
-</td>
-</tr>
-<tr><td align="left" >
-gt.string
-</td>
-<td align="left" >
-The string must be greater than :value characters.
-</td>
-</tr>
-<tr><td align="left" >
-gte.array
-</td>
-<td align="left" >
-The content must have :value items or more.
-</td>
-</tr>
-<tr><td align="left" >
-gte.file
-</td>
-<td align="left" >
-The file size must be greater than or equal :value kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-gte.numeric
-</td>
-<td align="left" >
-The value must be greater than or equal :value.
-</td>
-</tr>
-<tr><td align="left" >
-gte.string
-</td>
-<td align="left" >
-The string must be greater than or equal :value characters.
-</td>
-</tr>
-<tr><td align="left" >
-image
-</td>
-<td align="left" >
-This must be an image.
-</td>
-</tr>
-<tr><td align="left" >
-in
-</td>
-<td align="left" >
-The selected value is invalid.
-</td>
-</tr>
-<tr><td align="left" >
-in_array
-</td>
-<td align="left" >
-This value does not exist in :other.
-</td>
-</tr>
-<tr><td align="left" >
-integer
-</td>
-<td align="left" >
-This must be an integer.
-</td>
-</tr>
-<tr><td align="left" >
-ip
-</td>
-<td align="left" >
-This must be a valid IP address.
-</td>
-</tr>
-<tr><td align="left" >
-ipv4
-</td>
-<td align="left" >
-This must be a valid IPv4 address.
-</td>
-</tr>
-<tr><td align="left" >
-ipv6
-</td>
-<td align="left" >
-This must be a valid IPv6 address.
-</td>
-</tr>
-<tr><td align="left" >
-json
-</td>
-<td align="left" >
-This must be a valid JSON string.
-</td>
-</tr>
-<tr><td align="left" >
-lt.array
-</td>
-<td align="left" >
-The content must have less than :value items.
-</td>
-</tr>
-<tr><td align="left" >
-lt.file
-</td>
-<td align="left" >
-The file size must be less than :value kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-lt.numeric
-</td>
-<td align="left" >
-The value must be less than :value.
-</td>
-</tr>
-<tr><td align="left" >
-lt.string
-</td>
-<td align="left" >
-The string must be less than :value characters.
-</td>
-</tr>
-<tr><td align="left" >
-lte.array
-</td>
-<td align="left" >
-The content must not have more than :value items.
-</td>
-</tr>
-<tr><td align="left" >
-lte.file
-</td>
-<td align="left" >
-The file size must be less than or equal :value kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-lte.numeric
-</td>
-<td align="left" >
-The value must be less than or equal :value.
-</td>
-</tr>
-<tr><td align="left" >
-lte.string
-</td>
-<td align="left" >
-The string must be less than or equal :value characters.
-</td>
-</tr>
-<tr><td align="left" >
-max.array
-</td>
-<td align="left" >
-The content may not have more than :max items.
-</td>
-</tr>
-<tr><td align="left" >
-max.file
-</td>
-<td align="left" >
-The file size may not be greater than :max kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-max.numeric
-</td>
-<td align="left" >
-The value may not be greater than :max.
-</td>
-</tr>
-<tr><td align="left" >
-max.string
-</td>
-<td align="left" >
-The string may not be greater than :max characters.
-</td>
-</tr>
-<tr><td align="left" >
-mimes
-</td>
-<td align="left" >
-This must be a file of type: :values.
-</td>
-</tr>
-<tr><td align="left" >
-mimetypes
-</td>
-<td align="left" >
-This must be a file of type: :values.
-</td>
-</tr>
-<tr><td align="left" >
-min.array
-</td>
-<td align="left" >
-The value must have at least :min items.
-</td>
-</tr>
-<tr><td align="left" >
-min.file
-</td>
-<td align="left" >
-The file size must be at least :min kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-min.numeric
-</td>
-<td align="left" >
-The value must be at least :min.
-</td>
-</tr>
-<tr><td align="left" >
-min.string
-</td>
-<td align="left" >
-The string must be at least :min characters.
-</td>
-</tr>
-<tr><td align="left" >
-multiple_of
-</td>
-<td align="left" >
-The value must be a multiple of :value
-</td>
-</tr>
-<tr><td align="left" >
-not_in
-</td>
-<td align="left" >
-The selected value is invalid.
-</td>
-</tr>
-<tr><td align="left" >
-not_regex
-</td>
-<td align="left" >
-This format is invalid.
-</td>
-</tr>
-<tr><td align="left" >
-numeric
-</td>
-<td align="left" >
-This must be a number.
-</td>
-</tr>
-<tr><td align="left" >
-password
-</td>
-<td align="left" >
-The password is incorrect.
-</td>
-</tr>
-<tr><td align="left" >
-present
-</td>
-<td align="left" >
-This field must be present.
-</td>
-</tr>
-<tr><td align="left" >
-prohibited
-</td>
-<td align="left" >
-This field is prohibited.
-</td>
-</tr>
-<tr><td align="left" >
-prohibited_if
-</td>
-<td align="left" >
-This field is prohibited when :other is :value.
-</td>
-</tr>
-<tr><td align="left" >
-prohibited_unless
-</td>
-<td align="left" >
-This field is prohibited unless :other is in :values.
-</td>
-</tr>
-<tr><td align="left" >
-regex
-</td>
-<td align="left" >
-This format is invalid.
-</td>
-</tr>
-<tr><td align="left" >
-relatable
-</td>
-<td align="left" >
-This field may not be associated with this resource.
-</td>
-</tr>
-<tr><td align="left" >
-required
-</td>
-<td align="left" >
-This field is required.
-</td>
-</tr>
-<tr><td align="left" >
-required_if
-</td>
-<td align="left" >
-This field is required when :other is :value.
-</td>
-</tr>
-<tr><td align="left" >
-required_unless
-</td>
-<td align="left" >
-This field is required unless :other is in :values.
-</td>
-</tr>
-<tr><td align="left" >
-required_with
-</td>
-<td align="left" >
-This field is required when :values is present.
-</td>
-</tr>
-<tr><td align="left" >
-required_with_all
-</td>
-<td align="left" >
-This field is required when :values are present.
-</td>
-</tr>
-<tr><td align="left" >
-required_without
-</td>
-<td align="left" >
-This field is required when :values is not present.
-</td>
-</tr>
-<tr><td align="left" >
-required_without_all
-</td>
-<td align="left" >
-This field is required when none of :values are present.
-</td>
-</tr>
-<tr><td align="left" >
-same
-</td>
-<td align="left" >
-The value of this field must match the one from :other.
-</td>
-</tr>
-<tr><td align="left" >
-size.array
-</td>
-<td align="left" >
-The content must contain :size items.
-</td>
-</tr>
-<tr><td align="left" >
-size.file
-</td>
-<td align="left" >
-The file size must be :size kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-size.numeric
-</td>
-<td align="left" >
-The value must be :size.
-</td>
-</tr>
-<tr><td align="left" >
-size.string
-</td>
-<td align="left" >
-The string must be :size characters.
-</td>
-</tr>
-<tr><td align="left" >
-starts_with
-</td>
-<td align="left" >
-This must start with one of the following: :values.
-</td>
-</tr>
-<tr><td align="left" >
-string
-</td>
-<td align="left" >
-This must be a string.
-</td>
-</tr>
-<tr><td align="left" >
-timezone
-</td>
-<td align="left" >
-This must be a valid zone.
-</td>
-</tr>
-<tr><td align="left" >
-unique
-</td>
-<td align="left" >
-This has already been taken.
-</td>
-</tr>
-<tr><td align="left" >
-uploaded
-</td>
-<td align="left" >
-This failed to upload.
-</td>
-</tr>
-<tr><td align="left" >
-url
-</td>
-<td align="left" >
-This format is invalid.
-</td>
-</tr>
-<tr><td align="left" >
-uuid
-</td>
-<td align="left" >
-This must be a valid UUID.
-</td>
-</tr>
-
-</table>
-
-
-[ [go back](../status.md) | [to top](#) ]
-
-### validation
-
-##### Missing: 6
-
-<table >
-<tr><td align="left" >
-attached
-</td>
-<td align="left" >
-This :attribute is already attached.
-</td>
-</tr>
-<tr><td align="left" >
-multiple_of
-</td>
-<td align="left" >
-The :attribute must be a multiple of :value
-</td>
-</tr>
-<tr><td align="left" >
-prohibited
-</td>
-<td align="left" >
-The :attribute field is prohibited.
-</td>
-</tr>
-<tr><td align="left" >
-prohibited_if
-</td>
-<td align="left" >
-The :attribute field is prohibited when :other is :value.
-</td>
-</tr>
-<tr><td align="left" >
-prohibited_unless
-</td>
-<td align="left" >
-The :attribute field is prohibited unless :other is in :values.
-</td>
-</tr>
-<tr><td align="left" >
-relatable
-</td>
-<td align="left" >
-This :attribute may not be associated with this resource.
-</td>
-</tr>
-
-</table>
-
-
-[ [go back](../status.md) | [to top](#) ]
 
 ### json
 
-##### Missing: 274
+##### Missing: 147
 
 <table >
 <tr><td align="left" >
@@ -745,19 +23,7 @@ Afghanistan
 </td>
 </tr>
 <tr><td align="left" >
-Aland Islands
-</td>
-</tr>
-<tr><td align="left" >
 Albania
-</td>
-</tr>
-<tr><td align="left" >
-Algeria
-</td>
-</tr>
-<tr><td align="left" >
-American Samoa
 </td>
 </tr>
 <tr><td align="left" >
@@ -770,18 +36,6 @@ Angola
 </tr>
 <tr><td align="left" >
 Anguilla
-</td>
-</tr>
-<tr><td align="left" >
-Antarctica
-</td>
-</tr>
-<tr><td align="left" >
-Antigua and Barbuda
-</td>
-</tr>
-<tr><td align="left" >
-Antigua And Barbuda
 </td>
 </tr>
 <tr><td align="left" >
@@ -801,23 +55,11 @@ Aruba
 </td>
 </tr>
 <tr><td align="left" >
-Attach
-</td>
-</tr>
-<tr><td align="left" >
 August
 </td>
 </tr>
 <tr><td align="left" >
 Australia
-</td>
-</tr>
-<tr><td align="left" >
-Austria
-</td>
-</tr>
-<tr><td align="left" >
-Azerbaijan
 </td>
 </tr>
 <tr><td align="left" >
@@ -834,14 +76,6 @@ Bangladesh
 </tr>
 <tr><td align="left" >
 Barbados
-</td>
-</tr>
-<tr><td align="left" >
-Belarus
-</td>
-</tr>
-<tr><td align="left" >
-Belgium
 </td>
 </tr>
 <tr><td align="left" >
@@ -865,35 +99,7 @@ Bolivia
 </td>
 </tr>
 <tr><td align="left" >
-Bolivia, Plurinational State of
-</td>
-</tr>
-<tr><td align="left" >
-Bonaire, Sint Eustatius and Saba
-</td>
-</tr>
-<tr><td align="left" >
-Bosnia And Herzegovina
-</td>
-</tr>
-<tr><td align="left" >
-Bosnia and Herzegovina
-</td>
-</tr>
-<tr><td align="left" >
 Botswana
-</td>
-</tr>
-<tr><td align="left" >
-Bouvet Island
-</td>
-</tr>
-<tr><td align="left" >
-Brazil
-</td>
-</tr>
-<tr><td align="left" >
-British Indian Ocean Territory
 </td>
 </tr>
 <tr><td align="left" >
@@ -909,51 +115,7 @@ Burundi
 </td>
 </tr>
 <tr><td align="left" >
-Cambodia
-</td>
-</tr>
-<tr><td align="left" >
-Cameroon
-</td>
-</tr>
-<tr><td align="left" >
-Canada
-</td>
-</tr>
-<tr><td align="left" >
-Cape Verde
-</td>
-</tr>
-<tr><td align="left" >
-Cayman Islands
-</td>
-</tr>
-<tr><td align="left" >
-Central African Republic
-</td>
-</tr>
-<tr><td align="left" >
-Chad
-</td>
-</tr>
-<tr><td align="left" >
 Chile
-</td>
-</tr>
-<tr><td align="left" >
-China
-</td>
-</tr>
-<tr><td align="left" >
-Choose
-</td>
-</tr>
-<tr><td align="left" >
-Christmas Island
-</td>
-</tr>
-<tr><td align="left" >
-Cocos (Keeling) Islands
 </td>
 </tr>
 <tr><td align="left" >
@@ -961,35 +123,7 @@ Colombia
 </td>
 </tr>
 <tr><td align="left" >
-Comoros
-</td>
-</tr>
-<tr><td align="left" >
-Congo
-</td>
-</tr>
-<tr><td align="left" >
-Congo, Democratic Republic
-</td>
-</tr>
-<tr><td align="left" >
-Congo, the Democratic Republic of the
-</td>
-</tr>
-<tr><td align="left" >
-Constant
-</td>
-</tr>
-<tr><td align="left" >
-Cook Islands
-</td>
-</tr>
-<tr><td align="left" >
 Costa Rica
-</td>
-</tr>
-<tr><td align="left" >
-Croatia
 </td>
 </tr>
 <tr><td align="left" >
@@ -1001,19 +135,7 @@ Curaçao
 </td>
 </tr>
 <tr><td align="left" >
-Cyprus
-</td>
-</tr>
-<tr><td align="left" >
-Côte d'Ivoire
-</td>
-</tr>
-<tr><td align="left" >
 Dashboard
-</td>
-</tr>
-<tr><td align="left" >
-Denmark
 </td>
 </tr>
 <tr><td align="left" >
@@ -1022,10 +144,6 @@ Djibouti
 </tr>
 <tr><td align="left" >
 Dominica
-</td>
-</tr>
-<tr><td align="left" >
-Dominican Republic
 </td>
 </tr>
 <tr><td align="left" >
@@ -1041,27 +159,7 @@ El Salvador
 </td>
 </tr>
 <tr><td align="left" >
-Equatorial Guinea
-</td>
-</tr>
-<tr><td align="left" >
 Eritrea
-</td>
-</tr>
-<tr><td align="left" >
-Estonia
-</td>
-</tr>
-<tr><td align="left" >
-Ethiopia
-</td>
-</tr>
-<tr><td align="left" >
-Falkland Islands (Malvinas)
-</td>
-</tr>
-<tr><td align="left" >
-Faroe Islands
 </td>
 </tr>
 <tr><td align="left" >
@@ -1070,18 +168,6 @@ Fiji
 </tr>
 <tr><td align="left" >
 Finland
-</td>
-</tr>
-<tr><td align="left" >
-French Guiana
-</td>
-</tr>
-<tr><td align="left" >
-French Polynesia
-</td>
-</tr>
-<tr><td align="left" >
-French Southern Territories
 </td>
 </tr>
 <tr><td align="left" >
@@ -1145,18 +231,6 @@ Honduras
 </td>
 </tr>
 <tr><td align="left" >
-Hong Kong
-</td>
-</tr>
-<tr><td align="left" >
-Hungary
-</td>
-</tr>
-<tr><td align="left" >
-Iceland
-</td>
-</tr>
-<tr><td align="left" >
 ID
 </td>
 </tr>
@@ -1166,10 +240,6 @@ India
 </tr>
 <tr><td align="left" >
 Indonesia
-</td>
-</tr>
-<tr><td align="left" >
-Iran, Islamic Republic of
 </td>
 </tr>
 <tr><td align="left" >
@@ -1193,10 +263,6 @@ Jamaica
 </td>
 </tr>
 <tr><td align="left" >
-January
-</td>
-</tr>
-<tr><td align="left" >
 Japan
 </td>
 </tr>
@@ -1209,27 +275,11 @@ Jordan
 </td>
 </tr>
 <tr><td align="left" >
-Kazakhstan
-</td>
-</tr>
-<tr><td align="left" >
 Kenya
 </td>
 </tr>
 <tr><td align="left" >
 Kiribati
-</td>
-</tr>
-<tr><td align="left" >
-Korea
-</td>
-</tr>
-<tr><td align="left" >
-Korea, Democratic People's Republic of
-</td>
-</tr>
-<tr><td align="left" >
-Korea, Republic of
 </td>
 </tr>
 <tr><td align="left" >
@@ -1241,15 +291,7 @@ Kuwait
 </td>
 </tr>
 <tr><td align="left" >
-Kyrgyzstan
-</td>
-</tr>
-<tr><td align="left" >
 Latvia
-</td>
-</tr>
-<tr><td align="left" >
-Lebanon
 </td>
 </tr>
 <tr><td align="left" >
@@ -1269,27 +311,7 @@ Liechtenstein
 </td>
 </tr>
 <tr><td align="left" >
-Lithuania
-</td>
-</tr>
-<tr><td align="left" >
-Luxembourg
-</td>
-</tr>
-<tr><td align="left" >
 Macao
-</td>
-</tr>
-<tr><td align="left" >
-Macedonia
-</td>
-</tr>
-<tr><td align="left" >
-Macedonia, the former Yugoslav Republic of
-</td>
-</tr>
-<tr><td align="left" >
-Madagascar
 </td>
 </tr>
 <tr><td align="left" >
@@ -1301,19 +323,11 @@ Malaysia
 </td>
 </tr>
 <tr><td align="left" >
-Maldives
-</td>
-</tr>
-<tr><td align="left" >
 Mali
 </td>
 </tr>
 <tr><td align="left" >
 Malta
-</td>
-</tr>
-<tr><td align="left" >
-Marshall Islands
 </td>
 </tr>
 <tr><td align="left" >
@@ -1337,15 +351,7 @@ Mexico
 </td>
 </tr>
 <tr><td align="left" >
-Micronesia, Federated States Of
-</td>
-</tr>
-<tr><td align="left" >
 Moldova
-</td>
-</tr>
-<tr><td align="left" >
-Moldova, Republic of
 </td>
 </tr>
 <tr><td align="left" >
@@ -1365,14 +371,6 @@ Montserrat
 </td>
 </tr>
 <tr><td align="left" >
-Morocco
-</td>
-</tr>
-<tr><td align="left" >
-Mozambique
-</td>
-</tr>
-<tr><td align="left" >
 Myanmar
 </td>
 </tr>
@@ -1386,18 +384,6 @@ Nauru
 </tr>
 <tr><td align="left" >
 Nepal
-</td>
-</tr>
-<tr><td align="left" >
-Netherlands
-</td>
-</tr>
-<tr><td align="left" >
-Netherlands Antilles
-</td>
-</tr>
-<tr><td align="left" >
-New Caledonia
 </td>
 </tr>
 <tr><td align="left" >
@@ -1421,14 +407,6 @@ Niue
 </td>
 </tr>
 <tr><td align="left" >
-Norfolk Island
-</td>
-</tr>
-<tr><td align="left" >
-Northern Mariana Islands
-</td>
-</tr>
-<tr><td align="left" >
 November
 </td>
 </tr>
@@ -1449,15 +427,7 @@ Palau
 </td>
 </tr>
 <tr><td align="left" >
-Palestinian Territory, Occupied
-</td>
-</tr>
-<tr><td align="left" >
 Panama
-</td>
-</tr>
-<tr><td align="left" >
-Papua New Guinea
 </td>
 </tr>
 <tr><td align="left" >
@@ -1466,14 +436,6 @@ Paraguay
 </tr>
 <tr><td align="left" >
 Peru
-</td>
-</tr>
-<tr><td align="left" >
-Philippines
-</td>
-</tr>
-<tr><td align="left" >
-Pitcairn
 </td>
 </tr>
 <tr><td align="left" >
@@ -1501,10 +463,6 @@ Romania
 </td>
 </tr>
 <tr><td align="left" >
-Russian Federation
-</td>
-</tr>
-<tr><td align="left" >
 Rwanda
 </td>
 </tr>
@@ -1513,71 +471,11 @@ Réunion
 </td>
 </tr>
 <tr><td align="left" >
-Saint Barthelemy
-</td>
-</tr>
-<tr><td align="left" >
-Saint Barthélemy
-</td>
-</tr>
-<tr><td align="left" >
-Saint Helena
-</td>
-</tr>
-<tr><td align="left" >
-Saint Kitts and Nevis
-</td>
-</tr>
-<tr><td align="left" >
-Saint Kitts And Nevis
-</td>
-</tr>
-<tr><td align="left" >
-Saint Lucia
-</td>
-</tr>
-<tr><td align="left" >
-Saint Martin
-</td>
-</tr>
-<tr><td align="left" >
-Saint Martin (French part)
-</td>
-</tr>
-<tr><td align="left" >
-Saint Pierre and Miquelon
-</td>
-</tr>
-<tr><td align="left" >
-Saint Pierre And Miquelon
-</td>
-</tr>
-<tr><td align="left" >
-Saint Vincent And Grenadines
-</td>
-</tr>
-<tr><td align="left" >
-Saint Vincent and the Grenadines
-</td>
-</tr>
-<tr><td align="left" >
 Samoa
 </td>
 </tr>
 <tr><td align="left" >
 San Marino
-</td>
-</tr>
-<tr><td align="left" >
-Sao Tome and Principe
-</td>
-</tr>
-<tr><td align="left" >
-Sao Tome And Principe
-</td>
-</tr>
-<tr><td align="left" >
-Saudi Arabia
 </td>
 </tr>
 <tr><td align="left" >
@@ -1617,27 +515,7 @@ Slovenia
 </td>
 </tr>
 <tr><td align="left" >
-Solomon Islands
-</td>
-</tr>
-<tr><td align="left" >
 Somalia
-</td>
-</tr>
-<tr><td align="left" >
-South Africa
-</td>
-</tr>
-<tr><td align="left" >
-South Georgia And Sandwich Isl.
-</td>
-</tr>
-<tr><td align="left" >
-South Georgia and the South Sandwich Islands
-</td>
-</tr>
-<tr><td align="left" >
-South Sudan
 </td>
 </tr>
 <tr><td align="left" >
@@ -1645,27 +523,7 @@ Sri Lanka
 </td>
 </tr>
 <tr><td align="left" >
-Start Polling
-</td>
-</tr>
-<tr><td align="left" >
-Stop Polling
-</td>
-</tr>
-<tr><td align="left" >
 Sudan
-</td>
-</tr>
-<tr><td align="left" >
-Suriname
-</td>
-</tr>
-<tr><td align="left" >
-Svalbard And Jan Mayen
-</td>
-</tr>
-<tr><td align="left" >
-Switzerland
 </td>
 </tr>
 <tr><td align="left" >
@@ -1677,27 +535,11 @@ Taiwan
 </td>
 </tr>
 <tr><td align="left" >
-Taiwan, Province of China
-</td>
-</tr>
-<tr><td align="left" >
-Tajikistan
-</td>
-</tr>
-<tr><td align="left" >
 Tanzania
 </td>
 </tr>
 <tr><td align="left" >
-Tanzania, United Republic of
-</td>
-</tr>
-<tr><td align="left" >
 Thailand
-</td>
-</tr>
-<tr><td align="left" >
-Timor-Leste
 </td>
 </tr>
 <tr><td align="left" >
@@ -1721,27 +563,11 @@ Total:
 </td>
 </tr>
 <tr><td align="left" >
-Trinidad And Tobago
-</td>
-</tr>
-<tr><td align="left" >
 Tunisia
 </td>
 </tr>
 <tr><td align="left" >
-Turkey
-</td>
-</tr>
-<tr><td align="left" >
 Turkmenistan
-</td>
-</tr>
-<tr><td align="left" >
-Turks and Caicos Islands
-</td>
-</tr>
-<tr><td align="left" >
-Turks And Caicos Islands
 </td>
 </tr>
 <tr><td align="left" >
@@ -1753,35 +579,7 @@ Uganda
 </td>
 </tr>
 <tr><td align="left" >
-Ukraine
-</td>
-</tr>
-<tr><td align="left" >
-United Arab Emirates
-</td>
-</tr>
-<tr><td align="left" >
-United Kingdom
-</td>
-</tr>
-<tr><td align="left" >
-United States
-</td>
-</tr>
-<tr><td align="left" >
-United States Minor Outlying Islands
-</td>
-</tr>
-<tr><td align="left" >
-United States Outlying Islands
-</td>
-</tr>
-<tr><td align="left" >
 Uruguay
-</td>
-</tr>
-<tr><td align="left" >
-Uzbekistan
 </td>
 </tr>
 <tr><td align="left" >
@@ -1790,34 +588,6 @@ Vanuatu
 </tr>
 <tr><td align="left" >
 Venezuela
-</td>
-</tr>
-<tr><td align="left" >
-Venezuela, Bolivarian Republic of
-</td>
-</tr>
-<tr><td align="left" >
-Virgin Islands, British
-</td>
-</tr>
-<tr><td align="left" >
-Virgin Islands, U.S.
-</td>
-</tr>
-<tr><td align="left" >
-Wallis and Futuna
-</td>
-</tr>
-<tr><td align="left" >
-Wallis And Futuna
-</td>
-</tr>
-<tr><td align="left" >
-Western Sahara
-</td>
-</tr>
-<tr><td align="left" >
-Yemen
 </td>
 </tr>
 <tr><td align="left" >

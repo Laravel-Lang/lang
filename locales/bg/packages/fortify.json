@@ -1,0 +1,13 @@
+{
+    "The :attribute must be at least :length characters and contain at least one number.": ":attribute трябва да съдържа най-малко :length знака и да съдържа поне един номер.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": ":attribute трябва да съдържа най-малко :length знака и да съдържа най-малко един специален символ и един номер.",
+    "The :attribute must be at least :length characters and contain at least one special character.": ":attribute трябва да съдържа най-малко :length знака и да съдържа поне един специален символ.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character": "The :attribute must be at least :length characters and contain at least one uppercase character",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": ":attribute трябва да съдържа най-малко :length знака и да съдържа най-малко един главен символ и едно число.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": ":attribute трябва да съдържа най-малко :length знака и да съдържа най-малко един главен символ и един специален символ.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": ":attribute трябва да съдържа най-малко :length знака и най-малко един главни букви.",
+    "The :attribute must be at least :length characters.": ":attribute трябва да съдържа най-малко :length знака.",
+    "The provided password does not match your current password.": "Предоставената парола не съответства на текущата ви парола.",
+    "The provided password was incorrect.": "Предоставената парола е грешна.",
+    "The provided two factor authentication code was invalid.": "Предоставеният код за двуфакторно удостоверяване е невалиден."
+}

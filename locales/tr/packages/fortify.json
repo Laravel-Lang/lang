@@ -1,0 +1,13 @@
+{
+    "The :attribute must be at least :length characters and contain at least one number.": ":attribute en az :length karakterli olmalı ve en az bir sayı içermelidir.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": ":attribute en az :length karakterli olmalı ve en az bir özel karakter ve bir sayı içermelidir.",
+    "The :attribute must be at least :length characters and contain at least one special character.": ":attribute en az :length karakterli olmalı ve en az bir özel karakter içermelidir",
+    "The :attribute must be at least :length characters and contain at least one uppercase character": "The :attribute must be at least :length characters and contain at least one uppercase character",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": ":attribute en az :length karakterli olmalı ve en az birer büyük harf ve sayı içermelidir",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": ":attribute en az :length karakterli olmalı ve en az birer büyük harf ve özel karakter içermelidir",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": ":attribute en az :length karakterli olmalı ve en az bir büyük harf içermelidir",
+    "The :attribute must be at least :length characters.": " :attribute en az :length karakterli olmalı.",
+    "The provided password does not match your current password.": "Belirtilen şifre mevcut şifrenizle eşleşmiyor.",
+    "The provided password was incorrect.": "Belirtilen şifre yanlış.",
+    "The provided two factor authentication code was invalid.": "Belirtilen iki faktörlü kimlik doğrulama kodu geçersiz."
+}

@@ -1,0 +1,19 @@
+{
+    "All rights reserved.": "Allt réttindi frátekið.",
+    "Card": "Kort",
+    "Confirm Payment": "Staðfesta Greiðslu",
+    "Confirm your :amount payment": "Staðfesta :amount greiðslu",
+    "Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below.": "Auka staðfestingu þarf að vinna greiðslu þinni. Gjörið svo vel að staðfesta greiðslu þinni með því að fylla út upplýsingar greiðslu fyrir neðan.",
+    "Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below.": "Auka staðfestingu þarf að vinna greiðslu þinni. Vinsamlegast haldið áfram að greiðslu þinni með því að ýta á takkann neðan.",
+    "Full name": "Fullt nafn",
+    "Go back": "Fara til baka",
+    "Jane Doe": "Jane Doe",
+    "Pay :amount": "Borga :amount",
+    "Payment Cancelled": "Greiðslu Aflýst",
+    "Payment Confirmation": "Staðfestingu Greiðslu",
+    "Payment Successful": "Greiðslu Vel",
+    "Please provide your name.": "Gefðu nafn þitt.",
+    "The payment was successful.": "Greiðslu var vel.",
+    "This payment was already successfully confirmed.": "Þetta greiðslu var þegar tekist staðfest.",
+    "This payment was cancelled.": "Þetta greiðslu var aflýst."
+}

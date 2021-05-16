@@ -1,0 +1,19 @@
+{
+    "All rights reserved.": "Барлық құқықтар қорғалған.",
+    "Card": "Карта",
+    "Confirm Payment": "Төлемді Растаңыз",
+    "Confirm your :amount payment": "Төлемді растаңыз :amount",
+    "Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below.": "Төлемді өңдеу үшін қосымша растау қажет. Төменде төлем деректемелерін толтыру арқылы өз төлеміңізді растауыңызды өтінеміз.",
+    "Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below.": "Төлемді өңдеу үшін қосымша растау қажет. Төмендегі батырманы басу арқылы төлем бетіне өтіңіз.",
+    "Full name": "Толық аты",
+    "Go back": "Қайту",
+    "Jane Doe": "Jane Doe",
+    "Pay :amount": "Төлем :amount",
+    "Payment Cancelled": "Төлем Тоқтатылды",
+    "Payment Confirmation": "Төлемді растау",
+    "Payment Successful": "Төлем Сәтті Өтті",
+    "Please provide your name.": "Өз атыңызды атаңыз.",
+    "The payment was successful.": "Төлем сәтті өтті.",
+    "This payment was already successfully confirmed.": "Бұл төлем сәтті расталды.",
+    "This payment was cancelled.": "Бұл төлем жойылды."
+}

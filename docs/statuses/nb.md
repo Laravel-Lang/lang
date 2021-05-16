@@ -2,600 +2,212 @@
 
 # nb
 
-##### All missed: 147
+##### All missed: 39
 
 
-### json
+### [cashier](https://github.com/Laravel-Lang/lang/blob/master/locales/nb/packages/cashier.json)
 
-##### Missing: 147
+##### Missing: 1
 
 <table >
 <tr><td align="left" >
-Action Status
+Jane Doe
 </td>
 </tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [fortify](https://github.com/Laravel-Lang/lang/blob/master/locales/nb/packages/fortify.json)
+
+##### Missing: 1
+
+<table >
 <tr><td align="left" >
-Administrator
+The :attribute must be at least :length characters and contain at least one uppercase character
 </td>
 </tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [jetstream](https://github.com/Laravel-Lang/lang/blob/master/locales/nb/packages/jetstream.json)
+
+##### Missing: 20
+
+<table >
 <tr><td align="left" >
-Afghanistan
+Add a new team member to your team
 </td>
 </tr>
 <tr><td align="left" >
-Albania
+Are you sure you want to delete this team? Once a team is deleted
 </td>
 </tr>
 <tr><td align="left" >
-Andorra
+Are you sure you want to delete your account? Once your account is deleted
 </td>
 </tr>
 <tr><td align="left" >
-Angola
+Editor users have the ability to read
 </td>
 </tr>
 <tr><td align="left" >
-Anguilla
+Ensure your account is using a long
 </td>
 </tr>
 <tr><td align="left" >
-April
+For your security
 </td>
 </tr>
 <tr><td align="left" >
-Argentina
+If necessary
 </td>
 </tr>
 <tr><td align="left" >
-Armenia
+If you already have an account
 </td>
 </tr>
 <tr><td align="left" >
-Aruba
+If you did not expect to receive an invitation to this team
 </td>
 </tr>
 <tr><td align="left" >
-August
+If you do not have an account
 </td>
 </tr>
 <tr><td align="left" >
-Australia
+Once a team is deleted
 </td>
 </tr>
 <tr><td align="left" >
-Bahamas
+Once your account is deleted
 </td>
 </tr>
 <tr><td align="left" >
-Bahrain
+Please copy your new API token. For your security
 </td>
 </tr>
 <tr><td align="left" >
-Bangladesh
+Thanks for signing up! Before getting started
 </td>
 </tr>
 <tr><td align="left" >
-Barbados
+The :attribute must be at least :length characters and contain at least one uppercase character
 </td>
 </tr>
 <tr><td align="left" >
-Belize
+The team\'s name and owner information.
 </td>
 </tr>
 <tr><td align="left" >
-Benin
+Two factor authentication is now enabled. Scan the following QR code using your phone\'s authenticator application.
 </td>
 </tr>
 <tr><td align="left" >
-Bermuda
+Update your account\'s profile information and email address.
 </td>
 </tr>
 <tr><td align="left" >
-Bhutan
+When two factor authentication is enabled
 </td>
 </tr>
 <tr><td align="left" >
-Bolivia
+You may accept this invitation by clicking the button below:
 </td>
 </tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [spark-paddle](https://github.com/Laravel-Lang/lang/blob/master/locales/nb/packages/spark-paddle.json)
+
+##### Missing: 9
+
+<table >
 <tr><td align="left" >
-Botswana
+Payment Method
 </td>
 </tr>
 <tr><td align="left" >
-Bulgaria
+Subscription Pending
 </td>
 </tr>
 <tr><td align="left" >
-Burkina Faso
+There is no active subscription.
 </td>
 </tr>
 <tr><td align="left" >
-Burundi
+This subscription cannot be resumed. Please create a new subscription.
 </td>
 </tr>
 <tr><td align="left" >
-Chile
+Update Payment Method
 </td>
 </tr>
 <tr><td align="left" >
-Colombia
+View Receipt
 </td>
 </tr>
 <tr><td align="left" >
-Costa Rica
+We are processing your subscription. Once the subscription has successfully processed, this page will update automatically. Typically, this process should only take a few seconds.
 </td>
 </tr>
 <tr><td align="left" >
-Cuba
+You are already subscribed.
 </td>
 </tr>
 <tr><td align="left" >
-Curaçao
+Your current payment method is :paypal.
 </td>
 </tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [spark-stripe](https://github.com/Laravel-Lang/lang/blob/master/locales/nb/packages/spark-stripe.json)
+
+##### Missing: 8
+
+<table >
 <tr><td align="left" >
-Dashboard
+Apply
 </td>
 </tr>
 <tr><td align="left" >
-Djibouti
+Apply Coupon
 </td>
 </tr>
 <tr><td align="left" >
-Dominica
+I accept the terms of service
 </td>
 </tr>
 <tr><td align="left" >
-Ecuador
+Micronesia, Federated States of
 </td>
 </tr>
 <tr><td align="left" >
-Egypt
+Please accept the terms of service.
 </td>
 </tr>
 <tr><td align="left" >
-El Salvador
+Svalbard and Jan Mayen
 </td>
 </tr>
 <tr><td align="left" >
-Eritrea
+Trinidad and Tobago
 </td>
 </tr>
 <tr><td align="left" >
-Fiji
-</td>
-</tr>
-<tr><td align="left" >
-Finland
-</td>
-</tr>
-<tr><td align="left" >
-Gabon
-</td>
-</tr>
-<tr><td align="left" >
-Gambia
-</td>
-</tr>
-<tr><td align="left" >
-Georgia
-</td>
-</tr>
-<tr><td align="left" >
-Ghana
-</td>
-</tr>
-<tr><td align="left" >
-Gibraltar
-</td>
-</tr>
-<tr><td align="left" >
-Grenada
-</td>
-</tr>
-<tr><td align="left" >
-Guadeloupe
-</td>
-</tr>
-<tr><td align="left" >
-Guam
-</td>
-</tr>
-<tr><td align="left" >
-Guatemala
-</td>
-</tr>
-<tr><td align="left" >
-Guernsey
-</td>
-</tr>
-<tr><td align="left" >
-Guinea
-</td>
-</tr>
-<tr><td align="left" >
-Guinea-Bissau
-</td>
-</tr>
-<tr><td align="left" >
-Guyana
-</td>
-</tr>
-<tr><td align="left" >
-Haiti
-</td>
-</tr>
-<tr><td align="left" >
-Honduras
-</td>
-</tr>
-<tr><td align="left" >
-ID
-</td>
-</tr>
-<tr><td align="left" >
-India
-</td>
-</tr>
-<tr><td align="left" >
-Indonesia
-</td>
-</tr>
-<tr><td align="left" >
-Iran, Islamic Republic Of
-</td>
-</tr>
-<tr><td align="left" >
-Isle of Man
-</td>
-</tr>
-<tr><td align="left" >
-Isle Of Man
-</td>
-</tr>
-<tr><td align="left" >
-Israel
-</td>
-</tr>
-<tr><td align="left" >
-Jamaica
-</td>
-</tr>
-<tr><td align="left" >
-Japan
-</td>
-</tr>
-<tr><td align="left" >
-Jersey
-</td>
-</tr>
-<tr><td align="left" >
-Jordan
-</td>
-</tr>
-<tr><td align="left" >
-Kenya
-</td>
-</tr>
-<tr><td align="left" >
-Kiribati
-</td>
-</tr>
-<tr><td align="left" >
-Kosovo
-</td>
-</tr>
-<tr><td align="left" >
-Kuwait
-</td>
-</tr>
-<tr><td align="left" >
-Latvia
-</td>
-</tr>
-<tr><td align="left" >
-Lesotho
-</td>
-</tr>
-<tr><td align="left" >
-Liberia
-</td>
-</tr>
-<tr><td align="left" >
-Libyan Arab Jamahiriya
-</td>
-</tr>
-<tr><td align="left" >
-Liechtenstein
-</td>
-</tr>
-<tr><td align="left" >
-Macao
-</td>
-</tr>
-<tr><td align="left" >
-Malawi
-</td>
-</tr>
-<tr><td align="left" >
-Malaysia
-</td>
-</tr>
-<tr><td align="left" >
-Mali
-</td>
-</tr>
-<tr><td align="left" >
-Malta
-</td>
-</tr>
-<tr><td align="left" >
-Martinique
-</td>
-</tr>
-<tr><td align="left" >
-Mauritania
-</td>
-</tr>
-<tr><td align="left" >
-Mauritius
-</td>
-</tr>
-<tr><td align="left" >
-Mayotte
-</td>
-</tr>
-<tr><td align="left" >
-Mexico
-</td>
-</tr>
-<tr><td align="left" >
-Moldova
-</td>
-</tr>
-<tr><td align="left" >
-Monaco
-</td>
-</tr>
-<tr><td align="left" >
-Mongolia
-</td>
-</tr>
-<tr><td align="left" >
-Montenegro
-</td>
-</tr>
-<tr><td align="left" >
-Montserrat
-</td>
-</tr>
-<tr><td align="left" >
-Myanmar
-</td>
-</tr>
-<tr><td align="left" >
-Namibia
-</td>
-</tr>
-<tr><td align="left" >
-Nauru
-</td>
-</tr>
-<tr><td align="left" >
-Nepal
-</td>
-</tr>
-<tr><td align="left" >
-New Zealand
-</td>
-</tr>
-<tr><td align="left" >
-Nicaragua
-</td>
-</tr>
-<tr><td align="left" >
-Niger
-</td>
-</tr>
-<tr><td align="left" >
-Nigeria
-</td>
-</tr>
-<tr><td align="left" >
-Niue
-</td>
-</tr>
-<tr><td align="left" >
-November
-</td>
-</tr>
-<tr><td align="left" >
-Oman
-</td>
-</tr>
-<tr><td align="left" >
-Original
-</td>
-</tr>
-<tr><td align="left" >
-Pakistan
-</td>
-</tr>
-<tr><td align="left" >
-Palau
-</td>
-</tr>
-<tr><td align="left" >
-Panama
-</td>
-</tr>
-<tr><td align="left" >
-Paraguay
-</td>
-</tr>
-<tr><td align="left" >
-Peru
-</td>
-</tr>
-<tr><td align="left" >
-Poland
-</td>
-</tr>
-<tr><td align="left" >
-Portugal
-</td>
-</tr>
-<tr><td align="left" >
-Puerto Rico
-</td>
-</tr>
-<tr><td align="left" >
-Qatar
-</td>
-</tr>
-<tr><td align="left" >
-Reunion
-</td>
-</tr>
-<tr><td align="left" >
-Romania
-</td>
-</tr>
-<tr><td align="left" >
-Rwanda
-</td>
-</tr>
-<tr><td align="left" >
-Réunion
-</td>
-</tr>
-<tr><td align="left" >
-Samoa
-</td>
-</tr>
-<tr><td align="left" >
-San Marino
-</td>
-</tr>
-<tr><td align="left" >
-Senegal
-</td>
-</tr>
-<tr><td align="left" >
-September
-</td>
-</tr>
-<tr><td align="left" >
-Serbia
-</td>
-</tr>
-<tr><td align="left" >
-Seychelles
-</td>
-</tr>
-<tr><td align="left" >
-Sierra Leone
-</td>
-</tr>
-<tr><td align="left" >
-Singapore
-</td>
-</tr>
-<tr><td align="left" >
-Sint Maarten (Dutch part)
-</td>
-</tr>
-<tr><td align="left" >
-Slovakia
-</td>
-</tr>
-<tr><td align="left" >
-Slovenia
-</td>
-</tr>
-<tr><td align="left" >
-Somalia
-</td>
-</tr>
-<tr><td align="left" >
-Sri Lanka
-</td>
-</tr>
-<tr><td align="left" >
-Sudan
-</td>
-</tr>
-<tr><td align="left" >
-Syrian Arab Republic
-</td>
-</tr>
-<tr><td align="left" >
-Taiwan
-</td>
-</tr>
-<tr><td align="left" >
-Tanzania
-</td>
-</tr>
-<tr><td align="left" >
-Thailand
-</td>
-</tr>
-<tr><td align="left" >
-Togo
-</td>
-</tr>
-<tr><td align="left" >
-Tokelau
-</td>
-</tr>
-<tr><td align="left" >
-Tonga
-</td>
-</tr>
-<tr><td align="left" >
-total
-</td>
-</tr>
-<tr><td align="left" >
-Total:
-</td>
-</tr>
-<tr><td align="left" >
-Tunisia
-</td>
-</tr>
-<tr><td align="left" >
-Turkmenistan
-</td>
-</tr>
-<tr><td align="left" >
-Tuvalu
-</td>
-</tr>
-<tr><td align="left" >
-Uganda
-</td>
-</tr>
-<tr><td align="left" >
-Uruguay
-</td>
-</tr>
-<tr><td align="left" >
-Vanuatu
-</td>
-</tr>
-<tr><td align="left" >
-Venezuela
-</td>
-</tr>
-<tr><td align="left" >
-Zambia
-</td>
-</tr>
-<tr><td align="left" >
-Zimbabwe
+Åland Islands
 </td>
 </tr>
 

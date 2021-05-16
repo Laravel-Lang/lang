@@ -1,0 +1,13 @@
+{
+    "The :attribute must be at least :length characters and contain at least one number.": ":attribute باید حداقل :length کارکتر و شامل حداقل یک عدد باشد.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "The :attribute must be at least :length characters and contain at least one special character and one number.",
+    "The :attribute must be at least :length characters and contain at least one special character.": ":attribute باید حداقل :length  کارکتر و شامل حداقل یک کارکتر خاص باشد.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character": "The :attribute must be at least :length characters and contain at least one uppercase character",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": ":attribute باید حداقل :length  کارکتر و شامل حداقل یک حرف بزرگ و یک عدد باشد.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": ":attribute باید حداقل :length  کارکتر و شامل حداقل یک حرف بزرگ و یک کارکتر خاص باشد.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": ":attribute باید حداقل :length  کارکتر و شامل حداقل یک حرف بزرگ باشد.",
+    "The :attribute must be at least :length characters.": ":attribute باید حداقل :length  کارکتر باشد.",
+    "The provided password does not match your current password.": "رمز ورود ارائه شده با رمز عبور فعلی شما مطابقت ندارد.",
+    "The provided password was incorrect.": "رمز ورود ارائه شده نادرست بود.",
+    "The provided two factor authentication code was invalid.": "کد تأیید اعتبارسنجی دو مرحله ای نامعتبر است."
+}

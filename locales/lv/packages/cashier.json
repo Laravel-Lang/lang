@@ -1,0 +1,19 @@
+{
+    "All rights reserved.": "Visas tiesības aizsargātas.",
+    "Card": "Karte",
+    "Confirm Payment": "Apstipriniet Maksājumu",
+    "Confirm your :amount payment": "Apstipriniet savu :amount maksājumu",
+    "Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below.": "Papildu apstiprinājums ir nepieciešams, lai apstrādātu jūsu maksājumu. Lūdzu, apstipriniet savu maksājumu, aizpildot maksājuma informāciju zemāk.",
+    "Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below.": "Papildu apstiprinājums ir nepieciešams, lai apstrādātu jūsu maksājumu. Lūdzu, turpiniet maksājumu lapu, noklikšķinot uz pogas zemāk.",
+    "Full name": "Uzvārds",
+    "Go back": "Atgriezties",
+    "Jane Doe": "Jane Doe",
+    "Pay :amount": "Maksāt :amount",
+    "Payment Cancelled": "Maksājums Atcelts",
+    "Payment Confirmation": "Maksājuma Apstiprinājums",
+    "Payment Successful": "Maksājums Veiksmīgs",
+    "Please provide your name.": "Lūdzu, norādiet savu vārdu.",
+    "The payment was successful.": "Maksājums bija veiksmīgs.",
+    "This payment was already successfully confirmed.": "Šis maksājums jau tika veiksmīgi apstiprināts.",
+    "This payment was cancelled.": "Šis maksājums tika atcelts."
+}

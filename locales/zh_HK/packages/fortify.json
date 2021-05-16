@@ -1,0 +1,13 @@
+{
+    "The :attribute must be at least :length characters and contain at least one number.": ":attribute 至少為 :length 個字符且至少包含一個數字。",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": ":attribute 長度至少 :length 位並且至少必須包含一個特殊字符和一個數字。",
+    "The :attribute must be at least :length characters and contain at least one special character.": ":attribute 至少為 :length 個字符且至少包含一個特殊字符。",
+    "The :attribute must be at least :length characters and contain at least one uppercase character": "The :attribute must be at least :length characters and contain at least one uppercase character",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": ":attribute 至少為 :length 個字符且至少包含一個大寫字母和一個數字。",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": ":attribute 至少為 :length 個字符且至少包含一個大寫字母和一個特殊字符。",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": ":attribute 至少為 :length 個字符且至少包含一個大寫字母。",
+    "The :attribute must be at least :length characters.": ":attribute 至少為 :length 個字符",
+    "The provided password does not match your current password.": "當前密碼不正確",
+    "The provided password was incorrect.": "密碼錯誤",
+    "The provided two factor authentication code was invalid.": "雙因素認證代碼錯誤"
+}

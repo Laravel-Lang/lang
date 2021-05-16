@@ -1,0 +1,13 @@
+{
+    "The :attribute must be at least :length characters and contain at least one number.": "Die :attribute moet ten :length lengte karakters bevat en ten minste een nommer bevat.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "Die :attribute moet ten minste :length karakters en bevat ten minste een spesiale karakter en een nommer.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "Die :attribute moet ten :length lengte karakters bevat en ten minste een spesiale karakter bevat.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character": "The :attribute must be at least :length characters and contain at least one uppercase character",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "Die :attribute moet ten minste :length karakters bevat en ten minste een hoofletter en een nommer bevat.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "Die :attribute moet ten minste :length karakters bevat en ten minste een hoofletter en een spesiale karakter bevat.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "Die :attribute moet ten minste :length karakters bevat en ten minste een hoofletter bevat.",
+    "The :attribute must be at least :length characters.": "Die :attribute moet ten minste :length karakters bevat.",
+    "The provided password does not match your current password.": "Die wagwoord wat verskaf word, stem nie ooreen met u huidige wagwoord nie.",
+    "The provided password was incorrect.": "Die verskafde wagwoord was verkeerd.",
+    "The provided two factor authentication code was invalid.": "Die verstrekte tweefaktor-verifikasiekode was ongeldig."
+}

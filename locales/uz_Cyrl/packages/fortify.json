@@ -1,0 +1,13 @@
+{
+    "The :attribute must be at least :length characters and contain at least one number.": ":attribute kamida :length belgi bo'lishi va kamida bitta raqamni o'z ichiga olishi kerak.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": ":attribute kamida :length belgi bo'lishi va kamida bitta maxsus belgi va bitta raqamni o'z ichiga olishi kerak.",
+    "The :attribute must be at least :length characters and contain at least one special character.": ":attribute kamida :length belgi bo'lishi va kamida bitta maxsus belgini o'z ichiga olishi kerak.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character": "The :attribute must be at least :length characters and contain at least one uppercase character",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "The :attribute kamida bo'lishi kerak :length belgilar va kamida bir katta belgi va bir qator o'z ichiga.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": ":attribute kamida :length belgi bo'lishi va kamida bitta katta belgi va bitta maxsus belgini o'z ichiga olishi kerak.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": ":attribute kamida :length belgi bo'lishi va kamida bitta katta belgini o'z ichiga olishi kerak.",
+    "The :attribute must be at least :length characters.": ":attribute kamida :length belgi bo'lishi kerak.",
+    "The provided password does not match your current password.": "Taqdim parol joriy parolni mos emas.",
+    "The provided password was incorrect.": "Taqdim etilgan parol noto'g'ri edi.",
+    "The provided two factor authentication code was invalid.": "Taqdim etilgan ikki faktorli autentifikatsiya kodi bekor qilindi."
+}

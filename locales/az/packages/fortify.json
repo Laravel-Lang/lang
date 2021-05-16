@@ -1,0 +1,13 @@
+{
+    "The :attribute must be at least :length characters and contain at least one number.": ":attribute ən azı :length simvoldan ibarət olmalıdır və ən azı bir ədəd olmalıdır.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": ":attribute ən az :length simvoldan ibarət olmalıdır və ən azı bir xüsusi xarakter və bir ədəddən ibarət olmalıdır.",
+    "The :attribute must be at least :length characters and contain at least one special character.": ":attribute ən azı :length simvol olmalıdır və ən azı bir xüsusi xarakter ehtiva edir.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character": "The :attribute must be at least :length characters and contain at least one uppercase character",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": ":attribute ən azı :length simvoldan ibarət olmalıdır və ən azı bir böyük xarakter və bir ədəddən ibarət olmalıdır.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": ":attribute ən azı :length simvol olmalıdır və ən azı bir böyük xarakter və bir xüsusi xarakter ehtiva edir.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": ":attribute ən azı :length simvoldan ibarət olmalıdır və ən azı bir böyük simvolu ehtiva etməlidir.",
+    "The :attribute must be at least :length characters.": ":attribute ən azı :length simvol olmalıdır.",
+    "The provided password does not match your current password.": "Verilmiş parol uyğun gəlmir sizin cari password.",
+    "The provided password was incorrect.": "Verilən parol səhv idi.",
+    "The provided two factor authentication code was invalid.": "Verilmiş iki faktorlu autentifikasiya Kodu etibarsızdır."
+}

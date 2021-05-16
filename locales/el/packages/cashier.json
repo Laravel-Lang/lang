@@ -1,0 +1,19 @@
+{
+    "All rights reserved.": "Πνευματική προστασία περιεχομένου.",
+    "Card": "Κάρτα",
+    "Confirm Payment": "Επιβεβαιώστε Την Πληρωμή",
+    "Confirm your :amount payment": "Επιβεβαιώστε την πληρωμή :amount σας",
+    "Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below.": "Απαιτείται επιπλέον επιβεβαίωση για την επεξεργασία της πληρωμής σας. Επιβεβαιώστε την πληρωμή σας συμπληρώνοντας τα στοιχεία πληρωμής σας παρακάτω.",
+    "Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below.": "Απαιτείται επιπλέον επιβεβαίωση για την επεξεργασία της πληρωμής σας. Συνεχίστε στη σελίδα πληρωμής κάνοντας κλικ στο παρακάτω κουμπί.",
+    "Full name": "Ονοματεπώνυμο",
+    "Go back": "Επιστρέψετε",
+    "Jane Doe": "Jane Doe",
+    "Pay :amount": "Πληρώστε :amount",
+    "Payment Cancelled": "Η Πληρωμή Ακυρώθηκε",
+    "Payment Confirmation": "Επιβεβαίωση Πληρωμής",
+    "Payment Successful": "Επιτυχής Πληρωμή",
+    "Please provide your name.": "Παρακαλώ δώστε το όνομά σας.",
+    "The payment was successful.": "Η πληρωμή ήταν επιτυχής.",
+    "This payment was already successfully confirmed.": "Αυτή η πληρωμή επιβεβαιώθηκε ήδη με επιτυχία.",
+    "This payment was cancelled.": "Αυτή η πληρωμή ακυρώθηκε."
+}

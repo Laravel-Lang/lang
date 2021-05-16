@@ -1,0 +1,13 @@
+{
+    "The :attribute must be at least :length characters and contain at least one number.": ":attribute jābūt vismaz :length rakstzīmēm un tajā jābūt vismaz vienam skaitlim.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": ":attribute jābūt vismaz :length rakstzīmēm, un tajā jābūt vismaz vienai īpašajai rakstzīmei un vienam skaitlim.",
+    "The :attribute must be at least :length characters and contain at least one special character.": ":attribute jābūt vismaz :length rakstzīmēm un tajā jābūt vismaz vienai īpašajai rakstzīmei.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character": "The :attribute must be at least :length characters and contain at least one uppercase character",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": ":attribute jābūt vismaz :length rakstzīmēm, un tajā jābūt vismaz vienam lielajiem burtiem un vienam skaitlim.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": ":attribute jābūt vismaz :length rakstzīmēm, un tajā jābūt vismaz vienam lielajiem burtiem un vienam īpašajam rakstzīmei.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": ":attribute jābūt vismaz :length rakstzīmēm un tajā jābūt vismaz vienam lielajiem burtiem.",
+    "The :attribute must be at least :length characters.": ":attribute jābūt vismaz :length rakstzīmēm.",
+    "The provided password does not match your current password.": "Sniegtā parole neatbilst jūsu pašreizējai Parolei.",
+    "The provided password was incorrect.": "Sniegtā parole bija nepareiza.",
+    "The provided two factor authentication code was invalid.": "Sniegtais divu faktoru autentifikācijas kods bija nederīgs."
+}

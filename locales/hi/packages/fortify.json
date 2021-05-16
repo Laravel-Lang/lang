@@ -1,0 +1,13 @@
+{
+    "The :attribute must be at least :length characters and contain at least one number.": ":attribute में कम से कम :length वर्ण होने चाहिए और इसमें कम से कम एक संख्या होनी चाहिए । ",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": ":attribute में कम से कम :length वर्ण होने चाहिए और इसमें कम से कम एक विशेष वर्ण और एक संख्या होनी चाहिए । ",
+    "The :attribute must be at least :length characters and contain at least one special character.": ":attribute में कम से कम :length वर्ण होने चाहिए और इसमें कम से कम एक विशेष वर्ण होना चाहिए । ",
+    "The :attribute must be at least :length characters and contain at least one uppercase character": "The :attribute must be at least :length characters and contain at least one uppercase character",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": ":attribute कम से कम :length वर्ण होना चाहिए और इसमें कम से कम एक अपरकेस वर्ण और एक संख्या होनी चाहिए । ",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": ":attribute कम से कम :length वर्ण होना चाहिए और इसमें कम से कम एक अपरकेस वर्ण और एक विशेष वर्ण होना चाहिए । ",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": ":attribute कम से कम :length वर्ण होना चाहिए और इसमें कम से कम एक अपरकेस वर्ण होना चाहिए । ",
+    "The :attribute must be at least :length characters.": ":attribute कम से कम :length वर्ण होना चाहिए । ",
+    "The provided password does not match your current password.": "प्रदान किया गया पासवर्ड आपके वर्तमान पासवर्ड से मेल नहीं खाता है । ",
+    "The provided password was incorrect.": "प्रदान किया गया पासवर्ड गलत था । ",
+    "The provided two factor authentication code was invalid.": "प्रदान किए गए दो कारक प्रमाणीकरण कोड अमान्य था । "
+}

@@ -1,0 +1,19 @@
+{
+    "All rights reserved.": "Alle rettigheter forbeholdt.",
+    "Card": "Kort",
+    "Confirm Payment": "Bekreft betaling",
+    "Confirm your :amount payment": "Bekreft :amount betalingen",
+    "Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below.": "Ekstra bekreftelse er nødvendig for å behandle betalingen. Bekreft betalingen ved å fylle ut betalingsinformasjonen nedenfor.",
+    "Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below.": "Ekstra bekreftelse er nødvendig for å behandle betalingen. Fortsett til betalingssiden ved å klikke på knappen nedenfor.",
+    "Full name": "Fullt navn",
+    "Go back": "Gå tilbake",
+    "Jane Doe": "Jane Doe",
+    "Pay :amount": "Betal :amount",
+    "Payment Cancelled": "Betaling kansellert",
+    "Payment Confirmation": "Betalingsbekreftelse",
+    "Payment Successful": "Betalingen var vellykket",
+    "Please provide your name.": "Vennligst oppgi navnet ditt.",
+    "The payment was successful.": "Betalingen var vellykket.",
+    "This payment was already successfully confirmed.": "Denne betalingen ble allerede bekreftet.",
+    "This payment was cancelled.": "Denne betalingen ble kansellert."
+}

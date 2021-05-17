@@ -10,7 +10,7 @@ class Parser
 {
     use Makeable;
 
-    protected const REGEX = '/\b(__|trans|@lang|Lang\:\:get)\((\'|")(.+)(\'|").*(\)|\[)/U';
+    protected const REGEX = '/\b(__|trans|@lang|Lang\:\:get)\((.+)(\)|,\s?\[)/U';
 
     protected array $files = [];
 
@@ -48,7 +48,7 @@ class Parser
     protected function parse(string $content): void
     {
         foreach ($this->match($content) as $match) {
-            [$key, $value] = $this->split($match);
+            $value = $match;
 
             if (Str::contains((string) $value, ['__', 'trans', '@lang', 'Lang::get'])) {
                 $sub_key = $this->subkey($value);
@@ -56,7 +56,7 @@ class Parser
                 $value = $this->keys[$sub_key] ?? null;
             }
 
-            $this->push($key, $value);
+            $this->push($value);
         }
     }
 
@@ -67,20 +67,12 @@ class Parser
         return $matches[2] ?? [];
     }
 
-    protected function split(string $value): array
+    protected function push(mixed $value): void
     {
-        $split = explode(',', $value);
+        $value = $this->trim($value);
 
-        $key   = $this->trim($split[0]);
-        $value = $this->trim($split[1] ?? null);
-
-        return [$key, $value];
-    }
-
-    protected function push(string $key, $value): void
-    {
-        if (! isset($this->keys[$key])) {
-            $this->keys[$key] = $this->isKeyCollision($value) ? null : $value;
+        if (! isset($this->keys[$value])) {
+            $this->keys[$value] = $value;
         }
     }
 
@@ -88,12 +80,7 @@ class Parser
     {
         $sub_key = $this->match($value)[0];
 
-        return trim($sub_key, " \t\n\r\0\x0B,()[]");
-    }
-
-    protected function isKeyCollision($value): bool
-    {
-        return Str::contains((string) $value, ['(', ')', '[', ']', '\'', '"']);
+        return $this->trim($sub_key);
     }
 
     protected function keys(): array

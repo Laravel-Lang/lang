@@ -1,0 +1,13 @@
+{
+    "The :attribute must be at least :length characters and contain at least one number.": "Numeron :attribute on oltava vähintään :length merkkiä ja siinä on oltava vähintään yksi numero.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "Numeron :attribute on oltava vähintään :length merkkiä ja siinä on oltava vähintään yksi erikoismerkki ja yksi numero.",
+    "The :attribute must be at least :length characters and contain at least one special character.": ":attribute: n on oltava vähintään :length merkkiä ja siinä on oltava vähintään yksi erikoismerkki.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "Se :attribute on oltava vähintään :length merkkiä ja sisältää vähintään yhden kirjaimen ja yhden numeron.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "Sen :attribute on oltava vähintään :length merkkiä ja sisältää vähintään yhden kirjaimen ja yhden erikoismerkin.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "Se :attribute on oltava vähintään :length merkkiä ja sisältää vähintään yksi iso kirjain, yksi numero ja yksi erikoismerkki.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "Se :attribute on oltava vähintään :length merkkiä ja sisältää vähintään yhden ison kirjaimen.",
+    "The :attribute must be at least :length characters.": ":attribute: n on oltava vähintään :length merkkiä.",
+    "The provided password does not match your current password.": "Annettu salasana ei vastaa nykyistä salasanaasi.",
+    "The provided password was incorrect.": "Annettu salasana oli virheellinen.",
+    "The provided two factor authentication code was invalid.": "Annettu kahden tekijän tunnistuskoodi oli virheellinen."
+}

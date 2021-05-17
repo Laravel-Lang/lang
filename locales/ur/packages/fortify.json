@@ -1,0 +1,13 @@
+{
+    "The :attribute must be at least :length characters and contain at least one number.": "اس :attribute ہونا ضروری ہے کم از کم :length حروف اور کم از کم پر مشتمل ایک بڑی تعداد.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "اس :attribute ہونا ضروری ہے کم از کم :length حروف اور کم از کم پر مشتمل ایک خصوصی کردار اور ایک بڑی تعداد.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "اس :attribute ہونا ضروری ہے کم از کم :length حروف پر مشتمل ہے اور کم از کم ایک خاص کردار ہے.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "اس :attribute ہونا ضروری ہے کم از کم :length حروف پر مشتمل ہے اور کم از کم ایک بڑے کردار اور ایک بڑی تعداد.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "اس :attribute ہونا ضروری ہے کم از کم :length حروف پر مشتمل ہے اور کم از کم ایک بڑے کردار کے ایک خاص کردار ہے.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "اس :attribute ہونا ضروری ہے کم از کم :length حروف پر مشتمل ہے اور کم از کم ایک بڑے کردار کی ایک بڑی تعداد ، اور ایک خاص کردار ہے.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "اس :attribute ہونا ضروری ہے کم از کم :length حروف پر مشتمل ہے اور کم از کم ایک بڑے کردار ہے.",
+    "The :attribute must be at least :length characters.": "اس :attribute ہونا ضروری ہے کم از کم :length حروف.",
+    "The provided password does not match your current password.": "فراہم کردہ پاس ورڈ سے مماثل نہیں ہے آپ کے موجودہ پاس ورڈ.",
+    "The provided password was incorrect.": "فراہم کردہ پاس ورڈ غلط تھا.",
+    "The provided two factor authentication code was invalid.": "فراہم کردہ دو عنصر کی تصدیق کے کوڈ باطل بھى كيا ہے."
+}

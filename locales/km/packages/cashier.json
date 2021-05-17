@@ -1,0 +1,19 @@
+{
+    "All rights reserved.": "រក្សាសិទ្ធិគ្រប់យ៉ាង។",
+    "Card": "កាត",
+    "Confirm Payment": "បញ្ជាក់ការទូទាត់",
+    "Confirm your :amount payment": "បញ្ជាក់ការទូទាត់របស់អ្នកចំនួន :amount ",
+    "Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below.": "បញ្ជាក់បន្ថែមគឺត្រូវការដើម្បីដំណើរការការទូទាត់របស់អ្នក។ សូមបញ្ជាក់ការទូទាត់របស់អ្នកដោយការបំពេញព័ត៍មានលម្អិតខាងក្រោម។",
+    "Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below.": "បញ្ជាក់បន្ថែមគឺត្រូវការដើម្បីដំណើរការការទូទាត់របស់អ្នក។ សូមបន្តការទូទាត់ទំព័រដោយចុចលើប៊ូតុងខាងក្រោម។",
+    "Full name": "ឈ្មោះពេញ",
+    "Go back": "ត្រឡប់ទៅ",
+    "Jane Doe": "Jane Doe",
+    "Pay :amount": "បង់ប្រាក់ :amount",
+    "Payment Cancelled": "ការទូទាត់លុបចោល",
+    "Payment Confirmation": "ការទូទាត់បញ្ជាក់",
+    "Payment Successful": "ការទូទាត់ជោគជ័យ",
+    "Please provide your name.": "សូមផ្តល់នាមឈ្មោះរបស់អ្នក។",
+    "The payment was successful.": "ការទូទាត់បានជោគជ័យ។",
+    "This payment was already successfully confirmed.": "នេះការទូទាត់ត្រូវបានរួចទៅហើយជោគជ័យបានបញ្ជាក់។",
+    "This payment was cancelled.": "ការទូទាត់នេះត្រូវបានលុបចោល។"
+}

@@ -1,0 +1,19 @@
+{
+    "All rights reserved.": "Minden jog fenntartva.",
+    "Card": "Kártya",
+    "Confirm Payment": "Fizetés Megerősítése",
+    "Confirm your :amount payment": "Erősítse meg a :amount-as fizetést",
+    "Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below.": "A fizetés feldolgozásához további megerősítésre van szükség. Kérjük, erősítse meg fizetését az alábbi fizetési adatok kitöltésével.",
+    "Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below.": "A fizetés feldolgozásához további megerősítésre van szükség. Kérjük, folytassa a Fizetési oldalt az alábbi gombra kattintva.",
+    "Full name": "Teljes név",
+    "Go back": "Menj vissza",
+    "Jane Doe": "Jane Doe",
+    "Pay :amount": "Fizetés :amount",
+    "Payment Cancelled": "Fizetés Törölve",
+    "Payment Confirmation": "Fizetési Visszaigazolás",
+    "Payment Successful": "A Fizetés Sikeres",
+    "Please provide your name.": "Kérjük, adja meg a nevét.",
+    "The payment was successful.": "A fizetés sikeres volt.",
+    "This payment was already successfully confirmed.": "Ezt a kifizetést már sikeresen megerősítették.",
+    "This payment was cancelled.": "Ezt a kifizetést törölték."
+}

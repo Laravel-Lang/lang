@@ -1,0 +1,13 @@
+{
+    "The :attribute must be at least :length characters and contain at least one number.": "Das :attribute muss aus mindestens :length Zeichen bestehen und mindestens eine Zahl enthalten.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "Das :attribute muss mindestens :length Zeichen lang sein und mindestens ein Sonderzeichen und eine Zahl enthalten.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "Das :attribute muss aus mindestens :length Zeichen bestehen und mindestens ein Sonderzeichen enthalten.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "Das :attribute muss aus mindestens :length Zeichen bestehen und mindestens einen Grossbuchstaben und eine Zahl enthalten.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "Das :attribute muss aus mindestens :length Zeichen bestehen und mindestens einen Grossbuchstaben und ein Sonderzeichen enthalten.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "Das :attribute muss aus mindestens :length Zeichen bestehen und mindestens einen Grossbuchstaben, eine Zahl und ein Sonderzeichen enthalten.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "Das :attribute muss aus mindestens :length Zeichen bestehen und mindestens einen Grossbuchstaben enthalten.",
+    "The :attribute must be at least :length characters.": "Das :attribute muss aus mindestens :length Zeichen bestehen.",
+    "The provided password does not match your current password.": "Das angegebene Passwort stimmt nicht mit Ihrem aktuellen Passwort überein.",
+    "The provided password was incorrect.": "Das angegebene Passwort war falsch.",
+    "The provided two factor authentication code was invalid.": "Der angegebene Zwei-Faktor-Authentifizierungscode war ungültig."
+}

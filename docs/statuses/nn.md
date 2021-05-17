@@ -2,7 +2,7 @@
 
 # nn
 
-##### All missed: 1058
+##### All missed: 1039
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/nn/auth.php)
@@ -772,55 +772,15 @@ This :attribute may not be associated with this resource.
 
 ### [nn](https://github.com/Laravel-Lang/lang/blob/master/locales/nn/nn.json)
 
-##### Missing: 39
+##### Missing: 20
 
 <table >
-<tr><td align="left" >
-Add a new team member to your team, allowing them to collaborate with you.
-</td>
-</tr>
-<tr><td align="left" >
-Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted.
-</td>
-</tr>
-<tr><td align="left" >
-Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
-</td>
-</tr>
-<tr><td align="left" >
-Editor users have the ability to read, create, and update.
-</td>
-</tr>
-<tr><td align="left" >
-Ensure your account is using a long, random password to stay secure.
-</td>
-</tr>
-<tr><td align="left" >
-For your security, please confirm your password to continue.
-</td>
-</tr>
 <tr><td align="left" >
 Go to page :page
 </td>
 </tr>
 <tr><td align="left" >
-If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
-</td>
-</tr>
-<tr><td align="left" >
 If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
-</td>
-</tr>
-<tr><td align="left" >
-If you already have an account, you may accept this invitation by clicking the button below:
-</td>
-</tr>
-<tr><td align="left" >
-If you did not expect to receive an invitation to this team, you may discard this email.
-</td>
-</tr>
-<tr><td align="left" >
-If you do not have an account, you may create one by clicking the button below. After creating an account, you may click the invitation acceptance button in this email to accept the team invitation:
 </td>
 </tr>
 <tr><td align="left" >
@@ -840,23 +800,11 @@ Nevermind
 </td>
 </tr>
 <tr><td align="left" >
-Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain.
-</td>
-</tr>
-<tr><td align="left" >
-Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.
-</td>
-</tr>
-<tr><td align="left" >
 Pagination Navigation
 </td>
 </tr>
 <tr><td align="left" >
 Please confirm your password before continuing.
-</td>
-</tr>
-<tr><td align="left" >
-Please copy your new API token. For your security, it won't be shown again.
 </td>
 </tr>
 <tr><td align="left" >
@@ -873,14 +821,6 @@ results
 </tr>
 <tr><td align="left" >
 Showing
-</td>
-</tr>
-<tr><td align="left" >
-Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
-</td>
-</tr>
-<tr><td align="left" >
-The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
 </td>
 </tr>
 <tr><td align="left" >
@@ -904,27 +844,11 @@ The given :attribute has appeared in a data leak. Please choose a different :att
 </td>
 </tr>
 <tr><td align="left" >
-The team's name and owner information.
-</td>
-</tr>
-<tr><td align="left" >
 to
 </td>
 </tr>
 <tr><td align="left" >
-Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
-</td>
-</tr>
-<tr><td align="left" >
-Update your account's profile information and email address.
-</td>
-</tr>
-<tr><td align="left" >
 We won't ask for your password again for a few hours.
-</td>
-</tr>
-<tr><td align="left" >
-When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application.
 </td>
 </tr>
 <tr><td align="left" >
@@ -1030,15 +954,15 @@ The :attribute must be at least :length characters and contain at least one spec
 </td>
 </tr>
 <tr><td align="left" >
-The :attribute must be at least :length characters and contain at least one uppercase character
-</td>
-</tr>
-<tr><td align="left" >
 The :attribute must be at least :length characters and contain at least one uppercase character and one number.
 </td>
 </tr>
 <tr><td align="left" >
 The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
 </td>
 </tr>
 <tr><td align="left" >
@@ -1085,7 +1009,7 @@ Add
 </td>
 </tr>
 <tr><td align="left" >
-Add a new team member to your team
+Add a new team member to your team, allowing them to collaborate with you.
 </td>
 </tr>
 <tr><td align="left" >
@@ -1133,11 +1057,11 @@ API tokens allow third-party services to authenticate with our application on yo
 </td>
 </tr>
 <tr><td align="left" >
-Are you sure you want to delete this team? Once a team is deleted
+Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted.
 </td>
 </tr>
 <tr><td align="left" >
-Are you sure you want to delete your account? Once your account is deleted
+Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
 </td>
 </tr>
 <tr><td align="left" >
@@ -1237,7 +1161,7 @@ Editor
 </td>
 </tr>
 <tr><td align="left" >
-Editor users have the ability to read
+Editor users have the ability to read, create, and update.
 </td>
 </tr>
 <tr><td align="left" >
@@ -1253,11 +1177,11 @@ Enable
 </td>
 </tr>
 <tr><td align="left" >
-Ensure your account is using a long
+Ensure your account is using a long, random password to stay secure.
 </td>
 </tr>
 <tr><td align="left" >
-For your security
+For your security, please confirm your password to continue.
 </td>
 </tr>
 <tr><td align="left" >
@@ -1277,19 +1201,19 @@ I agree to the :terms_of_service and :privacy_policy
 </td>
 </tr>
 <tr><td align="left" >
-If necessary
+If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
 </td>
 </tr>
 <tr><td align="left" >
-If you already have an account
+If you already have an account, you may accept this invitation by clicking the button below:
 </td>
 </tr>
 <tr><td align="left" >
-If you did not expect to receive an invitation to this team
+If you did not expect to receive an invitation to this team, you may discard this email.
 </td>
 </tr>
 <tr><td align="left" >
-If you do not have an account
+If you do not have an account, you may create one by clicking the button below. After creating an account, you may click the invitation acceptance button in this email to accept the team invitation:
 </td>
 </tr>
 <tr><td align="left" >
@@ -1345,11 +1269,11 @@ New Password
 </td>
 </tr>
 <tr><td align="left" >
-Once a team is deleted
+Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain.
 </td>
 </tr>
 <tr><td align="left" >
-Once your account is deleted
+Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.
 </td>
 </tr>
 <tr><td align="left" >
@@ -1381,7 +1305,7 @@ Please confirm access to your account by entering the authentication code provid
 </td>
 </tr>
 <tr><td align="left" >
-Please copy your new API token. For your security
+Please copy your new API token. For your security, it won't be shown again.
 </td>
 </tr>
 <tr><td align="left" >
@@ -1489,7 +1413,7 @@ Terms of Service
 </td>
 </tr>
 <tr><td align="left" >
-Thanks for signing up! Before getting started
+Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
 </td>
 </tr>
 <tr><td align="left" >
@@ -1509,15 +1433,15 @@ The :attribute must be at least :length characters and contain at least one spec
 </td>
 </tr>
 <tr><td align="left" >
-The :attribute must be at least :length characters and contain at least one uppercase character
-</td>
-</tr>
-<tr><td align="left" >
 The :attribute must be at least :length characters and contain at least one uppercase character and one number.
 </td>
 </tr>
 <tr><td align="left" >
 The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
 </td>
 </tr>
 <tr><td align="left" >
@@ -1541,7 +1465,7 @@ The provided two factor authentication code was invalid.
 </td>
 </tr>
 <tr><td align="left" >
-The team\'s name and owner information.
+The team's name and owner information.
 </td>
 </tr>
 <tr><td align="left" >
@@ -1577,7 +1501,7 @@ Two Factor Authentication
 </td>
 </tr>
 <tr><td align="left" >
-Two factor authentication is now enabled. Scan the following QR code using your phone\'s authenticator application.
+Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
 </td>
 </tr>
 <tr><td align="left" >
@@ -1585,7 +1509,7 @@ Update Password
 </td>
 </tr>
 <tr><td align="left" >
-Update your account\'s profile information and email address.
+Update your account's profile information and email address.
 </td>
 </tr>
 <tr><td align="left" >
@@ -1601,7 +1525,7 @@ We were unable to find a registered user with this email address.
 </td>
 </tr>
 <tr><td align="left" >
-When two factor authentication is enabled
+When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application.
 </td>
 </tr>
 <tr><td align="left" >

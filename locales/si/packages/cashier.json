@@ -1,0 +1,19 @@
+{
+    "All rights reserved.": "සියලු හිමිකම් ඇවිරිණි.",
+    "Card": "කාඩ්",
+    "Confirm Payment": "තහවුරු ගෙවීම්",
+    "Confirm your :amount payment": "තහවුරු ඔබේ :amount ගෙවීම්",
+    "Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below.": "අමතර තහවුරු කිරීමට අවශ්ය වේ ක්රියාවලිය, ඔබේ ගෙවීම්. කරුණාකර ඔබේ ගෙවීම් තහවුරු කර ඇත මගින් පුරවා, ඔබේ ගෙවීම් තොරතුරු පහත දක්වා ඇත.",
+    "Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below.": "අමතර තහවුරු කිරීමට අවශ්ය වේ ක්රියාවලිය, ඔබේ ගෙවීම්. කරුණාකර දිගටම ගෙවීම් පිටුවේ මත ක්ලික් කිරීමෙන් පහත දැක්වෙන බොත්තම.",
+    "Full name": "සම්පූර්ණ නම",
+    "Go back": "ආපසු යන්න",
+    "Jane Doe": "Jane Doe",
+    "Pay :amount": "වැටුප් :amount කට",
+    "Payment Cancelled": "ගෙවීම් අවලංගු",
+    "Payment Confirmation": "ගෙවීම් තහවුරු",
+    "Payment Successful": "ගෙවීම් සාර්ථක",
+    "Please provide your name.": "කරුණාකර ලබා ඔයාගේ නම.",
+    "The payment was successful.": "ගෙවීම් සාර්ථක විය.",
+    "This payment was already successfully confirmed.": "මෙම ගෙවීම් දැනටමත් සාර්ථකව තහවුරු කර ඇත.",
+    "This payment was cancelled.": "මෙම ගෙවීම් අවලංගු විය."
+}

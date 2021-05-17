@@ -1,0 +1,13 @@
+{
+    "The :attribute must be at least :length characters and contain at least one number.": ":attribute musí mať najmenej :length znakov a musí obsahovať aspoň jedno číslo.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": ":attribute musí mať najmenej :length znakov a musí obsahovať aspoň jeden špeciálny znak a jedno číslo.",
+    "The :attribute must be at least :length characters and contain at least one special character.": ":attribute musí mať najmenej :length znakov a musí obsahovať aspoň jeden špeciálny znak.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": ":attribute musí mať najmenej :length znakov a musí obsahovať aspoň jeden veľký znak a jedno číslo.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": ":attribute musí mať najmenej :length znakov a musí obsahovať aspoň jedno veľké písmeno a jeden špeciálny znak.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": ":attribute musí mať najmenej :length znakov a musí obsahovať aspoň jeden veľký znak, jedno číslo a jeden špeciálny znak.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": ":attribute musí mať najmenej :length znakov a musí obsahovať aspoň jedno veľké písmeno.",
+    "The :attribute must be at least :length characters.": ":attribute musí mať najmenej :length znakov.",
+    "The provided password does not match your current password.": "Zadané heslo sa nezhoduje s vaším aktuálnym heslom.",
+    "The provided password was incorrect.": "Poskytnuté heslo bolo nesprávne.",
+    "The provided two factor authentication code was invalid.": "Poskytnutý dvojfaktorový autentifikačný kód bol neplatný."
+}

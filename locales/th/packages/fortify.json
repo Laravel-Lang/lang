@@ -1,0 +1,13 @@
+{
+    "The :attribute must be at least :length characters and contain at least one number.": "ที่ :attribute ต้องเป็นอย่างน้อย :length ตัวอักษรและมีอย่างน้อยหนึ่งหมายเลข",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "ที่ :attribute ต้องเป็นอย่างน้อย :length ตัวอักษรและมีอย่างน้อยหนึ่งอักขระพิเศษและหนึ่งหมายเลข",
+    "The :attribute must be at least :length characters and contain at least one special character.": "ที่ :attribute ต้องเป็นอย่างน้อย :length ตัวอักษรและมีอย่างน้อยหนึ่งอักขระพิเศษ.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "ที่ :attribute ต้องเป็นอย่างน้อย :length ตัวอักษรและมีอย่างน้อยหนึ่งตัวอักษรตัวพิมพ์ใหญ่และหนึ่งหมายเลข",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "ที่ :attribute ต้องเป็นอย่างน้อย :length ตัวอักษรและมีอย่างน้อยหนึ่งตัวอักษรตัวพิมพ์ใหญ่และหนึ่งอักขระพิเศษ.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "ที่ :attribute ต้องเป็นอย่างน้อย :length ตัวอักษรและมีอย่างน้อยหนึ่งเป็นอักษรตัวพิมพ์ใหญ่ตัวละครหนึ่งหมายเลข,และหนึ่งอักขระพิเศษ.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "ที่ :attribute ต้องเป็นอย่างน้อย :length ตัวอักษรและมีอย่างน้อยหนึ่งตัวอักษรตัวพิมพ์ใหญ่.",
+    "The :attribute must be at least :length characters.": "ที่ :attribute ต้องเป็นอย่างน้อย :length ตัวอักษร",
+    "The provided password does not match your current password.": "ที่เตรียมไว้ให้ด้านล่างรหัสผ่านไม่ตรงกับของคุณปัจจุบันรหัสผ่าน",
+    "The provided password was incorrect.": "ที่เตรียมไว้ให้ด้านล่างรหัสผ่านไม่ถูกต้อง",
+    "The provided two factor authentication code was invalid.": "ที่เตรียมไว้ให้ด้านล่างสองคนปัจจัการตรวจสอบสิทธิ์ของรหัสเป็นไม่ถูกต้อง"
+}

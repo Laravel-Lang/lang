@@ -1,0 +1,13 @@
+{
+    "The :attribute must be at least :length characters and contain at least one number.": "Beseda za :attribute mora biti dolga vsaj :length znakov, in mora vsebovati vsaj eno številko.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": ":attribute mora biti vsaj :length znakov in mora vsebovati vsaj en poseben znak in eno številko.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "Beseda za :attribute mora biti dolga vsaj :length znakov, in mora vsebovati vsaj en poseben znak.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "Beseda za :attribute mora biti dolga vsaj :length znakov, in mora vsebovati vsaj eno veliko črko in eno številko.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "Beseda za :attribute mora biti dolga vsaj :length znakov, in mora vsebovati vsaj eno veliko črko in en poseben znak.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "Beseda za :attribute mora biti dolga vsaj :length znakov, in mora vsebovati vsaj eno veliko črko, eno številko ter en poseben znak.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "Beseda za :attribute mora biti dolga vsaj :length znakov, in mora vsebovati vsaj eno veliko črko.",
+    "The :attribute must be at least :length characters.": "Beseda za :attribute mora biti dolga vsaj :length znakov.",
+    "The provided password does not match your current password.": "Vnešeno geslo se ne ujema z vašim trenutnim geslom.",
+    "The provided password was incorrect.": "Vnešeno geslo ni pravilno.",
+    "The provided two factor authentication code was invalid.": "Vnešena koda za dvofazno avtorizacijo ni pravilna."
+}

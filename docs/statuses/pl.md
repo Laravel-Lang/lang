@@ -2,7 +2,7 @@
 
 # pl
 
-##### All missed: 306
+##### All missed: 286
 
 
 ### [pl](https://github.com/Laravel-Lang/lang/blob/master/locales/pl/pl.json)
@@ -51,102 +51,11 @@ Jane Doe
 
 [ [go back](../status.md) | [to top](#) ]
 
-### [fortify](https://github.com/Laravel-Lang/lang/blob/master/locales/pl/packages/fortify.json)
+### [jetstream](https://github.com/Laravel-Lang/lang/blob/master/locales/pl/packages/jetstream.json)
 
 ##### Missing: 1
 
 <table >
-<tr><td align="left" >
-The :attribute must be at least :length characters and contain at least one uppercase character
-</td>
-</tr>
-
-</table>
-
-
-[ [go back](../status.md) | [to top](#) ]
-
-### [jetstream](https://github.com/Laravel-Lang/lang/blob/master/locales/pl/packages/jetstream.json)
-
-##### Missing: 20
-
-<table >
-<tr><td align="left" >
-Add a new team member to your team
-</td>
-</tr>
-<tr><td align="left" >
-Are you sure you want to delete this team? Once a team is deleted
-</td>
-</tr>
-<tr><td align="left" >
-Are you sure you want to delete your account? Once your account is deleted
-</td>
-</tr>
-<tr><td align="left" >
-Editor users have the ability to read
-</td>
-</tr>
-<tr><td align="left" >
-Ensure your account is using a long
-</td>
-</tr>
-<tr><td align="left" >
-For your security
-</td>
-</tr>
-<tr><td align="left" >
-If necessary
-</td>
-</tr>
-<tr><td align="left" >
-If you already have an account
-</td>
-</tr>
-<tr><td align="left" >
-If you did not expect to receive an invitation to this team
-</td>
-</tr>
-<tr><td align="left" >
-If you do not have an account
-</td>
-</tr>
-<tr><td align="left" >
-Once a team is deleted
-</td>
-</tr>
-<tr><td align="left" >
-Once your account is deleted
-</td>
-</tr>
-<tr><td align="left" >
-Please copy your new API token. For your security
-</td>
-</tr>
-<tr><td align="left" >
-Thanks for signing up! Before getting started
-</td>
-</tr>
-<tr><td align="left" >
-The :attribute must be at least :length characters and contain at least one uppercase character
-</td>
-</tr>
-<tr><td align="left" >
-The team\'s name and owner information.
-</td>
-</tr>
-<tr><td align="left" >
-Two factor authentication is now enabled. Scan the following QR code using your phone\'s authenticator application.
-</td>
-</tr>
-<tr><td align="left" >
-Update your account\'s profile information and email address.
-</td>
-</tr>
-<tr><td align="left" >
-When two factor authentication is enabled
-</td>
-</tr>
 <tr><td align="left" >
 You may accept this invitation by clicking the button below:
 </td>

@@ -27,6 +27,8 @@ final class PhpTest extends TestCase
 
     protected function load(string $path): array
     {
-        return Pretty::make()->load($path);
+        $items = Pretty::make()->load($path);
+
+        return $this->correctValues($items);
     }
 }

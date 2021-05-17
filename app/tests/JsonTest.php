@@ -29,7 +29,9 @@ final class JsonTest extends TestCase
     {
         $content = Pretty::make()->loadRaw($path);
 
-        return json_decode($content, true);
+        $items = json_decode($content, true);
+
+        return $this->correctValues($items);
     }
 
     protected function resolveFilename(string $filename, string $locale = null): string

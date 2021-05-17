@@ -1,0 +1,13 @@
+{
+    "The :attribute must be at least :length characters and contain at least one number.": "A :attribute karakternek legalább :length karakternek kell lennie, és legalább egy számot kell tartalmaznia.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "A :attribute karakternek legalább :length karakternek kell lennie, és legalább egy különleges karaktert és egy számot kell tartalmaznia.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "A :attribute karakternek legalább :length karakternek kell lennie, és legalább egy különleges karaktert kell tartalmaznia.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "A :attribute karakternek legalább :length karakternek kell lennie, és legalább egy nagybetűs karaktert és egy számot kell tartalmaznia.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "A :attribute karakternek legalább :length karakternek kell lennie, és legalább egy nagybetűs és egy különleges karaktert kell tartalmaznia.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "A :attribute-nek legalább :length karakternek kell lennie, és legalább egy nagybetűs karaktert, egy számot és egy különleges karaktert kell tartalmaznia.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "Az :attribute-asnak legalább :length karakternek kell lennie, és legalább egy nagybetűs karaktert kell tartalmaznia.",
+    "The :attribute must be at least :length characters.": "Az :attribute-nek legalább :length karakternek kell lennie.",
+    "The provided password does not match your current password.": "A megadott jelszó nem egyezik meg az aktuális jelszóval.",
+    "The provided password was incorrect.": "A megadott jelszó helytelen volt.",
+    "The provided two factor authentication code was invalid.": "A megadott kéttényezős hitelesítési kód érvénytelen volt."
+}

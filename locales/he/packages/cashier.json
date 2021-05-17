@@ -1,0 +1,19 @@
+{
+    "All rights reserved.": "כל הזכויות שמורות",
+    "Card": "כרטיס",
+    "Confirm Payment": "אשר תשלום",
+    "Confirm your :amount payment": "אשר את תשלום :amount שלך",
+    "Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below.": "יש צורך באישור נוסף כדי לעבד את התשלום שלך. אנא אשר את התשלום שלך על ידי מילוי פרטי התשלום שלך להלן.",
+    "Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below.": "יש צורך באישור נוסף כדי לעבד את התשלום שלך. אנא המשך לדף התשלום על ידי לחיצה על הכפתור למטה.",
+    "Full name": "שם מלא",
+    "Go back": "חזור",
+    "Jane Doe": "Jane Doe",
+    "Pay :amount": "שלם :amount",
+    "Payment Cancelled": "התשלום בוטל",
+    "Payment Confirmation": "אישור תשלום",
+    "Payment Successful": "תשלום מוצלח",
+    "Please provide your name.": "אנא ספק את שמך.",
+    "The payment was successful.": "התשלום היה מוצלח.",
+    "This payment was already successfully confirmed.": "תשלום זה כבר אושר בהצלחה.",
+    "This payment was cancelled.": "התשלום הזה בוטל."
+}

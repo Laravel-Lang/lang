@@ -1,0 +1,13 @@
+{
+    "The :attribute must be at least :length characters and contain at least one number.": ":attribute חייב להיות לפחות :length תווים מכילים לפחות מספר אחד.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": ":attribute חייב להיות לפחות :length תווים מכילים לפחות תו מיוחד אחד ומספר אחד.",
+    "The :attribute must be at least :length characters and contain at least one special character.": ":attribute חייב להיות לפחות :length תווים מכילים לפחות תו מיוחד אחד.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": ":attribute חייב להיות לפחות :length תווים מכילים לפחות תו אחד באותיות רישיות ומספר אחד.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "ה-:attribute חייב להיות לפחות :length תווים ומכילים לפחות תו עליון אחד ותו מיוחד אחד.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": ":attribute חייב להיות לפחות :length תווים מכילים לפחות תו אחד אותיות רישיות, מספר אחד, תו מיוחד אחד.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": ":attribute חייב להיות לפחות :length תווים מכילים לפחות תו אחד באותיות רישיות.",
+    "The :attribute must be at least :length characters.": ":attribute חייב להיות לפחות :length תווים.",
+    "The provided password does not match your current password.": "הסיסמה המסופקת אינה תואמת את הסיסמה הנוכחית שלך.",
+    "The provided password was incorrect.": "הסיסמה שסופקה הייתה שגויה.",
+    "The provided two factor authentication code was invalid.": "קוד האימות של שני גורמים לא היה תקין."
+}

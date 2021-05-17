@@ -1,0 +1,13 @@
+{
+    "The :attribute must be at least :length characters and contain at least one number.": "Поле :attribute має містити принаймні :length символів і містити принаймні одне число.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": ":attribute повинен бути не менше :length символів і містити принаймні один спеціальний символ і одну цифру.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "Поле :attribute має бути принаймні :length символів і містити принаймні один спеціальний символ.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "Поле :attribute має бути принаймні :length символів і містити принаймні один великий символ та одне число.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "Поле :attribute має бути принаймні :length символів і містити принаймні один великий символ та один спеціальний символ.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "Поле :attribute має бути принаймні :length символів і містити принаймні один великий символ, одне число та один спеціальний символ.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "Поле :attribute має бути принаймні :length символів і містити принаймні один великий символ.",
+    "The :attribute must be at least :length characters.": "Поле :attribute має бути принаймні :length символів.",
+    "The provided password does not match your current password.": "Наданий пароль не відповідає вашому поточному паролю.",
+    "The provided password was incorrect.": "Введений пароль був неправильним.",
+    "The provided two factor authentication code was invalid.": "Наданий двофакторний код автентифікації був недійсним."
+}

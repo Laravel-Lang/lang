@@ -2,7 +2,7 @@
 
 # fa
 
-##### All missed: 774
+##### All missed: 754
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/fa/validation-inline.php)
@@ -99,25 +99,9 @@ This :attribute may not be associated with this resource.
 
 ### [fa](https://github.com/Laravel-Lang/lang/blob/master/locales/fa/fa.json)
 
-##### Missing: 9
+##### Missing: 5
 
 <table >
-<tr><td align="left" >
-If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
-</td>
-</tr>
-<tr><td align="left" >
-If you already have an account, you may accept this invitation by clicking the button below:
-</td>
-</tr>
-<tr><td align="left" >
-If you did not expect to receive an invitation to this team, you may discard this email.
-</td>
-</tr>
-<tr><td align="left" >
-If you do not have an account, you may create one by clicking the button below. After creating an account, you may click the invitation acceptance button in this email to accept the team invitation:
-</td>
-</tr>
 <tr><td align="left" >
 The :attribute must contain at least one letter.
 </td>
@@ -213,15 +197,11 @@ This payment was cancelled.
 
 ### [fortify](https://github.com/Laravel-Lang/lang/blob/master/locales/fa/packages/fortify.json)
 
-##### Missing: 2
+##### Missing: 1
 
 <table >
 <tr><td align="left" >
 The :attribute must be at least :length characters and contain at least one special character and one number.
-</td>
-</tr>
-<tr><td align="left" >
-The :attribute must be at least :length characters and contain at least one uppercase character
 </td>
 </tr>
 
@@ -232,23 +212,11 @@ The :attribute must be at least :length characters and contain at least one uppe
 
 ### [jetstream](https://github.com/Laravel-Lang/lang/blob/master/locales/fa/packages/jetstream.json)
 
-##### Missing: 36
+##### Missing: 21
 
 <table >
 <tr><td align="left" >
 Accept Invitation
-</td>
-</tr>
-<tr><td align="left" >
-Add a new team member to your team
-</td>
-</tr>
-<tr><td align="left" >
-Are you sure you want to delete this team? Once a team is deleted
-</td>
-</tr>
-<tr><td align="left" >
-Are you sure you want to delete your account? Once your account is deleted
 </td>
 </tr>
 <tr><td align="left" >
@@ -260,18 +228,6 @@ Create Account
 </td>
 </tr>
 <tr><td align="left" >
-Editor users have the ability to read
-</td>
-</tr>
-<tr><td align="left" >
-Ensure your account is using a long
-</td>
-</tr>
-<tr><td align="left" >
-For your security
-</td>
-</tr>
-<tr><td align="left" >
 Great! You have accepted the invitation to join the :team team.
 </td>
 </tr>
@@ -280,19 +236,19 @@ I agree to the :terms_of_service and :privacy_policy
 </td>
 </tr>
 <tr><td align="left" >
-If necessary
+If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
 </td>
 </tr>
 <tr><td align="left" >
-If you already have an account
+If you already have an account, you may accept this invitation by clicking the button below:
 </td>
 </tr>
 <tr><td align="left" >
-If you did not expect to receive an invitation to this team
+If you did not expect to receive an invitation to this team, you may discard this email.
 </td>
 </tr>
 <tr><td align="left" >
-If you do not have an account
+If you do not have an account, you may create one by clicking the button below. After creating an account, you may click the invitation acceptance button in this email to accept the team invitation:
 </td>
 </tr>
 <tr><td align="left" >
@@ -300,19 +256,7 @@ Manage and log out your active sessions on other browsers and devices.
 </td>
 </tr>
 <tr><td align="left" >
-Once a team is deleted
-</td>
-</tr>
-<tr><td align="left" >
-Once your account is deleted
-</td>
-</tr>
-<tr><td align="left" >
 Pending Team Invitations
-</td>
-</tr>
-<tr><td align="left" >
-Please copy your new API token. For your security
 </td>
 </tr>
 <tr><td align="left" >
@@ -336,19 +280,7 @@ Terms of Service
 </td>
 </tr>
 <tr><td align="left" >
-Thanks for signing up! Before getting started
-</td>
-</tr>
-<tr><td align="left" >
 The :attribute must be at least :length characters and contain at least one special character and one number.
-</td>
-</tr>
-<tr><td align="left" >
-The :attribute must be at least :length characters and contain at least one uppercase character
-</td>
-</tr>
-<tr><td align="left" >
-The team\'s name and owner information.
 </td>
 </tr>
 <tr><td align="left" >
@@ -357,18 +289,6 @@ These people have been invited to your team and have been sent an invitation ema
 </tr>
 <tr><td align="left" >
 This user has already been invited to the team.
-</td>
-</tr>
-<tr><td align="left" >
-Two factor authentication is now enabled. Scan the following QR code using your phone\'s authenticator application.
-</td>
-</tr>
-<tr><td align="left" >
-Update your account\'s profile information and email address.
-</td>
-</tr>
-<tr><td align="left" >
-When two factor authentication is enabled
 </td>
 </tr>
 <tr><td align="left" >

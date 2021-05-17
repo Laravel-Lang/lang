@@ -29,6 +29,10 @@ abstract class Base implements Filesystem
 
     protected function correctValues(array $items): array
     {
-        return Arr::map($items, static fn ($value) => str_replace('\"', '"', $value), true);
+        $callback = static fn ($value) => stripslashes($value);
+
+        $items = Arr::map($items, $callback, true);
+
+        return Arr::renameKeys($items, $callback);
     }
 }

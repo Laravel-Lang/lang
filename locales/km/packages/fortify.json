@@ -1,0 +1,13 @@
+{
+    "The :attribute must be at least :length characters and contain at least one number.": ":attribute ត្រូវតែមានយ៉ាងហោច :length តួអក្សរនិងមានយ៉ាងហោចណាស់លេខមួយ។",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": ":attribute ត្រូវតែមានយ៉ាងហោ :length តួអក្សរនិងមានយ៉ាងហោចណាស់លេខមួយ និងអក្សរពិសេសមួយ។",
+    "The :attribute must be at least :length characters and contain at least one special character.": ":attribute ត្រូវតែមានយ៉ាងហោច :length តួអក្សរនិងមានយ៉ាងហោចណាស់មួយអក្សរពិសេស។",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": ":attribute ត្រូវតែមានយ៉ាងហោច :length តួអក្សរនិងមានយ៉ាងហោចណាស់អក្សរធំមួយ និងលេខមួយ។",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "attribute ត្រូវតែមានយ៉ាងហោច :length តួអក្សរនិងមានយ៉ាងហោចណាស់អក្សរធំមួយ លេខមួយ និងអក្សរពិសេសមួយ។",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": ":attribute ត្រូវតែមានយ៉ាងហោច :length តួអក្សរនិងមានយ៉ាងហោចណាស់អក្សរធំមួយ។",
+    "The :attribute must be at least :length characters.": ":attribute ត្រូវតែមានយ៉ាងហោច :length តួអក្សរ។",
+    "The provided password does not match your current password.": "ពាក្យសម្ងាត់មិនផ្គូរផ្គងជាមួយនពាក្យសម្ងាត់បច្ចុប្បន្របស់អ្នក។",
+    "The provided password was incorrect.": "ការផ្ដល់ពាក្យសម្ងាត់មិនត្រឹមត្រូវ។",
+    "The provided two factor authentication code was invalid.": "ការផ្តល់ជូនពីកត្តាការផ្ទៀងលេខកូដមិនត្រឹមត្រូវ។"
+}

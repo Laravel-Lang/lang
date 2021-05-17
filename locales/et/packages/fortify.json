@@ -1,0 +1,13 @@
+{
+    "The :attribute must be at least :length characters and contain at least one number.": ":attribute peab olema vähemalt :length tähemärki ja sisaldama vähemalt ühte numbrit.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": ":attribute peab olema vähemalt :length tähemärki ning sisaldama vähemalt ühte erimärki ja ühte numbrit.",
+    "The :attribute must be at least :length characters and contain at least one special character.": ":attribute peab olema vähemalt :length tähemärki ja sisaldama vähemalt ühte erimärki.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": ":attribute peab olema vähemalt :length tähemärki ja sisaldama vähemalt ühte suurtähte ja ühte numbrit.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": ":attribute peab olema vähemalt :length tähemärki ning sisaldama vähemalt ühte suurtähte ja ühte erimärki.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": ":attribute peab olema vähemalt :length tähemärki ja sisaldama vähemalt ühte suurtähte, ühte numbrit ja ühte erimärki.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": ":attribute peab olema vähemalt :length tähemärki ja sisaldama vähemalt ühte suurtähte.",
+    "The :attribute must be at least :length characters.": ":attribute peab olema vähemalt :length tähemärki.",
+    "The provided password does not match your current password.": "Antud parool ei vasta teie praegusele paroolile.",
+    "The provided password was incorrect.": "Antud parool oli vale.",
+    "The provided two factor authentication code was invalid.": "Esitatud kahe teguri autentimise kood oli kehtetu."
+}

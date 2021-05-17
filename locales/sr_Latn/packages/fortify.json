@@ -1,0 +1,13 @@
+{
+    "The :attribute must be at least :length characters and contain at least one number.": ":attribute mora biti najmanje :length karaktera i mora sadržati barem jedan broj.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": ":attribute мора бити најмање 1.535 знакова и садржи најмање један посебан знак и један број.",
+    "The :attribute must be at least :length characters and contain at least one special character.": ":attribute mora biti najmanje :length karaktera i mora sadržati barem jedan specijalni karakter.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": ":attribute mora biti najmanje :length karaktera i mora sadržati jedno veliko slovo i jedan broj.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": ":attribute mora biti najmanje :length karaktera i mora sadržati jedno veliko slovo i jedan specijalni karakter.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": ":attribute mora biti najmanje :length karaktera i mora sadržati jedno veliko slovo, jedan broj i jedan specijalni karakter.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": ":attribute mora biti najmanje :length karaktera i mora sadržati jedno veliko slovo.",
+    "The :attribute must be at least :length characters.": ":attribute mora biti najmanje :length karaktera.",
+    "The provided password does not match your current password.": "Uneli ste lozinku koja se ne poklapa sa Vašom lozinkom.",
+    "The provided password was incorrect.": "Uneta lozinka nije tačna.",
+    "The provided two factor authentication code was invalid.": "Kod za dvofaktorsku autentifikaciju nije validan."
+}

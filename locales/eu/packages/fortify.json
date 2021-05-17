@@ -1,0 +1,13 @@
+{
+    "The :attribute must be at least :length characters and contain at least one number.": "The :attribute gutxienez, izan behar du :length pertsonaiak eta, gutxienez, eduki zenbaki bat.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "The :attribute gutxienez, izan behar du :length pertsonaiak eta eduki bat, gutxienez, izaera berezi eta telefono zenbaki bat.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "The :attribute gutxienez, izan behar du :length pertsonaiak eta eduki bat, gutxienez, izaera berezia.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "The :attribute gutxienez, izan behar du :length pertsonaiak eta, gutxienez, eduki bat maiuskulaz pertsonaia eta telefono zenbaki bat.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "The :attribute izan behar du, gutxienez, :length pertsonaiak eta, gutxienez, eduki bat maiuskulaz pertsonaia bat eta karaktere bereziak.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "The :attribute izan behar du, gutxienez, :length pertsonaiak eta, gutxienez, eduki bat maiuskulaz pertsonaia, telefono zenbaki bat eta bat berezia pertsonaia.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "The :attribute gutxienez, izan behar du :length pertsonaiak eta, gutxienez, eduki bat maiuskulaz pertsonaia.",
+    "The :attribute must be at least :length characters.": "The :attribute gutxienez, izan behar du :length pertsonaiak.",
+    "The provided password does not match your current password.": "Emandako pasahitza ez dator zure uneko pasahitza.",
+    "The provided password was incorrect.": "Emandako pasahitza ez zen zuzena.",
+    "The provided two factor authentication code was invalid.": "Emandako bi faktore autentifikazio-kodea zen baliogabea."
+}

@@ -1,0 +1,13 @@
+{
+    "The :attribute must be at least :length characters and contain at least one number.": ":attribute duhet të jenë së paku :length karaktere dhe përmbajnë të paktën një numër.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": ":attribute duhet të jetë së paku :length shkronja dhe përmban të paktën një karakter të veçantë dhe një numër.",
+    "The :attribute must be at least :length characters and contain at least one special character.": ":attribute duhet të jenë të paktën :length karaktere dhe përmbajnë të paktën një karakter të veçantë.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": ":attribute duhet të jetë së paku :length shkronja dhe të përmbajë të paktën një kërkesë dhe një numër.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": ":attribute duhet të jetë të paktën :length shkronja dhe të përmbajë të paktën një karakter nga kaza dhe një karakter të veçantë.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": ":attribute duhet të jenë të paktën :length karaktere dhe përmbajnë të paktën një krik, një numër dhe një karakter të veçantë.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": ":attribute duhet të jenë të paktën :length shkronja dhe të përmbajnë të paktën një kërkesë nga baza.",
+    "The :attribute must be at least :length characters.": ":attribute duhet të jetë së paku :length karaktere.",
+    "The provided password does not match your current password.": "Fjalëkalimi i dhënë nuk përputhet me fjalëkalimin tuaj aktual.",
+    "The provided password was incorrect.": "Fjalëkalimi i dhënë ishte i gabuar.",
+    "The provided two factor authentication code was invalid.": "Kodi i autentifikimit i dhënë prej dy faktorëve ishte i pavlefshëm."
+}

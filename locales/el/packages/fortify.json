@@ -1,0 +1,13 @@
+{
+    "The :attribute must be at least :length characters and contain at least one number.": "Το :attribute θα πρέπει να είναι τουλάχιστον :length χαρακτήρων και να περιέχει έναν αριθμό.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "Το :attribute πρέπει να είναι τουλάχιστον :length χαρακτήρες και να περιέχει τουλάχιστον έναν ειδικό χαρακτήρα και έναν αριθμό.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "Το :attribute θα πρέπει να είναι τουλάχιστον :length χαρακτήρων και να περιέχει έναν ειδικό χαρακτήρα.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "Το :attribute θα πρέπει να είναι τουλάχιστον :length χαρακτήρων και να περιέχει τουλάχιστον ένα κεφαλαίο χαρακτήρα και έναν αριθμό.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "Το :attribute θα πρέπει να είναι τουλάχιστον :length χαρακτήρων και να περιέχει τουλάχιστον ένα κεφαλαίο χαρακτήρα και έναν ειδικό χαρακτήρα.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "Το :attribute θα πρέπει να είναι τουλάχιστον :length χαρακτήρων και να περιέχει τουλάχιστον ένα κεφαλαίο χαρακτήρα, έναν αριθμό και έναν ειδικό χαρακτήρα.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "Το :attribute θα πρέπει να είναι τουλάχιστον :length χαρακτήρων και να περιέχει τουλάχιστον ένα κεφαλαίο γράμμα.",
+    "The :attribute must be at least :length characters.": "Το :attribute θα πρέπει να είναι τουλάχιστον :length χαρακτήρων.",
+    "The provided password does not match your current password.": "Ο παρεχόμενος κωδικός πρόσβασης δεν ταιριάζει με τον τρέχοντα κωδικό πρόσβασής σας.",
+    "The provided password was incorrect.": "Ο παρεχόμενος κωδικός πρόσβασης ήταν εσφαλμένος.",
+    "The provided two factor authentication code was invalid.": "Ο παρεχόμενος κωδικός ελέγχου ταυτότητας δύο παραγόντων δεν ήταν έγκυρος."
+}

@@ -101,4 +101,13 @@ abstract class TestCase extends BaseTestCase
     {
         return str_starts_with($filename, Locales::ENGLISH);
     }
+
+    protected function correctValues(array $items): array
+    {
+        $callback = static fn ($value) => stripslashes($value);
+
+        $items = Arr::map($items, $callback, true);
+
+        return Arr::renameKeys($items, $callback);
+    }
 }

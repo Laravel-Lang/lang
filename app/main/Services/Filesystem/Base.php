@@ -3,7 +3,7 @@
 namespace LaravelLang\Lang\Services\Filesystem;
 
 use Helldar\Support\Concerns\Makeable;
-use Helldar\Support\Facades\Helpers\Arr;
+use Helldar\Support\Facades\Helpers\Ables\Arrayable;
 use LaravelLang\Lang\Application;
 use LaravelLang\Lang\Concerns\Storable;
 use LaravelLang\Lang\Contracts\Filesystem;
@@ -31,8 +31,9 @@ abstract class Base implements Filesystem
     {
         $callback = static fn ($value) => stripslashes($value);
 
-        $items = Arr::map($items, $callback, true);
-
-        return Arr::renameKeys($items, $callback);
+        return Arrayable::of($items)
+            ->map($callback, true)
+            ->renameKeys($callback)
+            ->get();
     }
 }

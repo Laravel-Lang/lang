@@ -3,6 +3,7 @@
 namespace Tests;
 
 use Helldar\PrettyArray\Services\File;
+use Helldar\Support\Facades\Helpers\Ables\Arrayable;
 use Helldar\Support\Facades\Helpers\Arr;
 use Helldar\Support\Facades\Helpers\Filesystem\Directory;
 use Helldar\Support\Facades\Helpers\Filesystem\File as Filesystem;
@@ -27,11 +28,11 @@ abstract class TestCase extends BaseTestCase
             $custom     = Arr::get($content, 'custom', []);
             $attributes = Arr::get($content, 'attributes', []);
 
-            $content = Arr::except($content, ['custom', 'attributes']);
-
-            $content = Arr::ksort($content);
-
-            return array_merge($content, compact('custom', 'attributes'));
+            return Arrayable::of($content)
+                ->except(['custom', 'attributes'])
+                ->ksort()
+                ->merge(compact('custom', 'attributes'))
+                ->get();
         }
 
         return Arr::ksort($content);
@@ -106,8 +107,9 @@ abstract class TestCase extends BaseTestCase
     {
         $callback = static fn ($value) => stripslashes($value);
 
-        $items = Arr::map($items, $callback, true);
-
-        return Arr::renameKeys($items, $callback);
+        return Arrayable::of($items)
+            ->map($callback, true)
+            ->renameKeys($callback)
+            ->get();
     }
 }

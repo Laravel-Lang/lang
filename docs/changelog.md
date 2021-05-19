@@ -11,6 +11,7 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ### Changed
 
+ * feature: [de] #1750 json file
  * feature: [nb] #1747 auth.php pagination.php passwords.php validation-inline.php validation.php json file
  * feature: #1748 Split translation keys into Laravel packages
 

@@ -1,0 +1,13 @@
+{
+    "The :attribute must be at least :length characters and contain at least one number.": "দী :attribute অন্তত হতে হবে :length অক্ষর এবং অন্তত এক নম্বর থাকে.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "এই :attribute অন্তত হতে হবে :length অক্ষর ধারণ করে এবং অন্তত এক বিশেষ চরিত্র এবং এক নম্বর.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "এই :attribute অন্তত হতে হবে :length অক্ষর ধারণ করে এবং অন্তত এক বিশেষ চরিত্র.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "দী :attribute অন্তত হতে হবে :length অক্ষর এবং অন্তত একটি য়ের বড়হাতের অক্ষর ছোটহাতের অক্ষর এবং একটি সংখ্যা থাকতে হবে.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "ঐ :attribute অন্তত হতে হবে :length অক্ষর এবং অন্তত একটি য়ের বড়হাতের অক্ষর ছোটহাতের অক্ষর এবং একটি বিশেষ অক্ষর থাকে.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": ":attribute অন্তত হতে হবে :length অক্ষর এবং অন্তত একটি য়ের বড়হাতের অক্ষর ছোটহাতের অক্ষর ছোটহাতের অক্ষর, একটি সংখ্যা, এবং একটি বিশেষ অক্ষর থাকতে হবে.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": ":attribute অন্তত :length অক্ষর হতে হবে এবং অন্তত একটি বড় হাতের অক্ষর ধারণ করতে হবে.",
+    "The :attribute must be at least :length characters.": ":attribute অন্তত হতে হবে :length অক্ষর.",
+    "The provided password does not match your current password.": "প্রদত্ত পাসওয়ার্ড আপনার বর্তমান পাসওয়ার্ড মেলে না.",
+    "The provided password was incorrect.": "প্রদত্ত পাসওয়ার্ড ভুল ছিল.",
+    "The provided two factor authentication code was invalid.": "প্রদত্ত দুটি ফ্যাক্টর প্রমাণীকরণ কোড অবৈধ ছিল."
+}

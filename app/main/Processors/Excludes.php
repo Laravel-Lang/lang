@@ -58,7 +58,7 @@ final class Excludes extends Processor
 
     protected function sourceFiles(): array
     {
-        return File::names($this->getSourcePath());
+        return File::names($this->getSourcePath(), recursive: true);
     }
 
     protected function targetFiles(): array

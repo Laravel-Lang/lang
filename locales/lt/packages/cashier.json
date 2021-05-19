@@ -1,0 +1,19 @@
+{
+    "All rights reserved.": "Visos teisės saugomos.",
+    "Card": "Kortelė",
+    "Confirm Payment": "Patvirtinkite Mokėjimą",
+    "Confirm your :amount payment": "Patvirtinkite savo :amount mokėjimą",
+    "Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below.": "Papildomas patvirtinimas reikalingas jūsų mokėjimo apdorojimui. Prašome patvirtinti savo mokėjimą užpildydami žemiau pateiktus mokėjimo duomenis.",
+    "Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below.": "Papildomas patvirtinimas reikalingas jūsų mokėjimo apdorojimui. Prašome tęsti mokėjimo puslapį paspaudę žemiau esantį mygtuką.",
+    "Full name": "Pavardė",
+    "Go back": "Grįžti",
+    "Jane Doe": "Jane Doe",
+    "Pay :amount": "Mokėti :amount",
+    "Payment Cancelled": "Mokėjimas Atšauktas",
+    "Payment Confirmation": "Mokėjimo Patvirtinimas",
+    "Payment Successful": "Mokėjimas Sėkmingas",
+    "Please provide your name.": "Prašome nurodyti savo vardą.",
+    "The payment was successful.": "Mokėjimas buvo sėkmingas.",
+    "This payment was already successfully confirmed.": "Šis mokėjimas jau buvo sėkmingai patvirtintas.",
+    "This payment was cancelled.": "Šis mokėjimas buvo atšauktas."
+}

@@ -25,7 +25,9 @@ final class Collection extends Compiler
 
     protected function compileLocale(string $content, int $count, string $filename): string
     {
-        return $this->template(Resource::COMPONENT_LOCALE, compact('count', 'filename', 'content'));
+        $basename = $this->basename($filename);
+
+        return $this->template(Resource::COMPONENT_LOCALE, compact('count', 'basename', 'filename', 'content'));
     }
 
     protected function compileItems(array $items, bool $is_json = false): string
@@ -40,5 +42,10 @@ final class Collection extends Compiler
         return $is_json
             ? array_values(array_map(static fn ($key) => [$key], array_keys($items)))
             : array_values(array_map(static fn ($key, $value) => [$key, $value], array_keys($items), array_values($items)));
+    }
+
+    protected function basename(string $filename): string
+    {
+        return pathinfo($filename, PATHINFO_FILENAME);
     }
 }

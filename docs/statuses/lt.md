@@ -2,20 +2,355 @@
 
 # lt
 
-##### All missed: 125
+##### All missed: 185
 
 
-### json
+### [lt](https://github.com/Laravel-Lang/lang/blob/master/locales/lt/lt.json)
 
-##### Missing: 125
+##### Missing: 5
+
+<table >
+<tr><td align="left" >
+The :attribute must contain at least one letter.
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one number.
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one symbol.
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one uppercase and one lowercase letter.
+</td>
+</tr>
+<tr><td align="left" >
+The given :attribute has appeared in a data leak. Please choose a different :attribute.
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [cashier](https://github.com/Laravel-Lang/lang/blob/master/locales/lt/packages/cashier.json)
+
+##### Missing: 1
+
+<table >
+<tr><td align="left" >
+Jane Doe
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [jetstream](https://github.com/Laravel-Lang/lang/blob/master/locales/lt/packages/jetstream.json)
+
+##### Missing: 1
+
+<table >
+<tr><td align="left" >
+You may accept this invitation by clicking the button below:
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [nova](https://github.com/Laravel-Lang/lang/blob/master/locales/lt/packages/nova.json)
+
+##### Missing: 33
+
+<table >
+<tr><td align="left" >
+:resource Details: :title
+</td>
+</tr>
+<tr><td align="left" >
+Angola
+</td>
+</tr>
+<tr><td align="left" >
+Argentina
+</td>
+</tr>
+<tr><td align="left" >
+Aruba
+</td>
+</tr>
+<tr><td align="left" >
+Attach & Attach Another
+</td>
+</tr>
+<tr><td align="left" >
+Bouvet Island
+</td>
+</tr>
+<tr><td align="left" >
+Force Delete
+</td>
+</tr>
+<tr><td align="left" >
+Force Delete Resource
+</td>
+</tr>
+<tr><td align="left" >
+Force Delete Selected
+</td>
+</tr>
+<tr><td align="left" >
+Grenada
+</td>
+</tr>
+<tr><td align="left" >
+ID
+</td>
+</tr>
+<tr><td align="left" >
+Jersey
+</td>
+</tr>
+<tr><td align="left" >
+Malta
+</td>
+</tr>
+<tr><td align="left" >
+Moldova
+</td>
+</tr>
+<tr><td align="left" >
+Nauru
+</td>
+</tr>
+<tr><td align="left" >
+Niue
+</td>
+</tr>
+<tr><td align="left" >
+Nova User
+</td>
+</tr>
+<tr><td align="left" >
+Palau
+</td>
+</tr>
+<tr><td align="left" >
+Panama
+</td>
+</tr>
+<tr><td align="left" >
+Peru
+</td>
+</tr>
+<tr><td align="left" >
+Qatar
+</td>
+</tr>
+<tr><td align="left" >
+Russian Federation
+</td>
+</tr>
+<tr><td align="left" >
+Saint Martin
+</td>
+</tr>
+<tr><td align="left" >
+Samoa
+</td>
+</tr>
+<tr><td align="left" >
+Select All Matching
+</td>
+</tr>
+<tr><td align="left" >
+Sint Maarten (Dutch part)
+</td>
+</tr>
+<tr><td align="left" >
+Tokelau
+</td>
+</tr>
+<tr><td align="left" >
+Trashed
+</td>
+</tr>
+<tr><td align="left" >
+Tuvalu
+</td>
+</tr>
+<tr><td align="left" >
+Uganda
+</td>
+</tr>
+<tr><td align="left" >
+Update attached :resource: :title
+</td>
+</tr>
+<tr><td align="left" >
+Vanuatu
+</td>
+</tr>
+<tr><td align="left" >
+Whoops
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [spark-paddle](https://github.com/Laravel-Lang/lang/blob/master/locales/lt/packages/spark-paddle.json)
+
+##### Missing: 31
+
+<table >
+<tr><td align="left" >
+An unexpected error occurred and we have notified our support team. Please try again later.
+</td>
+</tr>
+<tr><td align="left" >
+Billing Management
+</td>
+</tr>
+<tr><td align="left" >
+Cancel Subscription
+</td>
+</tr>
+<tr><td align="left" >
+Change Subscription Plan
+</td>
+</tr>
+<tr><td align="left" >
+Current Subscription Plan
+</td>
+</tr>
+<tr><td align="left" >
+Currently Subscribed
+</td>
+</tr>
+<tr><td align="left" >
+Having second thoughts about cancelling your subscription? You can instantly reactive your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
+</td>
+</tr>
+<tr><td align="left" >
+It looks like you do not have an active subscription. You may choose one of the subscription plans below to get started. Subscription plans may be changed or cancelled at your convenience.
+</td>
+</tr>
+<tr><td align="left" >
+Managing billing for :billableName
+</td>
+</tr>
+<tr><td align="left" >
+Monthly
+</td>
+</tr>
+<tr><td align="left" >
+Nevermind, I'll keep my old plan
+</td>
+</tr>
+<tr><td align="left" >
+Our billing management portal allows you to conveniently manage your subscription plan, payment method, and download your recent invoices.
+</td>
+</tr>
+<tr><td align="left" >
+Payment Method
+</td>
+</tr>
+<tr><td align="left" >
+Receipts
+</td>
+</tr>
+<tr><td align="left" >
+Resume Subscription
+</td>
+</tr>
+<tr><td align="left" >
+Return to :appName
+</td>
+</tr>
+<tr><td align="left" >
+Signed in as
+</td>
+</tr>
+<tr><td align="left" >
+Subscribe
+</td>
+</tr>
+<tr><td align="left" >
+Subscription Pending
+</td>
+</tr>
+<tr><td align="left" >
+The selected plan is invalid.
+</td>
+</tr>
+<tr><td align="left" >
+There is no active subscription.
+</td>
+</tr>
+<tr><td align="left" >
+This account does not have an active subscription.
+</td>
+</tr>
+<tr><td align="left" >
+This subscription cannot be resumed. Please create a new subscription.
+</td>
+</tr>
+<tr><td align="left" >
+Update Payment Method
+</td>
+</tr>
+<tr><td align="left" >
+View Receipt
+</td>
+</tr>
+<tr><td align="left" >
+We are processing your subscription. Once the subscription has successfully processed, this page will update automatically. Typically, this process should only take a few seconds.
+</td>
+</tr>
+<tr><td align="left" >
+Yearly
+</td>
+</tr>
+<tr><td align="left" >
+You are already subscribed.
+</td>
+</tr>
+<tr><td align="left" >
+You may cancel your subscription at any time. Once your subscription has been cancelled, you will have the option to resume the subscription until the end of your current billing cycle.
+</td>
+</tr>
+<tr><td align="left" >
+Your current payment method is :paypal.
+</td>
+</tr>
+<tr><td align="left" >
+Your current payment method is a credit card ending in :lastFour that expires on :expiration.
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [spark-stripe](https://github.com/Laravel-Lang/lang/blob/master/locales/lt/packages/spark-stripe.json)
+
+##### Missing: 114
 
 <table >
 <tr><td align="left" >
 :days day trial
-</td>
-</tr>
-<tr><td align="left" >
-:resource Details: :title
 </td>
 </tr>
 <tr><td align="left" >
@@ -43,15 +378,19 @@ Antigua and Barbuda
 </td>
 </tr>
 <tr><td align="left" >
+Apply
+</td>
+</tr>
+<tr><td align="left" >
+Apply Coupon
+</td>
+</tr>
+<tr><td align="left" >
 Argentina
 </td>
 </tr>
 <tr><td align="left" >
 Aruba
-</td>
-</tr>
-<tr><td align="left" >
-Attach & Attach Another
 </td>
 </tr>
 <tr><td align="left" >
@@ -127,18 +466,6 @@ Extra Billing Information
 </td>
 </tr>
 <tr><td align="left" >
-Force Delete
-</td>
-</tr>
-<tr><td align="left" >
-Force Delete Resource
-</td>
-</tr>
-<tr><td align="left" >
-Force Delete Selected
-</td>
-</tr>
-<tr><td align="left" >
 Grenada
 </td>
 </tr>
@@ -155,7 +482,7 @@ Heard Island and McDonald Islands
 </td>
 </tr>
 <tr><td align="left" >
-ID
+I accept the terms of service
 </td>
 </tr>
 <tr><td align="left" >
@@ -195,7 +522,7 @@ Managing billing for :billableName
 </td>
 </tr>
 <tr><td align="left" >
-Moldova
+Micronesia, Federated States of
 </td>
 </tr>
 <tr><td align="left" >
@@ -227,10 +554,6 @@ Niue
 </td>
 </tr>
 <tr><td align="left" >
-Nova User
-</td>
-</tr>
-<tr><td align="left" >
 Our billing management portal allows you to conveniently manage your subscription plan, payment method, and download your recent invoices.
 </td>
 </tr>
@@ -248,6 +571,10 @@ Payment Information
 </tr>
 <tr><td align="left" >
 Peru
+</td>
+</tr>
+<tr><td align="left" >
+Please accept the terms of service.
 </td>
 </tr>
 <tr><td align="left" >
@@ -291,10 +618,6 @@ Saint Kitts and Nevis
 </td>
 </tr>
 <tr><td align="left" >
-Saint Martin
-</td>
-</tr>
-<tr><td align="left" >
 Saint Martin (French part)
 </td>
 </tr>
@@ -323,15 +646,7 @@ Select a different plan
 </td>
 </tr>
 <tr><td align="left" >
-Select All Matching
-</td>
-</tr>
-<tr><td align="left" >
 Signed in as
-</td>
-</tr>
-<tr><td align="left" >
-Sint Maarten (Dutch part)
 </td>
 </tr>
 <tr><td align="left" >
@@ -351,6 +666,10 @@ Subscription Information
 </td>
 </tr>
 <tr><td align="left" >
+Svalbard and Jan Mayen
+</td>
+</tr>
+<tr><td align="left" >
 Taiwan, Province of China
 </td>
 </tr>
@@ -364,26 +683,6 @@ Thanks for your continued support. We've attached a copy of your invoice for you
 </tr>
 <tr><td align="left" >
 Thanks,
-</td>
-</tr>
-<tr><td align="left" >
-The :attribute must contain at least one letter.
-</td>
-</tr>
-<tr><td align="left" >
-The :attribute must contain at least one number.
-</td>
-</tr>
-<tr><td align="left" >
-The :attribute must contain at least one symbol.
-</td>
-</tr>
-<tr><td align="left" >
-The :attribute must contain at least one uppercase and one lowercase letter.
-</td>
-</tr>
-<tr><td align="left" >
-The given :attribute has appeared in a data leak. Please choose a different :attribute.
 </td>
 </tr>
 <tr><td align="left" >
@@ -423,7 +722,7 @@ Total:
 </td>
 </tr>
 <tr><td align="left" >
-Trashed
+Trinidad and Tobago
 </td>
 </tr>
 <tr><td align="left" >
@@ -440,10 +739,6 @@ Uganda
 </tr>
 <tr><td align="left" >
 United States Minor Outlying Islands
-</td>
-</tr>
-<tr><td align="left" >
-Update attached :resource: :title
 </td>
 </tr>
 <tr><td align="left" >
@@ -472,10 +767,6 @@ We are unable to process your payment. Please contact customer support.
 </tr>
 <tr><td align="left" >
 We will send a receipt download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
-</td>
-</tr>
-<tr><td align="left" >
-Whoops
 </td>
 </tr>
 <tr><td align="left" >
@@ -508,6 +799,10 @@ Your registered VAT Number is :vatNumber.
 </tr>
 <tr><td align="left" >
 Zip / Postal Code
+</td>
+</tr>
+<tr><td align="left" >
+Åland Islands
 </td>
 </tr>
 

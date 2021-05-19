@@ -18,6 +18,12 @@ We accept contributions via Pull Requests on [Github](https://github.com/Laravel
     * `passwords.php`
     * `validation.php`
     * `validation-inline.php`
+    * `packages/cashier.json`
+    * `packages/fortify.json`
+    * `packages/jetstream.json`
+    * `packages/nova.json`
+    * `packages/spark-paddle.json`
+    * `packages/spark-stripe.json`
 * Rename json file according to localization (ex: `fr` for `locales/fr/fr.json`, `de` for `locales/de/de.json`, etc)
 * keep in mind that the `validation-inline.php` file does not come with Laravel and the idea of this file is not to put a specific name to each attribute (as
   in `validation.php`) but a generic name for the validation attributes. Therefore in the translations of this file the placeholder `:attribute` **should not**

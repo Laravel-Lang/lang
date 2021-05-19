@@ -39,7 +39,7 @@ abstract class Processor implements Processable
 
     protected function merge(array $source, array $target, string $filename): array
     {
-        $target = Arr::only($target, array_keys($source));
+        $target = $this->filter($target, $source);
 
         $this->sort($source);
         $this->sort($target);
@@ -95,6 +95,13 @@ abstract class Processor implements Processable
         return $this->app->sourcePath($filename);
     }
 
+    protected function filter(array $first, array $second): array
+    {
+        $keys = array_keys($second);
+
+        return Arr::only($first, $keys);
+    }
+
     protected function sort(array &$array): void
     {
         $array = Arr::ksort($array);
@@ -108,6 +115,11 @@ abstract class Processor implements Processable
     protected function locales(): array
     {
         return Directory::names($this->getTargetPath());
+    }
+
+    protected function resolveFilename(string $filename, string $locale): string
+    {
+        return $this->isMainJson($filename) ? $locale . '.json' : $filename;
     }
 
     protected function getFilesystem(string $filename): Filesystem
@@ -125,7 +137,9 @@ abstract class Processor implements Processable
     {
         return match (true) {
             $this->isJson($path) => JsonFilesystem::class,
+
             $this->isMarkdown($path) => MarkdownFilesystem::class,
+
             default => PhpFilesystem::class,
         };
     }

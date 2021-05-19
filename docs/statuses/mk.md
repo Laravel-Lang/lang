@@ -2,12 +2,343 @@
 
 # mk
 
-##### All missed: 123
+##### All missed: 185
 
 
-### json
+### [mk](https://github.com/Laravel-Lang/lang/blob/master/locales/mk/mk.json)
 
-##### Missing: 123
+##### Missing: 5
+
+<table >
+<tr><td align="left" >
+The :attribute must contain at least one letter.
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one number.
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one symbol.
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one uppercase and one lowercase letter.
+</td>
+</tr>
+<tr><td align="left" >
+The given :attribute has appeared in a data leak. Please choose a different :attribute.
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [cashier](https://github.com/Laravel-Lang/lang/blob/master/locales/mk/packages/cashier.json)
+
+##### Missing: 1
+
+<table >
+<tr><td align="left" >
+Jane Doe
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [jetstream](https://github.com/Laravel-Lang/lang/blob/master/locales/mk/packages/jetstream.json)
+
+##### Missing: 1
+
+<table >
+<tr><td align="left" >
+You may accept this invitation by clicking the button below:
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [nova](https://github.com/Laravel-Lang/lang/blob/master/locales/mk/packages/nova.json)
+
+##### Missing: 31
+
+<table >
+<tr><td align="left" >
+Anguilla
+</td>
+</tr>
+<tr><td align="left" >
+Aruba
+</td>
+</tr>
+<tr><td align="left" >
+Barbados
+</td>
+</tr>
+<tr><td align="left" >
+Bouvet Island
+</td>
+</tr>
+<tr><td align="left" >
+Burkina Faso
+</td>
+</tr>
+<tr><td align="left" >
+Comoros
+</td>
+</tr>
+<tr><td align="left" >
+Edit
+</td>
+</tr>
+<tr><td align="left" >
+Guadeloupe
+</td>
+</tr>
+<tr><td align="left" >
+ID
+</td>
+</tr>
+<tr><td align="left" >
+Isle Of Man
+</td>
+</tr>
+<tr><td align="left" >
+Kiribati
+</td>
+</tr>
+<tr><td align="left" >
+Macao
+</td>
+</tr>
+<tr><td align="left" >
+Martinique
+</td>
+</tr>
+<tr><td align="left" >
+Mauritania
+</td>
+</tr>
+<tr><td align="left" >
+Mayotte
+</td>
+</tr>
+<tr><td align="left" >
+Montserrat
+</td>
+</tr>
+<tr><td align="left" >
+Nauru
+</td>
+</tr>
+<tr><td align="left" >
+Niue
+</td>
+</tr>
+<tr><td align="left" >
+Puerto Rico
+</td>
+</tr>
+<tr><td align="left" >
+Qatar
+</td>
+</tr>
+<tr><td align="left" >
+Restore Selected
+</td>
+</tr>
+<tr><td align="left" >
+Sao Tome And Principe
+</td>
+</tr>
+<tr><td align="left" >
+Senegal
+</td>
+</tr>
+<tr><td align="left" >
+Sint Maarten (Dutch part)
+</td>
+</tr>
+<tr><td align="left" >
+Svalbard And Jan Mayen
+</td>
+</tr>
+<tr><td align="left" >
+Tokelau
+</td>
+</tr>
+<tr><td align="left" >
+Trinidad And Tobago
+</td>
+</tr>
+<tr><td align="left" >
+Tuvalu
+</td>
+</tr>
+<tr><td align="left" >
+Vanuatu
+</td>
+</tr>
+<tr><td align="left" >
+Whoops
+</td>
+</tr>
+<tr><td align="left" >
+Yes
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [spark-paddle](https://github.com/Laravel-Lang/lang/blob/master/locales/mk/packages/spark-paddle.json)
+
+##### Missing: 31
+
+<table >
+<tr><td align="left" >
+An unexpected error occurred and we have notified our support team. Please try again later.
+</td>
+</tr>
+<tr><td align="left" >
+Billing Management
+</td>
+</tr>
+<tr><td align="left" >
+Cancel Subscription
+</td>
+</tr>
+<tr><td align="left" >
+Change Subscription Plan
+</td>
+</tr>
+<tr><td align="left" >
+Current Subscription Plan
+</td>
+</tr>
+<tr><td align="left" >
+Currently Subscribed
+</td>
+</tr>
+<tr><td align="left" >
+Having second thoughts about cancelling your subscription? You can instantly reactive your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
+</td>
+</tr>
+<tr><td align="left" >
+It looks like you do not have an active subscription. You may choose one of the subscription plans below to get started. Subscription plans may be changed or cancelled at your convenience.
+</td>
+</tr>
+<tr><td align="left" >
+Managing billing for :billableName
+</td>
+</tr>
+<tr><td align="left" >
+Monthly
+</td>
+</tr>
+<tr><td align="left" >
+Nevermind, I'll keep my old plan
+</td>
+</tr>
+<tr><td align="left" >
+Our billing management portal allows you to conveniently manage your subscription plan, payment method, and download your recent invoices.
+</td>
+</tr>
+<tr><td align="left" >
+Payment Method
+</td>
+</tr>
+<tr><td align="left" >
+Receipts
+</td>
+</tr>
+<tr><td align="left" >
+Resume Subscription
+</td>
+</tr>
+<tr><td align="left" >
+Return to :appName
+</td>
+</tr>
+<tr><td align="left" >
+Signed in as
+</td>
+</tr>
+<tr><td align="left" >
+Subscribe
+</td>
+</tr>
+<tr><td align="left" >
+Subscription Pending
+</td>
+</tr>
+<tr><td align="left" >
+The selected plan is invalid.
+</td>
+</tr>
+<tr><td align="left" >
+There is no active subscription.
+</td>
+</tr>
+<tr><td align="left" >
+This account does not have an active subscription.
+</td>
+</tr>
+<tr><td align="left" >
+This subscription cannot be resumed. Please create a new subscription.
+</td>
+</tr>
+<tr><td align="left" >
+Update Payment Method
+</td>
+</tr>
+<tr><td align="left" >
+View Receipt
+</td>
+</tr>
+<tr><td align="left" >
+We are processing your subscription. Once the subscription has successfully processed, this page will update automatically. Typically, this process should only take a few seconds.
+</td>
+</tr>
+<tr><td align="left" >
+Yearly
+</td>
+</tr>
+<tr><td align="left" >
+You are already subscribed.
+</td>
+</tr>
+<tr><td align="left" >
+You may cancel your subscription at any time. Once your subscription has been cancelled, you will have the option to resume the subscription until the end of your current billing cycle.
+</td>
+</tr>
+<tr><td align="left" >
+Your current payment method is :paypal.
+</td>
+</tr>
+<tr><td align="left" >
+Your current payment method is a credit card ending in :lastFour that expires on :expiration.
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [spark-stripe](https://github.com/Laravel-Lang/lang/blob/master/locales/mk/packages/spark-stripe.json)
+
+##### Missing: 116
 
 <table >
 <tr><td align="left" >
@@ -36,6 +367,14 @@ Anguilla
 </tr>
 <tr><td align="left" >
 Antigua and Barbuda
+</td>
+</tr>
+<tr><td align="left" >
+Apply
+</td>
+</tr>
+<tr><td align="left" >
+Apply Coupon
 </td>
 </tr>
 <tr><td align="left" >
@@ -115,10 +454,6 @@ Download Receipt
 </td>
 </tr>
 <tr><td align="left" >
-Edit
-</td>
-</tr>
-<tr><td align="left" >
 Email Addresses
 </td>
 </tr>
@@ -147,7 +482,7 @@ Heard Island and McDonald Islands
 </td>
 </tr>
 <tr><td align="left" >
-ID
+I accept the terms of service
 </td>
 </tr>
 <tr><td align="left" >
@@ -160,10 +495,6 @@ Iran, Islamic Republic of
 </tr>
 <tr><td align="left" >
 Isle of Man
-</td>
-</tr>
-<tr><td align="left" >
-Isle Of Man
 </td>
 </tr>
 <tr><td align="left" >
@@ -200,6 +531,10 @@ Mauritania
 </tr>
 <tr><td align="left" >
 Mayotte
+</td>
+</tr>
+<tr><td align="left" >
+Micronesia, Federated States of
 </td>
 </tr>
 <tr><td align="left" >
@@ -243,6 +578,10 @@ Payment Information
 </td>
 </tr>
 <tr><td align="left" >
+Please accept the terms of service.
+</td>
+</tr>
+<tr><td align="left" >
 Please provide a maximum of three receipt emails addresses.
 </td>
 </tr>
@@ -260,10 +599,6 @@ Receipt Email Addresses
 </tr>
 <tr><td align="left" >
 Receipts
-</td>
-</tr>
-<tr><td align="left" >
-Restore Selected
 </td>
 </tr>
 <tr><td align="left" >
@@ -303,10 +638,6 @@ Sao Tome and Principe
 </td>
 </tr>
 <tr><td align="left" >
-Sao Tome And Principe
-</td>
-</tr>
-<tr><td align="left" >
 Select
 </td>
 </tr>
@@ -320,10 +651,6 @@ Senegal
 </tr>
 <tr><td align="left" >
 Signed in as
-</td>
-</tr>
-<tr><td align="left" >
-Sint Maarten (Dutch part)
 </td>
 </tr>
 <tr><td align="left" >
@@ -343,7 +670,7 @@ Subscription Information
 </td>
 </tr>
 <tr><td align="left" >
-Svalbard And Jan Mayen
+Svalbard and Jan Mayen
 </td>
 </tr>
 <tr><td align="left" >
@@ -360,26 +687,6 @@ Thanks for your continued support. We've attached a copy of your invoice for you
 </tr>
 <tr><td align="left" >
 Thanks,
-</td>
-</tr>
-<tr><td align="left" >
-The :attribute must contain at least one letter.
-</td>
-</tr>
-<tr><td align="left" >
-The :attribute must contain at least one number.
-</td>
-</tr>
-<tr><td align="left" >
-The :attribute must contain at least one symbol.
-</td>
-</tr>
-<tr><td align="left" >
-The :attribute must contain at least one uppercase and one lowercase letter.
-</td>
-</tr>
-<tr><td align="left" >
-The given :attribute has appeared in a data leak. Please choose a different :attribute.
 </td>
 </tr>
 <tr><td align="left" >
@@ -419,7 +726,7 @@ Total:
 </td>
 </tr>
 <tr><td align="left" >
-Trinidad And Tobago
+Trinidad and Tobago
 </td>
 </tr>
 <tr><td align="left" >
@@ -463,15 +770,7 @@ We will send a receipt download link to the email addresses that you specify bel
 </td>
 </tr>
 <tr><td align="left" >
-Whoops
-</td>
-</tr>
-<tr><td align="left" >
 Yearly
-</td>
-</tr>
-<tr><td align="left" >
-Yes
 </td>
 </tr>
 <tr><td align="left" >
@@ -500,6 +799,10 @@ Your registered VAT Number is :vatNumber.
 </tr>
 <tr><td align="left" >
 Zip / Postal Code
+</td>
+</tr>
+<tr><td align="left" >
+Åland Islands
 </td>
 </tr>
 

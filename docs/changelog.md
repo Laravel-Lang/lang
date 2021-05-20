@@ -7,12 +7,15 @@ All notable changes to this project will be documented in this file, since v7.0.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres
 to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased]
+## [10.0.0] - 2021-05-20
 
 ### Changed
 
  * feature: [de] #1750 json file
  * feature: [nb] #1747 auth.php pagination.php passwords.php validation-inline.php validation.php json file
+
+### Reference
+
  * feature: #1748 Split translation keys into Laravel packages
 
 ## [9.1.2] - 2021-05-14
@@ -455,7 +458,8 @@ For more information, see #1606 and #1607.
 
 * feature: #1269 Rename locale folders following ISO 15897 format
 
-[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/9.1.2...master
+[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/10.0.0...master
+[10.0.0]: https://github.com/caouecs/Laravel-lang/compare/9.1.2...10.0.0
 [9.1.2]: https://github.com/caouecs/Laravel-lang/compare/9.1.1...9.1.2
 [9.1.1]: https://github.com/caouecs/Laravel-lang/compare/9.1.0...9.1.1
 [9.1.0]: https://github.com/caouecs/Laravel-lang/compare/9.0.1...9.1.0

@@ -1,7 +1,7 @@
 {
     "An unexpected error occurred and we have notified our support team. Please try again later.": "Произошла непредвиденная ошибка и мы уведомили нашу службу поддержки. Пожалуйста, повторите попытку позже.",
     "Billing Management": "Управление счетами",
-    "Cancel Subscription": "Отписаться от подписки",
+    "Cancel Subscription": "Отменить подписку",
     "Change Subscription Plan": "Изменить план подписки",
     "Current Subscription Plan": "Текущий план подписки",
     "Currently Subscribed": "Вы подписаны",
@@ -21,7 +21,7 @@
     "Terms of Service": "Условия обслуживания",
     "The selected plan is invalid.": "Выбранный план недействителен.",
     "There is no active subscription.": "Нет активной подписки.",
-    "This account does not have an active subscription.": "На этой учётной записи нет активной подписки.",
+    "This account does not have an active subscription.": "У этой учетной записи нет активной подписки.",
     "This subscription cannot be resumed. Please create a new subscription.": "Эту подписку нельзя возобновить. Пожалуйста, оформите новую.",
     "Update Payment Method": "Обновить способ оплаты",
     "View Receipt": "Посмотреть квитанцию",

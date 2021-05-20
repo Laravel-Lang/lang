@@ -1,0 +1,13 @@
+{
+    "The :attribute must be at least :length characters and contain at least one number.": "Le champ :attribute doit avoir au moins :length caractères et contenir au moins un chiffre.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "Le champ :attribute doit avoir au moins :length caractères et contenir au moins un caractère spécial et un nombre.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "Le champ :attribute doit avoir au moins :length caractères et contenir au moins un caractère spécial.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "Le champ :attribute doit avoir au moins :length caractères et contenir au moins une majuscule et un chiffre.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "Le champ :attribute doit avoir au moins :length caractères et contenir au moins une majuscule et un caractère spécial.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "Le champ :attribute doit avoir au moins :length caractères, et contenir au moins une majuscule, un chiffre et un caractère spécial.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "Le champ :attribute doit avoir au moins :length caractères et au moins une majuscule.",
+    "The :attribute must be at least :length characters.": "Le champ :attribute doit avoir au moins :length caractères.",
+    "The provided password does not match your current password.": "Le mot de passe indiqué ne correspond pas à votre mot de passe actuel.",
+    "The provided password was incorrect.": "Le mot de passé indiqué est incorrect.",
+    "The provided two factor authentication code was invalid.": "Le code d'authentification double facteur fourni est incorrect."
+}

@@ -3,7 +3,7 @@
 namespace LaravelLang\Lang\Services\Filesystem;
 
 use Helldar\Support\Concerns\Makeable;
-use Helldar\Support\Facades\Helpers\Arr;
+use Helldar\Support\Facades\Helpers\Ables\Arrayable;
 use LaravelLang\Lang\Application;
 use LaravelLang\Lang\Concerns\Storable;
 use LaravelLang\Lang\Contracts\Filesystem;
@@ -29,6 +29,11 @@ abstract class Base implements Filesystem
 
     protected function correctValues(array $items): array
     {
-        return Arr::map($items, static fn ($value) => str_replace('\"', '"', $value), true);
+        $callback = static fn ($value) => stripslashes($value);
+
+        return Arrayable::of($items)
+            ->map($callback, true)
+            ->renameKeys($callback)
+            ->get();
     }
 }

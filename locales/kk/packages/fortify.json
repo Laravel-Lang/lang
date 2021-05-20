@@ -1,0 +1,13 @@
+{
+    "The :attribute must be at least :length characters and contain at least one number.": ":attribute кем дегенде :length таңбадан тұруы керек және кем дегенде бір сан болуы керек.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": ":attribute кемінде :length таңбадан тұруы керек және кемінде бір арнайы таңба мен бір сан болуы керек.",
+    "The :attribute must be at least :length characters and contain at least one special character.": ":attribute кем дегенде :length таңбадан тұруы керек және кем дегенде бір арнайы таңбадан тұруы керек.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": ":attribute саны кемінде :length таңбадан тұруы керек және кемінде бір бас таңба мен бір сан болуы керек.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": ":attribute кемінде :length таңбадан тұруы және кемінде бір бас таңба мен бір арнайы таңба болуы тиіс.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": ":attribute кемінде :length таңба болуы және кемінде бір бас таңба, бір сан және бір арнайы таңба болуы тиіс.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": ":attribute-да кемінде :length таңба болуы керек және кем дегенде бір бас таңба болуы керек.",
+    "The :attribute must be at least :length characters.": ":attribute кемінде :length таңбадан тұруы керек.",
+    "The provided password does not match your current password.": "Берілген пароль Сіздің ағымдағы құпия сөзіңізге сәйкес келмейді.",
+    "The provided password was incorrect.": "Берілген пароль дұрыс болмады.",
+    "The provided two factor authentication code was invalid.": "Берілген екі факторлы аутентификация коды жарамсыз болды."
+}

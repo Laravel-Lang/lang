@@ -1,0 +1,19 @@
+{
+    "All rights reserved.": "版權所有。",
+    "Card": "卡片",
+    "Confirm Payment": "確認支付",
+    "Confirm your :amount payment": "確認你的 :amount 支付信息",
+    "Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below.": "需要額外的確認以處理您的付款。請通過在下面填寫您的付款詳細信息來確認您的付款。",
+    "Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below.": "需要額外的確認以處理您的付款。 請點擊下面的按鈕進入付款頁面。",
+    "Full name": "全稱",
+    "Go back": "返回",
+    "Jane Doe": "Jane Doe",
+    "Pay :amount": "支付 :amount",
+    "Payment Cancelled": "支付已經取消",
+    "Payment Confirmation": "支付信息確認",
+    "Payment Successful": "支付成功",
+    "Please provide your name.": "請提供你的名字。",
+    "The payment was successful.": "賬單支付成功。",
+    "This payment was already successfully confirmed.": "付款已經成功確認。",
+    "This payment was cancelled.": "支付已經取消。"
+}

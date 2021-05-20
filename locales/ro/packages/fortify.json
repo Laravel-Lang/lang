@@ -1,0 +1,13 @@
+{
+    "The :attribute must be at least :length characters and contain at least one number.": ":attribute trebuie să aibă cel puțin :length caractere și să conțină cel puțin un număr.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": ":attribute trebuie să aibă cel puțin :length de caractere și să conțină cel puțin un caracter special și un număr.",
+    "The :attribute must be at least :length characters and contain at least one special character.": ":attribute trebuie să aibă cel puțin :length de caractere și să conțină cel puțin un caracter special.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": ":attribute trebuie să aibă cel puțin :length de caractere și să conțină cel puțin un caracter cu majuscule și un număr.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": ":attribute trebuie să aibă cel puțin :length de caractere și să conțină cel puțin un caracter cu majuscule și un caracter special.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": ":attribute trebuie să aibă cel puțin :length de caractere și să conțină cel puțin un caracter cu majuscule, un număr și un caracter special.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "Cele :attribute trebuie să aibă cel puțin :length de caractere și să conțină cel puțin un caracter cu majuscule.",
+    "The :attribute must be at least :length characters.": ":attribute trebuie să aibă cel puțin :length de caractere.",
+    "The provided password does not match your current password.": "Parola furnizată nu se potrivește cu parola curentă.",
+    "The provided password was incorrect.": "Parola furnizată a fost incorectă.",
+    "The provided two factor authentication code was invalid.": "Codul de autentificare cu doi factori furnizat a fost nevalid."
+}

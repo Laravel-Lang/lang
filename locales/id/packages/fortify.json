@@ -1,0 +1,13 @@
+{
+    "The :attribute must be at least :length characters and contain at least one number.": ":attribute minimal berisi :length karakter dan mengandung setidaknya satu angka.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": ":attribute minimal berisi :length karakter dan mengandung setidaknya satu karakter spesial dan satu angka.",
+    "The :attribute must be at least :length characters and contain at least one special character.": ":attribute minimal berisi :length karakter dan mengandung setidaknya satu karakter spesial.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": ":attribute minimal berisi :length karakter dan mengandung setidaknya satu huruf besar dan satu angka.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": ":Attribute minimal berisi :length karakter dan mengandung setidaknya satu huruf besar dan satu karakter spesial.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": ":Attribute minimal berisi :length karakter dan mengandung setidaknya satu huruf besar, satu angka, dan satu karakter spesial.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": ":attribute minimal berisi :length karakter dan mengandung setidaknya satu huruf besar.",
+    "The :attribute must be at least :length characters.": ":attribute minimal berisi :length karakter.",
+    "The provided password does not match your current password.": "Kata sandi yang dimasukkan tidak cocok dengan kata sandi saat ini.",
+    "The provided password was incorrect.": "Kata sandi yang dimasukkan salah.",
+    "The provided two factor authentication code was invalid.": "Kode autentikasi dua faktor yang dimasukkan tidak valid."
+}

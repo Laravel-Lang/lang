@@ -1,0 +1,19 @@
+{
+    "All rights reserved.": "সমস্ত অধিকার সংরক্ষিত।",
+    "Card": "কার্ড",
+    "Confirm Payment": "পেমেন্ট নিশ্চিত করুন",
+    "Confirm your :amount payment": "আপনার নিশ্চিত :amount প্রদান",
+    "Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below.": "অতিরিক্ত নিশ্চিতকরণ আপনার পেমেন্ট প্রক্রিয়া প্রয়োজন হয়. নিচে আপনার পেমেন্ট বিবরণ পূরণ করে আপনার পেমেন্ট নিশ্চিত করুন.",
+    "Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below.": "অতিরিক্ত নিশ্চিতকরণ আপনার পেমেন্ট প্রক্রিয়া প্রয়োজন হয়. নিচের বাটনে ক্লিক করে পেমেন্ট পাতা দয়া করে চালিয়ে যান.",
+    "Full name": "সম্পূর্ণ নাম",
+    "Go back": "পূর্বাবস্থায় যান",
+    "Jane Doe": "Jane Doe",
+    "Pay :amount": "পে :amount",
+    "Payment Cancelled": "পেমেন্ট বাতিল করা হয়েছে",
+    "Payment Confirmation": "পেমেন্ট নিশ্চিতকরণ",
+    "Payment Successful": "পেমেন্ট সফল",
+    "Please provide your name.": "আপনার নাম প্রদান করুন.",
+    "The payment was successful.": "পেমেন্ট সফল ছিল.",
+    "This payment was already successfully confirmed.": "এই পেমেন্ট ইতিমধ্যে সফলভাবে নিশ্চিত করা হয়েছে.",
+    "This payment was cancelled.": "এই পেমেন্ট বাতিল করা হয়েছে."
+}

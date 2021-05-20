@@ -1,0 +1,19 @@
+{
+    "All rights reserved.": "Eskubide guztiak erreserbatuta.",
+    "Card": "Txartela",
+    "Confirm Payment": "Berretsi Ordainketa",
+    "Confirm your :amount payment": "Berretsi zure :amount ordainketa",
+    "Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below.": "Aparteko erreserbatu behar da prozesu zure ordainketa. Mesedez, baieztatu zure ordainketa bete zure ordainketa xehetasunak behean.",
+    "Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below.": "Aparteko erreserbatu behar da prozesu zure ordainketa. Mesedez, jarraitu ordainketa orria klik beheko botoian.",
+    "Full name": "Izen-abizenak",
+    "Go back": "Atzera joan",
+    "Jane Doe": "Jane Doe",
+    "Pay :amount": "Ordaindu :amount",
+    "Payment Cancelled": "Ordainketa Bertan Behera Utzi",
+    "Payment Confirmation": "Ordainketa Berrespena",
+    "Payment Successful": "Ordainketa Arrakastatsua",
+    "Please provide your name.": "Mesedez, eman zure izena.",
+    "The payment was successful.": "Ordainketa arrakastatsua izan zen.",
+    "This payment was already successfully confirmed.": "Ordainketa hau zen dagoeneko arrakastaz baieztatu.",
+    "This payment was cancelled.": "Ordainketa hau bertan behera utzi zen."
+}

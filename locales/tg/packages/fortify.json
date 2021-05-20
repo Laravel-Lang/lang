@@ -1,0 +1,13 @@
+{
+    "The :attribute must be at least :length characters and contain at least one number.": ":attribute бояд дорои на камтар аз :length аломат ва бар гирад, ки ақаллан як шумораи.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": ":attribute бояд на камтар аз :length аломат ва бар гирад, ки ҳадди ақал як рамзи махсус ва як шумораи.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "Рақами :attribute бояд дорои на камтар аз :length аломат ва бар гирад, ки ақаллан яке махсус рамзи.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "Шумораи :attribute бояд на камтар аз :length аломат ва бар гирад, ки ҳадди ақал як заглавный рамзи ва як шумораи.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": ":attribute бояд дорои на камтар аз :length аломат ва бар гирад, ки ҳадди ақал як заглавный рамзи ва як рамзи махсус.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": ":attribute бояд дорои на камтар аз :length аломат ва бар гирад, ки ҳадди ақал як заглавный рамзи, як шумораи ва як рамзи махсус.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": ":attribute бояд дорои на камтар аз :length аломат ва бар гирад, ки ақаллан яке заглавный рамзи.",
+    "The :attribute must be at least :length characters.": "Рақами :attribute бояд дорои на камтар аз :length аломат.",
+    "The provided password does not match your current password.": "Предоставленный рамз на мувофиқ текущему паролю.",
+    "The provided password was incorrect.": "Предоставленный рамз буд неверным.",
+    "The provided two factor authentication code was invalid.": "Предоставленный рамзи двухфакторной тасдиқ намудани нусхаи аслӣ буд недействителен."
+}

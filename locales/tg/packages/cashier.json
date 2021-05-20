@@ -1,0 +1,19 @@
+{
+    "All rights reserved.": "Ҳамаи ҳуқуқ маҳфуз аст.",
+    "Card": "Дар корти",
+    "Confirm Payment": "Тасдиқ Пардохт",
+    "Confirm your :amount payment": "Тасдиқ худро пардохт :amount",
+    "Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below.": "Барои коркарди шумо пардохт талаб иловагӣ тасдиқи. Лутфан, тасдиқ кунед пардохт, пур биллинг дар поен.",
+    "Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below.": "Барои коркарди шумо пардохт талаб иловагӣ тасдиқи. Лутфан мурур ба саҳифаи пардохт, ба воситаи ангуштзании тугмаи поен.",
+    "Full name": "Номи пурра",
+    "Go back": "Бозгашт",
+    "Jane Doe": "Jane Doe",
+    "Pay :amount": "Плати :amount",
+    "Payment Cancelled": "Пардохти Отменена",
+    "Payment Confirmation": "Тасдиқи пардохт",
+    "Payment Successful": "Пардохти Сипарӣ Бомуваффақият",
+    "Please provide your name.": "Лутфан номбар кунед номи худ.",
+    "The payment was successful.": "Пардохти сипарӣ бомуваффақият.",
+    "This payment was already successfully confirmed.": "Ин аллакай пардохт шуда буд, бомуваффақият подтвержден.",
+    "This payment was cancelled.": "Ин пардохт бекор карда шуд."
+}

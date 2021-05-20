@@ -15,7 +15,7 @@ final class Locales extends Processor
     {
         foreach ($this->locales as $locale => $items) {
             $count   = $this->countMissing($locale);
-            $content = $this->compileList($items);
+            $content = $this->compileList($locale, $items);
 
             $result = $this->compileContent($content, $locale, $count);
 
@@ -30,20 +30,19 @@ final class Locales extends Processor
         return Locale::make($this->app)->items(compact('locale', 'count', 'content'));
     }
 
-    protected function compileList(array $items): string
+    protected function compileList(string $locale, array $items): string
     {
-        $content = Collection::make($this->app)->items($items)->toString();
+        $content = Collection::make($this->app)
+            ->extend(compact('locale'))
+            ->items($items)
+            ->toString();
 
         return $content ?: $this->template(Resource::COMPONENT_ALL_TRANSLATED);
     }
 
     protected function ensureDirectory(): void
     {
-        if (Directory::exists($this->pathStatus())) {
-            Directory::delete($this->pathStatus());
-        }
-
-        Directory::make($this->pathStatus());
+        Directory::ensureDirectory($this->pathStatus(), can_delete: true);
     }
 
     protected function pathStatus(string $filename = null): string

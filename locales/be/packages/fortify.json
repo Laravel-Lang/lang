@@ -1,0 +1,13 @@
+{
+    "The :attribute must be at least :length characters and contain at least one number.": ":attribute павінен быць не менш :length знакаў і ўтрымліваць хоць бы адно лік.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": ":attribute павінен змяшчаць не менш :length знакаў і ўтрымліваць не менш аднаго спецыяльнага сімвала і аднаго ліку.",
+    "The :attribute must be at least :length characters and contain at least one special character.": ":attribute павінен змяшчаць не менш :length знакаў і ўтрымліваць хоць бы адзін спецыяльны сімвал.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": ":attribute павінен быць не менш :length знакаў і ўтрымліваць па меншай меры адзін загалоўны сімвал і адно лік.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": ":attribute павінен змяшчаць не менш :length знакаў і ўтрымліваць па меншай меры адзін загалоўны сімвал і адзін спецыяльны сімвал.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": ":attribute павінен змяшчаць не менш :length знакаў і ўтрымліваць па меншай меры адзін загалоўны сімвал, адно лік і адзін спецыяльны сімвал.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": ":attribute павінен змяшчаць не менш :length знакаў і ўтрымліваць хоць бы адзін загалоўны сімвал.",
+    "The :attribute must be at least :length characters.": ":attribute павінна быць не менш :length знака.",
+    "The provided password does not match your current password.": "Прадстаўлены пароль не адпавядае вашага бягучаму пароля.",
+    "The provided password was incorrect.": "Прадстаўлены пароль быў няслушным.",
+    "The provided two factor authentication code was invalid.": "Прадстаўлены код двухфакторную аўтэнтыфікацыі быў несапраўдны."
+}

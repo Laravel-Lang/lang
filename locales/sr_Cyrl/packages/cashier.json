@@ -1,0 +1,19 @@
+{
+    "All rights reserved.": "Сва права задржана.",
+    "Card": "Карта",
+    "Confirm Payment": "Потврдите Плаћање",
+    "Confirm your :amount payment": "Потврдите уплату :amount",
+    "Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below.": "За обраду плаћања потребна је додатна потврда. Молимо потврдите уплату попуњавањем детаља о плаћању испод.",
+    "Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below.": "За обраду плаћања потребна је додатна потврда. Молимо идите на страницу за плаћање кликом на дугме испод.",
+    "Full name": "Пуно име",
+    "Go back": "Повратак",
+    "Jane Doe": "Jane Doe",
+    "Pay :amount": "Плаћање :amount",
+    "Payment Cancelled": "Плаћање Је Отказано",
+    "Payment Confirmation": "Потврда плаћања",
+    "Payment Successful": "Исплата Је Била Успешна",
+    "Please provide your name.": "Molim vas, dajte mi svoje ime.",
+    "The payment was successful.": "Плаћање је прошла успешно.",
+    "This payment was already successfully confirmed.": "Ова уплата је већ успешно потврђена.",
+    "This payment was cancelled.": "Та уплата је отказана."
+}

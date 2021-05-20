@@ -1,0 +1,13 @@
+{
+    "The :attribute must be at least :length characters and contain at least one number.": ":attribute måste vara minst :length tecken och innehålla minst ett nummer.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": ":attribute måste vara minst :length tecken och innehålla minst ett specialtecken och ett nummer.",
+    "The :attribute must be at least :length characters and contain at least one special character.": ":attribute måste vara minst :length tecken och innehålla minst ett specialtecken.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": ":attribute måste vara minst :length tecken och innehålla minst ett VERSALT TECKEN och ett nummer.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": ":attribute måste vara minst :length tecken och innehålla minst ett VERSALT TECKEN och ett specialtecken.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": ":attribute måste vara minst :length tecken och innehålla minst ett VERSALT TECKEN, ett nummer och ett specialtecken.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": ":attribute måste vara minst :length tecken och innehålla minst ett VERSALT TECKEN.",
+    "The :attribute must be at least :length characters.": ":attribute måste vara minst :length tecken.",
+    "The provided password does not match your current password.": "Det angivna lösenordet matchar inte ditt nuvarande lösenord.",
+    "The provided password was incorrect.": "Det angivna lösenordet var felaktigt.",
+    "The provided two factor authentication code was invalid.": "Den angivna tvåfaktorsautentiseringskoden var ogiltig."
+}

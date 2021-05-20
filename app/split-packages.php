@@ -1,5 +1,12 @@
 <?php
 
+/*
+ * DO NOT RUN THIS FILE!
+ *
+ * It was needed to start the process of changing the
+ * project structure from version 9 to version 10.
+ */
+
 use LaravelLang\Lang\Processors\Packages;
 use LaravelLang\Lang\Processors\Splitters\{CleanUp, Locales, Main, Structure};
 

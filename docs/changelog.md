@@ -7,6 +7,19 @@ All notable changes to this project will be documented in this file, since v7.0.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres
 to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [Unreleased]
+
+### Changed
+
+ * feature: [es] #1753 jetstream spark-paddle spark-stripe
+ * feature: [fr] cashier jetstream spark-paddle spark-stripe
+ * feature: [ru] #1751 cashier jetstream spark-paddle spark-stripe
+
+### Todo script
+
+ * fix: #1751
+ * feature: #1752 Added dock block to structure splitter file
+
 ## [10.0.0] - 2021-05-20
 
 ### Changed

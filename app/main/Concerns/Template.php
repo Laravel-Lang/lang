@@ -13,7 +13,7 @@ trait Template
     {
         $template = $this->getTemplate($filename, $trim);
 
-        $values = array_merge($this->extend, $values);
+        $values = array_merge($this->extend ?? [], $values);
 
         return $this->replace($template, $values, $return_empty);
     }

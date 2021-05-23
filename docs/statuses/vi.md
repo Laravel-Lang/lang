@@ -2,7 +2,7 @@
 
 # vi
 
-##### All missed: 19
+##### All missed: 12
 
 
 ### [cashier](https://github.com/Laravel-Lang/lang/blob/master/locales/vi/packages/cashier.json)
@@ -20,48 +20,13 @@ Jane Doe
 
 [ [go back](../status.md) | [to top](#) ]
 
-### [jetstream](https://github.com/Laravel-Lang/lang/blob/master/locales/vi/packages/jetstream.json)
-
-##### Missing: 1
-
-<table >
-<tr><td align="left" >
-You may accept this invitation by clicking the button below:
-</td>
-</tr>
-
-</table>
-
-
-[ [go back](../status.md) | [to top](#) ]
-
 ### [spark-paddle](https://github.com/Laravel-Lang/lang/blob/master/locales/vi/packages/spark-paddle.json)
 
-##### Missing: 9
+##### Missing: 3
 
 <table >
 <tr><td align="left" >
-Payment Method
-</td>
-</tr>
-<tr><td align="left" >
 Subscription Pending
-</td>
-</tr>
-<tr><td align="left" >
-There is no active subscription.
-</td>
-</tr>
-<tr><td align="left" >
-This subscription cannot be resumed. Please create a new subscription.
-</td>
-</tr>
-<tr><td align="left" >
-Update Payment Method
-</td>
-</tr>
-<tr><td align="left" >
-View Receipt
 </td>
 </tr>
 <tr><td align="left" >
@@ -70,10 +35,6 @@ We are processing your subscription. Once the subscription has successfully proc
 </tr>
 <tr><td align="left" >
 You are already subscribed.
-</td>
-</tr>
-<tr><td align="left" >
-Your current payment method is :paypal.
 </td>
 </tr>
 

@@ -11,9 +11,12 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ### Changed
 
+ * feature: [ar] #1757 jetstream spark-paddle spark-stripe
  * feature: [es] #1753 jetstream spark-paddle spark-stripe
  * feature: [fr] cashier jetstream spark-paddle spark-stripe
  * feature: [ru] #1751 cashier jetstream spark-paddle spark-stripe
+ * feature: [vi] #1756 cashier jetstream spark-paddle
+ * feature: [zh_TW] #1754 validation-inline.php json file
 
 ### Todo script
 

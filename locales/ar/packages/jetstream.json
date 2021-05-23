@@ -141,7 +141,7 @@
     "You have been invited to join the :team team!": "لقد تمت دعوتك للإنضمام إلى فريق :team!",
     "You have enabled two factor authentication.": "لقد قمت بتمكين المصادقة الثنائية.",
     "You have not enabled two factor authentication.": "لم تقم بتمكين المصادقة الثنائية.",
-    "You may accept this invitation by clicking the button below:": "You may accept this invitation by clicking the button below:",
+    "You may accept this invitation by clicking the button below:": "يمكنك قبول هذه الدعوة بالضغط على الزر أدناه:",
     "You may delete any of your existing tokens if they are no longer needed.": "يمكنك حذف أي من الرموز المميزة الموجودة لديك إذا لم تعد هناك حاجة إليها.",
     "You may not delete your personal team.": "لا يمكنك حذف فريقك الشخصي.",
     "You may not leave a team that you created.": "لا يمكنك مغادرة الفريق الذي أنشأته."

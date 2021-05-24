@@ -2,7 +2,7 @@
 
 # km
 
-##### All missed: 137
+##### All missed: 138
 
 
 ### [km](https://github.com/Laravel-Lang/lang/blob/master/locales/km/km.json)
@@ -85,6 +85,21 @@ The :attribute must be at least :length characters and contain at least one uppe
 </tr>
 <tr><td align="left" >
 You may accept this invitation by clicking the button below:
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [nova](https://github.com/Laravel-Lang/lang/blob/master/locales/km/packages/nova.json)
+
+##### Missing: 1
+
+<table >
+<tr><td align="left" >
+Standalone Actions
 </td>
 </tr>
 

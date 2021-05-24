@@ -2,7 +2,7 @@
 
 # vi
 
-##### All missed: 12
+##### All missed: 13
 
 
 ### [cashier](https://github.com/Laravel-Lang/lang/blob/master/locales/vi/packages/cashier.json)
@@ -12,6 +12,21 @@
 <table >
 <tr><td align="left" >
 Jane Doe
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [nova](https://github.com/Laravel-Lang/lang/blob/master/locales/vi/packages/nova.json)
+
+##### Missing: 1
+
+<table >
+<tr><td align="left" >
+Standalone Actions
 </td>
 </tr>
 

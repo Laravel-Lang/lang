@@ -13,7 +13,7 @@
 
 return [
     'accepted'             => 'Kenttä :attribute tulee hyväksyä.',
-    'active_url'           => 'Kentän :attribute tulee olla validi URL-osoite.',
+    'active_url'           => 'Kentän :attribute tulee olla kelvollinen URL-osoite.',
     'after'                => 'Kentän :attribute päiväyksen tulee olla jälkeen :date.',
     'after_or_equal'       => 'Kentän :attribute päiväyksen tulee olla sama ja jälkeen :date',
     'alpha'                => 'Kenttä :attribute voi sisältää vain kirjaimia.',

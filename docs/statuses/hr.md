@@ -2,7 +2,7 @@
 
 # hr
 
-##### All missed: 274
+##### All missed: 275
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/hr/auth.php)
@@ -325,7 +325,7 @@ You may accept this invitation by clicking the button below:
 
 ### [nova](https://github.com/Laravel-Lang/lang/blob/master/locales/hr/packages/nova.json)
 
-##### Missing: 56
+##### Missing: 57
 
 <table >
 <tr><td align="left" >
@@ -514,6 +514,10 @@ Senegal
 </tr>
 <tr><td align="left" >
 Sierra Leone
+</td>
+</tr>
+<tr><td align="left" >
+Standalone Actions
 </td>
 </tr>
 <tr><td align="left" >

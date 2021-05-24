@@ -2,7 +2,7 @@
 
 # sr_Cyrl
 
-##### All missed: 140
+##### All missed: 141
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/sr_Cyrl/auth.php)
@@ -86,7 +86,7 @@ You may accept this invitation by clicking the button below:
 
 ### [nova](https://github.com/Laravel-Lang/lang/blob/master/locales/sr_Cyrl/packages/nova.json)
 
-##### Missing: 3
+##### Missing: 4
 
 <table >
 <tr><td align="left" >
@@ -99,6 +99,10 @@ Luxembourg
 </tr>
 <tr><td align="left" >
 Qatar
+</td>
+</tr>
+<tr><td align="left" >
+Standalone Actions
 </td>
 </tr>
 

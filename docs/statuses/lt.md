@@ -2,7 +2,7 @@
 
 # lt
 
-##### All missed: 185
+##### All missed: 186
 
 
 ### [lt](https://github.com/Laravel-Lang/lang/blob/master/locales/lt/lt.json)
@@ -68,7 +68,7 @@ You may accept this invitation by clicking the button below:
 
 ### [nova](https://github.com/Laravel-Lang/lang/blob/master/locales/lt/packages/nova.json)
 
-##### Missing: 33
+##### Missing: 34
 
 <table >
 <tr><td align="left" >
@@ -173,6 +173,10 @@ Select All Matching
 </tr>
 <tr><td align="left" >
 Sint Maarten (Dutch part)
+</td>
+</tr>
+<tr><td align="left" >
+Standalone Actions
 </td>
 </tr>
 <tr><td align="left" >

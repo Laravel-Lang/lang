@@ -2,7 +2,7 @@
 
 # mk
 
-##### All missed: 185
+##### All missed: 186
 
 
 ### [mk](https://github.com/Laravel-Lang/lang/blob/master/locales/mk/mk.json)
@@ -68,7 +68,7 @@ You may accept this invitation by clicking the button below:
 
 ### [nova](https://github.com/Laravel-Lang/lang/blob/master/locales/mk/packages/nova.json)
 
-##### Missing: 31
+##### Missing: 32
 
 <table >
 <tr><td align="left" >
@@ -165,6 +165,10 @@ Senegal
 </tr>
 <tr><td align="left" >
 Sint Maarten (Dutch part)
+</td>
+</tr>
+<tr><td align="left" >
+Standalone Actions
 </td>
 </tr>
 <tr><td align="left" >

@@ -2,7 +2,7 @@
 
 # ja
 
-##### All missed: 27
+##### All missed: 28
 
 
 ### [cashier](https://github.com/Laravel-Lang/lang/blob/master/locales/ja/packages/cashier.json)
@@ -37,11 +37,15 @@ You may accept this invitation by clicking the button below:
 
 ### [nova](https://github.com/Laravel-Lang/lang/blob/master/locales/ja/packages/nova.json)
 
-##### Missing: 1
+##### Missing: 2
 
 <table >
 <tr><td align="left" >
 ID
+</td>
+</tr>
+<tr><td align="left" >
+Standalone Actions
 </td>
 </tr>
 

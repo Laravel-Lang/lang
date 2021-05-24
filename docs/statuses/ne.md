@@ -2,7 +2,7 @@
 
 # ne
 
-##### All missed: 168
+##### All missed: 169
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/ne/auth.php)
@@ -110,7 +110,7 @@ You may accept this invitation by clicking the button below:
 
 ### [nova](https://github.com/Laravel-Lang/lang/blob/master/locales/ne/packages/nova.json)
 
-##### Missing: 17
+##### Missing: 18
 
 <table >
 <tr><td align="left" >
@@ -179,6 +179,10 @@ Search
 </tr>
 <tr><td align="left" >
 Sorry, your session has expired.
+</td>
+</tr>
+<tr><td align="left" >
+Standalone Actions
 </td>
 </tr>
 

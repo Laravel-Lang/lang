@@ -2,7 +2,7 @@
 
 # pl
 
-##### All missed: 286
+##### All missed: 287
 
 
 ### [pl](https://github.com/Laravel-Lang/lang/blob/master/locales/pl/pl.json)
@@ -68,7 +68,7 @@ You may accept this invitation by clicking the button below:
 
 ### [nova](https://github.com/Laravel-Lang/lang/blob/master/locales/pl/packages/nova.json)
 
-##### Missing: 84
+##### Missing: 85
 
 <table >
 <tr><td align="left" >
@@ -341,6 +341,10 @@ Somalia
 </tr>
 <tr><td align="left" >
 Sri Lanka
+</td>
+</tr>
+<tr><td align="left" >
+Standalone Actions
 </td>
 </tr>
 <tr><td align="left" >

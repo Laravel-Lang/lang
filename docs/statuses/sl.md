@@ -2,7 +2,7 @@
 
 # sl
 
-##### All missed: 227
+##### All missed: 228
 
 
 ### [sl](https://github.com/Laravel-Lang/lang/blob/master/locales/sl/sl.json)
@@ -68,7 +68,7 @@ You may accept this invitation by clicking the button below:
 
 ### [nova](https://github.com/Laravel-Lang/lang/blob/master/locales/sl/packages/nova.json)
 
-##### Missing: 53
+##### Missing: 54
 
 <table >
 <tr><td align="left" >
@@ -245,6 +245,10 @@ Sierra Leone
 </tr>
 <tr><td align="left" >
 Sint Maarten (Dutch part)
+</td>
+</tr>
+<tr><td align="left" >
+Standalone Actions
 </td>
 </tr>
 <tr><td align="left" >

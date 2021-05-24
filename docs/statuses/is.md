@@ -2,7 +2,7 @@
 
 # is
 
-##### All missed: 168
+##### All missed: 169
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/is/auth.php)
@@ -325,6 +325,21 @@ Jane Doe
 <table >
 <tr><td align="left" >
 You may accept this invitation by clicking the button below:
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [nova](https://github.com/Laravel-Lang/lang/blob/master/locales/is/packages/nova.json)
+
+##### Missing: 1
+
+<table >
+<tr><td align="left" >
+Standalone Actions
 </td>
 </tr>
 

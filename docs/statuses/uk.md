@@ -2,7 +2,7 @@
 
 # uk
 
-##### All missed: 137
+##### All missed: 138
 
 
 ### [uk](https://github.com/Laravel-Lang/lang/blob/master/locales/uk/uk.json)
@@ -68,7 +68,7 @@ You may accept this invitation by clicking the button below:
 
 ### [nova](https://github.com/Laravel-Lang/lang/blob/master/locales/uk/packages/nova.json)
 
-##### Missing: 2
+##### Missing: 3
 
 <table >
 <tr><td align="left" >
@@ -77,6 +77,10 @@ Luxembourg
 </tr>
 <tr><td align="left" >
 Qatar
+</td>
+</tr>
+<tr><td align="left" >
+Standalone Actions
 </td>
 </tr>
 

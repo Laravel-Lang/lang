@@ -2,7 +2,7 @@
 
 # nn
 
-##### All missed: 1039
+##### All missed: 1040
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/nn/auth.php)
@@ -1568,7 +1568,7 @@ You may not leave a team that you created.
 
 ### [nova](https://github.com/Laravel-Lang/lang/blob/master/locales/nn/packages/nova.json)
 
-##### Missing: 402
+##### Missing: 403
 
 <table >
 <tr><td align="left" >
@@ -2893,6 +2893,10 @@ Spain
 </tr>
 <tr><td align="left" >
 Sri Lanka
+</td>
+</tr>
+<tr><td align="left" >
+Standalone Actions
 </td>
 </tr>
 <tr><td align="left" >

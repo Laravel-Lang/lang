@@ -2,7 +2,7 @@
 
 # ka
 
-##### All missed: 175
+##### All missed: 176
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/ka/validation-inline.php)
@@ -307,7 +307,7 @@ You may accept this invitation by clicking the button below:
 
 ### [nova](https://github.com/Laravel-Lang/lang/blob/master/locales/ka/packages/nova.json)
 
-##### Missing: 6
+##### Missing: 7
 
 <table >
 <tr><td align="left" >
@@ -328,6 +328,10 @@ of
 </tr>
 <tr><td align="left" >
 Qatar
+</td>
+</tr>
+<tr><td align="left" >
+Standalone Actions
 </td>
 </tr>
 <tr><td align="left" >

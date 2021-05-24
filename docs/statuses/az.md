@@ -2,7 +2,7 @@
 
 # az
 
-##### All missed: 284
+##### All missed: 285
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/az/auth.php)
@@ -452,7 +452,7 @@ You may accept this invitation by clicking the button below:
 
 ### [nova](https://github.com/Laravel-Lang/lang/blob/master/locales/az/packages/nova.json)
 
-##### Missing: 52
+##### Missing: 53
 
 <table >
 <tr><td align="left" >
@@ -629,6 +629,10 @@ Rwanda
 </tr>
 <tr><td align="left" >
 Samoa
+</td>
+</tr>
+<tr><td align="left" >
+Standalone Actions
 </td>
 </tr>
 <tr><td align="left" >

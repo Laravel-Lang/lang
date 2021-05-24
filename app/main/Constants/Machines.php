@@ -15,7 +15,6 @@ class Machines
         'da',
         'et',
         'eu',
-        'fi',
         'gl',
         'he',
         'hi',

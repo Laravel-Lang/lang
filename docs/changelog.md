@@ -13,6 +13,7 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
  * feature: [ar] #1757 jetstream spark-paddle spark-stripe
  * feature: [es] #1753 jetstream spark-paddle spark-stripe
+ * feature: [fi] #1758 exclude auth.php cashier fortify jetstream nova spark-paddle spark-stripe validation-inline.php validation.php json file
  * feature: [fr] cashier jetstream spark-paddle spark-stripe
  * feature: [ru] #1751 cashier jetstream spark-paddle spark-stripe
  * feature: [vi] #1756 cashier jetstream spark-paddle

@@ -2,7 +2,7 @@
 
 # af
 
-##### All missed: 108
+##### All missed: 109
 
 
 ### [af](https://github.com/Laravel-Lang/lang/blob/master/locales/af/af.json)
@@ -58,6 +58,21 @@ Jane Doe
 <table >
 <tr><td align="left" >
 You may accept this invitation by clicking the button below:
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [nova](https://github.com/Laravel-Lang/lang/blob/master/locales/af/packages/nova.json)
+
+##### Missing: 1
+
+<table >
+<tr><td align="left" >
+Standalone Actions
 </td>
 </tr>
 

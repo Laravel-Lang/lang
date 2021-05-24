@@ -2,7 +2,7 @@
 
 # hu
 
-##### All missed: 295
+##### All missed: 296
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/hu/validation-inline.php)
@@ -311,7 +311,7 @@ You may accept this invitation by clicking the button below:
 
 ### [nova](https://github.com/Laravel-Lang/lang/blob/master/locales/hu/packages/nova.json)
 
-##### Missing: 67
+##### Missing: 68
 
 <table >
 <tr><td align="left" >
@@ -536,6 +536,10 @@ Sierra Leone
 </tr>
 <tr><td align="left" >
 Sint Maarten (Dutch part)
+</td>
+</tr>
+<tr><td align="left" >
+Standalone Actions
 </td>
 </tr>
 <tr><td align="left" >

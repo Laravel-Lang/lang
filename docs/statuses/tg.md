@@ -2,7 +2,7 @@
 
 # tg
 
-##### All missed: 194
+##### All missed: 195
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/tg/auth.php)
@@ -444,7 +444,7 @@ You may accept this invitation by clicking the button below:
 
 ### [nova](https://github.com/Laravel-Lang/lang/blob/master/locales/tg/packages/nova.json)
 
-##### Missing: 8
+##### Missing: 9
 
 <table >
 <tr><td align="left" >
@@ -477,6 +477,10 @@ Qatar
 </tr>
 <tr><td align="left" >
 September
+</td>
+</tr>
+<tr><td align="left" >
+Standalone Actions
 </td>
 </tr>
 

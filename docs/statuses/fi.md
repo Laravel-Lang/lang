@@ -2,7 +2,7 @@
 
 # fi
 
-##### All missed: 12
+##### All missed: 13
 
 
 ### [cashier](https://github.com/Laravel-Lang/lang/blob/master/locales/fi/packages/cashier.json)
@@ -22,7 +22,7 @@ Jane Doe
 
 ### [nova](https://github.com/Laravel-Lang/lang/blob/master/locales/fi/packages/nova.json)
 
-##### Missing: 2
+##### Missing: 3
 
 <table >
 <tr><td align="left" >
@@ -31,6 +31,10 @@ Nepal
 </tr>
 <tr><td align="left" >
 Reunion
+</td>
+</tr>
+<tr><td align="left" >
+Standalone Actions
 </td>
 </tr>
 

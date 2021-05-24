@@ -2,7 +2,7 @@
 
 # uz_Cyrl
 
-##### All missed: 316
+##### All missed: 317
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/uz_Cyrl/auth.php)
@@ -341,7 +341,7 @@ You may accept this invitation by clicking the button below:
 
 ### [nova](https://github.com/Laravel-Lang/lang/blob/master/locales/uz_Cyrl/packages/nova.json)
 
-##### Missing: 79
+##### Missing: 80
 
 <table >
 <tr><td align="left" >
@@ -610,6 +610,10 @@ Sint Maarten (Dutch part)
 </tr>
 <tr><td align="left" >
 Slovenia
+</td>
+</tr>
+<tr><td align="left" >
+Standalone Actions
 </td>
 </tr>
 <tr><td align="left" >

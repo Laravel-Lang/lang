@@ -2,7 +2,7 @@
 
 # it
 
-##### All missed: 19
+##### All missed: 20
 
 
 ### [cashier](https://github.com/Laravel-Lang/lang/blob/master/locales/it/packages/cashier.json)
@@ -27,6 +27,21 @@ Jane Doe
 <table >
 <tr><td align="left" >
 You may accept this invitation by clicking the button below:
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [nova](https://github.com/Laravel-Lang/lang/blob/master/locales/it/packages/nova.json)
+
+##### Missing: 1
+
+<table >
+<tr><td align="left" >
+Standalone Actions
 </td>
 </tr>
 

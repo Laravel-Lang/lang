@@ -2,7 +2,7 @@
 
 # ug
 
-##### All missed: 1105
+##### All missed: 1106
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/ug/auth.php)
@@ -1844,7 +1844,7 @@ You may not leave a team that you created.
 
 ### [nova](https://github.com/Laravel-Lang/lang/blob/master/locales/ug/packages/nova.json)
 
-##### Missing: 415
+##### Missing: 416
 
 <table >
 <tr><td align="left" >
@@ -3213,6 +3213,10 @@ Spain
 </tr>
 <tr><td align="left" >
 Sri Lanka
+</td>
+</tr>
+<tr><td align="left" >
+Standalone Actions
 </td>
 </tr>
 <tr><td align="left" >

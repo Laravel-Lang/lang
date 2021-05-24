@@ -2,7 +2,7 @@
 
 # bs
 
-##### All missed: 165
+##### All missed: 166
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/bs/validation-inline.php)
@@ -293,6 +293,21 @@ Jane Doe
 <table >
 <tr><td align="left" >
 You may accept this invitation by clicking the button below:
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [nova](https://github.com/Laravel-Lang/lang/blob/master/locales/bs/packages/nova.json)
+
+##### Missing: 1
+
+<table >
+<tr><td align="left" >
+Standalone Actions
 </td>
 </tr>
 

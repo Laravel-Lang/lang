@@ -2,7 +2,7 @@
 
 # ro
 
-##### All missed: 386
+##### All missed: 387
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/ro/validation-inline.php)
@@ -311,7 +311,7 @@ You may accept this invitation by clicking the button below:
 
 ### [nova](https://github.com/Laravel-Lang/lang/blob/master/locales/ro/packages/nova.json)
 
-##### Missing: 116
+##### Missing: 117
 
 <table >
 <tr><td align="left" >
@@ -712,6 +712,10 @@ Somalia
 </tr>
 <tr><td align="left" >
 Sri Lanka
+</td>
+</tr>
+<tr><td align="left" >
+Standalone Actions
 </td>
 </tr>
 <tr><td align="left" >

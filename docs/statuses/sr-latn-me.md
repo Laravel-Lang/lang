@@ -2,7 +2,7 @@
 
 # sr_Latn_ME
 
-##### All missed: 171
+##### All missed: 172
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/sr_Latn_ME/validation-inline.php)
@@ -303,7 +303,7 @@ You may accept this invitation by clicking the button below:
 
 ### [nova](https://github.com/Laravel-Lang/lang/blob/master/locales/sr_Latn_ME/packages/nova.json)
 
-##### Missing: 3
+##### Missing: 4
 
 <table >
 <tr><td align="left" >
@@ -316,6 +316,10 @@ Luxembourg
 </tr>
 <tr><td align="left" >
 Qatar
+</td>
+</tr>
+<tr><td align="left" >
+Standalone Actions
 </td>
 </tr>
 

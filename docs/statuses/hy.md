@@ -2,7 +2,7 @@
 
 # hy
 
-##### All missed: 140
+##### All missed: 141
 
 
 ### [hy](https://github.com/Laravel-Lang/lang/blob/master/locales/hy/hy.json)
@@ -68,7 +68,7 @@ You may accept this invitation by clicking the button below:
 
 ### [nova](https://github.com/Laravel-Lang/lang/blob/master/locales/hy/packages/nova.json)
 
-##### Missing: 4
+##### Missing: 5
 
 <table >
 <tr><td align="left" >
@@ -85,6 +85,10 @@ Pitcairn
 </tr>
 <tr><td align="left" >
 Qatar
+</td>
+</tr>
+<tr><td align="left" >
+Standalone Actions
 </td>
 </tr>
 

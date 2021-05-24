@@ -2,7 +2,7 @@
 
 # sw
 
-##### All missed: 527
+##### All missed: 528
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/sw/auth.php)
@@ -357,7 +357,7 @@ You may accept this invitation by clicking the button below:
 
 ### [nova](https://github.com/Laravel-Lang/lang/blob/master/locales/sw/packages/nova.json)
 
-##### Missing: 189
+##### Missing: 190
 
 <table >
 <tr><td align="left" >
@@ -998,6 +998,10 @@ Somalia
 </tr>
 <tr><td align="left" >
 Sri Lanka
+</td>
+</tr>
+<tr><td align="left" >
+Standalone Actions
 </td>
 </tr>
 <tr><td align="left" >

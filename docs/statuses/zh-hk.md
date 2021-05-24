@@ -2,7 +2,7 @@
 
 # zh_HK
 
-##### All missed: 133
+##### All missed: 134
 
 
 ### [zh_HK](https://github.com/Laravel-Lang/lang/blob/master/locales/zh_HK/zh_HK.json)
@@ -58,6 +58,21 @@ Jane Doe
 <table >
 <tr><td align="left" >
 You may accept this invitation by clicking the button below:
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [nova](https://github.com/Laravel-Lang/lang/blob/master/locales/zh_HK/packages/nova.json)
+
+##### Missing: 1
+
+<table >
+<tr><td align="left" >
+Standalone Actions
 </td>
 </tr>
 

@@ -2,7 +2,7 @@
 
 # ur
 
-##### All missed: 200
+##### All missed: 201
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/ur/auth.php)
@@ -448,7 +448,7 @@ You may accept this invitation by clicking the button below:
 
 ### [nova](https://github.com/Laravel-Lang/lang/blob/master/locales/ur/packages/nova.json)
 
-##### Missing: 10
+##### Missing: 11
 
 <table >
 <tr><td align="left" >
@@ -481,6 +481,10 @@ Qatar
 </tr>
 <tr><td align="left" >
 Sint Maarten (Dutch part)
+</td>
+</tr>
+<tr><td align="left" >
+Standalone Actions
 </td>
 </tr>
 <tr><td align="left" >

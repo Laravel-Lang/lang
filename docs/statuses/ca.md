@@ -2,7 +2,7 @@
 
 # ca
 
-##### All missed: 321
+##### All missed: 322
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/ca/auth.php)
@@ -325,7 +325,7 @@ You may accept this invitation by clicking the button below:
 
 ### [nova](https://github.com/Laravel-Lang/lang/blob/master/locales/ca/packages/nova.json)
 
-##### Missing: 82
+##### Missing: 83
 
 <table >
 <tr><td align="left" >
@@ -602,6 +602,10 @@ Sint Maarten (Dutch part)
 </tr>
 <tr><td align="left" >
 Sri Lanka
+</td>
+</tr>
+<tr><td align="left" >
+Standalone Actions
 </td>
 </tr>
 <tr><td align="left" >

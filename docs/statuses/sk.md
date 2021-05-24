@@ -2,7 +2,7 @@
 
 # sk
 
-##### All missed: 284
+##### All missed: 285
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/sk/auth.php)
@@ -329,7 +329,7 @@ You may accept this invitation by clicking the button below:
 
 ### [nova](https://github.com/Laravel-Lang/lang/blob/master/locales/sk/packages/nova.json)
 
-##### Missing: 62
+##### Missing: 63
 
 <table >
 <tr><td align="left" >
@@ -538,6 +538,10 @@ Sierra Leone
 </tr>
 <tr><td align="left" >
 Sint Maarten (Dutch part)
+</td>
+</tr>
+<tr><td align="left" >
+Standalone Actions
 </td>
 </tr>
 <tr><td align="left" >

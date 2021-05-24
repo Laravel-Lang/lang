@@ -2,7 +2,7 @@
 
 # kn
 
-##### All missed: 183
+##### All missed: 184
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/kn/auth.php)
@@ -353,7 +353,7 @@ You may accept this invitation by clicking the button below:
 
 ### [nova](https://github.com/Laravel-Lang/lang/blob/master/locales/kn/packages/nova.json)
 
-##### Missing: 10
+##### Missing: 11
 
 <table >
 <tr><td align="left" >
@@ -386,6 +386,10 @@ Martinique
 </tr>
 <tr><td align="left" >
 Qatar
+</td>
+</tr>
+<tr><td align="left" >
+Standalone Actions
 </td>
 </tr>
 <tr><td align="left" >

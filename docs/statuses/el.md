@@ -2,7 +2,7 @@
 
 # el
 
-##### All missed: 168
+##### All missed: 169
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/el/auth.php)
@@ -321,11 +321,15 @@ You may accept this invitation by clicking the button below:
 
 ### [nova](https://github.com/Laravel-Lang/lang/blob/master/locales/el/packages/nova.json)
 
-##### Missing: 1
+##### Missing: 2
 
 <table >
 <tr><td align="left" >
 Qatar
+</td>
+</tr>
+<tr><td align="left" >
+Standalone Actions
 </td>
 </tr>
 

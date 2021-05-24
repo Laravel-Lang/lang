@@ -2,7 +2,7 @@
 
 # fa
 
-##### All missed: 754
+##### All missed: 755
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/fa/validation-inline.php)
@@ -307,7 +307,7 @@ You may accept this invitation by clicking the button below:
 
 ### [nova](https://github.com/Laravel-Lang/lang/blob/master/locales/fa/packages/nova.json)
 
-##### Missing: 364
+##### Missing: 365
 
 <table >
 <tr><td align="left" >
@@ -1504,6 +1504,10 @@ Spain
 </tr>
 <tr><td align="left" >
 Sri Lanka
+</td>
+</tr>
+<tr><td align="left" >
+Standalone Actions
 </td>
 </tr>
 <tr><td align="left" >

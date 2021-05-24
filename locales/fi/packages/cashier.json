@@ -6,14 +6,14 @@
     "Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below.": "Lisävahvistusta tarvitaan maksun käsittelyyn. Vahvista maksusi täyttämällä alla olevat maksutietosi.",
     "Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below.": "Lisävahvistusta tarvitaan maksun käsittelyyn. Jatka maksusivulle klikkaamalla alla olevaa painiketta.",
     "Full name": "Koko nimi",
-    "Go back": "Palata",
+    "Go back": "Palaa takaisin",
     "Jane Doe": "Jane Doe",
-    "Pay :amount": "Palkka :amount",
+    "Pay :amount": "Maksa :amount",
     "Payment Cancelled": "Maksu Peruttu",
     "Payment Confirmation": "Maksuvahvistus",
     "Payment Successful": "Maksu Onnistui",
     "Please provide your name.": "Ilmoittakaa nimenne.",
     "The payment was successful.": "Maksu onnistui.",
-    "This payment was already successfully confirmed.": "Maksu oli jo varmistettu.",
+    "This payment was already successfully confirmed.": "Maksu oli jo varmistettu aiemmin.",
     "This payment was cancelled.": "Tämä maksu peruttiin."
 }

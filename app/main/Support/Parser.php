@@ -25,10 +25,16 @@ class Parser
 
     public function get(): array
     {
+        $this->clear();
         $this->each();
         $this->sort();
 
         return $this->keys();
+    }
+
+    protected function clear(): void
+    {
+        $this->keys = [];
     }
 
     protected function each(): void
@@ -50,10 +56,12 @@ class Parser
         foreach ($this->match($content) as $match) {
             $value = $match;
 
-            if (Str::contains((string) $value, ['__', 'trans', '@lang', 'Lang::get'])) {
+            if (Str::contains((string) $value, ['__', 'trans', '@lang', 'Lang::get', '->fail('])) {
                 $sub_key = $this->subkey($value);
 
-                $value = $this->keys[$sub_key] ?? null;
+                $sub_value = $this->keys[$sub_key] ?? null;
+
+                $this->push($sub_value);
             }
 
             $this->push($value);

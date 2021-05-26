@@ -9,7 +9,7 @@ class Package
 {
     protected ?string $path;
 
-    protected array $filter = ['$this', 'self::', 'auth.', 'pagination.', 'passwords.', 'validation.'];
+    protected array $filter = ['$', 'self::', 'static::', 'auth.', 'pagination.', 'passwords.', 'validation.'];
 
     public function __construct(
         protected Finder $finder,
@@ -52,6 +52,6 @@ class Package
 
     protected function filter(array $items): array
     {
-        return array_filter(array_keys($items), fn ($value) => ! Str::startsWith($value, $this->filter));
+        return array_filter(array_keys($items), fn ($value) => ! Str::contains($value, $this->filter));
     }
 }

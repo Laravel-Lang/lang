@@ -98,8 +98,12 @@ class Parser
 
     protected function trim($value)
     {
-        $chars = " \t\n\r\0\x0B'\"";
+        if (is_string($value)) {
+            $chars = " \t\n\r\0\x0B'\"";
 
-        return is_string($value) ? trim($value, $chars) : $value;
+            return trim(stripslashes($value), $chars);
+        }
+
+        return $value;
     }
 }

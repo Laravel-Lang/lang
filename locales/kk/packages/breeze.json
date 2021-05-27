@@ -1,0 +1,21 @@
+{
+    "A new verification link has been sent to the email address you provided during registration.": "Тіркеу кезінде сіз көрсеткен электрондық пошта мекенжайына Жаңа тексеру сілтемесі жіберілді.",
+    "Already registered?": "Қазірдің өзінде тіркелген?",
+    "Confirm": "Растау",
+    "Confirm Password": "Құпиясөзді растау",
+    "Dashboard": "Бақылау тақтасы",
+    "Email": "Электрондық пошта",
+    "Email Password Reset Link": "Электрондық пошта паролін қалпына келтіру сілтемесі",
+    "Forgot your password?": "Құпия сөзіңізді ұмыттыңыз ба?",
+    "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "Құпия сөзіңізді ұмыттыңыз ба? Жоқ. Бізге электрондық пошта мекенжайын хабарлаңыз, біз сізге жаңа таңдауға мүмкіндік беретін құпия сөзді қалпына келтіру сілтемесін жібереміз.",
+    "Log in": "Авторлану",
+    "Name": "Аты",
+    "Password": "Құпиясөз",
+    "Register": "Тіркеу",
+    "Remember me": "Ұмытпа мені",
+    "Resend Verification Email": "Тексеру Хатын Қайта Жіберу",
+    "Reset Password": "Құпиясөзді қалпына келтіру",
+    "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.": "Рахмет, - деп жазылды! Жұмысқа кіріспес бұрын, сізге электрондық пошта арқылы жіберген сілтемені басу арқылы электрондық пошта мекенжайын растай аласыз ба? Егер сіз хат алмаған болсаңыз, біз сізге басқасын қуана жібереміз.",
+    "This is a secure area of the application. Please confirm your password before continuing.": "Бұл қауіпсіз қолдану аймағы. Жалғастырмас бұрын құпия сөзіңізді растаңыз.",
+    "Whoops! Something went wrong.": "Упс! Бір нәрсе дұрыс болмады."
+}

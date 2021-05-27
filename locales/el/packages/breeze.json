@@ -1,0 +1,21 @@
+{
+    "A new verification link has been sent to the email address you provided during registration.": "Ένας νέος σύνδεσμος επαλήθευσης έχει σταλεί στη διεύθυνση ηλεκτρονικού ταχυδρομείου που δώσατε κατά την εγγραφή σας.",
+    "Already registered?": "Είστε ήδη εγγεγραμμένος?",
+    "Confirm": "Επιβεβαίωση",
+    "Confirm Password": "Επιβεβαίωση Κωδικού",
+    "Dashboard": "Πίνακας",
+    "Email": "Ηλεκτρονικού",
+    "Email Password Reset Link": "Αποστολή Σύνδεσμου Επαναφοράς Κωδικού",
+    "Forgot your password?": "Ξεχάσατε τον κωδικό σας;",
+    "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "Ξεχάσατε τον κωδικό σας; Κανένα πρόβλημα. Δώστε μας την διεύθυνση ηλεκτρονικού ταχυδρομείου σας και θα σας στείλουμε ένα email με έναν σύνδεσμο (link), που θα σας επιστρέψει να δημιουργήσετε έναν νέο κωδικό πρόσβασης.",
+    "Log in": "Συνδεθείτε",
+    "Name": "Όνομα",
+    "Password": "Κωδικός",
+    "Register": "Εγγραφή",
+    "Remember me": "Να με θυμάσαι",
+    "Resend Verification Email": "Επαναποστολή email επαλήθευσης",
+    "Reset Password": "Επαναφορά Κωδικού",
+    "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.": "Ευχαριστώ για την εγγραφή! Πριν ξεκινήσετε, μπορείτε να επαληθεύσετε τη διεύθυνση ηλεκτρονικού ταχυδρομείου σας κάνοντας κλικ στον σύνδεσμο που μόλις σας στείλαμε μέσω ηλεκτρονικού ταχυδρομείου; Εάν δεν λάβατε το μήνυμα ηλεκτρονικού ταχυδρομείου, θα σας στείλουμε ευχαρίστως ένα άλλο.",
+    "This is a secure area of the application. Please confirm your password before continuing.": "Αυτή είναι μια ασφαλής περιοχή της εφαρμογής. Επιβεβαιώστε τον κωδικό πρόσβασής σας πριν συνεχίσετε.",
+    "Whoops! Something went wrong.": "Ουπς! Κάτι πήγε στραβά."
+}

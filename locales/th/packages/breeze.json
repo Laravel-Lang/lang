@@ -1,0 +1,21 @@
+{
+    "A new verification link has been sent to the email address you provided during registration.": "ใหม่ปลายทางเชื่อมโยงถูกส่งไปที่อยู่อีเมลที่คุณให้ตอบทะเบียนรถด้วย.",
+    "Already registered?": "แล้วจดทะเบียน?",
+    "Confirm": "ยืนยัน",
+    "Confirm Password": "ยืนยันรหัสผ่าน",
+    "Dashboard": "แดชบอร์ด",
+    "Email": "อีเมล",
+    "Email Password Reset Link": "รหัสผ่านอีเมลปรับค่าเชื่อมโยง",
+    "Forgot your password?": "ลืมรหัสผ่านของคุณ?",
+    "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "ลืมรหัสผ่านของคุณ? ไม่มีปัญหา แค่ปล่อยให้พวกเรารู้ที่อยู่อีเมลของคุณและเราจะส่งอีเมลคุณตั้งค่ารหัสผ่านเชื่อมโยงที่จะทำให้คุณต้องเลือกใหม่หนึ่ง",
+    "Log in": "ปูมบันทึกอยู่ใน",
+    "Name": "ชื่อ",
+    "Password": "รหัสผ่าน",
+    "Register": "สมัครสมาชิก",
+    "Remember me": "จำฉันได้ไหม",
+    "Resend Verification Email": "ส่งอีกครั้งปลายทางอีเมล",
+    "Reset Password": "รีเซตรหัสผ่าน",
+    "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.": "ขอบคุณสำหรับเซ็นสัญญา! ก่อนที่จะเริ่มต้นช่วยคุณตรวจสอบที่อยู่อีเมลของคุณโดยการคลิกบนการเชื่อมโยงเราเพิ่งส่งอีเมล์ให้เธอหรอ? ถ้าคุณไม่ได้รับอีเมลเรายินดีที่จะส่งคุณอีกคน",
+    "This is a secure area of the application. Please confirm your password before continuing.": "นี่เป็นพื้นที่ปลอดภัยของการทำงานของโปรแกรม ได้โปรดยืนยันรหัสผ่านของคุณก่อนต่อ.",
+    "Whoops! Something went wrong.": "ฉันหวังว่าพวกเธอจะแก้ไขเรื่! มีบางอย่างผิดพลาดเกิดขึ้น"
+}

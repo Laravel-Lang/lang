@@ -1,0 +1,21 @@
+{
+    "A new verification link has been sent to the email address you provided during registration.": "Se ha enviado un nuevo enlace de verificación a la dirección de correo electrónico que proporcionó durante el registro.",
+    "Already registered?": "¿Ya se registró?",
+    "Confirm": "Confirmar",
+    "Confirm Password": "Confirmar contraseña",
+    "Dashboard": "Panel",
+    "Email": "Correo electrónico",
+    "Email Password Reset Link": "Enviar enlace para restablecer contraseña",
+    "Forgot your password?": "¿Olvidó su contraseña?",
+    "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "¿Olvidó su contraseña? No hay problema. Simplemente déjenos saber su dirección de correo electrónico y le enviaremos un enlace para restablecer la contraseña que le permitirá elegir una nueva.",
+    "Log in": "Iniciar sesión",
+    "Name": "Nombre",
+    "Password": "Contraseña",
+    "Register": "Registrarse",
+    "Remember me": "Mantener sesión activa",
+    "Resend Verification Email": "Reenviar correo de verificación",
+    "Reset Password": "Restablecer contraseña",
+    "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.": "¡Gracias por registrarse! Antes de comenzar, ¿podría verificar su dirección de correo electrónico haciendo clic en el enlace que le acabamos de enviar? Si no recibió el correo electrónico, con gusto le enviaremos otro.",
+    "This is a secure area of the application. Please confirm your password before continuing.": "Esta es un área segura de la aplicación. Confirme su contraseña antes de continuar.",
+    "Whoops! Something went wrong.": "¡Ups! Algo salió mal."
+}

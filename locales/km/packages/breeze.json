@@ -1,0 +1,21 @@
+{
+    "A new verification link has been sent to the email address you provided during registration.": "តំណផ្ទៀងផ្ទាត់ថ្មីត្រូវបានផ្ញើទៅកាន់អ៊ីម៉ែលអាស័យដ្ឋានអ្នកផ្តល់ក្នុងអំឡុងការចុះឈ្មោះ។",
+    "Already registered?": "បានចុះឈ្មោះរួចហើយ?",
+    "Confirm": "បញ្ជាក់",
+    "Confirm Password": "បញ្ជាក់ពាក្យសម្ងាត់",
+    "Dashboard": "ប្លូ",
+    "Email": "អ៊ីម៉ែល",
+    "Email Password Reset Link": "អ៊ីម៉ែលពាក្យសម្ងាត់កំណត់តំណភ្ជាប់",
+    "Forgot your password?": "ភ្លេចពាក្យសម្ងាត់របស់អ្នក?",
+    "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "ភ្លេចពាក្យសម្ងាត់របស់អ្នក? គ្មានបញ្ហា។ គ្រាន់តែអនុញ្ញាតឱ្យយើងដឹងរបស់អ្នកអ៊ីម៉ែលដ្ឋានហើយយើងនឹងអ៊ីម៉ែលអ្នកការពាក្យសម្ងាត់កំណត់តំណដែលនឹងអនុញ្ញាតឱ្យអ្នកជ្រើសរើសពាក្យសម្ងាត់ថ្មីមួយ។",
+    "Log in": "ចូល",
+    "Name": "នាមឈ្មោះ",
+    "Password": "ពាក្យសម្ងាត់",
+    "Register": "ចុះឈ្មោះ",
+    "Remember me": "ចងចាំខ្ញុំ",
+    "Resend Verification Email": "បញ្ចូនការផ្ទៀងអ៊ីម៉ែលម្ដងទៀត",
+    "Reset Password": "កំណត់ពាក្យសម្ងាត់",
+    "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.": "អរគុណសម្រាប់ចុះឈ្មោះ! មុនពេលចាប់ផ្តើម,តើអ្នកអាចផ្ទៀងផ្ទាត់អ៊ីម៉ែលដោយចុចលើតំណភ្ជាប់យើង? ប្រសិនបើអ្នកមិនបានទទួលបានអ៊ីម៉ែល យើងនឹងផ្ញើទៅអ្នកម្តងទៀត។",
+    "This is a secure area of the application. Please confirm your password before continuing.": "នេះគឺជាតំបន់សុវត្ថិភាពនៃកម្មវិធី។ សូមបញ្ជាក់ពាក្យសម្ងាត់មុនពេលបន្ត។",
+    "Whoops! Something went wrong.": "អុប! អ្វីមួយបានទៅខុស។"
+}

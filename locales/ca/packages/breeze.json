@@ -1,0 +1,21 @@
+{
+    "A new verification link has been sent to the email address you provided during registration.": "Un nou enllaç de verificació ha estat enviat a l'adreça electrònica que heu proporcionat durant el registre.",
+    "Already registered?": "Ja estàs registrat?",
+    "Confirm": "Confirmar",
+    "Confirm Password": "Confirmar contrasenya",
+    "Dashboard": "Tauler de control",
+    "Email": "Correu electrònic",
+    "Email Password Reset Link": "Correu Electrònic Enllaç Per Restablir La Contrasenya",
+    "Forgot your password?": "Heu oblidat la vostra contrasenya?",
+    "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "Heu oblidat la vostra contrasenya? Cap problema. Només fer-nos saber la vostra adreça electrònica i us enviarem un enllaç per restablir la contrasenya que us permetrà triar un de nou.",
+    "Log in": "Registre a",
+    "Name": "Nom",
+    "Password": "Contrasenya",
+    "Register": "Registre",
+    "Remember me": "Recordeu-vos de mi",
+    "Resend Verification Email": "Torneu A Enviar Correu Electrònic De Verificació",
+    "Reset Password": "Restablir contrasenya",
+    "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.": "Gràcies per registrar-te! Abans de començar, podria verificar la vostra adreça de correu electrònic fent clic a l'enllaç que ens feu un correu electrònic a vostè? Si no heu rebut el correu electrònic, estarem encantats d'enviar-te un altre.",
+    "This is a secure area of the application. Please confirm your password before continuing.": "Aquesta és una àrea de seguretat de l'aplicació. Si us plau, confirmeu la vostra contrasenya abans de continuar.",
+    "Whoops! Something went wrong.": "Crits! Alguna cosa ha anat malament."
+}

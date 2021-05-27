@@ -1,0 +1,21 @@
+{
+    "A new verification link has been sent to the email address you provided during registration.": "Berri bat egiaztapen-esteka bidali nahi duzun e-posta helbidea eman izena emateko garaian.",
+    "Already registered?": "Dagoeneko erregistratuta?",
+    "Confirm": "Berretsi",
+    "Confirm Password": "Berretsi pasahitza",
+    "Dashboard": "Arbel",
+    "Email": "Email",
+    "Email Password Reset Link": "E-Posta Pasahitza Berrezarri Lotura",
+    "Forgot your password?": "Zure pasahitza ahaztu duzu?",
+    "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "Zure pasahitza ahaztu duzu? Ez dago arazorik. Besterik ez iezaguzu zure posta elektronikoaren helbidea eta egingo dugu, mezu elektroniko bat pasahitza berrezartzeko lotura duten aukera emango dizu aukera berri bat.",
+    "Log in": "Saioa",
+    "Name": "Izena",
+    "Password": "Pasahitza",
+    "Register": "Erregistratu",
+    "Remember me": "Gogoratu",
+    "Resend Verification Email": "Birbidali Egiaztatzeko E-Posta",
+    "Reset Password": "Berrezarri pasahitza",
+    "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.": "Eskerrik asko sortu sinatu! Hasi aurretik, ezin duzu egiaztatu zure e-posta helbidea link gainean klik eginez besterik ez dugu bidaliko duzu? Ez baduzu jaso posta elektronikoaren bidez, egingo dugu atsegin handiz bidaliko duzu beste.",
+    "This is a secure area of the application. Please confirm your password before continuing.": "Hau da, seguru eremu aplikazioa. Mesedez, baieztatu zure pasahitza jarraitu aurretik.",
+    "Whoops! Something went wrong.": "Aupa! Zerbait gaizki joan da."
+}

@@ -1,0 +1,21 @@
+{
+    "A new verification link has been sent to the email address you provided during registration.": "تم إرسال رابط تحقق جديد إلى عنوان البريد الإلكتروني الذي قمت بالتسجيل به.",
+    "Already registered?": "لديك حساب مسبقا؟",
+    "Confirm": "تأكيد",
+    "Confirm Password": "تأكيد كلمة المرور",
+    "Dashboard": "لوحة التحكم",
+    "Email": "البريد الإلكتروني",
+    "Email Password Reset Link": "رابط إعادة تعيين كلمة مرور عبر البريد الإلكتروني",
+    "Forgot your password?": "نسيت كلمة المرور؟",
+    "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "نسيت كلمة المرور؟ لا توجد مشكلة. ما عليك سوى إخبارنا بعنوان بريدك الإلكتروني وسنرسل لك عبره رابط إعادة تعيين كلمة المرور الذي سيسمح لك باختيار عنوان جديد.",
+    "Log in": "تسجيل الدخول",
+    "Name": "الاسم",
+    "Password": "كلمة المرور",
+    "Register": "تسجيل",
+    "Remember me": "تذكرني",
+    "Resend Verification Email": "إعادة ارسال بريد التحقق",
+    "Reset Password": "استعادة كلمة المرور",
+    "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.": "شكرا لتسجيلك! قبل البدء ، هل يمكنك التحقق من عنوان بريدك الإلكتروني من خلال النقر على الرابط الذي أرسلناه إليك عبر البريد الإلكتروني للتو؟ إذا لم تتلق البريد الإلكتروني ، فسنرسل لك رسالة أخرى بكل سرور.",
+    "This is a secure area of the application. Please confirm your password before continuing.": "هذه منطقة آمنة للتطبيق. يرجى تأكيد كلمة المرور الخاصة بك قبل المتابعة.",
+    "Whoops! Something went wrong.": "عذرًا! هناك خطأ ما."
+}

@@ -1,0 +1,21 @@
+{
+    "A new verification link has been sent to the email address you provided during registration.": "Một liên kết xác minh mới đã được gửi đến địa chỉ email được bạn cung cấp trong quá trình đăng ký.",
+    "Already registered?": "Đã đăng ký?",
+    "Confirm": "Xác nhận",
+    "Confirm Password": "Xác Nhận Mật Khẩu",
+    "Dashboard": "Bảng điều khiển",
+    "Email": "Email",
+    "Email Password Reset Link": "Email khôi phục mật khẩu",
+    "Forgot your password?": "Quên mật khẩu?",
+    "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "Quên mật khẩu? Không vấn đề gì. Chỉ cần cho chúng tôi biết địa chỉ email của bạn và chúng tôi sẽ gửi cho bạn một liên kết đặt lại mật khẩu qua email cho phép bạn chọn một mật khẩu mới.",
+    "Log in": "Đăng nhập",
+    "Name": "Tên",
+    "Password": "Mật khẩu",
+    "Register": "Đăng ký",
+    "Remember me": "Ghi nhớ",
+    "Resend Verification Email": "Gửi lại email xác thực",
+    "Reset Password": "Đặt Lại Mật Khẩu",
+    "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.": "Cảm ơn bạn đã đăng ký! Trước khi bắt đầu, bạn có thể xác minh địa chỉ email của mình bằng cách nhấp vào liên kết mà chúng tôi vừa gửi qua email cho bạn không? Nếu bạn không nhận được email, chúng tôi sẽ sẵn lòng gửi cho bạn một email khác.",
+    "This is a secure area of the application. Please confirm your password before continuing.": "Đây là khu vực an toàn của ứng dụng. Vui lòng xác nhận mật khẩu của bạn trước khi tiếp tục.",
+    "Whoops! Something went wrong.": "Rất tiếc! Đã xảy ra lỗi."
+}

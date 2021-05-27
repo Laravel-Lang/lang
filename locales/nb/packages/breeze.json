@@ -1,0 +1,21 @@
+{
+    "A new verification link has been sent to the email address you provided during registration.": "En ny bekreftelseskobling er sendt til e-postadressen du oppga under registreringen.",
+    "Already registered?": "Allerede registrert?",
+    "Confirm": "Bekreft",
+    "Confirm Password": "Bekreft passord",
+    "Dashboard": "Dashboard",
+    "Email": "E-post",
+    "Email Password Reset Link": "Link for tilbakestilling av e-postpassord",
+    "Forgot your password?": "Glemt passordet ditt?",
+    "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "Glemt passordet? Ikke noe problem. Bare gi oss beskjed om e-postadressen din, så sender vi deg en lenke for tilbakestilling av passord som lar deg velge en ny.",
+    "Log in": "Logg Inn",
+    "Name": "Navn",
+    "Password": "Passord",
+    "Register": "Registrer",
+    "Remember me": "Husk meg",
+    "Resend Verification Email": "Send bekreftelses-e-post på nytt",
+    "Reset Password": "Nullstill passord",
+    "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.": "Takk for at du registrerte deg! Før du begynte, kunne du bekrefte e-postadressen din ved å klikke på lenken vi nettopp sendte deg? Hvis du ikke mottok e-posten, sender vi deg en ny.",
+    "This is a secure area of the application. Please confirm your password before continuing.": "Dette er et sikkert område av applikasjonen. Bekreft passordet ditt før du fortsetter.",
+    "Whoops! Something went wrong.": "Oisann! Noe gikk galt."
+}

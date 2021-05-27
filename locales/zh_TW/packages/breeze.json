@@ -1,0 +1,21 @@
+{
+    "A new verification link has been sent to the email address you provided during registration.": "一個新的驗證鏈接已經發送至您在註冊時提供的電子郵件地址。",
+    "Already registered?": "已註冊？",
+    "Confirm": "確認",
+    "Confirm Password": "確認密碼",
+    "Dashboard": "控制面板",
+    "Email": "Email",
+    "Email Password Reset Link": "電子郵件密碼重置鏈接",
+    "Forgot your password?": "忘記密碼？",
+    "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "忘記密碼？沒關係。輸入您的電子郵件地址，我們將通過電子郵件向您發送密碼重置鏈接，讓您重置一個新的密碼。",
+    "Log in": "登錄",
+    "Name": "姓名",
+    "Password": "密碼",
+    "Register": "註冊",
+    "Remember me": "記住我",
+    "Resend Verification Email": "重新發送驗證郵件",
+    "Reset Password": "重設密碼",
+    "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.": "謝謝你的註冊！在開始之前，在開始之前，您可以通過點擊我們剛剛給您發送的鏈接來驗證您的電子郵件地址，如果您沒有收到郵件，我們將很樂意再給您發送一封郵件。",
+    "This is a secure area of the application. Please confirm your password before continuing.": "請在繼續之前確認您的密碼。",
+    "Whoops! Something went wrong.": "哎呀！出了點問題"
+}

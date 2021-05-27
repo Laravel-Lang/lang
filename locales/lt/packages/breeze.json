@@ -1,0 +1,21 @@
+{
+    "A new verification link has been sent to the email address you provided during registration.": "Nauja patvirtinimo nuoroda buvo išsiųsta el. pašto adresu, kurį pateikėte registruojantis.",
+    "Already registered?": "Jau užsiregistravote?",
+    "Confirm": "Patvirtinti",
+    "Confirm Password": "Pakartokite slaptažodį",
+    "Dashboard": "Pagrindinis puslapis",
+    "Email": "El. pašto adresas",
+    "Email Password Reset Link": "Atsiųsti slaptažodžio atstatymo nuorodą",
+    "Forgot your password?": "Pamiršote slaptažodį?",
+    "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "Pamiršote savo slaptažodį? Jokių problemų. Įveskite savo el. pašto adresą ir atsiųsime slaptažodžio atstatymo nuorodą, kuri leis jums pasirinkti naują.",
+    "Log in": "Prisijungti",
+    "Name": "Vardas",
+    "Password": "Slaptažodis",
+    "Register": "Registruotis",
+    "Remember me": "Atsiminti mane",
+    "Resend Verification Email": "Persiųsti patvirtinimo el. laišką",
+    "Reset Password": "Slaptažodžio atstatymas",
+    "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.": "Ačiū, kad užsiregistravote! Prieš pradedant, gal galite patvirtinti savo el. pašto adresą paspaudžiant ant nuorodos, kurią jums ką tik atsiuntėme? Jeigu negavote el. laiško, mes jums atsiųsime kitą.",
+    "This is a secure area of the application. Please confirm your password before continuing.": "Tai yra saugi taikymo sritis. Prašome patvirtinti savo slaptažodį prieš tęsdami.",
+    "Whoops! Something went wrong.": "Ups! Kažkas atsitiko."
+}

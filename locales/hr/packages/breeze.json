@@ -1,0 +1,21 @@
+{
+    "A new verification link has been sent to the email address you provided during registration.": "Nova veza za provjeru poslana je na adresu e-pošte koju ste naveli prilikom registracije.",
+    "Already registered?": "Jesi li se prijavio?",
+    "Confirm": "Potvrdi",
+    "Confirm Password": "Potvrdite zaporku",
+    "Dashboard": "Nadzorna ploča",
+    "Email": "E-pošta",
+    "Email Password Reset Link": "Veza za poništavanje lozinke e-pošte",
+    "Forgot your password?": "Zaboravili ste lozinku?",
+    "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "Zaboravili ste lozinku? Nema problema. Samo nam javite svoju adresu e - pošte i poslat ćemo vam vezu za poništavanje zaporke koja će vam omogućiti da odaberete novu.",
+    "Log in": "Ovlaštenje",
+    "Name": "Ime",
+    "Password": "Zaporka",
+    "Register": "Registracija",
+    "Remember me": "Zapamti me.",
+    "Resend Verification Email": "Ponovno Slanje E-Pošte Za Provjeru",
+    "Reset Password": "Resetuj zaporku",
+    "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.": "Hvala što ste se prijavili! Prije nego što započnete, možete li potvrditi svoju adresu e-pošte klikom na vezu koju smo vam upravo poslali e-poštom? Ako niste dobili pismo, rado ćemo vam poslati drugu.",
+    "This is a secure area of the application. Please confirm your password before continuing.": "To je sigurno područje aplikacije. Potvrdite zaporku prije nastavka.",
+    "Whoops! Something went wrong.": "Ups! Nešto je pošlo po zlu."
+}

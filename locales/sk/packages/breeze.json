@@ -1,0 +1,21 @@
+{
+    "A new verification link has been sent to the email address you provided during registration.": "Na e-mailovú adresu, ktorú ste uviedli pri registrácii, bol odoslaný nový overovací odkaz.",
+    "Already registered?": "Už zaregistrovaný?",
+    "Confirm": "Potvrdiť",
+    "Confirm Password": "Kontrola hesla",
+    "Dashboard": "Panel",
+    "Email": "Mail",
+    "Email Password Reset Link": "Odkaz Na Obnovenie Hesla E-Mailu",
+    "Forgot your password?": "Zabudli ste heslo?",
+    "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "Zabudli ste heslo? Žiadny problém. Dajte nám vedieť svoju e-mailovú adresu a my vám pošleme e-mail s odkazom na obnovenie hesla, ktorý vám umožní vybrať si novú.",
+    "Log in": "Prihlásiť",
+    "Name": "Meno",
+    "Password": "Heslo",
+    "Register": "Registrácia",
+    "Remember me": "Pamätaj si ma",
+    "Resend Verification Email": "Znova Odoslať Overovací E-Mail",
+    "Reset Password": "Obnoviť heslo",
+    "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.": "Vďaka za registráciu! Mohli by ste svoju e-mailovú adresu overiť skôr, ako začnete, kliknutím na odkaz, ktorý sme vám práve poslali e-mailom? Ak ste nedostali e-mail, radi vám pošleme ďalší.",
+    "This is a secure area of the application. Please confirm your password before continuing.": "Toto je bezpečná oblasť aplikácie. Pred pokračovaním potvrďte svoje heslo.",
+    "Whoops! Something went wrong.": "Hups! Niečo sa pokazilo."
+}

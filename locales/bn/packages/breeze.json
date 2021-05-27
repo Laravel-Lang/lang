@@ -1,0 +1,21 @@
+{
+    "A new verification link has been sent to the email address you provided during registration.": "একটি নতুন যাচাইকরণ লিঙ্ক আপনার রেজিস্ট্রেশন করার সময় দেওয়া ইমেইল ঠিকানায় পাঠানো হয়েছে।",
+    "Already registered?": "ইতিমধ্যে নিবন্ধন করেছেন?",
+    "Confirm": "নিশ্চিত করুন",
+    "Confirm Password": "পাসওয়ার্ড নিশ্চিত করুন",
+    "Dashboard": "ড্যাশবোর্ড",
+    "Email": "ই-মেইল",
+    "Email Password Reset Link": "ইমেল পাসওয়ার্ড রিসেট লিংক",
+    "Forgot your password?": "আপনার পাসওয়ার্ড ভুলে গেছেন?",
+    "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "আপনার পাসওয়ার্ড ভুলে গেছেন? সমস্যা নেই. শুধু আমাদের আপনার ইমেল ঠিকানা জানাতে এবং আমরা আপনাকে একটি নতুন নির্বাচন করার অনুমতি দেবে যে একটি পাসওয়ার্ড রিসেট লিঙ্ক ইমেইল হবে.",
+    "Log in": "লগইন করুন",
+    "Name": "নাম",
+    "Password": "পাসওয়ার্ড",
+    "Register": "নিবন্ধন",
+    "Remember me": "আমাকে মনে রাখুন",
+    "Resend Verification Email": "যাচাই ইমেইল পুনরায় পাঠান",
+    "Reset Password": "পাসওয়ার্ড রিসেট করুন",
+    "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.": "সাইন আপ করার জন্য ধন্যবাদ! শুরু করার আগে, আমরা শুধু আপনার ইমেল লিঙ্কে ক্লিক করে আপনার ইমেল ঠিকানা যাচাই করতে পারে? আপনি ইমেইল পাবেন না করে থাকেন তাহলে, আমরা সানন্দে আপনাকে অন্য পাঠাতে হবে.",
+    "This is a secure area of the application. Please confirm your password before continuing.": "এই অ্যাপ্লিকেশনটি একটি নিরাপদ এলাকা. অব্যাহত আগে আপনার পাসওয়ার্ড নিশ্চিত করুন.",
+    "Whoops! Something went wrong.": "ওপস! কিছু ভুল হয়েছে."
+}

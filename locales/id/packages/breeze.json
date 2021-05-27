@@ -1,0 +1,21 @@
+{
+    "A new verification link has been sent to the email address you provided during registration.": "Tautan verifikasi baru telah dikirim ke alamat surel yang Anda berikan saat pendaftaran.",
+    "Already registered?": "Sudah terdaftar?",
+    "Confirm": "Konfirmasi",
+    "Confirm Password": "Konfirmasi Kata Sandi",
+    "Dashboard": "Dasbor",
+    "Email": "Surel",
+    "Email Password Reset Link": "Tautan Pengaturan Ulang Kata Sandi Surel",
+    "Forgot your password?": "Lupa kata sandi Anda?",
+    "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "Lupa kata sandi Anda? Tidak masalah. Beri tahu kami alamat surel Anda dan kami akan mengirimkan surel berisi tautan pengaturan ulang kata sandi yang memungkinkan Anda memilih kata sandi yang baru.",
+    "Log in": "Masuk",
+    "Name": "Nama",
+    "Password": "Kata Sandi",
+    "Register": "Daftar",
+    "Remember me": "Ingat saya",
+    "Resend Verification Email": "Kirim Ulang Surel Verifikasi",
+    "Reset Password": "Atur Ulang Kata Sandi",
+    "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.": "Terima kasih sudah mendaftar! Sebelum memulai, bisa kah Anda memverifikasi alamat surel dengan mengklik tautan yang kami kirim? Jika Anda tidak menerima surel, kami akan mengirim ulang.",
+    "This is a secure area of the application. Please confirm your password before continuing.": "Ini adalah area aman pada aplikasi. Harap konfirmasi kata sandi anda sebelum melanjutkan.",
+    "Whoops! Something went wrong.": "Aduh! Terjadi kesalahan."
+}

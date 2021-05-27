@@ -1,0 +1,21 @@
+{
+    "A new verification link has been sent to the email address you provided during registration.": "ಒಂದು ಹೊಸ ಪರಿಶೀಲನೆ ಲಿಂಕ್ ಮಾಡಲಾಗಿದೆ ಕಳುಹಿಸಲಾಗಿದೆ ನೀವು ಒದಗಿಸಿದ ಇಮೇಲ್ ವಿಳಾಸವನ್ನು ನೋಂದಣಿ ಸಮಯದಲ್ಲಿ.",
+    "Already registered?": "ಈಗಾಗಲೇ ನೋಂದಾಯಿತ?",
+    "Confirm": "ಖಚಿತಪಡಿಸಿ",
+    "Confirm Password": "ಪಾಸ್ವರ್ಡ್ ದೃಢೀಕರಿಸಿ",
+    "Dashboard": "ಡ್ಯಾಶ್ಬೋರ್ಡ್",
+    "Email": "ಇಮೇಲ್",
+    "Email Password Reset Link": "ಇಮೇಲ್ ಪಾಸ್ವರ್ಡ್ ಮರುಹೊಂದಿಸಿ ಲಿಂಕ್",
+    "Forgot your password?": "ನಿಮ್ಮ ಪಾಸ್ವರ್ಡ್ ಮರೆತಿರುವಿರಾ?",
+    "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "ನಿಮ್ಮ ಪಾಸ್ವರ್ಡ್ ಮರೆತಿರುವಿರಾ? ಯಾವುದೇ ಸಮಸ್ಯೆ. ಕೇವಲ ನಮಗೆ ತಿಳಿಸಿ, ನಿಮ್ಮ ಇಮೇಲ್ ವಿಳಾಸ ಮತ್ತು ನಾವು ನೀವು ಇಮೇಲ್ ಪಾಸ್ವರ್ಡ್ ಮರುಹೊಂದಿಸಿ ಲಿಂಕ್ that will allow you to choose a new one.",
+    "Log in": "ಲಾಗ್",
+    "Name": "ಹೆಸರು",
+    "Password": "ಪಾಸ್ವರ್ಡ್",
+    "Register": "ನೋಂದಣಿ",
+    "Remember me": "ನನಗೆ ನೆನಪು",
+    "Resend Verification Email": "ಮತ್ತೆ ಕಳುಹಿಸಿ ಇಮೇಲ್ ಪರಿಶೀಲನೆ",
+    "Reset Password": "ಪಾಸ್ವರ್ಡ್ ಮರುಹೊಂದಿಸಿ",
+    "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.": "ಧನ್ಯವಾದಗಳು ಸೈನ್ ಅಪ್! ಪ್ರಾರಂಭಿಕ ಮೊದಲು, ನೀವು ಪರಿಶೀಲಿಸಲು ನಿಮ್ಮ ಇಮೇಲ್ ವಿಳಾಸಕ್ಕೆ ಲಿಂಕ್ ಕ್ಲಿಕ್ಕಿಸಿ ನಾವು ಕೇವಲ ಇಮೇಲ್ ನೀವು? ನೀವು ಮಾಡದಿದ್ದರೆ ಸ್ವೀಕರಿಸಲು ಇಮೇಲ್, ನಾವು ಸಂತೋಷದಿಂದ ಕಳುಹಿಸಲು ನೀವು ಇನ್ನೊಂದು.",
+    "This is a secure area of the application. Please confirm your password before continuing.": "ಈ ಒಂದು ಸುರಕ್ಷಿತ ಪ್ರದೇಶದಲ್ಲಿ ಅಪ್ಲಿಕೇಶನ್. ದಯವಿಟ್ಟು ನಿಮ್ಮ ಗುಪ್ತಪದವನ್ನು ಖಚಿತಪಡಿಸಿ ಮುಂದುವರೆಯುವ ಮೊದಲು.",
+    "Whoops! Something went wrong.": "ಓಹ್! ಏನೋ ತಪ್ಪಾಗಿದೆ."
+}

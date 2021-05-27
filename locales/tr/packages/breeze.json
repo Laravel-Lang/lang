@@ -1,0 +1,21 @@
+{
+    "A new verification link has been sent to the email address you provided during registration.": "Üyelik esnasında kullandığınız e-posta adresinize onay linki gönderildi.",
+    "Already registered?": "Zaten Üye Misiniz?",
+    "Confirm": "Onayla",
+    "Confirm Password": "Parolayı Onayla",
+    "Dashboard": "Gösterge Paneli",
+    "Email": "E-Posta",
+    "Email Password Reset Link": "E-Posta Şifre Sıfırlama Linki",
+    "Forgot your password?": "Şifrenizi mi unuttunuz?",
+    "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "Şifrenizi mi unuttunuz? Sorun değil. Sadece e-posta adresinizi bize söyleyin size yeni şifrenizi belirleyebileceğiniz bir parola sıfırlama linki gönderelim.",
+    "Log in": "Giriş yap",
+    "Name": "Ad",
+    "Password": "Parola",
+    "Register": "Kayıt Ol",
+    "Remember me": "Beni hatırla",
+    "Resend Verification Email": "Onay Mailini Tekrar Gönder",
+    "Reset Password": "Parolayı Sıfırla",
+    "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.": "Üye olduğunuz için teşekkürler! Başlamadan önce, size az önce gönderdiğimiz bağlantıya tıklayarak e-posta adresinizi doğrulayabilir misiniz? E-postayı almadıysanız, size memnuniyetle başka bir e-posta göndereceğiz.",
+    "This is a secure area of the application. Please confirm your password before continuing.": "Bu uygulamanın güvenli bir alandır. Lütfen devam etmeden önce şifrenizi onaylayın.",
+    "Whoops! Something went wrong.": "Eyvaaah! Bir şeyler ters gitti."
+}

@@ -1,0 +1,21 @@
+{
+    "A new verification link has been sent to the email address you provided during registration.": "入力いただいたメールアドレスに新しい確認メールを送信しました。",
+    "Already registered?": "登録済みの方はこちら",
+    "Confirm": "確認",
+    "Confirm Password": "パスワード（確認用）",
+    "Dashboard": "ダッシュボード",
+    "Email": "メールアドレス",
+    "Email Password Reset Link": "送信",
+    "Forgot your password?": "パスワードを忘れた方はこちら",
+    "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "ご登録いただいたメールアドレスを入力してください。パスワード再設定用のURLをメールにてお送りします。",
+    "Log in": "ログイン",
+    "Name": "氏名",
+    "Password": "パスワード",
+    "Register": "アカウント作成",
+    "Remember me": "ログイン状態を保持する",
+    "Resend Verification Email": "確認メールを再送する",
+    "Reset Password": "パスワード再設定",
+    "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.": "ご登録ありがとうございます。入力いただいたメールアドレス宛にを確認のメールを送信しました。メールをご確認いただき、メールに記載されたURLをクリックして登録を完了してください。メールが届かない場合、メールを再送できます。",
+    "This is a secure area of the application. Please confirm your password before continuing.": "ここはアプリケーションのセキュアな領域です。パスワードを入力して続行ください。",
+    "Whoops! Something went wrong.": "エラーの内容を確認してください。"
+}

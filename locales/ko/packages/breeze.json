@@ -1,0 +1,21 @@
+{
+    "A new verification link has been sent to the email address you provided during registration.": "새로운 확인 링크를 가입할 때 사용한 이메일 주소로 보냈습니다.",
+    "Already registered?": "계정이 있으신가요?",
+    "Confirm": "확인",
+    "Confirm Password": "비밀번호 확인",
+    "Dashboard": "대시보드",
+    "Email": "이메일",
+    "Email Password Reset Link": "이메일 비밀번호 재설정 링크",
+    "Forgot your password?": "비밀번호를 잊으셨나요?",
+    "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "비밀번호를 잊으셨습니까? 이메일 주소를 입력하시면 새 비밀번호를 설정 할 수 있는 링크를 이메일로 보내드립니다.",
+    "Log in": "로그인",
+    "Name": "이름",
+    "Password": "비밀번호",
+    "Register": "회원가입",
+    "Remember me": "로그인 상태 유지",
+    "Resend Verification Email": "확인 메일 다시 보내기",
+    "Reset Password": "비밀번호 재설정",
+    "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.": "가입해 주셔서 감사합니다! 시작하시기 전에 방금 이메일로 보낸 링크를 클릭하여 이메일 주소를 확인해 주시겠습니까? 이메일을 받지 못한 경우 새 이메일을 보내 드리겠습니다.",
+    "This is a secure area of the application. Please confirm your password before continuing.": "이곳은 보안 구역입니다. 진행하기 위해서 비밀번호를 입력해주세요.",
+    "Whoops! Something went wrong.": "저런! 뭔가 잘못되었습니다."
+}

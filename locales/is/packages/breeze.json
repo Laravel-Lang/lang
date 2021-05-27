@@ -1,0 +1,21 @@
+{
+    "A new verification link has been sent to the email address you provided during registration.": "Nýja staðfestingu hlekkur hefur verið send til netfangið sem þú gafst upp á skráningu.",
+    "Already registered?": "Þegar skráð?",
+    "Confirm": "Staðfesta",
+    "Confirm Password": "Staðfesta Lykilorð",
+    "Dashboard": "Mælaborðinu",
+    "Email": "Sendu",
+    "Email Password Reset Link": "Sendu Lykilorð Endurstilla Hlekkur",
+    "Forgot your password?": "Gleymdi lykilorðið þitt?",
+    "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "Gleymdi lykilorðið þitt? Ekkert vandamál. Bara að láta okkur vita netfangið þitt og við munum senda þér lykilorð endurstilla hlekkur sem verður að leyfa þér að velja nýtt einn.",
+    "Log in": "Skráðu þig í",
+    "Name": "Nafnið",
+    "Password": "Lykilorð",
+    "Register": "Skrá",
+    "Remember me": "Manstu eftir mér",
+    "Resend Verification Email": "Senda Staðfestingu Tölvupósti",
+    "Reset Password": "Endurstilla Lykilorð",
+    "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.": "Takk fyrir að skrá þig! Áður en að byrja, viltu staðfesta netfangið þitt með því að smella á tengilinn við vorum send til að þú? Ef þú vissi ekki að fá tölvupóstinn, við munum gjarna senda þér annað.",
+    "This is a secure area of the application. Please confirm your password before continuing.": "Þetta er öruggt svæði á umsókn. Vinsamlegast staðfesta lykilorð þitt áður en þú heldur áfram.",
+    "Whoops! Something went wrong.": "Úps! Eitthvað fór úrskeiðis."
+}

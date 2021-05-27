@@ -1,0 +1,21 @@
+{
+    "A new verification link has been sent to the email address you provided during registration.": "Newydd ddolen dilysu wedi cael ei anfon at y cyfeiriad e-bost bydd darparu yn ystod cofrestru.",
+    "Already registered?": "Eisoes wedi cofrestru?",
+    "Confirm": "Gadarnhau",
+    "Confirm Password": "Cadarnhau Cyfrinair",
+    "Dashboard": "Dangosfwrdd",
+    "Email": "E-bost",
+    "Email Password Reset Link": "E-Bost Ailosod Cyfrinair Cyswllt",
+    "Forgot your password?": "Wedi anghofio eich cyfrinair?",
+    "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "Wedi anghofio eich cyfrinair? Dim problem. Dim ond gadewch i ni wybod eich cyfeiriad e-bost a byddwn yn e-bostio i chi ailosod cyfrinair yn ddolen a fydd yn eich galluogi i ddewis un newydd.",
+    "Log in": "Logio i mewn",
+    "Name": "Enw",
+    "Password": "Cyfrinair",
+    "Register": "Gofrestr",
+    "Remember me": "Cofiwch fi",
+    "Resend Verification Email": "Anfon Gwirio E-Bost",
+    "Reset Password": "Ailosod Cyfrinair",
+    "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.": "Diolch am arwyddo i fyny! Cyn dechrau arni, a allech chi gadarnhau eich cyfeiriad e-bost drwy glicio ar y ddolen rydym yn unig e-bostio i chi? Os nad ydych yn derbyn yr e-bost, byddwn yn falch o anfon arall.",
+    "This is a secure area of the application. Please confirm your password before continuing.": "Mae hyn yn sicrhau ardal y cais. Os gwelwch yn dda gadarnhau eich cyfrinair cyn parhau.",
+    "Whoops! Something went wrong.": "Wps! Aeth rhywbeth o'i le."
+}

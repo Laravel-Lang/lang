@@ -1,0 +1,21 @@
+{
+    "A new verification link has been sent to the email address you provided during registration.": "Registreerimise käigus esitatud e-posti aadressile on saadetud Uus kinnituslink.",
+    "Already registered?": "Juba registreeritud?",
+    "Confirm": "Kinnitama",
+    "Confirm Password": "Kinnita Parool",
+    "Dashboard": "Armatuurlaud",
+    "Email": "E-post",
+    "Email Password Reset Link": "E-Posti Parooli Lähtestamise Link",
+    "Forgot your password?": "Unustasid oma parooli?",
+    "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "Unustasid oma parooli? Pole probleemi. Lihtsalt andke meile teada oma e-posti aadress ja me saadame teile parooli lähtestamise lingi, mis võimaldab teil valida uue.",
+    "Log in": "Logima",
+    "Name": "Nimi",
+    "Password": "Parool",
+    "Register": "Registreerima",
+    "Remember me": "Mäleta mind",
+    "Resend Verification Email": "Saada Kinnitusmeil Uuesti",
+    "Reset Password": "Lähtesta Parool",
+    "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.": "Tänud registreerumast! Enne alustamist, võiks kontrollida oma e-posti aadress klõpsates lingil me lihtsalt saadetakse teile? Kui te ei saanud e-kirja, saadame teile hea meelega teise.",
+    "This is a secure area of the application. Please confirm your password before continuing.": "See on rakenduse turvaline ala. Palun kinnitage oma parool enne jätkamist.",
+    "Whoops! Something went wrong.": "Ups! Midagi läks valesti."
+}

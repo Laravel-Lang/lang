@@ -1,0 +1,21 @@
+{
+    "A new verification link has been sent to the email address you provided during registration.": "ახალი გადამოწმების ლინკი გაიგზავნა ელექტრონული ფოსტის მისამართი თქვენ უზრუნველყოფილი რეგისტრაციის დროს.",
+    "Already registered?": "უკვე რეგისტრირებული?",
+    "Confirm": "დაადასტურეთ",
+    "Confirm Password": "პაროლის დადასტურება",
+    "Dashboard": "დაფა",
+    "Email": "ელ. ფოსტა",
+    "Email Password Reset Link": "ელ პაროლის აღდგენა ლინკი",
+    "Forgot your password?": "დაგავიწყდათ პაროლი?",
+    "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "დაგავიწყდათ პაროლი? პრობლემა არ არის. უბრალოდ გვაცნობოთ თქვენი ელექტრონული ფოსტის მისამართი და ჩვენ გამოგიგზავნით პაროლის გადატვირთვის ბმულს, რომელიც საშუალებას მოგცემთ აირჩიოთ ახალი.",
+    "Log in": "შესვლა",
+    "Name": "სახელი",
+    "Password": "პაროლი",
+    "Register": "რეგისტრირება",
+    "Remember me": "დამიმახსოვრე",
+    "Resend Verification Email": "ხელახლა გადამოწმების ელ",
+    "Reset Password": "პაროლის აღდგენა",
+    "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.": "მადლობა ხელმოწერის up! სანამ ნაცნობობა, იქნებ შეამოწმოს თქვენი ელექტრონული ფოსტის მისამართი დაწკაპვით ბმულს ჩვენ უბრალოდ ელექტრონული ფოსტით თქვენ? თუ თქვენ არ მიიღოს ელ, ჩვენ სიამოვნებით გამოგიგზავნით სხვა.",
+    "This is a secure area of the application. Please confirm your password before continuing.": "ეს არის უსაფრთხო ფართობი განაცხადის. გთხოვთ დაადასტუროთ თქვენი პაროლი გაგრძელებამდე.",
+    "Whoops! Something went wrong.": "ჟსოვპ! რაღაც გაფუჭდა."
+}

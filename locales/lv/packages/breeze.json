@@ -1,0 +1,21 @@
+{
+    "A new verification link has been sent to the email address you provided during registration.": "Reģistrācijas laikā norādītajai e-pasta adresei ir nosūtīta jauna verifikācijas saite.",
+    "Already registered?": "Jau reģistrēts?",
+    "Confirm": "Apstiprināt",
+    "Confirm Password": "Apstiprināt Paroli",
+    "Dashboard": "Panelis",
+    "Email": "Pasts",
+    "Email Password Reset Link": "E-Pasta Paroles Atiestatīšanas Saite",
+    "Forgot your password?": "Aizmirsāt paroli?",
+    "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "Aizmirsāt paroli? Nav problēmu. Vienkārši dariet mums zināmu savu e-pasta adresi, un mēs nosūtīsim jums paroles atiestatīšanas saiti, kas ļaus jums izvēlēties jaunu.",
+    "Log in": "Pieteikties",
+    "Name": "Nosaukums",
+    "Password": "Parole",
+    "Register": "Reģistrēts",
+    "Remember me": "Atcerēties mani",
+    "Resend Verification Email": "Atkārtoti Nosūtiet Verifikācijas E-Pastu",
+    "Reset Password": "Atiestatīt Paroli",
+    "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.": "Paldies par pierakstīšanos! Pirms sākat darbu, vai jūs varētu pārbaudīt savu e-pasta adresi, noklikšķinot uz saites, kuru mēs tikko nosūtījām jums pa e-pastu? Ja jūs nesaņēmāt e-pastu, mēs labprāt nosūtīsim jums citu.",
+    "This is a secure area of the application. Please confirm your password before continuing.": "Tas ir drošs pieteikuma apgabals. Lūdzu, apstipriniet savu paroli,pirms turpināt.",
+    "Whoops! Something went wrong.": "Ak vai! Kaut kas nogāja greizi."
+}

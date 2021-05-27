@@ -1,0 +1,21 @@
+{
+    "A new verification link has been sent to the email address you provided during registration.": "Et nyt bekræftelseslink er blevet sendt til den e-mailadresse, du angav under registreringen.",
+    "Already registered?": "Allerede registreret?",
+    "Confirm": "Bekræfte",
+    "Confirm Password": "Bekræft password",
+    "Dashboard": "Dashboard",
+    "Email": "Mail",
+    "Email Password Reset Link": "Link Til Nulstilling Af E-Mail-Adgangskode",
+    "Forgot your password?": "Glemt din adgangskode?",
+    "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "Glemt din adgangskode? Intet problem. Bare lad os vide din e-mail-adresse, og vi vil e-maile dig et link til nulstilling af adgangskode, der giver dig mulighed for at vælge en ny.",
+    "Log in": "Login",
+    "Name": "Navn",
+    "Password": "Adgangskode",
+    "Register": "Registrér",
+    "Remember me": "Husk mig",
+    "Resend Verification Email": "Send Bekræftelses-E-Mail Igen",
+    "Reset Password": "Nulstil password",
+    "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.": "Tak for tilmelding! Før du kommer i gang, kan du bekræfte din e-mail-adresse ved at klikke på det link, vi lige har sendt til dig? Hvis du ikke har modtaget e-mailen, vil vi gerne sende dig en anden.",
+    "This is a secure area of the application. Please confirm your password before continuing.": "Dette er et sikkert område af ansøgningen. Bekræft din adgangskode, før du fortsætter.",
+    "Whoops! Something went wrong.": "Ups! Noget gik galt."
+}

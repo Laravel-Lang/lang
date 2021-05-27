@@ -1,0 +1,21 @@
+{
+    "A new verification link has been sent to the email address you provided during registration.": "На електронну адресу, яку ви вказали під час реєстрації, надіслано нове посилання для підтвердження.",
+    "Already registered?": "Вже зареєстровані?",
+    "Confirm": "Підтвердити",
+    "Confirm Password": "Підтвердити пароль",
+    "Dashboard": "Головна",
+    "Email": "Електронна пошта",
+    "Email Password Reset Link": "Посилання для скидання пароля електронної пошти",
+    "Forgot your password?": "Забули пароль?",
+    "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "Забули свій пароль? Нема проблем. Просто повідомте нам свою електронну адресу, і ми надішлемо вам посилання для скидання пароля, яке дозволить вам змінити пароль.",
+    "Log in": "Авторизувати",
+    "Name": "Ім'я",
+    "Password": "Пароль",
+    "Register": "Реєстрація",
+    "Remember me": "Запам'ятати мене",
+    "Resend Verification Email": "Відправити лист із підтвердженням",
+    "Reset Password": "Відновити пароль",
+    "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.": "Дякуємо за реєстрацію! Перед початком роботи, підтвердіть свою адресу електронної пошти, натиснувши посилання, яке ми щойно надіслали вам. Якщо ви не отримали повідомлення електронної пошти, ми із задоволенням надішлемо вам інше.",
+    "This is a secure area of the application. Please confirm your password before continuing.": "Це захищена частина додатку. Будь ласка, підтвердіть ваш пароль, перед продовженням.",
+    "Whoops! Something went wrong.": "Ой! Щось пішло не так."
+}

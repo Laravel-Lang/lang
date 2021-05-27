@@ -1,0 +1,21 @@
+{
+    "A new verification link has been sent to the email address you provided during registration.": "पंजीकरण के दौरान आपके द्वारा प्रदान किए गए ईमेल पते पर एक नया सत्यापन लिंक भेजा गया है । ",
+    "Already registered?": "पहले से ही पंजीकृत?",
+    "Confirm": "पुष्टि करें",
+    "Confirm Password": "पासवर्ड की पुष्टि करें",
+    "Dashboard": "डैशबोर्ड",
+    "Email": "ईमेल",
+    "Email Password Reset Link": "ईमेल पासवर्ड रीसेट लिंक",
+    "Forgot your password?": "अपना पासवर्ड भूल गए?",
+    "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "अपना पासवर्ड भूल गए? कोई बात नहीं ।  बस हमें अपना ईमेल पता बताएं और हम आपको एक पासवर्ड रीसेट लिंक ईमेल करेंगे जो आपको एक नया चुनने की अनुमति देगा । ",
+    "Log in": "लॉग इन करें",
+    "Name": "नाम",
+    "Password": "पासवर्ड",
+    "Register": "रजिस्टर करें",
+    "Remember me": "मुझे याद करो",
+    "Resend Verification Email": "सत्यापन ईमेल पुनः भेजें",
+    "Reset Password": "पासवर्ड रीसेट करें",
+    "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.": "साइन अप करने के लिए धन्यवाद! आरंभ करने से पहले, क्या आप उस लिंक पर क्लिक करके अपना ईमेल पता सत्यापित कर सकते हैं जिसे हमने आपको ईमेल किया था? यदि आपको ईमेल प्राप्त नहीं हुआ है, तो हम खुशी से आपको एक और भेज देंगे । ",
+    "This is a secure area of the application. Please confirm your password before continuing.": "यह आवेदन का एक सुरक्षित क्षेत्र है ।  जारी रखने से पहले अपने पासवर्ड की पुष्टि करें । ",
+    "Whoops! Something went wrong.": "ओह! कुछ गलत हो गया । "
+}

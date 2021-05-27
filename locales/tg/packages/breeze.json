@@ -1,0 +1,21 @@
+{
+    "A new verification link has been sent to the email address you provided during registration.": "Нав проверочная пайванд буд отправлена ба суроғаи почтаи электронӣ, ки Шумо ҳангоми бақайдгирӣ.",
+    "Already registered?": "Аллакай зарегистрировался?",
+    "Confirm": "Подтверждать",
+    "Confirm Password": "Тасдиқ Рамз",
+    "Dashboard": "Панели",
+    "Email": "Почтаи электронӣ",
+    "Email Password Reset Link": "Пайванд Барои Рамз бозгашт ба Почтаи электронӣ",
+    "Forgot your password?": "Фаромӯш гузарвожаи худро?",
+    "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "Фаромӯш гузарвожаи худро? Бе мушкилӣ. Танҳо ба мо хабар ба суроғаи почтаи электронӣ худро дар, ва мо ирсол шумо пайванд барои рамз бозгашт, ки имкон медиҳад ба шумо интихоб кардани як нав.",
+    "Log in": "Авторизоваться",
+    "Name": "Ном",
+    "Password": "Рамз",
+    "Register": "Қайд",
+    "Remember me": "Зиннатҳои ман",
+    "Resend Verification Email": "Такрорӣ Фиристодани Мактубҳои Проверочного",
+    "Reset Password": "рамз бозгашт",
+    "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.": "Ташаккур, ки записались! Пеш аз оғози ба кор, ки шояд шумо тасдиқ суроғаи почтаи электронӣ шумо бо зеркунии тугмаи оид ба пайванд, ки мо танҳо ба ин ки шумо фиристода тавассути почтаи электронӣ? Агар шумо соҳиби мактуб, мо бо хурсандӣ ба шумо ирсол дигар.",
+    "This is a secure area of the application. Please confirm your password before continuing.": "Ин бехатар область барномаҳо. Лутфан, тасдиқ кунед, рамз, пеш аз давом додан.",
+    "Whoops! Something went wrong.": "Упс! Чизе вайрон шудааст."
+}

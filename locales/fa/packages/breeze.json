@@ -1,0 +1,21 @@
+{
+    "A new verification link has been sent to the email address you provided during registration.": "یک لینک تایید جدید به ایمیلی که در هنگام ثبت نام وارد کرده بودید ارسال شد.",
+    "Already registered?": "قبلا ثبت نام کرده‌اید؟",
+    "Confirm": "تایید",
+    "Confirm Password": "تکرار رمز عبور",
+    "Dashboard": "داشبورد",
+    "Email": "ایمیل",
+    "Email Password Reset Link": "ارسال لینک بازیابی رمز عبور از طریق ایمیل",
+    "Forgot your password?": "رمزعبور خود را فراموش کرده‌اید؟",
+    "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "رمز عبور خود را فراموش کرده اید؟ مشکلی نیست. کافی است ایمیل خود را داشته باشید و ما یک لینک جهت بازیابی رمز عبور برای شما ارسال می کنیم. ",
+    "Log in": "ورود",
+    "Name": "نام",
+    "Password": "رمز عبور",
+    "Register": "ثبت نام",
+    "Remember me": "مرا به خاطر بسپار",
+    "Resend Verification Email": "ارسال دوباره ایمیل تایید",
+    "Reset Password": "فراموشی رمز عبور",
+    "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.": "از ثبت نام شما متشکریم! قبل از شروع ، آیا می توانید آدرس ایمیل خود را با کلیک بر روی لینکی که برای شما از طریق ایمیل ارسال کردیم تأیید کنید؟ اگر ایمیل را دریافت نکردید ، ایمل دیگری را برای شما ارسال خواهیم کرد.",
+    "This is a secure area of the application. Please confirm your password before continuing.": "این یک بخش تحت حفاظت از برنامه است. لطفا قبل از ادامه رمز عبور خود را تأیید کنید.",
+    "Whoops! Something went wrong.": "متاسفانه خطایی رخ داده است."
+}

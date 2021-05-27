@@ -1,0 +1,21 @@
+{
+    "A new verification link has been sent to the email address you provided during registration.": "Испратен е нов линк за потврда до e-mail адресата што ја внесовте при регистрацијата.",
+    "Already registered?": "Веќе сте регистрирани?",
+    "Confirm": "Потврди",
+    "Confirm Password": "Потврди ја лозинката",
+    "Dashboard": "Контролна табла",
+    "Email": "Е-маил",
+    "Email Password Reset Link": "Линк за ресетирање на лозинка по e-пошта",
+    "Forgot your password?": "Ја заборави лозинката?",
+    "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "Ја заборави лозинката? Нема проблем. Само кажете ни ја вашата e-mail адреса и ќе ви испратиме линк за ресетирање на лозинката што ќе ви овозможи да изберете нова.",
+    "Log in": "Најави се",
+    "Name": "Име",
+    "Password": "Лозинка",
+    "Register": "Регистрирај се",
+    "Remember me": "Запомни ме",
+    "Resend Verification Email": "Испрати повторно e-mail за верификација",
+    "Reset Password": "Ресетирај лозинка",
+    "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.": "Ви благодариме за пријавувањето! Пред да започнете, дали би можеле да ја потврдите вашата e-mail адреса со кликнување на линкот што ви го испративме преку e-mail порака? Ако не сте ја добиле e-mail пораката, со задоволство ќе ви испратиме друга.",
+    "This is a secure area of the application. Please confirm your password before continuing.": "Ова е заштитена област на апликацијата. Ве молиме потврдете ја вашата лозинка пред да продолжите.",
+    "Whoops! Something went wrong.": "Упс! Нешто не беше во ред."
+}

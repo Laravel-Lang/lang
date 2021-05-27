@@ -1,0 +1,21 @@
+{
+    "A new verification link has been sent to the email address you provided during registration.": "Шинэ шалгах холбоос бүртгэлийн явцад та өгсөн и-мэйл хаяг руу илгээсэн байна.",
+    "Already registered?": "Аль хэдийн бүртгэгдсэн?",
+    "Confirm": "Баталгаажуул",
+    "Confirm Password": "Нууц Үгээ Баталгаажуул",
+    "Dashboard": "Самбар",
+    "Email": "И-мэйл хаяг",
+    "Email Password Reset Link": "И-Мэйл Хаяг Нууц Үг Нь Дахин Эхлүүлэх Холбоос",
+    "Forgot your password?": "Нууц үгээ мартсан уу?",
+    "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "Нууц үгээ мартсан уу? Ямар ч асуудал. Зүгээр л АНУ-ын таны и-мэйл хаягийг мэдэгдээрэй, Бид та шинэ нэгийг нь сонгох боломжийг олгоно гэсэн нууц үг нь дахин эхлүүлэх холбоос И-мэйл болно.",
+    "Log in": "Нэвтрэх",
+    "Name": "Нэр",
+    "Password": "Нууц үг",
+    "Register": "Бүртгүүлэх",
+    "Remember me": "Намайг сана",
+    "Resend Verification Email": "Дахин Илгээх Шалгах И-Мэйл Хаяг",
+    "Reset Password": "Дахин Тохируулах Нууц Үг",
+    "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.": "Дээр гарын үсэг зурах баярлалаа! Эхлэхэд өмнө, та бид зүгээр л та и-мэйлээр холбоос дээр дарж таны и-мэйл хаягаа шалгаж болох? Хэрэв та и-мэйл хүлээн аваагүй бол, бид таныг баяртайгаар өөр илгээх болно.",
+    "This is a secure area of the application. Please confirm your password before continuing.": "Энэ програм нь аюулгүй газар юм. Цааш үргэлжлүүлэхээсээ өмнө нууц үгээ баталгаажуулна уу.",
+    "Whoops! Something went wrong.": "Өө! Хэрэв ямар нэг юм буруутвал."
+}

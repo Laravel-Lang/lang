@@ -1,0 +1,21 @@
+{
+    "A new verification link has been sent to the email address you provided during registration.": "Ro'yxatga olish paytida taqdim etilgan elektron pochta manziliga yangi tekshirish havolasi yuborildi.",
+    "Already registered?": "Allaqachon ro'yxatdan o'tgan?",
+    "Confirm": "Tasdiqlayman",
+    "Confirm Password": "Parolni Tasdiqlang",
+    "Dashboard": "Dashboard",
+    "Email": "E-pochta",
+    "Email Password Reset Link": "Email Parolni Tiklash Link",
+    "Forgot your password?": "Parolingizni unutdingizmi?",
+    "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "Parolingizni unutdingizmi? Hech qanday muammo. Faqat bizga elektron pochta manzilini xabar bering va biz sizga yangi tanlash imkonini beradi parol reset link elektron pochta qiladi.",
+    "Log in": "Kirishinkyu. com. ve",
+    "Name": "Nomlash",
+    "Password": "Parolini",
+    "Register": "Ro'yxatdan o'tish",
+    "Remember me": "Esla meni",
+    "Resend Verification Email": "Resend Tekshirish Email",
+    "Reset Password": "Parolni Tiklash",
+    "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.": "Ro'yhatdan uchun rahmat! Ishga oldin, agar biz faqat sizga yuboriladi ulanishni bosgan elektron pochta manzilini tekshirish mumkin? Agar elektron pochta qabul qilmagan bo'lsa, biz mamnuniyat bilan sizga boshqa yuboradi.",
+    "This is a secure area of the application. Please confirm your password before continuing.": "Bu dasturning xavfsiz maydoni. Davom ettirishdan oldin parolingizni tasdiqlang.",
+    "Whoops! Something went wrong.": "Whoops! Nimadir noto'g'ri ketdi."
+}

@@ -1,0 +1,21 @@
+{
+    "A new verification link has been sent to the email address you provided during registration.": "Egy új ellenőrző linket küldtek a regisztráció során megadott e-mail címre.",
+    "Already registered?": "Már regisztrált?",
+    "Confirm": "Megerősítés",
+    "Confirm Password": "Jelszó megerősítése",
+    "Dashboard": "Műszerfal",
+    "Email": "E-mail",
+    "Email Password Reset Link": "E-Mail Jelszó Visszaállítása Link",
+    "Forgot your password?": "Elfelejtette a jelszavát?",
+    "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "Elfelejtette a jelszavát? Semmi baj. Csak tudassa velünk az e-mail címét, majd e-mailben egy jelszó-visszaállítási linket, amely lehetővé teszi, hogy válasszon egy újat.",
+    "Log in": "Bejelentkezés",
+    "Name": "Név",
+    "Password": "Jelszó",
+    "Register": "Regisztráció",
+    "Remember me": "Emlékezz rám",
+    "Resend Verification Email": "Ellenőrző E-Mail Újraküldése",
+    "Reset Password": "Jelszó helyreállítás",
+    "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.": "Köszönjük, hogy feliratkozott! Mielőtt elkezdené, tudná ellenőrizni az e-mail címét, ha rákattint a linkre, amelyet csak e-mailben küldtünk Önnek? Ha nem kapta meg az e-mailt, örömmel küldünk Önnek egy másikat.",
+    "This is a secure area of the application. Please confirm your password before continuing.": "Ez az alkalmazás biztonságos területe. Kérjük, erősítse meg jelszavát, mielőtt folytatná.",
+    "Whoops! Something went wrong.": "Hoppá! Valami rosszul sült el."
+}

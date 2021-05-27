@@ -1,0 +1,21 @@
+{
+    "A new verification link has been sent to the email address you provided during registration.": "En ny verifieringslänk har skickats till den e-postadress du angav vid registreringen.",
+    "Already registered?": "Redan registrerad?",
+    "Confirm": "Bekräfta",
+    "Confirm Password": "Bekräfta lösenordet",
+    "Dashboard": "Instrumentpanel",
+    "Email": "E-post",
+    "Email Password Reset Link": "Skicka återställningslänk",
+    "Forgot your password?": "Glömt ditt lösenord?",
+    "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "Glömt ditt lösenord? Inga problem. Ange din e-post adress så skickar vi en återställningslänk.",
+    "Log in": "Inloggning",
+    "Name": "Namn",
+    "Password": "Lösenord",
+    "Register": "Registrera",
+    "Remember me": "Kom ihåg mig",
+    "Resend Verification Email": "Skicka Verifieringsmeddelande Igen",
+    "Reset Password": "Återställ lösenordet",
+    "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.": "Tack för att du anmälde dig! Innan du börjar, kan du verifiera din e-postadress genom att klicka på länken vi just mailade till dig? Om du inte fick e-postmeddelandet skickar vi gärna en annan.",
+    "This is a secure area of the application. Please confirm your password before continuing.": "Detta är ett säkert område av ansökan. Bekräfta ditt lösenord innan du fortsätter.",
+    "Whoops! Something went wrong.": "Oops! Något gick fel."
+}

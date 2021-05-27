@@ -1,0 +1,21 @@
+{
+    "A new verification link has been sent to the email address you provided during registration.": "Yeni yoxlama linki qeydiyyatdan keçərkən göstərdiyiniz e-poçt ünvanına göndərildi.",
+    "Already registered?": "Artıq yoxlanılır?",
+    "Confirm": "Təsdiq",
+    "Confirm Password": "Təsdiq Parol",
+    "Dashboard": "Tablosuna",
+    "Email": "E-poçt",
+    "Email Password Reset Link": "E-poçt parol sıfırlama link",
+    "Forgot your password?": "Şifrənizi unutmusunuz?",
+    "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "Şifrənizi unutmusunuz? Problemsiz. Yalnız bizə e-poçt ünvanınızı bildirin və biz sizə yeni birini seçməyə imkan verəcək Parolu sıfırlamak üçün bir link göndərəcəyik.",
+    "Log in": "Giriş",
+    "Name": "Ad",
+    "Password": "Şifrə",
+    "Register": "Qeydiyyat",
+    "Remember me": "Məni yadda saxla",
+    "Resend Verification Email": "Yoxlama Məktubunun Yenidən Göndərilməsi",
+    "Reset Password": "parol sıfırlama",
+    "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.": "Qeydiyyatdan keçdiyiniz üçün təşəkkür edirik! Siz başlamaq əvvəl, Biz yalnız e-poçt vasitəsilə göndərilir linki tıklayarak e-poçt ünvanınızı təsdiq edə bilər? Bir məktub almadıysanız, biz məmnuniyyətlə Başqa bir şey göndərəcəyik.",
+    "This is a secure area of the application. Please confirm your password before continuing.": "Bu təhlükəsiz app sahəsi var. Davam etməzdən əvvəl şifrənizi təsdiq edin.",
+    "Whoops! Something went wrong.": "CPS! Bir şey yanlış getdi."
+}

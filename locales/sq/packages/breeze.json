@@ -1,0 +1,21 @@
+{
+    "A new verification link has been sent to the email address you provided during registration.": "Një lidhje e re verifikimi është dërguar në adresën email që ju keni dhënë gjatë regjistrimit.",
+    "Already registered?": "E regjistruar?",
+    "Confirm": "Konfermo",
+    "Confirm Password": "Konfirmo Fjalëkalimin",
+    "Dashboard": "Tabelë",
+    "Email": "Email",
+    "Email Password Reset Link": "Fjalëkalimi Email Nga Fillimi Lidhja",
+    "Forgot your password?": "Harrove fjalëkalimin?",
+    "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "Harrove fjalëkalimin? S'ka problem. Na thuaj adresën tënde email dhe do të të dërgojmë një fjalëkalim me fjalëkalim të ri që do të të lejojë të zgjedhësh një të ri.",
+    "Log in": "Fillo seancën",
+    "Name": "Emri",
+    "Password": "Fjalëkalimi",
+    "Register": "I regjistruar",
+    "Remember me": "Më kujto.",
+    "Resend Verification Email": "Dërgo E-Mail Verifikimi",
+    "Reset Password": "_nga Fillimi Fjalëkalimin",
+    "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.": "Faleminderit që u rregjistrove! Para se të fillonim, mund të verifikonit adresën tuaj email duke klikuar mbi lidhjen që sapo ju dërguam? Nëse nuk e keni marrë e-mailin, ne me kënaqësi do t'ju dërgojmë një tjetër.",
+    "This is a secure area of the application. Please confirm your password before continuing.": "Kjo është zonë e sigurt e aplikimit. Ju lutem konfirmoni fjalëkalimin tuaj para se të vazhdoni.",
+    "Whoops! Something went wrong.": "Ups! Diçka shkoi keq."
+}

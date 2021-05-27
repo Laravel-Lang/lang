@@ -1,0 +1,21 @@
+{
+    "A new verification link has been sent to the email address you provided during registration.": "නව තහවුරු කිරීමේ සබැඳිය වෙත යවා ඇති විද්යුත් තැපැල් ලිපිනය ඔබ සපයන තුළ ලියාපදිංචි.",
+    "Already registered?": "දැනටමත් ලියාපදිංචි?",
+    "Confirm": "තහවුරු",
+    "Confirm Password": "මුරපදය තහවුරු කරන්න",
+    "Dashboard": "උපකරණ පුවරුව",
+    "Email": "ඊ-තැපැල්",
+    "Email Password Reset Link": "ඊ-තැපැල් මුරපදය නැවත සකස් ලින්ක්",
+    "Forgot your password?": "ඔබගේ මුර පදය අමතකද?",
+    "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "ඔබගේ මුර පදය අමතකද? කිසිදු ප්රශ්නයක්. යන්තම් අපට දන්වන්න, ඔබගේ ඊ-තැපැල් ලිපිනය සහ අපි ඔබ ඊ-තැපැල් මුරපදය නැවත සකස් කරන බව සබැඳියක් ඔබ තෝරා ගැනීමට ඉඩ අලුත් එකක්.",
+    "Log in": "වන්න",
+    "Name": "නම",
+    "Password": "මුරපදය",
+    "Register": "ලියාපදිංචි",
+    "Remember me": "මට මතක",
+    "Resend Verification Email": "නැවත භාරදුන් තහවුරු ඊ-තැපැල්",
+    "Reset Password": "මුරපදය යළි පිහිටුවන්න",
+    "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.": "ස්තුතියි අත්සන්! ආරම්භ වීමට පෙර, ඔබ හැකි තහවුරු, ඔබගේ ඊ-තැපැල් ලිපිනය මත ක්ලික් කිරීමෙන්, මෙම සබැඳිය අපි ඔබට ඊ-තැපැල්? ඔබ නම් නෑ, ලැබෙන විද්යුත් තැපෑල, අපි සතුටින් යැවීමට ඔබ තවත්.",
+    "This is a secure area of the application. Please confirm your password before continuing.": "මෙම ආරක්ෂිත ප්රදේශයේ අයදුම් වේ. කරුණාකර තහවුරු කිරීමට පෙර ඔබගේ මුරපදය දිගටම.",
+    "Whoops! Something went wrong.": "ඔබට පෙනීයනු ඇත! යමක් වැරදි ගියේ ය."
+}

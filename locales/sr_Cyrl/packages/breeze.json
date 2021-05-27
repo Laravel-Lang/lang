@@ -1,0 +1,21 @@
+{
+    "A new verification link has been sent to the email address you provided during registration.": "Нови верификациони линк је послат на Вашу е-маил адресу коју сте унели у току регистрације.",
+    "Already registered?": "Већ сте регистровани?",
+    "Confirm": "Потврди",
+    "Confirm Password": "Потврдите лозинку",
+    "Dashboard": "Контролна табла",
+    "Email": "Емаил",
+    "Email Password Reset Link": "Линк ка мејлу за ресет лозинке",
+    "Forgot your password?": "Заборавили сте лозинку?",
+    "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "Заборавили сте лозинку? Нема проблема. Само нам реците Вашу емаил адресу и ми ћемо Вам послати линк за ресет лозинке на Ваш мејл који ће Вам омогућити да изаберете нову лозинку.",
+    "Log in": "Пријавите",
+    "Name": "Име",
+    "Password": "Лозинка",
+    "Register": "Регистрација",
+    "Remember me": "Запамти ме",
+    "Resend Verification Email": "Поново пошаљи верификациони мејл",
+    "Reset Password": "Ресетуј лозинку",
+    "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.": "Хвала што сте се пријавили! Пре него што започнете, да ли бисте могли да потврдите своју адресу е-поште кликом на везу коју смо вам управо послали е-поштом? Ако нисте добили е-пошту, радо ћемо вам послати другу.",
+    "This is a secure area of the application. Please confirm your password before continuing.": "Ово је сигурно подручје апликације. Молимо потврдите лозинку пре него што наставите.",
+    "Whoops! Something went wrong.": "Упс! Нешто није у реду."
+}

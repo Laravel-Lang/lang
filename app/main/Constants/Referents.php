@@ -8,7 +8,9 @@ final class Referents
 
     public const da = ['jensstigaard'];
 
-    public const de = ['WhereIsLucas'];
+    public const de = ['WhereIsLucas', 'sotten'];
+
+    public const de_CH = ['sotten'];
 
     public const es = ['luisprmat'];
 

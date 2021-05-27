@@ -13,6 +13,6 @@
 
 return [
     'failed'   => 'Kirjautuminen epäonnistui.',
-    'password' => 'Annettu salasana on väärä.',
+    'password' => 'The provided password is incorrect.',
     'throttle' => 'Liian monta kirjautumisyritystä. Yritä uudelleen :seconds sekunnin kuluttua.',
 ];

@@ -10,7 +10,6 @@ final class Packages extends Processor
     protected array $packages = [
         'laravel/fortify'   => 'packages/fortify.json',
         'laravel/jetstream' => 'packages/jetstream.json',
-        'laravel/framework' => 'en.json',
     ];
 
     public function run(): void

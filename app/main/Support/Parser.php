@@ -10,7 +10,7 @@ class Parser
 {
     use Makeable;
 
-    protected const REGEX = '/\b(__|trans|lang|Lang\:\:get|fail)\(\r*\s*(.+)\r*\s*(\)|,\s?\[)/U';
+    protected const REGEX = '/\b(__|trans|lang|Lang\:\:get)\(\r*\s*(.+)\r*\s*(\)|,\s?\[)/U';
 
     protected array $files = [];
 
@@ -56,7 +56,7 @@ class Parser
         foreach ($this->match($content) as $match) {
             $value = $match;
 
-            if (Str::contains((string) $value, ['__', 'trans', '@lang', 'Lang::get', '->fail('])) {
+            if (Str::contains((string) $value, ['__', 'trans', '@lang', 'Lang::get'])) {
                 $sub_key = $this->subkey($value);
 
                 $sub_value = $this->keys[$sub_key] ?? null;

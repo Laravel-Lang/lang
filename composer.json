@@ -27,7 +27,6 @@
         "andrey-helldar/support": "^3.16.1",
         "guzzlehttp/guzzle": "^7.3",
         "laravel/fortify": "^1.7",
-        "laravel/framework": "^8.43",
         "laravel/jetstream": "^2.3",
         "phpunit/phpunit": "^9.5",
         "symfony/finder": "^5.2",

@@ -3,7 +3,12 @@
 namespace Tests;
 
 use Helldar\PrettyArray\Services\File;
+use Helldar\Support\Facades\Helpers\Ables\Arrayable;
 use Helldar\Support\Facades\Helpers\Arr;
+use Helldar\Support\Facades\Helpers\Filesystem\Directory;
+use Helldar\Support\Facades\Helpers\Filesystem\File as Filesystem;
+use Helldar\Support\Facades\Helpers\Str;
+use LaravelLang\Lang\Constants\Locales;
 use PHPUnit\Framework\TestCase as BaseTestCase;
 use Tests\Concerns\Messages;
 
@@ -23,11 +28,11 @@ abstract class TestCase extends BaseTestCase
             $custom     = Arr::get($content, 'custom', []);
             $attributes = Arr::get($content, 'attributes', []);
 
-            $content = Arr::except($content, ['custom', 'attributes']);
-
-            $content = Arr::ksort($content);
-
-            return array_merge($content, compact('custom', 'attributes'));
+            return Arrayable::of($content)
+                ->except(['custom', 'attributes'])
+                ->ksort()
+                ->merge(compact('custom', 'attributes'))
+                ->get();
         }
 
         return Arr::ksort($content);
@@ -62,6 +67,16 @@ abstract class TestCase extends BaseTestCase
         $array = Arr::ksort($array);
     }
 
+    protected function files(string $extension): array
+    {
+        return Filesystem::names($this->source_path, static fn ($filename) => str_ends_with($filename, $extension), recursive: true);
+    }
+
+    protected function locales(): array
+    {
+        return Directory::names($this->target_path);
+    }
+
     protected function isValidation(string $filename): bool
     {
         return str_starts_with($filename, 'validation');
@@ -70,5 +85,31 @@ abstract class TestCase extends BaseTestCase
     protected function isInline(string $filename): bool
     {
         return str_contains($filename, 'inline');
+    }
+
+    protected function isMainJson(string $filename): bool
+    {
+        if ($this->isEnglish($filename)) {
+            return true;
+        }
+
+        $locale = Str::before($filename, '.');
+
+        return Directory::exists(__DIR__ . '/../../locales/' . $locale);
+    }
+
+    protected function isEnglish(string $filename): bool
+    {
+        return str_starts_with($filename, Locales::ENGLISH);
+    }
+
+    protected function correctValues(array $items): array
+    {
+        $callback = static fn ($value) => stripslashes($value);
+
+        return Arrayable::of($items)
+            ->map($callback, true)
+            ->renameKeys($callback)
+            ->get();
     }
 }

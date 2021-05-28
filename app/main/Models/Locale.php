@@ -2,6 +2,8 @@
 
 namespace LaravelLang\Lang\Models;
 
+use LaravelLang\Lang\Constants\Machines;
+
 final class Locale extends Model
 {
     public function __construct(
@@ -18,9 +20,11 @@ final class Locale extends Model
     public function getTitle(): ?string
     {
         if (! $this->isEmpty()) {
-            $suffix = $this->getMissing() ? '❗' : '✔';
+            $status = $this->getMissing() ? '❗' : '✔';
 
-            return $this->locale . '&nbsp;' . $suffix;
+            $machine = $this->hasMachine() ? '&nbsp;🤖' : '';
+
+            return $this->locale . '&nbsp;' . $status . $machine;
         }
 
         return null;
@@ -34,5 +38,10 @@ final class Locale extends Model
     public function isEmpty(): bool
     {
         return empty($this->locale);
+    }
+
+    protected function hasMachine(): bool
+    {
+        return in_array($this->locale, Machines::LOCALES, true);
     }
 }

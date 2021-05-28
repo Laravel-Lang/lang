@@ -1,0 +1,13 @@
+{
+    "The :attribute must be at least :length characters and contain at least one number.": "Ang :attribute ay dapat na hindi bababa sa :length character at naglalaman ng hindi bababa sa isang numero.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "Ang :attribute ay dapat hindi kukulangin sa :length karakter at naglalaman ng kahit isang espesyal na karakter at isang numero.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "Ang :attribute ay kailangang hindi kukulang sa :length na karakter at naglalaman ng kahit isang espesyal na karakter.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "Ang :attribute ay kailangang hindi bababa sa :length karakter at naglalaman ng hindi bababa sa isang malaking titik karakter at isang numero.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "Ang :attribute ay dapat na hindi bababa sa :length character at naglalaman ng hindi bababa sa isang uppercase na mga character at isa sa mga espesyal na character.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "Ang :attribute ay dapat hindi kukulangin sa :length na karakter at maglaman ng kahit isang pangunahing karakter, isang numero, at isang espesyal na karakter.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "Ang :attribute ay dapat hindi bababa sa :length karakter at naglalaman ng hindi bababa sa isang malaking titik karakter.",
+    "The :attribute must be at least :length characters.": "Ang :attribute ay dapat na hindi kukulangin sa :length na karakter.",
+    "The provided password does not match your current password.": "Ang ibinigay na password ay hindi tumutugma sa iyong kasalukuyang password.",
+    "The provided password was incorrect.": "Ang ibinigay na password ay hindi tama.",
+    "The provided two factor authentication code was invalid.": "Mga sanggunian [baguhin \/ baguhin ang batayan]"
+}

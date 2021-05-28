@@ -11,15 +11,156 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ### Changed
 
+ * feature: [es] #1760 nova
+
+## [10.0.1] - 2021-05-24
+
+### Changed
+
+ * feature: [ar] #1757 jetstream spark-paddle spark-stripe
+ * feature: [es] #1753 jetstream spark-paddle spark-stripe
+ * feature: [fi] #1758 exclude auth.php cashier fortify jetstream nova spark-paddle spark-stripe validation-inline.php validation.php json file
+ * feature: [fr] cashier jetstream nova spark-paddle spark-stripe
+ * feature: [ru] #1751 cashier jetstream spark-paddle spark-stripe
+ * feature: [vi] #1756 cashier jetstream spark-paddle
+ * feature: [zh_TW] #1754 validation-inline.php json file
+
+### Todo script
+
+ * fix: #1751
+ * feature: #1752 Added dock block to structure splitter file
+
+## [10.0.0] - 2021-05-20
+
+### Changed
+
+ * feature: [de] #1750 json file
+ * feature: [nb] #1747 auth.php pagination.php passwords.php validation-inline.php validation.php json file
+
+### Reference
+
+ * feature: #1748 Split translation keys into Laravel packages
+
+## [9.1.2] - 2021-05-14
+
+### Changed
+
+ * feature: [bn] #1739 #1741 auth.php json file
+ * feature: [de] #1737 json file
+ * feature: [it] #1745 json file
+ * feature: [nb] #1743 #1744 json file
+ * feature: [nl] #1733 json file
+ * feature: [pt_BR] #1746 json file
+ * feature: [vi] #1749 json file
+
+### Todo Script
+
+ * feature: #1738 Added comparison of sub-elements of arrays
+
+## [9.1.1] - 2021-05-02
+
+### Changed
+
+ * feature: [af] json file
+ * feature: [ar] #1730 #1732 json file
+ * feature: [es] #1718 #1727 #1731 json file
+ * feature: [fr] json file
+ * feature: [id] #1722 json file
+ * feature: [it] #1729 json file
+ * feature: [ja] #1736 auth.php pagination.php passwords.php validation-inline.php json exclude files
+ * feature: [ms] #1720 validation.php validation-inline.php
+ * feature: [pt] exclude file
+ * feature: [pt_BR] #1726 json exclude files
+ * feature: [ru] #1721 #1725 json file
+ * feature: [vi] #1723 json file
+
+### Reference
+
+ * feature: [en] #1715 Start of add of Laravel Spark tags
+ * feature: [en] #1717 Add translations for new Password Validation Rule
+
+### Todo Script
+
+ * feature: #1724 Reduced the number of displayed columns
+
+## [9.1.0] - 2021-04-24
+
+### Changed
+
+ * feature: [az] #1627 passwords.php validation.php validation-inline.php json file
+ * feature: [be] #1628 passwords.php validation.php validation-inline.php json file
+ * feature: [bg] #1669 #1712 validation.php validation-inline.php json file
+ * feature: [bn] #1670 passwords.php validation.php validation-inline.php json file
+ * feature: [bs] #1671 validation.php validation-inline.php json file
+ * feature: [ca] #1672 validation.php validation-inline.php json file
+ * feature: [cs] #1673 validation.php validation-inline.php json file
+ * feature: [cy] #1674 passwords.php validation.php validation-inline.php json file
+ * feature: [da] #1675 validation.php validation-inline.php json file
+ * feature: [de] #1708 #1710 validation.php validation-inline.php
+ * feature: [de_CH] #1709 validation.php validation-inline.php
+ * feature: [et] #1679 passwords.php validation.php validation-inline.php json file
+ * feature: [eu] #1680 passwords.php validation.php validation-inline.php json file
+ * feature: [fi] #1682 validation.php validation-inline.php json file
+ * feature: [fr] #1711 json file
+ * feature: [gl] #1683 passwords.php validation.php validation-inline.php json file
+ * feature: [he] #1684 validation.php validation-inline.php json file
+ * feature: [hi] #1685 passwords.php validation.php validation-inline.php json file
+ * feature: [hu] #1687 validation.php validation-inline.php json file
+ * feature: [is] #1690 passwords.php validation.php validation-inline.php json file
+ * feature: [ja] #1631 validation.php validation-inline.php json file
+ * feature: [ka] #1632 validation.php validation-inline.php json file
+ * feature: [kk] #1633 passwords.php validation.php validation-inline.php json file
+ * feature: [kn] #1635 passwords.php validation.php validation-inline.php json file
+ * feature: [lv] #1638 passwords.php validation.php validation-inline.php json file
+ * feature: [mn] #1640 passwords.php validation.php validation-inline.php json file
+ * feature: [mr] #1641 passwords.php validation.php validation-inline.php json file
+ * feature: [ms] #1642 validation.php validation-inline.php json file
+ * feature: [nl] #1644 json file exclude
+ * feature: [sk] #1650 validation.php validation-inline.php json file
+ * feature: [sl] #1651 validation.php validation-inline.php json file
+ * feature: [sq] #1652 validation.php validation-inline.php json file
+ * feature: [sr_Cyrl] #1654 validation.php validation-inline.php json file
+ * feature: [sr_Latn] #1653 validation.php validation-inline.php json file
+ * feature: [sr_Latn_ME] #1655 validation.php validation-inline.php json file
+ * feature: [sw] #1657 passwords.php validation.php validation-inline.php json file
+ * feature: [tg] #1658 passwords.php validation.php validation-inline.php json file
+ * feature: [th] #1659 passwords.php validation.php validation-inline.php json file
+ * feature: [tl] #1660 passwords.php validation.php validation-inline.php json file
+ * feature: [uk] #1662 validation.php validation-inline.php json file
+ * feature: [ur] #1663 passwords.php validation.php validation-inline.php json file
+ * feature: [uz_Cyrl] #1664 validation.php validation-inline.php json file
+ * feature: [uz_Latn] #1665 validation.php validation-inline.php json file
+
+### Todo script
+
+ * feature: #1713 Added the ability to flag machine translation
+
+## [9.0.1] - 2021-04-21
+
+### Changed
+
+ * feature: [af] #1626 validation.php validation-inline.php json file
  * feature: [az] #1694 validation.php
  * feature: [de] #1622 #1623 validation.php validation-inline.php json file
- * feature: [de] #1696 validation.php validation-inline.php json file
- * feature: [de_CH] #1695 validation.php validation-inline.php json file
+ * feature: [de] #1696 #1700 #1705 validation.php validation-inline.php json file
+ * feature: [de_CH] #1695 #1703 #1704 validation.php validation-inline.php json file
+ * feature: [el] #1678 validation.php validation-inline.php json file
  * feature: [fa] #1693 json file
- * feature: [id] #1616 #1621 validation.php validation-inline.php json file
- * feature: [ko] #1608 validation.php validation-inline.php json file
- * feature: [ko] #1636 json file
+ * feature: [hr] #1686 validation.php validation-inline.php json file
+ * feature: [hy] #1688 #1699 json file
+ * feature: [id] #1616 #1621 #1689 validation.php validation-inline.php json file
+ * feature: [km] #1634 #1698 validation.php validation-inline.php json file
+ * feature: [ko] #1608 #1636 validation.php validation-inline.php json file
+ * feature: [lt] #1637 validation.php validation-inline.php json file
+ * feature: [mk] #1639 validation.php validation-inline.php json file
+ * feature: [ne] #1643 validation.php validation-inline.php json file
+ * feature: [pl] #1645 validation.php validation-inline.php json file
  * feature: [pt] #1646 validation.php validation-inline.php json file
+ * feature: [pt_BR] #1647 validation.php validation-inline.php json file
+ * feature: [ro] #1648 validation.php validation-inline.php json file
+ * feature: [si] #1649 validation.php validation-inline.php json file
+ * feature: [sv] #1656 validation.php validation-inline.php json file
+ * feature: [tr] #1697 validation.php validation-inline.php json file
  * feature: [vi] #1617 #1624 validation.php validation-inline.php json file
  * feature: [zh_CN] #1666 validation.php validation-inline.php json file
  * feature: [zh_HK] #1667 validation.php validation-inline.php json file
@@ -340,7 +481,13 @@ For more information, see #1606 and #1607.
 
 * feature: #1269 Rename locale folders following ISO 15897 format
 
-[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/9.0.0...master
+[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/10.0.1...master
+[10.0.1]: https://github.com/caouecs/Laravel-lang/compare/10.0.0...10.0.1
+[10.0.0]: https://github.com/caouecs/Laravel-lang/compare/9.1.2...10.0.0
+[9.1.2]: https://github.com/caouecs/Laravel-lang/compare/9.1.1...9.1.2
+[9.1.1]: https://github.com/caouecs/Laravel-lang/compare/9.1.0...9.1.1
+[9.1.0]: https://github.com/caouecs/Laravel-lang/compare/9.0.1...9.1.0
+[9.0.1]: https://github.com/caouecs/Laravel-lang/compare/9.0.0...9.0.1
 [9.0.0]: https://github.com/caouecs/Laravel-lang/compare/8.1.3...9.0.0
 [8.1.3]: https://github.com/caouecs/Laravel-lang/compare/8.1.2...8.1.3
 [8.1.2]: https://github.com/caouecs/Laravel-lang/compare/8.1.1...8.1.2

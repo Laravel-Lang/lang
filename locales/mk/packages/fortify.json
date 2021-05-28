@@ -1,0 +1,13 @@
+{
+    "The :attribute must be at least :length characters and contain at least one number.": "Полето :attribute мора да содржи најмалку :length карактери и да содржи најмалку еден број.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "Полето :attribute мора да содржи најмалку :length карактери и да содржи најмалку еден специјален знак и еден број.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "Полето :attribute мора да содржи најмалку :length карактери и да содржи најмалку еден специјален знак.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "Полето :attribute мора да содржи најмалку :length карактери и да содржи најмалку една голема буква и еден број.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "Полето :attribute мора да содржи најмалку :length карактери и да содржи најмалку една голема буква и еден специјален знак.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "Полето :attribute мора да содржи најмалку :length карактери и да содржи најмалку една голема буква, еден број, и еден специјален знак.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "Полето :attribute мора да содржи најмалку :length карактери и да содржи најмалку една голема буква.",
+    "The :attribute must be at least :length characters.": "Полето :attribute мора да содржи најмалку :length карактери.",
+    "The provided password does not match your current password.": "Внесената лозинка не се совпаѓа со вашата тековна лозинка.",
+    "The provided password was incorrect.": "Внесената лозинка не беше точна.",
+    "The provided two factor authentication code was invalid.": "Внесениот код за дуо фактор (two factor) автентикација е невалиден."
+}

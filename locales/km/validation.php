@@ -12,7 +12,7 @@
 */
 
 return [
-    'accepted'             => ':attribute ត្រូវបានទទួលយក។',
+    'accepted'             => ':attribute ត្រូវតែត្រូវបានទទួលយក។',
     'active_url'           => ':attribute មិនមែនជា URL ត្រឹមត្រូវឡើយ។',
     'after'                => ':attribute ត្រូវតែមានកាលបរិច្ឆេទបន្ទាប់ពី :date។',
     'after_or_equal'       => ':attribute ត្រូវតែជាកាលបរិច្ឆេទ ក្រោយឬស្មើ :date។',
@@ -20,7 +20,7 @@ return [
     'alpha_dash'           => ':attribute អាចមានតែអក្សរ លេខ និងសហសញ្ញា(-)។',
     'alpha_num'            => ':attribute អាចមានតែអក្សរ និងលេខ។',
     'array'                => ':attribute ត្រូវតែជា សំណុំ។',
-    'attached'             => 'This :attribute is already attached.',
+    'attached'             => ':attribute ត្រូវបានភ្ជាប់រួចទៅហើយ។',
     'before'               => ':attribute ត្រូវតែមានកាលបរិច្ឆេទមុន :date។',
     'before_or_equal'      => ':attribute ត្រូវតែជាកាលបរិច្ឆេទ មុនឬស្មើ :date។',
     'between'              => [
@@ -29,10 +29,10 @@ return [
         'numeric' => ':attribute ត្រូវតែមានរវាង :min និង :max។',
         'string'  => ':attribute ត្រូវតែមានរវាង :min និង :max តួអក្សរ។',
     ],
-    'boolean'              => ':attribute ត្រូវតែជា true ឬ false',
+    'boolean'              => ':attribute ត្រូវតែជា ពិត ឬ មិនពិត',
     'confirmed'            => ':attribute ការបញ្ជាក់មិនផ្គូរផ្គង។',
     'date'                 => ':attribute គឺមិនមែនជាកាលបរិច្ឆេទត្រឹមត្រូវ។',
-    'date_equals'          => ':attribute ត្រូវតែជាកាលបរិច្ឆេទស្មើនឹង :date.',
+    'date_equals'          => ':attribute ត្រូវតែជាកាលបរិច្ឆេទស្មើនឹង :date។',
     'date_format'          => ':attribute មិនត្រឹមត្រូវនឹងទម្រង់ :format នេះ។',
     'different'            => ':attribute និង :other ត្រូវតែបញ្ជាក់។',
     'digits'               => ':attribute ត្រូវជាខ្ទង់ :digits។',
@@ -53,7 +53,7 @@ return [
     'gte'                  => [
         'array'   => ':attribute ត្រូវមានចំនួន :value ឬច្រើនជាង។',
         'file'    => ':attribute ត្រូវតែធំជាងឬស្មើ :value គីឡូបៃ។',
-        'numeric' => ':attribute ត្រូវតែធំជាងឬស្មើ :value.',
+        'numeric' => ':attribute ត្រូវតែធំជាងឬស្មើ :value។',
         'string'  => ':attribute ត្រូវតែធំជាងឬស្មើ :value តួអក្សរ។',
     ],
     'image'                => ':attribute ត្រូវតៃជារូបភាព។',
@@ -67,13 +67,13 @@ return [
     'lt'                   => [
         'array'   => ':attribute ត្រូវតែមានចំនួនតិចជាង :value។',
         'file'    => ':attribute ត្រូវតែតិចជាង :value គីឡូបៃ។',
-        'numeric' => ':attribute ត្រូវតែតិចជាង :value.',
+        'numeric' => ':attribute ត្រូវតែតិចជាង :value។',
         'string'  => ':attribute ត្រូវតែតិចជាង :value តួអក្សរ។',
     ],
     'lte'                  => [
         'array'   => ':attribute ត្រូវមានចំនួនតិចជាង :value។',
         'file'    => ':attribute ត្រូវតែតិចជាងឬស្មើ :value គីឡូបៃ។',
-        'numeric' => ':attribute ត្រូវតែតិចជាងឬស្មើ :value.',
+        'numeric' => ':attribute ត្រូវតែតិចជាងឬស្មើ :value។',
         'string'  => ':attribute ត្រូវតែតិចជាងឬស្មើ :value តួអក្សរ។',
     ],
     'max'                  => [
@@ -82,8 +82,8 @@ return [
         'numeric' => ':attribute មិនត្រូវធំជាង :max។',
         'string'  => ':attribute មិនត្រូវធំជាង :max តួអក្សរ។',
     ],
-    'mimes'                => ':attribute ត្រូវតែជាប្រភេទឯកសារ type: :values នេះ។',
-    'mimetypes'            => ':attribute ត្រូវតែជាប្រភេទឯកសារ type: :values នេះ។',
+    'mimes'                => ':attribute ត្រូវតែជាប្រភេទឯកសារប្រភេទ: :values នេះ។',
+    'mimetypes'            => ':attribute ត្រូវតែជាប្រភេទឯកសារប្រភេទ: :values នេះ។',
     'min'                  => [
         'array'   => ':attribute ត្រូវតែតិចជាងធាតុនេះ :min។',
         'file'    => ':attribute ត្រូវតៃតួចជាង :min គីឡូបៃ។',
@@ -96,11 +96,11 @@ return [
     'numeric'              => ':attribute ត្រូវតែជាលេខ។',
     'password'             => 'ពាក្យសម្ងាត់មិនត្រឺមត្រូវ។',
     'present'              => ':attribute ត្រូវតែមាន។',
-    'prohibited'           => 'The :attribute field is prohibited.',
-    'prohibited_if'        => 'The :attribute field is prohibited when :other is :value.',
-    'prohibited_unless'    => 'The :attribute field is prohibited unless :other is in :values.',
+    'prohibited'           => ':attribute នេះត្រូវហាមឃាត់។',
+    'prohibited_if'        => ':attribute នេះត្រូវហាមឃាត់នៅពេលដែល :other គឺ :value។',
+    'prohibited_unless'    => ':attribute នេះត្រូវហាមឃាត់លុះត្រា :other គឺនៅក្នុង :values។',
     'regex'                => ':attribute ទម្រង់មិនត្រឹមត្រូវ។',
-    'relatable'            => 'This :attribute may not be associated with this resource.',
+    'relatable'            => ':attribute មិនអាចត្រូវបានភ្ជាប់ជាមួយនឹងធនធាននេះ។',
     'required'             => ':attribute នេះគឺទាមទារឲ្យមាន។',
     'required_if'          => ':attribute នេះគឺទាមទារនៅពេល :other គឺ :value។',
     'required_unless'      => ':attribute នេះគឺទាមទារនៅពេល :other មិនមែន :values។',

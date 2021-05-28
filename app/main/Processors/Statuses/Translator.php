@@ -39,9 +39,7 @@ final class Translator extends Processor
     {
         $target_path = $this->getLocalePath($locale) . '/' . $filename;
 
-        $source_filename = $this->isJson($filename) ? 'en.json' : $filename;
-
-        $source = $this->source($source_filename);
+        $source = $this->source($filename);
         $target = $this->target($locale, $filename);
 
         $target = array_merge($target, $items);
@@ -94,6 +92,10 @@ final class Translator extends Processor
 
     protected function restoreFilename(string $locale, string $filename): string
     {
-        return $this->isJson($filename) ? $locale . '.json' : $filename . '.php';
+        return match (true) {
+            $this->isMainJson($filename) => $locale . '.json',
+            $this->isJson($filename) => $filename . '.json',
+            default => $filename . '.php',
+        };
     }
 }

@@ -2,47 +2,32 @@
 
 # af
 
-##### All missed: 436
+##### All missed: 109
 
 
-### validation-inline
+### [af](https://github.com/Laravel-Lang/lang/blob/master/locales/af/af.json)
 
 ##### Missing: 5
 
 <table >
 <tr><td align="left" >
-attached
-</td>
-<td align="left" >
-This field is already attached.
+The :attribute must contain at least one letter.
 </td>
 </tr>
 <tr><td align="left" >
-prohibited
-</td>
-<td align="left" >
-This field is prohibited.
+The :attribute must contain at least one number.
 </td>
 </tr>
 <tr><td align="left" >
-prohibited_if
-</td>
-<td align="left" >
-This field is prohibited when :other is :value.
+The :attribute must contain at least one symbol.
 </td>
 </tr>
 <tr><td align="left" >
-prohibited_unless
-</td>
-<td align="left" >
-This field is prohibited unless :other is in :values.
+The :attribute must contain at least one uppercase and one lowercase letter.
 </td>
 </tr>
 <tr><td align="left" >
-relatable
-</td>
-<td align="left" >
-This field may not be associated with this resource.
+The given :attribute has appeared in a data leak. Please choose a different :attribute.
 </td>
 </tr>
 
@@ -51,51 +36,13 @@ This field may not be associated with this resource.
 
 [ [go back](../status.md) | [to top](#) ]
 
-### validation
+### [cashier](https://github.com/Laravel-Lang/lang/blob/master/locales/af/packages/cashier.json)
 
-##### Missing: 6
+##### Missing: 1
 
 <table >
 <tr><td align="left" >
-attached
-</td>
-<td align="left" >
-This :attribute is already attached.
-</td>
-</tr>
-<tr><td align="left" >
-multiple_of
-</td>
-<td align="left" >
-The :attribute must be a multiple of :value
-</td>
-</tr>
-<tr><td align="left" >
-prohibited
-</td>
-<td align="left" >
-The :attribute field is prohibited.
-</td>
-</tr>
-<tr><td align="left" >
-prohibited_if
-</td>
-<td align="left" >
-The :attribute field is prohibited when :other is :value.
-</td>
-</tr>
-<tr><td align="left" >
-prohibited_unless
-</td>
-<td align="left" >
-The :attribute field is prohibited unless :other is in :values.
-</td>
-</tr>
-<tr><td align="left" >
-relatable
-</td>
-<td align="left" >
-This :attribute may not be associated with this resource.
+Jane Doe
 </td>
 </tr>
 
@@ -104,1709 +51,454 @@ This :attribute may not be associated with this resource.
 
 [ [go back](../status.md) | [to top](#) ]
 
-### json
+### [jetstream](https://github.com/Laravel-Lang/lang/blob/master/locales/af/packages/jetstream.json)
 
-##### Missing: 425
+##### Missing: 1
 
 <table >
 <tr><td align="left" >
-30 Days
+You may accept this invitation by clicking the button below:
 </td>
 </tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [nova](https://github.com/Laravel-Lang/lang/blob/master/locales/af/packages/nova.json)
+
+##### Missing: 1
+
+<table >
 <tr><td align="left" >
-60 Days
+Standalone Actions
 </td>
 </tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [spark-paddle](https://github.com/Laravel-Lang/lang/blob/master/locales/af/packages/spark-paddle.json)
+
+##### Missing: 31
+
+<table >
 <tr><td align="left" >
-90 Days
+An unexpected error occurred and we have notified our support team. Please try again later.
 </td>
 </tr>
 <tr><td align="left" >
-:amount Total
+Billing Management
 </td>
 </tr>
 <tr><td align="left" >
-:resource Details
+Cancel Subscription
 </td>
 </tr>
 <tr><td align="left" >
-:resource Details: :title
+Change Subscription Plan
 </td>
 </tr>
 <tr><td align="left" >
-Action
+Current Subscription Plan
 </td>
 </tr>
 <tr><td align="left" >
-Action Happened At
+Currently Subscribed
 </td>
 </tr>
 <tr><td align="left" >
-Action Initiated By
+Having second thoughts about cancelling your subscription? You can instantly reactive your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
 </td>
 </tr>
 <tr><td align="left" >
-Action Name
+It looks like you do not have an active subscription. You may choose one of the subscription plans below to get started. Subscription plans may be changed or cancelled at your convenience.
 </td>
 </tr>
 <tr><td align="left" >
-Action Status
+Managing billing for :billableName
 </td>
 </tr>
 <tr><td align="left" >
-Action Target
+Monthly
 </td>
 </tr>
 <tr><td align="left" >
-Actions
+Nevermind, I'll keep my old plan
 </td>
 </tr>
 <tr><td align="left" >
-Add row
+Our billing management portal allows you to conveniently manage your subscription plan, payment method, and download your recent invoices.
 </td>
 </tr>
 <tr><td align="left" >
-Afghanistan
+Payment Method
 </td>
 </tr>
 <tr><td align="left" >
-Aland Islands
+Receipts
 </td>
 </tr>
 <tr><td align="left" >
-Albania
+Resume Subscription
 </td>
 </tr>
 <tr><td align="left" >
-Algeria
+Return to :appName
 </td>
 </tr>
 <tr><td align="left" >
-All resources loaded.
+Signed in as
 </td>
 </tr>
 <tr><td align="left" >
-American Samoa
+Subscribe
 </td>
 </tr>
 <tr><td align="left" >
-An error occured while uploading the file.
+Subscription Pending
 </td>
 </tr>
 <tr><td align="left" >
-Andorra
+The selected plan is invalid.
 </td>
 </tr>
 <tr><td align="left" >
-Angola
+There is no active subscription.
 </td>
 </tr>
 <tr><td align="left" >
-Anguilla
+This account does not have an active subscription.
 </td>
 </tr>
 <tr><td align="left" >
-Another user has updated this resource since this page was loaded. Please refresh the page and try again.
+This subscription cannot be resumed. Please create a new subscription.
 </td>
 </tr>
 <tr><td align="left" >
-Antarctica
+Update Payment Method
 </td>
 </tr>
 <tr><td align="left" >
-Antigua And Barbuda
+View Receipt
 </td>
 </tr>
 <tr><td align="left" >
-API Tokens
+We are processing your subscription. Once the subscription has successfully processed, this page will update automatically. Typically, this process should only take a few seconds.
 </td>
 </tr>
 <tr><td align="left" >
-April
+Yearly
 </td>
 </tr>
 <tr><td align="left" >
-Are you sure you want to delete the selected resources?
+You are already subscribed.
 </td>
 </tr>
 <tr><td align="left" >
-Are you sure you want to delete this file?
+You may cancel your subscription at any time. Once your subscription has been cancelled, you will have the option to resume the subscription until the end of your current billing cycle.
 </td>
 </tr>
 <tr><td align="left" >
-Are you sure you want to delete this resource?
+Your current payment method is :paypal.
 </td>
 </tr>
 <tr><td align="left" >
-Are you sure you want to detach the selected resources?
+Your current payment method is a credit card ending in :lastFour that expires on :expiration.
 </td>
 </tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [spark-stripe](https://github.com/Laravel-Lang/lang/blob/master/locales/af/packages/spark-stripe.json)
+
+##### Missing: 70
+
+<table >
 <tr><td align="left" >
-Are you sure you want to detach this resource?
+:days day trial
 </td>
 </tr>
 <tr><td align="left" >
-Are you sure you want to force delete the selected resources?
+Add VAT Number
 </td>
 </tr>
 <tr><td align="left" >
-Are you sure you want to force delete this resource?
+Address
 </td>
 </tr>
 <tr><td align="left" >
-Are you sure you want to restore the selected resources?
+Address Line 2
 </td>
 </tr>
 <tr><td align="left" >
-Are you sure you want to restore this resource?
+An unexpected error occurred and we have notified our support team. Please try again later.
 </td>
 </tr>
 <tr><td align="left" >
-Are you sure you want to run this action?
+Apply
 </td>
 </tr>
 <tr><td align="left" >
-Argentina
+Apply Coupon
 </td>
 </tr>
 <tr><td align="left" >
-Armenia
+Billing Information
 </td>
 </tr>
 <tr><td align="left" >
-Aruba
+Billing Management
 </td>
 </tr>
 <tr><td align="left" >
-Attach
+Cancel Subscription
 </td>
 </tr>
 <tr><td align="left" >
-Attach & Attach Another
+Change Subscription Plan
 </td>
 </tr>
 <tr><td align="left" >
-Attach :resource
+City
 </td>
 </tr>
 <tr><td align="left" >
-August
+Country
 </td>
 </tr>
 <tr><td align="left" >
-Australia
+Coupon
 </td>
 </tr>
 <tr><td align="left" >
-Austria
+Current Subscription Plan
 </td>
 </tr>
 <tr><td align="left" >
-Azerbaijan
+Currently Subscribed
 </td>
 </tr>
 <tr><td align="left" >
-Bahamas
+Download Receipt
 </td>
 </tr>
 <tr><td align="left" >
-Bahrain
+Email Addresses
 </td>
 </tr>
 <tr><td align="left" >
-Bangladesh
+ex VAT
 </td>
 </tr>
 <tr><td align="left" >
-Barbados
+Extra Billing Information
 </td>
 </tr>
 <tr><td align="left" >
-Belarus
+Have a coupon code?
 </td>
 </tr>
 <tr><td align="left" >
-Belgium
+Having second thoughts about cancelling your subscription? You can instantly reactive your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
 </td>
 </tr>
 <tr><td align="left" >
-Belize
+I accept the terms of service
 </td>
 </tr>
 <tr><td align="left" >
-Benin
+If you need to add specific contact or tax information to your receipts, like your full business name, VAT identification number, or address of record, you may add it here.
 </td>
 </tr>
 <tr><td align="left" >
-Bermuda
+It looks like you do not have an active subscription. You may choose one of the subscription plans below to get started. Subscription plans may be changed or cancelled at your convenience.
 </td>
 </tr>
 <tr><td align="left" >
-Bhutan
+Managing billing for :billableName
 </td>
 </tr>
 <tr><td align="left" >
-Bolivia
+Micronesia, Federated States of
 </td>
 </tr>
 <tr><td align="left" >
-Bonaire, Sint Eustatius and Saba
+Monthly
 </td>
 </tr>
 <tr><td align="left" >
-Bosnia And Herzegovina
+monthly
 </td>
 </tr>
 <tr><td align="left" >
-Botswana
+Netherlands Antilles
 </td>
 </tr>
 <tr><td align="left" >
-Bouvet Island
+Nevermind, I'll keep my old plan
 </td>
 </tr>
 <tr><td align="left" >
-Brazil
+Our billing management portal allows you to conveniently manage your subscription plan, payment method, and download your recent invoices.
 </td>
 </tr>
 <tr><td align="left" >
-British Indian Ocean Territory
+Payment Information
 </td>
 </tr>
 <tr><td align="left" >
-Bulgaria
+Please accept the terms of service.
 </td>
 </tr>
 <tr><td align="left" >
-Burkina Faso
+Please provide a maximum of three receipt emails addresses.
 </td>
 </tr>
 <tr><td align="left" >
-Burundi
+Receipt Email Addresses
 </td>
 </tr>
 <tr><td align="left" >
-Cambodia
+Receipts
 </td>
 </tr>
 <tr><td align="left" >
-Cameroon
+Resume Subscription
 </td>
 </tr>
 <tr><td align="left" >
-Canada
+Return to :appName
 </td>
 </tr>
 <tr><td align="left" >
-Cancel
+Select
 </td>
 </tr>
 <tr><td align="left" >
-Cape Verde
+Select a different plan
 </td>
 </tr>
 <tr><td align="left" >
-Card
+Signed in as
 </td>
 </tr>
 <tr><td align="left" >
-Cayman Islands
+State / County
 </td>
 </tr>
 <tr><td align="left" >
-Central African Republic
+Subscribe
 </td>
 </tr>
 <tr><td align="left" >
-Chad
+Subscription Information
 </td>
 </tr>
 <tr><td align="left" >
-Changes
+Svalbard and Jan Mayen
 </td>
 </tr>
 <tr><td align="left" >
-Chile
+Thanks for your continued support. We've attached a copy of your invoice for your records. Please let us know if you have any questions or concerns.
 </td>
 </tr>
 <tr><td align="left" >
-China
+Thanks,
 </td>
 </tr>
 <tr><td align="left" >
-Choose
+The provided coupon code is invalid.
 </td>
 </tr>
 <tr><td align="left" >
-Choose :field
+The provided VAT number is invalid.
 </td>
 </tr>
 <tr><td align="left" >
-Choose :resource
+The receipt emails must be valid email addresses.
 </td>
 </tr>
 <tr><td align="left" >
-Choose an option
+The selected country is invalid.
 </td>
 </tr>
 <tr><td align="left" >
-Choose date
+The selected plan is invalid.
 </td>
 </tr>
 <tr><td align="left" >
-Choose File
+This account does not have an active subscription.
 </td>
 </tr>
 <tr><td align="left" >
-Choose Type
+This subscription has expired and cannot be resumed. Please create a new subscription.
 </td>
 </tr>
 <tr><td align="left" >
-Christmas Island
+Total:
 </td>
 </tr>
 <tr><td align="left" >
-Click to choose
+Trinidad and Tobago
 </td>
 </tr>
 <tr><td align="left" >
-Cocos (Keeling) Islands
+Update Payment Information
 </td>
 </tr>
 <tr><td align="left" >
-Colombia
+VAT Number
 </td>
 </tr>
 <tr><td align="left" >
-Comoros
+We are unable to process your payment. Please contact customer support.
 </td>
 </tr>
 <tr><td align="left" >
-Confirm Payment
+We will send a receipt download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
 </td>
 </tr>
 <tr><td align="left" >
-Confirm your :amount payment
+Yearly
 </td>
 </tr>
 <tr><td align="left" >
-Congo
+You are currently within your free trial period. Your trial will expire on :date.
 </td>
 </tr>
 <tr><td align="left" >
-Congo, Democratic Republic
+You may cancel your subscription at any time. Once your subscription has been cancelled, you will have the option to resume the subscription until the end of your current billing cycle.
 </td>
 </tr>
 <tr><td align="left" >
-Constant
+Your :invoiceName invoice is now available!
 </td>
 </tr>
 <tr><td align="left" >
-Cook Islands
+Your card was declined. Please contact your card issuer for more information.
 </td>
 </tr>
 <tr><td align="left" >
-Costa Rica
+Your current payment method is a credit card ending in :lastFour that expires on :expiration.
 </td>
 </tr>
 <tr><td align="left" >
-could not be found.
+Your registered VAT Number is :vatNumber.
 </td>
 </tr>
 <tr><td align="left" >
-Create & Add Another
+Zip / Postal Code
 </td>
 </tr>
 <tr><td align="left" >
-Create :resource
-</td>
-</tr>
-<tr><td align="left" >
-Croatia
-</td>
-</tr>
-<tr><td align="left" >
-Cuba
-</td>
-</tr>
-<tr><td align="left" >
-Curaçao
-</td>
-</tr>
-<tr><td align="left" >
-Customize
-</td>
-</tr>
-<tr><td align="left" >
-Cyprus
-</td>
-</tr>
-<tr><td align="left" >
-Czech Republic
-</td>
-</tr>
-<tr><td align="left" >
-December
-</td>
-</tr>
-<tr><td align="left" >
-Decrease
-</td>
-</tr>
-<tr><td align="left" >
-Delete File
-</td>
-</tr>
-<tr><td align="left" >
-Delete Resource
-</td>
-</tr>
-<tr><td align="left" >
-Delete Selected
-</td>
-</tr>
-<tr><td align="left" >
-Denmark
-</td>
-</tr>
-<tr><td align="left" >
-Detach
-</td>
-</tr>
-<tr><td align="left" >
-Detach Resource
-</td>
-</tr>
-<tr><td align="left" >
-Detach Selected
-</td>
-</tr>
-<tr><td align="left" >
-Details
-</td>
-</tr>
-<tr><td align="left" >
-Djibouti
-</td>
-</tr>
-<tr><td align="left" >
-Do you really want to leave? You have unsaved changes.
-</td>
-</tr>
-<tr><td align="left" >
-Dominica
-</td>
-</tr>
-<tr><td align="left" >
-Dominican Republic
-</td>
-</tr>
-<tr><td align="left" >
-Download
-</td>
-</tr>
-<tr><td align="left" >
-Ecuador
-</td>
-</tr>
-<tr><td align="left" >
-Edit
-</td>
-</tr>
-<tr><td align="left" >
-Edit :resource
-</td>
-</tr>
-<tr><td align="left" >
-Edit Attached
-</td>
-</tr>
-<tr><td align="left" >
-Egypt
-</td>
-</tr>
-<tr><td align="left" >
-El Salvador
-</td>
-</tr>
-<tr><td align="left" >
-Email Address
-</td>
-</tr>
-<tr><td align="left" >
-Equatorial Guinea
-</td>
-</tr>
-<tr><td align="left" >
-Eritrea
-</td>
-</tr>
-<tr><td align="left" >
-Estonia
-</td>
-</tr>
-<tr><td align="left" >
-Ethiopia
-</td>
-</tr>
-<tr><td align="left" >
-Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below.
-</td>
-</tr>
-<tr><td align="left" >
-Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below.
-</td>
-</tr>
-<tr><td align="left" >
-Falkland Islands (Malvinas)
-</td>
-</tr>
-<tr><td align="left" >
-Faroe Islands
-</td>
-</tr>
-<tr><td align="left" >
-February
-</td>
-</tr>
-<tr><td align="left" >
-Fiji
-</td>
-</tr>
-<tr><td align="left" >
-Finland
-</td>
-</tr>
-<tr><td align="left" >
-Force Delete
-</td>
-</tr>
-<tr><td align="left" >
-Force Delete Resource
-</td>
-</tr>
-<tr><td align="left" >
-Force Delete Selected
-</td>
-</tr>
-<tr><td align="left" >
-France
-</td>
-</tr>
-<tr><td align="left" >
-French Guiana
-</td>
-</tr>
-<tr><td align="left" >
-French Polynesia
-</td>
-</tr>
-<tr><td align="left" >
-French Southern Territories
-</td>
-</tr>
-<tr><td align="left" >
-Full name
-</td>
-</tr>
-<tr><td align="left" >
-Gabon
-</td>
-</tr>
-<tr><td align="left" >
-Gambia
-</td>
-</tr>
-<tr><td align="left" >
-Georgia
-</td>
-</tr>
-<tr><td align="left" >
-Germany
-</td>
-</tr>
-<tr><td align="left" >
-Ghana
-</td>
-</tr>
-<tr><td align="left" >
-Gibraltar
-</td>
-</tr>
-<tr><td align="left" >
-Go back
-</td>
-</tr>
-<tr><td align="left" >
-Greece
-</td>
-</tr>
-<tr><td align="left" >
-Greenland
-</td>
-</tr>
-<tr><td align="left" >
-Grenada
-</td>
-</tr>
-<tr><td align="left" >
-Guadeloupe
-</td>
-</tr>
-<tr><td align="left" >
-Guam
-</td>
-</tr>
-<tr><td align="left" >
-Guatemala
-</td>
-</tr>
-<tr><td align="left" >
-Guernsey
-</td>
-</tr>
-<tr><td align="left" >
-Guinea
-</td>
-</tr>
-<tr><td align="left" >
-Guinea-Bissau
-</td>
-</tr>
-<tr><td align="left" >
-Guyana
-</td>
-</tr>
-<tr><td align="left" >
-Haiti
-</td>
-</tr>
-<tr><td align="left" >
-Heard Island & Mcdonald Islands
-</td>
-</tr>
-<tr><td align="left" >
-Hide Content
-</td>
-</tr>
-<tr><td align="left" >
-Hold Up!
-</td>
-</tr>
-<tr><td align="left" >
-Honduras
-</td>
-</tr>
-<tr><td align="left" >
-Hong Kong
-</td>
-</tr>
-<tr><td align="left" >
-Hungary
-</td>
-</tr>
-<tr><td align="left" >
-Iceland
-</td>
-</tr>
-<tr><td align="left" >
-ID
-</td>
-</tr>
-<tr><td align="left" >
-If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
-</td>
-</tr>
-<tr><td align="left" >
-Increase
-</td>
-</tr>
-<tr><td align="left" >
-India
-</td>
-</tr>
-<tr><td align="left" >
-Indonesia
-</td>
-</tr>
-<tr><td align="left" >
-Iran, Islamic Republic Of
-</td>
-</tr>
-<tr><td align="left" >
-Iraq
-</td>
-</tr>
-<tr><td align="left" >
-Ireland
-</td>
-</tr>
-<tr><td align="left" >
-Isle Of Man
-</td>
-</tr>
-<tr><td align="left" >
-Israel
-</td>
-</tr>
-<tr><td align="left" >
-Italy
-</td>
-</tr>
-<tr><td align="left" >
-Jamaica
-</td>
-</tr>
-<tr><td align="left" >
-January
-</td>
-</tr>
-<tr><td align="left" >
-Japan
-</td>
-</tr>
-<tr><td align="left" >
-Jersey
-</td>
-</tr>
-<tr><td align="left" >
-Jordan
-</td>
-</tr>
-<tr><td align="left" >
-July
-</td>
-</tr>
-<tr><td align="left" >
-June
-</td>
-</tr>
-<tr><td align="left" >
-Kazakhstan
-</td>
-</tr>
-<tr><td align="left" >
-Kenya
-</td>
-</tr>
-<tr><td align="left" >
-Key
-</td>
-</tr>
-<tr><td align="left" >
-Kiribati
-</td>
-</tr>
-<tr><td align="left" >
-Korea
-</td>
-</tr>
-<tr><td align="left" >
-Korea, Democratic People's Republic of
-</td>
-</tr>
-<tr><td align="left" >
-Kosovo
-</td>
-</tr>
-<tr><td align="left" >
-Kuwait
-</td>
-</tr>
-<tr><td align="left" >
-Kyrgyzstan
-</td>
-</tr>
-<tr><td align="left" >
-Lao People's Democratic Republic
-</td>
-</tr>
-<tr><td align="left" >
-Latvia
-</td>
-</tr>
-<tr><td align="left" >
-Lebanon
-</td>
-</tr>
-<tr><td align="left" >
-Lens
-</td>
-</tr>
-<tr><td align="left" >
-Lesotho
-</td>
-</tr>
-<tr><td align="left" >
-Liberia
-</td>
-</tr>
-<tr><td align="left" >
-Libyan Arab Jamahiriya
-</td>
-</tr>
-<tr><td align="left" >
-Liechtenstein
-</td>
-</tr>
-<tr><td align="left" >
-Lithuania
-</td>
-</tr>
-<tr><td align="left" >
-Load :perPage More
-</td>
-</tr>
-<tr><td align="left" >
-Log in
-</td>
-</tr>
-<tr><td align="left" >
-Log out
-</td>
-</tr>
-<tr><td align="left" >
-Log Out
-</td>
-</tr>
-<tr><td align="left" >
-Log Out Other Browser Sessions
-</td>
-</tr>
-<tr><td align="left" >
-Luxembourg
-</td>
-</tr>
-<tr><td align="left" >
-Macao
-</td>
-</tr>
-<tr><td align="left" >
-Macedonia
-</td>
-</tr>
-<tr><td align="left" >
-Madagascar
-</td>
-</tr>
-<tr><td align="left" >
-Malawi
-</td>
-</tr>
-<tr><td align="left" >
-Malaysia
-</td>
-</tr>
-<tr><td align="left" >
-Maldives
-</td>
-</tr>
-<tr><td align="left" >
-Mali
-</td>
-</tr>
-<tr><td align="left" >
-Malta
-</td>
-</tr>
-<tr><td align="left" >
-Manage and log out your active sessions on other browsers and devices.
-</td>
-</tr>
-<tr><td align="left" >
-March
-</td>
-</tr>
-<tr><td align="left" >
-Marshall Islands
-</td>
-</tr>
-<tr><td align="left" >
-Martinique
-</td>
-</tr>
-<tr><td align="left" >
-Mauritania
-</td>
-</tr>
-<tr><td align="left" >
-Mauritius
-</td>
-</tr>
-<tr><td align="left" >
-May
-</td>
-</tr>
-<tr><td align="left" >
-Mayotte
-</td>
-</tr>
-<tr><td align="left" >
-Mexico
-</td>
-</tr>
-<tr><td align="left" >
-Micronesia, Federated States Of
-</td>
-</tr>
-<tr><td align="left" >
-Moldova
-</td>
-</tr>
-<tr><td align="left" >
-Monaco
-</td>
-</tr>
-<tr><td align="left" >
-Mongolia
-</td>
-</tr>
-<tr><td align="left" >
-Montenegro
-</td>
-</tr>
-<tr><td align="left" >
-Month To Date
-</td>
-</tr>
-<tr><td align="left" >
-Montserrat
-</td>
-</tr>
-<tr><td align="left" >
-Morocco
-</td>
-</tr>
-<tr><td align="left" >
-Mozambique
-</td>
-</tr>
-<tr><td align="left" >
-Myanmar
-</td>
-</tr>
-<tr><td align="left" >
-Namibia
-</td>
-</tr>
-<tr><td align="left" >
-Nauru
-</td>
-</tr>
-<tr><td align="left" >
-Nepal
-</td>
-</tr>
-<tr><td align="left" >
-Netherlands
-</td>
-</tr>
-<tr><td align="left" >
-New
-</td>
-</tr>
-<tr><td align="left" >
-New :resource
-</td>
-</tr>
-<tr><td align="left" >
-New Caledonia
-</td>
-</tr>
-<tr><td align="left" >
-New Zealand
-</td>
-</tr>
-<tr><td align="left" >
-Next
-</td>
-</tr>
-<tr><td align="left" >
-Nicaragua
-</td>
-</tr>
-<tr><td align="left" >
-Niger
-</td>
-</tr>
-<tr><td align="left" >
-Nigeria
-</td>
-</tr>
-<tr><td align="left" >
-Niue
-</td>
-</tr>
-<tr><td align="left" >
-No
-</td>
-</tr>
-<tr><td align="left" >
-No :resource matched the given criteria.
-</td>
-</tr>
-<tr><td align="left" >
-No additional information...
-</td>
-</tr>
-<tr><td align="left" >
-No Current Data
-</td>
-</tr>
-<tr><td align="left" >
-No Data
-</td>
-</tr>
-<tr><td align="left" >
-no file selected
-</td>
-</tr>
-<tr><td align="left" >
-No Increase
-</td>
-</tr>
-<tr><td align="left" >
-No Prior Data
-</td>
-</tr>
-<tr><td align="left" >
-No Results Found.
-</td>
-</tr>
-<tr><td align="left" >
-Norfolk Island
-</td>
-</tr>
-<tr><td align="left" >
-Northern Mariana Islands
-</td>
-</tr>
-<tr><td align="left" >
-Norway
-</td>
-</tr>
-<tr><td align="left" >
-Nova User
-</td>
-</tr>
-<tr><td align="left" >
-November
-</td>
-</tr>
-<tr><td align="left" >
-October
-</td>
-</tr>
-<tr><td align="left" >
-Oman
-</td>
-</tr>
-<tr><td align="left" >
-Only Trashed
-</td>
-</tr>
-<tr><td align="left" >
-Original
-</td>
-</tr>
-<tr><td align="left" >
-Pakistan
-</td>
-</tr>
-<tr><td align="left" >
-Palau
-</td>
-</tr>
-<tr><td align="left" >
-Palestinian Territory, Occupied
-</td>
-</tr>
-<tr><td align="left" >
-Panama
-</td>
-</tr>
-<tr><td align="left" >
-Papua New Guinea
-</td>
-</tr>
-<tr><td align="left" >
-Paraguay
-</td>
-</tr>
-<tr><td align="left" >
-Pay :amount
-</td>
-</tr>
-<tr><td align="left" >
-Payment Cancelled
-</td>
-</tr>
-<tr><td align="left" >
-Payment Confirmation
-</td>
-</tr>
-<tr><td align="left" >
-Payment Successful
-</td>
-</tr>
-<tr><td align="left" >
-Per Page
-</td>
-</tr>
-<tr><td align="left" >
-Peru
-</td>
-</tr>
-<tr><td align="left" >
-Philippines
-</td>
-</tr>
-<tr><td align="left" >
-Pitcairn
-</td>
-</tr>
-<tr><td align="left" >
-Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices.
-</td>
-</tr>
-<tr><td align="left" >
-Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
-</td>
-</tr>
-<tr><td align="left" >
-Please provide your name.
-</td>
-</tr>
-<tr><td align="left" >
-Poland
-</td>
-</tr>
-<tr><td align="left" >
-Portugal
-</td>
-</tr>
-<tr><td align="left" >
-Press / to search
-</td>
-</tr>
-<tr><td align="left" >
-Preview
-</td>
-</tr>
-<tr><td align="left" >
-Previous
-</td>
-</tr>
-<tr><td align="left" >
-Puerto Rico
-</td>
-</tr>
-<tr><td align="left" >
-Qatar
-</td>
-</tr>
-<tr><td align="left" >
-Quarter To Date
-</td>
-</tr>
-<tr><td align="left" >
-Reload
-</td>
-</tr>
-<tr><td align="left" >
-Reset Filters
-</td>
-</tr>
-<tr><td align="left" >
-resource
-</td>
-</tr>
-<tr><td align="left" >
-Resources
-</td>
-</tr>
-<tr><td align="left" >
-resources
-</td>
-</tr>
-<tr><td align="left" >
-Restore
-</td>
-</tr>
-<tr><td align="left" >
-Restore Resource
-</td>
-</tr>
-<tr><td align="left" >
-Restore Selected
-</td>
-</tr>
-<tr><td align="left" >
-Reunion
-</td>
-</tr>
-<tr><td align="left" >
-Romania
-</td>
-</tr>
-<tr><td align="left" >
-Run Action
-</td>
-</tr>
-<tr><td align="left" >
-Russian Federation
-</td>
-</tr>
-<tr><td align="left" >
-Rwanda
-</td>
-</tr>
-<tr><td align="left" >
-Saint Barthelemy
-</td>
-</tr>
-<tr><td align="left" >
-Saint Helena
-</td>
-</tr>
-<tr><td align="left" >
-Saint Kitts And Nevis
-</td>
-</tr>
-<tr><td align="left" >
-Saint Lucia
-</td>
-</tr>
-<tr><td align="left" >
-Saint Martin
-</td>
-</tr>
-<tr><td align="left" >
-Saint Pierre And Miquelon
-</td>
-</tr>
-<tr><td align="left" >
-Saint Vincent And Grenadines
-</td>
-</tr>
-<tr><td align="left" >
-Samoa
-</td>
-</tr>
-<tr><td align="left" >
-San Marino
-</td>
-</tr>
-<tr><td align="left" >
-Sao Tome And Principe
-</td>
-</tr>
-<tr><td align="left" >
-Saudi Arabia
-</td>
-</tr>
-<tr><td align="left" >
-Search
-</td>
-</tr>
-<tr><td align="left" >
-Select Action
-</td>
-</tr>
-<tr><td align="left" >
-Select All
-</td>
-</tr>
-<tr><td align="left" >
-Select All Matching
-</td>
-</tr>
-<tr><td align="left" >
-Senegal
-</td>
-</tr>
-<tr><td align="left" >
-September
-</td>
-</tr>
-<tr><td align="left" >
-Serbia
-</td>
-</tr>
-<tr><td align="left" >
-Seychelles
-</td>
-</tr>
-<tr><td align="left" >
-Show All Fields
-</td>
-</tr>
-<tr><td align="left" >
-Show Content
-</td>
-</tr>
-<tr><td align="left" >
-Sierra Leone
-</td>
-</tr>
-<tr><td align="left" >
-Singapore
-</td>
-</tr>
-<tr><td align="left" >
-Sint Maarten (Dutch part)
-</td>
-</tr>
-<tr><td align="left" >
-Slovakia
-</td>
-</tr>
-<tr><td align="left" >
-Slovenia
-</td>
-</tr>
-<tr><td align="left" >
-Solomon Islands
-</td>
-</tr>
-<tr><td align="left" >
-Somalia
-</td>
-</tr>
-<tr><td align="left" >
-Something went wrong.
-</td>
-</tr>
-<tr><td align="left" >
-Sorry! You are not authorized to perform this action.
-</td>
-</tr>
-<tr><td align="left" >
-Sorry, your session has expired.
-</td>
-</tr>
-<tr><td align="left" >
-South Africa
-</td>
-</tr>
-<tr><td align="left" >
-South Georgia And Sandwich Isl.
-</td>
-</tr>
-<tr><td align="left" >
-South Sudan
-</td>
-</tr>
-<tr><td align="left" >
-Spain
-</td>
-</tr>
-<tr><td align="left" >
-Sri Lanka
-</td>
-</tr>
-<tr><td align="left" >
-Start Polling
-</td>
-</tr>
-<tr><td align="left" >
-Stop Polling
-</td>
-</tr>
-<tr><td align="left" >
-Sudan
-</td>
-</tr>
-<tr><td align="left" >
-Suriname
-</td>
-</tr>
-<tr><td align="left" >
-Svalbard And Jan Mayen
-</td>
-</tr>
-<tr><td align="left" >
-Sweden
-</td>
-</tr>
-<tr><td align="left" >
-Switzerland
-</td>
-</tr>
-<tr><td align="left" >
-Syrian Arab Republic
-</td>
-</tr>
-<tr><td align="left" >
-Taiwan
-</td>
-</tr>
-<tr><td align="left" >
-Tajikistan
-</td>
-</tr>
-<tr><td align="left" >
-Tanzania
-</td>
-</tr>
-<tr><td align="left" >
-Team Invitation
-</td>
-</tr>
-<tr><td align="left" >
-Thailand
-</td>
-</tr>
-<tr><td align="left" >
-The :attribute must be at least :length characters and contain at least one special character and one number.
-</td>
-</tr>
-<tr><td align="left" >
-The :resource was created!
-</td>
-</tr>
-<tr><td align="left" >
-The :resource was deleted!
-</td>
-</tr>
-<tr><td align="left" >
-The :resource was restored!
-</td>
-</tr>
-<tr><td align="left" >
-The :resource was updated!
-</td>
-</tr>
-<tr><td align="left" >
-The action ran successfully!
-</td>
-</tr>
-<tr><td align="left" >
-The file was deleted!
-</td>
-</tr>
-<tr><td align="left" >
-The government won't let us show you what's behind these doors
-</td>
-</tr>
-<tr><td align="left" >
-The HasOne relationship has already been filled.
-</td>
-</tr>
-<tr><td align="left" >
-The payment was successful.
-</td>
-</tr>
-<tr><td align="left" >
-The resource was updated!
-</td>
-</tr>
-<tr><td align="left" >
-There are no available options for this resource.
-</td>
-</tr>
-<tr><td align="left" >
-There was a problem executing the action.
-</td>
-</tr>
-<tr><td align="left" >
-There was a problem submitting the form.
-</td>
-</tr>
-<tr><td align="left" >
-This file field is read-only.
-</td>
-</tr>
-<tr><td align="left" >
-This image
-</td>
-</tr>
-<tr><td align="left" >
-This payment was already successfully confirmed.
-</td>
-</tr>
-<tr><td align="left" >
-This payment was cancelled.
-</td>
-</tr>
-<tr><td align="left" >
-This resource no longer exists
-</td>
-</tr>
-<tr><td align="left" >
-Timor-Leste
-</td>
-</tr>
-<tr><td align="left" >
-Today
-</td>
-</tr>
-<tr><td align="left" >
-Togo
-</td>
-</tr>
-<tr><td align="left" >
-Tokelau
-</td>
-</tr>
-<tr><td align="left" >
-Tonga
-</td>
-</tr>
-<tr><td align="left" >
-total
-</td>
-</tr>
-<tr><td align="left" >
-Trashed
-</td>
-</tr>
-<tr><td align="left" >
-Trinidad And Tobago
-</td>
-</tr>
-<tr><td align="left" >
-Tunisia
-</td>
-</tr>
-<tr><td align="left" >
-Turkey
-</td>
-</tr>
-<tr><td align="left" >
-Turkmenistan
-</td>
-</tr>
-<tr><td align="left" >
-Turks And Caicos Islands
-</td>
-</tr>
-<tr><td align="left" >
-Tuvalu
-</td>
-</tr>
-<tr><td align="left" >
-Uganda
-</td>
-</tr>
-<tr><td align="left" >
-Ukraine
-</td>
-</tr>
-<tr><td align="left" >
-United Arab Emirates
-</td>
-</tr>
-<tr><td align="left" >
-United Kingdom
-</td>
-</tr>
-<tr><td align="left" >
-United States
-</td>
-</tr>
-<tr><td align="left" >
-United States Outlying Islands
-</td>
-</tr>
-<tr><td align="left" >
-Update
-</td>
-</tr>
-<tr><td align="left" >
-Update & Continue Editing
-</td>
-</tr>
-<tr><td align="left" >
-Update :resource
-</td>
-</tr>
-<tr><td align="left" >
-Update :resource: :title
-</td>
-</tr>
-<tr><td align="left" >
-Update attached :resource: :title
-</td>
-</tr>
-<tr><td align="left" >
-Uruguay
-</td>
-</tr>
-<tr><td align="left" >
-Uzbekistan
-</td>
-</tr>
-<tr><td align="left" >
-Value
-</td>
-</tr>
-<tr><td align="left" >
-Vanuatu
-</td>
-</tr>
-<tr><td align="left" >
-Venezuela
-</td>
-</tr>
-<tr><td align="left" >
-View
-</td>
-</tr>
-<tr><td align="left" >
-Virgin Islands, British
-</td>
-</tr>
-<tr><td align="left" >
-Virgin Islands, U.S.
-</td>
-</tr>
-<tr><td align="left" >
-Wallis And Futuna
-</td>
-</tr>
-<tr><td align="left" >
-We're lost in space. The page you were trying to view does not exist.
-</td>
-</tr>
-<tr><td align="left" >
-Welcome Back!
-</td>
-</tr>
-<tr><td align="left" >
-Western Sahara
-</td>
-</tr>
-<tr><td align="left" >
-Whoops
-</td>
-</tr>
-<tr><td align="left" >
-With Trashed
-</td>
-</tr>
-<tr><td align="left" >
-Write
-</td>
-</tr>
-<tr><td align="left" >
-Year To Date
-</td>
-</tr>
-<tr><td align="left" >
-Yemen
-</td>
-</tr>
-<tr><td align="left" >
-Yes
-</td>
-</tr>
-<tr><td align="left" >
-Zambia
-</td>
-</tr>
-<tr><td align="left" >
-Zimbabwe
+Åland Islands
 </td>
 </tr>
 

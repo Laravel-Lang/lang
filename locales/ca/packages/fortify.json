@@ -1,0 +1,13 @@
+{
+    "The :attribute must be at least :length characters and contain at least one number.": "La :attribute ha de ser com a mínim :length personatges i de contenir, com a mínim, un nombre.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "La :attribute ha de ser com a mínim :length personatges i contenen almenys un caràcter especial i un nombre.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "La :attribute ha de ser com a mínim :length personatges i contenen almenys un caràcter especial.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "La :attribute ha de ser com a mínim :length personatges i de contenir, com a mínim, una a majúscula caràcter i un nombre.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "La :attribute ha de ser com a mínim :length personatges i de contenir, com a mínim, una a majúscula caràcter i un caràcter especial.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "El :attribute ha de ser com a mínim :length personatges i de contenir, com a mínim, una a majúscula personatge, un número, i un caràcter especial.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "La :attribute ha de ser com a mínim :length personatges i de contenir, com a mínim, una a majúscula personatge.",
+    "The :attribute must be at least :length characters.": "La :attribute ha de ser com a mínim :length personatges.",
+    "The provided password does not match your current password.": "El que la contrasenya no coincideixen amb la vostra contrasenya actual.",
+    "The provided password was incorrect.": "El que la contrasenya era incorrecte.",
+    "The provided two factor authentication code was invalid.": "Les dues factor codi d'autenticació, no era vàlida."
+}

@@ -1,0 +1,19 @@
+{
+    "All rights reserved.": "Усі права захищені.",
+    "Card": "Карта",
+    "Confirm Payment": "Підтвердіть Оплату",
+    "Confirm your :amount payment": "Підтвердьте свій платіж :amount",
+    "Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below.": "Для обробки вашого платежу потрібне додаткове підтвердження. Будь ласка, підтвердіть свій платіж, заповнивши платіжні реквізити нижче.",
+    "Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below.": "Для обробки вашого платежу потрібне додаткове підтвердження. Будь ласка, перейдіть на сторінку оплати, натиснувши на кнопку нижче.",
+    "Full name": "Повне ім'я",
+    "Go back": "Повертатися",
+    "Jane Doe": "Jane Doe",
+    "Pay :amount": "Плати :amount",
+    "Payment Cancelled": "Оплата Скасована",
+    "Payment Confirmation": "Підтвердження оплати",
+    "Payment Successful": "Оплата Пройшла Успішно",
+    "Please provide your name.": "Будь ласка, назвіть своє ім'я.",
+    "The payment was successful.": "Оплата пройшла успішно.",
+    "This payment was already successfully confirmed.": "Цей платіж вже був успішно підтверджений.",
+    "This payment was cancelled.": "Цей платіж був скасований."
+}

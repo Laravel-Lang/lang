@@ -1,0 +1,19 @@
+{
+    "All rights reserved.": "ทั้งลิขสิทธิ์ซักคนในนี้มั้ย",
+    "Card": "การ์ด",
+    "Confirm Payment": "ยืนยันการจ่ายเงิน",
+    "Confirm your :amount payment": "ยืนยันของคุณ :amount จ่ายเงิน",
+    "Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below.": "เพิ่มการยืนยันคือต้องการให้โพรเซสของคุณค่าตอบแทน? ได้โปรดยืนยันการจ่ายเงินคุณโดยเติมข้อของคุณจ่ายเงินรายละเอียดด้านล่างนี้",
+    "Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below.": "เพิ่มการยืนยันคือต้องการให้โพรเซสของคุณค่าตอบแทน? ได้โปรดต่อไปเพื่อจ่ายหน้าโดยการคลิกที่ปุ่มด้านล่างนี้",
+    "Full name": "ชื่อเต็ม",
+    "Go back": "กลับไป",
+    "Jane Doe": "Jane Doe",
+    "Pay :amount": "จ่าย :amount",
+    "Payment Cancelled": "ค่าจ้างถูกยกเลิก",
+    "Payment Confirmation": "ค่าจ้างรับการยืนยัน",
+    "Payment Successful": "จ่ายเงินสำเร็จ",
+    "Please provide your name.": "โปรดกำหนดชื่อของคุณ",
+    "The payment was successful.": "จ่ายเป็นคนที่ประสบผลสำเร็จเลย",
+    "This payment was already successfully confirmed.": "นี่จ่ายเงินแล้วเรียบร้อยแล้ยืนยันแล้ว",
+    "This payment was cancelled.": "นี่เงินถูกยกเลิกแล้ว"
+}

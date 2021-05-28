@@ -2,472 +2,621 @@
 
 # de_CH
 
-##### All missed: 115
+##### All missed: 135
 
 
-### json
+### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/de_CH/auth.php)
 
-##### Missing: 115
+##### Missing: 1
 
 <table >
 <tr><td align="left" >
-:resource Details
+password
 </td>
+<td align="left" >
+The provided password is incorrect.
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [de_CH](https://github.com/Laravel-Lang/lang/blob/master/locales/de_CH/de_CH.json)
+
+##### Missing: 5
+
+<table >
+<tr><td align="left" >
+The :attribute must contain at least one letter.
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one number.
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one symbol.
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one uppercase and one lowercase letter.
+</td>
+</tr>
+<tr><td align="left" >
+The given :attribute has appeared in a data leak. Please choose a different :attribute.
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [cashier](https://github.com/Laravel-Lang/lang/blob/master/locales/de_CH/packages/cashier.json)
+
+##### Missing: 1
+
+<table >
+<tr><td align="left" >
+Jane Doe
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [jetstream](https://github.com/Laravel-Lang/lang/blob/master/locales/de_CH/packages/jetstream.json)
+
+##### Missing: 1
+
+<table >
+<tr><td align="left" >
+You may accept this invitation by clicking the button below:
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [nova](https://github.com/Laravel-Lang/lang/blob/master/locales/de_CH/packages/nova.json)
+
+##### Missing: 1
+
+<table >
+<tr><td align="left" >
+Standalone Actions
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [spark-paddle](https://github.com/Laravel-Lang/lang/blob/master/locales/de_CH/packages/spark-paddle.json)
+
+##### Missing: 31
+
+<table >
+<tr><td align="left" >
+An unexpected error occurred and we have notified our support team. Please try again later.
+</td>
+</tr>
+<tr><td align="left" >
+Billing Management
+</td>
+</tr>
+<tr><td align="left" >
+Cancel Subscription
+</td>
+</tr>
+<tr><td align="left" >
+Change Subscription Plan
+</td>
+</tr>
+<tr><td align="left" >
+Current Subscription Plan
+</td>
+</tr>
+<tr><td align="left" >
+Currently Subscribed
+</td>
+</tr>
+<tr><td align="left" >
+Having second thoughts about cancelling your subscription? You can instantly reactive your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
+</td>
+</tr>
+<tr><td align="left" >
+It looks like you do not have an active subscription. You may choose one of the subscription plans below to get started. Subscription plans may be changed or cancelled at your convenience.
+</td>
+</tr>
+<tr><td align="left" >
+Managing billing for :billableName
+</td>
+</tr>
+<tr><td align="left" >
+Monthly
+</td>
+</tr>
+<tr><td align="left" >
+Nevermind, I'll keep my old plan
+</td>
+</tr>
+<tr><td align="left" >
+Our billing management portal allows you to conveniently manage your subscription plan, payment method, and download your recent invoices.
+</td>
 </tr>
 <tr><td align="left" >
-:resource Details: :title
+Payment Method
 </td>
 </tr>
 <tr><td align="left" >
-Action Name
+Receipts
 </td>
 </tr>
 <tr><td align="left" >
-Action Status
+Resume Subscription
 </td>
 </tr>
 <tr><td align="left" >
-Administrator
+Return to :appName
 </td>
 </tr>
 <tr><td align="left" >
-Afghanistan
+Signed in as
 </td>
 </tr>
 <tr><td align="left" >
-Andorra
+Subscribe
 </td>
 </tr>
 <tr><td align="left" >
-Angola
+Subscription Pending
 </td>
 </tr>
 <tr><td align="left" >
-Anguilla
+The selected plan is invalid.
 </td>
 </tr>
 <tr><td align="left" >
-April
+There is no active subscription.
 </td>
 </tr>
 <tr><td align="left" >
-Aruba
+This account does not have an active subscription.
 </td>
 </tr>
 <tr><td align="left" >
-August
+This subscription cannot be resumed. Please create a new subscription.
 </td>
 </tr>
 <tr><td align="left" >
-Bahamas
+Update Payment Method
 </td>
 </tr>
 <tr><td align="left" >
-Bahrain
+View Receipt
 </td>
 </tr>
 <tr><td align="left" >
-Barbados
+We are processing your subscription. Once the subscription has successfully processed, this page will update automatically. Typically, this process should only take a few seconds.
 </td>
 </tr>
 <tr><td align="left" >
-Belarus
+Yearly
 </td>
 </tr>
 <tr><td align="left" >
-Belize
+You are already subscribed.
 </td>
 </tr>
 <tr><td align="left" >
-Benin
+You may cancel your subscription at any time. Once your subscription has been cancelled, you will have the option to resume the subscription until the end of your current billing cycle.
 </td>
 </tr>
 <tr><td align="left" >
-Bermuda
+Your current payment method is :paypal.
 </td>
 </tr>
 <tr><td align="left" >
-Bhutan
+Your current payment method is a credit card ending in :lastFour that expires on :expiration.
 </td>
 </tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [spark-stripe](https://github.com/Laravel-Lang/lang/blob/master/locales/de_CH/packages/spark-stripe.json)
+
+##### Missing: 95
+
+<table >
 <tr><td align="left" >
-Botswana
+:days day trial
 </td>
 </tr>
 <tr><td align="left" >
-Burkina Faso
+Add VAT Number
 </td>
 </tr>
 <tr><td align="left" >
-Burundi
+Address
 </td>
 </tr>
 <tr><td align="left" >
-Chile
+Address Line 2
 </td>
 </tr>
 <tr><td align="left" >
-China
+An unexpected error occurred and we have notified our support team. Please try again later.
 </td>
 </tr>
 <tr><td align="left" >
-Code
+Antigua and Barbuda
 </td>
 </tr>
 <tr><td align="left" >
-Costa Rica
+Apply
 </td>
 </tr>
 <tr><td align="left" >
-Curaçao
+Apply Coupon
 </td>
 </tr>
 <tr><td align="left" >
-Dashboard
+Billing Information
 </td>
 </tr>
 <tr><td align="left" >
-Details
+Billing Management
 </td>
 </tr>
 <tr><td align="left" >
-Dominica
+Bolivia, Plurinational State of
 </td>
 </tr>
 <tr><td align="left" >
-Ecuador
+Bosnia and Herzegovina
 </td>
 </tr>
 <tr><td align="left" >
-Editor
+Cancel Subscription
 </td>
 </tr>
 <tr><td align="left" >
-El Salvador
+Change Subscription Plan
 </td>
 </tr>
 <tr><td align="left" >
-Eritrea
+City
 </td>
 </tr>
 <tr><td align="left" >
-Gambia
+Congo, the Democratic Republic of the
 </td>
 </tr>
 <tr><td align="left" >
-Ghana
+Country
 </td>
 </tr>
 <tr><td align="left" >
-Gibraltar
+Coupon
 </td>
 </tr>
 <tr><td align="left" >
-Grenada
+Current Subscription Plan
 </td>
 </tr>
 <tr><td align="left" >
-Guadeloupe
+Currently Subscribed
 </td>
 </tr>
 <tr><td align="left" >
-Guam
+Côte d'Ivoire
 </td>
 </tr>
 <tr><td align="left" >
-Guatemala
+Download Receipt
 </td>
 </tr>
 <tr><td align="left" >
-Guernsey
+Email Addresses
 </td>
 </tr>
 <tr><td align="left" >
-Guinea
+ex VAT
 </td>
 </tr>
 <tr><td align="left" >
-Guinea-Bissau
+Extra Billing Information
 </td>
 </tr>
 <tr><td align="left" >
-Guyana
+Have a coupon code?
 </td>
 </tr>
 <tr><td align="left" >
-Haiti
+Having second thoughts about cancelling your subscription? You can instantly reactive your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
 </td>
 </tr>
 <tr><td align="left" >
-Honduras
+Heard Island and McDonald Islands
 </td>
 </tr>
 <tr><td align="left" >
-ID
+I accept the terms of service
 </td>
 </tr>
 <tr><td align="left" >
-Iran, Islamic Republic Of
+If you need to add specific contact or tax information to your receipts, like your full business name, VAT identification number, or address of record, you may add it here.
 </td>
 </tr>
 <tr><td align="left" >
-Isle Of Man
+Iran, Islamic Republic of
 </td>
 </tr>
 <tr><td align="left" >
-Israel
+Isle of Man
 </td>
 </tr>
 <tr><td align="left" >
-Japan
+It looks like you do not have an active subscription. You may choose one of the subscription plans below to get started. Subscription plans may be changed or cancelled at your convenience.
 </td>
 </tr>
 <tr><td align="left" >
-Jersey
+Korea, Republic of
 </td>
 </tr>
 <tr><td align="left" >
-Kiribati
+Macedonia, the former Yugoslav Republic of
 </td>
 </tr>
 <tr><td align="left" >
-Kosovo
+Managing billing for :billableName
 </td>
 </tr>
 <tr><td align="left" >
-Kuwait
+Micronesia, Federated States of
 </td>
 </tr>
 <tr><td align="left" >
-Lao People's Democratic Republic
+Moldova, Republic of
 </td>
 </tr>
 <tr><td align="left" >
-Lesotho
+Monthly
 </td>
 </tr>
 <tr><td align="left" >
-Liberia
+monthly
 </td>
 </tr>
 <tr><td align="left" >
-Liechtenstein
+Netherlands Antilles
 </td>
 </tr>
 <tr><td align="left" >
-Macao
+Nevermind, I'll keep my old plan
 </td>
 </tr>
 <tr><td align="left" >
-Malawi
+Our billing management portal allows you to conveniently manage your subscription plan, payment method, and download your recent invoices.
 </td>
 </tr>
 <tr><td align="left" >
-Malaysia
+Payment Information
 </td>
 </tr>
 <tr><td align="left" >
-Mali
+Please accept the terms of service.
 </td>
 </tr>
 <tr><td align="left" >
-Malta
+Please provide a maximum of three receipt emails addresses.
 </td>
 </tr>
 <tr><td align="left" >
-Martinique
+Receipt Email Addresses
 </td>
 </tr>
 <tr><td align="left" >
-Mauritius
+Receipts
 </td>
 </tr>
 <tr><td align="left" >
-Mayotte
+Resume Subscription
 </td>
 </tr>
 <tr><td align="left" >
-Monaco
+Return to :appName
 </td>
 </tr>
 <tr><td align="left" >
-Montenegro
+Réunion
 </td>
 </tr>
 <tr><td align="left" >
-Montserrat
+Saint Barthélemy
 </td>
 </tr>
 <tr><td align="left" >
-Myanmar
+Saint Kitts and Nevis
 </td>
 </tr>
 <tr><td align="left" >
-Name
+Saint Martin (French part)
 </td>
 </tr>
 <tr><td align="left" >
-Namibia
+Saint Pierre and Miquelon
 </td>
 </tr>
 <tr><td align="left" >
-Nauru
+Saint Vincent and the Grenadines
 </td>
 </tr>
 <tr><td align="left" >
-Nepal
+Sao Tome and Principe
 </td>
 </tr>
 <tr><td align="left" >
-Nicaragua
+Select
 </td>
 </tr>
 <tr><td align="left" >
-Niger
+Select a different plan
 </td>
 </tr>
 <tr><td align="left" >
-Nigeria
+Signed in as
 </td>
 </tr>
 <tr><td align="left" >
-Niue
+South Georgia and the South Sandwich Islands
 </td>
 </tr>
 <tr><td align="left" >
-November
+State / County
 </td>
 </tr>
 <tr><td align="left" >
-Oman
+Subscribe
 </td>
 </tr>
 <tr><td align="left" >
-Pakistan
+Subscription Information
 </td>
 </tr>
 <tr><td align="left" >
-Palau
+Svalbard and Jan Mayen
 </td>
 </tr>
 <tr><td align="left" >
-Panama
+Taiwan, Province of China
 </td>
 </tr>
 <tr><td align="left" >
-Paraguay
+Tanzania, United Republic of
 </td>
 </tr>
 <tr><td align="left" >
-Peru
+Thanks for your continued support. We've attached a copy of your invoice for your records. Please let us know if you have any questions or concerns.
 </td>
 </tr>
 <tr><td align="left" >
-Portugal
+Thanks,
 </td>
 </tr>
 <tr><td align="left" >
-Puerto Rico
+The provided coupon code is invalid.
 </td>
 </tr>
 <tr><td align="left" >
-Saint Helena
+The provided VAT number is invalid.
 </td>
 </tr>
 <tr><td align="left" >
-Saint Lucia
+The receipt emails must be valid email addresses.
 </td>
 </tr>
 <tr><td align="left" >
-Saint Martin
+The selected country is invalid.
 </td>
 </tr>
 <tr><td align="left" >
-Samoa
+The selected plan is invalid.
 </td>
 </tr>
 <tr><td align="left" >
-San Marino
+This account does not have an active subscription.
 </td>
 </tr>
 <tr><td align="left" >
-Senegal
+This subscription has expired and cannot be resumed. Please create a new subscription.
 </td>
 </tr>
 <tr><td align="left" >
-September
+Total:
 </td>
 </tr>
 <tr><td align="left" >
-Sierra Leone
+Trinidad and Tobago
 </td>
 </tr>
 <tr><td align="left" >
-Sint Maarten (Dutch part)
+Turks and Caicos Islands
 </td>
 </tr>
 <tr><td align="left" >
-Somalia
+United States Minor Outlying Islands
 </td>
 </tr>
 <tr><td align="left" >
-Sri Lanka
+Update Payment Information
 </td>
 </tr>
 <tr><td align="left" >
-Sudan
+VAT Number
 </td>
 </tr>
 <tr><td align="left" >
-Suriname
+Venezuela, Bolivarian Republic of
 </td>
 </tr>
 <tr><td align="left" >
-Taiwan
+Wallis and Futuna
 </td>
 </tr>
 <tr><td align="left" >
-Thailand
+We are unable to process your payment. Please contact customer support.
 </td>
 </tr>
 <tr><td align="left" >
-Togo
+We will send a receipt download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
 </td>
 </tr>
 <tr><td align="left" >
-Tokelau
+Yearly
 </td>
 </tr>
 <tr><td align="left" >
-Tonga
+You are currently within your free trial period. Your trial will expire on :date.
 </td>
 </tr>
 <tr><td align="left" >
-Turkmenistan
+You may cancel your subscription at any time. Once your subscription has been cancelled, you will have the option to resume the subscription until the end of your current billing cycle.
 </td>
 </tr>
 <tr><td align="left" >
-Tuvalu
+Your :invoiceName invoice is now available!
 </td>
 </tr>
 <tr><td align="left" >
-Uganda
+Your card was declined. Please contact your card issuer for more information.
 </td>
 </tr>
 <tr><td align="left" >
-Ukraine
+Your current payment method is a credit card ending in :lastFour that expires on :expiration.
 </td>
 </tr>
 <tr><td align="left" >
-Uruguay
+Your registered VAT Number is :vatNumber.
 </td>
 </tr>
 <tr><td align="left" >
-Vanuatu
+Zip / Postal Code
 </td>
 </tr>
 <tr><td align="left" >
-Venezuela
+Åland Islands
 </td>
 </tr>
 

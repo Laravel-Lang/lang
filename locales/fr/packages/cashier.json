@@ -1,0 +1,19 @@
+{
+    "All rights reserved.": "Tous droits réservés.",
+    "Card": "Carte",
+    "Confirm Payment": "Choisir Paiement",
+    "Confirm your :amount payment": "Choisir votre paiement de :amount",
+    "Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below.": "Une confirmation supplémentaire est nécessaire pour traiter votre paiement. Veuillez confirmer votre paiement en remplissant vos coordonnées de paiement ci-dessous.",
+    "Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below.": "Une confirmation supplémentaire est nécessaire pour traiter votre paiement. Veuillez continuer à la page de paiement en cliquant sur le bouton ci-dessous.",
+    "Full name": "Nom complet",
+    "Go back": "Revenir en arrière",
+    "Jane Doe": "Madame Dupont",
+    "Pay :amount": "Payer :amount",
+    "Payment Cancelled": "Paiement annulé",
+    "Payment Confirmation": "Confirmation de paiement",
+    "Payment Successful": "Paiement effectué",
+    "Please provide your name.": "Veuillez indiquer votre nom.",
+    "The payment was successful.": "Le paiement a réussi.",
+    "This payment was already successfully confirmed.": "Ce paiement a déjà été confirmé avec succès.",
+    "This payment was cancelled.": "Ce paiement a été annulé."
+}

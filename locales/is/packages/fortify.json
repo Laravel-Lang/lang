@@ -1,0 +1,13 @@
+{
+    "The :attribute must be at least :length characters and contain at least one number.": "Við :attribute verður að vera að minnsta kosti :length stafir og innihalda að minnsta kosti einn númer.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "Við :attribute verður að vera að minnsta kosti :length stafir og innihalda að minnsta kosti einn sérstaka persónu og einn skammt af númer.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "Við :attribute verður að vera að minnsta kosti :length stafir og innihalda að minnsta kosti einn sérstaka persónu.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "Við :attribute verður að vera að minnsta kosti :length stafir og innihalda að minnsta kosti einn hástöfum staf og einn skammt af númer.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "Við :attribute verður að vera að minnsta kosti :length stafir og innihalda að minnsta kosti einn hástöfum staf og einn sérstaka persónu.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "Við :attribute verður að vera að minnsta kosti :length stafir og innihalda að minnsta kosti einn hástöfum persóna, númer eitt, og eina sérstaka persónu.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "Við :attribute verður að vera að minnsta kosti :length stafir og innihalda að minnsta kosti einn hástöfum eðli.",
+    "The :attribute must be at least :length characters.": "Við :attribute verður að vera að minnsta kosti :length stafir.",
+    "The provided password does not match your current password.": "Hjá lykilorð passar ekki núverandi lykilorð.",
+    "The provided password was incorrect.": "Hjá lykilorð var rangt.",
+    "The provided two factor authentication code was invalid.": "Hjá tveimur þáttur staðfesting númerið var ógilt."
+}

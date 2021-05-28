@@ -1,0 +1,19 @@
+{
+    "All rights reserved.": "Alle Rechte vorbehalten.",
+    "Card": "Karte",
+    "Confirm Payment": "Bestätigen Sie die Zahlung",
+    "Confirm your :amount payment": "Bestätigen Sie Ihre :amount Zahlung",
+    "Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below.": "Eine zusätzliche Bestätigung ist erforderlich, um Ihre Zahlung zu bearbeiten. Bitte bestätigen Sie Ihre Zahlung, indem Sie Ihre Zahlungsdetails unten ausfüllen.",
+    "Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below.": "Eine zusätzliche Bestätigung ist erforderlich, um Ihre Zahlung zu bearbeiten. Bitte fahren Sie mit der Zahlungsseite fort, indem Sie auf die Schaltfläche unten klicken.",
+    "Full name": "Vollständiger Name",
+    "Go back": "Zurück gehen",
+    "Jane Doe": "Erika Mustermann",
+    "Pay :amount": ":amount Bezahlen",
+    "Payment Cancelled": "Zahlung storniert",
+    "Payment Confirmation": "Zahlungsbestätigung",
+    "Payment Successful": "Zahlung erfolgreich",
+    "Please provide your name.": "Bitte geben Sie Ihren Namen an.",
+    "The payment was successful.": "Die Zahlung war erfolgreich.",
+    "This payment was already successfully confirmed.": "Diese Zahlung wurde bereits erfolgreich bestätigt.",
+    "This payment was cancelled.": "Diese Zahlung wurde storniert."
+}

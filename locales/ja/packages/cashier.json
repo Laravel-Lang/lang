@@ -1,0 +1,19 @@
+{
+    "All rights reserved.": "All rights reserved.",
+    "Card": "カード",
+    "Confirm Payment": "お支払いの確認",
+    "Confirm your :amount payment": ":amount 個のお支払いを確認",
+    "Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below.": "お支払いを完了するには、追加の確認が必要です。以下のお支払い詳細をご記入の上、お支払いを確認してください。",
+    "Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below.": "お支払いを完了するには、追加の確認が必要です。以下のボタンをクリックして、お支払いページに進んでください。",
+    "Full name": "フルネーム",
+    "Go back": "戻る",
+    "Jane Doe": "Jane Doe",
+    "Pay :amount": ":amount円",
+    "Payment Cancelled": "支払いキャンセル",
+    "Payment Confirmation": "お支払いの確認",
+    "Payment Successful": "支払いが成功した",
+    "Please provide your name.": "お名前をご記入ください。",
+    "The payment was successful.": "支払いは成功しました。",
+    "This payment was already successfully confirmed.": "この支払いはすでに正常に確認されました。",
+    "This payment was cancelled.": "この支払いは取り消された。"
+}

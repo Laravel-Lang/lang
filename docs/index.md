@@ -2,8 +2,7 @@
 
 # Laravel Lang
 
-In this repository, you can find the lang files for the [Laravel Framework 4/5/6/7/8](https://laravel.com), [Laravel Jetstream](https://jetstream.laravel.com)
-, [Laravel Fortify](https://github.com/laravel/fortify), [Laravel Cashier](https://laravel.com/docs/8.x/billing) and [Laravel Nova](https://nova.laravel.com).
+In this repository, you can find the lang files for the [Laravel Framework 4/5/6/7/8](https://laravel.com), [Laravel Jetstream](https://jetstream.laravel.com), [Laravel Fortify](https://github.com/laravel/fortify), [Laravel Cashier](https://laravel.com/docs/8.x/billing), [Laravel Nova](https://nova.laravel.com) and [Laravel Spark](https://spark.laravel.com).
 
 ## Translation status
 

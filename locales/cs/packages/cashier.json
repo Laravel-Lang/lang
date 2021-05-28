@@ -1,0 +1,19 @@
+{
+    "All rights reserved.": "Všechna práva vyhrazena.",
+    "Card": "Karta",
+    "Confirm Payment": "Potvrzení Platby",
+    "Confirm your :amount payment": "Potvrďte platbu :amount",
+    "Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below.": "Pro zpracování vaší platby je nutné další potvrzení. Potvrďte platbu vyplněním níže uvedených platebních údajů.",
+    "Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below.": "Pro zpracování vaší platby je nutné další potvrzení. Pokračujte prosím na platební stránku kliknutím na tlačítko níže.",
+    "Full name": "Příjmení",
+    "Go back": "Vrať se.",
+    "Jane Doe": "Jane Doe",
+    "Pay :amount": "Zaplatit :amount",
+    "Payment Cancelled": "Platba Zrušena",
+    "Payment Confirmation": "Potvrzení Platby",
+    "Payment Successful": "Platba Úspěšná",
+    "Please provide your name.": "Uveďte prosím své jméno.",
+    "The payment was successful.": "Platba byla úspěšná.",
+    "This payment was already successfully confirmed.": "Tato platba byla již úspěšně potvrzena.",
+    "This payment was cancelled.": "Tato platba byla zrušena."
+}

@@ -28,6 +28,7 @@ return [
     'Gabon',
     'Grenada',
     'Guadeloupe',
+    'Guam',
     'Guatemala',
     'Guernsey',
     'Guyana',

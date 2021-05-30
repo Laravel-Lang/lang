@@ -2,25 +2,7 @@
 
 # pt_BR
 
-##### All missed: 2
+##### All missed: 0
 
-
-### [spark-stripe](https://github.com/Laravel-Lang/lang/blob/master/locales/pt_BR/packages/spark-stripe.json)
-
-##### Missing: 2
-
-<table >
-<tr><td align="left" >
-Réunion
-</td>
-</tr>
-<tr><td align="left" >
-Total:
-</td>
-</tr>
-
-</table>
-
-
-[ [go back](../status.md) | [to top](#) ]
+All lines are translated 😊
 

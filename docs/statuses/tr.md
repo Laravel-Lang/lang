@@ -2,21 +2,7 @@
 
 # tr
 
-##### All missed: 1
+##### All missed: 0
 
-
-### [spark-stripe](https://github.com/Laravel-Lang/lang/blob/master/locales/tr/packages/spark-stripe.json)
-
-##### Missing: 1
-
-<table >
-<tr><td align="left" >
-Guam
-</td>
-</tr>
-
-</table>
-
-
-[ [go back](../status.md) | [to top](#) ]
+All lines are translated 😊
 

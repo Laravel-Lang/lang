@@ -265,7 +265,7 @@
 </td>
 <td align="center" width="17%">
 
-[pt_BR&nbsp;❗](statuses/pt-br.md)
+[pt_BR&nbsp;✔](statuses/pt-br.md)
 
 </td>
 <td align="center" width="17%">
@@ -353,7 +353,7 @@
 </td>
 <td align="center" width="17%">
 
-[tr&nbsp;❗](statuses/tr.md)
+[tr&nbsp;✔](statuses/tr.md)
 
 </td>
 <td align="center" width="17%">

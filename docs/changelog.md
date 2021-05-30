@@ -13,8 +13,8 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
  * feature: [de] #1759 cashier jetstream nova spark-paddle spark-stripe
  * feature: [es] #1760 nova
- * feature: [pt_BR] #1767 #1769 cashier jetstream nova spark-paddle spark-stripe validation-inline
- * feature: [tr] #1766 #1768 auth jetstream nova spark-paddle spark-stripe json file
+ * feature: [pt_BR] #1767 #1769 #1771 exclude cashier jetstream nova spark-paddle spark-stripe validation-inline
+ * feature: [tr] #1766 #1768 #1770 exclude auth jetstream nova spark-paddle spark-stripe json file
 
 ## [10.0.1] - 2021-05-24
 

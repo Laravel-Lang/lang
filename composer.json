@@ -26,6 +26,7 @@
         "andrey-helldar/pretty-array": "^2.3",
         "andrey-helldar/support": "^3.16.1",
         "guzzlehttp/guzzle": "^7.3",
+        "laravel/breeze": "^1.2",
         "laravel/fortify": "^1.7",
         "laravel/jetstream": "^2.3",
         "phpunit/phpunit": "^9.5",

@@ -13,7 +13,7 @@
 
 return [
     'accepted'             => 'Este campo deve ser aceito.',
-    'active_url'           => 'A Url informada não é válida.',
+    'active_url'           => 'A URL informada não é válida.',
     'after'                => 'Esta deve ser uma data após :date.',
     'after_or_equal'       => 'Esta deve ser uma data posterior ou igual a :date.',
     'alpha'                => 'Este campo pode conter apenas letras.',
@@ -35,11 +35,11 @@ return [
     'date_equals'          => 'Esta deve ser uma data igual a :date.',
     'date_format'          => 'Isso não corresponde ao formato :format.',
     'different'            => 'Este valor deve ser diferente de :other.',
-    'digits'               => 'Este valor deve ter :digits digitos.',
-    'digits_between'       => 'Este valor deve estar entre :min ou :max digitos.',
+    'digits'               => 'Este valor deve ter :digits dígitos.',
+    'digits_between'       => 'Este valor deve estar entre :min ou :max dígitos.',
     'dimensions'           => 'Esta imagem tem dimensões inválidas.',
     'distinct'             => 'Este campo tem um valor duplicado.',
-    'email'                => 'Este deve ser um endereço de email válido.',
+    'email'                => 'Este deve ser um endereço de e-mail válido.',
     'ends_with'            => 'Isso deve terminar com um dos seguintes valores :values.',
     'exists'               => 'O valor selecionado é inválido.',
     'file'                 => 'O conteúdo deve ser um arquivo.',

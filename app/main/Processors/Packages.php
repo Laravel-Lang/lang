@@ -8,6 +8,7 @@ use LaravelLang\Lang\Facades\Package;
 final class Packages extends Processor
 {
     protected array $packages = [
+        'laravel/breeze'    => 'packages/breeze.json',
         'laravel/fortify'   => 'packages/fortify.json',
         'laravel/jetstream' => 'packages/jetstream.json',
     ];

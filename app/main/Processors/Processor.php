@@ -5,6 +5,7 @@ namespace LaravelLang\Lang\Processors;
 use Helldar\Support\Concerns\Makeable;
 use Helldar\Support\Facades\Helpers\Arr;
 use Helldar\Support\Facades\Helpers\Filesystem\Directory;
+use Helldar\Support\Facades\Helpers\Filesystem\File;
 use Helldar\Support\Tools\Stub;
 use LaravelLang\Lang\Application;
 use LaravelLang\Lang\Concerns\Contains;
@@ -73,7 +74,29 @@ abstract class Processor implements Processable
             return $this->source[$filename];
         }
 
-        return $this->source[$filename] = $this->load($this->getSourcePath($filename));
+        return $this->source[$filename] = $this->isJson($filename) ? $this->sourceJson() : $this->loadSource($filename);
+    }
+
+    protected function loadSource(string $filename): array
+    {
+        return $this->load($this->getSourcePath($filename));
+    }
+
+    protected function sourceJson(): array
+    {
+        $path = $this->getSourcePath();
+
+        $files = File::names($path, fn ($filename) => $this->isJson($filename), true);
+
+        $array = [];
+
+        foreach ($files as $file) {
+            $items = $this->loadSource($file);
+
+            $array = Arr::addUnique($array, $items);
+        }
+
+        return Arr::renameKeys($array, static fn ($key, $value) => $value);
     }
 
     protected function getFallbackValue(array $source, array $target, string $key)

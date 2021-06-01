@@ -1,10 +1,10 @@
 <?php
 
-use LaravelLang\Lang\Processors\Process;
+use LaravelLang\Lang\Processors\Keys;
 
 require __DIR__ . '/../vendor/autoload.php';
 
 /** @var \LaravelLang\Lang\Application $app */
 $app = require_once __DIR__ . '/bootstrap/app.php';
 
-$app->processor(Process::make());
+$app->processor(Keys::make());

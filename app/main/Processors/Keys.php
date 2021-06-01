@@ -4,7 +4,7 @@ namespace LaravelLang\Lang\Processors;
 
 use Helldar\Support\Facades\Helpers\Filesystem\File;
 
-final class Process extends Processor
+final class Keys extends Processor
 {
     protected string $target_path = 'locales';
 
@@ -23,6 +23,6 @@ final class Process extends Processor
 
     protected function files(string $locale): array
     {
-        return File::names($this->getTargetPath($locale), recursive: true);
+        return File::names($this->getTargetPath($locale));
     }
 }

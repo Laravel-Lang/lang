@@ -102,9 +102,11 @@ abstract class Processor implements Processable
         return Arr::only($first, $keys);
     }
 
-    protected function sort(array &$array): void
+    protected function sort(array &$array, bool $key = true): void
     {
-        $array = Arr::ksort($array);
+        $array = $key
+            ? Arr::ksort($array)
+            : Arr::sort($array);
     }
 
     protected function load(string $path): array

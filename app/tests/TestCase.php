@@ -22,7 +22,7 @@ abstract class TestCase extends BaseTestCase
 
     protected function source(string $filename): array
     {
-        $content = $this->load($this->source_path . '/' . $filename);
+        $content = $this->isJsonFile($filename) ? $this->loadJson() : $this->loadFile($filename);
 
         if ($this->isValidation($filename)) {
             $custom     = Arr::get($content, 'custom', []);
@@ -36,6 +36,24 @@ abstract class TestCase extends BaseTestCase
         }
 
         return Arr::ksort($content);
+    }
+
+    protected function loadFile(string $filename): array
+    {
+        return $this->load($this->source_path . '/' . $filename);
+    }
+
+    protected function loadJson(): array
+    {
+        $items = [];
+
+        foreach ($this->files('json', true) as $file) {
+            $values = $this->loadFile($file);
+
+            $items = Arr::addUnique($items, $values);
+        }
+
+        return Arr::renameKeys($items, static fn ($key, $value) => $value);
     }
 
     protected function assertSee(string $path, string $content): void
@@ -67,9 +85,9 @@ abstract class TestCase extends BaseTestCase
         $array = Arr::ksort($array);
     }
 
-    protected function files(string $extension): array
+    protected function files(string $extension, bool $recursive = false): array
     {
-        return Filesystem::names($this->source_path, static fn ($filename) => str_ends_with($filename, $extension), recursive: true);
+        return Filesystem::names($this->source_path, static fn ($filename) => str_ends_with($filename, $extension), $recursive);
     }
 
     protected function locales(): array
@@ -96,6 +114,11 @@ abstract class TestCase extends BaseTestCase
         $locale = Str::before($filename, '.');
 
         return Directory::exists(__DIR__ . '/../../locales/' . $locale);
+    }
+
+    protected function isJsonFile(string $filename): bool
+    {
+        return str_ends_with($filename, 'json');
     }
 
     protected function isEnglish(string $filename): bool

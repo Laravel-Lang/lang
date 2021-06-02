@@ -7,14 +7,11 @@ All notable changes to this project will be documented in this file, since v7.0.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres
 to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [10.0.2] - 2021-05-30
+## [Unreleased]
 
 ### Changed
 
- * feature: [de] #1759 cashier jetstream nova spark-paddle spark-stripe
  * feature: [es] #1760 nova
- * feature: [pt_BR] #1767 #1769 #1771 exclude cashier jetstream nova spark-paddle spark-stripe validation-inline
- * feature: [tr] #1766 #1768 #1770 exclude auth jetstream nova spark-paddle spark-stripe json file
 
 ## [10.0.1] - 2021-05-24
 
@@ -484,8 +481,7 @@ For more information, see #1606 and #1607.
 
 * feature: #1269 Rename locale folders following ISO 15897 format
 
-[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/10.0.2...master
-[10.0.2]: https://github.com/caouecs/Laravel-lang/compare/10.0.1...10.0.2
+[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/10.0.1...master
 [10.0.1]: https://github.com/caouecs/Laravel-lang/compare/10.0.0...10.0.1
 [10.0.0]: https://github.com/caouecs/Laravel-lang/compare/9.1.2...10.0.0
 [9.1.2]: https://github.com/caouecs/Laravel-lang/compare/9.1.1...9.1.2

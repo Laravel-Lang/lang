@@ -32,7 +32,7 @@ final class Excludes extends Processor
 
         $content = $this->merge($this->keys, $target, $filename);
 
-        $this->sort($content);
+        $this->sort($content, false);
 
         $this->store($target_path, array_values($content), $this->stub, true);
     }
@@ -42,7 +42,7 @@ final class Excludes extends Processor
         return array_intersect($source, $target);
     }
 
-    protected function sort(array &$array): void
+    protected function sort(array &$array, bool $key = true): void
     {
         $array = Arr::sort(array_unique($array));
     }
@@ -70,6 +70,8 @@ final class Excludes extends Processor
     {
         $items = $this->load($this->getSourcePath($filename));
 
-        return array_keys($items);
+        return $this->isJson($filename)
+            ? array_values($items)
+            : array_keys($items);
     }
 }

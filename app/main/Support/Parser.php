@@ -10,7 +10,7 @@ class Parser
 {
     use Makeable;
 
-    protected const REGEX = '/\b(__|trans|@lang|Lang\:\:get)\((.+)(\)|,\s?\[)/U';
+    protected const REGEX = '/\b(__|trans|lang|Lang\:\:get)\(\r*\s*(.+)\r*\s*(\)|,\s?\[)/U';
 
     protected array $files = [];
 
@@ -25,10 +25,16 @@ class Parser
 
     public function get(): array
     {
+        $this->clear();
         $this->each();
         $this->sort();
 
         return $this->keys();
+    }
+
+    protected function clear(): void
+    {
+        $this->keys = [];
     }
 
     protected function each(): void
@@ -53,7 +59,9 @@ class Parser
             if (Str::contains((string) $value, ['__', 'trans', '@lang', 'Lang::get'])) {
                 $sub_key = $this->subkey($value);
 
-                $value = $this->keys[$sub_key] ?? null;
+                $sub_value = $this->keys[$sub_key] ?? null;
+
+                $this->push($sub_value);
             }
 
             $this->push($value);
@@ -90,8 +98,12 @@ class Parser
 
     protected function trim($value)
     {
-        $chars = " \t\n\r\0\x0B'\"";
+        if (is_string($value)) {
+            $chars = " \t\n\r\0\x0B'\"";
 
-        return is_string($value) ? trim($value, $chars) : $value;
+            return trim(stripslashes($value), $chars);
+        }
+
+        return $value;
     }
 }

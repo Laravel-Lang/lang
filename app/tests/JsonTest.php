@@ -9,9 +9,7 @@ final class JsonTest extends TestCase
     public function testJson(): void
     {
         foreach ($this->files('.json') as $filename) {
-            $resolved = $this->resolveFilename($filename);
-
-            $source = $this->source($resolved);
+            $source = $this->source($filename);
 
             foreach ($this->locales() as $locale) {
                 $filename = $this->resolveFilename($filename, $locale);

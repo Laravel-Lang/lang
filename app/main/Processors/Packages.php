@@ -8,6 +8,7 @@ use LaravelLang\Lang\Facades\Package;
 final class Packages extends Processor
 {
     protected array $packages = [
+        'laravel/breeze'    => 'packages/breeze.json',
         'laravel/fortify'   => 'packages/fortify.json',
         'laravel/jetstream' => 'packages/jetstream.json',
     ];
@@ -21,7 +22,7 @@ final class Packages extends Processor
 
             $content = $this->map($items);
 
-            $this->sort($content);
+            $this->sort($content, false);
 
             $this->store($path, $content);
         }
@@ -29,7 +30,7 @@ final class Packages extends Processor
 
     protected function map(array $items): array
     {
-        return Arr::renameKeys($items, static fn ($key, $value) => $value);
+        return Arr::values($items);
     }
 
     protected function files(string $package): array

@@ -2,8 +2,26 @@
 
 # ms
 
-##### All missed: 441
+##### All missed: 442
 
+
+### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/ms/auth.php)
+
+##### Missing: 1
+
+<table >
+<tr><td align="left" >
+password
+</td>
+<td align="left" >
+The provided password is incorrect.
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
 
 ### [ms](https://github.com/Laravel-Lang/lang/blob/master/locales/ms/ms.json)
 

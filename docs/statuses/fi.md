@@ -2,16 +2,19 @@
 
 # fi
 
-##### All missed: 13
+##### All missed: 16
 
 
-### [cashier](https://github.com/Laravel-Lang/lang/blob/master/locales/fi/packages/cashier.json)
+### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/fi/auth.php)
 
 ##### Missing: 1
 
 <table >
 <tr><td align="left" >
-Jane Doe
+password
+</td>
+<td align="left" >
+The provided password is incorrect.
 </td>
 </tr>
 
@@ -20,32 +23,9 @@ Jane Doe
 
 [ [go back](../status.md) | [to top](#) ]
 
-### [nova](https://github.com/Laravel-Lang/lang/blob/master/locales/fi/packages/nova.json)
+### [fi](https://github.com/Laravel-Lang/lang/blob/master/locales/fi/fi.json)
 
-##### Missing: 3
-
-<table >
-<tr><td align="left" >
-Nepal
-</td>
-</tr>
-<tr><td align="left" >
-Reunion
-</td>
-</tr>
-<tr><td align="left" >
-Standalone Actions
-</td>
-</tr>
-
-</table>
-
-
-[ [go back](../status.md) | [to top](#) ]
-
-### [spark-stripe](https://github.com/Laravel-Lang/lang/blob/master/locales/fi/packages/spark-stripe.json)
-
-##### Missing: 9
+##### Missing: 15
 
 <table >
 <tr><td align="left" >
@@ -57,6 +37,14 @@ Heard Island and McDonald Islands
 </td>
 </tr>
 <tr><td align="left" >
+Jane Doe
+</td>
+</tr>
+<tr><td align="left" >
+Korea
+</td>
+</tr>
+<tr><td align="left" >
 Payment Information
 </td>
 </tr>
@@ -65,11 +53,31 @@ Réunion
 </td>
 </tr>
 <tr><td align="left" >
+Standalone Actions
+</td>
+</tr>
+<tr><td align="left" >
 Thanks for your continued support. We've attached a copy of your invoice for your records. Please let us know if you have any questions or concerns.
 </td>
 </tr>
 <tr><td align="left" >
-Tonga
+The :attribute must contain at least one letter.
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one number.
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one symbol.
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one uppercase and one lowercase letter.
+</td>
+</tr>
+<tr><td align="left" >
+The given :attribute has appeared in a data leak. Please choose a different :attribute.
 </td>
 </tr>
 <tr><td align="left" >
@@ -78,10 +86,6 @@ Total:
 </tr>
 <tr><td align="left" >
 Turks and Caicos Islands
-</td>
-</tr>
-<tr><td align="left" >
-Yearly
 </td>
 </tr>
 

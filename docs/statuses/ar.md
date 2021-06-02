@@ -5,7 +5,7 @@
 ##### All missed: 1
 
 
-### [nova](https://github.com/Laravel-Lang/lang/blob/master/locales/ar/packages/nova.json)
+### [ar](https://github.com/Laravel-Lang/lang/blob/master/locales/ar/ar.json)
 
 ##### Missing: 1
 

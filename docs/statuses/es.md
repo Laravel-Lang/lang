@@ -2,7 +2,21 @@
 
 # es
 
-##### All missed: 0
+##### All missed: 1
 
-All lines are translated 😊
+
+### [es](https://github.com/Laravel-Lang/lang/blob/master/locales/es/es.json)
+
+##### Missing: 1
+
+<table >
+<tr><td align="left" >
+Macedonia
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
 

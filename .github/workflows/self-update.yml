@@ -62,7 +62,7 @@ jobs:
 
                     php app/referents.php
 
-                    { git add . && git commit -a -m "Updating the `docs/referents.md` file"; } || IS_DIRTY=0
+                    { git add . && git commit -a -m "Updating the docs/referents.md file"; } || IS_DIRTY=0
 
                     echo ::set-output name=is_dirty::${IS_DIRTY}
 

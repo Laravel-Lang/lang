@@ -92,6 +92,8 @@ de
 <td align="left" >
 
 [@WhereIsLucas](https://github.com/WhereIsLucas)
+, 
+[@sotten](https://github.com/sotten)
 
 </td>
 </tr>
@@ -99,6 +101,8 @@ de
 de_CH
 </td>
 <td align="left" >
+
+[@sotten](https://github.com/sotten)
 
 </td>
 </tr>

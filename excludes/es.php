@@ -76,6 +76,7 @@ return [
     'Liberia',
     'Liechtenstein',
     'Macao',
+    'Macedonia',
     'Madagascar',
     'Malta',
     'Mauritania',

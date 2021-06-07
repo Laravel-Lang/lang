@@ -17,7 +17,11 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ### Changed
 
+ * feature: [ar] #1777 json file
+ * feature: [es] #1775 exclude
+ * feature: [it] #1774 json file
  * feature: [ms] #1772 auth.php
+ * feature: [vi] #1776 json file
 
 ### Reference
 

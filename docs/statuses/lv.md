@@ -2,26 +2,8 @@
 
 # lv
 
-##### All missed: 145
+##### All missed: 144
 
-
-### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/lv/auth.php)
-
-##### Missing: 1
-
-<table >
-<tr><td align="left" >
-password
-</td>
-<td align="left" >
-The provided password is incorrect.
-</td>
-</tr>
-
-</table>
-
-
-[ [go back](../status.md) | [to top](#) ]
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/lv/validation-inline.php)
 

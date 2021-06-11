@@ -90,7 +90,7 @@ return [
         'numeric' => ':attribute jābūt vismaz :min.',
         'string'  => ':attribute jābūt vismaz :min rakstzīmēm.',
     ],
-    'multiple_of'          => ':attribute jābūt :value daudzkārtnim',
+    'multiple_of'          => ':attribute jābūt :value daudzkārtnim.',
     'not_in'               => 'izvēlētais :attribute ir nederīgs.',
     'not_regex'            => ':attribute formāts ir nederīgs.',
     'numeric'              => ':attribute jābūt skaitlim.',

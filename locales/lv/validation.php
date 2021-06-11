@@ -122,7 +122,6 @@ return [
     'uploaded'             => ':attribute netika augšupielādēts.',
     'url'                  => ':attribute formāts ir nederīgs.',
     'uuid'                 => ':attribute jābūt derīgam UUID.',
-
     'custom'               => [
         'attribute-name' => [
             'rule-name' => 'ziņa pēc pieprasījuma',

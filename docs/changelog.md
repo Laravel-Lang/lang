@@ -7,7 +7,15 @@ All notable changes to this project will be documented in this file, since v7.0.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres
 to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased]
+## [10.1.1] - 2021-06-16
+
+### Changed
+
+ * feature: [ar] #1777 json file
+ * feature: [es] #1775 exclude
+ * feature: [it] #1774 #1778 json file
+ * feature: [lv] #1780 auth.php validation.php passwords.php
+ * feature: [vi] #1776 json file
 
 ### Todo script
 
@@ -17,11 +25,7 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ### Changed
 
- * feature: [ar] #1777 json file
- * feature: [es] #1775 exclude
- * feature: [it] #1774 json file
  * feature: [ms] #1772 auth.php
- * feature: [vi] #1776 json file
 
 ### Reference
 
@@ -508,7 +512,8 @@ For more information, see #1606 and #1607.
 
 * feature: #1269 Rename locale folders following ISO 15897 format
 
-[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/10.1.0...master
+[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/10.1.1...master
+[10.1.1]: https://github.com/caouecs/Laravel-lang/compare/10.1.0...10.1.1
 [10.1.0]: https://github.com/caouecs/Laravel-lang/compare/10.0.2...10.1.0
 [10.0.2]: https://github.com/caouecs/Laravel-lang/compare/10.0.1...10.0.2
 [10.0.1]: https://github.com/caouecs/Laravel-lang/compare/10.0.0...10.0.1

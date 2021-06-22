@@ -100,7 +100,7 @@
 </tr>
 <tr><td align="center" width="17%">
 
-[fi&nbsp;❗](statuses/fi.md)
+[fi&nbsp;✔](statuses/fi.md)
 
 </td>
 <td align="center" width="17%">

@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'El campo debe ser verdadero o falso.',
     'confirmed'            => 'La confirmación no coincide.',
+    'current_password'     => 'La contraseña es incorrecta.',
     'date'                 => 'Esta no es una fecha válida.',
     'date_equals'          => 'El campo debe ser una fecha igual a :date.',
     'date_format'          => 'El campo no corresponde al formato :format.',

@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'Šim laukam jābūt patiesam vai nepatiesam.',
     'confirmed'            => 'Apstiprinājums neatbilst.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'Tas nav derīgs datums.',
     'date_equals'          => 'Tam jābūt datumam, kas vienāds ar :date.',
     'date_format'          => 'Tas neatbilst formātam :format.',

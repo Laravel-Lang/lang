@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => ':attribute 必须为布尔值。',
     'confirmed'            => ':attribute 两次输入不一致。',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => ':attribute 不是一个有效的日期。',
     'date_equals'          => ':attribute 必须要等于 :date。',
     'date_format'          => ':attribute 的格式必须为 :format。',

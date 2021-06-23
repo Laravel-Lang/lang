@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'Må være sann eller usann',
     'confirmed'            => 'Er ikke likt bekreftelsesfeltet.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'Er ikke en gyldig dato.',
     'date_equals'          => 'Må være en dato lik :date.',
     'date_format'          => 'Samsvarer ikke med formatet :format.',

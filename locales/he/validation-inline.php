@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'שדה זה חייב להיות אמת או שקר.',
     'confirmed'            => 'האישור אינו תואם.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'זה לא תאריך תקף.',
     'date_equals'          => 'זה חייב להיות תאריך שווה ל-:date.',
     'date_format'          => 'זה לא מתאים לפורמט :format.',

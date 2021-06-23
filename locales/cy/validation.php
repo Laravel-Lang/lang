@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'Rhaid i\'r maes :attribute fod yn wir neu gau.',
     'confirmed'            => 'Nid yw\'r cadarnhad :attribute yn gyfwerth.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'Nid yw :attribute yn ddyddiad dilys.',
     'date_equals'          => 'Y :attribute rhaid dyddiad cyfartal i :date.',
     'date_format'          => 'Nid yw :attribute yn y fformat :format.',

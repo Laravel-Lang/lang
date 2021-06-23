@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'Ennek a mezőnek igaznak vagy hamisnak kell lennie.',
     'confirmed'            => 'A megerősítés nem egyezik.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'Ez nem érvényes dátum.',
     'date_equals'          => 'Ennek :date-nak kell lennie.',
     'date_format'          => 'Ez nem felel meg az :format formátumnak.',

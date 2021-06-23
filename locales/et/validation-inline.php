@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'See väli peab olema tõene või vale.',
     'confirmed'            => 'Kinnitus ei sobi.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'See ei ole kehtiv kuupäev.',
     'date_equals'          => 'See peab olema kuupäev, mis võrdub :date-ga.',
     'date_format'          => 'See ei vasta vormingule :format.',

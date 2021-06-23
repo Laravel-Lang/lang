@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'Бұл өріс шын немесе жалған болуы керек.',
     'confirmed'            => 'Растау бірдей емес.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'Бұл жарамды күн емес.',
     'date_equals'          => 'Бұл :date жылға тең күн болуы керек.',
     'date_format'          => 'Бұл :format форматына сәйкес келмейді.',

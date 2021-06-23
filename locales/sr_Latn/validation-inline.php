@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'Ovo polje mora biti tačno ili netačno.',
     'confirmed'            => 'Potvrda se ne poklapa.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'Nije odgovarajući datum.',
     'date_equals'          => 'Mora da bude datum: :date.',
     'date_format'          => 'Ovo ne odgovora formatu: :format.',

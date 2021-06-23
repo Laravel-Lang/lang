@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'Lo camp :attribute deu èsser true o false.',
     'confirmed'            => 'Lo camp de confirmacion :attribute correspond pas.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'Lo camp :attribute es pas una data valida.',
     'date_equals'          => 'Lo camp :attribute deu èsser una data egala a :date.',
     'date_format'          => ':attribute correspond pas al format :format.',

@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'यो क्षेत्र सहि वा गलत हुन पर्छ।',
     'confirmed'            => 'पुष्टिकरण मेल खाँदैन।',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'यो मान्य मिति छैन।',
     'date_equals'          => 'यो मिति बराबर :date हुनुपर्दछ।',
     'date_format'          => 'यो ढाँचासँग मेल खाँदैन :format।',

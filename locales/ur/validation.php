@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => ':attribute لازماً درست یا غلط ہونا چاہیے۔',
     'confirmed'            => ':attribute تصدیق سے مطابقت نہیں رکھتا۔',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => ':attribute قابلِ قبول تاریخ نہیں ہے۔',
     'date_equals'          => 'اس :attribute ہونا ضروری ہے ، ایک تاریخ کے لئے برابر :date.',
     'date_format'          => ':attribute فارمیٹ :format کے مطابق نہیں ہے۔',

@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => ':Attribute талбарын утга үнэн эсвэл худал байх шаардлагатай.',
     'confirmed'            => ':Attribute талбарын баталагажуулалт тохирохгүй байна.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => ':Attribute талбарт оруулсан огноо буруу байна.',
     'date_equals'          => ':attribute нь :date онтой тэнцүү байх естой.',
     'date_format'          => ':Attribute талбарт :format хэлбэртэй огноо оруулна уу.',

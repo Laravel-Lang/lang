@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'Dette felt skal være sandt eller falsk.',
     'confirmed'            => 'Bekræftelsen stemmer ikke overens.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'Dette er ikke en gyldig dato.',
     'date_equals'          => 'Dette skal være en dato svarende til :date.',
     'date_format'          => 'Dette svarer ikke til formatet :format.',

@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'Mae hyn yn maes rhaid i fod yn wir neu anwir.',
     'confirmed'            => 'Mae\'r cadarnhad nad yw\'n cyd-fynd.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'Nid yw hyn yn ddilys ar y dyddiad.',
     'date_equals'          => 'Rhaid i hwn fod yn ddyddiad yn hafal i :date.',
     'date_format'          => 'Nid yw hyn yn cyfateb i\'r fformat :format.',

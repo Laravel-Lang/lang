@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'Ово поље мора бити истинито или лажно.',
     'confirmed'            => 'Потврда није иста.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'То није валидан Датум.',
     'date_equals'          => 'То би требао бити датум једнак :date.',
     'date_format'          => 'То не одговара формату :format.',

@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => ':attribute ត្រូវតែជា ពិត ឬ មិនពិត',
     'confirmed'            => ':attribute ការបញ្ជាក់មិនផ្គូរផ្គង។',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => ':attribute គឺមិនមែនជាកាលបរិច្ឆេទត្រឹមត្រូវ។',
     'date_equals'          => ':attribute ត្រូវតែជាកាលបរិច្ឆេទស្មើនឹង :date។',
     'date_format'          => ':attribute មិនត្រឹមត្រូវនឹងទម្រង់ :format នេះ។',

@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => ':attribute-(r)en balioa egia edo gezurra izan behar da.',
     'confirmed'            => ':attribute-(r)en berrespena ez dator bat.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => ':attribute ez da baliozko data.',
     'date_equals'          => 'The :attribute bat izan behar du data berdina :date.',
     'date_format'          => ':attribute datak ez du :format formatua.',

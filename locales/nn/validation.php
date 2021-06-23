@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => ':attribute må vere sann eller usann.',
     'confirmed'            => ':attribute er ikkje likt feltet for stadfesting.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => ':attribute er ikkje ein gyldig dato.',
     'date_equals'          => ':attribute må vere ein dato lik :date.',
     'date_format'          => ':attribute er ikkje likt formatet :format.',

@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'Trường này phải là true hoặc false.',
     'confirmed'            => 'Giá trị xác nhận trong trường này không khớp.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'Trường này không phải là định dạng của ngày-tháng.',
     'date_equals'          => 'Trường này phải là một ngày bằng với :date.',
     'date_format'          => 'Trường này không giống với định dạng :format.',

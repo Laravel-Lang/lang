@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => ':attribute diňe dogry ýada ýalňyş bolmalydyr.',
     'confirmed'            => ':attribute tassyklamasy deň däl.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => ':attribute dogry sene bolmalydyr.',
     'date_equals'          => 'The :attribute must be a date equal to :date.',
     'date_format'          => ':attribute :format formatyna deň däl.',

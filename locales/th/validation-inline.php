@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'ช่องข้อมูลนี้ต้องเป็นเรื่องจริงหรือเท็จ',
     'confirmed'            => 'ครับการยืนยันไม่ตรงกัน',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'นี่เป็นค่าวันที่ที่ไม่ถูกต้อง!',
     'date_equals'          => 'นี่ต้องเป็นวันเท่ากับ :date.',
     'date_format'          => 'นี่มันไม่ตรงกับรูปแบบ :format.',

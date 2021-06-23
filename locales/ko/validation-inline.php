@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => '이 필드는 true 또는 false 이어야 합니다.',
     'confirmed'            => '확인 항목이 일치하지 않습니다.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => '유효한 날짜가 아닙니다.',
     'date_equals'          => ':date과(와) 같은날짜여야합니다.',
     'date_format'          => ':format 형식과 일치하지 않습니다.',

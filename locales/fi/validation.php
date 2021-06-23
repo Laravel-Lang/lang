@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'Kentän :attribute arvon tulee olla tosi tai epätosi.',
     'confirmed'            => 'Kentän :attribute vahvistus ei täsmää.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'Kentän :attribute arvo ei ole kelvollinen päivämäärä.',
     'date_equals'          => ':attribute on oltava sama päivämäärä kuin :date.',
     'date_format'          => 'Kentän :attribute arvo ei vastaa muotoa :format.',

@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => ':attributeには、\'true\'か\'false\'を指定してください。',
     'confirmed'            => ':attributeと:attribute確認が一致しません。',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => ':attributeは、正しい日付ではありません。',
     'date_equals'          => ':attributeは:dateに等しい日付でなければなりません。',
     'date_format'          => ':attributeの形式は、\':format\'と合いません。',

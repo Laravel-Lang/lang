@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'Fusha :attribute duhet të jetë e vërtetë ose e gabuar',
     'confirmed'            => ':attribute konfirmimi nuk përputhet.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => ':attribute nuk është një datë e saktë.',
     'date_equals'          => ':attribute duhet të jetë datë e barabartë me :date.',
     'date_format'          => ':attribute nuk i përshtatet formatit :format.',

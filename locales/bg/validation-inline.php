@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'Това поле трябва да е вярно или невярно.',
     'confirmed'            => 'Потвърждението не съвпада.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'Това не е валидна дата.',
     'date_equals'          => 'Това трябва да е дата, равна на :date.',
     'date_format'          => 'Това не съответства на формата :format.',

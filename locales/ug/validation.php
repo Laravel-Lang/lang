@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => ':attribute چوقۇم بۇل قىممىتى بۇلىشى كېرەك.',
     'confirmed'            => ':attribute ئىككى قېتىم كىرگۈزگەن قىممەت ئوخشاش بولمىدى.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => ':attribute بىر ئىناۋەتلىك ۋاقىت ئەمەس.',
     'date_equals'          => 'The :attribute must be a date equal to :date.',
     'date_format'          => ':attribute تىپى چوقۇم :format بۇلىشى كېرەك.',

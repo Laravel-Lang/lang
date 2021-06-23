@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => ':attribute फील्ड योग्य किंवा चुकीचे असावे.',
     'confirmed'            => ':attribute पुष्टीकरण जुळत नाही.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => ':attribute वैध तारीख नाही.',
     'date_equals'          => ':attribute, :date तारीख समान असणे आवश्यक आहे.',
     'date_format'          => ':attribute फॉर्मेट :format शी जुळत नाही.',

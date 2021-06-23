@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => ':attribute ठिक अथवा बेठिक हुनुपर्छ।',
     'confirmed'            => ':attribute दाेहाेर्याइएकाे मिलेन।',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => ':attribute को मिति मिलेन।',
     'date_equals'          => ':attribute मिति बराबर :date हुनुपर्दछ।',
     'date_format'          => ':attribute को ढाँचा :format जस्तो हुनुपर्छ।',

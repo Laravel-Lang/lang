@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'Ruangan ini mesti benar atau salah.',
     'confirmed'            => 'Pengesahan yang tidak sepadan.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'Tarikh ini tidak sah.',
     'date_equals'          => 'Tarikh mesti sama dengan :date.',
     'date_format'          => 'Format tarikh tidak sepadan dengan :format.',

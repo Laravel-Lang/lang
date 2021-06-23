@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => ':attribute ველი უნდა იყოს true ან false.',
     'confirmed'            => ':attribute-ის დადასტურება არ ემთხვევა.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => ':attribute შეიცავს თარიღის არასწორ ფორმატს.',
     'date_equals'          => ':attribute უნდა იყოს :date-ის ტოლი თარიღი.',
     'date_format'          => ':attribute არ ემთხვევა თარიღის ფორმატს: :format.',

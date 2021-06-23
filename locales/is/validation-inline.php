@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'Þetta sviði verður að vera rétt eða rangt.',
     'confirmed'            => 'Staðfestingu passar ekki.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'Þetta er ekki gilt degi.',
     'date_equals'          => 'Þetta hlýtur að vera stefnumót jafn :date.',
     'date_format'          => 'Þetta passar ekki í formi :format.',

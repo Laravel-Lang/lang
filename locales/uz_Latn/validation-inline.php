@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'Bu maydon rost yoki yolg\'on bo\'lishi kerak.',
     'confirmed'            => 'Tasdiqlash mos emas.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'Bu amal sana emas.',
     'date_equals'          => 'Bu :date ga teng sana bo\'lishi kerak.',
     'date_format'          => 'Bu :format formatiga mos kelmaydi.',

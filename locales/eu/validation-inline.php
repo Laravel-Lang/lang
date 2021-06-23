@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'Eremu hau izan behar egia edo gezurra.',
     'confirmed'            => 'Baieztapen horrek ez du partida.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'Hau ez da baliozko data bat.',
     'date_equals'          => 'Hau behar data bat berdina :date.',
     'date_format'          => 'Hau ez dator formatu :format.',

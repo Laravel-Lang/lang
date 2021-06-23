@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'Ang :attribute ng attribute ay dapat tama o mali.',
     'confirmed'            => 'Ang :attribute ng attribute ay hindi magkatugma.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'Ang :attribute ay hindi balidong petsa.',
     'date_equals'          => ':attribute ay dapat na isang petsa na katumbas ng :date.',
     'date_format'          => 'Ang :attribute ay hindi katugma ng format :format.',

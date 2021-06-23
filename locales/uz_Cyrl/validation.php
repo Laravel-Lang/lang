@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => ':attribute майдони фақат мантиқий қийматни қабул қилади.',
     'confirmed'            => ':attribute тасдиқлангани билан мос келмади.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => ':attribute сана эмас.',
     'date_equals'          => ':attribute сана :date га тенг бўлиши керак.',
     'date_format'          => ':attribute майдони :format форматга мос келмади.',

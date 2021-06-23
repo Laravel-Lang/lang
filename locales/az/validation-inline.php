@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'Bu sahə doğru və ya yalan olmalıdır.',
     'confirmed'            => 'Təsdiq üst-üstə düşmür.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'Bu etibarlı tarix deyil.',
     'date_equals'          => 'Bu, :date-cü ilə bərabər tarix olmalıdır.',
     'date_format'          => 'Bu format :format uyğun deyil.',

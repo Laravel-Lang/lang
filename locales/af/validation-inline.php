@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'Hierdie veld moet waar of onwaar wees.',
     'confirmed'            => 'Die bevestiging stem nie ooreen nie.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'Dit is nie \'n geldige datum nie.',
     'date_equals'          => 'Dit moet \'n datum wees wat gelyk is aan :date.',
     'date_format'          => 'Dit stem nie ooreen met die :format formaat nie.',

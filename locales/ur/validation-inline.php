@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'اس میدان میں ہونا ضروری ہے سچ ہے یا جھوٹ.',
     'confirmed'            => 'تصدیق سے مماثل نہیں ہے.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'یہ نہیں ہے ایک درست تاریخ.',
     'date_equals'          => 'یہ ہونا ضروری ہے ، ایک تاریخ کے لئے برابر :date.',
     'date_format'          => 'اس کا مطلب یہ نہیں ملنے کی شکل :format.',

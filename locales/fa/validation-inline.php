@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'این مقدار باید حتما true و یا false باشد.',
     'confirmed'            => 'با مقدار تکرار همخوانی ندارد.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'این مقدار یک تاریخ معبتر نیست.',
     'date_equals'          => 'این مقدار باید یک تاریخ مساوی با :date باشد.',
     'date_format'          => 'این مقدار با فرمت :format همخوانی ندارد.',

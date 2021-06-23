@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'Trường :attribute phải là true hoặc false.',
     'confirmed'            => 'Giá trị xác nhận trong trường :attribute không khớp.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'Trường :attribute không phải là định dạng của ngày-tháng.',
     'date_equals'          => 'Trường :attribute phải là một ngày bằng với :date.',
     'date_format'          => 'Trường :attribute không giống với định dạng :format.',

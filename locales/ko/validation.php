@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => ':attribute은(는) true 또는 false 이어야 합니다.',
     'confirmed'            => ':attribute 확인 항목이 일치하지 않습니다.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => ':attribute은(는) 유효한 날짜가 아닙니다.',
     'date_equals'          => ':attribute은(는) :date과(와) 같은날짜여야합니다.',
     'date_format'          => ':attribute이(가) :format 형식과 일치하지 않습니다.',

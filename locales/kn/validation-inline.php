@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'ಈ ಕ್ಷೇತ್ರದಲ್ಲಿ ಇರಬೇಕು ನಿಜ ಅಥವಾ ಸುಳ್ಳು.',
     'confirmed'            => 'ದೃಢೀಕರಣ ಹೊಂದಿಕೆಯಾಗುವುದಿಲ್ಲ.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'This is not a valid date.',
     'date_equals'          => 'ಈ ಮಾಡಬೇಕು ಒಂದು ದಿನಾಂಕ ಸಮಾನ :date.',
     'date_format'          => 'ಈ does not match the format :format.',

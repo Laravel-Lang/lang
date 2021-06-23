@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'Ин соҳа бояд бошад, ҳақ е бардурӯғ.',
     'confirmed'            => 'Тасдиқи мувофиқ нест.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'Ин действительная таърих.',
     'date_equals'          => 'Ин бояд сана, баробар ба :date сол.',
     'date_format'          => 'Ин ба формату :format.',

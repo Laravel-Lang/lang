@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'Sehemu ya kipengele lazima iwe kweli au si kweli.',
     'confirmed'            => 'Uthibitisho wa kipengele haulingani.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'Kipengele si tarehe halali.',
     'date_equals'          => ':attribute inapaswa kuwa tarehe sawa na :date.',
     'date_format'          => 'Kipengele hakilingani na muundo :date.',

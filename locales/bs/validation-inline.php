@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'Ovo polje mora da je istina ili laž.',
     'confirmed'            => 'Potvrda se ne poklapa.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'Ovo nije važeći sastanak.',
     'date_equals'          => 'Ovo mora biti Datum jednako :date.',
     'date_format'          => 'Ovo ne odgovara formatu :format.',

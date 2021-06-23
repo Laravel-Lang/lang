@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'Polje mora biti da ali ne.',
     'confirmed'            => 'Potrditev se ne ujema.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'Datum ni veljaven.',
     'date_equals'          => 'Datum mora biti enak :date.',
     'date_format'          => 'Datum ne ustreza formatu :format.',

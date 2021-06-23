@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => ':attribute sadece doğru veya yanlış olmalıdır.',
     'confirmed'            => ':attribute tekrarı eşleşmiyor.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => ':attribute geçerli bir tarih değil.',
     'date_equals'          => ':attribute mutlaka :date ile aynı tarihte olmalıdır.',
     'date_format'          => ':attribute mutlaka :format biçiminde olmalıdır.',

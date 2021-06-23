@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'ეს ველი უნდა იყოს ჭეშმარიტი ან ცრუ.',
     'confirmed'            => 'დადასტურება არ ემთხვევა.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'ეს არ არის სწორი თარიღი.',
     'date_equals'          => 'ეს უნდა იყოს თარიღი ტოლია :date.',
     'date_format'          => 'ეს არ ემთხვევა ფორმატი :format.',

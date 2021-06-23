@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'Dit veld moet ja of nee zijn.',
     'confirmed'            => 'De bevestiging komt niet overeen.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'Dit is geen geldige datum',
     'date_equals'          => 'Dit moet een datum gelijk aan :date zijn.',
     'date_format'          => 'Dit voldoet niet aan het formaat :format.',

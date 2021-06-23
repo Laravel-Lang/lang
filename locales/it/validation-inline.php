@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'Deve essere vero o falso.',
     'confirmed'            => 'Il valore di conferma non corrisponde.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'Non è una data valida.',
     'date_equals'          => 'La data deve essere :date.',
     'date_format'          => 'La data non è nel formato :format.',

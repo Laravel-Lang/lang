@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'دا باید ارزښت وي :attribute او یا هم true یا false .',
     'confirmed'            => 'د تایید ساحه د ساحې سره سمون نه لري:attribute.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => ':attribute نېټه اعتبار نلري .',
     'date_equals'          => 'دا باید وي :attribute د نیټې سره سم:date.',
     'date_format'          => 'مطابقت نلري :attribute د شکل سره:format.',

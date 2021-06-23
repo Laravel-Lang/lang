@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'Polje :attribute mora biti false ili true.',
     'confirmed'            => 'Potvrda polja :attribute se ne podudara.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'Polje :attribute nije ispravan datum.',
     'date_equals'          => 'Stavka :attribute mora biti jednaka :date.',
     'date_format'          => 'Polje :attribute ne podudara s formatom :format.',

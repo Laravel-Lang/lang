@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'ข้อมูล :attribute ต้องเป็นจริง หรือเท็จ เท่านั้น',
     'confirmed'            => 'ข้อมูล :attribute ไม่ตรงกัน',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'ข้อมูล :attribute ต้องเป็นวันที่',
     'date_equals'          => 'ข้อมูล :attribute ต้องเป็นวันที่ที่เท่ากับ :date',
     'date_format'          => 'ข้อมูล :attribute ไม่ตรงกับข้อมูลกำหนด :format.',

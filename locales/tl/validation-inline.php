@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'Ang patlang na ito ay dapat na totoo o hindi.',
     'confirmed'            => 'Kumpirmasyon ay hindi tumutugma.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'Ito ay hindi isang wastong petsa.',
     'date_equals'          => 'Ito ay dapat na isang petsa na katumbas ng :date.',
     'date_format'          => 'Ito ay hindi tumutugma sa pormat :format.',

@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'Қиммати :attribute бояд логикӣ дошта бошад.',
     'confirmed'            => 'Қиммати :attribute бо қиммати тасдиқотӣ мувофиқат надорад.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'Қиммати :attribute санаи нодуруст мебошад.',
     'date_equals'          => ':attribute бояд санаи, баробар :date.',
     'date_format'          => 'Қиммати :attribute бо формати :format мувофиқат намекунад.',

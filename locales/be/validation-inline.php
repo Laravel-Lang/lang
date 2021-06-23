@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'Гэта поле павінна быць сапраўдным або ілжывым.',
     'confirmed'            => 'Пацверджанне не супадае.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'Гэта не сапраўдная дата.',
     'date_equals'          => 'Гэта павінна быць дата, роўная :date годзе.',
     'date_format'          => 'Гэта не адпавядае фармату :format.',

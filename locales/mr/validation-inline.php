@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'या क्षेत्रात खरे किंवा खोटे असणे आवश्यक आहे.',
     'confirmed'            => 'पुष्टीकरण जुळत नाही.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'ही एक वैध तारीख नाही.',
     'date_equals'          => 'या :date समान तारीख असणे आवश्यक आहे.',
     'date_format'          => 'या स्वरूपात जुळत नाही :format.',

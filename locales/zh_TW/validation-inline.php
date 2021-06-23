@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => '必須為布林值。',
     'confirmed'            => '確認欄位的輸入不一致。',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => '不是有效的日期。',
     'date_equals'          => '必須等於 :date。',
     'date_format'          => '不符合 :format 的格式。',

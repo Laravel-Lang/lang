@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => ':attribute maydoni faqat mantiqiy qiymatni qabul qiladi.',
     'confirmed'            => ':attribute tasdiqlangani bilan mos kelmadi.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => ':attribute sana emas.',
     'date_equals'          => ':attribute sana :date ga teng bo‘lishi kerak.',
     'date_format'          => ':attribute maydoni :format formatga mos kelmadi.',

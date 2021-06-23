@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'Pole musi mieć wartość logiczną prawda albo fałsz.',
     'confirmed'            => 'Potwierdzenie pola nie zgadza się.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'Pole nie jest prawidłową datą.',
     'date_equals'          => 'Pole musi być datą równą :date.',
     'date_format'          => 'Pole nie jest w formacie :format.',

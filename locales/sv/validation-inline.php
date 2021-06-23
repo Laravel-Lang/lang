@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'Detta fält måste vara sant eller falskt.',
     'confirmed'            => 'Bekräftelsen matchar inte.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'Detta är inte ett giltigt datum.',
     'date_equals'          => 'Detta måste vara ett datum som motsvarar :date.',
     'date_format'          => 'Detta matchar inte formatet :format.',

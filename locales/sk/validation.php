@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => ':Attribute musí byť pravda alebo nepravda.',
     'confirmed'            => ':Attribute konfirmácia sa nezhoduje.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => ':Attribute má neplatný dátum.',
     'date_equals'          => ':Attribute musí byť dátum rovnajúci sa :date.',
     'date_format'          => ':Attribute sa nezhoduje s formátom :format.',

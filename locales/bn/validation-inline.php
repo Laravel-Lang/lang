@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'এই ক্ষেত্রটি সত্য বা মিথ্যা হতে হবে.',
     'confirmed'            => 'নিশ্চিতকরণ সাথে মেলে না.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'এটি একটি বৈধ তারিখ নয়.',
     'date_equals'          => 'এই সমান একটি তারিখ হতে হবে :date.',
     'date_format'          => 'এই বিন্যাসে সাথে মেলে না :format.',

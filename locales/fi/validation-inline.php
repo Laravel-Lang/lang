@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'Tämän kentän on oltava tosi tai epätosi.',
     'confirmed'            => 'Vahvistus ei täsmää.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'Tämä ei ole pätevä päivämäärä.',
     'date_equals'          => 'Tämän päivämäärän on oltava :date.',
     'date_format'          => 'Tämä ei vastaa muotoa :format.',

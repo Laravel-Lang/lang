@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'Поле :attribute повинне містити логічний тип.',
     'confirmed'            => 'Поле :attribute не збігається з підтвердженням.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'Поле :attribute не є датою.',
     'date_equals'          => 'Поле :attribute має бути датою рівною :date.',
     'date_format'          => 'Поле :attribute не відповідає формату :format.',

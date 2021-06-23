@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'Поле :attribute павінна мець значэнне лагічнага тыпу.',
     'confirmed'            => 'Поле :attribute не супадае з пацвярджэннем.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'Поле :attribute не з\'яўляецца датай.',
     'date_equals'          => ':attribute павінна быць датай, роўнай :date.',
     'date_format'          => 'Поле :attribute не адпавядае фармату :format.',

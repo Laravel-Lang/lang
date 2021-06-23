@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'Acest câmp trebuie să fie adevărat sau fals.',
     'confirmed'            => 'Confirmarea nu se potrivește.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'Aceasta nu este o dată validă.',
     'date_equals'          => 'Aceasta trebuie să fie o dată egală cu :date.',
     'date_format'          => 'Acest lucru nu se potrivește cu formatul :format.',

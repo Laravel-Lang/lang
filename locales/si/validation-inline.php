@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'මේ ක්ෂේත්රයේ විය යුතුය, සැබෑ හෝ බොරු.',
     'confirmed'            => 'තහවුරු නොගැලපේ.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'මෙම වලංගු වන දිනය.',
     'date_equals'          => 'මෙම විය යුතුය දිනය සමාන :date.',
     'date_format'          => 'මේ නොගැලපේ ආකෘතිය :format.',

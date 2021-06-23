@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'Το πεδίο :attribute πρέπει να είναι true ή false.',
     'confirmed'            => 'Η επιβεβαίωση του :attribute δεν ταιριάζει.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'Το πεδίο :attribute δεν είναι έγκυρη ημερομηνία.',
     'date_equals'          => 'Το στοιχείο :attribute πρέπει να είναι μια ημερομηνία, όπως η εξής :date.',
     'date_format'          => 'Το πεδίο :attribute δεν είναι της μορφής :format.',

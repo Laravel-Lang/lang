@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'Lauko reikšmė :attribute turi būti \'taip\' arba \'ne\'.',
     'confirmed'            => 'Lauko :attribute patvirtinimas nesutampa.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'Lauko :attribute reikšmė nėra galiojanti data.',
     'date_equals'          => 'Lauko :attribute reikšmė turi būti data lygi :date.',
     'date_format'          => 'Lauko :attribute reikšmė neatitinka formato :format.',

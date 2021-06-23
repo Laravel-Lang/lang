@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'Ова поле мора да има вредност вистинито (true) или невистинито (false).',
     'confirmed'            => 'Ова поле не е потврдено.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'Ова не е валиден датум.',
     'date_equals'          => 'Ова мора да биде датум еднаков на :date.',
     'date_format'          => 'Oва не одговара на форматот :format.',

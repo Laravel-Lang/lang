@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'Kjo fushë duhet të jetë e vërtetë ose e gabuar',
     'confirmed'            => 'Konfirmimi nuk përputhet.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'Kjo nuk është një datë e saktë.',
     'date_equals'          => 'Kjo duhet të jetë datë e barabartë me :date.',
     'date_format'          => 'Kjo nuk i përshtatet formatit :format.',

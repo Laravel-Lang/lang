@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'ಈ  :attribute ಕ್ಷೇತ್ರವು ನಿಜ ಅಥವಾ ಸುಳ್ಳು ಆಗಿರಬೇಕು.',
     'confirmed'            => 'ಈ  :attribute ದೃಢೀಕರಣವು ಹೊಂದಿಕೆಯಾಗುವುದಿಲ್ಲ.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'ಈ  :attribute ಮಾನ್ಯ ದಿನಾಂಕವಲ್ಲ.',
     'date_equals'          => 'ಈ  :attribute ದಿನಾಂಕವು  :date ಸಮನಾದ ದಿನಾಂಕವಾಗಿರಬೇಕು.',
     'date_format'          => 'ಈ  :attribute ನ :format ಸ್ವರೂಪಕ್ಕೆ ಹೊಂದಿಕೆಯಾಗುವುದಿಲ್ಲ.',

@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => ':attribute väli peab olema tõene või väär.',
     'confirmed'            => ':attribute kinnitus ei vasta.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => ':attribute pole kehtiv kuupäev.',
     'date_equals'          => ':attribute peab olema kuupäev väärtusega :date',
     'date_format'          => ':attribute ei vasta formaadile :format.',

@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'trueまたはfalseを指定してください。',
     'confirmed'            => '確認の内容が一致しません。',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => '有効な日付ではありません。',
     'date_equals'          => ':date 同じ日付を指定してください。',
     'date_format'          => ':format の形と一致しません。',

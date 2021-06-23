@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => ' :attribute жолы шын немесе жалған мән болуы керек.',
     'confirmed'            => ' :attribute растауы сәйкес емес.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => ' :attribute жарамды күн емес.',
     'date_equals'          => ' :attribute мәні :date күнімен тең болуы керек.',
     'date_format'          => ' :attribute пішімі :format пішіміне сай емес.',

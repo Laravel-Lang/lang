@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'Энэ талбар нь үнэн, худал байх естой.',
     'confirmed'            => 'Баталгаа нь таарахгүй байна.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'Энэ бол хүчинтэй хугацаа биш юм.',
     'date_equals'          => 'Энэ нь :date-тай тэнцүү байх естой.',
     'date_format'          => 'Энэ хэлбэр нь таарахгүй :format.',

@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'Reiturinn :attribute verður að vera réttur eða rangur.',
     'confirmed'            => 'Staðfesting á reitnum :attribute passar ekki.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'Reiturinn :attribute er ekki rétt dagsetning.',
     'date_equals'          => ':attribute verður að vera dagsetning sem er sú sama og :date.',
     'date_format'          => 'Reiturinn :attribute passar ekki við :format.',

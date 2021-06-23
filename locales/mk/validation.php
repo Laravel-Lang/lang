@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'Полето :attribute мора да има вредност вистинито (true) или невистинито (false).',
     'confirmed'            => 'Полето :attribute не е потврдено.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'Полето :attribute не е валиден датум.',
     'date_equals'          => 'Полето :attribute мора да биде датум еднаков на :date.',
     'date_format'          => 'Полето :attribute не одговара на форматот :format.',

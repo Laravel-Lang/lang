@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => ':attribute lauciņam jābūt patiesam vai nepatiesam.',
     'confirmed'            => ':attribute apstiprinājums neatbilst.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => ':attribute nav derīgs.',
     'date_equals'          => ':attribute datumam jāsakrīt ar :date.',
     'date_format'          => ':attribute neatbilst formātam :format.',

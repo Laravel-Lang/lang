@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => ':attribute polje mora biti 1 ali 0',
     'confirmed'            => ':attribute potrditev se ne ujema.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => ':attribute ni veljaven datum.',
     'date_equals'          => ':attribute mora biti enak :date.',
     'date_format'          => ':attribute se ne ujema z obliko :format.',

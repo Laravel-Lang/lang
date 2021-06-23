@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'The :attribute field must be true or false',
     'confirmed'            => 'Su campu de cunfirma pro :attribute non torrat.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => ':attribute no est una data bàlida.',
     'date_equals'          => 'The :attribute must be a date equal to :date.',
     'date_format'          => ':attribute non torrat cun su formadu :format.',

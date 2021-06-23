@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'يجب أن تكون قيمة هذا الحقل إما true أو false .',
     'confirmed'            => 'التأكيد غير متطابق.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'هذا ليس تاريخًا صحيحًا.',
     'date_equals'          => 'يجب أن يكون تاريخاً مطابقاً للتاريخ :date.',
     'date_format'          => 'لا يتوافق مع الشكل :format.',

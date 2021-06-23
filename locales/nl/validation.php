@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => ':Attribute moet ja of nee zijn.',
     'confirmed'            => ':Attribute bevestiging komt niet overeen.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => ':Attribute moet een datum bevatten.',
     'date_equals'          => ':Attribute moet een datum gelijk aan :date zijn.',
     'date_format'          => ':Attribute moet een geldig datum formaat bevatten.',

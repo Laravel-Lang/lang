@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'O campo :attribute debe ser verdadeiro ou falso.',
     'confirmed'            => 'A confirmación de :attribute non coincide.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => ':attribute non é unha data válida.',
     'date_equals'          => ':attribute debe ser unha data igual a :date.',
     'date_format'          => ':attribute non coincide co formato :format.',

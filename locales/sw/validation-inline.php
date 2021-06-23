@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'Uwanja huu lazima kuwa kweli au uongo.',
     'confirmed'            => 'Uthibitisho haina mechi.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'Hii si halali kwa sasa.',
     'date_equals'          => 'Hii ni lazima kuwa tarehe sawa na :date.',
     'date_format'          => 'Hii haina mechi ya format :format.',

@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'Toto pole musí být pravdivé nebo nepravdivé.',
     'confirmed'            => 'Potvrzení neodpovídá.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => 'Toto není platné datum.',
     'date_equals'          => 'Toto musí být Datum rovnající se :date.',
     'date_format'          => 'To neodpovídá formátu :format.',

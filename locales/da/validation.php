@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => ':attribute skal være sand eller falsk.',
     'confirmed'            => ':attribute er ikke det samme som bekræftelsesfeltet.',
+    'current_password'     => 'The password is incorrect.',
     'date'                 => ':attribute er ikke en gyldig dato.',
     'date_equals'          => ':attribute skal være en dato lig med :date.',
     'date_format'          => ':attribute matcher ikke formatet :format.',

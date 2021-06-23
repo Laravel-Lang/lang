@@ -2,8 +2,44 @@
 
 # uk
 
-##### All missed: 114
+##### All missed: 116
 
+
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/uk/validation-inline.php)
+
+##### Missing: 1
+
+<table >
+<tr><td align="left" >
+current_password
+</td>
+<td align="left" >
+The password is incorrect.
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/uk/validation.php)
+
+##### Missing: 1
+
+<table >
+<tr><td align="left" >
+current_password
+</td>
+<td align="left" >
+The password is incorrect.
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
 
 ### [uk](https://github.com/Laravel-Lang/lang/blob/master/locales/uk/uk.json)
 

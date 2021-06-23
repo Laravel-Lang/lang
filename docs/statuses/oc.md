@@ -2,7 +2,7 @@
 
 # oc
 
-##### All missed: 676
+##### All missed: 678
 
 
 ### [passwords](https://github.com/Laravel-Lang/lang/blob/master/locales/oc/passwords.php)
@@ -25,7 +25,7 @@ Please wait before retrying.
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/oc/validation-inline.php)
 
-##### Missing: 5
+##### Missing: 6
 
 <table >
 <tr><td align="left" >
@@ -33,6 +33,13 @@ attached
 </td>
 <td align="left" >
 This field is already attached.
+</td>
+</tr>
+<tr><td align="left" >
+current_password
+</td>
+<td align="left" >
+The password is incorrect.
 </td>
 </tr>
 <tr><td align="left" >
@@ -71,7 +78,7 @@ This field may not be associated with this resource.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/oc/validation.php)
 
-##### Missing: 5
+##### Missing: 6
 
 <table >
 <tr><td align="left" >
@@ -79,6 +86,13 @@ attached
 </td>
 <td align="left" >
 This :attribute is already attached.
+</td>
+</tr>
+<tr><td align="left" >
+current_password
+</td>
+<td align="left" >
+The password is incorrect.
 </td>
 </tr>
 <tr><td align="left" >

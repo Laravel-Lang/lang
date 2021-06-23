@@ -2,8 +2,44 @@
 
 # af
 
-##### All missed: 87
+##### All missed: 89
 
+
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/af/validation-inline.php)
+
+##### Missing: 1
+
+<table >
+<tr><td align="left" >
+current_password
+</td>
+<td align="left" >
+The password is incorrect.
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/af/validation.php)
+
+##### Missing: 1
+
+<table >
+<tr><td align="left" >
+current_password
+</td>
+<td align="left" >
+The password is incorrect.
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
 
 ### [af](https://github.com/Laravel-Lang/lang/blob/master/locales/af/af.json)
 

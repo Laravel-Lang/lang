@@ -2,7 +2,7 @@
 
 # tk
 
-##### All missed: 804
+##### All missed: 806
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/tk/auth.php)
@@ -57,7 +57,7 @@ Please wait before retrying.
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/tk/validation-inline.php)
 
-##### Missing: 94
+##### Missing: 95
 
 <table >
 <tr><td align="left" >
@@ -177,6 +177,13 @@ confirmed
 </td>
 <td align="left" >
 The confirmation does not match.
+</td>
+</tr>
+<tr><td align="left" >
+current_password
+</td>
+<td align="left" >
+The password is incorrect.
 </td>
 </tr>
 <tr><td align="left" >
@@ -726,7 +733,7 @@ This must be a valid UUID.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/tk/validation.php)
 
-##### Missing: 41
+##### Missing: 42
 
 <table >
 <tr><td align="left" >
@@ -748,6 +755,13 @@ before_or_equal
 </td>
 <td align="left" >
 The :attribute must be a date before or equal to :date.
+</td>
+</tr>
+<tr><td align="left" >
+current_password
+</td>
+<td align="left" >
+The password is incorrect.
 </td>
 </tr>
 <tr><td align="left" >

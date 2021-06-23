@@ -2,8 +2,44 @@
 
 # pt_BR
 
-##### All missed: 104
+##### All missed: 106
 
+
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/pt_BR/validation-inline.php)
+
+##### Missing: 1
+
+<table >
+<tr><td align="left" >
+current_password
+</td>
+<td align="left" >
+The password is incorrect.
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/pt_BR/validation.php)
+
+##### Missing: 1
+
+<table >
+<tr><td align="left" >
+current_password
+</td>
+<td align="left" >
+The password is incorrect.
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
 
 ### [pt_BR](https://github.com/Laravel-Lang/lang/blob/master/locales/pt_BR/pt_BR.json)
 

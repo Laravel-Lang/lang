@@ -2,8 +2,44 @@
 
 # hy
 
-##### All missed: 115
+##### All missed: 117
 
+
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/hy/validation-inline.php)
+
+##### Missing: 1
+
+<table >
+<tr><td align="left" >
+current_password
+</td>
+<td align="left" >
+The password is incorrect.
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/hy/validation.php)
+
+##### Missing: 1
+
+<table >
+<tr><td align="left" >
+current_password
+</td>
+<td align="left" >
+The password is incorrect.
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
 
 ### [hy](https://github.com/Laravel-Lang/lang/blob/master/locales/hy/hy.json)
 

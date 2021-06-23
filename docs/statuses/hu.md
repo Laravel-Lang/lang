@@ -2,12 +2,12 @@
 
 # hu
 
-##### All missed: 210
+##### All missed: 212
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/hu/validation-inline.php)
 
-##### Missing: 32
+##### Missing: 33
 
 <table >
 <tr><td align="left" >
@@ -36,6 +36,13 @@ between.string
 </td>
 <td align="left" >
 This string must be between :min and :max characters.
+</td>
+</tr>
+<tr><td align="left" >
+current_password
+</td>
+<td align="left" >
+The password is incorrect.
 </td>
 </tr>
 <tr><td align="left" >
@@ -232,6 +239,24 @@ size.string
 </td>
 <td align="left" >
 The string must be :size characters.
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/hu/validation.php)
+
+##### Missing: 1
+
+<table >
+<tr><td align="left" >
+current_password
+</td>
+<td align="left" >
+The password is incorrect.
 </td>
 </tr>
 

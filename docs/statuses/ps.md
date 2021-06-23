@@ -2,7 +2,7 @@
 
 # ps
 
-##### All missed: 740
+##### All missed: 742
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/ps/auth.php)
@@ -43,7 +43,7 @@ Please wait before retrying.
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/ps/validation-inline.php)
 
-##### Missing: 94
+##### Missing: 95
 
 <table >
 <tr><td align="left" >
@@ -163,6 +163,13 @@ confirmed
 </td>
 <td align="left" >
 The confirmation does not match.
+</td>
+</tr>
+<tr><td align="left" >
+current_password
+</td>
+<td align="left" >
+The password is incorrect.
 </td>
 </tr>
 <tr><td align="left" >
@@ -712,7 +719,7 @@ This must be a valid UUID.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/ps/validation.php)
 
-##### Missing: 8
+##### Missing: 9
 
 <table >
 <tr><td align="left" >
@@ -720,6 +727,13 @@ attached
 </td>
 <td align="left" >
 This :attribute is already attached.
+</td>
+</tr>
+<tr><td align="left" >
+current_password
+</td>
+<td align="left" >
+The password is incorrect.
 </td>
 </tr>
 <tr><td align="left" >

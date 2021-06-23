@@ -2,7 +2,7 @@
 
 # sr_Cyrl
 
-##### All missed: 116
+##### All missed: 118
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/sr_Cyrl/auth.php)
@@ -15,6 +15,42 @@ password
 </td>
 <td align="left" >
 The provided password is incorrect.
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/sr_Cyrl/validation-inline.php)
+
+##### Missing: 1
+
+<table >
+<tr><td align="left" >
+current_password
+</td>
+<td align="left" >
+The password is incorrect.
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/sr_Cyrl/validation.php)
+
+##### Missing: 1
+
+<table >
+<tr><td align="left" >
+current_password
+</td>
+<td align="left" >
+The password is incorrect.
 </td>
 </tr>
 

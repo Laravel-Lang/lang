@@ -2,7 +2,7 @@
 
 # sq
 
-##### All missed: 201
+##### All missed: 203
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/sq/auth.php)
@@ -15,6 +15,42 @@ password
 </td>
 <td align="left" >
 The provided password is incorrect.
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/sq/validation-inline.php)
+
+##### Missing: 1
+
+<table >
+<tr><td align="left" >
+current_password
+</td>
+<td align="left" >
+The password is incorrect.
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/sq/validation.php)
+
+##### Missing: 1
+
+<table >
+<tr><td align="left" >
+current_password
+</td>
+<td align="left" >
+The password is incorrect.
 </td>
 </tr>
 

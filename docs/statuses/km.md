@@ -2,8 +2,44 @@
 
 # km
 
-##### All missed: 116
+##### All missed: 118
 
+
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/km/validation-inline.php)
+
+##### Missing: 1
+
+<table >
+<tr><td align="left" >
+current_password
+</td>
+<td align="left" >
+The password is incorrect.
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/km/validation.php)
+
+##### Missing: 1
+
+<table >
+<tr><td align="left" >
+current_password
+</td>
+<td align="left" >
+The password is incorrect.
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
 
 ### [km](https://github.com/Laravel-Lang/lang/blob/master/locales/km/km.json)
 

@@ -2,7 +2,7 @@
 
 # ur
 
-##### All missed: 169
+##### All missed: 171
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/ur/auth.php)
@@ -25,7 +25,7 @@ The provided password is incorrect.
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/ur/validation-inline.php)
 
-##### Missing: 32
+##### Missing: 33
 
 <table >
 <tr><td align="left" >
@@ -54,6 +54,13 @@ between.string
 </td>
 <td align="left" >
 This string must be between :min and :max characters.
+</td>
+</tr>
+<tr><td align="left" >
+current_password
+</td>
+<td align="left" >
+The password is incorrect.
 </td>
 </tr>
 <tr><td align="left" >
@@ -260,9 +267,16 @@ The string must be :size characters.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/ur/validation.php)
 
-##### Missing: 16
+##### Missing: 17
 
 <table >
+<tr><td align="left" >
+current_password
+</td>
+<td align="left" >
+The password is incorrect.
+</td>
+</tr>
 <tr><td align="left" >
 gt.array
 </td>

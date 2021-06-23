@@ -2,7 +2,7 @@
 
 # kn
 
-##### All missed: 158
+##### All missed: 160
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/kn/auth.php)
@@ -25,7 +25,7 @@ The provided password is incorrect.
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/kn/validation-inline.php)
 
-##### Missing: 34
+##### Missing: 35
 
 <table >
 <tr><td align="left" >
@@ -54,6 +54,13 @@ between.string
 </td>
 <td align="left" >
 This string must be between :min and :max characters.
+</td>
+</tr>
+<tr><td align="left" >
+current_password
+</td>
+<td align="left" >
+The password is incorrect.
 </td>
 </tr>
 <tr><td align="left" >
@@ -274,9 +281,16 @@ The string must be :size characters.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/kn/validation.php)
 
-##### Missing: 1
+##### Missing: 2
 
 <table >
+<tr><td align="left" >
+current_password
+</td>
+<td align="left" >
+The password is incorrect.
+</td>
+</tr>
 <tr><td align="left" >
 ends_with
 </td>

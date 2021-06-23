@@ -2,12 +2,12 @@
 
 # bn
 
-##### All missed: 151
+##### All missed: 153
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/bn/validation-inline.php)
 
-##### Missing: 32
+##### Missing: 33
 
 <table >
 <tr><td align="left" >
@@ -36,6 +36,13 @@ between.string
 </td>
 <td align="left" >
 This string must be between :min and :max characters.
+</td>
+</tr>
+<tr><td align="left" >
+current_password
+</td>
+<td align="left" >
+The password is incorrect.
 </td>
 </tr>
 <tr><td align="left" >
@@ -242,9 +249,16 @@ The string must be :size characters.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/bn/validation.php)
 
-##### Missing: 16
+##### Missing: 17
 
 <table >
+<tr><td align="left" >
+current_password
+</td>
+<td align="left" >
+The password is incorrect.
+</td>
+</tr>
 <tr><td align="left" >
 gt.array
 </td>

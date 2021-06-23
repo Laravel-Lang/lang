@@ -2,8 +2,44 @@
 
 # ja
 
-##### All missed: 26
+##### All missed: 28
 
+
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/ja/validation-inline.php)
+
+##### Missing: 1
+
+<table >
+<tr><td align="left" >
+current_password
+</td>
+<td align="left" >
+The password is incorrect.
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/ja/validation.php)
+
+##### Missing: 1
+
+<table >
+<tr><td align="left" >
+current_password
+</td>
+<td align="left" >
+The password is incorrect.
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
 
 ### [ja](https://github.com/Laravel-Lang/lang/blob/master/locales/ja/ja.json)
 

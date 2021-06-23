@@ -2,8 +2,44 @@
 
 # ms
 
-##### All missed: 268
+##### All missed: 270
 
+
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/ms/validation-inline.php)
+
+##### Missing: 1
+
+<table >
+<tr><td align="left" >
+current_password
+</td>
+<td align="left" >
+The password is incorrect.
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/ms/validation.php)
+
+##### Missing: 1
+
+<table >
+<tr><td align="left" >
+current_password
+</td>
+<td align="left" >
+The password is incorrect.
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
 
 ### [ms](https://github.com/Laravel-Lang/lang/blob/master/locales/ms/ms.json)
 

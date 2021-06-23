@@ -2,7 +2,7 @@
 
 # de_CH
 
-##### All missed: 113
+##### All missed: 115
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/de_CH/auth.php)
@@ -15,6 +15,42 @@ password
 </td>
 <td align="left" >
 The provided password is incorrect.
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/de_CH/validation-inline.php)
+
+##### Missing: 1
+
+<table >
+<tr><td align="left" >
+current_password
+</td>
+<td align="left" >
+The password is incorrect.
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/de_CH/validation.php)
+
+##### Missing: 1
+
+<table >
+<tr><td align="left" >
+current_password
+</td>
+<td align="left" >
+The password is incorrect.
 </td>
 </tr>
 

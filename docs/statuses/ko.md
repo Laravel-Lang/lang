@@ -2,8 +2,44 @@
 
 # ko
 
-##### All missed: 112
+##### All missed: 114
 
+
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/ko/validation-inline.php)
+
+##### Missing: 1
+
+<table >
+<tr><td align="left" >
+current_password
+</td>
+<td align="left" >
+The password is incorrect.
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/ko/validation.php)
+
+##### Missing: 1
+
+<table >
+<tr><td align="left" >
+current_password
+</td>
+<td align="left" >
+The password is incorrect.
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
 
 ### [ko](https://github.com/Laravel-Lang/lang/blob/master/locales/ko/ko.json)
 

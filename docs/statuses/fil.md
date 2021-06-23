@@ -2,7 +2,7 @@
 
 # fil
 
-##### All missed: 777
+##### All missed: 779
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/fil/auth.php)
@@ -110,7 +110,7 @@ We can't find a user with that email address.
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/fil/validation-inline.php)
 
-##### Missing: 94
+##### Missing: 95
 
 <table >
 <tr><td align="left" >
@@ -230,6 +230,13 @@ confirmed
 </td>
 <td align="left" >
 The confirmation does not match.
+</td>
+</tr>
+<tr><td align="left" >
+current_password
+</td>
+<td align="left" >
+The password is incorrect.
 </td>
 </tr>
 <tr><td align="left" >
@@ -779,7 +786,7 @@ This must be a valid UUID.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/fil/validation.php)
 
-##### Missing: 8
+##### Missing: 9
 
 <table >
 <tr><td align="left" >
@@ -787,6 +794,13 @@ attached
 </td>
 <td align="left" >
 This :attribute is already attached.
+</td>
+</tr>
+<tr><td align="left" >
+current_password
+</td>
+<td align="left" >
+The password is incorrect.
 </td>
 </tr>
 <tr><td align="left" >

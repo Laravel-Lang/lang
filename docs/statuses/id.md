@@ -2,8 +2,44 @@
 
 # id
 
-##### All missed: 109
+##### All missed: 111
 
+
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/id/validation-inline.php)
+
+##### Missing: 1
+
+<table >
+<tr><td align="left" >
+current_password
+</td>
+<td align="left" >
+The password is incorrect.
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/id/validation.php)
+
+##### Missing: 1
+
+<table >
+<tr><td align="left" >
+current_password
+</td>
+<td align="left" >
+The password is incorrect.
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
 
 ### [id](https://github.com/Laravel-Lang/lang/blob/master/locales/id/id.json)
 

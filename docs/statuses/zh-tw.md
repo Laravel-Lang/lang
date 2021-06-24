@@ -2,7 +2,7 @@
 
 # zh_TW
 
-##### All missed: 114
+##### All missed: 107
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/zh_TW/validation-inline.php)
@@ -43,39 +43,11 @@ The password is incorrect.
 
 ### [zh_TW](https://github.com/Laravel-Lang/lang/blob/master/locales/zh_TW/zh_TW.json)
 
-##### Missing: 112
+##### Missing: 105
 
 <table >
 <tr><td align="left" >
 :days day trial
-</td>
-</tr>
-<tr><td align="left" >
-Add VAT Number
-</td>
-</tr>
-<tr><td align="left" >
-Address
-</td>
-</tr>
-<tr><td align="left" >
-Address Line 2
-</td>
-</tr>
-<tr><td align="left" >
-An unexpected error occurred and we have notified our support team. Please try again later.
-</td>
-</tr>
-<tr><td align="left" >
-Antigua and Barbuda
-</td>
-</tr>
-<tr><td align="left" >
-Apply
-</td>
-</tr>
-<tr><td align="left" >
-Apply Coupon
 </td>
 </tr>
 <tr><td align="left" >

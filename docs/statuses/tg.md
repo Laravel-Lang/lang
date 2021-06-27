@@ -2,7 +2,7 @@
 
 # tg
 
-##### All missed: 171
+##### All missed: 172
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/tg/auth.php)
@@ -397,7 +397,7 @@ The :attribute must be less than or equal :value characters.
 
 ### [tg](https://github.com/Laravel-Lang/lang/blob/master/locales/tg/tg.json)
 
-##### Missing: 120
+##### Missing: 121
 
 <table >
 <tr><td align="left" >
@@ -530,6 +530,11 @@ ID
 </tr>
 <tr><td align="left" >
 If you need to add specific contact or tax information to your receipts, like your full business name, VAT identification number, or address of record, you may add it here.
+</td>
+</tr>
+<tr><td align="left" >
+If you're having trouble clicking the ":actionText" button, copy and paste the URL below
+into your web browser:
 </td>
 </tr>
 <tr><td align="left" >

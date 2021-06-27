@@ -2,7 +2,7 @@
 
 # lt
 
-##### All missed: 145
+##### All missed: 146
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/lt/validation-inline.php)
@@ -43,7 +43,7 @@ The password is incorrect.
 
 ### [lt](https://github.com/Laravel-Lang/lang/blob/master/locales/lt/lt.json)
 
-##### Missing: 143
+##### Missing: 144
 
 <table >
 <tr><td align="left" >
@@ -208,6 +208,11 @@ ID
 </tr>
 <tr><td align="left" >
 If you need to add specific contact or tax information to your receipts, like your full business name, VAT identification number, or address of record, you may add it here.
+</td>
+</tr>
+<tr><td align="left" >
+If you're having trouble clicking the ":actionText" button, copy and paste the URL below
+into your web browser:
 </td>
 </tr>
 <tr><td align="left" >

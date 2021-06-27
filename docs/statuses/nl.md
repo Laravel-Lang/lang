@@ -2,7 +2,7 @@
 
 # nl
 
-##### All missed: 48
+##### All missed: 49
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/nl/validation-inline.php)
@@ -43,7 +43,7 @@ The password is incorrect.
 
 ### [nl](https://github.com/Laravel-Lang/lang/blob/master/locales/nl/nl.json)
 
-##### Missing: 46
+##### Missing: 47
 
 <table >
 <tr><td align="left" >
@@ -76,6 +76,11 @@ Côte d'Ivoire
 </tr>
 <tr><td align="left" >
 I accept the terms of service
+</td>
+</tr>
+<tr><td align="left" >
+If you're having trouble clicking the ":actionText" button, copy and paste the URL below
+into your web browser:
 </td>
 </tr>
 <tr><td align="left" >

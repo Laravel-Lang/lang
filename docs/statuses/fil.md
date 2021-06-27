@@ -2,7 +2,7 @@
 
 # fil
 
-##### All missed: 779
+##### All missed: 780
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/fil/auth.php)
@@ -860,7 +860,7 @@ This :attribute may not be associated with this resource.
 
 ### [fil](https://github.com/Laravel-Lang/lang/blob/master/locales/fil/fil.json)
 
-##### Missing: 665
+##### Missing: 666
 
 <table >
 <tr><td align="left" >
@@ -1893,6 +1893,11 @@ If you do not have an account, you may create one by clicking the button below. 
 </tr>
 <tr><td align="left" >
 If you need to add specific contact or tax information to your receipts, like your full business name, VAT identification number, or address of record, you may add it here.
+</td>
+</tr>
+<tr><td align="left" >
+If you're having trouble clicking the ":actionText" button, copy and paste the URL below
+into your web browser:
 </td>
 </tr>
 <tr><td align="left" >

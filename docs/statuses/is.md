@@ -2,7 +2,7 @@
 
 # is
 
-##### All missed: 150
+##### All missed: 151
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/is/auth.php)
@@ -299,7 +299,7 @@ The password is incorrect.
 
 ### [is](https://github.com/Laravel-Lang/lang/blob/master/locales/is/is.json)
 
-##### Missing: 113
+##### Missing: 114
 
 <table >
 <tr><td align="left" >
@@ -420,6 +420,11 @@ I accept the terms of service
 </tr>
 <tr><td align="left" >
 If you need to add specific contact or tax information to your receipts, like your full business name, VAT identification number, or address of record, you may add it here.
+</td>
+</tr>
+<tr><td align="left" >
+If you're having trouble clicking the ":actionText" button, copy and paste the URL below
+into your web browser:
 </td>
 </tr>
 <tr><td align="left" >

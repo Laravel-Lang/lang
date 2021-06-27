@@ -2,7 +2,7 @@
 
 # fa
 
-##### All missed: 486
+##### All missed: 487
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/fa/validation-inline.php)
@@ -113,7 +113,7 @@ This :attribute may not be associated with this resource.
 
 ### [fa](https://github.com/Laravel-Lang/lang/blob/master/locales/fa/fa.json)
 
-##### Missing: 474
+##### Missing: 475
 
 <table >
 <tr><td align="left" >
@@ -858,6 +858,11 @@ If you do not have an account, you may create one by clicking the button below. 
 </tr>
 <tr><td align="left" >
 If you need to add specific contact or tax information to your receipts, like your full business name, VAT identification number, or address of record, you may add it here.
+</td>
+</tr>
+<tr><td align="left" >
+If you're having trouble clicking the ":actionText" button, copy and paste the URL below
+into your web browser:
 </td>
 </tr>
 <tr><td align="left" >

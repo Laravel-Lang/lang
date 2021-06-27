@@ -2,7 +2,7 @@
 
 # hr
 
-##### All missed: 203
+##### All missed: 204
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/hr/auth.php)
@@ -285,7 +285,7 @@ The password is incorrect.
 
 ### [hr](https://github.com/Laravel-Lang/lang/blob/master/locales/hr/hr.json)
 
-##### Missing: 168
+##### Missing: 169
 
 <table >
 <tr><td align="left" >
@@ -494,6 +494,11 @@ ID
 </tr>
 <tr><td align="left" >
 If you need to add specific contact or tax information to your receipts, like your full business name, VAT identification number, or address of record, you may add it here.
+</td>
+</tr>
+<tr><td align="left" >
+If you're having trouble clicking the ":actionText" button, copy and paste the URL below
+into your web browser:
 </td>
 </tr>
 <tr><td align="left" >

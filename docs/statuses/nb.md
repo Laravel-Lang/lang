@@ -2,7 +2,7 @@
 
 # nb
 
-##### All missed: 23
+##### All missed: 24
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/nb/auth.php)
@@ -61,7 +61,7 @@ The password is incorrect.
 
 ### [nb](https://github.com/Laravel-Lang/lang/blob/master/locales/nb/nb.json)
 
-##### Missing: 20
+##### Missing: 21
 
 <table >
 <tr><td align="left" >
@@ -74,6 +74,11 @@ Apply Coupon
 </tr>
 <tr><td align="left" >
 I accept the terms of service
+</td>
+</tr>
+<tr><td align="left" >
+If you're having trouble clicking the ":actionText" button, copy and paste the URL below
+into your web browser:
 </td>
 </tr>
 <tr><td align="left" >

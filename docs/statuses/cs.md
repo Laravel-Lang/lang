@@ -2,7 +2,7 @@
 
 # cs
 
-##### All missed: 206
+##### All missed: 191
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/cs/auth.php)
@@ -285,7 +285,7 @@ The password is incorrect.
 
 ### [cs](https://github.com/Laravel-Lang/lang/blob/master/locales/cs/cs.json)
 
-##### Missing: 171
+##### Missing: 156
 
 <table >
 <tr><td align="left" >
@@ -318,10 +318,6 @@ Angola
 </tr>
 <tr><td align="left" >
 Anguilla
-</td>
-</tr>
-<tr><td align="left" >
-Antigua and Barbuda
 </td>
 </tr>
 <tr><td align="left" >
@@ -397,19 +393,7 @@ China
 </td>
 </tr>
 <tr><td align="left" >
-City
-</td>
-</tr>
-<tr><td align="left" >
 Congo, the Democratic Republic of the
-</td>
-</tr>
-<tr><td align="left" >
-Country
-</td>
-</tr>
-<tr><td align="left" >
-Coupon
 </td>
 </tr>
 <tr><td align="left" >
@@ -418,10 +402,6 @@ Current Subscription Plan
 </tr>
 <tr><td align="left" >
 Currently Subscribed
-</td>
-</tr>
-<tr><td align="left" >
-Côte d'Ivoire
 </td>
 </tr>
 <tr><td align="left" >
@@ -513,6 +493,10 @@ I accept the terms of service
 </td>
 </tr>
 <tr><td align="left" >
+ID
+</td>
+</tr>
+<tr><td align="left" >
 If you need to add specific contact or tax information to your receipts, like your full business name, VAT identification number, or address of record, you may add it here.
 </td>
 </tr>
@@ -526,15 +510,15 @@ Iran, Islamic Republic of
 </td>
 </tr>
 <tr><td align="left" >
-Isle of Man
-</td>
-</tr>
-<tr><td align="left" >
 It looks like you do not have an active subscription. You may choose one of the subscription plans below to get started. Subscription plans may be changed or cancelled at your convenience.
 </td>
 </tr>
 <tr><td align="left" >
 Jane Doe
+</td>
+</tr>
+<tr><td align="left" >
+Jersey
 </td>
 </tr>
 <tr><td align="left" >
@@ -554,15 +538,15 @@ Lesotho
 </td>
 </tr>
 <tr><td align="left" >
-Macao
-</td>
-</tr>
-<tr><td align="left" >
 Macedonia, the former Yugoslav Republic of
 </td>
 </tr>
 <tr><td align="left" >
 Malawi
+</td>
+</tr>
+<tr><td align="left" >
+Mali
 </td>
 </tr>
 <tr><td align="left" >
@@ -606,10 +590,6 @@ Nauru
 </td>
 </tr>
 <tr><td align="left" >
-Netherlands Antilles
-</td>
-</tr>
-<tr><td align="left" >
 Nevermind, I'll keep my old plan
 </td>
 </tr>
@@ -638,11 +618,7 @@ Paraguay
 </td>
 </tr>
 <tr><td align="left" >
-Payment Information
-</td>
-</tr>
-<tr><td align="left" >
-Payment Method
+Peru
 </td>
 </tr>
 <tr><td align="left" >
@@ -651,18 +627,6 @@ Please accept the terms of service.
 </tr>
 <tr><td align="left" >
 Please provide a maximum of three receipt emails addresses.
-</td>
-</tr>
-<tr><td align="left" >
-Qatar
-</td>
-</tr>
-<tr><td align="left" >
-Receipt Email Addresses
-</td>
-</tr>
-<tr><td align="left" >
-Receipts
 </td>
 </tr>
 <tr><td align="left" >
@@ -683,10 +647,6 @@ Rwanda
 </tr>
 <tr><td align="left" >
 Réunion
-</td>
-</tr>
-<tr><td align="left" >
-Saint Barthélemy
 </td>
 </tr>
 <tr><td align="left" >
@@ -759,10 +719,6 @@ Subscription Information
 </tr>
 <tr><td align="left" >
 Subscription Pending
-</td>
-</tr>
-<tr><td align="left" >
-Svalbard and Jan Mayen
 </td>
 </tr>
 <tr><td align="left" >
@@ -850,11 +806,7 @@ Tokelau
 </td>
 </tr>
 <tr><td align="left" >
-Total:
-</td>
-</tr>
-<tr><td align="left" >
-Trinidad and Tobago
+Tonga
 </td>
 </tr>
 <tr><td align="left" >
@@ -886,6 +838,10 @@ Uruguay
 </td>
 </tr>
 <tr><td align="left" >
+Vanuatu
+</td>
+</tr>
+<tr><td align="left" >
 VAT Number
 </td>
 </tr>
@@ -895,10 +851,6 @@ Venezuela
 </tr>
 <tr><td align="left" >
 Venezuela, Bolivarian Republic of
-</td>
-</tr>
-<tr><td align="left" >
-View Receipt
 </td>
 </tr>
 <tr><td align="left" >
@@ -915,14 +867,6 @@ We are unable to process your payment. Please contact customer support.
 </tr>
 <tr><td align="left" >
 We will send a receipt download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
-</td>
-</tr>
-<tr><td align="left" >
-Whoops
-</td>
-</tr>
-<tr><td align="left" >
-Yearly
 </td>
 </tr>
 <tr><td align="left" >
@@ -967,10 +911,6 @@ Zimbabwe
 </tr>
 <tr><td align="left" >
 Zip / Postal Code
-</td>
-</tr>
-<tr><td align="left" >
-Åland Islands
 </td>
 </tr>
 

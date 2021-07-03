@@ -74,6 +74,7 @@ return [
     'Somalia',
     'Sri Lanka',
     'Sudan',
+    'Tanzania',
     'Togo',
     'Tokelau',
     'Turkmenistan',

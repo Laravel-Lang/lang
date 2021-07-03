@@ -41,6 +41,7 @@ return [
     'Haiti',
     'Honduras',
     'Hong Kong',
+    'ID',
     'Lesotho',
     'Liberia',
     'Liechtenstein',

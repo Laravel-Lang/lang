@@ -72,6 +72,7 @@ return [
     'Serbia',
     'Sierra Leone',
     'Somalia',
+    'Sri Lanka',
     'Togo',
     'Tokelau',
     'Turkmenistan',

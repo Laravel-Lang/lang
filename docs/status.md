@@ -249,7 +249,7 @@
 </td>
 <td align="center" width="17%">
 
-[pl&nbsp;❗](statuses/pl.md)
+[pl&nbsp;✔](statuses/pl.md)
 
 </td>
 </tr>

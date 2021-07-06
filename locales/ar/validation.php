@@ -31,6 +31,7 @@ return [
     ],
     'boolean'              => 'يجب أن تكون قيمة حقل :attribute إما true أو false .',
     'confirmed'            => 'حقل التأكيد غير مُطابق للحقل :attribute.',
+    'current_password'     => 'كلمة المرور غير صحيحة.',
     'date'                 => 'حقل :attribute ليس تاريخًا صحيحًا.',
     'date_equals'          => 'يجب أن يكون حقل :attribute مطابقاً للتاريخ :date.',
     'date_format'          => 'لا يتوافق حقل :attribute مع الشكل :format.',

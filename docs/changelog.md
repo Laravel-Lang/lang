@@ -9,9 +9,11 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+## [10.1.3] - 2021-07-08
+
 ### Changed
 
- * feature: [ar] #1797 validation.php, validation-inline.php, json file
+ * feature: [ar] #1794 #1797 #1801 validation.php, validation-inline.php, json file
  * feature: [it] #1799 validation.php, validation-inline.php, json file
  * feature: [pl] #1795 #1800 exclude, validation.php, validation-inline.php, json file
 
@@ -537,7 +539,8 @@ For more information, see #1606 and #1607.
 
 * feature: #1269 Rename locale folders following ISO 15897 format
 
-[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/10.1.2...master
+[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/10.1.3...master
+[10.1.3]: https://github.com/caouecs/Laravel-lang/compare/10.1.2...10.1.3
 [10.1.2]: https://github.com/caouecs/Laravel-lang/compare/10.1.1...10.1.2
 [10.1.1]: https://github.com/caouecs/Laravel-lang/compare/10.1.0...10.1.1
 [10.1.0]: https://github.com/caouecs/Laravel-lang/compare/10.0.2...10.1.0

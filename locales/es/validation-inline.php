@@ -121,7 +121,7 @@ return [
     'timezone'             => 'Debe ser de una zona horaria válida.',
     'unique'               => 'Este campo ya ha sido tomado.',
     'uploaded'             => 'Falló al subir.',
-    'url'                  => 'Este formato es inválido.',
+    'url'                  => 'Debe ser una URL válida.',
     'uuid'                 => 'Debe ser un UUID válido.',
     'custom'               => [
         'attribute-name' => [

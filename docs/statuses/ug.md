@@ -2,7 +2,7 @@
 
 # ug
 
-##### All missed: 792
+##### All missed: 790
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/ug/auth.php)
@@ -43,7 +43,7 @@ Please wait before retrying.
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/ug/validation-inline.php)
 
-##### Missing: 95
+##### Missing: 93
 
 <table >
 <tr><td align="left" >
@@ -677,13 +677,6 @@ This must be a string.
 </td>
 </tr>
 <tr><td align="left" >
-timezone
-</td>
-<td align="left" >
-This must be a valid zone.
-</td>
-</tr>
-<tr><td align="left" >
 unique
 </td>
 <td align="left" >
@@ -695,13 +688,6 @@ uploaded
 </td>
 <td align="left" >
 This failed to upload.
-</td>
-</tr>
-<tr><td align="left" >
-url
-</td>
-<td align="left" >
-This format is invalid.
 </td>
 </tr>
 <tr><td align="left" >

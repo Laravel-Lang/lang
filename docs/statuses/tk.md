@@ -2065,11 +2065,6 @@ into your web browser:
 </td>
 </tr>
 <tr><td align="left" >
-If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser:
-</td>
-</tr>
-<tr><td align="left" >
 Increase
 </td>
 </tr>

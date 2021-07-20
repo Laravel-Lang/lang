@@ -31,7 +31,7 @@ return [
     ],
     'boolean'              => 'Isian ini harus berisi true atau false.',
     'confirmed'            => 'Konfirmasi tidak sesuai.',
-    'current_password'     => 'The password is incorrect.',
+    'current_password'     => 'Kata sandi salah.',
     'date'                 => 'Isian ini bukan tanggal yang benar.',
     'date_equals'          => 'Isian ini harus berisi tanggal yang sama dengan :date.',
     'date_format'          => 'Isian ini tidak cocok dengan format :format.',

@@ -2,26 +2,8 @@
 
 # uz_Latn
 
-##### All missed: 227
+##### All missed: 225
 
-
-### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/uz_Latn/auth.php)
-
-##### Missing: 1
-
-<table >
-<tr><td align="left" >
-password
-</td>
-<td align="left" >
-The provided password is incorrect.
-</td>
-</tr>
-
-</table>
-
-
-[ [go back](../status.md) | [to top](#) ]
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/uz_Latn/validation-inline.php)
 
@@ -257,24 +239,6 @@ size.string
 </td>
 <td align="left" >
 The string must be :size characters.
-</td>
-</tr>
-
-</table>
-
-
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/uz_Latn/validation.php)
-
-##### Missing: 1
-
-<table >
-<tr><td align="left" >
-current_password
-</td>
-<td align="left" >
-The password is incorrect.
 </td>
 </tr>
 

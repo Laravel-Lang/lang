@@ -2,7 +2,7 @@
 
 # ca
 
-##### All missed: 230
+##### All missed: 229
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/ca/auth.php)
@@ -285,7 +285,7 @@ The password is incorrect.
 
 ### [ca](https://github.com/Laravel-Lang/lang/blob/master/locales/ca/ca.json)
 
-##### Missing: 195
+##### Missing: 194
 
 <table >
 <tr><td align="left" >
@@ -450,10 +450,6 @@ Djibouti
 </tr>
 <tr><td align="left" >
 Download Receipt
-</td>
-</tr>
-<tr><td align="left" >
-Editor
 </td>
 </tr>
 <tr><td align="left" >

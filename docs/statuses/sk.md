@@ -2,7 +2,7 @@
 
 # sk
 
-##### All missed: 210
+##### All missed: 209
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/sk/auth.php)
@@ -285,7 +285,7 @@ The password is incorrect.
 
 ### [sk](https://github.com/Laravel-Lang/lang/blob/master/locales/sk/sk.json)
 
-##### Missing: 175
+##### Missing: 174
 
 <table >
 <tr><td align="left" >
@@ -422,10 +422,6 @@ December
 </tr>
 <tr><td align="left" >
 Download Receipt
-</td>
-</tr>
-<tr><td align="left" >
-Editor
 </td>
 </tr>
 <tr><td align="left" >

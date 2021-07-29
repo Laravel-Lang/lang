@@ -2,7 +2,7 @@
 
 # tl
 
-##### All missed: 273
+##### All missed: 272
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/tl/auth.php)
@@ -397,7 +397,7 @@ The :attribute must be less than or equal :value characters.
 
 ### [tl](https://github.com/Laravel-Lang/lang/blob/master/locales/tl/tl.json)
 
-##### Missing: 222
+##### Missing: 221
 
 <table >
 <tr><td align="left" >
@@ -570,10 +570,6 @@ Dashboard
 </tr>
 <tr><td align="left" >
 Download Receipt
-</td>
-</tr>
-<tr><td align="left" >
-Editor
 </td>
 </tr>
 <tr><td align="left" >

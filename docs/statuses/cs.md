@@ -2,7 +2,7 @@
 
 # cs
 
-##### All missed: 191
+##### All missed: 190
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/cs/auth.php)
@@ -285,7 +285,7 @@ The password is incorrect.
 
 ### [cs](https://github.com/Laravel-Lang/lang/blob/master/locales/cs/cs.json)
 
-##### Missing: 156
+##### Missing: 155
 
 <table >
 <tr><td align="left" >
@@ -406,10 +406,6 @@ Currently Subscribed
 </tr>
 <tr><td align="left" >
 Download Receipt
-</td>
-</tr>
-<tr><td align="left" >
-Editor
 </td>
 </tr>
 <tr><td align="left" >

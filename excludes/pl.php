@@ -11,7 +11,6 @@
 */
 
 return [
-    'Administrator',
     'Albania',
     'Angola',
     'Anguilla',

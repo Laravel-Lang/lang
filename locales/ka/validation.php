@@ -37,7 +37,7 @@ return [
     'date_format'          => ':attribute არ ემთხვევა თარიღის ფორმატს: :format.',
     'different'            => ':attribute და :other არ უნდა ემთხვეოდეს ერთმანეთს.',
     'digits'               => ':attribute უნდა შედგებოდეს :digits ციფრისგან.',
-    'digits_between'       => ':attribute უნდა შედგებოდეს :min-დან :max ციფრამბდე.',
+    'digits_between'       => ':attribute უნდა შედგებოდეს :min-დან :max ციფრამდე.',
     'dimensions'           => ':attribute შეიცავს სურათის არასწორ ზომებს.',
     'distinct'             => ':attribute-ის ველს აქვს დუბლირებული მნიშვნელობა.',
     'email'                => ':attribute უნდა იყოს სწორი ელ.ფოსტა.',

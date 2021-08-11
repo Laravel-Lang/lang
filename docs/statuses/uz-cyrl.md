@@ -2,7 +2,7 @@
 
 # uz_Cyrl
 
-##### All missed: 228
+##### All missed: 227
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/uz_Cyrl/auth.php)
@@ -285,7 +285,7 @@ The password is incorrect.
 
 ### [uz_Cyrl](https://github.com/Laravel-Lang/lang/blob/master/locales/uz_Cyrl/uz_Cyrl.json)
 
-##### Missing: 193
+##### Missing: 192
 
 <table >
 <tr><td align="left" >
@@ -302,10 +302,6 @@ Address
 </tr>
 <tr><td align="left" >
 Address Line 2
-</td>
-</tr>
-<tr><td align="left" >
-Administrator
 </td>
 </tr>
 <tr><td align="left" >

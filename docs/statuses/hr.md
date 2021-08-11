@@ -2,7 +2,7 @@
 
 # hr
 
-##### All missed: 204
+##### All missed: 203
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/hr/auth.php)
@@ -285,7 +285,7 @@ The password is incorrect.
 
 ### [hr](https://github.com/Laravel-Lang/lang/blob/master/locales/hr/hr.json)
 
-##### Missing: 169
+##### Missing: 168
 
 <table >
 <tr><td align="left" >
@@ -302,10 +302,6 @@ Address
 </tr>
 <tr><td align="left" >
 Address Line 2
-</td>
-</tr>
-<tr><td align="left" >
-Administrator
 </td>
 </tr>
 <tr><td align="left" >

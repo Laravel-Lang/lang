@@ -2,7 +2,7 @@
 
 # da
 
-##### All missed: 272
+##### All missed: 270
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/da/auth.php)
@@ -285,7 +285,7 @@ The password is incorrect.
 
 ### [da](https://github.com/Laravel-Lang/lang/blob/master/locales/da/da.json)
 
-##### Missing: 237
+##### Missing: 235
 
 <table >
 <tr><td align="left" >
@@ -302,10 +302,6 @@ Address
 </tr>
 <tr><td align="left" >
 Address Line 2
-</td>
-</tr>
-<tr><td align="left" >
-Administrator
 </td>
 </tr>
 <tr><td align="left" >
@@ -502,10 +498,6 @@ Download Receipt
 </tr>
 <tr><td align="left" >
 Ecuador
-</td>
-</tr>
-<tr><td align="left" >
-Editor
 </td>
 </tr>
 <tr><td align="left" >

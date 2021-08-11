@@ -2,7 +2,7 @@
 
 # nn
 
-##### All missed: 736
+##### All missed: 732
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/nn/auth.php)
@@ -772,7 +772,7 @@ This :attribute may not be associated with this resource.
 
 ### [nn](https://github.com/Laravel-Lang/lang/blob/master/locales/nn/nn.json)
 
-##### Missing: 633
+##### Missing: 629
 
 <table >
 <tr><td align="left" >
@@ -853,14 +853,6 @@ Address
 </tr>
 <tr><td align="left" >
 Address Line 2
-</td>
-</tr>
-<tr><td align="left" >
-Administrator
-</td>
-</tr>
-<tr><td align="left" >
-Administrator users can perform any action.
 </td>
 </tr>
 <tr><td align="left" >
@@ -1489,14 +1481,6 @@ Edit :resource
 </tr>
 <tr><td align="left" >
 Edit Attached
-</td>
-</tr>
-<tr><td align="left" >
-Editor
-</td>
-</tr>
-<tr><td align="left" >
-Editor users have the ability to read, create, and update.
 </td>
 </tr>
 <tr><td align="left" >

@@ -44,7 +44,6 @@ return [
     'Dashboard',
     'Dominica',
     'Ecuador',
-    'Editor',
     'El Salvador',
     'Email',
     'Eritrea',

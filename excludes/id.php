@@ -11,7 +11,6 @@
 */
 
 return [
-    'Administrator',
     'Albania',
     'Andorra',
     'Angola',
@@ -43,7 +42,6 @@ return [
     'Djibouti',
     'Edit',
     'Edit :resource',
-    'Editor',
     'El Salvador',
     'Eritrea',
     'Estonia',
@@ -139,7 +137,6 @@ return [
     'Tokelau',
     'Tonga',
     'total',
-    'Total',
     'Tunisia',
     'Turkmenistan',
     'Tuvalu',

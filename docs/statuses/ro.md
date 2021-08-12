@@ -2,7 +2,7 @@
 
 # ro
 
-##### All missed: 263
+##### All missed: 261
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/ro/validation-inline.php)
@@ -267,7 +267,7 @@ The password is incorrect.
 
 ### [ro](https://github.com/Laravel-Lang/lang/blob/master/locales/ro/ro.json)
 
-##### Missing: 229
+##### Missing: 227
 
 <table >
 <tr><td align="left" >
@@ -288,10 +288,6 @@ Address
 </tr>
 <tr><td align="left" >
 Address Line 2
-</td>
-</tr>
-<tr><td align="left" >
-Administrator
 </td>
 </tr>
 <tr><td align="left" >
@@ -496,10 +492,6 @@ Download Receipt
 </tr>
 <tr><td align="left" >
 Ecuador
-</td>
-</tr>
-<tr><td align="left" >
-Editor
 </td>
 </tr>
 <tr><td align="left" >

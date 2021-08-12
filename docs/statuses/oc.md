@@ -2,7 +2,7 @@
 
 # oc
 
-##### All missed: 679
+##### All missed: 675
 
 
 ### [passwords](https://github.com/Laravel-Lang/lang/blob/master/locales/oc/passwords.php)
@@ -131,7 +131,7 @@ This :attribute may not be associated with this resource.
 
 ### [oc](https://github.com/Laravel-Lang/lang/blob/master/locales/oc/oc.json)
 
-##### Missing: 666
+##### Missing: 662
 
 <table >
 <tr><td align="left" >
@@ -212,14 +212,6 @@ Address
 </tr>
 <tr><td align="left" >
 Address Line 2
-</td>
-</tr>
-<tr><td align="left" >
-Administrator
-</td>
-</tr>
-<tr><td align="left" >
-Administrator users can perform any action.
 </td>
 </tr>
 <tr><td align="left" >
@@ -856,14 +848,6 @@ Edit :resource
 </tr>
 <tr><td align="left" >
 Edit Attached
-</td>
-</tr>
-<tr><td align="left" >
-Editor
-</td>
-</tr>
-<tr><td align="left" >
-Editor users have the ability to read, create, and update.
 </td>
 </tr>
 <tr><td align="left" >

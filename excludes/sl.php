@@ -10,6 +10,4 @@
 |
 */
 
-return [
-    'Administrator',
-];
+return [];

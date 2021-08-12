@@ -2,7 +2,7 @@
 
 # gl
 
-##### All missed: 243
+##### All missed: 242
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/gl/auth.php)
@@ -285,7 +285,7 @@ The password is incorrect.
 
 ### [gl](https://github.com/Laravel-Lang/lang/blob/master/locales/gl/gl.json)
 
-##### Missing: 208
+##### Missing: 207
 
 <table >
 <tr><td align="left" >
@@ -494,10 +494,6 @@ Download Receipt
 </tr>
 <tr><td align="left" >
 Ecuador
-</td>
-</tr>
-<tr><td align="left" >
-Editor
 </td>
 </tr>
 <tr><td align="left" >

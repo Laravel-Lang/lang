@@ -2,7 +2,7 @@
 
 # sq
 
-##### All missed: 204
+##### All missed: 203
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/sq/auth.php)
@@ -61,7 +61,7 @@ The password is incorrect.
 
 ### [sq](https://github.com/Laravel-Lang/lang/blob/master/locales/sq/sq.json)
 
-##### Missing: 201
+##### Missing: 200
 
 <table >
 <tr><td align="left" >
@@ -82,10 +82,6 @@ Address
 </tr>
 <tr><td align="left" >
 Address Line 2
-</td>
-</tr>
-<tr><td align="left" >
-Administrator
 </td>
 </tr>
 <tr><td align="left" >

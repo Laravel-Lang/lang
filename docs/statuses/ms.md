@@ -2,7 +2,7 @@
 
 # ms
 
-##### All missed: 271
+##### All missed: 269
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/ms/validation-inline.php)
@@ -43,7 +43,7 @@ The password is incorrect.
 
 ### [ms](https://github.com/Laravel-Lang/lang/blob/master/locales/ms/ms.json)
 
-##### Missing: 269
+##### Missing: 267
 
 <table >
 <tr><td align="left" >
@@ -60,10 +60,6 @@ Address
 </tr>
 <tr><td align="left" >
 Address Line 2
-</td>
-</tr>
-<tr><td align="left" >
-Administrator
 </td>
 </tr>
 <tr><td align="left" >
@@ -288,10 +284,6 @@ Download Receipt
 </tr>
 <tr><td align="left" >
 Ecuador
-</td>
-</tr>
-<tr><td align="left" >
-Editor
 </td>
 </tr>
 <tr><td align="left" >

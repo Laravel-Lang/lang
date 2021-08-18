@@ -581,6 +581,7 @@
     "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "The given :attribute has appeared in a data leak. Please choose a different :attribute.",
     "The government won't let us show you what's behind these doors": "Η κυβέρνηση δεν θα μας αφήσει να σας δείξουμε τι είναι πίσω από αυτές τις πόρτες",
     "The HasOne relationship has already been filled.": "Η σχέση HasOne έχει ήδη συμπληρωθεί.",
+    "The password is incorrect.": "The password is incorrect.",
     "The payment was successful.": "Η πληρωμή ήταν επιτυχής.",
     "The provided coupon code is invalid.": "The provided coupon code is invalid.",
     "The provided password does not match your current password.": "Ο παρεχόμενος κωδικός πρόσβασης δεν ταιριάζει με τον τρέχοντα κωδικό πρόσβασής σας.",

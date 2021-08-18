@@ -581,6 +581,7 @@
     "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "The given :attribute has appeared in a data leak. Please choose a different :attribute.",
     "The government won't let us show you what's behind these doors": "정부는 이 문 뒤에 무엇이 있는지 보여주지 않을 것입니다.",
     "The HasOne relationship has already been filled.": "HasOne 관계가 이미 채워졌습니다.",
+    "The password is incorrect.": "The password is incorrect.",
     "The payment was successful.": "결제가 완료되었습니다.",
     "The provided coupon code is invalid.": "The provided coupon code is invalid.",
     "The provided password does not match your current password.": "입력하신 비밀번호가 현재 비밀번호와 일치하지 않습니다.",

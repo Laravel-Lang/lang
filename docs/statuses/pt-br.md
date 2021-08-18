@@ -2,7 +2,7 @@
 
 # pt_BR
 
-##### All missed: 107
+##### All missed: 108
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/pt_BR/validation-inline.php)
@@ -43,7 +43,7 @@ The password is incorrect.
 
 ### [pt_BR](https://github.com/Laravel-Lang/lang/blob/master/locales/pt_BR/pt_BR.json)
 
-##### Missing: 105
+##### Missing: 106
 
 <table >
 <tr><td align="left" >
@@ -329,6 +329,10 @@ Thanks for your continued support. We've attached a copy of your invoice for you
 </tr>
 <tr><td align="left" >
 Thanks,
+</td>
+</tr>
+<tr><td align="left" >
+The password is incorrect.
 </td>
 </tr>
 <tr><td align="left" >

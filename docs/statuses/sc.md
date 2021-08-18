@@ -2,7 +2,7 @@
 
 # sc
 
-##### All missed: 801
+##### All missed: 802
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/sc/auth.php)
@@ -1024,7 +1024,7 @@ The :attribute must be a valid UUID.
 
 ### [sc](https://github.com/Laravel-Lang/lang/blob/master/locales/sc/sc.json)
 
-##### Missing: 662
+##### Missing: 663
 
 <table >
 <tr><td align="left" >
@@ -3207,6 +3207,10 @@ The government won't let us show you what's behind these doors
 </tr>
 <tr><td align="left" >
 The HasOne relationship has already been filled.
+</td>
+</tr>
+<tr><td align="left" >
+The password is incorrect.
 </td>
 </tr>
 <tr><td align="left" >

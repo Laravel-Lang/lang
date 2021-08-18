@@ -2,7 +2,7 @@
 
 # kk
 
-##### All missed: 150
+##### All missed: 151
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/kk/auth.php)
@@ -285,7 +285,7 @@ The password is incorrect.
 
 ### [kk](https://github.com/Laravel-Lang/lang/blob/master/locales/kk/kk.json)
 
-##### Missing: 115
+##### Missing: 116
 
 <table >
 <tr><td align="left" >
@@ -611,6 +611,10 @@ The :attribute must contain at least one uppercase and one lowercase letter.
 </tr>
 <tr><td align="left" >
 The given :attribute has appeared in a data leak. Please choose a different :attribute.
+</td>
+</tr>
+<tr><td align="left" >
+The password is incorrect.
 </td>
 </tr>
 <tr><td align="left" >

@@ -2,7 +2,7 @@
 
 # vi
 
-##### All missed: 5
+##### All missed: 6
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/vi/validation-inline.php)
@@ -43,7 +43,7 @@ The password is incorrect.
 
 ### [vi](https://github.com/Laravel-Lang/lang/blob/master/locales/vi/vi.json)
 
-##### Missing: 3
+##### Missing: 4
 
 <table >
 <tr><td align="left" >
@@ -57,6 +57,10 @@ Jane Doe
 </tr>
 <tr><td align="left" >
 Micronesia, Federated States of
+</td>
+</tr>
+<tr><td align="left" >
+The password is incorrect.
 </td>
 </tr>
 

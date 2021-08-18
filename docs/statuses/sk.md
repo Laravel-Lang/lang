@@ -2,7 +2,7 @@
 
 # sk
 
-##### All missed: 209
+##### All missed: 210
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/sk/auth.php)
@@ -285,7 +285,7 @@ The password is incorrect.
 
 ### [sk](https://github.com/Laravel-Lang/lang/blob/master/locales/sk/sk.json)
 
-##### Missing: 174
+##### Missing: 175
 
 <table >
 <tr><td align="left" >
@@ -811,6 +811,10 @@ The :attribute must contain at least one uppercase and one lowercase letter.
 </tr>
 <tr><td align="left" >
 The given :attribute has appeared in a data leak. Please choose a different :attribute.
+</td>
+</tr>
+<tr><td align="left" >
+The password is incorrect.
 </td>
 </tr>
 <tr><td align="left" >

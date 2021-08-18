@@ -2,7 +2,7 @@
 
 # ro
 
-##### All missed: 261
+##### All missed: 262
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/ro/validation-inline.php)
@@ -267,7 +267,7 @@ The password is incorrect.
 
 ### [ro](https://github.com/Laravel-Lang/lang/blob/master/locales/ro/ro.json)
 
-##### Missing: 227
+##### Missing: 228
 
 <table >
 <tr><td align="left" >
@@ -989,6 +989,10 @@ The :attribute must contain at least one uppercase and one lowercase letter.
 </tr>
 <tr><td align="left" >
 The given :attribute has appeared in a data leak. Please choose a different :attribute.
+</td>
+</tr>
+<tr><td align="left" >
+The password is incorrect.
 </td>
 </tr>
 <tr><td align="left" >

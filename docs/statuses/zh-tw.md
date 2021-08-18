@@ -2,7 +2,7 @@
 
 # zh_TW
 
-##### All missed: 108
+##### All missed: 109
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/zh_TW/validation-inline.php)
@@ -43,7 +43,7 @@ The password is incorrect.
 
 ### [zh_TW](https://github.com/Laravel-Lang/lang/blob/master/locales/zh_TW/zh_TW.json)
 
-##### Missing: 106
+##### Missing: 107
 
 <table >
 <tr><td align="left" >
@@ -333,6 +333,10 @@ The :attribute must contain at least one uppercase and one lowercase letter.
 </tr>
 <tr><td align="left" >
 The given :attribute has appeared in a data leak. Please choose a different :attribute.
+</td>
+</tr>
+<tr><td align="left" >
+The password is incorrect.
 </td>
 </tr>
 <tr><td align="left" >

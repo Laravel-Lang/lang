@@ -2,7 +2,7 @@
 
 # nb
 
-##### All missed: 24
+##### All missed: 25
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/nb/auth.php)
@@ -61,7 +61,7 @@ The password is incorrect.
 
 ### [nb](https://github.com/Laravel-Lang/lang/blob/master/locales/nb/nb.json)
 
-##### Missing: 21
+##### Missing: 22
 
 <table >
 <tr><td align="left" >
@@ -107,6 +107,10 @@ Subscription Pending
 </tr>
 <tr><td align="left" >
 Svalbard and Jan Mayen
+</td>
+</tr>
+<tr><td align="left" >
+The password is incorrect.
 </td>
 </tr>
 <tr><td align="left" >

@@ -2,7 +2,7 @@
 
 # fi
 
-##### All missed: 3
+##### All missed: 4
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/fi/validation-inline.php)
@@ -43,12 +43,16 @@ The password is incorrect.
 
 ### [fi](https://github.com/Laravel-Lang/lang/blob/master/locales/fi/fi.json)
 
-##### Missing: 1
+##### Missing: 2
 
 <table >
 <tr><td align="left" >
 If you're having trouble clicking the ":actionText" button, copy and paste the URL below
 into your web browser:
+</td>
+</tr>
+<tr><td align="left" >
+The password is incorrect.
 </td>
 </tr>
 

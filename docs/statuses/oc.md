@@ -2,7 +2,7 @@
 
 # oc
 
-##### All missed: 675
+##### All missed: 676
 
 
 ### [passwords](https://github.com/Laravel-Lang/lang/blob/master/locales/oc/passwords.php)
@@ -131,7 +131,7 @@ This :attribute may not be associated with this resource.
 
 ### [oc](https://github.com/Laravel-Lang/lang/blob/master/locales/oc/oc.json)
 
-##### Missing: 662
+##### Missing: 663
 
 <table >
 <tr><td align="left" >
@@ -2314,6 +2314,10 @@ The government won't let us show you what's behind these doors
 </tr>
 <tr><td align="left" >
 The HasOne relationship has already been filled.
+</td>
+</tr>
+<tr><td align="left" >
+The password is incorrect.
 </td>
 </tr>
 <tr><td align="left" >

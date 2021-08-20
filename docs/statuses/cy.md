@@ -2,7 +2,7 @@
 
 # cy
 
-##### All missed: 166
+##### All missed: 167
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/cy/auth.php)
@@ -411,7 +411,7 @@ The :attribute must be less than or equal :value characters.
 
 ### [cy](https://github.com/Laravel-Lang/lang/blob/master/locales/cy/cy.json)
 
-##### Missing: 113
+##### Missing: 114
 
 <table >
 <tr><td align="left" >
@@ -729,6 +729,10 @@ The :attribute must contain at least one uppercase and one lowercase letter.
 </tr>
 <tr><td align="left" >
 The given :attribute has appeared in a data leak. Please choose a different :attribute.
+</td>
+</tr>
+<tr><td align="left" >
+The password is incorrect.
 </td>
 </tr>
 <tr><td align="left" >

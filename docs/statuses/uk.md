@@ -2,7 +2,7 @@
 
 # uk
 
-##### All missed: 117
+##### All missed: 118
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/uk/validation-inline.php)
@@ -43,7 +43,7 @@ The password is incorrect.
 
 ### [uk](https://github.com/Laravel-Lang/lang/blob/master/locales/uk/uk.json)
 
-##### Missing: 115
+##### Missing: 116
 
 <table >
 <tr><td align="left" >
@@ -369,6 +369,10 @@ The :attribute must contain at least one uppercase and one lowercase letter.
 </tr>
 <tr><td align="left" >
 The given :attribute has appeared in a data leak. Please choose a different :attribute.
+</td>
+</tr>
+<tr><td align="left" >
+The password is incorrect.
 </td>
 </tr>
 <tr><td align="left" >

@@ -23,27 +23,9 @@ The password is incorrect.
 
 [ [go back](../status.md) | [to top](#) ]
 
-### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/vi/validation.php)
-
-##### Missing: 1
-
-<table >
-<tr><td align="left" >
-current_password
-</td>
-<td align="left" >
-The password is incorrect.
-</td>
-</tr>
-
-</table>
-
-
-[ [go back](../status.md) | [to top](#) ]
-
 ### [vi](https://github.com/Laravel-Lang/lang/blob/master/locales/vi/vi.json)
 
-##### Missing: 3
+##### Missing: 4
 
 <table >
 <tr><td align="left" >
@@ -57,6 +39,10 @@ Jane Doe
 </tr>
 <tr><td align="left" >
 Micronesia, Federated States of
+</td>
+</tr>
+<tr><td align="left" >
+The password is incorrect.
 </td>
 </tr>
 

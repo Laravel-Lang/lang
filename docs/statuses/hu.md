@@ -2,7 +2,7 @@
 
 # hu
 
-##### All missed: 213
+##### All missed: 214
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/hu/validation-inline.php)
@@ -267,7 +267,7 @@ The password is incorrect.
 
 ### [hu](https://github.com/Laravel-Lang/lang/blob/master/locales/hu/hu.json)
 
-##### Missing: 179
+##### Missing: 180
 
 <table >
 <tr><td align="left" >
@@ -809,6 +809,10 @@ The :attribute must contain at least one uppercase and one lowercase letter.
 </tr>
 <tr><td align="left" >
 The given :attribute has appeared in a data leak. Please choose a different :attribute.
+</td>
+</tr>
+<tr><td align="left" >
+The password is incorrect.
 </td>
 </tr>
 <tr><td align="left" >

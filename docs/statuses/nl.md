@@ -79,11 +79,6 @@ I accept the terms of service
 </td>
 </tr>
 <tr><td align="left" >
-If you're having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser:
-</td>
-</tr>
-<tr><td align="left" >
 Jane Doe
 </td>
 </tr>
@@ -161,6 +156,10 @@ Taiwan, Province of China
 </tr>
 <tr><td align="left" >
 Tanzania, United Republic of
+</td>
+</tr>
+<tr><td align="left" >
+The password is incorrect.
 </td>
 </tr>
 <tr><td align="left" >

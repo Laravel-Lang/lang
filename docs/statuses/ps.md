@@ -2,7 +2,7 @@
 
 # ps
 
-##### All missed: 737
+##### All missed: 738
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/ps/auth.php)
@@ -779,7 +779,7 @@ This :attribute may not be associated with this resource.
 
 ### [ps](https://github.com/Laravel-Lang/lang/blob/master/locales/ps/ps.json)
 
-##### Missing: 633
+##### Missing: 634
 
 <table >
 <tr><td align="left" >
@@ -2869,6 +2869,10 @@ The government won't let us show you what's behind these doors
 </tr>
 <tr><td align="left" >
 The HasOne relationship has already been filled.
+</td>
+</tr>
+<tr><td align="left" >
+The password is incorrect.
 </td>
 </tr>
 <tr><td align="left" >

@@ -2,7 +2,7 @@
 
 # nn
 
-##### All missed: 732
+##### All missed: 733
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/nn/auth.php)
@@ -772,7 +772,7 @@ This :attribute may not be associated with this resource.
 
 ### [nn](https://github.com/Laravel-Lang/lang/blob/master/locales/nn/nn.json)
 
-##### Missing: 629
+##### Missing: 630
 
 <table >
 <tr><td align="left" >
@@ -2854,6 +2854,10 @@ The government won't let us show you what's behind these doors
 </tr>
 <tr><td align="left" >
 The HasOne relationship has already been filled.
+</td>
+</tr>
+<tr><td align="left" >
+The password is incorrect.
 </td>
 </tr>
 <tr><td align="left" >

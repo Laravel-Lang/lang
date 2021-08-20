@@ -2,7 +2,21 @@
 
 # fr
 
-##### All missed: 0
+##### All missed: 1
 
-All lines are translated 😊
+
+### [fr](https://github.com/Laravel-Lang/lang/blob/master/locales/fr/fr.json)
+
+##### Missing: 1
+
+<table >
+<tr><td align="left" >
+The password is incorrect.
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
 

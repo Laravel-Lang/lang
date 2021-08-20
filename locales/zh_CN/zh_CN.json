@@ -581,6 +581,7 @@
     "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "The given :attribute has appeared in a data leak. Please choose a different :attribute.",
     "The government won't let us show you what's behind these doors": "政府不会让我们向你展示这些门后面的东西",
     "The HasOne relationship has already been filled.": "HasOne 的关系已经被填补了。",
+    "The password is incorrect.": "The password is incorrect.",
     "The payment was successful.": "账单支付成功。",
     "The provided coupon code is invalid.": "The provided coupon code is invalid.",
     "The provided password does not match your current password.": "当前密码不正确",

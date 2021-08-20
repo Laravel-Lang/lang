@@ -2,7 +2,7 @@
 
 # mk
 
-##### All missed: 141
+##### All missed: 142
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/mk/validation-inline.php)
@@ -43,7 +43,7 @@ The password is incorrect.
 
 ### [mk](https://github.com/Laravel-Lang/lang/blob/master/locales/mk/mk.json)
 
-##### Missing: 139
+##### Missing: 140
 
 <table >
 <tr><td align="left" >
@@ -445,6 +445,10 @@ The :attribute must contain at least one uppercase and one lowercase letter.
 </tr>
 <tr><td align="left" >
 The given :attribute has appeared in a data leak. Please choose a different :attribute.
+</td>
+</tr>
+<tr><td align="left" >
+The password is incorrect.
 </td>
 </tr>
 <tr><td align="left" >

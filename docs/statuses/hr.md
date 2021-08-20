@@ -2,7 +2,7 @@
 
 # hr
 
-##### All missed: 203
+##### All missed: 204
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/hr/auth.php)
@@ -285,7 +285,7 @@ The password is incorrect.
 
 ### [hr](https://github.com/Laravel-Lang/lang/blob/master/locales/hr/hr.json)
 
-##### Missing: 168
+##### Missing: 169
 
 <table >
 <tr><td align="left" >
@@ -791,6 +791,10 @@ The :attribute must contain at least one uppercase and one lowercase letter.
 </tr>
 <tr><td align="left" >
 The given :attribute has appeared in a data leak. Please choose a different :attribute.
+</td>
+</tr>
+<tr><td align="left" >
+The password is incorrect.
 </td>
 </tr>
 <tr><td align="left" >

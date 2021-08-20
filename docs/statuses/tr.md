@@ -2,7 +2,7 @@
 
 # tr
 
-##### All missed: 8
+##### All missed: 9
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/tr/validation-inline.php)
@@ -43,7 +43,7 @@ The password is incorrect.
 
 ### [tr](https://github.com/Laravel-Lang/lang/blob/master/locales/tr/tr.json)
 
-##### Missing: 6
+##### Missing: 7
 
 <table >
 <tr><td align="left" >
@@ -69,6 +69,10 @@ Macedonia, the former Yugoslav Republic of
 </tr>
 <tr><td align="left" >
 Saint Helena
+</td>
+</tr>
+<tr><td align="left" >
+The password is incorrect.
 </td>
 </tr>
 

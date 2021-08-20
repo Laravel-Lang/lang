@@ -2,7 +2,7 @@
 
 # ne
 
-##### All missed: 138
+##### All missed: 139
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/ne/auth.php)
@@ -61,7 +61,7 @@ The password is incorrect.
 
 ### [ne](https://github.com/Laravel-Lang/lang/blob/master/locales/ne/ne.json)
 
-##### Missing: 135
+##### Missing: 136
 
 <table >
 <tr><td align="left" >
@@ -467,6 +467,10 @@ The :attribute must contain at least one uppercase and one lowercase letter.
 </tr>
 <tr><td align="left" >
 The given :attribute has appeared in a data leak. Please choose a different :attribute.
+</td>
+</tr>
+<tr><td align="left" >
+The password is incorrect.
 </td>
 </tr>
 <tr><td align="left" >

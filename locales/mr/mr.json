@@ -581,6 +581,7 @@
     "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "The given :attribute has appeared in a data leak. Please choose a different :attribute.",
     "The government won't let us show you what's behind these doors": "आता या दारे मागे आहे काय सरकार आम्हाला आपण दाखवा करणार नाही",
     "The HasOne relationship has already been filled.": "पैसा संबंध आधीच भरले गेले आहे.",
+    "The password is incorrect.": "The password is incorrect.",
     "The payment was successful.": "पैसे यशस्वी होते.",
     "The provided coupon code is invalid.": "The provided coupon code is invalid.",
     "The provided password does not match your current password.": "प्रदान केलेला पासवर्ड तुमच्या वर्तमान गुप्तशब्द जुळत नाही.",

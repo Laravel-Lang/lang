@@ -9,6 +9,27 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+## [10.1.4] - 2021-08-24
+
+### Changed
+
+ * feature: [ar] #1824 json file
+ * feature: [cs] #1827 auth.php, validation-inline.php, validation.php, json file
+ * feature: [de] #1805 validation.php
+ * feature: [es] #1802 #1817 #1826 validation-inline.php, validation.php, json file
+ * feature: [fr] #1825 json file
+ * feature: [id] #1806 #1808 #1809 #1816 validation-inline.php, validation.php, json file
+ * feature: [ka] #1813 validation.php
+ * feature: [nl] #1819 #1811 json file
+ * feature: [ru] #1804 json file
+ * feature: [vi] #1820 #1823 validation-inline.php, validation.php, json file
+ * feature: [zh_TW] #1814 json file
+
+### Reference
+
+ * feature: #1802 Update validation{-inline}.url
+ * feature: #1817 jetstream.The password is incorrect
+
 ## [10.1.3] - 2021-07-08
 
 ### Changed
@@ -539,7 +560,8 @@ For more information, see #1606 and #1607.
 
 * feature: #1269 Rename locale folders following ISO 15897 format
 
-[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/10.1.3...master
+[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/10.1.4...master
+[10.1.4]: https://github.com/caouecs/Laravel-lang/compare/10.1.3...10.1.4
 [10.1.3]: https://github.com/caouecs/Laravel-lang/compare/10.1.2...10.1.3
 [10.1.2]: https://github.com/caouecs/Laravel-lang/compare/10.1.1...10.1.2
 [10.1.1]: https://github.com/caouecs/Laravel-lang/compare/10.1.0...10.1.1

@@ -31,7 +31,7 @@ return [
     ],
     'boolean'              => 'Поле должно иметь значение логического типа.',
     'confirmed'            => 'Не совпадает с подтверждением.',
-    'current_password'     => 'The password is incorrect.',
+    'current_password'     => 'Некорректный пароль.',
     'date'                 => 'Не является датой.',
     'date_equals'          => 'Дата должна быть равной :date.',
     'date_format'          => 'Не соответствует формату :format.',

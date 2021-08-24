@@ -581,6 +581,7 @@
     "The given :attribute has appeared in a data leak. Please choose a different :attribute.": ":attribute yang diberikan telah muncul dalam kebocoran data. Silahkan pilih :attribute yang lain.",
     "The government won't let us show you what's behind these doors": "Pemerintah tidak mengizinkan kami untuk menampilkan apa yang ada di balik pintu",
     "The HasOne relationship has already been filled.": "Relasi HasOne telah diisi.",
+    "The password is incorrect.": "The password is incorrect.",
     "The payment was successful.": "Pembayaran sukses.",
     "The provided coupon code is invalid.": "Kode kupon yang diberikan tidak valid.",
     "The provided password does not match your current password.": "Kata sandi yang dimasukkan tidak cocok dengan kata sandi saat ini.",

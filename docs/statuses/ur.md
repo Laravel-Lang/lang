@@ -2,7 +2,7 @@
 
 # ur
 
-##### All missed: 172
+##### All missed: 173
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/ur/auth.php)
@@ -397,7 +397,7 @@ The :attribute must be less than or equal :value characters.
 
 ### [ur](https://github.com/Laravel-Lang/lang/blob/master/locales/ur/ur.json)
 
-##### Missing: 121
+##### Missing: 122
 
 <table >
 <tr><td align="left" >
@@ -743,6 +743,10 @@ The :attribute must contain at least one uppercase and one lowercase letter.
 </tr>
 <tr><td align="left" >
 The given :attribute has appeared in a data leak. Please choose a different :attribute.
+</td>
+</tr>
+<tr><td align="left" >
+The password is incorrect.
 </td>
 </tr>
 <tr><td align="left" >

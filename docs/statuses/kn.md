@@ -2,7 +2,7 @@
 
 # kn
 
-##### All missed: 161
+##### All missed: 162
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/kn/auth.php)
@@ -306,7 +306,7 @@ The :attribute must end with one of the following: :values.
 
 ### [kn](https://github.com/Laravel-Lang/lang/blob/master/locales/kn/kn.json)
 
-##### Missing: 123
+##### Missing: 124
 
 <table >
 <tr><td align="left" >
@@ -660,6 +660,10 @@ The file was deleted!
 </tr>
 <tr><td align="left" >
 The given :attribute has appeared in a data leak. Please choose a different :attribute.
+</td>
+</tr>
+<tr><td align="left" >
+The password is incorrect.
 </td>
 </tr>
 <tr><td align="left" >

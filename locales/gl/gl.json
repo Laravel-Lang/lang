@@ -581,6 +581,7 @@
     "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "The given :attribute has appeared in a data leak. Please choose a different :attribute.",
     "The government won't let us show you what's behind these doors": "O goberno non imos amosar-lle o que está detrás destas portas",
     "The HasOne relationship has already been filled.": "O HasOne relación xa foi cuberto.",
+    "The password is incorrect.": "The password is incorrect.",
     "The payment was successful.": "O pago foi un éxito.",
     "The provided coupon code is invalid.": "The provided coupon code is invalid.",
     "The provided password does not match your current password.": "Sempre que o contrasinal non coincide o seu contrasinal actual.",

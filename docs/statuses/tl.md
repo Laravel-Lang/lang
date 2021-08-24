@@ -2,7 +2,7 @@
 
 # tl
 
-##### All missed: 272
+##### All missed: 273
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/tl/auth.php)
@@ -397,7 +397,7 @@ The :attribute must be less than or equal :value characters.
 
 ### [tl](https://github.com/Laravel-Lang/lang/blob/master/locales/tl/tl.json)
 
-##### Missing: 221
+##### Missing: 222
 
 <table >
 <tr><td align="left" >
@@ -1087,6 +1087,10 @@ The :attribute must contain at least one uppercase and one lowercase letter.
 </tr>
 <tr><td align="left" >
 The given :attribute has appeared in a data leak. Please choose a different :attribute.
+</td>
+</tr>
+<tr><td align="left" >
+The password is incorrect.
 </td>
 </tr>
 <tr><td align="left" >

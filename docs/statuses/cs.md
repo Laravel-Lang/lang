@@ -2,330 +2,20 @@
 
 # cs
 
-##### All missed: 190
+##### All missed: 138
 
-
-### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/cs/auth.php)
-
-##### Missing: 1
-
-<table >
-<tr><td align="left" >
-password
-</td>
-<td align="left" >
-The provided password is incorrect.
-</td>
-</tr>
-
-</table>
-
-
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/cs/validation-inline.php)
-
-##### Missing: 33
-
-<table >
-<tr><td align="left" >
-between.array
-</td>
-<td align="left" >
-This content must have between :min and :max items.
-</td>
-</tr>
-<tr><td align="left" >
-between.file
-</td>
-<td align="left" >
-This file must be between :min and :max kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-between.numeric
-</td>
-<td align="left" >
-This value must be between :min and :max.
-</td>
-</tr>
-<tr><td align="left" >
-between.string
-</td>
-<td align="left" >
-This string must be between :min and :max characters.
-</td>
-</tr>
-<tr><td align="left" >
-current_password
-</td>
-<td align="left" >
-The password is incorrect.
-</td>
-</tr>
-<tr><td align="left" >
-gt.array
-</td>
-<td align="left" >
-The content must have more than :value items.
-</td>
-</tr>
-<tr><td align="left" >
-gt.file
-</td>
-<td align="left" >
-The file size must be greater than :value kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-gt.numeric
-</td>
-<td align="left" >
-The value must be greater than :value.
-</td>
-</tr>
-<tr><td align="left" >
-gt.string
-</td>
-<td align="left" >
-The string must be greater than :value characters.
-</td>
-</tr>
-<tr><td align="left" >
-gte.array
-</td>
-<td align="left" >
-The content must have :value items or more.
-</td>
-</tr>
-<tr><td align="left" >
-gte.file
-</td>
-<td align="left" >
-The file size must be greater than or equal :value kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-gte.numeric
-</td>
-<td align="left" >
-The value must be greater than or equal :value.
-</td>
-</tr>
-<tr><td align="left" >
-gte.string
-</td>
-<td align="left" >
-The string must be greater than or equal :value characters.
-</td>
-</tr>
-<tr><td align="left" >
-lt.array
-</td>
-<td align="left" >
-The content must have less than :value items.
-</td>
-</tr>
-<tr><td align="left" >
-lt.file
-</td>
-<td align="left" >
-The file size must be less than :value kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-lt.numeric
-</td>
-<td align="left" >
-The value must be less than :value.
-</td>
-</tr>
-<tr><td align="left" >
-lt.string
-</td>
-<td align="left" >
-The string must be less than :value characters.
-</td>
-</tr>
-<tr><td align="left" >
-lte.array
-</td>
-<td align="left" >
-The content must not have more than :value items.
-</td>
-</tr>
-<tr><td align="left" >
-lte.file
-</td>
-<td align="left" >
-The file size must be less than or equal :value kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-lte.numeric
-</td>
-<td align="left" >
-The value must be less than or equal :value.
-</td>
-</tr>
-<tr><td align="left" >
-lte.string
-</td>
-<td align="left" >
-The string must be less than or equal :value characters.
-</td>
-</tr>
-<tr><td align="left" >
-max.array
-</td>
-<td align="left" >
-The content may not have more than :max items.
-</td>
-</tr>
-<tr><td align="left" >
-max.file
-</td>
-<td align="left" >
-The file size may not be greater than :max kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-max.numeric
-</td>
-<td align="left" >
-The value may not be greater than :max.
-</td>
-</tr>
-<tr><td align="left" >
-max.string
-</td>
-<td align="left" >
-The string may not be greater than :max characters.
-</td>
-</tr>
-<tr><td align="left" >
-min.array
-</td>
-<td align="left" >
-The value must have at least :min items.
-</td>
-</tr>
-<tr><td align="left" >
-min.file
-</td>
-<td align="left" >
-The file size must be at least :min kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-min.numeric
-</td>
-<td align="left" >
-The value must be at least :min.
-</td>
-</tr>
-<tr><td align="left" >
-min.string
-</td>
-<td align="left" >
-The string must be at least :min characters.
-</td>
-</tr>
-<tr><td align="left" >
-size.array
-</td>
-<td align="left" >
-The content must contain :size items.
-</td>
-</tr>
-<tr><td align="left" >
-size.file
-</td>
-<td align="left" >
-The file size must be :size kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-size.numeric
-</td>
-<td align="left" >
-The value must be :size.
-</td>
-</tr>
-<tr><td align="left" >
-size.string
-</td>
-<td align="left" >
-The string must be :size characters.
-</td>
-</tr>
-
-</table>
-
-
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/cs/validation.php)
-
-##### Missing: 1
-
-<table >
-<tr><td align="left" >
-current_password
-</td>
-<td align="left" >
-The password is incorrect.
-</td>
-</tr>
-
-</table>
-
-
-[ [go back](../status.md) | [to top](#) ]
 
 ### [cs](https://github.com/Laravel-Lang/lang/blob/master/locales/cs/cs.json)
 
-##### Missing: 155
+##### Missing: 138
 
 <table >
-<tr><td align="left" >
-:days day trial
-</td>
-</tr>
-<tr><td align="left" >
-Add VAT Number
-</td>
-</tr>
-<tr><td align="left" >
-Address
-</td>
-</tr>
-<tr><td align="left" >
-Address Line 2
-</td>
-</tr>
-<tr><td align="left" >
-An unexpected error occurred and we have notified our support team. Please try again later.
-</td>
-</tr>
-<tr><td align="left" >
-Andorra
-</td>
-</tr>
 <tr><td align="left" >
 Angola
 </td>
 </tr>
 <tr><td align="left" >
 Anguilla
-</td>
-</tr>
-<tr><td align="left" >
-Apply
-</td>
-</tr>
-<tr><td align="left" >
-Apply Coupon
 </td>
 </tr>
 <tr><td align="left" >
@@ -346,14 +36,6 @@ Belize
 </tr>
 <tr><td align="left" >
 Benin
-</td>
-</tr>
-<tr><td align="left" >
-Billing Information
-</td>
-</tr>
-<tr><td align="left" >
-Billing Management
 </td>
 </tr>
 <tr><td align="left" >
@@ -397,35 +79,11 @@ Congo, the Democratic Republic of the
 </td>
 </tr>
 <tr><td align="left" >
-Current Subscription Plan
-</td>
-</tr>
-<tr><td align="left" >
-Currently Subscribed
-</td>
-</tr>
-<tr><td align="left" >
-Download Receipt
-</td>
-</tr>
-<tr><td align="left" >
 Egypt
 </td>
 </tr>
 <tr><td align="left" >
-Email Addresses
-</td>
-</tr>
-<tr><td align="left" >
 Eritrea
-</td>
-</tr>
-<tr><td align="left" >
-ex VAT
-</td>
-</tr>
-<tr><td align="left" >
-Extra Billing Information
 </td>
 </tr>
 <tr><td align="left" >
@@ -469,10 +127,6 @@ Haiti
 </td>
 </tr>
 <tr><td align="left" >
-Have a coupon code?
-</td>
-</tr>
-<tr><td align="left" >
 Having second thoughts about cancelling your subscription? You can instantly reactive your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
 </td>
 </tr>
@@ -482,10 +136,6 @@ Heard Island and McDonald Islands
 </tr>
 <tr><td align="left" >
 Honduras
-</td>
-</tr>
-<tr><td align="left" >
-I accept the terms of service
 </td>
 </tr>
 <tr><td align="left" >
@@ -751,6 +401,10 @@ The :attribute must contain at least one uppercase and one lowercase letter.
 </tr>
 <tr><td align="left" >
 The given :attribute has appeared in a data leak. Please choose a different :attribute.
+</td>
+</tr>
+<tr><td align="left" >
+The password is incorrect.
 </td>
 </tr>
 <tr><td align="left" >

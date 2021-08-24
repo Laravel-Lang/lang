@@ -581,6 +581,7 @@
     "The given :attribute has appeared in a data leak. Please choose a different :attribute.": ":attribute المستخدم ضمن قائمة البيانات المسربة. الرجاء اختيار :attribute مختلف.",
     "The government won't let us show you what's behind these doors": "الحكومة لن تسمح لنا بأن نعرض لك ما وراء هذه الأبواب",
     "The HasOne relationship has already been filled.": "تم بالفعل ملء العلاقة HasOne.",
+    "The password is incorrect.": "كلمة المرور غير صحيحة.",
     "The payment was successful.": "تمت عملية الدفع بنجاح.",
     "The provided coupon code is invalid.": "رمز الكوبون المستخدم غير صالح.",
     "The provided password does not match your current password.": "كلمة المرور التي قمت بإدخالها لا تطابق كلمة المرور الحالية.",

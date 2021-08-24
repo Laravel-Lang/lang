@@ -2,7 +2,7 @@
 
 # sr_Cyrl
 
-##### All missed: 119
+##### All missed: 120
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/sr_Cyrl/auth.php)
@@ -61,7 +61,7 @@ The password is incorrect.
 
 ### [sr_Cyrl](https://github.com/Laravel-Lang/lang/blob/master/locales/sr_Cyrl/sr_Cyrl.json)
 
-##### Missing: 116
+##### Missing: 117
 
 <table >
 <tr><td align="left" >
@@ -391,6 +391,10 @@ The :attribute must contain at least one uppercase and one lowercase letter.
 </tr>
 <tr><td align="left" >
 The given :attribute has appeared in a data leak. Please choose a different :attribute.
+</td>
+</tr>
+<tr><td align="left" >
+The password is incorrect.
 </td>
 </tr>
 <tr><td align="left" >

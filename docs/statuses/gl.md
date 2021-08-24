@@ -2,7 +2,7 @@
 
 # gl
 
-##### All missed: 242
+##### All missed: 243
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/gl/auth.php)
@@ -285,7 +285,7 @@ The password is incorrect.
 
 ### [gl](https://github.com/Laravel-Lang/lang/blob/master/locales/gl/gl.json)
 
-##### Missing: 207
+##### Missing: 208
 
 <table >
 <tr><td align="left" >
@@ -935,6 +935,10 @@ The :attribute must contain at least one uppercase and one lowercase letter.
 </tr>
 <tr><td align="left" >
 The given :attribute has appeared in a data leak. Please choose a different :attribute.
+</td>
+</tr>
+<tr><td align="left" >
+The password is incorrect.
 </td>
 </tr>
 <tr><td align="left" >

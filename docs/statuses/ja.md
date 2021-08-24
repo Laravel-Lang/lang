@@ -2,7 +2,7 @@
 
 # ja
 
-##### All missed: 29
+##### All missed: 30
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/ja/validation-inline.php)
@@ -43,7 +43,7 @@ The password is incorrect.
 
 ### [ja](https://github.com/Laravel-Lang/lang/blob/master/locales/ja/ja.json)
 
-##### Missing: 27
+##### Missing: 28
 
 <table >
 <tr><td align="left" >
@@ -113,6 +113,10 @@ Svalbard and Jan Mayen
 </tr>
 <tr><td align="left" >
 Thanks,
+</td>
+</tr>
+<tr><td align="left" >
+The password is incorrect.
 </td>
 </tr>
 <tr><td align="left" >

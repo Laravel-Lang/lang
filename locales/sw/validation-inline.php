@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Uwanja huu lazima kuwa na kukubalika.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'Hii si halali URL.',
     'after'                => 'Hii ni lazima sasa baada ya :date.',
     'after_or_equal'       => 'Hii ni lazima sasa baada ya au sawa na :date.',

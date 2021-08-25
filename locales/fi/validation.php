@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Kenttä :attribute tulee hyväksyä.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => 'Kentän :attribute tulee olla kelvollinen URL-osoite.',
     'after'                => 'Kentän :attribute päiväyksen tulee olla jälkeen :date.',
     'after_or_equal'       => 'Kentän :attribute päiväyksen tulee olla sama ja jälkeen :date',

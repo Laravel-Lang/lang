@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Dit veld moet geaccepteerd zijn.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'Dit is geen geldige URL.',
     'after'                => 'Dit moet een datum na :date zijn.',
     'after_or_equal'       => 'Dit moet een datum na of gelijk aan :date zijn.',

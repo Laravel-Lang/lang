@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => ':attribute باید پذیرفته شده باشد.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => 'آدرس :attribute معتبر نیست.',
     'after'                => ':attribute باید تاریخی بعد از :date باشد.',
     'after_or_equal'       => ':attribute باید تاریخی بعد از :date، یا مطابق با آن باشد.',

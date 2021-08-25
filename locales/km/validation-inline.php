@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'វាលនេះត្រូវតែត្រូវបានទទួលយក។',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'វាលនេះមិនមែនជា URL ត្រឹមត្រូវឡើយ។',
     'after'                => 'វាលនេះត្រូវតែមានកាលបរិច្ឆេទបន្ទាប់ពី :date។',
     'after_or_equal'       => 'វាលនេះត្រូវតែជាកាលបរិច្ឆេទ ក្រោយឬស្មើ :date។',

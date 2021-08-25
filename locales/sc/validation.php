@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => ':attribute depet èssere atzetadu.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => ':attribute no est un\'URL bàlidu.',
     'after'                => ':attribute depet èssere una data chi benit a pustis de :date.',
     'after_or_equal'       => 'The :attribute must be a date after or equal to :date.',

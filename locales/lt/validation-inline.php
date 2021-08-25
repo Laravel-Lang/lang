@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Šis laukas turi būti priimtas.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'Šio lauko reikšmė nėra galiojantis internetinis adresas.',
     'after'                => 'Šio lauko reikšmė turi būti po :date datos',
     'after_or_equal'       => 'Šio lauko reikšmė privalo būti data lygi arba vėlesnė negu :date.',

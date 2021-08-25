@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => ':Attribute musí byť akceptovaný.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => ':Attribute má neplatnú URL adresu.',
     'after'                => ':Attribute musí byť dátum po :date.',
     'after_or_equal'       => ':Attribute musí byť dátum po alebo presne :date.',

@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => ':attribute duhet të pranohet.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => ':attribute nuk është adresë e saktë.',
     'after'                => ':attribute duhet të jetë datë pas :date.',
     'after_or_equal'       => ':attribute duhet të jetë datë e barabartë ose pas :date.',

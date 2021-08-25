@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Må aksepteres.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'Er ikke en gyldig URL.',
     'after'                => 'Må være en dato etter :date.',
     'after_or_equal'       => 'Må være en dato etter eller lik :date.',

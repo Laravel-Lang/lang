@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => ':attribute tuleb aktsepteerida.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => ':attribute ei ole kehtiv URL.',
     'after'                => ':attribute peab olema kuupäev pärast :date.',
     'after_or_equal'       => ':attribute peab olema kuupäev pärast või samastuma :date.',

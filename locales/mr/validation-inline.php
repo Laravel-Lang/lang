@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'त्या फिल्डला स्वीकारली पाहिजे.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'हे वैध युआरएल नाही.',
     'after'                => 'या :date नंतर तारीख असणे आवश्यक आहे.',
     'after_or_equal'       => 'या नंतर किंवा समान एक तारीख असणे आवश्यक आहे :date.',

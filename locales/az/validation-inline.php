@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Bu sahə qəbul edilməlidir.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'Bu etibarsız URL edir.',
     'after'                => ':date-dan sonra tarix olmalıdır.',
     'after_or_equal'       => ':date-dan sonra və ya bərabər bir tarix olmalıdır.',

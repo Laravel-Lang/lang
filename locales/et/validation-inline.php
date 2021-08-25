@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'See väli tuleb aktsepteerida.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'See ei ole kehtiv URL.',
     'after'                => 'See peab olema kuupäev pärast :date.',
     'after_or_equal'       => 'See peab olema kuupäev pärast või võrdne :date.',

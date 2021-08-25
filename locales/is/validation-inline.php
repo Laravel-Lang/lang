@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Þetta sviði verður samþykkt.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'Þetta er ekki gilt SLÓÐ.',
     'after'                => 'Þetta verður að vera á stefnumót eftir :date.',
     'after_or_equal'       => 'Þetta verður að vera á stefnumót eftir eða jafnt og :date.',

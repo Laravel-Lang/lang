@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'ข้อมูล :attribute ต้องผ่านการยอมรับก่อน',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => 'ข้อมูล :attribute ต้องเป็น URL เท่านั้น',
     'after'                => 'ข้อมูล :attribute ต้องเป็นวันที่หลังจาก :date.',
     'after_or_equal'       => 'ข้อมูล :attribute ต้องเป็นวันที่ตั้งแต่วันที่ :date หรือหลังจากนั้น.',

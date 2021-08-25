@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Acest câmp trebuie acceptat.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'Aceasta nu este o adresă URL validă.',
     'after'                => 'Aceasta trebuie să fie o dată după :date.',
     'after_or_equal'       => 'Aceasta trebuie să fie o dată după sau egală cu :date.',

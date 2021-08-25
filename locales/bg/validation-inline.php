@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Това поле трябва да бъде взето.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'Това е невалиден URL адрес.',
     'after'                => 'Това трябва да е датата след :date година.',
     'after_or_equal'       => 'Това трябва да бъде датата след или равна на :date.',

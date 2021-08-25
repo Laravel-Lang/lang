@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Rhaid derbyn :attribute.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => 'Nid yw :attribute yn URL dilys.',
     'after'                => 'Rhaid i :attribute fod yn ddyddiad sydd ar ôl :date.',
     'after_or_equal'       => 'Y :attribute rhaid iddo fod yn ddyddiad ar ôl neu yn hafal i :date.',

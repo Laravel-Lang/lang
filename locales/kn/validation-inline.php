@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'ಈ ಕ್ಷೇತ್ರದಲ್ಲಿ ಒಪ್ಪಿಕೊಳ್ಳಬೇಕು.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'ಈ ಒಂದು ಮಾನ್ಯವಾದ URL.',
     'after'                => 'ಈ ಮಾಡಬೇಕು ನಂತರ ಒಂದು ದಿನಾಂಕ :date.',
     'after_or_equal'       => 'ಈ ಮಾಡಬೇಕು ನಂತರ ಒಂದು ದಿನಾಂಕ ಅಥವಾ ಸಮಾನ :date.',

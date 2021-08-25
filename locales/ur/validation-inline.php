@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'اس میدان قبول کرنا ضروری ہے.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'یہ نہیں ہے ایک درست یو آر ایل.',
     'after'                => 'یہ ہونا ضروری ہے ، ایک تاریخ کے بعد :date.',
     'after_or_equal'       => 'یہ ہونا ضروری ہے ، ایک تاریخ کے بعد یا اس کے برابر :date.',

@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Ово поље мора бити прихваћено.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'Ово је неприхватљива УРЛ адреса.',
     'after'                => 'Мора да је датум после :date.године.',
     'after_or_equal'       => 'То би требао бити датум након или једнак :date.',

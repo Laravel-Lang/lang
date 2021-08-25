@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Қиммати :attribute бояд қабул карда шавад.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => 'Қиммати :attribute дорои URL-и нодуруст мебошад.',
     'after'                => 'Қиммати :attribute бояд санаи баъд аз :date бошад.',
     'after_or_equal'       => 'Қиммати :attribute бояд санаи баъд ё баробари :date бошад.',

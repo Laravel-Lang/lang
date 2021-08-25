@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'A(z) :attribute el kell legyen fogadva!',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => 'A(z) :attribute nem érvényes url!',
     'after'                => 'A(z) :attribute :date utáni dátum kell, hogy legyen!',
     'after_or_equal'       => 'A(z) :attribute nem lehet korábbi dátum, mint :date!',

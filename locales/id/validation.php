@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => ':Attribute harus diterima.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => ':Attribute bukan URL yang valid.',
     'after'                => ':Attribute harus berisi tanggal setelah :date.',
     'after_or_equal'       => ':Attribute harus berisi tanggal setelah atau sama dengan :date.',

@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'මේ ක්ෂේත්රයේ විය යුතුය පිළිගත්තා.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'මෙය වලංගු නැත URL එක.',
     'after'                => 'මෙම විය යුතුය දිනය පසු :date.',
     'after_or_equal'       => 'මෙම විය යුතුය දිනය පසු හෝ සමාන :date.',

@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => ':attribute ir jābūt pieņemtam.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => ':attribute ir ar nederīgu saiti.',
     'after'                => ':attribute ir jābūt ar datumu pēc :date.',
     'after_or_equal'       => ':attribute ir jābūt ar datumu pēc vai vienādu ar :date.',

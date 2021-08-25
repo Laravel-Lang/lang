@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'この項目が未承認です。',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => '有効なURLではありません。',
     'after'                => ':dateより後の日付を指定してください。',
     'after_or_equal'       => ':date以降の日付を指定してください。',

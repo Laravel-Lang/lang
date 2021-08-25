@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Энэ талбар нь Хүлээн авах естой.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'Энэ нь хүчинтэй хаяг биш юм.',
     'after'                => 'Энэ нь хойш огноо байх естой :date.',
     'after_or_equal'       => 'Энэ нь хойш, эсвэл тэнцүү байх естой :date.',

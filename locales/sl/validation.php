@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => ':attribute mora biti sprejet.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => ':attribute ni pravilen.',
     'after'                => ':attribute mora biti za datumom :date.',
     'after_or_equal'       => ':attribute mora biti za ali enak :date.',

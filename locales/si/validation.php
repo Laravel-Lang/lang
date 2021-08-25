@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'මෙම :attribute පිළිගත යුතුය.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => 'මෙම :attribute වලංගු සබැඳි එකක් නොවේ.',
     'after'                => 'මෙම :attribute පසු දිනය විය යුතුය :date.',
     'after_or_equal'       => 'මෙම :attribute පසුව හෝ ඊට සමාන දිනයකි :date.',

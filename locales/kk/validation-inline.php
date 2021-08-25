@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Бұл өрісті қабылдау керек.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'Бұл жарамсыз URL.',
     'after'                => 'Бұл :date-дан кейінгі күн болуы керек.',
     'after_or_equal'       => 'Бұл :date-тен кейінгі немесе оған тең күн болуы керек.',

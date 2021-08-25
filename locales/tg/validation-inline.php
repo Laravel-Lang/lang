@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Ин соҳа бояд қабул шудааст.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'Ин недопустимый URL-адрес.',
     'after'                => 'Бояд, ки ин сана пас аз соли :date.',
     'after_or_equal'       => 'Он бояд аз таърих пас аз он е баробар ба соли :date.',

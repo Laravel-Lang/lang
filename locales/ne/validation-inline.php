@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'यो क्षेत्र स्वीकार गर्नु पर्छ।',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'यो मान्य URL होईन।',
     'after'                => 'यो मिति पछाडि :date हुनुपर्दछ।',
     'after_or_equal'       => 'यो मिति पछाडि वा बराबर :date हुनुपर्दछ।',

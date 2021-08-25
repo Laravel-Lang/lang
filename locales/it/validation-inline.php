@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Deve essere accettato.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'Non è un URL valido.',
     'after'                => 'Deve essere una data successiva al :date.',
     'after_or_equal'       => 'Deve essere una data successiva o uguale al :date.',

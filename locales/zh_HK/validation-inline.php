@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => '必須接受。',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => '並非一個有效的網址。',
     'after'                => '必須要晚於 :date。',
     'after_or_equal'       => '必須要等於 :date 或更晚。',

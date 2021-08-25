@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Tämä kenttä on hyväksyttävä.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'Tämä ei ole kelvollinen URL-osoite..',
     'after'                => 'Tämän on oltava päivämäärän :date jälkeen.',
     'after_or_equal'       => 'Tämän on oltava päivämäärä :date tai sen jälkeen.',

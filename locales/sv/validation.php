@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => ':Attribute måste accepteras.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => ':Attribute är inte en giltig webbadress.',
     'after'                => ':Attribute måste vara ett datum efter :date.',
     'after_or_equal'       => ':Attribute måste vara ett datum senare eller samma dag som :date.',

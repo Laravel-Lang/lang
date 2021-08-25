@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'ಈ  :attribute  ಒಪ್ಪಿಕೊಳ್ಳಬೇಕು.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => 'ಈ  :attribute ಮಾನ್ಯ URL ಆಗಿಲ್ಲ. ',
     'after'                => 'ಈ  :attribute ದಿನಾಂಕವು   :date ನಂತರದ ದಿನಾಂಕವಾಗಿರಬೇಕು .',
     'after_or_equal'       => 'ಈ  :attribute ದಿನಾಂಕವು   :date ನಂತರದ ಅಥವಾ ಸಮನಾದ ದಿನಾಂಕವಾಗಿರಬೇಕು.',

@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => ':attribute kabul edilmelidir.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => ':attribute geçerli bir URL olmalıdır.',
     'after'                => ':attribute mutlaka :date tarihinden sonra olmalıdır.',
     'after_or_equal'       => ':attribute mutlaka :date tarihinden sonra veya aynı tarihte olmalıdır.',

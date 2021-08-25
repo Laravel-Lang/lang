@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Pole musi zostać zaakceptowane.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'Pole jest nieprawidłowym adresem URL.',
     'after'                => 'Pole musi być datą późniejszą od :date.',
     'after_or_equal'       => 'Pole musi być datą nie wcześniejszą niż :date.',

@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Ezt a mezőt el kell fogadni.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'Ez nem érvényes URL.',
     'after'                => 'Ez egy dátum :date után.',
     'after_or_equal'       => 'Ennek :date után vagy azzal megegyező dátumnak kell lennie.',

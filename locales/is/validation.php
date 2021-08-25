@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Reiturinn :attribute verður að vera samþykktur.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => 'Reiturinn :attribute er ekki leyfileg vefslóð.',
     'after'                => 'Reiturinn :attribute verður að vera dagsetning eftir :date.',
     'after_or_equal'       => ':attribute verður að vera dagsetning eftir eða sú sama og :date.',

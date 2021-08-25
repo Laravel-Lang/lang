@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'इस क्षेत्र को स्वीकार किया जाना चाहिए । ',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'यह एक वैध यूआरएल नहीं है । ',
     'after'                => 'यह :date के बाद की तारीख होनी चाहिए । ',
     'after_or_equal'       => 'यह :date के बाद या उसके बराबर की तारीख होनी चाहिए । ',

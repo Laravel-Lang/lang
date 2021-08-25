@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'ეს ველი უნდა იყოს მიღებული.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'ეს არ არის სწორი URL.',
     'after'                => 'ეს უნდა იყოს თარიღის შემდეგ :date.',
     'after_or_equal'       => 'ეს უნდა იყოს თარიღი ან ტოლია :date.',

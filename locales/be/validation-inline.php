@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Гэта поле павінна быць прынята.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'Гэта няправільны URL-адрас.',
     'after'                => 'Гэта павінна быць дата пасля :date.',
     'after_or_equal'       => 'Гэта павінна быць дата пасля або роўная :date.',

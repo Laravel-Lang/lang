@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => ':attribute تسلیم کرنا لازمی ہے۔',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => ':attribute قابلِ قبول یو آر ایل نہیں ہے۔',
     'after'                => ':attribute لازماً :date کے بعد کی کوئی تاریخ ہو۔',
     'after_or_equal'       => 'اس :attribute ہونا ضروری ہے ، ایک تاریخ کے بعد یا اس کے برابر :date.',

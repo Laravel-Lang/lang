@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => '您必须接受 :attribute。',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => ':attribute 不是一个有效的网址。',
     'after'                => ':attribute 必须要晚于 :date。',
     'after_or_equal'       => ':attribute 必须要等于 :date 或更晚。',

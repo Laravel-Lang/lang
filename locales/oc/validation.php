@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Lo camp :attribute deu èsser acceptat.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => 'Lo camp :attribute es pas una URL valida.',
     'after'                => 'Lo camp :attribute deu èsser una data posteriora a :date.',
     'after_or_equal'       => 'Lo camp :attribute deu èsser una data posteriora o egala a :date.',

@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'يجب قبول هذا الحقل.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'لا يُمثّل رابطًا صحيحًا.',
     'after'                => 'يجب أن يكون تاريخًا لاحقًا للتاريخ :date.',
     'after_or_equal'       => 'يجب أن يكون تاريخاً لاحقاً أو مطابقاً للتاريخ :date.',

@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => ':attribute դաշտը պետք է ընդունվի։',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => ':attribute դաշտը վավեր URL չէ։',
     'after'                => ':attribute դաշտի ամսաթիվը պետք է լինի :date-ից հետո։',
     'after_or_equal'       => ':attribute դաշտի ամսաթիվը պետք է լինի :date կամ դրանից հետո։',

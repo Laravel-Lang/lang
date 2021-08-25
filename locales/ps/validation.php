@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'باید ومنل شی :attribute.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => ':attribute یو باوري لینک نه دی.',
     'after'                => 'باید:attribute تر نن ورځې نیټې پورې :date.',
     'after_or_equal'       => ':attribute باید وروستی نیټه وي یا د نیټې سره سمون ولري :date.',

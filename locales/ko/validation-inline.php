@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => '이 필드를 동의해야 합니다.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => '이 URL은 유효한 URL이 아닙니다.',
     'after'                => ':date 이후 날짜여야 합니다.',
     'after_or_equal'       => ':date 이후 날짜이거나 같은 날짜여야 합니다.',

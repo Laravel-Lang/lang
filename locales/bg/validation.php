@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Трябва да приемете :attribute.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => 'Полето :attribute не е валиден URL адрес.',
     'after'                => 'Полето :attribute трябва да бъде дата след :date.',
     'after_or_equal'       => 'Полето :attribute трябва да бъде дата след или равна на :date.',

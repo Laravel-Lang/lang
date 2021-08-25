@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Dapat na tinanggap ang patlang na ito.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'Ito ay hindi isang wastong URL.',
     'after'                => 'Ito ay dapat na isang petsa pagkatapos ng :date.',
     'after_or_equal'       => 'Ito ay dapat na isang petsa pagkatapos o katumbas ng :date.',

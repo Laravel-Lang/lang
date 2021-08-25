@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Polje mora biti sprejeto.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'URL ni veljaven.',
     'after'                => 'Datum mora biti kasneje kot :date.',
     'after_or_equal'       => 'Datum mora bit enak ali kasneje kot :date.',

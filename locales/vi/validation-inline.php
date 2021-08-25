@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Trường này phải được chấp nhận.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'Trường này không phải là một URL hợp lệ.',
     'after'                => 'Trường này phải là một ngày sau ngày :date.',
     'after_or_equal'       => 'Trường này phải là thời gian bắt đầu sau hoặc đúng bằng :date.',

@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Kjo fushë duhet të pranohet.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'Kjo nuk është adresë e saktë.',
     'after'                => 'Kjo duhet të jetë datë pas :date.',
     'after_or_equal'       => 'Kjo duhet të jetë datë e barabartë ose pas :date.',

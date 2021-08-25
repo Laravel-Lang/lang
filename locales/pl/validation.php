@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Pole :attribute musi zostać zaakceptowane.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => 'Pole :attribute jest nieprawidłowym adresem URL.',
     'after'                => 'Pole :attribute musi być datą późniejszą od :date.',
     'after_or_equal'       => 'Pole :attribute musi być datą nie wcześniejszą niż :date.',

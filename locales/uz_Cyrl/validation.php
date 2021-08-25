@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => ':attribute ни қабул қилишингиз керак.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => ':attribute га нотўғри URL киритилди.',
     'after'                => ':attribute да сана :date дан кейин бўлиши керак.',
     'after_or_equal'       => ':attribute да сана :date га тенг ёки ундан кейин бўлиши керак.',

@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'এই মাঠ গ্রহণ করা আবশ্যক.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'এটি একটি বৈধ ইউআরএল নয়.',
     'after'                => 'এই পরে একটি তারিখ হতে হবে :date.',
     'after_or_equal'       => 'এই পরে বা সমান একটি তারিখ হতে হবে :date.',

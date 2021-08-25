@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => ':attribute onartu beharra dago.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => ':attribute ez da baliozko URL bat.',
     'after'                => ':attribute :date osteko data izan behar da.',
     'after_or_equal'       => ':attribute :date osteko data edo data bera izan behar da.',

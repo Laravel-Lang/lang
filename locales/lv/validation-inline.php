@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Šis lauks ir jāpieņem.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'Tas nav derīgs URL.',
     'after'                => 'Tam jābūt datumam pēc :date.',
     'after_or_equal'       => 'Tam jābūt datumam pēc vai vienāds ar :date.',

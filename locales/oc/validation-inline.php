@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Aqueste camp deu èsser acceptat.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'Aquò es pas una URL valida.',
     'after'                => 'La data deu èsser posteriora a :date.',
     'after_or_equal'       => 'La data deu èsser posteriora o egala a :date.',

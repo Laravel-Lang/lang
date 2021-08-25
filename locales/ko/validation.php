@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => ':attribute을(를) 동의해야 합니다.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => ':attribute은(는) 유효한 URL이 아닙니다.',
     'after'                => ':attribute은(는) :date 이후 날짜여야 합니다.',
     'after_or_equal'       => ':attribute은(는) :date 이후 날짜이거나 같은 날짜여야 합니다.',

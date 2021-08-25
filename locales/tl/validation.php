@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Ang :attribute ay dapat tanggapin.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => 'Ang :attribute ay hindi balidong URL.',
     'after'                => 'Ang :attribute ay dapat petsa pagkatapos ng :date.',
     'after_or_equal'       => 'Ang :attribute ay dapat na isang petsa pagkatapos o katumbas ng :date.',

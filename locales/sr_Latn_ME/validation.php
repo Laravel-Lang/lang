@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Morate prihvatiti :attribute polje.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => 'Polje :attribute nije link.',
     'after'                => 'Polje :attribute mora da bude poslije :date.',
     'after_or_equal'       => 'Polje :attribute mora da bude :date ili kasniji datum.',

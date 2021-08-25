@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'يجب قبول :attribute.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => 'حقل :attribute لا يُمثّل رابطًا صحيحًا.',
     'after'                => 'يجب على حقل :attribute أن يكون تاريخًا لاحقًا للتاريخ :date.',
     'after_or_equal'       => 'حقل :attribute يجب أن يكون تاريخاً لاحقاً أو مطابقاً للتاريخ :date.',

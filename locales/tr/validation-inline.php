@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Bu alan kabul edilmelidir.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'URL geçerli değil.',
     'after'                => 'Bu :date\'den sonraki bir tarih olmalı.',
     'after_or_equal'       => 'Bu, :date\'den sonra veya ona eşit bir tarih olmalıdır.',

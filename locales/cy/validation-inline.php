@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Mae\'r maes hwn yn rhaid i gael eu derbyn.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'Nid yw hyn yn ddilys URL.',
     'after'                => 'Rhaid i hwn fod yn ddyddiad ar ôl :date.',
     'after_or_equal'       => 'Rhaid i hwn fod yn ddyddiad ar ôl neu yn hafal i :date.',

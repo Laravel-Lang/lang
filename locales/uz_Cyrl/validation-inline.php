@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Bu sohani qabul qilish kerak.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'Bu amal URL emas.',
     'after'                => 'Bu keyin bir sana bo\'lishi kerak :date.',
     'after_or_equal'       => 'Bu :date dan keyingi yoki unga teng sana bo\'lishi kerak.',

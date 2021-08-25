@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => ':attribute debe ser aceptado.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => ':attribute non é unha URL válida.',
     'after'                => ':attribute debe ser unha data posterior a :date.',
     'after_or_equal'       => ':attribute debe ser unha data posterior ou igual a :date.',

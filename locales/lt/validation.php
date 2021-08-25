@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Laukas :attribute turi būti priimtas.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => 'Laukas :attribute nėra galiojantis internetinis adresas.',
     'after'                => 'Lauko :attribute reikšmė turi būti po :date datos.',
     'after_or_equal'       => 'Lauko :attribute reikšmė privalo būti data lygi arba vėlesnė negu :date.',

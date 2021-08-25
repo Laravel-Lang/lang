@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Το πεδίο αυτό πρέπει να γίνει αποδεκτό.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'Αυτό δεν είναι μια έγκυρη διεύθυνση URL.',
     'after'                => 'Αυτό πρέπει να είναι μια ημερομηνία μετά το :date.',
     'after_or_equal'       => 'Αυτό πρέπει να είναι μια ημερομηνία μετά ή ίση με :date.',

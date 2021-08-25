@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'שדה :attribute חייב להיות מסומן.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => 'שדה :attribute הוא לא כתובת אתר תקנית.',
     'after'                => 'שדה :attribute חייב להיות תאריך אחרי :date.',
     'after_or_equal'       => 'שדה :attribute חייב להיות תאריך מאוחר או שווה ל :date.',

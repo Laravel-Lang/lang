@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => ':Attribute баталсан байх шаардлагатай.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => ':Attribute талбарт зөв URL хаяг оруулна уу.',
     'after'                => ':Attribute талбарт :date-с хойш огноо оруулна уу.',
     'after_or_equal'       => ':Attribute талбарт :date эсвэл түүнээс хойш огноо оруулна уу.',

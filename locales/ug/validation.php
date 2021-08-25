@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => ':attribute چوقۇم قوشۇلىشىڭىز كېرەك.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => ':attribute ئىناۋەتلىك توربەت ئادىرىسى ئەمەس.',
     'after'                => ':attribute چوقۇم :date دىن كىيىن بۇلىشى كېرەك.',
     'after_or_equal'       => ':attribute چوقۇم :date غا تەڭ ياكى كىيىن بۇلىشى كېرەك.',

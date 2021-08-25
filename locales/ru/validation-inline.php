@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Должно быть принято.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'Недействительный URL.',
     'after'                => 'Дата должна быть больше :date.',
     'after_or_equal'       => 'Дата должна быть больше или равняться :date.',

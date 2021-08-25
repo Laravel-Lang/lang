@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Toto pole musí být přijato.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'Toto není platná adresa URL.',
     'after'                => 'Toto musí být datum po :date.',
     'after_or_equal'       => 'Toto musí být datum po nebo rovno :date.',

@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => ':attribute უნდა იყოს მონიშნული.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => ':attribute არ არის სწორი URL მისამართი.',
     'after'                => ':attribute უნდა იყოს თარიღი :date-ის შემდეგ.',
     'after_or_equal'       => ':attribute უნდა იყოს თარიღი :date-ის შემდეგ ან მისი ტოლი.',

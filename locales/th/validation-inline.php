@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'ช่องข้อมูลนี้จะต้องรับการยอมรับ',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'นี่ไม่ใช่การใช้ได้ที่อยู่ URL ได้',
     'after'                => 'นี่ต้องเป็นวันหลังจาก :date.',
     'after_or_equal'       => 'นี่ต้องเป็นวันหลังจากหรือเท่ากับ :date.',

@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Ruangan ini mesti diterima pakai.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'URL ini adalah tidak sah.',
     'after'                => 'Tarikh mesti tarikh selepas :date.',
     'after_or_equal'       => 'Tarikh mesti tarikh selepas atau bersamaan :date.',

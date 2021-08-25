@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Lazima kipengele kikubalike.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => 'Kipengele sio Chanzo Cha Anuani halali.',
     'after'                => 'Kipengele lazima kiwe tarehe baada ya :date.',
     'after_or_equal'       => ':attribute inapaswa kuwa tarehe baada au sawa na :date.',

@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Eremu hori onartu behar.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'Hau ez da baliozko URL.',
     'after'                => 'Hau behar data bat egin ondoren, :date.',
     'after_or_equal'       => 'Hau behar data bat egin ondoren, edo berdina :date.',

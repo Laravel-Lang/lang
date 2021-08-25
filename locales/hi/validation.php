@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => ':attribute को स्वीकार किया जाना चाहिए।',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => ':attribute एक मान्य URL नहीं है।',
     'after'                => ':attribute, :date के बाद की एक तारीख होनी चाहिए।',
     'after_or_equal'       => ':attribute, :date के बाद या उसके बराबर की तारीख होनी चाहिए।',

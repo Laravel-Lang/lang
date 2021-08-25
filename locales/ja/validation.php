@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => ':attributeを承認してください。',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => ':attributeは、有効なURLではありません。',
     'after'                => ':attributeには、:dateより後の日付を指定してください。',
     'after_or_equal'       => ':attributeには、:date以降の日付を指定してください。',

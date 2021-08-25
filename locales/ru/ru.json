@@ -581,7 +581,7 @@
     "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Значение поля :attribute обнаружено в утечке данных. Пожалуйста, укажите другое значение для :attribute.",
     "The government won't let us show you what's behind these doors": "Правительство не позволяет нам показывать то, что прячется за этими дверями",
     "The HasOne relationship has already been filled.": "Релейшен hasOne уже заполнен.",
-    "The password is incorrect.": "The password is incorrect.",
+    "The password is incorrect.": "Некорректный пароль.",
     "The payment was successful.": "Оплата прошла успешно.",
     "The provided coupon code is invalid.": "Предоставленный код купона недействителен.",
     "The provided password does not match your current password.": "Указанный пароль не соответствует Вашему текущему паролю.",

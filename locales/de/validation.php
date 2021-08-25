@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => ':attribute muss akzeptiert werden.',
+    'accepted_if'          => ':attribute muss akzeptiert werden, wenn :other :value ist.',
     'active_url'           => ':attribute ist keine gültige Internet-Adresse.',
     'after'                => ':attribute muss ein Datum nach :date sein.',
     'after_or_equal'       => ':attribute muss ein Datum nach :date oder gleich :date sein.',

@@ -2,7 +2,7 @@
 
 # oc
 
-##### All missed: 676
+##### All missed: 678
 
 
 ### [passwords](https://github.com/Laravel-Lang/lang/blob/master/locales/oc/passwords.php)
@@ -25,9 +25,16 @@ Please wait before retrying.
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/oc/validation-inline.php)
 
-##### Missing: 6
+##### Missing: 7
 
 <table >
+<tr><td align="left" >
+accepted_if
+</td>
+<td align="left" >
+This field must be accepted when :other is :value.
+</td>
+</tr>
 <tr><td align="left" >
 attached
 </td>
@@ -78,9 +85,16 @@ This field may not be associated with this resource.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/oc/validation.php)
 
-##### Missing: 6
+##### Missing: 7
 
 <table >
+<tr><td align="left" >
+accepted_if
+</td>
+<td align="left" >
+The :attribute must be accepted when :other is :value.
+</td>
+</tr>
 <tr><td align="left" >
 attached
 </td>

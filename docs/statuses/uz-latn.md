@@ -2,7 +2,7 @@
 
 # uz_Latn
 
-##### All missed: 228
+##### All missed: 230
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/uz_Latn/auth.php)
@@ -25,9 +25,16 @@ The provided password is incorrect.
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/uz_Latn/validation-inline.php)
 
-##### Missing: 33
+##### Missing: 34
 
 <table >
+<tr><td align="left" >
+accepted_if
+</td>
+<td align="left" >
+This field must be accepted when :other is :value.
+</td>
+</tr>
 <tr><td align="left" >
 between.array
 </td>
@@ -267,9 +274,16 @@ The string must be :size characters.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/uz_Latn/validation.php)
 
-##### Missing: 1
+##### Missing: 2
 
 <table >
+<tr><td align="left" >
+accepted_if
+</td>
+<td align="left" >
+The :attribute must be accepted when :other is :value.
+</td>
+</tr>
 <tr><td align="left" >
 current_password
 </td>

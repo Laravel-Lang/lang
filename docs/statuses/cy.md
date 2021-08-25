@@ -2,7 +2,7 @@
 
 # cy
 
-##### All missed: 167
+##### All missed: 169
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/cy/auth.php)
@@ -39,9 +39,16 @@ Too many login attempts. Please try again in :seconds seconds.
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/cy/validation-inline.php)
 
-##### Missing: 33
+##### Missing: 34
 
 <table >
+<tr><td align="left" >
+accepted_if
+</td>
+<td align="left" >
+This field must be accepted when :other is :value.
+</td>
+</tr>
 <tr><td align="left" >
 between.array
 </td>
@@ -281,9 +288,16 @@ The string must be :size characters.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/cy/validation.php)
 
-##### Missing: 17
+##### Missing: 18
 
 <table >
+<tr><td align="left" >
+accepted_if
+</td>
+<td align="left" >
+The :attribute must be accepted when :other is :value.
+</td>
+</tr>
 <tr><td align="left" >
 current_password
 </td>

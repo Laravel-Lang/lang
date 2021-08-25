@@ -2,14 +2,21 @@
 
 # fa
 
-##### All missed: 488
+##### All missed: 490
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/fa/validation-inline.php)
 
-##### Missing: 6
+##### Missing: 7
 
 <table >
+<tr><td align="left" >
+accepted_if
+</td>
+<td align="left" >
+This field must be accepted when :other is :value.
+</td>
+</tr>
 <tr><td align="left" >
 attached
 </td>
@@ -60,9 +67,16 @@ This field may not be associated with this resource.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/fa/validation.php)
 
-##### Missing: 6
+##### Missing: 7
 
 <table >
+<tr><td align="left" >
+accepted_if
+</td>
+<td align="left" >
+The :attribute must be accepted when :other is :value.
+</td>
+</tr>
 <tr><td align="left" >
 attached
 </td>

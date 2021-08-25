@@ -2,7 +2,7 @@
 
 # az
 
-##### All missed: 220
+##### All missed: 222
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/az/auth.php)
@@ -25,9 +25,16 @@ The provided password is incorrect.
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/az/validation-inline.php)
 
-##### Missing: 33
+##### Missing: 34
 
 <table >
+<tr><td align="left" >
+accepted_if
+</td>
+<td align="left" >
+This field must be accepted when :other is :value.
+</td>
+</tr>
 <tr><td align="left" >
 between.array
 </td>
@@ -267,9 +274,16 @@ The string must be :size characters.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/az/validation.php)
 
-##### Missing: 17
+##### Missing: 18
 
 <table >
+<tr><td align="left" >
+accepted_if
+</td>
+<td align="left" >
+The :attribute must be accepted when :other is :value.
+</td>
+</tr>
 <tr><td align="left" >
 current_password
 </td>

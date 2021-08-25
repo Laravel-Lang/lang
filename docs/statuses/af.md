@@ -2,14 +2,21 @@
 
 # af
 
-##### All missed: 91
+##### All missed: 93
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/af/validation-inline.php)
 
-##### Missing: 1
+##### Missing: 2
 
 <table >
+<tr><td align="left" >
+accepted_if
+</td>
+<td align="left" >
+This field must be accepted when :other is :value.
+</td>
+</tr>
 <tr><td align="left" >
 current_password
 </td>
@@ -25,9 +32,16 @@ The password is incorrect.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/af/validation.php)
 
-##### Missing: 1
+##### Missing: 2
 
 <table >
+<tr><td align="left" >
+accepted_if
+</td>
+<td align="left" >
+The :attribute must be accepted when :other is :value.
+</td>
+</tr>
 <tr><td align="left" >
 current_password
 </td>

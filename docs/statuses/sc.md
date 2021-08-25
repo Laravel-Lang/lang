@@ -2,7 +2,7 @@
 
 # sc
 
-##### All missed: 802
+##### All missed: 804
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/sc/auth.php)
@@ -57,7 +57,7 @@ Please wait before retrying.
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/sc/validation-inline.php)
 
-##### Missing: 93
+##### Missing: 94
 
 <table >
 <tr><td align="left" >
@@ -65,6 +65,13 @@ accepted
 </td>
 <td align="left" >
 This field must be accepted.
+</td>
+</tr>
+<tr><td align="left" >
+accepted_if
+</td>
+<td align="left" >
+This field must be accepted when :other is :value.
 </td>
 </tr>
 <tr><td align="left" >
@@ -719,9 +726,16 @@ This must be a valid UUID.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/sc/validation.php)
 
-##### Missing: 42
+##### Missing: 43
 
 <table >
+<tr><td align="left" >
+accepted_if
+</td>
+<td align="left" >
+The :attribute must be accepted when :other is :value.
+</td>
+</tr>
 <tr><td align="left" >
 after_or_equal
 </td>

@@ -9,6 +9,15 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+### Changed
+
+ * feature: [de] #1818 validation-inline.php, validation.php
+ * feature: [ru] #1828 validation-inline.php, validation.php, json file
+
+### Reference
+
+ * feature: #1818 add validation{-inline}.accepted_if
+
 ## [10.1.4] - 2021-08-24
 
 ### Changed

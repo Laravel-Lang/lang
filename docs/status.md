@@ -275,7 +275,7 @@
 </td>
 <td align="center" width="17%">
 
-[ru&nbsp;❗](statuses/ru.md)
+[ru&nbsp;✔](statuses/ru.md)
 
 </td>
 <td align="center" width="17%">

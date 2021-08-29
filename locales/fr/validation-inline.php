@@ -13,7 +13,7 @@
 
 return [
     'accepted'             => 'Ce champ doit être accepté.',
-    'accepted_if'          => 'This field must be accepted when :other is :value.',
+    'accepted_if'          => 'Ce champ doit être accepté quand :other a la valeur :value.',
     'active_url'           => 'Ce n\'est pas une URL valide',
     'after'                => 'La date doit être postérieure au :date.',
     'after_or_equal'       => 'La date doit être postérieure ou égale au :date.',

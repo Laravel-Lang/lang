@@ -13,7 +13,7 @@
 
 return [
     'accepted'             => 'Այս դաշտը պետք է ընդունվի։',
-    'accepted_if'          => 'This field must be accepted when :other is :value.',
+    'accepted_if'          => 'Այս դաշտը պետք է ընդունվի երբ :other համապատասխանում է :value։',
     'active_url'           => 'Այս դաշտը վավեր URL չէ։',
     'after'                => 'Այս դաշտի ամսաթիվը պետք է լինի :date-ից հետո։',
     'after_or_equal'       => 'Այս դաշտի ամսաթիվը պետք է լինի :date կամ դրանից հետո։',
@@ -32,7 +32,7 @@ return [
     ],
     'boolean'              => 'Այս դաշտի արժեքը պետք է լինի ճշմարիտ կամ կեղծ։',
     'confirmed'            => 'Հաստատումը չի համապատասխանում։',
-    'current_password'     => 'The password is incorrect.',
+    'current_password'     => 'Այս դաշտը պարունակում է անվավեր գաղտնաբառ։',
     'date'                 => 'Այս դաշտի արժեքը վավեր ամսաթիվ չէ։',
     'date_equals'          => 'Այս դաշտում ամսաթիվը պետք է լինի :date։',
     'date_format'          => 'Այս դաշտի արժեքը չի համապատասխանում :format ձևաչափին։',

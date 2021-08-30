@@ -2,62 +2,12 @@
 
 # hy
 
-##### All missed: 121
+##### All missed: 90
 
-
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/hy/validation-inline.php)
-
-##### Missing: 2
-
-<table >
-<tr><td align="left" >
-accepted_if
-</td>
-<td align="left" >
-This field must be accepted when :other is :value.
-</td>
-</tr>
-<tr><td align="left" >
-current_password
-</td>
-<td align="left" >
-The password is incorrect.
-</td>
-</tr>
-
-</table>
-
-
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/hy/validation.php)
-
-##### Missing: 2
-
-<table >
-<tr><td align="left" >
-accepted_if
-</td>
-<td align="left" >
-The :attribute must be accepted when :other is :value.
-</td>
-</tr>
-<tr><td align="left" >
-current_password
-</td>
-<td align="left" >
-The password is incorrect.
-</td>
-</tr>
-
-</table>
-
-
-[ [go back](../status.md) | [to top](#) ]
 
 ### [hy](https://github.com/Laravel-Lang/lang/blob/master/locales/hy/hy.json)
 
-##### Missing: 117
+##### Missing: 90
 
 <table >
 <tr><td align="left" >
@@ -69,27 +19,7 @@ Add VAT Number
 </td>
 </tr>
 <tr><td align="left" >
-Address
-</td>
-</tr>
-<tr><td align="left" >
-Address Line 2
-</td>
-</tr>
-<tr><td align="left" >
 An unexpected error occurred and we have notified our support team. Please try again later.
-</td>
-</tr>
-<tr><td align="left" >
-Antigua and Barbuda
-</td>
-</tr>
-<tr><td align="left" >
-Apply
-</td>
-</tr>
-<tr><td align="left" >
-Apply Coupon
 </td>
 </tr>
 <tr><td align="left" >
@@ -109,39 +39,11 @@ Bosnia and Herzegovina
 </td>
 </tr>
 <tr><td align="left" >
-Cancel Subscription
-</td>
-</tr>
-<tr><td align="left" >
-Change Subscription Plan
-</td>
-</tr>
-<tr><td align="left" >
 City
 </td>
 </tr>
 <tr><td align="left" >
-Congo, the Democratic Republic of the
-</td>
-</tr>
-<tr><td align="left" >
-Country
-</td>
-</tr>
-<tr><td align="left" >
-Coupon
-</td>
-</tr>
-<tr><td align="left" >
-Current Subscription Plan
-</td>
-</tr>
-<tr><td align="left" >
 Currently Subscribed
-</td>
-</tr>
-<tr><td align="left" >
-Côte d'Ivoire
 </td>
 </tr>
 <tr><td align="left" >
@@ -161,19 +63,7 @@ Extra Billing Information
 </td>
 </tr>
 <tr><td align="left" >
-Have a coupon code?
-</td>
-</tr>
-<tr><td align="left" >
 Having second thoughts about cancelling your subscription? You can instantly reactive your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
-</td>
-</tr>
-<tr><td align="left" >
-Heard Island and McDonald Islands
-</td>
-</tr>
-<tr><td align="left" >
-I accept the terms of service
 </td>
 </tr>
 <tr><td align="left" >
@@ -190,23 +80,11 @@ into your web browser:
 </td>
 </tr>
 <tr><td align="left" >
-Iran, Islamic Republic of
-</td>
-</tr>
-<tr><td align="left" >
-Isle of Man
-</td>
-</tr>
-<tr><td align="left" >
 It looks like you do not have an active subscription. You may choose one of the subscription plans below to get started. Subscription plans may be changed or cancelled at your convenience.
 </td>
 </tr>
 <tr><td align="left" >
 Jane Doe
-</td>
-</tr>
-<tr><td align="left" >
-Korea, Republic of
 </td>
 </tr>
 <tr><td align="left" >
@@ -222,23 +100,11 @@ Managing billing for :billableName
 </td>
 </tr>
 <tr><td align="left" >
-Micronesia, Federated States of
-</td>
-</tr>
-<tr><td align="left" >
-Moldova, Republic of
-</td>
-</tr>
-<tr><td align="left" >
 Monthly
 </td>
 </tr>
 <tr><td align="left" >
 monthly
-</td>
-</tr>
-<tr><td align="left" >
-Netherlands Antilles
 </td>
 </tr>
 <tr><td align="left" >
@@ -314,19 +180,7 @@ Sao Tome and Principe
 </td>
 </tr>
 <tr><td align="left" >
-Select
-</td>
-</tr>
-<tr><td align="left" >
 Select a different plan
-</td>
-</tr>
-<tr><td align="left" >
-Signed in as
-</td>
-</tr>
-<tr><td align="left" >
-South Georgia and the South Sandwich Islands
 </td>
 </tr>
 <tr><td align="left" >
@@ -339,10 +193,6 @@ State / County
 </tr>
 <tr><td align="left" >
 Subscribe
-</td>
-</tr>
-<tr><td align="left" >
-Subscription Information
 </td>
 </tr>
 <tr><td align="left" >
@@ -363,10 +213,6 @@ Tanzania, United Republic of
 </tr>
 <tr><td align="left" >
 Thanks for your continued support. We've attached a copy of your invoice for your records. Please let us know if you have any questions or concerns.
-</td>
-</tr>
-<tr><td align="left" >
-Thanks,
 </td>
 </tr>
 <tr><td align="left" >
@@ -455,10 +301,6 @@ Update Payment Method
 </tr>
 <tr><td align="left" >
 VAT Number
-</td>
-</tr>
-<tr><td align="left" >
-Venezuela, Bolivarian Republic of
 </td>
 </tr>
 <tr><td align="left" >

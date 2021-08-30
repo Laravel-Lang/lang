@@ -13,7 +13,7 @@
 
 return [
     'accepted'             => ':attribute դաշտը պետք է ընդունվի։',
-    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
+    'accepted_if'          => 'Այս դաշտը պետք է ընդունվի երբ :other համապատասխանում է :value։',
     'active_url'           => ':attribute դաշտը վավեր URL չէ։',
     'after'                => ':attribute դաշտի ամսաթիվը պետք է լինի :date-ից հետո։',
     'after_or_equal'       => ':attribute դաշտի ամսաթիվը պետք է լինի :date կամ դրանից հետո։',
@@ -32,7 +32,7 @@ return [
     ],
     'boolean'              => ':attribute դաշտի արժեքը պետք է լինի ճշմարիտ կամ կեղծ։',
     'confirmed'            => ':attribute դաշտը չի համապատասխանում հաստատմանը։',
-    'current_password'     => 'The password is incorrect.',
+    'current_password'     => 'Այս դաշտը պարունակում է անվավեր գաղտնաբառ։',
     'date'                 => ':attribute դաշտը վավեր ամսաթիվ չէ։',
     'date_equals'          => ':attribute դաշտի ամսաթիվը պետք է լինի :date։',
     'date_format'          => ':attribute դաշտը չի համապատասխանում :format ձևաչափին։',

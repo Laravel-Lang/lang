@@ -13,7 +13,7 @@
 
 return [
     'accepted'             => ':attribute ला स्वीकार केला गेला पाहिजे.',
-    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
+    'accepted_if'          => ':other हे :value असेल तेव्हा हे फील्ड स्वीकारणे आवश्यक आहे.',
     'active_url'           => ':attribute हा एक बरोबर URL नाही आहे.',
     'after'                => ':attribute, :date नंतरची एक तारीख पाहिजे.',
     'after_or_equal'       => ':attribute, :date हि किंवा त्या नंतरची एक तारीख पाहिजे.',
@@ -32,7 +32,7 @@ return [
     ],
     'boolean'              => ':attribute फील्ड योग्य किंवा चुकीचे असावे.',
     'confirmed'            => ':attribute पुष्टीकरण जुळत नाही.',
-    'current_password'     => 'The password is incorrect.',
+    'current_password'     => 'संकेतशब्द चुकीचा आहे.',
     'date'                 => ':attribute वैध तारीख नाही.',
     'date_equals'          => ':attribute, :date तारीख समान असणे आवश्यक आहे.',
     'date_format'          => ':attribute फॉर्मेट :format शी जुळत नाही.',
@@ -42,7 +42,7 @@ return [
     'dimensions'           => ':attribute अयोग्य माप आहे.',
     'distinct'             => ':attribute वेगवेगळे असावेत.',
     'email'                => ':attribute एक वैध ईमेल पत्ता असणे आवश्यक आहे.',
-    'ends_with'            => 'द :attribute खालील एक समाप्त करणे आवश्यक आहे: :values.',
+    'ends_with'            => ':attribute खालील एक समाप्त करणे आवश्यक आहे: :values.',
     'exists'               => 'निवडलेेलेे :attribute वैध नाही.',
     'file'                 => ':attribute एक फ़ाइल असावी.',
     'filled'               => ':attribute फील्ड आवश्यक आहे.',
@@ -70,7 +70,7 @@ return [
         'array'   => ':attribute, :value संख्या पेक्षा कमी असावी.',
         'file'    => ':attribute, :value किलो बाईट पेक्षा कमी असावी.',
         'numeric' => ':attribute, :value पेक्षा कमी असावी.',
-        'string'  => ':attribute, :value characters पेक्षा कमी असावी.',
+        'string'  => ':attribute, :value वर्णांपेक्षा पेक्षा कमी असावी.',
     ],
     'lte'                  => [
         'array'   => ':attribute, :value संख्या पेक्षा कमी किंवा समान असणे आवश्यक आहे.',
@@ -126,7 +126,7 @@ return [
     'uuid'                 => ':attribute एक वैध UUID असावी.',
     'custom'               => [
         'attribute-name' => [
-            'rule-name' => 'नियम-संदेश',
+            'rule-name' => 'सानुकूल-संदेश',
         ],
     ],
     'attributes'           => [

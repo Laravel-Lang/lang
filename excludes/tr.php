@@ -60,6 +60,7 @@ return [
     'Peru',
     'Réunion',
     'Saint Barthélemy',
+    'Saint Helena',
     'Saint Lucia',
     'Saint Martin',
     'Samoa',

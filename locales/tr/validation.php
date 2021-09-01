@@ -13,7 +13,7 @@
 
 return [
     'accepted'             => ':attribute kabul edilmelidir.',
-    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
+    'accepted_if'          => ':attribute, :other değeri :value ise kabul edilmelidir.',
     'active_url'           => ':attribute geçerli bir URL olmalıdır.',
     'after'                => ':attribute mutlaka :date tarihinden sonra olmalıdır.',
     'after_or_equal'       => ':attribute mutlaka :date tarihinden sonra veya aynı tarihte olmalıdır.',
@@ -32,7 +32,7 @@ return [
     ],
     'boolean'              => ':attribute sadece doğru veya yanlış olmalıdır.',
     'confirmed'            => ':attribute tekrarı eşleşmiyor.',
-    'current_password'     => 'The password is incorrect.',
+    'current_password'     => 'Parola hatalı.',
     'date'                 => ':attribute geçerli bir tarih değil.',
     'date_equals'          => ':attribute mutlaka :date ile aynı tarihte olmalıdır.',
     'date_format'          => ':attribute mutlaka :format biçiminde olmalıdır.',

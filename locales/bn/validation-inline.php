@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'এই ক্ষেত্র নিষিদ্ধ.',
     'prohibited_if'        => 'এই ক্ষেত্রটি :other :value যখন নিষিদ্ধ.',
     'prohibited_unless'    => 'এই ক্ষেত্রটি নিষিদ্ধ, যদি না :other সালে হয় :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'এই বিন্যাসটি অবৈধ.',
     'relatable'            => 'এই ক্ষেত্রটি এই সম্পদ সঙ্গে যুক্ত হতে পারে না.',
     'required'             => 'এই ক্ষেত্রটি প্রয়োজন.',

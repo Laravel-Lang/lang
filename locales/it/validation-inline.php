@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'Non consentito.',
     'prohibited_if'        => 'Non consentito quando :other è :value.',
     'prohibited_unless'    => 'Non consentito a meno che :other sia contenuto in :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Formato non valido.',
     'relatable'            => 'Non puoi associarlo a questa risorsa.',
     'required'             => 'Obbligatorio.',

@@ -101,6 +101,7 @@ return [
     'prohibited'           => ':attribute non consentito.',
     'prohibited_if'        => ':attribute non consentito quando :other è :value.',
     'prohibited_unless'    => ':attribute non consentito a meno che :other sia contenuto in :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Il formato del campo :attribute non è valido.',
     'relatable'            => ':attribute non può essere associato a questa risorsa.',
     'required'             => 'Il campo :attribute è richiesto.',

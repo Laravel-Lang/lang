@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'Šis lauks ir aizliegts.',
     'prohibited_if'        => 'Šis lauks ir aizliegts, ja :other ir :value.',
     'prohibited_unless'    => 'Šis lauks ir aizliegts, ja :other ir :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Šis formāts ir nederīgs.',
     'relatable'            => 'Šis lauks var nebūt saistīts ar šo resursu.',
     'required'             => 'Šis lauks ir nepieciešams.',

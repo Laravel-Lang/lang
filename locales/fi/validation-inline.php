@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'Tämä kenttä on kielletty.',
     'prohibited_if'        => 'Tämä kenttä on kielletty, kun :other on :value.',
     'prohibited_unless'    => 'Tämä kenttä on kielletty, ellei :other ole :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Tämä muoto on virheellinen.',
     'relatable'            => 'Tämä kenttä ei välttämättä liity tähän resurssiin.',
     'required'             => 'Tämä kenttä on pakollinen.',

@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'Bu sahə qadağandır.',
     'prohibited_if'        => ':other :value-ə bərabər olduqda bu sahə qadağandır.',
     'prohibited_unless'    => ':other yalnız :values-da olmadıqda bu sahə qadağandır.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Bu format yolverilməzdir.',
     'relatable'            => 'Bu sahədə bu resurs ilə bağlı ola bilər.',
     'required'             => 'Bu sahədə məcburidir.',

@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'វាលនេះនេះត្រូវហាមឃាត់។',
     'prohibited_if'        => 'វាលនេះនេះត្រូវហាមឃាត់នៅពេលដែល :other គឺ :value។',
     'prohibited_unless'    => 'វាលនេះនេះត្រូវហាមឃាត់លុះត្រា :other គឺនៅក្នុង :values។',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'វាលនេះទម្រង់មិនត្រឹមត្រូវ។',
     'relatable'            => 'វាលនេះមិនអាចត្រូវបានភ្ជាប់ជាមួយនឹងធនធាននេះ។',
     'required'             => 'វាលនេះនេះគឺទាមទារឲ្យមាន។',

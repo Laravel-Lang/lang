@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'Við :attribute sviði er bannað.',
     'prohibited_if'        => 'Við :attribute sviði er bannað þegar :other er :value.',
     'prohibited_unless'    => 'Við :attribute sviði er bönnuð nema :other er í :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Reiturinn :attribute er ekki á réttu formi.',
     'relatable'            => 'Þetta :attribute getur ekki tengst þessu úrræði.',
     'required'             => 'Reiturinn :attribute er nauðsynlegur.',

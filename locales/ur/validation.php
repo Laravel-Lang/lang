@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'اس :attribute میدان ممنوع ہے.',
     'prohibited_if'        => 'اس :attribute میدان ممنوع ہے جب :other ہے :value.',
     'prohibited_unless'    => 'اس :attribute میدان ممنوع ہے جب تک کہ :other میں ہے :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute قابلِ قبول فارمیٹ میں نہیں ہے۔',
     'relatable'            => 'اس :attribute منسلک نہیں کیا جا سکتا کے ساتھ اس کے وسائل.',
     'required'             => ':attribute فیلڈ درکار ہے۔',

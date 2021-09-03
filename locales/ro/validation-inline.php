@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'Acest câmp este interzis.',
     'prohibited_if'        => 'Acest câmp este interzis atunci când :other este :value.',
     'prohibited_unless'    => 'Acest câmp este interzis, cu excepția cazului în care :other este în :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Acest format este nevalid.',
     'relatable'            => 'Este posibil ca acest câmp să nu fie asociat cu această resursă.',
     'required'             => 'Acest câmp este obligatoriu.',

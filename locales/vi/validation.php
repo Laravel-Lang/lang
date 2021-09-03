@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'Trường :attribute bị cấm.',
     'prohibited_if'        => 'Trường :attribute bị cấm khi :other là :value.',
     'prohibited_unless'    => 'Trường :attribute bị cấm trừ khi :other là một trong :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Trường :attribute có định dạng không hợp lệ.',
     'relatable'            => 'Trường :attribute không thể liên kết với tài nguyên này.',
     'required'             => 'Trường :attribute không được bỏ trống.',

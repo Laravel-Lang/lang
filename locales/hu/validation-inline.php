@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'Ez a mező tilos.',
     'prohibited_if'        => 'Ez a mező tilos, ha :other jelentése :value.',
     'prohibited_unless'    => 'Ez a mező tilos, kivéve, ha a :other :values-ben van.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Ez a formátum érvénytelen.',
     'relatable'            => 'Lehet, hogy ez a mező nem kapcsolódik ehhez az erőforráshoz.',
     'required'             => 'Ez a mező szükséges.',

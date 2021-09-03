@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'Ин майдон манъ аст.',
     'prohibited_if'        => 'Ин соҳа аст, манъ, ки :other баробар :value.',
     'prohibited_unless'    => 'Ин майдон манъ аст, агар танҳо :other аст, дар :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Ин формат недопустим.',
     'relatable'            => 'Ин соҳа метавонад на вобаста ба маълумотҳои захираҳо.',
     'required'             => 'Ин майдон ҳатмист.',

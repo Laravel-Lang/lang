@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'Y maes hwn yn cael ei wahardd.',
     'prohibited_if'        => 'Y maes hwn yn cael ei wahardd pan :other yn :value.',
     'prohibited_unless'    => 'Y maes hwn yn cael ei wahardd oni bai :other yn :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Mae\'r fformat hwn yn annilys.',
     'relatable'            => 'Y maes hwn gall nid yw fod yn gysylltiedig â\'r adnodd hwn.',
     'required'             => 'Mae\'r maes hwn yn ofynnol.',

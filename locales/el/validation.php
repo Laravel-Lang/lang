@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'Το πεδίο :attribute απαγορεύεται.',
     'prohibited_if'        => 'Το πεδίο :attribute απαγορεύεται όταν το :other είναι :value.',
     'prohibited_unless'    => 'Το πεδίο :attribute απαγορεύεται εκτός αν το :other βρίσκεται στο :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Η μορφή του πεδίου :attribute δεν είναι αποδεκτή.',
     'relatable'            => 'Αυτό το :attribute ενδέχεται να μην σχετίζεται με αυτόν τον πόρο.',
     'required'             => 'Το πεδίο :attribute είναι απαραίτητο.',

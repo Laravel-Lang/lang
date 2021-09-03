@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'Šis laukas yra draudžiamas.',
     'prohibited_if'        => 'Šis laukas draudžiamas, kai :other yra :value.',
     'prohibited_unless'    => 'Šis laukas yra draudžiamas, nebent :other yra :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Negaliojantis šio lauko formatas.',
     'relatable'            => 'Šis laukas negali būti susijęs su šiuo šaltiniu.',
     'required'             => 'Privaloma užpildyti šį lauką.',

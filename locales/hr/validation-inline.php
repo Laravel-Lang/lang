@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'Ovo polje je zabranjeno.',
     'prohibited_if'        => 'Ovo polje je zabranjeno ako je :other :value.',
     'prohibited_unless'    => 'Ovo polje je zabranjeno, osim ako :other nije u :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Ovaj format je neprihvatljiv.',
     'relatable'            => 'Ovo polje možda nije povezano s ovim resursom.',
     'required'             => 'Ovo polje je obavezno.',

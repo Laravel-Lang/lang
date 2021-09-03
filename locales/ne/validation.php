@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'यो :attribute क्षेत्र निषेध छ । ',
     'prohibited_if'        => 'यो :attribute क्षेत्र निषेध छ जब :other छ :value.',
     'prohibited_unless'    => 'यो :attribute क्षेत्र निषेध छ नभएसम्म :other छ :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute को ढाँचा मिलेन।',
     'relatable'            => 'यो :attribute हुन सक्छ, यस संग सम्बन्धित संसाधन । ',
     'required'             => ':attribute दिइएको हुनुपर्छ।',

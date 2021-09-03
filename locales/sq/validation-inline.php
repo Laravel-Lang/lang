@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'Kjo fushë është e ndaluar.',
     'prohibited_if'        => 'Kjo fushë është e ndaluar kur :other është :value.',
     'prohibited_unless'    => 'Kjo fushë është e ndaluar nëse :other është në :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Ky format është i pasaktë.',
     'relatable'            => 'Kjo fushë mund të mos shoqërohet me këtë burim.',
     'required'             => 'Kjo fushë është e kërkuar.',

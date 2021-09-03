@@ -101,6 +101,7 @@ return [
     'prohibited'           => ':attribute felt er forbudt.',
     'prohibited_if'        => ':attribute felt er forbudt når :other er :value.',
     'prohibited_unless'    => ':attribute felt er forbudt med mindre :other er i :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Formatet på :attribute er ugyldig.',
     'relatable'            => ':attribute kan ikke være knyttet til denne ressursen.',
     'required'             => ':attribute må fylles ut.',

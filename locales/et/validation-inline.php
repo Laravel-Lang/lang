@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'See väli on keelatud.',
     'prohibited_if'        => 'See väli on keelatud, kui :other on :value.',
     'prohibited_unless'    => 'See väli on keelatud, välja arvatud juhul, kui :other on :valuesis.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'See vorming on vigane.',
     'relatable'            => 'See väli ei pruugi olla seotud selle ressursiga.',
     'required'             => 'See väli on vajalik.',

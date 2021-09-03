@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'Fusha :attribute është e ndaluar.',
     'prohibited_if'        => 'Fusha :attribute është e ndaluar kur :other është :value.',
     'prohibited_unless'    => 'Fusha :attribute është e ndaluar nëse :other është në :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Formati i :attribute është i pasaktë.',
     'relatable'            => 'Ky :attribute mund të mos jetë i lidhur me këtë burim.',
     'required'             => 'Fusha :attribute është e kërkuar.',

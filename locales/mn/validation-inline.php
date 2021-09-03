@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'Энэ талбар нь хориглосон байна.',
     'prohibited_if'        => ':other онд :value он байх үед энэ талбарт хориглоно.',
     'prohibited_unless'    => 'Энэ талбар нь бол хориглосон байна :other онд байна :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Энэ хэлбэр нь хүчин төгөлдөр бус байна.',
     'relatable'            => 'Энэ талбар нь энэ нөөцийн холбоотой байж болох юм.',
     'required'             => 'Энэ талбар нь шаардлагатай байна.',

@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'La :attribute camp està prohibit.',
     'prohibited_if'        => 'La :attribute camp és prohibida quan :other és :value.',
     'prohibited_unless'    => 'La :attribute camp és prohibida, tret que :other és en :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'El format de :attribute és invàlid.',
     'relatable'            => 'Aquesta :attribute no pot ser associada a aquest recurs.',
     'required'             => 'El camp :attribute és obligatori.',

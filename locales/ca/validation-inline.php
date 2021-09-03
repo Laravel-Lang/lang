@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'Aquest camp està prohibit.',
     'prohibited_if'        => 'Aquest camp és prohibida quan :other és :value.',
     'prohibited_unless'    => 'Aquest camp és prohibida, tret que :other és a :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Aquest format no és vàlida.',
     'relatable'            => 'Aquest camp no pot estar associat amb aquest recurs.',
     'required'             => 'Aquest camp és obligatori.',

@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'Це поле заборонено.',
     'prohibited_if'        => 'Це поле заборонено, коли :other дорівнює :value.',
     'prohibited_unless'    => 'Це поле заборонено, якщо тільки :other не знаходиться в :values році.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Формат недійсний.',
     'relatable'            => 'Це поле може бути не пов\'язане з даним ресурсом.',
     'required'             => 'Це поле є обовязковим.',

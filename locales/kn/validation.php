@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'The :attribute ಕ್ಷೇತ್ರದಲ್ಲಿ ನಿಷೇಧಿಸಲಾಗಿದೆ.',
     'prohibited_if'        => 'The :attribute ಕ್ಷೇತ್ರದಲ್ಲಿ ನಿಷೇಧಿಸಲಾಗಿದೆ ಮಾಡಿದಾಗ :other ಆಗಿದೆ :value.',
     'prohibited_unless'    => 'The :attribute ಕ್ಷೇತ್ರದಲ್ಲಿ ನಿಷೇಧಿಸಲಾಗಿದೆ ಹೊರತು :other ಆಗಿದೆ :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'ಈ  :attribute ಸ್ವರೂಪ ಅಮಾನ್ಯವಾಗಿದೆ.',
     'relatable'            => 'ಈ :attribute ಸಂಬಂಧಿಸಿದ ಇರಬಹುದು ಈ ಸಂಪನ್ಮೂಲ.',
     'required'             => 'ಈ  :attribute ಕ್ಷೇತ್ರ ಅಗತ್ಯವಿದೆ.',

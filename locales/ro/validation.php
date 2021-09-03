@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'Câmpul :attribute este interzis.',
     'prohibited_if'        => 'Câmpul :attribute este interzis atunci când :other este :value.',
     'prohibited_unless'    => 'Câmpul :attribute este interzis, cu excepția cazului în care :other este în :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Câmpul :attribute nu are un format valid.',
     'relatable'            => 'Acest :attribute nu poate fi asociat cu această resursă.',
     'required'             => 'Câmpul :attribute este obligatoriu.',

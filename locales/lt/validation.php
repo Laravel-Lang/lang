@@ -101,6 +101,7 @@ return [
     'prohibited'           => ':attribute laukas draudžiamas.',
     'prohibited_if'        => ':attribute laukas draudžiamas, kai :other yra :value.',
     'prohibited_unless'    => ':attribute laukas draudžiamas, nebent :other yra :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Negaliojantis lauko :attribute formatas.',
     'relatable'            => 'Šis :attribute gali būti nesusijęs su šiuo šaltiniu.',
     'required'             => 'Privaloma užpildyti lauką :attribute.',

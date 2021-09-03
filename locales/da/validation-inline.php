@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'Dette felt er forbudt.',
     'prohibited_if'        => 'Dette felt er forbudt, når :other er :value.',
     'prohibited_unless'    => 'Dette felt er forbudt, medmindre :other er i :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Dette format er ugyldigt.',
     'relatable'            => 'Dette felt er muligvis ikke tilknyttet denne ressource.',
     'required'             => 'Dette felt er påkrævet.',

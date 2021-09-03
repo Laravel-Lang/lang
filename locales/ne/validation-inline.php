@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'यो क्षेत्र निषेध छ । ',
     'prohibited_if'        => 'यो क्षेत्र निषेध छ जब :other छ :value.',
     'prohibited_unless'    => 'यो क्षेत्र निषेध छ नभएसम्म :other छ :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'यो ढाँचा अवैध छ।',
     'relatable'            => 'यो क्षेत्र हुन सक्छ, यस संग सम्बन्धित संसाधन । ',
     'required'             => 'यो फिल्ड आवाश्यक छ।',

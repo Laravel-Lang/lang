@@ -101,6 +101,7 @@ return [
     'prohibited'           => ':attribute क्षेत्र निषिद्ध है । ',
     'prohibited_if'        => ':attribute क्षेत्र निषिद्ध है जब :other :value है । ',
     'prohibited_unless'    => ':attribute क्षेत्र तब तक निषिद्ध है जब तक कि :other :values में न हो । ',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute फॉर्मेट अमान्य है।',
     'relatable'            => 'यह :attribute इस संसाधन से संबद्ध नहीं हो सकता है । ',
     'required'             => ':attribute फील्ड आवश्यक होता है।',

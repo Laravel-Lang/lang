@@ -101,6 +101,7 @@ return [
     'prohibited'           => ':Attribute veld is verboden.',
     'prohibited_if'        => ':Attribute veld is verboden indien :other gelijk is aan :value.',
     'prohibited_unless'    => ':Attribute veld is verboden tenzij :other gelijk is aan :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':Attribute formaat is ongeldig.',
     'relatable'            => ':Attribute mag niet gekoppeld worden aan deze bron.',
     'required'             => ':Attribute is verplicht.',

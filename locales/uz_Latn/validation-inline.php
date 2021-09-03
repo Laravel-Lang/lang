@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'Bu maydon taqiqlanadi.',
     'prohibited_if'        => ':other :value bo\'lganda bu maydon taqiqlanadi.',
     'prohibited_unless'    => ':other :values da ekan bu soha taqiqlanadi.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Bu format asossiz hisoblanadi.',
     'relatable'            => 'Bu soha ushbu resurs bilan bog\'liq bo\'lmasligi mumkin.',
     'required'             => 'Bu maydon talab qilinadi.',

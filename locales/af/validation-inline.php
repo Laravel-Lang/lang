@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'Hierdie veld is verbode.',
     'prohibited_if'        => 'Hierdie veld is verbode wanneer :other is :value.',
     'prohibited_unless'    => 'Hierdie veld is verbode, tensy :other is in :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Hierdie formaat is ongeldig.',
     'relatable'            => 'Hierdie veld kan nie wees wat verband hou met hierdie hulpbron.',
     'required'             => 'Hierdie veld word vereis.',

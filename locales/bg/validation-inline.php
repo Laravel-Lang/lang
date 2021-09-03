@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'Това поле е забранено.',
     'prohibited_if'        => 'Това поле е забранено, ако :other е равно на :value.',
     'prohibited_unless'    => 'Това поле е забранено, освен ако :other не е в :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Този формат е невалиден.',
     'relatable'            => 'Това поле може да не е свързано с този ресурс.',
     'required'             => 'Това поле е задължително.',

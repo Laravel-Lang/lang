@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'Бұл өріске тыйым салынады.',
     'prohibited_if'        => 'Егер :other :value болса, бұл өріске тыйым салынады.',
     'prohibited_unless'    => 'Егер :other :values-да болмаса, бұл өріске тыйым салынады.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Бұл формат қолайсыз.',
     'relatable'            => 'Бұл өріс осы ресурсқа байланысты болмауы мүмкін.',
     'required'             => 'Бұл өріс міндетті болып табылады.',

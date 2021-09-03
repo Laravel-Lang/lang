@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'দী :attribute ক্ষেত্রের নিষিদ্ধ.',
     'prohibited_if'        => 'এই :attribute ক্ষেত্র নিষিদ্ধ করা হয়, যখন :other হয় :value.',
     'prohibited_unless'    => 'এই :attribute ক্ষেত্র নিষিদ্ধ করা হয়, যদি না, :other হয় :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute বিন্যাস অবৈধ।',
     'relatable'            => 'এই :attribute এই সম্পদ সঙ্গে যুক্ত হতে পারে না.',
     'required'             => ':attribute স্থানটি পূরণ করা বাধ্যতামূলক।',

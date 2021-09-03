@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'שדה זה אסור.',
     'prohibited_if'        => 'שדה זה אסור כאשר :other הוא :value.',
     'prohibited_unless'    => 'שדה זה אסור אלא אם כן :other הוא בשנת :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'תבנית זו אינה תקפה.',
     'relatable'            => 'שדה זה לא יכול להיות קשור למשאב זה.',
     'required'             => 'שדה זה נדרש.',

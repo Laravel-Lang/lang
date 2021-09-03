@@ -101,6 +101,7 @@ return [
     'prohibited'           => ':attribute ist gesperrt.',
     'prohibited_if'        => ':attribute ist gesperrt, wenn :other :value ist.',
     'prohibited_unless'    => ':attribute ist gesperrt, wenn :other nicht :values ist.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute Format ist ungültig.',
     'relatable'            => ':attribute kann nicht mit dieser Ressource verbunden werden.',
     'required'             => ':attribute muss ausgefüllt sein.',

@@ -101,6 +101,7 @@ return [
     'prohibited'           => ':attribute դաշտը արգելված է։',
     'prohibited_if'        => ':attribute դաշտը արգելված է երբ :other դաշտի արժեքը :value է։',
     'prohibited_unless'    => ':attribute դաշտը արգելված է քանի դեռ :other դաշտի արժեքը :values միջակայքում չի։',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute դաշտի ձևաչափը սխալ է։',
     'relatable'            => ':attribute դաշտը չի կարող կցվել տվյալ ռեսուրսին։',
     'required'             => ':attribute դաշտը պարտադիր է։',

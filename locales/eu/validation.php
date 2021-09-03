@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'The :attribute eremuan, debekatuta dago.',
     'prohibited_if'        => 'The :attribute eremuan, debekatuta dago denean :other da :value.',
     'prohibited_unless'    => 'The :attribute eremuan, debekatuta dago ezean :other da :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute baliogabea da.',
     'relatable'            => 'Hau :attribute ezingo lotutako baliabide hau.',
     'required'             => ':attribute derrigorrezkoa da.',

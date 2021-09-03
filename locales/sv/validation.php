@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'Fältet :attribute är förbjudet.',
     'prohibited_if'        => ':attribute är förbjudet när :other är :value.',
     'prohibited_unless'    => ':attribute är förbjudet om inte :other är :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':Attribute har ogiltigt format.',
     'relatable'            => 'Denna :attribute kanske inte är associerad med den här resursen.',
     'required'             => ':Attribute är obligatoriskt.',

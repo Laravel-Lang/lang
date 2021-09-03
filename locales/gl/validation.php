@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'O :attribute campo está prohibida.',
     'prohibited_if'        => 'O :attribute campo está prohibida cando :other é :value.',
     'prohibited_unless'    => 'O :attribute campo está prohibido, a menos que :other é en :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'O formato de :attribute non é válido.',
     'relatable'            => 'Este :attribute non pode ser asociado con este recurso.',
     'required'             => 'O campo :attribute é obrigatorio.',

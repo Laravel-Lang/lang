@@ -101,6 +101,7 @@ return [
     'prohibited'           => ':attribute 字段被禁止。',
     'prohibited_if'        => '当 :other 为 :value 时，:attribute字段被禁止。',
     'prohibited_unless'    => ':attribute 字段被禁止，除非 :other 在 :values 中。',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute 的格式錯誤。',
     'relatable'            => '此 :attribute 可能与此资源不相关联。',
     'required'             => ':attribute 不能留空。',

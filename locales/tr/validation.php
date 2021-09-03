@@ -101,6 +101,7 @@ return [
     'prohibited'           => ':attribute alanı kısıtlanmıştır.',
     'prohibited_if'        => ':other alanının değeri :value ise :attribute alanına veri girişi yapılamaz.',
     'prohibited_unless'    => ':other alanı :value değerlerinden birisi değilse :attribute alanına veri girişi yapılamaz.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute biçimi geçersiz.',
     'relatable'            => 'Bu :attribute bu kaynakla ilişkili olmayabilir.',
     'required'             => ':attribute mutlaka gereklidir.',

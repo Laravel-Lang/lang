@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'Майдони :attribute сол манъ аст.',
     'prohibited_if'        => 'Майдони :attribute манъ аст, аст, вақте ки :other баробар :value.',
     'prohibited_unless'    => 'Майдони :attribute манъ аст, агар танҳо :other аст, дар :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Формати :attribute нодуруст мебошад.',
     'relatable'            => 'Ин :attribute мумкин нест, вобаста ба ин захираҳо.',
     'required'             => ':attribute бояд дорои қиммат бошад.',

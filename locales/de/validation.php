@@ -101,6 +101,7 @@ return [
     'prohibited'           => ':attribute ist unzulässig.',
     'prohibited_if'        => ':attribute ist unzulässig, wenn :other :value ist.',
     'prohibited_unless'    => ':attribute ist unzulässig, wenn :other nicht :values ist.',
+    'prohibits'            => ':attribute verbietet die Angabe von :other.',
     'regex'                => ':attribute Format ist ungültig.',
     'relatable'            => ':attribute kann nicht mit dieser Ressource verbunden werden.',
     'required'             => ':attribute muss ausgefüllt werden.',

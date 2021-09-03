@@ -2,7 +2,7 @@
 
 # kn
 
-##### All missed: 164
+##### All missed: 166
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/kn/auth.php)
@@ -25,7 +25,7 @@ The provided password is incorrect.
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/kn/validation-inline.php)
 
-##### Missing: 36
+##### Missing: 37
 
 <table >
 <tr><td align="left" >
@@ -253,6 +253,13 @@ The value must be a multiple of :value
 </td>
 </tr>
 <tr><td align="left" >
+prohibits
+</td>
+<td align="left" >
+This field prohibits :other from being present.
+</td>
+</tr>
+<tr><td align="left" >
 size.array
 </td>
 <td align="left" >
@@ -288,7 +295,7 @@ The string must be :size characters.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/kn/validation.php)
 
-##### Missing: 3
+##### Missing: 4
 
 <table >
 <tr><td align="left" >
@@ -310,6 +317,13 @@ ends_with
 </td>
 <td align="left" >
 The :attribute must end with one of the following: :values.
+</td>
+</tr>
+<tr><td align="left" >
+prohibits
+</td>
+<td align="left" >
+The :attribute field prohibits :other from being present.
 </td>
 </tr>
 

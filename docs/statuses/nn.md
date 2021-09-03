@@ -2,7 +2,7 @@
 
 # nn
 
-##### All missed: 735
+##### All missed: 737
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/nn/auth.php)
@@ -43,7 +43,7 @@ Please wait before retrying.
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/nn/validation-inline.php)
 
-##### Missing: 94
+##### Missing: 95
 
 <table >
 <tr><td align="left" >
@@ -572,6 +572,13 @@ This field is prohibited unless :other is in :values.
 </td>
 </tr>
 <tr><td align="left" >
+prohibits
+</td>
+<td align="left" >
+This field prohibits :other from being present.
+</td>
+</tr>
+<tr><td align="left" >
 regex
 </td>
 <td align="left" >
@@ -712,7 +719,7 @@ This must be a valid UUID.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/nn/validation.php)
 
-##### Missing: 9
+##### Missing: 10
 
 <table >
 <tr><td align="left" >
@@ -769,6 +776,13 @@ prohibited_unless
 </td>
 <td align="left" >
 The :attribute field is prohibited unless :other is in :values.
+</td>
+</tr>
+<tr><td align="left" >
+prohibits
+</td>
+<td align="left" >
+The :attribute field prohibits :other from being present.
 </td>
 </tr>
 <tr><td align="left" >

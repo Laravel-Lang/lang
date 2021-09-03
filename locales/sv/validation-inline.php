@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'Detta fält är förbjudet.',
     'prohibited_if'        => 'Detta fält är förbjudet när :other är :value.',
     'prohibited_unless'    => 'Detta fält är förbjudet om inte :other är i :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Detta format är ogiltigt.',
     'relatable'            => 'Det här fältet kanske inte är associerat med den här resursen.',
     'required'             => 'Detta fält krävs.',

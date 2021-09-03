@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'Dit veld is verboden.',
     'prohibited_if'        => 'Dit veld is verboden indien :other gelijk is aan :value.',
     'prohibited_unless'    => 'Dit veld is verboden tenzij :other is aan :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Dit formaat is ongeldig.',
     'relatable'            => 'Dit veld mag niet gekoppeld worden aan deze bron.',
     'required'             => 'Dit veld is verplicht.',

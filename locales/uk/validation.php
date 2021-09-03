@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'Поле :attribute заборонено.',
     'prohibited_if'        => 'Поле :attribute заборонено, коли :other дорівнює :value.',
     'prohibited_unless'    => 'Поле :attribute заборонено, якщо тільки :other не знаходиться в :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Поле :attribute має хибний формат.',
     'relatable'            => 'Цей :attribute може бути не пов\'язаний з цим ресурсом.',
     'required'             => 'Поле :attribute є обов\'язковим для заповнення.',

@@ -101,6 +101,7 @@ return [
     'prohibited'           => ':Attribute tidak boleh ada.',
     'prohibited_if'        => ':Attribute tidak boleh ada bila :other adalah :value.',
     'prohibited_unless'    => ':Attribute tidak boleh ada kecuali :other memiliki nilai :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Format :attribute tidak valid.',
     'relatable'            => ':Attribute ini mungkin tidak berasosiasi dengan sumber ini.',
     'required'             => ':Attribute wajib diisi.',

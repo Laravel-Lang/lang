@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'ช่องข้อมูลนี้เป็น prohibited.',
     'prohibited_if'        => 'ช่องข้อมูลนี้เป็น prohibited ตอนที่ :other คือ :value.',
     'prohibited_unless'    => 'ช่องข้อมูลนี้เป็น prohibited นอกจาก :other อยู่ใน :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'นี่รูปแบบไม่ถูกต้อง',
     'relatable'            => 'ช่องข้อมูลนี้อาจจะไม่เกี่ยวข้องกับทรัพยากรนี้',
     'required'             => 'ช่องข้อมูลนี้เป็นต้องการ.',

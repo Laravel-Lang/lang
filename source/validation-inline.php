@@ -111,6 +111,7 @@ return [
     'prohibited'           => 'This field is prohibited.',
     'prohibited_if'        => 'This field is prohibited when :other is :value.',
     'prohibited_unless'    => 'This field is prohibited unless :other is in :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'same'                 => 'The value of this field must match the one from :other.',
     'size'                 => [
         'numeric' => 'The value must be :size.',

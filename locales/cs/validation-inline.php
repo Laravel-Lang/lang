@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'Toto pole je zakázáno.',
     'prohibited_if'        => 'Toto pole je zakázáno, když :other je :value.',
     'prohibited_unless'    => 'Toto pole je zakázáno, pokud :other není v :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Tento formát je neplatný.',
     'relatable'            => 'Toto pole nemusí být spojeno s tímto zdrojem.',
     'required'             => 'Toto pole je nutné.',

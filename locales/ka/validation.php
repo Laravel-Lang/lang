@@ -101,6 +101,7 @@ return [
     'prohibited'           => ':attribute სფეროში აკრძალულია.',
     'prohibited_if'        => ':attribute სფეროში აკრძალულია, როდესაც :other არის :value.',
     'prohibited_unless'    => ':attribute სფეროში აკრძალულია თუ :other არის :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute-ის ფორმატი არასწორია.',
     'relatable'            => 'ეს :attribute არ შეიძლება იყოს დაკავშირებული ამ რესურსის.',
     'required'             => ':attribute-ის ველი აუცილებელია.',

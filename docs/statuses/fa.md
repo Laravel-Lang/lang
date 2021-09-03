@@ -2,12 +2,12 @@
 
 # fa
 
-##### All missed: 490
+##### All missed: 492
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/fa/validation-inline.php)
 
-##### Missing: 7
+##### Missing: 8
 
 <table >
 <tr><td align="left" >
@@ -53,6 +53,13 @@ This field is prohibited unless :other is in :values.
 </td>
 </tr>
 <tr><td align="left" >
+prohibits
+</td>
+<td align="left" >
+This field prohibits :other from being present.
+</td>
+</tr>
+<tr><td align="left" >
 relatable
 </td>
 <td align="left" >
@@ -67,7 +74,7 @@ This field may not be associated with this resource.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/fa/validation.php)
 
-##### Missing: 7
+##### Missing: 8
 
 <table >
 <tr><td align="left" >
@@ -110,6 +117,13 @@ prohibited_unless
 </td>
 <td align="left" >
 The :attribute field is prohibited unless :other is in :values.
+</td>
+</tr>
+<tr><td align="left" >
+prohibits
+</td>
+<td align="left" >
+The :attribute field prohibits :other from being present.
 </td>
 </tr>
 <tr><td align="left" >

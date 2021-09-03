@@ -2,12 +2,12 @@
 
 # it
 
-##### All missed: 3
+##### All missed: 5
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/it/validation-inline.php)
 
-##### Missing: 1
+##### Missing: 2
 
 <table >
 <tr><td align="left" >
@@ -15,6 +15,13 @@ accepted_if
 </td>
 <td align="left" >
 This field must be accepted when :other is :value.
+</td>
+</tr>
+<tr><td align="left" >
+prohibits
+</td>
+<td align="left" >
+This field prohibits :other from being present.
 </td>
 </tr>
 
@@ -25,7 +32,7 @@ This field must be accepted when :other is :value.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/it/validation.php)
 
-##### Missing: 1
+##### Missing: 2
 
 <table >
 <tr><td align="left" >
@@ -33,6 +40,13 @@ accepted_if
 </td>
 <td align="left" >
 The :attribute must be accepted when :other is :value.
+</td>
+</tr>
+<tr><td align="left" >
+prohibits
+</td>
+<td align="left" >
+The :attribute field prohibits :other from being present.
 </td>
 </tr>
 

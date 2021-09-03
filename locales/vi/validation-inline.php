@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'Trường này bị cấm.',
     'prohibited_if'        => 'Trường này bị cấm khi :other là :value.',
     'prohibited_unless'    => 'Trường này bị cấm trừ khi :other là một trong :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Trường này có định dạng không hợp lệ.',
     'relatable'            => 'Trường này không thể liên kết với tài nguyên này.',
     'required'             => 'Trường này không được bỏ trống.',

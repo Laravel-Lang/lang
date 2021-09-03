@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'Ang patlang na :attribute ay ipinagbabawal.',
     'prohibited_if'        => 'Ang :attribute patlang ay ipinagbabawal kapag :other ay :value.',
     'prohibited_unless'    => 'Ang :attribute patlang ay ipinagbabawal maliban kung :other ay nasa :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Ang :attribute ng attribute ay imbalido.',
     'relatable'            => 'Ito :attribute ay maaaring hindi nauugnay sa mapagkukunan na ito.',
     'required'             => 'Ang :attribute ng attribute ay kailangan.',

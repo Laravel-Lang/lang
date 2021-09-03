@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'Þetta sviði er bannað.',
     'prohibited_if'        => 'Þetta sviði er bannað þegar :other er :value.',
     'prohibited_unless'    => 'Þetta sviði er bönnuð nema :other er í :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Þessu sniði er ógilt.',
     'relatable'            => 'Þetta sviði getur ekki tengst þessu úrræði.',
     'required'             => 'Þetta sviði er krafist.',

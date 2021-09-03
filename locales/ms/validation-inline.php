@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'Ruangan ini adalah dilarang.',
     'prohibited_if'        => 'Ruangan ini adalah dilarang apabila :other adalah :value.',
     'prohibited_unless'    => 'Ruangan ini adalah dilarang kecuali :other adalah di :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Format tidak sah.',
     'relatable'            => 'Ruangan ini tidak boleh dikaitkan dengan sumber ini.',
     'required'             => 'Ruangan ini diperlukan.',

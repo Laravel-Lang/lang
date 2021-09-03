@@ -101,6 +101,7 @@ return [
     'prohibited'           => ':attribute sahəsi qadağandır.',
     'prohibited_if'        => 'Sahəsində :attribute qadağan zaman :other-:value.',
     'prohibited_unless'    => ':attribute sahəsi yalnız :other :values-da olmadıqda qadağandır.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ' :attribute formatı yanlışdır',
     'relatable'            => 'Bu :attribute il bu resurs ilə bağlı ola bilər.',
     'required'             => ' :attribute mütləqdir',

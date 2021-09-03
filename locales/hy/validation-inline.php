@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'Այս դաշտը արգելված է։',
     'prohibited_if'        => 'Այս դաշտը արգելված է երբ :other դաշտի արժեքը :value է։',
     'prohibited_unless'    => 'Այս դաշտը արգելված է քանի դեռ :other դաշտի արժեքը :values միջակայքում չի։',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Այս դաշտի ձևաչափը սխալ է։',
     'relatable'            => 'Այս դաշտը չի կարող կցվել տվյալ ռեսուրսին։',
     'required'             => 'Այս դաշտը պարտադիր է։',

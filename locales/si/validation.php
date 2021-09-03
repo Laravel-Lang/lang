@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'මෙම :attribute ක්ෂේත්රයේ තහනම් කර තිබේ.',
     'prohibited_if'        => 'මෙම :attribute ක්ෂේත්රයේ තහනම් කර තිබේ විට :other වන අතර, :value.',
     'prohibited_unless'    => 'මෙම :attribute ක්ෂේත්රයේ තහනම් කර තිබේ නම් :other වේ :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'මෙම :attribute ආකෘතිය අවලංගුයි.',
     'relatable'            => 'මේ :attribute නොහැකි විය හැක, මෙම සමඟ සංෙයෝජිත ෙ කෙර් සම්පත්.',
     'required'             => 'මෙම :attribute ක්ෂේත්රයයි අවශ්යයි.',

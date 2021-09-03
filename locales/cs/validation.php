@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'Pole :attribute je zakázáno.',
     'prohibited_if'        => 'Pole :attribute je zakázáno, když je :other :value.',
     'prohibited_unless'    => 'Pole :attribute je zakázáno, pokud není rok :other v roce :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute nemá správný formát.',
     'relatable'            => 'Tento :attribute nemusí být spojen s tímto zdrojem.',
     'required'             => ':attribute musí být vyplněno.',

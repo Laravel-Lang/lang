@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'Ang patlang na ito ay ipinagbabawal.',
     'prohibited_if'        => 'Ang patlang na ito ay ipinagbabawal kapag :other ay :value.',
     'prohibited_unless'    => 'Ang patlang na ito ay ipinagbabawal maliban kung :other ay sa :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Hindi balido ang pormat na ito.',
     'relatable'            => 'Ang patlang na ito ay maaaring hindi nauugnay sa mapagkukunan na ito.',
     'required'             => 'Ang patlang na ito ay kinakailangan.',

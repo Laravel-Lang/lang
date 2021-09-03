@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'Eremu honetan debekatuta dago.',
     'prohibited_if'        => 'Eremu honetan debekatuta dago denean :other da, :value.',
     'prohibited_unless'    => 'Eremu honetan debekatuta dago ezean :other da :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Formatu hau ez da balioduna.',
     'relatable'            => 'Eremu honetan ezin izango da lotutako baliabide hau.',
     'required'             => 'Eremu hau beharrezkoa da.',

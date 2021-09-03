@@ -2,8 +2,44 @@
 
 # hy
 
-##### All missed: 90
+##### All missed: 92
 
+
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/hy/validation-inline.php)
+
+##### Missing: 1
+
+<table >
+<tr><td align="left" >
+prohibits
+</td>
+<td align="left" >
+This field prohibits :other from being present.
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/hy/validation.php)
+
+##### Missing: 1
+
+<table >
+<tr><td align="left" >
+prohibits
+</td>
+<td align="left" >
+The :attribute field prohibits :other from being present.
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
 
 ### [hy](https://github.com/Laravel-Lang/lang/blob/master/locales/hy/hy.json)
 

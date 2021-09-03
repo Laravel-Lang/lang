@@ -101,6 +101,7 @@ return [
     'prohibited'           => ':attribute फील्ड प्रतिबंधित आहे.',
     'prohibited_if'        => 'इ. स.:attribute फील्ड :other :value असते तेव्हा प्रतिबंधित आहे.',
     'prohibited_unless'    => 'अगोदर निर्देश केलेल्या बाबीसंबंधी बोलताना :attribute क्षेत्रात प्रतिबंधित आहे :other :values आहे तोपर्यंत.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute फॉर्मेट वैध नाही.',
     'relatable'            => 'या :attribute या संसाधन संबंधित जाऊ शकत नाही.',
     'required'             => ':attribute फील्ड आवश्यक आहे.',

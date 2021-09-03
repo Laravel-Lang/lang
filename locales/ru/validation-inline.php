@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'Данное значение запрещено.',
     'prohibited_if'        => 'Значение запрещено, когда :other равно :value.',
     'prohibited_unless'    => 'Значение запрещено, если :other не входит в :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Ошибочный формат.',
     'relatable'            => 'Объект не может быть связан с этим ресурсом.',
     'required'             => 'Обязательно для заполнения.',

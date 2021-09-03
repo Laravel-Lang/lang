@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'ที่ :attribute ช่องข้อมูล prohibited.',
     'prohibited_if'        => 'ที่ :attribute ช่องข้อมูล prohibited ตอนที่ :other คือ :value.',
     'prohibited_unless'    => 'ที่ :attribute ช่องข้อมูล prohibited นอกจาก :other อยู่ใน :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'ข้อมูล :attribute มีรูปแบบไม่ถูกต้อง',
     'relatable'            => 'นี่ :attribute อาจจะไม่เกี่ยวข้องกับทรัพยากรนี้',
     'required'             => 'ข้อมูล :attribute จำเป็นต้องกรอก',

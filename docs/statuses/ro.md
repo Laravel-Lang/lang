@@ -2,12 +2,12 @@
 
 # ro
 
-##### All missed: 264
+##### All missed: 266
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/ro/validation-inline.php)
 
-##### Missing: 34
+##### Missing: 35
 
 <table >
 <tr><td align="left" >
@@ -221,6 +221,13 @@ The string must be at least :min characters.
 </td>
 </tr>
 <tr><td align="left" >
+prohibits
+</td>
+<td align="left" >
+This field prohibits :other from being present.
+</td>
+</tr>
+<tr><td align="left" >
 size.array
 </td>
 <td align="left" >
@@ -256,7 +263,7 @@ The string must be :size characters.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/ro/validation.php)
 
-##### Missing: 2
+##### Missing: 3
 
 <table >
 <tr><td align="left" >
@@ -271,6 +278,13 @@ current_password
 </td>
 <td align="left" >
 The password is incorrect.
+</td>
+</tr>
+<tr><td align="left" >
+prohibits
+</td>
+<td align="left" >
+The :attribute field prohibits :other from being present.
 </td>
 </tr>
 

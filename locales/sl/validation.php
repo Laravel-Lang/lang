@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'Polje :attribute je prepovedano.',
     'prohibited_if'        => 'Polje :attribute je prepovedano, ko je :other :value.',
     'prohibited_unless'    => 'Polje :attribute je prepovedano, razen če je :other v :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Format polja :attribute je neveljaven.',
     'relatable'            => 'Ta :attribute morda ni povezan s tem virom.',
     'required'             => 'Polje :attribute je obvezno.',

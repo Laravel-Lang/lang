@@ -2,7 +2,7 @@
 
 # is
 
-##### All missed: 154
+##### All missed: 156
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/is/auth.php)
@@ -39,7 +39,7 @@ Too many login attempts. Please try again in :seconds seconds.
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/is/validation-inline.php)
 
-##### Missing: 34
+##### Missing: 35
 
 <table >
 <tr><td align="left" >
@@ -253,6 +253,13 @@ The string must be at least :min characters.
 </td>
 </tr>
 <tr><td align="left" >
+prohibits
+</td>
+<td align="left" >
+This field prohibits :other from being present.
+</td>
+</tr>
+<tr><td align="left" >
 size.array
 </td>
 <td align="left" >
@@ -288,7 +295,7 @@ The string must be :size characters.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/is/validation.php)
 
-##### Missing: 2
+##### Missing: 3
 
 <table >
 <tr><td align="left" >
@@ -303,6 +310,13 @@ current_password
 </td>
 <td align="left" >
 The password is incorrect.
+</td>
+</tr>
+<tr><td align="left" >
+prohibits
+</td>
+<td align="left" >
+The :attribute field prohibits :other from being present.
 </td>
 </tr>
 

@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'To pole jest zabronione.',
     'prohibited_if'        => 'To pole jest zabronione, gdy :other to :value.',
     'prohibited_unless'    => 'To pole jest zabronione, chyba że :other jest w :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Format pola jest nieprawidłowy.',
     'relatable'            => 'To pole może nie być powiązane z tym zasobem.',
     'required'             => 'Pole jest wymagane.',

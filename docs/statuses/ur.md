@@ -2,7 +2,7 @@
 
 # ur
 
-##### All missed: 175
+##### All missed: 177
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/ur/auth.php)
@@ -25,7 +25,7 @@ The provided password is incorrect.
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/ur/validation-inline.php)
 
-##### Missing: 34
+##### Missing: 35
 
 <table >
 <tr><td align="left" >
@@ -239,6 +239,13 @@ The string must be at least :min characters.
 </td>
 </tr>
 <tr><td align="left" >
+prohibits
+</td>
+<td align="left" >
+This field prohibits :other from being present.
+</td>
+</tr>
+<tr><td align="left" >
 size.array
 </td>
 <td align="left" >
@@ -274,7 +281,7 @@ The string must be :size characters.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/ur/validation.php)
 
-##### Missing: 18
+##### Missing: 19
 
 <table >
 <tr><td align="left" >
@@ -401,6 +408,13 @@ lte.string
 </td>
 <td align="left" >
 The :attribute must be less than or equal :value characters.
+</td>
+</tr>
+<tr><td align="left" >
+prohibits
+</td>
+<td align="left" >
+The :attribute field prohibits :other from being present.
 </td>
 </tr>
 

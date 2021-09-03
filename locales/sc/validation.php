@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'The :attribute field is prohibited.',
     'prohibited_if'        => 'The :attribute field is prohibited when :other is :value.',
     'prohibited_unless'    => 'The :attribute field is prohibited unless :other is in :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Su formadu de su campu :attribute no est bàlidu.',
     'relatable'            => 'This :attribute may not be associated with this resource.',
     'required'             => ':attribute est pedidu.',

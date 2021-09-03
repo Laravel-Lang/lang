@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'हे फील्ड प्रतिबंधित आहे.',
     'prohibited_if'        => ':other :value आहे तेव्हा हे फील्ड प्रतिबंधित आहे.',
     'prohibited_unless'    => 'या क्षेत्रात प्रतिबंधित आहे तोपर्यंत :other आहे :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'या स्वरूपात अवैध आहे.',
     'relatable'            => 'हे फील्ड या संसाधन संबद्ध केले जाऊ शकत नाही.',
     'required'             => 'या क्षेत्रात आवश्यक आहे.',

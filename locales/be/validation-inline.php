@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'Гэта поле забаронена.',
     'prohibited_if'        => 'Гэта поле забаронена, калі :other роўна :value.',
     'prohibited_unless'    => 'Гэта поле забаронена, калі толькі :other не знаходзіцца ў :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Гэты фармат недапушчальны.',
     'relatable'            => 'Гэта поле можа быць не звязана з дадзеным рэсурсам.',
     'required'             => 'Гэта поле з\'яўляецца абавязковым.',

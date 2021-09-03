@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'This field is prohibited.',
     'prohibited_if'        => 'This field is prohibited when :other is :value.',
     'prohibited_unless'    => 'This field is prohibited unless :other is in :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'این فرمت نامعتبر است.',
     'relatable'            => 'This field may not be associated with this resource.',
     'required'             => 'این مقدار ضروری است.',

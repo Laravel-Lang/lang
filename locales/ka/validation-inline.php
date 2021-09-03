@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'ეს ველი აკრძალულია.',
     'prohibited_if'        => 'ეს ველი აკრძალულია, როდესაც :other არის :value.',
     'prohibited_unless'    => 'ეს ველი აკრძალულია, თუ :other არის :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'ეს ფორმატი არასწორია.',
     'relatable'            => 'ეს ველი არ შეიძლება იყოს დაკავშირებული ამ რესურსთან.',
     'required'             => 'ეს ველი აუცილებელია.',

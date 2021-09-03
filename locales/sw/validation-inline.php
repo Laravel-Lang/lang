@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'Huu uwanja ni marufuku.',
     'prohibited_if'        => 'Huu uwanja ni marufuku wakati :other ni :value.',
     'prohibited_unless'    => 'Huu uwanja ni marufuku isipokuwa :other ni katika :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Muundo huu ni batili.',
     'relatable'            => 'Uwanja huu inaweza kuwa kuhusishwa na rasilimali hii.',
     'required'             => 'Uwanja huu ni required.',

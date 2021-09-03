@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'حقل :attribute محظور.',
     'prohibited_if'        => 'حقل :attribute محظور إذا كان :other هو :value.',
     'prohibited_unless'    => 'حقل :attribute محظور ما لم يكن :other ضمن :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'صيغة حقل :attribute .غير صحيحة.',
     'relatable'            => 'حقل :attribute قد لا يكون مرتبطا بالمصدر المحدد.',
     'required'             => 'حقل :attribute مطلوب.',

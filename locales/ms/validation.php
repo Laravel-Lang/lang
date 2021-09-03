@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'Ruangan :attribute adalah dilarang.',
     'prohibited_if'        => 'Ruangan :attribute adalah dilarang apabila :other adalah :value.',
     'prohibited_unless'    => 'Ruangan :attribute adalah dilarang kecuali :other adalah di :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Format :attribute tidak sah.',
     'relatable'            => 'Ruangan :attribute tidak boleh dikaitkan dengan sumber ini.',
     'required'             => 'Ruangan :attribute diperlukan.',

@@ -101,6 +101,7 @@ return [
     'prohibited'           => ':attribute өрісіне тыйым салынады.',
     'prohibited_if'        => ':attribute өрісіне :other :value болған кезде тыйым салынады.',
     'prohibited_unless'    => ':attribute өрісіне тыйым салынады, егер тек :other :values-де болмаса.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ' :attribute пішімі жарамсыз.',
     'relatable'            => 'Бұл :attribute осы ресурсқа байланысты болмауы мүмкін.',
     'required'             => ' :attribute жолы толтырылуы керек.',

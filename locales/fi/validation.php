@@ -101,6 +101,7 @@ return [
     'prohibited'           => ':attribute-kenttä on kielletty.',
     'prohibited_if'        => ':attribute-kenttä on kielletty, kun :other on :value.',
     'prohibited_unless'    => ':attribute-kenttä on kielletty, ellei :other ole kohteessa :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Kentän :attribute arvo on väärää muotoa.',
     'relatable'            => 'Tätä :attribute: ää ei saa yhdistää tähän resurssiin.',
     'required'             => 'Kenttä :attribute vaaditaan.',

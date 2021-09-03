@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'Dieses Feld ist gesperrt.',
     'prohibited_if'        => 'Dieses Feld ist gesperrt, wenn :other :value ist.',
     'prohibited_unless'    => 'Dieses Feld ist gesperrt, wenn :other nicht :values ist.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Dieses Format ist ungültig.',
     'relatable'            => 'Das kann nicht mit dieser Ressource verbunden werden.',
     'required'             => 'Dieses Feld muss ausgefüllt sein.',

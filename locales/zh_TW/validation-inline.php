@@ -101,6 +101,7 @@ return [
     'prohibited'           => '禁止此字段。',
     'prohibited_if'        => '當 :other 為 :value 時，禁止此字段。',
     'prohibited_unless'    => '除非 :other 在 :values 中，否則禁止此字段。',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => '格式錯誤。',
     'relatable'            => '此字段可能與此資源不相關聯。',
     'required'             => '不能留空。',

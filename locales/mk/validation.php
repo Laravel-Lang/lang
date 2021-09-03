@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'Во :attribute година полето е забрането.',
     'prohibited_if'        => 'На :attribute поле е забрането кога :other е :value.',
     'prohibited_unless'    => 'На :attribute поле е забранета освен ако не :other е во :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Полето :attribute има невалиден формат.',
     'relatable'            => 'Оваа :attribute може да не биде поврзана со овој ресурс.',
     'required'             => 'Полето :attribute е задолжително.',

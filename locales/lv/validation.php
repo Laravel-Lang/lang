@@ -101,6 +101,7 @@ return [
     'prohibited'           => ':attribute lauks ir aizliegts.',
     'prohibited_if'        => ':attribute lauks ir aizliegts, ja :other ir :value.',
     'prohibited_unless'    => ':attribute lauks ir aizliegts, ja vien :other nav :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute formāts ir nederīgs.',
     'relatable'            => 'Šis :attribute var nebūt saistīts ar šo resursu.',
     'required'             => ':attribute lauks ir obligāts.',

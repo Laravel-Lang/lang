@@ -101,6 +101,7 @@ return [
     'prohibited'           => ':attribute maydon taqiqlanadi.',
     'prohibited_if'        => ':attribute maydon :other :value bo\'lganda taqiqlanadi.',
     'prohibited_unless'    => ':attribute sohasida ekan taqiqlanadi :other yilda :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute maydoni xato formatda.',
     'relatable'            => 'Ushbu :attribute ushbu resurs bilan bog\'liq bo\'lmasligi mumkin.',
     'required'             => ':attribute maydoni to‘ldirilishi shart.',

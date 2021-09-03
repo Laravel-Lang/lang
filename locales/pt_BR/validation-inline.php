@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'Este campo é proibido.',
     'prohibited_if'        => 'Este campo é proibido quando :other é :value.',
     'prohibited_unless'    => 'Este campo é proibido a menos que :other esteja em :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Este formato é inválido.',
     'relatable'            => 'Este campo pode não estar associado a este recurso.',
     'required'             => 'Este campo é obrigatório.',

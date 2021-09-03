@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'Bu alan kısıtlanmıştır.',
     'prohibited_if'        => ':other alanının değeri :value ise bu alana veri girişi yapılamaz.',
     'prohibited_unless'    => ':other alanı :value değerlerinden birisi değilse bu alana veri girişi yapılamaz.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Bu biçim geçersiz.',
     'relatable'            => 'Bu alan, bu kaynakla ilişkili olmayabilir.',
     'required'             => 'Bu alan gereklidir.',

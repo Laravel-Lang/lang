@@ -101,6 +101,7 @@ return [
     'prohibited'           => ':attribute នេះត្រូវហាមឃាត់។',
     'prohibited_if'        => ':attribute នេះត្រូវហាមឃាត់នៅពេលដែល :other គឺ :value។',
     'prohibited_unless'    => ':attribute នេះត្រូវហាមឃាត់លុះត្រា :other គឺនៅក្នុង :values។',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute ទម្រង់មិនត្រឹមត្រូវ។',
     'relatable'            => ':attribute មិនអាចត្រូវបានភ្ជាប់ជាមួយនឹងធនធាននេះ។',
     'required'             => ':attribute នេះគឺទាមទារឲ្យមាន។',

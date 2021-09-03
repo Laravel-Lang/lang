@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'اس میدان میں ممنوع ہے.',
     'prohibited_if'        => 'اس میدان ممنوع ہے جب :other ہے :value.',
     'prohibited_unless'    => 'اس میدان ممنوع ہے جب تک کہ :other میں ہے :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'اس کی شکل باطل ہے.',
     'relatable'            => 'اس میدان منسلک نہیں کیا جا سکتا کے ساتھ اس کے وسائل.',
     'required'             => 'اس میدان کی ضرورت ہے.',

@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'Ya :attribute uwanja ni marufuku.',
     'prohibited_if'        => 'Ya :attribute uwanja ni marufuku wakati :other ni :value.',
     'prohibited_unless'    => 'Ya :attribute uwanja ni marufuku isipokuwa :other ni katika :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Muundo wa kipengele si halali.',
     'relatable'            => 'Hii :attribute inaweza kuwa kuhusishwa na rasilimali hii.',
     'required'             => 'Sehemu ya kipengele inahitajika.',

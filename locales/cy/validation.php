@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'Y :attribute maes yn cael ei wahardd.',
     'prohibited_if'        => 'Y :attribute maes yn cael ei wahardd pan :other yn :value.',
     'prohibited_unless'    => 'Y :attribute maes yn cael ei wahardd oni bai :other yn :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Nid yw fformat :attribute yn ddilys.',
     'relatable'            => 'Mae hyn yn :attribute efallai na fod yn gysylltiedig â\'r adnodd hwn.',
     'required'             => 'Rhaid cynnwys :attribute.',

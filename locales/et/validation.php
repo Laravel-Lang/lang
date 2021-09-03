@@ -101,6 +101,7 @@ return [
     'prohibited'           => ':attribute väli on keelatud.',
     'prohibited_if'        => ':attribute väli on keelatud, kui :other on :value.',
     'prohibited_unless'    => ':attribute väli on keelatud, välja arvatud juhul, kui :other on :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute vorming on vigane.',
     'relatable'            => 'See :attribute ei pruugi olla seotud selle ressursiga.',
     'required'             => ':attribute väli on nõutud.',

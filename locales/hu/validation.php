@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'A :attribute mező tilos.',
     'prohibited_if'        => 'A :attribute mező tilos, ha :other :value.',
     'prohibited_unless'    => 'A :attribute mező tilos, kivéve, ha :other a :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'A(z) :attribute formátuma érvénytelen.',
     'relatable'            => 'Lehet, hogy ez az :attribute nem kapcsolódik ehhez az erőforráshoz.',
     'required'             => 'A(z) :attribute megadása kötelező!',

@@ -101,6 +101,7 @@ return [
     'prohibited'           => '이 필드는 금지되어 있습니다.',
     'prohibited_if'        => '이 필드는 :other (이)가 :value 인 경우 금지되어 있습니다.',
     'prohibited_unless'    => '이 필드는 :other (이)가 :value (이)가 아닌 경우 금지되어 있습니다.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => '형식이 올바르지 않습니다.',
     'relatable'            => '이 필드는이 리소스와 연결되지 않을 수도 있습니다.',
     'required'             => '이 필드는 필수입니다.',

@@ -101,6 +101,7 @@ return [
     'prohibited'           => 'Αυτό το πεδίο απαγορεύεται.',
     'prohibited_if'        => 'Αυτό το πεδίο απαγορεύεται όταν το :other είναι :value.',
     'prohibited_unless'    => 'Αυτό το πεδίο απαγορεύεται εκτός αν το :other βρίσκεται στο :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Αυτή η μορφή δεν είναι έγκυρη.',
     'relatable'            => 'Αυτό το πεδίο ενδέχεται να μην σχετίζεται με αυτόν τον πόρο.',
     'required'             => 'Αυτό το πεδίο απαιτείται.',

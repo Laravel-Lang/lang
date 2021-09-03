@@ -158,6 +158,7 @@ return [
         'password'              => 'contraseña',
         'password_confirmation' => 'confirmación de la contraseña',
         'phone'                 => 'teléfono',
+        'photo'                 => 'foto',
         'price'                 => 'precio',
         'role'                  => 'rol',
         'second'                => 'segundo',

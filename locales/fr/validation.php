@@ -101,7 +101,7 @@ return [
     'prohibited'           => 'Le champ :attribute est interdit.',
     'prohibited_if'        => 'Le champ :attribute est interdit quand :other a la valeur :value.',
     'prohibited_unless'    => 'Le champ :attribute est interdit à moins que :other est l\'une des valeurs :values.',
-    'prohibits'            => 'The :attribute field prohibits :other from being present.',
+    'prohibits'            => 'Le champ :attribute interdit :other d\'être présent.',
     'regex'                => 'Le format du champ :attribute est invalide.',
     'relatable'            => ':attribute n\'est sans doute pas associé(e) avec cette donnée.',
     'required'             => 'Le champ :attribute est obligatoire.',

@@ -101,7 +101,7 @@ return [
     'prohibited'           => 'Ce champ est interdit',
     'prohibited_if'        => 'Ce champ est interdit quand :other a la valeur :value.',
     'prohibited_unless'    => 'Ce champ est interdit à moins que :other ait l\'une des valeurs :values.',
-    'prohibits'            => 'This field prohibits :other from being present.',
+    'prohibits'            => 'Ce champ interdit :other d\'être présent.',
     'regex'                => 'Le format du champ est invalide.',
     'relatable'            => 'Ce champ n\'est sans doute pas associé avec cette donnée.',
     'required'             => 'Ce champ est obligatoire.',

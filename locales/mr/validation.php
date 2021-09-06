@@ -13,7 +13,7 @@
 
 return [
     'accepted'             => ':attribute ला स्वीकार केला गेला पाहिजे.',
-    'accepted_if'          => ':other हे :value असेल तेव्हा हे फील्ड स्वीकारणे आवश्यक आहे.',
+    'accepted_if'          => ':other हे :value असेल तेव्हा हे :attribute स्वीकारणे आवश्यक आहे.',
     'active_url'           => ':attribute हा एक बरोबर URL नाही आहे.',
     'after'                => ':attribute, :date नंतरची एक तारीख पाहिजे.',
     'after_or_equal'       => ':attribute, :date हि किंवा त्या नंतरची एक तारीख पाहिजे.',

@@ -13,7 +13,7 @@
 
 return [
     'accepted'             => ':Attribute moet geaccepteerd zijn.',
-    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
+    'accepted_if'          => ':Attribute moet worden geaccepteerd als :other :value is.',
     'active_url'           => ':Attribute is geen geldige URL.',
     'after'                => ':Attribute moet een datum na :date zijn.',
     'after_or_equal'       => ':Attribute moet een datum na of gelijk aan :date zijn.',
@@ -32,7 +32,7 @@ return [
     ],
     'boolean'              => ':Attribute moet ja of nee zijn.',
     'confirmed'            => ':Attribute bevestiging komt niet overeen.',
-    'current_password'     => 'The password is incorrect.',
+    'current_password'     => 'Huidig wachtwoord is onjuist.',
     'date'                 => ':Attribute moet een datum bevatten.',
     'date_equals'          => ':Attribute moet een datum gelijk aan :date zijn.',
     'date_format'          => ':Attribute moet een geldig datum formaat bevatten.',

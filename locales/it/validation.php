@@ -13,7 +13,7 @@
 
 return [
     'accepted'             => ':attribute deve essere accettato.',
-    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
+    'accepted_if'          => ':attribute deve essere accettato quando :other è :value.',
     'active_url'           => ':attribute non è un URL valido.',
     'after'                => ':attribute deve essere una data successiva al :date.',
     'after_or_equal'       => ':attribute deve essere una data successiva o uguale al :date.',
@@ -101,7 +101,7 @@ return [
     'prohibited'           => ':attribute non consentito.',
     'prohibited_if'        => ':attribute non consentito quando :other è :value.',
     'prohibited_unless'    => ':attribute non consentito a meno che :other sia contenuto in :values.',
-    'prohibits'            => 'The :attribute field prohibits :other from being present.',
+    'prohibits'            => ':attribute impedisce a :other di essere presente.',
     'regex'                => 'Il formato del campo :attribute non è valido.',
     'relatable'            => ':attribute non può essere associato a questa risorsa.',
     'required'             => 'Il campo :attribute è richiesto.',

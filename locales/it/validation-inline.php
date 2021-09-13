@@ -13,7 +13,7 @@
 
 return [
     'accepted'             => 'Deve essere accettato.',
-    'accepted_if'          => 'This field must be accepted when :other is :value.',
+    'accepted_if'          => 'Deve essere accettato quando :other è :value.',
     'active_url'           => 'Non è un URL valido.',
     'after'                => 'Deve essere una data successiva al :date.',
     'after_or_equal'       => 'Deve essere una data successiva o uguale al :date.',
@@ -101,7 +101,7 @@ return [
     'prohibited'           => 'Non consentito.',
     'prohibited_if'        => 'Non consentito quando :other è :value.',
     'prohibited_unless'    => 'Non consentito a meno che :other sia contenuto in :values.',
-    'prohibits'            => 'This field prohibits :other from being present.',
+    'prohibits'            => 'Il campo impedisce a :other di essere presente.',
     'regex'                => 'Formato non valido.',
     'relatable'            => 'Non puoi associarlo a questa risorsa.',
     'required'             => 'Obbligatorio.',

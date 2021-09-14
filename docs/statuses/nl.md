@@ -2,7 +2,7 @@
 
 # nl
 
-##### All missed: 38
+##### All missed: 36
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/nl/validation-inline.php)
@@ -39,23 +39,9 @@ This field prohibits :other from being present.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/nl/validation.php)
 
-##### Missing: 3
+##### Missing: 1
 
 <table >
-<tr><td align="left" >
-accepted_if
-</td>
-<td align="left" >
-The :attribute must be accepted when :other is :value.
-</td>
-</tr>
-<tr><td align="left" >
-current_password
-</td>
-<td align="left" >
-The password is incorrect.
-</td>
-</tr>
 <tr><td align="left" >
 prohibits
 </td>

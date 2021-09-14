@@ -2,7 +2,7 @@
 
 # pt_BR
 
-##### All missed: 112
+##### All missed: 111
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/pt_BR/validation-inline.php)
@@ -71,7 +71,7 @@ The :attribute field prohibits :other from being present.
 
 ### [pt_BR](https://github.com/Laravel-Lang/lang/blob/master/locales/pt_BR/pt_BR.json)
 
-##### Missing: 106
+##### Missing: 105
 
 <table >
 <tr><td align="left" >
@@ -180,11 +180,6 @@ I accept the terms of service
 </tr>
 <tr><td align="left" >
 If you need to add specific contact or tax information to your receipts, like your full business name, VAT identification number, or address of record, you may add it here.
-</td>
-</tr>
-<tr><td align="left" >
-If you're having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser:
 </td>
 </tr>
 <tr><td align="left" >

@@ -2,12 +2,12 @@
 
 # fa
 
-##### All missed: 492
+##### All missed: 491
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/fa/validation-inline.php)
 
-##### Missing: 8
+##### Missing: 7
 
 <table >
 <tr><td align="left" >
@@ -22,13 +22,6 @@ attached
 </td>
 <td align="left" >
 This field is already attached.
-</td>
-</tr>
-<tr><td align="left" >
-current_password
-</td>
-<td align="left" >
-The password is incorrect.
 </td>
 </tr>
 <tr><td align="left" >

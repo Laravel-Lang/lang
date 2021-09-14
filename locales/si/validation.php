@@ -46,17 +46,17 @@ return [
     'exists'               => 'තෝරාගත් :attribute අගය වලංගු නොවේ.',
     'file'                 => 'මෙම :attribute ය ෆයිල් එකක් විය යුතුය.',
     'filled'               => 'මේ :attribute හි අගයක් තිබිය යුතුය.',
-    'gt' => [
+    'gt'                   => [
+        'array'   => 'මෙම :attribute එක :value ට වඩා වැඩි අයිතම ගණනක් විය යුතුය.',
+        'file'    => 'මෙම :attribute එක :value ට වඩා වැඩි කිලෝබයිට් ගණනක් විය යුතුය.',
         'numeric' => 'මෙම :attribute එක :value ට වඩා වැඩි අගයක් විය යුතුය.',
-        'file' => 'මෙම :attribute එක :value ට වඩා වැඩි කිලෝබයිට් ගණනක් විය යුතුය.',
-        'string' => 'මෙම :attribute එක :value ට වඩා වැඩි අකුරු ගණනක් විය යුතුය.',
-        'array' => 'මෙම :attribute එක :value ට වඩා වැඩි අයිතම ගණනක් විය යුතුය.',
+        'string'  => 'මෙම :attribute එක :value ට වඩා වැඩි අකුරු ගණනක් විය යුතුය.',
     ],
-    'gte' => [
+    'gte'                  => [
+        'array'   => 'මෙම :attribute එක අයිතම :value ට වඩා වැඩි හෝ සමාන විය යුතුයි.',
+        'file'    => 'මෙම :attribute එක කිලෝබයිට් :value ට වඩා වැඩි හෝ සමාන විය යුතුයි.',
         'numeric' => 'මෙම :attribute එක :value ට වඩා වැඩි හෝ සමාන විය යුතුයි.',
-        'file' => 'මෙම :attribute එක කිලෝබයිට් :value ට වඩා වැඩි හෝ සමාන විය යුතුයි.',
-        'string' => 'මෙම :attribute එක අකුරු :value ට වඩා වැඩි හෝ සමාන විය යුතුයි.',
-        'array' => 'මෙම :attribute එක අයිතම :value ට වඩා වැඩි හෝ සමාන විය යුතුයි.',
+        'string'  => 'මෙම :attribute එක අකුරු :value ට වඩා වැඩි හෝ සමාන විය යුතුයි.',
     ],
     'image'                => 'මෙම :attribute රූපයක් විය යුතුය.',
     'in'                   => 'මෙම තෝරා ඇති :attribute වලංගු නැත.',
@@ -66,17 +66,17 @@ return [
     'ipv4'                 => 'මෙම :attribute වලංගු IPv4 ලිපිනය විය යුතුය.',
     'ipv6'                 => 'මෙම :attribute වලංගු IPv6 ලිපිනය විය යුතුය.',
     'json'                 => 'මෙම :attribute වලංගු JSON පේළියක් විය යුතුය.',
-    'lt' => [
+    'lt'                   => [
+        'array'   => 'මෙම :attribute එක :value ට වඩා අඩු අයිතම ගණනක් විය යුතුය.',
+        'file'    => 'මෙම :attribute එක :value ට වඩා අඩු කිලෝබයිට් ගණනක් විය යුතුය.',
         'numeric' => 'මෙම :attribute එක :value ට වඩා අඩු අගයක් විය යුතුය.',
-        'file' => 'මෙම :attribute එක :value ට වඩා අඩු කිලෝබයිට් ගණනක් විය යුතුය.',
-        'string' => 'මෙම :attribute එක :value ට වඩා අඩු අකුරු ගණනක් විය යුතුය.',
-        'array' => 'මෙම :attribute එක :value ට වඩා අඩු අයිතම ගණනක් විය යුතුය.',
+        'string'  => 'මෙම :attribute එක :value ට වඩා අඩු අකුරු ගණනක් විය යුතුය.',
     ],
-    'lte' => [
+    'lte'                  => [
+        'array'   => 'මෙම :attribute එක අයිතම :value ට වඩා අඩු හෝ සමාන විය යුතුයි.',
+        'file'    => 'මෙම :attribute එක කිලෝබයිට් :value ට වඩා අඩු හෝ සමාන විය යුතුයි.',
         'numeric' => 'මෙම :attribute එක :value ට වඩා අඩු හෝ සමාන විය යුතුයි.',
-        'file' => 'මෙම :attribute එක කිලෝබයිට් :value ට වඩා අඩු හෝ සමාන විය යුතුයි.',
-        'string' => 'මෙම :attribute එක අකුරු :value ට වඩා අඩු හෝ සමාන විය යුතුයි.',
-        'array' => 'මෙම :attribute එක අයිතම :value ට වඩා අඩු හෝ සමාන විය යුතුයි.',
+        'string'  => 'මෙම :attribute එක අකුරු :value ට වඩා අඩු හෝ සමාන විය යුතුයි.',
     ],
     'max'                  => [
         'array'   => 'මෙම :attribute එක :max ට වඩා වැඩි නොවිය යුතුයි.',

@@ -41,7 +41,7 @@ return [
     'digits_between'       => 'Ce champ doit contenir entre :min et :max chiffres.',
     'dimensions'           => 'La taille de l\'image n\'est pas conforme.',
     'distinct'             => 'Ce champ a une valeur en double.',
-    'email'                => 'Ce champ doit être une adresse email valide.',
+    'email'                => 'Ce champ doit être une adresse e-mail valide.',
     'ends_with'            => 'Ce champ doit se terminer par une des valeurs suivantes : :values',
     'exists'               => 'Ce champ sélectionné est invalide.',
     'file'                 => 'Ce champ doit être un fichier.',

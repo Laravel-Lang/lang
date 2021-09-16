@@ -224,7 +224,7 @@
 </tr>
 <tr><td align="center" width="17%">
 
-[nb&nbsp;❗](statuses/nb.md)
+[nb&nbsp;✔](statuses/nb.md)
 
 </td>
 <td align="center" width="17%">

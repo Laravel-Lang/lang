@@ -13,7 +13,7 @@
 
 return [
     'accepted'             => ':attribute må aksepteres.',
-    'accepted_if'          => 'Dette feltet må aksepteres når :other er :value.',
+    'accepted_if'          => ':attribute må aksepteres når :other er :value.',
     'active_url'           => ':attribute er ikke en gyldig URL.',
     'after'                => ':attribute må være en dato etter :date.',
     'after_or_equal'       => ':attribute må være en dato etter eller lik :date.',
@@ -101,7 +101,7 @@ return [
     'prohibited'           => ':attribute felt er forbudt.',
     'prohibited_if'        => ':attribute felt er forbudt når :other er :value.',
     'prohibited_unless'    => ':attribute felt er forbudt med mindre :other er i :values.',
-    'prohibits'            => 'Dette feltet forbyr :other å være til stede.',
+    'prohibits'            => ':attribute forbyr :other å være til stede.',
     'regex'                => 'Formatet på :attribute er ugyldig.',
     'relatable'            => ':attribute kan ikke være knyttet til denne ressursen.',
     'required'             => ':attribute må fylles ut.',

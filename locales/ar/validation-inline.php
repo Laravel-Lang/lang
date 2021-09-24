@@ -101,7 +101,7 @@ return [
     'prohibited'           => 'هذا الحقل محظور.',
     'prohibited_if'        => 'هذا الحقل محظور إذا كان :other هو :value.',
     'prohibited_unless'    => 'هذا الحقل محظور ما لم يكن :other ضمن :values.',
-    'prohibits'            => 'This field prohibits :other from being present.',
+    'prohibits'            => 'هذا الحقل يحظر تواجد الحقل :other.',
     'regex'                => 'الصيغة غير صحيحة.',
     'relatable'            => 'هذا الحقل قد لا يكون مرتبطا بالمصدر المحدد.',
     'required'             => 'هذا الحقل مطلوب.',

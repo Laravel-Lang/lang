@@ -130,7 +130,5 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [
-        'password' => 'heslo',
-    ],
+    'attributes'           => [],
 ];

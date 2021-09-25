@@ -178,6 +178,7 @@ return [
         'password'              => 'Password',
         'password_confirmation' => 'Password Confirmation',
         'phone'                 => 'Phone',
+        'photo'                 => 'Photo',
         'price'                 => 'Price',
         'role'                  => 'Role',
         'second'                => 'Second',

@@ -43,6 +43,7 @@ return [
     'Cuba',
     'Dominica',
     'Ecuador',
+    'Editor',
     'El Salvador',
     'Eritrea',
     'Estonia',

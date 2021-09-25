@@ -11,6 +11,7 @@
 */
 
 return [
+    'Administrator',
     'American Samoa',
     'API Token',
     'April',

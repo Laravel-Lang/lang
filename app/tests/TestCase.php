@@ -25,13 +25,12 @@ abstract class TestCase extends BaseTestCase
         $content = $this->isJsonFile($filename) ? $this->loadJson() : $this->loadFile($filename);
 
         if ($this->isValidation($filename)) {
-            $custom     = Arr::get($content, 'custom', []);
-            $attributes = Arr::get($content, 'attributes', []);
+            $custom = Arr::get($content, 'custom', []);
 
             return Arrayable::of($content)
-                ->except(['custom', 'attributes'])
+                ->except(['attributes', 'custom'])
                 ->ksort()
-                ->merge(compact('custom', 'attributes'))
+                ->merge(compact('custom'))
                 ->get();
         }
 
@@ -97,7 +96,9 @@ abstract class TestCase extends BaseTestCase
 
     protected function isValidation(string $filename): bool
     {
-        return str_starts_with($filename, 'validation');
+        $names = ['validation.php', 'validation-inline.php'];
+
+        return in_array($filename, $names, true);
     }
 
     protected function isInline(string $filename): bool

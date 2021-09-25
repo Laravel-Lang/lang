@@ -133,5 +133,4 @@ return [
             'min' => 'La :attribute debe contener más de :min caracteres',
         ],
     ],
-    'attributes'           => [],
 ];

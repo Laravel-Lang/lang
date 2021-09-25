@@ -1,7 +1,6 @@
 <?php
 
 return [
-    'custom'     => [],
     'attributes' => [
         'address'               => '地址',
         'age'                   => '年龄',

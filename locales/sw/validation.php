@@ -130,5 +130,4 @@ return [
             'rule-name' => 'ujumbe wa desturi',
         ],
     ],
-    'attributes'           => [],
 ];

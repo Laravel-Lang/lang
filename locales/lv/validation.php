@@ -130,5 +130,4 @@ return [
             'rule-name' => 'ziņa pēc pieprasījuma',
         ],
     ],
-    'attributes'           => [],
 ];

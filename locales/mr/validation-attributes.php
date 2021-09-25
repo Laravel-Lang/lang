@@ -1,7 +1,6 @@
 <?php
 
 return [
-    'custom'     => [],
     'attributes' => [
         'image'                   => 'प्रतिमा',
         'result_text_under_image' => 'प्रतिमेच्या खाली त्याचे परिणाम',

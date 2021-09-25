@@ -1,7 +1,6 @@
 <?php
 
 return [
-    'custom'     => [],
     'attributes' => [
         'image'                   => 'छवि',
         'result_text_under_image' => 'छवि के नीचे परिणाम पाठ',

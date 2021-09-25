@@ -1,7 +1,6 @@
 <?php
 
 return [
-    'custom'     => [],
     'attributes' => [
         'image'                   => 'Picha',
         'result_text_under_image' => 'Maandishi ya matokeo chini ya picha',

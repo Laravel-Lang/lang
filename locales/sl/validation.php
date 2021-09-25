@@ -130,5 +130,4 @@ return [
             'rule-name' => 'Prilagojeno sporočilo',
         ],
     ],
-    'attributes'           => [],
 ];

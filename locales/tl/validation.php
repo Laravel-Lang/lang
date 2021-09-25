@@ -130,5 +130,4 @@ return [
             'rule-name' => 'pasadyang-mensahe',
         ],
     ],
-    'attributes'           => [],
 ];

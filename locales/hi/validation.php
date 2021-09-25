@@ -130,5 +130,4 @@ return [
             'rule-name' => 'अनुकूल-संदेश',
         ],
     ],
-    'attributes'           => [],
 ];

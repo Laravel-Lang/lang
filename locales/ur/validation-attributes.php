@@ -1,7 +1,6 @@
 <?php
 
 return [
-    'custom'     => [],
     'attributes' => [
         'image'                   => 'تصویر',
         'result_text_under_image' => 'تصویر کے تحت نتیجے کا متن',

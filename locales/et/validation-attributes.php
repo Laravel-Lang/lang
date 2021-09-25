@@ -1,7 +1,6 @@
 <?php
 
 return [
-    'custom'     => [],
     'attributes' => [
         'image'                   => 'Pilt',
         'result_text_under_image' => 'Tulemuse tekst pildi all',

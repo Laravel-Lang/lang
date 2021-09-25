@@ -1,7 +1,6 @@
 <?php
 
 return [
-    'custom'     => [],
     'attributes' => [
         'image'                   => 'Imahe',
         'result_text_under_image' => 'Resultang teksto sa ilalim ng imahe',

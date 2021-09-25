@@ -1,7 +1,6 @@
 <?php
 
 return [
-    'custom'     => [],
     'attributes' => [
         'address'               => 'د استوګنې پته',
         'age'                   => 'عمر',

@@ -2,7 +2,7 @@
 
 # sk
 
-##### All missed: 214
+##### All missed: 215
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/sk/auth.php)
@@ -313,7 +313,7 @@ The :attribute field prohibits :other from being present.
 
 ### [sk](https://github.com/Laravel-Lang/lang/blob/master/locales/sk/sk.json)
 
-##### Missing: 175
+##### Missing: 176
 
 <table >
 <tr><td align="left" >
@@ -450,6 +450,10 @@ December
 </tr>
 <tr><td align="left" >
 Download Receipt
+</td>
+</tr>
+<tr><td align="left" >
+Editor
 </td>
 </tr>
 <tr><td align="left" >

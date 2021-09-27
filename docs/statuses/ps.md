@@ -2,7 +2,7 @@
 
 # ps
 
-##### All missed: 742
+##### All missed: 746
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/ps/auth.php)
@@ -807,7 +807,7 @@ This :attribute may not be associated with this resource.
 
 ### [ps](https://github.com/Laravel-Lang/lang/blob/master/locales/ps/ps.json)
 
-##### Missing: 634
+##### Missing: 638
 
 <table >
 <tr><td align="left" >
@@ -888,6 +888,14 @@ Address
 </tr>
 <tr><td align="left" >
 Address Line 2
+</td>
+</tr>
+<tr><td align="left" >
+Administrator
+</td>
+</tr>
+<tr><td align="left" >
+Administrator users can perform any action.
 </td>
 </tr>
 <tr><td align="left" >
@@ -1516,6 +1524,14 @@ Edit :resource
 </tr>
 <tr><td align="left" >
 Edit Attached
+</td>
+</tr>
+<tr><td align="left" >
+Editor
+</td>
+</tr>
+<tr><td align="left" >
+Editor users have the ability to read, create, and update.
 </td>
 </tr>
 <tr><td align="left" >

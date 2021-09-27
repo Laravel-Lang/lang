@@ -2,7 +2,7 @@
 
 # da
 
-##### All missed: 275
+##### All missed: 277
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/da/auth.php)
@@ -313,7 +313,7 @@ The :attribute field prohibits :other from being present.
 
 ### [da](https://github.com/Laravel-Lang/lang/blob/master/locales/da/da.json)
 
-##### Missing: 236
+##### Missing: 238
 
 <table >
 <tr><td align="left" >
@@ -330,6 +330,10 @@ Address
 </tr>
 <tr><td align="left" >
 Address Line 2
+</td>
+</tr>
+<tr><td align="left" >
+Administrator
 </td>
 </tr>
 <tr><td align="left" >
@@ -526,6 +530,10 @@ Download Receipt
 </tr>
 <tr><td align="left" >
 Ecuador
+</td>
+</tr>
+<tr><td align="left" >
+Editor
 </td>
 </tr>
 <tr><td align="left" >

@@ -2,7 +2,7 @@
 
 # gl
 
-##### All missed: 247
+##### All missed: 248
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/gl/auth.php)
@@ -313,7 +313,7 @@ The :attribute field prohibits :other from being present.
 
 ### [gl](https://github.com/Laravel-Lang/lang/blob/master/locales/gl/gl.json)
 
-##### Missing: 208
+##### Missing: 209
 
 <table >
 <tr><td align="left" >
@@ -522,6 +522,10 @@ Download Receipt
 </tr>
 <tr><td align="left" >
 Ecuador
+</td>
+</tr>
+<tr><td align="left" >
+Editor
 </td>
 </tr>
 <tr><td align="left" >

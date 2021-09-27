@@ -38,6 +38,8 @@ trait Contains
 
     protected function isValidation(string $filename): bool
     {
-        return str_starts_with($filename, 'validation');
+        $names = ['validation.php', 'validation-inline.php'];
+
+        return in_array($filename, $names, true);
     }
 }

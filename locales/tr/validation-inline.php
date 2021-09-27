@@ -130,5 +130,4 @@ return [
             'kural-adi' => 'Özel doğrulama mesajı',
         ],
     ],
-    'attributes'           => [],
 ];

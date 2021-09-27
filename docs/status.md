@@ -2,7 +2,7 @@
 
 # Completion status
 
-> Translation of localizations is completed by **79%** (58.2K / 73.2K).
+Translation of localizations is completed by **79%** (55.3K / 70.3K).
 
 <table width="100%">
 <tr><td align="center" width="17%">
@@ -12,7 +12,7 @@
 </td>
 <td align="center" width="17%">
 
-[ar&nbsp;✔](statuses/ar.md)
+[ar&nbsp;❗](statuses/ar.md)
 
 </td>
 <td align="center" width="17%">

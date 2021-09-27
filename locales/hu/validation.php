@@ -130,8 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [
-        'name'     => 'név',
-        'password' => 'jelszó',
-    ],
 ];

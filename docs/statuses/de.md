@@ -2,7 +2,31 @@
 
 # de
 
-##### All missed: 0
+##### All missed: 2
 
-All lines are translated 😊
+
+### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/master/locales/de/validation-attributes.php)
+
+##### Missing: 2
+
+<table >
+<tr><td align="left" >
+attributes.minute
+</td>
+<td align="left" >
+Minute
+</td>
+</tr>
+<tr><td align="left" >
+attributes.name
+</td>
+<td align="left" >
+Name
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
 

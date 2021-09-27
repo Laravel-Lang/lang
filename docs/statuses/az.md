@@ -2,7 +2,7 @@
 
 # az
 
-##### All missed: 224
+##### All missed: 225
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/az/auth.php)
@@ -15,6 +15,24 @@ password
 </td>
 <td align="left" >
 The provided password is incorrect.
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/master/locales/az/validation-attributes.php)
+
+##### Missing: 1
+
+<table >
+<tr><td align="left" >
+attributes.gender
+</td>
+<td align="left" >
+Gender
 </td>
 </tr>
 

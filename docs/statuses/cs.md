@@ -2,7 +2,7 @@
 
 # cs
 
-##### All missed: 142
+##### All missed: 143
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/cs/validation-inline.php)
@@ -57,7 +57,7 @@ The :attribute field prohibits :other from being present.
 
 ### [cs](https://github.com/Laravel-Lang/lang/blob/master/locales/cs/cs.json)
 
-##### Missing: 138
+##### Missing: 139
 
 <table >
 <tr><td align="left" >
@@ -126,6 +126,10 @@ China
 </tr>
 <tr><td align="left" >
 Congo, the Democratic Republic of the
+</td>
+</tr>
+<tr><td align="left" >
+Editor
 </td>
 </tr>
 <tr><td align="left" >

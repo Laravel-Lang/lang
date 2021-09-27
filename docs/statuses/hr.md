@@ -2,7 +2,7 @@
 
 # hr
 
-##### All missed: 208
+##### All missed: 209
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/hr/auth.php)
@@ -313,7 +313,7 @@ The :attribute field prohibits :other from being present.
 
 ### [hr](https://github.com/Laravel-Lang/lang/blob/master/locales/hr/hr.json)
 
-##### Missing: 169
+##### Missing: 170
 
 <table >
 <tr><td align="left" >
@@ -330,6 +330,10 @@ Address
 </tr>
 <tr><td align="left" >
 Address Line 2
+</td>
+</tr>
+<tr><td align="left" >
+Administrator
 </td>
 </tr>
 <tr><td align="left" >

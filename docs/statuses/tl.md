@@ -2,7 +2,7 @@
 
 # tl
 
-##### All missed: 277
+##### All missed: 278
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/tl/auth.php)
@@ -425,7 +425,7 @@ The :attribute field prohibits :other from being present.
 
 ### [tl](https://github.com/Laravel-Lang/lang/blob/master/locales/tl/tl.json)
 
-##### Missing: 222
+##### Missing: 223
 
 <table >
 <tr><td align="left" >
@@ -598,6 +598,10 @@ Dashboard
 </tr>
 <tr><td align="left" >
 Download Receipt
+</td>
+</tr>
+<tr><td align="left" >
+Editor
 </td>
 </tr>
 <tr><td align="left" >

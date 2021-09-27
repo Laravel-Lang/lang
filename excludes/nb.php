@@ -12,6 +12,7 @@
 
 return [
     'Action Status',
+    'Administrator',
     'Afghanistan',
     'Albania',
     'Andorra',

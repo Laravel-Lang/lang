@@ -2,7 +2,7 @@
 
 # uz_Latn
 
-##### All missed: 232
+##### All missed: 233
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/uz_Latn/auth.php)
@@ -313,7 +313,7 @@ The :attribute field prohibits :other from being present.
 
 ### [uz_Latn](https://github.com/Laravel-Lang/lang/blob/master/locales/uz_Latn/uz_Latn.json)
 
-##### Missing: 193
+##### Missing: 194
 
 <table >
 <tr><td align="left" >
@@ -330,6 +330,10 @@ Address
 </tr>
 <tr><td align="left" >
 Address Line 2
+</td>
+</tr>
+<tr><td align="left" >
+Administrator
 </td>
 </tr>
 <tr><td align="left" >

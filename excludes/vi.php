@@ -11,6 +11,7 @@
 */
 
 return [
+    'Administrator',
     'Afghanistan',
     'Albania',
     'Algeria',
@@ -57,6 +58,7 @@ return [
     'Djibouti',
     'Dominica',
     'Ecuador',
+    'Editor',
     'El Salvador',
     'Email',
     'Equatorial Guinea',

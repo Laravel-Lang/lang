@@ -28,6 +28,7 @@ return [
     'Chile',
     'Cuba',
     'Curaçao',
+    'Editor',
     'El Salvador',
     'Fiji',
     'Gambia',

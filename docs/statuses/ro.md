@@ -2,7 +2,7 @@
 
 # ro
 
-##### All missed: 266
+##### All missed: 268
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/ro/validation-inline.php)
@@ -295,7 +295,7 @@ The :attribute field prohibits :other from being present.
 
 ### [ro](https://github.com/Laravel-Lang/lang/blob/master/locales/ro/ro.json)
 
-##### Missing: 228
+##### Missing: 230
 
 <table >
 <tr><td align="left" >
@@ -316,6 +316,10 @@ Address
 </tr>
 <tr><td align="left" >
 Address Line 2
+</td>
+</tr>
+<tr><td align="left" >
+Administrator
 </td>
 </tr>
 <tr><td align="left" >
@@ -520,6 +524,10 @@ Download Receipt
 </tr>
 <tr><td align="left" >
 Ecuador
+</td>
+</tr>
+<tr><td align="left" >
+Editor
 </td>
 </tr>
 <tr><td align="left" >

@@ -2,7 +2,7 @@
 
 # ca
 
-##### All missed: 234
+##### All missed: 235
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/ca/auth.php)
@@ -313,7 +313,7 @@ The :attribute field prohibits :other from being present.
 
 ### [ca](https://github.com/Laravel-Lang/lang/blob/master/locales/ca/ca.json)
 
-##### Missing: 195
+##### Missing: 196
 
 <table >
 <tr><td align="left" >
@@ -478,6 +478,10 @@ Djibouti
 </tr>
 <tr><td align="left" >
 Download Receipt
+</td>
+</tr>
+<tr><td align="left" >
+Editor
 </td>
 </tr>
 <tr><td align="left" >

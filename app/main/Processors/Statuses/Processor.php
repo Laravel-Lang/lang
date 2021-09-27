@@ -91,7 +91,7 @@ abstract class Processor extends BaseProcessor
             return false;
         }
 
-        if ($this->hasExclude($value, $locale)) {
+        if ($this->hasExclude($key, $value, $locale)) {
             return false;
         }
 

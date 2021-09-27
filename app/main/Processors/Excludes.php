@@ -70,8 +70,15 @@ final class Excludes extends Processor
     {
         $items = $this->load($this->getSourcePath($filename));
 
-        return $this->isJson($filename)
-            ? array_values($items)
-            : array_keys($items);
+        if ($this->isJson($filename)) {
+            return array_values($items);
+        }
+
+        return $this->flatten($items);
+    }
+
+    protected function flatten(array $array): array
+    {
+        return Arr::flatten($array);
     }
 }

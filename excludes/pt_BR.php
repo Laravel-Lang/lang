@@ -29,6 +29,7 @@ return [
     'Cuba',
     'Curaçao',
     'Dominica',
+    'Editor',
     'El Salvador',
     'Fiji',
     'Gambia',

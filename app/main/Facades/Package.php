@@ -2,7 +2,7 @@
 
 namespace LaravelLang\Lang\Facades;
 
-use Helldar\Support\Facades\BaseFacade;
+use Helldar\Support\Facades\Facade;
 use LaravelLang\Lang\Support\Finder;
 use LaravelLang\Lang\Support\Package as Support;
 use LaravelLang\Lang\Support\Parser;
@@ -11,7 +11,7 @@ use Symfony\Component\Finder\Finder as SymfonyFinder;
 /**
  * @method static Support some()
  */
-class Package extends BaseFacade
+class Package extends Facade
 {
     protected static function getFacadeAccessor(): Support
     {

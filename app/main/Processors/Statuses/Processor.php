@@ -2,14 +2,13 @@
 
 namespace LaravelLang\Lang\Processors\Statuses;
 
+use Helldar\Support\Facades\Callbacks\Sorter;
 use Helldar\Support\Facades\Helpers\Arr;
 use Helldar\Support\Facades\Helpers\Filesystem\Directory;
 use Helldar\Support\Facades\Helpers\Filesystem\File;
-use Helldar\Support\Facades\Tools\Sorter;
 use LaravelLang\Lang\Concerns\Countable;
 use LaravelLang\Lang\Concerns\Excludes;
 use LaravelLang\Lang\Concerns\Template;
-use LaravelLang\Lang\Facades\Arr as ArrHelper;
 use LaravelLang\Lang\Processors\Processor as BaseProcessor;
 
 abstract class Processor extends BaseProcessor
@@ -80,19 +79,19 @@ abstract class Processor extends BaseProcessor
     protected function prepareComparing(array $array, bool $is_validation): array
     {
         if ($is_validation) {
-            $array = Arr::except($array, ['custom', 'attributes']);
+            $array = Arr::except($array, ['attributes', 'custom']);
         }
 
-        return ArrHelper::flatten($array);
+        return Arr::flattenKeys($array);
     }
 
     protected function hasEquals($value, $key, array $source, string $locale, bool $is_validation): bool
     {
-        if ($is_validation && in_array($key, ['custom', 'attributes'], true)) {
+        if ($is_validation && in_array($key, ['attributes', 'custom'], true)) {
             return false;
         }
 
-        if ($this->hasExclude($key, $locale)) {
+        if ($this->hasExclude($value, $locale)) {
             return false;
         }
 
@@ -125,7 +124,7 @@ abstract class Processor extends BaseProcessor
         $files = File::names($this->getSourcePath());
 
         $items = Arr::sort($files, function (string $a, string $b) {
-            $sorter = Sorter::defaultCallback();
+            $sorter = Sorter::default();
 
             return $sorter($a, $b);
         });

@@ -10,21 +10,27 @@ trait Excludes
 {
     protected static array $excludes = [];
 
-    protected function hasExclude(string $key, string $locale): bool
+    protected function hasExclude(string $value, string $locale): bool
     {
-        return in_array($key, $this->getExcludes($locale), true) || in_array($key, $this->getExcludes(), true);
+        return $this->hasExcludeValue($locale, $value)
+            || $this->hasExcludeValue('_all', $value);
     }
 
-    protected function getExcludes(string $locale = null): array
+    protected function hasExcludeValue(string $key, string $value): bool
     {
-        $locale = $locale ?: '_all';
+        $excludes = $this->getExcludes($key);
 
-        $path = $this->app->excludePath($locale);
+        return in_array($value, $excludes, true);
+    }
 
-        if (static::$excludes[$locale] ?? false) {
-            return static::$excludes[$locale];
+    protected function getExcludes(string $key): array
+    {
+        $path = $this->app->excludePath($key);
+
+        if (static::$excludes[$key] ?? false) {
+            return static::$excludes[$key];
         }
 
-        return static::$excludes[$locale] = File::exists($path) ? PrettyFile::make()->load($path) : [];
+        return static::$excludes[$key] = File::exists($path) ? PrettyFile::make()->load($path) : [];
     }
 }

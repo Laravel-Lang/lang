@@ -10,11 +10,9 @@ trait Excludes
 {
     protected static array $excludes = [];
 
-    protected function hasExclude(string $key, string $value, string $locale): bool
+    protected function hasExclude(string $value, string $locale): bool
     {
-        return $this->hasExcludeValue($locale, $key)
-            || $this->hasExcludeValue($locale, $value)
-            || $this->hasExcludeValue('_all', $key)
+        return $this->hasExcludeValue($locale, $value)
             || $this->hasExcludeValue('_all', $value);
     }
 

@@ -9,6 +9,30 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+## [10.1.7] - 2021-0927
+
+### Changed
+
+ * feature: [ar] #1860 validation.php, validation-inline.php
+ * feature: [ca] #1847 json file
+ * feature: [fa] #1851 validation-inline.php
+ * feature: [fr] #1854 #1855 #1856 validation-inline.php, validation.php, json file
+ * feature: [it] #1846 validation.php, validation-inlinde.php, json file
+ * feature: [mr] #1839 auth.php, passwords.php, validation.php, validation-inlinde.php, json file
+ * feature: [ng] #1852 auth.php, validation-inline.php, json file
+ * feature: [nb] #1853 validation.php
+ * feature: [nl] #1844 validation.php
+ * feature: [pt_BR] #1843 json file
+ * feature: [ru] #1858 validation.php, validation-inline.php
+ * feature: [si] #1845 auth.php, passwords.php, validation.php, validation-inlinde.php, json file
+ * feature: [uk] #1850 passwords.php
+
+### Todo script
+
+ * feature: #1862 Attribute names exported to external file
+ * fix: #1859 Parser deletes some existing tags for Laravel Jetstream
+ * fix: #1861 for removing keys from `validation.attributes` in translation managers
+
 ## [10.1.6] - 2021-09-05
 
 ### Changed
@@ -590,7 +614,8 @@ For more information, see #1606 and #1607.
 
 * feature: #1269 Rename locale folders following ISO 15897 format
 
-[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/10.1.6...master
+[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/10.1.7...master
+[10.1.7]: https://github.com/caouecs/Laravel-lang/compare/10.1.6...10.1.6
 [10.1.6]: https://github.com/caouecs/Laravel-lang/compare/10.1.5...10.1.6
 [10.1.5]: https://github.com/caouecs/Laravel-lang/compare/10.1.4...10.1.5
 [10.1.4]: https://github.com/caouecs/Laravel-lang/compare/10.1.3...10.1.4

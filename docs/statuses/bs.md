@@ -2,12 +2,12 @@
 
 # bs
 
-##### All missed: 186
+##### All missed: 185
 
 
 ### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/master/locales/bs/validation-attributes.php)
 
-##### Missing: 34
+##### Missing: 33
 
 <table >
 <tr><td align="left" >
@@ -71,13 +71,6 @@ attributes.description
 </td>
 <td align="left" >
 Description
-</td>
-</tr>
-<tr><td align="left" >
-attributes.email
-</td>
-<td align="left" >
-Email
 </td>
 </tr>
 <tr><td align="left" >

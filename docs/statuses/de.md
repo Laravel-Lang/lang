@@ -2,12 +2,12 @@
 
 # de
 
-##### All missed: 2
+##### All missed: 1
 
 
 ### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/master/locales/de/validation-attributes.php)
 
-##### Missing: 2
+##### Missing: 1
 
 <table >
 <tr><td align="left" >
@@ -15,13 +15,6 @@ attributes.minute
 </td>
 <td align="left" >
 Minute
-</td>
-</tr>
-<tr><td align="left" >
-attributes.name
-</td>
-<td align="left" >
-Name
 </td>
 </tr>
 

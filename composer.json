@@ -24,7 +24,7 @@
     "require-dev": {
         "php": "^8.0",
         "andrey-helldar/pretty-array": "^2.3",
-        "andrey-helldar/support": "^3.16.1",
+        "andrey-helldar/support": "^4.7",
         "guzzlehttp/guzzle": "^7.3",
         "laravel/breeze": "^1.2",
         "laravel/fortify": "^1.7",

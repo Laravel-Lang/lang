@@ -9,6 +9,15 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+### Changed
+
+ * feature: [ca] #1864 json file
+ * feature: [de] #1866 exclude file
+
+### Todo script
+
+ * fix: #1867 filtering items for compiling documentation
+
 ## [10.1.7] - 2021-0927
 
 ### Changed

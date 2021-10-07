@@ -13,7 +13,7 @@
 
 return [
     'accepted'             => 'Polje mora biti sprejeto.',
-    'accepted_if'          => 'This field must be accepted when :other is :value.',
+    'accepted_if'          => 'Polje mora biti sprejeto, če je :other :value.',
     'active_url'           => 'URL ni veljaven.',
     'after'                => 'Datum mora biti kasneje kot :date.',
     'after_or_equal'       => 'Datum mora bit enak ali kasneje kot :date.',
@@ -32,7 +32,7 @@ return [
     ],
     'boolean'              => 'Polje mora biti da ali ne.',
     'confirmed'            => 'Potrditev se ne ujema.',
-    'current_password'     => 'The password is incorrect.',
+    'current_password'     => 'Geslo ni veljavno.',
     'date'                 => 'Datum ni veljaven.',
     'date_equals'          => 'Datum mora biti enak :date.',
     'date_format'          => 'Datum ne ustreza formatu :format.',
@@ -101,7 +101,7 @@ return [
     'prohibited'           => 'To polje je prepovedano.',
     'prohibited_if'        => 'To polje je prepovedano, kadar je :other :value.',
     'prohibited_unless'    => 'To polje je prepovedano, razen če je :other v :values.',
-    'prohibits'            => 'This field prohibits :other from being present.',
+    'prohibits'            => 'To polje prepoveduje prisotnost :other.',
     'regex'                => 'Oblika vnosa ni veljavna.',
     'relatable'            => 'To polje morda ni povezano s tem virom.',
     'required'             => 'Polje je obvezno.',

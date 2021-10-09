@@ -13,7 +13,7 @@
 
 return [
     'accepted'             => '您必须接受。',
-    'accepted_if'          => 'This field must be accepted when :other is :value.',
+    'accepted_if'          => '当 :other 为 :value时，必须接受。',
     'active_url'           => '不是一个有效的网址。',
     'after'                => '必须要晚于 :date。',
     'after_or_equal'       => '必须要等于 :date 或更晚。',
@@ -32,7 +32,7 @@ return [
     ],
     'boolean'              => '必须为布尔值。',
     'confirmed'            => '两次输入不一致。',
-    'current_password'     => 'The password is incorrect.',
+    'current_password'     => '密码错误。',
     'date'                 => '不是一个有效的日期。',
     'date_equals'          => '必须要等于 :date。',
     'date_format'          => '格式必须为 :format。',
@@ -101,7 +101,7 @@ return [
     'prohibited'           => '禁止此字段。',
     'prohibited_if'        => ':other 为 :value 时禁止此字段。',
     'prohibited_unless'    => '除非 :other 在 :values 中，否则禁止此字段。',
-    'prohibits'            => 'This field prohibits :other from being present.',
+    'prohibits'            => '此字段禁止 :other 出现。',
     'regex'                => '格式不正确。',
     'relatable'            => '此字段可能与此资源不相关联。',
     'required'             => '不能为空。',

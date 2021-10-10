@@ -13,6 +13,6 @@
 
 return [
     'failed'   => 'Need andmed ei klapi meie kirjetega.',
-    'password' => 'The provided password is incorrect.',
+    'password' => 'Sisestatud parool on vale.',
     'throttle' => 'Liiga palju sisselogimise katseid. Palun proovi uuesti :seconds sekundi pärast.',
 ];

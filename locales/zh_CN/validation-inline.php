@@ -13,7 +13,7 @@
 
 return [
     'accepted'             => '您必须接受。',
-    'accepted_if'          => '当 :other 为 :value时，必须接受。',
+    'accepted_if'          => '当 :other 为 :value 时，必须接受。',
     'active_url'           => '不是一个有效的网址。',
     'after'                => '必须要晚于 :date。',
     'after_or_equal'       => '必须要等于 :date 或更晚。',

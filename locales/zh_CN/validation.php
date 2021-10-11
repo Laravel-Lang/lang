@@ -13,7 +13,7 @@
 
 return [
     'accepted'             => '您必须接受 :attribute。',
-    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
+    'accepted_if'          => '当 :other 为 :value 时，必须接受 :attribute。',
     'active_url'           => ':attribute 不是一个有效的网址。',
     'after'                => ':attribute 必须要晚于 :date。',
     'after_or_equal'       => ':attribute 必须要等于 :date 或更晚。',
@@ -32,7 +32,7 @@ return [
     ],
     'boolean'              => ':attribute 必须为布尔值。',
     'confirmed'            => ':attribute 两次输入不一致。',
-    'current_password'     => 'The password is incorrect.',
+    'current_password'     => '密码错误。',
     'date'                 => ':attribute 不是一个有效的日期。',
     'date_equals'          => ':attribute 必须要等于 :date。',
     'date_format'          => ':attribute 的格式必须为 :format。',
@@ -101,7 +101,7 @@ return [
     'prohibited'           => ':attribute 字段被禁止。',
     'prohibited_if'        => '当 :other 为 :value 时，禁止 :attribute 字段。',
     'prohibited_unless'    => ':attribute 字段被禁止，除非 :other 位于 :values 中。',
-    'prohibits'            => 'The :attribute field prohibits :other from being present.',
+    'prohibits'            => ':attribute 字段禁止出现 :other。',
     'regex'                => ':attribute 格式不正确。',
     'relatable'            => '此 :attribute 可能与此资源不相关联。',
     'required'             => ':attribute 不能为空。',

@@ -2,72 +2,8 @@
 
 # zh_CN
 
-##### All missed: 120
+##### All missed: 114
 
-
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/zh_CN/validation-inline.php)
-
-##### Missing: 3
-
-<table >
-<tr><td align="left" >
-accepted_if
-</td>
-<td align="left" >
-This field must be accepted when :other is :value.
-</td>
-</tr>
-<tr><td align="left" >
-current_password
-</td>
-<td align="left" >
-The password is incorrect.
-</td>
-</tr>
-<tr><td align="left" >
-prohibits
-</td>
-<td align="left" >
-This field prohibits :other from being present.
-</td>
-</tr>
-
-</table>
-
-
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/zh_CN/validation.php)
-
-##### Missing: 3
-
-<table >
-<tr><td align="left" >
-accepted_if
-</td>
-<td align="left" >
-The :attribute must be accepted when :other is :value.
-</td>
-</tr>
-<tr><td align="left" >
-current_password
-</td>
-<td align="left" >
-The password is incorrect.
-</td>
-</tr>
-<tr><td align="left" >
-prohibits
-</td>
-<td align="left" >
-The :attribute field prohibits :other from being present.
-</td>
-</tr>
-
-</table>
-
-
-[ [go back](../status.md) | [to top](#) ]
 
 ### [zh_CN](https://github.com/Laravel-Lang/lang/blob/master/locales/zh_CN/zh_CN.json)
 

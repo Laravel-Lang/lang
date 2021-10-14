@@ -11,8 +11,14 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ### Changed
 
+ * feature: [ar] #1874 validation-attributes.php
  * feature: [ca] #1864 json file
  * feature: [de] #1866 exclude file
+ * feature: [et] #1873 auth.php, passwords.php, validation-inline.php
+ * feature: [fa] #1875 json file
+ * feature: [ka] #1877 json file
+ * feature: [sl] #1870 validation.php, validation-inline.php, validation-attributes.php, json file
+ * feature: [zh_CN] #1872 validation.php, validation-inline.php
 
 ### Todo script
 

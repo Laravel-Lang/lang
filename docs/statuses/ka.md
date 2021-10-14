@@ -2,7 +2,7 @@
 
 # ka
 
-##### All missed: 175
+##### All missed: 152
 
 
 ### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/master/locales/ka/validation-attributes.php)
@@ -544,7 +544,7 @@ The :attribute field prohibits :other from being present.
 
 ### [ka](https://github.com/Laravel-Lang/lang/blob/master/locales/ka/ka.json)
 
-##### Missing: 103
+##### Missing: 80
 
 <table >
 <tr><td align="left" >
@@ -576,19 +576,11 @@ Extra Billing Information
 </td>
 </tr>
 <tr><td align="left" >
-Full name
-</td>
-</tr>
-<tr><td align="left" >
 Have a coupon code?
 </td>
 </tr>
 <tr><td align="left" >
 Having second thoughts about cancelling your subscription? You can instantly reactive your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
-</td>
-</tr>
-<tr><td align="left" >
-Heard Island and McDonald Islands
 </td>
 </tr>
 <tr><td align="left" >
@@ -604,19 +596,6 @@ If you need to add specific contact or tax information to your receipts, like yo
 </td>
 </tr>
 <tr><td align="left" >
-If you're having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser:
-</td>
-</tr>
-<tr><td align="left" >
-Iran, Islamic Republic of
-</td>
-</tr>
-<tr><td align="left" >
-Isle of Man
-</td>
-</tr>
-<tr><td align="left" >
 It looks like you do not have an active subscription. You may choose one of the subscription plans below to get started. Subscription plans may be changed or cancelled at your convenience.
 </td>
 </tr>
@@ -629,23 +608,7 @@ Jersey
 </td>
 </tr>
 <tr><td align="left" >
-Korea, Republic of
-</td>
-</tr>
-<tr><td align="left" >
-Macedonia, the former Yugoslav Republic of
-</td>
-</tr>
-<tr><td align="left" >
 Managing billing for :billableName
-</td>
-</tr>
-<tr><td align="left" >
-Micronesia, Federated States of
-</td>
-</tr>
-<tr><td align="left" >
-Moldova, Republic of
 </td>
 </tr>
 <tr><td align="left" >
@@ -717,10 +680,6 @@ Réunion
 </td>
 </tr>
 <tr><td align="left" >
-Saint Barthélemy
-</td>
-</tr>
-<tr><td align="left" >
 Saint Kitts and Nevis
 </td>
 </tr>
@@ -737,10 +696,6 @@ Saint Vincent and the Grenadines
 </td>
 </tr>
 <tr><td align="left" >
-Sao Tome and Principe
-</td>
-</tr>
-<tr><td align="left" >
 Select
 </td>
 </tr>
@@ -750,10 +705,6 @@ Select a different plan
 </tr>
 <tr><td align="left" >
 Signed in as
-</td>
-</tr>
-<tr><td align="left" >
-South Georgia and the South Sandwich Islands
 </td>
 </tr>
 <tr><td align="left" >
@@ -774,22 +725,6 @@ Subscription Information
 </tr>
 <tr><td align="left" >
 Subscription Pending
-</td>
-</tr>
-<tr><td align="left" >
-Suriname
-</td>
-</tr>
-<tr><td align="left" >
-Svalbard and Jan Mayen
-</td>
-</tr>
-<tr><td align="left" >
-Taiwan, Province of China
-</td>
-</tr>
-<tr><td align="left" >
-Tanzania, United Republic of
 </td>
 </tr>
 <tr><td align="left" >
@@ -861,22 +796,6 @@ This subscription has expired and cannot be resumed. Please create a new subscri
 </td>
 </tr>
 <tr><td align="left" >
-Total:
-</td>
-</tr>
-<tr><td align="left" >
-Trinidad and Tobago
-</td>
-</tr>
-<tr><td align="left" >
-Turks and Caicos Islands
-</td>
-</tr>
-<tr><td align="left" >
-United States Minor Outlying Islands
-</td>
-</tr>
-<tr><td align="left" >
 Update Payment Information
 </td>
 </tr>
@@ -889,15 +808,7 @@ VAT Number
 </td>
 </tr>
 <tr><td align="left" >
-Venezuela, Bolivarian Republic of
-</td>
-</tr>
-<tr><td align="left" >
 View Receipt
-</td>
-</tr>
-<tr><td align="left" >
-Wallis and Futuna
 </td>
 </tr>
 <tr><td align="left" >
@@ -910,10 +821,6 @@ We are unable to process your payment. Please contact customer support.
 </tr>
 <tr><td align="left" >
 We will send a receipt download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
-</td>
-</tr>
-<tr><td align="left" >
-Whoops
 </td>
 </tr>
 <tr><td align="left" >

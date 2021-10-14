@@ -2,7 +2,7 @@
 
 # ka
 
-##### All missed: 192
+##### All missed: 175
 
 
 ### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/master/locales/ka/validation-attributes.php)
@@ -544,67 +544,11 @@ The :attribute field prohibits :other from being present.
 
 ### [ka](https://github.com/Laravel-Lang/lang/blob/master/locales/ka/ka.json)
 
-##### Missing: 120
+##### Missing: 103
 
 <table >
 <tr><td align="left" >
-:days day trial
-</td>
-</tr>
-<tr><td align="left" >
-Add VAT Number
-</td>
-</tr>
-<tr><td align="left" >
-Address
-</td>
-</tr>
-<tr><td align="left" >
-Address Line 2
-</td>
-</tr>
-<tr><td align="left" >
-An unexpected error occurred and we have notified our support team. Please try again later.
-</td>
-</tr>
-<tr><td align="left" >
-Antigua and Barbuda
-</td>
-</tr>
-<tr><td align="left" >
-Apply
-</td>
-</tr>
-<tr><td align="left" >
-Apply Coupon
-</td>
-</tr>
-<tr><td align="left" >
-Billing Information
-</td>
-</tr>
-<tr><td align="left" >
-Billing Management
-</td>
-</tr>
-<tr><td align="left" >
 Bolivia, Plurinational State of
-</td>
-</tr>
-<tr><td align="left" >
-Bosnia and Herzegovina
-</td>
-</tr>
-<tr><td align="left" >
-Cancel Subscription
-</td>
-</tr>
-<tr><td align="left" >
-Change Subscription Plan
-</td>
-</tr>
-<tr><td align="left" >
-City
 </td>
 </tr>
 <tr><td align="left" >
@@ -620,23 +564,7 @@ Coupon
 </td>
 </tr>
 <tr><td align="left" >
-Current Subscription Plan
-</td>
-</tr>
-<tr><td align="left" >
-Currently Subscribed
-</td>
-</tr>
-<tr><td align="left" >
 Côte d'Ivoire
-</td>
-</tr>
-<tr><td align="left" >
-Download Receipt
-</td>
-</tr>
-<tr><td align="left" >
-Email Addresses
 </td>
 </tr>
 <tr><td align="left" >
@@ -645,6 +573,10 @@ ex VAT
 </tr>
 <tr><td align="left" >
 Extra Billing Information
+</td>
+</tr>
+<tr><td align="left" >
+Full name
 </td>
 </tr>
 <tr><td align="left" >
@@ -845,6 +777,10 @@ Subscription Pending
 </td>
 </tr>
 <tr><td align="left" >
+Suriname
+</td>
+</tr>
+<tr><td align="left" >
 Svalbard and Jan Mayen
 </td>
 </tr>
@@ -978,10 +914,6 @@ We will send a receipt download link to the email addresses that you specify bel
 </tr>
 <tr><td align="left" >
 Whoops
-</td>
-</tr>
-<tr><td align="left" >
-Yearly
 </td>
 </tr>
 <tr><td align="left" >

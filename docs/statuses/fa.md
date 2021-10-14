@@ -2,7 +2,7 @@
 
 # fa
 
-##### All missed: 491
+##### All missed: 411
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/fa/validation-inline.php)
@@ -134,7 +134,7 @@ This :attribute may not be associated with this resource.
 
 ### [fa](https://github.com/Laravel-Lang/lang/blob/master/locales/fa/fa.json)
 
-##### Missing: 476
+##### Missing: 396
 
 <table >
 <tr><td align="left" >
@@ -166,19 +166,7 @@ Add VAT Number
 </td>
 </tr>
 <tr><td align="left" >
-Address
-</td>
-</tr>
-<tr><td align="left" >
 Address Line 2
-</td>
-</tr>
-<tr><td align="left" >
-Afghanistan
-</td>
-</tr>
-<tr><td align="left" >
-Albania
 </td>
 </tr>
 <tr><td align="left" >
@@ -202,10 +190,6 @@ Andorra
 </td>
 </tr>
 <tr><td align="left" >
-Angola
-</td>
-</tr>
-<tr><td align="left" >
 Anguilla
 </td>
 </tr>
@@ -222,23 +206,7 @@ Antigua and Barbuda
 </td>
 </tr>
 <tr><td align="left" >
-Apply
-</td>
-</tr>
-<tr><td align="left" >
-Apply Coupon
-</td>
-</tr>
-<tr><td align="left" >
-April
-</td>
-</tr>
-<tr><td align="left" >
 Are you sure you want to delete the selected resources?
-</td>
-</tr>
-<tr><td align="left" >
-Are you sure you want to delete this file?
 </td>
 </tr>
 <tr><td align="left" >
@@ -270,22 +238,6 @@ Are you sure you want to restore this resource?
 </td>
 </tr>
 <tr><td align="left" >
-Are you sure you want to run this action?
-</td>
-</tr>
-<tr><td align="left" >
-Argentina
-</td>
-</tr>
-<tr><td align="left" >
-Armenia
-</td>
-</tr>
-<tr><td align="left" >
-Aruba
-</td>
-</tr>
-<tr><td align="left" >
 Attach
 </td>
 </tr>
@@ -298,31 +250,7 @@ Attach :resource
 </td>
 </tr>
 <tr><td align="left" >
-August
-</td>
-</tr>
-<tr><td align="left" >
-Australia
-</td>
-</tr>
-<tr><td align="left" >
-Austria
-</td>
-</tr>
-<tr><td align="left" >
-Azerbaijan
-</td>
-</tr>
-<tr><td align="left" >
 Bahamas
-</td>
-</tr>
-<tr><td align="left" >
-Bahrain
-</td>
-</tr>
-<tr><td align="left" >
-Bangladesh
 </td>
 </tr>
 <tr><td align="left" >
@@ -331,10 +259,6 @@ Barbados
 </tr>
 <tr><td align="left" >
 Belarus
-</td>
-</tr>
-<tr><td align="left" >
-Belgium
 </td>
 </tr>
 <tr><td align="left" >
@@ -414,23 +338,11 @@ Cameroon
 </td>
 </tr>
 <tr><td align="left" >
-Canada
-</td>
-</tr>
-<tr><td align="left" >
-Cancel
-</td>
-</tr>
-<tr><td align="left" >
 Cancel Subscription
 </td>
 </tr>
 <tr><td align="left" >
 Cape Verde
-</td>
-</tr>
-<tr><td align="left" >
-Card
 </td>
 </tr>
 <tr><td align="left" >
@@ -447,10 +359,6 @@ Chad
 </tr>
 <tr><td align="left" >
 Change Subscription Plan
-</td>
-</tr>
-<tr><td align="left" >
-Changes
 </td>
 </tr>
 <tr><td align="left" >
@@ -478,35 +386,11 @@ Choose an option
 </td>
 </tr>
 <tr><td align="left" >
-Choose date
-</td>
-</tr>
-<tr><td align="left" >
-Choose File
-</td>
-</tr>
-<tr><td align="left" >
-Choose Type
-</td>
-</tr>
-<tr><td align="left" >
 Christmas Island
 </td>
 </tr>
 <tr><td align="left" >
-City
-</td>
-</tr>
-<tr><td align="left" >
-Click to choose
-</td>
-</tr>
-<tr><td align="left" >
 Cocos (Keeling) Islands
-</td>
-</tr>
-<tr><td align="left" >
-Colombia
 </td>
 </tr>
 <tr><td align="left" >
@@ -550,10 +434,6 @@ could not be found.
 </td>
 </tr>
 <tr><td align="left" >
-Country
-</td>
-</tr>
-<tr><td align="left" >
 Coupon
 </td>
 </tr>
@@ -563,10 +443,6 @@ Create & Add Another
 </tr>
 <tr><td align="left" >
 Create :resource
-</td>
-</tr>
-<tr><td align="left" >
-Create Account
 </td>
 </tr>
 <tr><td align="left" >
@@ -598,18 +474,6 @@ Côte d'Ivoire
 </td>
 </tr>
 <tr><td align="left" >
-December
-</td>
-</tr>
-<tr><td align="left" >
-Decrease
-</td>
-</tr>
-<tr><td align="left" >
-Delete File
-</td>
-</tr>
-<tr><td align="left" >
 Delete Resource
 </td>
 </tr>
@@ -631,10 +495,6 @@ Detach Resource
 </tr>
 <tr><td align="left" >
 Detach Selected
-</td>
-</tr>
-<tr><td align="left" >
-Details
 </td>
 </tr>
 <tr><td align="left" >
@@ -667,10 +527,6 @@ Egypt
 </tr>
 <tr><td align="left" >
 El Salvador
-</td>
-</tr>
-<tr><td align="left" >
-Email Addresses
 </td>
 </tr>
 <tr><td align="left" >
@@ -842,10 +698,6 @@ Honduras
 </td>
 </tr>
 <tr><td align="left" >
-Hong Kong
-</td>
-</tr>
-<tr><td align="left" >
 Hungary
 </td>
 </tr>
@@ -855,10 +707,6 @@ I accept the terms of service
 </tr>
 <tr><td align="left" >
 I agree to the :terms_of_service and :privacy_policy
-</td>
-</tr>
-<tr><td align="left" >
-Iceland
 </td>
 </tr>
 <tr><td align="left" >
@@ -903,23 +751,11 @@ Iran, Islamic Republic of
 </td>
 </tr>
 <tr><td align="left" >
-Ireland
-</td>
-</tr>
-<tr><td align="left" >
 Isle of Man
 </td>
 </tr>
 <tr><td align="left" >
-Israel
-</td>
-</tr>
-<tr><td align="left" >
 It looks like you do not have an active subscription. You may choose one of the subscription plans below to get started. Subscription plans may be changed or cancelled at your convenience.
-</td>
-</tr>
-<tr><td align="left" >
-Italy
 </td>
 </tr>
 <tr><td align="left" >
@@ -943,26 +779,6 @@ Jordan
 </td>
 </tr>
 <tr><td align="left" >
-July
-</td>
-</tr>
-<tr><td align="left" >
-June
-</td>
-</tr>
-<tr><td align="left" >
-Kazakhstan
-</td>
-</tr>
-<tr><td align="left" >
-Kenya
-</td>
-</tr>
-<tr><td align="left" >
-Key
-</td>
-</tr>
-<tr><td align="left" >
 Kiribati
 </td>
 </tr>
@@ -972,10 +788,6 @@ Korea, Republic of
 </tr>
 <tr><td align="left" >
 Kosovo
-</td>
-</tr>
-<tr><td align="left" >
-Kuwait
 </td>
 </tr>
 <tr><td align="left" >
@@ -1079,10 +891,6 @@ Mauritius
 </td>
 </tr>
 <tr><td align="left" >
-May
-</td>
-</tr>
-<tr><td align="left" >
 Mayotte
 </td>
 </tr>
@@ -1119,19 +927,7 @@ Month To Date
 </td>
 </tr>
 <tr><td align="left" >
-Monthly
-</td>
-</tr>
-<tr><td align="left" >
-monthly
-</td>
-</tr>
-<tr><td align="left" >
 Montserrat
-</td>
-</tr>
-<tr><td align="left" >
-Morocco
 </td>
 </tr>
 <tr><td align="left" >
@@ -1151,14 +947,6 @@ Nauru
 </td>
 </tr>
 <tr><td align="left" >
-Nepal
-</td>
-</tr>
-<tr><td align="left" >
-Netherlands
-</td>
-</tr>
-<tr><td align="left" >
 Netherlands Antilles
 </td>
 </tr>
@@ -1168,10 +956,6 @@ Nevermind, I'll keep my old plan
 </tr>
 <tr><td align="left" >
 New Caledonia
-</td>
-</tr>
-<tr><td align="left" >
-New Zealand
 </td>
 </tr>
 <tr><td align="left" >
@@ -1188,10 +972,6 @@ Nigeria
 </tr>
 <tr><td align="left" >
 Niue
-</td>
-</tr>
-<tr><td align="left" >
-No
 </td>
 </tr>
 <tr><td align="left" >
@@ -1243,23 +1023,7 @@ Nova User
 </td>
 </tr>
 <tr><td align="left" >
-November
-</td>
-</tr>
-<tr><td align="left" >
-October
-</td>
-</tr>
-<tr><td align="left" >
-Oman
-</td>
-</tr>
-<tr><td align="left" >
 Only Trashed
-</td>
-</tr>
-<tr><td align="left" >
-Original
 </td>
 </tr>
 <tr><td align="left" >
@@ -1267,15 +1031,7 @@ Our billing management portal allows you to conveniently manage your subscriptio
 </td>
 </tr>
 <tr><td align="left" >
-Pakistan
-</td>
-</tr>
-<tr><td align="left" >
 Palau
-</td>
-</tr>
-<tr><td align="left" >
-Panama
 </td>
 </tr>
 <tr><td align="left" >
@@ -1323,10 +1079,6 @@ Peru
 </td>
 </tr>
 <tr><td align="left" >
-Philippines
-</td>
-</tr>
-<tr><td align="left" >
 Please accept the terms of service.
 </td>
 </tr>
@@ -1344,14 +1096,6 @@ Please provide the email address of the person you would like to add to this tea
 </tr>
 <tr><td align="left" >
 Please provide your name.
-</td>
-</tr>
-<tr><td align="left" >
-Poland
-</td>
-</tr>
-<tr><td align="left" >
-Portugal
 </td>
 </tr>
 <tr><td align="left" >
@@ -1527,10 +1271,6 @@ Signed in as
 </td>
 </tr>
 <tr><td align="left" >
-Singapore
-</td>
-</tr>
-<tr><td align="left" >
 Slovakia
 </td>
 </tr>
@@ -1544,10 +1284,6 @@ Solomon Islands
 </tr>
 <tr><td align="left" >
 Somalia
-</td>
-</tr>
-<tr><td align="left" >
-Something went wrong.
 </td>
 </tr>
 <tr><td align="left" >
@@ -1571,10 +1307,6 @@ South Sudan
 </td>
 </tr>
 <tr><td align="left" >
-Spain
-</td>
-</tr>
-<tr><td align="left" >
 Sri Lanka
 </td>
 </tr>
@@ -1583,15 +1315,7 @@ Standalone Actions
 </td>
 </tr>
 <tr><td align="left" >
-Start Polling
-</td>
-</tr>
-<tr><td align="left" >
 State / County
-</td>
-</tr>
-<tr><td align="left" >
-Stop Polling
 </td>
 </tr>
 <tr><td align="left" >
@@ -1604,10 +1328,6 @@ Subscription Information
 </tr>
 <tr><td align="left" >
 Subscription Pending
-</td>
-</tr>
-<tr><td align="left" >
-Sudan
 </td>
 </tr>
 <tr><td align="left" >
@@ -1627,15 +1347,7 @@ Switzerland
 </td>
 </tr>
 <tr><td align="left" >
-Taiwan
-</td>
-</tr>
-<tr><td align="left" >
 Taiwan, Province of China
-</td>
-</tr>
-<tr><td align="left" >
-Tajikistan
 </td>
 </tr>
 <tr><td align="left" >
@@ -1655,15 +1367,7 @@ Terms of Service
 </td>
 </tr>
 <tr><td align="left" >
-Thailand
-</td>
-</tr>
-<tr><td align="left" >
 Thanks for your continued support. We've attached a copy of your invoice for your records. Please let us know if you have any questions or concerns.
-</td>
-</tr>
-<tr><td align="left" >
-Thanks,
 </td>
 </tr>
 <tr><td align="left" >
@@ -1783,10 +1487,6 @@ This file field is read-only.
 </td>
 </tr>
 <tr><td align="left" >
-This image
-</td>
-</tr>
-<tr><td align="left" >
 This payment was already successfully confirmed.
 </td>
 </tr>
@@ -1812,10 +1512,6 @@ This user has already been invited to the team.
 </tr>
 <tr><td align="left" >
 Timor-Leste
-</td>
-</tr>
-<tr><td align="left" >
-Today
 </td>
 </tr>
 <tr><td align="left" >
@@ -1851,10 +1547,6 @@ Tunisia
 </td>
 </tr>
 <tr><td align="left" >
-Turkey
-</td>
-</tr>
-<tr><td align="left" >
 Turkmenistan
 </td>
 </tr>
@@ -1871,19 +1563,11 @@ Uganda
 </td>
 </tr>
 <tr><td align="left" >
-Ukraine
-</td>
-</tr>
-<tr><td align="left" >
 United Arab Emirates
 </td>
 </tr>
 <tr><td align="left" >
 United Kingdom
-</td>
-</tr>
-<tr><td align="left" >
-United States
 </td>
 </tr>
 <tr><td align="left" >
@@ -1924,10 +1608,6 @@ Vanuatu
 </tr>
 <tr><td align="left" >
 VAT Number
-</td>
-</tr>
-<tr><td align="left" >
-Venezuela
 </td>
 </tr>
 <tr><td align="left" >

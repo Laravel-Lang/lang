@@ -2,7 +2,7 @@
 
 # fa
 
-##### All missed: 411
+##### All missed: 379
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/fa/validation-inline.php)
@@ -134,7 +134,7 @@ This :attribute may not be associated with this resource.
 
 ### [fa](https://github.com/Laravel-Lang/lang/blob/master/locales/fa/fa.json)
 
-##### Missing: 396
+##### Missing: 364
 
 <table >
 <tr><td align="left" >
@@ -158,19 +158,7 @@ Accept Invitation
 </td>
 </tr>
 <tr><td align="left" >
-Action
-</td>
-</tr>
-<tr><td align="left" >
 Add VAT Number
-</td>
-</tr>
-<tr><td align="left" >
-Address Line 2
-</td>
-</tr>
-<tr><td align="left" >
-Algeria
 </td>
 </tr>
 <tr><td align="left" >
@@ -183,14 +171,6 @@ An error occured while uploading the file.
 </tr>
 <tr><td align="left" >
 An unexpected error occurred and we have notified our support team. Please try again later.
-</td>
-</tr>
-<tr><td align="left" >
-Andorra
-</td>
-</tr>
-<tr><td align="left" >
-Anguilla
 </td>
 </tr>
 <tr><td align="left" >
@@ -238,10 +218,6 @@ Are you sure you want to restore this resource?
 </td>
 </tr>
 <tr><td align="left" >
-Attach
-</td>
-</tr>
-<tr><td align="left" >
 Attach & Attach Another
 </td>
 </tr>
@@ -250,43 +226,11 @@ Attach :resource
 </td>
 </tr>
 <tr><td align="left" >
-Bahamas
-</td>
-</tr>
-<tr><td align="left" >
-Barbados
-</td>
-</tr>
-<tr><td align="left" >
-Belarus
-</td>
-</tr>
-<tr><td align="left" >
-Belize
-</td>
-</tr>
-<tr><td align="left" >
-Benin
-</td>
-</tr>
-<tr><td align="left" >
-Bermuda
-</td>
-</tr>
-<tr><td align="left" >
-Bhutan
-</td>
-</tr>
-<tr><td align="left" >
 Billing Information
 </td>
 </tr>
 <tr><td align="left" >
 Billing Management
-</td>
-</tr>
-<tr><td align="left" >
-Bolivia
 </td>
 </tr>
 <tr><td align="left" >
@@ -310,15 +254,7 @@ Bouvet Island
 </td>
 </tr>
 <tr><td align="left" >
-Brazil
-</td>
-</tr>
-<tr><td align="left" >
 British Indian Ocean Territory
-</td>
-</tr>
-<tr><td align="left" >
-Bulgaria
 </td>
 </tr>
 <tr><td align="left" >
@@ -366,26 +302,6 @@ Chile
 </td>
 </tr>
 <tr><td align="left" >
-China
-</td>
-</tr>
-<tr><td align="left" >
-Choose
-</td>
-</tr>
-<tr><td align="left" >
-Choose :field
-</td>
-</tr>
-<tr><td align="left" >
-Choose :resource
-</td>
-</tr>
-<tr><td align="left" >
-Choose an option
-</td>
-</tr>
-<tr><td align="left" >
 Christmas Island
 </td>
 </tr>
@@ -406,10 +322,6 @@ Confirm your :amount payment
 </td>
 </tr>
 <tr><td align="left" >
-Congo
-</td>
-</tr>
-<tr><td align="left" >
 Congo, Democratic Republic
 </td>
 </tr>
@@ -426,14 +338,6 @@ Cook Islands
 </td>
 </tr>
 <tr><td align="left" >
-Costa Rica
-</td>
-</tr>
-<tr><td align="left" >
-could not be found.
-</td>
-</tr>
-<tr><td align="left" >
 Coupon
 </td>
 </tr>
@@ -446,27 +350,11 @@ Create :resource
 </td>
 </tr>
 <tr><td align="left" >
-Croatia
-</td>
-</tr>
-<tr><td align="left" >
-Curaçao
-</td>
-</tr>
-<tr><td align="left" >
 Current Subscription Plan
 </td>
 </tr>
 <tr><td align="left" >
 Currently Subscribed
-</td>
-</tr>
-<tr><td align="left" >
-Customize
-</td>
-</tr>
-<tr><td align="left" >
-Cyprus
 </td>
 </tr>
 <tr><td align="left" >
@@ -482,10 +370,6 @@ Delete Selected
 </td>
 </tr>
 <tr><td align="left" >
-Denmark
-</td>
-</tr>
-<tr><td align="left" >
 Detach
 </td>
 </tr>
@@ -498,15 +382,7 @@ Detach Selected
 </td>
 </tr>
 <tr><td align="left" >
-Djibouti
-</td>
-</tr>
-<tr><td align="left" >
 Do you really want to leave? You have unsaved changes.
-</td>
-</tr>
-<tr><td align="left" >
-Dominica
 </td>
 </tr>
 <tr><td align="left" >
@@ -515,10 +391,6 @@ Dominican Republic
 </tr>
 <tr><td align="left" >
 Download Receipt
-</td>
-</tr>
-<tr><td align="left" >
-Ecuador
 </td>
 </tr>
 <tr><td align="left" >

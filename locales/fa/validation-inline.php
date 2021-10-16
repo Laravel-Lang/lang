@@ -98,7 +98,7 @@ return [
     'numeric'              => 'این مقدار باید عددی باشد.',
     'password'             => 'رمزعبور اشتباه است.',
     'present'              => 'این مقدار باید وارد شده باشد.',
-    'prohibited'           => 'This field is prohibited.',
+    'prohibited'           => 'این فیلد ممنوع است.',
     'prohibited_if'        => 'This field is prohibited when :other is :value.',
     'prohibited_unless'    => 'This field is prohibited unless :other is in :values.',
     'prohibits'            => 'This field prohibits :other from being present.',

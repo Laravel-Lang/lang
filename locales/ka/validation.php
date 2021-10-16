@@ -13,8 +13,8 @@
 
 return [
     'accepted'             => ':attribute უნდა იყოს მონიშნული.',
-    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
-    'active_url'           => ':attribute არ არის სწორი URL მისამართი.',
+    'accepted_if'          => 'ველი :attribute უნდა იყოს მიღებული, როცა :other შეესაბამება :value.',
+    'active_url'           => ':attribute არ არის სწორი ბმული.',
     'after'                => ':attribute უნდა იყოს თარიღი :date-ის შემდეგ.',
     'after_or_equal'       => ':attribute უნდა იყოს თარიღი :date-ის შემდეგ ან მისი ტოლი.',
     'alpha'                => ':attribute უნდა შეიცავდეს მხოლოდ ასოებს.',
@@ -32,7 +32,7 @@ return [
     ],
     'boolean'              => ':attribute ველი უნდა იყოს true ან false.',
     'confirmed'            => ':attribute-ის დადასტურება არ ემთხვევა.',
-    'current_password'     => 'The password is incorrect.',
+    'current_password'     => 'ველი :attribute შეიცავს არასწორ პაროლს.',
     'date'                 => ':attribute შეიცავს თარიღის არასწორ ფორმატს.',
     'date_equals'          => ':attribute უნდა იყოს :date-ის ტოლი თარიღი.',
     'date_format'          => ':attribute არ ემთხვევა თარიღის ფორმატს: :format.',
@@ -101,7 +101,7 @@ return [
     'prohibited'           => ':attribute სფეროში აკრძალულია.',
     'prohibited_if'        => ':attribute სფეროში აკრძალულია, როდესაც :other არის :value.',
     'prohibited_unless'    => ':attribute სფეროში აკრძალულია თუ :other არის :values.',
-    'prohibits'            => 'The :attribute field prohibits :other from being present.',
+    'prohibits'            => ':attribute ველში არ შეიძლება იყოს :other.',
     'regex'                => ':attribute-ის ფორმატი არასწორია.',
     'relatable'            => 'ეს :attribute არ შეიძლება იყოს დაკავშირებული ამ რესურსის.',
     'required'             => ':attribute-ის ველი აუცილებელია.',

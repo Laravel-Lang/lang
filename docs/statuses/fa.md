@@ -2,7 +2,7 @@
 
 # fa
 
-##### All missed: 379
+##### All missed: 352
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/fa/validation-inline.php)
@@ -134,7 +134,7 @@ This :attribute may not be associated with this resource.
 
 ### [fa](https://github.com/Laravel-Lang/lang/blob/master/locales/fa/fa.json)
 
-##### Missing: 364
+##### Missing: 337
 
 <table >
 <tr><td align="left" >
@@ -162,10 +162,6 @@ Add VAT Number
 </td>
 </tr>
 <tr><td align="left" >
-American Samoa
-</td>
-</tr>
-<tr><td align="left" >
 An error occured while uploading the file.
 </td>
 </tr>
@@ -175,14 +171,6 @@ An unexpected error occurred and we have notified our support team. Please try a
 </tr>
 <tr><td align="left" >
 Another user has updated this resource since this page was loaded. Please refresh the page and try again.
-</td>
-</tr>
-<tr><td align="left" >
-Antarctica
-</td>
-</tr>
-<tr><td align="left" >
-Antigua and Barbuda
 </td>
 </tr>
 <tr><td align="left" >
@@ -246,31 +234,7 @@ Bosnia and Herzegovina
 </td>
 </tr>
 <tr><td align="left" >
-Botswana
-</td>
-</tr>
-<tr><td align="left" >
-Bouvet Island
-</td>
-</tr>
-<tr><td align="left" >
 British Indian Ocean Territory
-</td>
-</tr>
-<tr><td align="left" >
-Burkina Faso
-</td>
-</tr>
-<tr><td align="left" >
-Burundi
-</td>
-</tr>
-<tr><td align="left" >
-Cambodia
-</td>
-</tr>
-<tr><td align="left" >
-Cameroon
 </td>
 </tr>
 <tr><td align="left" >
@@ -278,27 +242,11 @@ Cancel Subscription
 </td>
 </tr>
 <tr><td align="left" >
-Cape Verde
-</td>
-</tr>
-<tr><td align="left" >
-Cayman Islands
-</td>
-</tr>
-<tr><td align="left" >
 Central African Republic
 </td>
 </tr>
 <tr><td align="left" >
-Chad
-</td>
-</tr>
-<tr><td align="left" >
 Change Subscription Plan
-</td>
-</tr>
-<tr><td align="left" >
-Chile
 </td>
 </tr>
 <tr><td align="left" >
@@ -307,10 +255,6 @@ Christmas Island
 </tr>
 <tr><td align="left" >
 Cocos (Keeling) Islands
-</td>
-</tr>
-<tr><td align="left" >
-Comoros
 </td>
 </tr>
 <tr><td align="left" >
@@ -334,14 +278,6 @@ Constant
 </td>
 </tr>
 <tr><td align="left" >
-Cook Islands
-</td>
-</tr>
-<tr><td align="left" >
-Coupon
-</td>
-</tr>
-<tr><td align="left" >
 Create & Add Another
 </td>
 </tr>
@@ -355,10 +291,6 @@ Current Subscription Plan
 </tr>
 <tr><td align="left" >
 Currently Subscribed
-</td>
-</tr>
-<tr><td align="left" >
-Côte d'Ivoire
 </td>
 </tr>
 <tr><td align="left" >
@@ -394,27 +326,7 @@ Download Receipt
 </td>
 </tr>
 <tr><td align="left" >
-Egypt
-</td>
-</tr>
-<tr><td align="left" >
 El Salvador
-</td>
-</tr>
-<tr><td align="left" >
-Equatorial Guinea
-</td>
-</tr>
-<tr><td align="left" >
-Eritrea
-</td>
-</tr>
-<tr><td align="left" >
-Estonia
-</td>
-</tr>
-<tr><td align="left" >
-Ethiopia
 </td>
 </tr>
 <tr><td align="left" >
@@ -431,26 +343,6 @@ Extra confirmation is needed to process your payment. Please confirm your paymen
 </tr>
 <tr><td align="left" >
 Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below.
-</td>
-</tr>
-<tr><td align="left" >
-Falkland Islands (Malvinas)
-</td>
-</tr>
-<tr><td align="left" >
-Faroe Islands
-</td>
-</tr>
-<tr><td align="left" >
-February
-</td>
-</tr>
-<tr><td align="left" >
-Fiji
-</td>
-</tr>
-<tr><td align="left" >
-Finland
 </td>
 </tr>
 <tr><td align="left" >

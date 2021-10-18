@@ -2,12 +2,12 @@
 
 # fa
 
-##### All missed: 352
+##### All missed: 331
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/fa/validation-inline.php)
 
-##### Missing: 7
+##### Missing: 6
 
 <table >
 <tr><td align="left" >
@@ -22,13 +22,6 @@ attached
 </td>
 <td align="left" >
 This field is already attached.
-</td>
-</tr>
-<tr><td align="left" >
-prohibited
-</td>
-<td align="left" >
-This field is prohibited.
 </td>
 </tr>
 <tr><td align="left" >
@@ -134,27 +127,11 @@ This :attribute may not be associated with this resource.
 
 ### [fa](https://github.com/Laravel-Lang/lang/blob/master/locales/fa/fa.json)
 
-##### Missing: 337
+##### Missing: 317
 
 <table >
 <tr><td align="left" >
-:amount Total
-</td>
-</tr>
-<tr><td align="left" >
-:days day trial
-</td>
-</tr>
-<tr><td align="left" >
-:resource Details
-</td>
-</tr>
-<tr><td align="left" >
 :resource Details: :title
-</td>
-</tr>
-<tr><td align="left" >
-Accept Invitation
 </td>
 </tr>
 <tr><td align="left" >
@@ -1311,30 +1288,6 @@ Tunisia
 </td>
 </tr>
 <tr><td align="left" >
-Turkmenistan
-</td>
-</tr>
-<tr><td align="left" >
-Turks and Caicos Islands
-</td>
-</tr>
-<tr><td align="left" >
-Tuvalu
-</td>
-</tr>
-<tr><td align="left" >
-Uganda
-</td>
-</tr>
-<tr><td align="left" >
-United Arab Emirates
-</td>
-</tr>
-<tr><td align="left" >
-United Kingdom
-</td>
-</tr>
-<tr><td align="left" >
 United States Minor Outlying Islands
 </td>
 </tr>
@@ -1355,14 +1308,6 @@ Update Payment Method
 </td>
 </tr>
 <tr><td align="left" >
-Uruguay
-</td>
-</tr>
-<tr><td align="left" >
-Uzbekistan
-</td>
-</tr>
-<tr><td align="left" >
 Value
 </td>
 </tr>
@@ -1372,10 +1317,6 @@ Vanuatu
 </tr>
 <tr><td align="left" >
 VAT Number
-</td>
-</tr>
-<tr><td align="left" >
-Venezuela, Bolivarian Republic of
 </td>
 </tr>
 <tr><td align="left" >
@@ -1407,10 +1348,6 @@ We're lost in space. The page you were trying to view does not exist.
 </td>
 </tr>
 <tr><td align="left" >
-Western Sahara
-</td>
-</tr>
-<tr><td align="left" >
 With Trashed
 </td>
 </tr>
@@ -1420,14 +1357,6 @@ Write
 </tr>
 <tr><td align="left" >
 Year To Date
-</td>
-</tr>
-<tr><td align="left" >
-Yearly
-</td>
-</tr>
-<tr><td align="left" >
-Yemen
 </td>
 </tr>
 <tr><td align="left" >
@@ -1468,22 +1397,6 @@ Your current payment method is a credit card ending in :lastFour that expires on
 </tr>
 <tr><td align="left" >
 Your registered VAT Number is :vatNumber.
-</td>
-</tr>
-<tr><td align="left" >
-Zambia
-</td>
-</tr>
-<tr><td align="left" >
-Zimbabwe
-</td>
-</tr>
-<tr><td align="left" >
-Zip / Postal Code
-</td>
-</tr>
-<tr><td align="left" >
-Åland Islands
 </td>
 </tr>
 

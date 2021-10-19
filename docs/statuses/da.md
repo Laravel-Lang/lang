@@ -2,7 +2,7 @@
 
 # da
 
-##### All missed: 311
+##### All missed: 310
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/da/auth.php)
@@ -562,7 +562,7 @@ The :attribute field prohibits :other from being present.
 
 ### [da](https://github.com/Laravel-Lang/lang/blob/master/locales/da/da.json)
 
-##### Missing: 238
+##### Missing: 237
 
 <table >
 <tr><td align="left" >
@@ -891,11 +891,6 @@ ID
 </tr>
 <tr><td align="left" >
 If you need to add specific contact or tax information to your receipts, like your full business name, VAT identification number, or address of record, you may add it here.
-</td>
-</tr>
-<tr><td align="left" >
-If you're having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser:
 </td>
 </tr>
 <tr><td align="left" >

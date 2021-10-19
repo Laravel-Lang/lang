@@ -2,7 +2,7 @@
 
 # kk
 
-##### All missed: 155
+##### All missed: 154
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/kk/auth.php)
@@ -313,7 +313,7 @@ The :attribute field prohibits :other from being present.
 
 ### [kk](https://github.com/Laravel-Lang/lang/blob/master/locales/kk/kk.json)
 
-##### Missing: 116
+##### Missing: 115
 
 <table >
 <tr><td align="left" >
@@ -434,11 +434,6 @@ I accept the terms of service
 </tr>
 <tr><td align="left" >
 If you need to add specific contact or tax information to your receipts, like your full business name, VAT identification number, or address of record, you may add it here.
-</td>
-</tr>
-<tr><td align="left" >
-If you're having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser:
 </td>
 </tr>
 <tr><td align="left" >

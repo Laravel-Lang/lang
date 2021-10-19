@@ -2,7 +2,7 @@
 
 # be
 
-##### All missed: 203
+##### All missed: 202
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/be/auth.php)
@@ -674,7 +674,7 @@ The :attribute field prohibits :other from being present.
 
 ### [be](https://github.com/Laravel-Lang/lang/blob/master/locales/be/be.json)
 
-##### Missing: 114
+##### Missing: 113
 
 <table >
 <tr><td align="left" >
@@ -795,11 +795,6 @@ I accept the terms of service
 </tr>
 <tr><td align="left" >
 If you need to add specific contact or tax information to your receipts, like your full business name, VAT identification number, or address of record, you may add it here.
-</td>
-</tr>
-<tr><td align="left" >
-If you're having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser:
 </td>
 </tr>
 <tr><td align="left" >

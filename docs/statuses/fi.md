@@ -2,7 +2,7 @@
 
 # fi
 
-##### All missed: 42
+##### All missed: 41
 
 
 ### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/master/locales/fi/validation-attributes.php)
@@ -320,14 +320,9 @@ The :attribute field prohibits :other from being present.
 
 ### [fi](https://github.com/Laravel-Lang/lang/blob/master/locales/fi/fi.json)
 
-##### Missing: 2
+##### Missing: 1
 
 <table >
-<tr><td align="left" >
-If you're having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser:
-</td>
-</tr>
 <tr><td align="left" >
 The password is incorrect.
 </td>

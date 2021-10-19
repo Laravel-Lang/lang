@@ -2,7 +2,7 @@
 
 # ja
 
-##### All missed: 68
+##### All missed: 67
 
 
 ### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/master/locales/ja/validation-attributes.php)
@@ -320,7 +320,7 @@ The :attribute field prohibits :other from being present.
 
 ### [ja](https://github.com/Laravel-Lang/lang/blob/master/locales/ja/ja.json)
 
-##### Missing: 28
+##### Missing: 27
 
 <table >
 <tr><td align="left" >
@@ -349,11 +349,6 @@ I accept the terms of service
 </tr>
 <tr><td align="left" >
 ID
-</td>
-</tr>
-<tr><td align="left" >
-If you're having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser:
 </td>
 </tr>
 <tr><td align="left" >

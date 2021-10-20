@@ -2,7 +2,7 @@
 
 # fa
 
-##### All missed: 331
+##### All missed: 309
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/fa/validation-inline.php)
@@ -127,7 +127,7 @@ This :attribute may not be associated with this resource.
 
 ### [fa](https://github.com/Laravel-Lang/lang/blob/master/locales/fa/fa.json)
 
-##### Missing: 317
+##### Missing: 295
 
 <table >
 <tr><td align="left" >
@@ -183,87 +183,7 @@ Are you sure you want to restore this resource?
 </td>
 </tr>
 <tr><td align="left" >
-Attach & Attach Another
-</td>
-</tr>
-<tr><td align="left" >
-Attach :resource
-</td>
-</tr>
-<tr><td align="left" >
-Billing Information
-</td>
-</tr>
-<tr><td align="left" >
-Billing Management
-</td>
-</tr>
-<tr><td align="left" >
-Bolivia, Plurinational State of
-</td>
-</tr>
-<tr><td align="left" >
-Bonaire, Sint Eustatius and Saba
-</td>
-</tr>
-<tr><td align="left" >
-Bosnia and Herzegovina
-</td>
-</tr>
-<tr><td align="left" >
-British Indian Ocean Territory
-</td>
-</tr>
-<tr><td align="left" >
-Cancel Subscription
-</td>
-</tr>
-<tr><td align="left" >
-Central African Republic
-</td>
-</tr>
-<tr><td align="left" >
-Change Subscription Plan
-</td>
-</tr>
-<tr><td align="left" >
-Christmas Island
-</td>
-</tr>
-<tr><td align="left" >
-Cocos (Keeling) Islands
-</td>
-</tr>
-<tr><td align="left" >
-Confirm Payment
-</td>
-</tr>
-<tr><td align="left" >
 Confirm your :amount payment
-</td>
-</tr>
-<tr><td align="left" >
-Congo, Democratic Republic
-</td>
-</tr>
-<tr><td align="left" >
-Congo, the Democratic Republic of the
-</td>
-</tr>
-<tr><td align="left" >
-Constant
-</td>
-</tr>
-<tr><td align="left" >
-Create & Add Another
-</td>
-</tr>
-<tr><td align="left" >
-Create :resource
-</td>
-</tr>
-<tr><td align="left" >
-Current Subscription Plan
 </td>
 </tr>
 <tr><td align="left" >
@@ -279,10 +199,6 @@ Delete Selected
 </td>
 </tr>
 <tr><td align="left" >
-Detach
-</td>
-</tr>
-<tr><td align="left" >
 Detach Resource
 </td>
 </tr>
@@ -292,10 +208,6 @@ Detach Selected
 </tr>
 <tr><td align="left" >
 Do you really want to leave? You have unsaved changes.
-</td>
-</tr>
-<tr><td align="left" >
-Dominican Republic
 </td>
 </tr>
 <tr><td align="left" >

@@ -2,7 +2,7 @@
 
 # fa
 
-##### All missed: 309
+##### All missed: 305
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/fa/validation-inline.php)
@@ -127,7 +127,7 @@ This :attribute may not be associated with this resource.
 
 ### [fa](https://github.com/Laravel-Lang/lang/blob/master/locales/fa/fa.json)
 
-##### Missing: 295
+##### Missing: 291
 
 <table >
 <tr><td align="left" >
@@ -139,23 +139,7 @@ Add VAT Number
 </td>
 </tr>
 <tr><td align="left" >
-An error occured while uploading the file.
-</td>
-</tr>
-<tr><td align="left" >
-An unexpected error occurred and we have notified our support team. Please try again later.
-</td>
-</tr>
-<tr><td align="left" >
 Another user has updated this resource since this page was loaded. Please refresh the page and try again.
-</td>
-</tr>
-<tr><td align="left" >
-Are you sure you want to delete the selected resources?
-</td>
-</tr>
-<tr><td align="left" >
-Are you sure you want to delete this resource?
 </td>
 </tr>
 <tr><td align="left" >

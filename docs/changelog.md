@@ -9,6 +9,12 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+### Changed
+
+ * feature: [fa] #1890 json file
+ * feature: [it] #1885 json file
+ * feature: [sv] #1892 json file
+
 ## [10.1.8] - 2021-10-21
 
 ### Changed

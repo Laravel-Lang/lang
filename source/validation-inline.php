@@ -54,9 +54,9 @@ return [
         'array'   => 'The content must have more than :value items.',
     ],
     'gte'                  => [
-        'numeric' => 'The value must be greater than or equal :value.',
-        'file'    => 'The file size must be greater than or equal :value kilobytes.',
-        'string'  => 'The string must be greater than or equal :value characters.',
+        'numeric' => 'The value must be greater than or equal to :value.',
+        'file'    => 'The file size must be greater than or equal to :value kilobytes.',
+        'string'  => 'The string must be greater than or equal to :value characters.',
         'array'   => 'The content must have :value items or more.',
     ],
     'image'                => 'This must be an image.',
@@ -74,10 +74,10 @@ return [
         'array'   => 'The content must have less than :value items.',
     ],
     'lte'                  => [
-        'numeric' => 'The value must be less than or equal :value.',
-        'file'    => 'The file size must be less than or equal :value kilobytes.',
-        'string'  => 'The string must be less than or equal :value characters.',
-        'array'   => 'The content must not have more than :value items.',
+        'numeric' => 'The value must be less than or equal to :value.',
+        'file'    => 'The file size must be less than or equal to :value kilobytes.',
+        'string'  => 'The string must be less than or equal to :value characters.',
+        'array'   => 'The content must not have more than to :value items.',
     ],
     'max'                  => [
         'numeric' => 'The value may not be greater than :max.',

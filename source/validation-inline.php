@@ -77,7 +77,7 @@ return [
         'numeric' => 'The value must be less than or equal to :value.',
         'file'    => 'The file size must be less than or equal to :value kilobytes.',
         'string'  => 'The string must be less than or equal to :value characters.',
-        'array'   => 'The content must not have more than to :value items.',
+        'array'   => 'The content must not have more than :value items.',
     ],
     'max'                  => [
         'numeric' => 'The value may not be greater than :max.',

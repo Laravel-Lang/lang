@@ -13,7 +13,7 @@
 
 return [
     'accepted'             => 'Pole musi zostać zaakceptowane.',
-    'accepted_if'          => 'This field must be accepted when :other is :value.',
+    'accepted_if'          => 'Pole :attribute musi zostać zaakceptowane gdy :other ma wartość :value.',
     'active_url'           => 'Pole jest nieprawidłowym adresem URL.',
     'after'                => 'Pole musi być datą późniejszą od :date.',
     'after_or_equal'       => 'Pole musi być datą nie wcześniejszą niż :date.',
@@ -101,7 +101,7 @@ return [
     'prohibited'           => 'To pole jest zabronione.',
     'prohibited_if'        => 'To pole jest zabronione, gdy :other to :value.',
     'prohibited_unless'    => 'To pole jest zabronione, chyba że :other jest w :values.',
-    'prohibits'            => 'This field prohibits :other from being present.',
+    'prohibits'            => 'Pole :attribute zabrania obecności :other.',
     'regex'                => 'Format pola jest nieprawidłowy.',
     'relatable'            => 'To pole może nie być powiązane z tym zasobem.',
     'required'             => 'Pole jest wymagane.',

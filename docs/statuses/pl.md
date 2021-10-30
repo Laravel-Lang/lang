@@ -2,7 +2,7 @@
 
 # pl
 
-##### All missed: 38
+##### All missed: 36
 
 
 ### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/master/locales/pl/validation-attributes.php)
@@ -264,31 +264,6 @@ prohibits
 </td>
 <td align="left" >
 This field prohibits :other from being present.
-</td>
-</tr>
-
-</table>
-
-
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/pl/validation.php)
-
-##### Missing: 2
-
-<table >
-<tr><td align="left" >
-accepted_if
-</td>
-<td align="left" >
-The :attribute must be accepted when :other is :value.
-</td>
-</tr>
-<tr><td align="left" >
-prohibits
-</td>
-<td align="left" >
-The :attribute field prohibits :other from being present.
 </td>
 </tr>
 

@@ -2,7 +2,7 @@
 
 # fa
 
-##### All missed: 305
+##### All missed: 285
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/fa/validation-inline.php)
@@ -127,7 +127,7 @@ This :attribute may not be associated with this resource.
 
 ### [fa](https://github.com/Laravel-Lang/lang/blob/master/locales/fa/fa.json)
 
-##### Missing: 291
+##### Missing: 271
 
 <table >
 <tr><td align="left" >
@@ -179,23 +179,11 @@ Delete Resource
 </td>
 </tr>
 <tr><td align="left" >
-Delete Selected
-</td>
-</tr>
-<tr><td align="left" >
 Detach Resource
 </td>
 </tr>
 <tr><td align="left" >
-Detach Selected
-</td>
-</tr>
-<tr><td align="left" >
 Do you really want to leave? You have unsaved changes.
-</td>
-</tr>
-<tr><td align="left" >
-Download Receipt
 </td>
 </tr>
 <tr><td align="left" >
@@ -204,10 +192,6 @@ El Salvador
 </tr>
 <tr><td align="left" >
 ex VAT
-</td>
-</tr>
-<tr><td align="left" >
-Extra Billing Information
 </td>
 </tr>
 <tr><td align="left" >
@@ -223,71 +207,7 @@ Force Delete Selected
 </td>
 </tr>
 <tr><td align="left" >
-France
-</td>
-</tr>
-<tr><td align="left" >
-French Guiana
-</td>
-</tr>
-<tr><td align="left" >
-French Polynesia
-</td>
-</tr>
-<tr><td align="left" >
-French Southern Territories
-</td>
-</tr>
-<tr><td align="left" >
-Gabon
-</td>
-</tr>
-<tr><td align="left" >
-Gambia
-</td>
-</tr>
-<tr><td align="left" >
-Georgia
-</td>
-</tr>
-<tr><td align="left" >
-Germany
-</td>
-</tr>
-<tr><td align="left" >
-Ghana
-</td>
-</tr>
-<tr><td align="left" >
-Gibraltar
-</td>
-</tr>
-<tr><td align="left" >
 Great! You have accepted the invitation to join the :team team.
-</td>
-</tr>
-<tr><td align="left" >
-Greece
-</td>
-</tr>
-<tr><td align="left" >
-Greenland
-</td>
-</tr>
-<tr><td align="left" >
-Grenada
-</td>
-</tr>
-<tr><td align="left" >
-Guadeloupe
-</td>
-</tr>
-<tr><td align="left" >
-Guam
-</td>
-</tr>
-<tr><td align="left" >
-Guatemala
 </td>
 </tr>
 <tr><td align="left" >

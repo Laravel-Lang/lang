@@ -38,7 +38,7 @@ return [
         'street'                => 'straatnaam',
         'student'               => 'student',
         'subject'               => 'onderwerp',
-        'teacher'               => 'Docent',
+        'teacher'               => 'docent',
         'time'                  => 'tijd',
         'title'                 => 'titel',
         'username'              => 'gebruikersnaam',

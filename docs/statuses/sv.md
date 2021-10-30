@@ -2,7 +2,7 @@
 
 # sv
 
-##### All missed: 297
+##### All missed: 257
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/sv/auth.php)
@@ -274,7 +274,7 @@ Year
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/sv/validation-inline.php)
 
-##### Missing: 35
+##### Missing: 29
 
 <table >
 <tr><td align="left" >
@@ -355,27 +355,6 @@ The content must have :value items or more.
 </td>
 </tr>
 <tr><td align="left" >
-gte.file
-</td>
-<td align="left" >
-The file size must be greater than or equal :value kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-gte.numeric
-</td>
-<td align="left" >
-The value must be greater than or equal :value.
-</td>
-</tr>
-<tr><td align="left" >
-gte.string
-</td>
-<td align="left" >
-The string must be greater than or equal :value characters.
-</td>
-</tr>
-<tr><td align="left" >
 lt.array
 </td>
 <td align="left" >
@@ -408,27 +387,6 @@ lte.array
 </td>
 <td align="left" >
 The content must not have more than :value items.
-</td>
-</tr>
-<tr><td align="left" >
-lte.file
-</td>
-<td align="left" >
-The file size must be less than or equal :value kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-lte.numeric
-</td>
-<td align="left" >
-The value must be less than or equal :value.
-</td>
-</tr>
-<tr><td align="left" >
-lte.string
-</td>
-<td align="left" >
-The string must be less than or equal :value characters.
 </td>
 </tr>
 <tr><td align="left" >
@@ -562,23 +520,11 @@ The :attribute field prohibits :other from being present.
 
 ### [sv](https://github.com/Laravel-Lang/lang/blob/master/locales/sv/sv.json)
 
-##### Missing: 224
+##### Missing: 190
 
 <table >
 <tr><td align="left" >
-:days day trial
-</td>
-</tr>
-<tr><td align="left" >
 Add VAT Number
-</td>
-</tr>
-<tr><td align="left" >
-Address
-</td>
-</tr>
-<tr><td align="left" >
-Address Line 2
 </td>
 </tr>
 <tr><td align="left" >
@@ -603,14 +549,6 @@ Anguilla
 </tr>
 <tr><td align="left" >
 Antigua and Barbuda
-</td>
-</tr>
-<tr><td align="left" >
-Apply
-</td>
-</tr>
-<tr><td align="left" >
-Apply Coupon
 </td>
 </tr>
 <tr><td align="left" >
@@ -662,23 +600,11 @@ Bhutan
 </td>
 </tr>
 <tr><td align="left" >
-Billing Information
-</td>
-</tr>
-<tr><td align="left" >
-Billing Management
-</td>
-</tr>
-<tr><td align="left" >
 Bolivia
 </td>
 </tr>
 <tr><td align="left" >
 Bolivia, Plurinational State of
-</td>
-</tr>
-<tr><td align="left" >
-Bosnia and Herzegovina
 </td>
 </tr>
 <tr><td align="left" >
@@ -691,14 +617,6 @@ Burkina Faso
 </tr>
 <tr><td align="left" >
 Burundi
-</td>
-</tr>
-<tr><td align="left" >
-Cancel Subscription
-</td>
-</tr>
-<tr><td align="left" >
-Change Subscription Plan
 </td>
 </tr>
 <tr><td align="left" >
@@ -722,22 +640,6 @@ Costa Rica
 </td>
 </tr>
 <tr><td align="left" >
-Country
-</td>
-</tr>
-<tr><td align="left" >
-Coupon
-</td>
-</tr>
-<tr><td align="left" >
-Current Subscription Plan
-</td>
-</tr>
-<tr><td align="left" >
-Currently Subscribed
-</td>
-</tr>
-<tr><td align="left" >
 Côte d'Ivoire
 </td>
 </tr>
@@ -750,10 +652,6 @@ Djibouti
 </td>
 </tr>
 <tr><td align="left" >
-Download Receipt
-</td>
-</tr>
-<tr><td align="left" >
 Ecuador
 </td>
 </tr>
@@ -762,19 +660,11 @@ Egypt
 </td>
 </tr>
 <tr><td align="left" >
-Email Addresses
-</td>
-</tr>
-<tr><td align="left" >
 Eritrea
 </td>
 </tr>
 <tr><td align="left" >
 ex VAT
-</td>
-</tr>
-<tr><td align="left" >
-Extra Billing Information
 </td>
 </tr>
 <tr><td align="left" >
@@ -838,23 +728,11 @@ Haiti
 </td>
 </tr>
 <tr><td align="left" >
-Have a coupon code?
-</td>
-</tr>
-<tr><td align="left" >
-Having second thoughts about cancelling your subscription? You can instantly reactive your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
-</td>
-</tr>
-<tr><td align="left" >
 Heard Island and McDonald Islands
 </td>
 </tr>
 <tr><td align="left" >
 Honduras
-</td>
-</tr>
-<tr><td align="left" >
-I accept the terms of service
 </td>
 </tr>
 <tr><td align="left" >
@@ -1022,10 +900,6 @@ Netherlands Antilles
 </td>
 </tr>
 <tr><td align="left" >
-Nevermind, I'll keep my old plan
-</td>
-</tr>
-<tr><td align="left" >
 Nicaragua
 </td>
 </tr>
@@ -1070,14 +944,6 @@ Paraguay
 </td>
 </tr>
 <tr><td align="left" >
-Payment Information
-</td>
-</tr>
-<tr><td align="left" >
-Payment Method
-</td>
-</tr>
-<tr><td align="left" >
 Peru
 </td>
 </tr>
@@ -1099,22 +965,6 @@ Puerto Rico
 </tr>
 <tr><td align="left" >
 Qatar
-</td>
-</tr>
-<tr><td align="left" >
-Receipt Email Addresses
-</td>
-</tr>
-<tr><td align="left" >
-Receipts
-</td>
-</tr>
-<tr><td align="left" >
-Resume Subscription
-</td>
-</tr>
-<tr><td align="left" >
-Return to :appName
 </td>
 </tr>
 <tr><td align="left" >
@@ -1166,10 +1016,6 @@ Select
 </td>
 </tr>
 <tr><td align="left" >
-Select a different plan
-</td>
-</tr>
-<tr><td align="left" >
 Senegal
 </td>
 </tr>
@@ -1211,14 +1057,6 @@ State / County
 </tr>
 <tr><td align="left" >
 Subscribe
-</td>
-</tr>
-<tr><td align="left" >
-Subscription Information
-</td>
-</tr>
-<tr><td align="left" >
-Subscription Pending
 </td>
 </tr>
 <tr><td align="left" >
@@ -1310,19 +1148,15 @@ This account does not have an active subscription.
 </td>
 </tr>
 <tr><td align="left" >
-This subscription cannot be resumed. Please create a new subscription.
-</td>
-</tr>
-<tr><td align="left" >
-This subscription has expired and cannot be resumed. Please create a new subscription.
-</td>
-</tr>
-<tr><td align="left" >
 Togo
 </td>
 </tr>
 <tr><td align="left" >
 Tokelau
+</td>
+</tr>
+<tr><td align="left" >
+Tonga
 </td>
 </tr>
 <tr><td align="left" >
@@ -1358,10 +1192,6 @@ United States Minor Outlying Islands
 </td>
 </tr>
 <tr><td align="left" >
-Update Payment Information
-</td>
-</tr>
-<tr><td align="left" >
 Update Payment Method
 </td>
 </tr>
@@ -1383,10 +1213,6 @@ Venezuela
 </tr>
 <tr><td align="left" >
 Venezuela, Bolivarian Republic of
-</td>
-</tr>
-<tr><td align="left" >
-View Receipt
 </td>
 </tr>
 <tr><td align="left" >
@@ -1451,10 +1277,6 @@ Zambia
 </tr>
 <tr><td align="left" >
 Zimbabwe
-</td>
-</tr>
-<tr><td align="left" >
-Zip / Postal Code
 </td>
 </tr>
 <tr><td align="left" >

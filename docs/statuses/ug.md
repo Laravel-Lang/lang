@@ -2,7 +2,7 @@
 
 # ug
 
-##### All missed: 795
+##### All missed: 783
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/ug/auth.php)
@@ -43,7 +43,7 @@ Please wait before retrying.
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/ug/validation-inline.php)
 
-##### Missing: 95
+##### Missing: 89
 
 <table >
 <tr><td align="left" >
@@ -306,27 +306,6 @@ The content must have :value items or more.
 </td>
 </tr>
 <tr><td align="left" >
-gte.file
-</td>
-<td align="left" >
-The file size must be greater than or equal :value kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-gte.numeric
-</td>
-<td align="left" >
-The value must be greater than or equal :value.
-</td>
-</tr>
-<tr><td align="left" >
-gte.string
-</td>
-<td align="left" >
-The string must be greater than or equal :value characters.
-</td>
-</tr>
-<tr><td align="left" >
 image
 </td>
 <td align="left" >
@@ -415,27 +394,6 @@ lte.array
 </td>
 <td align="left" >
 The content must not have more than :value items.
-</td>
-</tr>
-<tr><td align="left" >
-lte.file
-</td>
-<td align="left" >
-The file size must be less than or equal :value kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-lte.numeric
-</td>
-<td align="left" >
-The value must be less than or equal :value.
-</td>
-</tr>
-<tr><td align="left" >
-lte.string
-</td>
-<td align="left" >
-The string must be less than or equal :value characters.
 </td>
 </tr>
 <tr><td align="left" >
@@ -719,7 +677,7 @@ This must be a valid UUID.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/ug/validation.php)
 
-##### Missing: 31
+##### Missing: 25
 
 <table >
 <tr><td align="left" >
@@ -793,27 +751,6 @@ The :attribute must have :value items or more.
 </td>
 </tr>
 <tr><td align="left" >
-gte.file
-</td>
-<td align="left" >
-The :attribute must be greater than or equal :value kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-gte.numeric
-</td>
-<td align="left" >
-The :attribute must be greater than or equal :value.
-</td>
-</tr>
-<tr><td align="left" >
-gte.string
-</td>
-<td align="left" >
-The :attribute must be greater than or equal :value characters.
-</td>
-</tr>
-<tr><td align="left" >
 lt.array
 </td>
 <td align="left" >
@@ -846,27 +783,6 @@ lte.array
 </td>
 <td align="left" >
 The :attribute must not have more than :value items.
-</td>
-</tr>
-<tr><td align="left" >
-lte.file
-</td>
-<td align="left" >
-The :attribute must be less than or equal :value kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-lte.numeric
-</td>
-<td align="left" >
-The :attribute must be less than or equal :value.
-</td>
-</tr>
-<tr><td align="left" >
-lte.string
-</td>
-<td align="left" >
-The :attribute must be less than or equal :value characters.
 </td>
 </tr>
 <tr><td align="left" >

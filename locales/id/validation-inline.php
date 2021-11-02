@@ -101,7 +101,7 @@ return [
     'prohibited'           => 'Isian ini tidak boleh ada.',
     'prohibited_if'        => 'Isian ini tidak boleh ada bila :other adalah :value.',
     'prohibited_unless'    => 'Isian ini tidak boleh ada kecuali :other memiliki nilai :values.',
-    'prohibits'            => 'This field prohibits :other from being present.',
+    'prohibits'            => 'Isian ini melarang isian :other untuk ditampilkan.',
     'regex'                => 'Format ini tidak sesuai.',
     'relatable'            => 'Isian ini mungkin tidak berasosiasi dengan sumber ini.',
     'required'             => 'Isian ini wajib diisi',

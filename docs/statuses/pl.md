@@ -2,7 +2,7 @@
 
 # pl
 
-##### All missed: 36
+##### All missed: 34
 
 
 ### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/master/locales/pl/validation-attributes.php)
@@ -239,31 +239,6 @@ attributes.year
 </td>
 <td align="left" >
 Year
-</td>
-</tr>
-
-</table>
-
-
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/pl/validation-inline.php)
-
-##### Missing: 2
-
-<table >
-<tr><td align="left" >
-accepted_if
-</td>
-<td align="left" >
-This field must be accepted when :other is :value.
-</td>
-</tr>
-<tr><td align="left" >
-prohibits
-</td>
-<td align="left" >
-This field prohibits :other from being present.
 </td>
 </tr>
 

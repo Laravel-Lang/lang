@@ -9,11 +9,28 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+## [10.1.10] - 2021-11-03
+
 ### Changed
 
- * feature: [fa] #1890 json file
- * feature: [it] #1885 json file
+ * fix: [gu]
+
+## [10.1.9] - 2021-11-03
+
+### Changed
+
+ * feature: [fa] #1890 #1891 json file
+ * feature: [id] #1899 #1901 validation.php, validation-inline.php, validation-attributes.php, exclude
+ * feature: [it] #1885 #1898 json file
+ * feature: [nl] #1893 validation-attributes.php
+ * feature: [pl] #1896 #1897 validation.php, validation-inline.php
  * feature: [sv] #1892 json file
+ * feature: [tr] #1895 validation.php, validation-inline.php, validation-attributes.php, json file
+ * new: [gu] #1849
+
+### Reference
+
+ * feature: #1894 Update lte and gte validation messages to have a grammatically parallel structure
 
 ## [10.1.8] - 2021-10-21
 
@@ -638,7 +655,9 @@ For more information, see #1606 and #1607.
 
 * feature: #1269 Rename locale folders following ISO 15897 format
 
-[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/10.1.8...master
+[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/10.1.10...master
+[10.1.10]: https://github.com/caouecs/Laravel-lang/compare/10.1.9...10.1.10
+[10.1.9]: https://github.com/caouecs/Laravel-lang/compare/10.1.8...10.1.9
 [10.1.8]: https://github.com/caouecs/Laravel-lang/compare/10.1.7...10.1.8
 [10.1.7]: https://github.com/caouecs/Laravel-lang/compare/10.1.6...10.1.7
 [10.1.6]: https://github.com/caouecs/Laravel-lang/compare/10.1.5...10.1.6

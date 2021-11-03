@@ -12,6 +12,6 @@ return [
     |
     */
 
-    'previous' => '&laquo; અગાઉના',
     'next'     => 'આગામી &raquo;',
+    'previous' => '&laquo; અગાઉના',
 ];

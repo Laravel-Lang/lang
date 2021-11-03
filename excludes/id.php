@@ -141,6 +141,7 @@ return [
     'Tokelau',
     'Tonga',
     'total',
+    'Total:',
     'Tunisia',
     'Turkmenistan',
     'Tuvalu',

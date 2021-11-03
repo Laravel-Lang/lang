@@ -32,7 +32,7 @@ return [
     ],
     'boolean'              => 'Полето :attribute трябва да съдържа Да или Не',
     'confirmed'            => 'Полето :attribute не е потвърдено.',
-    'current_password'     => 'The password is incorrect.',
+    'current_password'     => 'Паролата е неправилна.',
     'date'                 => 'Полето :attribute не е валидна дата.',
     'date_equals'          => ':attribute трябва да бъде дата, еднаква с :date.',
     'date_format'          => 'Полето :attribute не е във формат :format.',

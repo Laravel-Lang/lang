@@ -13,7 +13,7 @@
 
 return [
     'accepted'             => 'Трябва да приемете :attribute.',
-    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
+    'accepted_if'          => 'Полето :attribute трябва да е прието, когато :other е :value.',
     'active_url'           => 'Полето :attribute не е валиден URL адрес.',
     'after'                => 'Полето :attribute трябва да бъде дата след :date.',
     'after_or_equal'       => 'Полето :attribute трябва да бъде дата след или равна на :date.',
@@ -48,15 +48,15 @@ return [
     'filled'               => 'Полето :attribute е задължително.',
     'gt'                   => [
         'array'   => ':attribute трябва да разполага с повече от :value елемента.',
-        'file'    => ':attribute трябва да бъде по-голяма от :valueкилобайта.',
-        'numeric' => ':attribute трябва да бъде по-голямa от :value.',
+        'file'    => ':attribute трябва да бъде по-голяма от :value килобайта.',
+        'numeric' => ':attribute трябва да бъде по-голяма от :value.',
         'string'  => ':attribute трябва да бъде по-голяма от :value знака.',
     ],
     'gte'                  => [
         'array'   => ':attribute трябва да разполага с :value елемента или повече.',
         'file'    => ':attribute трябва да бъде по-голяма от или равна на :value килобайта.',
         'numeric' => ':attribute трябва да бъде по-голяма от или равна на :value.',
-        'string'  => ':attribute трябва да бъде по-голяма от или равна на :valueзнака.',
+        'string'  => ':attribute трябва да бъде по-голяма от или равна на :value знака.',
     ],
     'image'                => 'Полето :attribute трябва да бъде изображение.',
     'in'                   => 'Избраното поле :attribute е невалидно.',
@@ -101,7 +101,7 @@ return [
     'prohibited'           => 'Поле :attribute е забранено.',
     'prohibited_if'        => 'Полето :attribute е забранено, когато :other е равно на :value.',
     'prohibited_unless'    => 'Полето :attribute е забранено, освен ако :other не е в :values.',
-    'prohibits'            => 'The :attribute field prohibits :other from being present.',
+    'prohibits'            => 'Полето :attribute изключва наличието на :other.',
     'regex'                => 'Полето :attribute е в невалиден формат.',
     'relatable'            => 'Този :attribute може да не е свързан с този ресурс.',
     'required'             => 'Полето :attribute е задължително.',

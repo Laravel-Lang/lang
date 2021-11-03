@@ -2,7 +2,7 @@
 
 # Completion status
 
-> Translation of localizations is completed by **79%** (57.8K / 73.2K).
+> Translation of localizations is completed by **78%** (58.2K / 74.2K).
 
 <table width="100%">
 <tr><td align="center" width="17%">
@@ -120,16 +120,21 @@
 </td>
 <td align="center" width="17%">
 
-[he&nbsp;❗&nbsp;🤖](statuses/he.md)
+[gu&nbsp;❗](statuses/gu.md)
 
 </td>
 <td align="center" width="17%">
 
-[hi&nbsp;❗&nbsp;🤖](statuses/hi.md)
+[he&nbsp;❗&nbsp;🤖](statuses/he.md)
 
 </td>
 </tr>
 <tr><td align="center" width="17%">
+
+[hi&nbsp;❗&nbsp;🤖](statuses/hi.md)
+
+</td>
+<td align="center" width="17%">
 
 [hr&nbsp;❗](statuses/hr.md)
 
@@ -146,7 +151,7 @@
 </td>
 <td align="center" width="17%">
 
-[id&nbsp;❗](statuses/id.md)
+[id&nbsp;✔](statuses/id.md)
 
 </td>
 <td align="center" width="17%">
@@ -154,13 +159,13 @@
 [is&nbsp;❗&nbsp;🤖](statuses/is.md)
 
 </td>
-<td align="center" width="17%">
+</tr>
+<tr><td align="center" width="17%">
 
 [it&nbsp;✔](statuses/it.md)
 
 </td>
-</tr>
-<tr><td align="center" width="17%">
+<td align="center" width="17%">
 
 [ja&nbsp;❗](statuses/ja.md)
 
@@ -185,13 +190,13 @@
 [kn&nbsp;❗&nbsp;🤖](statuses/kn.md)
 
 </td>
-<td align="center" width="17%">
+</tr>
+<tr><td align="center" width="17%">
 
 [ko&nbsp;❗](statuses/ko.md)
 
 </td>
-</tr>
-<tr><td align="center" width="17%">
+<td align="center" width="17%">
 
 [lt&nbsp;❗](statuses/lt.md)
 
@@ -216,13 +221,13 @@
 [mr&nbsp;❗&nbsp;🤖](statuses/mr.md)
 
 </td>
-<td align="center" width="17%">
+</tr>
+<tr><td align="center" width="17%">
 
 [ms&nbsp;❗](statuses/ms.md)
 
 </td>
-</tr>
-<tr><td align="center" width="17%">
+<td align="center" width="17%">
 
 [nb&nbsp;❗](statuses/nb.md)
 
@@ -247,13 +252,13 @@
 [oc&nbsp;❗](statuses/oc.md)
 
 </td>
-<td align="center" width="17%">
+</tr>
+<tr><td align="center" width="17%">
 
 [pl&nbsp;❗](statuses/pl.md)
 
 </td>
-</tr>
-<tr><td align="center" width="17%">
+<td align="center" width="17%">
 
 [ps&nbsp;❗](statuses/ps.md)
 
@@ -278,13 +283,13 @@
 [ru&nbsp;✔](statuses/ru.md)
 
 </td>
-<td align="center" width="17%">
+</tr>
+<tr><td align="center" width="17%">
 
 [sc&nbsp;❗](statuses/sc.md)
 
 </td>
-</tr>
-<tr><td align="center" width="17%">
+<td align="center" width="17%">
 
 [si&nbsp;❗](statuses/si.md)
 
@@ -309,13 +314,13 @@
 [sr_Cyrl&nbsp;❗&nbsp;🤖](statuses/sr-cyrl.md)
 
 </td>
-<td align="center" width="17%">
+</tr>
+<tr><td align="center" width="17%">
 
 [sr_Latn&nbsp;❗&nbsp;🤖](statuses/sr-latn.md)
 
 </td>
-</tr>
-<tr><td align="center" width="17%">
+<td align="center" width="17%">
 
 [sr_Latn_ME&nbsp;❗&nbsp;🤖](statuses/sr-latn-me.md)
 
@@ -340,13 +345,13 @@
 [th&nbsp;❗&nbsp;🤖](statuses/th.md)
 
 </td>
-<td align="center" width="17%">
+</tr>
+<tr><td align="center" width="17%">
 
 [tk&nbsp;❗](statuses/tk.md)
 
 </td>
-</tr>
-<tr><td align="center" width="17%">
+<td align="center" width="17%">
 
 [tl&nbsp;❗&nbsp;🤖](statuses/tl.md)
 
@@ -371,13 +376,13 @@
 [ur&nbsp;❗&nbsp;🤖](statuses/ur.md)
 
 </td>
-<td align="center" width="17%">
+</tr>
+<tr><td align="center" width="17%">
 
 [uz_Cyrl&nbsp;❗&nbsp;🤖](statuses/uz-cyrl.md)
 
 </td>
-</tr>
-<tr><td align="center" width="17%">
+<td align="center" width="17%">
 
 [uz_Latn&nbsp;❗&nbsp;🤖](statuses/uz-latn.md)
 
@@ -400,9 +405,6 @@
 <td align="center" width="17%">
 
 [zh_TW&nbsp;❗](statuses/zh-tw.md)
-
-</td>
-<td align="center" width="17%">
 
 </td>
 </tr>

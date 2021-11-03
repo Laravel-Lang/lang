@@ -2,21 +2,7 @@
 
 # id
 
-##### All missed: 1
+##### All missed: 0
 
-
-### [id](https://github.com/Laravel-Lang/lang/blob/master/locales/id/id.json)
-
-##### Missing: 1
-
-<table >
-<tr><td align="left" >
-Total:
-</td>
-</tr>
-
-</table>
-
-
-[ [go back](../status.md) | [to top](#) ]
+All lines are translated 😊
 

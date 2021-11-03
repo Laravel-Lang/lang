@@ -9,6 +9,12 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+## [10.1.10] - 2021-11-03
+
+### Changed
+
+ * fix: [gu]
+
 ## [10.1.9] - 2021-11-03
 
 ### Changed
@@ -649,7 +655,8 @@ For more information, see #1606 and #1607.
 
 * feature: #1269 Rename locale folders following ISO 15897 format
 
-[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/10.1.9...master
+[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/10.1.10...master
+[10.1.10]: https://github.com/caouecs/Laravel-lang/compare/10.1.9...10.1.10
 [10.1.9]: https://github.com/caouecs/Laravel-lang/compare/10.1.8...10.1.9
 [10.1.8]: https://github.com/caouecs/Laravel-lang/compare/10.1.7...10.1.8
 [10.1.7]: https://github.com/caouecs/Laravel-lang/compare/10.1.6...10.1.7

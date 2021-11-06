@@ -9,6 +9,11 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+### Changed
+
+ * feature: [bg] #1902 #1903 validation.php, validation-inline.php, auth.php, json file
+ * feature: [ru] #1904 validation.php
+
 ## [10.1.10] - 2021-11-03
 
 ### Changed

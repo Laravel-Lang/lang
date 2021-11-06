@@ -27,7 +27,7 @@
 </td>
 <td align="center" width="17%">
 
-[bg&nbsp;❗](statuses/bg.md)
+[bg&nbsp;✔](statuses/bg.md)
 
 </td>
 <td align="center" width="17%">

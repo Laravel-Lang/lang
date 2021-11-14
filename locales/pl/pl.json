@@ -585,7 +585,7 @@
     "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Podany :attribute pojawił się w wycieku danych. Wybierz inny :attribute.",
     "The government won't let us show you what's behind these doors": "Rząd nie pozwoli nam pokazać, co jest za tymi drzwiami.",
     "The HasOne relationship has already been filled.": "Związek HasOne został już wypełniony.",
-    "The password is incorrect.": "The password is incorrect.",
+    "The password is incorrect.": "Hasło jest nieprawidłowe.",
     "The payment was successful.": "Płatność się powiodła.",
     "The provided coupon code is invalid.": "Podany kod kuponu jest nieprawidłowy.",
     "The provided password does not match your current password.": "Podane hasło nie jest zgodne z aktualnym hasłem.",

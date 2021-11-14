@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Rhaid derbyn :attribute.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => 'Nid yw :attribute yn URL dilys.',
     'after'                => 'Rhaid i :attribute fod yn ddyddiad sydd ar ôl :date.',
     'after_or_equal'       => 'Y :attribute rhaid iddo fod yn ddyddiad ar ôl neu yn hafal i :date.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'Y :attribute maes yn cael ei wahardd.',
     'prohibited_if'        => 'Y :attribute maes yn cael ei wahardd pan :other yn :value.',
     'prohibited_unless'    => 'Y :attribute maes yn cael ei wahardd oni bai :other yn :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Nid yw fformat :attribute yn ddilys.',
     'relatable'            => 'Mae hyn yn :attribute efallai na fod yn gysylltiedig â\'r adnodd hwn.',
     'required'             => 'Rhaid cynnwys :attribute.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Ovo polje mora biti prihvaćeno.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'Ovo nije validan URL.',
     'after'                => 'Ovo mora biti datum posle :date.',
     'after_or_equal'       => 'Ovo polje mora da bude :date ili kasniji datum.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'Ово поље је забрањено.',
     'prohibited_if'        => 'Ово поље је забрањено када је :other :value.',
     'prohibited_unless'    => 'Ово поље је забрањено ако само :other није у :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Format nije validan.',
     'relatable'            => 'Ово поље можда није повезано са датим ресурсом.',
     'required'             => 'Ovo polje je obavezno.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

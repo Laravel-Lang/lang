@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Uwanja huu lazima kuwa na kukubalika.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'Hii si halali URL.',
     'after'                => 'Hii ni lazima sasa baada ya :date.',
     'after_or_equal'       => 'Hii ni lazima sasa baada ya au sawa na :date.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'Huu uwanja ni marufuku.',
     'prohibited_if'        => 'Huu uwanja ni marufuku wakati :other ni :value.',
     'prohibited_unless'    => 'Huu uwanja ni marufuku isipokuwa :other ni katika :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Muundo huu ni batili.',
     'relatable'            => 'Uwanja huu inaweza kuwa kuhusishwa na rasilimali hii.',
     'required'             => 'Uwanja huu ni required.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

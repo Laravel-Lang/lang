@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Hierdie veld moet aanvaar word.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'Hierdie is nie geldige URL.',
     'after'                => 'Daar moet n datum na :date wees.',
     'after_or_equal'       => 'Daar moet datum gelyk of na :date wees.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'Hierdie veld is verbode.',
     'prohibited_if'        => 'Hierdie veld is verbode wanneer :other is :value.',
     'prohibited_unless'    => 'Hierdie veld is verbode, tensy :other is in :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Hierdie formaat is ongeldig.',
     'relatable'            => 'Hierdie veld kan nie wees wat verband hou met hierdie hulpbron.',
     'required'             => 'Hierdie veld word vereis.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

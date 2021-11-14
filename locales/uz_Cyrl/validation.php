@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => ':attribute ни қабул қилишингиз керак.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => ':attribute га нотўғри URL киритилди.',
     'after'                => ':attribute да сана :date дан кейин бўлиши керак.',
     'after_or_equal'       => ':attribute да сана :date га тенг ёки ундан кейин бўлиши керак.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => ':attribute maydon taqiqlanadi.',
     'prohibited_if'        => ':attribute maydoni :other :value bo\'lganda taqiqlanadi.',
     'prohibited_unless'    => ':attribute da :other bo\'lmasa :values maydon taqiqlanadi.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute майдони хато форматда.',
     'relatable'            => 'Ushbu :attribute ushbu resurs bilan bog\'liq bo\'lmasligi mumkin.',
     'required'             => ':attribute майдони тўлдирилиши шарт.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

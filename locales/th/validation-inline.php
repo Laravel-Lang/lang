@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'ช่องข้อมูลนี้จะต้องรับการยอมรับ',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'นี่ไม่ใช่การใช้ได้ที่อยู่ URL ได้',
     'after'                => 'นี่ต้องเป็นวันหลังจาก :date.',
     'after_or_equal'       => 'นี่ต้องเป็นวันหลังจากหรือเท่ากับ :date.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'ช่องข้อมูลนี้เป็น prohibited.',
     'prohibited_if'        => 'ช่องข้อมูลนี้เป็น prohibited ตอนที่ :other คือ :value.',
     'prohibited_unless'    => 'ช่องข้อมูลนี้เป็น prohibited นอกจาก :other อยู่ใน :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'นี่รูปแบบไม่ถูกต้อง',
     'relatable'            => 'ช่องข้อมูลนี้อาจจะไม่เกี่ยวข้องกับทรัพยากรนี้',
     'required'             => 'ช่องข้อมูลนี้เป็นต้องการ.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

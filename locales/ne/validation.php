@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => ':attribute स्वीकार गरिएको हुनुपर्छ।',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => ':attribute URL अमान्य छ।',
     'after'                => ':attribute को मिति :date भन्दा पछि हुनुपर्छ।',
     'after_or_equal'       => ':attribute मिति पछाडि वा बराबर मिति हुनुपर्दछ।',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'यो :attribute क्षेत्र निषेध छ । ',
     'prohibited_if'        => 'यो :attribute क्षेत्र निषेध छ जब :other छ :value.',
     'prohibited_unless'    => 'यो :attribute क्षेत्र निषेध छ नभएसम्म :other छ :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute को ढाँचा मिलेन।',
     'relatable'            => 'यो :attribute हुन सक्छ, यस संग सम्बन्धित संसाधन । ',
     'required'             => ':attribute दिइएको हुनुपर्छ।',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

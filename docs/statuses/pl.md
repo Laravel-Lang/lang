@@ -2,37 +2,243 @@
 
 # pl
 
-##### All missed: 42
+##### All missed: 34
 
 
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/pl/validation-inline.php)
+### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/master/locales/pl/validation-attributes.php)
 
-##### Missing: 1
+##### Missing: 33
 
 <table >
 <tr><td align="left" >
-current_password
+attributes.address
 </td>
 <td align="left" >
-The password is incorrect.
+Address
 </td>
 </tr>
-
-</table>
-
-
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/pl/validation.php)
-
-##### Missing: 1
-
-<table >
 <tr><td align="left" >
-current_password
+attributes.age
 </td>
 <td align="left" >
-The password is incorrect.
+Age
+</td>
+</tr>
+<tr><td align="left" >
+attributes.body
+</td>
+<td align="left" >
+Body
+</td>
+</tr>
+<tr><td align="left" >
+attributes.city
+</td>
+<td align="left" >
+City
+</td>
+</tr>
+<tr><td align="left" >
+attributes.content
+</td>
+<td align="left" >
+Content
+</td>
+</tr>
+<tr><td align="left" >
+attributes.country
+</td>
+<td align="left" >
+Country
+</td>
+</tr>
+<tr><td align="left" >
+attributes.date
+</td>
+<td align="left" >
+Date
+</td>
+</tr>
+<tr><td align="left" >
+attributes.day
+</td>
+<td align="left" >
+Day
+</td>
+</tr>
+<tr><td align="left" >
+attributes.description
+</td>
+<td align="left" >
+Description
+</td>
+</tr>
+<tr><td align="left" >
+attributes.excerpt
+</td>
+<td align="left" >
+Excerpt
+</td>
+</tr>
+<tr><td align="left" >
+attributes.first_name
+</td>
+<td align="left" >
+First Name
+</td>
+</tr>
+<tr><td align="left" >
+attributes.gender
+</td>
+<td align="left" >
+Gender
+</td>
+</tr>
+<tr><td align="left" >
+attributes.hour
+</td>
+<td align="left" >
+Hour
+</td>
+</tr>
+<tr><td align="left" >
+attributes.last_name
+</td>
+<td align="left" >
+Last Name
+</td>
+</tr>
+<tr><td align="left" >
+attributes.message
+</td>
+<td align="left" >
+Message
+</td>
+</tr>
+<tr><td align="left" >
+attributes.minute
+</td>
+<td align="left" >
+Minute
+</td>
+</tr>
+<tr><td align="left" >
+attributes.mobile
+</td>
+<td align="left" >
+Mobile
+</td>
+</tr>
+<tr><td align="left" >
+attributes.month
+</td>
+<td align="left" >
+Month
+</td>
+</tr>
+<tr><td align="left" >
+attributes.name
+</td>
+<td align="left" >
+Name
+</td>
+</tr>
+<tr><td align="left" >
+attributes.password
+</td>
+<td align="left" >
+Password
+</td>
+</tr>
+<tr><td align="left" >
+attributes.password_confirmation
+</td>
+<td align="left" >
+Password Confirmation
+</td>
+</tr>
+<tr><td align="left" >
+attributes.phone
+</td>
+<td align="left" >
+Phone
+</td>
+</tr>
+<tr><td align="left" >
+attributes.photo
+</td>
+<td align="left" >
+Photo
+</td>
+</tr>
+<tr><td align="left" >
+attributes.price
+</td>
+<td align="left" >
+Price
+</td>
+</tr>
+<tr><td align="left" >
+attributes.role
+</td>
+<td align="left" >
+Role
+</td>
+</tr>
+<tr><td align="left" >
+attributes.second
+</td>
+<td align="left" >
+Second
+</td>
+</tr>
+<tr><td align="left" >
+attributes.sex
+</td>
+<td align="left" >
+Sex
+</td>
+</tr>
+<tr><td align="left" >
+attributes.subject
+</td>
+<td align="left" >
+Subject
+</td>
+</tr>
+<tr><td align="left" >
+attributes.terms
+</td>
+<td align="left" >
+Terms
+</td>
+</tr>
+<tr><td align="left" >
+attributes.time
+</td>
+<td align="left" >
+Time
+</td>
+</tr>
+<tr><td align="left" >
+attributes.title
+</td>
+<td align="left" >
+Title
+</td>
+</tr>
+<tr><td align="left" >
+attributes.username
+</td>
+<td align="left" >
+Username
+</td>
+</tr>
+<tr><td align="left" >
+attributes.year
+</td>
+<td align="left" >
+Year
 </td>
 </tr>
 
@@ -43,168 +249,11 @@ The password is incorrect.
 
 ### [pl](https://github.com/Laravel-Lang/lang/blob/master/locales/pl/pl.json)
 
-##### Missing: 40
+##### Missing: 1
 
 <table >
 <tr><td align="left" >
-Add VAT Number
-</td>
-</tr>
-<tr><td align="left" >
-Currently Subscribed
-</td>
-</tr>
-<tr><td align="left" >
-Having second thoughts about cancelling your subscription? You can instantly reactive your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
-</td>
-</tr>
-<tr><td align="left" >
-Heard Island and McDonald Islands
-</td>
-</tr>
-<tr><td align="left" >
-ID
-</td>
-</tr>
-<tr><td align="left" >
-If you need to add specific contact or tax information to your receipts, like your full business name, VAT identification number, or address of record, you may add it here.
-</td>
-</tr>
-<tr><td align="left" >
-If you're having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser:
-</td>
-</tr>
-<tr><td align="left" >
-Iran, Islamic Republic of
-</td>
-</tr>
-<tr><td align="left" >
-Isle of Man
-</td>
-</tr>
-<tr><td align="left" >
-Jane Doe
-</td>
-</tr>
-<tr><td align="left" >
-Jersey
-</td>
-</tr>
-<tr><td align="left" >
-Kiribati
-</td>
-</tr>
-<tr><td align="left" >
-Korea, Republic of
-</td>
-</tr>
-<tr><td align="left" >
-Macedonia, the former Yugoslav Republic of
-</td>
-</tr>
-<tr><td align="left" >
-Managing billing for :billableName
-</td>
-</tr>
-<tr><td align="left" >
-Micronesia, Federated States of
-</td>
-</tr>
-<tr><td align="left" >
-Moldova, Republic of
-</td>
-</tr>
-<tr><td align="left" >
-Netherlands Antilles
-</td>
-</tr>
-<tr><td align="left" >
-Nevermind, I'll keep my old plan
-</td>
-</tr>
-<tr><td align="left" >
-New :resource
-</td>
-</tr>
-<tr><td align="left" >
-Nova User
-</td>
-</tr>
-<tr><td align="left" >
-Return to :appName
-</td>
-</tr>
-<tr><td align="left" >
-Saint Kitts and Nevis
-</td>
-</tr>
-<tr><td align="left" >
-Saint Martin (French part)
-</td>
-</tr>
-<tr><td align="left" >
-Saint Pierre and Miquelon
-</td>
-</tr>
-<tr><td align="left" >
-Saint Vincent and the Grenadines
-</td>
-</tr>
-<tr><td align="left" >
-Sao Tome and Principe
-</td>
-</tr>
-<tr><td align="left" >
-South Georgia and the South Sandwich Islands
-</td>
-</tr>
-<tr><td align="left" >
-Sri Lanka
-</td>
-</tr>
-<tr><td align="left" >
-Sudan
-</td>
-</tr>
-<tr><td align="left" >
-Svalbard and Jan Mayen
-</td>
-</tr>
-<tr><td align="left" >
-Tanzania
-</td>
-</tr>
-<tr><td align="left" >
-Tanzania, United Republic of
-</td>
-</tr>
-<tr><td align="left" >
-Thanks,
-</td>
-</tr>
-<tr><td align="left" >
-Trashed
-</td>
-</tr>
-<tr><td align="left" >
-United States Minor Outlying Islands
-</td>
-</tr>
-<tr><td align="left" >
-Update Payment Information
-</td>
-</tr>
-<tr><td align="left" >
-Venezuela, Bolivarian Republic of
-</td>
-</tr>
-<tr><td align="left" >
-We are unable to process your payment. Please contact customer support.
-</td>
-</tr>
-<tr><td align="left" >
-Whoops
+The password is incorrect.
 </td>
 </tr>
 

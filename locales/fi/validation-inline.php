@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Tämä kenttä on hyväksyttävä.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'Tämä ei ole kelvollinen URL-osoite..',
     'after'                => 'Tämän on oltava päivämäärän :date jälkeen.',
     'after_or_equal'       => 'Tämän on oltava päivämäärä :date tai sen jälkeen.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'Tämä kenttä on kielletty.',
     'prohibited_if'        => 'Tämä kenttä on kielletty, kun :other on :value.',
     'prohibited_unless'    => 'Tämä kenttä on kielletty, ellei :other ole :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Tämä muoto on virheellinen.',
     'relatable'            => 'Tämä kenttä ei välttämättä liity tähän resurssiin.',
     'required'             => 'Tämä kenttä on pakollinen.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

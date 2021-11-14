@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'ข้อมูล :attribute ต้องผ่านการยอมรับก่อน',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => 'ข้อมูล :attribute ต้องเป็น URL เท่านั้น',
     'after'                => 'ข้อมูล :attribute ต้องเป็นวันที่หลังจาก :date.',
     'after_or_equal'       => 'ข้อมูล :attribute ต้องเป็นวันที่ตั้งแต่วันที่ :date หรือหลังจากนั้น.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'ที่ :attribute ช่องข้อมูล prohibited.',
     'prohibited_if'        => 'ที่ :attribute ช่องข้อมูล prohibited ตอนที่ :other คือ :value.',
     'prohibited_unless'    => 'ที่ :attribute ช่องข้อมูล prohibited นอกจาก :other อยู่ใน :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'ข้อมูล :attribute มีรูปแบบไม่ถูกต้อง',
     'relatable'            => 'นี่ :attribute อาจจะไม่เกี่ยวข้องกับทรัพยากรนี้',
     'required'             => 'ข้อมูล :attribute จำเป็นต้องกรอก',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

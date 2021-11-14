@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => ':attribute mesti diterima pakai.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => ':attribute bukan URL yang sah.',
     'after'                => ':attribute mesti tarikh selepas :date.',
     'after_or_equal'       => ':attribute mesti tarikh selepas atau sama dengan :date.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'Ruangan :attribute adalah dilarang.',
     'prohibited_if'        => 'Ruangan :attribute adalah dilarang apabila :other adalah :value.',
     'prohibited_unless'    => 'Ruangan :attribute adalah dilarang kecuali :other adalah di :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Format :attribute tidak sah.',
     'relatable'            => 'Ruangan :attribute tidak boleh dikaitkan dengan sumber ini.',
     'required'             => 'Ruangan :attribute diperlukan.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

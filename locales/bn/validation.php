@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => ':attribute গ্রহণ করা আবশ্যক।',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => 'এই :attribute একটি বৈধ URL নয়।',
     'after'                => ':date অবশ্যই :attribute এর পরের একটি তারিখ হতে হবে।',
     'after_or_equal'       => ':attribute টি অবশ্যই :date এর সাথে মিল অথবা এর পরের একটি তারিখ হতে হবে।',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'দী :attribute ক্ষেত্রের নিষিদ্ধ.',
     'prohibited_if'        => 'এই :attribute ক্ষেত্র নিষিদ্ধ করা হয়, যখন :other হয় :value.',
     'prohibited_unless'    => 'এই :attribute ক্ষেত্র নিষিদ্ধ করা হয়, যদি না, :other হয় :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute বিন্যাস অবৈধ।',
     'relatable'            => 'এই :attribute এই সম্পদ সঙ্গে যুক্ত হতে পারে না.',
     'required'             => ':attribute স্থানটি পূরণ করা বাধ্যতামূলক।',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

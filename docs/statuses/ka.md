@@ -2,261 +2,250 @@
 
 # ka
 
-##### All missed: 153
+##### All missed: 114
 
 
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/ka/validation-inline.php)
+### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/master/locales/ka/validation-attributes.php)
 
-##### Missing: 33
-
-<table >
-<tr><td align="left" >
-between.array
-</td>
-<td align="left" >
-This content must have between :min and :max items.
-</td>
-</tr>
-<tr><td align="left" >
-between.file
-</td>
-<td align="left" >
-This file must be between :min and :max kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-between.numeric
-</td>
-<td align="left" >
-This value must be between :min and :max.
-</td>
-</tr>
-<tr><td align="left" >
-between.string
-</td>
-<td align="left" >
-This string must be between :min and :max characters.
-</td>
-</tr>
-<tr><td align="left" >
-current_password
-</td>
-<td align="left" >
-The password is incorrect.
-</td>
-</tr>
-<tr><td align="left" >
-gt.array
-</td>
-<td align="left" >
-The content must have more than :value items.
-</td>
-</tr>
-<tr><td align="left" >
-gt.file
-</td>
-<td align="left" >
-The file size must be greater than :value kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-gt.numeric
-</td>
-<td align="left" >
-The value must be greater than :value.
-</td>
-</tr>
-<tr><td align="left" >
-gt.string
-</td>
-<td align="left" >
-The string must be greater than :value characters.
-</td>
-</tr>
-<tr><td align="left" >
-gte.array
-</td>
-<td align="left" >
-The content must have :value items or more.
-</td>
-</tr>
-<tr><td align="left" >
-gte.file
-</td>
-<td align="left" >
-The file size must be greater than or equal :value kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-gte.numeric
-</td>
-<td align="left" >
-The value must be greater than or equal :value.
-</td>
-</tr>
-<tr><td align="left" >
-gte.string
-</td>
-<td align="left" >
-The string must be greater than or equal :value characters.
-</td>
-</tr>
-<tr><td align="left" >
-lt.array
-</td>
-<td align="left" >
-The content must have less than :value items.
-</td>
-</tr>
-<tr><td align="left" >
-lt.file
-</td>
-<td align="left" >
-The file size must be less than :value kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-lt.numeric
-</td>
-<td align="left" >
-The value must be less than :value.
-</td>
-</tr>
-<tr><td align="left" >
-lt.string
-</td>
-<td align="left" >
-The string must be less than :value characters.
-</td>
-</tr>
-<tr><td align="left" >
-lte.array
-</td>
-<td align="left" >
-The content must not have more than :value items.
-</td>
-</tr>
-<tr><td align="left" >
-lte.file
-</td>
-<td align="left" >
-The file size must be less than or equal :value kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-lte.numeric
-</td>
-<td align="left" >
-The value must be less than or equal :value.
-</td>
-</tr>
-<tr><td align="left" >
-lte.string
-</td>
-<td align="left" >
-The string must be less than or equal :value characters.
-</td>
-</tr>
-<tr><td align="left" >
-max.array
-</td>
-<td align="left" >
-The content may not have more than :max items.
-</td>
-</tr>
-<tr><td align="left" >
-max.file
-</td>
-<td align="left" >
-The file size may not be greater than :max kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-max.numeric
-</td>
-<td align="left" >
-The value may not be greater than :max.
-</td>
-</tr>
-<tr><td align="left" >
-max.string
-</td>
-<td align="left" >
-The string may not be greater than :max characters.
-</td>
-</tr>
-<tr><td align="left" >
-min.array
-</td>
-<td align="left" >
-The value must have at least :min items.
-</td>
-</tr>
-<tr><td align="left" >
-min.file
-</td>
-<td align="left" >
-The file size must be at least :min kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-min.numeric
-</td>
-<td align="left" >
-The value must be at least :min.
-</td>
-</tr>
-<tr><td align="left" >
-min.string
-</td>
-<td align="left" >
-The string must be at least :min characters.
-</td>
-</tr>
-<tr><td align="left" >
-size.array
-</td>
-<td align="left" >
-The content must contain :size items.
-</td>
-</tr>
-<tr><td align="left" >
-size.file
-</td>
-<td align="left" >
-The file size must be :size kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-size.numeric
-</td>
-<td align="left" >
-The value must be :size.
-</td>
-</tr>
-<tr><td align="left" >
-size.string
-</td>
-<td align="left" >
-The string must be :size characters.
-</td>
-</tr>
-
-</table>
-
-
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/ka/validation.php)
-
-##### Missing: 1
+##### Missing: 34
 
 <table >
 <tr><td align="left" >
-current_password
+attributes.address
 </td>
 <td align="left" >
-The password is incorrect.
+Address
+</td>
+</tr>
+<tr><td align="left" >
+attributes.age
+</td>
+<td align="left" >
+Age
+</td>
+</tr>
+<tr><td align="left" >
+attributes.body
+</td>
+<td align="left" >
+Body
+</td>
+</tr>
+<tr><td align="left" >
+attributes.city
+</td>
+<td align="left" >
+City
+</td>
+</tr>
+<tr><td align="left" >
+attributes.content
+</td>
+<td align="left" >
+Content
+</td>
+</tr>
+<tr><td align="left" >
+attributes.country
+</td>
+<td align="left" >
+Country
+</td>
+</tr>
+<tr><td align="left" >
+attributes.date
+</td>
+<td align="left" >
+Date
+</td>
+</tr>
+<tr><td align="left" >
+attributes.day
+</td>
+<td align="left" >
+Day
+</td>
+</tr>
+<tr><td align="left" >
+attributes.description
+</td>
+<td align="left" >
+Description
+</td>
+</tr>
+<tr><td align="left" >
+attributes.email
+</td>
+<td align="left" >
+Email
+</td>
+</tr>
+<tr><td align="left" >
+attributes.excerpt
+</td>
+<td align="left" >
+Excerpt
+</td>
+</tr>
+<tr><td align="left" >
+attributes.first_name
+</td>
+<td align="left" >
+First Name
+</td>
+</tr>
+<tr><td align="left" >
+attributes.gender
+</td>
+<td align="left" >
+Gender
+</td>
+</tr>
+<tr><td align="left" >
+attributes.hour
+</td>
+<td align="left" >
+Hour
+</td>
+</tr>
+<tr><td align="left" >
+attributes.last_name
+</td>
+<td align="left" >
+Last Name
+</td>
+</tr>
+<tr><td align="left" >
+attributes.message
+</td>
+<td align="left" >
+Message
+</td>
+</tr>
+<tr><td align="left" >
+attributes.minute
+</td>
+<td align="left" >
+Minute
+</td>
+</tr>
+<tr><td align="left" >
+attributes.mobile
+</td>
+<td align="left" >
+Mobile
+</td>
+</tr>
+<tr><td align="left" >
+attributes.month
+</td>
+<td align="left" >
+Month
+</td>
+</tr>
+<tr><td align="left" >
+attributes.name
+</td>
+<td align="left" >
+Name
+</td>
+</tr>
+<tr><td align="left" >
+attributes.password
+</td>
+<td align="left" >
+Password
+</td>
+</tr>
+<tr><td align="left" >
+attributes.password_confirmation
+</td>
+<td align="left" >
+Password Confirmation
+</td>
+</tr>
+<tr><td align="left" >
+attributes.phone
+</td>
+<td align="left" >
+Phone
+</td>
+</tr>
+<tr><td align="left" >
+attributes.photo
+</td>
+<td align="left" >
+Photo
+</td>
+</tr>
+<tr><td align="left" >
+attributes.price
+</td>
+<td align="left" >
+Price
+</td>
+</tr>
+<tr><td align="left" >
+attributes.role
+</td>
+<td align="left" >
+Role
+</td>
+</tr>
+<tr><td align="left" >
+attributes.second
+</td>
+<td align="left" >
+Second
+</td>
+</tr>
+<tr><td align="left" >
+attributes.sex
+</td>
+<td align="left" >
+Sex
+</td>
+</tr>
+<tr><td align="left" >
+attributes.subject
+</td>
+<td align="left" >
+Subject
+</td>
+</tr>
+<tr><td align="left" >
+attributes.terms
+</td>
+<td align="left" >
+Terms
+</td>
+</tr>
+<tr><td align="left" >
+attributes.time
+</td>
+<td align="left" >
+Time
+</td>
+</tr>
+<tr><td align="left" >
+attributes.title
+</td>
+<td align="left" >
+Title
+</td>
+</tr>
+<tr><td align="left" >
+attributes.username
+</td>
+<td align="left" >
+Username
+</td>
+</tr>
+<tr><td align="left" >
+attributes.year
+</td>
+<td align="left" >
+Year
 </td>
 </tr>
 
@@ -267,67 +256,11 @@ The password is incorrect.
 
 ### [ka](https://github.com/Laravel-Lang/lang/blob/master/locales/ka/ka.json)
 
-##### Missing: 119
+##### Missing: 80
 
 <table >
 <tr><td align="left" >
-:days day trial
-</td>
-</tr>
-<tr><td align="left" >
-Add VAT Number
-</td>
-</tr>
-<tr><td align="left" >
-Address
-</td>
-</tr>
-<tr><td align="left" >
-Address Line 2
-</td>
-</tr>
-<tr><td align="left" >
-An unexpected error occurred and we have notified our support team. Please try again later.
-</td>
-</tr>
-<tr><td align="left" >
-Antigua and Barbuda
-</td>
-</tr>
-<tr><td align="left" >
-Apply
-</td>
-</tr>
-<tr><td align="left" >
-Apply Coupon
-</td>
-</tr>
-<tr><td align="left" >
-Billing Information
-</td>
-</tr>
-<tr><td align="left" >
-Billing Management
-</td>
-</tr>
-<tr><td align="left" >
 Bolivia, Plurinational State of
-</td>
-</tr>
-<tr><td align="left" >
-Bosnia and Herzegovina
-</td>
-</tr>
-<tr><td align="left" >
-Cancel Subscription
-</td>
-</tr>
-<tr><td align="left" >
-Change Subscription Plan
-</td>
-</tr>
-<tr><td align="left" >
-City
 </td>
 </tr>
 <tr><td align="left" >
@@ -343,23 +276,7 @@ Coupon
 </td>
 </tr>
 <tr><td align="left" >
-Current Subscription Plan
-</td>
-</tr>
-<tr><td align="left" >
-Currently Subscribed
-</td>
-</tr>
-<tr><td align="left" >
 Côte d'Ivoire
-</td>
-</tr>
-<tr><td align="left" >
-Download Receipt
-</td>
-</tr>
-<tr><td align="left" >
-Email Addresses
 </td>
 </tr>
 <tr><td align="left" >
@@ -379,10 +296,6 @@ Having second thoughts about cancelling your subscription? You can instantly rea
 </td>
 </tr>
 <tr><td align="left" >
-Heard Island and McDonald Islands
-</td>
-</tr>
-<tr><td align="left" >
 I accept the terms of service
 </td>
 </tr>
@@ -392,19 +305,6 @@ ID
 </tr>
 <tr><td align="left" >
 If you need to add specific contact or tax information to your receipts, like your full business name, VAT identification number, or address of record, you may add it here.
-</td>
-</tr>
-<tr><td align="left" >
-If you're having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser:
-</td>
-</tr>
-<tr><td align="left" >
-Iran, Islamic Republic of
-</td>
-</tr>
-<tr><td align="left" >
-Isle of Man
 </td>
 </tr>
 <tr><td align="left" >
@@ -420,23 +320,7 @@ Jersey
 </td>
 </tr>
 <tr><td align="left" >
-Korea, Republic of
-</td>
-</tr>
-<tr><td align="left" >
-Macedonia, the former Yugoslav Republic of
-</td>
-</tr>
-<tr><td align="left" >
 Managing billing for :billableName
-</td>
-</tr>
-<tr><td align="left" >
-Micronesia, Federated States of
-</td>
-</tr>
-<tr><td align="left" >
-Moldova, Republic of
 </td>
 </tr>
 <tr><td align="left" >
@@ -508,10 +392,6 @@ Réunion
 </td>
 </tr>
 <tr><td align="left" >
-Saint Barthélemy
-</td>
-</tr>
-<tr><td align="left" >
 Saint Kitts and Nevis
 </td>
 </tr>
@@ -528,10 +408,6 @@ Saint Vincent and the Grenadines
 </td>
 </tr>
 <tr><td align="left" >
-Sao Tome and Principe
-</td>
-</tr>
-<tr><td align="left" >
 Select
 </td>
 </tr>
@@ -541,10 +417,6 @@ Select a different plan
 </tr>
 <tr><td align="left" >
 Signed in as
-</td>
-</tr>
-<tr><td align="left" >
-South Georgia and the South Sandwich Islands
 </td>
 </tr>
 <tr><td align="left" >
@@ -565,18 +437,6 @@ Subscription Information
 </tr>
 <tr><td align="left" >
 Subscription Pending
-</td>
-</tr>
-<tr><td align="left" >
-Svalbard and Jan Mayen
-</td>
-</tr>
-<tr><td align="left" >
-Taiwan, Province of China
-</td>
-</tr>
-<tr><td align="left" >
-Tanzania, United Republic of
 </td>
 </tr>
 <tr><td align="left" >
@@ -605,6 +465,10 @@ The :attribute must contain at least one uppercase and one lowercase letter.
 </tr>
 <tr><td align="left" >
 The given :attribute has appeared in a data leak. Please choose a different :attribute.
+</td>
+</tr>
+<tr><td align="left" >
+The password is incorrect.
 </td>
 </tr>
 <tr><td align="left" >
@@ -644,22 +508,6 @@ This subscription has expired and cannot be resumed. Please create a new subscri
 </td>
 </tr>
 <tr><td align="left" >
-Total:
-</td>
-</tr>
-<tr><td align="left" >
-Trinidad and Tobago
-</td>
-</tr>
-<tr><td align="left" >
-Turks and Caicos Islands
-</td>
-</tr>
-<tr><td align="left" >
-United States Minor Outlying Islands
-</td>
-</tr>
-<tr><td align="left" >
 Update Payment Information
 </td>
 </tr>
@@ -672,15 +520,7 @@ VAT Number
 </td>
 </tr>
 <tr><td align="left" >
-Venezuela, Bolivarian Republic of
-</td>
-</tr>
-<tr><td align="left" >
 View Receipt
-</td>
-</tr>
-<tr><td align="left" >
-Wallis and Futuna
 </td>
 </tr>
 <tr><td align="left" >
@@ -693,14 +533,6 @@ We are unable to process your payment. Please contact customer support.
 </tr>
 <tr><td align="left" >
 We will send a receipt download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
-</td>
-</tr>
-<tr><td align="left" >
-Whoops
-</td>
-</tr>
-<tr><td align="left" >
-Yearly
 </td>
 </tr>
 <tr><td align="left" >

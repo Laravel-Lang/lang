@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Ruangan ini mesti diterima pakai.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'URL ini adalah tidak sah.',
     'after'                => 'Tarikh mesti tarikh selepas :date.',
     'after_or_equal'       => 'Tarikh mesti tarikh selepas atau bersamaan :date.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'Ruangan ini adalah dilarang.',
     'prohibited_if'        => 'Ruangan ini adalah dilarang apabila :other adalah :value.',
     'prohibited_unless'    => 'Ruangan ini adalah dilarang kecuali :other adalah di :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Format tidak sah.',
     'relatable'            => 'Ruangan ini tidak boleh dikaitkan dengan sumber ini.',
     'required'             => 'Ruangan ini diperlukan.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

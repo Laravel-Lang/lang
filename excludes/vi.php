@@ -8,6 +8,8 @@
 | This is a list of exclusions for words or phrases where the original
 | form of the word has the same spelling in a given language.
 |
+| This list contains values.
+|
 */
 
 return [
@@ -91,6 +93,7 @@ return [
     'Ireland',
     'Israel',
     'Jamaica',
+    'Jane Doe',
     'Jersey',
     'Jordan',
     'Kazakhstan',

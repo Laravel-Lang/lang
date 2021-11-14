@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Laukas :attribute turi būti priimtas.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => 'Laukas :attribute nėra galiojantis internetinis adresas.',
     'after'                => 'Lauko :attribute reikšmė turi būti po :date datos.',
     'after_or_equal'       => 'Lauko :attribute reikšmė privalo būti data lygi arba vėlesnė negu :date.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => ':attribute laukas draudžiamas.',
     'prohibited_if'        => ':attribute laukas draudžiamas, kai :other yra :value.',
     'prohibited_unless'    => ':attribute laukas draudžiamas, nebent :other yra :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Negaliojantis lauko :attribute formatas.',
     'relatable'            => 'Šis :attribute gali būti nesusijęs su šiuo šaltiniu.',
     'required'             => 'Privaloma užpildyti lauką :attribute.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

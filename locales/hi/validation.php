@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => ':attribute को स्वीकार किया जाना चाहिए।',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => ':attribute एक मान्य URL नहीं है।',
     'after'                => ':attribute, :date के बाद की एक तारीख होनी चाहिए।',
     'after_or_equal'       => ':attribute, :date के बाद या उसके बराबर की तारीख होनी चाहिए।',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => ':attribute क्षेत्र निषिद्ध है । ',
     'prohibited_if'        => ':attribute क्षेत्र निषिद्ध है जब :other :value है । ',
     'prohibited_unless'    => ':attribute क्षेत्र तब तक निषिद्ध है जब तक कि :other :values में न हो । ',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute फॉर्मेट अमान्य है।',
     'relatable'            => 'यह :attribute इस संसाधन से संबद्ध नहीं हो सकता है । ',
     'required'             => ':attribute फील्ड आवश्यक होता है।',
@@ -127,13 +129,5 @@ return [
         'attribute-name' => [
             'rule-name' => 'अनुकूल-संदेश',
         ],
-    ],
-    'attributes'           => [
-        'image'                   => 'छवि',
-        'result_text_under_image' => 'छवि के नीचे परिणाम पाठ',
-        'short_text'              => 'लघु पाठ',
-        'test_description'        => 'टेस्ट का विवरण',
-        'test_locale'             => 'भाषा',
-        'test_name'               => 'टेस्ट का नाम',
     ],
 ];

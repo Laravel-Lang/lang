@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Polje :attribute mora biti prihvaćeno.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => 'Polje :attribute nije validan URL.',
     'after'                => 'Polje :attribute mora biti datum nakon :date.',
     'after_or_equal'       => 'Polje :attribute mora biti datum nakon ili jednak :date.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => ':attribute polje je zabranjeno.',
     'prohibited_if'        => ':attribute polje je zabranjeno kada :other ima :value.',
     'prohibited_unless'    => 'Polje :attribute je zabranjeno osim ako :other nije :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Format polja :attribute nije ispravan.',
     'relatable'            => 'Ova :attribute možda nema veze sa ovim resursom.',
     'required'             => 'Polje :attribute je obavezno.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

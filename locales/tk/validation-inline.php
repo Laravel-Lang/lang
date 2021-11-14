@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'This field must be accepted.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'This is not a valid URL.',
     'after'                => 'This must be a date after :date.',
     'after_or_equal'       => 'This must be a date after or equal to :date.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'This field is prohibited.',
     'prohibited_if'        => 'This field is prohibited when :other is :value.',
     'prohibited_unless'    => 'This field is prohibited unless :other is in :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'This format is invalid.',
     'relatable'            => 'This field may not be associated with this resource.',
     'required'             => 'This field is required.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

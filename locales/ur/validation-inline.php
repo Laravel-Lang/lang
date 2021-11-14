@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'اس میدان قبول کرنا ضروری ہے.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'یہ نہیں ہے ایک درست یو آر ایل.',
     'after'                => 'یہ ہونا ضروری ہے ، ایک تاریخ کے بعد :date.',
     'after_or_equal'       => 'یہ ہونا ضروری ہے ، ایک تاریخ کے بعد یا اس کے برابر :date.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'اس میدان میں ممنوع ہے.',
     'prohibited_if'        => 'اس میدان ممنوع ہے جب :other ہے :value.',
     'prohibited_unless'    => 'اس میدان ممنوع ہے جب تک کہ :other میں ہے :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'اس کی شکل باطل ہے.',
     'relatable'            => 'اس میدان منسلک نہیں کیا جا سکتا کے ساتھ اس کے وسائل.',
     'required'             => 'اس میدان کی ضرورت ہے.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

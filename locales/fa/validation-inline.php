@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'این مقدار باید پذیرفته شده باشد.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'این مقدار یک آدرس معتبر نیست.',
     'after'                => 'این مقدار باید یک تاریخ بعد از :date باشد.',
     'after_or_equal'       => 'این مقدار باید یک تاریخ مساوی یا بعد از :date باشد.',
@@ -31,7 +32,7 @@ return [
     ],
     'boolean'              => 'این مقدار باید حتما true و یا false باشد.',
     'confirmed'            => 'با مقدار تکرار همخوانی ندارد.',
-    'current_password'     => 'The password is incorrect.',
+    'current_password'     => 'رمز فعلی اشتباه است.',
     'date'                 => 'این مقدار یک تاریخ معبتر نیست.',
     'date_equals'          => 'این مقدار باید یک تاریخ مساوی با :date باشد.',
     'date_format'          => 'این مقدار با فرمت :format همخوانی ندارد.',
@@ -97,9 +98,10 @@ return [
     'numeric'              => 'این مقدار باید عددی باشد.',
     'password'             => 'رمزعبور اشتباه است.',
     'present'              => 'این مقدار باید وارد شده باشد.',
-    'prohibited'           => 'This field is prohibited.',
+    'prohibited'           => 'این فیلد ممنوع است.',
     'prohibited_if'        => 'This field is prohibited when :other is :value.',
     'prohibited_unless'    => 'This field is prohibited unless :other is in :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'این فرمت نامعتبر است.',
     'relatable'            => 'This field may not be associated with this resource.',
     'required'             => 'این مقدار ضروری است.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

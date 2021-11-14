@@ -2,7 +2,7 @@
 
 # ug
 
-##### All missed: 792
+##### All missed: 783
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/ug/auth.php)
@@ -43,7 +43,7 @@ Please wait before retrying.
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/ug/validation-inline.php)
 
-##### Missing: 95
+##### Missing: 89
 
 <table >
 <tr><td align="left" >
@@ -51,6 +51,13 @@ accepted
 </td>
 <td align="left" >
 This field must be accepted.
+</td>
+</tr>
+<tr><td align="left" >
+accepted_if
+</td>
+<td align="left" >
+This field must be accepted when :other is :value.
 </td>
 </tr>
 <tr><td align="left" >
@@ -299,27 +306,6 @@ The content must have :value items or more.
 </td>
 </tr>
 <tr><td align="left" >
-gte.file
-</td>
-<td align="left" >
-The file size must be greater than or equal :value kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-gte.numeric
-</td>
-<td align="left" >
-The value must be greater than or equal :value.
-</td>
-</tr>
-<tr><td align="left" >
-gte.string
-</td>
-<td align="left" >
-The string must be greater than or equal :value characters.
-</td>
-</tr>
-<tr><td align="left" >
 image
 </td>
 <td align="left" >
@@ -408,27 +394,6 @@ lte.array
 </td>
 <td align="left" >
 The content must not have more than :value items.
-</td>
-</tr>
-<tr><td align="left" >
-lte.file
-</td>
-<td align="left" >
-The file size must be less than or equal :value kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-lte.numeric
-</td>
-<td align="left" >
-The value must be less than or equal :value.
-</td>
-</tr>
-<tr><td align="left" >
-lte.string
-</td>
-<td align="left" >
-The string must be less than or equal :value characters.
 </td>
 </tr>
 <tr><td align="left" >
@@ -565,6 +530,13 @@ This field is prohibited unless :other is in :values.
 </td>
 </tr>
 <tr><td align="left" >
+prohibits
+</td>
+<td align="left" >
+This field prohibits :other from being present.
+</td>
+</tr>
+<tr><td align="left" >
 regex
 </td>
 <td align="left" >
@@ -677,13 +649,6 @@ This must be a string.
 </td>
 </tr>
 <tr><td align="left" >
-timezone
-</td>
-<td align="left" >
-This must be a valid zone.
-</td>
-</tr>
-<tr><td align="left" >
 unique
 </td>
 <td align="left" >
@@ -695,13 +660,6 @@ uploaded
 </td>
 <td align="left" >
 This failed to upload.
-</td>
-</tr>
-<tr><td align="left" >
-url
-</td>
-<td align="left" >
-This format is invalid.
 </td>
 </tr>
 <tr><td align="left" >
@@ -719,9 +677,16 @@ This must be a valid UUID.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/ug/validation.php)
 
-##### Missing: 29
+##### Missing: 25
 
 <table >
+<tr><td align="left" >
+accepted_if
+</td>
+<td align="left" >
+The :attribute must be accepted when :other is :value.
+</td>
+</tr>
 <tr><td align="left" >
 attached
 </td>
@@ -786,27 +751,6 @@ The :attribute must have :value items or more.
 </td>
 </tr>
 <tr><td align="left" >
-gte.file
-</td>
-<td align="left" >
-The :attribute must be greater than or equal :value kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-gte.numeric
-</td>
-<td align="left" >
-The :attribute must be greater than or equal :value.
-</td>
-</tr>
-<tr><td align="left" >
-gte.string
-</td>
-<td align="left" >
-The :attribute must be greater than or equal :value characters.
-</td>
-</tr>
-<tr><td align="left" >
 lt.array
 </td>
 <td align="left" >
@@ -839,27 +783,6 @@ lte.array
 </td>
 <td align="left" >
 The :attribute must not have more than :value items.
-</td>
-</tr>
-<tr><td align="left" >
-lte.file
-</td>
-<td align="left" >
-The :attribute must be less than or equal :value kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-lte.numeric
-</td>
-<td align="left" >
-The :attribute must be less than or equal :value.
-</td>
-</tr>
-<tr><td align="left" >
-lte.string
-</td>
-<td align="left" >
-The :attribute must be less than or equal :value characters.
 </td>
 </tr>
 <tr><td align="left" >
@@ -905,6 +828,13 @@ The :attribute field is prohibited unless :other is in :values.
 </td>
 </tr>
 <tr><td align="left" >
+prohibits
+</td>
+<td align="left" >
+The :attribute field prohibits :other from being present.
+</td>
+</tr>
+<tr><td align="left" >
 relatable
 </td>
 <td align="left" >
@@ -933,7 +863,7 @@ The :attribute must be a valid UUID.
 
 ### [ug](https://github.com/Laravel-Lang/lang/blob/master/locales/ug/ug.json)
 
-##### Missing: 666
+##### Missing: 667
 
 <table >
 <tr><td align="left" >
@@ -3132,6 +3062,10 @@ The government won't let us show you what's behind these doors
 </tr>
 <tr><td align="left" >
 The HasOne relationship has already been filled.
+</td>
+</tr>
+<tr><td align="left" >
+The password is incorrect.
 </td>
 </tr>
 <tr><td align="left" >

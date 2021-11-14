@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Энэ талбар нь Хүлээн авах естой.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'Энэ нь хүчинтэй хаяг биш юм.',
     'after'                => 'Энэ нь хойш огноо байх естой :date.',
     'after_or_equal'       => 'Энэ нь хойш, эсвэл тэнцүү байх естой :date.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'Энэ талбар нь хориглосон байна.',
     'prohibited_if'        => ':other онд :value он байх үед энэ талбарт хориглоно.',
     'prohibited_unless'    => 'Энэ талбар нь бол хориглосон байна :other онд байна :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Энэ хэлбэр нь хүчин төгөлдөр бус байна.',
     'relatable'            => 'Энэ талбар нь энэ нөөцийн холбоотой байж болох юм.',
     'required'             => 'Энэ талбар нь шаардлагатай байна.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

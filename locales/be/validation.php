@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Вы павінны прыняць :attribute.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => 'Поле :attribute утрымлівае несапраўдны URL.',
     'after'                => 'У полі :attribute павінна быць дата пасля :date.',
     'after_or_equal'       => ':attribute павінна быць датай пасля або роўнай :date.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'Поле :attribute забаронена.',
     'prohibited_if'        => 'Поле :attribute забаронена, калі :other роўна :value.',
     'prohibited_unless'    => 'Поле :attribute забаронена, калі толькі :other не знаходзіцца ў :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Поле :attribute мае памылковы фармат.',
     'relatable'            => 'Гэты :attribute можа быць не звязаны з гэтым рэсурсам.',
     'required'             => 'Поле :attribute абавязкова для запаўнення.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

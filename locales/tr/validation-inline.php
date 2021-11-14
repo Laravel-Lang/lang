@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Bu alan kabul edilmelidir.',
+    'accepted_if'          => 'Bu alan, :other değeri :value ise kabul edilmelidir.',
     'active_url'           => 'URL geçerli değil.',
     'after'                => 'Bu :date\'den sonraki bir tarih olmalı.',
     'after_or_equal'       => 'Bu, :date\'den sonra veya ona eşit bir tarih olmalıdır.',
@@ -31,7 +32,7 @@ return [
     ],
     'boolean'              => 'Bu alan doğru veya yanlış olmalıdır.',
     'confirmed'            => 'Onay eşleşmiyor.',
-    'current_password'     => 'The password is incorrect.',
+    'current_password'     => 'Parola hatalı.',
     'date'                 => 'Bu geçerli bir tarih değil.',
     'date_equals'          => 'Bu, :date\'a eşit bir tarih olmalıdır.',
     'date_format'          => 'Bu biçim :format eşleşmiyor.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'Bu alan kısıtlanmıştır.',
     'prohibited_if'        => ':other alanının değeri :value ise bu alana veri girişi yapılamaz.',
     'prohibited_unless'    => ':other alanı :value değerlerinden birisi değilse bu alana veri girişi yapılamaz.',
+    'prohibits'            => 'Bu alan :other alanının mevcut olmasını yasaklar.',
     'regex'                => 'Bu biçim geçersiz.',
     'relatable'            => 'Bu alan, bu kaynakla ilişkili olmayabilir.',
     'required'             => 'Bu alan gereklidir.',
@@ -128,5 +130,4 @@ return [
             'kural-adi' => 'Özel doğrulama mesajı',
         ],
     ],
-    'attributes'           => [],
 ];

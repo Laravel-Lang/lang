@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => ':attribute skal accepteres.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => ':attribute er ikke en gyldig URL.',
     'after'                => ':attribute skal være en dato efter :date.',
     'after_or_equal'       => ':attribute skal være en dato efter eller lig med :date.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => ':attribute-feltet er forbudt.',
     'prohibited_if'        => 'Feltet :attribute er forbudt, når :other er :value.',
     'prohibited_unless'    => ':attribute-feltet er forbudt, medmindre :other er i :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute formatet er ugyldigt.',
     'relatable'            => 'Denne :attribute er muligvis ikke knyttet til denne ressource.',
     'required'             => ':attribute skal udfyldes.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

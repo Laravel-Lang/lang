@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'यो क्षेत्र स्वीकार गर्नु पर्छ।',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'यो मान्य URL होईन।',
     'after'                => 'यो मिति पछाडि :date हुनुपर्दछ।',
     'after_or_equal'       => 'यो मिति पछाडि वा बराबर :date हुनुपर्दछ।',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'यो क्षेत्र निषेध छ । ',
     'prohibited_if'        => 'यो क्षेत्र निषेध छ जब :other छ :value.',
     'prohibited_unless'    => 'यो क्षेत्र निषेध छ नभएसम्म :other छ :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'यो ढाँचा अवैध छ।',
     'relatable'            => 'यो क्षेत्र हुन सक्छ, यस संग सम्बन्धित संसाधन । ',
     'required'             => 'यो फिल्ड आवाश्यक छ।',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

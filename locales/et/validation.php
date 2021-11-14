@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => ':attribute tuleb aktsepteerida.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => ':attribute ei ole kehtiv URL.',
     'after'                => ':attribute peab olema kuupäev pärast :date.',
     'after_or_equal'       => ':attribute peab olema kuupäev pärast või samastuma :date.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => ':attribute väli on keelatud.',
     'prohibited_if'        => ':attribute väli on keelatud, kui :other on :value.',
     'prohibited_unless'    => ':attribute väli on keelatud, välja arvatud juhul, kui :other on :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute vorming on vigane.',
     'relatable'            => 'See :attribute ei pruugi olla seotud selle ressursiga.',
     'required'             => ':attribute väli on nõutud.',
@@ -127,13 +129,5 @@ return [
         'attribute-name' => [
             'rule-name' => 'kohandatud-teade',
         ],
-    ],
-    'attributes'           => [
-        'image'                   => 'Pilt',
-        'result_text_under_image' => 'Tulemuse tekst pildi all',
-        'short_text'              => 'Lühitekst',
-        'test_description'        => 'Testi kirjeldus',
-        'test_locale'             => 'Keel',
-        'test_name'               => 'Testi nimi',
     ],
 ];

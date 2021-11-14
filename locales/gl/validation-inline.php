@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Este campo debe ser aceptado.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'Este non é un URL válido.',
     'after'                => 'Esta debe ser unha data despois de :date.',
     'after_or_equal'       => 'Esta debe ser unha data despois de que ou igual a :date.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'Este campo está prohibida.',
     'prohibited_if'        => 'Este campo está prohibida cando :other é :value.',
     'prohibited_unless'    => 'Este campo está prohibido, a menos que :other é en :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Este formato é válido.',
     'relatable'            => 'Este campo pode non ser asociado a este recurso.',
     'required'             => 'Este campo é obrigatorio.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

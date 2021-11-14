@@ -585,6 +585,7 @@
     "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "The given :attribute has appeared in a data leak. Please choose a different :attribute.",
     "The government won't let us show you what's behind these doors": "Vyriausybė neleis mums parodyti, kas yra už šių durų",
     "The HasOne relationship has already been filled.": "HasOne santykiai jau buvo užpildyti.",
+    "The password is incorrect.": "The password is incorrect.",
     "The payment was successful.": "Mokėjimas buvo sėkmingas.",
     "The provided coupon code is invalid.": "The provided coupon code is invalid.",
     "The provided password does not match your current password.": "Pateiktas slaptažodis nesutampa su jūsų dabartiniu slaptažodžiu.",

@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Dapat na tanggapin ang :attribute.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => 'Hindi valid na URL ang :attribute.',
     'after'                => 'Ang :attribute ay dapat na isang petsa pagkatapos ng :date.',
     'after_or_equal'       => 'Ang :attribute ay dapat na isang petsa na pagkatapos o katumbas ng :date.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'The :attribute field is prohibited.',
     'prohibited_if'        => 'The :attribute field is prohibited when :other is :value.',
     'prohibited_unless'    => 'The :attribute field is prohibited unless :other is in :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Hindi valid ang format na :attribute.',
     'relatable'            => 'This :attribute may not be associated with this resource.',
     'required'             => 'Kinakailangan ang field na :attribute.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

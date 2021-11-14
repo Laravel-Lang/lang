@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => ':attribute musí být přijat.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => ':attribute není platnou URL adresou.',
     'after'                => ':attribute musí být datum po :date.',
     'after_or_equal'       => ':attribute musí být datum :date nebo pozdější.',
@@ -31,7 +32,7 @@ return [
     ],
     'boolean'              => ':attribute musí být true nebo false',
     'confirmed'            => ':attribute nesouhlasí.',
-    'current_password'     => 'The password is incorrect.',
+    'current_password'     => 'Současné heslo není spravné.',
     'date'                 => ':attribute musí být platné datum.',
     'date_equals'          => ':attribute musí být datum shodné s :date.',
     'date_format'          => ':attribute není platný formát data podle :format.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'Pole :attribute je zakázáno.',
     'prohibited_if'        => 'Pole :attribute je zakázáno, když je :other :value.',
     'prohibited_unless'    => 'Pole :attribute je zakázáno, pokud není rok :other v roce :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute nemá správný formát.',
     'relatable'            => 'Tento :attribute nemusí být spojen s tímto zdrojem.',
     'required'             => ':attribute musí být vyplněno.',
@@ -127,8 +129,5 @@ return [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
-    ],
-    'attributes'           => [
-        'password' => 'heslo',
     ],
 ];

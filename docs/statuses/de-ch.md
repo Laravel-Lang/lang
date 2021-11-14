@@ -2,7 +2,7 @@
 
 # de_CH
 
-##### All missed: 116
+##### All missed: 122
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/de_CH/auth.php)
@@ -23,16 +23,48 @@ The provided password is incorrect.
 
 [ [go back](../status.md) | [to top](#) ]
 
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/de_CH/validation-inline.php)
+### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/master/locales/de_CH/validation-attributes.php)
 
 ##### Missing: 1
 
 <table >
 <tr><td align="left" >
+attributes.minute
+</td>
+<td align="left" >
+Minute
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/de_CH/validation-inline.php)
+
+##### Missing: 3
+
+<table >
+<tr><td align="left" >
+accepted_if
+</td>
+<td align="left" >
+This field must be accepted when :other is :value.
+</td>
+</tr>
+<tr><td align="left" >
 current_password
 </td>
 <td align="left" >
 The password is incorrect.
+</td>
+</tr>
+<tr><td align="left" >
+prohibits
+</td>
+<td align="left" >
+This field prohibits :other from being present.
 </td>
 </tr>
 
@@ -43,14 +75,28 @@ The password is incorrect.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/de_CH/validation.php)
 
-##### Missing: 1
+##### Missing: 3
 
 <table >
+<tr><td align="left" >
+accepted_if
+</td>
+<td align="left" >
+The :attribute must be accepted when :other is :value.
+</td>
+</tr>
 <tr><td align="left" >
 current_password
 </td>
 <td align="left" >
 The password is incorrect.
+</td>
+</tr>
+<tr><td align="left" >
+prohibits
+</td>
+<td align="left" >
+The :attribute field prohibits :other from being present.
 </td>
 </tr>
 
@@ -61,7 +107,7 @@ The password is incorrect.
 
 ### [de_CH](https://github.com/Laravel-Lang/lang/blob/master/locales/de_CH/de_CH.json)
 
-##### Missing: 113
+##### Missing: 114
 
 <table >
 <tr><td align="left" >
@@ -379,6 +425,10 @@ The :attribute must contain at least one uppercase and one lowercase letter.
 </tr>
 <tr><td align="left" >
 The given :attribute has appeared in a data leak. Please choose a different :attribute.
+</td>
+</tr>
+<tr><td align="left" >
+The password is incorrect.
 </td>
 </tr>
 <tr><td align="left" >

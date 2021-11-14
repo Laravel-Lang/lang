@@ -22,6 +22,8 @@ final class Referents
 
     public const nl = ['WhereIsLucas'];
 
+    public const pl = ['Olsza'];
+
     public const pt = ['jorgercosta'];
 
     public const ru = ['andrey-helldar'];

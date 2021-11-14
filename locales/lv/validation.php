@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => ':attribute ir jābūt pieņemtam.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => ':attribute ir ar nederīgu saiti.',
     'after'                => ':attribute ir jābūt ar datumu pēc :date.',
     'after_or_equal'       => ':attribute ir jābūt ar datumu pēc vai vienādu ar :date.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => ':attribute lauks ir aizliegts.',
     'prohibited_if'        => ':attribute lauks ir aizliegts, ja :other ir :value.',
     'prohibited_unless'    => ':attribute lauks ir aizliegts, ja vien :other nav :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute formāts ir nederīgs.',
     'relatable'            => 'Šis :attribute var nebūt saistīts ar šo resursu.',
     'required'             => ':attribute lauks ir obligāts.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'ziņa pēc pieprasījuma',
         ],
     ],
-    'attributes'           => [],
 ];

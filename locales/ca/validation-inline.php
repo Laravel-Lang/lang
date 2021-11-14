@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Aquest camp ha de ser acceptat.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'No es tracta d\'una URL vàlida.',
     'after'                => 'Aquesta ha de ser una data després de :date.',
     'after_or_equal'       => 'Aquest ha de ser un dia després o igual a :date.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'Aquest camp està prohibit.',
     'prohibited_if'        => 'Aquest camp és prohibida quan :other és :value.',
     'prohibited_unless'    => 'Aquest camp és prohibida, tret que :other és a :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Aquest format no és vàlida.',
     'relatable'            => 'Aquest camp no pot estar associat amb aquest recurs.',
     'required'             => 'Aquest camp és obligatori.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

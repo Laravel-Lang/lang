@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Lo camp :attribute deu èsser acceptat.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => 'Lo camp :attribute es pas una URL valida.',
     'after'                => 'Lo camp :attribute deu èsser una data posteriora a :date.',
     'after_or_equal'       => 'Lo camp :attribute deu èsser una data posteriora o egala a :date.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'The :attribute field is prohibited.',
     'prohibited_if'        => 'The :attribute field is prohibited when :other is :value.',
     'prohibited_unless'    => 'The :attribute field is prohibited unless :other is in :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Lo format :attribute es invalid.',
     'relatable'            => 'This :attribute may not be associated with this resource.',
     'required'             => 'Lo camp :attribute es obligatòri.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'messatge-personalizat',
         ],
     ],
-    'attributes'           => [],
 ];

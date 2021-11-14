@@ -585,6 +585,7 @@
     "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "La :attribute proporcionada se ha visto comprometida en una filtración de datos (data leak). Elija una :attribute diferente.",
     "The government won't let us show you what's behind these doors": "El gobierno no nos permitirá mostrarle lo que hay detrás de estas puertas",
     "The HasOne relationship has already been filled.": "La relación HasOne ya fué completada.",
+    "The password is incorrect.": "La contraseña es incorrecta.",
     "The payment was successful.": "El pago fue exitoso.",
     "The provided coupon code is invalid.": "El código de cupón proporcionado no es válido.",
     "The provided password does not match your current password.": "La contraseña proporcionada no coincide con su contraseña actual.",

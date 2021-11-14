@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Isian ini harus diterima.',
+    'accepted_if'          => 'Isian ini harus diterima ketika :other berisi :value.',
     'active_url'           => 'URL ini tidak sah.',
     'after'                => 'Tanggal harus berisi setelah :date.',
     'after_or_equal'       => 'Tanggal harus berisi setelah atau sama dengan :date.',
@@ -31,7 +32,7 @@ return [
     ],
     'boolean'              => 'Isian ini harus berisi true atau false.',
     'confirmed'            => 'Konfirmasi tidak sesuai.',
-    'current_password'     => 'The password is incorrect.',
+    'current_password'     => 'Kata sandi salah.',
     'date'                 => 'Isian ini bukan tanggal yang benar.',
     'date_equals'          => 'Isian ini harus berisi tanggal yang sama dengan :date.',
     'date_format'          => 'Isian ini tidak cocok dengan format :format.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'Isian ini tidak boleh ada.',
     'prohibited_if'        => 'Isian ini tidak boleh ada bila :other adalah :value.',
     'prohibited_unless'    => 'Isian ini tidak boleh ada kecuali :other memiliki nilai :values.',
+    'prohibits'            => 'Isian ini melarang isian :other untuk ditampilkan.',
     'regex'                => 'Format ini tidak sesuai.',
     'relatable'            => 'Isian ini mungkin tidak berasosiasi dengan sumber ini.',
     'required'             => 'Isian ini wajib diisi',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

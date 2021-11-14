@@ -2,19 +2,33 @@
 
 # af
 
-##### All missed: 90
+##### All missed: 95
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/af/validation-inline.php)
 
-##### Missing: 1
+##### Missing: 3
 
 <table >
+<tr><td align="left" >
+accepted_if
+</td>
+<td align="left" >
+This field must be accepted when :other is :value.
+</td>
+</tr>
 <tr><td align="left" >
 current_password
 </td>
 <td align="left" >
 The password is incorrect.
+</td>
+</tr>
+<tr><td align="left" >
+prohibits
+</td>
+<td align="left" >
+This field prohibits :other from being present.
 </td>
 </tr>
 
@@ -25,14 +39,28 @@ The password is incorrect.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/af/validation.php)
 
-##### Missing: 1
+##### Missing: 3
 
 <table >
+<tr><td align="left" >
+accepted_if
+</td>
+<td align="left" >
+The :attribute must be accepted when :other is :value.
+</td>
+</tr>
 <tr><td align="left" >
 current_password
 </td>
 <td align="left" >
 The password is incorrect.
+</td>
+</tr>
+<tr><td align="left" >
+prohibits
+</td>
+<td align="left" >
+The :attribute field prohibits :other from being present.
 </td>
 </tr>
 
@@ -43,7 +71,7 @@ The password is incorrect.
 
 ### [af](https://github.com/Laravel-Lang/lang/blob/master/locales/af/af.json)
 
-##### Missing: 88
+##### Missing: 89
 
 <table >
 <tr><td align="left" >
@@ -277,6 +305,10 @@ The :attribute must contain at least one uppercase and one lowercase letter.
 </tr>
 <tr><td align="left" >
 The given :attribute has appeared in a data leak. Please choose a different :attribute.
+</td>
+</tr>
+<tr><td align="left" >
+The password is incorrect.
 </td>
 </tr>
 <tr><td align="left" >

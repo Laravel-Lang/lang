@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Mae\'r maes hwn yn rhaid i gael eu derbyn.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'Nid yw hyn yn ddilys URL.',
     'after'                => 'Rhaid i hwn fod yn ddyddiad ar ôl :date.',
     'after_or_equal'       => 'Rhaid i hwn fod yn ddyddiad ar ôl neu yn hafal i :date.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'Y maes hwn yn cael ei wahardd.',
     'prohibited_if'        => 'Y maes hwn yn cael ei wahardd pan :other yn :value.',
     'prohibited_unless'    => 'Y maes hwn yn cael ei wahardd oni bai :other yn :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Mae\'r fformat hwn yn annilys.',
     'relatable'            => 'Y maes hwn gall nid yw fod yn gysylltiedig â\'r adnodd hwn.',
     'required'             => 'Mae\'r maes hwn yn ofynnol.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

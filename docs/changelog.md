@@ -9,6 +9,135 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+### Changed
+
+ * feature: [bg] #1902 #1903 validation.php, validation-inline.php, auth.php, json file
+ * feature: [ru] #1904 validation.php
+
+## [10.1.10] - 2021-11-03
+
+### Changed
+
+ * fix: [gu]
+
+## [10.1.9] - 2021-11-03
+
+### Changed
+
+ * feature: [fa] #1890 #1891 json file
+ * feature: [id] #1899 #1901 validation.php, validation-inline.php, validation-attributes.php, exclude
+ * feature: [it] #1885 #1898 json file
+ * feature: [nl] #1893 validation-attributes.php
+ * feature: [pl] #1896 #1897 validation.php, validation-inline.php
+ * feature: [sv] #1892 json file
+ * feature: [tr] #1895 validation.php, validation-inline.php, validation-attributes.php, json file
+ * new: [gu] #1849
+
+### Reference
+
+ * feature: #1894 Update lte and gte validation messages to have a grammatically parallel structure
+
+## [10.1.8] - 2021-10-21
+
+### Changed
+
+ * feature: [ar] #1874 validation-attributes.php
+ * feature: [ca] #1864 json file
+ * feature: [de] #1866 exclude file
+ * feature: [et] #1873 auth.php, passwords.php, validation-inline.php
+ * feature: [fa] #1875 #1878 #1879 #1882 #1886 #1887 validation-inline.php, json file
+ * feature: [ka] #1877 #1881 validation.php, validation-inline.php, json file
+ * feature: [sl] #1870 validation.php, validation-inline.php, validation-attributes.php, json file
+ * feature: [sv] #1884 json file
+ * feature: [zh_CN] #1872 validation.php, validation-inline.php
+
+### Todo script
+
+ * fix: #1867 filtering items for compiling documentation
+
+## [10.1.7] - 2021-09-27
+
+### Changed
+
+ * feature: [ar] #1860 validation.php, validation-inline.php
+ * feature: [ca] #1847 json file
+ * feature: [fa] #1851 validation-inline.php
+ * feature: [fr] #1854 #1855 #1856 validation-inline.php, validation.php, json file
+ * feature: [it] #1846 validation.php, validation-inlinde.php, json file
+ * feature: [mr] #1839 auth.php, passwords.php, validation.php, validation-inlinde.php, json file
+ * feature: [ng] #1852 auth.php, validation-inline.php, json file
+ * feature: [nb] #1853 validation.php
+ * feature: [nl] #1844 validation.php
+ * feature: [pt_BR] #1843 json file
+ * feature: [ru] #1858 validation.php, validation-inline.php
+ * feature: [si] #1845 auth.php, passwords.php, validation.php, validation-inlinde.php, json file
+ * feature: [uk] #1850 passwords.php
+
+### Todo script
+
+ * feature: #1862 Attribute names exported to external file
+ * fix: #1859 Parser deletes some existing tags for Laravel Jetstream
+ * fix: #1861 for removing keys from `validation.attributes` in translation managers
+
+## [10.1.6] - 2021-09-05
+
+### Changed
+
+* feature: [de] #1837 #1840 validation.php, validation-inlinde.php, json file
+* feature: [es] #1841 validation.php, validation-inlinde.php
+* feature: [fr] validation.php, validation-inlinde.php
+* feature: [hy] #1836 validation.php, validation-inlinde.php, json file
+* feature: [id] #1835 validation.php, validation-inlinde.php, json file
+* feature: [tr] #1838 validation.php, validation-inlinde.php, json file
+
+### Reference
+
+ * feature: #1840 add validation{-inline}.prohibits
+
+## [10.1.5] - 2021-08-29
+
+### Changed
+
+ * feature: [ar] #1833 validation-inline.php, validation.php
+ * feature: [de] #1818 validation-inline.php, validation.php
+ * feature: [es] #1830 validation-inline.php, validation.php
+ * feature: [fr] validation-inline.php, validation.php
+ * feature: [ru] #1828 #1829 validation-inline.php, validation.php, json file
+ * feature: [vi] #1834 validation-inline.php, validation.php
+
+### Reference
+
+ * feature: #1818 add validation{-inline}.accepted_if
+
+## [10.1.4] - 2021-08-24
+
+### Changed
+
+ * feature: [ar] #1824 json file
+ * feature: [cs] #1827 auth.php, validation-inline.php, validation.php, json file
+ * feature: [de] #1805 validation.php
+ * feature: [es] #1802 #1817 #1826 validation-inline.php, validation.php, json file
+ * feature: [fr] #1825 json file
+ * feature: [id] #1806 #1808 #1809 #1816 validation-inline.php, validation.php, json file
+ * feature: [ka] #1813 validation.php
+ * feature: [nl] #1819 #1811 json file
+ * feature: [ru] #1804 json file
+ * feature: [vi] #1820 #1823 validation-inline.php, validation.php, json file
+ * feature: [zh_TW] #1814 json file
+
+### Reference
+
+ * feature: #1802 Update validation{-inline}.url
+ * feature: #1817 jetstream.The password is incorrect
+
+## [10.1.3] - 2021-07-08
+
+### Changed
+
+ * feature: [ar] #1794 #1797 #1801 validation.php, validation-inline.php, json file
+ * feature: [it] #1799 validation.php, validation-inline.php, json file
+ * feature: [pl] #1795 #1800 exclude, validation.php, validation-inline.php, json file
+
 ## [10.1.2] - 2021-06-29
 
 ### Changed
@@ -531,7 +660,15 @@ For more information, see #1606 and #1607.
 
 * feature: #1269 Rename locale folders following ISO 15897 format
 
-[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/10.1.2...master
+[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/10.1.10...master
+[10.1.10]: https://github.com/caouecs/Laravel-lang/compare/10.1.9...10.1.10
+[10.1.9]: https://github.com/caouecs/Laravel-lang/compare/10.1.8...10.1.9
+[10.1.8]: https://github.com/caouecs/Laravel-lang/compare/10.1.7...10.1.8
+[10.1.7]: https://github.com/caouecs/Laravel-lang/compare/10.1.6...10.1.7
+[10.1.6]: https://github.com/caouecs/Laravel-lang/compare/10.1.5...10.1.6
+[10.1.5]: https://github.com/caouecs/Laravel-lang/compare/10.1.4...10.1.5
+[10.1.4]: https://github.com/caouecs/Laravel-lang/compare/10.1.3...10.1.4
+[10.1.3]: https://github.com/caouecs/Laravel-lang/compare/10.1.2...10.1.3
 [10.1.2]: https://github.com/caouecs/Laravel-lang/compare/10.1.1...10.1.2
 [10.1.1]: https://github.com/caouecs/Laravel-lang/compare/10.1.0...10.1.1
 [10.1.0]: https://github.com/caouecs/Laravel-lang/compare/10.0.2...10.1.0

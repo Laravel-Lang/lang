@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => ':attribute må aksepteres.',
+    'accepted_if'          => ':attribute må aksepteres når :other er :value.',
     'active_url'           => ':attribute er ikke en gyldig URL.',
     'after'                => ':attribute må være en dato etter :date.',
     'after_or_equal'       => ':attribute må være en dato etter eller lik :date.',
@@ -31,7 +32,7 @@ return [
     ],
     'boolean'              => ':attribute må være sann eller usann',
     'confirmed'            => ':attribute er ikke likt bekreftelsesfeltet.',
-    'current_password'     => 'The password is incorrect.',
+    'current_password'     => 'Oppgitt passord er feil.',
     'date'                 => ':attribute er ikke en gyldig dato.',
     'date_equals'          => ':attribute må være en dato lik :date.',
     'date_format'          => ':attribute samsvarer ikke med formatet :format.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => ':attribute felt er forbudt.',
     'prohibited_if'        => ':attribute felt er forbudt når :other er :value.',
     'prohibited_unless'    => ':attribute felt er forbudt med mindre :other er i :values.',
+    'prohibits'            => ':attribute forbyr :other å være til stede.',
     'regex'                => 'Formatet på :attribute er ugyldig.',
     'relatable'            => ':attribute kan ikke være knyttet til denne ressursen.',
     'required'             => ':attribute må fylles ut.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

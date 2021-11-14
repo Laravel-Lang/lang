@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => ':attribute تسلیم کرنا لازمی ہے۔',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => ':attribute قابلِ قبول یو آر ایل نہیں ہے۔',
     'after'                => ':attribute لازماً :date کے بعد کی کوئی تاریخ ہو۔',
     'after_or_equal'       => 'اس :attribute ہونا ضروری ہے ، ایک تاریخ کے بعد یا اس کے برابر :date.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'اس :attribute میدان ممنوع ہے.',
     'prohibited_if'        => 'اس :attribute میدان ممنوع ہے جب :other ہے :value.',
     'prohibited_unless'    => 'اس :attribute میدان ممنوع ہے جب تک کہ :other میں ہے :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute قابلِ قبول فارمیٹ میں نہیں ہے۔',
     'relatable'            => 'اس :attribute منسلک نہیں کیا جا سکتا کے ساتھ اس کے وسائل.',
     'required'             => ':attribute فیلڈ درکار ہے۔',
@@ -127,13 +129,5 @@ return [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
-    ],
-    'attributes'           => [
-        'image'                   => 'تصویر',
-        'result_text_under_image' => 'تصویر کے تحت نتیجے کا متن',
-        'short_text'              => 'مختصر متن',
-        'test_description'        => 'ٹیسٹ کی تفصیلات',
-        'test_locale'             => 'زبان',
-        'test_name'               => 'ٹیسٹ کا نام',
     ],
 ];

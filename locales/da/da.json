@@ -585,6 +585,7 @@
     "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "The given :attribute has appeared in a data leak. Please choose a different :attribute.",
     "The government won't let us show you what's behind these doors": "Regeringen vil ikke lade os vise dig, hvad der er bag disse døre",
     "The HasOne relationship has already been filled.": "HasOne-forholdet er allerede udfyldt.",
+    "The password is incorrect.": "The password is incorrect.",
     "The payment was successful.": "Betalingen var vellykket.",
     "The provided coupon code is invalid.": "The provided coupon code is invalid.",
     "The provided password does not match your current password.": "Den angivne adgangskode svarer ikke til din nuværende adgangskode.",

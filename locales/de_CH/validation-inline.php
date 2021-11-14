@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Dieses Feld muss akzeptiert werden.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'Das ist keine gültige Internet-Adresse.',
     'after'                => 'Das muss ein Datum nach dem :date sein.',
     'after_or_equal'       => 'Das muss ein Datum nach dem :date oder gleich dem :date sein.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'Dieses Feld ist gesperrt.',
     'prohibited_if'        => 'Dieses Feld ist gesperrt, wenn :other :value ist.',
     'prohibited_unless'    => 'Dieses Feld ist gesperrt, wenn :other nicht :values ist.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Dieses Format ist ungültig.',
     'relatable'            => 'Das kann nicht mit dieser Ressource verbunden werden.',
     'required'             => 'Dieses Feld muss ausgefüllt sein.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

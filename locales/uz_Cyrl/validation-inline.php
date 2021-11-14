@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Bu sohani qabul qilish kerak.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'Bu amal URL emas.',
     'after'                => 'Bu keyin bir sana bo\'lishi kerak :date.',
     'after_or_equal'       => 'Bu :date dan keyingi yoki unga teng sana bo\'lishi kerak.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'Bu maydon taqiqlanadi.',
     'prohibited_if'        => ':other :value bo\'lganda bu maydon taqiqlanadi.',
     'prohibited_unless'    => ':other :values da ekan bu soha taqiqlanadi.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Bu format asossiz hisoblanadi.',
     'relatable'            => 'Bu soha ushbu resurs bilan bog\'liq bo\'lmasligi mumkin.',
     'required'             => 'Bu maydon talab qilinadi.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

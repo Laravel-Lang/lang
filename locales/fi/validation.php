@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Kenttä :attribute tulee hyväksyä.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => 'Kentän :attribute tulee olla kelvollinen URL-osoite.',
     'after'                => 'Kentän :attribute päiväyksen tulee olla jälkeen :date.',
     'after_or_equal'       => 'Kentän :attribute päiväyksen tulee olla sama ja jälkeen :date',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => ':attribute-kenttä on kielletty.',
     'prohibited_if'        => ':attribute-kenttä on kielletty, kun :other on :value.',
     'prohibited_unless'    => ':attribute-kenttä on kielletty, ellei :other ole kohteessa :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Kentän :attribute arvo on väärää muotoa.',
     'relatable'            => 'Tätä :attribute: ää ei saa yhdistää tähän resurssiin.',
     'required'             => 'Kenttä :attribute vaaditaan.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

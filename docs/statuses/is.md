@@ -2,7 +2,7 @@
 
 # is
 
-##### All missed: 151
+##### All missed: 152
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/is/auth.php)
@@ -37,11 +37,43 @@ Too many login attempts. Please try again in :seconds seconds.
 
 [ [go back](../status.md) | [to top](#) ]
 
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/is/validation-inline.php)
+### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/master/locales/is/validation-attributes.php)
 
-##### Missing: 33
+##### Missing: 2
 
 <table >
+<tr><td align="left" >
+attributes.excerpt
+</td>
+<td align="left" >
+Excerpt
+</td>
+</tr>
+<tr><td align="left" >
+attributes.sex
+</td>
+<td align="left" >
+Sex
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/is/validation-inline.php)
+
+##### Missing: 29
+
+<table >
+<tr><td align="left" >
+accepted_if
+</td>
+<td align="left" >
+This field must be accepted when :other is :value.
+</td>
+</tr>
 <tr><td align="left" >
 between.array
 </td>
@@ -113,27 +145,6 @@ The content must have :value items or more.
 </td>
 </tr>
 <tr><td align="left" >
-gte.file
-</td>
-<td align="left" >
-The file size must be greater than or equal :value kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-gte.numeric
-</td>
-<td align="left" >
-The value must be greater than or equal :value.
-</td>
-</tr>
-<tr><td align="left" >
-gte.string
-</td>
-<td align="left" >
-The string must be greater than or equal :value characters.
-</td>
-</tr>
-<tr><td align="left" >
 lt.array
 </td>
 <td align="left" >
@@ -166,27 +177,6 @@ lte.array
 </td>
 <td align="left" >
 The content must not have more than :value items.
-</td>
-</tr>
-<tr><td align="left" >
-lte.file
-</td>
-<td align="left" >
-The file size must be less than or equal :value kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-lte.numeric
-</td>
-<td align="left" >
-The value must be less than or equal :value.
-</td>
-</tr>
-<tr><td align="left" >
-lte.string
-</td>
-<td align="left" >
-The string must be less than or equal :value characters.
 </td>
 </tr>
 <tr><td align="left" >
@@ -246,6 +236,13 @@ The string must be at least :min characters.
 </td>
 </tr>
 <tr><td align="left" >
+prohibits
+</td>
+<td align="left" >
+This field prohibits :other from being present.
+</td>
+</tr>
+<tr><td align="left" >
 size.array
 </td>
 <td align="left" >
@@ -281,14 +278,28 @@ The string must be :size characters.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/is/validation.php)
 
-##### Missing: 1
+##### Missing: 3
 
 <table >
+<tr><td align="left" >
+accepted_if
+</td>
+<td align="left" >
+The :attribute must be accepted when :other is :value.
+</td>
+</tr>
 <tr><td align="left" >
 current_password
 </td>
 <td align="left" >
 The password is incorrect.
+</td>
+</tr>
+<tr><td align="left" >
+prohibits
+</td>
+<td align="left" >
+The :attribute field prohibits :other from being present.
 </td>
 </tr>
 
@@ -299,7 +310,7 @@ The password is incorrect.
 
 ### [is](https://github.com/Laravel-Lang/lang/blob/master/locales/is/is.json)
 
-##### Missing: 114
+##### Missing: 115
 
 <table >
 <tr><td align="left" >
@@ -621,6 +632,10 @@ The :attribute must contain at least one uppercase and one lowercase letter.
 </tr>
 <tr><td align="left" >
 The given :attribute has appeared in a data leak. Please choose a different :attribute.
+</td>
+</tr>
+<tr><td align="left" >
+The password is incorrect.
 </td>
 </tr>
 <tr><td align="left" >

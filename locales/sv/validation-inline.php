@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Detta fält måste accepteras.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'Detta är inte en giltig URL.',
     'after'                => 'Detta måste vara ett datum efter :date.',
     'after_or_equal'       => 'Detta måste vara ett datum efter eller lika med :date.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'Detta fält är förbjudet.',
     'prohibited_if'        => 'Detta fält är förbjudet när :other är :value.',
     'prohibited_unless'    => 'Detta fält är förbjudet om inte :other är i :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Detta format är ogiltigt.',
     'relatable'            => 'Det här fältet kanske inte är associerat med den här resursen.',
     'required'             => 'Detta fält krävs.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

@@ -585,6 +585,7 @@
     "The given :attribute has appeared in a data leak. Please choose a different :attribute.": ":attributeはデータ漏洩の対象だった可能性があります。別の:attributeを選んでください。",
     "The government won't let us show you what's behind these doors": "政府はこれらのドアの背後にあるものをお見せさせません",
     "The HasOne relationship has already been filled.": "HasOneの関係はすでに満たされています。",
+    "The password is incorrect.": "The password is incorrect.",
     "The payment was successful.": "支払いは成功しました。",
     "The provided coupon code is invalid.": "クーポンコードが無効です。",
     "The provided password does not match your current password.": "パスワードが現在のパスワードと一致しません。",

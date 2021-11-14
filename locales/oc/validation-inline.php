@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Aqueste camp deu èsser acceptat.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'Aquò es pas una URL valida.',
     'after'                => 'La data deu èsser posteriora a :date.',
     'after_or_equal'       => 'La data deu èsser posteriora o egala a :date.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'This field is prohibited.',
     'prohibited_if'        => 'This field is prohibited when :other is :value.',
     'prohibited_unless'    => 'This field is prohibited unless :other is in :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Lo format del camp es invalid.',
     'relatable'            => 'This field may not be associated with this resource.',
     'required'             => 'Aqueste camp es obligatòri.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'messatge-personalizat',
         ],
     ],
-    'attributes'           => [],
 ];

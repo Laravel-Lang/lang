@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Acest câmp trebuie acceptat.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'Aceasta nu este o adresă URL validă.',
     'after'                => 'Aceasta trebuie să fie o dată după :date.',
     'after_or_equal'       => 'Aceasta trebuie să fie o dată după sau egală cu :date.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'Acest câmp este interzis.',
     'prohibited_if'        => 'Acest câmp este interzis atunci când :other este :value.',
     'prohibited_unless'    => 'Acest câmp este interzis, cu excepția cazului în care :other este în :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Acest format este nevalid.',
     'relatable'            => 'Este posibil ca acest câmp să nu fie asociat cu această resursă.',
     'required'             => 'Acest câmp este obligatoriu.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

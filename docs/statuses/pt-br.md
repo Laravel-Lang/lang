@@ -2,19 +2,33 @@
 
 # pt_BR
 
-##### All missed: 107
+##### All missed: 111
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/pt_BR/validation-inline.php)
 
-##### Missing: 1
+##### Missing: 3
 
 <table >
+<tr><td align="left" >
+accepted_if
+</td>
+<td align="left" >
+This field must be accepted when :other is :value.
+</td>
+</tr>
 <tr><td align="left" >
 current_password
 </td>
 <td align="left" >
 The password is incorrect.
+</td>
+</tr>
+<tr><td align="left" >
+prohibits
+</td>
+<td align="left" >
+This field prohibits :other from being present.
 </td>
 </tr>
 
@@ -25,14 +39,28 @@ The password is incorrect.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/pt_BR/validation.php)
 
-##### Missing: 1
+##### Missing: 3
 
 <table >
+<tr><td align="left" >
+accepted_if
+</td>
+<td align="left" >
+The :attribute must be accepted when :other is :value.
+</td>
+</tr>
 <tr><td align="left" >
 current_password
 </td>
 <td align="left" >
 The password is incorrect.
+</td>
+</tr>
+<tr><td align="left" >
+prohibits
+</td>
+<td align="left" >
+The :attribute field prohibits :other from being present.
 </td>
 </tr>
 
@@ -152,11 +180,6 @@ I accept the terms of service
 </tr>
 <tr><td align="left" >
 If you need to add specific contact or tax information to your receipts, like your full business name, VAT identification number, or address of record, you may add it here.
-</td>
-</tr>
-<tr><td align="left" >
-If you're having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser:
 </td>
 </tr>
 <tr><td align="left" >
@@ -329,6 +352,10 @@ Thanks for your continued support. We've attached a copy of your invoice for you
 </tr>
 <tr><td align="left" >
 Thanks,
+</td>
+</tr>
+<tr><td align="left" >
+The password is incorrect.
 </td>
 </tr>
 <tr><td align="left" >

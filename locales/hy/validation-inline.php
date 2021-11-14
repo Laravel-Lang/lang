@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Այս դաշտը պետք է ընդունվի։',
+    'accepted_if'          => 'Այս դաշտը պետք է ընդունվի երբ :other համապատասխանում է :value։',
     'active_url'           => 'Այս դաշտը վավեր URL չէ։',
     'after'                => 'Այս դաշտի ամսաթիվը պետք է լինի :date-ից հետո։',
     'after_or_equal'       => 'Այս դաշտի ամսաթիվը պետք է լինի :date կամ դրանից հետո։',
@@ -31,7 +32,7 @@ return [
     ],
     'boolean'              => 'Այս դաշտի արժեքը պետք է լինի ճշմարիտ կամ կեղծ։',
     'confirmed'            => 'Հաստատումը չի համապատասխանում։',
-    'current_password'     => 'The password is incorrect.',
+    'current_password'     => 'Այս դաշտը պարունակում է անվավեր գաղտնաբառ։',
     'date'                 => 'Այս դաշտի արժեքը վավեր ամսաթիվ չէ։',
     'date_equals'          => 'Այս դաշտում ամսաթիվը պետք է լինի :date։',
     'date_format'          => 'Այս դաշտի արժեքը չի համապատասխանում :format ձևաչափին։',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'Այս դաշտը արգելված է։',
     'prohibited_if'        => 'Այս դաշտը արգելված է երբ :other դաշտի արժեքը :value է։',
     'prohibited_unless'    => 'Այս դաշտը արգելված է քանի դեռ :other դաշտի արժեքը :values միջակայքում չի։',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Այս դաշտի ձևաչափը սխալ է։',
     'relatable'            => 'Այս դաշտը չի կարող կցվել տվյալ ռեսուրսին։',
     'required'             => 'Այս դաշտը պարտադիր է։',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

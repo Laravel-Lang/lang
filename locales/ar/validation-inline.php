@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'يجب قبول هذا الحقل.',
+    'accepted_if'          => 'يجب قبول هذا الحقل في حالة :other يساوي :value.',
     'active_url'           => 'لا يُمثّل رابطًا صحيحًا.',
     'after'                => 'يجب أن يكون تاريخًا لاحقًا للتاريخ :date.',
     'after_or_equal'       => 'يجب أن يكون تاريخاً لاحقاً أو مطابقاً للتاريخ :date.',
@@ -31,7 +32,7 @@ return [
     ],
     'boolean'              => 'يجب أن تكون قيمة هذا الحقل إما true أو false .',
     'confirmed'            => 'التأكيد غير متطابق.',
-    'current_password'     => 'The password is incorrect.',
+    'current_password'     => 'كلمة المرور غير صحيحة.',
     'date'                 => 'هذا ليس تاريخًا صحيحًا.',
     'date_equals'          => 'يجب أن يكون تاريخاً مطابقاً للتاريخ :date.',
     'date_format'          => 'لا يتوافق مع الشكل :format.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'هذا الحقل محظور.',
     'prohibited_if'        => 'هذا الحقل محظور إذا كان :other هو :value.',
     'prohibited_unless'    => 'هذا الحقل محظور ما لم يكن :other ضمن :values.',
+    'prohibits'            => 'هذا الحقل يحظر تواجد الحقل :other.',
     'regex'                => 'الصيغة غير صحيحة.',
     'relatable'            => 'هذا الحقل قد لا يكون مرتبطا بالمصدر المحدد.',
     'required'             => 'هذا الحقل مطلوب.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

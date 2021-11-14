@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Қиммати :attribute бояд қабул карда шавад.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => 'Қиммати :attribute дорои URL-и нодуруст мебошад.',
     'after'                => 'Қиммати :attribute бояд санаи баъд аз :date бошад.',
     'after_or_equal'       => 'Қиммати :attribute бояд санаи баъд ё баробари :date бошад.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'Майдони :attribute сол манъ аст.',
     'prohibited_if'        => 'Майдони :attribute манъ аст, аст, вақте ки :other баробар :value.',
     'prohibited_unless'    => 'Майдони :attribute манъ аст, агар танҳо :other аст, дар :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Формати :attribute нодуруст мебошад.',
     'relatable'            => 'Ин :attribute мумкин нест, вобаста ба ин захираҳо.',
     'required'             => ':attribute бояд дорои қиммат бошад.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

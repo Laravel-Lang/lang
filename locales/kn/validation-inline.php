@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'ಈ ಕ್ಷೇತ್ರದಲ್ಲಿ ಒಪ್ಪಿಕೊಳ್ಳಬೇಕು.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'ಈ ಒಂದು ಮಾನ್ಯವಾದ URL.',
     'after'                => 'ಈ ಮಾಡಬೇಕು ನಂತರ ಒಂದು ದಿನಾಂಕ :date.',
     'after_or_equal'       => 'ಈ ಮಾಡಬೇಕು ನಂತರ ಒಂದು ದಿನಾಂಕ ಅಥವಾ ಸಮಾನ :date.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'ಈ ಕ್ಷೇತ್ರದಲ್ಲಿ ನಿಷೇಧಿಸಲಾಗಿದೆ.',
     'prohibited_if'        => 'ಈ ಕ್ಷೇತ್ರದಲ್ಲಿ ನಿಷೇಧಿಸಲಾಗಿದೆ ಮಾಡಿದಾಗ :other ಆಗಿದೆ :value.',
     'prohibited_unless'    => 'ಈ ಕ್ಷೇತ್ರದಲ್ಲಿ ನಿಷೇಧಿಸಲಾಗಿದೆ ಹೊರತು :other ಆಗಿದೆ :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'ಈ ರೂಪದಲ್ಲಿ ಅಮಾನ್ಯವಾಗಿದೆ.',
     'relatable'            => 'ಈ ಕ್ಷೇತ್ರದಲ್ಲಿ ಸಂಬಂಧಿಸಿದ ಇರಬಹುದು ಈ ಸಂಪನ್ಮೂಲ.',
     'required'             => 'ಈ ಕ್ಷೇತ್ರದಲ್ಲಿ ಅಗತ್ಯವಿದೆ.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

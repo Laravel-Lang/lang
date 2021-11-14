@@ -585,6 +585,7 @@
     "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "The given :attribute has appeared in a data leak. Please choose a different :attribute.",
     "The government won't let us show you what's behind these doors": "Засгийн газар эдгээр хаалганы цаана юу байгааг бидэнд үзүүлэхгүй байх болно",
     "The HasOne relationship has already been filled.": "Тестостерон харилцаа аль хэдийн дүүрэн байна.",
+    "The password is incorrect.": "The password is incorrect.",
     "The payment was successful.": "Төлбөр амжилттай болсон.",
     "The provided coupon code is invalid.": "The provided coupon code is invalid.",
     "The provided password does not match your current password.": "Заасан нууц үг таны одоогийн нууц үг таарахгүй байх.",

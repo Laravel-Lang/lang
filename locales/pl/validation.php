@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Pole :attribute musi zostać zaakceptowane.',
+    'accepted_if'          => 'Pole :attribute musi zostać zaakceptowane gdy :other ma wartość :value.',
     'active_url'           => 'Pole :attribute jest nieprawidłowym adresem URL.',
     'after'                => 'Pole :attribute musi być datą późniejszą od :date.',
     'after_or_equal'       => 'Pole :attribute musi być datą nie wcześniejszą niż :date.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'Pole :attribute jest zabronione.',
     'prohibited_if'        => 'Pole :attribute jest zabronione, gdy :other to :value.',
     'prohibited_unless'    => 'Pole :attribute jest zabronione, chyba że :other jest w :values.',
+    'prohibits'            => 'Pole :attribute zabrania obecności :other.',
     'regex'                => 'Format pola :attribute jest nieprawidłowy.',
     'relatable'            => 'Ten :attribute może nie być powiązany z tym zasobem.',
     'required'             => 'Pole :attribute jest wymagane.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

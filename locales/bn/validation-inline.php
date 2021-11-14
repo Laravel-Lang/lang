@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'এই মাঠ গ্রহণ করা আবশ্যক.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'এটি একটি বৈধ ইউআরএল নয়.',
     'after'                => 'এই পরে একটি তারিখ হতে হবে :date.',
     'after_or_equal'       => 'এই পরে বা সমান একটি তারিখ হতে হবে :date.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'এই ক্ষেত্র নিষিদ্ধ.',
     'prohibited_if'        => 'এই ক্ষেত্রটি :other :value যখন নিষিদ্ধ.',
     'prohibited_unless'    => 'এই ক্ষেত্রটি নিষিদ্ধ, যদি না :other সালে হয় :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'এই বিন্যাসটি অবৈধ.',
     'relatable'            => 'এই ক্ষেত্রটি এই সম্পদ সঙ্গে যুক্ত হতে পারে না.',
     'required'             => 'এই ক্ষেত্রটি প্রয়োজন.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

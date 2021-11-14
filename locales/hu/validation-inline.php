@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Ezt a mezőt el kell fogadni.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'Ez nem érvényes URL.',
     'after'                => 'Ez egy dátum :date után.',
     'after_or_equal'       => 'Ennek :date után vagy azzal megegyező dátumnak kell lennie.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'Ez a mező tilos.',
     'prohibited_if'        => 'Ez a mező tilos, ha :other jelentése :value.',
     'prohibited_unless'    => 'Ez a mező tilos, kivéve, ha a :other :values-ben van.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Ez a formátum érvénytelen.',
     'relatable'            => 'Lehet, hogy ez a mező nem kapcsolódik ehhez az erőforráshoz.',
     'required'             => 'Ez a mező szükséges.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

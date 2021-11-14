@@ -2,151 +2,250 @@
 
 # nb
 
-##### All missed: 24
+##### All missed: 34
 
 
-### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/nb/auth.php)
+### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/master/locales/nb/validation-attributes.php)
 
-##### Missing: 1
+##### Missing: 34
 
 <table >
 <tr><td align="left" >
-password
+attributes.address
 </td>
 <td align="left" >
-The provided password is incorrect.
+Address
 </td>
 </tr>
-
-</table>
-
-
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/nb/validation-inline.php)
-
-##### Missing: 1
-
-<table >
 <tr><td align="left" >
-current_password
+attributes.age
 </td>
 <td align="left" >
-The password is incorrect.
+Age
 </td>
 </tr>
-
-</table>
-
-
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/nb/validation.php)
-
-##### Missing: 1
-
-<table >
 <tr><td align="left" >
-current_password
+attributes.body
 </td>
 <td align="left" >
-The password is incorrect.
-</td>
-</tr>
-
-</table>
-
-
-[ [go back](../status.md) | [to top](#) ]
-
-### [nb](https://github.com/Laravel-Lang/lang/blob/master/locales/nb/nb.json)
-
-##### Missing: 21
-
-<table >
-<tr><td align="left" >
-Apply
+Body
 </td>
 </tr>
 <tr><td align="left" >
-Apply Coupon
+attributes.city
+</td>
+<td align="left" >
+City
 </td>
 </tr>
 <tr><td align="left" >
-I accept the terms of service
+attributes.content
+</td>
+<td align="left" >
+Content
 </td>
 </tr>
 <tr><td align="left" >
-If you're having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser:
+attributes.country
+</td>
+<td align="left" >
+Country
 </td>
 </tr>
 <tr><td align="left" >
-Jane Doe
+attributes.date
+</td>
+<td align="left" >
+Date
 </td>
 </tr>
 <tr><td align="left" >
-Micronesia, Federated States of
+attributes.day
+</td>
+<td align="left" >
+Day
 </td>
 </tr>
 <tr><td align="left" >
-Payment Method
+attributes.description
+</td>
+<td align="left" >
+Description
 </td>
 </tr>
 <tr><td align="left" >
-Please accept the terms of service.
+attributes.email
+</td>
+<td align="left" >
+Email
 </td>
 </tr>
 <tr><td align="left" >
-Standalone Actions
+attributes.excerpt
+</td>
+<td align="left" >
+Excerpt
 </td>
 </tr>
 <tr><td align="left" >
-Subscription Pending
+attributes.first_name
+</td>
+<td align="left" >
+First Name
 </td>
 </tr>
 <tr><td align="left" >
-Svalbard and Jan Mayen
+attributes.gender
+</td>
+<td align="left" >
+Gender
 </td>
 </tr>
 <tr><td align="left" >
-There is no active subscription.
+attributes.hour
+</td>
+<td align="left" >
+Hour
 </td>
 </tr>
 <tr><td align="left" >
-This subscription cannot be resumed. Please create a new subscription.
+attributes.last_name
+</td>
+<td align="left" >
+Last Name
 </td>
 </tr>
 <tr><td align="left" >
-Trinidad and Tobago
+attributes.message
+</td>
+<td align="left" >
+Message
 </td>
 </tr>
 <tr><td align="left" >
-Update Payment Method
+attributes.minute
+</td>
+<td align="left" >
+Minute
 </td>
 </tr>
 <tr><td align="left" >
-View Receipt
+attributes.mobile
+</td>
+<td align="left" >
+Mobile
 </td>
 </tr>
 <tr><td align="left" >
-We are processing your subscription. Once the subscription has successfully processed, this page will update automatically. Typically, this process should only take a few seconds.
+attributes.month
+</td>
+<td align="left" >
+Month
 </td>
 </tr>
 <tr><td align="left" >
-You are already subscribed.
+attributes.name
+</td>
+<td align="left" >
+Name
 </td>
 </tr>
 <tr><td align="left" >
-You may accept this invitation by clicking the button below:
+attributes.password
+</td>
+<td align="left" >
+Password
 </td>
 </tr>
 <tr><td align="left" >
-Your current payment method is :paypal.
+attributes.password_confirmation
+</td>
+<td align="left" >
+Password Confirmation
 </td>
 </tr>
 <tr><td align="left" >
-Åland Islands
+attributes.phone
+</td>
+<td align="left" >
+Phone
+</td>
+</tr>
+<tr><td align="left" >
+attributes.photo
+</td>
+<td align="left" >
+Photo
+</td>
+</tr>
+<tr><td align="left" >
+attributes.price
+</td>
+<td align="left" >
+Price
+</td>
+</tr>
+<tr><td align="left" >
+attributes.role
+</td>
+<td align="left" >
+Role
+</td>
+</tr>
+<tr><td align="left" >
+attributes.second
+</td>
+<td align="left" >
+Second
+</td>
+</tr>
+<tr><td align="left" >
+attributes.sex
+</td>
+<td align="left" >
+Sex
+</td>
+</tr>
+<tr><td align="left" >
+attributes.subject
+</td>
+<td align="left" >
+Subject
+</td>
+</tr>
+<tr><td align="left" >
+attributes.terms
+</td>
+<td align="left" >
+Terms
+</td>
+</tr>
+<tr><td align="left" >
+attributes.time
+</td>
+<td align="left" >
+Time
+</td>
+</tr>
+<tr><td align="left" >
+attributes.title
+</td>
+<td align="left" >
+Title
+</td>
+</tr>
+<tr><td align="left" >
+attributes.username
+</td>
+<td align="left" >
+Username
+</td>
+</tr>
+<tr><td align="left" >
+attributes.year
+</td>
+<td align="left" >
+Year
 </td>
 </tr>
 

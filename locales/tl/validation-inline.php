@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Dapat na tinanggap ang patlang na ito.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'Ito ay hindi isang wastong URL.',
     'after'                => 'Ito ay dapat na isang petsa pagkatapos ng :date.',
     'after_or_equal'       => 'Ito ay dapat na isang petsa pagkatapos o katumbas ng :date.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'Ang patlang na ito ay ipinagbabawal.',
     'prohibited_if'        => 'Ang patlang na ito ay ipinagbabawal kapag :other ay :value.',
     'prohibited_unless'    => 'Ang patlang na ito ay ipinagbabawal maliban kung :other ay sa :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Hindi balido ang pormat na ito.',
     'relatable'            => 'Ang patlang na ito ay maaaring hindi nauugnay sa mapagkukunan na ito.',
     'required'             => 'Ang patlang na ito ay kinakailangan.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

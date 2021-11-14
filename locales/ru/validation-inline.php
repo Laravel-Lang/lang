@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Должно быть принято.',
+    'accepted_if'          => 'Это поле должно быть принято, когда :other соответствует :value.',
     'active_url'           => 'Недействительный URL.',
     'after'                => 'Дата должна быть больше :date.',
     'after_or_equal'       => 'Дата должна быть больше или равняться :date.',
@@ -31,7 +32,7 @@ return [
     ],
     'boolean'              => 'Поле должно иметь значение логического типа.',
     'confirmed'            => 'Не совпадает с подтверждением.',
-    'current_password'     => 'The password is incorrect.',
+    'current_password'     => 'Некорректный пароль.',
     'date'                 => 'Не является датой.',
     'date_equals'          => 'Дата должна быть равной :date.',
     'date_format'          => 'Не соответствует формату :format.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'Данное значение запрещено.',
     'prohibited_if'        => 'Значение запрещено, когда :other равно :value.',
     'prohibited_unless'    => 'Значение запрещено, если :other не входит в :values.',
+    'prohibits'            => 'Запрещено присутствие :other.',
     'regex'                => 'Ошибочный формат.',
     'relatable'            => 'Объект не может быть связан с этим ресурсом.',
     'required'             => 'Обязательно для заполнения.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

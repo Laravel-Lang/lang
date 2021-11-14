@@ -14,6 +14,7 @@ return [
     */
 
     'accepted'             => 'This field must be accepted.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'This is not a valid URL.',
     'after'                => 'This must be a date after :date.',
     'after_or_equal'       => 'This must be a date after or equal to :date.',
@@ -53,9 +54,9 @@ return [
         'array'   => 'The content must have more than :value items.',
     ],
     'gte'                  => [
-        'numeric' => 'The value must be greater than or equal :value.',
-        'file'    => 'The file size must be greater than or equal :value kilobytes.',
-        'string'  => 'The string must be greater than or equal :value characters.',
+        'numeric' => 'The value must be greater than or equal to :value.',
+        'file'    => 'The file size must be greater than or equal to :value kilobytes.',
+        'string'  => 'The string must be greater than or equal to :value characters.',
         'array'   => 'The content must have :value items or more.',
     ],
     'image'                => 'This must be an image.',
@@ -73,9 +74,9 @@ return [
         'array'   => 'The content must have less than :value items.',
     ],
     'lte'                  => [
-        'numeric' => 'The value must be less than or equal :value.',
-        'file'    => 'The file size must be less than or equal :value kilobytes.',
-        'string'  => 'The string must be less than or equal :value characters.',
+        'numeric' => 'The value must be less than or equal to :value.',
+        'file'    => 'The file size must be less than or equal to :value kilobytes.',
+        'string'  => 'The string must be less than or equal to :value characters.',
         'array'   => 'The content must not have more than :value items.',
     ],
     'max'                  => [
@@ -110,6 +111,7 @@ return [
     'prohibited'           => 'This field is prohibited.',
     'prohibited_if'        => 'This field is prohibited when :other is :value.',
     'prohibited_unless'    => 'This field is prohibited unless :other is in :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'same'                 => 'The value of this field must match the one from :other.',
     'size'                 => [
         'numeric' => 'The value must be :size.',
@@ -119,10 +121,10 @@ return [
     ],
     'starts_with'          => 'This must start with one of the following: :values.',
     'string'               => 'This must be a string.',
-    'timezone'             => 'This must be a valid zone.',
+    'timezone'             => 'This must be a valid timezone.',
     'unique'               => 'This has already been taken.',
     'uploaded'             => 'This failed to upload.',
-    'url'                  => 'This format is invalid.',
+    'url'                  => 'This must be a valid URL.',
     'uuid'                 => 'This must be a valid UUID.',
 
     /*
@@ -141,5 +143,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-
 ];

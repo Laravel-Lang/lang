@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Ин соҳа бояд қабул шудааст.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'Ин недопустимый URL-адрес.',
     'after'                => 'Бояд, ки ин сана пас аз соли :date.',
     'after_or_equal'       => 'Он бояд аз таърих пас аз он е баробар ба соли :date.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'Ин майдон манъ аст.',
     'prohibited_if'        => 'Ин соҳа аст, манъ, ки :other баробар :value.',
     'prohibited_unless'    => 'Ин майдон манъ аст, агар танҳо :other аст, дар :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Ин формат недопустим.',
     'relatable'            => 'Ин соҳа метавонад на вобаста ба маълумотҳои захираҳо.',
     'required'             => 'Ин майдон ҳатмист.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

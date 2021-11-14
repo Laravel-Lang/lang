@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Må aksepteres.',
+    'accepted_if'          => 'Dette feltet må aksepteres når :other er :value.',
     'active_url'           => 'Er ikke en gyldig URL.',
     'after'                => 'Må være en dato etter :date.',
     'after_or_equal'       => 'Må være en dato etter eller lik :date.',
@@ -31,7 +32,7 @@ return [
     ],
     'boolean'              => 'Må være sann eller usann',
     'confirmed'            => 'Er ikke likt bekreftelsesfeltet.',
-    'current_password'     => 'The password is incorrect.',
+    'current_password'     => 'Oppgitt passord er feil.',
     'date'                 => 'Er ikke en gyldig dato.',
     'date_equals'          => 'Må være en dato lik :date.',
     'date_format'          => 'Samsvarer ikke med formatet :format.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'Felt er forbudt.',
     'prohibited_if'        => 'Felt er forbudt når :other er :value.',
     'prohibited_unless'    => 'Felt er forbudt med mindre :other er i :values.',
+    'prohibits'            => 'Dette feltet forbyr :other å være til stede.',
     'regex'                => 'Formatet på veriden er ugyldig.',
     'relatable'            => 'Kan ikke være knyttet til denne ressursen.',
     'required'             => 'Må fylles ut.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

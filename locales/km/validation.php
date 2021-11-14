@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => ':attribute ត្រូវតែត្រូវបានទទួលយក។',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => ':attribute មិនមែនជា URL ត្រឹមត្រូវឡើយ។',
     'after'                => ':attribute ត្រូវតែមានកាលបរិច្ឆេទបន្ទាប់ពី :date។',
     'after_or_equal'       => ':attribute ត្រូវតែជាកាលបរិច្ឆេទ ក្រោយឬស្មើ :date។',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => ':attribute នេះត្រូវហាមឃាត់។',
     'prohibited_if'        => ':attribute នេះត្រូវហាមឃាត់នៅពេលដែល :other គឺ :value។',
     'prohibited_unless'    => ':attribute នេះត្រូវហាមឃាត់លុះត្រា :other គឺនៅក្នុង :values។',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute ទម្រង់មិនត្រឹមត្រូវ។',
     'relatable'            => ':attribute មិនអាចត្រូវបានភ្ជាប់ជាមួយនឹងធនធាននេះ។',
     'required'             => ':attribute នេះគឺទាមទារឲ្យមាន។',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

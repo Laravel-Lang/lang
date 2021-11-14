@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'この項目が未承認です。',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => '有効なURLではありません。',
     'after'                => ':dateより後の日付を指定してください。',
     'after_or_equal'       => ':date以降の日付を指定してください。',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'この項目は禁止されています。',
     'prohibited_if'        => ':otherが:valueの場合、この項目は禁止されています。',
     'prohibited_unless'    => ':otherが:valuesでない限り、この項目は禁止されています。',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'この形式は無効です。',
     'relatable'            => 'このリソースと関連づけられません。',
     'required'             => 'この項目は必須です。',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

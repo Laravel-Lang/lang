@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => ':Attribute måste accepteras.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => ':Attribute är inte en giltig webbadress.',
     'after'                => ':Attribute måste vara ett datum efter :date.',
     'after_or_equal'       => ':Attribute måste vara ett datum senare eller samma dag som :date.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'Fältet :attribute är förbjudet.',
     'prohibited_if'        => ':attribute är förbjudet när :other är :value.',
     'prohibited_unless'    => ':attribute är förbjudet om inte :other är :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':Attribute har ogiltigt format.',
     'relatable'            => 'Denna :attribute kanske inte är associerad med den här resursen.',
     'required'             => ':Attribute är obligatoriskt.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

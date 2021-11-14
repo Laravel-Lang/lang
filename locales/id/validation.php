@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => ':Attribute harus diterima.',
+    'accepted_if'          => ':Attribute harus diterima ketika :other berisi :value.',
     'active_url'           => ':Attribute bukan URL yang valid.',
     'after'                => ':Attribute harus berisi tanggal setelah :date.',
     'after_or_equal'       => ':Attribute harus berisi tanggal setelah atau sama dengan :date.',
@@ -31,7 +32,7 @@ return [
     ],
     'boolean'              => ':Attribute harus bernilai true atau false',
     'confirmed'            => 'Konfirmasi :attribute tidak cocok.',
-    'current_password'     => 'The password is incorrect.',
+    'current_password'     => 'Kata sandi salah.',
     'date'                 => ':Attribute bukan tanggal yang valid.',
     'date_equals'          => ':Attribute harus berisi tanggal yang sama dengan :date.',
     'date_format'          => ':Attribute tidak cocok dengan format :format.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => ':Attribute tidak boleh ada.',
     'prohibited_if'        => ':Attribute tidak boleh ada bila :other adalah :value.',
     'prohibited_unless'    => ':Attribute tidak boleh ada kecuali :other memiliki nilai :values.',
+    'prohibits'            => ':Attribute melarang isian :other untuk ditampilkan.',
     'regex'                => 'Format :attribute tidak valid.',
     'relatable'            => ':Attribute ini mungkin tidak berasosiasi dengan sumber ini.',
     'required'             => ':Attribute wajib diisi.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

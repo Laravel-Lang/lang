@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Поле має бути прийнято.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'Не є дійсною URL-адресою.',
     'after'                => 'Має бути дата після :date.',
     'after_or_equal'       => 'Має бути дата після або дата, що дорівнює :date',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'Це поле заборонено.',
     'prohibited_if'        => 'Це поле заборонено, коли :other дорівнює :value.',
     'prohibited_unless'    => 'Це поле заборонено, якщо тільки :other не знаходиться в :values році.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Формат недійсний.',
     'relatable'            => 'Це поле може бути не пов\'язане з даним ресурсом.',
     'required'             => 'Це поле є обовязковим.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

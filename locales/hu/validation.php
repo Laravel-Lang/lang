@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'A(z) :attribute el kell legyen fogadva!',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => 'A(z) :attribute nem érvényes url!',
     'after'                => 'A(z) :attribute :date utáni dátum kell, hogy legyen!',
     'after_or_equal'       => 'A(z) :attribute nem lehet korábbi dátum, mint :date!',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'A :attribute mező tilos.',
     'prohibited_if'        => 'A :attribute mező tilos, ha :other :value.',
     'prohibited_unless'    => 'A :attribute mező tilos, kivéve, ha :other a :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'A(z) :attribute formátuma érvénytelen.',
     'relatable'            => 'Lehet, hogy ez az :attribute nem kapcsolódik ehhez az erőforráshoz.',
     'required'             => 'A(z) :attribute megadása kötelező!',
@@ -127,9 +129,5 @@ return [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
-    ],
-    'attributes'           => [
-        'name'     => 'név',
-        'password' => 'jelszó',
     ],
 ];

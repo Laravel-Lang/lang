@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Lazima kipengele kikubalike.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => 'Kipengele sio Chanzo Cha Anuani halali.',
     'after'                => 'Kipengele lazima kiwe tarehe baada ya :date.',
     'after_or_equal'       => ':attribute inapaswa kuwa tarehe baada au sawa na :date.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'Ya :attribute uwanja ni marufuku.',
     'prohibited_if'        => 'Ya :attribute uwanja ni marufuku wakati :other ni :value.',
     'prohibited_unless'    => 'Ya :attribute uwanja ni marufuku isipokuwa :other ni katika :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Muundo wa kipengele si halali.',
     'relatable'            => 'Hii :attribute inaweza kuwa kuhusishwa na rasilimali hii.',
     'required'             => 'Sehemu ya kipengele inahitajika.',
@@ -127,13 +129,5 @@ return [
         'attribute-name' => [
             'rule-name' => 'ujumbe wa desturi',
         ],
-    ],
-    'attributes'           => [
-        'image'                   => 'Picha',
-        'result_text_under_image' => 'Maandishi ya matokeo chini ya picha',
-        'short_text'              => 'Maandishi mafupi',
-        'test_description'        => 'Maelezo ya jaribio',
-        'test_locale'             => 'Lugha',
-        'test_name'               => 'Jina la jaribio',
     ],
 ];

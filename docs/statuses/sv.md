@@ -2,7 +2,7 @@
 
 # sv
 
-##### All missed: 259
+##### All missed: 257
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/sv/auth.php)
@@ -23,11 +23,267 @@ The provided password is incorrect.
 
 [ [go back](../status.md) | [to top](#) ]
 
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/sv/validation-inline.php)
+### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/master/locales/sv/validation-attributes.php)
 
-##### Missing: 33
+##### Missing: 34
 
 <table >
+<tr><td align="left" >
+attributes.address
+</td>
+<td align="left" >
+Address
+</td>
+</tr>
+<tr><td align="left" >
+attributes.age
+</td>
+<td align="left" >
+Age
+</td>
+</tr>
+<tr><td align="left" >
+attributes.body
+</td>
+<td align="left" >
+Body
+</td>
+</tr>
+<tr><td align="left" >
+attributes.city
+</td>
+<td align="left" >
+City
+</td>
+</tr>
+<tr><td align="left" >
+attributes.content
+</td>
+<td align="left" >
+Content
+</td>
+</tr>
+<tr><td align="left" >
+attributes.country
+</td>
+<td align="left" >
+Country
+</td>
+</tr>
+<tr><td align="left" >
+attributes.date
+</td>
+<td align="left" >
+Date
+</td>
+</tr>
+<tr><td align="left" >
+attributes.day
+</td>
+<td align="left" >
+Day
+</td>
+</tr>
+<tr><td align="left" >
+attributes.description
+</td>
+<td align="left" >
+Description
+</td>
+</tr>
+<tr><td align="left" >
+attributes.email
+</td>
+<td align="left" >
+Email
+</td>
+</tr>
+<tr><td align="left" >
+attributes.excerpt
+</td>
+<td align="left" >
+Excerpt
+</td>
+</tr>
+<tr><td align="left" >
+attributes.first_name
+</td>
+<td align="left" >
+First Name
+</td>
+</tr>
+<tr><td align="left" >
+attributes.gender
+</td>
+<td align="left" >
+Gender
+</td>
+</tr>
+<tr><td align="left" >
+attributes.hour
+</td>
+<td align="left" >
+Hour
+</td>
+</tr>
+<tr><td align="left" >
+attributes.last_name
+</td>
+<td align="left" >
+Last Name
+</td>
+</tr>
+<tr><td align="left" >
+attributes.message
+</td>
+<td align="left" >
+Message
+</td>
+</tr>
+<tr><td align="left" >
+attributes.minute
+</td>
+<td align="left" >
+Minute
+</td>
+</tr>
+<tr><td align="left" >
+attributes.mobile
+</td>
+<td align="left" >
+Mobile
+</td>
+</tr>
+<tr><td align="left" >
+attributes.month
+</td>
+<td align="left" >
+Month
+</td>
+</tr>
+<tr><td align="left" >
+attributes.name
+</td>
+<td align="left" >
+Name
+</td>
+</tr>
+<tr><td align="left" >
+attributes.password
+</td>
+<td align="left" >
+Password
+</td>
+</tr>
+<tr><td align="left" >
+attributes.password_confirmation
+</td>
+<td align="left" >
+Password Confirmation
+</td>
+</tr>
+<tr><td align="left" >
+attributes.phone
+</td>
+<td align="left" >
+Phone
+</td>
+</tr>
+<tr><td align="left" >
+attributes.photo
+</td>
+<td align="left" >
+Photo
+</td>
+</tr>
+<tr><td align="left" >
+attributes.price
+</td>
+<td align="left" >
+Price
+</td>
+</tr>
+<tr><td align="left" >
+attributes.role
+</td>
+<td align="left" >
+Role
+</td>
+</tr>
+<tr><td align="left" >
+attributes.second
+</td>
+<td align="left" >
+Second
+</td>
+</tr>
+<tr><td align="left" >
+attributes.sex
+</td>
+<td align="left" >
+Sex
+</td>
+</tr>
+<tr><td align="left" >
+attributes.subject
+</td>
+<td align="left" >
+Subject
+</td>
+</tr>
+<tr><td align="left" >
+attributes.terms
+</td>
+<td align="left" >
+Terms
+</td>
+</tr>
+<tr><td align="left" >
+attributes.time
+</td>
+<td align="left" >
+Time
+</td>
+</tr>
+<tr><td align="left" >
+attributes.title
+</td>
+<td align="left" >
+Title
+</td>
+</tr>
+<tr><td align="left" >
+attributes.username
+</td>
+<td align="left" >
+Username
+</td>
+</tr>
+<tr><td align="left" >
+attributes.year
+</td>
+<td align="left" >
+Year
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/sv/validation-inline.php)
+
+##### Missing: 29
+
+<table >
+<tr><td align="left" >
+accepted_if
+</td>
+<td align="left" >
+This field must be accepted when :other is :value.
+</td>
+</tr>
 <tr><td align="left" >
 between.array
 </td>
@@ -99,27 +355,6 @@ The content must have :value items or more.
 </td>
 </tr>
 <tr><td align="left" >
-gte.file
-</td>
-<td align="left" >
-The file size must be greater than or equal :value kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-gte.numeric
-</td>
-<td align="left" >
-The value must be greater than or equal :value.
-</td>
-</tr>
-<tr><td align="left" >
-gte.string
-</td>
-<td align="left" >
-The string must be greater than or equal :value characters.
-</td>
-</tr>
-<tr><td align="left" >
 lt.array
 </td>
 <td align="left" >
@@ -152,27 +387,6 @@ lte.array
 </td>
 <td align="left" >
 The content must not have more than :value items.
-</td>
-</tr>
-<tr><td align="left" >
-lte.file
-</td>
-<td align="left" >
-The file size must be less than or equal :value kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-lte.numeric
-</td>
-<td align="left" >
-The value must be less than or equal :value.
-</td>
-</tr>
-<tr><td align="left" >
-lte.string
-</td>
-<td align="left" >
-The string must be less than or equal :value characters.
 </td>
 </tr>
 <tr><td align="left" >
@@ -232,6 +446,13 @@ The string must be at least :min characters.
 </td>
 </tr>
 <tr><td align="left" >
+prohibits
+</td>
+<td align="left" >
+This field prohibits :other from being present.
+</td>
+</tr>
+<tr><td align="left" >
 size.array
 </td>
 <td align="left" >
@@ -267,14 +488,28 @@ The string must be :size characters.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/sv/validation.php)
 
-##### Missing: 1
+##### Missing: 3
 
 <table >
+<tr><td align="left" >
+accepted_if
+</td>
+<td align="left" >
+The :attribute must be accepted when :other is :value.
+</td>
+</tr>
 <tr><td align="left" >
 current_password
 </td>
 <td align="left" >
 The password is incorrect.
+</td>
+</tr>
+<tr><td align="left" >
+prohibits
+</td>
+<td align="left" >
+The :attribute field prohibits :other from being present.
 </td>
 </tr>
 
@@ -285,23 +520,11 @@ The password is incorrect.
 
 ### [sv](https://github.com/Laravel-Lang/lang/blob/master/locales/sv/sv.json)
 
-##### Missing: 224
+##### Missing: 190
 
 <table >
 <tr><td align="left" >
-:days day trial
-</td>
-</tr>
-<tr><td align="left" >
 Add VAT Number
-</td>
-</tr>
-<tr><td align="left" >
-Address
-</td>
-</tr>
-<tr><td align="left" >
-Address Line 2
 </td>
 </tr>
 <tr><td align="left" >
@@ -326,14 +549,6 @@ Anguilla
 </tr>
 <tr><td align="left" >
 Antigua and Barbuda
-</td>
-</tr>
-<tr><td align="left" >
-Apply
-</td>
-</tr>
-<tr><td align="left" >
-Apply Coupon
 </td>
 </tr>
 <tr><td align="left" >
@@ -385,23 +600,11 @@ Bhutan
 </td>
 </tr>
 <tr><td align="left" >
-Billing Information
-</td>
-</tr>
-<tr><td align="left" >
-Billing Management
-</td>
-</tr>
-<tr><td align="left" >
 Bolivia
 </td>
 </tr>
 <tr><td align="left" >
 Bolivia, Plurinational State of
-</td>
-</tr>
-<tr><td align="left" >
-Bosnia and Herzegovina
 </td>
 </tr>
 <tr><td align="left" >
@@ -414,14 +617,6 @@ Burkina Faso
 </tr>
 <tr><td align="left" >
 Burundi
-</td>
-</tr>
-<tr><td align="left" >
-Cancel Subscription
-</td>
-</tr>
-<tr><td align="left" >
-Change Subscription Plan
 </td>
 </tr>
 <tr><td align="left" >
@@ -445,22 +640,6 @@ Costa Rica
 </td>
 </tr>
 <tr><td align="left" >
-Country
-</td>
-</tr>
-<tr><td align="left" >
-Coupon
-</td>
-</tr>
-<tr><td align="left" >
-Current Subscription Plan
-</td>
-</tr>
-<tr><td align="left" >
-Currently Subscribed
-</td>
-</tr>
-<tr><td align="left" >
 Côte d'Ivoire
 </td>
 </tr>
@@ -473,10 +652,6 @@ Djibouti
 </td>
 </tr>
 <tr><td align="left" >
-Download Receipt
-</td>
-</tr>
-<tr><td align="left" >
 Ecuador
 </td>
 </tr>
@@ -485,19 +660,11 @@ Egypt
 </td>
 </tr>
 <tr><td align="left" >
-Email Addresses
-</td>
-</tr>
-<tr><td align="left" >
 Eritrea
 </td>
 </tr>
 <tr><td align="left" >
 ex VAT
-</td>
-</tr>
-<tr><td align="left" >
-Extra Billing Information
 </td>
 </tr>
 <tr><td align="left" >
@@ -561,14 +728,6 @@ Haiti
 </td>
 </tr>
 <tr><td align="left" >
-Have a coupon code?
-</td>
-</tr>
-<tr><td align="left" >
-Having second thoughts about cancelling your subscription? You can instantly reactive your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
-</td>
-</tr>
-<tr><td align="left" >
 Heard Island and McDonald Islands
 </td>
 </tr>
@@ -577,20 +736,11 @@ Honduras
 </td>
 </tr>
 <tr><td align="left" >
-I accept the terms of service
-</td>
-</tr>
-<tr><td align="left" >
 ID
 </td>
 </tr>
 <tr><td align="left" >
 If you need to add specific contact or tax information to your receipts, like your full business name, VAT identification number, or address of record, you may add it here.
-</td>
-</tr>
-<tr><td align="left" >
-If you're having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser:
 </td>
 </tr>
 <tr><td align="left" >
@@ -750,10 +900,6 @@ Netherlands Antilles
 </td>
 </tr>
 <tr><td align="left" >
-Nevermind, I'll keep my old plan
-</td>
-</tr>
-<tr><td align="left" >
 Nicaragua
 </td>
 </tr>
@@ -798,14 +944,6 @@ Paraguay
 </td>
 </tr>
 <tr><td align="left" >
-Payment Information
-</td>
-</tr>
-<tr><td align="left" >
-Payment Method
-</td>
-</tr>
-<tr><td align="left" >
 Peru
 </td>
 </tr>
@@ -827,22 +965,6 @@ Puerto Rico
 </tr>
 <tr><td align="left" >
 Qatar
-</td>
-</tr>
-<tr><td align="left" >
-Receipt Email Addresses
-</td>
-</tr>
-<tr><td align="left" >
-Receipts
-</td>
-</tr>
-<tr><td align="left" >
-Resume Subscription
-</td>
-</tr>
-<tr><td align="left" >
-Return to :appName
 </td>
 </tr>
 <tr><td align="left" >
@@ -894,10 +1016,6 @@ Select
 </td>
 </tr>
 <tr><td align="left" >
-Select a different plan
-</td>
-</tr>
-<tr><td align="left" >
 Senegal
 </td>
 </tr>
@@ -939,14 +1057,6 @@ State / County
 </tr>
 <tr><td align="left" >
 Subscribe
-</td>
-</tr>
-<tr><td align="left" >
-Subscription Information
-</td>
-</tr>
-<tr><td align="left" >
-Subscription Pending
 </td>
 </tr>
 <tr><td align="left" >
@@ -1006,6 +1116,10 @@ The given :attribute has appeared in a data leak. Please choose a different :att
 </td>
 </tr>
 <tr><td align="left" >
+The password is incorrect.
+</td>
+</tr>
+<tr><td align="left" >
 The provided coupon code is invalid.
 </td>
 </tr>
@@ -1034,19 +1148,15 @@ This account does not have an active subscription.
 </td>
 </tr>
 <tr><td align="left" >
-This subscription cannot be resumed. Please create a new subscription.
-</td>
-</tr>
-<tr><td align="left" >
-This subscription has expired and cannot be resumed. Please create a new subscription.
-</td>
-</tr>
-<tr><td align="left" >
 Togo
 </td>
 </tr>
 <tr><td align="left" >
 Tokelau
+</td>
+</tr>
+<tr><td align="left" >
+Tonga
 </td>
 </tr>
 <tr><td align="left" >
@@ -1082,10 +1192,6 @@ United States Minor Outlying Islands
 </td>
 </tr>
 <tr><td align="left" >
-Update Payment Information
-</td>
-</tr>
-<tr><td align="left" >
 Update Payment Method
 </td>
 </tr>
@@ -1107,10 +1213,6 @@ Venezuela
 </tr>
 <tr><td align="left" >
 Venezuela, Bolivarian Republic of
-</td>
-</tr>
-<tr><td align="left" >
-View Receipt
 </td>
 </tr>
 <tr><td align="left" >
@@ -1175,10 +1277,6 @@ Zambia
 </tr>
 <tr><td align="left" >
 Zimbabwe
-</td>
-</tr>
-<tr><td align="left" >
-Zip / Postal Code
 </td>
 </tr>
 <tr><td align="left" >

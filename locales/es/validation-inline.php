@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Este campo debe ser aceptado.',
+    'accepted_if'          => 'Este campo debe ser aceptado cuando :other sea :value.',
     'active_url'           => 'Esta no es una URL válida.',
     'after'                => 'Debe ser una fecha después de :date.',
     'after_or_equal'       => 'Debe ser una fecha después o igual a :date.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'Este campo está prohibido',
     'prohibited_if'        => 'Este campo está prohibido cuando :other es :value.',
     'prohibited_unless'    => 'Este campo está prohibido a menos que :other sea :values.',
+    'prohibits'            => 'Este campo prohibe que :other esté presente.',
     'regex'                => 'Este formato es inválido.',
     'relatable'            => 'Este campo no se puede asociar con este recurso.',
     'required'             => 'Este campo es requerido.',
@@ -121,12 +123,11 @@ return [
     'timezone'             => 'Debe ser de una zona horaria válida.',
     'unique'               => 'Este campo ya ha sido tomado.',
     'uploaded'             => 'Falló al subir.',
-    'url'                  => 'Este formato es inválido.',
+    'url'                  => 'Debe ser una URL válida.',
     'uuid'                 => 'Debe ser un UUID válido.',
     'custom'               => [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

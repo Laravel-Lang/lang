@@ -585,6 +585,7 @@
     "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "The given :attribute has appeared in a data leak. Please choose a different :attribute.",
     "The government won't let us show you what's behind these doors": "Үкімет Сізге осы есіктердің артында не тұрғанын көрсетуге мүмкіндік бермейді",
     "The HasOne relationship has already been filled.": "HasOne қарым-қатынасы қазірдің өзінде аяқталды.",
+    "The password is incorrect.": "The password is incorrect.",
     "The payment was successful.": "Төлем сәтті өтті.",
     "The provided coupon code is invalid.": "The provided coupon code is invalid.",
     "The provided password does not match your current password.": "Берілген пароль Сіздің ағымдағы құпия сөзіңізге сәйкес келмейді.",

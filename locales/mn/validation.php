@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => ':Attribute баталсан байх шаардлагатай.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => ':Attribute талбарт зөв URL хаяг оруулна уу.',
     'after'                => ':Attribute талбарт :date-с хойш огноо оруулна уу.',
     'after_or_equal'       => ':Attribute талбарт :date эсвэл түүнээс хойш огноо оруулна уу.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => ':attribute талбар нь хориглоно.',
     'prohibited_if'        => ':other нь :value үед :attribute талбар нь хориглоно.',
     'prohibited_unless'    => ':attribute салбарт бол хориглоно :other нь :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':Attribute талбарт оруулсан утга буруу байна.',
     'relatable'            => 'Энэ нь :attribute энэ нөөц холбоотой байж болно.',
     'required'             => ':Attribute талбар шаардлагатай.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

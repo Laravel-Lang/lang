@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Dette felt skal accepteres.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'Dette er ikke en gyldig URLEBADRESSE.',
     'after'                => 'Dette skal være en dato efter :date.',
     'after_or_equal'       => 'Dette skal være en dato efter eller lig med :date.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'Dette felt er forbudt.',
     'prohibited_if'        => 'Dette felt er forbudt, når :other er :value.',
     'prohibited_unless'    => 'Dette felt er forbudt, medmindre :other er i :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Dette format er ugyldigt.',
     'relatable'            => 'Dette felt er muligvis ikke tilknyttet denne ressource.',
     'required'             => 'Dette felt er påkrævet.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

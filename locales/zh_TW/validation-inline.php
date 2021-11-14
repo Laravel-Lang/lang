@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => '必須接受。',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => '不是有效的網址。',
     'after'                => '必須要晚於 :date。',
     'after_or_equal'       => '必須要等於 :date 或更晚。',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => '禁止此字段。',
     'prohibited_if'        => '當 :other 為 :value 時，禁止此字段。',
     'prohibited_unless'    => '除非 :other 在 :values 中，否則禁止此字段。',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => '格式錯誤。',
     'relatable'            => '此字段可能與此資源不相關聯。',
     'required'             => '不能留空。',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

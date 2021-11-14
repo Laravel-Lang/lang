@@ -8,6 +8,8 @@
 | This is a list of exclusions for words or phrases where the original
 | form of the word has the same spelling in a given language.
 |
+| This list contains values.
+|
 */
 
 return [
@@ -68,9 +70,9 @@ return [
     'ID',
     'India',
     'Indonesia',
-    'Iran, Islamic Republic Of',
     'Iraq',
     'Israel',
+    'Jane Doe',
     'Jersey',
     'Kazakhstan',
     'Kenya',
@@ -125,7 +127,6 @@ return [
     'Serbia',
     'Seychelles',
     'Sierra Leone',
-    'Sint Maarten (Dutch part)',
     'Slovenia',
     'Somalia',
     'Sri Lanka',
@@ -140,6 +141,7 @@ return [
     'Tokelau',
     'Tonga',
     'total',
+    'Total:',
     'Tunisia',
     'Turkmenistan',
     'Tuvalu',

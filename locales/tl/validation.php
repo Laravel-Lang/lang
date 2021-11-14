@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Ang :attribute ay dapat tanggapin.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => 'Ang :attribute ay hindi balidong URL.',
     'after'                => 'Ang :attribute ay dapat petsa pagkatapos ng :date.',
     'after_or_equal'       => 'Ang :attribute ay dapat na isang petsa pagkatapos o katumbas ng :date.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'Ang patlang na :attribute ay ipinagbabawal.',
     'prohibited_if'        => 'Ang :attribute patlang ay ipinagbabawal kapag :other ay :value.',
     'prohibited_unless'    => 'Ang :attribute patlang ay ipinagbabawal maliban kung :other ay nasa :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Ang :attribute ng attribute ay imbalido.',
     'relatable'            => 'Ito :attribute ay maaaring hindi nauugnay sa mapagkukunan na ito.',
     'required'             => 'Ang :attribute ng attribute ay kailangan.',
@@ -127,13 +129,5 @@ return [
         'attribute-name' => [
             'rule-name' => 'pasadyang-mensahe',
         ],
-    ],
-    'attributes'           => [
-        'image'                   => 'Imahe',
-        'result_text_under_image' => 'Resultang teksto sa ilalim ng imahe',
-        'short_text'              => 'Maikling teksto',
-        'test_description'        => 'Subok na paglalarawan',
-        'test_locale'             => 'Wika',
-        'test_name'               => 'Subok na pangalan',
     ],
 ];

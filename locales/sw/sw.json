@@ -585,6 +585,7 @@
     "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "The given :attribute has appeared in a data leak. Please choose a different :attribute.",
     "The government won't let us show you what's behind these doors": "Serikali si basi sisi kuonyesha nini ni nyuma ya milango haya",
     "The HasOne relationship has already been filled.": "Ya HasOne uhusiano tayari kujazwa.",
+    "The password is incorrect.": "The password is incorrect.",
     "The payment was successful.": "Malipo ilikuwa na mafanikio.",
     "The provided coupon code is invalid.": "The provided coupon code is invalid.",
     "The provided password does not match your current password.": "Zinazotolewa password haina mechi password yako sasa.",

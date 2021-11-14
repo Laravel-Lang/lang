@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => ':attribute mora biti sprejet.',
+    'accepted_if'          => 'Polje mora biti sprejeto, če je :other :value.',
     'active_url'           => ':attribute ni pravilen.',
     'after'                => ':attribute mora biti za datumom :date.',
     'after_or_equal'       => ':attribute mora biti za ali enak :date.',
@@ -31,7 +32,7 @@ return [
     ],
     'boolean'              => ':attribute polje mora biti 1 ali 0',
     'confirmed'            => ':attribute potrditev se ne ujema.',
-    'current_password'     => 'The password is incorrect.',
+    'current_password'     => 'Geslo ni veljavno.',
     'date'                 => ':attribute ni veljaven datum.',
     'date_equals'          => ':attribute mora biti enak :date.',
     'date_format'          => ':attribute se ne ujema z obliko :format.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'Polje :attribute je prepovedano.',
     'prohibited_if'        => 'Polje :attribute je prepovedano, ko je :other :value.',
     'prohibited_unless'    => 'Polje :attribute je prepovedano, razen če je :other v :values.',
+    'prohibits'            => 'To polje prepoveduje prisotnost :other.',
     'regex'                => 'Format polja :attribute je neveljaven.',
     'relatable'            => 'Ta :attribute morda ni povezan s tem virom.',
     'required'             => 'Polje :attribute je obvezno.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'Prilagojeno sporočilo',
         ],
     ],
-    'attributes'           => [],
 ];

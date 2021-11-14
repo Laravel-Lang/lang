@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => ':attribute debe ser aceptado.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => ':attribute non é unha URL válida.',
     'after'                => ':attribute debe ser unha data posterior a :date.',
     'after_or_equal'       => ':attribute debe ser unha data posterior ou igual a :date.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'O :attribute campo está prohibida.',
     'prohibited_if'        => 'O :attribute campo está prohibida cando :other é :value.',
     'prohibited_unless'    => 'O :attribute campo está prohibido, a menos que :other é en :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'O formato de :attribute non é válido.',
     'relatable'            => 'Este :attribute non pode ser asociado con este recurso.',
     'required'             => 'O campo :attribute é obrigatorio.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

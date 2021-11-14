@@ -176,6 +176,13 @@ gl
 </td>
 </tr>
 <tr><td align="left" >
+gu
+</td>
+<td align="left" >
+
+</td>
+</tr>
+<tr><td align="left" >
 he
 </td>
 <td align="left" >
@@ -360,6 +367,8 @@ oc
 pl
 </td>
 <td align="left" >
+
+[@Olsza](https://github.com/Olsza)
 
 </td>
 </tr>

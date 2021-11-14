@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Deve essere accettato.',
+    'accepted_if'          => 'Deve essere accettato quando :other è :value.',
     'active_url'           => 'Non è un URL valido.',
     'after'                => 'Deve essere una data successiva al :date.',
     'after_or_equal'       => 'Deve essere una data successiva o uguale al :date.',
@@ -31,7 +32,7 @@ return [
     ],
     'boolean'              => 'Deve essere vero o falso.',
     'confirmed'            => 'Il valore di conferma non corrisponde.',
-    'current_password'     => 'The password is incorrect.',
+    'current_password'     => 'Password non valida.',
     'date'                 => 'Non è una data valida.',
     'date_equals'          => 'La data deve essere :date.',
     'date_format'          => 'La data non è nel formato :format.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'Non consentito.',
     'prohibited_if'        => 'Non consentito quando :other è :value.',
     'prohibited_unless'    => 'Non consentito a meno che :other sia contenuto in :values.',
+    'prohibits'            => 'Il campo impedisce a :other di essere presente.',
     'regex'                => 'Formato non valido.',
     'relatable'            => 'Non puoi associarlo a questa risorsa.',
     'required'             => 'Obbligatorio.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

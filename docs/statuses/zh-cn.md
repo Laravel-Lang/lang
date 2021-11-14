@@ -2,48 +2,12 @@
 
 # zh_CN
 
-##### All missed: 115
+##### All missed: 114
 
-
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/zh_CN/validation-inline.php)
-
-##### Missing: 1
-
-<table >
-<tr><td align="left" >
-current_password
-</td>
-<td align="left" >
-The password is incorrect.
-</td>
-</tr>
-
-</table>
-
-
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/zh_CN/validation.php)
-
-##### Missing: 1
-
-<table >
-<tr><td align="left" >
-current_password
-</td>
-<td align="left" >
-The password is incorrect.
-</td>
-</tr>
-
-</table>
-
-
-[ [go back](../status.md) | [to top](#) ]
 
 ### [zh_CN](https://github.com/Laravel-Lang/lang/blob/master/locales/zh_CN/zh_CN.json)
 
-##### Missing: 113
+##### Missing: 114
 
 <table >
 <tr><td align="left" >
@@ -361,6 +325,10 @@ The :attribute must contain at least one uppercase and one lowercase letter.
 </tr>
 <tr><td align="left" >
 The given :attribute has appeared in a data leak. Please choose a different :attribute.
+</td>
+</tr>
+<tr><td align="left" >
+The password is incorrect.
 </td>
 </tr>
 <tr><td align="left" >

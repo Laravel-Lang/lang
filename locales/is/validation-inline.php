@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Þetta sviði verður samþykkt.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'Þetta er ekki gilt SLÓÐ.',
     'after'                => 'Þetta verður að vera á stefnumót eftir :date.',
     'after_or_equal'       => 'Þetta verður að vera á stefnumót eftir eða jafnt og :date.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'Þetta sviði er bannað.',
     'prohibited_if'        => 'Þetta sviði er bannað þegar :other er :value.',
     'prohibited_unless'    => 'Þetta sviði er bönnuð nema :other er í :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Þessu sniði er ógilt.',
     'relatable'            => 'Þetta sviði getur ekki tengst þessu úrræði.',
     'required'             => 'Þetta sviði er krafist.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

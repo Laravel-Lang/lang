@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Trường này phải được chấp nhận.',
+    'accepted_if'          => 'Trường này phải được chấp nhận khi :other là :value.',
     'active_url'           => 'Trường này không phải là một URL hợp lệ.',
     'after'                => 'Trường này phải là một ngày sau ngày :date.',
     'after_or_equal'       => 'Trường này phải là thời gian bắt đầu sau hoặc đúng bằng :date.',
@@ -31,7 +32,7 @@ return [
     ],
     'boolean'              => 'Trường này phải là true hoặc false.',
     'confirmed'            => 'Giá trị xác nhận trong trường này không khớp.',
-    'current_password'     => 'The password is incorrect.',
+    'current_password'     => 'Mật khẩu không đúng.',
     'date'                 => 'Trường này không phải là định dạng của ngày-tháng.',
     'date_equals'          => 'Trường này phải là một ngày bằng với :date.',
     'date_format'          => 'Trường này không giống với định dạng :format.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'Trường này bị cấm.',
     'prohibited_if'        => 'Trường này bị cấm khi :other là :value.',
     'prohibited_unless'    => 'Trường này bị cấm trừ khi :other là một trong :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Trường này có định dạng không hợp lệ.',
     'relatable'            => 'Trường này không thể liên kết với tài nguyên này.',
     'required'             => 'Trường này không được bỏ trống.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

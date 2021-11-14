@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'שדה :attribute חייב להיות מסומן.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => 'שדה :attribute הוא לא כתובת אתר תקנית.',
     'after'                => 'שדה :attribute חייב להיות תאריך אחרי :date.',
     'after_or_equal'       => 'שדה :attribute חייב להיות תאריך מאוחר או שווה ל :date.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'שדה :attribute אסור.',
     'prohibited_if'        => 'שדה :attribute אסור כאשר :other הוא :value.',
     'prohibited_unless'    => 'שדה :attribute אסור אלא אם כן :other הוא :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'שדה :attribute בעל פורמט שאינו תקין.',
     'relatable'            => 'זה :attribute לא יכול להיות קשור עם משאב זה.',
     'required'             => 'שדה :attribute הוא חובה.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'הודעה מותאמת',
         ],
     ],
-    'attributes'           => [],
 ];

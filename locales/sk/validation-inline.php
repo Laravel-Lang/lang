@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Toto pole musí byť prijaté.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'Toto nie je platná adresa URL.',
     'after'                => 'Toto musí byť dátum po roku :date.',
     'after_or_equal'       => 'Toto musí byť dátum po :date alebo rovný.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'Toto pole je zakázané.',
     'prohibited_if'        => 'Toto pole je zakázané, keď :other je :value.',
     'prohibited_unless'    => 'Toto pole je zakázané, ak :other je v :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Tento formát je neplatný.',
     'relatable'            => 'Toto pole nemusí byť spojené s týmto zdrojom.',
     'required'             => 'Toto pole je povinné.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

@@ -585,6 +585,7 @@
     "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "The given :attribute has appeared in a data leak. Please choose a different :attribute.",
     "The government won't let us show you what's behind these doors": "Vlada nam neće dopustiti da vam pokažemo što je iza tih vrata.",
     "The HasOne relationship has already been filled.": "Hasoneovi odnosi već su ispunjeni.",
+    "The password is incorrect.": "The password is incorrect.",
     "The payment was successful.": "Plaćanje je uspješno.",
     "The provided coupon code is invalid.": "The provided coupon code is invalid.",
     "The provided password does not match your current password.": "Navedena lozinka ne odgovara vašoj trenutačnoj zaporci.",

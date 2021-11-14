@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Šis lauks ir jāpieņem.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'Tas nav derīgs URL.',
     'after'                => 'Tam jābūt datumam pēc :date.',
     'after_or_equal'       => 'Tam jābūt datumam pēc vai vienāds ar :date.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'Šis lauks ir aizliegts.',
     'prohibited_if'        => 'Šis lauks ir aizliegts, ja :other ir :value.',
     'prohibited_unless'    => 'Šis lauks ir aizliegts, ja :other ir :values.',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Šis formāts ir nederīgs.',
     'relatable'            => 'Šis lauks var nebūt saistīts ar šo resursu.',
     'required'             => 'Šis lauks ir nepieciešams.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

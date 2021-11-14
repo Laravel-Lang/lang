@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'វាលនេះត្រូវតែត្រូវបានទទួលយក។',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'វាលនេះមិនមែនជា URL ត្រឹមត្រូវឡើយ។',
     'after'                => 'វាលនេះត្រូវតែមានកាលបរិច្ឆេទបន្ទាប់ពី :date។',
     'after_or_equal'       => 'វាលនេះត្រូវតែជាកាលបរិច្ឆេទ ក្រោយឬស្មើ :date។',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'វាលនេះនេះត្រូវហាមឃាត់។',
     'prohibited_if'        => 'វាលនេះនេះត្រូវហាមឃាត់នៅពេលដែល :other គឺ :value។',
     'prohibited_unless'    => 'វាលនេះនេះត្រូវហាមឃាត់លុះត្រា :other គឺនៅក្នុង :values។',
+    'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'វាលនេះទម្រង់មិនត្រឹមត្រូវ។',
     'relatable'            => 'វាលនេះមិនអាចត្រូវបានភ្ជាប់ជាមួយនឹងធនធាននេះ។',
     'required'             => 'វាលនេះនេះគឺទាមទារឲ្យមាន។',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

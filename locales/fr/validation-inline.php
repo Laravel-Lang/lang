@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Ce champ doit être accepté.',
+    'accepted_if'          => 'Ce champ doit être accepté quand :other a la valeur :value.',
     'active_url'           => 'Ce n\'est pas une URL valide',
     'after'                => 'La date doit être postérieure au :date.',
     'after_or_equal'       => 'La date doit être postérieure ou égale au :date.',
@@ -40,7 +41,7 @@ return [
     'digits_between'       => 'Ce champ doit contenir entre :min et :max chiffres.',
     'dimensions'           => 'La taille de l\'image n\'est pas conforme.',
     'distinct'             => 'Ce champ a une valeur en double.',
-    'email'                => 'Ce champ doit être une adresse email valide.',
+    'email'                => 'Ce champ doit être une adresse e-mail valide.',
     'ends_with'            => 'Ce champ doit se terminer par une des valeurs suivantes : :values',
     'exists'               => 'Ce champ sélectionné est invalide.',
     'file'                 => 'Ce champ doit être un fichier.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'Ce champ est interdit',
     'prohibited_if'        => 'Ce champ est interdit quand :other a la valeur :value.',
     'prohibited_unless'    => 'Ce champ est interdit à moins que :other ait l\'une des valeurs :values.',
+    'prohibits'            => 'Ce champ interdit :other d\'être présent.',
     'regex'                => 'Le format du champ est invalide.',
     'relatable'            => 'Ce champ n\'est sans doute pas associé avec cette donnée.',
     'required'             => 'Ce champ est obligatoire.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => ':attribute depet èssere atzetadu.',
+    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
     'active_url'           => ':attribute no est un\'URL bàlidu.',
     'after'                => ':attribute depet èssere una data chi benit a pustis de :date.',
     'after_or_equal'       => 'The :attribute must be a date after or equal to :date.',
@@ -100,6 +101,7 @@ return [
     'prohibited'           => 'The :attribute field is prohibited.',
     'prohibited_if'        => 'The :attribute field is prohibited when :other is :value.',
     'prohibited_unless'    => 'The :attribute field is prohibited unless :other is in :values.',
+    'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Su formadu de su campu :attribute no est bàlidu.',
     'relatable'            => 'This :attribute may not be associated with this resource.',
     'required'             => ':attribute est pedidu.',
@@ -128,5 +130,4 @@ return [
             'rule-name' => 'custom-message',
         ],
     ],
-    'attributes'           => [],
 ];

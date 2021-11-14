@@ -13,7 +13,7 @@
 
 return [
     'accepted'             => 'Dit veld moet geaccepteerd zijn.',
-    'accepted_if'          => 'This field must be accepted when :other is :value.',
+    'accepted_if'          => 'Dit veld moet worden geaccepteerd wanneer :other gelijk is aan :value.',
     'active_url'           => 'Dit is geen geldige URL.',
     'after'                => 'Dit moet een datum na :date zijn.',
     'after_or_equal'       => 'Dit moet een datum na of gelijk aan :date zijn.',
@@ -32,7 +32,7 @@ return [
     ],
     'boolean'              => 'Dit veld moet ja of nee zijn.',
     'confirmed'            => 'De bevestiging komt niet overeen.',
-    'current_password'     => 'The password is incorrect.',
+    'current_password'     => 'Het wachtwoord is incorrect.',
     'date'                 => 'Dit is geen geldige datum',
     'date_equals'          => 'Dit moet een datum gelijk aan :date zijn.',
     'date_format'          => 'Dit voldoet niet aan het formaat :format.',
@@ -101,7 +101,7 @@ return [
     'prohibited'           => 'Dit veld is verboden.',
     'prohibited_if'        => 'Dit veld is verboden indien :other gelijk is aan :value.',
     'prohibited_unless'    => 'Dit veld is verboden tenzij :other is aan :values.',
-    'prohibits'            => 'This field prohibits :other from being present.',
+    'prohibits'            => 'Dit veld verbiedt de aanwezigheid van :other.',
     'regex'                => 'Dit formaat is ongeldig.',
     'relatable'            => 'Dit veld mag niet gekoppeld worden aan deze bron.',
     'required'             => 'Dit veld is verplicht.',

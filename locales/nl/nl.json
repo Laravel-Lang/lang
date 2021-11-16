@@ -163,7 +163,7 @@
     "Customize": "Aanpassen",
     "Cyprus": "Cyprus",
     "Czech Republic": "Tsjechië",
-    "Côte d'Ivoire": "Côte d'Ivoire",
+    "Côte d'Ivoire": "Ivoorkust",
     "Dashboard": "Dashboard",
     "December": "December",
     "Decrease": "Verminderen",
@@ -324,7 +324,7 @@
     "Luxembourg": "Luxemburg",
     "Macao": "Macau",
     "Macedonia": "Noord-Macedonië",
-    "Macedonia, the former Yugoslav Republic of": "Macedonia, the former Yugoslav Republic of",
+    "Macedonia, the former Yugoslav Republic of": "Macedonië, het voormalige Joegoslavische Republiek van",
     "Madagascar": "Madagascar",
     "Malawi": "Malawi",
     "Malaysia": "Maleisië",
@@ -526,7 +526,7 @@
     "Sorry, your session has expired.": "Sorry, je sessie is niet meer geldig.",
     "South Africa": "Zuid Afrika",
     "South Georgia And Sandwich Isl.": "Zuid-Georgië En Zuidelijke Sandwicheilanden",
-    "South Georgia and the South Sandwich Islands": "South Georgia and the South Sandwich Islands",
+    "South Georgia and the South Sandwich Islands": "Zuid-Georgië en de Zuidelijke Sandwicheilanden",
     "South Sudan": "Zuid Soedan",
     "Spain": "Spanje",
     "Sri Lanka": "Sri Lanka",
@@ -709,5 +709,5 @@
     "Zambia": "Zambia",
     "Zimbabwe": "Zimbabwe",
     "Zip \/ Postal Code": "Postcode",
-    "Åland Islands": "Åland Islands"
+    "Åland Islands": "Ålandseilanden"
 }

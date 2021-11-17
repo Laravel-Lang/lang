@@ -2,7 +2,7 @@
 
 # oc
 
-##### All missed: 718
+##### All missed: 722
 
 
 ### [passwords](https://github.com/Laravel-Lang/lang/blob/master/locales/oc/passwords.php)
@@ -274,7 +274,7 @@ Year
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/oc/validation-inline.php)
 
-##### Missing: 8
+##### Missing: 10
 
 <table >
 <tr><td align="left" >
@@ -296,6 +296,20 @@ current_password
 </td>
 <td align="left" >
 The password is incorrect.
+</td>
+</tr>
+<tr><td align="left" >
+declined
+</td>
+<td align="left" >
+This value must be declined.
+</td>
+</tr>
+<tr><td align="left" >
+declined_if
+</td>
+<td align="left" >
+This value must be declined when :other is :value.
 </td>
 </tr>
 <tr><td align="left" >
@@ -341,7 +355,7 @@ This field may not be associated with this resource.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/oc/validation.php)
 
-##### Missing: 8
+##### Missing: 10
 
 <table >
 <tr><td align="left" >
@@ -363,6 +377,20 @@ current_password
 </td>
 <td align="left" >
 The password is incorrect.
+</td>
+</tr>
+<tr><td align="left" >
+declined
+</td>
+<td align="left" >
+The :attribute must be declined.
+</td>
+</tr>
+<tr><td align="left" >
+declined_if
+</td>
+<td align="left" >
+The :attribute must be declined when :other is :value.
 </td>
 </tr>
 <tr><td align="left" >

@@ -36,6 +36,8 @@ return [
     'date'                 => ':attribute pole kehtiv kuupäev.',
     'date_equals'          => ':attribute peab olema kuupäev väärtusega :date',
     'date_format'          => ':attribute ei vasta formaadile :format.',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => ':attribute ja :other peavad olema erinevad.',
     'digits'               => ':attribute peab olema :digits numbrit.',
     'digits_between'       => ':attribute peab olema :min ja :max numbri vahel.',

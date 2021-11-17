@@ -2,7 +2,7 @@
 
 # az
 
-##### All missed: 213
+##### All missed: 217
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/az/auth.php)
@@ -43,7 +43,7 @@ Gender
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/az/validation-inline.php)
 
-##### Missing: 29
+##### Missing: 31
 
 <table >
 <tr><td align="left" >
@@ -86,6 +86,20 @@ current_password
 </td>
 <td align="left" >
 The password is incorrect.
+</td>
+</tr>
+<tr><td align="left" >
+declined
+</td>
+<td align="left" >
+This value must be declined.
+</td>
+</tr>
+<tr><td align="left" >
+declined_if
+</td>
+<td align="left" >
+This value must be declined when :other is :value.
 </td>
 </tr>
 <tr><td align="left" >
@@ -257,7 +271,7 @@ The string must be :size characters.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/az/validation.php)
 
-##### Missing: 13
+##### Missing: 15
 
 <table >
 <tr><td align="left" >
@@ -272,6 +286,20 @@ current_password
 </td>
 <td align="left" >
 The password is incorrect.
+</td>
+</tr>
+<tr><td align="left" >
+declined
+</td>
+<td align="left" >
+The :attribute must be declined.
+</td>
+</tr>
+<tr><td align="left" >
+declined_if
+</td>
+<td align="left" >
+The :attribute must be declined when :other is :value.
 </td>
 </tr>
 <tr><td align="left" >

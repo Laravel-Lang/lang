@@ -36,6 +36,8 @@ return [
     'date'                 => 'Polje :attribute nije važeći datum.',
     'date_equals'          => 'Polje :attribute mora da bude datum: :date.',
     'date_format'          => 'Polje :attribute ne odgovora prema formatu :format.',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => 'Polja :attribute i :other moraju biti različita.',
     'digits'               => 'Polje :attribute mora sadržati :digits šifri.',
     'digits_between'       => 'Polje :attribute mora biti izemđu :min i :max šifri.',

@@ -36,6 +36,8 @@ return [
     'date'                 => 'Pole :attribute nie jest prawidłową datą.',
     'date_equals'          => 'Pole :attribute musi być datą równą :date.',
     'date_format'          => 'Pole :attribute nie jest w formacie :format.',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => 'Pole :attribute oraz :other muszą się różnić.',
     'digits'               => 'Pole :attribute musi składać się z :digits cyfr.',
     'digits_between'       => 'Pole :attribute musi mieć od :min do :max cyfr.',

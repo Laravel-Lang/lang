@@ -36,6 +36,8 @@ return [
     'date'                 => 'Ин действительная таърих.',
     'date_equals'          => 'Ин бояд сана, баробар ба :date сол.',
     'date_format'          => 'Ин ба формату :format.',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => 'Ин аҳамият бояд фарқ аз :other.',
     'digits'               => 'Ин бояд :digits рақам.',
     'digits_between'       => 'Он бояд байни :min ва :max рақам.',

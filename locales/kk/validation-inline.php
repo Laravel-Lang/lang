@@ -36,6 +36,8 @@ return [
     'date'                 => 'Бұл жарамды күн емес.',
     'date_equals'          => 'Бұл :date жылға тең күн болуы керек.',
     'date_format'          => 'Бұл :format форматына сәйкес келмейді.',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => 'Бұл мән :other-ден өзгеше болуы керек.',
     'digits'               => 'Бұл :digits сан болуы керек.',
     'digits_between'       => 'Бұл :min және :max сандар арасында болуы керек.',

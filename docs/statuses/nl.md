@@ -2,44 +2,51 @@
 
 # nl
 
-##### All missed: 8
+##### All missed: 4
 
 
-### [nl](https://github.com/Laravel-Lang/lang/blob/master/locales/nl/nl.json)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/nl/validation-inline.php)
 
-##### Missing: 8
+##### Missing: 2
 
 <table >
 <tr><td align="left" >
-Côte d'Ivoire
+declined
+</td>
+<td align="left" >
+This value must be declined.
 </td>
 </tr>
 <tr><td align="left" >
-Jane Doe
+declined_if
+</td>
+<td align="left" >
+This value must be declined when :other is :value.
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/nl/validation.php)
+
+##### Missing: 2
+
+<table >
+<tr><td align="left" >
+declined
+</td>
+<td align="left" >
+The :attribute must be declined.
 </td>
 </tr>
 <tr><td align="left" >
-Korea
+declined_if
 </td>
-</tr>
-<tr><td align="left" >
-Macedonia, the former Yugoslav Republic of
-</td>
-</tr>
-<tr><td align="left" >
-Réunion
-</td>
-</tr>
-<tr><td align="left" >
-Saint Lucia
-</td>
-</tr>
-<tr><td align="left" >
-South Georgia and the South Sandwich Islands
-</td>
-</tr>
-<tr><td align="left" >
-Åland Islands
+<td align="left" >
+The :attribute must be declined when :other is :value.
 </td>
 </tr>
 

@@ -36,6 +36,8 @@ return [
     'date'                 => 'Hindi valid na petsa ang :attribute.',
     'date_equals'          => 'Ang :attribute ay dapat na isang petsa na katumbas ng :date.',
     'date_format'          => 'Hindi tumutugma ang :attribute sa format na :format.',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => 'Dapat na magkaiba ang :attribute at :other.',
     'digits'               => 'Ang :attribute ay dapat na :digits (na) digits',
     'digits_between'       => 'Ang :attribute ay dapat na nasa pagitan ng :min at :max (na) digit.',

@@ -36,6 +36,8 @@ return [
     'date'                 => 'Այս դաշտի արժեքը վավեր ամսաթիվ չէ։',
     'date_equals'          => 'Այս դաշտում ամսաթիվը պետք է լինի :date։',
     'date_format'          => 'Այս դաշտի արժեքը չի համապատասխանում :format ձևաչափին։',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => 'Այս և :other դաշտերը պետք է լինեն տարբեր։',
     'digits'               => 'Այս դաշտի թվանշանների քանակը պետք է լինի :digits։',
     'digits_between'       => 'Այս դաշտի թվանշանների քանակը պետք է լինի :min-ից :max։',

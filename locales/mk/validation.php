@@ -36,6 +36,8 @@ return [
     'date'                 => 'Полето :attribute не е валиден датум.',
     'date_equals'          => 'Полето :attribute мора да биде датум еднаков на :date.',
     'date_format'          => 'Полето :attribute не одговара на форматот :format.',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => 'Полињата :attribute и :other треба да се различни.',
     'digits'               => 'Полето :attribute треба да има :digits цифри.',
     'digits_between'       => 'Полето :attribute треба да има помеѓу :min и :max цифри.',

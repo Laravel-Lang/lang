@@ -36,6 +36,8 @@ return [
     'date'                 => 'Kjo nuk është një datë e saktë.',
     'date_equals'          => 'Kjo duhet të jetë datë e barabartë me :date.',
     'date_format'          => 'Kjo nuk i përshtatet formatit :format.',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => 'Kjo dhe :other duhet të jenë të ndryshme.',
     'digits'               => 'Kjo duhet të ketë :digits shifra.',
     'digits_between'       => 'Kjo duhet të ketë midis :min dhe :max shifra.',

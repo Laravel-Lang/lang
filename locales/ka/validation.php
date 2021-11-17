@@ -36,6 +36,8 @@ return [
     'date'                 => ':attribute შეიცავს თარიღის არასწორ ფორმატს.',
     'date_equals'          => ':attribute უნდა იყოს :date-ის ტოლი თარიღი.',
     'date_format'          => ':attribute არ ემთხვევა თარიღის ფორმატს: :format.',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => ':attribute და :other არ უნდა ემთხვეოდეს ერთმანეთს.',
     'digits'               => ':attribute უნდა შედგებოდეს :digits ციფრისგან.',
     'digits_between'       => ':attribute უნდა შედგებოდეს :min-დან :max ციფრამდე.',

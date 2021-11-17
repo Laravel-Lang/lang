@@ -36,6 +36,8 @@ return [
     'date'                 => 'Bu etibarlı tarix deyil.',
     'date_equals'          => 'Bu, :date-cü ilə bərabər tarix olmalıdır.',
     'date_format'          => 'Bu format :format uyğun deyil.',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => 'Bu dəyər :other-dan fərqli olmalıdır.',
     'digits'               => 'Bu :digits rəqəm olmalıdır.',
     'digits_between'       => 'Bu :min və :max rəqəmlər arasında olmalıdır.',

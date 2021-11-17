@@ -36,6 +36,8 @@ return [
     'date'                 => 'Ez nem érvényes dátum.',
     'date_equals'          => 'Ennek :date-nak kell lennie.',
     'date_format'          => 'Ez nem felel meg az :format formátumnak.',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => 'Ennek az értéknek különböznie kell :other-től.',
     'digits'               => 'Ennek :digits számjegynek kell lennie.',
     'digits_between'       => 'Ennek :min és :max között kell lennie.',

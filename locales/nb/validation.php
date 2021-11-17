@@ -36,6 +36,8 @@ return [
     'date'                 => ':attribute er ikke en gyldig dato.',
     'date_equals'          => ':attribute må være en dato lik :date.',
     'date_format'          => ':attribute samsvarer ikke med formatet :format.',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => ':attribute og :other må være forskellige.',
     'digits'               => ':attribute må ha :digits siffer.',
     'digits_between'       => ':attribute må være mellom :min og :max siffer.',

@@ -36,6 +36,8 @@ return [
     'date'                 => 'Polje :attribute nije ispravan datum.',
     'date_equals'          => 'Stavka :attribute mora biti jednaka :date.',
     'date_format'          => 'Polje :attribute ne podudara s formatom :format.',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => 'Polja :attribute i :other moraju biti različita.',
     'digits'               => 'Polje :attribute mora sadržavati :digits znamenki.',
     'digits_between'       => 'Polje :attribute mora imati između :min i :max znamenki.',

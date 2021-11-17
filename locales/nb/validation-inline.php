@@ -36,6 +36,8 @@ return [
     'date'                 => 'Er ikke en gyldig dato.',
     'date_equals'          => 'Må være en dato lik :date.',
     'date_format'          => 'Samsvarer ikke med formatet :format.',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => 'Denne og :other må være forskellige.',
     'digits'               => 'Må ha :digits siffer.',
     'digits_between'       => 'Må være mellom :min og :max siffer.',

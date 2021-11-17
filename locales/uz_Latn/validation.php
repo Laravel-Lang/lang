@@ -36,6 +36,8 @@ return [
     'date'                 => ':attribute sana emas.',
     'date_equals'          => ':attribute sana :date ga teng bo‘lishi kerak.',
     'date_format'          => ':attribute maydoni :format formatga mos kelmadi.',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => ':attribute va :other maydonlari farqli bo‘lishi kerak.',
     'digits'               => ':attribute :digits raqamdan iborat bo‘lishi kerak.',
     'digits_between'       => ':attribute uzunligi :min va :max orasida bo‘lishi kerak.',

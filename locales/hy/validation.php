@@ -36,6 +36,8 @@ return [
     'date'                 => ':attribute դաշտը վավեր ամսաթիվ չէ։',
     'date_equals'          => ':attribute դաշտի ամսաթիվը պետք է լինի :date։',
     'date_format'          => ':attribute դաշտը չի համապատասխանում :format ձևաչափին։',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => ':attribute և :other դաշտերը պետք է լինեն տարբեր։',
     'digits'               => ':attribute դաշտի թվանշանների քանակը պետք է լինի :digits։',
     'digits_between'       => ':attribute դաշտի թվանշանների քանակը պետք է լինի :min-ից :max։',

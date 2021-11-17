@@ -36,6 +36,8 @@ return [
     'date'                 => 'Hau ez da baliozko data bat.',
     'date_equals'          => 'Hau behar data bat berdina :date.',
     'date_format'          => 'Hau ez dator formatu :format.',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => 'Balio hau izan behar desberdinak :other.',
     'digits'               => 'Hau izan behar :digits digituak.',
     'digits_between'       => 'Hau bitartekoa izan behar du :min eta :max digituak.',

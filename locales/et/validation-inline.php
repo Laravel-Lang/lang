@@ -36,6 +36,8 @@ return [
     'date'                 => 'See ei ole kehtiv kuupäev.',
     'date_equals'          => 'See peab olema kuupäev, mis võrdub :date-ga.',
     'date_format'          => 'See ei vasta vormingule :format.',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => 'See väärtus peab olema erinev :other.',
     'digits'               => 'See peab olema :digits numbrit.',
     'digits_between'       => 'See peab olema vahemikus :min kuni :max numbrit.',

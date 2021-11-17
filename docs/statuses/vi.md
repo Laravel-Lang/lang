@@ -2,14 +2,28 @@
 
 # vi
 
-##### All missed: 2
+##### All missed: 6
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/vi/validation-inline.php)
 
-##### Missing: 1
+##### Missing: 3
 
 <table >
+<tr><td align="left" >
+declined
+</td>
+<td align="left" >
+This value must be declined.
+</td>
+</tr>
+<tr><td align="left" >
+declined_if
+</td>
+<td align="left" >
+This value must be declined when :other is :value.
+</td>
+</tr>
 <tr><td align="left" >
 prohibits
 </td>
@@ -25,9 +39,23 @@ This field prohibits :other from being present.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/vi/validation.php)
 
-##### Missing: 1
+##### Missing: 3
 
 <table >
+<tr><td align="left" >
+declined
+</td>
+<td align="left" >
+The :attribute must be declined.
+</td>
+</tr>
+<tr><td align="left" >
+declined_if
+</td>
+<td align="left" >
+The :attribute must be declined when :other is :value.
+</td>
+</tr>
 <tr><td align="left" >
 prohibits
 </td>

@@ -36,6 +36,8 @@ return [
     'date'                 => 'This is not a valid date.',
     'date_equals'          => 'ಈ ಮಾಡಬೇಕು ಒಂದು ದಿನಾಂಕ ಸಮಾನ :date.',
     'date_format'          => 'ಈ does not match the format :format.',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => 'This value must be ವಿವಿಧ :other.',
     'digits'               => 'ಈ ಮಾಡಬೇಕು :digits ಅಂಕೆಗಳು.',
     'digits_between'       => 'ಈ ನಡುವೆ ಇರಬೇಕು :min ಮತ್ತು :max ಅಂಕೆಗಳು.',

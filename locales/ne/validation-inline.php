@@ -36,6 +36,8 @@ return [
     'date'                 => 'यो मान्य मिति छैन।',
     'date_equals'          => 'यो मिति बराबर :date हुनुपर्दछ।',
     'date_format'          => 'यो ढाँचासँग मेल खाँदैन :format।',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => 'यो मान अन्य भन्दा :other हुनुपर्छ।',
     'digits'               => 'यो हुनु पर्छ :digits अंक।',
     'digits_between'       => 'यो :min र :max को बिचमा हुनुपर्दछ।',

@@ -36,6 +36,8 @@ return [
     'date'                 => 'Гэта не сапраўдная дата.',
     'date_equals'          => 'Гэта павінна быць дата, роўная :date годзе.',
     'date_format'          => 'Гэта не адпавядае фармату :format.',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => 'Гэта значэнне павінна адрознівацца ад :other.',
     'digits'               => 'Гэта павінна быць :digits лічбаў.',
     'digits_between'       => 'Гэта павінна быць паміж :min і :max лічбамі.',

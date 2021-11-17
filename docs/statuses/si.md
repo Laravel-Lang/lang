@@ -2,12 +2,12 @@
 
 # si
 
-##### All missed: 11
+##### All missed: 15
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/si/validation-inline.php)
 
-##### Missing: 1
+##### Missing: 3
 
 <table >
 <tr><td align="left" >
@@ -15,6 +15,45 @@ current_password
 </td>
 <td align="left" >
 The password is incorrect.
+</td>
+</tr>
+<tr><td align="left" >
+declined
+</td>
+<td align="left" >
+This value must be declined.
+</td>
+</tr>
+<tr><td align="left" >
+declined_if
+</td>
+<td align="left" >
+This value must be declined when :other is :value.
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/si/validation.php)
+
+##### Missing: 2
+
+<table >
+<tr><td align="left" >
+declined
+</td>
+<td align="left" >
+The :attribute must be declined.
+</td>
+</tr>
+<tr><td align="left" >
+declined_if
+</td>
+<td align="left" >
+The :attribute must be declined when :other is :value.
 </td>
 </tr>
 

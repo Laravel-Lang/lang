@@ -2,7 +2,7 @@
 
 # tg
 
-##### All missed: 199
+##### All missed: 203
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/tg/auth.php)
@@ -274,7 +274,7 @@ Year
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/tg/validation-inline.php)
 
-##### Missing: 29
+##### Missing: 31
 
 <table >
 <tr><td align="left" >
@@ -317,6 +317,20 @@ current_password
 </td>
 <td align="left" >
 The password is incorrect.
+</td>
+</tr>
+<tr><td align="left" >
+declined
+</td>
+<td align="left" >
+This value must be declined.
+</td>
+</tr>
+<tr><td align="left" >
+declined_if
+</td>
+<td align="left" >
+This value must be declined when :other is :value.
 </td>
 </tr>
 <tr><td align="left" >
@@ -488,7 +502,7 @@ The string must be :size characters.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/tg/validation.php)
 
-##### Missing: 13
+##### Missing: 15
 
 <table >
 <tr><td align="left" >
@@ -503,6 +517,20 @@ current_password
 </td>
 <td align="left" >
 The password is incorrect.
+</td>
+</tr>
+<tr><td align="left" >
+declined
+</td>
+<td align="left" >
+The :attribute must be declined.
+</td>
+</tr>
+<tr><td align="left" >
+declined_if
+</td>
+<td align="left" >
+The :attribute must be declined when :other is :value.
 </td>
 </tr>
 <tr><td align="left" >

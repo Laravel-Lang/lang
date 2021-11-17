@@ -2,12 +2,12 @@
 
 # cs
 
-##### All missed: 143
+##### All missed: 147
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/cs/validation-inline.php)
 
-##### Missing: 2
+##### Missing: 4
 
 <table >
 <tr><td align="left" >
@@ -15,6 +15,20 @@ accepted_if
 </td>
 <td align="left" >
 This field must be accepted when :other is :value.
+</td>
+</tr>
+<tr><td align="left" >
+declined
+</td>
+<td align="left" >
+This value must be declined.
+</td>
+</tr>
+<tr><td align="left" >
+declined_if
+</td>
+<td align="left" >
+This value must be declined when :other is :value.
 </td>
 </tr>
 <tr><td align="left" >
@@ -32,7 +46,7 @@ This field prohibits :other from being present.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/cs/validation.php)
 
-##### Missing: 2
+##### Missing: 4
 
 <table >
 <tr><td align="left" >
@@ -40,6 +54,20 @@ accepted_if
 </td>
 <td align="left" >
 The :attribute must be accepted when :other is :value.
+</td>
+</tr>
+<tr><td align="left" >
+declined
+</td>
+<td align="left" >
+The :attribute must be declined.
+</td>
+</tr>
+<tr><td align="left" >
+declined_if
+</td>
+<td align="left" >
+The :attribute must be declined when :other is :value.
 </td>
 </tr>
 <tr><td align="left" >

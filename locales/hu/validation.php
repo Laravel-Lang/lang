@@ -36,6 +36,8 @@ return [
     'date'                 => 'A(z) :attribute nem érvényes dátum.',
     'date_equals'          => ':attribute meg kell egyezzen a következővel: :date.',
     'date_format'          => 'A(z) :attribute nem egyezik az alábbi dátum formátummal :format!',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => 'A(z) :attribute és :other értékei különbözőek kell, hogy legyenek!',
     'digits'               => 'A(z) :attribute :digits számjegyű kell, hogy legyen!',
     'digits_between'       => 'A(z) :attribute értéke :min és :max közötti számjegy lehet!',

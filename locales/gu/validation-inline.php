@@ -36,6 +36,8 @@ return [
     'date'                 => 'This is not a valid date.',
     'date_equals'          => 'This must be a date equal to :date.',
     'date_format'          => 'This does not match the format :format.',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => 'This value must be different from :other.',
     'digits'               => 'This must be :digits digits.',
     'digits_between'       => 'This must be between :min and :max digits.',

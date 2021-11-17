@@ -36,6 +36,8 @@ return [
     'date'                 => ':attribute 不是有效的日期。',
     'date_equals'          => ':attribute 必須等於 :date。',
     'date_format'          => ':attribute 不符合 :format 的格式。',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => ':attribute 與 :other 必須不同。',
     'digits'               => ':attribute 必須是 :digits 位數字。',
     'digits_between'       => ':attribute 必須介於 :min 至 :max 位數字。',

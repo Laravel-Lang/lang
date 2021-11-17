@@ -36,6 +36,8 @@ return [
     'date'                 => ':attribute은(는) 유효한 날짜가 아닙니다.',
     'date_equals'          => ':attribute은(는) :date과(와) 같은날짜여야합니다.',
     'date_format'          => ':attribute이(가) :format 형식과 일치하지 않습니다.',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => ':attribute와(과) :other은(는) 서로 달라야 합니다.',
     'digits'               => ':attribute은(는) :digits 자리 숫자여야 합니다.',
     'digits_between'       => ':attribute)은(는) :min에서 :max 자리 사이여야 합니다.',

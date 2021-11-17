@@ -36,6 +36,8 @@ return [
     'date'                 => 'Ito ay hindi isang wastong petsa.',
     'date_equals'          => 'Ito ay dapat na isang petsa na katumbas ng :date.',
     'date_format'          => 'Ito ay hindi tumutugma sa pormat :format.',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => 'Ang halagang ito ay dapat na naiiba mula sa :other.',
     'digits'               => 'Ito ay dapat na :digits digit.',
     'digits_between'       => 'Ito ay dapat na sa pagitan ng :min at :max na numero.',

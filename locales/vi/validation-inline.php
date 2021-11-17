@@ -36,6 +36,8 @@ return [
     'date'                 => 'Trường này không phải là định dạng của ngày-tháng.',
     'date_equals'          => 'Trường này phải là một ngày bằng với :date.',
     'date_format'          => 'Trường này không giống với định dạng :format.',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => 'Trường này và :other phải khác nhau.',
     'digits'               => 'Độ dài của trường này phải gồm :digits chữ số.',
     'digits_between'       => 'Độ dài của trường này phải nằm trong khoảng :min và :max chữ số.',

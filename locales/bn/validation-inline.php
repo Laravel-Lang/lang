@@ -36,6 +36,8 @@ return [
     'date'                 => 'এটি একটি বৈধ তারিখ নয়.',
     'date_equals'          => 'এই সমান একটি তারিখ হতে হবে :date.',
     'date_format'          => 'এই বিন্যাসে সাথে মেলে না :format.',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => 'এই মান থেকে আলাদা হতে হবে :other.',
     'digits'               => 'এই হতে হবে :digits সংখ্যা.',
     'digits_between'       => 'এই মধ্যে হতে হবে :min এবং :max সংখ্যা.',

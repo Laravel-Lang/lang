@@ -36,6 +36,8 @@ return [
     'date'                 => 'វាលនេះគឺមិនមែនជាកាលបរិច្ឆេទត្រឹមត្រូវ។',
     'date_equals'          => 'វាលនេះត្រូវតែជាកាលបរិច្ឆេទស្មើនឹង :date។',
     'date_format'          => 'វាលនេះមិនត្រឹមត្រូវនឹងទម្រង់ :format នេះ។',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => 'វាលនេះនិង :other ត្រូវតែបញ្ជាក់។',
     'digits'               => 'វាលនេះត្រូវជាខ្ទង់ :digits។',
     'digits_between'       => 'វាលនេះត្រូវចាប់ពីខ្ទង់ :min ទៅ :max។',

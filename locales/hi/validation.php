@@ -36,6 +36,8 @@ return [
     'date'                 => ':attribute एक मान्य दिनांक नहीं है।',
     'date_equals'          => ':attribute, :date के बराबर तारीख होनी चाहिए।',
     'date_format'          => ':attribute फॉर्मेट :format से मेल नहीं खा रहा है।',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => ':attribute और :other अलग होना चाहिए।',
     'digits'               => ':attribute, :digits अंक होना चाहिए।',
     'digits_between'       => ':attribute, :min और :max अंकों के बीच होना चाहिए।',

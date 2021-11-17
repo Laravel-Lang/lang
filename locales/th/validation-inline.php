@@ -36,6 +36,8 @@ return [
     'date'                 => 'นี่เป็นค่าวันที่ที่ไม่ถูกต้อง!',
     'date_equals'          => 'นี่ต้องเป็นวันเท่ากับ :date.',
     'date_format'          => 'นี่มันไม่ตรงกับรูปแบบ :format.',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => 'ค่านี้จะต้องแตกต่างจาก :other.',
     'digits'               => 'นี่ต้องเป็น :digits อกเลขรหัสมา',
     'digits_between'       => 'นี่ต้องเป็นระหว่าง :min และ :max อกเลขรหัสมา',

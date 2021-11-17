@@ -36,6 +36,8 @@ return [
     'date'                 => 'Hii si halali kwa sasa.',
     'date_equals'          => 'Hii ni lazima kuwa tarehe sawa na :date.',
     'date_format'          => 'Hii haina mechi ya format :format.',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => 'Thamani hii lazima kuwa tofauti kutoka :other.',
     'digits'               => 'Hii ni lazima :digits tarakimu.',
     'digits_between'       => 'Hii ni lazima kuwa kati ya :min na :max tarakimu.',

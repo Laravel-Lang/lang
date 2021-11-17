@@ -36,6 +36,8 @@ return [
     'date'                 => 'Aquò es pas una data valida.',
     'date_equals'          => 'La data deu èsser una data egala a :date.',
     'date_format'          => 'Aqueste camp correspond pas al format :format.',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => 'Aqueste camp deu èsser diferent de :other.',
     'digits'               => 'Aqueste camp deu conténer :digits chifras.',
     'digits_between'       => 'Aqueste camp deu conténer  entre :min e :max chifras.',

@@ -36,6 +36,8 @@ return [
     'date'                 => 'Bu geçerli bir tarih değil.',
     'date_equals'          => 'Bu, :date\'a eşit bir tarih olmalıdır.',
     'date_format'          => 'Bu biçim :format eşleşmiyor.',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => 'Bu değer :other\'dan farklı olmalıdır.',
     'digits'               => 'Bu :digits basamak olmalıdır.',
     'digits_between'       => 'Bu :min ve :max basamak arasında olmalıdır.',

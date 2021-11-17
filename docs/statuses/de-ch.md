@@ -2,7 +2,7 @@
 
 # de_CH
 
-##### All missed: 122
+##### All missed: 126
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/de_CH/auth.php)
@@ -43,7 +43,7 @@ Minute
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/de_CH/validation-inline.php)
 
-##### Missing: 3
+##### Missing: 5
 
 <table >
 <tr><td align="left" >
@@ -61,6 +61,20 @@ The password is incorrect.
 </td>
 </tr>
 <tr><td align="left" >
+declined
+</td>
+<td align="left" >
+This value must be declined.
+</td>
+</tr>
+<tr><td align="left" >
+declined_if
+</td>
+<td align="left" >
+This value must be declined when :other is :value.
+</td>
+</tr>
+<tr><td align="left" >
 prohibits
 </td>
 <td align="left" >
@@ -75,7 +89,7 @@ This field prohibits :other from being present.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/de_CH/validation.php)
 
-##### Missing: 3
+##### Missing: 5
 
 <table >
 <tr><td align="left" >
@@ -90,6 +104,20 @@ current_password
 </td>
 <td align="left" >
 The password is incorrect.
+</td>
+</tr>
+<tr><td align="left" >
+declined
+</td>
+<td align="left" >
+The :attribute must be declined.
+</td>
+</tr>
+<tr><td align="left" >
+declined_if
+</td>
+<td align="left" >
+The :attribute must be declined when :other is :value.
 </td>
 </tr>
 <tr><td align="left" >

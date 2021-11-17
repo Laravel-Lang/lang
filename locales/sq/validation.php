@@ -36,6 +36,8 @@ return [
     'date'                 => ':attribute nuk është një datë e saktë.',
     'date_equals'          => ':attribute duhet të jetë datë e barabartë me :date.',
     'date_format'          => ':attribute nuk i përshtatet formatit :format.',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => ':attribute dhe :other duhet të jenë të ndryshme.',
     'digits'               => ':attribute duhet të ketë :digits shifra.',
     'digits_between'       => ':attribute duhet të ketë midis :min dhe :max shifra.',

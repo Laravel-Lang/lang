@@ -36,6 +36,8 @@ return [
     'date'                 => 'Қиммати :attribute санаи нодуруст мебошад.',
     'date_equals'          => ':attribute бояд санаи, баробар :date.',
     'date_format'          => 'Қиммати :attribute бо формати :format мувофиқат намекунад.',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => 'Қимматҳои :attribute ва :other бояд аз ҳам фарқ кунанд.',
     'digits'               => 'Қиммати :attribute бояд :digits рақам дошта бошад.',
     'digits_between'       => 'Қиммати :attribute бояд байни :min ва :max рақам дошта бошад.',

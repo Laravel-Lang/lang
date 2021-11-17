@@ -36,6 +36,8 @@ return [
     'date'                 => 'Tas nav derīgs datums.',
     'date_equals'          => 'Tam jābūt datumam, kas vienāds ar :date.',
     'date_format'          => 'Tas neatbilst formātam :format.',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => 'Šai vērtībai jābūt atšķirīgai no :other.',
     'digits'               => 'Tam jābūt :digits cipariem.',
     'digits_between'       => 'Tam jābūt starp :min un :max cipariem.',

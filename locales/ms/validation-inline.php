@@ -36,6 +36,8 @@ return [
     'date'                 => 'Tarikh ini tidak sah.',
     'date_equals'          => 'Tarikh mesti sama dengan :date.',
     'date_format'          => 'Format tarikh tidak sepadan dengan :format.',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => 'Nilai ini dan :other mesti berlainan.',
     'digits'               => 'Ruangan ini mesti :digits.',
     'digits_between'       => 'Ruangan ini mesti mengandungi nilai antara :min dan :max digits.',

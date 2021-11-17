@@ -36,6 +36,8 @@ return [
     'date'                 => 'Die :attribute is nie geldige datum nie.',
     'date_equals'          => 'Die :attribute moet \'n datum wees wat gelyk is aan :date.',
     'date_format'          => 'Die :attribute stem nie ooreen met die formaat :format nie.',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => 'Die :attribute en :other moet anders wees.',
     'digits'               => 'Die :attribute moet :digits syfers wees.',
     'digits_between'       => 'Die :attribute moet tussen :min en :max syfers wees.',

@@ -36,6 +36,8 @@ return [
     'date'                 => 'Энэ бол хүчинтэй хугацаа биш юм.',
     'date_equals'          => 'Энэ нь :date-тай тэнцүү байх естой.',
     'date_format'          => 'Энэ хэлбэр нь таарахгүй :format.',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => 'Энэ утга нь өөр байх естой :other.',
     'digits'               => 'Энэ нь байх естой :digits тоо.',
     'digits_between'       => 'Энэ хооронд байх естой :min, :max тоо.',

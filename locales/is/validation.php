@@ -36,6 +36,8 @@ return [
     'date'                 => 'Reiturinn :attribute er ekki rétt dagsetning.',
     'date_equals'          => ':attribute verður að vera dagsetning sem er sú sama og :date.',
     'date_format'          => 'Reiturinn :attribute passar ekki við :format.',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => 'Reiturinn :attribute og :other verða að vera ólíkir.',
     'digits'               => 'Reiturinn :attribute verður að vera :digits tölustafir.',
     'digits_between'       => 'Reiturinn :attribute verður að vera á milli :min og :max tölustafa.',

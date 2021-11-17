@@ -36,6 +36,8 @@ return [
     'date'                 => ':Attribute талбарт оруулсан огноо буруу байна.',
     'date_equals'          => ':attribute нь :date онтой тэнцүү байх естой.',
     'date_format'          => ':Attribute талбарт :format хэлбэртэй огноо оруулна уу.',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => ':Attribute талбарт :other -с өөр утга оруулах шаардлагатай.',
     'digits'               => ':Attribute талбарт дараах цифрүүдээс оруулах боломжтой. :digits.',
     'digits_between'       => ':Attribute талбарт :min-:max хоорондох цифр оруулах боломжтой.',

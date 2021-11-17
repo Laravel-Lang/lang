@@ -36,6 +36,8 @@ return [
     'date'                 => ':attribute نېټه اعتبار نلري .',
     'date_equals'          => 'دا باید وي :attribute د نیټې سره سم:date.',
     'date_format'          => 'مطابقت نلري :attribute د شکل سره:format.',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => 'ساحې باید وي :attribute و :other مختلف.',
     'digits'               => 'شمیرې او متره :attribute په :digits شمېر / شمېرې.',
     'digits_between'       => 'شمیرې او متره :attribute ما بين:min و :max شمېر / شمېرې .',

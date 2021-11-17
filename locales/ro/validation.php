@@ -36,6 +36,8 @@ return [
     'date'                 => 'Câmpul :attribute nu este o dată validă.',
     'date_equals'          => 'Aceasta :attribute trebuie să fie o dată egală cu :date.',
     'date_format'          => 'Câmpul :attribute trebuie să fie în formatul :format.',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => 'Câmpurile :attribute și :other trebuie să fie diferite.',
     'digits'               => 'Câmpul :attribute trebuie să aibă :digits cifre.',
     'digits_between'       => 'Câmpul :attribute trebuie să aibă între :min și :max cifre.',

@@ -2,12 +2,12 @@
 
 # fa
 
-##### All missed: 133
+##### All missed: 137
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/fa/validation-inline.php)
 
-##### Missing: 6
+##### Missing: 8
 
 <table >
 <tr><td align="left" >
@@ -22,6 +22,20 @@ attached
 </td>
 <td align="left" >
 This field is already attached.
+</td>
+</tr>
+<tr><td align="left" >
+declined
+</td>
+<td align="left" >
+This value must be declined.
+</td>
+</tr>
+<tr><td align="left" >
+declined_if
+</td>
+<td align="left" >
+This value must be declined when :other is :value.
 </td>
 </tr>
 <tr><td align="left" >
@@ -60,7 +74,7 @@ This field may not be associated with this resource.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/fa/validation.php)
 
-##### Missing: 8
+##### Missing: 10
 
 <table >
 <tr><td align="left" >
@@ -82,6 +96,20 @@ current_password
 </td>
 <td align="left" >
 The password is incorrect.
+</td>
+</tr>
+<tr><td align="left" >
+declined
+</td>
+<td align="left" >
+The :attribute must be declined.
+</td>
+</tr>
+<tr><td align="left" >
+declined_if
+</td>
+<td align="left" >
+The :attribute must be declined when :other is :value.
 </td>
 </tr>
 <tr><td align="left" >

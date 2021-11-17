@@ -36,6 +36,8 @@ return [
     'date'                 => 'Aquesta no és una data vàlida.',
     'date_equals'          => 'Aquesta ha de ser una data igual a :date.',
     'date_format'          => 'Aquest no coincideix amb el format :format.',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => 'Aquest valor ha de ser diferent de :other.',
     'digits'               => 'Aquest ha de ser :digits dígits.',
     'digits_between'       => 'Aquest ha de ser entre :min i :max dígits.',

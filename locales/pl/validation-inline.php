@@ -36,6 +36,8 @@ return [
     'date'                 => 'Pole nie jest prawidłową datą.',
     'date_equals'          => 'Pole musi być datą równą :date.',
     'date_format'          => 'Pole nie jest w formacie :format.',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => 'Pole oraz :other muszą się różnić.',
     'digits'               => 'Pole musi składać się z :digits cyfr.',
     'digits_between'       => 'Pole musi mieć od :min do :max cyfr.',

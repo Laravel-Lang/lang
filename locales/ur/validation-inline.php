@@ -36,6 +36,8 @@ return [
     'date'                 => 'یہ نہیں ہے ایک درست تاریخ.',
     'date_equals'          => 'یہ ہونا ضروری ہے ، ایک تاریخ کے لئے برابر :date.',
     'date_format'          => 'اس کا مطلب یہ نہیں ملنے کی شکل :format.',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => 'اس کی قیمت سے مختلف ہونا لازمی :other.',
     'digits'               => 'یہ ہونا ضروری ہے :digits ہندسے.',
     'digits_between'       => 'یہ ہونا چاہئے کے درمیان :min اور :max ہندسے.',

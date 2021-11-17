@@ -36,6 +36,8 @@ return [
     'date'                 => ':attribute بىر ئىناۋەتلىك ۋاقىت ئەمەس.',
     'date_equals'          => 'The :attribute must be a date equal to :date.',
     'date_format'          => ':attribute تىپى چوقۇم :format بۇلىشى كېرەك.',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => ':attribute بىلەن :other چوقۇم ئوخشاش بۇلىشى كېرەك.',
     'digits'               => ':attribute چوقۇم :digits خانىلىق سان بۇلىشى كېرەك.',
     'digits_between'       => ':attribute چوقۇم  :min بىلەن :max ئارلىقىدىكى سان بۇلىشى كېرەك.',

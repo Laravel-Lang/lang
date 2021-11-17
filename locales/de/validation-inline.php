@@ -36,6 +36,8 @@ return [
     'date'                 => 'Das ist kein gültiges Datum.',
     'date_equals'          => 'Das Datum muss identisch zu :date sein.',
     'date_format'          => 'Das Datum entspricht nicht dem gültigen Format für :format.',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => 'Das muss sich von :other unterscheiden.',
     'digits'               => 'Das muss :digits Stellen haben.',
     'digits_between'       => 'Das muss zwischen :min und :max Stellen haben.',

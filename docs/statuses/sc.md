@@ -2,7 +2,7 @@
 
 # sc
 
-##### All missed: 832
+##### All missed: 836
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/sc/auth.php)
@@ -306,7 +306,7 @@ Year
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/sc/validation-inline.php)
 
-##### Missing: 89
+##### Missing: 91
 
 <table >
 <tr><td align="left" >
@@ -461,6 +461,20 @@ date_format
 </td>
 <td align="left" >
 This does not match the format :format.
+</td>
+</tr>
+<tr><td align="left" >
+declined
+</td>
+<td align="left" >
+This value must be declined.
+</td>
+</tr>
+<tr><td align="left" >
+declined_if
+</td>
+<td align="left" >
+This value must be declined when :other is :value.
 </td>
 </tr>
 <tr><td align="left" >
@@ -940,7 +954,7 @@ This must be a valid UUID.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/sc/validation.php)
 
-##### Missing: 38
+##### Missing: 40
 
 <table >
 <tr><td align="left" >
@@ -983,6 +997,20 @@ date_equals
 </td>
 <td align="left" >
 The :attribute must be a date equal to :date.
+</td>
+</tr>
+<tr><td align="left" >
+declined
+</td>
+<td align="left" >
+The :attribute must be declined.
+</td>
+</tr>
+<tr><td align="left" >
+declined_if
+</td>
+<td align="left" >
+The :attribute must be declined when :other is :value.
 </td>
 </tr>
 <tr><td align="left" >

@@ -2,8 +2,58 @@
 
 # zh_CN
 
-##### All missed: 114
+##### All missed: 118
 
+
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/zh_CN/validation-inline.php)
+
+##### Missing: 2
+
+<table >
+<tr><td align="left" >
+declined
+</td>
+<td align="left" >
+This value must be declined.
+</td>
+</tr>
+<tr><td align="left" >
+declined_if
+</td>
+<td align="left" >
+This value must be declined when :other is :value.
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/zh_CN/validation.php)
+
+##### Missing: 2
+
+<table >
+<tr><td align="left" >
+declined
+</td>
+<td align="left" >
+The :attribute must be declined.
+</td>
+</tr>
+<tr><td align="left" >
+declined_if
+</td>
+<td align="left" >
+The :attribute must be declined when :other is :value.
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
 
 ### [zh_CN](https://github.com/Laravel-Lang/lang/blob/master/locales/zh_CN/zh_CN.json)
 

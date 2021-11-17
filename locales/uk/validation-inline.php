@@ -36,6 +36,8 @@ return [
     'date'                 => 'Не є допустимою датою.',
     'date_equals'          => 'Повинна бути дата, що дорівнює :date.',
     'date_format'          => 'Не відповідає формату :format.',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => 'Значення повинно відрізнятися від :other.',
     'digits'               => 'Повинно бути: :digits цифр.',
     'digits_between'       => 'Повинно бути між :min та :max цифр.',

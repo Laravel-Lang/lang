@@ -36,6 +36,8 @@ return [
     'date'                 => 'මෙම :attribute දිනය වලංගු දිනයක් නොවේ.',
     'date_equals'          => 'මෙම :attribute එක :date දිනයට සමාන දිනයක් විය යුතුය.',
     'date_format'          => 'මෙම :attribute එක :format යන ආකාරයට අනුකූල නොවේ.',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => 'මෙම :attribute එක හා :other එකිනෙකට වෙනස් විය යුතුය.',
     'digits'               => 'මෙම :attribute එක ඉලක්කම් :digits ක් විය යුතුය.',
     'digits_between'       => 'මෙම :attribute එක ඉලක්කම් :min හා :max අතර විය යුතුය.',

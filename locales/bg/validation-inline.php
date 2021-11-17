@@ -36,6 +36,8 @@ return [
     'date'                 => 'Това не е валидна дата.',
     'date_equals'          => 'Това трябва да е дата, равна на :date.',
     'date_format'          => 'Това не съответства на формата :format.',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => 'Тази стойност трябва да се различава от :other.',
     'digits'               => 'Това трябва да е :digits цифра.',
     'digits_between'       => 'Тя трябва да бъде между :min и :max цифри.',

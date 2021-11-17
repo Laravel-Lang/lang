@@ -36,6 +36,8 @@ return [
     'date'                 => '有効な日付ではありません。',
     'date_equals'          => ':date 同じ日付を指定してください。',
     'date_format'          => ':format の形と一致しません。',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => ':other とは異なる必要があります。',
     'digits'               => ':digits桁でなければなりません。',
     'digits_between'       => ':min ~ :max桁でなければなりません。',

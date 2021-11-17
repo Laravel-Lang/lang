@@ -239,7 +239,7 @@
 </td>
 <td align="center" width="17%">
 
-[nl&nbsp;❗](statuses/nl.md)
+[nl&nbsp;✔](statuses/nl.md)
 
 </td>
 <td align="center" width="17%">

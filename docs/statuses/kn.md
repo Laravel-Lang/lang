@@ -2,7 +2,7 @@
 
 # kn
 
-##### All missed: 160
+##### All missed: 164
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/kn/auth.php)
@@ -25,7 +25,7 @@ The provided password is incorrect.
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/kn/validation-inline.php)
 
-##### Missing: 31
+##### Missing: 33
 
 <table >
 <tr><td align="left" >
@@ -75,6 +75,20 @@ date
 </td>
 <td align="left" >
 This is not a valid date.
+</td>
+</tr>
+<tr><td align="left" >
+declined
+</td>
+<td align="left" >
+This value must be declined.
+</td>
+</tr>
+<tr><td align="left" >
+declined_if
+</td>
+<td align="left" >
+This value must be declined when :other is :value.
 </td>
 </tr>
 <tr><td align="left" >
@@ -253,7 +267,7 @@ The string must be :size characters.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/kn/validation.php)
 
-##### Missing: 4
+##### Missing: 6
 
 <table >
 <tr><td align="left" >
@@ -268,6 +282,20 @@ current_password
 </td>
 <td align="left" >
 The password is incorrect.
+</td>
+</tr>
+<tr><td align="left" >
+declined
+</td>
+<td align="left" >
+The :attribute must be declined.
+</td>
+</tr>
+<tr><td align="left" >
+declined_if
+</td>
+<td align="left" >
+The :attribute must be declined when :other is :value.
 </td>
 </tr>
 <tr><td align="left" >

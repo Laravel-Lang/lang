@@ -2,7 +2,7 @@
 
 # nn
 
-##### All missed: 769
+##### All missed: 773
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/nn/auth.php)
@@ -292,7 +292,7 @@ Year
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/nn/validation-inline.php)
 
-##### Missing: 89
+##### Missing: 91
 
 <table >
 <tr><td align="left" >
@@ -447,6 +447,20 @@ date_format
 </td>
 <td align="left" >
 This does not match the format :format.
+</td>
+</tr>
+<tr><td align="left" >
+declined
+</td>
+<td align="left" >
+This value must be declined.
+</td>
+</tr>
+<tr><td align="left" >
+declined_if
+</td>
+<td align="left" >
+This value must be declined when :other is :value.
 </td>
 </tr>
 <tr><td align="left" >
@@ -926,7 +940,7 @@ This must be a valid UUID.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/nn/validation.php)
 
-##### Missing: 10
+##### Missing: 12
 
 <table >
 <tr><td align="left" >
@@ -948,6 +962,20 @@ current_password
 </td>
 <td align="left" >
 The password is incorrect.
+</td>
+</tr>
+<tr><td align="left" >
+declined
+</td>
+<td align="left" >
+The :attribute must be declined.
+</td>
+</tr>
+<tr><td align="left" >
+declined_if
+</td>
+<td align="left" >
+The :attribute must be declined when :other is :value.
 </td>
 </tr>
 <tr><td align="left" >

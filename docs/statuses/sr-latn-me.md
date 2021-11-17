@@ -2,12 +2,12 @@
 
 # sr_Latn_ME
 
-##### All missed: 149
+##### All missed: 153
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/sr_Latn_ME/validation-inline.php)
 
-##### Missing: 29
+##### Missing: 31
 
 <table >
 <tr><td align="left" >
@@ -50,6 +50,20 @@ current_password
 </td>
 <td align="left" >
 The password is incorrect.
+</td>
+</tr>
+<tr><td align="left" >
+declined
+</td>
+<td align="left" >
+This value must be declined.
+</td>
+</tr>
+<tr><td align="left" >
+declined_if
+</td>
+<td align="left" >
+This value must be declined when :other is :value.
 </td>
 </tr>
 <tr><td align="left" >
@@ -221,7 +235,7 @@ The string must be :size characters.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/sr_Latn_ME/validation.php)
 
-##### Missing: 3
+##### Missing: 5
 
 <table >
 <tr><td align="left" >
@@ -236,6 +250,20 @@ current_password
 </td>
 <td align="left" >
 The password is incorrect.
+</td>
+</tr>
+<tr><td align="left" >
+declined
+</td>
+<td align="left" >
+The :attribute must be declined.
+</td>
+</tr>
+<tr><td align="left" >
+declined_if
+</td>
+<td align="left" >
+The :attribute must be declined when :other is :value.
 </td>
 </tr>
 <tr><td align="left" >

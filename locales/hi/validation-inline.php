@@ -36,6 +36,8 @@ return [
     'date'                 => 'यह एक वैध तारीख नहीं है । ',
     'date_equals'          => 'यह :date के बराबर तारीख होनी चाहिए । ',
     'date_format'          => 'यह प्रारूप :format से मेल नहीं खाता है । ',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => 'यह मान :other से अलग होना चाहिए । ',
     'digits'               => 'यह :digits अंकों का होना चाहिए । ',
     'digits_between'       => 'यह :min और :max अंकों के बीच होना चाहिए । ',

@@ -36,6 +36,8 @@ return [
     'date'                 => ':attribute ez da baliozko data.',
     'date_equals'          => 'The :attribute bat izan behar du data berdina :date.',
     'date_format'          => ':attribute datak ez du :format formatua.',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => ':attribute eta :other ezberdinak izan behar dira.',
     'digits'               => ':attribute-(e)k :digits digitu eduki behar ditu.',
     'digits_between'       => ':attribute-(e)k :min eta :max arteko digitu kopurua eduki behar du.',

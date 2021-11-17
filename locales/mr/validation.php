@@ -36,6 +36,8 @@ return [
     'date'                 => ':attribute वैध तारीख नाही.',
     'date_equals'          => ':attribute, :date तारीख समान असणे आवश्यक आहे.',
     'date_format'          => ':attribute फॉर्मेट :format शी जुळत नाही.',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => ':attribute आणि :other वेगळे असावे.',
     'digits'               => ':attribute, :digits अंक असणे आवश्यक आहे.',
     'digits_between'       => ':attribute, :min आणि :max अंक दरम्यान असणे आवश्यक आहे.',

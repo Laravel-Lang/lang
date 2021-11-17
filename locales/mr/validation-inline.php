@@ -36,6 +36,8 @@ return [
     'date'                 => 'ही एक वैध तारीख नाही.',
     'date_equals'          => 'या :date समान तारीख असणे आवश्यक आहे.',
     'date_format'          => 'या स्वरूपात जुळत नाही :format.',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => 'हे मूल्य विविध असणे आवश्यक आहे :other.',
     'digits'               => 'या असणे आवश्यक आहे :digits अंक.',
     'digits_between'       => 'या दरम्यान असणे आवश्यक आहे :min आणि :max अंक.',

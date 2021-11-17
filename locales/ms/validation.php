@@ -36,6 +36,8 @@ return [
     'date'                 => ':attribute bukan tarikh yang sah.',
     'date_equals'          => ':attribute mesti tarikh sama dengan :date.',
     'date_format'          => ':attribute tidak mengikut format :format.',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => ':attribute dan :other mesti berlainan.',
     'digits'               => ':attribute mesti :digits.',
     'digits_between'       => ':attribute mesti mengandungi antara :min dan :max digits.',

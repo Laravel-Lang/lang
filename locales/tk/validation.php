@@ -36,6 +36,8 @@ return [
     'date'                 => ':attribute dogry sene bolmalydyr.',
     'date_equals'          => 'The :attribute must be a date equal to :date.',
     'date_format'          => ':attribute :format formatyna deň däl.',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => ':attribute bilen :other birbirinden tapawutly bolmalydyr.',
     'digits'               => ':attribute :digits san bolmalydyr.',
     'digits_between'       => ':attribute :min bilen :max arasynda san bolmalydyr.',

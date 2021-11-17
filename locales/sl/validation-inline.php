@@ -36,6 +36,8 @@ return [
     'date'                 => 'Datum ni veljaven.',
     'date_equals'          => 'Datum mora biti enak :date.',
     'date_format'          => 'Datum ne ustreza formatu :format.',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => 'Vrednost mora biti drugačna od :other.',
     'digits'               => 'Vnos mora vsebovati :digits števk.',
     'digits_between'       => 'Vnos mora vsebovati od :min do :max števk.',

@@ -36,6 +36,8 @@ return [
     'date'                 => 'Detta är inte ett giltigt datum.',
     'date_equals'          => 'Detta måste vara ett datum som motsvarar :date.',
     'date_format'          => 'Detta matchar inte formatet :format.',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => 'Detta värde måste skilja sig från :other.',
     'digits'               => 'Detta måste vara :digits siffror.',
     'digits_between'       => 'Detta måste vara mellan :min och :max siffror.',

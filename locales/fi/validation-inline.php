@@ -36,6 +36,8 @@ return [
     'date'                 => 'Tämä ei ole pätevä päivämäärä.',
     'date_equals'          => 'Tämän päivämäärän on oltava :date.',
     'date_format'          => 'Tämä ei vastaa muotoa :format.',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => 'Tämän arvon on oltava eri kuin :other.',
     'digits'               => 'Tämän täytyy olla :digits numeroa.',
     'digits_between'       => 'Numeron on oltava :min-:max numeroa.',

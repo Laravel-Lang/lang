@@ -36,6 +36,8 @@ return [
     'date'                 => 'Полето :attribute не е валидна дата.',
     'date_equals'          => ':attribute трябва да бъде дата, еднаква с :date.',
     'date_format'          => 'Полето :attribute не е във формат :format.',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => 'Полетата :attribute и :other трябва да са различни.',
     'digits'               => 'Полето :attribute трябва да има :digits цифри.',
     'digits_between'       => 'Полето :attribute трябва да има между :min и :max цифри.',

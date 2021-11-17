@@ -36,6 +36,8 @@ return [
     'date'                 => ' :attribute жарамды күн емес.',
     'date_equals'          => ' :attribute мәні :date күнімен тең болуы керек.',
     'date_format'          => ' :attribute пішімі :format пішіміне сай емес.',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => ' :attribute және :other әр түрлі болуы керек.',
     'digits'               => ' :attribute мәні :digits сан болуы керек.',
     'digits_between'       => ' :attribute мәні :min және :max аралығындағы сан болуы керек.',

@@ -36,6 +36,8 @@ return [
     'date'                 => 'Kipengele si tarehe halali.',
     'date_equals'          => ':attribute inapaswa kuwa tarehe sawa na :date.',
     'date_format'          => 'Kipengele hakilingani na muundo :date.',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => 'Kipengele na :other lazima viwe tofauti.',
     'digits'               => 'Kipengele lazima kiwe :digits tarakimu.',
     'digits_between'       => 'Kipengele lazima kiwe kati ya :min na :max cha tarakimu.',

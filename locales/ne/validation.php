@@ -36,6 +36,8 @@ return [
     'date'                 => ':attribute को मिति मिलेन।',
     'date_equals'          => ':attribute मिति बराबर :date हुनुपर्दछ।',
     'date_format'          => ':attribute को ढाँचा :format जस्तो हुनुपर्छ।',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => ':attribute र :other फरक हुनुपर्छ।',
     'digits'               => ':attribute :digits अंकको हुनुपर्छ।',
     'digits_between'       => ':attribute :min देखी :max अंकको हुनुपर्छ।',

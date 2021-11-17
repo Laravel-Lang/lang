@@ -36,6 +36,8 @@ return [
     'date'                 => 'Kentän :attribute arvo ei ole kelvollinen päivämäärä.',
     'date_equals'          => ':attribute on oltava sama päivämäärä kuin :date.',
     'date_format'          => 'Kentän :attribute arvo ei vastaa muotoa :format.',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => 'Kenttien :attribute ja :other tulee olla eriarvoisia.',
     'digits'               => 'Kentän :attribute arvon on oltava :digits numeroa.',
     'digits_between'       => 'Kentän :attribute arvon tulee olla :min - :max numeroa.',

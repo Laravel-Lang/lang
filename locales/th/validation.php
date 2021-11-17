@@ -36,6 +36,8 @@ return [
     'date'                 => 'ข้อมูล :attribute ต้องเป็นวันที่',
     'date_equals'          => 'ข้อมูล :attribute ต้องเป็นวันที่ที่เท่ากับ :date',
     'date_format'          => 'ข้อมูล :attribute ไม่ตรงกับข้อมูลกำหนด :format.',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => 'ข้อมูล :attribute และ :other ต้องไม่เท่ากัน',
     'digits'               => 'ข้อมูล :attribute ต้องเป็น :digits',
     'digits_between'       => 'ข้อมูล :attribute ต้องอยู่ในช่วงระหว่าง :min ถึง :max',

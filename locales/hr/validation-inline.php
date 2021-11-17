@@ -36,6 +36,8 @@ return [
     'date'                 => 'To nije valjan datum.',
     'date_equals'          => 'To bi trebao biti datum jednak :date.',
     'date_format'          => 'To ne odgovara formatu :format.',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => 'Ova se vrijednost mora razlikovati od :other.',
     'digits'               => 'To bi trebalo biti :digits znamenki.',
     'digits_between'       => 'To bi trebalo biti između :min i :max znamenki.',

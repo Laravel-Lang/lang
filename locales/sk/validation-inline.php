@@ -36,6 +36,8 @@ return [
     'date'                 => 'Toto nie je platný dátum.',
     'date_equals'          => 'Toto musí byť Dátum rovný :date.',
     'date_format'          => 'Toto sa nezhoduje s formátom :format.',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => 'Táto hodnota sa musí líšiť od :other.',
     'digits'               => 'Musí to byť :digits číslic.',
     'digits_between'       => 'Musí to byť medzi číslicami :min a :max.',

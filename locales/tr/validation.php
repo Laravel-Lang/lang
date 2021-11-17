@@ -36,6 +36,8 @@ return [
     'date'                 => ':attribute geçerli bir tarih değil.',
     'date_equals'          => ':attribute mutlaka :date ile aynı tarihte olmalıdır.',
     'date_format'          => ':attribute mutlaka :format biçiminde olmalıdır.',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => ':attribute ile :other mutlaka birbirinden farklı olmalıdır.',
     'digits'               => ':attribute mutlaka :digits basamaklı olmalıdır.',
     'digits_between'       => ':attribute mutlaka en az :min, en fazla :max basamaklı olmalıdır.',

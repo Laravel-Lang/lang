@@ -36,6 +36,8 @@ return [
     'date'                 => ':attribute គឺមិនមែនជាកាលបរិច្ឆេទត្រឹមត្រូវ។',
     'date_equals'          => ':attribute ត្រូវតែជាកាលបរិច្ឆេទស្មើនឹង :date។',
     'date_format'          => ':attribute មិនត្រឹមត្រូវនឹងទម្រង់ :format នេះ។',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => ':attribute និង :other ត្រូវតែបញ្ជាក់។',
     'digits'               => ':attribute ត្រូវជាខ្ទង់ :digits។',
     'digits_between'       => ':attribute ត្រូវចាប់ពីខ្ទង់ :min ទៅ :max។',

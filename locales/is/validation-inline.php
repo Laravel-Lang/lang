@@ -36,6 +36,8 @@ return [
     'date'                 => 'Þetta er ekki gilt degi.',
     'date_equals'          => 'Þetta hlýtur að vera stefnumót jafn :date.',
     'date_format'          => 'Þetta passar ekki í formi :format.',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => 'Þetta gildi verður að vera öðruvísi frá :other.',
     'digits'               => 'Þetta hlýtur að vera :digits tölustafi.',
     'digits_between'       => 'Þetta verður að vera á milli :min og :max tölustafi.',

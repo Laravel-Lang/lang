@@ -36,6 +36,8 @@ return [
     'date'                 => 'මෙම වලංගු වන දිනය.',
     'date_equals'          => 'මෙම විය යුතුය දිනය සමාන :date.',
     'date_format'          => 'මේ නොගැලපේ ආකෘතිය :format.',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => 'මෙම අගය වෙනස් විය යුතුයි. ව :other සිට.',
     'digits'               => 'මෙම විය යුතුය :digits ඉලක්කම්.',
     'digits_between'       => 'මේ අතර විය යුතුයි :min හා :max ඉලක්කම්.',

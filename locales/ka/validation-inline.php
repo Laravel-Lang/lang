@@ -36,6 +36,8 @@ return [
     'date'                 => 'ეს არ არის სწორი თარიღი.',
     'date_equals'          => 'ეს უნდა იყოს თარიღი ტოლია :date.',
     'date_format'          => 'ეს არ ემთხვევა ფორმატი :format.',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => 'ეს მნიშვნელობა უნდა იყოს განსხვავებული :other.',
     'digits'               => 'ეს უნდა იყოს :digits ციფრები.',
     'digits_between'       => 'ეს უნდა იყოს :min და :max ციფრები.',

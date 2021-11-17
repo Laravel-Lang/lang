@@ -36,6 +36,8 @@ return [
     'date'                 => '並非一個有效的日期。',
     'date_equals'          => '必須等於 :date。',
     'date_format'          => '與 :format 格式不相符。',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => '必須與 :other 不同。',
     'digits'               => '必須是 :digits 位數字。',
     'digits_between'       => '必須介乎 :min 至 :max 位數字。',

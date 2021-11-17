@@ -36,6 +36,8 @@ return [
     'date'                 => ':attribute ni veljaven datum.',
     'date_equals'          => ':attribute mora biti enak :date.',
     'date_format'          => ':attribute se ne ujema z obliko :format.',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => ':attribute in :other mora biti drugačen.',
     'digits'               => ':attribute mora imeti :digits cifer.',
     'digits_between'       => ':attribute mora biti med :min in :max ciframi.',

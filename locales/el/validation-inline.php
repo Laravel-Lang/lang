@@ -36,6 +36,8 @@ return [
     'date'                 => 'Αυτή δεν είναι έγκυρη ημερομηνία.',
     'date_equals'          => 'Αυτή πρέπει να είναι μια ημερομηνία ίση με :date.',
     'date_format'          => 'Αυτό δεν ταιριάζει με τη μορφή :format.',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => 'Αυτή η τιμή πρέπει να είναι διαφορετική από :other.',
     'digits'               => 'Αυτό πρέπει να είναι :digits ψηφία.',
     'digits_between'       => 'Αυτό πρέπει να είναι μεταξύ :min και :max ψηφίων.',

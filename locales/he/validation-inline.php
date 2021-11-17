@@ -36,6 +36,8 @@ return [
     'date'                 => 'זה לא תאריך תקף.',
     'date_equals'          => 'זה חייב להיות תאריך שווה ל-:date.',
     'date_format'          => 'זה לא מתאים לפורמט :format.',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => 'ערך זה חייב להיות שונה מ-:other.',
     'digits'               => 'זה חייב להיות :digits ספרות.',
     'digits_between'       => 'זה חייב להיות בין :min ו :max ספרות.',

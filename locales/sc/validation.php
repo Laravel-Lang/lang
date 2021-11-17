@@ -36,6 +36,8 @@ return [
     'date'                 => ':attribute no est una data bàlida.',
     'date_equals'          => 'The :attribute must be a date equal to :date.',
     'date_format'          => ':attribute non torrat cun su formadu :format.',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => ':attribute e :other depent èssere diferentes.',
     'digits'               => ':attribute depet èssere de :digits tzifras.',
     'digits_between'       => ':attribute depet èssere intre :min e :max tzifras.',

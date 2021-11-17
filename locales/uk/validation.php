@@ -36,6 +36,8 @@ return [
     'date'                 => 'Поле :attribute не є датою.',
     'date_equals'          => 'Поле :attribute має бути датою рівною :date.',
     'date_format'          => 'Поле :attribute не відповідає формату :format.',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => 'Поля :attribute та :other повинні бути різними.',
     'digits'               => 'Довжина цифрового поля :attribute повинна дорівнювати :digits.',
     'digits_between'       => 'Довжина цифрового поля :attribute повинна бути від :min до :max.',

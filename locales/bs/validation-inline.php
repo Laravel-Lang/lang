@@ -36,6 +36,8 @@ return [
     'date'                 => 'Ovo nije važeći sastanak.',
     'date_equals'          => 'Ovo mora biti Datum jednako :date.',
     'date_format'          => 'Ovo ne odgovara formatu :format.',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => 'Ova vrijednost mora biti drugačija od :other.',
     'digits'               => 'Ovo mora da je :digits cifara.',
     'digits_between'       => 'Ovo mora da je između :min i :max cifara.',

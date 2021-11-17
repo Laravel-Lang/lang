@@ -36,6 +36,8 @@ return [
     'date'                 => ':attribute сана эмас.',
     'date_equals'          => ':attribute сана :date га тенг бўлиши керак.',
     'date_format'          => ':attribute майдони :format форматга мос келмади.',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => ':attribute ва :other майдонлари фарқли бўлиши керак.',
     'digits'               => ':attribute :digits рақамдан иборат бўлиши керак.',
     'digits_between'       => ':attribute узунлиги :min ва :max орасида бўлиши керак.',

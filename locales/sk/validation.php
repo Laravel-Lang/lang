@@ -36,6 +36,8 @@ return [
     'date'                 => ':Attribute má neplatný dátum.',
     'date_equals'          => ':Attribute musí byť dátum rovnajúci sa :date.',
     'date_format'          => ':Attribute sa nezhoduje s formátom :format.',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => ':Attribute a :other musia byť odlišné.',
     'digits'               => ':Attribute musí mať :digits číslic.',
     'digits_between'       => ':Attribute musí mať rozsah :min až :max číslic.',

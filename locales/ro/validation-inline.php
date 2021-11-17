@@ -36,6 +36,8 @@ return [
     'date'                 => 'Aceasta nu este o dată validă.',
     'date_equals'          => 'Aceasta trebuie să fie o dată egală cu :date.',
     'date_format'          => 'Acest lucru nu se potrivește cu formatul :format.',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => 'Această valoare trebuie să fie diferită de :other.',
     'digits'               => 'Acest lucru trebuie să fie :digits cifre.',
     'digits_between'       => 'Aceasta trebuie să fie între :min și :max de cifre.',

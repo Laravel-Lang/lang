@@ -36,6 +36,8 @@ return [
     'date'                 => 'Lauko :attribute reikšmė nėra galiojanti data.',
     'date_equals'          => 'Lauko :attribute reikšmė turi būti data lygi :date.',
     'date_format'          => 'Lauko :attribute reikšmė neatitinka formato :format.',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => 'Laukų :attribute ir :other reikšmės turi skirtis.',
     'digits'               => 'Laukas :attribute turi būti sudarytas iš :digits skaitmenų.',
     'digits_between'       => 'Laukas :attribute turi turėti nuo :min iki :max skaitmenų.',

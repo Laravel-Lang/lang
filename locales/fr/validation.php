@@ -36,6 +36,8 @@ return [
     'date'                 => 'Le champ :attribute n\'est pas une date valide.',
     'date_equals'          => 'Le champ :attribute doit être une date égale à :date.',
     'date_format'          => 'Le champ :attribute ne correspond pas au format :format.',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => 'Les champs :attribute et :other doivent être différents.',
     'digits'               => 'Le champ :attribute doit contenir :digits chiffres.',
     'digits_between'       => 'Le champ :attribute doit contenir entre :min et :max chiffres.',

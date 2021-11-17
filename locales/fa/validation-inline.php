@@ -36,6 +36,8 @@ return [
     'date'                 => 'این مقدار یک تاریخ معبتر نیست.',
     'date_equals'          => 'این مقدار باید یک تاریخ مساوی با :date باشد.',
     'date_format'          => 'این مقدار با فرمت :format همخوانی ندارد.',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => 'این مقدار باید متفاوت از :other باشد.',
     'digits'               => 'این مقدار باید :digits رقمی باشد.',
     'digits_between'       => 'تعداد ارقام این مقدار باید بین :min و :max باشد.',

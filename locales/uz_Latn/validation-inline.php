@@ -36,6 +36,8 @@ return [
     'date'                 => 'Bu amal sana emas.',
     'date_equals'          => 'Bu :date ga teng sana bo\'lishi kerak.',
     'date_format'          => 'Bu :format formatiga mos kelmaydi.',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => 'Bu qiymat :other dan farq qilishi kerak.',
     'digits'               => 'Bu :digits raqam bo\'lishi kerak.',
     'digits_between'       => 'Bu :min va :max raqamlar orasida bo\'lishi kerak.',

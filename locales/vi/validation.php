@@ -36,6 +36,8 @@ return [
     'date'                 => 'Trường :attribute không phải là định dạng của ngày-tháng.',
     'date_equals'          => 'Trường :attribute phải là một ngày bằng với :date.',
     'date_format'          => 'Trường :attribute không giống với định dạng :format.',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => 'Trường :attribute và :other phải khác nhau.',
     'digits'               => 'Độ dài của trường :attribute phải gồm :digits chữ số.',
     'digits_between'       => 'Độ dài của trường :attribute phải nằm trong khoảng :min and :max chữ số.',

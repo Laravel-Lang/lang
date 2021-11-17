@@ -36,6 +36,8 @@ return [
     'date'                 => 'שדה :attribute אינו תאריך תקני.',
     'date_equals'          => 'על ה :attribute להיות תאריך שווה ל- :date.',
     'date_format'          => 'שדה :attribute לא תואם את הפורמט :format.',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => 'שדה :attribute ושדה :other חייבים להיות שונים.',
     'digits'               => 'שדה :attribute חייב להיות בעל :digits ספרות.',
     'digits_between'       => 'שדה :attribute חייב להיות בין :min ו-:max ספרות.',

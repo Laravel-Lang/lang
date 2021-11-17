@@ -36,6 +36,8 @@ return [
     'date'                 => 'Nid yw :attribute yn ddyddiad dilys.',
     'date_equals'          => 'Y :attribute rhaid dyddiad cyfartal i :date.',
     'date_format'          => 'Nid yw :attribute yn y fformat :format.',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => 'Rhaid i :attribute a :other fod yn wahanol.',
     'digits'               => 'Rhaid i :attribute fod yn :digits digid.',
     'digits_between'       => 'Rhaid i :attribute fod rhwng :min a :max digid.',

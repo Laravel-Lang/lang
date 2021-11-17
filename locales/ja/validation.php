@@ -36,6 +36,8 @@ return [
     'date'                 => ':attributeは、正しい日付ではありません。',
     'date_equals'          => ':attributeは:dateに等しい日付でなければなりません。',
     'date_format'          => ':attributeの形式は、\':format\'と合いません。',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => ':attributeと:otherには、異なるものを指定してください。',
     'digits'               => ':attributeは、:digits桁にしてください。',
     'digits_between'       => ':attributeは、:min桁から:max桁にしてください。',

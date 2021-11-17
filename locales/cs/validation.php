@@ -36,6 +36,8 @@ return [
     'date'                 => ':attribute musí být platné datum.',
     'date_equals'          => ':attribute musí být datum shodné s :date.',
     'date_format'          => ':attribute není platný formát data podle :format.',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => ':attribute a :other se musí lišit.',
     'digits'               => ':attribute musí být :digits pozic dlouhé.',
     'digits_between'       => ':attribute musí být dlouhé nejméně :min a nejvíce :max pozic.',

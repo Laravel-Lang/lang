@@ -36,6 +36,8 @@ return [
     'date'                 => 'Dit is nie \'n geldige datum nie.',
     'date_equals'          => 'Dit moet \'n datum wees wat gelyk is aan :date.',
     'date_format'          => 'Dit stem nie ooreen met die :format formaat nie.',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => 'Hierdie waarde moet verskil van :other.',
     'digits'               => 'Dit moet :digits syfers wees.',
     'digits_between'       => 'Dit moet tussen :min en :max syfers wees.',

@@ -36,6 +36,8 @@ return [
     'date'                 => ' :attribute tarix formatında olmalıdır',
     'date_equals'          => ':attribute :date-ə bərabər bir tarix olmalıdır.',
     'date_format'          => ' :attribute :format formatında olmalıdır',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => ' :attribute və :other fərqli olmalıdır',
     'digits'               => ' :attribute :digits rəqəmli olmalıdır',
     'digits_between'       => ' :attribute :min ilə :max rəqəmləri intervalında olmalıdır',

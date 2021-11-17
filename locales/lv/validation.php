@@ -36,6 +36,8 @@ return [
     'date'                 => ':attribute nav derīgs.',
     'date_equals'          => ':attribute datumam jāsakrīt ar :date.',
     'date_format'          => ':attribute neatbilst formātam :format.',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => ':attribute un :other ir jābūt atšķirīgiem.',
     'digits'               => ':attribute ir jābūt :digits cipariem.',
     'digits_between'       => ':attribute garumam ir jābūt starp :min un :max cipariem.',

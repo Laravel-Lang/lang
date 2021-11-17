@@ -36,6 +36,8 @@ return [
     'date'                 => 'Το πεδίο :attribute δεν είναι έγκυρη ημερομηνία.',
     'date_equals'          => 'Το στοιχείο :attribute πρέπει να είναι μια ημερομηνία, όπως η εξής :date.',
     'date_format'          => 'Το πεδίο :attribute δεν είναι της μορφής :format.',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => 'Το πεδίο :attribute και :other πρέπει να είναι διαφορετικά.',
     'digits'               => 'Το πεδίο :attribute πρέπει να είναι :digits ψηφία.',
     'digits_between'       => 'Το πεδίο :attribute πρέπει να είναι μεταξύ :min και :max ψηφία.',

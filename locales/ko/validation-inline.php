@@ -36,6 +36,8 @@ return [
     'date'                 => '유효한 날짜가 아닙니다.',
     'date_equals'          => ':date과(와) 같은날짜여야합니다.',
     'date_format'          => ':format 형식과 일치하지 않습니다.',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => '이 값과 :other은(는) 서로 달라야 합니다.',
     'digits'               => ':digits 자리 숫자여야 합니다.',
     'digits_between'       => ':min에서 :max 자리 사이여야 합니다.',

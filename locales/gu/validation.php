@@ -36,6 +36,8 @@ return [
     'date'                 => ':attribute માન્ય તારીખ નથી.',
     'date_equals'          => ':attribute સમાંતર તારીખ હોવી જોઈએ :તારીખ.',
     'date_format'          => ':attribute ગોઠવણ સાથે બંધબેસતું નથી :ગોઠવણ.',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => ':attribute અને :other અલગ હોવું જોઈએ.',
     'digits'               => ':attribute હોવું જોઈએ  :digits અંક.',
     'digits_between'       => ':attribute વચ્ચે હોવું જોઈએ :min અને :max અંક.',

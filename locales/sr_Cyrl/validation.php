@@ -36,6 +36,8 @@ return [
     'date'                 => 'Поље :attribute није важећи датум.',
     'date_equals'          => 'Поље :attribute мора да буде датум: :date.',
     'date_format'          => 'Поље :attribute не одговора према формату :format.',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => 'Поља :attribute и :other морају бити различита.',
     'digits'               => 'Поље :attribute мора садржати :digits шифри.',
     'digits_between'       => 'Поље :attribute мора бити иземђу :min и :max шифри.',

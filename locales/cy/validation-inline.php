@@ -36,6 +36,8 @@ return [
     'date'                 => 'Nid yw hyn yn ddilys ar y dyddiad.',
     'date_equals'          => 'Rhaid i hwn fod yn ddyddiad yn hafal i :date.',
     'date_format'          => 'Nid yw hyn yn cyfateb i\'r fformat :format.',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => 'Y gwerth hwn mae\'n rhaid i fod yn wahanol :other.',
     'digits'               => 'Rhaid i hyn fod yn :digits digid.',
     'digits_between'       => 'Rhaid i hyn fod rhwng :min a :max digid.',

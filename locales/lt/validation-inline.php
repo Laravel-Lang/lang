@@ -36,6 +36,8 @@ return [
     'date'                 => 'Šio lauko reikšmė nėra galiojanti data.',
     'date_equals'          => 'Šio lauko reikšmė turi būti data lygi :date.',
     'date_format'          => 'Šio lauko reikšmė neatitinka formato :format.',
+    'declined'             => 'This value must be declined.',
+    'declined_if'          => 'This value must be declined when :other is :value.',
     'different'            => 'Šio lauko reikšmė privalo skirtis nuo :other.',
     'digits'               => 'Šio laukas turi būti sudarytas iš :digits skaitmenų.',
     'digits_between'       => 'Šis laukas turi turėti nuo :min iki :max skaitmenų.',

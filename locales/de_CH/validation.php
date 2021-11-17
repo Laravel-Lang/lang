@@ -36,6 +36,8 @@ return [
     'date'                 => ':attribute muss ein gültiges Datum sein.',
     'date_equals'          => ':attribute muss ein Datum gleich dem :date sein.',
     'date_format'          => ':attribute entspricht nicht dem gültigen Format für :format.',
+    'declined'             => 'The :attribute must be declined.',
+    'declined_if'          => 'The :attribute must be declined when :other is :value.',
     'different'            => ':attribute und :other müssen sich unterscheiden.',
     'digits'               => ':attribute muss :digits Stellen haben.',
     'digits_between'       => ':attribute muss zwischen :min und :max Stellen haben.',

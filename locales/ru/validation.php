@@ -36,6 +36,8 @@ return [
     'date'                 => 'Поле :attribute не является датой.',
     'date_equals'          => 'Поле :attribute должно быть датой равной :date.',
     'date_format'          => 'Поле :attribute не соответствует формату :format.',
+    'declined'             => 'Поле :attribute должно быть отклонено.',
+    'declined_if'          => 'Поле :attribute должно быть отклонено, когда :other равно :value.',
     'different'            => 'Поля :attribute и :other должны различаться.',
     'digits'               => 'Длина цифрового поля :attribute должна быть :digits.',
     'digits_between'       => 'Длина цифрового поля :attribute должна быть между :min и :max.',

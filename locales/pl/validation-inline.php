@@ -37,7 +37,7 @@ return [
     'date_equals'          => 'Pole musi być datą równą :date.',
     'date_format'          => 'Pole nie jest w formacie :format.',
     'declined'             => 'Wartość musi zostać odrzucona.',
-    'declined_if'          => 'Wartość musi zostać odrzucona, gdy :other ma wartość :value',
+    'declined_if'          => 'Wartość musi zostać odrzucona, gdy :other ma wartość :value.',
     'different'            => 'Pole oraz :other muszą się różnić.',
     'digits'               => 'Pole musi składać się z :digits cyfr.',
     'digits_between'       => 'Pole musi mieć od :min do :max cyfr.',

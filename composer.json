@@ -19,20 +19,30 @@
         "arcanedev/laravel-lang": "Translations manager and checker for Laravel 5"
     },
     "require": {
-        "ext-json": "*"
+        "php": "^7.3|^8.0",
+        "ext-json": "*",
+        "laravel-lang/publisher": "^11.1-beta2"
     },
     "require-dev": {
-        "php": "^8.0",
         "dragon-code/pretty-array": "^3.0",
         "dragon-code/support": "^5.0",
         "guzzlehttp/guzzle": "^7.3",
         "laravel/breeze": "^1.2",
         "laravel/fortify": "^1.7",
         "laravel/jetstream": "^2.3",
+        "orchestra/testbench": "^5.0|^6.0|^7.0",
         "phpunit/phpunit": "^9.5",
         "symfony/finder": "^5.2",
         "symfony/var-dumper": "^5.2",
         "vlucas/phpdotenv": "^5.3"
+    },
+    "conflict": {
+        "laravel-lang/publisher": "<11.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "LaravelLang\\Lang\\": "src"
+        }
     },
     "autoload-dev": {
         "psr-4": {
@@ -48,5 +58,12 @@
         "sort-packages": true
     },
     "minimum-stability": "stable",
-    "prefer-stable": true
+    "prefer-stable": true,
+    "extra": {
+        "laravel": {
+            "providers": [
+                "LaravelLang\\Lang\\ServiceProvider"
+            ]
+        }
+    }
 }

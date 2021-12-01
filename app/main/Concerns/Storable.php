@@ -1,10 +1,10 @@
 <?php
 
-namespace LaravelLang\Lang\Concerns;
+namespace LaravelLang\Development\Concerns;
 
 use DragonCode\Support\Facades\Helpers\Instance;
 use DragonCode\Support\Tools\Stub;
-use LaravelLang\Lang\Contracts\Stringable;
+use LaravelLang\Development\Contracts\Stringable;
 
 trait Storable
 {

@@ -36,8 +36,8 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "LaravelLang\\Lang\\": "app/main",
-            "Tests\\": "app/tests"
+            "LaravelLang\\Development\\": "app/main",
+            "Tests\\": "tests"
         },
         "files": [
             "app/main/helpers.php"

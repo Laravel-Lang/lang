@@ -1,21 +1,21 @@
 <?php
 
-namespace LaravelLang\Lang\Processors;
+namespace LaravelLang\Development\Processors;
 
 use DragonCode\Support\Concerns\Makeable;
 use DragonCode\Support\Facades\Helpers\Arr;
 use DragonCode\Support\Facades\Helpers\Filesystem\Directory;
 use DragonCode\Support\Facades\Helpers\Filesystem\File;
 use DragonCode\Support\Tools\Stub;
-use LaravelLang\Lang\Application;
-use LaravelLang\Lang\Concerns\Contains;
-use LaravelLang\Lang\Contracts\Filesystem;
-use LaravelLang\Lang\Contracts\Processable;
-use LaravelLang\Lang\Contracts\Stringable;
-use LaravelLang\Lang\Services\Filesystem\Base;
-use LaravelLang\Lang\Services\Filesystem\Json as JsonFilesystem;
-use LaravelLang\Lang\Services\Filesystem\Markdown as MarkdownFilesystem;
-use LaravelLang\Lang\Services\Filesystem\Php as PhpFilesystem;
+use LaravelLang\Development\Application;
+use LaravelLang\Development\Concerns\Contains;
+use LaravelLang\Development\Contracts\Filesystem;
+use LaravelLang\Development\Contracts\Processable;
+use LaravelLang\Development\Contracts\Stringable;
+use LaravelLang\Development\Services\Filesystem\Base;
+use LaravelLang\Development\Services\Filesystem\Json as JsonFilesystem;
+use LaravelLang\Development\Services\Filesystem\Markdown as MarkdownFilesystem;
+use LaravelLang\Development\Services\Filesystem\Php as PhpFilesystem;
 
 abstract class Processor implements Processable
 {
@@ -28,7 +28,7 @@ abstract class Processor implements Processable
 
     protected string $target_path;
 
-    /** @var \LaravelLang\Lang\Contracts\Filesystem[]|array */
+    /** @var \LaravelLang\Development\Contracts\Filesystem[]|array */
     protected array $filesystems = [];
 
     public function application(Application $app): Processable

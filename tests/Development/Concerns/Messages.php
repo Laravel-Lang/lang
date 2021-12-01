@@ -1,6 +1,6 @@
 <?php
 
-namespace Tests\Concerns;
+namespace Tests\Development\Concerns;
 
 trait Messages
 {

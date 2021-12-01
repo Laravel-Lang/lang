@@ -1,6 +1,6 @@
 <?php
 
-namespace Tests;
+namespace Tests\Development;
 
 use DragonCode\PrettyArray\Services\File as Pretty;
 

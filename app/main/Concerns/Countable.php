@@ -1,10 +1,10 @@
 <?php
 
-namespace LaravelLang\Lang\Concerns;
+namespace LaravelLang\Development\Concerns;
 
 use DragonCode\Support\Facades\Helpers\Digit;
 use DragonCode\Support\Facades\Helpers\Str;
-use LaravelLang\Lang\Services\Counter;
+use LaravelLang\Development\Services\Counter;
 
 trait Countable
 {

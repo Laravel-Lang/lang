@@ -1,11 +1,11 @@
 <?php
 
-namespace LaravelLang\Lang\Facades;
+namespace LaravelLang\Development\Facades;
 
 use DragonCode\Support\Facades\Facade;
-use LaravelLang\Lang\Support\Finder;
-use LaravelLang\Lang\Support\Package as Support;
-use LaravelLang\Lang\Support\Parser;
+use LaravelLang\Development\Support\Finder;
+use LaravelLang\Development\Support\Package as Support;
+use LaravelLang\Development\Support\Parser;
 use Symfony\Component\Finder\Finder as SymfonyFinder;
 
 /**

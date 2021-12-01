@@ -1,11 +1,11 @@
 <?php
 
-namespace LaravelLang\Lang\Facades;
+namespace LaravelLang\Development\Facades;
 
 use Dotenv\Repository\AdapterRepository;
 use Dotenv\Repository\RepositoryInterface;
 use DragonCode\Support\Facades\Facade;
-use LaravelLang\Lang\Support\Env as Support;
+use LaravelLang\Development\Support\Env as Support;
 
 /**
  * @method static mixed get(string $key, mixed $default = null)

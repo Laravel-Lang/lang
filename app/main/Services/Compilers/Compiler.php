@@ -2,7 +2,7 @@
 
 namespace LaravelLang\Lang\Services\Compilers;
 
-use Helldar\Support\Concerns\Makeable;
+use DragonCode\Support\Concerns\Makeable;
 use LaravelLang\Lang\Concerns\Contains;
 use LaravelLang\Lang\Concerns\Template;
 use LaravelLang\Lang\Contracts\Application;

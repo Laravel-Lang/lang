@@ -2,8 +2,8 @@
 
 namespace LaravelLang\Lang\Concerns;
 
-use Helldar\Support\Facades\Helpers\Digit;
-use Helldar\Support\Facades\Helpers\Str;
+use DragonCode\Support\Facades\Helpers\Digit;
+use DragonCode\Support\Facades\Helpers\Str;
 use LaravelLang\Lang\Services\Counter;
 
 trait Countable

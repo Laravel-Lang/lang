@@ -7,7 +7,7 @@ use Dotenv\Repository\RepositoryBuilder;
 use Dotenv\Repository\RepositoryInterface;
 use PhpOption\Option;
 
-final class Env
+class Env
 {
     protected static RepositoryInterface|AdapterRepository|null $repository;
 

@@ -2,12 +2,12 @@
 
 namespace LaravelLang\Lang\Services\Filesystem;
 
-use Helldar\PrettyArray\Services\File as Pretty;
-use Helldar\Support\Facades\Helpers\Arr;
-use Helldar\Support\Tools\Stub;
+use DragonCode\PrettyArray\Services\File as Pretty;
+use DragonCode\Support\Facades\Helpers\Arr;
+use DragonCode\Support\Tools\Stub;
 use LaravelLang\Lang\Contracts\Stringable;
 
-final class Json extends Base
+class Json extends Base
 {
     public function load(string $path): array
     {

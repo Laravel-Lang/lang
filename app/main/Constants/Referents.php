@@ -2,7 +2,7 @@
 
 namespace LaravelLang\Lang\Constants;
 
-final class Referents
+class Referents
 {
     public const ar = ['mohamedsabil83', 'Khuthaily'];
 

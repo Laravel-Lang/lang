@@ -2,8 +2,8 @@
 
 namespace LaravelLang\Lang\Support;
 
-use Helldar\Support\Facades\Helpers\Filesystem\Directory;
-use Helldar\Support\Facades\Helpers\Str;
+use DragonCode\Support\Facades\Helpers\Filesystem\Directory;
+use DragonCode\Support\Facades\Helpers\Str;
 
 class Package
 {

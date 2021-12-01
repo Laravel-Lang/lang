@@ -2,9 +2,9 @@
 
 namespace Tests;
 
-use Helldar\PrettyArray\Services\File as Pretty;
+use DragonCode\PrettyArray\Services\File as Pretty;
 
-final class PhpTest extends TestCase
+class PhpTest extends TestCase
 {
     public function testPhp(): void
     {

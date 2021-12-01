@@ -5,7 +5,7 @@ namespace LaravelLang\Lang\Processors\Statuses;
 use LaravelLang\Lang\Contracts\Stringable;
 use LaravelLang\Lang\Services\Compilers\Status;
 
-final class Main extends Processor
+class Main extends Processor
 {
     protected function saving(): void
     {

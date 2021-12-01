@@ -5,7 +5,7 @@ namespace LaravelLang\Lang\Processors\Statuses;
 use LaravelLang\Lang\Facades\Translate;
 use Throwable;
 
-final class Translator extends Processor
+class Translator extends Processor
 {
     protected function saving(): void
     {

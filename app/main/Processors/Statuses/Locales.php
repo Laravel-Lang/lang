@@ -2,14 +2,14 @@
 
 namespace LaravelLang\Lang\Processors\Statuses;
 
-use Helldar\Support\Facades\Helpers\Filesystem\Directory;
-use Helldar\Support\Facades\Helpers\Str;
+use DragonCode\Support\Facades\Helpers\Filesystem\Directory;
+use DragonCode\Support\Facades\Helpers\Str;
 use LaravelLang\Lang\Constants\Resource;
 use LaravelLang\Lang\Contracts\Stringable;
 use LaravelLang\Lang\Services\Compilers\Collection;
 use LaravelLang\Lang\Services\Compilers\Locale;
 
-final class Locales extends Processor
+class Locales extends Processor
 {
     protected function saving(): void
     {

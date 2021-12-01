@@ -4,7 +4,7 @@ namespace LaravelLang\Lang\Services\Compilers;
 
 use LaravelLang\Lang\Constants\Resource;
 
-final class Locale extends Compiler
+class Locale extends Compiler
 {
     public function toString(): string
     {

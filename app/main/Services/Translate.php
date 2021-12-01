@@ -4,9 +4,9 @@ namespace LaravelLang\Lang\Services;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\RequestOptions;
-use Helldar\Support\Facades\Helpers\Str;
+use DragonCode\Support\Facades\Helpers\Str;
 
-final class Translate
+class Translate
 {
     protected string $url = 'https://translate.api.cloud.yandex.net/translate/v2/translate';
 

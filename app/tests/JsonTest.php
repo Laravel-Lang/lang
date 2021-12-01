@@ -2,9 +2,9 @@
 
 namespace Tests;
 
-use Helldar\PrettyArray\Services\File as Pretty;
+use DragonCode\PrettyArray\Services\File as Pretty;
 
-final class JsonTest extends TestCase
+class JsonTest extends TestCase
 {
     public function testJson(): void
     {

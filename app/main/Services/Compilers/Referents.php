@@ -4,7 +4,7 @@ namespace LaravelLang\Lang\Services\Compilers;
 
 use LaravelLang\Lang\Constants\Resource;
 
-final class Referents extends Compiler
+class Referents extends Compiler
 {
     public function toString(): string
     {

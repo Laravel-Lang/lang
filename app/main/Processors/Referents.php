@@ -2,7 +2,7 @@
 
 namespace LaravelLang\Lang\Processors;
 
-use Helldar\Support\Facades\Helpers\Filesystem\Directory;
+use DragonCode\Support\Facades\Helpers\Filesystem\Directory;
 use LaravelLang\Lang\Concerns\Template;
 use LaravelLang\Lang\Constants\Referents as Constants;
 use LaravelLang\Lang\Contracts\Stringable;
@@ -10,7 +10,7 @@ use LaravelLang\Lang\Services\Compilers\Referents as Compilator;
 use ReflectionClass;
 use ReflectionClassConstant;
 
-final class Referents extends Processor
+class Referents extends Processor
 {
     use Template;
 

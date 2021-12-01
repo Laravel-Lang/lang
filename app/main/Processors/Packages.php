@@ -2,10 +2,10 @@
 
 namespace LaravelLang\Lang\Processors;
 
-use Helldar\Support\Facades\Helpers\Arr;
+use DragonCode\Support\Facades\Helpers\Arr;
 use LaravelLang\Lang\Facades\Package;
 
-final class Packages extends Processor
+class Packages extends Processor
 {
     protected array $packages = [
         'laravel/breeze'    => 'packages/breeze.json',

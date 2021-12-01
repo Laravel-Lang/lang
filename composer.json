@@ -14,17 +14,17 @@
         "source": "https://github.com/Laravel-Lang/lang"
     },
     "suggest": {
+        "laravel-lang/publisher": "Easy installation and update of translation files for your project",
         "overtrue/laravel-lang": "Command to add languages in your project",
-        "arcanedev/laravel-lang": "Translations manager and checker for Laravel 5",
-        "andrey-helldar/laravel-lang-publisher": "Easy installation and update of translation files for your project"
+        "arcanedev/laravel-lang": "Translations manager and checker for Laravel 5"
     },
     "require": {
         "ext-json": "*"
     },
     "require-dev": {
         "php": "^8.0",
-        "andrey-helldar/pretty-array": "^2.3",
-        "andrey-helldar/support": "^4.7",
+        "dragon-code/pretty-array": "^3.0",
+        "dragon-code/support": "^5.0",
         "guzzlehttp/guzzle": "^7.3",
         "laravel/breeze": "^1.2",
         "laravel/fortify": "^1.7",

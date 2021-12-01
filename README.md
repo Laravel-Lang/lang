@@ -21,7 +21,7 @@ In this repository, you can find the lang files for the [Laravel Framework 4/5/6
 
 ## Translation managers
 
-* [Official Publisher](https://github.com/Laravel-Lang/publisher) by [*@andrey-helldar*](https://github.com/andrey-helldar) - Easy installation and update of translation files for your project.
+* [Official Publisher](https://github.com/Laravel-Lang/publisher) - Easy installation and update of translation files for your project.
 * [LaravelLang](https://github.com/ARCANEDEV/LaravelLang) by [*@arcanedev-maroc*](https://github.com/ARCANEDEV) - Translations manager and checker for Laravel.
 * [Laravel-lang](https://github.com/overtrue/laravel-lang) by [*@overtrue*](https://github.com/overtrue) - Command to add languages in your project.
 

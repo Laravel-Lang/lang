@@ -4,7 +4,7 @@ namespace LaravelLang\Lang\Models;
 
 use LaravelLang\Lang\Constants\Machines;
 
-final class Locale extends Model
+class Locale extends Model
 {
     public function __construct(
         protected ?string $locale = null,

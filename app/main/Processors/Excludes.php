@@ -5,7 +5,7 @@ namespace LaravelLang\Lang\Processors;
 use DragonCode\Support\Facades\Helpers\Arr;
 use DragonCode\Support\Facades\Helpers\Filesystem\File;
 
-final class Excludes extends Processor
+class Excludes extends Processor
 {
     protected string $target_path = 'excludes';
 

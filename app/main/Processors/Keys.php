@@ -4,7 +4,7 @@ namespace LaravelLang\Lang\Processors;
 
 use DragonCode\Support\Facades\Helpers\Filesystem\File;
 
-final class Keys extends Processor
+class Keys extends Processor
 {
     protected string $target_path = 'locales';
 

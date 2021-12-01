@@ -7,7 +7,7 @@ use DragonCode\PrettyArray\Services\Formatter;
 use DragonCode\Support\Tools\Stub;
 use LaravelLang\Lang\Contracts\Stringable;
 
-final class Php extends Base
+class Php extends Base
 {
     public function load(string $path): array
     {

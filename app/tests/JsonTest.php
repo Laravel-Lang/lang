@@ -4,7 +4,7 @@ namespace Tests;
 
 use DragonCode\PrettyArray\Services\File as Pretty;
 
-final class JsonTest extends TestCase
+class JsonTest extends TestCase
 {
     public function testJson(): void
     {

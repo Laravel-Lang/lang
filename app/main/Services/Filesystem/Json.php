@@ -7,7 +7,7 @@ use DragonCode\Support\Facades\Helpers\Arr;
 use DragonCode\Support\Tools\Stub;
 use LaravelLang\Lang\Contracts\Stringable;
 
-final class Json extends Base
+class Json extends Base
 {
     public function load(string $path): array
     {

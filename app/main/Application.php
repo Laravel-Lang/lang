@@ -8,7 +8,7 @@ use LaravelLang\Lang\Contracts\Application as ApplicationContract;
 use LaravelLang\Lang\Contracts\Processable;
 use LaravelLang\Lang\Facades\Env;
 
-final class Application implements ApplicationContract
+class Application implements ApplicationContract
 {
     use Makeable;
 

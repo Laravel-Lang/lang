@@ -6,7 +6,7 @@ use DragonCode\Support\Facades\Helpers\Str;
 use LaravelLang\Lang\Constants\Resource;
 use LaravelLang\Lang\Models\Locale;
 
-final class Status extends Compiler
+class Status extends Compiler
 {
     protected int $columns = 6;
 

@@ -5,7 +5,7 @@ namespace Tests;
 use DragonCode\Support\Facades\Helpers\Filesystem\Directory;
 use DragonCode\Support\Facades\Helpers\Str;
 
-final class StatusTest extends TestCase
+class StatusTest extends TestCase
 {
     protected string $target_path = __DIR__ . '/../../locales';
 

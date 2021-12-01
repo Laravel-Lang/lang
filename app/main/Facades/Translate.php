@@ -8,7 +8,7 @@ use LaravelLang\Lang\Services\Translate as Service;
 /**
  * @method static string translate(string $locale, string $text)
  */
-final class Translate extends Facade
+class Translate extends Facade
 {
     protected static function getFacadeAccessor()
     {

@@ -4,7 +4,7 @@ namespace LaravelLang\Lang\Services;
 
 use DragonCode\Support\Concerns\Makeable;
 
-final class Counter
+class Counter
 {
     use Makeable;
 

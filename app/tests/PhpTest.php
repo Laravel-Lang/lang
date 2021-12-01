@@ -4,7 +4,7 @@ namespace Tests;
 
 use DragonCode\PrettyArray\Services\File as Pretty;
 
-final class PhpTest extends TestCase
+class PhpTest extends TestCase
 {
     public function testPhp(): void
     {

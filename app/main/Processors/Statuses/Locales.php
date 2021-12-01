@@ -9,7 +9,7 @@ use LaravelLang\Lang\Contracts\Stringable;
 use LaravelLang\Lang\Services\Compilers\Collection;
 use LaravelLang\Lang\Services\Compilers\Locale;
 
-final class Locales extends Processor
+class Locales extends Processor
 {
     protected function saving(): void
     {

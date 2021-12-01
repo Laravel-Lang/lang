@@ -2,7 +2,7 @@
 
 namespace LaravelLang\Lang\Constants;
 
-final class Resource
+class Resource
 {
     public const STATUS = 'status.stub';
 

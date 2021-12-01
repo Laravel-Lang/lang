@@ -2,7 +2,7 @@
 
 namespace LaravelLang\Lang\Services\Compilers;
 
-use Helldar\Support\Facades\Helpers\Str;
+use DragonCode\Support\Facades\Helpers\Str;
 use LaravelLang\Lang\Constants\Resource;
 use LaravelLang\Lang\Models\Locale;
 

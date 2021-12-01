@@ -2,7 +2,7 @@
 
 namespace LaravelLang\Lang\Processors;
 
-use Helldar\Support\Facades\Helpers\Filesystem\Directory;
+use DragonCode\Support\Facades\Helpers\Filesystem\Directory;
 use LaravelLang\Lang\Concerns\Template;
 use LaravelLang\Lang\Constants\Referents as Constants;
 use LaravelLang\Lang\Contracts\Stringable;

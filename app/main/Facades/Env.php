@@ -4,7 +4,7 @@ namespace LaravelLang\Lang\Facades;
 
 use Dotenv\Repository\AdapterRepository;
 use Dotenv\Repository\RepositoryInterface;
-use Helldar\Support\Facades\Facade;
+use DragonCode\Support\Facades\Facade;
 use LaravelLang\Lang\Support\Env as Support;
 
 /**

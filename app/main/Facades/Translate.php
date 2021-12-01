@@ -2,7 +2,7 @@
 
 namespace LaravelLang\Lang\Facades;
 
-use Helldar\Support\Facades\Facade;
+use DragonCode\Support\Facades\Facade;
 use LaravelLang\Lang\Services\Translate as Service;
 
 /**

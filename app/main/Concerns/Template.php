@@ -2,8 +2,8 @@
 
 namespace LaravelLang\Lang\Concerns;
 
-use Helldar\PrettyArray\Services\File;
-use Helldar\Support\Facades\Helpers\Str;
+use DragonCode\PrettyArray\Services\File;
+use DragonCode\Support\Facades\Helpers\Str;
 
 trait Template
 {

@@ -2,7 +2,7 @@
 
 namespace LaravelLang\Lang\Support;
 
-use Helldar\Support\Concerns\Makeable;
+use DragonCode\Support\Concerns\Makeable;
 use Symfony\Component\Finder\Finder as SymfonyFinder;
 
 class Finder

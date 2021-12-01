@@ -4,7 +4,7 @@ namespace LaravelLang\Lang\Services;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\RequestOptions;
-use Helldar\Support\Facades\Helpers\Str;
+use DragonCode\Support\Facades\Helpers\Str;
 
 final class Translate
 {

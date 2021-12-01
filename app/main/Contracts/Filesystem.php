@@ -2,7 +2,7 @@
 
 namespace LaravelLang\Lang\Contracts;
 
-use Helldar\Support\Tools\Stub;
+use DragonCode\Support\Tools\Stub;
 use LaravelLang\Lang\Application;
 
 interface Filesystem

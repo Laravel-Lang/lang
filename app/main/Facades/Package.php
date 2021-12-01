@@ -2,7 +2,7 @@
 
 namespace LaravelLang\Lang\Facades;
 
-use Helldar\Support\Facades\Facade;
+use DragonCode\Support\Facades\Facade;
 use LaravelLang\Lang\Support\Finder;
 use LaravelLang\Lang\Support\Package as Support;
 use LaravelLang\Lang\Support\Parser;

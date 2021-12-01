@@ -2,7 +2,7 @@
 
 namespace LaravelLang\Lang\Models;
 
-use Helldar\Support\Concerns\Makeable;
+use DragonCode\Support\Concerns\Makeable;
 
 abstract class Model
 {

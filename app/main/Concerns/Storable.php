@@ -2,8 +2,8 @@
 
 namespace LaravelLang\Lang\Concerns;
 
-use Helldar\Support\Facades\Helpers\Instance;
-use Helldar\Support\Tools\Stub;
+use DragonCode\Support\Facades\Helpers\Instance;
+use DragonCode\Support\Tools\Stub;
 use LaravelLang\Lang\Contracts\Stringable;
 
 trait Storable

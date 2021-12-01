@@ -2,7 +2,7 @@
 
 # fa
 
-##### All missed: 137
+##### All missed: 122
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/fa/validation-inline.php)
@@ -155,7 +155,7 @@ This :attribute may not be associated with this resource.
 
 ### [fa](https://github.com/Laravel-Lang/lang/blob/master/locales/fa/fa.json)
 
-##### Missing: 119
+##### Missing: 104
 
 <table >
 <tr><td align="left" >
@@ -163,15 +163,7 @@ Currently Subscribed
 </td>
 </tr>
 <tr><td align="left" >
-ID
-</td>
-</tr>
-<tr><td align="left" >
 Micronesia, Federated States of
-</td>
-</tr>
-<tr><td align="left" >
-Moldova
 </td>
 </tr>
 <tr><td align="left" >
@@ -183,14 +175,6 @@ Monaco
 </td>
 </tr>
 <tr><td align="left" >
-Mongolia
-</td>
-</tr>
-<tr><td align="left" >
-Montenegro
-</td>
-</tr>
-<tr><td align="left" >
 Montserrat
 </td>
 </tr>
@@ -199,39 +183,7 @@ Mozambique
 </td>
 </tr>
 <tr><td align="left" >
-Myanmar
-</td>
-</tr>
-<tr><td align="left" >
-Namibia
-</td>
-</tr>
-<tr><td align="left" >
-Nauru
-</td>
-</tr>
-<tr><td align="left" >
-Netherlands Antilles
-</td>
-</tr>
-<tr><td align="left" >
 New Caledonia
-</td>
-</tr>
-<tr><td align="left" >
-Nicaragua
-</td>
-</tr>
-<tr><td align="left" >
-Niger
-</td>
-</tr>
-<tr><td align="left" >
-Nigeria
-</td>
-</tr>
-<tr><td align="left" >
-Niue
 </td>
 </tr>
 <tr><td align="left" >
@@ -244,18 +196,6 @@ No Current Data
 </tr>
 <tr><td align="left" >
 No Prior Data
-</td>
-</tr>
-<tr><td align="left" >
-Norfolk Island
-</td>
-</tr>
-<tr><td align="left" >
-Northern Mariana Islands
-</td>
-</tr>
-<tr><td align="left" >
-Norway
 </td>
 </tr>
 <tr><td align="left" >

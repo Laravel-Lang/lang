@@ -37,7 +37,7 @@
         "vlucas/phpdotenv": "^5.3"
     },
     "conflict": {
-        "laravel-lang/publisher": "<11.0"
+        "laravel-lang/publisher": "<11.1"
     },
     "autoload": {
         "psr-4": {

@@ -33,9 +33,9 @@ class ResetTest extends InlineOffTestCase
     {
         $this->copyFixtures();
 
-        $this->assertSame('Foo', __('custom.hello'));
-        $this->assertSame('Bar', __('custom.world'));
-        $this->assertSame('Unknown Foo', __('custom.unknown'));
+        $this->assertSame('Foo', __('auth.failed'));
+        $this->assertSame('Bar', __('auth.password'));
+        $this->assertSame('Unknown Foo', __('auth.unknown'));
 
         $this->assertSame('Foo', __('Hello'));
         $this->assertSame('Bar', __('World'));
@@ -49,9 +49,9 @@ class ResetTest extends InlineOffTestCase
 
         $this->refreshLocales();
 
-        $this->assertSame('Hello!', __('custom.hello'));
-        $this->assertSame('World!', __('custom.world'));
-        $this->assertSame('Unknown Foo', __('custom.unknown'));
+        $this->assertSame('These credentials do not match our records.', __('auth.failed'));
+        $this->assertSame('The provided password is incorrect.', __('auth.password'));
+        $this->assertSame('Unknown Foo', __('auth.unknown'));
 
         $this->assertSame('Foo', __('Hello'));
         $this->assertSame('Bar', __('World'));
@@ -64,9 +64,9 @@ class ResetTest extends InlineOffTestCase
     {
         $this->copyFixtures();
 
-        $this->assertSame('Foo', __('custom.hello'));
-        $this->assertSame('Bar', __('custom.world'));
-        $this->assertSame('Unknown Foo', __('custom.unknown'));
+        $this->assertSame('Foo', __('auth.failed'));
+        $this->assertSame('Bar', __('auth.password'));
+        $this->assertSame('Unknown Foo', __('auth.unknown'));
 
         $this->assertSame('Foo', __('Hello'));
         $this->assertSame('Bar', __('World'));
@@ -81,9 +81,9 @@ class ResetTest extends InlineOffTestCase
 
         $this->refreshLocales();
 
-        $this->assertSame('Hello!', __('custom.hello'));
-        $this->assertSame('World!', __('custom.world'));
-        $this->assertSame('custom.unknown', __('custom.unknown'));
+        $this->assertSame('These credentials do not match our records.', __('auth.failed'));
+        $this->assertSame('The provided password is incorrect.', __('auth.password'));
+        $this->assertSame('auth.unknown', __('auth.unknown'));
 
         $this->assertSame('Hello', __('Hello'));
         $this->assertSame('World', __('World'));

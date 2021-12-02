@@ -13,13 +13,19 @@ class RemoveTest extends InlineOffTestCase
     {
         foreach ($this->locales as $locale) {
             $this->assertFileDoesNotExist($this->resourcesPath($locale . '.json'));
-            $this->assertFileDoesNotExist($this->resourcesPath($locale, 'custom.php'));
+            $this->assertFileDoesNotExist($this->resourcesPath($locale, 'auth.php'));
+            $this->assertFileDoesNotExist($this->resourcesPath($locale, 'pagination.php'));
+            $this->assertFileDoesNotExist($this->resourcesPath($locale, 'passwords.php'));
+            $this->assertFileDoesNotExist($this->resourcesPath($locale, 'validation.php'));
             $this->assertDirectoryDoesNotExist($this->resourcesPath($locale));
 
             $this->artisan('lang:add', ['locales' => $locale])->run();
 
             $this->assertFileExists($this->resourcesPath($locale . '.json'));
-            $this->assertFileExists($this->resourcesPath($locale, 'custom.php'));
+            $this->assertFileExists($this->resourcesPath($locale, 'auth.php'));
+            $this->assertFileExists($this->resourcesPath($locale, 'pagination.php'));
+            $this->assertFileExists($this->resourcesPath($locale, 'passwords.php'));
+            $this->assertFileExists($this->resourcesPath($locale, 'validation.php'));
             $this->assertDirectoryExists($this->resourcesPath($locale));
 
             $this->artisan('lang:rm')
@@ -28,7 +34,10 @@ class RemoveTest extends InlineOffTestCase
                 ->assertExitCode(0);
 
             $this->assertFileDoesNotExist($this->resourcesPath($locale . '.json'));
-            $this->assertFileDoesNotExist($this->resourcesPath($locale, 'custom.php'));
+            $this->assertFileDoesNotExist($this->resourcesPath($locale, 'auth.php'));
+            $this->assertFileDoesNotExist($this->resourcesPath($locale, 'pagination.php'));
+            $this->assertFileDoesNotExist($this->resourcesPath($locale, 'passwords.php'));
+            $this->assertFileDoesNotExist($this->resourcesPath($locale, 'validation.php'));
             $this->assertDirectoryDoesNotExist($this->resourcesPath($locale));
         }
     }
@@ -37,19 +46,28 @@ class RemoveTest extends InlineOffTestCase
     {
         foreach ($this->locales as $locale) {
             $this->assertFileDoesNotExist($this->resourcesPath($locale . '.json'));
-            $this->assertFileDoesNotExist($this->resourcesPath($locale, 'custom.php'));
+            $this->assertFileDoesNotExist($this->resourcesPath($locale, 'auth.php'));
+            $this->assertFileDoesNotExist($this->resourcesPath($locale, 'pagination.php'));
+            $this->assertFileDoesNotExist($this->resourcesPath($locale, 'passwords.php'));
+            $this->assertFileDoesNotExist($this->resourcesPath($locale, 'validation.php'));
             $this->assertDirectoryDoesNotExist($this->resourcesPath($locale));
 
             $this->artisan('lang:add', ['locales' => $locale])->run();
 
             $this->assertFileExists($this->resourcesPath($locale . '.json'));
-            $this->assertFileExists($this->resourcesPath($locale, 'custom.php'));
+            $this->assertFileExists($this->resourcesPath($locale, 'auth.php'));
+            $this->assertFileExists($this->resourcesPath($locale, 'pagination.php'));
+            $this->assertFileExists($this->resourcesPath($locale, 'passwords.php'));
+            $this->assertFileExists($this->resourcesPath($locale, 'validation.php'));
             $this->assertDirectoryExists($this->resourcesPath($locale));
 
             $this->artisan('lang:rm', ['locales' => $locale])->run();
 
             $this->assertFileDoesNotExist($this->resourcesPath($locale . '.json'));
-            $this->assertFileDoesNotExist($this->resourcesPath($locale, 'custom.php'));
+            $this->assertFileDoesNotExist($this->resourcesPath($locale, 'auth.php'));
+            $this->assertFileDoesNotExist($this->resourcesPath($locale, 'pagination.php'));
+            $this->assertFileDoesNotExist($this->resourcesPath($locale, 'passwords.php'));
+            $this->assertFileDoesNotExist($this->resourcesPath($locale, 'validation.php'));
             $this->assertDirectoryDoesNotExist($this->resourcesPath($locale));
         }
     }
@@ -58,13 +76,19 @@ class RemoveTest extends InlineOffTestCase
     {
         foreach ($this->locales as $locale) {
             $this->assertFileDoesNotExist($this->resourcesPath($locale . '.json'));
-            $this->assertFileDoesNotExist($this->resourcesPath($locale, 'custom.php'));
+            $this->assertFileDoesNotExist($this->resourcesPath($locale, 'auth.php'));
+            $this->assertFileDoesNotExist($this->resourcesPath($locale, 'pagination.php'));
+            $this->assertFileDoesNotExist($this->resourcesPath($locale, 'passwords.php'));
+            $this->assertFileDoesNotExist($this->resourcesPath($locale, 'validation.php'));
             $this->assertDirectoryDoesNotExist($this->resourcesPath($locale));
 
             $this->artisan('lang:rm', ['locales' => $locale])->run();
 
             $this->assertFileDoesNotExist($this->resourcesPath($locale . '.json'));
-            $this->assertFileDoesNotExist($this->resourcesPath($locale, 'custom.php'));
+            $this->assertFileDoesNotExist($this->resourcesPath($locale, 'auth.php'));
+            $this->assertFileDoesNotExist($this->resourcesPath($locale, 'pagination.php'));
+            $this->assertFileDoesNotExist($this->resourcesPath($locale, 'passwords.php'));
+            $this->assertFileDoesNotExist($this->resourcesPath($locale, 'validation.php'));
             $this->assertDirectoryDoesNotExist($this->resourcesPath($locale));
         }
     }
@@ -75,13 +99,19 @@ class RemoveTest extends InlineOffTestCase
 
         foreach ($locales as $locale) {
             $this->assertFileExists($this->resourcesPath($locale . '.json'));
-            $this->assertFileExists($this->resourcesPath($locale, 'custom.php'));
+            $this->assertFileExists($this->resourcesPath($locale, 'auth.php'));
+            $this->assertFileExists($this->resourcesPath($locale, 'pagination.php'));
+            $this->assertFileExists($this->resourcesPath($locale, 'passwords.php'));
+            $this->assertFileExists($this->resourcesPath($locale, 'validation.php'));
             $this->assertDirectoryExists($this->resourcesPath($locale));
 
             $this->artisan('lang:rm', ['locales' => $locale])->run();
 
             $this->assertFileExists($this->resourcesPath($locale . '.json'));
-            $this->assertFileExists($this->resourcesPath($locale, 'custom.php'));
+            $this->assertFileExists($this->resourcesPath($locale, 'auth.php'));
+            $this->assertFileExists($this->resourcesPath($locale, 'pagination.php'));
+            $this->assertFileExists($this->resourcesPath($locale, 'passwords.php'));
+            $this->assertFileExists($this->resourcesPath($locale, 'validation.php'));
             $this->assertDirectoryExists($this->resourcesPath($locale));
         }
     }

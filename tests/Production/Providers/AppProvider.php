@@ -4,12 +4,12 @@ declare(strict_types=1);
 
 namespace Tests\Production\Providers;
 
-use LaravelLang\Lang\Provider as BaseProvider;
+use LaravelLang\Lang\Provider;
 
-class AppProvider extends BaseProvider
+class AppProvider extends Provider
 {
     public function basePath(): string
     {
-        return __DIR__ . '/../../';
+        return __DIR__ . '/../../../';
     }
 }

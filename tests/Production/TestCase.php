@@ -7,7 +7,6 @@ namespace Tests\Production;
 use DragonCode\Support\Facades\Helpers\Filesystem\Directory;
 use Illuminate\Support\Facades\Artisan;
 use Illuminate\Support\Facades\File;
-use LaravelLang\Lang\ServiceProvider as AppServiceProvider;
 use LaravelLang\Publisher\Concerns\Has;
 use LaravelLang\Publisher\Concerns\Paths;
 use LaravelLang\Publisher\Constants\Config;
@@ -15,7 +14,7 @@ use LaravelLang\Publisher\Constants\Locales;
 use LaravelLang\Publisher\Constants\Locales as LocalesList;
 use LaravelLang\Publisher\ServiceProvider;
 use Orchestra\Testbench\TestCase as BaseTestCase;
-use Tests\Production\Providers\AppProvider;
+use Tests\Production\Providers\AppServiceProvider;
 
 abstract class TestCase extends BaseTestCase
 {
@@ -47,8 +46,8 @@ abstract class TestCase extends BaseTestCase
     protected function getPackageProviders($app): array
     {
         return [
-            AppServiceProvider::class,
             ServiceProvider::class,
+            AppServiceProvider::class,
         ];
     }
 
@@ -62,15 +61,11 @@ abstract class TestCase extends BaseTestCase
 
         $config->set(Config::PUBLIC_KEY . '.inline', $this->inline);
 
-        $config->set(Config::PRIVATE_KEY . '.path.base', realpath(__DIR__ . '/../vendor'));
+        $config->set(Config::PRIVATE_KEY . '.path.base', realpath(__DIR__ . '/../../vendor'));
 
         $config->set(Config::PUBLIC_KEY . '.excludes', [
-            'custom'   => ['hello'],
             '{locale}' => ['Hello', 'World'],
-        ]);
-
-        $config->set(Config::PUBLIC_KEY . '.plugins', [
-            AppProvider::class,
+            'auth'     => ['failed'],
         ]);
     }
 
@@ -78,7 +73,7 @@ abstract class TestCase extends BaseTestCase
     {
         $files = [
             'en.json',
-            'custom.php',
+            'auth.php',
         ];
 
         foreach ($files as $filename) {

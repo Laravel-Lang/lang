@@ -21,7 +21,7 @@
     "require": {
         "php": "^7.3|^8.0",
         "ext-json": "*",
-        "laravel-lang/publisher": "^11.1-beta2"
+        "laravel-lang/publisher": "^11.1"
     },
     "require-dev": {
         "dragon-code/pretty-array": "^3.0",

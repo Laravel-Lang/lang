@@ -24,7 +24,7 @@
     },
     "require-dev": {
         "dragon-code/pretty-array": "^3.0",
-        "dragon-code/support": "^5.0",
+        "dragon-code/support": "^5.4",
         "guzzlehttp/guzzle": "^7.3",
         "laravel-lang/publisher": "^11.1",
         "laravel/breeze": "^1.2",

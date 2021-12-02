@@ -1,5 +1,7 @@
 # Laravel Lang
 
+<img src="https://preview.dragon-code.pro/laravel-lang/localizations.svg?brand=laravel" alt="Laravel Lang"/>
+
 In this repository, you can find the lang files for the [Laravel Framework 4/5/6/7/8](https://laravel.com), [Laravel Jetstream](https://jetstream.laravel.com) , [Laravel Fortify](https://github.com/laravel/fortify), [Laravel Cashier](https://laravel.com/docs/8.x/billing), [Laravel Breeze](https://github.com/laravel/breeze), [Laravel Nova](https://nova.laravel.com) and [Laravel Spark](https://spark.laravel.com).
 
 <p align="center">

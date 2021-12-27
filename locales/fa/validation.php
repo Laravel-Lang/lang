@@ -13,7 +13,7 @@
 
 return [
     'accepted'             => ':attribute باید پذیرفته شده باشد.',
-    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
+    'accepted_if'          => ':attribute باید پذیرفته شده باشد وقتی :other برابر :value است.',
     'active_url'           => 'آدرس :attribute معتبر نیست.',
     'after'                => ':attribute باید تاریخی بعد از :date باشد.',
     'after_or_equal'       => ':attribute باید تاریخی بعد از :date، یا مطابق با آن باشد.',
@@ -36,8 +36,8 @@ return [
     'date'                 => ':attribute یک تاریخ معتبر نیست.',
     'date_equals'          => ':attribute باید یک تاریخ برابر با تاریخ :date باشد.',
     'date_format'          => ':attribute با الگوی :format مطابقت ندارد.',
-    'declined'             => 'The :attribute must be declined.',
-    'declined_if'          => 'The :attribute must be declined when :other is :value.',
+    'declined'             => ':attribute باید رد شده باشد.',
+    'declined_if'          => ':attribute باید رد شده باشد وقتی :other برابر :value است.',
     'different'            => ':attribute و :other باید از یکدیگر متفاوت باشند.',
     'digits'               => ':attribute باید :digits رقم باشد.',
     'digits_between'       => ':attribute باید بین :min و :max رقم باشد.',
@@ -100,7 +100,7 @@ return [
     'numeric'              => ':attribute باید عدد یا رشته‌ای از اعداد باشد.',
     'password'             => 'رمزعبور اشتباه است.',
     'present'              => 'فیلد :attribute باید در پارامترهای ارسالی وجود داشته باشد.',
-    'prohibited'           => 'The :attribute field is prohibited.',
+    'prohibited'           => 'فیلد :attribute ممنوع است.',
     'prohibited_if'        => 'The :attribute field is prohibited when :other is :value.',
     'prohibited_unless'    => 'The :attribute field is prohibited unless :other is in :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',

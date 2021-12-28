@@ -7,13 +7,23 @@ All notable changes to this project will be documented in this file, since v7.0.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres
 to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased]
+## [10.1.12] - 2021-12-28
 
 ### Changed
 
  * feature: [es] #1916 validation.php, validation-inline.php
+ * feature: [fa] #1918, #1925 validation.php, json file
+ * feature: [id] #1923 validation.php, validation-inline.php
+ * feature: [it] #1921 validation.php, validation-inline.php
  * feature: [nl] #1914 validation.php, validation-inline.php
  * feature: [pl] #1915 validation.php, validation-inline.php
+ * feature: [sk] #1917 auth.php, validation.php, validation-attributes.php
+
+ ### Todo script
+
+ * feature: #1919 Upgrading dependencies
+ * feature: #1922 Just a beautiful preview
+ * feature: #1924 Update docs
 
 ## [10.1.11] - 2021-11-21
 
@@ -677,7 +687,8 @@ For more information, see #1606 and #1607.
 
 * feature: #1269 Rename locale folders following ISO 15897 format
 
-[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/10.1.11...master
+[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/10.1.12...master
+[10.1.12]: https://github.com/caouecs/Laravel-lang/compare/10.1.11...10.1.12
 [10.1.11]: https://github.com/caouecs/Laravel-lang/compare/10.1.10...10.1.11
 [10.1.10]: https://github.com/caouecs/Laravel-lang/compare/10.1.9...10.1.10
 [10.1.9]: https://github.com/caouecs/Laravel-lang/compare/10.1.8...10.1.9

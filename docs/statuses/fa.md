@@ -2,7 +2,7 @@
 
 # fa
 
-##### All missed: 122
+##### All missed: 118
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/fa/validation-inline.php)
@@ -74,16 +74,9 @@ This field may not be associated with this resource.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/fa/validation.php)
 
-##### Missing: 10
+##### Missing: 6
 
 <table >
-<tr><td align="left" >
-accepted_if
-</td>
-<td align="left" >
-The :attribute must be accepted when :other is :value.
-</td>
-</tr>
 <tr><td align="left" >
 attached
 </td>
@@ -96,27 +89,6 @@ current_password
 </td>
 <td align="left" >
 The password is incorrect.
-</td>
-</tr>
-<tr><td align="left" >
-declined
-</td>
-<td align="left" >
-The :attribute must be declined.
-</td>
-</tr>
-<tr><td align="left" >
-declined_if
-</td>
-<td align="left" >
-The :attribute must be declined when :other is :value.
-</td>
-</tr>
-<tr><td align="left" >
-prohibited
-</td>
-<td align="left" >
-The :attribute field is prohibited.
 </td>
 </tr>
 <tr><td align="left" >

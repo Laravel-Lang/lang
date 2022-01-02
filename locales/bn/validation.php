@@ -11,9 +11,11 @@
 |
 */
 
+:attribute অবশ্যই গ্রহণ করতে হবে যখন :other সমান :value হয়
+
 return [
     'accepted'             => ':attribute গ্রহণ করা আবশ্যক।',
-    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
+    'accepted_if'          => ':attribute অবশ্যই গ্রহণ করতে হবে যখন :other সমান :value হয়।',
     'active_url'           => 'এই :attribute একটি বৈধ URL নয়।',
     'after'                => ':date অবশ্যই :attribute এর পরের একটি তারিখ হতে হবে।',
     'after_or_equal'       => ':attribute টি অবশ্যই :date এর সাথে মিল অথবা এর পরের একটি তারিখ হতে হবে।',

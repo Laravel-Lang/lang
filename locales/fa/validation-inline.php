@@ -13,7 +13,7 @@
 
 return [
     'accepted'             => 'این مقدار باید پذیرفته شده باشد.',
-    'accepted_if'          => 'This field must be accepted when :other is :value.',
+    'accepted_if'          => 'این مقدار باید پذیرفته شود زمانه که :other برابر با :value.',
     'active_url'           => 'این مقدار یک آدرس معتبر نیست.',
     'after'                => 'این مقدار باید یک تاریخ بعد از :date باشد.',
     'after_or_equal'       => 'این مقدار باید یک تاریخ مساوی یا بعد از :date باشد.',
@@ -21,7 +21,7 @@ return [
     'alpha_dash'           => 'این مقدار تنها میتواند شامل حروف، اعداد، خط تیره و زیرخط باشد.',
     'alpha_num'            => 'این مقداز تنها میتواند شامل حروف و اعداد باشد.',
     'array'                => 'این مقدار باید یک آرایه باشد.',
-    'attached'             => 'This field is already attached.',
+    'attached'             => 'این فیلد قبلاً پیوست شده است.',
     'before'               => 'این مقدار باید یک تاریخ قبل از :date باشد.',
     'before_or_equal'      => 'این مقدار باید یک تاریخ مساوی یا قبل از :date باشد.',
     'between'              => [
@@ -36,8 +36,8 @@ return [
     'date'                 => 'این مقدار یک تاریخ معبتر نیست.',
     'date_equals'          => 'این مقدار باید یک تاریخ مساوی با :date باشد.',
     'date_format'          => 'این مقدار با فرمت :format همخوانی ندارد.',
-    'declined'             => 'This value must be declined.',
-    'declined_if'          => 'This value must be declined when :other is :value.',
+    'declined'             => 'این مقدار قابل پذیرش نیست',
+    'declined_if'          => 'این مقدار قابل پذیرش نیست زمانی که :other برابر با :value.',
     'different'            => 'این مقدار باید متفاوت از :other باشد.',
     'digits'               => 'این مقدار باید :digits رقمی باشد.',
     'digits_between'       => 'تعداد ارقام این مقدار باید بین :min و :max باشد.',

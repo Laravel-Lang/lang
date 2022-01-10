@@ -46,6 +46,7 @@ return [
     'distinct'             => 'This field has a duplicate value.',
     'email'                => 'This must be a valid email address.',
     'ends_with'            => 'This must end with one of the following: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'The selected value is invalid.',
     'file'                 => 'The content must be a file.',
     'filled'               => 'This field must have a value.',
@@ -81,6 +82,7 @@ return [
         'string'  => 'The string must be less than or equal to :value characters.',
         'array'   => 'The content must not have more than :value items.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'numeric' => 'The value may not be greater than :max.',
         'file'    => 'The file size may not be greater than :max kilobytes.',

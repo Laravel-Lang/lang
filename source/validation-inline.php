@@ -82,7 +82,7 @@ return [
         'string'  => 'The string must be less than or equal to :value characters.',
         'array'   => 'The content must not have more than :value items.',
     ],
-    'mac_address'          => 'The :attribute must be a valid MAC address.',
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'numeric' => 'The value may not be greater than :max.',
         'file'    => 'The file size may not be greater than :max kilobytes.',

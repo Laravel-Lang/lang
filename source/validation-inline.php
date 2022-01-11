@@ -46,7 +46,7 @@ return [
     'distinct'             => 'This field has a duplicate value.',
     'email'                => 'This must be a valid email address.',
     'ends_with'            => 'This must end with one of the following: :values.',
-    'enum'                 => 'The selected :attribute is invalid.',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'The selected value is invalid.',
     'file'                 => 'The content must be a file.',
     'filled'               => 'This field must have a value.',

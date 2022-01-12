@@ -13,6 +13,7 @@ use LaravelLang\Lang\Plugins\Lumen;
 use LaravelLang\Lang\Plugins\Nova;
 use LaravelLang\Lang\Plugins\SparkPaddle;
 use LaravelLang\Lang\Plugins\SparkStripe;
+use LaravelLang\Lang\Plugins\Ui;
 use LaravelLang\Publisher\Plugins\BaseProvider;
 
 class Provider extends BaseProvider
@@ -37,6 +38,7 @@ class Provider extends BaseProvider
             Nova::class,
             SparkPaddle::class,
             SparkStripe::class,
+            Ui::class,
         ]);
     }
 }

@@ -94,7 +94,7 @@ return [
         'numeric' => 'Ang :attribute ay dapat na hindi bababa sa :min.',
         'string'  => 'Ang :attribute ay dapat na hindi bababa sa :min (na) character.',
     ],
-    'multiple_of'          => 'The :attribute must be a multiple of :value',
+    'multiple_of'          => 'The :attribute must be a multiple of :value.',
     'not_in'               => 'Hindi valid ang piniling :attribute.',
     'not_regex'            => 'Hindi valid ang format na :attribute.',
     'numeric'              => 'Dapat na numero ang :attribute.',

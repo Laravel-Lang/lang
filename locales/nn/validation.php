@@ -94,7 +94,7 @@ return [
         'numeric' => ':attribute skal vere større enn :min.',
         'string'  => ':attribute skal vere lengre enn :min teikn.',
     ],
-    'multiple_of'          => 'The :attribute must be a multiple of :value',
+    'multiple_of'          => 'The :attribute must be a multiple of :value.',
     'not_in'               => 'Den valgte :attribute er ugyldig.',
     'not_regex'            => 'Formatet på :attribute er ugyldig.',
     'numeric'              => ':attribute skal vere eit tal.',

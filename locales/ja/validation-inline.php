@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => '英数字、ハイフン、アンダースコアのみ使用できます。',
     'alpha_num'            => '英数字のみ使用できます。',
     'array'                => '配列でなければなりません。',
-    'attached'             => 'すでに添付されています。',
     'before'               => ':date より前の日付を指定してください。',
     'before_or_equal'      => ':date 以前の日付を指定してください。',
     'between'              => [
@@ -105,7 +104,6 @@ return [
     'prohibited_unless'    => ':otherが:valuesでない限り、この項目は禁止されています。',
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'この形式は無効です。',
-    'relatable'            => 'このリソースと関連づけられません。',
     'required'             => 'この項目は必須です。',
     'required_if'          => ':otherが:valueの場合、この項目は必須です。',
     'required_unless'      => ':otherが:valuesでない限り、この項目は必須です。',

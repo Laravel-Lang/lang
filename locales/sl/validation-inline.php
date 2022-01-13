@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Polje lahko vsebuje le črke, številke, pomišljaje in podčrtaje.',
     'alpha_num'            => 'Polje lahko vsebuje le črke in številke.',
     'array'                => 'Polje mora biti lista.',
-    'attached'             => 'To polje je že pritrjeno.',
     'before'               => 'Datum mora biti pred :date.',
     'before_or_equal'      => 'Datum mora biti pred ali enak :date.',
     'between'              => [
@@ -105,7 +104,6 @@ return [
     'prohibited_unless'    => 'To polje je prepovedano, razen če je :other v :values.',
     'prohibits'            => 'To polje prepoveduje prisotnost :other.',
     'regex'                => 'Oblika vnosa ni veljavna.',
-    'relatable'            => 'To polje morda ni povezano s tem virom.',
     'required'             => 'Polje je obvezno.',
     'required_if'          => 'Polje je obvezno, ko je v polju :other izbrana vrednost :value.',
     'required_unless'      => 'Polje je obvezno, razen če je v polju :other izbrana vrednost :values.',

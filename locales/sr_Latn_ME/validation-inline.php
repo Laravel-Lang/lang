@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Ово поље може садржавати само слова, бројеве, цртице и подвлаке.',
     'alpha_num'            => 'Ово поље може садржавати само слова и бројеве.',
     'array'                => 'Ово поље мора бити низ.',
-    'attached'             => 'Ово поље је већ причвршћено.',
     'before'               => 'То би требао бити датум до :date.године.',
     'before_or_equal'      => 'То мора бити датум пре или једнак :date.',
     'between'              => [
@@ -105,7 +104,6 @@ return [
     'prohibited_unless'    => 'Ово поље је забрањено, осим ако је :other у :values.',
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Овај формат је неприхватљив.',
-    'relatable'            => 'Ово поље можда није повезано са датим ресурсом.',
     'required'             => 'Ово поље је обавезно.',
     'required_if'          => 'Ово поље је обавезно ако је :other :value.',
     'required_unless'      => 'Ово поље је обавезно ако само :other није у :values.',

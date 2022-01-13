@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Dette felt må kun indeholde bogstaver, tal, bindestreger og understregninger.',
     'alpha_num'            => 'Dette felt må kun indeholde bogstaver og tal.',
     'array'                => 'Dette felt skal være et array.',
-    'attached'             => 'Dette felt er allerede vedhæftet.',
     'before'               => 'Dette skal være en dato før :date.',
     'before_or_equal'      => 'Dette skal være en dato før eller lig med :date.',
     'between'              => [
@@ -105,7 +104,6 @@ return [
     'prohibited_unless'    => 'Dette felt er forbudt, medmindre :other er i :values.',
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Dette format er ugyldigt.',
-    'relatable'            => 'Dette felt er muligvis ikke tilknyttet denne ressource.',
     'required'             => 'Dette felt er påkrævet.',
     'required_if'          => 'Dette felt er påkrævet, når :other er :value.',
     'required_unless'      => 'Dette felt er påkrævet, medmindre :other er i :values.',

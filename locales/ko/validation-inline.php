@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => '이 필드는 문자, 숫자, 대쉬(-), 밑줄(_)만 포함할 수 있습니다.',
     'alpha_num'            => '이 필드는 문자와 숫자만 포함할 수 있습니다.',
     'array'                => '이 필드는 배열이어야 합니다.',
-    'attached'             => '이 필드는 이미 첨부되어 있습니다.',
     'before'               => ':date 이전 날짜여야 합니다.',
     'before_or_equal'      => ':date 이전 날짜이거나 같은 날짜여야 합니다.',
     'between'              => [
@@ -105,7 +104,6 @@ return [
     'prohibited_unless'    => '이 필드는 :other 이(가) :value 이(가) 아닌 경우 금지되어 있습니다.',
     'prohibits'            => '이 필드는 :other을(를) 금지합니다.',
     'regex'                => '형식이 올바르지 않습니다.',
-    'relatable'            => '이 필드는이 리소스와 연결되지 않을 수도 있습니다.',
     'required'             => '이 필드는 필수입니다.',
     'required_if'          => ':other이(가) :value 일 때 이 필드는 필수입니다.',
     'required_unless'      => ':other이(가) :values에 없다면 이 필드는 필수입니다.',

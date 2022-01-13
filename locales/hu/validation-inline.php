@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Ez a mező csak betűket, számokat, kötőjeleket és aláhúzásokat tartalmazhat.',
     'alpha_num'            => 'Ez a mező csak betűket és számokat tartalmazhat.',
     'array'                => 'Ennek a mezőnek tömbnek kell lennie.',
-    'attached'             => 'Ez a mező már csatolva van.',
     'before'               => 'Ez egy dátum :date előtt.',
     'before_or_equal'      => 'Ennek :date előtti vagy azzal egyenlő dátumnak kell lennie.',
     'between'              => [
@@ -105,7 +104,6 @@ return [
     'prohibited_unless'    => 'Ez a mező tilos, kivéve, ha a :other :values-ben van.',
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Ez a formátum érvénytelen.',
-    'relatable'            => 'Lehet, hogy ez a mező nem kapcsolódik ehhez az erőforráshoz.',
     'required'             => 'Ez a mező szükséges.',
     'required_if'          => 'Erre a mezőre akkor van szükség, ha a :other :value.',
     'required_unless'      => 'Erre a mezőre csak akkor van szükség, ha a :other :values-ban van.',

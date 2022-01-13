@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Kjo mund të përmbajë vetëm shkronja, numra, dhe viza.',
     'alpha_num'            => 'Kjo mund të përmbajë vetëm shkronja dhe numra.',
     'array'                => 'Kjo duhet të jetë një bashkësi (array).',
-    'attached'             => 'Kjo fushë është e ngjitur.',
     'before'               => 'Kjo duhet të jetë datë para :date.',
     'before_or_equal'      => 'Kjo duhet të jetë datë e barabartë ose para :date.',
     'between'              => [
@@ -105,7 +104,6 @@ return [
     'prohibited_unless'    => 'Kjo fushë është e ndaluar nëse :other është në :values.',
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Ky format është i pasaktë.',
-    'relatable'            => 'Kjo fushë mund të mos shoqërohet me këtë burim.',
     'required'             => 'Kjo fushë është e kërkuar.',
     'required_if'          => 'Kjo fushë është e kërkuar kur :other është :value.',
     'required_unless'      => 'Kjo fushë është e kërkuar përveç kur :other është në :values.',

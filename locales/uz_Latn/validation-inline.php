@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Bu maydon faqat harflarni o\'z ichiga olishi mumkin, raqamlari, tire va underscores.',
     'alpha_num'            => 'Bu sohada faqat harf va raqamlar bo\'lishi mumkin.',
     'array'                => 'Bu maydon bir qator bo\'lishi kerak.',
-    'attached'             => 'Bu maydon allaqachon biriktirilgan.',
     'before'               => 'Bu :datedan oldin sana bo\'lishi kerak.',
     'before_or_equal'      => 'Bu oldin yoki teng bir sana bo\'lishi kerak :date.',
     'between'              => [
@@ -105,7 +104,6 @@ return [
     'prohibited_unless'    => ':other :values da ekan bu soha taqiqlanadi.',
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Bu format asossiz hisoblanadi.',
-    'relatable'            => 'Bu soha ushbu resurs bilan bog\'liq bo\'lmasligi mumkin.',
     'required'             => 'Bu maydon talab qilinadi.',
     'required_if'          => 'Bu maydon :other bo\'lganda :value talab qilinadi.',
     'required_unless'      => 'Bu maydon bo\'lmasa talab qilinadi :other yilda :values.',

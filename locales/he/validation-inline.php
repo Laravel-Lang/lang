@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'שדה זה עשוי להכיל רק אותיות, מספרים, מקפים וקווים תחתיים.',
     'alpha_num'            => 'שדה זה עשוי להכיל רק אותיות ומספרים.',
     'array'                => 'שדה זה חייב להיות מערך.',
-    'attached'             => 'השדה הזה כבר מחובר.',
     'before'               => 'זה חייב להיות תאריך לפני :date.',
     'before_or_equal'      => 'זה חייב להיות תאריך לפני או שווה ל-:date.',
     'between'              => [
@@ -105,7 +104,6 @@ return [
     'prohibited_unless'    => 'שדה זה אסור אלא אם כן :other הוא בשנת :values.',
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'תבנית זו אינה תקפה.',
-    'relatable'            => 'שדה זה לא יכול להיות קשור למשאב זה.',
     'required'             => 'שדה זה נדרש.',
     'required_if'          => 'שדה זה נדרש כאשר :other הוא :value.',
     'required_unless'      => 'שדה זה נדרש אלא אם כן :other הוא :values.',

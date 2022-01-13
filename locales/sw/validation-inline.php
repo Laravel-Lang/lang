@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Uwanja huu inaweza tu vyenye herufi, namba, dashes na underscores.',
     'alpha_num'            => 'Uwanja huu inaweza tu kuwa na herufi na namba.',
     'array'                => 'Uwanja huu lazima kuwa na safu.',
-    'attached'             => 'Uwanja huu ni tayari masharti.',
     'before'               => 'Hii ni lazima sasa kabla ya :date.',
     'before_or_equal'      => 'Hii ni lazima sasa kabla ya au sawa na :date.',
     'between'              => [
@@ -105,7 +104,6 @@ return [
     'prohibited_unless'    => 'Huu uwanja ni marufuku isipokuwa :other ni katika :values.',
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Muundo huu ni batili.',
-    'relatable'            => 'Uwanja huu inaweza kuwa kuhusishwa na rasilimali hii.',
     'required'             => 'Uwanja huu ni required.',
     'required_if'          => 'Uwanja huu ni required wakati :other ni :value.',
     'required_unless'      => 'Uwanja huu ni required isipokuwa :other ni katika :values.',

@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Bu alan yalnızca harfler, sayılar, kısa çizgiler ve alt çizgiler içerebilir.',
     'alpha_num'            => 'Bu alan yalnızca harfler ve sayılar içerebilir.',
     'array'                => 'Bu alan bir dizi olmalı.',
-    'attached'             => 'Bu alan zaten tanımlı.',
     'before'               => 'Bu :date\'den önceki bir tarih olmalı.',
     'before_or_equal'      => 'Bu, :date\'ten önce veya ona eşit bir tarih olmalıdır.',
     'between'              => [
@@ -105,7 +104,6 @@ return [
     'prohibited_unless'    => ':other alanı :value değerlerinden birisi değilse bu alana veri girişi yapılamaz.',
     'prohibits'            => 'Bu alan :other alanının mevcut olmasını yasaklar.',
     'regex'                => 'Bu biçim geçersiz.',
-    'relatable'            => 'Bu alan, bu kaynakla ilişkili olmayabilir.',
     'required'             => 'Bu alan gereklidir.',
     'required_if'          => 'Bu alan :other :value olduğunda gereklidir.',
     'required_unless'      => ':other :values\'de olmadığı sürece bu alan gereklidir.',

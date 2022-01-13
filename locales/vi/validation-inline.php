@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Trường này chỉ có thể chứa chữ cái, số và dấu gạch ngang.',
     'alpha_num'            => 'Trường này chỉ có thể chứa chữ cái và số.',
     'array'                => 'Trường này phải là dạng mảng.',
-    'attached'             => 'Trường này đã được đính kèm.',
     'before'               => 'Trường này phải là một ngày trước ngày :date.',
     'before_or_equal'      => 'Trường này phải là thời gian bắt đầu trước hoặc đúng bằng :date.',
     'between'              => [
@@ -105,7 +104,6 @@ return [
     'prohibited_unless'    => 'Trường này bị cấm trừ khi :other là một trong :values.',
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Trường này có định dạng không hợp lệ.',
-    'relatable'            => 'Trường này không thể liên kết với tài nguyên này.',
     'required'             => 'Trường này không được bỏ trống.',
     'required_if'          => 'Trường này không được bỏ trống khi trường :other là :value.',
     'required_unless'      => 'Trường này không được bỏ trống trừ khi :other là :values.',

@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Eremu hau soilik egin ahal izango ditu letrak, zenbakiak, marrak eta azpimarrak.',
     'alpha_num'            => 'Eremu hau soilik egin ahal izango ditu letrak eta zenbakiak.',
     'array'                => 'Eremu hau behar array bat.',
-    'attached'             => 'Eremu hau da, dagoeneko erantsita.',
     'before'               => 'Hau behar data bat aurretik :date.',
     'before_or_equal'      => 'Hau behar data bat aurretik edo berdina :date.',
     'between'              => [
@@ -105,7 +104,6 @@ return [
     'prohibited_unless'    => 'Eremu honetan debekatuta dago ezean :other da :values.',
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Formatu hau ez da balioduna.',
-    'relatable'            => 'Eremu honetan ezin izango da lotutako baliabide hau.',
     'required'             => 'Eremu hau beharrezkoa da.',
     'required_if'          => 'Eremu hau beharrezkoa da denean :other da :value.',
     'required_unless'      => 'Eremu hau beharrezkoa da behintzat :other da :values.',

@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Šajā laukā var būt tikai burti, cipari, domuzīmes un pasvītrojumi.',
     'alpha_num'            => 'Šajā laukā var būt tikai burti un cipari.',
     'array'                => 'Šim laukam jābūt masīvam.',
-    'attached'             => 'Šis lauks jau ir pievienots.',
     'before'               => 'Tam jābūt datumam pirms :date.gada.',
     'before_or_equal'      => 'Tam jābūt datumam pirms vai vienāds ar :date.',
     'between'              => [
@@ -105,7 +104,6 @@ return [
     'prohibited_unless'    => 'Šis lauks ir aizliegts, ja :other ir :values.',
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Šis formāts ir nederīgs.',
-    'relatable'            => 'Šis lauks var nebūt saistīts ar šo resursu.',
     'required'             => 'Šis lauks ir nepieciešams.',
     'required_if'          => 'Šis lauks ir nepieciešams, ja :other ir :value.',
     'required_unless'      => 'Šis lauks ir nepieciešams, ja :other ir :values.',

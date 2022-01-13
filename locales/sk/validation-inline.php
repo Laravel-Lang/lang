@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Toto pole môže obsahovať iba písmená, čísla, pomlčky a podčiarknutia.',
     'alpha_num'            => 'Toto pole môže obsahovať iba písmená a číslice.',
     'array'                => 'Toto pole musí byť pole.',
-    'attached'             => 'Toto pole je už pripojené.',
     'before'               => 'Toto musí byť Dátum pred :date.',
     'before_or_equal'      => 'Musí to byť Dátum pred alebo rovný :date.',
     'between'              => [
@@ -105,7 +104,6 @@ return [
     'prohibited_unless'    => 'Toto pole je zakázané, ak :other je v :values.',
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Tento formát je neplatný.',
-    'relatable'            => 'Toto pole nemusí byť spojené s týmto zdrojom.',
     'required'             => 'Toto pole je povinné.',
     'required_if'          => 'Toto pole sa vyžaduje, keď je :other :value.',
     'required_unless'      => 'Toto pole sa vyžaduje, pokiaľ nie je :other v :values.',

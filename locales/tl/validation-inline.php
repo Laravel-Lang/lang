@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Ang patlang na ito ay maaari lamang maglaman ng mga titik, numero, gitling at mga salungguhit.',
     'alpha_num'            => 'Ang patlang na ito ay maaari lamang maglaman ng mga titik at numero.',
     'array'                => 'Ang patlang na ito ay dapat na isang array.',
-    'attached'             => 'Ang patlang na ito ay nakalakip.',
     'before'               => 'Ito ay dapat na isang petsa bago :date.',
     'before_or_equal'      => 'Ito ay dapat na isang petsa bago o katumbas ng :date.',
     'between'              => [
@@ -105,7 +104,6 @@ return [
     'prohibited_unless'    => 'Ang patlang na ito ay ipinagbabawal maliban kung :other ay sa :values.',
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Hindi balido ang pormat na ito.',
-    'relatable'            => 'Ang patlang na ito ay maaaring hindi nauugnay sa mapagkukunan na ito.',
     'required'             => 'Ang patlang na ito ay kinakailangan.',
     'required_if'          => 'Ang patlang na ito ay kinakailangan kapag :other ay :value.',
     'required_unless'      => 'Ang patlang na ito ay kinakailangan maliban kung :other ay nasa :values.',

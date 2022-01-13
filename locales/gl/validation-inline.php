@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Este campo só pode conter letras, números, trazos e guións baixos.',
     'alpha_num'            => 'Este campo só pode conter letras e números.',
     'array'                => 'Este campo debe ser un array.',
-    'attached'             => 'Neste campo xa está conectado.',
     'before'               => 'Esta debe ser unha data antes de :date.',
     'before_or_equal'      => 'Esta debe ser unha data antes ou igual a :date.',
     'between'              => [
@@ -105,7 +104,6 @@ return [
     'prohibited_unless'    => 'Este campo está prohibido, a menos que :other é en :values.',
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Este formato é válido.',
-    'relatable'            => 'Este campo pode non ser asociado a este recurso.',
     'required'             => 'Este campo é obrigatorio.',
     'required_if'          => 'Este campo é obrigatorio cando :other é :value.',
     'required_unless'      => 'Este campo é obrigatorio, salvo que :other é en :values.',

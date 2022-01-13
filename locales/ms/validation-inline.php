@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Ruangan ini boleh mengandungi huruf, nombor, dan sengkang.',
     'alpha_num'            => 'Ruangan ini boleh mengandungi huruf dan nombor.',
     'array'                => 'Ruangan ini mesti jujukan.',
-    'attached'             => 'Ruangan ini sudah terpasang.',
     'before'               => 'Ruangan ini mesti tarikh sebelum :date.',
     'before_or_equal'      => 'Ruangan ini mesti tarikh sebelum atau bersamaan :date.',
     'between'              => [
@@ -105,7 +104,6 @@ return [
     'prohibited_unless'    => 'Ruangan ini adalah dilarang kecuali :other adalah di :values.',
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Format tidak sah.',
-    'relatable'            => 'Ruangan ini tidak boleh dikaitkan dengan sumber ini.',
     'required'             => 'Ruangan ini diperlukan.',
     'required_if'          => 'Ruangan ini diperlukan bila :other sama dengan :value.',
     'required_unless'      => 'Ruangan ini diperlukan sekiranya :other ada dalam :values.',

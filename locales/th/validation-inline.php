@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'ช่องข้อมูลนี้อาจจะเป็นเพียงแค่จะบรรจุจดหมายของตัวเลข dashes และ underscores.',
     'alpha_num'            => 'ช่องข้อมูลนี้อาจจะเป็นเพียงแค่จะบรรจุจดหมายและเบอร์โทรศัพท์',
     'array'                => 'ช่องข้อมูลนี้จะต้องเป็นอาเรย์.',
-    'attached'             => 'ช่องข้อมูลนี้อยู่แล้วมาเกี่ยวข้อง',
     'before'               => 'นี่ต้องเป็นวันก่อนที่ :date.',
     'before_or_equal'      => 'นี่ต้องเป็นวันก่อนหรือเท่ากับ :date.',
     'between'              => [
@@ -105,7 +104,6 @@ return [
     'prohibited_unless'    => 'ช่องข้อมูลนี้เป็น prohibited นอกจาก :other อยู่ใน :values.',
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'นี่รูปแบบไม่ถูกต้อง',
-    'relatable'            => 'ช่องข้อมูลนี้อาจจะไม่เกี่ยวข้องกับทรัพยากรนี้',
     'required'             => 'ช่องข้อมูลนี้เป็นต้องการ.',
     'required_if'          => 'ช่องข้อมูลนี้เป็นต้องการตอนที่ :other คือ :value.',
     'required_unless'      => 'ช่องข้อมูลนี้เป็นต้องการนอกจาก :other อยู่ใน :values.',

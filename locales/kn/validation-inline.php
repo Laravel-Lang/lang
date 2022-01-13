@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'ಈ ಕ್ಷೇತ್ರದಲ್ಲಿ may only contain letters, numbers, ಗೆರೆಗಳು ಮತ್ತು ಒತ್ತಿಹೇಳುತ್ತದೆ.',
     'alpha_num'            => 'ಈ ಕ್ಷೇತ್ರದಲ್ಲಿ may only contain ಅಕ್ಷರಗಳು ಮತ್ತು ಸಂಖ್ಯೆಗಳ.',
     'array'                => 'ಈ ಕ್ಷೇತ್ರದಲ್ಲಿ ಮಾಡಬೇಕು ಒಂದು ಶ್ರೇಣಿಯನ್ನು.',
-    'attached'             => 'ಈ ಕ್ಷೇತ್ರದಲ್ಲಿ ಈಗಾಗಲೇ ಲಗತ್ತಿಸಲಾಗಿದೆ.',
     'before'               => 'ಈ ಮಾಡಬೇಕು ಒಂದು ದಿನಾಂಕ ಮೊದಲು :date.',
     'before_or_equal'      => 'ಈ ಮಾಡಬೇಕು ಒಂದು ದಿನಾಂಕ ಮೊದಲು ಅಥವಾ ಸಮಾನ :date.',
     'between'              => [
@@ -105,7 +104,6 @@ return [
     'prohibited_unless'    => 'ಈ ಕ್ಷೇತ್ರದಲ್ಲಿ ನಿಷೇಧಿಸಲಾಗಿದೆ ಹೊರತು :other ಆಗಿದೆ :values.',
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'ಈ ರೂಪದಲ್ಲಿ ಅಮಾನ್ಯವಾಗಿದೆ.',
-    'relatable'            => 'ಈ ಕ್ಷೇತ್ರದಲ್ಲಿ ಸಂಬಂಧಿಸಿದ ಇರಬಹುದು ಈ ಸಂಪನ್ಮೂಲ.',
     'required'             => 'ಈ ಕ್ಷೇತ್ರದಲ್ಲಿ ಅಗತ್ಯವಿದೆ.',
     'required_if'          => 'ಈ ಕ್ಷೇತ್ರದಲ್ಲಿ ಅಗತ್ಯವಿದೆ ಮಾಡಿದಾಗ :other ಆಗಿದೆ :value.',
     'required_unless'      => 'ಈ ಕ್ಷೇತ್ರದಲ್ಲಿ ಅಗತ್ಯವಿದೆ ಹೊರತು :other ಆಗಿದೆ :values.',

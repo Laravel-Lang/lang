@@ -94,7 +94,7 @@ return [
         'numeric' => ':attribute mukdary :min dan köp bolmalydyr.',
         'string'  => ':attribute mukdary :min harpdan köp bolmalydyr.',
     ],
-    'multiple_of'          => 'The :attribute must be a multiple of :value',
+    'multiple_of'          => 'The :attribute must be a multiple of :value.',
     'not_in'               => 'Saýlanan :attribute geçersiz.',
     'not_regex'            => 'The :attribute format is invalid.',
     'numeric'              => ':attribute san bolmalydyr.',

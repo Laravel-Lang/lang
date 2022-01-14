@@ -2,6 +2,10 @@
 
 # Copy files
 
+> When installing the package this way, you will need to manually copy the files from the `vendor/laravel-lang/lang` folder into your application.
+>
+> If you want to automate the process, then use one of the [`publishers`](managers.md).
+
 After adding the dependency using composer (as described above) to your application you can find the language files under the
 directory `vendor/laravel-lang/lang`.
 

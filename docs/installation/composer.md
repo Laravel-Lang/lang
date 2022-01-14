@@ -2,6 +2,10 @@
 
 # Via Composer
 
+> When installing the package this way, you will need to manually copy the files from the `vendor/laravel-lang/lang` folder into your application.
+>
+> If you want to automate the process, then use one of the [`publishers`](managers.md).
+
 Install the Laravel-lang package to your Laravel project with composer using command from the table below based on the version of Laravel you are using:
 
 | Laravel version                     | Composer command                           |

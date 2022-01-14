@@ -9,7 +9,7 @@ class Finder
 {
     use Makeable;
 
-    protected array $names = ['*.php', '*.json', '*.js', '*.vue'];
+    protected array $names = ['*.php', '*.json', '*.js', '*.vue', '*.stub'];
 
     protected array $contains = ['__(', 'trans(', '@lang(', 'Lang::get('];
 

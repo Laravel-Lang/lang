@@ -1,10 +1,10 @@
 <?php
 
-use LaravelLang\Lang\Processors\Git;
+use LaravelLang\Development\Processors\Git;
 
-require __DIR__ . '/../vendor/autoload.php';
+require __DIR__ . '/bootstrap/autoload.php';
 
-/** @var \LaravelLang\Lang\Application $app */
+/** @var \LaravelLang\Development\Application $app */
 $app = require_once __DIR__ . '/bootstrap/app.php';
 
 $app->processor(Git::make());

@@ -94,7 +94,7 @@ return [
         'numeric' => ':attribute depet bàlere a su mancu :min.',
         'string'  => ':attribute depet cuntènnere a su mancu :min caràteres.',
     ],
-    'multiple_of'          => 'The :attribute must be a multiple of :value',
+    'multiple_of'          => 'The :attribute must be a multiple of :value.',
     'not_in'               => 'Su balore seberadu pro :attribute no est bàlidu.',
     'not_regex'            => 'The :attribute format is invalid.',
     'numeric'              => ':attribute depet èssere unu nùmeru.',

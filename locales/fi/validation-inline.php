@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Tämä kenttä voi sisältää vain kirjaimia, numeroita, viivoja ja alaviivoja.',
     'alpha_num'            => 'Tämä kenttä voi sisältää vain kirjaimia ja numeroita.',
     'array'                => 'Tämän kentän täytyy olla taulukko.',
-    'attached'             => 'Tämä kenttä on jo kiinnitetty.',
     'before'               => 'Päivämäärän täytyy olla ennen kuin :date.',
     'before_or_equal'      => 'Päivämäärän täytyy olla ennen tai sama kuin :date.',
     'between'              => [
@@ -105,7 +104,6 @@ return [
     'prohibited_unless'    => 'Tämä kenttä on kielletty, ellei :other ole :values.',
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Tämä muoto on virheellinen.',
-    'relatable'            => 'Tämä kenttä ei välttämättä liity tähän resurssiin.',
     'required'             => 'Tämä kenttä on pakollinen.',
     'required_if'          => 'Tämä kenttä vaaditaan, kun :other on :value.',
     'required_unless'      => 'Tämä kenttä vaaditaan, ellei :other ole kohdassa :values.',

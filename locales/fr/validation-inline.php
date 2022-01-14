@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Ce champ doit contenir uniquement des lettres, des chiffres et des tirets.',
     'alpha_num'            => 'Ce champ doit contenir uniquement des chiffres et des lettres.',
     'array'                => 'Ce champ doit être un tableau.',
-    'attached'             => 'Ce champ est déjà attaché.',
     'before'               => 'Ce champ doit être une date antérieure au :date.',
     'before_or_equal'      => 'Ce champ doit être une date antérieure ou égale au :date.',
     'between'              => [
@@ -105,7 +104,6 @@ return [
     'prohibited_unless'    => 'Ce champ est interdit à moins que :other ait l\'une des valeurs :values.',
     'prohibits'            => 'Ce champ interdit :other d\'être présent.',
     'regex'                => 'Le format du champ est invalide.',
-    'relatable'            => 'Ce champ n\'est sans doute pas associé avec cette donnée.',
     'required'             => 'Ce champ est obligatoire.',
     'required_if'          => 'Ce champ est obligatoire quand la valeur de :other est :value.',
     'required_unless'      => 'Ce champ est obligatoire sauf si :other est :values.',

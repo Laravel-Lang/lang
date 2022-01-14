@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Må kun bestå av bokstaver, tall og bindestreker.',
     'alpha_num'            => 'Må kun bestå av bokstaver og tall.',
     'array'                => 'Må være en matrise.',
-    'attached'             => 'Er allerede vedlagt.',
     'before'               => 'Må være en dato før :date.',
     'before_or_equal'      => 'Må være en dato før eller lik :date.',
     'between'              => [
@@ -105,7 +104,6 @@ return [
     'prohibited_unless'    => 'Felt er forbudt med mindre :other er i :values.',
     'prohibits'            => 'Dette feltet forbyr :other å være til stede.',
     'regex'                => 'Formatet på veriden er ugyldig.',
-    'relatable'            => 'Kan ikke være knyttet til denne ressursen.',
     'required'             => 'Må fylles ut.',
     'required_if'          => 'Må fylles ut når :other er :value.',
     'required_unless'      => 'Er påkrevd med mindre :other finnes blant verdiene :values.',

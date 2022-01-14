@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Šis laukas gali turėti tik raides, skaičius ir brūkšnelius.',
     'alpha_num'            => 'Šis laukas gali turėti tik raides ir skaičius.',
     'array'                => 'Šis laukas turi būti masyvas.',
-    'attached'             => 'Šis laukas jau yra pridėtas.',
     'before'               => 'Šio lauko reikšmė turi būti data prieš :date.',
     'before_or_equal'      => 'Šio lauko reikšmė privalo būti data lygi arba ankstesnė negu :date.',
     'between'              => [
@@ -105,7 +104,6 @@ return [
     'prohibited_unless'    => 'Šis laukas yra draudžiamas, nebent :other yra :values.',
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Negaliojantis šio lauko formatas.',
-    'relatable'            => 'Šis laukas negali būti susijęs su šiuo šaltiniu.',
     'required'             => 'Privaloma užpildyti šį lauką.',
     'required_if'          => 'Privaloma užpildyti šį lauką, kai :other yra :value.',
     'required_unless'      => 'Šis laukas yra privalomas, nebent :other yra tarp :values reikšmių.',

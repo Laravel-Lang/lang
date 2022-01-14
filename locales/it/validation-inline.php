@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Può contenere solo lettere, numeri e trattini.',
     'alpha_num'            => 'Può contenere solo lettere e numeri.',
     'array'                => 'Deve essere un array.',
-    'attached'             => 'Campo già associato.',
     'before'               => 'Deve essere una data precedente al :date.',
     'before_or_equal'      => 'Deve essere una data precedente o uguale al :date.',
     'between'              => [
@@ -105,7 +104,6 @@ return [
     'prohibited_unless'    => 'Non consentito a meno che :other sia contenuto in :values.',
     'prohibits'            => 'Il campo impedisce a :other di essere presente.',
     'regex'                => 'Formato non valido.',
-    'relatable'            => 'Non puoi associarlo a questa risorsa.',
     'required'             => 'Obbligatorio.',
     'required_if'          => 'Obbligatorio quando :other è :value.',
     'required_unless'      => 'Obbligatorio a meno che :other sia :values.',

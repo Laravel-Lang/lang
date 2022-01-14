@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Der Inhalt darf nur aus Buchstaben, Zahlen, Binde- und Unterstrichen bestehen.',
     'alpha_num'            => 'Der Inhalt darf nur aus Buchstaben und Zahlen bestehen.',
     'array'                => 'Dieses Feld muss ein Array sein.',
-    'attached'             => 'Dieses Feld ist bereits angehängt.',
     'before'               => 'Das muss ein Datum vor dem :date sein.',
     'before_or_equal'      => 'Das muss ein Datum vor dem :date oder gleich dem :date sein.',
     'between'              => [
@@ -105,7 +104,6 @@ return [
     'prohibited_unless'    => 'Dieses Feld ist unzulässig, wenn :other nicht :values ist.',
     'prohibits'            => 'Dieses Feld verbietet die Angabe von :other.',
     'regex'                => 'Dieses Format ist ungültig.',
-    'relatable'            => 'Das kann nicht mit dieser Ressource verbunden werden.',
     'required'             => 'Dieses Feld muss ausgefüllt werden.',
     'required_if'          => 'Dieses Feld muss ausgefüllt werden, wenn :other den Wert :value hat.',
     'required_unless'      => 'Dieses Feld muss ausgefüllt werden, wenn :other nicht den Wert :values hat.',

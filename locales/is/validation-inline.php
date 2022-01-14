@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Þetta sviði getur aðeins innihalda bréf, númer, bandstrik og undirstrikar.',
     'alpha_num'            => 'Þetta sviði getur aðeins innihalda bréf og tölur.',
     'array'                => 'Þetta sviði verður að vera fylki.',
-    'attached'             => 'Þetta sviði er nú þegar fylgir.',
     'before'               => 'Þetta hlýtur að vera dagsetningu áður en :date.',
     'before_or_equal'      => 'Þetta hlýtur að vera dagsetningu áður en eða jafnt og :date.',
     'between'              => [
@@ -105,7 +104,6 @@ return [
     'prohibited_unless'    => 'Þetta sviði er bönnuð nema :other er í :values.',
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Þessu sniði er ógilt.',
-    'relatable'            => 'Þetta sviði getur ekki tengst þessu úrræði.',
     'required'             => 'Þetta sviði er krafist.',
     'required_if'          => 'Þetta sviði er krafist þegar :other er :value.',
     'required_unless'      => 'Þetta sviði er krafist nema :other er í :values.',

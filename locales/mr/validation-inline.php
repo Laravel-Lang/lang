@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'हे फील्ड केवळ अक्षरे असू शकतात, अंक, डॅश आणि अंडरस्कोरसोर.',
     'alpha_num'            => 'हे फील्ड केवळ अक्षरे आणि क्रमांक असू शकतात.',
     'array'                => 'अरे असणे आवश्यक आहे.',
-    'attached'             => 'हे फील्ड आधीच संलग्न आहे.',
     'before'               => 'या :date आधी एक तारीख असणे आवश्यक आहे.',
     'before_or_equal'      => 'या आधी एक तारीख किंवा :date समान असणे आवश्यक आहे.',
     'between'              => [
@@ -105,7 +104,6 @@ return [
     'prohibited_unless'    => 'या क्षेत्रात प्रतिबंधित आहे तोपर्यंत :other आहे :values.',
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'या स्वरूपात अवैध आहे.',
-    'relatable'            => 'हे फील्ड या संसाधन संबद्ध केले जाऊ शकत नाही.',
     'required'             => 'या क्षेत्रात आवश्यक आहे.',
     'required_if'          => 'या क्षेत्रात :other :value असताना आवश्यक आहे.',
     'required_unless'      => ':other मध्ये आहे तोपर्यंत हा क्षेत्रात आवश्यक आहे :values.',

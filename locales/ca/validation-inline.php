@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Aquest camp només pot contenir lletres, números, guions i guions baixos.',
     'alpha_num'            => 'Aquest camp només pot contenir lletres i números.',
     'array'                => 'Aquest camp ha de ser una matriu.',
-    'attached'             => 'Aquest camp és ja s\'adjunta.',
     'before'               => 'Aquesta ha de ser una data abans :date.',
     'before_or_equal'      => 'Aquesta ha de ser una data anterior o igual a :date junta.',
     'between'              => [
@@ -105,7 +104,6 @@ return [
     'prohibited_unless'    => 'Aquest camp és prohibida, tret que :other és a :values.',
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Aquest format no és vàlida.',
-    'relatable'            => 'Aquest camp no pot estar associat amb aquest recurs.',
     'required'             => 'Aquest camp és obligatori.',
     'required_if'          => 'Aquest camp és obligatori quan :other és :value.',
     'required_unless'      => 'Aquest camp és obligatori, llevat que :other és a :values.',

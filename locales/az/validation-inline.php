@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Bu sahədə yalnız məktublar, nömrələri, tire və vurğulayır ola bilər.',
     'alpha_num'            => 'Bu sahədə yalnız məktublar və nömrələr ola bilər.',
     'array'                => 'Bu sahə bir sıra olmalıdır.',
-    'attached'             => 'Bu sahə artıq əlavə olunur.',
     'before'               => 'Bu :date qədər tarix olmalıdır.',
     'before_or_equal'      => 'Bu :date-cu il əvvəlki və ya bərabər tarixi olmalıdır.',
     'between'              => [
@@ -105,7 +104,6 @@ return [
     'prohibited_unless'    => ':other yalnız :values-da olmadıqda bu sahə qadağandır.',
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Bu format yolverilməzdir.',
-    'relatable'            => 'Bu sahədə bu resurs ilə bağlı ola bilər.',
     'required'             => 'Bu sahədə məcburidir.',
     'required_if'          => ':other :value olduğu təqdirdə bu sahə məcburidir.',
     'required_unless'      => 'Yalnız :other :values deyil, bu sahədə bir olmalıdır edir.',

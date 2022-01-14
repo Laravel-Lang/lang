@@ -22,7 +22,6 @@ return [
     'alpha_dash'           => 'This field must only contain letters, numbers, dashes and underscores.',
     'alpha_num'            => 'This field must only contain letters and numbers.',
     'array'                => 'This field must be an array.',
-    'attached'             => 'This field is already attached.',
     'before'               => 'This must be a date before :date.',
     'before_or_equal'      => 'This must be a date before or equal to :date.',
     'between'              => [
@@ -104,7 +103,6 @@ return [
     'password'             => 'The password is incorrect.',
     'present'              => 'This field must be present.',
     'regex'                => 'This format is invalid.',
-    'relatable'            => 'This field may not be associated with this resource.',
     'required'             => 'This field is required.',
     'required_if'          => 'This field is required when :other is :value.',
     'required_unless'      => 'This field is required unless :other is in :values.',

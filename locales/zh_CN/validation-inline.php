@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => '只能由字母、数字、短划线(-)和下划线(_)组成。',
     'alpha_num'            => '只能由字母和数字组成。',
     'array'                => '必须是一个数组。',
-    'attached'             => '此字段已附加。',
     'before'               => '必须要早于 :date。',
     'before_or_equal'      => '必须要等于 :date 或更早。',
     'between'              => [
@@ -105,7 +104,6 @@ return [
     'prohibited_unless'    => '除非 :other 在 :values 中，否则禁止此字段。',
     'prohibits'            => '此字段禁止 :other 出现。',
     'regex'                => '格式不正确。',
-    'relatable'            => '此字段可能与此资源不相关联。',
     'required'             => '不能为空。',
     'required_if'          => '当 :other 为 :value 时不能为空。',
     'required_unless'      => '当 :other 不为 :values 时不能为空。',

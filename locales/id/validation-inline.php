@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Isian ini hanya boleh berisi huruf, angka, strip, dan garis bawah.',
     'alpha_num'            => 'Isian ini hanya boleh berisi huruf dan angka.',
     'array'                => 'Isian harus berisi sebuah array.',
-    'attached'             => 'Isian ini sudah dilampirkan.',
     'before'               => 'Tanggal harus berisi sebelum :date.',
     'before_or_equal'      => 'Tanggal harus berisi tanggal sebelum atau sama dengan :date.',
     'between'              => [
@@ -105,7 +104,6 @@ return [
     'prohibited_unless'    => 'Isian ini tidak boleh ada kecuali :other memiliki nilai :values.',
     'prohibits'            => 'Isian ini melarang isian :other untuk ditampilkan.',
     'regex'                => 'Format ini tidak sesuai.',
-    'relatable'            => 'Isian ini mungkin tidak berasosiasi dengan sumber ini.',
     'required'             => 'Isian ini wajib diisi',
     'required_if'          => 'Isian ini wajib diisi bila :other adalah :value.',
     'required_unless'      => 'Isian ini wajib diisi jika :other berada dalam :values.',

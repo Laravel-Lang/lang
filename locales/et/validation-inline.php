@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'See väli võib sisaldada ainult tähti, numbreid, kriipse ja alakriipsusid.',
     'alpha_num'            => 'See väli võib sisaldada ainult tähti ja numbreid.',
     'array'                => 'See väli peab olema massiiv.',
-    'attached'             => 'See väli on juba lisatud.',
     'before'               => 'See peab olema Kuupäev enne :date.',
     'before_or_equal'      => 'See peab olema kuupäev enne või võrdne :date.',
     'between'              => [
@@ -105,7 +104,6 @@ return [
     'prohibited_unless'    => 'See väli on keelatud, välja arvatud juhul, kui :other on :valuesis.',
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'See vorming on vigane.',
-    'relatable'            => 'See väli ei pruugi olla seotud selle ressursiga.',
     'required'             => 'See väli on vajalik.',
     'required_if'          => 'See väli on vajalik, kui :other on :value.',
     'required_unless'      => 'See väli on nõutav, välja arvatud juhul, kui :other on :values-s.',

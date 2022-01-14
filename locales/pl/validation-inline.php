@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Pole może zawierać jedynie litery, cyfry i myślniki.',
     'alpha_num'            => 'Pole może zawierać jedynie litery i cyfry.',
     'array'                => 'Pole musi być tablicą.',
-    'attached'             => 'To pole jest już dołączone.',
     'before'               => 'Pole musi być datą wcześniejszą od :date.',
     'before_or_equal'      => 'Pole musi być datą nie późniejszą niż :date.',
     'between'              => [
@@ -105,7 +104,6 @@ return [
     'prohibited_unless'    => 'To pole jest zabronione, chyba że :other jest w :values.',
     'prohibits'            => 'Pole zabrania obecności :other.',
     'regex'                => 'Format pola jest nieprawidłowy.',
-    'relatable'            => 'To pole może nie być powiązane z tym zasobem.',
     'required'             => 'Pole jest wymagane.',
     'required_if'          => 'Pole jest wymagane gdy :other ma wartość :value.',
     'required_unless'      => 'Pole jest wymagane jeżeli :other nie znajduje się w :values.',

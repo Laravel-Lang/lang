@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'اس میدان سکتا ہے صرف پر مشتمل خط, تعداد, ڈیش اور ظاہر کرتی ہے.',
     'alpha_num'            => 'اس میدان میں کر سکتے ہیں صرف حروف اور نمبر.',
     'array'                => 'اس میدان میں ہونا ضروری ہے ایک سرنی.',
-    'attached'             => 'اس میدان میں پہلے سے ہی ہے کے ساتھ منسلک.',
     'before'               => 'یہ ہونا ضروری ہے ایک تاریخ سے پہلے :date.',
     'before_or_equal'      => 'یہ ہونا ضروری ہے ایک تاریخ سے پہلے یا اس کے برابر :date.',
     'between'              => [
@@ -105,7 +104,6 @@ return [
     'prohibited_unless'    => 'اس میدان ممنوع ہے جب تک کہ :other میں ہے :values.',
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'اس کی شکل باطل ہے.',
-    'relatable'            => 'اس میدان منسلک نہیں کیا جا سکتا کے ساتھ اس کے وسائل.',
     'required'             => 'اس میدان کی ضرورت ہے.',
     'required_if'          => 'اس میدان کی ضرورت ہے جب :other ہے :value.',
     'required_unless'      => 'اس میدان کی ضرورت ہے جب تک :other میں ہے :values.',

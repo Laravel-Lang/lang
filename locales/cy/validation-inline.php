@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Y maes hwn mai dim ond yn cynnwys llythrennau, rhifau, llinellau toriad ac yn tanlinellu.',
     'alpha_num'            => 'Y maes hwn mai dim ond yn cynnwys llythrennau a rhifau.',
     'array'                => 'Mae hyn yn maes rhaid i fod yn arae.',
-    'attached'             => 'Mae\'r maes hwn eisoes yn ynghlwm.',
     'before'               => 'Rhaid i hwn fod yn ddyddiad cyn :date.',
     'before_or_equal'      => 'Rhaid i hwn fod yn ddyddiad cyn neu yn hafal i :date.',
     'between'              => [
@@ -105,7 +104,6 @@ return [
     'prohibited_unless'    => 'Y maes hwn yn cael ei wahardd oni bai :other yn :values.',
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Mae\'r fformat hwn yn annilys.',
-    'relatable'            => 'Y maes hwn gall nid yw fod yn gysylltiedig â\'r adnodd hwn.',
     'required'             => 'Mae\'r maes hwn yn ofynnol.',
     'required_if'          => 'Mae\'r maes hwn yn ofynnol pan fydd :other yn :value.',
     'required_unless'      => 'Mae\'r maes hwn yn ofynnol oni bai bod :other yn :values.',

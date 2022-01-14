@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Dit veld mag alleen letters, nummers, underscores (_) en streepjes (-) bevatten.',
     'alpha_num'            => 'Dit veld mag alleen letters en nummers bevatten.',
     'array'                => 'Dit veld moet geselecteerde elementen bevatten.',
-    'attached'             => 'Dit veld is reeds gekoppeld.',
     'before'               => 'Dit moet een datum voor :date zijn.',
     'before_or_equal'      => 'Dit moet een datum voor of gelijk aan :date zijn.',
     'between'              => [
@@ -105,7 +104,6 @@ return [
     'prohibited_unless'    => 'Dit veld is verboden tenzij :other is aan :values.',
     'prohibits'            => 'Dit veld verbiedt de aanwezigheid van :other.',
     'regex'                => 'Dit formaat is ongeldig.',
-    'relatable'            => 'Dit veld mag niet gekoppeld worden aan deze bron.',
     'required'             => 'Dit veld is verplicht.',
     'required_if'          => 'Dit veld is verplicht indien :other gelijk is aan :value.',
     'required_unless'      => 'Dit veld is verplicht tenzij :other gelijk is aan :values.',

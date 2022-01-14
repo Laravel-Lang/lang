@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Ovo polje može sadržavati samo slova, brojeve, crtice i podvlake.',
     'alpha_num'            => 'Ovo polje može sadržavati samo slova i brojeve.',
     'array'                => 'Ovo polje mora da je mreža.',
-    'attached'             => 'Ovo polje je već spojeno.',
     'before'               => 'Ovo mora da je datum pre :date.',
     'before_or_equal'      => 'Ovo mora biti datum prije ili jednako :date.',
     'between'              => [
@@ -105,7 +104,6 @@ return [
     'prohibited_unless'    => 'To polje je zabranjeno osim ako :other ne bude u :values.',
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Ovaj format je nevažeći.',
-    'relatable'            => 'Ovo polje možda nije povezano sa ovim resursom.',
     'required'             => 'Ovo polje je potrebno.',
     'required_if'          => 'Ovo polje je potrebno kada :other je :value.',
     'required_unless'      => 'Ovo polje je potrebno osim ako je :other u :values.',

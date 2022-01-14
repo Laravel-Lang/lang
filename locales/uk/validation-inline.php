@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Поле може містити лише літери, цифри, тире та підкреслення.',
     'alpha_num'            => 'Поле може містити лише букви та цифри.',
     'array'                => 'Поле має бути масивом.',
-    'attached'             => 'Це поле вже прикріплено.',
     'before'               => 'Має бути дата раніше :date.',
     'before_or_equal'      => 'Має бути дата раніше або дорівнює :date.',
     'between'              => [
@@ -105,7 +104,6 @@ return [
     'prohibited_unless'    => 'Це поле заборонено, якщо тільки :other не знаходиться в :values році.',
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Формат недійсний.',
-    'relatable'            => 'Це поле може бути не пов\'язане з даним ресурсом.',
     'required'             => 'Це поле є обовязковим.',
     'required_if'          => 'Це поле обовязкове коли :other є :value.',
     'required_unless'      => 'Це поле обовязковим, якщо :other інше не вказано у :values.',

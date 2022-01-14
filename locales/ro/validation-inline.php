@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Acest câmp poate conține numai litere, numere, liniuțe și sublinieri.',
     'alpha_num'            => 'Acest câmp poate conține numai litere și numere.',
     'array'                => 'Acest câmp trebuie să fie o matrice.',
-    'attached'             => 'Acest câmp este deja atașat.',
     'before'               => 'Aceasta trebuie să fie o dată înainte de :date.',
     'before_or_equal'      => 'Aceasta trebuie să fie o dată înainte sau egală cu :date.',
     'between'              => [
@@ -105,7 +104,6 @@ return [
     'prohibited_unless'    => 'Acest câmp este interzis, cu excepția cazului în care :other este în :values.',
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Acest format este nevalid.',
-    'relatable'            => 'Este posibil ca acest câmp să nu fie asociat cu această resursă.',
     'required'             => 'Acest câmp este obligatoriu.',
     'required_if'          => 'Acest câmp este necesar atunci când :other este :value.',
     'required_unless'      => 'Acest câmp este necesar, cu excepția cazului în :other este în :values.',

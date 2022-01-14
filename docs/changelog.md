@@ -7,6 +7,24 @@ All notable changes to this project will be documented in this file, since v7.0.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres
 to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [10.2.0] - 2022-01-14
+
+### Changed
+
+ * feature: [bn] #1928 auth.php, validation.php, passwords.php, validation-inline.php, validation-attributes.php, json file
+ * feature: [de] #1926 validation.php, validation-inline.php
+ * feature: [pl] #1931 json file
+ * feature: [ru] #1936 validation.php, validation-inline.php
+
+### Reference
+
+ * feature: #1920 Migrated files from Publisher project
+ * feature: #1933 Added laravel/ui
+ * feature: #1934 Replace `may` with `must`
+ * feature: #1936 Add new keys: `enum` and `mac_address`
+ * feature: #1939 Added a new key to Laravel Nova 3.30.0: Failed to load :resource!
+ * feature: #1940 Laravel Nova validation keys moved to separate files
+
 ## [10.1.12] - 2021-12-28
 
 ### Changed
@@ -687,7 +705,8 @@ For more information, see #1606 and #1607.
 
 * feature: #1269 Rename locale folders following ISO 15897 format
 
-[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/10.1.12...master
+[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/10.2.0...master
+[10.2.0]: https://github.com/caouecs/Laravel-lang/compare/10.1.12...10.2.0
 [10.1.12]: https://github.com/caouecs/Laravel-lang/compare/10.1.11...10.1.12
 [10.1.11]: https://github.com/caouecs/Laravel-lang/compare/10.1.10...10.1.11
 [10.1.10]: https://github.com/caouecs/Laravel-lang/compare/10.1.9...10.1.10

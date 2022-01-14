@@ -11,6 +11,7 @@ class Packages extends Processor
         'laravel/breeze'    => 'packages/breeze.json',
         'laravel/fortify'   => 'packages/fortify.json',
         'laravel/jetstream' => 'packages/jetstream.json',
+        'laravel/ui'        => 'packages/ui.json',
     ];
 
     public function run(): void

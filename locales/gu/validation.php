@@ -94,7 +94,7 @@ return [
         'numeric' => ':attribute ઓછામાં ઓછું હોવું જોઈએ :min.',
         'string'  => ':attribute ઓછામાં ઓછું હોવું જોઈએ :min અક્ષરો.',
     ],
-    'multiple_of'          => 'The :attribute must be a multiple of :value',
+    'multiple_of'          => 'The :attribute must be a multiple of :value.',
     'not_in'               => 'પસંદ કરાયેલ :attribute અમાન્ય છે.',
     'not_regex'            => ':attribute અમાન્ય ગોઠવણ છે.',
     'numeric'              => ':attribute આંક હોવો જોઈએ.',

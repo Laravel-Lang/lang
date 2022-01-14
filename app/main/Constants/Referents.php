@@ -1,6 +1,6 @@
 <?php
 
-namespace LaravelLang\Lang\Constants;
+namespace LaravelLang\Development\Constants;
 
 class Referents
 {

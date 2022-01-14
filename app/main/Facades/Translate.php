@@ -1,9 +1,9 @@
 <?php
 
-namespace LaravelLang\Lang\Facades;
+namespace LaravelLang\Development\Facades;
 
 use DragonCode\Support\Facades\Facade;
-use LaravelLang\Lang\Services\Translate as Service;
+use LaravelLang\Development\Services\Translate as Service;
 
 /**
  * @method static string translate(string $locale, string $text)

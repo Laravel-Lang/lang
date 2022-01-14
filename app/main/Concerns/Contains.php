@@ -1,10 +1,10 @@
 <?php
 
-namespace LaravelLang\Lang\Concerns;
+namespace LaravelLang\Development\Concerns;
 
 use DragonCode\Support\Facades\Helpers\Filesystem\Directory;
 use DragonCode\Support\Facades\Helpers\Str;
-use LaravelLang\Lang\Constants\Locales;
+use LaravelLang\Development\Constants\Locales;
 
 trait Contains
 {

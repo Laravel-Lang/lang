@@ -1,6 +1,6 @@
 <?php
 
-namespace LaravelLang\Lang\Processors;
+namespace LaravelLang\Development\Processors;
 
 use DragonCode\Support\Facades\Helpers\Arr;
 use DragonCode\Support\Facades\Helpers\Filesystem\File;

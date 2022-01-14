@@ -1,6 +1,6 @@
 <?php
 
-namespace Tests;
+namespace Tests\Development;
 
 use DragonCode\PrettyArray\Services\File;
 use DragonCode\Support\Facades\Helpers\Ables\Arrayable;
@@ -8,9 +8,9 @@ use DragonCode\Support\Facades\Helpers\Arr;
 use DragonCode\Support\Facades\Helpers\Filesystem\Directory;
 use DragonCode\Support\Facades\Helpers\Filesystem\File as Filesystem;
 use DragonCode\Support\Facades\Helpers\Str;
-use LaravelLang\Lang\Constants\Locales;
+use LaravelLang\Development\Constants\Locales;
 use PHPUnit\Framework\TestCase as BaseTestCase;
-use Tests\Concerns\Messages;
+use Tests\Development\Concerns\Messages;
 
 abstract class TestCase extends BaseTestCase
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace LaravelLang\Lang\Contracts;
+namespace LaravelLang\Development\Contracts;
 
 interface Stringable
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace LaravelLang\Lang\Models;
+namespace LaravelLang\Development\Models;
 
-use LaravelLang\Lang\Constants\Machines;
+use LaravelLang\Development\Constants\Machines;
 
 class Locale extends Model
 {

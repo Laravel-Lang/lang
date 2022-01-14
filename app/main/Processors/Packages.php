@@ -1,9 +1,9 @@
 <?php
 
-namespace LaravelLang\Lang\Processors;
+namespace LaravelLang\Development\Processors;
 
 use DragonCode\Support\Facades\Helpers\Arr;
-use LaravelLang\Lang\Facades\Package;
+use LaravelLang\Development\Facades\Package;
 
 class Packages extends Processor
 {

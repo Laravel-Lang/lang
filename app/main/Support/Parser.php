@@ -1,6 +1,6 @@
 <?php
 
-namespace LaravelLang\Lang\Support;
+namespace LaravelLang\Development\Support;
 
 use DragonCode\Support\Concerns\Makeable;
 use DragonCode\Support\Facades\Helpers\Arr;

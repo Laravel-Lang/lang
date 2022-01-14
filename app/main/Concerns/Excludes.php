@@ -1,11 +1,11 @@
 <?php
 
-namespace LaravelLang\Lang\Concerns;
+namespace LaravelLang\Development\Concerns;
 
 use DragonCode\PrettyArray\Services\File as PrettyFile;
 use DragonCode\Support\Facades\Helpers\Filesystem\File;
 
-/** @mixin \LaravelLang\Lang\Processors\Processor */
+/** @mixin \LaravelLang\Development\Processors\Processor */
 trait Excludes
 {
     protected static array $excludes = [];

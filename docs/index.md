@@ -14,6 +14,7 @@ The current status of the translated keys is available at [STATUS](status.md) pa
 
 ## Installation
 
+* [Via Translation Managers](installation/managers.md)
 * [Via Composer](installation/composer.md)
 * [Via GitHub](installation/github.md)
 * [Via SVN](installation/github.md)

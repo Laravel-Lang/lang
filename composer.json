@@ -59,12 +59,5 @@
         "sort-packages": true
     },
     "minimum-stability": "stable",
-    "prefer-stable": true,
-    "extra": {
-        "laravel": {
-            "providers": [
-                "LaravelLang\\Lang\\ServiceProvider"
-            ]
-        }
-    }
+    "prefer-stable": true
 }

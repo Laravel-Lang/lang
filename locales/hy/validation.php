@@ -45,6 +45,7 @@ return [
     'distinct'             => ':attribute դաշտը ունի կրկնվող արժեք։',
     'email'                => ':attribute դաշտը պետք է լինի վավերական Էլ․ հասցե։',
     'ends_with'            => ':attribute դաշտը պետք է ավարտվի հետևյալ արժեքներից մեկով․ :values։',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => ':attribute դաշտի ընտրված արժեքն անվավեր է։',
     'file'                 => ':attribute-ը պետք է լինի ֆայլ։',
     'filled'               => ':attribute դաշտը պետք է անպայման ունենա արժեք։',
@@ -80,6 +81,7 @@ return [
         'numeric' => ':attribute դաշտը պետք է փոքր կամ հավասար լինի :value-ից։',
         'string'  => ':attribute դաշտի նիշերի քանակը պետք է փոքր կամ հավասար լինի :value-ից։',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ':attribute դաշտում էլեմենտների քանակը չպետք է գերազանցի :max-ը։',
         'file'    => ':attribute դաշտի ֆայլի չափը չպետք է գերազանցի :max կիլոբայթը։',

@@ -44,6 +44,7 @@ return [
     'distinct'             => 'Ez a mező ismétlődő értékkel rendelkezik.',
     'email'                => 'Ennek érvényes e-mail címnek kell lennie.',
     'ends_with'            => 'Ennek az alábbiak egyikével kell végződnie: :values.',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'A kiválasztott érték érvénytelen.',
     'file'                 => 'A tartalomnak fájlnak kell lennie.',
     'filled'               => 'Ennek a mezőnek kell legyen értéke.',
@@ -79,6 +80,7 @@ return [
         'numeric' => 'The value must be less than or equal :value.',
         'string'  => 'The string must be less than or equal :value characters.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'The content must not have more than :max items.',
         'file'    => 'The file size must not be greater than :max kilobytes.',

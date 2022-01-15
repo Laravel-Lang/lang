@@ -45,6 +45,7 @@ return [
     'distinct'             => 'Polje :attribute ima dvostruku vrijednost.',
     'email'                => 'Format polja :attribute mora biti validan e-mail.',
     'ends_with'            => 'Polje :attribute se mora završiti s jednom od sljedećih vrijednosti: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'Odabrano polje :attribute nije validno.',
     'file'                 => 'Polje :attribute mora biti fajl.',
     'filled'               => 'Polje :attribute je mora sadržati vrijednost.',
@@ -80,6 +81,7 @@ return [
         'numeric' => 'Polje :attribute mora imati vrijednost manju ili jednaku :value.',
         'string'  => 'Polje :attribute ne može sadržati više od :value znakova.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Polje :attribute mora sadržati manje od :max stavki.',
         'file'    => 'Polje :attribute mora imati veličinu manju od :max kilobajta.',

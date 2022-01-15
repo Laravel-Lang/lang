@@ -45,6 +45,7 @@ return [
     'distinct'             => ':attribute má duplicitní hodnotu.',
     'email'                => ':attribute není platný formát.',
     'ends_with'            => ':attribute musí končit jednou z následujících hodnot: :values',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'Zvolená hodnota pro :attribute není platná.',
     'file'                 => ':attribute musí být soubor.',
     'filled'               => ':attribute musí být vyplněno.',
@@ -80,6 +81,7 @@ return [
         'numeric' => ':attribute musí být menší nebo rovno než :value.',
         'string'  => ':attribute nesmí být delší než :value znaků.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ':attribute nemůže obsahovat více než :max prvků.',
         'file'    => 'Velikost souboru :attribute musí být menší než :value kB.',

@@ -45,6 +45,7 @@ return [
     'distinct'             => 'Laukas :attribute pasikartoja.',
     'email'                => 'Lauko :attribute reikšmė turi būti galiojantis el. pašto adresas.',
     'ends_with'            => 'Laukas :attribute turi baigtis vienu iš: :values',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'Pasirinkta negaliojanti :attribute reikšmė.',
     'file'                 => ':attribute turi būti failas.',
     'filled'               => 'Laukas :attribute turi būti užpildytas.',
@@ -80,6 +81,7 @@ return [
         'numeric' => 'Lauko :attribute reikšmė turi būti mažesnė arba lygi :value.',
         'string'  => 'Lauko :attribute reikšmė turi būti mažesnė arba lygi :value simboliams.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Elementų kiekis lauke :attribute negali turėti daugiau nei :max elementų.',
         'file'    => 'Failo dydis lauke :attribute negali būti didesnis nei :max kilobaitų.',

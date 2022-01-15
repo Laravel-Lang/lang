@@ -45,6 +45,7 @@ return [
     'distinct'             => 'ಈ  :attribute ಕ್ಷೇತ್ರವು ನಕಲಿ ಮೌಲ್ಯವನ್ನು ಹೊಂದಿದೆ.',
     'email'                => 'ಈ  :attribute ಮಾನ್ಯವಾದ ಇಮೇಲ್ ವಿಳಾಸವಾಗಿರಬೇಕು.',
     'ends_with'            => 'The :attribute must end with one of the following: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'ಈ  ಆಯ್ಕೆಮಾಡಲಾದ :attribute ಅಮಾನ್ಯವಾಗಿದೆ .',
     'file'                 => 'ಈ  :attribute ಫೈಲ್ ಆಗಿರಬೇಕು.',
     'filled'               => 'ಈ  :attribute ಕ್ಷೇತ್ರವು ಮೌಲ್ಯವನ್ನು ಹೊಂದಿರಬೇಕು.',
@@ -80,6 +81,7 @@ return [
         'numeric' => 'ಈ  :attribute ನಲ್ಲಿ  :value ಗಿಂತ  ಕಡಿಮೆ ಅಥವಾ ಸಮನಾಗಿರಬೇಕು.',
         'string'  => 'ಈ  :attribute ನಲ್ಲಿ  :value ಅಕ್ಷರಗಳಿಗಿಂತ  ಕಡಿಮೆ ಅಥವಾ ಸಮನಾಗಿರಬೇಕು.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => 'ಈ  :attribute ನಲ್ಲಿ  :max ಐಟಂಗಳಿಗಿಂತ  ಹೆಚ್ಚು ಇರಬಾರದು .',
         'file'    => 'ಈ  :attribute ನಲ್ಲಿ  :max ಕಿಲೋಬೈಟ್ಗಳಿಗಿಂತ ಹೆಚ್ಚು ಇರಬಾರದು .',

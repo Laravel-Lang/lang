@@ -45,6 +45,7 @@ return [
     'distinct'             => 'A(z) :attribute értékének egyedinek kell lennie!',
     'email'                => 'A(z) :attribute nem érvényes email formátum.',
     'ends_with'            => 'A(z) :attribute a következővel kell végződjön: :values',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'A kiválasztott :attribute érvénytelen.',
     'file'                 => 'A(z) :attribute fájl kell, hogy legyen!',
     'filled'               => 'A(z) :attribute megadása kötelező!',
@@ -80,6 +81,7 @@ return [
         'numeric' => 'A(z) :attribute kisebb vagy egyenlő kell, hogy legyen, mint :value!',
         'string'  => 'A(z) :attribute hossza nem lehet több, mint :value karakter.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => 'A(z) :attribute legfeljebb :max elemet kell, hogy tartalmazzon.',
         'file'    => 'A(z) :attribute mérete nem lehet több, mint :max kilobájt.',

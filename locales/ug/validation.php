@@ -45,6 +45,7 @@ return [
     'distinct'             => ':attribute ئاللابۇرۇن مەۋجۈت.',
     'email'                => ':attribute ئىناۋەتلىك تورخەت ئادىرىسى ئەمەس.',
     'ends_with'            => 'The :attribute must end with one of the following: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => ':attribute مەۋجۇت ئەمەس.',
     'file'                 => ':attribute چوقۇم ھۆججەت بۇلىشى كېرەك.',
     'filled'               => ':attribute قۇرۇق بولسا بولمايدۇ.',
@@ -80,6 +81,7 @@ return [
         'numeric' => 'The :attribute must be less than or equal :value.',
         'string'  => 'The :attribute must be less than or equal :value characters.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ':attribute ئەڭ كۆپ بولغاندا :max بۆلەك',
         'file'    => ':attribute :max kb دىن چوڭ بولماسلىكى كېرەك.',

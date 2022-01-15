@@ -44,6 +44,7 @@ return [
     'distinct'             => 'Bu sahədə bir təkrarlanan dəyəri var.',
     'email'                => 'Bu etibarlı e-mail olmalıdır.',
     'ends_with'            => 'Bu, aşağıdakı nöqtələrdən biri ilə başa çatmalıdır: :values.',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'Seçilmiş dəyər yolverilməzdir.',
     'file'                 => 'Məzmun bir fayl olmalıdır.',
     'filled'               => 'Bu sahədə bir fərq olmalıdır.',
@@ -79,6 +80,7 @@ return [
         'numeric' => 'The value must be less than or equal :value.',
         'string'  => 'The string must be less than or equal :value characters.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'The content must not have more than :max items.',
         'file'    => 'The file size must not be greater than :max kilobytes.',

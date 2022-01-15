@@ -44,6 +44,7 @@ return [
     'distinct'             => 'Har en duplisert verdi.',
     'email'                => 'Må være en gyldig e-postadresse.',
     'ends_with'            => 'Må ende med en av følgende: :values.',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'Den valgte veriden er ugyldig.',
     'file'                 => 'Må være en fil.',
     'filled'               => 'Må fylles ut.',
@@ -79,6 +80,7 @@ return [
         'numeric' => 'Må være mindre enn eller lik :value.',
         'string'  => 'Må være kortere enn eller lik :value tegn.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Må ikke ha flere enn :max elementer.',
         'file'    => 'Må ikke være større enn :max kilobytes.',

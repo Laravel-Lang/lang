@@ -44,6 +44,7 @@ return [
     'distinct'             => 'Y maes hwn wedi dyblyg gwerth.',
     'email'                => 'Rhaid i hyn fod yn gyfeiriad e-bost dilys.',
     'ends_with'            => 'Mae\'n rhaid i hyn i ben gydag un o\'r canlynol: :values.',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'Mae\'r gwerth a ddewiswyd yn annilys.',
     'file'                 => 'Mae\'n rhaid i\'r cynnwys fod yn ffeil.',
     'filled'               => 'Mae\'r maes hwn yn rhaid ei gael ar werth.',
@@ -79,6 +80,7 @@ return [
         'numeric' => 'The value must be less than or equal :value.',
         'string'  => 'The string must be less than or equal :value characters.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'The content must not have more than :max items.',
         'file'    => 'The file size must not be greater than :max kilobytes.',

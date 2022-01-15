@@ -44,6 +44,7 @@ return [
     'distinct'             => 'Toto pole má duplicitní hodnotu.',
     'email'                => 'Musí to být platná e-mailová adresa.',
     'ends_with'            => 'To musí skončit jedním z následujících: :values.',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'Vybraná hodnota je neplatná.',
     'file'                 => 'Obsah musí být soubor.',
     'filled'               => 'Toto pole musí mít hodnotu.',
@@ -79,6 +80,7 @@ return [
         'numeric' => 'Tato hodnota musí být :value nebo méně.',
         'string'  => 'Toto pole musí mít :value nebo méně znaků.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Toto pole musí mít nejvíce :max položek.',
         'file'    => 'Tento soubor nesmí být větší než :max kilobytů.',

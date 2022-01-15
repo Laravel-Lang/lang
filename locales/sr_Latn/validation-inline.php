@@ -44,6 +44,7 @@ return [
     'distinct'             => 'Ovo polje ima dupliranu vrednost.',
     'email'                => 'Email mora da bude validan.',
     'ends_with'            => 'Polje mora da se završi sa nečim od sledećeg: :values.',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'Selektovana vrednost nije validna.',
     'file'                 => 'Datoteka mora da bude fajl.',
     'filled'               => 'Polje je obavezno.',
@@ -79,6 +80,7 @@ return [
         'numeric' => 'Vrednost mora biti manja ili jednaka od :value.',
         'string'  => 'Rečenica mora sadrati manje od jednak :value slova.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Niz ne sme imati više od :max stavki.',
         'file'    => 'Veličina fajla ne sme biti veća od :max kilobajta.',

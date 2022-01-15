@@ -45,6 +45,7 @@ return [
     'distinct'             => 'שדה :attribute קיים ערך כפול.',
     'email'                => 'שדה :attribute חייב להיות כתובת אימייל תקנית.',
     'ends_with'            => 'שדה :attribute חייב להסתיים באחד מהבאים: :values',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'בחירת ה-:attribute אינה תקפה.',
     'file'                 => 'שדה :attribute חייב להיות קובץ.',
     'filled'               => 'שדה :attribute הוא חובה.',
@@ -80,6 +81,7 @@ return [
         'numeric' => 'על ה :attribute להיות נמוך או שווה ל- :value.',
         'string'  => 'על ה :attribute להכיל :value תווים או פחות.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => 'שדה :attribute לא יכול להכיל יותר מ-:max פריטים.',
         'file'    => 'שדה :attribute לא יכול להיות גדול מ-:max קילובייטים.',

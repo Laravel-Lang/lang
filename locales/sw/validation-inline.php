@@ -44,6 +44,7 @@ return [
     'distinct'             => 'Uwanja huu ina duplicate thamani.',
     'email'                => 'Hii ni lazima kuwa na anwani ya barua pepe halali.',
     'ends_with'            => 'Hii lazima mwisho na moja ya yafuatayo: :values.',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'Kuchaguliwa thamani ni batili.',
     'file'                 => 'Maudhui lazima faili.',
     'filled'               => 'Uwanja huu lazima kuwa na thamani.',
@@ -79,6 +80,7 @@ return [
         'numeric' => 'The value must be less than or equal :value.',
         'string'  => 'The string must be less than or equal :value characters.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'The content must not have more than :max items.',
         'file'    => 'The file size must not be greater than :max kilobytes.',

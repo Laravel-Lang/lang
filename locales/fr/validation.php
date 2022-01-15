@@ -45,6 +45,7 @@ return [
     'distinct'             => 'Le champ :attribute a une valeur en double.',
     'email'                => 'Le champ :attribute doit être une adresse e-mail valide.',
     'ends_with'            => 'Le champ :attribute doit se terminer par une des valeurs suivantes : :values',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'Le champ :attribute sélectionné est invalide.',
     'file'                 => 'Le champ :attribute doit être un fichier.',
     'filled'               => 'Le champ :attribute doit avoir une valeur.',
@@ -80,6 +81,7 @@ return [
         'numeric' => 'La valeur de :attribute doit être inférieure ou égale à :value.',
         'string'  => 'Le texte :attribute doit contenir au plus :value caractères.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Le tableau :attribute ne peut contenir plus de :max éléments.',
         'file'    => 'La taille du fichier de :attribute ne peut pas dépasser :max kilo-octets.',

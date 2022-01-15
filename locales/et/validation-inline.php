@@ -44,6 +44,7 @@ return [
     'distinct'             => 'Sellel väljal on duplikaadi väärtus.',
     'email'                => 'See peab olema kehtiv e-posti aadress.',
     'ends_with'            => 'See peab lõppema ühega järgmistest: :values.',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'Valitud väärtus on vigane.',
     'file'                 => 'Sisu peab olema fail.',
     'filled'               => 'Sellel väljal peab olema väärtus.',
@@ -79,6 +80,7 @@ return [
         'numeric' => 'The value must be less than or equal :value.',
         'string'  => 'The string must be less than or equal :value characters.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'The content must not have more than :max items.',
         'file'    => 'The file size must not be greater than :max kilobytes.',

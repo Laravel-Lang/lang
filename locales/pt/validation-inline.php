@@ -44,6 +44,7 @@ return [
     'distinct'             => 'Este campo tem um valor duplicado.',
     'email'                => 'Este deve ser um endereço de e-mail válido.',
     'ends_with'            => 'Isso deve terminar com um dos seguintes valores :values.',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'O valor selecionado é inválido.',
     'file'                 => 'O conteúdo deve ser um ficheiro.',
     'filled'               => 'Este campo deve ter um valor.',
@@ -79,6 +80,7 @@ return [
         'numeric' => 'O valor deve ser menor ou igual :value.',
         'string'  => 'A cadeia de texto deve ser menor ou igual :value caracteres.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'O conteúdo pode não ter mais do que :max itens.',
         'file'    => 'O tamanho do ficheiro não pode ser maior que :max kilobytes.',

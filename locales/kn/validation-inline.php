@@ -44,6 +44,7 @@ return [
     'distinct'             => 'ಈ ಕ್ಷೇತ್ರದಲ್ಲಿ ಹೊಂದಿದೆ ಒಂದು ನಕಲು ಮೌಲ್ಯ.',
     'email'                => 'ಈ must be a valid email address.',
     'ends_with'            => 'ಈ must end with one of the following: :values.',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'ಆಯ್ಕೆ value is invalid.',
     'file'                 => 'ವಿಷಯ ಇರಬೇಕು ಫೈಲ್.',
     'filled'               => 'ಈ ಕ್ಷೇತ್ರದಲ್ಲಿ ಹೊಂದಿರಬೇಕು ಒಂದು ಮೌಲ್ಯ.',
@@ -79,6 +80,7 @@ return [
         'numeric' => 'The value must be less than or equal :value.',
         'string'  => 'The string must be less than or equal :value characters.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'The content must not have more than :max items.',
         'file'    => 'The file size must not be greater than :max kilobytes.',

@@ -44,6 +44,7 @@ return [
     'distinct'             => 'Ово поље има понављајућу вредност.',
     'email'                => 'То мора бити валидна адреса е-поште.',
     'ends_with'            => 'Требало би да се заврши са једним од следећих: :values.',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'Изабрана вредност је неприхватљива.',
     'file'                 => 'Садржај мора бити датотека.',
     'filled'               => 'Ово поље би требало да направи разлику.',
@@ -79,6 +80,7 @@ return [
         'numeric' => 'The value must be less than or equal :value.',
         'string'  => 'The string must be less than or equal :value characters.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'The content must not have more than :max items.',
         'file'    => 'The file size must not be greater than :max kilobytes.',

@@ -45,6 +45,7 @@ return [
     'distinct'             => 'Trường :attribute có giá trị trùng lặp.',
     'email'                => 'Trường :attribute phải là một địa chỉ email hợp lệ.',
     'ends_with'            => 'Trường :attribute phải kết thúc bằng một trong những giá trị sau: :values',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'Giá trị đã chọn trong trường :attribute không hợp lệ.',
     'file'                 => 'Trường :attribute phải là một tệp tin.',
     'filled'               => 'Trường :attribute không được bỏ trống.',
@@ -80,6 +81,7 @@ return [
         'numeric' => 'Giá trị trường :attribute phải nhỏ hơn hoặc bằng :value.',
         'string'  => 'Độ dài trường :attribute phải nhỏ hơn hoặc bằng :value kí tự.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Trường :attribute không được lớn hơn :max phần tử.',
         'file'    => 'Dung lượng tập tin trong trường :attribute không được lớn hơn :max kB.',

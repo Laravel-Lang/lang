@@ -45,6 +45,7 @@ return [
     'distinct'             => ':attributeの値が重複しています。',
     'email'                => ':attributeは、有効なメールアドレス形式で指定してください。',
     'ends_with'            => ':attributeは、次のうちのいずれかで終わらなければなりません。: :values',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => '選択された:attributeは、有効ではありません。',
     'file'                 => ':attributeはファイルでなければいけません。',
     'filled'               => ':attributeは必須です。',
@@ -80,6 +81,7 @@ return [
         'numeric' => ':attributeは、:value以下でなければなりません。',
         'string'  => ':attributeは、:value文字以下でなければなりません。',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ':attributeの項目は、:max個以下にしてください。',
         'file'    => ':attributeには、:max KB以下のファイルを指定してください。',

@@ -44,6 +44,7 @@ return [
     'distinct'             => 'Trường này có giá trị trùng lặp.',
     'email'                => 'Trường này phải là một địa chỉ email hợp lệ.',
     'ends_with'            => 'Trường này phải kết thúc bằng một trong những giá trị sau: :values',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'Giá trị đã chọn trong trường này không hợp lệ.',
     'file'                 => 'Trường này phải là một tệp tin.',
     'filled'               => 'Trường này không được bỏ trống.',
@@ -79,6 +80,7 @@ return [
         'numeric' => 'Giá trị trường này phải nhỏ hơn hoặc bằng :value.',
         'string'  => 'Độ dài trường này phải nhỏ hơn hoặc bằng :value kí tự.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Trường này không được lớn hơn :max phần tử.',
         'file'    => 'Dung lượng tập tin trong trường này không được lớn hơn :max kB.',

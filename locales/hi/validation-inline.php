@@ -44,6 +44,7 @@ return [
     'distinct'             => 'इस फ़ील्ड में डुप्लिकेट मान है । ',
     'email'                => 'यह एक मान्य ईमेल पता होना चाहिए । ',
     'ends_with'            => 'यह निम्नलिखित में से एक के साथ समाप्त होना चाहिए: :values । ',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'चयनित मान अमान्य है । ',
     'file'                 => 'सामग्री एक फ़ाइल होनी चाहिए । ',
     'filled'               => 'इस फ़ील्ड का मान होना चाहिए । ',
@@ -79,6 +80,7 @@ return [
         'numeric' => 'The value must be less than or equal :value.',
         'string'  => 'The string must be less than or equal :value characters.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'The content must not have more than :max items.',
         'file'    => 'The file size must not be greater than :max kilobytes.',

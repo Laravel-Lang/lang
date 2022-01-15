@@ -45,6 +45,7 @@ return [
     'distinct'             => ':attribute maydoni takrorlanuvchi qiymatlardan iborat.',
     'email'                => ':attribute haqiqiy elektron pochta manzili bo‘lishi kerak.',
     'ends_with'            => ':attribute quyidagi qiymatlarning biri bilan tugashi kerak: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => ':attribute uchun tanlangan qiymat noto‘g‘ri.',
     'file'                 => ':attribute fayl bo‘lishi kerak.',
     'filled'               => ':attribute maydoni to‘ldirilishi shart.',
@@ -80,6 +81,7 @@ return [
         'numeric' => ':attribute maydoni :value dan kichik yoki teng bo‘lishi kerak.',
         'string'  => ':attribute dagi belgilar soni :value dan kichik yoki teng bo‘lishi kerak.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ':attribute ning elementlar soni :max tadan oshmasligi kerak.',
         'file'    => ':attribute dagi faylning hajmi :max kilobaytdan oshmasligi kerak.',

@@ -45,6 +45,7 @@ return [
     'distinct'             => 'Поле :attribute мае паўтаральнае значэнне.',
     'email'                => 'Поле :attribute павінна быць сапраўдным электронным адрасам.',
     'ends_with'            => ':attribute павінен заканчвацца адным з наступных: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'Выбранае значэнне для :attribute некарэктна.',
     'file'                 => ':attribute павінен быць файлам.',
     'filled'               => 'Поле :attribute абавязкова для запаўнення.',
@@ -80,6 +81,7 @@ return [
         'numeric' => 'The :attribute must be less than or equal :value.',
         'string'  => 'The :attribute must be less than or equal :value characters.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Колькасць элементаў у поле :attribute не можа перавышаць :max.',
         'file'    => 'Памер файла ў поле :attribute не можа быць больш :max кілабайт).',

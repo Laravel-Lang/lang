@@ -44,6 +44,7 @@ return [
     'distinct'             => 'Bu alanın yinelenen bir değeri vardır.',
     'email'                => 'E-posta adresi geçerli değil.',
     'ends_with'            => 'Bu şunlardan biriyle bitmelidir: :values.',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'Seçili değer geçersiz.',
     'file'                 => 'İçerik bir dosya olmalı.',
     'filled'               => 'Bu alanın bir değeri olmalıdır.',
@@ -79,6 +80,7 @@ return [
         'numeric' => 'Bu sayı :value sayısına eşit veya daha küçük olmalıdır.',
         'string'  => 'Bu metin :value veya daha kısa karaktere olmalıdır.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Bu içerik en fazla :max öge içerebilir.',
         'file'    => 'Dosya boyutu :max kilobayt\'tan büyük olamaz.',

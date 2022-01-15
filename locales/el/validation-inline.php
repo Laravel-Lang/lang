@@ -44,6 +44,7 @@ return [
     'distinct'             => 'Αυτό το πεδίο έχει διπλή τιμή.',
     'email'                => 'Αυτή πρέπει να είναι μια έγκυρη διεύθυνση ηλεκτρονικού ταχυδρομείου.',
     'ends_with'            => 'Αυτό πρέπει να τελειώσει με ένα από τα ακόλουθα: :values.',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'Η επιλεγμένη τιμή δεν είναι έγκυρη.',
     'file'                 => 'Το περιεχόμενο πρέπει να είναι ένα αρχείο.',
     'filled'               => 'Αυτό το πεδίο πρέπει να έχει μια τιμή.',
@@ -79,6 +80,7 @@ return [
         'numeric' => 'The value must be less than or equal :value.',
         'string'  => 'The string must be less than or equal :value characters.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'The content must not have more than :max items.',
         'file'    => 'The file size must not be greater than :max kilobytes.',

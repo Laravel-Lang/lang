@@ -44,6 +44,7 @@ return [
     'distinct'             => 'Гэта поле мае паўтаральнае значэнне.',
     'email'                => 'Гэта павінен быць сапраўдны адрас электроннай пошты.',
     'ends_with'            => 'Гэта павінна заканчвацца адным з наступных пунктаў: :values.',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'Наадварот значэнне з\'яўляецца недапушчальным.',
     'file'                 => 'Змесціва павінна быць файлам.',
     'filled'               => 'Гэта поле павінна мець значэнне.',
@@ -79,6 +80,7 @@ return [
         'numeric' => 'The value must be less than or equal :value.',
         'string'  => 'The string must be less than or equal :value characters.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'The content must not have more than :max items.',
         'file'    => 'The file size must not be greater than :max kilobytes.',

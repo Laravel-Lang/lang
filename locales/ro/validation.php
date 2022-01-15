@@ -45,6 +45,7 @@ return [
     'distinct'             => 'Câmpul :attribute are o valoare duplicat.',
     'email'                => 'Câmpul :attribute trebuie să fie o adresă de e-mail validă.',
     'ends_with'            => 'Câmpul :attribute trebuie să se încheie cu una din următoarele valori: :values',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'Câmpul :attribute selectat nu este valid.',
     'file'                 => 'Câmpul :attribute trebuie să fie un fișier.',
     'filled'               => 'Câmpul :attribute trebuie completat.',
@@ -80,6 +81,7 @@ return [
         'numeric' => 'Câmpul :attribute trebuie să fie mai mic sau egal cu :value.',
         'string'  => 'Câmpul :attribute trebuie să fie mai mic sau egal cu :value caractere.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Câmpul :attribute nu poate avea mai mult de :max elemente.',
         'file'    => 'Câmpul :attribute nu poate avea mai mult de :max kiloocteți.',

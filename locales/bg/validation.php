@@ -45,6 +45,7 @@ return [
     'distinct'             => 'Данните в полето :attribute се дублират.',
     'email'                => 'Полето :attribute е в невалиден формат.',
     'ends_with'            => ':attribute трябва да завършва с една от следните стойности: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'Избранато поле :attribute вече съществува.',
     'file'                 => 'Полето :attribute трябва да бъде файл.',
     'filled'               => 'Полето :attribute е задължително.',
@@ -80,6 +81,7 @@ return [
         'numeric' => ':attribute трябва да бъде по-малка от или равна на :value.',
         'string'  => ':attribute трябва да бъде по-малка от или равна на :value знака.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Полето :attribute трябва да има по-малко от :max елемента.',
         'file'    => 'Полето :attribute трябва да бъде по-малко от :max килобайта.',

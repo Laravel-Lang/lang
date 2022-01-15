@@ -44,6 +44,7 @@ return [
     'distinct'             => 'Kjo ka një vlerë të përsëritur.',
     'email'                => 'Kjo duhet të jetë email adresë e saktë.',
     'ends_with'            => 'Kjo duhet të përfundojë me një nga vlerat: :values.',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'Vlera e përzgjedhur është e pasaktë.',
     'file'                 => 'Kjo duhet të jetë një fajll.',
     'filled'               => 'Kjo fushë është e kërkuar.',
@@ -79,6 +80,7 @@ return [
         'numeric' => 'Kjo duhet të jetë më e vogël ose e barabartë me :value.',
         'string'  => 'Kjo duhet të ketë :value ose më pak karaktere.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Kjo nuk mund të ketë më tepër se :max elemente.',
         'file'    => 'Kjo nuk mund të jetë më tepër se :max kilobajtë.',

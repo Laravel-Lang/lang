@@ -44,6 +44,7 @@ return [
     'distinct'             => 'Acest câmp are o valoare duplicată.',
     'email'                => 'Aceasta trebuie să fie o adresă de e-mail validă.',
     'ends_with'            => 'Aceasta trebuie să se încheie cu una dintre următoarele: :values.',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'Valoarea selectată este nevalidă.',
     'file'                 => 'Conținutul trebuie să fie un fișier.',
     'filled'               => 'Acest câmp trebuie să aibă o valoare.',
@@ -79,6 +80,7 @@ return [
         'numeric' => 'The value must be less than or equal :value.',
         'string'  => 'The string must be less than or equal :value characters.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'The content must not have more than :max items.',
         'file'    => 'The file size must not be greater than :max kilobytes.',

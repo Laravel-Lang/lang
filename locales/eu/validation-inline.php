@@ -44,6 +44,7 @@ return [
     'distinct'             => 'Eremu hau bat du bikoiztu balio.',
     'email'                => 'Hau izan behar da baliozko helbide elektroniko bat.',
     'ends_with'            => 'Hau behar amaiera hauetako bat: :values.',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'Hautatutako balio baliogabea da.',
     'file'                 => 'Eduki bat izan behar du fitxategia.',
     'filled'               => 'Eremu hau bat izan behar du balio.',
@@ -79,6 +80,7 @@ return [
         'numeric' => 'The value must be less than or equal :value.',
         'string'  => 'The string must be less than or equal :value characters.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'The content must not have more than :max items.',
         'file'    => 'The file size must not be greater than :max kilobytes.',

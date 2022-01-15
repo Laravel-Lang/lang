@@ -45,6 +45,7 @@ return [
     'distinct'             => ':attribute väljal on topeltväärtus.',
     'email'                => ':attribute peab olema kehtiv e-posti aadress.',
     'ends_with'            => ':attribute peab lõppema ühega järgmistest: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'Valitud :attribute on vigane.',
     'file'                 => ':attribute peab olema fail.',
     'filled'               => ':attribute väli on nõutav.',
@@ -80,6 +81,7 @@ return [
         'numeric' => ':attribute peab olema väiksem kui :value või samasugune',
         'string'  => ':attribute peab sisaldama vähem või sama palju :value tähemärke',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ':attribute ei tohi sisaldada rohkem kui :max kirjet.',
         'file'    => ':attribute ei tohi olla suurem kui :max kilobaiti.',

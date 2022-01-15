@@ -45,6 +45,7 @@ return [
     'distinct'             => ':attribute дорои қиммати такроршаванда мебошад.',
     'email'                => 'Қиммати :attribute бояд суроғаи электронии дуруст бошад.',
     'ends_with'            => 'Рақами :attribute бояд заканчиваться яке аз зерин: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'Қиммати интихобкардаи :attribute нодуруст мебошад.',
     'file'                 => 'Қиммати :attribute бояд файл бошад.',
     'filled'               => ':attribute бояд дорои қиммат бошад.',
@@ -80,6 +81,7 @@ return [
         'numeric' => 'The :attribute must be less than or equal :value.',
         'string'  => 'The :attribute must be less than or equal :value characters.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Миқдори элементҳо дар :attribute бояд на зиёда аз :max бошад.',
         'file'    => 'Ҳаҷми файл дар :attribute набояд аз :max Килобайт зиёд бошад.',

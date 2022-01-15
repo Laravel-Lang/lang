@@ -44,6 +44,7 @@ return [
     'distinct'             => 'לשדה הזה יש ערך כפול.',
     'email'                => 'זו חייבת להיות כתובת דוא \" ל תקפה.',
     'ends_with'            => 'זה חייב להסתיים עם אחד הדברים הבאים: :values.',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'הערך הנבחר אינו תקף.',
     'file'                 => 'התוכן חייב להיות קובץ.',
     'filled'               => 'לשדה הזה חייב להיות ערך.',
@@ -79,6 +80,7 @@ return [
         'numeric' => 'The value must be less than or equal :value.',
         'string'  => 'The string must be less than or equal :value characters.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'The content must not have more than :max items.',
         'file'    => 'The file size must not be greater than :max kilobytes.',

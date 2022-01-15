@@ -45,6 +45,7 @@ return [
     'distinct'             => ' :attribute жолында қосарланған мән бар.',
     'email'                => ' :attribute жарамды электрондық пошта мекенжайы болуы керек.',
     'ends_with'            => ' :attribute келесі мәндердің біреуінен аяқталуы керек: :values',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => ' таңдалған :attribute жарамсыз.',
     'file'                 => ' :attribute файл болуы тиіс.',
     'filled'               => ' :attribute жолы толтырылуы керек.',
@@ -80,6 +81,7 @@ return [
         'numeric' => ' :attribute мәні :value кіші немесе тең болуы керек.',
         'string'  => ' :attribute мәні :value таңбалардан кіші немесе тең болуы керек.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ' :attribute жиымының құрамы :max элементтен аспауы керек.',
         'file'    => ' :attribute мәні :max килобайттан көп болмауы керек.',

@@ -45,6 +45,7 @@ return [
     'distinct'             => ':attribute майдони такрорланувчи қийматлардан иборат.',
     'email'                => ':attribute ҳақиқий электрон почта манзили бўлиши керак.',
     'ends_with'            => ':attribute қуйидаги қийматларнинг бири билан тугаши керак: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => ':attribute учун танланган қиймат нотўғри.',
     'file'                 => ':attribute файл бўлиши керак.',
     'filled'               => ':attribute майдони тўлдирилиши шарт.',
@@ -80,6 +81,7 @@ return [
         'numeric' => ':attribute майдони :value дан кичик ёки тенг бўлиши керак.',
         'string'  => ':attribute даги белгилар сони :value дан кичик ёки тенг бўлиши керак.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ':attribute нинг элементлар сони :max тадан ошмаслиги керак.',
         'file'    => ':attribute даги файлнинг ҳажми :max килобайтдан ошмаслиги керак.',

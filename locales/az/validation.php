@@ -45,6 +45,7 @@ return [
     'distinct'             => ' :attribute dublikat qiymətlidir',
     'email'                => ' :attribute doğru email formatında deyil',
     'ends_with'            => ':attribute nömrəsi aşağıdakılardan biri ilə bitməlidir: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => ' seçilmiş :attribute yanlışdır',
     'file'                 => ' :attribute fayl formatında olmalıdır',
     'filled'               => ' :attribute qiyməti olmalıdır',
@@ -80,6 +81,7 @@ return [
         'numeric' => 'The :attribute must be less than or equal :value.',
         'string'  => 'The :attribute must be less than or equal :value characters.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ' :attribute maksimum :max hədd\'dən ibarət ola bilər',
         'file'    => ' :attribute maksimum :max KB ölçüsündə ola bilər',

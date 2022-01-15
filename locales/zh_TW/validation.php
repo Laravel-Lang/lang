@@ -45,6 +45,7 @@ return [
     'distinct'             => ':attribute 已經存在。',
     'email'                => ':attribute 必須是有效的 E-mail。',
     'ends_with'            => ':attribute 結尾必須包含下列之一：:values。',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => ':attribute 不存在。',
     'file'                 => ':attribute 必須是有效的檔案。',
     'filled'               => ':attribute 不能留空。',
@@ -80,6 +81,7 @@ return [
         'numeric' => ':attribute 必須小於或等於 :value。',
         'string'  => ':attribute 必須少於或等於 :value 個字元。',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ':attribute 最多有 :max 個元素。',
         'file'    => ':attribute 不能大於 :max KB。',

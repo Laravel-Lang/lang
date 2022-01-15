@@ -44,6 +44,7 @@ return [
     'distinct'             => '已经存在。',
     'email'                => '不是一个合法的邮箱。',
     'ends_with'            => '必须以 :values 为结尾。',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => '不存在。',
     'file'                 => '必须是文件。',
     'filled'               => '不能为空。',
@@ -79,6 +80,7 @@ return [
         'numeric' => '必须小于或等于 :value。',
         'string'  => '必须少于或等于 :value 个字符。',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => '最多只有 :max 个单元。',
         'file'    => '不能大于 :max KB。',

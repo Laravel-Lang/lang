@@ -17,6 +17,8 @@ class Nova extends BasePlugin
     {
         return [
             'packages/nova.json' => 'vendor/nova/{locale}.json',
+
+            'validation.php' => '{locale}/validation-nova.php',
         ];
     }
 }

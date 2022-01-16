@@ -12,6 +12,6 @@
 */
 
 return [
-    'attached'  => 'This field is already attached.',
+    'attached'  => 'این فیلد قبلاً پیوست شده است.',
     'relatable' => 'This field may not be associated with this resource.',
 ];

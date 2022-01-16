@@ -32,19 +32,19 @@ jobs:
                     composer global require ergebnis/composer-normalize
 
             -   name: Normalize composer.json
-                id: commit_normalize
+                id: normalize
                 if: success()
                 run: |
                     IS_DIRTY=1
 
                     composer normalize
 
-                    { git add . && git commit -a -m "Normalize `composer.json`"; } || IS_DIRTY=0
+                    { git add . && git commit -a -m "Normalize composer.json"; } || IS_DIRTY=0
 
                     echo ::set-output name=is_dirty::${IS_DIRTY}
 
             -   name: Scanning packages
-                id: commit_packages
+                id: packages
                 if: success()
                 run: |
                     IS_DIRTY=1
@@ -56,7 +56,7 @@ jobs:
                     echo ::set-output name=is_dirty::${IS_DIRTY}
 
             -   name: Keys actualization
-                id: commit_keys
+                id: keys
                 if: success()
                 run: |
                     IS_DIRTY=1
@@ -92,7 +92,7 @@ jobs:
                     echo ::set-output name=is_dirty::${IS_DIRTY}
 
             -   name: Status update
-                id: commit_status
+                id: status
                 if: success()
                 run: |
                     IS_DIRTY=1
@@ -107,12 +107,12 @@ jobs:
                 uses: ad-m/github-push-action@master
                 if: |
                     success() && (
-                    steps.commit_packages.outputs.is_dirty == 1 ||
-                    steps.commit_keys.outputs.is_dirty == 1 ||
-                    steps.referents.outputs.is_dirty == 1 ||
                     steps.excludes.outputs.is_dirty == 1 ||
-                    steps.commit_status.outputs.is_dirty == 1 ||
-                    steps.commit_normalize.outputs.is_dirty == 1
+                    steps.keys.outputs.is_dirty == 1 ||
+                    steps.normalize.outputs.is_dirty == 1 ||
+                    steps.packages.outputs.is_dirty == 1 ||
+                    steps.referents.outputs.is_dirty == 1 ||
+                    steps.status.outputs.is_dirty == 1
                     )
                 with:
                     github_token: ${{ secrets.GITHUB_TOKEN }}

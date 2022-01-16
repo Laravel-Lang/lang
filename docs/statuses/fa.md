@@ -2,7 +2,7 @@
 
 # fa
 
-##### All missed: 133
+##### All missed: 132
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/fa/validation-inline.php)
@@ -74,16 +74,9 @@ This field prohibits :other from being present.
 
 ### [validation-nova-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/fa/validation-nova-inline.php)
 
-##### Missing: 2
+##### Missing: 1
 
 <table >
-<tr><td align="left" >
-attached
-</td>
-<td align="left" >
-This field is already attached.
-</td>
-</tr>
 <tr><td align="left" >
 relatable
 </td>

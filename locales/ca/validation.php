@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ':attribute només pot contenir lletres, números i guions.',
     'alpha_num'            => ':attribute només pot contenir lletres i números.',
     'array'                => ':attribute ha de ser una matriu.',
-    'attached'             => 'Aquest :attribute ja té.',
     'before'               => ':attribute ha de ser una data anterior a :date.',
     'before_or_equal'      => ':attribute ha de ser una data anterior o igual a :date.',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => 'La :attribute camp és prohibida, tret que :other és en :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'El format de :attribute és invàlid.',
-    'relatable'            => 'Aquesta :attribute no pot ser associada a aquest recurs.',
     'required'             => 'El camp :attribute és obligatori.',
     'required_if'          => 'El camp :attribute és obligatori quan :other és :value.',
     'required_unless'      => 'El camp :attribute és obligatori a no ser que :other sigui a :values.',

@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ':attributeには、英数字(\'A-Z\',\'a-z\',\'0-9\')とハイフンと下線(\'-\',\'_\')が使用できます。',
     'alpha_num'            => ':attributeには、英数字(\'A-Z\',\'a-z\',\'0-9\')が使用できます。',
     'array'                => ':attributeには、配列を指定してください。',
-    'attached'             => 'この:attributeはすでに添付されています。',
     'before'               => ':attributeには、:dateより前の日付を指定してください。',
     'before_or_equal'      => ':attributeには、:date以前の日付を指定してください。',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => ':attributeフィールドは、:otherが:valuesでない限り禁止されています。',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attributeには、有効な正規表現を指定してください。',
-    'relatable'            => 'この:attributeきない場合に伴い資源です。',
     'required'             => ':attributeは、必ず指定してください。',
     'required_if'          => ':otherが:valueの場合、:attributeを指定してください。',
     'required_unless'      => ':otherが:values以外の場合、:attributeを指定してください。',

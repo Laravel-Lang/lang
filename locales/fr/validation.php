@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Le champ :attribute doit contenir uniquement des lettres, des chiffres et des tirets.',
     'alpha_num'            => 'Le champ :attribute doit contenir uniquement des chiffres et des lettres.',
     'array'                => 'Le champ :attribute doit être un tableau.',
-    'attached'             => ':attribute est déjà attaché(e).',
     'before'               => 'Le champ :attribute doit être une date antérieure au :date.',
     'before_or_equal'      => 'Le champ :attribute doit être une date antérieure ou égale au :date.',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => 'Le champ :attribute est interdit à moins que :other est l\'une des valeurs :values.',
     'prohibits'            => 'Le champ :attribute interdit :other d\'être présent.',
     'regex'                => 'Le format du champ :attribute est invalide.',
-    'relatable'            => ':attribute n\'est sans doute pas associé(e) avec cette donnée.',
     'required'             => 'Le champ :attribute est obligatoire.',
     'required_if'          => 'Le champ :attribute est obligatoire quand la valeur de :other est :value.',
     'required_unless'      => 'Le champ :attribute est obligatoire sauf si :other est :values.',

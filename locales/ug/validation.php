@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ':attribute پەقەت ھەرىپ، سان-سىفىر ۋە يانتۇ سىزىقتىن تۈزەلگەن بۇلىشى كېرەك.',
     'alpha_num'            => ':attribute پەقەت ھەرىپ ۋە سان-سىفىرلاردىن تۈزىلىشى كېرەك.',
     'array'                => ':attribute چوقۇم بۇرۇن بۇلىشى كېرەك.',
-    'attached'             => 'This :attribute is already attached.',
     'before'               => ':attribute چوقۇم :date دىن بۇرۇن بۇلىشى كېرەك.',
     'before_or_equal'      => ':attribute چوقۇم :date غا تەڭ ياكى بۇرۇن بۇلىشى كېرەك.',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => 'The :attribute field is prohibited unless :other is in :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute ھۆججەت تىپى ئىناۋەتسىز.',
-    'relatable'            => 'This :attribute may not be associated with this resource.',
     'required'             => ':attribute قۇرۇق بولسا بولمايدۇ.',
     'required_if'          => ':other :value بولغاندا :attribute قۇرۇق بولسا بولمايدۇ.',
     'required_unless'      => ':other :values بولمىغاندا :attribute قۇرۇق بولسا بولمايدۇ.',

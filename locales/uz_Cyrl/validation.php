@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ':attribute фақат ҳарфлар, сонлар ва чизиқчаларни қабул қилиши мумкин.',
     'alpha_num'            => ':attribute фақат ҳарфлар ва сонларни қабул қилиши мумкин.',
     'array'                => ':attribute қатордан иборат бўлиши керак.',
-    'attached'             => 'Bu :attribute allaqachon biriktirilgan.',
     'before'               => ':attribute да сана :date гача бўлиши керак.',
     'before_or_equal'      => ':attribute да сана :date га тенг ёки ундан олдин бўлиши керак.',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => ':attribute da :other bo\'lmasa :values maydon taqiqlanadi.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute майдони хато форматда.',
-    'relatable'            => 'Ushbu :attribute ushbu resurs bilan bog\'liq bo\'lmasligi mumkin.',
     'required'             => ':attribute майдони тўлдирилиши шарт.',
     'required_if'          => ':other майдони :value га тенг бўлса, :attribute майдони тўлдирилиши шарт.',
     'required_unless'      => ':other майдони :values га тенг бўлмаса, :attribute майдони тўлдирилиши шарт.',

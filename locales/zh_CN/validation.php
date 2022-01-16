@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ':attribute 只能由字母、数字、短划线(-)和下划线(_)组成。',
     'alpha_num'            => ':attribute 只能由字母和数字组成。',
     'array'                => ':attribute 必须是一个数组。',
-    'attached'             => '这个 :attribute 已经连接。',
     'before'               => ':attribute 必须要早于 :date。',
     'before_or_equal'      => ':attribute 必须要等于 :date 或更早。',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => ':attribute 字段被禁止，除非 :other 位于 :values 中。',
     'prohibits'            => ':attribute 字段禁止出现 :other。',
     'regex'                => ':attribute 格式不正确。',
-    'relatable'            => '此 :attribute 可能与此资源不相关联。',
     'required'             => ':attribute 不能为空。',
     'required_if'          => '当 :other 为 :value 时 :attribute 不能为空。',
     'required_unless'      => '当 :other 不为 :values 时 :attribute 不能为空。',

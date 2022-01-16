@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Το πεδίο :attribute μπορεί να περιέχει μόνο γράμματα, αριθμούς, και παύλες.',
     'alpha_num'            => 'Το πεδίο :attribute μπορεί να περιέχει μόνο γράμματα και αριθμούς.',
     'array'                => 'Το πεδίο :attribute πρέπει να είναι ένας πίνακας.',
-    'attached'             => 'Αυτό το :attribute είναι ήδη συνδεδεμένο.',
     'before'               => 'Το πεδίο :attribute πρέπει να είναι μία ημερομηνία πριν από :date.',
     'before_or_equal'      => 'Το πεδίο :attribute πρέπει να είναι μία ημερομηνία ίδια ή πριν από :date.',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => 'Το πεδίο :attribute απαγορεύεται εκτός αν το :other βρίσκεται στο :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Η μορφή του πεδίου :attribute δεν είναι αποδεκτή.',
-    'relatable'            => 'Αυτό το :attribute ενδέχεται να μην σχετίζεται με αυτόν τον πόρο.',
     'required'             => 'Το πεδίο :attribute είναι απαραίτητο.',
     'required_if'          => 'Το πεδίο :attribute είναι απαραίτητο όταν το πεδίο :other είναι :value.',
     'required_unless'      => 'Το πεδίο :attribute είναι απαραίτητο εκτός αν το πεδίο :other εμπεριέχει :values.',

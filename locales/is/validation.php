@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Reiturinn :attribute má aðeins innihalda bókstafi, tölur og undirstikanir.',
     'alpha_num'            => 'Reiturinn :attribute má aðeins innihalda bókstafi og tölur.',
     'array'                => 'Reiturinn :attribute verður að vera fylki.',
-    'attached'             => 'Þetta :attribute er nú þegar fylgir.',
     'before'               => 'Reiturinn :attribute verður að vera dagsetning eftir :date.',
     'before_or_equal'      => ':attribute verður að vera dagsetning fyrir eða sú samaog :date.',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => 'Við :attribute sviði er bönnuð nema :other er í :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Reiturinn :attribute er ekki á réttu formi.',
-    'relatable'            => 'Þetta :attribute getur ekki tengst þessu úrræði.',
     'required'             => 'Reiturinn :attribute er nauðsynlegur.',
     'required_if'          => 'Reiturinn :attribute er nauðsynlegur þegar :other er :value.',
     'required_unless'      => ':attribute er áskilinn nema :other sé í :values.',

@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Polje :attribute može sadržati samo slova, brojeve i povlake.',
     'alpha_num'            => 'Polje :attribute može sadržati samo slova i brojeve.',
     'array'                => 'Polje :attribute mora sadržati nekih niz stavki.',
-    'attached'             => 'Овај број :attribute је већ приложен.',
     'before'               => 'Polje :attribute mora biti datum pre :date.',
     'before_or_equal'      => ':attribute mora da bude :date ili raniji datum.',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => 'Поље :attribute је забрањено, осим ако :other није у :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Format polja :attribute nije validan.',
-    'relatable'            => 'Овај :attribute можда није повезан са овим ресурсом.',
     'required'             => 'Polje :attribute je obavezno.',
     'required_if'          => 'Polje :attribute je potrebno kada polje :other sadrži :value.',
     'required_unless'      => 'Polje :attribute je obavezno, osim ako je :other u :values.',

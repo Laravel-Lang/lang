@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'ಈ  :attribute ಅಕ್ಷರಗಳು, ಸಂಖ್ಯೆಗಳು, ಡ್ಯಾಶ್ಗಳು ಮತ್ತು ಅಂಡರ್ಸ್ಕೋರ್ಗಳನ್ನು ಮಾತ್ರ ಹೊಂದಿರಬಹುದು.',
     'alpha_num'            => 'ಈ  :attribute ಅಕ್ಷರಗಳು ಮತ್ತು ಸಂಖ್ಯೆಗಳನ್ನು ಮಾತ್ರ ಹೊಂದಿರಬಹುದು.',
     'array'                => 'ಈ  :attribute ಒಂದು ಶ್ರೇಣಿಯಾಗಿರಬೇಕು .',
-    'attached'             => 'ಈ :attribute ಈಗಾಗಲೇ ಲಗತ್ತಿಸಲಾಗಿದೆ.',
     'before'               => 'ಈ  :attribute ದಿನಾಂಕವು  :date ಮುಂಚಿನ  ದಿನಾಂಕವಾಗಿರಬೇಕು.',
     'before_or_equal'      => 'ಈ  :attribute ದಿನಾಂಕವು  :date ಮುಂಚಿನ  ಅಥವಾ ಸಮನಾದ ದಿನಾಂಕವಾಗಿರಬೇಕು.',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => 'The :attribute ಕ್ಷೇತ್ರದಲ್ಲಿ ನಿಷೇಧಿಸಲಾಗಿದೆ ಹೊರತು :other ಆಗಿದೆ :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'ಈ  :attribute ಸ್ವರೂಪ ಅಮಾನ್ಯವಾಗಿದೆ.',
-    'relatable'            => 'ಈ :attribute ಸಂಬಂಧಿಸಿದ ಇರಬಹುದು ಈ ಸಂಪನ್ಮೂಲ.',
     'required'             => 'ಈ  :attribute ಕ್ಷೇತ್ರ ಅಗತ್ಯವಿದೆ.',
     'required_if'          => 'ಈ  :attribute ಕ್ಷೇತ್ರ ಅಗತ್ಯವಿದೆ ಯಾವಾಗ :other ನಲ್ಲಿ :value.',
     'required_unless'      => 'ಈ  :attribute ಕ್ಷೇತ್ರ ಅಗತ್ಯವಿದೆ  unless :other ನಲ್ಲಿ  :values ಹೊರತುಪಡಿಸಿ .',

@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ':attribute អាចមានតែអក្សរ លេខ និងសហសញ្ញា(-)។',
     'alpha_num'            => ':attribute អាចមានតែអក្សរ និងលេខ។',
     'array'                => ':attribute ត្រូវតែជា សំណុំ។',
-    'attached'             => ':attribute ត្រូវបានភ្ជាប់រួចទៅហើយ។',
     'before'               => ':attribute ត្រូវតែមានកាលបរិច្ឆេទមុន :date។',
     'before_or_equal'      => ':attribute ត្រូវតែជាកាលបរិច្ឆេទ មុនឬស្មើ :date។',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => ':attribute នេះត្រូវហាមឃាត់លុះត្រា :other គឺនៅក្នុង :values។',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute ទម្រង់មិនត្រឹមត្រូវ។',
-    'relatable'            => ':attribute មិនអាចត្រូវបានភ្ជាប់ជាមួយនឹងធនធាននេះ។',
     'required'             => ':attribute នេះគឺទាមទារឲ្យមាន។',
     'required_if'          => ':attribute នេះគឺទាមទារនៅពេល :other គឺ :value។',
     'required_unless'      => ':attribute នេះគឺទាមទារនៅពេល :other មិនមែន :values។',

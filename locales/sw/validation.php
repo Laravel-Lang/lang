@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Kipengele huenda kikawa tu chenye herufi, na vistari.',
     'alpha_num'            => 'Kipengele huenda kikawa tu chenye herufi na nambari.',
     'array'                => 'Kipengele lazima kiwe safu.',
-    'attached'             => 'Hii :attribute ni tayari masharti.',
     'before'               => 'Kipengele lazima kiwe tarehe kabla ya :date.',
     'before_or_equal'      => ':attribute inapaswa kuwa tarehe kabla au sawa na :date.',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => 'Ya :attribute uwanja ni marufuku isipokuwa :other ni katika :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Muundo wa kipengele si halali.',
-    'relatable'            => 'Hii :attribute inaweza kuwa kuhusishwa na rasilimali hii.',
     'required'             => 'Sehemu ya kipengele inahitajika.',
     'required_if'          => 'Sehemu ya kipengele inahitajika wakati :other ni :value.',
     'required_unless'      => 'Sehemu ya kipengele inahitajika isipokuwa :other ni katika :values.',

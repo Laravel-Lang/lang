@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Mag titik, numero, gitlling at underscore lang dapat ang nilalaman ng :attribute.',
     'alpha_num'            => 'Mag titik, numero, gitlling at underscore lang dapat ang nilalaman ng :attribute.',
     'array'                => 'Dapat na isang array ang :attribute.',
-    'attached'             => 'This :attribute is already attached.',
     'before'               => 'Ang :attribute ay dapat na isang petsa bago ang :date.',
     'before_or_equal'      => 'Ang :attribute ay dapat na isang petsa bago ang o katumbas ng :date.',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => 'The :attribute field is prohibited unless :other is in :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Hindi valid ang format na :attribute.',
-    'relatable'            => 'This :attribute may not be associated with this resource.',
     'required'             => 'Kinakailangan ang field na :attribute.',
     'required_if'          => 'Kinakailangan ang field na :attribute kapag ang :other ay :value.',
     'required_unless'      => 'Kinakailangan ang field na :attribute maliban kung ang :other ay nasa :values.',

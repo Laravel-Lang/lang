@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ':attribute må kun bestå af bogstaver, tal og bindestreger.',
     'alpha_num'            => ':attribute må kun bestå af bogstaver og tal.',
     'array'                => ':attribute skal være et array.',
-    'attached'             => 'Denne :attribute er allerede vedhæftet.',
     'before'               => ':attribute skal være en dato før :date.',
     'before_or_equal'      => ':attribute skal være en dato før eller lig med :date.',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => ':attribute-feltet er forbudt, medmindre :other er i :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute formatet er ugyldigt.',
-    'relatable'            => 'Denne :attribute er muligvis ikke knyttet til denne ressource.',
     'required'             => ':attribute skal udfyldes.',
     'required_if'          => ':attribute skal udfyldes når :other er :value.',
     'required_unless'      => ':attribute er påkrævet med mindre :other findes i :values.',

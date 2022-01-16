@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ':attribute faqat harflar, sonlar va chiziqchalarni qabul qilishi mumkin.',
     'alpha_num'            => ':attribute faqat harflar va sonlarni qabul qilishi mumkin.',
     'array'                => ':attribute qatordan iborat bo‘lishi kerak.',
-    'attached'             => 'Bu :attribute allaqachon biriktirilgan.',
     'before'               => ':attribute da sana :date gacha bo‘lishi kerak.',
     'before_or_equal'      => ':attribute da sana :date ga teng yoki undan oldin bo‘lishi kerak.',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => ':attribute sohasida ekan taqiqlanadi :other yilda :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute maydoni xato formatda.',
-    'relatable'            => 'Ushbu :attribute ushbu resurs bilan bog\'liq bo\'lmasligi mumkin.',
     'required'             => ':attribute maydoni to‘ldirilishi shart.',
     'required_if'          => ':other maydoni :value ga teng bo‘lsa, :attribute maydoni to‘ldirilishi shart.',
     'required_unless'      => ':other maydoni :values ga teng bo‘lmasa, :attribute maydoni to‘ldirilishi shart.',

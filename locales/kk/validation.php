@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ' :attribute тек әріптерден, сандардан және сызықшалардан тұруы керек.',
     'alpha_num'            => ' :attribute тек әріптерден және сандардан тұруы керек.',
     'array'                => ' :attribute жиым болуы керек.',
-    'attached'             => 'Бұл нөмір :attribute тіркелген.',
     'before'               => ' :attribute мәні :date күнінен дейінгі күн болуы керек.',
     'before_or_equal'      => ' :attribute мәні :date күнінен дейінгі күн немесе тең болуы керек.',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => ':attribute өрісіне тыйым салынады, егер тек :other :values-де болмаса.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ' :attribute пішімі жарамсыз.',
-    'relatable'            => 'Бұл :attribute осы ресурсқа байланысты болмауы мүмкін.',
     'required'             => ' :attribute жолы толтырылуы керек.',
     'required_if'          => ' :attribute жолы :other мәні :value болған кезде толтырылуы керек.',
     'required_unless'      => ' :attribute жолы :other мәні :values ішінде болмағанда толтырылуы керек.',

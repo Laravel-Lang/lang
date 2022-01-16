@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ':attribute صرف حروفِ تہجی، اعداد، ڈیشِز پر مشتمل ہو سکتا ہے۔',
     'alpha_num'            => ':attribute میں صرف حروفِ تہجی و اعداد شامل ہو سکتے ہیں۔',
     'array'                => ':attribute لازماً کسی رینج پر مشتمل ہو۔',
-    'attached'             => 'اس :attribute پہلے سے ہی ہے کے ساتھ منسلک.',
     'before'               => ':attribute لازماً :date سے پہلے کی کوئی تاریخ ہو۔',
     'before_or_equal'      => 'اس :attribute ہونا ضروری ہے ایک تاریخ سے پہلے یا اس کے برابر :date.',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => 'اس :attribute میدان ممنوع ہے جب تک کہ :other میں ہے :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute قابلِ قبول فارمیٹ میں نہیں ہے۔',
-    'relatable'            => 'اس :attribute منسلک نہیں کیا جا سکتا کے ساتھ اس کے وسائل.',
     'required'             => ':attribute فیلڈ درکار ہے۔',
     'required_if'          => ':attribute درکار ہے اگر :other کی ویلیو :value ہو۔',
     'required_unless'      => 'جب تک :other :values میں نہ ہو تو :attribute فیلڈ درکار ہے۔',

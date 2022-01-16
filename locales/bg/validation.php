@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Полето :attribute трябва да съдържа само букви, цифри, долна черта и тире.',
     'alpha_num'            => 'Полето :attribute трябва да съдържа само букви и цифри.',
     'array'                => 'Полето :attribute трябва да бъде масив.',
-    'attached'             => 'Този номер :attribute вече е прикачен.',
     'before'               => 'Полето :attribute трябва да бъде дата преди :date.',
     'before_or_equal'      => 'Полето :attribute трябва да бъде дата преди или равна на :date.',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => 'Полето :attribute е забранено, освен ако :other не е в :values.',
     'prohibits'            => 'Полето :attribute изключва наличието на :other.',
     'regex'                => 'Полето :attribute е в невалиден формат.',
-    'relatable'            => 'Този :attribute може да не е свързан с този ресурс.',
     'required'             => 'Полето :attribute е задължително.',
     'required_if'          => 'Полето :attribute се изисква, когато :other е :value.',
     'required_unless'      => 'Полето :attribute се изисква, освен ако :other не е в :values.',

@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ':Attribute талбарт латин үсэг, тоо болон зураас оруулах боломжтой.',
     'alpha_num'            => ':Attribute талбарт латин үсэг болон тоо оруулах боломжтой.',
     'array'                => ':Attribute талбар массив байх шаардлагатай.',
-    'attached'             => 'Энэ нь :attribute аль хэдийн хавсаргасан байна.',
     'before'               => ':Attribute талбарт :date-с өмнөх огноо оруулна уу.',
     'before_or_equal'      => ':attribute талбарт :date эсвэл түүнээс өмнөх огноо оруулна уу.',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => ':attribute салбарт бол хориглоно :other нь :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':Attribute талбарт оруулсан утга буруу байна.',
-    'relatable'            => 'Энэ нь :attribute энэ нөөц холбоотой байж болно.',
     'required'             => ':Attribute талбар шаардлагатай.',
     'required_if'          => 'Хэрэв :other :value бол :attribute табларт утга оруулах шаардлагатай.',
     'required_unless'      => ':other :values дотор байхгүй бол :attribute талбарт утга оруулах шаардлагатай.',

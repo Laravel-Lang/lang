@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Ang :attribute ay maaaring magtaglay ng mga letra, numero at gitling lang.',
     'alpha_num'            => 'Ang :attribute ay maaaring magtaglay ng mga letra at numero lang.',
     'array'                => 'Ang :attribute ay dapat magkakasunod.',
-    'attached'             => ':attribute na ito ay nakalakip.',
     'before'               => 'Ang :attribute ay dapat petsa bago ang :date.',
     'before_or_equal'      => 'Ang :attribute ay dapat na isang petsa bago o katumbas ng :date.',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => 'Ang :attribute patlang ay ipinagbabawal maliban kung :other ay nasa :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Ang :attribute ng attribute ay imbalido.',
-    'relatable'            => 'Ito :attribute ay maaaring hindi nauugnay sa mapagkukunan na ito.',
     'required'             => 'Ang :attribute ng attribute ay kailangan.',
     'required_if'          => 'Ang :attribute ng attribute ay kailangan kapag :other iba ay :value.',
     'required_unless'      => 'Ang :attribute ng attribute ay kailangan maliban kung :other iba ay nasa :values.',

@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Dim ond llythrennau, rhifau a dash yn unig gall :attribute gynnwys.',
     'alpha_num'            => 'Dim ond llythrennau a rhifau yn unig gall :attribute gynnwys.',
     'array'                => 'Rhaid i :attribute fod yn array.',
-    'attached'             => 'Mae hyn yn :attribute eisoes ynghlwm.',
     'before'               => 'Rhaid i :attribute fod yn ddyddiad sydd cyn :date.',
     'before_or_equal'      => 'Y :attribute rhaid iddo fod yn ddyddiad cyn neu yn hafal i :date.',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => 'Y :attribute maes yn cael ei wahardd oni bai :other yn :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Nid yw fformat :attribute yn ddilys.',
-    'relatable'            => 'Mae hyn yn :attribute efallai na fod yn gysylltiedig â\'r adnodd hwn.',
     'required'             => 'Rhaid cynnwys :attribute.',
     'required_if'          => 'Rhaid cynnwys :attribute pan mae :other yn :value.',
     'required_unless'      => 'Y :attribute maes yn ofynnol oni bai bod :other yn :values.',

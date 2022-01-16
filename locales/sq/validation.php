@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ':attribute mund të përmbajë vetëm shkronja, numra, dhe viza.',
     'alpha_num'            => ':attribute mund të përmbajë vetëm shkronja dhe numra.',
     'array'                => ':attribute duhet të jetë një bashkësi (array).',
-    'attached'             => 'Kjo :attribute është ngjitur tashmë.',
     'before'               => ':attribute duhet të jetë datë para :date.',
     'before_or_equal'      => ':attribute duhet të jetë datë e barabartë ose para :date.',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => 'Fusha :attribute është e ndaluar nëse :other është në :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Formati i :attribute është i pasaktë.',
-    'relatable'            => 'Ky :attribute mund të mos jetë i lidhur me këtë burim.',
     'required'             => 'Fusha :attribute është e kërkuar.',
     'required_if'          => 'Fusha :attribute është e kërkuar kur :other është :value.',
     'required_unless'      => 'Fusha :attribute është e kërkuar përveç kur :other është në :values.',

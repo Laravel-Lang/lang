@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ':attribute में केवल अक्षर, संख्या, और डैश हो सकते हैं।',
     'alpha_num'            => ':attribute में केवल अक्षर और संख्याएं हो सकती हैं।',
     'array'                => ':attribute एक सरणी होनी चाहिए।',
-    'attached'             => 'यह :attribute पहले से ही संलग्न है । ',
     'before'               => ':attribute, :date से पहले की एक तारीख होनी चाहिए।',
     'before_or_equal'      => ':attribute, :date इससे पहले या उसके बराबर की तारीख होनी चाहिए।',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => ':attribute क्षेत्र तब तक निषिद्ध है जब तक कि :other :values में न हो । ',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute फॉर्मेट अमान्य है।',
-    'relatable'            => 'यह :attribute इस संसाधन से संबद्ध नहीं हो सकता है । ',
     'required'             => ':attribute फील्ड आवश्यक होता है।',
     'required_if'          => ':attribute फ़ील्ड आवश्यक होता है जब :other :value होता है।',
     'required_unless'      => ':attribute फील्ड आवश्यक होता है जब :other, :values में नहीं होता है।',

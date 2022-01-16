@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ':attribute var saturēt tikai burtus, numurus un atstarpes.',
     'alpha_num'            => ':attribute var tikai saturēt burtus un numurus.',
     'array'                => ':attribute ir jābūt sakārtotam.',
-    'attached'             => 'Šis :attribute jau ir pievienots.',
     'before'               => ':attribute ir jābūt ar datumu pirms :date.',
     'before_or_equal'      => ':attribute ir jābūt ar datumu pirms vai vienādu ar :date.',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => ':attribute lauks ir aizliegts, ja vien :other nav :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute formāts ir nederīgs.',
-    'relatable'            => 'Šis :attribute var nebūt saistīts ar šo resursu.',
     'required'             => ':attribute lauks ir obligāts.',
     'required_if'          => ':attribute lauks ir obligāts, ja :other ir :values.',
     'required_unless'      => ':attribute lauks ir obligāts, ja vien :other nav :values.',

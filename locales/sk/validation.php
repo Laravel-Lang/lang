@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ':Attribute môže obsahovať len písmená, čísla a pomlčky.',
     'alpha_num'            => ':Attribute môže obsahovať len písmená, čísla.',
     'array'                => ':Attribute musí byť pole.',
-    'attached'             => 'Tento :attribute je už pripojený.',
     'before'               => ':Attribute musí byť dátum pred :date.',
     'before_or_equal'      => ':Attribute musí byť dátum pred alebo presne :date.',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => ':Attribute je zakázané, pokiaľ :other nie je v :values.',
     'prohibits'            => ':Attribute zakazuje, aby bolo :other povolené.',
     'regex'                => ':Attribute má neplatný formát.',
-    'relatable'            => 'Tento :attribute nemusí byť spojený s týmto zdrojom.',
     'required'             => ':Attribute je požadované.',
     'required_if'          => ':Attribute je požadované keď :other je :value.',
     'required_unless'      => ':Attribute je požadované, okrem prípadu keď :other je v :values.',

@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ':attribute só debe conter letras, números, guións e guións baixos.',
     'alpha_num'            => ':attribute só debe conter letras e números.',
     'array'                => ':attribute debe ser un conxunto.',
-    'attached'             => 'Este :attribute xa está conectado.',
     'before'               => ':attribute debe ser unha data previa a :date.',
     'before_or_equal'      => ':attribute debe ser unha data previa ou igual a :date.',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => 'O :attribute campo está prohibido, a menos que :other é en :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'O formato de :attribute non é válido.',
-    'relatable'            => 'Este :attribute non pode ser asociado con este recurso.',
     'required'             => 'O campo :attribute é obrigatorio.',
     'required_if'          => 'O campo :attribute é obrigatorio cando :other é :value.',
     'required_unless'      => 'O campo :attribute é obrigatorio excepto que :other estea en :values.',

@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ':attribute dine harplardan, sanlardan we tirelerden durmalydyr.',
     'alpha_num'            => ':attribute dine harplardan we sanlardan durmalydyr.',
     'array'                => ':attribute ýygyndy bolmalydyr.',
-    'attached'             => 'This :attribute is already attached.',
     'before'               => ':attribute şundan has irki sene bolmalydyr :date.',
     'before_or_equal'      => 'The :attribute must be a date before or equal to :date.',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => 'The :attribute field is prohibited unless :other is in :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute formaty ýalňyş.',
-    'relatable'            => 'This :attribute may not be associated with this resource.',
     'required'             => ':attribute meýdany zerur.',
     'required_if'          => ':attribute meýdany, :other :value hümmetine eýe bolanynda zerurdyr.',
     'required_unless'      => 'The :attribute field is required unless :other is in :values.',

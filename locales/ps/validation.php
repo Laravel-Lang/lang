@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'دا باید شامل نه وي :attribute یوازې په حرفو کې، شمیرې او متره.',
     'alpha_num'            => 'شمیرې او متره :attribute یوازې خطونه او شمیرې.',
     'array'                => 'دا باید وي :attribute ًمیټرکس.',
-    'attached'             => 'This :attribute is already attached.',
     'before'               => 'باید:attribute د تاریخ پخوا تاریخ وټاکئ :date.',
     'before_or_equal'      => ':attribute دا باید وي د تیر نیټې یا نیټې سره سمون خوري :date.',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => 'The :attribute field is prohibited unless :other is in :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'فورمول :attribute .غير صحيح.',
-    'relatable'            => 'This :attribute may not be associated with this resource.',
     'required'             => ':attribute اړینه ده.',
     'required_if'          => ':attribute که چیرې د اړتیا په صورت کې اړتیا وي:other مساو :value.',
     'required_unless'      => ':attribute که نه :other مساو :values.',

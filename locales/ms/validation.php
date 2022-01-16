@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ':attribute boleh mengandungi huruf, nombor, dan sengkang.',
     'alpha_num'            => ':attribute boleh mengandungi huruf dan nombor.',
     'array'                => ':attribute mesti jujukan.',
-    'attached'             => ':attribute ini sudah dilampirkan.',
     'before'               => ':attribute mesti tarikh sebelum :date.',
     'before_or_equal'      => ':attribute mesti tarikh sebelum atau sama dengan :date.',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => 'Ruangan :attribute adalah dilarang kecuali :other adalah di :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Format :attribute tidak sah.',
-    'relatable'            => 'Ruangan :attribute tidak boleh dikaitkan dengan sumber ini.',
     'required'             => 'Ruangan :attribute diperlukan.',
     'required_if'          => 'Ruangan :attribute diperlukan bila :other sama dengan :value.',
     'required_unless'      => 'Ruangan :attribute diperlukan sekiranya :other ada dalam :values.',

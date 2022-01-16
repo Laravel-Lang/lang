@@ -2,7 +2,7 @@
 
 # nn
 
-##### All missed: 787
+##### All missed: 785
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/nn/auth.php)
@@ -983,7 +983,7 @@ This :attribute may not be associated with this resource.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/nn/validation.php)
 
-##### Missing: 14
+##### Missing: 12
 
 <table >
 <tr><td align="left" >
@@ -991,13 +991,6 @@ accepted_if
 </td>
 <td align="left" >
 The :attribute must be accepted when :other is :value.
-</td>
-</tr>
-<tr><td align="left" >
-attached
-</td>
-<td align="left" >
-This :attribute is already attached.
 </td>
 </tr>
 <tr><td align="left" >
@@ -1075,13 +1068,6 @@ prohibits
 </td>
 <td align="left" >
 The :attribute field prohibits :other from being present.
-</td>
-</tr>
-<tr><td align="left" >
-relatable
-</td>
-<td align="left" >
-This :attribute may not be associated with this resource.
 </td>
 </tr>
 

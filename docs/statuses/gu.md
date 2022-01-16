@@ -2,7 +2,7 @@
 
 # gu
 
-##### All missed: 793
+##### All missed: 791
 
 
 ### [passwords](https://github.com/Laravel-Lang/lang/blob/master/locales/gu/passwords.php)
@@ -772,7 +772,7 @@ This :attribute may not be associated with this resource.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/gu/validation.php)
 
-##### Missing: 14
+##### Missing: 12
 
 <table >
 <tr><td align="left" >
@@ -780,13 +780,6 @@ accepted_if
 </td>
 <td align="left" >
 The :attribute must be accepted when :other is :value.
-</td>
-</tr>
-<tr><td align="left" >
-attached
-</td>
-<td align="left" >
-This :attribute is already attached.
 </td>
 </tr>
 <tr><td align="left" >
@@ -864,13 +857,6 @@ prohibits
 </td>
 <td align="left" >
 The :attribute field prohibits :other from being present.
-</td>
-</tr>
-<tr><td align="left" >
-relatable
-</td>
-<td align="left" >
-This :attribute may not be associated with this resource.
 </td>
 </tr>
 

@@ -2,7 +2,7 @@
 
 # sc
 
-##### All missed: 850
+##### All missed: 848
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/sc/auth.php)
@@ -997,7 +997,7 @@ This :attribute may not be associated with this resource.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/sc/validation.php)
 
-##### Missing: 42
+##### Missing: 40
 
 <table >
 <tr><td align="left" >
@@ -1012,13 +1012,6 @@ after_or_equal
 </td>
 <td align="left" >
 The :attribute must be a date after or equal to :date.
-</td>
-</tr>
-<tr><td align="left" >
-attached
-</td>
-<td align="left" >
-This :attribute is already attached.
 </td>
 </tr>
 <tr><td align="left" >
@@ -1250,13 +1243,6 @@ prohibits
 </td>
 <td align="left" >
 The :attribute field prohibits :other from being present.
-</td>
-</tr>
-<tr><td align="left" >
-relatable
-</td>
-<td align="left" >
-This :attribute may not be associated with this resource.
 </td>
 </tr>
 <tr><td align="left" >

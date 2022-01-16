@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Қиммати :attribute метавонад танҳо дорои ҳарфҳои алифо, ададҳо ва хати тире бошад.',
     'alpha_num'            => 'Қиммати :attribute метавонад танҳо дорои ҳарфҳои алифо ва ададҳо бошад',
     'array'                => 'Қиммати :attribute бояд, ки массив бошад.',
-    'attached'             => 'Ин :attribute аллакай прикреплен.',
     'before'               => 'Қиммати :attribute бояд санаи қабл аз :date бошад.',
     'before_or_equal'      => 'Қиммати :attribute бояд санаи қабл ё баробари :date бошад.',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => 'Майдони :attribute манъ аст, агар танҳо :other аст, дар :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Формати :attribute нодуруст мебошад.',
-    'relatable'            => 'Ин :attribute мумкин нест, вобаста ба ин захираҳо.',
     'required'             => ':attribute бояд дорои қиммат бошад.',
     'required_if'          => ':attribute бояд дорои қиммат бошад агар :other ба :value баробар бошад.',
     'required_unless'      => ':attribute бояд дорои қиммат бошад агар :other дар :values мавҷуд бошад.',

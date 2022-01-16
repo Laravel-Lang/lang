@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Поле :attribute может содержать только буквы, цифры, дефис и нижнее подчеркивание.',
     'alpha_num'            => 'Поле :attribute может содержать только буквы и цифры.',
     'array'                => 'Поле :attribute должно быть массивом.',
-    'attached'             => 'Поле :attribute уже прикреплено.',
     'before'               => 'В поле :attribute должна быть дата раньше :date.',
     'before_or_equal'      => 'В поле :attribute должна быть дата раньше или равняться :date.',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => 'Поле :attribute запрещено, если :other не входит в :values.',
     'prohibits'            => 'Поле :attribute запрещает присутствие :other.',
     'regex'                => 'Поле :attribute имеет ошибочный формат.',
-    'relatable'            => 'Поле :attribute не может быть связано с этим ресурсом.',
     'required'             => 'Поле :attribute обязательно для заполнения.',
     'required_if'          => 'Поле :attribute обязательно для заполнения, когда :other равно :value.',
     'required_unless'      => 'Поле :attribute обязательно для заполнения, когда :other не равно :values.',

@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Pole :attribute może zawierać jedynie litery, cyfry i myślniki.',
     'alpha_num'            => 'Pole :attribute może zawierać jedynie litery i cyfry.',
     'array'                => 'Pole :attribute musi być tablicą.',
-    'attached'             => 'Ten :attribute jest już dołączony.',
     'before'               => 'Pole :attribute musi być datą wcześniejszą od :date.',
     'before_or_equal'      => 'Pole :attribute musi być datą nie późniejszą niż :date.',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => 'Pole :attribute jest zabronione, chyba że :other jest w :values.',
     'prohibits'            => 'Pole :attribute zabrania obecności :other.',
     'regex'                => 'Format pola :attribute jest nieprawidłowy.',
-    'relatable'            => 'Ten :attribute może nie być powiązany z tym zasobem.',
     'required'             => 'Pole :attribute jest wymagane.',
     'required_if'          => 'Pole :attribute jest wymagane gdy :other ma wartość :value.',
     'required_unless'      => 'Pole :attribute jest wymagane jeżeli :other nie znajduje się w :values.',

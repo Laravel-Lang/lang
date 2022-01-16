@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'A(z) :attribute kizárólag betűket, számokat és kötőjeleket tartalmazhat!',
     'alpha_num'            => 'A(z) :attribute kizárólag betűket és számokat tartalmazhat!',
     'array'                => 'A(z) :attribute egy tömb kell, hogy legyen!',
-    'attached'             => 'Ezt a :attribute-at már csatolták.',
     'before'               => 'A(z) :attribute :date előtti dátum kell, hogy legyen!',
     'before_or_equal'      => 'A(z) :attribute nem lehet későbbi dátum, mint :date!',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => 'A :attribute mező tilos, kivéve, ha :other a :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'A(z) :attribute formátuma érvénytelen.',
-    'relatable'            => 'Lehet, hogy ez az :attribute nem kapcsolódik ehhez az erőforráshoz.',
     'required'             => 'A(z) :attribute megadása kötelező!',
     'required_if'          => 'A(z) :attribute megadása kötelező, ha a(z) :other értéke :value!',
     'required_unless'      => 'A(z) :attribute megadása kötelező, ha a(z) :other értéke nem :values!',

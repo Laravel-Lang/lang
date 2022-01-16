@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'මෙම :attribute ට අඩංගු විය හැක්කේ අකුරු, ඉලක්කම්, කෙටිඉර හා යටිඉර පමණි.',
     'alpha_num'            => 'මෙම :attribute ට අඩංගු විය හැක්කේ අකුරු හා ඉලක්කම් පමණි.',
     'array'                => 'මේ :attribute ය array එකක් විය යුතුය.',
-    'attached'             => 'මේ :attribute මේ වන විටත් අමුණා ඇත.',
     'before'               => 'මෙම :attribute, :date දිනයට පෙර දිනයක් විය යුතුය.',
     'before_or_equal'      => 'මෙම :attribute, :date දිනයම හෝ ඊට පෙර දිනයක් විය යුතුය.',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => ':other, :value නොවන්නේ නම් පමණක් :attribute ක්ෂේත්‍රයේ තහනම් කර තිබේ.',
     'prohibits'            => 'මෙම :attribute ක්ෂේත්‍රය :other පැවතීම තහනම් කර ඇත.',
     'regex'                => 'මෙම :attribute ආකෘතිය වලංගු නැත.',
-    'relatable'            => 'මේ :attribute නොහැකි විය හැක, මෙම සමඟ සංෙයෝජිත ෙ කෙර් සම්පත්.',
     'required'             => 'මෙම :attribute ක්ෂේත්‍රයේ අවශ්‍යයි.',
     'required_if'          => ':other, :value නම් පමණක් මෙම :attribute ක්ෂේත්‍රයේ අවශ්‍යයි.',
     'required_unless'      => ':other, :value නොවන්නේ නම් පමණක් මෙම :attribute ක්ෂේත්‍රයේ අවශ්‍යයි.',

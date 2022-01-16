@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ':attribute માત્ર અક્ષરો, આંકડાઓ, ડેશ અને ની નીચે લીટીનો જ સમાવેશ કરી શકે.',
     'alpha_num'            => ':attribute માત્ર અક્ષરો તથા આંકડાઓનો જ સમાવેશ કરી શકે.',
     'array'                => ':attribute ગોઠવણીમાં હોવું જોઈએ.',
-    'attached'             => 'This :attribute is already attached.',
     'before'               => ':attribute પહેલાં તારીખ હોવી જોઈએ :તારીખ.',
     'before_or_equal'      => ':attribute પહેલાં તારીખ કે સમાંતર હોવું જોઈએ :તારીખ.',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => 'The :attribute field is prohibited unless :other is in :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute અમાન્ય ગોઠવણ છે.',
-    'relatable'            => 'This :attribute may not be associated with this resource.',
     'required'             => ':attribute પ્રવૃત્તિ ક્ષેત્ર આવશ્યક છે.',
     'required_if'          => ':attribute પ્રવૃત્તિ ક્ષેત્ર આવશ્યક છે જ્યારે :other છે :value.',
     'required_unless'      => ':attribute પ્રવૃત્તિ ક્ષેત્ર આવશ્યક છે સિવાય :other માં છે :values.',

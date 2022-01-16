@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Lo camp :attribute a de conténer solament de letras, nombres e de tirets.',
     'alpha_num'            => 'Lo camp :attribute a de conténer solament de letras e nombres.',
     'array'                => 'Lo camp :attribute deu èsser un tablèu.',
-    'attached'             => 'This :attribute is already attached.',
     'before'               => 'Lo camp :attribute deu èsser una data anteriora a :date.',
     'before_or_equal'      => 'Lo camp :attribute deu èsser una data anteriora o egala a :date.',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => 'The :attribute field is prohibited unless :other is in :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Lo format :attribute es invalid.',
-    'relatable'            => 'This :attribute may not be associated with this resource.',
     'required'             => 'Lo camp :attribute es obligatòri.',
     'required_if'          => 'Lo camp :attribute es obligatòri quand :other es :value.',
     'required_unless'      => 'Lo camp :attribute es obligatòri levat se :other es dins :values.',

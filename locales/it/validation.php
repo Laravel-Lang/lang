@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ':attribute può contenere solo lettere, numeri e trattini.',
     'alpha_num'            => ':attribute può contenere solo lettere e numeri.',
     'array'                => ':attribute deve essere un array.',
-    'attached'             => ':attribute è già associato.',
     'before'               => ':attribute deve essere una data precedente al :date.',
     'before_or_equal'      => ':attribute deve essere una data precedente o uguale al :date.',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => ':attribute non consentito a meno che :other sia contenuto in :values.',
     'prohibits'            => ':attribute impedisce a :other di essere presente.',
     'regex'                => 'Il formato del campo :attribute non è valido.',
-    'relatable'            => ':attribute non può essere associato a questa risorsa.',
     'required'             => 'Il campo :attribute è richiesto.',
     'required_if'          => 'Il campo :attribute è richiesto quando :other è :value.',
     'required_unless'      => 'Il campo :attribute è richiesto a meno che :other sia in :values.',

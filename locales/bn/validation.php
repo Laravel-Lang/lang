@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ':attribute শুধুমাত্র অক্ষর, সংখ্যা, এবং ড্যাশ থাকতে পারে।',
     'alpha_num'            => ':attribute শুধুমাত্র বর্ণ ও সংখ্যা থাকতে পারে।',
     'array'                => ':attribute একটি অ্যারে হতে হবে।',
-    'attached'             => 'এই :attribute ইতিমধ্যে সংযুক্ত করা হয়.',
     'before'               => ':date অবশ্যই :attribute এর আগের একটি তারিখ হতে হবে।',
     'before_or_equal'      => ':attribute টি অবশ্যই :date এর সাথে মিল অথবা এর আগের একটি তারিখ হতে হবে।',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => 'এই :attribute ক্ষেত্র নিষিদ্ধ করা হয়, যদি না, :other হয় :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute বিন্যাস অবৈধ।',
-    'relatable'            => 'এই :attribute এই সম্পদ সঙ্গে যুক্ত হতে পারে না.',
     'required'             => ':attribute স্থানটি পূরণ করা বাধ্যতামূলক।',
     'required_if'          => ':attribute স্থানটি পূরণ করা বাধ্যতামূলক যেখানে :other হল :value।',
     'required_unless'      => ':attribute স্থানটি পূরণ করা বাধ্যতামূলক যদি না :other, :values তে উপস্থিত থাকে।',

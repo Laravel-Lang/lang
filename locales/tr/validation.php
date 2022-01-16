@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ':attribute sadece harflerden, rakamlardan ve tirelerden oluşmalıdır.',
     'alpha_num'            => ':attribute sadece harflerden ve rakamlardan oluşmalıdır.',
     'array'                => ':attribute mutlaka bir dizi olmalıdır.',
-    'attached'             => 'Bu :attribute zaten tanımlı.',
     'before'               => ':attribute mutlaka :date tarihinden önce olmalıdır.',
     'before_or_equal'      => ':attribute mutlaka :date tarihinden önce veya aynı tarihte olmalıdır.',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => ':other alanı :value değerlerinden birisi değilse :attribute alanına veri girişi yapılamaz.',
     'prohibits'            => ':attribute alanı :other alanının mevcut olmasını yasaklar.',
     'regex'                => ':attribute biçimi geçersiz.',
-    'relatable'            => 'Bu :attribute bu kaynakla ilişkili olmayabilir.',
     'required'             => ':attribute mutlaka gereklidir.',
     'required_if'          => ':attribute :other :value değerine sahip olduğunda mutlaka gereklidir.',
     'required_unless'      => ':attribute :other :values değerlerinden birine sahip olmadığında mutlaka gereklidir.',

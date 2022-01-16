@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ':attribute դաշտը պետք է պարունակի միայն տառեր, թվեր, գծիկներ և ընդգծումներ։',
     'alpha_num'            => ':attribute դաշտը պետք է պարունակի միայն տառեր և թվեր։',
     'array'                => ':attribute դաշտը պետք է լինի զանգված։',
-    'attached'             => ':attribute դաշտը արդեն կցված է։',
     'before'               => ':attribute դաշտի ամսաթիվը պետք է լինի :date-ից առաջ։',
     'before_or_equal'      => ':attribute դաշտի ամսաթիվը պետք է լինի :date կամ դրանից առաջ։',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => ':attribute դաշտը արգելված է քանի դեռ :other դաշտի արժեքը :values միջակայքում չի։',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute դաշտի ձևաչափը սխալ է։',
-    'relatable'            => ':attribute դաշտը չի կարող կցվել տվյալ ռեսուրսին։',
     'required'             => ':attribute դաշտը պարտադիր է։',
     'required_if'          => ':attribute դաշտը պարտադիր է երբ :other-ը հավասար է :value։',
     'required_unless'      => ':attribute դաշտը պարտադիր է քանի դեռ :other-ը հավասար չէ :values։',

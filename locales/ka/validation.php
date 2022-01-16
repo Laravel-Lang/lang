@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ':attribute უნდა შეიცავდეს მხოლოდ ასოებს, რიცხვებს, ტირეებს და ქვეტირეებს.',
     'alpha_num'            => ':attribute უნდა შეიცავდეს მხოლოდ ასოებს და რიცხვებს.',
     'array'                => ':attribute უნდა იყოს მასივი.',
-    'attached'             => 'ეს :attribute უკვე ერთვის.',
     'before'               => ':attribute უნდა იყოს თარიღი :date-მდე.',
     'before_or_equal'      => ':attribute უნდა იყოს თარიღი :date-მდე ან მისი ტოლი.',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => ':attribute სფეროში აკრძალულია თუ :other არის :values.',
     'prohibits'            => ':attribute ველში არ შეიძლება იყოს :other.',
     'regex'                => ':attribute-ის ფორმატი არასწორია.',
-    'relatable'            => 'ეს :attribute არ შეიძლება იყოს დაკავშირებული ამ რესურსის.',
     'required'             => ':attribute-ის ველი აუცილებელია.',
     'required_if'          => ':attribute-ის ველი აუცილებელია, თუ :other-ის მნიშვნელობა ემთხვევა :value-ს.',
     'required_unless'      => ':attribute-ის ველი აუცილებელია, თუ :values არ შეიცავს :other-ს.',

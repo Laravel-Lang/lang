@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Поле :attribute можа мець толькі літары, лічбы і злучок.',
     'alpha_num'            => 'Поле :attribute можа мець толькі літары і лічбы.',
     'array'                => 'Поле :attribute павінна быць масівам.',
-    'attached'             => 'Гэты нумар :attribute ўжо прымацаваны.',
     'before'               => 'У полі :attribute павінна быць дата да :date.',
     'before_or_equal'      => ':attribute павінна быць датай да або роўнай :date.',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => 'Поле :attribute забаронена, калі толькі :other не знаходзіцца ў :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Поле :attribute мае памылковы фармат.',
-    'relatable'            => 'Гэты :attribute можа быць не звязаны з гэтым рэсурсам.',
     'required'             => 'Поле :attribute абавязкова для запаўнення.',
     'required_if'          => 'Поле :attribute абавязкова для запаўнення, калі :other раўняецца :value.',
     'required_unless'      => 'Поле :attribute абавязкова для запаўнення, калі :other не раўняецца :values.',

@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ':attribute باید فقط حروف الفبا، اعداد، خط تیره و زیرخط باشد.',
     'alpha_num'            => ':attribute باید فقط حروف الفبا و اعداد باشد.',
     'array'                => ':attribute باید آرایه باشد.',
-    'attached'             => 'This :attribute is already attached.',
     'before'               => ':attribute باید تاریخی قبل از :date باشد.',
     'before_or_equal'      => ':attribute باید تاریخی قبل از :date، یا مطابق با آن باشد.',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => 'The :attribute field is prohibited unless :other is in :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'فرمت :attribute معتبر نیست.',
-    'relatable'            => 'This :attribute may not be associated with this resource.',
     'required'             => 'فیلد :attribute الزامی است.',
     'required_if'          => 'هنگامی که :other برابر با :value است، فیلد :attribute الزامی است.',
     'required_unless'      => 'فیلد :attribute الزامی است، مگر آنکه :other در :values موجود باشد.',

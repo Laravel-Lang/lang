@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'שדה :attribute יכול להכיל אותיות, מספרים ומקפים בלבד.',
     'alpha_num'            => 'שדה :attribute יכול להכיל אותיות ומספרים בלבד.',
     'array'                => 'שדה :attribute חייב להיות מערך.',
-    'attached'             => 'ה-:attribute הזה כבר מחובר.',
     'before'               => 'שדה :attribute חייב להיות תאריך לפני :date.',
     'before_or_equal'      => 'שדה :attribute חייב להיות תאריך מוקדם או שווה ל :date.',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => 'שדה :attribute אסור אלא אם כן :other הוא :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'שדה :attribute בעל פורמט שאינו תקין.',
-    'relatable'            => 'זה :attribute לא יכול להיות קשור עם משאב זה.',
     'required'             => 'שדה :attribute הוא חובה.',
     'required_if'          => 'שדה :attribute נחוץ כאשר :other הוא :value.',
     'required_unless'      => 'שדה :attribute נחוץ אלא אם כן :other הוא בין :values.',

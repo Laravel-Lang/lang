@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ':attribute må berre vere av bokstavar, tal og bindestrekar.',
     'alpha_num'            => ':attribute må berre vere av bokstavar og tal.',
     'array'                => ':attribute må vere ei matrise.',
-    'attached'             => 'This :attribute is already attached.',
     'before'               => ':attribute må vere ein dato før :date.',
     'before_or_equal'      => ':attribute må vere ein dato før eller lik :date.',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => 'The :attribute field is prohibited unless :other is in :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Formatet på :attribute er ugyldig.',
-    'relatable'            => 'This :attribute may not be associated with this resource.',
     'required'             => ':attribute må fyllast ut.',
     'required_if'          => ':attribute må fyllast ut når :other er :value.',
     'required_unless'      => ':attribute må vere til stades viss ikkje :other finnas hjå verdiene :values.',

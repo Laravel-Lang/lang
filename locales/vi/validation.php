@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Trường :attribute chỉ có thể chứa chữ cái, số và dấu gạch ngang.',
     'alpha_num'            => 'Trường :attribute chỉ có thể chứa chữ cái và số.',
     'array'                => 'Trường :attribute phải là dạng mảng.',
-    'attached'             => 'Trường :attribute đã được đính kèm.',
     'before'               => 'Trường :attribute phải là một ngày trước ngày :date.',
     'before_or_equal'      => 'Trường :attribute phải là thời gian bắt đầu trước hoặc đúng bằng :date.',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => 'Trường :attribute bị cấm trừ khi :other là một trong :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Trường :attribute có định dạng không hợp lệ.',
-    'relatable'            => 'Trường :attribute không thể liên kết với tài nguyên này.',
     'required'             => 'Trường :attribute không được bỏ trống.',
     'required_if'          => 'Trường :attribute không được bỏ trống khi trường :other là :value.',
     'required_unless'      => 'Trường :attribute không được bỏ trống trừ khi :other là :values.',

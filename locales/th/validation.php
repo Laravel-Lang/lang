@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'ข้อมูล :attribute ต้องเป็นตัวอักษรภาษาอังกฤษ ตัวเลข และ _ เท่านั้น',
     'alpha_num'            => 'ข้อมูล :attribute ต้องเป็นตัวอักษรภาษาอังกฤษ ตัวเลข เท่านั้น',
     'array'                => 'ข้อมูล :attribute ต้องเป็น array เท่านั้น',
-    'attached'             => 'นี่ :attribute แล้วมาเกี่ยวข้อง',
     'before'               => 'ข้อมูล :attribute ต้องเป็นวันที่ก่อน :date.',
     'before_or_equal'      => 'ข้อมูล :attribute ต้องเป็นวันที่ก่อนหรือเท่ากับวันที่ :date.',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => 'ที่ :attribute ช่องข้อมูล prohibited นอกจาก :other อยู่ใน :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'ข้อมูล :attribute มีรูปแบบไม่ถูกต้อง',
-    'relatable'            => 'นี่ :attribute อาจจะไม่เกี่ยวข้องกับทรัพยากรนี้',
     'required'             => 'ข้อมูล :attribute จำเป็นต้องกรอก',
     'required_if'          => 'ข้อมูล :attribute จำเป็นต้องกรอกเมื่อ :other เป็น :value.',
     'required_unless'      => 'ข้อมูล :attribute จำเป็นต้องกรอกเว้นแต่ :other เป็น :values.',

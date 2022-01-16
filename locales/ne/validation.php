@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ':attribute मा अक्षर, संख्या र ड्यासहरू मात्र हुनसक्छ।',
     'alpha_num'            => ':attribute मा अक्षर र संख्याहरू मात्र हुनसक्छ।',
     'array'                => ':attribute एर्रे हुनुपर्छ।',
-    'attached'             => 'यो :attribute छ नै संलग्न.',
     'before'               => ':attribute को मिति :date भन्दा अघि हुनुपर्छ।',
     'before_or_equal'      => ':attribute मिति भन्दा अघि वा बराबर :date हुनुपर्दछ। ',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => 'यो :attribute क्षेत्र निषेध छ नभएसम्म :other छ :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute को ढाँचा मिलेन।',
-    'relatable'            => 'यो :attribute हुन सक्छ, यस संग सम्बन्धित संसाधन । ',
     'required'             => ':attribute दिइएको हुनुपर्छ।',
     'required_if'          => ':attribute चाहिन्छ जब :other :value हुन्छ।',
     'required_unless'      => ':other :values मा नभएसम्म :attribute चाहिन्छ।',

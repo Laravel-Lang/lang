@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ':attribute hizkiak, zenbakiak eta marrak besterik ezin ditu izan.',
     'alpha_num'            => ':attribute hizkiak eta zenbakiak besterik ezin ditu izan.',
     'array'                => ':attribute bilduma izan behar da.',
-    'attached'             => 'Hau :attribute da dagoeneko erantsita.',
     'before'               => ':attribute :date aurreko data izan behar da.',
     'before_or_equal'      => ':attribute :date aurreko data edo data bera izan behar da.',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => 'The :attribute eremuan, debekatuta dago ezean :other da :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute baliogabea da.',
-    'relatable'            => 'Hau :attribute ezingo lotutako baliabide hau.',
     'required'             => ':attribute derrigorrezkoa da.',
     'required_if'          => ':attribute derrigorrezkoa da :other :value denean.',
     'required_unless'      => ':attribute derrigorrezkoa da :other :values-(e)n egon ezean.',

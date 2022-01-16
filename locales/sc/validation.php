@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ':attribute podet cuntènnere isceti lìteras, nùmeros e tratigheddos.',
     'alpha_num'            => ':attribute podet cuntènnere isceti lìteras e nùmeros.',
     'array'                => ':attribute depet èssere un\'array.',
-    'attached'             => 'This :attribute is already attached.',
     'before'               => ':attribute depet èssere una data chi benit prima de :date.',
     'before_or_equal'      => 'The :attribute must be a date before or equal to :date.',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => 'The :attribute field is prohibited unless :other is in :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Su formadu de su campu :attribute no est bàlidu.',
-    'relatable'            => 'This :attribute may not be associated with this resource.',
     'required'             => ':attribute est pedidu.',
     'required_if'          => 'Su campu :attribute est pedidu cando :other est :value.',
     'required_unless'      => 'The :attribute field is required unless :other is in :values.',

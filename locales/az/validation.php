@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ':attribute yalnız hərf, rəqəm və tire simvolundan ibarət ola bilər',
     'alpha_num'            => ':attribute yalnız hərf və rəqəmlərdən ibarət ola bilər',
     'array'                => ':attribute massiv formatında olmalıdır',
-    'attached'             => 'Bu :attribute artıq əlavə olunur.',
     'before'               => ':attribute :date tarixindən əvvəl olmalıdır',
     'before_or_equal'      => ':attribute :date tarixindən əvvəl və ya bərabər olmalıdır',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => ':attribute sahəsi yalnız :other :values-da olmadıqda qadağandır.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ' :attribute formatı yanlışdır',
-    'relatable'            => 'Bu :attribute il bu resurs ilə bağlı ola bilər.',
     'required'             => ' :attribute mütləqdir',
     'required_if'          => ' :attribute (:other :value ikən) mütləqdir',
     'required_unless'      => ' :attribute (:other :values \'ə daxil ikən) mütləqdir',

@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ':attribute darf nur aus Buchstaben, Zahlen, Binde- und Unterstrichen bestehen.',
     'alpha_num'            => ':attribute darf nur aus Buchstaben und Zahlen bestehen.',
     'array'                => ':attribute muss ein Array sein.',
-    'attached'             => ':attribute ist bereits angehängt.',
     'before'               => ':attribute muss ein Datum vor :date sein.',
     'before_or_equal'      => ':attribute muss ein Datum vor :date oder gleich :date sein.',
     'between'              => [
@@ -107,7 +106,6 @@ return [
     'prohibited_unless'    => ':attribute ist unzulässig, wenn :other nicht :values ist.',
     'prohibits'            => ':attribute verbietet die Angabe von :other.',
     'regex'                => ':attribute Format ist ungültig.',
-    'relatable'            => ':attribute kann nicht mit dieser Ressource verbunden werden.',
     'required'             => ':attribute muss ausgefüllt werden.',
     'required_if'          => ':attribute muss ausgefüllt werden, wenn :other den Wert :value hat.',
     'required_unless'      => ':attribute muss ausgefüllt werden, wenn :other nicht den Wert :values hat.',

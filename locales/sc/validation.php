@@ -45,6 +45,7 @@ return [
     'distinct'             => 'The :attribute field has a duplicate value.',
     'email'                => ':attribute no est bàlidu.',
     'ends_with'            => 'The :attribute must end with one of the following: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => ':attribute seberadu/a no est bàlidu.',
     'file'                 => 'The :attribute must be a file.',
     'filled'               => ':attribute est pedidu.',
@@ -80,6 +81,7 @@ return [
         'numeric' => 'The :attribute must be less than or equal :value.',
         'string'  => 'The :attribute must be less than or equal :value characters.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ':attribute non podet tènnere prus de :max elementos.',
         'file'    => ':attribute non depet èssere prus mannu de :max kilobytes.',

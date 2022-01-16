@@ -44,6 +44,7 @@ return [
     'distinct'             => 'Дар ин соҳа дорад, ки бд, аҳамияти.',
     'email'                => 'Ин бояд воқеии суроғаи почтаи электронӣ.',
     'ends_with'            => 'Ин бояд заканчиваться яке аз нуқтаҳои зерин: :values.',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'Интихоб арзиши як недопустимым.',
     'file'                 => 'Маълумоте, ки бояд бошад, ки файли матнӣ намебошад.',
     'filled'               => 'Ин соҳа бояд дорои аҳамияти.',
@@ -79,6 +80,7 @@ return [
         'numeric' => 'The value must be less than or equal :value.',
         'string'  => 'The string must be less than or equal :value characters.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'The content must not have more than :max items.',
         'file'    => 'The file size must not be greater than :max kilobytes.',

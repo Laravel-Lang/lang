@@ -44,6 +44,7 @@ return [
     'distinct'             => 'اس میدان کی ایک نقل قیمت.',
     'email'                => 'اس کو ایک درست ای میل ایڈریس.',
     'ends_with'            => 'اس کو ختم کرنا ضروری ہے کے ساتھ مندرجہ ذیل میں سے ایک: :values.',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'منتخب قدر باطل ہے.',
     'file'                 => 'مواد ہونا ضروری ہے ایک فائل.',
     'filled'               => 'اس میدان میں ہونا ضروری ہے ، ایک قیمت ہے.',
@@ -79,6 +80,7 @@ return [
         'numeric' => 'The value must be less than or equal :value.',
         'string'  => 'The string must be less than or equal :value characters.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'The content must not have more than :max items.',
         'file'    => 'The file size must not be greater than :max kilobytes.',

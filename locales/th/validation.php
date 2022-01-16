@@ -45,6 +45,7 @@ return [
     'distinct'             => 'ข้อมูล :attribute มีค่าที่ซ้ำกัน',
     'email'                => 'ข้อมูล :attribute ต้องเป็นอีเมล์',
     'ends_with'            => 'ที่ :attribute ต้องจบอย่างหนึ่งจากเกิดข้อผิดพลาดต่อไปนี้::values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'ข้อมูล ที่ถูกเลือกจาก :attribute ไม่ถูกต้อง',
     'file'                 => 'ข้อมูล :attribute ต้องเป็นไฟล์.',
     'filled'               => 'ข้อมูล :attribute จำเป็นต้องกรอก',
@@ -80,6 +81,7 @@ return [
         'numeric' => 'ข้อมูล :attribute ต้องมีค่าน้อยกว่าหรือเท่ากับ :value.',
         'string'  => 'ข้อมูล :attribute ต้องมีความยาวตัวอักษรน้อยกว่าหรือเท่ากับ :value ตัวอักษร.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => 'ข้อมูล :attribute ต้องมีไม่เกิน :max ค่า',
         'file'    => 'ข้อมูล :attribute ต้องมีขนาดไม่เกิน :max กิโลไบต์',

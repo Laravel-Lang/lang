@@ -44,6 +44,7 @@ return [
     'distinct'             => 'Энэ талбар нь давхардсан утгыг байна.',
     'email'                => 'Энэ и-мэйл хаяг нь зөв байх естой.',
     'ends_with'            => 'Энэ нь дараах аль нэгийг нь дуусгах естой: :values.',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'Сонгосон утга буруу байна.',
     'file'                 => 'Агуулга нь файл байх естой.',
     'filled'               => 'Энэ талбар нь утга байх естой.',
@@ -79,6 +80,7 @@ return [
         'numeric' => 'The value must be less than or equal :value.',
         'string'  => 'The string must be less than or equal :value characters.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'The content must not have more than :max items.',
         'file'    => 'The file size must not be greater than :max kilobytes.',

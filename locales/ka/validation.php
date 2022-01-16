@@ -45,6 +45,7 @@ return [
     'distinct'             => ':attribute-ის ველს აქვს დუბლირებული მნიშვნელობა.',
     'email'                => ':attribute უნდა იყოს სწორი ელ.ფოსტა.',
     'ends_with'            => ':attribute უნდა ბოლოვდებოდეს შემდეგიდან ერთ-ერთით: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'არჩეული :attribute არასწორია.',
     'file'                 => ':attribute უნდა იყოს ფაილი.',
     'filled'               => ':attribute აუცილებელია.',
@@ -80,6 +81,7 @@ return [
         'numeric' => ':attribute უნდა იყოს მაქსიმუმ :value.',
         'string'  => ':attribute უნდა შეიცავდეს მაქსიმუმ :value სიმბოლოს.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ':attribute-ს არ უნდა ჰქონდეს :max ელემენტზე მეტი.',
         'file'    => ':attribute არ უნდა აღემატებოდეს :max კილობაიტს.',

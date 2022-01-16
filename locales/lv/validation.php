@@ -45,6 +45,7 @@ return [
     'distinct'             => ':attribute laukam ir dublikāts.',
     'email'                => ':attribute ir jābūt derīgai e-pasta adresei.',
     'ends_with'            => ':attribute jābeidzas ar vienu no šiem: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'Izvēlētais :attribute ir nederīgs.',
     'file'                 => ':attribute jābūt failam.',
     'filled'               => ':attribute lauks ir obligāts.',
@@ -80,6 +81,7 @@ return [
         'numeric' => ':attribute jābūt mazākam vai vienādam ar :value.',
         'string'  => ':attribute nedrīkst pārsniegt :value rakstzīmes.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ':attribute nedrīkst pārsniegt :max vienības.',
         'file'    => ':attribute nedrīkst pārsniegt :max kilobaitus.',

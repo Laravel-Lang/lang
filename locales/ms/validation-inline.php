@@ -44,6 +44,7 @@ return [
     'distinct'             => 'Ruangan ini mempunyai nilai yang berulang.',
     'email'                => 'Alamat emel mestilah sah.',
     'ends_with'            => 'Nilai mesti berakhir dengan salah satu dari nilai berikut: :values.',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'Pilihan tidak sah.',
     'file'                 => 'Ruangan ini mesti fail yang sah.',
     'filled'               => 'Ruangan ini mesti mempunyai nilai.',
@@ -79,6 +80,7 @@ return [
         'numeric' => 'Nilai mesti kurang daripada atau bersamaan dengan :value.',
         'string'  => 'Rentetan mesti kurang daripada atau bersamaan dengan :value aksara.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Jujukan mesti tidak melebihi :max perkara.',
         'file'    => 'Saiz fail mesti tidak melebihi :max kilobait.',

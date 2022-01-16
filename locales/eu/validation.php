@@ -45,6 +45,7 @@ return [
     'distinct'             => ':attribute-(e)k bikoiztutako balioa dauka.',
     'email'                => ':attribute baliozko helbide elektronikoa izan behar da.',
     'ends_with'            => ':attribute-(e)k ondorengo balioetako batekin amaitu behar du: :values',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => ':attribute baliogabea da.',
     'file'                 => ':attribute fitxategi bat izan behar da.',
     'filled'               => ':attribute derrigorrezkoa da.',
@@ -80,6 +81,7 @@ return [
         'numeric' => ':attribute-(e)k :value baino txikiagoa edo berdina izan behar du.',
         'string'  => ':attribute-(e)k :value karaktere edo gutxiago izan behar ditu.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ':attribute-(e)k ezin du :max elementu baino gehiago eduki.',
         'file'    => ':attribute ezin da :max kilobyte baino handiagoa izan.',

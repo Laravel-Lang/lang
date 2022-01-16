@@ -44,6 +44,7 @@ return [
     'distinct'             => 'Polje ima podvojeno vrednost.',
     'email'                => 'Elektronski naslov mora biti veljaven.',
     'ends_with'            => 'Vnos se mora končati z eno od naslednjih vrednosti: :values.',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'Izbrana vrednost ni veljavna.',
     'file'                 => 'Vsebina mora biti datoteka.',
     'filled'               => 'Polje mora biti izpolnjeno.',
@@ -79,6 +80,7 @@ return [
         'numeric' => 'Vrednost ne sme biti večja od :value.',
         'string'  => 'Vnos ne sme biti daljši od :value znakov.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Polje ne sme vsebovati več kot :max elementov.',
         'file'    => 'Velikost datoteke ne sme presegati :max kilobajtov.',

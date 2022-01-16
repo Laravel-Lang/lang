@@ -45,6 +45,7 @@ return [
     'distinct'             => ':attribute beinhaltet einen bereits vorhandenen Wert.',
     'email'                => ':attribute muss eine gültige E-Mail-Adresse sein.',
     'ends_with'            => ':attribute muss eine der folgenden Endungen aufweisen: :values',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'Der gewählte Wert für :attribute ist ungültig.',
     'file'                 => ':attribute muss eine Datei sein.',
     'filled'               => ':attribute muss ausgefüllt sein.',
@@ -80,6 +81,7 @@ return [
         'numeric' => ':attribute muss kleiner oder gleich :value sein.',
         'string'  => ':attribute muss kleiner oder gleich :value Zeichen lang sein.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ':attribute darf nicht mehr als :max Elemente haben.',
         'file'    => ':attribute darf maximal :max Kilobytes gross sein.',

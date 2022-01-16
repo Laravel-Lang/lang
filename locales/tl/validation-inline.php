@@ -44,6 +44,7 @@ return [
     'distinct'             => 'Ang patlang na ito ay may dobleng halaga.',
     'email'                => 'Ito ay dapat na isang wastong email address.',
     'ends_with'            => 'Ito ay dapat magtapos sa isa sa mga sumusunod: :values.',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'Ang napiling halaga ay hindi wasto.',
     'file'                 => 'Ang nilalaman ay dapat na isang talaksan.',
     'filled'               => 'Ang patlang na ito ay dapat magkaroon ng isang halaga.',
@@ -79,6 +80,7 @@ return [
         'numeric' => 'The value must be less than or equal :value.',
         'string'  => 'The string must be less than or equal :value characters.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'The content must not have more than :max items.',
         'file'    => 'The file size must not be greater than :max kilobytes.',

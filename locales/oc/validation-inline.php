@@ -44,6 +44,7 @@ return [
     'distinct'             => 'Aqueste camp a un doblon.',
     'email'                => 'Aqueste camp deu èsser una adreça de corrièl valida.',
     'ends_with'            => 'Aqueste camp deu acabar per una de las valors seguentas : :values',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'Aqueste camp seleccionat es invalid.',
     'file'                 => 'Aqueste camp deu èsser un fichièr.',
     'filled'               => 'Aqueste camp deu aver una valor.',
@@ -79,6 +80,7 @@ return [
         'numeric' => 'La valor deu èsser inferiora o egala a :value.',
         'string'  => 'Lo tèxt deu conténer al pus mai :value caractèrs.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Lo tablèu deu pas conténer mai de :max elements.',
         'file'    => 'La talha del fichièr deu pas èsser superior a :max kiloctets.',

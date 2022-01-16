@@ -44,6 +44,7 @@ return [
     'distinct'             => 'Questo valore esiste già.',
     'email'                => 'Deve essere un indirizzo email valido.',
     'ends_with'            => 'Deve terminare con uno dei seguenti valori: :values.',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'Il valore non è valido.',
     'file'                 => 'Deve essere un file.',
     'filled'               => 'Deve contenere un valore.',
@@ -79,6 +80,7 @@ return [
         'numeric' => 'Deve essere inferiore o uguale a :value.',
         'string'  => 'Deve contenere massimo :value caratteri.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Non può contenere più di :max elementi.',
         'file'    => 'Non può essere superiore a :max kilobytes.',

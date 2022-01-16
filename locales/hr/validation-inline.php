@@ -44,6 +44,7 @@ return [
     'distinct'             => 'Ovo polje ima ponavljajuće značenje.',
     'email'                => 'To mora biti valjana adresa e-pošte.',
     'ends_with'            => 'To bi trebalo završiti s jednom od sljedećih stavki: :values.',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'Odabrana vrijednost nije važeća.',
     'file'                 => 'Sadržaj mora biti datoteka.',
     'filled'               => 'Ovo polje mora biti važno.',
@@ -79,6 +80,7 @@ return [
         'numeric' => 'The value must be less than or equal :value.',
         'string'  => 'The string must be less than or equal :value characters.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'The content must not have more than :max items.',
         'file'    => 'The file size must not be greater than :max kilobytes.',

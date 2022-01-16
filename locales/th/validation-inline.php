@@ -44,6 +44,7 @@ return [
     'distinct'             => 'ช่องข้อมูลนี้มีองปลค่า',
     'email'                => 'นี่ต้องเป็นที่อยู่อีเมลที่ถูกต้อง',
     'ends_with'            => 'นี่คงจบอย่างหนึ่งจากเกิดข้อผิดพลาดต่อไปนี้::values.',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'คอนที่เลือกไว้ออกค่าใช้ไม่ได้หรือไม่ถูกต้อง',
     'file'                 => 'เนื้อหาต้องแฟ้ม',
     'filled'               => 'ช่องข้อมูลนี้คงมีมูลค่าอยู่',
@@ -79,6 +80,7 @@ return [
         'numeric' => 'The value must be less than or equal :value.',
         'string'  => 'The string must be less than or equal :value characters.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'The content must not have more than :max items.',
         'file'    => 'The file size must not be greater than :max kilobytes.',

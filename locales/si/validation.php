@@ -45,6 +45,7 @@ return [
     'distinct'             => 'මේ :attribute හි එකම අගයේ අනු පිටපත් ඇත.',
     'email'                => 'මෙම :attribute එක වලංගු විද්‍යුත් ලිපිනයක් විය යුතුය.',
     'ends_with'            => 'මෙම :attribute එක :values මගින් අවසාන විය යුතුය.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'තෝරාගත් :attribute අගය වලංගු නොවේ.',
     'file'                 => 'මෙම :attribute ය ෆයිල් එකක් විය යුතුය.',
     'filled'               => 'මේ :attribute හි අගයක් තිබිය යුතුය.',
@@ -80,6 +81,7 @@ return [
         'numeric' => 'මෙම :attribute එක :value ට වඩා අඩු හෝ සමාන විය යුතුයි.',
         'string'  => 'මෙම :attribute එක අකුරු :value ට වඩා අඩු හෝ සමාන විය යුතුයි.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => 'මෙම :attribute එක :max ට වඩා වැඩි නොවිය යුතුයි.',
         'file'    => 'මෙම :attribute එක කිලෝබයිට් :max ට වඩා වැඩි නොවිය යුතුයි.',

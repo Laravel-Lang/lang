@@ -44,6 +44,7 @@ return [
     'distinct'             => 'Þetta sviði hefur afrit gildi.',
     'email'                => 'Þetta hlýtur að vera gild netfangið.',
     'ends_with'            => 'Þetta verður að enda með eftirfarandi: :values.',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'Valið gildi er ógilt.',
     'file'                 => 'Efni verður að vera á skrá.',
     'filled'               => 'Þetta sviði verður að hafa gildi.',
@@ -79,6 +80,7 @@ return [
         'numeric' => 'The value must be less than or equal :value.',
         'string'  => 'The string must be less than or equal :value characters.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'The content must not have more than :max items.',
         'file'    => 'The file size must not be greater than :max kilobytes.',

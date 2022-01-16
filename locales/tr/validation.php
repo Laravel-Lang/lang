@@ -45,6 +45,7 @@ return [
     'distinct'             => ':attribute alanı yinelenen bir değere sahip.',
     'email'                => ':attribute mutlaka geçerli bir e-posta adresi olmalıdır.',
     'ends_with'            => ':attribute sadece şu değerlerden biriyle bitebilir: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'Seçili :attribute geçersiz.',
     'file'                 => ':attribute mutlaka bir dosya olmalıdır.',
     'filled'               => ':attribute mutlaka doldurulmalıdır.',
@@ -80,6 +81,7 @@ return [
         'numeric' => ':attribute mutlaka :value sayısından küçük veya eşit olmalıdır.',
         'string'  => ':attribute mutlaka :value karakterden kısa veya eşit olmalıdır.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ':attribute en fazla :max öge içerebilir.',
         'file'    => ':attribute en fazla :max kilobayt olabilir.',

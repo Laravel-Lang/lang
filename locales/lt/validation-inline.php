@@ -44,6 +44,7 @@ return [
     'distinct'             => 'Šio lauko reikšmė pasikartoja.',
     'email'                => 'Šio lauko reikšmė turi būti galiojantis el. pašto adresas.',
     'ends_with'            => 'Šis laukas turi baigtis vienu iš: :values',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'Šio lauko reikšmė negalioja.',
     'file'                 => 'Šis laukas turi būti failas.',
     'filled'               => 'Šis laukas turi būti užpildytas.',
@@ -79,6 +80,7 @@ return [
         'numeric' => 'Šio lauko reikšmė turi būti mažesnė arba lygi :value.',
         'string'  => 'Šio lauko reikšmė turi būti mažesnė arba lygi :value simboliams.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Šis laukas negali turėti daugiau nei :max elementų.',
         'file'    => 'Šis failas negali būti didesnis nei :max kilobaitų.',

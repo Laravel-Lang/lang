@@ -44,6 +44,7 @@ return [
     'distinct'             => 'Aquest camp té un duplicat de valor.',
     'email'                => 'Aquesta ha de ser una adreça de correu vàlida.',
     'ends_with'            => 'Aquest ha d\'acabar amb una de les següents: :values.',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'El valor escollit és vàlid.',
     'file'                 => 'El contingut ha de ser un fitxer.',
     'filled'               => 'Aquest camp ha de tenir un valor.',
@@ -79,6 +80,7 @@ return [
         'numeric' => 'The value must be less than or equal :value.',
         'string'  => 'The string must be less than or equal :value characters.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'The content must not have more than :max items.',
         'file'    => 'The file size must not be greater than :max kilobytes.',

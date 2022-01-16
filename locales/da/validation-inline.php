@@ -44,6 +44,7 @@ return [
     'distinct'             => 'Dette felt har en dobbelt værdi.',
     'email'                => 'Dette skal være en gyldig e-mail-adresse.',
     'ends_with'            => 'Dette skal ende med et af følgende: :values.',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'Den valgte værdi er ugyldig.',
     'file'                 => 'Indholdet skal være en fil.',
     'filled'               => 'Dette felt skal have en værdi.',
@@ -79,6 +80,7 @@ return [
         'numeric' => 'The value must be less than or equal :value.',
         'string'  => 'The string must be less than or equal :value characters.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'The content must not have more than :max items.',
         'file'    => 'The file size must not be greater than :max kilobytes.',

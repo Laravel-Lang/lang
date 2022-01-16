@@ -44,6 +44,7 @@ return [
     'distinct'             => 'Detta fält har ett dubblettvärde.',
     'email'                => 'Detta måste vara en giltig e-postadress.',
     'ends_with'            => 'Detta måste sluta med något av följande: :values.',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'Det valda värdet är ogiltigt.',
     'file'                 => 'Innehållet måste vara en fil.',
     'filled'               => 'Detta fält måste ha ett värde.',
@@ -79,6 +80,7 @@ return [
         'numeric' => 'The value must be less than or equal :value.',
         'string'  => 'The string must be less than or equal :value characters.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'The content must not have more than :max items.',
         'file'    => 'The file size must not be greater than :max kilobytes.',

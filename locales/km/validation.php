@@ -45,6 +45,7 @@ return [
     'distinct'             => ':attribute មានតម្លៃស្ទួន។',
     'email'                => ':attribute ទម្រង់នេះមិនត្រឹមត្រូវ។',
     'ends_with'            => ':attribute ត្រូវបញ្ចប់ដោយពាក្យមួយក្នុងចំណោម :values។',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'ការជ្រើសរើស :attribute ត្រឹមត្រូវ។',
     'file'                 => ':attribute ត្រូវតែជាប្រភេទឯកសារ។',
     'filled'               => 'ទម្រង់ :attribute នេះគឺទាមទារឲ្យមាន។',
@@ -80,6 +81,7 @@ return [
         'numeric' => ':attribute ត្រូវតែតិចជាងឬស្មើ :value។',
         'string'  => ':attribute ត្រូវតែតិចជាងឬស្មើ :value តួអក្សរ។',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ':attribute មិនត្រូវច្រើនជាងធាតុនេះ :max។',
         'file'    => ':attribute មិនត្រូវធំជាង :max គីឡូបៃ។',

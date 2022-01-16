@@ -45,6 +45,7 @@ return [
     'distinct'             => 'Y :attribute maes wedi dyblyg gwerth.',
     'email'                => 'Rhaid i :attribute fod yn gyfeiriad ebost dilys.',
     'ends_with'            => 'Y :attribute rhaid i ben gydag un o\'r canlynol: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'Nid yw :attribute yn ddilys.',
     'file'                 => ':attribute rhaid iddo fod yn y ffeil.',
     'filled'               => 'Rhaid cynnwys :attribute.',
@@ -80,6 +81,7 @@ return [
         'numeric' => 'The :attribute must be less than or equal :value.',
         'string'  => 'The :attribute must be less than or equal :value characters.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Ni chai :attribute fod yn fwy na :max eitem.',
         'file'    => 'Ni chai :attribute fod yn fwy na :max kilobytes.',

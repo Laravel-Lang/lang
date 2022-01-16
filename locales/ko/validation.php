@@ -45,6 +45,7 @@ return [
     'distinct'             => ':attribute 필드에 중복된 값이 있습니다.',
     'email'                => ':attribute은(는) 유효한 이메일 주소여야 합니다.',
     'ends_with'            => ':attribute은(는) 다음 중 하나로 끝나야 합니다: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => ':attribute이(가) 존재하지 않습니다.',
     'file'                 => ':attribute은(는) 파일이어야 합니다.',
     'filled'               => ':attribute 필드는 값이 있어야 합니다.',
@@ -80,6 +81,7 @@ return [
         'numeric' => ':attribute의 값은 :value보다 같거나 작아야 합니다.',
         'string'  => ':attribute의 길이는 :value보다 같거나 짧아야 합니다.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ':attribute은(는) :max개보다 많을 수 없습니다.',
         'file'    => ':attribute은(는) :max킬로바이트보다 클 수 없습니다.',

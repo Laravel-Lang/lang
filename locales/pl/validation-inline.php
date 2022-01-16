@@ -44,6 +44,7 @@ return [
     'distinct'             => 'Pole ma zduplikowane wartości.',
     'email'                => 'Pole nie jest poprawnym adresem e-mail.',
     'ends_with'            => 'Pole musi kończyć się jedną z następujących wartości: :values.',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'Zaznaczona wartość jest nieprawidłowa.',
     'file'                 => 'Pole musi być plikiem.',
     'filled'               => 'Pole nie może być puste.',
@@ -79,6 +80,7 @@ return [
         'numeric' => 'Pole musi być mniejsze lub równe :value.',
         'string'  => 'Pole musi być krótsze lub równe :value znaków.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Pole nie może mieć więcej niż :max elementów.',
         'file'    => 'Pole nie może być większe niż :max kilobajtów.',

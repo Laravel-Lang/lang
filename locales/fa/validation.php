@@ -45,6 +45,7 @@ return [
     'distinct'             => 'فیلد :attribute مقدار تکراری دارد.',
     'email'                => ':attribute باید یک ایمیل معتبر باشد.',
     'ends_with'            => 'فیلد :attribute باید با یکی از مقادیر زیر خاتمه یابد: :values',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => ':attribute انتخاب شده، معتبر نیست.',
     'file'                 => ':attribute باید یک فایل معتبر باشد.',
     'filled'               => 'فیلد :attribute باید مقدار داشته باشد.',
@@ -80,6 +81,7 @@ return [
         'numeric' => ':attribute باید کوچکتر یا مساوی :value باشد.',
         'string'  => ':attribute باید کمتر یا مساوی :value کاراکتر داشته باشد.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ':attribute نباید بیشتر از :max آیتم داشته باشد.',
         'file'    => ':attribute نباید بزرگتر از :max کیلوبایت باشد.',

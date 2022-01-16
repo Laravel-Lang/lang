@@ -45,6 +45,7 @@ return [
     'distinct'             => 'Lo camp :attribute a un doblon.',
     'email'                => ':attribute deu èsser una adreça de corrièl valida.',
     'ends_with'            => 'Lo camp :attribute deu acabar per una de las valors seguentas : :values',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'Lo :attribute seleccionat es invalid.',
     'file'                 => 'Lo camp :attribute deu èsser un fichièr.',
     'filled'               => 'Lo camp :attribute deu aver una valor.',
@@ -80,6 +81,7 @@ return [
         'numeric' => 'La valor de :attribute deu èsser inferiora o egala a :value.',
         'string'  => 'Lo tèxt :attribute deu conténer al pus mai :value caractèrs.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Lo tablèu :attribute deu pas conténer mai de :max elements.',
         'file'    => 'La talha del fichièr :attribute deu pas èsser superior a :max kiloctets.',

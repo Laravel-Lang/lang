@@ -45,6 +45,7 @@ return [
     'distinct'             => ':attribute वेगवेगळे असावेत.',
     'email'                => ':attribute एक वैध ईमेल पत्ता असणे आवश्यक आहे.',
     'ends_with'            => ':attribute खालील एक समाप्त करणे आवश्यक आहे: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'निवडलेेलेे :attribute वैध नाही.',
     'file'                 => ':attribute एक फ़ाइल असावी.',
     'filled'               => ':attribute फील्ड आवश्यक आहे.',
@@ -80,6 +81,7 @@ return [
         'numeric' => ':attribute, :value पेक्षा कमी किंवा समान असणे आवश्यक आहे.',
         'string'  => ':attribute, :value शब्दांपेक्षा कमी किंवा समान असणे आवश्यक आहे.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ':attribute, :value संख्या पेक्षा कमी असणे आवश्यक आहे.',
         'file'    => ':attribute, :value किलोबाईट पेक्षा कमी असणे आवश्यक आहे.',

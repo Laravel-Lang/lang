@@ -45,6 +45,7 @@ return [
     'distinct'             => ':attribute کی دہری ویلیو ہے۔',
     'email'                => ':attribute لازماً قابلِ قبول ای میل ہو۔',
     'ends_with'            => 'اس :attribute ختم کرنا ضروری ہے کے ساتھ مندرجہ ذیل میں سے ایک: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'منتخب :attribute درست نہیں ہے۔',
     'file'                 => 'اس :attribute ہونا ضروری ہے ایک فائل.',
     'filled'               => ':attribute کو بھرنا ضروری ہے۔',
@@ -80,6 +81,7 @@ return [
         'numeric' => 'The :attribute must be less than or equal :value.',
         'string'  => 'The :attribute must be less than or equal :value characters.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ':attribute میں :max سے زیادہ آئٹمز نہیں ہو سکتیں۔',
         'file'    => ':attribute کو :max کلو بائٹس سے زیادہ نہیں ہونا چاہیے۔',

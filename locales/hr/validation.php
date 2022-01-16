@@ -45,6 +45,7 @@ return [
     'distinct'             => 'Polje :attribute ima dupliciranu vrijednost.',
     'email'                => 'Polje :attribute mora biti ispravna e-mail adresa.',
     'ends_with'            => ':attribute bi trebao završiti s jednim od sljedećih: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'Odabrano polje :attribute nije ispravno.',
     'file'                 => 'Polje :attribute mora biti datoteka.',
     'filled'               => 'Polje :attribute je obavezno.',
@@ -80,6 +81,7 @@ return [
         'numeric' => 'Polje :attribute mora biti manje ili jednako :value.',
         'string'  => 'Polje :attribute mora biti manje ili jednako :value znakova.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Polje :attribute ne smije imati više od :max stavki.',
         'file'    => 'Polje :attribute mora biti manje od :max kilobajta.',

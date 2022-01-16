@@ -45,6 +45,7 @@ return [
     'distinct'             => ':Attribute талбарт ялгаатай утга оруулах шаардлагатай.',
     'email'                => ':Attribute талбарт зөв и-мэйл хаяг оруулах шаардлагатай.',
     'ends_with'            => ':attribute дараах аль нэгийг нь дуусгах естой: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'Сонгогдсон :attribute буруу байна.',
     'file'                 => ':Attribute талбарт файл оруулах шаардлагатай.',
     'filled'               => ':Attribute талбар шаардлагатай.',
@@ -80,6 +81,7 @@ return [
         'numeric' => 'The :attribute must be less than or equal :value.',
         'string'  => 'The :attribute must be less than or equal :value characters.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ':Attribute талбарт хамгийн ихдээ :max элемэнт оруулах боломжтой.',
         'file'    => ':Attribute талбарт :max килобайтаас бага хэмжээтэй файл оруулна уу.',

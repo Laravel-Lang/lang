@@ -45,6 +45,7 @@ return [
     'distinct'             => 'May duplicate na value ang field na :attribute.',
     'email'                => 'Dapat na valid na email address ang :attribute.',
     'ends_with'            => 'The :attribute must end with one of the following: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'Hindi valid ang piniling :attribute.',
     'file'                 => 'Dapat na isang file ang :attribute.',
     'filled'               => 'Dapat na may value ang field na :attribute.',
@@ -80,6 +81,7 @@ return [
         'numeric' => 'Ang :attribute ay dapat na mas mababa sa o katumbas ng :value.',
         'string'  => 'Ang :attribute ay dapat na mas mababa sa o katumbas ng :value (na) character.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Hindi dapat magkaroon ang :attribute ng mahigit sa :max (na) item.',
         'file'    => 'Ang :attribute ay hindi dapat mas malaki sa :max (na) kilobyte.',

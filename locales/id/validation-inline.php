@@ -44,6 +44,7 @@ return [
     'distinct'             => 'Isian ini memiliki nilai duplikat.',
     'email'                => 'Isian ini harus berisi format email yang benar.',
     'ends_with'            => 'Isian ini harus berakhiran dengan: :values.',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'Nilai yang dipilih tidak sesuai.',
     'file'                 => 'Konten harus berisi sebuah berkas.',
     'filled'               => 'Isian ini harus berisi sebuah nilai.',
@@ -79,6 +80,7 @@ return [
         'numeric' => 'Nilai harus berisi kurang dari atau setara :value.',
         'string'  => 'String harus berisi kurang dari atau setara :value karakter.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Panjang array tidak boleh lebih dari :max item.',
         'file'    => 'Ukuran konten tidak boleh lebih besar dari :max kilobyte.',

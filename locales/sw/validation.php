@@ -45,6 +45,7 @@ return [
     'distinct'             => 'Sehemu ya kipengele ina thamani rudufu.',
     'email'                => 'Kipengele lazima kiwe anuani halali ya barua pepe.',
     'ends_with'            => 'Ya :attribute lazima mwisho na moja ya yafuatayo: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'Kipengele kilichochaguliwa si halali.',
     'file'                 => ':attribute linapaswa kuwa faili.',
     'filled'               => 'Sehemu ya kipengele inahitajika.',
@@ -80,6 +81,7 @@ return [
         'numeric' => ':attribute inapaswa kuwa ndogo kuliko au sawa na :value.',
         'string'  => ':attribute inapaswa kuwa ndogo au sawa na herufi :value.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Kipengele huenda kisiwe na zaidi ya :max cha vifungu.',
         'file'    => 'Kipengele huenda si kikubwa kuliko :max cha kilobaiti.',

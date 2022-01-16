@@ -45,6 +45,7 @@ return [
     'distinct'             => ':attribute এর স্থানে একটি নকল মান আছে।',
     'email'                => ':attribute একটি বৈধ ইমেইল ঠিকানা হতে হবে।',
     'ends_with'            => ':attribute নিম্নলিখিত এক সঙ্গে শেষ করতে হবে: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'নির্বাচিত :attribute টি অবৈধ।',
     'file'                 => ':attribute একটি ফাইল হতে হবে।',
     'filled'               => ':attribute স্থানটি পূরণ করতে হবে।',
@@ -80,6 +81,7 @@ return [
         'numeric' => 'The :attribute must be less than or equal :value.',
         'string'  => 'The :attribute must be less than or equal :value characters.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ':attribute এর মান :max টি উপাদানের চেয়ে বড় হতে পারেনা।',
         'file'    => ':attribute এর মান :max কিলোবাইট এর চেয়ে বড় হতে পারেনা।',

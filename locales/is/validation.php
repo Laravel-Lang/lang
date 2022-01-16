@@ -45,6 +45,7 @@ return [
     'distinct'             => ':attribute reiturinn hefur tvítekið gildi.',
     'email'                => 'Reiturinn :attribute snið netfangsins er ekki rétt.',
     'ends_with'            => 'Við :attribute verður að enda með eftirfarandi: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'Reiturinn :attribute er nú þegar til.',
     'file'                 => ':attribute verður að vera skrá.',
     'filled'               => 'Reiturinn :attribute verður að innihalda eitthvað.',
@@ -80,6 +81,7 @@ return [
         'numeric' => ':attribute verður að vera minna en eða jafnt :value.',
         'string'  => ':attribute verður að vera styttri eða jafnlangur og :value stafir.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Reiturinn :attribute verður að innihalda færri en :max stök.',
         'file'    => 'Reiturinn :attribute verður að vera minni en :max kílóbæt.',

@@ -44,6 +44,7 @@ return [
     'distinct'             => '已經存在。',
     'email'                => '必須是有效的 E-mail。',
     'ends_with'            => '結尾必須包含下列之一：:values。',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => '不存在。',
     'file'                 => '必須是有效的檔案。',
     'filled'               => '不能留空。',
@@ -79,6 +80,7 @@ return [
         'numeric' => '必須小於或等於 :value。',
         'string'  => '必須少於或等於 :value 個字元。',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => '最多有 :max 個元素。',
         'file'    => '不能大於 :max KB。',

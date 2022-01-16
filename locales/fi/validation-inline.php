@@ -44,6 +44,7 @@ return [
     'distinct'             => 'Tällä kentällä on kaksoisarvo.',
     'email'                => 'Tämän on oltava voimassa oleva sähköpostiosoite.',
     'ends_with'            => 'Tämän on päätyttävä johonkin seuraavista: :values.',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'Valittu arvo on virheellinen.',
     'file'                 => 'Sisällön on oltava tiedosto.',
     'filled'               => 'Tällä kentällä täytyy olla arvo.',
@@ -79,6 +80,7 @@ return [
         'numeric' => 'Arvo ei saa olla suurempaa kuin :value.',
         'string'  => 'Merkkijono ei saa olla pidempi kuin :value merkkiä.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Sisältö ei voi sisältää enempää kuin :max kohdetta.',
         'file'    => 'Tiedoston koko ei saa ylittää :max kilotavua.',

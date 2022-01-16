@@ -45,6 +45,7 @@ return [
     'distinct'             => ':attribute फील्ड का एक डुप्लिकेट मान होता है।',
     'email'                => ':attribute एक मान्य ईमेल पता होना चाहिए।',
     'ends_with'            => ':attribute को निम्नलिखित में से एक के साथ समाप्त होना चाहिए: :values । ',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'चुना गया :attribute अमान्य है।',
     'file'                 => ':attribute एक फ़ाइल होनी चाहिए।',
     'filled'               => ':attribute फील्ड आवश्यक होता है।',
@@ -80,6 +81,7 @@ return [
         'numeric' => 'The :attribute must be less than or equal :value.',
         'string'  => 'The :attribute must be less than or equal :value characters.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ':attribute, :max आइटमों से अधिक नहीं हो सकता है।',
         'file'    => ':attribute :max किलोबाइट से बड़ा नहीं हो सकता है।',

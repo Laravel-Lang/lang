@@ -45,6 +45,7 @@ return [
     'distinct'             => 'د ساحې څخه :attribute د نقل ارزښت .',
     'email'                => 'دا باید وي :attribute یو باوري بریښلیک پته جوړښت.',
     'ends_with'            => 'The :attribute must end with one of the following: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'مشخص ارزښت :attribute شتون نلري.',
     'file'                 => 'د :attribute دا باید یوه فایل وي.',
     'filled'               => ':attribute لازمه ده.',
@@ -80,6 +81,7 @@ return [
         'numeric' => 'دا باید ارزښت وي :attribute نسبت برابر یا کوچنی :value.',
         'string'  => 'د متن اوږدوالی باید له زیاتوالی نه وي:attribute :value توري/توري.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => 'دا باید شامل نه وي :attribute له زیاتو څخه :max عناصر/عنصر.',
         'file'    => 'د دوتنې اندازه باید له حد نه زیاته وي :attribute :max كيلوبايت.',

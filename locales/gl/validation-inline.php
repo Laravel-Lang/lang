@@ -44,6 +44,7 @@ return [
     'distinct'             => 'Neste campo ten un dobre valor.',
     'email'                => 'Este debe ser un enderezo de correo electrónico válido.',
     'ends_with'            => 'Este debe acabar con un dos seguintes: :values instrucións.',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'O valor seleccionado é válido.',
     'file'                 => 'O contido debe ser un arquivo.',
     'filled'               => 'Este campo debe ter un valor.',
@@ -79,6 +80,7 @@ return [
         'numeric' => 'The value must be less than or equal :value.',
         'string'  => 'The string must be less than or equal :value characters.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'The content must not have more than :max items.',
         'file'    => 'The file size must not be greater than :max kilobytes.',

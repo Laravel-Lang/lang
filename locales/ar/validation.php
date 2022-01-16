@@ -45,6 +45,7 @@ return [
     'distinct'             => 'للحقل :attribute قيمة مُكرّرة.',
     'email'                => 'يجب أن يكون حقل :attribute عنوان بريد إلكتروني صحيح البُنية.',
     'ends_with'            => 'يجب أن ينتهي حقل :attribute بأحد القيم التالية: :values',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'القيمة المحددة :attribute غير موجودة.',
     'file'                 => 'الحقل :attribute يجب أن يكون ملفا.',
     'filled'               => 'حقل :attribute إجباري.',
@@ -80,6 +81,7 @@ return [
         'numeric' => 'يجب أن تكون قيمة حقل :attribute مساوية أو أصغر من :value.',
         'string'  => 'يجب أن لا يتجاوز طول نّص حقل :attribute :value حروفٍ/حرفًا.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => 'يجب أن لا يحتوي حقل :attribute على أكثر من :max عناصر/عنصر.',
         'file'    => 'يجب أن لا يتجاوز حجم ملف حقل :attribute :max كيلوبايت.',

@@ -45,6 +45,7 @@ return [
     'distinct'             => 'Το πεδίο :attribute περιέχει δύο φορές την ίδια τιμή.',
     'email'                => 'Το πεδίο :attribute πρέπει να είναι μία έγκυρη διεύθυνση email.',
     'ends_with'            => 'Το πεδίο :attribute πρέπει να τελειώνει με ένα από τα παρακάτω: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'Το επιλεγμένο :attribute δεν είναι έγκυρο.',
     'file'                 => 'Το πεδίο :attribute πρέπει να είναι αρχείο.',
     'filled'               => 'To πεδίο :attribute είναι απαραίτητο.',
@@ -80,6 +81,7 @@ return [
         'numeric' => 'To πεδίο :attribute πρέπει να είναι μικρότερo ή ίσο από :value.',
         'string'  => 'To πεδίο :attribute πρέπει να είναι μικρότερo ή ίσο από  :value χαρακτήρες.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Το πεδίο :attribute δεν μπορεί να έχει περισσότερα από :max αντικείμενα.',
         'file'    => 'Το πεδίο :attribute δεν μπορεί να είναι μεγαλύτερό :max kilobytes.',

@@ -45,6 +45,7 @@ return [
     'distinct'             => 'Поље :attribute има дуплирану вредност.',
     'email'                => 'Формат поља :attribute није валидан.',
     'ends_with'            => 'Поље :attribute мора да се заврши са нечим од следећег: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'Одабрано поље :attribute није валидно.',
     'file'                 => ':attribute мора да буде датотека.',
     'filled'               => 'Поље :attribute је обавезно.',
@@ -80,6 +81,7 @@ return [
         'numeric' => 'Поље :attribute мора да буде :value или мањи.',
         'string'  => 'Поље :attribute мора да садржи :value или мање знакова.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Поље :attribute не смије да имаге више од :max ставки.',
         'file'    => 'Поље :attribute мора бити мање од :max килобајта.',

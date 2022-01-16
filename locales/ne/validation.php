@@ -45,6 +45,7 @@ return [
     'distinct'             => ':attribute फिल्ड फिल्डको नक्कल मान छ',
     'email'                => ':attribute को इमेल ठेगाना मिलेन।',
     'ends_with'            => ':attribute निम्न मध्ये एकको साथ विशेषता अन्त हुनुपर्दछ :values',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'छानिएको :attribute अमान्य छ।',
     'file'                 => ':attribute एक फाईल हुनुपर्दछ।',
     'filled'               => ':attribute दिइएको हुनुपर्छ।',
@@ -80,6 +81,7 @@ return [
         'numeric' => ' :attribute :value भन्दा बढि हुनुपर्दछ।',
         'string'  => ' :attribute :value क्यारेक्टर भन्दा बढि हुनुपर्दछ।',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ' :attribute मा :max आईटमहरू भन्दा बढि हुनुपर्दछ।',
         'file'    => ' :attribute :max क्यालोबाइट भन्दा बढि हुनुपर्दछ।',

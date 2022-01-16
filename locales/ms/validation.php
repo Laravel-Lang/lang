@@ -45,6 +45,7 @@ return [
     'distinct'             => ':attribute adalah nilai yang berulang',
     'email'                => ':attribute tidak sah.',
     'ends_with'            => ':attribute mesti berakhir dengan salah satu dari: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => ':attribute tidak sah.',
     'file'                 => ':attribute mesti fail yang sah.',
     'filled'               => ':attribute diperlukan.',
@@ -80,6 +81,7 @@ return [
         'numeric' => ':attribute mesti kurang daripada atau bersamaan dengan :value.',
         'string'  => ':attribute mesti kurang daripada atau bersamaan dengan :value aksara.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Jumlah :attribute mesti tidak melebihi :max perkara.',
         'file'    => 'Jumlah :attribute mesti tidak melebihi :max kilobait.',

@@ -45,6 +45,7 @@ return [
     'distinct'             => ':attribute ka një vlerë të përsëritur.',
     'email'                => ':attribute formati është i pasaktë.',
     'ends_with'            => ':attribute duhet të përfundojë me një nga vlerat: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => ':attribute përzgjedhur është i/e pasaktë.',
     'file'                 => ':attribute duhet të jetë një fajll.',
     'filled'               => 'Fusha :attribute është e kërkuar.',
@@ -80,6 +81,7 @@ return [
         'numeric' => ':attribute duhet të jetë më i/e vogël ose i/e barabartë me :value.',
         'string'  => ':attribute duhet të ketë :value ose më pak karaktere.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ':attribute nuk mund të ketë më tepër se :max elemente.',
         'file'    => ':attribute nuk mund të jetë më tepër se :max kilobajtë.',

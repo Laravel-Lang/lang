@@ -44,6 +44,7 @@ return [
     'distinct'             => 'Bu maydon dublikat qiymatiga ega.',
     'email'                => 'Bu amal elektron pochta manzili bo\'lishi kerak.',
     'ends_with'            => 'Bu quyidagilardan biri bilan yakun kerak: :values.',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'Tanlangan qiymat haqiqiy emas.',
     'file'                 => 'Kontent fayl bo\'lishi kerak.',
     'filled'               => 'Bu maydon qiymatga ega bo\'lishi kerak.',
@@ -79,6 +80,7 @@ return [
         'numeric' => 'The value must be less than or equal :value.',
         'string'  => 'The string must be less than or equal :value characters.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'The content must not have more than :max items.',
         'file'    => 'The file size must not be greater than :max kilobytes.',

@@ -45,6 +45,7 @@ return [
     'distinct'             => ':Attribute innehåller fler än en repetition av samma element.',
     'email'                => ':Attribute måste innehålla en korrekt e-postadress.',
     'ends_with'            => ':Attribute måste sluta med en av följande: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => ':Attribute är ogiltigt.',
     'file'                 => ':Attribute måste vara en fil.',
     'filled'               => ':Attribute är obligatoriskt.',
@@ -80,6 +81,7 @@ return [
         'numeric' => ':Attribute måste vara lika med eller mindre än :value.',
         'string'  => ':Attribute måste vara lika med eller kortare än :value tecken.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ':Attribute får inte innehålla mer än :max objekt.',
         'file'    => ':Attribute får max vara :max kilobyte stor.',

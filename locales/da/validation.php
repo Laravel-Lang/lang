@@ -45,6 +45,7 @@ return [
     'distinct'             => ':attribute har en duplikatværdi.',
     'email'                => ':attribute skal være en gyldig e-mailadresse.',
     'ends_with'            => ':attribute skal ende med et af følgende: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'Valgte :attribute er ugyldig.',
     'file'                 => ':attribute skal være en fil.',
     'filled'               => ':attribute skal udfyldes.',
@@ -80,6 +81,7 @@ return [
         'numeric' => ':attribute skal være mindre eller lig med :value.',
         'string'  => ':attribute skal være mindre eller lig med :value tegn.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ':attribute må ikke indeholde mere end :max elementer.',
         'file'    => ':attribute må ikke være større end :max kilobytes.',

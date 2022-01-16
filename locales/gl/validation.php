@@ -45,6 +45,7 @@ return [
     'distinct'             => 'O campo :attribute contén un valor duplicado.',
     'email'                => ':attribute debe ser unha dirección de correo electrónico válida.',
     'ends_with'            => ':attribute debe finalizar cun dos seguintes valores: :values',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => ':attribute seleccionado non é válido.',
     'file'                 => ':attribute debe ser un arquivo.',
     'filled'               => 'O campo :attribute debe ter un valor.',
@@ -80,6 +81,7 @@ return [
         'numeric' => ':attribute debe ser como máximo :value.',
         'string'  => ':attribute debe ter como máximo :value caracteres.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ':attribute non debe ter máis de :max elementos.',
         'file'    => ':attribute non debe ser maior de :max quilobites.',

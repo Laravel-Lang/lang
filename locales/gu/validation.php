@@ -45,6 +45,7 @@ return [
     'distinct'             => ':attribute પ્રવૃત્તિ ક્ષેત્રનું નકલી મૂલ્ય છે.',
     'email'                => ':attribute માન્ય ઈમેઈલ એડ્રેસ હોવું જોઈએ.',
     'ends_with'            => ':attribute નીચેમાંથી એક પ્રમાણે પૂરું થતું હોવું જોઈએ :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'પસંદ કરાયેલ :attribute અમાન્ય છે.',
     'file'                 => ':attribute એક ફાઈલ હોવી જોઈએ.',
     'filled'               => ':attribute પ્રવૃત્તિ ક્ષેત્રનું મૂલ્ય હોવું જોઈએ.',
@@ -80,6 +81,7 @@ return [
         'numeric' => ':attribute ઓછું કે સમાંતર હોવું જોઈએ :value.',
         'string'  => ':attribute ઓછું કે સમાંતર હોવું જોઈએ :value અક્ષરો.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ':attribute ના કરતાં વધુ ન હોઈ શકે :max વસ્તુઓ.',
         'file'    => ':attribute મોટું ન હોઈ શકે :max કિલો બાઇટ્સ.',

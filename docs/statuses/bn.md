@@ -2,478 +2,26 @@
 
 # bn
 
-##### All missed: 185
+##### All missed: 101
 
-
-### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/master/locales/bn/validation-attributes.php)
-
-##### Missing: 34
-
-<table >
-<tr><td align="left" >
-attributes.address
-</td>
-<td align="left" >
-Address
-</td>
-</tr>
-<tr><td align="left" >
-attributes.age
-</td>
-<td align="left" >
-Age
-</td>
-</tr>
-<tr><td align="left" >
-attributes.body
-</td>
-<td align="left" >
-Body
-</td>
-</tr>
-<tr><td align="left" >
-attributes.city
-</td>
-<td align="left" >
-City
-</td>
-</tr>
-<tr><td align="left" >
-attributes.content
-</td>
-<td align="left" >
-Content
-</td>
-</tr>
-<tr><td align="left" >
-attributes.country
-</td>
-<td align="left" >
-Country
-</td>
-</tr>
-<tr><td align="left" >
-attributes.date
-</td>
-<td align="left" >
-Date
-</td>
-</tr>
-<tr><td align="left" >
-attributes.day
-</td>
-<td align="left" >
-Day
-</td>
-</tr>
-<tr><td align="left" >
-attributes.description
-</td>
-<td align="left" >
-Description
-</td>
-</tr>
-<tr><td align="left" >
-attributes.email
-</td>
-<td align="left" >
-Email
-</td>
-</tr>
-<tr><td align="left" >
-attributes.excerpt
-</td>
-<td align="left" >
-Excerpt
-</td>
-</tr>
-<tr><td align="left" >
-attributes.first_name
-</td>
-<td align="left" >
-First Name
-</td>
-</tr>
-<tr><td align="left" >
-attributes.gender
-</td>
-<td align="left" >
-Gender
-</td>
-</tr>
-<tr><td align="left" >
-attributes.hour
-</td>
-<td align="left" >
-Hour
-</td>
-</tr>
-<tr><td align="left" >
-attributes.last_name
-</td>
-<td align="left" >
-Last Name
-</td>
-</tr>
-<tr><td align="left" >
-attributes.message
-</td>
-<td align="left" >
-Message
-</td>
-</tr>
-<tr><td align="left" >
-attributes.minute
-</td>
-<td align="left" >
-Minute
-</td>
-</tr>
-<tr><td align="left" >
-attributes.mobile
-</td>
-<td align="left" >
-Mobile
-</td>
-</tr>
-<tr><td align="left" >
-attributes.month
-</td>
-<td align="left" >
-Month
-</td>
-</tr>
-<tr><td align="left" >
-attributes.name
-</td>
-<td align="left" >
-Name
-</td>
-</tr>
-<tr><td align="left" >
-attributes.password
-</td>
-<td align="left" >
-Password
-</td>
-</tr>
-<tr><td align="left" >
-attributes.password_confirmation
-</td>
-<td align="left" >
-Password Confirmation
-</td>
-</tr>
-<tr><td align="left" >
-attributes.phone
-</td>
-<td align="left" >
-Phone
-</td>
-</tr>
-<tr><td align="left" >
-attributes.photo
-</td>
-<td align="left" >
-Photo
-</td>
-</tr>
-<tr><td align="left" >
-attributes.price
-</td>
-<td align="left" >
-Price
-</td>
-</tr>
-<tr><td align="left" >
-attributes.role
-</td>
-<td align="left" >
-Role
-</td>
-</tr>
-<tr><td align="left" >
-attributes.second
-</td>
-<td align="left" >
-Second
-</td>
-</tr>
-<tr><td align="left" >
-attributes.sex
-</td>
-<td align="left" >
-Sex
-</td>
-</tr>
-<tr><td align="left" >
-attributes.subject
-</td>
-<td align="left" >
-Subject
-</td>
-</tr>
-<tr><td align="left" >
-attributes.terms
-</td>
-<td align="left" >
-Terms
-</td>
-</tr>
-<tr><td align="left" >
-attributes.time
-</td>
-<td align="left" >
-Time
-</td>
-</tr>
-<tr><td align="left" >
-attributes.title
-</td>
-<td align="left" >
-Title
-</td>
-</tr>
-<tr><td align="left" >
-attributes.username
-</td>
-<td align="left" >
-Username
-</td>
-</tr>
-<tr><td align="left" >
-attributes.year
-</td>
-<td align="left" >
-Year
-</td>
-</tr>
-
-</table>
-
-
-[ [go back](../status.md) | [to top](#) ]
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/bn/validation-inline.php)
 
-##### Missing: 31
+##### Missing: 2
 
 <table >
 <tr><td align="left" >
-accepted_if
+enum
 </td>
 <td align="left" >
-This field must be accepted when :other is :value.
+The selected value is invalid.
 </td>
 </tr>
 <tr><td align="left" >
-between.array
+mac_address
 </td>
 <td align="left" >
-This content must have between :min and :max items.
-</td>
-</tr>
-<tr><td align="left" >
-between.file
-</td>
-<td align="left" >
-This file must be between :min and :max kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-between.numeric
-</td>
-<td align="left" >
-This value must be between :min and :max.
-</td>
-</tr>
-<tr><td align="left" >
-between.string
-</td>
-<td align="left" >
-This string must be between :min and :max characters.
-</td>
-</tr>
-<tr><td align="left" >
-current_password
-</td>
-<td align="left" >
-The password is incorrect.
-</td>
-</tr>
-<tr><td align="left" >
-declined
-</td>
-<td align="left" >
-This value must be declined.
-</td>
-</tr>
-<tr><td align="left" >
-declined_if
-</td>
-<td align="left" >
-This value must be declined when :other is :value.
-</td>
-</tr>
-<tr><td align="left" >
-gt.array
-</td>
-<td align="left" >
-The content must have more than :value items.
-</td>
-</tr>
-<tr><td align="left" >
-gt.file
-</td>
-<td align="left" >
-The file size must be greater than :value kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-gt.numeric
-</td>
-<td align="left" >
-The value must be greater than :value.
-</td>
-</tr>
-<tr><td align="left" >
-gt.string
-</td>
-<td align="left" >
-The string must be greater than :value characters.
-</td>
-</tr>
-<tr><td align="left" >
-gte.array
-</td>
-<td align="left" >
-The content must have :value items or more.
-</td>
-</tr>
-<tr><td align="left" >
-lt.array
-</td>
-<td align="left" >
-The content must have less than :value items.
-</td>
-</tr>
-<tr><td align="left" >
-lt.file
-</td>
-<td align="left" >
-The file size must be less than :value kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-lt.numeric
-</td>
-<td align="left" >
-The value must be less than :value.
-</td>
-</tr>
-<tr><td align="left" >
-lt.string
-</td>
-<td align="left" >
-The string must be less than :value characters.
-</td>
-</tr>
-<tr><td align="left" >
-lte.array
-</td>
-<td align="left" >
-The content must not have more than :value items.
-</td>
-</tr>
-<tr><td align="left" >
-max.array
-</td>
-<td align="left" >
-The content may not have more than :max items.
-</td>
-</tr>
-<tr><td align="left" >
-max.file
-</td>
-<td align="left" >
-The file size may not be greater than :max kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-max.numeric
-</td>
-<td align="left" >
-The value may not be greater than :max.
-</td>
-</tr>
-<tr><td align="left" >
-max.string
-</td>
-<td align="left" >
-The string may not be greater than :max characters.
-</td>
-</tr>
-<tr><td align="left" >
-min.array
-</td>
-<td align="left" >
-The value must have at least :min items.
-</td>
-</tr>
-<tr><td align="left" >
-min.file
-</td>
-<td align="left" >
-The file size must be at least :min kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-min.numeric
-</td>
-<td align="left" >
-The value must be at least :min.
-</td>
-</tr>
-<tr><td align="left" >
-min.string
-</td>
-<td align="left" >
-The string must be at least :min characters.
-</td>
-</tr>
-<tr><td align="left" >
-prohibits
-</td>
-<td align="left" >
-This field prohibits :other from being present.
-</td>
-</tr>
-<tr><td align="left" >
-size.array
-</td>
-<td align="left" >
-The content must contain :size items.
-</td>
-</tr>
-<tr><td align="left" >
-size.file
-</td>
-<td align="left" >
-The file size must be :size kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-size.numeric
-</td>
-<td align="left" >
-The value must be :size.
-</td>
-</tr>
-<tr><td align="left" >
-size.string
-</td>
-<td align="left" >
-The string must be :size characters.
+The value must be a valid MAC address.
 </td>
 </tr>
 
@@ -484,16 +32,9 @@ The string must be :size characters.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/bn/validation.php)
 
-##### Missing: 15
+##### Missing: 16
 
 <table >
-<tr><td align="left" >
-accepted_if
-</td>
-<td align="left" >
-The :attribute must be accepted when :other is :value.
-</td>
-</tr>
 <tr><td align="left" >
 current_password
 </td>
@@ -513,6 +54,13 @@ declined_if
 </td>
 <td align="left" >
 The :attribute must be declined when :other is :value.
+</td>
+</tr>
+<tr><td align="left" >
+enum
+</td>
+<td align="left" >
+The selected :attribute is invalid.
 </td>
 </tr>
 <tr><td align="left" >
@@ -586,6 +134,13 @@ The :attribute must not have more than :value items.
 </td>
 </tr>
 <tr><td align="left" >
+mac_address
+</td>
+<td align="left" >
+The :attribute must be a valid MAC address.
+</td>
+</tr>
+<tr><td align="left" >
 prohibits
 </td>
 <td align="left" >
@@ -600,15 +155,15 @@ The :attribute field prohibits :other from being present.
 
 ### [bn](https://github.com/Laravel-Lang/lang/blob/master/locales/bn/bn.json)
 
-##### Missing: 105
+##### Missing: 83
 
 <table >
 <tr><td align="left" >
-Apply
+A fresh verification link has been sent to your email address.
 </td>
 </tr>
 <tr><td align="left" >
-Apply Coupon
+Before proceeding, please check your email for a verification link.
 </td>
 </tr>
 <tr><td align="left" >
@@ -620,15 +175,11 @@ Bosnia and Herzegovina
 </td>
 </tr>
 <tr><td align="left" >
-Cancel Subscription
-</td>
-</tr>
-<tr><td align="left" >
-Change Subscription Plan
-</td>
-</tr>
-<tr><td align="left" >
 City
+</td>
+</tr>
+<tr><td align="left" >
+click here to request another
 </td>
 </tr>
 <tr><td align="left" >
@@ -640,19 +191,11 @@ Coupon
 </td>
 </tr>
 <tr><td align="left" >
-Current Subscription Plan
-</td>
-</tr>
-<tr><td align="left" >
-Currently Subscribed
-</td>
-</tr>
-<tr><td align="left" >
-Côte d'Ivoire
-</td>
-</tr>
-<tr><td align="left" >
 Download Receipt
+</td>
+</tr>
+<tr><td align="left" >
+E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >
@@ -668,7 +211,7 @@ Extra Billing Information
 </td>
 </tr>
 <tr><td align="left" >
-Have a coupon code?
+Failed to load :resource!
 </td>
 </tr>
 <tr><td align="left" >
@@ -676,11 +219,7 @@ Having second thoughts about cancelling your subscription? You can instantly rea
 </td>
 </tr>
 <tr><td align="left" >
-Heard Island and McDonald Islands
-</td>
-</tr>
-<tr><td align="left" >
-I accept the terms of service
+If you did not receive the email
 </td>
 </tr>
 <tr><td align="left" >
@@ -693,23 +232,7 @@ into your web browser:
 </td>
 </tr>
 <tr><td align="left" >
-Iran, Islamic Republic of
-</td>
-</tr>
-<tr><td align="left" >
 Isle of Man
-</td>
-</tr>
-<tr><td align="left" >
-It looks like you do not have an active subscription. You may choose one of the subscription plans below to get started. Subscription plans may be changed or cancelled at your convenience.
-</td>
-</tr>
-<tr><td align="left" >
-Jane Doe
-</td>
-</tr>
-<tr><td align="left" >
-Korea, Republic of
 </td>
 </tr>
 <tr><td align="left" >
@@ -721,43 +244,11 @@ Managing billing for :billableName
 </td>
 </tr>
 <tr><td align="left" >
-Micronesia, Federated States of
-</td>
-</tr>
-<tr><td align="left" >
-Moldova, Republic of
-</td>
-</tr>
-<tr><td align="left" >
-Monthly
-</td>
-</tr>
-<tr><td align="left" >
-monthly
-</td>
-</tr>
-<tr><td align="left" >
-Netherlands Antilles
-</td>
-</tr>
-<tr><td align="left" >
-Nevermind, I'll keep my old plan
-</td>
-</tr>
-<tr><td align="left" >
 Our billing management portal allows you to conveniently manage your subscription plan, payment method, and download your recent invoices.
 </td>
 </tr>
 <tr><td align="left" >
-Payment Information
-</td>
-</tr>
-<tr><td align="left" >
-Payment Method
-</td>
-</tr>
-<tr><td align="left" >
-Please accept the terms of service.
+Please confirm your password before continuing.
 </td>
 </tr>
 <tr><td align="left" >
@@ -765,39 +256,7 @@ Please provide a maximum of three receipt emails addresses.
 </td>
 </tr>
 <tr><td align="left" >
-Receipt Email Addresses
-</td>
-</tr>
-<tr><td align="left" >
-Receipts
-</td>
-</tr>
-<tr><td align="left" >
-Resume Subscription
-</td>
-</tr>
-<tr><td align="left" >
-Return to :appName
-</td>
-</tr>
-<tr><td align="left" >
 Réunion
-</td>
-</tr>
-<tr><td align="left" >
-Saint Barthélemy
-</td>
-</tr>
-<tr><td align="left" >
-Saint Kitts and Nevis
-</td>
-</tr>
-<tr><td align="left" >
-Saint Martin (French part)
-</td>
-</tr>
-<tr><td align="left" >
-Saint Pierre and Miquelon
 </td>
 </tr>
 <tr><td align="left" >
@@ -957,6 +416,10 @@ Venezuela, Bolivarian Republic of
 </td>
 </tr>
 <tr><td align="left" >
+Verify Your Email Address
+</td>
+</tr>
+<tr><td align="left" >
 View Receipt
 </td>
 </tr>
@@ -986,6 +449,10 @@ You are already subscribed.
 </tr>
 <tr><td align="left" >
 You are currently within your free trial period. Your trial will expire on :date.
+</td>
+</tr>
+<tr><td align="left" >
+You are logged in!
 </td>
 </tr>
 <tr><td align="left" >

@@ -2,49 +2,14 @@
 
 # fa
 
-##### All missed: 130
+##### All missed: 120
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/fa/validation-inline.php)
 
-##### Missing: 8
+##### Missing: 3
 
 <table >
-<tr><td align="left" >
-accepted_if
-</td>
-<td align="left" >
-This field must be accepted when :other is :value.
-</td>
-</tr>
-<tr><td align="left" >
-declined
-</td>
-<td align="left" >
-This value must be declined.
-</td>
-</tr>
-<tr><td align="left" >
-declined_if
-</td>
-<td align="left" >
-This value must be declined when :other is :value.
-</td>
-</tr>
-<tr><td align="left" >
-enum
-</td>
-<td align="left" >
-The selected value is invalid.
-</td>
-</tr>
-<tr><td align="left" >
-mac_address
-</td>
-<td align="left" >
-The value must be a valid MAC address.
-</td>
-</tr>
 <tr><td align="left" >
 prohibited_if
 </td>
@@ -64,49 +29,6 @@ prohibits
 </td>
 <td align="left" >
 This field prohibits :other from being present.
-</td>
-</tr>
-
-</table>
-
-
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation-nova-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/fa/validation-nova-inline.php)
-
-##### Missing: 1
-
-<table >
-<tr><td align="left" >
-relatable
-</td>
-<td align="left" >
-This field may not be associated with this resource.
-</td>
-</tr>
-
-</table>
-
-
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation-nova](https://github.com/Laravel-Lang/lang/blob/master/locales/fa/validation-nova.php)
-
-##### Missing: 2
-
-<table >
-<tr><td align="left" >
-attached
-</td>
-<td align="left" >
-This :attribute is already attached.
-</td>
-</tr>
-<tr><td align="left" >
-relatable
-</td>
-<td align="left" >
-This :attribute may not be associated with this resource.
 </td>
 </tr>
 
@@ -170,7 +92,7 @@ The :attribute field prohibits :other from being present.
 
 ### [fa](https://github.com/Laravel-Lang/lang/blob/master/locales/fa/fa.json)
 
-##### Missing: 113
+##### Missing: 111
 
 <table >
 <tr><td align="left" >
@@ -298,10 +220,6 @@ Receipt Email Addresses
 </td>
 </tr>
 <tr><td align="left" >
-Restore
-</td>
-</tr>
-<tr><td align="left" >
 Restore Resource
 </td>
 </tr>
@@ -311,10 +229,6 @@ Restore Selected
 </tr>
 <tr><td align="left" >
 Resume Subscription
-</td>
-</tr>
-<tr><td align="left" >
-Romania
 </td>
 </tr>
 <tr><td align="left" >

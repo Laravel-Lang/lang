@@ -12,6 +12,6 @@
 */
 
 return [
-    'attached'  => 'This :attribute is already attached.',
-    'relatable' => 'This :attribute may not be associated with this resource.',
+    'attached'  => 'این :attribute قبلاً پیوست شده است.',
+    'relatable' => 'این ویژگی :attribute ممکن است با این منبع مرتبط نباشد.',
 ];

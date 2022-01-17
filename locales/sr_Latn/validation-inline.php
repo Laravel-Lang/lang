@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Ovo polje može sadržati samo slova, brojeve i povlake.',
     'alpha_num'            => 'Ovo polje može sadržati samo slova i brojeve.',
     'array'                => 'Ovo polje mora sadržati nekih niz stavki.',
-    'attached'             => 'Ово поље је већ причвршћено.',
     'before'               => 'Ovo mora biti datum pre :date.',
     'before_or_equal'      => 'Ovo mora biti :date ili raniji datum.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => 'Ovo polje ima dupliranu vrednost.',
     'email'                => 'Email mora da bude validan.',
     'ends_with'            => 'Polje mora da se završi sa nečim od sledećeg: :values.',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'Selektovana vrednost nije validna.',
     'file'                 => 'Datoteka mora da bude fajl.',
     'filled'               => 'Polje je obavezno.',
@@ -80,6 +80,7 @@ return [
         'numeric' => 'Vrednost mora biti manja ili jednaka od :value.',
         'string'  => 'Rečenica mora sadrati manje od jednak :value slova.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Niz ne sme imati više od :max stavki.',
         'file'    => 'Veličina fajla ne sme biti veća od :max kilobajta.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => 'Ово поље је забрањено ако само :other није у :values.',
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Format nije validan.',
-    'relatable'            => 'Ово поље можда није повезано са датим ресурсом.',
     'required'             => 'Ovo polje je obavezno.',
     'required_if'          => 'Ovo polje je obavezno kadakada polje :other sadrži :value.',
     'required_unless'      => 'Ovo polje je obavezno, osim ako je :other u :values.',

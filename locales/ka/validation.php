@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ':attribute უნდა შეიცავდეს მხოლოდ ასოებს, რიცხვებს, ტირეებს და ქვეტირეებს.',
     'alpha_num'            => ':attribute უნდა შეიცავდეს მხოლოდ ასოებს და რიცხვებს.',
     'array'                => ':attribute უნდა იყოს მასივი.',
-    'attached'             => 'ეს :attribute უკვე ერთვის.',
     'before'               => ':attribute უნდა იყოს თარიღი :date-მდე.',
     'before_or_equal'      => ':attribute უნდა იყოს თარიღი :date-მდე ან მისი ტოლი.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => ':attribute-ის ველს აქვს დუბლირებული მნიშვნელობა.',
     'email'                => ':attribute უნდა იყოს სწორი ელ.ფოსტა.',
     'ends_with'            => ':attribute უნდა ბოლოვდებოდეს შემდეგიდან ერთ-ერთით: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'არჩეული :attribute არასწორია.',
     'file'                 => ':attribute უნდა იყოს ფაილი.',
     'filled'               => ':attribute აუცილებელია.',
@@ -80,6 +80,7 @@ return [
         'numeric' => ':attribute უნდა იყოს მაქსიმუმ :value.',
         'string'  => ':attribute უნდა შეიცავდეს მაქსიმუმ :value სიმბოლოს.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ':attribute-ს არ უნდა ჰქონდეს :max ელემენტზე მეტი.',
         'file'    => ':attribute არ უნდა აღემატებოდეს :max კილობაიტს.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => ':attribute სფეროში აკრძალულია თუ :other არის :values.',
     'prohibits'            => ':attribute ველში არ შეიძლება იყოს :other.',
     'regex'                => ':attribute-ის ფორმატი არასწორია.',
-    'relatable'            => 'ეს :attribute არ შეიძლება იყოს დაკავშირებული ამ რესურსის.',
     'required'             => ':attribute-ის ველი აუცილებელია.',
     'required_if'          => ':attribute-ის ველი აუცილებელია, თუ :other-ის მნიშვნელობა ემთხვევა :value-ს.',
     'required_unless'      => ':attribute-ის ველი აუცილებელია, თუ :values არ შეიცავს :other-ს.',

@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Kipengele huenda kikawa tu chenye herufi, na vistari.',
     'alpha_num'            => 'Kipengele huenda kikawa tu chenye herufi na nambari.',
     'array'                => 'Kipengele lazima kiwe safu.',
-    'attached'             => 'Hii :attribute ni tayari masharti.',
     'before'               => 'Kipengele lazima kiwe tarehe kabla ya :date.',
     'before_or_equal'      => ':attribute inapaswa kuwa tarehe kabla au sawa na :date.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => 'Sehemu ya kipengele ina thamani rudufu.',
     'email'                => 'Kipengele lazima kiwe anuani halali ya barua pepe.',
     'ends_with'            => 'Ya :attribute lazima mwisho na moja ya yafuatayo: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'Kipengele kilichochaguliwa si halali.',
     'file'                 => ':attribute linapaswa kuwa faili.',
     'filled'               => 'Sehemu ya kipengele inahitajika.',
@@ -80,6 +80,7 @@ return [
         'numeric' => ':attribute inapaswa kuwa ndogo kuliko au sawa na :value.',
         'string'  => ':attribute inapaswa kuwa ndogo au sawa na herufi :value.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Kipengele huenda kisiwe na zaidi ya :max cha vifungu.',
         'file'    => 'Kipengele huenda si kikubwa kuliko :max cha kilobaiti.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => 'Ya :attribute uwanja ni marufuku isipokuwa :other ni katika :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Muundo wa kipengele si halali.',
-    'relatable'            => 'Hii :attribute inaweza kuwa kuhusishwa na rasilimali hii.',
     'required'             => 'Sehemu ya kipengele inahitajika.',
     'required_if'          => 'Sehemu ya kipengele inahitajika wakati :other ni :value.',
     'required_unless'      => 'Sehemu ya kipengele inahitajika isipokuwa :other ni katika :values.',

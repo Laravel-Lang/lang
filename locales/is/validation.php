@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Reiturinn :attribute má aðeins innihalda bókstafi, tölur og undirstikanir.',
     'alpha_num'            => 'Reiturinn :attribute má aðeins innihalda bókstafi og tölur.',
     'array'                => 'Reiturinn :attribute verður að vera fylki.',
-    'attached'             => 'Þetta :attribute er nú þegar fylgir.',
     'before'               => 'Reiturinn :attribute verður að vera dagsetning eftir :date.',
     'before_or_equal'      => ':attribute verður að vera dagsetning fyrir eða sú samaog :date.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => ':attribute reiturinn hefur tvítekið gildi.',
     'email'                => 'Reiturinn :attribute snið netfangsins er ekki rétt.',
     'ends_with'            => 'Við :attribute verður að enda með eftirfarandi: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'Reiturinn :attribute er nú þegar til.',
     'file'                 => ':attribute verður að vera skrá.',
     'filled'               => 'Reiturinn :attribute verður að innihalda eitthvað.',
@@ -80,6 +80,7 @@ return [
         'numeric' => ':attribute verður að vera minna en eða jafnt :value.',
         'string'  => ':attribute verður að vera styttri eða jafnlangur og :value stafir.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Reiturinn :attribute verður að innihalda færri en :max stök.',
         'file'    => 'Reiturinn :attribute verður að vera minni en :max kílóbæt.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => 'Við :attribute sviði er bönnuð nema :other er í :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Reiturinn :attribute er ekki á réttu formi.',
-    'relatable'            => 'Þetta :attribute getur ekki tengst þessu úrræði.',
     'required'             => 'Reiturinn :attribute er nauðsynlegur.',
     'required_if'          => 'Reiturinn :attribute er nauðsynlegur þegar :other er :value.',
     'required_unless'      => ':attribute er áskilinn nema :other sé í :values.',

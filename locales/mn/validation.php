@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ':Attribute талбарт латин үсэг, тоо болон зураас оруулах боломжтой.',
     'alpha_num'            => ':Attribute талбарт латин үсэг болон тоо оруулах боломжтой.',
     'array'                => ':Attribute талбар массив байх шаардлагатай.',
-    'attached'             => 'Энэ нь :attribute аль хэдийн хавсаргасан байна.',
     'before'               => ':Attribute талбарт :date-с өмнөх огноо оруулна уу.',
     'before_or_equal'      => ':attribute талбарт :date эсвэл түүнээс өмнөх огноо оруулна уу.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => ':Attribute талбарт ялгаатай утга оруулах шаардлагатай.',
     'email'                => ':Attribute талбарт зөв и-мэйл хаяг оруулах шаардлагатай.',
     'ends_with'            => ':attribute дараах аль нэгийг нь дуусгах естой: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'Сонгогдсон :attribute буруу байна.',
     'file'                 => ':Attribute талбарт файл оруулах шаардлагатай.',
     'filled'               => ':Attribute талбар шаардлагатай.',
@@ -80,6 +80,7 @@ return [
         'numeric' => 'The :attribute must be less than or equal :value.',
         'string'  => 'The :attribute must be less than or equal :value characters.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ':Attribute талбарт хамгийн ихдээ :max элемэнт оруулах боломжтой.',
         'file'    => ':Attribute талбарт :max килобайтаас бага хэмжээтэй файл оруулна уу.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => ':attribute салбарт бол хориглоно :other нь :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':Attribute талбарт оруулсан утга буруу байна.',
-    'relatable'            => 'Энэ нь :attribute энэ нөөц холбоотой байж болно.',
     'required'             => ':Attribute талбар шаардлагатай.',
     'required_if'          => 'Хэрэв :other :value бол :attribute табларт утга оруулах шаардлагатай.',
     'required_unless'      => ':other :values дотор байхгүй бол :attribute талбарт утга оруулах шаардлагатай.',

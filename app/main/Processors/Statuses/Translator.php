@@ -1,8 +1,8 @@
 <?php
 
-namespace LaravelLang\Lang\Processors\Statuses;
+namespace LaravelLang\Development\Processors\Statuses;
 
-use LaravelLang\Lang\Facades\Translate;
+use LaravelLang\Development\Facades\Translate;
 use Throwable;
 
 class Translator extends Processor

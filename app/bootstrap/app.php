@@ -1,6 +1,6 @@
 <?php
 
-use LaravelLang\Lang\Application;
+use LaravelLang\Development\Application;
 
 return Application::make(
     realpath(__DIR__ . '/../../')

@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ':Attribute môže obsahovať len písmená, čísla a pomlčky.',
     'alpha_num'            => ':Attribute môže obsahovať len písmená, čísla.',
     'array'                => ':Attribute musí byť pole.',
-    'attached'             => 'Tento :attribute je už pripojený.',
     'before'               => ':Attribute musí byť dátum pred :date.',
     'before_or_equal'      => ':Attribute musí byť dátum pred alebo presne :date.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => ':Attribute je duplicitný.',
     'email'                => ':Attribute má neplatný formát.',
     'ends_with'            => ':attribute musí obsahovať jednú z týchto hodnôt: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'označený :attribute je neplatný.',
     'file'                 => ':Attribute musí byť súbor.',
     'filled'               => ':Attribute je požadované.',
@@ -80,6 +80,7 @@ return [
         'numeric' => 'Hodnota :attribute musí byť menšia alebo rovná ako :value.',
         'string'  => ':Attribute musí mať rovnaký alebo menší počet znakov ako :value.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ':Attribute nemôže mať viac ako :max prvkov.',
         'file'    => ':Attribute nemôže byť väčší ako :max kilobajtov.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => ':Attribute je zakázané, pokiaľ :other nie je v :values.',
     'prohibits'            => ':Attribute zakazuje, aby bolo :other povolené.',
     'regex'                => ':Attribute má neplatný formát.',
-    'relatable'            => 'Tento :attribute nemusí byť spojený s týmto zdrojom.',
     'required'             => ':Attribute je požadované.',
     'required_if'          => ':Attribute je požadované keď :other je :value.',
     'required_unless'      => ':Attribute je požadované, okrem prípadu keď :other je v :values.',

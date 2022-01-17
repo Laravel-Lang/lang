@@ -1,6 +1,6 @@
 <?php
 
-use LaravelLang\Lang\Facades\Env;
+use LaravelLang\Development\Facades\Env;
 
 if (! function_exists('env')) {
     /**

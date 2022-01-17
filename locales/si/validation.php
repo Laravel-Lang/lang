@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'මෙම :attribute ට අඩංගු විය හැක්කේ අකුරු, ඉලක්කම්, කෙටිඉර හා යටිඉර පමණි.',
     'alpha_num'            => 'මෙම :attribute ට අඩංගු විය හැක්කේ අකුරු හා ඉලක්කම් පමණි.',
     'array'                => 'මේ :attribute ය array එකක් විය යුතුය.',
-    'attached'             => 'මේ :attribute මේ වන විටත් අමුණා ඇත.',
     'before'               => 'මෙම :attribute, :date දිනයට පෙර දිනයක් විය යුතුය.',
     'before_or_equal'      => 'මෙම :attribute, :date දිනයම හෝ ඊට පෙර දිනයක් විය යුතුය.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => 'මේ :attribute හි එකම අගයේ අනු පිටපත් ඇත.',
     'email'                => 'මෙම :attribute එක වලංගු විද්‍යුත් ලිපිනයක් විය යුතුය.',
     'ends_with'            => 'මෙම :attribute එක :values මගින් අවසාන විය යුතුය.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'තෝරාගත් :attribute අගය වලංගු නොවේ.',
     'file'                 => 'මෙම :attribute ය ෆයිල් එකක් විය යුතුය.',
     'filled'               => 'මේ :attribute හි අගයක් තිබිය යුතුය.',
@@ -80,6 +80,7 @@ return [
         'numeric' => 'මෙම :attribute එක :value ට වඩා අඩු හෝ සමාන විය යුතුයි.',
         'string'  => 'මෙම :attribute එක අකුරු :value ට වඩා අඩු හෝ සමාන විය යුතුයි.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => 'මෙම :attribute එක :max ට වඩා වැඩි නොවිය යුතුයි.',
         'file'    => 'මෙම :attribute එක කිලෝබයිට් :max ට වඩා වැඩි නොවිය යුතුයි.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => ':other, :value නොවන්නේ නම් පමණක් :attribute ක්ෂේත්‍රයේ තහනම් කර තිබේ.',
     'prohibits'            => 'මෙම :attribute ක්ෂේත්‍රය :other පැවතීම තහනම් කර ඇත.',
     'regex'                => 'මෙම :attribute ආකෘතිය වලංගු නැත.',
-    'relatable'            => 'මේ :attribute නොහැකි විය හැක, මෙම සමඟ සංෙයෝජිත ෙ කෙර් සම්පත්.',
     'required'             => 'මෙම :attribute ක්ෂේත්‍රයේ අවශ්‍යයි.',
     'required_if'          => ':other, :value නම් පමණක් මෙම :attribute ක්ෂේත්‍රයේ අවශ්‍යයි.',
     'required_unless'      => ':other, :value නොවන්නේ නම් පමණක් මෙම :attribute ක්ෂේත්‍රයේ අවශ්‍යයි.',

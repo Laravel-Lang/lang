@@ -1,15 +1,15 @@
 <?php
 
-namespace LaravelLang\Lang\Processors\Statuses;
+namespace LaravelLang\Development\Processors\Statuses;
 
 use DragonCode\Support\Facades\Callbacks\Sorter;
 use DragonCode\Support\Facades\Helpers\Arr;
 use DragonCode\Support\Facades\Helpers\Filesystem\Directory;
 use DragonCode\Support\Facades\Helpers\Filesystem\File;
-use LaravelLang\Lang\Concerns\Countable;
-use LaravelLang\Lang\Concerns\Excludes;
-use LaravelLang\Lang\Concerns\Template;
-use LaravelLang\Lang\Processors\Processor as BaseProcessor;
+use LaravelLang\Development\Concerns\Countable;
+use LaravelLang\Development\Concerns\Excludes;
+use LaravelLang\Development\Concerns\Template;
+use LaravelLang\Development\Processors\Processor as BaseProcessor;
 
 abstract class Processor extends BaseProcessor
 {

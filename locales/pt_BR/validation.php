@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'O campo :attribute deve conter apenas letras, números e traços.',
     'alpha_num'            => 'O campo :attribute deve conter apenas letras e números .',
     'array'                => 'O campo :attribute deve conter um array.',
-    'attached'             => 'Este :attribute já está anexado.',
     'before'               => 'O campo :attribute deve conter uma data anterior a :date.',
     'before_or_equal'      => 'O campo :attribute deve conter uma data inferior ou igual a :date.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => 'O campo :attribute contém um valor duplicado.',
     'email'                => 'O campo :attribute não contém um endereço de email válido.',
     'ends_with'            => 'O campo :attribute deve terminar com um dos seguintes valores: :values',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'O valor selecionado para o campo :attribute é inválido.',
     'file'                 => 'O campo :attribute deve conter um arquivo.',
     'filled'               => 'O campo :attribute é obrigatório.',
@@ -80,6 +80,7 @@ return [
         'numeric' => 'O campo :attribute deve ser menor ou igual a :value.',
         'string'  => 'O campo :attribute deve ser menor ou igual a :value caracteres.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => 'O campo :attribute deve conter no máximo :max itens.',
         'file'    => 'O campo :attribute não pode conter um arquivo com mais de :max kilobytes.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => 'O campo :attribute é proibido a menos que :other esteja em :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'O formato do valor informado no campo :attribute é inválido.',
-    'relatable'            => 'Este :attribute pode não estar associado a este recurso.',
     'required'             => 'O campo :attribute é obrigatório.',
     'required_if'          => 'O campo :attribute é obrigatório quando o valor do campo :other é igual a :value.',
     'required_unless'      => 'O campo :attribute é obrigatório a menos que :other esteja presente em :values.',

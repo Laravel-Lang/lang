@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Må kun bestå av bokstaver, tall og bindestreker.',
     'alpha_num'            => 'Må kun bestå av bokstaver og tall.',
     'array'                => 'Må være en matrise.',
-    'attached'             => 'Er allerede vedlagt.',
     'before'               => 'Må være en dato før :date.',
     'before_or_equal'      => 'Må være en dato før eller lik :date.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => 'Har en duplisert verdi.',
     'email'                => 'Må være en gyldig e-postadresse.',
     'ends_with'            => 'Må ende med en av følgende: :values.',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'Den valgte veriden er ugyldig.',
     'file'                 => 'Må være en fil.',
     'filled'               => 'Må fylles ut.',
@@ -80,6 +80,7 @@ return [
         'numeric' => 'Må være mindre enn eller lik :value.',
         'string'  => 'Må være kortere enn eller lik :value tegn.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Må ikke ha flere enn :max elementer.',
         'file'    => 'Må ikke være større enn :max kilobytes.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => 'Felt er forbudt med mindre :other er i :values.',
     'prohibits'            => 'Dette feltet forbyr :other å være til stede.',
     'regex'                => 'Formatet på veriden er ugyldig.',
-    'relatable'            => 'Kan ikke være knyttet til denne ressursen.',
     'required'             => 'Må fylles ut.',
     'required_if'          => 'Må fylles ut når :other er :value.',
     'required_unless'      => 'Er påkrevd med mindre :other finnes blant verdiene :values.',

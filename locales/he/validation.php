@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'שדה :attribute יכול להכיל אותיות, מספרים ומקפים בלבד.',
     'alpha_num'            => 'שדה :attribute יכול להכיל אותיות ומספרים בלבד.',
     'array'                => 'שדה :attribute חייב להיות מערך.',
-    'attached'             => 'ה-:attribute הזה כבר מחובר.',
     'before'               => 'שדה :attribute חייב להיות תאריך לפני :date.',
     'before_or_equal'      => 'שדה :attribute חייב להיות תאריך מוקדם או שווה ל :date.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => 'שדה :attribute קיים ערך כפול.',
     'email'                => 'שדה :attribute חייב להיות כתובת אימייל תקנית.',
     'ends_with'            => 'שדה :attribute חייב להסתיים באחד מהבאים: :values',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'בחירת ה-:attribute אינה תקפה.',
     'file'                 => 'שדה :attribute חייב להיות קובץ.',
     'filled'               => 'שדה :attribute הוא חובה.',
@@ -80,6 +80,7 @@ return [
         'numeric' => 'על ה :attribute להיות נמוך או שווה ל- :value.',
         'string'  => 'על ה :attribute להכיל :value תווים או פחות.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => 'שדה :attribute לא יכול להכיל יותר מ-:max פריטים.',
         'file'    => 'שדה :attribute לא יכול להיות גדול מ-:max קילובייטים.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => 'שדה :attribute אסור אלא אם כן :other הוא :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'שדה :attribute בעל פורמט שאינו תקין.',
-    'relatable'            => 'זה :attribute לא יכול להיות קשור עם משאב זה.',
     'required'             => 'שדה :attribute הוא חובה.',
     'required_if'          => 'שדה :attribute נחוץ כאשר :other הוא :value.',
     'required_unless'      => 'שדה :attribute נחוץ אלא אם כן :other הוא בין :values.',

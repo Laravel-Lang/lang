@@ -1,6 +1,6 @@
 <?php
 
-namespace LaravelLang\Lang\Support;
+namespace LaravelLang\Development\Support;
 
 use DragonCode\Support\Concerns\Makeable;
 use Symfony\Component\Finder\Finder as SymfonyFinder;
@@ -9,7 +9,7 @@ class Finder
 {
     use Makeable;
 
-    protected array $names = ['*.php', '*.json', '*.js', '*.vue'];
+    protected array $names = ['*.php', '*.json', '*.js', '*.vue', '*.stub'];
 
     protected array $contains = ['__(', 'trans(', '@lang(', 'Lang::get('];
 

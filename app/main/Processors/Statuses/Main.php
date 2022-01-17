@@ -1,9 +1,9 @@
 <?php
 
-namespace LaravelLang\Lang\Processors\Statuses;
+namespace LaravelLang\Development\Processors\Statuses;
 
-use LaravelLang\Lang\Contracts\Stringable;
-use LaravelLang\Lang\Services\Compilers\Status;
+use LaravelLang\Development\Contracts\Stringable;
+use LaravelLang\Development\Services\Compilers\Status;
 
 class Main extends Processor
 {

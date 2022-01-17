@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Este campo pode conter apenas letras, números, traços e sublinhados.',
     'alpha_num'            => 'Este campo pode conter apenas letras e números',
     'array'                => 'Este campo deve ser uma matriz.',
-    'attached'             => 'Este campo já está anexado.',
     'before'               => 'Esta deve ser uma data anterior a :date.',
     'before_or_equal'      => 'Esta deve ser uma data anterior ou igual a :date.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => 'Este campo tem um valor duplicado.',
     'email'                => 'Este deve ser um endereço de e-mail válido.',
     'ends_with'            => 'Isso deve terminar com um dos seguintes valores :values.',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'O valor selecionado é inválido.',
     'file'                 => 'O conteúdo deve ser um arquivo.',
     'filled'               => 'Este campo deve ter um valor.',
@@ -80,6 +80,7 @@ return [
         'numeric' => 'O valor deve ser menor ou igual :value.',
         'string'  => 'A sequência deve ser menor ou igual :value caracteres.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'O conteúdo pode não ter mais do que :max itens.',
         'file'    => 'O tamanho do arquivo não pode ser maior que :max kilobytes.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => 'Este campo é proibido a menos que :other esteja em :values.',
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Este formato é inválido.',
-    'relatable'            => 'Este campo pode não estar associado a este recurso.',
     'required'             => 'Este campo é obrigatório.',
     'required_if'          => 'Este campo é obrigatório quando :other é :value.',
     'required_unless'      => 'Este campo é obrigatório, a menos que :other esteja em :values.',

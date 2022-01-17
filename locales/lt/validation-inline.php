@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Šis laukas gali turėti tik raides, skaičius ir brūkšnelius.',
     'alpha_num'            => 'Šis laukas gali turėti tik raides ir skaičius.',
     'array'                => 'Šis laukas turi būti masyvas.',
-    'attached'             => 'Šis laukas jau yra pridėtas.',
     'before'               => 'Šio lauko reikšmė turi būti data prieš :date.',
     'before_or_equal'      => 'Šio lauko reikšmė privalo būti data lygi arba ankstesnė negu :date.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => 'Šio lauko reikšmė pasikartoja.',
     'email'                => 'Šio lauko reikšmė turi būti galiojantis el. pašto adresas.',
     'ends_with'            => 'Šis laukas turi baigtis vienu iš: :values',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'Šio lauko reikšmė negalioja.',
     'file'                 => 'Šis laukas turi būti failas.',
     'filled'               => 'Šis laukas turi būti užpildytas.',
@@ -80,6 +80,7 @@ return [
         'numeric' => 'Šio lauko reikšmė turi būti mažesnė arba lygi :value.',
         'string'  => 'Šio lauko reikšmė turi būti mažesnė arba lygi :value simboliams.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Šis laukas negali turėti daugiau nei :max elementų.',
         'file'    => 'Šis failas negali būti didesnis nei :max kilobaitų.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => 'Šis laukas yra draudžiamas, nebent :other yra :values.',
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Negaliojantis šio lauko formatas.',
-    'relatable'            => 'Šis laukas negali būti susijęs su šiuo šaltiniu.',
     'required'             => 'Privaloma užpildyti šį lauką.',
     'required_if'          => 'Privaloma užpildyti šį lauką, kai :other yra :value.',
     'required_unless'      => 'Šis laukas yra privalomas, nebent :other yra tarp :values reikšmių.',

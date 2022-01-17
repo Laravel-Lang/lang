@@ -1,9 +1,9 @@
 <?php
 
-namespace LaravelLang\Lang\Contracts;
+namespace LaravelLang\Development\Contracts;
 
 use DragonCode\Support\Tools\Stub;
-use LaravelLang\Lang\Application;
+use LaravelLang\Development\Application;
 
 interface Filesystem
 {

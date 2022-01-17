@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ':Attribute mag alleen letters, nummers, underscores (_) en streepjes (-) bevatten.',
     'alpha_num'            => ':Attribute mag alleen letters en nummers bevatten.',
     'array'                => ':Attribute moet geselecteerde elementen bevatten.',
-    'attached'             => ':Attribute is reeds gekoppeld.',
     'before'               => ':Attribute moet een datum voor :date zijn.',
     'before_or_equal'      => ':Attribute moet een datum voor of gelijk aan :date zijn.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => ':Attribute heeft een dubbele waarde.',
     'email'                => ':Attribute is geen geldig e-mailadres.',
     'ends_with'            => ':Attribute moet met één van de volgende waarden eindigen: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => ':Attribute bestaat niet.',
     'file'                 => ':Attribute moet een bestand zijn.',
     'filled'               => ':Attribute is verplicht.',
@@ -80,6 +80,7 @@ return [
         'numeric' => 'De :attribute moet kleiner of gelijk zijn aan :value.',
         'string'  => 'De :attribute moet maximaal :value tekens bevatten.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ':Attribute mag niet meer dan :max items bevatten.',
         'file'    => ':Attribute mag niet meer dan :max kilobytes zijn.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => ':Attribute veld is verboden tenzij :other gelijk is aan :values.',
     'prohibits'            => 'Het veld :attribute verbiedt de aanwezigheid van :other.',
     'regex'                => ':Attribute formaat is ongeldig.',
-    'relatable'            => ':Attribute mag niet gekoppeld worden aan deze bron.',
     'required'             => ':Attribute is verplicht.',
     'required_if'          => ':Attribute is verplicht indien :other gelijk is aan :value.',
     'required_unless'      => ':Attribute is verplicht tenzij :other gelijk is aan :values.',

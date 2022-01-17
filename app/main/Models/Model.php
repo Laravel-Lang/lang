@@ -1,6 +1,6 @@
 <?php
 
-namespace LaravelLang\Lang\Models;
+namespace LaravelLang\Development\Models;
 
 use DragonCode\Support\Concerns\Makeable;
 

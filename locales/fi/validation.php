@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Kenttä :attribute voi sisältää vain kirjaimia, numeroita ja viivoja.',
     'alpha_num'            => 'Kenttä :attribute voi sisältää vain kirjaimia ja numeroita.',
     'array'                => 'Kenttä :attribute tulee olla taulukko.',
-    'attached'             => 'Tämä :attribute on jo kiinnitetty.',
     'before'               => 'Kentän :attribute päiväyksen tulee olla ennen :date.',
     'before_or_equal'      => 'Kentän :attribute päiväyksen tulee olla sama tai ennen kuin :date.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => 'Kentän :attribute arvo ei ole uniikki.',
     'email'                => 'Kentän :attribute arvo ei ole validi sähköpostiosoite.',
     'ends_with'            => ':attribute: n on päätyttävä jompaankumpaan seuraavista: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'Kentän :attribute valittu arvo on virheellinen.',
     'file'                 => 'Kentän :attribute arvon tulee olla tiedosto.',
     'filled'               => 'Kenttä :attribute on pakollinen.',
@@ -80,6 +80,7 @@ return [
         'numeric' => 'Kentän :attribute arvo tulee olla pienempi tai yhtäsuuri kuin :value.',
         'string'  => 'Kentän :attribute arvo tulee olla lyhyempi tai yhtä pitkä kuin :value merkkiä.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Kentän :attribute ei tule sisältää enempää kuin :max arvoa.',
         'file'    => 'Tiedoston :attribute tulee olla enintään :max kilobittiä.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => ':attribute-kenttä on kielletty, ellei :other ole kohteessa :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Kentän :attribute arvo on väärää muotoa.',
-    'relatable'            => 'Tätä :attribute: ää ei saa yhdistää tähän resurssiin.',
     'required'             => 'Kenttä :attribute vaaditaan.',
     'required_if'          => 'Kenttä :attribute vaaditaan kun :other on :value.',
     'required_unless'      => 'Kenttä :attribute vaaditaan jos :other ei sisälly arvoihin :values.',

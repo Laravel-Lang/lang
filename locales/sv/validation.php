@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ':Attribute får endast innehålla bokstäver, siffror och bindestreck.',
     'alpha_num'            => ':Attribute får endast innehålla bokstäver och siffror.',
     'array'                => ':Attribute måste vara en array.',
-    'attached'             => 'Denna :attribute är redan bifogad.',
     'before'               => ':Attribute måste vara ett datum innan :date.',
     'before_or_equal'      => ':Attribute måste vara ett datum före eller samma dag som :date.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => ':Attribute innehåller fler än en repetition av samma element.',
     'email'                => ':Attribute måste innehålla en korrekt e-postadress.',
     'ends_with'            => ':Attribute måste sluta med en av följande: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => ':Attribute är ogiltigt.',
     'file'                 => ':Attribute måste vara en fil.',
     'filled'               => ':Attribute är obligatoriskt.',
@@ -80,6 +80,7 @@ return [
         'numeric' => ':Attribute måste vara lika med eller mindre än :value.',
         'string'  => ':Attribute måste vara lika med eller kortare än :value tecken.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ':Attribute får inte innehålla mer än :max objekt.',
         'file'    => ':Attribute får max vara :max kilobyte stor.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => ':attribute är förbjudet om inte :other är :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':Attribute har ogiltigt format.',
-    'relatable'            => 'Denna :attribute kanske inte är associerad med den här resursen.',
     'required'             => ':Attribute är obligatoriskt.',
     'required_if'          => ':Attribute är obligatoriskt när :other är :value.',
     'required_unless'      => ':Attribute är obligatoriskt när inte :other finns bland :values.',

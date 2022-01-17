@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'ข้อมูล :attribute ต้องเป็นตัวอักษรภาษาอังกฤษ ตัวเลข และ _ เท่านั้น',
     'alpha_num'            => 'ข้อมูล :attribute ต้องเป็นตัวอักษรภาษาอังกฤษ ตัวเลข เท่านั้น',
     'array'                => 'ข้อมูล :attribute ต้องเป็น array เท่านั้น',
-    'attached'             => 'นี่ :attribute แล้วมาเกี่ยวข้อง',
     'before'               => 'ข้อมูล :attribute ต้องเป็นวันที่ก่อน :date.',
     'before_or_equal'      => 'ข้อมูล :attribute ต้องเป็นวันที่ก่อนหรือเท่ากับวันที่ :date.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => 'ข้อมูล :attribute มีค่าที่ซ้ำกัน',
     'email'                => 'ข้อมูล :attribute ต้องเป็นอีเมล์',
     'ends_with'            => 'ที่ :attribute ต้องจบอย่างหนึ่งจากเกิดข้อผิดพลาดต่อไปนี้::values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'ข้อมูล ที่ถูกเลือกจาก :attribute ไม่ถูกต้อง',
     'file'                 => 'ข้อมูล :attribute ต้องเป็นไฟล์.',
     'filled'               => 'ข้อมูล :attribute จำเป็นต้องกรอก',
@@ -80,6 +80,7 @@ return [
         'numeric' => 'ข้อมูล :attribute ต้องมีค่าน้อยกว่าหรือเท่ากับ :value.',
         'string'  => 'ข้อมูล :attribute ต้องมีความยาวตัวอักษรน้อยกว่าหรือเท่ากับ :value ตัวอักษร.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => 'ข้อมูล :attribute ต้องมีไม่เกิน :max ค่า',
         'file'    => 'ข้อมูล :attribute ต้องมีขนาดไม่เกิน :max กิโลไบต์',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => 'ที่ :attribute ช่องข้อมูล prohibited นอกจาก :other อยู่ใน :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'ข้อมูล :attribute มีรูปแบบไม่ถูกต้อง',
-    'relatable'            => 'นี่ :attribute อาจจะไม่เกี่ยวข้องกับทรัพยากรนี้',
     'required'             => 'ข้อมูล :attribute จำเป็นต้องกรอก',
     'required_if'          => 'ข้อมูล :attribute จำเป็นต้องกรอกเมื่อ :other เป็น :value.',
     'required_unless'      => 'ข้อมูล :attribute จำเป็นต้องกรอกเว้นแต่ :other เป็น :values.',

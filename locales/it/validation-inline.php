@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Può contenere solo lettere, numeri e trattini.',
     'alpha_num'            => 'Può contenere solo lettere e numeri.',
     'array'                => 'Deve essere un array.',
-    'attached'             => 'Campo già associato.',
     'before'               => 'Deve essere una data precedente al :date.',
     'before_or_equal'      => 'Deve essere una data precedente o uguale al :date.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => 'Questo valore esiste già.',
     'email'                => 'Deve essere un indirizzo email valido.',
     'ends_with'            => 'Deve terminare con uno dei seguenti valori: :values.',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'Il valore non è valido.',
     'file'                 => 'Deve essere un file.',
     'filled'               => 'Deve contenere un valore.',
@@ -80,6 +80,7 @@ return [
         'numeric' => 'Deve essere inferiore o uguale a :value.',
         'string'  => 'Deve contenere massimo :value caratteri.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Non può contenere più di :max elementi.',
         'file'    => 'Non può essere superiore a :max kilobytes.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => 'Non consentito a meno che :other sia contenuto in :values.',
     'prohibits'            => 'Il campo impedisce a :other di essere presente.',
     'regex'                => 'Formato non valido.',
-    'relatable'            => 'Non puoi associarlo a questa risorsa.',
     'required'             => 'Obbligatorio.',
     'required_if'          => 'Obbligatorio quando :other è :value.',
     'required_unless'      => 'Obbligatorio a meno che :other sia :values.',

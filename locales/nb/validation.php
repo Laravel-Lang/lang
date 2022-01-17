@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ':attribute må kun bestå av bokstaver, tall og bindestreker.',
     'alpha_num'            => ':attribute må kun bestå av bokstaver og tall.',
     'array'                => ':attribute må være en matrise.',
-    'attached'             => ':attribute er allerede vedlagt.',
     'before'               => ':attribute må være en dato før :date.',
     'before_or_equal'      => ':attribute må være en dato før eller lik :date.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => ':attribute har en duplisert verdi.',
     'email'                => ':attribute må være en gyldig e-postadresse.',
     'ends_with'            => ':attribute må ende med en av følgende: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'Det valgte :attribute er ugyldig.',
     'file'                 => ':attribute må være en fil.',
     'filled'               => ':attribute må fylles ut.',
@@ -80,6 +80,7 @@ return [
         'numeric' => ':attribute må være mindre enn eller lik :value.',
         'string'  => ':attribute må være kortere enn eller lik :value tegn.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ':attribute må ikke ha flere enn :max elementer.',
         'file'    => ':attribute må ikke være større enn :max kilobytes.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => ':attribute felt er forbudt med mindre :other er i :values.',
     'prohibits'            => ':attribute forbyr :other å være til stede.',
     'regex'                => 'Formatet på :attribute er ugyldig.',
-    'relatable'            => ':attribute kan ikke være knyttet til denne ressursen.',
     'required'             => ':attribute må fylles ut.',
     'required_if'          => ':attribute må fylles ut når :other er :value.',
     'required_unless'      => ':attribute er påkrevd med mindre :other finnes blant verdiene :values.',

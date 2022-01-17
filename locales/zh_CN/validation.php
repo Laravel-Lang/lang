@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ':attribute 只能由字母、数字、短划线(-)和下划线(_)组成。',
     'alpha_num'            => ':attribute 只能由字母和数字组成。',
     'array'                => ':attribute 必须是一个数组。',
-    'attached'             => '这个 :attribute 已经连接。',
     'before'               => ':attribute 必须要早于 :date。',
     'before_or_equal'      => ':attribute 必须要等于 :date 或更早。',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => ':attribute 已经存在。',
     'email'                => ':attribute 不是一个合法的邮箱。',
     'ends_with'            => ':attribute 必须以 :values 为结尾。',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => ':attribute 不存在。',
     'file'                 => ':attribute 必须是文件。',
     'filled'               => ':attribute 不能为空。',
@@ -80,6 +80,7 @@ return [
         'numeric' => ':attribute 必须小于或等于 :value。',
         'string'  => ':attribute 必须少于或等于 :value 个字符。',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ':attribute 最多只有 :max 个单元。',
         'file'    => ':attribute 不能大于 :max KB。',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => ':attribute 字段被禁止，除非 :other 位于 :values 中。',
     'prohibits'            => ':attribute 字段禁止出现 :other。',
     'regex'                => ':attribute 格式不正确。',
-    'relatable'            => '此 :attribute 可能与此资源不相关联。',
     'required'             => ':attribute 不能为空。',
     'required_if'          => '当 :other 为 :value 时 :attribute 不能为空。',
     'required_unless'      => '当 :other 不为 :values 时 :attribute 不能为空。',

@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => '英数字、ハイフン、アンダースコアのみ使用できます。',
     'alpha_num'            => '英数字のみ使用できます。',
     'array'                => '配列でなければなりません。',
-    'attached'             => 'すでに添付されています。',
     'before'               => ':date より前の日付を指定してください。',
     'before_or_equal'      => ':date 以前の日付を指定してください。',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => '値が重複しています。',
     'email'                => '無効なメールアドレスです。',
     'ends_with'            => '次のいずれかで終わる必要があります: :values',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => '選択した値が無効です。',
     'file'                 => 'ファイルである必要があります。',
     'filled'               => '値がありません。',
@@ -80,6 +80,7 @@ return [
         'numeric' => ':value 以下でなければなりません。',
         'string'  => ':value文字以下でなければなりません。',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => ':value 個以下でなければなりません。',
         'file'    => 'ファイルサイズが :value KB以下でなければなりません。',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => ':otherが:valuesでない限り、この項目は禁止されています。',
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'この形式は無効です。',
-    'relatable'            => 'このリソースと関連づけられません。',
     'required'             => 'この項目は必須です。',
     'required_if'          => ':otherが:valueの場合、この項目は必須です。',
     'required_unless'      => ':otherが:valuesでない限り、この項目は必須です。',

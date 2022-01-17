@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Laukas :attribute gali turėti tik raides, skaičius ir brūkšnelius.',
     'alpha_num'            => 'Laukas :attribute gali turėti tik raides ir skaičius.',
     'array'                => 'Laukas :attribute turi būti masyvas.',
-    'attached'             => 'Šis :attribute jau yra pridėtas.',
     'before'               => 'Laukas :attribute turi būti data prieš :date.',
     'before_or_equal'      => 'Lauko :attribute reikšmė privalo būti data lygi arba ankstesnė negu :date.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => 'Laukas :attribute pasikartoja.',
     'email'                => 'Lauko :attribute reikšmė turi būti galiojantis el. pašto adresas.',
     'ends_with'            => 'Laukas :attribute turi baigtis vienu iš: :values',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'Pasirinkta negaliojanti :attribute reikšmė.',
     'file'                 => ':attribute turi būti failas.',
     'filled'               => 'Laukas :attribute turi būti užpildytas.',
@@ -80,6 +80,7 @@ return [
         'numeric' => 'Lauko :attribute reikšmė turi būti mažesnė arba lygi :value.',
         'string'  => 'Lauko :attribute reikšmė turi būti mažesnė arba lygi :value simboliams.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Elementų kiekis lauke :attribute negali turėti daugiau nei :max elementų.',
         'file'    => 'Failo dydis lauke :attribute negali būti didesnis nei :max kilobaitų.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => ':attribute laukas draudžiamas, nebent :other yra :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Negaliojantis lauko :attribute formatas.',
-    'relatable'            => 'Šis :attribute gali būti nesusijęs su šiuo šaltiniu.',
     'required'             => 'Privaloma užpildyti lauką :attribute.',
     'required_if'          => 'Privaloma užpildyti lauką :attribute, kai :other yra :value.',
     'required_unless'      => 'Laukas :attribute yra privalomas, nebent :other yra tarp :values reikšmių.',

@@ -1,11 +1,11 @@
 <?php
 
-use LaravelLang\Lang\Processors\Statuses\Locales;
-use LaravelLang\Lang\Processors\Statuses\Main;
+use LaravelLang\Development\Processors\Statuses\Locales;
+use LaravelLang\Development\Processors\Statuses\Main;
 
-require __DIR__ . '/../vendor/autoload.php';
+require __DIR__ . '/bootstrap/autoload.php';
 
-/** @var \LaravelLang\Lang\Application $app */
+/** @var \LaravelLang\Development\Application $app */
 $app = require_once __DIR__ . '/bootstrap/app.php';
 
 $app->processor(Main::make());

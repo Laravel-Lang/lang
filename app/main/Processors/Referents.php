@@ -1,12 +1,12 @@
 <?php
 
-namespace LaravelLang\Lang\Processors;
+namespace LaravelLang\Development\Processors;
 
 use DragonCode\Support\Facades\Helpers\Filesystem\Directory;
-use LaravelLang\Lang\Concerns\Template;
-use LaravelLang\Lang\Constants\Referents as Constants;
-use LaravelLang\Lang\Contracts\Stringable;
-use LaravelLang\Lang\Services\Compilers\Referents as Compilator;
+use LaravelLang\Development\Concerns\Template;
+use LaravelLang\Development\Constants\Referents as Constants;
+use LaravelLang\Development\Contracts\Stringable;
+use LaravelLang\Development\Services\Compilers\Referents as Compilator;
 use ReflectionClass;
 use ReflectionClassConstant;
 

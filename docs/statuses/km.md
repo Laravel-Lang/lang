@@ -2,7 +2,7 @@
 
 # km
 
-##### All missed: 162
+##### All missed: 175
 
 
 ### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/master/locales/km/validation-attributes.php)
@@ -256,7 +256,7 @@ Year
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/km/validation-inline.php)
 
-##### Missing: 5
+##### Missing: 7
 
 <table >
 <tr><td align="left" >
@@ -288,6 +288,20 @@ This value must be declined when :other is :value.
 </td>
 </tr>
 <tr><td align="left" >
+enum
+</td>
+<td align="left" >
+The selected value is invalid.
+</td>
+</tr>
+<tr><td align="left" >
+mac_address
+</td>
+<td align="left" >
+The value must be a valid MAC address.
+</td>
+</tr>
+<tr><td align="left" >
 prohibits
 </td>
 <td align="left" >
@@ -302,7 +316,7 @@ This field prohibits :other from being present.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/km/validation.php)
 
-##### Missing: 5
+##### Missing: 7
 
 <table >
 <tr><td align="left" >
@@ -334,6 +348,20 @@ The :attribute must be declined when :other is :value.
 </td>
 </tr>
 <tr><td align="left" >
+enum
+</td>
+<td align="left" >
+The selected :attribute is invalid.
+</td>
+</tr>
+<tr><td align="left" >
+mac_address
+</td>
+<td align="left" >
+The :attribute must be a valid MAC address.
+</td>
+</tr>
+<tr><td align="left" >
 prohibits
 </td>
 <td align="left" >
@@ -348,11 +376,15 @@ The :attribute field prohibits :other from being present.
 
 ### [km](https://github.com/Laravel-Lang/lang/blob/master/locales/km/km.json)
 
-##### Missing: 118
+##### Missing: 127
 
 <table >
 <tr><td align="left" >
 :days day trial
+</td>
+</tr>
+<tr><td align="left" >
+A fresh verification link has been sent to your email address.
 </td>
 </tr>
 <tr><td align="left" >
@@ -396,6 +428,10 @@ Apply Coupon
 </td>
 </tr>
 <tr><td align="left" >
+Before proceeding, please check your email for a verification link.
+</td>
+</tr>
+<tr><td align="left" >
 Billing Information
 </td>
 </tr>
@@ -421,6 +457,10 @@ Change Subscription Plan
 </tr>
 <tr><td align="left" >
 City
+</td>
+</tr>
+<tr><td align="left" >
+click here to request another
 </td>
 </tr>
 <tr><td align="left" >
@@ -452,6 +492,10 @@ Download Receipt
 </td>
 </tr>
 <tr><td align="left" >
+E-Mail Address
+</td>
+</tr>
+<tr><td align="left" >
 Email Addresses
 </td>
 </tr>
@@ -461,6 +505,10 @@ ex VAT
 </tr>
 <tr><td align="left" >
 Extra Billing Information
+</td>
+</tr>
+<tr><td align="left" >
+Failed to load :resource!
 </td>
 </tr>
 <tr><td align="left" >
@@ -477,6 +525,10 @@ Heard Island and McDonald Islands
 </tr>
 <tr><td align="left" >
 I accept the terms of service
+</td>
+</tr>
+<tr><td align="left" >
+If you did not receive the email
 </td>
 </tr>
 <tr><td align="left" >
@@ -554,6 +606,10 @@ Payment Method
 </tr>
 <tr><td align="left" >
 Please accept the terms of service.
+</td>
+</tr>
+<tr><td align="left" >
+Please confirm your password before continuing.
 </td>
 </tr>
 <tr><td align="left" >
@@ -757,6 +813,10 @@ Venezuela, Bolivarian Republic of
 </td>
 </tr>
 <tr><td align="left" >
+Verify Your Email Address
+</td>
+</tr>
+<tr><td align="left" >
 View Receipt
 </td>
 </tr>
@@ -786,6 +846,10 @@ You are already subscribed.
 </tr>
 <tr><td align="left" >
 You are currently within your free trial period. Your trial will expire on :date.
+</td>
+</tr>
+<tr><td align="left" >
+You are logged in!
 </td>
 </tr>
 <tr><td align="left" >

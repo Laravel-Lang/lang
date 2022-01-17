@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ':attribute può contenere solo lettere, numeri e trattini.',
     'alpha_num'            => ':attribute può contenere solo lettere e numeri.',
     'array'                => ':attribute deve essere un array.',
-    'attached'             => ':attribute è già associato.',
     'before'               => ':attribute deve essere una data precedente al :date.',
     'before_or_equal'      => ':attribute deve essere una data precedente o uguale al :date.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => ':attribute contiene un valore duplicato.',
     'email'                => ':attribute non è valido.',
     'ends_with'            => ':attribute deve finire con uno dei seguenti valori: :values',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => ':attribute selezionato non è valido.',
     'file'                 => ':attribute deve essere un file.',
     'filled'               => 'Il campo :attribute deve contenere un valore.',
@@ -80,6 +80,7 @@ return [
         'numeric' => ':attribute deve essere minore o uguale a :value.',
         'string'  => ':attribute deve contenere un numero di caratteri minore o uguale a :value.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ':attribute non può avere più di :max elementi.',
         'file'    => ':attribute non può essere superiore a :max kilobyte.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => ':attribute non consentito a meno che :other sia contenuto in :values.',
     'prohibits'            => ':attribute impedisce a :other di essere presente.',
     'regex'                => 'Il formato del campo :attribute non è valido.',
-    'relatable'            => ':attribute non può essere associato a questa risorsa.',
     'required'             => 'Il campo :attribute è richiesto.',
     'required_if'          => 'Il campo :attribute è richiesto quando :other è :value.',
     'required_unless'      => 'Il campo :attribute è richiesto a meno che :other sia in :values.',

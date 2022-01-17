@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ':attribute मध्ये फक्त अक्षरे, संख्या आणि डॅश वैध आहेत.',
     'alpha_num'            => ':attribute मध्ये फक्त अक्षरे आणि संख्या वैध आहेत.',
     'array'                => ':attribute साठी फक्त सूची वैध आहे.',
-    'attached'             => 'या :attribute आधीच संलग्न आहे.',
     'before'               => ':attribute, :date आधीची एक तारीख पाहिजे.',
     'before_or_equal'      => ':attribute, :date हि किंवा त्या आधीची एक तारीख पाहिजे.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => ':attribute वेगवेगळे असावेत.',
     'email'                => ':attribute एक वैध ईमेल पत्ता असणे आवश्यक आहे.',
     'ends_with'            => ':attribute खालील एक समाप्त करणे आवश्यक आहे: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'निवडलेेलेे :attribute वैध नाही.',
     'file'                 => ':attribute एक फ़ाइल असावी.',
     'filled'               => ':attribute फील्ड आवश्यक आहे.',
@@ -80,6 +80,7 @@ return [
         'numeric' => ':attribute, :value पेक्षा कमी किंवा समान असणे आवश्यक आहे.',
         'string'  => ':attribute, :value शब्दांपेक्षा कमी किंवा समान असणे आवश्यक आहे.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ':attribute, :value संख्या पेक्षा कमी असणे आवश्यक आहे.',
         'file'    => ':attribute, :value किलोबाईट पेक्षा कमी असणे आवश्यक आहे.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => 'अगोदर निर्देश केलेल्या बाबीसंबंधी बोलताना :attribute क्षेत्रात प्रतिबंधित आहे :other :values आहे तोपर्यंत.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute फॉर्मेट वैध नाही.',
-    'relatable'            => 'या :attribute या संसाधन संबंधित जाऊ शकत नाही.',
     'required'             => ':attribute फील्ड आवश्यक आहे.',
     'required_if'          => 'जर :other :value असेल तर :attribute फ़ील्ड आवश्यक आहे.',
     'required_unless'      => 'जर :other :value नसेल तर :attribute फ़ील्ड आवश्यक आहे.',

@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'این مقدار تنها میتواند شامل حروف، اعداد، خط تیره و زیرخط باشد.',
     'alpha_num'            => 'این مقداز تنها میتواند شامل حروف و اعداد باشد.',
     'array'                => 'این مقدار باید یک آرایه باشد.',
-    'attached'             => 'این فیلد قبلاً پیوست شده است.',
     'before'               => 'این مقدار باید یک تاریخ قبل از :date باشد.',
     'before_or_equal'      => 'این مقدار باید یک تاریخ مساوی یا قبل از :date باشد.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => 'مقدار این ورودی تکراری است.',
     'email'                => 'این مقدار باید یک آدرس ایمیل معتبر باشد.',
     'ends_with'            => 'این مقدار باید با یکی از عبارت های روبرو پایان یابد: :values.',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'مقدار انتخابی نا معتبر است.',
     'file'                 => 'این ورودی باید یک فایل باشد.',
     'filled'               => 'این ورودی باید یک مقدار داشته باشد.',
@@ -80,6 +80,7 @@ return [
         'numeric' => 'مقدار ورودی باید کمتر یا مساوی :value باشد.',
         'string'  => 'تعداد حروف رشته ورودی باید کمتر یا مساوی :value باشد.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'مقدار ورودی نباید بیشتر از :max گزینه داشته باشد.',
         'file'    => 'حجم فایل ورودی نباید بیشتر از :max کیلوبایت باشد.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => 'This field is prohibited unless :other is in :values.',
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'این فرمت نامعتبر است.',
-    'relatable'            => 'This field may not be associated with this resource.',
     'required'             => 'این مقدار ضروری است.',
     'required_if'          => 'این مقدار ضروری است وقتی که :other برابر :value است.',
     'required_unless'      => 'این مقدار ضروری است مگر اینکه :other برابر :values باشد.',

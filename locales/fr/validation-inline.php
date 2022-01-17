@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Ce champ doit contenir uniquement des lettres, des chiffres et des tirets.',
     'alpha_num'            => 'Ce champ doit contenir uniquement des chiffres et des lettres.',
     'array'                => 'Ce champ doit être un tableau.',
-    'attached'             => 'Ce champ est déjà attaché.',
     'before'               => 'Ce champ doit être une date antérieure au :date.',
     'before_or_equal'      => 'Ce champ doit être une date antérieure ou égale au :date.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => 'Ce champ a une valeur en double.',
     'email'                => 'Ce champ doit être une adresse e-mail valide.',
     'ends_with'            => 'Ce champ doit se terminer par une des valeurs suivantes : :values',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'Ce champ sélectionné est invalide.',
     'file'                 => 'Ce champ doit être un fichier.',
     'filled'               => 'Ce champ doit avoir une valeur.',
@@ -80,6 +80,7 @@ return [
         'numeric' => 'La valeur doit être inférieure ou égale à :value.',
         'string'  => 'Le texte doit contenir au plus :value caractères.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Le tableau ne peut contenir plus de :max éléments.',
         'file'    => 'La taille du fichier ne peut pas dépasser :max kilo-octets.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => 'Ce champ est interdit à moins que :other ait l\'une des valeurs :values.',
     'prohibits'            => 'Ce champ interdit :other d\'être présent.',
     'regex'                => 'Le format du champ est invalide.',
-    'relatable'            => 'Ce champ n\'est sans doute pas associé avec cette donnée.',
     'required'             => 'Ce champ est obligatoire.',
     'required_if'          => 'Ce champ est obligatoire quand la valeur de :other est :value.',
     'required_unless'      => 'Ce champ est obligatoire sauf si :other est :values.',

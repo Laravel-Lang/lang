@@ -2,7 +2,7 @@
 
 # oc
 
-##### All missed: 722
+##### All missed: 735
 
 
 ### [passwords](https://github.com/Laravel-Lang/lang/blob/master/locales/oc/passwords.php)
@@ -285,13 +285,6 @@ This field must be accepted when :other is :value.
 </td>
 </tr>
 <tr><td align="left" >
-attached
-</td>
-<td align="left" >
-This field is already attached.
-</td>
-</tr>
-<tr><td align="left" >
 current_password
 </td>
 <td align="left" >
@@ -310,6 +303,20 @@ declined_if
 </td>
 <td align="left" >
 This value must be declined when :other is :value.
+</td>
+</tr>
+<tr><td align="left" >
+enum
+</td>
+<td align="left" >
+The selected value is invalid.
+</td>
+</tr>
+<tr><td align="left" >
+mac_address
+</td>
+<td align="left" >
+The value must be a valid MAC address.
 </td>
 </tr>
 <tr><td align="left" >
@@ -340,11 +347,54 @@ prohibits
 This field prohibits :other from being present.
 </td>
 </tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [validation-nova-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/oc/validation-nova-inline.php)
+
+##### Missing: 2
+
+<table >
+<tr><td align="left" >
+attached
+</td>
+<td align="left" >
+This field is already attached.
+</td>
+</tr>
 <tr><td align="left" >
 relatable
 </td>
 <td align="left" >
 This field may not be associated with this resource.
+</td>
+</tr>
+
+</table>
+
+
+[ [go back](../status.md) | [to top](#) ]
+
+### [validation-nova](https://github.com/Laravel-Lang/lang/blob/master/locales/oc/validation-nova.php)
+
+##### Missing: 2
+
+<table >
+<tr><td align="left" >
+attached
+</td>
+<td align="left" >
+This :attribute is already attached.
+</td>
+</tr>
+<tr><td align="left" >
+relatable
+</td>
+<td align="left" >
+This :attribute may not be associated with this resource.
 </td>
 </tr>
 
@@ -366,13 +416,6 @@ The :attribute must be accepted when :other is :value.
 </td>
 </tr>
 <tr><td align="left" >
-attached
-</td>
-<td align="left" >
-This :attribute is already attached.
-</td>
-</tr>
-<tr><td align="left" >
 current_password
 </td>
 <td align="left" >
@@ -391,6 +434,20 @@ declined_if
 </td>
 <td align="left" >
 The :attribute must be declined when :other is :value.
+</td>
+</tr>
+<tr><td align="left" >
+enum
+</td>
+<td align="left" >
+The selected :attribute is invalid.
+</td>
+</tr>
+<tr><td align="left" >
+mac_address
+</td>
+<td align="left" >
+The :attribute must be a valid MAC address.
 </td>
 </tr>
 <tr><td align="left" >
@@ -421,13 +478,6 @@ prohibits
 The :attribute field prohibits :other from being present.
 </td>
 </tr>
-<tr><td align="left" >
-relatable
-</td>
-<td align="left" >
-This :attribute may not be associated with this resource.
-</td>
-</tr>
 
 </table>
 
@@ -436,7 +486,7 @@ This :attribute may not be associated with this resource.
 
 ### [oc](https://github.com/Laravel-Lang/lang/blob/master/locales/oc/oc.json)
 
-##### Missing: 667
+##### Missing: 676
 
 <table >
 <tr><td align="left" >
@@ -465,6 +515,10 @@ This :attribute may not be associated with this resource.
 </tr>
 <tr><td align="left" >
 :resource Details: :title
+</td>
+</tr>
+<tr><td align="left" >
+A fresh verification link has been sent to your email address.
 </td>
 </tr>
 <tr><td align="left" >
@@ -736,6 +790,10 @@ Barbados
 </td>
 </tr>
 <tr><td align="left" >
+Before proceeding, please check your email for a verification link.
+</td>
+</tr>
+<tr><td align="left" >
 Belarus
 </td>
 </tr>
@@ -905,6 +963,10 @@ Christmas Island
 </tr>
 <tr><td align="left" >
 City
+</td>
+</tr>
+<tr><td align="left" >
+click here to request another
 </td>
 </tr>
 <tr><td align="left" >
@@ -1148,6 +1210,10 @@ Download Receipt
 </td>
 </tr>
 <tr><td align="left" >
+E-Mail Address
+</td>
+</tr>
+<tr><td align="left" >
 Ecuador
 </td>
 </tr>
@@ -1233,6 +1299,10 @@ Extra confirmation is needed to process your payment. Please confirm your paymen
 </tr>
 <tr><td align="left" >
 Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below.
+</td>
+</tr>
+<tr><td align="left" >
+Failed to load :resource!
 </td>
 </tr>
 <tr><td align="left" >
@@ -1457,6 +1527,10 @@ If you did not create an account, no further action is required.
 </tr>
 <tr><td align="left" >
 If you did not expect to receive an invitation to this team, you may discard this email.
+</td>
+</tr>
+<tr><td align="left" >
+If you did not receive the email
 </td>
 </tr>
 <tr><td align="left" >
@@ -2063,6 +2137,10 @@ Please confirm access to your account by entering one of your emergency recovery
 </tr>
 <tr><td align="left" >
 Please confirm access to your account by entering the authentication code provided by your authenticator application.
+</td>
+</tr>
+<tr><td align="left" >
+Please confirm your password before continuing.
 </td>
 </tr>
 <tr><td align="left" >
@@ -2950,6 +3028,10 @@ Verify Email Address
 </td>
 </tr>
 <tr><td align="left" >
+Verify Your Email Address
+</td>
+</tr>
+<tr><td align="left" >
 View
 </td>
 </tr>
@@ -3035,6 +3117,10 @@ You are already subscribed.
 </tr>
 <tr><td align="left" >
 You are currently within your free trial period. Your trial will expire on :date.
+</td>
+</tr>
+<tr><td align="left" >
+You are logged in!
 </td>
 </tr>
 <tr><td align="left" >

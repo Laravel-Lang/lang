@@ -13,7 +13,7 @@
 
 return [
     'accepted'             => ':attribute গ্রহণ করা আবশ্যক।',
-    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
+    'accepted_if'          => ':attribute অবশ্যই গ্রহণ করতে হবে যখন :other সমান :value হয়।',
     'active_url'           => 'এই :attribute একটি বৈধ URL নয়।',
     'after'                => ':date অবশ্যই :attribute এর পরের একটি তারিখ হতে হবে।',
     'after_or_equal'       => ':attribute টি অবশ্যই :date এর সাথে মিল অথবা এর পরের একটি তারিখ হতে হবে।',
@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ':attribute শুধুমাত্র অক্ষর, সংখ্যা, এবং ড্যাশ থাকতে পারে।',
     'alpha_num'            => ':attribute শুধুমাত্র বর্ণ ও সংখ্যা থাকতে পারে।',
     'array'                => ':attribute একটি অ্যারে হতে হবে।',
-    'attached'             => 'এই :attribute ইতিমধ্যে সংযুক্ত করা হয়.',
     'before'               => ':date অবশ্যই :attribute এর আগের একটি তারিখ হতে হবে।',
     'before_or_equal'      => ':attribute টি অবশ্যই :date এর সাথে মিল অথবা এর আগের একটি তারিখ হতে হবে।',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => ':attribute এর স্থানে একটি নকল মান আছে।',
     'email'                => ':attribute একটি বৈধ ইমেইল ঠিকানা হতে হবে।',
     'ends_with'            => ':attribute নিম্নলিখিত এক সঙ্গে শেষ করতে হবে: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'নির্বাচিত :attribute টি অবৈধ।',
     'file'                 => ':attribute একটি ফাইল হতে হবে।',
     'filled'               => ':attribute স্থানটি পূরণ করতে হবে।',
@@ -80,6 +80,7 @@ return [
         'numeric' => 'The :attribute must be less than or equal :value.',
         'string'  => 'The :attribute must be less than or equal :value characters.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ':attribute এর মান :max টি উপাদানের চেয়ে বড় হতে পারেনা।',
         'file'    => ':attribute এর মান :max কিলোবাইট এর চেয়ে বড় হতে পারেনা।',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => 'এই :attribute ক্ষেত্র নিষিদ্ধ করা হয়, যদি না, :other হয় :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute বিন্যাস অবৈধ।',
-    'relatable'            => 'এই :attribute এই সম্পদ সঙ্গে যুক্ত হতে পারে না.',
     'required'             => ':attribute স্থানটি পূরণ করা বাধ্যতামূলক।',
     'required_if'          => ':attribute স্থানটি পূরণ করা বাধ্যতামূলক যেখানে :other হল :value।',
     'required_unless'      => ':attribute স্থানটি পূরণ করা বাধ্যতামূলক যদি না :other, :values তে উপস্থিত থাকে।',

@@ -1,8 +1,13 @@
 {
     "name": "laravel-lang/lang",
     "description": "Languages for Laravel",
-    "keywords": ["laravel", "languages", "lpm", "lang"],
     "license": "MIT",
+    "keywords": [
+        "laravel",
+        "languages",
+        "lpm",
+        "lang"
+    ],
     "authors": [
         {
             "name": "Laravel-Lang Team",
@@ -13,40 +18,54 @@
         "issues": "https://github.com/Laravel-Lang/lang/issues",
         "source": "https://github.com/Laravel-Lang/lang"
     },
-    "suggest": {
-        "laravel-lang/publisher": "Easy installation and update of translation files for your project",
-        "overtrue/laravel-lang": "Command to add languages in your project",
-        "arcanedev/laravel-lang": "Translations manager and checker for Laravel 5"
-    },
     "require": {
+        "php": "^7.3 || ^8.0",
         "ext-json": "*"
     },
     "require-dev": {
-        "php": "^8.0",
         "dragon-code/pretty-array": "^3.0",
-        "dragon-code/support": "^5.0",
+        "dragon-code/support": "^5.4",
         "guzzlehttp/guzzle": "^7.3",
+        "laravel-lang/publisher": "^11.2",
         "laravel/breeze": "^1.2",
         "laravel/fortify": "^1.7",
         "laravel/jetstream": "^2.3",
+        "laravel/ui": "^3.4",
+        "orchestra/testbench": "^5.0 || ^6.0 || ^7.0",
         "phpunit/phpunit": "^9.5",
         "symfony/finder": "^5.2",
         "symfony/var-dumper": "^5.2",
         "vlucas/phpdotenv": "^5.3"
     },
+    "conflict": {
+        "laravel-lang/publisher": "<11.2"
+    },
+    "suggest": {
+        "arcanedev/laravel-lang": "Translations manager and checker for Laravel 5",
+        "laravel-lang/publisher": "Easy installation and update of translation files for your project",
+        "overtrue/laravel-lang": "Command to add languages in your project"
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "autoload": {
+        "psr-4": {
+            "LaravelLang\\Lang\\": "src"
+        }
+    },
     "autoload-dev": {
         "psr-4": {
-            "LaravelLang\\Lang\\": "app/main",
-            "Tests\\": "app/tests"
+            "LaravelLang\\Development\\": "app/main",
+            "Tests\\": "tests"
         },
         "files": [
             "app/main/helpers.php"
         ]
     },
     "config": {
+        "allow-plugins": {
+            "ergebnis/composer-normalize": true
+        },
         "preferred-install": "dist",
         "sort-packages": true
-    },
-    "minimum-stability": "stable",
-    "prefer-stable": true
+    }
 }

@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ':attribute må kun bestå af bogstaver, tal og bindestreger.',
     'alpha_num'            => ':attribute må kun bestå af bogstaver og tal.',
     'array'                => ':attribute skal være et array.',
-    'attached'             => 'Denne :attribute er allerede vedhæftet.',
     'before'               => ':attribute skal være en dato før :date.',
     'before_or_equal'      => ':attribute skal være en dato før eller lig med :date.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => ':attribute har en duplikatværdi.',
     'email'                => ':attribute skal være en gyldig e-mailadresse.',
     'ends_with'            => ':attribute skal ende med et af følgende: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'Valgte :attribute er ugyldig.',
     'file'                 => ':attribute skal være en fil.',
     'filled'               => ':attribute skal udfyldes.',
@@ -80,6 +80,7 @@ return [
         'numeric' => ':attribute skal være mindre eller lig med :value.',
         'string'  => ':attribute skal være mindre eller lig med :value tegn.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ':attribute må ikke indeholde mere end :max elementer.',
         'file'    => ':attribute må ikke være større end :max kilobytes.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => ':attribute-feltet er forbudt, medmindre :other er i :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute formatet er ugyldigt.',
-    'relatable'            => 'Denne :attribute er muligvis ikke knyttet til denne ressource.',
     'required'             => ':attribute skal udfyldes.',
     'required_if'          => ':attribute skal udfyldes når :other er :value.',
     'required_unless'      => ':attribute er påkrævet med mindre :other findes i :values.',

@@ -2,7 +2,7 @@
 
 <img src="https://preview.dragon-code.pro/laravel-lang/localizations.svg?brand=laravel" alt="Laravel Lang"/>
 
-In this repository, you can find the lang files for the [Laravel Framework 4/5/6/7/8](https://laravel.com), [Laravel Jetstream](https://jetstream.laravel.com) , [Laravel Fortify](https://github.com/laravel/fortify), [Laravel Cashier](https://laravel.com/docs/8.x/billing), [Laravel Breeze](https://github.com/laravel/breeze), [Laravel Nova](https://nova.laravel.com) and [Laravel Spark](https://spark.laravel.com).
+In this repository, you can find the lang files for the [Laravel Framework 4-9](https://laravel.com), [Laravel Jetstream](https://jetstream.laravel.com), [Laravel Fortify](https://github.com/laravel/fortify), [Laravel Cashier](https://laravel.com/docs/billing), [Laravel Breeze](https://github.com/laravel/breeze), [Laravel Nova](https://nova.laravel.com), [Laravel Spark](https://spark.laravel.com) and [Laravel UI](https://github.com/laravel/ui).
 
 <p align="center">
     [
@@ -13,13 +13,7 @@ In this repository, you can find the lang files for the [Laravel Framework 4/5/6
 
 ## News
 
-* in version 10.1, one json file by language, but split translation keys for English version ([#1761](https://github.com/Laravel-Lang/lang/issues/1761))
-* in version 10, we split translation keys into Laravel packages ([#1748](https://github.com/Laravel-Lang/lang/pull/1748), [discussion](https://github.com/Laravel-Lang/lang/discussions/1702#discussioncomment-703215))
-* in version 9.1, we include machine translations, with review by humans for some languages ( see [Discussions](https://github.com/Laravel-Lang/lang/discussions/1692) )
-* in version 9, we propose new structure of files ( see [#1606](https://github.com/Laravel-Lang/lang/discussions/1606), [#1607](https://github.com/Laravel-Lang/lang/pull/1607) )
-* in version 8, we propose new directory names to follow Php Intl ( see [#1453](https://github.com/Laravel-Lang/lang/pull/1453) )
-* in version 7, we propose new directory names to follow ISO-15897 ( see [#1269](https://github.com/Laravel-Lang/lang/issues/1269) )
-* in version 6.1, we propose a new file by language: `validation-inline.php` ( see [#1268](https://github.com/Laravel-Lang/lang/issues/1268) )
+We publish all changes in the [changelog](https://laravel-lang.github.io/lang/changelog.html).
 
 ## Translation managers
 

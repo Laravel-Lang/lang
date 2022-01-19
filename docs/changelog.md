@@ -7,7 +7,20 @@ All notable changes to this project will be documented in this file, since v7.0.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres
 to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [10.2.0] - 2022-01-14
+## [10.3.0] - 2022-01-18
+
+## Changed
+
+* feature: [fa]: #1932, #1948 Update inline validation file
+* feature: [ja]: #1956 Updated Japan translation
+
+### Reference
+
+* feature: #1957 Added Laravel 9 for dev tests
+* feature: #1950, #1952, #1953 Normalize `composer.json`
+* feature: #1951 Laravel Nova validation keys moved to separate files
+
+## [10.2.0] - 2022-01-16
 
 ### Changed
 

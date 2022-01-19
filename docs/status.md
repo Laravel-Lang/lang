@@ -2,7 +2,7 @@
 
 # Completion status
 
-> Translation of localizations is completed by **78%** (58.8K / 75.5K).
+> Translation of localizations is completed by **78%** (58.9K / 75.5K).
 
 <table width="100%">
 <tr><td align="center" width="17%">

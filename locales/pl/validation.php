@@ -44,7 +44,7 @@ return [
     'distinct'             => 'Pole :attribute ma zduplikowane wartości.',
     'email'                => 'Pole :attribute nie jest poprawnym adresem e-mail.',
     'ends_with'            => 'Pole :attribute musi kończyć się jedną z następujących wartości: :values.',
-    'enum'                 => 'The selected :attribute is invalid.',
+    'enum'                 => 'Wybrany :attribute jest niepoprawny.',
     'exists'               => 'Zaznaczone pole :attribute jest nieprawidłowe.',
     'file'                 => 'Pole :attribute musi być plikiem.',
     'filled'               => 'Pole :attribute nie może być puste.',
@@ -80,7 +80,7 @@ return [
         'numeric' => 'Pole :attribute musi być mniejsze lub równe :value.',
         'string'  => 'Pole :attribute musi być krótsze lub równe :value znaków.',
     ],
-    'mac_address'          => 'The :attribute must be a valid MAC address.',
+    'mac_address'          => 'Atrybut :attribute musi być prawidłowym adresem MAC.',
     'max'                  => [
         'array'   => 'Pole :attribute nie może mieć więcej niż :max elementów.',
         'file'    => 'Pole :attribute nie może być większe niż :max kilobajtów.',

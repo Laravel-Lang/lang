@@ -80,7 +80,7 @@ return [
         'numeric' => 'Pole musi być mniejsze lub równe :value.',
         'string'  => 'Pole musi być krótsze lub równe :value znaków.',
     ],
-    'mac_address'          => 'Wartość musi być prawidłowym adresem MAC.',
+    'mac_address'          => 'Pole musi być prawidłowym adresem MAC.',
     'max'                  => [
         'array'   => 'Pole nie może mieć więcej niż :max elementów.',
         'file'    => 'Pole nie może być większe niż :max kilobajtów.',

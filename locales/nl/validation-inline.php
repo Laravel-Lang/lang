@@ -44,7 +44,7 @@ return [
     'distinct'             => 'Dit veld heeft een dubbele waarde.',
     'email'                => 'Dit is geen geldig e-mailadres.',
     'ends_with'            => 'Dit moet met één van de volgende waarden eindigen: :values.',
-    'enum'                 => 'The selected value is invalid.',
+    'enum'                 => 'De geselecteerde waarde is ongeldig.',
     'exists'               => 'De geselecteerde waarde bestaat niet.',
     'file'                 => 'Dit moet een bestand zijn.',
     'filled'               => 'Dit veld is verplicht.',
@@ -80,7 +80,7 @@ return [
         'numeric' => 'De waarde moet kleiner of gelijk zijn aan :value.',
         'string'  => 'De waarde moet maximaal :value tekens bevatten.',
     ],
-    'mac_address'          => 'The value must be a valid MAC address.',
+    'mac_address'          => 'De waarde moet een geldig MAC-adres zijn.',
     'max'                  => [
         'array'   => 'De inhoud mag niet meer dan :max items bevatten.',
         'file'    => 'Het bestand mag niet meer dan :max kilobytes zijn.',

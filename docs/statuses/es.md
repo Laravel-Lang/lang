@@ -2,7 +2,7 @@
 
 # es
 
-##### All missed: 13
+##### All missed: 12
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/es/validation-inline.php)
@@ -32,16 +32,9 @@ The value must be a valid MAC address.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/es/validation.php)
 
-##### Missing: 2
+##### Missing: 1
 
 <table >
-<tr><td align="left" >
-enum
-</td>
-<td align="left" >
-The selected :attribute is invalid.
-</td>
-</tr>
 <tr><td align="left" >
 mac_address
 </td>

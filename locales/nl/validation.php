@@ -44,7 +44,7 @@ return [
     'distinct'             => ':Attribute heeft een dubbele waarde.',
     'email'                => ':Attribute is geen geldig e-mailadres.',
     'ends_with'            => ':Attribute moet met één van de volgende waarden eindigen: :values.',
-    'enum'                 => 'The selected :attribute is invalid.',
+    'enum'                 => 'De geselecteerde :attribute is ongeldig.',
     'exists'               => ':Attribute bestaat niet.',
     'file'                 => ':Attribute moet een bestand zijn.',
     'filled'               => ':Attribute is verplicht.',
@@ -80,7 +80,7 @@ return [
         'numeric' => 'De :attribute moet kleiner of gelijk zijn aan :value.',
         'string'  => 'De :attribute moet maximaal :value tekens bevatten.',
     ],
-    'mac_address'          => 'The :attribute must be a valid MAC address.',
+    'mac_address'          => 'De :attribute moet een geldig MAC-adres zijn.',
     'max'                  => [
         'array'   => ':Attribute mag niet meer dan :max items bevatten.',
         'file'    => ':Attribute mag niet meer dan :max kilobytes zijn.',

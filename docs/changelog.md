@@ -7,7 +7,20 @@ All notable changes to this project will be documented in this file, since v7.0.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres
 to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [10.2.0] - 2022-01-14
+## [10.3.0] - 2022-01-18
+
+## Changed
+
+* feature: [fa]: #1932, #1948 Update inline validation file
+* feature: [ja]: #1956 Updated Japan translation
+
+### Reference
+
+* feature: #1957 Added Laravel 9 for dev tests
+* feature: #1950, #1952, #1953 Normalize `composer.json`
+* feature: #1951 Laravel Nova validation keys moved to separate files
+
+## [10.2.0] - 2022-01-16
 
 ### Changed
 
@@ -705,44 +718,44 @@ For more information, see #1606 and #1607.
 
 * feature: #1269 Rename locale folders following ISO 15897 format
 
-[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/10.2.0...master
-[10.2.0]: https://github.com/caouecs/Laravel-lang/compare/10.1.12...10.2.0
-[10.1.12]: https://github.com/caouecs/Laravel-lang/compare/10.1.11...10.1.12
-[10.1.11]: https://github.com/caouecs/Laravel-lang/compare/10.1.10...10.1.11
-[10.1.10]: https://github.com/caouecs/Laravel-lang/compare/10.1.9...10.1.10
-[10.1.9]: https://github.com/caouecs/Laravel-lang/compare/10.1.8...10.1.9
-[10.1.8]: https://github.com/caouecs/Laravel-lang/compare/10.1.7...10.1.8
-[10.1.7]: https://github.com/caouecs/Laravel-lang/compare/10.1.6...10.1.7
-[10.1.6]: https://github.com/caouecs/Laravel-lang/compare/10.1.5...10.1.6
-[10.1.5]: https://github.com/caouecs/Laravel-lang/compare/10.1.4...10.1.5
-[10.1.4]: https://github.com/caouecs/Laravel-lang/compare/10.1.3...10.1.4
-[10.1.3]: https://github.com/caouecs/Laravel-lang/compare/10.1.2...10.1.3
-[10.1.2]: https://github.com/caouecs/Laravel-lang/compare/10.1.1...10.1.2
-[10.1.1]: https://github.com/caouecs/Laravel-lang/compare/10.1.0...10.1.1
-[10.1.0]: https://github.com/caouecs/Laravel-lang/compare/10.0.2...10.1.0
-[10.0.2]: https://github.com/caouecs/Laravel-lang/compare/10.0.1...10.0.2
-[10.0.1]: https://github.com/caouecs/Laravel-lang/compare/10.0.0...10.0.1
-[10.0.0]: https://github.com/caouecs/Laravel-lang/compare/9.1.2...10.0.0
-[9.1.2]: https://github.com/caouecs/Laravel-lang/compare/9.1.1...9.1.2
-[9.1.1]: https://github.com/caouecs/Laravel-lang/compare/9.1.0...9.1.1
-[9.1.0]: https://github.com/caouecs/Laravel-lang/compare/9.0.1...9.1.0
-[9.0.1]: https://github.com/caouecs/Laravel-lang/compare/9.0.0...9.0.1
-[9.0.0]: https://github.com/caouecs/Laravel-lang/compare/8.1.3...9.0.0
-[8.1.3]: https://github.com/caouecs/Laravel-lang/compare/8.1.2...8.1.3
-[8.1.2]: https://github.com/caouecs/Laravel-lang/compare/8.1.1...8.1.2
-[8.1.1]: https://github.com/caouecs/Laravel-lang/compare/8.1.0...8.1.1
-[8.1.0]: https://github.com/caouecs/Laravel-lang/compare/8.0.3...8.1.0
-[8.0.3]: https://github.com/caouecs/Laravel-lang/compare/8.0.2...8.0.3
-[8.0.2]: https://github.com/caouecs/Laravel-lang/compare/8.0.1...8.0.2
-[8.0.1]: https://github.com/caouecs/Laravel-lang/compare/8.0.0...8.0.1
-[8.0.0]: https://github.com/caouecs/Laravel-lang/compare/7.0.9...8.0.0
-[7.0.9]: https://github.com/caouecs/Laravel-lang/compare/7.0.8...7.0.9
-[7.0.8]: https://github.com/caouecs/Laravel-lang/compare/7.0.7...7.0.8
-[7.0.7]: https://github.com/caouecs/Laravel-lang/compare/7.0.6...7.0.7
-[7.0.6]: https://github.com/caouecs/Laravel-lang/compare/7.0.5...7.0.6
-[7.0.5]: https://github.com/caouecs/Laravel-lang/compare/7.0.4...7.0.5
-[7.0.4]: https://github.com/caouecs/Laravel-lang/compare/7.0.3...7.0.4
-[7.0.3]: https://github.com/caouecs/Laravel-lang/compare/7.0.2...7.0.3
-[7.0.2]: https://github.com/caouecs/Laravel-lang/compare/7.0.1...7.0.2
-[7.0.1]: https://github.com/caouecs/Laravel-lang/compare/7.0.0...7.0.1
-[7.0.0]: https://github.com/caouecs/Laravel-lang/compare/6.1.4...7.0.0
+[10.3.0]: https://github.com/Laravel-Lang/lang/compare/10.2.0...10.3.0
+[10.2.0]: https://github.com/Laravel-Lang/lang/compare/10.1.12...10.2.0
+[10.1.12]: https://github.com/Laravel-Lang/lang/compare/10.1.11...10.1.12
+[10.1.11]: https://github.com/Laravel-Lang/lang/compare/10.1.10...10.1.11
+[10.1.10]: https://github.com/Laravel-Lang/lang/compare/10.1.9...10.1.10
+[10.1.9]: https://github.com/Laravel-Lang/lang/compare/10.1.8...10.1.9
+[10.1.8]: https://github.com/Laravel-Lang/lang/compare/10.1.7...10.1.8
+[10.1.7]: https://github.com/Laravel-Lang/lang/compare/10.1.6...10.1.7
+[10.1.6]: https://github.com/Laravel-Lang/lang/compare/10.1.5...10.1.6
+[10.1.5]: https://github.com/Laravel-Lang/lang/compare/10.1.4...10.1.5
+[10.1.4]: https://github.com/Laravel-Lang/lang/compare/10.1.3...10.1.4
+[10.1.3]: https://github.com/Laravel-Lang/lang/compare/10.1.2...10.1.3
+[10.1.2]: https://github.com/Laravel-Lang/lang/compare/10.1.1...10.1.2
+[10.1.1]: https://github.com/Laravel-Lang/lang/compare/10.1.0...10.1.1
+[10.1.0]: https://github.com/Laravel-Lang/lang/compare/10.0.2...10.1.0
+[10.0.2]: https://github.com/Laravel-Lang/lang/compare/10.0.1...10.0.2
+[10.0.1]: https://github.com/Laravel-Lang/lang/compare/10.0.0...10.0.1
+[10.0.0]: https://github.com/Laravel-Lang/lang/compare/9.1.2...10.0.0
+[9.1.2]: https://github.com/Laravel-Lang/lang/compare/9.1.1...9.1.2
+[9.1.1]: https://github.com/Laravel-Lang/lang/compare/9.1.0...9.1.1
+[9.1.0]: https://github.com/Laravel-Lang/lang/compare/9.0.1...9.1.0
+[9.0.1]: https://github.com/Laravel-Lang/lang/compare/9.0.0...9.0.1
+[9.0.0]: https://github.com/Laravel-Lang/lang/compare/8.1.3...9.0.0
+[8.1.3]: https://github.com/Laravel-Lang/lang/compare/8.1.2...8.1.3
+[8.1.2]: https://github.com/Laravel-Lang/lang/compare/8.1.1...8.1.2
+[8.1.1]: https://github.com/Laravel-Lang/lang/compare/8.1.0...8.1.1
+[8.1.0]: https://github.com/Laravel-Lang/lang/compare/8.0.3...8.1.0
+[8.0.3]: https://github.com/Laravel-Lang/lang/compare/8.0.2...8.0.3
+[8.0.2]: https://github.com/Laravel-Lang/lang/compare/8.0.1...8.0.2
+[8.0.1]: https://github.com/Laravel-Lang/lang/compare/8.0.0...8.0.1
+[8.0.0]: https://github.com/Laravel-Lang/lang/compare/7.0.9...8.0.0
+[7.0.9]: https://github.com/Laravel-Lang/lang/compare/7.0.8...7.0.9
+[7.0.8]: https://github.com/Laravel-Lang/lang/compare/7.0.7...7.0.8
+[7.0.7]: https://github.com/Laravel-Lang/lang/compare/7.0.6...7.0.7
+[7.0.6]: https://github.com/Laravel-Lang/lang/compare/7.0.5...7.0.6
+[7.0.5]: https://github.com/Laravel-Lang/lang/compare/7.0.4...7.0.5
+[7.0.4]: https://github.com/Laravel-Lang/lang/compare/7.0.3...7.0.4
+[7.0.3]: https://github.com/Laravel-Lang/lang/compare/7.0.2...7.0.3
+[7.0.2]: https://github.com/Laravel-Lang/lang/compare/7.0.1...7.0.2
+[7.0.1]: https://github.com/Laravel-Lang/lang/compare/7.0.0...7.0.1
+[7.0.0]: https://github.com/Laravel-Lang/lang/compare/6.1.4...7.0.0

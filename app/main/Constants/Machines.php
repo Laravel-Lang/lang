@@ -7,7 +7,6 @@ class Machines
     public const LOCALES = [
         'az',
         'be',
-        'bn',
         'bs',
         'ca',
         'cs',

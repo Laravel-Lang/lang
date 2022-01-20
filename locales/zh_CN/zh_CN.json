@@ -579,7 +579,7 @@
     "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": ":attribute 至少为 :length 个字符且至少包含一个大写字母和一个特殊字符。",
     "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": ":attribute 至少为 :length 个字符且至少包含一个大写字母、一个数字和一个特殊字符。",
     "The :attribute must be at least :length characters and contain at least one uppercase character.": ":attribute 至少为 :length 个字符且至少包含一个大写字母。",
-    "The :attribute must be at least :length characters.": ":attribute 至少为 :length 个字符",
+    "The :attribute must be at least :length characters.": ":attribute 至少为 :length 个字符。",
     "The :attribute must contain at least one letter.": ":attribute 必须包含至少一个字母。",
     "The :attribute must contain at least one number.": ":attribute 必须包含至少一个数字。",
     "The :attribute must contain at least one symbol.": ":attribute 必须包含至少一个符号。",

@@ -63,8 +63,8 @@
     },
     "config": {
         "allow-plugins": {
-            "ergebnis/composer-normalize": true,
-            "composer/package-versions-deprecated": true
+            "composer/package-versions-deprecated": true,
+            "ergebnis/composer-normalize": true
         },
         "preferred-install": "dist",
         "sort-packages": true

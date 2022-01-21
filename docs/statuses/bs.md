@@ -3,7 +3,7 @@
 ##### All missed: 196
 
 
-### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/master/locales/bs/validation-attributes.php)
+### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/main/locales/bs/validation-attributes.php)
 
 ##### Missing: 33
 
@@ -243,9 +243,7 @@ Year
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/bs/validation-inline.php)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/bs/validation-inline.php)
 
 ##### Missing: 33
 
@@ -485,9 +483,7 @@ The string must be :size characters.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/bs/validation.php)
+### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/bs/validation.php)
 
 ##### Missing: 7
 
@@ -545,9 +541,7 @@ The :attribute field prohibits :other from being present.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [bs](https://github.com/Laravel-Lang/lang/blob/master/locales/bs/bs.json)
+### [bs](https://github.com/Laravel-Lang/lang/blob/main/locales/bs/bs.json)
 
 ##### Missing: 123
 
@@ -1048,6 +1042,4 @@ Zip / Postal Code
 
 </table>
 
-
-[ [go back](../status.md) | [to top](#) ]
 

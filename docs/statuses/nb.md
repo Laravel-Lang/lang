@@ -3,7 +3,7 @@
 ##### All missed: 51
 
 
-### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/master/locales/nb/validation-attributes.php)
+### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/main/locales/nb/validation-attributes.php)
 
 ##### Missing: 34
 
@@ -250,9 +250,7 @@ Year
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/nb/validation-inline.php)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/nb/validation-inline.php)
 
 ##### Missing: 4
 
@@ -289,9 +287,7 @@ The value must be a valid MAC address.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/nb/validation.php)
+### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/nb/validation.php)
 
 ##### Missing: 4
 
@@ -328,9 +324,7 @@ The :attribute must be a valid MAC address.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [nb](https://github.com/Laravel-Lang/lang/blob/master/locales/nb/nb.json)
+### [nb](https://github.com/Laravel-Lang/lang/blob/main/locales/nb/nb.json)
 
 ##### Missing: 9
 
@@ -374,6 +368,4 @@ You are logged in!
 
 </table>
 
-
-[ [go back](../status.md) | [to top](#) ]
 

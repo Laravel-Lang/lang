@@ -3,7 +3,7 @@
 ##### All missed: 141
 
 
-### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/sr_Latn/auth.php)
+### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/sr_Latn/auth.php)
 
 ##### Missing: 1
 
@@ -19,9 +19,7 @@ The provided password is incorrect.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/sr_Latn/validation-inline.php)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/sr_Latn/validation-inline.php)
 
 ##### Missing: 7
 
@@ -79,9 +77,7 @@ This field prohibits :other from being present.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/sr_Latn/validation.php)
+### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/sr_Latn/validation.php)
 
 ##### Missing: 7
 
@@ -139,9 +135,7 @@ The :attribute field prohibits :other from being present.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [sr_Latn](https://github.com/Laravel-Lang/lang/blob/master/locales/sr_Latn/sr_Latn.json)
+### [sr_Latn](https://github.com/Laravel-Lang/lang/blob/main/locales/sr_Latn/sr_Latn.json)
 
 ##### Missing: 126
 
@@ -654,6 +648,4 @@ Zip / Postal Code
 
 </table>
 
-
-[ [go back](../status.md) | [to top](#) ]
 

@@ -15,7 +15,7 @@ module.exports = {
         repo: 'https://github.com/Laravel-Lang/lang',
         repoLabel: 'GitHub',
         docsRepo: 'https://github.com/Laravel-Lang/lang',
-        docsBranch: 'master',
+        docsBranch: 'main',
         docsDir: 'docs',
 
         editLink: true,

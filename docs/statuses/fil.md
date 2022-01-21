@@ -3,7 +3,7 @@
 ##### All missed: 827
 
 
-### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/fil/auth.php)
+### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/fil/auth.php)
 
 ##### Missing: 3
 
@@ -33,9 +33,7 @@ Too many login attempts. Please try again in :seconds seconds.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [pagination](https://github.com/Laravel-Lang/lang/blob/master/locales/fil/pagination.php)
+### [pagination](https://github.com/Laravel-Lang/lang/blob/main/locales/fil/pagination.php)
 
 ##### Missing: 2
 
@@ -58,9 +56,7 @@ previous
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [passwords](https://github.com/Laravel-Lang/lang/blob/master/locales/fil/passwords.php)
+### [passwords](https://github.com/Laravel-Lang/lang/blob/main/locales/fil/passwords.php)
 
 ##### Missing: 5
 
@@ -104,9 +100,7 @@ We can't find a user with that email address.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/master/locales/fil/validation-attributes.php)
+### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/main/locales/fil/validation-attributes.php)
 
 ##### Missing: 34
 
@@ -353,9 +347,7 @@ Year
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/fil/validation-inline.php)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/fil/validation-inline.php)
 
 ##### Missing: 90
 
@@ -994,9 +986,7 @@ This must be a valid UUID.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation-nova-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/fil/validation-nova-inline.php)
+### [validation-nova-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/fil/validation-nova-inline.php)
 
 ##### Missing: 2
 
@@ -1019,9 +1009,7 @@ This field may not be associated with this resource.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation-nova](https://github.com/Laravel-Lang/lang/blob/master/locales/fil/validation-nova.php)
+### [validation-nova](https://github.com/Laravel-Lang/lang/blob/main/locales/fil/validation-nova.php)
 
 ##### Missing: 2
 
@@ -1044,9 +1032,7 @@ This :attribute may not be associated with this resource.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/fil/validation.php)
+### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/fil/validation.php)
 
 ##### Missing: 13
 
@@ -1146,9 +1132,7 @@ The :attribute field prohibits :other from being present.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [fil](https://github.com/Laravel-Lang/lang/blob/master/locales/fil/fil.json)
+### [fil](https://github.com/Laravel-Lang/lang/blob/main/locales/fil/fil.json)
 
 ##### Missing: 676
 
@@ -3862,6 +3846,4 @@ Zip / Postal Code
 
 </table>
 
-
-[ [go back](../status.md) | [to top](#) ]
 

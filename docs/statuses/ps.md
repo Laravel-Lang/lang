@@ -3,7 +3,7 @@
 ##### All missed: 756
 
 
-### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/ps/auth.php)
+### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/ps/auth.php)
 
 ##### Missing: 1
 
@@ -19,9 +19,7 @@ The provided password is incorrect.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [passwords](https://github.com/Laravel-Lang/lang/blob/master/locales/ps/passwords.php)
+### [passwords](https://github.com/Laravel-Lang/lang/blob/main/locales/ps/passwords.php)
 
 ##### Missing: 1
 
@@ -37,9 +35,7 @@ Please wait before retrying.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/ps/validation-inline.php)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/ps/validation-inline.php)
 
 ##### Missing: 90
 
@@ -678,9 +674,7 @@ This must be a valid UUID.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation-nova-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/ps/validation-nova-inline.php)
+### [validation-nova-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/ps/validation-nova-inline.php)
 
 ##### Missing: 2
 
@@ -703,9 +697,7 @@ This field may not be associated with this resource.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation-nova](https://github.com/Laravel-Lang/lang/blob/master/locales/ps/validation-nova.php)
+### [validation-nova](https://github.com/Laravel-Lang/lang/blob/main/locales/ps/validation-nova.php)
 
 ##### Missing: 2
 
@@ -728,9 +720,7 @@ This :attribute may not be associated with this resource.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/ps/validation.php)
+### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/ps/validation.php)
 
 ##### Missing: 13
 
@@ -830,9 +820,7 @@ The :attribute field prohibits :other from being present.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [ps](https://github.com/Laravel-Lang/lang/blob/master/locales/ps/ps.json)
+### [ps](https://github.com/Laravel-Lang/lang/blob/main/locales/ps/ps.json)
 
 ##### Missing: 647
 
@@ -3429,6 +3417,4 @@ Zip / Postal Code
 
 </table>
 
-
-[ [go back](../status.md) | [to top](#) ]
 

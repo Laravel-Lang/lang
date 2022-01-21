@@ -3,7 +3,7 @@
 ##### All missed: 848
 
 
-### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/sc/auth.php)
+### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/sc/auth.php)
 
 ##### Missing: 3
 
@@ -33,9 +33,7 @@ Too many login attempts. Please try again in :seconds seconds.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [passwords](https://github.com/Laravel-Lang/lang/blob/master/locales/sc/passwords.php)
+### [passwords](https://github.com/Laravel-Lang/lang/blob/main/locales/sc/passwords.php)
 
 ##### Missing: 1
 
@@ -51,9 +49,7 @@ Please wait before retrying.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/master/locales/sc/validation-attributes.php)
+### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/main/locales/sc/validation-attributes.php)
 
 ##### Missing: 34
 
@@ -300,9 +296,7 @@ Year
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/sc/validation-inline.php)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/sc/validation-inline.php)
 
 ##### Missing: 90
 
@@ -941,9 +935,7 @@ This must be a valid UUID.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation-nova-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/sc/validation-nova-inline.php)
+### [validation-nova-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/sc/validation-nova-inline.php)
 
 ##### Missing: 2
 
@@ -966,9 +958,7 @@ This field may not be associated with this resource.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation-nova](https://github.com/Laravel-Lang/lang/blob/master/locales/sc/validation-nova.php)
+### [validation-nova](https://github.com/Laravel-Lang/lang/blob/main/locales/sc/validation-nova.php)
 
 ##### Missing: 2
 
@@ -991,9 +981,7 @@ This :attribute may not be associated with this resource.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/sc/validation.php)
+### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/sc/validation.php)
 
 ##### Missing: 40
 
@@ -1282,9 +1270,7 @@ The :attribute must be a valid UUID.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [sc](https://github.com/Laravel-Lang/lang/blob/master/locales/sc/sc.json)
+### [sc](https://github.com/Laravel-Lang/lang/blob/main/locales/sc/sc.json)
 
 ##### Missing: 676
 
@@ -3998,6 +3984,4 @@ Zip / Postal Code
 
 </table>
 
-
-[ [go back](../status.md) | [to top](#) ]
 

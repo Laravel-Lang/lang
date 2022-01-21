@@ -3,7 +3,7 @@
 ##### All missed: 139
 
 
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/uk/validation-inline.php)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/uk/validation-inline.php)
 
 ##### Missing: 7
 
@@ -61,9 +61,7 @@ This field prohibits :other from being present.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/uk/validation.php)
+### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/uk/validation.php)
 
 ##### Missing: 7
 
@@ -121,9 +119,7 @@ The :attribute field prohibits :other from being present.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [uk](https://github.com/Laravel-Lang/lang/blob/master/locales/uk/uk.json)
+### [uk](https://github.com/Laravel-Lang/lang/blob/main/locales/uk/uk.json)
 
 ##### Missing: 125
 
@@ -632,6 +628,4 @@ Zip / Postal Code
 
 </table>
 
-
-[ [go back](../status.md) | [to top](#) ]
 

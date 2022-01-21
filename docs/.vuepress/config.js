@@ -38,7 +38,6 @@ module.exports = {
                         children: [
                             '/installation/compatibility.md',
                             '/installation/managers.md',
-                            '/installation/composer.md',
                             '/installation/github.md'
                         ]
                     },

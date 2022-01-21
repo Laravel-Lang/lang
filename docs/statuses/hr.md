@@ -1,5 +1,3 @@
-[Laravel Lang](https://github.com/Laravel-Lang/lang) / [Main Page](../index.md) / [Completion Status](../status.md) / hr
-
 # hr
 
 ##### All missed: 254

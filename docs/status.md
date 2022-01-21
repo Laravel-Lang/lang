@@ -1,5 +1,3 @@
-[Laravel Lang](https://github.com/Laravel-Lang/lang) / [Main Page](index.md) / Completion Status
-
 # Completion status
 
 > Translation of localizations is completed by **78%** (59K / 75.5K).

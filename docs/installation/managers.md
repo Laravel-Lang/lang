@@ -1,6 +1,6 @@
-[Laravel Lang](https://github.com/Laravel-Lang/lang) / [Main Page](../index.md) / [Installation](../index.md#installation) / Via Translation Managers
+# Translation Managers
 
-# Via Translation Managers
+Use one of the translation managers to automate the file update process:
 
 * [Lang Publisher](https://github.com/Laravel-Lang/publisher) by [*@Laravel-Lang/laravel-lang*](https://github.com/Laravel-Lang/publisher) - Easy installation and update of
   translation files for your project.

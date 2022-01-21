@@ -6,11 +6,16 @@ module.exports = {
     title: 'Laravel Lang',
     description: 'List of 78 languages for Laravel Framework 4-9, Jetstream, Fortify, Breeze, Cashier, Nova, Spark and UI.',
 
+    head: [
+        ['link', { rel: 'icon', href: '/images/logo.svg' }],
+        ['meta', { name: 'twitter:image', content: 'https://laravel-lang.com/images/social-logo.png' }]
+    ],
+
     theme: '@vuepress/theme-default',
     themeConfig: {
         base: '/',
 
-        logo: '/images/logo.png',
+        logo: '/images/logo.svg',
 
         repo: 'https://github.com/Laravel-Lang/lang',
         repoLabel: 'GitHub',
@@ -74,7 +79,18 @@ module.exports = {
                 ]
             }
         ]
-    }
+    },
+
+    plugins: [
+        [
+            'seo',
+            {
+                description: $page => $page.frontmatter.description,
+                type: _ => 'website',
+                image: (_, $site) => $site.domain + '/images/social-logo.png'
+            }
+        ]
+    ]
 };
 
 function getChildren(folder, sort = 'asc') {

@@ -20,7 +20,7 @@ module.exports = {
         repo: 'https://github.com/Laravel-Lang/lang',
         repoLabel: 'GitHub',
         docsRepo: 'https://github.com/Laravel-Lang/lang',
-        docsBranch: 'main',
+        docsBranch: 'master',
         docsDir: 'docs',
 
         editLink: true,

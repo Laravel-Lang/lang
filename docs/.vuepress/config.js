@@ -1,7 +1,10 @@
+const fs = require('fs');
+const path = require('path');
+
 module.exports = {
     lang: 'en-US',
     title: 'Laravel Lang',
-    description: 'Languages for Laravel applications',
+    description: 'List of 78 languages for Laravel Framework 4-9, Jetstream, Fortify, Breeze, Cashier, Nova, Spark and UI.',
 
     theme: '@vuepress/theme-default',
     themeConfig: {
@@ -22,14 +25,17 @@ module.exports = {
             { text: '10.x', link: '/changelog/10.x.md' }
         ],
 
-        sidebarDepth: 3,
+        sidebarDepth: 1,
 
         sidebar: [
             {
                 text: 'Getting Started',
                 collapsible: true,
                 children: [
-                    { text: 'Introduction', link: '/' },
+                    {
+                        text: 'Introduction',
+                        link: '/'
+                    },
 
                     {
                         text: 'Installation',
@@ -43,22 +49,22 @@ module.exports = {
                     },
 
                     { text: 'Basic Usage', link: '/usage.md' },
-                    { text: 'Translations Status', link: '/status.md' },
+
+                    {
+                        text: 'Translations Status',
+                        link: '/status.md',
+                        collapsible: true,
+                        children: getChildren('statuses')
+                    },
 
                     {
                         text: 'Changelog',
                         link: '/changelog/index.md',
                         collapsible: true,
-                        children: [
-                            { text: '10.x', link: '/changelog/10.x.md' },
-                            { text: '9.x', link: '/changelog/9.x.md' },
-                            { text: '8.x', link: '/changelog/8.x.md' },
-                            { text: '7.x', link: '/changelog/7.x.md' }
-                        ]
+                        children: getChildren('changelog', 'desc')
                     }
                 ]
-            },
-            {
+            }, {
                 text: 'References',
                 collapsible: true,
                 children: [
@@ -70,3 +76,36 @@ module.exports = {
         ]
     }
 };
+
+function getChildren(folder, sort = 'asc') {
+    const extension = ['.md'];
+    const names = ['index.md', 'readme.md'];
+
+    const dir = `${ __dirname }/../${ folder }`;
+
+    return fs
+        .readdirSync(path.join(dir))
+        .filter(item =>
+            fs.statSync(path.join(dir, item)).isFile() &&
+            ! names.includes(item.toLowerCase()) &&
+            extension.includes(path.extname(item))
+        )
+        .sort((a, b) => {
+            a = resolveNumeric(a);
+            b = resolveNumeric(b);
+
+            if (a < b) return sort === 'asc' ? -1 : 1;
+            if (a > b) return sort === 'asc' ? 1 : -1;
+
+            return 0;
+        }).map(item => `/${ folder }/${ item }`);
+}
+
+function resolveNumeric(value) {
+    const sub = value.substr(0, value.indexOf('.'));
+
+    const num = Number(sub);
+
+    return isNaN(num) ? value : num;
+}
+

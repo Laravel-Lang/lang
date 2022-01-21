@@ -1,0 +1,27 @@
+{
+    "name": "docs",
+    "version": "1.0.0",
+    "description": "List of 78 languages for Laravel Framework 4-9, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova, Laravel Spark and Laravel UI.",
+    "author": "Laravel Lang Team",
+    "license": "MIT",
+    "homepage": "https://github.com/Laravel-Lang/lang#readme",
+    "bugs": {
+        "url": "https://github.com/Laravel-Lang/lang/issues"
+    },
+    "scripts": {
+        "dev": "vuepress dev docs",
+        "build": "vuepress build docs"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/Laravel-Lang/lang.git"
+    },
+    "keywords": [
+        "docs"
+    ],
+    "devDependencies": {
+        "@vuepress/plugin-theme-data": "^2.0.0-beta.33",
+        "vuepress": "^2.0.0-beta.33",
+        "vuepress-plugin-seo": "^0.2.0"
+    }
+}

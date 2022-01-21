@@ -1,5 +1,3 @@
-[Laravel Lang](https://github.com/Laravel-Lang/lang) / [Main Page](index.md) / Contributing
-
 # Contributing
 
 Contributions are **welcome** and will be fully **credited**.
@@ -18,15 +16,21 @@ We accept contributions via Pull Requests on [Github](https://github.com/Laravel
     * `passwords.php`
     * `validation.php`
     * `validation-inline.php`
+    * `validation-attributes.php`
+    * `validation-nova.php`
+    * `validation-nova-inline.php`
+    * `packages/breeze.json`
     * `packages/cashier.json`
     * `packages/fortify.json`
     * `packages/jetstream.json`
+    * `packages/jetstream-ext.json`
     * `packages/nova.json`
     * `packages/spark-paddle.json`
     * `packages/spark-stripe.json`
+    * `packages/ui.json`
 * Rename json file according to localization (ex: `fr` for `locales/fr/fr.json`, `de` for `locales/de/de.json`, etc)
-* keep in mind that the `validation-inline.php` file does not come with Laravel and the idea of this file is not to put a specific name to each attribute (as
-  in `validation.php`) but a generic name for the validation attributes. Therefore in the translations of this file the placeholder `:attribute` **should not**
+* keep in mind that the `validation-inline.php` file does not come with Laravel and the idea of this file is not to put a specific name to each attribute (as in `validation.php`)
+  but a generic name for the validation attributes. Therefore in the translations of this file the placeholder `:attribute` **should not**
   appear.
 * add a pull request with the name of the language
     * ex: [fr] New language
@@ -40,8 +44,8 @@ We accept contributions via Pull Requests on [Github](https://github.com/Laravel
 
 ## What should I do if there is a tag whose translation is the same as in English?
 
-In some languages there are some strings whose translation is the same as in English. In this case, the script that generates the [status](status.md) adds them
-by default to the list of pending translations. This affects the *completion status* for this language which would never be marked in *status list* with (
+In some languages there are some strings whose translation is the same as in English. In this case, the script that generates the [status](status.md) adds them by default to the
+list of pending translations. This affects the *completion status* for this language which would never be marked in *status list* with (
 ✔) but with (❗) even if all other strings were translated.
 
 We can avoid this situation in the following way:
@@ -49,8 +53,8 @@ We can avoid this situation in the following way:
 * fork this repository if you haven't already
 * add a PHP file named with the short name of the language (ex: `es.php` for Spanish) inside the directory `excludes`
 * this php file must return an array of strings with each of the tags that we must exclude.
-    * for example suppose that the strings `'Email'` and `'API Token'` in `es.json` (ex: for Spanish) do not need translation in this language and therefore
-      want to exclude them. The PHP file `es.php` (for example) in `excludes` should have this structure which you can copy for other languages.
+    * for example suppose that the strings `'Email'` and `'API Token'` in `es.json` (ex: for Spanish) do not need translation in this language and therefore want to exclude them.
+      The PHP file `es.php` (for example) in `excludes` should have this structure which you can copy for other languages.
 
 ```php
 <?php

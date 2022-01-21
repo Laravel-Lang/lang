@@ -1,5 +1,3 @@
-[Laravel Lang](https://github.com/Laravel-Lang/lang) / [Main Page](../index.md) / [Completion Status](../status.md) / uz_Latn
-
 # uz_Latn
 
 ##### All missed: 244

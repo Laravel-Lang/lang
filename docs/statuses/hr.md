@@ -3,7 +3,7 @@
 ##### All missed: 254
 
 
-### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/hr/auth.php)
+### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/hr/auth.php)
 
 ##### Missing: 1
 
@@ -19,7 +19,7 @@ The provided password is incorrect.
 </table>
 
 
-### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/main/locales/hr/validation-attributes.php)
+### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/master/locales/hr/validation-attributes.php)
 
 ##### Missing: 34
 
@@ -266,7 +266,7 @@ Year
 </table>
 
 
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/hr/validation-inline.php)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/hr/validation-inline.php)
 
 ##### Missing: 33
 
@@ -506,7 +506,7 @@ The string must be :size characters.
 </table>
 
 
-### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/hr/validation.php)
+### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/hr/validation.php)
 
 ##### Missing: 7
 
@@ -564,7 +564,7 @@ The :attribute field prohibits :other from being present.
 </table>
 
 
-### [hr](https://github.com/Laravel-Lang/lang/blob/main/locales/hr/hr.json)
+### [hr](https://github.com/Laravel-Lang/lang/blob/master/locales/hr/hr.json)
 
 ##### Missing: 179
 

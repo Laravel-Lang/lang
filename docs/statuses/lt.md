@@ -3,7 +3,7 @@
 ##### All missed: 202
 
 
-### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/main/locales/lt/validation-attributes.php)
+### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/master/locales/lt/validation-attributes.php)
 
 ##### Missing: 34
 
@@ -250,7 +250,7 @@ Year
 </table>
 
 
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/lt/validation-inline.php)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/lt/validation-inline.php)
 
 ##### Missing: 7
 
@@ -308,7 +308,7 @@ This field prohibits :other from being present.
 </table>
 
 
-### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/lt/validation.php)
+### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/lt/validation.php)
 
 ##### Missing: 7
 
@@ -366,7 +366,7 @@ The :attribute field prohibits :other from being present.
 </table>
 
 
-### [lt](https://github.com/Laravel-Lang/lang/blob/main/locales/lt/lt.json)
+### [lt](https://github.com/Laravel-Lang/lang/blob/master/locales/lt/lt.json)
 
 ##### Missing: 154
 

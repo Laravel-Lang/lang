@@ -3,7 +3,7 @@
 ##### All missed: 220
 
 
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/sk/validation-inline.php)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/sk/validation-inline.php)
 
 ##### Missing: 33
 
@@ -243,7 +243,7 @@ The string must be :size characters.
 </table>
 
 
-### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/sk/validation.php)
+### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/sk/validation.php)
 
 ##### Missing: 2
 
@@ -266,7 +266,7 @@ The :attribute must be a valid MAC address.
 </table>
 
 
-### [sk](https://github.com/Laravel-Lang/lang/blob/main/locales/sk/sk.json)
+### [sk](https://github.com/Laravel-Lang/lang/blob/master/locales/sk/sk.json)
 
 ##### Missing: 185
 

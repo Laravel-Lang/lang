@@ -3,7 +3,7 @@
 ##### All missed: 194
 
 
-### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/ne/auth.php)
+### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/ne/auth.php)
 
 ##### Missing: 1
 
@@ -19,7 +19,7 @@ The provided password is incorrect.
 </table>
 
 
-### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/main/locales/ne/validation-attributes.php)
+### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/master/locales/ne/validation-attributes.php)
 
 ##### Missing: 34
 
@@ -266,7 +266,7 @@ Year
 </table>
 
 
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/ne/validation-inline.php)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/ne/validation-inline.php)
 
 ##### Missing: 7
 
@@ -324,7 +324,7 @@ This field prohibits :other from being present.
 </table>
 
 
-### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/ne/validation.php)
+### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/ne/validation.php)
 
 ##### Missing: 7
 
@@ -382,7 +382,7 @@ The :attribute field prohibits :other from being present.
 </table>
 
 
-### [ne](https://github.com/Laravel-Lang/lang/blob/main/locales/ne/ne.json)
+### [ne](https://github.com/Laravel-Lang/lang/blob/master/locales/ne/ne.json)
 
 ##### Missing: 145
 

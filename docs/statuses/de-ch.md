@@ -3,7 +3,7 @@
 ##### All missed: 139
 
 
-### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/de_CH/auth.php)
+### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/de_CH/auth.php)
 
 ##### Missing: 1
 
@@ -19,7 +19,7 @@ The provided password is incorrect.
 </table>
 
 
-### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/main/locales/de_CH/validation-attributes.php)
+### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/master/locales/de_CH/validation-attributes.php)
 
 ##### Missing: 1
 
@@ -35,7 +35,7 @@ Minute
 </table>
 
 
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/de_CH/validation-inline.php)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/de_CH/validation-inline.php)
 
 ##### Missing: 7
 
@@ -93,7 +93,7 @@ This field prohibits :other from being present.
 </table>
 
 
-### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/de_CH/validation.php)
+### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/de_CH/validation.php)
 
 ##### Missing: 7
 
@@ -151,7 +151,7 @@ The :attribute field prohibits :other from being present.
 </table>
 
 
-### [de_CH](https://github.com/Laravel-Lang/lang/blob/main/locales/de_CH/de_CH.json)
+### [de_CH](https://github.com/Laravel-Lang/lang/blob/master/locales/de_CH/de_CH.json)
 
 ##### Missing: 123
 

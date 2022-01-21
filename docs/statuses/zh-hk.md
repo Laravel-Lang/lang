@@ -3,7 +3,7 @@
 ##### All missed: 137
 
 
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/zh_HK/validation-inline.php)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/zh_HK/validation-inline.php)
 
 ##### Missing: 7
 
@@ -61,7 +61,7 @@ This field prohibits :other from being present.
 </table>
 
 
-### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/zh_HK/validation.php)
+### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/zh_HK/validation.php)
 
 ##### Missing: 7
 
@@ -119,7 +119,7 @@ The :attribute field prohibits :other from being present.
 </table>
 
 
-### [zh_HK](https://github.com/Laravel-Lang/lang/blob/main/locales/zh_HK/zh_HK.json)
+### [zh_HK](https://github.com/Laravel-Lang/lang/blob/master/locales/zh_HK/zh_HK.json)
 
 ##### Missing: 123
 

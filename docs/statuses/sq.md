@@ -3,7 +3,7 @@
 ##### All missed: 260
 
 
-### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/sq/auth.php)
+### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/sq/auth.php)
 
 ##### Missing: 1
 
@@ -19,7 +19,7 @@ The provided password is incorrect.
 </table>
 
 
-### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/main/locales/sq/validation-attributes.php)
+### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/master/locales/sq/validation-attributes.php)
 
 ##### Missing: 34
 
@@ -266,7 +266,7 @@ Year
 </table>
 
 
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/sq/validation-inline.php)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/sq/validation-inline.php)
 
 ##### Missing: 7
 
@@ -324,7 +324,7 @@ This field prohibits :other from being present.
 </table>
 
 
-### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/sq/validation.php)
+### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/sq/validation.php)
 
 ##### Missing: 7
 
@@ -382,7 +382,7 @@ The :attribute field prohibits :other from being present.
 </table>
 
 
-### [sq](https://github.com/Laravel-Lang/lang/blob/main/locales/sq/sq.json)
+### [sq](https://github.com/Laravel-Lang/lang/blob/master/locales/sq/sq.json)
 
 ##### Missing: 211
 

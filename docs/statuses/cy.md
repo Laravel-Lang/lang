@@ -3,7 +3,7 @@
 ##### All missed: 210
 
 
-### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/cy/auth.php)
+### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/cy/auth.php)
 
 ##### Missing: 3
 
@@ -33,7 +33,7 @@ Too many login attempts. Please try again in :seconds seconds.
 </table>
 
 
-### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/main/locales/cy/validation-attributes.php)
+### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/master/locales/cy/validation-attributes.php)
 
 ##### Missing: 34
 
@@ -280,7 +280,7 @@ Year
 </table>
 
 
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/cy/validation-inline.php)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/cy/validation-inline.php)
 
 ##### Missing: 33
 
@@ -520,7 +520,7 @@ The string must be :size characters.
 </table>
 
 
-### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/cy/validation.php)
+### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/cy/validation.php)
 
 ##### Missing: 17
 
@@ -648,7 +648,7 @@ The :attribute field prohibits :other from being present.
 </table>
 
 
-### [cy](https://github.com/Laravel-Lang/lang/blob/main/locales/cy/cy.json)
+### [cy](https://github.com/Laravel-Lang/lang/blob/master/locales/cy/cy.json)
 
 ##### Missing: 123
 

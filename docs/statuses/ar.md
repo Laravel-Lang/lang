@@ -3,7 +3,7 @@
 ##### All missed: 13
 
 
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/ar/validation-inline.php)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/ar/validation-inline.php)
 
 ##### Missing: 2
 
@@ -26,7 +26,7 @@ The value must be a valid MAC address.
 </table>
 
 
-### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/ar/validation.php)
+### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/ar/validation.php)
 
 ##### Missing: 2
 
@@ -49,7 +49,7 @@ The :attribute must be a valid MAC address.
 </table>
 
 
-### [ar](https://github.com/Laravel-Lang/lang/blob/main/locales/ar/ar.json)
+### [ar](https://github.com/Laravel-Lang/lang/blob/master/locales/ar/ar.json)
 
 ##### Missing: 9
 

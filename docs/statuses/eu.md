@@ -3,7 +3,7 @@
 ##### All missed: 164
 
 
-### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/eu/auth.php)
+### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/eu/auth.php)
 
 ##### Missing: 1
 
@@ -19,7 +19,7 @@ The provided password is incorrect.
 </table>
 
 
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/eu/validation-inline.php)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/eu/validation-inline.php)
 
 ##### Missing: 33
 
@@ -259,7 +259,7 @@ The string must be :size characters.
 </table>
 
 
-### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/eu/validation.php)
+### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/eu/validation.php)
 
 ##### Missing: 7
 
@@ -317,7 +317,7 @@ The :attribute field prohibits :other from being present.
 </table>
 
 
-### [eu](https://github.com/Laravel-Lang/lang/blob/main/locales/eu/eu.json)
+### [eu](https://github.com/Laravel-Lang/lang/blob/master/locales/eu/eu.json)
 
 ##### Missing: 123
 

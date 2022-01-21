@@ -3,7 +3,7 @@
 ##### All missed: 175
 
 
-### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/main/locales/km/validation-attributes.php)
+### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/master/locales/km/validation-attributes.php)
 
 ##### Missing: 34
 
@@ -250,7 +250,7 @@ Year
 </table>
 
 
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/km/validation-inline.php)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/km/validation-inline.php)
 
 ##### Missing: 7
 
@@ -308,7 +308,7 @@ This field prohibits :other from being present.
 </table>
 
 
-### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/km/validation.php)
+### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/km/validation.php)
 
 ##### Missing: 7
 
@@ -366,7 +366,7 @@ The :attribute field prohibits :other from being present.
 </table>
 
 
-### [km](https://github.com/Laravel-Lang/lang/blob/main/locales/km/km.json)
+### [km](https://github.com/Laravel-Lang/lang/blob/master/locales/km/km.json)
 
 ##### Missing: 127
 

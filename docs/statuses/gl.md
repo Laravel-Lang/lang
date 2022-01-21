@@ -3,7 +3,7 @@
 ##### All missed: 293
 
 
-### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/gl/auth.php)
+### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/gl/auth.php)
 
 ##### Missing: 1
 
@@ -19,7 +19,7 @@ The provided password is incorrect.
 </table>
 
 
-### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/main/locales/gl/validation-attributes.php)
+### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/master/locales/gl/validation-attributes.php)
 
 ##### Missing: 34
 
@@ -266,7 +266,7 @@ Year
 </table>
 
 
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/gl/validation-inline.php)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/gl/validation-inline.php)
 
 ##### Missing: 33
 
@@ -506,7 +506,7 @@ The string must be :size characters.
 </table>
 
 
-### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/gl/validation.php)
+### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/gl/validation.php)
 
 ##### Missing: 7
 
@@ -564,7 +564,7 @@ The :attribute field prohibits :other from being present.
 </table>
 
 
-### [gl](https://github.com/Laravel-Lang/lang/blob/main/locales/gl/gl.json)
+### [gl](https://github.com/Laravel-Lang/lang/blob/master/locales/gl/gl.json)
 
 ##### Missing: 218
 

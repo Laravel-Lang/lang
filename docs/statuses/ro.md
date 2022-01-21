@@ -3,7 +3,7 @@
 ##### All missed: 313
 
 
-### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/main/locales/ro/validation-attributes.php)
+### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/master/locales/ro/validation-attributes.php)
 
 ##### Missing: 34
 
@@ -250,7 +250,7 @@ Year
 </table>
 
 
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/ro/validation-inline.php)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/ro/validation-inline.php)
 
 ##### Missing: 33
 
@@ -490,7 +490,7 @@ The string must be :size characters.
 </table>
 
 
-### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/ro/validation.php)
+### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/ro/validation.php)
 
 ##### Missing: 7
 
@@ -548,7 +548,7 @@ The :attribute field prohibits :other from being present.
 </table>
 
 
-### [ro](https://github.com/Laravel-Lang/lang/blob/main/locales/ro/ro.json)
+### [ro](https://github.com/Laravel-Lang/lang/blob/master/locales/ro/ro.json)
 
 ##### Missing: 239
 

@@ -3,7 +3,7 @@
 ##### All missed: 848
 
 
-### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/tk/auth.php)
+### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/tk/auth.php)
 
 ##### Missing: 3
 
@@ -33,7 +33,7 @@ Too many login attempts. Please try again in :seconds seconds.
 </table>
 
 
-### [passwords](https://github.com/Laravel-Lang/lang/blob/main/locales/tk/passwords.php)
+### [passwords](https://github.com/Laravel-Lang/lang/blob/master/locales/tk/passwords.php)
 
 ##### Missing: 1
 
@@ -49,7 +49,7 @@ Please wait before retrying.
 </table>
 
 
-### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/main/locales/tk/validation-attributes.php)
+### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/master/locales/tk/validation-attributes.php)
 
 ##### Missing: 34
 
@@ -296,7 +296,7 @@ Year
 </table>
 
 
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/tk/validation-inline.php)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/tk/validation-inline.php)
 
 ##### Missing: 90
 
@@ -935,7 +935,7 @@ This must be a valid UUID.
 </table>
 
 
-### [validation-nova-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/tk/validation-nova-inline.php)
+### [validation-nova-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/tk/validation-nova-inline.php)
 
 ##### Missing: 2
 
@@ -958,7 +958,7 @@ This field may not be associated with this resource.
 </table>
 
 
-### [validation-nova](https://github.com/Laravel-Lang/lang/blob/main/locales/tk/validation-nova.php)
+### [validation-nova](https://github.com/Laravel-Lang/lang/blob/master/locales/tk/validation-nova.php)
 
 ##### Missing: 2
 
@@ -981,7 +981,7 @@ This :attribute may not be associated with this resource.
 </table>
 
 
-### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/tk/validation.php)
+### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/tk/validation.php)
 
 ##### Missing: 40
 
@@ -1270,7 +1270,7 @@ The :attribute must be a valid UUID.
 </table>
 
 
-### [tk](https://github.com/Laravel-Lang/lang/blob/main/locales/tk/tk.json)
+### [tk](https://github.com/Laravel-Lang/lang/blob/master/locales/tk/tk.json)
 
 ##### Missing: 676
 

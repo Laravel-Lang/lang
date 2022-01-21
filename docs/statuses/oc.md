@@ -3,7 +3,7 @@
 ##### All missed: 735
 
 
-### [passwords](https://github.com/Laravel-Lang/lang/blob/main/locales/oc/passwords.php)
+### [passwords](https://github.com/Laravel-Lang/lang/blob/master/locales/oc/passwords.php)
 
 ##### Missing: 1
 
@@ -19,7 +19,7 @@ Please wait before retrying.
 </table>
 
 
-### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/main/locales/oc/validation-attributes.php)
+### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/master/locales/oc/validation-attributes.php)
 
 ##### Missing: 34
 
@@ -266,7 +266,7 @@ Year
 </table>
 
 
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/oc/validation-inline.php)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/oc/validation-inline.php)
 
 ##### Missing: 10
 
@@ -345,7 +345,7 @@ This field prohibits :other from being present.
 </table>
 
 
-### [validation-nova-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/oc/validation-nova-inline.php)
+### [validation-nova-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/oc/validation-nova-inline.php)
 
 ##### Missing: 2
 
@@ -368,7 +368,7 @@ This field may not be associated with this resource.
 </table>
 
 
-### [validation-nova](https://github.com/Laravel-Lang/lang/blob/main/locales/oc/validation-nova.php)
+### [validation-nova](https://github.com/Laravel-Lang/lang/blob/master/locales/oc/validation-nova.php)
 
 ##### Missing: 2
 
@@ -391,7 +391,7 @@ This :attribute may not be associated with this resource.
 </table>
 
 
-### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/oc/validation.php)
+### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/oc/validation.php)
 
 ##### Missing: 10
 
@@ -470,7 +470,7 @@ The :attribute field prohibits :other from being present.
 </table>
 
 
-### [oc](https://github.com/Laravel-Lang/lang/blob/main/locales/oc/oc.json)
+### [oc](https://github.com/Laravel-Lang/lang/blob/master/locales/oc/oc.json)
 
 ##### Missing: 676
 

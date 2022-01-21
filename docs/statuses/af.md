@@ -3,7 +3,7 @@
 ##### All missed: 112
 
 
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/af/validation-inline.php)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/af/validation-inline.php)
 
 ##### Missing: 7
 
@@ -61,7 +61,7 @@ This field prohibits :other from being present.
 </table>
 
 
-### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/af/validation.php)
+### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/af/validation.php)
 
 ##### Missing: 7
 
@@ -119,7 +119,7 @@ The :attribute field prohibits :other from being present.
 </table>
 
 
-### [af](https://github.com/Laravel-Lang/lang/blob/main/locales/af/af.json)
+### [af](https://github.com/Laravel-Lang/lang/blob/master/locales/af/af.json)
 
 ##### Missing: 98
 

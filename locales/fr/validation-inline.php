@@ -44,7 +44,7 @@ return [
     'distinct'             => 'Ce champ a une valeur en double.',
     'email'                => 'Ce champ doit être une adresse e-mail valide.',
     'ends_with'            => 'Ce champ doit se terminer par une des valeurs suivantes : :values',
-    'enum'                 => 'The selected value is invalid.',
+    'enum'                 => 'Ce champ selectionné est invalide.',
     'exists'               => 'Ce champ sélectionné est invalide.',
     'file'                 => 'Ce champ doit être un fichier.',
     'filled'               => 'Ce champ doit avoir une valeur.',
@@ -80,7 +80,7 @@ return [
         'numeric' => 'La valeur doit être inférieure ou égale à :value.',
         'string'  => 'Le texte doit contenir au plus :value caractères.',
     ],
-    'mac_address'          => 'The value must be a valid MAC address.',
+    'mac_address'          => 'La valeur doit être une adresse MAC valide.',
     'max'                  => [
         'array'   => 'Le tableau ne peut contenir plus de :max éléments.',
         'file'    => 'La taille du fichier ne peut pas dépasser :max kilo-octets.',

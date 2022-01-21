@@ -3,7 +3,7 @@
 ##### All missed: 105
 
 
-### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/master/locales/sl/validation-attributes.php)
+### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/main/locales/sl/validation-attributes.php)
 
 ##### Missing: 1
 
@@ -19,9 +19,7 @@ Email
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/sl/validation-inline.php)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/sl/validation-inline.php)
 
 ##### Missing: 4
 
@@ -58,9 +56,7 @@ The value must be a valid MAC address.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/sl/validation.php)
+### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/sl/validation.php)
 
 ##### Missing: 4
 
@@ -97,9 +93,7 @@ The :attribute must be a valid MAC address.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [sl](https://github.com/Laravel-Lang/lang/blob/master/locales/sl/sl.json)
+### [sl](https://github.com/Laravel-Lang/lang/blob/main/locales/sl/sl.json)
 
 ##### Missing: 96
 
@@ -491,6 +485,4 @@ You may cancel your subscription at any time. Once your subscription has been ca
 
 </table>
 
-
-[ [go back](../status.md) | [to top](#) ]
 

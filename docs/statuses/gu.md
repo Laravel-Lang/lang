@@ -3,7 +3,7 @@
 ##### All missed: 791
 
 
-### [passwords](https://github.com/Laravel-Lang/lang/blob/master/locales/gu/passwords.php)
+### [passwords](https://github.com/Laravel-Lang/lang/blob/main/locales/gu/passwords.php)
 
 ##### Missing: 1
 
@@ -19,9 +19,7 @@ Please wait before retrying.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/gu/validation-inline.php)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/gu/validation-inline.php)
 
 ##### Missing: 98
 
@@ -716,9 +714,7 @@ This must be a valid UUID.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation-nova-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/gu/validation-nova-inline.php)
+### [validation-nova-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/gu/validation-nova-inline.php)
 
 ##### Missing: 2
 
@@ -741,9 +737,7 @@ This field may not be associated with this resource.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation-nova](https://github.com/Laravel-Lang/lang/blob/master/locales/gu/validation-nova.php)
+### [validation-nova](https://github.com/Laravel-Lang/lang/blob/main/locales/gu/validation-nova.php)
 
 ##### Missing: 2
 
@@ -766,9 +760,7 @@ This :attribute may not be associated with this resource.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/gu/validation.php)
+### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/gu/validation.php)
 
 ##### Missing: 12
 
@@ -861,9 +853,7 @@ The :attribute field prohibits :other from being present.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [gu](https://github.com/Laravel-Lang/lang/blob/master/locales/gu/gu.json)
+### [gu](https://github.com/Laravel-Lang/lang/blob/main/locales/gu/gu.json)
 
 ##### Missing: 676
 
@@ -3577,6 +3567,4 @@ Zip / Postal Code
 
 </table>
 
-
-[ [go back](../status.md) | [to top](#) ]
 

@@ -3,7 +3,7 @@
 ##### All missed: 166
 
 
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/sr_Latn_ME/validation-inline.php)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/sr_Latn_ME/validation-inline.php)
 
 ##### Missing: 33
 
@@ -243,9 +243,7 @@ The string must be :size characters.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/sr_Latn_ME/validation.php)
+### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/sr_Latn_ME/validation.php)
 
 ##### Missing: 7
 
@@ -303,9 +301,7 @@ The :attribute field prohibits :other from being present.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [sr_Latn_ME](https://github.com/Laravel-Lang/lang/blob/master/locales/sr_Latn_ME/sr_Latn_ME.json)
+### [sr_Latn_ME](https://github.com/Laravel-Lang/lang/blob/main/locales/sr_Latn_ME/sr_Latn_ME.json)
 
 ##### Missing: 126
 
@@ -818,6 +814,4 @@ Zip / Postal Code
 
 </table>
 
-
-[ [go back](../status.md) | [to top](#) ]
 

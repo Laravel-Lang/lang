@@ -3,7 +3,7 @@
 ##### All missed: 171
 
 
-### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/master/locales/pt/validation-attributes.php)
+### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/main/locales/pt/validation-attributes.php)
 
 ##### Missing: 34
 
@@ -250,9 +250,7 @@ Year
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/pt/validation-inline.php)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/pt/validation-inline.php)
 
 ##### Missing: 7
 
@@ -310,9 +308,7 @@ This field prohibits :other from being present.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/pt/validation.php)
+### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/pt/validation.php)
 
 ##### Missing: 7
 
@@ -370,9 +366,7 @@ The :attribute field prohibits :other from being present.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [pt](https://github.com/Laravel-Lang/lang/blob/master/locales/pt/pt.json)
+### [pt](https://github.com/Laravel-Lang/lang/blob/main/locales/pt/pt.json)
 
 ##### Missing: 123
 
@@ -873,6 +867,4 @@ Zip / Postal Code
 
 </table>
 
-
-[ [go back](../status.md) | [to top](#) ]
 

@@ -3,7 +3,7 @@
 ##### All missed: 59
 
 
-### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/master/locales/fi/validation-attributes.php)
+### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/main/locales/fi/validation-attributes.php)
 
 ##### Missing: 34
 
@@ -250,9 +250,7 @@ Year
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/fi/validation-inline.php)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/fi/validation-inline.php)
 
 ##### Missing: 7
 
@@ -310,9 +308,7 @@ This field prohibits :other from being present.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/fi/validation.php)
+### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/fi/validation.php)
 
 ##### Missing: 7
 
@@ -370,9 +366,7 @@ The :attribute field prohibits :other from being present.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [fi](https://github.com/Laravel-Lang/lang/blob/master/locales/fi/fi.json)
+### [fi](https://github.com/Laravel-Lang/lang/blob/main/locales/fi/fi.json)
 
 ##### Missing: 11
 
@@ -425,6 +419,4 @@ You are logged in!
 
 </table>
 
-
-[ [go back](../status.md) | [to top](#) ]
 

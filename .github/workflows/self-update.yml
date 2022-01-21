@@ -2,7 +2,7 @@ name: self-update
 on:
     push:
         branches:
-            - master
+            - main
 
 jobs:
     build:

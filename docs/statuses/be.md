@@ -3,7 +3,7 @@
 ##### All missed: 208
 
 
-### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/be/auth.php)
+### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/be/auth.php)
 
 ##### Missing: 1
 
@@ -19,9 +19,7 @@ The provided password is incorrect.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/master/locales/be/validation-attributes.php)
+### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/main/locales/be/validation-attributes.php)
 
 ##### Missing: 34
 
@@ -268,9 +266,7 @@ Year
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/be/validation-inline.php)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/be/validation-inline.php)
 
 ##### Missing: 33
 
@@ -510,9 +506,7 @@ The string must be :size characters.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/be/validation.php)
+### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/be/validation.php)
 
 ##### Missing: 17
 
@@ -640,9 +634,7 @@ The :attribute field prohibits :other from being present.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [be](https://github.com/Laravel-Lang/lang/blob/master/locales/be/be.json)
+### [be](https://github.com/Laravel-Lang/lang/blob/main/locales/be/be.json)
 
 ##### Missing: 123
 
@@ -1143,6 +1135,4 @@ Zip / Postal Code
 
 </table>
 
-
-[ [go back](../status.md) | [to top](#) ]
 

@@ -3,7 +3,7 @@
 ##### All missed: 21
 
 
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/bn/validation-inline.php)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/bn/validation-inline.php)
 
 ##### Missing: 2
 
@@ -26,9 +26,7 @@ The value must be a valid MAC address.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/bn/validation.php)
+### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/bn/validation.php)
 
 ##### Missing: 16
 
@@ -149,9 +147,7 @@ The :attribute field prohibits :other from being present.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [bn](https://github.com/Laravel-Lang/lang/blob/master/locales/bn/bn.json)
+### [bn](https://github.com/Laravel-Lang/lang/blob/main/locales/bn/bn.json)
 
 ##### Missing: 3
 
@@ -171,6 +167,4 @@ Total:
 
 </table>
 
-
-[ [go back](../status.md) | [to top](#) ]
 

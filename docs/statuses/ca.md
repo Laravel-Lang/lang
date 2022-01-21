@@ -3,7 +3,7 @@
 ##### All missed: 177
 
 
-### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/ca/auth.php)
+### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/ca/auth.php)
 
 ##### Missing: 1
 
@@ -19,9 +19,7 @@ The provided password is incorrect.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/ca/validation-inline.php)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/ca/validation-inline.php)
 
 ##### Missing: 33
 
@@ -261,9 +259,7 @@ The string must be :size characters.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/ca/validation.php)
+### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/ca/validation.php)
 
 ##### Missing: 7
 
@@ -321,9 +317,7 @@ The :attribute field prohibits :other from being present.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [ca](https://github.com/Laravel-Lang/lang/blob/master/locales/ca/ca.json)
+### [ca](https://github.com/Laravel-Lang/lang/blob/main/locales/ca/ca.json)
 
 ##### Missing: 136
 
@@ -875,6 +869,4 @@ Zimbabwe
 
 </table>
 
-
-[ [go back](../status.md) | [to top](#) ]
 

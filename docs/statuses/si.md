@@ -3,7 +3,7 @@
 ##### All missed: 28
 
 
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/si/validation-inline.php)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/si/validation-inline.php)
 
 ##### Missing: 5
 
@@ -47,9 +47,7 @@ The value must be a valid MAC address.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/si/validation.php)
+### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/si/validation.php)
 
 ##### Missing: 4
 
@@ -86,9 +84,7 @@ The :attribute must be a valid MAC address.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [si](https://github.com/Laravel-Lang/lang/blob/master/locales/si/si.json)
+### [si](https://github.com/Laravel-Lang/lang/blob/main/locales/si/si.json)
 
 ##### Missing: 19
 
@@ -172,6 +168,4 @@ You are logged in!
 
 </table>
 
-
-[ [go back](../status.md) | [to top](#) ]
 

@@ -3,7 +3,7 @@
 ##### All missed: 131
 
 
-### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/master/locales/ka/validation-attributes.php)
+### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/main/locales/ka/validation-attributes.php)
 
 ##### Missing: 34
 
@@ -250,9 +250,7 @@ Year
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/ka/validation-inline.php)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/ka/validation-inline.php)
 
 ##### Missing: 4
 
@@ -289,9 +287,7 @@ The value must be a valid MAC address.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/ka/validation.php)
+### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/ka/validation.php)
 
 ##### Missing: 4
 
@@ -328,9 +324,7 @@ The :attribute must be a valid MAC address.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
-### [ka](https://github.com/Laravel-Lang/lang/blob/master/locales/ka/ka.json)
+### [ka](https://github.com/Laravel-Lang/lang/blob/main/locales/ka/ka.json)
 
 ##### Missing: 89
 
@@ -694,6 +688,4 @@ Zip / Postal Code
 
 </table>
 
-
-[ [go back](../status.md) | [to top](#) ]
 

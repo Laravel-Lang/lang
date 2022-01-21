@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Isian ini hanya boleh berisi huruf, angka, strip, dan garis bawah.',
     'alpha_num'            => 'Isian ini hanya boleh berisi huruf dan angka.',
     'array'                => 'Isian harus berisi sebuah array.',
-    'attached'             => 'Isian ini sudah dilampirkan.',
     'before'               => 'Tanggal harus berisi sebelum :date.',
     'before_or_equal'      => 'Tanggal harus berisi tanggal sebelum atau sama dengan :date.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => 'Isian ini memiliki nilai duplikat.',
     'email'                => 'Isian ini harus berisi format email yang benar.',
     'ends_with'            => 'Isian ini harus berakhiran dengan: :values.',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'Nilai yang dipilih tidak sesuai.',
     'file'                 => 'Konten harus berisi sebuah berkas.',
     'filled'               => 'Isian ini harus berisi sebuah nilai.',
@@ -80,6 +80,7 @@ return [
         'numeric' => 'Nilai harus berisi kurang dari atau setara :value.',
         'string'  => 'String harus berisi kurang dari atau setara :value karakter.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Panjang array tidak boleh lebih dari :max item.',
         'file'    => 'Ukuran konten tidak boleh lebih besar dari :max kilobyte.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => 'Isian ini tidak boleh ada kecuali :other memiliki nilai :values.',
     'prohibits'            => 'Isian ini melarang isian :other untuk ditampilkan.',
     'regex'                => 'Format ini tidak sesuai.',
-    'relatable'            => 'Isian ini mungkin tidak berasosiasi dengan sumber ini.',
     'required'             => 'Isian ini wajib diisi',
     'required_if'          => 'Isian ini wajib diisi bila :other adalah :value.',
     'required_unless'      => 'Isian ini wajib diisi jika :other berada dalam :values.',

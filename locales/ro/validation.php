@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Câmpul :attribute poate conține doar litere, numere și cratime.',
     'alpha_num'            => 'Câmpul :attribute poate conține doar litere și numere.',
     'array'                => 'Câmpul :attribute trebuie să fie un array.',
-    'attached'             => 'Acest :attribute este deja atașat.',
     'before'               => 'Câmpul :attribute trebuie să fie o dată înainte de :date.',
     'before_or_equal'      => 'Câmpul :attribute trebuie să fie o dată înainte sau egală cu :date.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => 'Câmpul :attribute are o valoare duplicat.',
     'email'                => 'Câmpul :attribute trebuie să fie o adresă de e-mail validă.',
     'ends_with'            => 'Câmpul :attribute trebuie să se încheie cu una din următoarele valori: :values',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'Câmpul :attribute selectat nu este valid.',
     'file'                 => 'Câmpul :attribute trebuie să fie un fișier.',
     'filled'               => 'Câmpul :attribute trebuie completat.',
@@ -80,6 +80,7 @@ return [
         'numeric' => 'Câmpul :attribute trebuie să fie mai mic sau egal cu :value.',
         'string'  => 'Câmpul :attribute trebuie să fie mai mic sau egal cu :value caractere.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Câmpul :attribute nu poate avea mai mult de :max elemente.',
         'file'    => 'Câmpul :attribute nu poate avea mai mult de :max kiloocteți.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => 'Câmpul :attribute este interzis, cu excepția cazului în care :other este în :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Câmpul :attribute nu are un format valid.',
-    'relatable'            => 'Acest :attribute nu poate fi asociat cu această resursă.',
     'required'             => 'Câmpul :attribute este obligatoriu.',
     'required_if'          => 'Câmpul :attribute este necesar când :other este :value.',
     'required_unless'      => 'Câmpul :attribute este necesar, cu excepția cazului :other este in :values.',

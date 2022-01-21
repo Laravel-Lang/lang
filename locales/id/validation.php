@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ':Attribute hanya boleh berisi huruf, angka, strip, dan garis bawah.',
     'alpha_num'            => ':Attribute hanya boleh berisi huruf dan angka.',
     'array'                => ':Attribute harus berisi sebuah array.',
-    'attached'             => ':Attribute sudah dilampirkan.',
     'before'               => ':Attribute harus berisi tanggal sebelum :date.',
     'before_or_equal'      => ':Attribute harus berisi tanggal sebelum atau sama dengan :date.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => ':Attribute memiliki nilai yang duplikat.',
     'email'                => ':Attribute harus berupa alamat surel yang valid.',
     'ends_with'            => ':Attribute harus diakhiri salah satu dari berikut: :values',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => ':Attribute yang dipilih tidak valid.',
     'file'                 => ':Attribute harus berupa sebuah berkas.',
     'filled'               => ':Attribute harus memiliki nilai.',
@@ -80,6 +80,7 @@ return [
         'numeric' => ':Attribute harus bernilai kurang dari atau sama dengan :value.',
         'string'  => ':Attribute harus berisi kurang dari atau sama dengan :value karakter.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ':Attribute maksimal terdiri dari :max anggota.',
         'file'    => ':Attribute maksimal berukuran :max kilobita.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => ':Attribute tidak boleh ada kecuali :other memiliki nilai :values.',
     'prohibits'            => ':Attribute melarang isian :other untuk ditampilkan.',
     'regex'                => 'Format :attribute tidak valid.',
-    'relatable'            => ':Attribute ini mungkin tidak berasosiasi dengan sumber ini.',
     'required'             => ':Attribute wajib diisi.',
     'required_if'          => ':Attribute wajib diisi bila :other adalah :value.',
     'required_unless'      => ':Attribute wajib diisi kecuali :other memiliki nilai :values.',

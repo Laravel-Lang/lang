@@ -1,9 +1,9 @@
 <?php
 
-namespace LaravelLang\Lang\Processors;
+namespace LaravelLang\Development\Processors;
 
 use DragonCode\Support\Facades\Helpers\Arr;
-use LaravelLang\Lang\Facades\Package;
+use LaravelLang\Development\Facades\Package;
 
 class Packages extends Processor
 {
@@ -11,6 +11,7 @@ class Packages extends Processor
         'laravel/breeze'    => 'packages/breeze.json',
         'laravel/fortify'   => 'packages/fortify.json',
         'laravel/jetstream' => 'packages/jetstream.json',
+        'laravel/ui'        => 'packages/ui.json',
     ];
 
     public function run(): void

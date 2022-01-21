@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Hierdie veld mag slegs letters, syfers, strepies en onderstrepe bevat.',
     'alpha_num'            => 'Hierdie veld mag slegs letters en syfers bevat.',
     'array'                => 'Hierdie veld moet \'n array wees.',
-    'attached'             => 'Hierdie veld is reeds aangeheg.',
     'before'               => 'Dit moet \'n datum voor :date wees.',
     'before_or_equal'      => 'Dit moet \'n datum gelyk of voor :date wees.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => 'Hierdie veld het \'n duplikaatwaarde.',
     'email'                => 'Dit moet \'n geldige e-posadres wees.',
     'ends_with'            => 'Dit moet eindig met een van die volgende: :values.',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'Die geselekteerde waarde is ongeldig.',
     'file'                 => 'Die inhoud moet \'n lêer wees.',
     'filled'               => 'Hierdie veld moet \'n waarde hê.',
@@ -80,6 +80,7 @@ return [
         'numeric' => 'Die waarde moet kleiner as of gelyk aan :value wees.',
         'string'  => 'Die string moet kleiner as of gelyk aan :value karakters wees.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Die inhoud mag nie meer as :max items wees.',
         'file'    => 'Die lêergrootte mag nie groter as :max kilobytes wees.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => 'Hierdie veld is verbode, tensy :other is in :values.',
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Hierdie formaat is ongeldig.',
-    'relatable'            => 'Hierdie veld kan nie wees wat verband hou met hierdie hulpbron.',
     'required'             => 'Hierdie veld word vereis.',
     'required_if'          => 'Hierdie veld is nodig wanneer :other :value is.',
     'required_unless'      => 'Hierdie veld word vereis tensy :other in :values is.',

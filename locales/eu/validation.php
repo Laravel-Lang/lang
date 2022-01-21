@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ':attribute hizkiak, zenbakiak eta marrak besterik ezin ditu izan.',
     'alpha_num'            => ':attribute hizkiak eta zenbakiak besterik ezin ditu izan.',
     'array'                => ':attribute bilduma izan behar da.',
-    'attached'             => 'Hau :attribute da dagoeneko erantsita.',
     'before'               => ':attribute :date aurreko data izan behar da.',
     'before_or_equal'      => ':attribute :date aurreko data edo data bera izan behar da.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => ':attribute-(e)k bikoiztutako balioa dauka.',
     'email'                => ':attribute baliozko helbide elektronikoa izan behar da.',
     'ends_with'            => ':attribute-(e)k ondorengo balioetako batekin amaitu behar du: :values',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => ':attribute baliogabea da.',
     'file'                 => ':attribute fitxategi bat izan behar da.',
     'filled'               => ':attribute derrigorrezkoa da.',
@@ -80,6 +80,7 @@ return [
         'numeric' => ':attribute-(e)k :value baino txikiagoa edo berdina izan behar du.',
         'string'  => ':attribute-(e)k :value karaktere edo gutxiago izan behar ditu.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ':attribute-(e)k ezin du :max elementu baino gehiago eduki.',
         'file'    => ':attribute ezin da :max kilobyte baino handiagoa izan.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => 'The :attribute eremuan, debekatuta dago ezean :other da :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute baliogabea da.',
-    'relatable'            => 'Hau :attribute ezingo lotutako baliabide hau.',
     'required'             => ':attribute derrigorrezkoa da.',
     'required_if'          => ':attribute derrigorrezkoa da :other :value denean.',
     'required_unless'      => ':attribute derrigorrezkoa da :other :values-(e)n egon ezean.',

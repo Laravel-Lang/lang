@@ -13,7 +13,7 @@
 
 return [
     'accepted'             => 'این مقدار باید پذیرفته شده باشد.',
-    'accepted_if'          => 'This field must be accepted when :other is :value.',
+    'accepted_if'          => 'این مقدار باید پذیرفته شود زمانه که :other برابر با :value.',
     'active_url'           => 'این مقدار یک آدرس معتبر نیست.',
     'after'                => 'این مقدار باید یک تاریخ بعد از :date باشد.',
     'after_or_equal'       => 'این مقدار باید یک تاریخ مساوی یا بعد از :date باشد.',
@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'این مقدار تنها میتواند شامل حروف، اعداد، خط تیره و زیرخط باشد.',
     'alpha_num'            => 'این مقداز تنها میتواند شامل حروف و اعداد باشد.',
     'array'                => 'این مقدار باید یک آرایه باشد.',
-    'attached'             => 'This field is already attached.',
     'before'               => 'این مقدار باید یک تاریخ قبل از :date باشد.',
     'before_or_equal'      => 'این مقدار باید یک تاریخ مساوی یا قبل از :date باشد.',
     'between'              => [
@@ -36,8 +35,8 @@ return [
     'date'                 => 'این مقدار یک تاریخ معبتر نیست.',
     'date_equals'          => 'این مقدار باید یک تاریخ مساوی با :date باشد.',
     'date_format'          => 'این مقدار با فرمت :format همخوانی ندارد.',
-    'declined'             => 'This value must be declined.',
-    'declined_if'          => 'This value must be declined when :other is :value.',
+    'declined'             => 'این مقدار قابل پذیرش نیست.',
+    'declined_if'          => 'این مقدار قابل پذیرش نیست زمانی که :other برابر با :value.',
     'different'            => 'این مقدار باید متفاوت از :other باشد.',
     'digits'               => 'این مقدار باید :digits رقمی باشد.',
     'digits_between'       => 'تعداد ارقام این مقدار باید بین :min و :max باشد.',
@@ -45,6 +44,7 @@ return [
     'distinct'             => 'مقدار این ورودی تکراری است.',
     'email'                => 'این مقدار باید یک آدرس ایمیل معتبر باشد.',
     'ends_with'            => 'این مقدار باید با یکی از عبارت های روبرو پایان یابد: :values.',
+    'enum'                 => 'مقدار انتخاب شده معتبر نمی باشد.',
     'exists'               => 'مقدار انتخابی نا معتبر است.',
     'file'                 => 'این ورودی باید یک فایل باشد.',
     'filled'               => 'این ورودی باید یک مقدار داشته باشد.',
@@ -80,6 +80,7 @@ return [
         'numeric' => 'مقدار ورودی باید کمتر یا مساوی :value باشد.',
         'string'  => 'تعداد حروف رشته ورودی باید کمتر یا مساوی :value باشد.',
     ],
+    'mac_address'          => 'مک آدرس وارد شده معتبر نمی باشد.',
     'max'                  => [
         'array'   => 'مقدار ورودی نباید بیشتر از :max گزینه داشته باشد.',
         'file'    => 'حجم فایل ورودی نباید بیشتر از :max کیلوبایت باشد.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => 'This field is prohibited unless :other is in :values.',
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'این فرمت نامعتبر است.',
-    'relatable'            => 'This field may not be associated with this resource.',
     'required'             => 'این مقدار ضروری است.',
     'required_if'          => 'این مقدار ضروری است وقتی که :other برابر :value است.',
     'required_unless'      => 'این مقدار ضروری است مگر اینکه :other برابر :values باشد.',

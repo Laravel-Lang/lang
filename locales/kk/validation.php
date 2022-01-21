@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ' :attribute тек әріптерден, сандардан және сызықшалардан тұруы керек.',
     'alpha_num'            => ' :attribute тек әріптерден және сандардан тұруы керек.',
     'array'                => ' :attribute жиым болуы керек.',
-    'attached'             => 'Бұл нөмір :attribute тіркелген.',
     'before'               => ' :attribute мәні :date күнінен дейінгі күн болуы керек.',
     'before_or_equal'      => ' :attribute мәні :date күнінен дейінгі күн немесе тең болуы керек.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => ' :attribute жолында қосарланған мән бар.',
     'email'                => ' :attribute жарамды электрондық пошта мекенжайы болуы керек.',
     'ends_with'            => ' :attribute келесі мәндердің біреуінен аяқталуы керек: :values',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => ' таңдалған :attribute жарамсыз.',
     'file'                 => ' :attribute файл болуы тиіс.',
     'filled'               => ' :attribute жолы толтырылуы керек.',
@@ -80,6 +80,7 @@ return [
         'numeric' => ' :attribute мәні :value кіші немесе тең болуы керек.',
         'string'  => ' :attribute мәні :value таңбалардан кіші немесе тең болуы керек.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ' :attribute жиымының құрамы :max элементтен аспауы керек.',
         'file'    => ' :attribute мәні :max килобайттан көп болмауы керек.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => ':attribute өрісіне тыйым салынады, егер тек :other :values-де болмаса.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ' :attribute пішімі жарамсыз.',
-    'relatable'            => 'Бұл :attribute осы ресурсқа байланысты болмауы мүмкін.',
     'required'             => ' :attribute жолы толтырылуы керек.',
     'required_if'          => ' :attribute жолы :other мәні :value болған кезде толтырылуы керек.',
     'required_unless'      => ' :attribute жолы :other мәні :values ішінде болмағанда толтырылуы керек.',

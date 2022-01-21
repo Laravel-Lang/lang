@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => '只能以字母、數字、連接線(-)及底線(_)組成。',
     'alpha_num'            => '只能以字母及數字組成。',
     'array'                => '必須為陣列。',
-    'attached'             => '此字段已附加。',
     'before'               => '必須要早於 :date。',
     'before_or_equal'      => '必須要等於 :date 或更早。',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => '已經存在。',
     'email'                => '必須是有效的 E-mail。',
     'ends_with'            => '結尾必須包含下列之一：:values。',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => '不存在。',
     'file'                 => '必須是有效的檔案。',
     'filled'               => '不能留空。',
@@ -80,6 +80,7 @@ return [
         'numeric' => '必須小於或等於 :value。',
         'string'  => '必須少於或等於 :value 個字元。',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => '最多有 :max 個元素。',
         'file'    => '不能大於 :max KB。',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => '除非 :other 在 :values 中，否則禁止此字段。',
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => '格式錯誤。',
-    'relatable'            => '此字段可能與此資源不相關聯。',
     'required'             => '不能留空。',
     'required_if'          => '當 :other 是 :value 時不能留空。',
     'required_unless'      => '當 :other 不是 :values 時不能留空。',

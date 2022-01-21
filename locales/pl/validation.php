@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Pole :attribute może zawierać jedynie litery, cyfry i myślniki.',
     'alpha_num'            => 'Pole :attribute może zawierać jedynie litery i cyfry.',
     'array'                => 'Pole :attribute musi być tablicą.',
-    'attached'             => 'Ten :attribute jest już dołączony.',
     'before'               => 'Pole :attribute musi być datą wcześniejszą od :date.',
     'before_or_equal'      => 'Pole :attribute musi być datą nie późniejszą niż :date.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => 'Pole :attribute ma zduplikowane wartości.',
     'email'                => 'Pole :attribute nie jest poprawnym adresem e-mail.',
     'ends_with'            => 'Pole :attribute musi kończyć się jedną z następujących wartości: :values.',
+    'enum'                 => 'Pole :attribute ma niepoprawną wartość.',
     'exists'               => 'Zaznaczone pole :attribute jest nieprawidłowe.',
     'file'                 => 'Pole :attribute musi być plikiem.',
     'filled'               => 'Pole :attribute nie może być puste.',
@@ -80,6 +80,7 @@ return [
         'numeric' => 'Pole :attribute musi być mniejsze lub równe :value.',
         'string'  => 'Pole :attribute musi być krótsze lub równe :value znaków.',
     ],
+    'mac_address'          => 'Pole :attribute musi być prawidłowym adresem MAC.',
     'max'                  => [
         'array'   => 'Pole :attribute nie może mieć więcej niż :max elementów.',
         'file'    => 'Pole :attribute nie może być większe niż :max kilobajtów.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => 'Pole :attribute jest zabronione, chyba że :other jest w :values.',
     'prohibits'            => 'Pole :attribute zabrania obecności :other.',
     'regex'                => 'Format pola :attribute jest nieprawidłowy.',
-    'relatable'            => 'Ten :attribute może nie być powiązany z tym zasobem.',
     'required'             => 'Pole :attribute jest wymagane.',
     'required_if'          => 'Pole :attribute jest wymagane gdy :other ma wartość :value.',
     'required_unless'      => 'Pole :attribute jest wymagane jeżeli :other nie znajduje się w :values.',

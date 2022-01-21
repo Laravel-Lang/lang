@@ -1,8 +1,8 @@
 <?php
 
-namespace LaravelLang\Lang\Services\Compilers;
+namespace LaravelLang\Development\Services\Compilers;
 
-use LaravelLang\Lang\Constants\Resource;
+use LaravelLang\Development\Constants\Resource;
 
 class Referents extends Compiler
 {

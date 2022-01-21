@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Lo camp :attribute a de conténer solament de letras, nombres e de tirets.',
     'alpha_num'            => 'Lo camp :attribute a de conténer solament de letras e nombres.',
     'array'                => 'Lo camp :attribute deu èsser un tablèu.',
-    'attached'             => 'This :attribute is already attached.',
     'before'               => 'Lo camp :attribute deu èsser una data anteriora a :date.',
     'before_or_equal'      => 'Lo camp :attribute deu èsser una data anteriora o egala a :date.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => 'Lo camp :attribute a un doblon.',
     'email'                => ':attribute deu èsser una adreça de corrièl valida.',
     'ends_with'            => 'Lo camp :attribute deu acabar per una de las valors seguentas : :values',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'Lo :attribute seleccionat es invalid.',
     'file'                 => 'Lo camp :attribute deu èsser un fichièr.',
     'filled'               => 'Lo camp :attribute deu aver una valor.',
@@ -80,6 +80,7 @@ return [
         'numeric' => 'La valor de :attribute deu èsser inferiora o egala a :value.',
         'string'  => 'Lo tèxt :attribute deu conténer al pus mai :value caractèrs.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Lo tablèu :attribute deu pas conténer mai de :max elements.',
         'file'    => 'La talha del fichièr :attribute deu pas èsser superior a :max kiloctets.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => 'The :attribute field is prohibited unless :other is in :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Lo format :attribute es invalid.',
-    'relatable'            => 'This :attribute may not be associated with this resource.',
     'required'             => 'Lo camp :attribute es obligatòri.',
     'required_if'          => 'Lo camp :attribute es obligatòri quand :other es :value.',
     'required_unless'      => 'Lo camp :attribute es obligatòri levat se :other es dins :values.',

@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Қиммати :attribute метавонад танҳо дорои ҳарфҳои алифо, ададҳо ва хати тире бошад.',
     'alpha_num'            => 'Қиммати :attribute метавонад танҳо дорои ҳарфҳои алифо ва ададҳо бошад',
     'array'                => 'Қиммати :attribute бояд, ки массив бошад.',
-    'attached'             => 'Ин :attribute аллакай прикреплен.',
     'before'               => 'Қиммати :attribute бояд санаи қабл аз :date бошад.',
     'before_or_equal'      => 'Қиммати :attribute бояд санаи қабл ё баробари :date бошад.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => ':attribute дорои қиммати такроршаванда мебошад.',
     'email'                => 'Қиммати :attribute бояд суроғаи электронии дуруст бошад.',
     'ends_with'            => 'Рақами :attribute бояд заканчиваться яке аз зерин: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'Қиммати интихобкардаи :attribute нодуруст мебошад.',
     'file'                 => 'Қиммати :attribute бояд файл бошад.',
     'filled'               => ':attribute бояд дорои қиммат бошад.',
@@ -80,6 +80,7 @@ return [
         'numeric' => 'The :attribute must be less than or equal :value.',
         'string'  => 'The :attribute must be less than or equal :value characters.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Миқдори элементҳо дар :attribute бояд на зиёда аз :max бошад.',
         'file'    => 'Ҳаҷми файл дар :attribute набояд аз :max Килобайт зиёд бошад.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => 'Майдони :attribute манъ аст, агар танҳо :other аст, дар :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Формати :attribute нодуруст мебошад.',
-    'relatable'            => 'Ин :attribute мумкин нест, вобаста ба ин захираҳо.',
     'required'             => ':attribute бояд дорои қиммат бошад.',
     'required_if'          => ':attribute бояд дорои қиммат бошад агар :other ба :value баробар бошад.',
     'required_unless'      => ':attribute бояд дорои қиммат бошад агар :other дар :values мавҷуд бошад.',

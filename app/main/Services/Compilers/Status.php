@@ -1,10 +1,10 @@
 <?php
 
-namespace LaravelLang\Lang\Services\Compilers;
+namespace LaravelLang\Development\Services\Compilers;
 
 use DragonCode\Support\Facades\Helpers\Str;
-use LaravelLang\Lang\Constants\Resource;
-use LaravelLang\Lang\Models\Locale;
+use LaravelLang\Development\Constants\Resource;
+use LaravelLang\Development\Models\Locale;
 
 class Status extends Compiler
 {
@@ -59,7 +59,7 @@ class Status extends Compiler
     }
 
     /**
-     * @param  \LaravelLang\Lang\Models\Locale[]|array  $items
+     * @param  \LaravelLang\Development\Models\Locale[]|array  $items
      *
      * @return array
      */

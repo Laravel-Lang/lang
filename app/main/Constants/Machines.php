@@ -1,13 +1,12 @@
 <?php
 
-namespace LaravelLang\Lang\Constants;
+namespace LaravelLang\Development\Constants;
 
 class Machines
 {
     public const LOCALES = [
         'az',
         'be',
-        'bn',
         'bs',
         'ca',
         'cs',

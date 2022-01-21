@@ -1,10 +1,10 @@
 <?php
 
-namespace LaravelLang\Lang\Services\Filesystem;
+namespace LaravelLang\Development\Services\Filesystem;
 
 use DragonCode\Support\Facades\Helpers\Filesystem\File;
 use DragonCode\Support\Tools\Stub;
-use LaravelLang\Lang\Contracts\Stringable;
+use LaravelLang\Development\Contracts\Stringable;
 
 class Markdown extends Base
 {

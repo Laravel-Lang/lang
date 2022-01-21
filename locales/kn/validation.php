@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'ಈ  :attribute ಅಕ್ಷರಗಳು, ಸಂಖ್ಯೆಗಳು, ಡ್ಯಾಶ್ಗಳು ಮತ್ತು ಅಂಡರ್ಸ್ಕೋರ್ಗಳನ್ನು ಮಾತ್ರ ಹೊಂದಿರಬಹುದು.',
     'alpha_num'            => 'ಈ  :attribute ಅಕ್ಷರಗಳು ಮತ್ತು ಸಂಖ್ಯೆಗಳನ್ನು ಮಾತ್ರ ಹೊಂದಿರಬಹುದು.',
     'array'                => 'ಈ  :attribute ಒಂದು ಶ್ರೇಣಿಯಾಗಿರಬೇಕು .',
-    'attached'             => 'ಈ :attribute ಈಗಾಗಲೇ ಲಗತ್ತಿಸಲಾಗಿದೆ.',
     'before'               => 'ಈ  :attribute ದಿನಾಂಕವು  :date ಮುಂಚಿನ  ದಿನಾಂಕವಾಗಿರಬೇಕು.',
     'before_or_equal'      => 'ಈ  :attribute ದಿನಾಂಕವು  :date ಮುಂಚಿನ  ಅಥವಾ ಸಮನಾದ ದಿನಾಂಕವಾಗಿರಬೇಕು.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => 'ಈ  :attribute ಕ್ಷೇತ್ರವು ನಕಲಿ ಮೌಲ್ಯವನ್ನು ಹೊಂದಿದೆ.',
     'email'                => 'ಈ  :attribute ಮಾನ್ಯವಾದ ಇಮೇಲ್ ವಿಳಾಸವಾಗಿರಬೇಕು.',
     'ends_with'            => 'The :attribute must end with one of the following: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'ಈ  ಆಯ್ಕೆಮಾಡಲಾದ :attribute ಅಮಾನ್ಯವಾಗಿದೆ .',
     'file'                 => 'ಈ  :attribute ಫೈಲ್ ಆಗಿರಬೇಕು.',
     'filled'               => 'ಈ  :attribute ಕ್ಷೇತ್ರವು ಮೌಲ್ಯವನ್ನು ಹೊಂದಿರಬೇಕು.',
@@ -80,6 +80,7 @@ return [
         'numeric' => 'ಈ  :attribute ನಲ್ಲಿ  :value ಗಿಂತ  ಕಡಿಮೆ ಅಥವಾ ಸಮನಾಗಿರಬೇಕು.',
         'string'  => 'ಈ  :attribute ನಲ್ಲಿ  :value ಅಕ್ಷರಗಳಿಗಿಂತ  ಕಡಿಮೆ ಅಥವಾ ಸಮನಾಗಿರಬೇಕು.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => 'ಈ  :attribute ನಲ್ಲಿ  :max ಐಟಂಗಳಿಗಿಂತ  ಹೆಚ್ಚು ಇರಬಾರದು .',
         'file'    => 'ಈ  :attribute ನಲ್ಲಿ  :max ಕಿಲೋಬೈಟ್ಗಳಿಗಿಂತ ಹೆಚ್ಚು ಇರಬಾರದು .',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => 'The :attribute ಕ್ಷೇತ್ರದಲ್ಲಿ ನಿಷೇಧಿಸಲಾಗಿದೆ ಹೊರತು :other ಆಗಿದೆ :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'ಈ  :attribute ಸ್ವರೂಪ ಅಮಾನ್ಯವಾಗಿದೆ.',
-    'relatable'            => 'ಈ :attribute ಸಂಬಂಧಿಸಿದ ಇರಬಹುದು ಈ ಸಂಪನ್ಮೂಲ.',
     'required'             => 'ಈ  :attribute ಕ್ಷೇತ್ರ ಅಗತ್ಯವಿದೆ.',
     'required_if'          => 'ಈ  :attribute ಕ್ಷೇತ್ರ ಅಗತ್ಯವಿದೆ ಯಾವಾಗ :other ನಲ್ಲಿ :value.',
     'required_unless'      => 'ಈ  :attribute ಕ್ಷೇತ್ರ ಅಗತ್ಯವಿದೆ  unless :other ನಲ್ಲಿ  :values ಹೊರತುಪಡಿಸಿ .',

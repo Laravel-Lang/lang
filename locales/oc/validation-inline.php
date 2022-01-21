@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Lo camp a de conténer pas que de letras, nombres e de tirets.',
     'alpha_num'            => 'Lo camp a de conténer pas que de letras e nombres.',
     'array'                => 'Lo camp deu èsser un tablèu.',
-    'attached'             => 'This field is already attached.',
     'before'               => 'La deu èsser data anteriora a :date.',
     'before_or_equal'      => 'La deu èsser anteriora o egala a :date.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => 'Aqueste camp a un doblon.',
     'email'                => 'Aqueste camp deu èsser una adreça de corrièl valida.',
     'ends_with'            => 'Aqueste camp deu acabar per una de las valors seguentas : :values',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'Aqueste camp seleccionat es invalid.',
     'file'                 => 'Aqueste camp deu èsser un fichièr.',
     'filled'               => 'Aqueste camp deu aver una valor.',
@@ -80,6 +80,7 @@ return [
         'numeric' => 'La valor deu èsser inferiora o egala a :value.',
         'string'  => 'Lo tèxt deu conténer al pus mai :value caractèrs.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Lo tablèu deu pas conténer mai de :max elements.',
         'file'    => 'La talha del fichièr deu pas èsser superior a :max kiloctets.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => 'This field is prohibited unless :other is in :values.',
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Lo format del camp es invalid.',
-    'relatable'            => 'This field may not be associated with this resource.',
     'required'             => 'Aqueste camp es obligatòri.',
     'required_if'          => 'Aqueste camp es obligatòri quand :other es :value.',
     'required_unless'      => 'Aqueste camp es obligatòri levat se :other es dins :values.',

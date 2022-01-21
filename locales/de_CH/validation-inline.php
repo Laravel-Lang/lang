@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Der Inhalt darf nur aus Buchstaben, Zahlen, Binde- und Unterstrichen bestehen.',
     'alpha_num'            => 'Der Inhalt darf nur aus Buchstaben und Zahlen bestehen.',
     'array'                => 'Dieses Feld muss ein Array sein.',
-    'attached'             => 'Dieses Feld ist bereits angehängt.',
     'before'               => 'Das muss ein Datum vor dem :date sein.',
     'before_or_equal'      => 'Das muss ein Datum vor dem :date oder gleich dem :date sein.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => 'Dieser Wert ist bereits vorhanden.',
     'email'                => 'Das muss eine gültige E-Mail-Adresse sein.',
     'ends_with'            => 'Der Inhalt muss eine der folgenden Endungen aufweisen: :values',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'Der gewählte Wert ist ungültig.',
     'file'                 => 'Der Inhalt muss eine Datei sein.',
     'filled'               => 'Dieses Feld muss ausgefüllt sein.',
@@ -80,6 +80,7 @@ return [
         'numeric' => 'Der Wert muss kleiner oder gleich :value sein.',
         'string'  => 'Die Zeichenkette muss kleiner oder gleich :value Zeichen lang sein.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Der Inhalt darf nicht mehr als :max Elemente haben.',
         'file'    => 'Die Datei darf maximal :max Kilobytes gross sein.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => 'Dieses Feld ist gesperrt, wenn :other nicht :values ist.',
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Dieses Format ist ungültig.',
-    'relatable'            => 'Das kann nicht mit dieser Ressource verbunden werden.',
     'required'             => 'Dieses Feld muss ausgefüllt sein.',
     'required_if'          => 'Dieses Feld muss ausgefüllt sein, wenn :other :value ist.',
     'required_unless'      => 'Dieses Feld muss ausgefüllt sein, wenn :other nicht :values ist.',

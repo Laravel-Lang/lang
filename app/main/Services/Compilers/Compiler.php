@@ -1,12 +1,12 @@
 <?php
 
-namespace LaravelLang\Lang\Services\Compilers;
+namespace LaravelLang\Development\Services\Compilers;
 
 use DragonCode\Support\Concerns\Makeable;
-use LaravelLang\Lang\Concerns\Contains;
-use LaravelLang\Lang\Concerns\Template;
-use LaravelLang\Lang\Contracts\Application;
-use LaravelLang\Lang\Contracts\Stringable;
+use LaravelLang\Development\Concerns\Contains;
+use LaravelLang\Development\Concerns\Template;
+use LaravelLang\Development\Contracts\Application;
+use LaravelLang\Development\Contracts\Stringable;
 
 abstract class Compiler implements Stringable
 {

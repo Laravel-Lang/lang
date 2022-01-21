@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ':attribute võib sisaldada vaid tähti, numbreid ja kriipse.',
     'alpha_num'            => ':attribute võib sisaldada vaid tähti ja numbreid.',
     'array'                => ':attribute peab olema massiiv.',
-    'attached'             => 'See :attribute on juba lisatud.',
     'before'               => ':attribute peab olema kuupäev enne :date.',
     'before_or_equal'      => ':attribute peab olema kuupäev enne või samastuma :date.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => ':attribute väljal on topeltväärtus.',
     'email'                => ':attribute peab olema kehtiv e-posti aadress.',
     'ends_with'            => ':attribute peab lõppema ühega järgmistest: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'Valitud :attribute on vigane.',
     'file'                 => ':attribute peab olema fail.',
     'filled'               => ':attribute väli on nõutav.',
@@ -80,6 +80,7 @@ return [
         'numeric' => ':attribute peab olema väiksem kui :value või samasugune',
         'string'  => ':attribute peab sisaldama vähem või sama palju :value tähemärke',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ':attribute ei tohi sisaldada rohkem kui :max kirjet.',
         'file'    => ':attribute ei tohi olla suurem kui :max kilobaiti.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => ':attribute väli on keelatud, välja arvatud juhul, kui :other on :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute vorming on vigane.',
-    'relatable'            => 'See :attribute ei pruugi olla seotud selle ressursiga.',
     'required'             => ':attribute väli on nõutud.',
     'required_if'          => ':attribute väli on nõutud, kui :other on :value.',
     'required_unless'      => ':attribute väli on nõutud, välja arvatud, kui :other on :values.',

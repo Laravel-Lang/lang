@@ -1,5 +1,3 @@
-[Laravel Lang](https://github.com/Laravel-Lang/lang) / [Main Page](index.md) / Completion Status
-
 # Completion status
 
 > Translation of localizations is completed by **{{count_diff_percents}}%** ({{count_diff}} / {{count_all}}).

@@ -1,5 +1,3 @@
-[Laravel Lang](https://github.com/Laravel-Lang/lang) / [Main Page](index.md) / Referents by language
-
 # Referents by language
 
 <table >
@@ -598,5 +596,3 @@ zh_TW
 
 </table>
 
-
-[ [to top](#) ]

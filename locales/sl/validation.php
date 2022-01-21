@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ':attribute lahko vsebuje samo črke, številke in črtice.',
     'alpha_num'            => ':attribute lahko vsebuje samo črke in številke.',
     'array'                => ':attribute mora biti polje.',
-    'attached'             => 'Ta :attribute je že priložena.',
     'before'               => ':attribute mora biti pred datumom :date.',
     'before_or_equal'      => ':attribute mora biti pred ali enak :date.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => ':attribute je duplikat.',
     'email'                => ':attribute mora biti veljaven e-poštni naslov.',
     'ends_with'            => ':attribute se mora končati z eno od naslednjih vrednosti: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'izbran :attribute je neveljaven.',
     'file'                 => ':attribute mora biti datoteka.',
     'filled'               => ':attribute mora biti izpolnjen.',
@@ -80,6 +80,7 @@ return [
         'numeric' => ':attribute mora biti manjši ali enak :value.',
         'string'  => ':attribute mora imeti število znakov manjše ali enako :value.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ':attribute ne smejo imeti več kot :max elementov.',
         'file'    => ':attribute ne sme biti večje :max kilobajtov.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => 'Polje :attribute je prepovedano, razen če je :other v :values.',
     'prohibits'            => 'To polje prepoveduje prisotnost :other.',
     'regex'                => 'Format polja :attribute je neveljaven.',
-    'relatable'            => 'Ta :attribute morda ni povezan s tem virom.',
     'required'             => 'Polje :attribute je obvezno.',
     'required_if'          => 'Polje :attribute je obvezno, če je :other enak :value.',
     'required_unless'      => 'Polje :attribute je obvezno, razen če je :other v :values.',

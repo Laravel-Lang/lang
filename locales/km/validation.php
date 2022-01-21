@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ':attribute អាចមានតែអក្សរ លេខ និងសហសញ្ញា(-)។',
     'alpha_num'            => ':attribute អាចមានតែអក្សរ និងលេខ។',
     'array'                => ':attribute ត្រូវតែជា សំណុំ។',
-    'attached'             => ':attribute ត្រូវបានភ្ជាប់រួចទៅហើយ។',
     'before'               => ':attribute ត្រូវតែមានកាលបរិច្ឆេទមុន :date។',
     'before_or_equal'      => ':attribute ត្រូវតែជាកាលបរិច្ឆេទ មុនឬស្មើ :date។',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => ':attribute មានតម្លៃស្ទួន។',
     'email'                => ':attribute ទម្រង់នេះមិនត្រឹមត្រូវ។',
     'ends_with'            => ':attribute ត្រូវបញ្ចប់ដោយពាក្យមួយក្នុងចំណោម :values។',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'ការជ្រើសរើស :attribute ត្រឹមត្រូវ។',
     'file'                 => ':attribute ត្រូវតែជាប្រភេទឯកសារ។',
     'filled'               => 'ទម្រង់ :attribute នេះគឺទាមទារឲ្យមាន។',
@@ -80,6 +80,7 @@ return [
         'numeric' => ':attribute ត្រូវតែតិចជាងឬស្មើ :value។',
         'string'  => ':attribute ត្រូវតែតិចជាងឬស្មើ :value តួអក្សរ។',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ':attribute មិនត្រូវច្រើនជាងធាតុនេះ :max។',
         'file'    => ':attribute មិនត្រូវធំជាង :max គីឡូបៃ។',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => ':attribute នេះត្រូវហាមឃាត់លុះត្រា :other គឺនៅក្នុង :values។',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute ទម្រង់មិនត្រឹមត្រូវ។',
-    'relatable'            => ':attribute មិនអាចត្រូវបានភ្ជាប់ជាមួយនឹងធនធាននេះ។',
     'required'             => ':attribute នេះគឺទាមទារឲ្យមាន។',
     'required_if'          => ':attribute នេះគឺទាមទារនៅពេល :other គឺ :value។',
     'required_unless'      => ':attribute នេះគឺទាមទារនៅពេល :other មិនមែន :values។',

@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Polje :attribute može da sadrži samo slova, brojeve i povlake.',
     'alpha_num'            => 'Polje :attribute može da sadrži samo slova i brojeve.',
     'array'                => 'Polje :attribute mora da bude niz.',
-    'attached'             => 'Овај број :attribute је већ приложен.',
     'before'               => 'Polje :attribute mora da bude datum prije :date.',
     'before_or_equal'      => 'Polje :attribute mora da bude :date ili raniji datum.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => 'Polje :attribute nema jedinstvenu vrijednost.',
     'email'                => 'Polje :attribute mora biti ispravna E-mail adresa.',
     'ends_with'            => 'Polje :attribute mora da se završi sa: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'Odabrana vrijednost za :attribute nije ispravna.',
     'file'                 => 'Polje :attribute mora da bude dokument.',
     'filled'               => 'Polje :attribute mora da sadrži podatak.',
@@ -80,6 +80,7 @@ return [
         'numeric' => 'Polje :attribute može da bude najviše :value.',
         'string'  => 'Polje :attribute mora da sadrži najviše :value znakova.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Niz :attribute mora da sadrži najviše :max stavki.',
         'file'    => 'Veličina dokumenta :attribute mora da bude :max kb ili manja.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => 'Поље :attribute је забрањено ако само :other није у :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Format polja :attribute nije ispravan.',
-    'relatable'            => 'Овај :attribute можда није повезан са овим ресурсом.',
     'required'             => 'Morate da popunite polje :attribute.',
     'required_if'          => 'Morate da popunite polje :attribute jer polje :other sadrži :value.',
     'required_unless'      => 'Morate da popunite polje :attribute, osim ako je :other sadržan u :values.',

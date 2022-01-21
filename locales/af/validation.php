@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Die :attribute mag slegs letters, syfers, strepies en onderstrepe bevat.',
     'alpha_num'            => 'Die :attribute mag slegs letters en syfers bevat.',
     'array'                => 'Die :attribute moet \'n array wees.',
-    'attached'             => 'Hierdie :attribute is reeds aangeheg.',
     'before'               => 'Die :attribute moet datum voor :date wees.',
     'before_or_equal'      => 'Die :attribute Moet datum voor of gelyk aan :date wees.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => 'Die :attribute veld het \'n duplikaatwaarde.',
     'email'                => 'Die :attribute moet geldige epos adres wees.',
     'ends_with'            => 'Die :attribute moet eindig met een van die volgende: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'Die geselketeerde :attribute is ongeldig.',
     'file'                 => 'Die :attribute moet \'n lêer wees.',
     'filled'               => 'Die :attribute veld \'n waarde moet hê.',
@@ -80,6 +80,7 @@ return [
         'numeric' => 'Die :attribute moet kleiner of gelyk wees aan :value.',
         'string'  => 'Die :attribute moet kleiner of gelyk wees aan :value karakters.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Die :attribute mag nie groter as :max items wees.',
         'file'    => 'Die :attribute mag nie groter as :max kilobytes wees.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => 'Die :attribute veld is verbode, tensy :other is in :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Die :attribute formaat is ongeldig.',
-    'relatable'            => 'Hierdie :attribute kan nie wees wat verband hou met hierdie hulpbron.',
     'required'             => 'Die :attribute veld is verpligtend.',
     'required_if'          => 'Die :attribute veld is verpligtend wanneer :other :value is.',
     'required_unless'      => 'Die :attribute veld is verpligtend tensy :other in :values is.',

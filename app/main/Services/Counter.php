@@ -1,6 +1,6 @@
 <?php
 
-namespace LaravelLang\Lang\Services;
+namespace LaravelLang\Development\Services;
 
 use DragonCode\Support\Concerns\Makeable;
 

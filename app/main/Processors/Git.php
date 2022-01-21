@@ -1,6 +1,6 @@
 <?php
 
-namespace LaravelLang\Lang\Processors;
+namespace LaravelLang\Development\Processors;
 
 use DragonCode\Support\Facades\Helpers\Filesystem\Directory;
 
@@ -79,7 +79,7 @@ class Git extends Processor
 
     protected function getSourceBranchName(): string
     {
-        return env('GIT_SOURCE_BRANCH', 'main');
+        return env('GIT_SOURCE_BRANCH', 'master');
     }
 
     protected function getTargetBranchName(string $locale): string

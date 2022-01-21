@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'A(z) :attribute kizárólag betűket, számokat és kötőjeleket tartalmazhat!',
     'alpha_num'            => 'A(z) :attribute kizárólag betűket és számokat tartalmazhat!',
     'array'                => 'A(z) :attribute egy tömb kell, hogy legyen!',
-    'attached'             => 'Ezt a :attribute-at már csatolták.',
     'before'               => 'A(z) :attribute :date előtti dátum kell, hogy legyen!',
     'before_or_equal'      => 'A(z) :attribute nem lehet későbbi dátum, mint :date!',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => 'A(z) :attribute értékének egyedinek kell lennie!',
     'email'                => 'A(z) :attribute nem érvényes email formátum.',
     'ends_with'            => 'A(z) :attribute a következővel kell végződjön: :values',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'A kiválasztott :attribute érvénytelen.',
     'file'                 => 'A(z) :attribute fájl kell, hogy legyen!',
     'filled'               => 'A(z) :attribute megadása kötelező!',
@@ -80,6 +80,7 @@ return [
         'numeric' => 'A(z) :attribute kisebb vagy egyenlő kell, hogy legyen, mint :value!',
         'string'  => 'A(z) :attribute hossza nem lehet több, mint :value karakter.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => 'A(z) :attribute legfeljebb :max elemet kell, hogy tartalmazzon.',
         'file'    => 'A(z) :attribute mérete nem lehet több, mint :max kilobájt.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => 'A :attribute mező tilos, kivéve, ha :other a :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'A(z) :attribute formátuma érvénytelen.',
-    'relatable'            => 'Lehet, hogy ez az :attribute nem kapcsolódik ehhez az erőforráshoz.',
     'required'             => 'A(z) :attribute megadása kötelező!',
     'required_if'          => 'A(z) :attribute megadása kötelező, ha a(z) :other értéke :value!',
     'required_unless'      => 'A(z) :attribute megadása kötelező, ha a(z) :other értéke nem :values!',

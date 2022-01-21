@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Toto pole může obsahovat pouze písmena, čísla, pomlčky a podtržítka.',
     'alpha_num'            => 'Toto pole může obsahovat pouze písmena a čísla.',
     'array'                => 'Toto pole musí být pole.',
-    'attached'             => 'Toto pole je již připojeno.',
     'before'               => 'Toto musí být Datum před :date.',
     'before_or_equal'      => 'Toto musí být Datum před nebo rovno :date.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => 'Toto pole má duplicitní hodnotu.',
     'email'                => 'Musí to být platná e-mailová adresa.',
     'ends_with'            => 'To musí skončit jedním z následujících: :values.',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'Vybraná hodnota je neplatná.',
     'file'                 => 'Obsah musí být soubor.',
     'filled'               => 'Toto pole musí mít hodnotu.',
@@ -80,6 +80,7 @@ return [
         'numeric' => 'Tato hodnota musí být :value nebo méně.',
         'string'  => 'Toto pole musí mít :value nebo méně znaků.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Toto pole musí mít nejvíce :max položek.',
         'file'    => 'Tento soubor nesmí být větší než :max kilobytů.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => 'Toto pole je zakázáno, pokud :other není v :values.',
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Tento formát je neplatný.',
-    'relatable'            => 'Toto pole nemusí být spojeno s tímto zdrojem.',
     'required'             => 'Toto pole je nutné.',
     'required_if'          => 'Toto pole je vyžadováno, když je :other :value.',
     'required_unless'      => 'Toto pole je vyžadováno, pokud není :other v :values.',

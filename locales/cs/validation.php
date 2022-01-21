@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ':attribute může obsahovat pouze písmena, číslice, pomlčky a podtržítka. České znaky (á, é, í, ó, ú, ů, ž, š, č, ř, ď, ť, ň) nejsou podporovány.',
     'alpha_num'            => ':attribute může obsahovat pouze písmena a číslice.',
     'array'                => ':attribute musí být pole.',
-    'attached'             => 'Tento :attribute je již připojen.',
     'before'               => ':attribute musí být datum před :date.',
     'before_or_equal'      => 'Datum :attribute musí být před nebo rovno :date.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => ':attribute má duplicitní hodnotu.',
     'email'                => ':attribute není platný formát.',
     'ends_with'            => ':attribute musí končit jednou z následujících hodnot: :values',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'Zvolená hodnota pro :attribute není platná.',
     'file'                 => ':attribute musí být soubor.',
     'filled'               => ':attribute musí být vyplněno.',
@@ -80,6 +80,7 @@ return [
         'numeric' => ':attribute musí být menší nebo rovno než :value.',
         'string'  => ':attribute nesmí být delší než :value znaků.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ':attribute nemůže obsahovat více než :max prvků.',
         'file'    => 'Velikost souboru :attribute musí být menší než :value kB.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => 'Pole :attribute je zakázáno, pokud není rok :other v roce :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute nemá správný formát.',
-    'relatable'            => 'Tento :attribute nemusí být spojen s tímto zdrojem.',
     'required'             => ':attribute musí být vyplněno.',
     'required_if'          => ':attribute musí být vyplněno pokud :other je :value.',
     'required_unless'      => ':attribute musí být vyplněno dokud :other je v :values.',

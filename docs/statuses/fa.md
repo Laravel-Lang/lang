@@ -1,43 +1,13 @@
-[Laravel Lang](https://github.com/Laravel-Lang/lang) / [Main Page](../index.md) / [Completion Status](../status.md) / fa
-
 # fa
 
-##### All missed: 118
+##### All missed: 120
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/fa/validation-inline.php)
 
-##### Missing: 8
+##### Missing: 3
 
 <table >
-<tr><td align="left" >
-accepted_if
-</td>
-<td align="left" >
-This field must be accepted when :other is :value.
-</td>
-</tr>
-<tr><td align="left" >
-attached
-</td>
-<td align="left" >
-This field is already attached.
-</td>
-</tr>
-<tr><td align="left" >
-declined
-</td>
-<td align="left" >
-This value must be declined.
-</td>
-</tr>
-<tr><td align="left" >
-declined_if
-</td>
-<td align="left" >
-This value must be declined when :other is :value.
-</td>
-</tr>
 <tr><td align="left" >
 prohibited_if
 </td>
@@ -59,18 +29,9 @@ prohibits
 This field prohibits :other from being present.
 </td>
 </tr>
-<tr><td align="left" >
-relatable
-</td>
-<td align="left" >
-This field may not be associated with this resource.
-</td>
-</tr>
 
 </table>
 
-
-[ [go back](../status.md) | [to top](#) ]
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/fa/validation.php)
 
@@ -78,17 +39,24 @@ This field may not be associated with this resource.
 
 <table >
 <tr><td align="left" >
-attached
-</td>
-<td align="left" >
-This :attribute is already attached.
-</td>
-</tr>
-<tr><td align="left" >
 current_password
 </td>
 <td align="left" >
 The password is incorrect.
+</td>
+</tr>
+<tr><td align="left" >
+enum
+</td>
+<td align="left" >
+The selected :attribute is invalid.
+</td>
+</tr>
+<tr><td align="left" >
+mac_address
+</td>
+<td align="left" >
+The :attribute must be a valid MAC address.
 </td>
 </tr>
 <tr><td align="left" >
@@ -112,26 +80,41 @@ prohibits
 The :attribute field prohibits :other from being present.
 </td>
 </tr>
-<tr><td align="left" >
-relatable
-</td>
-<td align="left" >
-This :attribute may not be associated with this resource.
-</td>
-</tr>
 
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
 ### [fa](https://github.com/Laravel-Lang/lang/blob/master/locales/fa/fa.json)
 
-##### Missing: 104
+##### Missing: 111
 
 <table >
 <tr><td align="left" >
+A fresh verification link has been sent to your email address.
+</td>
+</tr>
+<tr><td align="left" >
+Before proceeding, please check your email for a verification link.
+</td>
+</tr>
+<tr><td align="left" >
+click here to request another
+</td>
+</tr>
+<tr><td align="left" >
 Currently Subscribed
+</td>
+</tr>
+<tr><td align="left" >
+E-Mail Address
+</td>
+</tr>
+<tr><td align="left" >
+Failed to load :resource!
+</td>
+</tr>
+<tr><td align="left" >
+If you did not receive the email
 </td>
 </tr>
 <tr><td align="left" >
@@ -199,6 +182,10 @@ Peru
 </td>
 </tr>
 <tr><td align="left" >
+Please confirm your password before continuing.
+</td>
+</tr>
+<tr><td align="left" >
 Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices.
 </td>
 </tr>
@@ -227,10 +214,6 @@ Receipt Email Addresses
 </td>
 </tr>
 <tr><td align="left" >
-Restore
-</td>
-</tr>
-<tr><td align="left" >
 Restore Resource
 </td>
 </tr>
@@ -240,10 +223,6 @@ Restore Selected
 </tr>
 <tr><td align="left" >
 Resume Subscription
-</td>
-</tr>
-<tr><td align="left" >
-Romania
 </td>
 </tr>
 <tr><td align="left" >
@@ -546,9 +525,15 @@ This subscription cannot be resumed. Please create a new subscription.
 This subscription has expired and cannot be resumed. Please create a new subscription.
 </td>
 </tr>
+<tr><td align="left" >
+Verify Your Email Address
+</td>
+</tr>
+<tr><td align="left" >
+You are logged in!
+</td>
+</tr>
 
 </table>
 
-
-[ [go back](../status.md) | [to top](#) ]
 

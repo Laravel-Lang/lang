@@ -1,13 +1,13 @@
 <?php
 
-namespace LaravelLang\Lang\Processors\Statuses;
+namespace LaravelLang\Development\Processors\Statuses;
 
 use DragonCode\Support\Facades\Helpers\Filesystem\Directory;
 use DragonCode\Support\Facades\Helpers\Str;
-use LaravelLang\Lang\Constants\Resource;
-use LaravelLang\Lang\Contracts\Stringable;
-use LaravelLang\Lang\Services\Compilers\Collection;
-use LaravelLang\Lang\Services\Compilers\Locale;
+use LaravelLang\Development\Constants\Resource;
+use LaravelLang\Development\Contracts\Stringable;
+use LaravelLang\Development\Services\Compilers\Collection;
+use LaravelLang\Development\Services\Compilers\Locale;
 
 class Locales extends Processor
 {

@@ -1,12 +1,12 @@
 <?php
 
-namespace LaravelLang\Lang;
+namespace LaravelLang\Development;
 
 use Dotenv\Dotenv;
 use DragonCode\Support\Concerns\Makeable;
-use LaravelLang\Lang\Contracts\Application as ApplicationContract;
-use LaravelLang\Lang\Contracts\Processable;
-use LaravelLang\Lang\Facades\Env;
+use LaravelLang\Development\Contracts\Application as ApplicationContract;
+use LaravelLang\Development\Contracts\Processable;
+use LaravelLang\Development\Facades\Env;
 
 class Application implements ApplicationContract
 {

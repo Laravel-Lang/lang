@@ -1,12 +1,12 @@
 <?php
 
-namespace LaravelLang\Lang\Services\Filesystem;
+namespace LaravelLang\Development\Services\Filesystem;
 
 use DragonCode\Support\Concerns\Makeable;
 use DragonCode\Support\Facades\Helpers\Ables\Arrayable;
-use LaravelLang\Lang\Application;
-use LaravelLang\Lang\Concerns\Storable;
-use LaravelLang\Lang\Contracts\Filesystem;
+use LaravelLang\Development\Application;
+use LaravelLang\Development\Concerns\Storable;
+use LaravelLang\Development\Contracts\Filesystem;
 
 abstract class Base implements Filesystem
 {

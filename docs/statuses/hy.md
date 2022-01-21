@@ -1,13 +1,11 @@
-[Laravel Lang](https://github.com/Laravel-Lang/lang) / [Main Page](../index.md) / [Completion Status](../status.md) / hy
-
 # hy
 
-##### All missed: 96
+##### All missed: 109
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/hy/validation-inline.php)
 
-##### Missing: 3
+##### Missing: 5
 
 <table >
 <tr><td align="left" >
@@ -25,6 +23,20 @@ This value must be declined when :other is :value.
 </td>
 </tr>
 <tr><td align="left" >
+enum
+</td>
+<td align="left" >
+The selected value is invalid.
+</td>
+</tr>
+<tr><td align="left" >
+mac_address
+</td>
+<td align="left" >
+The value must be a valid MAC address.
+</td>
+</tr>
+<tr><td align="left" >
 prohibits
 </td>
 <td align="left" >
@@ -35,11 +47,9 @@ This field prohibits :other from being present.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/hy/validation.php)
 
-##### Missing: 3
+##### Missing: 5
 
 <table >
 <tr><td align="left" >
@@ -57,6 +67,20 @@ The :attribute must be declined when :other is :value.
 </td>
 </tr>
 <tr><td align="left" >
+enum
+</td>
+<td align="left" >
+The selected :attribute is invalid.
+</td>
+</tr>
+<tr><td align="left" >
+mac_address
+</td>
+<td align="left" >
+The :attribute must be a valid MAC address.
+</td>
+</tr>
+<tr><td align="left" >
 prohibits
 </td>
 <td align="left" >
@@ -67,15 +91,17 @@ The :attribute field prohibits :other from being present.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
 ### [hy](https://github.com/Laravel-Lang/lang/blob/master/locales/hy/hy.json)
 
-##### Missing: 90
+##### Missing: 99
 
 <table >
 <tr><td align="left" >
 :days day trial
+</td>
+</tr>
+<tr><td align="left" >
+A fresh verification link has been sent to your email address.
 </td>
 </tr>
 <tr><td align="left" >
@@ -84,6 +110,10 @@ Add VAT Number
 </tr>
 <tr><td align="left" >
 An unexpected error occurred and we have notified our support team. Please try again later.
+</td>
+</tr>
+<tr><td align="left" >
+Before proceeding, please check your email for a verification link.
 </td>
 </tr>
 <tr><td align="left" >
@@ -107,11 +137,19 @@ City
 </td>
 </tr>
 <tr><td align="left" >
+click here to request another
+</td>
+</tr>
+<tr><td align="left" >
 Currently Subscribed
 </td>
 </tr>
 <tr><td align="left" >
 Download Receipt
+</td>
+</tr>
+<tr><td align="left" >
+E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >
@@ -127,11 +165,19 @@ Extra Billing Information
 </td>
 </tr>
 <tr><td align="left" >
+Failed to load :resource!
+</td>
+</tr>
+<tr><td align="left" >
 Having second thoughts about cancelling your subscription? You can instantly reactive your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
 </td>
 </tr>
 <tr><td align="left" >
 ID
+</td>
+</tr>
+<tr><td align="left" >
+If you did not receive the email
 </td>
 </tr>
 <tr><td align="left" >
@@ -189,6 +235,10 @@ Payment Method
 </tr>
 <tr><td align="left" >
 Please accept the terms of service.
+</td>
+</tr>
+<tr><td align="left" >
+Please confirm your password before continuing.
 </td>
 </tr>
 <tr><td align="left" >
@@ -368,6 +418,10 @@ VAT Number
 </td>
 </tr>
 <tr><td align="left" >
+Verify Your Email Address
+</td>
+</tr>
+<tr><td align="left" >
 View Receipt
 </td>
 </tr>
@@ -397,6 +451,10 @@ You are already subscribed.
 </tr>
 <tr><td align="left" >
 You are currently within your free trial period. Your trial will expire on :date.
+</td>
+</tr>
+<tr><td align="left" >
+You are logged in!
 </td>
 </tr>
 <tr><td align="left" >
@@ -438,6 +496,4 @@ Zip / Postal Code
 
 </table>
 
-
-[ [go back](../status.md) | [to top](#) ]
 

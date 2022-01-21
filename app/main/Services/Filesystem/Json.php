@@ -1,11 +1,11 @@
 <?php
 
-namespace LaravelLang\Lang\Services\Filesystem;
+namespace LaravelLang\Development\Services\Filesystem;
 
 use DragonCode\PrettyArray\Services\File as Pretty;
 use DragonCode\Support\Facades\Helpers\Arr;
 use DragonCode\Support\Tools\Stub;
-use LaravelLang\Lang\Contracts\Stringable;
+use LaravelLang\Development\Contracts\Stringable;
 
 class Json extends Base
 {

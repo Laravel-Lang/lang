@@ -1,6 +1,6 @@
 <?php
 
-namespace LaravelLang\Lang\Support;
+namespace LaravelLang\Development\Support;
 
 use Dotenv\Repository\AdapterRepository;
 use Dotenv\Repository\RepositoryBuilder;

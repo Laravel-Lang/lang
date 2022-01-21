@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Kjo mund të përmbajë vetëm shkronja, numra, dhe viza.',
     'alpha_num'            => 'Kjo mund të përmbajë vetëm shkronja dhe numra.',
     'array'                => 'Kjo duhet të jetë një bashkësi (array).',
-    'attached'             => 'Kjo fushë është e ngjitur.',
     'before'               => 'Kjo duhet të jetë datë para :date.',
     'before_or_equal'      => 'Kjo duhet të jetë datë e barabartë ose para :date.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => 'Kjo ka një vlerë të përsëritur.',
     'email'                => 'Kjo duhet të jetë email adresë e saktë.',
     'ends_with'            => 'Kjo duhet të përfundojë me një nga vlerat: :values.',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'Vlera e përzgjedhur është e pasaktë.',
     'file'                 => 'Kjo duhet të jetë një fajll.',
     'filled'               => 'Kjo fushë është e kërkuar.',
@@ -80,6 +80,7 @@ return [
         'numeric' => 'Kjo duhet të jetë më e vogël ose e barabartë me :value.',
         'string'  => 'Kjo duhet të ketë :value ose më pak karaktere.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Kjo nuk mund të ketë më tepër se :max elemente.',
         'file'    => 'Kjo nuk mund të jetë më tepër se :max kilobajtë.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => 'Kjo fushë është e ndaluar nëse :other është në :values.',
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Ky format është i pasaktë.',
-    'relatable'            => 'Kjo fushë mund të mos shoqërohet me këtë burim.',
     'required'             => 'Kjo fushë është e kërkuar.',
     'required_if'          => 'Kjo fushë është e kërkuar kur :other është :value.',
     'required_unless'      => 'Kjo fushë është e kërkuar përveç kur :other është në :values.',

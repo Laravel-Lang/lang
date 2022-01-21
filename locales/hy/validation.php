@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ':attribute դաշտը պետք է պարունակի միայն տառեր, թվեր, գծիկներ և ընդգծումներ։',
     'alpha_num'            => ':attribute դաշտը պետք է պարունակի միայն տառեր և թվեր։',
     'array'                => ':attribute դաշտը պետք է լինի զանգված։',
-    'attached'             => ':attribute դաշտը արդեն կցված է։',
     'before'               => ':attribute դաշտի ամսաթիվը պետք է լինի :date-ից առաջ։',
     'before_or_equal'      => ':attribute դաշտի ամսաթիվը պետք է լինի :date կամ դրանից առաջ։',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => ':attribute դաշտը ունի կրկնվող արժեք։',
     'email'                => ':attribute դաշտը պետք է լինի վավերական Էլ․ հասցե։',
     'ends_with'            => ':attribute դաշտը պետք է ավարտվի հետևյալ արժեքներից մեկով․ :values։',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => ':attribute դաշտի ընտրված արժեքն անվավեր է։',
     'file'                 => ':attribute-ը պետք է լինի ֆայլ։',
     'filled'               => ':attribute դաշտը պետք է անպայման ունենա արժեք։',
@@ -80,6 +80,7 @@ return [
         'numeric' => ':attribute դաշտը պետք է փոքր կամ հավասար լինի :value-ից։',
         'string'  => ':attribute դաշտի նիշերի քանակը պետք է փոքր կամ հավասար լինի :value-ից։',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ':attribute դաշտում էլեմենտների քանակը չպետք է գերազանցի :max-ը։',
         'file'    => ':attribute դաշտի ֆայլի չափը չպետք է գերազանցի :max կիլոբայթը։',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => ':attribute դաշտը արգելված է քանի դեռ :other դաշտի արժեքը :values միջակայքում չի։',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute դաշտի ձևաչափը սխալ է։',
-    'relatable'            => ':attribute դաշտը չի կարող կցվել տվյալ ռեսուրսին։',
     'required'             => ':attribute դաշտը պարտադիր է։',
     'required_if'          => ':attribute դաշտը պարտադիր է երբ :other-ը հավասար է :value։',
     'required_unless'      => ':attribute դաշտը պարտադիր է քանի դեռ :other-ը հավասար չէ :values։',

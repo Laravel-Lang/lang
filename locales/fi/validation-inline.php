@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Tämä kenttä voi sisältää vain kirjaimia, numeroita, viivoja ja alaviivoja.',
     'alpha_num'            => 'Tämä kenttä voi sisältää vain kirjaimia ja numeroita.',
     'array'                => 'Tämän kentän täytyy olla taulukko.',
-    'attached'             => 'Tämä kenttä on jo kiinnitetty.',
     'before'               => 'Päivämäärän täytyy olla ennen kuin :date.',
     'before_or_equal'      => 'Päivämäärän täytyy olla ennen tai sama kuin :date.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => 'Tällä kentällä on kaksoisarvo.',
     'email'                => 'Tämän on oltava voimassa oleva sähköpostiosoite.',
     'ends_with'            => 'Tämän on päätyttävä johonkin seuraavista: :values.',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'Valittu arvo on virheellinen.',
     'file'                 => 'Sisällön on oltava tiedosto.',
     'filled'               => 'Tällä kentällä täytyy olla arvo.',
@@ -80,6 +80,7 @@ return [
         'numeric' => 'Arvo ei saa olla suurempaa kuin :value.',
         'string'  => 'Merkkijono ei saa olla pidempi kuin :value merkkiä.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Sisältö ei voi sisältää enempää kuin :max kohdetta.',
         'file'    => 'Tiedoston koko ei saa ylittää :max kilotavua.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => 'Tämä kenttä on kielletty, ellei :other ole :values.',
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Tämä muoto on virheellinen.',
-    'relatable'            => 'Tämä kenttä ei välttämättä liity tähän resurssiin.',
     'required'             => 'Tämä kenttä on pakollinen.',
     'required_if'          => 'Tämä kenttä vaaditaan, kun :other on :value.',
     'required_unless'      => 'Tämä kenttä vaaditaan, ellei :other ole kohdassa :values.',

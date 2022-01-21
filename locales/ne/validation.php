@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ':attribute मा अक्षर, संख्या र ड्यासहरू मात्र हुनसक्छ।',
     'alpha_num'            => ':attribute मा अक्षर र संख्याहरू मात्र हुनसक्छ।',
     'array'                => ':attribute एर्रे हुनुपर्छ।',
-    'attached'             => 'यो :attribute छ नै संलग्न.',
     'before'               => ':attribute को मिति :date भन्दा अघि हुनुपर्छ।',
     'before_or_equal'      => ':attribute मिति भन्दा अघि वा बराबर :date हुनुपर्दछ। ',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => ':attribute फिल्ड फिल्डको नक्कल मान छ',
     'email'                => ':attribute को इमेल ठेगाना मिलेन।',
     'ends_with'            => ':attribute निम्न मध्ये एकको साथ विशेषता अन्त हुनुपर्दछ :values',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'छानिएको :attribute अमान्य छ।',
     'file'                 => ':attribute एक फाईल हुनुपर्दछ।',
     'filled'               => ':attribute दिइएको हुनुपर्छ।',
@@ -80,6 +80,7 @@ return [
         'numeric' => ' :attribute :value भन्दा बढि हुनुपर्दछ।',
         'string'  => ' :attribute :value क्यारेक्टर भन्दा बढि हुनुपर्दछ।',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ' :attribute मा :max आईटमहरू भन्दा बढि हुनुपर्दछ।',
         'file'    => ' :attribute :max क्यालोबाइट भन्दा बढि हुनुपर्दछ।',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => 'यो :attribute क्षेत्र निषेध छ नभएसम्म :other छ :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute को ढाँचा मिलेन।',
-    'relatable'            => 'यो :attribute हुन सक्छ, यस संग सम्बन्धित संसाधन । ',
     'required'             => ':attribute दिइएको हुनुपर्छ।',
     'required_if'          => ':attribute चाहिन्छ जब :other :value हुन्छ।',
     'required_unless'      => ':other :values मा नभएसम्म :attribute चाहिन्छ।',

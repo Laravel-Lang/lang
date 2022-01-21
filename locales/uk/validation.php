@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Поле :attribute має містити лише літери, цифри, тире та підкреслення.',
     'alpha_num'            => 'Поле :attribute має містити лише літери та цифри.',
     'array'                => 'Поле :attribute має бути масивом.',
-    'attached'             => 'Цей :attribute вже прикріплений.',
     'before'               => 'Поле :attribute має містити дату не пізніше :date.',
     'before_or_equal'      => 'Поле :attribute має містити дату не пізніше, або дорівнюватися :date.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => 'Поле :attribute містить значення, яке дублюється.',
     'email'                => 'Поле :attribute повинне містити коректну електронну адресу.',
     'ends_with'            => 'Поле :attribute має закінчуватися одним з наступних значень: :values',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'Вибране для :attribute значення не коректне.',
     'file'                 => 'Поле :attribute має містити файл.',
     'filled'               => 'Поле :attribute є обов\'язковим для заповнення.',
@@ -80,6 +80,7 @@ return [
         'numeric' => 'Поле :attribute має дорівнювати чи бути менше ніж :value.',
         'string'  => 'Поле :attribute має дорівнювати чи бути менше ніж :value символів.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Поле :attribute повинне містити не більше :max елементів.',
         'file'    => 'Файл в полі :attribute має бути не більше :max кілобайт.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => 'Поле :attribute заборонено, якщо тільки :other не знаходиться в :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Поле :attribute має хибний формат.',
-    'relatable'            => 'Цей :attribute може бути не пов\'язаний з цим ресурсом.',
     'required'             => 'Поле :attribute є обов\'язковим для заповнення.',
     'required_if'          => 'Поле :attribute є обов\'язковим для заповнення, коли :other є рівним :value.',
     'required_unless'      => 'Поле :attribute є обов\'язковим для заповнення, коли :other відрізняється від :values',

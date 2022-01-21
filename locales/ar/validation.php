@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'يجب أن لا يحتوي حقل :attribute سوى على حروف، أرقام ومطّات.',
     'alpha_num'            => 'يجب أن يحتوي حقل :attribute على حروفٍ وأرقامٍ فقط.',
     'array'                => 'يجب أن يكون حقل :attribute ًمصفوفة.',
-    'attached'             => 'حقل :attribute تم إرفاقه بالفعل.',
     'before'               => 'يجب على حقل :attribute أن يكون تاريخًا سابقًا للتاريخ :date.',
     'before_or_equal'      => 'حقل :attribute يجب أن يكون تاريخا سابقا أو مطابقا للتاريخ :date.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => 'للحقل :attribute قيمة مُكرّرة.',
     'email'                => 'يجب أن يكون حقل :attribute عنوان بريد إلكتروني صحيح البُنية.',
     'ends_with'            => 'يجب أن ينتهي حقل :attribute بأحد القيم التالية: :values',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'القيمة المحددة :attribute غير موجودة.',
     'file'                 => 'الحقل :attribute يجب أن يكون ملفا.',
     'filled'               => 'حقل :attribute إجباري.',
@@ -80,6 +80,7 @@ return [
         'numeric' => 'يجب أن تكون قيمة حقل :attribute مساوية أو أصغر من :value.',
         'string'  => 'يجب أن لا يتجاوز طول نّص حقل :attribute :value حروفٍ/حرفًا.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => 'يجب أن لا يحتوي حقل :attribute على أكثر من :max عناصر/عنصر.',
         'file'    => 'يجب أن لا يتجاوز حجم ملف حقل :attribute :max كيلوبايت.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => 'حقل :attribute محظور ما لم يكن :other ضمن :values.',
     'prohibits'            => 'الحقل :attribute يحظر تواجد الحقل :other.',
     'regex'                => 'صيغة حقل :attribute .غير صحيحة.',
-    'relatable'            => 'حقل :attribute قد لا يكون مرتبطا بالمصدر المحدد.',
     'required'             => 'حقل :attribute مطلوب.',
     'required_if'          => 'حقل :attribute مطلوب في حال ما إذا كان :other يساوي :value.',
     'required_unless'      => 'حقل :attribute مطلوب في حال ما لم يكن :other يساوي :values.',

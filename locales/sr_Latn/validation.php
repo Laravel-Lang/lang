@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Polje :attribute može sadržati samo slova, brojeve i povlake.',
     'alpha_num'            => 'Polje :attribute može sadržati samo slova i brojeve.',
     'array'                => 'Polje :attribute mora sadržati nekih niz stavki.',
-    'attached'             => 'Овај број :attribute је већ приложен.',
     'before'               => 'Polje :attribute mora biti datum pre :date.',
     'before_or_equal'      => ':attribute mora da bude :date ili raniji datum.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => 'Polje :attribute ima dupliranu vrednost.',
     'email'                => 'Format polja :attribute nije validan.',
     'ends_with'            => 'Polje :attribute mora da se završi sa nečim od sledećeg: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'Odabrano polje :attribute nije validno.',
     'file'                 => ':attribute mora da bude datoteka.',
     'filled'               => 'Polje :attribute je obavezno.',
@@ -80,6 +80,7 @@ return [
         'numeric' => 'Polje :attribute mora da bude :value ili manji.',
         'string'  => 'Polje :attribute mora da sadrži :value ili manje znakova.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Polje :attribute ne smije da image više od :max stavki.',
         'file'    => 'Polje :attribute mora biti manje od :max kilobajta.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => 'Поље :attribute је забрањено, осим ако :other није у :values.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Format polja :attribute nije validan.',
-    'relatable'            => 'Овај :attribute можда није повезан са овим ресурсом.',
     'required'             => 'Polje :attribute je obavezno.',
     'required_if'          => 'Polje :attribute je potrebno kada polje :other sadrži :value.',
     'required_unless'      => 'Polje :attribute je obavezno, osim ako je :other u :values.',

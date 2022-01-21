@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => ':attribute фақат ҳарфлар, сонлар ва чизиқчаларни қабул қилиши мумкин.',
     'alpha_num'            => ':attribute фақат ҳарфлар ва сонларни қабул қилиши мумкин.',
     'array'                => ':attribute қатордан иборат бўлиши керак.',
-    'attached'             => 'Bu :attribute allaqachon biriktirilgan.',
     'before'               => ':attribute да сана :date гача бўлиши керак.',
     'before_or_equal'      => ':attribute да сана :date га тенг ёки ундан олдин бўлиши керак.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => ':attribute майдони такрорланувчи қийматлардан иборат.',
     'email'                => ':attribute ҳақиқий электрон почта манзили бўлиши керак.',
     'ends_with'            => ':attribute қуйидаги қийматларнинг бири билан тугаши керак: :values.',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => ':attribute учун танланган қиймат нотўғри.',
     'file'                 => ':attribute файл бўлиши керак.',
     'filled'               => ':attribute майдони тўлдирилиши шарт.',
@@ -80,6 +80,7 @@ return [
         'numeric' => ':attribute майдони :value дан кичик ёки тенг бўлиши керак.',
         'string'  => ':attribute даги белгилар сони :value дан кичик ёки тенг бўлиши керак.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => ':attribute нинг элементлар сони :max тадан ошмаслиги керак.',
         'file'    => ':attribute даги файлнинг ҳажми :max килобайтдан ошмаслиги керак.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => ':attribute da :other bo\'lmasa :values maydon taqiqlanadi.',
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute майдони хато форматда.',
-    'relatable'            => 'Ushbu :attribute ushbu resurs bilan bog\'liq bo\'lmasligi mumkin.',
     'required'             => ':attribute майдони тўлдирилиши шарт.',
     'required_if'          => ':other майдони :value га тенг бўлса, :attribute майдони тўлдирилиши шарт.',
     'required_unless'      => ':other майдони :values га тенг бўлмаса, :attribute майдони тўлдирилиши шарт.',

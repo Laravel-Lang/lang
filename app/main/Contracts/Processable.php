@@ -1,8 +1,8 @@
 <?php
 
-namespace LaravelLang\Lang\Contracts;
+namespace LaravelLang\Development\Contracts;
 
-use LaravelLang\Lang\Application;
+use LaravelLang\Development\Application;
 
 interface Processable
 {

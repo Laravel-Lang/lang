@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Bu alan yalnızca harfler, sayılar, kısa çizgiler ve alt çizgiler içerebilir.',
     'alpha_num'            => 'Bu alan yalnızca harfler ve sayılar içerebilir.',
     'array'                => 'Bu alan bir dizi olmalı.',
-    'attached'             => 'Bu alan zaten tanımlı.',
     'before'               => 'Bu :date\'den önceki bir tarih olmalı.',
     'before_or_equal'      => 'Bu, :date\'ten önce veya ona eşit bir tarih olmalıdır.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => 'Bu alanın yinelenen bir değeri vardır.',
     'email'                => 'E-posta adresi geçerli değil.',
     'ends_with'            => 'Bu şunlardan biriyle bitmelidir: :values.',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => 'Seçili değer geçersiz.',
     'file'                 => 'İçerik bir dosya olmalı.',
     'filled'               => 'Bu alanın bir değeri olmalıdır.',
@@ -80,6 +80,7 @@ return [
         'numeric' => 'Bu sayı :value sayısına eşit veya daha küçük olmalıdır.',
         'string'  => 'Bu metin :value veya daha kısa karaktere olmalıdır.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Bu içerik en fazla :max öge içerebilir.',
         'file'    => 'Dosya boyutu :max kilobayt\'tan büyük olamaz.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => ':other alanı :value değerlerinden birisi değilse bu alana veri girişi yapılamaz.',
     'prohibits'            => 'Bu alan :other alanının mevcut olmasını yasaklar.',
     'regex'                => 'Bu biçim geçersiz.',
-    'relatable'            => 'Bu alan, bu kaynakla ilişkili olmayabilir.',
     'required'             => 'Bu alan gereklidir.',
     'required_if'          => 'Bu alan :other :value olduğunda gereklidir.',
     'required_unless'      => ':other :values\'de olmadığı sürece bu alan gereklidir.',

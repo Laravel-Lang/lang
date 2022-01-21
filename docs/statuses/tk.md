@@ -1,8 +1,6 @@
-[Laravel Lang](https://github.com/Laravel-Lang/lang) / [Main Page](../index.md) / [Completion Status](../status.md) / tk
-
 # tk
 
-##### All missed: 836
+##### All missed: 848
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/tk/auth.php)
@@ -35,8 +33,6 @@ Too many login attempts. Please try again in :seconds seconds.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
 ### [passwords](https://github.com/Laravel-Lang/lang/blob/master/locales/tk/passwords.php)
 
 ##### Missing: 1
@@ -52,8 +48,6 @@ Please wait before retrying.
 
 </table>
 
-
-[ [go back](../status.md) | [to top](#) ]
 
 ### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/master/locales/tk/validation-attributes.php)
 
@@ -302,11 +296,9 @@ Year
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/tk/validation-inline.php)
 
-##### Missing: 91
+##### Missing: 90
 
 <table >
 <tr><td align="left" >
@@ -348,21 +340,21 @@ This must be a date after or equal to :date.
 alpha
 </td>
 <td align="left" >
-This field may only contain letters.
+This field must only contain letters.
 </td>
 </tr>
 <tr><td align="left" >
 alpha_dash
 </td>
 <td align="left" >
-This field may only contain letters, numbers, dashes and underscores.
+This field must only contain letters, numbers, dashes and underscores.
 </td>
 </tr>
 <tr><td align="left" >
 alpha_num
 </td>
 <td align="left" >
-This field may only contain letters and numbers.
+This field must only contain letters and numbers.
 </td>
 </tr>
 <tr><td align="left" >
@@ -370,13 +362,6 @@ array
 </td>
 <td align="left" >
 This field must be an array.
-</td>
-</tr>
-<tr><td align="left" >
-attached
-</td>
-<td align="left" >
-This field is already attached.
 </td>
 </tr>
 <tr><td align="left" >
@@ -527,6 +512,13 @@ This must end with one of the following: :values.
 </td>
 </tr>
 <tr><td align="left" >
+enum
+</td>
+<td align="left" >
+The selected value is invalid.
+</td>
+</tr>
+<tr><td align="left" >
 exists
 </td>
 <td align="left" >
@@ -674,31 +666,38 @@ The content must not have more than :value items.
 </td>
 </tr>
 <tr><td align="left" >
+mac_address
+</td>
+<td align="left" >
+The value must be a valid MAC address.
+</td>
+</tr>
+<tr><td align="left" >
 max.array
 </td>
 <td align="left" >
-The content may not have more than :max items.
+The content must not have more than :max items.
 </td>
 </tr>
 <tr><td align="left" >
 max.file
 </td>
 <td align="left" >
-The file size may not be greater than :max kilobytes.
+The file size must not be greater than :max kilobytes.
 </td>
 </tr>
 <tr><td align="left" >
 max.numeric
 </td>
 <td align="left" >
-The value may not be greater than :max.
+The value must not be greater than :max.
 </td>
 </tr>
 <tr><td align="left" >
 max.string
 </td>
 <td align="left" >
-The string may not be greater than :max characters.
+The string must not be greater than :max characters.
 </td>
 </tr>
 <tr><td align="left" >
@@ -741,13 +740,6 @@ min.string
 </td>
 <td align="left" >
 The string must be at least :min characters.
-</td>
-</tr>
-<tr><td align="left" >
-multiple_of
-</td>
-<td align="left" >
-The value must be a multiple of :value
 </td>
 </tr>
 <tr><td align="left" >
@@ -818,13 +810,6 @@ regex
 </td>
 <td align="left" >
 This format is invalid.
-</td>
-</tr>
-<tr><td align="left" >
-relatable
-</td>
-<td align="left" >
-This field may not be associated with this resource.
 </td>
 </tr>
 <tr><td align="left" >
@@ -950,7 +935,51 @@ This must be a valid UUID.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
+### [validation-nova-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/tk/validation-nova-inline.php)
+
+##### Missing: 2
+
+<table >
+<tr><td align="left" >
+attached
+</td>
+<td align="left" >
+This field is already attached.
+</td>
+</tr>
+<tr><td align="left" >
+relatable
+</td>
+<td align="left" >
+This field may not be associated with this resource.
+</td>
+</tr>
+
+</table>
+
+
+### [validation-nova](https://github.com/Laravel-Lang/lang/blob/master/locales/tk/validation-nova.php)
+
+##### Missing: 2
+
+<table >
+<tr><td align="left" >
+attached
+</td>
+<td align="left" >
+This :attribute is already attached.
+</td>
+</tr>
+<tr><td align="left" >
+relatable
+</td>
+<td align="left" >
+This :attribute may not be associated with this resource.
+</td>
+</tr>
+
+</table>
+
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/tk/validation.php)
 
@@ -969,13 +998,6 @@ after_or_equal
 </td>
 <td align="left" >
 The :attribute must be a date after or equal to :date.
-</td>
-</tr>
-<tr><td align="left" >
-attached
-</td>
-<td align="left" >
-This :attribute is already attached.
 </td>
 </tr>
 <tr><td align="left" >
@@ -1032,6 +1054,13 @@ ends_with
 </td>
 <td align="left" >
 The :attribute must end with one of the following: :values.
+</td>
+</tr>
+<tr><td align="left" >
+enum
+</td>
+<td align="left" >
+The selected :attribute is invalid.
 </td>
 </tr>
 <tr><td align="left" >
@@ -1140,10 +1169,17 @@ The :attribute must not have more than :value items.
 </td>
 </tr>
 <tr><td align="left" >
+mac_address
+</td>
+<td align="left" >
+The :attribute must be a valid MAC address.
+</td>
+</tr>
+<tr><td align="left" >
 multiple_of
 </td>
 <td align="left" >
-The :attribute must be a multiple of :value
+The :attribute must be a multiple of :value.
 </td>
 </tr>
 <tr><td align="left" >
@@ -1196,13 +1232,6 @@ The :attribute field prohibits :other from being present.
 </td>
 </tr>
 <tr><td align="left" >
-relatable
-</td>
-<td align="left" >
-This :attribute may not be associated with this resource.
-</td>
-</tr>
-<tr><td align="left" >
 required_unless
 </td>
 <td align="left" >
@@ -1241,11 +1270,9 @@ The :attribute must be a valid UUID.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
 ### [tk](https://github.com/Laravel-Lang/lang/blob/master/locales/tk/tk.json)
 
-##### Missing: 667
+##### Missing: 676
 
 <table >
 <tr><td align="left" >
@@ -1274,6 +1301,10 @@ The :attribute must be a valid UUID.
 </tr>
 <tr><td align="left" >
 :resource Details: :title
+</td>
+</tr>
+<tr><td align="left" >
+A fresh verification link has been sent to your email address.
 </td>
 </tr>
 <tr><td align="left" >
@@ -1545,6 +1576,10 @@ Barbados
 </td>
 </tr>
 <tr><td align="left" >
+Before proceeding, please check your email for a verification link.
+</td>
+</tr>
+<tr><td align="left" >
 Belarus
 </td>
 </tr>
@@ -1714,6 +1749,10 @@ Christmas Island
 </tr>
 <tr><td align="left" >
 City
+</td>
+</tr>
+<tr><td align="left" >
+click here to request another
 </td>
 </tr>
 <tr><td align="left" >
@@ -1957,6 +1996,10 @@ Download Receipt
 </td>
 </tr>
 <tr><td align="left" >
+E-Mail Address
+</td>
+</tr>
+<tr><td align="left" >
 Ecuador
 </td>
 </tr>
@@ -2042,6 +2085,10 @@ Extra confirmation is needed to process your payment. Please confirm your paymen
 </tr>
 <tr><td align="left" >
 Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below.
+</td>
+</tr>
+<tr><td align="left" >
+Failed to load :resource!
 </td>
 </tr>
 <tr><td align="left" >
@@ -2266,6 +2313,10 @@ If you did not create an account, no further action is required.
 </tr>
 <tr><td align="left" >
 If you did not expect to receive an invitation to this team, you may discard this email.
+</td>
+</tr>
+<tr><td align="left" >
+If you did not receive the email
 </td>
 </tr>
 <tr><td align="left" >
@@ -2872,6 +2923,10 @@ Please confirm access to your account by entering one of your emergency recovery
 </tr>
 <tr><td align="left" >
 Please confirm access to your account by entering the authentication code provided by your authenticator application.
+</td>
+</tr>
+<tr><td align="left" >
+Please confirm your password before continuing.
 </td>
 </tr>
 <tr><td align="left" >
@@ -3759,6 +3814,10 @@ Verify Email Address
 </td>
 </tr>
 <tr><td align="left" >
+Verify Your Email Address
+</td>
+</tr>
+<tr><td align="left" >
 View
 </td>
 </tr>
@@ -3847,6 +3906,10 @@ You are currently within your free trial period. Your trial will expire on :date
 </td>
 </tr>
 <tr><td align="left" >
+You are logged in!
+</td>
+</tr>
+<tr><td align="left" >
 You are receiving this email because we received a password reset request for your account.
 </td>
 </tr>
@@ -3921,6 +3984,4 @@ Zip / Postal Code
 
 </table>
 
-
-[ [go back](../status.md) | [to top](#) ]
 

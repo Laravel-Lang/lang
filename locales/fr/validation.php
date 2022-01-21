@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => 'Le champ :attribute doit contenir uniquement des lettres, des chiffres et des tirets.',
     'alpha_num'            => 'Le champ :attribute doit contenir uniquement des chiffres et des lettres.',
     'array'                => 'Le champ :attribute doit être un tableau.',
-    'attached'             => ':attribute est déjà attaché(e).',
     'before'               => 'Le champ :attribute doit être une date antérieure au :date.',
     'before_or_equal'      => 'Le champ :attribute doit être une date antérieure ou égale au :date.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => 'Le champ :attribute a une valeur en double.',
     'email'                => 'Le champ :attribute doit être une adresse e-mail valide.',
     'ends_with'            => 'Le champ :attribute doit se terminer par une des valeurs suivantes : :values',
+    'enum'                 => 'The selected :attribute is invalid.',
     'exists'               => 'Le champ :attribute sélectionné est invalide.',
     'file'                 => 'Le champ :attribute doit être un fichier.',
     'filled'               => 'Le champ :attribute doit avoir une valeur.',
@@ -80,6 +80,7 @@ return [
         'numeric' => 'La valeur de :attribute doit être inférieure ou égale à :value.',
         'string'  => 'Le texte :attribute doit contenir au plus :value caractères.',
     ],
+    'mac_address'          => 'The :attribute must be a valid MAC address.',
     'max'                  => [
         'array'   => 'Le tableau :attribute ne peut contenir plus de :max éléments.',
         'file'    => 'La taille du fichier de :attribute ne peut pas dépasser :max kilo-octets.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => 'Le champ :attribute est interdit à moins que :other est l\'une des valeurs :values.',
     'prohibits'            => 'Le champ :attribute interdit :other d\'être présent.',
     'regex'                => 'Le format du champ :attribute est invalide.',
-    'relatable'            => ':attribute n\'est sans doute pas associé(e) avec cette donnée.',
     'required'             => 'Le champ :attribute est obligatoire.',
     'required_if'          => 'Le champ :attribute est obligatoire quand la valeur de :other est :value.',
     'required_unless'      => 'Le champ :attribute est obligatoire sauf si :other est :values.',

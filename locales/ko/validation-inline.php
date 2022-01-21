@@ -21,7 +21,6 @@ return [
     'alpha_dash'           => '이 필드는 문자, 숫자, 대쉬(-), 밑줄(_)만 포함할 수 있습니다.',
     'alpha_num'            => '이 필드는 문자와 숫자만 포함할 수 있습니다.',
     'array'                => '이 필드는 배열이어야 합니다.',
-    'attached'             => '이 필드는 이미 첨부되어 있습니다.',
     'before'               => ':date 이전 날짜여야 합니다.',
     'before_or_equal'      => ':date 이전 날짜이거나 같은 날짜여야 합니다.',
     'between'              => [
@@ -45,6 +44,7 @@ return [
     'distinct'             => '이 필드에 중복된 값이 있습니다.',
     'email'                => '유효한 이메일 주소여야 합니다.',
     'ends_with'            => '다음 중 하나로 끝나야 합니다: :values.',
+    'enum'                 => 'The selected value is invalid.',
     'exists'               => '존재하지 않습니다.',
     'file'                 => '파일이어야 합니다.',
     'filled'               => '이 필드는 값이 있어야 합니다.',
@@ -80,6 +80,7 @@ return [
         'numeric' => '이 값은 :value보다 같거나 작아야 합니다.',
         'string'  => '이 문자열의 길이는 :value보다 같거나 짧아야 합니다.',
     ],
+    'mac_address'          => 'The value must be a valid MAC address.',
     'max'                  => [
         'array'   => '이 배열의 항목 수는 :max개보다 많을 수 없습니다.',
         'file'    => '이 파일의 용량은 :max킬로바이트보다 클 수 없습니다.',
@@ -105,7 +106,6 @@ return [
     'prohibited_unless'    => '이 필드는 :other 이(가) :value 이(가) 아닌 경우 금지되어 있습니다.',
     'prohibits'            => '이 필드는 :other을(를) 금지합니다.',
     'regex'                => '형식이 올바르지 않습니다.',
-    'relatable'            => '이 필드는이 리소스와 연결되지 않을 수도 있습니다.',
     'required'             => '이 필드는 필수입니다.',
     'required_if'          => ':other이(가) :value 일 때 이 필드는 필수입니다.',
     'required_unless'      => ':other이(가) :values에 없다면 이 필드는 필수입니다.',

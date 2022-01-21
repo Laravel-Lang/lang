@@ -1,8 +1,6 @@
-[Laravel Lang](https://github.com/Laravel-Lang/lang) / [Main Page](../index.md) / [Completion Status](../status.md) / sw
-
 # sw
 
-##### All missed: 339
+##### All missed: 352
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/sw/auth.php)
@@ -21,11 +19,9 @@ The provided password is incorrect.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/sw/validation-inline.php)
 
-##### Missing: 31
+##### Missing: 33
 
 <table >
 <tr><td align="left" >
@@ -82,6 +78,13 @@ declined_if
 </td>
 <td align="left" >
 This value must be declined when :other is :value.
+</td>
+</tr>
+<tr><td align="left" >
+enum
+</td>
+<td align="left" >
+The selected value is invalid.
 </td>
 </tr>
 <tr><td align="left" >
@@ -155,31 +158,38 @@ The content must not have more than :value items.
 </td>
 </tr>
 <tr><td align="left" >
+mac_address
+</td>
+<td align="left" >
+The value must be a valid MAC address.
+</td>
+</tr>
+<tr><td align="left" >
 max.array
 </td>
 <td align="left" >
-The content may not have more than :max items.
+The content must not have more than :max items.
 </td>
 </tr>
 <tr><td align="left" >
 max.file
 </td>
 <td align="left" >
-The file size may not be greater than :max kilobytes.
+The file size must not be greater than :max kilobytes.
 </td>
 </tr>
 <tr><td align="left" >
 max.numeric
 </td>
 <td align="left" >
-The value may not be greater than :max.
+The value must not be greater than :max.
 </td>
 </tr>
 <tr><td align="left" >
 max.string
 </td>
 <td align="left" >
-The string may not be greater than :max characters.
+The string must not be greater than :max characters.
 </td>
 </tr>
 <tr><td align="left" >
@@ -249,11 +259,9 @@ The string must be :size characters.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/sw/validation.php)
 
-##### Missing: 5
+##### Missing: 7
 
 <table >
 <tr><td align="left" >
@@ -285,6 +293,20 @@ The :attribute must be declined when :other is :value.
 </td>
 </tr>
 <tr><td align="left" >
+enum
+</td>
+<td align="left" >
+The selected :attribute is invalid.
+</td>
+</tr>
+<tr><td align="left" >
+mac_address
+</td>
+<td align="left" >
+The :attribute must be a valid MAC address.
+</td>
+</tr>
+<tr><td align="left" >
 prohibits
 </td>
 <td align="left" >
@@ -295,15 +317,17 @@ The :attribute field prohibits :other from being present.
 </table>
 
 
-[ [go back](../status.md) | [to top](#) ]
-
 ### [sw](https://github.com/Laravel-Lang/lang/blob/master/locales/sw/sw.json)
 
-##### Missing: 302
+##### Missing: 311
 
 <table >
 <tr><td align="left" >
 :days day trial
+</td>
+</tr>
+<tr><td align="left" >
+A fresh verification link has been sent to your email address.
 </td>
 </tr>
 <tr><td align="left" >
@@ -400,6 +424,10 @@ Bangladesh
 </tr>
 <tr><td align="left" >
 Barbados
+</td>
+</tr>
+<tr><td align="left" >
+Before proceeding, please check your email for a verification link.
 </td>
 </tr>
 <tr><td align="left" >
@@ -511,6 +539,10 @@ City
 </td>
 </tr>
 <tr><td align="left" >
+click here to request another
+</td>
+</tr>
+<tr><td align="left" >
 Cocos (Keeling) Islands
 </td>
 </tr>
@@ -583,6 +615,10 @@ Download Receipt
 </td>
 </tr>
 <tr><td align="left" >
+E-Mail Address
+</td>
+</tr>
+<tr><td align="left" >
 Ecuador
 </td>
 </tr>
@@ -612,6 +648,10 @@ ex VAT
 </tr>
 <tr><td align="left" >
 Extra Billing Information
+</td>
+</tr>
+<tr><td align="left" >
+Failed to load :resource!
 </td>
 </tr>
 <tr><td align="left" >
@@ -716,6 +756,10 @@ I accept the terms of service
 </tr>
 <tr><td align="left" >
 ID
+</td>
+</tr>
+<tr><td align="left" >
+If you did not receive the email
 </td>
 </tr>
 <tr><td align="left" >
@@ -1037,6 +1081,10 @@ Philippines
 </tr>
 <tr><td align="left" >
 Please accept the terms of service.
+</td>
+</tr>
+<tr><td align="left" >
+Please confirm your password before continuing.
 </td>
 </tr>
 <tr><td align="left" >
@@ -1420,6 +1468,10 @@ Venezuela, Bolivarian Republic of
 </td>
 </tr>
 <tr><td align="left" >
+Verify Your Email Address
+</td>
+</tr>
+<tr><td align="left" >
 View
 </td>
 </tr>
@@ -1465,6 +1517,10 @@ You are already subscribed.
 </tr>
 <tr><td align="left" >
 You are currently within your free trial period. Your trial will expire on :date.
+</td>
+</tr>
+<tr><td align="left" >
+You are logged in!
 </td>
 </tr>
 <tr><td align="left" >
@@ -1514,6 +1570,4 @@ Zip / Postal Code
 
 </table>
 
-
-[ [go back](../status.md) | [to top](#) ]
 

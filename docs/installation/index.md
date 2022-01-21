@@ -8,4 +8,6 @@ All you need to do to get started is add Laravel Lang to your composer dependenc
 composer require laravel-lang/lang --dev
 ```
 
-But we recommend using one of the [translation managers](managers.md).
+When installing the package this way, you will need to manually copy the files from the `vendor/laravel-lang/lang` folder into your application.
+
+If you want to automate the process, then use one of the [publishers](managers.md).

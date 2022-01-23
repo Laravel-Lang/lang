@@ -124,4 +124,5 @@ jobs:
                     repo: lang
                     ref: master
                     workflow_file_name: docs.yml
+                    wait_workflow: false
 

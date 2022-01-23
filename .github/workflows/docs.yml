@@ -6,7 +6,7 @@ on:
         - generate-docs
 
 jobs:
-    build:
+    handle-dispatch:
         runs-on: ubuntu-latest
 
         steps:

@@ -13,7 +13,6 @@
 
 return [
     'accepted'             => 'Hierdie veld moet aanvaar word.',
-    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'active_url'           => 'Hierdie is nie geldige URL.',
     'after'                => 'Daar moet n datum na :date wees.',
     'after_or_equal'       => 'Daar moet datum gelyk of na :date wees.',
@@ -32,6 +31,7 @@ return [
     'boolean'              => 'Hierdie veld moet waar of onwaar wees.',
     'confirmed'            => 'Die bevestiging stem nie ooreen nie.',
     'current_password'     => 'The password is incorrect.',
+    'accepted_if'          => 'This field must be accepted when :other is :value.',
     'date'                 => 'Dit is nie \'n geldige datum nie.',
     'date_equals'          => 'Dit moet \'n datum wees wat gelyk is aan :date.',
     'date_format'          => 'Dit stem nie ooreen met die :format formaat nie.',

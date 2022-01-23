@@ -115,11 +115,11 @@ jobs:
                 with:
                     github_token: ${{ secrets.GITHUB_TOKEN }}
 
-            -   name: Generate docs
+            -   name: Generate Docs Trigger
                 uses: myrotvorets/trigger-repository-dispatch-action@1.1.0
                 if: success()
                 with:
-                    token: ${{ secrets.GITHUB_TOKEN }}
+                    token: ${{ secrets.HELLDAR_GITHUB_TOKEN }}
                     repo: Laravel-Lang/lang
                     type: generate-docs
 

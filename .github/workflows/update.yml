@@ -116,12 +116,10 @@ jobs:
                     github_token: ${{ secrets.GITHUB_TOKEN }}
 
             -   name: Generate docs
-                uses: convictional/trigger-workflow-and-wait@v1.5.0
+                uses: myrotvorets/trigger-repository-dispatch-action@1.1.0
                 if: success()
                 with:
-                    github_token: ${{ secrets.GITHUB_TOKEN }}
-                    owner: Laravel-Lang
-                    repo: lang
-                    ref: master
-                    workflow_file_name: docs.yml
+                    token: ${{ secrets.GITHUB_TOKEN }}
+                    repo: Laravel-Lang/lang
+                    type: generate-docs
 

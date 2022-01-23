@@ -1,11 +1,11 @@
 # uk
 
-##### All missed: 137
+##### All missed: 135
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/uk/validation-inline.php)
 
-##### Missing: 6
+##### Missing: 5
 
 <table >
 <tr><td align="left" >
@@ -37,13 +37,6 @@ This value must be declined when :other is :value.
 </td>
 </tr>
 <tr><td align="left" >
-mac_address
-</td>
-<td align="left" >
-The value must be a valid MAC address.
-</td>
-</tr>
-<tr><td align="left" >
 prohibits
 </td>
 <td align="left" >
@@ -56,7 +49,7 @@ This field prohibits :other from being present.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/uk/validation.php)
 
-##### Missing: 6
+##### Missing: 5
 
 <table >
 <tr><td align="left" >
@@ -85,13 +78,6 @@ declined_if
 </td>
 <td align="left" >
 The :attribute must be declined when :other is :value.
-</td>
-</tr>
-<tr><td align="left" >
-mac_address
-</td>
-<td align="left" >
-The :attribute must be a valid MAC address.
 </td>
 </tr>
 <tr><td align="left" >

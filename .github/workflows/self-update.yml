@@ -5,10 +5,10 @@ on:
             - master
 
 jobs:
-    build:
+    update:
         runs-on: ubuntu-latest
 
-        name: Self-Update
+        name: Check & Update
 
         steps:
             -   name: Checkout code
@@ -119,6 +119,8 @@ jobs:
 
     docs:
         runs-on: ubuntu-latest
+
+        name: Generate docs
 
         steps:
             -   uses: actions/checkout@v2

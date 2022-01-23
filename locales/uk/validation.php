@@ -80,7 +80,7 @@ return [
         'numeric' => 'Поле :attribute має дорівнювати чи бути менше ніж :value.',
         'string'  => 'Поле :attribute має дорівнювати чи бути менше ніж :value символів.',
     ],
-    'mac_address'          => 'The :attribute must be a valid MAC address.',
+    'mac_address'          => 'Поле :attribute має містити MAC адресу.',
     'max'                  => [
         'array'   => 'Поле :attribute повинне містити не більше :max елементів.',
         'file'    => 'Файл в полі :attribute має бути не більше :max кілобайт.',

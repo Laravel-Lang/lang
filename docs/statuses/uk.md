@@ -1,11 +1,11 @@
 # uk
 
-##### All missed: 139
+##### All missed: 137
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/uk/validation-inline.php)
 
-##### Missing: 7
+##### Missing: 6
 
 <table >
 <tr><td align="left" >
@@ -37,13 +37,6 @@ This value must be declined when :other is :value.
 </td>
 </tr>
 <tr><td align="left" >
-enum
-</td>
-<td align="left" >
-The selected value is invalid.
-</td>
-</tr>
-<tr><td align="left" >
 mac_address
 </td>
 <td align="left" >
@@ -63,7 +56,7 @@ This field prohibits :other from being present.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/uk/validation.php)
 
-##### Missing: 7
+##### Missing: 6
 
 <table >
 <tr><td align="left" >
@@ -92,13 +85,6 @@ declined_if
 </td>
 <td align="left" >
 The :attribute must be declined when :other is :value.
-</td>
-</tr>
-<tr><td align="left" >
-enum
-</td>
-<td align="left" >
-The selected :attribute is invalid.
 </td>
 </tr>
 <tr><td align="left" >

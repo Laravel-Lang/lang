@@ -118,6 +118,8 @@ jobs:
                     github_token: ${{ secrets.GITHUB_TOKEN }}
 
     docs:
+        needs: update
+
         runs-on: ubuntu-latest
 
         steps:

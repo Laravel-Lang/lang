@@ -84,7 +84,6 @@ return [
     'Martinique',
     'Mauritius',
     'Mayotte',
-    'Minute',
     'Monaco',
     'Montenegro',
     'Montserrat',

@@ -4,7 +4,7 @@
 
 All you need to do to get started is add Laravel Lang to your composer dependencies:
 
-```bash
+```bash:no-line-numbers
 composer require laravel-lang/lang --dev
 ```
 

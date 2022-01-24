@@ -74,8 +74,8 @@ module.exports = {
                 collapsible: true,
                 children: [
                     { text: 'Referents', link: '/referents.md' },
-                    { text: 'Code Of Conduct', link: '/code-of-conduct.md' },
-                    { text: 'Contributing To Dev', link: '/contributing-to-dev.md' }
+                    { text: 'Code of Conduct', link: '/code-of-conduct.md' },
+                    { text: 'Contributing', link: '/contributing.md' }
                 ]
             }
         ]

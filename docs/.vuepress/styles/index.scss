@@ -1,5 +1,13 @@
 @charset "UTF-8";
 
+@import 'fonts';
+
 :root {
     --content-width: 800px;
+}
+
+.code-group {
+    &__nav-tab {
+        font-family: Nunito, system-ui, sans-serif;
+    }
 }

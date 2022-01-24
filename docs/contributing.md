@@ -9,12 +9,12 @@ We accept contributions via Pull Requests on [Github](https://github.com/Laravel
 * Fork this repository;
 * Make sure you have [PHP 8.0](https://www.php.net) or higher installed on your computer;
 * Install dependencies by running console command:
-  ```bash
+  ```bash:no-line-numbers
   composer update
   ```
 * Call the console command, passing in the argument the name of the localization to be added. Localization code must comply
   with [ISO-15897](https://laravel.com/docs/8.x/localization) and [ISO-639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) (ex: `fr` for French):
-  ```bash
+  ```bash:no-line-numbers
   php app/add.php fr
   ```
 * This command will create all the necessary files and fill them with initial data. The files will be located in the `locales/{locale}` directory;
@@ -53,6 +53,8 @@ We can avoid this situation in the following way:
 |
 | This is a list of exclusions for words or phrases where the original
 | form of the word has the same spelling in a given language.
+|
+| This list contains values.
 |
 */
 

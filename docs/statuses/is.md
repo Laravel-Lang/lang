@@ -1,6 +1,6 @@
 # is
 
-##### All missed: 169
+##### All missed: 167
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/is/auth.php)
@@ -27,29 +27,6 @@ throttle
 </td>
 <td align="left" >
 Too many login attempts. Please try again in :seconds seconds.
-</td>
-</tr>
-
-</table>
-
-
-### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/master/locales/is/validation-attributes.php)
-
-##### Missing: 2
-
-<table >
-<tr><td align="left" >
-attributes.excerpt
-</td>
-<td align="left" >
-Excerpt
-</td>
-</tr>
-<tr><td align="left" >
-attributes.sex
-</td>
-<td align="left" >
-Sex
 </td>
 </tr>
 

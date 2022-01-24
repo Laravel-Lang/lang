@@ -1,6 +1,6 @@
 # de_CH
 
-##### All missed: 139
+##### All missed: 138
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/de_CH/auth.php)
@@ -13,22 +13,6 @@ password
 </td>
 <td align="left" >
 The provided password is incorrect.
-</td>
-</tr>
-
-</table>
-
-
-### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/master/locales/de_CH/validation-attributes.php)
-
-##### Missing: 1
-
-<table >
-<tr><td align="left" >
-attributes.minute
-</td>
-<td align="left" >
-Minute
 </td>
 </tr>
 

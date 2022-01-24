@@ -1,22 +1,6 @@
 # sl
 
-##### All missed: 105
-
-
-### [validation-attributes](https://github.com/Laravel-Lang/lang/blob/master/locales/sl/validation-attributes.php)
-
-##### Missing: 1
-
-<table >
-<tr><td align="left" >
-attributes.email
-</td>
-<td align="left" >
-Email
-</td>
-</tr>
-
-</table>
+##### All missed: 104
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/sl/validation-inline.php)

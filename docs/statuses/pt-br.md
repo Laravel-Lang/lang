@@ -1,6 +1,6 @@
 # pt_BR
 
-##### All missed: 114
+##### All missed: 98
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/pt_BR/validation-inline.php)
@@ -121,7 +121,7 @@ The :attribute field prohibits :other from being present.
 
 ### [pt_BR](https://github.com/Laravel-Lang/lang/blob/master/locales/pt_BR/pt_BR.json)
 
-##### Missing: 100
+##### Missing: 84
 
 <table >
 <tr><td align="left" >
@@ -157,47 +157,11 @@ Apply Coupon
 </td>
 </tr>
 <tr><td align="left" >
-Before proceeding, please check your email for a verification link.
-</td>
-</tr>
-<tr><td align="left" >
-Billing Information
-</td>
-</tr>
-<tr><td align="left" >
-Billing Management
-</td>
-</tr>
-<tr><td align="left" >
 Bolivia, Plurinational State of
 </td>
 </tr>
 <tr><td align="left" >
-Bosnia and Herzegovina
-</td>
-</tr>
-<tr><td align="left" >
-Cancel Subscription
-</td>
-</tr>
-<tr><td align="left" >
-Change Subscription Plan
-</td>
-</tr>
-<tr><td align="left" >
-click here to request another
-</td>
-</tr>
-<tr><td align="left" >
 Congo, the Democratic Republic of the
-</td>
-</tr>
-<tr><td align="left" >
-Coupon
-</td>
-</tr>
-<tr><td align="left" >
-Current Subscription Plan
 </td>
 </tr>
 <tr><td align="left" >
@@ -213,10 +177,6 @@ Download Receipt
 </td>
 </tr>
 <tr><td align="left" >
-E-Mail Address
-</td>
-</tr>
-<tr><td align="left" >
 Email Addresses
 </td>
 </tr>
@@ -225,27 +185,11 @@ ex VAT
 </td>
 </tr>
 <tr><td align="left" >
-Extra Billing Information
-</td>
-</tr>
-<tr><td align="left" >
 Failed to load :resource!
 </td>
 </tr>
 <tr><td align="left" >
-Have a coupon code?
-</td>
-</tr>
-<tr><td align="left" >
-Having second thoughts about cancelling your subscription? You can instantly reactive your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
-</td>
-</tr>
-<tr><td align="left" >
 Heard Island and McDonald Islands
-</td>
-</tr>
-<tr><td align="left" >
-I accept the terms of service
 </td>
 </tr>
 <tr><td align="left" >
@@ -265,15 +209,7 @@ Isle of Man
 </td>
 </tr>
 <tr><td align="left" >
-It looks like you do not have an active subscription. You may choose one of the subscription plans below to get started. Subscription plans may be changed or cancelled at your convenience.
-</td>
-</tr>
-<tr><td align="left" >
 Jane Doe
-</td>
-</tr>
-<tr><td align="left" >
-Korea, Republic of
 </td>
 </tr>
 <tr><td align="left" >

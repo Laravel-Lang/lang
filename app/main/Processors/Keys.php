@@ -8,6 +8,11 @@ class Keys extends Processor
 {
     protected string $target_path = 'locales';
 
+    public function __construct(
+        protected ?string $locale = null
+    ) {
+    }
+
     public function run(): void
     {
         foreach ($this->locales() as $locale) {
@@ -24,5 +29,14 @@ class Keys extends Processor
     protected function files(string $locale): array
     {
         return File::names($this->getTargetPath($locale));
+    }
+
+    protected function locales(): array
+    {
+        if ($this->locale) {
+            return [$this->locale];
+        }
+
+        return parent::locales();
     }
 }

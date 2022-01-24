@@ -13,9 +13,9 @@ In this repository, you can find the lang files for the [Laravel Framework 4-9](
     ]
 </p>
 
-## News
+## Documentation
 
-We publish all changes in the [changelog](https://laravel-lang.com/changelog/).
+See the [documentation](https://laravel-lang.com) for detailed installation and usage instructions.
 
 ## Translation managers
 

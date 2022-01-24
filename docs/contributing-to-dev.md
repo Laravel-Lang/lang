@@ -6,41 +6,29 @@ We accept contributions via Pull Requests on [Github](https://github.com/Laravel
 
 ## How can I add a language in this project ?
 
-* fork this repository
-* create a directory in `locales` with the short name of the language (ex: `fr` for French) from ISO-639-1 (
-  see [Wikipedia](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) )
-* copy these five files of the English version with your translation : from `source` directory
-    * `en.json`
-    * `auth.php`
-    * `pagination.php`
-    * `passwords.php`
-    * `validation.php`
-    * `validation-inline.php`
-    * `validation-attributes.php`
-    * `validation-nova.php`
-    * `validation-nova-inline.php`
-    * `packages/breeze.json`
-    * `packages/cashier.json`
-    * `packages/fortify.json`
-    * `packages/jetstream.json`
-    * `packages/jetstream-ext.json`
-    * `packages/nova.json`
-    * `packages/spark-paddle.json`
-    * `packages/spark-stripe.json`
-    * `packages/ui.json`
-* Rename json file according to localization (ex: `fr` for `locales/fr/fr.json`, `de` for `locales/de/de.json`, etc)
-* keep in mind that the `validation-inline.php` file does not come with Laravel and the idea of this file is not to put a specific name to each attribute (as in `validation.php`)
-  but a generic name for the validation attributes. Therefore in the translations of this file the placeholder `:attribute` **should not**
-  appear.
-* add a pull request with the name of the language
-    * ex: [fr] New language
+* Fork this repository;
+* Make sure you have [PHP 8.0](https://www.php.net) or higher installed on your computer;
+* Install dependencies by running console command:
+  ```bash
+  composer update
+  ```
+* Call the console command, passing in the argument the name of the localization to be added. Localization code must comply
+  with [ISO-15897](https://laravel.com/docs/8.x/localization) and [ISO-639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) (ex: `fr` for French):
+  ```bash
+  php app/add.php fr
+  ```
+* This command will create all the necessary files and fill them with initial data. The files will be located in the `locales/{locale}` directory;
+* Keep in mind that the `*-inline.php` files does not come with Laravel and the idea of this file is not to put a specific name to each attribute (as in `validation.php`)
+  but a generic name for the validation attributes. Therefore in the translations of this file the placeholder `:attribute` **should not** appear.
+* Add a pull request with the name of the language
+  > ex: [fr] New language
 
 ## How can I fix a file ?
 
-* fork this repository
-* update the file
-* add a pull request with the name of the language
-    * ex: [fr] Update validation for number in validation
+* Fork this repository;
+* Update the files;
+* Add a pull request with the name of the language
+  > ex: [fr] Update validation for number in validation
 
 ## What should I do if there is a tag whose translation is the same as in English?
 
@@ -50,11 +38,10 @@ list of pending translations. This affects the *completion status* for this lang
 
 We can avoid this situation in the following way:
 
-* fork this repository if you haven't already
-* add a PHP file named with the short name of the language (ex: `es.php` for Spanish) inside the directory `excludes`
-* this php file must return an array of strings with each of the tags that we must exclude.
-    * for example suppose that the strings `'Email'` and `'API Token'` in `es.json` (ex: for Spanish) do not need translation in this language and therefore want to exclude them.
-      The PHP file `es.php` (for example) in `excludes` should have this structure which you can copy for other languages.
+* Fork this repository if you haven't already;
+* Add a PHP file named with the short name of the language (ex: `es.php` for Spanish) inside the directory `excludes`;
+* This php file must return an array of strings with each of the tags that we must exclude.
+  > For example suppose that the strings `'Email'` and `'API Token'` in `es.json` (ex: for Spanish) do not need translation in this language and therefore want to exclude them. The PHP file `es.php` (for example) in `excludes` should have this structure which you can copy for other languages.
 
 ```php
 <?php
@@ -75,4 +62,4 @@ return [
 ];
 ```
 
-* add these changes to the pull request you will send
+* Add these changes to the pull request you will send.

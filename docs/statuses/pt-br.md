@@ -1,6 +1,6 @@
 # pt_BR
 
-##### All missed: 128
+##### All missed: 114
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/pt_BR/validation-inline.php)
@@ -121,7 +121,7 @@ The :attribute field prohibits :other from being present.
 
 ### [pt_BR](https://github.com/Laravel-Lang/lang/blob/master/locales/pt_BR/pt_BR.json)
 
-##### Missing: 114
+##### Missing: 100
 
 <table >
 <tr><td align="left" >
@@ -305,10 +305,6 @@ Netherlands Antilles
 </td>
 </tr>
 <tr><td align="left" >
-Nevermind, I'll keep my old plan
-</td>
-</tr>
-<tr><td align="left" >
 Our billing management portal allows you to conveniently manage your subscription plan, payment method, and download your recent invoices.
 </td>
 </tr>
@@ -326,10 +322,6 @@ Please accept the terms of service.
 </tr>
 <tr><td align="left" >
 Please confirm your password before continuing.
-</td>
-</tr>
-<tr><td align="left" >
-Please provide a maximum of three receipt emails addresses.
 </td>
 </tr>
 <tr><td align="left" >
@@ -401,18 +393,6 @@ State / County
 </td>
 </tr>
 <tr><td align="left" >
-Subscribe
-</td>
-</tr>
-<tr><td align="left" >
-Subscription Information
-</td>
-</tr>
-<tr><td align="left" >
-Subscription Pending
-</td>
-</tr>
-<tr><td align="left" >
 Svalbard and Jan Mayen
 </td>
 </tr>
@@ -454,10 +434,6 @@ The selected country is invalid.
 </tr>
 <tr><td align="left" >
 The selected plan is invalid.
-</td>
-</tr>
-<tr><td align="left" >
-There is no active subscription.
 </td>
 </tr>
 <tr><td align="left" >
@@ -509,10 +485,6 @@ Verify Your Email Address
 </td>
 </tr>
 <tr><td align="left" >
-View Receipt
-</td>
-</tr>
-<tr><td align="left" >
 Wallis and Futuna
 </td>
 </tr>
@@ -533,23 +505,7 @@ Yearly
 </td>
 </tr>
 <tr><td align="left" >
-You are already subscribed.
-</td>
-</tr>
-<tr><td align="left" >
-You are currently within your free trial period. Your trial will expire on :date.
-</td>
-</tr>
-<tr><td align="left" >
 You are logged in!
-</td>
-</tr>
-<tr><td align="left" >
-You may accept this invitation by clicking the button below:
-</td>
-</tr>
-<tr><td align="left" >
-You may cancel your subscription at any time. Once your subscription has been cancelled, you will have the option to resume the subscription until the end of your current billing cycle.
 </td>
 </tr>
 <tr><td align="left" >
@@ -561,19 +517,7 @@ Your card was declined. Please contact your card issuer for more information.
 </td>
 </tr>
 <tr><td align="left" >
-Your current payment method is :paypal.
-</td>
-</tr>
-<tr><td align="left" >
-Your current payment method is a credit card ending in :lastFour that expires on :expiration.
-</td>
-</tr>
-<tr><td align="left" >
 Your registered VAT Number is :vatNumber.
-</td>
-</tr>
-<tr><td align="left" >
-Zip / Postal Code
 </td>
 </tr>
 <tr><td align="left" >

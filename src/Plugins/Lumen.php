@@ -21,8 +21,6 @@ class Lumen extends BasePlugin
             'passwords.php'  => '{locale}/passwords.php',
             'validation.php' => '{locale}/validation.php',
 
-            'validation-attributes.php' => '{locale}/validation.php',
-
             'en.json' => '{locale}.json',
         ];
     }

@@ -1,159 +1,15 @@
 # pt_BR
 
-##### All missed: 98
-
-
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/pt_BR/validation-inline.php)
-
-##### Missing: 7
-
-<table >
-<tr><td align="left" >
-accepted_if
-</td>
-<td align="left" >
-This field must be accepted when :other is :value.
-</td>
-</tr>
-<tr><td align="left" >
-current_password
-</td>
-<td align="left" >
-The password is incorrect.
-</td>
-</tr>
-<tr><td align="left" >
-declined
-</td>
-<td align="left" >
-This value must be declined.
-</td>
-</tr>
-<tr><td align="left" >
-declined_if
-</td>
-<td align="left" >
-This value must be declined when :other is :value.
-</td>
-</tr>
-<tr><td align="left" >
-enum
-</td>
-<td align="left" >
-The selected value is invalid.
-</td>
-</tr>
-<tr><td align="left" >
-mac_address
-</td>
-<td align="left" >
-The value must be a valid MAC address.
-</td>
-</tr>
-<tr><td align="left" >
-prohibits
-</td>
-<td align="left" >
-This field prohibits :other from being present.
-</td>
-</tr>
-
-</table>
-
-
-### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/pt_BR/validation.php)
-
-##### Missing: 7
-
-<table >
-<tr><td align="left" >
-accepted_if
-</td>
-<td align="left" >
-The :attribute must be accepted when :other is :value.
-</td>
-</tr>
-<tr><td align="left" >
-current_password
-</td>
-<td align="left" >
-The password is incorrect.
-</td>
-</tr>
-<tr><td align="left" >
-declined
-</td>
-<td align="left" >
-The :attribute must be declined.
-</td>
-</tr>
-<tr><td align="left" >
-declined_if
-</td>
-<td align="left" >
-The :attribute must be declined when :other is :value.
-</td>
-</tr>
-<tr><td align="left" >
-enum
-</td>
-<td align="left" >
-The selected :attribute is invalid.
-</td>
-</tr>
-<tr><td align="left" >
-mac_address
-</td>
-<td align="left" >
-The :attribute must be a valid MAC address.
-</td>
-</tr>
-<tr><td align="left" >
-prohibits
-</td>
-<td align="left" >
-The :attribute field prohibits :other from being present.
-</td>
-</tr>
-
-</table>
+##### All missed: 47
 
 
 ### [pt_BR](https://github.com/Laravel-Lang/lang/blob/master/locales/pt_BR/pt_BR.json)
 
-##### Missing: 84
+##### Missing: 47
 
 <table >
 <tr><td align="left" >
-:days day trial
-</td>
-</tr>
-<tr><td align="left" >
-A fresh verification link has been sent to your email address.
-</td>
-</tr>
-<tr><td align="left" >
-Add VAT Number
-</td>
-</tr>
-<tr><td align="left" >
-Address Line 2
-</td>
-</tr>
-<tr><td align="left" >
-An unexpected error occurred and we have notified our support team. Please try again later.
-</td>
-</tr>
-<tr><td align="left" >
 Antigua and Barbuda
-</td>
-</tr>
-<tr><td align="left" >
-Apply
-</td>
-</tr>
-<tr><td align="left" >
-Apply Coupon
 </td>
 </tr>
 <tr><td align="left" >
@@ -162,10 +18,6 @@ Bolivia, Plurinational State of
 </tr>
 <tr><td align="left" >
 Congo, the Democratic Republic of the
-</td>
-</tr>
-<tr><td align="left" >
-Currently Subscribed
 </td>
 </tr>
 <tr><td align="left" >
@@ -185,14 +37,6 @@ ex VAT
 </td>
 </tr>
 <tr><td align="left" >
-Failed to load :resource!
-</td>
-</tr>
-<tr><td align="left" >
-Heard Island and McDonald Islands
-</td>
-</tr>
-<tr><td align="left" >
 If you did not receive the email
 </td>
 </tr>
@@ -201,19 +45,7 @@ If you need to add specific contact or tax information to your receipts, like yo
 </td>
 </tr>
 <tr><td align="left" >
-Iran, Islamic Republic of
-</td>
-</tr>
-<tr><td align="left" >
-Isle of Man
-</td>
-</tr>
-<tr><td align="left" >
 Jane Doe
-</td>
-</tr>
-<tr><td align="left" >
-Macedonia, the former Yugoslav Republic of
 </td>
 </tr>
 <tr><td align="left" >
@@ -222,22 +54,6 @@ Managing billing for :billableName
 </tr>
 <tr><td align="left" >
 Micronesia, Federated States of
-</td>
-</tr>
-<tr><td align="left" >
-Moldova, Republic of
-</td>
-</tr>
-<tr><td align="left" >
-Monthly
-</td>
-</tr>
-<tr><td align="left" >
-monthly
-</td>
-</tr>
-<tr><td align="left" >
-Netherlands Antilles
 </td>
 </tr>
 <tr><td align="left" >
@@ -341,47 +157,11 @@ Tanzania, United Republic of
 </td>
 </tr>
 <tr><td align="left" >
-Thanks for your continued support. We've attached a copy of your invoice for your records. Please let us know if you have any questions or concerns.
-</td>
-</tr>
-<tr><td align="left" >
-Thanks,
-</td>
-</tr>
-<tr><td align="left" >
-The password is incorrect.
-</td>
-</tr>
-<tr><td align="left" >
-The provided coupon code is invalid.
-</td>
-</tr>
-<tr><td align="left" >
 The provided VAT number is invalid.
 </td>
 </tr>
 <tr><td align="left" >
 The receipt emails must be valid email addresses.
-</td>
-</tr>
-<tr><td align="left" >
-The selected country is invalid.
-</td>
-</tr>
-<tr><td align="left" >
-The selected plan is invalid.
-</td>
-</tr>
-<tr><td align="left" >
-This account does not have an active subscription.
-</td>
-</tr>
-<tr><td align="left" >
-This subscription cannot be resumed. Please create a new subscription.
-</td>
-</tr>
-<tr><td align="left" >
-This subscription has expired and cannot be resumed. Please create a new subscription.
 </td>
 </tr>
 <tr><td align="left" >
@@ -401,14 +181,6 @@ United States Minor Outlying Islands
 </td>
 </tr>
 <tr><td align="left" >
-Update Payment Information
-</td>
-</tr>
-<tr><td align="left" >
-Update Payment Method
-</td>
-</tr>
-<tr><td align="left" >
 VAT Number
 </td>
 </tr>
@@ -422,42 +194,6 @@ Verify Your Email Address
 </tr>
 <tr><td align="left" >
 Wallis and Futuna
-</td>
-</tr>
-<tr><td align="left" >
-We are processing your subscription. Once the subscription has successfully processed, this page will update automatically. Typically, this process should only take a few seconds.
-</td>
-</tr>
-<tr><td align="left" >
-We are unable to process your payment. Please contact customer support.
-</td>
-</tr>
-<tr><td align="left" >
-We will send a receipt download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
-</td>
-</tr>
-<tr><td align="left" >
-Yearly
-</td>
-</tr>
-<tr><td align="left" >
-You are logged in!
-</td>
-</tr>
-<tr><td align="left" >
-Your :invoiceName invoice is now available!
-</td>
-</tr>
-<tr><td align="left" >
-Your card was declined. Please contact your card issuer for more information.
-</td>
-</tr>
-<tr><td align="left" >
-Your registered VAT Number is :vatNumber.
-</td>
-</tr>
-<tr><td align="left" >
-Åland Islands
 </td>
 </tr>
 

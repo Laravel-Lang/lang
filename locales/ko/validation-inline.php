@@ -80,7 +80,7 @@ return [
         'numeric' => '이 값은 :value보다 같거나 작아야 합니다.',
         'string'  => '이 문자열의 길이는 :value보다 같거나 짧아야 합니다.',
     ],
-    'mac_address'          => '올바른 Mac 주소가 아닙니다.',
+    'mac_address'          => '올바른 MAC 주소가 아닙니다.',
     'max'                  => [
         'array'   => '이 배열의 항목 수는 :max개보다 많을 수 없습니다.',
         'file'    => '이 파일의 용량은 :max킬로바이트보다 클 수 없습니다.',

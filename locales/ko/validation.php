@@ -80,7 +80,7 @@ return [
         'numeric' => ':attribute의 값은 :value보다 같거나 작아야 합니다.',
         'string'  => ':attribute의 길이는 :value보다 같거나 짧아야 합니다.',
     ],
-    'mac_address'          => ':attribute은(는) 올바른 Mac 주소가 아닙니다.',
+    'mac_address'          => ':attribute은(는) 올바른 MAC 주소가 아닙니다.',
     'max'                  => [
         'array'   => ':attribute은(는) :max개보다 많을 수 없습니다.',
         'file'    => ':attribute은(는) :max킬로바이트보다 클 수 없습니다.',

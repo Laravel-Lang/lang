@@ -1,6 +1,6 @@
 # mr
 
-##### All missed: 20
+##### All missed: 19
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/mr/validation-inline.php)
@@ -93,7 +93,7 @@ The :attribute field prohibits :other from being present.
 
 ### [mr](https://github.com/Laravel-Lang/lang/blob/master/locales/mr/mr.json)
 
-##### Missing: 10
+##### Missing: 9
 
 <table >
 <tr><td align="left" >
@@ -106,10 +106,6 @@ Before proceeding, please check your email for a verification link.
 </tr>
 <tr><td align="left" >
 click here to request another
-</td>
-</tr>
-<tr><td align="left" >
-E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

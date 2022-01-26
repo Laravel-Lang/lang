@@ -1,6 +1,6 @@
 # ja
 
-##### All missed: 51
+##### All missed: 50
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/ja/validation-inline.php)
@@ -121,7 +121,7 @@ The :attribute field prohibits :other from being present.
 
 ### [ja](https://github.com/Laravel-Lang/lang/blob/master/locales/ja/ja.json)
 
-##### Missing: 37
+##### Missing: 36
 
 <table >
 <tr><td align="left" >
@@ -150,10 +150,6 @@ Billing Management
 </tr>
 <tr><td align="left" >
 click here to request another
-</td>
-</tr>
-<tr><td align="left" >
-E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

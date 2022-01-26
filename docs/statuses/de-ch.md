@@ -1,6 +1,6 @@
 # de_CH
 
-##### All missed: 138
+##### All missed: 137
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/de_CH/auth.php)
@@ -137,7 +137,7 @@ The :attribute field prohibits :other from being present.
 
 ### [de_CH](https://github.com/Laravel-Lang/lang/blob/master/locales/de_CH/de_CH.json)
 
-##### Missing: 123
+##### Missing: 122
 
 <table >
 <tr><td align="left" >
@@ -238,10 +238,6 @@ Côte d'Ivoire
 </tr>
 <tr><td align="left" >
 Download Receipt
-</td>
-</tr>
-<tr><td align="left" >
-E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

@@ -1,6 +1,6 @@
 # bg
 
-##### All missed: 17
+##### All missed: 16
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/bg/validation-inline.php)
@@ -79,7 +79,7 @@ The :attribute must be a valid MAC address.
 
 ### [bg](https://github.com/Laravel-Lang/lang/blob/master/locales/bg/bg.json)
 
-##### Missing: 9
+##### Missing: 8
 
 <table >
 <tr><td align="left" >
@@ -92,10 +92,6 @@ Before proceeding, please check your email for a verification link.
 </tr>
 <tr><td align="left" >
 click here to request another
-</td>
-</tr>
-<tr><td align="left" >
-E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

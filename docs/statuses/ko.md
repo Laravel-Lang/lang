@@ -1,6 +1,6 @@
 # ko
 
-##### All missed: 18
+##### All missed: 17
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/ko/validation-inline.php)
@@ -79,7 +79,7 @@ The :attribute must be a valid MAC address.
 
 ### [ko](https://github.com/Laravel-Lang/lang/blob/master/locales/ko/ko.json)
 
-##### Missing: 10
+##### Missing: 9
 
 <table >
 <tr><td align="left" >
@@ -92,10 +92,6 @@ Before proceeding, please check your email for a verification link.
 </tr>
 <tr><td align="left" >
 click here to request another
-</td>
-</tr>
-<tr><td align="left" >
-E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

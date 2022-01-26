@@ -1,6 +1,6 @@
 # af
 
-##### All missed: 112
+##### All missed: 111
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/af/validation-inline.php)
@@ -121,7 +121,7 @@ The :attribute field prohibits :other from being present.
 
 ### [af](https://github.com/Laravel-Lang/lang/blob/master/locales/af/af.json)
 
-##### Missing: 98
+##### Missing: 97
 
 <table >
 <tr><td align="left" >
@@ -202,10 +202,6 @@ Currently Subscribed
 </tr>
 <tr><td align="left" >
 Download Receipt
-</td>
-</tr>
-<tr><td align="left" >
-E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

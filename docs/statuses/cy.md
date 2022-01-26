@@ -1,6 +1,6 @@
 # cy
 
-##### All missed: 176
+##### All missed: 175
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/cy/auth.php)
@@ -403,7 +403,7 @@ The :attribute field prohibits :other from being present.
 
 ### [cy](https://github.com/Laravel-Lang/lang/blob/master/locales/cy/cy.json)
 
-##### Missing: 123
+##### Missing: 122
 
 <table >
 <tr><td align="left" >
@@ -504,10 +504,6 @@ Côte d'Ivoire
 </tr>
 <tr><td align="left" >
 Download Receipt
-</td>
-</tr>
-<tr><td align="left" >
-E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

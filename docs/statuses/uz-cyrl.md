@@ -1,6 +1,6 @@
 # uz_Cyrl
 
-##### All missed: 244
+##### All missed: 243
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/uz_Cyrl/auth.php)
@@ -319,7 +319,7 @@ The :attribute field prohibits :other from being present.
 
 ### [uz_Cyrl](https://github.com/Laravel-Lang/lang/blob/master/locales/uz_Cyrl/uz_Cyrl.json)
 
-##### Missing: 203
+##### Missing: 202
 
 <table >
 <tr><td align="left" >
@@ -516,10 +516,6 @@ Detach
 </tr>
 <tr><td align="left" >
 Download Receipt
-</td>
-</tr>
-<tr><td align="left" >
-E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

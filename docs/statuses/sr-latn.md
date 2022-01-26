@@ -1,6 +1,6 @@
 # sr_Latn
 
-##### All missed: 141
+##### All missed: 140
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/sr_Latn/auth.php)
@@ -137,7 +137,7 @@ The :attribute field prohibits :other from being present.
 
 ### [sr_Latn](https://github.com/Laravel-Lang/lang/blob/master/locales/sr_Latn/sr_Latn.json)
 
-##### Missing: 126
+##### Missing: 125
 
 <table >
 <tr><td align="left" >
@@ -238,10 +238,6 @@ Côte d'Ivoire
 </tr>
 <tr><td align="left" >
 Download Receipt
-</td>
-</tr>
-<tr><td align="left" >
-E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

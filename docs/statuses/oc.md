@@ -1,6 +1,6 @@
 # oc
 
-##### All missed: 701
+##### All missed: 700
 
 
 ### [passwords](https://github.com/Laravel-Lang/lang/blob/master/locales/oc/passwords.php)
@@ -225,7 +225,7 @@ The :attribute field prohibits :other from being present.
 
 ### [oc](https://github.com/Laravel-Lang/lang/blob/master/locales/oc/oc.json)
 
-##### Missing: 676
+##### Missing: 675
 
 <table >
 <tr><td align="left" >
@@ -946,10 +946,6 @@ Download
 </tr>
 <tr><td align="left" >
 Download Receipt
-</td>
-</tr>
-<tr><td align="left" >
-E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

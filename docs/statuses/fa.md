@@ -1,6 +1,6 @@
 # fa
 
-##### All missed: 120
+##### All missed: 119
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/fa/validation-inline.php)
@@ -86,7 +86,7 @@ The :attribute field prohibits :other from being present.
 
 ### [fa](https://github.com/Laravel-Lang/lang/blob/master/locales/fa/fa.json)
 
-##### Missing: 111
+##### Missing: 110
 
 <table >
 <tr><td align="left" >
@@ -103,10 +103,6 @@ click here to request another
 </tr>
 <tr><td align="left" >
 Currently Subscribed
-</td>
-</tr>
-<tr><td align="left" >
-E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

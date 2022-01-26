@@ -1,6 +1,6 @@
 # ug
 
-##### All missed: 799
+##### All missed: 798
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/ug/auth.php)
@@ -920,7 +920,7 @@ The :attribute must be a valid UUID.
 
 ### [ug](https://github.com/Laravel-Lang/lang/blob/master/locales/ug/ug.json)
 
-##### Missing: 676
+##### Missing: 675
 
 <table >
 <tr><td align="left" >
@@ -1641,10 +1641,6 @@ Download
 </tr>
 <tr><td align="left" >
 Download Receipt
-</td>
-</tr>
-<tr><td align="left" >
-E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

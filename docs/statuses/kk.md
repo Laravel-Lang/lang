@@ -1,6 +1,6 @@
 # kk
 
-##### All missed: 166
+##### All missed: 165
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/kk/auth.php)
@@ -319,7 +319,7 @@ The :attribute field prohibits :other from being present.
 
 ### [kk](https://github.com/Laravel-Lang/lang/blob/master/locales/kk/kk.json)
 
-##### Missing: 125
+##### Missing: 124
 
 <table >
 <tr><td align="left" >
@@ -420,10 +420,6 @@ Côte d'Ivoire
 </tr>
 <tr><td align="left" >
 Download Receipt
-</td>
-</tr>
-<tr><td align="left" >
-E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

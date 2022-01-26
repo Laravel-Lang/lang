@@ -1,6 +1,6 @@
 # sv
 
-##### All missed: 240
+##### All missed: 239
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/sv/auth.php)
@@ -319,7 +319,7 @@ The :attribute field prohibits :other from being present.
 
 ### [sv](https://github.com/Laravel-Lang/lang/blob/master/locales/sv/sv.json)
 
-##### Missing: 199
+##### Missing: 198
 
 <table >
 <tr><td align="left" >
@@ -460,10 +460,6 @@ December
 </tr>
 <tr><td align="left" >
 Djibouti
-</td>
-</tr>
-<tr><td align="left" >
-E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

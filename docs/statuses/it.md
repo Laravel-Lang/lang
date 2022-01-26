@@ -1,6 +1,6 @@
 # it
 
-##### All missed: 13
+##### All missed: 12
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/it/validation-inline.php)
@@ -51,7 +51,7 @@ The :attribute must be a valid MAC address.
 
 ### [it](https://github.com/Laravel-Lang/lang/blob/master/locales/it/it.json)
 
-##### Missing: 9
+##### Missing: 8
 
 <table >
 <tr><td align="left" >
@@ -64,10 +64,6 @@ Before proceeding, please check your email for a verification link.
 </tr>
 <tr><td align="left" >
 click here to request another
-</td>
-</tr>
-<tr><td align="left" >
-E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

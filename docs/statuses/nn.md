@@ -1,6 +1,6 @@
 # nn
 
-##### All missed: 751
+##### All missed: 750
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/nn/auth.php)
@@ -815,7 +815,7 @@ The :attribute field prohibits :other from being present.
 
 ### [nn](https://github.com/Laravel-Lang/lang/blob/master/locales/nn/nn.json)
 
-##### Missing: 643
+##### Missing: 642
 
 <table >
 <tr><td align="left" >
@@ -1528,10 +1528,6 @@ Download
 </tr>
 <tr><td align="left" >
 Download Receipt
-</td>
-</tr>
-<tr><td align="left" >
-E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

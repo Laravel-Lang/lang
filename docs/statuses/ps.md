@@ -1,6 +1,6 @@
 # ps
 
-##### All missed: 756
+##### All missed: 755
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/ps/auth.php)
@@ -822,7 +822,7 @@ The :attribute field prohibits :other from being present.
 
 ### [ps](https://github.com/Laravel-Lang/lang/blob/master/locales/ps/ps.json)
 
-##### Missing: 647
+##### Missing: 646
 
 <table >
 <tr><td align="left" >
@@ -1535,10 +1535,6 @@ Download
 </tr>
 <tr><td align="left" >
 Download Receipt
-</td>
-</tr>
-<tr><td align="left" >
-E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

@@ -1,6 +1,6 @@
 # ka
 
-##### All missed: 97
+##### All missed: 96
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/ka/validation-inline.php)
@@ -79,7 +79,7 @@ The :attribute must be a valid MAC address.
 
 ### [ka](https://github.com/Laravel-Lang/lang/blob/master/locales/ka/ka.json)
 
-##### Missing: 89
+##### Missing: 88
 
 <table >
 <tr><td align="left" >
@@ -112,10 +112,6 @@ Coupon
 </tr>
 <tr><td align="left" >
 Côte d'Ivoire
-</td>
-</tr>
-<tr><td align="left" >
-E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

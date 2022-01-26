@@ -1,6 +1,6 @@
 # sr_Latn_ME
 
-##### All missed: 166
+##### All missed: 165
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/sr_Latn_ME/validation-inline.php)
@@ -303,7 +303,7 @@ The :attribute field prohibits :other from being present.
 
 ### [sr_Latn_ME](https://github.com/Laravel-Lang/lang/blob/master/locales/sr_Latn_ME/sr_Latn_ME.json)
 
-##### Missing: 126
+##### Missing: 125
 
 <table >
 <tr><td align="left" >
@@ -404,10 +404,6 @@ Côte d'Ivoire
 </tr>
 <tr><td align="left" >
 Download Receipt
-</td>
-</tr>
-<tr><td align="left" >
-E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

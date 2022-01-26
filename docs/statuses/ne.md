@@ -1,6 +1,6 @@
 # ne
 
-##### All missed: 160
+##### All missed: 159
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/ne/auth.php)
@@ -137,7 +137,7 @@ The :attribute field prohibits :other from being present.
 
 ### [ne](https://github.com/Laravel-Lang/lang/blob/master/locales/ne/ne.json)
 
-##### Missing: 145
+##### Missing: 144
 
 <table >
 <tr><td align="left" >
@@ -274,10 +274,6 @@ Côte d'Ivoire
 </tr>
 <tr><td align="left" >
 Download Receipt
-</td>
-</tr>
-<tr><td align="left" >
-E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

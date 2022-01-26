@@ -1,6 +1,6 @@
 # fi
 
-##### All missed: 25
+##### All missed: 24
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/fi/validation-inline.php)
@@ -121,7 +121,7 @@ The :attribute field prohibits :other from being present.
 
 ### [fi](https://github.com/Laravel-Lang/lang/blob/master/locales/fi/fi.json)
 
-##### Missing: 11
+##### Missing: 10
 
 <table >
 <tr><td align="left" >
@@ -134,10 +134,6 @@ Before proceeding, please check your email for a verification link.
 </tr>
 <tr><td align="left" >
 click here to request another
-</td>
-</tr>
-<tr><td align="left" >
-E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

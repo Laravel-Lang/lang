@@ -1,6 +1,6 @@
 # cs
 
-##### All missed: 160
+##### All missed: 159
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/cs/validation-inline.php)
@@ -107,7 +107,7 @@ The :attribute field prohibits :other from being present.
 
 ### [cs](https://github.com/Laravel-Lang/lang/blob/master/locales/cs/cs.json)
 
-##### Missing: 148
+##### Missing: 147
 
 <table >
 <tr><td align="left" >
@@ -188,10 +188,6 @@ click here to request another
 </tr>
 <tr><td align="left" >
 Congo, the Democratic Republic of the
-</td>
-</tr>
-<tr><td align="left" >
-E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

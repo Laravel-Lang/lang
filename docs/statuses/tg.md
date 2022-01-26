@@ -1,6 +1,6 @@
 # tg
 
-##### All missed: 182
+##### All missed: 181
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/tg/auth.php)
@@ -389,7 +389,7 @@ The :attribute field prohibits :other from being present.
 
 ### [tg](https://github.com/Laravel-Lang/lang/blob/master/locales/tg/tg.json)
 
-##### Missing: 131
+##### Missing: 130
 
 <table >
 <tr><td align="left" >
@@ -494,10 +494,6 @@ Download
 </tr>
 <tr><td align="left" >
 Download Receipt
-</td>
-</tr>
-<tr><td align="left" >
-E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

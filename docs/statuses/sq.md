@@ -1,6 +1,6 @@
 # sq
 
-##### All missed: 226
+##### All missed: 225
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/sq/auth.php)
@@ -137,7 +137,7 @@ The :attribute field prohibits :other from being present.
 
 ### [sq](https://github.com/Laravel-Lang/lang/blob/master/locales/sq/sq.json)
 
-##### Missing: 211
+##### Missing: 210
 
 <table >
 <tr><td align="left" >
@@ -326,10 +326,6 @@ Djibouti
 </tr>
 <tr><td align="left" >
 Download Receipt
-</td>
-</tr>
-<tr><td align="left" >
-E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

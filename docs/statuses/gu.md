@@ -1,6 +1,6 @@
 # gu
 
-##### All missed: 791
+##### All missed: 790
 
 
 ### [passwords](https://github.com/Laravel-Lang/lang/blob/master/locales/gu/passwords.php)
@@ -855,7 +855,7 @@ The :attribute field prohibits :other from being present.
 
 ### [gu](https://github.com/Laravel-Lang/lang/blob/master/locales/gu/gu.json)
 
-##### Missing: 676
+##### Missing: 675
 
 <table >
 <tr><td align="left" >
@@ -1576,10 +1576,6 @@ Download
 </tr>
 <tr><td align="left" >
 Download Receipt
-</td>
-</tr>
-<tr><td align="left" >
-E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

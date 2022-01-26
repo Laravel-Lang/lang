@@ -1,11 +1,11 @@
 # fr
 
-##### All missed: 6
+##### All missed: 5
 
 
 ### [fr](https://github.com/Laravel-Lang/lang/blob/master/locales/fr/fr.json)
 
-##### Missing: 6
+##### Missing: 5
 
 <table >
 <tr><td align="left" >
@@ -18,10 +18,6 @@ Before proceeding, please check your email for a verification link.
 </tr>
 <tr><td align="left" >
 click here to request another
-</td>
-</tr>
-<tr><td align="left" >
-E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

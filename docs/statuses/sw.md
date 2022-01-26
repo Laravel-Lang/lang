@@ -1,6 +1,6 @@
 # sw
 
-##### All missed: 352
+##### All missed: 351
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/sw/auth.php)
@@ -319,7 +319,7 @@ The :attribute field prohibits :other from being present.
 
 ### [sw](https://github.com/Laravel-Lang/lang/blob/master/locales/sw/sw.json)
 
-##### Missing: 311
+##### Missing: 310
 
 <table >
 <tr><td align="left" >
@@ -612,10 +612,6 @@ Djibouti
 </tr>
 <tr><td align="left" >
 Download Receipt
-</td>
-</tr>
-<tr><td align="left" >
-E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

@@ -1,6 +1,6 @@
 # sk
 
-##### All missed: 220
+##### All missed: 219
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/sk/validation-inline.php)
@@ -268,7 +268,7 @@ The :attribute must be a valid MAC address.
 
 ### [sk](https://github.com/Laravel-Lang/lang/blob/master/locales/sk/sk.json)
 
-##### Missing: 185
+##### Missing: 184
 
 <table >
 <tr><td align="left" >
@@ -417,10 +417,6 @@ December
 </tr>
 <tr><td align="left" >
 Download Receipt
-</td>
-</tr>
-<tr><td align="left" >
-E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

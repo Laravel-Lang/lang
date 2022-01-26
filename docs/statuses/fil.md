@@ -1,6 +1,6 @@
 # fil
 
-##### All missed: 793
+##### All missed: 792
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/fil/auth.php)
@@ -887,7 +887,7 @@ The :attribute field prohibits :other from being present.
 
 ### [fil](https://github.com/Laravel-Lang/lang/blob/master/locales/fil/fil.json)
 
-##### Missing: 676
+##### Missing: 675
 
 <table >
 <tr><td align="left" >
@@ -1608,10 +1608,6 @@ Download
 </tr>
 <tr><td align="left" >
 Download Receipt
-</td>
-</tr>
-<tr><td align="left" >
-E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

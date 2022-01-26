@@ -1,6 +1,6 @@
 # tk
 
-##### All missed: 814
+##### All missed: 813
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/tk/auth.php)
@@ -1025,7 +1025,7 @@ The :attribute must be a valid UUID.
 
 ### [tk](https://github.com/Laravel-Lang/lang/blob/master/locales/tk/tk.json)
 
-##### Missing: 676
+##### Missing: 675
 
 <table >
 <tr><td align="left" >
@@ -1746,10 +1746,6 @@ Download
 </tr>
 <tr><td align="left" >
 Download Receipt
-</td>
-</tr>
-<tr><td align="left" >
-E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

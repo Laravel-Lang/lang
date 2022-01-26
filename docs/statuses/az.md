@@ -1,6 +1,6 @@
 # az
 
-##### All missed: 229
+##### All missed: 228
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/az/auth.php)
@@ -389,7 +389,7 @@ The :attribute field prohibits :other from being present.
 
 ### [az](https://github.com/Laravel-Lang/lang/blob/master/locales/az/az.json)
 
-##### Missing: 178
+##### Missing: 177
 
 <table >
 <tr><td align="left" >
@@ -542,10 +542,6 @@ Côte d'Ivoire
 </tr>
 <tr><td align="left" >
 Download Receipt
-</td>
-</tr>
-<tr><td align="left" >
-E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

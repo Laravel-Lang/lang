@@ -1,6 +1,6 @@
 # he
 
-##### All missed: 164
+##### All missed: 163
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/he/auth.php)
@@ -319,7 +319,7 @@ The :attribute field prohibits :other from being present.
 
 ### [he](https://github.com/Laravel-Lang/lang/blob/master/locales/he/he.json)
 
-##### Missing: 123
+##### Missing: 122
 
 <table >
 <tr><td align="left" >
@@ -420,10 +420,6 @@ Côte d'Ivoire
 </tr>
 <tr><td align="left" >
 Download Receipt
-</td>
-</tr>
-<tr><td align="left" >
-E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

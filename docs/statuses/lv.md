@@ -1,6 +1,6 @@
 # lv
 
-##### All missed: 163
+##### All missed: 162
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/lv/validation-inline.php)
@@ -303,7 +303,7 @@ The :attribute field prohibits :other from being present.
 
 ### [lv](https://github.com/Laravel-Lang/lang/blob/master/locales/lv/lv.json)
 
-##### Missing: 123
+##### Missing: 122
 
 <table >
 <tr><td align="left" >
@@ -404,10 +404,6 @@ Côte d'Ivoire
 </tr>
 <tr><td align="left" >
 Download Receipt
-</td>
-</tr>
-<tr><td align="left" >
-E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

@@ -1,6 +1,6 @@
 # ms
 
-##### All missed: 293
+##### All missed: 292
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/ms/validation-inline.php)
@@ -121,7 +121,7 @@ The :attribute field prohibits :other from being present.
 
 ### [ms](https://github.com/Laravel-Lang/lang/blob/master/locales/ms/ms.json)
 
-##### Missing: 279
+##### Missing: 278
 
 <table >
 <tr><td align="left" >
@@ -374,10 +374,6 @@ Djibouti
 </tr>
 <tr><td align="left" >
 Download Receipt
-</td>
-</tr>
-<tr><td align="left" >
-E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

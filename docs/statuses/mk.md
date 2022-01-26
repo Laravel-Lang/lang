@@ -1,6 +1,6 @@
 # mk
 
-##### All missed: 163
+##### All missed: 162
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/mk/validation-inline.php)
@@ -121,7 +121,7 @@ The :attribute field prohibits :other from being present.
 
 ### [mk](https://github.com/Laravel-Lang/lang/blob/master/locales/mk/mk.json)
 
-##### Missing: 149
+##### Missing: 148
 
 <table >
 <tr><td align="left" >
@@ -246,10 +246,6 @@ Côte d'Ivoire
 </tr>
 <tr><td align="left" >
 Download Receipt
-</td>
-</tr>
-<tr><td align="left" >
-E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

@@ -1,6 +1,6 @@
 # zh_TW
 
-##### All missed: 32
+##### All missed: 31
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/zh_TW/validation-inline.php)
@@ -121,7 +121,7 @@ The :attribute field prohibits :other from being present.
 
 ### [zh_TW](https://github.com/Laravel-Lang/lang/blob/master/locales/zh_TW/zh_TW.json)
 
-##### Missing: 18
+##### Missing: 17
 
 <table >
 <tr><td align="left" >
@@ -134,10 +134,6 @@ Before proceeding, please check your email for a verification link.
 </tr>
 <tr><td align="left" >
 click here to request another
-</td>
-</tr>
-<tr><td align="left" >
-E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

@@ -1,6 +1,6 @@
 # si
 
-##### All missed: 28
+##### All missed: 27
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/si/validation-inline.php)
@@ -86,7 +86,7 @@ The :attribute must be a valid MAC address.
 
 ### [si](https://github.com/Laravel-Lang/lang/blob/master/locales/si/si.json)
 
-##### Missing: 19
+##### Missing: 18
 
 <table >
 <tr><td align="left" >
@@ -107,10 +107,6 @@ click here to request another
 </tr>
 <tr><td align="left" >
 Côte d'Ivoire
-</td>
-</tr>
-<tr><td align="left" >
-E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

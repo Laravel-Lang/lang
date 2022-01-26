@@ -1,6 +1,6 @@
 # hr
 
-##### All missed: 220
+##### All missed: 219
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/hr/auth.php)
@@ -319,7 +319,7 @@ The :attribute field prohibits :other from being present.
 
 ### [hr](https://github.com/Laravel-Lang/lang/blob/master/locales/hr/hr.json)
 
-##### Missing: 179
+##### Missing: 178
 
 <table >
 <tr><td align="left" >
@@ -472,10 +472,6 @@ Côte d'Ivoire
 </tr>
 <tr><td align="left" >
 Download Receipt
-</td>
-</tr>
-<tr><td align="left" >
-E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

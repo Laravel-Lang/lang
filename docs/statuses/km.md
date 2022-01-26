@@ -1,6 +1,6 @@
 # km
 
-##### All missed: 141
+##### All missed: 140
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/km/validation-inline.php)
@@ -121,7 +121,7 @@ The :attribute field prohibits :other from being present.
 
 ### [km](https://github.com/Laravel-Lang/lang/blob/master/locales/km/km.json)
 
-##### Missing: 127
+##### Missing: 126
 
 <table >
 <tr><td align="left" >
@@ -234,10 +234,6 @@ Côte d'Ivoire
 </tr>
 <tr><td align="left" >
 Download Receipt
-</td>
-</tr>
-<tr><td align="left" >
-E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

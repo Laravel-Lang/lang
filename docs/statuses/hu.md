@@ -1,6 +1,6 @@
 # hu
 
-##### All missed: 229
+##### All missed: 228
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/hu/validation-inline.php)
@@ -303,7 +303,7 @@ The :attribute field prohibits :other from being present.
 
 ### [hu](https://github.com/Laravel-Lang/lang/blob/master/locales/hu/hu.json)
 
-##### Missing: 189
+##### Missing: 188
 
 <table >
 <tr><td align="left" >
@@ -464,10 +464,6 @@ December
 </tr>
 <tr><td align="left" >
 Download Receipt
-</td>
-</tr>
-<tr><td align="left" >
-E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

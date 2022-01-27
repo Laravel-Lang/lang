@@ -44,7 +44,7 @@ return [
     'distinct'             => ':Attribute memiliki nilai yang duplikat.',
     'email'                => ':Attribute harus berupa alamat surel yang valid.',
     'ends_with'            => ':Attribute harus diakhiri salah satu dari berikut: :values',
-    'enum'                 => 'The selected :attribute is invalid.',
+    'enum'                 => ':Attribute yang dipilih tidak valid.',
     'exists'               => ':Attribute yang dipilih tidak valid.',
     'file'                 => ':Attribute harus berupa sebuah berkas.',
     'filled'               => ':Attribute harus memiliki nilai.',

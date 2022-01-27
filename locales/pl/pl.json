@@ -2,7 +2,7 @@
     "30 Days": "30 dni",
     "60 Days": "60 dni",
     "90 Days": "90 dni",
-    ":amount Total": ":amount razem",
+    ":amount Total": "Łącznie :amount",
     ":days day trial": ":days dzień próbny",
     ":resource Details": ":resource szczegóły",
     ":resource Details: :title": ":resource odsłon: :title",

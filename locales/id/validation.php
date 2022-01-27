@@ -80,7 +80,7 @@ return [
         'numeric' => ':Attribute harus bernilai kurang dari atau sama dengan :value.',
         'string'  => ':Attribute harus berisi kurang dari atau sama dengan :value karakter.',
     ],
-    'mac_address'          => 'The :attribute must be a valid MAC address.',
+    'mac_address'          => ':Attribute harus berupa alamat MAC yang valid.',
     'max'                  => [
         'array'   => ':Attribute maksimal terdiri dari :max anggota.',
         'file'    => ':Attribute maksimal berukuran :max kilobita.',

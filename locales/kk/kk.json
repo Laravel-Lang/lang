@@ -441,7 +441,7 @@
     "Please provide your name.": "Өз атыңызды атаңыз.",
     "Poland": "Польша",
     "Portugal": "Португалия",
-    "Press \/ to search": "Іздеу үшін \/ түймесін басыңыз",
+    "Press / to search": "Іздеу үшін / түймесін басыңыз",
     "Preview": "Алдын ала қарау",
     "Previous": "Предыдущий",
     "Privacy Policy": "құпиялылық саясаты",
@@ -538,7 +538,7 @@
     "Sri Lanka": "Шри-Ланка",
     "Standalone Actions": "Standalone Actions",
     "Start Polling": "Сауалнаманы бастау",
-    "State \/ County": "State \/ County",
+    "State / County": "State / County",
     "Stop Polling": "Сауалнаманы тоқтату",
     "Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.": "Бұл қалпына келтіру кодтарын қауіпсіз пароль менеджерінде сақтаңыз. Егер сіздің екі факторлы аутентификация құрылғыңыз жоғалған болса, оларды есептік жазбаңызға кіруді қалпына келтіру үшін пайдалануға болады.",
     "Subscribe": "Subscribe",
@@ -716,6 +716,6 @@
     "Your registered VAT Number is :vatNumber.": "Your registered VAT Number is :vatNumber.",
     "Zambia": "Замбия",
     "Zimbabwe": "Зимбабве",
-    "Zip \/ Postal Code": "Zip \/ Postal Code",
+    "Zip / Postal Code": "Zip / Postal Code",
     "Åland Islands": "Åland Islands"
 }

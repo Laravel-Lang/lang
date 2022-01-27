@@ -441,7 +441,7 @@
     "Please provide your name.": "Будь ласка, назвіть своє ім'я.",
     "Poland": "Польща",
     "Portugal": "Португалія",
-    "Press \/ to search": "Натисніть \/ для пошуку",
+    "Press / to search": "Натисніть / для пошуку",
     "Preview": "Попередній перегляд",
     "Previous": "Попередній",
     "Privacy Policy": "Політика конфіденційності",
@@ -538,7 +538,7 @@
     "Sri Lanka": "Шрі-Ланка",
     "Standalone Actions": "Standalone Actions",
     "Start Polling": "Почати опитування",
-    "State \/ County": "State \/ County",
+    "State / County": "State / County",
     "Stop Polling": "Зупинити опитування",
     "Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.": "Зберігайте ці коди відновлення в захищеному менеджері паролів. Вони можуть бути використані для відновлення доступу до вашого облікового запису, якщо ваш двофакторний пристрій автентифікації втрачено.",
     "Subscribe": "Subscribe",
@@ -716,6 +716,6 @@
     "Your registered VAT Number is :vatNumber.": "Your registered VAT Number is :vatNumber.",
     "Zambia": "Замбія",
     "Zimbabwe": "Зімбабве",
-    "Zip \/ Postal Code": "Zip \/ Postal Code",
+    "Zip / Postal Code": "Zip / Postal Code",
     "Åland Islands": "Åland Islands"
 }

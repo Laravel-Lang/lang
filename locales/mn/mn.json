@@ -441,7 +441,7 @@
     "Please provide your name.": "Нэр өгнө үү.",
     "Poland": "Польш",
     "Portugal": "Португал",
-    "Press \/ to search": "Хэвлэлийн \/ хайх",
+    "Press / to search": "Хэвлэлийн / хайх",
     "Preview": "Орох ба энд бүртгүүлэх!",
     "Previous": "Өмнөх",
     "Privacy Policy": "Нууцлалын Бодлого",
@@ -538,7 +538,7 @@
     "Sri Lanka": "Шри-Ланка",
     "Standalone Actions": "Standalone Actions",
     "Start Polling": "Эхэлсэн Санал Авах",
-    "State \/ County": "State \/ County",
+    "State / County": "State / County",
     "Stop Polling": "Санал Асуулга",
     "Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.": "Аюулгүй нууц үг менежер эдгээр сэргээх кодыг хадгална. Таны хоер хүчин зүйл нь нэвтрэлт танилтын төхөөрөмж алдсан бол тэд таны дансанд хандах сэргээхэд ашиглаж болно.",
     "Subscribe": "Subscribe",
@@ -716,6 +716,6 @@
     "Your registered VAT Number is :vatNumber.": "Your registered VAT Number is :vatNumber.",
     "Zambia": "Замби",
     "Zimbabwe": "Зимбабве",
-    "Zip \/ Postal Code": "Zip \/ Postal Code",
+    "Zip / Postal Code": "Zip / Postal Code",
     "Åland Islands": "Åland Islands"
 }

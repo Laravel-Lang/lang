@@ -441,7 +441,7 @@
     "Please provide your name.": "Harap isi nama anda.",
     "Poland": "Polandia",
     "Portugal": "Portugal",
-    "Press \/ to search": "Tekan \/ untuk melakukan pencarian",
+    "Press / to search": "Tekan / untuk melakukan pencarian",
     "Preview": "Pratinjau",
     "Previous": "Sebelumnya",
     "Privacy Policy": "Kebijakan Privasi",
@@ -538,7 +538,7 @@
     "Sri Lanka": "Sri Lanka",
     "Standalone Actions": "Aksi Mandiri",
     "Start Polling": "Mulai Jajak pendapat",
-    "State \/ County": "Negara Bagian \/ Kabupaten",
+    "State / County": "Negara Bagian / Kabupaten",
     "Stop Polling": "Hentikan Jajak pendapat",
     "Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.": "Simpan kode pemulihan pada pengelola kata sandi yang aman. Kode tersebut dapat digunakan untuk memulihkan akses ke akun Anda jika perangkat autentikasi dua faktor anda hilang.",
     "Subscribe": "Langganan",
@@ -716,6 +716,6 @@
     "Your registered VAT Number is :vatNumber.": "Nomor VAT terdaftar Anda adalah :vatNumber.",
     "Zambia": "Zambia",
     "Zimbabwe": "Zimbabwe",
-    "Zip \/ Postal Code": "Zip \/ Kode Pos",
+    "Zip / Postal Code": "Zip / Kode Pos",
     "Åland Islands": "Pulau Aland"
 }

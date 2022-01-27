@@ -441,7 +441,7 @@
     "Please provide your name.": "გთხოვთ მოგვაწოდოთ თქვენი სახელი.",
     "Poland": "პოლონეთი",
     "Portugal": "პორტუგალია",
-    "Press \/ to search": "პრესა \/ ძიება",
+    "Press / to search": "პრესა / ძიება",
     "Preview": "გადახედვა",
     "Previous": "წინა",
     "Privacy Policy": "კონფიდენციალურობის პოლიტიკა",
@@ -538,7 +538,7 @@
     "Sri Lanka": "შრი ლანკაworld. Kgm",
     "Standalone Actions": "Standalone Actions",
     "Start Polling": "კენჭისყრის დაწყება",
-    "State \/ County": "State \/ County",
+    "State / County": "State / County",
     "Stop Polling": "შეაჩერე კენჭისყრა",
     "Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.": "შესანახად ამ აღდგენა კოდები უსაფრთხო დაგავიწყდათ მენეჯერი. ისინი შეიძლება გამოყენებულ იქნას ფეხზე ხელმისაწვდომობის თქვენი ანგარიში, თუ თქვენი ორი ფაქტორი ავტორიზაციის მოწყობილობა დაკარგა.",
     "Subscribe": "Subscribe",
@@ -716,6 +716,6 @@
     "Your registered VAT Number is :vatNumber.": "Your registered VAT Number is :vatNumber.",
     "Zambia": "ზამბია",
     "Zimbabwe": "ზიმბაბვე",
-    "Zip \/ Postal Code": "Zip \/ Postal Code",
+    "Zip / Postal Code": "Zip / Postal Code",
     "Åland Islands": "Åland Islands"
 }

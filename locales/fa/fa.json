@@ -441,7 +441,7 @@
     "Please provide your name.": "لطفا نام خود را وارد کنید",
     "Poland": "لهستان",
     "Portugal": "پرتغال",
-    "Press \/ to search": "دکمه \/ را برای جستجو بزنید",
+    "Press / to search": "دکمه / را برای جستجو بزنید",
     "Preview": "پیش نمایش",
     "Previous": "قبلی",
     "Privacy Policy": "سیاست حفظ حریم خصوصی",
@@ -538,7 +538,7 @@
     "Sri Lanka": "Sri Lanka",
     "Standalone Actions": "Standalone Actions",
     "Start Polling": "شروع نظرسنجی",
-    "State \/ County": "State \/ County",
+    "State / County": "State / County",
     "Stop Polling": "اتمام نظرسنجی",
     "Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.": "این کدهای بازیابی را در یک جای امن ذخیره کنید. اگر دستگاه احراز هویت دو مرحله ای شما از بین رفت ، می توان از آنها برای بازیابی دسترسی به حساب شما استفاده کرد.",
     "Subscribe": "Subscribe",
@@ -716,6 +716,6 @@
     "Your registered VAT Number is :vatNumber.": "شماره ثبتی VAT شما :vatNumber است",
     "Zambia": "زامبیا",
     "Zimbabwe": "زیمباوه",
-    "Zip \/ Postal Code": "کد پستی",
+    "Zip / Postal Code": "کد پستی",
     "Åland Islands": "جزایر الند"
 }

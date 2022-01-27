@@ -441,7 +441,7 @@
     "Please provide your name.": "Tafadhali kutoa jina lako.",
     "Poland": "Poland",
     "Portugal": "Ureno",
-    "Press \/ to search": "Vyombo vya habari \/ search",
+    "Press / to search": "Vyombo vya habari / search",
     "Preview": "Hakikisho",
     "Previous": "Awali",
     "Privacy Policy": "Sera Ya Faragha",
@@ -538,7 +538,7 @@
     "Sri Lanka": "Sri Lanka",
     "Standalone Actions": "Standalone Actions",
     "Start Polling": "Kuanza Kupigia Kura",
-    "State \/ County": "State \/ County",
+    "State / County": "State / County",
     "Stop Polling": "Kuacha Kupigia Kura",
     "Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.": "Hifadhi hizi ahueni codes katika salama password meneja. Wao inaweza kutumika ili kurejesha upatikanaji wa akaunti yako kama yako mbili uthibitisho sababu kifaa ni kupotea.",
     "Subscribe": "Subscribe",
@@ -716,6 +716,6 @@
     "Your registered VAT Number is :vatNumber.": "Your registered VAT Number is :vatNumber.",
     "Zambia": "Zambia",
     "Zimbabwe": "Zimbabwe",
-    "Zip \/ Postal Code": "Zip \/ Postal Code",
+    "Zip / Postal Code": "Zip / Postal Code",
     "Åland Islands": "Åland Islands"
 }

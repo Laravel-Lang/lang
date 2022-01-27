@@ -441,7 +441,7 @@
     "Please provide your name.": "請提供你的姓名。",
     "Poland": "波蘭",
     "Portugal": "葡萄牙",
-    "Press \/ to search": "按 \/ 搜尋",
+    "Press / to search": "按 / 搜尋",
     "Preview": "預覽",
     "Previous": "上一頁",
     "Privacy Policy": "隱私政策",
@@ -538,7 +538,7 @@
     "Sri Lanka": "斯里蘭卡",
     "Standalone Actions": "獨立操作",
     "Start Polling": "開始輪詢",
-    "State \/ County": "州 \/ 縣",
+    "State / County": "州 / 縣",
     "Stop Polling": "停止輪詢",
     "Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.": "將這些還原碼存儲在一個安全的密碼管理器中。如果您的兩步驟驗證裝置遺失，它們可以用來還原對您帳戶的訪問。",
     "Subscribe": "訂閱",
@@ -716,6 +716,6 @@
     "Your registered VAT Number is :vatNumber.": "您註冊的增值稅號是 :vatNumber.",
     "Zambia": "尚比亞",
     "Zimbabwe": "辛巴威",
-    "Zip \/ Postal Code": "郵遞區號 \/ 郵政編碼",
+    "Zip / Postal Code": "郵遞區號 / 郵政編碼",
     "Åland Islands": "奧蘭群島"
 }

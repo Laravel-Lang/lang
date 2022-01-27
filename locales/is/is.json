@@ -441,7 +441,7 @@
     "Please provide your name.": "Gefðu nafn þitt.",
     "Poland": "Pólland",
     "Portugal": "Portúgal",
-    "Press \/ to search": "Ýttu \/ að leita að",
+    "Press / to search": "Ýttu / að leita að",
     "Preview": "Forskoðun",
     "Previous": "Fyrri",
     "Privacy Policy": "Næði Stefnu",
@@ -538,7 +538,7 @@
     "Sri Lanka": "Sri Lanka",
     "Standalone Actions": "Standalone Actions",
     "Start Polling": "Byrja Todd",
-    "State \/ County": "State \/ County",
+    "State / County": "State / County",
     "Stop Polling": "Hættu Að Vakta",
     "Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.": "Geyma þetta bata númer í örugga lykilorð framkvæmdastjóri. Þeir geta notað til að batna aðgang að reikningnum þínum ef tveir þáttur staðfesting tækið er glatað.",
     "Subscribe": "Subscribe",
@@ -716,6 +716,6 @@
     "Your registered VAT Number is :vatNumber.": "Your registered VAT Number is :vatNumber.",
     "Zambia": "Sambíu",
     "Zimbabwe": "Simbabve",
-    "Zip \/ Postal Code": "Zip \/ Postal Code",
+    "Zip / Postal Code": "Zip / Postal Code",
     "Åland Islands": "Åland Islands"
 }

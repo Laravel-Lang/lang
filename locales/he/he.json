@@ -441,7 +441,7 @@
     "Please provide your name.": "אנא ספק את שמך.",
     "Poland": "פולין",
     "Portugal": "פורטוגל",
-    "Press \/ to search": "לחץ \/ לחיפוש",
+    "Press / to search": "לחץ / לחיפוש",
     "Preview": "תצוגה מקדימה",
     "Previous": "הקודם",
     "Privacy Policy": "מדיניות פרטיות",
@@ -538,7 +538,7 @@
     "Sri Lanka": "סרי לנקה",
     "Standalone Actions": "Standalone Actions",
     "Start Polling": "התחל סקרים",
-    "State \/ County": "State \/ County",
+    "State / County": "State / County",
     "Stop Polling": "תפסיק עם הסקרים.",
     "Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.": "אחסן את קודי השחזור האלה במנהל סיסמאות מאובטח. ניתן להשתמש בהם כדי לשחזר גישה לחשבון שלך אם מכשיר האימות הדו-גורמי שלך אבד.",
     "Subscribe": "Subscribe",
@@ -716,6 +716,6 @@
     "Your registered VAT Number is :vatNumber.": "Your registered VAT Number is :vatNumber.",
     "Zambia": "זמביה",
     "Zimbabwe": "זימבבואה",
-    "Zip \/ Postal Code": "Zip \/ Postal Code",
+    "Zip / Postal Code": "Zip / Postal Code",
     "Åland Islands": "Åland Islands"
 }

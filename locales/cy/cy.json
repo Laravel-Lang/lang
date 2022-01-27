@@ -441,7 +441,7 @@
     "Please provide your name.": "Rhowch eich enw.",
     "Poland": "Gwlad pwyl",
     "Portugal": "Portiwgal",
-    "Press \/ to search": "Y wasg \/ i chwilio",
+    "Press / to search": "Y wasg / i chwilio",
     "Preview": "Rhagolwg",
     "Previous": "Blaenorol",
     "Privacy Policy": "Polisi Preifatrwydd",
@@ -538,7 +538,7 @@
     "Sri Lanka": "Sri Lanka",
     "Standalone Actions": "Standalone Actions",
     "Start Polling": "Pleidleisio Yn Dechrau",
-    "State \/ County": "State \/ County",
+    "State / County": "State / County",
     "Stop Polling": "Rhoi'r Gorau I Bleidleisio",
     "Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.": "Siop mae'r rhain adferiad codau yn ddiogel rheolwr cyfrinair. Gellir eu defnyddio i adennill mynediad at eich cyfrif os bydd eich dau ffactor dilysu dyfais yn cael ei golli.",
     "Subscribe": "Subscribe",
@@ -716,6 +716,6 @@
     "Your registered VAT Number is :vatNumber.": "Your registered VAT Number is :vatNumber.",
     "Zambia": "Zambia",
     "Zimbabwe": "Zimbabwe",
-    "Zip \/ Postal Code": "Zip \/ Postal Code",
+    "Zip / Postal Code": "Zip / Postal Code",
     "Åland Islands": "Åland Islands"
 }

@@ -441,7 +441,7 @@
     "Please provide your name.": "Iltimos, ismingizni taqdim eting.",
     "Poland": "Polsha",
     "Portugal": "Portugaliya",
-    "Press \/ to search": "Matbuot \/ qidirish uchun",
+    "Press / to search": "Matbuot / qidirish uchun",
     "Preview": "Oldindan ko'rish",
     "Previous": "Avvalgi",
     "Privacy Policy": "Maxfiylik Siyosati",
@@ -538,7 +538,7 @@
     "Sri Lanka": "Shri Lanka",
     "Standalone Actions": "Standalone Actions",
     "Start Polling": "Saylovni Boshlash",
-    "State \/ County": "State \/ County",
+    "State / County": "State / County",
     "Stop Polling": "Saylovni To'xtatish",
     "Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.": "Xavfsiz parol menejeri bu qutqaruv kodlari saqlash. Sizning ikki faktor autentifikatsiya qurilma yo'qolgan bo'lsa, ular hisobingizga kirish saqlab qolish uchun foydalanish mumkin.",
     "Subscribe": "Subscribe",
@@ -716,6 +716,6 @@
     "Your registered VAT Number is :vatNumber.": "Your registered VAT Number is :vatNumber.",
     "Zambia": "Zambiya",
     "Zimbabwe": "Zimbabve",
-    "Zip \/ Postal Code": "Zip \/ Postal Code",
+    "Zip / Postal Code": "Zip / Postal Code",
     "Åland Islands": "Åland Islands"
 }

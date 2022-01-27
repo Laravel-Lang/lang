@@ -441,7 +441,7 @@
     "Please provide your name.": "कृपया आपले नाव प्रदान करा.",
     "Poland": "पोलंड",
     "Portugal": "पोर्तुगाल",
-    "Press \/ to search": "दाबणे \/ शोधा",
+    "Press / to search": "दाबणे / शोधा",
     "Preview": "पूर्वदृश्य",
     "Previous": "मागचा",
     "Privacy Policy": "गोपनीयता धोरण",
@@ -538,7 +538,7 @@
     "Sri Lanka": "श्रीलंका",
     "Standalone Actions": "स्वतंत्र क्रिया",
     "Start Polling": "मतदान सुरू करा",
-    "State \/ County": "राज्य \/ परगणा",
+    "State / County": "राज्य / परगणा",
     "Stop Polling": "मतदान थांबवा",
     "Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.": "हे रिकव्हरी कोड सुरक्षित संकेतशब्द व्यवस्थापकात साठवा. जर तुमचे दोन घटक प्रमाणीकरण साधन हरवले असेल तर ते तुमच्या खात्यात प्रवेश पुनर्प्राप्त करण्यासाठी वापरले जाऊ शकतात.",
     "Subscribe": "सदस्यता घ्या",
@@ -716,6 +716,6 @@
     "Your registered VAT Number is :vatNumber.": "तुमचा नोंदणीकृत व्हॅट क्रमांक आहे :vatNumber",
     "Zambia": "झांबिया",
     "Zimbabwe": "झिंबाब्वे",
-    "Zip \/ Postal Code": "पिनकोड \/ टपाल कोड",
+    "Zip / Postal Code": "पिनकोड / टपाल कोड",
     "Åland Islands": "आयलँड बेटे"
 }

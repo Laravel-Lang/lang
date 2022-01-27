@@ -441,7 +441,7 @@
     "Please provide your name.": "Lūdzu, norādiet savu vārdu.",
     "Poland": "Polija",
     "Portugal": "Portugāle",
-    "Press \/ to search": "Nospiediet\/, lai meklētu",
+    "Press / to search": "Nospiediet/, lai meklētu",
     "Preview": "Priekšskatījums",
     "Previous": "Iepriekšējo",
     "Privacy Policy": "konfidencialitāte",
@@ -538,7 +538,7 @@
     "Sri Lanka": "Šrilanka",
     "Standalone Actions": "Standalone Actions",
     "Start Polling": "Sāciet Aptauju",
-    "State \/ County": "State \/ County",
+    "State / County": "State / County",
     "Stop Polling": "Pārtraukt Aptauju",
     "Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.": "Saglabājiet šos atkopšanas kodus drošā paroles pārvaldniekā. Tos var izmantot, lai atgūtu piekļuvi jūsu kontam, ja jūsu divu faktoru autentifikācijas ierīce ir zaudēta.",
     "Subscribe": "Subscribe",
@@ -716,6 +716,6 @@
     "Your registered VAT Number is :vatNumber.": "Your registered VAT Number is :vatNumber.",
     "Zambia": "Zambija",
     "Zimbabwe": "Zimbabve",
-    "Zip \/ Postal Code": "Zip \/ Postal Code",
+    "Zip / Postal Code": "Zip / Postal Code",
     "Åland Islands": "Åland Islands"
 }

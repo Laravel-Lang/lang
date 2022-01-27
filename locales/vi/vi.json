@@ -441,7 +441,7 @@
     "Please provide your name.": "Vui lòng cung cấp tên của bạn.",
     "Poland": "Ba Lan",
     "Portugal": "Bồ Đào Nha",
-    "Press \/ to search": "Nhấn \/ để tìm kiếm",
+    "Press / to search": "Nhấn / để tìm kiếm",
     "Preview": "Xem Trước",
     "Previous": "Trang Trước",
     "Privacy Policy": "Điều Khoản Riêng Tư",
@@ -538,7 +538,7 @@
     "Sri Lanka": "Sri Lanka",
     "Standalone Actions": "Hành động độc lập",
     "Start Polling": "Bắt Đầu Thăm Dò Ý Kiến",
-    "State \/ County": "Tiểu bang \/ Quốc gia",
+    "State / County": "Tiểu bang / Quốc gia",
     "Stop Polling": "Dừng Thăm Dò Ý Kiến",
     "Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.": "Lưu trữ các mã khôi phục này trong trình quản lý mật khẩu an toàn. Chúng có thể được sử dụng để khôi phục quyền truy cập vào tài khoản của bạn nếu thiết bị xác thực hai yếu tố của bạn bị mất.",
     "Subscribe": "Đăng ký",
@@ -716,6 +716,6 @@
     "Your registered VAT Number is :vatNumber.": "Mã số VAT đã đăng ký của bạn là :vatNumber.",
     "Zambia": "Zambia",
     "Zimbabwe": "Zimbabwe",
-    "Zip \/ Postal Code": "Zip \/ Mã Bưu Điện",
+    "Zip / Postal Code": "Zip / Mã Bưu Điện",
     "Åland Islands": "Quần đảo Åland"
 }

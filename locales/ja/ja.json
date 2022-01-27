@@ -441,7 +441,7 @@
     "Please provide your name.": "お名前をご記入ください。",
     "Poland": "ポーランド",
     "Portugal": "ポルトガル",
-    "Press \/ to search": "押して検索",
+    "Press / to search": "押して検索",
     "Preview": "プレビュー",
     "Previous": "前のページ",
     "Privacy Policy": "プライバシーポリシー",
@@ -538,7 +538,7 @@
     "Sri Lanka": "スリランカ",
     "Standalone Actions": "Standalone Actions",
     "Start Polling": "ポーリング開始",
-    "State \/ County": "州",
+    "State / County": "州",
     "Stop Polling": "ポーリングの停止",
     "Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.": "パスワード管理ツールにリカバリーコードを保存してください。二段階認証に使用する端末を紛失した場合にリカバリーコードを使ってログインできます。",
     "Subscribe": "購読する",
@@ -716,6 +716,6 @@
     "Your registered VAT Number is :vatNumber.": "登録されているVAT番号は:vatNumberです。",
     "Zambia": "ザンビア",
     "Zimbabwe": "ジンバブエ",
-    "Zip \/ Postal Code": "郵便番号",
+    "Zip / Postal Code": "郵便番号",
     "Åland Islands": "Åland Islands"
 }

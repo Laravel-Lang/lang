@@ -441,7 +441,7 @@
     "Please provide your name.": "Uveďte prosím své jméno.",
     "Poland": "Polsko",
     "Portugal": "Portugalsko",
-    "Press \/ to search": "Stiskněte \/ pro vyhledávání",
+    "Press / to search": "Stiskněte / pro vyhledávání",
     "Preview": "Náhled",
     "Previous": "Předchozí",
     "Privacy Policy": "Soukromí",
@@ -538,7 +538,7 @@
     "Sri Lanka": "Srí Lanka",
     "Standalone Actions": "Standalone Actions",
     "Start Polling": "Začněte S Průzkumem",
-    "State \/ County": "State \/ County",
+    "State / County": "State / County",
     "Stop Polling": "Zastavte Hlasování",
     "Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.": "Uložte tyto kódy pro obnovení v bezpečném správci hesel. Mohou být použity k obnovení přístupu k vašemu účtu, pokud dojde ke ztrátě dvoufaktorového autentizačního zařízení.",
     "Subscribe": "Subscribe",
@@ -716,6 +716,6 @@
     "Your registered VAT Number is :vatNumber.": "Your registered VAT Number is :vatNumber.",
     "Zambia": "Zambie",
     "Zimbabwe": "Zimbabwe",
-    "Zip \/ Postal Code": "Zip \/ Postal Code",
+    "Zip / Postal Code": "Zip / Postal Code",
     "Åland Islands": "Ålandské ostrovy"
 }

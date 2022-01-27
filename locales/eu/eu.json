@@ -441,7 +441,7 @@
     "Please provide your name.": "Mesedez, eman zure izena.",
     "Poland": "Polonia",
     "Portugal": "Portugal",
-    "Press \/ to search": "Prentsa \/ bilatu",
+    "Press / to search": "Prentsa / bilatu",
     "Preview": "Aurreikuspen",
     "Previous": "Aurreko",
     "Privacy Policy": "Pribatutasun-Politika",
@@ -538,7 +538,7 @@
     "Sri Lanka": "Sri Lanka",
     "Standalone Actions": "Standalone Actions",
     "Start Polling": "Hasteko Hauteslekuak",
-    "State \/ County": "State \/ County",
+    "State / County": "State / County",
     "Stop Polling": "Gelditu Hauteslekuak",
     "Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.": "Denda horiek berreskuratzeko kode seguru batean pasahitz-kudeatzailea. Erabili ahal izango dira berreskuratzeko sarbidea zure kontua zure bi faktore autentifikazioa gailua galdu.",
     "Subscribe": "Subscribe",
@@ -716,6 +716,6 @@
     "Your registered VAT Number is :vatNumber.": "Your registered VAT Number is :vatNumber.",
     "Zambia": "Zambia",
     "Zimbabwe": "Zimbabwe",
-    "Zip \/ Postal Code": "Zip \/ Postal Code",
+    "Zip / Postal Code": "Zip / Postal Code",
     "Åland Islands": "Åland Islands"
 }

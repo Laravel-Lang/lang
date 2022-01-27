@@ -441,7 +441,7 @@
     "Please provide your name.": "Παρακαλώ δώστε το όνομά σας.",
     "Poland": "Πολωνία",
     "Portugal": "Πορτογαλία",
-    "Press \/ to search": "Πατήστε \/ για αναζήτηση",
+    "Press / to search": "Πατήστε / για αναζήτηση",
     "Preview": "Προεπισκόπηση",
     "Previous": "Προηγούμενη",
     "Privacy Policy": "απορρήτου",
@@ -538,7 +538,7 @@
     "Sri Lanka": "Σρι Λάνκα",
     "Standalone Actions": "Standalone Actions",
     "Start Polling": "Έναρξη Ψηφοφορίας",
-    "State \/ County": "State \/ County",
+    "State / County": "State / County",
     "Stop Polling": "Σταματήστε Τις Δημοσκοπήσεις",
     "Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.": "Αποθηκεύστε αυτούς τους κωδικούς ανάκτησης σε έναν ασφαλή διαχειριστή κωδικών πρόσβασης. Μπορούν να χρησιμοποιηθούν για να ανακτήσει την πρόσβαση στο λογαριασμό σας, αν η συσκευή ελέγχου ταυτότητας δύο παραγόντων σας έχει χαθεί.",
     "Subscribe": "Subscribe",
@@ -716,6 +716,6 @@
     "Your registered VAT Number is :vatNumber.": "Your registered VAT Number is :vatNumber.",
     "Zambia": "Ζάμπια",
     "Zimbabwe": "Ζιμπάμπουε",
-    "Zip \/ Postal Code": "Zip \/ Postal Code",
+    "Zip / Postal Code": "Zip / Postal Code",
     "Åland Islands": "Åland Islands"
 }

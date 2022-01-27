@@ -441,7 +441,7 @@
     "Please provide your name.": "আপনার নাম প্রদান করুন ।",
     "Poland": "পোলান্ড",
     "Portugal": "পর্তুগাল",
-    "Press \/ to search": "প্রেস \/ অনুসন্ধান করার জন্য",
+    "Press / to search": "প্রেস / অনুসন্ধান করার জন্য",
     "Preview": "প্রাকদর্শন",
     "Previous": "পূর্ববর্তী",
     "Privacy Policy": "গোপনীয়তা নীতি",
@@ -538,7 +538,7 @@
     "Sri Lanka": "শ্রীলঙ্কা",
     "Standalone Actions": "স্বতন্ত্র অ্যাকশন",
     "Start Polling": "নির্বাচনের আরম্ভ করুন",
-    "State \/ County": "প্রদেশ \/ দেশ",
+    "State / County": "প্রদেশ / দেশ",
     "Stop Polling": "ভোটদান বন্ধ করুন",
     "Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.": "একটি নিরাপদ পাসওয়ার্ড ম্যানেজার এই পুনরুদ্ধারের কোড সংরক্ষণ । আপনার দুই ফ্যাক্টর প্রমাণীকরণ ডিভাইস নষ্ট হয়, তাহলে তারা আপনার অ্যাকাউন্টে অ্যাক্সেস পুনরুদ্ধার করতে ব্যবহার করা যেতে পারে ।",
     "Subscribe": "সাবসক্রাইব করুন",
@@ -716,6 +716,6 @@
     "Your registered VAT Number is :vatNumber.": "আপনার নিবন্ধিত ভ্যাট নম্বর হল: vatNumber ।",
     "Zambia": "জাম্বিয়া",
     "Zimbabwe": "জিম্বাবুয়ে",
-    "Zip \/ Postal Code": "জিপ \/ পোস্টাল কোড",
+    "Zip / Postal Code": "জিপ / পোস্টাল কোড",
     "Åland Islands": "এল্যান্ড দ্বীপপুঞ্জ"
 }

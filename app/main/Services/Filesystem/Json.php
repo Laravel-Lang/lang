@@ -24,6 +24,6 @@ class Json extends Base
             $content = array_values($content);
         }
 
-        Arr::storeAsJson($path, $content, false, JSON_UNESCAPED_UNICODE ^ JSON_PRETTY_PRINT);
+        Arr::storeAsJson($path, $content, false, JSON_UNESCAPED_UNICODE ^ JSON_UNESCAPED_SLASHES ^ JSON_PRETTY_PRINT);
     }
 }

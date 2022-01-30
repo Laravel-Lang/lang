@@ -87,6 +87,7 @@ return [
     'Tokelau',
     'Tonga',
     'total',
+    'Total'
     'Tuvalu',
     'Uganda',
     'Vanuatu',

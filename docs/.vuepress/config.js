@@ -1,6 +1,10 @@
 const fs = require('fs');
 const path = require('path');
 
+require('dotenv').config();
+
+const hostname = 'laravel-lang.com';
+
 module.exports = {
     lang: 'en-US',
     title: 'Laravel Lang',
@@ -8,11 +12,12 @@ module.exports = {
 
     head: [
         ['link', { rel: 'icon', href: '/images/logo.svg' }],
-        ['meta', { name: 'twitter:image', content: 'https://laravel-lang.com/images/social-logo.png' }]
+        ['meta', { name: 'twitter:image', content: `https://${ hostname }/images/social-logo.png` }]
     ],
 
     theme: '@vuepress/theme-default',
     themeConfig: {
+        hostname,
         base: '/',
 
         logo: '/images/logo.svg',
@@ -88,7 +93,15 @@ module.exports = {
                 description: $page => $page.frontmatter.description,
                 type: _ => 'website',
                 image: (_, $site) => $site.domain + '/images/social-logo.png'
-            }
+            },
+            [
+                '@vuepress/docsearch',
+                {
+                    appId: process.env.VITE_APP_ALGOLIA_APP_ID,
+                    apiKey: process.env.VITE_APP_ALGOLIA_API_KEY,
+                    indexName: process.env.VITE_APP_ALGOLIA_INDEX_NAME
+                }
+            ]
         ]
     ]
 };
@@ -118,7 +131,7 @@ function getChildren(folder, sort = 'asc') {
 }
 
 function resolveNumeric(value) {
-    const sub = value.substr(0, value.indexOf('.'));
+    const sub = value.substring(0, value.indexOf('.'));
 
     const num = Number(sub);
 

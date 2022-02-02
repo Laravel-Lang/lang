@@ -1,6 +1,6 @@
 # sc
 
-##### All missed: 813
+##### All missed: 815
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/sc/auth.php)
@@ -51,7 +51,7 @@ Please wait before retrying.
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/sc/validation-inline.php)
 
-##### Missing: 90
+##### Missing: 91
 
 <table >
 <tr><td align="left" >
@@ -573,6 +573,13 @@ This field is required.
 </td>
 </tr>
 <tr><td align="left" >
+required_array_keys
+</td>
+<td align="left" >
+This field must contain entries for: :values
+</td>
+</tr>
+<tr><td align="left" >
 required_if
 </td>
 <td align="left" >
@@ -736,7 +743,7 @@ This :attribute may not be associated with this resource.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/sc/validation.php)
 
-##### Missing: 40
+##### Missing: 41
 
 <table >
 <tr><td align="left" >
@@ -982,6 +989,13 @@ prohibits
 </td>
 <td align="left" >
 The :attribute field prohibits :other from being present.
+</td>
+</tr>
+<tr><td align="left" >
+required_array_keys
+</td>
+<td align="left" >
+The :attribute field must contain entries for: :values
 </td>
 </tr>
 <tr><td align="left" >

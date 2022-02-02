@@ -1,11 +1,11 @@
 # bg
 
-##### All missed: 16
+##### All missed: 18
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/bg/validation-inline.php)
 
-##### Missing: 4
+##### Missing: 5
 
 <table >
 <tr><td align="left" >
@@ -36,13 +36,20 @@ mac_address
 The value must be a valid MAC address.
 </td>
 </tr>
+<tr><td align="left" >
+required_array_keys
+</td>
+<td align="left" >
+This field must contain entries for: :values
+</td>
+</tr>
 
 </table>
 
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/bg/validation.php)
 
-##### Missing: 4
+##### Missing: 5
 
 <table >
 <tr><td align="left" >
@@ -71,6 +78,13 @@ mac_address
 </td>
 <td align="left" >
 The :attribute must be a valid MAC address.
+</td>
+</tr>
+<tr><td align="left" >
+required_array_keys
+</td>
+<td align="left" >
+The :attribute field must contain entries for: :values
 </td>
 </tr>
 

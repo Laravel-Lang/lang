@@ -1,6 +1,6 @@
 # de_CH
 
-##### All missed: 137
+##### All missed: 139
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/de_CH/auth.php)
@@ -21,7 +21,7 @@ The provided password is incorrect.
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/de_CH/validation-inline.php)
 
-##### Missing: 7
+##### Missing: 8
 
 <table >
 <tr><td align="left" >
@@ -73,13 +73,20 @@ prohibits
 This field prohibits :other from being present.
 </td>
 </tr>
+<tr><td align="left" >
+required_array_keys
+</td>
+<td align="left" >
+This field must contain entries for: :values
+</td>
+</tr>
 
 </table>
 
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/de_CH/validation.php)
 
-##### Missing: 7
+##### Missing: 8
 
 <table >
 <tr><td align="left" >
@@ -129,6 +136,13 @@ prohibits
 </td>
 <td align="left" >
 The :attribute field prohibits :other from being present.
+</td>
+</tr>
+<tr><td align="left" >
+required_array_keys
+</td>
+<td align="left" >
+The :attribute field must contain entries for: :values
 </td>
 </tr>
 

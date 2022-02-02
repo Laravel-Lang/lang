@@ -1,6 +1,6 @@
 # kk
 
-##### All missed: 165
+##### All missed: 167
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/kk/auth.php)
@@ -21,7 +21,7 @@ The provided password is incorrect.
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/kk/validation-inline.php)
 
-##### Missing: 33
+##### Missing: 34
 
 <table >
 <tr><td align="left" >
@@ -228,6 +228,13 @@ This field prohibits :other from being present.
 </td>
 </tr>
 <tr><td align="left" >
+required_array_keys
+</td>
+<td align="left" >
+This field must contain entries for: :values
+</td>
+</tr>
+<tr><td align="left" >
 size.array
 </td>
 <td align="left" >
@@ -261,7 +268,7 @@ The string must be :size characters.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/kk/validation.php)
 
-##### Missing: 7
+##### Missing: 8
 
 <table >
 <tr><td align="left" >
@@ -311,6 +318,13 @@ prohibits
 </td>
 <td align="left" >
 The :attribute field prohibits :other from being present.
+</td>
+</tr>
+<tr><td align="left" >
+required_array_keys
+</td>
+<td align="left" >
+The :attribute field must contain entries for: :values
 </td>
 </tr>
 

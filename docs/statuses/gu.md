@@ -1,6 +1,6 @@
 # gu
 
-##### All missed: 790
+##### All missed: 792
 
 
 ### [passwords](https://github.com/Laravel-Lang/lang/blob/master/locales/gu/passwords.php)
@@ -21,7 +21,7 @@ Please wait before retrying.
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/gu/validation-inline.php)
 
-##### Missing: 98
+##### Missing: 99
 
 <table >
 <tr><td align="left" >
@@ -585,6 +585,13 @@ This field is required.
 </td>
 </tr>
 <tr><td align="left" >
+required_array_keys
+</td>
+<td align="left" >
+This field must contain entries for: :values
+</td>
+</tr>
+<tr><td align="left" >
 required_if
 </td>
 <td align="left" >
@@ -762,7 +769,7 @@ This :attribute may not be associated with this resource.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/gu/validation.php)
 
-##### Missing: 12
+##### Missing: 13
 
 <table >
 <tr><td align="left" >
@@ -847,6 +854,13 @@ prohibits
 </td>
 <td align="left" >
 The :attribute field prohibits :other from being present.
+</td>
+</tr>
+<tr><td align="left" >
+required_array_keys
+</td>
+<td align="left" >
+The :attribute field must contain entries for: :values
 </td>
 </tr>
 

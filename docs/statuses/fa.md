@@ -1,11 +1,11 @@
 # fa
 
-##### All missed: 119
+##### All missed: 121
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/fa/validation-inline.php)
 
-##### Missing: 3
+##### Missing: 4
 
 <table >
 <tr><td align="left" >
@@ -29,13 +29,20 @@ prohibits
 This field prohibits :other from being present.
 </td>
 </tr>
+<tr><td align="left" >
+required_array_keys
+</td>
+<td align="left" >
+This field must contain entries for: :values
+</td>
+</tr>
 
 </table>
 
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/fa/validation.php)
 
-##### Missing: 6
+##### Missing: 7
 
 <table >
 <tr><td align="left" >
@@ -78,6 +85,13 @@ prohibits
 </td>
 <td align="left" >
 The :attribute field prohibits :other from being present.
+</td>
+</tr>
+<tr><td align="left" >
+required_array_keys
+</td>
+<td align="left" >
+The :attribute field must contain entries for: :values
 </td>
 </tr>
 

@@ -1,6 +1,6 @@
 # oc
 
-##### All missed: 700
+##### All missed: 702
 
 
 ### [passwords](https://github.com/Laravel-Lang/lang/blob/master/locales/oc/passwords.php)
@@ -21,7 +21,7 @@ Please wait before retrying.
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/oc/validation-inline.php)
 
-##### Missing: 10
+##### Missing: 11
 
 <table >
 <tr><td align="left" >
@@ -94,6 +94,13 @@ prohibits
 This field prohibits :other from being present.
 </td>
 </tr>
+<tr><td align="left" >
+required_array_keys
+</td>
+<td align="left" >
+This field must contain entries for: :values
+</td>
+</tr>
 
 </table>
 
@@ -146,7 +153,7 @@ This :attribute may not be associated with this resource.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/oc/validation.php)
 
-##### Missing: 10
+##### Missing: 11
 
 <table >
 <tr><td align="left" >
@@ -217,6 +224,13 @@ prohibits
 </td>
 <td align="left" >
 The :attribute field prohibits :other from being present.
+</td>
+</tr>
+<tr><td align="left" >
+required_array_keys
+</td>
+<td align="left" >
+The :attribute field must contain entries for: :values
 </td>
 </tr>
 

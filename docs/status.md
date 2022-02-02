@@ -1,6 +1,6 @@
 # Completion status
 
-> Translation of localizations is completed by **79%** (57.6K / 72.8K).
+> Translation of localizations is completed by **79%** (57.6K / 72.9K).
 
 <table width="100%">
 <tr><td align="center" width="17%">
@@ -10,7 +10,7 @@
 </td>
 <td align="center" width="17%">
 
-[ar&nbsp;✔](statuses/ar.md)
+[ar&nbsp;❗](statuses/ar.md)
 
 </td>
 <td align="center" width="17%">
@@ -30,7 +30,7 @@
 </td>
 <td align="center" width="17%">
 
-[bn&nbsp;✔](statuses/bn.md)
+[bn&nbsp;❗](statuses/bn.md)
 
 </td>
 </tr>
@@ -77,7 +77,7 @@
 </td>
 <td align="center" width="17%">
 
-[es&nbsp;✔](statuses/es.md)
+[es&nbsp;❗](statuses/es.md)
 
 </td>
 <td align="center" width="17%">
@@ -108,7 +108,7 @@
 </td>
 <td align="center" width="17%">
 
-[fr&nbsp;✔](statuses/fr.md)
+[fr&nbsp;❗](statuses/fr.md)
 
 </td>
 <td align="center" width="17%">
@@ -149,7 +149,7 @@
 </td>
 <td align="center" width="17%">
 
-[id&nbsp;✔](statuses/id.md)
+[id&nbsp;❗](statuses/id.md)
 
 </td>
 <td align="center" width="17%">
@@ -191,7 +191,7 @@
 </tr>
 <tr><td align="center" width="17%">
 
-[ko&nbsp;✔](statuses/ko.md)
+[ko&nbsp;❗](statuses/ko.md)
 
 </td>
 <td align="center" width="17%">
@@ -237,7 +237,7 @@
 </td>
 <td align="center" width="17%">
 
-[nl&nbsp;✔](statuses/nl.md)
+[nl&nbsp;❗](statuses/nl.md)
 
 </td>
 <td align="center" width="17%">
@@ -253,7 +253,7 @@
 </tr>
 <tr><td align="center" width="17%">
 
-[pl&nbsp;✔](statuses/pl.md)
+[pl&nbsp;❗](statuses/pl.md)
 
 </td>
 <td align="center" width="17%">
@@ -268,7 +268,7 @@
 </td>
 <td align="center" width="17%">
 
-[pt_BR&nbsp;✔](statuses/pt-br.md)
+[pt_BR&nbsp;❗](statuses/pt-br.md)
 
 </td>
 <td align="center" width="17%">
@@ -387,7 +387,7 @@
 </td>
 <td align="center" width="17%">
 
-[vi&nbsp;✔](statuses/vi.md)
+[vi&nbsp;❗](statuses/vi.md)
 
 </td>
 <td align="center" width="17%">

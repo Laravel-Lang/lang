@@ -1,11 +1,11 @@
 # hy
 
-##### All missed: 108
+##### All missed: 110
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/hy/validation-inline.php)
 
-##### Missing: 5
+##### Missing: 6
 
 <table >
 <tr><td align="left" >
@@ -43,13 +43,20 @@ prohibits
 This field prohibits :other from being present.
 </td>
 </tr>
+<tr><td align="left" >
+required_array_keys
+</td>
+<td align="left" >
+This field must contain entries for: :values
+</td>
+</tr>
 
 </table>
 
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/hy/validation.php)
 
-##### Missing: 5
+##### Missing: 6
 
 <table >
 <tr><td align="left" >
@@ -85,6 +92,13 @@ prohibits
 </td>
 <td align="left" >
 The :attribute field prohibits :other from being present.
+</td>
+</tr>
+<tr><td align="left" >
+required_array_keys
+</td>
+<td align="left" >
+The :attribute field must contain entries for: :values
 </td>
 </tr>
 

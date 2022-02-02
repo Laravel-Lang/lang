@@ -1,6 +1,6 @@
 # is
 
-##### All missed: 166
+##### All missed: 168
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/is/auth.php)
@@ -35,7 +35,7 @@ Too many login attempts. Please try again in :seconds seconds.
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/is/validation-inline.php)
 
-##### Missing: 33
+##### Missing: 34
 
 <table >
 <tr><td align="left" >
@@ -242,6 +242,13 @@ This field prohibits :other from being present.
 </td>
 </tr>
 <tr><td align="left" >
+required_array_keys
+</td>
+<td align="left" >
+This field must contain entries for: :values
+</td>
+</tr>
+<tr><td align="left" >
 size.array
 </td>
 <td align="left" >
@@ -275,7 +282,7 @@ The string must be :size characters.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/is/validation.php)
 
-##### Missing: 7
+##### Missing: 8
 
 <table >
 <tr><td align="left" >
@@ -325,6 +332,13 @@ prohibits
 </td>
 <td align="left" >
 The :attribute field prohibits :other from being present.
+</td>
+</tr>
+<tr><td align="left" >
+required_array_keys
+</td>
+<td align="left" >
+The :attribute field must contain entries for: :values
 </td>
 </tr>
 

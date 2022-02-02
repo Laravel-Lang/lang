@@ -104,6 +104,7 @@ return [
     'present'              => 'This field must be present.',
     'regex'                => 'This format is invalid.',
     'required'             => 'This field is required.',
+    'required_array_keys'  => 'This field must contain entries for: :values',
     'required_if'          => 'This field is required when :other is :value.',
     'required_unless'      => 'This field is required unless :other is in :values.',
     'required_with'        => 'This field is required when :values is present.',

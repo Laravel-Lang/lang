@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'Поле :attribute запрещает присутствие :other.',
     'regex'                => 'Поле :attribute имеет ошибочный формат.',
     'required'             => 'Поле :attribute обязательно для заполнения.',
+    'required_array_keys'  => 'Массив в поле :attribute обязательно должен иметь ключи: :values',
     'required_if'          => 'Поле :attribute обязательно для заполнения, когда :other равно :value.',
     'required_unless'      => 'Поле :attribute обязательно для заполнения, когда :other не равно :values.',
     'required_with'        => 'Поле :attribute обязательно для заполнения, когда :values указано.',

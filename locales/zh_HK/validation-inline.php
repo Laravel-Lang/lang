@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => '格式錯誤。',
     'required'             => '不能留空。',
+    'required_array_keys'  => 'This field must contain entries for: :values',
     'required_if'          => '當 :other 是 :value 時 不能留空。',
     'required_unless'      => '當 :other 不是 :values 時 不能留空。',
     'required_with'        => '當 :values 出現時 不能留空。',

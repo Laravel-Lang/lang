@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Muundo huu ni batili.',
     'required'             => 'Uwanja huu ni required.',
+    'required_array_keys'  => 'This field must contain entries for: :values',
     'required_if'          => 'Uwanja huu ni required wakati :other ni :value.',
     'required_unless'      => 'Uwanja huu ni required isipokuwa :other ni katika :values.',
     'required_with'        => 'Uwanja huu ni required wakati :values ni sasa.',

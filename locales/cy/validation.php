@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Nid yw fformat :attribute yn ddilys.',
     'required'             => 'Rhaid cynnwys :attribute.',
+    'required_array_keys'  => 'The :attribute field must contain entries for: :values',
     'required_if'          => 'Rhaid cynnwys :attribute pan mae :other yn :value.',
     'required_unless'      => 'Y :attribute maes yn ofynnol oni bai bod :other yn :values.',
     'required_with'        => 'Rhaid cynnwys :attribute pan mae :values yn bresennol.',

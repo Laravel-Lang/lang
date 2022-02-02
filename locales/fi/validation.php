@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Kentän :attribute arvo on väärää muotoa.',
     'required'             => 'Kenttä :attribute vaaditaan.',
+    'required_array_keys'  => 'The :attribute field must contain entries for: :values',
     'required_if'          => 'Kenttä :attribute vaaditaan kun :other on :value.',
     'required_unless'      => 'Kenttä :attribute vaaditaan jos :other ei sisälly arvoihin :values.',
     'required_with'        => 'Kenttä :attribute vaaditaan kun arvo :values on annettu.',

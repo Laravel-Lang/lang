@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Lo format :attribute es invalid.',
     'required'             => 'Lo camp :attribute es obligatòri.',
+    'required_array_keys'  => 'The :attribute field must contain entries for: :values',
     'required_if'          => 'Lo camp :attribute es obligatòri quand :other es :value.',
     'required_unless'      => 'Lo camp :attribute es obligatòri levat se :other es dins :values.',
     'required_with'        => 'Lo camp :attribute es obligatòri quand :values es present.',

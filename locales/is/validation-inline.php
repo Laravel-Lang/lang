@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Þessu sniði er ógilt.',
     'required'             => 'Þetta sviði er krafist.',
+    'required_array_keys'  => 'This field must contain entries for: :values',
     'required_if'          => 'Þetta sviði er krafist þegar :other er :value.',
     'required_unless'      => 'Þetta sviði er krafist nema :other er í :values.',
     'required_with'        => 'Þetta sviði er krafist þegar :values er til staðar.',

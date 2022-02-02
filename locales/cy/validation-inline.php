@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Mae\'r fformat hwn yn annilys.',
     'required'             => 'Mae\'r maes hwn yn ofynnol.',
+    'required_array_keys'  => 'This field must contain entries for: :values',
     'required_if'          => 'Mae\'r maes hwn yn ofynnol pan fydd :other yn :value.',
     'required_unless'      => 'Mae\'r maes hwn yn ofynnol oni bai bod :other yn :values.',
     'required_with'        => 'Mae\'r maes hwn yn ofynnol pan fydd :values yn bresennol.',

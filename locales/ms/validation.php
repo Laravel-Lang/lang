@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Format :attribute tidak sah.',
     'required'             => 'Ruangan :attribute diperlukan.',
+    'required_array_keys'  => 'The :attribute field must contain entries for: :values',
     'required_if'          => 'Ruangan :attribute diperlukan bila :other sama dengan :value.',
     'required_unless'      => 'Ruangan :attribute diperlukan sekiranya :other ada dalam :values.',
     'required_with'        => 'Ruangan :attribute diperlukan bila :values wujud.',

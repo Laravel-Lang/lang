@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Dieses Format ist ungültig.',
     'required'             => 'Dieses Feld muss ausgefüllt sein.',
+    'required_array_keys'  => 'This field must contain entries for: :values',
     'required_if'          => 'Dieses Feld muss ausgefüllt sein, wenn :other :value ist.',
     'required_unless'      => 'Dieses Feld muss ausgefüllt sein, wenn :other nicht :values ist.',
     'required_with'        => 'Dieses Feld muss angegeben werden, wenn :values ausgefüllt wurde.',

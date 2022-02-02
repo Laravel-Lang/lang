@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Lo format del camp es invalid.',
     'required'             => 'Aqueste camp es obligatòri.',
+    'required_array_keys'  => 'This field must contain entries for: :values',
     'required_if'          => 'Aqueste camp es obligatòri quand :other es :value.',
     'required_unless'      => 'Aqueste camp es obligatòri levat se :other es dins :values.',
     'required_with'        => 'Aqueste camp es obligatòri quand :values es present.',

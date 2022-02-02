@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'यह प्रारूप अमान्य है । ',
     'required'             => 'यह फ़ील्ड आवश्यक है । ',
+    'required_array_keys'  => 'This field must contain entries for: :values',
     'required_if'          => ':other :value होने पर यह फ़ील्ड आवश्यक है । ',
     'required_unless'      => 'यह फ़ील्ड तब तक आवश्यक है जब तक कि :other :values में न हो । ',
     'required_with'        => ':values मौजूद होने पर यह फ़ील्ड आवश्यक है । ',

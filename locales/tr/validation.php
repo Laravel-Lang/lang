@@ -107,6 +107,7 @@ return [
     'prohibits'            => ':attribute alanı :other alanının mevcut olmasını yasaklar.',
     'regex'                => ':attribute biçimi geçersiz.',
     'required'             => ':attribute mutlaka gereklidir.',
+    'required_array_keys'  => 'The :attribute field must contain entries for: :values',
     'required_if'          => ':attribute :other :value değerine sahip olduğunda mutlaka gereklidir.',
     'required_unless'      => ':attribute :other :values değerlerinden birine sahip olmadığında mutlaka gereklidir.',
     'required_with'        => ':attribute :values varken mutlaka gereklidir.',

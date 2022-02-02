@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'A(z) :attribute formátuma érvénytelen.',
     'required'             => 'A(z) :attribute megadása kötelező!',
+    'required_array_keys'  => 'The :attribute field must contain entries for: :values',
     'required_if'          => 'A(z) :attribute megadása kötelező, ha a(z) :other értéke :value!',
     'required_unless'      => 'A(z) :attribute megadása kötelező, ha a(z) :other értéke nem :values!',
     'required_with'        => 'A(z) :attribute megadása kötelező, ha a(z) :values érték létezik.',

@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'Dette feltet forbyr :other å være til stede.',
     'regex'                => 'Formatet på veriden er ugyldig.',
     'required'             => 'Må fylles ut.',
+    'required_array_keys'  => 'This field must contain entries for: :values',
     'required_if'          => 'Må fylles ut når :other er :value.',
     'required_unless'      => 'Er påkrevd med mindre :other finnes blant verdiene :values.',
     'required_with'        => 'Må fylles ut når :values er utfylt.',

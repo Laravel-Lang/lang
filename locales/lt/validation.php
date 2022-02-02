@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Negaliojantis lauko :attribute formatas.',
     'required'             => 'Privaloma užpildyti lauką :attribute.',
+    'required_array_keys'  => 'The :attribute field must contain entries for: :values',
     'required_if'          => 'Privaloma užpildyti lauką :attribute, kai :other yra :value.',
     'required_unless'      => 'Laukas :attribute yra privalomas, nebent :other yra tarp :values reikšmių.',
     'required_with'        => 'Privaloma užpildyti lauką :attribute, kai pateikta :values.',

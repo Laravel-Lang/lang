@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'שדה :attribute בעל פורמט שאינו תקין.',
     'required'             => 'שדה :attribute הוא חובה.',
+    'required_array_keys'  => 'The :attribute field must contain entries for: :values',
     'required_if'          => 'שדה :attribute נחוץ כאשר :other הוא :value.',
     'required_unless'      => 'שדה :attribute נחוץ אלא אם כן :other הוא בין :values.',
     'required_with'        => 'שדה :attribute נחוץ כאשר :values נמצא.',

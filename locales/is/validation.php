@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Reiturinn :attribute er ekki á réttu formi.',
     'required'             => 'Reiturinn :attribute er nauðsynlegur.',
+    'required_array_keys'  => 'The :attribute field must contain entries for: :values',
     'required_if'          => 'Reiturinn :attribute er nauðsynlegur þegar :other er :value.',
     'required_unless'      => ':attribute er áskilinn nema :other sé í :values.',
     'required_with'        => ':attribute er áskilinn þegar :values er til staðar.',

@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Полето :attribute има невалиден формат.',
     'required'             => 'Полето :attribute е задолжително.',
+    'required_array_keys'  => 'The :attribute field must contain entries for: :values',
     'required_if'          => 'Полето :attribute е задолжително кога :other е :value.',
     'required_unless'      => 'Полето :attribute е задолжително освен кога :other е во :values.',
     'required_with'        => 'Полето :attribute е задолжително кога е внесено :values.',

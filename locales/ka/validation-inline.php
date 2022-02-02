@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'ამ ველში არ შეიძლება იყოს :other.',
     'regex'                => 'ეს ფორმატი არასწორია.',
     'required'             => 'ეს ველი აუცილებელია.',
+    'required_array_keys'  => 'This field must contain entries for: :values',
     'required_if'          => 'ეს ველი არის საჭირო, როდესაც :other არის :value.',
     'required_unless'      => 'ეს ველი არ არის საჭირო, თუ :other არის :values.',
     'required_with'        => 'ეს ველი არის საჭირო, როდესაც :values იმყოფება.',

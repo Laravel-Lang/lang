@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Su formadu de su campu :attribute no est bàlidu.',
     'required'             => ':attribute est pedidu.',
+    'required_array_keys'  => 'The :attribute field must contain entries for: :values',
     'required_if'          => 'Su campu :attribute est pedidu cando :other est :value.',
     'required_unless'      => 'The :attribute field is required unless :other is in :values.',
     'required_with'        => 'Su campu :attribute est pedidu cando :values est presente.',

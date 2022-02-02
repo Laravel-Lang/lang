@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Бұл формат қолайсыз.',
     'required'             => 'Бұл өріс міндетті болып табылады.',
+    'required_array_keys'  => 'This field must contain entries for: :values',
     'required_if'          => 'Егер :other :value болса, бұл өріс міндетті болып табылады.',
     'required_unless'      => 'Егер :other жылы :values болмаса, бұл өріс міндетті болып табылады.',
     'required_with'        => 'Бұл өріс :values болған кезде міндетті болып табылады.',

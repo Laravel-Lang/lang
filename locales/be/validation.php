@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Поле :attribute мае памылковы фармат.',
     'required'             => 'Поле :attribute абавязкова для запаўнення.',
+    'required_array_keys'  => 'The :attribute field must contain entries for: :values',
     'required_if'          => 'Поле :attribute абавязкова для запаўнення, калі :other раўняецца :value.',
     'required_unless'      => 'Поле :attribute абавязкова для запаўнення, калі :other не раўняецца :values.',
     'required_with'        => 'Поле :attribute абавязкова для запаўнення, калі :values ўказана.',

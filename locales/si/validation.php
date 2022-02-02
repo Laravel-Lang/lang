@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'මෙම :attribute ක්ෂේත්‍රය :other පැවතීම තහනම් කර ඇත.',
     'regex'                => 'මෙම :attribute ආකෘතිය වලංගු නැත.',
     'required'             => 'මෙම :attribute ක්ෂේත්‍රයේ අවශ්‍යයි.',
+    'required_array_keys'  => 'The :attribute field must contain entries for: :values',
     'required_if'          => ':other, :value නම් පමණක් මෙම :attribute ක්ෂේත්‍රයේ අවශ්‍යයි.',
     'required_unless'      => ':other, :value නොවන්නේ නම් පමණක් මෙම :attribute ක්ෂේත්‍රයේ අවශ්‍යයි.',
     'required_with'        => ':values අගය පවතීනම් මෙම :attribute ක්ෂේත්‍රයේ අවශ්‍යයි.',

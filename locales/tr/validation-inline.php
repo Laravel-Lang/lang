@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'Bu alan :other alanının mevcut olmasını yasaklar.',
     'regex'                => 'Bu biçim geçersiz.',
     'required'             => 'Bu alan gereklidir.',
+    'required_array_keys'  => 'This field must contain entries for: :values',
     'required_if'          => 'Bu alan :other :value olduğunda gereklidir.',
     'required_unless'      => ':other :values\'de olmadığı sürece bu alan gereklidir.',
     'required_with'        => 'Bu alan :values olduğunda gereklidir.',

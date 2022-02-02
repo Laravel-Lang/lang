@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute vorming on vigane.',
     'required'             => ':attribute väli on nõutud.',
+    'required_array_keys'  => 'The :attribute field must contain entries for: :values',
     'required_if'          => ':attribute väli on nõutud, kui :other on :value.',
     'required_unless'      => ':attribute väli on nõutud, välja arvatud, kui :other on :values.',
     'required_with'        => ':attribute väli on nõutud, kui :values on esindatud.',

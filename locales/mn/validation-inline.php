@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Энэ хэлбэр нь хүчин төгөлдөр бус байна.',
     'required'             => 'Энэ талбар нь шаардлагатай байна.',
+    'required_array_keys'  => 'This field must contain entries for: :values',
     'required_if'          => 'Энэ талбар нь шаардлагатай үед 305 байна :value.',
     'required_unless'      => 'Энэ талбар нь бол шаардлагатай :other байна :values.',
     'required_with'        => 'Энэ талбар нь шаардлагатай үед :values байгаа.',

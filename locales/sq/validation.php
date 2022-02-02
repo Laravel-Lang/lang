@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Formati i :attribute është i pasaktë.',
     'required'             => 'Fusha :attribute është e kërkuar.',
+    'required_array_keys'  => 'The :attribute field must contain entries for: :values',
     'required_if'          => 'Fusha :attribute është e kërkuar kur :other është :value.',
     'required_unless'      => 'Fusha :attribute është e kërkuar përveç kur :other është në :values.',
     'required_with'        => 'Fusha :attribute është e kërkuar kur :values ekziston.',

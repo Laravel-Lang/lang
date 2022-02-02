@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ' :attribute formatı yanlışdır',
     'required'             => ' :attribute mütləqdir',
+    'required_array_keys'  => 'The :attribute field must contain entries for: :values',
     'required_if'          => ' :attribute (:other :value ikən) mütləqdir',
     'required_unless'      => ' :attribute (:other :values \'ə daxil ikən) mütləqdir',
     'required_with'        => ' :attribute (:values var ikən) mütləqdir',

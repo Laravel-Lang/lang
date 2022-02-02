@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Այս դաշտի ձևաչափը սխալ է։',
     'required'             => 'Այս դաշտը պարտադիր է։',
+    'required_array_keys'  => 'This field must contain entries for: :values',
     'required_if'          => 'Այս դաշտը պարտադիր է երբ :other-ը հավասար է :value։',
     'required_unless'      => 'Այս դաշտը պարտադիր է քանի դեռ :other-ը հավասար չէ :values։',
     'required_with'        => 'Այս դաշտը պարտադիր է երբ :values արժեքն առկա է։',

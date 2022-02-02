@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Hindi balido ang pormat na ito.',
     'required'             => 'Ang patlang na ito ay kinakailangan.',
+    'required_array_keys'  => 'This field must contain entries for: :values',
     'required_if'          => 'Ang patlang na ito ay kinakailangan kapag :other ay :value.',
     'required_unless'      => 'Ang patlang na ito ay kinakailangan maliban kung :other ay nasa :values.',
     'required_with'        => 'Ang patlang na ito ay kinakailangan kapag :values ay naroroon.',

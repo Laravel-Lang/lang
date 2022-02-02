@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute baliogabea da.',
     'required'             => ':attribute derrigorrezkoa da.',
+    'required_array_keys'  => 'The :attribute field must contain entries for: :values',
     'required_if'          => ':attribute derrigorrezkoa da :other :value denean.',
     'required_unless'      => ':attribute derrigorrezkoa da :other :values-(e)n egon ezean.',
     'required_with'        => ':attribute derrigorrezkoa da :values dagoenean.',

@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Ky format është i pasaktë.',
     'required'             => 'Kjo fushë është e kërkuar.',
+    'required_array_keys'  => 'This field must contain entries for: :values',
     'required_if'          => 'Kjo fushë është e kërkuar kur :other është :value.',
     'required_unless'      => 'Kjo fushë është e kërkuar përveç kur :other është në :values.',
     'required_with'        => 'Kjo fushë është e kërkuar kur :values ekziston.',

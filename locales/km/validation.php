@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute ទម្រង់មិនត្រឹមត្រូវ។',
     'required'             => ':attribute នេះគឺទាមទារឲ្យមាន។',
+    'required_array_keys'  => 'The :attribute field must contain entries for: :values',
     'required_if'          => ':attribute នេះគឺទាមទារនៅពេល :other គឺ :value។',
     'required_unless'      => ':attribute នេះគឺទាមទារនៅពេល :other មិនមែន :values។',
     'required_with'        => ':attribute នេះគឺទាមទារនៅពេល :values មាន។',

@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Detta format är ogiltigt.',
     'required'             => 'Detta fält krävs.',
+    'required_array_keys'  => 'This field must contain entries for: :values',
     'required_if'          => 'Detta fält krävs när :other är :value.',
     'required_unless'      => 'Detta fält krävs om inte :other är i :values.',
     'required_with'        => 'Detta fält krävs när :values är närvarande.',

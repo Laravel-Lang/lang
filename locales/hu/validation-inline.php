@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Ez a formátum érvénytelen.',
     'required'             => 'Ez a mező szükséges.',
+    'required_array_keys'  => 'This field must contain entries for: :values',
     'required_if'          => 'Erre a mezőre akkor van szükség, ha a :other :value.',
     'required_unless'      => 'Erre a mezőre csak akkor van szükség, ha a :other :values-ban van.',
     'required_with'        => 'Ez a mező akkor szükséges, ha :values van jelen.',

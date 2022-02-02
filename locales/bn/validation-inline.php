@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'এই ফিল্ডটি বাতিল :other যখন থাকবে',
     'regex'                => 'এই বিন্যাসটি অবৈধ.',
     'required'             => 'এই ক্ষেত্রটি প্রয়োজন.',
+    'required_array_keys'  => 'This field must contain entries for: :values',
     'required_if'          => 'এই ক্ষেত্র প্রয়োজন বোধ করা হয় যখন :other হয় :value.',
     'required_unless'      => 'এই ক্ষেত্র প্রয়োজন বোধ করা হয়, যদি না :other হয়, :values.',
     'required_with'        => ':values উপস্থিত থাকলে এই ক্ষেত্র প্রয়োজন বোধ করা হয়.',

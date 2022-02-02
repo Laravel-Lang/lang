@@ -107,6 +107,7 @@ return [
     'prohibits'            => ':attribute ক্ষেত্রটি :other ে উপস্থিত হতে নিষেধ করে ৷',
     'regex'                => ':attribute বিন্যাস অবৈধ।',
     'required'             => ':attribute স্থানটি পূরণ করা বাধ্যতামূলক।',
+    'required_array_keys'  => 'The :attribute field must contain entries for: :values',
     'required_if'          => ':attribute স্থানটি পূরণ করা বাধ্যতামূলক যেখানে :other হল :value।',
     'required_unless'      => ':attribute স্থানটি পূরণ করা বাধ্যতামূলক যদি না :other, :values তে উপস্থিত থাকে।',
     'required_with'        => ':attribute স্থানটি পূরণ করা বাধ্যতামূলক যখন  :values উপস্থিত।',

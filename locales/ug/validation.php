@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute ھۆججەت تىپى ئىناۋەتسىز.',
     'required'             => ':attribute قۇرۇق بولسا بولمايدۇ.',
+    'required_array_keys'  => 'The :attribute field must contain entries for: :values',
     'required_if'          => ':other :value بولغاندا :attribute قۇرۇق بولسا بولمايدۇ.',
     'required_unless'      => ':other :values بولمىغاندا :attribute قۇرۇق بولسا بولمايدۇ.',
     'required_with'        => ':values مەۋجۈت بولغاندا :attribute قۇرۇق بولسا بولمايدۇ.',

@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'See vorming on vigane.',
     'required'             => 'See väli on vajalik.',
+    'required_array_keys'  => 'This field must contain entries for: :values',
     'required_if'          => 'See väli on vajalik, kui :other on :value.',
     'required_unless'      => 'See väli on nõutav, välja arvatud juhul, kui :other on :values-s.',
     'required_with'        => 'See väli on vajalik, kui :values on olemas.',

@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'Това поле изключва наличието на :other.',
     'regex'                => 'Този формат е невалиден.',
     'required'             => 'Това поле е задължително.',
+    'required_array_keys'  => 'This field must contain entries for: :values',
     'required_if'          => 'Това поле е задължително, ако :other е равно на :value.',
     'required_unless'      => 'Това поле е задължително, освен ако :other не е в :values.',
     'required_with'        => 'Това поле е задължително, когато има :values.',

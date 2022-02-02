@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'Pole :attribute zabrania obecności :other.',
     'regex'                => 'Format pola :attribute jest nieprawidłowy.',
     'required'             => 'Pole :attribute jest wymagane.',
+    'required_array_keys'  => 'The :attribute field must contain entries for: :values',
     'required_if'          => 'Pole :attribute jest wymagane gdy :other ma wartość :value.',
     'required_unless'      => 'Pole :attribute jest wymagane jeżeli :other nie znajduje się w :values.',
     'required_with'        => 'Pole :attribute jest wymagane gdy :values jest obecny.',

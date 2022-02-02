@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute դաշտի ձևաչափը սխալ է։',
     'required'             => ':attribute դաշտը պարտադիր է։',
+    'required_array_keys'  => 'The :attribute field must contain entries for: :values',
     'required_if'          => ':attribute դաշտը պարտադիր է երբ :other-ը հավասար է :value։',
     'required_unless'      => ':attribute դաշտը պարտադիր է քանի դեռ :other-ը հավասար չէ :values։',
     'required_with'        => ':attribute դաշտը պարտադիր է երբ :values արժեքն առկա է։',

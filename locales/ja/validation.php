@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attributeには、有効な正規表現を指定してください。',
     'required'             => ':attributeは、必ず指定してください。',
+    'required_array_keys'  => 'The :attribute field must contain entries for: :values',
     'required_if'          => ':otherが:valueの場合、:attributeを指定してください。',
     'required_unless'      => ':otherが:values以外の場合、:attributeを指定してください。',
     'required_with'        => ':valuesが指定されている場合、:attributeも指定してください。',

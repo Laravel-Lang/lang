@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute formaty ýalňyş.',
     'required'             => ':attribute meýdany zerur.',
+    'required_array_keys'  => 'The :attribute field must contain entries for: :values',
     'required_if'          => ':attribute meýdany, :other :value hümmetine eýe bolanynda zerurdyr.',
     'required_unless'      => 'The :attribute field is required unless :other is in :values.',
     'required_with'        => ':attribute meýdany :values bar bolanda zerurdyr.',

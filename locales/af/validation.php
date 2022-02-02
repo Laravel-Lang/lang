@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Die :attribute formaat is ongeldig.',
     'required'             => 'Die :attribute veld is verpligtend.',
+    'required_array_keys'  => 'The :attribute field must contain entries for: :values',
     'required_if'          => 'Die :attribute veld is verpligtend wanneer :other :value is.',
     'required_unless'      => 'Die :attribute veld is verpligtend tensy :other in :values is.',
     'required_with'        => 'Die :attribute veld is verpligtend wanneer :values teenwoordig is.',

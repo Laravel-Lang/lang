@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'यो ढाँचा अवैध छ।',
     'required'             => 'यो फिल्ड आवाश्यक छ।',
+    'required_array_keys'  => 'This field must contain entries for: :values',
     'required_if'          => 'यो फिल्ड आवश्यक हुन्छ जब: अन्य हो :value।',
     'required_unless'      => 'यस फिल्ड आवाश्यक हुन्छ: अन्यमा मानहरू।',
     'required_with'        => 'यो फिल्ड आवाश्यक हुन्छ जब :values अवस्थित हुन्छन्।',

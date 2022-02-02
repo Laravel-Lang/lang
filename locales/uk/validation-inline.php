@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Формат недійсний.',
     'required'             => 'Це поле є обовязковим.',
+    'required_array_keys'  => 'This field must contain entries for: :values',
     'required_if'          => 'Це поле обовязкове коли :other є :value.',
     'required_unless'      => 'Це поле обовязковим, якщо :other інше не вказано у :values.',
     'required_with'        => 'Це поле обовязкове коли :values є.',

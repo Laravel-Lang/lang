@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Câmpul :attribute nu are un format valid.',
     'required'             => 'Câmpul :attribute este obligatoriu.',
+    'required_array_keys'  => 'The :attribute field must contain entries for: :values',
     'required_if'          => 'Câmpul :attribute este necesar când :other este :value.',
     'required_unless'      => 'Câmpul :attribute este necesar, cu excepția cazului :other este in :values.',
     'required_with'        => 'Câmpul :attribute este necesar când există :values.',

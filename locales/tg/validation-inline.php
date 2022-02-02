@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Ин формат недопустим.',
     'required'             => 'Ин майдон ҳатмист.',
+    'required_array_keys'  => 'This field must contain entries for: :values',
     'required_if'          => 'Ин майдон ҳатмист, агар :other баробар :value.',
     'required_unless'      => 'Ин майдон ҳатмист, агар танҳо дар соли :other аст, дар :values сол.',
     'required_with'        => 'Ин майдон ҳатмист ва ҳангоми мавҷуд будани :values.',

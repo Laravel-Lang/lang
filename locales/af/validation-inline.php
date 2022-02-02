@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Hierdie formaat is ongeldig.',
     'required'             => 'Hierdie veld word vereis.',
+    'required_array_keys'  => 'This field must contain entries for: :values',
     'required_if'          => 'Hierdie veld is nodig wanneer :other :value is.',
     'required_unless'      => 'Hierdie veld word vereis tensy :other in :values is.',
     'required_with'        => 'Hierdie veld is nodig wanneer :values teenwoordig is.',

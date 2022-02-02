@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Формат није валидан.',
     'required'             => 'Ово поље је обавезно.',
+    'required_array_keys'  => 'This field must contain entries for: :values',
     'required_if'          => 'Ово поље је обавезно кадакада поље :other садржи :value.',
     'required_unless'      => 'Ово поље је обавезно, осим ако је :other у :values.',
     'required_with'        => 'Ово поље је обавезно када :values постоји.',

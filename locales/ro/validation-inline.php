@@ -107,6 +107,7 @@ return [
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Acest format este nevalid.',
     'required'             => 'Acest câmp este obligatoriu.',
+    'required_array_keys'  => 'This field must contain entries for: :values',
     'required_if'          => 'Acest câmp este necesar atunci când :other este :value.',
     'required_unless'      => 'Acest câmp este necesar, cu excepția cazului în :other este în :values.',
     'required_with'        => 'Acest câmp este necesar atunci când :values este prezent.',

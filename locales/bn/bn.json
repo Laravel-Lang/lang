@@ -713,7 +713,7 @@
     "Your card was declined. Please contact your card issuer for more information.": "আপনার কার্ড প্রত্যাখ্যান করা হয়েছে । আরো তথ্যের জন্য আপনার কার্ড প্রদানকারীর সাথে যোগাযোগ করুন ।",
     "Your current payment method is :paypal.": "আপনার বর্তমান অর্থপ্রদানের পদ্ধতি হল :paypal ।",
     "Your current payment method is a credit card ending in :lastFour that expires on :expiration.": "আপনার বর্তমান অর্থপ্রদানের পদ্ধতি হল একটি ক্রেডিট কার্ড যা শেষ হয় :lastFour যার মেয়াদ শেষ হয় : expiration-এ ৷",
-    "Your registered VAT Number is :vatNumber.": "আপনার নিবন্ধিত ভ্যাট নম্বর হল: vatNumber ।",
+    "Your registered VAT Number is :vatNumber.": "আপনার নিবন্ধিত ভ্যাট নম্বর হল :vatNumber ।",
     "Zambia": "জাম্বিয়া",
     "Zimbabwe": "জিম্বাবুয়ে",
     "Zip / Postal Code": "জিপ / পোস্টাল কোড",

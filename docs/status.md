@@ -30,7 +30,7 @@
 </td>
 <td align="center" width="17%">
 
-[bn&nbsp;❗](statuses/bn.md)
+[bn&nbsp;✔](statuses/bn.md)
 
 </td>
 </tr>

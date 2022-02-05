@@ -1,3 +1,7 @@
+---
+editLink: false
+---
+
 # pt_BR
 
 ##### All missed: 2

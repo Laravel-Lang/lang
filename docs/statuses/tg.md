@@ -1,3 +1,7 @@
+---
+editLink: false
+---
+
 # tg
 
 ##### All missed: 183

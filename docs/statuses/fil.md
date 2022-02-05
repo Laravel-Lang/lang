@@ -1,3 +1,7 @@
+---
+editLink: false
+---
+
 # fil
 
 ##### All missed: 794

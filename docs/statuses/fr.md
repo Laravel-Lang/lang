@@ -1,3 +1,7 @@
+---
+editLink: false
+---
+
 # fr
 
 ##### All missed: 2

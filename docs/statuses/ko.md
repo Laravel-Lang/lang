@@ -1,3 +1,7 @@
+---
+editLink: false
+---
+
 # ko
 
 ##### All missed: 2

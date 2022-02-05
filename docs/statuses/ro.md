@@ -1,3 +1,7 @@
+---
+editLink: false
+---
+
 # ro
 
 ##### All missed: 280

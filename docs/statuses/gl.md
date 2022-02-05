@@ -1,3 +1,7 @@
+---
+editLink: false
+---
+
 # gl
 
 ##### All missed: 260

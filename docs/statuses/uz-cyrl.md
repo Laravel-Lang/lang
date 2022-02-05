@@ -1,3 +1,7 @@
+---
+editLink: false
+---
+
 # uz_Cyrl
 
 ##### All missed: 245

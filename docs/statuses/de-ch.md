@@ -1,3 +1,7 @@
+---
+editLink: false
+---
+
 # de_CH
 
 ##### All missed: 139

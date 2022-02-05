@@ -1,3 +1,7 @@
+---
+editLink: false
+---
+
 # ca
 
 ##### All missed: 178

@@ -1,3 +1,7 @@
+---
+editLink: false
+---
+
 # id
 
 ##### All missed: 2

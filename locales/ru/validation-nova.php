@@ -12,6 +12,6 @@
 */
 
 return [
-    'attached'  => 'Поле :attribute уже прикреплено.',
-    'relatable' => 'Поле :attribute не может быть связано с этим ресурсом.',
+    'attached'  => ':Attribute уже прикреплён.',
+    'relatable' => ':Attribute не может быть связан с этим ресурсом.',
 ];

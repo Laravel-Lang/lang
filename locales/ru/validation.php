@@ -34,7 +34,7 @@ return [
     'current_password'     => 'Некорректный пароль.',
     'date'                 => 'Значение поля :attribute не является датой.',
     'date_equals'          => 'Значение поля :attribute должно быть датой равной :date.',
-    'date_format'          => 'Значение поля :attribute не соответствует формату :format.',
+    'date_format'          => 'Значение поля :attribute не соответствует формату даты :format.',
     'declined'             => 'Поле :attribute должно быть отклонено.',
     'declined_if'          => 'Поле :attribute должно быть отклонено, когда :other равно :value.',
     'different'            => 'Значения полей :attribute и :other должны различаться.',

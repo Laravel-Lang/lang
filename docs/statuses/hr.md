@@ -1,3 +1,7 @@
+---
+editLink: false
+---
+
 # hr
 
 ##### All missed: 221

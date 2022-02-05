@@ -1,3 +1,7 @@
+---
+editLink: false
+---
+
 # bs
 
 ##### All missed: 164

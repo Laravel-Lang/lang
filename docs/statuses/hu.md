@@ -1,3 +1,7 @@
+---
+editLink: false
+---
+
 # hu
 
 ##### All missed: 230

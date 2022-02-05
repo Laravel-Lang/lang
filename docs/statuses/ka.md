@@ -1,3 +1,7 @@
+---
+editLink: false
+---
+
 # ka
 
 ##### All missed: 98

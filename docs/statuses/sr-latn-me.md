@@ -1,3 +1,7 @@
+---
+editLink: false
+---
+
 # sr_Latn_ME
 
 ##### All missed: 167

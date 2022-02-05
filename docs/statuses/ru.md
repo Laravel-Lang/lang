@@ -1,3 +1,7 @@
+---
+editLink: false
+---
+
 # ru
 
 ##### All missed: 0

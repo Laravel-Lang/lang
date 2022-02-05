@@ -1,3 +1,7 @@
+---
+editLink: false
+---
+
 # cy
 
 ##### All missed: 177

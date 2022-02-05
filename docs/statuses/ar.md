@@ -1,3 +1,7 @@
+---
+editLink: false
+---
+
 # ar
 
 ##### All missed: 0

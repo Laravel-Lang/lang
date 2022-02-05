@@ -1,3 +1,7 @@
+---
+editLink: false
+---
+
 # uz_Latn
 
 ##### All missed: 245

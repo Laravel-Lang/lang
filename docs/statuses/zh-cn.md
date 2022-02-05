@@ -1,3 +1,7 @@
+---
+editLink: false
+---
+
 # zh_CN
 
 ##### All missed: 13

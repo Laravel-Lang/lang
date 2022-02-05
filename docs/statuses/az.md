@@ -1,3 +1,7 @@
+---
+editLink: false
+---
+
 # az
 
 ##### All missed: 230

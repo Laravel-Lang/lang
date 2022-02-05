@@ -1,3 +1,7 @@
+---
+editLink: false
+---
+
 # vi
 
 ##### All missed: 2

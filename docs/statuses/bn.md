@@ -1,3 +1,7 @@
+---
+editLink: false
+---
+
 # bn
 
 ##### All missed: 0

@@ -30,7 +30,7 @@ return [
         'string'  => 'Количество символов в поле :attribute должно быть между :min и :max.',
     ],
     'boolean'              => 'Поле :attribute должно иметь значение логического типа.',
-    'confirmed'            => 'Поле :attribute не совпадает с подтверждением.',
+    'confirmed'            => 'Поле :attribute не совпадает с подтверждаемым.',
     'current_password'     => 'Некорректный пароль.',
     'date'                 => 'Значение поля :attribute не является датой.',
     'date_equals'          => 'Значение поля :attribute должно быть датой равной :date.',

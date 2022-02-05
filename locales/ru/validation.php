@@ -31,7 +31,7 @@ return [
     ],
     'boolean'              => 'Поле :attribute должно иметь значение логического типа.',
     'confirmed'            => 'Поле :attribute не совпадает с подтверждением.',
-    'current_password'     => 'Поле :attribute содержит некорректный пароль.',
+    'current_password'     => 'Некорректный пароль.',
     'date'                 => 'Значение поля :attribute не является датой.',
     'date_equals'          => 'Значение поля :attribute должно быть датой равной :date.',
     'date_format'          => 'Значение поля :attribute не соответствует формату :format.',

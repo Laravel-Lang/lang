@@ -107,7 +107,7 @@ return [
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'El format de :attribute és invàlid.',
     'required'             => 'El camp :attribute és obligatori.',
-    'required_array_keys'  => 'The :attribute field must contain entries for: :values',
+    'required_array_keys'  => 'The :attribute field must contain entries for: :values.',
     'required_if'          => 'El camp :attribute és obligatori quan :other és :value.',
     'required_unless'      => 'El camp :attribute és obligatori a no ser que :other sigui a :values.',
     'required_with'        => 'El camp :attribute és obligatori quan hi ha :values.',

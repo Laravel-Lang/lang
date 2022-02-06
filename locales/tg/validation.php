@@ -107,7 +107,7 @@ return [
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Формати :attribute нодуруст мебошад.',
     'required'             => ':attribute бояд дорои қиммат бошад.',
-    'required_array_keys'  => 'The :attribute field must contain entries for: :values',
+    'required_array_keys'  => 'The :attribute field must contain entries for: :values.',
     'required_if'          => ':attribute бояд дорои қиммат бошад агар :other ба :value баробар бошад.',
     'required_unless'      => ':attribute бояд дорои қиммат бошад агар :other дар :values мавҷуд бошад.',
     'required_with'        => ':attribute бояд дорои қиммат бошад :values мавҷуд бошад.',

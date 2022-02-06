@@ -107,7 +107,7 @@ return [
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute майдони хато форматда.',
     'required'             => ':attribute майдони тўлдирилиши шарт.',
-    'required_array_keys'  => 'The :attribute field must contain entries for: :values',
+    'required_array_keys'  => 'The :attribute field must contain entries for: :values.',
     'required_if'          => ':other майдони :value га тенг бўлса, :attribute майдони тўлдирилиши шарт.',
     'required_unless'      => ':other майдони :values га тенг бўлмаса, :attribute майдони тўлдирилиши шарт.',
     'required_with'        => ':values кўрсатилган бўлса, :attribute майдони тўлдирилиши шарт.',

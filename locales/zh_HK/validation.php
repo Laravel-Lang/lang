@@ -107,7 +107,7 @@ return [
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute 的格式錯誤。',
     'required'             => ':attribute 不能留空。',
-    'required_array_keys'  => 'The :attribute field must contain entries for: :values',
+    'required_array_keys'  => 'The :attribute field must contain entries for: :values.',
     'required_if'          => '當 :other 是 :value 時 :attribute 不能留空。',
     'required_unless'      => '當 :other 不是 :values 時 :attribute 不能留空。',
     'required_with'        => '當 :values 出現時 :attribute 不能留空。',

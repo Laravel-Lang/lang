@@ -107,7 +107,7 @@ return [
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute Format ist ungültig.',
     'required'             => ':attribute muss ausgefüllt sein.',
-    'required_array_keys'  => 'The :attribute field must contain entries for: :values',
+    'required_array_keys'  => 'The :attribute field must contain entries for: :values.',
     'required_if'          => ':attribute muss ausgefüllt sein, wenn :other :value ist.',
     'required_unless'      => ':attribute muss ausgefüllt sein, wenn :other nicht :values ist.',
     'required_with'        => ':attribute muss angegeben werden, wenn :values ausgefüllt wurde.',

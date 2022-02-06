@@ -107,7 +107,7 @@ return [
     'prohibits'            => 'Het veld :attribute verbiedt de aanwezigheid van :other.',
     'regex'                => ':Attribute formaat is ongeldig.',
     'required'             => ':Attribute is verplicht.',
-    'required_array_keys'  => 'The :attribute field must contain entries for: :values',
+    'required_array_keys'  => 'The :attribute field must contain entries for: :values.',
     'required_if'          => ':Attribute is verplicht indien :other gelijk is aan :value.',
     'required_unless'      => ':Attribute is verplicht tenzij :other gelijk is aan :values.',
     'required_with'        => ':Attribute is verplicht i.c.m. :values',

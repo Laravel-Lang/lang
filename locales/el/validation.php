@@ -107,7 +107,7 @@ return [
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Η μορφή του πεδίου :attribute δεν είναι αποδεκτή.',
     'required'             => 'Το πεδίο :attribute είναι απαραίτητο.',
-    'required_array_keys'  => 'The :attribute field must contain entries for: :values',
+    'required_array_keys'  => 'The :attribute field must contain entries for: :values.',
     'required_if'          => 'Το πεδίο :attribute είναι απαραίτητο όταν το πεδίο :other είναι :value.',
     'required_unless'      => 'Το πεδίο :attribute είναι απαραίτητο εκτός αν το πεδίο :other εμπεριέχει :values.',
     'required_with'        => 'Το πεδίο :attribute είναι απαραίτητο όταν υπάρχει :values.',

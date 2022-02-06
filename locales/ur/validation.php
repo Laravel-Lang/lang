@@ -107,7 +107,7 @@ return [
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute قابلِ قبول فارمیٹ میں نہیں ہے۔',
     'required'             => ':attribute فیلڈ درکار ہے۔',
-    'required_array_keys'  => 'The :attribute field must contain entries for: :values',
+    'required_array_keys'  => 'The :attribute field must contain entries for: :values.',
     'required_if'          => ':attribute درکار ہے اگر :other کی ویلیو :value ہو۔',
     'required_unless'      => 'جب تک :other :values میں نہ ہو تو :attribute فیلڈ درکار ہے۔',
     'required_with'        => ':attribute فیلڈ درکار ہے اگر :values موجود ہوں۔',

@@ -107,7 +107,7 @@ return [
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute formatet er ugyldigt.',
     'required'             => ':attribute skal udfyldes.',
-    'required_array_keys'  => 'The :attribute field must contain entries for: :values',
+    'required_array_keys'  => 'The :attribute field must contain entries for: :values.',
     'required_if'          => ':attribute skal udfyldes når :other er :value.',
     'required_unless'      => ':attribute er påkrævet med mindre :other findes i :values.',
     'required_with'        => ':attribute skal udfyldes når :values er udfyldt.',

@@ -107,7 +107,7 @@ return [
     'prohibits'            => ':Attribute zakazuje, aby bolo :other povolené.',
     'regex'                => ':Attribute má neplatný formát.',
     'required'             => ':Attribute je požadované.',
-    'required_array_keys'  => 'The :attribute field must contain entries for: :values',
+    'required_array_keys'  => 'The :attribute field must contain entries for: :values.',
     'required_if'          => ':Attribute je požadované keď :other je :value.',
     'required_unless'      => ':Attribute je požadované, okrem prípadu keď :other je v :values.',
     'required_with'        => ':Attribute je požadované keď :values je prítomné.',

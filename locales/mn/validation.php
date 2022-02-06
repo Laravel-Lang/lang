@@ -107,7 +107,7 @@ return [
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':Attribute талбарт оруулсан утга буруу байна.',
     'required'             => ':Attribute талбар шаардлагатай.',
-    'required_array_keys'  => 'The :attribute field must contain entries for: :values',
+    'required_array_keys'  => 'The :attribute field must contain entries for: :values.',
     'required_if'          => 'Хэрэв :other :value бол :attribute табларт утга оруулах шаардлагатай.',
     'required_unless'      => ':other :values дотор байхгүй бол :attribute талбарт утга оруулах шаардлагатай.',
     'required_with'        => ':values утгуудийн аль нэг байвал :attribute талбар шаардлагатай.',

@@ -107,7 +107,7 @@ return [
     'prohibits'            => ':attribute (은)는 :other 을(를) 금지합니다.',
     'regex'                => ':attribute 형식이 올바르지 않습니다.',
     'required'             => ':attribute 필드는 필수입니다.',
-    'required_array_keys'  => 'The :attribute field must contain entries for: :values',
+    'required_array_keys'  => 'The :attribute field must contain entries for: :values.',
     'required_if'          => ':other이(가) :value 일 때 :attribute 필드는 필수입니다.',
     'required_unless'      => ':other이(가) :values에 없다면 :attribute 필드는 필수입니다.',
     'required_with'        => ':values이(가) 있는 경우 :attribute 필드는 필수입니다.',

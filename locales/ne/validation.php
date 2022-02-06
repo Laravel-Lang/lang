@@ -107,7 +107,7 @@ return [
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute को ढाँचा मिलेन।',
     'required'             => ':attribute दिइएको हुनुपर्छ।',
-    'required_array_keys'  => 'The :attribute field must contain entries for: :values',
+    'required_array_keys'  => 'The :attribute field must contain entries for: :values.',
     'required_if'          => ':attribute चाहिन्छ जब :other :value हुन्छ।',
     'required_unless'      => ':other :values मा नभएसम्म :attribute चाहिन्छ।',
     'required_with'        => ':values भएसम्म :attribute चाहिन्छ।',

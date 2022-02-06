@@ -107,7 +107,7 @@ return [
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Ang :attribute ng attribute ay imbalido.',
     'required'             => 'Ang :attribute ng attribute ay kailangan.',
-    'required_array_keys'  => 'The :attribute field must contain entries for: :values',
+    'required_array_keys'  => 'The :attribute field must contain entries for: :values.',
     'required_if'          => 'Ang :attribute ng attribute ay kailangan kapag :other iba ay :value.',
     'required_unless'      => 'Ang :attribute ng attribute ay kailangan maliban kung :other iba ay nasa :values.',
     'required_with'        => 'Ang :attribute ng attribute ay kailangan kapag :values balyu ang naroon.',

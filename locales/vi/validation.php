@@ -107,7 +107,7 @@ return [
     'prohibits'            => 'Trường :attribute cấm :other từ thời điểm hiện tại.',
     'regex'                => 'Trường :attribute có định dạng không hợp lệ.',
     'required'             => 'Trường :attribute không được bỏ trống.',
-    'required_array_keys'  => 'The :attribute field must contain entries for: :values',
+    'required_array_keys'  => 'The :attribute field must contain entries for: :values.',
     'required_if'          => 'Trường :attribute không được bỏ trống khi trường :other là :value.',
     'required_unless'      => 'Trường :attribute không được bỏ trống trừ khi :other là :values.',
     'required_with'        => 'Trường :attribute không được bỏ trống khi một trong :values có giá trị.',

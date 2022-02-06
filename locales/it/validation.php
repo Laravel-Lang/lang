@@ -107,7 +107,7 @@ return [
     'prohibits'            => ':attribute impedisce a :other di essere presente.',
     'regex'                => 'Il formato del campo :attribute non è valido.',
     'required'             => 'Il campo :attribute è richiesto.',
-    'required_array_keys'  => 'The :attribute field must contain entries for: :values',
+    'required_array_keys'  => 'The :attribute field must contain entries for: :values.',
     'required_if'          => 'Il campo :attribute è richiesto quando :other è :value.',
     'required_unless'      => 'Il campo :attribute è richiesto a meno che :other sia in :values.',
     'required_with'        => 'Il campo :attribute è richiesto quando :values è presente.',

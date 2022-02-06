@@ -107,7 +107,7 @@ return [
     'prohibits'            => ':attribute ველში არ შეიძლება იყოს :other.',
     'regex'                => ':attribute-ის ფორმატი არასწორია.',
     'required'             => ':attribute-ის ველი აუცილებელია.',
-    'required_array_keys'  => 'The :attribute field must contain entries for: :values',
+    'required_array_keys'  => 'The :attribute field must contain entries for: :values.',
     'required_if'          => ':attribute-ის ველი აუცილებელია, თუ :other-ის მნიშვნელობა ემთხვევა :value-ს.',
     'required_unless'      => ':attribute-ის ველი აუცილებელია, თუ :values არ შეიცავს :other-ს.',
     'required_with'        => ':attribute-ის ველი აუცილებელია, თუ :values მითითებულია.',

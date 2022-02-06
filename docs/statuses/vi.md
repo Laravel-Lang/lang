@@ -32,7 +32,7 @@ This field must contain entries for: :values
 required_array_keys
 </td>
 <td align="left" >
-The :attribute field must contain entries for: :values
+The :attribute field must contain entries for: :values.
 </td>
 </tr>
 

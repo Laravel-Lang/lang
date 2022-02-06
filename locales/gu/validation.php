@@ -107,7 +107,7 @@ return [
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute અમાન્ય ગોઠવણ છે.',
     'required'             => ':attribute પ્રવૃત્તિ ક્ષેત્ર આવશ્યક છે.',
-    'required_array_keys'  => 'The :attribute field must contain entries for: :values',
+    'required_array_keys'  => 'The :attribute field must contain entries for: :values.',
     'required_if'          => ':attribute પ્રવૃત્તિ ક્ષેત્ર આવશ્યક છે જ્યારે :other છે :value.',
     'required_unless'      => ':attribute પ્રવૃત્તિ ક્ષેત્ર આવશ્યક છે સિવાય :other માં છે :values.',
     'required_with'        => ':attribute પ્રવૃત્તિ ક્ષેત્ર આવશ્યક છે જ્યારે :values હાજર હોય.',

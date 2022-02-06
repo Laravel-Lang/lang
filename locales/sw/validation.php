@@ -107,7 +107,7 @@ return [
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Muundo wa kipengele si halali.',
     'required'             => 'Sehemu ya kipengele inahitajika.',
-    'required_array_keys'  => 'The :attribute field must contain entries for: :values',
+    'required_array_keys'  => 'The :attribute field must contain entries for: :values.',
     'required_if'          => 'Sehemu ya kipengele inahitajika wakati :other ni :value.',
     'required_unless'      => 'Sehemu ya kipengele inahitajika isipokuwa :other ni katika :values.',
     'required_with'        => 'Sehemu ya kipengele inahitajika wakati :values vipo.',

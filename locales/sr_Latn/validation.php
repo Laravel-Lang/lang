@@ -107,7 +107,7 @@ return [
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'Format polja :attribute nije validan.',
     'required'             => 'Polje :attribute je obavezno.',
-    'required_array_keys'  => 'The :attribute field must contain entries for: :values',
+    'required_array_keys'  => 'The :attribute field must contain entries for: :values.',
     'required_if'          => 'Polje :attribute je potrebno kada polje :other sadrži :value.',
     'required_unless'      => 'Polje :attribute je obavezno, osim ako je :other u :values.',
     'required_with'        => 'Polje :attribute je potrebno kada polje :values je prisutan.',

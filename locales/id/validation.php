@@ -107,7 +107,7 @@ return [
     'prohibits'            => ':Attribute melarang isian :other untuk ditampilkan.',
     'regex'                => 'Format :attribute tidak valid.',
     'required'             => ':Attribute wajib diisi.',
-    'required_array_keys'  => 'The :attribute field must contain entries for: :values',
+    'required_array_keys'  => 'The :attribute field must contain entries for: :values.',
     'required_if'          => ':Attribute wajib diisi bila :other adalah :value.',
     'required_unless'      => ':Attribute wajib diisi kecuali :other memiliki nilai :values.',
     'required_with'        => ':Attribute wajib diisi bila terdapat :values.',

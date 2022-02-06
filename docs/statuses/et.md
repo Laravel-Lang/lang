@@ -270,7 +270,7 @@ The :attribute field prohibits :other from being present.
 required_array_keys
 </td>
 <td align="left" >
-The :attribute field must contain entries for: :values
+The :attribute field must contain entries for: :values.
 </td>
 </tr>
 

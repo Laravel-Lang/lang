@@ -107,7 +107,7 @@ return [
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ' :attribute пішімі жарамсыз.',
     'required'             => ' :attribute жолы толтырылуы керек.',
-    'required_array_keys'  => 'The :attribute field must contain entries for: :values',
+    'required_array_keys'  => 'The :attribute field must contain entries for: :values.',
     'required_if'          => ' :attribute жолы :other мәні :value болған кезде толтырылуы керек.',
     'required_unless'      => ' :attribute жолы :other мәні :values ішінде болмағанда толтырылуы керек.',
     'required_with'        => ' :attribute жолы :values болғанда толтырылуы керек.',

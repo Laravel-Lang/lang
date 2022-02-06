@@ -107,7 +107,7 @@ return [
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => 'فورمول :attribute .غير صحيح.',
     'required'             => ':attribute اړینه ده.',
-    'required_array_keys'  => 'The :attribute field must contain entries for: :values',
+    'required_array_keys'  => 'The :attribute field must contain entries for: :values.',
     'required_if'          => ':attribute که چیرې د اړتیا په صورت کې اړتیا وي:other مساو :value.',
     'required_unless'      => ':attribute که نه :other مساو :values.',
     'required_with'        => ':attribute که اړتیا وي شتون لري :values.',

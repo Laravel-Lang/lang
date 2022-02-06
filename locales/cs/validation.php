@@ -107,7 +107,7 @@ return [
     'prohibits'            => 'The :attribute field prohibits :other from being present.',
     'regex'                => ':attribute nemá správný formát.',
     'required'             => ':attribute musí být vyplněno.',
-    'required_array_keys'  => 'The :attribute field must contain entries for: :values',
+    'required_array_keys'  => 'The :attribute field must contain entries for: :values.',
     'required_if'          => ':attribute musí být vyplněno pokud :other je :value.',
     'required_unless'      => ':attribute musí být vyplněno dokud :other je v :values.',
     'required_with'        => ':attribute musí být vyplněno pokud :values je vyplněno.',

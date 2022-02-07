@@ -4,133 +4,19 @@ editLink: false
 
 # pt
 
-##### All missed: 138
-
-
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/pt/validation-inline.php)
-
-##### Missing: 8
-
-<table >
-<tr><td align="left" >
-accepted_if
-</td>
-<td align="left" >
-This field must be accepted when :other is :value.
-</td>
-</tr>
-<tr><td align="left" >
-current_password
-</td>
-<td align="left" >
-The password is incorrect.
-</td>
-</tr>
-<tr><td align="left" >
-declined
-</td>
-<td align="left" >
-This value must be declined.
-</td>
-</tr>
-<tr><td align="left" >
-declined_if
-</td>
-<td align="left" >
-This value must be declined when :other is :value.
-</td>
-</tr>
-<tr><td align="left" >
-enum
-</td>
-<td align="left" >
-The selected value is invalid.
-</td>
-</tr>
-<tr><td align="left" >
-mac_address
-</td>
-<td align="left" >
-The value must be a valid MAC address.
-</td>
-</tr>
-<tr><td align="left" >
-prohibits
-</td>
-<td align="left" >
-This field prohibits :other from being present.
-</td>
-</tr>
-<tr><td align="left" >
-required_array_keys
-</td>
-<td align="left" >
-This field must contain entries for: :values
-</td>
-</tr>
-
-</table>
+##### All missed: 94
 
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/pt/validation.php)
 
-##### Missing: 8
+##### Missing: 1
 
 <table >
-<tr><td align="left" >
-accepted_if
-</td>
-<td align="left" >
-The :attribute must be accepted when :other is :value.
-</td>
-</tr>
-<tr><td align="left" >
-current_password
-</td>
-<td align="left" >
-The password is incorrect.
-</td>
-</tr>
-<tr><td align="left" >
-declined
-</td>
-<td align="left" >
-The :attribute must be declined.
-</td>
-</tr>
-<tr><td align="left" >
-declined_if
-</td>
-<td align="left" >
-The :attribute must be declined when :other is :value.
-</td>
-</tr>
-<tr><td align="left" >
-enum
-</td>
-<td align="left" >
-The selected :attribute is invalid.
-</td>
-</tr>
 <tr><td align="left" >
 mac_address
 </td>
 <td align="left" >
 The :attribute must be a valid MAC address.
-</td>
-</tr>
-<tr><td align="left" >
-prohibits
-</td>
-<td align="left" >
-The :attribute field prohibits :other from being present.
-</td>
-</tr>
-<tr><td align="left" >
-required_array_keys
-</td>
-<td align="left" >
-The :attribute field must contain entries for: :values.
 </td>
 </tr>
 
@@ -139,99 +25,11 @@ The :attribute field must contain entries for: :values.
 
 ### [pt](https://github.com/Laravel-Lang/lang/blob/master/locales/pt/pt.json)
 
-##### Missing: 122
+##### Missing: 93
 
 <table >
 <tr><td align="left" >
-:days day trial
-</td>
-</tr>
-<tr><td align="left" >
-A fresh verification link has been sent to your email address.
-</td>
-</tr>
-<tr><td align="left" >
-Add VAT Number
-</td>
-</tr>
-<tr><td align="left" >
-Address
-</td>
-</tr>
-<tr><td align="left" >
-Address Line 2
-</td>
-</tr>
-<tr><td align="left" >
-An unexpected error occurred and we have notified our support team. Please try again later.
-</td>
-</tr>
-<tr><td align="left" >
-Antigua and Barbuda
-</td>
-</tr>
-<tr><td align="left" >
-Apply
-</td>
-</tr>
-<tr><td align="left" >
-Apply Coupon
-</td>
-</tr>
-<tr><td align="left" >
-Before proceeding, please check your email for a verification link.
-</td>
-</tr>
-<tr><td align="left" >
-Billing Information
-</td>
-</tr>
-<tr><td align="left" >
-Billing Management
-</td>
-</tr>
-<tr><td align="left" >
-Bolivia, Plurinational State of
-</td>
-</tr>
-<tr><td align="left" >
-Bosnia and Herzegovina
-</td>
-</tr>
-<tr><td align="left" >
-Cancel Subscription
-</td>
-</tr>
-<tr><td align="left" >
-Change Subscription Plan
-</td>
-</tr>
-<tr><td align="left" >
-City
-</td>
-</tr>
-<tr><td align="left" >
-click here to request another
-</td>
-</tr>
-<tr><td align="left" >
 Congo, the Democratic Republic of the
-</td>
-</tr>
-<tr><td align="left" >
-Country
-</td>
-</tr>
-<tr><td align="left" >
-Coupon
-</td>
-</tr>
-<tr><td align="left" >
-Current Subscription Plan
-</td>
-</tr>
-<tr><td align="left" >
-Currently Subscribed
 </td>
 </tr>
 <tr><td align="left" >
@@ -239,27 +37,7 @@ Côte d'Ivoire
 </td>
 </tr>
 <tr><td align="left" >
-Download Receipt
-</td>
-</tr>
-<tr><td align="left" >
-Email Addresses
-</td>
-</tr>
-<tr><td align="left" >
-ex VAT
-</td>
-</tr>
-<tr><td align="left" >
-Extra Billing Information
-</td>
-</tr>
-<tr><td align="left" >
 Failed to load :resource!
-</td>
-</tr>
-<tr><td align="left" >
-Have a coupon code?
 </td>
 </tr>
 <tr><td align="left" >
@@ -268,14 +46,6 @@ Having second thoughts about cancelling your subscription? You can instantly rea
 </tr>
 <tr><td align="left" >
 Heard Island and McDonald Islands
-</td>
-</tr>
-<tr><td align="left" >
-I accept the terms of service
-</td>
-</tr>
-<tr><td align="left" >
-If you did not receive the email
 </td>
 </tr>
 <tr><td align="left" >

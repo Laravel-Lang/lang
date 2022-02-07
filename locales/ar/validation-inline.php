@@ -107,7 +107,7 @@ return [
     'prohibits'            => 'هذا الحقل يحظر تواجد الحقل :other.',
     'regex'                => 'الصيغة غير صحيحة.',
     'required'             => 'هذا الحقل مطلوب.',
-    'required_array_keys'  => 'يجب أن يحتوي هذا الحقل على مدخلات لـ: :values',
+    'required_array_keys'  => 'يجب أن يحتوي هذا الحقل على مدخلات لـ: :values.',
     'required_if'          => 'هذا الحقل مطلوب في حال ما إذا كان :other يساوي :value.',
     'required_unless'      => 'هذا الحقل مطلوب في حال ما لم يكن :other يساوي :values.',
     'required_with'        => 'هذا الحقل مطلوب إذا توفّر :values.',

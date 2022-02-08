@@ -13,5 +13,5 @@
 
 return [
     'attached'  => 'Pole jest już dołączone.',
-    'relatable' => 'To pole może nie być powiązane z tym zasobem.',
+    'relatable' => 'Ppole nie może być powiązane z tym zasobem.',
 ];

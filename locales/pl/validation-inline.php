@@ -107,7 +107,7 @@ return [
     'prohibits'            => 'Pole zabrania obecności :other.',
     'regex'                => 'Format pola jest nieprawidłowy.',
     'required'             => 'Pole jest wymagane.',
-    'required_array_keys'  => 'This field must contain entries for: :values',
+    'required_array_keys'  => 'Pole musi zawierać wartości: :values.',
     'required_if'          => 'Pole jest wymagane gdy :other ma wartość :value.',
     'required_unless'      => 'Pole jest wymagane jeżeli :other nie znajduje się w :values.',
     'required_with'        => 'Pole jest wymagane gdy :values jest obecny.',

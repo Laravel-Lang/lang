@@ -153,7 +153,7 @@ editLink: false
 </td>
 <td align="center" width="17%">
 
-[id&nbsp;❗](statuses/id.md)
+[id&nbsp;✔](statuses/id.md)
 
 </td>
 <td align="center" width="17%">

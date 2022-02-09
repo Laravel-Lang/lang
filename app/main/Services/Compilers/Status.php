@@ -31,7 +31,7 @@ class Status extends Compiler
     protected function group(array $items): array
     {
         return array_map(function (array $items) {
-            if (count($items) < $this->columns) {
+            if ($this->columns > count($items)) {
                 $need = $this->columns - count($items);
 
                 $filled = array_fill(0, $need, Locale::make());
@@ -59,7 +59,7 @@ class Status extends Compiler
     }
 
     /**
-     * @param  \LaravelLang\Development\Models\Locale[]|array  $items
+     * @param \LaravelLang\Development\Models\Locale[]|array $items
      *
      * @return array
      */

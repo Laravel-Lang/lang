@@ -45,7 +45,7 @@ class Locales extends Processor
         Directory::ensureDirectory($this->pathStatus(), can_delete: true);
     }
 
-    protected function pathStatus(string $filename = null): string
+    protected function pathStatus(?string $filename = null): string
     {
         return $this->app->path('docs/statuses/' . $filename);
     }

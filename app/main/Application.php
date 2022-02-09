@@ -23,12 +23,12 @@ class Application implements ApplicationContract
         return rtrim($this->base_path, '/\\');
     }
 
-    public function sourcePath(string $filename = null): string
+    public function sourcePath(?string $filename = null): string
     {
         return $this->path('source/' . $this->cleanPath($filename));
     }
 
-    public function localePath(string $locale = null): string
+    public function localePath(?string $locale = null): string
     {
         return $this->path('locales/' . $this->cleanPath($locale));
     }
@@ -43,7 +43,7 @@ class Application implements ApplicationContract
         return $this->path('app/resources/' . $this->cleanPath($filename));
     }
 
-    public function path(string $path = null): string
+    public function path(?string $path = null): string
     {
         if ($value = $this->cleanPath($path)) {
             return $this->basePath() . '/' . $value;
@@ -52,7 +52,7 @@ class Application implements ApplicationContract
         return $this->basePath();
     }
 
-    public function cleanPath(string $path = null): ?string
+    public function cleanPath(?string $path = null): ?string
     {
         if (! empty($path)) {
             return ltrim($path, '/\\');

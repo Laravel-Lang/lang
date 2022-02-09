@@ -34,7 +34,7 @@ class AddLocale extends Processor
         }
     }
 
-    protected function process(string $target_path, string $filename, string $locale = null): void
+    protected function process(string $target_path, string $filename, ?string $locale = null): void
     {
         $this->store($target_path, [], $filename);
     }

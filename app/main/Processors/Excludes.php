@@ -26,7 +26,7 @@ class Excludes extends Processor
         }
     }
 
-    protected function process(string $target_path, string $filename, string $locale = null): void
+    protected function process(string $target_path, string $filename, ?string $locale = null): void
     {
         $target = $this->load($target_path);
 

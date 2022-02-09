@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Validation Language Lines
@@ -15,5 +14,4 @@ return [
 
     'attached'  => 'This field is already attached.',
     'relatable' => 'This field may not be associated with this resource.',
-
 ];

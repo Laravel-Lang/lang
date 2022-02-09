@@ -38,6 +38,6 @@ class Machines
         'uk',
         'ur',
         'uz_Cyrl',
-        'uz_Latn'
+        'uz_Latn',
     ];
 }

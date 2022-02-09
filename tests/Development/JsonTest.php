@@ -32,7 +32,7 @@ class JsonTest extends TestCase
         return $this->correctValues($items);
     }
 
-    protected function resolveFilename(string $filename, string $locale = null): string
+    protected function resolveFilename(string $filename, ?string $locale = null): string
     {
         return $this->isMainJson($filename) && ! empty($locale) ? $locale . '.json' : $filename;
     }

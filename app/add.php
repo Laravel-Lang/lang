@@ -14,4 +14,3 @@ if ($locale = $argv[1] ?? null) {
 }
 
 echo 'You must provide a localization code.';
-

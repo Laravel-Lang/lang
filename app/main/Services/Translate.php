@@ -2,9 +2,9 @@
 
 namespace LaravelLang\Development\Services;
 
+use DragonCode\Support\Facades\Helpers\Str;
 use GuzzleHttp\Client;
 use GuzzleHttp\RequestOptions;
-use DragonCode\Support\Facades\Helpers\Str;
 
 class Translate
 {

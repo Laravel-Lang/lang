@@ -6,8 +6,8 @@ if (! function_exists('env')) {
     /**
      * Determine if the given value is "blank".
      *
-     * @param  string  $key
-     * @param  mixed|null  $default
+     * @param string $key
+     * @param mixed|null $default
      *
      * @return bool
      */

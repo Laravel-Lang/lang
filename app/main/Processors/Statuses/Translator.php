@@ -26,11 +26,9 @@ class Translator extends Processor
             foreach ($items as &$item) {
                 $item = $this->translate($locale, $item);
             }
-        }
-        catch (Throwable $e) {
+        } catch (Throwable $e) {
             dump($e->getMessage());
-        }
-        finally {
+        } finally {
             $this->storing($locale, $filename, $items);
         }
     }
@@ -94,8 +92,8 @@ class Translator extends Processor
     {
         return match (true) {
             $this->isMainJson($filename) => $locale . '.json',
-            $this->isJson($filename) => $filename . '.json',
-            default => $filename . '.php',
+            $this->isJson($filename)     => $filename . '.json',
+            default                      => $filename . '.php',
         };
     }
 }

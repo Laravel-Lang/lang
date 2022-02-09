@@ -107,7 +107,7 @@ return [
     'prohibits'            => 'To polje prepoveduje prisotnost :other.',
     'regex'                => 'Oblika vnosa ni veljavna.',
     'required'             => 'Polje je obvezno.',
-    'required_array_keys'  => 'This field must contain entries for: :values',
+    'required_array_keys'  => 'This field must contain entries for: :values.',
     'required_if'          => 'Polje je obvezno, ko je v polju :other izbrana vrednost :value.',
     'required_unless'      => 'Polje je obvezno, razen če je v polju :other izbrana vrednost :values.',
     'required_with'        => 'Polje je obvezno, ko je vnešena vrednost :values.',

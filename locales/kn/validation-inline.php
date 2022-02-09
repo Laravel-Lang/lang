@@ -107,7 +107,7 @@ return [
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'ಈ ರೂಪದಲ್ಲಿ ಅಮಾನ್ಯವಾಗಿದೆ.',
     'required'             => 'ಈ ಕ್ಷೇತ್ರದಲ್ಲಿ ಅಗತ್ಯವಿದೆ.',
-    'required_array_keys'  => 'This field must contain entries for: :values',
+    'required_array_keys'  => 'This field must contain entries for: :values.',
     'required_if'          => 'ಈ ಕ್ಷೇತ್ರದಲ್ಲಿ ಅಗತ್ಯವಿದೆ ಮಾಡಿದಾಗ :other ಆಗಿದೆ :value.',
     'required_unless'      => 'ಈ ಕ್ಷೇತ್ರದಲ್ಲಿ ಅಗತ್ಯವಿದೆ ಹೊರತು :other ಆಗಿದೆ :values.',
     'required_with'        => 'ಈ ಕ್ಷೇತ್ರದಲ್ಲಿ ಅಗತ್ಯವಿದೆ ಮಾಡಿದಾಗ :values ಇರುತ್ತದೆ.',

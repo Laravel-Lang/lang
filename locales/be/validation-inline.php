@@ -107,7 +107,7 @@ return [
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Гэты фармат недапушчальны.',
     'required'             => 'Гэта поле з\'яўляецца абавязковым.',
-    'required_array_keys'  => 'This field must contain entries for: :values',
+    'required_array_keys'  => 'This field must contain entries for: :values.',
     'required_if'          => 'Гэта поле абавязкова, калі :other роўна :value.',
     'required_unless'      => 'Гэта поле з\'яўляецца абавязковым, калі толькі :other не знаходзіцца ў :values годзе.',
     'required_with'        => 'Гэта поле з\'яўляецца абавязковым пры наяўнасці :values.',

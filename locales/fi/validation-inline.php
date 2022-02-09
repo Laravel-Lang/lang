@@ -107,7 +107,7 @@ return [
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Tämä muoto on virheellinen.',
     'required'             => 'Tämä kenttä on pakollinen.',
-    'required_array_keys'  => 'This field must contain entries for: :values',
+    'required_array_keys'  => 'This field must contain entries for: :values.',
     'required_if'          => 'Tämä kenttä vaaditaan, kun :other on :value.',
     'required_unless'      => 'Tämä kenttä vaaditaan, ellei :other ole kohdassa :values.',
     'required_with'        => 'Tämä kenttä vaaditaan, kun :values on käytettävissä.',

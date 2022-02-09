@@ -107,7 +107,7 @@ return [
     'prohibits'            => 'මෙම ක්ෂේත්‍රය :other පැවතීම තහනම් කරනු ලබයි.',
     'regex'                => 'මෙම ආකෘතිය සාවද්ය වේ.',
     'required'             => 'මේ ක්ෂේත්‍රය අවශ්ය වේ.',
-    'required_array_keys'  => 'This field must contain entries for: :values',
+    'required_array_keys'  => 'This field must contain entries for: :values.',
     'required_if'          => 'මේ ක්ෂේත්‍රය අවශ්ය විට :other වේ :value.',
     'required_unless'      => 'මේ ක්ෂේත්‍රය අවශ්ය නම් :other වේ :values.',
     'required_with'        => 'මේ ක්ෂේත්‍රය අවශ්ය විට :values වර්තමාන වේ.',

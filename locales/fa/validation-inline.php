@@ -107,7 +107,7 @@ return [
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'این فرمت نامعتبر است.',
     'required'             => 'این مقدار ضروری است.',
-    'required_array_keys'  => 'This field must contain entries for: :values',
+    'required_array_keys'  => 'This field must contain entries for: :values.',
     'required_if'          => 'این مقدار ضروری است وقتی که :other برابر :value است.',
     'required_unless'      => 'این مقدار ضروری است مگر اینکه :other برابر :values باشد.',
     'required_with'        => 'این مقدار ضروری است وقتی که :values وارد شده باشد.',

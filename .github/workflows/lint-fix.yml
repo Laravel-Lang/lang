@@ -15,5 +15,4 @@ jobs:
             -   name: Checking PHP Syntax
                 uses: TheDragonCode/php-codestyler@latest
                 with:
-                    path: 'app excludes locales source src tests'
                     fix: true

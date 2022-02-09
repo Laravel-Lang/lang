@@ -107,7 +107,7 @@ return [
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'תבנית זו אינה תקפה.',
     'required'             => 'שדה זה נדרש.',
-    'required_array_keys'  => 'This field must contain entries for: :values',
+    'required_array_keys'  => 'This field must contain entries for: :values.',
     'required_if'          => 'שדה זה נדרש כאשר :other הוא :value.',
     'required_unless'      => 'שדה זה נדרש אלא אם כן :other הוא :values.',
     'required_with'        => 'שדה זה נדרש כאשר :values קיים.',

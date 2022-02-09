@@ -107,7 +107,7 @@ return [
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'この形式は無効です。',
     'required'             => 'この項目は必須です。',
-    'required_array_keys'  => 'This field must contain entries for: :values',
+    'required_array_keys'  => 'This field must contain entries for: :values.',
     'required_if'          => ':otherが:valueの場合、この項目は必須です。',
     'required_unless'      => ':otherが:valuesでない限り、この項目は必須です。',
     'required_with'        => ':valuesが存在する場合、この項目は必須です。',

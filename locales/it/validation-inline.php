@@ -107,7 +107,7 @@ return [
     'prohibits'            => 'Il campo impedisce a :other di essere presente.',
     'regex'                => 'Formato non valido.',
     'required'             => 'Obbligatorio.',
-    'required_array_keys'  => 'This field must contain entries for: :values',
+    'required_array_keys'  => 'This field must contain entries for: :values.',
     'required_if'          => 'Obbligatorio quando :other è :value.',
     'required_unless'      => 'Obbligatorio a meno che :other sia :values.',
     'required_with'        => 'Obbligatorio quando :values è presente.',

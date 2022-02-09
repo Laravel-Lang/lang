@@ -107,7 +107,7 @@ return [
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'វាលនេះទម្រង់មិនត្រឹមត្រូវ។',
     'required'             => 'វាលនេះនេះគឺទាមទារឲ្យមាន។',
-    'required_array_keys'  => 'This field must contain entries for: :values',
+    'required_array_keys'  => 'This field must contain entries for: :values.',
     'required_if'          => 'វាលនេះនេះគឺទាមទារនៅពេល :other គឺ :value។',
     'required_unless'      => 'វាលនេះនេះគឺទាមទារនៅពេល :other មិនមែន :values។',
     'required_with'        => 'វាលនេះនេះគឺទាមទារនៅពេល :values មាន។',

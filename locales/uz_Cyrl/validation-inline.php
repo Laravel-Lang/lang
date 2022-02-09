@@ -107,7 +107,7 @@ return [
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Bu format asossiz hisoblanadi.',
     'required'             => 'Bu maydon talab qilinadi.',
-    'required_array_keys'  => 'This field must contain entries for: :values',
+    'required_array_keys'  => 'This field must contain entries for: :values.',
     'required_if'          => ':other :value bo\'lganda bu maydon talab qilinadi.',
     'required_unless'      => ':other :values da bo\'lmasa, bu maydon talab qilinadi.',
     'required_with'        => ':values mavjud bo\'lsa, bu maydon talab qilinadi.',

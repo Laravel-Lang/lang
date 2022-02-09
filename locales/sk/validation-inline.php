@@ -107,7 +107,7 @@ return [
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Tento formát je neplatný.',
     'required'             => 'Toto pole je povinné.',
-    'required_array_keys'  => 'This field must contain entries for: :values',
+    'required_array_keys'  => 'This field must contain entries for: :values.',
     'required_if'          => 'Toto pole sa vyžaduje, keď je :other :value.',
     'required_unless'      => 'Toto pole sa vyžaduje, pokiaľ nie je :other v :values.',
     'required_with'        => 'Toto pole sa vyžaduje, keď je prítomné číslo :values.',

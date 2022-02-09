@@ -107,7 +107,7 @@ return [
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Formatu hau ez da balioduna.',
     'required'             => 'Eremu hau beharrezkoa da.',
-    'required_array_keys'  => 'This field must contain entries for: :values',
+    'required_array_keys'  => 'This field must contain entries for: :values.',
     'required_if'          => 'Eremu hau beharrezkoa da denean :other da :value.',
     'required_unless'      => 'Eremu hau beharrezkoa da behintzat :other da :values.',
     'required_with'        => 'Eremu hau beharrezkoa da denean :values da gaur.',

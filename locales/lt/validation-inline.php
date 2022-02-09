@@ -107,7 +107,7 @@ return [
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Negaliojantis šio lauko formatas.',
     'required'             => 'Privaloma užpildyti šį lauką.',
-    'required_array_keys'  => 'This field must contain entries for: :values',
+    'required_array_keys'  => 'This field must contain entries for: :values.',
     'required_if'          => 'Privaloma užpildyti šį lauką, kai :other yra :value.',
     'required_unless'      => 'Šis laukas yra privalomas, nebent :other yra tarp :values reikšmių.',
     'required_with'        => 'Privaloma užpildyti šį lauką, kai pateikta :values.',

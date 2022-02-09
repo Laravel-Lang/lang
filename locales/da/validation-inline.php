@@ -107,7 +107,7 @@ return [
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Dette format er ugyldigt.',
     'required'             => 'Dette felt er påkrævet.',
-    'required_array_keys'  => 'This field must contain entries for: :values',
+    'required_array_keys'  => 'This field must contain entries for: :values.',
     'required_if'          => 'Dette felt er påkrævet, når :other er :value.',
     'required_unless'      => 'Dette felt er påkrævet, medmindre :other er i :values.',
     'required_with'        => 'Dette felt er påkrævet, når :values er til stede.',

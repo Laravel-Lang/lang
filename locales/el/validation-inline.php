@@ -107,7 +107,7 @@ return [
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Αυτή η μορφή δεν είναι έγκυρη.',
     'required'             => 'Αυτό το πεδίο απαιτείται.',
-    'required_array_keys'  => 'This field must contain entries for: :values',
+    'required_array_keys'  => 'This field must contain entries for: :values.',
     'required_if'          => 'Αυτό το πεδίο απαιτείται όταν :other είναι :value.',
     'required_unless'      => 'Αυτό το πεδίο απαιτείται εκτός εάν το :other βρίσκεται στο :values.',
     'required_with'        => 'Αυτό το πεδίο απαιτείται όταν υπάρχει :values.',

@@ -107,7 +107,7 @@ return [
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Aquest format no és vàlida.',
     'required'             => 'Aquest camp és obligatori.',
-    'required_array_keys'  => 'This field must contain entries for: :values',
+    'required_array_keys'  => 'This field must contain entries for: :values.',
     'required_if'          => 'Aquest camp és obligatori quan :other és :value.',
     'required_unless'      => 'Aquest camp és obligatori, llevat que :other és a :values.',
     'required_with'        => 'Aquest camp és obligatori quan :values és present.',

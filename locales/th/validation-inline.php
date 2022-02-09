@@ -107,7 +107,7 @@ return [
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'นี่รูปแบบไม่ถูกต้อง',
     'required'             => 'ช่องข้อมูลนี้เป็นต้องการ.',
-    'required_array_keys'  => 'This field must contain entries for: :values',
+    'required_array_keys'  => 'This field must contain entries for: :values.',
     'required_if'          => 'ช่องข้อมูลนี้เป็นต้องการตอนที่ :other คือ :value.',
     'required_unless'      => 'ช่องข้อมูลนี้เป็นต้องการนอกจาก :other อยู่ใน :values.',
     'required_with'        => 'ช่องข้อมูลนี้เป็นต้องการตอนที่ :values เป็นของขวัญ',

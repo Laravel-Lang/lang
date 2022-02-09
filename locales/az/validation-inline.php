@@ -107,7 +107,7 @@ return [
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Bu format yolverilməzdir.',
     'required'             => 'Bu sahədə məcburidir.',
-    'required_array_keys'  => 'This field must contain entries for: :values',
+    'required_array_keys'  => 'This field must contain entries for: :values.',
     'required_if'          => ':other :value olduğu təqdirdə bu sahə məcburidir.',
     'required_unless'      => 'Yalnız :other :values deyil, bu sahədə bir olmalıdır edir.',
     'required_with'        => 'Bu sahə :values mövcud olduqda tələb olunur.',

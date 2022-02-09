@@ -107,7 +107,7 @@ return [
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Šis formāts ir nederīgs.',
     'required'             => 'Šis lauks ir nepieciešams.',
-    'required_array_keys'  => 'This field must contain entries for: :values',
+    'required_array_keys'  => 'This field must contain entries for: :values.',
     'required_if'          => 'Šis lauks ir nepieciešams, ja :other ir :value.',
     'required_unless'      => 'Šis lauks ir nepieciešams, ja :other ir :values.',
     'required_with'        => 'Šis lauks ir nepieciešams, ja ir :values.',

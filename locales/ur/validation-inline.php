@@ -107,7 +107,7 @@ return [
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'اس کی شکل باطل ہے.',
     'required'             => 'اس میدان کی ضرورت ہے.',
-    'required_array_keys'  => 'This field must contain entries for: :values',
+    'required_array_keys'  => 'This field must contain entries for: :values.',
     'required_if'          => 'اس میدان کی ضرورت ہے جب :other ہے :value.',
     'required_unless'      => 'اس میدان کی ضرورت ہے جب تک :other میں ہے :values.',
     'required_with'        => 'اس میدان کی ضرورت ہے جب :values موجود ہے.',

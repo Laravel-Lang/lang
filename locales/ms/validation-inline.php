@@ -107,7 +107,7 @@ return [
     'prohibits'            => 'This field prohibits :other from being present.',
     'regex'                => 'Format tidak sah.',
     'required'             => 'Ruangan ini diperlukan.',
-    'required_array_keys'  => 'This field must contain entries for: :values',
+    'required_array_keys'  => 'This field must contain entries for: :values.',
     'required_if'          => 'Ruangan ini diperlukan bila :other sama dengan :value.',
     'required_unless'      => 'Ruangan ini diperlukan sekiranya :other ada dalam :values.',
     'required_with'        => 'Ruangan ini diperlukan bila :values wujud.',

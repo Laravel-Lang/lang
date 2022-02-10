@@ -107,7 +107,7 @@ return [
     'prohibits'            => 'Este campo prohibe que :other esté presente.',
     'regex'                => 'Este formato es inválido.',
     'required'             => 'Este campo es requerido.',
-    'required_array_keys'  => 'Este campo debe contener entradas para: :values',
+    'required_array_keys'  => 'Este campo debe contener entradas para: :values.',
     'required_if'          => 'Este campo es requerido cuando :other es :value.',
     'required_unless'      => 'Este campo es requerido a menos que :other esté en :values.',
     'required_with'        => 'Este campo es requerido cuando :values está presente.',

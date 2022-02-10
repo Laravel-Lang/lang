@@ -16,3 +16,4 @@ jobs:
                 uses: TheDragonCode/php-codestyler@v1.8.5
                 with:
                     fix: true
+                    github_token: ${{ secrets.HELLDAR_GITHUB_TOKEN }}

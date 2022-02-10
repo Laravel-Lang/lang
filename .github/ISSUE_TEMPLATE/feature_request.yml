@@ -28,7 +28,10 @@ body:
         id: environment
         attributes:
             label: Envoronment
-            description: Use the `composer info laravel-lang/lang` command to get information.
+            description: |
+                Tip: Use the `composer info laravel-lang/lang` command to get information for Laravel Lang.
+                Tip: Use the `composer info laravel/framework` command to get information for Laravel Framework.
+                Tip: Use the `php -v` command to get information for PHP.
             value: |
                 - Laravel-Lang Version:
                 - Laravel Version:

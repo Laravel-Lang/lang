@@ -21,8 +21,8 @@ body:
                 Think through your proposal and describe it clearly.
 
                 Note that features are only added to the most recent version of Laravel Lang.
-            validations:
-                required: true
+        validations:
+            required: true
 
     -   type: textarea
         id: environment
@@ -33,8 +33,8 @@ body:
                 - Laravel-Lang Version:
                 - Laravel Version:
                 - PHP Version:
-            validations:
-                required: true
+        validations:
+            required: true
 
     -   type: markdown
         attributes:

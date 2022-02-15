@@ -1,15 +1,10 @@
 name: docs
 
 on:
-    push:
-        branches: [ master ]
     workflow_dispatch:
     repository_dispatch:
         types:
             - generate-docs
-    release:
-        types:
-            - created
 
 jobs:
     handle-dispatch:
@@ -22,7 +17,7 @@ jobs:
                     token: ${{ secrets.GITHUB_TOKEN }}
 
             -   name: Setup Node.js
-                uses: actions/setup-node@v2.5.1
+                uses: actions/setup-node@v2
                 with:
                     node-version: '16'
 

@@ -17,7 +17,7 @@ jobs:
             -   uses: actions/checkout@v2
                 with:
                     fetch-depth: 0
-                    token: ${{ secrets.COMPOSER_GITHUB_TOKEN }}
+                    token: ${{ secrets.GITHUB_TOKEN }}
 
             -   name: Setup Node.js
                 uses: actions/setup-node@v2.5.1
@@ -47,4 +47,4 @@ jobs:
                     target_branch: gh-pages
                     build_dir: docs/.vuepress/dist
                 env:
-                    GITHUB_TOKEN: ${{ secrets.COMPOSER_GITHUB_TOKEN }}
+                    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

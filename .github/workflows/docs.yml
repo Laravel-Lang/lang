@@ -1,6 +1,8 @@
 name: docs
 
 on:
+    push:
+        branches: [ master ]
     workflow_dispatch:
     repository_dispatch:
         types:

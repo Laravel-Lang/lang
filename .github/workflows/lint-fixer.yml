@@ -15,5 +15,5 @@ jobs:
             -   name: Checking PHP Syntax
                 uses: TheDragonCode/php-codestyler@v1.10.8
                 with:
-                    github_token: ${{ secrets.HELLDAR_GITHUB_TOKEN }}
+                    github_token: ${{ secrets.COMPOSER_GITHUB_TOKEN }}
                     fix: true

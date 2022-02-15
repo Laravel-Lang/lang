@@ -11,7 +11,7 @@ module.exports = {
     description: 'List of 78 languages for Laravel Framework 4-9, Jetstream, Fortify, Breeze, Cashier, Nova, Spark and UI.',
 
     head: [
-        ['link', { rel: 'icon', href: '/images/logo.svg' }],
+        ['link', { rel: 'icon', href: `https://${ hostname }/images/logo.svg` }],
         ['meta', { name: 'twitter:image', content: `https://${ hostname }/images/social-logo.png` }]
     ],
 
@@ -20,7 +20,7 @@ module.exports = {
         hostname,
         base: '/',
 
-        logo: '/images/logo.svg',
+        logo: `https://${ hostname }/images/logo.svg`,
 
         repo: 'https://github.com/Laravel-Lang/lang',
         repoLabel: 'GitHub',
@@ -93,15 +93,15 @@ module.exports = {
                 description: $page => $page.frontmatter.description,
                 type: _ => 'website',
                 image: (_, $site) => $site.domain + '/images/social-logo.png'
-            },
-            [
-                '@vuepress/docsearch',
-                {
-                    appId: process.env.VITE_APP_ALGOLIA_APP_ID,
-                    apiKey: process.env.VITE_APP_ALGOLIA_API_KEY,
-                    indexName: process.env.VITE_APP_ALGOLIA_INDEX_NAME
-                }
-            ]
+            }
+        ],
+        [
+            '@vuepress/docsearch',
+            {
+                appId: process.env.VITE_APP_ALGOLIA_APP_ID,
+                apiKey: process.env.VITE_APP_ALGOLIA_API_KEY,
+                indexName: process.env.VITE_APP_ALGOLIA_INDEX_NAME
+            }
         ]
     ]
 };

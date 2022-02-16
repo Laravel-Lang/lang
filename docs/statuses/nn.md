@@ -7,7 +7,7 @@ editLink: false
 ##### All missed: 752
 
 
-### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/nn/auth.php)
+### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/nn/auth.php)
 
 ##### Missing: 1
 
@@ -23,7 +23,7 @@ The provided password is incorrect.
 </table>
 
 
-### [passwords](https://github.com/Laravel-Lang/lang/blob/master/locales/nn/passwords.php)
+### [passwords](https://github.com/Laravel-Lang/lang/blob/main/locales/nn/passwords.php)
 
 ##### Missing: 1
 
@@ -39,7 +39,7 @@ Please wait before retrying.
 </table>
 
 
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/nn/validation-inline.php)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/nn/validation-inline.php)
 
 ##### Missing: 91
 
@@ -685,7 +685,7 @@ This must be a valid UUID.
 </table>
 
 
-### [validation-nova-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/nn/validation-nova-inline.php)
+### [validation-nova-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/nn/validation-nova-inline.php)
 
 ##### Missing: 2
 
@@ -708,7 +708,7 @@ This field may not be associated with this resource.
 </table>
 
 
-### [validation-nova](https://github.com/Laravel-Lang/lang/blob/master/locales/nn/validation-nova.php)
+### [validation-nova](https://github.com/Laravel-Lang/lang/blob/main/locales/nn/validation-nova.php)
 
 ##### Missing: 2
 
@@ -731,7 +731,7 @@ This :attribute may not be associated with this resource.
 </table>
 
 
-### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/nn/validation.php)
+### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/nn/validation.php)
 
 ##### Missing: 13
 
@@ -831,7 +831,7 @@ The :attribute field must contain entries for: :values.
 </table>
 
 
-### [nn](https://github.com/Laravel-Lang/lang/blob/master/locales/nn/nn.json)
+### [nn](https://github.com/Laravel-Lang/lang/blob/main/locales/nn/nn.json)
 
 ##### Missing: 642
 

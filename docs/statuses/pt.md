@@ -7,7 +7,7 @@ editLink: false
 ##### All missed: 94
 
 
-### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/pt/validation.php)
+### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/pt/validation.php)
 
 ##### Missing: 1
 
@@ -23,7 +23,7 @@ The :attribute must be a valid MAC address.
 </table>
 
 
-### [pt](https://github.com/Laravel-Lang/lang/blob/master/locales/pt/pt.json)
+### [pt](https://github.com/Laravel-Lang/lang/blob/main/locales/pt/pt.json)
 
 ##### Missing: 93
 

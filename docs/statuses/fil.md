@@ -7,7 +7,7 @@ editLink: false
 ##### All missed: 794
 
 
-### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/fil/auth.php)
+### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/fil/auth.php)
 
 ##### Missing: 3
 
@@ -37,7 +37,7 @@ Too many login attempts. Please try again in :seconds seconds.
 </table>
 
 
-### [pagination](https://github.com/Laravel-Lang/lang/blob/master/locales/fil/pagination.php)
+### [pagination](https://github.com/Laravel-Lang/lang/blob/main/locales/fil/pagination.php)
 
 ##### Missing: 2
 
@@ -60,7 +60,7 @@ previous
 </table>
 
 
-### [passwords](https://github.com/Laravel-Lang/lang/blob/master/locales/fil/passwords.php)
+### [passwords](https://github.com/Laravel-Lang/lang/blob/main/locales/fil/passwords.php)
 
 ##### Missing: 5
 
@@ -104,7 +104,7 @@ We can't find a user with that email address.
 </table>
 
 
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/fil/validation-inline.php)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/fil/validation-inline.php)
 
 ##### Missing: 91
 
@@ -750,7 +750,7 @@ This must be a valid UUID.
 </table>
 
 
-### [validation-nova-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/fil/validation-nova-inline.php)
+### [validation-nova-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/fil/validation-nova-inline.php)
 
 ##### Missing: 2
 
@@ -773,7 +773,7 @@ This field may not be associated with this resource.
 </table>
 
 
-### [validation-nova](https://github.com/Laravel-Lang/lang/blob/master/locales/fil/validation-nova.php)
+### [validation-nova](https://github.com/Laravel-Lang/lang/blob/main/locales/fil/validation-nova.php)
 
 ##### Missing: 2
 
@@ -796,7 +796,7 @@ This :attribute may not be associated with this resource.
 </table>
 
 
-### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/fil/validation.php)
+### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/fil/validation.php)
 
 ##### Missing: 14
 
@@ -903,7 +903,7 @@ The :attribute field must contain entries for: :values.
 </table>
 
 
-### [fil](https://github.com/Laravel-Lang/lang/blob/master/locales/fil/fil.json)
+### [fil](https://github.com/Laravel-Lang/lang/blob/main/locales/fil/fil.json)
 
 ##### Missing: 675
 

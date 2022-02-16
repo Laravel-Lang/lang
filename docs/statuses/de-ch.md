@@ -7,7 +7,7 @@ editLink: false
 ##### All missed: 139
 
 
-### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/de_CH/auth.php)
+### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/de_CH/auth.php)
 
 ##### Missing: 1
 
@@ -23,7 +23,7 @@ The provided password is incorrect.
 </table>
 
 
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/de_CH/validation-inline.php)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/de_CH/validation-inline.php)
 
 ##### Missing: 8
 
@@ -88,7 +88,7 @@ This field must contain entries for: :values.
 </table>
 
 
-### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/de_CH/validation.php)
+### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/de_CH/validation.php)
 
 ##### Missing: 8
 
@@ -153,7 +153,7 @@ The :attribute field must contain entries for: :values.
 </table>
 
 
-### [de_CH](https://github.com/Laravel-Lang/lang/blob/master/locales/de_CH/de_CH.json)
+### [de_CH](https://github.com/Laravel-Lang/lang/blob/main/locales/de_CH/de_CH.json)
 
 ##### Missing: 122
 

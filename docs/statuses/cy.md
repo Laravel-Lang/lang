@@ -7,7 +7,7 @@ editLink: false
 ##### All missed: 177
 
 
-### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/cy/auth.php)
+### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/cy/auth.php)
 
 ##### Missing: 3
 
@@ -37,7 +37,7 @@ Too many login attempts. Please try again in :seconds seconds.
 </table>
 
 
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/cy/validation-inline.php)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/cy/validation-inline.php)
 
 ##### Missing: 34
 
@@ -284,7 +284,7 @@ The string must be :size characters.
 </table>
 
 
-### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/cy/validation.php)
+### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/cy/validation.php)
 
 ##### Missing: 18
 
@@ -419,7 +419,7 @@ The :attribute field must contain entries for: :values.
 </table>
 
 
-### [cy](https://github.com/Laravel-Lang/lang/blob/master/locales/cy/cy.json)
+### [cy](https://github.com/Laravel-Lang/lang/blob/main/locales/cy/cy.json)
 
 ##### Missing: 122
 

@@ -107,7 +107,7 @@ return [
     'prohibits'            => 'Ce champ interdit :other d\'être présent.',
     'regex'                => 'Le format du champ est invalide.',
     'required'             => 'Ce champ est obligatoire.',
-    'required_array_keys'  => 'This field must contain entries for: :values.',
+    'required_array_keys'  => 'Ce champ doit contenir des entrées pour : :values.',
     'required_if'          => 'Ce champ est obligatoire quand la valeur de :other est :value.',
     'required_unless'      => 'Ce champ est obligatoire sauf si :other est :values.',
     'required_with'        => 'Ce champ est obligatoire quand :values est présent.',

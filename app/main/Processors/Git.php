@@ -79,7 +79,7 @@ class Git extends Processor
 
     protected function getSourceBranchName(): string
     {
-        return env('GIT_SOURCE_BRANCH', 'master');
+        return env('GIT_SOURCE_BRANCH', 'main');
     }
 
     protected function getTargetBranchName(string $locale): string

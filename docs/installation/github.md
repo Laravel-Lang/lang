@@ -28,5 +28,5 @@ gh repo clone Laravel-Lang/lang
   </CodeGroupItem>
 </CodeGroup>
 
-* Or download the [zip file](https://github.com/Laravel-Lang/lang/archive/refs/heads/master.zip)
+* Or download the [zip file](https://github.com/Laravel-Lang/lang/archive/refs/heads/main.zip)
 * Copy the folders of languages that you want, in `resources/lang` or `lang` directory of your Laravel application.

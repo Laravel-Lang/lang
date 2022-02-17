@@ -107,7 +107,7 @@ return [
     'prohibits'            => 'Le champ :attribute interdit :other d\'être présent.',
     'regex'                => 'Le format du champ :attribute est invalide.',
     'required'             => 'Le champ :attribute est obligatoire.',
-    'required_array_keys'  => 'The :attribute field must contain entries for: :values.',
+    'required_array_keys'  => 'Le champ :attribute doit contenir des entrées pour : :values.',
     'required_if'          => 'Le champ :attribute est obligatoire quand la valeur de :other est :value.',
     'required_unless'      => 'Le champ :attribute est obligatoire sauf si :other est :values.',
     'required_with'        => 'Le champ :attribute est obligatoire quand :values est présent.',

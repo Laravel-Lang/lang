@@ -3,11 +3,8 @@ name: docs
 on:
     workflow_dispatch:
     repository_dispatch:
-      types:
-        - generate-docs
-    release:
-      types:
-        - created
+        types:
+            - generate-docs
 
 jobs:
     handle-dispatch:
@@ -20,7 +17,7 @@ jobs:
                     token: ${{ secrets.GITHUB_TOKEN }}
 
             -   name: Setup Node.js
-                uses: actions/setup-node@v2.5.1
+                uses: actions/setup-node@v2
                 with:
                     node-version: '16'
 
@@ -35,14 +32,17 @@ jobs:
                         ${{ runner.os }}-npm-
 
             -   name: Install dependencies
-                if: steps.npm-cache.outputs.cache-hit != 'true'
                 run: npm i
 
             -   name: Build VuePress site
                 run: npm run build
+                env:
+                    VITE_APP_ALGOLIA_APP_ID: ${{ secrets.VITE_APP_ALGOLIA_APP_ID }}
+                    VITE_APP_ALGOLIA_API_KEY: ${{ secrets.VITE_APP_ALGOLIA_API_KEY }}
+                    VITE_APP_ALGOLIA_INDEX_NAME: ${{ secrets.VITE_APP_ALGOLIA_INDEX_NAME }}
 
             -   name: Deploy to GitHub Pages
-                uses: crazy-max/ghaction-github-pages@v2
+                uses: crazy-max/ghaction-github-pages@v2.6.0
                 with:
                     target_branch: gh-pages
                     build_dir: docs/.vuepress/dist

@@ -7,7 +7,7 @@ editLink: false
 ##### All missed: 245
 
 
-### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/uz_Cyrl/auth.php)
+### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/uz_Cyrl/auth.php)
 
 ##### Missing: 1
 
@@ -23,7 +23,7 @@ The provided password is incorrect.
 </table>
 
 
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/uz_Cyrl/validation-inline.php)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/uz_Cyrl/validation-inline.php)
 
 ##### Missing: 34
 
@@ -270,7 +270,7 @@ The string must be :size characters.
 </table>
 
 
-### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/uz_Cyrl/validation.php)
+### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/uz_Cyrl/validation.php)
 
 ##### Missing: 8
 
@@ -335,7 +335,7 @@ The :attribute field must contain entries for: :values.
 </table>
 
 
-### [uz_Cyrl](https://github.com/Laravel-Lang/lang/blob/master/locales/uz_Cyrl/uz_Cyrl.json)
+### [uz_Cyrl](https://github.com/Laravel-Lang/lang/blob/main/locales/uz_Cyrl/uz_Cyrl.json)
 
 ##### Missing: 202
 

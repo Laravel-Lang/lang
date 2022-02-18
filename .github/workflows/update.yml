@@ -4,7 +4,7 @@ on:
         -   cron: 0 0 * * *
     push:
         branches:
-            - master
+            - main
 
 jobs:
     update:
@@ -27,21 +27,7 @@ jobs:
                     git config --local user.name "GitHub Action"
 
             -   name: Install dependencies
-                run: |
-                    composer update --prefer-stable --prefer-dist --no-progress --no-interaction
-                    composer global require ergebnis/composer-normalize
-
-            -   name: Normalize composer.json
-                id: normalize
-                if: success()
-                run: |
-                    IS_DIRTY=1
-
-                    composer normalize
-
-                    { git add . && git commit -a -m "Normalize composer.json"; } || IS_DIRTY=0
-
-                    echo ::set-output name=is_dirty::${IS_DIRTY}
+                run: composer update --prefer-stable --prefer-dist --no-progress --no-interaction
 
             -   name: Scanning packages
                 id: packages
@@ -109,19 +95,18 @@ jobs:
                     success() && (
                     steps.excludes.outputs.is_dirty == 1 ||
                     steps.keys.outputs.is_dirty == 1 ||
-                    steps.normalize.outputs.is_dirty == 1 ||
                     steps.packages.outputs.is_dirty == 1 ||
                     steps.referents.outputs.is_dirty == 1 ||
                     steps.status.outputs.is_dirty == 1
                     )
                 with:
-                    github_token: ${{ secrets.GITHUB_TOKEN }}
+                    github_token: ${{ secrets.COMPOSER_TOKEN }}
 
             -   name: Generate Docs Trigger
                 uses: myrotvorets/trigger-repository-dispatch-action@1.1.1
                 if: success()
                 with:
-                    token: ${{ secrets.HELLDAR_GITHUB_TOKEN }}
+                    token: ${{ secrets.COMPOSER_TOKEN }}
                     repo: Laravel-Lang/lang
                     type: generate-docs
 

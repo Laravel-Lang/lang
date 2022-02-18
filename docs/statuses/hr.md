@@ -7,7 +7,7 @@ editLink: false
 ##### All missed: 221
 
 
-### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/hr/auth.php)
+### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/hr/auth.php)
 
 ##### Missing: 1
 
@@ -23,7 +23,7 @@ The provided password is incorrect.
 </table>
 
 
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/hr/validation-inline.php)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/hr/validation-inline.php)
 
 ##### Missing: 34
 
@@ -270,7 +270,7 @@ The string must be :size characters.
 </table>
 
 
-### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/hr/validation.php)
+### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/hr/validation.php)
 
 ##### Missing: 8
 
@@ -335,7 +335,7 @@ The :attribute field must contain entries for: :values.
 </table>
 
 
-### [hr](https://github.com/Laravel-Lang/lang/blob/master/locales/hr/hr.json)
+### [hr](https://github.com/Laravel-Lang/lang/blob/main/locales/hr/hr.json)
 
 ##### Missing: 178
 

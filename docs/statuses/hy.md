@@ -7,7 +7,7 @@ editLink: false
 ##### All missed: 110
 
 
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/hy/validation-inline.php)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/hy/validation-inline.php)
 
 ##### Missing: 6
 
@@ -58,7 +58,7 @@ This field must contain entries for: :values.
 </table>
 
 
-### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/hy/validation.php)
+### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/hy/validation.php)
 
 ##### Missing: 6
 
@@ -109,7 +109,7 @@ The :attribute field must contain entries for: :values.
 </table>
 
 
-### [hy](https://github.com/Laravel-Lang/lang/blob/master/locales/hy/hy.json)
+### [hy](https://github.com/Laravel-Lang/lang/blob/main/locales/hy/hy.json)
 
 ##### Missing: 98
 

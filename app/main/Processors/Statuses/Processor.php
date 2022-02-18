@@ -70,7 +70,8 @@ abstract class Processor extends BaseProcessor
         $source = $this->prepareComparing($source, $is_validation);
         $target = $this->prepareComparing($target, $is_validation);
 
-        return array_filter($target,
+        return array_filter(
+            $target,
             fn ($value, $key) => $this->hasEquals($value, $key, $source, $locale, $is_validation),
             ARRAY_FILTER_USE_BOTH
         );

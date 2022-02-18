@@ -7,7 +7,7 @@ editLink: false
 ##### All missed: 159
 
 
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/et/validation-inline.php)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/et/validation-inline.php)
 
 ##### Missing: 28
 
@@ -212,7 +212,7 @@ The string must be :size characters.
 </table>
 
 
-### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/et/validation.php)
+### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/et/validation.php)
 
 ##### Missing: 8
 
@@ -277,7 +277,7 @@ The :attribute field must contain entries for: :values.
 </table>
 
 
-### [et](https://github.com/Laravel-Lang/lang/blob/master/locales/et/et.json)
+### [et](https://github.com/Laravel-Lang/lang/blob/main/locales/et/et.json)
 
 ##### Missing: 123
 

@@ -7,7 +7,7 @@ editLink: false
 ##### All missed: 702
 
 
-### [passwords](https://github.com/Laravel-Lang/lang/blob/master/locales/oc/passwords.php)
+### [passwords](https://github.com/Laravel-Lang/lang/blob/main/locales/oc/passwords.php)
 
 ##### Missing: 1
 
@@ -23,7 +23,7 @@ Please wait before retrying.
 </table>
 
 
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/oc/validation-inline.php)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/oc/validation-inline.php)
 
 ##### Missing: 11
 
@@ -109,7 +109,7 @@ This field must contain entries for: :values.
 </table>
 
 
-### [validation-nova-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/oc/validation-nova-inline.php)
+### [validation-nova-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/oc/validation-nova-inline.php)
 
 ##### Missing: 2
 
@@ -132,7 +132,7 @@ This field may not be associated with this resource.
 </table>
 
 
-### [validation-nova](https://github.com/Laravel-Lang/lang/blob/master/locales/oc/validation-nova.php)
+### [validation-nova](https://github.com/Laravel-Lang/lang/blob/main/locales/oc/validation-nova.php)
 
 ##### Missing: 2
 
@@ -155,7 +155,7 @@ This :attribute may not be associated with this resource.
 </table>
 
 
-### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/oc/validation.php)
+### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/oc/validation.php)
 
 ##### Missing: 11
 
@@ -241,7 +241,7 @@ The :attribute field must contain entries for: :values.
 </table>
 
 
-### [oc](https://github.com/Laravel-Lang/lang/blob/master/locales/oc/oc.json)
+### [oc](https://github.com/Laravel-Lang/lang/blob/main/locales/oc/oc.json)
 
 ##### Missing: 675
 

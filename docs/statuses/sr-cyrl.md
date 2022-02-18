@@ -7,7 +7,7 @@ editLink: false
 ##### All missed: 142
 
 
-### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/sr_Cyrl/auth.php)
+### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/sr_Cyrl/auth.php)
 
 ##### Missing: 1
 
@@ -23,7 +23,7 @@ The provided password is incorrect.
 </table>
 
 
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/sr_Cyrl/validation-inline.php)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/sr_Cyrl/validation-inline.php)
 
 ##### Missing: 8
 
@@ -88,7 +88,7 @@ This field must contain entries for: :values.
 </table>
 
 
-### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/sr_Cyrl/validation.php)
+### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/sr_Cyrl/validation.php)
 
 ##### Missing: 8
 
@@ -153,7 +153,7 @@ The :attribute field must contain entries for: :values.
 </table>
 
 
-### [sr_Cyrl](https://github.com/Laravel-Lang/lang/blob/master/locales/sr_Cyrl/sr_Cyrl.json)
+### [sr_Cyrl](https://github.com/Laravel-Lang/lang/blob/main/locales/sr_Cyrl/sr_Cyrl.json)
 
 ##### Missing: 125
 

@@ -1,26 +1,31 @@
 const fs = require('fs');
 const path = require('path');
 
+require('dotenv').config();
+
+const hostname = 'laravel-lang.com';
+
 module.exports = {
     lang: 'en-US',
     title: 'Laravel Lang',
     description: 'List of 78 languages for Laravel Framework 4-9, Jetstream, Fortify, Breeze, Cashier, Nova, Spark and UI.',
 
     head: [
-        ['link', { rel: 'icon', href: '/images/logo.svg' }],
-        ['meta', { name: 'twitter:image', content: 'https://laravel-lang.com/images/social-logo.png' }]
+        ['link', { rel: 'icon', href: `https://${ hostname }/images/logo.svg` }],
+        ['meta', { name: 'twitter:image', content: `https://${ hostname }/images/social-logo.png` }]
     ],
 
     theme: '@vuepress/theme-default',
     themeConfig: {
+        hostname,
         base: '/',
 
-        logo: '/images/logo.svg',
+        logo: `https://${ hostname }/images/logo.svg`,
 
         repo: 'https://github.com/Laravel-Lang/lang',
         repoLabel: 'GitHub',
         docsRepo: 'https://github.com/Laravel-Lang/lang',
-        docsBranch: 'master',
+        docsBranch: 'main',
         docsDir: 'docs',
 
         editLink: true,
@@ -89,6 +94,14 @@ module.exports = {
                 type: _ => 'website',
                 image: (_, $site) => $site.domain + '/images/social-logo.png'
             }
+        ],
+        [
+            '@vuepress/docsearch',
+            {
+                appId: process.env.VITE_APP_ALGOLIA_APP_ID,
+                apiKey: process.env.VITE_APP_ALGOLIA_API_KEY,
+                indexName: process.env.VITE_APP_ALGOLIA_INDEX_NAME
+            }
         ]
     ]
 };
@@ -118,7 +131,7 @@ function getChildren(folder, sort = 'asc') {
 }
 
 function resolveNumeric(value) {
-    const sub = value.substr(0, value.indexOf('.'));
+    const sub = value.substring(0, value.indexOf('.'));
 
     const num = Number(sub);
 

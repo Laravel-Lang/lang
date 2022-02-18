@@ -7,7 +7,7 @@ editLink: false
 ##### All missed: 2
 
 
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/ko/validation-inline.php)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/ko/validation-inline.php)
 
 ##### Missing: 1
 
@@ -23,7 +23,7 @@ This field must contain entries for: :values.
 </table>
 
 
-### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/ko/validation.php)
+### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/ko/validation.php)
 
 ##### Missing: 1
 

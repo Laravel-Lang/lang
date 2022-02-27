@@ -80,7 +80,7 @@ return [
         'numeric' => ':attribute باید کوچکتر یا مساوی :value باشد.',
         'string'  => ':attribute باید کمتر یا مساوی :value کاراکتر داشته باشد.',
     ],
-    'mac_address'          => 'The :attribute must be a valid MAC address.',
+    'mac_address'          => ':attribute باید یک مک آدرس صحیح باشد.',
     'max'                  => [
         'array'   => ':attribute نباید بیشتر از :max آیتم داشته باشد.',
         'file'    => ':attribute نباید بزرگتر از :max کیلوبایت باشد.',

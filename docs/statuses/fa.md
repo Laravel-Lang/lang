@@ -4,21 +4,14 @@ editLink: false
 
 # fa
 
-##### All missed: 121
+##### All missed: 119
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/fa/validation-inline.php)
 
-##### Missing: 4
+##### Missing: 3
 
 <table >
-<tr><td align="left" >
-prohibited_if
-</td>
-<td align="left" >
-This field is prohibited when :other is :value.
-</td>
-</tr>
 <tr><td align="left" >
 prohibited_unless
 </td>
@@ -46,7 +39,7 @@ This field must contain entries for: :values.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/fa/validation.php)
 
-##### Missing: 7
+##### Missing: 6
 
 <table >
 <tr><td align="left" >
@@ -61,13 +54,6 @@ enum
 </td>
 <td align="left" >
 The selected :attribute is invalid.
-</td>
-</tr>
-<tr><td align="left" >
-mac_address
-</td>
-<td align="left" >
-The :attribute must be a valid MAC address.
 </td>
 </tr>
 <tr><td align="left" >

@@ -11,4 +11,4 @@ jobs:
                 uses: actions/checkout@v2
 
             -   name: Checking PHP Syntax
-                uses: TheDragonCode/codestyler@v1.12.4
+                uses: TheDragonCode/codestyler@v1.13.1

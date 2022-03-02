@@ -8,7 +8,7 @@ jobs:
 
         steps:
             -   name: Checkout code
-                uses: actions/checkout@v2
+                uses: actions/checkout@v3
 
             -   name: Checking PHP Syntax
                 uses: TheDragonCode/codestyler@v1.12.4

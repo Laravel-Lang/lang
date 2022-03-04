@@ -89,6 +89,25 @@ jobs:
 
                     echo ::set-output name=is_dirty::${IS_DIRTY}
 
+            -   name: Update changelog
+                uses: stefanzweifel/changelog-updater-action@v1
+                if: success() && startsWith(github.ref, 'refs/tags/')
+                with:
+                    latest-version: ${{ github.event.release.tag_name }}
+                    release-notes: ${{ github.event.release.body }}
+                    compare-url-target-revision: ${{ github.event.release.target_commitish }}
+                    path-to-changelog: docs/changelog/10.x.md
+
+            -   name: Storing changelog
+                id: changelog
+                if: success()
+                run: |
+                    IS_DIRTY=1
+
+                    { git add . && git commit -a -m "Update CHANGELOG 🧾"; } || IS_DIRTY=0
+
+                    echo ::set-output name=is_dirty::${IS_DIRTY}
+
             -   name: Push changes
                 uses: ad-m/github-push-action@master
                 if: |
@@ -97,7 +116,8 @@ jobs:
                     steps.keys.outputs.is_dirty == 1 ||
                     steps.packages.outputs.is_dirty == 1 ||
                     steps.referents.outputs.is_dirty == 1 ||
-                    steps.status.outputs.is_dirty == 1
+                    steps.status.outputs.is_dirty == 1 ||
+                    steps.changelog.outputs.is_dirty == 1
                     )
                 with:
                     github_token: ${{ secrets.COMPOSER_TOKEN }}

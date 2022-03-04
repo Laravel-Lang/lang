@@ -91,13 +91,16 @@ jobs:
 
             -   name: Update changelog
                 uses: stefanzweifel/changelog-updater-action@v1
-                id: changelog
                 if: success() && startsWith(github.ref, 'refs/tags/')
                 with:
                     latest-version: ${{ github.event.release.tag_name }}
                     release-notes: ${{ github.event.release.body }}
                     compare-url-target-revision: ${{ github.event.release.target_commitish }}
                     path-to-changelog: docs/changelog/10.x.md
+
+            -   name: Storing changelog
+                id: changelog
+                if: success()
                 run: |
                     IS_DIRTY=1
 

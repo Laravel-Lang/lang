@@ -4,7 +4,7 @@ editLink: false
 
 # ms
 
-##### All missed: 294
+##### All missed: 287
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/ms/validation-inline.php)
@@ -139,33 +139,9 @@ The :attribute field must contain entries for: :values.
 
 ### [ms](https://github.com/Laravel-Lang/lang/blob/main/locales/ms/ms.json)
 
-##### Missing: 278
+##### Missing: 271
 
 <table >
-<tr><td align="left" >
-:days day trial
-</td>
-</tr>
-<tr><td align="left" >
-A fresh verification link has been sent to your email address.
-</td>
-</tr>
-<tr><td align="left" >
-Add VAT Number
-</td>
-</tr>
-<tr><td align="left" >
-Address
-</td>
-</tr>
-<tr><td align="left" >
-Address Line 2
-</td>
-</tr>
-<tr><td align="left" >
-Administrator
-</td>
-</tr>
 <tr><td align="left" >
 Afghanistan
 </td>
@@ -176,10 +152,6 @@ Albania
 </tr>
 <tr><td align="left" >
 Algeria
-</td>
-</tr>
-<tr><td align="left" >
-An unexpected error occurred and we have notified our support team. Please try again later.
 </td>
 </tr>
 <tr><td align="left" >

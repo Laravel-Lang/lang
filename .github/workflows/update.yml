@@ -7,7 +7,6 @@ on:
             - main
     create:
         tags:
-            - "*"
 
 jobs:
     update:

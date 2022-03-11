@@ -5,8 +5,8 @@ on:
     push:
         branches:
             - main
-    create:
         tags:
+            - "*"
 
 jobs:
     update:

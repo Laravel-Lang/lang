@@ -80,7 +80,7 @@ return [
         'numeric' => 'O campo :attribute tem de ser inferior ou igual a :value.',
         'string'  => 'O campo :attribute tem de ter :value caracteres ou menos.',
     ],
-    'mac_address'          => 'The :attribute must be a valid MAC address.',
+    'mac_address'          => 'O :attribute deve ser um endereço MAC válido.',
     'max'                  => [
         'array'   => 'O campo :attribute não deverá conter mais de :max elementos.',
         'file'    => 'O campo :attribute não deverá ter um tamanho superior a :max kilobytes.',

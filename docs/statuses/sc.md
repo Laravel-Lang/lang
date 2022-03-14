@@ -4,7 +4,7 @@ editLink: false
 
 # sc
 
-##### All missed: 815
+##### All missed: 816
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/sc/auth.php)
@@ -1043,7 +1043,7 @@ The :attribute must be a valid UUID.
 
 ### [sc](https://github.com/Laravel-Lang/lang/blob/main/locales/sc/sc.json)
 
-##### Missing: 675
+##### Missing: 676
 
 <table >
 <tr><td align="left" >
@@ -3342,6 +3342,10 @@ This account does not have an active subscription.
 </tr>
 <tr><td align="left" >
 This action is unauthorized.
+</td>
+</tr>
+<tr><td align="left" >
+This coupon code can only be used by new customers.
 </td>
 </tr>
 <tr><td align="left" >

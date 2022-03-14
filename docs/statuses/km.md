@@ -4,7 +4,7 @@ editLink: false
 
 # km
 
-##### All missed: 142
+##### All missed: 143
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/km/validation-inline.php)
@@ -139,7 +139,7 @@ The :attribute field must contain entries for: :values.
 
 ### [km](https://github.com/Laravel-Lang/lang/blob/main/locales/km/km.json)
 
-##### Missing: 126
+##### Missing: 127
 
 <table >
 <tr><td align="left" >
@@ -529,6 +529,10 @@ There is no active subscription.
 </tr>
 <tr><td align="left" >
 This account does not have an active subscription.
+</td>
+</tr>
+<tr><td align="left" >
+This coupon code can only be used by new customers.
 </td>
 </tr>
 <tr><td align="left" >

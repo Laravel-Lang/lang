@@ -4,7 +4,7 @@ editLink: false
 
 # mr
 
-##### All missed: 21
+##### All missed: 22
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/mr/validation-inline.php)
@@ -111,7 +111,7 @@ The :attribute field must contain entries for: :values.
 
 ### [mr](https://github.com/Laravel-Lang/lang/blob/main/locales/mr/mr.json)
 
-##### Missing: 9
+##### Missing: 10
 
 <table >
 <tr><td align="left" >
@@ -136,6 +136,10 @@ If you did not receive the email
 </tr>
 <tr><td align="left" >
 Please confirm your password before continuing.
+</td>
+</tr>
+<tr><td align="left" >
+This coupon code can only be used by new customers.
 </td>
 </tr>
 <tr><td align="left" >

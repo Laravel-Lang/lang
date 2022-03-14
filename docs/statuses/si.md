@@ -4,7 +4,7 @@ editLink: false
 
 # si
 
-##### All missed: 29
+##### All missed: 30
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/si/validation-inline.php)
@@ -104,7 +104,7 @@ The :attribute field must contain entries for: :values.
 
 ### [si](https://github.com/Laravel-Lang/lang/blob/main/locales/si/si.json)
 
-##### Missing: 18
+##### Missing: 19
 
 <table >
 <tr><td align="left" >
@@ -157,6 +157,10 @@ Subscribe
 </tr>
 <tr><td align="left" >
 The :attribute must contain at least one uppercase and one lowercase letter.
+</td>
+</tr>
+<tr><td align="left" >
+This coupon code can only be used by new customers.
 </td>
 </tr>
 <tr><td align="left" >

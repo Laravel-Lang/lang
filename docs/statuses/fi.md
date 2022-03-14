@@ -4,7 +4,7 @@ editLink: false
 
 # fi
 
-##### All missed: 26
+##### All missed: 27
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/fi/validation-inline.php)
@@ -139,7 +139,7 @@ The :attribute field must contain entries for: :values.
 
 ### [fi](https://github.com/Laravel-Lang/lang/blob/main/locales/fi/fi.json)
 
-##### Missing: 10
+##### Missing: 11
 
 <table >
 <tr><td align="left" >
@@ -173,6 +173,10 @@ Please confirm your password before continuing.
 </tr>
 <tr><td align="left" >
 The password is incorrect.
+</td>
+</tr>
+<tr><td align="left" >
+This coupon code can only be used by new customers.
 </td>
 </tr>
 <tr><td align="left" >

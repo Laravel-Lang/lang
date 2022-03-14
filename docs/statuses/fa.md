@@ -4,7 +4,7 @@ editLink: false
 
 # fa
 
-##### All missed: 119
+##### All missed: 120
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/fa/validation-inline.php)
@@ -90,7 +90,7 @@ The :attribute field must contain entries for: :values.
 
 ### [fa](https://github.com/Laravel-Lang/lang/blob/main/locales/fa/fa.json)
 
-##### Missing: 110
+##### Missing: 111
 
 <table >
 <tr><td align="left" >
@@ -499,6 +499,10 @@ These people have been invited to your team and have been sent an invitation ema
 </tr>
 <tr><td align="left" >
 This account does not have an active subscription.
+</td>
+</tr>
+<tr><td align="left" >
+This coupon code can only be used by new customers.
 </td>
 </tr>
 <tr><td align="left" >

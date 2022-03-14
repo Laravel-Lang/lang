@@ -4,7 +4,7 @@ editLink: false
 
 # oc
 
-##### All missed: 702
+##### All missed: 703
 
 
 ### [passwords](https://github.com/Laravel-Lang/lang/blob/main/locales/oc/passwords.php)
@@ -243,7 +243,7 @@ The :attribute field must contain entries for: :values.
 
 ### [oc](https://github.com/Laravel-Lang/lang/blob/main/locales/oc/oc.json)
 
-##### Missing: 675
+##### Missing: 676
 
 <table >
 <tr><td align="left" >
@@ -2542,6 +2542,10 @@ This account does not have an active subscription.
 </tr>
 <tr><td align="left" >
 This action is unauthorized.
+</td>
+</tr>
+<tr><td align="left" >
+This coupon code can only be used by new customers.
 </td>
 </tr>
 <tr><td align="left" >

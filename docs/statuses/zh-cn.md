@@ -4,7 +4,7 @@ editLink: false
 
 # zh_CN
 
-##### All missed: 13
+##### All missed: 14
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/zh_CN/validation-inline.php)
@@ -97,7 +97,7 @@ The :attribute field must contain entries for: :values.
 
 ### [zh_CN](https://github.com/Laravel-Lang/lang/blob/main/locales/zh_CN/zh_CN.json)
 
-##### Missing: 3
+##### Missing: 4
 
 <table >
 <tr><td align="left" >
@@ -110,6 +110,10 @@ Receipts
 </tr>
 <tr><td align="left" >
 Subscription Pending
+</td>
+</tr>
+<tr><td align="left" >
+This coupon code can only be used by new customers.
 </td>
 </tr>
 

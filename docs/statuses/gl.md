@@ -4,7 +4,7 @@ editLink: false
 
 # gl
 
-##### All missed: 260
+##### All missed: 261
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/gl/auth.php)
@@ -337,7 +337,7 @@ The :attribute field must contain entries for: :values.
 
 ### [gl](https://github.com/Laravel-Lang/lang/blob/main/locales/gl/gl.json)
 
-##### Missing: 217
+##### Missing: 218
 
 <table >
 <tr><td align="left" >
@@ -1047,6 +1047,10 @@ There is no active subscription.
 </tr>
 <tr><td align="left" >
 This account does not have an active subscription.
+</td>
+</tr>
+<tr><td align="left" >
+This coupon code can only be used by new customers.
 </td>
 </tr>
 <tr><td align="left" >

@@ -4,7 +4,7 @@ editLink: false
 
 # tg
 
-##### All missed: 183
+##### All missed: 184
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/tg/auth.php)
@@ -407,7 +407,7 @@ The :attribute field must contain entries for: :values.
 
 ### [tg](https://github.com/Laravel-Lang/lang/blob/main/locales/tg/tg.json)
 
-##### Missing: 130
+##### Missing: 131
 
 <table >
 <tr><td align="left" >
@@ -813,6 +813,10 @@ There is no active subscription.
 </tr>
 <tr><td align="left" >
 This account does not have an active subscription.
+</td>
+</tr>
+<tr><td align="left" >
+This coupon code can only be used by new customers.
 </td>
 </tr>
 <tr><td align="left" >

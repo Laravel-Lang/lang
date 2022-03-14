@@ -4,7 +4,7 @@ editLink: false
 
 # sr_Latn
 
-##### All missed: 142
+##### All missed: 143
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/sr_Latn/auth.php)
@@ -155,7 +155,7 @@ The :attribute field must contain entries for: :values.
 
 ### [sr_Latn](https://github.com/Laravel-Lang/lang/blob/main/locales/sr_Latn/sr_Latn.json)
 
-##### Missing: 125
+##### Missing: 126
 
 <table >
 <tr><td align="left" >
@@ -541,6 +541,10 @@ There is no active subscription.
 </tr>
 <tr><td align="left" >
 This account does not have an active subscription.
+</td>
+</tr>
+<tr><td align="left" >
+This coupon code can only be used by new customers.
 </td>
 </tr>
 <tr><td align="left" >

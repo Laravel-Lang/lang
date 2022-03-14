@@ -4,7 +4,7 @@ editLink: false
 
 # ja
 
-##### All missed: 52
+##### All missed: 53
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/ja/validation-inline.php)
@@ -139,7 +139,7 @@ The :attribute field must contain entries for: :values.
 
 ### [ja](https://github.com/Laravel-Lang/lang/blob/main/locales/ja/ja.json)
 
-##### Missing: 36
+##### Missing: 37
 
 <table >
 <tr><td align="left" >
@@ -241,6 +241,10 @@ The password is incorrect.
 </tr>
 <tr><td align="left" >
 There is no active subscription.
+</td>
+</tr>
+<tr><td align="left" >
+This coupon code can only be used by new customers.
 </td>
 </tr>
 <tr><td align="left" >

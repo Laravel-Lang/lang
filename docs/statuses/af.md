@@ -4,7 +4,7 @@ editLink: false
 
 # af
 
-##### All missed: 113
+##### All missed: 114
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/af/validation-inline.php)
@@ -139,7 +139,7 @@ The :attribute field must contain entries for: :values.
 
 ### [af](https://github.com/Laravel-Lang/lang/blob/main/locales/af/af.json)
 
-##### Missing: 97
+##### Missing: 98
 
 <table >
 <tr><td align="left" >
@@ -429,6 +429,10 @@ There is no active subscription.
 </tr>
 <tr><td align="left" >
 This account does not have an active subscription.
+</td>
+</tr>
+<tr><td align="left" >
+This coupon code can only be used by new customers.
 </td>
 </tr>
 <tr><td align="left" >

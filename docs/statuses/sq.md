@@ -4,7 +4,7 @@ editLink: false
 
 # sq
 
-##### All missed: 227
+##### All missed: 228
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/sq/auth.php)
@@ -155,7 +155,7 @@ The :attribute field must contain entries for: :values.
 
 ### [sq](https://github.com/Laravel-Lang/lang/blob/main/locales/sq/sq.json)
 
-##### Missing: 210
+##### Missing: 211
 
 <table >
 <tr><td align="left" >
@@ -845,6 +845,10 @@ There is no active subscription.
 </tr>
 <tr><td align="left" >
 This account does not have an active subscription.
+</td>
+</tr>
+<tr><td align="left" >
+This coupon code can only be used by new customers.
 </td>
 </tr>
 <tr><td align="left" >

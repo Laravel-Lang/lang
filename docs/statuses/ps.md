@@ -4,7 +4,7 @@ editLink: false
 
 # ps
 
-##### All missed: 757
+##### All missed: 758
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/ps/auth.php)
@@ -840,7 +840,7 @@ The :attribute field must contain entries for: :values.
 
 ### [ps](https://github.com/Laravel-Lang/lang/blob/main/locales/ps/ps.json)
 
-##### Missing: 646
+##### Missing: 647
 
 <table >
 <tr><td align="left" >
@@ -3046,6 +3046,10 @@ This account does not have an active subscription.
 </tr>
 <tr><td align="left" >
 This action is unauthorized.
+</td>
+</tr>
+<tr><td align="left" >
+This coupon code can only be used by new customers.
 </td>
 </tr>
 <tr><td align="left" >

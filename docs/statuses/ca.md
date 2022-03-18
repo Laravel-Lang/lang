@@ -4,7 +4,7 @@ editLink: false
 
 # ca
 
-##### All missed: 178
+##### All missed: 179
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/ca/auth.php)
@@ -337,7 +337,7 @@ The :attribute field must contain entries for: :values.
 
 ### [ca](https://github.com/Laravel-Lang/lang/blob/main/locales/ca/ca.json)
 
-##### Missing: 135
+##### Missing: 136
 
 <table >
 <tr><td align="left" >
@@ -786,6 +786,10 @@ The provided coupon code is invalid.
 </tr>
 <tr><td align="left" >
 The provided VAT number is invalid.
+</td>
+</tr>
+<tr><td align="left" >
+This coupon code can only be used by new customers.
 </td>
 </tr>
 <tr><td align="left" >

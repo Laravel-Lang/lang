@@ -4,7 +4,7 @@ editLink: false
 
 # sl
 
-##### All missed: 105
+##### All missed: 106
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/sl/validation-inline.php)
@@ -97,7 +97,7 @@ The :attribute field must contain entries for: :values.
 
 ### [sl](https://github.com/Laravel-Lang/lang/blob/main/locales/sl/sl.json)
 
-##### Missing: 95
+##### Missing: 96
 
 <table >
 <tr><td align="left" >
@@ -406,6 +406,10 @@ Taiwan, Province of China
 </tr>
 <tr><td align="left" >
 Tanzania, United Republic of
+</td>
+</tr>
+<tr><td align="left" >
+This coupon code can only be used by new customers.
 </td>
 </tr>
 <tr><td align="left" >

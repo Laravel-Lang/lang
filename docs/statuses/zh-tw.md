@@ -4,7 +4,7 @@ editLink: false
 
 # zh_TW
 
-##### All missed: 33
+##### All missed: 34
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/zh_TW/validation-inline.php)
@@ -139,7 +139,7 @@ The :attribute field must contain entries for: :values.
 
 ### [zh_TW](https://github.com/Laravel-Lang/lang/blob/main/locales/zh_TW/zh_TW.json)
 
-##### Missing: 17
+##### Missing: 18
 
 <table >
 <tr><td align="left" >
@@ -196,6 +196,10 @@ Réunion
 </tr>
 <tr><td align="left" >
 There is no active subscription.
+</td>
+</tr>
+<tr><td align="left" >
+This coupon code can only be used by new customers.
 </td>
 </tr>
 <tr><td align="left" >

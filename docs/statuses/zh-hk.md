@@ -4,7 +4,7 @@ editLink: false
 
 # zh_HK
 
-##### All missed: 138
+##### All missed: 139
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/zh_HK/validation-inline.php)
@@ -139,7 +139,7 @@ The :attribute field must contain entries for: :values.
 
 ### [zh_HK](https://github.com/Laravel-Lang/lang/blob/main/locales/zh_HK/zh_HK.json)
 
-##### Missing: 122
+##### Missing: 123
 
 <table >
 <tr><td align="left" >
@@ -513,6 +513,10 @@ There is no active subscription.
 </tr>
 <tr><td align="left" >
 This account does not have an active subscription.
+</td>
+</tr>
+<tr><td align="left" >
+This coupon code can only be used by new customers.
 </td>
 </tr>
 <tr><td align="left" >

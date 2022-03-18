@@ -4,7 +4,7 @@ editLink: false
 
 # ka
 
-##### All missed: 98
+##### All missed: 99
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/ka/validation-inline.php)
@@ -97,7 +97,7 @@ The :attribute field must contain entries for: :values.
 
 ### [ka](https://github.com/Laravel-Lang/lang/blob/main/locales/ka/ka.json)
 
-##### Missing: 88
+##### Missing: 89
 
 <table >
 <tr><td align="left" >
@@ -362,6 +362,10 @@ There is no active subscription.
 </tr>
 <tr><td align="left" >
 This account does not have an active subscription.
+</td>
+</tr>
+<tr><td align="left" >
+This coupon code can only be used by new customers.
 </td>
 </tr>
 <tr><td align="left" >

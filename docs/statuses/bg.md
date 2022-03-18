@@ -4,7 +4,7 @@ editLink: false
 
 # bg
 
-##### All missed: 18
+##### All missed: 19
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/bg/validation-inline.php)
@@ -97,7 +97,7 @@ The :attribute field must contain entries for: :values.
 
 ### [bg](https://github.com/Laravel-Lang/lang/blob/main/locales/bg/bg.json)
 
-##### Missing: 8
+##### Missing: 9
 
 <table >
 <tr><td align="left" >
@@ -122,6 +122,10 @@ If you did not receive the email
 </tr>
 <tr><td align="left" >
 Please confirm your password before continuing.
+</td>
+</tr>
+<tr><td align="left" >
+This coupon code can only be used by new customers.
 </td>
 </tr>
 <tr><td align="left" >

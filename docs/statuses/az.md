@@ -4,7 +4,7 @@ editLink: false
 
 # az
 
-##### All missed: 230
+##### All missed: 213
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/az/auth.php)
@@ -270,144 +270,9 @@ The string must be :size characters.
 </table>
 
 
-### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/az/validation.php)
-
-##### Missing: 18
-
-<table >
-<tr><td align="left" >
-accepted_if
-</td>
-<td align="left" >
-The :attribute must be accepted when :other is :value.
-</td>
-</tr>
-<tr><td align="left" >
-current_password
-</td>
-<td align="left" >
-The password is incorrect.
-</td>
-</tr>
-<tr><td align="left" >
-declined
-</td>
-<td align="left" >
-The :attribute must be declined.
-</td>
-</tr>
-<tr><td align="left" >
-declined_if
-</td>
-<td align="left" >
-The :attribute must be declined when :other is :value.
-</td>
-</tr>
-<tr><td align="left" >
-enum
-</td>
-<td align="left" >
-The selected :attribute is invalid.
-</td>
-</tr>
-<tr><td align="left" >
-gt.array
-</td>
-<td align="left" >
-The :attribute must have more than :value items.
-</td>
-</tr>
-<tr><td align="left" >
-gt.file
-</td>
-<td align="left" >
-The :attribute must be greater than :value kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-gt.numeric
-</td>
-<td align="left" >
-The :attribute must be greater than :value.
-</td>
-</tr>
-<tr><td align="left" >
-gt.string
-</td>
-<td align="left" >
-The :attribute must be greater than :value characters.
-</td>
-</tr>
-<tr><td align="left" >
-gte.array
-</td>
-<td align="left" >
-The :attribute must have :value items or more.
-</td>
-</tr>
-<tr><td align="left" >
-lt.array
-</td>
-<td align="left" >
-The :attribute must have less than :value items.
-</td>
-</tr>
-<tr><td align="left" >
-lt.file
-</td>
-<td align="left" >
-The :attribute must be less than :value kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-lt.numeric
-</td>
-<td align="left" >
-The :attribute must be less than :value.
-</td>
-</tr>
-<tr><td align="left" >
-lt.string
-</td>
-<td align="left" >
-The :attribute must be less than :value characters.
-</td>
-</tr>
-<tr><td align="left" >
-lte.array
-</td>
-<td align="left" >
-The :attribute must not have more than :value items.
-</td>
-</tr>
-<tr><td align="left" >
-mac_address
-</td>
-<td align="left" >
-The :attribute must be a valid MAC address.
-</td>
-</tr>
-<tr><td align="left" >
-prohibits
-</td>
-<td align="left" >
-The :attribute field prohibits :other from being present.
-</td>
-</tr>
-<tr><td align="left" >
-required_array_keys
-</td>
-<td align="left" >
-The :attribute field must contain entries for: :values.
-</td>
-</tr>
-
-</table>
-
-
 ### [az](https://github.com/Laravel-Lang/lang/blob/main/locales/az/az.json)
 
-##### Missing: 177
+##### Missing: 178
 
 <table >
 <tr><td align="left" >
@@ -981,6 +846,10 @@ There is no active subscription.
 </tr>
 <tr><td align="left" >
 This account does not have an active subscription.
+</td>
+</tr>
+<tr><td align="left" >
+This coupon code can only be used by new customers.
 </td>
 </tr>
 <tr><td align="left" >

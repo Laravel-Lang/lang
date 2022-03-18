@@ -4,7 +4,7 @@ editLink: false
 
 # cy
 
-##### All missed: 177
+##### All missed: 178
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/cy/auth.php)
@@ -421,7 +421,7 @@ The :attribute field must contain entries for: :values.
 
 ### [cy](https://github.com/Laravel-Lang/lang/blob/main/locales/cy/cy.json)
 
-##### Missing: 122
+##### Missing: 123
 
 <table >
 <tr><td align="left" >
@@ -795,6 +795,10 @@ There is no active subscription.
 </tr>
 <tr><td align="left" >
 This account does not have an active subscription.
+</td>
+</tr>
+<tr><td align="left" >
+This coupon code can only be used by new customers.
 </td>
 </tr>
 <tr><td align="left" >

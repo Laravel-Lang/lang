@@ -4,7 +4,7 @@ editLink: false
 
 # nn
 
-##### All missed: 752
+##### All missed: 753
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/nn/auth.php)
@@ -833,7 +833,7 @@ The :attribute field must contain entries for: :values.
 
 ### [nn](https://github.com/Laravel-Lang/lang/blob/main/locales/nn/nn.json)
 
-##### Missing: 642
+##### Missing: 643
 
 <table >
 <tr><td align="left" >
@@ -3027,6 +3027,10 @@ These people have been invited to your team and have been sent an invitation ema
 </tr>
 <tr><td align="left" >
 This account does not have an active subscription.
+</td>
+</tr>
+<tr><td align="left" >
+This coupon code can only be used by new customers.
 </td>
 </tr>
 <tr><td align="left" >

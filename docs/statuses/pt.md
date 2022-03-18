@@ -4,28 +4,12 @@ editLink: false
 
 # pt
 
-##### All missed: 94
-
-
-### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/pt/validation.php)
-
-##### Missing: 1
-
-<table >
-<tr><td align="left" >
-mac_address
-</td>
-<td align="left" >
-The :attribute must be a valid MAC address.
-</td>
-</tr>
-
-</table>
+##### All missed: 81
 
 
 ### [pt](https://github.com/Laravel-Lang/lang/blob/main/locales/pt/pt.json)
 
-##### Missing: 93
+##### Missing: 81
 
 <table >
 <tr><td align="left" >
@@ -34,10 +18,6 @@ Congo, the Democratic Republic of the
 </tr>
 <tr><td align="left" >
 Côte d'Ivoire
-</td>
-</tr>
-<tr><td align="left" >
-Failed to load :resource!
 </td>
 </tr>
 <tr><td align="left" >
@@ -94,14 +74,6 @@ Moldova, Republic of
 </td>
 </tr>
 <tr><td align="left" >
-Monthly
-</td>
-</tr>
-<tr><td align="left" >
-monthly
-</td>
-</tr>
-<tr><td align="left" >
 Netherlands Antilles
 </td>
 </tr>
@@ -114,18 +86,6 @@ Our billing management portal allows you to conveniently manage your subscriptio
 </td>
 </tr>
 <tr><td align="left" >
-Payment Information
-</td>
-</tr>
-<tr><td align="left" >
-Payment Method
-</td>
-</tr>
-<tr><td align="left" >
-Please accept the terms of service.
-</td>
-</tr>
-<tr><td align="left" >
 Please confirm your password before continuing.
 </td>
 </tr>
@@ -135,10 +95,6 @@ Please provide a maximum of three receipt emails addresses.
 </tr>
 <tr><td align="left" >
 Receipt Email Addresses
-</td>
-</tr>
-<tr><td align="left" >
-Receipts
 </td>
 </tr>
 <tr><td align="left" >
@@ -286,6 +242,10 @@ This account does not have an active subscription.
 </td>
 </tr>
 <tr><td align="left" >
+This coupon code can only be used by new customers.
+</td>
+</tr>
+<tr><td align="left" >
 This subscription cannot be resumed. Please create a new subscription.
 </td>
 </tr>
@@ -318,19 +278,7 @@ Update Payment Method
 </td>
 </tr>
 <tr><td align="left" >
-VAT Number
-</td>
-</tr>
-<tr><td align="left" >
 Venezuela, Bolivarian Republic of
-</td>
-</tr>
-<tr><td align="left" >
-Verify Your Email Address
-</td>
-</tr>
-<tr><td align="left" >
-View Receipt
 </td>
 </tr>
 <tr><td align="left" >
@@ -350,19 +298,7 @@ We will send a receipt download link to the email addresses that you specify bel
 </td>
 </tr>
 <tr><td align="left" >
-Yearly
-</td>
-</tr>
-<tr><td align="left" >
-You are already subscribed.
-</td>
-</tr>
-<tr><td align="left" >
 You are currently within your free trial period. Your trial will expire on :date.
-</td>
-</tr>
-<tr><td align="left" >
-You are logged in!
 </td>
 </tr>
 <tr><td align="left" >

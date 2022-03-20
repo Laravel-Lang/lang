@@ -360,7 +360,7 @@ editLink: false
 </td>
 <td align="center" width="17%">
 
-[tr&nbsp;❗](statuses/tr.md)
+[tr&nbsp;✔](statuses/tr.md)
 
 </td>
 <td align="center" width="17%">

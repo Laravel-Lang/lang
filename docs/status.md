@@ -65,7 +65,7 @@ editLink: false
 </td>
 <td align="center" width="17%">
 
-[de&nbsp;❗](statuses/de.md)
+[de&nbsp;✔](statuses/de.md)
 
 </td>
 </tr>

@@ -4,7 +4,7 @@ editLink: false
 
 # ca
 
-##### All missed: 179
+##### All missed: 172
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/ca/auth.php)
@@ -337,19 +337,11 @@ The :attribute field must contain entries for: :values.
 
 ### [ca](https://github.com/Laravel-Lang/lang/blob/main/locales/ca/ca.json)
 
-##### Missing: 136
+##### Missing: 129
 
 <table >
 <tr><td align="left" >
 :amount Total
-</td>
-</tr>
-<tr><td align="left" >
-A fresh verification link has been sent to your email address.
-</td>
-</tr>
-<tr><td align="left" >
-Address Line 2
 </td>
 </tr>
 <tr><td align="left" >
@@ -393,10 +385,6 @@ Barbados
 </td>
 </tr>
 <tr><td align="left" >
-Before proceeding, please check your email for a verification link.
-</td>
-</tr>
-<tr><td align="left" >
 Belize
 </td>
 </tr>
@@ -405,19 +393,7 @@ Bhutan
 </td>
 </tr>
 <tr><td align="left" >
-Billing Information
-</td>
-</tr>
-<tr><td align="left" >
 Billing Management
-</td>
-</tr>
-<tr><td align="left" >
-Bolivia, Plurinational State of
-</td>
-</tr>
-<tr><td align="left" >
-Bosnia and Herzegovina
 </td>
 </tr>
 <tr><td align="left" >
@@ -870,10 +846,6 @@ Yearly
 </tr>
 <tr><td align="left" >
 You are logged in!
-</td>
-</tr>
-<tr><td align="left" >
-Your :invoiceName invoice is now available!
 </td>
 </tr>
 <tr><td align="left" >

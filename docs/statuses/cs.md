@@ -4,7 +4,7 @@ editLink: false
 
 # cs
 
-##### All missed: 162
+##### All missed: 140
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/cs/validation-inline.php)
@@ -125,13 +125,9 @@ The :attribute field must contain entries for: :values.
 
 ### [cs](https://github.com/Laravel-Lang/lang/blob/main/locales/cs/cs.json)
 
-##### Missing: 148
+##### Missing: 126
 
 <table >
-<tr><td align="left" >
-A fresh verification link has been sent to your email address.
-</td>
-</tr>
 <tr><td align="left" >
 Angola
 </td>
@@ -182,14 +178,6 @@ Burkina Faso
 </tr>
 <tr><td align="left" >
 Burundi
-</td>
-</tr>
-<tr><td align="left" >
-Cancel Subscription
-</td>
-</tr>
-<tr><td align="left" >
-Change Subscription Plan
 </td>
 </tr>
 <tr><td align="left" >
@@ -410,14 +398,6 @@ Peru
 </td>
 </tr>
 <tr><td align="left" >
-Please accept the terms of service.
-</td>
-</tr>
-<tr><td align="left" >
-Please confirm your password before continuing.
-</td>
-</tr>
-<tr><td align="left" >
 Please provide a maximum of three receipt emails addresses.
 </td>
 </tr>
@@ -486,10 +466,6 @@ Sierra Leone
 </td>
 </tr>
 <tr><td align="left" >
-Signed in as
-</td>
-</tr>
-<tr><td align="left" >
 South Georgia and the South Sandwich Islands
 </td>
 </tr>
@@ -530,47 +506,7 @@ Thanks,
 </td>
 </tr>
 <tr><td align="left" >
-The :attribute must contain at least one letter.
-</td>
-</tr>
-<tr><td align="left" >
-The :attribute must contain at least one number.
-</td>
-</tr>
-<tr><td align="left" >
-The :attribute must contain at least one symbol.
-</td>
-</tr>
-<tr><td align="left" >
-The :attribute must contain at least one uppercase and one lowercase letter.
-</td>
-</tr>
-<tr><td align="left" >
-The given :attribute has appeared in a data leak. Please choose a different :attribute.
-</td>
-</tr>
-<tr><td align="left" >
-The password is incorrect.
-</td>
-</tr>
-<tr><td align="left" >
-The provided coupon code is invalid.
-</td>
-</tr>
-<tr><td align="left" >
-The provided VAT number is invalid.
-</td>
-</tr>
-<tr><td align="left" >
 The receipt emails must be valid email addresses.
-</td>
-</tr>
-<tr><td align="left" >
-The selected country is invalid.
-</td>
-</tr>
-<tr><td align="left" >
-The selected plan is invalid.
 </td>
 </tr>
 <tr><td align="left" >
@@ -579,10 +515,6 @@ There is no active subscription.
 </tr>
 <tr><td align="left" >
 This account does not have an active subscription.
-</td>
-</tr>
-<tr><td align="left" >
-This coupon code can only be used by new customers.
 </td>
 </tr>
 <tr><td align="left" >
@@ -642,19 +574,11 @@ Vanuatu
 </td>
 </tr>
 <tr><td align="left" >
-VAT Number
-</td>
-</tr>
-<tr><td align="left" >
 Venezuela
 </td>
 </tr>
 <tr><td align="left" >
 Venezuela, Bolivarian Republic of
-</td>
-</tr>
-<tr><td align="left" >
-Verify Your Email Address
 </td>
 </tr>
 <tr><td align="left" >
@@ -674,15 +598,7 @@ We will send a receipt download link to the email addresses that you specify bel
 </td>
 </tr>
 <tr><td align="left" >
-You are already subscribed.
-</td>
-</tr>
-<tr><td align="left" >
 You are currently within your free trial period. Your trial will expire on :date.
-</td>
-</tr>
-<tr><td align="left" >
-You are logged in!
 </td>
 </tr>
 <tr><td align="left" >
@@ -715,10 +631,6 @@ Your registered VAT Number is :vatNumber.
 </tr>
 <tr><td align="left" >
 Zimbabwe
-</td>
-</tr>
-<tr><td align="left" >
-Zip / Postal Code
 </td>
 </tr>
 

@@ -578,7 +578,7 @@
     "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": ":attribute musí mít nejméně :length znaků a musí obsahovat alespoň jeden velký znak, jedno číslo a jeden speciální znak.",
     "The :attribute must be at least :length characters and contain at least one uppercase character.": ":attribute musí mít nejméně :length znaků a musí obsahovat alespoň jedno velké písmeno.",
     "The :attribute must be at least :length characters.": ":attribute musí mít nejméně :length znaků.",
-    "The :attribute must contain at least one letter.": ":attribute musí obsahovat alespoň jedno písmeno.",
+    "The :attribute must contain at least one letter.": ":Attribute musí obsahovat alespoň jedno písmeno.",
     "The :attribute must contain at least one number.": ":attribute musí obsahovat alespoň jedno číslo.",
     "The :attribute must contain at least one symbol.": ":attribute musí obsahovat alespoň jeden speciální znak.",
     "The :attribute must contain at least one uppercase and one lowercase letter.": ":attribute musí obsahovat alespoň jedno velké a jedno malé písmeno.",

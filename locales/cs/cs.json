@@ -580,7 +580,7 @@
     "The :attribute must be at least :length characters.": ":attribute musí mít nejméně :length znaků.",
     "The :attribute must contain at least one letter.": ":Attribute musí obsahovat alespoň jedno písmeno.",
     "The :attribute must contain at least one number.": ":Attribute musí obsahovat alespoň jedno číslo.",
-    "The :attribute must contain at least one symbol.": ":attribute musí obsahovat alespoň jeden speciální znak.",
+    "The :attribute must contain at least one symbol.": ":Attribute musí obsahovat alespoň jeden speciální znak.",
     "The :attribute must contain at least one uppercase and one lowercase letter.": ":attribute musí obsahovat alespoň jedno velké a jedno malé písmeno.",
     "The :resource was created!": ":resource byl vytvořen!",
     "The :resource was deleted!": ":resource byl smazán!",

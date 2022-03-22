@@ -588,7 +588,7 @@
     "The :resource was updated!": ":resource byl aktualizován!",
     "The action ran successfully!": "Akce proběhla úspěšně!",
     "The file was deleted!": "Soubor byl smazán!",
-    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": ":attribute se objevilo při úniku dat. Vyberte prosím jiné :attribute.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": ":Attribute se objevilo při úniku dat. Vyberte prosím jiné :attribute.",
     "The government won't let us show you what's behind these doors": "Vláda nám nedovolí ukázat vám, co je za těmito dveřmi",
     "The HasOne relationship has already been filled.": "Vztah HasOne již byl naplněn.",
     "The password is incorrect.": "Nesprávné heslo",

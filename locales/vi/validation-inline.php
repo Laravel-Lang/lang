@@ -107,7 +107,7 @@ return [
     'prohibits'            => 'Trường này cấm :other từ thời điểm hiện tại.',
     'regex'                => 'Trường này có định dạng không hợp lệ.',
     'required'             => 'Trường này không được bỏ trống.',
-    'required_array_keys'  => 'This field must contain entries for: :values.',
+    'required_array_keys'  => 'Trường này phải bao gồm các mục nhập cho: :values.',
     'required_if'          => 'Trường này không được bỏ trống khi trường :other là :value.',
     'required_unless'      => 'Trường này không được bỏ trống trừ khi :other là :values.',
     'required_with'        => 'Trường này không được bỏ trống khi một trong :values có giá trị.',

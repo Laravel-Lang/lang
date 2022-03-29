@@ -112,7 +112,7 @@ editLink: false
 </td>
 <td align="center" width="17%">
 
-[fr&nbsp;❗](statuses/fr.md)
+[fr&nbsp;✔](statuses/fr.md)
 
 </td>
 <td align="center" width="17%">
@@ -391,7 +391,7 @@ editLink: false
 </td>
 <td align="center" width="17%">
 
-[vi&nbsp;❗](statuses/vi.md)
+[vi&nbsp;✔](statuses/vi.md)
 
 </td>
 <td align="center" width="17%">

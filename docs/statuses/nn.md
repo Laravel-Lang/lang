@@ -4,7 +4,7 @@ editLink: false
 
 # nn
 
-##### All missed: 753
+##### All missed: 756
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/nn/auth.php)
@@ -833,7 +833,7 @@ The :attribute field must contain entries for: :values.
 
 ### [nn](https://github.com/Laravel-Lang/lang/blob/main/locales/nn/nn.json)
 
-##### Missing: 643
+##### Missing: 646
 
 <table >
 <tr><td align="left" >
@@ -1654,6 +1654,10 @@ February
 </tr>
 <tr><td align="left" >
 Fiji
+</td>
+</tr>
+<tr><td align="left" >
+Finish enabling two factor authentication.
 </td>
 </tr>
 <tr><td align="left" >
@@ -2670,6 +2674,10 @@ Serbia
 </td>
 </tr>
 <tr><td align="left" >
+Setup Key
+</td>
+</tr>
+<tr><td align="left" >
 Seychelles
 </td>
 </tr>
@@ -3090,6 +3098,10 @@ to
 </td>
 </tr>
 <tr><td align="left" >
+To finish enabling two factor authentication, scan the following QR code using your phone's authenticator application or enter the setup key and provide the generated OTP code.
+</td>
+</tr>
+<tr><td align="left" >
 Today
 </td>
 </tr>
@@ -3150,7 +3162,7 @@ Two Factor Authentication
 </td>
 </tr>
 <tr><td align="left" >
-Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
+Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application or enter the setup key.
 </td>
 </tr>
 <tr><td align="left" >

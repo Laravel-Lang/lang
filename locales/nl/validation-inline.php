@@ -107,7 +107,7 @@ return [
     'prohibits'            => 'Dit veld verbiedt de aanwezigheid van :other.',
     'regex'                => 'Dit formaat is ongeldig.',
     'required'             => 'Dit veld is verplicht.',
-    'required_array_keys'  => 'This field must contain entries for: :values.',
+    'required_array_keys'  => 'Dit veld moet waardes bevatten voor :values.',
     'required_if'          => 'Dit veld is verplicht indien :other gelijk is aan :value.',
     'required_unless'      => 'Dit veld is verplicht tenzij :other gelijk is aan :values.',
     'required_with'        => 'Dit veld is verplicht i.c.m. :values',

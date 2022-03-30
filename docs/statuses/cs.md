@@ -4,7 +4,7 @@ editLink: false
 
 # cs
 
-##### All missed: 140
+##### All missed: 144
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/cs/validation-inline.php)
@@ -125,7 +125,7 @@ The :attribute field must contain entries for: :values.
 
 ### [cs](https://github.com/Laravel-Lang/lang/blob/main/locales/cs/cs.json)
 
-##### Missing: 126
+##### Missing: 130
 
 <table >
 <tr><td align="left" >
@@ -210,6 +210,10 @@ Eritrea
 </tr>
 <tr><td align="left" >
 Failed to load :resource!
+</td>
+</tr>
+<tr><td align="left" >
+Finish enabling two factor authentication.
 </td>
 </tr>
 <tr><td align="left" >
@@ -462,6 +466,10 @@ Senegal
 </td>
 </tr>
 <tr><td align="left" >
+Setup Key
+</td>
+</tr>
+<tr><td align="left" >
 Sierra Leone
 </td>
 </tr>
@@ -530,6 +538,10 @@ Timor-Leste
 </td>
 </tr>
 <tr><td align="left" >
+To finish enabling two factor authentication, scan the following QR code using your phone's authenticator application or enter the setup key and provide the generated OTP code.
+</td>
+</tr>
+<tr><td align="left" >
 Togo
 </td>
 </tr>
@@ -547,6 +559,10 @@ Turks and Caicos Islands
 </tr>
 <tr><td align="left" >
 Tuvalu
+</td>
+</tr>
+<tr><td align="left" >
+Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application or enter the setup key.
 </td>
 </tr>
 <tr><td align="left" >

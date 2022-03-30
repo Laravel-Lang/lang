@@ -4,7 +4,7 @@ editLink: false
 
 # uz_Cyrl
 
-##### All missed: 246
+##### All missed: 250
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/uz_Cyrl/auth.php)
@@ -337,7 +337,7 @@ The :attribute field must contain entries for: :values.
 
 ### [uz_Cyrl](https://github.com/Laravel-Lang/lang/blob/main/locales/uz_Cyrl/uz_Cyrl.json)
 
-##### Missing: 203
+##### Missing: 207
 
 <table >
 <tr><td align="left" >
@@ -554,6 +554,10 @@ Extra Billing Information
 </tr>
 <tr><td align="left" >
 Failed to load :resource!
+</td>
+</tr>
+<tr><td align="left" >
+Finish enabling two factor authentication.
 </td>
 </tr>
 <tr><td align="left" >
@@ -874,6 +878,10 @@ Senegal
 </td>
 </tr>
 <tr><td align="left" >
+Setup Key
+</td>
+</tr>
+<tr><td align="left" >
 Seychelles
 </td>
 </tr>
@@ -1010,6 +1018,10 @@ Timor-Leste
 </td>
 </tr>
 <tr><td align="left" >
+To finish enabling two factor authentication, scan the following QR code using your phone's authenticator application or enter the setup key and provide the generated OTP code.
+</td>
+</tr>
+<tr><td align="left" >
 Togo
 </td>
 </tr>
@@ -1035,6 +1047,10 @@ Turks and Caicos Islands
 </tr>
 <tr><td align="left" >
 Tuvalu
+</td>
+</tr>
+<tr><td align="left" >
+Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application or enter the setup key.
 </td>
 </tr>
 <tr><td align="left" >

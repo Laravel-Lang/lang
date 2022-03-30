@@ -4,7 +4,7 @@ editLink: false
 
 # lt
 
-##### All missed: 170
+##### All missed: 174
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/lt/validation-inline.php)
@@ -139,7 +139,7 @@ The :attribute field must contain entries for: :values.
 
 ### [lt](https://github.com/Laravel-Lang/lang/blob/main/locales/lt/lt.json)
 
-##### Missing: 154
+##### Missing: 158
 
 <table >
 <tr><td align="left" >
@@ -280,6 +280,10 @@ Extra Billing Information
 </tr>
 <tr><td align="left" >
 Failed to load :resource!
+</td>
+</tr>
+<tr><td align="left" >
+Finish enabling two factor authentication.
 </td>
 </tr>
 <tr><td align="left" >
@@ -512,6 +516,10 @@ Select All Matching
 </td>
 </tr>
 <tr><td align="left" >
+Setup Key
+</td>
+</tr>
+<tr><td align="left" >
 Signed in as
 </td>
 </tr>
@@ -624,6 +632,10 @@ This subscription has expired and cannot be resumed. Please create a new subscri
 </td>
 </tr>
 <tr><td align="left" >
+To finish enabling two factor authentication, scan the following QR code using your phone's authenticator application or enter the setup key and provide the generated OTP code.
+</td>
+</tr>
+<tr><td align="left" >
 Tokelau
 </td>
 </tr>
@@ -645,6 +657,10 @@ Turks and Caicos Islands
 </tr>
 <tr><td align="left" >
 Tuvalu
+</td>
+</tr>
+<tr><td align="left" >
+Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application or enter the setup key.
 </td>
 </tr>
 <tr><td align="left" >

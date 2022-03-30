@@ -4,7 +4,7 @@ editLink: false
 
 # ka
 
-##### All missed: 99
+##### All missed: 103
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/ka/validation-inline.php)
@@ -97,7 +97,7 @@ The :attribute field must contain entries for: :values.
 
 ### [ka](https://github.com/Laravel-Lang/lang/blob/main/locales/ka/ka.json)
 
-##### Missing: 89
+##### Missing: 93
 
 <table >
 <tr><td align="left" >
@@ -142,6 +142,10 @@ Extra Billing Information
 </tr>
 <tr><td align="left" >
 Failed to load :resource!
+</td>
+</tr>
+<tr><td align="left" >
+Finish enabling two factor authentication.
 </td>
 </tr>
 <tr><td align="left" >
@@ -281,6 +285,10 @@ Select a different plan
 </td>
 </tr>
 <tr><td align="left" >
+Setup Key
+</td>
+</tr>
+<tr><td align="left" >
 Signed in as
 </td>
 </tr>
@@ -374,6 +382,14 @@ This subscription cannot be resumed. Please create a new subscription.
 </tr>
 <tr><td align="left" >
 This subscription has expired and cannot be resumed. Please create a new subscription.
+</td>
+</tr>
+<tr><td align="left" >
+To finish enabling two factor authentication, scan the following QR code using your phone's authenticator application or enter the setup key and provide the generated OTP code.
+</td>
+</tr>
+<tr><td align="left" >
+Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application or enter the setup key.
 </td>
 </tr>
 <tr><td align="left" >

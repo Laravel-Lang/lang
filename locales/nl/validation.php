@@ -34,7 +34,7 @@ return [
     'current_password'     => 'Huidig wachtwoord is onjuist.',
     'date'                 => ':Attribute moet een datum bevatten.',
     'date_equals'          => ':Attribute moet een datum gelijk aan :date zijn.',
-    'date_format'          => ':Attribute moet een geldig datumformaat bevatten.',
+    'date_format'          => ':Attribute voldoet niet aan het formaat :format.',
     'declined'             => ':Attribute moet afgewezen worden.',
     'declined_if'          => ':Attribute moet afgewezen worden wanneer :other gelijk is aan :value.',
     'different'            => ':Attribute en :other moeten verschillend zijn.',
@@ -44,7 +44,7 @@ return [
     'distinct'             => ':Attribute heeft een dubbele waarde.',
     'email'                => ':Attribute is geen geldig e-mailadres.',
     'ends_with'            => ':Attribute moet met één van de volgende waarden eindigen: :values.',
-    'enum'                 => 'De geselecteerde :attribute is ongeldig.',
+    'enum'                 => 'Gekozen :attribute is ongeldig.',
     'exists'               => ':Attribute bestaat niet.',
     'file'                 => ':Attribute moet een bestand zijn.',
     'filled'               => ':Attribute is verplicht.',
@@ -127,7 +127,7 @@ return [
     'unique'               => ':Attribute is al in gebruik.',
     'uploaded'             => 'Het uploaden van :attribute is mislukt.',
     'url'                  => ':Attribute moet een geldige URL zijn.',
-    'uuid'                 => ':Attribute moet een geldig UUID zijn.',
+    'uuid'                 => ':Attribute moet een geldige UUID zijn.',
     'custom'               => [
         'attribute-name' => [
             'rule-name' => 'custom-message',

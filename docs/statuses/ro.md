@@ -4,7 +4,7 @@ editLink: false
 
 # ro
 
-##### All missed: 277
+##### All missed: 258
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/ro/validation-inline.php)
@@ -256,7 +256,7 @@ The string must be :size characters.
 
 ### [ro](https://github.com/Laravel-Lang/lang/blob/main/locales/ro/ro.json)
 
-##### Missing: 243
+##### Missing: 224
 
 <table >
 <tr><td align="left" >
@@ -717,10 +717,6 @@ Moldova
 </td>
 </tr>
 <tr><td align="left" >
-Moldova, Republic of
-</td>
-</tr>
-<tr><td align="left" >
 Monaco
 </td>
 </tr>
@@ -809,19 +805,7 @@ Paraguay
 </td>
 </tr>
 <tr><td align="left" >
-Payment Information
-</td>
-</tr>
-<tr><td align="left" >
-Payment Method
-</td>
-</tr>
-<tr><td align="left" >
 Peru
-</td>
-</tr>
-<tr><td align="left" >
-Please accept the terms of service.
 </td>
 </tr>
 <tr><td align="left" >
@@ -841,31 +825,11 @@ Qatar
 </td>
 </tr>
 <tr><td align="left" >
-Receipt Email Addresses
-</td>
-</tr>
-<tr><td align="left" >
-Receipts
-</td>
-</tr>
-<tr><td align="left" >
-Resume Subscription
-</td>
-</tr>
-<tr><td align="left" >
-Return to :appName
-</td>
-</tr>
-<tr><td align="left" >
 Romania
 </td>
 </tr>
 <tr><td align="left" >
 Rwanda
-</td>
-</tr>
-<tr><td align="left" >
-Réunion
 </td>
 </tr>
 <tr><td align="left" >
@@ -901,23 +865,11 @@ Sao Tome and Principe
 </td>
 </tr>
 <tr><td align="left" >
-Select
-</td>
-</tr>
-<tr><td align="left" >
-Select a different plan
-</td>
-</tr>
-<tr><td align="left" >
 Senegal
 </td>
 </tr>
 <tr><td align="left" >
 Serbia
-</td>
-</tr>
-<tr><td align="left" >
-Setup Key
 </td>
 </tr>
 <tr><td align="left" >
@@ -953,22 +905,6 @@ Standalone Actions
 </td>
 </tr>
 <tr><td align="left" >
-State / County
-</td>
-</tr>
-<tr><td align="left" >
-Subscribe
-</td>
-</tr>
-<tr><td align="left" >
-Subscription Information
-</td>
-</tr>
-<tr><td align="left" >
-Subscription Pending
-</td>
-</tr>
-<tr><td align="left" >
 Sudan
 </td>
 </tr>
@@ -981,15 +917,7 @@ Taiwan
 </td>
 </tr>
 <tr><td align="left" >
-Taiwan, Province of China
-</td>
-</tr>
-<tr><td align="left" >
 Tanzania
-</td>
-</tr>
-<tr><td align="left" >
-Tanzania, United Republic of
 </td>
 </tr>
 <tr><td align="left" >
@@ -1222,10 +1150,6 @@ Zambia
 </tr>
 <tr><td align="left" >
 Zimbabwe
-</td>
-</tr>
-<tr><td align="left" >
-Zip / Postal Code
 </td>
 </tr>
 <tr><td align="left" >

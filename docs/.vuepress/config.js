@@ -28,6 +28,7 @@ module.exports = {
         docsBranch: 'main',
         docsDir: 'docs',
 
+        contributors: false,
         editLink: true,
 
         navbar: [

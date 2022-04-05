@@ -4,7 +4,7 @@ editLink: false
 
 # ro
 
-##### All missed: 258
+##### All missed: 307
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/ro/validation-inline.php)
@@ -256,7 +256,7 @@ The string must be :size characters.
 
 ### [ro](https://github.com/Laravel-Lang/lang/blob/main/locales/ro/ro.json)
 
-##### Missing: 224
+##### Missing: 273
 
 <table >
 <tr><td align="left" >
@@ -296,6 +296,10 @@ Algeria
 </td>
 </tr>
 <tr><td align="left" >
+An error occurred while uploading the file.
+</td>
+</tr>
+<tr><td align="left" >
 An unexpected error occurred and we have notified our support team. Please try again later.
 </td>
 </tr>
@@ -321,6 +325,14 @@ Apply
 </tr>
 <tr><td align="left" >
 Apply Coupon
+</td>
+</tr>
+<tr><td align="left" >
+Are you sure you want to log out?
+</td>
+</tr>
+<tr><td align="left" >
+Are you sure you want to stop impersonating?
 </td>
 </tr>
 <tr><td align="left" >
@@ -412,6 +424,14 @@ Botswana
 </td>
 </tr>
 <tr><td align="left" >
+British Virgin Islands
+</td>
+</tr>
+<tr><td align="left" >
+Brunei
+</td>
+</tr>
+<tr><td align="left" >
 Bulgaria
 </td>
 </tr>
@@ -484,6 +504,10 @@ Currently Subscribed
 </td>
 </tr>
 <tr><td align="left" >
+Czechia
+</td>
+</tr>
+<tr><td align="left" >
 Côte d'Ivoire
 </td>
 </tr>
@@ -508,7 +532,15 @@ Email Addresses
 </td>
 </tr>
 <tr><td align="left" >
+Error
+</td>
+</tr>
+<tr><td align="left" >
 Estonia
+</td>
+</tr>
+<tr><td align="left" >
+Eswatini
 </td>
 </tr>
 <tr><td align="left" >
@@ -529,6 +561,10 @@ Fiji
 </tr>
 <tr><td align="left" >
 Finish enabling two factor authentication.
+</td>
+</tr>
+<tr><td align="left" >
+Forgot Password
 </td>
 </tr>
 <tr><td align="left" >
@@ -576,6 +612,10 @@ Haiti
 </td>
 </tr>
 <tr><td align="left" >
+Happened At
+</td>
+</tr>
+<tr><td align="left" >
 Have a coupon code?
 </td>
 </tr>
@@ -617,7 +657,19 @@ into your web browser:
 </td>
 </tr>
 <tr><td align="left" >
+Impersonate
+</td>
+</tr>
+<tr><td align="left" >
 India
+</td>
+</tr>
+<tr><td align="left" >
+Initiated By
+</td>
+</tr>
+<tr><td align="left" >
+Iran
 </td>
 </tr>
 <tr><td align="left" >
@@ -661,6 +713,10 @@ Kosovo
 </td>
 </tr>
 <tr><td align="left" >
+Laos
+</td>
+</tr>
+<tr><td align="left" >
 Lesotho
 </td>
 </tr>
@@ -669,7 +725,15 @@ Liberia
 </td>
 </tr>
 <tr><td align="left" >
+Libya
+</td>
+</tr>
+<tr><td align="left" >
 Liechtenstein
+</td>
+</tr>
+<tr><td align="left" >
+Log In
 </td>
 </tr>
 <tr><td align="left" >
@@ -706,6 +770,10 @@ Mauritius
 </tr>
 <tr><td align="left" >
 Mayotte
+</td>
+</tr>
+<tr><td align="left" >
+Micronesia
 </td>
 </tr>
 <tr><td align="left" >
@@ -777,6 +845,14 @@ Niue
 </td>
 </tr>
 <tr><td align="left" >
+North Korea
+</td>
+</tr>
+<tr><td align="left" >
+North Macedonia
+</td>
+</tr>
+<tr><td align="left" >
 Oman
 </td>
 </tr>
@@ -797,6 +873,10 @@ Palau
 </td>
 </tr>
 <tr><td align="left" >
+Palestinian Territories
+</td>
+</tr>
+<tr><td align="left" >
 Panama
 </td>
 </tr>
@@ -809,11 +889,19 @@ Peru
 </td>
 </tr>
 <tr><td align="left" >
+Pitcairn Islands
+</td>
+</tr>
+<tr><td align="left" >
 Please confirm your password before continuing.
 </td>
 </tr>
 <tr><td align="left" >
 Please provide a maximum of three receipt emails addresses.
+</td>
+</tr>
+<tr><td align="left" >
+Previewing
 </td>
 </tr>
 <tr><td align="left" >
@@ -825,7 +913,19 @@ Qatar
 </td>
 </tr>
 <tr><td align="left" >
+Replicate
+</td>
+</tr>
+<tr><td align="left" >
+Resource Row Dropdown
+</td>
+</tr>
+<tr><td align="left" >
 Romania
+</td>
+</tr>
+<tr><td align="left" >
+Russia
 </td>
 </tr>
 <tr><td align="left" >
@@ -885,6 +985,10 @@ Singapore
 </td>
 </tr>
 <tr><td align="left" >
+Sint Maarten
+</td>
+</tr>
+<tr><td align="left" >
 Slovenia
 </td>
 </tr>
@@ -893,7 +997,15 @@ Somalia
 </td>
 </tr>
 <tr><td align="left" >
+South Georgia and South Sandwich Islands
+</td>
+</tr>
+<tr><td align="left" >
 South Georgia and the South Sandwich Islands
+</td>
+</tr>
+<tr><td align="left" >
+South Korea
 </td>
 </tr>
 <tr><td align="left" >
@@ -901,7 +1013,43 @@ Sri Lanka
 </td>
 </tr>
 <tr><td align="left" >
+St. Barthélemy
+</td>
+</tr>
+<tr><td align="left" >
+St. Helena
+</td>
+</tr>
+<tr><td align="left" >
+St. Kitts and Nevis
+</td>
+</tr>
+<tr><td align="left" >
+St. Lucia
+</td>
+</tr>
+<tr><td align="left" >
+St. Martin
+</td>
+</tr>
+<tr><td align="left" >
+St. Pierre and Miquelon
+</td>
+</tr>
+<tr><td align="left" >
+St. Vincent and Grenadines
+</td>
+</tr>
+<tr><td align="left" >
 Standalone Actions
+</td>
+</tr>
+<tr><td align="left" >
+Status
+</td>
+</tr>
+<tr><td align="left" >
+Stop Impersonating
 </td>
 </tr>
 <tr><td align="left" >
@@ -913,11 +1061,23 @@ Svalbard and Jan Mayen
 </td>
 </tr>
 <tr><td align="left" >
+Syria
+</td>
+</tr>
+<tr><td align="left" >
+São Tomé and Príncipe
+</td>
+</tr>
+<tr><td align="left" >
 Taiwan
 </td>
 </tr>
 <tr><td align="left" >
 Tanzania
+</td>
+</tr>
+<tr><td align="left" >
+Target
 </td>
 </tr>
 <tr><td align="left" >
@@ -965,6 +1125,14 @@ The receipt emails must be valid email addresses.
 </td>
 </tr>
 <tr><td align="left" >
+The resource was attached!
+</td>
+</tr>
+<tr><td align="left" >
+The resource was prevented from being saved!
+</td>
+</tr>
+<tr><td align="left" >
 The selected country is invalid.
 </td>
 </tr>
@@ -973,11 +1141,19 @@ The selected plan is invalid.
 </td>
 </tr>
 <tr><td align="left" >
+There are no new notifications
+</td>
+</tr>
+<tr><td align="left" >
 There is no active subscription.
 </td>
 </tr>
 <tr><td align="left" >
 This account does not have an active subscription.
+</td>
+</tr>
+<tr><td align="left" >
+This copy of Nova is unlicensed.
 </td>
 </tr>
 <tr><td align="left" >
@@ -1037,6 +1213,14 @@ Two factor authentication is now enabled. Scan the following QR code using your 
 </td>
 </tr>
 <tr><td align="left" >
+U.S. Outlying Islands
+</td>
+</tr>
+<tr><td align="left" >
+U.S. Virgin Islands
+</td>
+</tr>
+<tr><td align="left" >
 Uganda
 </td>
 </tr>
@@ -1069,6 +1253,10 @@ VAT Number
 </td>
 </tr>
 <tr><td align="left" >
+Vatican City
+</td>
+</tr>
+<tr><td align="left" >
 Venezuela
 </td>
 </tr>
@@ -1078,6 +1266,10 @@ Venezuela, Bolivarian Republic of
 </tr>
 <tr><td align="left" >
 Verify Your Email Address
+</td>
+</tr>
+<tr><td align="left" >
+Vietnam
 </td>
 </tr>
 <tr><td align="left" >
@@ -1094,6 +1286,10 @@ We are processing your subscription. Once the subscription has successfully proc
 </tr>
 <tr><td align="left" >
 We are unable to process your payment. Please contact customer support.
+</td>
+</tr>
+<tr><td align="left" >
+We have emailed your password reset link!
 </td>
 </tr>
 <tr><td align="left" >

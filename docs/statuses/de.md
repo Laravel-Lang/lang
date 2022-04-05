@@ -4,12 +4,12 @@ editLink: false
 
 # de
 
-##### All missed: 49
+##### All missed: 24
 
 
 ### [de](https://github.com/Laravel-Lang/lang/blob/main/locales/de/de.json)
 
-##### Missing: 49
+##### Missing: 24
 
 <table >
 <tr><td align="left" >
@@ -29,91 +29,11 @@ British Virgin Islands
 </td>
 </tr>
 <tr><td align="left" >
-Brunei
-</td>
-</tr>
-<tr><td align="left" >
-Czechia
-</td>
-</tr>
-<tr><td align="left" >
-Error
-</td>
-</tr>
-<tr><td align="left" >
-Eswatini
-</td>
-</tr>
-<tr><td align="left" >
-Forgot Password
-</td>
-</tr>
-<tr><td align="left" >
-Happened At
-</td>
-</tr>
-<tr><td align="left" >
-Impersonate
-</td>
-</tr>
-<tr><td align="left" >
-Initiated By
-</td>
-</tr>
-<tr><td align="left" >
-Iran
-</td>
-</tr>
-<tr><td align="left" >
-Laos
-</td>
-</tr>
-<tr><td align="left" >
-Libya
-</td>
-</tr>
-<tr><td align="left" >
-Log In
-</td>
-</tr>
-<tr><td align="left" >
-Micronesia
-</td>
-</tr>
-<tr><td align="left" >
-North Korea
-</td>
-</tr>
-<tr><td align="left" >
-North Macedonia
-</td>
-</tr>
-<tr><td align="left" >
 Palestinian Territories
 </td>
 </tr>
 <tr><td align="left" >
-Pitcairn Islands
-</td>
-</tr>
-<tr><td align="left" >
-Previewing
-</td>
-</tr>
-<tr><td align="left" >
-Replicate
-</td>
-</tr>
-<tr><td align="left" >
 Resource Row Dropdown
-</td>
-</tr>
-<tr><td align="left" >
-Russia
-</td>
-</tr>
-<tr><td align="left" >
-Sint Maarten
 </td>
 </tr>
 <tr><td align="left" >
@@ -161,10 +81,6 @@ Stop Impersonating
 </td>
 </tr>
 <tr><td align="left" >
-Syria
-</td>
-</tr>
-<tr><td align="left" >
 São Tomé and Príncipe
 </td>
 </tr>
@@ -181,10 +97,6 @@ The resource was prevented from being saved!
 </td>
 </tr>
 <tr><td align="left" >
-There are no new notifications
-</td>
-</tr>
-<tr><td align="left" >
 This copy of Nova is unlicensed.
 </td>
 </tr>
@@ -194,18 +106,6 @@ U.S. Outlying Islands
 </tr>
 <tr><td align="left" >
 U.S. Virgin Islands
-</td>
-</tr>
-<tr><td align="left" >
-Vatican City
-</td>
-</tr>
-<tr><td align="left" >
-Vietnam
-</td>
-</tr>
-<tr><td align="left" >
-We have emailed your password reset link!
 </td>
 </tr>
 

@@ -4,7 +4,7 @@ editLink: false
 
 # gl
 
-##### All missed: 314
+##### All missed: 281
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/gl/auth.php)
@@ -337,7 +337,7 @@ The :attribute field must contain entries for: :values.
 
 ### [gl](https://github.com/Laravel-Lang/lang/blob/main/locales/gl/gl.json)
 
-##### Missing: 271
+##### Missing: 238
 
 <table >
 <tr><td align="left" >
@@ -477,14 +477,6 @@ Bouvet Island
 </td>
 </tr>
 <tr><td align="left" >
-British Virgin Islands
-</td>
-</tr>
-<tr><td align="left" >
-Brunei
-</td>
-</tr>
-<tr><td align="left" >
 Bulgaria
 </td>
 </tr>
@@ -565,10 +557,6 @@ Currently Subscribed
 </td>
 </tr>
 <tr><td align="left" >
-Czechia
-</td>
-</tr>
-<tr><td align="left" >
 Côte d'Ivoire
 </td>
 </tr>
@@ -602,10 +590,6 @@ Error
 </tr>
 <tr><td align="left" >
 Estonia
-</td>
-</tr>
-<tr><td align="left" >
-Eswatini
 </td>
 </tr>
 <tr><td align="left" >
@@ -650,10 +634,6 @@ Guinea
 </tr>
 <tr><td align="left" >
 Guinea-Bissau
-</td>
-</tr>
-<tr><td align="left" >
-Happened At
 </td>
 </tr>
 <tr><td align="left" >
@@ -710,14 +690,6 @@ Indonesia
 </td>
 </tr>
 <tr><td align="left" >
-Initiated By
-</td>
-</tr>
-<tr><td align="left" >
-Iran
-</td>
-</tr>
-<tr><td align="left" >
 Iran, Islamic Republic of
 </td>
 </tr>
@@ -766,15 +738,7 @@ Kuwait
 </td>
 </tr>
 <tr><td align="left" >
-Laos
-</td>
-</tr>
-<tr><td align="left" >
 Liberia
-</td>
-</tr>
-<tr><td align="left" >
-Libya
 </td>
 </tr>
 <tr><td align="left" >
@@ -815,10 +779,6 @@ Mauritania
 </tr>
 <tr><td align="left" >
 Mayotte
-</td>
-</tr>
-<tr><td align="left" >
-Micronesia
 </td>
 </tr>
 <tr><td align="left" >
@@ -882,14 +842,6 @@ Niue
 </td>
 </tr>
 <tr><td align="left" >
-North Korea
-</td>
-</tr>
-<tr><td align="left" >
-North Macedonia
-</td>
-</tr>
-<tr><td align="left" >
 Northern Mariana Islands
 </td>
 </tr>
@@ -902,10 +854,6 @@ Palau
 </td>
 </tr>
 <tr><td align="left" >
-Palestinian Territories
-</td>
-</tr>
-<tr><td align="left" >
 Paraguay
 </td>
 </tr>
@@ -915,10 +863,6 @@ Payment Information
 </tr>
 <tr><td align="left" >
 Payment Method
-</td>
-</tr>
-<tr><td align="left" >
-Pitcairn Islands
 </td>
 </tr>
 <tr><td align="left" >
@@ -975,10 +919,6 @@ Resume Subscription
 </tr>
 <tr><td align="left" >
 Return to :appName
-</td>
-</tr>
-<tr><td align="left" >
-Russia
 </td>
 </tr>
 <tr><td align="left" >
@@ -1046,15 +986,7 @@ Signed in as
 </td>
 </tr>
 <tr><td align="left" >
-Sint Maarten
-</td>
-</tr>
-<tr><td align="left" >
 Somalia
-</td>
-</tr>
-<tr><td align="left" >
-South Georgia and South Sandwich Islands
 </td>
 </tr>
 <tr><td align="left" >
@@ -1062,39 +994,7 @@ South Georgia and the South Sandwich Islands
 </td>
 </tr>
 <tr><td align="left" >
-South Korea
-</td>
-</tr>
-<tr><td align="left" >
 Sri Lanka
-</td>
-</tr>
-<tr><td align="left" >
-St. Barthélemy
-</td>
-</tr>
-<tr><td align="left" >
-St. Helena
-</td>
-</tr>
-<tr><td align="left" >
-St. Kitts and Nevis
-</td>
-</tr>
-<tr><td align="left" >
-St. Lucia
-</td>
-</tr>
-<tr><td align="left" >
-St. Martin
-</td>
-</tr>
-<tr><td align="left" >
-St. Pierre and Miquelon
-</td>
-</tr>
-<tr><td align="left" >
-St. Vincent and Grenadines
 </td>
 </tr>
 <tr><td align="left" >
@@ -1103,10 +1003,6 @@ Standalone Actions
 </tr>
 <tr><td align="left" >
 State / County
-</td>
-</tr>
-<tr><td align="left" >
-Status
 </td>
 </tr>
 <tr><td align="left" >
@@ -1134,14 +1030,6 @@ Svalbard and Jan Mayen
 </td>
 </tr>
 <tr><td align="left" >
-Syria
-</td>
-</tr>
-<tr><td align="left" >
-São Tomé and Príncipe
-</td>
-</tr>
-<tr><td align="left" >
 Taiwan, Province of China
 </td>
 </tr>
@@ -1151,10 +1039,6 @@ Tanzania
 </tr>
 <tr><td align="left" >
 Tanzania, United Republic of
-</td>
-</tr>
-<tr><td align="left" >
-Target
 </td>
 </tr>
 <tr><td align="left" >
@@ -1290,14 +1174,6 @@ Two factor authentication is now enabled. Scan the following QR code using your 
 </td>
 </tr>
 <tr><td align="left" >
-U.S. Outlying Islands
-</td>
-</tr>
-<tr><td align="left" >
-U.S. Virgin Islands
-</td>
-</tr>
-<tr><td align="left" >
 Uganda
 </td>
 </tr>
@@ -1326,10 +1202,6 @@ VAT Number
 </td>
 </tr>
 <tr><td align="left" >
-Vatican City
-</td>
-</tr>
-<tr><td align="left" >
 Venezuela
 </td>
 </tr>
@@ -1339,10 +1211,6 @@ Venezuela, Bolivarian Republic of
 </tr>
 <tr><td align="left" >
 Verify Your Email Address
-</td>
-</tr>
-<tr><td align="left" >
-Vietnam
 </td>
 </tr>
 <tr><td align="left" >

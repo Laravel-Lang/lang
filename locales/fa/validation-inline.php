@@ -107,7 +107,7 @@ return [
     'prohibits'            => 'فیلد :other هنگام وجود این فیلد ممنوع است.',
     'regex'                => 'این فرمت نامعتبر است.',
     'required'             => 'این مقدار ضروری است.',
-    'required_array_keys'  => 'فیلد :attribute باید حاوی ورودی های :values باشد.',
+    'required_array_keys'  => 'این فیلد باید حاوی ورودی های :values باشد.',
     'required_if'          => 'این مقدار ضروری است وقتی که :other برابر :value است.',
     'required_unless'      => 'این مقدار ضروری است مگر اینکه :other برابر :values باشد.',
     'required_with'        => 'این مقدار ضروری است وقتی که :values وارد شده باشد.',

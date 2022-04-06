@@ -4,7 +4,7 @@ editLink: false
 
 # af
 
-##### All missed: 167
+##### All missed: 134
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/af/validation-inline.php)
@@ -139,7 +139,7 @@ The :attribute field must contain entries for: :values.
 
 ### [af](https://github.com/Laravel-Lang/lang/blob/main/locales/af/af.json)
 
-##### Missing: 151
+##### Missing: 118
 
 <table >
 <tr><td align="left" >
@@ -199,14 +199,6 @@ Billing Management
 </td>
 </tr>
 <tr><td align="left" >
-British Virgin Islands
-</td>
-</tr>
-<tr><td align="left" >
-Brunei
-</td>
-</tr>
-<tr><td align="left" >
 Cancel Subscription
 </td>
 </tr>
@@ -239,10 +231,6 @@ Currently Subscribed
 </td>
 </tr>
 <tr><td align="left" >
-Czechia
-</td>
-</tr>
-<tr><td align="left" >
 Download Receipt
 </td>
 </tr>
@@ -252,10 +240,6 @@ Email Addresses
 </tr>
 <tr><td align="left" >
 Error
-</td>
-</tr>
-<tr><td align="left" >
-Eswatini
 </td>
 </tr>
 <tr><td align="left" >
@@ -276,10 +260,6 @@ Finish enabling two factor authentication.
 </tr>
 <tr><td align="left" >
 Forgot Password
-</td>
-</tr>
-<tr><td align="left" >
-Happened At
 </td>
 </tr>
 <tr><td align="left" >
@@ -312,14 +292,6 @@ Impersonate
 </td>
 </tr>
 <tr><td align="left" >
-Initiated By
-</td>
-</tr>
-<tr><td align="left" >
-Iran
-</td>
-</tr>
-<tr><td align="left" >
 It looks like you do not have an active subscription. You may choose one of the subscription plans below to get started. Subscription plans may be changed or cancelled at your convenience.
 </td>
 </tr>
@@ -328,23 +300,11 @@ Jane Doe
 </td>
 </tr>
 <tr><td align="left" >
-Laos
-</td>
-</tr>
-<tr><td align="left" >
-Libya
-</td>
-</tr>
-<tr><td align="left" >
 Log In
 </td>
 </tr>
 <tr><td align="left" >
 Managing billing for :billableName
-</td>
-</tr>
-<tr><td align="left" >
-Micronesia
 </td>
 </tr>
 <tr><td align="left" >
@@ -368,19 +328,7 @@ Nevermind, I'll keep my old plan
 </td>
 </tr>
 <tr><td align="left" >
-North Korea
-</td>
-</tr>
-<tr><td align="left" >
-North Macedonia
-</td>
-</tr>
-<tr><td align="left" >
 Our billing management portal allows you to conveniently manage your subscription plan, payment method, and download your recent invoices.
-</td>
-</tr>
-<tr><td align="left" >
-Palestinian Territories
 </td>
 </tr>
 <tr><td align="left" >
@@ -389,10 +337,6 @@ Payment Information
 </tr>
 <tr><td align="left" >
 Payment Method
-</td>
-</tr>
-<tr><td align="left" >
-Pitcairn Islands
 </td>
 </tr>
 <tr><td align="left" >
@@ -436,10 +380,6 @@ Return to :appName
 </td>
 </tr>
 <tr><td align="left" >
-Russia
-</td>
-</tr>
-<tr><td align="left" >
 Select
 </td>
 </tr>
@@ -456,55 +396,11 @@ Signed in as
 </td>
 </tr>
 <tr><td align="left" >
-Sint Maarten
-</td>
-</tr>
-<tr><td align="left" >
-South Georgia and South Sandwich Islands
-</td>
-</tr>
-<tr><td align="left" >
-South Korea
-</td>
-</tr>
-<tr><td align="left" >
-St. Barthélemy
-</td>
-</tr>
-<tr><td align="left" >
-St. Helena
-</td>
-</tr>
-<tr><td align="left" >
-St. Kitts and Nevis
-</td>
-</tr>
-<tr><td align="left" >
-St. Lucia
-</td>
-</tr>
-<tr><td align="left" >
-St. Martin
-</td>
-</tr>
-<tr><td align="left" >
-St. Pierre and Miquelon
-</td>
-</tr>
-<tr><td align="left" >
-St. Vincent and Grenadines
-</td>
-</tr>
-<tr><td align="left" >
 Standalone Actions
 </td>
 </tr>
 <tr><td align="left" >
 State / County
-</td>
-</tr>
-<tr><td align="left" >
-Status
 </td>
 </tr>
 <tr><td align="left" >
@@ -525,18 +421,6 @@ Subscription Pending
 </tr>
 <tr><td align="left" >
 Svalbard and Jan Mayen
-</td>
-</tr>
-<tr><td align="left" >
-Syria
-</td>
-</tr>
-<tr><td align="left" >
-São Tomé and Príncipe
-</td>
-</tr>
-<tr><td align="left" >
-Target
 </td>
 </tr>
 <tr><td align="left" >
@@ -644,14 +528,6 @@ Two factor authentication is now enabled. Scan the following QR code using your 
 </td>
 </tr>
 <tr><td align="left" >
-U.S. Outlying Islands
-</td>
-</tr>
-<tr><td align="left" >
-U.S. Virgin Islands
-</td>
-</tr>
-<tr><td align="left" >
 Update Payment Information
 </td>
 </tr>
@@ -664,15 +540,7 @@ VAT Number
 </td>
 </tr>
 <tr><td align="left" >
-Vatican City
-</td>
-</tr>
-<tr><td align="left" >
 Verify Your Email Address
-</td>
-</tr>
-<tr><td align="left" >
-Vietnam
 </td>
 </tr>
 <tr><td align="left" >

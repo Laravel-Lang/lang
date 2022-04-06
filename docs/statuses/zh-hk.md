@@ -4,7 +4,7 @@ editLink: false
 
 # zh_HK
 
-##### All missed: 192
+##### All missed: 159
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/zh_HK/validation-inline.php)
@@ -139,7 +139,7 @@ The :attribute field must contain entries for: :values.
 
 ### [zh_HK](https://github.com/Laravel-Lang/lang/blob/main/locales/zh_HK/zh_HK.json)
 
-##### Missing: 176
+##### Missing: 143
 
 <table >
 <tr><td align="left" >
@@ -211,14 +211,6 @@ Bosnia and Herzegovina
 </td>
 </tr>
 <tr><td align="left" >
-British Virgin Islands
-</td>
-</tr>
-<tr><td align="left" >
-Brunei
-</td>
-</tr>
-<tr><td align="left" >
 Cancel Subscription
 </td>
 </tr>
@@ -255,10 +247,6 @@ Currently Subscribed
 </td>
 </tr>
 <tr><td align="left" >
-Czechia
-</td>
-</tr>
-<tr><td align="left" >
 Côte d'Ivoire
 </td>
 </tr>
@@ -272,10 +260,6 @@ Email Addresses
 </tr>
 <tr><td align="left" >
 Error
-</td>
-</tr>
-<tr><td align="left" >
-Eswatini
 </td>
 </tr>
 <tr><td align="left" >
@@ -296,10 +280,6 @@ Finish enabling two factor authentication.
 </tr>
 <tr><td align="left" >
 Forgot Password
-</td>
-</tr>
-<tr><td align="left" >
-Happened At
 </td>
 </tr>
 <tr><td align="left" >
@@ -336,14 +316,6 @@ Impersonate
 </td>
 </tr>
 <tr><td align="left" >
-Initiated By
-</td>
-</tr>
-<tr><td align="left" >
-Iran
-</td>
-</tr>
-<tr><td align="left" >
 Iran, Islamic Republic of
 </td>
 </tr>
@@ -364,14 +336,6 @@ Korea, Republic of
 </td>
 </tr>
 <tr><td align="left" >
-Laos
-</td>
-</tr>
-<tr><td align="left" >
-Libya
-</td>
-</tr>
-<tr><td align="left" >
 Log In
 </td>
 </tr>
@@ -381,10 +345,6 @@ Macedonia, the former Yugoslav Republic of
 </tr>
 <tr><td align="left" >
 Managing billing for :billableName
-</td>
-</tr>
-<tr><td align="left" >
-Micronesia
 </td>
 </tr>
 <tr><td align="left" >
@@ -412,19 +372,7 @@ Nevermind, I'll keep my old plan
 </td>
 </tr>
 <tr><td align="left" >
-North Korea
-</td>
-</tr>
-<tr><td align="left" >
-North Macedonia
-</td>
-</tr>
-<tr><td align="left" >
 Our billing management portal allows you to conveniently manage your subscription plan, payment method, and download your recent invoices.
-</td>
-</tr>
-<tr><td align="left" >
-Palestinian Territories
 </td>
 </tr>
 <tr><td align="left" >
@@ -433,10 +381,6 @@ Payment Information
 </tr>
 <tr><td align="left" >
 Payment Method
-</td>
-</tr>
-<tr><td align="left" >
-Pitcairn Islands
 </td>
 </tr>
 <tr><td align="left" >
@@ -477,10 +421,6 @@ Resume Subscription
 </tr>
 <tr><td align="left" >
 Return to :appName
-</td>
-</tr>
-<tr><td align="left" >
-Russia
 </td>
 </tr>
 <tr><td align="left" >
@@ -528,47 +468,7 @@ Signed in as
 </td>
 </tr>
 <tr><td align="left" >
-Sint Maarten
-</td>
-</tr>
-<tr><td align="left" >
-South Georgia and South Sandwich Islands
-</td>
-</tr>
-<tr><td align="left" >
 South Georgia and the South Sandwich Islands
-</td>
-</tr>
-<tr><td align="left" >
-South Korea
-</td>
-</tr>
-<tr><td align="left" >
-St. Barthélemy
-</td>
-</tr>
-<tr><td align="left" >
-St. Helena
-</td>
-</tr>
-<tr><td align="left" >
-St. Kitts and Nevis
-</td>
-</tr>
-<tr><td align="left" >
-St. Lucia
-</td>
-</tr>
-<tr><td align="left" >
-St. Martin
-</td>
-</tr>
-<tr><td align="left" >
-St. Pierre and Miquelon
-</td>
-</tr>
-<tr><td align="left" >
-St. Vincent and Grenadines
 </td>
 </tr>
 <tr><td align="left" >
@@ -577,10 +477,6 @@ Standalone Actions
 </tr>
 <tr><td align="left" >
 State / County
-</td>
-</tr>
-<tr><td align="left" >
-Status
 </td>
 </tr>
 <tr><td align="left" >
@@ -604,23 +500,11 @@ Svalbard and Jan Mayen
 </td>
 </tr>
 <tr><td align="left" >
-Syria
-</td>
-</tr>
-<tr><td align="left" >
-São Tomé and Príncipe
-</td>
-</tr>
-<tr><td align="left" >
 Taiwan, Province of China
 </td>
 </tr>
 <tr><td align="left" >
 Tanzania, United Republic of
-</td>
-</tr>
-<tr><td align="left" >
-Target
 </td>
 </tr>
 <tr><td align="left" >
@@ -732,14 +616,6 @@ Two factor authentication is now enabled. Scan the following QR code using your 
 </td>
 </tr>
 <tr><td align="left" >
-U.S. Outlying Islands
-</td>
-</tr>
-<tr><td align="left" >
-U.S. Virgin Islands
-</td>
-</tr>
-<tr><td align="left" >
 United States Minor Outlying Islands
 </td>
 </tr>
@@ -756,19 +632,11 @@ VAT Number
 </td>
 </tr>
 <tr><td align="left" >
-Vatican City
-</td>
-</tr>
-<tr><td align="left" >
 Venezuela, Bolivarian Republic of
 </td>
 </tr>
 <tr><td align="left" >
 Verify Your Email Address
-</td>
-</tr>
-<tr><td align="left" >
-Vietnam
 </td>
 </tr>
 <tr><td align="left" >

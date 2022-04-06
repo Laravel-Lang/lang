@@ -4,7 +4,7 @@ editLink: false
 
 # fa
 
-##### All missed: 173
+##### All missed: 140
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/fa/validation-inline.php)
@@ -90,7 +90,7 @@ The :attribute field must contain entries for: :values.
 
 ### [fa](https://github.com/Laravel-Lang/lang/blob/main/locales/fa/fa.json)
 
-##### Missing: 164
+##### Missing: 131
 
 <table >
 <tr><td align="left" >
@@ -114,14 +114,6 @@ Before proceeding, please check your email for a verification link.
 </td>
 </tr>
 <tr><td align="left" >
-British Virgin Islands
-</td>
-</tr>
-<tr><td align="left" >
-Brunei
-</td>
-</tr>
-<tr><td align="left" >
 click here to request another
 </td>
 </tr>
@@ -130,15 +122,7 @@ Currently Subscribed
 </td>
 </tr>
 <tr><td align="left" >
-Czechia
-</td>
-</tr>
-<tr><td align="left" >
 Error
-</td>
-</tr>
-<tr><td align="left" >
-Eswatini
 </td>
 </tr>
 <tr><td align="left" >
@@ -154,10 +138,6 @@ Forgot Password
 </td>
 </tr>
 <tr><td align="left" >
-Happened At
-</td>
-</tr>
-<tr><td align="left" >
 If you did not receive the email
 </td>
 </tr>
@@ -166,27 +146,7 @@ Impersonate
 </td>
 </tr>
 <tr><td align="left" >
-Initiated By
-</td>
-</tr>
-<tr><td align="left" >
-Iran
-</td>
-</tr>
-<tr><td align="left" >
-Laos
-</td>
-</tr>
-<tr><td align="left" >
-Libya
-</td>
-</tr>
-<tr><td align="left" >
 Log In
-</td>
-</tr>
-<tr><td align="left" >
-Micronesia
 </td>
 </tr>
 <tr><td align="left" >
@@ -226,14 +186,6 @@ No Prior Data
 </td>
 </tr>
 <tr><td align="left" >
-North Korea
-</td>
-</tr>
-<tr><td align="left" >
-North Macedonia
-</td>
-</tr>
-<tr><td align="left" >
 Nova User
 </td>
 </tr>
@@ -250,10 +202,6 @@ Palau
 </td>
 </tr>
 <tr><td align="left" >
-Palestinian Territories
-</td>
-</tr>
-<tr><td align="left" >
 Papua New Guinea
 </td>
 </tr>
@@ -263,10 +211,6 @@ Paraguay
 </tr>
 <tr><td align="left" >
 Peru
-</td>
-</tr>
-<tr><td align="left" >
-Pitcairn Islands
 </td>
 </tr>
 <tr><td align="left" >
@@ -323,10 +267,6 @@ Restore Selected
 </tr>
 <tr><td align="left" >
 Resume Subscription
-</td>
-</tr>
-<tr><td align="left" >
-Russia
 </td>
 </tr>
 <tr><td align="left" >
@@ -418,10 +358,6 @@ Sierra Leone
 </td>
 </tr>
 <tr><td align="left" >
-Sint Maarten
-</td>
-</tr>
-<tr><td align="left" >
 Slovakia
 </td>
 </tr>
@@ -450,15 +386,7 @@ South Africa
 </td>
 </tr>
 <tr><td align="left" >
-South Georgia and South Sandwich Islands
-</td>
-</tr>
-<tr><td align="left" >
 South Georgia and the South Sandwich Islands
-</td>
-</tr>
-<tr><td align="left" >
-South Korea
 </td>
 </tr>
 <tr><td align="left" >
@@ -470,43 +398,11 @@ Sri Lanka
 </td>
 </tr>
 <tr><td align="left" >
-St. Barthélemy
-</td>
-</tr>
-<tr><td align="left" >
-St. Helena
-</td>
-</tr>
-<tr><td align="left" >
-St. Kitts and Nevis
-</td>
-</tr>
-<tr><td align="left" >
-St. Lucia
-</td>
-</tr>
-<tr><td align="left" >
-St. Martin
-</td>
-</tr>
-<tr><td align="left" >
-St. Pierre and Miquelon
-</td>
-</tr>
-<tr><td align="left" >
-St. Vincent and Grenadines
-</td>
-</tr>
-<tr><td align="left" >
 Standalone Actions
 </td>
 </tr>
 <tr><td align="left" >
 State / County
-</td>
-</tr>
-<tr><td align="left" >
-Status
 </td>
 </tr>
 <tr><td align="left" >
@@ -542,14 +438,6 @@ Switzerland
 </td>
 </tr>
 <tr><td align="left" >
-Syria
-</td>
-</tr>
-<tr><td align="left" >
-São Tomé and Príncipe
-</td>
-</tr>
-<tr><td align="left" >
 Taiwan, Province of China
 </td>
 </tr>
@@ -559,10 +447,6 @@ Tanzania
 </tr>
 <tr><td align="left" >
 Tanzania, United Republic of
-</td>
-</tr>
-<tr><td align="left" >
-Target
 </td>
 </tr>
 <tr><td align="left" >
@@ -722,23 +606,7 @@ Two factor authentication is now enabled. Scan the following QR code using your 
 </td>
 </tr>
 <tr><td align="left" >
-U.S. Outlying Islands
-</td>
-</tr>
-<tr><td align="left" >
-U.S. Virgin Islands
-</td>
-</tr>
-<tr><td align="left" >
-Vatican City
-</td>
-</tr>
-<tr><td align="left" >
 Verify Your Email Address
-</td>
-</tr>
-<tr><td align="left" >
-Vietnam
 </td>
 </tr>
 <tr><td align="left" >

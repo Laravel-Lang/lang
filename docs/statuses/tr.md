@@ -4,12 +4,12 @@ editLink: false
 
 # tr
 
-##### All missed: 20
+##### All missed: 19
 
 
 ### [tr](https://github.com/Laravel-Lang/lang/blob/main/locales/tr/tr.json)
 
-##### Missing: 20
+##### Missing: 19
 
 <table >
 <tr><td align="left" >
@@ -86,10 +86,6 @@ To finish enabling two factor authentication, scan the following QR code using y
 </tr>
 <tr><td align="left" >
 Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application or enter the setup key.
-</td>
-</tr>
-<tr><td align="left" >
-We have emailed your password reset link!
 </td>
 </tr>
 

@@ -8,6 +8,7 @@ use DragonCode\Support\Facades\Helpers\Arr;
 use DragonCode\Support\Facades\Helpers\Filesystem\Directory;
 use DragonCode\Support\Facades\Helpers\Filesystem\File as Filesystem;
 use DragonCode\Support\Facades\Helpers\Str;
+use JetBrains\PhpStorm\Pure;
 use LaravelLang\Development\Constants\Locales;
 use PHPUnit\Framework\TestCase as BaseTestCase;
 use Tests\Development\Concerns\Messages;
@@ -46,7 +47,7 @@ abstract class TestCase extends BaseTestCase
     {
         $items = [];
 
-        foreach ($this->files('json', true) as $file) {
+        foreach ($this->files('json') as $file) {
             $values = $this->loadFile($file);
 
             $items = Arr::addUnique($items, $values);
@@ -84,7 +85,7 @@ abstract class TestCase extends BaseTestCase
         $array = Arr::ksort($array);
     }
 
-    protected function files(string $extension, bool $recursive = false): array
+    protected function files(string $extension, bool $recursive = true): array
     {
         return Filesystem::names($this->source_path, static fn ($filename) => str_ends_with($filename, $extension), $recursive);
     }
@@ -125,6 +126,14 @@ abstract class TestCase extends BaseTestCase
     protected function isEnglish(string $filename): bool
     {
         return str_starts_with($filename, Locales::ENGLISH);
+    }
+
+    #[Pure(true)]
+    protected function resolveFilename(string $filename, ?string $locale = null): string
+    {
+        $basename = pathinfo($filename, PATHINFO_BASENAME);
+
+        return $this->isJsonFile($basename) && ! empty($locale) ? $locale . '.json' : $basename;
     }
 
     protected function correctValues(array $items): array

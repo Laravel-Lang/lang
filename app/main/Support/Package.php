@@ -26,7 +26,7 @@ class Package
     {
         Directory::validate($path);
 
-        $this->path = realpath($path);
+        $this->path = $path;
 
         return $this;
     }

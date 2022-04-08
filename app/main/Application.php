@@ -43,6 +43,11 @@ class Application implements ApplicationContract
         return $this->path('app/resources/' . $this->cleanPath($filename));
     }
 
+    public function vendorPath(string $filename): string
+    {
+        return $this->path('vendor/' . $this->cleanPath($filename));
+    }
+
     public function path(?string $path = null): string
     {
         if ($value = $this->cleanPath($path)) {

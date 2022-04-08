@@ -16,6 +16,8 @@ interface Application
 
     public function resourcePath(string $filename): string;
 
+    public function vendorPath(string $filename): string;
+
     public function path(?string $path = null): string;
 
     public function cleanPath(?string $path = null): ?string;

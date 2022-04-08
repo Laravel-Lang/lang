@@ -22,8 +22,10 @@
         "ext-json": "*"
     },
     "require-dev": {
-        "php": "^8.0",
+        "php": "^8.1",
+        "ext-zip": "*",
         "dragon-code/pretty-array": "^3.0",
+        "dragon-code/simple-dto": "^2.2",
         "dragon-code/support": "^5.6",
         "guzzlehttp/guzzle": "^7.3",
         "laravel-lang/publisher": "^12.1",

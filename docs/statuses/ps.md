@@ -4,7 +4,7 @@ editLink: false
 
 # ps
 
-##### All missed: 776
+##### All missed: 780
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/ps/auth.php)
@@ -840,7 +840,7 @@ The :attribute field must contain entries for: :values.
 
 ### [ps](https://github.com/Laravel-Lang/lang/blob/main/locales/ps/ps.json)
 
-##### Missing: 665
+##### Missing: 669
 
 <table >
 <tr><td align="left" >
@@ -1476,6 +1476,10 @@ Côte d'Ivoire
 </td>
 </tr>
 <tr><td align="left" >
+Dark
+</td>
+</tr>
+<tr><td align="left" >
 Dashboard
 </td>
 </tr>
@@ -2037,6 +2041,10 @@ Liberia
 </tr>
 <tr><td align="left" >
 Liechtenstein
+</td>
+</tr>
+<tr><td align="left" >
+Light
 </td>
 </tr>
 <tr><td align="left" >
@@ -2872,6 +2880,10 @@ Switzerland
 </td>
 </tr>
 <tr><td align="left" >
+System
+</td>
+</tr>
+<tr><td align="left" >
 Taiwan
 </td>
 </tr>
@@ -3081,6 +3093,10 @@ The team's name and owner information.
 </tr>
 <tr><td align="left" >
 There are no available options for this resource.
+</td>
+</tr>
+<tr><td align="left" >
+There are no fields to display.
 </td>
 </tr>
 <tr><td align="left" >

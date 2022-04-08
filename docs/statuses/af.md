@@ -4,7 +4,7 @@ editLink: false
 
 # af
 
-##### All missed: 134
+##### All missed: 138
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/af/validation-inline.php)
@@ -139,7 +139,7 @@ The :attribute field must contain entries for: :values.
 
 ### [af](https://github.com/Laravel-Lang/lang/blob/main/locales/af/af.json)
 
-##### Missing: 118
+##### Missing: 122
 
 <table >
 <tr><td align="left" >
@@ -231,6 +231,10 @@ Currently Subscribed
 </td>
 </tr>
 <tr><td align="left" >
+Dark
+</td>
+</tr>
+<tr><td align="left" >
 Download Receipt
 </td>
 </tr>
@@ -296,6 +300,10 @@ It looks like you do not have an active subscription. You may choose one of the 
 </tr>
 <tr><td align="left" >
 Jane Doe
+</td>
+</tr>
+<tr><td align="left" >
+Light
 </td>
 </tr>
 <tr><td align="left" >
@@ -423,6 +431,10 @@ Svalbard and Jan Mayen
 </td>
 </tr>
 <tr><td align="left" >
+System
+</td>
+</tr>
+<tr><td align="left" >
 Thanks for your continued support. We've attached a copy of your invoice for your records. Please let us know if you have any questions or concerns.
 </td>
 </tr>
@@ -480,6 +492,10 @@ The selected country is invalid.
 </tr>
 <tr><td align="left" >
 The selected plan is invalid.
+</td>
+</tr>
+<tr><td align="left" >
+There are no fields to display.
 </td>
 </tr>
 <tr><td align="left" >

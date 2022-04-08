@@ -4,7 +4,7 @@ editLink: false
 
 # ko
 
-##### All missed: 24
+##### All missed: 28
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/ko/validation-inline.php)
@@ -41,7 +41,7 @@ The :attribute field must contain entries for: :values.
 
 ### [ko](https://github.com/Laravel-Lang/lang/blob/main/locales/ko/ko.json)
 
-##### Missing: 22
+##### Missing: 26
 
 <table >
 <tr><td align="left" >
@@ -54,6 +54,10 @@ Are you sure you want to log out?
 </tr>
 <tr><td align="left" >
 Are you sure you want to stop impersonating?
+</td>
+</tr>
+<tr><td align="left" >
+Dark
 </td>
 </tr>
 <tr><td align="left" >
@@ -74,6 +78,10 @@ Forgot Password
 </tr>
 <tr><td align="left" >
 Impersonate
+</td>
+</tr>
+<tr><td align="left" >
+Light
 </td>
 </tr>
 <tr><td align="left" >
@@ -101,11 +109,19 @@ Stop Impersonating
 </td>
 </tr>
 <tr><td align="left" >
+System
+</td>
+</tr>
+<tr><td align="left" >
 The resource was attached!
 </td>
 </tr>
 <tr><td align="left" >
 The resource was prevented from being saved!
+</td>
+</tr>
+<tr><td align="left" >
+There are no fields to display.
 </td>
 </tr>
 <tr><td align="left" >

@@ -4,7 +4,7 @@ editLink: false
 
 # si
 
-##### All missed: 51
+##### All missed: 55
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/si/validation-inline.php)
@@ -104,7 +104,7 @@ The :attribute field must contain entries for: :values.
 
 ### [si](https://github.com/Laravel-Lang/lang/blob/main/locales/si/si.json)
 
-##### Missing: 40
+##### Missing: 44
 
 <table >
 <tr><td align="left" >
@@ -140,6 +140,10 @@ Côte d'Ivoire
 </td>
 </tr>
 <tr><td align="left" >
+Dark
+</td>
+</tr>
+<tr><td align="left" >
 E-Mail Address
 </td>
 </tr>
@@ -165,6 +169,10 @@ If you did not receive the email
 </tr>
 <tr><td align="left" >
 Impersonate
+</td>
+</tr>
+<tr><td align="left" >
+Light
 </td>
 </tr>
 <tr><td align="left" >
@@ -212,6 +220,10 @@ Subscribe
 </td>
 </tr>
 <tr><td align="left" >
+System
+</td>
+</tr>
+<tr><td align="left" >
 The :attribute must contain at least one uppercase and one lowercase letter.
 </td>
 </tr>
@@ -221,6 +233,10 @@ The resource was attached!
 </tr>
 <tr><td align="left" >
 The resource was prevented from being saved!
+</td>
+</tr>
+<tr><td align="left" >
+There are no fields to display.
 </td>
 </tr>
 <tr><td align="left" >

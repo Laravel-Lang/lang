@@ -4,7 +4,7 @@ editLink: false
 
 # ro
 
-##### All missed: 274
+##### All missed: 278
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/ro/validation-inline.php)
@@ -256,7 +256,7 @@ The string must be :size characters.
 
 ### [ro](https://github.com/Laravel-Lang/lang/blob/main/locales/ro/ro.json)
 
-##### Missing: 240
+##### Missing: 244
 
 <table >
 <tr><td align="left" >
@@ -500,6 +500,10 @@ Côte d'Ivoire
 </td>
 </tr>
 <tr><td align="left" >
+Dark
+</td>
+</tr>
+<tr><td align="left" >
 Djibouti
 </td>
 </tr>
@@ -693,6 +697,10 @@ Liberia
 </tr>
 <tr><td align="left" >
 Liechtenstein
+</td>
+</tr>
+<tr><td align="left" >
+Light
 </td>
 </tr>
 <tr><td align="left" >
@@ -956,6 +964,10 @@ Svalbard and Jan Mayen
 </td>
 </tr>
 <tr><td align="left" >
+System
+</td>
+</tr>
+<tr><td align="left" >
 Taiwan
 </td>
 </tr>
@@ -1021,6 +1033,10 @@ The selected country is invalid.
 </tr>
 <tr><td align="left" >
 The selected plan is invalid.
+</td>
+</tr>
+<tr><td align="left" >
+There are no fields to display.
 </td>
 </tr>
 <tr><td align="left" >

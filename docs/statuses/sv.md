@@ -4,7 +4,7 @@ editLink: false
 
 # sv
 
-##### All missed: 263
+##### All missed: 267
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/sv/auth.php)
@@ -337,7 +337,7 @@ The :attribute field must contain entries for: :values.
 
 ### [sv](https://github.com/Laravel-Lang/lang/blob/main/locales/sv/sv.json)
 
-##### Missing: 220
+##### Missing: 224
 
 <table >
 <tr><td align="left" >
@@ -482,6 +482,10 @@ Costa Rica
 </tr>
 <tr><td align="left" >
 Côte d'Ivoire
+</td>
+</tr>
+<tr><td align="left" >
+Dark
 </td>
 </tr>
 <tr><td align="left" >
@@ -678,6 +682,10 @@ Liberia
 </tr>
 <tr><td align="left" >
 Liechtenstein
+</td>
+</tr>
+<tr><td align="left" >
+Light
 </td>
 </tr>
 <tr><td align="left" >
@@ -965,6 +973,10 @@ Svalbard and Jan Mayen
 </td>
 </tr>
 <tr><td align="left" >
+System
+</td>
+</tr>
+<tr><td align="left" >
 Taiwan
 </td>
 </tr>
@@ -1042,6 +1054,10 @@ The selected country is invalid.
 </tr>
 <tr><td align="left" >
 The selected plan is invalid.
+</td>
+</tr>
+<tr><td align="left" >
+There are no fields to display.
 </td>
 </tr>
 <tr><td align="left" >

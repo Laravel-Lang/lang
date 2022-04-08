@@ -4,7 +4,7 @@ editLink: false
 
 # mr
 
-##### All missed: 43
+##### All missed: 47
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/mr/validation-inline.php)
@@ -111,7 +111,7 @@ The :attribute field must contain entries for: :values.
 
 ### [mr](https://github.com/Laravel-Lang/lang/blob/main/locales/mr/mr.json)
 
-##### Missing: 31
+##### Missing: 35
 
 <table >
 <tr><td align="left" >
@@ -136,6 +136,10 @@ Before proceeding, please check your email for a verification link.
 </tr>
 <tr><td align="left" >
 click here to request another
+</td>
+</tr>
+<tr><td align="left" >
+Dark
 </td>
 </tr>
 <tr><td align="left" >
@@ -167,6 +171,10 @@ Impersonate
 </td>
 </tr>
 <tr><td align="left" >
+Light
+</td>
+</tr>
+<tr><td align="left" >
 Log In
 </td>
 </tr>
@@ -195,11 +203,19 @@ Stop Impersonating
 </td>
 </tr>
 <tr><td align="left" >
+System
+</td>
+</tr>
+<tr><td align="left" >
 The resource was attached!
 </td>
 </tr>
 <tr><td align="left" >
 The resource was prevented from being saved!
+</td>
+</tr>
+<tr><td align="left" >
+There are no fields to display.
 </td>
 </tr>
 <tr><td align="left" >

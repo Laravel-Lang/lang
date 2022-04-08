@@ -4,7 +4,7 @@ editLink: false
 
 # ms
 
-##### All missed: 308
+##### All missed: 312
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/ms/validation-inline.php)
@@ -139,7 +139,7 @@ The :attribute field must contain entries for: :values.
 
 ### [ms](https://github.com/Laravel-Lang/lang/blob/main/locales/ms/ms.json)
 
-##### Missing: 292
+##### Missing: 296
 
 <table >
 <tr><td align="left" >
@@ -364,6 +364,10 @@ Cyprus
 </tr>
 <tr><td align="left" >
 Côte d'Ivoire
+</td>
+</tr>
+<tr><td align="left" >
+Dark
 </td>
 </tr>
 <tr><td align="left" >
@@ -628,6 +632,10 @@ Liberia
 </tr>
 <tr><td align="left" >
 Liechtenstein
+</td>
+</tr>
+<tr><td align="left" >
+Light
 </td>
 </tr>
 <tr><td align="left" >
@@ -1027,6 +1035,10 @@ Switzerland
 </td>
 </tr>
 <tr><td align="left" >
+System
+</td>
+</tr>
+<tr><td align="left" >
 Taiwan
 </td>
 </tr>
@@ -1108,6 +1120,10 @@ The selected country is invalid.
 </tr>
 <tr><td align="left" >
 The selected plan is invalid.
+</td>
+</tr>
+<tr><td align="left" >
+There are no fields to display.
 </td>
 </tr>
 <tr><td align="left" >

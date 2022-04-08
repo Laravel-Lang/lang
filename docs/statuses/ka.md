@@ -4,7 +4,7 @@ editLink: false
 
 # ka
 
-##### All missed: 120
+##### All missed: 124
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/ka/validation-inline.php)
@@ -97,7 +97,7 @@ The :attribute field must contain entries for: :values.
 
 ### [ka](https://github.com/Laravel-Lang/lang/blob/main/locales/ka/ka.json)
 
-##### Missing: 110
+##### Missing: 114
 
 <table >
 <tr><td align="left" >
@@ -142,6 +142,10 @@ Coupon
 </tr>
 <tr><td align="left" >
 Côte d'Ivoire
+</td>
+</tr>
+<tr><td align="left" >
+Dark
 </td>
 </tr>
 <tr><td align="left" >
@@ -210,6 +214,10 @@ Jane Doe
 </tr>
 <tr><td align="left" >
 Jersey
+</td>
+</tr>
+<tr><td align="left" >
+Light
 </td>
 </tr>
 <tr><td align="left" >
@@ -361,6 +369,10 @@ Subscription Pending
 </td>
 </tr>
 <tr><td align="left" >
+System
+</td>
+</tr>
+<tr><td align="left" >
 Thanks for your continued support. We've attached a copy of your invoice for your records. Please let us know if you have any questions or concerns.
 </td>
 </tr>
@@ -418,6 +430,10 @@ The selected country is invalid.
 </tr>
 <tr><td align="left" >
 The selected plan is invalid.
+</td>
+</tr>
+<tr><td align="left" >
+There are no fields to display.
 </td>
 </tr>
 <tr><td align="left" >

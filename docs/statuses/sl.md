@@ -4,7 +4,7 @@ editLink: false
 
 # sl
 
-##### All missed: 127
+##### All missed: 131
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/sl/validation-inline.php)
@@ -97,7 +97,7 @@ The :attribute field must contain entries for: :values.
 
 ### [sl](https://github.com/Laravel-Lang/lang/blob/main/locales/sl/sl.json)
 
-##### Missing: 117
+##### Missing: 121
 
 <table >
 <tr><td align="left" >
@@ -170,6 +170,10 @@ click here to request another
 </tr>
 <tr><td align="left" >
 Côte d'Ivoire
+</td>
+</tr>
+<tr><td align="left" >
+Dark
 </td>
 </tr>
 <tr><td align="left" >
@@ -266,6 +270,10 @@ Korea, Republic of
 </tr>
 <tr><td align="left" >
 Kosovo
+</td>
+</tr>
+<tr><td align="left" >
+Light
 </td>
 </tr>
 <tr><td align="left" >
@@ -457,6 +465,10 @@ Svalbard and Jan Mayen
 </td>
 </tr>
 <tr><td align="left" >
+System
+</td>
+</tr>
+<tr><td align="left" >
 Taiwan, Province of China
 </td>
 </tr>
@@ -470,6 +482,10 @@ The resource was attached!
 </tr>
 <tr><td align="left" >
 The resource was prevented from being saved!
+</td>
+</tr>
+<tr><td align="left" >
+There are no fields to display.
 </td>
 </tr>
 <tr><td align="left" >

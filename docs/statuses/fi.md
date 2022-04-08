@@ -4,7 +4,7 @@ editLink: false
 
 # fi
 
-##### All missed: 47
+##### All missed: 51
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/fi/validation-inline.php)
@@ -139,7 +139,7 @@ The :attribute field must contain entries for: :values.
 
 ### [fi](https://github.com/Laravel-Lang/lang/blob/main/locales/fi/fi.json)
 
-##### Missing: 31
+##### Missing: 35
 
 <table >
 <tr><td align="left" >
@@ -164,6 +164,10 @@ Before proceeding, please check your email for a verification link.
 </tr>
 <tr><td align="left" >
 click here to request another
+</td>
+</tr>
+<tr><td align="left" >
+Dark
 </td>
 </tr>
 <tr><td align="left" >
@@ -195,6 +199,10 @@ Impersonate
 </td>
 </tr>
 <tr><td align="left" >
+Light
+</td>
+</tr>
+<tr><td align="left" >
 Log In
 </td>
 </tr>
@@ -223,6 +231,10 @@ Stop Impersonating
 </td>
 </tr>
 <tr><td align="left" >
+System
+</td>
+</tr>
+<tr><td align="left" >
 The password is incorrect.
 </td>
 </tr>
@@ -232,6 +244,10 @@ The resource was attached!
 </tr>
 <tr><td align="left" >
 The resource was prevented from being saved!
+</td>
+</tr>
+<tr><td align="left" >
+There are no fields to display.
 </td>
 </tr>
 <tr><td align="left" >

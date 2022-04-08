@@ -4,7 +4,7 @@ editLink: false
 
 # th
 
-##### All missed: 188
+##### All missed: 192
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/th/auth.php)
@@ -337,7 +337,7 @@ The :attribute field must contain entries for: :values.
 
 ### [th](https://github.com/Laravel-Lang/lang/blob/main/locales/th/th.json)
 
-##### Missing: 145
+##### Missing: 149
 
 <table >
 <tr><td align="left" >
@@ -449,6 +449,10 @@ Côte d'Ivoire
 </td>
 </tr>
 <tr><td align="left" >
+Dark
+</td>
+</tr>
+<tr><td align="left" >
 Download Receipt
 </td>
 </tr>
@@ -534,6 +538,10 @@ Korea, Republic of
 </tr>
 <tr><td align="left" >
 Kosovo
+</td>
+</tr>
+<tr><td align="left" >
+Light
 </td>
 </tr>
 <tr><td align="left" >
@@ -705,6 +713,10 @@ Svalbard and Jan Mayen
 </td>
 </tr>
 <tr><td align="left" >
+System
+</td>
+</tr>
+<tr><td align="left" >
 Taiwan, Province of China
 </td>
 </tr>
@@ -770,6 +782,10 @@ The selected country is invalid.
 </tr>
 <tr><td align="left" >
 The selected plan is invalid.
+</td>
+</tr>
+<tr><td align="left" >
+There are no fields to display.
 </td>
 </tr>
 <tr><td align="left" >

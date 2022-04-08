@@ -4,7 +4,7 @@ editLink: false
 
 # ca
 
-##### All missed: 193
+##### All missed: 197
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/ca/auth.php)
@@ -337,7 +337,7 @@ The :attribute field must contain entries for: :values.
 
 ### [ca](https://github.com/Laravel-Lang/lang/blob/main/locales/ca/ca.json)
 
-##### Missing: 150
+##### Missing: 154
 
 <table >
 <tr><td align="left" >
@@ -458,6 +458,10 @@ Cuba
 </tr>
 <tr><td align="left" >
 Côte d'Ivoire
+</td>
+</tr>
+<tr><td align="left" >
+Dark
 </td>
 </tr>
 <tr><td align="left" >
@@ -590,6 +594,10 @@ Lesotho
 </tr>
 <tr><td align="left" >
 Liechtenstein
+</td>
+</tr>
+<tr><td align="left" >
+Light
 </td>
 </tr>
 <tr><td align="left" >
@@ -801,6 +809,10 @@ Sudan
 </td>
 </tr>
 <tr><td align="left" >
+System
+</td>
+</tr>
+<tr><td align="left" >
 Taiwan
 </td>
 </tr>
@@ -826,6 +838,10 @@ The resource was attached!
 </tr>
 <tr><td align="left" >
 The resource was prevented from being saved!
+</td>
+</tr>
+<tr><td align="left" >
+There are no fields to display.
 </td>
 </tr>
 <tr><td align="left" >

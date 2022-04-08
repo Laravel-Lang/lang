@@ -4,7 +4,7 @@ editLink: false
 
 # ja
 
-##### All missed: 73
+##### All missed: 77
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/ja/validation-inline.php)
@@ -139,7 +139,7 @@ The :attribute field must contain entries for: :values.
 
 ### [ja](https://github.com/Laravel-Lang/lang/blob/main/locales/ja/ja.json)
 
-##### Missing: 57
+##### Missing: 61
 
 <table >
 <tr><td align="left" >
@@ -180,6 +180,10 @@ Billing Management
 </tr>
 <tr><td align="left" >
 click here to request another
+</td>
+</tr>
+<tr><td align="left" >
+Dark
 </td>
 </tr>
 <tr><td align="left" >
@@ -224,6 +228,10 @@ Impersonate
 </tr>
 <tr><td align="left" >
 Jane Doe
+</td>
+</tr>
+<tr><td align="left" >
+Light
 </td>
 </tr>
 <tr><td align="left" >
@@ -283,6 +291,10 @@ Svalbard and Jan Mayen
 </td>
 </tr>
 <tr><td align="left" >
+System
+</td>
+</tr>
+<tr><td align="left" >
 Thanks,
 </td>
 </tr>
@@ -296,6 +308,10 @@ The resource was attached!
 </tr>
 <tr><td align="left" >
 The resource was prevented from being saved!
+</td>
+</tr>
+<tr><td align="left" >
+There are no fields to display.
 </td>
 </tr>
 <tr><td align="left" >

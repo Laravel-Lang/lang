@@ -4,7 +4,7 @@ editLink: false
 
 # uz_Latn
 
-##### All missed: 266
+##### All missed: 270
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/uz_Latn/auth.php)
@@ -337,7 +337,7 @@ The :attribute field must contain entries for: :values.
 
 ### [uz_Latn](https://github.com/Laravel-Lang/lang/blob/main/locales/uz_Latn/uz_Latn.json)
 
-##### Missing: 223
+##### Missing: 227
 
 <table >
 <tr><td align="left" >
@@ -537,6 +537,10 @@ Côte d'Ivoire
 </td>
 </tr>
 <tr><td align="left" >
+Dark
+</td>
+</tr>
+<tr><td align="left" >
 Dashboard
 </td>
 </tr>
@@ -690,6 +694,10 @@ Liberia
 </tr>
 <tr><td align="left" >
 Liechtenstein
+</td>
+</tr>
+<tr><td align="left" >
+Light
 </td>
 </tr>
 <tr><td align="left" >
@@ -977,6 +985,10 @@ Svalbard and Jan Mayen
 </td>
 </tr>
 <tr><td align="left" >
+System
+</td>
+</tr>
+<tr><td align="left" >
 Taiwan, Province of China
 </td>
 </tr>
@@ -1042,6 +1054,10 @@ The selected country is invalid.
 </tr>
 <tr><td align="left" >
 The selected plan is invalid.
+</td>
+</tr>
+<tr><td align="left" >
+There are no fields to display.
 </td>
 </tr>
 <tr><td align="left" >

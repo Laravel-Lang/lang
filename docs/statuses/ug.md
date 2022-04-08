@@ -4,7 +4,7 @@ editLink: false
 
 # ug
 
-##### All missed: 818
+##### All missed: 822
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/ug/auth.php)
@@ -938,7 +938,7 @@ The :attribute must be a valid UUID.
 
 ### [ug](https://github.com/Laravel-Lang/lang/blob/main/locales/ug/ug.json)
 
-##### Missing: 693
+##### Missing: 697
 
 <table >
 <tr><td align="left" >
@@ -1582,6 +1582,10 @@ Côte d'Ivoire
 </td>
 </tr>
 <tr><td align="left" >
+Dark
+</td>
+</tr>
+<tr><td align="left" >
 Dashboard
 </td>
 </tr>
@@ -2167,6 +2171,10 @@ Liberia
 </tr>
 <tr><td align="left" >
 Liechtenstein
+</td>
+</tr>
+<tr><td align="left" >
+Light
 </td>
 </tr>
 <tr><td align="left" >
@@ -3058,6 +3066,10 @@ Switzerland
 </td>
 </tr>
 <tr><td align="left" >
+System
+</td>
+</tr>
+<tr><td align="left" >
 Taiwan
 </td>
 </tr>
@@ -3267,6 +3279,10 @@ The team's name and owner information.
 </tr>
 <tr><td align="left" >
 There are no available options for this resource.
+</td>
+</tr>
+<tr><td align="left" >
+There are no fields to display.
 </td>
 </tr>
 <tr><td align="left" >

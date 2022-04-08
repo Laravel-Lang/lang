@@ -4,7 +4,7 @@ editLink: false
 
 # hu
 
-##### All missed: 251
+##### All missed: 255
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/hu/validation-inline.php)
@@ -321,7 +321,7 @@ The :attribute field must contain entries for: :values.
 
 ### [hu](https://github.com/Laravel-Lang/lang/blob/main/locales/hu/hu.json)
 
-##### Missing: 209
+##### Missing: 213
 
 <table >
 <tr><td align="left" >
@@ -486,6 +486,10 @@ Currently Subscribed
 </tr>
 <tr><td align="left" >
 Côte d'Ivoire
+</td>
+</tr>
+<tr><td align="left" >
+Dark
 </td>
 </tr>
 <tr><td align="left" >
@@ -654,6 +658,10 @@ Lesotho
 </tr>
 <tr><td align="left" >
 Liechtenstein
+</td>
+</tr>
+<tr><td align="left" >
+Light
 </td>
 </tr>
 <tr><td align="left" >
@@ -905,6 +913,10 @@ Svalbard and Jan Mayen
 </td>
 </tr>
 <tr><td align="left" >
+System
+</td>
+</tr>
+<tr><td align="left" >
 Taiwan, Province of China
 </td>
 </tr>
@@ -970,6 +982,10 @@ The selected country is invalid.
 </tr>
 <tr><td align="left" >
 The selected plan is invalid.
+</td>
+</tr>
+<tr><td align="left" >
+There are no fields to display.
 </td>
 </tr>
 <tr><td align="left" >

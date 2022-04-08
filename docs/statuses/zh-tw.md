@@ -4,7 +4,7 @@ editLink: false
 
 # zh_TW
 
-##### All missed: 55
+##### All missed: 59
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/zh_TW/validation-inline.php)
@@ -139,7 +139,7 @@ The :attribute field must contain entries for: :values.
 
 ### [zh_TW](https://github.com/Laravel-Lang/lang/blob/main/locales/zh_TW/zh_TW.json)
 
-##### Missing: 39
+##### Missing: 43
 
 <table >
 <tr><td align="left" >
@@ -164,6 +164,10 @@ Before proceeding, please check your email for a verification link.
 </tr>
 <tr><td align="left" >
 click here to request another
+</td>
+</tr>
+<tr><td align="left" >
+Dark
 </td>
 </tr>
 <tr><td align="left" >
@@ -215,6 +219,10 @@ Jane Doe
 </td>
 </tr>
 <tr><td align="left" >
+Light
+</td>
+</tr>
+<tr><td align="left" >
 Log In
 </td>
 </tr>
@@ -251,11 +259,19 @@ Stop Impersonating
 </td>
 </tr>
 <tr><td align="left" >
+System
+</td>
+</tr>
+<tr><td align="left" >
 The resource was attached!
 </td>
 </tr>
 <tr><td align="left" >
 The resource was prevented from being saved!
+</td>
+</tr>
+<tr><td align="left" >
+There are no fields to display.
 </td>
 </tr>
 <tr><td align="left" >

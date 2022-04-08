@@ -4,12 +4,12 @@ editLink: false
 
 # pt
 
-##### All missed: 101
+##### All missed: 105
 
 
 ### [pt](https://github.com/Laravel-Lang/lang/blob/main/locales/pt/pt.json)
 
-##### Missing: 101
+##### Missing: 105
 
 <table >
 <tr><td align="left" >
@@ -30,6 +30,10 @@ Congo, the Democratic Republic of the
 </tr>
 <tr><td align="left" >
 Côte d'Ivoire
+</td>
+</tr>
+<tr><td align="left" >
+Dark
 </td>
 </tr>
 <tr><td align="left" >
@@ -82,6 +86,10 @@ Jane Doe
 </tr>
 <tr><td align="left" >
 Korea, Republic of
+</td>
+</tr>
+<tr><td align="left" >
+Light
 </td>
 </tr>
 <tr><td align="left" >
@@ -225,6 +233,10 @@ Svalbard and Jan Mayen
 </td>
 </tr>
 <tr><td align="left" >
+System
+</td>
+</tr>
+<tr><td align="left" >
 Taiwan, Province of China
 </td>
 </tr>
@@ -290,6 +302,10 @@ The selected country is invalid.
 </tr>
 <tr><td align="left" >
 The selected plan is invalid.
+</td>
+</tr>
+<tr><td align="left" >
+There are no fields to display.
 </td>
 </tr>
 <tr><td align="left" >

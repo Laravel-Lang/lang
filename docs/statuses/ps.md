@@ -4,7 +4,7 @@ editLink: false
 
 # ps
 
-##### All missed: 777
+##### All missed: 776
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/ps/auth.php)
@@ -17,6 +17,52 @@ password
 </td>
 <td align="left" >
 The provided password is incorrect.
+</td>
+</tr>
+
+</table>
+
+
+### [validation-nova-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/ps/validation-nova-inline.php)
+
+##### Missing: 2
+
+<table >
+<tr><td align="left" >
+attached
+</td>
+<td align="left" >
+This field is already attached.
+</td>
+</tr>
+<tr><td align="left" >
+relatable
+</td>
+<td align="left" >
+This field may not be associated with this resource.
+</td>
+</tr>
+
+</table>
+
+
+### [validation-nova](https://github.com/Laravel-Lang/lang/blob/main/locales/ps/validation-nova.php)
+
+##### Missing: 2
+
+<table >
+<tr><td align="left" >
+attached
+</td>
+<td align="left" >
+This :attribute is already attached.
+</td>
+</tr>
+<tr><td align="left" >
+relatable
+</td>
+<td align="left" >
+This :attribute may not be associated with this resource.
 </td>
 </tr>
 
@@ -685,52 +731,6 @@ This must be a valid UUID.
 </table>
 
 
-### [validation-nova-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/ps/validation-nova-inline.php)
-
-##### Missing: 2
-
-<table >
-<tr><td align="left" >
-attached
-</td>
-<td align="left" >
-This field is already attached.
-</td>
-</tr>
-<tr><td align="left" >
-relatable
-</td>
-<td align="left" >
-This field may not be associated with this resource.
-</td>
-</tr>
-
-</table>
-
-
-### [validation-nova](https://github.com/Laravel-Lang/lang/blob/main/locales/ps/validation-nova.php)
-
-##### Missing: 2
-
-<table >
-<tr><td align="left" >
-attached
-</td>
-<td align="left" >
-This :attribute is already attached.
-</td>
-</tr>
-<tr><td align="left" >
-relatable
-</td>
-<td align="left" >
-This :attribute may not be associated with this resource.
-</td>
-</tr>
-
-</table>
-
-
 ### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/ps/validation.php)
 
 ##### Missing: 14
@@ -840,7 +840,7 @@ The :attribute field must contain entries for: :values.
 
 ### [ps](https://github.com/Laravel-Lang/lang/blob/main/locales/ps/ps.json)
 
-##### Missing: 666
+##### Missing: 665
 
 <table >
 <tr><td align="left" >
@@ -1568,6 +1568,10 @@ Download Receipt
 </td>
 </tr>
 <tr><td align="left" >
+E-Mail Address
+</td>
+</tr>
+<tr><td align="left" >
 Ecuador
 </td>
 </tr>
@@ -1885,11 +1889,6 @@ If you do not have an account, you may create one by clicking the button below. 
 </tr>
 <tr><td align="left" >
 If you need to add specific contact or tax information to your receipts, like your full business name, VAT identification number, or address of record, you may add it here.
-</td>
-</tr>
-<tr><td align="left" >
-If you're having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser:
 </td>
 </tr>
 <tr><td align="left" >
@@ -3106,10 +3105,6 @@ These people have been invited to your team and have been sent an invitation ema
 </tr>
 <tr><td align="left" >
 This account does not have an active subscription.
-</td>
-</tr>
-<tr><td align="left" >
-This action is unauthorized.
 </td>
 </tr>
 <tr><td align="left" >

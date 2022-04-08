@@ -23,6 +23,52 @@ The provided password is incorrect.
 </table>
 
 
+### [validation-nova-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/nn/validation-nova-inline.php)
+
+##### Missing: 2
+
+<table >
+<tr><td align="left" >
+attached
+</td>
+<td align="left" >
+This field is already attached.
+</td>
+</tr>
+<tr><td align="left" >
+relatable
+</td>
+<td align="left" >
+This field may not be associated with this resource.
+</td>
+</tr>
+
+</table>
+
+
+### [validation-nova](https://github.com/Laravel-Lang/lang/blob/main/locales/nn/validation-nova.php)
+
+##### Missing: 2
+
+<table >
+<tr><td align="left" >
+attached
+</td>
+<td align="left" >
+This :attribute is already attached.
+</td>
+</tr>
+<tr><td align="left" >
+relatable
+</td>
+<td align="left" >
+This :attribute may not be associated with this resource.
+</td>
+</tr>
+
+</table>
+
+
 ### [passwords](https://github.com/Laravel-Lang/lang/blob/main/locales/nn/passwords.php)
 
 ##### Missing: 1
@@ -679,52 +725,6 @@ uuid
 </td>
 <td align="left" >
 This must be a valid UUID.
-</td>
-</tr>
-
-</table>
-
-
-### [validation-nova-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/nn/validation-nova-inline.php)
-
-##### Missing: 2
-
-<table >
-<tr><td align="left" >
-attached
-</td>
-<td align="left" >
-This field is already attached.
-</td>
-</tr>
-<tr><td align="left" >
-relatable
-</td>
-<td align="left" >
-This field may not be associated with this resource.
-</td>
-</tr>
-
-</table>
-
-
-### [validation-nova](https://github.com/Laravel-Lang/lang/blob/main/locales/nn/validation-nova.php)
-
-##### Missing: 2
-
-<table >
-<tr><td align="left" >
-attached
-</td>
-<td align="left" >
-This :attribute is already attached.
-</td>
-</tr>
-<tr><td align="left" >
-relatable
-</td>
-<td align="left" >
-This :attribute may not be associated with this resource.
 </td>
 </tr>
 
@@ -1561,6 +1561,10 @@ Download Receipt
 </td>
 </tr>
 <tr><td align="left" >
+E-Mail Address
+</td>
+</tr>
+<tr><td align="left" >
 Ecuador
 </td>
 </tr>
@@ -1878,11 +1882,6 @@ If you do not have an account, you may create one by clicking the button below. 
 </tr>
 <tr><td align="left" >
 If you need to add specific contact or tax information to your receipts, like your full business name, VAT identification number, or address of record, you may add it here.
-</td>
-</tr>
-<tr><td align="left" >
-If you're having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser:
 </td>
 </tr>
 <tr><td align="left" >

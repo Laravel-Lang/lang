@@ -4,7 +4,7 @@ editLink: false
 
 # zh_TW
 
-##### All missed: 54
+##### All missed: 55
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/zh_TW/validation-inline.php)
@@ -139,7 +139,7 @@ The :attribute field must contain entries for: :values.
 
 ### [zh_TW](https://github.com/Laravel-Lang/lang/blob/main/locales/zh_TW/zh_TW.json)
 
-##### Missing: 38
+##### Missing: 39
 
 <table >
 <tr><td align="left" >
@@ -164,6 +164,10 @@ Before proceeding, please check your email for a verification link.
 </tr>
 <tr><td align="left" >
 click here to request another
+</td>
+</tr>
+<tr><td align="left" >
+E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

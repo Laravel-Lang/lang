@@ -4,7 +4,7 @@ editLink: false
 
 # ca
 
-##### All missed: 192
+##### All missed: 193
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/ca/auth.php)
@@ -337,7 +337,7 @@ The :attribute field must contain entries for: :values.
 
 ### [ca](https://github.com/Laravel-Lang/lang/blob/main/locales/ca/ca.json)
 
-##### Missing: 149
+##### Missing: 150
 
 <table >
 <tr><td align="left" >
@@ -462,6 +462,10 @@ Côte d'Ivoire
 </tr>
 <tr><td align="left" >
 Djibouti
+</td>
+</tr>
+<tr><td align="left" >
+E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

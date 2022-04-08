@@ -4,12 +4,12 @@ editLink: false
 
 # de
 
-##### All missed: 7
+##### All missed: 8
 
 
 ### [de](https://github.com/Laravel-Lang/lang/blob/main/locales/de/de.json)
 
-##### Missing: 7
+##### Missing: 8
 
 <table >
 <tr><td align="left" >
@@ -18,6 +18,10 @@ Are you sure you want to log out?
 </tr>
 <tr><td align="left" >
 Are you sure you want to stop impersonating?
+</td>
+</tr>
+<tr><td align="left" >
+E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

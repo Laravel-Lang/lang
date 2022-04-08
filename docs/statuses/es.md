@@ -4,7 +4,19 @@ editLink: false
 
 # es
 
-##### All missed: 0
+##### All missed: 1
 
-All lines are translated 😎
+
+### [es](https://github.com/Laravel-Lang/lang/blob/main/locales/es/es.json)
+
+##### Missing: 1
+
+<table >
+<tr><td align="left" >
+E-Mail Address
+</td>
+</tr>
+
+</table>
+
 

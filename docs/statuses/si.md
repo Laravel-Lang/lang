@@ -4,7 +4,7 @@ editLink: false
 
 # si
 
-##### All missed: 50
+##### All missed: 51
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/si/validation-inline.php)
@@ -104,7 +104,7 @@ The :attribute field must contain entries for: :values.
 
 ### [si](https://github.com/Laravel-Lang/lang/blob/main/locales/si/si.json)
 
-##### Missing: 39
+##### Missing: 40
 
 <table >
 <tr><td align="left" >
@@ -137,6 +137,10 @@ click here to request another
 </tr>
 <tr><td align="left" >
 Côte d'Ivoire
+</td>
+</tr>
+<tr><td align="left" >
+E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

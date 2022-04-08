@@ -4,7 +4,7 @@ editLink: false
 
 # ja
 
-##### All missed: 72
+##### All missed: 73
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/ja/validation-inline.php)
@@ -139,7 +139,7 @@ The :attribute field must contain entries for: :values.
 
 ### [ja](https://github.com/Laravel-Lang/lang/blob/main/locales/ja/ja.json)
 
-##### Missing: 56
+##### Missing: 57
 
 <table >
 <tr><td align="left" >
@@ -180,6 +180,10 @@ Billing Management
 </tr>
 <tr><td align="left" >
 click here to request another
+</td>
+</tr>
+<tr><td align="left" >
+E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

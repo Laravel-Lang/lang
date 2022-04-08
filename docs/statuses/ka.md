@@ -4,7 +4,7 @@ editLink: false
 
 # ka
 
-##### All missed: 119
+##### All missed: 120
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/ka/validation-inline.php)
@@ -97,7 +97,7 @@ The :attribute field must contain entries for: :values.
 
 ### [ka](https://github.com/Laravel-Lang/lang/blob/main/locales/ka/ka.json)
 
-##### Missing: 109
+##### Missing: 110
 
 <table >
 <tr><td align="left" >
@@ -142,6 +142,10 @@ Coupon
 </tr>
 <tr><td align="left" >
 Côte d'Ivoire
+</td>
+</tr>
+<tr><td align="left" >
+E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

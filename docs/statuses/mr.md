@@ -4,7 +4,7 @@ editLink: false
 
 # mr
 
-##### All missed: 42
+##### All missed: 43
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/mr/validation-inline.php)
@@ -111,7 +111,7 @@ The :attribute field must contain entries for: :values.
 
 ### [mr](https://github.com/Laravel-Lang/lang/blob/main/locales/mr/mr.json)
 
-##### Missing: 30
+##### Missing: 31
 
 <table >
 <tr><td align="left" >
@@ -136,6 +136,10 @@ Before proceeding, please check your email for a verification link.
 </tr>
 <tr><td align="left" >
 click here to request another
+</td>
+</tr>
+<tr><td align="left" >
+E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

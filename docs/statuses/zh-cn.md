@@ -4,7 +4,7 @@ editLink: false
 
 # zh_CN
 
-##### All missed: 34
+##### All missed: 35
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/zh_CN/validation-inline.php)
@@ -97,7 +97,7 @@ The :attribute field must contain entries for: :values.
 
 ### [zh_CN](https://github.com/Laravel-Lang/lang/blob/main/locales/zh_CN/zh_CN.json)
 
-##### Missing: 24
+##### Missing: 25
 
 <table >
 <tr><td align="left" >
@@ -114,6 +114,10 @@ Are you sure you want to log out?
 </tr>
 <tr><td align="left" >
 Are you sure you want to stop impersonating?
+</td>
+</tr>
+<tr><td align="left" >
+E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

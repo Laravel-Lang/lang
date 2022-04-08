@@ -16,10 +16,10 @@ class Nova extends BasePlugin
     public function files(): array
     {
         return [
-            'packages/nova-3.json' => 'vendor/nova/{locale}.json',
-            'packages/nova-4.json' => 'vendor/nova/{locale}.json',
+            'packages/nova/nova-3.json' => 'vendor/nova/{locale}.json',
+            'packages/nova/nova-4.json' => 'vendor/nova/{locale}.json',
 
-            'validation-nova.php' => '{locale}/validation-nova.php',
+            'packages/nova/validation-nova.php' => '{locale}/validation-nova.php',
         ];
     }
 }

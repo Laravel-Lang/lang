@@ -4,7 +4,7 @@ editLink: false
 
 # bg
 
-##### All missed: 39
+##### All missed: 40
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/bg/validation-inline.php)
@@ -97,7 +97,7 @@ The :attribute field must contain entries for: :values.
 
 ### [bg](https://github.com/Laravel-Lang/lang/blob/main/locales/bg/bg.json)
 
-##### Missing: 29
+##### Missing: 30
 
 <table >
 <tr><td align="left" >
@@ -122,6 +122,10 @@ Before proceeding, please check your email for a verification link.
 </tr>
 <tr><td align="left" >
 click here to request another
+</td>
+</tr>
+<tr><td align="left" >
+E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

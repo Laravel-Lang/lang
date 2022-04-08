@@ -3,10 +3,12 @@
 namespace LaravelLang\Development\Processors;
 
 use DragonCode\Support\Concerns\Makeable;
+use DragonCode\Support\Facades\Helpers\Ables\Arrayable;
 use DragonCode\Support\Facades\Helpers\Arr;
 use DragonCode\Support\Facades\Helpers\Filesystem\Directory;
 use DragonCode\Support\Facades\Helpers\Filesystem\File;
 use DragonCode\Support\Tools\Stub;
+use JetBrains\PhpStorm\Pure;
 use LaravelLang\Development\Application;
 use LaravelLang\Development\Concerns\Contains;
 use LaravelLang\Development\Contracts\Filesystem;
@@ -78,7 +80,14 @@ abstract class Processor implements Processable
 
     protected function loadSource(string $filename): array
     {
-        return $this->load($this->getSourcePath($filename));
+        $files = File::names($this->getSourcePath(), recursive: true);
+
+        $file = Arrayable::of($files)
+            ->filter(fn ($name) => str_contains($name, $filename))
+            ->values()
+            ->get();
+
+        return $this->load($this->getSourcePath($file[0]));
     }
 
     protected function sourceJson(): array
@@ -141,9 +150,12 @@ abstract class Processor implements Processable
         return Directory::names($this->getTargetPath());
     }
 
+    #[Pure(true)]
     protected function resolveFilename(string $filename, string $locale): string
     {
-        return $this->isMainJson($filename) ? $locale . '.json' : $filename;
+        $basename = pathinfo($filename, PATHINFO_BASENAME);
+
+        return $this->isJson($basename) ? $locale . '.json' : $basename;
     }
 
     protected function getFilesystem(string $filename): Filesystem
@@ -160,11 +172,9 @@ abstract class Processor implements Processable
     protected function getFilesystemClass(string $path): string
     {
         return match (true) {
-            $this->isJson($path) => JsonFilesystem::class,
-
+            $this->isJson($path)     => JsonFilesystem::class,
             $this->isMarkdown($path) => MarkdownFilesystem::class,
-
-            default => PhpFilesystem::class,
+            default                  => PhpFilesystem::class,
         };
     }
 

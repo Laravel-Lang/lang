@@ -14,6 +14,8 @@ class Referents
 
     public const es = ['luisprmat'];
 
+    public const fa = ['ariaieboy'];
+
     public const fr = ['caouecs', 'WhereIsLucas'];
 
     public const it = ['masterix21'];

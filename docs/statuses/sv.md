@@ -4,7 +4,7 @@ editLink: false
 
 # sv
 
-##### All missed: 262
+##### All missed: 263
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/sv/auth.php)
@@ -337,7 +337,7 @@ The :attribute field must contain entries for: :values.
 
 ### [sv](https://github.com/Laravel-Lang/lang/blob/main/locales/sv/sv.json)
 
-##### Missing: 219
+##### Missing: 220
 
 <table >
 <tr><td align="left" >
@@ -490,6 +490,10 @@ December
 </tr>
 <tr><td align="left" >
 Djibouti
+</td>
+</tr>
+<tr><td align="left" >
+E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

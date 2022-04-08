@@ -13,15 +13,15 @@ editLink: false
 
 <table >
 <tr><td align="left" >
-An error occurred while uploading the file.
-</td>
-</tr>
-<tr><td align="left" >
 Are you sure you want to log out?
 </td>
 </tr>
 <tr><td align="left" >
 Are you sure you want to stop impersonating?
+</td>
+</tr>
+<tr><td align="left" >
+E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

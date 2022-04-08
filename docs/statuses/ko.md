@@ -4,7 +4,7 @@ editLink: false
 
 # ko
 
-##### All missed: 23
+##### All missed: 24
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/ko/validation-inline.php)
@@ -41,7 +41,7 @@ The :attribute field must contain entries for: :values.
 
 ### [ko](https://github.com/Laravel-Lang/lang/blob/main/locales/ko/ko.json)
 
-##### Missing: 21
+##### Missing: 22
 
 <table >
 <tr><td align="left" >
@@ -54,6 +54,10 @@ Are you sure you want to log out?
 </tr>
 <tr><td align="left" >
 Are you sure you want to stop impersonating?
+</td>
+</tr>
+<tr><td align="left" >
+E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

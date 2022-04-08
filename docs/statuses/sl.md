@@ -4,7 +4,7 @@ editLink: false
 
 # sl
 
-##### All missed: 126
+##### All missed: 127
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/sl/validation-inline.php)
@@ -97,7 +97,7 @@ The :attribute field must contain entries for: :values.
 
 ### [sl](https://github.com/Laravel-Lang/lang/blob/main/locales/sl/sl.json)
 
-##### Missing: 116
+##### Missing: 117
 
 <table >
 <tr><td align="left" >
@@ -178,6 +178,10 @@ December
 </tr>
 <tr><td align="left" >
 Download Receipt
+</td>
+</tr>
+<tr><td align="left" >
+E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

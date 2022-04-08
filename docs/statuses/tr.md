@@ -4,12 +4,12 @@ editLink: false
 
 # tr
 
-##### All missed: 19
+##### All missed: 20
 
 
 ### [tr](https://github.com/Laravel-Lang/lang/blob/main/locales/tr/tr.json)
 
-##### Missing: 19
+##### Missing: 20
 
 <table >
 <tr><td align="left" >
@@ -22,6 +22,10 @@ Are you sure you want to log out?
 </tr>
 <tr><td align="left" >
 Are you sure you want to stop impersonating?
+</td>
+</tr>
+<tr><td align="left" >
+E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >

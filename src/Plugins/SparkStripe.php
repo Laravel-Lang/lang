@@ -16,7 +16,7 @@ class SparkStripe extends BasePlugin
     public function files(): array
     {
         return [
-            'packages/spark-stripe.json' => 'spark/{locale}.json',
+            'packages/spark/spark-stripe.json' => 'spark/{locale}.json',
         ];
     }
 }

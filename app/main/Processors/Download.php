@@ -30,7 +30,7 @@ class Download extends Processor
     ];
 
     public function __construct(
-        protected Client     $client = new Client(),
+        protected Client $client = new Client(),
         protected ZipArchive $zip = new ZipArchive()
     ) {
     }

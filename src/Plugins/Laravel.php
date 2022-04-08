@@ -21,7 +21,11 @@ class Laravel extends BasePlugin
             'passwords.php'  => '{locale}/passwords.php',
             'validation.php' => '{locale}/validation.php',
 
-            'en.json' => '{locale}.json',
+            'packages/framework/laravel-5.json' => '{locale}.json',
+            'packages/framework/laravel-6.json' => '{locale}.json',
+            'packages/framework/laravel-7.json' => '{locale}.json',
+            'packages/framework/laravel-8.json' => '{locale}.json',
+            'packages/framework/laravel-9.json' => '{locale}.json',
         ];
     }
 }

@@ -32,6 +32,10 @@ jobs:
             -   name: Install dependencies
                 run: composer update --prefer-stable --prefer-dist --no-progress --no-interaction
 
+            -   name: Download packages
+                if: success()
+                run: php app/download.php
+
             -   name: Scanning packages
                 id: packages
                 if: success()

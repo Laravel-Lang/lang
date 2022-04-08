@@ -16,7 +16,7 @@ class SparkPaddle extends BasePlugin
     public function files(): array
     {
         return [
-            'packages/spark-paddle.json' => 'spark/{locale}.json',
+            'packages/spark/spark-paddle.json' => 'spark/{locale}.json',
         ];
     }
 }

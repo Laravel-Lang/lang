@@ -12,6 +12,8 @@ class PhpTest extends TestCase
             $source = $this->source($filename);
 
             foreach ($this->locales() as $locale) {
+                $filename = $this->resolveFilename($filename, $locale);
+
                 $path = $this->target_path . '/' . $locale . '/' . $filename;
 
                 $target = $this->load($path);

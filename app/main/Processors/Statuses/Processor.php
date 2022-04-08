@@ -122,7 +122,7 @@ abstract class Processor extends BaseProcessor
             return $this->source_files;
         }
 
-        $files = File::names($this->getSourcePath());
+        $files = File::names($this->getSourcePath(), recursive: true);
 
         $items = Arr::sort($files, function (string $a, string $b) {
             $sorter = Sorter::default();

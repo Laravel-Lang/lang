@@ -4,18 +4,14 @@ editLink: false
 
 # de
 
-##### All missed: 8
+##### All missed: 7
 
 
 ### [de](https://github.com/Laravel-Lang/lang/blob/main/locales/de/de.json)
 
-##### Missing: 8
+##### Missing: 7
 
 <table >
-<tr><td align="left" >
-An error occurred while uploading the file.
-</td>
-</tr>
 <tr><td align="left" >
 Are you sure you want to log out?
 </td>

@@ -61,7 +61,6 @@ abstract class Processor implements Processable
 
     protected function process(string $target_path, string $filename, ?string $locale = null): void
     {
-
         $source = $this->source($filename);
         $target = $this->load($target_path);
 

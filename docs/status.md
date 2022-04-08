@@ -96,7 +96,7 @@ editLink: false
 </td>
 <td align="center" width="17%">
 
-[fa&nbsp;❗](statuses/fa.md)
+[fa&nbsp;✔](statuses/fa.md)
 
 </td>
 </tr>

@@ -28,6 +28,8 @@ class Referents
 
     public const pt = ['jorgercosta'];
 
+    public const pt_BR = ['EuCarlos'];
+
     public const ru = ['andrey-helldar'];
 
     public const sr_Cyrl = ['LukaLatkovic'];

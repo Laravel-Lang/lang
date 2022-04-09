@@ -397,6 +397,8 @@ pt_BR
 </td>
 <td align="left" >
 
+[@EuCarlos](https://github.com/EuCarlos)
+
 </td>
 </tr>
 <tr><td align="left" >

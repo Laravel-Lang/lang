@@ -8,7 +8,6 @@ class Machines
         'az',
         'be',
         'bs',
-        'ca',
         'cs',
         'cy',
         'da',

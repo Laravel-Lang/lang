@@ -11,6 +11,7 @@
 | This list contains values.
 |
 */
+
 return [
     ':amount Total',
     'Andorra',

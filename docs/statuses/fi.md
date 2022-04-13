@@ -4,7 +4,7 @@ editLink: false
 
 # fi
 
-##### All missed: 51
+##### All missed: 52
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/fi/validation-inline.php)
@@ -139,7 +139,7 @@ The :attribute field must contain entries for: :values.
 
 ### [fi](https://github.com/Laravel-Lang/lang/blob/main/locales/fi/fi.json)
 
-##### Missing: 35
+##### Missing: 36
 
 <table >
 <tr><td align="left" >
@@ -252,6 +252,10 @@ There are no fields to display.
 </tr>
 <tr><td align="left" >
 There are no new notifications
+</td>
+</tr>
+<tr><td align="left" >
+There was a problem fetching the resource.
 </td>
 </tr>
 <tr><td align="left" >

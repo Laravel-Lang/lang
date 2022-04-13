@@ -4,7 +4,7 @@ editLink: false
 
 # sw
 
-##### All missed: 378
+##### All missed: 379
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/sw/auth.php)
@@ -337,7 +337,7 @@ The :attribute field must contain entries for: :values.
 
 ### [sw](https://github.com/Laravel-Lang/lang/blob/main/locales/sw/sw.json)
 
-##### Missing: 335
+##### Missing: 336
 
 <table >
 <tr><td align="left" >
@@ -1446,6 +1446,10 @@ There are no new notifications
 </tr>
 <tr><td align="left" >
 There is no active subscription.
+</td>
+</tr>
+<tr><td align="left" >
+There was a problem fetching the resource.
 </td>
 </tr>
 <tr><td align="left" >

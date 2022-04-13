@@ -4,7 +4,7 @@ editLink: false
 
 # ps
 
-##### All missed: 780
+##### All missed: 781
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/ps/auth.php)
@@ -840,7 +840,7 @@ The :attribute field must contain entries for: :values.
 
 ### [ps](https://github.com/Laravel-Lang/lang/blob/main/locales/ps/ps.json)
 
-##### Missing: 669
+##### Missing: 670
 
 <table >
 <tr><td align="left" >
@@ -3109,6 +3109,10 @@ There is no active subscription.
 </tr>
 <tr><td align="left" >
 There was a problem executing the action.
+</td>
+</tr>
+<tr><td align="left" >
+There was a problem fetching the resource.
 </td>
 </tr>
 <tr><td align="left" >

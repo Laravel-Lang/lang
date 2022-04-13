@@ -4,7 +4,7 @@ editLink: false
 
 # sr_Latn_ME
 
-##### All missed: 192
+##### All missed: 193
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/sr_Latn_ME/validation-inline.php)
@@ -321,7 +321,7 @@ The :attribute field must contain entries for: :values.
 
 ### [sr_Latn_ME](https://github.com/Laravel-Lang/lang/blob/main/locales/sr_Latn_ME/sr_Latn_ME.json)
 
-##### Missing: 150
+##### Missing: 151
 
 <table >
 <tr><td align="left" >
@@ -782,6 +782,10 @@ There are no new notifications
 </tr>
 <tr><td align="left" >
 There is no active subscription.
+</td>
+</tr>
+<tr><td align="left" >
+There was a problem fetching the resource.
 </td>
 </tr>
 <tr><td align="left" >

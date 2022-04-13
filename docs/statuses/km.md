@@ -4,7 +4,7 @@ editLink: false
 
 # km
 
-##### All missed: 167
+##### All missed: 168
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/km/validation-inline.php)
@@ -139,7 +139,7 @@ The :attribute field must contain entries for: :values.
 
 ### [km](https://github.com/Laravel-Lang/lang/blob/main/locales/km/km.json)
 
-##### Missing: 151
+##### Missing: 152
 
 <table >
 <tr><td align="left" >
@@ -604,6 +604,10 @@ There are no new notifications
 </tr>
 <tr><td align="left" >
 There is no active subscription.
+</td>
+</tr>
+<tr><td align="left" >
+There was a problem fetching the resource.
 </td>
 </tr>
 <tr><td align="left" >

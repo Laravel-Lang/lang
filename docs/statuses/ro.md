@@ -4,7 +4,7 @@ editLink: false
 
 # ro
 
-##### All missed: 278
+##### All missed: 279
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/ro/validation-inline.php)
@@ -256,7 +256,7 @@ The string must be :size characters.
 
 ### [ro](https://github.com/Laravel-Lang/lang/blob/main/locales/ro/ro.json)
 
-##### Missing: 244
+##### Missing: 245
 
 <table >
 <tr><td align="left" >
@@ -1045,6 +1045,10 @@ There are no new notifications
 </tr>
 <tr><td align="left" >
 There is no active subscription.
+</td>
+</tr>
+<tr><td align="left" >
+There was a problem fetching the resource.
 </td>
 </tr>
 <tr><td align="left" >

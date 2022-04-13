@@ -4,7 +4,7 @@ editLink: false
 
 # hy
 
-##### All missed: 135
+##### All missed: 136
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/hy/validation-inline.php)
@@ -111,7 +111,7 @@ The :attribute field must contain entries for: :values.
 
 ### [hy](https://github.com/Laravel-Lang/lang/blob/main/locales/hy/hy.json)
 
-##### Missing: 123
+##### Missing: 124
 
 <table >
 <tr><td align="left" >
@@ -468,6 +468,10 @@ There are no new notifications
 </tr>
 <tr><td align="left" >
 There is no active subscription.
+</td>
+</tr>
+<tr><td align="left" >
+There was a problem fetching the resource.
 </td>
 </tr>
 <tr><td align="left" >

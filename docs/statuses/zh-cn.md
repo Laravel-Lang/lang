@@ -4,7 +4,7 @@ editLink: false
 
 # zh_CN
 
-##### All missed: 39
+##### All missed: 40
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/zh_CN/validation-inline.php)
@@ -97,7 +97,7 @@ The :attribute field must contain entries for: :values.
 
 ### [zh_CN](https://github.com/Laravel-Lang/lang/blob/main/locales/zh_CN/zh_CN.json)
 
-##### Missing: 29
+##### Missing: 30
 
 <table >
 <tr><td align="left" >
@@ -194,6 +194,10 @@ There are no fields to display.
 </tr>
 <tr><td align="left" >
 There are no new notifications
+</td>
+</tr>
+<tr><td align="left" >
+There was a problem fetching the resource.
 </td>
 </tr>
 <tr><td align="left" >

@@ -4,12 +4,12 @@ editLink: false
 
 # id
 
-##### All missed: 8
+##### All missed: 9
 
 
 ### [id](https://github.com/Laravel-Lang/lang/blob/main/locales/id/id.json)
 
-##### Missing: 8
+##### Missing: 9
 
 <table >
 <tr><td align="left" >
@@ -42,6 +42,10 @@ The resource was attached!
 </tr>
 <tr><td align="left" >
 The resource was prevented from being saved!
+</td>
+</tr>
+<tr><td align="left" >
+There was a problem fetching the resource.
 </td>
 </tr>
 

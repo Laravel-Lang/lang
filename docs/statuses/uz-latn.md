@@ -4,7 +4,7 @@ editLink: false
 
 # uz_Latn
 
-##### All missed: 270
+##### All missed: 271
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/uz_Latn/auth.php)
@@ -337,7 +337,7 @@ The :attribute field must contain entries for: :values.
 
 ### [uz_Latn](https://github.com/Laravel-Lang/lang/blob/main/locales/uz_Latn/uz_Latn.json)
 
-##### Missing: 227
+##### Missing: 228
 
 <table >
 <tr><td align="left" >
@@ -1066,6 +1066,10 @@ There are no new notifications
 </tr>
 <tr><td align="left" >
 There is no active subscription.
+</td>
+</tr>
+<tr><td align="left" >
+There was a problem fetching the resource.
 </td>
 </tr>
 <tr><td align="left" >

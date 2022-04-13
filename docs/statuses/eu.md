@@ -4,7 +4,7 @@ editLink: false
 
 # eu
 
-##### All missed: 190
+##### All missed: 191
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/eu/auth.php)
@@ -337,7 +337,7 @@ The :attribute field must contain entries for: :values.
 
 ### [eu](https://github.com/Laravel-Lang/lang/blob/main/locales/eu/eu.json)
 
-##### Missing: 147
+##### Missing: 148
 
 <table >
 <tr><td align="left" >
@@ -786,6 +786,10 @@ There are no new notifications
 </tr>
 <tr><td align="left" >
 There is no active subscription.
+</td>
+</tr>
+<tr><td align="left" >
+There was a problem fetching the resource.
 </td>
 </tr>
 <tr><td align="left" >

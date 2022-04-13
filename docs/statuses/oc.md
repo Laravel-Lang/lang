@@ -4,7 +4,7 @@ editLink: false
 
 # oc
 
-##### All missed: 724
+##### All missed: 725
 
 
 ### [validation-nova-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/oc/validation-nova-inline.php)
@@ -243,7 +243,7 @@ The :attribute field must contain entries for: :values.
 
 ### [oc](https://github.com/Laravel-Lang/lang/blob/main/locales/oc/oc.json)
 
-##### Missing: 697
+##### Missing: 698
 
 <table >
 <tr><td align="left" >
@@ -2600,6 +2600,10 @@ There is no active subscription.
 </tr>
 <tr><td align="left" >
 There was a problem executing the action.
+</td>
+</tr>
+<tr><td align="left" >
+There was a problem fetching the resource.
 </td>
 </tr>
 <tr><td align="left" >

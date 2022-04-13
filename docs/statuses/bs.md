@@ -4,7 +4,7 @@ editLink: false
 
 # bs
 
-##### All missed: 189
+##### All missed: 190
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/bs/validation-inline.php)
@@ -321,7 +321,7 @@ The :attribute field must contain entries for: :values.
 
 ### [bs](https://github.com/Laravel-Lang/lang/blob/main/locales/bs/bs.json)
 
-##### Missing: 147
+##### Missing: 148
 
 <table >
 <tr><td align="left" >
@@ -770,6 +770,10 @@ There are no new notifications
 </tr>
 <tr><td align="left" >
 There is no active subscription.
+</td>
+</tr>
+<tr><td align="left" >
+There was a problem fetching the resource.
 </td>
 </tr>
 <tr><td align="left" >

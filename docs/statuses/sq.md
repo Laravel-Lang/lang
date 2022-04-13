@@ -4,7 +4,7 @@ editLink: false
 
 # sq
 
-##### All missed: 252
+##### All missed: 253
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/sq/auth.php)
@@ -155,7 +155,7 @@ The :attribute field must contain entries for: :values.
 
 ### [sq](https://github.com/Laravel-Lang/lang/blob/main/locales/sq/sq.json)
 
-##### Missing: 235
+##### Missing: 236
 
 <table >
 <tr><td align="left" >
@@ -920,6 +920,10 @@ There are no new notifications
 </tr>
 <tr><td align="left" >
 There is no active subscription.
+</td>
+</tr>
+<tr><td align="left" >
+There was a problem fetching the resource.
 </td>
 </tr>
 <tr><td align="left" >

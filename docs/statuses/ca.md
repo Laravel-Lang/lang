@@ -4,7 +4,7 @@ editLink: false
 
 # ca
 
-##### All missed: 43
+##### All missed: 44
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/ca/validation-inline.php)
@@ -321,11 +321,15 @@ The :attribute field must contain entries for: :values.
 
 ### [ca](https://github.com/Laravel-Lang/lang/blob/main/locales/ca/ca.json)
 
-##### Missing: 1
+##### Missing: 2
 
 <table >
 <tr><td align="left" >
 Réunion
+</td>
+</tr>
+<tr><td align="left" >
+There was a problem fetching the resource.
 </td>
 </tr>
 

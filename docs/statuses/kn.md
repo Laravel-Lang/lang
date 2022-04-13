@@ -4,7 +4,7 @@ editLink: false
 
 # kn
 
-##### All missed: 202
+##### All missed: 203
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/kn/auth.php)
@@ -351,7 +351,7 @@ The :attribute field must contain entries for: :values.
 
 ### [kn](https://github.com/Laravel-Lang/lang/blob/main/locales/kn/kn.json)
 
-##### Missing: 157
+##### Missing: 158
 
 <table >
 <tr><td align="left" >
@@ -836,6 +836,10 @@ There are no new notifications
 </tr>
 <tr><td align="left" >
 There is no active subscription.
+</td>
+</tr>
+<tr><td align="left" >
+There was a problem fetching the resource.
 </td>
 </tr>
 <tr><td align="left" >

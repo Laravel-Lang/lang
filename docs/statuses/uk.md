@@ -4,7 +4,7 @@ editLink: false
 
 # uk
 
-##### All missed: 161
+##### All missed: 162
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/uk/validation-inline.php)
@@ -111,7 +111,7 @@ The :attribute field must contain entries for: :values.
 
 ### [uk](https://github.com/Laravel-Lang/lang/blob/main/locales/uk/uk.json)
 
-##### Missing: 149
+##### Missing: 150
 
 <table >
 <tr><td align="left" >
@@ -568,6 +568,10 @@ There are no new notifications
 </tr>
 <tr><td align="left" >
 There is no active subscription.
+</td>
+</tr>
+<tr><td align="left" >
+There was a problem fetching the resource.
 </td>
 </tr>
 <tr><td align="left" >

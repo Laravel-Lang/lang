@@ -4,12 +4,12 @@ editLink: false
 
 # nb
 
-##### All missed: 26
+##### All missed: 27
 
 
 ### [nb](https://github.com/Laravel-Lang/lang/blob/main/locales/nb/nb.json)
 
-##### Missing: 26
+##### Missing: 27
 
 <table >
 <tr><td align="left" >
@@ -94,6 +94,10 @@ There are no fields to display.
 </tr>
 <tr><td align="left" >
 There are no new notifications
+</td>
+</tr>
+<tr><td align="left" >
+There was a problem fetching the resource.
 </td>
 </tr>
 <tr><td align="left" >

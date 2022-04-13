@@ -4,7 +4,7 @@ editLink: false
 
 # az
 
-##### All missed: 237
+##### All missed: 238
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/az/auth.php)
@@ -272,7 +272,7 @@ The string must be :size characters.
 
 ### [az](https://github.com/Laravel-Lang/lang/blob/main/locales/az/az.json)
 
-##### Missing: 202
+##### Missing: 203
 
 <table >
 <tr><td align="left" >
@@ -921,6 +921,10 @@ There are no new notifications
 </tr>
 <tr><td align="left" >
 There is no active subscription.
+</td>
+</tr>
+<tr><td align="left" >
+There was a problem fetching the resource.
 </td>
 </tr>
 <tr><td align="left" >

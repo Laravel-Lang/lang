@@ -4,7 +4,7 @@ editLink: false
 
 # ko
 
-##### All missed: 28
+##### All missed: 29
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/ko/validation-inline.php)
@@ -41,7 +41,7 @@ The :attribute field must contain entries for: :values.
 
 ### [ko](https://github.com/Laravel-Lang/lang/blob/main/locales/ko/ko.json)
 
-##### Missing: 26
+##### Missing: 27
 
 <table >
 <tr><td align="left" >
@@ -126,6 +126,10 @@ There are no fields to display.
 </tr>
 <tr><td align="left" >
 There are no new notifications
+</td>
+</tr>
+<tr><td align="left" >
+There was a problem fetching the resource.
 </td>
 </tr>
 <tr><td align="left" >

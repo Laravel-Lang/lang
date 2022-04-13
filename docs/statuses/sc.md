@@ -4,7 +4,7 @@ editLink: false
 
 # sc
 
-##### All missed: 837
+##### All missed: 838
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/sc/auth.php)
@@ -1043,7 +1043,7 @@ The :attribute must be a valid UUID.
 
 ### [sc](https://github.com/Laravel-Lang/lang/blob/main/locales/sc/sc.json)
 
-##### Missing: 697
+##### Missing: 698
 
 <table >
 <tr><td align="left" >
@@ -3400,6 +3400,10 @@ There is no active subscription.
 </tr>
 <tr><td align="left" >
 There was a problem executing the action.
+</td>
+</tr>
+<tr><td align="left" >
+There was a problem fetching the resource.
 </td>
 </tr>
 <tr><td align="left" >

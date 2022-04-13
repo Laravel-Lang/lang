@@ -4,12 +4,12 @@ editLink: false
 
 # fr
 
-##### All missed: 22
+##### All missed: 15
 
 
 ### [fr](https://github.com/Laravel-Lang/lang/blob/main/locales/fr/fr.json)
 
-##### Missing: 22
+##### Missing: 15
 
 <table >
 <tr><td align="left" >
@@ -17,15 +17,7 @@ An error occurred while uploading the file.
 </td>
 </tr>
 <tr><td align="left" >
-Are you sure you want to log out?
-</td>
-</tr>
-<tr><td align="left" >
 Are you sure you want to stop impersonating?
-</td>
-</tr>
-<tr><td align="left" >
-Dark
 </td>
 </tr>
 <tr><td align="left" >
@@ -33,23 +25,7 @@ E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >
-Error
-</td>
-</tr>
-<tr><td align="left" >
-Forgot Password
-</td>
-</tr>
-<tr><td align="left" >
 Impersonate
-</td>
-</tr>
-<tr><td align="left" >
-Light
-</td>
-</tr>
-<tr><td align="left" >
-Log In
 </td>
 </tr>
 <tr><td align="left" >
@@ -66,10 +42,6 @@ Resource Row Dropdown
 </tr>
 <tr><td align="left" >
 Stop Impersonating
-</td>
-</tr>
-<tr><td align="left" >
-System
 </td>
 </tr>
 <tr><td align="left" >

@@ -387,6 +387,7 @@
     "There are no fields to display.",
     "There are no new notifications",
     "There was a problem executing the action.",
+    "There was a problem fetching the resource.",
     "There was a problem submitting the form.",
     "This copy of Nova is unlicensed.",
     "This file field is read-only.",

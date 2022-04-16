@@ -3100,7 +3100,7 @@ There are no fields to display.
 </td>
 </tr>
 <tr><td align="left" >
-There are no new notifications
+There are no new notifications.
 </td>
 </tr>
 <tr><td align="left" >

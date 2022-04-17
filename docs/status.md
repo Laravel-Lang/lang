@@ -272,7 +272,7 @@ editLink: false
 </td>
 <td align="center" width="17%">
 
-[pt_BR&nbsp;❗](statuses/pt-br.md)
+[pt_BR&nbsp;✔](statuses/pt-br.md)
 
 </td>
 <td align="center" width="17%">

@@ -91,7 +91,7 @@ return [
     'mimetypes'            => 'Le champ :attribute doit être un fichier de type : :values.',
     'min'                  => [
         'array'   => 'Le tableau :attribute doit contenir au moins :min éléments.',
-        'file'    => 'La taille du fichier de :attribute doit être supérieure à :min kilo-octets.',
+        'file'    => 'La taille du fichier de :attribute doit être supérieure ou égale à :min kilo-octets.',
         'numeric' => 'La valeur de :attribute doit être supérieure ou égale à :min.',
         'string'  => 'Le texte :attribute doit contenir au moins :min caractères.',
     ],

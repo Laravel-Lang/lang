@@ -91,7 +91,7 @@ return [
     'mimetypes'            => 'Le fichier doit être de type : :values.',
     'min'                  => [
         'array'   => 'Le tableau doit contenir au moins :min éléments.',
-        'file'    => 'La taille du fichier doit être supérieure à :min kilo-octets.',
+        'file'    => 'La taille du fichier doit être supérieure ou égale à :min kilo-octets.',
         'numeric' => 'La valeur doit être supérieure ou égale à :min.',
         'string'  => 'Le texte doit contenir au moins :min caractères.',
     ],

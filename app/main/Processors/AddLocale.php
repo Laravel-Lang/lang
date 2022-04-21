@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace LaravelLang\Development\Processors;
 
-use DragonCode\Support\Facades\Helpers\Filesystem\File;
+use DragonCode\Support\Facades\Filesystem\File;
 use RuntimeException;
 
 class AddLocale extends Processor

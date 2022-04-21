@@ -2,7 +2,7 @@
 
 namespace LaravelLang\Development\Processors;
 
-use DragonCode\Support\Facades\Helpers\Filesystem\Directory;
+use DragonCode\Support\Facades\Filesystem\Directory;
 use GuzzleHttp\Client;
 use RuntimeException;
 use ZipArchive;
@@ -30,7 +30,7 @@ class Download extends Processor
     ];
 
     public function __construct(
-        protected Client $client = new Client(),
+        protected Client     $client = new Client(),
         protected ZipArchive $zip = new ZipArchive()
     ) {
     }

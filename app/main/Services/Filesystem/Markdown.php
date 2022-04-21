@@ -2,7 +2,7 @@
 
 namespace LaravelLang\Development\Services\Filesystem;
 
-use DragonCode\Support\Facades\Helpers\Filesystem\File;
+use DragonCode\Support\Facades\Filesystem\File;
 use DragonCode\Support\Tools\Stub;
 use LaravelLang\Development\Contracts\Stringable;
 

@@ -3,7 +3,7 @@
 namespace LaravelLang\Development\Services\Filesystem;
 
 use DragonCode\Support\Concerns\Makeable;
-use DragonCode\Support\Facades\Helpers\Ables\Arrayable;
+use DragonCode\Support\Facades\Helpers\Arr;
 use LaravelLang\Development\Application;
 use LaravelLang\Development\Concerns\Storable;
 use LaravelLang\Development\Contracts\Filesystem;
@@ -31,9 +31,9 @@ abstract class Base implements Filesystem
     {
         $callback = static fn ($value) => stripslashes($value);
 
-        return Arrayable::of($items)
+        return Arr::of($items)
             ->map($callback, true)
             ->renameKeys($callback)
-            ->get();
+            ->toArray();
     }
 }

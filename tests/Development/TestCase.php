@@ -2,11 +2,9 @@
 
 namespace Tests\Development;
 
-use DragonCode\PrettyArray\Services\File;
-use DragonCode\Support\Facades\Helpers\Ables\Arrayable;
+use DragonCode\Support\Facades\Filesystem\Directory;
+use DragonCode\Support\Facades\Filesystem\File as Filesystem;
 use DragonCode\Support\Facades\Helpers\Arr;
-use DragonCode\Support\Facades\Helpers\Filesystem\Directory;
-use DragonCode\Support\Facades\Helpers\Filesystem\File as Filesystem;
 use DragonCode\Support\Facades\Helpers\Str;
 use JetBrains\PhpStorm\Pure;
 use LaravelLang\Development\Constants\Locales;
@@ -28,11 +26,11 @@ abstract class TestCase extends BaseTestCase
         if ($this->isValidation($filename)) {
             $custom = Arr::get($content, 'custom', []);
 
-            return Arrayable::of($content)
+            return Arr::of($content)
                 ->except(['attributes', 'custom'])
                 ->ksort()
                 ->merge(compact('custom'))
-                ->get();
+                ->toArray();
         }
 
         return Arr::ksort($content);
@@ -58,7 +56,7 @@ abstract class TestCase extends BaseTestCase
 
     protected function assertSee(string $path, string $content): void
     {
-        $file = File::make()->loadRaw($path);
+        $file = file_get_contents($path);
 
         $this->assertTrue(
             str_contains($file, $content),
@@ -68,7 +66,7 @@ abstract class TestCase extends BaseTestCase
 
     protected function assertDoesntSee(string $path, string|array $content): void
     {
-        $file = File::make()->loadRaw($path);
+        $file = file_get_contents($path);
 
         $values = Arr::wrap($content);
 
@@ -140,9 +138,9 @@ abstract class TestCase extends BaseTestCase
     {
         $callback = static fn ($value) => stripslashes($value);
 
-        return Arrayable::of($items)
+        return Arr::of($items)
             ->map($callback, true)
             ->renameKeys($callback)
-            ->get();
+            ->toArray();
     }
 }

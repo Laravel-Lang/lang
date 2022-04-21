@@ -2,7 +2,7 @@
 
 namespace LaravelLang\Development\Processors;
 
-use DragonCode\Support\Facades\Helpers\Filesystem\Directory;
+use DragonCode\Support\Facades\Filesystem\Directory;
 
 class Git extends Processor
 {

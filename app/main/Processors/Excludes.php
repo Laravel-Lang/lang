@@ -2,8 +2,8 @@
 
 namespace LaravelLang\Development\Processors;
 
+use DragonCode\Support\Facades\Filesystem\File;
 use DragonCode\Support\Facades\Helpers\Arr;
-use DragonCode\Support\Facades\Helpers\Filesystem\File;
 
 class Excludes extends Processor
 {

@@ -3,7 +3,7 @@
 namespace LaravelLang\Development\Concerns;
 
 use DragonCode\PrettyArray\Services\File as PrettyFile;
-use DragonCode\Support\Facades\Helpers\Filesystem\File;
+use DragonCode\Support\Facades\Filesystem\File;
 
 /** @mixin \LaravelLang\Development\Processors\Processor */
 trait Excludes
@@ -13,7 +13,7 @@ trait Excludes
     protected function hasExclude(string $value, string $locale): bool
     {
         return $this->hasExcludeValue($locale, $value)
-            || $this->hasExcludeValue('_all', $value);
+               || $this->hasExcludeValue('_all', $value);
     }
 
     protected function hasExcludeValue(string $key, string $value): bool

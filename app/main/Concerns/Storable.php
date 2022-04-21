@@ -2,7 +2,7 @@
 
 namespace LaravelLang\Development\Concerns;
 
-use DragonCode\Support\Facades\Helpers\Instance;
+use DragonCode\Support\Facades\Instances\Instance;
 use DragonCode\Support\Tools\Stub;
 use LaravelLang\Development\Contracts\Stringable;
 

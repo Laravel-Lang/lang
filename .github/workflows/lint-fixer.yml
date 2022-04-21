@@ -13,7 +13,7 @@ jobs:
                 uses: actions/checkout@v3
 
             -   name: Checking PHP Syntax
-                uses: TheDragonCode/codestyler@v1.13.1
+                uses: TheDragonCode/codestyler@v2.0.1
                 with:
                     github_token: ${{ secrets.COMPOSER_TOKEN }}
                     fix: true

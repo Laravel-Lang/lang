@@ -2,7 +2,7 @@
 
 namespace Tests\Development;
 
-use DragonCode\PrettyArray\Services\File as Pretty;
+use DragonCode\Support\Facades\Filesystem\File;
 
 class JsonTest extends TestCase
 {
@@ -25,9 +25,7 @@ class JsonTest extends TestCase
 
     protected function load(string $path): array
     {
-        $content = Pretty::make()->loadRaw($path);
-
-        $items = json_decode($content, true);
+        $items = File::load($path);
 
         return $this->correctValues($items);
     }

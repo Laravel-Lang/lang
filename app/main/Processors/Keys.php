@@ -2,7 +2,7 @@
 
 namespace LaravelLang\Development\Processors;
 
-use DragonCode\Support\Facades\Helpers\Filesystem\File;
+use DragonCode\Support\Facades\Filesystem\File;
 
 class Keys extends Processor
 {

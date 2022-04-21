@@ -2,7 +2,7 @@
 
 namespace LaravelLang\Development\Concerns;
 
-use DragonCode\Support\Facades\Helpers\Filesystem\Directory;
+use DragonCode\Support\Facades\Filesystem\Directory;
 use DragonCode\Support\Facades\Helpers\Str;
 use LaravelLang\Development\Constants\Locales;
 

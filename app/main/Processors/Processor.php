@@ -3,10 +3,9 @@
 namespace LaravelLang\Development\Processors;
 
 use DragonCode\Support\Concerns\Makeable;
-use DragonCode\Support\Facades\Helpers\Ables\Arrayable;
+use DragonCode\Support\Facades\Filesystem\Directory;
+use DragonCode\Support\Facades\Filesystem\File;
 use DragonCode\Support\Facades\Helpers\Arr;
-use DragonCode\Support\Facades\Helpers\Filesystem\Directory;
-use DragonCode\Support\Facades\Helpers\Filesystem\File;
 use DragonCode\Support\Tools\Stub;
 use JetBrains\PhpStorm\Pure;
 use LaravelLang\Development\Application;
@@ -82,10 +81,10 @@ abstract class Processor implements Processable
     {
         $files = File::names($this->getSourcePath(), recursive: true);
 
-        $file = Arrayable::of($files)
+        $file = Arr::of($files)
             ->filter(fn ($name) => str_contains($name, $filename))
             ->values()
-            ->get();
+            ->toArray();
 
         return $this->load($this->getSourcePath($file[0]));
     }

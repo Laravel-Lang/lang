@@ -2,7 +2,7 @@
 
 namespace LaravelLang\Development\Processors;
 
-use DragonCode\Support\Facades\Helpers\Filesystem\Directory;
+use DragonCode\Support\Facades\Filesystem\Directory;
 use LaravelLang\Development\Concerns\Template;
 use LaravelLang\Development\Constants\Referents as Constants;
 use LaravelLang\Development\Contracts\Stringable;

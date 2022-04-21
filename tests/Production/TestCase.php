@@ -4,8 +4,8 @@ declare(strict_types=1);
 
 namespace Tests\Production;
 
-use DragonCode\Support\Facades\Helpers\Filesystem\Directory;
-use DragonCode\Support\Facades\Helpers\Filesystem\File;
+use DragonCode\Support\Facades\Filesystem\Directory;
+use DragonCode\Support\Facades\Filesystem\File;
 use Illuminate\Support\Facades\Artisan;
 use LaravelLang\Publisher\Concerns\Has;
 use LaravelLang\Publisher\Concerns\Paths;

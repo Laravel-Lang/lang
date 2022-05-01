@@ -13,7 +13,7 @@ use LaravelLang\Development\Support\Env as Support;
  */
 class Env extends Facade
 {
-    protected static function getFacadeAccessor()
+    protected static function getFacadeAccessor(): mixed
     {
         return Support::class;
     }

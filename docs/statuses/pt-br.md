@@ -2,9 +2,8 @@
 editLink: false
 ---
 
-# pt_BR
+# {{locale}}
 
-##### All missed: 0
+##### All missed: {{count}}
 
-All lines are translated 😎
-
+{{content}}

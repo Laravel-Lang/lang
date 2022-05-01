@@ -10,7 +10,7 @@ use LaravelLang\Development\Services\Translate as Service;
  */
 class Translate extends Facade
 {
-    protected static function getFacadeAccessor()
+    protected static function getFacadeAccessor(): mixed
     {
         return Service::class;
     }

@@ -80,7 +80,7 @@ return [
         'numeric' => ':attribute inapaswa kuwa ndogo kuliko au sawa na :value.',
         'string'  => ':attribute inapaswa kuwa ndogo au sawa na herufi :value.',
     ],
-    'mac_address'          => 'kipengele :attribute kinapaswa kuwa anwani sahihi ya MAC.',
+    'mac_address'          => 'Kipengele :attribute kinapaswa kuwa anwani sahihi ya MAC.',
     'max'                  => [
         'array'   => 'Kipengele huenda kisiwe na zaidi ya :max cha vifungu.',
         'file'    => 'Kipengele huenda si kikubwa kuliko :max cha kilobaiti.',

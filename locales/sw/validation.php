@@ -44,7 +44,7 @@ return [
     'distinct'             => 'Sehemu ya kipengele ina thamani rudufu.',
     'email'                => 'Kipengele lazima kiwe anuani halali ya barua pepe.',
     'ends_with'            => 'Ya :attribute lazima mwisho na moja ya yafuatayo: :values.',
-    'enum'                 => ':attribute iliyochaguliwa si sahihi.',
+    'enum'                 => ':Attribute iliyochaguliwa si sahihi.',
     'exists'               => 'Kipengele kilichochaguliwa si halali.',
     'file'                 => ':attribute linapaswa kuwa faili.',
     'filled'               => 'Sehemu ya kipengele inahitajika.',

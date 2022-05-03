@@ -35,7 +35,7 @@ return [
     'date'                 => 'Kipengele si tarehe halali.',
     'date_equals'          => ':attribute inapaswa kuwa tarehe sawa na :date.',
     'date_format'          => 'Kipengele hakilingani na muundo :date.',
-    'declined'             => ':attribute inapaswa kukataliwa.',
+    'declined'             => ':Attribute inapaswa kukataliwa.',
     'declined_if'          => ' :attribute inapaswa kukataliwa kama :other ni :value.',
     'different'            => 'Kipengele na :other lazima viwe tofauti.',
     'digits'               => 'Kipengele lazima kiwe :digits tarakimu.',

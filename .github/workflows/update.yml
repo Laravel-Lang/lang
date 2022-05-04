@@ -42,7 +42,7 @@ jobs:
                 run: |
                     IS_DIRTY=1
 
-                    #php app/packages.php
+                    php app/packages.php
 
                     { git add . && git commit -a -m "Updating package files"; } || IS_DIRTY=0
 

@@ -39,10 +39,10 @@ jobs:
                     VITE_APP_ALGOLIA_API_KEY: ${{ secrets.VITE_APP_ALGOLIA_API_KEY }}
                     VITE_APP_ALGOLIA_INDEX_NAME: ${{ secrets.VITE_APP_ALGOLIA_INDEX_NAME }}
 
-            -   name: Deploy to GitHub Pages
-                uses: crazy-max/ghaction-github-pages@v2.6.0
-                with:
-                    target_branch: gh-pages
-                    build_dir: docs/.vuepress/dist
-                env:
-                    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            #-   name: Deploy to GitHub Pages
+            #    uses: crazy-max/ghaction-github-pages@v2.6.0
+            #    with:
+            #        target_branch: gh-pages
+            #        build_dir: docs/.vuepress/dist
+            #    env:
+            #        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

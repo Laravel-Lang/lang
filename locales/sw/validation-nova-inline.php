@@ -13,5 +13,5 @@
 
 return [
     'attached'  => 'Uwanja huu ni tayari masharti.',
-    'relatable' => 'Uwanja huu inaweza kuwa kuhusishwa na rasilimali hii.',
+    'relatable' => 'Uwanja huu unaweza kuhusishwa na rasilimali hii.',
 ];

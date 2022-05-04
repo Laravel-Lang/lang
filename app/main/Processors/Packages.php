@@ -24,7 +24,7 @@ class Packages extends Processor
         'laravel/laravel/6.x' => ['packages/framework/laravel-6.json', false],
         'laravel/laravel/7.x' => ['packages/framework/laravel-7.json', false],
         'laravel/laravel/8.x' => ['packages/framework/laravel-8.json', false],
-        'laravel/laravel/9.x' => ['packages/framework/laravel-9.json', false, 'laravel/laravel/9.x/laravel-9.x/lang/en.json'],
+        'laravel/laravel/9.x' => ['packages/framework/laravel-9.json', false],
     ];
 
     public function run(): void

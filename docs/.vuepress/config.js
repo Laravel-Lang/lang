@@ -1,6 +1,8 @@
 const fs = require('fs');
 const path = require('path');
 
+const { viteBundler, defaultTheme } = require('vuepress')
+
 require('dotenv').config();
 
 const hostname = 'laravel-lang.com';
@@ -15,8 +17,9 @@ module.exports = {
         ['meta', { name: 'twitter:image', content: `https://${ hostname }/images/social-logo.png` }]
     ],
 
-    theme: '@vuepress/theme-default',
-    themeConfig: {
+    bundler: viteBundler(),
+
+    theme: defaultTheme({
         hostname,
         base: '/',
 
@@ -85,7 +88,7 @@ module.exports = {
                 ]
             }
         ]
-    },
+    }),
 
     plugins: [
         [

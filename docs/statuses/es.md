@@ -2,8 +2,9 @@
 editLink: false
 ---
 
-# {{locale}}
+# es
 
-##### All missed: {{count}}
+##### All missed: 0
 
-{{content}}
+All lines are translated 😎
+

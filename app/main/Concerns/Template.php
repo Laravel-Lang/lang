@@ -19,7 +19,7 @@ trait Template
 
     protected function replace(string $template, array $values, bool $return_empty = false): string
     {
-        return $return_empty ? '' : Str::replace($template, $values, '{{%s}}');
+        return $return_empty ? '' : Str::replaceFormat($template, $values, '{{%s}}');
     }
 
     protected function getTemplate(string $filename, bool $trim = false): string

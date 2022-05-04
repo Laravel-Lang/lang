@@ -12,6 +12,6 @@
 */
 
 return [
-    'next'     => 'Ifuatayo na raquo;',
-    'previous' => 'na laquo; Awali',
+    'next'     => 'Ifuatayo &raquo;',
+    'previous' => '&laquo; Awali',
 ];

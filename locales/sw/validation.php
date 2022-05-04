@@ -12,7 +12,7 @@
 */
 
 return [
-    'accepted'             => 'Lazima kipengele kikubalike.',
+    'accepted'             => 'Lazima kipengele kikubaliwe.',
     'accepted_if'          => 'Kipengele :attribute lazima kikubalike wakati :other ni :value.',
     'active_url'           => 'Kipengele sio Chanzo Cha Anuani halali.',
     'after'                => 'Kipengele lazima kiwe tarehe baada ya :date.',
@@ -38,7 +38,7 @@ return [
     'declined'             => ':Attribute inapaswa kukataliwa.',
     'declined_if'          => ':Attribute inapaswa kukataliwa kama :other ni :value.',
     'different'            => 'Kipengele na :other lazima viwe tofauti.',
-    'digits'               => 'Kipengele lazima kiwe :digits tarakimu.',
+    'digits'               => 'Kipengele lazima kiwe na tarakimu :digits.',
     'digits_between'       => 'Kipengele lazima kiwe kati ya :min na :max cha tarakimu.',
     'dimensions'           => ':attribute ina vipimo vya picha ambavyo si sahihi.',
     'distinct'             => 'Sehemu ya kipengele ina thamani rudufu.',

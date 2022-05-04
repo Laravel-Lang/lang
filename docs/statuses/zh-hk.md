@@ -2,8 +2,22 @@
 editLink: false
 ---
 
-# {{locale}}
+# zh_HK
 
-##### All missed: {{count}}
+##### All missed: 1
 
-{{content}}
+
+### [zh_HK](https://github.com/Laravel-Lang/lang/blob/main/locales/zh_HK/zh_HK.json)
+
+##### Missing: 1
+
+<table >
+<tr><td align="left" >
+If you're having trouble clicking the ":actionText" button, copy and paste the URL below
+into your web browser:
+</td>
+</tr>
+
+</table>
+
+

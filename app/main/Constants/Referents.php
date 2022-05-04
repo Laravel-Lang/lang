@@ -37,6 +37,8 @@ class Referents
     public const sr_Latn = ['LukaLatkovic'];
 
     public const sr_Latn_ME = ['LukaLatkovic'];
+    
+    public const sw = ['Pheogrammer'];
 
     public const uk = ['MrAlKuz'];
 

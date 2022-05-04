@@ -30,7 +30,6 @@ class Machines
         'sr_Cyrl',
         'sr_Latn',
         'sr_Latn_ME',
-        'sw',
         'tg',
         'th',
         'tl',

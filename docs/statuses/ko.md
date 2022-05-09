@@ -4,7 +4,7 @@ editLink: false
 
 # ko
 
-##### All missed: 30
+##### All missed: 29
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/ko/validation-inline.php)
@@ -41,7 +41,7 @@ The :attribute field must contain entries for: :values.
 
 ### [ko](https://github.com/Laravel-Lang/lang/blob/main/locales/ko/ko.json)
 
-##### Missing: 28
+##### Missing: 27
 
 <table >
 <tr><td align="left" >
@@ -74,11 +74,6 @@ Finish enabling two factor authentication.
 </tr>
 <tr><td align="left" >
 Forgot Password
-</td>
-</tr>
-<tr><td align="left" >
-If you're having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser:
 </td>
 </tr>
 <tr><td align="left" >

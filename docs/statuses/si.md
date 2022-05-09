@@ -4,7 +4,7 @@ editLink: false
 
 # si
 
-##### All missed: 57
+##### All missed: 56
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/si/validation-inline.php)
@@ -104,7 +104,7 @@ The :attribute field must contain entries for: :values.
 
 ### [si](https://github.com/Laravel-Lang/lang/blob/main/locales/si/si.json)
 
-##### Missing: 46
+##### Missing: 45
 
 <table >
 <tr><td align="left" >
@@ -165,11 +165,6 @@ Forgot Password
 </tr>
 <tr><td align="left" >
 If you did not receive the email
-</td>
-</tr>
-<tr><td align="left" >
-If you're having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser:
 </td>
 </tr>
 <tr><td align="left" >

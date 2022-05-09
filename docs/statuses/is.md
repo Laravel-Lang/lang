@@ -4,7 +4,7 @@ editLink: false
 
 # is
 
-##### All missed: 195
+##### All missed: 194
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/is/auth.php)
@@ -351,7 +351,7 @@ The :attribute field must contain entries for: :values.
 
 ### [is](https://github.com/Laravel-Lang/lang/blob/main/locales/is/is.json)
 
-##### Missing: 150
+##### Missing: 149
 
 <table >
 <tr><td align="left" >
@@ -524,11 +524,6 @@ If you did not receive the email
 </tr>
 <tr><td align="left" >
 If you need to add specific contact or tax information to your receipts, like your full business name, VAT identification number, or address of record, you may add it here.
-</td>
-</tr>
-<tr><td align="left" >
-If you're having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser:
 </td>
 </tr>
 <tr><td align="left" >

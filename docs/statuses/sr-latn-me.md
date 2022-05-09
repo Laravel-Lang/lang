@@ -4,7 +4,7 @@ editLink: false
 
 # sr_Latn_ME
 
-##### All missed: 194
+##### All missed: 193
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/sr_Latn_ME/validation-inline.php)
@@ -321,7 +321,7 @@ The :attribute field must contain entries for: :values.
 
 ### [sr_Latn_ME](https://github.com/Laravel-Lang/lang/blob/main/locales/sr_Latn_ME/sr_Latn_ME.json)
 
-##### Missing: 152
+##### Missing: 151
 
 <table >
 <tr><td align="left" >
@@ -498,11 +498,6 @@ If you did not receive the email
 </tr>
 <tr><td align="left" >
 If you need to add specific contact or tax information to your receipts, like your full business name, VAT identification number, or address of record, you may add it here.
-</td>
-</tr>
-<tr><td align="left" >
-If you're having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser:
 </td>
 </tr>
 <tr><td align="left" >

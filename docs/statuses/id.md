@@ -4,21 +4,16 @@ editLink: false
 
 # id
 
-##### All missed: 10
+##### All missed: 9
 
 
 ### [id](https://github.com/Laravel-Lang/lang/blob/main/locales/id/id.json)
 
-##### Missing: 10
+##### Missing: 9
 
 <table >
 <tr><td align="left" >
 Are you sure you want to stop impersonating?
-</td>
-</tr>
-<tr><td align="left" >
-If you're having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser:
 </td>
 </tr>
 <tr><td align="left" >

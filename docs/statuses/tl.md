@@ -4,7 +4,7 @@ editLink: false
 
 # tl
 
-##### All missed: 311
+##### All missed: 310
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/tl/auth.php)
@@ -407,7 +407,7 @@ The :attribute field must contain entries for: :values.
 
 ### [tl](https://github.com/Laravel-Lang/lang/blob/main/locales/tl/tl.json)
 
-##### Missing: 258
+##### Missing: 257
 
 <table >
 <tr><td align="left" >
@@ -752,11 +752,6 @@ If you did not receive the email
 </tr>
 <tr><td align="left" >
 If you need to add specific contact or tax information to your receipts, like your full business name, VAT identification number, or address of record, you may add it here.
-</td>
-</tr>
-<tr><td align="left" >
-If you're having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser:
 </td>
 </tr>
 <tr><td align="left" >

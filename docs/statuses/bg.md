@@ -4,7 +4,7 @@ editLink: false
 
 # bg
 
-##### All missed: 46
+##### All missed: 45
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/bg/validation-inline.php)
@@ -97,7 +97,7 @@ The :attribute field must contain entries for: :values.
 
 ### [bg](https://github.com/Laravel-Lang/lang/blob/main/locales/bg/bg.json)
 
-##### Missing: 36
+##### Missing: 35
 
 <table >
 <tr><td align="left" >
@@ -150,11 +150,6 @@ Forgot Password
 </tr>
 <tr><td align="left" >
 If you did not receive the email
-</td>
-</tr>
-<tr><td align="left" >
-If you're having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser:
 </td>
 </tr>
 <tr><td align="left" >

@@ -4,12 +4,12 @@ editLink: false
 
 # pl
 
-##### All missed: 27
+##### All missed: 26
 
 
 ### [pl](https://github.com/Laravel-Lang/lang/blob/main/locales/pl/pl.json)
 
-##### Missing: 27
+##### Missing: 26
 
 <table >
 <tr><td align="left" >
@@ -42,11 +42,6 @@ Finish enabling two factor authentication.
 </tr>
 <tr><td align="left" >
 Forgot Password
-</td>
-</tr>
-<tr><td align="left" >
-If you're having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser:
 </td>
 </tr>
 <tr><td align="left" >

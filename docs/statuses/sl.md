@@ -4,7 +4,7 @@ editLink: false
 
 # sl
 
-##### All missed: 133
+##### All missed: 132
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/sl/validation-inline.php)
@@ -97,7 +97,7 @@ The :attribute field must contain entries for: :values.
 
 ### [sl](https://github.com/Laravel-Lang/lang/blob/main/locales/sl/sl.json)
 
-##### Missing: 123
+##### Missing: 122
 
 <table >
 <tr><td align="left" >
@@ -238,11 +238,6 @@ ID
 </tr>
 <tr><td align="left" >
 If you did not receive the email
-</td>
-</tr>
-<tr><td align="left" >
-If you're having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser:
 </td>
 </tr>
 <tr><td align="left" >

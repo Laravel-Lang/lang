@@ -4,12 +4,12 @@ editLink: false
 
 # ja
 
-##### All missed: 6
+##### All missed: 5
 
 
 ### [ja](https://github.com/Laravel-Lang/lang/blob/main/locales/ja/ja.json)
 
-##### Missing: 6
+##### Missing: 5
 
 <table >
 <tr><td align="left" >
@@ -18,11 +18,6 @@ ID
 </tr>
 <tr><td align="left" >
 If you did not receive the email
-</td>
-</tr>
-<tr><td align="left" >
-If you're having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser:
 </td>
 </tr>
 <tr><td align="left" >

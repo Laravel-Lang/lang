@@ -4,7 +4,7 @@ editLink: false
 
 # Completion status
 
-> Translation of localizations is completed by **77%** (725.9K / 944.1K).
+> Translation of localizations is completed by **77%** (726.3K / 944.1K).
 
 <table width="100%">
 <tr><td align="center" width="17%">
@@ -257,7 +257,7 @@ editLink: false
 </tr>
 <tr><td align="center" width="17%">
 
-[pl&nbsp;❗](statuses/pl.md)
+[pl&nbsp;✔](statuses/pl.md)
 
 </td>
 <td align="center" width="17%">

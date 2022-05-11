@@ -1,5 +1,6 @@
 [
-    "A new verification link has been sent to the email address you provided during registration.",
+    "A new verification link has been sent to the email address you provided in your profile settings.",
+    "A new verification link has been sent to your email address.",
     "Accept Invitation",
     "Add",
     "Add a new team member to your team, allowing them to collaborate with you.",
@@ -17,8 +18,10 @@
     "Are you sure you would like to delete this API token?",
     "Are you sure you would like to leave this team?",
     "Are you sure you would like to remove this person from the team?",
+    "Before continuing, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.",
     "Browser Sessions",
     "Cancel",
+    "Click here to re-send the verification email.",
     "Close",
     "Code",
     "Confirm",
@@ -38,6 +41,7 @@
     "Delete Team",
     "Disable",
     "Done.",
+    "Edit Profile",
     "Email",
     "Email Password Reset Link",
     "Enable",
@@ -106,7 +110,6 @@
     "Team Owner",
     "Team Settings",
     "Terms of Service",
-    "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.",
     "The :attribute must be a valid role.",
     "The password is incorrect.",
     "The team's name and owner information.",
@@ -133,5 +136,6 @@
     "You may accept this invitation by clicking the button below:",
     "You may delete any of your existing tokens if they are no longer needed.",
     "You may not delete your personal team.",
-    "You may not leave a team that you created."
+    "You may not leave a team that you created.",
+    "Your email address is unverified."
 ]

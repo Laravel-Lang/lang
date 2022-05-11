@@ -4,7 +4,7 @@ editLink: false
 
 # cy
 
-##### All missed: 203
+##### All missed: 209
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/cy/auth.php)
@@ -421,7 +421,7 @@ The :attribute field must contain entries for: :values.
 
 ### [cy](https://github.com/Laravel-Lang/lang/blob/main/locales/cy/cy.json)
 
-##### Missing: 148
+##### Missing: 154
 
 <table >
 <tr><td align="left" >
@@ -430,6 +430,14 @@ The :attribute field must contain entries for: :values.
 </tr>
 <tr><td align="left" >
 A fresh verification link has been sent to your email address.
+</td>
+</tr>
+<tr><td align="left" >
+A new verification link has been sent to the email address you provided in your profile settings.
+</td>
+</tr>
+<tr><td align="left" >
+A new verification link has been sent to your email address.
 </td>
 </tr>
 <tr><td align="left" >
@@ -473,6 +481,10 @@ Are you sure you want to stop impersonating?
 </td>
 </tr>
 <tr><td align="left" >
+Before continuing, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
+</td>
+</tr>
+<tr><td align="left" >
 Before proceeding, please check your email for a verification link.
 </td>
 </tr>
@@ -502,6 +514,10 @@ Change Subscription Plan
 </tr>
 <tr><td align="left" >
 City
+</td>
+</tr>
+<tr><td align="left" >
+Click here to re-send the verification email.
 </td>
 </tr>
 <tr><td align="left" >
@@ -542,6 +558,10 @@ Download Receipt
 </tr>
 <tr><td align="left" >
 E-Mail Address
+</td>
+</tr>
+<tr><td align="left" >
+Edit Profile
 </td>
 </tr>
 <tr><td align="left" >
@@ -1002,6 +1022,10 @@ Your current payment method is :paypal.
 </tr>
 <tr><td align="left" >
 Your current payment method is a credit card ending in :lastFour that expires on :expiration.
+</td>
+</tr>
+<tr><td align="left" >
+Your email address is unverified.
 </td>
 </tr>
 <tr><td align="left" >

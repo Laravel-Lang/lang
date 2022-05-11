@@ -4,7 +4,7 @@ editLink: false
 
 # ms
 
-##### All missed: 313
+##### All missed: 319
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/ms/validation-inline.php)
@@ -139,9 +139,17 @@ The :attribute field must contain entries for: :values.
 
 ### [ms](https://github.com/Laravel-Lang/lang/blob/main/locales/ms/ms.json)
 
-##### Missing: 297
+##### Missing: 303
 
 <table >
+<tr><td align="left" >
+A new verification link has been sent to the email address you provided in your profile settings.
+</td>
+</tr>
+<tr><td align="left" >
+A new verification link has been sent to your email address.
+</td>
+</tr>
 <tr><td align="left" >
 Afghanistan
 </td>
@@ -228,6 +236,10 @@ Bangladesh
 </tr>
 <tr><td align="left" >
 Barbados
+</td>
+</tr>
+<tr><td align="left" >
+Before continuing, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
 </td>
 </tr>
 <tr><td align="left" >
@@ -319,6 +331,10 @@ City
 </td>
 </tr>
 <tr><td align="left" >
+Click here to re-send the verification email.
+</td>
+</tr>
+<tr><td align="left" >
 click here to request another
 </td>
 </tr>
@@ -388,6 +404,10 @@ E-Mail Address
 </tr>
 <tr><td align="left" >
 Ecuador
+</td>
+</tr>
+<tr><td align="left" >
+Edit Profile
 </td>
 </tr>
 <tr><td align="left" >
@@ -1308,6 +1328,10 @@ Your current payment method is :paypal.
 </tr>
 <tr><td align="left" >
 Your current payment method is a credit card ending in :lastFour that expires on :expiration.
+</td>
+</tr>
+<tr><td align="left" >
+Your email address is unverified.
 </td>
 </tr>
 <tr><td align="left" >

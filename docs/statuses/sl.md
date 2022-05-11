@@ -4,7 +4,7 @@ editLink: false
 
 # sl
 
-##### All missed: 132
+##### All missed: 138
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/sl/validation-inline.php)
@@ -97,11 +97,19 @@ The :attribute field must contain entries for: :values.
 
 ### [sl](https://github.com/Laravel-Lang/lang/blob/main/locales/sl/sl.json)
 
-##### Missing: 122
+##### Missing: 128
 
 <table >
 <tr><td align="left" >
 A fresh verification link has been sent to your email address.
+</td>
+</tr>
+<tr><td align="left" >
+A new verification link has been sent to the email address you provided in your profile settings.
+</td>
+</tr>
+<tr><td align="left" >
+A new verification link has been sent to your email address.
 </td>
 </tr>
 <tr><td align="left" >
@@ -137,6 +145,10 @@ Barbados
 </td>
 </tr>
 <tr><td align="left" >
+Before continuing, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
+</td>
+</tr>
+<tr><td align="left" >
 Before proceeding, please check your email for a verification link.
 </td>
 </tr>
@@ -165,6 +177,10 @@ Change Subscription Plan
 </td>
 </tr>
 <tr><td align="left" >
+Click here to re-send the verification email.
+</td>
+</tr>
+<tr><td align="left" >
 click here to request another
 </td>
 </tr>
@@ -186,6 +202,10 @@ Download Receipt
 </tr>
 <tr><td align="left" >
 E-Mail Address
+</td>
+</tr>
+<tr><td align="left" >
+Edit Profile
 </td>
 </tr>
 <tr><td align="left" >
@@ -582,6 +602,10 @@ You are logged in!
 </tr>
 <tr><td align="left" >
 You may cancel your subscription at any time. Once your subscription has been cancelled, you will have the option to resume the subscription until the end of your current billing cycle.
+</td>
+</tr>
+<tr><td align="left" >
+Your email address is unverified.
 </td>
 </tr>
 <tr><td align="left" >

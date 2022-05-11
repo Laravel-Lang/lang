@@ -4,14 +4,22 @@ editLink: false
 
 # tr
 
-##### All missed: 25
+##### All missed: 31
 
 
 ### [tr](https://github.com/Laravel-Lang/lang/blob/main/locales/tr/tr.json)
 
-##### Missing: 25
+##### Missing: 31
 
 <table >
+<tr><td align="left" >
+A new verification link has been sent to the email address you provided in your profile settings.
+</td>
+</tr>
+<tr><td align="left" >
+A new verification link has been sent to your email address.
+</td>
+</tr>
 <tr><td align="left" >
 An error occurred while uploading the file.
 </td>
@@ -25,11 +33,23 @@ Are you sure you want to stop impersonating?
 </td>
 </tr>
 <tr><td align="left" >
+Before continuing, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
+</td>
+</tr>
+<tr><td align="left" >
+Click here to re-send the verification email.
+</td>
+</tr>
+<tr><td align="left" >
 Dark
 </td>
 </tr>
 <tr><td align="left" >
 E-Mail Address
+</td>
+</tr>
+<tr><td align="left" >
+Edit Profile
 </td>
 </tr>
 <tr><td align="left" >
@@ -110,6 +130,10 @@ To finish enabling two factor authentication, scan the following QR code using y
 </tr>
 <tr><td align="left" >
 Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application or enter the setup key.
+</td>
+</tr>
+<tr><td align="left" >
+Your email address is unverified.
 </td>
 </tr>
 

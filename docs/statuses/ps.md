@@ -4,7 +4,7 @@ editLink: false
 
 # ps
 
-##### All missed: 781
+##### All missed: 787
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/ps/auth.php)
@@ -840,7 +840,7 @@ The :attribute field must contain entries for: :values.
 
 ### [ps](https://github.com/Laravel-Lang/lang/blob/main/locales/ps/ps.json)
 
-##### Missing: 670
+##### Missing: 676
 
 <table >
 <tr><td align="left" >
@@ -877,6 +877,14 @@ A fresh verification link has been sent to your email address.
 </tr>
 <tr><td align="left" >
 A new verification link has been sent to the email address you provided during registration.
+</td>
+</tr>
+<tr><td align="left" >
+A new verification link has been sent to the email address you provided in your profile settings.
+</td>
+</tr>
+<tr><td align="left" >
+A new verification link has been sent to your email address.
 </td>
 </tr>
 <tr><td align="left" >
@@ -1152,6 +1160,10 @@ Barbados
 </td>
 </tr>
 <tr><td align="left" >
+Before continuing, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
+</td>
+</tr>
+<tr><td align="left" >
 Before proceeding, please check your email for a verification link.
 </td>
 </tr>
@@ -1325,6 +1337,10 @@ Christmas Island
 </tr>
 <tr><td align="left" >
 City
+</td>
+</tr>
+<tr><td align="left" >
+Click here to re-send the verification email.
 </td>
 </tr>
 <tr><td align="left" >
@@ -1589,6 +1605,10 @@ Edit :resource
 </tr>
 <tr><td align="left" >
 Edit Attached
+</td>
+</tr>
+<tr><td align="left" >
+Edit Profile
 </td>
 </tr>
 <tr><td align="left" >
@@ -3501,6 +3521,10 @@ Your current payment method is :paypal.
 </tr>
 <tr><td align="left" >
 Your current payment method is a credit card ending in :lastFour that expires on :expiration.
+</td>
+</tr>
+<tr><td align="left" >
+Your email address is unverified.
 </td>
 </tr>
 <tr><td align="left" >

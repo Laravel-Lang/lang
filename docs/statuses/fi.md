@@ -4,7 +4,7 @@ editLink: false
 
 # fi
 
-##### All missed: 52
+##### All missed: 58
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/fi/validation-inline.php)
@@ -139,11 +139,19 @@ The :attribute field must contain entries for: :values.
 
 ### [fi](https://github.com/Laravel-Lang/lang/blob/main/locales/fi/fi.json)
 
-##### Missing: 36
+##### Missing: 42
 
 <table >
 <tr><td align="left" >
 A fresh verification link has been sent to your email address.
+</td>
+</tr>
+<tr><td align="left" >
+A new verification link has been sent to the email address you provided in your profile settings.
+</td>
+</tr>
+<tr><td align="left" >
+A new verification link has been sent to your email address.
 </td>
 </tr>
 <tr><td align="left" >
@@ -159,7 +167,15 @@ Are you sure you want to stop impersonating?
 </td>
 </tr>
 <tr><td align="left" >
+Before continuing, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
+</td>
+</tr>
+<tr><td align="left" >
 Before proceeding, please check your email for a verification link.
+</td>
+</tr>
+<tr><td align="left" >
+Click here to re-send the verification email.
 </td>
 </tr>
 <tr><td align="left" >
@@ -172,6 +188,10 @@ Dark
 </tr>
 <tr><td align="left" >
 E-Mail Address
+</td>
+</tr>
+<tr><td align="left" >
+Edit Profile
 </td>
 </tr>
 <tr><td align="left" >
@@ -284,6 +304,10 @@ We have emailed your password reset link!
 </tr>
 <tr><td align="left" >
 You are logged in!
+</td>
+</tr>
+<tr><td align="left" >
+Your email address is unverified.
 </td>
 </tr>
 

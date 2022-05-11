@@ -4,7 +4,7 @@ editLink: false
 
 # ka
 
-##### All missed: 125
+##### All missed: 131
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/ka/validation-inline.php)
@@ -97,11 +97,19 @@ The :attribute field must contain entries for: :values.
 
 ### [ka](https://github.com/Laravel-Lang/lang/blob/main/locales/ka/ka.json)
 
-##### Missing: 115
+##### Missing: 121
 
 <table >
 <tr><td align="left" >
 A fresh verification link has been sent to your email address.
+</td>
+</tr>
+<tr><td align="left" >
+A new verification link has been sent to the email address you provided in your profile settings.
+</td>
+</tr>
+<tr><td align="left" >
+A new verification link has been sent to your email address.
 </td>
 </tr>
 <tr><td align="left" >
@@ -117,11 +125,19 @@ Are you sure you want to stop impersonating?
 </td>
 </tr>
 <tr><td align="left" >
+Before continuing, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
+</td>
+</tr>
+<tr><td align="left" >
 Before proceeding, please check your email for a verification link.
 </td>
 </tr>
 <tr><td align="left" >
 Bolivia, Plurinational State of
+</td>
+</tr>
+<tr><td align="left" >
+Click here to re-send the verification email.
 </td>
 </tr>
 <tr><td align="left" >
@@ -150,6 +166,10 @@ Dark
 </tr>
 <tr><td align="left" >
 E-Mail Address
+</td>
+</tr>
+<tr><td align="left" >
+Edit Profile
 </td>
 </tr>
 <tr><td align="left" >
@@ -546,6 +566,10 @@ Your current payment method is :paypal.
 </tr>
 <tr><td align="left" >
 Your current payment method is a credit card ending in :lastFour that expires on :expiration.
+</td>
+</tr>
+<tr><td align="left" >
+Your email address is unverified.
 </td>
 </tr>
 <tr><td align="left" >

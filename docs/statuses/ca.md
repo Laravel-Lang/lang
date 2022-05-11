@@ -4,7 +4,7 @@ editLink: false
 
 # ca
 
-##### All missed: 44
+##### All missed: 50
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/ca/validation-inline.php)
@@ -321,15 +321,39 @@ The :attribute field must contain entries for: :values.
 
 ### [ca](https://github.com/Laravel-Lang/lang/blob/main/locales/ca/ca.json)
 
-##### Missing: 2
+##### Missing: 8
 
 <table >
+<tr><td align="left" >
+A new verification link has been sent to the email address you provided in your profile settings.
+</td>
+</tr>
+<tr><td align="left" >
+A new verification link has been sent to your email address.
+</td>
+</tr>
+<tr><td align="left" >
+Before continuing, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
+</td>
+</tr>
+<tr><td align="left" >
+Click here to re-send the verification email.
+</td>
+</tr>
+<tr><td align="left" >
+Edit Profile
+</td>
+</tr>
 <tr><td align="left" >
 Réunion
 </td>
 </tr>
 <tr><td align="left" >
 There was a problem fetching the resource.
+</td>
+</tr>
+<tr><td align="left" >
+Your email address is unverified.
 </td>
 </tr>
 

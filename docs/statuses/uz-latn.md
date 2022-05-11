@@ -4,7 +4,7 @@ editLink: false
 
 # uz_Latn
 
-##### All missed: 271
+##### All missed: 277
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/uz_Latn/auth.php)
@@ -337,7 +337,7 @@ The :attribute field must contain entries for: :values.
 
 ### [uz_Latn](https://github.com/Laravel-Lang/lang/blob/main/locales/uz_Latn/uz_Latn.json)
 
-##### Missing: 228
+##### Missing: 234
 
 <table >
 <tr><td align="left" >
@@ -346,6 +346,14 @@ The :attribute field must contain entries for: :values.
 </tr>
 <tr><td align="left" >
 A fresh verification link has been sent to your email address.
+</td>
+</tr>
+<tr><td align="left" >
+A new verification link has been sent to the email address you provided in your profile settings.
+</td>
+</tr>
+<tr><td align="left" >
+A new verification link has been sent to your email address.
 </td>
 </tr>
 <tr><td align="left" >
@@ -418,6 +426,10 @@ Bangladesh
 </tr>
 <tr><td align="left" >
 Barbados
+</td>
+</tr>
+<tr><td align="left" >
+Before continuing, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
 </td>
 </tr>
 <tr><td align="left" >
@@ -497,6 +509,10 @@ City
 </td>
 </tr>
 <tr><td align="left" >
+Click here to re-send the verification email.
+</td>
+</tr>
+<tr><td align="left" >
 click here to request another
 </td>
 </tr>
@@ -554,6 +570,10 @@ Download Receipt
 </tr>
 <tr><td align="left" >
 E-Mail Address
+</td>
+</tr>
+<tr><td align="left" >
+Edit Profile
 </td>
 </tr>
 <tr><td align="left" >
@@ -1238,6 +1258,10 @@ Your current payment method is :paypal.
 </tr>
 <tr><td align="left" >
 Your current payment method is a credit card ending in :lastFour that expires on :expiration.
+</td>
+</tr>
+<tr><td align="left" >
+Your email address is unverified.
 </td>
 </tr>
 <tr><td align="left" >

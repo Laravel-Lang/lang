@@ -130,7 +130,7 @@ return [
     'uuid'                 => ':attribute 必须是有效的 UUID。',
     'custom'               => [
         'attribute-name' => [
-            'rule-name' => 'custom-message',
+            'rule-name' => '自定义信息',
         ],
     ],
 ];

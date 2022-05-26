@@ -4,12 +4,12 @@ editLink: false
 
 # fa
 
-##### All missed: 7
+##### All missed: 6
 
 
 ### [fa](https://github.com/Laravel-Lang/lang/blob/main/locales/fa/fa.json)
 
-##### Missing: 7
+##### Missing: 6
 
 <table >
 <tr><td align="left" >
@@ -26,10 +26,6 @@ Before continuing, could you verify your email address by clicking on the link w
 </tr>
 <tr><td align="left" >
 Click here to re-send the verification email.
-</td>
-</tr>
-<tr><td align="left" >
-Edit Profile
 </td>
 </tr>
 <tr><td align="left" >

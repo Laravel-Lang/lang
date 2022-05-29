@@ -4,7 +4,7 @@ editLink: false
 
 # ro
 
-##### All missed: 285
+##### All missed: 243
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/ro/validation-inline.php)
@@ -256,7 +256,7 @@ The string must be :size characters.
 
 ### [ro](https://github.com/Laravel-Lang/lang/blob/main/locales/ro/ro.json)
 
-##### Missing: 251
+##### Missing: 209
 
 <table >
 <tr><td align="left" >
@@ -764,10 +764,6 @@ Mayotte
 </td>
 </tr>
 <tr><td align="left" >
-Micronesia, Federated States of
-</td>
-</tr>
-<tr><td align="left" >
 Moldova
 </td>
 </tr>
@@ -944,10 +940,6 @@ Sierra Leone
 </td>
 </tr>
 <tr><td align="left" >
-Signed in as
-</td>
-</tr>
-<tr><td align="left" >
 Singapore
 </td>
 </tr>
@@ -965,10 +957,6 @@ South Georgia and the South Sandwich Islands
 </tr>
 <tr><td align="left" >
 Sri Lanka
-</td>
-</tr>
-<tr><td align="left" >
-Standalone Actions
 </td>
 </tr>
 <tr><td align="left" >
@@ -996,63 +984,11 @@ Tanzania
 </td>
 </tr>
 <tr><td align="left" >
-Thanks for your continued support. We've attached a copy of your invoice for your records. Please let us know if you have any questions or concerns.
-</td>
-</tr>
-<tr><td align="left" >
-Thanks,
-</td>
-</tr>
-<tr><td align="left" >
-The :attribute must contain at least one letter.
-</td>
-</tr>
-<tr><td align="left" >
-The :attribute must contain at least one number.
-</td>
-</tr>
-<tr><td align="left" >
-The :attribute must contain at least one symbol.
-</td>
-</tr>
-<tr><td align="left" >
-The :attribute must contain at least one uppercase and one lowercase letter.
-</td>
-</tr>
-<tr><td align="left" >
-The given :attribute has appeared in a data leak. Please choose a different :attribute.
-</td>
-</tr>
-<tr><td align="left" >
-The password is incorrect.
-</td>
-</tr>
-<tr><td align="left" >
-The provided coupon code is invalid.
-</td>
-</tr>
-<tr><td align="left" >
-The provided VAT number is invalid.
-</td>
-</tr>
-<tr><td align="left" >
-The receipt emails must be valid email addresses.
-</td>
-</tr>
-<tr><td align="left" >
 The resource was attached!
 </td>
 </tr>
 <tr><td align="left" >
 The resource was prevented from being saved!
-</td>
-</tr>
-<tr><td align="left" >
-The selected country is invalid.
-</td>
-</tr>
-<tr><td align="left" >
-The selected plan is invalid.
 </td>
 </tr>
 <tr><td align="left" >
@@ -1064,31 +1000,11 @@ There are no new notifications.
 </td>
 </tr>
 <tr><td align="left" >
-There is no active subscription.
-</td>
-</tr>
-<tr><td align="left" >
 There was a problem fetching the resource.
 </td>
 </tr>
 <tr><td align="left" >
-This account does not have an active subscription.
-</td>
-</tr>
-<tr><td align="left" >
 This copy of Nova is unlicensed.
-</td>
-</tr>
-<tr><td align="left" >
-This coupon code can only be used by new customers.
-</td>
-</tr>
-<tr><td align="left" >
-This subscription cannot be resumed. Please create a new subscription.
-</td>
-</tr>
-<tr><td align="left" >
-This subscription has expired and cannot be resumed. Please create a new subscription.
 </td>
 </tr>
 <tr><td align="left" >
@@ -1144,14 +1060,6 @@ United States Minor Outlying Islands
 </td>
 </tr>
 <tr><td align="left" >
-Update Payment Information
-</td>
-</tr>
-<tr><td align="left" >
-Update Payment Method
-</td>
-</tr>
-<tr><td align="left" >
 Uruguay
 </td>
 </tr>
@@ -1164,10 +1072,6 @@ Vanuatu
 </td>
 </tr>
 <tr><td align="left" >
-VAT Number
-</td>
-</tr>
-<tr><td align="left" >
 Venezuela
 </td>
 </tr>
@@ -1176,79 +1080,7 @@ Venezuela, Bolivarian Republic of
 </td>
 </tr>
 <tr><td align="left" >
-Verify Your Email Address
-</td>
-</tr>
-<tr><td align="left" >
-View Receipt
-</td>
-</tr>
-<tr><td align="left" >
 Wallis and Futuna
-</td>
-</tr>
-<tr><td align="left" >
-We are processing your subscription. Once the subscription has successfully processed, this page will update automatically. Typically, this process should only take a few seconds.
-</td>
-</tr>
-<tr><td align="left" >
-We are unable to process your payment. Please contact customer support.
-</td>
-</tr>
-<tr><td align="left" >
-We have emailed your password reset link!
-</td>
-</tr>
-<tr><td align="left" >
-We will send a receipt download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
-</td>
-</tr>
-<tr><td align="left" >
-Yearly
-</td>
-</tr>
-<tr><td align="left" >
-You are already subscribed.
-</td>
-</tr>
-<tr><td align="left" >
-You are currently within your free trial period. Your trial will expire on :date.
-</td>
-</tr>
-<tr><td align="left" >
-You are logged in!
-</td>
-</tr>
-<tr><td align="left" >
-You may accept this invitation by clicking the button below:
-</td>
-</tr>
-<tr><td align="left" >
-You may cancel your subscription at any time. Once your subscription has been cancelled, you will have the option to resume the subscription until the end of your current billing cycle.
-</td>
-</tr>
-<tr><td align="left" >
-Your :invoiceName invoice is now available!
-</td>
-</tr>
-<tr><td align="left" >
-Your card was declined. Please contact your card issuer for more information.
-</td>
-</tr>
-<tr><td align="left" >
-Your current payment method is :paypal.
-</td>
-</tr>
-<tr><td align="left" >
-Your current payment method is a credit card ending in :lastFour that expires on :expiration.
-</td>
-</tr>
-<tr><td align="left" >
-Your email address is unverified.
-</td>
-</tr>
-<tr><td align="left" >
-Your registered VAT Number is :vatNumber.
 </td>
 </tr>
 <tr><td align="left" >

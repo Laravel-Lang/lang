@@ -4,26 +4,14 @@ editLink: false
 
 # pt
 
-##### All missed: 112
+##### All missed: 104
 
 
 ### [pt](https://github.com/Laravel-Lang/lang/blob/main/locales/pt/pt.json)
 
-##### Missing: 112
+##### Missing: 104
 
 <table >
-<tr><td align="left" >
-A new verification link has been sent to the email address you provided in your profile settings.
-</td>
-</tr>
-<tr><td align="left" >
-A new verification link has been sent to your email address.
-</td>
-</tr>
-<tr><td align="left" >
-An error occurred while uploading the file.
-</td>
-</tr>
 <tr><td align="left" >
 Are you sure you want to log out?
 </td>
@@ -37,11 +25,15 @@ Before continuing, could you verify your email address by clicking on the link w
 </td>
 </tr>
 <tr><td align="left" >
+China
+</td>
+</tr>
+<tr><td align="left" >
 Click here to re-send the verification email.
 </td>
 </tr>
 <tr><td align="left" >
-Congo, the Democratic Republic of the
+Costa Rica
 </td>
 </tr>
 <tr><td align="left" >
@@ -270,30 +262,6 @@ Thanks for your continued support. We've attached a copy of your invoice for you
 </tr>
 <tr><td align="left" >
 Thanks,
-</td>
-</tr>
-<tr><td align="left" >
-The :attribute must contain at least one letter.
-</td>
-</tr>
-<tr><td align="left" >
-The :attribute must contain at least one number.
-</td>
-</tr>
-<tr><td align="left" >
-The :attribute must contain at least one symbol.
-</td>
-</tr>
-<tr><td align="left" >
-The :attribute must contain at least one uppercase and one lowercase letter.
-</td>
-</tr>
-<tr><td align="left" >
-The given :attribute has appeared in a data leak. Please choose a different :attribute.
-</td>
-</tr>
-<tr><td align="left" >
-The password is incorrect.
 </td>
 </tr>
 <tr><td align="left" >

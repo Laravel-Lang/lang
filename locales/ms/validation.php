@@ -13,7 +13,7 @@
 
 return [
     'accepted'             => ':attribute mesti diterima pakai.',
-    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
+    'accepted_if'          => ':attribute mesti diterima pakai sekiranya :other adalah :value.',
     'active_url'           => ':attribute bukan URL yang sah.',
     'after'                => ':attribute mesti tarikh selepas :date.',
     'after_or_equal'       => ':attribute mesti tarikh selepas atau sama dengan :date.',
@@ -31,7 +31,7 @@ return [
     ],
     'boolean'              => ':attribute mesti benar atau salah.',
     'confirmed'            => ':attribute pengesahan yang tidak sepadan.',
-    'current_password'     => 'The password is incorrect.',
+    'current_password'     => 'Katalaluan anda adalah salah.',
     'date'                 => ':attribute bukan tarikh yang sah.',
     'date_equals'          => ':attribute mesti tarikh sama dengan :date.',
     'date_format'          => ':attribute tidak mengikut format :format.',

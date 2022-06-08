@@ -4,7 +4,7 @@ editLink: false
 
 # ms
 
-##### All missed: 319
+##### All missed: 317
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/ms/validation-inline.php)
@@ -74,23 +74,9 @@ This field must contain entries for: :values.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/ms/validation.php)
 
-##### Missing: 8
+##### Missing: 6
 
 <table >
-<tr><td align="left" >
-accepted_if
-</td>
-<td align="left" >
-The :attribute must be accepted when :other is :value.
-</td>
-</tr>
-<tr><td align="left" >
-current_password
-</td>
-<td align="left" >
-The password is incorrect.
-</td>
-</tr>
 <tr><td align="left" >
 declined
 </td>

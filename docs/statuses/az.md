@@ -4,7 +4,7 @@ editLink: false
 
 # az
 
-##### All missed: 241
+##### All missed: 229
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/az/auth.php)
@@ -272,7 +272,7 @@ The string must be :size characters.
 
 ### [az](https://github.com/Laravel-Lang/lang/blob/main/locales/az/az.json)
 
-##### Missing: 206
+##### Missing: 194
 
 <table >
 <tr><td align="left" >
@@ -332,10 +332,6 @@ Apply Coupon
 </td>
 </tr>
 <tr><td align="left" >
-Are you sure you want to log out?
-</td>
-</tr>
-<tr><td align="left" >
 Are you sure you want to stop impersonating?
 </td>
 </tr>
@@ -352,14 +348,6 @@ Barbados
 </td>
 </tr>
 <tr><td align="left" >
-Before continuing, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
-</td>
-</tr>
-<tr><td align="left" >
-Before proceeding, please check your email for a verification link.
-</td>
-</tr>
-<tr><td align="left" >
 Belarus
 </td>
 </tr>
@@ -373,14 +361,6 @@ Benin
 </tr>
 <tr><td align="left" >
 Bermuda
-</td>
-</tr>
-<tr><td align="left" >
-Billing Information
-</td>
-</tr>
-<tr><td align="left" >
-Billing Management
 </td>
 </tr>
 <tr><td align="left" >
@@ -413,10 +393,6 @@ Change Subscription Plan
 </tr>
 <tr><td align="left" >
 City
-</td>
-</tr>
-<tr><td align="left" >
-Click here to re-send the verification email.
 </td>
 </tr>
 <tr><td align="left" >
@@ -705,10 +681,6 @@ Permissions
 </tr>
 <tr><td align="left" >
 Peru
-</td>
-</tr>
-<tr><td align="left" >
-Please accept the terms of service.
 </td>
 </tr>
 <tr><td align="left" >
@@ -1008,10 +980,6 @@ Vanuatu
 </td>
 </tr>
 <tr><td align="left" >
-VAT Number
-</td>
-</tr>
-<tr><td align="left" >
 Venezuela, Bolivarian Republic of
 </td>
 </tr>
@@ -1048,15 +1016,7 @@ Yearly
 </td>
 </tr>
 <tr><td align="left" >
-You are already subscribed.
-</td>
-</tr>
-<tr><td align="left" >
 You are currently within your free trial period. Your trial will expire on :date.
-</td>
-</tr>
-<tr><td align="left" >
-You are logged in!
 </td>
 </tr>
 <tr><td align="left" >
@@ -1084,15 +1044,7 @@ Your current payment method is a credit card ending in :lastFour that expires on
 </td>
 </tr>
 <tr><td align="left" >
-Your email address is unverified.
-</td>
-</tr>
-<tr><td align="left" >
 Your registered VAT Number is :vatNumber.
-</td>
-</tr>
-<tr><td align="left" >
-Zip / Postal Code
 </td>
 </tr>
 <tr><td align="left" >

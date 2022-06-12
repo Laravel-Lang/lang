@@ -4,7 +4,7 @@ editLink: false
 
 # az
 
-##### All missed: 244
+##### All missed: 241
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/az/auth.php)
@@ -272,7 +272,7 @@ The string must be :size characters.
 
 ### [az](https://github.com/Laravel-Lang/lang/blob/main/locales/az/az.json)
 
-##### Missing: 209
+##### Missing: 206
 
 <table >
 <tr><td align="left" >
@@ -496,10 +496,6 @@ Fiji
 </td>
 </tr>
 <tr><td align="left" >
-Finish enabling two factor authentication.
-</td>
-</tr>
-<tr><td align="left" >
 Forgot Password
 </td>
 </tr>
@@ -524,10 +520,6 @@ Haiti
 </td>
 </tr>
 <tr><td align="left" >
-Have a coupon code?
-</td>
-</tr>
-<tr><td align="left" >
 Having second thoughts about cancelling your subscription? You can instantly reactive your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
 </td>
 </tr>
@@ -541,10 +533,6 @@ Honduras
 </tr>
 <tr><td align="left" >
 Hong Kong
-</td>
-</tr>
-<tr><td align="left" >
-I accept the terms of service
 </td>
 </tr>
 <tr><td align="left" >

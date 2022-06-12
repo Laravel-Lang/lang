@@ -22,7 +22,7 @@
         "ext-json": "*"
     },
     "require-dev": {
-        "php": "^8.0",
+        "php": "^8.1",
         "ext-zip": "*",
         "dragon-code/pretty-array": "^4.0",
         "dragon-code/simple-dto": "^2.3",

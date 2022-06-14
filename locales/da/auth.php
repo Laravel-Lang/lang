@@ -13,6 +13,6 @@
 
 return [
     'failed'   => 'De angivne oplysninger er ugyldige.',
-    'password' => 'The provided password is incorrect.',
+    'password' => 'Det angivne kodeord er ikke korrekt.',
     'throttle' => 'For mange loginforsøg. Prøv igen om :seconds sekunder.',
 ];

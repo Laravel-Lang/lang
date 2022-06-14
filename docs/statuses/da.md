@@ -4,23 +4,7 @@ editLink: false
 
 # da
 
-##### All missed: 321
-
-
-### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/da/auth.php)
-
-##### Missing: 1
-
-<table >
-<tr><td align="left" >
-password
-</td>
-<td align="left" >
-The provided password is incorrect.
-</td>
-</tr>
-
-</table>
+##### All missed: 320
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/da/validation-inline.php)

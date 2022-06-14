@@ -40,7 +40,7 @@
         "vlucas/phpdotenv": "^5.4.1"
     },
     "conflict": {
-        "laravel-lang/publisher": "<12.0"
+        "laravel-lang/publisher": "<12.0 >=14.0"
     },
     "suggest": {
         "arcanedev/laravel-lang": "Translations manager and checker for Laravel 5",

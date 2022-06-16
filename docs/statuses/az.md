@@ -4,7 +4,7 @@ editLink: false
 
 # az
 
-##### All missed: 196
+##### All missed: 154
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/az/auth.php)
@@ -272,43 +272,11 @@ The string must be :size characters.
 
 ### [az](https://github.com/Laravel-Lang/lang/blob/main/locales/az/az.json)
 
-##### Missing: 161
+##### Missing: 119
 
 <table >
 <tr><td align="left" >
 :days day trial
-</td>
-</tr>
-<tr><td align="left" >
-A fresh verification link has been sent to your email address.
-</td>
-</tr>
-<tr><td align="left" >
-A new verification link has been sent to the email address you provided in your profile settings.
-</td>
-</tr>
-<tr><td align="left" >
-A new verification link has been sent to your email address.
-</td>
-</tr>
-<tr><td align="left" >
-Add VAT Number
-</td>
-</tr>
-<tr><td align="left" >
-Address
-</td>
-</tr>
-<tr><td align="left" >
-Address Line 2
-</td>
-</tr>
-<tr><td align="left" >
-An error occurred while uploading the file.
-</td>
-</tr>
-<tr><td align="left" >
-An unexpected error occurred and we have notified our support team. Please try again later.
 </td>
 </tr>
 <tr><td align="left" >
@@ -380,27 +348,11 @@ Burundi
 </td>
 </tr>
 <tr><td align="left" >
-Cancel Subscription
-</td>
-</tr>
-<tr><td align="left" >
 Cape Verde
 </td>
 </tr>
 <tr><td align="left" >
-Change Subscription Plan
-</td>
-</tr>
-<tr><td align="left" >
 City
-</td>
-</tr>
-<tr><td align="left" >
-click here to request another
-</td>
-</tr>
-<tr><td align="left" >
-Congo, the Democratic Republic of the
 </td>
 </tr>
 <tr><td align="left" >
@@ -416,14 +368,6 @@ Coupon
 </td>
 </tr>
 <tr><td align="left" >
-Current Subscription Plan
-</td>
-</tr>
-<tr><td align="left" >
-Currently Subscribed
-</td>
-</tr>
-<tr><td align="left" >
 Côte d'Ivoire
 </td>
 </tr>
@@ -433,14 +377,6 @@ Dark
 </tr>
 <tr><td align="left" >
 Download Receipt
-</td>
-</tr>
-<tr><td align="left" >
-E-Mail Address
-</td>
-</tr>
-<tr><td align="left" >
-Edit Profile
 </td>
 </tr>
 <tr><td align="left" >
@@ -460,19 +396,7 @@ ex VAT
 </td>
 </tr>
 <tr><td align="left" >
-Extra Billing Information
-</td>
-</tr>
-<tr><td align="left" >
-Failed to load :resource!
-</td>
-</tr>
-<tr><td align="left" >
 Fiji
-</td>
-</tr>
-<tr><td align="left" >
-Forgot Password
 </td>
 </tr>
 <tr><td align="left" >
@@ -496,19 +420,7 @@ Haiti
 </td>
 </tr>
 <tr><td align="left" >
-Having second thoughts about cancelling your subscription? You can instantly reactive your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
-</td>
-</tr>
-<tr><td align="left" >
-Heard Island and McDonald Islands
-</td>
-</tr>
-<tr><td align="left" >
 Honduras
-</td>
-</tr>
-<tr><td align="left" >
-Hong Kong
 </td>
 </tr>
 <tr><td align="left" >
@@ -516,23 +428,7 @@ If you need to add specific contact or tax information to your receipts, like yo
 </td>
 </tr>
 <tr><td align="left" >
-Impersonate
-</td>
-</tr>
-<tr><td align="left" >
-Iran, Islamic Republic of
-</td>
-</tr>
-<tr><td align="left" >
 Isle of Man
-</td>
-</tr>
-<tr><td align="left" >
-It looks like you do not have an active subscription. You may choose one of the subscription plans below to get started. Subscription plans may be changed or cancelled at your convenience.
-</td>
-</tr>
-<tr><td align="left" >
-Jamaica
 </td>
 </tr>
 <tr><td align="left" >
@@ -540,15 +436,7 @@ Jane Doe
 </td>
 </tr>
 <tr><td align="left" >
-Jersey
-</td>
-</tr>
-<tr><td align="left" >
 Kiribati
-</td>
-</tr>
-<tr><td align="left" >
-Korea, Republic of
 </td>
 </tr>
 <tr><td align="left" >
@@ -560,19 +448,7 @@ Lesotho
 </td>
 </tr>
 <tr><td align="left" >
-Light
-</td>
-</tr>
-<tr><td align="left" >
 Log In
-</td>
-</tr>
-<tr><td align="left" >
-Luxembourg
-</td>
-</tr>
-<tr><td align="left" >
-Macedonia, the former Yugoslav Republic of
 </td>
 </tr>
 <tr><td align="left" >
@@ -584,35 +460,11 @@ Managing billing for :billableName
 </td>
 </tr>
 <tr><td align="left" >
-Mauritius
-</td>
-</tr>
-<tr><td align="left" >
 May
 </td>
 </tr>
 <tr><td align="left" >
-Micronesia, Federated States Of
-</td>
-</tr>
-<tr><td align="left" >
-Micronesia, Federated States of
-</td>
-</tr>
-<tr><td align="left" >
 Moldova
-</td>
-</tr>
-<tr><td align="left" >
-Moldova, Republic of
-</td>
-</tr>
-<tr><td align="left" >
-Monthly
-</td>
-</tr>
-<tr><td align="left" >
-monthly
 </td>
 </tr>
 <tr><td align="left" >
@@ -644,10 +496,6 @@ Oman
 </td>
 </tr>
 <tr><td align="left" >
-Our billing management portal allows you to conveniently manage your subscription plan, payment method, and download your recent invoices.
-</td>
-</tr>
-<tr><td align="left" >
 Pakistan
 </td>
 </tr>
@@ -665,18 +513,6 @@ Peru
 </tr>
 <tr><td align="left" >
 Previewing
-</td>
-</tr>
-<tr><td align="left" >
-Qatar
-</td>
-</tr>
-<tr><td align="left" >
-Receipt Email Addresses
-</td>
-</tr>
-<tr><td align="left" >
-Receipts
 </td>
 </tr>
 <tr><td align="left" >
@@ -909,10 +745,6 @@ Your current payment method is :paypal.
 </tr>
 <tr><td align="left" >
 Your current payment method is a credit card ending in :lastFour that expires on :expiration.
-</td>
-</tr>
-<tr><td align="left" >
-Your registered VAT Number is :vatNumber.
 </td>
 </tr>
 <tr><td align="left" >

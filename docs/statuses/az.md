@@ -4,7 +4,7 @@ editLink: false
 
 # az
 
-##### All missed: 244
+##### All missed: 196
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/az/auth.php)
@@ -272,7 +272,7 @@ The string must be :size characters.
 
 ### [az](https://github.com/Laravel-Lang/lang/blob/main/locales/az/az.json)
 
-##### Missing: 209
+##### Missing: 161
 
 <table >
 <tr><td align="left" >
@@ -332,10 +332,6 @@ Apply Coupon
 </td>
 </tr>
 <tr><td align="left" >
-Are you sure you want to log out?
-</td>
-</tr>
-<tr><td align="left" >
 Are you sure you want to stop impersonating?
 </td>
 </tr>
@@ -352,14 +348,6 @@ Barbados
 </td>
 </tr>
 <tr><td align="left" >
-Before continuing, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
-</td>
-</tr>
-<tr><td align="left" >
-Before proceeding, please check your email for a verification link.
-</td>
-</tr>
-<tr><td align="left" >
 Belarus
 </td>
 </tr>
@@ -373,14 +361,6 @@ Benin
 </tr>
 <tr><td align="left" >
 Bermuda
-</td>
-</tr>
-<tr><td align="left" >
-Billing Information
-</td>
-</tr>
-<tr><td align="left" >
-Billing Management
 </td>
 </tr>
 <tr><td align="left" >
@@ -413,10 +393,6 @@ Change Subscription Plan
 </tr>
 <tr><td align="left" >
 City
-</td>
-</tr>
-<tr><td align="left" >
-Click here to re-send the verification email.
 </td>
 </tr>
 <tr><td align="left" >
@@ -496,10 +472,6 @@ Fiji
 </td>
 </tr>
 <tr><td align="left" >
-Finish enabling two factor authentication.
-</td>
-</tr>
-<tr><td align="left" >
 Forgot Password
 </td>
 </tr>
@@ -524,10 +496,6 @@ Haiti
 </td>
 </tr>
 <tr><td align="left" >
-Have a coupon code?
-</td>
-</tr>
-<tr><td align="left" >
 Having second thoughts about cancelling your subscription? You can instantly reactive your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
 </td>
 </tr>
@@ -541,14 +509,6 @@ Honduras
 </tr>
 <tr><td align="left" >
 Hong Kong
-</td>
-</tr>
-<tr><td align="left" >
-I accept the terms of service
-</td>
-</tr>
-<tr><td align="left" >
-If you did not receive the email
 </td>
 </tr>
 <tr><td align="left" >
@@ -672,10 +632,6 @@ Netherlands Antilles
 </td>
 </tr>
 <tr><td align="left" >
-Nevermind, I'll keep my old plan
-</td>
-</tr>
-<tr><td align="left" >
 Niger
 </td>
 </tr>
@@ -704,31 +660,7 @@ Panama
 </td>
 </tr>
 <tr><td align="left" >
-Payment Information
-</td>
-</tr>
-<tr><td align="left" >
-Payment Method
-</td>
-</tr>
-<tr><td align="left" >
-Permissions
-</td>
-</tr>
-<tr><td align="left" >
 Peru
-</td>
-</tr>
-<tr><td align="left" >
-Please accept the terms of service.
-</td>
-</tr>
-<tr><td align="left" >
-Please confirm your password before continuing.
-</td>
-</tr>
-<tr><td align="left" >
-Please provide a maximum of three receipt emails addresses.
 </td>
 </tr>
 <tr><td align="left" >
@@ -753,10 +685,6 @@ Replicate
 </tr>
 <tr><td align="left" >
 Resource Row Dropdown
-</td>
-</tr>
-<tr><td align="left" >
-Resume Subscription
 </td>
 </tr>
 <tr><td align="left" >
@@ -832,18 +760,6 @@ Stop Impersonating
 </td>
 </tr>
 <tr><td align="left" >
-Subscribe
-</td>
-</tr>
-<tr><td align="left" >
-Subscription Information
-</td>
-</tr>
-<tr><td align="left" >
-Subscription Pending
-</td>
-</tr>
-<tr><td align="left" >
 Sudan
 </td>
 </tr>
@@ -904,43 +820,7 @@ The password is incorrect.
 </td>
 </tr>
 <tr><td align="left" >
-The provided coupon code is invalid.
-</td>
-</tr>
-<tr><td align="left" >
-The provided VAT number is invalid.
-</td>
-</tr>
-<tr><td align="left" >
-The receipt emails must be valid email addresses.
-</td>
-</tr>
-<tr><td align="left" >
-The resource was attached!
-</td>
-</tr>
-<tr><td align="left" >
-The resource was prevented from being saved!
-</td>
-</tr>
-<tr><td align="left" >
-The selected country is invalid.
-</td>
-</tr>
-<tr><td align="left" >
 The selected plan is invalid.
-</td>
-</tr>
-<tr><td align="left" >
-There are no fields to display.
-</td>
-</tr>
-<tr><td align="left" >
-There are no new notifications.
-</td>
-</tr>
-<tr><td align="left" >
-There is no active subscription.
 </td>
 </tr>
 <tr><td align="left" >
@@ -948,31 +828,7 @@ There was a problem fetching the resource.
 </td>
 </tr>
 <tr><td align="left" >
-This account does not have an active subscription.
-</td>
-</tr>
-<tr><td align="left" >
-This copy of Nova is unlicensed.
-</td>
-</tr>
-<tr><td align="left" >
-This coupon code can only be used by new customers.
-</td>
-</tr>
-<tr><td align="left" >
-This subscription cannot be resumed. Please create a new subscription.
-</td>
-</tr>
-<tr><td align="left" >
-This subscription has expired and cannot be resumed. Please create a new subscription.
-</td>
-</tr>
-<tr><td align="left" >
 Timor-Leste
-</td>
-</tr>
-<tr><td align="left" >
-To finish enabling two factor authentication, scan the following QR code using your phone's authenticator application or enter the setup key and provide the generated OTP code.
 </td>
 </tr>
 <tr><td align="left" >
@@ -1000,19 +856,7 @@ Tuvalu
 </td>
 </tr>
 <tr><td align="left" >
-Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application or enter the setup key.
-</td>
-</tr>
-<tr><td align="left" >
 United States Minor Outlying Islands
-</td>
-</tr>
-<tr><td align="left" >
-Update Payment Information
-</td>
-</tr>
-<tr><td align="left" >
-Update Payment Method
 </td>
 </tr>
 <tr><td align="left" >
@@ -1020,15 +864,7 @@ Vanuatu
 </td>
 </tr>
 <tr><td align="left" >
-VAT Number
-</td>
-</tr>
-<tr><td align="left" >
 Venezuela, Bolivarian Republic of
-</td>
-</tr>
-<tr><td align="left" >
-Verify Your Email Address
 </td>
 </tr>
 <tr><td align="left" >
@@ -1044,31 +880,11 @@ We are processing your subscription. Once the subscription has successfully proc
 </td>
 </tr>
 <tr><td align="left" >
-We are unable to process your payment. Please contact customer support.
-</td>
-</tr>
-<tr><td align="left" >
-We have emailed your password reset link!
-</td>
-</tr>
-<tr><td align="left" >
-We will send a receipt download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
-</td>
-</tr>
-<tr><td align="left" >
 Yearly
 </td>
 </tr>
 <tr><td align="left" >
-You are already subscribed.
-</td>
-</tr>
-<tr><td align="left" >
 You are currently within your free trial period. Your trial will expire on :date.
-</td>
-</tr>
-<tr><td align="left" >
-You are logged in!
 </td>
 </tr>
 <tr><td align="left" >
@@ -1096,15 +912,7 @@ Your current payment method is a credit card ending in :lastFour that expires on
 </td>
 </tr>
 <tr><td align="left" >
-Your email address is unverified.
-</td>
-</tr>
-<tr><td align="left" >
 Your registered VAT Number is :vatNumber.
-</td>
-</tr>
-<tr><td align="left" >
-Zip / Postal Code
 </td>
 </tr>
 <tr><td align="left" >

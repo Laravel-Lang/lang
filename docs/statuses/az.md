@@ -4,7 +4,7 @@ editLink: false
 
 # az
 
-##### All missed: 154
+##### All missed: 145
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/az/auth.php)
@@ -272,7 +272,7 @@ The string must be :size characters.
 
 ### [az](https://github.com/Laravel-Lang/lang/blob/main/locales/az/az.json)
 
-##### Missing: 119
+##### Missing: 110
 
 <table >
 <tr><td align="left" >
@@ -676,18 +676,6 @@ Total:
 </td>
 </tr>
 <tr><td align="left" >
-Trinidad and Tobago
-</td>
-</tr>
-<tr><td align="left" >
-Turkmenistan
-</td>
-</tr>
-<tr><td align="left" >
-Turks and Caicos Islands
-</td>
-</tr>
-<tr><td align="left" >
 Tuvalu
 </td>
 </tr>
@@ -700,35 +688,11 @@ Vanuatu
 </td>
 </tr>
 <tr><td align="left" >
-Venezuela, Bolivarian Republic of
-</td>
-</tr>
-<tr><td align="left" >
-View Receipt
-</td>
-</tr>
-<tr><td align="left" >
-Wallis and Futuna
-</td>
-</tr>
-<tr><td align="left" >
-We are processing your subscription. Once the subscription has successfully processed, this page will update automatically. Typically, this process should only take a few seconds.
-</td>
-</tr>
-<tr><td align="left" >
 Yearly
 </td>
 </tr>
 <tr><td align="left" >
-You are currently within your free trial period. Your trial will expire on :date.
-</td>
-</tr>
-<tr><td align="left" >
 You may accept this invitation by clicking the button below:
-</td>
-</tr>
-<tr><td align="left" >
-You may cancel your subscription at any time. Once your subscription has been cancelled, you will have the option to resume the subscription until the end of your current billing cycle.
 </td>
 </tr>
 <tr><td align="left" >

@@ -13,6 +13,7 @@
 */
 
 return [
+    'ID',
     'All rights reserved.',
     'ex VAT',
 ];

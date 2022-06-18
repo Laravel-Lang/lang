@@ -4,7 +4,7 @@ editLink: false
 
 # az
 
-##### All missed: 145
+##### All missed: 122
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/az/auth.php)
@@ -25,16 +25,9 @@ The provided password is incorrect.
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/az/validation-inline.php)
 
-##### Missing: 34
+##### Missing: 22
 
 <table >
-<tr><td align="left" >
-accepted_if
-</td>
-<td align="left" >
-This field must be accepted when :other is :value.
-</td>
-</tr>
 <tr><td align="left" >
 between.array
 </td>
@@ -68,13 +61,6 @@ current_password
 </td>
 <td align="left" >
 The password is incorrect.
-</td>
-</tr>
-<tr><td align="left" >
-declined
-</td>
-<td align="left" >
-This value must be declined.
 </td>
 </tr>
 <tr><td align="left" >
@@ -162,80 +148,10 @@ The content must not have more than :value items.
 </td>
 </tr>
 <tr><td align="left" >
-mac_address
-</td>
-<td align="left" >
-The value must be a valid MAC address.
-</td>
-</tr>
-<tr><td align="left" >
-max.array
-</td>
-<td align="left" >
-The content must not have more than :max items.
-</td>
-</tr>
-<tr><td align="left" >
-max.file
-</td>
-<td align="left" >
-The file size must not be greater than :max kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-max.numeric
-</td>
-<td align="left" >
-The value must not be greater than :max.
-</td>
-</tr>
-<tr><td align="left" >
-max.string
-</td>
-<td align="left" >
-The string must not be greater than :max characters.
-</td>
-</tr>
-<tr><td align="left" >
-min.array
-</td>
-<td align="left" >
-The value must have at least :min items.
-</td>
-</tr>
-<tr><td align="left" >
-min.file
-</td>
-<td align="left" >
-The file size must be at least :min kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-min.numeric
-</td>
-<td align="left" >
-The value must be at least :min.
-</td>
-</tr>
-<tr><td align="left" >
-min.string
-</td>
-<td align="left" >
-The string must be at least :min characters.
-</td>
-</tr>
-<tr><td align="left" >
 prohibits
 </td>
 <td align="left" >
 This field prohibits :other from being present.
-</td>
-</tr>
-<tr><td align="left" >
-required_array_keys
-</td>
-<td align="left" >
-This field must contain entries for: :values.
 </td>
 </tr>
 <tr><td align="left" >
@@ -272,35 +188,11 @@ The string must be :size characters.
 
 ### [az](https://github.com/Laravel-Lang/lang/blob/main/locales/az/az.json)
 
-##### Missing: 110
+##### Missing: 99
 
 <table >
 <tr><td align="left" >
-:days day trial
-</td>
-</tr>
-<tr><td align="left" >
 Andorra
-</td>
-</tr>
-<tr><td align="left" >
-Angola
-</td>
-</tr>
-<tr><td align="left" >
-Antigua and Barbuda
-</td>
-</tr>
-<tr><td align="left" >
-Apply
-</td>
-</tr>
-<tr><td align="left" >
-Apply Coupon
-</td>
-</tr>
-<tr><td align="left" >
-Are you sure you want to stop impersonating?
 </td>
 </tr>
 <tr><td align="left" >
@@ -316,27 +208,7 @@ Barbados
 </td>
 </tr>
 <tr><td align="left" >
-Belarus
-</td>
-</tr>
-<tr><td align="left" >
-Belize
-</td>
-</tr>
-<tr><td align="left" >
 Benin
-</td>
-</tr>
-<tr><td align="left" >
-Bermuda
-</td>
-</tr>
-<tr><td align="left" >
-Bolivia, Plurinational State of
-</td>
-</tr>
-<tr><td align="left" >
-Bosnia and Herzegovina
 </td>
 </tr>
 <tr><td align="left" >

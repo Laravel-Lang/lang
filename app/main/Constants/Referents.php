@@ -5,6 +5,8 @@ namespace LaravelLang\Development\Constants;
 class Referents
 {
     public const ar = ['mohamedsabil83', 'Khuthaily'];
+    
+    public const az = ['hs-qwerty'];
 
     public const da = ['jensstigaard'];
 

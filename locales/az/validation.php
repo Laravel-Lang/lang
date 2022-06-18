@@ -130,7 +130,7 @@ return [
     'uuid'                 => ':Attribute düzgün UUID olmalıdır.',
     'custom'               => [
         'attribute-name' => [
-            'rule-name' => 'custom-message',
+            'rule-name' => 'xüsusi mesaj',
         ],
     ],
 ];

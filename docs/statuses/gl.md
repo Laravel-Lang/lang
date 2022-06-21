@@ -4,23 +4,7 @@ editLink: false
 
 # gl
 
-##### All missed: 292
-
-
-### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/gl/auth.php)
-
-##### Missing: 1
-
-<table >
-<tr><td align="left" >
-password
-</td>
-<td align="left" >
-The provided password is incorrect.
-</td>
-</tr>
-
-</table>
+##### All missed: 291
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/gl/validation-inline.php)

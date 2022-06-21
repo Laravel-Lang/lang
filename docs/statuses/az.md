@@ -4,7 +4,7 @@ editLink: false
 
 # az
 
-##### All missed: 112
+##### All missed: 101
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/az/auth.php)
@@ -25,91 +25,14 @@ The provided password is incorrect.
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/az/validation-inline.php)
 
-##### Missing: 12
+##### Missing: 1
 
 <table >
-<tr><td align="left" >
-between.array
-</td>
-<td align="left" >
-This content must have between :min and :max items.
-</td>
-</tr>
-<tr><td align="left" >
-between.file
-</td>
-<td align="left" >
-This file must be between :min and :max kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-between.numeric
-</td>
-<td align="left" >
-This value must be between :min and :max.
-</td>
-</tr>
-<tr><td align="left" >
-between.string
-</td>
-<td align="left" >
-This string must be between :min and :max characters.
-</td>
-</tr>
-<tr><td align="left" >
-current_password
-</td>
-<td align="left" >
-The password is incorrect.
-</td>
-</tr>
-<tr><td align="left" >
-declined_if
-</td>
-<td align="left" >
-This value must be declined when :other is :value.
-</td>
-</tr>
 <tr><td align="left" >
 enum
 </td>
 <td align="left" >
 The selected value is invalid.
-</td>
-</tr>
-<tr><td align="left" >
-prohibits
-</td>
-<td align="left" >
-This field prohibits :other from being present.
-</td>
-</tr>
-<tr><td align="left" >
-size.array
-</td>
-<td align="left" >
-The content must contain :size items.
-</td>
-</tr>
-<tr><td align="left" >
-size.file
-</td>
-<td align="left" >
-The file size must be :size kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-size.numeric
-</td>
-<td align="left" >
-The value must be :size.
-</td>
-</tr>
-<tr><td align="left" >
-size.string
-</td>
-<td align="left" >
-The string must be :size characters.
 </td>
 </tr>
 

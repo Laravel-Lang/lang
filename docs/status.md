@@ -117,7 +117,7 @@ editLink: false
 </td>
 <td align="center" width="17%">
 
-[gl&nbsp;❗&nbsp;🤖](statuses/gl.md)
+[gl&nbsp;❗](statuses/gl.md)
 
 </td>
 <td align="center" width="17%">

@@ -6,6 +6,8 @@ on:
         types:
             - generate-docs
 
+permissions: write-all
+
 jobs:
     handle-dispatch:
         runs-on: ubuntu-latest

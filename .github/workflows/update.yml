@@ -1,4 +1,5 @@
 name: update
+
 on:
     schedule:
         -   cron: 0 0 * * *
@@ -8,6 +9,8 @@ on:
     release:
         types:
             - released
+
+permissions: write-all
 
 jobs:
     update:

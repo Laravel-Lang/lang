@@ -8,6 +8,8 @@ class Referents
 
     public const az = ['hs-qwerty'];
 
+    public const bn = ['arman-arif'];
+
     public const da = ['jensstigaard'];
 
     public const de = ['WhereIsLucas', 'sotten'];

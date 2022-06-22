@@ -4,7 +4,7 @@ editLink: false
 
 # nn
 
-##### All missed: 783
+##### All missed: 787
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/nn/auth.php)
@@ -833,7 +833,7 @@ The :attribute field must contain entries for: :values.
 
 ### [nn](https://github.com/Laravel-Lang/lang/blob/main/locales/nn/nn.json)
 
-##### Missing: 673
+##### Missing: 677
 
 <table >
 <tr><td align="left" >
@@ -1034,6 +1034,10 @@ Are you sure you want to delete the selected resources?
 </tr>
 <tr><td align="left" >
 Are you sure you want to delete this file?
+</td>
+</tr>
+<tr><td align="left" >
+Are you sure you want to delete this notification?
 </td>
 </tr>
 <tr><td align="left" >
@@ -1394,6 +1398,10 @@ Constant
 </tr>
 <tr><td align="left" >
 Cook Islands
+</td>
+</tr>
+<tr><td align="left" >
+Copy to clipboard
 </td>
 </tr>
 <tr><td align="left" >
@@ -2149,6 +2157,10 @@ March
 </td>
 </tr>
 <tr><td align="left" >
+Mark all as Read
+</td>
+</tr>
+<tr><td align="left" >
 Marshall Islands
 </td>
 </tr>
@@ -2338,6 +2350,10 @@ Northern Mariana Islands
 </tr>
 <tr><td align="left" >
 Norway
+</td>
+</tr>
+<tr><td align="left" >
+Notifications
 </td>
 </tr>
 <tr><td align="left" >

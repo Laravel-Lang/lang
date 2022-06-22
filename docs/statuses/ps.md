@@ -4,7 +4,7 @@ editLink: false
 
 # ps
 
-##### All missed: 787
+##### All missed: 791
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/ps/auth.php)
@@ -840,7 +840,7 @@ The :attribute field must contain entries for: :values.
 
 ### [ps](https://github.com/Laravel-Lang/lang/blob/main/locales/ps/ps.json)
 
-##### Missing: 676
+##### Missing: 680
 
 <table >
 <tr><td align="left" >
@@ -1041,6 +1041,10 @@ Are you sure you want to delete the selected resources?
 </tr>
 <tr><td align="left" >
 Are you sure you want to delete this file?
+</td>
+</tr>
+<tr><td align="left" >
+Are you sure you want to delete this notification?
 </td>
 </tr>
 <tr><td align="left" >
@@ -1401,6 +1405,10 @@ Constant
 </tr>
 <tr><td align="left" >
 Cook Islands
+</td>
+</tr>
+<tr><td align="left" >
+Copy to clipboard
 </td>
 </tr>
 <tr><td align="left" >
@@ -2156,6 +2164,10 @@ March
 </td>
 </tr>
 <tr><td align="left" >
+Mark all as Read
+</td>
+</tr>
+<tr><td align="left" >
 Marshall Islands
 </td>
 </tr>
@@ -2349,6 +2361,10 @@ Norway
 </tr>
 <tr><td align="left" >
 Not Found
+</td>
+</tr>
+<tr><td align="left" >
+Notifications
 </td>
 </tr>
 <tr><td align="left" >

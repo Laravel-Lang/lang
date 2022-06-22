@@ -4,7 +4,7 @@ editLink: false
 
 # ro
 
-##### All missed: 243
+##### All missed: 247
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/ro/validation-inline.php)
@@ -256,7 +256,7 @@ The string must be :size characters.
 
 ### [ro](https://github.com/Laravel-Lang/lang/blob/main/locales/ro/ro.json)
 
-##### Missing: 209
+##### Missing: 213
 
 <table >
 <tr><td align="left" >
@@ -333,6 +333,10 @@ Apply
 </tr>
 <tr><td align="left" >
 Apply Coupon
+</td>
+</tr>
+<tr><td align="left" >
+Are you sure you want to delete this notification?
 </td>
 </tr>
 <tr><td align="left" >
@@ -485,6 +489,10 @@ Congo
 </tr>
 <tr><td align="left" >
 Congo, the Democratic Republic of the
+</td>
+</tr>
+<tr><td align="left" >
+Copy to clipboard
 </td>
 </tr>
 <tr><td align="left" >
@@ -752,6 +760,10 @@ Managing billing for :billableName
 </td>
 </tr>
 <tr><td align="left" >
+Mark all as Read
+</td>
+</tr>
+<tr><td align="left" >
 Mauritania
 </td>
 </tr>
@@ -825,6 +837,10 @@ Nigeria
 </tr>
 <tr><td align="left" >
 Niue
+</td>
+</tr>
+<tr><td align="left" >
+Notifications
 </td>
 </tr>
 <tr><td align="left" >

@@ -4,7 +4,7 @@ editLink: false
 
 # ur
 
-##### All missed: 215
+##### All missed: 219
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/ur/auth.php)
@@ -407,7 +407,7 @@ The :attribute field must contain entries for: :values.
 
 ### [ur](https://github.com/Laravel-Lang/lang/blob/main/locales/ur/ur.json)
 
-##### Missing: 162
+##### Missing: 166
 
 <table >
 <tr><td align="left" >
@@ -456,6 +456,10 @@ Apply
 </tr>
 <tr><td align="left" >
 Apply Coupon
+</td>
+</tr>
+<tr><td align="left" >
+Are you sure you want to delete this notification?
 </td>
 </tr>
 <tr><td align="left" >
@@ -516,6 +520,10 @@ Cocos (Keeling) Islands
 </tr>
 <tr><td align="left" >
 Congo, the Democratic Republic of the
+</td>
+</tr>
+<tr><td align="left" >
+Copy to clipboard
 </td>
 </tr>
 <tr><td align="left" >
@@ -655,6 +663,10 @@ Managing billing for :billableName
 </td>
 </tr>
 <tr><td align="left" >
+Mark all as Read
+</td>
+</tr>
+<tr><td align="left" >
 Mayotte
 </td>
 </tr>
@@ -688,6 +700,10 @@ Nevermind, I'll keep my old plan
 </tr>
 <tr><td align="left" >
 Niue
+</td>
+</tr>
+<tr><td align="left" >
+Notifications
 </td>
 </tr>
 <tr><td align="left" >

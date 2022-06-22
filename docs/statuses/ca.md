@@ -4,7 +4,7 @@ editLink: false
 
 # ca
 
-##### All missed: 50
+##### All missed: 54
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/ca/validation-inline.php)
@@ -321,7 +321,7 @@ The :attribute field must contain entries for: :values.
 
 ### [ca](https://github.com/Laravel-Lang/lang/blob/main/locales/ca/ca.json)
 
-##### Missing: 8
+##### Missing: 12
 
 <table >
 <tr><td align="left" >
@@ -333,6 +333,10 @@ A new verification link has been sent to your email address.
 </td>
 </tr>
 <tr><td align="left" >
+Are you sure you want to delete this notification?
+</td>
+</tr>
+<tr><td align="left" >
 Before continuing, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
 </td>
 </tr>
@@ -341,7 +345,19 @@ Click here to re-send the verification email.
 </td>
 </tr>
 <tr><td align="left" >
+Copy to clipboard
+</td>
+</tr>
+<tr><td align="left" >
 Edit Profile
+</td>
+</tr>
+<tr><td align="left" >
+Mark all as Read
+</td>
+</tr>
+<tr><td align="left" >
+Notifications
 </td>
 </tr>
 <tr><td align="left" >

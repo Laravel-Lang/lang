@@ -4,7 +4,7 @@ editLink: false
 
 # uz_Cyrl
 
-##### All missed: 277
+##### All missed: 281
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/uz_Cyrl/auth.php)
@@ -337,7 +337,7 @@ The :attribute field must contain entries for: :values.
 
 ### [uz_Cyrl](https://github.com/Laravel-Lang/lang/blob/main/locales/uz_Cyrl/uz_Cyrl.json)
 
-##### Missing: 234
+##### Missing: 238
 
 <table >
 <tr><td align="left" >
@@ -398,6 +398,10 @@ Apply
 </tr>
 <tr><td align="left" >
 Apply Coupon
+</td>
+</tr>
+<tr><td align="left" >
+Are you sure you want to delete this notification?
 </td>
 </tr>
 <tr><td align="left" >
@@ -526,6 +530,10 @@ Congo
 </tr>
 <tr><td align="left" >
 Congo, the Democratic Republic of the
+</td>
+</tr>
+<tr><td align="left" >
+Copy to clipboard
 </td>
 </tr>
 <tr><td align="left" >
@@ -757,6 +765,10 @@ Managing billing for :billableName
 </td>
 </tr>
 <tr><td align="left" >
+Mark all as Read
+</td>
+</tr>
+<tr><td align="left" >
 Martinique
 </td>
 </tr>
@@ -826,6 +838,10 @@ Niger
 </tr>
 <tr><td align="left" >
 Niue
+</td>
+</tr>
+<tr><td align="left" >
+Notifications
 </td>
 </tr>
 <tr><td align="left" >

@@ -4,7 +4,7 @@ editLink: false
 
 # sl
 
-##### All missed: 138
+##### All missed: 142
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/sl/validation-inline.php)
@@ -97,7 +97,7 @@ The :attribute field must contain entries for: :values.
 
 ### [sl](https://github.com/Laravel-Lang/lang/blob/main/locales/sl/sl.json)
 
-##### Missing: 128
+##### Missing: 132
 
 <table >
 <tr><td align="left" >
@@ -122,6 +122,10 @@ Angola
 </tr>
 <tr><td align="left" >
 April
+</td>
+</tr>
+<tr><td align="left" >
+Are you sure you want to delete this notification?
 </td>
 </tr>
 <tr><td align="left" >
@@ -182,6 +186,10 @@ Click here to re-send the verification email.
 </tr>
 <tr><td align="left" >
 click here to request another
+</td>
+</tr>
+<tr><td align="left" >
+Copy to clipboard
 </td>
 </tr>
 <tr><td align="left" >
@@ -313,6 +321,10 @@ Malta
 </td>
 </tr>
 <tr><td align="left" >
+Mark all as Read
+</td>
+</tr>
+<tr><td align="left" >
 Mayotte
 </td>
 </tr>
@@ -350,6 +362,10 @@ Netherlands Antilles
 </tr>
 <tr><td align="left" >
 Niue
+</td>
+</tr>
+<tr><td align="left" >
+Notifications
 </td>
 </tr>
 <tr><td align="left" >

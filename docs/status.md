@@ -4,7 +4,7 @@ editLink: false
 
 # Completion status
 
-> Translation of localizations is completed by **77%** (733.3K / 951.6K).
+> Translation of localizations is completed by **77%** (733.4K / 956.6K).
 
 <table width="100%">
 <tr><td align="center" width="17%">
@@ -14,7 +14,7 @@ editLink: false
 </td>
 <td align="center" width="17%">
 
-[ar&nbsp;✔](statuses/ar.md)
+[ar&nbsp;❗](statuses/ar.md)
 
 </td>
 <td align="center" width="17%">
@@ -65,7 +65,7 @@ editLink: false
 </td>
 <td align="center" width="17%">
 
-[de&nbsp;✔](statuses/de.md)
+[de&nbsp;❗](statuses/de.md)
 
 </td>
 </tr>
@@ -81,7 +81,7 @@ editLink: false
 </td>
 <td align="center" width="17%">
 
-[es&nbsp;✔](statuses/es.md)
+[es&nbsp;❗](statuses/es.md)
 
 </td>
 <td align="center" width="17%">
@@ -96,7 +96,7 @@ editLink: false
 </td>
 <td align="center" width="17%">
 
-[fa&nbsp;✔](statuses/fa.md)
+[fa&nbsp;❗](statuses/fa.md)
 
 </td>
 </tr>
@@ -112,7 +112,7 @@ editLink: false
 </td>
 <td align="center" width="17%">
 
-[fr&nbsp;✔](statuses/fr.md)
+[fr&nbsp;❗](statuses/fr.md)
 
 </td>
 <td align="center" width="17%">
@@ -164,12 +164,12 @@ editLink: false
 </tr>
 <tr><td align="center" width="17%">
 
-[it&nbsp;✔](statuses/it.md)
+[it&nbsp;❗](statuses/it.md)
 
 </td>
 <td align="center" width="17%">
 
-[ja&nbsp;✔](statuses/ja.md)
+[ja&nbsp;❗](statuses/ja.md)
 
 </td>
 <td align="center" width="17%">
@@ -231,7 +231,7 @@ editLink: false
 </td>
 <td align="center" width="17%">
 
-[nb&nbsp;✔](statuses/nb.md)
+[nb&nbsp;❗](statuses/nb.md)
 
 </td>
 <td align="center" width="17%">
@@ -241,7 +241,7 @@ editLink: false
 </td>
 <td align="center" width="17%">
 
-[nl&nbsp;✔](statuses/nl.md)
+[nl&nbsp;❗](statuses/nl.md)
 
 </td>
 <td align="center" width="17%">
@@ -272,7 +272,7 @@ editLink: false
 </td>
 <td align="center" width="17%">
 
-[pt_BR&nbsp;✔](statuses/pt-br.md)
+[pt_BR&nbsp;❗](statuses/pt-br.md)
 
 </td>
 <td align="center" width="17%">
@@ -334,7 +334,7 @@ editLink: false
 </td>
 <td align="center" width="17%">
 
-[sw&nbsp;✔](statuses/sw.md)
+[sw&nbsp;❗](statuses/sw.md)
 
 </td>
 <td align="center" width="17%">
@@ -360,7 +360,7 @@ editLink: false
 </td>
 <td align="center" width="17%">
 
-[tr&nbsp;✔](statuses/tr.md)
+[tr&nbsp;❗](statuses/tr.md)
 
 </td>
 <td align="center" width="17%">
@@ -391,7 +391,7 @@ editLink: false
 </td>
 <td align="center" width="17%">
 
-[vi&nbsp;✔](statuses/vi.md)
+[vi&nbsp;❗](statuses/vi.md)
 
 </td>
 <td align="center" width="17%">
@@ -406,7 +406,7 @@ editLink: false
 </td>
 <td align="center" width="17%">
 
-[zh_TW&nbsp;✔](statuses/zh-tw.md)
+[zh_TW&nbsp;❗](statuses/zh-tw.md)
 
 </td>
 </tr>

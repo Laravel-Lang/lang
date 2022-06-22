@@ -4,7 +4,7 @@ editLink: false
 
 # hy
 
-##### All missed: 142
+##### All missed: 146
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/hy/validation-inline.php)
@@ -111,7 +111,7 @@ The :attribute field must contain entries for: :values.
 
 ### [hy](https://github.com/Laravel-Lang/lang/blob/main/locales/hy/hy.json)
 
-##### Missing: 130
+##### Missing: 134
 
 <table >
 <tr><td align="left" >
@@ -140,6 +140,10 @@ An error occurred while uploading the file.
 </tr>
 <tr><td align="left" >
 An unexpected error occurred and we have notified our support team. Please try again later.
+</td>
+</tr>
+<tr><td align="left" >
+Are you sure you want to delete this notification?
 </td>
 </tr>
 <tr><td align="left" >
@@ -184,6 +188,10 @@ Click here to re-send the verification email.
 </tr>
 <tr><td align="left" >
 click here to request another
+</td>
+</tr>
+<tr><td align="left" >
+Copy to clipboard
 </td>
 </tr>
 <tr><td align="left" >
@@ -283,6 +291,10 @@ Managing billing for :billableName
 </td>
 </tr>
 <tr><td align="left" >
+Mark all as Read
+</td>
+</tr>
+<tr><td align="left" >
 Monthly
 </td>
 </tr>
@@ -292,6 +304,10 @@ monthly
 </tr>
 <tr><td align="left" >
 Nevermind, I'll keep my old plan
+</td>
+</tr>
+<tr><td align="left" >
+Notifications
 </td>
 </tr>
 <tr><td align="left" >

@@ -4,7 +4,7 @@ editLink: false
 
 # tk
 
-##### All missed: 845
+##### All missed: 849
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/tk/auth.php)
@@ -1043,7 +1043,7 @@ The :attribute must be a valid UUID.
 
 ### [tk](https://github.com/Laravel-Lang/lang/blob/main/locales/tk/tk.json)
 
-##### Missing: 705
+##### Missing: 709
 
 <table >
 <tr><td align="left" >
@@ -1248,6 +1248,10 @@ Are you sure you want to delete the selected resources?
 </tr>
 <tr><td align="left" >
 Are you sure you want to delete this file?
+</td>
+</tr>
+<tr><td align="left" >
+Are you sure you want to delete this notification?
 </td>
 </tr>
 <tr><td align="left" >
@@ -1612,6 +1616,10 @@ Constant
 </tr>
 <tr><td align="left" >
 Cook Islands
+</td>
+</tr>
+<tr><td align="left" >
+Copy to clipboard
 </td>
 </tr>
 <tr><td align="left" >
@@ -2404,6 +2412,10 @@ March
 </td>
 </tr>
 <tr><td align="left" >
+Mark all as Read
+</td>
+</tr>
+<tr><td align="left" >
 Marshall Islands
 </td>
 </tr>
@@ -2601,6 +2613,10 @@ Norway
 </tr>
 <tr><td align="left" >
 Not Found
+</td>
+</tr>
+<tr><td align="left" >
+Notifications
 </td>
 </tr>
 <tr><td align="left" >

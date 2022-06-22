@@ -4,7 +4,7 @@ editLink: false
 
 # ug
 
-##### All missed: 830
+##### All missed: 834
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/ug/auth.php)
@@ -938,7 +938,7 @@ The :attribute must be a valid UUID.
 
 ### [ug](https://github.com/Laravel-Lang/lang/blob/main/locales/ug/ug.json)
 
-##### Missing: 705
+##### Missing: 709
 
 <table >
 <tr><td align="left" >
@@ -1143,6 +1143,10 @@ Are you sure you want to delete the selected resources?
 </tr>
 <tr><td align="left" >
 Are you sure you want to delete this file?
+</td>
+</tr>
+<tr><td align="left" >
+Are you sure you want to delete this notification?
 </td>
 </tr>
 <tr><td align="left" >
@@ -1507,6 +1511,10 @@ Constant
 </tr>
 <tr><td align="left" >
 Cook Islands
+</td>
+</tr>
+<tr><td align="left" >
+Copy to clipboard
 </td>
 </tr>
 <tr><td align="left" >
@@ -2299,6 +2307,10 @@ March
 </td>
 </tr>
 <tr><td align="left" >
+Mark all as Read
+</td>
+</tr>
+<tr><td align="left" >
 Marshall Islands
 </td>
 </tr>
@@ -2496,6 +2508,10 @@ Norway
 </tr>
 <tr><td align="left" >
 Not Found
+</td>
+</tr>
+<tr><td align="left" >
+Notifications
 </td>
 </tr>
 <tr><td align="left" >

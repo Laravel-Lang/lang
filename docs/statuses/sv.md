@@ -4,7 +4,7 @@ editLink: false
 
 # sv
 
-##### All missed: 274
+##### All missed: 278
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/sv/auth.php)
@@ -337,7 +337,7 @@ The :attribute field must contain entries for: :values.
 
 ### [sv](https://github.com/Laravel-Lang/lang/blob/main/locales/sv/sv.json)
 
-##### Missing: 231
+##### Missing: 235
 
 <table >
 <tr><td align="left" >
@@ -386,6 +386,10 @@ Antigua and Barbuda
 </tr>
 <tr><td align="left" >
 April
+</td>
+</tr>
+<tr><td align="left" >
+Are you sure you want to delete this notification?
 </td>
 </tr>
 <tr><td align="left" >
@@ -490,6 +494,10 @@ Colombia
 </tr>
 <tr><td align="left" >
 Congo, the Democratic Republic of the
+</td>
+</tr>
+<tr><td align="left" >
+Copy to clipboard
 </td>
 </tr>
 <tr><td align="left" >
@@ -741,6 +749,10 @@ Managing billing for :billableName
 </td>
 </tr>
 <tr><td align="left" >
+Mark all as Read
+</td>
+</tr>
+<tr><td align="left" >
 Martinique
 </td>
 </tr>
@@ -814,6 +826,10 @@ Nigeria
 </tr>
 <tr><td align="left" >
 Niue
+</td>
+</tr>
+<tr><td align="left" >
+Notifications
 </td>
 </tr>
 <tr><td align="left" >

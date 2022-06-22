@@ -4,7 +4,7 @@ editLink: false
 
 # cs
 
-##### All missed: 171
+##### All missed: 175
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/cs/validation-inline.php)
@@ -125,7 +125,7 @@ The :attribute field must contain entries for: :values.
 
 ### [cs](https://github.com/Laravel-Lang/lang/blob/main/locales/cs/cs.json)
 
-##### Missing: 157
+##### Missing: 161
 
 <table >
 <tr><td align="left" >
@@ -146,6 +146,10 @@ Angola
 </tr>
 <tr><td align="left" >
 Anguilla
+</td>
+</tr>
+<tr><td align="left" >
+Are you sure you want to delete this notification?
 </td>
 </tr>
 <tr><td align="left" >
@@ -222,6 +226,10 @@ click here to request another
 </tr>
 <tr><td align="left" >
 Congo, the Democratic Republic of the
+</td>
+</tr>
+<tr><td align="left" >
+Copy to clipboard
 </td>
 </tr>
 <tr><td align="left" >
@@ -393,6 +401,10 @@ Managing billing for :billableName
 </td>
 </tr>
 <tr><td align="left" >
+Mark all as Read
+</td>
+</tr>
+<tr><td align="left" >
 Mauritius
 </td>
 </tr>
@@ -438,6 +450,10 @@ Niue
 </tr>
 <tr><td align="left" >
 Norfolk Island
+</td>
+</tr>
+<tr><td align="left" >
+Notifications
 </td>
 </tr>
 <tr><td align="left" >

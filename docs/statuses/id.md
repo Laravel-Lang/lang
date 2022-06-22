@@ -4,12 +4,12 @@ editLink: false
 
 # id
 
-##### All missed: 15
+##### All missed: 19
 
 
 ### [id](https://github.com/Laravel-Lang/lang/blob/main/locales/id/id.json)
 
-##### Missing: 15
+##### Missing: 19
 
 <table >
 <tr><td align="left" >
@@ -18,6 +18,10 @@ A new verification link has been sent to the email address you provided in your 
 </tr>
 <tr><td align="left" >
 A new verification link has been sent to your email address.
+</td>
+</tr>
+<tr><td align="left" >
+Are you sure you want to delete this notification?
 </td>
 </tr>
 <tr><td align="left" >
@@ -33,11 +37,23 @@ Click here to re-send the verification email.
 </td>
 </tr>
 <tr><td align="left" >
+Copy to clipboard
+</td>
+</tr>
+<tr><td align="left" >
 Edit Profile
 </td>
 </tr>
 <tr><td align="left" >
 Impersonate
+</td>
+</tr>
+<tr><td align="left" >
+Mark all as Read
+</td>
+</tr>
+<tr><td align="left" >
+Notifications
 </td>
 </tr>
 <tr><td align="left" >

@@ -44,7 +44,7 @@ return [
     'distinct'             => 'Bu sahədə bir təkrarlanan dəyəri var.',
     'email'                => 'Bu etibarlı e-mail olmalıdır.',
     'ends_with'            => 'Bu, aşağıdakı nöqtələrdən biri ilə başa çatmalıdır: :values.',
-    'enum'                 => 'The selected value is invalid.',
+    'enum'                 => 'Seçilmiş dəyər etibarsızdır.',
     'exists'               => 'Seçilmiş dəyər yolverilməzdir.',
     'file'                 => 'Məzmun bir fayl olmalıdır.',
     'filled'               => 'Bu sahədə bir fərq olmalıdır.',

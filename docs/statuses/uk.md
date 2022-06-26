@@ -4,7 +4,7 @@ editLink: false
 
 # uk
 
-##### All missed: 100
+##### All missed: 104
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/uk/validation-inline.php)
@@ -111,7 +111,7 @@ The :attribute field must contain entries for: :values.
 
 ### [uk](https://github.com/Laravel-Lang/lang/blob/main/locales/uk/uk.json)
 
-##### Missing: 88
+##### Missing: 92
 
 <table >
 <tr><td align="left" >
@@ -136,6 +136,10 @@ An unexpected error occurred and we have notified our support team. Please try a
 </tr>
 <tr><td align="left" >
 Antigua and Barbuda
+</td>
+</tr>
+<tr><td align="left" >
+Are you sure you want to delete this notification?
 </td>
 </tr>
 <tr><td align="left" >
@@ -188,6 +192,10 @@ click here to request another
 </tr>
 <tr><td align="left" >
 Congo, the Democratic Republic of the
+</td>
+</tr>
+<tr><td align="left" >
+Copy to clipboard
 </td>
 </tr>
 <tr><td align="left" >
@@ -255,6 +263,10 @@ Macedonia, the former Yugoslav Republic of
 </td>
 </tr>
 <tr><td align="left" >
+Mark all as Read
+</td>
+</tr>
+<tr><td align="left" >
 Micronesia, Federated States of
 </td>
 </tr>
@@ -268,6 +280,10 @@ Netherlands Antilles
 </tr>
 <tr><td align="left" >
 Nevermind, I'll keep my old plan
+</td>
+</tr>
+<tr><td align="left" >
+Notifications
 </td>
 </tr>
 <tr><td align="left" >

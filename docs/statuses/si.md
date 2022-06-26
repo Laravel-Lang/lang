@@ -4,7 +4,7 @@ editLink: false
 
 # si
 
-##### All missed: 62
+##### All missed: 66
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/si/validation-inline.php)
@@ -104,7 +104,7 @@ The :attribute field must contain entries for: :values.
 
 ### [si](https://github.com/Laravel-Lang/lang/blob/main/locales/si/si.json)
 
-##### Missing: 51
+##### Missing: 55
 
 <table >
 <tr><td align="left" >
@@ -121,6 +121,10 @@ A new verification link has been sent to your email address.
 </tr>
 <tr><td align="left" >
 An error occurred while uploading the file.
+</td>
+</tr>
+<tr><td align="left" >
+Are you sure you want to delete this notification?
 </td>
 </tr>
 <tr><td align="left" >
@@ -149,6 +153,10 @@ Click here to re-send the verification email.
 </tr>
 <tr><td align="left" >
 click here to request another
+</td>
+</tr>
+<tr><td align="left" >
+Copy to clipboard
 </td>
 </tr>
 <tr><td align="left" >
@@ -197,6 +205,14 @@ Light
 </tr>
 <tr><td align="left" >
 Log In
+</td>
+</tr>
+<tr><td align="left" >
+Mark all as Read
+</td>
+</tr>
+<tr><td align="left" >
+Notifications
 </td>
 </tr>
 <tr><td align="left" >

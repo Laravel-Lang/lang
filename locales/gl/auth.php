@@ -13,6 +13,6 @@
 
 return [
     'failed'   => 'Estas credenciais non coinciden cos nosos rexistros.',
-    'password' => 'The provided password is incorrect.',
+    'password' => 'O contrasinal proporcionado é incorrecto.',
     'throttle' => 'Demasiados intentos de acceso. Por favor, inténtao de novo en :seconds segundos.',
 ];

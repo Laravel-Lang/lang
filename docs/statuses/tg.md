@@ -4,7 +4,7 @@ editLink: false
 
 # tg
 
-##### All missed: 215
+##### All missed: 219
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/tg/auth.php)
@@ -407,7 +407,7 @@ The :attribute field must contain entries for: :values.
 
 ### [tg](https://github.com/Laravel-Lang/lang/blob/main/locales/tg/tg.json)
 
-##### Missing: 162
+##### Missing: 166
 
 <table >
 <tr><td align="left" >
@@ -456,6 +456,10 @@ Apply
 </tr>
 <tr><td align="left" >
 Apply Coupon
+</td>
+</tr>
+<tr><td align="left" >
+Are you sure you want to delete this notification?
 </td>
 </tr>
 <tr><td align="left" >
@@ -512,6 +516,10 @@ click here to request another
 </tr>
 <tr><td align="left" >
 Congo, the Democratic Republic of the
+</td>
+</tr>
+<tr><td align="left" >
+Copy to clipboard
 </td>
 </tr>
 <tr><td align="left" >
@@ -663,6 +671,10 @@ Managing billing for :billableName
 </td>
 </tr>
 <tr><td align="left" >
+Mark all as Read
+</td>
+</tr>
+<tr><td align="left" >
 Micronesia, Federated States of
 </td>
 </tr>
@@ -684,6 +696,10 @@ Netherlands Antilles
 </tr>
 <tr><td align="left" >
 Nevermind, I'll keep my old plan
+</td>
+</tr>
+<tr><td align="left" >
+Notifications
 </td>
 </tr>
 <tr><td align="left" >

@@ -28,6 +28,8 @@ az
 </td>
 <td align="left" >
 
+[@hs-qwerty](https://github.com/hs-qwerty)
+
 </td>
 </tr>
 <tr><td align="left" >
@@ -48,6 +50,8 @@ bg
 bn
 </td>
 <td align="left" >
+
+[@arman-arif](https://github.com/arman-arif)
 
 </td>
 </tr>

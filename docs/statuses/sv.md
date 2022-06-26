@@ -4,23 +4,7 @@ editLink: false
 
 # sv
 
-##### All missed: 274
-
-
-### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/sv/auth.php)
-
-##### Missing: 1
-
-<table >
-<tr><td align="left" >
-password
-</td>
-<td align="left" >
-The provided password is incorrect.
-</td>
-</tr>
-
-</table>
+##### All missed: 269
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/sv/validation-inline.php)
@@ -270,74 +254,9 @@ The string must be :size characters.
 </table>
 
 
-### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/sv/validation.php)
-
-##### Missing: 8
-
-<table >
-<tr><td align="left" >
-accepted_if
-</td>
-<td align="left" >
-The :attribute must be accepted when :other is :value.
-</td>
-</tr>
-<tr><td align="left" >
-current_password
-</td>
-<td align="left" >
-The password is incorrect.
-</td>
-</tr>
-<tr><td align="left" >
-declined
-</td>
-<td align="left" >
-The :attribute must be declined.
-</td>
-</tr>
-<tr><td align="left" >
-declined_if
-</td>
-<td align="left" >
-The :attribute must be declined when :other is :value.
-</td>
-</tr>
-<tr><td align="left" >
-enum
-</td>
-<td align="left" >
-The selected :attribute is invalid.
-</td>
-</tr>
-<tr><td align="left" >
-mac_address
-</td>
-<td align="left" >
-The :attribute must be a valid MAC address.
-</td>
-</tr>
-<tr><td align="left" >
-prohibits
-</td>
-<td align="left" >
-The :attribute field prohibits :other from being present.
-</td>
-</tr>
-<tr><td align="left" >
-required_array_keys
-</td>
-<td align="left" >
-The :attribute field must contain entries for: :values.
-</td>
-</tr>
-
-</table>
-
-
 ### [sv](https://github.com/Laravel-Lang/lang/blob/main/locales/sv/sv.json)
 
-##### Missing: 231
+##### Missing: 235
 
 <table >
 <tr><td align="left" >
@@ -386,6 +305,10 @@ Antigua and Barbuda
 </tr>
 <tr><td align="left" >
 April
+</td>
+</tr>
+<tr><td align="left" >
+Are you sure you want to delete this notification?
 </td>
 </tr>
 <tr><td align="left" >
@@ -490,6 +413,10 @@ Colombia
 </tr>
 <tr><td align="left" >
 Congo, the Democratic Republic of the
+</td>
+</tr>
+<tr><td align="left" >
+Copy to clipboard
 </td>
 </tr>
 <tr><td align="left" >
@@ -741,6 +668,10 @@ Managing billing for :billableName
 </td>
 </tr>
 <tr><td align="left" >
+Mark all as Read
+</td>
+</tr>
+<tr><td align="left" >
 Martinique
 </td>
 </tr>
@@ -814,6 +745,10 @@ Nigeria
 </tr>
 <tr><td align="left" >
 Niue
+</td>
+</tr>
+<tr><td align="left" >
+Notifications
 </td>
 </tr>
 <tr><td align="left" >

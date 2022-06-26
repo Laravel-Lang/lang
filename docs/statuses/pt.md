@@ -4,14 +4,18 @@ editLink: false
 
 # pt
 
-##### All missed: 104
+##### All missed: 108
 
 
 ### [pt](https://github.com/Laravel-Lang/lang/blob/main/locales/pt/pt.json)
 
-##### Missing: 104
+##### Missing: 108
 
 <table >
+<tr><td align="left" >
+Are you sure you want to delete this notification?
+</td>
+</tr>
 <tr><td align="left" >
 Are you sure you want to log out?
 </td>
@@ -30,6 +34,10 @@ China
 </tr>
 <tr><td align="left" >
 Click here to re-send the verification email.
+</td>
+</tr>
+<tr><td align="left" >
+Copy to clipboard
 </td>
 </tr>
 <tr><td align="left" >
@@ -117,6 +125,10 @@ Managing billing for :billableName
 </td>
 </tr>
 <tr><td align="left" >
+Mark all as Read
+</td>
+</tr>
+<tr><td align="left" >
 Micronesia, Federated States of
 </td>
 </tr>
@@ -130,6 +142,10 @@ Netherlands Antilles
 </tr>
 <tr><td align="left" >
 Nevermind, I'll keep my old plan
+</td>
+</tr>
+<tr><td align="left" >
+Notifications
 </td>
 </tr>
 <tr><td align="left" >

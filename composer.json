@@ -66,7 +66,9 @@
     "config": {
         "allow-plugins": {
             "composer/package-versions-deprecated": true,
-            "ergebnis/composer-normalize": true
+            "ergebnis/composer-normalize": true,
+            "dragon-code/codestyler": true,
+            "friendsofphp/php-cs-fixer": true
         },
         "preferred-install": "dist",
         "sort-packages": true

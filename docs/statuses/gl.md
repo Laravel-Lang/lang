@@ -4,23 +4,7 @@ editLink: false
 
 # gl
 
-##### All missed: 292
-
-
-### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/gl/auth.php)
-
-##### Missing: 1
-
-<table >
-<tr><td align="left" >
-password
-</td>
-<td align="left" >
-The provided password is incorrect.
-</td>
-</tr>
-
-</table>
+##### All missed: 295
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/gl/validation-inline.php)
@@ -337,7 +321,7 @@ The :attribute field must contain entries for: :values.
 
 ### [gl](https://github.com/Laravel-Lang/lang/blob/main/locales/gl/gl.json)
 
-##### Missing: 249
+##### Missing: 253
 
 <table >
 <tr><td align="left" >
@@ -406,6 +390,10 @@ Apply
 </tr>
 <tr><td align="left" >
 Apply Coupon
+</td>
+</tr>
+<tr><td align="left" >
+Are you sure you want to delete this notification?
 </td>
 </tr>
 <tr><td align="left" >
@@ -546,6 +534,10 @@ Congo
 </tr>
 <tr><td align="left" >
 Congo, the Democratic Republic of the
+</td>
+</tr>
+<tr><td align="left" >
+Copy to clipboard
 </td>
 </tr>
 <tr><td align="left" >
@@ -797,6 +789,10 @@ Managing billing for :billableName
 </td>
 </tr>
 <tr><td align="left" >
+Mark all as Read
+</td>
+</tr>
+<tr><td align="left" >
 Marshall Islands
 </td>
 </tr>
@@ -870,6 +866,10 @@ Niue
 </tr>
 <tr><td align="left" >
 Northern Mariana Islands
+</td>
+</tr>
+<tr><td align="left" >
+Notifications
 </td>
 </tr>
 <tr><td align="left" >

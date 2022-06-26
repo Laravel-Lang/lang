@@ -4,7 +4,7 @@ editLink: false
 
 # hu
 
-##### All missed: 262
+##### All missed: 266
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/hu/validation-inline.php)
@@ -321,7 +321,7 @@ The :attribute field must contain entries for: :values.
 
 ### [hu](https://github.com/Laravel-Lang/lang/blob/main/locales/hu/hu.json)
 
-##### Missing: 220
+##### Missing: 224
 
 <table >
 <tr><td align="left" >
@@ -382,6 +382,10 @@ Apply
 </tr>
 <tr><td align="left" >
 Apply Coupon
+</td>
+</tr>
+<tr><td align="left" >
+Are you sure you want to delete this notification?
 </td>
 </tr>
 <tr><td align="left" >
@@ -478,6 +482,10 @@ click here to request another
 </tr>
 <tr><td align="left" >
 Congo, the Democratic Republic of the
+</td>
+</tr>
+<tr><td align="left" >
+Copy to clipboard
 </td>
 </tr>
 <tr><td align="left" >
@@ -701,6 +709,10 @@ Managing billing for :billableName
 </td>
 </tr>
 <tr><td align="left" >
+Mark all as Read
+</td>
+</tr>
+<tr><td align="left" >
 Martinique
 </td>
 </tr>
@@ -762,6 +774,10 @@ Niger
 </tr>
 <tr><td align="left" >
 Niue
+</td>
+</tr>
+<tr><td align="left" >
+Notifications
 </td>
 </tr>
 <tr><td align="left" >

@@ -169,7 +169,7 @@ editLink: false
 </td>
 <td align="center" width="17%">
 
-[ja&nbsp;❗](statuses/ja.md)
+[ja&nbsp;✔](statuses/ja.md)
 
 </td>
 <td align="center" width="17%">

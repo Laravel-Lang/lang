@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const { viteBundler, defaultTheme } = require('vuepress')
+const { viteBundler, defaultTheme } = require('vuepress');
 
 require('dotenv').config();
 
@@ -141,4 +141,3 @@ function resolveNumeric(value) {
 
     return isNaN(num) ? value : num;
 }
-

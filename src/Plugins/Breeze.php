@@ -4,9 +4,9 @@ declare(strict_types=1);
 
 namespace LaravelLang\Lang\Plugins;
 
-use LaravelLang\Publisher\Plugins\BasePlugin;
+use LaravelLang\Publisher\Plugins\Plugin;
 
-class Breeze extends BasePlugin
+class Breeze extends Plugin
 {
     public function vendor(): ?string
     {

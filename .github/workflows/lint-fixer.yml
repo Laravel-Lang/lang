@@ -3,9 +3,6 @@ name: "Code-Style Fixer"
 on:
     push:
         branches: [ main ]
-    repository_dispatch:
-        types:
-            - codestyle
 
 permissions: write-all
 

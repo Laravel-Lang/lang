@@ -35,19 +35,32 @@ jobs:
                 run: |
                     IS_DIRTY=1
 
-                    vendor/bin/lang download --url=https://github.com/laravel/laravel/archive/refs/heads/5.8.zip --project=laravel --ver=5.8 --copy=resources/lang
                     vendor/bin/lang download --url=https://github.com/laravel/laravel/archive/refs/heads/6.x.zip --project=laravel --ver=6.x --copy=resources/lang
                     vendor/bin/lang download --url=https://github.com/laravel/laravel/archive/refs/heads/7.x.zip --project=laravel --ver=7.x --copy=resources/lang
                     vendor/bin/lang download --url=https://github.com/laravel/laravel/archive/refs/heads/8.x.zip --project=laravel --ver=8.x --copy=resources/lang
                     vendor/bin/lang download --url=https://github.com/laravel/laravel/archive/refs/heads/9.x.zip --project=laravel --ver=9.x --copy=lang
 
-                    vendor/bin/lang download --url=https://github.com/laravel/framework/archive/refs/heads/5.8.zip --project=framework --ver=5.8
                     vendor/bin/lang download --url=https://github.com/laravel/framework/archive/refs/heads/6.x.zip --project=framework --ver=6.x
                     vendor/bin/lang download --url=https://github.com/laravel/framework/archive/refs/heads/7.x.zip --project=framework --ver=7.x
                     vendor/bin/lang download --url=https://github.com/laravel/framework/archive/refs/heads/8.x.zip --project=framework --ver=8.x
                     vendor/bin/lang download --url=https://github.com/laravel/framework/archive/refs/heads/9.x.zip --project=framework --ver=9.x
 
                     { git add . && git commit -a -m "Updated Laravel Framework files"; } || IS_DIRTY=0
+
+                    echo ::set-output name=is_dirty::${IS_DIRTY}
+
+            -   name: Download Lumen
+                id: download_lumen
+                if: success()
+                run: |
+                    IS_DIRTY=1
+
+                    vendor/bin/lang download --url=https://github.com/laravel/lumen-framework/archive/refs/heads/6.x.zip --project=lumen --ver=6.x --copy=resources/lang
+                    vendor/bin/lang download --url=https://github.com/laravel/lumen-framework/archive/refs/heads/7.x.zip --project=lumen --ver=7.x --copy=resources/lang
+                    vendor/bin/lang download --url=https://github.com/laravel/lumen-framework/archive/refs/heads/8.x.zip --project=lumen --ver=8.x --copy=resources/lang
+                    vendor/bin/lang download --url=https://github.com/laravel/lumen-framework/archive/refs/heads/9.x.zip --project=lumen --ver=9.x --copy=resources/lang --copy=lang
+
+                    { git add . && git commit -a -m "Updated Lumen Framework files"; } || IS_DIRTY=0
 
                     echo ::set-output name=is_dirty::${IS_DIRTY}
 
@@ -132,6 +145,7 @@ jobs:
                 if: |
                     success() && (
                     steps.download_laravel.outputs.is_dirty == 1 ||
+                    steps.download_lumen.outputs.is_dirty == 1 ||
                     steps.download_jetstream.outputs.is_dirty == 1 ||
                     steps.download_breeze.outputs.is_dirty == 1 ||
                     steps.download_cashier_paddle.outputs.is_dirty == 1 ||

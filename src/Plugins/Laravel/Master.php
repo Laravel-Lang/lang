@@ -4,7 +4,7 @@ namespace LaravelLang\Lang\Plugins\Laravel;
 
 use LaravelLang\Publisher\Plugins\Plugin;
 
-class Develop extends Plugin
+class Master extends Plugin
 {
     protected ?string $vendor = 'laravel/framework';
 

@@ -4,375 +4,341 @@ editLink: false
 
 # ca
 
-##### All missed: 54
+##### All missed: 35
 
 
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/ca/validation-inline.php)
+### json
 
-##### Missing: 34
+##### Missing: 21
 
-<table >
-<tr><td align="left" >
-accepted_if
-</td>
-<td align="left" >
-This field must be accepted when :other is :value.
-</td>
-</tr>
-<tr><td align="left" >
-between.array
-</td>
-<td align="left" >
-This content must have between :min and :max items.
-</td>
-</tr>
-<tr><td align="left" >
-between.file
-</td>
-<td align="left" >
-This file must be between :min and :max kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-between.numeric
-</td>
-<td align="left" >
-This value must be between :min and :max.
-</td>
-</tr>
-<tr><td align="left" >
-between.string
-</td>
-<td align="left" >
-This string must be between :min and :max characters.
-</td>
-</tr>
-<tr><td align="left" >
-current_password
-</td>
-<td align="left" >
-The password is incorrect.
-</td>
-</tr>
-<tr><td align="left" >
-declined
-</td>
-<td align="left" >
-This value must be declined.
-</td>
-</tr>
-<tr><td align="left" >
-declined_if
-</td>
-<td align="left" >
-This value must be declined when :other is :value.
-</td>
-</tr>
-<tr><td align="left" >
-enum
-</td>
-<td align="left" >
-The selected value is invalid.
-</td>
-</tr>
-<tr><td align="left" >
-gt.array
-</td>
-<td align="left" >
-The content must have more than :value items.
-</td>
-</tr>
-<tr><td align="left" >
-gt.file
-</td>
-<td align="left" >
-The file size must be greater than :value kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-gt.numeric
-</td>
-<td align="left" >
-The value must be greater than :value.
-</td>
-</tr>
-<tr><td align="left" >
-gt.string
-</td>
-<td align="left" >
-The string must be greater than :value characters.
-</td>
-</tr>
-<tr><td align="left" >
-gte.array
-</td>
-<td align="left" >
-The content must have :value items or more.
-</td>
-</tr>
-<tr><td align="left" >
-lt.array
-</td>
-<td align="left" >
-The content must have less than :value items.
-</td>
-</tr>
-<tr><td align="left" >
-lt.file
-</td>
-<td align="left" >
-The file size must be less than :value kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-lt.numeric
-</td>
-<td align="left" >
-The value must be less than :value.
-</td>
-</tr>
-<tr><td align="left" >
-lt.string
-</td>
-<td align="left" >
-The string must be less than :value characters.
-</td>
-</tr>
-<tr><td align="left" >
-lte.array
-</td>
-<td align="left" >
-The content must not have more than :value items.
-</td>
-</tr>
-<tr><td align="left" >
-mac_address
-</td>
-<td align="left" >
-The value must be a valid MAC address.
-</td>
-</tr>
-<tr><td align="left" >
-max.array
-</td>
-<td align="left" >
-The content must not have more than :max items.
-</td>
-</tr>
-<tr><td align="left" >
-max.file
-</td>
-<td align="left" >
-The file size must not be greater than :max kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-max.numeric
-</td>
-<td align="left" >
-The value must not be greater than :max.
-</td>
-</tr>
-<tr><td align="left" >
-max.string
-</td>
-<td align="left" >
-The string must not be greater than :max characters.
-</td>
-</tr>
-<tr><td align="left" >
-min.array
-</td>
-<td align="left" >
-The value must have at least :min items.
-</td>
-</tr>
-<tr><td align="left" >
-min.file
-</td>
-<td align="left" >
-The file size must be at least :min kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-min.numeric
-</td>
-<td align="left" >
-The value must be at least :min.
-</td>
-</tr>
-<tr><td align="left" >
-min.string
-</td>
-<td align="left" >
-The string must be at least :min characters.
-</td>
-</tr>
-<tr><td align="left" >
-prohibits
-</td>
-<td align="left" >
-This field prohibits :other from being present.
-</td>
-</tr>
-<tr><td align="left" >
-required_array_keys
-</td>
-<td align="left" >
-This field must contain entries for: :values.
-</td>
-</tr>
-<tr><td align="left" >
-size.array
-</td>
-<td align="left" >
-The content must contain :size items.
-</td>
-</tr>
-<tr><td align="left" >
-size.file
-</td>
-<td align="left" >
-The file size must be :size kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-size.numeric
-</td>
-<td align="left" >
-The value must be :size.
-</td>
-</tr>
-<tr><td align="left" >
-size.string
-</td>
-<td align="left" >
-The string must be :size characters.
-</td>
-</tr>
+<table width="100%">
+<tr><td width="50%">
 
-</table>
-
-
-### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/ca/validation.php)
-
-##### Missing: 8
-
-<table >
-<tr><td align="left" >
-accepted_if
-</td>
-<td align="left" >
-The :attribute must be accepted when :other is :value.
-</td>
-</tr>
-<tr><td align="left" >
-current_password
-</td>
-<td align="left" >
-The password is incorrect.
-</td>
-</tr>
-<tr><td align="left" >
-declined
-</td>
-<td align="left" >
-The :attribute must be declined.
-</td>
-</tr>
-<tr><td align="left" >
-declined_if
-</td>
-<td align="left" >
-The :attribute must be declined when :other is :value.
-</td>
-</tr>
-<tr><td align="left" >
-enum
-</td>
-<td align="left" >
-The selected :attribute is invalid.
-</td>
-</tr>
-<tr><td align="left" >
-mac_address
-</td>
-<td align="left" >
-The :attribute must be a valid MAC address.
-</td>
-</tr>
-<tr><td align="left" >
-prohibits
-</td>
-<td align="left" >
-The :attribute field prohibits :other from being present.
-</td>
-</tr>
-<tr><td align="left" >
-required_array_keys
-</td>
-<td align="left" >
-The :attribute field must contain entries for: :values.
-</td>
-</tr>
-
-</table>
-
-
-### [ca](https://github.com/Laravel-Lang/lang/blob/main/locales/ca/ca.json)
-
-##### Missing: 12
-
-<table >
-<tr><td align="left" >
 A new verification link has been sent to the email address you provided in your profile settings.
-</td>
-</tr>
-<tr><td align="left" >
-A new verification link has been sent to your email address.
-</td>
-</tr>
-<tr><td align="left" >
-Are you sure you want to delete this notification?
-</td>
-</tr>
-<tr><td align="left" >
-Before continuing, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
-</td>
-</tr>
-<tr><td align="left" >
-Click here to re-send the verification email.
-</td>
-</tr>
-<tr><td align="left" >
-Copy to clipboard
-</td>
-</tr>
-<tr><td align="left" >
-Edit Profile
-</td>
-</tr>
-<tr><td align="left" >
-Mark all as Read
-</td>
-</tr>
-<tr><td align="left" >
-Notifications
-</td>
-</tr>
-<tr><td align="left" >
-Réunion
-</td>
-</tr>
-<tr><td align="left" >
-There was a problem fetching the resource.
-</td>
-</tr>
-<tr><td align="left" >
-Your email address is unverified.
-</td>
-</tr>
 
+</td><td width="50%">
+
+A new verification link has been sent to the email address you provided in your profile settings.
+
+</td></tr>
+<tr><td width="50%">
+
+A new verification link has been sent to your email address.
+
+</td><td width="50%">
+
+A new verification link has been sent to your email address.
+
+</td></tr>
+<tr><td width="50%">
+
+Are you sure you want to delete this notification?
+
+</td><td width="50%">
+
+Are you sure you want to delete this notification?
+
+</td></tr>
+<tr><td width="50%">
+
+Before continuing, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
+
+</td><td width="50%">
+
+Before continuing, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
+
+</td></tr>
+<tr><td width="50%">
+
+Click here to re-send the verification email.
+
+</td><td width="50%">
+
+Click here to re-send the verification email.
+
+</td></tr>
+<tr><td width="50%">
+
+Copy to clipboard
+
+</td><td width="50%">
+
+Copy to clipboard
+
+</td></tr>
+<tr><td width="50%">
+
+Edit Profile
+
+</td><td width="50%">
+
+Edit Profile
+
+</td></tr>
+<tr><td width="50%">
+
+If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
+
+</td><td width="50%">
+
+If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
+
+</td></tr>
+<tr><td width="50%">
+
+Logout Other Browser Sessions
+
+</td><td width="50%">
+
+Logout Other Browser Sessions
+
+</td></tr>
+<tr><td width="50%">
+
+Manage and logout your active sessions on other browsers and devices.
+
+</td><td width="50%">
+
+Manage and logout your active sessions on other browsers and devices.
+
+</td></tr>
+<tr><td width="50%">
+
+Mark all as Read
+
+</td><td width="50%">
+
+Mark all as Read
+
+</td></tr>
+<tr><td width="50%">
+
+Nevermind
+
+</td><td width="50%">
+
+Nevermind
+
+</td></tr>
+<tr><td width="50%">
+
+Notifications
+
+</td><td width="50%">
+
+Notifications
+
+</td></tr>
+<tr><td width="50%">
+
+Oh no
+
+</td><td width="50%">
+
+Oh no
+
+</td></tr>
+<tr><td width="50%">
+
+Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+
+</td><td width="50%">
+
+Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+
+</td></tr>
+<tr><td width="50%">
+
+Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+
+</td><td width="50%">
+
+Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+
+</td></tr>
+<tr><td width="50%">
+
+Réunion
+
+</td><td width="50%">
+
+Réunion
+
+</td></tr>
+<tr><td width="50%">
+
+Sint Maarten (Dutch part)
+
+</td><td width="50%">
+
+Sint Maarten
+
+</td></tr>
+<tr><td width="50%">
+
+There was a problem fetching the resource.
+
+</td><td width="50%">
+
+There was a problem fetching the resource.
+
+</td></tr>
+<tr><td width="50%">
+
+Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
+
+</td><td width="50%">
+
+Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
+
+</td></tr>
+<tr><td width="50%">
+
+Your email address is unverified.
+
+</td><td width="50%">
+
+Your email address is unverified.
+
+</td></tr>
 </table>
 
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php
+
+##### Missing: 14
+
+<table width="100%">
+<tr><td width="50%">
+
+accepted_if
+
+</td><td width="50%">
+
+The :attribute must be accepted when :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+current_password
+
+</td><td width="50%">
+
+The password is incorrect.
+
+</td></tr>
+<tr><td width="50%">
+
+declined
+
+</td><td width="50%">
+
+The :attribute must be declined.
+
+</td></tr>
+<tr><td width="50%">
+
+declined_if
+
+</td><td width="50%">
+
+The :attribute must be declined when :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+doesnt_start_with
+
+</td><td width="50%">
+
+The :attribute may not start with one of the following: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+enum
+
+</td><td width="50%">
+
+The selected :attribute is invalid.
+
+</td></tr>
+<tr><td width="50%">
+
+mac_address
+
+</td><td width="50%">
+
+The :attribute must be a valid MAC address.
+
+</td></tr>
+<tr><td width="50%">
+
+password.letters
+
+</td><td width="50%">
+
+The :attribute must contain at least one letter.
+
+</td></tr>
+<tr><td width="50%">
+
+password.mixed
+
+</td><td width="50%">
+
+The :attribute must contain at least one uppercase and one lowercase letter.
+
+</td></tr>
+<tr><td width="50%">
+
+password.numbers
+
+</td><td width="50%">
+
+The :attribute must contain at least one number.
+
+</td></tr>
+<tr><td width="50%">
+
+password.symbols
+
+</td><td width="50%">
+
+The :attribute must contain at least one symbol.
+
+</td></tr>
+<tr><td width="50%">
+
+password.uncompromised
+
+</td><td width="50%">
+
+The given :attribute has appeared in a data leak. Please choose a different :attribute.
+
+</td></tr>
+<tr><td width="50%">
+
+prohibits
+
+</td><td width="50%">
+
+The :attribute field prohibits :other from being present.
+
+</td></tr>
+<tr><td width="50%">
+
+required_array_keys
+
+</td><td width="50%">
+
+The :attribute field must contain entries for: :values.
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
 

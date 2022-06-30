@@ -2,18 +2,81 @@
 editLink: false
 ---
 
-# bn
+# zh_HK
 
-##### All missed: 13
+##### All missed: 23
 
 
 ### json
 
-##### Missing: 7
+##### Missing: 17
 
 <table width="100%">
 <tr><td width="50%">
 
+A new verification link has been sent to the email address you provided in your profile settings.
+
+</td><td width="50%">
+
+A new verification link has been sent to the email address you provided in your profile settings.
+
+</td></tr>
+<tr><td width="50%">
+
+A new verification link has been sent to your email address.
+
+</td><td width="50%">
+
+A new verification link has been sent to your email address.
+
+</td></tr>
+<tr><td width="50%">
+
+Are you sure you want to delete this notification?
+
+</td><td width="50%">
+
+Are you sure you want to delete this notification?
+
+</td></tr>
+<tr><td width="50%">
+
+Before continuing, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
+
+</td><td width="50%">
+
+Before continuing, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
+
+</td></tr>
+<tr><td width="50%">
+
+Click here to re-send the verification email.
+
+</td><td width="50%">
+
+Click here to re-send the verification email.
+
+</td></tr>
+<tr><td width="50%">
+
+Copy to clipboard
+
+</td><td width="50%">
+
+Copy to clipboard
+
+</td></tr>
+<tr><td width="50%">
+
+Edit Profile
+
+</td><td width="50%">
+
+Edit Profile
+
+</td></tr>
+<tr><td width="50%">
+
 If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
 
 </td><td width="50%">
@@ -41,11 +104,29 @@ Manage and logout your active sessions on other browsers and devices.
 </td></tr>
 <tr><td width="50%">
 
+Mark all as Read
+
+</td><td width="50%">
+
+Mark all as Read
+
+</td></tr>
+<tr><td width="50%">
+
 Nevermind
 
 </td><td width="50%">
 
 Nevermind
+
+</td></tr>
+<tr><td width="50%">
+
+Notifications
+
+</td><td width="50%">
+
+Notifications
 
 </td></tr>
 <tr><td width="50%">
@@ -73,6 +154,15 @@ Two factor authentication is now enabled. Scan the following QR code using your 
 </td><td width="50%">
 
 Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
+
+</td></tr>
+<tr><td width="50%">
+
+Your email address is unverified.
+
+</td><td width="50%">
+
+Your email address is unverified.
 
 </td></tr>
 </table>

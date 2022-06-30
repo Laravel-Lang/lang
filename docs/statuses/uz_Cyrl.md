@@ -2,14 +2,14 @@
 editLink: false
 ---
 
-# ro
+# uz_Cyrl
 
-##### All missed: 227
+##### All missed: 261
 
 
 ### json
 
-##### Missing: 221
+##### Missing: 247
 
 <table width="100%">
 <tr><td width="50%">
@@ -77,24 +77,6 @@ Administrator
 </td></tr>
 <tr><td width="50%">
 
-Albania
-
-</td><td width="50%">
-
-Albania
-
-</td></tr>
-<tr><td width="50%">
-
-Algeria
-
-</td><td width="50%">
-
-Algeria
-
-</td></tr>
-<tr><td width="50%">
-
 An error occurred while uploading the file.
 
 </td><td width="50%">
@@ -113,15 +95,6 @@ An unexpected error occurred and we have notified our support team. Please try a
 </td></tr>
 <tr><td width="50%">
 
-Angola
-
-</td><td width="50%">
-
-Angola
-
-</td></tr>
-<tr><td width="50%">
-
 Anguilla
 
 </td><td width="50%">
@@ -131,20 +104,20 @@ Anguilla
 </td></tr>
 <tr><td width="50%">
 
-Antarctica
+Antigua and Barbuda
 
 </td><td width="50%">
 
-Antarctica
+Antigua and Barbuda
 
 </td></tr>
 <tr><td width="50%">
 
-Antigua and Barbuda
+API Tokens
 
 </td><td width="50%">
 
-Antigua and Barbuda
+API Tokens
 
 </td></tr>
 <tr><td width="50%">
@@ -203,15 +176,6 @@ Argentina
 </td></tr>
 <tr><td width="50%">
 
-Armenia
-
-</td><td width="50%">
-
-Armenia
-
-</td></tr>
-<tr><td width="50%">
-
 Aruba
 
 </td><td width="50%">
@@ -221,47 +185,11 @@ Aruba
 </td></tr>
 <tr><td width="50%">
 
-August
-
-</td><td width="50%">
-
-August
-
-</td></tr>
-<tr><td width="50%">
-
-Australia
-
-</td><td width="50%">
-
-Australia
-
-</td></tr>
-<tr><td width="50%">
-
-Austria
-
-</td><td width="50%">
-
-Austria
-
-</td></tr>
-<tr><td width="50%">
-
 Bahamas
 
 </td><td width="50%">
 
 Bahamas
-
-</td></tr>
-<tr><td width="50%">
-
-Bahrain
-
-</td><td width="50%">
-
-Bahrain
 
 </td></tr>
 <tr><td width="50%">
@@ -338,15 +266,6 @@ Bermuda
 </td></tr>
 <tr><td width="50%">
 
-Bhutan
-
-</td><td width="50%">
-
-Bhutan
-
-</td></tr>
-<tr><td width="50%">
-
 Billing Information
 
 </td><td width="50%">
@@ -401,15 +320,6 @@ Botswana
 </td></tr>
 <tr><td width="50%">
 
-Bulgaria
-
-</td><td width="50%">
-
-Bulgaria
-
-</td></tr>
-<tr><td width="50%">
-
 Burkina Faso
 
 </td><td width="50%">
@@ -428,11 +338,20 @@ Burundi
 </td></tr>
 <tr><td width="50%">
 
-Canada
+Cambodia
 
 </td><td width="50%">
 
-Canada
+Cambodia
+
+</td></tr>
+<tr><td width="50%">
+
+Cameroon
+
+</td><td width="50%">
+
+Cameroon
 
 </td></tr>
 <tr><td width="50%">
@@ -446,29 +365,20 @@ Cancel Subscription
 </td></tr>
 <tr><td width="50%">
 
+Chad
+
+</td><td width="50%">
+
+Chad
+
+</td></tr>
+<tr><td width="50%">
+
 Change Subscription Plan
 
 </td><td width="50%">
 
 Change Subscription Plan
-
-</td></tr>
-<tr><td width="50%">
-
-Chile
-
-</td><td width="50%">
-
-Chile
-
-</td></tr>
-<tr><td width="50%">
-
-China
-
-</td><td width="50%">
-
-China
 
 </td></tr>
 <tr><td width="50%">
@@ -500,6 +410,15 @@ click here to request another
 </td></tr>
 <tr><td width="50%">
 
+Comoros
+
+</td><td width="50%">
+
+Comoros
+
+</td></tr>
+<tr><td width="50%">
+
 Congo
 
 </td><td width="50%">
@@ -523,15 +442,6 @@ Copy to clipboard
 </td><td width="50%">
 
 Copy to clipboard
-
-</td></tr>
-<tr><td width="50%">
-
-Costa Rica
-
-</td><td width="50%">
-
-Costa Rica
 
 </td></tr>
 <tr><td width="50%">
@@ -608,11 +518,20 @@ Dark
 </td></tr>
 <tr><td width="50%">
 
-Djibouti
+Dashboard
 
 </td><td width="50%">
 
-Djibouti
+Dashboard
+
+</td></tr>
+<tr><td width="50%">
+
+Detach
+
+</td><td width="50%">
+
+Detach
 
 </td></tr>
 <tr><td width="50%">
@@ -635,29 +554,11 @@ E-Mail Address
 </td></tr>
 <tr><td width="50%">
 
-Ecuador
-
-</td><td width="50%">
-
-Ecuador
-
-</td></tr>
-<tr><td width="50%">
-
 Edit Profile
 
 </td><td width="50%">
 
 Edit Profile
-
-</td></tr>
-<tr><td width="50%">
-
-Editor
-
-</td><td width="50%">
-
-Editor
 
 </td></tr>
 <tr><td width="50%">
@@ -680,11 +581,11 @@ Error
 </td></tr>
 <tr><td width="50%">
 
-Estonia
+Ethiopia
 
 </td><td width="50%">
 
-Estonia
+Ethiopia
 
 </td></tr>
 <tr><td width="50%">
@@ -712,15 +613,6 @@ Failed to load :resource!
 </td><td width="50%">
 
 Failed to load :resource!
-
-</td></tr>
-<tr><td width="50%">
-
-Fiji
-
-</td><td width="50%">
-
-Fiji
 
 </td></tr>
 <tr><td width="50%">
@@ -761,24 +653,6 @@ Gambia
 </td></tr>
 <tr><td width="50%">
 
-Georgia
-
-</td><td width="50%">
-
-Georgia
-
-</td></tr>
-<tr><td width="50%">
-
-Ghana
-
-</td><td width="50%">
-
-Ghana
-
-</td></tr>
-<tr><td width="50%">
-
 Gibraltar
 
 </td><td width="50%">
@@ -797,20 +671,20 @@ Grenada
 </td></tr>
 <tr><td width="50%">
 
-Guam
+Guadeloupe
 
 </td><td width="50%">
 
-Guam
+Guadeloupe
 
 </td></tr>
 <tr><td width="50%">
 
-Guatemala
+Guam
 
 </td><td width="50%">
 
-Guatemala
+Guam
 
 </td></tr>
 <tr><td width="50%">
@@ -829,15 +703,6 @@ Guyana
 </td><td width="50%">
 
 Guyana
-
-</td></tr>
-<tr><td width="50%">
-
-Haiti
-
-</td><td width="50%">
-
-Haiti
 
 </td></tr>
 <tr><td width="50%">
@@ -865,15 +730,6 @@ Heard Island and McDonald Islands
 </td><td width="50%">
 
 Heard Island and McDonald Islands
-
-</td></tr>
-<tr><td width="50%">
-
-Honduras
-
-</td><td width="50%">
-
-Honduras
 
 </td></tr>
 <tr><td width="50%">
@@ -941,24 +797,6 @@ Impersonate
 </td></tr>
 <tr><td width="50%">
 
-India
-
-</td><td width="50%">
-
-India
-
-</td></tr>
-<tr><td width="50%">
-
-Iran, Islamic Republic Of
-
-</td><td width="50%">
-
-Iran
-
-</td></tr>
-<tr><td width="50%">
-
 Iran, Islamic Republic of
 
 </td><td width="50%">
@@ -977,15 +815,6 @@ Isle of Man
 </td></tr>
 <tr><td width="50%">
 
-Israel
-
-</td><td width="50%">
-
-Israel
-
-</td></tr>
-<tr><td width="50%">
-
 It looks like you do not have an active subscription. You may choose one of the subscription plans below to get started. Subscription plans may be changed or cancelled at your convenience.
 
 </td><td width="50%">
@@ -995,29 +824,11 @@ It looks like you do not have an active subscription. You may choose one of the 
 </td></tr>
 <tr><td width="50%">
 
-Jamaica
-
-</td><td width="50%">
-
-Jamaica
-
-</td></tr>
-<tr><td width="50%">
-
 Jane Doe
 
 </td><td width="50%">
 
 Jane Doe
-
-</td></tr>
-<tr><td width="50%">
-
-Kenya
-
-</td><td width="50%">
-
-Kenya
 
 </td></tr>
 <tr><td width="50%">
@@ -1094,11 +905,29 @@ Log In
 </td></tr>
 <tr><td width="50%">
 
+Log Out
+
+</td><td width="50%">
+
+Log Out
+
+</td></tr>
+<tr><td width="50%">
+
 Logout Other Browser Sessions
 
 </td><td width="50%">
 
 Logout Other Browser Sessions
+
+</td></tr>
+<tr><td width="50%">
+
+Luxembourg
+
+</td><td width="50%">
+
+Luxembourg
 
 </td></tr>
 <tr><td width="50%">
@@ -1175,11 +1004,11 @@ Mark all as Read
 </td></tr>
 <tr><td width="50%">
 
-Mauritania
+Martinique
 
 </td><td width="50%">
 
-Mauritania
+Martinique
 
 </td></tr>
 <tr><td width="50%">
@@ -1202,6 +1031,24 @@ Mayotte
 </td></tr>
 <tr><td width="50%">
 
+Micronesia, Federated States Of
+
+</td><td width="50%">
+
+Micronesia
+
+</td></tr>
+<tr><td width="50%">
+
+Micronesia, Federated States of
+
+</td><td width="50%">
+
+Micronesia, Federated States of
+
+</td></tr>
+<tr><td width="50%">
+
 Moldova
 
 </td><td width="50%">
@@ -1211,20 +1058,20 @@ Moldova
 </td></tr>
 <tr><td width="50%">
 
-Monaco
+Moldova, Republic of
 
 </td><td width="50%">
 
-Monaco
+Moldova, Republic of
 
 </td></tr>
 <tr><td width="50%">
 
-Mongolia
+Monaco
 
 </td><td width="50%">
 
-Mongolia
+Monaco
 
 </td></tr>
 <tr><td width="50%">
@@ -1252,15 +1099,6 @@ Montserrat
 </td><td width="50%">
 
 Montserrat
-
-</td></tr>
-<tr><td width="50%">
-
-Myanmar
-
-</td><td width="50%">
-
-Myanmar
 
 </td></tr>
 <tr><td width="50%">
@@ -1337,15 +1175,6 @@ Niger
 </td></tr>
 <tr><td width="50%">
 
-Nigeria
-
-</td><td width="50%">
-
-Nigeria
-
-</td></tr>
-<tr><td width="50%">
-
 Niue
 
 </td><td width="50%">
@@ -1360,15 +1189,6 @@ Notifications
 </td><td width="50%">
 
 Notifications
-
-</td></tr>
-<tr><td width="50%">
-
-Oman
-
-</td><td width="50%">
-
-Oman
 
 </td></tr>
 <tr><td width="50%">
@@ -1391,15 +1211,6 @@ Our billing management portal allows you to conveniently manage your subscriptio
 </td></tr>
 <tr><td width="50%">
 
-Pakistan
-
-</td><td width="50%">
-
-Pakistan
-
-</td></tr>
-<tr><td width="50%">
-
 Palau
 
 </td><td width="50%">
@@ -1409,20 +1220,20 @@ Palau
 </td></tr>
 <tr><td width="50%">
 
-Panama
+Payment Information
 
 </td><td width="50%">
 
-Panama
+Payment Information
 
 </td></tr>
 <tr><td width="50%">
 
-Paraguay
+Payment Method
 
 </td><td width="50%">
 
-Paraguay
+Payment Method
 
 </td></tr>
 <tr><td width="50%">
@@ -1432,6 +1243,15 @@ Peru
 </td><td width="50%">
 
 Peru
+
+</td></tr>
+<tr><td width="50%">
+
+Please accept the terms of service.
+
+</td><td width="50%">
+
+Please accept the terms of service.
 
 </td></tr>
 <tr><td width="50%">
@@ -1481,20 +1301,38 @@ Previewing
 </td></tr>
 <tr><td width="50%">
 
-Puerto Rico
+Qatar
 
 </td><td width="50%">
 
-Puerto Rico
+Qatar
 
 </td></tr>
 <tr><td width="50%">
 
-Qatar
+Receipt Email Addresses
 
 </td><td width="50%">
 
-Qatar
+Receipt Email Addresses
+
+</td></tr>
+<tr><td width="50%">
+
+Receipts
+
+</td><td width="50%">
+
+Receipts
+
+</td></tr>
+<tr><td width="50%">
+
+Reload
+
+</td><td width="50%">
+
+Reload
 
 </td></tr>
 <tr><td width="50%">
@@ -1517,20 +1355,29 @@ Resource Row Dropdown
 </td></tr>
 <tr><td width="50%">
 
-Romania
+Resume Subscription
 
 </td><td width="50%">
 
-Romania
+Resume Subscription
 
 </td></tr>
 <tr><td width="50%">
 
-Rwanda
+Return to :appName
 
 </td><td width="50%">
 
-Rwanda
+Return to :appName
+
+</td></tr>
+<tr><td width="50%">
+
+Réunion
+
+</td><td width="50%">
+
+Réunion
 
 </td></tr>
 <tr><td width="50%">
@@ -1589,20 +1436,29 @@ Samoa
 </td></tr>
 <tr><td width="50%">
 
-San Marino
+Sao Tome and Principe
 
 </td><td width="50%">
 
-San Marino
+Sao Tome and Principe
 
 </td></tr>
 <tr><td width="50%">
 
-Sao Tome and Principe
+Select
 
 </td><td width="50%">
 
-Sao Tome and Principe
+Select
+
+</td></tr>
+<tr><td width="50%">
+
+Select a different plan
+
+</td><td width="50%">
+
+Select a different plan
 
 </td></tr>
 <tr><td width="50%">
@@ -1616,11 +1472,20 @@ Senegal
 </td></tr>
 <tr><td width="50%">
 
-Serbia
+Setup Key
 
 </td><td width="50%">
 
-Serbia
+Setup Key
+
+</td></tr>
+<tr><td width="50%">
+
+Seychelles
+
+</td><td width="50%">
+
+Seychelles
 
 </td></tr>
 <tr><td width="50%">
@@ -1634,11 +1499,11 @@ Sierra Leone
 </td></tr>
 <tr><td width="50%">
 
-Singapore
+Signed in as
 
 </td><td width="50%">
 
-Singapore
+Signed in as
 
 </td></tr>
 <tr><td width="50%">
@@ -1661,15 +1526,6 @@ Slovenia
 </td></tr>
 <tr><td width="50%">
 
-Somalia
-
-</td><td width="50%">
-
-Somalia
-
-</td></tr>
-<tr><td width="50%">
-
 South Georgia and the South Sandwich Islands
 
 </td><td width="50%">
@@ -1679,11 +1535,20 @@ South Georgia and the South Sandwich Islands
 </td></tr>
 <tr><td width="50%">
 
-Sri Lanka
+Standalone Actions
 
 </td><td width="50%">
 
-Sri Lanka
+Standalone Actions
+
+</td></tr>
+<tr><td width="50%">
+
+State / County
+
+</td><td width="50%">
+
+State / County
 
 </td></tr>
 <tr><td width="50%">
@@ -1697,11 +1562,47 @@ Stop Impersonating
 </td></tr>
 <tr><td width="50%">
 
+Subscribe
+
+</td><td width="50%">
+
+Subscribe
+
+</td></tr>
+<tr><td width="50%">
+
+Subscription Information
+
+</td><td width="50%">
+
+Subscription Information
+
+</td></tr>
+<tr><td width="50%">
+
+Subscription Pending
+
+</td><td width="50%">
+
+Subscription Pending
+
+</td></tr>
+<tr><td width="50%">
+
 Sudan
 
 </td><td width="50%">
 
 Sudan
+
+</td></tr>
+<tr><td width="50%">
+
+Suriname
+
+</td><td width="50%">
+
+Suriname
 
 </td></tr>
 <tr><td width="50%">
@@ -1724,20 +1625,119 @@ System
 </td></tr>
 <tr><td width="50%">
 
-Taiwan
+Taiwan, Province of China
 
 </td><td width="50%">
 
-Taiwan
+Taiwan, Province of China
 
 </td></tr>
 <tr><td width="50%">
 
-Tanzania
+Tanzania, United Republic of
 
 </td><td width="50%">
 
-Tanzania
+Tanzania, United Republic of
+
+</td></tr>
+<tr><td width="50%">
+
+Thanks for your continued support. We've attached a copy of your invoice for your records. Please let us know if you have any questions or concerns.
+
+</td><td width="50%">
+
+Thanks for your continued support. We've attached a copy of your invoice for your records. Please let us know if you have any questions or concerns.
+
+</td></tr>
+<tr><td width="50%">
+
+Thanks,
+
+</td><td width="50%">
+
+Thanks,
+
+</td></tr>
+<tr><td width="50%">
+
+The :attribute must contain at least one letter.
+
+</td><td width="50%">
+
+The :attribute must contain at least one letter.
+
+</td></tr>
+<tr><td width="50%">
+
+The :attribute must contain at least one number.
+
+</td><td width="50%">
+
+The :attribute must contain at least one number.
+
+</td></tr>
+<tr><td width="50%">
+
+The :attribute must contain at least one symbol.
+
+</td><td width="50%">
+
+The :attribute must contain at least one symbol.
+
+</td></tr>
+<tr><td width="50%">
+
+The :attribute must contain at least one uppercase and one lowercase letter.
+
+</td><td width="50%">
+
+The :attribute must contain at least one uppercase and one lowercase letter.
+
+</td></tr>
+<tr><td width="50%">
+
+The given :attribute has appeared in a data leak. Please choose a different :attribute.
+
+</td><td width="50%">
+
+The given :attribute has appeared in a data leak. Please choose a different :attribute.
+
+</td></tr>
+<tr><td width="50%">
+
+The password is incorrect.
+
+</td><td width="50%">
+
+The password is incorrect.
+
+</td></tr>
+<tr><td width="50%">
+
+The provided coupon code is invalid.
+
+</td><td width="50%">
+
+The provided coupon code is invalid.
+
+</td></tr>
+<tr><td width="50%">
+
+The provided VAT number is invalid.
+
+</td><td width="50%">
+
+The provided VAT number is invalid.
+
+</td></tr>
+<tr><td width="50%">
+
+The receipt emails must be valid email addresses.
+
+</td><td width="50%">
+
+The receipt emails must be valid email addresses.
 
 </td></tr>
 <tr><td width="50%">
@@ -1760,6 +1760,24 @@ The resource was prevented from being saved!
 </td></tr>
 <tr><td width="50%">
 
+The selected country is invalid.
+
+</td><td width="50%">
+
+The selected country is invalid.
+
+</td></tr>
+<tr><td width="50%">
+
+The selected plan is invalid.
+
+</td><td width="50%">
+
+The selected plan is invalid.
+
+</td></tr>
+<tr><td width="50%">
+
 There are no fields to display.
 
 </td><td width="50%">
@@ -1778,6 +1796,15 @@ There are no new notifications.
 </td></tr>
 <tr><td width="50%">
 
+There is no active subscription.
+
+</td><td width="50%">
+
+There is no active subscription.
+
+</td></tr>
+<tr><td width="50%">
+
 There was a problem fetching the resource.
 
 </td><td width="50%">
@@ -1787,11 +1814,56 @@ There was a problem fetching the resource.
 </td></tr>
 <tr><td width="50%">
 
+This account does not have an active subscription.
+
+</td><td width="50%">
+
+This account does not have an active subscription.
+
+</td></tr>
+<tr><td width="50%">
+
 This copy of Nova is unlicensed.
 
 </td><td width="50%">
 
 This copy of Nova is unlicensed.
+
+</td></tr>
+<tr><td width="50%">
+
+This coupon code can only be used by new customers.
+
+</td><td width="50%">
+
+This coupon code can only be used by new customers.
+
+</td></tr>
+<tr><td width="50%">
+
+This subscription cannot be resumed. Please create a new subscription.
+
+</td><td width="50%">
+
+This subscription cannot be resumed. Please create a new subscription.
+
+</td></tr>
+<tr><td width="50%">
+
+This subscription has expired and cannot be resumed. Please create a new subscription.
+
+</td><td width="50%">
+
+This subscription has expired and cannot be resumed. Please create a new subscription.
+
+</td></tr>
+<tr><td width="50%">
+
+Timor-Leste
+
+</td><td width="50%">
+
+Timor-Leste
 
 </td></tr>
 <tr><td width="50%">
@@ -1823,15 +1895,6 @@ Tokelau
 </td></tr>
 <tr><td width="50%">
 
-total
-
-</td><td width="50%">
-
-total
-
-</td></tr>
-<tr><td width="50%">
-
 Total:
 
 </td><td width="50%">
@@ -1841,29 +1904,20 @@ Total:
 </td></tr>
 <tr><td width="50%">
 
+Trashed
+
+</td><td width="50%">
+
+Trashed
+
+</td></tr>
+<tr><td width="50%">
+
 Trinidad and Tobago
 
 </td><td width="50%">
 
 Trinidad and Tobago
-
-</td></tr>
-<tr><td width="50%">
-
-Tunisia
-
-</td><td width="50%">
-
-Tunisia
-
-</td></tr>
-<tr><td width="50%">
-
-Turkmenistan
-
-</td><td width="50%">
-
-Turkmenistan
 
 </td></tr>
 <tr><td width="50%">
@@ -1922,20 +1976,29 @@ United States Minor Outlying Islands
 </td></tr>
 <tr><td width="50%">
 
-Uruguay
+Update Payment Information
 
 </td><td width="50%">
 
-Uruguay
+Update Payment Information
 
 </td></tr>
 <tr><td width="50%">
 
-Uzbekistan
+Update Payment Method
 
 </td><td width="50%">
 
-Uzbekistan
+Update Payment Method
+
+</td></tr>
+<tr><td width="50%">
+
+Uruguay
+
+</td><td width="50%">
+
+Uruguay
 
 </td></tr>
 <tr><td width="50%">
@@ -1949,11 +2012,11 @@ Vanuatu
 </td></tr>
 <tr><td width="50%">
 
-Venezuela
+VAT Number
 
 </td><td width="50%">
 
-Venezuela
+VAT Number
 
 </td></tr>
 <tr><td width="50%">
@@ -1967,6 +2030,24 @@ Venezuela, Bolivarian Republic of
 </td></tr>
 <tr><td width="50%">
 
+Verify Your Email Address
+
+</td><td width="50%">
+
+Verify Your Email Address
+
+</td></tr>
+<tr><td width="50%">
+
+View Receipt
+
+</td><td width="50%">
+
+View Receipt
+
+</td></tr>
+<tr><td width="50%">
+
 Wallis and Futuna
 
 </td><td width="50%">
@@ -1976,20 +2057,173 @@ Wallis and Futuna
 </td></tr>
 <tr><td width="50%">
 
-Zambia
+We are processing your subscription. Once the subscription has successfully processed, this page will update automatically. Typically, this process should only take a few seconds.
 
 </td><td width="50%">
 
-Zambia
+We are processing your subscription. Once the subscription has successfully processed, this page will update automatically. Typically, this process should only take a few seconds.
 
 </td></tr>
 <tr><td width="50%">
 
-Zimbabwe
+We are unable to process your payment. Please contact customer support.
 
 </td><td width="50%">
 
-Zimbabwe
+We are unable to process your payment. Please contact customer support.
+
+</td></tr>
+<tr><td width="50%">
+
+We have emailed your password reset link!
+
+</td><td width="50%">
+
+We have emailed your password reset link!
+
+</td></tr>
+<tr><td width="50%">
+
+We will send a receipt download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
+
+</td><td width="50%">
+
+We will send a receipt download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
+
+</td></tr>
+<tr><td width="50%">
+
+Whoops
+
+</td><td width="50%">
+
+Whoops
+
+</td></tr>
+<tr><td width="50%">
+
+Whoops!
+
+</td><td width="50%">
+
+Whoops!
+
+</td></tr>
+<tr><td width="50%">
+
+Yearly
+
+</td><td width="50%">
+
+Yearly
+
+</td></tr>
+<tr><td width="50%">
+
+You are already subscribed.
+
+</td><td width="50%">
+
+You are already subscribed.
+
+</td></tr>
+<tr><td width="50%">
+
+You are currently within your free trial period. Your trial will expire on :date.
+
+</td><td width="50%">
+
+You are currently within your free trial period. Your trial will expire on :date.
+
+</td></tr>
+<tr><td width="50%">
+
+You are logged in!
+
+</td><td width="50%">
+
+You are logged in!
+
+</td></tr>
+<tr><td width="50%">
+
+You may accept this invitation by clicking the button below:
+
+</td><td width="50%">
+
+You may accept this invitation by clicking the button below:
+
+</td></tr>
+<tr><td width="50%">
+
+You may cancel your subscription at any time. Once your subscription has been cancelled, you will have the option to resume the subscription until the end of your current billing cycle.
+
+</td><td width="50%">
+
+You may cancel your subscription at any time. Once your subscription has been cancelled, you will have the option to resume the subscription until the end of your current billing cycle.
+
+</td></tr>
+<tr><td width="50%">
+
+Your :invoiceName invoice is now available!
+
+</td><td width="50%">
+
+Your :invoiceName invoice is now available!
+
+</td></tr>
+<tr><td width="50%">
+
+Your card was declined. Please contact your card issuer for more information.
+
+</td><td width="50%">
+
+Your card was declined. Please contact your card issuer for more information.
+
+</td></tr>
+<tr><td width="50%">
+
+Your current payment method is :paypal.
+
+</td><td width="50%">
+
+Your current payment method is :paypal.
+
+</td></tr>
+<tr><td width="50%">
+
+Your current payment method is a credit card ending in :lastFour that expires on :expiration.
+
+</td><td width="50%">
+
+Your current payment method is a credit card ending in :lastFour that expires on :expiration.
+
+</td></tr>
+<tr><td width="50%">
+
+Your email address is unverified.
+
+</td><td width="50%">
+
+Your email address is unverified.
+
+</td></tr>
+<tr><td width="50%">
+
+Your registered VAT Number is :vatNumber.
+
+</td><td width="50%">
+
+Your registered VAT Number is :vatNumber.
+
+</td></tr>
+<tr><td width="50%">
+
+Zip / Postal Code
+
+</td><td width="50%">
+
+Zip / Postal Code
 
 </td></tr>
 <tr><td width="50%">
@@ -2009,9 +2243,45 @@ Zimbabwe
 
 ### php
 
-##### Missing: 6
+##### Missing: 14
 
 <table width="100%">
+<tr><td width="50%">
+
+accepted_if
+
+</td><td width="50%">
+
+The :attribute must be accepted when :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+current_password
+
+</td><td width="50%">
+
+The password is incorrect.
+
+</td></tr>
+<tr><td width="50%">
+
+declined
+
+</td><td width="50%">
+
+The :attribute must be declined.
+
+</td></tr>
+<tr><td width="50%">
+
+declined_if
+
+</td><td width="50%">
+
+The :attribute must be declined when :other is :value.
+
+</td></tr>
 <tr><td width="50%">
 
 doesnt_start_with
@@ -2019,6 +2289,24 @@ doesnt_start_with
 </td><td width="50%">
 
 The :attribute may not start with one of the following: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+enum
+
+</td><td width="50%">
+
+The selected :attribute is invalid.
+
+</td></tr>
+<tr><td width="50%">
+
+mac_address
+
+</td><td width="50%">
+
+The :attribute must be a valid MAC address.
 
 </td></tr>
 <tr><td width="50%">
@@ -2064,6 +2352,24 @@ password.uncompromised
 </td><td width="50%">
 
 The given :attribute has appeared in a data leak. Please choose a different :attribute.
+
+</td></tr>
+<tr><td width="50%">
+
+prohibits
+
+</td><td width="50%">
+
+The :attribute field prohibits :other from being present.
+
+</td></tr>
+<tr><td width="50%">
+
+required_array_keys
+
+</td><td width="50%">
+
+The :attribute field must contain entries for: :values.
 
 </td></tr>
 </table>

@@ -2,27 +2,18 @@
 editLink: false
 ---
 
-# fr
+# zh_TW
 
-##### All missed: 15
+##### All missed: 17
 
 
 ### json
 
-##### Missing: 14
+##### Missing: 11
 
 <table width="100%">
 <tr><td width="50%">
 
-Aland Islands
-
-</td><td width="50%">
-
-Åland Islands
-
-</td></tr>
-<tr><td width="50%">
-
 Are you sure you want to delete this notification?
 
 </td><td width="50%">
@@ -46,15 +37,6 @@ If necessary, you may logout of all of your other browser sessions across all of
 </td><td width="50%">
 
 If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
-
-</td></tr>
-<tr><td width="50%">
-
-Iran, Islamic Republic Of
-
-</td><td width="50%">
-
-Iran
 
 </td></tr>
 <tr><td width="50%">
@@ -118,15 +100,6 @@ Please provide the email address of the person you would like to add to this tea
 </td><td width="50%">
 
 Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
-
-</td></tr>
-<tr><td width="50%">
-
-Sint Maarten (Dutch part)
-
-</td><td width="50%">
-
-Sint Maarten
 
 </td></tr>
 <tr><td width="50%">
@@ -146,7 +119,7 @@ Two factor authentication is now enabled. Scan the following QR code using your 
 
 ### php
 
-##### Missing: 1
+##### Missing: 6
 
 <table width="100%">
 <tr><td width="50%">
@@ -156,6 +129,51 @@ doesnt_start_with
 </td><td width="50%">
 
 The :attribute may not start with one of the following: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+password.letters
+
+</td><td width="50%">
+
+The :attribute must contain at least one letter.
+
+</td></tr>
+<tr><td width="50%">
+
+password.mixed
+
+</td><td width="50%">
+
+The :attribute must contain at least one uppercase and one lowercase letter.
+
+</td></tr>
+<tr><td width="50%">
+
+password.numbers
+
+</td><td width="50%">
+
+The :attribute must contain at least one number.
+
+</td></tr>
+<tr><td width="50%">
+
+password.symbols
+
+</td><td width="50%">
+
+The :attribute must contain at least one symbol.
+
+</td></tr>
+<tr><td width="50%">
+
+password.uncompromised
+
+</td><td width="50%">
+
+The given :attribute has appeared in a data leak. Please choose a different :attribute.
 
 </td></tr>
 </table>

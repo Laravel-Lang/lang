@@ -2,14 +2,14 @@
 editLink: false
 ---
 
-# bn
+# pt_BR
 
-##### All missed: 13
+##### All missed: 14
 
 
 ### json
 
-##### Missing: 7
+##### Missing: 8
 
 <table width="100%">
 <tr><td width="50%">
@@ -64,6 +64,15 @@ Please provide the email address of the person you would like to add to this tea
 </td><td width="50%">
 
 Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+
+</td></tr>
+<tr><td width="50%">
+
+Sao Tome And Principe
+
+</td><td width="50%">
+
+São Tomé and Príncipe
 
 </td></tr>
 <tr><td width="50%">

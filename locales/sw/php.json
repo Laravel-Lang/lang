@@ -77,7 +77,7 @@
     "not_regex": "Muundo wa :attribute si sahihi.",
     "numeric": "Kipengele lazima kiwe nambari.",
     "password": "Nenosiri ni sahihi.",
-    "password.letters": "The :attribute must contain at least one letter.",
+    "password.letters": ":attribute lazima iwe na angalau herufi moja.",
     "password.mixed": "The :attribute must contain at least one uppercase and one lowercase letter.",
     "password.numbers": "The :attribute must contain at least one number.",
     "password.symbols": "The :attribute must contain at least one symbol.",

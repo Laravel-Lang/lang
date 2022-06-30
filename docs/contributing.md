@@ -27,6 +27,14 @@ We accept contributions via Pull Requests on [Github](https://github.com/Laravel
 
 * Fork this repository;
 * Update the files;
+  > Note that in inline files (`json-inline.json` and `php-inline.json`), keys are the "non-inline" option.
+  >
+  > For example:
+  > ```json
+  > {
+  >   "The :attribute must be at least :length characters.": "This field must be at least :length characters."
+  > }
+  > ```
 * Add a pull request with the name of the language
   > ex: [fr] Update validation for number in validation
 

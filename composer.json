@@ -34,6 +34,8 @@
     },
     "suggest": {
         "arcanedev/laravel-lang": "Translations manager and checker for Laravel 5",
+        "laravel-lang/attributes": "Translations for field names of the forms",
+        "laravel-lang/http-statuses": "Translations for HTTP statuses",
         "laravel-lang/publisher": "Easy installation and update of translation files for your project",
         "overtrue/laravel-lang": "Command to add languages in your project"
     },

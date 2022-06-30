@@ -81,7 +81,7 @@
     "password.mixed": ":attribute lazima iwe na angalau herufi moja kubwa na ndogo moja.",
     "password.numbers": ":attribute lazima iwe na angalau nambari moja.",
     "password.symbols": ":attribute lazima iwe na angalau ishara moja.",
-    "password.uncompromised": "The given :attribute has appeared in a data leak. Please choose a different :attribute.",
+    "password.uncompromised": ":attribute iliyotolewa imeonekana katika uvujaji wa data. Tafadhali chagua :attribute tofauti.",
     "present": "Sehemu ya kipengele lazima iwepo.",
     "previous": "&laquo; Awali",
     "prohibited": "Ya :attribute uwanja ni marufuku.",

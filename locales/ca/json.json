@@ -1,5 +1,4 @@
 {
-    "*": "*",
     "30 Days": "30 Dies",
     "60 Days": "60 Dies",
     "90 Days": "90 Dies",
@@ -759,6 +758,5 @@
     "Zambia": "Zàmbia",
     "Zimbabwe": "Zimbabwe",
     "Zip / Postal Code": "Còdi postal",
-    "Åland Islands": "Illes Alands",
-    "—": "—"
+    "Åland Islands": "Illes Alands"
 }

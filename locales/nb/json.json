@@ -1,5 +1,4 @@
 {
-    "*": "*",
     "30 Days": "30 dager",
     "60 Days": "60 dager",
     "90 Days": "90 dager",
@@ -759,6 +758,5 @@
     "Zambia": "Zambia",
     "Zimbabwe": "Zimbabwe",
     "Zip / Postal Code": "Postnummer",
-    "Åland Islands": "Ålandsøyene",
-    "—": "—"
+    "Åland Islands": "Ålandsøyene"
 }

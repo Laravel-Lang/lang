@@ -1,5 +1,4 @@
 {
-    "*": "*",
     "30 Days": "Siku 30",
     "60 Days": "Siku 60",
     "90 Days": "Siku 90",
@@ -759,6 +758,5 @@
     "Zambia": "Zambia",
     "Zimbabwe": "Zimbabwe",
     "Zip / Postal Code": "Msimbo wa Posta",
-    "Åland Islands": "Visiwa vya Aland",
-    "—": "—"
+    "Åland Islands": "Visiwa vya Aland"
 }

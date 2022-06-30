@@ -1,5 +1,4 @@
 {
-    "*": "*",
     "30 Days": "30 päivää",
     "60 Days": "60 päivää",
     "90 Days": "90 päivää",
@@ -759,6 +758,5 @@
     "Zambia": "Sambia",
     "Zimbabwe": "Zimbabwe",
     "Zip / Postal Code": "Postinumero",
-    "Åland Islands": "Ahvenanmaan maakunta",
-    "—": "—"
+    "Åland Islands": "Ahvenanmaan maakunta"
 }

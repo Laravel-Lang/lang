@@ -63,7 +63,7 @@
     "mac_address": ":Attribute একটি বৈধ MAC ঠিকানা হতে হবে ।",
     "max.array": ":Attribute এর মান :max টি উপাদানের চেয়ে বড় হতে পারেনা।",
     "max.file": ":Attribute এর মান :max কিলোবাইট এর চেয়ে বড় হতে পারেনা।",
-    "max.numeric": ":attribute এর মান :max এর চেয়ে বড় হতে পারেনা।",
+    "max.numeric": ":Attribute এর মান :max এর চেয়ে বড় হতে পারেনা।",
     "max.string": ":Attribute এর মান :max অক্ষর এর চেয়ে বড় হতে পারেনা।",
     "mimes": ":Attribute এর একটি ফাইল হতে হবে: :values।",
     "mimetypes": ":Attribute এর একটি ফাইল হতে হবে: :values।",

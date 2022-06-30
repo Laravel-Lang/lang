@@ -47,7 +47,7 @@
     "image": ":Attribute jābūt attēlam.",
     "in": "Izvēlētais :attribute ir nederīgs.",
     "in_array": ":Other neeksistē lauks :attribute.",
-    "integer": ":attribute ir jābūt skaitlim.",
+    "integer": ":Attribute ir jābūt skaitlim.",
     "ip": ":Attribute jābūt derīgai IP adresei.",
     "ipv4": ":Attribute jābūt derīgai IPv4 adresei.",
     "ipv6": ":Attribute jābūt derīgai IPv6 adresei.",

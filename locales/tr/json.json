@@ -1,5 +1,4 @@
 {
-    "*": "*",
     "30 Days": "30 gün",
     "60 Days": "60 gün",
     "90 Days": "90 gün",
@@ -609,7 +608,7 @@
     "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": ":Attribute en az :length karakterli olmalı ve en az birer büyük harf ve özel karakter içermelidir",
     "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": ":Attribute en az :length karakterli olmalı ve en az birer büyük harf, sayı ve özel karakter içermelidir",
     "The :attribute must be at least :length characters and contain at least one uppercase character.": ":Attribute en az :length karakterli olmalı ve en az bir büyük harf içermelidir",
-    "The :attribute must be at least :length characters.": ":attribute en az :length karakterli olmalı.",
+    "The :attribute must be at least :length characters.": ":Attribute en az :length karakterli olmalı.",
     "The :attribute must contain at least one letter.": ":Attribute en az bir harf içermelidir.",
     "The :attribute must contain at least one number.": ":Attribute en az bir sayı içermelidir.",
     "The :attribute must contain at least one symbol.": ":Attribute en az bir sembol içermelidir.",
@@ -759,6 +758,5 @@
     "Zambia": "Zambiya",
     "Zimbabwe": "Zimbabve",
     "Zip / Postal Code": "Posta Kodu",
-    "Åland Islands": "Åland Adaları",
-    "—": "—"
+    "Åland Islands": "Åland Adaları"
 }

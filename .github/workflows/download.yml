@@ -30,7 +30,7 @@ jobs:
             -   name: Install dependencies
                 run: |
                     composer update --prefer-stable --prefer-dist --no-progress --no-interaction
-                    composer require dragon-code/codestyler
+                    composer global require dragon-code/codestyler
 
             -   name: Download Laravel
                 id: download_laravel
@@ -50,7 +50,7 @@ jobs:
                     vendor/bin/lang download --url=https://github.com/laravel/framework/archive/refs/heads/9.x.zip --project=framework --ver=9.x
                     vendor/bin/lang download --url=https://github.com/laravel/framework/archive/refs/heads/master.zip --project=framework --ver=master
 
-                    vendor/bin/codestyle fix
+                    codestyle fix
 
                     { git add . && git commit -a -m "Updated Laravel Framework files"; } || IS_DIRTY=0
 
@@ -67,7 +67,7 @@ jobs:
                     vendor/bin/lang download --url=https://github.com/laravel/lumen-framework/archive/refs/heads/8.x.zip --project=lumen-framework --ver=8.x --copy=lang --copy=resources/lang
                     vendor/bin/lang download --url=https://github.com/laravel/lumen-framework/archive/refs/heads/9.x.zip --project=lumen-framework --ver=9.x --copy=lang --copy=resources/lang
 
-                    vendor/bin/codestyle fix
+                    codestyle fix
 
                     { git add . && git commit -a -m "Updated Lumen Framework files"; } || IS_DIRTY=0
 
@@ -83,7 +83,7 @@ jobs:
                     vendor/bin/lang download --url=https://github.com/laravel/jetstream/archive/refs/heads/2.x.zip --project=jetstream --ver=2.x
                     vendor/bin/lang download --url=https://github.com/laravel/jetstream/archive/refs/heads/master.zip --project=jetstream --ver=master
 
-                    vendor/bin/codestyle fix
+                    codestyle fix
 
                     { git add . && git commit -a -m "Updating Laravel Jetstream files"; } || IS_DIRTY=0
 
@@ -97,7 +97,7 @@ jobs:
 
                     vendor/bin/lang download --url=https://github.com/laravel/breeze/archive/refs/heads/1.x.zip --project=breeze --ver=1.x
 
-                    vendor/bin/codestyle fix
+                    codestyle fix
 
                     { git add . && git commit -a -m "Updating Laravel Breeze files"; } || IS_DIRTY=0
 
@@ -111,7 +111,7 @@ jobs:
 
                     vendor/bin/lang download --url=https://github.com/laravel/cashier-paddle/archive/refs/heads/1.x.zip --project=cashier/paddle --ver=1.x
 
-                    vendor/bin/codestyle fix
+                    codestyle fix
 
                     { git add . && git commit -a -m "Updating Laravel Cashier-Paddle files"; } || IS_DIRTY=0
 
@@ -126,7 +126,7 @@ jobs:
                     vendor/bin/lang download --url=https://github.com/laravel/cashier-stripe/archive/refs/heads/12.x.zip --project=cashier/stripe --ver=12.x
                     vendor/bin/lang download --url=https://github.com/laravel/cashier-stripe/archive/refs/heads/13.x.zip --project=cashier/stripe --ver=13.x
 
-                    vendor/bin/codestyle fix
+                    codestyle fix
 
                     { git add . && git commit -a -m "Updating Laravel Cashier-Stripe files"; } || IS_DIRTY=0
 
@@ -140,7 +140,7 @@ jobs:
 
                     vendor/bin/lang download --url=https://github.com/laravel/fortify/archive/refs/heads/1.x.zip --project=fortify --ver=1.x
 
-                    vendor/bin/codestyle fix
+                    codestyle fix
 
                     { git add . && git commit -a -m "Updating Laravel Fortify files"; } || IS_DIRTY=0
 
@@ -156,7 +156,7 @@ jobs:
                     vendor/bin/lang download --url=https://github.com/laravel/ui/archive/refs/heads/2.x.zip --project=ui --ver=2.x
                     vendor/bin/lang download --url=https://github.com/laravel/ui/archive/refs/heads/3.x.zip --project=ui --ver=3.x
 
-                    vendor/bin/codestyle fix
+                    codestyle fix
 
                     { git add . && git commit -a -m "Updating Laravel UI files"; } || IS_DIRTY=0
 

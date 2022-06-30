@@ -95,4 +95,3 @@ jobs:
                     token: ${{ secrets.COMPOSER_TOKEN }}
                     repo: Laravel-Lang/lang
                     type: generate-docs
-

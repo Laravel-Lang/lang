@@ -155,3 +155,11 @@ jobs:
                     )
                 with:
                     github_token: ${{ secrets.COMPOSER_TOKEN }}
+
+            -   name: Update codestyle
+                uses: myrotvorets/trigger-repository-dispatch-action@1.1.1
+                if: success()
+                with:
+                    token: ${{ secrets.COMPOSER_TOKEN }}
+                    repo: Laravel-Lang/lang
+                    type: codestyle

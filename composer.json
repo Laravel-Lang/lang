@@ -19,31 +19,23 @@
         "source": "https://github.com/Laravel-Lang/lang"
     },
     "require": {
-        "ext-json": "*"
+        "ext-json": "*",
+        "illuminate/support": "^5.8 || ^6.0 || ^7.0 || ^8.0 || ^9.0"
     },
     "require-dev": {
         "php": "^8.1",
-        "ext-zip": "*",
-        "dragon-code/pretty-array": "^4.0",
-        "dragon-code/simple-dto": "^2.3",
-        "dragon-code/support": "^6.1",
-        "guzzlehttp/guzzle": "^7.3",
-        "laravel-lang/publisher": "^13.0",
-        "laravel/breeze": "^1.2",
-        "laravel/fortify": "^1.7",
-        "laravel/jetstream": "^2.3",
-        "laravel/ui": "^3.4",
-        "orchestra/testbench": "^7.0",
+        "laravel-lang/publisher": "^14.0",
+        "laravel-lang/status-generator": "^1.3.5",
         "phpunit/phpunit": "^9.5",
-        "symfony/finder": "^6.0",
-        "symfony/var-dumper": "^6.0",
-        "vlucas/phpdotenv": "^5.4.1"
+        "symfony/var-dumper": "^5.0 || ^6.0"
     },
     "conflict": {
-        "laravel-lang/publisher": "<12.0 >=14.0"
+        "laravel-lang/publisher": "<14.0"
     },
     "suggest": {
         "arcanedev/laravel-lang": "Translations manager and checker for Laravel 5",
+        "laravel-lang/attributes": "Translations for field names of the forms",
+        "laravel-lang/http-statuses": "Translations for HTTP statuses",
         "laravel-lang/publisher": "Easy installation and update of translation files for your project",
         "overtrue/laravel-lang": "Command to add languages in your project"
     },
@@ -56,12 +48,8 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "LaravelLang\\Development\\": "app/main",
             "Tests\\": "tests"
-        },
-        "files": [
-            "app/main/helpers.php"
-        ]
+        }
     },
     "config": {
         "allow-plugins": {
@@ -72,5 +60,12 @@
         },
         "preferred-install": "dist",
         "sort-packages": true
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "LaravelLang\\Lang\\ServiceProvider"
+            ]
+        }
     }
 }

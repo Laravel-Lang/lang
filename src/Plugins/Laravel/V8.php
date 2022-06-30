@@ -15,6 +15,8 @@ class V8 extends Plugin
         return [
             'framework/8.x/framework.json' => '{locale}.json',
 
+            'framework/extended.json' => '{locale}.json',
+
             'laravel/8.x/auth.php'       => '{locale}/auth.php',
             'laravel/8.x/pagination.php' => '{locale}/pagination.php',
             'laravel/8.x/passwords.php'  => '{locale}/passwords.php',

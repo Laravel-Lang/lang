@@ -15,6 +15,8 @@ class V9 extends Plugin
         return [
             'framework/9.x/framework.json' => '{locale}.json',
 
+            'framework/extended.json' => '{locale}.json',
+
             'laravel/9.x/auth.php'       => '{locale}/auth.php',
             'laravel/9.x/pagination.php' => '{locale}/pagination.php',
             'laravel/9.x/passwords.php'  => '{locale}/passwords.php',

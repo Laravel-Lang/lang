@@ -15,6 +15,8 @@ class V6 extends Plugin
         return [
             'framework/6.x/framework.json' => '{locale}.json',
 
+            'framework/extended.json' => '{locale}.json',
+
             'laravel/6.x/auth.php'       => '{locale}/auth.php',
             'laravel/6.x/pagination.php' => '{locale}/pagination.php',
             'laravel/6.x/passwords.php'  => '{locale}/passwords.php',

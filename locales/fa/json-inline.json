@@ -12,5 +12,5 @@
     "The :attribute must contain at least one number.": "این فیلد باید حداقل شامل یک عدد باشد.",
     "The :attribute must contain at least one symbol.": "این فیلد باید خداقل شامل یک سمبل باشد.",
     "The :attribute must contain at least one uppercase and one lowercase letter.": "این فیلد باید حداقل شامل یک حرف بزرگ و یک حرف کوچک باشد.",
-    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": ":attribute در نشت داده ظاهر شده است. لطفاً یک :attribute متفاوت انتخاب کنید."
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": ":Attribute در نشت داده ظاهر شده است. لطفاً یک :attribute متفاوت انتخاب کنید."
 }

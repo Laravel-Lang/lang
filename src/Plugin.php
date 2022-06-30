@@ -4,7 +4,6 @@ declare(strict_types=1);
 
 namespace LaravelLang\Lang;
 
-use LaravelLang\Lang\Plugins;
 use LaravelLang\Publisher\Plugins\Provider;
 
 class Plugin extends Provider

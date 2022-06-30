@@ -78,7 +78,7 @@
     "numeric": "Kipengele lazima kiwe nambari.",
     "password": "Nenosiri ni sahihi.",
     "password.letters": ":attribute lazima iwe na angalau herufi moja.",
-    "password.mixed": "The :attribute must contain at least one uppercase and one lowercase letter.",
+    "password.mixed": ":attribute lazima iwe na angalau herufi moja kubwa na ndogo moja.",
     "password.numbers": "The :attribute must contain at least one number.",
     "password.symbols": "The :attribute must contain at least one symbol.",
     "password.uncompromised": "The given :attribute has appeared in a data leak. Please choose a different :attribute.",

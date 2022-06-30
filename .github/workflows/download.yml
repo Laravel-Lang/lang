@@ -42,11 +42,13 @@ jobs:
                     vendor/bin/lang download --url=https://github.com/laravel/laravel/archive/refs/heads/7.x.zip --project=laravel --ver=7.x --copy=resources/lang
                     vendor/bin/lang download --url=https://github.com/laravel/laravel/archive/refs/heads/8.x.zip --project=laravel --ver=8.x --copy=resources/lang
                     vendor/bin/lang download --url=https://github.com/laravel/laravel/archive/refs/heads/9.x.zip --project=laravel --ver=9.x --copy=lang
+                    vendor/bin/lang download --url=https://github.com/laravel/laravel/archive/refs/heads/master.zip --project=laravel --ver=master --copy=lang
 
                     vendor/bin/lang download --url=https://github.com/laravel/framework/archive/refs/heads/6.x.zip --project=framework --ver=6.x
                     vendor/bin/lang download --url=https://github.com/laravel/framework/archive/refs/heads/7.x.zip --project=framework --ver=7.x
                     vendor/bin/lang download --url=https://github.com/laravel/framework/archive/refs/heads/8.x.zip --project=framework --ver=8.x
                     vendor/bin/lang download --url=https://github.com/laravel/framework/archive/refs/heads/9.x.zip --project=framework --ver=9.x
+                    vendor/bin/lang download --url=https://github.com/laravel/framework/archive/refs/heads/master.zip --project=framework --ver=master
 
                     vendor/bin/codestyle fix
 

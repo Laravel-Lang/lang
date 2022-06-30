@@ -80,7 +80,7 @@
     "password.letters": ":attribute lazima iwe na angalau herufi moja.",
     "password.mixed": ":attribute lazima iwe na angalau herufi moja kubwa na ndogo moja.",
     "password.numbers": ":attribute lazima iwe na angalau nambari moja.",
-    "password.symbols": "The :attribute must contain at least one symbol.",
+    "password.symbols": ":attribute lazima iwe na angalau ishara moja.",
     "password.uncompromised": "The given :attribute has appeared in a data leak. Please choose a different :attribute.",
     "present": "Sehemu ya kipengele lazima iwepo.",
     "previous": "&laquo; Awali",

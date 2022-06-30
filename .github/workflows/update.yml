@@ -7,6 +7,9 @@ on:
     release:
         types:
             - released
+    repository_dispatch:
+        types:
+            - update
 
 permissions: write-all
 
@@ -88,7 +91,7 @@ jobs:
                 with:
                     github_token: ${{ secrets.COMPOSER_TOKEN }}
 
-            -   name: Generate Docs Trigger
+            -   name: Generate docs trigger
                 uses: myrotvorets/trigger-repository-dispatch-action@1.1.1
                 if: success()
                 with:

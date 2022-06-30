@@ -8,14 +8,14 @@ use LaravelLang\Publisher\Plugins\Plugin;
 
 class V13 extends Plugin
 {
-    protected ?string $vendor = 'laravel/cashier-stripe';
+    protected ?string $vendor = 'laravel/cashier';
 
     protected string $version = '^13.0';
 
     public function files(): array
     {
         return [
-            'cashier-stripe/13.x/cashier-stripe.json' => '{locale}.json',
+            'cashier/stripe/13.x/stripe.json' => '{locale}.json',
         ];
     }
 }

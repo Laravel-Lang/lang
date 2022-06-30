@@ -49,21 +49,6 @@ jobs:
 
                     echo ::set-output name=is_dirty::${IS_DIRTY}
 
-            -   name: Download Lumen
-                id: download_lumen
-                if: success()
-                run: |
-                    IS_DIRTY=1
-
-                    vendor/bin/lang download --url=https://github.com/laravel/lumen-framework/archive/refs/heads/6.x.zip --project=lumen --ver=6.x --copy=resources/lang
-                    vendor/bin/lang download --url=https://github.com/laravel/lumen-framework/archive/refs/heads/7.x.zip --project=lumen --ver=7.x --copy=resources/lang
-                    vendor/bin/lang download --url=https://github.com/laravel/lumen-framework/archive/refs/heads/8.x.zip --project=lumen --ver=8.x --copy=resources/lang
-                    vendor/bin/lang download --url=https://github.com/laravel/lumen-framework/archive/refs/heads/9.x.zip --project=lumen --ver=9.x --copy=resources/lang --copy=lang
-
-                    { git add . && git commit -a -m "Updated Lumen Framework files"; } || IS_DIRTY=0
-
-                    echo ::set-output name=is_dirty::${IS_DIRTY}
-
             -   name: Download Jetstream
                 id: download_jetstream
                 if: success()
@@ -95,7 +80,7 @@ jobs:
                 run: |
                     IS_DIRTY=1
 
-                    vendor/bin/lang download --url=https://github.com/laravel/cashier-paddle/archive/refs/heads/1.x.zip --project=cashier-paddle --ver=1.x
+                    vendor/bin/lang download --url=https://github.com/laravel/cashier-paddle/archive/refs/heads/1.x.zip --project=cashier/paddle --ver=1.x
 
                     { git add . && git commit -a -m "Updating Laravel Cashier-Paddle files"; } || IS_DIRTY=0
 
@@ -107,8 +92,8 @@ jobs:
                 run: |
                     IS_DIRTY=1
 
-                    vendor/bin/lang download --url=https://github.com/laravel/cashier-stripe/archive/refs/heads/12.x.zip --project=cashier-stripe --ver=12.x
-                    vendor/bin/lang download --url=https://github.com/laravel/cashier-stripe/archive/refs/heads/13.x.zip --project=cashier-stripe --ver=13.x
+                    vendor/bin/lang download --url=https://github.com/laravel/cashier-stripe/archive/refs/heads/12.x.zip --project=cashier/stripe --ver=12.x
+                    vendor/bin/lang download --url=https://github.com/laravel/cashier-stripe/archive/refs/heads/13.x.zip --project=cashier/stripe --ver=13.x
 
                     { git add . && git commit -a -m "Updating Laravel Cashier-Stripe files"; } || IS_DIRTY=0
 
@@ -145,7 +130,6 @@ jobs:
                 if: |
                     success() && (
                     steps.download_laravel.outputs.is_dirty == 1 ||
-                    steps.download_lumen.outputs.is_dirty == 1 ||
                     steps.download_jetstream.outputs.is_dirty == 1 ||
                     steps.download_breeze.outputs.is_dirty == 1 ||
                     steps.download_cashier_paddle.outputs.is_dirty == 1 ||

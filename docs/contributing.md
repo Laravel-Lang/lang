@@ -47,18 +47,22 @@ list of pending translations. This affects the *completion status* for this lang
 We can avoid this situation in the following way:
 
 * Fork this repository if you haven't already;
-* Add a PHP file named with the short name of the language (ex: `_excludes.json` for Spanish) inside the directory `locales/es`;
-* This php file must return an array of strings with each of the tags that we must exclude.
-  > For example suppose that the strings `'Email'` and `'API Token'` in `es.json` (ex: for Spanish) do not need translation in this language and therefore want to exclude them. The PHP file `es.php` (for example) in `excludes` should have this structure which you can copy for other languages.
-
-```json
-[
-    "Albania",
-    "Algeria",
-    "Andorra",
-    "Angola",
-    "Argentina"
-]
-```
+* Create a `_excludes.json` file in the localization folder if it doesn't already exist;
+* This file contains an array of values for each exception.
+  > For example, we need to exclude Micronesia from the status check for Italian:
+  >
+  > _locales/it/json.json_:
+  > ```json
+  > {
+  >     "Micronesia, Federated States Of": "Micronesia"
+  > }
+  > ```
+  >
+  > _locales/it/_excludes.json_:
+  > ```json
+  > [
+  >     "Micronesia"
+  > ]
+  > ```
 
 * Add these changes to the pull request you will send.

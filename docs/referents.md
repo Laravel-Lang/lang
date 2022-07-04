@@ -52,7 +52,7 @@ de
 
 </td><td width="50%">
 
-@WhereIsLucas, @sotten
+@WhereIsLucas, @sotten, @typingbeaver
 
 </td></tr>
 <tr><td width="50%">

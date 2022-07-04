@@ -12,5 +12,5 @@
     "The :attribute must contain at least one number.": "この項目は数字を1文字以上含む必要があります。",
     "The :attribute must contain at least one symbol.": "この項目は記号を1文字以上含む必要があります。",
     "The :attribute must contain at least one uppercase and one lowercase letter.": "この項目は大文字と小文字をそれぞれ1文字以上含む必要があります。",
-    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "この項目はデータ漏洩の対象だった可能性があります。他の:attributeを選んでください。"
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "この項目はデータ漏洩の対象だった可能性があります。他の項目を選んでください。"
 }

@@ -4,12 +4,12 @@ editLink: false
 
 # fr
 
-##### All missed: 15
+##### All missed: 14
 
 
 ### json
 
-##### Missing: 14
+##### Missing: 13
 
 <table width="100%">
 <tr><td width="50%">
@@ -19,15 +19,6 @@ Aland Islands
 </td><td width="50%">
 
 Åland Islands
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to delete this notification?
-
-</td><td width="50%">
-
-Are you sure you want to delete this notification?
 
 </td></tr>
 <tr><td width="50%">

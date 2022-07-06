@@ -4,23 +4,14 @@ editLink: false
 
 # tr
 
-##### All missed: 4
+##### All missed: 3
 
 
 ### json
 
-##### Missing: 4
+##### Missing: 3
 
 <table width="100%">
-<tr><td width="50%">
-
-Cote D'Ivoire
-
-</td><td width="50%">
-
-Côte d'Ivoire
-
-</td></tr>
 <tr><td width="50%">
 
 Mark all as Read

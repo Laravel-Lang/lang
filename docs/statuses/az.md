@@ -4,7 +4,7 @@ editLink: false
 
 # az
 
-##### All missed: 68
+##### All missed: 62
 
 
 ### json
@@ -568,71 +568,6 @@ Yearly
 </td><td width="50%">
 
 Yearly
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php
-
-##### Missing: 6
-
-<table width="100%">
-<tr><td width="50%">
-
-doesnt_start_with
-
-</td><td width="50%">
-
-The :attribute may not start with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-password.letters
-
-</td><td width="50%">
-
-The :attribute must contain at least one letter.
-
-</td></tr>
-<tr><td width="50%">
-
-password.mixed
-
-</td><td width="50%">
-
-The :attribute must contain at least one uppercase and one lowercase letter.
-
-</td></tr>
-<tr><td width="50%">
-
-password.numbers
-
-</td><td width="50%">
-
-The :attribute must contain at least one number.
-
-</td></tr>
-<tr><td width="50%">
-
-password.symbols
-
-</td><td width="50%">
-
-The :attribute must contain at least one symbol.
-
-</td></tr>
-<tr><td width="50%">
-
-password.uncompromised
-
-</td><td width="50%">
-
-The given :attribute has appeared in a data leak. Please choose a different :attribute.
 
 </td></tr>
 </table>

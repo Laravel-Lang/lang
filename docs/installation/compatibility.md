@@ -2,6 +2,7 @@
 
 | Laravel version                     | Install command                            |
 |-------------------------------------|--------------------------------------------|
+| Laravel 6-10                        | `composer require laravel-lang/lang:^11.0` |
 | Laravel 7-9                         | `composer require laravel-lang/lang:^10.0` |
 | Laravel 7-8                         | `composer require laravel-lang/lang:^9.0`  |
 | Laravel 7-8 with Php Intl           | `composer require laravel-lang/lang:^8.0`  |

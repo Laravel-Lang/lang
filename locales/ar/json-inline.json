@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "يجب أن يحوي هذا الحقل صلاحية فاعلة.",
+    "The :attribute must be at least :length characters and contain at least one number.": "يجب أن يتألف هذا الحقل على الأقل من :length خانة وأن تحتوي على رقم واحد على الأقل.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "يجب أن يتألف هذال الحقل على الأقل من :length خانة وأن يحتوي على الأقل على حرف خاص ورقم.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "يجب أن يتألف هذا الحقل على الأقل من :length خانة وأن يحتوي على حرف خاص واحد على الأقل.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "يجب أن يتألف هذا الحقل على الأقل من :length خانة وأن يحتوي على حرف كبير واحد ورقم واحد على الأقل.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "يجب أن يتألف هذا الحقل على الأقل من :length خانة وأن يحتوي على حرف كبير واحد وحرف خاص واحد على الأقل.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "يجب أن يتألف هذا الحقل على الأقل من :length خانة وأن يحتوي على حرف كبير واحد، رقم واحد، وحرف خاص واحد على الأقل.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "يجب أن يتألف هذا الحقل على الأقل من :length خانة وأن يحتوي على حرف كبير واحد على الأقل.",
+    "The :attribute must be at least :length characters.": "يجب أن يتألف هذا الحقل على الأقل من :length خانة.",
+    "The :attribute must contain at least one letter.": "يجب أن يحتوي هذا الحقل حرف واحد على الأقل.",
+    "The :attribute must contain at least one number.": "يجب أن يحتوي هذا الحقل رقم واحد على الأقل.",
+    "The :attribute must contain at least one symbol.": "يجب أن يحتوي رمز واحد على الأقل.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "يجب أن يحتوي هذا الحقل على الأقل حرف كبير واحد وحرف صغير واحد.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "القيمة المستخدمة ضمن قائمة البيانات المسربة. الرجاء اختيار قيمة مختلفة."
+}

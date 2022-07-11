@@ -6,5 +6,5 @@ editLink: false
 
 ##### All missed: 0
 
-All lines are translated 😎
+All lines are translated 😊
 

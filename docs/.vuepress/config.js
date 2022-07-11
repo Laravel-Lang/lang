@@ -1,6 +1,8 @@
 const fs = require('fs');
 const path = require('path');
 
+const { viteBundler, defaultTheme } = require('vuepress');
+
 require('dotenv').config();
 
 const hostname = 'laravel-lang.com';
@@ -15,8 +17,9 @@ module.exports = {
         ['meta', { name: 'twitter:image', content: `https://${ hostname }/images/social-logo.png` }]
     ],
 
-    theme: '@vuepress/theme-default',
-    themeConfig: {
+    bundler: viteBundler(),
+
+    theme: defaultTheme({
         hostname,
         base: '/',
 
@@ -28,11 +31,12 @@ module.exports = {
         docsBranch: 'main',
         docsDir: 'docs',
 
+        contributors: false,
         editLink: true,
 
         navbar: [
             { text: 'Translations Status', link: '/status.md' },
-            { text: '10.x', link: '/changelog/10.x.md' }
+            { text: '11.x', link: '/changelog/11.x.md' }
         ],
 
         sidebarDepth: 1,
@@ -84,7 +88,7 @@ module.exports = {
                 ]
             }
         ]
-    },
+    }),
 
     plugins: [
         [
@@ -137,4 +141,3 @@ function resolveNumeric(value) {
 
     return isNaN(num) ? value : num;
 }
-

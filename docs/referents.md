@@ -1,602 +1,240 @@
----
-editLink: false
----
-
 # Referents by language
 
-<table >
-<tr><td align="left" >
-af
-</td>
-<td align="left" >
+<table width="100%">
+<tr><th width="50%">
 
-</td>
-</tr>
-<tr><td align="left" >
+Locale
+
+</th><th width="50%">
+
+Developers
+
+</th></tr>
+<tr><td width="50%">
+
 ar
-</td>
-<td align="left" >
 
-[@mohamedsabil83](https://github.com/mohamedsabil83)
-, 
-[@Khuthaily](https://github.com/Khuthaily)
+</td><td width="50%">
 
-</td>
-</tr>
-<tr><td align="left" >
+@mohamedsabil83, @Khuthaily
+
+</td></tr>
+<tr><td width="50%">
+
 az
-</td>
-<td align="left" >
 
-</td>
-</tr>
-<tr><td align="left" >
-be
-</td>
-<td align="left" >
+</td><td width="50%">
 
-</td>
-</tr>
-<tr><td align="left" >
-bg
-</td>
-<td align="left" >
+@hs-qwerty
 
-</td>
-</tr>
-<tr><td align="left" >
+</td></tr>
+<tr><td width="50%">
+
 bn
-</td>
-<td align="left" >
 
-</td>
-</tr>
-<tr><td align="left" >
-bs
-</td>
-<td align="left" >
+</td><td width="50%">
 
-</td>
-</tr>
-<tr><td align="left" >
-ca
-</td>
-<td align="left" >
+@arman-arif
 
-</td>
-</tr>
-<tr><td align="left" >
-cs
-</td>
-<td align="left" >
+</td></tr>
+<tr><td width="50%">
 
-</td>
-</tr>
-<tr><td align="left" >
-cy
-</td>
-<td align="left" >
-
-</td>
-</tr>
-<tr><td align="left" >
 da
-</td>
-<td align="left" >
 
-[@jensstigaard](https://github.com/jensstigaard)
+</td><td width="50%">
 
-</td>
-</tr>
-<tr><td align="left" >
+@jensstigaard
+
+</td></tr>
+<tr><td width="50%">
+
 de
-</td>
-<td align="left" >
 
-[@WhereIsLucas](https://github.com/WhereIsLucas)
-, 
-[@sotten](https://github.com/sotten)
+</td><td width="50%">
 
-</td>
-</tr>
-<tr><td align="left" >
+@WhereIsLucas, @sotten
+
+</td></tr>
+<tr><td width="50%">
+
 de_CH
-</td>
-<td align="left" >
 
-[@sotten](https://github.com/sotten)
+</td><td width="50%">
 
-</td>
-</tr>
-<tr><td align="left" >
-el
-</td>
-<td align="left" >
+@sotten
 
-</td>
-</tr>
-<tr><td align="left" >
+</td></tr>
+<tr><td width="50%">
+
 es
-</td>
-<td align="left" >
 
-[@luisprmat](https://github.com/luisprmat)
+</td><td width="50%">
 
-</td>
-</tr>
-<tr><td align="left" >
-et
-</td>
-<td align="left" >
+@luisprmat
 
-</td>
-</tr>
-<tr><td align="left" >
-eu
-</td>
-<td align="left" >
+</td></tr>
+<tr><td width="50%">
 
-</td>
-</tr>
-<tr><td align="left" >
 fa
-</td>
-<td align="left" >
 
-</td>
-</tr>
-<tr><td align="left" >
-fi
-</td>
-<td align="left" >
+</td><td width="50%">
 
-</td>
-</tr>
-<tr><td align="left" >
-fil
-</td>
-<td align="left" >
+@ariaieboy
 
-</td>
-</tr>
-<tr><td align="left" >
+</td></tr>
+<tr><td width="50%">
+
 fr
-</td>
-<td align="left" >
 
-[@caouecs](https://github.com/caouecs)
-, 
-[@WhereIsLucas](https://github.com/WhereIsLucas)
+</td><td width="50%">
 
-</td>
-</tr>
-<tr><td align="left" >
-gl
-</td>
-<td align="left" >
+@caouecs, @WhereIsLucas
 
-</td>
-</tr>
-<tr><td align="left" >
-gu
-</td>
-<td align="left" >
+</td></tr>
+<tr><td width="50%">
 
-</td>
-</tr>
-<tr><td align="left" >
-he
-</td>
-<td align="left" >
-
-</td>
-</tr>
-<tr><td align="left" >
-hi
-</td>
-<td align="left" >
-
-</td>
-</tr>
-<tr><td align="left" >
-hr
-</td>
-<td align="left" >
-
-</td>
-</tr>
-<tr><td align="left" >
-hu
-</td>
-<td align="left" >
-
-</td>
-</tr>
-<tr><td align="left" >
-hy
-</td>
-<td align="left" >
-
-</td>
-</tr>
-<tr><td align="left" >
-id
-</td>
-<td align="left" >
-
-</td>
-</tr>
-<tr><td align="left" >
-is
-</td>
-<td align="left" >
-
-</td>
-</tr>
-<tr><td align="left" >
 it
-</td>
-<td align="left" >
 
-[@masterix21](https://github.com/masterix21)
+</td><td width="50%">
 
-</td>
-</tr>
-<tr><td align="left" >
-ja
-</td>
-<td align="left" >
+@masterix21
 
-</td>
-</tr>
-<tr><td align="left" >
-ka
-</td>
-<td align="left" >
+</td></tr>
+<tr><td width="50%">
 
-</td>
-</tr>
-<tr><td align="left" >
-kk
-</td>
-<td align="left" >
-
-</td>
-</tr>
-<tr><td align="left" >
-km
-</td>
-<td align="left" >
-
-</td>
-</tr>
-<tr><td align="left" >
-kn
-</td>
-<td align="left" >
-
-</td>
-</tr>
-<tr><td align="left" >
-ko
-</td>
-<td align="left" >
-
-</td>
-</tr>
-<tr><td align="left" >
-lt
-</td>
-<td align="left" >
-
-</td>
-</tr>
-<tr><td align="left" >
-lv
-</td>
-<td align="left" >
-
-</td>
-</tr>
-<tr><td align="left" >
 mk
-</td>
-<td align="left" >
 
-[@keljtanoski](https://github.com/keljtanoski)
+</td><td width="50%">
 
-</td>
-</tr>
-<tr><td align="left" >
-mn
-</td>
-<td align="left" >
+@keljtanoski
 
-</td>
-</tr>
-<tr><td align="left" >
-mr
-</td>
-<td align="left" >
+</td></tr>
+<tr><td width="50%">
 
-</td>
-</tr>
-<tr><td align="left" >
-ms
-</td>
-<td align="left" >
-
-</td>
-</tr>
-<tr><td align="left" >
-nb
-</td>
-<td align="left" >
-
-</td>
-</tr>
-<tr><td align="left" >
-ne
-</td>
-<td align="left" >
-
-</td>
-</tr>
-<tr><td align="left" >
 nl
-</td>
-<td align="left" >
 
-[@WhereIsLucas](https://github.com/WhereIsLucas)
+</td><td width="50%">
 
-</td>
-</tr>
-<tr><td align="left" >
-nn
-</td>
-<td align="left" >
+@WhereIsLucas
 
-</td>
-</tr>
-<tr><td align="left" >
-oc
-</td>
-<td align="left" >
+</td></tr>
+<tr><td width="50%">
 
-</td>
-</tr>
-<tr><td align="left" >
 pl
-</td>
-<td align="left" >
 
-[@Olsza](https://github.com/Olsza)
+</td><td width="50%">
 
-</td>
-</tr>
-<tr><td align="left" >
-ps
-</td>
-<td align="left" >
+@Olsza
 
-</td>
-</tr>
-<tr><td align="left" >
+</td></tr>
+<tr><td width="50%">
+
 pt
-</td>
-<td align="left" >
 
-[@jorgercosta](https://github.com/jorgercosta)
+</td><td width="50%">
 
-</td>
-</tr>
-<tr><td align="left" >
+@jorgercosta
+
+</td></tr>
+<tr><td width="50%">
+
 pt_BR
-</td>
-<td align="left" >
 
-</td>
-</tr>
-<tr><td align="left" >
-ro
-</td>
-<td align="left" >
+</td><td width="50%">
 
-</td>
-</tr>
-<tr><td align="left" >
+@EuCarlos
+
+</td></tr>
+<tr><td width="50%">
+
 ru
-</td>
-<td align="left" >
 
-[@andrey-helldar](https://github.com/andrey-helldar)
+</td><td width="50%">
 
-</td>
-</tr>
-<tr><td align="left" >
-sc
-</td>
-<td align="left" >
+@andrey-helldar
 
-</td>
-</tr>
-<tr><td align="left" >
-si
-</td>
-<td align="left" >
+</td></tr>
+<tr><td width="50%">
 
-</td>
-</tr>
-<tr><td align="left" >
-sk
-</td>
-<td align="left" >
-
-</td>
-</tr>
-<tr><td align="left" >
-sl
-</td>
-<td align="left" >
-
-</td>
-</tr>
-<tr><td align="left" >
-sq
-</td>
-<td align="left" >
-
-</td>
-</tr>
-<tr><td align="left" >
 sr_Cyrl
-</td>
-<td align="left" >
 
-[@LukaLatkovic](https://github.com/LukaLatkovic)
+</td><td width="50%">
 
-</td>
-</tr>
-<tr><td align="left" >
+@LukaLatkovic
+
+</td></tr>
+<tr><td width="50%">
+
 sr_Latn
-</td>
-<td align="left" >
 
-[@LukaLatkovic](https://github.com/LukaLatkovic)
+</td><td width="50%">
 
-</td>
-</tr>
-<tr><td align="left" >
+@LukaLatkovic
+
+</td></tr>
+<tr><td width="50%">
+
 sr_Latn_ME
-</td>
-<td align="left" >
 
-[@LukaLatkovic](https://github.com/LukaLatkovic)
+</td><td width="50%">
 
-</td>
-</tr>
-<tr><td align="left" >
-sv
-</td>
-<td align="left" >
+@LukaLatkovic
 
-</td>
-</tr>
-<tr><td align="left" >
+</td></tr>
+<tr><td width="50%">
+
 sw
-</td>
-<td align="left" >
 
-</td>
-</tr>
-<tr><td align="left" >
-tg
-</td>
-<td align="left" >
+</td><td width="50%">
 
-</td>
-</tr>
-<tr><td align="left" >
-th
-</td>
-<td align="left" >
+@Pheogrammer
 
-</td>
-</tr>
-<tr><td align="left" >
-tk
-</td>
-<td align="left" >
+</td></tr>
+<tr><td width="50%">
 
-</td>
-</tr>
-<tr><td align="left" >
-tl
-</td>
-<td align="left" >
-
-</td>
-</tr>
-<tr><td align="left" >
-tr
-</td>
-<td align="left" >
-
-</td>
-</tr>
-<tr><td align="left" >
-ug
-</td>
-<td align="left" >
-
-</td>
-</tr>
-<tr><td align="left" >
 uk
-</td>
-<td align="left" >
 
-[@MrAlKuz](https://github.com/MrAlKuz)
+</td><td width="50%">
 
-</td>
-</tr>
-<tr><td align="left" >
-ur
-</td>
-<td align="left" >
+@MrAlKuz
 
-</td>
-</tr>
-<tr><td align="left" >
-uz_Cyrl
-</td>
-<td align="left" >
+</td></tr>
+<tr><td width="50%">
 
-</td>
-</tr>
-<tr><td align="left" >
-uz_Latn
-</td>
-<td align="left" >
-
-</td>
-</tr>
-<tr><td align="left" >
 vi
-</td>
-<td align="left" >
 
-[@dinhquochan](https://github.com/dinhquochan)
+</td><td width="50%">
 
-</td>
-</tr>
-<tr><td align="left" >
+@dinhquochan
+
+</td></tr>
+<tr><td width="50%">
+
 zh_CN
-</td>
-<td align="left" >
 
-[@overtrue](https://github.com/overtrue)
+</td><td width="50%">
 
-</td>
-</tr>
-<tr><td align="left" >
+@overtrue
+
+</td></tr>
+<tr><td width="50%">
+
 zh_HK
-</td>
-<td align="left" >
 
-[@overtrue](https://github.com/overtrue)
+</td><td width="50%">
 
-</td>
-</tr>
-<tr><td align="left" >
+@overtrue
+
+</td></tr>
+<tr><td width="50%">
+
 zh_TW
-</td>
-<td align="left" >
 
-[@overtrue](https://github.com/overtrue)
+</td><td width="50%">
 
-</td>
-</tr>
+@overtrue
 
+</td></tr>
 </table>
 
+[ [to top](#) ]

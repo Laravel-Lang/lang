@@ -4,1234 +4,2996 @@ editLink: false
 
 # ms
 
-##### All missed: 288
+##### All missed: 330
 
 
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/ms/validation-inline.php)
+### json
 
-##### Missing: 8
+##### Missing: 318
 
-<table >
-<tr><td align="left" >
-accepted_if
-</td>
-<td align="left" >
-This field must be accepted when :other is :value.
-</td>
-</tr>
-<tr><td align="left" >
-current_password
-</td>
-<td align="left" >
-The password is incorrect.
-</td>
-</tr>
-<tr><td align="left" >
-declined
-</td>
-<td align="left" >
-This value must be declined.
-</td>
-</tr>
-<tr><td align="left" >
-declined_if
-</td>
-<td align="left" >
-This value must be declined when :other is :value.
-</td>
-</tr>
-<tr><td align="left" >
-enum
-</td>
-<td align="left" >
-The selected value is invalid.
-</td>
-</tr>
-<tr><td align="left" >
-mac_address
-</td>
-<td align="left" >
-The value must be a valid MAC address.
-</td>
-</tr>
-<tr><td align="left" >
-prohibits
-</td>
-<td align="left" >
-This field prohibits :other from being present.
-</td>
-</tr>
-<tr><td align="left" >
-required_array_keys
-</td>
-<td align="left" >
-This field must contain entries for: :values.
-</td>
-</tr>
+<table width="100%">
+<tr><td width="50%">
 
-</table>
+A new verification link has been sent to the email address you provided in your profile settings.
 
+</td><td width="50%">
 
-### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/ms/validation.php)
+A new verification link has been sent to the email address you provided in your profile settings.
 
-##### Missing: 8
+</td></tr>
+<tr><td width="50%">
 
-<table >
-<tr><td align="left" >
-accepted_if
-</td>
-<td align="left" >
-The :attribute must be accepted when :other is :value.
-</td>
-</tr>
-<tr><td align="left" >
-current_password
-</td>
-<td align="left" >
-The password is incorrect.
-</td>
-</tr>
-<tr><td align="left" >
-declined
-</td>
-<td align="left" >
-The :attribute must be declined.
-</td>
-</tr>
-<tr><td align="left" >
-declined_if
-</td>
-<td align="left" >
-The :attribute must be declined when :other is :value.
-</td>
-</tr>
-<tr><td align="left" >
-enum
-</td>
-<td align="left" >
-The selected :attribute is invalid.
-</td>
-</tr>
-<tr><td align="left" >
-mac_address
-</td>
-<td align="left" >
-The :attribute must be a valid MAC address.
-</td>
-</tr>
-<tr><td align="left" >
-prohibits
-</td>
-<td align="left" >
-The :attribute field prohibits :other from being present.
-</td>
-</tr>
-<tr><td align="left" >
-required_array_keys
-</td>
-<td align="left" >
-The :attribute field must contain entries for: :values.
-</td>
-</tr>
+A new verification link has been sent to your email address.
 
-</table>
+</td><td width="50%">
 
+A new verification link has been sent to your email address.
 
-### [ms](https://github.com/Laravel-Lang/lang/blob/main/locales/ms/ms.json)
+</td></tr>
+<tr><td width="50%">
 
-##### Missing: 272
-
-<table >
-<tr><td align="left" >
 Afghanistan
-</td>
-</tr>
-<tr><td align="left" >
-Albania
-</td>
-</tr>
-<tr><td align="left" >
-Algeria
-</td>
-</tr>
-<tr><td align="left" >
-Andorra
-</td>
-</tr>
-<tr><td align="left" >
-Angola
-</td>
-</tr>
-<tr><td align="left" >
-Anguilla
-</td>
-</tr>
-<tr><td align="left" >
-Antigua and Barbuda
-</td>
-</tr>
-<tr><td align="left" >
-Apply
-</td>
-</tr>
-<tr><td align="left" >
-Apply Coupon
-</td>
-</tr>
-<tr><td align="left" >
-April
-</td>
-</tr>
-<tr><td align="left" >
-Argentina
-</td>
-</tr>
-<tr><td align="left" >
-Armenia
-</td>
-</tr>
-<tr><td align="left" >
-Aruba
-</td>
-</tr>
-<tr><td align="left" >
-Australia
-</td>
-</tr>
-<tr><td align="left" >
-Austria
-</td>
-</tr>
-<tr><td align="left" >
-Bahamas
-</td>
-</tr>
-<tr><td align="left" >
-Bahrain
-</td>
-</tr>
-<tr><td align="left" >
-Bangladesh
-</td>
-</tr>
-<tr><td align="left" >
-Barbados
-</td>
-</tr>
-<tr><td align="left" >
-Before proceeding, please check your email for a verification link.
-</td>
-</tr>
-<tr><td align="left" >
-Belarus
-</td>
-</tr>
-<tr><td align="left" >
-Belize
-</td>
-</tr>
-<tr><td align="left" >
-Bermuda
-</td>
-</tr>
-<tr><td align="left" >
-Bhutan
-</td>
-</tr>
-<tr><td align="left" >
-Billing Information
-</td>
-</tr>
-<tr><td align="left" >
-Billing Management
-</td>
-</tr>
-<tr><td align="left" >
-Bolivia
-</td>
-</tr>
-<tr><td align="left" >
-Bolivia, Plurinational State of
-</td>
-</tr>
-<tr><td align="left" >
-Bosnia and Herzegovina
-</td>
-</tr>
-<tr><td align="left" >
-Botswana
-</td>
-</tr>
-<tr><td align="left" >
-Brazil
-</td>
-</tr>
-<tr><td align="left" >
-Bulgaria
-</td>
-</tr>
-<tr><td align="left" >
-Burkina Faso
-</td>
-</tr>
-<tr><td align="left" >
-Burundi
-</td>
-</tr>
-<tr><td align="left" >
-Cancel Subscription
-</td>
-</tr>
-<tr><td align="left" >
-Cape Verde
-</td>
-</tr>
-<tr><td align="left" >
-Chad
-</td>
-</tr>
-<tr><td align="left" >
-Change Subscription Plan
-</td>
-</tr>
-<tr><td align="left" >
-Chile
-</td>
-</tr>
-<tr><td align="left" >
-China
-</td>
-</tr>
-<tr><td align="left" >
-City
-</td>
-</tr>
-<tr><td align="left" >
-click here to request another
-</td>
-</tr>
-<tr><td align="left" >
-Colombia
-</td>
-</tr>
-<tr><td align="left" >
-Congo
-</td>
-</tr>
-<tr><td align="left" >
-Congo, the Democratic Republic of the
-</td>
-</tr>
-<tr><td align="left" >
-Costa Rica
-</td>
-</tr>
-<tr><td align="left" >
-Country
-</td>
-</tr>
-<tr><td align="left" >
-Coupon
-</td>
-</tr>
-<tr><td align="left" >
-Croatia
-</td>
-</tr>
-<tr><td align="left" >
-Current Subscription Plan
-</td>
-</tr>
-<tr><td align="left" >
-Currently Subscribed
-</td>
-</tr>
-<tr><td align="left" >
-Cyprus
-</td>
-</tr>
-<tr><td align="left" >
-Côte d'Ivoire
-</td>
-</tr>
-<tr><td align="left" >
-Denmark
-</td>
-</tr>
-<tr><td align="left" >
-Djibouti
-</td>
-</tr>
-<tr><td align="left" >
-Download Receipt
-</td>
-</tr>
-<tr><td align="left" >
-Ecuador
-</td>
-</tr>
-<tr><td align="left" >
-Editor
-</td>
-</tr>
-<tr><td align="left" >
-Email Addresses
-</td>
-</tr>
-<tr><td align="left" >
-Eritrea
-</td>
-</tr>
-<tr><td align="left" >
-Estonia
-</td>
-</tr>
-<tr><td align="left" >
-Ethiopia
-</td>
-</tr>
-<tr><td align="left" >
-ex VAT
-</td>
-</tr>
-<tr><td align="left" >
-Extra Billing Information
-</td>
-</tr>
-<tr><td align="left" >
-Failed to load :resource!
-</td>
-</tr>
-<tr><td align="left" >
-Fiji
-</td>
-</tr>
-<tr><td align="left" >
-Finland
-</td>
-</tr>
-<tr><td align="left" >
-Georgia
-</td>
-</tr>
-<tr><td align="left" >
-Ghana
-</td>
-</tr>
-<tr><td align="left" >
-Gibraltar
-</td>
-</tr>
-<tr><td align="left" >
-Greece
-</td>
-</tr>
-<tr><td align="left" >
-Greenland
-</td>
-</tr>
-<tr><td align="left" >
-Grenada
-</td>
-</tr>
-<tr><td align="left" >
-Guam
-</td>
-</tr>
-<tr><td align="left" >
-Guatemala
-</td>
-</tr>
-<tr><td align="left" >
-Guernsey
-</td>
-</tr>
-<tr><td align="left" >
-Guinea
-</td>
-</tr>
-<tr><td align="left" >
-Guyana
-</td>
-</tr>
-<tr><td align="left" >
-Haiti
-</td>
-</tr>
-<tr><td align="left" >
-Have a coupon code?
-</td>
-</tr>
-<tr><td align="left" >
-Having second thoughts about cancelling your subscription? You can instantly reactive your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
-</td>
-</tr>
-<tr><td align="left" >
-Heard Island and McDonald Islands
-</td>
-</tr>
-<tr><td align="left" >
-Honduras
-</td>
-</tr>
-<tr><td align="left" >
-Hong Kong
-</td>
-</tr>
-<tr><td align="left" >
-Hungary
-</td>
-</tr>
-<tr><td align="left" >
-I accept the terms of service
-</td>
-</tr>
-<tr><td align="left" >
-Iceland
-</td>
-</tr>
-<tr><td align="left" >
-ID
-</td>
-</tr>
-<tr><td align="left" >
-If you did not receive the email
-</td>
-</tr>
-<tr><td align="left" >
-If you need to add specific contact or tax information to your receipts, like your full business name, VAT identification number, or address of record, you may add it here.
-</td>
-</tr>
-<tr><td align="left" >
-If you're having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser:
-</td>
-</tr>
-<tr><td align="left" >
-India
-</td>
-</tr>
-<tr><td align="left" >
-Indonesia
-</td>
-</tr>
-<tr><td align="left" >
-Iran, Islamic Republic of
-</td>
-</tr>
-<tr><td align="left" >
-Iraq
-</td>
-</tr>
-<tr><td align="left" >
-Ireland
-</td>
-</tr>
-<tr><td align="left" >
-Isle of Man
-</td>
-</tr>
-<tr><td align="left" >
-Israel
-</td>
-</tr>
-<tr><td align="left" >
-It looks like you do not have an active subscription. You may choose one of the subscription plans below to get started. Subscription plans may be changed or cancelled at your convenience.
-</td>
-</tr>
-<tr><td align="left" >
-Jamaica
-</td>
-</tr>
-<tr><td align="left" >
-Jane Doe
-</td>
-</tr>
-<tr><td align="left" >
-Jersey
-</td>
-</tr>
-<tr><td align="left" >
-Jordan
-</td>
-</tr>
-<tr><td align="left" >
-Kazakhstan
-</td>
-</tr>
-<tr><td align="left" >
-Kenya
-</td>
-</tr>
-<tr><td align="left" >
-Kiribati
-</td>
-</tr>
-<tr><td align="left" >
-Korea, Republic of
-</td>
-</tr>
-<tr><td align="left" >
-Kosovo
-</td>
-</tr>
-<tr><td align="left" >
-Kuwait
-</td>
-</tr>
-<tr><td align="left" >
-Kyrgyzstan
-</td>
-</tr>
-<tr><td align="left" >
-Latvia
-</td>
-</tr>
-<tr><td align="left" >
-Lebanon
-</td>
-</tr>
-<tr><td align="left" >
-Lesotho
-</td>
-</tr>
-<tr><td align="left" >
-Liberia
-</td>
-</tr>
-<tr><td align="left" >
-Liechtenstein
-</td>
-</tr>
-<tr><td align="left" >
-Lithuania
-</td>
-</tr>
-<tr><td align="left" >
-Log Out
-</td>
-</tr>
-<tr><td align="left" >
-Luxembourg
-</td>
-</tr>
-<tr><td align="left" >
-Macao
-</td>
-</tr>
-<tr><td align="left" >
-Macedonia, the former Yugoslav Republic of
-</td>
-</tr>
-<tr><td align="left" >
-Madagascar
-</td>
-</tr>
-<tr><td align="left" >
-Malaysia
-</td>
-</tr>
-<tr><td align="left" >
-Maldives
-</td>
-</tr>
-<tr><td align="left" >
-Malta
-</td>
-</tr>
-<tr><td align="left" >
-Managing billing for :billableName
-</td>
-</tr>
-<tr><td align="left" >
-Martinique
-</td>
-</tr>
-<tr><td align="left" >
-Mauritius
-</td>
-</tr>
-<tr><td align="left" >
-Mayotte
-</td>
-</tr>
-<tr><td align="left" >
-Mexico
-</td>
-</tr>
-<tr><td align="left" >
-Micronesia, Federated States of
-</td>
-</tr>
-<tr><td align="left" >
-Moldova
-</td>
-</tr>
-<tr><td align="left" >
-Moldova, Republic of
-</td>
-</tr>
-<tr><td align="left" >
-Monaco
-</td>
-</tr>
-<tr><td align="left" >
-Mongolia
-</td>
-</tr>
-<tr><td align="left" >
-Montenegro
-</td>
-</tr>
-<tr><td align="left" >
-Monthly
-</td>
-</tr>
-<tr><td align="left" >
-monthly
-</td>
-</tr>
-<tr><td align="left" >
-Montserrat
-</td>
-</tr>
-<tr><td align="left" >
-Morocco
-</td>
-</tr>
-<tr><td align="left" >
-Mozambique
-</td>
-</tr>
-<tr><td align="left" >
-Myanmar
-</td>
-</tr>
-<tr><td align="left" >
-Namibia
-</td>
-</tr>
-<tr><td align="left" >
-Nauru
-</td>
-</tr>
-<tr><td align="left" >
-Nepal
-</td>
-</tr>
-<tr><td align="left" >
-Netherlands Antilles
-</td>
-</tr>
-<tr><td align="left" >
-Nevermind, I'll keep my old plan
-</td>
-</tr>
-<tr><td align="left" >
-New Caledonia
-</td>
-</tr>
-<tr><td align="left" >
-New Zealand
-</td>
-</tr>
-<tr><td align="left" >
-Nicaragua
-</td>
-</tr>
-<tr><td align="left" >
-Nigeria
-</td>
-</tr>
-<tr><td align="left" >
-Niue
-</td>
-</tr>
-<tr><td align="left" >
-Norway
-</td>
-</tr>
-<tr><td align="left" >
-November
-</td>
-</tr>
-<tr><td align="left" >
-Oman
-</td>
-</tr>
-<tr><td align="left" >
-Our billing management portal allows you to conveniently manage your subscription plan, payment method, and download your recent invoices.
-</td>
-</tr>
-<tr><td align="left" >
-Pakistan
-</td>
-</tr>
-<tr><td align="left" >
-Palau
-</td>
-</tr>
-<tr><td align="left" >
-Panama
-</td>
-</tr>
-<tr><td align="left" >
-Papua New Guinea
-</td>
-</tr>
-<tr><td align="left" >
-Paraguay
-</td>
-</tr>
-<tr><td align="left" >
-Payment Information
-</td>
-</tr>
-<tr><td align="left" >
-Payment Method
-</td>
-</tr>
-<tr><td align="left" >
-Peru
-</td>
-</tr>
-<tr><td align="left" >
-Please accept the terms of service.
-</td>
-</tr>
-<tr><td align="left" >
-Please confirm your password before continuing.
-</td>
-</tr>
-<tr><td align="left" >
-Please provide a maximum of three receipt emails addresses.
-</td>
-</tr>
-<tr><td align="left" >
-Poland
-</td>
-</tr>
-<tr><td align="left" >
-Portugal
-</td>
-</tr>
-<tr><td align="left" >
-Preview
-</td>
-</tr>
-<tr><td align="left" >
-Puerto Rico
-</td>
-</tr>
-<tr><td align="left" >
-Qatar
-</td>
-</tr>
-<tr><td align="left" >
-Receipt Email Addresses
-</td>
-</tr>
-<tr><td align="left" >
-Receipts
-</td>
-</tr>
-<tr><td align="left" >
-Reload
-</td>
-</tr>
-<tr><td align="left" >
-Resume Subscription
-</td>
-</tr>
-<tr><td align="left" >
-Return to :appName
-</td>
-</tr>
-<tr><td align="left" >
-Romania
-</td>
-</tr>
-<tr><td align="left" >
-Rwanda
-</td>
-</tr>
-<tr><td align="left" >
-Réunion
-</td>
-</tr>
-<tr><td align="left" >
-Saint Barthélemy
-</td>
-</tr>
-<tr><td align="left" >
-Saint Kitts and Nevis
-</td>
-</tr>
-<tr><td align="left" >
-Saint Martin (French part)
-</td>
-</tr>
-<tr><td align="left" >
-Saint Pierre and Miquelon
-</td>
-</tr>
-<tr><td align="left" >
-Saint Vincent and the Grenadines
-</td>
-</tr>
-<tr><td align="left" >
-Samoa
-</td>
-</tr>
-<tr><td align="left" >
-San Marino
-</td>
-</tr>
-<tr><td align="left" >
-Sao Tome and Principe
-</td>
-</tr>
-<tr><td align="left" >
-Select
-</td>
-</tr>
-<tr><td align="left" >
-Select a different plan
-</td>
-</tr>
-<tr><td align="left" >
-Senegal
-</td>
-</tr>
-<tr><td align="left" >
-September
-</td>
-</tr>
-<tr><td align="left" >
-Serbia
-</td>
-</tr>
-<tr><td align="left" >
-Sierra Leone
-</td>
-</tr>
-<tr><td align="left" >
-Signed in as
-</td>
-</tr>
-<tr><td align="left" >
-Slovakia
-</td>
-</tr>
-<tr><td align="left" >
-Slovenia
-</td>
-</tr>
-<tr><td align="left" >
-Somalia
-</td>
-</tr>
-<tr><td align="left" >
-South Georgia and the South Sandwich Islands
-</td>
-</tr>
-<tr><td align="left" >
-Sri Lanka
-</td>
-</tr>
-<tr><td align="left" >
-Standalone Actions
-</td>
-</tr>
-<tr><td align="left" >
-State / County
-</td>
-</tr>
-<tr><td align="left" >
-Subscribe
-</td>
-</tr>
-<tr><td align="left" >
-Subscription Information
-</td>
-</tr>
-<tr><td align="left" >
-Subscription Pending
-</td>
-</tr>
-<tr><td align="left" >
-Sudan
-</td>
-</tr>
-<tr><td align="left" >
-Svalbard and Jan Mayen
-</td>
-</tr>
-<tr><td align="left" >
-Sweden
-</td>
-</tr>
-<tr><td align="left" >
-Switzerland
-</td>
-</tr>
-<tr><td align="left" >
-Taiwan
-</td>
-</tr>
-<tr><td align="left" >
-Taiwan, Province of China
-</td>
-</tr>
-<tr><td align="left" >
-Tajikistan
-</td>
-</tr>
-<tr><td align="left" >
-Tanzania
-</td>
-</tr>
-<tr><td align="left" >
-Tanzania, United Republic of
-</td>
-</tr>
-<tr><td align="left" >
-Thailand
-</td>
-</tr>
-<tr><td align="left" >
-Thanks for your continued support. We've attached a copy of your invoice for your records. Please let us know if you have any questions or concerns.
-</td>
-</tr>
-<tr><td align="left" >
-Thanks,
-</td>
-</tr>
-<tr><td align="left" >
-The :attribute must contain at least one letter.
-</td>
-</tr>
-<tr><td align="left" >
-The :attribute must contain at least one number.
-</td>
-</tr>
-<tr><td align="left" >
-The :attribute must contain at least one symbol.
-</td>
-</tr>
-<tr><td align="left" >
-The :attribute must contain at least one uppercase and one lowercase letter.
-</td>
-</tr>
-<tr><td align="left" >
-The given :attribute has appeared in a data leak. Please choose a different :attribute.
-</td>
-</tr>
-<tr><td align="left" >
-The password is incorrect.
-</td>
-</tr>
-<tr><td align="left" >
-The provided coupon code is invalid.
-</td>
-</tr>
-<tr><td align="left" >
-The provided VAT number is invalid.
-</td>
-</tr>
-<tr><td align="left" >
-The receipt emails must be valid email addresses.
-</td>
-</tr>
-<tr><td align="left" >
-The selected country is invalid.
-</td>
-</tr>
-<tr><td align="left" >
-The selected plan is invalid.
-</td>
-</tr>
-<tr><td align="left" >
-There is no active subscription.
-</td>
-</tr>
-<tr><td align="left" >
-This account does not have an active subscription.
-</td>
-</tr>
-<tr><td align="left" >
-This coupon code can only be used by new customers.
-</td>
-</tr>
-<tr><td align="left" >
-This subscription cannot be resumed. Please create a new subscription.
-</td>
-</tr>
-<tr><td align="left" >
-This subscription has expired and cannot be resumed. Please create a new subscription.
-</td>
-</tr>
-<tr><td align="left" >
-Togo
-</td>
-</tr>
-<tr><td align="left" >
-Tokelau
-</td>
-</tr>
-<tr><td align="left" >
-Total:
-</td>
-</tr>
-<tr><td align="left" >
-Trinidad and Tobago
-</td>
-</tr>
-<tr><td align="left" >
-Tunisia
-</td>
-</tr>
-<tr><td align="left" >
-Turks and Caicos Islands
-</td>
-</tr>
-<tr><td align="left" >
-Tuvalu
-</td>
-</tr>
-<tr><td align="left" >
-Uganda
-</td>
-</tr>
-<tr><td align="left" >
-Ukraine
-</td>
-</tr>
-<tr><td align="left" >
-United Kingdom
-</td>
-</tr>
-<tr><td align="left" >
-United States Minor Outlying Islands
-</td>
-</tr>
-<tr><td align="left" >
-Update Payment Information
-</td>
-</tr>
-<tr><td align="left" >
-Update Payment Method
-</td>
-</tr>
-<tr><td align="left" >
-Uruguay
-</td>
-</tr>
-<tr><td align="left" >
-Uzbekistan
-</td>
-</tr>
-<tr><td align="left" >
-VAT Number
-</td>
-</tr>
-<tr><td align="left" >
-Venezuela
-</td>
-</tr>
-<tr><td align="left" >
-Venezuela, Bolivarian Republic of
-</td>
-</tr>
-<tr><td align="left" >
-Verify Your Email Address
-</td>
-</tr>
-<tr><td align="left" >
-View Receipt
-</td>
-</tr>
-<tr><td align="left" >
-Wallis and Futuna
-</td>
-</tr>
-<tr><td align="left" >
-We are processing your subscription. Once the subscription has successfully processed, this page will update automatically. Typically, this process should only take a few seconds.
-</td>
-</tr>
-<tr><td align="left" >
-We are unable to process your payment. Please contact customer support.
-</td>
-</tr>
-<tr><td align="left" >
-We will send a receipt download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
-</td>
-</tr>
-<tr><td align="left" >
-Whoops
-</td>
-</tr>
-<tr><td align="left" >
-Yearly
-</td>
-</tr>
-<tr><td align="left" >
-You are already subscribed.
-</td>
-</tr>
-<tr><td align="left" >
-You are currently within your free trial period. Your trial will expire on :date.
-</td>
-</tr>
-<tr><td align="left" >
-You are logged in!
-</td>
-</tr>
-<tr><td align="left" >
-You may accept this invitation by clicking the button below:
-</td>
-</tr>
-<tr><td align="left" >
-You may cancel your subscription at any time. Once your subscription has been cancelled, you will have the option to resume the subscription until the end of your current billing cycle.
-</td>
-</tr>
-<tr><td align="left" >
-Your :invoiceName invoice is now available!
-</td>
-</tr>
-<tr><td align="left" >
-Your card was declined. Please contact your card issuer for more information.
-</td>
-</tr>
-<tr><td align="left" >
-Your current payment method is :paypal.
-</td>
-</tr>
-<tr><td align="left" >
-Your current payment method is a credit card ending in :lastFour that expires on :expiration.
-</td>
-</tr>
-<tr><td align="left" >
-Your registered VAT Number is :vatNumber.
-</td>
-</tr>
-<tr><td align="left" >
-Zambia
-</td>
-</tr>
-<tr><td align="left" >
-Zimbabwe
-</td>
-</tr>
-<tr><td align="left" >
-Zip / Postal Code
-</td>
-</tr>
-<tr><td align="left" >
-Åland Islands
-</td>
-</tr>
 
+</td><td width="50%">
+
+Afghanistan
+
+</td></tr>
+<tr><td width="50%">
+
+Albania
+
+</td><td width="50%">
+
+Albania
+
+</td></tr>
+<tr><td width="50%">
+
+Algeria
+
+</td><td width="50%">
+
+Algeria
+
+</td></tr>
+<tr><td width="50%">
+
+An error occurred while uploading the file.
+
+</td><td width="50%">
+
+An error occurred while uploading the file.
+
+</td></tr>
+<tr><td width="50%">
+
+Andorra
+
+</td><td width="50%">
+
+Andorra
+
+</td></tr>
+<tr><td width="50%">
+
+Angola
+
+</td><td width="50%">
+
+Angola
+
+</td></tr>
+<tr><td width="50%">
+
+Anguilla
+
+</td><td width="50%">
+
+Anguilla
+
+</td></tr>
+<tr><td width="50%">
+
+Antigua and Barbuda
+
+</td><td width="50%">
+
+Antigua and Barbuda
+
+</td></tr>
+<tr><td width="50%">
+
+Apply
+
+</td><td width="50%">
+
+Apply
+
+</td></tr>
+<tr><td width="50%">
+
+Apply Coupon
+
+</td><td width="50%">
+
+Apply Coupon
+
+</td></tr>
+<tr><td width="50%">
+
+April
+
+</td><td width="50%">
+
+April
+
+</td></tr>
+<tr><td width="50%">
+
+Are you sure you want to delete this notification?
+
+</td><td width="50%">
+
+Are you sure you want to delete this notification?
+
+</td></tr>
+<tr><td width="50%">
+
+Are you sure you want to log out?
+
+</td><td width="50%">
+
+Are you sure you want to log out?
+
+</td></tr>
+<tr><td width="50%">
+
+Are you sure you want to stop impersonating?
+
+</td><td width="50%">
+
+Are you sure you want to stop impersonating?
+
+</td></tr>
+<tr><td width="50%">
+
+Argentina
+
+</td><td width="50%">
+
+Argentina
+
+</td></tr>
+<tr><td width="50%">
+
+Armenia
+
+</td><td width="50%">
+
+Armenia
+
+</td></tr>
+<tr><td width="50%">
+
+Aruba
+
+</td><td width="50%">
+
+Aruba
+
+</td></tr>
+<tr><td width="50%">
+
+Australia
+
+</td><td width="50%">
+
+Australia
+
+</td></tr>
+<tr><td width="50%">
+
+Austria
+
+</td><td width="50%">
+
+Austria
+
+</td></tr>
+<tr><td width="50%">
+
+Bahamas
+
+</td><td width="50%">
+
+Bahamas
+
+</td></tr>
+<tr><td width="50%">
+
+Bahrain
+
+</td><td width="50%">
+
+Bahrain
+
+</td></tr>
+<tr><td width="50%">
+
+Bangladesh
+
+</td><td width="50%">
+
+Bangladesh
+
+</td></tr>
+<tr><td width="50%">
+
+Barbados
+
+</td><td width="50%">
+
+Barbados
+
+</td></tr>
+<tr><td width="50%">
+
+Before continuing, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
+
+</td><td width="50%">
+
+Before continuing, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
+
+</td></tr>
+<tr><td width="50%">
+
+Before proceeding, please check your email for a verification link.
+
+</td><td width="50%">
+
+Before proceeding, please check your email for a verification link.
+
+</td></tr>
+<tr><td width="50%">
+
+Belarus
+
+</td><td width="50%">
+
+Belarus
+
+</td></tr>
+<tr><td width="50%">
+
+Belize
+
+</td><td width="50%">
+
+Belize
+
+</td></tr>
+<tr><td width="50%">
+
+Bermuda
+
+</td><td width="50%">
+
+Bermuda
+
+</td></tr>
+<tr><td width="50%">
+
+Bhutan
+
+</td><td width="50%">
+
+Bhutan
+
+</td></tr>
+<tr><td width="50%">
+
+Billing Information
+
+</td><td width="50%">
+
+Billing Information
+
+</td></tr>
+<tr><td width="50%">
+
+Billing Management
+
+</td><td width="50%">
+
+Billing Management
+
+</td></tr>
+<tr><td width="50%">
+
+Bolivia
+
+</td><td width="50%">
+
+Bolivia
+
+</td></tr>
+<tr><td width="50%">
+
+Bolivia, Plurinational State of
+
+</td><td width="50%">
+
+Bolivia, Plurinational State of
+
+</td></tr>
+<tr><td width="50%">
+
+Bosnia and Herzegovina
+
+</td><td width="50%">
+
+Bosnia and Herzegovina
+
+</td></tr>
+<tr><td width="50%">
+
+Botswana
+
+</td><td width="50%">
+
+Botswana
+
+</td></tr>
+<tr><td width="50%">
+
+Brazil
+
+</td><td width="50%">
+
+Brazil
+
+</td></tr>
+<tr><td width="50%">
+
+Bulgaria
+
+</td><td width="50%">
+
+Bulgaria
+
+</td></tr>
+<tr><td width="50%">
+
+Burkina Faso
+
+</td><td width="50%">
+
+Burkina Faso
+
+</td></tr>
+<tr><td width="50%">
+
+Burundi
+
+</td><td width="50%">
+
+Burundi
+
+</td></tr>
+<tr><td width="50%">
+
+Cancel Subscription
+
+</td><td width="50%">
+
+Cancel Subscription
+
+</td></tr>
+<tr><td width="50%">
+
+Cape Verde
+
+</td><td width="50%">
+
+Cape Verde
+
+</td></tr>
+<tr><td width="50%">
+
+Chad
+
+</td><td width="50%">
+
+Chad
+
+</td></tr>
+<tr><td width="50%">
+
+Change Subscription Plan
+
+</td><td width="50%">
+
+Change Subscription Plan
+
+</td></tr>
+<tr><td width="50%">
+
+Chile
+
+</td><td width="50%">
+
+Chile
+
+</td></tr>
+<tr><td width="50%">
+
+China
+
+</td><td width="50%">
+
+China
+
+</td></tr>
+<tr><td width="50%">
+
+City
+
+</td><td width="50%">
+
+City
+
+</td></tr>
+<tr><td width="50%">
+
+Click here to re-send the verification email.
+
+</td><td width="50%">
+
+Click here to re-send the verification email.
+
+</td></tr>
+<tr><td width="50%">
+
+click here to request another
+
+</td><td width="50%">
+
+click here to request another
+
+</td></tr>
+<tr><td width="50%">
+
+Colombia
+
+</td><td width="50%">
+
+Colombia
+
+</td></tr>
+<tr><td width="50%">
+
+Congo
+
+</td><td width="50%">
+
+Congo
+
+</td></tr>
+<tr><td width="50%">
+
+Congo, the Democratic Republic of the
+
+</td><td width="50%">
+
+Congo, the Democratic Republic of the
+
+</td></tr>
+<tr><td width="50%">
+
+Copy to clipboard
+
+</td><td width="50%">
+
+Copy to clipboard
+
+</td></tr>
+<tr><td width="50%">
+
+Costa Rica
+
+</td><td width="50%">
+
+Costa Rica
+
+</td></tr>
+<tr><td width="50%">
+
+Cote D'Ivoire
+
+</td><td width="50%">
+
+Côte d'Ivoire
+
+</td></tr>
+<tr><td width="50%">
+
+Country
+
+</td><td width="50%">
+
+Country
+
+</td></tr>
+<tr><td width="50%">
+
+Coupon
+
+</td><td width="50%">
+
+Coupon
+
+</td></tr>
+<tr><td width="50%">
+
+Croatia
+
+</td><td width="50%">
+
+Croatia
+
+</td></tr>
+<tr><td width="50%">
+
+Current Subscription Plan
+
+</td><td width="50%">
+
+Current Subscription Plan
+
+</td></tr>
+<tr><td width="50%">
+
+Currently Subscribed
+
+</td><td width="50%">
+
+Currently Subscribed
+
+</td></tr>
+<tr><td width="50%">
+
+Cyprus
+
+</td><td width="50%">
+
+Cyprus
+
+</td></tr>
+<tr><td width="50%">
+
+Côte d'Ivoire
+
+</td><td width="50%">
+
+Côte d'Ivoire
+
+</td></tr>
+<tr><td width="50%">
+
+Dark
+
+</td><td width="50%">
+
+Dark
+
+</td></tr>
+<tr><td width="50%">
+
+Denmark
+
+</td><td width="50%">
+
+Denmark
+
+</td></tr>
+<tr><td width="50%">
+
+Djibouti
+
+</td><td width="50%">
+
+Djibouti
+
+</td></tr>
+<tr><td width="50%">
+
+Download Receipt
+
+</td><td width="50%">
+
+Download Receipt
+
+</td></tr>
+<tr><td width="50%">
+
+E-Mail Address
+
+</td><td width="50%">
+
+E-Mail Address
+
+</td></tr>
+<tr><td width="50%">
+
+Ecuador
+
+</td><td width="50%">
+
+Ecuador
+
+</td></tr>
+<tr><td width="50%">
+
+Edit Profile
+
+</td><td width="50%">
+
+Edit Profile
+
+</td></tr>
+<tr><td width="50%">
+
+Editor
+
+</td><td width="50%">
+
+Editor
+
+</td></tr>
+<tr><td width="50%">
+
+Email Addresses
+
+</td><td width="50%">
+
+Email Addresses
+
+</td></tr>
+<tr><td width="50%">
+
+Eritrea
+
+</td><td width="50%">
+
+Eritrea
+
+</td></tr>
+<tr><td width="50%">
+
+Error
+
+</td><td width="50%">
+
+Error
+
+</td></tr>
+<tr><td width="50%">
+
+Estonia
+
+</td><td width="50%">
+
+Estonia
+
+</td></tr>
+<tr><td width="50%">
+
+Ethiopia
+
+</td><td width="50%">
+
+Ethiopia
+
+</td></tr>
+<tr><td width="50%">
+
+ex VAT
+
+</td><td width="50%">
+
+ex VAT
+
+</td></tr>
+<tr><td width="50%">
+
+Extra Billing Information
+
+</td><td width="50%">
+
+Extra Billing Information
+
+</td></tr>
+<tr><td width="50%">
+
+Failed to load :resource!
+
+</td><td width="50%">
+
+Failed to load :resource!
+
+</td></tr>
+<tr><td width="50%">
+
+Fiji
+
+</td><td width="50%">
+
+Fiji
+
+</td></tr>
+<tr><td width="50%">
+
+Finish enabling two factor authentication.
+
+</td><td width="50%">
+
+Finish enabling two factor authentication.
+
+</td></tr>
+<tr><td width="50%">
+
+Finland
+
+</td><td width="50%">
+
+Finland
+
+</td></tr>
+<tr><td width="50%">
+
+Forgot Password
+
+</td><td width="50%">
+
+Forgot Password
+
+</td></tr>
+<tr><td width="50%">
+
+Georgia
+
+</td><td width="50%">
+
+Georgia
+
+</td></tr>
+<tr><td width="50%">
+
+Ghana
+
+</td><td width="50%">
+
+Ghana
+
+</td></tr>
+<tr><td width="50%">
+
+Gibraltar
+
+</td><td width="50%">
+
+Gibraltar
+
+</td></tr>
+<tr><td width="50%">
+
+Greece
+
+</td><td width="50%">
+
+Greece
+
+</td></tr>
+<tr><td width="50%">
+
+Greenland
+
+</td><td width="50%">
+
+Greenland
+
+</td></tr>
+<tr><td width="50%">
+
+Grenada
+
+</td><td width="50%">
+
+Grenada
+
+</td></tr>
+<tr><td width="50%">
+
+Guam
+
+</td><td width="50%">
+
+Guam
+
+</td></tr>
+<tr><td width="50%">
+
+Guatemala
+
+</td><td width="50%">
+
+Guatemala
+
+</td></tr>
+<tr><td width="50%">
+
+Guernsey
+
+</td><td width="50%">
+
+Guernsey
+
+</td></tr>
+<tr><td width="50%">
+
+Guinea
+
+</td><td width="50%">
+
+Guinea
+
+</td></tr>
+<tr><td width="50%">
+
+Guyana
+
+</td><td width="50%">
+
+Guyana
+
+</td></tr>
+<tr><td width="50%">
+
+Haiti
+
+</td><td width="50%">
+
+Haiti
+
+</td></tr>
+<tr><td width="50%">
+
+Have a coupon code?
+
+</td><td width="50%">
+
+Have a coupon code?
+
+</td></tr>
+<tr><td width="50%">
+
+Having second thoughts about cancelling your subscription? You can instantly reactive your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
+
+</td><td width="50%">
+
+Having second thoughts about cancelling your subscription? You can instantly reactive your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
+
+</td></tr>
+<tr><td width="50%">
+
+Heard Island and McDonald Islands
+
+</td><td width="50%">
+
+Heard Island and McDonald Islands
+
+</td></tr>
+<tr><td width="50%">
+
+Honduras
+
+</td><td width="50%">
+
+Honduras
+
+</td></tr>
+<tr><td width="50%">
+
+Hong Kong
+
+</td><td width="50%">
+
+Hong Kong
+
+</td></tr>
+<tr><td width="50%">
+
+Hungary
+
+</td><td width="50%">
+
+Hungary
+
+</td></tr>
+<tr><td width="50%">
+
+I accept the terms of service
+
+</td><td width="50%">
+
+I accept the terms of service
+
+</td></tr>
+<tr><td width="50%">
+
+Iceland
+
+</td><td width="50%">
+
+Iceland
+
+</td></tr>
+<tr><td width="50%">
+
+ID
+
+</td><td width="50%">
+
+ID
+
+</td></tr>
+<tr><td width="50%">
+
+If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
+
+</td><td width="50%">
+
+If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
+
+</td></tr>
+<tr><td width="50%">
+
+If you did not receive the email
+
+</td><td width="50%">
+
+If you did not receive the email
+
+</td></tr>
+<tr><td width="50%">
+
+If you need to add specific contact or tax information to your receipts, like your full business name, VAT identification number, or address of record, you may add it here.
+
+</td><td width="50%">
+
+If you need to add specific contact or tax information to your receipts, like your full business name, VAT identification number, or address of record, you may add it here.
+
+</td></tr>
+<tr><td width="50%">
+
+Impersonate
+
+</td><td width="50%">
+
+Impersonate
+
+</td></tr>
+<tr><td width="50%">
+
+India
+
+</td><td width="50%">
+
+India
+
+</td></tr>
+<tr><td width="50%">
+
+Indonesia
+
+</td><td width="50%">
+
+Indonesia
+
+</td></tr>
+<tr><td width="50%">
+
+Iran, Islamic Republic Of
+
+</td><td width="50%">
+
+Iran
+
+</td></tr>
+<tr><td width="50%">
+
+Iran, Islamic Republic of
+
+</td><td width="50%">
+
+Iran, Islamic Republic of
+
+</td></tr>
+<tr><td width="50%">
+
+Iraq
+
+</td><td width="50%">
+
+Iraq
+
+</td></tr>
+<tr><td width="50%">
+
+Ireland
+
+</td><td width="50%">
+
+Ireland
+
+</td></tr>
+<tr><td width="50%">
+
+Isle Of Man
+
+</td><td width="50%">
+
+Isle of Man
+
+</td></tr>
+<tr><td width="50%">
+
+Isle of Man
+
+</td><td width="50%">
+
+Isle of Man
+
+</td></tr>
+<tr><td width="50%">
+
+Israel
+
+</td><td width="50%">
+
+Israel
+
+</td></tr>
+<tr><td width="50%">
+
+It looks like you do not have an active subscription. You may choose one of the subscription plans below to get started. Subscription plans may be changed or cancelled at your convenience.
+
+</td><td width="50%">
+
+It looks like you do not have an active subscription. You may choose one of the subscription plans below to get started. Subscription plans may be changed or cancelled at your convenience.
+
+</td></tr>
+<tr><td width="50%">
+
+Jamaica
+
+</td><td width="50%">
+
+Jamaica
+
+</td></tr>
+<tr><td width="50%">
+
+Jane Doe
+
+</td><td width="50%">
+
+Jane Doe
+
+</td></tr>
+<tr><td width="50%">
+
+Jersey
+
+</td><td width="50%">
+
+Jersey
+
+</td></tr>
+<tr><td width="50%">
+
+Jordan
+
+</td><td width="50%">
+
+Jordan
+
+</td></tr>
+<tr><td width="50%">
+
+Kazakhstan
+
+</td><td width="50%">
+
+Kazakhstan
+
+</td></tr>
+<tr><td width="50%">
+
+Kenya
+
+</td><td width="50%">
+
+Kenya
+
+</td></tr>
+<tr><td width="50%">
+
+Kiribati
+
+</td><td width="50%">
+
+Kiribati
+
+</td></tr>
+<tr><td width="50%">
+
+Korea, Republic of
+
+</td><td width="50%">
+
+Korea, Republic of
+
+</td></tr>
+<tr><td width="50%">
+
+Kosovo
+
+</td><td width="50%">
+
+Kosovo
+
+</td></tr>
+<tr><td width="50%">
+
+Kuwait
+
+</td><td width="50%">
+
+Kuwait
+
+</td></tr>
+<tr><td width="50%">
+
+Kyrgyzstan
+
+</td><td width="50%">
+
+Kyrgyzstan
+
+</td></tr>
+<tr><td width="50%">
+
+Latvia
+
+</td><td width="50%">
+
+Latvia
+
+</td></tr>
+<tr><td width="50%">
+
+Lebanon
+
+</td><td width="50%">
+
+Lebanon
+
+</td></tr>
+<tr><td width="50%">
+
+Lesotho
+
+</td><td width="50%">
+
+Lesotho
+
+</td></tr>
+<tr><td width="50%">
+
+Liberia
+
+</td><td width="50%">
+
+Liberia
+
+</td></tr>
+<tr><td width="50%">
+
+Liechtenstein
+
+</td><td width="50%">
+
+Liechtenstein
+
+</td></tr>
+<tr><td width="50%">
+
+Light
+
+</td><td width="50%">
+
+Light
+
+</td></tr>
+<tr><td width="50%">
+
+Lithuania
+
+</td><td width="50%">
+
+Lithuania
+
+</td></tr>
+<tr><td width="50%">
+
+Log In
+
+</td><td width="50%">
+
+Log In
+
+</td></tr>
+<tr><td width="50%">
+
+Log Out
+
+</td><td width="50%">
+
+Log Out
+
+</td></tr>
+<tr><td width="50%">
+
+Logout Other Browser Sessions
+
+</td><td width="50%">
+
+Logout Other Browser Sessions
+
+</td></tr>
+<tr><td width="50%">
+
+Luxembourg
+
+</td><td width="50%">
+
+Luxembourg
+
+</td></tr>
+<tr><td width="50%">
+
+Macao
+
+</td><td width="50%">
+
+Macao
+
+</td></tr>
+<tr><td width="50%">
+
+Macedonia, the former Yugoslav Republic of
+
+</td><td width="50%">
+
+Macedonia, the former Yugoslav Republic of
+
+</td></tr>
+<tr><td width="50%">
+
+Madagascar
+
+</td><td width="50%">
+
+Madagascar
+
+</td></tr>
+<tr><td width="50%">
+
+Malaysia
+
+</td><td width="50%">
+
+Malaysia
+
+</td></tr>
+<tr><td width="50%">
+
+Maldives
+
+</td><td width="50%">
+
+Maldives
+
+</td></tr>
+<tr><td width="50%">
+
+Malta
+
+</td><td width="50%">
+
+Malta
+
+</td></tr>
+<tr><td width="50%">
+
+Manage and logout your active sessions on other browsers and devices.
+
+</td><td width="50%">
+
+Manage and logout your active sessions on other browsers and devices.
+
+</td></tr>
+<tr><td width="50%">
+
+Managing billing for :billableName
+
+</td><td width="50%">
+
+Managing billing for :billableName
+
+</td></tr>
+<tr><td width="50%">
+
+Mark all as Read
+
+</td><td width="50%">
+
+Mark all as Read
+
+</td></tr>
+<tr><td width="50%">
+
+Martinique
+
+</td><td width="50%">
+
+Martinique
+
+</td></tr>
+<tr><td width="50%">
+
+Mauritius
+
+</td><td width="50%">
+
+Mauritius
+
+</td></tr>
+<tr><td width="50%">
+
+Mayotte
+
+</td><td width="50%">
+
+Mayotte
+
+</td></tr>
+<tr><td width="50%">
+
+Mexico
+
+</td><td width="50%">
+
+Mexico
+
+</td></tr>
+<tr><td width="50%">
+
+Micronesia, Federated States of
+
+</td><td width="50%">
+
+Micronesia, Federated States of
+
+</td></tr>
+<tr><td width="50%">
+
+Moldova
+
+</td><td width="50%">
+
+Moldova
+
+</td></tr>
+<tr><td width="50%">
+
+Moldova, Republic of
+
+</td><td width="50%">
+
+Moldova, Republic of
+
+</td></tr>
+<tr><td width="50%">
+
+Monaco
+
+</td><td width="50%">
+
+Monaco
+
+</td></tr>
+<tr><td width="50%">
+
+Mongolia
+
+</td><td width="50%">
+
+Mongolia
+
+</td></tr>
+<tr><td width="50%">
+
+Montenegro
+
+</td><td width="50%">
+
+Montenegro
+
+</td></tr>
+<tr><td width="50%">
+
+Monthly
+
+</td><td width="50%">
+
+Monthly
+
+</td></tr>
+<tr><td width="50%">
+
+monthly
+
+</td><td width="50%">
+
+monthly
+
+</td></tr>
+<tr><td width="50%">
+
+Montserrat
+
+</td><td width="50%">
+
+Montserrat
+
+</td></tr>
+<tr><td width="50%">
+
+Morocco
+
+</td><td width="50%">
+
+Morocco
+
+</td></tr>
+<tr><td width="50%">
+
+Mozambique
+
+</td><td width="50%">
+
+Mozambique
+
+</td></tr>
+<tr><td width="50%">
+
+Myanmar
+
+</td><td width="50%">
+
+Myanmar
+
+</td></tr>
+<tr><td width="50%">
+
+Namibia
+
+</td><td width="50%">
+
+Namibia
+
+</td></tr>
+<tr><td width="50%">
+
+Nauru
+
+</td><td width="50%">
+
+Nauru
+
+</td></tr>
+<tr><td width="50%">
+
+Nepal
+
+</td><td width="50%">
+
+Nepal
+
+</td></tr>
+<tr><td width="50%">
+
+Netherlands Antilles
+
+</td><td width="50%">
+
+Netherlands Antilles
+
+</td></tr>
+<tr><td width="50%">
+
+Nevermind
+
+</td><td width="50%">
+
+Nevermind
+
+</td></tr>
+<tr><td width="50%">
+
+Nevermind, I'll keep my old plan
+
+</td><td width="50%">
+
+Nevermind, I'll keep my old plan
+
+</td></tr>
+<tr><td width="50%">
+
+New Caledonia
+
+</td><td width="50%">
+
+New Caledonia
+
+</td></tr>
+<tr><td width="50%">
+
+New Zealand
+
+</td><td width="50%">
+
+New Zealand
+
+</td></tr>
+<tr><td width="50%">
+
+Nicaragua
+
+</td><td width="50%">
+
+Nicaragua
+
+</td></tr>
+<tr><td width="50%">
+
+Nigeria
+
+</td><td width="50%">
+
+Nigeria
+
+</td></tr>
+<tr><td width="50%">
+
+Niue
+
+</td><td width="50%">
+
+Niue
+
+</td></tr>
+<tr><td width="50%">
+
+Norway
+
+</td><td width="50%">
+
+Norway
+
+</td></tr>
+<tr><td width="50%">
+
+Notifications
+
+</td><td width="50%">
+
+Notifications
+
+</td></tr>
+<tr><td width="50%">
+
+November
+
+</td><td width="50%">
+
+November
+
+</td></tr>
+<tr><td width="50%">
+
+Oman
+
+</td><td width="50%">
+
+Oman
+
+</td></tr>
+<tr><td width="50%">
+
+Our billing management portal allows you to conveniently manage your subscription plan, payment method, and download your recent invoices.
+
+</td><td width="50%">
+
+Our billing management portal allows you to conveniently manage your subscription plan, payment method, and download your recent invoices.
+
+</td></tr>
+<tr><td width="50%">
+
+Pakistan
+
+</td><td width="50%">
+
+Pakistan
+
+</td></tr>
+<tr><td width="50%">
+
+Palau
+
+</td><td width="50%">
+
+Palau
+
+</td></tr>
+<tr><td width="50%">
+
+Panama
+
+</td><td width="50%">
+
+Panama
+
+</td></tr>
+<tr><td width="50%">
+
+Papua New Guinea
+
+</td><td width="50%">
+
+Papua New Guinea
+
+</td></tr>
+<tr><td width="50%">
+
+Paraguay
+
+</td><td width="50%">
+
+Paraguay
+
+</td></tr>
+<tr><td width="50%">
+
+Payment Information
+
+</td><td width="50%">
+
+Payment Information
+
+</td></tr>
+<tr><td width="50%">
+
+Payment Method
+
+</td><td width="50%">
+
+Payment Method
+
+</td></tr>
+<tr><td width="50%">
+
+Peru
+
+</td><td width="50%">
+
+Peru
+
+</td></tr>
+<tr><td width="50%">
+
+Please accept the terms of service.
+
+</td><td width="50%">
+
+Please accept the terms of service.
+
+</td></tr>
+<tr><td width="50%">
+
+Please confirm your password before continuing.
+
+</td><td width="50%">
+
+Please confirm your password before continuing.
+
+</td></tr>
+<tr><td width="50%">
+
+Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+
+</td><td width="50%">
+
+Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+
+</td></tr>
+<tr><td width="50%">
+
+Please provide a maximum of three receipt emails addresses.
+
+</td><td width="50%">
+
+Please provide a maximum of three receipt emails addresses.
+
+</td></tr>
+<tr><td width="50%">
+
+Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+
+</td><td width="50%">
+
+Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+
+</td></tr>
+<tr><td width="50%">
+
+Poland
+
+</td><td width="50%">
+
+Poland
+
+</td></tr>
+<tr><td width="50%">
+
+Portugal
+
+</td><td width="50%">
+
+Portugal
+
+</td></tr>
+<tr><td width="50%">
+
+Preview
+
+</td><td width="50%">
+
+Preview
+
+</td></tr>
+<tr><td width="50%">
+
+Previewing
+
+</td><td width="50%">
+
+Previewing
+
+</td></tr>
+<tr><td width="50%">
+
+Puerto Rico
+
+</td><td width="50%">
+
+Puerto Rico
+
+</td></tr>
+<tr><td width="50%">
+
+Qatar
+
+</td><td width="50%">
+
+Qatar
+
+</td></tr>
+<tr><td width="50%">
+
+Receipt Email Addresses
+
+</td><td width="50%">
+
+Receipt Email Addresses
+
+</td></tr>
+<tr><td width="50%">
+
+Receipts
+
+</td><td width="50%">
+
+Receipts
+
+</td></tr>
+<tr><td width="50%">
+
+Reload
+
+</td><td width="50%">
+
+Reload
+
+</td></tr>
+<tr><td width="50%">
+
+Replicate
+
+</td><td width="50%">
+
+Replicate
+
+</td></tr>
+<tr><td width="50%">
+
+Resource Row Dropdown
+
+</td><td width="50%">
+
+Resource Row Dropdown
+
+</td></tr>
+<tr><td width="50%">
+
+Resume Subscription
+
+</td><td width="50%">
+
+Resume Subscription
+
+</td></tr>
+<tr><td width="50%">
+
+Return to :appName
+
+</td><td width="50%">
+
+Return to :appName
+
+</td></tr>
+<tr><td width="50%">
+
+Romania
+
+</td><td width="50%">
+
+Romania
+
+</td></tr>
+<tr><td width="50%">
+
+Rwanda
+
+</td><td width="50%">
+
+Rwanda
+
+</td></tr>
+<tr><td width="50%">
+
+Réunion
+
+</td><td width="50%">
+
+Réunion
+
+</td></tr>
+<tr><td width="50%">
+
+Saint Barthelemy
+
+</td><td width="50%">
+
+St. Barthélemy
+
+</td></tr>
+<tr><td width="50%">
+
+Saint Barthélemy
+
+</td><td width="50%">
+
+Saint Barthélemy
+
+</td></tr>
+<tr><td width="50%">
+
+Saint Kitts and Nevis
+
+</td><td width="50%">
+
+Saint Kitts and Nevis
+
+</td></tr>
+<tr><td width="50%">
+
+Saint Martin (French part)
+
+</td><td width="50%">
+
+Saint Martin (French part)
+
+</td></tr>
+<tr><td width="50%">
+
+Saint Pierre and Miquelon
+
+</td><td width="50%">
+
+Saint Pierre and Miquelon
+
+</td></tr>
+<tr><td width="50%">
+
+Saint Vincent and the Grenadines
+
+</td><td width="50%">
+
+Saint Vincent and the Grenadines
+
+</td></tr>
+<tr><td width="50%">
+
+Samoa
+
+</td><td width="50%">
+
+Samoa
+
+</td></tr>
+<tr><td width="50%">
+
+San Marino
+
+</td><td width="50%">
+
+San Marino
+
+</td></tr>
+<tr><td width="50%">
+
+Sao Tome and Principe
+
+</td><td width="50%">
+
+Sao Tome and Principe
+
+</td></tr>
+<tr><td width="50%">
+
+Select
+
+</td><td width="50%">
+
+Select
+
+</td></tr>
+<tr><td width="50%">
+
+Select a different plan
+
+</td><td width="50%">
+
+Select a different plan
+
+</td></tr>
+<tr><td width="50%">
+
+Senegal
+
+</td><td width="50%">
+
+Senegal
+
+</td></tr>
+<tr><td width="50%">
+
+September
+
+</td><td width="50%">
+
+September
+
+</td></tr>
+<tr><td width="50%">
+
+Serbia
+
+</td><td width="50%">
+
+Serbia
+
+</td></tr>
+<tr><td width="50%">
+
+Setup Key
+
+</td><td width="50%">
+
+Setup Key
+
+</td></tr>
+<tr><td width="50%">
+
+Sierra Leone
+
+</td><td width="50%">
+
+Sierra Leone
+
+</td></tr>
+<tr><td width="50%">
+
+Signed in as
+
+</td><td width="50%">
+
+Signed in as
+
+</td></tr>
+<tr><td width="50%">
+
+Slovakia
+
+</td><td width="50%">
+
+Slovakia
+
+</td></tr>
+<tr><td width="50%">
+
+Slovenia
+
+</td><td width="50%">
+
+Slovenia
+
+</td></tr>
+<tr><td width="50%">
+
+Somalia
+
+</td><td width="50%">
+
+Somalia
+
+</td></tr>
+<tr><td width="50%">
+
+South Georgia and the South Sandwich Islands
+
+</td><td width="50%">
+
+South Georgia and the South Sandwich Islands
+
+</td></tr>
+<tr><td width="50%">
+
+Sri Lanka
+
+</td><td width="50%">
+
+Sri Lanka
+
+</td></tr>
+<tr><td width="50%">
+
+Standalone Actions
+
+</td><td width="50%">
+
+Standalone Actions
+
+</td></tr>
+<tr><td width="50%">
+
+State / County
+
+</td><td width="50%">
+
+State / County
+
+</td></tr>
+<tr><td width="50%">
+
+Stop Impersonating
+
+</td><td width="50%">
+
+Stop Impersonating
+
+</td></tr>
+<tr><td width="50%">
+
+Subscribe
+
+</td><td width="50%">
+
+Subscribe
+
+</td></tr>
+<tr><td width="50%">
+
+Subscription Information
+
+</td><td width="50%">
+
+Subscription Information
+
+</td></tr>
+<tr><td width="50%">
+
+Subscription Pending
+
+</td><td width="50%">
+
+Subscription Pending
+
+</td></tr>
+<tr><td width="50%">
+
+Sudan
+
+</td><td width="50%">
+
+Sudan
+
+</td></tr>
+<tr><td width="50%">
+
+Svalbard and Jan Mayen
+
+</td><td width="50%">
+
+Svalbard and Jan Mayen
+
+</td></tr>
+<tr><td width="50%">
+
+Sweden
+
+</td><td width="50%">
+
+Sweden
+
+</td></tr>
+<tr><td width="50%">
+
+Switzerland
+
+</td><td width="50%">
+
+Switzerland
+
+</td></tr>
+<tr><td width="50%">
+
+System
+
+</td><td width="50%">
+
+System
+
+</td></tr>
+<tr><td width="50%">
+
+Taiwan
+
+</td><td width="50%">
+
+Taiwan
+
+</td></tr>
+<tr><td width="50%">
+
+Taiwan, Province of China
+
+</td><td width="50%">
+
+Taiwan, Province of China
+
+</td></tr>
+<tr><td width="50%">
+
+Tajikistan
+
+</td><td width="50%">
+
+Tajikistan
+
+</td></tr>
+<tr><td width="50%">
+
+Tanzania
+
+</td><td width="50%">
+
+Tanzania
+
+</td></tr>
+<tr><td width="50%">
+
+Tanzania, United Republic of
+
+</td><td width="50%">
+
+Tanzania, United Republic of
+
+</td></tr>
+<tr><td width="50%">
+
+Thailand
+
+</td><td width="50%">
+
+Thailand
+
+</td></tr>
+<tr><td width="50%">
+
+Thanks for your continued support. We've attached a copy of your invoice for your records. Please let us know if you have any questions or concerns.
+
+</td><td width="50%">
+
+Thanks for your continued support. We've attached a copy of your invoice for your records. Please let us know if you have any questions or concerns.
+
+</td></tr>
+<tr><td width="50%">
+
+Thanks,
+
+</td><td width="50%">
+
+Thanks,
+
+</td></tr>
+<tr><td width="50%">
+
+The :attribute must contain at least one letter.
+
+</td><td width="50%">
+
+The :attribute must contain at least one letter.
+
+</td></tr>
+<tr><td width="50%">
+
+The :attribute must contain at least one number.
+
+</td><td width="50%">
+
+The :attribute must contain at least one number.
+
+</td></tr>
+<tr><td width="50%">
+
+The :attribute must contain at least one symbol.
+
+</td><td width="50%">
+
+The :attribute must contain at least one symbol.
+
+</td></tr>
+<tr><td width="50%">
+
+The :attribute must contain at least one uppercase and one lowercase letter.
+
+</td><td width="50%">
+
+The :attribute must contain at least one uppercase and one lowercase letter.
+
+</td></tr>
+<tr><td width="50%">
+
+The given :attribute has appeared in a data leak. Please choose a different :attribute.
+
+</td><td width="50%">
+
+The given :attribute has appeared in a data leak. Please choose a different :attribute.
+
+</td></tr>
+<tr><td width="50%">
+
+The password is incorrect.
+
+</td><td width="50%">
+
+The password is incorrect.
+
+</td></tr>
+<tr><td width="50%">
+
+The provided coupon code is invalid.
+
+</td><td width="50%">
+
+The provided coupon code is invalid.
+
+</td></tr>
+<tr><td width="50%">
+
+The provided VAT number is invalid.
+
+</td><td width="50%">
+
+The provided VAT number is invalid.
+
+</td></tr>
+<tr><td width="50%">
+
+The receipt emails must be valid email addresses.
+
+</td><td width="50%">
+
+The receipt emails must be valid email addresses.
+
+</td></tr>
+<tr><td width="50%">
+
+The resource was attached!
+
+</td><td width="50%">
+
+The resource was attached!
+
+</td></tr>
+<tr><td width="50%">
+
+The resource was prevented from being saved!
+
+</td><td width="50%">
+
+The resource was prevented from being saved!
+
+</td></tr>
+<tr><td width="50%">
+
+The selected country is invalid.
+
+</td><td width="50%">
+
+The selected country is invalid.
+
+</td></tr>
+<tr><td width="50%">
+
+The selected plan is invalid.
+
+</td><td width="50%">
+
+The selected plan is invalid.
+
+</td></tr>
+<tr><td width="50%">
+
+There are no fields to display.
+
+</td><td width="50%">
+
+There are no fields to display.
+
+</td></tr>
+<tr><td width="50%">
+
+There are no new notifications.
+
+</td><td width="50%">
+
+There are no new notifications.
+
+</td></tr>
+<tr><td width="50%">
+
+There is no active subscription.
+
+</td><td width="50%">
+
+There is no active subscription.
+
+</td></tr>
+<tr><td width="50%">
+
+There was a problem fetching the resource.
+
+</td><td width="50%">
+
+There was a problem fetching the resource.
+
+</td></tr>
+<tr><td width="50%">
+
+This account does not have an active subscription.
+
+</td><td width="50%">
+
+This account does not have an active subscription.
+
+</td></tr>
+<tr><td width="50%">
+
+This copy of Nova is unlicensed.
+
+</td><td width="50%">
+
+This copy of Nova is unlicensed.
+
+</td></tr>
+<tr><td width="50%">
+
+This coupon code can only be used by new customers.
+
+</td><td width="50%">
+
+This coupon code can only be used by new customers.
+
+</td></tr>
+<tr><td width="50%">
+
+This subscription cannot be resumed. Please create a new subscription.
+
+</td><td width="50%">
+
+This subscription cannot be resumed. Please create a new subscription.
+
+</td></tr>
+<tr><td width="50%">
+
+This subscription has expired and cannot be resumed. Please create a new subscription.
+
+</td><td width="50%">
+
+This subscription has expired and cannot be resumed. Please create a new subscription.
+
+</td></tr>
+<tr><td width="50%">
+
+To finish enabling two factor authentication, scan the following QR code using your phone's authenticator application or enter the setup key and provide the generated OTP code.
+
+</td><td width="50%">
+
+To finish enabling two factor authentication, scan the following QR code using your phone's authenticator application or enter the setup key and provide the generated OTP code.
+
+</td></tr>
+<tr><td width="50%">
+
+Togo
+
+</td><td width="50%">
+
+Togo
+
+</td></tr>
+<tr><td width="50%">
+
+Tokelau
+
+</td><td width="50%">
+
+Tokelau
+
+</td></tr>
+<tr><td width="50%">
+
+Total:
+
+</td><td width="50%">
+
+Total:
+
+</td></tr>
+<tr><td width="50%">
+
+Trinidad and Tobago
+
+</td><td width="50%">
+
+Trinidad and Tobago
+
+</td></tr>
+<tr><td width="50%">
+
+Tunisia
+
+</td><td width="50%">
+
+Tunisia
+
+</td></tr>
+<tr><td width="50%">
+
+Turks and Caicos Islands
+
+</td><td width="50%">
+
+Turks and Caicos Islands
+
+</td></tr>
+<tr><td width="50%">
+
+Tuvalu
+
+</td><td width="50%">
+
+Tuvalu
+
+</td></tr>
+<tr><td width="50%">
+
+Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application or enter the setup key.
+
+</td><td width="50%">
+
+Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application or enter the setup key.
+
+</td></tr>
+<tr><td width="50%">
+
+Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
+
+</td><td width="50%">
+
+Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
+
+</td></tr>
+<tr><td width="50%">
+
+Uganda
+
+</td><td width="50%">
+
+Uganda
+
+</td></tr>
+<tr><td width="50%">
+
+Ukraine
+
+</td><td width="50%">
+
+Ukraine
+
+</td></tr>
+<tr><td width="50%">
+
+United Kingdom
+
+</td><td width="50%">
+
+United Kingdom
+
+</td></tr>
+<tr><td width="50%">
+
+United States Minor Outlying Islands
+
+</td><td width="50%">
+
+United States Minor Outlying Islands
+
+</td></tr>
+<tr><td width="50%">
+
+Update Payment Information
+
+</td><td width="50%">
+
+Update Payment Information
+
+</td></tr>
+<tr><td width="50%">
+
+Update Payment Method
+
+</td><td width="50%">
+
+Update Payment Method
+
+</td></tr>
+<tr><td width="50%">
+
+Uruguay
+
+</td><td width="50%">
+
+Uruguay
+
+</td></tr>
+<tr><td width="50%">
+
+Uzbekistan
+
+</td><td width="50%">
+
+Uzbekistan
+
+</td></tr>
+<tr><td width="50%">
+
+VAT Number
+
+</td><td width="50%">
+
+VAT Number
+
+</td></tr>
+<tr><td width="50%">
+
+Venezuela
+
+</td><td width="50%">
+
+Venezuela
+
+</td></tr>
+<tr><td width="50%">
+
+Venezuela, Bolivarian Republic of
+
+</td><td width="50%">
+
+Venezuela, Bolivarian Republic of
+
+</td></tr>
+<tr><td width="50%">
+
+Verify Your Email Address
+
+</td><td width="50%">
+
+Verify Your Email Address
+
+</td></tr>
+<tr><td width="50%">
+
+View Receipt
+
+</td><td width="50%">
+
+View Receipt
+
+</td></tr>
+<tr><td width="50%">
+
+Wallis and Futuna
+
+</td><td width="50%">
+
+Wallis and Futuna
+
+</td></tr>
+<tr><td width="50%">
+
+We are processing your subscription. Once the subscription has successfully processed, this page will update automatically. Typically, this process should only take a few seconds.
+
+</td><td width="50%">
+
+We are processing your subscription. Once the subscription has successfully processed, this page will update automatically. Typically, this process should only take a few seconds.
+
+</td></tr>
+<tr><td width="50%">
+
+We are unable to process your payment. Please contact customer support.
+
+</td><td width="50%">
+
+We are unable to process your payment. Please contact customer support.
+
+</td></tr>
+<tr><td width="50%">
+
+We have emailed your password reset link!
+
+</td><td width="50%">
+
+We have emailed your password reset link!
+
+</td></tr>
+<tr><td width="50%">
+
+We will send a receipt download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
+
+</td><td width="50%">
+
+We will send a receipt download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
+
+</td></tr>
+<tr><td width="50%">
+
+Whoops
+
+</td><td width="50%">
+
+Whoops
+
+</td></tr>
+<tr><td width="50%">
+
+Yearly
+
+</td><td width="50%">
+
+Yearly
+
+</td></tr>
+<tr><td width="50%">
+
+You are already subscribed.
+
+</td><td width="50%">
+
+You are already subscribed.
+
+</td></tr>
+<tr><td width="50%">
+
+You are currently within your free trial period. Your trial will expire on :date.
+
+</td><td width="50%">
+
+You are currently within your free trial period. Your trial will expire on :date.
+
+</td></tr>
+<tr><td width="50%">
+
+You are logged in!
+
+</td><td width="50%">
+
+You are logged in!
+
+</td></tr>
+<tr><td width="50%">
+
+You may accept this invitation by clicking the button below:
+
+</td><td width="50%">
+
+You may accept this invitation by clicking the button below:
+
+</td></tr>
+<tr><td width="50%">
+
+You may cancel your subscription at any time. Once your subscription has been cancelled, you will have the option to resume the subscription until the end of your current billing cycle.
+
+</td><td width="50%">
+
+You may cancel your subscription at any time. Once your subscription has been cancelled, you will have the option to resume the subscription until the end of your current billing cycle.
+
+</td></tr>
+<tr><td width="50%">
+
+Your :invoiceName invoice is now available!
+
+</td><td width="50%">
+
+Your :invoiceName invoice is now available!
+
+</td></tr>
+<tr><td width="50%">
+
+Your card was declined. Please contact your card issuer for more information.
+
+</td><td width="50%">
+
+Your card was declined. Please contact your card issuer for more information.
+
+</td></tr>
+<tr><td width="50%">
+
+Your current payment method is :paypal.
+
+</td><td width="50%">
+
+Your current payment method is :paypal.
+
+</td></tr>
+<tr><td width="50%">
+
+Your current payment method is a credit card ending in :lastFour that expires on :expiration.
+
+</td><td width="50%">
+
+Your current payment method is a credit card ending in :lastFour that expires on :expiration.
+
+</td></tr>
+<tr><td width="50%">
+
+Your email address is unverified.
+
+</td><td width="50%">
+
+Your email address is unverified.
+
+</td></tr>
+<tr><td width="50%">
+
+Your registered VAT Number is :vatNumber.
+
+</td><td width="50%">
+
+Your registered VAT Number is :vatNumber.
+
+</td></tr>
+<tr><td width="50%">
+
+Zambia
+
+</td><td width="50%">
+
+Zambia
+
+</td></tr>
+<tr><td width="50%">
+
+Zimbabwe
+
+</td><td width="50%">
+
+Zimbabwe
+
+</td></tr>
+<tr><td width="50%">
+
+Zip / Postal Code
+
+</td><td width="50%">
+
+Zip / Postal Code
+
+</td></tr>
+<tr><td width="50%">
+
+Åland Islands
+
+</td><td width="50%">
+
+Åland Islands
+
+</td></tr>
 </table>
 
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php
+
+##### Missing: 12
+
+<table width="100%">
+<tr><td width="50%">
+
+declined
+
+</td><td width="50%">
+
+The :attribute must be declined.
+
+</td></tr>
+<tr><td width="50%">
+
+declined_if
+
+</td><td width="50%">
+
+The :attribute must be declined when :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+doesnt_start_with
+
+</td><td width="50%">
+
+The :attribute may not start with one of the following: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+enum
+
+</td><td width="50%">
+
+The selected :attribute is invalid.
+
+</td></tr>
+<tr><td width="50%">
+
+mac_address
+
+</td><td width="50%">
+
+The :attribute must be a valid MAC address.
+
+</td></tr>
+<tr><td width="50%">
+
+password.letters
+
+</td><td width="50%">
+
+The :attribute must contain at least one letter.
+
+</td></tr>
+<tr><td width="50%">
+
+password.mixed
+
+</td><td width="50%">
+
+The :attribute must contain at least one uppercase and one lowercase letter.
+
+</td></tr>
+<tr><td width="50%">
+
+password.numbers
+
+</td><td width="50%">
+
+The :attribute must contain at least one number.
+
+</td></tr>
+<tr><td width="50%">
+
+password.symbols
+
+</td><td width="50%">
+
+The :attribute must contain at least one symbol.
+
+</td></tr>
+<tr><td width="50%">
+
+password.uncompromised
+
+</td><td width="50%">
+
+The given :attribute has appeared in a data leak. Please choose a different :attribute.
+
+</td></tr>
+<tr><td width="50%">
+
+prohibits
+
+</td><td width="50%">
+
+The :attribute field prohibits :other from being present.
+
+</td></tr>
+<tr><td width="50%">
+
+required_array_keys
+
+</td><td width="50%">
+
+The :attribute field must contain entries for: :values.
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
 

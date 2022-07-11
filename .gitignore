@@ -2,6 +2,7 @@
 _site/
 build/
 node_modules/
+tmp/
 vendor/
 
 .cache
@@ -18,4 +19,3 @@ vendor/
 
 composer.lock
 package-lock.json
-

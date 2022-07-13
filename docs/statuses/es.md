@@ -4,7 +4,7 @@ editLink: false
 
 # es
 
-##### All missed: 8
+##### All missed: 7
 
 
 ### json
@@ -73,26 +73,6 @@ Two factor authentication is now enabled. Scan the following QR code using your 
 </td><td width="50%">
 
 Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php
-
-##### Missing: 1
-
-<table width="100%">
-<tr><td width="50%">
-
-doesnt_start_with
-
-</td><td width="50%">
-
-The :attribute may not start with one of the following: :values.
 
 </td></tr>
 </table>

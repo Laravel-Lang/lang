@@ -4,7 +4,7 @@ editLink: false
 
 # cs
 
-##### All missed: 196
+##### All missed: 195
 
 
 ### json-inline
@@ -146,7 +146,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 169
+##### Missing: 168
 
 <table width="100%">
 <tr><td width="50%">
@@ -678,15 +678,6 @@ Kiribati
 </td><td width="50%">
 
 Kiribati
-
-</td></tr>
-<tr><td width="50%">
-
-Korea
-
-</td><td width="50%">
-
-Korea
 
 </td></tr>
 <tr><td width="50%">

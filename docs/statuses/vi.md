@@ -4,7 +4,7 @@ editLink: false
 
 # vi
 
-##### All missed: 17
+##### All missed: 14
 
 
 ### json-inline
@@ -136,44 +136,6 @@ The given :attribute has appeared in a data leak. Please choose a different :att
 </td><td width="50%">
 
 The given field has appeared in a data leak. Please choose a different field.
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### json
-
-##### Missing: 3
-
-<table width="100%">
-<tr><td width="50%">
-
-Macedonia
-
-</td><td width="50%">
-
-Macedonia
-
-</td></tr>
-<tr><td width="50%">
-
-Saint Barthelemy
-
-</td><td width="50%">
-
-Saint Barthelemy
-
-</td></tr>
-<tr><td width="50%">
-
-Saint Martin
-
-</td><td width="50%">
-
-Saint Martin
 
 </td></tr>
 </table>

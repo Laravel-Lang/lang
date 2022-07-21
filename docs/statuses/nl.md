@@ -4,7 +4,7 @@ editLink: false
 
 # nl
 
-##### All missed: 36
+##### All missed: 35
 
 
 ### json-inline
@@ -146,7 +146,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 16
+##### Missing: 15
 
 <table width="100%">
 <tr><td width="50%">
@@ -183,15 +183,6 @@ Iran, Islamic Republic Of
 </td><td width="50%">
 
 Iran
-
-</td></tr>
-<tr><td width="50%">
-
-Korea
-
-</td><td width="50%">
-
-Korea
 
 </td></tr>
 <tr><td width="50%">

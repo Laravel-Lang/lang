@@ -4,7 +4,7 @@ editLink: false
 
 # fi
 
-##### All missed: 82
+##### All missed: 81
 
 
 ### json-inline
@@ -146,7 +146,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 54
+##### Missing: 53
 
 <table width="100%">
 <tr><td width="50%">
@@ -345,15 +345,6 @@ Impersonate
 </td><td width="50%">
 
 Impersonate
-
-</td></tr>
-<tr><td width="50%">
-
-Korea
-
-</td><td width="50%">
-
-Korea
 
 </td></tr>
 <tr><td width="50%">

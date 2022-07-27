@@ -12,5 +12,5 @@
     "The :attribute must contain at least one number.": "Dit veld moet minimaal één cijfer bevatten.",
     "The :attribute must contain at least one symbol.": "Dit veld moet minimaal één symbool bevatten.",
     "The :attribute must contain at least one uppercase and one lowercase letter.": "Dit veld moet minimaal één hoofdletter en één kleine letter bevatten.",
-    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Dit veld is aangetroffen in een datalek. Geef een ander :attribute."
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Dit veld is aangetroffen in een datalek. Geef een andere waarde op."
 }

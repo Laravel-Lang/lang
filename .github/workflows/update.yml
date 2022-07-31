@@ -56,7 +56,7 @@ jobs:
 
                     vendor/bin/lang status
 
-                    { git add . && git commit -a -m "Updated status of translations 📃"; } || IS_DIRTY=0
+                    { git add . && git commit -a -m "📃 Updated status of translations"; } || IS_DIRTY=0
 
                     echo ::set-output name=is_dirty::${IS_DIRTY}
 

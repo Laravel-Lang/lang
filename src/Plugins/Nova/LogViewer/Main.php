@@ -10,7 +10,7 @@ class Main extends Plugin
 {
     protected ?string $vendor = 'laravel/nova-log-viewer';
 
-    protected string $version = '^0.1.0';
+    protected string $version = 'dev-main || ^0.1.0';
 
     public function files(): array
     {

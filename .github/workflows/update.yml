@@ -44,7 +44,7 @@ jobs:
 
                     vendor/bin/lang sync
 
-                    { git add . && git commit -a -m "Updated keys 🔑"; } || IS_DIRTY=0
+                    { git add . && git commit -a -m "🔑 Updated keys"; } || IS_DIRTY=0
 
                     echo ::set-output name=is_dirty::${IS_DIRTY}
 

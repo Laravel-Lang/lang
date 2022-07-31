@@ -52,7 +52,7 @@ jobs:
 
                     codestyle fix
 
-                    { git add . && git commit -a -m "Updated Laravel Framework files"; } || IS_DIRTY=0
+                    { git add . && git commit -a -m "🗝️ Updated Laravel Framework keys"; } || IS_DIRTY=0
 
                     echo ::set-output name=is_dirty::${IS_DIRTY}
 
@@ -69,7 +69,7 @@ jobs:
 
                     codestyle fix
 
-                    { git add . && git commit -a -m "Updated Lumen Framework files"; } || IS_DIRTY=0
+                    { git add . && git commit -a -m "🗝️ Updated Lumen Framework keys"; } || IS_DIRTY=0
 
                     echo ::set-output name=is_dirty::${IS_DIRTY}
 
@@ -85,7 +85,7 @@ jobs:
 
                     codestyle fix
 
-                    { git add . && git commit -a -m "Updating Laravel Jetstream files"; } || IS_DIRTY=0
+                    { git add . && git commit -a -m "🗝️ Updated Laravel Jetstream keys"; } || IS_DIRTY=0
 
                     echo ::set-output name=is_dirty::${IS_DIRTY}
 
@@ -99,7 +99,7 @@ jobs:
 
                     codestyle fix
 
-                    { git add . && git commit -a -m "Updating Laravel Breeze files"; } || IS_DIRTY=0
+                    { git add . && git commit -a -m "🗝️ Updated Laravel Breeze keys"; } || IS_DIRTY=0
 
                     echo ::set-output name=is_dirty::${IS_DIRTY}
 
@@ -113,7 +113,7 @@ jobs:
 
                     codestyle fix
 
-                    { git add . && git commit -a -m "Updating Laravel Cashier-Paddle files"; } || IS_DIRTY=0
+                    { git add . && git commit -a -m "🗝️ Updated Laravel Cashier-Paddle keys"; } || IS_DIRTY=0
 
                     echo ::set-output name=is_dirty::${IS_DIRTY}
 
@@ -128,7 +128,7 @@ jobs:
 
                     codestyle fix
 
-                    { git add . && git commit -a -m "Updating Laravel Cashier-Stripe files"; } || IS_DIRTY=0
+                    { git add . && git commit -a -m "🗝️ Updated Laravel Cashier-Stripe keys"; } || IS_DIRTY=0
 
                     echo ::set-output name=is_dirty::${IS_DIRTY}
 
@@ -142,7 +142,7 @@ jobs:
 
                     codestyle fix
 
-                    { git add . && git commit -a -m "Updating Laravel Fortify files"; } || IS_DIRTY=0
+                    { git add . && git commit -a -m "🗝️ Updated Laravel Fortify keys"; } || IS_DIRTY=0
 
                     echo ::set-output name=is_dirty::${IS_DIRTY}
 
@@ -158,7 +158,21 @@ jobs:
 
                     codestyle fix
 
-                    { git add . && git commit -a -m "Updating Laravel UI files"; } || IS_DIRTY=0
+                    { git add . && git commit -a -m "🗝️ Updated Laravel UI keys"; } || IS_DIRTY=0
+
+                    echo ::set-output name=is_dirty::${IS_DIRTY}
+
+            -   name: Download Nova Log Viewer
+                id: download_nova_log_viewer
+                if: success()
+                run: |
+                    IS_DIRTY=1
+
+                    vendor/bin/lang download --url=https://github.com/laravel/nova-log-viewer/archive/refs/heads/main.zip --project=nova/log-viewer --ver=main
+
+                    codestyle fix
+
+                    { git add . && git commit -a -m "🗝️ Updated Laravel Nova Log Viewer keys"; } || IS_DIRTY=0
 
                     echo ::set-output name=is_dirty::${IS_DIRTY}
 
@@ -172,7 +186,8 @@ jobs:
                     steps.download_cashier_paddle.outputs.is_dirty == 1 ||
                     steps.download_cashier_stripe.outputs.is_dirty == 1 ||
                     steps.download_fortify.outputs.is_dirty == 1 ||
-                    steps.download_ui.outputs.is_dirty == 1
+                    steps.download_ui.outputs.is_dirty == 1 ||
+                    steps.download_nova_log_viewer.outputs.is_dirty == 1
                     )
                 with:
                     github_token: ${{ secrets.COMPOSER_TOKEN }}

@@ -4,7 +4,7 @@ editLink: false
 
 # pt
 
-##### All missed: 140
+##### All missed: 148
 
 
 ### json-inline
@@ -146,7 +146,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 120
+##### Missing: 128
 
 <table width="100%">
 <tr><td width="50%">
@@ -412,11 +412,29 @@ Log In
 </td></tr>
 <tr><td width="50%">
 
+Log Viewer
+
+</td><td width="50%">
+
+Log Viewer
+
+</td></tr>
+<tr><td width="50%">
+
 Logout Other Browser Sessions
 
 </td><td width="50%">
 
 Logout Other Browser Sessions
+
+</td></tr>
+<tr><td width="50%">
+
+Logs
+
+</td><td width="50%">
+
+Logs
 
 </td></tr>
 <tr><td width="50%">
@@ -570,6 +588,15 @@ Receipt Email Addresses
 </td><td width="50%">
 
 Receipt Email Addresses
+
+</td></tr>
+<tr><td width="50%">
+
+Refresh
+
+</td><td width="50%">
+
+Refresh
 
 </td></tr>
 <tr><td width="50%">
@@ -691,6 +718,24 @@ Sao Tome and Principe
 </td></tr>
 <tr><td width="50%">
 
+Scroll to bottom
+
+</td><td width="50%">
+
+Scroll to bottom
+
+</td></tr>
+<tr><td width="50%">
+
+Scroll to top
+
+</td><td width="50%">
+
+Scroll to top
+
+</td></tr>
+<tr><td width="50%">
+
 Select
 
 </td><td width="50%">
@@ -705,6 +750,15 @@ Select a different plan
 </td><td width="50%">
 
 Select a different plan
+
+</td></tr>
+<tr><td width="50%">
+
+Select a log file...
+
+</td><td width="50%">
+
+Select a log file...
 
 </td></tr>
 <tr><td width="50%">
@@ -754,6 +808,15 @@ Standalone Actions
 </td></tr>
 <tr><td width="50%">
 
+Start polling
+
+</td><td width="50%">
+
+Start polling
+
+</td></tr>
+<tr><td width="50%">
+
 State / County
 
 </td><td width="50%">
@@ -768,6 +831,15 @@ Stop Impersonating
 </td><td width="50%">
 
 Stop Impersonating
+
+</td></tr>
+<tr><td width="50%">
+
+Stop polling
+
+</td><td width="50%">
+
+Stop polling
 
 </td></tr>
 <tr><td width="50%">

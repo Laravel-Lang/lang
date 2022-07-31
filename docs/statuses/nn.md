@@ -4,7 +4,7 @@ editLink: false
 
 # nn
 
-##### All missed: 744
+##### All missed: 752
 
 
 ### json-inline
@@ -146,7 +146,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 708
+##### Missing: 716
 
 <table width="100%">
 <tr><td width="50%">
@@ -3058,11 +3058,29 @@ Log Out Other Browser Sessions
 </td></tr>
 <tr><td width="50%">
 
+Log Viewer
+
+</td><td width="50%">
+
+Log Viewer
+
+</td></tr>
+<tr><td width="50%">
+
 Logout Other Browser Sessions
 
 </td><td width="50%">
 
 Logout Other Browser Sessions
+
+</td></tr>
+<tr><td width="50%">
+
+Logs
+
+</td><td width="50%">
+
+Logs
 
 </td></tr>
 <tr><td width="50%">
@@ -4201,6 +4219,15 @@ Recovery Code
 </td></tr>
 <tr><td width="50%">
 
+Refresh
+
+</td><td width="50%">
+
+Refresh
+
+</td></tr>
+<tr><td width="50%">
+
 Regenerate Recovery Codes
 
 </td><td width="50%">
@@ -4588,6 +4615,24 @@ Saved.
 </td></tr>
 <tr><td width="50%">
 
+Scroll to bottom
+
+</td><td width="50%">
+
+Scroll to bottom
+
+</td></tr>
+<tr><td width="50%">
+
+Scroll to top
+
+</td><td width="50%">
+
+Scroll to top
+
+</td></tr>
+<tr><td width="50%">
+
 Search
 
 </td><td width="50%">
@@ -4611,6 +4656,15 @@ Select a different plan
 </td><td width="50%">
 
 Select a different plan
+
+</td></tr>
+<tr><td width="50%">
+
+Select a log file...
+
+</td><td width="50%">
+
+Select a log file...
 
 </td></tr>
 <tr><td width="50%">
@@ -4903,6 +4957,15 @@ Start Polling
 </td></tr>
 <tr><td width="50%">
 
+Start polling
+
+</td><td width="50%">
+
+Start polling
+
+</td></tr>
+<tr><td width="50%">
+
 State / County
 
 </td><td width="50%">
@@ -4926,6 +4989,15 @@ Stop Polling
 </td><td width="50%">
 
 Stop Polling
+
+</td></tr>
+<tr><td width="50%">
+
+Stop polling
+
+</td><td width="50%">
+
+Stop polling
 
 </td></tr>
 <tr><td width="50%">

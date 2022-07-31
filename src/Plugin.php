@@ -29,6 +29,7 @@ class Plugin extends Provider
         Plugins\Lumen\V7::class,
         Plugins\Lumen\V8::class,
         Plugins\Lumen\V9::class,
+        Plugins\Nova\LogViewer\Main::class,
         Plugins\Nova\V3::class,
         Plugins\Nova\V4::class,
         Plugins\Spark\Paddle::class,

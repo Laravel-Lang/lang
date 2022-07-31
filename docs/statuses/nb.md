@@ -4,7 +4,7 @@ editLink: false
 
 # nb
 
-##### All missed: 35
+##### All missed: 43
 
 
 ### json-inline
@@ -146,7 +146,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 15
+##### Missing: 23
 
 <table width="100%">
 <tr><td width="50%">
@@ -205,11 +205,29 @@ South Korea
 </td></tr>
 <tr><td width="50%">
 
+Log Viewer
+
+</td><td width="50%">
+
+Log Viewer
+
+</td></tr>
+<tr><td width="50%">
+
 Logout Other Browser Sessions
 
 </td><td width="50%">
 
 Logout Other Browser Sessions
+
+</td></tr>
+<tr><td width="50%">
+
+Logs
+
+</td><td width="50%">
+
+Logs
 
 </td></tr>
 <tr><td width="50%">
@@ -264,6 +282,42 @@ Please provide the email address of the person you would like to add to this tea
 </td><td width="50%">
 
 Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+
+</td></tr>
+<tr><td width="50%">
+
+Refresh
+
+</td><td width="50%">
+
+Refresh
+
+</td></tr>
+<tr><td width="50%">
+
+Scroll to bottom
+
+</td><td width="50%">
+
+Scroll to bottom
+
+</td></tr>
+<tr><td width="50%">
+
+Scroll to top
+
+</td><td width="50%">
+
+Scroll to top
+
+</td></tr>
+<tr><td width="50%">
+
+Select a log file...
+
+</td><td width="50%">
+
+Select a log file...
 
 </td></tr>
 <tr><td width="50%">
@@ -273,6 +327,24 @@ Sint Maarten (Dutch part)
 </td><td width="50%">
 
 Sint Maarten
+
+</td></tr>
+<tr><td width="50%">
+
+Start polling
+
+</td><td width="50%">
+
+Start polling
+
+</td></tr>
+<tr><td width="50%">
+
+Stop polling
+
+</td><td width="50%">
+
+Stop polling
 
 </td></tr>
 <tr><td width="50%">

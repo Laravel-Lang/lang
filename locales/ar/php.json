@@ -78,7 +78,7 @@
     "numeric": "يجب على حقل :attribute أن يكون رقمًا.",
     "password": "كلمة المرور غير صحيحة.",
     "password.letters": "يجب أن يحتوي حقل :attribute على حرف واحد على الأقل.",
-    "password.mixed": "يجب أن يحتوي حقل :attribute على الأقل على حرف كبير وحرف صغير.",
+    "password.mixed": "يجب أن يحتوي حقل :attribute على حرف كبير وحرف صغير على الأقل.",
     "password.numbers": "يجب أن يحتوي حقل :attribute على رقمٍ واحدٍ على الأقل.",
     "password.symbols": "يجب أن يحتوي حقل :attribute على رمزٍ واحدٍ على الأقل.",
     "password.uncompromised": "حقل :attribute ظهر في بيانات مُسربة. الرجاء اختيار :attribute مختلف.",

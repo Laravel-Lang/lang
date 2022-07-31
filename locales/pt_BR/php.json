@@ -81,7 +81,7 @@
     "password.mixed": "O :attribute deve conter pelo menos uma letra maiúscula e uma minúscula.",
     "password.numbers": "O :attribute deve conter pelo menos um número.",
     "password.symbols": "O :attribute deve conter pelo menos um símbolo.",
-    "password.uncompromised": "The given :attribute has appeared in a data leak. Please choose a different :attribute.",
+    "password.uncompromised": "O dado :attribute apareceu em um vazamento de dados. Por favor, escolha um :attribute diferente.",
     "present": "O campo :attribute deve estar presente.",
     "previous": "&laquo; Anterior",
     "prohibited": "O campo :attribute é proibido.",

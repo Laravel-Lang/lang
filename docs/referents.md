@@ -102,6 +102,15 @@ it
 </td></tr>
 <tr><td width="50%">
 
+ja
+
+</td><td width="50%">
+
+@wadakatu
+
+</td></tr>
+<tr><td width="50%">
+
 mk
 
 </td><td width="50%">

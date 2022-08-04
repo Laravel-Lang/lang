@@ -27,6 +27,7 @@
     "digits_between": "See peab olema vahemikus :min kuni :max numbrit.",
     "dimensions": "Sellel pildil on kehtetud mõõtmed.",
     "distinct": "Sellel väljal on duplikaadi väärtus.",
+    "doesnt_end_with": "This field may not end with one of the following: :values.",
     "doesnt_start_with": "This field may not start with one of the following: :values.",
     "email": "See peab olema kehtiv e-posti aadress.",
     "ends_with": "See peab lõppema ühega järgmistest: :values.",

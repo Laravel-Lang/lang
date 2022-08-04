@@ -28,6 +28,7 @@
     "digits_between": ":Attribute skal have mellem :min og :max cifre.",
     "dimensions": ":Attribute har forkerte billeddimensioner.",
     "distinct": ":Attribute har en duplikatværdi.",
+    "doesnt_end_with": "The :attribute may not end with one of the following: :values.",
     "doesnt_start_with": "The :attribute may not start with one of the following: :values.",
     "email": ":Attribute skal være en gyldig e-mailadresse.",
     "ends_with": ":Attribute skal ende med et af følgende: :values.",

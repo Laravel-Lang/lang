@@ -27,6 +27,7 @@
     "digits_between": "This must be between :min and :max digits.",
     "dimensions": "This image has invalid dimensions.",
     "distinct": "This field has a duplicate value.",
+    "doesnt_end_with": "This field may not end with one of the following: :values.",
     "doesnt_start_with": "This field may not start with one of the following: :values.",
     "email": "This must be a valid email address.",
     "ends_with": "This must end with one of the following: :values.",

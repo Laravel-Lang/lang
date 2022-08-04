@@ -27,6 +27,7 @@
     "digits_between": "Độ dài của trường này phải nằm trong khoảng :min - :max chữ số.",
     "dimensions": "Trường này có kích thước không hợp lệ.",
     "distinct": "Trường này có giá trị trùng lặp.",
+    "doesnt_end_with": "This field may not end with one of the following: :values.",
     "doesnt_start_with": "Trường này có thể không bắt đầu bằng một trong những điều sau: :values.",
     "email": "Trường này phải là một địa chỉ email hợp lệ.",
     "ends_with": "Trường này phải kết thúc bằng một trong những giá trị sau: :values",

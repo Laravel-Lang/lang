@@ -28,6 +28,7 @@
     "digits_between": "Полето :attribute трябва да има между :min и :max цифри.",
     "dimensions": "Невалидни размери за снимка :attribute.",
     "distinct": "Данните в полето :attribute се дублират.",
+    "doesnt_end_with": "The :attribute may not end with one of the following: :values.",
     "doesnt_start_with": "The :attribute may not start with one of the following: :values.",
     "email": "Полето :attribute е в невалиден формат.",
     "ends_with": ":Attribute трябва да завършва с една от следните стойности: :values.",

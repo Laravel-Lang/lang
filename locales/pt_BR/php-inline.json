@@ -27,6 +27,7 @@
     "digits_between": "Este valor deve estar entre :min ou :max dígitos.",
     "dimensions": "Esta imagem tem dimensões inválidas.",
     "distinct": "Este campo tem um valor duplicado.",
+    "doesnt_end_with": "This field may not end with one of the following: :values.",
     "doesnt_start_with": "This field may not start with one of the following: :values.",
     "email": "Este deve ser um endereço de e-mail válido.",
     "ends_with": "Isso deve terminar com um dos seguintes valores :values.",

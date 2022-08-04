@@ -27,6 +27,7 @@
     "digits_between": "Он бояд байни :min ва :max рақам.",
     "dimensions": "Ин тасвир, ки дорои недопустимые андозаи.",
     "distinct": "Дар ин соҳа дорад, ки бд, аҳамияти.",
+    "doesnt_end_with": "This field may not end with one of the following: :values.",
     "doesnt_start_with": "This field may not start with one of the following: :values.",
     "email": "Ин бояд воқеии суроғаи почтаи электронӣ.",
     "ends_with": "Ин бояд заканчиваться яке аз нуқтаҳои зерин: :values.",

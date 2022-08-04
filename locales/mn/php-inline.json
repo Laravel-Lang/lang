@@ -27,6 +27,7 @@
     "digits_between": "Энэ хооронд байх естой :min, :max тоо.",
     "dimensions": "Энэ зураг нь хүчин төгөлдөр бус хэмжээ байна.",
     "distinct": "Энэ талбар нь давхардсан утгыг байна.",
+    "doesnt_end_with": "This field may not end with one of the following: :values.",
     "doesnt_start_with": "This field may not start with one of the following: :values.",
     "email": "Энэ и-мэйл хаяг нь зөв байх естой.",
     "ends_with": "Энэ нь дараах аль нэгийг нь дуусгах естой: :values.",

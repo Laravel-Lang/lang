@@ -27,6 +27,7 @@
     "digits_between": "Kjo duhet të ketë midis :min dhe :max shifra.",
     "dimensions": "Kjo ka dimensione të gabuara.",
     "distinct": "Kjo ka një vlerë të përsëritur.",
+    "doesnt_end_with": "This field may not end with one of the following: :values.",
     "doesnt_start_with": "This field may not start with one of the following: :values.",
     "email": "Kjo duhet të jetë email adresë e saktë.",
     "ends_with": "Kjo duhet të përfundojë me një nga vlerat: :values.",

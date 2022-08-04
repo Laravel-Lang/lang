@@ -27,6 +27,7 @@
     "digits_between": "Гэта павінна быць паміж :min і :max лічбамі.",
     "dimensions": "Гэта выява мае недапушчальныя памеры.",
     "distinct": "Гэта поле мае паўтаральнае значэнне.",
+    "doesnt_end_with": "This field may not end with one of the following: :values.",
     "doesnt_start_with": "This field may not start with one of the following: :values.",
     "email": "Гэта павінен быць сапраўдны адрас электроннай пошты.",
     "ends_with": "Гэта павінна заканчвацца адным з наступных пунктаў: :values.",

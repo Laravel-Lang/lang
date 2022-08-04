@@ -27,6 +27,7 @@
     "digits_between": "Rhaid i hyn fod rhwng :min a :max digid.",
     "dimensions": "Mae'r ddelwedd hon wedi annilys dimensiynau.",
     "distinct": "Y maes hwn wedi dyblyg gwerth.",
+    "doesnt_end_with": "This field may not end with one of the following: :values.",
     "doesnt_start_with": "This field may not start with one of the following: :values.",
     "email": "Rhaid i hyn fod yn gyfeiriad e-bost dilys.",
     "ends_with": "Mae'n rhaid i hyn i ben gydag un o'r canlynol: :values.",

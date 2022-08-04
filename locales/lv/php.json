@@ -28,6 +28,7 @@
     "digits_between": ":Attribute garumam ir jābūt starp :min un :max cipariem.",
     "dimensions": ":Attribute ir nederīgs attēla izmērs.",
     "distinct": ":Attribute laukam ir dublikāts.",
+    "doesnt_end_with": "The :attribute may not end with one of the following: :values.",
     "doesnt_start_with": "The :attribute may not start with one of the following: :values.",
     "email": ":Attribute ir jābūt derīgai e-pasta adresei.",
     "ends_with": ":Attribute jābeidzas ar vienu no šiem: :values.",

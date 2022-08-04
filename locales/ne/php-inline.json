@@ -27,6 +27,7 @@
     "digits_between": "यो :min र :max को बिचमा हुनुपर्दछ।",
     "dimensions": "यस छविसँग अवैध आयामहरू छन्।",
     "distinct": "यस फिल्डको नक्कल मान छ।",
+    "doesnt_end_with": "This field may not end with one of the following: :values.",
     "doesnt_start_with": "This field may not start with one of the following: :values.",
     "email": "यो मान्य ईमेल ठेगाना हुनुपर्दछ।",
     "ends_with": "यो निम्न मध्ये एक संग समाप्त हुनुपर्दछ :values।",

@@ -28,6 +28,7 @@
     "digits_between": "Ang :attribute ay dapat na nasa pagitan ng :min at :max (na) digit.",
     "dimensions": "May mga hindi valid na dimensyon ng larawan ang :attribute.",
     "distinct": "May duplicate na value ang field na :attribute.",
+    "doesnt_end_with": "The :attribute may not end with one of the following: :values.",
     "doesnt_start_with": "The :attribute may not start with one of the following: :values.",
     "email": "Dapat na valid na email address ang :attribute.",
     "ends_with": "The :attribute must end with one of the following: :values.",

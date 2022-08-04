@@ -28,6 +28,7 @@
     "digits_between": "ಈ  :attribute ನಲ್ಲಿ  :min ಮತ್ತು :max ಸಂಖ್ಯೆಗಳ ನಡುವೆ ಇರಬೇಕು .",
     "dimensions": "ಈ  :attribute ಅಮಾನ್ಯವಾದ ಚಿತ್ರ ಆಯಾಮಗಳನ್ನು ಹೊಂದಿದೆ.",
     "distinct": "ಈ  :attribute ಕ್ಷೇತ್ರವು ನಕಲಿ ಮೌಲ್ಯವನ್ನು ಹೊಂದಿದೆ.",
+    "doesnt_end_with": "The :attribute may not end with one of the following: :values.",
     "doesnt_start_with": "The :attribute may not start with one of the following: :values.",
     "email": "ಈ  :attribute ಮಾನ್ಯವಾದ ಇಮೇಲ್ ವಿಳಾಸವಾಗಿರಬೇಕು.",
     "ends_with": "The :attribute must end with one of the following: :values.",

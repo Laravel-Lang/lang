@@ -28,6 +28,7 @@
     "digits_between": ":Attribute વચ્ચે હોવું જોઈએ :min અને :max અંક.",
     "dimensions": ":Attribute છબીનું પરિમાણ અમાન્ય છે.",
     "distinct": ":Attribute પ્રવૃત્તિ ક્ષેત્રનું નકલી મૂલ્ય છે.",
+    "doesnt_end_with": "The :attribute may not end with one of the following: :values.",
     "doesnt_start_with": "The :attribute may not start with one of the following: :values.",
     "email": ":Attribute માન્ય ઈમેઈલ એડ્રેસ હોવું જોઈએ.",
     "ends_with": ":Attribute નીચેમાંથી એક પ્રમાણે પૂરું થતું હોવું જોઈએ :values.",

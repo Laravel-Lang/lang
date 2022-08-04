@@ -28,6 +28,7 @@
     "digits_between": ":Attribute узунлиги :min ва :max орасида бўлиши керак.",
     "dimensions": ":Attribute нотўғри тасвир ўлчамларга эга.",
     "distinct": ":Attribute майдони такрорланувчи қийматлардан иборат.",
+    "doesnt_end_with": "The :attribute may not end with one of the following: :values.",
     "doesnt_start_with": "The :attribute may not start with one of the following: :values.",
     "email": ":Attribute ҳақиқий электрон почта манзили бўлиши керак.",
     "ends_with": ":Attribute қуйидаги қийматларнинг бири билан тугаши керак: :values.",

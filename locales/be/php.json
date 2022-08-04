@@ -28,6 +28,7 @@
     "digits_between": "Даўжыня лічбавага поля :attribute павінна быць паміж :min і :max.",
     "dimensions": ":Attribute мае недапушчальныя памеры малюнка.",
     "distinct": "Поле :attribute мае паўтаральнае значэнне.",
+    "doesnt_end_with": "The :attribute may not end with one of the following: :values.",
     "doesnt_start_with": "The :attribute may not start with one of the following: :values.",
     "email": "Поле :attribute павінна быць сапраўдным электронным адрасам.",
     "ends_with": ":Attribute павінен заканчвацца адным з наступных: :values.",

@@ -28,6 +28,7 @@
     "digits_between": "شمیرې او متره :attribute ما بين:min و :max شمېر / شمېرې .",
     "dimensions": "د :attribute د ناباوره انځور اړخونه لري.",
     "distinct": "د ساحې څخه :attribute د نقل ارزښت .",
+    "doesnt_end_with": "The :attribute may not end with one of the following: :values.",
     "doesnt_start_with": "The :attribute may not start with one of the following: :values.",
     "email": "دا باید وي :attribute یو باوري بریښلیک پته جوړښت.",
     "ends_with": "The :attribute must end with one of the following: :values.",

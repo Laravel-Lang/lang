@@ -28,6 +28,7 @@
     "digits_between": ":Attribute ត្រូវចាប់ពីខ្ទង់ :min ទៅ :max។",
     "dimensions": "ទំហំរូបភាព​ :attribute មិនត្រឹមត្រូវ។",
     "distinct": ":Attribute មានតម្លៃស្ទួន។",
+    "doesnt_end_with": "The :attribute may not end with one of the following: :values.",
     "doesnt_start_with": "The :attribute may not start with one of the following: :values.",
     "email": ":Attribute ទម្រង់នេះមិនត្រឹមត្រូវ។",
     "ends_with": ":Attribute ត្រូវបញ្ចប់ដោយពាក្យមួយក្នុងចំណោម :values។",

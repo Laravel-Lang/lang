@@ -28,6 +28,7 @@
     "digits_between": ":Attributeは、:min桁から:max桁にしてください。",
     "dimensions": ":Attributeの画像サイズが無効です",
     "distinct": ":Attributeの値が重複しています。",
+    "doesnt_end_with": "The :attribute may not end with one of the following: :values.",
     "doesnt_start_with": ":Attributeは次のうちいずれかで始まってはいけません。: :values",
     "email": ":Attributeは、有効なメールアドレス形式で指定してください。",
     "ends_with": ":Attributeは、次のうちのいずれかで終わらなければなりません。: :values",

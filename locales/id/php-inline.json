@@ -27,6 +27,7 @@
     "digits_between": "Isian ini harus di antara :min dan :max digit.",
     "dimensions": "Gambar ini tidak memiliki dimensi yang benar.",
     "distinct": "Isian ini memiliki nilai duplikat.",
+    "doesnt_end_with": "This field may not end with one of the following: :values.",
     "doesnt_start_with": "This field may not start with one of the following: :values.",
     "email": "Isian ini harus berisi format email yang benar.",
     "ends_with": "Isian ini harus berakhiran dengan: :values.",

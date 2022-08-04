@@ -28,6 +28,7 @@
     "digits_between": ":Attribute-(e)k :min eta :max arteko digitu kopurua eduki behar du.",
     "dimensions": ":Attribute irudiaren neurriak baliogabeak dira.",
     "distinct": ":Attribute-(e)k bikoiztutako balioa dauka.",
+    "doesnt_end_with": "The :attribute may not end with one of the following: :values.",
     "doesnt_start_with": "The :attribute may not start with one of the following: :values.",
     "email": ":Attribute baliozko helbide elektronikoa izan behar da.",
     "ends_with": ":Attribute-(e)k ondorengo balioetako batekin amaitu behar du: :values",

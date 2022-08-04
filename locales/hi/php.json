@@ -28,6 +28,7 @@
     "digits_between": ":Attribute, :min और :max अंकों के बीच होना चाहिए।",
     "dimensions": ":Attribute का अमान्य चित्त माप है।",
     "distinct": ":Attribute फील्ड का एक डुप्लिकेट मान होता है।",
+    "doesnt_end_with": "The :attribute may not end with one of the following: :values.",
     "doesnt_start_with": "The :attribute may not start with one of the following: :values.",
     "email": ":Attribute एक मान्य ईमेल पता होना चाहिए।",
     "ends_with": ":Attribute को निम्नलिखित में से एक के साथ समाप्त होना चाहिए: :values ।",

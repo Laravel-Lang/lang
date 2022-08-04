@@ -27,6 +27,7 @@
     "digits_between": "Musí to byť medzi číslicami :min a :max.",
     "dimensions": "Tento obrázok má neplatné rozmery.",
     "distinct": "Toto pole má duplicitnú hodnotu.",
+    "doesnt_end_with": "This field may not end with one of the following: :values.",
     "doesnt_start_with": "This field may not start with one of the following: :values.",
     "email": "Musí to byť platná e-mailová adresa.",
     "ends_with": "Toto musí skončiť jedným z nasledujúcich krokov: :values.",

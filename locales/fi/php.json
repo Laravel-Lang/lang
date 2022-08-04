@@ -28,6 +28,7 @@
     "digits_between": "Kentän :attribute arvon tulee olla :min - :max numeroa.",
     "dimensions": "Kentän :attribute kuvalla on virheelliset mitat.",
     "distinct": "Kentän :attribute arvo ei ole uniikki.",
+    "doesnt_end_with": "The :attribute may not end with one of the following: :values.",
     "doesnt_start_with": "The :attribute may not start with one of the following: :values.",
     "email": "Kentän :attribute arvo ei ole validi sähköpostiosoite.",
     "ends_with": ":Attribute: n on päätyttävä jompaankumpaan seuraavista: :values.",

@@ -27,6 +27,7 @@
     "digits_between": "Tam jābūt starp :min un :max cipariem.",
     "dimensions": "Šim attēlam ir nederīgi izmēri.",
     "distinct": "Šim laukam ir dublikāta vērtība.",
+    "doesnt_end_with": "This field may not end with one of the following: :values.",
     "doesnt_start_with": "This field may not start with one of the following: :values.",
     "email": "Tam jābūt derīgai e-pasta adresei.",
     "ends_with": "Tam jābeidzas ar vienu no šiem: :values.",

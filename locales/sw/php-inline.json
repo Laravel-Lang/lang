@@ -27,6 +27,7 @@
     "digits_between": "Hii ni lazima kuwa kati ya :min na :max tarakimu.",
     "dimensions": "Picha hii ina vipimo batili.",
     "distinct": "Uwanja huu ina duplicate thamani.",
+    "doesnt_end_with": "This field may not end with one of the following: :values.",
     "doesnt_start_with": "This field may not start with one of the following: :values.",
     "email": "Hii ni lazima kuwa na anwani ya barua pepe halali.",
     "ends_with": "Hii lazima mwisho na moja ya yafuatayo: :values.",

@@ -28,6 +28,7 @@
     "digits_between": "שדה :attribute חייב להיות בין :min ו-:max ספרות.",
     "dimensions": "שדה :attribute מימדי התמונה לא תקינים",
     "distinct": "שדה :attribute קיים ערך כפול.",
+    "doesnt_end_with": "The :attribute may not end with one of the following: :values.",
     "doesnt_start_with": "The :attribute may not start with one of the following: :values.",
     "email": "שדה :attribute חייב להיות כתובת אימייל תקנית.",
     "ends_with": "שדה :attribute חייב להסתיים באחד מהבאים: :values",

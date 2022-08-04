@@ -27,6 +27,7 @@
     "digits_between": "Број цифара мора бити између :min и :max.",
     "dimensions": "Слика је изван дозвољених димензија.",
     "distinct": "Ово поље има дуплирану вредност.",
+    "doesnt_end_with": "This field may not end with one of the following: :values.",
     "doesnt_start_with": "This field may not start with one of the following: :values.",
     "email": "Емаил мора да буде валидан.",
     "ends_with": "Поље мора да се заврши са нечим од следећег: :values.",

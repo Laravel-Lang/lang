@@ -28,6 +28,7 @@
     "digits_between": "Полето :attribute треба да има помеѓу :min и :max цифри.",
     "dimensions": "Полето :attribute има невалидни димензии.",
     "distinct": "Полето :attribute има вредност која е дупликат.",
+    "doesnt_end_with": "The :attribute may not end with one of the following: :values.",
     "doesnt_start_with": "The :attribute may not start with one of the following: :values.",
     "email": "Полето :attribute не е во валиден формат.",
     "ends_with": "Полето :attribute мора да завршува со една од следните вредности: :values.",

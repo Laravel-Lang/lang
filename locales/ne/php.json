@@ -28,6 +28,7 @@
     "digits_between": ":Attribute :min देखी :max अंकको हुनुपर्छ।",
     "dimensions": ":Attribute अमान्य छवि आयाम छ।",
     "distinct": ":Attribute फिल्ड फिल्डको नक्कल मान छ",
+    "doesnt_end_with": "The :attribute may not end with one of the following: :values.",
     "doesnt_start_with": "The :attribute may not start with one of the following: :values.",
     "email": ":Attribute को इमेल ठेगाना मिलेन।",
     "ends_with": ":Attribute निम्न मध्ये एकको साथ विशेषता अन्त हुनुपर्दछ :values",

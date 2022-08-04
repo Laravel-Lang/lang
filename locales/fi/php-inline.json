@@ -27,6 +27,7 @@
     "digits_between": "Numeron on oltava :min-:max numeroa.",
     "dimensions": "Tällä kuvalla on virheelliset mitat.",
     "distinct": "Tällä kentällä on kaksoisarvo.",
+    "doesnt_end_with": "This field may not end with one of the following: :values.",
     "doesnt_start_with": "This field may not start with one of the following: :values.",
     "email": "Tämän on oltava voimassa oleva sähköpostiosoite.",
     "ends_with": "Tämän on päätyttävä johonkin seuraavista: :values.",

@@ -28,6 +28,7 @@
     "digits_between": ":Attribute은(는) :min에서 :max 자리 사이여야 합니다.",
     "dimensions": ":Attribute은(는) 올바르지 않는 이미지 크기입니다.",
     "distinct": ":Attribute 필드에 중복된 값이 있습니다.",
+    "doesnt_end_with": "The :attribute may not end with one of the following: :values.",
     "doesnt_start_with": "The :attribute may not start with one of the following: :values.",
     "email": ":Attribute은(는) 유효한 이메일 주소여야 합니다.",
     "ends_with": ":Attribute은(는) 다음 중 하나로 끝나야 합니다: :values.",

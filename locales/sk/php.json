@@ -28,6 +28,7 @@
     "digits_between": ":Attribute musí mať rozsah :min až :max číslic.",
     "dimensions": ":Attribute má neplatné rozmery obrázku.",
     "distinct": ":Attribute je duplicitný.",
+    "doesnt_end_with": "The :attribute may not end with one of the following: :values.",
     "doesnt_start_with": "The :attribute may not start with one of the following: :values.",
     "email": ":Attribute má neplatný formát.",
     "ends_with": ":Attribute musí obsahovať jednú z týchto hodnôt: :values.",

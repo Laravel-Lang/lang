@@ -28,6 +28,7 @@
     "digits_between": ":Attribute 必须是介于 :min 和 :max 位的数字。",
     "dimensions": ":Attribute 图片尺寸不正确。",
     "distinct": ":Attribute 已经存在。",
+    "doesnt_end_with": "The :attribute may not end with one of the following: :values.",
     "doesnt_start_with": "The :attribute may not start with one of the following: :values.",
     "email": ":Attribute 不是一个合法的邮箱。",
     "ends_with": ":Attribute 必须以 :values 为结尾。",

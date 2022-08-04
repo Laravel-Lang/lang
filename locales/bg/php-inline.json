@@ -27,6 +27,7 @@
     "digits_between": "Тя трябва да бъде между :min и :max цифри.",
     "dimensions": "Това изображение има невалидни размери.",
     "distinct": "Това поле има повтарящо се значение.",
+    "doesnt_end_with": "This field may not end with one of the following: :values.",
     "doesnt_start_with": "This field may not start with one of the following: :values.",
     "email": "Това трябва да е валиден имейл адрес.",
     "ends_with": "Това трябва да завърши с едно от следните: :values.",

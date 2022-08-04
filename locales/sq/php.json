@@ -28,6 +28,7 @@
     "digits_between": ":Attribute duhet të ketë midis :min dhe :max shifra.",
     "dimensions": ":Attribute ka dimensione të gabuara.",
     "distinct": ":Attribute ka një vlerë të përsëritur.",
+    "doesnt_end_with": "The :attribute may not end with one of the following: :values.",
     "doesnt_start_with": "The :attribute may not start with one of the following: :values.",
     "email": ":Attribute formati është i pasaktë.",
     "ends_with": ":Attribute duhet të përfundojë me një nga vlerat: :values.",

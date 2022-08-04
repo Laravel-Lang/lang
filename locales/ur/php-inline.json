@@ -27,6 +27,7 @@
     "digits_between": "یہ ہونا چاہئے کے درمیان :min اور :max ہندسے.",
     "dimensions": "اس تصویر باطل طول و عرض.",
     "distinct": "اس میدان کی ایک نقل قیمت.",
+    "doesnt_end_with": "This field may not end with one of the following: :values.",
     "doesnt_start_with": "This field may not start with one of the following: :values.",
     "email": "اس کو ایک درست ای میل ایڈریس.",
     "ends_with": "اس کو ختم کرنا ضروری ہے کے ساتھ مندرجہ ذیل میں سے ایک: :values.",

@@ -28,6 +28,7 @@
     "digits_between": ":Attribute لازماً :min اور :max اعداد کے درمیان ہو۔",
     "dimensions": "اس کے :attribute ہے باطل کی تصویر کے طول و عرض.",
     "distinct": ":Attribute کی دہری ویلیو ہے۔",
+    "doesnt_end_with": "The :attribute may not end with one of the following: :values.",
     "doesnt_start_with": "The :attribute may not start with one of the following: :values.",
     "email": ":Attribute لازماً قابلِ قبول ای میل ہو۔",
     "ends_with": "اس :attribute ختم کرنا ضروری ہے کے ساتھ مندرجہ ذیل میں سے ایک: :values.",

@@ -28,6 +28,7 @@
     "digits_between": ":Attribute мәні :min және :max аралығындағы сан болуы керек.",
     "dimensions": ":Attribute сурет өлшемі жарамсыз.",
     "distinct": ":Attribute жолында қосарланған мән бар.",
+    "doesnt_end_with": "The :attribute may not end with one of the following: :values.",
     "doesnt_start_with": "The :attribute may not start with one of the following: :values.",
     "email": ":Attribute жарамды электрондық пошта мекенжайы болуы керек.",
     "ends_with": ":Attribute келесі мәндердің біреуінен аяқталуы керек: :values",

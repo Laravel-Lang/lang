@@ -27,6 +27,7 @@
     "digits_between": "Vnos mora vsebovati od :min do :max števk.",
     "dimensions": "Slika ni pravilnih dimenzij.",
     "distinct": "Polje ima podvojeno vrednost.",
+    "doesnt_end_with": "This field may not end with one of the following: :values.",
     "doesnt_start_with": "This field may not start with one of the following: :values.",
     "email": "Elektronski naslov mora biti veljaven.",
     "ends_with": "Vnos se mora končati z eno od naslednjih vrednosti: :values.",

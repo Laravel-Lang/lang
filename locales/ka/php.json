@@ -28,6 +28,7 @@
     "digits_between": ":Attribute უნდა შედგებოდეს :min-დან :max ციფრამდე.",
     "dimensions": ":Attribute შეიცავს სურათის არასწორ ზომებს.",
     "distinct": ":Attribute-ის ველს აქვს დუბლირებული მნიშვნელობა.",
+    "doesnt_end_with": "The :attribute may not end with one of the following: :values.",
     "doesnt_start_with": "The :attribute may not start with one of the following: :values.",
     "email": ":Attribute უნდა იყოს სწორი ელ.ფოსტა.",
     "ends_with": ":Attribute უნდა ბოლოვდებოდეს შემდეგიდან ერთ-ერთით: :values.",

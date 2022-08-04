@@ -27,6 +27,7 @@
     "digits_between": "تعداد ارقام این مقدار باید بین :min و :max باشد.",
     "dimensions": "ابعاد این عکس نامعتبر است.",
     "distinct": "مقدار این ورودی تکراری است.",
+    "doesnt_end_with": "This field may not end with one of the following: :values.",
     "doesnt_start_with": "این مقدار نباید با این مقادیر شروع شود : :values.",
     "email": "این مقدار باید یک آدرس ایمیل معتبر باشد.",
     "ends_with": "این مقدار باید با یکی از عبارت های روبرو پایان یابد: :values.",

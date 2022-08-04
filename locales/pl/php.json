@@ -28,6 +28,7 @@
     "digits_between": "Pole :attribute musi mieć od :min do :max cyfr.",
     "dimensions": "Pole :attribute ma niepoprawne wymiary.",
     "distinct": "Pole :attribute ma zduplikowane wartości.",
+    "doesnt_end_with": "The :attribute may not end with one of the following: :values.",
     "doesnt_start_with": "The :attribute may not start with one of the following: :values.",
     "email": "Pole :attribute nie jest poprawnym adresem e-mail.",
     "ends_with": "Pole :attribute musi kończyć się jedną z następujących wartości: :values.",

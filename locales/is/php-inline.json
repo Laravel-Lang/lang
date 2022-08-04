@@ -27,6 +27,7 @@
     "digits_between": "Þetta verður að vera á milli :min og :max tölustafi.",
     "dimensions": "Þessari mynd hefur ógild mál.",
     "distinct": "Þetta sviði hefur afrit gildi.",
+    "doesnt_end_with": "This field may not end with one of the following: :values.",
     "doesnt_start_with": "This field may not start with one of the following: :values.",
     "email": "Þetta hlýtur að vera gild netfangið.",
     "ends_with": "Þetta verður að enda með eftirfarandi: :values.",

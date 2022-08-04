@@ -28,6 +28,7 @@
     "digits_between": "Поље :attribute мора бити иземђу :min и :max шифри.",
     "dimensions": "Поље :attribute име недозвољене димензије слике.",
     "distinct": "Поље :attribute има дуплирану вредност.",
+    "doesnt_end_with": "The :attribute may not end with one of the following: :values.",
     "doesnt_start_with": "The :attribute may not start with one of the following: :values.",
     "email": "Формат поља :attribute није валидан.",
     "ends_with": "Поље :attribute мора да се заврши са нечим од следећег: :values.",

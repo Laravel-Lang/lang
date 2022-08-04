@@ -28,6 +28,7 @@
     "digits_between": "Rhaid i :attribute fod rhwng :min a :max digid.",
     "dimensions": "Y :attribute wedi annilys ddelwedd dimensiynau.",
     "distinct": "Y :attribute maes wedi dyblyg gwerth.",
+    "doesnt_end_with": "The :attribute may not end with one of the following: :values.",
     "doesnt_start_with": "The :attribute may not start with one of the following: :values.",
     "email": "Rhaid i :attribute fod yn gyfeiriad ebost dilys.",
     "ends_with": "Y :attribute rhaid i ben gydag un o'r canlynol: :values.",

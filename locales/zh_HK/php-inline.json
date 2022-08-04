@@ -27,6 +27,7 @@
     "digits_between": "必須介乎 :min 至 :max 位數字。",
     "dimensions": "圖片尺寸不正確。",
     "distinct": "已經存在。",
+    "doesnt_end_with": "This field may not end with one of the following: :values.",
     "doesnt_start_with": "This field may not start with one of the following: :values.",
     "email": "必須是有效的電郵地址。",
     "ends_with": "結尾必須包含下列之一：:values。",

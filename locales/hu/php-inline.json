@@ -27,6 +27,7 @@
     "digits_between": "Ennek :min és :max között kell lennie.",
     "dimensions": "Ez a kép érvénytelen méretekkel rendelkezik.",
     "distinct": "Ez a mező ismétlődő értékkel rendelkezik.",
+    "doesnt_end_with": "This field may not end with one of the following: :values.",
     "doesnt_start_with": "This field may not start with one of the following: :values.",
     "email": "Ennek érvényes e-mail címnek kell lennie.",
     "ends_with": "Ennek az alábbiak egyikével kell végződnie: :values.",

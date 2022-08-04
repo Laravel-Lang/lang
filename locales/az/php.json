@@ -28,6 +28,7 @@
     "digits_between": ":Attribute sahəsindəki rəqəm sayı :min ilə :max arasında olmalıdır.",
     "dimensions": ":Attribute sahəsindəki şəklin ölçüləri yanlışdır.",
     "distinct": ":Attribute sahəsinin dəyərləri təkrarlanmamalıdır.",
+    "doesnt_end_with": "The :attribute may not end with one of the following: :values.",
     "doesnt_start_with": ":Attribute  aşağıdakılardan biri ilə başlaya bilməz: :values.",
     "email": ":Attribute düzgün e-poçt ünvanı olmalıdır.",
     "ends_with": ":Attribute sahəsi göstərilən dəyərlərdən biri ilə bitməlidir: :values.",

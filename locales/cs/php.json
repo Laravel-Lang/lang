@@ -28,6 +28,7 @@
     "digits_between": ":Attribute musí být dlouhé nejméně :min a nejvíce :max pozic.",
     "dimensions": ":Attribute má neplatné rozměry.",
     "distinct": ":Attribute má duplicitní hodnotu.",
+    "doesnt_end_with": "The :attribute may not end with one of the following: :values.",
     "doesnt_start_with": "The :attribute may not start with one of the following: :values.",
     "email": ":Attribute není platný formát.",
     "ends_with": ":Attribute musí končit jednou z následujících hodnot: :values",

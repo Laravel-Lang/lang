@@ -27,6 +27,7 @@
     "digits_between": "Aquest ha de ser entre :min i :max dígits.",
     "dimensions": "Aquesta imatge ha invalid dimensions.",
     "distinct": "Aquest camp té un duplicat de valor.",
+    "doesnt_end_with": "This field may not end with one of the following: :values.",
     "doesnt_start_with": "This field may not start with one of the following: :values.",
     "email": "Aquesta ha de ser una adreça de correu vàlida.",
     "ends_with": "Aquest ha d'acabar amb una de les següents: :values.",

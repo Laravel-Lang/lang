@@ -27,6 +27,7 @@
     "digits_between": "Ito ay dapat na sa pagitan ng :min at :max na numero.",
     "dimensions": "Ang larawan na ito ay may hindi wastong sukat.",
     "distinct": "Ang patlang na ito ay may dobleng halaga.",
+    "doesnt_end_with": "This field may not end with one of the following: :values.",
     "doesnt_start_with": "This field may not start with one of the following: :values.",
     "email": "Ito ay dapat na isang wastong email address.",
     "ends_with": "Ito ay dapat magtapos sa isa sa mga sumusunod: :values.",

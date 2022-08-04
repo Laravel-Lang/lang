@@ -27,6 +27,7 @@
     "digits_between": "यह :min और :max अंकों के बीच होना चाहिए ।",
     "dimensions": "इस छवि में अमान्य आयाम हैं ।",
     "distinct": "इस फ़ील्ड में डुप्लिकेट मान है ।",
+    "doesnt_end_with": "This field may not end with one of the following: :values.",
     "doesnt_start_with": "This field may not start with one of the following: :values.",
     "email": "यह एक मान्य ईमेल पता होना चाहिए ।",
     "ends_with": "यह निम्नलिखित में से एक के साथ समाप्त होना चाहिए: :values ।",

@@ -28,6 +28,7 @@
     "digits_between": "ข้อมูล :attribute ต้องอยู่ในช่วงระหว่าง :min ถึง :max",
     "dimensions": "ข้อมูล :attribute มีขนาดไม่ถูกต้อง.",
     "distinct": "ข้อมูล :attribute มีค่าที่ซ้ำกัน",
+    "doesnt_end_with": "The :attribute may not end with one of the following: :values.",
     "doesnt_start_with": "The :attribute may not start with one of the following: :values.",
     "email": "ข้อมูล :attribute ต้องเป็นอีเมล์",
     "ends_with": "ที่ :attribute ต้องจบอย่างหนึ่งจากเกิดข้อผิดพลาดต่อไปนี้::values.",

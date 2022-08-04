@@ -28,6 +28,7 @@
     "digits_between": "Polje :attribute mora sardžati između :min i :max broja.",
     "dimensions": "Dimenzije slike polja :attribute nisu validne.",
     "distinct": "Polje :attribute ima dvostruku vrijednost.",
+    "doesnt_end_with": "The :attribute may not end with one of the following: :values.",
     "doesnt_start_with": "The :attribute may not start with one of the following: :values.",
     "email": "Format polja :attribute mora biti validan e-mail.",
     "ends_with": "Polje :attribute se mora završiti s jednom od sljedećih vrijednosti: :values.",

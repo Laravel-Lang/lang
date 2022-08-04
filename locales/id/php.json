@@ -28,6 +28,7 @@
     "digits_between": ":Attribute harus terdiri dari :min sampai :max angka.",
     "dimensions": ":Attribute tidak memiliki dimensi gambar yang valid.",
     "distinct": ":Attribute memiliki nilai yang duplikat.",
+    "doesnt_end_with": "The :attribute may not end with one of the following: :values.",
     "doesnt_start_with": "The :attribute may not start with one of the following: :values.",
     "email": ":Attribute harus berupa alamat surel yang valid.",
     "ends_with": ":Attribute harus diakhiri salah satu dari berikut: :values",

@@ -28,6 +28,7 @@
     "digits_between": ":Attribute ha de tenir entre :min i :max dígits.",
     "dimensions": "Les dimensions de la imatge :attribute no són vàlides.",
     "distinct": "El camp :attribute té un valor duplicat.",
+    "doesnt_end_with": "The :attribute may not end with one of the following: :values.",
     "doesnt_start_with": "The :attribute may not start with one of the following: :values.",
     "email": ":Attribute no és un e-mail vàlid",
     "ends_with": "La :attribute ha d'acabar amb una de les següents: :values.",

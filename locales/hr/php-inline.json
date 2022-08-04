@@ -27,6 +27,7 @@
     "digits_between": "To bi trebalo biti između :min i :max znamenki.",
     "dimensions": "Ova slika ima nevažeće dimenzije.",
     "distinct": "Ovo polje ima ponavljajuće značenje.",
+    "doesnt_end_with": "This field may not end with one of the following: :values.",
     "doesnt_start_with": "This field may not start with one of the following: :values.",
     "email": "To mora biti valjana adresa e-pošte.",
     "ends_with": "To bi trebalo završiti s jednom od sljedećih stavki: :values.",

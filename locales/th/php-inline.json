@@ -27,6 +27,7 @@
     "digits_between": "นี่ต้องเป็นระหว่าง :min และ :max อกเลขรหัสมา",
     "dimensions": "ภาพนี้มีไม่ถูกต้องมิติ",
     "distinct": "ช่องข้อมูลนี้มีองปลค่า",
+    "doesnt_end_with": "This field may not end with one of the following: :values.",
     "doesnt_start_with": "This field may not start with one of the following: :values.",
     "email": "นี่ต้องเป็นที่อยู่อีเมลที่ถูกต้อง",
     "ends_with": "นี่คงจบอย่างหนึ่งจากเกิดข้อผิดพลาดต่อไปนี้::values.",

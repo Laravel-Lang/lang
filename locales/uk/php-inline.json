@@ -27,6 +27,7 @@
     "digits_between": "Повинно бути між :min та :max цифр.",
     "dimensions": "Зображення має недійсні розміри.",
     "distinct": "Поле має повторюване значення.",
+    "doesnt_end_with": "This field may not end with one of the following: :values.",
     "doesnt_start_with": "This field may not start with one of the following: :values.",
     "email": "Має бути дійсною адресою електронної пошти.",
     "ends_with": "Має закінчуватися одним із наступних: :values.",

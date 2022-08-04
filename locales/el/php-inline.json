@@ -27,6 +27,7 @@
     "digits_between": "Αυτό πρέπει να είναι μεταξύ :min και :max ψηφίων.",
     "dimensions": "Αυτή η εικόνα έχει μη έγκυρες διαστάσεις.",
     "distinct": "Αυτό το πεδίο έχει διπλή τιμή.",
+    "doesnt_end_with": "This field may not end with one of the following: :values.",
     "doesnt_start_with": "This field may not start with one of the following: :values.",
     "email": "Αυτή πρέπει να είναι μια έγκυρη διεύθυνση ηλεκτρονικού ταχυδρομείου.",
     "ends_with": "Αυτό πρέπει να τελειώσει με ένα από τα ακόλουθα: :values.",

@@ -27,6 +27,7 @@
     "digits_between": "ეს უნდა იყოს :min და :max ციფრები.",
     "dimensions": "ეს სურათი არასწორი ზომები.",
     "distinct": "ეს ველი აქვს დუბლიკატი ღირებულება.",
+    "doesnt_end_with": "This field may not end with one of the following: :values.",
     "doesnt_start_with": "This field may not start with one of the following: :values.",
     "email": "ეს უნდა იყოს სწორი ელექტრონული ფოსტის მისამართი.",
     "ends_with": "ეს უნდა დასრულდეს ერთ-ერთი შემდეგი: :values.",

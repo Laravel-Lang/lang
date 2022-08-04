@@ -28,6 +28,7 @@
     "digits_between": ":Attribute måste vara mellan :min och :max tecken.",
     "dimensions": ":Attribute har felaktiga bilddimensioner.",
     "distinct": ":Attribute innehåller fler än en repetition av samma element.",
+    "doesnt_end_with": "The :attribute may not end with one of the following: :values.",
     "doesnt_start_with": "The :attribute may not start with one of the following: :values.",
     "email": ":Attribute måste innehålla en korrekt e-postadress.",
     "ends_with": ":Attribute måste sluta med en av följande: :values.",

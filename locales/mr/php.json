@@ -28,6 +28,7 @@
     "digits_between": ":Attribute, :min आणि :max अंक दरम्यान असणे आवश्यक आहे.",
     "dimensions": ":Attribute अयोग्य माप आहे.",
     "distinct": ":Attribute वेगवेगळे असावेत.",
+    "doesnt_end_with": "The :attribute may not end with one of the following: :values.",
     "doesnt_start_with": "The :attribute may not start with one of the following: :values.",
     "email": ":Attribute एक वैध ईमेल पत्ता असणे आवश्यक आहे.",
     "ends_with": ":Attribute खालील एक समाप्त करणे आवश्यक आहे: :values.",

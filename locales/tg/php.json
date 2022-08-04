@@ -28,6 +28,7 @@
     "digits_between": "Қиммати :attribute бояд байни :min ва :max рақам дошта бошад.",
     "dimensions": "Қиммати :attribute дорои андозаи расми нодуруст мебошад.",
     "distinct": ":Attribute дорои қиммати такроршаванда мебошад.",
+    "doesnt_end_with": "The :attribute may not end with one of the following: :values.",
     "doesnt_start_with": "The :attribute may not start with one of the following: :values.",
     "email": "Қиммати :attribute бояд суроғаи электронии дуруст бошад.",
     "ends_with": "Рақами :attribute бояд заканчиваться яке аз зерин: :values.",

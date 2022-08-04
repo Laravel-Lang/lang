@@ -27,6 +27,7 @@
     "digits_between": "Må være mellom :min og :max siffer.",
     "dimensions": "Har ugyldige bildedimensjoner.",
     "distinct": "Har en duplisert verdi.",
+    "doesnt_end_with": "This field may not end with one of the following: :values.",
     "doesnt_start_with": "This field may not start with one of the following: :values.",
     "email": "Må være en gyldig e-postadresse.",
     "ends_with": "Må ende med en av følgende: :values.",

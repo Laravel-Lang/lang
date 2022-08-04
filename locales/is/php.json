@@ -28,6 +28,7 @@
     "digits_between": "Reiturinn :attribute verður að vera á milli :min og :max tölustafa.",
     "dimensions": ":Attribute hefur ógilda myndvídd.",
     "distinct": ":Attribute reiturinn hefur tvítekið gildi.",
+    "doesnt_end_with": "The :attribute may not end with one of the following: :values.",
     "doesnt_start_with": "The :attribute may not start with one of the following: :values.",
     "email": "Reiturinn :attribute snið netfangsins er ekki rétt.",
     "ends_with": "Við :attribute verður að enda með eftirfarandi: :values.",

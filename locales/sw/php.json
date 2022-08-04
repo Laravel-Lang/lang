@@ -28,6 +28,7 @@
     "digits_between": "Kipengele lazima kiwe kati ya :min na :max cha tarakimu.",
     "dimensions": ":Attribute ina vipimo vya picha ambavyo si sahihi.",
     "distinct": "Sehemu ya kipengele ina thamani rudufu.",
+    "doesnt_end_with": "The :attribute may not end with one of the following: :values.",
     "doesnt_start_with": ":Attribute inaweza isianze na mojawapo ya yafuatayo: :values.",
     "email": "Kipengele lazima kiwe anuani halali ya barua pepe.",
     "ends_with": "Ya :attribute lazima mwisho na moja ya yafuatayo: :values.",

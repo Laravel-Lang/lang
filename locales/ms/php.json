@@ -28,6 +28,7 @@
     "digits_between": ":Attribute mesti mengandungi antara :min dan :max digits.",
     "dimensions": ":Attribute tidak sah",
     "distinct": ":Attribute adalah nilai yang berulang",
+    "doesnt_end_with": "The :attribute may not end with one of the following: :values.",
     "doesnt_start_with": "The :attribute may not start with one of the following: :values.",
     "email": ":Attribute tidak sah.",
     "ends_with": ":Attribute mesti berakhir dengan salah satu dari: :values.",

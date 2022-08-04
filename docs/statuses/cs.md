@@ -4,7 +4,7 @@ editLink: false
 
 # cs
 
-##### All missed: 203
+##### All missed: 204
 
 
 ### json-inline
@@ -1741,7 +1741,7 @@ Zimbabwe
 
 ### php
 
-##### Missing: 13
+##### Missing: 14
 
 <table width="100%">
 <tr><td width="50%">
@@ -1769,6 +1769,15 @@ declined_if
 </td><td width="50%">
 
 The :attribute must be declined when :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+doesnt_end_with
+
+</td><td width="50%">
+
+The :attribute may not end with one of the following: :values.
 
 </td></tr>
 <tr><td width="50%">

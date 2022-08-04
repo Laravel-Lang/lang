@@ -4,7 +4,7 @@ editLink: false
 
 # pl
 
-##### All missed: 47
+##### All missed: 48
 
 
 ### json-inline
@@ -400,9 +400,18 @@ Your email address is unverified.
 
 ### php
 
-##### Missing: 6
+##### Missing: 7
 
 <table width="100%">
+<tr><td width="50%">
+
+doesnt_end_with
+
+</td><td width="50%">
+
+The :attribute may not end with one of the following: :values.
+
+</td></tr>
 <tr><td width="50%">
 
 doesnt_start_with

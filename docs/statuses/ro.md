@@ -4,7 +4,7 @@ editLink: false
 
 # ro
 
-##### All missed: 249
+##### All missed: 250
 
 
 ### json-inline
@@ -2218,9 +2218,18 @@ Zimbabwe
 
 ### php
 
-##### Missing: 6
+##### Missing: 7
 
 <table width="100%">
+<tr><td width="50%">
+
+doesnt_end_with
+
+</td><td width="50%">
+
+The :attribute may not end with one of the following: :values.
+
+</td></tr>
 <tr><td width="50%">
 
 doesnt_start_with

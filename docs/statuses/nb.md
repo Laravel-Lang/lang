@@ -4,7 +4,7 @@ editLink: false
 
 # nb
 
-##### All missed: 43
+##### All missed: 44
 
 
 ### json-inline
@@ -364,9 +364,18 @@ Two factor authentication is now enabled. Scan the following QR code using your 
 
 ### php
 
-##### Missing: 6
+##### Missing: 7
 
 <table width="100%">
+<tr><td width="50%">
+
+doesnt_end_with
+
+</td><td width="50%">
+
+The :attribute may not end with one of the following: :values.
+
+</td></tr>
 <tr><td width="50%">
 
 doesnt_start_with

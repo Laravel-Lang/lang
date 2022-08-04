@@ -4,7 +4,7 @@ editLink: false
 
 # tk
 
-##### All missed: 814
+##### All missed: 815
 
 
 ### json-inline
@@ -6891,7 +6891,7 @@ Zip / Postal Code
 
 ### php
 
-##### Missing: 52
+##### Missing: 53
 
 <table width="100%">
 <tr><td width="50%">
@@ -6982,6 +6982,15 @@ distinct
 </td><td width="50%">
 
 The :attribute field has a duplicate value.
+
+</td></tr>
+<tr><td width="50%">
+
+doesnt_end_with
+
+</td><td width="50%">
+
+The :attribute may not end with one of the following: :values.
 
 </td></tr>
 <tr><td width="50%">

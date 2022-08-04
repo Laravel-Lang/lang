@@ -4,7 +4,7 @@ editLink: false
 
 # uk
 
-##### All missed: 133
+##### All missed: 134
 
 
 ### json-inline
@@ -1120,7 +1120,7 @@ You may cancel your subscription at any time. Once your subscription has been ca
 
 ### php
 
-##### Missing: 12
+##### Missing: 13
 
 <table width="100%">
 <tr><td width="50%">
@@ -1157,6 +1157,15 @@ declined_if
 </td><td width="50%">
 
 The :attribute must be declined when :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+doesnt_end_with
+
+</td><td width="50%">
+
+The :attribute may not end with one of the following: :values.
 
 </td></tr>
 <tr><td width="50%">

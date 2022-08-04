@@ -4,7 +4,7 @@ editLink: false
 
 # sk
 
-##### All missed: 259
+##### All missed: 260
 
 
 ### json-inline
@@ -2281,9 +2281,18 @@ Zip / Postal Code
 
 ### php
 
-##### Missing: 9
+##### Missing: 10
 
 <table width="100%">
+<tr><td width="50%">
+
+doesnt_end_with
+
+</td><td width="50%">
+
+The :attribute may not end with one of the following: :values.
+
+</td></tr>
 <tr><td width="50%">
 
 doesnt_start_with

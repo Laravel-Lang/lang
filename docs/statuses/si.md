@@ -4,7 +4,7 @@ editLink: false
 
 # si
 
-##### All missed: 95
+##### All missed: 96
 
 
 ### json-inline
@@ -787,7 +787,7 @@ Your email address is unverified.
 
 ### php
 
-##### Missing: 11
+##### Missing: 12
 
 <table width="100%">
 <tr><td width="50%">
@@ -806,6 +806,15 @@ declined_if
 </td><td width="50%">
 
 The :attribute must be declined when :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+doesnt_end_with
+
+</td><td width="50%">
+
+The :attribute may not end with one of the following: :values.
 
 </td></tr>
 <tr><td width="50%">

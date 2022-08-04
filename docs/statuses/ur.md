@@ -4,7 +4,7 @@ editLink: false
 
 # ur
 
-##### All missed: 221
+##### All missed: 222
 
 
 ### json-inline
@@ -1804,7 +1804,7 @@ Zip / Postal Code
 
 ### php
 
-##### Missing: 24
+##### Missing: 25
 
 <table width="100%">
 <tr><td width="50%">
@@ -1841,6 +1841,15 @@ declined_if
 </td><td width="50%">
 
 The :attribute must be declined when :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+doesnt_end_with
+
+</td><td width="50%">
+
+The :attribute may not end with one of the following: :values.
 
 </td></tr>
 <tr><td width="50%">

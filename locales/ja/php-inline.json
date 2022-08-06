@@ -27,7 +27,7 @@
     "digits_between": ":Min ~ :max桁でなければなりません。",
     "dimensions": "画像の寸法が無効です。",
     "distinct": "値が重複しています。",
-    "doesnt_end_with": "This field may not end with one of the following: :values.",
+    "doesnt_end_with": "次のいずれかで終わってはいけません。: :values",
     "doesnt_start_with": "次のいずれかで始まってはいけません。: :values",
     "email": "無効なメールアドレスです。",
     "ends_with": "次のいずれかで終わる必要があります: :values",

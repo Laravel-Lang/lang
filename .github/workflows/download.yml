@@ -66,6 +66,7 @@ jobs:
                     vendor/bin/lang download --url=https://github.com/laravel/lumen-framework/archive/refs/heads/7.x.zip --project=lumen-framework --ver=7.x --copy=lang --copy=resources/lang
                     vendor/bin/lang download --url=https://github.com/laravel/lumen-framework/archive/refs/heads/8.x.zip --project=lumen-framework --ver=8.x --copy=lang --copy=resources/lang
                     vendor/bin/lang download --url=https://github.com/laravel/lumen-framework/archive/refs/heads/9.x.zip --project=lumen-framework --ver=9.x --copy=lang --copy=resources/lang
+                    vendor/bin/lang download --url=https://github.com/laravel/lumen-framework/archive/refs/heads/master.zip --project=lumen-framework --ver=master --copy=lang --copy=resources/lang
 
                     codestyle fix
 
@@ -96,6 +97,7 @@ jobs:
                     IS_DIRTY=1
 
                     vendor/bin/lang download --url=https://github.com/laravel/breeze/archive/refs/heads/1.x.zip --project=breeze --ver=1.x
+                    vendor/bin/lang download --url=https://github.com/laravel/breeze/archive/refs/heads/master.zip --project=breeze --ver=master
 
                     codestyle fix
 
@@ -125,6 +127,7 @@ jobs:
 
                     vendor/bin/lang download --url=https://github.com/laravel/cashier-stripe/archive/refs/heads/12.x.zip --project=cashier/stripe --ver=12.x
                     vendor/bin/lang download --url=https://github.com/laravel/cashier-stripe/archive/refs/heads/13.x.zip --project=cashier/stripe --ver=13.x
+                    vendor/bin/lang download --url=https://github.com/laravel/cashier-stripe/archive/refs/heads/master.zip --project=cashier/stripe --ver=master
 
                     codestyle fix
 
@@ -139,6 +142,7 @@ jobs:
                     IS_DIRTY=1
 
                     vendor/bin/lang download --url=https://github.com/laravel/fortify/archive/refs/heads/1.x.zip --project=fortify --ver=1.x
+                    vendor/bin/lang download --url=https://github.com/laravel/fortify/archive/refs/heads/master.zip --project=fortify --ver=master
 
                     codestyle fix
 
@@ -156,6 +160,7 @@ jobs:
                     vendor/bin/lang download --url=https://github.com/laravel/ui/archive/refs/heads/2.x.zip --project=ui --ver=2.x
                     vendor/bin/lang download --url=https://github.com/laravel/ui/archive/refs/heads/3.x.zip --project=ui --ver=3.x
                     vendor/bin/lang download --url=https://github.com/laravel/ui/archive/refs/heads/4.x.zip --project=ui --ver=4.x
+                    vendor/bin/lang download --url=https://github.com/laravel/ui/archive/refs/heads/master.zip --project=ui --ver=master
 
                     codestyle fix
 

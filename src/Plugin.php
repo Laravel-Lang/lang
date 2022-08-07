@@ -37,5 +37,6 @@ class Plugin extends Provider
         Plugins\UI\V1::class,
         Plugins\UI\V2::class,
         Plugins\UI\V3::class,
+        Plugins\UI\V4::class,
     ];
 }

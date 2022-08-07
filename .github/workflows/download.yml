@@ -155,6 +155,7 @@ jobs:
                     vendor/bin/lang download --url=https://github.com/laravel/ui/archive/refs/heads/1.x.zip --project=ui --ver=1.x
                     vendor/bin/lang download --url=https://github.com/laravel/ui/archive/refs/heads/2.x.zip --project=ui --ver=2.x
                     vendor/bin/lang download --url=https://github.com/laravel/ui/archive/refs/heads/3.x.zip --project=ui --ver=3.x
+                    vendor/bin/lang download --url=https://github.com/laravel/ui/archive/refs/heads/4.x.zip --project=ui --ver=4.x
 
                     codestyle fix
 

@@ -61,7 +61,7 @@
     "lte.file": "The :attribute must be less than or equal :value kilobytes.",
     "lte.numeric": "The :attribute must be less than or equal :value.",
     "lte.string": "The :attribute must be less than or equal :value characters.",
-    "mac_address": ":Attribute एक मान्य MAC address होना चाहिए.",
+    "mac_address": ":Attribute एक मान्य MAC address होना चाहिए।",
     "max.array": ":Attribute, :max आइटमों से अधिक नहीं हो सकता है।",
     "max.file": ":Attribute :max किलोबाइट से बड़ा नहीं हो सकता है।",
     "max.numeric": ":Attribute, :max से बड़ा नहीं हो सकता है।",

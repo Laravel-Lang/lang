@@ -4,7 +4,7 @@ editLink: false
 
 # af
 
-##### All missed: 179
+##### All missed: 182
 
 
 ### json-inline
@@ -146,7 +146,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 150
+##### Missing: 153
 
 <table width="100%">
 <tr><td width="50%">
@@ -498,6 +498,15 @@ Forgot Password
 </td><td width="50%">
 
 Forgot Password
+
+</td></tr>
+<tr><td width="50%">
+
+From
+
+</td><td width="50%">
+
+From
 
 </td></tr>
 <tr><td width="50%">
@@ -1087,6 +1096,15 @@ The :attribute must contain at least one uppercase and one lowercase letter.
 </td></tr>
 <tr><td width="50%">
 
+The action was executed successfully.
+
+</td><td width="50%">
+
+The action was executed successfully.
+
+</td></tr>
+<tr><td width="50%">
+
 The given :attribute has appeared in a data leak. Please choose a different :attribute.
 
 </td><td width="50%">
@@ -1245,6 +1263,15 @@ This subscription has expired and cannot be resumed. Please create a new subscri
 </td><td width="50%">
 
 This subscription has expired and cannot be resumed. Please create a new subscription.
+
+</td></tr>
+<tr><td width="50%">
+
+To
+
+</td><td width="50%">
+
+To
 
 </td></tr>
 <tr><td width="50%">

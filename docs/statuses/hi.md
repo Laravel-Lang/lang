@@ -4,7 +4,7 @@ editLink: false
 
 # hi
 
-##### All missed: 210
+##### All missed: 201
 
 
 ### json-inline
@@ -1732,18 +1732,9 @@ Zip / Postal Code
 
 ### php
 
-##### Missing: 21
+##### Missing: 12
 
 <table width="100%">
-<tr><td width="50%">
-
-accepted_if
-
-</td><td width="50%">
-
-The :attribute must be accepted when :other is :value.
-
-</td></tr>
 <tr><td width="50%">
 
 current_password
@@ -1751,24 +1742,6 @@ current_password
 </td><td width="50%">
 
 The password is incorrect.
-
-</td></tr>
-<tr><td width="50%">
-
-declined
-
-</td><td width="50%">
-
-The :attribute must be declined.
-
-</td></tr>
-<tr><td width="50%">
-
-declined_if
-
-</td><td width="50%">
-
-The :attribute must be declined when :other is :value.
 
 </td></tr>
 <tr><td width="50%">
@@ -1787,15 +1760,6 @@ doesnt_start_with
 </td><td width="50%">
 
 The :attribute may not start with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-enum
-
-</td><td width="50%">
-
-The selected :attribute is invalid.
 
 </td></tr>
 <tr><td width="50%">
@@ -1850,51 +1814,6 @@ lte.array
 </td><td width="50%">
 
 The :attribute must not have more than :value items.
-
-</td></tr>
-<tr><td width="50%">
-
-mac_address
-
-</td><td width="50%">
-
-The :attribute must be a valid MAC address.
-
-</td></tr>
-<tr><td width="50%">
-
-password.letters
-
-</td><td width="50%">
-
-The :attribute must contain at least one letter.
-
-</td></tr>
-<tr><td width="50%">
-
-password.mixed
-
-</td><td width="50%">
-
-The :attribute must contain at least one uppercase and one lowercase letter.
-
-</td></tr>
-<tr><td width="50%">
-
-password.numbers
-
-</td><td width="50%">
-
-The :attribute must contain at least one number.
-
-</td></tr>
-<tr><td width="50%">
-
-password.symbols
-
-</td><td width="50%">
-
-The :attribute must contain at least one symbol.
 
 </td></tr>
 <tr><td width="50%">

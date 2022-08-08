@@ -4,7 +4,7 @@ editLink: false
 
 # zh_CN
 
-##### All missed: 41
+##### All missed: 44
 
 
 ### json-inline
@@ -146,7 +146,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 20
+##### Missing: 23
 
 <table width="100%">
 <tr><td width="50%">
@@ -169,6 +169,15 @@ Copy to clipboard
 </td></tr>
 <tr><td width="50%">
 
+From
+
+</td><td width="50%">
+
+From
+
+</td></tr>
+<tr><td width="50%">
+
 If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
 
 </td><td width="50%">
@@ -309,6 +318,24 @@ Stop polling
 </td><td width="50%">
 
 Stop polling
+
+</td></tr>
+<tr><td width="50%">
+
+The action was executed successfully.
+
+</td><td width="50%">
+
+The action was executed successfully.
+
+</td></tr>
+<tr><td width="50%">
+
+To
+
+</td><td width="50%">
+
+To
 
 </td></tr>
 <tr><td width="50%">

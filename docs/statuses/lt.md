@@ -4,7 +4,7 @@ editLink: false
 
 # lt
 
-##### All missed: 234
+##### All missed: 222
 
 
 ### json-inline
@@ -146,7 +146,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 205
+##### Missing: 208
 
 <table width="100%">
 <tr><td width="50%">
@@ -615,6 +615,15 @@ Forgot Password
 </td><td width="50%">
 
 Forgot Password
+
+</td></tr>
+<tr><td width="50%">
+
+From
+
+</td><td width="50%">
+
+From
 
 </td></tr>
 <tr><td width="50%">
@@ -1483,6 +1492,15 @@ The :attribute must contain at least one uppercase and one lowercase letter.
 </td></tr>
 <tr><td width="50%">
 
+The action was executed successfully.
+
+</td><td width="50%">
+
+The action was executed successfully.
+
+</td></tr>
+<tr><td width="50%">
+
 The given :attribute has appeared in a data leak. Please choose a different :attribute.
 
 </td><td width="50%">
@@ -1641,6 +1659,15 @@ This subscription has expired and cannot be resumed. Please create a new subscri
 </td><td width="50%">
 
 This subscription has expired and cannot be resumed. Please create a new subscription.
+
+</td></tr>
+<tr><td width="50%">
+
+To
+
+</td><td width="50%">
+
+To
 
 </td></tr>
 <tr><td width="50%">
@@ -1992,152 +2019,6 @@ Zip / Postal Code
 </td><td width="50%">
 
 Åland Islands
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php
-
-##### Missing: 15
-
-<table width="100%">
-<tr><td width="50%">
-
-accepted_if
-
-</td><td width="50%">
-
-The :attribute must be accepted when :other is :value.
-
-</td></tr>
-<tr><td width="50%">
-
-current_password
-
-</td><td width="50%">
-
-The password is incorrect.
-
-</td></tr>
-<tr><td width="50%">
-
-declined
-
-</td><td width="50%">
-
-The :attribute must be declined.
-
-</td></tr>
-<tr><td width="50%">
-
-declined_if
-
-</td><td width="50%">
-
-The :attribute must be declined when :other is :value.
-
-</td></tr>
-<tr><td width="50%">
-
-doesnt_end_with
-
-</td><td width="50%">
-
-The :attribute may not end with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-doesnt_start_with
-
-</td><td width="50%">
-
-The :attribute may not start with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-enum
-
-</td><td width="50%">
-
-The selected :attribute is invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-mac_address
-
-</td><td width="50%">
-
-The :attribute must be a valid MAC address.
-
-</td></tr>
-<tr><td width="50%">
-
-password.letters
-
-</td><td width="50%">
-
-The :attribute must contain at least one letter.
-
-</td></tr>
-<tr><td width="50%">
-
-password.mixed
-
-</td><td width="50%">
-
-The :attribute must contain at least one uppercase and one lowercase letter.
-
-</td></tr>
-<tr><td width="50%">
-
-password.numbers
-
-</td><td width="50%">
-
-The :attribute must contain at least one number.
-
-</td></tr>
-<tr><td width="50%">
-
-password.symbols
-
-</td><td width="50%">
-
-The :attribute must contain at least one symbol.
-
-</td></tr>
-<tr><td width="50%">
-
-password.uncompromised
-
-</td><td width="50%">
-
-The given :attribute has appeared in a data leak. Please choose a different :attribute.
-
-</td></tr>
-<tr><td width="50%">
-
-prohibits
-
-</td><td width="50%">
-
-The :attribute field prohibits :other from being present.
-
-</td></tr>
-<tr><td width="50%">
-
-required_array_keys
-
-</td><td width="50%">
-
-The :attribute field must contain entries for: :values.
 
 </td></tr>
 </table>

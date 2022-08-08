@@ -27,7 +27,7 @@
     "digits_between": "Длина должна быть между :min и :max.",
     "dimensions": "Изображение имеет недопустимые размеры.",
     "distinct": "Поле содержит повторяющееся значение.",
-    "doesnt_end_with": "This field may not end with one of the following: :values.",
+    "doesnt_end_with": "Значение не может заканчиваться одним из следующих: :values.",
     "doesnt_start_with": "Значение не должно начинаться с одного из следующих: :values.",
     "email": "Электронный адрес должен быть действительным.",
     "ends_with": "Должно заканчиваться одним из следующих значений: :values",

@@ -4,7 +4,7 @@ editLink: false
 
 # hi
 
-##### All missed: 201
+##### All missed: 191
 
 
 ### json-inline
@@ -1732,45 +1732,9 @@ Zip / Postal Code
 
 ### php
 
-##### Missing: 12
+##### Missing: 2
 
 <table width="100%">
-<tr><td width="50%">
-
-current_password
-
-</td><td width="50%">
-
-The password is incorrect.
-
-</td></tr>
-<tr><td width="50%">
-
-doesnt_end_with
-
-</td><td width="50%">
-
-The :attribute may not end with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-doesnt_start_with
-
-</td><td width="50%">
-
-The :attribute may not start with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-gte.array
-
-</td><td width="50%">
-
-The :attribute must have :value items or more.
-
-</td></tr>
 <tr><td width="50%">
 
 lt.array
@@ -1787,60 +1751,6 @@ lt.file
 </td><td width="50%">
 
 The :attribute must be less than :value kilobytes.
-
-</td></tr>
-<tr><td width="50%">
-
-lt.numeric
-
-</td><td width="50%">
-
-The :attribute must be less than :value.
-
-</td></tr>
-<tr><td width="50%">
-
-lt.string
-
-</td><td width="50%">
-
-The :attribute must be less than :value characters.
-
-</td></tr>
-<tr><td width="50%">
-
-lte.array
-
-</td><td width="50%">
-
-The :attribute must not have more than :value items.
-
-</td></tr>
-<tr><td width="50%">
-
-password.uncompromised
-
-</td><td width="50%">
-
-The given :attribute has appeared in a data leak. Please choose a different :attribute.
-
-</td></tr>
-<tr><td width="50%">
-
-prohibits
-
-</td><td width="50%">
-
-The :attribute field prohibits :other from being present.
-
-</td></tr>
-<tr><td width="50%">
-
-required_array_keys
-
-</td><td width="50%">
-
-The :attribute field must contain entries for: :values.
 
 </td></tr>
 </table>

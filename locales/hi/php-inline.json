@@ -21,7 +21,7 @@
     "date_equals": "यह :date के बराबर तारीख होनी चाहिए ।",
     "date_format": "यह प्रारूप :format से मेल नहीं खाता है ।",
     "declined": "This value must be declined.",
-    "declined_if": ":Attribute को ज़रूर अस्वीकार किया जाना चाहिए जब :other :value हो ।",
+    "declined_if": "इस मान को ज़रूर अस्वीकार किया जाना चाहिए जब :other :value हो ।",
     "different": "यह मान :other से अलग होना चाहिए ।",
     "digits": "यह :digits अंकों का होना चाहिए ।",
     "digits_between": "यह :min और :max अंकों के बीच होना चाहिए ।",

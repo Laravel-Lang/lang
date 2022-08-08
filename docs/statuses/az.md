@@ -4,12 +4,12 @@ editLink: false
 
 # az
 
-##### All missed: 74
+##### All missed: 70
 
 
 ### json
 
-##### Missing: 73
+##### Missing: 70
 
 <table width="100%">
 <tr><td width="50%">
@@ -140,15 +140,6 @@ Fiji
 </td></tr>
 <tr><td width="50%">
 
-From
-
-</td><td width="50%">
-
-From
-
-</td></tr>
-<tr><td width="50%">
-
 Gibraltar
 
 </td><td width="50%">
@@ -590,29 +581,11 @@ Tanzania
 </td></tr>
 <tr><td width="50%">
 
-The action was executed successfully.
-
-</td><td width="50%">
-
-The action was executed successfully.
-
-</td></tr>
-<tr><td width="50%">
-
 Timor-Leste
 
 </td><td width="50%">
 
 Timor-Leste
-
-</td></tr>
-<tr><td width="50%">
-
-To
-
-</td><td width="50%">
-
-To
 
 </td></tr>
 <tr><td width="50%">
@@ -667,26 +640,6 @@ Yearly
 </td><td width="50%">
 
 Yearly
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php
-
-##### Missing: 1
-
-<table width="100%">
-<tr><td width="50%">
-
-doesnt_end_with
-
-</td><td width="50%">
-
-The :attribute may not end with one of the following: :values.
 
 </td></tr>
 </table>

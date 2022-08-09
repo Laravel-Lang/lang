@@ -4,7 +4,7 @@ editLink: false
 
 # hi
 
-##### All missed: 191
+##### All missed: 189
 
 
 ### json-inline
@@ -1722,35 +1722,6 @@ Zip / Postal Code
 </td><td width="50%">
 
 Åland Islands
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php
-
-##### Missing: 2
-
-<table width="100%">
-<tr><td width="50%">
-
-lt.array
-
-</td><td width="50%">
-
-The :attribute must have less than :value items.
-
-</td></tr>
-<tr><td width="50%">
-
-lt.file
-
-</td><td width="50%">
-
-The :attribute must be less than :value kilobytes.
 
 </td></tr>
 </table>

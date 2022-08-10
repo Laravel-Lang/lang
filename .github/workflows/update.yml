@@ -76,7 +76,7 @@ jobs:
                 run: |
                     IS_DIRTY=1
 
-                    { git add . && git commit -a -m "Update CHANGELOG 🧾"; } || IS_DIRTY=0
+                    { git add . && git commit -a -m "🧾 Update CHANGELOG"; } || IS_DIRTY=0
 
                     echo ::set-output name=is_dirty::${IS_DIRTY}
 

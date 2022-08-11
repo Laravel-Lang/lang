@@ -89,7 +89,7 @@
     "prohibited_if": ":Attributeフィールドは、:otherが:valueの場合は禁止されています。",
     "prohibited_unless": ":Attributeフィールドは、:otherが:valuesでない限り禁止されています。",
     "prohibits": ":Attribute フィールドは、:other が存在することを禁止します。",
-    "regex": ":Attributeには、有効な正規表現を指定してください。",
+    "regex": ":Attributeには、有効な形式を指定してください。",
     "relatable": "この:attributeきない場合に伴い資源です。",
     "required": ":Attributeは、必ず指定してください。",
     "required_array_keys": ":Attributeフィールドには、：valuesのエントリを含める必要があります。",

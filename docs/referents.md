@@ -133,7 +133,7 @@ pl
 
 </td><td width="50%">
 
-@Olsza
+@Olsza, @makowskid
 
 </td></tr>
 <tr><td width="50%">

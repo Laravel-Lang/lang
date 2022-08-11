@@ -23,6 +23,8 @@ class Plugin extends Provider
         Plugins\Fortify\Master::class,
         Plugins\Fortify\V1::class,
 
+        Plugins\Horizon\V5::class,
+
         Plugins\Jetstream\Master::class,
         Plugins\Jetstream\V1::class,
         Plugins\Jetstream\V2::class,

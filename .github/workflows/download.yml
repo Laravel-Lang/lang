@@ -182,6 +182,21 @@ jobs:
 
                     echo ::set-output name=is_dirty::${IS_DIRTY}
 
+
+            -   name: Download Horizon
+                id: download_horizon
+                if: success()
+                run: |
+                    IS_DIRTY=1
+
+                    vendor/bin/lang download --url=https://github.com/laravel/horizon/archive/refs/heads/5.x.zip --project=horizon --ver=5.x --copy=lang --copy=resources/lang
+
+                    codestyle fix
+
+                    { git add . && git commit -a -m "🗝️ Updated Laravel Horizon"; } || IS_DIRTY=0
+
+                    echo ::set-output name=is_dirty::${IS_DIRTY}
+
             -   name: Push changes
                 uses: ad-m/github-push-action@master
                 if: |
@@ -193,7 +208,8 @@ jobs:
                     steps.download_cashier_stripe.outputs.is_dirty == 1 ||
                     steps.download_fortify.outputs.is_dirty == 1 ||
                     steps.download_ui.outputs.is_dirty == 1 ||
-                    steps.download_nova_log_viewer.outputs.is_dirty == 1
+                    steps.download_nova_log_viewer.outputs.is_dirty == 1 ||
+                    steps.download_horizon.outputs.is_dirty == 1
                     )
                 with:
                     github_token: ${{ secrets.COMPOSER_TOKEN }}

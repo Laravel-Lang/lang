@@ -46,6 +46,8 @@ class Plugin extends Provider
         Plugins\Spark\Paddle::class,
         Plugins\Spark\Stripe::class,
 
+        Plugins\Telescope\V4::class,
+
         Plugins\UI\Master::class,
         Plugins\UI\V1::class,
         Plugins\UI\V2::class,

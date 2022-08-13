@@ -627,7 +627,7 @@
     "The :resource was restored!": ":Resourceが復元されました。",
     "The :resource was updated!": ":Resourceが更新されました。",
     "The action ran successfully!": "アクションは成功しました。",
-    "The action was executed successfully.": "The action was executed successfully.",
+    "The action was executed successfully.": "アクションの実行に成功しました。",
     "The file was deleted!": "ファイルが削除されました。",
     "The given :attribute has appeared in a data leak. Please choose a different :attribute.": ":Attributeは情報漏洩した可能性があります。別の:attributeを選んでください。",
     "The government won't let us show you what's behind these doors": "政府はこれらのドアの背後にあるものをお見せさせません",

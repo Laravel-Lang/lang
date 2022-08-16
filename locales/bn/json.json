@@ -638,6 +638,7 @@
     "The provided password does not match your current password.": "প্রদত্ত পাসওয়ার্ড আপনার বর্তমান পাসওয়ার্ড মেলে না ।",
     "The provided password was incorrect.": "প্রদত্ত পাসওয়ার্ড ভুল ছিল ।",
     "The provided two factor authentication code was invalid.": "প্রদত্ত দুটি ফ্যাক্টর প্রমাণীকরণ কোড অবৈধ ছিল ।",
+    "The provided two factor recovery code was invalid.": "The provided two factor recovery code was invalid.",
     "The provided VAT number is invalid.": "প্রদত্ত ভ্যাট নম্বরটি অবৈধ ৷",
     "The receipt emails must be valid email addresses.": "রসিদ ই-মেইল বৈধ ইমেইল ঠিকানা হতে হবে ৷",
     "The resource was attached!": "সম্পদ সংযুক্ত ছিল!",

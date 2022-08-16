@@ -638,6 +638,7 @@
     "The provided password does not match your current password.": "Sniegtā parole neatbilst jūsu pašreizējai Parolei.",
     "The provided password was incorrect.": "Sniegtā parole bija nepareiza.",
     "The provided two factor authentication code was invalid.": "Sniegtais divu faktoru autentifikācijas kods bija nederīgs.",
+    "The provided two factor recovery code was invalid.": "The provided two factor recovery code was invalid.",
     "The provided VAT number is invalid.": "The provided VAT number is invalid.",
     "The receipt emails must be valid email addresses.": "The receipt emails must be valid email addresses.",
     "The resource was attached!": "The resource was attached!",

@@ -638,6 +638,7 @@
     "The provided password does not match your current password.": "Предоставената парола не съответства на текущата ви парола.",
     "The provided password was incorrect.": "Предоставената парола е грешна.",
     "The provided two factor authentication code was invalid.": "Предоставеният код за двуфакторно удостоверяване е невалиден.",
+    "The provided two factor recovery code was invalid.": "The provided two factor recovery code was invalid.",
     "The provided VAT number is invalid.": "Предоставеният ДДС номер е невалиден.",
     "The receipt emails must be valid email addresses.": "Имейлите на получателите трябва да са валидни.",
     "The resource was attached!": "The resource was attached!",

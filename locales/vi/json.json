@@ -638,6 +638,7 @@
     "The provided password does not match your current password.": "Mật khẩu vừa nhập không khớp với mật khẩu hiện tại.",
     "The provided password was incorrect.": "Mật khẩu vừa nhập không chính xác.",
     "The provided two factor authentication code was invalid.": "Mã xác minh hai yếu tố vừa nhập không chính xác.",
+    "The provided two factor recovery code was invalid.": "The provided two factor recovery code was invalid.",
     "The provided VAT number is invalid.": "Mã số VAT mà bạn cung cấp không hợp lệ.",
     "The receipt emails must be valid email addresses.": "Các email xác nhận phải là địa chỉ email hợp lệ.",
     "The resource was attached!": "Nguồn tài nguyên đã được đính kèm!",

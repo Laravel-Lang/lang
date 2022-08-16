@@ -638,6 +638,7 @@
     "The provided password does not match your current password.": "Parola introdusă nu se potrivește cu cea curentă.",
     "The provided password was incorrect.": "Parola introdusă a fost incorectă.",
     "The provided two factor authentication code was invalid.": "Codul de autentificare cu doi factori furnizat a fost nevalid.",
+    "The provided two factor recovery code was invalid.": "The provided two factor recovery code was invalid.",
     "The provided VAT number is invalid.": "Numărul de TVA furnizat este invalid.",
     "The receipt emails must be valid email addresses.": "E-mail-urile de chitanță trebuie să fie adrese de e-mail valide.",
     "The resource was attached!": "The resource was attached!",

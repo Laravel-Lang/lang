@@ -638,6 +638,7 @@
     "The provided password does not match your current password.": "ලබා මුරපදය නොගැලපේ ඔබේ වත්මන් මුරපදය.",
     "The provided password was incorrect.": "ලබා මුරපදය වැරදි විය.",
     "The provided two factor authentication code was invalid.": "ලබා දෙකක් සාධකය තහවුරු කරගැනීමේ කේතය වලංගු නොවේ.",
+    "The provided two factor recovery code was invalid.": "The provided two factor recovery code was invalid.",
     "The provided VAT number is invalid.": "ලබාදුන් VAT අංකය වලංගු නැත.",
     "The receipt emails must be valid email addresses.": "ලදුපත් විද්‍යුත් ලිපිනය වලංගු විද්‍යුත් ලිපිනයක් විය යුතුය.",
     "The resource was attached!": "The resource was attached!",

@@ -638,6 +638,7 @@
     "The provided password does not match your current password.": "प्रदान केलेला संकेतशब्द आपल्या वर्तमान संकेतशब्दाशी जुळत नाही.",
     "The provided password was incorrect.": "प्रदान केलेला संकेतशब्द चुकीचा होता.",
     "The provided two factor authentication code was invalid.": "प्रदान दोन घटक प्रमाणीकरण कोड अवैध होता.",
+    "The provided two factor recovery code was invalid.": "The provided two factor recovery code was invalid.",
     "The provided VAT number is invalid.": "प्रदान केलेला व्हॅट क्रमांक अवैध आहे.",
     "The receipt emails must be valid email addresses.": "पावती ईमेल वैध ईमेल पत्ते असणे आवश्यक आहे.",
     "The resource was attached!": "The resource was attached!",

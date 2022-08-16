@@ -638,6 +638,7 @@
     "The provided password does not match your current password.": "Прадстаўлены пароль не адпавядае вашага бягучаму пароля.",
     "The provided password was incorrect.": "Прадстаўлены пароль быў няслушным.",
     "The provided two factor authentication code was invalid.": "Прадстаўлены код двухфакторную аўтэнтыфікацыі быў несапраўдны.",
+    "The provided two factor recovery code was invalid.": "The provided two factor recovery code was invalid.",
     "The provided VAT number is invalid.": "The provided VAT number is invalid.",
     "The receipt emails must be valid email addresses.": "The receipt emails must be valid email addresses.",
     "The resource was attached!": "The resource was attached!",

@@ -638,6 +638,7 @@
     "The provided password does not match your current password.": "كلمة المرور التي قمت بإدخالها لا تطابق كلمة المرور الحالية.",
     "The provided password was incorrect.": "كلمة المرور التي قمت بإدخالها غير صحيحة.",
     "The provided two factor authentication code was invalid.": "كود المصادقة الثنائية الذي قمت بإدخاله غير صحيح.",
+    "The provided two factor recovery code was invalid.": "The provided two factor recovery code was invalid.",
     "The provided VAT number is invalid.": "رقم ضريبة القيمة المضافة الذي قمت بإدخاله غير صالح.",
     "The receipt emails must be valid email addresses.": "يجب أن تكون صيغة عناوين البريد الإلكتروني صالحة .",
     "The resource was attached!": "تم إرفاق المصدر!",

@@ -638,6 +638,7 @@
     "The provided password does not match your current password.": "A senha informada não corresponde à sua senha atual.",
     "The provided password was incorrect.": "A senha informada está incorreta.",
     "The provided two factor authentication code was invalid.": "O código de autenticação em dois fatores informado não é válido.",
+    "The provided two factor recovery code was invalid.": "The provided two factor recovery code was invalid.",
     "The provided VAT number is invalid.": "O número de VAT fornecido é inválido.",
     "The receipt emails must be valid email addresses.": "Os e-mails de recibo devem ser endereços de e-mail válidos.",
     "The resource was attached!": "O recurso foi anexado!",

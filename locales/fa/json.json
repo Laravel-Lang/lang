@@ -638,6 +638,7 @@
     "The provided password does not match your current password.": "رمز ورود ارائه شده با رمز عبور فعلی شما مطابقت ندارد.",
     "The provided password was incorrect.": "رمز ورود ارائه شده نادرست بود.",
     "The provided two factor authentication code was invalid.": "کد تأیید اعتبارسنجی دو مرحله ای نامعتبر است.",
+    "The provided two factor recovery code was invalid.": "The provided two factor recovery code was invalid.",
     "The provided VAT number is invalid.": "شماره مالیاتی وارد شده اشتباه است.",
     "The receipt emails must be valid email addresses.": "ایمیل وارد شده باید یک ایمیل معتبر باشد.",
     "The resource was attached!": "منبع پیوست شد!",

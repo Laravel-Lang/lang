@@ -638,6 +638,7 @@
     "The provided password does not match your current password.": "パスワードが現在のパスワードと一致しません。",
     "The provided password was incorrect.": "パスワードが違います。",
     "The provided two factor authentication code was invalid.": "提供された二要素認証コードが無効です。",
+    "The provided two factor recovery code was invalid.": "The provided two factor recovery code was invalid.",
     "The provided VAT number is invalid.": "VAT番号が無効です。",
     "The receipt emails must be valid email addresses.": "有効なメールアドレスを入力してください。",
     "The resource was attached!": "リソースが添付されました！",

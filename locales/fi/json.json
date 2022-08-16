@@ -638,6 +638,7 @@
     "The provided password does not match your current password.": "Annettu salasana ei vastaa nykyistä salasanaasi.",
     "The provided password was incorrect.": "Annettu salasana oli virheellinen.",
     "The provided two factor authentication code was invalid.": "Annettu kaksivaiheisen tunnistatumisen tunnistuskoodi oli virheellinen.",
+    "The provided two factor recovery code was invalid.": "The provided two factor recovery code was invalid.",
     "The provided VAT number is invalid.": "Annettu arvonlisäverotunniste on virheellinen.",
     "The receipt emails must be valid email addresses.": "Kuitti sähköpostiosoitteiden on oltava oikeellisia.",
     "The resource was attached!": "The resource was attached!",

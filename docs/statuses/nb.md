@@ -4,7 +4,7 @@ editLink: false
 
 # nb
 
-##### All missed: 47
+##### All missed: 48
 
 
 ### json-inline
@@ -146,7 +146,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 26
+##### Missing: 27
 
 <table width="100%">
 <tr><td width="50%">
@@ -363,6 +363,15 @@ The action was executed successfully.
 </td><td width="50%">
 
 The action was executed successfully.
+
+</td></tr>
+<tr><td width="50%">
+
+The provided two factor recovery code was invalid.
+
+</td><td width="50%">
+
+The provided two factor recovery code was invalid.
 
 </td></tr>
 <tr><td width="50%">

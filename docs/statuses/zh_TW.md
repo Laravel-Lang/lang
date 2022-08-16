@@ -4,7 +4,7 @@ editLink: false
 
 # zh_TW
 
-##### All missed: 43
+##### All missed: 44
 
 
 ### json-inline
@@ -146,7 +146,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 22
+##### Missing: 23
 
 <table width="100%">
 <tr><td width="50%">
@@ -327,6 +327,15 @@ The action was executed successfully.
 </td><td width="50%">
 
 The action was executed successfully.
+
+</td></tr>
+<tr><td width="50%">
+
+The provided two factor recovery code was invalid.
+
+</td><td width="50%">
+
+The provided two factor recovery code was invalid.
 
 </td></tr>
 <tr><td width="50%">

@@ -4,12 +4,12 @@ editLink: false
 
 # nl
 
-##### All missed: 13
+##### All missed: 14
 
 
 ### json
 
-##### Missing: 12
+##### Missing: 13
 
 <table width="100%">
 <tr><td width="50%">
@@ -109,6 +109,15 @@ The action was executed successfully.
 </td><td width="50%">
 
 The action was executed successfully.
+
+</td></tr>
+<tr><td width="50%">
+
+The provided two factor recovery code was invalid.
+
+</td><td width="50%">
+
+The provided two factor recovery code was invalid.
 
 </td></tr>
 <tr><td width="50%">

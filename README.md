@@ -47,4 +47,4 @@ See the [documentation](https://laravel-lang.com) for detailed installation and 
 
 [link_license]:         LICENSE.md
 
-[link_packagist]:       https://packagist.org/packages/laravel-lang/publisher
+[link_packagist]:       https://packagist.org/packages/laravel-lang/lang

@@ -1,6 +1,6 @@
 # Laravel Lang
 
-![laravel lang localizations](https://preview.dragon-code.pro/laravel-lang/localizations.svg?brand=laravel)
+![laravel lang localizations](https://preview.dragon-code.pro/laravel-lang/localizations.svg?brand=laravel&invert=1)
 
 [![Stable Version][badge_stable]][link_packagist]
 [![Unstable Version][badge_unstable]][link_packagist]

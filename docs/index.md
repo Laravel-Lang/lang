@@ -25,4 +25,4 @@ In this repository, you can find the lang files for the [Laravel Framework](http
 
 [link_license]:         https://github.com/Laravel-Lang/lang/blob/main/LICENSE.md
 
-[link_packagist]:       https://packagist.org/packages/laravel-lang/publisher
+[link_packagist]:       https://packagist.org/packages/laravel-lang/lang

@@ -156,6 +156,15 @@ pt_BR
 </td></tr>
 <tr><td width="50%">
 
+ro
+
+</td><td width="50%">
+
+@Van4kk
+
+</td></tr>
+<tr><td width="50%">
+
 ru
 
 </td><td width="50%">

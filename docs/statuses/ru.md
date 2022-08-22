@@ -4,7 +4,33 @@ editLink: false
 
 # ru
 
-##### All missed: 0
+##### All missed: 2
 
-All lines are translated 😊
+
+### php
+
+##### Missing: 2
+
+<table width="100%">
+<tr><td width="50%">
+
+max_digits
+
+</td><td width="50%">
+
+The :attribute must not have more than :max digits.
+
+</td></tr>
+<tr><td width="50%">
+
+min_digits
+
+</td><td width="50%">
+
+The :attribute must have at least :min digits.
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
 

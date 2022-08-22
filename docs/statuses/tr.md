@@ -4,7 +4,7 @@ editLink: false
 
 # tr
 
-##### All missed: 12
+##### All missed: 14
 
 
 ### json
@@ -118,6 +118,35 @@ The provided two factor recovery code was invalid.
 </td><td width="50%">
 
 The provided two factor recovery code was invalid.
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php
+
+##### Missing: 2
+
+<table width="100%">
+<tr><td width="50%">
+
+max_digits
+
+</td><td width="50%">
+
+The :attribute must not have more than :max digits.
+
+</td></tr>
+<tr><td width="50%">
+
+min_digits
+
+</td><td width="50%">
+
+The :attribute must have at least :min digits.
 
 </td></tr>
 </table>

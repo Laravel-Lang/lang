@@ -4,7 +4,7 @@ editLink: false
 
 # is
 
-##### All missed: 210
+##### All missed: 212
 
 
 ### json-inline
@@ -1768,7 +1768,7 @@ Zip / Postal Code
 
 ### php
 
-##### Missing: 17
+##### Missing: 19
 
 <table width="100%">
 <tr><td width="50%">
@@ -1850,6 +1850,24 @@ mac_address
 </td><td width="50%">
 
 The :attribute must be a valid MAC address.
+
+</td></tr>
+<tr><td width="50%">
+
+max_digits
+
+</td><td width="50%">
+
+The :attribute must not have more than :max digits.
+
+</td></tr>
+<tr><td width="50%">
+
+min_digits
+
+</td><td width="50%">
+
+The :attribute must have at least :min digits.
 
 </td></tr>
 <tr><td width="50%">

@@ -4,7 +4,7 @@ editLink: false
 
 # nl
 
-##### All missed: 14
+##### All missed: 16
 
 
 ### json
@@ -137,7 +137,7 @@ To
 
 ### php
 
-##### Missing: 1
+##### Missing: 3
 
 <table width="100%">
 <tr><td width="50%">
@@ -147,6 +147,24 @@ doesnt_end_with
 </td><td width="50%">
 
 The :attribute may not end with one of the following: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+max_digits
+
+</td><td width="50%">
+
+The :attribute must not have more than :max digits.
+
+</td></tr>
+<tr><td width="50%">
+
+min_digits
+
+</td><td width="50%">
+
+The :attribute must have at least :min digits.
 
 </td></tr>
 </table>

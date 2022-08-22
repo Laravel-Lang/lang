@@ -4,7 +4,7 @@ editLink: false
 
 # ko
 
-##### All missed: 78
+##### All missed: 80
 
 
 ### json-inline
@@ -661,7 +661,7 @@ Your email address is unverified.
 
 ### php
 
-##### Missing: 8
+##### Missing: 10
 
 <table width="100%">
 <tr><td width="50%">
@@ -680,6 +680,24 @@ doesnt_start_with
 </td><td width="50%">
 
 The :attribute may not start with one of the following: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+max_digits
+
+</td><td width="50%">
+
+The :attribute must not have more than :max digits.
+
+</td></tr>
+<tr><td width="50%">
+
+min_digits
+
+</td><td width="50%">
+
+The :attribute must have at least :min digits.
 
 </td></tr>
 <tr><td width="50%">

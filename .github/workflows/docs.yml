@@ -5,6 +5,9 @@ on:
     repository_dispatch:
         types:
             - generate-docs
+    push:
+        branches:
+            - main
 
 permissions: write-all
 

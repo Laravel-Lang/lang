@@ -638,6 +638,7 @@
     "The provided password does not match your current password.": "Vnešeno geslo se ne ujema z vašim trenutnim geslom.",
     "The provided password was incorrect.": "Vnešeno geslo ni pravilno.",
     "The provided two factor authentication code was invalid.": "Vnešena koda za dvofazno avtorizacijo ni pravilna.",
+    "The provided two factor recovery code was invalid.": "The provided two factor recovery code was invalid.",
     "The provided VAT number is invalid.": "Vnešena številka DDV ni pravilna.",
     "The receipt emails must be valid email addresses.": "Email naslovi prejemnikov morajo biti veljavni.",
     "The resource was attached!": "The resource was attached!",

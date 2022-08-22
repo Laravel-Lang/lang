@@ -638,6 +638,7 @@
     "The provided password does not match your current password.": "Belirtilen parola mevcut parolanızla eşleşmiyor.",
     "The provided password was incorrect.": "Belirtilen parola yanlış.",
     "The provided two factor authentication code was invalid.": "Belirtilen iki faktörlü kimlik doğrulama kodu geçersiz.",
+    "The provided two factor recovery code was invalid.": "The provided two factor recovery code was invalid.",
     "The provided VAT number is invalid.": "Girilen vergi numarası geçersiz.",
     "The receipt emails must be valid email addresses.": "Fatura E-posta adresleri geçerli birer e-posta adresi olmalıdır.",
     "The resource was attached!": "Kaynak iliştirildi!",

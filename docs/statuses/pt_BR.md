@@ -4,39 +4,21 @@ editLink: false
 
 # pt_BR
 
-##### All missed: 3
+##### All missed: 1
 
 
 ### json
 
-##### Missing: 3
+##### Missing: 1
 
 <table width="100%">
 <tr><td width="50%">
 
-From
+The provided two factor recovery code was invalid.
 
 </td><td width="50%">
 
-From
-
-</td></tr>
-<tr><td width="50%">
-
-The action was executed successfully.
-
-</td><td width="50%">
-
-The action was executed successfully.
-
-</td></tr>
-<tr><td width="50%">
-
-To
-
-</td><td width="50%">
-
-To
+The provided two factor recovery code was invalid.
 
 </td></tr>
 </table>

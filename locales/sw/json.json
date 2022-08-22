@@ -638,6 +638,7 @@
     "The provided password does not match your current password.": "Nenosiri ulilopewa halilingani na nenosiri lako la sasa.",
     "The provided password was incorrect.": "Nenosiri lililotolewa halikuwa sahihi.",
     "The provided two factor authentication code was invalid.": "Msimbo uliotolewa wa uthibitishaji wa sababu mbili ulikuwa batili.",
+    "The provided two factor recovery code was invalid.": "Msimbo wa urejeshaji wa vipengele viwili uliotolewa ulikuwa batili.",
     "The provided VAT number is invalid.": "Nambari ya VAT iliyotolewa si sahihi.",
     "The receipt emails must be valid email addresses.": "Barua pepe za risiti lazima ziwe barua pepe halali.",
     "The resource was attached!": "Rasilimali iliambatanishwa!",

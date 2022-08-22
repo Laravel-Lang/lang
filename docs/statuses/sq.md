@@ -4,7 +4,7 @@ editLink: false
 
 # sq
 
-##### All missed: 294
+##### All missed: 295
 
 
 ### json-inline
@@ -146,7 +146,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 265
+##### Missing: 266
 
 <table width="100%">
 <tr><td width="50%">
@@ -2019,6 +2019,15 @@ The provided coupon code is invalid.
 </td><td width="50%">
 
 The provided coupon code is invalid.
+
+</td></tr>
+<tr><td width="50%">
+
+The provided two factor recovery code was invalid.
+
+</td><td width="50%">
+
+The provided two factor recovery code was invalid.
 
 </td></tr>
 <tr><td width="50%">

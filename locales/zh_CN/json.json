@@ -638,6 +638,7 @@
     "The provided password does not match your current password.": "当前密码不正确",
     "The provided password was incorrect.": "密码错误",
     "The provided two factor authentication code was invalid.": "双因素认证代码错误",
+    "The provided two factor recovery code was invalid.": "The provided two factor recovery code was invalid.",
     "The provided VAT number is invalid.": "提供的增值税号无效。",
     "The receipt emails must be valid email addresses.": "收据电子邮件必须是有效的电子邮件地址。",
     "The resource was attached!": "资源已添加！",

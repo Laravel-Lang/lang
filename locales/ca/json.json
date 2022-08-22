@@ -638,6 +638,7 @@
     "The provided password does not match your current password.": "La contrasenya que heu enviat no coincideix amb la vostra contrasenya actual.",
     "The provided password was incorrect.": "La contrasenya que heu enviat no era correcta.",
     "The provided two factor authentication code was invalid.": "Les dues factor codi d'autenticació, no era vàlida.",
+    "The provided two factor recovery code was invalid.": "The provided two factor recovery code was invalid.",
     "The provided VAT number is invalid.": "El número VAT que has enviat no és vàlid.",
     "The receipt emails must be valid email addresses.": "Els correus electrònics de recepció han de ser adreces vàlides.",
     "The resource was attached!": "El recurs s'ha adjuntat!",

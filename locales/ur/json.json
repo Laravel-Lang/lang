@@ -638,6 +638,7 @@
     "The provided password does not match your current password.": "فراہم کردہ پاس ورڈ سے مماثل نہیں ہے آپ کے موجودہ پاس ورڈ.",
     "The provided password was incorrect.": "فراہم کردہ پاس ورڈ غلط تھا.",
     "The provided two factor authentication code was invalid.": "فراہم کردہ دو عنصر کی تصدیق کے کوڈ باطل بھى كيا ہے.",
+    "The provided two factor recovery code was invalid.": "The provided two factor recovery code was invalid.",
     "The provided VAT number is invalid.": "The provided VAT number is invalid.",
     "The receipt emails must be valid email addresses.": "The receipt emails must be valid email addresses.",
     "The resource was attached!": "The resource was attached!",

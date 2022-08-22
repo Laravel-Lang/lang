@@ -4,12 +4,12 @@ editLink: false
 
 # az
 
-##### All missed: 70
+##### All missed: 71
 
 
 ### json
 
-##### Missing: 70
+##### Missing: 71
 
 <table width="100%">
 <tr><td width="50%">
@@ -577,6 +577,15 @@ Tanzania
 </td><td width="50%">
 
 Tanzania
+
+</td></tr>
+<tr><td width="50%">
+
+The provided two factor recovery code was invalid.
+
+</td><td width="50%">
+
+The provided two factor recovery code was invalid.
 
 </td></tr>
 <tr><td width="50%">

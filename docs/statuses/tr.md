@@ -4,12 +4,12 @@ editLink: false
 
 # tr
 
-##### All missed: 11
+##### All missed: 12
 
 
 ### json
 
-##### Missing: 11
+##### Missing: 12
 
 <table width="100%">
 <tr><td width="50%">
@@ -109,6 +109,15 @@ Stop polling
 </td><td width="50%">
 
 Stop polling
+
+</td></tr>
+<tr><td width="50%">
+
+The provided two factor recovery code was invalid.
+
+</td><td width="50%">
+
+The provided two factor recovery code was invalid.
 
 </td></tr>
 </table>

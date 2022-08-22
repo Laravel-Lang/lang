@@ -638,6 +638,7 @@
     "The provided password does not match your current password.": "Verilmiş parol uyğun gəlmir sizin cari password.",
     "The provided password was incorrect.": "Verilən parol səhv idi.",
     "The provided two factor authentication code was invalid.": "Verilmiş iki faktorlu autentifikasiya Kodu etibarsızdır.",
+    "The provided two factor recovery code was invalid.": "The provided two factor recovery code was invalid.",
     "The provided VAT number is invalid.": "Təqdim olunan ƏDV nömrəsi etibarsızdır.",
     "The receipt emails must be valid email addresses.": "Qəbz e-poçtları etibarlı e-poçt ünvanları olmalıdır.",
     "The resource was attached!": "Resurs əlavə edildi!",

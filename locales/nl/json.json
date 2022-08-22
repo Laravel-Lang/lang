@@ -638,6 +638,7 @@
     "The provided password does not match your current password.": "Het opgegeven wachtwoord komt niet overeen met je huidige wachtwoord.",
     "The provided password was incorrect.": "Het opgegeven wachtwoord is onjuist.",
     "The provided two factor authentication code was invalid.": "De opgegeven tweestapsverificatie was ongeldig.",
+    "The provided two factor recovery code was invalid.": "The provided two factor recovery code was invalid.",
     "The provided VAT number is invalid.": "Het opgegeven BTW-nummer is niet geldig.",
     "The receipt emails must be valid email addresses.": "De factuur-e-mails moeten geldige e-mailadressen zijn.",
     "The resource was attached!": "De bron is gekoppeld!",

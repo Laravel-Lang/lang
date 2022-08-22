@@ -4,7 +4,7 @@ editLink: false
 
 # hu
 
-##### All missed: 275
+##### All missed: 280
 
 
 ### json-inline
@@ -2343,6 +2343,62 @@ Zip / Postal Code
 </td><td width="50%">
 
 Åland Islands
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php-inline
+
+##### Missing: 5
+
+<table width="100%">
+<tr><td width="50%">
+
+max_digits
+
+</td><td width="50%">
+
+This field must not have more than :max digits.
+
+</td></tr>
+<tr><td width="50%">
+
+min_digits
+
+</td><td width="50%">
+
+This field must have at least :min digits.
+
+</td></tr>
+<tr><td width="50%">
+
+password.uncompromised
+
+</td><td width="50%">
+
+The given field has appeared in a data leak. Please choose a different field.
+
+</td></tr>
+<tr><td width="50%">
+
+prohibits
+
+</td><td width="50%">
+
+This field prohibits :other from being present.
+
+</td></tr>
+<tr><td width="50%">
+
+required_array_keys
+
+</td><td width="50%">
+
+This field must contain entries for: :values.
 
 </td></tr>
 </table>

@@ -4,7 +4,7 @@ editLink: false
 
 # tk
 
-##### All missed: 821
+##### All missed: 854
 
 
 ### json-inline
@@ -6917,6 +6917,314 @@ Zip / Postal Code
 </td><td width="50%">
 
 Åland Islands
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php-inline
+
+##### Missing: 33
+
+<table width="100%">
+<tr><td width="50%">
+
+accepted
+
+</td><td width="50%">
+
+This field must be accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+accepted_if
+
+</td><td width="50%">
+
+This field must be accepted when :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+alpha
+
+</td><td width="50%">
+
+This field must only contain letters.
+
+</td></tr>
+<tr><td width="50%">
+
+alpha_dash
+
+</td><td width="50%">
+
+This field must only contain letters, numbers, dashes and underscores.
+
+</td></tr>
+<tr><td width="50%">
+
+alpha_num
+
+</td><td width="50%">
+
+This field must only contain letters and numbers.
+
+</td></tr>
+<tr><td width="50%">
+
+array
+
+</td><td width="50%">
+
+This field must be an array.
+
+</td></tr>
+<tr><td width="50%">
+
+attached
+
+</td><td width="50%">
+
+This field is already attached.
+
+</td></tr>
+<tr><td width="50%">
+
+boolean
+
+</td><td width="50%">
+
+This field must be true or false.
+
+</td></tr>
+<tr><td width="50%">
+
+distinct
+
+</td><td width="50%">
+
+This field has a duplicate value.
+
+</td></tr>
+<tr><td width="50%">
+
+doesnt_end_with
+
+</td><td width="50%">
+
+This field may not end with one of the following: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+doesnt_start_with
+
+</td><td width="50%">
+
+This field may not start with one of the following: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+filled
+
+</td><td width="50%">
+
+This field must have a value.
+
+</td></tr>
+<tr><td width="50%">
+
+max_digits
+
+</td><td width="50%">
+
+This field must not have more than :max digits.
+
+</td></tr>
+<tr><td width="50%">
+
+min_digits
+
+</td><td width="50%">
+
+This field must have at least :min digits.
+
+</td></tr>
+<tr><td width="50%">
+
+password.letters
+
+</td><td width="50%">
+
+This field must contain at least one letter.
+
+</td></tr>
+<tr><td width="50%">
+
+password.mixed
+
+</td><td width="50%">
+
+This field must contain at least one uppercase and one lowercase letter.
+
+</td></tr>
+<tr><td width="50%">
+
+password.numbers
+
+</td><td width="50%">
+
+This field must contain at least one number.
+
+</td></tr>
+<tr><td width="50%">
+
+password.symbols
+
+</td><td width="50%">
+
+This field must contain at least one symbol.
+
+</td></tr>
+<tr><td width="50%">
+
+password.uncompromised
+
+</td><td width="50%">
+
+The given field has appeared in a data leak. Please choose a different field.
+
+</td></tr>
+<tr><td width="50%">
+
+present
+
+</td><td width="50%">
+
+This field must be present.
+
+</td></tr>
+<tr><td width="50%">
+
+prohibited
+
+</td><td width="50%">
+
+This field is prohibited.
+
+</td></tr>
+<tr><td width="50%">
+
+prohibited_if
+
+</td><td width="50%">
+
+This field is prohibited when :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+prohibited_unless
+
+</td><td width="50%">
+
+This field is prohibited unless :other is in :values.
+
+</td></tr>
+<tr><td width="50%">
+
+prohibits
+
+</td><td width="50%">
+
+This field prohibits :other from being present.
+
+</td></tr>
+<tr><td width="50%">
+
+relatable
+
+</td><td width="50%">
+
+This field may not be associated with this resource.
+
+</td></tr>
+<tr><td width="50%">
+
+required
+
+</td><td width="50%">
+
+This field is required.
+
+</td></tr>
+<tr><td width="50%">
+
+required_array_keys
+
+</td><td width="50%">
+
+This field must contain entries for: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+required_if
+
+</td><td width="50%">
+
+This field is required when :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+required_unless
+
+</td><td width="50%">
+
+This field is required unless :other is in :values.
+
+</td></tr>
+<tr><td width="50%">
+
+required_with
+
+</td><td width="50%">
+
+This field is required when :values is present.
+
+</td></tr>
+<tr><td width="50%">
+
+required_with_all
+
+</td><td width="50%">
+
+This field is required when :values are present.
+
+</td></tr>
+<tr><td width="50%">
+
+required_without
+
+</td><td width="50%">
+
+This field is required when :values is not present.
+
+</td></tr>
+<tr><td width="50%">
+
+required_without_all
+
+</td><td width="50%">
+
+This field is required when none of :values are present.
 
 </td></tr>
 </table>

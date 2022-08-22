@@ -4,7 +4,7 @@ editLink: false
 
 # fr
 
-##### All missed: 29
+##### All missed: 33
 
 
 ### json-inline
@@ -255,6 +255,53 @@ To
 </td><td width="50%">
 
 To
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php-inline
+
+##### Missing: 4
+
+<table width="100%">
+<tr><td width="50%">
+
+doesnt_end_with
+
+</td><td width="50%">
+
+This field may not end with one of the following: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+doesnt_start_with
+
+</td><td width="50%">
+
+This field may not start with one of the following: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+max_digits
+
+</td><td width="50%">
+
+This field must not have more than :max digits.
+
+</td></tr>
+<tr><td width="50%">
+
+min_digits
+
+</td><td width="50%">
+
+This field must have at least :min digits.
 
 </td></tr>
 </table>

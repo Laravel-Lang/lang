@@ -4,7 +4,45 @@ editLink: false
 
 # vi
 
-##### All missed: 2
+##### All missed: 5
+
+
+### php-inline
+
+##### Missing: 3
+
+<table width="100%">
+<tr><td width="50%">
+
+doesnt_end_with
+
+</td><td width="50%">
+
+This field may not end with one of the following: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+max_digits
+
+</td><td width="50%">
+
+This field must not have more than :max digits.
+
+</td></tr>
+<tr><td width="50%">
+
+min_digits
+
+</td><td width="50%">
+
+This field must have at least :min digits.
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
 
 
 ### php

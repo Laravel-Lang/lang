@@ -12,6 +12,15 @@ editLink: false
 ##### Missing: 9
 
 <table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
 <tr><td width="50%">
 
 doesnt_end_with
@@ -104,6 +113,15 @@ The given field has appeared in a data leak. Please choose a different field.
 ##### Missing: 2
 
 <table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
 <tr><td width="50%">
 
 max_digits

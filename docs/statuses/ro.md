@@ -12,6 +12,15 @@ editLink: false
 ##### Missing: 234
 
 <table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
 <tr><td width="50%">
 
 A fresh verification link has been sent to your email address.
@@ -2129,6 +2138,15 @@ Zimbabwe
 ##### Missing: 12
 
 <table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
 <tr><td width="50%">
 
 accepted_if
@@ -2248,6 +2266,15 @@ This field must contain entries for: :values.
 ##### Missing: 9
 
 <table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
 <tr><td width="50%">
 
 doesnt_end_with

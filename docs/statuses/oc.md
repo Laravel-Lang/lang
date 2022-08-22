@@ -12,6 +12,15 @@ editLink: false
 ##### Missing: 14
 
 <table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
 <tr><td width="50%">
 
 The :attribute must be a valid role.
@@ -149,6 +158,15 @@ The given field has appeared in a data leak. Please choose a different field.
 ##### Missing: 752
 
 <table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
 <tr><td width="50%">
 
 30 Days
@@ -6930,6 +6948,15 @@ Zip / Postal Code
 ##### Missing: 17
 
 <table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
 <tr><td width="50%">
 
 accepted_if
@@ -7094,6 +7121,15 @@ This field must contain entries for: :values.
 ##### Missing: 23
 
 <table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
 <tr><td width="50%">
 
 accepted_if

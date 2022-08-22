@@ -12,6 +12,15 @@ editLink: false
 ##### Missing: 14
 
 <table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
 <tr><td width="50%">
 
 The :attribute must be a valid role.
@@ -149,6 +158,15 @@ The given field has appeared in a data leak. Please choose a different field.
 ##### Missing: 29
 
 <table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
 <tr><td width="50%">
 
 A new verification link has been sent to the email address you provided in your profile settings.
@@ -421,6 +439,15 @@ Your email address is unverified.
 ##### Missing: 9
 
 <table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
 <tr><td width="50%">
 
 doesnt_end_with
@@ -513,6 +540,15 @@ The given field has appeared in a data leak. Please choose a different field.
 ##### Missing: 9
 
 <table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
 <tr><td width="50%">
 
 doesnt_end_with

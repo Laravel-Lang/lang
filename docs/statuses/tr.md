@@ -12,6 +12,15 @@ editLink: false
 ##### Missing: 12
 
 <table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
 <tr><td width="50%">
 
 Log Viewer
@@ -131,6 +140,15 @@ The provided two factor recovery code was invalid.
 ##### Missing: 2
 
 <table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
 <tr><td width="50%">
 
 max_digits
@@ -160,6 +178,15 @@ This field must have at least :min digits.
 ##### Missing: 2
 
 <table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
 <tr><td width="50%">
 
 max_digits

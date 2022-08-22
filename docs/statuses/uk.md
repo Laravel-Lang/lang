@@ -12,6 +12,15 @@ editLink: false
 ##### Missing: 14
 
 <table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
 <tr><td width="50%">
 
 The :attribute must be a valid role.
@@ -149,6 +158,15 @@ The given field has appeared in a data leak. Please choose a different field.
 ##### Missing: 111
 
 <table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
 <tr><td width="50%">
 
 A fresh verification link has been sent to your email address.
@@ -1159,6 +1177,15 @@ You may cancel your subscription at any time. Once your subscription has been ca
 ##### Missing: 12
 
 <table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
 <tr><td width="50%">
 
 accepted_if
@@ -1278,6 +1305,15 @@ This field must contain entries for: :values.
 ##### Missing: 15
 
 <table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
 <tr><td width="50%">
 
 accepted_if

@@ -1,10 +1,11 @@
-const fs = require('fs')
-const path = require('path')
+import fs from 'fs'
+import path from 'path'
+import dotenv from 'dotenv'
 
-const { viteBundler, defaultTheme } = require('vuepress')
-const { docsearchPlugin } = require('@vuepress/plugin-docsearch')
+import { defaultTheme, viteBundler } from 'vuepress'
+import { docsearchPlugin } from '@vuepress/plugin-docsearch'
 
-require('dotenv').config()
+dotenv.config()
 
 const hostname = 'laravel-lang.com'
 

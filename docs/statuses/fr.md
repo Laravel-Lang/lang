@@ -4,7 +4,7 @@ editLink: false
 
 # fr
 
-##### All missed: 27
+##### All missed: 33
 
 
 ### json-inline
@@ -12,6 +12,15 @@ editLink: false
 ##### Missing: 14
 
 <table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
 <tr><td width="50%">
 
 The :attribute must be a valid role.
@@ -149,6 +158,15 @@ The given field has appeared in a data leak. Please choose a different field.
 ##### Missing: 12
 
 <table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
 <tr><td width="50%">
 
 From
@@ -263,11 +281,76 @@ To
 
 
 
-### php
+### php-inline
 
-##### Missing: 1
+##### Missing: 4
 
 <table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+doesnt_end_with
+
+</td><td width="50%">
+
+This field may not end with one of the following: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+doesnt_start_with
+
+</td><td width="50%">
+
+This field may not start with one of the following: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+max_digits
+
+</td><td width="50%">
+
+This field must not have more than :max digits.
+
+</td></tr>
+<tr><td width="50%">
+
+min_digits
+
+</td><td width="50%">
+
+This field must have at least :min digits.
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php
+
+##### Missing: 3
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
 <tr><td width="50%">
 
 doesnt_end_with
@@ -275,6 +358,24 @@ doesnt_end_with
 </td><td width="50%">
 
 The :attribute may not end with one of the following: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+max_digits
+
+</td><td width="50%">
+
+The :attribute must not have more than :max digits.
+
+</td></tr>
+<tr><td width="50%">
+
+min_digits
+
+</td><td width="50%">
+
+The :attribute must have at least :min digits.
 
 </td></tr>
 </table>

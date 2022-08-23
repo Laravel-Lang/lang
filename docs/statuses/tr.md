@@ -4,7 +4,7 @@ editLink: false
 
 # tr
 
-##### All missed: 12
+##### All missed: 16
 
 
 ### json
@@ -12,6 +12,15 @@ editLink: false
 ##### Missing: 12
 
 <table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
 <tr><td width="50%">
 
 Log Viewer
@@ -118,6 +127,82 @@ The provided two factor recovery code was invalid.
 </td><td width="50%">
 
 The provided two factor recovery code was invalid.
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php-inline
+
+##### Missing: 2
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+max_digits
+
+</td><td width="50%">
+
+This field must not have more than :max digits.
+
+</td></tr>
+<tr><td width="50%">
+
+min_digits
+
+</td><td width="50%">
+
+This field must have at least :min digits.
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php
+
+##### Missing: 2
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+max_digits
+
+</td><td width="50%">
+
+The :attribute must not have more than :max digits.
+
+</td></tr>
+<tr><td width="50%">
+
+min_digits
+
+</td><td width="50%">
+
+The :attribute must have at least :min digits.
 
 </td></tr>
 </table>

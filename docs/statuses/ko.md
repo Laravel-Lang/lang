@@ -4,7 +4,7 @@ editLink: false
 
 # ko
 
-##### All missed: 78
+##### All missed: 90
 
 
 ### json-inline
@@ -12,6 +12,15 @@ editLink: false
 ##### Missing: 14
 
 <table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
 <tr><td width="50%">
 
 The :attribute must be a valid role.
@@ -149,6 +158,15 @@ The given field has appeared in a data leak. Please choose a different field.
 ##### Missing: 56
 
 <table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
 <tr><td width="50%">
 
 A new verification link has been sent to the email address you provided in your profile settings.
@@ -659,11 +677,130 @@ Your email address is unverified.
 
 
 
-### php
+### php-inline
 
-##### Missing: 8
+##### Missing: 10
 
 <table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+doesnt_end_with
+
+</td><td width="50%">
+
+This field may not end with one of the following: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+doesnt_start_with
+
+</td><td width="50%">
+
+This field may not start with one of the following: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+max_digits
+
+</td><td width="50%">
+
+This field must not have more than :max digits.
+
+</td></tr>
+<tr><td width="50%">
+
+min_digits
+
+</td><td width="50%">
+
+This field must have at least :min digits.
+
+</td></tr>
+<tr><td width="50%">
+
+password.letters
+
+</td><td width="50%">
+
+This field must contain at least one letter.
+
+</td></tr>
+<tr><td width="50%">
+
+password.mixed
+
+</td><td width="50%">
+
+This field must contain at least one uppercase and one lowercase letter.
+
+</td></tr>
+<tr><td width="50%">
+
+password.numbers
+
+</td><td width="50%">
+
+This field must contain at least one number.
+
+</td></tr>
+<tr><td width="50%">
+
+password.symbols
+
+</td><td width="50%">
+
+This field must contain at least one symbol.
+
+</td></tr>
+<tr><td width="50%">
+
+password.uncompromised
+
+</td><td width="50%">
+
+The given field has appeared in a data leak. Please choose a different field.
+
+</td></tr>
+<tr><td width="50%">
+
+required_array_keys
+
+</td><td width="50%">
+
+This field must contain entries for: :values.
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php
+
+##### Missing: 10
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
 <tr><td width="50%">
 
 doesnt_end_with
@@ -680,6 +817,24 @@ doesnt_start_with
 </td><td width="50%">
 
 The :attribute may not start with one of the following: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+max_digits
+
+</td><td width="50%">
+
+The :attribute must not have more than :max digits.
+
+</td></tr>
+<tr><td width="50%">
+
+min_digits
+
+</td><td width="50%">
+
+The :attribute must have at least :min digits.
 
 </td></tr>
 <tr><td width="50%">

@@ -84,7 +84,7 @@
     "password.mixed": ":Attribute moet minimaal één kleine letter en één hoofdletter bevatten.",
     "password.numbers": ":Attribute moet minimaal één cijfer bevatten.",
     "password.symbols": ":Attribute moet minimaal één vreemd teken bevatten.",
-    "password.uncompromised": "Het opgegeven :attribute komt voor in een data lek. Kies een ander :attribute.",
+    "password.uncompromised": "Het opgegeven :attribute komt voor in een datalek. Kies een ander :attribute.",
     "present": ":Attribute moet aanwezig zijn.",
     "previous": "&laquo; Vorige",
     "prohibited": ":Attribute is niet toegestaan.",

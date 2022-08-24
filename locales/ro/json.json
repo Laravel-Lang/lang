@@ -1,4 +1,6 @@
 {
+    "(and :count more error)": "(and :count more error)",
+    "(and :count more errors)": "(and :count more errors)",
     "30 Days": "30 de zile",
     "60 Days": "60 de zile",
     "90 Days": "90 de zile",
@@ -630,6 +632,7 @@
     "The action was executed successfully.": "The action was executed successfully.",
     "The file was deleted!": "Fișierul a fost șters!",
     "The given :attribute has appeared in a data leak. Please choose a different :attribute.": ":Attribute dat a apărut într-o scurgere de date. Vă rugăm să alegeți un alt :attribute.",
+    "The given data was invalid.": "The given data was invalid.",
     "The government won't let us show you what's behind these doors": "Guvernul nu ne va lăsa să vă arătăm ce se află în spatele acestor uși",
     "The HasOne relationship has already been filled.": "Relația HasOne a fost deja umplută.",
     "The password is incorrect.": "Parola este incorectă.",

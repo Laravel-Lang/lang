@@ -1,4 +1,6 @@
 {
+    "(and :count more error)": "(and :count more error)",
+    "(and :count more errors)": "(and :count more errors)",
     "30 Days": "30 Рӯз",
     "60 Days": "60 Рӯз",
     "90 Days": "90 Рӯз",
@@ -630,6 +632,7 @@
     "The action was executed successfully.": "The action was executed successfully.",
     "The file was deleted!": "Файл буд файлҳои!",
     "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "The given :attribute has appeared in a data leak. Please choose a different :attribute.",
+    "The given data was invalid.": "The given data was invalid.",
     "The government won't let us show you what's behind these doors": "Ҳукумат имкон медиҳад, ки мо ба шумо биемузад, ки чӣ аст, дар ин дверями",
     "The HasOne relationship has already been filled.": "Муносибатҳои hasOne аллакай сер.",
     "The password is incorrect.": "The password is incorrect.",

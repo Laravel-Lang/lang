@@ -1,4 +1,6 @@
 {
+    "(and :count more error)": "(and :count more error)",
+    "(and :count more errors)": "(and :count more errors)",
     "30 Days": "30 днів",
     "60 Days": "60 днів",
     "90 Days": "90 днів",
@@ -630,6 +632,7 @@
     "The action was executed successfully.": "The action was executed successfully.",
     "The file was deleted!": "Файл був видалений!",
     "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Наданий :attribute помічений в скомпроментованих базах даних. Будь ласка, виберіть інший :attribute.",
+    "The given data was invalid.": "The given data was invalid.",
     "The government won't let us show you what's behind these doors": "Уряд не дозволить нам показати вам, що знаходиться за цими дверима",
     "The HasOne relationship has already been filled.": "Відносини hasOne вже заповнені.",
     "The password is incorrect.": "The password is incorrect.",

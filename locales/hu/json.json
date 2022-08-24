@@ -1,4 +1,6 @@
 {
+    "(and :count more error)": "(and :count more error)",
+    "(and :count more errors)": "(and :count more errors)",
     "30 Days": "30 nap",
     "60 Days": "60 nap",
     "90 Days": "90 nap",
@@ -630,6 +632,7 @@
     "The action was executed successfully.": "The action was executed successfully.",
     "The file was deleted!": "A fájlt törölték!",
     "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "The given :attribute has appeared in a data leak. Please choose a different :attribute.",
+    "The given data was invalid.": "The given data was invalid.",
     "The government won't let us show you what's behind these doors": "A kormány nem engedi, hogy megmutassuk, mi van az ajtók mögött.",
     "The HasOne relationship has already been filled.": "A HasOne kapcsolat már kitöltött.",
     "The password is incorrect.": "The password is incorrect.",

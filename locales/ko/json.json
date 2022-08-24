@@ -1,4 +1,6 @@
 {
+    "(and :count more error)": "(and :count more error)",
+    "(and :count more errors)": "(and :count more errors)",
     "30 Days": "30 일",
     "60 Days": "60 일",
     "90 Days": "90 일",
@@ -630,6 +632,7 @@
     "The action was executed successfully.": "The action was executed successfully.",
     "The file was deleted!": "파일이 삭제되었습니다!",
     "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "주어진 :attribute이(가) 데이터 누출에 나타났습니다. 다른 :attribute을(를) 선택하세요.",
+    "The given data was invalid.": "The given data was invalid.",
     "The government won't let us show you what's behind these doors": "정부는 이 문 뒤에 무엇이 있는지 보여주지 않을 것입니다.",
     "The HasOne relationship has already been filled.": "HasOne 관계가 이미 채워졌습니다.",
     "The password is incorrect.": "비밀번호가 잘못되었습니다.",

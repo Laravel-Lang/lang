@@ -1,4 +1,6 @@
 {
+    "(and :count more error)": "(and :count more error)",
+    "(and :count more errors)": "(and :count more errors)",
     "30 Days": "30 Dies",
     "60 Days": "60 Dies",
     "90 Days": "90 Dies",
@@ -630,6 +632,7 @@
     "The action was executed successfully.": "The action was executed successfully.",
     "The file was deleted!": "L'arxiu va ser suprimit!",
     "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "La :attribute proporcionada s'ha vist compromesa en una filtració de dades. Trii una :attribute diferent.",
+    "The given data was invalid.": "The given data was invalid.",
     "The government won't let us show you what's behind these doors": "El govern no anem a mostrar-te darrere d'aquestes portes",
     "The HasOne relationship has already been filled.": "La HasOne relació ja ha estat ple.",
     "The password is incorrect.": "Contrasenya no és correcta.",

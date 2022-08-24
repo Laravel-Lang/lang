@@ -4,12 +4,12 @@ editLink: false
 
 # de
 
-##### All missed: 9
+##### All missed: 12
 
 
 ### json
 
-##### Missing: 4
+##### Missing: 7
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,6 +21,24 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+(and :count more error)
+
+</td><td width="50%">
+
+(and :count more error)
+
+</td></tr>
+<tr><td width="50%">
+
+(and :count more errors)
+
+</td><td width="50%">
+
+(and :count more errors)
+
+</td></tr>
 <tr><td width="50%">
 
 From
@@ -37,6 +55,15 @@ The action was executed successfully.
 </td><td width="50%">
 
 The action was executed successfully.
+
+</td></tr>
+<tr><td width="50%">
+
+The given data was invalid.
+
+</td><td width="50%">
+
+The given data was invalid.
 
 </td></tr>
 <tr><td width="50%">

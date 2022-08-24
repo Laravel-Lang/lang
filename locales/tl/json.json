@@ -1,4 +1,6 @@
 {
+    "(and :count more error)": "(and :count more error)",
+    "(and :count more errors)": "(and :count more errors)",
     "30 Days": "30 mga araw",
     "60 Days": "60 araw",
     "90 Days": "90 araw",
@@ -630,6 +632,7 @@
     "The action was executed successfully.": "The action was executed successfully.",
     "The file was deleted!": "Ang talaksan ay tinanggal!",
     "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "The given :attribute has appeared in a data leak. Please choose a different :attribute.",
+    "The given data was invalid.": "The given data was invalid.",
     "The government won't let us show you what's behind these doors": "Ang pamahalaan ay hindi ipaalam sa amin ipakita sa iyo kung ano ang nasa likod ng mga pinto",
     "The HasOne relationship has already been filled.": "Ang HasOne relasyon ay nai-puno.",
     "The password is incorrect.": "The password is incorrect.",

@@ -4,12 +4,12 @@ editLink: false
 
 # tr
 
-##### All missed: 16
+##### All missed: 19
 
 
 ### json
 
-##### Missing: 12
+##### Missing: 15
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,6 +21,24 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+(and :count more error)
+
+</td><td width="50%">
+
+(and :count more error)
+
+</td></tr>
+<tr><td width="50%">
+
+(and :count more errors)
+
+</td><td width="50%">
+
+(and :count more errors)
+
+</td></tr>
 <tr><td width="50%">
 
 Log Viewer
@@ -118,6 +136,15 @@ Stop polling
 </td><td width="50%">
 
 Stop polling
+
+</td></tr>
+<tr><td width="50%">
+
+The given data was invalid.
+
+</td><td width="50%">
+
+The given data was invalid.
 
 </td></tr>
 <tr><td width="50%">

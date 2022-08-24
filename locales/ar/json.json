@@ -1,4 +1,6 @@
 {
+    "(and :count more error)": "(and :count more error)",
+    "(and :count more errors)": "(and :count more errors)",
     "30 Days": "30 يوم",
     "60 Days": "60 يوم",
     "90 Days": "90 يوم",
@@ -630,6 +632,7 @@
     "The action was executed successfully.": "تم تنفيذ الإجراء بنجاح.",
     "The file was deleted!": "تم حذف الملف!",
     "The given :attribute has appeared in a data leak. Please choose a different :attribute.": ":Attribute المستخدم ضمن قائمة البيانات المسربة. الرجاء اختيار :attribute مختلف.",
+    "The given data was invalid.": "The given data was invalid.",
     "The government won't let us show you what's behind these doors": "الحكومة لن تسمح لنا بأن نعرض لك ما وراء هذه الأبواب",
     "The HasOne relationship has already been filled.": "تم بالفعل ملء العلاقة HasOne.",
     "The password is incorrect.": "كلمة المرور غير صحيحة.",

@@ -1,4 +1,6 @@
 {
+    "(and :count more error)": "(and :count more error)",
+    "(and :count more errors)": "(and :count more errors)",
     "30 Days": "30 päivää",
     "60 Days": "60 päivää",
     "90 Days": "90 päivää",
@@ -630,6 +632,7 @@
     "The action was executed successfully.": "The action was executed successfully.",
     "The file was deleted!": "Tiedosto on poistettu!",
     "The given :attribute has appeared in a data leak. Please choose a different :attribute.": ":Attribute on esiintynyt tietovuodossa. Ole hyvä ja valitse toinen :attribute.",
+    "The given data was invalid.": "The given data was invalid.",
     "The government won't let us show you what's behind these doors": "Hallitus ei anna meidän näyttää, mitä näiden ovien takana on.",
     "The HasOne relationship has already been filled.": "HasOne relaatio on jo täytetty.",
     "The password is incorrect.": "The password is incorrect.",

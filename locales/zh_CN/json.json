@@ -1,4 +1,6 @@
 {
+    "(and :count more error)": "(and :count more error)",
+    "(and :count more errors)": "(and :count more errors)",
     "30 Days": "30天",
     "60 Days": "60天",
     "90 Days": "90天",
@@ -630,6 +632,7 @@
     "The action was executed successfully.": "The action was executed successfully.",
     "The file was deleted!": "文件已删除！",
     "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "给定的 :attribute 出现在数据泄漏中。请选择不同的 :attribute。",
+    "The given data was invalid.": "The given data was invalid.",
     "The government won't let us show you what's behind these doors": "政府不会让我们向您展示这些门后面的东西",
     "The HasOne relationship has already been filled.": "HasOne 的关系已经存在。",
     "The password is incorrect.": "密码不正确。",

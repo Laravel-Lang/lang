@@ -4,7 +4,7 @@ editLink: false
 
 # nb
 
-##### All missed: 59
+##### All missed: 62
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 27
+##### Missing: 30
 
 <table width="100%">
 <tr><th width="50%">
@@ -167,6 +167,24 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+(and :count more error)
+
+</td><td width="50%">
+
+(and :count more error)
+
+</td></tr>
+<tr><td width="50%">
+
+(and :count more errors)
+
+</td><td width="50%">
+
+(and :count more errors)
+
+</td></tr>
 <tr><td width="50%">
 
 Action Status
@@ -381,6 +399,15 @@ The action was executed successfully.
 </td><td width="50%">
 
 The action was executed successfully.
+
+</td></tr>
+<tr><td width="50%">
+
+The given data was invalid.
+
+</td><td width="50%">
+
+The given data was invalid.
 
 </td></tr>
 <tr><td width="50%">

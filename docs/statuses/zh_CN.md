@@ -4,7 +4,7 @@ editLink: false
 
 # zh_CN
 
-##### All missed: 56
+##### All missed: 59
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 24
+##### Missing: 27
 
 <table width="100%">
 <tr><th width="50%">
@@ -169,6 +169,24 @@ Value
 </th></tr>
 <tr><td width="50%">
 
+(and :count more error)
+
+</td><td width="50%">
+
+(and :count more error)
+
+</td></tr>
+<tr><td width="50%">
+
+(and :count more errors)
+
+</td><td width="50%">
+
+(and :count more errors)
+
+</td></tr>
+<tr><td width="50%">
+
 Are you sure you want to delete this notification?
 
 </td><td width="50%">
@@ -345,6 +363,15 @@ The action was executed successfully.
 </td><td width="50%">
 
 The action was executed successfully.
+
+</td></tr>
+<tr><td width="50%">
+
+The given data was invalid.
+
+</td><td width="50%">
+
+The given data was invalid.
 
 </td></tr>
 <tr><td width="50%">

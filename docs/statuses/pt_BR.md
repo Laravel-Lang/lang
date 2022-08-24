@@ -4,12 +4,12 @@ editLink: false
 
 # pt_BR
 
-##### All missed: 12
+##### All missed: 15
 
 
 ### json
 
-##### Missing: 1
+##### Missing: 4
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,6 +21,33 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+(and :count more error)
+
+</td><td width="50%">
+
+(and :count more error)
+
+</td></tr>
+<tr><td width="50%">
+
+(and :count more errors)
+
+</td><td width="50%">
+
+(and :count more errors)
+
+</td></tr>
+<tr><td width="50%">
+
+The given data was invalid.
+
+</td><td width="50%">
+
+The given data was invalid.
+
+</td></tr>
 <tr><td width="50%">
 
 The provided two factor recovery code was invalid.

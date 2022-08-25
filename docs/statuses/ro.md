@@ -4,12 +4,12 @@ editLink: false
 
 # ro
 
-##### All missed: 237
+##### All missed: 210
 
 
 ### json
 
-##### Missing: 237
+##### Missing: 210
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,51 +23,6 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-(and :count more error)
-
-</td><td width="50%">
-
-(and :count more error)
-
-</td></tr>
-<tr><td width="50%">
-
-(and :count more errors)
-
-</td><td width="50%">
-
-(and :count more errors)
-
-</td></tr>
-<tr><td width="50%">
-
-A fresh verification link has been sent to your email address.
-
-</td><td width="50%">
-
-A fresh verification link has been sent to your email address.
-
-</td></tr>
-<tr><td width="50%">
-
-A new verification link has been sent to the email address you provided in your profile settings.
-
-</td><td width="50%">
-
-A new verification link has been sent to the email address you provided in your profile settings.
-
-</td></tr>
-<tr><td width="50%">
-
-A new verification link has been sent to your email address.
-
-</td><td width="50%">
-
-A new verification link has been sent to your email address.
-
-</td></tr>
-<tr><td width="50%">
-
 Add VAT Number
 
 </td><td width="50%">
@@ -122,24 +77,6 @@ Algeria
 </td></tr>
 <tr><td width="50%">
 
-An error occurred while uploading the file.
-
-</td><td width="50%">
-
-An error occurred while uploading the file.
-
-</td></tr>
-<tr><td width="50%">
-
-An unexpected error occurred and we have notified our support team. Please try again later.
-
-</td><td width="50%">
-
-An unexpected error occurred and we have notified our support team. Please try again later.
-
-</td></tr>
-<tr><td width="50%">
-
 Andorra
 
 </td><td width="50%">
@@ -185,47 +122,11 @@ Antigua and Barbuda
 </td></tr>
 <tr><td width="50%">
 
-Apply
-
-</td><td width="50%">
-
-Apply
-
-</td></tr>
-<tr><td width="50%">
-
-Apply Coupon
-
-</td><td width="50%">
-
-Apply Coupon
-
-</td></tr>
-<tr><td width="50%">
-
 Are you sure you want to delete this notification?
 
 </td><td width="50%">
 
 Are you sure you want to delete this notification?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to log out?
-
-</td><td width="50%">
-
-Are you sure you want to log out?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to stop impersonating?
-
-</td><td width="50%">
-
-Are you sure you want to stop impersonating?
 
 </td></tr>
 <tr><td width="50%">
@@ -1868,92 +1769,11 @@ The action was executed successfully.
 </td></tr>
 <tr><td width="50%">
 
-The given data was invalid.
-
-</td><td width="50%">
-
-The given data was invalid.
-
-</td></tr>
-<tr><td width="50%">
-
 The provided two factor recovery code was invalid.
 
 </td><td width="50%">
 
 The provided two factor recovery code was invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-The resource was attached!
-
-</td><td width="50%">
-
-The resource was attached!
-
-</td></tr>
-<tr><td width="50%">
-
-The resource was prevented from being saved!
-
-</td><td width="50%">
-
-The resource was prevented from being saved!
-
-</td></tr>
-<tr><td width="50%">
-
-There are no fields to display.
-
-</td><td width="50%">
-
-There are no fields to display.
-
-</td></tr>
-<tr><td width="50%">
-
-There are no new notifications.
-
-</td><td width="50%">
-
-There are no new notifications.
-
-</td></tr>
-<tr><td width="50%">
-
-There was a problem fetching the resource.
-
-</td><td width="50%">
-
-There was a problem fetching the resource.
-
-</td></tr>
-<tr><td width="50%">
-
-This copy of Nova is unlicensed.
-
-</td><td width="50%">
-
-This copy of Nova is unlicensed.
-
-</td></tr>
-<tr><td width="50%">
-
-To
-
-</td><td width="50%">
-
-To
-
-</td></tr>
-<tr><td width="50%">
-
-To finish enabling two factor authentication, scan the following QR code using your phone's authenticator application or enter the setup key and provide the generated OTP code.
-
-</td><td width="50%">
-
-To finish enabling two factor authentication, scan the following QR code using your phone's authenticator application or enter the setup key and provide the generated OTP code.
 
 </td></tr>
 <tr><td width="50%">
@@ -1994,15 +1814,6 @@ Total:
 </td></tr>
 <tr><td width="50%">
 
-Trinidad and Tobago
-
-</td><td width="50%">
-
-Trinidad and Tobago
-
-</td></tr>
-<tr><td width="50%">
-
 Tunisia
 
 </td><td width="50%">
@@ -2021,15 +1832,6 @@ Turkmenistan
 </td></tr>
 <tr><td width="50%">
 
-Turks and Caicos Islands
-
-</td><td width="50%">
-
-Turks and Caicos Islands
-
-</td></tr>
-<tr><td width="50%">
-
 Tuvalu
 
 </td><td width="50%">
@@ -2039,38 +1841,11 @@ Tuvalu
 </td></tr>
 <tr><td width="50%">
 
-Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application or enter the setup key.
-
-</td><td width="50%">
-
-Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application or enter the setup key.
-
-</td></tr>
-<tr><td width="50%">
-
-Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
-
-</td><td width="50%">
-
-Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
-
-</td></tr>
-<tr><td width="50%">
-
 Uganda
 
 </td><td width="50%">
 
 Uganda
-
-</td></tr>
-<tr><td width="50%">
-
-United States Minor Outlying Islands
-
-</td><td width="50%">
-
-United States Minor Outlying Islands
 
 </td></tr>
 <tr><td width="50%">
@@ -2107,24 +1882,6 @@ Venezuela
 </td><td width="50%">
 
 Venezuela
-
-</td></tr>
-<tr><td width="50%">
-
-Venezuela, Bolivarian Republic of
-
-</td><td width="50%">
-
-Venezuela, Bolivarian Republic of
-
-</td></tr>
-<tr><td width="50%">
-
-Wallis and Futuna
-
-</td><td width="50%">
-
-Wallis and Futuna
 
 </td></tr>
 <tr><td width="50%">

@@ -1,8 +1,8 @@
 {
-    "The :attribute must be a valid role.": ":Attribute 必须是一个有效的角色。",
-    "The :attribute must be at least :length characters and contain at least one number.": ":Attribute 至少为 :length 个字符且至少包含一个数字。",
-    "The :attribute must be at least :length characters and contain at least one special character and one number.": ":Attribute 至少为 :length 个字符，并且至少包含一个特殊字符和一个数字。",
-    "The :attribute must be at least :length characters and contain at least one special character.": ":Attribute 至少为 :length 个字符，并且至少包含一个特殊字符",
+    "The :attribute must be a valid role.": "此项必须是一个有效的角色。",
+    "The :attribute must be at least :length characters and contain at least one number.": ":此项长度至少为 :length 个字符，并且至少包含一个数字。",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "此项长度至少为 :length 个字符，并且至少包含一个特殊字符和一个数字。",
+    "The :attribute must be at least :length characters and contain at least one special character.": "此项长度至少为 :length 个字符，并且至少包含一个特殊字符。",
     "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "This field must be at least :length characters and contain at least one uppercase character and one number.",
     "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "This field must be at least :length characters and contain at least one uppercase character and one special character.",
     "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "This field must be at least :length characters and contain at least one uppercase character, one number, and one special character.",

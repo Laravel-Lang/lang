@@ -1,6 +1,6 @@
 {
-    "(and :count more error)": "(and :count more error)",
-    "(and :count more errors)": "(and :count more errors)",
+    "(and :count more error)": "(na :count makosa zaidi)",
+    "(and :count more errors)": "(na :count makosa zaidi)",
     "30 Days": "Siku 30",
     "60 Days": "Siku 60",
     "90 Days": "Siku 90",
@@ -632,7 +632,7 @@
     "The action was executed successfully.": "Kitendo kilitekelezwa kwa mafanikio.",
     "The file was deleted!": "Faili ilifutwa!",
     "The given :attribute has appeared in a data leak. Please choose a different :attribute.": ":Attribute iliyotolewa imeonekana katika uvujaji wa data. Tafadhali chagua :attribute tofauti.",
-    "The given data was invalid.": "The given data was invalid.",
+    "The given data was invalid.": "Data iliyotolewa ilikuwa batili.",
     "The government won't let us show you what's behind these doors": "Serikali haitaturuhusu kukuonyesha kilicho nyuma ya milango hii",
     "The HasOne relationship has already been filled.": "uhusiano wa HasOne tayari umejazwa.",
     "The password is incorrect.": "Nenosiri si sahihi.",

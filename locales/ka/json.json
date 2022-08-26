@@ -1,4 +1,6 @@
 {
+    "(and :count more error)": "(and :count more error)",
+    "(and :count more errors)": "(and :count more errors)",
     "30 Days": "30 დღე",
     "60 Days": "60 დღე",
     "90 Days": "90 დღე",
@@ -630,6 +632,7 @@
     "The action was executed successfully.": "The action was executed successfully.",
     "The file was deleted!": "ფაილი წაიშალა!",
     "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "The given :attribute has appeared in a data leak. Please choose a different :attribute.",
+    "The given data was invalid.": "The given data was invalid.",
     "The government won't let us show you what's behind these doors": "მთავრობა არ გაჩვენოთ, რა არის ამ კარების უკან",
     "The HasOne relationship has already been filled.": "HasOne ურთიერთობა უკვე შევსებული.",
     "The password is incorrect.": "The password is incorrect.",

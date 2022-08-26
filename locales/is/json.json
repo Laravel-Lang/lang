@@ -1,4 +1,6 @@
 {
+    "(and :count more error)": "(and :count more error)",
+    "(and :count more errors)": "(and :count more errors)",
     "30 Days": "30 Daga",
     "60 Days": "60 Daga",
     "90 Days": "90 Daga",
@@ -630,6 +632,7 @@
     "The action was executed successfully.": "The action was executed successfully.",
     "The file was deleted!": "Skráin var eytt!",
     "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "The given :attribute has appeared in a data leak. Please choose a different :attribute.",
+    "The given data was invalid.": "The given data was invalid.",
     "The government won't let us show you what's behind these doors": "Ríkisstjórnin leyfir okkur ekki að sýna þér hvað er á bak við þessar dyr",
     "The HasOne relationship has already been filled.": "Við HasOne sambandið hefur þegar verið fylltur.",
     "The password is incorrect.": "The password is incorrect.",

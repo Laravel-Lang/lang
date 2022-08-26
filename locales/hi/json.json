@@ -1,4 +1,6 @@
 {
+    "(and :count more error)": "(and :count more error)",
+    "(and :count more errors)": "(and :count more errors)",
     "30 Days": "30 दिन",
     "60 Days": "60 दिन",
     "90 Days": "90 दिन",
@@ -630,6 +632,7 @@
     "The action was executed successfully.": "The action was executed successfully.",
     "The file was deleted!": "फ़ाइल हटा दी गई थी!",
     "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "The given :attribute has appeared in a data leak. Please choose a different :attribute.",
+    "The given data was invalid.": "The given data was invalid.",
     "The government won't let us show you what's behind these doors": "सरकार नहीं होने देंगे हमें आप दिखाते हैं कि इन दरवाजों के पीछे क्या है",
     "The HasOne relationship has already been filled.": "हसनैन का रिश्ता पहले ही भर चुका है ।",
     "The password is incorrect.": "The password is incorrect.",

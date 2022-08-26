@@ -1,4 +1,6 @@
 {
+    "(and :count more error)": "(and :count more error)",
+    "(and :count more errors)": "(and :count more errors)",
     "30 Days": "30 ημέρες",
     "60 Days": "60 ημέρες",
     "90 Days": "90 ημέρες",
@@ -630,6 +632,7 @@
     "The action was executed successfully.": "The action was executed successfully.",
     "The file was deleted!": "Το αρχείο διαγράφηκε!",
     "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "The given :attribute has appeared in a data leak. Please choose a different :attribute.",
+    "The given data was invalid.": "The given data was invalid.",
     "The government won't let us show you what's behind these doors": "Η κυβέρνηση δεν θα μας αφήσει να σας δείξουμε τι είναι πίσω από αυτές τις πόρτες",
     "The HasOne relationship has already been filled.": "Η σχέση HasOne έχει ήδη συμπληρωθεί.",
     "The password is incorrect.": "The password is incorrect.",

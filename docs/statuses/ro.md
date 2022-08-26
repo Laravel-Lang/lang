@@ -4,12 +4,12 @@ editLink: false
 
 # ro
 
-##### All missed: 255
+##### All missed: 210
 
 
 ### json
 
-##### Missing: 234
+##### Missing: 210
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,33 +23,6 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-A fresh verification link has been sent to your email address.
-
-</td><td width="50%">
-
-A fresh verification link has been sent to your email address.
-
-</td></tr>
-<tr><td width="50%">
-
-A new verification link has been sent to the email address you provided in your profile settings.
-
-</td><td width="50%">
-
-A new verification link has been sent to the email address you provided in your profile settings.
-
-</td></tr>
-<tr><td width="50%">
-
-A new verification link has been sent to your email address.
-
-</td><td width="50%">
-
-A new verification link has been sent to your email address.
-
-</td></tr>
-<tr><td width="50%">
-
 Add VAT Number
 
 </td><td width="50%">
@@ -104,24 +77,6 @@ Algeria
 </td></tr>
 <tr><td width="50%">
 
-An error occurred while uploading the file.
-
-</td><td width="50%">
-
-An error occurred while uploading the file.
-
-</td></tr>
-<tr><td width="50%">
-
-An unexpected error occurred and we have notified our support team. Please try again later.
-
-</td><td width="50%">
-
-An unexpected error occurred and we have notified our support team. Please try again later.
-
-</td></tr>
-<tr><td width="50%">
-
 Andorra
 
 </td><td width="50%">
@@ -167,47 +122,11 @@ Antigua and Barbuda
 </td></tr>
 <tr><td width="50%">
 
-Apply
-
-</td><td width="50%">
-
-Apply
-
-</td></tr>
-<tr><td width="50%">
-
-Apply Coupon
-
-</td><td width="50%">
-
-Apply Coupon
-
-</td></tr>
-<tr><td width="50%">
-
 Are you sure you want to delete this notification?
 
 </td><td width="50%">
 
 Are you sure you want to delete this notification?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to log out?
-
-</td><td width="50%">
-
-Are you sure you want to log out?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to stop impersonating?
-
-</td><td width="50%">
-
-Are you sure you want to stop impersonating?
 
 </td></tr>
 <tr><td width="50%">
@@ -1859,78 +1778,6 @@ The provided two factor recovery code was invalid.
 </td></tr>
 <tr><td width="50%">
 
-The resource was attached!
-
-</td><td width="50%">
-
-The resource was attached!
-
-</td></tr>
-<tr><td width="50%">
-
-The resource was prevented from being saved!
-
-</td><td width="50%">
-
-The resource was prevented from being saved!
-
-</td></tr>
-<tr><td width="50%">
-
-There are no fields to display.
-
-</td><td width="50%">
-
-There are no fields to display.
-
-</td></tr>
-<tr><td width="50%">
-
-There are no new notifications.
-
-</td><td width="50%">
-
-There are no new notifications.
-
-</td></tr>
-<tr><td width="50%">
-
-There was a problem fetching the resource.
-
-</td><td width="50%">
-
-There was a problem fetching the resource.
-
-</td></tr>
-<tr><td width="50%">
-
-This copy of Nova is unlicensed.
-
-</td><td width="50%">
-
-This copy of Nova is unlicensed.
-
-</td></tr>
-<tr><td width="50%">
-
-To
-
-</td><td width="50%">
-
-To
-
-</td></tr>
-<tr><td width="50%">
-
-To finish enabling two factor authentication, scan the following QR code using your phone's authenticator application or enter the setup key and provide the generated OTP code.
-
-</td><td width="50%">
-
-To finish enabling two factor authentication, scan the following QR code using your phone's authenticator application or enter the setup key and provide the generated OTP code.
-
-</td></tr>
-<tr><td width="50%">
-
 Togo
 
 </td><td width="50%">
@@ -1967,15 +1814,6 @@ Total:
 </td></tr>
 <tr><td width="50%">
 
-Trinidad and Tobago
-
-</td><td width="50%">
-
-Trinidad and Tobago
-
-</td></tr>
-<tr><td width="50%">
-
 Tunisia
 
 </td><td width="50%">
@@ -1994,15 +1832,6 @@ Turkmenistan
 </td></tr>
 <tr><td width="50%">
 
-Turks and Caicos Islands
-
-</td><td width="50%">
-
-Turks and Caicos Islands
-
-</td></tr>
-<tr><td width="50%">
-
 Tuvalu
 
 </td><td width="50%">
@@ -2012,38 +1841,11 @@ Tuvalu
 </td></tr>
 <tr><td width="50%">
 
-Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application or enter the setup key.
-
-</td><td width="50%">
-
-Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application or enter the setup key.
-
-</td></tr>
-<tr><td width="50%">
-
-Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
-
-</td><td width="50%">
-
-Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
-
-</td></tr>
-<tr><td width="50%">
-
 Uganda
 
 </td><td width="50%">
 
 Uganda
-
-</td></tr>
-<tr><td width="50%">
-
-United States Minor Outlying Islands
-
-</td><td width="50%">
-
-United States Minor Outlying Islands
 
 </td></tr>
 <tr><td width="50%">
@@ -2084,24 +1886,6 @@ Venezuela
 </td></tr>
 <tr><td width="50%">
 
-Venezuela, Bolivarian Republic of
-
-</td><td width="50%">
-
-Venezuela, Bolivarian Republic of
-
-</td></tr>
-<tr><td width="50%">
-
-Wallis and Futuna
-
-</td><td width="50%">
-
-Wallis and Futuna
-
-</td></tr>
-<tr><td width="50%">
-
 Zambia
 
 </td><td width="50%">
@@ -2125,235 +1909,6 @@ Zimbabwe
 </td><td width="50%">
 
 Åland Islands
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php-inline
-
-##### Missing: 12
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-accepted_if
-
-</td><td width="50%">
-
-This field must be accepted when :other is :value.
-
-</td></tr>
-<tr><td width="50%">
-
-doesnt_end_with
-
-</td><td width="50%">
-
-This field may not end with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-doesnt_start_with
-
-</td><td width="50%">
-
-This field may not start with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-max_digits
-
-</td><td width="50%">
-
-This field must not have more than :max digits.
-
-</td></tr>
-<tr><td width="50%">
-
-min_digits
-
-</td><td width="50%">
-
-This field must have at least :min digits.
-
-</td></tr>
-<tr><td width="50%">
-
-password.letters
-
-</td><td width="50%">
-
-This field must contain at least one letter.
-
-</td></tr>
-<tr><td width="50%">
-
-password.mixed
-
-</td><td width="50%">
-
-This field must contain at least one uppercase and one lowercase letter.
-
-</td></tr>
-<tr><td width="50%">
-
-password.numbers
-
-</td><td width="50%">
-
-This field must contain at least one number.
-
-</td></tr>
-<tr><td width="50%">
-
-password.symbols
-
-</td><td width="50%">
-
-This field must contain at least one symbol.
-
-</td></tr>
-<tr><td width="50%">
-
-password.uncompromised
-
-</td><td width="50%">
-
-The given field has appeared in a data leak. Please choose a different field.
-
-</td></tr>
-<tr><td width="50%">
-
-prohibits
-
-</td><td width="50%">
-
-This field prohibits :other from being present.
-
-</td></tr>
-<tr><td width="50%">
-
-required_array_keys
-
-</td><td width="50%">
-
-This field must contain entries for: :values.
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php
-
-##### Missing: 9
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-doesnt_end_with
-
-</td><td width="50%">
-
-The :attribute may not end with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-doesnt_start_with
-
-</td><td width="50%">
-
-The :attribute may not start with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-max_digits
-
-</td><td width="50%">
-
-The :attribute must not have more than :max digits.
-
-</td></tr>
-<tr><td width="50%">
-
-min_digits
-
-</td><td width="50%">
-
-The :attribute must have at least :min digits.
-
-</td></tr>
-<tr><td width="50%">
-
-password.letters
-
-</td><td width="50%">
-
-The :attribute must contain at least one letter.
-
-</td></tr>
-<tr><td width="50%">
-
-password.mixed
-
-</td><td width="50%">
-
-The :attribute must contain at least one uppercase and one lowercase letter.
-
-</td></tr>
-<tr><td width="50%">
-
-password.numbers
-
-</td><td width="50%">
-
-The :attribute must contain at least one number.
-
-</td></tr>
-<tr><td width="50%">
-
-password.symbols
-
-</td><td width="50%">
-
-The :attribute must contain at least one symbol.
-
-</td></tr>
-<tr><td width="50%">
-
-password.uncompromised
-
-</td><td width="50%">
-
-The given :attribute has appeared in a data leak. Please choose a different :attribute.
 
 </td></tr>
 </table>

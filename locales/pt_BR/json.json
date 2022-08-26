@@ -1,4 +1,6 @@
 {
+    "(and :count more error)": "(and :count more error)",
+    "(and :count more errors)": "(and :count more errors)",
     "30 Days": "30 dias",
     "60 Days": "60 dias",
     "90 Days": "90 dias",
@@ -630,6 +632,7 @@
     "The action was executed successfully.": "A ação foi executada com sucesso.",
     "The file was deleted!": "O arquivo foi apagado!",
     "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "O :attribute informado apareceu em um vazamento de dados. Por favor escolha uma :attribute diferente.",
+    "The given data was invalid.": "The given data was invalid.",
     "The government won't let us show you what's behind these doors": "O governo não nos deixa mostrar-lhe o que está atrás destas portas.",
     "The HasOne relationship has already been filled.": "A relação HasOne já foi preenchida.",
     "The password is incorrect.": "A senha está incorreta.",

@@ -4,7 +4,7 @@ editLink: false
 
 # bg
 
-##### All missed: 102
+##### All missed: 105
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 64
+##### Missing: 67
 
 <table width="100%">
 <tr><th width="50%">
@@ -169,6 +169,24 @@ Value
 </th></tr>
 <tr><td width="50%">
 
+(and :count more error)
+
+</td><td width="50%">
+
+(and :count more error)
+
+</td></tr>
+<tr><td width="50%">
+
+(and :count more errors)
+
+</td><td width="50%">
+
+(and :count more errors)
+
+</td></tr>
+<tr><td width="50%">
+
 A fresh verification link has been sent to your email address.
 
 </td><td width="50%">
@@ -597,6 +615,15 @@ The action was executed successfully.
 </td><td width="50%">
 
 The action was executed successfully.
+
+</td></tr>
+<tr><td width="50%">
+
+The given data was invalid.
+
+</td><td width="50%">
+
+The given data was invalid.
 
 </td></tr>
 <tr><td width="50%">

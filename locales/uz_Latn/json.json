@@ -1,4 +1,6 @@
 {
+    "(and :count more error)": "(and :count more error)",
+    "(and :count more errors)": "(and :count more errors)",
     "30 Days": "30 Kun",
     "60 Days": "60 Kun",
     "90 Days": "90 Kun",
@@ -630,6 +632,7 @@
     "The action was executed successfully.": "The action was executed successfully.",
     "The file was deleted!": "Fayl o'chirildi!",
     "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "The given :attribute has appeared in a data leak. Please choose a different :attribute.",
+    "The given data was invalid.": "The given data was invalid.",
     "The government won't let us show you what's behind these doors": "Hukumat bizga bu eshiklar ortida nima sizga ko \" rsatish ruxsat bermaydi",
     "The HasOne relationship has already been filled.": "HasOne munosabatlar allaqachon to'lgan qilindi.",
     "The password is incorrect.": "The password is incorrect.",

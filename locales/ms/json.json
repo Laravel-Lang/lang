@@ -1,4 +1,6 @@
 {
+    "(and :count more error)": "(and :count more error)",
+    "(and :count more errors)": "(and :count more errors)",
     "30 Days": "30 Hari",
     "60 Days": "60 Hari",
     "90 Days": "90 Hari",
@@ -630,6 +632,7 @@
     "The action was executed successfully.": "The action was executed successfully.",
     "The file was deleted!": "Fail telah dipadamkan!",
     "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "The given :attribute has appeared in a data leak. Please choose a different :attribute.",
+    "The given data was invalid.": "The given data was invalid.",
     "The government won't let us show you what's behind these doors": "Kerajaan tidak akan membiarkan kita menunjukkan kepada anda apa yang ada di balik pintu ini",
     "The HasOne relationship has already been filled.": "Itu HasOne hubungan yang telah diisi.",
     "The password is incorrect.": "The password is incorrect.",

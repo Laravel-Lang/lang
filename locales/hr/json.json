@@ -1,4 +1,6 @@
 {
+    "(and :count more error)": "(and :count more error)",
+    "(and :count more errors)": "(and :count more errors)",
     "30 Days": "30 dana",
     "60 Days": "60 dana",
     "90 Days": "90 dana",
@@ -630,6 +632,7 @@
     "The action was executed successfully.": "The action was executed successfully.",
     "The file was deleted!": "Datoteka je izbrisana!",
     "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "The given :attribute has appeared in a data leak. Please choose a different :attribute.",
+    "The given data was invalid.": "The given data was invalid.",
     "The government won't let us show you what's behind these doors": "Vlada nam neće dopustiti da vam pokažemo što je iza tih vrata.",
     "The HasOne relationship has already been filled.": "Hasoneovi odnosi već su ispunjeni.",
     "The password is incorrect.": "The password is incorrect.",

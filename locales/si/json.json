@@ -1,4 +1,6 @@
 {
+    "(and :count more error)": "(and :count more error)",
+    "(and :count more errors)": "(and :count more errors)",
     "30 Days": "දින 30",
     "60 Days": "60 දින",
     "90 Days": "දින 90",
@@ -630,6 +632,7 @@
     "The action was executed successfully.": "The action was executed successfully.",
     "The file was deleted!": "මෙම ගොනුව මකා දමන ලදී!",
     "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "පෙනන පදිරි ලබාදුන් :attribute පෙර දත්ත ලීක් වීමකට භාජනය වී ඇත. කරුනාකර වෙනත් :attribute එකක් භාවිතා කරන්න.",
+    "The given data was invalid.": "The given data was invalid.",
     "The government won't let us show you what's behind these doors": "රජය නෑ අපට පෙන්වන්න ඔබ මොකක්ද මේ දොරවල් පිටුපස",
     "The HasOne relationship has already been filled.": "මෙම HasOne සම්බන්ධතාවය දැනටමත් පිරී ඇත.",
     "The password is incorrect.": "මුරපදය වලංගු නැත.",

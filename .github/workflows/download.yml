@@ -27,6 +27,23 @@ jobs:
                     git config --local user.email "action@github.com"
                     git config --local user.name "GitHub Action"
 
+            -   name: Get current time
+                uses: josStorer/get-current-time@v2
+                id: current-time
+                if: success()
+                with:
+                    format: YYYYMMDD/HHii
+                    
+            - name: Get branch name
+              id: branch
+              run: |
+                  echo ::set-output name=name::"keys/${{ steps.current-time.outputs.formattedTime }}"
+
+            -   name: Create a new branch
+                if: success()
+                run: |
+                    git branch "${{ steps.branch.outputs.name }}"
+
             -   name: Install dependencies
                 run: |
                     composer update --prefer-stable --prefer-dist --no-progress --no-interaction
@@ -198,10 +215,23 @@ jobs:
                 with:
                     github_token: ${{ secrets.COMPOSER_TOKEN }}
 
-            -   name: Update keys trigger
-                uses: myrotvorets/trigger-repository-dispatch-action@1.1.1
-                if: success()
+            -   name: Create a Pull Request
+                uses: peter-evans/create-pull-request@v4
+                if: |
+                    success() && (
+                    steps.download_laravel.outputs.is_dirty == 1 ||
+                    steps.download_jetstream.outputs.is_dirty == 1 ||
+                    steps.download_breeze.outputs.is_dirty == 1 ||
+                    steps.download_cashier_paddle.outputs.is_dirty == 1 ||
+                    steps.download_cashier_stripe.outputs.is_dirty == 1 ||
+                    steps.download_fortify.outputs.is_dirty == 1 ||
+                    steps.download_ui.outputs.is_dirty == 1 ||
+                    steps.download_nova_log_viewer.outputs.is_dirty == 1
+                    )
                 with:
                     token: ${{ secrets.COMPOSER_TOKEN }}
-                    repo: Laravel-Lang/lang
-                    type: update
+                    committer: GitHub Action <action@github.com>
+                    author: GitHub Action <action@github.com>
+                    branch: ${{ steps.branch.outputs.name }}
+                    delete-branch: true
+                    title: 

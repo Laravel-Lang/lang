@@ -38,7 +38,7 @@ module.exports = {
 
         navbar: [
             { text: 'Translations Status', link: '/status.md' },
-            { text: '11.x', link: '/changelog/11.x.md' }
+            { text: '12.x', link: '/changelog/12.x.md' }
         ],
 
         sidebarDepth: 1,

@@ -1,6 +1,13 @@
 name: update
 
 on:
+    workflow_run:
+        workflows:
+            - lint-check
+            - lint-fixer
+            - phpunit
+        types:
+            - completed
     push:
         branches:
             - main

@@ -1,6 +1,15 @@
 name: docs
 
 on:
+    workflow_run:
+        workflows:
+            - lint-check
+            - lint-fixer
+            - phpunit
+            - download
+            - update
+        types:
+            - completed
     workflow_dispatch:
     repository_dispatch:
         types:

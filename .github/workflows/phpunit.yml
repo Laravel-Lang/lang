@@ -1,6 +1,14 @@
 name: phpunit
 
-on: [ push, pull_request ]
+on:
+    workflow_run:
+        workflows:
+            - lint-check
+            - lint-fixer
+        types:
+            - completed
+    push:
+    pull_request:
 
 permissions: read-all
 

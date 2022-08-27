@@ -8,7 +8,11 @@ on:
         types:
             - completed
     push:
+        branches-ignore:
+            - 'projects/**'
     pull_request:
+        branches-ignore:
+            - 'projects/**'
 
 permissions: read-all
 

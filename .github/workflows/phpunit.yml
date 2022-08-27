@@ -1,12 +1,6 @@
 name: phpunit
 
 on:
-    workflow_run:
-        workflows:
-            - lint-check
-            - lint-fixer
-        types:
-            - completed
     push:
         branches-ignore:
             - 'projects/**'

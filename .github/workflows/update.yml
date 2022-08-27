@@ -1,22 +1,12 @@
 name: update
 
 on:
-    workflow_run:
-        workflows:
-            - lint-check
-            - lint-fixer
-            - phpunit
-        types:
-            - completed
     push:
         branches:
             - main
     release:
         types:
             - released
-    repository_dispatch:
-        types:
-            - update
 
 permissions: write-all
 
@@ -95,11 +85,3 @@ jobs:
                     steps.changelog.outputs.is_dirty == 1
                 with:
                     github_token: ${{ secrets.COMPOSER_TOKEN }}
-
-            -   name: Generate docs trigger
-                uses: myrotvorets/trigger-repository-dispatch-action@1.1.1
-                if: success()
-                with:
-                    token: ${{ secrets.COMPOSER_TOKEN }}
-                    repo: Laravel-Lang/lang
-                    type: generate-docs

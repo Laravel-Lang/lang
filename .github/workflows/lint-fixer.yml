@@ -1,11 +1,6 @@
 name: "Code-Style Fixer"
 
 on:
-    workflow_run:
-        workflows:
-            - lint-check
-        types:
-            - completed
     push:
         branches: [ main ]
 

@@ -3,25 +3,15 @@ name: docs
 on:
     workflow_run:
         workflows:
-            - lint-check
-            - lint-fixer
-            - phpunit
-            - download
             - update
         types:
             - completed
     workflow_dispatch:
-    repository_dispatch:
-        types:
-            - generate-docs
-    push:
-        branches:
-            - main
 
 permissions: write-all
 
 jobs:
-    handle-dispatch:
+    generate:
         runs-on: ubuntu-latest
 
         steps:

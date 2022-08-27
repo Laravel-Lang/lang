@@ -7,14 +7,10 @@ on:
 
 permissions: write-all
 
-env:
-    ACTION_TOKEN: ${{ secrets.COMPOSER_TOKEN }}
-
 jobs:
     laravel:
         uses: Laravel-Lang/.github/.github/workflows/download.yml@main
         with:
-            token: $ACTION_TOKEN
             project: Laravel Framework
             paths: source/laravel/*,source/framework/*
             commands: |
@@ -33,7 +29,6 @@ jobs:
     lumen:
         uses: Laravel-Lang/.github/.github/workflows/download.yml@main
         with:
-            token: $ACTION_TOKEN
             project: Lumen Framework
             paths: source/lumen-framework/*
             commands: |
@@ -46,7 +41,6 @@ jobs:
     breeze:
         uses: Laravel-Lang/.github/.github/workflows/download.yml@main
         with:
-            token: $ACTION_TOKEN
             project: Laravel Breeze
             paths: source/breeze/*
             commands: |
@@ -56,7 +50,6 @@ jobs:
     cashier_paddle:
         uses: Laravel-Lang/.github/.github/workflows/download.yml@main
         with:
-            token: $ACTION_TOKEN
             project: Laravel Cashier Paddle
             paths: source/cashier/paddle/*
             commands: |
@@ -65,7 +58,6 @@ jobs:
     cashier_stripe:
         uses: Laravel-Lang/.github/.github/workflows/download.yml@main
         with:
-            token: $ACTION_TOKEN
             project: Laravel Cashier Stripe
             paths: source/cashier/stripe/*
             commands: |
@@ -76,7 +68,6 @@ jobs:
     fortify:
         uses: Laravel-Lang/.github/.github/workflows/download.yml@main
         with:
-            token: $ACTION_TOKEN
             project: Laravel Fortify
             paths: source/fortify/*
             commands: |
@@ -86,7 +77,6 @@ jobs:
     jetstream:
         uses: Laravel-Lang/.github/.github/workflows/download.yml@main
         with:
-            token: $ACTION_TOKEN
             project: Laravel Jetstream
             paths: source/jetstream/*
             commands: |
@@ -97,7 +87,6 @@ jobs:
     nova_log_viewer:
         uses: Laravel-Lang/.github/.github/workflows/download.yml@main
         with:
-            token: $ACTION_TOKEN
             project: Laravel Nova Log Viewer
             paths: source/nova/log-viewer/*
             commands: |
@@ -106,7 +95,6 @@ jobs:
     ui:
         uses: Laravel-Lang/.github/.github/workflows/download.yml@main
         with:
-            token: $ACTION_TOKEN
             project: Laravel UI
             paths: source/ui/*
             commands: |

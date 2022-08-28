@@ -18,13 +18,13 @@
 
 ## Frameworks & Packages
 
-| Package Version         |       Framework Version        | Laravel Lang Version | Support Until       |
+| Package Version         |        Laravel Version         | Laravel Lang Version | Support Until       |
 |-------------------------|:------------------------------:|:--------------------:|---------------------|
 | Laravel / Lumen `^10.0` |            `^10.0`             |   `^11.0`, `^12.0`   | August 7th, 2024    |
 | Laravel / Lumen `^9.0`  |             `^9.0`             |   `^11.0`, `^12.0`   | August 8th, 2023    |
-| Laravel / Lumen `^8.0`  |             `^8.0`             |       `^11.0`        | September 6th, 2022 |
-| Laravel / Lumen `^7.0`  |             `^7.0`             |       `^11.0`        | September 6th, 2022 |
-| Laravel / Lumen `^6.0`  |             `^6.0`             |       `^11.0`        | September 6th, 2022 |
+| Laravel / Lumen `^8.0`  |             `^8.0`             |       `^11.0`        | September 3th, 2022 |
+| Laravel / Lumen `^7.0`  |             `^7.0`             |       `^11.0`        | September 3th, 2022 |
+| Laravel / Lumen `^6.0`  |             `^6.0`             |       `^11.0`        | September 3th, 2022 |
 | Breeze `^1.11`          |             `^9.0`             |   `^11.0`, `^12.0`   | August 8th, 2023    |
 | Breeze `1.10.*`         |        `^8.42`, `^9.0`         |       `^11.0`        | August 8th, 2023    |
 | Cashier Stripe `^13.0`  |        `^8.37`, `^9.0`         |   `^11.0`, `^12.0`   | August 8th, 2023    |
@@ -36,6 +36,5 @@
 | Nova `^3.0`             |         `^8.0`, `^9.0`         |   `^11.0`, `^12.0`   | August 8th, 2023    |
 | UI `^4.0`               |             `^9.0`             |   `^11.0`, `^12.0`   | August 8th, 2023    |
 | UI `^3.0`               |         `^8.0`, `^9.0`         |   `^11.0`, `^12.0`   | August 8th, 2023    |
-| UI `^2.0`               |             `^7.0`             |       `^11.0`        | September 6th, 2022 |
-| UI `^1.0`               |         `^5.8`, `^6.0`         |       `^11.0`        | September 6th, 2022 |
-
+| UI `^2.0`               |             `^7.0`             |       `^11.0`        | September 3th, 2022 |
+| UI `^1.0`               |         `^5.8`, `^6.0`         |       `^11.0`        | September 3th, 2022 |

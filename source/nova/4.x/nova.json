@@ -1,3 +1,4 @@
+
 {
   "Actions": "Actions",
   "Details": "Details",
@@ -412,8 +413,6 @@
   "There was a problem executing the action.": "There was a problem executing the action.",
   "There was a problem fetching the resource.": "There was a problem fetching the resource.",
   "Do you really want to leave? You have unsaved changes.": "Do you really want to leave? You have unsaved changes.",
-  "*": "*",
-  "—": "—",
   "The file was deleted!": "The file was deleted!",
   "This file field is read-only.": "This file field is read-only.",
   "No additional information...": "No additional information...",

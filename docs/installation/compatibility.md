@@ -1,30 +1,214 @@
 # Compatibility
 
-| Laravel / Lumen Version     | Install Command                            |
-|-----------------------------|--------------------------------------------|
-| 9-10                        | `composer require laravel-lang/lang:^12.0` |
-| 6-10                        | `composer require laravel-lang/lang:^11.0` |
-| 7-9                         | `composer require laravel-lang/lang:^10.0` |
-| 7-8                         | `composer require laravel-lang/lang:^9.0`  |
-| 7-8 with Php Intl           | `composer require laravel-lang/lang:^8.0`  |
-| 8.x                         | `composer require laravel-lang/lang:^7.0`  |
-| 7.x and new directory names | `composer require laravel-lang/lang:^7.0`  |
-| 7.x                         | `composer require laravel-lang/lang:^6.1`  |
-| 6.x                         | `composer require laravel-lang/lang:^5.0`  |
-| 5.8                         | `composer require laravel-lang/lang:^4.0`  |
-| 5.1-5.7                     | `composer require laravel-lang/lang:^3.0`  |
-| 5                           | `composer require laravel-lang/lang:^2.0`  |
-| 4                           | `composer require laravel-lang/lang:^1.0`  |
+## Laravel Lang
 
-## Frameworks & Packages
+### 12.0
 
-| Package Version         |        Laravel Version         | Laravel Lang Version | Support Until       |
+```bash
+composer require laravel-lang/lang:^12.0
+
+# or
+
+composer require laravel-lang/lang:^12.0 laravel-lang/publisher:^14.0
+```
+
+| Package        | Version |
+|----------------|---------|
+| Publisher      | 14      |
+| Laravel, Lumen | 9, 10   |
+| Breeze         | 1       |
+| Cashier Stripe | 12, 13  |
+| Fortify        | 1       |
+| Jetstream      | 1, 2    |
+| Nova           | 3, 4    |
+| Spark Paddle   | ---     |
+| Spark Stripe   | ---     |
+| UI             | 3, 4    |
+
+### 11.0
+
+```bash
+composer require laravel-lang/lang:^11.0
+
+# or
+
+composer require laravel-lang/lang:^11.0 laravel-lang/publisher:^14.0
+```
+
+| Package        | Version        |
+|----------------|----------------|
+| Publisher      | 14             |
+| Laravel, Lumen | 6, 7, 8, 9, 10 |
+| Breeze         | 1              |
+| Cashier Stripe | 12, 13         |
+| Fortify        | 1              |
+| Jetstream      | 1, 2           |
+| Nova           | 3, 4           |
+| Spark Paddle   | ---            |
+| Spark Stripe   | ---            |
+| UI             | 1, 2, 3, 4     |
+
+### 10.0
+
+```bash
+composer require laravel-lang/lang:^10.0
+
+# or
+
+# for PHP 8.0-8.1
+composer require laravel-lang/lang:^10.0 laravel-lang/publisher:^13.0
+
+# for PHP 7.3-8.1
+composer require laravel-lang/lang:^10.2 laravel-lang/publisher:^12.0
+```
+
+| Package        | Version |
+|----------------|---------|
+| Publisher      | 12, 13  |
+| Laravel, Lumen | 7, 8, 9 |
+| Breeze         | 1       |
+| Cashier Stripe | 12, 13  |
+| Fortify        | 1       |
+| Jetstream      | 1       |
+| Nova           | 3       |
+| Spark Paddle   | ---     |
+| Spark Stripe   | ---     |
+| UI             | 1, 2, 3 |
+
+### 9.0
+
+```bash
+composer require laravel-lang/lang:^9.0
+
+# or
+
+composer require laravel-lang/lang:^9.0 laravel-lang/publisher:^9.0
+```
+
+| Package        | Version |
+|----------------|---------|
+| Publisher      | 9       |
+| Laravel, Lumen | 7, 8    |
+
+### 8.0
+
+```bash
+composer require laravel-lang/lang:^8.0
+
+# or
+
+composer require laravel-lang/lang:^8.0 laravel-lang/publisher:^8.0
+```
+
+| Package        | Version |
+|----------------|---------|
+| Publisher      | 8       |
+| Laravel, Lumen | 7, 8    |
+
+### 7.0
+
+```bash
+composer require laravel-lang/lang:^7.0
+
+# or
+
+composer require laravel-lang/lang:^7.0 laravel-lang/publisher:^6.0
+```
+
+| Package        | Version |
+|----------------|---------|
+| Publisher      | 6       |
+| Laravel, Lumen | 7       |
+
+### 6.0
+
+```bash
+composer require laravel-lang/lang:^6.0
+
+# or
+
+composer require laravel-lang/lang:^6.0 laravel-lang/publisher:^4.0
+```
+
+| Package        | Version |
+|----------------|---------|
+| Publisher      | 4       |
+| Laravel, Lumen | 7       |
+
+### 5.0
+
+```bash
+composer require laravel-lang/lang:^5.0
+
+# or
+
+composer require laravel-lang/lang:^5.0 laravel-lang/publisher:^3.0
+```
+
+| Package        | Version |
+|----------------|---------|
+| Publisher      | 3       |
+| Laravel, Lumen | 6.0     |
+
+### 4.0
+
+```bash
+composer require laravel-lang/lang:^4.0
+
+# or
+
+composer require laravel-lang/lang:^4.0 laravel-lang/publisher:^3.0
+```
+
+| Package        | Version |
+|----------------|---------|
+| Publisher      | 3       |
+| Laravel, Lumen | 5.8     |
+
+### 3.0
+
+```bash
+composer require laravel-lang/lang:^3.0
+
+# or
+
+composer require laravel-lang/lang:^3.0 laravel-lang/publisher:^3.0
+```
+
+| Package        | Version                           |
+|----------------|-----------------------------------|
+| Publisher      | 3                                 |
+| Laravel, Lumen | 5.1, 5.2, 5.3, 5.4, 5.5, 5.6, 5.7 |
+
+### 2.0
+
+```bash
+composer require laravel-lang/lang:^2.0
+```
+
+| Package        | Version |
+|----------------|---------|
+| Laravel, Lumen | 5.0     |
+
+### 1.0
+
+```bash
+composer require laravel-lang/lang:^1.0
+```
+
+| Package        | Version |
+|----------------|---------|
+| Laravel, Lumen | 4.2     |
+
+## Support Policy
+
+| Package Version         |       Framework Version        | Laravel Lang Version | Support Until       |
 |-------------------------|:------------------------------:|:--------------------:|---------------------|
 | Laravel / Lumen `^10.0` |            `^10.0`             |   `^11.0`, `^12.0`   | August 7th, 2024    |
 | Laravel / Lumen `^9.0`  |             `^9.0`             |   `^11.0`, `^12.0`   | August 8th, 2023    |
-| Laravel / Lumen `^8.0`  |             `^8.0`             |       `^11.0`        | September 3th, 2022 |
-| Laravel / Lumen `^7.0`  |             `^7.0`             |       `^11.0`        | September 3th, 2022 |
-| Laravel / Lumen `^6.0`  |             `^6.0`             |       `^11.0`        | September 3th, 2022 |
+| Laravel / Lumen `^8.0`  |             `^8.0`             |       `^11.0`        | September 6th, 2022 |
+| Laravel / Lumen `^7.0`  |             `^7.0`             |       `^11.0`        | September 6th, 2022 |
+| Laravel / Lumen `^6.0`  |             `^6.0`             |       `^11.0`        | September 6th, 2022 |
 | Breeze `^1.11`          |             `^9.0`             |   `^11.0`, `^12.0`   | August 8th, 2023    |
 | Breeze `1.10.*`         |        `^8.42`, `^9.0`         |       `^11.0`        | August 8th, 2023    |
 | Cashier Stripe `^13.0`  |        `^8.37`, `^9.0`         |   `^11.0`, `^12.0`   | August 8th, 2023    |
@@ -36,5 +220,5 @@
 | Nova `^3.0`             |         `^8.0`, `^9.0`         |   `^11.0`, `^12.0`   | August 8th, 2023    |
 | UI `^4.0`               |             `^9.0`             |   `^11.0`, `^12.0`   | August 8th, 2023    |
 | UI `^3.0`               |         `^8.0`, `^9.0`         |   `^11.0`, `^12.0`   | August 8th, 2023    |
-| UI `^2.0`               |             `^7.0`             |       `^11.0`        | September 3th, 2022 |
-| UI `^1.0`               |         `^5.8`, `^6.0`         |       `^11.0`        | September 3th, 2022 |
+| UI `^2.0`               |             `^7.0`             |       `^11.0`        | September 6th, 2022 |
+| UI `^1.0`               |         `^5.8`, `^6.0`         |       `^11.0`        | September 6th, 2022 |

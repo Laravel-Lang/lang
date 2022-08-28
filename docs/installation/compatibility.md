@@ -14,7 +14,6 @@ composer require laravel-lang/lang:^12.0 laravel-lang/publisher:^14.0
 
 | Package        | Version |
 |----------------|---------|
-| Publisher      | 14      |
 | Laravel, Lumen | 9, 10   |
 | Breeze         | 1       |
 | Cashier Stripe | 12, 13  |
@@ -37,7 +36,6 @@ composer require laravel-lang/lang:^11.0 laravel-lang/publisher:^14.0
 
 | Package        | Version        |
 |----------------|----------------|
-| Publisher      | 14             |
 | Laravel, Lumen | 6, 7, 8, 9, 10 |
 | Breeze         | 1              |
 | Cashier Stripe | 12, 13         |
@@ -64,7 +62,6 @@ composer require laravel-lang/lang:^10.2 laravel-lang/publisher:^12.0
 
 | Package        | Version |
 |----------------|---------|
-| Publisher      | 12, 13  |
 | Laravel, Lumen | 7, 8, 9 |
 | Breeze         | 1       |
 | Cashier Stripe | 12, 13  |
@@ -87,7 +84,6 @@ composer require laravel-lang/lang:^9.0 laravel-lang/publisher:^9.0
 
 | Package        | Version |
 |----------------|---------|
-| Publisher      | 9       |
 | Laravel, Lumen | 7, 8    |
 
 ### 8.0
@@ -102,7 +98,6 @@ composer require laravel-lang/lang:^8.0 laravel-lang/publisher:^8.0
 
 | Package        | Version |
 |----------------|---------|
-| Publisher      | 8       |
 | Laravel, Lumen | 7, 8    |
 
 ### 7.0
@@ -117,7 +112,6 @@ composer require laravel-lang/lang:^7.0 laravel-lang/publisher:^6.0
 
 | Package        | Version |
 |----------------|---------|
-| Publisher      | 6       |
 | Laravel, Lumen | 7       |
 
 ### 6.0
@@ -132,7 +126,6 @@ composer require laravel-lang/lang:^6.0 laravel-lang/publisher:^4.0
 
 | Package        | Version |
 |----------------|---------|
-| Publisher      | 4       |
 | Laravel, Lumen | 7       |
 
 ### 5.0
@@ -147,7 +140,6 @@ composer require laravel-lang/lang:^5.0 laravel-lang/publisher:^3.0
 
 | Package        | Version |
 |----------------|---------|
-| Publisher      | 3       |
 | Laravel, Lumen | 6.0     |
 
 ### 4.0
@@ -162,7 +154,6 @@ composer require laravel-lang/lang:^4.0 laravel-lang/publisher:^3.0
 
 | Package        | Version |
 |----------------|---------|
-| Publisher      | 3       |
 | Laravel, Lumen | 5.8     |
 
 ### 3.0
@@ -175,10 +166,9 @@ composer require laravel-lang/lang:^3.0
 composer require laravel-lang/lang:^3.0 laravel-lang/publisher:^3.0
 ```
 
-| Package        | Version                           |
-|----------------|-----------------------------------|
-| Publisher      | 3                                 |
-| Laravel, Lumen | 5.1, 5.2, 5.3, 5.4, 5.5, 5.6, 5.7 |
+| Package        | Version |
+|----------------|---------|
+| Laravel, Lumen | 5.1-5.7 |
 
 ### 2.0
 

@@ -8,6 +8,8 @@ permissions: write-all
 
 jobs:
     check:
+        if: ${{ ! (github.event_name == 'push' && github.ref == 'refs/heads/main') }}
+
         runs-on: ubuntu-latest
 
         steps:

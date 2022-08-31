@@ -12,17 +12,17 @@ composer require laravel-lang/lang:^12.0
 composer require laravel-lang/lang:^12.0 laravel-lang/publisher:^14.0
 ```
 
-| Package        | Version |
-|----------------|---------|
-| Laravel, Lumen | 9, 10   |
-| Breeze         | 1       |
-| Cashier Stripe | 12, 13  |
-| Fortify        | 1       |
-| Jetstream      | 1, 2    |
-| Nova           | 3, 4    |
-| Spark Paddle   | ---     |
-| Spark Stripe   | ---     |
-| UI             | 3, 4    |
+| Package        | Version    |
+|----------------|------------|
+| Laravel, Lumen | 9, 10      |
+| Breeze         | 1          |
+| Cashier Stripe | 12, 13, 14 |
+| Fortify        | 1          |
+| Jetstream      | 1, 2       |
+| Nova           | 3, 4       |
+| Spark Paddle   | ---        |
+| Spark Stripe   | ---        |
+| UI             | 3, 4       |
 
 ### 11.0
 
@@ -201,6 +201,7 @@ composer require laravel-lang/lang:^1.0
 | Laravel / Lumen `^6.0`  |             `^6.0`             |       `^11.0`        | September 6th, 2022 |
 | Breeze `^1.11`          |             `^9.0`             |   `^11.0`, `^12.0`   | August 8th, 2023    |
 | Breeze `1.10.*`         |        `^8.42`, `^9.0`         |       `^11.0`        | August 8th, 2023    |
+| Cashier Stripe `^14.0`  |            `^9.21`             |   `^11.0`, `^12.0`   | August 8th, 2023    |
 | Cashier Stripe `^13.0`  |        `^8.37`, `^9.0`         |   `^11.0`, `^12.0`   | August 8th, 2023    |
 | Cashier Stripe `^12.0`  | `^6.0`, `^7.0`, `^8.0`, `^9.0` |   `^11.0`, `^12.0`   | August 8th, 2023    |
 | Fortify `^1.0`          |         `^8.0`, `^9.0`         |   `^11.0`, `^12.0`   | August 8th, 2023    |

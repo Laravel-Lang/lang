@@ -55,6 +55,7 @@ jobs:
             commands: |
                 vendor/bin/lang download --url=https://github.com/laravel/cashier-stripe/archive/refs/heads/12.x.zip --project=cashier/stripe --ver=12.x
                 vendor/bin/lang download --url=https://github.com/laravel/cashier-stripe/archive/refs/heads/13.x.zip --project=cashier/stripe --ver=13.x
+                vendor/bin/lang download --url=https://github.com/laravel/cashier-stripe/archive/refs/heads/14.x.zip --project=cashier/stripe --ver=14.x
                 vendor/bin/lang download --url=https://github.com/laravel/cashier-stripe/archive/refs/heads/master.zip --project=cashier/stripe --ver=master
 
     fortify:

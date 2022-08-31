@@ -47,14 +47,6 @@ jobs:
                 vendor/bin/lang download --url=https://github.com/laravel/breeze/archive/refs/heads/1.x.zip --project=breeze --ver=1.x
                 vendor/bin/lang download --url=https://github.com/laravel/breeze/archive/refs/heads/master.zip --project=breeze --ver=master
 
-    cashier_paddle:
-        uses: Laravel-Lang/.github/.github/workflows/download.yml@main
-        with:
-            project: Laravel Cashier Paddle
-            paths: source/cashier/paddle/*
-            commands: |
-                vendor/bin/lang download --url=https://github.com/laravel/cashier-paddle/archive/refs/heads/1.x.zip --project=cashier/paddle --ver=1.x
-    
     cashier_stripe:
         uses: Laravel-Lang/.github/.github/workflows/download.yml@main
         with:

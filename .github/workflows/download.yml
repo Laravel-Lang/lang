@@ -14,15 +14,9 @@ jobs:
             project: Laravel Framework
             paths: source/laravel/*,source/framework/*
             commands: |
-                vendor/bin/lang download --url=https://github.com/laravel/laravel/archive/refs/heads/6.x.zip --project=laravel --ver=6.x --copy=resources/lang
-                vendor/bin/lang download --url=https://github.com/laravel/laravel/archive/refs/heads/7.x.zip --project=laravel --ver=7.x --copy=resources/lang
-                vendor/bin/lang download --url=https://github.com/laravel/laravel/archive/refs/heads/8.x.zip --project=laravel --ver=8.x --copy=resources/lang
                 vendor/bin/lang download --url=https://github.com/laravel/laravel/archive/refs/heads/9.x.zip --project=laravel --ver=9.x --copy=lang
                 vendor/bin/lang download --url=https://github.com/laravel/laravel/archive/refs/heads/master.zip --project=laravel --ver=master --copy=lang
                 
-                vendor/bin/lang download --url=https://github.com/laravel/framework/archive/refs/heads/6.x.zip --project=framework --ver=6.x
-                vendor/bin/lang download --url=https://github.com/laravel/framework/archive/refs/heads/7.x.zip --project=framework --ver=7.x
-                vendor/bin/lang download --url=https://github.com/laravel/framework/archive/refs/heads/8.x.zip --project=framework --ver=8.x
                 vendor/bin/lang download --url=https://github.com/laravel/framework/archive/refs/heads/9.x.zip --project=framework --ver=9.x
                 vendor/bin/lang download --url=https://github.com/laravel/framework/archive/refs/heads/master.zip --project=framework --ver=master
     
@@ -32,9 +26,6 @@ jobs:
             project: Lumen Framework
             paths: source/lumen-framework/*
             commands: |
-                vendor/bin/lang download --url=https://github.com/laravel/lumen-framework/archive/refs/heads/6.x.zip --project=lumen-framework --ver=6.x --copy=lang --copy=resources/lang
-                vendor/bin/lang download --url=https://github.com/laravel/lumen-framework/archive/refs/heads/7.x.zip --project=lumen-framework --ver=7.x --copy=lang --copy=resources/lang
-                vendor/bin/lang download --url=https://github.com/laravel/lumen-framework/archive/refs/heads/8.x.zip --project=lumen-framework --ver=8.x --copy=lang --copy=resources/lang
                 vendor/bin/lang download --url=https://github.com/laravel/lumen-framework/archive/refs/heads/9.x.zip --project=lumen-framework --ver=9.x --copy=lang --copy=resources/lang
                 vendor/bin/lang download --url=https://github.com/laravel/lumen-framework/archive/refs/heads/master.zip --project=lumen-framework --ver=master --copy=lang --copy=resources/lang
 
@@ -91,8 +82,6 @@ jobs:
             project: Laravel UI
             paths: source/ui/*
             commands: |
-                vendor/bin/lang download --url=https://github.com/laravel/ui/archive/refs/heads/1.x.zip --project=ui --ver=1.x
-                vendor/bin/lang download --url=https://github.com/laravel/ui/archive/refs/heads/2.x.zip --project=ui --ver=2.x
                 vendor/bin/lang download --url=https://github.com/laravel/ui/archive/refs/heads/3.x.zip --project=ui --ver=3.x
                 vendor/bin/lang download --url=https://github.com/laravel/ui/archive/refs/heads/4.x.zip --project=ui --ver=4.x
                 vendor/bin/lang download --url=https://github.com/laravel/ui/archive/refs/heads/master.zip --project=ui --ver=master

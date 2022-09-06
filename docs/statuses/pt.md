@@ -4,7 +4,7 @@ editLink: false
 
 # pt
 
-##### All missed: 167
+##### All missed: 166
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 135
+##### Missing: 134
 
 <table width="100%">
 <tr><th width="50%">
@@ -291,15 +291,6 @@ Dark
 </td><td width="50%">
 
 Dark
-
-</td></tr>
-<tr><td width="50%">
-
-E-Mail Address
-
-</td><td width="50%">
-
-E-Mail Address
 
 </td></tr>
 <tr><td width="50%">

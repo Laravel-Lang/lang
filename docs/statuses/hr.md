@@ -4,7 +4,7 @@ editLink: false
 
 # hr
 
-##### All missed: 280
+##### All missed: 279
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 237
+##### Missing: 236
 
 <table width="100%">
 <tr><th width="50%">
@@ -624,15 +624,6 @@ Download Receipt
 </td><td width="50%">
 
 Download Receipt
-
-</td></tr>
-<tr><td width="50%">
-
-E-Mail Address
-
-</td><td width="50%">
-
-E-Mail Address
 
 </td></tr>
 <tr><td width="50%">

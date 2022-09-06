@@ -4,12 +4,12 @@ editLink: false
 
 # ro
 
-##### All missed: 210
+##### All missed: 209
 
 
 ### json
 
-##### Missing: 210
+##### Missing: 209
 
 <table width="100%">
 <tr><th width="50%">
@@ -559,15 +559,6 @@ Download Receipt
 </td><td width="50%">
 
 Download Receipt
-
-</td></tr>
-<tr><td width="50%">
-
-E-Mail Address
-
-</td><td width="50%">
-
-E-Mail Address
 
 </td></tr>
 <tr><td width="50%">

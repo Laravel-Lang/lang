@@ -20,8 +20,8 @@ composer require laravel-lang/lang:^12.0 laravel-lang/publisher:^14.0
 | Fortify        | 1          |
 | Jetstream      | 1, 2       |
 | Nova           | 3, 4       |
-| Spark Paddle   | ---        |
-| Spark Stripe   | ---        |
+| Spark Paddle   | *          |
+| Spark Stripe   | *          |
 | UI             | 3, 4       |
 
 ### 11.0
@@ -42,8 +42,8 @@ composer require laravel-lang/lang:^11.0 laravel-lang/publisher:^14.0
 | Fortify        | 1              |
 | Jetstream      | 1, 2           |
 | Nova           | 3, 4           |
-| Spark Paddle   | ---            |
-| Spark Stripe   | ---            |
+| Spark Paddle   | *              |
+| Spark Stripe   | *              |
 | UI             | 1, 2, 3, 4     |
 
 ### 10.0
@@ -68,8 +68,8 @@ composer require laravel-lang/lang:^10.2 laravel-lang/publisher:^12.0
 | Fortify        | 1       |
 | Jetstream      | 1       |
 | Nova           | 3       |
-| Spark Paddle   | ---     |
-| Spark Stripe   | ---     |
+| Spark Paddle   | *       |
+| Spark Stripe   | *       |
 | UI             | 1, 2, 3 |
 
 ### 9.0

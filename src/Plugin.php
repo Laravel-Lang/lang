@@ -29,12 +29,12 @@ class Plugin extends Provider
         Plugins\Jetstream\V2::class,
 
         Plugins\Laravel\Master::class,
-        Plugins\Laravel\V10::class,
         Plugins\Laravel\V9::class,
+        Plugins\Laravel\V10::class,
 
         Plugins\Lumen\Master::class,
-        Plugins\Lumen\V10::class,
         Plugins\Lumen\V9::class,
+        Plugins\Lumen\V10::class,
 
         Plugins\Nova\LogViewer\Main::class,
         Plugins\Nova\V3::class,

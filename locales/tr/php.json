@@ -73,7 +73,7 @@
     "min.file": ":Attribute en az :min kilobayt olabilir.",
     "min.numeric": ":Attribute en az :min olabilir.",
     "min.string": ":Attribute en az :min karakter olabilir.",
-    "min_digits": "The :attribute must have at least :min digits.",
+    "min_digits": ":Attribute en az :min basamak içermelidir.",
     "multiple_of": ":Attribute, :value'nin katları olmalıdır",
     "next": "Sonrakiler &raquo;",
     "not_in": "Seçili :attribute geçersiz.",

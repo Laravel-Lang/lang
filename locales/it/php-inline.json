@@ -80,7 +80,7 @@
     "password.mixed": "Deve contenere almeno una lettera maiuscola e una minuscola.",
     "password.numbers": "Deve contenere almeno un numbero.",
     "password.symbols": "Deve contenere almeno un simbolo.",
-    "password.uncompromised": "Il dato campo appare in un data leak. Per favore scegli un campo diverso.",
+    "password.uncompromised": "Appare in un data leak. Per favore scegli un valore diverso.",
     "present": "Devi specificare un valore.",
     "prohibited": "Non consentito.",
     "prohibited_if": "Non consentito quando :other è :value.",

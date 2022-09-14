@@ -1,15 +1,17 @@
 name: docs
 
 on:
-    workflow_dispatch:
-    repository_dispatch:
+    workflow_run:
+        workflows:
+            - update
         types:
-            - generate-docs
+            - completed
+    workflow_dispatch:
 
 permissions: write-all
 
 jobs:
-    handle-dispatch:
+    generate:
         runs-on: ubuntu-latest
 
         steps:
@@ -29,7 +31,7 @@ jobs:
                         **/node_modules
                     key: ${{ runner.os }}-npm-${{ hashFiles('**/package-lock.json') }}
                     restore-keys: |
-                        ${{ runner.os }}-npm-
+                        ${{ runner.os }}-npm-${{ hashFiles('**/package-lock.json') }}
 
             -   name: Install dependencies
                 run: npm i

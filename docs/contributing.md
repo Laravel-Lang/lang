@@ -58,7 +58,7 @@ We can avoid this situation in the following way:
   > }
   > ```
   >
-  > _locales/it/_excludes.json_:
+  > _locales/it/\_excludes.json_:
   > ```json
   > [
   >     "Micronesia"

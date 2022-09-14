@@ -4,14 +4,187 @@ editLink: false
 
 # ps
 
-##### All missed: 734
+##### All missed: 798
+
+
+### json-inline
+
+##### Missing: 14
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+The :attribute must be a valid role.
+
+</td><td width="50%">
+
+This field must be a valid role.
+
+</td></tr>
+<tr><td width="50%">
+
+The :attribute must be at least :length characters and contain at least one number.
+
+</td><td width="50%">
+
+This field must be at least :length characters and contain at least one number.
+
+</td></tr>
+<tr><td width="50%">
+
+The :attribute must be at least :length characters and contain at least one special character and one number.
+
+</td><td width="50%">
+
+This field must be at least :length characters and contain at least one special character and one number.
+
+</td></tr>
+<tr><td width="50%">
+
+The :attribute must be at least :length characters and contain at least one special character.
+
+</td><td width="50%">
+
+This field must be at least :length characters and contain at least one special character.
+
+</td></tr>
+<tr><td width="50%">
+
+The :attribute must be at least :length characters and contain at least one uppercase character and one number.
+
+</td><td width="50%">
+
+This field must be at least :length characters and contain at least one uppercase character and one number.
+
+</td></tr>
+<tr><td width="50%">
+
+The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
+
+</td><td width="50%">
+
+This field must be at least :length characters and contain at least one uppercase character and one special character.
+
+</td></tr>
+<tr><td width="50%">
+
+The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
+
+</td><td width="50%">
+
+This field must be at least :length characters and contain at least one uppercase character, one number, and one special character.
+
+</td></tr>
+<tr><td width="50%">
+
+The :attribute must be at least :length characters and contain at least one uppercase character.
+
+</td><td width="50%">
+
+This field must be at least :length characters and contain at least one uppercase character.
+
+</td></tr>
+<tr><td width="50%">
+
+The :attribute must be at least :length characters.
+
+</td><td width="50%">
+
+This field must be at least :length characters.
+
+</td></tr>
+<tr><td width="50%">
+
+The :attribute must contain at least one letter.
+
+</td><td width="50%">
+
+This field must contain at least one letter.
+
+</td></tr>
+<tr><td width="50%">
+
+The :attribute must contain at least one number.
+
+</td><td width="50%">
+
+This field must contain at least one number.
+
+</td></tr>
+<tr><td width="50%">
+
+The :attribute must contain at least one symbol.
+
+</td><td width="50%">
+
+This field must contain at least one symbol.
+
+</td></tr>
+<tr><td width="50%">
+
+The :attribute must contain at least one uppercase and one lowercase letter.
+
+</td><td width="50%">
+
+This field must contain at least one uppercase and one lowercase letter.
+
+</td></tr>
+<tr><td width="50%">
+
+The given :attribute has appeared in a data leak. Please choose a different :attribute.
+
+</td><td width="50%">
+
+The given field has appeared in a data leak. Please choose a different field.
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
 
 
 ### json
 
-##### Missing: 711
+##### Missing: 725
 
 <table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+(and :count more error)
+
+</td><td width="50%">
+
+(and :count more error)
+
+</td></tr>
+<tr><td width="50%">
+
+(and :count more errors)
+
+</td><td width="50%">
+
+(and :count more errors)
+
+</td></tr>
 <tr><td width="50%">
 
 30 Days
@@ -1742,15 +1915,6 @@ Download Receipt
 </td></tr>
 <tr><td width="50%">
 
-E-Mail Address
-
-</td><td width="50%">
-
-E-Mail Address
-
-</td></tr>
-<tr><td width="50%">
-
 Ecuador
 
 </td><td width="50%">
@@ -2125,6 +2289,15 @@ French Southern Territories
 </td><td width="50%">
 
 French Southern Territories
+
+</td></tr>
+<tr><td width="50%">
+
+From
+
+</td><td width="50%">
+
+From
 
 </td></tr>
 <tr><td width="50%">
@@ -2921,11 +3094,29 @@ Log Out Other Browser Sessions
 </td></tr>
 <tr><td width="50%">
 
+Log Viewer
+
+</td><td width="50%">
+
+Log Viewer
+
+</td></tr>
+<tr><td width="50%">
+
 Logout Other Browser Sessions
 
 </td><td width="50%">
 
 Logout Other Browser Sessions
+
+</td></tr>
+<tr><td width="50%">
+
+Logs
+
+</td><td width="50%">
+
+Logs
 
 </td></tr>
 <tr><td width="50%">
@@ -4073,6 +4264,15 @@ Recovery Code
 </td></tr>
 <tr><td width="50%">
 
+Refresh
+
+</td><td width="50%">
+
+Refresh
+
+</td></tr>
+<tr><td width="50%">
+
 Regenerate Recovery Codes
 
 </td><td width="50%">
@@ -4460,6 +4660,24 @@ Saved.
 </td></tr>
 <tr><td width="50%">
 
+Scroll to bottom
+
+</td><td width="50%">
+
+Scroll to bottom
+
+</td></tr>
+<tr><td width="50%">
+
+Scroll to top
+
+</td><td width="50%">
+
+Scroll to top
+
+</td></tr>
+<tr><td width="50%">
+
 Search
 
 </td><td width="50%">
@@ -4483,6 +4701,15 @@ Select a different plan
 </td><td width="50%">
 
 Select a different plan
+
+</td></tr>
+<tr><td width="50%">
+
+Select a log file...
+
+</td><td width="50%">
+
+Select a log file...
 
 </td></tr>
 <tr><td width="50%">
@@ -4784,6 +5011,15 @@ Start Polling
 </td></tr>
 <tr><td width="50%">
 
+Start polling
+
+</td><td width="50%">
+
+Start polling
+
+</td></tr>
+<tr><td width="50%">
+
 State / County
 
 </td><td width="50%">
@@ -4807,6 +5043,15 @@ Stop Polling
 </td><td width="50%">
 
 Stop Polling
+
+</td></tr>
+<tr><td width="50%">
+
+Stop polling
+
+</td><td width="50%">
+
+Stop polling
 
 </td></tr>
 <tr><td width="50%">
@@ -5225,6 +5470,15 @@ The action ran successfully!
 </td></tr>
 <tr><td width="50%">
 
+The action was executed successfully.
+
+</td><td width="50%">
+
+The action was executed successfully.
+
+</td></tr>
+<tr><td width="50%">
+
 The file was deleted!
 
 </td><td width="50%">
@@ -5239,6 +5493,15 @@ The given :attribute has appeared in a data leak. Please choose a different :att
 </td><td width="50%">
 
 The given :attribute has appeared in a data leak. Please choose a different :attribute.
+
+</td></tr>
+<tr><td width="50%">
+
+The given data was invalid.
+
+</td><td width="50%">
+
+The given data was invalid.
 
 </td></tr>
 <tr><td width="50%">
@@ -5311,6 +5574,15 @@ The provided two factor authentication code was invalid.
 </td><td width="50%">
 
 The provided two factor authentication code was invalid.
+
+</td></tr>
+<tr><td width="50%">
+
+The provided two factor recovery code was invalid.
+
+</td><td width="50%">
+
+The provided two factor recovery code was invalid.
 
 </td></tr>
 <tr><td width="50%">
@@ -5617,6 +5889,15 @@ to
 </td><td width="50%">
 
 to
+
+</td></tr>
+<tr><td width="50%">
+
+To
+
+</td><td width="50%">
+
+To
 
 </td></tr>
 <tr><td width="50%">
@@ -6417,11 +6698,337 @@ Zip / Postal Code
 
 
 
-### php
+### php-inline
 
-##### Missing: 23
+##### Missing: 33
 
 <table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+accepted
+
+</td><td width="50%">
+
+This field must be accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+accepted_if
+
+</td><td width="50%">
+
+This field must be accepted when :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+alpha
+
+</td><td width="50%">
+
+This field must only contain letters.
+
+</td></tr>
+<tr><td width="50%">
+
+alpha_dash
+
+</td><td width="50%">
+
+This field must only contain letters, numbers, dashes and underscores.
+
+</td></tr>
+<tr><td width="50%">
+
+alpha_num
+
+</td><td width="50%">
+
+This field must only contain letters and numbers.
+
+</td></tr>
+<tr><td width="50%">
+
+array
+
+</td><td width="50%">
+
+This field must be an array.
+
+</td></tr>
+<tr><td width="50%">
+
+attached
+
+</td><td width="50%">
+
+This field is already attached.
+
+</td></tr>
+<tr><td width="50%">
+
+boolean
+
+</td><td width="50%">
+
+This field must be true or false.
+
+</td></tr>
+<tr><td width="50%">
+
+distinct
+
+</td><td width="50%">
+
+This field has a duplicate value.
+
+</td></tr>
+<tr><td width="50%">
+
+doesnt_end_with
+
+</td><td width="50%">
+
+This field may not end with one of the following: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+doesnt_start_with
+
+</td><td width="50%">
+
+This field may not start with one of the following: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+filled
+
+</td><td width="50%">
+
+This field must have a value.
+
+</td></tr>
+<tr><td width="50%">
+
+max_digits
+
+</td><td width="50%">
+
+This field must not have more than :max digits.
+
+</td></tr>
+<tr><td width="50%">
+
+min_digits
+
+</td><td width="50%">
+
+This field must have at least :min digits.
+
+</td></tr>
+<tr><td width="50%">
+
+password.letters
+
+</td><td width="50%">
+
+This field must contain at least one letter.
+
+</td></tr>
+<tr><td width="50%">
+
+password.mixed
+
+</td><td width="50%">
+
+This field must contain at least one uppercase and one lowercase letter.
+
+</td></tr>
+<tr><td width="50%">
+
+password.numbers
+
+</td><td width="50%">
+
+This field must contain at least one number.
+
+</td></tr>
+<tr><td width="50%">
+
+password.symbols
+
+</td><td width="50%">
+
+This field must contain at least one symbol.
+
+</td></tr>
+<tr><td width="50%">
+
+password.uncompromised
+
+</td><td width="50%">
+
+The given field has appeared in a data leak. Please choose a different field.
+
+</td></tr>
+<tr><td width="50%">
+
+present
+
+</td><td width="50%">
+
+This field must be present.
+
+</td></tr>
+<tr><td width="50%">
+
+prohibited
+
+</td><td width="50%">
+
+This field is prohibited.
+
+</td></tr>
+<tr><td width="50%">
+
+prohibited_if
+
+</td><td width="50%">
+
+This field is prohibited when :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+prohibited_unless
+
+</td><td width="50%">
+
+This field is prohibited unless :other is in :values.
+
+</td></tr>
+<tr><td width="50%">
+
+prohibits
+
+</td><td width="50%">
+
+This field prohibits :other from being present.
+
+</td></tr>
+<tr><td width="50%">
+
+relatable
+
+</td><td width="50%">
+
+This field may not be associated with this resource.
+
+</td></tr>
+<tr><td width="50%">
+
+required
+
+</td><td width="50%">
+
+This field is required.
+
+</td></tr>
+<tr><td width="50%">
+
+required_array_keys
+
+</td><td width="50%">
+
+This field must contain entries for: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+required_if
+
+</td><td width="50%">
+
+This field is required when :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+required_unless
+
+</td><td width="50%">
+
+This field is required unless :other is in :values.
+
+</td></tr>
+<tr><td width="50%">
+
+required_with
+
+</td><td width="50%">
+
+This field is required when :values is present.
+
+</td></tr>
+<tr><td width="50%">
+
+required_with_all
+
+</td><td width="50%">
+
+This field is required when :values are present.
+
+</td></tr>
+<tr><td width="50%">
+
+required_without
+
+</td><td width="50%">
+
+This field is required when :values is not present.
+
+</td></tr>
+<tr><td width="50%">
+
+required_without_all
+
+</td><td width="50%">
+
+This field is required when none of :values are present.
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php
+
+##### Missing: 26
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
 <tr><td width="50%">
 
 accepted_if
@@ -6469,6 +7076,15 @@ The :attribute must be declined when :other is :value.
 </td></tr>
 <tr><td width="50%">
 
+doesnt_end_with
+
+</td><td width="50%">
+
+The :attribute may not end with one of the following: :values.
+
+</td></tr>
+<tr><td width="50%">
+
 doesnt_start_with
 
 </td><td width="50%">
@@ -6501,6 +7117,24 @@ mac_address
 </td><td width="50%">
 
 The :attribute must be a valid MAC address.
+
+</td></tr>
+<tr><td width="50%">
+
+max_digits
+
+</td><td width="50%">
+
+The :attribute must not have more than :max digits.
+
+</td></tr>
+<tr><td width="50%">
+
+min_digits
+
+</td><td width="50%">
+
+The :attribute must have at least :min digits.
 
 </td></tr>
 <tr><td width="50%">

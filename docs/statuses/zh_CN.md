@@ -4,30 +4,48 @@ editLink: false
 
 # zh_CN
 
-##### All missed: 18
+##### All missed: 32
 
 
 ### json
 
-##### Missing: 12
+##### Missing: 14
 
 <table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
 <tr><td width="50%">
 
-Are you sure you want to delete this notification?
+(and :count more error)
 
 </td><td width="50%">
 
-Are you sure you want to delete this notification?
+(and :count more error)
 
 </td></tr>
 <tr><td width="50%">
 
-Copy to clipboard
+(and :count more errors)
 
 </td><td width="50%">
 
-Copy to clipboard
+(and :count more errors)
+
+</td></tr>
+<tr><td width="50%">
+
+From
+
+</td><td width="50%">
+
+From
 
 </td></tr>
 <tr><td width="50%">
@@ -41,20 +59,20 @@ If necessary, you may logout of all of your other browser sessions across all of
 </td></tr>
 <tr><td width="50%">
 
-Logout Other Browser Sessions
+Log Viewer
 
 </td><td width="50%">
 
-Logout Other Browser Sessions
+Log Viewer
 
 </td></tr>
 <tr><td width="50%">
 
-Manage and logout your active sessions on other browsers and devices.
+Logs
 
 </td><td width="50%">
 
-Manage and logout your active sessions on other browsers and devices.
+Logs
 
 </td></tr>
 <tr><td width="50%">
@@ -64,15 +82,6 @@ Mark all as Read
 </td><td width="50%">
 
 Mark all as Read
-
-</td></tr>
-<tr><td width="50%">
-
-Nevermind
-
-</td><td width="50%">
-
-Nevermind
 
 </td></tr>
 <tr><td width="50%">
@@ -104,20 +113,139 @@ Please provide the email address of the person you would like to add to this tea
 </td></tr>
 <tr><td width="50%">
 
-Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
+Refresh
 
 </td><td width="50%">
 
-Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
+Refresh
 
 </td></tr>
 <tr><td width="50%">
 
-Your email address is unverified.
+Start polling
 
 </td><td width="50%">
 
-Your email address is unverified.
+Start polling
+
+</td></tr>
+<tr><td width="50%">
+
+Stop polling
+
+</td><td width="50%">
+
+Stop polling
+
+</td></tr>
+<tr><td width="50%">
+
+To
+
+</td><td width="50%">
+
+To
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php-inline
+
+##### Missing: 9
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+doesnt_end_with
+
+</td><td width="50%">
+
+This field may not end with one of the following: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+doesnt_start_with
+
+</td><td width="50%">
+
+This field may not start with one of the following: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+max_digits
+
+</td><td width="50%">
+
+This field must not have more than :max digits.
+
+</td></tr>
+<tr><td width="50%">
+
+min_digits
+
+</td><td width="50%">
+
+This field must have at least :min digits.
+
+</td></tr>
+<tr><td width="50%">
+
+password.letters
+
+</td><td width="50%">
+
+This field must contain at least one letter.
+
+</td></tr>
+<tr><td width="50%">
+
+password.mixed
+
+</td><td width="50%">
+
+This field must contain at least one uppercase and one lowercase letter.
+
+</td></tr>
+<tr><td width="50%">
+
+password.numbers
+
+</td><td width="50%">
+
+This field must contain at least one number.
+
+</td></tr>
+<tr><td width="50%">
+
+password.symbols
+
+</td><td width="50%">
+
+This field must contain at least one symbol.
+
+</td></tr>
+<tr><td width="50%">
+
+password.uncompromised
+
+</td><td width="50%">
+
+The given field has appeared in a data leak. Please choose a different field.
 
 </td></tr>
 </table>
@@ -128,9 +256,27 @@ Your email address is unverified.
 
 ### php
 
-##### Missing: 6
+##### Missing: 9
 
 <table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+doesnt_end_with
+
+</td><td width="50%">
+
+The :attribute may not end with one of the following: :values.
+
+</td></tr>
 <tr><td width="50%">
 
 doesnt_start_with
@@ -138,6 +284,24 @@ doesnt_start_with
 </td><td width="50%">
 
 The :attribute may not start with one of the following: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+max_digits
+
+</td><td width="50%">
+
+The :attribute must not have more than :max digits.
+
+</td></tr>
+<tr><td width="50%">
+
+min_digits
+
+</td><td width="50%">
+
+The :attribute must have at least :min digits.
 
 </td></tr>
 <tr><td width="50%">

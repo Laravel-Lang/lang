@@ -102,6 +102,15 @@ it
 </td></tr>
 <tr><td width="50%">
 
+ja
+
+</td><td width="50%">
+
+@wadakatu
+
+</td></tr>
+<tr><td width="50%">
+
 mk
 
 </td><td width="50%">
@@ -124,7 +133,7 @@ pl
 
 </td><td width="50%">
 
-@Olsza
+@Olsza, @makowskid
 
 </td></tr>
 <tr><td width="50%">
@@ -143,6 +152,15 @@ pt_BR
 </td><td width="50%">
 
 @EuCarlos
+
+</td></tr>
+<tr><td width="50%">
+
+ro
+
+</td><td width="50%">
+
+@Van4kk
 
 </td></tr>
 <tr><td width="50%">
@@ -188,6 +206,15 @@ sw
 </td><td width="50%">
 
 @Pheogrammer
+
+</td></tr>
+<tr><td width="50%">
+
+tr
+
+</td><td width="50%">
+
+@hs-qwerty
 
 </td></tr>
 <tr><td width="50%">

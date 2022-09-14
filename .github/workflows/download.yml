@@ -8,179 +8,81 @@ on:
 permissions: write-all
 
 jobs:
-    update:
-        runs-on: ubuntu-latest
+    laravel:
+        uses: Laravel-Lang/.github/.github/workflows/download.yml@main
+        with:
+            project: Laravel Framework
+            paths: source/laravel/*,source/framework/*
+            commands: |
+                vendor/bin/lang download --url=https://github.com/laravel/laravel/archive/refs/heads/9.x.zip --project=laravel --ver=9.x --copy=lang
+                vendor/bin/lang download --url=https://github.com/laravel/laravel/archive/refs/heads/master.zip --project=laravel --ver=master --copy=lang
+                
+                vendor/bin/lang download --url=https://github.com/laravel/framework/archive/refs/heads/9.x.zip --project=framework --ver=9.x
+                vendor/bin/lang download --url=https://github.com/laravel/framework/archive/refs/heads/master.zip --project=framework --ver=master
+    
+    lumen:
+        uses: Laravel-Lang/.github/.github/workflows/download.yml@main
+        with:
+            project: Lumen Framework
+            paths: source/lumen-framework/*
+            commands: |
+                vendor/bin/lang download --url=https://github.com/laravel/lumen-framework/archive/refs/heads/9.x.zip --project=lumen-framework --ver=9.x --copy=lang --copy=resources/lang
+                vendor/bin/lang download --url=https://github.com/laravel/lumen-framework/archive/refs/heads/master.zip --project=lumen-framework --ver=master --copy=lang --copy=resources/lang
 
-        steps:
-            -   name: Checkout code
-                uses: actions/checkout@v3
+    breeze:
+        uses: Laravel-Lang/.github/.github/workflows/download.yml@main
+        with:
+            project: Laravel Breeze
+            paths: source/breeze/*
+            commands: |
+                vendor/bin/lang download --url=https://github.com/laravel/breeze/archive/refs/heads/1.x.zip --project=breeze --ver=1.x
+                vendor/bin/lang download --url=https://github.com/laravel/breeze/archive/refs/heads/master.zip --project=breeze --ver=master
 
-            -   name: Setup PHP
-                uses: shivammathur/setup-php@v2
-                with:
-                    extensions: curl, mbstring, zip, pcntl, pdo, pdo_sqlite, iconv, json
-                    coverage: none
+    cashier_stripe:
+        uses: Laravel-Lang/.github/.github/workflows/download.yml@main
+        with:
+            project: Laravel Cashier Stripe
+            paths: source/cashier/stripe/*
+            commands: |
+                vendor/bin/lang download --url=https://github.com/laravel/cashier-stripe/archive/refs/heads/12.x.zip --project=cashier/stripe --ver=12.x
+                vendor/bin/lang download --url=https://github.com/laravel/cashier-stripe/archive/refs/heads/13.x.zip --project=cashier/stripe --ver=13.x
+                vendor/bin/lang download --url=https://github.com/laravel/cashier-stripe/archive/refs/heads/14.x.zip --project=cashier/stripe --ver=14.x
+                vendor/bin/lang download --url=https://github.com/laravel/cashier-stripe/archive/refs/heads/master.zip --project=cashier/stripe --ver=master
 
-            -   name: Git setup
-                if: success()
-                run: |
-                    git config --local user.email "action@github.com"
-                    git config --local user.name "GitHub Action"
+    fortify:
+        uses: Laravel-Lang/.github/.github/workflows/download.yml@main
+        with:
+            project: Laravel Fortify
+            paths: source/fortify/*
+            commands: |
+                vendor/bin/lang download --url=https://github.com/laravel/fortify/archive/refs/heads/1.x.zip --project=fortify --ver=1.x
+                vendor/bin/lang download --url=https://github.com/laravel/fortify/archive/refs/heads/master.zip --project=fortify --ver=master
 
-            -   name: Install dependencies
-                run: |
-                    composer update --prefer-stable --prefer-dist --no-progress --no-interaction
-                    composer global require dragon-code/codestyler
+    jetstream:
+        uses: Laravel-Lang/.github/.github/workflows/download.yml@main
+        with:
+            project: Laravel Jetstream
+            paths: source/jetstream/*
+            commands: |
+                vendor/bin/lang download --url=https://github.com/laravel/jetstream/archive/refs/heads/1.x.zip --project=jetstream --ver=1.x
+                vendor/bin/lang download --url=https://github.com/laravel/jetstream/archive/refs/heads/2.x.zip --project=jetstream --ver=2.x
+                vendor/bin/lang download --url=https://github.com/laravel/jetstream/archive/refs/heads/master.zip --project=jetstream --ver=master
 
-            -   name: Download Laravel
-                id: download_laravel
-                if: success()
-                run: |
-                    IS_DIRTY=1
+    nova_log_viewer:
+        uses: Laravel-Lang/.github/.github/workflows/download.yml@main
+        with:
+            project: Laravel Nova Log Viewer
+            paths: source/nova/log-viewer/*
+            commands: |
+                vendor/bin/lang download --url=https://github.com/laravel/nova-log-viewer/archive/refs/heads/main.zip --project=nova/log-viewer --ver=main
 
-                    vendor/bin/lang download --url=https://github.com/laravel/laravel/archive/refs/heads/6.x.zip --project=laravel --ver=6.x --copy=resources/lang
-                    vendor/bin/lang download --url=https://github.com/laravel/laravel/archive/refs/heads/7.x.zip --project=laravel --ver=7.x --copy=resources/lang
-                    vendor/bin/lang download --url=https://github.com/laravel/laravel/archive/refs/heads/8.x.zip --project=laravel --ver=8.x --copy=resources/lang
-                    vendor/bin/lang download --url=https://github.com/laravel/laravel/archive/refs/heads/9.x.zip --project=laravel --ver=9.x --copy=lang
-                    vendor/bin/lang download --url=https://github.com/laravel/laravel/archive/refs/heads/master.zip --project=laravel --ver=master --copy=lang
-
-                    vendor/bin/lang download --url=https://github.com/laravel/framework/archive/refs/heads/6.x.zip --project=framework --ver=6.x
-                    vendor/bin/lang download --url=https://github.com/laravel/framework/archive/refs/heads/7.x.zip --project=framework --ver=7.x
-                    vendor/bin/lang download --url=https://github.com/laravel/framework/archive/refs/heads/8.x.zip --project=framework --ver=8.x
-                    vendor/bin/lang download --url=https://github.com/laravel/framework/archive/refs/heads/9.x.zip --project=framework --ver=9.x
-                    vendor/bin/lang download --url=https://github.com/laravel/framework/archive/refs/heads/master.zip --project=framework --ver=master
-
-                    codestyle fix
-
-                    { git add . && git commit -a -m "Updated Laravel Framework files"; } || IS_DIRTY=0
-
-                    echo ::set-output name=is_dirty::${IS_DIRTY}
-
-            -   name: Download Lumen
-                id: download_lumen
-                if: success()
-                run: |
-                    IS_DIRTY=1
-
-                    vendor/bin/lang download --url=https://github.com/laravel/lumen-framework/archive/refs/heads/6.x.zip --project=lumen-framework --ver=6.x --copy=lang --copy=resources/lang
-                    vendor/bin/lang download --url=https://github.com/laravel/lumen-framework/archive/refs/heads/7.x.zip --project=lumen-framework --ver=7.x --copy=lang --copy=resources/lang
-                    vendor/bin/lang download --url=https://github.com/laravel/lumen-framework/archive/refs/heads/8.x.zip --project=lumen-framework --ver=8.x --copy=lang --copy=resources/lang
-                    vendor/bin/lang download --url=https://github.com/laravel/lumen-framework/archive/refs/heads/9.x.zip --project=lumen-framework --ver=9.x --copy=lang --copy=resources/lang
-
-                    codestyle fix
-
-                    { git add . && git commit -a -m "Updated Lumen Framework files"; } || IS_DIRTY=0
-
-                    echo ::set-output name=is_dirty::${IS_DIRTY}
-
-            -   name: Download Jetstream
-                id: download_jetstream
-                if: success()
-                run: |
-                    IS_DIRTY=1
-
-                    vendor/bin/lang download --url=https://github.com/laravel/jetstream/archive/refs/heads/1.x.zip --project=jetstream --ver=1.x
-                    vendor/bin/lang download --url=https://github.com/laravel/jetstream/archive/refs/heads/2.x.zip --project=jetstream --ver=2.x
-                    vendor/bin/lang download --url=https://github.com/laravel/jetstream/archive/refs/heads/master.zip --project=jetstream --ver=master
-
-                    codestyle fix
-
-                    { git add . && git commit -a -m "Updating Laravel Jetstream files"; } || IS_DIRTY=0
-
-                    echo ::set-output name=is_dirty::${IS_DIRTY}
-
-            -   name: Download Breeze
-                id: download_breeze
-                if: success()
-                run: |
-                    IS_DIRTY=1
-
-                    vendor/bin/lang download --url=https://github.com/laravel/breeze/archive/refs/heads/1.x.zip --project=breeze --ver=1.x
-
-                    codestyle fix
-
-                    { git add . && git commit -a -m "Updating Laravel Breeze files"; } || IS_DIRTY=0
-
-                    echo ::set-output name=is_dirty::${IS_DIRTY}
-
-            -   name: Download Cashier Paddle
-                id: download_cashier_paddle
-                if: success()
-                run: |
-                    IS_DIRTY=1
-
-                    vendor/bin/lang download --url=https://github.com/laravel/cashier-paddle/archive/refs/heads/1.x.zip --project=cashier/paddle --ver=1.x
-
-                    codestyle fix
-
-                    { git add . && git commit -a -m "Updating Laravel Cashier-Paddle files"; } || IS_DIRTY=0
-
-                    echo ::set-output name=is_dirty::${IS_DIRTY}
-
-            -   name: Download Cashier Stripe
-                id: download_cashier_stripe
-                if: success()
-                run: |
-                    IS_DIRTY=1
-
-                    vendor/bin/lang download --url=https://github.com/laravel/cashier-stripe/archive/refs/heads/12.x.zip --project=cashier/stripe --ver=12.x
-                    vendor/bin/lang download --url=https://github.com/laravel/cashier-stripe/archive/refs/heads/13.x.zip --project=cashier/stripe --ver=13.x
-
-                    codestyle fix
-
-                    { git add . && git commit -a -m "Updating Laravel Cashier-Stripe files"; } || IS_DIRTY=0
-
-                    echo ::set-output name=is_dirty::${IS_DIRTY}
-
-            -   name: Download Fortify
-                id: download_fortify
-                if: success()
-                run: |
-                    IS_DIRTY=1
-
-                    vendor/bin/lang download --url=https://github.com/laravel/fortify/archive/refs/heads/1.x.zip --project=fortify --ver=1.x
-
-                    codestyle fix
-
-                    { git add . && git commit -a -m "Updating Laravel Fortify files"; } || IS_DIRTY=0
-
-                    echo ::set-output name=is_dirty::${IS_DIRTY}
-
-            -   name: Download UI
-                id: download_ui
-                if: success()
-                run: |
-                    IS_DIRTY=1
-
-                    vendor/bin/lang download --url=https://github.com/laravel/ui/archive/refs/heads/1.x.zip --project=ui --ver=1.x
-                    vendor/bin/lang download --url=https://github.com/laravel/ui/archive/refs/heads/2.x.zip --project=ui --ver=2.x
-                    vendor/bin/lang download --url=https://github.com/laravel/ui/archive/refs/heads/3.x.zip --project=ui --ver=3.x
-
-                    codestyle fix
-
-                    { git add . && git commit -a -m "Updating Laravel UI files"; } || IS_DIRTY=0
-
-                    echo ::set-output name=is_dirty::${IS_DIRTY}
-
-            -   name: Push changes
-                uses: ad-m/github-push-action@master
-                if: |
-                    success() && (
-                    steps.download_laravel.outputs.is_dirty == 1 ||
-                    steps.download_jetstream.outputs.is_dirty == 1 ||
-                    steps.download_breeze.outputs.is_dirty == 1 ||
-                    steps.download_cashier_paddle.outputs.is_dirty == 1 ||
-                    steps.download_cashier_stripe.outputs.is_dirty == 1 ||
-                    steps.download_fortify.outputs.is_dirty == 1 ||
-                    steps.download_ui.outputs.is_dirty == 1
-                    )
-                with:
-                    github_token: ${{ secrets.COMPOSER_TOKEN }}
-
-            -   name: Update keys trigger
-                uses: myrotvorets/trigger-repository-dispatch-action@1.1.1
-                if: success()
-                with:
-                    token: ${{ secrets.COMPOSER_TOKEN }}
-                    repo: Laravel-Lang/lang
-                    type: update
+    ui:
+        uses: Laravel-Lang/.github/.github/workflows/download.yml@main
+        with:
+            project: Laravel UI
+            paths: source/ui/*
+            commands: |
+                vendor/bin/lang download --url=https://github.com/laravel/ui/archive/refs/heads/3.x.zip --project=ui --ver=3.x
+                vendor/bin/lang download --url=https://github.com/laravel/ui/archive/refs/heads/4.x.zip --project=ui --ver=4.x
+                vendor/bin/lang download --url=https://github.com/laravel/ui/archive/refs/heads/master.zip --project=ui --ver=master
+    

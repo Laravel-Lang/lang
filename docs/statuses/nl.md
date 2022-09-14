@@ -4,39 +4,48 @@ editLink: false
 
 # nl
 
-##### All missed: 21
+##### All missed: 28
 
 
 ### json
 
-##### Missing: 15
+##### Missing: 16
 
 <table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
 <tr><td width="50%">
 
-Are you sure you want to delete this notification?
+(and :count more error)
 
 </td><td width="50%">
 
-Are you sure you want to delete this notification?
+(and :count more error)
 
 </td></tr>
 <tr><td width="50%">
 
-Copy to clipboard
+(and :count more errors)
 
 </td><td width="50%">
 
-Copy to clipboard
+(and :count more errors)
 
 </td></tr>
 <tr><td width="50%">
 
-If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
+From
 
 </td><td width="50%">
 
-If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
+From
 
 </td></tr>
 <tr><td width="50%">
@@ -50,101 +59,211 @@ Iran
 </td></tr>
 <tr><td width="50%">
 
-Logout Other Browser Sessions
+Log Viewer
 
 </td><td width="50%">
 
-Logout Other Browser Sessions
+Log Viewer
 
 </td></tr>
 <tr><td width="50%">
 
-Manage and logout your active sessions on other browsers and devices.
+Logs
 
 </td><td width="50%">
 
-Manage and logout your active sessions on other browsers and devices.
+Logs
 
 </td></tr>
 <tr><td width="50%">
 
-Mark all as Read
+Refresh
 
 </td><td width="50%">
 
-Mark all as Read
+Refresh
 
 </td></tr>
 <tr><td width="50%">
 
-Nevermind
+Scroll to bottom
 
 </td><td width="50%">
 
-Nevermind
+Scroll to bottom
 
 </td></tr>
 <tr><td width="50%">
 
-Notifications
+Scroll to top
 
 </td><td width="50%">
 
-Notifications
+Scroll to top
 
 </td></tr>
 <tr><td width="50%">
 
-Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+Select a log file...
 
 </td><td width="50%">
 
-Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+Select a log file...
 
 </td></tr>
 <tr><td width="50%">
 
-Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+Start polling
 
 </td><td width="50%">
 
-Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+Start polling
 
 </td></tr>
 <tr><td width="50%">
 
-Saint Barthelemy
+Stop polling
 
 </td><td width="50%">
 
-St. Barthélemy
+Stop polling
 
 </td></tr>
 <tr><td width="50%">
 
-Saint Martin
+The action was executed successfully.
 
 </td><td width="50%">
 
-St. Martin
+The action was executed successfully.
 
 </td></tr>
 <tr><td width="50%">
 
-Sint Maarten (Dutch part)
+The given data was invalid.
 
 </td><td width="50%">
 
-Sint Maarten
+The given data was invalid.
 
 </td></tr>
 <tr><td width="50%">
 
-Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
+The provided two factor recovery code was invalid.
 
 </td><td width="50%">
 
-Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
+The provided two factor recovery code was invalid.
+
+</td></tr>
+<tr><td width="50%">
+
+To
+
+</td><td width="50%">
+
+To
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php-inline
+
+##### Missing: 9
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+doesnt_end_with
+
+</td><td width="50%">
+
+This field may not end with one of the following: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+doesnt_start_with
+
+</td><td width="50%">
+
+This field may not start with one of the following: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+max_digits
+
+</td><td width="50%">
+
+This field must not have more than :max digits.
+
+</td></tr>
+<tr><td width="50%">
+
+min_digits
+
+</td><td width="50%">
+
+This field must have at least :min digits.
+
+</td></tr>
+<tr><td width="50%">
+
+password.letters
+
+</td><td width="50%">
+
+This field must contain at least one letter.
+
+</td></tr>
+<tr><td width="50%">
+
+password.mixed
+
+</td><td width="50%">
+
+This field must contain at least one uppercase and one lowercase letter.
+
+</td></tr>
+<tr><td width="50%">
+
+password.numbers
+
+</td><td width="50%">
+
+This field must contain at least one number.
+
+</td></tr>
+<tr><td width="50%">
+
+password.symbols
+
+</td><td width="50%">
+
+This field must contain at least one symbol.
+
+</td></tr>
+<tr><td width="50%">
+
+password.uncompromised
+
+</td><td width="50%">
+
+The given field has appeared in a data leak. Please choose a different field.
 
 </td></tr>
 </table>
@@ -155,61 +274,43 @@ Two factor authentication is now enabled. Scan the following QR code using your 
 
 ### php
 
-##### Missing: 6
+##### Missing: 3
 
 <table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
 <tr><td width="50%">
 
-doesnt_start_with
+doesnt_end_with
 
 </td><td width="50%">
 
-The :attribute may not start with one of the following: :values.
+The :attribute may not end with one of the following: :values.
 
 </td></tr>
 <tr><td width="50%">
 
-password.letters
+max_digits
 
 </td><td width="50%">
 
-The :attribute must contain at least one letter.
+The :attribute must not have more than :max digits.
 
 </td></tr>
 <tr><td width="50%">
 
-password.mixed
+min_digits
 
 </td><td width="50%">
 
-The :attribute must contain at least one uppercase and one lowercase letter.
-
-</td></tr>
-<tr><td width="50%">
-
-password.numbers
-
-</td><td width="50%">
-
-The :attribute must contain at least one number.
-
-</td></tr>
-<tr><td width="50%">
-
-password.symbols
-
-</td><td width="50%">
-
-The :attribute must contain at least one symbol.
-
-</td></tr>
-<tr><td width="50%">
-
-password.uncompromised
-
-</td><td width="50%">
-
-The given :attribute has appeared in a data leak. Please choose a different :attribute.
+The :attribute must have at least :min digits.
 
 </td></tr>
 </table>

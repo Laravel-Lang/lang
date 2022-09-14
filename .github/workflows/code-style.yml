@@ -1,0 +1,35 @@
+name: code-style
+
+on:
+    push:
+    pull_request:
+
+permissions: write-all
+
+jobs:
+    check:
+        if: ${{ ! (github.event_name == 'push' && github.ref == 'refs/heads/main') }}
+
+        runs-on: ubuntu-latest
+
+        steps:
+            -   name: Checkout code
+                uses: actions/checkout@v3
+
+            -   name: Checking PHP Syntax
+                uses: TheDragonCode/codestyler@v2.6.2
+    
+    fix:
+        if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
+        
+        runs-on: ubuntu-latest
+
+        steps:
+            -   name: Checkout code
+                uses: actions/checkout@v3
+
+            -   name: Checking PHP Syntax
+                uses: TheDragonCode/codestyler@v2.6.2
+                with:
+                    github_token: ${{ secrets.COMPOSER_TOKEN }}
+                    fix: true

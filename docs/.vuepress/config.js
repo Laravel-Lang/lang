@@ -1,11 +1,13 @@
-const fs = require('fs');
-const path = require('path');
+import fs from 'fs'
+import path from 'path'
+import dotenv from 'dotenv'
 
-const { viteBundler, defaultTheme } = require('vuepress');
+import { defaultTheme, viteBundler } from 'vuepress'
+import { docsearchPlugin } from '@vuepress/plugin-docsearch'
 
-require('dotenv').config();
+dotenv.config()
 
-const hostname = 'laravel-lang.com';
+const hostname = 'laravel-lang.com'
 
 module.exports = {
     lang: 'en-US',
@@ -36,7 +38,7 @@ module.exports = {
 
         navbar: [
             { text: 'Translations Status', link: '/status.md' },
-            { text: '11.x', link: '/changelog/11.x.md' }
+            { text: '12.x', link: '/changelog/12.x.md' }
         ],
 
         sidebarDepth: 1,
@@ -91,30 +93,19 @@ module.exports = {
     }),
 
     plugins: [
-        [
-            'seo',
-            {
-                description: $page => $page.frontmatter.description,
-                type: _ => 'website',
-                image: (_, $site) => $site.domain + '/images/social-logo.png'
-            }
-        ],
-        [
-            '@vuepress/docsearch',
-            {
-                appId: process.env.VITE_APP_ALGOLIA_APP_ID,
-                apiKey: process.env.VITE_APP_ALGOLIA_API_KEY,
-                indexName: process.env.VITE_APP_ALGOLIA_INDEX_NAME
-            }
-        ]
+        docsearchPlugin({
+            appId: process.env.VITE_APP_ALGOLIA_APP_ID,
+            apiKey: process.env.VITE_APP_ALGOLIA_API_KEY,
+            indexName: process.env.VITE_APP_ALGOLIA_INDEX_NAME
+        })
     ]
-};
+}
 
 function getChildren(folder, sort = 'asc') {
-    const extension = ['.md'];
-    const names = ['index.md', 'readme.md'];
+    const extension = ['.md']
+    const names = ['index.md', 'readme.md']
 
-    const dir = `${ __dirname }/../${ folder }`;
+    const dir = `${ __dirname }/../${ folder }`
 
     return fs
         .readdirSync(path.join(dir))
@@ -124,20 +115,20 @@ function getChildren(folder, sort = 'asc') {
             extension.includes(path.extname(item))
         )
         .sort((a, b) => {
-            a = resolveNumeric(a);
-            b = resolveNumeric(b);
+            a = resolveNumeric(a)
+            b = resolveNumeric(b)
 
-            if (a < b) return sort === 'asc' ? -1 : 1;
-            if (a > b) return sort === 'asc' ? 1 : -1;
+            if (a < b) return sort === 'asc' ? -1 : 1
+            if (a > b) return sort === 'asc' ? 1 : -1
 
-            return 0;
-        }).map(item => `/${ folder }/${ item }`);
+            return 0
+        }).map(item => `/${ folder }/${ item }`)
 }
 
 function resolveNumeric(value) {
-    const sub = value.substring(0, value.indexOf('.'));
+    const sub = value.substring(0, value.indexOf('.'))
 
-    const num = Number(sub);
+    const num = Number(sub)
 
-    return isNaN(num) ? value : num;
+    return isNaN(num) ? value : num
 }

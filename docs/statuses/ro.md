@@ -4,41 +4,23 @@ editLink: false
 
 # ro
 
-##### All missed: 227
+##### All missed: 209
 
 
 ### json
 
-##### Missing: 221
+##### Missing: 209
 
 <table width="100%">
-<tr><td width="50%">
+<tr><th width="50%">
 
-A fresh verification link has been sent to your email address.
+Key
 
-</td><td width="50%">
+</th><th width="50%">
 
-A fresh verification link has been sent to your email address.
+Value
 
-</td></tr>
-<tr><td width="50%">
-
-A new verification link has been sent to the email address you provided in your profile settings.
-
-</td><td width="50%">
-
-A new verification link has been sent to the email address you provided in your profile settings.
-
-</td></tr>
-<tr><td width="50%">
-
-A new verification link has been sent to your email address.
-
-</td><td width="50%">
-
-A new verification link has been sent to your email address.
-
-</td></tr>
+</th></tr>
 <tr><td width="50%">
 
 Add VAT Number
@@ -95,20 +77,11 @@ Algeria
 </td></tr>
 <tr><td width="50%">
 
-An error occurred while uploading the file.
+Andorra
 
 </td><td width="50%">
 
-An error occurred while uploading the file.
-
-</td></tr>
-<tr><td width="50%">
-
-An unexpected error occurred and we have notified our support team. Please try again later.
-
-</td><td width="50%">
-
-An unexpected error occurred and we have notified our support team. Please try again later.
+Andorra
 
 </td></tr>
 <tr><td width="50%">
@@ -149,47 +122,11 @@ Antigua and Barbuda
 </td></tr>
 <tr><td width="50%">
 
-Apply
-
-</td><td width="50%">
-
-Apply
-
-</td></tr>
-<tr><td width="50%">
-
-Apply Coupon
-
-</td><td width="50%">
-
-Apply Coupon
-
-</td></tr>
-<tr><td width="50%">
-
 Are you sure you want to delete this notification?
 
 </td><td width="50%">
 
 Are you sure you want to delete this notification?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to log out?
-
-</td><td width="50%">
-
-Are you sure you want to log out?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to stop impersonating?
-
-</td><td width="50%">
-
-Are you sure you want to stop impersonating?
 
 </td></tr>
 <tr><td width="50%">
@@ -626,15 +563,6 @@ Download Receipt
 </td></tr>
 <tr><td width="50%">
 
-E-Mail Address
-
-</td><td width="50%">
-
-E-Mail Address
-
-</td></tr>
-<tr><td width="50%">
-
 Ecuador
 
 </td><td width="50%">
@@ -739,6 +667,15 @@ Forgot Password
 </td><td width="50%">
 
 Forgot Password
+
+</td></tr>
+<tr><td width="50%">
+
+From
+
+</td><td width="50%">
+
+From
 
 </td></tr>
 <tr><td width="50%">
@@ -1094,11 +1031,29 @@ Log In
 </td></tr>
 <tr><td width="50%">
 
+Log Viewer
+
+</td><td width="50%">
+
+Log Viewer
+
+</td></tr>
+<tr><td width="50%">
+
 Logout Other Browser Sessions
 
 </td><td width="50%">
 
 Logout Other Browser Sessions
+
+</td></tr>
+<tr><td width="50%">
+
+Logs
+
+</td><td width="50%">
+
+Logs
 
 </td></tr>
 <tr><td width="50%">
@@ -1499,6 +1454,15 @@ Qatar
 </td></tr>
 <tr><td width="50%">
 
+Refresh
+
+</td><td width="50%">
+
+Refresh
+
+</td></tr>
+<tr><td width="50%">
+
 Replicate
 
 </td><td width="50%">
@@ -1603,6 +1567,33 @@ Sao Tome and Principe
 </td><td width="50%">
 
 Sao Tome and Principe
+
+</td></tr>
+<tr><td width="50%">
+
+Scroll to bottom
+
+</td><td width="50%">
+
+Scroll to bottom
+
+</td></tr>
+<tr><td width="50%">
+
+Scroll to top
+
+</td><td width="50%">
+
+Scroll to top
+
+</td></tr>
+<tr><td width="50%">
+
+Select a log file...
+
+</td><td width="50%">
+
+Select a log file...
 
 </td></tr>
 <tr><td width="50%">
@@ -1688,11 +1679,29 @@ Sri Lanka
 </td></tr>
 <tr><td width="50%">
 
+Start polling
+
+</td><td width="50%">
+
+Start polling
+
+</td></tr>
+<tr><td width="50%">
+
 Stop Impersonating
 
 </td><td width="50%">
 
 Stop Impersonating
+
+</td></tr>
+<tr><td width="50%">
+
+Stop polling
+
+</td><td width="50%">
+
+Stop polling
 
 </td></tr>
 <tr><td width="50%">
@@ -1742,65 +1751,20 @@ Tanzania
 </td></tr>
 <tr><td width="50%">
 
-The resource was attached!
+The action was executed successfully.
 
 </td><td width="50%">
 
-The resource was attached!
+The action was executed successfully.
 
 </td></tr>
 <tr><td width="50%">
 
-The resource was prevented from being saved!
+The provided two factor recovery code was invalid.
 
 </td><td width="50%">
 
-The resource was prevented from being saved!
-
-</td></tr>
-<tr><td width="50%">
-
-There are no fields to display.
-
-</td><td width="50%">
-
-There are no fields to display.
-
-</td></tr>
-<tr><td width="50%">
-
-There are no new notifications.
-
-</td><td width="50%">
-
-There are no new notifications.
-
-</td></tr>
-<tr><td width="50%">
-
-There was a problem fetching the resource.
-
-</td><td width="50%">
-
-There was a problem fetching the resource.
-
-</td></tr>
-<tr><td width="50%">
-
-This copy of Nova is unlicensed.
-
-</td><td width="50%">
-
-This copy of Nova is unlicensed.
-
-</td></tr>
-<tr><td width="50%">
-
-To finish enabling two factor authentication, scan the following QR code using your phone's authenticator application or enter the setup key and provide the generated OTP code.
-
-</td><td width="50%">
-
-To finish enabling two factor authentication, scan the following QR code using your phone's authenticator application or enter the setup key and provide the generated OTP code.
+The provided two factor recovery code was invalid.
 
 </td></tr>
 <tr><td width="50%">
@@ -1841,15 +1805,6 @@ Total:
 </td></tr>
 <tr><td width="50%">
 
-Trinidad and Tobago
-
-</td><td width="50%">
-
-Trinidad and Tobago
-
-</td></tr>
-<tr><td width="50%">
-
 Tunisia
 
 </td><td width="50%">
@@ -1868,15 +1823,6 @@ Turkmenistan
 </td></tr>
 <tr><td width="50%">
 
-Turks and Caicos Islands
-
-</td><td width="50%">
-
-Turks and Caicos Islands
-
-</td></tr>
-<tr><td width="50%">
-
 Tuvalu
 
 </td><td width="50%">
@@ -1886,38 +1832,11 @@ Tuvalu
 </td></tr>
 <tr><td width="50%">
 
-Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application or enter the setup key.
-
-</td><td width="50%">
-
-Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application or enter the setup key.
-
-</td></tr>
-<tr><td width="50%">
-
-Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
-
-</td><td width="50%">
-
-Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
-
-</td></tr>
-<tr><td width="50%">
-
 Uganda
 
 </td><td width="50%">
 
 Uganda
-
-</td></tr>
-<tr><td width="50%">
-
-United States Minor Outlying Islands
-
-</td><td width="50%">
-
-United States Minor Outlying Islands
 
 </td></tr>
 <tr><td width="50%">
@@ -1958,24 +1877,6 @@ Venezuela
 </td></tr>
 <tr><td width="50%">
 
-Venezuela, Bolivarian Republic of
-
-</td><td width="50%">
-
-Venezuela, Bolivarian Republic of
-
-</td></tr>
-<tr><td width="50%">
-
-Wallis and Futuna
-
-</td><td width="50%">
-
-Wallis and Futuna
-
-</td></tr>
-<tr><td width="50%">
-
 Zambia
 
 </td><td width="50%">
@@ -1999,71 +1900,6 @@ Zimbabwe
 </td><td width="50%">
 
 Åland Islands
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php
-
-##### Missing: 6
-
-<table width="100%">
-<tr><td width="50%">
-
-doesnt_start_with
-
-</td><td width="50%">
-
-The :attribute may not start with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-password.letters
-
-</td><td width="50%">
-
-The :attribute must contain at least one letter.
-
-</td></tr>
-<tr><td width="50%">
-
-password.mixed
-
-</td><td width="50%">
-
-The :attribute must contain at least one uppercase and one lowercase letter.
-
-</td></tr>
-<tr><td width="50%">
-
-password.numbers
-
-</td><td width="50%">
-
-The :attribute must contain at least one number.
-
-</td></tr>
-<tr><td width="50%">
-
-password.symbols
-
-</td><td width="50%">
-
-The :attribute must contain at least one symbol.
-
-</td></tr>
-<tr><td width="50%">
-
-password.uncompromised
-
-</td><td width="50%">
-
-The given :attribute has appeared in a data leak. Please choose a different :attribute.
 
 </td></tr>
 </table>

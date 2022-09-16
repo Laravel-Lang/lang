@@ -96,6 +96,7 @@
     "required": ":Attribute قۇرۇق بولسا بولمايدۇ.",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": ":Other :value بولغاندا :attribute قۇرۇق بولسا بولمايدۇ.",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": ":Other :values بولمىغاندا :attribute قۇرۇق بولسا بولمايدۇ.",
     "required_with": ":Values مەۋجۈت بولغاندا :attribute قۇرۇق بولسا بولمايدۇ.",
     "required_with_all": ":Values مەۋجۈت بولغاندا :attribute قۇرۇق بولسا بولمايدۇ.",

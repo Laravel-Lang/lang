@@ -96,6 +96,7 @@
     "required": ":Attribute maydoni to‘ldirilishi shart.",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": ":Other maydoni :value ga teng bo‘lsa, :attribute maydoni to‘ldirilishi shart.",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": ":Other maydoni :values ga teng bo‘lmasa, :attribute maydoni to‘ldirilishi shart.",
     "required_with": ":Values ko‘rsatilgan bo‘lsa, :attribute maydoni to‘ldirilishi shart.",
     "required_with_all": ":Values ko‘rsatilgan bo‘lsa, :attribute maydoni to‘ldirilishi shart.",

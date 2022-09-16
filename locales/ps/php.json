@@ -96,6 +96,7 @@
     "required": ":Attribute اړینه ده.",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": ":Attribute که چیرې د اړتیا په صورت کې اړتیا وي:other مساو :value.",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": ":Attribute که نه :other مساو :values.",
     "required_with": ":Attribute که اړتیا وي شتون لري :values.",
     "required_with_all": ":Attribute که اړتیا وي شتون لري :values.",

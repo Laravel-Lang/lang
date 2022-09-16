@@ -96,6 +96,7 @@
     "required": "Il campo :attribute è richiesto.",
     "required_array_keys": "Il campo :attribute deve contenere voci per: :values.",
     "required_if": "Il campo :attribute è richiesto quando :other è :value.",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": "Il campo :attribute è richiesto a meno che :other sia in :values.",
     "required_with": "Il campo :attribute è richiesto quando :values è presente.",
     "required_with_all": "Il campo :attribute è richiesto quando :values sono presenti.",

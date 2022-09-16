@@ -96,6 +96,7 @@
     "required": ":Attribute derrigorrezkoa da.",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": ":Attribute derrigorrezkoa da :other :value denean.",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": ":Attribute derrigorrezkoa da :other :values-(e)n egon ezean.",
     "required_with": ":Attribute derrigorrezkoa da :values dagoenean.",
     "required_with_all": ":Attribute derrigorrezkoa da :values daudenean.",

@@ -96,6 +96,7 @@
     "required": "Reiturinn :attribute er nauðsynlegur.",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": "Reiturinn :attribute er nauðsynlegur þegar :other er :value.",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": ":Attribute er áskilinn nema :other sé í :values.",
     "required_with": ":Attribute er áskilinn þegar :values er til staðar.",
     "required_with_all": ":Attribute er áskilinn þegar :values er til staðar.",

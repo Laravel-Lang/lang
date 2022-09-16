@@ -91,6 +91,7 @@
     "required": "Obbligatorio.",
     "required_array_keys": "Questo campo deve contenere voci per: :values.",
     "required_if": "Obbligatorio quando :other è :value.",
+    "required_if_accepted": "This field is required when :other is accepted.",
     "required_unless": "Obbligatorio a meno che :other sia :values.",
     "required_with": "Obbligatorio quando :values è presente.",
     "required_with_all": "Obbligatorio quando :values sono presenti.",

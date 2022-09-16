@@ -96,6 +96,7 @@
     "required": "É obrigatória a indicação de um valor para o campo :attribute.",
     "required_array_keys": "O campo :attribute deve conter entradas para: :values.",
     "required_if": "É obrigatória a indicação de um valor para o campo :attribute quando o valor do campo :other é igual a :value.",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": "É obrigatória a indicação de um valor para o campo :attribute a menos que :other esteja presente em :values.",
     "required_with": "É obrigatória a indicação de um valor para o campo :attribute quando :values está presente.",
     "required_with_all": "É obrigatória a indicação de um valor para o campo :attribute quando um dos :values está presente.",

@@ -96,6 +96,7 @@
     "required": "Kenttä :attribute vaaditaan.",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": "Kenttä :attribute vaaditaan kun :other on :value.",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": "Kenttä :attribute vaaditaan jos :other ei sisälly arvoihin :values.",
     "required_with": "Kenttä :attribute vaaditaan kun arvo :values on annettu.",
     "required_with_all": "Kenttä :attribute vaaditaan kun arvo :values on annettu.",

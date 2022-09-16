@@ -96,6 +96,7 @@
     "required": ":Attribute бояд дорои қиммат бошад.",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": ":Attribute бояд дорои қиммат бошад агар :other ба :value баробар бошад.",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": ":Attribute бояд дорои қиммат бошад агар :other дар :values мавҷуд бошад.",
     "required_with": ":Attribute бояд дорои қиммат бошад :values мавҷуд бошад.",
     "required_with_all": ":Attribute бояд дорои қиммат бошад агар :values мавҷуд бошанд.",

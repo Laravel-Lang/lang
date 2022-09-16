@@ -96,6 +96,7 @@
     "required": "Le champ :attribute est obligatoire.",
     "required_array_keys": "Le champ :attribute doit contenir des entrées pour : :values.",
     "required_if": "Le champ :attribute est obligatoire quand la valeur de :other est :value.",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": "Le champ :attribute est obligatoire sauf si :other est :values.",
     "required_with": "Le champ :attribute est obligatoire quand :values est présent.",
     "required_with_all": "Le champ :attribute est obligatoire quand :values sont présents.",

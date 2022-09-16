@@ -96,6 +96,7 @@
     "required": "Ruangan :attribute diperlukan.",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": "Ruangan :attribute diperlukan bila :other sama dengan :value.",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": "Ruangan :attribute diperlukan sekiranya :other ada dalam :values.",
     "required_with": "Ruangan :attribute diperlukan bila :values wujud.",
     "required_with_all": "Ruangan :attribute diperlukan bila :values wujud.",

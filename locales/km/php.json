@@ -96,6 +96,7 @@
     "required": ":Attribute នេះគឺទាមទារឲ្យមាន។",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": ":Attribute នេះគឺទាមទារនៅពេល :other គឺ :value។",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": ":Attribute នេះគឺទាមទារនៅពេល :other មិនមែន :values។",
     "required_with": ":Attribute នេះគឺទាមទារនៅពេល :values មាន។",
     "required_with_all": ":Attribute នេះគឺទាមទារនៅពេល :values មាន។",

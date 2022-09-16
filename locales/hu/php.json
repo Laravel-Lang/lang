@@ -96,6 +96,7 @@
     "required": "A(z) :attribute megadása kötelező!",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": "A(z) :attribute megadása kötelező, ha a(z) :other értéke :value!",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": "A(z) :attribute megadása kötelező, ha a(z) :other értéke nem :values!",
     "required_with": "A(z) :attribute megadása kötelező, ha a(z) :values érték létezik.",
     "required_with_all": "A(z) :attribute megadása kötelező, ha a(z) :values értékek léteznek.",

@@ -4,7 +4,7 @@ editLink: false
 
 # af
 
-##### All missed: 199
+##### All missed: 201
 
 
 ### json-inline
@@ -1579,7 +1579,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 12
+##### Missing: 13
 
 <table width="100%">
 <tr><th width="50%">
@@ -1699,6 +1699,15 @@ required_array_keys
 This field must contain entries for: :values.
 
 </td></tr>
+<tr><td width="50%">
+
+required_if_accepted
+
+</td><td width="50%">
+
+This field is required when :other is accepted.
+
+</td></tr>
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
@@ -1707,7 +1716,7 @@ This field must contain entries for: :values.
 
 ### php
 
-##### Missing: 17
+##### Missing: 18
 
 <table width="100%">
 <tr><th width="50%">
@@ -1870,6 +1879,15 @@ required_array_keys
 </td><td width="50%">
 
 The :attribute field must contain entries for: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+required_if_accepted
+
+</td><td width="50%">
+
+The :attribute field is required when :other is accepted.
 
 </td></tr>
 </table>

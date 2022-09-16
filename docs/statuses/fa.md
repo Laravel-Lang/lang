@@ -4,7 +4,7 @@ editLink: false
 
 # fa
 
-##### All missed: 16
+##### All missed: 18
 
 
 ### json
@@ -146,7 +146,7 @@ To
 
 ### php-inline
 
-##### Missing: 3
+##### Missing: 4
 
 <table width="100%">
 <tr><th width="50%">
@@ -183,6 +183,44 @@ min_digits
 </td><td width="50%">
 
 This field must have at least :min digits.
+
+</td></tr>
+<tr><td width="50%">
+
+required_if_accepted
+
+</td><td width="50%">
+
+This field is required when :other is accepted.
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php
+
+##### Missing: 1
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+required_if_accepted
+
+</td><td width="50%">
+
+The :attribute field is required when :other is accepted.
 
 </td></tr>
 </table>

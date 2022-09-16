@@ -4,7 +4,7 @@ editLink: false
 
 # fil
 
-##### All missed: 834
+##### All missed: 836
 
 
 ### json-inline
@@ -6954,7 +6954,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 33
+##### Missing: 34
 
 <table width="100%">
 <tr><th width="50%">
@@ -7220,6 +7220,15 @@ This field is required when :other is :value.
 </td></tr>
 <tr><td width="50%">
 
+required_if_accepted
+
+</td><td width="50%">
+
+This field is required when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
 required_unless
 
 </td><td width="50%">
@@ -7271,7 +7280,7 @@ This field is required when none of :values are present.
 
 ### php
 
-##### Missing: 34
+##### Missing: 35
 
 <table width="100%">
 <tr><th width="50%">
@@ -7533,6 +7542,15 @@ required_array_keys
 </td><td width="50%">
 
 The :attribute field must contain entries for: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+required_if_accepted
+
+</td><td width="50%">
+
+The :attribute field is required when :other is accepted.
 
 </td></tr>
 <tr><td width="50%">

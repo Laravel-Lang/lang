@@ -4,7 +4,7 @@ editLink: false
 
 # nb
 
-##### All missed: 62
+##### All missed: 64
 
 
 ### json-inline
@@ -445,7 +445,7 @@ Two factor authentication is now enabled. Scan the following QR code using your 
 
 ### php-inline
 
-##### Missing: 9
+##### Missing: 10
 
 <table width="100%">
 <tr><th width="50%">
@@ -538,6 +538,15 @@ password.uncompromised
 The given field has appeared in a data leak. Please choose a different field.
 
 </td></tr>
+<tr><td width="50%">
+
+required_if_accepted
+
+</td><td width="50%">
+
+This field is required when :other is accepted.
+
+</td></tr>
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
@@ -546,7 +555,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### php
 
-##### Missing: 9
+##### Missing: 10
 
 <table width="100%">
 <tr><th width="50%">
@@ -637,6 +646,15 @@ password.uncompromised
 </td><td width="50%">
 
 The given :attribute has appeared in a data leak. Please choose a different :attribute.
+
+</td></tr>
+<tr><td width="50%">
+
+required_if_accepted
+
+</td><td width="50%">
+
+The :attribute field is required when :other is accepted.
 
 </td></tr>
 </table>

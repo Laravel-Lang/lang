@@ -4,7 +4,7 @@ editLink: false
 
 # az
 
-##### All missed: 59
+##### All missed: 58
 
 
 ### json
@@ -553,7 +553,7 @@ This field is required when :other is accepted.
 
 ### php
 
-##### Missing: 3
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -581,15 +581,6 @@ min_digits
 </td><td width="50%">
 
 The :attribute must have at least :min digits.
-
-</td></tr>
-<tr><td width="50%">
-
-required_if_accepted
-
-</td><td width="50%">
-
-The :attribute field is required when :other is accepted.
 
 </td></tr>
 </table>

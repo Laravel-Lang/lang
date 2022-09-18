@@ -4,7 +4,7 @@ editLink: false
 
 # tr
 
-##### All missed: 4
+##### All missed: 3
 
 
 ### json
@@ -67,7 +67,7 @@ This field is required when :other is accepted.
 
 ### php
 
-##### Missing: 2
+##### Missing: 1
 
 <table width="100%">
 <tr><th width="50%">
@@ -86,15 +86,6 @@ max_digits
 </td><td width="50%">
 
 The :attribute must not have more than :max digits.
-
-</td></tr>
-<tr><td width="50%">
-
-required_if_accepted
-
-</td><td width="50%">
-
-The :attribute field is required when :other is accepted.
 
 </td></tr>
 </table>

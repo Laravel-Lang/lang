@@ -96,6 +96,7 @@
     "required": "Trường :attribute không được bỏ trống.",
     "required_array_keys": "Trường :attribute phải bao gồm các mục nhập cho: :values.",
     "required_if": "Trường :attribute không được bỏ trống khi trường :other là :value.",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": "Trường :attribute không được bỏ trống trừ khi :other là :values.",
     "required_with": "Trường :attribute không được bỏ trống khi một trong :values có giá trị.",
     "required_with_all": "Trường :attribute không được bỏ trống khi tất cả :values có giá trị.",

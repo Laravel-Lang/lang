@@ -96,6 +96,7 @@
     "required": "ข้อมูล :attribute จำเป็นต้องกรอก",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": "ข้อมูล :attribute จำเป็นต้องกรอกเมื่อ :other เป็น :value.",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": "ข้อมูล :attribute จำเป็นต้องกรอกเว้นแต่ :other เป็น :values.",
     "required_with": "ข้อมูล :attribute จำเป็นต้องกรอกเมื่อ :values มีค่า",
     "required_with_all": "ข้อมูล :attribute จำเป็นต้องกรอกเมื่อ :values มีค่าทั้งหมด",

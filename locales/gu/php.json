@@ -96,6 +96,7 @@
     "required": ":Attribute પ્રવૃત્તિ ક્ષેત્ર આવશ્યક છે.",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": ":Attribute પ્રવૃત્તિ ક્ષેત્ર આવશ્યક છે જ્યારે :other છે :value.",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": ":Attribute પ્રવૃત્તિ ક્ષેત્ર આવશ્યક છે સિવાય :other માં છે :values.",
     "required_with": ":Attribute પ્રવૃત્તિ ક્ષેત્ર આવશ્યક છે જ્યારે :values હાજર હોય.",
     "required_with_all": ":Attribute પ્રવૃત્તિ ક્ષેત્ર આવશ્યક છે જ્યારે :values હાજર હોય.",

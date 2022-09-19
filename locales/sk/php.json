@@ -96,6 +96,7 @@
     "required": ":Attribute je požadované.",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": ":Attribute je požadované keď :other je :value.",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": ":Attribute je požadované, okrem prípadu keď :other je v :values.",
     "required_with": ":Attribute je požadované keď :values je prítomné.",
     "required_with_all": ":Attribute je požadované ak :values je nastavené.",

@@ -19,6 +19,7 @@ class Plugin extends Provider
         Plugins\Cashier\Stripe\Master::class,
         Plugins\Cashier\Stripe\V12::class,
         Plugins\Cashier\Stripe\V13::class,
+        Plugins\Cashier\Stripe\V14::class,
 
         Plugins\Fortify\Master::class,
         Plugins\Fortify\V1::class,
@@ -28,16 +29,12 @@ class Plugin extends Provider
         Plugins\Jetstream\V2::class,
 
         Plugins\Laravel\Master::class,
-        Plugins\Laravel\V6::class,
-        Plugins\Laravel\V7::class,
-        Plugins\Laravel\V8::class,
         Plugins\Laravel\V9::class,
+        Plugins\Laravel\V10::class,
 
         Plugins\Lumen\Master::class,
-        Plugins\Lumen\V6::class,
-        Plugins\Lumen\V7::class,
-        Plugins\Lumen\V8::class,
         Plugins\Lumen\V9::class,
+        Plugins\Lumen\V10::class,
 
         Plugins\Nova\LogViewer\Main::class,
         Plugins\Nova\V3::class,
@@ -47,8 +44,6 @@ class Plugin extends Provider
         Plugins\Spark\Stripe::class,
 
         Plugins\UI\Master::class,
-        Plugins\UI\V1::class,
-        Plugins\UI\V2::class,
         Plugins\UI\V3::class,
         Plugins\UI\V4::class,
     ];

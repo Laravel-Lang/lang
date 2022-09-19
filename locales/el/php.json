@@ -96,6 +96,7 @@
     "required": "Το πεδίο :attribute είναι απαραίτητο.",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": "Το πεδίο :attribute είναι απαραίτητο όταν το πεδίο :other είναι :value.",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": "Το πεδίο :attribute είναι απαραίτητο εκτός αν το πεδίο :other εμπεριέχει :values.",
     "required_with": "Το πεδίο :attribute είναι απαραίτητο όταν υπάρχει :values.",
     "required_with_all": "Το πεδίο :attribute είναι απαραίτητο όταν υπάρχουν :values.",

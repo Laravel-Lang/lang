@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 755
+##### Missing: 753
 
 <table width="100%">
 <tr><th width="50%">
@@ -1929,15 +1929,6 @@ Download Receipt
 </td><td width="50%">
 
 Download Receipt
-
-</td></tr>
-<tr><td width="50%">
-
-E-Mail Address
-
-</td><td width="50%">
-
-E-Mail Address
 
 </td></tr>
 <tr><td width="50%">
@@ -3911,15 +3902,6 @@ of
 </td><td width="50%">
 
 of
-
-</td></tr>
-<tr><td width="50%">
-
-Oh no
-
-</td><td width="50%">
-
-Oh no
 
 </td></tr>
 <tr><td width="50%">
@@ -6972,7 +6954,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 17
+##### Missing: 18
 
 <table width="100%">
 <tr><th width="50%">
@@ -7137,6 +7119,15 @@ required_array_keys
 This field must contain entries for: :values.
 
 </td></tr>
+<tr><td width="50%">
+
+required_if_accepted
+
+</td><td width="50%">
+
+This field is required when :other is accepted.
+
+</td></tr>
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
@@ -7145,7 +7136,7 @@ This field must contain entries for: :values.
 
 ### php
 
-##### Missing: 23
+##### Missing: 24
 
 <table width="100%">
 <tr><th width="50%">
@@ -7353,6 +7344,15 @@ required_array_keys
 </td><td width="50%">
 
 The :attribute field must contain entries for: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+required_if_accepted
+
+</td><td width="50%">
+
+The :attribute field is required when :other is accepted.
 
 </td></tr>
 <tr><td width="50%">

@@ -96,6 +96,7 @@
     "required": ":Attribute दिइएको हुनुपर्छ।",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": ":Attribute चाहिन्छ जब :other :value हुन्छ।",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": ":Other :values मा नभएसम्म :attribute चाहिन्छ।",
     "required_with": ":Values भएसम्म :attribute चाहिन्छ।",
     "required_with_all": ":Values भएसम्म :attribute चाहिन्छ।",

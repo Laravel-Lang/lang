@@ -4,7 +4,7 @@ editLink: false
 
 # nl
 
-##### All missed: 28
+##### All missed: 30
 
 
 ### json
@@ -173,7 +173,7 @@ To
 
 ### php-inline
 
-##### Missing: 9
+##### Missing: 10
 
 <table width="100%">
 <tr><th width="50%">
@@ -266,6 +266,15 @@ password.uncompromised
 The given field has appeared in a data leak. Please choose a different field.
 
 </td></tr>
+<tr><td width="50%">
+
+required_if_accepted
+
+</td><td width="50%">
+
+This field is required when :other is accepted.
+
+</td></tr>
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
@@ -274,7 +283,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### php
 
-##### Missing: 3
+##### Missing: 4
 
 <table width="100%">
 <tr><th width="50%">
@@ -311,6 +320,15 @@ min_digits
 </td><td width="50%">
 
 The :attribute must have at least :min digits.
+
+</td></tr>
+<tr><td width="50%">
+
+required_if_accepted
+
+</td><td width="50%">
+
+The :attribute field is required when :other is accepted.
 
 </td></tr>
 </table>

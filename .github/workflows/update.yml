@@ -7,9 +7,6 @@ on:
     release:
         types:
             - released
-    repository_dispatch:
-        types:
-            - update
 
 permissions: write-all
 
@@ -68,7 +65,7 @@ jobs:
                     release-notes: ${{ github.event.release.body }}
                     latest-version: ${{ github.event.release.tag_name }}
                     compare-url-target-revision: ${{ github.event.release.target_commitish }}
-                    path-to-changelog: docs/changelog/11.x.md
+                    path-to-changelog: docs/changelog/12.x.md
 
             -   name: Storing changelog
                 id: changelog
@@ -88,11 +85,3 @@ jobs:
                     steps.changelog.outputs.is_dirty == 1
                 with:
                     github_token: ${{ secrets.COMPOSER_TOKEN }}
-
-            -   name: Generate docs trigger
-                uses: myrotvorets/trigger-repository-dispatch-action@1.1.1
-                if: success()
-                with:
-                    token: ${{ secrets.COMPOSER_TOKEN }}
-                    repo: Laravel-Lang/lang
-                    type: generate-docs

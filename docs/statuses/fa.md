@@ -4,12 +4,12 @@ editLink: false
 
 # fa
 
-##### All missed: 21
+##### All missed: 18
 
 
 ### json
 
-##### Missing: 15
+##### Missing: 13
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,24 +21,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-(and :count more error)
-
-</td><td width="50%">
-
-(and :count more error)
-
-</td></tr>
-<tr><td width="50%">
-
-(and :count more errors)
-
-</td><td width="50%">
-
-(and :count more errors)
-
-</td></tr>
 <tr><td width="50%">
 
 From
@@ -164,7 +146,7 @@ To
 
 ### php-inline
 
-##### Missing: 3
+##### Missing: 4
 
 <table width="100%">
 <tr><th width="50%">
@@ -203,6 +185,15 @@ min_digits
 This field must have at least :min digits.
 
 </td></tr>
+<tr><td width="50%">
+
+required_if_accepted
+
+</td><td width="50%">
+
+This field is required when :other is accepted.
+
+</td></tr>
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
@@ -211,7 +202,7 @@ This field must have at least :min digits.
 
 ### php
 
-##### Missing: 3
+##### Missing: 1
 
 <table width="100%">
 <tr><th width="50%">
@@ -225,29 +216,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-doesnt_end_with
+required_if_accepted
 
 </td><td width="50%">
 
-The :attribute may not end with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-max_digits
-
-</td><td width="50%">
-
-The :attribute must not have more than :max digits.
-
-</td></tr>
-<tr><td width="50%">
-
-min_digits
-
-</td><td width="50%">
-
-The :attribute must have at least :min digits.
+The :attribute field is required when :other is accepted.
 
 </td></tr>
 </table>

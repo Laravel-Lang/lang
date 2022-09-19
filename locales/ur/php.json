@@ -96,6 +96,7 @@
     "required": ":Attribute فیلڈ درکار ہے۔",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": ":Attribute درکار ہے اگر :other کی ویلیو :value ہو۔",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": "جب تک :other :values میں نہ ہو تو :attribute فیلڈ درکار ہے۔",
     "required_with": ":Attribute فیلڈ درکار ہے اگر :values موجود ہوں۔",
     "required_with_all": ":Attribute فیلڈ درکار ہے اگر :values موجود ہوں۔",

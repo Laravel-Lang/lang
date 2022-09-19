@@ -4,12 +4,12 @@ editLink: false
 
 # pl
 
-##### All missed: 4
+##### All missed: 2
 
 
-### json
+### php-inline
 
-##### Missing: 4
+##### Missing: 1
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,38 +23,40 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-(and :count more error)
+required_if_accepted
 
 </td><td width="50%">
 
-(and :count more error)
+This field is required when :other is accepted.
 
 </td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php
+
+##### Missing: 1
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
 <tr><td width="50%">
 
-(and :count more errors)
+required_if_accepted
 
 </td><td width="50%">
 
-(and :count more errors)
-
-</td></tr>
-<tr><td width="50%">
-
-Iran, Islamic Republic Of
-
-</td><td width="50%">
-
-Iran
-
-</td></tr>
-<tr><td width="50%">
-
-The given data was invalid.
-
-</td><td width="50%">
-
-The given data was invalid.
+The :attribute field is required when :other is accepted.
 
 </td></tr>
 </table>

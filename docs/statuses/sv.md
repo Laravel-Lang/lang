@@ -4,7 +4,7 @@ editLink: false
 
 # sv
 
-##### All missed: 298
+##### All missed: 299
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 263
+##### Missing: 262
 
 <table width="100%">
 <tr><th width="50%">
@@ -606,15 +606,6 @@ Djibouti
 </td><td width="50%">
 
 Djibouti
-
-</td></tr>
-<tr><td width="50%">
-
-E-Mail Address
-
-</td><td width="50%">
-
-E-Mail Address
 
 </td></tr>
 <tr><td width="50%">
@@ -2542,7 +2533,7 @@ Zimbabwe
 
 ### php-inline
 
-##### Missing: 12
+##### Missing: 13
 
 <table width="100%">
 <tr><th width="50%">
@@ -2662,6 +2653,15 @@ required_array_keys
 This field must contain entries for: :values.
 
 </td></tr>
+<tr><td width="50%">
+
+required_if_accepted
+
+</td><td width="50%">
+
+This field is required when :other is accepted.
+
+</td></tr>
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
@@ -2670,7 +2670,7 @@ This field must contain entries for: :values.
 
 ### php
 
-##### Missing: 9
+##### Missing: 10
 
 <table width="100%">
 <tr><th width="50%">
@@ -2761,6 +2761,15 @@ password.uncompromised
 </td><td width="50%">
 
 The given :attribute has appeared in a data leak. Please choose a different :attribute.
+
+</td></tr>
+<tr><td width="50%">
+
+required_if_accepted
+
+</td><td width="50%">
+
+The :attribute field is required when :other is accepted.
 
 </td></tr>
 </table>

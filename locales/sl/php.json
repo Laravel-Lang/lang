@@ -96,6 +96,7 @@
     "required": "Polje :attribute je obvezno.",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": "Polje :attribute je obvezno, če je :other enak :value.",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": "Polje :attribute je obvezno, razen če je :other v :values.",
     "required_with": "Polje :attribute je obvezno, če je :values prisoten.",
     "required_with_all": "Polje :attribute je obvezno, če so :values prisoten.",

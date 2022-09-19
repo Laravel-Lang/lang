@@ -96,6 +96,7 @@
     "required": "ಈ  :attribute ಕ್ಷೇತ್ರ ಅಗತ್ಯವಿದೆ.",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": "ಈ  :attribute ಕ್ಷೇತ್ರ ಅಗತ್ಯವಿದೆ ಯಾವಾಗ :other ನಲ್ಲಿ :value.",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": "ಈ  :attribute ಕ್ಷೇತ್ರ ಅಗತ್ಯವಿದೆ  unless :other ನಲ್ಲಿ  :values ಹೊರತುಪಡಿಸಿ .",
     "required_with": "ಈ  :attribute ಕ್ಷೇತ್ರ ಅಗತ್ಯವಿದೆ ಯಾವಾಗ :values ಇರುತ್ತದೆ.",
     "required_with_all": "ಈ  :attribute ಕ್ಷೇತ್ರ ಅಗತ್ಯವಿದೆ ಯಾವಾಗ :values ಇರುತ್ತವೆ.",

@@ -4,7 +4,7 @@ editLink: false
 
 # ca
 
-##### All missed: 79
+##### All missed: 71
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 36
+##### Missing: 26
 
 <table width="100%">
 <tr><th width="50%">
@@ -169,74 +169,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-(and :count more error)
+Dominica
 
 </td><td width="50%">
 
-(and :count more error)
-
-</td></tr>
-<tr><td width="50%">
-
-(and :count more errors)
-
-</td><td width="50%">
-
-(and :count more errors)
-
-</td></tr>
-<tr><td width="50%">
-
-A new verification link has been sent to the email address you provided in your profile settings.
-
-</td><td width="50%">
-
-A new verification link has been sent to the email address you provided in your profile settings.
-
-</td></tr>
-<tr><td width="50%">
-
-A new verification link has been sent to your email address.
-
-</td><td width="50%">
-
-A new verification link has been sent to your email address.
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to delete this notification?
-
-</td><td width="50%">
-
-Are you sure you want to delete this notification?
-
-</td></tr>
-<tr><td width="50%">
-
-Before continuing, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
-
-</td><td width="50%">
-
-Before continuing, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
-
-</td></tr>
-<tr><td width="50%">
-
-Click here to re-send the verification email.
-
-</td><td width="50%">
-
-Click here to re-send the verification email.
-
-</td></tr>
-<tr><td width="50%">
-
-Copy to clipboard
-
-</td><td width="50%">
-
-Copy to clipboard
+Dominica
 
 </td></tr>
 <tr><td width="50%">
@@ -246,24 +183,6 @@ Edit Profile
 </td><td width="50%">
 
 Edit Profile
-
-</td></tr>
-<tr><td width="50%">
-
-From
-
-</td><td width="50%">
-
-From
-
-</td></tr>
-<tr><td width="50%">
-
-If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
-
-</td><td width="50%">
-
-If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
 
 </td></tr>
 <tr><td width="50%">
@@ -327,15 +246,6 @@ Notifications
 </td><td width="50%">
 
 Notifications
-
-</td></tr>
-<tr><td width="50%">
-
-Oh no
-
-</td><td width="50%">
-
-Oh no
 
 </td></tr>
 <tr><td width="50%">
@@ -499,7 +409,7 @@ Your email address is unverified.
 
 ### php-inline
 
-##### Missing: 12
+##### Missing: 13
 
 <table width="100%">
 <tr><th width="50%">
@@ -619,6 +529,15 @@ required_array_keys
 This field must contain entries for: :values.
 
 </td></tr>
+<tr><td width="50%">
+
+required_if_accepted
+
+</td><td width="50%">
+
+This field is required when :other is accepted.
+
+</td></tr>
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
@@ -627,7 +546,7 @@ This field must contain entries for: :values.
 
 ### php
 
-##### Missing: 17
+##### Missing: 18
 
 <table width="100%">
 <tr><th width="50%">
@@ -790,6 +709,15 @@ required_array_keys
 </td><td width="50%">
 
 The :attribute field must contain entries for: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+required_if_accepted
+
+</td><td width="50%">
+
+The :attribute field is required when :other is accepted.
 
 </td></tr>
 </table>

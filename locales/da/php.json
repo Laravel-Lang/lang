@@ -96,6 +96,7 @@
     "required": ":Attribute skal udfyldes.",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": ":Attribute skal udfyldes når :other er :value.",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": ":Attribute er påkrævet med mindre :other findes i :values.",
     "required_with": ":Attribute skal udfyldes når :values er udfyldt.",
     "required_with_all": ":Attribute skal udfyldes når :values er udfyldt.",

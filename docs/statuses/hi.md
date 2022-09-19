@@ -4,7 +4,7 @@ editLink: false
 
 # hi
 
-##### All missed: 202
+##### All missed: 203
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 179
+##### Missing: 178
 
 <table width="100%">
 <tr><th width="50%">
@@ -489,15 +489,6 @@ Download Receipt
 </td><td width="50%">
 
 Download Receipt
-
-</td></tr>
-<tr><td width="50%">
-
-E-Mail Address
-
-</td><td width="50%">
-
-E-Mail Address
 
 </td></tr>
 <tr><td width="50%">
@@ -1786,7 +1777,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 7
+##### Missing: 8
 
 <table width="100%">
 <tr><th width="50%">
@@ -1861,6 +1852,15 @@ required_array_keys
 This field must contain entries for: :values.
 
 </td></tr>
+<tr><td width="50%">
+
+required_if_accepted
+
+</td><td width="50%">
+
+This field is required when :other is accepted.
+
+</td></tr>
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
@@ -1869,7 +1869,7 @@ This field must contain entries for: :values.
 
 ### php
 
-##### Missing: 2
+##### Missing: 3
 
 <table width="100%">
 <tr><th width="50%">
@@ -1897,6 +1897,15 @@ min_digits
 </td><td width="50%">
 
 The :attribute must have at least :min digits.
+
+</td></tr>
+<tr><td width="50%">
+
+required_if_accepted
+
+</td><td width="50%">
+
+The :attribute field is required when :other is accepted.
 
 </td></tr>
 </table>

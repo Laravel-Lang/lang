@@ -96,6 +96,7 @@
     "required": "Fusha :attribute është e kërkuar.",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": "Fusha :attribute është e kërkuar kur :other është :value.",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": "Fusha :attribute është e kërkuar përveç kur :other është në :values.",
     "required_with": "Fusha :attribute është e kërkuar kur :values ekziston.",
     "required_with_all": "Fusha :attribute është e kërkuar kur :values ekziston.",

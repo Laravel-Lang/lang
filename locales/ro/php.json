@@ -96,6 +96,7 @@
     "required": "Câmpul :attribute este obligatoriu.",
     "required_array_keys": "Câmpul :attribute trebuie să conțină valori pentru: :values.",
     "required_if": "Câmpul :attribute este necesar când :other este :value.",
+    "required_if_accepted": "Câmpul :attribute este obligatoriu când :other este acceptat.",
     "required_unless": "Câmpul :attribute este necesar, cu excepția cazului :other este in :values.",
     "required_with": "Câmpul :attribute este necesar când există :values.",
     "required_with_all": "Câmpul :attribute este necesar când există :values.",

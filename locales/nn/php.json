@@ -96,6 +96,7 @@
     "required": ":Attribute må fyllast ut.",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": ":Attribute må fyllast ut når :other er :value.",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": ":Attribute må vere til stades viss ikkje :other finnas hjå verdiene :values.",
     "required_with": ":Attribute må fyllast ut når :values er fylt ut.",
     "required_with_all": ":Attribute må vere til stades når :values er oppgjeve.",

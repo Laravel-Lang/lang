@@ -1,18 +1,17 @@
 name: docs
 
 on:
-    workflow_dispatch:
-    repository_dispatch:
+    workflow_run:
+        workflows:
+            - update
         types:
-            - generate-docs
-    push:
-        branches:
-            - main
+            - completed
+    workflow_dispatch:
 
 permissions: write-all
 
 jobs:
-    handle-dispatch:
+    generate:
         runs-on: ubuntu-latest
 
         steps:

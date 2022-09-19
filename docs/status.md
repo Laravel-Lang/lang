@@ -210,7 +210,7 @@ editLink: false
 
 </td><td width="20%">
 
-[pl&nbsp;❗](statuses/pl.md)
+[pl&nbsp;✔](statuses/pl.md)
 
 </td><td width="20%">
 

@@ -20,25 +20,7 @@ Key
 
 Value
 
-</th></tr>
-<tr><td width="50%">
-
-From
-
-</td><td width="50%">
-
-From
-
-</td></tr>
-<tr><td width="50%">
-
-Log Viewer
-
-</td><td width="50%">
-
-Log Viewer
-
-</td></tr>
+</th>
 <tr><td width="50%">
 
 Logs
@@ -55,42 +37,6 @@ Refresh
 </td><td width="50%">
 
 Refresh
-
-</td></tr>
-<tr><td width="50%">
-
-Scroll to bottom
-
-</td><td width="50%">
-
-Scroll to bottom
-
-</td></tr>
-<tr><td width="50%">
-
-Scroll to top
-
-</td><td width="50%">
-
-Scroll to top
-
-</td></tr>
-<tr><td width="50%">
-
-Select a log file...
-
-</td><td width="50%">
-
-Select a log file...
-
-</td></tr>
-<tr><td width="50%">
-
-To
-
-</td><td width="50%">
-
-To
 
 </td></tr>
 </table>

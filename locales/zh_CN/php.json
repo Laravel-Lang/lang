@@ -73,7 +73,7 @@
     "min.file": ":Attribute 大小不能小于 :min KB。",
     "min.numeric": ":Attribute 必须大于等于 :min。",
     "min.string": ":Attribute 至少为 :min 个字符。",
-    "min_digits": ":attribute 必须至少有 :min 位数",
+    "min_digits": ":attribute 必须至少有 :min 位数。",
     "multiple_of": ":Attribute 必须是 :value 中的多个值。",
     "next": "下一页 &raquo;",
     "not_in": "已选的属性 :attribute 非法。",

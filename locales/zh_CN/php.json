@@ -66,7 +66,7 @@
     "max.file": ":Attribute 不能大于 :max KB。",
     "max.numeric": ":Attribute 不能大于 :max。",
     "max.string": ":Attribute 不能大于 :max 个字符。",
-    "max_digits": ":attribute 的位数不得超过 :max 位数。",
+    "max_digits": ":attribute 不能超过 :max 位数。",
     "mimes": ":Attribute 必须是一个 :values 类型的文件。",
     "mimetypes": ":Attribute 必须是一个 :values 类型的文件。",
     "min.array": ":Attribute 至少有 :min 个单元。",

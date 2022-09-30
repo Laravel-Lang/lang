@@ -4,12 +4,12 @@ editLink: false
 
 # ro
 
-##### All missed: 217
+##### All missed: 200
 
 
 ### json
 
-##### Missing: 217
+##### Missing: 200
 
 <table width="100%">
 <tr><th width="50%">
@@ -410,15 +410,6 @@ China
 </td></tr>
 <tr><td width="50%">
 
-Choose Files
-
-</td><td width="50%">
-
-Choose Files
-
-</td></tr>
-<tr><td width="50%">
-
 City
 
 </td><td width="50%">
@@ -563,33 +554,6 @@ Djibouti
 </td></tr>
 <tr><td width="50%">
 
-Download Receipt
-
-</td><td width="50%">
-
-Download Receipt
-
-</td></tr>
-<tr><td width="50%">
-
-Drop file or click to choose
-
-</td><td width="50%">
-
-Drop file or click to choose
-
-</td></tr>
-<tr><td width="50%">
-
-Drop files or click to choose
-
-</td><td width="50%">
-
-Drop files or click to choose
-
-</td></tr>
-<tr><td width="50%">
-
 Ecuador
 
 </td><td width="50%">
@@ -676,15 +640,6 @@ Fiji
 </td><td width="50%">
 
 Fiji
-
-</td></tr>
-<tr><td width="50%">
-
-Filename
-
-</td><td width="50%">
-
-Filename
 
 </td></tr>
 <tr><td width="50%">
@@ -1634,24 +1589,6 @@ Select a log file...
 </td></tr>
 <tr><td width="50%">
 
-Select All Dropdown
-
-</td><td width="50%">
-
-Select All Dropdown
-
-</td></tr>
-<tr><td width="50%">
-
-Select this page
-
-</td><td width="50%">
-
-Select this page
-
-</td></tr>
-<tr><td width="50%">
-
 Senegal
 
 </td><td width="50%">
@@ -1715,65 +1652,11 @@ Somalia
 </td></tr>
 <tr><td width="50%">
 
-South Georgia and the South Sandwich Islands
-
-</td><td width="50%">
-
-South Georgia and the South Sandwich Islands
-
-</td></tr>
-<tr><td width="50%">
-
-Sri Lanka
-
-</td><td width="50%">
-
-Sri Lanka
-
-</td></tr>
-<tr><td width="50%">
-
-Start polling
-
-</td><td width="50%">
-
-Start polling
-
-</td></tr>
-<tr><td width="50%">
-
-Stop Impersonating
-
-</td><td width="50%">
-
-Stop Impersonating
-
-</td></tr>
-<tr><td width="50%">
-
-Stop polling
-
-</td><td width="50%">
-
-Stop polling
-
-</td></tr>
-<tr><td width="50%">
-
 Sudan
 
 </td><td width="50%">
 
 Sudan
-
-</td></tr>
-<tr><td width="50%">
-
-Svalbard and Jan Mayen
-
-</td><td width="50%">
-
-Svalbard and Jan Mayen
 
 </td></tr>
 <tr><td width="50%">
@@ -1801,33 +1684,6 @@ Tanzania
 </td><td width="50%">
 
 Tanzania
-
-</td></tr>
-<tr><td width="50%">
-
-The action was executed successfully.
-
-</td><td width="50%">
-
-The action was executed successfully.
-
-</td></tr>
-<tr><td width="50%">
-
-The image could not be loaded
-
-</td><td width="50%">
-
-The image could not be loaded
-
-</td></tr>
-<tr><td width="50%">
-
-The provided two factor recovery code was invalid.
-
-</td><td width="50%">
-
-The provided two factor recovery code was invalid.
 
 </td></tr>
 <tr><td width="50%">
@@ -1891,15 +1747,6 @@ Tuvalu
 </td><td width="50%">
 
 Tuvalu
-
-</td></tr>
-<tr><td width="50%">
-
-Type
-
-</td><td width="50%">
-
-Type
 
 </td></tr>
 <tr><td width="50%">

@@ -4,12 +4,12 @@ editLink: false
 
 # it
 
-##### All missed: 20
+##### All missed: 18
 
 
 ### json
 
-##### Missing: 18
+##### Missing: 16
 
 <table width="100%">
 <tr><th width="50%">
@@ -32,15 +32,6 @@ Choose Files
 </td></tr>
 <tr><td width="50%">
 
-CSV (.csv)
-
-</td><td width="50%">
-
-CSV (.csv)
-
-</td></tr>
-<tr><td width="50%">
-
 Drop file or click to choose
 
 </td><td width="50%">
@@ -55,15 +46,6 @@ Drop files or click to choose
 </td><td width="50%">
 
 Drop files or click to choose
-
-</td></tr>
-<tr><td width="50%">
-
-Excel (.xlsx)
-
-</td><td width="50%">
-
-Excel (.xlsx)
 
 </td></tr>
 <tr><td width="50%">

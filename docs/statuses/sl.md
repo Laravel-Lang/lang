@@ -4,7 +4,7 @@ editLink: false
 
 # sl
 
-##### All missed: 208
+##### All missed: 206
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 168
+##### Missing: 166
 
 <table width="100%">
 <tr><th width="50%">
@@ -403,15 +403,6 @@ Copy to clipboard
 </td></tr>
 <tr><td width="50%">
 
-CSV (.csv)
-
-</td><td width="50%">
-
-CSV (.csv)
-
-</td></tr>
-<tr><td width="50%">
-
 Côte d'Ivoire
 
 </td><td width="50%">
@@ -489,15 +480,6 @@ Error
 </td><td width="50%">
 
 Error
-
-</td></tr>
-<tr><td width="50%">
-
-Excel (.xlsx)
-
-</td><td width="50%">
-
-Excel (.xlsx)
 
 </td></tr>
 <tr><td width="50%">

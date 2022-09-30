@@ -4,12 +4,12 @@ editLink: false
 
 # ro
 
-##### All missed: 219
+##### All missed: 217
 
 
 ### json
 
-##### Missing: 219
+##### Missing: 217
 
 <table width="100%">
 <tr><th width="50%">
@@ -509,15 +509,6 @@ Coupon
 </td></tr>
 <tr><td width="50%">
 
-CSV (.csv)
-
-</td><td width="50%">
-
-CSV (.csv)
-
-</td></tr>
-<tr><td width="50%">
-
 Cuba
 
 </td><td width="50%">
@@ -658,15 +649,6 @@ ex VAT
 </td><td width="50%">
 
 ex VAT
-
-</td></tr>
-<tr><td width="50%">
-
-Excel (.xlsx)
-
-</td><td width="50%">
-
-Excel (.xlsx)
 
 </td></tr>
 <tr><td width="50%">

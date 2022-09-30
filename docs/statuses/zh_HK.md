@@ -4,7 +4,7 @@ editLink: false
 
 # zh_HK
 
-##### All missed: 76
+##### All missed: 74
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 42
+##### Missing: 40
 
 <table width="100%">
 <tr><th width="50%">
@@ -250,15 +250,6 @@ Copy to clipboard
 </td></tr>
 <tr><td width="50%">
 
-CSV (.csv)
-
-</td><td width="50%">
-
-CSV (.csv)
-
-</td></tr>
-<tr><td width="50%">
-
 Drop file or click to choose
 
 </td><td width="50%">
@@ -282,15 +273,6 @@ Edit Profile
 </td><td width="50%">
 
 Edit Profile
-
-</td></tr>
-<tr><td width="50%">
-
-Excel (.xlsx)
-
-</td><td width="50%">
-
-Excel (.xlsx)
 
 </td></tr>
 <tr><td width="50%">

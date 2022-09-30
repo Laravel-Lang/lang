@@ -4,7 +4,7 @@ editLink: false
 
 # ca
 
-##### All missed: 81
+##### All missed: 79
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 36
+##### Missing: 34
 
 <table width="100%">
 <tr><th width="50%">
@@ -178,15 +178,6 @@ Choose Files
 </td></tr>
 <tr><td width="50%">
 
-CSV (.csv)
-
-</td><td width="50%">
-
-CSV (.csv)
-
-</td></tr>
-<tr><td width="50%">
-
 Dominica
 
 </td><td width="50%">
@@ -219,15 +210,6 @@ Edit Profile
 </td><td width="50%">
 
 Edit Profile
-
-</td></tr>
-<tr><td width="50%">
-
-Excel (.xlsx)
-
-</td><td width="50%">
-
-Excel (.xlsx)
 
 </td></tr>
 <tr><td width="50%">

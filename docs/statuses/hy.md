@@ -4,7 +4,7 @@ editLink: false
 
 # hy
 
-##### All missed: 206
+##### All missed: 204
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 164
+##### Missing: 162
 
 <table width="100%">
 <tr><th width="50%">
@@ -367,15 +367,6 @@ Copy to clipboard
 </td></tr>
 <tr><td width="50%">
 
-CSV (.csv)
-
-</td><td width="50%">
-
-CSV (.csv)
-
-</td></tr>
-<tr><td width="50%">
-
 Currently Subscribed
 
 </td><td width="50%">
@@ -453,15 +444,6 @@ ex VAT
 </td><td width="50%">
 
 ex VAT
-
-</td></tr>
-<tr><td width="50%">
-
-Excel (.xlsx)
-
-</td><td width="50%">
-
-Excel (.xlsx)
 
 </td></tr>
 <tr><td width="50%">

@@ -4,12 +4,12 @@ editLink: false
 
 # az
 
-##### All missed: 56
+##### All missed: 54
 
 
 ### json
 
-##### Missing: 56
+##### Missing: 54
 
 <table width="100%">
 <tr><th width="50%">
@@ -113,15 +113,6 @@ Côte d'Ivoire
 </td></tr>
 <tr><td width="50%">
 
-CSV (.csv)
-
-</td><td width="50%">
-
-CSV (.csv)
-
-</td></tr>
-<tr><td width="50%">
-
 Côte d'Ivoire
 
 </td><td width="50%">
@@ -145,15 +136,6 @@ Drop files or click to choose
 </td><td width="50%">
 
 Drop files or click to choose
-
-</td></tr>
-<tr><td width="50%">
-
-Excel (.xlsx)
-
-</td><td width="50%">
-
-Excel (.xlsx)
 
 </td></tr>
 <tr><td width="50%">

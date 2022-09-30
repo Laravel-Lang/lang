@@ -4,7 +4,7 @@ editLink: false
 
 # ps
 
-##### All missed: 800
+##### All missed: 810
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 725
+##### Missing: 735
 
 <table width="100%">
 <tr><th width="50%">
@@ -1312,6 +1312,15 @@ Choose File
 </td></tr>
 <tr><td width="50%">
 
+Choose Files
+
+</td><td width="50%">
+
+Choose Files
+
+</td></tr>
+<tr><td width="50%">
+
 Choose Type
 
 </td><td width="50%">
@@ -1627,6 +1636,15 @@ Croatia
 </td></tr>
 <tr><td width="50%">
 
+CSV (.csv)
+
+</td><td width="50%">
+
+CSV (.csv)
+
+</td></tr>
+<tr><td width="50%">
+
 Cuba
 
 </td><td width="50%">
@@ -1915,6 +1933,24 @@ Download Receipt
 </td></tr>
 <tr><td width="50%">
 
+Drop file or click to choose
+
+</td><td width="50%">
+
+Drop file or click to choose
+
+</td></tr>
+<tr><td width="50%">
+
+Drop files or click to choose
+
+</td><td width="50%">
+
+Drop files or click to choose
+
+</td></tr>
+<tr><td width="50%">
+
 Ecuador
 
 </td><td width="50%">
@@ -2104,6 +2140,15 @@ ex VAT
 </td></tr>
 <tr><td width="50%">
 
+Excel (.xlsx)
+
+</td><td width="50%">
+
+Excel (.xlsx)
+
+</td></tr>
+<tr><td width="50%">
+
 Extra Billing Information
 
 </td><td width="50%">
@@ -2172,6 +2217,15 @@ Fiji
 </td><td width="50%">
 
 Fiji
+
+</td></tr>
+<tr><td width="50%">
+
+Filename
+
+</td><td width="50%">
+
+Filename
 
 </td></tr>
 <tr><td width="50%">
@@ -4741,11 +4795,29 @@ Select All
 </td></tr>
 <tr><td width="50%">
 
+Select All Dropdown
+
+</td><td width="50%">
+
+Select All Dropdown
+
+</td></tr>
+<tr><td width="50%">
+
 Select All Matching
 
 </td><td width="50%">
 
 Select All Matching
+
+</td></tr>
+<tr><td width="50%">
+
+Select this page
+
+</td><td width="50%">
+
+Select this page
 
 </td></tr>
 <tr><td width="50%">
@@ -5524,6 +5596,15 @@ The HasOne relationship has already been filled.
 </td></tr>
 <tr><td width="50%">
 
+The image could not be loaded
+
+</td><td width="50%">
+
+The image could not be loaded
+
+</td></tr>
+<tr><td width="50%">
+
 The password is incorrect.
 
 </td><td width="50%">
@@ -6078,6 +6159,15 @@ Two factor authentication is now enabled. Scan the following QR code using your 
 </td><td width="50%">
 
 Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
+
+</td></tr>
+<tr><td width="50%">
+
+Type
+
+</td><td width="50%">
+
+Type
 
 </td></tr>
 <tr><td width="50%">

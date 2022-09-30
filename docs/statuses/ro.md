@@ -4,12 +4,12 @@ editLink: false
 
 # ro
 
-##### All missed: 209
+##### All missed: 219
 
 
 ### json
 
-##### Missing: 209
+##### Missing: 219
 
 <table width="100%">
 <tr><th width="50%">
@@ -410,6 +410,15 @@ China
 </td></tr>
 <tr><td width="50%">
 
+Choose Files
+
+</td><td width="50%">
+
+Choose Files
+
+</td></tr>
+<tr><td width="50%">
+
 City
 
 </td><td width="50%">
@@ -500,6 +509,15 @@ Coupon
 </td></tr>
 <tr><td width="50%">
 
+CSV (.csv)
+
+</td><td width="50%">
+
+CSV (.csv)
+
+</td></tr>
+<tr><td width="50%">
+
 Cuba
 
 </td><td width="50%">
@@ -559,6 +577,24 @@ Download Receipt
 </td><td width="50%">
 
 Download Receipt
+
+</td></tr>
+<tr><td width="50%">
+
+Drop file or click to choose
+
+</td><td width="50%">
+
+Drop file or click to choose
+
+</td></tr>
+<tr><td width="50%">
+
+Drop files or click to choose
+
+</td><td width="50%">
+
+Drop files or click to choose
 
 </td></tr>
 <tr><td width="50%">
@@ -626,6 +662,15 @@ ex VAT
 </td></tr>
 <tr><td width="50%">
 
+Excel (.xlsx)
+
+</td><td width="50%">
+
+Excel (.xlsx)
+
+</td></tr>
+<tr><td width="50%">
+
 Extra Billing Information
 
 </td><td width="50%">
@@ -649,6 +694,15 @@ Fiji
 </td><td width="50%">
 
 Fiji
+
+</td></tr>
+<tr><td width="50%">
+
+Filename
+
+</td><td width="50%">
+
+Filename
 
 </td></tr>
 <tr><td width="50%">
@@ -1598,6 +1652,24 @@ Select a log file...
 </td></tr>
 <tr><td width="50%">
 
+Select All Dropdown
+
+</td><td width="50%">
+
+Select All Dropdown
+
+</td></tr>
+<tr><td width="50%">
+
+Select this page
+
+</td><td width="50%">
+
+Select this page
+
+</td></tr>
+<tr><td width="50%">
+
 Senegal
 
 </td><td width="50%">
@@ -1760,6 +1832,15 @@ The action was executed successfully.
 </td></tr>
 <tr><td width="50%">
 
+The image could not be loaded
+
+</td><td width="50%">
+
+The image could not be loaded
+
+</td></tr>
+<tr><td width="50%">
+
 The provided two factor recovery code was invalid.
 
 </td><td width="50%">
@@ -1828,6 +1909,15 @@ Tuvalu
 </td><td width="50%">
 
 Tuvalu
+
+</td></tr>
+<tr><td width="50%">
+
+Type
+
+</td><td width="50%">
+
+Type
 
 </td></tr>
 <tr><td width="50%">

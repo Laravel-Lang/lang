@@ -4,7 +4,7 @@ editLink: false
 
 # sk
 
-##### All missed: 282
+##### All missed: 292
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 242
+##### Missing: 252
 
 <table width="100%">
 <tr><th width="50%">
@@ -475,6 +475,15 @@ Change Subscription Plan
 </td></tr>
 <tr><td width="50%">
 
+Choose Files
+
+</td><td width="50%">
+
+Choose Files
+
+</td></tr>
+<tr><td width="50%">
+
 City
 
 </td><td width="50%">
@@ -547,6 +556,15 @@ Coupon
 </td></tr>
 <tr><td width="50%">
 
+CSV (.csv)
+
+</td><td width="50%">
+
+CSV (.csv)
+
+</td></tr>
+<tr><td width="50%">
+
 Current Subscription Plan
 
 </td><td width="50%">
@@ -606,6 +624,24 @@ Download Receipt
 </td><td width="50%">
 
 Download Receipt
+
+</td></tr>
+<tr><td width="50%">
+
+Drop file or click to choose
+
+</td><td width="50%">
+
+Drop file or click to choose
+
+</td></tr>
+<tr><td width="50%">
+
+Drop files or click to choose
+
+</td><td width="50%">
+
+Drop files or click to choose
 
 </td></tr>
 <tr><td width="50%">
@@ -673,6 +709,15 @@ ex VAT
 </td></tr>
 <tr><td width="50%">
 
+Excel (.xlsx)
+
+</td><td width="50%">
+
+Excel (.xlsx)
+
+</td></tr>
+<tr><td width="50%">
+
 Extra Billing Information
 
 </td><td width="50%">
@@ -687,6 +732,15 @@ Failed to load :resource!
 </td><td width="50%">
 
 Failed to load :resource!
+
+</td></tr>
+<tr><td width="50%">
+
+Filename
+
+</td><td width="50%">
+
+Filename
 
 </td></tr>
 <tr><td width="50%">
@@ -1542,6 +1596,24 @@ Select a log file...
 </td><td width="50%">
 
 Select a log file...
+
+</td></tr>
+<tr><td width="50%">
+
+Select All Dropdown
+
+</td><td width="50%">
+
+Select All Dropdown
+
+</td></tr>
+<tr><td width="50%">
+
+Select this page
+
+</td><td width="50%">
+
+Select this page
 
 </td></tr>
 <tr><td width="50%">
@@ -1807,6 +1879,15 @@ The given data was invalid.
 </td></tr>
 <tr><td width="50%">
 
+The image could not be loaded
+
+</td><td width="50%">
+
+The image could not be loaded
+
+</td></tr>
+<tr><td width="50%">
+
 The password is incorrect.
 
 </td><td width="50%">
@@ -2055,6 +2136,15 @@ Two factor authentication is now enabled. Scan the following QR code using your 
 </td><td width="50%">
 
 Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
+
+</td></tr>
+<tr><td width="50%">
+
+Type
+
+</td><td width="50%">
+
+Type
 
 </td></tr>
 <tr><td width="50%">

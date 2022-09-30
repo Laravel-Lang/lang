@@ -4,12 +4,12 @@ editLink: false
 
 # az
 
-##### All missed: 46
+##### All missed: 56
 
 
 ### json
 
-##### Missing: 46
+##### Missing: 56
 
 <table width="100%">
 <tr><th width="50%">
@@ -95,6 +95,15 @@ Cape Verde
 </td></tr>
 <tr><td width="50%">
 
+Choose Files
+
+</td><td width="50%">
+
+Choose Files
+
+</td></tr>
+<tr><td width="50%">
+
 Cote D'Ivoire
 
 </td><td width="50%">
@@ -104,6 +113,15 @@ Côte d'Ivoire
 </td></tr>
 <tr><td width="50%">
 
+CSV (.csv)
+
+</td><td width="50%">
+
+CSV (.csv)
+
+</td></tr>
+<tr><td width="50%">
+
 Côte d'Ivoire
 
 </td><td width="50%">
@@ -113,11 +131,47 @@ Côte d'Ivoire
 </td></tr>
 <tr><td width="50%">
 
+Drop file or click to choose
+
+</td><td width="50%">
+
+Drop file or click to choose
+
+</td></tr>
+<tr><td width="50%">
+
+Drop files or click to choose
+
+</td><td width="50%">
+
+Drop files or click to choose
+
+</td></tr>
+<tr><td width="50%">
+
+Excel (.xlsx)
+
+</td><td width="50%">
+
+Excel (.xlsx)
+
+</td></tr>
+<tr><td width="50%">
+
 Fiji
 
 </td><td width="50%">
 
 Fiji
+
+</td></tr>
+<tr><td width="50%">
+
+Filename
+
+</td><td width="50%">
+
+Filename
 
 </td></tr>
 <tr><td width="50%">
@@ -365,6 +419,24 @@ Samoa
 </td></tr>
 <tr><td width="50%">
 
+Select All Dropdown
+
+</td><td width="50%">
+
+Select All Dropdown
+
+</td></tr>
+<tr><td width="50%">
+
+Select this page
+
+</td><td width="50%">
+
+Select this page
+
+</td></tr>
+<tr><td width="50%">
+
 Start polling
 
 </td><td width="50%">
@@ -401,6 +473,15 @@ Tanzania
 </td></tr>
 <tr><td width="50%">
 
+The image could not be loaded
+
+</td><td width="50%">
+
+The image could not be loaded
+
+</td></tr>
+<tr><td width="50%">
+
 Timor-Leste
 
 </td><td width="50%">
@@ -424,6 +505,15 @@ Tuvalu
 </td><td width="50%">
 
 Tuvalu
+
+</td></tr>
+<tr><td width="50%">
+
+Type
+
+</td><td width="50%">
+
+Type
 
 </td></tr>
 <tr><td width="50%">

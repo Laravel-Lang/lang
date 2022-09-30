@@ -4,7 +4,7 @@ editLink: false
 
 # si
 
-##### All missed: 116
+##### All missed: 124
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 76
+##### Missing: 84
 
 <table width="100%">
 <tr><th width="50%">
@@ -277,6 +277,15 @@ Bosnia and Herzegovina
 </td></tr>
 <tr><td width="50%">
 
+Choose Files
+
+</td><td width="50%">
+
+Choose Files
+
+</td></tr>
+<tr><td width="50%">
+
 Click here to re-send the verification email.
 
 </td><td width="50%">
@@ -322,6 +331,24 @@ Dark
 </td></tr>
 <tr><td width="50%">
 
+Drop file or click to choose
+
+</td><td width="50%">
+
+Drop file or click to choose
+
+</td></tr>
+<tr><td width="50%">
+
+Drop files or click to choose
+
+</td><td width="50%">
+
+Drop files or click to choose
+
+</td></tr>
+<tr><td width="50%">
+
 Edit Profile
 
 </td><td width="50%">
@@ -345,6 +372,15 @@ Failed to load :resource!
 </td><td width="50%">
 
 Failed to load :resource!
+
+</td></tr>
+<tr><td width="50%">
+
+Filename
+
+</td><td width="50%">
+
+Filename
 
 </td></tr>
 <tr><td width="50%">
@@ -592,6 +628,24 @@ Select a log file...
 </td></tr>
 <tr><td width="50%">
 
+Select All Dropdown
+
+</td><td width="50%">
+
+Select All Dropdown
+
+</td></tr>
+<tr><td width="50%">
+
+Select this page
+
+</td><td width="50%">
+
+Select this page
+
+</td></tr>
+<tr><td width="50%">
+
 Setup Key
 
 </td><td width="50%">
@@ -678,6 +732,15 @@ The given data was invalid.
 </td><td width="50%">
 
 The given data was invalid.
+
+</td></tr>
+<tr><td width="50%">
+
+The image could not be loaded
+
+</td><td width="50%">
+
+The image could not be loaded
 
 </td></tr>
 <tr><td width="50%">
@@ -795,6 +858,15 @@ Two factor authentication is now enabled. Scan the following QR code using your 
 </td><td width="50%">
 
 Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
+
+</td></tr>
+<tr><td width="50%">
+
+Type
+
+</td><td width="50%">
+
+Type
 
 </td></tr>
 <tr><td width="50%">

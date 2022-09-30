@@ -4,12 +4,12 @@ editLink: false
 
 # nl
 
-##### All missed: 30
+##### All missed: 38
 
 
 ### json
 
-##### Missing: 16
+##### Missing: 24
 
 <table width="100%">
 <tr><th width="50%">
@@ -37,6 +37,42 @@ Value
 </td><td width="50%">
 
 (and :count more errors)
+
+</td></tr>
+<tr><td width="50%">
+
+Choose Files
+
+</td><td width="50%">
+
+Choose Files
+
+</td></tr>
+<tr><td width="50%">
+
+Drop file or click to choose
+
+</td><td width="50%">
+
+Drop file or click to choose
+
+</td></tr>
+<tr><td width="50%">
+
+Drop files or click to choose
+
+</td><td width="50%">
+
+Drop files or click to choose
+
+</td></tr>
+<tr><td width="50%">
+
+Filename
+
+</td><td width="50%">
+
+Filename
 
 </td></tr>
 <tr><td width="50%">
@@ -113,6 +149,24 @@ Select a log file...
 </td></tr>
 <tr><td width="50%">
 
+Select All Dropdown
+
+</td><td width="50%">
+
+Select All Dropdown
+
+</td></tr>
+<tr><td width="50%">
+
+Select this page
+
+</td><td width="50%">
+
+Select this page
+
+</td></tr>
+<tr><td width="50%">
+
 Start polling
 
 </td><td width="50%">
@@ -149,6 +203,15 @@ The given data was invalid.
 </td></tr>
 <tr><td width="50%">
 
+The image could not be loaded
+
+</td><td width="50%">
+
+The image could not be loaded
+
+</td></tr>
+<tr><td width="50%">
+
 The provided two factor recovery code was invalid.
 
 </td><td width="50%">
@@ -163,6 +226,15 @@ To
 </td><td width="50%">
 
 To
+
+</td></tr>
+<tr><td width="50%">
+
+Type
+
+</td><td width="50%">
+
+Type
 
 </td></tr>
 </table>

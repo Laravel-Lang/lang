@@ -4,7 +4,7 @@ editLink: false
 
 # si
 
-##### All missed: 124
+##### All missed: 119
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 84
+##### Missing: 79
 
 <table width="100%">
 <tr><th width="50%">
@@ -187,15 +187,6 @@ Value
 </td></tr>
 <tr><td width="50%">
 
-A fresh verification link has been sent to your email address.
-
-</td><td width="50%">
-
-A fresh verification link has been sent to your email address.
-
-</td></tr>
-<tr><td width="50%">
-
 A new verification link has been sent to the email address you provided in your profile settings.
 
 </td><td width="50%">
@@ -214,38 +205,11 @@ A new verification link has been sent to your email address.
 </td></tr>
 <tr><td width="50%">
 
-An error occurred while uploading the file.
-
-</td><td width="50%">
-
-An error occurred while uploading the file.
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to delete this notification?
-
-</td><td width="50%">
-
-Are you sure you want to delete this notification?
-
-</td></tr>
-<tr><td width="50%">
-
 Are you sure you want to log out?
 
 </td><td width="50%">
 
 Are you sure you want to log out?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to stop impersonating?
-
-</td><td width="50%">
-
-Are you sure you want to stop impersonating?
 
 </td></tr>
 <tr><td width="50%">
@@ -273,15 +237,6 @@ Bosnia and Herzegovina
 </td><td width="50%">
 
 Bosnia and Herzegovina
-
-</td></tr>
-<tr><td width="50%">
-
-Choose Files
-
-</td><td width="50%">
-
-Choose Files
 
 </td></tr>
 <tr><td width="50%">

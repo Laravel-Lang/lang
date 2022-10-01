@@ -223,7 +223,7 @@ uk
 
 </td><td width="50%">
 
-@MrAlKuz
+@Oleksandr-Moik, @MrAlKuz
 
 </td></tr>
 <tr><td width="50%">

@@ -4,12 +4,12 @@ editLink: false
 
 # ro
 
-##### All missed: 209
+##### All missed: 200
 
 
 ### json
 
-##### Missing: 209
+##### Missing: 200
 
 <table width="100%">
 <tr><th width="50%">
@@ -550,15 +550,6 @@ Djibouti
 </td><td width="50%">
 
 Djibouti
-
-</td></tr>
-<tr><td width="50%">
-
-Download Receipt
-
-</td><td width="50%">
-
-Download Receipt
 
 </td></tr>
 <tr><td width="50%">
@@ -1661,65 +1652,11 @@ Somalia
 </td></tr>
 <tr><td width="50%">
 
-South Georgia and the South Sandwich Islands
-
-</td><td width="50%">
-
-South Georgia and the South Sandwich Islands
-
-</td></tr>
-<tr><td width="50%">
-
-Sri Lanka
-
-</td><td width="50%">
-
-Sri Lanka
-
-</td></tr>
-<tr><td width="50%">
-
-Start polling
-
-</td><td width="50%">
-
-Start polling
-
-</td></tr>
-<tr><td width="50%">
-
-Stop Impersonating
-
-</td><td width="50%">
-
-Stop Impersonating
-
-</td></tr>
-<tr><td width="50%">
-
-Stop polling
-
-</td><td width="50%">
-
-Stop polling
-
-</td></tr>
-<tr><td width="50%">
-
 Sudan
 
 </td><td width="50%">
 
 Sudan
-
-</td></tr>
-<tr><td width="50%">
-
-Svalbard and Jan Mayen
-
-</td><td width="50%">
-
-Svalbard and Jan Mayen
 
 </td></tr>
 <tr><td width="50%">
@@ -1747,24 +1684,6 @@ Tanzania
 </td><td width="50%">
 
 Tanzania
-
-</td></tr>
-<tr><td width="50%">
-
-The action was executed successfully.
-
-</td><td width="50%">
-
-The action was executed successfully.
-
-</td></tr>
-<tr><td width="50%">
-
-The provided two factor recovery code was invalid.
-
-</td><td width="50%">
-
-The provided two factor recovery code was invalid.
 
 </td></tr>
 <tr><td width="50%">

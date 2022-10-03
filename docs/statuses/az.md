@@ -4,12 +4,12 @@ editLink: false
 
 # az
 
-##### All missed: 58
+##### All missed: 45
 
 
 ### json
 
-##### Missing: 55
+##### Missing: 45
 
 <table width="100%">
 <tr><th width="50%">
@@ -113,15 +113,6 @@ Côte d'Ivoire
 </td></tr>
 <tr><td width="50%">
 
-ex VAT
-
-</td><td width="50%">
-
-ex VAT
-
-</td></tr>
-<tr><td width="50%">
-
 Fiji
 
 </td><td width="50%">
@@ -266,15 +257,6 @@ Nepal
 </td></tr>
 <tr><td width="50%">
 
-Netherlands Antilles
-
-</td><td width="50%">
-
-Netherlands Antilles
-
-</td></tr>
-<tr><td width="50%">
-
 Niger
 
 </td><td width="50%">
@@ -289,15 +271,6 @@ Niue
 </td><td width="50%">
 
 Niue
-
-</td></tr>
-<tr><td width="50%">
-
-Notifications
-
-</td><td width="50%">
-
-Notifications
 
 </td></tr>
 <tr><td width="50%">
@@ -347,15 +320,6 @@ Peru
 </td></tr>
 <tr><td width="50%">
 
-Previewing
-
-</td><td width="50%">
-
-Previewing
-
-</td></tr>
-<tr><td width="50%">
-
 Rwanda
 
 </td><td width="50%">
@@ -401,33 +365,6 @@ Samoa
 </td></tr>
 <tr><td width="50%">
 
-Setup Key
-
-</td><td width="50%">
-
-Setup Key
-
-</td></tr>
-<tr><td width="50%">
-
-Start polling
-
-</td><td width="50%">
-
-Start polling
-
-</td></tr>
-<tr><td width="50%">
-
-Stop polling
-
-</td><td width="50%">
-
-Stop polling
-
-</td></tr>
-<tr><td width="50%">
-
 Sudan
 
 </td><td width="50%">
@@ -455,15 +392,6 @@ Tanzania
 </td></tr>
 <tr><td width="50%">
 
-The provided two factor recovery code was invalid.
-
-</td><td width="50%">
-
-The provided two factor recovery code was invalid.
-
-</td></tr>
-<tr><td width="50%">
-
 Timor-Leste
 
 </td><td width="50%">
@@ -482,15 +410,6 @@ Tokelau
 </td></tr>
 <tr><td width="50%">
 
-Total:
-
-</td><td width="50%">
-
-Total:
-
-</td></tr>
-<tr><td width="50%">
-
 Tuvalu
 
 </td><td width="50%">
@@ -505,82 +424,6 @@ Vanuatu
 </td><td width="50%">
 
 Vanuatu
-
-</td></tr>
-<tr><td width="50%">
-
-Yearly
-
-</td><td width="50%">
-
-Yearly
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php-inline
-
-##### Missing: 1
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-required_if_accepted
-
-</td><td width="50%">
-
-This field is required when :other is accepted.
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php
-
-##### Missing: 2
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-max_digits
-
-</td><td width="50%">
-
-The :attribute must not have more than :max digits.
-
-</td></tr>
-<tr><td width="50%">
-
-min_digits
-
-</td><td width="50%">
-
-The :attribute must have at least :min digits.
 
 </td></tr>
 </table>

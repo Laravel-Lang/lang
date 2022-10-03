@@ -4,158 +4,12 @@ editLink: false
 
 # it
 
-##### All missed: 29
-
-
-### json-inline
-
-##### Missing: 14
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-The :attribute must be a valid role.
-
-</td><td width="50%">
-
-This field must be a valid role.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must be at least :length characters and contain at least one number.
-
-</td><td width="50%">
-
-This field must be at least :length characters and contain at least one number.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must be at least :length characters and contain at least one special character and one number.
-
-</td><td width="50%">
-
-This field must be at least :length characters and contain at least one special character and one number.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must be at least :length characters and contain at least one special character.
-
-</td><td width="50%">
-
-This field must be at least :length characters and contain at least one special character.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must be at least :length characters and contain at least one uppercase character and one number.
-
-</td><td width="50%">
-
-This field must be at least :length characters and contain at least one uppercase character and one number.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
-
-</td><td width="50%">
-
-This field must be at least :length characters and contain at least one uppercase character and one special character.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
-
-</td><td width="50%">
-
-This field must be at least :length characters and contain at least one uppercase character, one number, and one special character.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must be at least :length characters and contain at least one uppercase character.
-
-</td><td width="50%">
-
-This field must be at least :length characters and contain at least one uppercase character.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must be at least :length characters.
-
-</td><td width="50%">
-
-This field must be at least :length characters.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must contain at least one letter.
-
-</td><td width="50%">
-
-This field must contain at least one letter.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must contain at least one number.
-
-</td><td width="50%">
-
-This field must contain at least one number.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must contain at least one symbol.
-
-</td><td width="50%">
-
-This field must contain at least one symbol.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must contain at least one uppercase and one lowercase letter.
-
-</td><td width="50%">
-
-This field must contain at least one uppercase and one lowercase letter.
-
-</td></tr>
-<tr><td width="50%">
-
-The given :attribute has appeared in a data leak. Please choose a different :attribute.
-
-</td><td width="50%">
-
-The given field has appeared in a data leak. Please choose a different field.
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
+##### All missed: 18
 
 
 ### json
 
-##### Missing: 13
+##### Missing: 16
 
 <table width="100%">
 <tr><th width="50%">
@@ -169,6 +23,42 @@ Value
 </th></tr>
 <tr><td width="50%">
 
+Choose Files
+
+</td><td width="50%">
+
+Choose Files
+
+</td></tr>
+<tr><td width="50%">
+
+Drop file or click to choose
+
+</td><td width="50%">
+
+Drop file or click to choose
+
+</td></tr>
+<tr><td width="50%">
+
+Drop files or click to choose
+
+</td><td width="50%">
+
+Drop files or click to choose
+
+</td></tr>
+<tr><td width="50%">
+
+Filename
+
+</td><td width="50%">
+
+Filename
+
+</td></tr>
+<tr><td width="50%">
+
 From
 
 </td><td width="50%">
@@ -232,47 +122,29 @@ Select a log file...
 </td></tr>
 <tr><td width="50%">
 
-Start polling
+Select All Dropdown
 
 </td><td width="50%">
 
-Start polling
+Select All Dropdown
 
 </td></tr>
 <tr><td width="50%">
 
-Stop polling
+Select this page
 
 </td><td width="50%">
 
-Stop polling
+Select this page
 
 </td></tr>
 <tr><td width="50%">
 
-The action was executed successfully.
+The image could not be loaded
 
 </td><td width="50%">
 
-The action was executed successfully.
-
-</td></tr>
-<tr><td width="50%">
-
-The given data was invalid.
-
-</td><td width="50%">
-
-The given data was invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-The provided two factor recovery code was invalid.
-
-</td><td width="50%">
-
-The provided two factor recovery code was invalid.
+The image could not be loaded
 
 </td></tr>
 <tr><td width="50%">
@@ -282,6 +154,15 @@ To
 </td><td width="50%">
 
 To
+
+</td></tr>
+<tr><td width="50%">
+
+Type
+
+</td><td width="50%">
+
+Type
 
 </td></tr>
 </table>

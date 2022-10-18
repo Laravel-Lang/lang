@@ -4,7 +4,7 @@ editLink: false
 
 # uz_Cyrl
 
-##### All missed: 314
+##### All missed: 315
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 269
+##### Missing: 270
 
 <table width="100%">
 <tr><th width="50%">
@@ -2325,6 +2325,15 @@ United States Minor Outlying Islands
 </td><td width="50%">
 
 United States Minor Outlying Islands
+
+</td></tr>
+<tr><td width="50%">
+
+Unknown
+
+</td><td width="50%">
+
+Unknown
 
 </td></tr>
 <tr><td width="50%">

@@ -273,7 +273,7 @@ editLink: false
 
 </td><td width="20%">
 
-[sw&nbsp;❗](statuses/sw.md)
+[sw&nbsp;✔](statuses/sw.md)
 
 </td><td width="20%">
 

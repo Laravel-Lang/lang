@@ -4,7 +4,7 @@ editLink: false
 
 # ms
 
-##### All missed: 384
+##### All missed: 369
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 341
+##### Missing: 326
 
 <table width="100%">
 <tr><th width="50%">
@@ -412,24 +412,6 @@ Barbados
 </td></tr>
 <tr><td width="50%">
 
-Before continuing, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
-
-</td><td width="50%">
-
-Before continuing, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
-
-</td></tr>
-<tr><td width="50%">
-
-Before proceeding, please check your email for a verification link.
-
-</td><td width="50%">
-
-Before proceeding, please check your email for a verification link.
-
-</td></tr>
-<tr><td width="50%">
-
 Belarus
 
 </td><td width="50%">
@@ -462,24 +444,6 @@ Bhutan
 </td><td width="50%">
 
 Bhutan
-
-</td></tr>
-<tr><td width="50%">
-
-Billing Information
-
-</td><td width="50%">
-
-Billing Information
-
-</td></tr>
-<tr><td width="50%">
-
-Billing Management
-
-</td><td width="50%">
-
-Billing Management
 
 </td></tr>
 <tr><td width="50%">
@@ -606,42 +570,6 @@ China
 </td><td width="50%">
 
 China
-
-</td></tr>
-<tr><td width="50%">
-
-Choose Files
-
-</td><td width="50%">
-
-Choose Files
-
-</td></tr>
-<tr><td width="50%">
-
-City
-
-</td><td width="50%">
-
-City
-
-</td></tr>
-<tr><td width="50%">
-
-Click here to re-send the verification email.
-
-</td><td width="50%">
-
-Click here to re-send the verification email.
-
-</td></tr>
-<tr><td width="50%">
-
-click here to request another
-
-</td><td width="50%">
-
-click here to request another
 
 </td></tr>
 <tr><td width="50%">
@@ -790,65 +718,11 @@ Djibouti
 </td></tr>
 <tr><td width="50%">
 
-Download Receipt
-
-</td><td width="50%">
-
-Download Receipt
-
-</td></tr>
-<tr><td width="50%">
-
-Drop file or click to choose
-
-</td><td width="50%">
-
-Drop file or click to choose
-
-</td></tr>
-<tr><td width="50%">
-
-Drop files or click to choose
-
-</td><td width="50%">
-
-Drop files or click to choose
-
-</td></tr>
-<tr><td width="50%">
-
-Ecuador
-
-</td><td width="50%">
-
-Ecuador
-
-</td></tr>
-<tr><td width="50%">
-
-Edit Profile
-
-</td><td width="50%">
-
-Edit Profile
-
-</td></tr>
-<tr><td width="50%">
-
 Editor
 
 </td><td width="50%">
 
 Editor
-
-</td></tr>
-<tr><td width="50%">
-
-Email Addresses
-
-</td><td width="50%">
-
-Email Addresses
 
 </td></tr>
 <tr><td width="50%">
@@ -894,15 +768,6 @@ ex VAT
 </td><td width="50%">
 
 ex VAT
-
-</td></tr>
-<tr><td width="50%">
-
-Extra Billing Information
-
-</td><td width="50%">
-
-Extra Billing Information
 
 </td></tr>
 <tr><td width="50%">

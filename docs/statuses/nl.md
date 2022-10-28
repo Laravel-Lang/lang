@@ -4,12 +4,12 @@ editLink: false
 
 # nl
 
-##### All missed: 39
+##### All missed: 29
 
 
 ### json
 
-##### Missing: 25
+##### Missing: 15
 
 <table width="100%">
 <tr><th width="50%">
@@ -113,56 +113,11 @@ Logs
 </td></tr>
 <tr><td width="50%">
 
-Refresh
-
-</td><td width="50%">
-
-Refresh
-
-</td></tr>
-<tr><td width="50%">
-
-Scroll to bottom
-
-</td><td width="50%">
-
-Scroll to bottom
-
-</td></tr>
-<tr><td width="50%">
-
-Scroll to top
-
-</td><td width="50%">
-
-Scroll to top
-
-</td></tr>
-<tr><td width="50%">
-
-Select a log file...
-
-</td><td width="50%">
-
-Select a log file...
-
-</td></tr>
-<tr><td width="50%">
-
 Select All Dropdown
 
 </td><td width="50%">
 
 Select All Dropdown
-
-</td></tr>
-<tr><td width="50%">
-
-Select this page
-
-</td><td width="50%">
-
-Select this page
 
 </td></tr>
 <tr><td width="50%">
@@ -181,51 +136,6 @@ Stop polling
 </td><td width="50%">
 
 Stop polling
-
-</td></tr>
-<tr><td width="50%">
-
-The action was executed successfully.
-
-</td><td width="50%">
-
-The action was executed successfully.
-
-</td></tr>
-<tr><td width="50%">
-
-The given data was invalid.
-
-</td><td width="50%">
-
-The given data was invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-The image could not be loaded
-
-</td><td width="50%">
-
-The image could not be loaded
-
-</td></tr>
-<tr><td width="50%">
-
-The provided two factor recovery code was invalid.
-
-</td><td width="50%">
-
-The provided two factor recovery code was invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-To
-
-</td><td width="50%">
-
-To
 
 </td></tr>
 <tr><td width="50%">

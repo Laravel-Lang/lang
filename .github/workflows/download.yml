@@ -4,85 +4,138 @@ on:
     schedule:
         -   cron: 0 0 * * *
     workflow_dispatch:
+    push:
+        branches:
+            - "patch/2022-10-29/14-28"
 
 permissions: write-all
 
 jobs:
     laravel:
         uses: Laravel-Lang/.github/.github/workflows/download.yml@main
+        strategy:
+            fail-fast: true
+            matrix:
+                version: [ "9.x", "master" ]
         with:
-            project: Laravel Framework
-            paths: source/laravel/*,source/framework/*
+            project: Laravel Framework ${{ matrix.version }}
+            paths: source/laravel/${{ matrix.version }}/*,source/framework/${{ matrix.version }}/*
             commands: |
-                vendor/bin/lang download --url=https://github.com/laravel/laravel/archive/refs/heads/9.x.zip --project=laravel --ver=9.x --copy=lang
-                vendor/bin/lang download --url=https://github.com/laravel/laravel/archive/refs/heads/master.zip --project=laravel --ver=master --copy=lang
+                vendor/bin/lang download \
+                    --url=https://github.com/laravel/laravel/archive/refs/heads/${{ matrix.version }}.zip \
+                    --project=laravel \
+                    --ver=${{ matrix.version }} \
+                    --copy=lang
                 
-                vendor/bin/lang download --url=https://github.com/laravel/framework/archive/refs/heads/9.x.zip --project=framework --ver=9.x
-                vendor/bin/lang download --url=https://github.com/laravel/framework/archive/refs/heads/master.zip --project=framework --ver=master
+                vendor/bin/lang download \
+                    --url=https://github.com/laravel/framework/archive/refs/heads/${{ matrix.version }}.zip \
+                    --project=framework \
+                    --ver=${{ matrix.version }}
     
     lumen:
         uses: Laravel-Lang/.github/.github/workflows/download.yml@main
+        strategy:
+            fail-fast: true
+            matrix:
+                version: [ "9.x", "master" ]
         with:
-            project: Lumen Framework
-            paths: source/lumen-framework/*
+            project: Lumen Framework ${{ matrix.version }}
+            paths: source/lumen-framework/${{ matrix.version }}/*
             commands: |
-                vendor/bin/lang download --url=https://github.com/laravel/lumen-framework/archive/refs/heads/9.x.zip --project=lumen-framework --ver=9.x --copy=lang --copy=resources/lang
-                vendor/bin/lang download --url=https://github.com/laravel/lumen-framework/archive/refs/heads/master.zip --project=lumen-framework --ver=master --copy=lang --copy=resources/lang
+                vendor/bin/lang download \
+                    --url=https://github.com/laravel/lumen-framework/archive/refs/heads/${{ matrix.version }}.zip \
+                    --project=lumen-framework \
+                    --ver=${{ matrix.version }} \
+                    --copy=lang \
+                    --copy=resources/lang
 
     breeze:
         uses: Laravel-Lang/.github/.github/workflows/download.yml@main
+        strategy:
+            fail-fast: true
+            matrix:
+                version: [ "1.x", "master" ]
         with:
-            project: Laravel Breeze
-            paths: source/breeze/*
+            project: Laravel Breeze ${{ matrix.version }}
+            paths: source/breeze/${{ matrix.version }}/*
             commands: |
-                vendor/bin/lang download --url=https://github.com/laravel/breeze/archive/refs/heads/1.x.zip --project=breeze --ver=1.x
-                vendor/bin/lang download --url=https://github.com/laravel/breeze/archive/refs/heads/master.zip --project=breeze --ver=master
+                vendor/bin/lang download \
+                    --url=https://github.com/laravel/breeze/archive/refs/heads/${{ matrix.version }}.zip \
+                    --project=breeze \
+                    --ver=${{ matrix.version }}
 
     cashier_stripe:
         uses: Laravel-Lang/.github/.github/workflows/download.yml@main
+        strategy:
+            fail-fast: true
+            matrix:
+                version: [ "12.x", "13.x", "14.x", "master" ]
         with:
-            project: Laravel Cashier Stripe
-            paths: source/cashier/stripe/*
+            project: Laravel Cashier Stripe ${{ matrix.version }}
+            paths: source/cashier/stripe/${{ matrix.version }}/*
             commands: |
-                vendor/bin/lang download --url=https://github.com/laravel/cashier-stripe/archive/refs/heads/12.x.zip --project=cashier/stripe --ver=12.x
-                vendor/bin/lang download --url=https://github.com/laravel/cashier-stripe/archive/refs/heads/13.x.zip --project=cashier/stripe --ver=13.x
-                vendor/bin/lang download --url=https://github.com/laravel/cashier-stripe/archive/refs/heads/14.x.zip --project=cashier/stripe --ver=14.x
-                vendor/bin/lang download --url=https://github.com/laravel/cashier-stripe/archive/refs/heads/master.zip --project=cashier/stripe --ver=master
+                vendor/bin/lang download \
+                    --url=https://github.com/laravel/cashier-stripe/archive/refs/heads/${{ matrix.version }}.zip \
+                    --project=cashier/stripe \
+                    --ver=${{ matrix.version }}
 
     fortify:
         uses: Laravel-Lang/.github/.github/workflows/download.yml@main
+        strategy:
+            fail-fast: true
+            matrix:
+                version: [ "1.x", "master" ]
         with:
-            project: Laravel Fortify
-            paths: source/fortify/*
+            project: Laravel Fortify ${{ matrix.version }}
+            paths: source/fortify/${{ matrix.version }}/*
             commands: |
-                vendor/bin/lang download --url=https://github.com/laravel/fortify/archive/refs/heads/1.x.zip --project=fortify --ver=1.x
-                vendor/bin/lang download --url=https://github.com/laravel/fortify/archive/refs/heads/master.zip --project=fortify --ver=master
+                vendor/bin/lang download \
+                    --url=https://github.com/laravel/fortify/archive/refs/heads/${{ matrix.version }}.zip \
+                    --project=fortify \
+                    --ver=${{ matrix.version }}
 
     jetstream:
         uses: Laravel-Lang/.github/.github/workflows/download.yml@main
+        strategy:
+            fail-fast: true
+            matrix:
+                version: [ "1.x", "2.x", "master" ]
         with:
-            project: Laravel Jetstream
-            paths: source/jetstream/*
+            project: Laravel Jetstream ${{ matrix.version }}
+            paths: source/jetstream/${{ matrix.version }}/*
             commands: |
-                vendor/bin/lang download --url=https://github.com/laravel/jetstream/archive/refs/heads/1.x.zip --project=jetstream --ver=1.x
-                vendor/bin/lang download --url=https://github.com/laravel/jetstream/archive/refs/heads/2.x.zip --project=jetstream --ver=2.x
-                vendor/bin/lang download --url=https://github.com/laravel/jetstream/archive/refs/heads/master.zip --project=jetstream --ver=master
+                vendor/bin/lang download \
+                    --url=https://github.com/laravel/jetstream/archive/refs/heads/${{ matrix.version }}.zip \
+                    --project=jetstream \
+                    --ver=${{ matrix.version }}
 
     nova_log_viewer:
         uses: Laravel-Lang/.github/.github/workflows/download.yml@main
+        strategy:
+            fail-fast: true
+            matrix:
+                version: [ "main" ]
         with:
-            project: Laravel Nova Log Viewer
-            paths: source/nova/log-viewer/*
+            project: Laravel Nova Log Viewer ${{ matrix.version }}
+            paths: source/nova/log-viewer/${{ matrix.version }}/*
             commands: |
-                vendor/bin/lang download --url=https://github.com/laravel/nova-log-viewer/archive/refs/heads/main.zip --project=nova/log-viewer --ver=main
+                vendor/bin/lang download \
+                    --url=https://github.com/laravel/nova-log-viewer/archive/refs/heads/${{ matrix.version }}.zip \
+                    --project=nova/log-viewer \
+                    --ver=${{ matrix.version }}
 
     ui:
         uses: Laravel-Lang/.github/.github/workflows/download.yml@main
+        strategy:
+            fail-fast: true
+            matrix:
+                version: [ "3.x", "4.x", "master" ]
         with:
-            project: Laravel UI
-            paths: source/ui/*
+            project: Laravel UI ${{ matrix.version }}
+            paths: source/ui/${{ matrix.version }}/*
             commands: |
-                vendor/bin/lang download --url=https://github.com/laravel/ui/archive/refs/heads/3.x.zip --project=ui --ver=3.x
-                vendor/bin/lang download --url=https://github.com/laravel/ui/archive/refs/heads/4.x.zip --project=ui --ver=4.x
-                vendor/bin/lang download --url=https://github.com/laravel/ui/archive/refs/heads/master.zip --project=ui --ver=master
+                vendor/bin/lang download \
+                    --url=https://github.com/laravel/ui/archive/refs/heads/${{ matrix.version }}.zip \
+                    --project=ui \
+                    --ver=${{ matrix.version }}
     

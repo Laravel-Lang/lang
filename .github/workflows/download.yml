@@ -4,9 +4,6 @@ on:
     schedule:
         -   cron: 0 0 * * *
     workflow_dispatch:
-    push:
-        branches:
-            - "patch/2022-10-29/14-28"
 
 permissions: write-all
 

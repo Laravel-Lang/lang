@@ -80,7 +80,7 @@
     "password.mixed": "Le mot de passe doit contenir au moins une majuscule et une minuscule.",
     "password.numbers": "Le mot de passe doit contenir au moins un chiffre.",
     "password.symbols": "Le mot de passe doit contenir au moins un symbole.",
-    "password.uncompromised": "Le mot de passe est apparue dans une fuite de données. Veuillez choisir une valeur différente.",
+    "password.uncompromised": "Le mot de passe est apparu dans une fuite de données. Veuillez choisir une valeur différente.",
     "present": "Ce champ doit être présent.",
     "prohibited": "Ce champ est interdit",
     "prohibited_if": "Ce champ est interdit quand :other a la valeur :value.",

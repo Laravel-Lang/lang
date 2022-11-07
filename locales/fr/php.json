@@ -72,7 +72,7 @@
     "min.array": "Le tableau :attribute doit contenir au moins :min éléments.",
     "min.file": "La taille du fichier de :attribute doit être supérieure ou égale à :min kilo-octets.",
     "min.numeric": "La valeur de :attribute doit être supérieure ou égale à :min.",
-    "min.string": "Le texte :attribute doit contenir au moins :min caractères.",
+    "min.string": "Le texte de :attribute doit contenir au moins :min caractères.",
     "min_digits": "Le champ :attribute doit avoir au moins :min chiffres.",
     "multiple_of": "La valeur de :attribute doit être un multiple de :value",
     "next": "Suivant &raquo;",

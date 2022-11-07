@@ -4,12 +4,12 @@ editLink: false
 
 # az
 
-##### All missed: 46
+##### All missed: 34
 
 
 ### json
 
-##### Missing: 46
+##### Missing: 34
 
 <table width="100%">
 <tr><th width="50%">
@@ -95,56 +95,11 @@ Cape Verde
 </td></tr>
 <tr><td width="50%">
 
-Cote D'Ivoire
-
-</td><td width="50%">
-
-Côte d'Ivoire
-
-</td></tr>
-<tr><td width="50%">
-
-Côte d'Ivoire
-
-</td><td width="50%">
-
-Côte d'Ivoire
-
-</td></tr>
-<tr><td width="50%">
-
-Fiji
-
-</td><td width="50%">
-
-Fiji
-
-</td></tr>
-<tr><td width="50%">
-
 Gibraltar
 
 </td><td width="50%">
 
 Gibraltar
-
-</td></tr>
-<tr><td width="50%">
-
-Guernsey
-
-</td><td width="50%">
-
-Guernsey
-
-</td></tr>
-<tr><td width="50%">
-
-Guyana
-
-</td><td width="50%">
-
-Guyana
 
 </td></tr>
 <tr><td width="50%">
@@ -163,15 +118,6 @@ Honduras
 </td><td width="50%">
 
 Honduras
-
-</td></tr>
-<tr><td width="50%">
-
-Jane Doe
-
-</td><td width="50%">
-
-Jane Doe
 
 </td></tr>
 <tr><td width="50%">
@@ -208,15 +154,6 @@ Malta
 </td><td width="50%">
 
 Malta
-
-</td></tr>
-<tr><td width="50%">
-
-May
-
-</td><td width="50%">
-
-May
 
 </td></tr>
 <tr><td width="50%">
@@ -320,38 +257,11 @@ Peru
 </td></tr>
 <tr><td width="50%">
 
-Rwanda
-
-</td><td width="50%">
-
-Rwanda
-
-</td></tr>
-<tr><td width="50%">
-
 Réunion
 
 </td><td width="50%">
 
 Réunion
-
-</td></tr>
-<tr><td width="50%">
-
-Saint Barthélemy
-
-</td><td width="50%">
-
-Saint Barthélemy
-
-</td></tr>
-<tr><td width="50%">
-
-Saint Martin (French part)
-
-</td><td width="50%">
-
-Saint Martin (French part)
 
 </td></tr>
 <tr><td width="50%">
@@ -392,15 +302,6 @@ Tanzania
 </td></tr>
 <tr><td width="50%">
 
-Timor-Leste
-
-</td><td width="50%">
-
-Timor-Leste
-
-</td></tr>
-<tr><td width="50%">
-
 Tokelau
 
 </td><td width="50%">
@@ -415,15 +316,6 @@ Tuvalu
 </td><td width="50%">
 
 Tuvalu
-
-</td></tr>
-<tr><td width="50%">
-
-Unknown
-
-</td><td width="50%">
-
-Unknown
 
 </td></tr>
 <tr><td width="50%">

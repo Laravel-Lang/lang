@@ -23,7 +23,7 @@
     "declined": "拒否する必要があります。",
     "declined_if": ":Otherが:valueである場合、拒否する必要があります。",
     "different": ":Otherとは異なる値を指定する必要があります。",
-    "digits": ":Digits桁でなければいけません。",
+    "digits": ":digits桁でなければいけません。",
     "digits_between": ":Min ~ :max桁でなければいけません。",
     "dimensions": "画像の寸法が無効です。",
     "distinct": "値が重複しています。",

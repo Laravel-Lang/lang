@@ -4,7 +4,7 @@ editLink: false
 
 # uz_Latn
 
-##### All missed: 315
+##### All missed: 317
 
 
 ### json-inline
@@ -2605,7 +2605,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 13
+##### Missing: 14
 
 <table width="100%">
 <tr><th width="50%">
@@ -2642,6 +2642,15 @@ doesnt_start_with
 </td><td width="50%">
 
 This field may not start with one of the following: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+lowercase
+
+</td><td width="50%">
+
+This field must be lowercase.
 
 </td></tr>
 <tr><td width="50%">
@@ -2742,7 +2751,7 @@ This field is required when :other is accepted.
 
 ### php
 
-##### Missing: 18
+##### Missing: 19
 
 <table width="100%">
 <tr><th width="50%">
@@ -2815,6 +2824,15 @@ enum
 </td><td width="50%">
 
 The selected :attribute is invalid.
+
+</td></tr>
+<tr><td width="50%">
+
+lowercase
+
+</td><td width="50%">
+
+The :attribute must be lowercase.
 
 </td></tr>
 <tr><td width="50%">

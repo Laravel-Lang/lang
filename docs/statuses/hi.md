@@ -4,7 +4,7 @@ editLink: false
 
 # hi
 
-##### All missed: 212
+##### All missed: 214
 
 
 ### json-inline
@@ -1858,7 +1858,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 8
+##### Missing: 9
 
 <table width="100%">
 <tr><th width="50%">
@@ -1886,6 +1886,15 @@ doesnt_start_with
 </td><td width="50%">
 
 This field may not start with one of the following: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+lowercase
+
+</td><td width="50%">
+
+This field must be lowercase.
 
 </td></tr>
 <tr><td width="50%">
@@ -1950,7 +1959,7 @@ This field is required when :other is accepted.
 
 ### php
 
-##### Missing: 3
+##### Missing: 4
 
 <table width="100%">
 <tr><th width="50%">
@@ -1962,6 +1971,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+lowercase
+
+</td><td width="50%">
+
+The :attribute must be lowercase.
+
+</td></tr>
 <tr><td width="50%">
 
 max_digits

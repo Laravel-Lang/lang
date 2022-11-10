@@ -4,7 +4,7 @@ editLink: false
 
 # ps
 
-##### All missed: 809
+##### All missed: 811
 
 
 ### json-inline
@@ -6781,7 +6781,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 34
+##### Missing: 35
 
 <table width="100%">
 <tr><th width="50%">
@@ -6899,6 +6899,15 @@ filled
 </td><td width="50%">
 
 This field must have a value.
+
+</td></tr>
+<tr><td width="50%">
+
+lowercase
+
+</td><td width="50%">
+
+This field must be lowercase.
 
 </td></tr>
 <tr><td width="50%">
@@ -7107,7 +7116,7 @@ This field is required when none of :values are present.
 
 ### php
 
-##### Missing: 27
+##### Missing: 28
 
 <table width="100%">
 <tr><th width="50%">
@@ -7198,6 +7207,15 @@ enum
 </td><td width="50%">
 
 The selected :attribute is invalid.
+
+</td></tr>
+<tr><td width="50%">
+
+lowercase
+
+</td><td width="50%">
+
+The :attribute must be lowercase.
 
 </td></tr>
 <tr><td width="50%">

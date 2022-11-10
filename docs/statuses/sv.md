@@ -4,7 +4,7 @@ editLink: false
 
 # sv
 
-##### All missed: 308
+##### All missed: 310
 
 
 ### json-inline
@@ -2614,7 +2614,7 @@ Zimbabwe
 
 ### php-inline
 
-##### Missing: 13
+##### Missing: 14
 
 <table width="100%">
 <tr><th width="50%">
@@ -2651,6 +2651,15 @@ doesnt_start_with
 </td><td width="50%">
 
 This field may not start with one of the following: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+lowercase
+
+</td><td width="50%">
+
+This field must be lowercase.
 
 </td></tr>
 <tr><td width="50%">
@@ -2751,7 +2760,7 @@ This field is required when :other is accepted.
 
 ### php
 
-##### Missing: 10
+##### Missing: 11
 
 <table width="100%">
 <tr><th width="50%">
@@ -2779,6 +2788,15 @@ doesnt_start_with
 </td><td width="50%">
 
 The :attribute may not start with one of the following: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+lowercase
+
+</td><td width="50%">
+
+The :attribute must be lowercase.
 
 </td></tr>
 <tr><td width="50%">

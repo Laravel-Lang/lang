@@ -4,7 +4,7 @@ editLink: false
 
 # sl
 
-##### All missed: 207
+##### All missed: 209
 
 
 ### json-inline
@@ -1678,7 +1678,7 @@ Your email address is unverified.
 
 ### php-inline
 
-##### Missing: 11
+##### Missing: 12
 
 <table width="100%">
 <tr><th width="50%">
@@ -1706,6 +1706,15 @@ doesnt_start_with
 </td><td width="50%">
 
 This field may not start with one of the following: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+lowercase
+
+</td><td width="50%">
+
+This field must be lowercase.
 
 </td></tr>
 <tr><td width="50%">
@@ -1797,7 +1806,7 @@ This field is required when :other is accepted.
 
 ### php
 
-##### Missing: 15
+##### Missing: 16
 
 <table width="100%">
 <tr><th width="50%">
@@ -1852,6 +1861,15 @@ enum
 </td><td width="50%">
 
 The selected :attribute is invalid.
+
+</td></tr>
+<tr><td width="50%">
+
+lowercase
+
+</td><td width="50%">
+
+The :attribute must be lowercase.
 
 </td></tr>
 <tr><td width="50%">

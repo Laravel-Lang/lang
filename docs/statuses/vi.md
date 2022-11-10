@@ -4,7 +4,7 @@ editLink: false
 
 # vi
 
-##### All missed: 11
+##### All missed: 13
 
 
 ### json
@@ -110,7 +110,7 @@ Unknown
 
 ### php-inline
 
-##### Missing: 1
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -122,6 +122,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+lowercase
+
+</td><td width="50%">
+
+This field must be lowercase.
+
+</td></tr>
 <tr><td width="50%">
 
 required_if_accepted
@@ -139,7 +148,7 @@ This field is required when :other is accepted.
 
 ### php
 
-##### Missing: 1
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -151,6 +160,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+lowercase
+
+</td><td width="50%">
+
+The :attribute must be lowercase.
+
+</td></tr>
 <tr><td width="50%">
 
 required_if_accepted

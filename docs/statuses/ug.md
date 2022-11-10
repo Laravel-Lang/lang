@@ -4,7 +4,7 @@ editLink: false
 
 # ug
 
-##### All missed: 851
+##### All missed: 853
 
 
 ### json-inline
@@ -7035,7 +7035,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 34
+##### Missing: 35
 
 <table width="100%">
 <tr><th width="50%">
@@ -7153,6 +7153,15 @@ filled
 </td><td width="50%">
 
 This field must have a value.
+
+</td></tr>
+<tr><td width="50%">
+
+lowercase
+
+</td><td width="50%">
+
+This field must be lowercase.
 
 </td></tr>
 <tr><td width="50%">
@@ -7361,7 +7370,7 @@ This field is required when none of :values are present.
 
 ### php
 
-##### Missing: 41
+##### Missing: 42
 
 <table width="100%">
 <tr><th width="50%">
@@ -7506,6 +7515,15 @@ gte.array
 </td><td width="50%">
 
 The :attribute must have :value items or more.
+
+</td></tr>
+<tr><td width="50%">
+
+lowercase
+
+</td><td width="50%">
+
+The :attribute must be lowercase.
 
 </td></tr>
 <tr><td width="50%">

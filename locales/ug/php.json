@@ -53,6 +53,7 @@
     "ipv4": ":Attribute چوقۇم ئىناۋەتلىك IPv4 ئادىرىسى بۇلىشى كېرەك.",
     "ipv6": ":Attribute چوقۇم ئىناۋەتلىك IPv6 ئادىرىسى بۇلىشى كېرەك.",
     "json": ":Attribute چوقۇم ئىناۋەتلىك JSON تىپى بۇلىشى كېرەك.",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": "The :attribute must have less than :value items.",
     "lt.file": "The :attribute must be less than :value kilobytes.",
     "lt.numeric": "The :attribute must be less than :value.",

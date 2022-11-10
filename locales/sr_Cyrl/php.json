@@ -53,6 +53,7 @@
     "ipv4": "Поље :attribute мора да буде важећа ИПв4 адреса.",
     "ipv6": "Поље :attribute мора да буде важећа ИПв6 адреса.",
     "json": "Поље :attribute мора да буде важећа ЈСОН формат.",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": "Поље :attribute мора да садржи мање од :value ставки.",
     "lt.file": "Поље :attribute мора да буде мањи од :value килобајта.",
     "lt.numeric": "Поље :attribute мора да буде мањи од :value.",

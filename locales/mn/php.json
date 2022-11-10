@@ -53,6 +53,7 @@
     "ipv4": ":Attribute нь хүчинтэй ЦТ 4-р хаяг байх естой.",
     "ipv6": ":Attribute нь хүчин төгөлдөр Атв6 хаяг байх естой.",
     "json": ":Attribute талбарт зөв JSON тэмдэгт мөр оруулах шаардлагатай.",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": "The :attribute must have less than :value items.",
     "lt.file": "The :attribute must be less than :value kilobytes.",
     "lt.numeric": "The :attribute must be less than :value.",

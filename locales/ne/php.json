@@ -53,6 +53,7 @@
     "ipv4": ":Attribute एक मान्य IPv4 ठेगाना हुनुपर्दछ.",
     "ipv6": ":Attribute एक मान्य IPv6 ठेगाना हुनुपर्दछ.",
     "json": ":Attribute मा दिइएको मान्य JSON स्ट्रिङ्ग हुनुपर्छ।",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": ":Attribute :value आईटमहरू भन्दा बढि हुनुपर्दछ।",
     "lt.file": ":Attribute :value क्यालोबाइट भन्दा बढि हुनुपर्दछ।",
     "lt.numeric": ":Attribute :value भन्दा बढि हुनुपर्दछ।",

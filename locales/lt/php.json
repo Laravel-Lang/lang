@@ -53,6 +53,7 @@
     "ipv4": "Lauko :attribute reikšmė turi būti galiojantis IPv4 adresas.",
     "ipv6": "Lauko :attribute reikšmė turi būti galiojantis IPv6 adresas.",
     "json": "Lauko :attribute reikšmė turi būti JSON tekstas.",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": "Laukas :attribute turi turėti mažiau negu :value elementus.",
     "lt.file": "Failas lauke :attribute turi būti mažesnis negu :value kilobaitai.",
     "lt.numeric": "Lauko :attribute reikšmė turi būti mažesnė negu :value.",

@@ -51,6 +51,7 @@
     "ipv4": "Això ha de ser vàlid a l'adreça IPv4.",
     "ipv6": "Aquesta ha de ser una adreça IPv6 vàlida.",
     "json": "Això ha de ser vàlid JSON cadena.",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "The content must have less than :value items.",
     "lt.file": "The file size must be less than :value kilobytes.",
     "lt.numeric": "The value must be less than :value.",

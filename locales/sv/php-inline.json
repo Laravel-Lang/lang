@@ -51,6 +51,7 @@
     "ipv4": "Detta måste vara en giltig IPv4-adress.",
     "ipv6": "Detta måste vara en giltig IPv6-adress.",
     "json": "Detta måste vara en giltig JSON-sträng.",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "The content must have less than :value items.",
     "lt.file": "The file size must be less than :value kilobytes.",
     "lt.numeric": "The value must be less than :value.",

@@ -53,6 +53,7 @@
     "ipv4": ":Attribute mesti alamat IPv4 yang sah.",
     "ipv6": ":Attribute mesti alamat IPv6 yang sah",
     "json": ":Attribute mesti JSON yang sah.",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": ":Attribute mesti mengandungi kurang daripada :value perkara.",
     "lt.file": ":Attribute mesti kurang daripada :value kilobait.",
     "lt.numeric": ":Attribute mesti kurang daripada :value.",

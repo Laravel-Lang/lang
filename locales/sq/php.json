@@ -53,6 +53,7 @@
     "ipv4": ":Attribute duhet të jetë një IPv4 adresë.",
     "ipv6": ":Attribute duhet të jetë një IPv6 adresë.",
     "json": ":Attribute duhet të ketë përmbajtje të vlefshme JSON.",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": ":Attribute duhet të ketë më pak se :value elemente.",
     "lt.file": ":Attribute duhet të jetë më i/e vogël se :value kilobajtë.",
     "lt.numeric": ":Attribute duhet të jetë më i/e vogël se :value.",

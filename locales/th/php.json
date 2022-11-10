@@ -53,6 +53,7 @@
     "ipv4": "ข้อมูล :attribute ต้องตรงตามรูปแบบ IPv4 address.",
     "ipv6": "ข้อมูล :attribute ต้องตรงตามรูปแบบ IPv6 address.",
     "json": "ข้อมูล :attribute ต้องเป็นอักขระ JSON ที่สมบูรณ์",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": "ข้อมูล :attribute ต้องมีน้อยกว่า :value ค่า.",
     "lt.file": "ข้อมูล :attribute ต้องมีขนาดน้อยกว่า :value กิโลไบต์.",
     "lt.numeric": "ข้อมูล :attribute ต้องมีค่าน้อยกว่า :value.",

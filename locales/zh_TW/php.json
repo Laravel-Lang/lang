@@ -53,6 +53,7 @@
     "ipv4": ":Attribute 必須是一個有效的 IPv4 位址。",
     "ipv6": ":Attribute 必須是一個有效的 IPv6 位址。",
     "json": ":Attribute 必須是正確的 JSON 字串。",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": ":Attribute 必須少於 :value 個元素。",
     "lt.file": ":Attribute 必須小於 :value KB。",
     "lt.numeric": ":Attribute 必須小於 :value。",

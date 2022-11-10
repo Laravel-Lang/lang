@@ -51,6 +51,7 @@
     "ipv4": "Trường này phải là một địa chỉ IPv4.",
     "ipv6": "Trường này phải là một địa chỉ IPv6.",
     "json": "Trường này phải là một chuỗi JSON.",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "Mảng này phải có ít hơn :value phần tử.",
     "lt.file": "Dung lượng trường này phải nhỏ hơn :value kilobytes.",
     "lt.numeric": "Giá trị trường này phải nhỏ hơn :value.",

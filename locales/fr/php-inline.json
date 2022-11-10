@@ -51,6 +51,7 @@
     "ipv4": "Ce champ doit être une adresse IPv4 valide.",
     "ipv6": "Ce champ doit être une adresse IPv6 valide.",
     "json": "Ce champ doit être un document JSON valide.",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "Le tableau doit contenir moins de :value éléments.",
     "lt.file": "La taille du fichier doit être inférieure à :value kilo-octets.",
     "lt.numeric": "La valeur doit être inférieure à :value.",

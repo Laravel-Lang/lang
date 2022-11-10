@@ -51,6 +51,7 @@
     "ipv4": "Aceasta trebuie să fie o adresă IPv4 validă.",
     "ipv6": "Aceasta trebuie să fie o adresă IPv6 validă.",
     "json": "Acesta trebuie să fie un șir JSON valid.",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "Conținutul trebuie să aibă mai puțin de :value elemente.",
     "lt.file": "Dimensiunea fișierului trebuie să fie mai mică de :value kilobytes.",
     "lt.numeric": "Valoarea trebuie să fie mai mică decât :value.",

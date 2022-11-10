@@ -51,6 +51,7 @@
     "ipv4": "Þetta hlýtur að vera gild IPv4 heimilisfang.",
     "ipv6": "Þetta hlýtur að vera gild IPv6 heimilisfang.",
     "json": "Þetta hlýtur að vera gild JSON band.",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "The content must have less than :value items.",
     "lt.file": "The file size must be less than :value kilobytes.",
     "lt.numeric": "The value must be less than :value.",

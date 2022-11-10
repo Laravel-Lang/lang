@@ -51,6 +51,7 @@
     "ipv4": "Bu geçerli bir IPv4 adresi olmalıdır.",
     "ipv6": "Bu geçerli bir IPv6 adresi olmalıdır.",
     "json": "Bu geçerli bir json dizesi olmalıdır.",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "Bu içerikte en fazla :value öge olabilir.",
     "lt.file": "Bu dosya :value kilobayt'tan büyük olamaz.",
     "lt.numeric": "Bu sayı en fazla :value olmalıdır.",

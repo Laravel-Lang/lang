@@ -51,6 +51,7 @@
     "ipv4": "To mora biti valjana IPv4 adresa.",
     "ipv6": "To mora biti valjana IPv6 adresa.",
     "json": "To bi trebao biti valjani JSON niz.",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "The content must have less than :value items.",
     "lt.file": "The file size must be less than :value kilobytes.",
     "lt.numeric": "The value must be less than :value.",

@@ -51,6 +51,7 @@
     "ipv4": "Nilai mesti alamat IPv4 yang sah.",
     "ipv6": "Nilai mesti alamat IPv6 yang sah.",
     "json": "Nilai mesti rentetan JSON yang sah.",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "Jujukan mesti mengandungi kurang daripada :value perkara.",
     "lt.file": "Saiz fail mesti kurang daripada :value kilobait.",
     "lt.numeric": "Nilai mesti kurang daripada :value.",

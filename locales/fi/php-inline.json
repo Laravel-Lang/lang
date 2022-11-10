@@ -51,6 +51,7 @@
     "ipv4": "Tämän on oltava kelvollinen IPv4-osoite.",
     "ipv6": "Tämän on oltava kelvollinen IPv6-osoite.",
     "json": "Tämän täytyy olla kelvollinen JSON-merkkijono.",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "Sisältö saa sisältää enintään :value kohdetta.",
     "lt.file": "Tiedoston koko saa olla enintään :value kilotavua.",
     "lt.numeric": "Arvo saa olla korkeintaan :value.",

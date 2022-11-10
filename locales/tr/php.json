@@ -53,6 +53,7 @@
     "ipv4": ":Attribute mutlaka geçerli bir IPv4 adresi olmalıdır.",
     "ipv6": ":Attribute mutlaka geçerli bir IPv6 adresi olmalıdır.",
     "json": ":Attribute mutlaka geçerli bir JSON içeriği olmalıdır.",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": ":Attribute mutlaka :value sayısından daha az öge içermelidir.",
     "lt.file": ":Attribute mutlaka :value kilobayt'tan küçük olmalıdır.",
     "lt.numeric": ":Attribute mutlaka :value sayısından küçük olmalıdır.",

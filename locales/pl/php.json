@@ -53,6 +53,7 @@
     "ipv4": "Pole :attribute musi być prawidłowym adresem IPv4.",
     "ipv6": "Pole :attribute musi być prawidłowym adresem IPv6.",
     "json": "Pole :attribute musi być poprawnym ciągiem znaków JSON.",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": "Pole :attribute musi mieć mniej niż :value elementów.",
     "lt.file": "Pole :attribute musi być mniejsze niż :value kilobajtów.",
     "lt.numeric": "Pole :attribute musi być mniejsze niż :value.",

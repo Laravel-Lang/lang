@@ -53,6 +53,7 @@
     "ipv4": "Kentän :attribute arvon tulee olla validi IPv4-osoite.",
     "ipv6": "Kentän :attribute arvon tulee olla validi IPv6-osoite.",
     "json": "Kentän :attribute arvon tulee olla validia JSON:ia.",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": "Kentän :attribute tulee sisältää vähemmän kuin :value arvoa.",
     "lt.file": "Tiedoston :attribute tulee olla pienempi kuin :value kilotavua.",
     "lt.numeric": "Kentän :attribute arvo tulee olla pienempi kuin :value.",

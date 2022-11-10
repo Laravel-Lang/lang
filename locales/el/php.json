@@ -53,6 +53,7 @@
     "ipv4": "Το πεδίο :attribute πρέπει να είναι μία έγκυρη διεύθυνση IPv4.",
     "ipv6": "Το πεδίο :attribute πρέπει να είναι μία έγκυρη διεύθυνση IPv6.",
     "json": "Το πεδίο :attribute πρέπει να είναι μία έγκυρη συμβολοσειρά JSON.",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": "To πεδίο :attribute πρέπει να έχει λιγότερα από :value αντικείμενα.",
     "lt.file": "To πεδίο :attribute πρέπει να είναι μικρότερo από :value kilobytes.",
     "lt.numeric": "To πεδίο :attribute πρέπει να είναι μικρότερo από :value.",

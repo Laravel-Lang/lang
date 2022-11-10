@@ -53,6 +53,7 @@
     "ipv4": "دا باید وي:attribute عنوان IPv4 ریښتیا.",
     "ipv6": "دا باید وي:attribute عنوان IPv6 ریښتیا.",
     "json": "دا باید وي:attribute د اوریدلو ډول JSON.",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": "شمیرې او متره :attribute له کم څخه :value عناصر/عنصر.",
     "lt.file": "د دوتنې اندازه باید وي:attribute لږ :value كيلوبايت.",
     "lt.numeric": "دا باید ارزښت وي :attribute لږ :value.",

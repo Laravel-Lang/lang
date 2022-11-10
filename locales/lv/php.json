@@ -53,6 +53,7 @@
     "ipv4": ":Attribute jābūt derīgai IPv4 adresei.",
     "ipv6": ":Attribute jābūt derīgai IPv6 adresei.",
     "json": ":Attribute jābūt derīgai JSON virknei.",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": ":Attribute jābūt mazāk nekā :value vienībām.",
     "lt.file": ":Attribute nedrīkst pārsniegt :value kilobaitus.",
     "lt.numeric": ":Attribute jābūt mazākam nekā :value.",

@@ -53,6 +53,7 @@
     "ipv4": ":Attribute უნდა იყოს ვალიდური IPv4 მისამართი.",
     "ipv6": ":Attribute უნდა იყოს ვალიდური IPv6 მისამართი.",
     "json": ":Attribute უნდა იყოს სწორი JSON ტიპის.",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": ":Attribute უნდა შეიცავდეს :value ელემენტზე ნაკლებს.",
     "lt.file": ":Attribute უნდა იყოს :value კილობაიტზე ნაკლები.",
     "lt.numeric": ":Attribute უნდა იყოს :value-ზე ნაკლები.",

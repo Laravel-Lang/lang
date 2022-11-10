@@ -53,6 +53,7 @@
     "ipv4": ":Attribute ត្រូវតែជា IPv4 address ត្រឹមត្រូវ។",
     "ipv6": ":Attribute ត្រូវតែជា IPv6 address ត្រឹមត្រូវ។",
     "json": ":Attribute ត្រូវតែជា JSON string ត្រឹមត្រូវ។",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": ":Attribute ត្រូវតែមានចំនួនតិចជាង :value។",
     "lt.file": ":Attribute ត្រូវតែតិចជាង :value គីឡូបៃ។",
     "lt.numeric": ":Attribute ត្រូវតែតិចជាង :value។",

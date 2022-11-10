@@ -51,6 +51,7 @@
     "ipv4": "Ito ay dapat na isang wastong address ng Ipb4.",
     "ipv6": "Ito ay dapat na isang wastong Ipbagong address.",
     "json": "Ito ay dapat na isang wastong HSON string.",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "The content must have less than :value items.",
     "lt.file": "The file size must be less than :value kilobytes.",
     "lt.numeric": "The value must be less than :value.",

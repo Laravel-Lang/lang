@@ -53,6 +53,7 @@
     "ipv4": "Le champ :attribute doit être une adresse IPv4 valide.",
     "ipv6": "Le champ :attribute doit être une adresse IPv6 valide.",
     "json": "Le champ :attribute doit être un document JSON valide.",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": "Le tableau :attribute doit contenir moins de :value éléments.",
     "lt.file": "La taille du fichier de :attribute doit être inférieure à :value kilo-octets.",
     "lt.numeric": "La valeur de :attribute doit être inférieure à :value.",

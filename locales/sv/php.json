@@ -53,6 +53,7 @@
     "ipv4": ":Attribute måste vara en giltig IPv4-adress.",
     "ipv6": ":Attribute måste vara en giltig IPv6-adress.",
     "json": ":Attribute måste vara en giltig JSON-sträng.",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": ":Attribute måste innehålla färre än :value objekt.",
     "lt.file": ":Attribute måste vara mindre än :value kilobyte stor.",
     "lt.numeric": ":Attribute måste vara mindre än :value.",

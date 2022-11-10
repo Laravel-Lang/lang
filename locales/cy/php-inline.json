@@ -51,6 +51,7 @@
     "ipv4": "Rhaid i hwn fod yn ddilys ar IPv4 cyfeiriad.",
     "ipv6": "Rhaid i hwn fod yn ddilys cyfeiriad IPv6.",
     "json": "Rhaid i hwn fod yn ddilys JSON llinyn.",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "The content must have less than :value items.",
     "lt.file": "The file size must be less than :value kilobytes.",
     "lt.numeric": "The value must be less than :value.",

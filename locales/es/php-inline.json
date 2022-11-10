@@ -51,6 +51,7 @@
     "ipv4": "Debe ser una dirección IPv4 válida.",
     "ipv6": "Debe ser una dirección IPv6 válida.",
     "json": "Debe ser un texto válido en JSON.",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "El contenido debe tener menor de :value elementos.",
     "lt.file": "El tamaño del archivo debe ser menor a :value kilobytes.",
     "lt.numeric": "El valor debe ser menor que :value.",

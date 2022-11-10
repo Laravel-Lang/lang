@@ -51,6 +51,7 @@
     "ipv4": "ಈ ಮಾಡಬೇಕು ಒಂದು ಮಾನ್ಯವಾದ IPv4 ವಿಳಾಸ.",
     "ipv6": "ಈ must be a valid IPv6 ವಿಳಾಸವನ್ನು ಹೊಂದಿದೆ.",
     "json": "ಈ must be a valid JSON ಸ್ಟ್ರಿಂಗ್.",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "The content must have less than :value items.",
     "lt.file": "The file size must be less than :value kilobytes.",
     "lt.numeric": "The value must be less than :value.",

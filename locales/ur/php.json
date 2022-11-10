@@ -53,6 +53,7 @@
     "ipv4": "اس :attribute ہونا ضروری ہے ایک درست IPv4 ایڈریس.",
     "ipv6": "اس :attribute ہونا ضروری ہے ایک درست IPv6 ایڈریس.",
     "json": ":Attribute لازماً قابلِ قبول JSON سٹرِنگ ہو۔",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": "The :attribute must have less than :value items.",
     "lt.file": "The :attribute must be less than :value kilobytes.",
     "lt.numeric": "The :attribute must be less than :value.",

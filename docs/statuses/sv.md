@@ -4,7 +4,7 @@ editLink: false
 
 # sv
 
-##### All missed: 310
+##### All missed: 299
 
 
 ### json-inline
@@ -2750,125 +2750,6 @@ required_if_accepted
 </td><td width="50%">
 
 This field is required when :other is accepted.
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php
-
-##### Missing: 11
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-doesnt_end_with
-
-</td><td width="50%">
-
-The :attribute may not end with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-doesnt_start_with
-
-</td><td width="50%">
-
-The :attribute may not start with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-lowercase
-
-</td><td width="50%">
-
-The :attribute must be lowercase.
-
-</td></tr>
-<tr><td width="50%">
-
-max_digits
-
-</td><td width="50%">
-
-The :attribute must not have more than :max digits.
-
-</td></tr>
-<tr><td width="50%">
-
-min_digits
-
-</td><td width="50%">
-
-The :attribute must have at least :min digits.
-
-</td></tr>
-<tr><td width="50%">
-
-password.letters
-
-</td><td width="50%">
-
-The :attribute must contain at least one letter.
-
-</td></tr>
-<tr><td width="50%">
-
-password.mixed
-
-</td><td width="50%">
-
-The :attribute must contain at least one uppercase and one lowercase letter.
-
-</td></tr>
-<tr><td width="50%">
-
-password.numbers
-
-</td><td width="50%">
-
-The :attribute must contain at least one number.
-
-</td></tr>
-<tr><td width="50%">
-
-password.symbols
-
-</td><td width="50%">
-
-The :attribute must contain at least one symbol.
-
-</td></tr>
-<tr><td width="50%">
-
-password.uncompromised
-
-</td><td width="50%">
-
-The given :attribute has appeared in a data leak. Please choose a different :attribute.
-
-</td></tr>
-<tr><td width="50%">
-
-required_if_accepted
-
-</td><td width="50%">
-
-The :attribute field is required when :other is accepted.
 
 </td></tr>
 </table>

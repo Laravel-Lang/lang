@@ -53,7 +53,7 @@
     "ipv4": "Значение поля :attribute должно быть действительным IPv4-адресом.",
     "ipv6": "Значение поля :attribute должно быть действительным IPv6-адресом.",
     "json": "Значение поля :attribute должно быть JSON строкой.",
-    "lowercase": "The :attribute must be lowercase.",
+    "lowercase": "Значение поля :attribute должно быть строкой в нижнем регистре.",
     "lt.array": "Количество элементов в поле :attribute должно быть меньше :value.",
     "lt.file": "Размер файла в поле :attribute должен быть меньше :value Килобайт(а).",
     "lt.numeric": "Значение поля :attribute должно быть меньше :value.",

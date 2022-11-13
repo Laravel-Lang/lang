@@ -51,7 +51,7 @@
     "ipv4": "有効なIPv4アドレスである必要があります。",
     "ipv6": "有効なIPv6アドレスである必要があります。",
     "json": "有効なJSON文字列である必要があります。",
-    "lowercase": "This field must be lowercase.",
+    "lowercase": "小文字で入力してください。",
     "lt.array": ":Value 個より少なくなければいけません。",
     "lt.file": "ファイルサイズが :value KBより小さくなければいけません。",
     "lt.numeric": ":Value より小さくなければいけません。",

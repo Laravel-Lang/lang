@@ -4,12 +4,12 @@ editLink: false
 
 # sw
 
-##### All missed: 4
+##### All missed: 2
 
 
 ### php-inline
 
-##### Missing: 2
+##### Missing: 1
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,15 +21,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-lowercase
-
-</td><td width="50%">
-
-This field must be lowercase.
-
-</td></tr>
 <tr><td width="50%">
 
 uppercase
@@ -47,7 +38,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 2
+##### Missing: 1
 
 <table width="100%">
 <tr><th width="50%">
@@ -59,15 +50,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-lowercase
-
-</td><td width="50%">
-
-The :attribute must be lowercase.
-
-</td></tr>
 <tr><td width="50%">
 
 uppercase

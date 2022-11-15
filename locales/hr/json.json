@@ -630,7 +630,7 @@
     "The :attribute must contain at least one letter.": ":Attribute mora sadržavati najmanje jedno slovo.",
     "The :attribute must contain at least one number.": ":Attribute mora sadržavati barem jedan broj.",
     "The :attribute must contain at least one symbol.": ":Attribute mora sadržavati najmanje jedan simbol.",
-    "The :attribute must contain at least one uppercase and one lowercase letter.": ":attribute mora sadržavati najmanje jedno veliko i jedno malo slovo.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": ":Attribute mora sadržavati najmanje jedno veliko i jedno malo slovo.",
     "The :resource was created!": ":Resource je stvoren!",
     "The :resource was deleted!": ":Resource je izbrisan!",
     "The :resource was restored!": ":Resource je obnovljen!",

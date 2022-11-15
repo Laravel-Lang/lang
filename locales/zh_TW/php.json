@@ -118,6 +118,7 @@
     "token": "密碼重設碼無效。",
     "unique": ":Attribute 已經存在。",
     "uploaded": ":Attribute 上傳失敗。",
+    "uppercase": "The :attribute must be uppercase.",
     "url": ":Attribute 的格式錯誤。",
     "user": "找不到該 E-mail 對應的使用者。",
     "uuid": ":Attribute 必須是有效的 UUID。"

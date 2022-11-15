@@ -118,6 +118,7 @@
     "token": "Aqueste geton de reïnicializacion es invalid.",
     "unique": "La valor del camp :attribute es ja presa.",
     "uploaded": "Lo fichièr de :attribute a pas pogut s’enviar.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": "Lo format de :attribute es invalid.",
     "user": "Trobam pas cap d’utilizaire amb aquesta adreça de corrièl.",
     "uuid": "Lo camp :attribute deu èsser un UUID valid"

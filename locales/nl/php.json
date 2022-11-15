@@ -118,6 +118,7 @@
     "token": "Dit wachtwoordhersteltoken is niet geldig.",
     "unique": ":Attribute is al in gebruik.",
     "uploaded": "Het uploaden van :attribute is mislukt.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": ":Attribute moet een geldige URL zijn.",
     "user": "Geen gebruiker bekend met het e-mailadres.",
     "uuid": ":Attribute moet een geldige UUID zijn."

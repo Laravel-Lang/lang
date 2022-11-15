@@ -108,6 +108,7 @@
     "timezone": "Rhaid i hwn fod yn ddilys parth.",
     "unique": "Mae hyn eisoes wedi eu cymryd.",
     "uploaded": "Mae hyn yn methu â llwytho i fyny.",
+    "uppercase": "This field must be uppercase.",
     "url": "Mae'r fformat hwn yn annilys.",
     "uuid": "Rhaid i hwn fod yn ddilys UUID."
 }

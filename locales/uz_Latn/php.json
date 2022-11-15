@@ -118,6 +118,7 @@
     "token": "Ushbu parolni qayta tiklash kodi noto‘g‘ri.",
     "unique": ":Attribute maydonining bunday qiymati mavjud. Iltimos boshqa qiymat kiriting.",
     "uploaded": ":Attribute ni yuklash muvaffaqiyatli amalga oshmadi.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": ":Attribute noto‘g‘ri formatga ega.",
     "user": "Ushbu elektron pochta manziliga ega foydalanuvchi topilmadi.",
     "uuid": ":Attribute to‘g‘ri UUID qiymatga ega bo‘lishi kerak."

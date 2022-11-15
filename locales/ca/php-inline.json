@@ -108,6 +108,7 @@
     "timezone": "Aquesta ha de ser una zona vàlida.",
     "unique": "Aquest ja ha estat presa.",
     "uploaded": "Aquest no pujar.",
+    "uppercase": "This field must be uppercase.",
     "url": "Aquest format no és vàlida.",
     "uuid": "Això ha de ser vàlid a l'UUID."
 }

@@ -108,6 +108,7 @@
     "timezone": "Pole musi być prawidłową strefą czasową.",
     "unique": "Taka wartość już występuje.",
     "uploaded": "Nie udało się wgrać pliku.",
+    "uppercase": "This field must be uppercase.",
     "url": "Format pola jest nieprawidłowy.",
     "uuid": "Pole musi być poprawnym identyfikatorem UUID."
 }

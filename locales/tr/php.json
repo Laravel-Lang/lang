@@ -118,6 +118,7 @@
     "token": "Parola sıfırlama kodu geçersiz.",
     "unique": ":Attribute zaten alınmış.",
     "uploaded": ":Attribute yüklemesi başarısız.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": ":Attribute biçimi geçersiz.",
     "user": "Bu e-posta adresi ile kayıtlı bir üye bulunamadı.",
     "uuid": ":Attribute mutlaka geçerli bir UUID olmalıdır."

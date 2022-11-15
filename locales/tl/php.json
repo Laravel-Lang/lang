@@ -118,6 +118,7 @@
     "token": "Ang token sa pag-reset ng password na ito ay imbalido.",
     "unique": "Ang :attribute ay nakuha na.",
     "uploaded": "Nabigo ang :attribute upang i-upload.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": "Ang :attribute ng attribute ay imbalido.",
     "user": "Hindi namin mahanap ang user na may ganyang email address.",
     "uuid": ":Attribute ay dapat na isang wastong UUID."

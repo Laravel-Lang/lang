@@ -108,6 +108,7 @@
     "timezone": "ಈ must be a valid ವಲಯ.",
     "unique": "ಈ ತೆಗೆದುಕೊಂಡಾಗಿದೆ.",
     "uploaded": "ಈ failed to upload.",
+    "uppercase": "This field must be uppercase.",
     "url": "ಈ ರೂಪದಲ್ಲಿ ಅಮಾನ್ಯವಾಗಿದೆ.",
     "uuid": "ಈ must be a valid UUID."
 }

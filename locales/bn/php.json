@@ -118,6 +118,7 @@
     "token": "এই পাসওয়ার্ড রিসেট টোকেনটি সঠিক নয়।",
     "unique": ":Attribute ইতিমধ্যেই নেওয়া হয়েছে।",
     "uploaded": ":Attribute আপলোড করতে ব্যর্থ হয়েছে।",
+    "uppercase": "The :attribute must be uppercase.",
     "url": "এই :attribute একটি বৈধ URL হতে হবে।",
     "user": "এই ই-মেইল দিয়ে কোন ব্যবহারকারী খুঁজে পাওয়া যাচ্ছে না",
     "uuid": "এই :attribute একটি বৈধ UUID হতে হবে।"

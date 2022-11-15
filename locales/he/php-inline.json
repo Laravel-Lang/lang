@@ -108,6 +108,7 @@
     "timezone": "זה חייב להיות אזור חוקי.",
     "unique": "זה כבר צולם.",
     "uploaded": "אין אפשרות להעלות את הקובץ.",
+    "uppercase": "This field must be uppercase.",
     "url": "תבנית זו אינה תקפה.",
     "uuid": "זה חייב להיות UUID תקף."
 }

@@ -108,6 +108,7 @@
     "timezone": "Має бути дійсною зоною.",
     "unique": "Вже було взято.",
     "uploaded": "Не вдалося завантажити.",
+    "uppercase": "This field must be uppercase.",
     "url": "Цей формат недійсний.",
     "uuid": "Має бути дійсним UUID."
 }

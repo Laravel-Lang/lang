@@ -108,6 +108,7 @@
     "timezone": "Bu amal zonasi bo'lishi kerak.",
     "unique": "Bu allaqachon olingan.",
     "uploaded": "Bu upload olmadi.",
+    "uppercase": "This field must be uppercase.",
     "url": "Bu format asossiz hisoblanadi.",
     "uuid": "Bu amal UUID bo'lishi kerak."
 }

@@ -118,6 +118,7 @@
     "token": "Klíč pro obnovu hesla je nesprávný.",
     "unique": ":Attribute musí být unikátní.",
     "uploaded": "Nahrávání :attribute se nezdařilo.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": "Formát :attribute je neplatný.",
     "user": "Nepodařilo se najít uživatele s touto e-mailovou adresou.",
     "uuid": ":Attribute musí být validní UUID."

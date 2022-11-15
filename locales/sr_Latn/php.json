@@ -118,6 +118,7 @@
     "token": "Ukucana oznaka za resetovanje lozinke nije važeća.",
     "unique": "Polje :attribute već postoji.",
     "uploaded": ":Attribute nije otpremljen.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": "Format polja :attribute ne važi.",
     "user": "Nismo uspeli pronaći korisnika sa email adresom.",
     "uuid": ":Attribute mora da bude važeći UUID."

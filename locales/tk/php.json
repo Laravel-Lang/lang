@@ -118,6 +118,7 @@
     "token": "Açarsöz tazeleme söz birligi ýalňyş.",
     "unique": ":Attribute önden hasaba alyndy.",
     "uploaded": "The :attribute failed to upload.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": ":Attribute formaty ýalňyş.",
     "user": "Bu e-mail adrese degişli ulanyjy tapylmady.",
     "uuid": "The :attribute must be a valid UUID."

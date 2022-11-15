@@ -118,6 +118,7 @@
     "token": "Custu token pro torrare a impostare sa password no est bàlidu.",
     "unique": ":Attribute est istadu giai impreadu.",
     "uploaded": "The :attribute failed to upload.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": ":Attribute depet èssere un'URL.",
     "user": "Non s'agatat un'impitadore assotziadu a custu indiritzu email.",
     "uuid": "The :attribute must be a valid UUID."

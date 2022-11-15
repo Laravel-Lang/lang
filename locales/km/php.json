@@ -118,6 +118,7 @@
     "token": "ពាក្យសម្ងាត់ដែលកំណត់ឡើងវិញគឺមិនត្រឹមត្រូវទេ។",
     "unique": ":Attribute ត្រូវបានប្រើរួចហើយ។",
     "uploaded": ":Attribute បរាជ័យក្នុងការបញ្ចូល។",
+    "uppercase": "The :attribute must be uppercase.",
     "url": ":Attribute ទម្រង់ត្រឹមត្រូវ។",
     "user": "យើងមិនអាចរកឃើញអ្នកប្រើដែលមានអាសយដ្ឋានអ៊ីមែលមួយនេះទេ។",
     "uuid": ":Attribute ត្រូវតែជាទម្រង់ UUID។"

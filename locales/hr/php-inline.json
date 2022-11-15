@@ -108,6 +108,7 @@
     "timezone": "Ovo polje mora sadržavati valjanu vremensku zonu.",
     "unique": "Ova vrijednost je već zauzeta.",
     "uploaded": "Ova datoteka nije uspješno učitana.",
+    "uppercase": "This field must be uppercase.",
     "url": "Ovo polje mora sadržavati valjani URL.",
     "uuid": "Ovo polje mora sadržavati valjani UUID."
 }

@@ -108,6 +108,7 @@
     "timezone": "Tam jābūt derīgai zonai.",
     "unique": "Tas jau ir pieņemts.",
     "uploaded": "Tas neizdevās augšupielādēt.",
+    "uppercase": "This field must be uppercase.",
     "url": "Šis formāts ir nederīgs.",
     "uuid": "Tam jābūt derīgam UUID."
 }

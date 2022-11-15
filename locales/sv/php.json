@@ -118,6 +118,7 @@
     "token": "Koden för lösenordsåterställning är ogiltig.",
     "unique": ":Attribute används redan.",
     "uploaded": ":Attribute kunde inte laddas upp.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": ":Attribute har ett ogiltigt format.",
     "user": "Det finns ingen användare med den e-postadressen.",
     "uuid": ":Attribute måste vara ett giltigt UUID."

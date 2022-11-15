@@ -118,6 +118,7 @@
     "token": "Ky tallon për ndryshimin e fjalëkalimit është i pasaktë.",
     "unique": ":Attribute është marrë tashmë.",
     "uploaded": ":Attribute dështoi të ngarkohej.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": "Formati i :attribute është i pasaktë.",
     "user": "Nuk mund të gjejmë një përdorues me atë adresë email-i.",
     "uuid": ":Attribute duhet të jetë UUID i/e saktë."

@@ -108,6 +108,7 @@
     "timezone": "This must be a valid timezone.",
     "unique": "This has already been taken.",
     "uploaded": "This failed to upload.",
+    "uppercase": "This field must be uppercase.",
     "url": "This must be a valid URL.",
     "uuid": "This must be a valid UUID."
 }

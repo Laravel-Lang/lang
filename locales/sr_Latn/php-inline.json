@@ -108,6 +108,7 @@
     "timezone": "Mora biti validna vremenska zona.",
     "unique": "Uneta vrednost već postoji.",
     "uploaded": "Greška pri otpremanju.",
+    "uppercase": "This field must be uppercase.",
     "url": "Format urla nije validan.",
     "uuid": "Ovo mora biti važeći UUID."
 }

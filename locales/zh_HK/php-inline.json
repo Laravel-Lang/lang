@@ -108,6 +108,7 @@
     "timezone": "必須是一個正確的時區值。",
     "unique": "已經存在。",
     "uploaded": "上傳失敗。",
+    "uppercase": "This field must be uppercase.",
     "url": "的格式錯誤。",
     "uuid": "必須是有效的 UUID。"
 }

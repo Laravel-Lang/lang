@@ -118,6 +118,7 @@
     "token": "This password reset token is invalid.",
     "unique": "The :attribute has already been taken.",
     "uploaded": "The :attribute failed to upload.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": "The :attribute must be a valid URL.",
     "user": "We can't find a user with that email address.",
     "uuid": "The :attribute must be a valid UUID."

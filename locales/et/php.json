@@ -118,6 +118,7 @@
     "token": "See parooli lähtestamise tunnus on vigane.",
     "unique": ":Attribute on juba hõivatud.",
     "uploaded": ":Attribute ei õnnestunud laadida.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": ":Attribute vorming on vigane.",
     "user": "Sellise e-postiaadressiga kasutajat ei leitud.",
     "uuid": ":Attribute peab olema õige UUID"

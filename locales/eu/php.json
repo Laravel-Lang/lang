@@ -118,6 +118,7 @@
     "token": "Pasahitza berreskuratzeko tokena baliogabea da.",
     "unique": ":Attribute jadanik erregistratua izan da.",
     "uploaded": ":Attribute kargatzerakoan huts egin du.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": ":Attribute-(r)en formatua baliogabea da.",
     "user": "Ezin izan dugu helbide elektroniko horrekin bat datorren erabiltzailerik aurkitu.",
     "uuid": ":Attribute-(e)k baliozko UUIDa izan behar du."

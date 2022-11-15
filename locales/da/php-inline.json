@@ -108,6 +108,7 @@
     "timezone": "Dette skal være en gyldig zoneone.",
     "unique": "Dette er allerede taget.",
     "uploaded": "Dette kunne ikke uploades.",
+    "uppercase": "This field must be uppercase.",
     "url": "Dette format er ugyldigt.",
     "uuid": "Dette skal være en gyldig UUID."
 }

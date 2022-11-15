@@ -108,6 +108,7 @@
     "timezone": "Detta måste vara en giltig zon.",
     "unique": "Detta har redan använts.",
     "uploaded": "Det gick inte att ladda upp.",
+    "uppercase": "This field must be uppercase.",
     "url": "Detta format är ogiltigt.",
     "uuid": "Detta måste vara en giltig UUID."
 }

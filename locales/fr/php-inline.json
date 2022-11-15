@@ -108,6 +108,7 @@
     "timezone": "Ce champ doit être un fuseau horaire valide.",
     "unique": "La valeur est déjà utilisée.",
     "uploaded": "Le fichier n'a pu être téléversé.",
+    "uppercase": "This field must be uppercase.",
     "url": "Le format de l'URL n'est pas valide.",
     "uuid": "Ce champ doit être un UUID valide"
 }

@@ -118,6 +118,7 @@
     "token": "پاس ورڈ مرتب کرنے کا یہ طریقہ نا قابلِ قبول ہے۔",
     "unique": ":Attribute کو پہلے ہی کسی نے حاصل کر لیا ہے۔",
     "uploaded": "اس :attribute ناکام اپ لوڈ کرنے کے لئے.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": ":Attribute فارمیٹ قابلِ قبول نہیں ہے۔",
     "user": "اس ای میل پتے کے ساتھ ہمیں کوئی صارف نہیں ملا۔",
     "uuid": "اس :attribute ہونا ضروری ہے ایک درست UUID."

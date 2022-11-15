@@ -108,6 +108,7 @@
     "timezone": "Må være en gyldig tidssone.",
     "unique": "Er allerede i bruk.",
     "uploaded": "Kunne ikke lastes opp.",
+    "uppercase": "This field must be uppercase.",
     "url": "Formatet på er ugyldig.",
     "uuid": "Må være en gyldig UUID."
 }

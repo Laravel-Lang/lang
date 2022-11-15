@@ -108,6 +108,7 @@
     "timezone": "Tämän täytyy olla kelvollinen aikavyöhyke.",
     "unique": "Tämä on jo käytössä.",
     "uploaded": "Tämän lataus epäonnistui.",
+    "uppercase": "This field must be uppercase.",
     "url": "Tämä muoto on virheellinen.",
     "uuid": "Tämän on oltava voimassa oleva UUID."
 }

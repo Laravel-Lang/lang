@@ -108,6 +108,7 @@
     "timezone": "Dit moet 'n geldige sone wees.",
     "unique": "Dit is reeds geneem.",
     "uploaded": "Kon nie oplaai nie.",
+    "uppercase": "This field must be uppercase.",
     "url": "Die formaat is ongeldig.",
     "uuid": "Dit moet geldige UUID wees."
 }

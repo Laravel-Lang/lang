@@ -118,6 +118,7 @@
     "token": "यह पासवर्ड रीसेट टोकन अमान्य है ।",
     "unique": ":Attribute को पहले ही ले लिया गया है ।",
     "uploaded": ":Attribute अपलोड करने में विफल ।",
+    "uppercase": "The :attribute must be uppercase.",
     "url": ":Attribute फॉर्मेट अमान्य है ।",
     "user": "हमें उस ई-मेल पते के साथ एक उपयोगकर्ता नहीं मिल सकता है ।",
     "uuid": ":Attribute एक वैध UUID होना चाहिए ।"

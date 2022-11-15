@@ -118,6 +118,7 @@
     "token": "Գաղտնաբառի վերականգնման կոդը սխալ է։",
     "unique": ":Attribute-ի տվյալ արժեքն արդեն գոյություն ունի։",
     "uploaded": ":Attribute-ի վերբեռնումը ձախողվել է։",
+    "uppercase": "The :attribute must be uppercase.",
     "url": ":Attribute դաշտի ձևաչափը սխալ է։",
     "user": "Տվյալ Էլ․ հասցեով օգտատեր չի գտնվել։",
     "uuid": ":Attribute դաշտը պետք է լինի վավեր UUID։"

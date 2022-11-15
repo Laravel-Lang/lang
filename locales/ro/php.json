@@ -118,7 +118,7 @@
     "token": "Codul de resetare a parolei este greșit.",
     "unique": "Câmpul :attribute a fost deja folosit.",
     "uploaded": "Câmpul :attribute nu a reușit încărcarea.",
-    "uppercase": ":attribute trebuie să fie majuscule.",
+    "uppercase": ":Attribute trebuie să fie majuscule.",
     "url": "Câmpul :attribute nu este un URL valid.",
     "user": "Nu există niciun utilizator cu această adresă de e-mail.",
     "uuid": "Câmpul :attribute trebuie să fie un cod UUID valid."

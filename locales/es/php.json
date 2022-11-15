@@ -118,7 +118,7 @@
     "token": "El token de restablecimiento de contraseña es inválido.",
     "unique": "El campo :attribute ya ha sido registrado.",
     "uploaded": "Subir :attribute ha fallado.",
-    "uppercase": "The :attribute must be uppercase.",
+    "uppercase": "El campo :attribute debe estar en mayúscula.",
     "url": ":Attribute debe ser una URL válida.",
     "user": "No encontramos ningún usuario con ese correo electrónico.",
     "uuid": "El campo :attribute debe ser un UUID válido."

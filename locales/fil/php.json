@@ -118,6 +118,7 @@
     "token": "This password reset token is invalid.",
     "unique": "Ginagamit na ang :attribute.",
     "uploaded": "Hindi na-upload ang :attribute.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": "Hindi valid ang format na :attribute.",
     "user": "We can't find a user with that email address.",
     "uuid": "Dapat na valid na UUID ang :attribute."

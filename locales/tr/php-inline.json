@@ -108,6 +108,7 @@
     "timezone": "Bu geçerli bir bölge olmalıdır.",
     "unique": "Bu zaten mevcut.",
     "uploaded": "Bu yüklenemedi.",
+    "uppercase": "This field must be uppercase.",
     "url": "Bu biçim geçersiz.",
     "uuid": "Bu geçerli bir UUID olmalıdır."
 }

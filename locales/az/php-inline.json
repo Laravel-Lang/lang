@@ -108,6 +108,7 @@
     "timezone": "Bu, imkan verilən zona olmalıdır.",
     "unique": "Bu, artıq görülüb.",
     "uploaded": "Bu yük bilmədi.",
+    "uppercase": "This field must be uppercase.",
     "url": "Bu format yolverilməzdir.",
     "uuid": "Bu etibarlı UUID olmalıdır."
 }

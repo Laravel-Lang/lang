@@ -118,6 +118,7 @@
     "token": "ಈ ಪಾಸ್ವರ್ಡ್ ಮರುಹೊಂದಿಸುವ ಟೋಕನ್ ಅಮಾನ್ಯವಾಗಿದೆ.",
     "unique": "ಈ  :attribute ಈಗಾಗಲೇ ತೆಗೆದುಕೊಂಡಾಗಿದೆ .",
     "uploaded": "ಈ  :attribute ಅಪ್ಲೋಡ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": "ಈ  :attribute ಸ್ವರೂಪವು ಅಮಾನ್ಯವಾಗಿದೆ.",
     "user": "ಆ ಇ-ಮೇಲ್ ವಿಳಾಸದೊಂದಿಗೆ ನಾವು ಒಬ್ಬ ಬಳಕೆದಾರನನ್ನು ಹುಡುಕಲಾಗಲಿಲ್ಲ.",
     "uuid": "ಈ  :attribute ಮಾನ್ಯವಾದ UUID ಆಗಿರಬೇಕು."

@@ -108,6 +108,7 @@
     "timezone": "Þetta hlýtur að vera gild svæði.",
     "unique": "Þetta hefur nú þegar verið tekin.",
     "uploaded": "Þetta tókst ekki að hlaða.",
+    "uppercase": "This field must be uppercase.",
     "url": "Þessu sniði er ógilt.",
     "uuid": "Þetta hlýtur að vera gild UUID."
 }

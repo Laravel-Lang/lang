@@ -118,6 +118,7 @@
     "token": "Ez az új jelszó generálásához tartozó token érvénytelen.",
     "unique": "A(z) :attribute már foglalt.",
     "uploaded": "A(z) :attribute feltöltése sikertelen.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": "A(z) :attribute érvénytelen link.",
     "user": "Nem található felhasználó a megadott email címmel.",
     "uuid": ":Attribute érvényes UUID-val kell rendelkezzen."

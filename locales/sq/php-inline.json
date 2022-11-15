@@ -108,6 +108,7 @@
     "timezone": "Kjo duhet të jetë zonë kohore e saktë.",
     "unique": "Kjo është marrë tashmë.",
     "uploaded": "Kjo dështoi të ngarkohej.",
+    "uppercase": "This field must be uppercase.",
     "url": "Ky format është i pasaktë.",
     "uuid": "Kjo duhet të jetë UUID i/e saktë."
 }

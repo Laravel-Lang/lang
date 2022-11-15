@@ -108,6 +108,7 @@
     "timezone": "有効なタイムゾーンである必要があります。",
     "unique": "既に使用されています。",
     "uploaded": "アップロードに失敗しました。",
+    "uppercase": "This field must be uppercase.",
     "url": "有効なURL形式を指定する必要があります。",
     "uuid": "有効なUUIDである必要があります。"
 }

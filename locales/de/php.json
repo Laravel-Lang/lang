@@ -118,6 +118,7 @@
     "token": "Der Passwort-Wiederherstellungs-Schlüssel ist ungültig oder abgelaufen.",
     "unique": ":Attribute ist bereits vergeben.",
     "uploaded": ":Attribute konnte nicht hochgeladen werden.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": ":Attribute muss eine URL sein.",
     "user": "Es konnte leider kein Nutzer mit dieser E-Mail-Adresse gefunden werden.",
     "uuid": ":Attribute muss ein UUID sein."

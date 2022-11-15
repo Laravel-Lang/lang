@@ -118,6 +118,7 @@
     "token": "Mã khôi phục mật khẩu không hợp lệ.",
     "unique": "Trường :attribute đã có trong cơ sở dữ liệu.",
     "uploaded": "Trường :attribute tải lên thất bại.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": "Trường :attribute không giống với định dạng một URL.",
     "user": "Không tìm thấy người dùng với địa chỉ email này.",
     "uuid": "Trường :attribute phải là một chuỗi UUID hợp lệ."

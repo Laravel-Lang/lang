@@ -118,6 +118,7 @@
     "token": "د دې کارن د بیاکتنې نښه ناباوره ده.",
     "unique": "ارزښتونه :attribute کارول شوی.",
     "uploaded": "د پورته کولو توان نلري :attribute.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": "د لینک بڼه :attribute غلط.",
     "user": "د کاروونکي د برېښناليک پتې سره کارن ونه موندل شو.",
     "uuid": ":Attribute دا باید غیر رسمي وي UUID غږ."

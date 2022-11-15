@@ -118,6 +118,7 @@
     "token": "Осы құпиясөзді қайта орнату таңбалауышы жарамсыз.",
     "unique": ":Attribute бұрын алынған.",
     "uploaded": ":Attribute жүктелуі сәтсіз аяқталды.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": ":Attribute пішімі жарамсыз.",
     "user": "Бұл электрондық поштамен ешбір пайдаланушыны таба алмадық.",
     "uuid": ":Attribute мәні жарамды UUID болуы керек."

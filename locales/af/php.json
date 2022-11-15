@@ -118,6 +118,7 @@
     "token": "Hierdie wagwoordregstelling-token is ongeldig.",
     "unique": "Die :attribute is reeds geneem.",
     "uploaded": "Die :attribute kon nie oplaai.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": "Die :attribute formaat is ongeldig.",
     "user": "Ons kan nie 'n gebruiker met daardie e-posadres vind nie.",
     "uuid": "Die :attribute moet 'n geldige UUID wees."

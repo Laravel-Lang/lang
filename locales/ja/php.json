@@ -118,6 +118,7 @@
     "token": "このパスワード再設定トークンは無効です。",
     "unique": "指定の:attributeは既に使用されています。",
     "uploaded": ":Attributeのアップロードに失敗しました。",
+    "uppercase": "The :attribute must be uppercase.",
     "url": ":Attributeは、有効なURL形式で指定してください。",
     "user": "このメールアドレスに一致するユーザーがいません。",
     "uuid": ":Attributeは、有効なUUIDでなければいけません。"

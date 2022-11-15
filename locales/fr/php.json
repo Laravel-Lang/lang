@@ -118,6 +118,7 @@
     "token": "Ce jeton de réinitialisation du mot de passe n'est pas valide.",
     "unique": "La valeur du champ :attribute est déjà utilisée.",
     "uploaded": "Le fichier du champ :attribute n'a pu être téléversé.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": "Le format de l'URL de :attribute n'est pas valide.",
     "user": "Aucun utilisateur n'a été trouvé avec cette adresse email.",
     "uuid": "Le champ :attribute doit être un UUID valide"

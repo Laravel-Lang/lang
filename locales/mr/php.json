@@ -118,6 +118,7 @@
     "token": "आपला संकेतशब्द पुनर्रचीत करायचे टोकन अवैध नाही.",
     "unique": ":Attribute आधी वापरले गेले आहे.",
     "uploaded": ":Attribute अपलोड करण्यात अयशस्वी.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": ":Attribute फॉर्मेट अमान्य आहे.",
     "user": "या ई-मेल वर कोणतेही खाते उपलब्ध नाही.",
     "uuid": ":Attribute एक वैध UUID असावी."

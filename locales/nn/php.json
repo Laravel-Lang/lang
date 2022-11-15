@@ -118,6 +118,7 @@
     "token": "Koden for å nullstille passord er ikkje gyldig.",
     "unique": ":Attribute er allereie i bruk.",
     "uploaded": ":Attribute kunne ikkje lastast opp.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": "Formatet på :attribute er ugyldig.",
     "user": "Vi finn ingen brukarar med denne e-postadressen.",
     "uuid": ":Attribute må vere ein gyldig UUID."

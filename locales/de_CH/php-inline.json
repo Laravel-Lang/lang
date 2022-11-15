@@ -108,6 +108,7 @@
     "timezone": "Das muss eine gültige Zeitzone sein.",
     "unique": "Das ist schon vergeben.",
     "uploaded": "Das konnte nicht hochgeladen werden.",
+    "uppercase": "This field must be uppercase.",
     "url": "Das muss eine URL sein.",
     "uuid": "Das muss eine UUID sein."
 }

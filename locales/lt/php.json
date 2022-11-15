@@ -118,6 +118,7 @@
     "token": "Šis slaptažodžio raktas yra neteisingas.",
     "unique": "Tokia :attribute reikšmė jau pasirinkta.",
     "uploaded": "Nepavyko įkelti :attribute lauko.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": "Negaliojantis lauko :attribute formatas.",
     "user": "Vartotojas su tokiu el. paštu nerastas.",
     "uuid": "Lauko :attribute reikšmė turi būti galiojantis UUID."

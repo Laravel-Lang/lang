@@ -118,6 +118,7 @@
     "token": "Paroles nomaiņas talons ir nederīgs.",
     "unique": ":Attribute jau ir aizņemts.",
     "uploaded": ":Attribute netika augšupielādēts.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": ":Attribute formāts ir nederīgs.",
     "user": "Mēs nevaram atrast lietotāju ar tādu e-pasta adresi.",
     "uuid": ":Attribute jābūt derīgam UUID."

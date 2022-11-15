@@ -118,6 +118,7 @@
     "token": "Памылковы код скіду пароля.",
     "unique": "Такое значэнне поля :attribute ўжо існуе.",
     "uploaded": ":Attribute не ўдалося загрузіць.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": "Поле :attribute мае памылковы фармат.",
     "user": "Не атрымалася знайсці карыстальніка з дадзеным электронным адрасам.",
     "uuid": ":Attribute павінен быць сапраўдным UUID."

@@ -118,6 +118,7 @@
     "token": "پارولنى قايتا بېكىتىش ئىجازەت كودى ئىناۋەتسىز.",
     "unique": ":Attribute ئاللابۇرۇن مەۋجۈت.",
     "uploaded": ":Attribute يوللاش مەغلۇپ بولدى.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": ":Attribute ھۆججەت تىپى ئىناۋەتسىز.",
     "user": "بۇ تورخەت ئادىرىسىغا ماس كىلىدىغان قوللانچى نام تېپىلمىدى.",
     "uuid": "The :attribute must be a valid UUID."

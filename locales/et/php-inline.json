@@ -108,6 +108,7 @@
     "timezone": "See peab olema kehtiv tsoon.",
     "unique": "See on juba võetud.",
     "uploaded": "Üleslaadimine nurjus.",
+    "uppercase": "This field must be uppercase.",
     "url": "See vorming on vigane.",
     "uuid": "See peab olema kehtiv UUID."
 }

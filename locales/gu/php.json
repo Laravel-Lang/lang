@@ -118,6 +118,7 @@
     "token": "પાસવર્ડ બદલવા માટેનું આ ચિહ્ન અમાન્ય છે.",
     "unique": ":Attribute પહેલેથી લઈ લેવામાં આવેલ છે.",
     "uploaded": ":Attribute અપલોડ થવામાં નિષ્ફળ.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": ":Attribute ગોઠવણ અમાન્ય છે.",
     "user": "આ ઈમેઈલ એડ્રેસ સાથે અમે વપરાશ કર્તાને શોધી શકતા નથી.",
     "uuid": ":Attribute માન્ય UUID હોવું જોઈએ."

@@ -118,6 +118,7 @@
     "token": "Oznaka za ponovno postavljanje lozinke više nije važeća.",
     "unique": "Polje :attribute već postoji.",
     "uploaded": "Polje :attribute nije uspešno učitano.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": "Polje :attribute mora biti ispravan URL.",
     "user": "Korisnik s navedenom e-mail adresom nije pronađen.",
     "uuid": "Stavka :attribute mora biti valjani UUID."

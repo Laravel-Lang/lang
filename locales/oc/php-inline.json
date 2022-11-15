@@ -108,6 +108,7 @@
     "timezone": "Aqueste camp deu èsser una zòna orària valida.",
     "unique": "La valor es ja presa.",
     "uploaded": "Lo fichièr a pas pogut s’enviar.",
+    "uppercase": "This field must be uppercase.",
     "url": "Lo format de l’URL es invalid.",
     "uuid": "Aqueste camp deu èsser un UUID valid"
 }

@@ -118,6 +118,7 @@
     "token": "Nid yw'r tocyn ail-osod cyfrinair yn ddilys.",
     "unique": "Mae :attribute eisoes yn bodoli.",
     "uploaded": "Y :attribute wedi methu â llwytho i fyny.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": "Nid yw fformat :attribute yn ddilys.",
     "user": "Ni oes gennym ddefnyddiwr gyda'r cyfeiriad e-bost yna.",
     "uuid": "Y :attribute rhaid iddo fod yn ddilys UUID."

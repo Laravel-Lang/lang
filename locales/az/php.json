@@ -118,6 +118,7 @@
     "token": "Bu şifrə yeniləmə kodu yanlışdır",
     "unique": "Belə bir :attribute artıq mövcuddur.",
     "uploaded": ":Attribute yüklənmədi.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": ":Attribute düzgün URL olmalıdır.",
     "user": "Bu email'ə uyğun istifadəçi tapılmadı",
     "uuid": ":Attribute düzgün UUID olmalıdır."

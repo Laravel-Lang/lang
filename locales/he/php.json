@@ -118,6 +118,7 @@
     "token": "אסימון איפוס הסיסמה הזה לא תקני.",
     "unique": "שדה :attribute כבר תפוס.",
     "uploaded": "שדה :attribute ארעה שגיאה בעת ההעלאה.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": "שדה :attribute בעל פורמט שאינו תקין.",
     "user": "לא הצלחנו למצוא משתמש עם כתובת האימייל הזאת.",
     "uuid": "ה :attribute חייב להיות מזהה ייחודי אוניברסלי (UUID) חוקי."

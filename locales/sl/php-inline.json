@@ -108,6 +108,7 @@
     "timezone": "Časovni pas mora biti veljaven.",
     "unique": "Vnešeno je že zasedeno.",
     "uploaded": "Prenos ni bil uspešen.",
+    "uppercase": "This field must be uppercase.",
     "url": "Oblika ni pravilna.",
     "uuid": "Vnos mora biti veljaven UUID."
 }

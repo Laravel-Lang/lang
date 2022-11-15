@@ -108,6 +108,7 @@
     "timezone": "นี่ต้องเป็นที่ใช้งานพื้นที่อันตราย",
     "unique": "มันจะถูกจับตัวไป",
     "uploaded": "นี่ล้มเหลวในการอัปโหลด",
+    "uppercase": "This field must be uppercase.",
     "url": "นี่รูปแบบไม่ถูกต้อง",
     "uuid": "นี่ต้องเป็นที่ถูกต้อ PHLUIDNAME."
 }

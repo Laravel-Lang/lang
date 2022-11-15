@@ -4,12 +4,12 @@ editLink: false
 
 # hr
 
-##### All missed: 7
+##### All missed: 2
 
 
-### json
+### php-inline
 
-##### Missing: 7
+##### Missing: 1
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,65 +23,40 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-Action Status
+uppercase
 
 </td><td width="50%">
 
-Status
+This field must be uppercase.
 
 </td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php
+
+##### Missing: 1
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
 <tr><td width="50%">
 
-CSV (.csv)
+uppercase
 
 </td><td width="50%">
 
-CSV (.csv)
-
-</td></tr>
-<tr><td width="50%">
-
-Excel (.xlsx)
-
-</td><td width="50%">
-
-Excel (.xlsx)
-
-</td></tr>
-<tr><td width="50%">
-
-Reunion
-
-</td><td width="50%">
-
-Réunion
-
-</td></tr>
-<tr><td width="50%">
-
-Réunion
-
-</td><td width="50%">
-
-Réunion
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must contain at least one uppercase and one lowercase letter.
-
-</td><td width="50%">
-
-The :attribute must contain at least one uppercase and one lowercase letter.
-
-</td></tr>
-<tr><td width="50%">
-
-The given data was invalid.
-
-</td><td width="50%">
-
-The given data was invalid.
+The :attribute must be uppercase.
 
 </td></tr>
 </table>

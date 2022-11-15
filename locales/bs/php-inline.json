@@ -108,6 +108,7 @@
     "timezone": "Ovo mora da je valjana zona.",
     "unique": "Ovo je već slikano.",
     "uploaded": "To nije uspjelo upload.",
+    "uppercase": "This field must be uppercase.",
     "url": "Ovaj format je nevažeći.",
     "uuid": "Ovo mora da je valjani UUID."
 }

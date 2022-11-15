@@ -108,6 +108,7 @@
     "timezone": "Trường này phải là một múi giờ hợp lệ.",
     "unique": "Trường này đã có trong cơ sở dữ liệu.",
     "uploaded": "Trường này tải lên thất bại.",
+    "uppercase": "This field must be uppercase.",
     "url": "Trường này không giống với định dạng một URL.",
     "uuid": "Trường này phải là một chuỗi UUID hợp lệ."
 }

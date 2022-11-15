@@ -108,6 +108,7 @@
     "timezone": "必须是一个合法的时区值。",
     "unique": "已经存在。",
     "uploaded": "上传失败。",
+    "uppercase": "This field must be uppercase.",
     "url": "格式不正确。",
     "uuid": "必须是有效的 UUID。"
 }

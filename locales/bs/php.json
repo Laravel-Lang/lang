@@ -118,6 +118,7 @@
     "token": "Ovaj token za resetovanje lozinke nije ispravan.",
     "unique": "Polje :attribute već postoji.",
     "uploaded": "Učitavanje polja :attribute nije uspjelo.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": "Format polja :attribute nije validan.",
     "user": "Ne može se pronaći korisnik sa tom e-mail adresom.",
     "uuid": "Polje :attribute mora biti validan UUID."

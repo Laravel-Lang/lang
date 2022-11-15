@@ -118,6 +118,7 @@
     "token": "Укуцана ознака за ресетовање лозинке није важећа.",
     "unique": "Поље :attribute већ постоји.",
     "uploaded": ":Attribute није отпремљен.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": "Формат поља :attribute не важи.",
     "user": "Нисмо успели пронаћи корисника са емаил адресом.",
     "uuid": ":Attribute мора да буде важећи УУИД."

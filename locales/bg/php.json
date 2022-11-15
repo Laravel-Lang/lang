@@ -118,6 +118,7 @@
     "token": "Този токен за нулиране на парола е невалиден.",
     "unique": "Полето :attribute вече съществува.",
     "uploaded": "Неуспешно качване на :attribute.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": "Полето :attribute е в невалиден формат.",
     "user": "Потребител с такъв e-mail адрес не може да бъде открит.",
     "uuid": ":Attribute трябва да бъде валиден UUID."

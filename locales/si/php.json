@@ -118,6 +118,7 @@
     "token": "මෙම මුරපද යළි පිහිටුවීමේ ටෝකනය වලංගු නොවේ.",
     "unique": "මෙම :attribute දැනටමත් අරගෙන තියෙන්නේ.",
     "uploaded": "මෙම :attribute අප්ලෝඩ් කිරීම අසාර්ථක විය.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": "මෙම :attribute ආකෘතිය වලංගු නැත.",
     "user": "අපට එම විද්යුත් තැපැල් ලිපිනය සමඟ පරිශීලකයෙකු සොයා ගත නොහැක.",
     "uuid": "මෙම :attribute වලංගු UUID විය යුතුය."

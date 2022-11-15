@@ -118,6 +118,7 @@
     "token": "Resetointitunniste on viallinen.",
     "unique": "Kentän :attribute arvo ei ole uniikki.",
     "uploaded": "Tiedoston :attribute lataus epäonnistui.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": "Kentän :attribute arvon tulee olla validi URL-osoite.",
     "user": "Sähköpostiosoitteella ei löydy käyttäjää.",
     "uuid": ":Attribute tulee olla kelvollinen UUID."

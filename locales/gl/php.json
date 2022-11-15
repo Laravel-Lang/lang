@@ -118,6 +118,7 @@
     "token": "Este token de restablecemento do contrasinal non é válido.",
     "unique": "O :attribute xa está collido.",
     "uploaded": "O :attribute fallou ao cargar.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": "O :attribute debe ser unha URL válida.",
     "user": "Non podemos encontrar un usuario con esa dirección de correo electrónico.",
     "uuid": "O :attribute debe ser un UUID válido."

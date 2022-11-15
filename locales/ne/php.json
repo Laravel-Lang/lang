@@ -118,6 +118,7 @@
     "token": "यो पासवर्ड रिसेट गर्ने टोकन अमान्य छ।",
     "unique": "यो :attribute पहिले नै लिई सकेको छ।",
     "uploaded": ":Attribute अपलोड गर्न असफल भयो।",
+    "uppercase": "The :attribute must be uppercase.",
     "url": ":Attribute को ढांचा मिलेन।",
     "user": "दिइएको ईमेल प्रयोगकर्ता भेटिएन।",
     "uuid": ":Attribute एक मान्य UUID हुनुपर्दछ।"

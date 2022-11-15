@@ -108,6 +108,7 @@
     "timezone": "Šio lauko reikšmė turi būti galiojanti laiko zona.",
     "unique": "Ši reikšmė jau pasirinkta.",
     "uploaded": "Nepavyko įkelti šio lauko.",
+    "uppercase": "This field must be uppercase.",
     "url": "Negaliojantis šio lauko formatas.",
     "uuid": "Šio lauko reikšmė turi būti galiojantis UUID."
 }

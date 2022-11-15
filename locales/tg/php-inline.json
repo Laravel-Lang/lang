@@ -108,6 +108,7 @@
     "timezone": "Ин бояд допустимая минтақаи.",
     "unique": "Ин аллакай анҷом.",
     "uploaded": "Ин нашуд зеркашӣ.",
+    "uppercase": "This field must be uppercase.",
     "url": "Ин формат недопустим.",
     "uuid": "Ин бояд воқеии UUID."
 }

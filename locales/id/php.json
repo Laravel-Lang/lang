@@ -118,6 +118,7 @@
     "token": "Token pengaturan ulang kata sandi tidak sah.",
     "unique": ":Attribute sudah ada sebelumnya.",
     "uploaded": ":Attribute gagal diunggah.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": "Format :attribute tidak valid.",
     "user": "Kami tidak dapat menemukan pengguna dengan alamat surel tersebut.",
     "uuid": ":Attribute harus merupakan UUID yang valid."

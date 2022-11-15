@@ -118,6 +118,7 @@
     "token": "Kóðinn til að endurheimta lykilorðið er rangur.",
     "unique": "Reiturinn :attribute er því miður ekki leyfilegur. Það er annar eins.",
     "uploaded": "Ekki tókst að hlaða :attribute upp.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": "Reiturinn :attribute verður að vera netslóð.",
     "user": "Notandi með þetta netfang finnst ekki.",
     "uuid": ":Attribute verður að vera gilt UUID."

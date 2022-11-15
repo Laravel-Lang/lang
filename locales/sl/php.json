@@ -118,6 +118,7 @@
     "token": "Ponastavitveni žeton je neveljaven.",
     "unique": ":Attribute je že zaseden.",
     "uploaded": "Nalaganje :attribute ni uspelo.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": ":Attribute format je neveljaven.",
     "user": "Ne moremo najti uporabnika s tem e-poštnim naslovom.",
     "uuid": ":Attribute mora biti veljaven UUID."

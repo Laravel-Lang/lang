@@ -108,6 +108,7 @@
     "timezone": "यो मान्य क्षेत्र हुनुपर्दछ।",
     "unique": "यो पहिले नै लिइसकिएको छ।",
     "uploaded": "यो अपलोड गर्न असफल भयो।",
+    "uppercase": "This field must be uppercase.",
     "url": "यो ढाँचा अवैध छ।",
     "uuid": "यो वैध UID हुनु पर्छ।"
 }

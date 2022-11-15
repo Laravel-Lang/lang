@@ -118,6 +118,7 @@
     "token": "Token set semula kata laluan ini tidak sah.",
     "unique": ":Attribute telah wujud.",
     "uploaded": ":Attribute gagal dimuat naik.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": ":Attribute format tidak sah.",
     "user": "Kami tidak dapat mencari pengguna dengan alamat e-mel tersebut.",
     "uuid": ":Attribute mesti UUID yang sah."

@@ -108,6 +108,7 @@
     "timezone": "ეს უნდა იყოს სწორი ზონაში.",
     "unique": "ეს უკვე მიღებული.",
     "uploaded": "ეს ვერ ატვირთეთ.",
+    "uppercase": "This field must be uppercase.",
     "url": "ეს ფორმატი არასწორია.",
     "uuid": "ეს უნდა იყოს სწორი UUID."
 }

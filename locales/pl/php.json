@@ -118,6 +118,7 @@
     "token": "Token resetowania hasła jest nieprawidłowy.",
     "unique": "Taki :attribute już występuje.",
     "uploaded": "Nie udało się wgrać pliku :attribute.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": "Format pola :attribute jest nieprawidłowy.",
     "user": "Nie znaleziono użytkownika z takim adresem e-mail.",
     "uuid": "Pole :attribute musi być poprawnym identyfikatorem UUID."

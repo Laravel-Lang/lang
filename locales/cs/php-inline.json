@@ -108,6 +108,7 @@
     "timezone": "Musí to být platná zóna.",
     "unique": "To již bylo přijato.",
     "uploaded": "To se nepodařilo nahrát.",
+    "uppercase": "This field must be uppercase.",
     "url": "Tento formát je neplatný.",
     "uuid": "To musí být platný UUID."
 }

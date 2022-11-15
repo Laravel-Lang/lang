@@ -108,6 +108,7 @@
     "timezone": "올바른 시간대 이어야 합니다.",
     "unique": "이미 사용 중입니다.",
     "uploaded": "업로드하지 못했습니다.",
+    "uppercase": "This field must be uppercase.",
     "url": "형식이 올바르지 않습니다.",
     "uuid": "유효한UUID여야합니다."
 }

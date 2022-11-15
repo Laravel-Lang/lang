@@ -108,6 +108,7 @@
     "timezone": "Hau izan behar da baliozko zona.",
     "unique": "Hau dagoeneko hartu.",
     "uploaded": "Hau huts egin du igo.",
+    "uppercase": "This field must be uppercase.",
     "url": "Formatu hau ez da balioduna.",
     "uuid": "Hau izan behar da baliozko UUID."
 }

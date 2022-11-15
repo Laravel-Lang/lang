@@ -118,6 +118,7 @@
     "token": "ชุดรหัสสำหรับการเปลี่ยนรหัสผ่านไม่ถูกต้อง",
     "unique": "ข้อมูล :attribute ไม่สามารถใช้ได้",
     "uploaded": "ข้อมูล :attribute ไม่สามารพอัพโหลดได้.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": "ข้อมูล :attribute ไม่ถูกต้อง",
     "user": "ไม่พบผู้ใช้งานที่ตรงกับอีเมล์นี้",
     "uuid": "ข้อมูล :attribute ต้องเป็นค่า UUID ที่ถูกต้อง"

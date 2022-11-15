@@ -118,6 +118,7 @@
     "token": "Aquest token de recuperació de contrasenya és invàlid.",
     "unique": ":Attribute ja està registrat i no es pot repetir.",
     "uploaded": ":Attribute ha fallat al pujar.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": ":Attribute no és una adreça web vàlida.",
     "user": "No existeix cap usuari amb aquest correu.",
     "uuid": "El :attribute ha de ser un indentificador únic universal (UUID) vàlid."

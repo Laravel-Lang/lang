@@ -108,6 +108,7 @@
     "timezone": "Ennek érvényes zónának kell lennie.",
     "unique": "Ezt már elvitték.",
     "uploaded": "Ez nem sikerült feltölteni.",
+    "uppercase": "This field must be uppercase.",
     "url": "Ez a formátum érvénytelen.",
     "uuid": "Ennek érvényes UUID-nak kell lennie."
 }

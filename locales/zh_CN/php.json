@@ -118,6 +118,7 @@
     "token": "密码重置令牌无效。",
     "unique": ":Attribute 已经存在。",
     "uploaded": ":Attribute 上传失败。",
+    "uppercase": "The :attribute must be uppercase.",
     "url": ":Attribute 格式不正确。",
     "user": "找不到该邮箱对应的用户。",
     "uuid": ":Attribute 必须是有效的 UUID。"

@@ -4,7 +4,7 @@ editLink: false
 
 # oc
 
-##### All missed: 820
+##### All missed: 822
 
 
 ### json-inline
@@ -7035,7 +7035,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 19
+##### Missing: 20
 
 <table width="100%">
 <tr><th width="50%">
@@ -7218,6 +7218,15 @@ required_if_accepted
 This field is required when :other is accepted.
 
 </td></tr>
+<tr><td width="50%">
+
+uppercase
+
+</td><td width="50%">
+
+This field must be uppercase.
+
+</td></tr>
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
@@ -7226,7 +7235,7 @@ This field is required when :other is accepted.
 
 ### php
 
-##### Missing: 25
+##### Missing: 26
 
 <table width="100%">
 <tr><th width="50%">
@@ -7461,6 +7470,15 @@ throttled
 </td><td width="50%">
 
 Please wait before retrying.
+
+</td></tr>
+<tr><td width="50%">
+
+uppercase
+
+</td><td width="50%">
+
+The :attribute must be uppercase.
 
 </td></tr>
 </table>

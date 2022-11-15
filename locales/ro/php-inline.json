@@ -108,7 +108,7 @@
     "timezone": "Aceasta trebuie să fie o zonă validă.",
     "unique": "Acest lucru a fost deja luat.",
     "uploaded": "Acest lucru nu a reușit să încarce.",
-    "uppercase": "This field must be uppercase.",
+    "uppercase": "Acest câmp trebuie să fie majuscule.",
     "url": "Acest format este nevalid.",
     "uuid": "Acesta trebuie să fie un UUID valid."
 }

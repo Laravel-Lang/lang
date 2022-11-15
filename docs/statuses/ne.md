@@ -4,7 +4,7 @@ editLink: false
 
 # ne
 
-##### All missed: 258
+##### All missed: 260
 
 
 ### json-inline
@@ -2074,7 +2074,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 14
+##### Missing: 15
 
 <table width="100%">
 <tr><th width="50%">
@@ -2212,6 +2212,15 @@ required_if_accepted
 This field is required when :other is accepted.
 
 </td></tr>
+<tr><td width="50%">
+
+uppercase
+
+</td><td width="50%">
+
+This field must be uppercase.
+
+</td></tr>
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
@@ -2220,7 +2229,7 @@ This field is required when :other is accepted.
 
 ### php
 
-##### Missing: 19
+##### Missing: 20
 
 <table width="100%">
 <tr><th width="50%">
@@ -2401,6 +2410,15 @@ required_if_accepted
 </td><td width="50%">
 
 The :attribute field is required when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+uppercase
+
+</td><td width="50%">
+
+The :attribute must be uppercase.
 
 </td></tr>
 </table>

@@ -4,7 +4,7 @@ editLink: false
 
 # tk
 
-##### All missed: 868
+##### All missed: 870
 
 
 ### json-inline
@@ -7035,7 +7035,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 35
+##### Missing: 36
 
 <table width="100%">
 <tr><th width="50%">
@@ -7362,6 +7362,15 @@ required_without_all
 This field is required when none of :values are present.
 
 </td></tr>
+<tr><td width="50%">
+
+uppercase
+
+</td><td width="50%">
+
+This field must be uppercase.
+
+</td></tr>
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
@@ -7370,7 +7379,7 @@ This field is required when none of :values are present.
 
 ### php
 
-##### Missing: 57
+##### Missing: 58
 
 <table width="100%">
 <tr><th width="50%">
@@ -7884,6 +7893,15 @@ uploaded
 </td><td width="50%">
 
 The :attribute failed to upload.
+
+</td></tr>
+<tr><td width="50%">
+
+uppercase
+
+</td><td width="50%">
+
+The :attribute must be uppercase.
 
 </td></tr>
 <tr><td width="50%">

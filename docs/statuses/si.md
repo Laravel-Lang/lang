@@ -4,7 +4,7 @@ editLink: false
 
 # si
 
-##### All missed: 122
+##### All missed: 124
 
 
 ### json-inline
@@ -895,7 +895,7 @@ Your email address is unverified.
 
 ### php-inline
 
-##### Missing: 12
+##### Missing: 13
 
 <table width="100%">
 <tr><th width="50%">
@@ -1015,6 +1015,15 @@ required_if_accepted
 This field is required when :other is accepted.
 
 </td></tr>
+<tr><td width="50%">
+
+uppercase
+
+</td><td width="50%">
+
+This field must be uppercase.
+
+</td></tr>
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
@@ -1023,7 +1032,7 @@ This field is required when :other is accepted.
 
 ### php
 
-##### Missing: 16
+##### Missing: 17
 
 <table width="100%">
 <tr><th width="50%">
@@ -1177,6 +1186,15 @@ required_if_accepted
 </td><td width="50%">
 
 The :attribute field is required when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+uppercase
+
+</td><td width="50%">
+
+The :attribute must be uppercase.
 
 </td></tr>
 </table>

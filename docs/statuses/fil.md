@@ -4,7 +4,7 @@ editLink: false
 
 # fil
 
-##### All missed: 847
+##### All missed: 849
 
 
 ### json-inline
@@ -7035,7 +7035,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 35
+##### Missing: 36
 
 <table width="100%">
 <tr><th width="50%">
@@ -7362,6 +7362,15 @@ required_without_all
 This field is required when none of :values are present.
 
 </td></tr>
+<tr><td width="50%">
+
+uppercase
+
+</td><td width="50%">
+
+This field must be uppercase.
+
+</td></tr>
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
@@ -7370,7 +7379,7 @@ This field is required when none of :values are present.
 
 ### php
 
-##### Missing: 36
+##### Missing: 37
 
 <table width="100%">
 <tr><th width="50%">
@@ -7695,6 +7704,15 @@ token
 </td><td width="50%">
 
 This password reset token is invalid.
+
+</td></tr>
+<tr><td width="50%">
+
+uppercase
+
+</td><td width="50%">
+
+The :attribute must be uppercase.
 
 </td></tr>
 <tr><td width="50%">

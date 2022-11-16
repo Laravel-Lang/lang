@@ -118,7 +118,7 @@
     "token": "رمز استعادة كلمة المرور الذي أدخلته غير صحيح.",
     "unique": "قيمة حقل :attribute مُستخدمة من قبل.",
     "uploaded": "فشل في تحميل الـ :attribute.",
-    "uppercase": "The :attribute must be uppercase.",
+    "uppercase": "يجب أن يحتوي الحقل :attribute على حروف كبيرة.",
     "url": "صيغة رابط حقل :attribute غير صحيحة.",
     "user": "لم يتم العثور على أيّ حسابٍ بهذا العنوان الإلكتروني.",
     "uuid": "حقل :attribute يجب أن يكون بصيغة UUID سليمة."

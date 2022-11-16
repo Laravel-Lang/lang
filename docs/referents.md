@@ -39,6 +39,15 @@ bn
 </td></tr>
 <tr><td width="50%">
 
+bs
+
+</td><td width="50%">
+
+@jure-knezovic
+
+</td></tr>
+<tr><td width="50%">
+
 da
 
 </td><td width="50%">
@@ -89,6 +98,15 @@ fr
 </td><td width="50%">
 
 @caouecs, @WhereIsLucas
+
+</td></tr>
+<tr><td width="50%">
+
+hr
+
+</td><td width="50%">
+
+@jure-knezovic
 
 </td></tr>
 <tr><td width="50%">
@@ -187,7 +205,7 @@ sr_Latn
 
 </td><td width="50%">
 
-@LukaLatkovic
+@LukaLatkovic, @jure-knezovic
 
 </td></tr>
 <tr><td width="50%">
@@ -196,7 +214,7 @@ sr_Latn_ME
 
 </td><td width="50%">
 
-@LukaLatkovic
+@LukaLatkovic, @jure-knezovic
 
 </td></tr>
 <tr><td width="50%">

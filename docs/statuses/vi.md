@@ -4,12 +4,12 @@ editLink: false
 
 # vi
 
-##### All missed: 15
+##### All missed: 17
 
 
 ### json
 
-##### Missing: 9
+##### Missing: 11
 
 <table width="100%">
 <tr><th width="50%">
@@ -59,6 +59,15 @@ Filename
 </td></tr>
 <tr><td width="50%">
 
+Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+
+</td><td width="50%">
+
+Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+
+</td></tr>
+<tr><td width="50%">
+
 Select All Dropdown
 
 </td><td width="50%">
@@ -100,6 +109,15 @@ Unknown
 </td><td width="50%">
 
 Unknown
+
+</td></tr>
+<tr><td width="50%">
+
+You're logged in!
+
+</td><td width="50%">
+
+You're logged in!
 
 </td></tr>
 </table>

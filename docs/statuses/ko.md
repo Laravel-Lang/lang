@@ -4,7 +4,7 @@ editLink: false
 
 # ko
 
-##### All missed: 107
+##### All missed: 109
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 67
+##### Missing: 69
 
 <table width="100%">
 <tr><th width="50%">
@@ -457,6 +457,15 @@ Notifications
 </td></tr>
 <tr><td width="50%">
 
+Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+
+</td><td width="50%">
+
+Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+
+</td></tr>
+<tr><td width="50%">
+
 Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
 
 </td><td width="50%">
@@ -759,6 +768,15 @@ We have emailed your password reset link!
 </td><td width="50%">
 
 We have emailed your password reset link!
+
+</td></tr>
+<tr><td width="50%">
+
+You're logged in!
+
+</td><td width="50%">
+
+You're logged in!
 
 </td></tr>
 <tr><td width="50%">

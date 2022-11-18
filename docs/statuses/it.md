@@ -4,12 +4,12 @@ editLink: false
 
 # it
 
-##### All missed: 23
+##### All missed: 25
 
 
 ### json
 
-##### Missing: 17
+##### Missing: 19
 
 <table width="100%">
 <tr><th width="50%">
@@ -86,6 +86,15 @@ Logs
 </td></tr>
 <tr><td width="50%">
 
+Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+
+</td><td width="50%">
+
+Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+
+</td></tr>
+<tr><td width="50%">
+
 Refresh
 
 </td><td width="50%">
@@ -172,6 +181,15 @@ Unknown
 </td><td width="50%">
 
 Unknown
+
+</td></tr>
+<tr><td width="50%">
+
+You're logged in!
+
+</td><td width="50%">
+
+You're logged in!
 
 </td></tr>
 </table>

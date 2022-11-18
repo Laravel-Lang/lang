@@ -4,12 +4,12 @@ editLink: false
 
 # ro
 
-##### All missed: 200
+##### All missed: 202
 
 
 ### json
 
-##### Missing: 200
+##### Missing: 202
 
 <table width="100%">
 <tr><th width="50%">
@@ -1319,6 +1319,15 @@ Oman
 </td></tr>
 <tr><td width="50%">
 
+Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+
+</td><td width="50%">
+
+Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+
+</td></tr>
+<tr><td width="50%">
+
 Original
 
 </td><td width="50%">
@@ -1792,6 +1801,15 @@ Venezuela
 </td><td width="50%">
 
 Venezuela
+
+</td></tr>
+<tr><td width="50%">
+
+You're logged in!
+
+</td><td width="50%">
+
+You're logged in!
 
 </td></tr>
 <tr><td width="50%">

@@ -4,7 +4,7 @@ editLink: false
 
 # ps
 
-##### All missed: 813
+##### All missed: 815
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 734
+##### Missing: 736
 
 <table width="100%">
 <tr><th width="50%">
@@ -3859,6 +3859,15 @@ Once your account is deleted, all of its resources and data will be permanently 
 </td></tr>
 <tr><td width="50%">
 
+Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+
+</td><td width="50%">
+
+Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+
+</td></tr>
+<tr><td width="50%">
+
 Only Trashed
 
 </td><td width="50%">
@@ -6681,6 +6690,15 @@ You may not leave a team that you created.
 </td><td width="50%">
 
 You may not leave a team that you created.
+
+</td></tr>
+<tr><td width="50%">
+
+You're logged in!
+
+</td><td width="50%">
+
+You're logged in!
 
 </td></tr>
 <tr><td width="50%">

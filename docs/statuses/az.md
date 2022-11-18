@@ -4,12 +4,12 @@ editLink: false
 
 # az
 
-##### All missed: 38
+##### All missed: 40
 
 
 ### json
 
-##### Missing: 34
+##### Missing: 36
 
 <table width="100%">
 <tr><th width="50%">
@@ -221,6 +221,15 @@ Oman
 </td></tr>
 <tr><td width="50%">
 
+Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+
+</td><td width="50%">
+
+Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+
+</td></tr>
+<tr><td width="50%">
+
 Pakistan
 
 </td><td width="50%">
@@ -325,6 +334,15 @@ Vanuatu
 </td><td width="50%">
 
 Vanuatu
+
+</td></tr>
+<tr><td width="50%">
+
+You're logged in!
+
+</td><td width="50%">
+
+You're logged in!
 
 </td></tr>
 </table>

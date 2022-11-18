@@ -118,7 +118,7 @@
     "token": "Esse código de redefinição de senha é inválido.",
     "unique": "O valor informado para o campo :attribute já está em uso.",
     "uploaded": "Falha no Upload do arquivo :attribute.",
-    "uppercase": "The :attribute must be uppercase.",
+    "uppercase": "O :attribute deve ser maiúsculo.",
     "url": "O formato da URL informada para o campo :attribute é inválido.",
     "user": "Não conseguimos encontrar nenhum usuário com o endereço de e-mail informado.",
     "uuid": "O campo :attribute deve ser um UUID válido."

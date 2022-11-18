@@ -118,7 +118,7 @@
     "token": "مشخصه‌ی بازگردانی رمز عبور معتبر نیست.",
     "unique": ":Attribute قبلا انتخاب شده است.",
     "uploaded": "بارگذاری فایل :attribute موفقیت آمیز نبود.",
-    "uppercase": "The :attribute must be uppercase.",
+    "uppercase": "فیلد :attribute باید با حروف بزرگ باشد.",
     "url": ":Attribute معتبر نمی‌باشد.",
     "user": "ما کاربری با این نشانی ایمیل نداریم!",
     "uuid": ":Attribute باید یک UUID معتبر باشد."

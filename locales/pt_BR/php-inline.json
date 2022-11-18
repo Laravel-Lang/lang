@@ -108,7 +108,7 @@
     "timezone": "Esta deve ser uma zona válida.",
     "unique": "Isso já foi escolhido.",
     "uploaded": "Falha ao carregar.",
-    "uppercase": "This field must be uppercase.",
+    "uppercase": "Este campo deve ser maiúsculo.",
     "url": "Este formato é inválido.",
     "uuid": "Este deve ser um UUID válido."
 }

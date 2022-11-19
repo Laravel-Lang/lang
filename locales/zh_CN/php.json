@@ -53,7 +53,7 @@
     "ipv4": ":Attribute 必须是有效的 IPv4 地址。",
     "ipv6": ":Attribute 必须是有效的 IPv6 地址。",
     "json": ":Attribute 必须是正确的 JSON 格式。",
-    "lowercase": "The :attribute must be lowercase.",
+    "lowercase": ":Attribute 必须小写。",
     "lt.array": ":Attribute 必须少于 :value 个元素。",
     "lt.file": ":Attribute 必须小于 :value KB。",
     "lt.numeric": ":Attribute 必须小于 :value。",
@@ -118,7 +118,7 @@
     "token": "密码重置令牌无效。",
     "unique": ":Attribute 已经存在。",
     "uploaded": ":Attribute 上传失败。",
-    "uppercase": "The :attribute must be uppercase.",
+    "uppercase": ":Attribute 必须大写",
     "url": ":Attribute 格式不正确。",
     "user": "找不到该邮箱对应的用户。",
     "uuid": ":Attribute 必须是有效的 UUID。"

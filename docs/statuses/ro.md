@@ -4,12 +4,12 @@ editLink: false
 
 # ro
 
-##### All missed: 202
+##### All missed: 203
 
 
 ### json
 
-##### Missing: 202
+##### Missing: 203
 
 <table width="100%">
 <tr><th width="50%">
@@ -1648,6 +1648,15 @@ Slovenia
 </td><td width="50%">
 
 Slovenia
+
+</td></tr>
+<tr><td width="50%">
+
+Soft Deleted
+
+</td><td width="50%">
+
+Soft Deleted
 
 </td></tr>
 <tr><td width="50%">

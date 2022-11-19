@@ -4,12 +4,12 @@ editLink: false
 
 # it
 
-##### All missed: 25
+##### All missed: 26
 
 
 ### json
 
-##### Missing: 19
+##### Missing: 20
 
 <table width="100%">
 <tr><th width="50%">
@@ -145,6 +145,15 @@ Select this page
 </td><td width="50%">
 
 Select this page
+
+</td></tr>
+<tr><td width="50%">
+
+Soft Deleted
+
+</td><td width="50%">
+
+Soft Deleted
 
 </td></tr>
 <tr><td width="50%">

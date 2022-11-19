@@ -4,12 +4,12 @@ editLink: false
 
 # bn
 
-##### All missed: 1
+##### All missed: 2
 
 
 ### json
 
-##### Missing: 1
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,6 +21,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+Soft Deleted
+
+</td><td width="50%">
+
+Soft Deleted
+
+</td></tr>
 <tr><td width="50%">
 
 You're logged in!

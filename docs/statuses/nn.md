@@ -4,7 +4,7 @@ editLink: false
 
 # nn
 
-##### All missed: 811
+##### All missed: 812
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 733
+##### Missing: 734
 
 <table width="100%">
 <tr><th width="50%">
@@ -4935,6 +4935,15 @@ Slovenia
 </td><td width="50%">
 
 Slovenia
+
+</td></tr>
+<tr><td width="50%">
+
+Soft Deleted
+
+</td><td width="50%">
+
+Soft Deleted
 
 </td></tr>
 <tr><td width="50%">

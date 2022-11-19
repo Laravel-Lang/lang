@@ -4,7 +4,7 @@ editLink: false
 
 # ko
 
-##### All missed: 109
+##### All missed: 110
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 69
+##### Missing: 70
 
 <table width="100%">
 <tr><th width="50%">
@@ -570,6 +570,15 @@ Setup Key
 </td><td width="50%">
 
 Setup Key
+
+</td></tr>
+<tr><td width="50%">
+
+Soft Deleted
+
+</td><td width="50%">
+
+Soft Deleted
 
 </td></tr>
 <tr><td width="50%">

@@ -4,12 +4,12 @@ editLink: false
 
 # sw
 
-##### All missed: 2
+##### All missed: 3
 
 
 ### json
 
-##### Missing: 2
+##### Missing: 3
 
 <table width="100%">
 <tr><th width="50%">
@@ -28,6 +28,15 @@ Once your account is deleted, all of its resources and data will be permanently 
 </td><td width="50%">
 
 Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+
+</td></tr>
+<tr><td width="50%">
+
+Soft Deleted
+
+</td><td width="50%">
+
+Soft Deleted
 
 </td></tr>
 <tr><td width="50%">

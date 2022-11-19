@@ -4,7 +4,7 @@ editLink: false
 
 # km
 
-##### All missed: 242
+##### All missed: 243
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 193
+##### Missing: 194
 
 <table width="100%">
 <tr><th width="50%">
@@ -1200,6 +1200,15 @@ Signed in as
 </td><td width="50%">
 
 Signed in as
+
+</td></tr>
+<tr><td width="50%">
+
+Soft Deleted
+
+</td><td width="50%">
+
+Soft Deleted
 
 </td></tr>
 <tr><td width="50%">

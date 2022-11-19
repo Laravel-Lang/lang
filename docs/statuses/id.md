@@ -4,12 +4,12 @@ editLink: false
 
 # id
 
-##### All missed: 10
+##### All missed: 11
 
 
 ### json
 
-##### Missing: 6
+##### Missing: 7
 
 <table width="100%">
 <tr><th width="50%">
@@ -64,6 +64,15 @@ Select All Dropdown
 </td><td width="50%">
 
 Select All Dropdown
+
+</td></tr>
+<tr><td width="50%">
+
+Soft Deleted
+
+</td><td width="50%">
+
+Soft Deleted
 
 </td></tr>
 <tr><td width="50%">

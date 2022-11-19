@@ -4,7 +4,7 @@ editLink: false
 
 # zh_HK
 
-##### All missed: 81
+##### All missed: 82
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 43
+##### Missing: 44
 
 <table width="100%">
 <tr><th width="50%">
@@ -444,6 +444,15 @@ Select this page
 </td><td width="50%">
 
 Select this page
+
+</td></tr>
+<tr><td width="50%">
+
+Soft Deleted
+
+</td><td width="50%">
+
+Soft Deleted
 
 </td></tr>
 <tr><td width="50%">

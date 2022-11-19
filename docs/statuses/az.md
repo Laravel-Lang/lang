@@ -4,12 +4,12 @@ editLink: false
 
 # az
 
-##### All missed: 40
+##### All missed: 41
 
 
 ### json
 
-##### Missing: 36
+##### Missing: 37
 
 <table width="100%">
 <tr><th width="50%">
@@ -280,6 +280,15 @@ Samoa
 </td><td width="50%">
 
 Samoa
+
+</td></tr>
+<tr><td width="50%">
+
+Soft Deleted
+
+</td><td width="50%">
+
+Soft Deleted
 
 </td></tr>
 <tr><td width="50%">

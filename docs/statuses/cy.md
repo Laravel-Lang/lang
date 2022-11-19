@@ -4,7 +4,7 @@ editLink: false
 
 # cy
 
-##### All missed: 254
+##### All missed: 255
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 193
+##### Missing: 194
 
 <table width="100%">
 <tr><th width="50%">
@@ -1209,6 +1209,15 @@ Sint Maarten (Dutch part)
 </td><td width="50%">
 
 Sint Maarten
+
+</td></tr>
+<tr><td width="50%">
+
+Soft Deleted
+
+</td><td width="50%">
+
+Soft Deleted
 
 </td></tr>
 <tr><td width="50%">

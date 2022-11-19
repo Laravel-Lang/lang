@@ -4,7 +4,7 @@ editLink: false
 
 # sq
 
-##### All missed: 328
+##### All missed: 329
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 279
+##### Missing: 280
 
 <table width="100%">
 <tr><th width="50%">
@@ -1857,6 +1857,15 @@ Singapore
 </td><td width="50%">
 
 Singapore
+
+</td></tr>
+<tr><td width="50%">
+
+Soft Deleted
+
+</td><td width="50%">
+
+Soft Deleted
 
 </td></tr>
 <tr><td width="50%">

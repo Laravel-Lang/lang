@@ -4,7 +4,7 @@ editLink: false
 
 # sq
 
-##### All missed: 329
+##### All missed: 320
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 280
+##### Missing: 271
 
 <table width="100%">
 <tr><th width="50%">
@@ -167,87 +167,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-(and :count more error)
-
-</td><td width="50%">
-
-(and :count more error)
-
-</td></tr>
-<tr><td width="50%">
-
-(and :count more errors)
-
-</td><td width="50%">
-
-(and :count more errors)
-
-</td></tr>
-<tr><td width="50%">
-
-A fresh verification link has been sent to your email address.
-
-</td><td width="50%">
-
-A fresh verification link has been sent to your email address.
-
-</td></tr>
-<tr><td width="50%">
-
-A new verification link has been sent to the email address you provided in your profile settings.
-
-</td><td width="50%">
-
-A new verification link has been sent to the email address you provided in your profile settings.
-
-</td></tr>
-<tr><td width="50%">
-
-A new verification link has been sent to your email address.
-
-</td><td width="50%">
-
-A new verification link has been sent to your email address.
-
-</td></tr>
-<tr><td width="50%">
-
-Add VAT Number
-
-</td><td width="50%">
-
-Add VAT Number
-
-</td></tr>
-<tr><td width="50%">
-
-Address
-
-</td><td width="50%">
-
-Address
-
-</td></tr>
-<tr><td width="50%">
-
-Address Line 2
-
-</td><td width="50%">
-
-Address Line 2
-
-</td></tr>
-<tr><td width="50%">
-
-Administrator
-
-</td><td width="50%">
-
-Administrator
-
-</td></tr>
 <tr><td width="50%">
 
 An error occurred while uploading the file.

@@ -53,6 +53,7 @@
     "ipv4": ":Attribute ha de ser una adreça IPv4 vàlida.",
     "ipv6": ":Attribute ha de ser una adreça IPv6 vàlida.",
     "json": "El camp :attribute ha de ser una cadena JSON vàlida.",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": "El :attribute ha de tenir menys de :value ítems.",
     "lt.file": "El :attribute ha de ser inferior a :value kilobytes.",
     "lt.numeric": "El :attribute ha de ser inferior a :value.",
@@ -96,6 +97,7 @@
     "required": "El camp :attribute és obligatori.",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": "El camp :attribute és obligatori quan :other és :value.",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": "El camp :attribute és obligatori a no ser que :other sigui a :values.",
     "required_with": "El camp :attribute és obligatori quan hi ha :values.",
     "required_with_all": "El camp :attribute és obligatori quan hi ha :values.",
@@ -116,6 +118,7 @@
     "token": "Aquest token de recuperació de contrasenya és invàlid.",
     "unique": ":Attribute ja està registrat i no es pot repetir.",
     "uploaded": ":Attribute ha fallat al pujar.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": ":Attribute no és una adreça web vàlida.",
     "user": "No existeix cap usuari amb aquest correu.",
     "uuid": "El :attribute ha de ser un indentificador únic universal (UUID) vàlid."

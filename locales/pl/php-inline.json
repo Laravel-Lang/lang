@@ -51,6 +51,7 @@
     "ipv4": "Pole musi być prawidłowym adresem IPv4.",
     "ipv6": "Pole musi być prawidłowym adresem IPv6.",
     "json": "Pole musi być poprawnym ciągiem znaków JSON.",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "Pole musi mieć mniej niż :value elementów.",
     "lt.file": "Pole musi być mniejsze niż :value kilobajtów.",
     "lt.numeric": "Pole musi być mniejsze niż :value.",
@@ -91,6 +92,7 @@
     "required": "Pole jest wymagane.",
     "required_array_keys": "Pole musi zawierać wartości: :values.",
     "required_if": "Pole jest wymagane gdy :other ma wartość :value.",
+    "required_if_accepted": "To pole jest wymagane gdy :other jest zaakceptowane.",
     "required_unless": "Pole jest wymagane jeżeli :other nie znajduje się w :values.",
     "required_with": "Pole jest wymagane gdy :values jest obecny.",
     "required_with_all": "Pole jest wymagane gdy wszystkie :values są obecne.",
@@ -106,6 +108,7 @@
     "timezone": "Pole musi być prawidłową strefą czasową.",
     "unique": "Taka wartość już występuje.",
     "uploaded": "Nie udało się wgrać pliku.",
+    "uppercase": "This field must be uppercase.",
     "url": "Format pola jest nieprawidłowy.",
     "uuid": "Pole musi być poprawnym identyfikatorem UUID."
 }

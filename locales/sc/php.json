@@ -53,6 +53,7 @@
     "ipv4": "The :attribute must be a valid IPv4 address.",
     "ipv6": "The :attribute must be a valid IPv6 address.",
     "json": "The :attribute must be a valid JSON string.",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": "The :attribute must have less than :value items.",
     "lt.file": "The :attribute must be less than :value kilobytes.",
     "lt.numeric": "The :attribute must be less than :value.",
@@ -96,6 +97,7 @@
     "required": ":Attribute est pedidu.",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": "Su campu :attribute est pedidu cando :other est :value.",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": "The :attribute field is required unless :other is in :values.",
     "required_with": "Su campu :attribute est pedidu cando :values est presente.",
     "required_with_all": "Su campu:attribute est pedidu cando :values est presente.",
@@ -116,6 +118,7 @@
     "token": "Custu token pro torrare a impostare sa password no est bàlidu.",
     "unique": ":Attribute est istadu giai impreadu.",
     "uploaded": "The :attribute failed to upload.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": ":Attribute depet èssere un'URL.",
     "user": "Non s'agatat un'impitadore assotziadu a custu indiritzu email.",
     "uuid": "The :attribute must be a valid UUID."

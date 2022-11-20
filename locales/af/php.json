@@ -53,6 +53,7 @@
     "ipv4": "Die :attribute moet geldige IPv4 address wees.",
     "ipv6": "Die :attribute moet geldige IPv6 address wees.",
     "json": "Die :attribute moet geldige JSON string wees.",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": "Die :attribute moet minder as wees :value items.",
     "lt.file": "Die :attribute moet minder as wees :value kilobytes.",
     "lt.numeric": "Die :attribute moet minder as wees :value.",
@@ -96,6 +97,7 @@
     "required": "Die :attribute veld is verpligtend.",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": "Die :attribute veld is verpligtend wanneer :other :value is.",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": "Die :attribute veld is verpligtend tensy :other in :values is.",
     "required_with": "Die :attribute veld is verpligtend wanneer :values teenwoordig is.",
     "required_with_all": "Die :attribute veld is verpligtend wanneer :values teenwoordig is.",
@@ -116,6 +118,7 @@
     "token": "Hierdie wagwoordregstelling-token is ongeldig.",
     "unique": "Die :attribute is reeds geneem.",
     "uploaded": "Die :attribute kon nie oplaai.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": "Die :attribute formaat is ongeldig.",
     "user": "Ons kan nie 'n gebruiker met daardie e-posadres vind nie.",
     "uuid": "Die :attribute moet 'n geldige UUID wees."

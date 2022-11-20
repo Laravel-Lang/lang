@@ -53,6 +53,7 @@
     "ipv4": "Polje :attribute mora biti validna IPv4 adresa.",
     "ipv6": "Polje :attribute mora biti validna IPv6 adresa.",
     "json": "Polje :attribute mora biti validan JSON string.",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": "Polje :attribute mora sadržati manje od :value stavki.",
     "lt.file": "Polje :attribute mora imati veličinu manju od :value kilobajta.",
     "lt.numeric": "Polje :attribute imati vrijednost manju od :value.",
@@ -96,6 +97,7 @@
     "required": "Polje :attribute je obavezno.",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": "Polje :attribute je obavezno kada :other ima vrijednost :value.",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": "Polje :attribute je obavezno osim ako vrijednost polja :other postoji u sljedećem nizu: :values.",
     "required_with": "Polje :attribute je obavezno kada je bar jedno od polja :values prisutno.",
     "required_with_all": "Polje :attribute je obavezno kada su polja :values prisutna.",
@@ -116,6 +118,7 @@
     "token": "Ovaj token za resetovanje lozinke nije ispravan.",
     "unique": "Polje :attribute već postoji.",
     "uploaded": "Učitavanje polja :attribute nije uspjelo.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": "Format polja :attribute nije validan.",
     "user": "Ne može se pronaći korisnik sa tom e-mail adresom.",
     "uuid": "Polje :attribute mora biti validan UUID."

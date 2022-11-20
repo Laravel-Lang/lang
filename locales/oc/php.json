@@ -53,6 +53,7 @@
     "ipv4": "Lo camp :attribute deu èsser una adreça IPv4 valida.",
     "ipv6": "Lo camp :attribute deu èsser una adreça IPv6 valida.",
     "json": "Lo camp :attribute deu èsser una cadena JSON valida.",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": "Lo tablèu :attribute deu conténer almens :value elements.",
     "lt.file": "La talha del fichièr de :attribute deu èsser inferiora a :value kilo-octets.",
     "lt.numeric": "La valor de :attribute deu èsser inferiora a :value.",
@@ -96,6 +97,7 @@
     "required": "Lo camp :attribute es obligatòri.",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": "Lo camp :attribute es obligatòri quand :other es :value.",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": "Lo camp :attribute es obligatòri levat se :other es dins :values.",
     "required_with": "Lo camp :attribute es obligatòri quand :values es present.",
     "required_with_all": "Lo camp :attribute es obligatòri quand :values es present.",
@@ -116,6 +118,7 @@
     "token": "Aqueste geton de reïnicializacion es invalid.",
     "unique": "La valor del camp :attribute es ja presa.",
     "uploaded": "Lo fichièr de :attribute a pas pogut s’enviar.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": "Lo format de :attribute es invalid.",
     "user": "Trobam pas cap d’utilizaire amb aquesta adreça de corrièl.",
     "uuid": "Lo camp :attribute deu èsser un UUID valid"

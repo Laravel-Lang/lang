@@ -53,6 +53,7 @@
     "ipv4": "A(z) :attribute érvényes IPv4 cím kell, hogy legyen!",
     "ipv6": "A(z) :attribute érvényes IPv6 cím kell, hogy legyen!",
     "json": "A(z) :attribute érvényes JSON szöveg kell, hogy legyen!",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": "A(z) :attribute kevesebb, mint :value elemet kell, hogy tartalmazzon.",
     "lt.file": "A(z) :attribute mérete kisebb kell, hogy legyen, mint :value kilobájt.",
     "lt.numeric": "A(z) :attribute kisebb kell, hogy legyen, mint :value!",
@@ -96,6 +97,7 @@
     "required": "A(z) :attribute megadása kötelező!",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": "A(z) :attribute megadása kötelező, ha a(z) :other értéke :value!",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": "A(z) :attribute megadása kötelező, ha a(z) :other értéke nem :values!",
     "required_with": "A(z) :attribute megadása kötelező, ha a(z) :values érték létezik.",
     "required_with_all": "A(z) :attribute megadása kötelező, ha a(z) :values értékek léteznek.",
@@ -116,6 +118,7 @@
     "token": "Ez az új jelszó generálásához tartozó token érvénytelen.",
     "unique": "A(z) :attribute már foglalt.",
     "uploaded": "A(z) :attribute feltöltése sikertelen.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": "A(z) :attribute érvénytelen link.",
     "user": "Nem található felhasználó a megadott email címmel.",
     "uuid": ":Attribute érvényes UUID-val kell rendelkezzen."

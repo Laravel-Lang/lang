@@ -53,6 +53,7 @@
     "ipv4": ":AttributeはIPv4アドレスを指定してください。",
     "ipv6": ":AttributeはIPv6アドレスを指定してください。",
     "json": ":Attributeには、有効なJSON文字列を指定してください。",
+    "lowercase": ":Attributeは、小文字で入力してください。",
     "lt.array": ":Attributeの項目数は、:value個より少なくなければいけません。",
     "lt.file": ":Attributeは、:value KBより小さくなければいけません。",
     "lt.numeric": ":Attributeは、:valueより小さくなければいけません。",
@@ -96,6 +97,7 @@
     "required": ":Attributeは必須項目です。",
     "required_array_keys": ":Attributeには、:valuesのエントリを含める必要があります。",
     "required_if": ":Otherが:valueの場合、:attributeを指定してください。",
+    "required_if_accepted": ":Otherを承認した場合、:attributeは必須項目です。",
     "required_unless": ":Otherが:values以外の場合、:attributeは必須項目です。",
     "required_with": ":Valuesが入力されている場合、:attributeは必須項目です。",
     "required_with_all": ":Valuesが全て指定されている場合、:attributeは必須項目です。",
@@ -116,6 +118,7 @@
     "token": "このパスワード再設定トークンは無効です。",
     "unique": "指定の:attributeは既に使用されています。",
     "uploaded": ":Attributeのアップロードに失敗しました。",
+    "uppercase": "The :attribute must be uppercase.",
     "url": ":Attributeは、有効なURL形式で指定してください。",
     "user": "このメールアドレスに一致するユーザーがいません。",
     "uuid": ":Attributeは、有効なUUIDでなければいけません。"

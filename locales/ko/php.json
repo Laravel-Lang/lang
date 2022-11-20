@@ -53,6 +53,7 @@
     "ipv4": ":Attribute은(는) 유효한 IPv4 주소여야 합니다.",
     "ipv6": ":Attribute은(는) 유효한 IPv6 주소여야 합니다.",
     "json": ":Attribute은(는) JSON 문자열이어야 합니다.",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": ":Attribute의 항목 수는 :value개 보다 작아야 합니다.",
     "lt.file": ":Attribute의 용량은 :value킬로바이트보다 작아야 합니다.",
     "lt.numeric": ":Attribute의 값은 :value보다 작아야 합니다.",
@@ -96,6 +97,7 @@
     "required": ":Attribute 필드는 필수입니다.",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": ":Other이(가) :value 일 때 :attribute 필드는 필수입니다.",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": ":Other이(가) :values에 없다면 :attribute 필드는 필수입니다.",
     "required_with": ":Values이(가) 있는 경우 :attribute 필드는 필수입니다.",
     "required_with_all": ":Values이(가) 모두 있는 경우 :attribute 필드는 필수입니다.",
@@ -116,6 +118,7 @@
     "token": "해당 비밀번호 재설정 토큰이 유효하지 않습니다.",
     "unique": ":Attribute은(는) 이미 사용 중입니다.",
     "uploaded": ":Attribute을(를) 업로드하지 못했습니다.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": ":Attribute은(는) 형식은 올바르지 않습니다.",
     "user": "해당 이메일을 사용하는 사용자를 찾을 수 없습니다.",
     "uuid": ":Attribute은(는) 유효한UUID여야합니다."

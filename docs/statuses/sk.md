@@ -4,7 +4,7 @@ editLink: false
 
 # sk
 
-##### All missed: 280
+##### All missed: 298
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 242
+##### Missing: 254
 
 <table width="100%">
 <tr><th width="50%">
@@ -471,6 +471,15 @@ Change Subscription Plan
 </td><td width="50%">
 
 Change Subscription Plan
+
+</td></tr>
+<tr><td width="50%">
+
+Choose Files
+
+</td><td width="50%">
+
+Choose Files
 
 </td></tr>
 <tr><td width="50%">
@@ -610,6 +619,24 @@ Download Receipt
 </td></tr>
 <tr><td width="50%">
 
+Drop file or click to choose
+
+</td><td width="50%">
+
+Drop file or click to choose
+
+</td></tr>
+<tr><td width="50%">
+
+Drop files or click to choose
+
+</td><td width="50%">
+
+Drop files or click to choose
+
+</td></tr>
+<tr><td width="50%">
+
 Edit Profile
 
 </td><td width="50%">
@@ -687,6 +714,15 @@ Failed to load :resource!
 </td><td width="50%">
 
 Failed to load :resource!
+
+</td></tr>
+<tr><td width="50%">
+
+Filename
+
+</td><td width="50%">
+
+Filename
 
 </td></tr>
 <tr><td width="50%">
@@ -1231,6 +1267,15 @@ November
 </td></tr>
 <tr><td width="50%">
 
+Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+
+</td><td width="50%">
+
+Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+
+</td></tr>
+<tr><td width="50%">
+
 Our billing management portal allows you to conveniently manage your subscription plan, payment method, and download your recent invoices.
 
 </td><td width="50%">
@@ -1542,6 +1587,24 @@ Select a log file...
 </td><td width="50%">
 
 Select a log file...
+
+</td></tr>
+<tr><td width="50%">
+
+Select All Dropdown
+
+</td><td width="50%">
+
+Select All Dropdown
+
+</td></tr>
+<tr><td width="50%">
+
+Select this page
+
+</td><td width="50%">
+
+Select this page
 
 </td></tr>
 <tr><td width="50%">
@@ -1600,6 +1663,15 @@ Sint Maarten
 </td></tr>
 <tr><td width="50%">
 
+Soft Deleted
+
+</td><td width="50%">
+
+Soft Deleted
+
+</td></tr>
+<tr><td width="50%">
+
 South Georgia and the South Sandwich Islands
 
 </td><td width="50%">
@@ -1803,6 +1875,15 @@ The given data was invalid.
 </td><td width="50%">
 
 The given data was invalid.
+
+</td></tr>
+<tr><td width="50%">
+
+The image could not be loaded
+
+</td><td width="50%">
+
+The image could not be loaded
 
 </td></tr>
 <tr><td width="50%">
@@ -2059,6 +2140,15 @@ Two factor authentication is now enabled. Scan the following QR code using your 
 </td></tr>
 <tr><td width="50%">
 
+Type
+
+</td><td width="50%">
+
+Type
+
+</td></tr>
+<tr><td width="50%">
+
 Uganda
 
 </td><td width="50%">
@@ -2073,6 +2163,15 @@ United States Minor Outlying Islands
 </td><td width="50%">
 
 United States Minor Outlying Islands
+
+</td></tr>
+<tr><td width="50%">
+
+Unknown
+
+</td><td width="50%">
+
+Unknown
 
 </td></tr>
 <tr><td width="50%">
@@ -2253,6 +2352,15 @@ You may cancel your subscription at any time. Once your subscription has been ca
 </td><td width="50%">
 
 You may cancel your subscription at any time. Once your subscription has been cancelled, you will have the option to resume the subscription until the end of your current billing cycle.
+
+</td></tr>
+<tr><td width="50%">
+
+You're logged in!
+
+</td><td width="50%">
+
+You're logged in!
 
 </td></tr>
 <tr><td width="50%">
@@ -2353,7 +2461,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 12
+##### Missing: 15
 
 <table width="100%">
 <tr><th width="50%">
@@ -2390,6 +2498,15 @@ doesnt_start_with
 </td><td width="50%">
 
 This field may not start with one of the following: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+lowercase
+
+</td><td width="50%">
+
+This field must be lowercase.
 
 </td></tr>
 <tr><td width="50%">
@@ -2473,6 +2590,24 @@ required_array_keys
 This field must contain entries for: :values.
 
 </td></tr>
+<tr><td width="50%">
+
+required_if_accepted
+
+</td><td width="50%">
+
+This field is required when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+uppercase
+
+</td><td width="50%">
+
+This field must be uppercase.
+
+</td></tr>
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
@@ -2481,7 +2616,7 @@ This field must contain entries for: :values.
 
 ### php
 
-##### Missing: 12
+##### Missing: 15
 
 <table width="100%">
 <tr><th width="50%">
@@ -2518,6 +2653,15 @@ enum
 </td><td width="50%">
 
 The selected :attribute is invalid.
+
+</td></tr>
+<tr><td width="50%">
+
+lowercase
+
+</td><td width="50%">
+
+The :attribute must be lowercase.
 
 </td></tr>
 <tr><td width="50%">
@@ -2599,6 +2743,24 @@ required_array_keys
 </td><td width="50%">
 
 The :attribute field must contain entries for: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+required_if_accepted
+
+</td><td width="50%">
+
+The :attribute field is required when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+uppercase
+
+</td><td width="50%">
+
+The :attribute must be uppercase.
 
 </td></tr>
 </table>

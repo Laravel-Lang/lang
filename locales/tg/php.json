@@ -53,6 +53,7 @@
     "ipv4": ":Attribute бояд дархост эътибор дорад IPv4-суроғаи.",
     "ipv6": ":Attribute бояд дархост эътибор дорад IPv6-суроғаи.",
     "json": "Қиммати :attribute бояд сатри дурусти JSON бошад.",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": "The :attribute must have less than :value items.",
     "lt.file": "The :attribute must be less than :value kilobytes.",
     "lt.numeric": "The :attribute must be less than :value.",
@@ -96,6 +97,7 @@
     "required": ":Attribute бояд дорои қиммат бошад.",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": ":Attribute бояд дорои қиммат бошад агар :other ба :value баробар бошад.",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": ":Attribute бояд дорои қиммат бошад агар :other дар :values мавҷуд бошад.",
     "required_with": ":Attribute бояд дорои қиммат бошад :values мавҷуд бошад.",
     "required_with_all": ":Attribute бояд дорои қиммат бошад агар :values мавҷуд бошанд.",
@@ -116,6 +118,7 @@
     "token": "Ин код барои иваз намудани гузарвожа нодуруст мебошад.",
     "unique": "Қиммати :attribute қаблан интихоб шудааст.",
     "uploaded": "Боркунии :attribute ба хатогӣ дучор шуд.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": "Формати :attribute нодуруст мебошад.",
     "user": "Чунин истифодабаранда бо суроғаи электронии зерин ёфт нашуд.",
     "uuid": ":Attribute бояд дархост эътибор дорад UUID."

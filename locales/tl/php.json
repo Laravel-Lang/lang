@@ -53,6 +53,7 @@
     "ipv4": "Ang :attribute ay dapat na isang wastong Ipbagong address.",
     "ipv6": "Ang :attribute ay dapat na isang balidong Ipbagong address.",
     "json": "Ang :attribute ay dapat isang balidong JSON string.",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": "The :attribute must have less than :value items.",
     "lt.file": "The :attribute must be less than :value kilobytes.",
     "lt.numeric": "The :attribute must be less than :value.",
@@ -96,6 +97,7 @@
     "required": "Ang :attribute ng attribute ay kailangan.",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": "Ang :attribute ng attribute ay kailangan kapag :other iba ay :value.",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": "Ang :attribute ng attribute ay kailangan maliban kung :other iba ay nasa :values.",
     "required_with": "Ang :attribute ng attribute ay kailangan kapag :values balyu ang naroon.",
     "required_with_all": "Ang :attribute ng attribute ay kailangan kapag :values balyu ang naroon.",
@@ -116,6 +118,7 @@
     "token": "Ang token sa pag-reset ng password na ito ay imbalido.",
     "unique": "Ang :attribute ay nakuha na.",
     "uploaded": "Nabigo ang :attribute upang i-upload.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": "Ang :attribute ng attribute ay imbalido.",
     "user": "Hindi namin mahanap ang user na may ganyang email address.",
     "uuid": ":Attribute ay dapat na isang wastong UUID."

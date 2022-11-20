@@ -4,12 +4,12 @@ editLink: false
 
 # az
 
-##### All missed: 57
+##### All missed: 41
 
 
 ### json
 
-##### Missing: 55
+##### Missing: 37
 
 <table width="100%">
 <tr><th width="50%">
@@ -95,65 +95,11 @@ Cape Verde
 </td></tr>
 <tr><td width="50%">
 
-Cote D'Ivoire
-
-</td><td width="50%">
-
-Côte d'Ivoire
-
-</td></tr>
-<tr><td width="50%">
-
-Côte d'Ivoire
-
-</td><td width="50%">
-
-Côte d'Ivoire
-
-</td></tr>
-<tr><td width="50%">
-
-ex VAT
-
-</td><td width="50%">
-
-ex VAT
-
-</td></tr>
-<tr><td width="50%">
-
-Fiji
-
-</td><td width="50%">
-
-Fiji
-
-</td></tr>
-<tr><td width="50%">
-
 Gibraltar
 
 </td><td width="50%">
 
 Gibraltar
-
-</td></tr>
-<tr><td width="50%">
-
-Guernsey
-
-</td><td width="50%">
-
-Guernsey
-
-</td></tr>
-<tr><td width="50%">
-
-Guyana
-
-</td><td width="50%">
-
-Guyana
 
 </td></tr>
 <tr><td width="50%">
@@ -172,15 +118,6 @@ Honduras
 </td><td width="50%">
 
 Honduras
-
-</td></tr>
-<tr><td width="50%">
-
-Jane Doe
-
-</td><td width="50%">
-
-Jane Doe
 
 </td></tr>
 <tr><td width="50%">
@@ -221,15 +158,6 @@ Malta
 </td></tr>
 <tr><td width="50%">
 
-May
-
-</td><td width="50%">
-
-May
-
-</td></tr>
-<tr><td width="50%">
-
 Moldova
 
 </td><td width="50%">
@@ -266,15 +194,6 @@ Nepal
 </td></tr>
 <tr><td width="50%">
 
-Netherlands Antilles
-
-</td><td width="50%">
-
-Netherlands Antilles
-
-</td></tr>
-<tr><td width="50%">
-
 Niger
 
 </td><td width="50%">
@@ -293,20 +212,20 @@ Niue
 </td></tr>
 <tr><td width="50%">
 
-Notifications
+Oman
 
 </td><td width="50%">
 
-Notifications
+Oman
 
 </td></tr>
 <tr><td width="50%">
 
-Oman
+Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
 
 </td><td width="50%">
 
-Oman
+Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
 
 </td></tr>
 <tr><td width="50%">
@@ -347,47 +266,11 @@ Peru
 </td></tr>
 <tr><td width="50%">
 
-Previewing
-
-</td><td width="50%">
-
-Previewing
-
-</td></tr>
-<tr><td width="50%">
-
-Rwanda
-
-</td><td width="50%">
-
-Rwanda
-
-</td></tr>
-<tr><td width="50%">
-
 Réunion
 
 </td><td width="50%">
 
 Réunion
-
-</td></tr>
-<tr><td width="50%">
-
-Saint Barthélemy
-
-</td><td width="50%">
-
-Saint Barthélemy
-
-</td></tr>
-<tr><td width="50%">
-
-Saint Martin (French part)
-
-</td><td width="50%">
-
-Saint Martin (French part)
 
 </td></tr>
 <tr><td width="50%">
@@ -401,29 +284,11 @@ Samoa
 </td></tr>
 <tr><td width="50%">
 
-Setup Key
+Soft Deleted
 
 </td><td width="50%">
 
-Setup Key
-
-</td></tr>
-<tr><td width="50%">
-
-Start polling
-
-</td><td width="50%">
-
-Start polling
-
-</td></tr>
-<tr><td width="50%">
-
-Stop polling
-
-</td><td width="50%">
-
-Stop polling
+Soft Deleted
 
 </td></tr>
 <tr><td width="50%">
@@ -455,38 +320,11 @@ Tanzania
 </td></tr>
 <tr><td width="50%">
 
-The provided two factor recovery code was invalid.
-
-</td><td width="50%">
-
-The provided two factor recovery code was invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-Timor-Leste
-
-</td><td width="50%">
-
-Timor-Leste
-
-</td></tr>
-<tr><td width="50%">
-
 Tokelau
 
 </td><td width="50%">
 
 Tokelau
-
-</td></tr>
-<tr><td width="50%">
-
-Total:
-
-</td><td width="50%">
-
-Total:
 
 </td></tr>
 <tr><td width="50%">
@@ -509,11 +347,49 @@ Vanuatu
 </td></tr>
 <tr><td width="50%">
 
-Yearly
+You're logged in!
 
 </td><td width="50%">
 
-Yearly
+You're logged in!
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php-inline
+
+##### Missing: 2
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+lowercase
+
+</td><td width="50%">
+
+This field must be lowercase.
+
+</td></tr>
+<tr><td width="50%">
+
+uppercase
+
+</td><td width="50%">
+
+This field must be uppercase.
 
 </td></tr>
 </table>
@@ -538,20 +414,20 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-max_digits
+lowercase
 
 </td><td width="50%">
 
-The :attribute must not have more than :max digits.
+The :attribute must be lowercase.
 
 </td></tr>
 <tr><td width="50%">
 
-min_digits
+uppercase
 
 </td><td width="50%">
 
-The :attribute must have at least :min digits.
+The :attribute must be uppercase.
 
 </td></tr>
 </table>

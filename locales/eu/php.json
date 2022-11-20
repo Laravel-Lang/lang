@@ -53,6 +53,7 @@
     "ipv4": ":Attribute baliozko IPv4 helbidea izan behar da.",
     "ipv6": ":Attribute baliozko IPv6 helbidea izan behar da.",
     "json": ":Attribute baliozko JSON karaktere-katea izan behar da.",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": ":Attribute-(e)k :value elementu baino gutxiago izan behar ditu.",
     "lt.file": ":Attribute-(e)k :value kilobyte baino txikiagoa izan behar du.",
     "lt.numeric": ":Attribute-(e)k :value baino txikiagoa izan behar du.",
@@ -96,6 +97,7 @@
     "required": ":Attribute derrigorrezkoa da.",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": ":Attribute derrigorrezkoa da :other :value denean.",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": ":Attribute derrigorrezkoa da :other :values-(e)n egon ezean.",
     "required_with": ":Attribute derrigorrezkoa da :values dagoenean.",
     "required_with_all": ":Attribute derrigorrezkoa da :values daudenean.",
@@ -116,6 +118,7 @@
     "token": "Pasahitza berreskuratzeko tokena baliogabea da.",
     "unique": ":Attribute jadanik erregistratua izan da.",
     "uploaded": ":Attribute kargatzerakoan huts egin du.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": ":Attribute-(r)en formatua baliogabea da.",
     "user": "Ezin izan dugu helbide elektroniko horrekin bat datorren erabiltzailerik aurkitu.",
     "uuid": ":Attribute-(e)k baliozko UUIDa izan behar du."

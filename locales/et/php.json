@@ -53,6 +53,7 @@
     "ipv4": ":Attribute peab olema kehtiv IPv4 aadress.",
     "ipv6": ":Attribute peab olema kehtiv IPv6 aadress.",
     "json": ":Attribute peab olema kehtiv JSON string.",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": ":Attribute peab sisaldama vähem kui :value üksust",
     "lt.file": ":Attribute peab olema väiksem kui :value kilobaiti",
     "lt.numeric": ":Attribute peab olema väiksem kui :value",
@@ -96,6 +97,7 @@
     "required": ":Attribute väli on nõutud.",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": ":Attribute väli on nõutud, kui :other on :value.",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": ":Attribute väli on nõutud, välja arvatud, kui :other on :values.",
     "required_with": ":Attribute väli on nõutud, kui :values on esindatud.",
     "required_with_all": ":Attribute väli on nõutud, kui :values on esindatud.",
@@ -116,6 +118,7 @@
     "token": "See parooli lähtestamise tunnus on vigane.",
     "unique": ":Attribute on juba hõivatud.",
     "uploaded": ":Attribute ei õnnestunud laadida.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": ":Attribute vorming on vigane.",
     "user": "Sellise e-postiaadressiga kasutajat ei leitud.",
     "uuid": ":Attribute peab olema õige UUID"

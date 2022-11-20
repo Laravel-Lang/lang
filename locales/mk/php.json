@@ -53,6 +53,7 @@
     "ipv4": "Полето :attribute мора да биде валидна IPv4 адреса.",
     "ipv6": "Полето :attribute мора да биде валидна IPv6 адреса.",
     "json": "Полето :attribute мора да биде валиден JSON објект.",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": "Полето :attribute мора да има помалку од :value елементи.",
     "lt.file": "Полето :attribute мора да биде датотека помала од :value килобајти.",
     "lt.numeric": "Полето :attribute мора да биде број помал од :value.",
@@ -96,6 +97,7 @@
     "required": "Полето :attribute е задолжително.",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": "Полето :attribute е задолжително кога :other е :value.",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": "Полето :attribute е задолжително освен кога :other е во :values.",
     "required_with": "Полето :attribute е задолжително кога е внесено :values.",
     "required_with_all": "Полето :attribute е задолжително кога :values се присутни.",
@@ -116,6 +118,7 @@
     "token": "Овој токен за ресетирање на лозинката е невалиден.",
     "unique": "Полето :attribute веќе постои.",
     "uploaded": ":Attribute не е прикачен.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": "Полето :attribute не е во валиден формат.",
     "user": "Не може да се пронајде корисник со таа e-mail адреса.",
     "uuid": "Полето :attribute мора да биде валиден УУИД."

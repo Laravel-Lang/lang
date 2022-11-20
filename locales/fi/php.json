@@ -53,6 +53,7 @@
     "ipv4": "Kentän :attribute arvon tulee olla validi IPv4-osoite.",
     "ipv6": "Kentän :attribute arvon tulee olla validi IPv6-osoite.",
     "json": "Kentän :attribute arvon tulee olla validia JSON:ia.",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": "Kentän :attribute tulee sisältää vähemmän kuin :value arvoa.",
     "lt.file": "Tiedoston :attribute tulee olla pienempi kuin :value kilotavua.",
     "lt.numeric": "Kentän :attribute arvo tulee olla pienempi kuin :value.",
@@ -96,6 +97,7 @@
     "required": "Kenttä :attribute vaaditaan.",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": "Kenttä :attribute vaaditaan kun :other on :value.",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": "Kenttä :attribute vaaditaan jos :other ei sisälly arvoihin :values.",
     "required_with": "Kenttä :attribute vaaditaan kun arvo :values on annettu.",
     "required_with_all": "Kenttä :attribute vaaditaan kun arvo :values on annettu.",
@@ -116,6 +118,7 @@
     "token": "Resetointitunniste on viallinen.",
     "unique": "Kentän :attribute arvo ei ole uniikki.",
     "uploaded": "Tiedoston :attribute lataus epäonnistui.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": "Kentän :attribute arvon tulee olla validi URL-osoite.",
     "user": "Sähköpostiosoitteella ei löydy käyttäjää.",
     "uuid": ":Attribute tulee olla kelvollinen UUID."

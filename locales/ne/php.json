@@ -53,6 +53,7 @@
     "ipv4": ":Attribute एक मान्य IPv4 ठेगाना हुनुपर्दछ.",
     "ipv6": ":Attribute एक मान्य IPv6 ठेगाना हुनुपर्दछ.",
     "json": ":Attribute मा दिइएको मान्य JSON स्ट्रिङ्ग हुनुपर्छ।",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": ":Attribute :value आईटमहरू भन्दा बढि हुनुपर्दछ।",
     "lt.file": ":Attribute :value क्यालोबाइट भन्दा बढि हुनुपर्दछ।",
     "lt.numeric": ":Attribute :value भन्दा बढि हुनुपर्दछ।",
@@ -96,6 +97,7 @@
     "required": ":Attribute दिइएको हुनुपर्छ।",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": ":Attribute चाहिन्छ जब :other :value हुन्छ।",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": ":Other :values मा नभएसम्म :attribute चाहिन्छ।",
     "required_with": ":Values भएसम्म :attribute चाहिन्छ।",
     "required_with_all": ":Values भएसम्म :attribute चाहिन्छ।",
@@ -116,6 +118,7 @@
     "token": "यो पासवर्ड रिसेट गर्ने टोकन अमान्य छ।",
     "unique": "यो :attribute पहिले नै लिई सकेको छ।",
     "uploaded": ":Attribute अपलोड गर्न असफल भयो।",
+    "uppercase": "The :attribute must be uppercase.",
     "url": ":Attribute को ढांचा मिलेन।",
     "user": "दिइएको ईमेल प्रयोगकर्ता भेटिएन।",
     "uuid": ":Attribute एक मान्य UUID हुनुपर्दछ।"

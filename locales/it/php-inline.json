@@ -51,6 +51,7 @@
     "ipv4": "Deve essere un indirizzo IPv4 valido.",
     "ipv6": "Deve essere un indirizzo IPv6 valido.",
     "json": "Deve essere una stringa JSON valida.",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "Deve contenere meno di :value elementi.",
     "lt.file": "Deve essere inferiore a :value kilobytes.",
     "lt.numeric": "Deve essere inferiore a :value.",
@@ -91,6 +92,7 @@
     "required": "Obbligatorio.",
     "required_array_keys": "Questo campo deve contenere voci per: :values.",
     "required_if": "Obbligatorio quando :other è :value.",
+    "required_if_accepted": "This field is required when :other is accepted.",
     "required_unless": "Obbligatorio a meno che :other sia :values.",
     "required_with": "Obbligatorio quando :values è presente.",
     "required_with_all": "Obbligatorio quando :values sono presenti.",
@@ -106,6 +108,7 @@
     "timezone": "Deve essere una zona valida.",
     "unique": "E' già in uso.",
     "uploaded": "Deve essere caricato.",
+    "uppercase": "This field must be uppercase.",
     "url": "Formato non valido.",
     "uuid": "Deve essere un UUID valido."
 }

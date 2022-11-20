@@ -53,6 +53,7 @@
     "ipv4": ":Attribute павінен быць сапраўдным IPv4-адрасам.",
     "ipv6": ":Attribute павінен быць сапраўдным IPv6-адрасам.",
     "json": "Поле :attribute павінна быць JSON радком.",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": "The :attribute must have less than :value items.",
     "lt.file": "The :attribute must be less than :value kilobytes.",
     "lt.numeric": "The :attribute must be less than :value.",
@@ -96,6 +97,7 @@
     "required": "Поле :attribute абавязкова для запаўнення.",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": "Поле :attribute абавязкова для запаўнення, калі :other раўняецца :value.",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": "Поле :attribute абавязкова для запаўнення, калі :other не раўняецца :values.",
     "required_with": "Поле :attribute абавязкова для запаўнення, калі :values ўказана.",
     "required_with_all": "Поле :attribute абавязкова для запаўнення, калі :values ўказана.",
@@ -116,6 +118,7 @@
     "token": "Памылковы код скіду пароля.",
     "unique": "Такое значэнне поля :attribute ўжо існуе.",
     "uploaded": ":Attribute не ўдалося загрузіць.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": "Поле :attribute мае памылковы фармат.",
     "user": "Не атрымалася знайсці карыстальніка з дадзеным электронным адрасам.",
     "uuid": ":Attribute павінен быць сапраўдным UUID."

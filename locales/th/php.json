@@ -53,6 +53,7 @@
     "ipv4": "ข้อมูล :attribute ต้องตรงตามรูปแบบ IPv4 address.",
     "ipv6": "ข้อมูล :attribute ต้องตรงตามรูปแบบ IPv6 address.",
     "json": "ข้อมูล :attribute ต้องเป็นอักขระ JSON ที่สมบูรณ์",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": "ข้อมูล :attribute ต้องมีน้อยกว่า :value ค่า.",
     "lt.file": "ข้อมูล :attribute ต้องมีขนาดน้อยกว่า :value กิโลไบต์.",
     "lt.numeric": "ข้อมูล :attribute ต้องมีค่าน้อยกว่า :value.",
@@ -96,6 +97,7 @@
     "required": "ข้อมูล :attribute จำเป็นต้องกรอก",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": "ข้อมูล :attribute จำเป็นต้องกรอกเมื่อ :other เป็น :value.",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": "ข้อมูล :attribute จำเป็นต้องกรอกเว้นแต่ :other เป็น :values.",
     "required_with": "ข้อมูล :attribute จำเป็นต้องกรอกเมื่อ :values มีค่า",
     "required_with_all": "ข้อมูล :attribute จำเป็นต้องกรอกเมื่อ :values มีค่าทั้งหมด",
@@ -116,6 +118,7 @@
     "token": "ชุดรหัสสำหรับการเปลี่ยนรหัสผ่านไม่ถูกต้อง",
     "unique": "ข้อมูล :attribute ไม่สามารถใช้ได้",
     "uploaded": "ข้อมูล :attribute ไม่สามารพอัพโหลดได้.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": "ข้อมูล :attribute ไม่ถูกต้อง",
     "user": "ไม่พบผู้ใช้งานที่ตรงกับอีเมล์นี้",
     "uuid": "ข้อมูล :attribute ต้องเป็นค่า UUID ที่ถูกต้อง"

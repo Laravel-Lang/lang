@@ -53,6 +53,7 @@
     "ipv4": "ಈ  :attribute ಮಾನ್ಯವಾದ IPv4 ವಿಳಾಸವಾಗಿರಬೇಕು.",
     "ipv6": "ಈ  :attribute ಮಾನ್ಯವಾದ IPv6 ವಿಳಾಸವಾಗಿರಬೇಕು.",
     "json": "ಈ  :attribute ಮಾನ್ಯವಾದ JSON ಸ್ಟ್ರಿಂಗ್ ಆಗಿರಬೇಕು .",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": "ಈ  :attribute ನಲ್ಲಿ  :value ಐಟಂಗಳಿಗಿಂತ ಕಡಿಮೆ ಇರಬೇಕು.",
     "lt.file": "ಈ  :attribute ನಲ್ಲಿ  :value ಕಿಲೋಬೈಟ್ಗಳಿಗಿಂತ ಕಡಿಮೆ ಇರಬೇಕು.",
     "lt.numeric": "ಈ  :attribute ನಲ್ಲಿ  :value ಗಿಂತ  ಕಡಿಮೆ ಇರಬೇಕು.",
@@ -96,6 +97,7 @@
     "required": "ಈ  :attribute ಕ್ಷೇತ್ರ ಅಗತ್ಯವಿದೆ.",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": "ಈ  :attribute ಕ್ಷೇತ್ರ ಅಗತ್ಯವಿದೆ ಯಾವಾಗ :other ನಲ್ಲಿ :value.",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": "ಈ  :attribute ಕ್ಷೇತ್ರ ಅಗತ್ಯವಿದೆ  unless :other ನಲ್ಲಿ  :values ಹೊರತುಪಡಿಸಿ .",
     "required_with": "ಈ  :attribute ಕ್ಷೇತ್ರ ಅಗತ್ಯವಿದೆ ಯಾವಾಗ :values ಇರುತ್ತದೆ.",
     "required_with_all": "ಈ  :attribute ಕ್ಷೇತ್ರ ಅಗತ್ಯವಿದೆ ಯಾವಾಗ :values ಇರುತ್ತವೆ.",
@@ -116,6 +118,7 @@
     "token": "ಈ ಪಾಸ್ವರ್ಡ್ ಮರುಹೊಂದಿಸುವ ಟೋಕನ್ ಅಮಾನ್ಯವಾಗಿದೆ.",
     "unique": "ಈ  :attribute ಈಗಾಗಲೇ ತೆಗೆದುಕೊಂಡಾಗಿದೆ .",
     "uploaded": "ಈ  :attribute ಅಪ್ಲೋಡ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": "ಈ  :attribute ಸ್ವರೂಪವು ಅಮಾನ್ಯವಾಗಿದೆ.",
     "user": "ಆ ಇ-ಮೇಲ್ ವಿಳಾಸದೊಂದಿಗೆ ನಾವು ಒಬ್ಬ ಬಳಕೆದಾರನನ್ನು ಹುಡುಕಲಾಗಲಿಲ್ಲ.",
     "uuid": "ಈ  :attribute ಮಾನ್ಯವಾದ UUID ಆಗಿರಬೇಕು."

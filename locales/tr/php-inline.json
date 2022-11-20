@@ -51,6 +51,7 @@
     "ipv4": "Bu geçerli bir IPv4 adresi olmalıdır.",
     "ipv6": "Bu geçerli bir IPv6 adresi olmalıdır.",
     "json": "Bu geçerli bir json dizesi olmalıdır.",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "Bu içerikte en fazla :value öge olabilir.",
     "lt.file": "Bu dosya :value kilobayt'tan büyük olamaz.",
     "lt.numeric": "Bu sayı en fazla :value olmalıdır.",
@@ -91,6 +92,7 @@
     "required": "Bu alan gereklidir.",
     "required_array_keys": "Bu alan şu verileri içermelidir: :values",
     "required_if": "Bu alan :other :value olduğunda gereklidir.",
+    "required_if_accepted": "Bu alan, :other kabul edildiğinde gereklidir.",
     "required_unless": ":Other :values'de olmadığı sürece bu alan gereklidir.",
     "required_with": "Bu alan :values olduğunda gereklidir.",
     "required_with_all": "Bu alan :values olduğunda gereklidir.",
@@ -106,6 +108,7 @@
     "timezone": "Bu geçerli bir bölge olmalıdır.",
     "unique": "Bu zaten mevcut.",
     "uploaded": "Bu yüklenemedi.",
+    "uppercase": "This field must be uppercase.",
     "url": "Bu biçim geçersiz.",
     "uuid": "Bu geçerli bir UUID olmalıdır."
 }

@@ -4,12 +4,12 @@ editLink: false
 
 # it
 
-##### All missed: 27
+##### All missed: 26
 
 
-### json-inline
+### json
 
-##### Missing: 14
+##### Missing: 20
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,128 +23,182 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-The :attribute must be a valid role.
+Choose Files
 
 </td><td width="50%">
 
-This field must be a valid role.
+Choose Files
 
 </td></tr>
 <tr><td width="50%">
 
-The :attribute must be at least :length characters and contain at least one number.
+Drop file or click to choose
 
 </td><td width="50%">
 
-This field must be at least :length characters and contain at least one number.
+Drop file or click to choose
 
 </td></tr>
 <tr><td width="50%">
 
-The :attribute must be at least :length characters and contain at least one special character and one number.
+Drop files or click to choose
 
 </td><td width="50%">
 
-This field must be at least :length characters and contain at least one special character and one number.
+Drop files or click to choose
 
 </td></tr>
 <tr><td width="50%">
 
-The :attribute must be at least :length characters and contain at least one special character.
+Filename
 
 </td><td width="50%">
 
-This field must be at least :length characters and contain at least one special character.
+Filename
 
 </td></tr>
 <tr><td width="50%">
 
-The :attribute must be at least :length characters and contain at least one uppercase character and one number.
+From
 
 </td><td width="50%">
 
-This field must be at least :length characters and contain at least one uppercase character and one number.
+From
 
 </td></tr>
 <tr><td width="50%">
 
-The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
+Log Viewer
 
 </td><td width="50%">
 
-This field must be at least :length characters and contain at least one uppercase character and one special character.
+Log Viewer
 
 </td></tr>
 <tr><td width="50%">
 
-The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
+Logs
 
 </td><td width="50%">
 
-This field must be at least :length characters and contain at least one uppercase character, one number, and one special character.
+Logs
 
 </td></tr>
 <tr><td width="50%">
 
-The :attribute must be at least :length characters and contain at least one uppercase character.
+Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
 
 </td><td width="50%">
 
-This field must be at least :length characters and contain at least one uppercase character.
+Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
 
 </td></tr>
 <tr><td width="50%">
 
-The :attribute must be at least :length characters.
+Refresh
 
 </td><td width="50%">
 
-This field must be at least :length characters.
+Refresh
 
 </td></tr>
 <tr><td width="50%">
 
-The :attribute must contain at least one letter.
+Scroll to bottom
 
 </td><td width="50%">
 
-This field must contain at least one letter.
+Scroll to bottom
 
 </td></tr>
 <tr><td width="50%">
 
-The :attribute must contain at least one number.
+Scroll to top
 
 </td><td width="50%">
 
-This field must contain at least one number.
+Scroll to top
 
 </td></tr>
 <tr><td width="50%">
 
-The :attribute must contain at least one symbol.
+Select a log file...
 
 </td><td width="50%">
 
-This field must contain at least one symbol.
+Select a log file...
 
 </td></tr>
 <tr><td width="50%">
 
-The :attribute must contain at least one uppercase and one lowercase letter.
+Select All Dropdown
 
 </td><td width="50%">
 
-This field must contain at least one uppercase and one lowercase letter.
+Select All Dropdown
 
 </td></tr>
 <tr><td width="50%">
 
-The given :attribute has appeared in a data leak. Please choose a different :attribute.
+Select this page
 
 </td><td width="50%">
 
-The given field has appeared in a data leak. Please choose a different field.
+Select this page
+
+</td></tr>
+<tr><td width="50%">
+
+Soft Deleted
+
+</td><td width="50%">
+
+Soft Deleted
+
+</td></tr>
+<tr><td width="50%">
+
+The image could not be loaded
+
+</td><td width="50%">
+
+The image could not be loaded
+
+</td></tr>
+<tr><td width="50%">
+
+To
+
+</td><td width="50%">
+
+To
+
+</td></tr>
+<tr><td width="50%">
+
+Type
+
+</td><td width="50%">
+
+Type
+
+</td></tr>
+<tr><td width="50%">
+
+Unknown
+
+</td><td width="50%">
+
+Unknown
+
+</td></tr>
+<tr><td width="50%">
+
+You're logged in!
+
+</td><td width="50%">
+
+You're logged in!
 
 </td></tr>
 </table>
@@ -153,9 +207,9 @@ The given field has appeared in a data leak. Please choose a different field.
 
 
 
-### json
+### php-inline
 
-##### Missing: 13
+##### Missing: 3
 
 <table width="100%">
 <tr><th width="50%">
@@ -169,119 +223,76 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-From
+lowercase
 
 </td><td width="50%">
 
-From
+This field must be lowercase.
 
 </td></tr>
 <tr><td width="50%">
 
-Log Viewer
+required_if_accepted
 
 </td><td width="50%">
 
-Log Viewer
+This field is required when :other is accepted.
 
 </td></tr>
 <tr><td width="50%">
 
-Logs
+uppercase
 
 </td><td width="50%">
 
-Logs
+This field must be uppercase.
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php
+
+##### Missing: 3
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+lowercase
+
+</td><td width="50%">
+
+The :attribute must be lowercase.
 
 </td></tr>
 <tr><td width="50%">
 
-Refresh
+required_if_accepted
 
 </td><td width="50%">
 
-Refresh
+The :attribute field is required when :other is accepted.
 
 </td></tr>
 <tr><td width="50%">
 
-Scroll to bottom
+uppercase
 
 </td><td width="50%">
 
-Scroll to bottom
-
-</td></tr>
-<tr><td width="50%">
-
-Scroll to top
-
-</td><td width="50%">
-
-Scroll to top
-
-</td></tr>
-<tr><td width="50%">
-
-Select a log file...
-
-</td><td width="50%">
-
-Select a log file...
-
-</td></tr>
-<tr><td width="50%">
-
-Start polling
-
-</td><td width="50%">
-
-Start polling
-
-</td></tr>
-<tr><td width="50%">
-
-Stop polling
-
-</td><td width="50%">
-
-Stop polling
-
-</td></tr>
-<tr><td width="50%">
-
-The action was executed successfully.
-
-</td><td width="50%">
-
-The action was executed successfully.
-
-</td></tr>
-<tr><td width="50%">
-
-The given data was invalid.
-
-</td><td width="50%">
-
-The given data was invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-The provided two factor recovery code was invalid.
-
-</td><td width="50%">
-
-The provided two factor recovery code was invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-To
-
-</td><td width="50%">
-
-To
+The :attribute must be uppercase.
 
 </td></tr>
 </table>

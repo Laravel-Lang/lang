@@ -53,6 +53,7 @@
     "ipv4": ":Attribute 必須是一個有效的 IPv4 地址。",
     "ipv6": ":Attribute 必須是一個有效的 IPv6 地址。",
     "json": ":Attribute 必須是正確的 JSON 格式。",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": ":Attribute 必須少於 :value 個項目。",
     "lt.file": ":Attribute 必須小於 :value KB。",
     "lt.numeric": ":Attribute 必須小於 :value。",
@@ -96,6 +97,7 @@
     "required": ":Attribute 不能留空。",
     "required_array_keys": ":Attribute 必須包含指定的鍵：:values.",
     "required_if": "當 :other 是 :value 時 :attribute 不能留空。",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": "當 :other 不是 :values 時 :attribute 不能留空。",
     "required_with": "當 :values 出現時 :attribute 不能留空。",
     "required_with_all": "當 :values 出現時 :attribute 不能留空。",
@@ -116,6 +118,7 @@
     "token": "密碼重設碼不正確。",
     "unique": ":Attribute 已經存在。",
     "uploaded": ":Attribute 上傳失敗。",
+    "uppercase": "The :attribute must be uppercase.",
     "url": ":Attribute 的格式錯誤。",
     "user": "找不到該電郵地址所對應的用戶。",
     "uuid": ":Attribute 必須是有效的 UUID。"

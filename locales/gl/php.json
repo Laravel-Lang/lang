@@ -53,6 +53,7 @@
     "ipv4": "O :attribute debe ser unha dirección IPv4 válida.",
     "ipv6": "O :attribute debe ser unha dirección IPv6 válida.",
     "json": "O :attribute debe ser unha cadea JSON válida.",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": "O :attribute debe ter menos de :value items.",
     "lt.file": "O :attribute debe ser inferior a :value kilobytes.",
     "lt.numeric": "O :attribute debe ser menos que :value.",
@@ -96,6 +97,7 @@
     "required": "O eido :attribute é obrigatorio.",
     "required_array_keys": "O eido :attribute debe conter entradas para: :values.",
     "required_if": "O eido :attribute é requirido cando :other é :value.",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": "O eido :attribute é requirido a non ser que :other sexa :values.",
     "required_with": "O eido :attribute é requirido cando :values está presente.",
     "required_with_all": "O eido :attribute é requirido cando :values están presentes.",
@@ -116,6 +118,7 @@
     "token": "Este token de restablecemento do contrasinal non é válido.",
     "unique": "O :attribute xa está collido.",
     "uploaded": "O :attribute fallou ao cargar.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": "O :attribute debe ser unha URL válida.",
     "user": "Non podemos encontrar un usuario con esa dirección de correo electrónico.",
     "uuid": "O :attribute debe ser un UUID válido."

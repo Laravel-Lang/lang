@@ -51,6 +51,7 @@
     "ipv4": "Това трябва да е валиден IPv4 адрес.",
     "ipv6": "Това трябва да е валиден IPv6 адрес.",
     "json": "Това трябва да е валиден JSON низ.",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "Съдържанието трябва да има по-малко от :value елемента.",
     "lt.file": "Размерът на файла трябва да е по-малък от :value килобайта.",
     "lt.numeric": "Стойността трябва да е по-малка от :value.",
@@ -91,6 +92,7 @@
     "required": "Това поле е задължително.",
     "required_array_keys": "This field must contain entries for: :values.",
     "required_if": "Това поле е задължително, ако :other е равно на :value.",
+    "required_if_accepted": "This field is required when :other is accepted.",
     "required_unless": "Това поле е задължително, освен ако :other не е в :values.",
     "required_with": "Това поле е задължително, когато има :values.",
     "required_with_all": "Това поле е задължително при наличие на :values.",
@@ -106,6 +108,7 @@
     "timezone": "Това трябва да е допустима зона.",
     "unique": "Това вече е направено.",
     "uploaded": "Това не може да бъде изтеглено.",
+    "uppercase": "This field must be uppercase.",
     "url": "Този формат е невалиден.",
     "uuid": "Това трябва да е валиден UUID."
 }

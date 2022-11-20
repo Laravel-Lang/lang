@@ -53,6 +53,7 @@
     "ipv4": ":Attribute چوقۇم ئىناۋەتلىك IPv4 ئادىرىسى بۇلىشى كېرەك.",
     "ipv6": ":Attribute چوقۇم ئىناۋەتلىك IPv6 ئادىرىسى بۇلىشى كېرەك.",
     "json": ":Attribute چوقۇم ئىناۋەتلىك JSON تىپى بۇلىشى كېرەك.",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": "The :attribute must have less than :value items.",
     "lt.file": "The :attribute must be less than :value kilobytes.",
     "lt.numeric": "The :attribute must be less than :value.",
@@ -96,6 +97,7 @@
     "required": ":Attribute قۇرۇق بولسا بولمايدۇ.",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": ":Other :value بولغاندا :attribute قۇرۇق بولسا بولمايدۇ.",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": ":Other :values بولمىغاندا :attribute قۇرۇق بولسا بولمايدۇ.",
     "required_with": ":Values مەۋجۈت بولغاندا :attribute قۇرۇق بولسا بولمايدۇ.",
     "required_with_all": ":Values مەۋجۈت بولغاندا :attribute قۇرۇق بولسا بولمايدۇ.",
@@ -116,6 +118,7 @@
     "token": "پارولنى قايتا بېكىتىش ئىجازەت كودى ئىناۋەتسىز.",
     "unique": ":Attribute ئاللابۇرۇن مەۋجۈت.",
     "uploaded": ":Attribute يوللاش مەغلۇپ بولدى.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": ":Attribute ھۆججەت تىپى ئىناۋەتسىز.",
     "user": "بۇ تورخەت ئادىرىسىغا ماس كىلىدىغان قوللانچى نام تېپىلمىدى.",
     "uuid": "The :attribute must be a valid UUID."

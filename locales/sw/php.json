@@ -53,6 +53,7 @@
     "ipv4": ":Attribute inapaswa kuwa anwani ya IPv4 sahihi.",
     "ipv6": ":Attribute inapaswa kuwa anwani ya IPv6 sahihi.",
     "json": "Kipengele lazima kiwe kidwe halali cha Nukuu ya Java.",
+    "lowercase": ":Attribute ni lazima iwe na herufi ndogo..",
     "lt.array": ":Attribute inapaswa kuwa chini ya vitu :value.",
     "lt.file": ":Attribute inapaswa kuwa chini ya kilobaiti :value.",
     "lt.numeric": ":Attribute inapaswa kuwa chini ya :value.",
@@ -96,6 +97,7 @@
     "required": "Sehemu ya kipengele inahitajika.",
     "required_array_keys": "Kipengele :attribute ni lazima kiwe na maingizo ya: :values.",
     "required_if": "Sehemu ya kipengele inahitajika wakati :other ni :value.",
+    "required_if_accepted": "Sehemu ya :attribute inahitajika wakati :other inakubaliwa.",
     "required_unless": "Sehemu ya kipengele inahitajika isipokuwa :other ni katika :values.",
     "required_with": "Sehemu ya kipengele inahitajika wakati :values vipo.",
     "required_with_all": "Sehemu ya kipengele inahitajika wakati :values vipo.",
@@ -116,6 +118,7 @@
     "token": "Huu ufufuzi wa nenosiri si halali.",
     "unique": "Kipengele tayari kimechukuliwa.",
     "uploaded": ":Attribute imeshindwa kupakia.",
+    "uppercase": ":Attribute ni lazima iwe ya herufi kubwa.",
     "url": "Muundo wa kipengele si halali.",
     "user": "Hatupati mtumiaji wa anuani hii ya barua pepe.",
     "uuid": ":Attribute inapaswa kuwa UUID yako."

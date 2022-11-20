@@ -51,6 +51,7 @@
     "ipv4": "必須是一個有效的 IPv4 地址。",
     "ipv6": "必須是一個有效的 IPv6 地址。",
     "json": "必須是正確的 JSON 格式。",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "必須少於 :value 個項目。",
     "lt.file": "必須小於 :value KB。",
     "lt.numeric": "必須小於 :value。",
@@ -91,6 +92,7 @@
     "required": "不能留空。",
     "required_array_keys": "必須包含指定的鍵：:values。",
     "required_if": "當 :other 是 :value 時 不能留空。",
+    "required_if_accepted": "This field is required when :other is accepted.",
     "required_unless": "當 :other 不是 :values 時 不能留空。",
     "required_with": "當 :values 出現時 不能留空。",
     "required_with_all": "當 :values 出現時 不能留空。",
@@ -106,6 +108,7 @@
     "timezone": "必須是一個正確的時區值。",
     "unique": "已經存在。",
     "uploaded": "上傳失敗。",
+    "uppercase": "This field must be uppercase.",
     "url": "的格式錯誤。",
     "uuid": "必須是有效的 UUID。"
 }

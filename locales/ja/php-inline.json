@@ -51,6 +51,7 @@
     "ipv4": "有効なIPv4アドレスである必要があります。",
     "ipv6": "有効なIPv6アドレスである必要があります。",
     "json": "有効なJSON文字列である必要があります。",
+    "lowercase": "小文字で入力してください。",
     "lt.array": ":Value 個より少なくなければいけません。",
     "lt.file": "ファイルサイズが :value KBより小さくなければいけません。",
     "lt.numeric": ":Value より小さくなければいけません。",
@@ -91,6 +92,7 @@
     "required": "この項目は必須です。",
     "required_array_keys": ":Valuesのエントリを含める必要があります。",
     "required_if": ":Otherが:valueの場合、この項目は必須です。",
+    "required_if_accepted": ":Otherを承認した場合、この項目は必須です。",
     "required_unless": ":Otherが:valuesでない限り、この項目は必須です。",
     "required_with": ":Valuesが存在する場合、この項目は必須です。",
     "required_with_all": ":Valuesが存在する場合、この項目は必須です。",
@@ -106,6 +108,7 @@
     "timezone": "有効なタイムゾーンである必要があります。",
     "unique": "既に使用されています。",
     "uploaded": "アップロードに失敗しました。",
+    "uppercase": "This field must be uppercase.",
     "url": "有効なURL形式を指定する必要があります。",
     "uuid": "有効なUUIDである必要があります。"
 }

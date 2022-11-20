@@ -51,6 +51,7 @@
     "ipv4": "Isian ini harus berisi alamat IPv4 yang valid.",
     "ipv6": "Isian ini harus berisi alamat IPv6 yang valid.",
     "json": "Isian ini harus berisi string JSON yang valid.",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "Panjang array harus kurang dari :value item.",
     "lt.file": "Ukuran konten harus berisi kurang dari :value kilobyte.",
     "lt.numeric": "Nilai harus berisi kurang dari :value.",
@@ -91,6 +92,7 @@
     "required": "Isian ini wajib diisi",
     "required_array_keys": "Isian ini wajib berisi entri untuk: :values",
     "required_if": "Isian ini wajib diisi bila :other adalah :value.",
+    "required_if_accepted": "Isian ini wajib diisibila :other sesuai.",
     "required_unless": "Isian ini wajib diisi jika :other berada dalam :values.",
     "required_with": "Isian ini wajib diisi bila :values tersedia.",
     "required_with_all": "Isian ini wajib diisi bila :values tersedia.",
@@ -106,6 +108,7 @@
     "timezone": "Isian ini harus berisi zona waktu yang valid.",
     "unique": "Isian ini sudah ada sebelumnya.",
     "uploaded": "Berkas gagal diunggah.",
+    "uppercase": "This field must be uppercase.",
     "url": "Format ini tidak valid.",
     "uuid": "Isian ini harus merupakan UUID yang valid."
 }

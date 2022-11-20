@@ -53,6 +53,7 @@
     "ipv4": "يجب أن يكون حقل :attribute عنوان IPv4 صحيحًا.",
     "ipv6": "يجب أن يكون حقل :attribute عنوان IPv6 صحيحًا.",
     "json": "يجب أن يكون حقل :attribute نصًا من نوع JSON.",
+    "lowercase": "يجب أن يحتوي الحقل :attribute على حروف صغيرة.",
     "lt.array": "يجب أن يحتوي حقل :attribute على أقل من :value عناصر/عنصر.",
     "lt.file": "يجب أن يكون حجم ملف حقل :attribute أصغر من :value كيلوبايت.",
     "lt.numeric": "يجب أن تكون قيمة حقل :attribute أصغر من :value.",
@@ -96,6 +97,7 @@
     "required": "حقل :attribute مطلوب.",
     "required_array_keys": "الحقل :attribute يجب أن يحتوي على مدخلات لـ: :values.",
     "required_if": "حقل :attribute مطلوب في حال ما إذا كان :other يساوي :value.",
+    "required_if_accepted": "الحقل :attribute مطلوب عند قبول الحقل :other.",
     "required_unless": "حقل :attribute مطلوب في حال ما لم يكن :other يساوي :values.",
     "required_with": "حقل :attribute مطلوب إذا توفّر :values.",
     "required_with_all": "حقل :attribute مطلوب إذا توفّر :values.",
@@ -116,6 +118,7 @@
     "token": "رمز استعادة كلمة المرور الذي أدخلته غير صحيح.",
     "unique": "قيمة حقل :attribute مُستخدمة من قبل.",
     "uploaded": "فشل في تحميل الـ :attribute.",
+    "uppercase": "يجب أن يحتوي الحقل :attribute على حروف كبيرة.",
     "url": "صيغة رابط حقل :attribute غير صحيحة.",
     "user": "لم يتم العثور على أيّ حسابٍ بهذا العنوان الإلكتروني.",
     "uuid": "حقل :attribute يجب أن يكون بصيغة UUID سليمة."

@@ -53,6 +53,7 @@
     "ipv4": ":Attribute muss eine gültige IPv4-Adresse sein.",
     "ipv6": ":Attribute muss eine gültige IPv6-Adresse sein.",
     "json": ":Attribute muss ein gültiger JSON-String sein.",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": ":Attribute muss kleiner :value Elemente haben.",
     "lt.file": ":Attribute muss kleiner :value Kilobytes gross sein.",
     "lt.numeric": ":Attribute muss kleiner :value sein.",
@@ -96,6 +97,7 @@
     "required": ":Attribute muss ausgefüllt sein.",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": ":Attribute muss ausgefüllt sein, wenn :other :value ist.",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": ":Attribute muss ausgefüllt sein, wenn :other nicht :values ist.",
     "required_with": ":Attribute muss angegeben werden, wenn :values ausgefüllt wurde.",
     "required_with_all": ":Attribute muss angegeben werden, wenn :values ausgefüllt wurde.",
@@ -116,6 +118,7 @@
     "token": "Der Passwort-Wiederherstellungs-Schlüssel ist ungültig oder abgelaufen.",
     "unique": ":Attribute ist schon vergeben.",
     "uploaded": ":Attribute konnte nicht hochgeladen werden.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": ":Attribute muss eine URL sein.",
     "user": "Es konnte leider kein Nutzer mit dieser E-Mail-Adresse gefunden werden.",
     "uuid": ":Attribute muss ein UUID sein."

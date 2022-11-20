@@ -53,6 +53,7 @@
     "ipv4": ":Attribute դաշտը պետք է լինի վավեր IPv4 հասցե։",
     "ipv6": ":Attribute դաշտը պետք է լինի վավեր IPv6 հասցե։",
     "json": ":Attribute դաշտը պետք է լինի վավեր JSON տեքստ։",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": ":Attribute դաշտում էլեմենտների քանակը պետք է փոքր լինի :value-ից։",
     "lt.file": ":Attribute դաշտի ֆայլի չափը պետք է փոքր լինի :value կիլոբայթից։",
     "lt.numeric": ":Attribute դաշտը պետք է փոքր լինի :value-ից։",
@@ -96,6 +97,7 @@
     "required": ":Attribute դաշտը պարտադիր է։",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": ":Attribute դաշտը պարտադիր է երբ :other-ը հավասար է :value։",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": ":Attribute դաշտը պարտադիր է քանի դեռ :other-ը հավասար չէ :values։",
     "required_with": ":Attribute դաշտը պարտադիր է երբ :values արժեքն առկա է։",
     "required_with_all": ":Attribute դաշտը պարտադիր է երբ :values արժեքները առկա են։",
@@ -116,6 +118,7 @@
     "token": "Գաղտնաբառի վերականգնման կոդը սխալ է։",
     "unique": ":Attribute-ի տվյալ արժեքն արդեն գոյություն ունի։",
     "uploaded": ":Attribute-ի վերբեռնումը ձախողվել է։",
+    "uppercase": "The :attribute must be uppercase.",
     "url": ":Attribute դաշտի ձևաչափը սխալ է։",
     "user": "Տվյալ Էլ․ հասցեով օգտատեր չի գտնվել։",
     "uuid": ":Attribute դաշտը պետք է լինի վավեր UUID։"

@@ -51,6 +51,7 @@
     "ipv4": "Ito ay dapat na isang wastong address ng Ipb4.",
     "ipv6": "Ito ay dapat na isang wastong Ipbagong address.",
     "json": "Ito ay dapat na isang wastong HSON string.",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "The content must have less than :value items.",
     "lt.file": "The file size must be less than :value kilobytes.",
     "lt.numeric": "The value must be less than :value.",
@@ -91,6 +92,7 @@
     "required": "Ang patlang na ito ay kinakailangan.",
     "required_array_keys": "This field must contain entries for: :values.",
     "required_if": "Ang patlang na ito ay kinakailangan kapag :other ay :value.",
+    "required_if_accepted": "This field is required when :other is accepted.",
     "required_unless": "Ang patlang na ito ay kinakailangan maliban kung :other ay nasa :values.",
     "required_with": "Ang patlang na ito ay kinakailangan kapag :values ay naroroon.",
     "required_with_all": "Ang patlang na ito ay kinakailangan kapag :values ay naroroon.",
@@ -106,6 +108,7 @@
     "timezone": "Ito ay dapat isang wastong Sona.",
     "unique": "Ito ay nai-kinuha.",
     "uploaded": "Ito ay nabigo upang i-upload.",
+    "uppercase": "This field must be uppercase.",
     "url": "Hindi balido ang pormat na ito.",
     "uuid": "Ito ay dapat na isang wastong UUID."
 }

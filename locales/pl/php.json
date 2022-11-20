@@ -53,6 +53,7 @@
     "ipv4": "Pole :attribute musi być prawidłowym adresem IPv4.",
     "ipv6": "Pole :attribute musi być prawidłowym adresem IPv6.",
     "json": "Pole :attribute musi być poprawnym ciągiem znaków JSON.",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": "Pole :attribute musi mieć mniej niż :value elementów.",
     "lt.file": "Pole :attribute musi być mniejsze niż :value kilobajtów.",
     "lt.numeric": "Pole :attribute musi być mniejsze niż :value.",
@@ -96,6 +97,7 @@
     "required": "Pole :attribute jest wymagane.",
     "required_array_keys": "Pole :attribute musi zawierać wartości: :values.",
     "required_if": "Pole :attribute jest wymagane gdy :other ma wartość :value.",
+    "required_if_accepted": "To pole jest wymagane gdy :other jest zaakceptowane.",
     "required_unless": "Pole :attribute jest wymagane jeżeli :other nie znajduje się w :values.",
     "required_with": "Pole :attribute jest wymagane gdy :values jest obecny.",
     "required_with_all": "Pole :attribute jest wymagane gdy wszystkie :values są obecne.",
@@ -116,6 +118,7 @@
     "token": "Token resetowania hasła jest nieprawidłowy.",
     "unique": "Taki :attribute już występuje.",
     "uploaded": "Nie udało się wgrać pliku :attribute.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": "Format pola :attribute jest nieprawidłowy.",
     "user": "Nie znaleziono użytkownika z takim adresem e-mail.",
     "uuid": "Pole :attribute musi być poprawnym identyfikatorem UUID."

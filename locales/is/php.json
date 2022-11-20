@@ -53,6 +53,7 @@
     "ipv4": ":Attribute verður að vera gild IPv4-tala.",
     "ipv6": ":Attribute verður að vera gild IPv6-tala.",
     "json": ":Attribute verður að vera gildur JSON-strengur.",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": ":Attribute verður að hafa færri en :value atriði.",
     "lt.file": ":Attribute verður að vera minni en :value kílóbæti.",
     "lt.numeric": ":Attribute verður að vera minni en :value.",
@@ -96,6 +97,7 @@
     "required": "Reiturinn :attribute er nauðsynlegur.",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": "Reiturinn :attribute er nauðsynlegur þegar :other er :value.",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": ":Attribute er áskilinn nema :other sé í :values.",
     "required_with": ":Attribute er áskilinn þegar :values er til staðar.",
     "required_with_all": ":Attribute er áskilinn þegar :values er til staðar.",
@@ -116,6 +118,7 @@
     "token": "Kóðinn til að endurheimta lykilorðið er rangur.",
     "unique": "Reiturinn :attribute er því miður ekki leyfilegur. Það er annar eins.",
     "uploaded": "Ekki tókst að hlaða :attribute upp.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": "Reiturinn :attribute verður að vera netslóð.",
     "user": "Notandi með þetta netfang finnst ekki.",
     "uuid": ":Attribute verður að vera gilt UUID."

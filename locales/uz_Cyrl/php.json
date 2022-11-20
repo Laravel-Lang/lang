@@ -53,6 +53,7 @@
     "ipv4": ":Attribute ҳақиқий IPv4 манзил бўлиши керак.",
     "ipv6": ":Attribute ҳақиқий IPv6 манзил бўлиши керак.",
     "json": ":Attribute JSON қатори бўлиши керак.",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": ":Attribute даги элементлар сони :value дан кичик бўлиши керак.",
     "lt.file": ":Attribute даги файл ҳажми :value килобайтдан кичик бўлиши керак.",
     "lt.numeric": ":Attribute майдони :value дан кичик бўлиши керак.",
@@ -96,6 +97,7 @@
     "required": ":Attribute майдони тўлдирилиши шарт.",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": ":Other майдони :value га тенг бўлса, :attribute майдони тўлдирилиши шарт.",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": ":Other майдони :values га тенг бўлмаса, :attribute майдони тўлдирилиши шарт.",
     "required_with": ":Values кўрсатилган бўлса, :attribute майдони тўлдирилиши шарт.",
     "required_with_all": ":Values кўрсатилган бўлса, :attribute майдони тўлдирилиши шарт.",
@@ -116,6 +118,7 @@
     "token": "Ушбу паролни қайта тиклаш коди нотўғри.",
     "unique": ":Attribute майдонининг бундай қиймати мавжуд. Илтимос бошқа қиймат киритинг.",
     "uploaded": ":Attribute ни юклаш муваффақиятли амалга ошмади.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": ":Attribute нотўғри форматга эга.",
     "user": "Ушбу электрон почта манзилига эга фойдаланувчи топилмади.",
     "uuid": ":Attribute тўғри UUID қийматга эга бўлиши керак."

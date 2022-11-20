@@ -53,6 +53,7 @@
     "ipv4": "Το πεδίο :attribute πρέπει να είναι μία έγκυρη διεύθυνση IPv4.",
     "ipv6": "Το πεδίο :attribute πρέπει να είναι μία έγκυρη διεύθυνση IPv6.",
     "json": "Το πεδίο :attribute πρέπει να είναι μία έγκυρη συμβολοσειρά JSON.",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": "To πεδίο :attribute πρέπει να έχει λιγότερα από :value αντικείμενα.",
     "lt.file": "To πεδίο :attribute πρέπει να είναι μικρότερo από :value kilobytes.",
     "lt.numeric": "To πεδίο :attribute πρέπει να είναι μικρότερo από :value.",
@@ -96,6 +97,7 @@
     "required": "Το πεδίο :attribute είναι απαραίτητο.",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": "Το πεδίο :attribute είναι απαραίτητο όταν το πεδίο :other είναι :value.",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": "Το πεδίο :attribute είναι απαραίτητο εκτός αν το πεδίο :other εμπεριέχει :values.",
     "required_with": "Το πεδίο :attribute είναι απαραίτητο όταν υπάρχει :values.",
     "required_with_all": "Το πεδίο :attribute είναι απαραίτητο όταν υπάρχουν :values.",
@@ -116,6 +118,7 @@
     "token": "Το κλειδί αρχικοποίησης του συνθηματικού δεν είναι έγκυρο.",
     "unique": "Το πεδίο :attribute έχει ήδη εκχωρηθεί.",
     "uploaded": "Η μεταφόρτωση του πεδίου :attribute απέτυχε.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": "Το πεδίο :attribute δεν είναι έγκυρη διεύθυνση URL.",
     "user": "Δεν βρέθηκε χρήστης με το συγκεκριμένο email.",
     "uuid": "Το πεδίο :attribute πρέπει να είναι έγκυρο UUID."

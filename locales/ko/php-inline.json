@@ -51,6 +51,7 @@
     "ipv4": "유효한 IPv4 주소여야 합니다.",
     "ipv6": "유효한 IPv6 주소여야 합니다.",
     "json": "JSON 문자열이어야 합니다.",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "이 배열의 항목 수는 :value개 보다 작아야 합니다.",
     "lt.file": "이 파일의 용량은 :value킬로바이트보다 작아야 합니다.",
     "lt.numeric": "이 값은 :value보다 작아야 합니다.",
@@ -91,6 +92,7 @@
     "required": "이 필드는 필수입니다.",
     "required_array_keys": "This field must contain entries for: :values.",
     "required_if": ":Other이(가) :value 일 때 이 필드는 필수입니다.",
+    "required_if_accepted": "This field is required when :other is accepted.",
     "required_unless": ":Other이(가) :values에 없다면 이 필드는 필수입니다.",
     "required_with": ":Values이(가) 있는 경우이 필드는 필수입니다.",
     "required_with_all": ":Values이(가) 모두 있는 경우 이 필드는 필수입니다.",
@@ -106,6 +108,7 @@
     "timezone": "올바른 시간대 이어야 합니다.",
     "unique": "이미 사용 중입니다.",
     "uploaded": "업로드하지 못했습니다.",
+    "uppercase": "This field must be uppercase.",
     "url": "형식이 올바르지 않습니다.",
     "uuid": "유효한UUID여야합니다."
 }

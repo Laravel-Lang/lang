@@ -53,6 +53,7 @@
     "ipv4": ":Attribute માન્ય IPv4 address હોવું જોઈએ.",
     "ipv6": ":Attribute માન્ય IPv6 address હોવું જોઈએ.",
     "json": ":Attribute માન્ય JSON શબ્દમાળા હોવી જોઈએ.",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": ":Attribute ઓછું હોવું જોઈએ :value વસ્તુઓ.",
     "lt.file": ":Attribute ઓછું હોવું જોઈએ :value કિલો બાઇટ્સ.",
     "lt.numeric": ":Attribute ઓછું હોવું જોઈએ :value.",
@@ -96,6 +97,7 @@
     "required": ":Attribute પ્રવૃત્તિ ક્ષેત્ર આવશ્યક છે.",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": ":Attribute પ્રવૃત્તિ ક્ષેત્ર આવશ્યક છે જ્યારે :other છે :value.",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": ":Attribute પ્રવૃત્તિ ક્ષેત્ર આવશ્યક છે સિવાય :other માં છે :values.",
     "required_with": ":Attribute પ્રવૃત્તિ ક્ષેત્ર આવશ્યક છે જ્યારે :values હાજર હોય.",
     "required_with_all": ":Attribute પ્રવૃત્તિ ક્ષેત્ર આવશ્યક છે જ્યારે :values હાજર હોય.",
@@ -116,6 +118,7 @@
     "token": "પાસવર્ડ બદલવા માટેનું આ ચિહ્ન અમાન્ય છે.",
     "unique": ":Attribute પહેલેથી લઈ લેવામાં આવેલ છે.",
     "uploaded": ":Attribute અપલોડ થવામાં નિષ્ફળ.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": ":Attribute ગોઠવણ અમાન્ય છે.",
     "user": "આ ઈમેઈલ એડ્રેસ સાથે અમે વપરાશ કર્તાને શોધી શકતા નથી.",
     "uuid": ":Attribute માન્ય UUID હોવું જોઈએ."

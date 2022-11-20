@@ -53,6 +53,7 @@
     "ipv4": ":Attribute нь хүчинтэй ЦТ 4-р хаяг байх естой.",
     "ipv6": ":Attribute нь хүчин төгөлдөр Атв6 хаяг байх естой.",
     "json": ":Attribute талбарт зөв JSON тэмдэгт мөр оруулах шаардлагатай.",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": "The :attribute must have less than :value items.",
     "lt.file": "The :attribute must be less than :value kilobytes.",
     "lt.numeric": "The :attribute must be less than :value.",
@@ -96,6 +97,7 @@
     "required": ":Attribute талбар шаардлагатай.",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": "Хэрэв :other :value бол :attribute табларт утга оруулах шаардлагатай.",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": ":Other :values дотор байхгүй бол :attribute талбарт утга оруулах шаардлагатай.",
     "required_with": ":Values утгуудийн аль нэг байвал :attribute талбар шаардлагатай.",
     "required_with_all": ":Values утгууд байвал :attribute талбар шаардлагатай.",
@@ -116,6 +118,7 @@
     "token": "Алдаатай нууц үг сэргээх холбоос.",
     "unique": "Оруулсан :attribute аль хэдий нь бүртгэгдсэн байна.",
     "uploaded": ":Attribute талбарт оруулсан файлыг хуулхад алдаа гарлаа.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": ":Attribute зөв url хаяг оруулна уу.",
     "user": "Ийм и-мэйл хаягтай хэрэглэгч олдсонгүй.",
     "uuid": ":Attribute хүчин төгөлдөр хуучин төгөлдөр улс байх естой."

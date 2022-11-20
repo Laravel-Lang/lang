@@ -53,6 +53,7 @@
     "ipv4": ":Attribute deve essere un indirizzo IPv4 valido.",
     "ipv6": ":Attribute deve essere un indirizzo IPv6 valido.",
     "json": ":Attribute deve essere una stringa JSON valida.",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": ":Attribute deve contenere meno di :value elementi.",
     "lt.file": ":Attribute deve essere minore di :value kilobyte.",
     "lt.numeric": ":Attribute deve essere minore di :value.",
@@ -96,6 +97,7 @@
     "required": "Il campo :attribute è richiesto.",
     "required_array_keys": "Il campo :attribute deve contenere voci per: :values.",
     "required_if": "Il campo :attribute è richiesto quando :other è :value.",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": "Il campo :attribute è richiesto a meno che :other sia in :values.",
     "required_with": "Il campo :attribute è richiesto quando :values è presente.",
     "required_with_all": "Il campo :attribute è richiesto quando :values sono presenti.",
@@ -116,6 +118,7 @@
     "token": "Questo token di reset della password non è valido.",
     "unique": ":Attribute è stato già utilizzato.",
     "uploaded": ":Attribute non è stato caricato.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": "Il formato del campo :attribute non è valido.",
     "user": "Non riusciamo a trovare un utente con questo indirizzo email.",
     "uuid": ":Attribute deve essere un UUID valido."

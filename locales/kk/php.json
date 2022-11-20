@@ -53,6 +53,7 @@
     "ipv4": ":Attribute жарамды IPv4 мекенжайы болуы керек.",
     "ipv6": ":Attribute жарамды IPv6 мекенжайы болуы керек.",
     "json": ":Attribute жарамды JSON тармағы болуы керек.",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": ":Attribute мәні :value элементтерден кіші болуы керек.",
     "lt.file": ":Attribute файл өлшемі :value килобайттан кіші болуы керек.",
     "lt.numeric": ":Attribute мәні :value кіші болуы керек.",
@@ -96,6 +97,7 @@
     "required": ":Attribute жолы толтырылуы керек.",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": ":Attribute жолы :other мәні :value болған кезде толтырылуы керек.",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": ":Attribute жолы :other мәні :values ішінде болмағанда толтырылуы керек.",
     "required_with": ":Attribute жолы :values болғанда толтырылуы керек.",
     "required_with_all": ":Attribute жолы :values болғанда толтырылуы керек.",
@@ -116,6 +118,7 @@
     "token": "Осы құпиясөзді қайта орнату таңбалауышы жарамсыз.",
     "unique": ":Attribute бұрын алынған.",
     "uploaded": ":Attribute жүктелуі сәтсіз аяқталды.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": ":Attribute пішімі жарамсыз.",
     "user": "Бұл электрондық поштамен ешбір пайдаланушыны таба алмадық.",
     "uuid": ":Attribute мәні жарамды UUID болуы керек."

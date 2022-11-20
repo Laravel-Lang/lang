@@ -53,6 +53,7 @@
     "ipv4": ":Attribute skal vere ei gyldig IPv4-adresse.",
     "ipv6": ":Attribute skal vere ei gyldig IPv6-adresse.",
     "json": ":Attribute må vere på JSON-format.",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": ":Attribute må ha færre enn :value element.",
     "lt.file": ":Attribute må vere mindre enn :value kilobyte.",
     "lt.numeric": ":Attribute må vere mindre enn :value.",
@@ -96,6 +97,7 @@
     "required": ":Attribute må fyllast ut.",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": ":Attribute må fyllast ut når :other er :value.",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": ":Attribute må vere til stades viss ikkje :other finnas hjå verdiene :values.",
     "required_with": ":Attribute må fyllast ut når :values er fylt ut.",
     "required_with_all": ":Attribute må vere til stades når :values er oppgjeve.",
@@ -116,6 +118,7 @@
     "token": "Koden for å nullstille passord er ikkje gyldig.",
     "unique": ":Attribute er allereie i bruk.",
     "uploaded": ":Attribute kunne ikkje lastast opp.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": "Formatet på :attribute er ugyldig.",
     "user": "Vi finn ingen brukarar med denne e-postadressen.",
     "uuid": ":Attribute må vere ein gyldig UUID."

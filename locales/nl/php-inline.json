@@ -51,6 +51,7 @@
     "ipv4": "Dit moet een geldig IPv4-adres zijn.",
     "ipv6": "Dit moet een geldig IPv6-adres zijn.",
     "json": "Dit moet een geldige JSON-string zijn.",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "De inhoud moet minder dan :value waardes bevatten.",
     "lt.file": "Het bestand moet kleiner zijn dan :value kilobytes.",
     "lt.numeric": "De waarde moet kleiner zijn dan :value.",
@@ -91,6 +92,7 @@
     "required": "Dit veld is verplicht.",
     "required_array_keys": "Dit veld moet waardes bevatten voor :values.",
     "required_if": "Dit veld is verplicht indien :other gelijk is aan :value.",
+    "required_if_accepted": "This field is required when :other is accepted.",
     "required_unless": "Dit veld is verplicht tenzij :other gelijk is aan :values.",
     "required_with": "Dit veld is verplicht i.c.m. :values",
     "required_with_all": "Dit veld is verplicht i.c.m. :values",
@@ -106,6 +108,7 @@
     "timezone": "Dit moet een geldige tijdzone zijn.",
     "unique": "Deze is al in gebruik",
     "uploaded": "Het uploaden hiervan is mislukt.",
+    "uppercase": "This field must be uppercase.",
     "url": "Dit moet een geldige URL zijn.",
     "uuid": "Dit moet een geldige UUID zijn."
 }

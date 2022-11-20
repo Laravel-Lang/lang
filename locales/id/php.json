@@ -53,6 +53,7 @@
     "ipv4": ":Attribute harus berupa alamat IPv4 yang valid.",
     "ipv6": ":Attribute harus berupa alamat IPv6 yang valid.",
     "json": ":Attribute harus berupa JSON string yang valid.",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": ":Attribute harus memiliki kurang dari :value anggota.",
     "lt.file": ":Attribute harus berukuran kurang dari :value kilobita.",
     "lt.numeric": ":Attribute harus bernilai kurang dari :value.",
@@ -96,6 +97,7 @@
     "required": ":Attribute wajib diisi.",
     "required_array_keys": ":Attribute wajib berisi entri untuk: :values.",
     "required_if": ":Attribute wajib diisi bila :other adalah :value.",
+    "required_if_accepted": ":Attribute wajib diisi bila :other sesuai.",
     "required_unless": ":Attribute wajib diisi kecuali :other memiliki nilai :values.",
     "required_with": ":Attribute wajib diisi bila terdapat :values.",
     "required_with_all": ":Attribute wajib diisi bila terdapat :values.",
@@ -116,6 +118,7 @@
     "token": "Token pengaturan ulang kata sandi tidak sah.",
     "unique": ":Attribute sudah ada sebelumnya.",
     "uploaded": ":Attribute gagal diunggah.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": "Format :attribute tidak valid.",
     "user": "Kami tidak dapat menemukan pengguna dengan alamat surel tersebut.",
     "uuid": ":Attribute harus merupakan UUID yang valid."

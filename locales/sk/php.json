@@ -53,6 +53,7 @@
     "ipv4": ":Attribute musí byť platná IPv4 adresa.",
     "ipv6": ":Attribute musí byť platná IPv6 adresa.",
     "json": ":Attribute musí byť platný JSON reťazec.",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": ":Attribute musí mať menej prvkov ako :value.",
     "lt.file": ":Attribute musí mať menej kilobajtov ako :value.",
     "lt.numeric": "Hodnota :attribute musí byť menšia ako :value.",
@@ -96,6 +97,7 @@
     "required": ":Attribute je požadované.",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": ":Attribute je požadované keď :other je :value.",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": ":Attribute je požadované, okrem prípadu keď :other je v :values.",
     "required_with": ":Attribute je požadované keď :values je prítomné.",
     "required_with_all": ":Attribute je požadované ak :values je nastavené.",
@@ -116,6 +118,7 @@
     "token": "Klúč pre obnovu hesla je neplatný.",
     "unique": ":Attribute už existuje.",
     "uploaded": "Nepodarilo sa nahrať :attribute.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": ":Attribute musí mať formát URL.",
     "user": "Nepodarilo sa nájsť používateľa s touto e-mailovou adresou.",
     "uuid": ":Attribute musí byť platné UUID."

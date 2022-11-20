@@ -53,6 +53,7 @@
     "ipv4": "O campo :attribute deve conter um IPv4 válido.",
     "ipv6": "O campo :attribute deve conter um IPv6 válido.",
     "json": "O campo :attribute deve conter uma string JSON válida.",
+    "lowercase": "O :attribute deve ser minúsculo.",
     "lt.array": "O campo :attribute deve ter menos que :value itens.",
     "lt.file": "O arquivo :attribute ser menor que :value kilobytes.",
     "lt.numeric": "O campo :attribute deve ser menor que :value.",
@@ -96,6 +97,7 @@
     "required": "O campo :attribute é obrigatório.",
     "required_array_keys": "O campo :attribute deve conter entradas para: :values",
     "required_if": "O campo :attribute é obrigatório quando o valor do campo :other é igual a :value.",
+    "required_if_accepted": "O campo :attribute é obrigatório quando :other é aceito.",
     "required_unless": "O campo :attribute é obrigatório a menos que :other esteja presente em :values.",
     "required_with": "O campo :attribute é obrigatório quando :values está presente.",
     "required_with_all": "O campo :attribute é obrigatório quando um dos :values está presente.",
@@ -116,6 +118,7 @@
     "token": "Esse código de redefinição de senha é inválido.",
     "unique": "O valor informado para o campo :attribute já está em uso.",
     "uploaded": "Falha no Upload do arquivo :attribute.",
+    "uppercase": "O :attribute deve ser maiúsculo.",
     "url": "O formato da URL informada para o campo :attribute é inválido.",
     "user": "Não conseguimos encontrar nenhum usuário com o endereço de e-mail informado.",
     "uuid": "O campo :attribute deve ser um UUID válido."

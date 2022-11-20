@@ -53,6 +53,7 @@
     "ipv4": ":Attribute ត្រូវតែជា IPv4 address ត្រឹមត្រូវ។",
     "ipv6": ":Attribute ត្រូវតែជា IPv6 address ត្រឹមត្រូវ។",
     "json": ":Attribute ត្រូវតែជា JSON string ត្រឹមត្រូវ។",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": ":Attribute ត្រូវតែមានចំនួនតិចជាង :value។",
     "lt.file": ":Attribute ត្រូវតែតិចជាង :value គីឡូបៃ។",
     "lt.numeric": ":Attribute ត្រូវតែតិចជាង :value។",
@@ -96,6 +97,7 @@
     "required": ":Attribute នេះគឺទាមទារឲ្យមាន។",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": ":Attribute នេះគឺទាមទារនៅពេល :other គឺ :value។",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": ":Attribute នេះគឺទាមទារនៅពេល :other មិនមែន :values។",
     "required_with": ":Attribute នេះគឺទាមទារនៅពេល :values មាន។",
     "required_with_all": ":Attribute នេះគឺទាមទារនៅពេល :values មាន។",
@@ -116,6 +118,7 @@
     "token": "ពាក្យសម្ងាត់ដែលកំណត់ឡើងវិញគឺមិនត្រឹមត្រូវទេ។",
     "unique": ":Attribute ត្រូវបានប្រើរួចហើយ។",
     "uploaded": ":Attribute បរាជ័យក្នុងការបញ្ចូល។",
+    "uppercase": "The :attribute must be uppercase.",
     "url": ":Attribute ទម្រង់ត្រឹមត្រូវ។",
     "user": "យើងមិនអាចរកឃើញអ្នកប្រើដែលមានអាសយដ្ឋានអ៊ីមែលមួយនេះទេ។",
     "uuid": ":Attribute ត្រូវតែជាទម្រង់ UUID។"

@@ -51,6 +51,7 @@
     "ipv4": "Bu etibarlı IPv4 ünvanı olmalıdır.",
     "ipv6": "Bu etibarlı IPv6 ünvanı olmalıdır.",
     "json": "Bu caiz string JSON olmalıdır edir.",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "Məzmun :value elementlərindən az olmalıdır.",
     "lt.file": "Fayl ölçüsü :value kilobaytdan kiçik olmalıdır.",
     "lt.numeric": "Dəyər :value kiçik olmalıdır.",
@@ -91,6 +92,7 @@
     "required": "Bu sahədə məcburidir.",
     "required_array_keys": "Bu sahədə aşağıdakılar üçün qeydlər olmalıdır: :values.",
     "required_if": ":Other :value olduğu təqdirdə bu sahə məcburidir.",
+    "required_if_accepted": "Bu sahə :other qəbul edildikdə tələb olunur.",
     "required_unless": "Yalnız :other :values deyil, bu sahədə bir olmalıdır edir.",
     "required_with": "Bu sahə :values mövcud olduqda tələb olunur.",
     "required_with_all": ":Values olduqda bu sahə məcburidir.",
@@ -106,6 +108,7 @@
     "timezone": "Bu, imkan verilən zona olmalıdır.",
     "unique": "Bu, artıq görülüb.",
     "uploaded": "Bu yük bilmədi.",
+    "uppercase": "This field must be uppercase.",
     "url": "Bu format yolverilməzdir.",
     "uuid": "Bu etibarlı UUID olmalıdır."
 }

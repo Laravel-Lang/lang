@@ -53,6 +53,7 @@
     "ipv4": "Polje :attribute mora da bude ispravna IPv4 adresa.",
     "ipv6": "Polje :attribute mora da bude ispravna IPv6 adresa.",
     "json": "Polje :attribute mora da bude u JSON formatu.",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": "Niz :attribute mora da sadrži manje od :value stavki.",
     "lt.file": "Veličina dokumenta :attribute mora da bude manja od :value kb.",
     "lt.numeric": "Polje :attribute mora da bude manje od :value.",
@@ -96,6 +97,7 @@
     "required": "Morate da popunite polje :attribute.",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": "Morate da popunite polje :attribute jer polje :other sadrži :value.",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": "Morate da popunite polje :attribute, osim ako je :other sadržan u :values.",
     "required_with": "Morate da popunite polje :attribute sa poljima :values.",
     "required_with_all": "Morate da popunite polje :attribute sa poljima :values.",
@@ -116,6 +118,7 @@
     "token": "Link za resetovanje lozinke nije ispravan.",
     "unique": "Unijeta vrijednost za :attribute već postoji.",
     "uploaded": "Greška pri postavljanju dokumenata.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": "Polje :attribute nije link.",
     "user": "Nepostojeći korisnik.",
     "uuid": "Polje :attribute nije pretstavljen kao jedinstveni identifikator."

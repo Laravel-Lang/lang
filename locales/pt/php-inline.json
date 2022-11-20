@@ -51,6 +51,7 @@
     "ipv4": "Este deve ser um endereço IPv4 válido.",
     "ipv6": "Este deve ser um endereço IPv6 válido.",
     "json": "Essa deve ser uma cadeia de texto JSON válida.",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "O conteúdo deve ter menos de :value itens.",
     "lt.file": "O tamanho do ficheiro deve ser menor que :value kilobytes.",
     "lt.numeric": "O valor deve ser menor que :value.",
@@ -91,6 +92,7 @@
     "required": "Este campo é obrigatório.",
     "required_array_keys": "Este campo deve conter entradas para: :values",
     "required_if": "Este campo é obrigatório quando :other é :value.",
+    "required_if_accepted": "This field is required when :other is accepted.",
     "required_unless": "Este campo é obrigatório, a menos que :other esteja em :values.",
     "required_with": "Este campo é obrigatório quando :values estiverem presentes.",
     "required_with_all": "Este campo é obrigatório quando :values estão presentes.",
@@ -106,6 +108,7 @@
     "timezone": "Esta deve ser uma zona válida.",
     "unique": "Isso já foi utilizado.",
     "uploaded": "Falhou ao carregar.",
+    "uppercase": "This field must be uppercase.",
     "url": "Este formato é inválido.",
     "uuid": "Este deve ser um UUID válido."
 }

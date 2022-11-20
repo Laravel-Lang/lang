@@ -4,7 +4,7 @@ editLink: false
 
 # nn
 
-##### All missed: 794
+##### All missed: 812
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 722
+##### Missing: 734
 
 <table width="100%">
 <tr><th width="50%">
@@ -1312,6 +1312,15 @@ Choose File
 </td></tr>
 <tr><td width="50%">
 
+Choose Files
+
+</td><td width="50%">
+
+Choose Files
+
+</td></tr>
+<tr><td width="50%">
+
 Choose Type
 
 </td><td width="50%">
@@ -1915,6 +1924,24 @@ Download Receipt
 </td></tr>
 <tr><td width="50%">
 
+Drop file or click to choose
+
+</td><td width="50%">
+
+Drop file or click to choose
+
+</td></tr>
+<tr><td width="50%">
+
+Drop files or click to choose
+
+</td><td width="50%">
+
+Drop files or click to choose
+
+</td></tr>
+<tr><td width="50%">
+
 Ecuador
 
 </td><td width="50%">
@@ -2172,6 +2199,15 @@ Fiji
 </td><td width="50%">
 
 Fiji
+
+</td></tr>
+<tr><td width="50%">
+
+Filename
+
+</td><td width="50%">
+
+Filename
 
 </td></tr>
 <tr><td width="50%">
@@ -3814,6 +3850,15 @@ Once your account is deleted, all of its resources and data will be permanently 
 </td></tr>
 <tr><td width="50%">
 
+Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+
+</td><td width="50%">
+
+Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+
+</td></tr>
+<tr><td width="50%">
+
 Only Trashed
 
 </td><td width="50%">
@@ -4732,11 +4777,29 @@ Select All
 </td></tr>
 <tr><td width="50%">
 
+Select All Dropdown
+
+</td><td width="50%">
+
+Select All Dropdown
+
+</td></tr>
+<tr><td width="50%">
+
 Select All Matching
 
 </td><td width="50%">
 
 Select All Matching
+
+</td></tr>
+<tr><td width="50%">
+
+Select this page
+
+</td><td width="50%">
+
+Select this page
 
 </td></tr>
 <tr><td width="50%">
@@ -4872,6 +4935,15 @@ Slovenia
 </td><td width="50%">
 
 Slovenia
+
+</td></tr>
+<tr><td width="50%">
+
+Soft Deleted
+
+</td><td width="50%">
+
+Soft Deleted
 
 </td></tr>
 <tr><td width="50%">
@@ -5506,6 +5578,15 @@ The HasOne relationship has already been filled.
 </td></tr>
 <tr><td width="50%">
 
+The image could not be loaded
+
+</td><td width="50%">
+
+The image could not be loaded
+
+</td></tr>
+<tr><td width="50%">
+
 The password is incorrect.
 
 </td><td width="50%">
@@ -6055,6 +6136,15 @@ Two factor authentication is now enabled. Scan the following QR code using your 
 </td></tr>
 <tr><td width="50%">
 
+Type
+
+</td><td width="50%">
+
+Type
+
+</td></tr>
+<tr><td width="50%">
+
 Uganda
 
 </td><td width="50%">
@@ -6114,6 +6204,15 @@ United States Outlying Islands
 </td><td width="50%">
 
 U.S. Outlying Islands
+
+</td></tr>
+<tr><td width="50%">
+
+Unknown
+
+</td><td width="50%">
+
+Unknown
 
 </td></tr>
 <tr><td width="50%">
@@ -6577,6 +6676,15 @@ You may not leave a team that you created.
 </td></tr>
 <tr><td width="50%">
 
+You're logged in!
+
+</td><td width="50%">
+
+You're logged in!
+
+</td></tr>
+<tr><td width="50%">
+
 Your :invoiceName invoice is now available!
 
 </td><td width="50%">
@@ -6673,7 +6781,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 33
+##### Missing: 36
 
 <table width="100%">
 <tr><th width="50%">
@@ -6791,6 +6899,15 @@ filled
 </td><td width="50%">
 
 This field must have a value.
+
+</td></tr>
+<tr><td width="50%">
+
+lowercase
+
+</td><td width="50%">
+
+This field must be lowercase.
 
 </td></tr>
 <tr><td width="50%">
@@ -6939,6 +7056,15 @@ This field is required when :other is :value.
 </td></tr>
 <tr><td width="50%">
 
+required_if_accepted
+
+</td><td width="50%">
+
+This field is required when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
 required_unless
 
 </td><td width="50%">
@@ -6982,6 +7108,15 @@ required_without_all
 This field is required when none of :values are present.
 
 </td></tr>
+<tr><td width="50%">
+
+uppercase
+
+</td><td width="50%">
+
+This field must be uppercase.
+
+</td></tr>
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
@@ -6990,7 +7125,7 @@ This field is required when none of :values are present.
 
 ### php
 
-##### Missing: 25
+##### Missing: 28
 
 <table width="100%">
 <tr><th width="50%">
@@ -7072,6 +7207,15 @@ enum
 </td><td width="50%">
 
 The selected :attribute is invalid.
+
+</td></tr>
+<tr><td width="50%">
+
+lowercase
+
+</td><td width="50%">
+
+The :attribute must be lowercase.
 
 </td></tr>
 <tr><td width="50%">
@@ -7220,11 +7364,29 @@ The :attribute field must contain entries for: :values.
 </td></tr>
 <tr><td width="50%">
 
+required_if_accepted
+
+</td><td width="50%">
+
+The :attribute field is required when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
 throttled
 
 </td><td width="50%">
 
 Please wait before retrying.
+
+</td></tr>
+<tr><td width="50%">
+
+uppercase
+
+</td><td width="50%">
+
+The :attribute must be uppercase.
 
 </td></tr>
 </table>

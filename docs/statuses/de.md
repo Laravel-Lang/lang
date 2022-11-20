@@ -4,93 +4,10 @@ editLink: false
 
 # de
 
-##### All missed: 12
+##### All missed: 5
 
 
 ### json
-
-##### Missing: 7
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-(and :count more error)
-
-</td><td width="50%">
-
-(and :count more error)
-
-</td></tr>
-<tr><td width="50%">
-
-(and :count more errors)
-
-</td><td width="50%">
-
-(and :count more errors)
-
-</td></tr>
-<tr><td width="50%">
-
-From
-
-</td><td width="50%">
-
-From
-
-</td></tr>
-<tr><td width="50%">
-
-The action was executed successfully.
-
-</td><td width="50%">
-
-The action was executed successfully.
-
-</td></tr>
-<tr><td width="50%">
-
-The given data was invalid.
-
-</td><td width="50%">
-
-The given data was invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-The provided two factor recovery code was invalid.
-
-</td><td width="50%">
-
-The provided two factor recovery code was invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-To
-
-</td><td width="50%">
-
-To
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php-inline
 
 ##### Missing: 3
 
@@ -106,29 +23,29 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-doesnt_end_with
+Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
 
 </td><td width="50%">
 
-This field may not end with one of the following: :values.
+Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
 
 </td></tr>
 <tr><td width="50%">
 
-max_digits
+Soft Deleted
 
 </td><td width="50%">
 
-This field must not have more than :max digits.
+Soft Deleted
 
 </td></tr>
 <tr><td width="50%">
 
-min_digits
+You're logged in!
 
 </td><td width="50%">
 
-This field must have at least :min digits.
+You're logged in!
 
 </td></tr>
 </table>
@@ -137,9 +54,9 @@ This field must have at least :min digits.
 
 
 
-### php
+### php-inline
 
-##### Missing: 2
+##### Missing: 1
 
 <table width="100%">
 <tr><th width="50%">
@@ -153,20 +70,40 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-max_digits
+uppercase
 
 </td><td width="50%">
 
-The :attribute must not have more than :max digits.
+This field must be uppercase.
 
 </td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php
+
+##### Missing: 1
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
 <tr><td width="50%">
 
-min_digits
+uppercase
 
 </td><td width="50%">
 
-The :attribute must have at least :min digits.
+The :attribute must be uppercase.
 
 </td></tr>
 </table>

@@ -53,6 +53,7 @@
     "ipv4": "මෙම :attribute වලංගු IPv4 ලිපිනය විය යුතුය.",
     "ipv6": "මෙම :attribute වලංගු IPv6 ලිපිනය විය යුතුය.",
     "json": "මෙම :attribute වලංගු JSON පේළියක් විය යුතුය.",
+    "lowercase": "The :attribute must be lowercase.",
     "lt.array": "මෙම :attribute එක :value ට වඩා අඩු අයිතම ගණනක් විය යුතුය.",
     "lt.file": "මෙම :attribute එක :value ට වඩා අඩු කිලෝබයිට් ගණනක් විය යුතුය.",
     "lt.numeric": "මෙම :attribute එක :value ට වඩා අඩු අගයක් විය යුතුය.",
@@ -96,6 +97,7 @@
     "required": "මෙම :attribute ක්ෂේත්‍රයේ අවශ්‍යයි.",
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": ":Other, :value නම් පමණක් මෙම :attribute ක්ෂේත්‍රයේ අවශ්‍යයි.",
+    "required_if_accepted": "The :attribute field is required when :other is accepted.",
     "required_unless": ":Other, :value නොවන්නේ නම් පමණක් මෙම :attribute ක්ෂේත්‍රයේ අවශ්‍යයි.",
     "required_with": ":Values අගය පවතීනම් මෙම :attribute ක්ෂේත්‍රයේ අවශ්‍යයි.",
     "required_with_all": ":Values අගයන් පවතීනම් මෙම :attribute ක්ෂේත්‍රයේ අවශ්‍යයි.",
@@ -116,6 +118,7 @@
     "token": "මෙම මුරපද යළි පිහිටුවීමේ ටෝකනය වලංගු නොවේ.",
     "unique": "මෙම :attribute දැනටමත් අරගෙන තියෙන්නේ.",
     "uploaded": "මෙම :attribute අප්ලෝඩ් කිරීම අසාර්ථක විය.",
+    "uppercase": "The :attribute must be uppercase.",
     "url": "මෙම :attribute ආකෘතිය වලංගු නැත.",
     "user": "අපට එම විද්යුත් තැපැල් ලිපිනය සමඟ පරිශීලකයෙකු සොයා ගත නොහැක.",
     "uuid": "මෙම :attribute වලංගු UUID විය යුතුය."

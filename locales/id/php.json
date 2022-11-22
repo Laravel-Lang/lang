@@ -53,7 +53,7 @@
     "ipv4": ":Attribute harus berupa alamat IPv4 yang valid.",
     "ipv6": ":Attribute harus berupa alamat IPv6 yang valid.",
     "json": ":Attribute harus berupa JSON string yang valid.",
-    "lowercase": "The :attribute must be lowercase.",
+    "lowercase": ":Attribute harus berupa huruf kecil.",
     "lt.array": ":Attribute harus memiliki kurang dari :value anggota.",
     "lt.file": ":Attribute harus berukuran kurang dari :value kilobita.",
     "lt.numeric": ":Attribute harus bernilai kurang dari :value.",
@@ -118,7 +118,7 @@
     "token": "Token pengaturan ulang kata sandi tidak sah.",
     "unique": ":Attribute sudah ada sebelumnya.",
     "uploaded": ":Attribute gagal diunggah.",
-    "uppercase": "The :attribute must be uppercase.",
+    "uppercase": ":attribute harus berupa huruf kapital.",
     "url": "Format :attribute tidak valid.",
     "user": "Kami tidak dapat menemukan pengguna dengan alamat surel tersebut.",
     "uuid": ":Attribute harus merupakan UUID yang valid."

@@ -4,7 +4,7 @@ editLink: false
 
 # th
 
-##### All missed: 243
+##### All missed: 193
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 194
+##### Missing: 171
 
 <table width="100%">
 <tr><th width="50%">
@@ -169,78 +169,6 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-(and :count more error)
-
-</td><td width="50%">
-
-(and :count more error)
-
-</td></tr>
-<tr><td width="50%">
-
-(and :count more errors)
-
-</td><td width="50%">
-
-(and :count more errors)
-
-</td></tr>
-<tr><td width="50%">
-
-A fresh verification link has been sent to your email address.
-
-</td><td width="50%">
-
-A fresh verification link has been sent to your email address.
-
-</td></tr>
-<tr><td width="50%">
-
-A new verification link has been sent to the email address you provided in your profile settings.
-
-</td><td width="50%">
-
-A new verification link has been sent to the email address you provided in your profile settings.
-
-</td></tr>
-<tr><td width="50%">
-
-A new verification link has been sent to your email address.
-
-</td><td width="50%">
-
-A new verification link has been sent to your email address.
-
-</td></tr>
-<tr><td width="50%">
-
-Add VAT Number
-
-</td><td width="50%">
-
-Add VAT Number
-
-</td></tr>
-<tr><td width="50%">
-
-Address
-
-</td><td width="50%">
-
-Address
-
-</td></tr>
-<tr><td width="50%">
-
-Address Line 2
-
-</td><td width="50%">
-
-Address Line 2
-
-</td></tr>
-<tr><td width="50%">
-
 An error occurred while uploading the file.
 
 </td><td width="50%">
@@ -282,33 +210,6 @@ Apply Coupon
 </td><td width="50%">
 
 Apply Coupon
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to delete this notification?
-
-</td><td width="50%">
-
-Are you sure you want to delete this notification?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to log out?
-
-</td><td width="50%">
-
-Are you sure you want to log out?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to stop impersonating?
-
-</td><td width="50%">
-
-Are you sure you want to stop impersonating?
 
 </td></tr>
 <tr><td width="50%">
@@ -1789,119 +1690,11 @@ Yearly
 </td></tr>
 <tr><td width="50%">
 
-You are already subscribed.
-
-</td><td width="50%">
-
-You are already subscribed.
-
-</td></tr>
-<tr><td width="50%">
-
-You are currently within your free trial period. Your trial will expire on :date.
-
-</td><td width="50%">
-
-You are currently within your free trial period. Your trial will expire on :date.
-
-</td></tr>
-<tr><td width="50%">
-
-You are logged in!
-
-</td><td width="50%">
-
-You are logged in!
-
-</td></tr>
-<tr><td width="50%">
-
-You may accept this invitation by clicking the button below:
-
-</td><td width="50%">
-
-You may accept this invitation by clicking the button below:
-
-</td></tr>
-<tr><td width="50%">
-
 You may cancel your subscription at any time. Once your subscription has been cancelled, you will have the option to resume the subscription until the end of your current billing cycle.
 
 </td><td width="50%">
 
 You may cancel your subscription at any time. Once your subscription has been cancelled, you will have the option to resume the subscription until the end of your current billing cycle.
-
-</td></tr>
-<tr><td width="50%">
-
-You're logged in!
-
-</td><td width="50%">
-
-You're logged in!
-
-</td></tr>
-<tr><td width="50%">
-
-Your :invoiceName invoice is now available!
-
-</td><td width="50%">
-
-Your :invoiceName invoice is now available!
-
-</td></tr>
-<tr><td width="50%">
-
-Your card was declined. Please contact your card issuer for more information.
-
-</td><td width="50%">
-
-Your card was declined. Please contact your card issuer for more information.
-
-</td></tr>
-<tr><td width="50%">
-
-Your current payment method is :paypal.
-
-</td><td width="50%">
-
-Your current payment method is :paypal.
-
-</td></tr>
-<tr><td width="50%">
-
-Your current payment method is a credit card ending in :lastFour that expires on :expiration.
-
-</td><td width="50%">
-
-Your current payment method is a credit card ending in :lastFour that expires on :expiration.
-
-</td></tr>
-<tr><td width="50%">
-
-Your email address is unverified.
-
-</td><td width="50%">
-
-Your email address is unverified.
-
-</td></tr>
-<tr><td width="50%">
-
-Your registered VAT Number is :vatNumber.
-
-</td><td width="50%">
-
-Your registered VAT Number is :vatNumber.
-
-</td></tr>
-<tr><td width="50%">
-
-Zip / Postal Code
-
-</td><td width="50%">
-
-Zip / Postal Code
 
 </td></tr>
 <tr><td width="50%">
@@ -1921,7 +1714,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 15
+##### Missing: 1
 
 <table width="100%">
 <tr><th width="50%">
@@ -1935,137 +1728,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-accepted_if
-
-</td><td width="50%">
-
-This field must be accepted when :other is :value.
-
-</td></tr>
-<tr><td width="50%">
-
-doesnt_end_with
-
-</td><td width="50%">
-
-This field may not end with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-doesnt_start_with
-
-</td><td width="50%">
-
-This field may not start with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-lowercase
-
-</td><td width="50%">
-
-This field must be lowercase.
-
-</td></tr>
-<tr><td width="50%">
-
-max_digits
-
-</td><td width="50%">
-
-This field must not have more than :max digits.
-
-</td></tr>
-<tr><td width="50%">
-
-min_digits
-
-</td><td width="50%">
-
-This field must have at least :min digits.
-
-</td></tr>
-<tr><td width="50%">
-
-password.letters
-
-</td><td width="50%">
-
-This field must contain at least one letter.
-
-</td></tr>
-<tr><td width="50%">
-
-password.mixed
-
-</td><td width="50%">
-
-This field must contain at least one uppercase and one lowercase letter.
-
-</td></tr>
-<tr><td width="50%">
-
-password.numbers
-
-</td><td width="50%">
-
-This field must contain at least one number.
-
-</td></tr>
-<tr><td width="50%">
-
-password.symbols
-
-</td><td width="50%">
-
-This field must contain at least one symbol.
-
-</td></tr>
-<tr><td width="50%">
-
-password.uncompromised
-
-</td><td width="50%">
-
-The given field has appeared in a data leak. Please choose a different field.
-
-</td></tr>
-<tr><td width="50%">
-
-prohibits
-
-</td><td width="50%">
-
-This field prohibits :other from being present.
-
-</td></tr>
-<tr><td width="50%">
-
-required_array_keys
-
-</td><td width="50%">
-
-This field must contain entries for: :values.
-
-</td></tr>
-<tr><td width="50%">
-
 required_if_accepted
 
 </td><td width="50%">
 
 This field is required when :other is accepted.
-
-</td></tr>
-<tr><td width="50%">
-
-uppercase
-
-</td><td width="50%">
-
-This field must be uppercase.
 
 </td></tr>
 </table>
@@ -2076,7 +1743,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 20
+##### Missing: 7
 
 <table width="100%">
 <tr><th width="50%">
@@ -2088,69 +1755,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-accepted_if
-
-</td><td width="50%">
-
-The :attribute must be accepted when :other is :value.
-
-</td></tr>
-<tr><td width="50%">
-
-current_password
-
-</td><td width="50%">
-
-The password is incorrect.
-
-</td></tr>
-<tr><td width="50%">
-
-declined
-
-</td><td width="50%">
-
-The :attribute must be declined.
-
-</td></tr>
-<tr><td width="50%">
-
-declined_if
-
-</td><td width="50%">
-
-The :attribute must be declined when :other is :value.
-
-</td></tr>
-<tr><td width="50%">
-
-doesnt_end_with
-
-</td><td width="50%">
-
-The :attribute may not end with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-doesnt_start_with
-
-</td><td width="50%">
-
-The :attribute may not start with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-enum
-
-</td><td width="50%">
-
-The selected :attribute is invalid.
-
-</td></tr>
 <tr><td width="50%">
 
 lowercase
@@ -2185,60 +1789,6 @@ min_digits
 </td><td width="50%">
 
 The :attribute must have at least :min digits.
-
-</td></tr>
-<tr><td width="50%">
-
-password.letters
-
-</td><td width="50%">
-
-The :attribute must contain at least one letter.
-
-</td></tr>
-<tr><td width="50%">
-
-password.mixed
-
-</td><td width="50%">
-
-The :attribute must contain at least one uppercase and one lowercase letter.
-
-</td></tr>
-<tr><td width="50%">
-
-password.numbers
-
-</td><td width="50%">
-
-The :attribute must contain at least one number.
-
-</td></tr>
-<tr><td width="50%">
-
-password.symbols
-
-</td><td width="50%">
-
-The :attribute must contain at least one symbol.
-
-</td></tr>
-<tr><td width="50%">
-
-password.uncompromised
-
-</td><td width="50%">
-
-The given :attribute has appeared in a data leak. Please choose a different :attribute.
-
-</td></tr>
-<tr><td width="50%">
-
-prohibits
-
-</td><td width="50%">
-
-The :attribute field prohibits :other from being present.
 
 </td></tr>
 <tr><td width="50%">

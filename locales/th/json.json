@@ -776,7 +776,7 @@
     "You may delete any of your existing tokens if they are no longer needed.": "คุณอาจจะลบทิ้งของคุณที่มีอยู่แล้วขึ้นสัญลักษณ์ถ้าพวกเขาไม่ต้องการ",
     "You may not delete your personal team.": "คุณอาจจะไม่ลบส่วนตัวของทีม",
     "You may not leave a team that you created.": "คุณอาจจะไม่ออกจากทีมว่าคุณสร้างขึ้นมา",
-    "You're logged in!": "คุณได้ลงชื่อเข้าใช้งานในระบบแล้ว!",
+    "You're logged in!": "คุณได้ลงชื่อเข้าสู่ระบบแล้ว!",
     "Your :invoiceName invoice is now available!": "ใบแจ้งหนี้ :invoiceName ของคุณได้ถูกสร้างแล้ว",
     "Your card was declined. Please contact your card issuer for more information.": "บัตรของคุณถูกปฏิเสธ กรุณาสอบถามข้อมูลเพิ่มเติมจากสถาบันการเงินที่ออกบัตรนี้ให้คุณ",
     "Your current payment method is :paypal.": "รูปแบบการชำระเงินปัจจุบันคือ :paypal.",

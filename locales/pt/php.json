@@ -67,7 +67,7 @@
     "max.file": "O campo :attribute não deverá ter um tamanho superior a :max kilobytes.",
     "max.numeric": "O campo :attribute não deverá conter um valor superior a :max.",
     "max.string": "O campo :attribute não deverá conter mais de :max caracteres.",
-    "max_digits": "O campo :attribute não pode ter mais do que :max digítos",
+    "max_digits": "O campo :attribute não pode ter mais do que :max digítos.",
     "mimes": "O campo :attribute deverá conter um ficheiro do tipo: :values.",
     "mimetypes": "O campo :attribute deverá conter um ficheiro do tipo: :values.",
     "min.array": "O campo :attribute deverá conter no mínimo :min elementos.",

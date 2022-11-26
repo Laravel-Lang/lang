@@ -65,7 +65,7 @@
     "max.file": "O tamanho do ficheiro não pode ser maior que :max kilobytes.",
     "max.numeric": "O valor não pode ser maior que :max.",
     "max.string": "A cadeia de texto não pode ser maior que :max caracteres.",
-    "max_digits": "Este campo não pode ter mais do que :max digítos",
+    "max_digits": "Este campo não pode ter mais do que :max digítos.",
     "mimes": "Este deve ser um ficheiro do tipo: :values.",
     "mimetypes": "Este deve ser um ficheiro do tipo: :values.",
     "min.array": "O valor deve ter pelo menos :min itens.",

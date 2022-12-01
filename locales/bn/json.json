@@ -621,7 +621,7 @@
     "Thanks for your continued support. We've attached a copy of your invoice for your records. Please let us know if you have any questions or concerns.": "আপনার অব্যাহত সমর্থনের জন্য ধন্যবাদ । আমরা আপনার রেকর্ডের জন্য আপনার চালানের একটি কপি সংযুক্ত করেছি । আপনার কোন প্রশ্ন বা উদ্বেগ থাকলে আমাদের জানান ।",
     "Thanks,": "ধন্যবাদ,",
     "The :attribute must be a valid role.": "ঐ :attribute একটি বৈধ ভূমিকা থাকতে হবে ।",
-    "The :attribute must be at least :length characters and contain at least one number.": ":attribute অন্তত :length অক্ষরের হতে হবে এবং অন্তত একটি নম্বর অন্তর্ভুক্ত থাকতে হবে।",
+    "The :attribute must be at least :length characters and contain at least one number.": ":Attribute অন্তত :length অক্ষরের হতে হবে এবং অন্তত একটি নম্বর অন্তর্ভুক্ত থাকতে হবে।",
     "The :attribute must be at least :length characters and contain at least one special character and one number.": "এই :attribute অন্তত হতে হবে :length অক্ষর ধারণ করে এবং অন্তত এক বিশেষ চরিত্র এবং এক নম্বর ।",
     "The :attribute must be at least :length characters and contain at least one special character.": "এই :attribute অন্তত হতে হবে :length অক্ষর ধারণ করে এবং অন্তত এক বিশেষ চরিত্র ।",
     "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "দী :attribute অন্তত হতে হবে :length অক্ষর এবং অন্তত একটি য়ের বড়হাতের অক্ষর ছোটহাতের অক্ষর এবং একটি সংখ্যা থাকতে হবে ।",

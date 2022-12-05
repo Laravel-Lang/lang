@@ -631,7 +631,7 @@
     "The :attribute must be at least :length characters.": ":Attribute باید حداقل :length  کارکتر باشد.",
     "The :attribute must contain at least one letter.": ":Attribute باید حداقل شامل یک حرف داشته باشد.",
     "The :attribute must contain at least one number.": ":Attribute باید حداقل شامل یک عدد باشد.",
-    "The :attribute must contain at least one symbol.": ":Attribute باید حداقل شامل یک سمبل باشد.",
+    "The :attribute must contain at least one symbol.": ":Attribute باید حداقل شامل یک نماد باشد.",
     "The :attribute must contain at least one uppercase and one lowercase letter.": ":Attribute باید حداقل شامل یک حرف بزرگ و یک حرف کوچم باشد.",
     "The :resource was created!": ":Resource ایجاد شد!",
     "The :resource was deleted!": ":Resource حذف شد!",

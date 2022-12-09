@@ -20,11 +20,11 @@
         "docs"
     ],
     "devDependencies": {
-        "@vuepress/plugin-docsearch": "^2.0.0-beta.50",
-        "@vuepress/plugin-theme-data": "^2.0.0-beta.50",
+        "@vuepress/plugin-docsearch": "2.0.0-beta.54",
+        "@vuepress/plugin-theme-data": "2.0.0-beta.54",
         "@vueuse/core": "^7.5.5",
         "dotenv": "^15.0.0",
-        "vuepress": "^2.0.0-beta.50"
+        "vuepress": "2.0.0-beta.54"
     },
     "engines": {
         "node": ">=16.16"

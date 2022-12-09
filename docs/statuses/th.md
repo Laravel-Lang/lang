@@ -4,12 +4,12 @@ editLink: false
 
 # th
 
-##### All missed: 29
+##### All missed: 30
 
 
 ### json
 
-##### Missing: 21
+##### Missing: 22
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,6 +21,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+Are you sure you want to delete your account?
+
+</td><td width="50%">
+
+Are you sure you want to delete your account?
+
+</td></tr>
 <tr><td width="50%">
 
 Edit Profile

@@ -4,12 +4,12 @@ editLink: false
 
 # fr
 
-##### All missed: 6
+##### All missed: 7
 
 
 ### json
 
-##### Missing: 2
+##### Missing: 3
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,6 +21,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+Are you sure you want to delete your account?
+
+</td><td width="50%">
+
+Are you sure you want to delete your account?
+
+</td></tr>
 <tr><td width="50%">
 
 Soft Deleted

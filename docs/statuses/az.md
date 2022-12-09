@@ -4,12 +4,12 @@ editLink: false
 
 # az
 
-##### All missed: 41
+##### All missed: 42
 
 
 ### json
 
-##### Missing: 37
+##### Missing: 38
 
 <table width="100%">
 <tr><th width="50%">
@@ -28,6 +28,15 @@ Andorra
 </td><td width="50%">
 
 Andorra
+
+</td></tr>
+<tr><td width="50%">
+
+Are you sure you want to delete your account?
+
+</td><td width="50%">
+
+Are you sure you want to delete your account?
 
 </td></tr>
 <tr><td width="50%">

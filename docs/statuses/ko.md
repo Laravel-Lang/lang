@@ -4,7 +4,7 @@ editLink: false
 
 # ko
 
-##### All missed: 110
+##### All missed: 111
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 70
+##### Missing: 71
 
 <table width="100%">
 <tr><th width="50%">
@@ -219,6 +219,15 @@ Are you sure you want to delete this notification?
 </td><td width="50%">
 
 Are you sure you want to delete this notification?
+
+</td></tr>
+<tr><td width="50%">
+
+Are you sure you want to delete your account?
+
+</td><td width="50%">
+
+Are you sure you want to delete your account?
 
 </td></tr>
 <tr><td width="50%">

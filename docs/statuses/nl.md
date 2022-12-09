@@ -4,12 +4,12 @@ editLink: false
 
 # nl
 
-##### All missed: 36
+##### All missed: 37
 
 
 ### json
 
-##### Missing: 18
+##### Missing: 19
 
 <table width="100%">
 <tr><th width="50%">
@@ -37,6 +37,15 @@ Value
 </td><td width="50%">
 
 (and :count more errors)
+
+</td></tr>
+<tr><td width="50%">
+
+Are you sure you want to delete your account?
+
+</td><td width="50%">
+
+Are you sure you want to delete your account?
 
 </td></tr>
 <tr><td width="50%">

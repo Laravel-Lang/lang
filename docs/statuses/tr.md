@@ -4,12 +4,12 @@ editLink: false
 
 # tr
 
-##### All missed: 7
+##### All missed: 8
 
 
 ### json
 
-##### Missing: 3
+##### Missing: 4
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,6 +21,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+Are you sure you want to delete your account?
+
+</td><td width="50%">
+
+Are you sure you want to delete your account?
+
+</td></tr>
 <tr><td width="50%">
 
 Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.

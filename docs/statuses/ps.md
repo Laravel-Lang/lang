@@ -4,7 +4,7 @@ editLink: false
 
 # ps
 
-##### All missed: 816
+##### All missed: 817
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 737
+##### Missing: 738
 
 <table width="100%">
 <tr><th width="50%">
@@ -678,6 +678,15 @@ Are you sure you want to delete this team? Once a team is deleted, all of its re
 </td><td width="50%">
 
 Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted.
+
+</td></tr>
+<tr><td width="50%">
+
+Are you sure you want to delete your account?
+
+</td><td width="50%">
+
+Are you sure you want to delete your account?
 
 </td></tr>
 <tr><td width="50%">

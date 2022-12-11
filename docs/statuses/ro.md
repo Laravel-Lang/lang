@@ -4,12 +4,12 @@ editLink: false
 
 # ro
 
-##### All missed: 204
+##### All missed: 202
 
 
 ### json
 
-##### Missing: 204
+##### Missing: 202
 
 <table width="100%">
 <tr><th width="50%">
@@ -118,24 +118,6 @@ Antigua and Barbuda
 </td><td width="50%">
 
 Antigua and Barbuda
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to delete this notification?
-
-</td><td width="50%">
-
-Are you sure you want to delete this notification?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to delete your account?
-
-</td><td width="50%">
-
-Are you sure you want to delete your account?
 
 </td></tr>
 <tr><td width="50%">

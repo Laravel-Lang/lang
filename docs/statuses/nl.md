@@ -4,12 +4,12 @@ editLink: false
 
 # nl
 
-##### All missed: 41
+##### All missed: 16
 
 
 ### json
 
-##### Missing: 19
+##### Missing: 13
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,38 +23,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-(and :count more error)
-
-</td><td width="50%">
-
-(and :count more error)
-
-</td></tr>
-<tr><td width="50%">
-
-(and :count more errors)
-
-</td><td width="50%">
-
-(and :count more errors)
-
-</td></tr>
-<tr><td width="50%">
-
 Are you sure you want to delete your account?
 
 </td><td width="50%">
 
 Are you sure you want to delete your account?
-
-</td></tr>
-<tr><td width="50%">
-
-Choose Files
-
-</td><td width="50%">
-
-Choose Files
 
 </td></tr>
 <tr><td width="50%">
@@ -73,15 +46,6 @@ Drop files or click to choose
 </td><td width="50%">
 
 Drop files or click to choose
-
-</td></tr>
-<tr><td width="50%">
-
-Filename
-
-</td><td width="50%">
-
-Filename
 
 </td></tr>
 <tr><td width="50%">
@@ -174,24 +138,6 @@ Type
 Type
 
 </td></tr>
-<tr><td width="50%">
-
-Unknown
-
-</td><td width="50%">
-
-Unknown
-
-</td></tr>
-<tr><td width="50%">
-
-You're logged in!
-
-</td><td width="50%">
-
-You're logged in!
-
-</td></tr>
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
@@ -200,7 +146,7 @@ You're logged in!
 
 ### php-inline
 
-##### Missing: 14
+##### Missing: 1
 
 <table width="100%">
 <tr><th width="50%">
@@ -221,123 +167,6 @@ ascii
 This field must only contain single-byte alphanumeric characters and symbols.
 
 </td></tr>
-<tr><td width="50%">
-
-doesnt_end_with
-
-</td><td width="50%">
-
-This field may not end with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-doesnt_start_with
-
-</td><td width="50%">
-
-This field may not start with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-lowercase
-
-</td><td width="50%">
-
-This field must be lowercase.
-
-</td></tr>
-<tr><td width="50%">
-
-max_digits
-
-</td><td width="50%">
-
-This field must not have more than :max digits.
-
-</td></tr>
-<tr><td width="50%">
-
-min_digits
-
-</td><td width="50%">
-
-This field must have at least :min digits.
-
-</td></tr>
-<tr><td width="50%">
-
-password.letters
-
-</td><td width="50%">
-
-This field must contain at least one letter.
-
-</td></tr>
-<tr><td width="50%">
-
-password.mixed
-
-</td><td width="50%">
-
-This field must contain at least one uppercase and one lowercase letter.
-
-</td></tr>
-<tr><td width="50%">
-
-password.numbers
-
-</td><td width="50%">
-
-This field must contain at least one number.
-
-</td></tr>
-<tr><td width="50%">
-
-password.symbols
-
-</td><td width="50%">
-
-This field must contain at least one symbol.
-
-</td></tr>
-<tr><td width="50%">
-
-password.uncompromised
-
-</td><td width="50%">
-
-The given field has appeared in a data leak. Please choose a different field.
-
-</td></tr>
-<tr><td width="50%">
-
-required_if_accepted
-
-</td><td width="50%">
-
-This field is required when :other is accepted.
-
-</td></tr>
-<tr><td width="50%">
-
-ulid
-
-</td><td width="50%">
-
-This field must be a valid ULID.
-
-</td></tr>
-<tr><td width="50%">
-
-uppercase
-
-</td><td width="50%">
-
-This field must be uppercase.
-
-</td></tr>
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
@@ -346,7 +175,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 8
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -369,65 +198,11 @@ The :attribute must only contain single-byte alphanumeric characters and symbols
 </td></tr>
 <tr><td width="50%">
 
-doesnt_end_with
-
-</td><td width="50%">
-
-The :attribute may not end with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-lowercase
-
-</td><td width="50%">
-
-The :attribute must be lowercase.
-
-</td></tr>
-<tr><td width="50%">
-
-max_digits
-
-</td><td width="50%">
-
-The :attribute must not have more than :max digits.
-
-</td></tr>
-<tr><td width="50%">
-
-min_digits
-
-</td><td width="50%">
-
-The :attribute must have at least :min digits.
-
-</td></tr>
-<tr><td width="50%">
-
-required_if_accepted
-
-</td><td width="50%">
-
-The :attribute field is required when :other is accepted.
-
-</td></tr>
-<tr><td width="50%">
-
 ulid
 
 </td><td width="50%">
 
 The :attribute must be a valid ULID.
-
-</td></tr>
-<tr><td width="50%">
-
-uppercase
-
-</td><td width="50%">
-
-The :attribute must be uppercase.
 
 </td></tr>
 </table>

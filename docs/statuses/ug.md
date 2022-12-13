@@ -4,7 +4,7 @@ editLink: false
 
 # ug
 
-##### All missed: 859
+##### All missed: 863
 
 
 ### json-inline
@@ -7071,7 +7071,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 36
+##### Missing: 38
 
 <table width="100%">
 <tr><th width="50%">
@@ -7135,6 +7135,15 @@ array
 </td><td width="50%">
 
 This field must be an array.
+
+</td></tr>
+<tr><td width="50%">
+
+ascii
+
+</td><td width="50%">
+
+This field must only contain single-byte alphanumeric characters and symbols.
 
 </td></tr>
 <tr><td width="50%">
@@ -7400,6 +7409,15 @@ This field is required when none of :values are present.
 </td></tr>
 <tr><td width="50%">
 
+ulid
+
+</td><td width="50%">
+
+This field must be a valid ULID.
+
+</td></tr>
+<tr><td width="50%">
+
 uppercase
 
 </td><td width="50%">
@@ -7415,7 +7433,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 43
+##### Missing: 45
 
 <table width="100%">
 <tr><th width="50%">
@@ -7434,6 +7452,15 @@ accepted_if
 </td><td width="50%">
 
 The :attribute must be accepted when :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+ascii
+
+</td><td width="50%">
+
+The :attribute must only contain single-byte alphanumeric characters and symbols.
 
 </td></tr>
 <tr><td width="50%">
@@ -7794,6 +7821,15 @@ throttled
 </td><td width="50%">
 
 Please wait before retrying.
+
+</td></tr>
+<tr><td width="50%">
+
+ulid
+
+</td><td width="50%">
+
+The :attribute must be a valid ULID.
 
 </td></tr>
 <tr><td width="50%">

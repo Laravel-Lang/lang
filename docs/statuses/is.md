@@ -4,7 +4,7 @@ editLink: false
 
 # is
 
-##### All missed: 245
+##### All missed: 249
 
 
 ### json-inline
@@ -1921,7 +1921,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 15
+##### Missing: 17
 
 <table width="100%">
 <tr><th width="50%">
@@ -1940,6 +1940,15 @@ accepted_if
 </td><td width="50%">
 
 This field must be accepted when :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+ascii
+
+</td><td width="50%">
+
+This field must only contain single-byte alphanumeric characters and symbols.
 
 </td></tr>
 <tr><td width="50%">
@@ -2061,6 +2070,15 @@ This field is required when :other is accepted.
 </td></tr>
 <tr><td width="50%">
 
+ulid
+
+</td><td width="50%">
+
+This field must be a valid ULID.
+
+</td></tr>
+<tr><td width="50%">
+
 uppercase
 
 </td><td width="50%">
@@ -2076,7 +2094,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 22
+##### Missing: 24
 
 <table width="100%">
 <tr><th width="50%">
@@ -2095,6 +2113,15 @@ accepted_if
 </td><td width="50%">
 
 The :attribute must be accepted when :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+ascii
+
+</td><td width="50%">
+
+The :attribute must only contain single-byte alphanumeric characters and symbols.
 
 </td></tr>
 <tr><td width="50%">
@@ -2275,6 +2302,15 @@ throttle
 </td><td width="50%">
 
 Too many login attempts. Please try again in :seconds seconds.
+
+</td></tr>
+<tr><td width="50%">
+
+ulid
+
+</td><td width="50%">
+
+The :attribute must be a valid ULID.
 
 </td></tr>
 <tr><td width="50%">

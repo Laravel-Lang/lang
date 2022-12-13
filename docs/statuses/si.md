@@ -4,7 +4,7 @@ editLink: false
 
 # si
 
-##### All missed: 128
+##### All missed: 132
 
 
 ### json-inline
@@ -931,7 +931,7 @@ Your email address is unverified.
 
 ### php-inline
 
-##### Missing: 13
+##### Missing: 15
 
 <table width="100%">
 <tr><th width="50%">
@@ -943,6 +943,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+ascii
+
+</td><td width="50%">
+
+This field must only contain single-byte alphanumeric characters and symbols.
+
+</td></tr>
 <tr><td width="50%">
 
 doesnt_end_with
@@ -1053,6 +1062,15 @@ This field is required when :other is accepted.
 </td></tr>
 <tr><td width="50%">
 
+ulid
+
+</td><td width="50%">
+
+This field must be a valid ULID.
+
+</td></tr>
+<tr><td width="50%">
+
 uppercase
 
 </td><td width="50%">
@@ -1068,7 +1086,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 17
+##### Missing: 19
 
 <table width="100%">
 <tr><th width="50%">
@@ -1080,6 +1098,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+ascii
+
+</td><td width="50%">
+
+The :attribute must only contain single-byte alphanumeric characters and symbols.
+
+</td></tr>
 <tr><td width="50%">
 
 declined
@@ -1222,6 +1249,15 @@ required_if_accepted
 </td><td width="50%">
 
 The :attribute field is required when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+ulid
+
+</td><td width="50%">
+
+The :attribute must be a valid ULID.
 
 </td></tr>
 <tr><td width="50%">

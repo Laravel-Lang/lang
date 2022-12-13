@@ -4,7 +4,7 @@ editLink: false
 
 # ka
 
-##### All missed: 203
+##### All missed: 208
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 159
+##### Missing: 160
 
 <table width="100%">
 <tr><th width="50%">
@@ -228,6 +228,15 @@ Are you sure you want to delete this notification?
 </td><td width="50%">
 
 Are you sure you want to delete this notification?
+
+</td></tr>
+<tr><td width="50%">
+
+Are you sure you want to delete your account?
+
+</td><td width="50%">
+
+Are you sure you want to delete your account?
 
 </td></tr>
 <tr><td width="50%">
@@ -1606,7 +1615,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 13
+##### Missing: 15
 
 <table width="100%">
 <tr><th width="50%">
@@ -1618,6 +1627,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+ascii
+
+</td><td width="50%">
+
+This field must only contain single-byte alphanumeric characters and symbols.
+
+</td></tr>
 <tr><td width="50%">
 
 doesnt_end_with
@@ -1728,6 +1746,15 @@ This field is required when :other is accepted.
 </td></tr>
 <tr><td width="50%">
 
+ulid
+
+</td><td width="50%">
+
+This field must be a valid ULID.
+
+</td></tr>
+<tr><td width="50%">
+
 uppercase
 
 </td><td width="50%">
@@ -1743,7 +1770,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 17
+##### Missing: 19
 
 <table width="100%">
 <tr><th width="50%">
@@ -1755,6 +1782,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+ascii
+
+</td><td width="50%">
+
+The :attribute must only contain single-byte alphanumeric characters and symbols.
+
+</td></tr>
 <tr><td width="50%">
 
 declined
@@ -1897,6 +1933,15 @@ required_if_accepted
 </td><td width="50%">
 
 The :attribute field is required when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+ulid
+
+</td><td width="50%">
+
+The :attribute must be a valid ULID.
 
 </td></tr>
 <tr><td width="50%">

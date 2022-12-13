@@ -4,12 +4,12 @@ editLink: false
 
 # hr
 
-##### All missed: 5
+##### All missed: 10
 
 
 ### json
 
-##### Missing: 3
+##### Missing: 4
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,6 +21,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+Are you sure you want to delete your account?
+
+</td><td width="50%">
+
+Are you sure you want to delete your account?
+
+</td></tr>
 <tr><td width="50%">
 
 Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
@@ -56,7 +65,7 @@ You're logged in!
 
 ### php-inline
 
-##### Missing: 1
+##### Missing: 3
 
 <table width="100%">
 <tr><th width="50%">
@@ -68,6 +77,24 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+ascii
+
+</td><td width="50%">
+
+This field must only contain single-byte alphanumeric characters and symbols.
+
+</td></tr>
+<tr><td width="50%">
+
+ulid
+
+</td><td width="50%">
+
+This field must be a valid ULID.
+
+</td></tr>
 <tr><td width="50%">
 
 uppercase
@@ -85,7 +112,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 1
+##### Missing: 3
 
 <table width="100%">
 <tr><th width="50%">
@@ -97,6 +124,24 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+ascii
+
+</td><td width="50%">
+
+The :attribute must only contain single-byte alphanumeric characters and symbols.
+
+</td></tr>
+<tr><td width="50%">
+
+ulid
+
+</td><td width="50%">
+
+The :attribute must be a valid ULID.
+
+</td></tr>
 <tr><td width="50%">
 
 uppercase

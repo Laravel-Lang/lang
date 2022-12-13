@@ -4,7 +4,7 @@ editLink: false
 
 # mk
 
-##### All missed: 271
+##### All missed: 276
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 222
+##### Missing: 223
 
 <table width="100%">
 <tr><th width="50%">
@@ -300,6 +300,15 @@ Are you sure you want to delete this notification?
 </td><td width="50%">
 
 Are you sure you want to delete this notification?
+
+</td></tr>
+<tr><td width="50%">
+
+Are you sure you want to delete your account?
+
+</td><td width="50%">
+
+Are you sure you want to delete your account?
 
 </td></tr>
 <tr><td width="50%">
@@ -2173,7 +2182,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 15
+##### Missing: 17
 
 <table width="100%">
 <tr><th width="50%">
@@ -2192,6 +2201,15 @@ accepted_if
 </td><td width="50%">
 
 This field must be accepted when :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+ascii
+
+</td><td width="50%">
+
+This field must only contain single-byte alphanumeric characters and symbols.
 
 </td></tr>
 <tr><td width="50%">
@@ -2313,6 +2331,15 @@ This field is required when :other is accepted.
 </td></tr>
 <tr><td width="50%">
 
+ulid
+
+</td><td width="50%">
+
+This field must be a valid ULID.
+
+</td></tr>
+<tr><td width="50%">
+
 uppercase
 
 </td><td width="50%">
@@ -2328,7 +2355,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 20
+##### Missing: 22
 
 <table width="100%">
 <tr><th width="50%">
@@ -2347,6 +2374,15 @@ accepted_if
 </td><td width="50%">
 
 The :attribute must be accepted when :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+ascii
+
+</td><td width="50%">
+
+The :attribute must only contain single-byte alphanumeric characters and symbols.
 
 </td></tr>
 <tr><td width="50%">
@@ -2509,6 +2545,15 @@ required_if_accepted
 </td><td width="50%">
 
 The :attribute field is required when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+ulid
+
+</td><td width="50%">
+
+The :attribute must be a valid ULID.
 
 </td></tr>
 <tr><td width="50%">

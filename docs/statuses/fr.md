@@ -4,10 +4,57 @@ editLink: false
 
 # fr
 
-##### All missed: 8
+##### All missed: 11
 
 
 ### json
+
+##### Missing: 3
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+Are you sure you want to delete your account?
+
+</td><td width="50%">
+
+Are you sure you want to delete your account?
+
+</td></tr>
+<tr><td width="50%">
+
+Soft Deleted
+
+</td><td width="50%">
+
+Soft Deleted
+
+</td></tr>
+<tr><td width="50%">
+
+Type
+
+</td><td width="50%">
+
+Type
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php-inline
 
 ##### Missing: 4
 
@@ -23,60 +70,13 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+ascii
 
 </td><td width="50%">
 
-Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+This field must only contain single-byte alphanumeric characters and symbols.
 
 </td></tr>
-<tr><td width="50%">
-
-Soft Deleted
-
-</td><td width="50%">
-
-Soft Deleted
-
-</td></tr>
-<tr><td width="50%">
-
-Type
-
-</td><td width="50%">
-
-Type
-
-</td></tr>
-<tr><td width="50%">
-
-You're logged in!
-
-</td><td width="50%">
-
-You're logged in!
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php-inline
-
-##### Missing: 2
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
 <tr><td width="50%">
 
 lowercase
@@ -84,6 +84,15 @@ lowercase
 </td><td width="50%">
 
 This field must be lowercase.
+
+</td></tr>
+<tr><td width="50%">
+
+ulid
+
+</td><td width="50%">
+
+This field must be a valid ULID.
 
 </td></tr>
 <tr><td width="50%">
@@ -103,7 +112,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 2
+##### Missing: 4
 
 <table width="100%">
 <tr><th width="50%">
@@ -117,11 +126,29 @@ Value
 </th></tr>
 <tr><td width="50%">
 
+ascii
+
+</td><td width="50%">
+
+The :attribute must only contain single-byte alphanumeric characters and symbols.
+
+</td></tr>
+<tr><td width="50%">
+
 lowercase
 
 </td><td width="50%">
 
 The :attribute must be lowercase.
+
+</td></tr>
+<tr><td width="50%">
+
+ulid
+
+</td><td width="50%">
+
+The :attribute must be a valid ULID.
 
 </td></tr>
 <tr><td width="50%">

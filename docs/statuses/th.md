@@ -4,12 +4,12 @@ editLink: false
 
 # th
 
-##### All missed: 29
+##### All missed: 34
 
 
 ### json
 
-##### Missing: 21
+##### Missing: 22
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,6 +21,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+Are you sure you want to delete your account?
+
+</td><td width="50%">
+
+Are you sure you want to delete your account?
+
+</td></tr>
 <tr><td width="50%">
 
 Edit Profile
@@ -218,7 +227,7 @@ Yearly
 
 ### php-inline
 
-##### Missing: 1
+##### Missing: 3
 
 <table width="100%">
 <tr><th width="50%">
@@ -232,11 +241,29 @@ Value
 </th></tr>
 <tr><td width="50%">
 
+ascii
+
+</td><td width="50%">
+
+This field must only contain single-byte alphanumeric characters and symbols.
+
+</td></tr>
+<tr><td width="50%">
+
 required_if_accepted
 
 </td><td width="50%">
 
 This field is required when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+ulid
+
+</td><td width="50%">
+
+This field must be a valid ULID.
 
 </td></tr>
 </table>
@@ -247,7 +274,7 @@ This field is required when :other is accepted.
 
 ### php
 
-##### Missing: 7
+##### Missing: 9
 
 <table width="100%">
 <tr><th width="50%">
@@ -259,6 +286,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+ascii
+
+</td><td width="50%">
+
+The :attribute must only contain single-byte alphanumeric characters and symbols.
+
+</td></tr>
 <tr><td width="50%">
 
 lowercase
@@ -311,6 +347,15 @@ required_if_accepted
 </td><td width="50%">
 
 The :attribute field is required when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+ulid
+
+</td><td width="50%">
+
+The :attribute must be a valid ULID.
 
 </td></tr>
 <tr><td width="50%">

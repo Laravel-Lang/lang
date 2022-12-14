@@ -8,6 +8,7 @@
     "alpha_dash": "Ang patlang na ito ay maaari lamang maglaman ng mga titik, numero, gitling at mga salungguhit.",
     "alpha_num": "Ang patlang na ito ay maaari lamang maglaman ng mga titik at numero.",
     "array": "Ang patlang na ito ay dapat na isang array.",
+    "ascii": "This field must only contain single-byte alphanumeric characters and symbols.",
     "attached": "Ang patlang na ito ay nakalakip.",
     "before": "Ito ay dapat na isang petsa bago :date.",
     "before_or_equal": "Ito ay dapat na isang petsa bago o katumbas ng :date.",
@@ -51,6 +52,7 @@
     "ipv4": "Ito ay dapat na isang wastong address ng Ipb4.",
     "ipv6": "Ito ay dapat na isang wastong Ipbagong address.",
     "json": "Ito ay dapat na isang wastong HSON string.",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "The content must have less than :value items.",
     "lt.file": "The file size must be less than :value kilobytes.",
     "lt.numeric": "The value must be less than :value.",
@@ -105,8 +107,10 @@
     "starts_with": "Ito ay dapat magsimula sa isa sa mga sumusunod: :values.",
     "string": "Ito ay dapat na isang string.",
     "timezone": "Ito ay dapat isang wastong Sona.",
+    "ulid": "This field must be a valid ULID.",
     "unique": "Ito ay nai-kinuha.",
     "uploaded": "Ito ay nabigo upang i-upload.",
+    "uppercase": "This field must be uppercase.",
     "url": "Hindi balido ang pormat na ito.",
     "uuid": "Ito ay dapat na isang wastong UUID."
 }

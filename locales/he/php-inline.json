@@ -8,6 +8,7 @@
     "alpha_dash": "שדה זה עשוי להכיל רק אותיות, מספרים, מקפים וקווים תחתיים.",
     "alpha_num": "שדה זה עשוי להכיל רק אותיות ומספרים.",
     "array": "שדה זה חייב להיות מערך.",
+    "ascii": "This field must only contain single-byte alphanumeric characters and symbols.",
     "attached": "השדה הזה כבר מחובר.",
     "before": "זה חייב להיות תאריך לפני :date.",
     "before_or_equal": "זה חייב להיות תאריך לפני או שווה ל-:date.",
@@ -51,6 +52,7 @@
     "ipv4": "זו חייבת להיות כתובת ipv4 תקפה.",
     "ipv6": "זו חייבת להיות כתובת ipv6 תקפה.",
     "json": "זה חייב להיות מחרוזת json תקפה.",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "The content must have less than :value items.",
     "lt.file": "The file size must be less than :value kilobytes.",
     "lt.numeric": "The value must be less than :value.",
@@ -105,8 +107,10 @@
     "starts_with": "זה חייב להתחיל עם אחד הדברים הבאים: :values.",
     "string": "זה חייב להיות חוט.",
     "timezone": "זה חייב להיות אזור חוקי.",
+    "ulid": "This field must be a valid ULID.",
     "unique": "זה כבר צולם.",
     "uploaded": "אין אפשרות להעלות את הקובץ.",
+    "uppercase": "This field must be uppercase.",
     "url": "תבנית זו אינה תקפה.",
     "uuid": "זה חייב להיות UUID תקף."
 }

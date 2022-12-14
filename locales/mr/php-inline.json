@@ -8,6 +8,7 @@
     "alpha_dash": "हे फील्ड केवळ अक्षरे असू शकतात, अंक, डॅश आणि अंडरस्कोरसोर.",
     "alpha_num": "हे फील्ड केवळ अक्षरे आणि क्रमांक असू शकतात.",
     "array": "अरे असणे आवश्यक आहे.",
+    "ascii": "This field must only contain single-byte alphanumeric characters and symbols.",
     "attached": "हे फील्ड आधीच संलग्न आहे.",
     "before": "या :date आधी एक तारीख असणे आवश्यक आहे.",
     "before_or_equal": "या आधी एक तारीख किंवा :date समान असणे आवश्यक आहे.",
@@ -51,6 +52,7 @@
     "ipv4": "हा एक वैध आयपीव्ही4 पत्ता असणे आवश्यक आहे.",
     "ipv6": "या वैध आंतरजाल6 पत्ता असणे आवश्यक आहे.",
     "json": "या असणे आवश्यक आहे एक वैध JSON स्ट्रिंग.",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "सामग्रीमध्ये :value पेक्षा कमी आयटम असणे आवश्यक आहे.",
     "lt.file": "फाईलचा आकार :value किलोबाइट्सपेक्षा कमी असणे आवश्यक आहे.",
     "lt.numeric": "मूल्य :value पेक्षा कमी असणे आवश्यक आहे.",
@@ -105,8 +107,10 @@
     "starts_with": "या खालीलपैकी एक सुरू करणे आवश्यक आहे: :values.",
     "string": "ही स्ट्रिंग असायला हवी.",
     "timezone": "या वैध क्षेत्र असणे आवश्यक आहे.",
+    "ulid": "This field must be a valid ULID.",
     "unique": "हे आधीच घेतले गेले आहे.",
     "uploaded": "या अपलोड करण्यासाठी अयशस्वी.",
+    "uppercase": "This field must be uppercase.",
     "url": "या स्वरूपात अवैध आहे.",
     "uuid": "एक वैध UUID नाव असणे आवश्यक आहे."
 }

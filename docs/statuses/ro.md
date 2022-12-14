@@ -4,12 +4,12 @@ editLink: false
 
 # ro
 
-##### All missed: 200
+##### All missed: 206
 
 
 ### json
 
-##### Missing: 200
+##### Missing: 202
 
 <table width="100%">
 <tr><th width="50%">
@@ -118,15 +118,6 @@ Antigua and Barbuda
 </td><td width="50%">
 
 Antigua and Barbuda
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to delete this notification?
-
-</td><td width="50%">
-
-Are you sure you want to delete this notification?
 
 </td></tr>
 <tr><td width="50%">
@@ -1319,6 +1310,15 @@ Oman
 </td></tr>
 <tr><td width="50%">
 
+Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+
+</td><td width="50%">
+
+Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+
+</td></tr>
+<tr><td width="50%">
+
 Original
 
 </td><td width="50%">
@@ -1643,6 +1643,15 @@ Slovenia
 </td></tr>
 <tr><td width="50%">
 
+Soft Deleted
+
+</td><td width="50%">
+
+Soft Deleted
+
+</td></tr>
+<tr><td width="50%">
+
 Somalia
 
 </td><td width="50%">
@@ -1796,6 +1805,15 @@ Venezuela
 </td></tr>
 <tr><td width="50%">
 
+You're logged in!
+
+</td><td width="50%">
+
+You're logged in!
+
+</td></tr>
+<tr><td width="50%">
+
 Zambia
 
 </td><td width="50%">
@@ -1819,6 +1837,82 @@ Zimbabwe
 </td><td width="50%">
 
 Åland Islands
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php-inline
+
+##### Missing: 2
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+ascii
+
+</td><td width="50%">
+
+This field must only contain single-byte alphanumeric characters and symbols.
+
+</td></tr>
+<tr><td width="50%">
+
+ulid
+
+</td><td width="50%">
+
+This field must be a valid ULID.
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php
+
+##### Missing: 2
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+ascii
+
+</td><td width="50%">
+
+The :attribute must only contain single-byte alphanumeric characters and symbols.
+
+</td></tr>
+<tr><td width="50%">
+
+ulid
+
+</td><td width="50%">
+
+The :attribute must be a valid ULID.
 
 </td></tr>
 </table>

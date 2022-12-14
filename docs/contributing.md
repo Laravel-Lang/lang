@@ -21,7 +21,7 @@ We accept contributions via Pull Requests on [Github](https://github.com/Laravel
 * Keep in mind that the `*-inline.json` files does not come with Laravel and the idea of this file is not to put a specific name to each attribute (as in `validation.php`)
   but a generic name for the validation attributes. Therefore in the translations of this file the placeholder `:attribute` **should not** appear.
 * Add a pull request with the name of the language
-  > ex: [fr] New language
+  > ex: [fr]: Added new localization
 
 ## How can I fix a file ?
 
@@ -36,7 +36,7 @@ We accept contributions via Pull Requests on [Github](https://github.com/Laravel
   > }
   > ```
 * Add a pull request with the name of the language
-  > ex: [fr] Update validation for number in validation
+  > ex: [fr]: Updated translations
 
 ## What should I do if there is a tag whose translation is the same as in English?
 

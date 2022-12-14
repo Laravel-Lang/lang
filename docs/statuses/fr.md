@@ -4,12 +4,12 @@ editLink: false
 
 # fr
 
-##### All missed: 9
+##### All missed: 11
 
 
 ### json
 
-##### Missing: 9
+##### Missing: 3
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,65 +23,20 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-Choose Files
+Are you sure you want to delete your account?
 
 </td><td width="50%">
 
-Choose Files
+Are you sure you want to delete your account?
 
 </td></tr>
 <tr><td width="50%">
 
-Drop file or click to choose
+Soft Deleted
 
 </td><td width="50%">
 
-Drop file or click to choose
-
-</td></tr>
-<tr><td width="50%">
-
-Drop files or click to choose
-
-</td><td width="50%">
-
-Drop files or click to choose
-
-</td></tr>
-<tr><td width="50%">
-
-Filename
-
-</td><td width="50%">
-
-Filename
-
-</td></tr>
-<tr><td width="50%">
-
-Select All Dropdown
-
-</td><td width="50%">
-
-Select All Dropdown
-
-</td></tr>
-<tr><td width="50%">
-
-Select this page
-
-</td><td width="50%">
-
-Select this page
-
-</td></tr>
-<tr><td width="50%">
-
-The image could not be loaded
-
-</td><td width="50%">
-
-The image could not be loaded
+Soft Deleted
 
 </td></tr>
 <tr><td width="50%">
@@ -93,13 +48,116 @@ Type
 Type
 
 </td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php-inline
+
+##### Missing: 4
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
 <tr><td width="50%">
 
-Unknown
+ascii
 
 </td><td width="50%">
 
-Unknown
+This field must only contain single-byte alphanumeric characters and symbols.
+
+</td></tr>
+<tr><td width="50%">
+
+lowercase
+
+</td><td width="50%">
+
+This field must be lowercase.
+
+</td></tr>
+<tr><td width="50%">
+
+ulid
+
+</td><td width="50%">
+
+This field must be a valid ULID.
+
+</td></tr>
+<tr><td width="50%">
+
+uppercase
+
+</td><td width="50%">
+
+This field must be uppercase.
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php
+
+##### Missing: 4
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+ascii
+
+</td><td width="50%">
+
+The :attribute must only contain single-byte alphanumeric characters and symbols.
+
+</td></tr>
+<tr><td width="50%">
+
+lowercase
+
+</td><td width="50%">
+
+The :attribute must be lowercase.
+
+</td></tr>
+<tr><td width="50%">
+
+ulid
+
+</td><td width="50%">
+
+The :attribute must be a valid ULID.
+
+</td></tr>
+<tr><td width="50%">
+
+uppercase
+
+</td><td width="50%">
+
+The :attribute must be uppercase.
 
 </td></tr>
 </table>

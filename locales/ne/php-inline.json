@@ -8,6 +8,7 @@
     "alpha_dash": "यस फाँटमा केवल अक्षरहरू, संख्याहरू, ड्यासहरू र अन्डरस्कोरहरू समावेश हुन सक्छ।",
     "alpha_num": "यो फिल्डमा अक्षर र संख्याहरू मात्र समावेश हुन सक्छ।",
     "array": "यो फिल्ड एरे हुनै पर्छ।",
+    "ascii": "This field must only contain single-byte alphanumeric characters and symbols.",
     "attached": "यो क्षेत्र नै संलग्न.",
     "before": "यो मिति भन्दा अघि :date हुनुपर्दछ।",
     "before_or_equal": "उसको मिति भन्दा अघि वा बराबर :date हुनुपर्दछ।",
@@ -51,6 +52,7 @@
     "ipv4": "यो मान्य IPv4 ठेगाना हुनुपर्दछ",
     "ipv6": "यो मान्य IPv6 ठेगाना हुनुपर्दछ",
     "json": "यो दिइएको मान्य JSON स्ट्रिङ्ग हुनुपर्छ।",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "सामग्री हुनुपर्दछ :value आईटमहरू वा बढि।",
     "lt.file": "फाईल आकार ठूलो वा बराबर हुनुपर्छ :value किलोबाइट।",
     "lt.numeric": "मान ठूलो वा बराबर हुनुपर्छ :value।",
@@ -105,8 +107,10 @@
     "starts_with": "यो निम्न मध्ये एकबाट सुरू हुनुपर्दछ :values।",
     "string": "यो स्ट्रिङ्ग हुनै पर्छ।",
     "timezone": "यो मान्य क्षेत्र हुनुपर्दछ।",
+    "ulid": "This field must be a valid ULID.",
     "unique": "यो पहिले नै लिइसकिएको छ।",
     "uploaded": "यो अपलोड गर्न असफल भयो।",
+    "uppercase": "This field must be uppercase.",
     "url": "यो ढाँचा अवैध छ।",
     "uuid": "यो वैध UID हुनु पर्छ।"
 }

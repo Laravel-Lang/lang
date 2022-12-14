@@ -8,6 +8,7 @@
     "alpha_dash": "Polje lahko vsebuje le črke, številke, pomišljaje in podčrtaje.",
     "alpha_num": "Polje lahko vsebuje le črke in številke.",
     "array": "Polje mora biti lista.",
+    "ascii": "This field must only contain single-byte alphanumeric characters and symbols.",
     "attached": "To polje je že pritrjeno.",
     "before": "Datum mora biti pred :date.",
     "before_or_equal": "Datum mora biti pred ali enak :date.",
@@ -51,6 +52,7 @@
     "ipv4": "To polje mora biti veljaven IPv4 naslov.",
     "ipv6": "To polje mora biti veljaven IPv6 naslov.",
     "json": "To polje mora biti veljaven JSON vnos.",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "Polje mora vsebovati manj kot :value elementov.",
     "lt.file": "Velikost datoteke mora biti manjša od :value kilobajtov.",
     "lt.numeric": "Vrednost mora biti manjša od :value.",
@@ -105,8 +107,10 @@
     "starts_with": "Vrednost se mora začeti z eno od naslednjih možnosti: :values.",
     "string": "Vnos mora biti besedilo.",
     "timezone": "Časovni pas mora biti veljaven.",
+    "ulid": "This field must be a valid ULID.",
     "unique": "Vnešeno je že zasedeno.",
     "uploaded": "Prenos ni bil uspešen.",
+    "uppercase": "This field must be uppercase.",
     "url": "Oblika ni pravilna.",
     "uuid": "Vnos mora biti veljaven UUID."
 }

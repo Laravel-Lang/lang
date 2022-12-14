@@ -4,7 +4,7 @@ editLink: false
 
 # ms
 
-##### All missed: 384
+##### All missed: 381
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 341
+##### Missing: 330
 
 <table width="100%">
 <tr><th width="50%">
@@ -313,6 +313,15 @@ Are you sure you want to delete this notification?
 </td></tr>
 <tr><td width="50%">
 
+Are you sure you want to delete your account?
+
+</td><td width="50%">
+
+Are you sure you want to delete your account?
+
+</td></tr>
+<tr><td width="50%">
+
 Are you sure you want to log out?
 
 </td><td width="50%">
@@ -412,24 +421,6 @@ Barbados
 </td></tr>
 <tr><td width="50%">
 
-Before continuing, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
-
-</td><td width="50%">
-
-Before continuing, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
-
-</td></tr>
-<tr><td width="50%">
-
-Before proceeding, please check your email for a verification link.
-
-</td><td width="50%">
-
-Before proceeding, please check your email for a verification link.
-
-</td></tr>
-<tr><td width="50%">
-
 Belarus
 
 </td><td width="50%">
@@ -462,24 +453,6 @@ Bhutan
 </td><td width="50%">
 
 Bhutan
-
-</td></tr>
-<tr><td width="50%">
-
-Billing Information
-
-</td><td width="50%">
-
-Billing Information
-
-</td></tr>
-<tr><td width="50%">
-
-Billing Management
-
-</td><td width="50%">
-
-Billing Management
 
 </td></tr>
 <tr><td width="50%">
@@ -606,42 +579,6 @@ China
 </td><td width="50%">
 
 China
-
-</td></tr>
-<tr><td width="50%">
-
-Choose Files
-
-</td><td width="50%">
-
-Choose Files
-
-</td></tr>
-<tr><td width="50%">
-
-City
-
-</td><td width="50%">
-
-City
-
-</td></tr>
-<tr><td width="50%">
-
-Click here to re-send the verification email.
-
-</td><td width="50%">
-
-Click here to re-send the verification email.
-
-</td></tr>
-<tr><td width="50%">
-
-click here to request another
-
-</td><td width="50%">
-
-click here to request another
 
 </td></tr>
 <tr><td width="50%">
@@ -790,65 +727,11 @@ Djibouti
 </td></tr>
 <tr><td width="50%">
 
-Download Receipt
-
-</td><td width="50%">
-
-Download Receipt
-
-</td></tr>
-<tr><td width="50%">
-
-Drop file or click to choose
-
-</td><td width="50%">
-
-Drop file or click to choose
-
-</td></tr>
-<tr><td width="50%">
-
-Drop files or click to choose
-
-</td><td width="50%">
-
-Drop files or click to choose
-
-</td></tr>
-<tr><td width="50%">
-
-Ecuador
-
-</td><td width="50%">
-
-Ecuador
-
-</td></tr>
-<tr><td width="50%">
-
-Edit Profile
-
-</td><td width="50%">
-
-Edit Profile
-
-</td></tr>
-<tr><td width="50%">
-
 Editor
 
 </td><td width="50%">
 
 Editor
-
-</td></tr>
-<tr><td width="50%">
-
-Email Addresses
-
-</td><td width="50%">
-
-Email Addresses
 
 </td></tr>
 <tr><td width="50%">
@@ -894,15 +777,6 @@ ex VAT
 </td><td width="50%">
 
 ex VAT
-
-</td></tr>
-<tr><td width="50%">
-
-Extra Billing Information
-
-</td><td width="50%">
-
-Extra Billing Information
 
 </td></tr>
 <tr><td width="50%">
@@ -1861,6 +1735,15 @@ Oman
 </td></tr>
 <tr><td width="50%">
 
+Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+
+</td><td width="50%">
+
+Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+
+</td></tr>
+<tr><td width="50%">
+
 Our billing management portal allows you to conveniently manage your subscription plan, payment method, and download your recent invoices.
 
 </td><td width="50%">
@@ -2356,6 +2239,15 @@ Slovenia
 </td></tr>
 <tr><td width="50%">
 
+Soft Deleted
+
+</td><td width="50%">
+
+Soft Deleted
+
+</td></tr>
+<tr><td width="50%">
+
 Somalia
 
 </td><td width="50%">
@@ -3144,6 +3036,15 @@ You may cancel your subscription at any time. Once your subscription has been ca
 </td><td width="50%">
 
 You may cancel your subscription at any time. Once your subscription has been cancelled, you will have the option to resume the subscription until the end of your current billing cycle.
+
+</td></tr>
+<tr><td width="50%">
+
+You're logged in!
+
+</td><td width="50%">
+
+You're logged in!
 
 </td></tr>
 <tr><td width="50%">
@@ -3244,7 +3145,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 13
+##### Missing: 17
 
 <table width="100%">
 <tr><th width="50%">
@@ -3267,6 +3168,15 @@ This field must be accepted when :other is :value.
 </td></tr>
 <tr><td width="50%">
 
+ascii
+
+</td><td width="50%">
+
+This field must only contain single-byte alphanumeric characters and symbols.
+
+</td></tr>
+<tr><td width="50%">
+
 doesnt_end_with
 
 </td><td width="50%">
@@ -3281,6 +3191,15 @@ doesnt_start_with
 </td><td width="50%">
 
 This field may not start with one of the following: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+lowercase
+
+</td><td width="50%">
+
+This field must be lowercase.
 
 </td></tr>
 <tr><td width="50%">
@@ -3373,6 +3292,24 @@ required_if_accepted
 This field is required when :other is accepted.
 
 </td></tr>
+<tr><td width="50%">
+
+ulid
+
+</td><td width="50%">
+
+This field must be a valid ULID.
+
+</td></tr>
+<tr><td width="50%">
+
+uppercase
+
+</td><td width="50%">
+
+This field must be uppercase.
+
+</td></tr>
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
@@ -3381,7 +3318,7 @@ This field is required when :other is accepted.
 
 ### php
 
-##### Missing: 16
+##### Missing: 20
 
 <table width="100%">
 <tr><th width="50%">
@@ -3393,6 +3330,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+ascii
+
+</td><td width="50%">
+
+The :attribute must only contain single-byte alphanumeric characters and symbols.
+
+</td></tr>
 <tr><td width="50%">
 
 declined
@@ -3436,6 +3382,15 @@ enum
 </td><td width="50%">
 
 The selected :attribute is invalid.
+
+</td></tr>
+<tr><td width="50%">
+
+lowercase
+
+</td><td width="50%">
+
+The :attribute must be lowercase.
 
 </td></tr>
 <tr><td width="50%">
@@ -3535,6 +3490,24 @@ required_if_accepted
 </td><td width="50%">
 
 The :attribute field is required when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+ulid
+
+</td><td width="50%">
+
+The :attribute must be a valid ULID.
+
+</td></tr>
+<tr><td width="50%">
+
+uppercase
+
+</td><td width="50%">
+
+The :attribute must be uppercase.
 
 </td></tr>
 </table>

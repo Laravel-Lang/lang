@@ -4,7 +4,7 @@ editLink: false
 
 # pt
 
-##### All missed: 177
+##### All missed: 123
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 143
+##### Missing: 105
 
 <table width="100%">
 <tr><th width="50%">
@@ -205,6 +205,15 @@ Are you sure you want to delete this notification?
 </td></tr>
 <tr><td width="50%">
 
+Are you sure you want to delete your account?
+
+</td><td width="50%">
+
+Are you sure you want to delete your account?
+
+</td></tr>
+<tr><td width="50%">
+
 Are you sure you want to log out?
 
 </td><td width="50%">
@@ -223,11 +232,11 @@ Are you sure you want to stop impersonating?
 </td></tr>
 <tr><td width="50%">
 
-Before continuing, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
+Bangladesh
 
 </td><td width="50%">
 
-Before continuing, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
+Bangladesh
 
 </td></tr>
 <tr><td width="50%">
@@ -246,15 +255,6 @@ Choose Files
 </td><td width="50%">
 
 Choose Files
-
-</td></tr>
-<tr><td width="50%">
-
-Click here to re-send the verification email.
-
-</td><td width="50%">
-
-Click here to re-send the verification email.
 
 </td></tr>
 <tr><td width="50%">
@@ -304,20 +304,11 @@ Dark
 </td></tr>
 <tr><td width="50%">
 
-Drop file or click to choose
+Dominica
 
 </td><td width="50%">
 
-Drop file or click to choose
-
-</td></tr>
-<tr><td width="50%">
-
-Drop files or click to choose
-
-</td><td width="50%">
-
-Drop files or click to choose
+Dominica
 
 </td></tr>
 <tr><td width="50%">
@@ -376,11 +367,11 @@ From
 </td></tr>
 <tr><td width="50%">
 
-Having second thoughts about cancelling your subscription? You can instantly reactive your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
+Haiti
 
 </td><td width="50%">
 
-Having second thoughts about cancelling your subscription? You can instantly reactive your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
+Haiti
 
 </td></tr>
 <tr><td width="50%">
@@ -394,38 +385,11 @@ Heard Island and McDonald Islands
 </td></tr>
 <tr><td width="50%">
 
-If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
+Hong Kong
 
 </td><td width="50%">
 
-If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
-
-</td></tr>
-<tr><td width="50%">
-
-If you need to add specific contact or tax information to your receipts, like your full business name, VAT identification number, or address of record, you may add it here.
-
-</td><td width="50%">
-
-If you need to add specific contact or tax information to your receipts, like your full business name, VAT identification number, or address of record, you may add it here.
-
-</td></tr>
-<tr><td width="50%">
-
-Impersonate
-
-</td><td width="50%">
-
-Impersonate
-
-</td></tr>
-<tr><td width="50%">
-
-Iran, Islamic Republic of
-
-</td><td width="50%">
-
-Iran, Islamic Republic of
+Hong Kong
 
 </td></tr>
 <tr><td width="50%">
@@ -439,20 +403,20 @@ Isle of Man
 </td></tr>
 <tr><td width="50%">
 
-It looks like you do not have an active subscription. You may choose one of the subscription plans below to get started. Subscription plans may be changed or cancelled at your convenience.
+Jane Doe
 
 </td><td width="50%">
 
-It looks like you do not have an active subscription. You may choose one of the subscription plans below to get started. Subscription plans may be changed or cancelled at your convenience.
+Jane Doe
 
 </td></tr>
 <tr><td width="50%">
 
-Jane Doe
+Jersey
 
 </td><td width="50%">
 
-Jane Doe
+Jersey
 
 </td></tr>
 <tr><td width="50%">
@@ -466,6 +430,15 @@ Korea, Republic of
 </td></tr>
 <tr><td width="50%">
 
+Liechtenstein
+
+</td><td width="50%">
+
+Liechtenstein
+
+</td></tr>
+<tr><td width="50%">
+
 Light
 
 </td><td width="50%">
@@ -475,29 +448,11 @@ Light
 </td></tr>
 <tr><td width="50%">
 
-Log In
-
-</td><td width="50%">
-
-Log In
-
-</td></tr>
-<tr><td width="50%">
-
 Log Viewer
 
 </td><td width="50%">
 
 Log Viewer
-
-</td></tr>
-<tr><td width="50%">
-
-Logout Other Browser Sessions
-
-</td><td width="50%">
-
-Logout Other Browser Sessions
 
 </td></tr>
 <tr><td width="50%">
@@ -520,29 +475,20 @@ Macedonia, the former Yugoslav Republic of
 </td></tr>
 <tr><td width="50%">
 
-Manage and logout your active sessions on other browsers and devices.
+Malawi
 
 </td><td width="50%">
 
-Manage and logout your active sessions on other browsers and devices.
+Malawi
 
 </td></tr>
 <tr><td width="50%">
 
-Managing billing for :billableName
+Mali
 
 </td><td width="50%">
 
-Managing billing for :billableName
-
-</td></tr>
-<tr><td width="50%">
-
-Mark all as Read
-
-</td><td width="50%">
-
-Mark all as Read
+Mali
 
 </td></tr>
 <tr><td width="50%">
@@ -565,6 +511,15 @@ Moldova, Republic of
 </td></tr>
 <tr><td width="50%">
 
+Nauru
+
+</td><td width="50%">
+
+Nauru
+
+</td></tr>
+<tr><td width="50%">
+
 Netherlands Antilles
 
 </td><td width="50%">
@@ -583,15 +538,6 @@ Nevermind
 </td></tr>
 <tr><td width="50%">
 
-Nevermind, I'll keep my old plan
-
-</td><td width="50%">
-
-Nevermind, I'll keep my old plan
-
-</td></tr>
-<tr><td width="50%">
-
 Notifications
 
 </td><td width="50%">
@@ -601,56 +547,11 @@ Notifications
 </td></tr>
 <tr><td width="50%">
 
-Our billing management portal allows you to conveniently manage your subscription plan, payment method, and download your recent invoices.
-
-</td><td width="50%">
-
-Our billing management portal allows you to conveniently manage your subscription plan, payment method, and download your recent invoices.
-
-</td></tr>
-<tr><td width="50%">
-
-Please confirm your password before continuing.
-
-</td><td width="50%">
-
-Please confirm your password before continuing.
-
-</td></tr>
-<tr><td width="50%">
-
 Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
 
 </td><td width="50%">
 
 Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
-
-</td></tr>
-<tr><td width="50%">
-
-Please provide a maximum of three receipt emails addresses.
-
-</td><td width="50%">
-
-Please provide a maximum of three receipt emails addresses.
-
-</td></tr>
-<tr><td width="50%">
-
-Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
-
-</td><td width="50%">
-
-Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
-
-</td></tr>
-<tr><td width="50%">
-
-Previewing
-
-</td><td width="50%">
-
-Previewing
 
 </td></tr>
 <tr><td width="50%">
@@ -687,33 +588,6 @@ Resource Row Dropdown
 </td><td width="50%">
 
 Resource Row Dropdown
-
-</td></tr>
-<tr><td width="50%">
-
-Resume Subscription
-
-</td><td width="50%">
-
-Resume Subscription
-
-</td></tr>
-<tr><td width="50%">
-
-Return to :appName
-
-</td><td width="50%">
-
-Return to :appName
-
-</td></tr>
-<tr><td width="50%">
-
-Réunion
-
-</td><td width="50%">
-
-Réunion
 
 </td></tr>
 <tr><td width="50%">
@@ -880,6 +754,15 @@ Sint Maarten
 </td></tr>
 <tr><td width="50%">
 
+Soft Deleted
+
+</td><td width="50%">
+
+Soft Deleted
+
+</td></tr>
+<tr><td width="50%">
+
 South Georgia and the South Sandwich Islands
 
 </td><td width="50%">
@@ -898,65 +781,11 @@ Standalone Actions
 </td></tr>
 <tr><td width="50%">
 
-Start polling
-
-</td><td width="50%">
-
-Start polling
-
-</td></tr>
-<tr><td width="50%">
-
-State / County
-
-</td><td width="50%">
-
-State / County
-
-</td></tr>
-<tr><td width="50%">
-
-Stop Impersonating
-
-</td><td width="50%">
-
-Stop Impersonating
-
-</td></tr>
-<tr><td width="50%">
-
 Stop polling
 
 </td><td width="50%">
 
 Stop polling
-
-</td></tr>
-<tr><td width="50%">
-
-Subscribe
-
-</td><td width="50%">
-
-Subscribe
-
-</td></tr>
-<tr><td width="50%">
-
-Subscription Information
-
-</td><td width="50%">
-
-Subscription Information
-
-</td></tr>
-<tr><td width="50%">
-
-Subscription Pending
-
-</td><td width="50%">
-
-Subscription Pending
 
 </td></tr>
 <tr><td width="50%">
@@ -1006,15 +835,6 @@ Thanks for your continued support. We've attached a copy of your invoice for you
 </td></tr>
 <tr><td width="50%">
 
-Thanks,
-
-</td><td width="50%">
-
-Thanks,
-
-</td></tr>
-<tr><td width="50%">
-
 The action was executed successfully.
 
 </td><td width="50%">
@@ -1051,128 +871,11 @@ The provided coupon code is invalid.
 </td></tr>
 <tr><td width="50%">
 
-The provided two factor recovery code was invalid.
-
-</td><td width="50%">
-
-The provided two factor recovery code was invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-The provided VAT number is invalid.
-
-</td><td width="50%">
-
-The provided VAT number is invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-The receipt emails must be valid email addresses.
-
-</td><td width="50%">
-
-The receipt emails must be valid email addresses.
-
-</td></tr>
-<tr><td width="50%">
-
-The resource was attached!
-
-</td><td width="50%">
-
-The resource was attached!
-
-</td></tr>
-<tr><td width="50%">
-
 The resource was prevented from being saved!
 
 </td><td width="50%">
 
 The resource was prevented from being saved!
-
-</td></tr>
-<tr><td width="50%">
-
-The selected country is invalid.
-
-</td><td width="50%">
-
-The selected country is invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-The selected plan is invalid.
-
-</td><td width="50%">
-
-The selected plan is invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-There are no fields to display.
-
-</td><td width="50%">
-
-There are no fields to display.
-
-</td></tr>
-<tr><td width="50%">
-
-There are no new notifications.
-
-</td><td width="50%">
-
-There are no new notifications.
-
-</td></tr>
-<tr><td width="50%">
-
-There is no active subscription.
-
-</td><td width="50%">
-
-There is no active subscription.
-
-</td></tr>
-<tr><td width="50%">
-
-There was a problem fetching the resource.
-
-</td><td width="50%">
-
-There was a problem fetching the resource.
-
-</td></tr>
-<tr><td width="50%">
-
-This account does not have an active subscription.
-
-</td><td width="50%">
-
-This account does not have an active subscription.
-
-</td></tr>
-<tr><td width="50%">
-
-This copy of Nova is unlicensed.
-
-</td><td width="50%">
-
-This copy of Nova is unlicensed.
-
-</td></tr>
-<tr><td width="50%">
-
-This coupon code can only be used by new customers.
-
-</td><td width="50%">
-
-This coupon code can only be used by new customers.
 
 </td></tr>
 <tr><td width="50%">
@@ -1191,24 +894,6 @@ This subscription has expired and cannot be resumed. Please create a new subscri
 </td><td width="50%">
 
 This subscription has expired and cannot be resumed. Please create a new subscription.
-
-</td></tr>
-<tr><td width="50%">
-
-To
-
-</td><td width="50%">
-
-To
-
-</td></tr>
-<tr><td width="50%">
-
-To finish enabling two factor authentication, scan the following QR code using your phone's authenticator application or enter the setup key and provide the generated OTP code.
-
-</td><td width="50%">
-
-To finish enabling two factor authentication, scan the following QR code using your phone's authenticator application or enter the setup key and provide the generated OTP code.
 
 </td></tr>
 <tr><td width="50%">
@@ -1240,29 +925,20 @@ Turks and Caicos Islands
 </td></tr>
 <tr><td width="50%">
 
-Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application or enter the setup key.
-
-</td><td width="50%">
-
-Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application or enter the setup key.
-
-</td></tr>
-<tr><td width="50%">
-
-Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
-
-</td><td width="50%">
-
-Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
-
-</td></tr>
-<tr><td width="50%">
-
 Type
 
 </td><td width="50%">
 
 Type
+
+</td></tr>
+<tr><td width="50%">
+
+Uganda
+
+</td><td width="50%">
+
+Uganda
 
 </td></tr>
 <tr><td width="50%">
@@ -1321,38 +997,11 @@ Wallis and Futuna
 </td></tr>
 <tr><td width="50%">
 
-We are processing your subscription. Once the subscription has successfully processed, this page will update automatically. Typically, this process should only take a few seconds.
+Yemen
 
 </td><td width="50%">
 
-We are processing your subscription. Once the subscription has successfully processed, this page will update automatically. Typically, this process should only take a few seconds.
-
-</td></tr>
-<tr><td width="50%">
-
-We are unable to process your payment. Please contact customer support.
-
-</td><td width="50%">
-
-We are unable to process your payment. Please contact customer support.
-
-</td></tr>
-<tr><td width="50%">
-
-We have emailed your password reset link!
-
-</td><td width="50%">
-
-We have emailed your password reset link!
-
-</td></tr>
-<tr><td width="50%">
-
-We will send a receipt download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
-
-</td><td width="50%">
-
-We will send a receipt download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
+Yemen
 
 </td></tr>
 <tr><td width="50%">
@@ -1380,6 +1029,15 @@ You may cancel your subscription at any time. Once your subscription has been ca
 </td><td width="50%">
 
 You may cancel your subscription at any time. Once your subscription has been cancelled, you will have the option to resume the subscription until the end of your current billing cycle.
+
+</td></tr>
+<tr><td width="50%">
+
+You're logged in!
+
+</td><td width="50%">
+
+You're logged in!
 
 </td></tr>
 <tr><td width="50%">
@@ -1462,7 +1120,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 10
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -1476,92 +1134,20 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-doesnt_end_with
+ascii
 
 </td><td width="50%">
 
-This field may not end with one of the following: :values.
+This field must only contain single-byte alphanumeric characters and symbols.
 
 </td></tr>
 <tr><td width="50%">
 
-doesnt_start_with
+ulid
 
 </td><td width="50%">
 
-This field may not start with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-max_digits
-
-</td><td width="50%">
-
-This field must not have more than :max digits.
-
-</td></tr>
-<tr><td width="50%">
-
-min_digits
-
-</td><td width="50%">
-
-This field must have at least :min digits.
-
-</td></tr>
-<tr><td width="50%">
-
-password.letters
-
-</td><td width="50%">
-
-This field must contain at least one letter.
-
-</td></tr>
-<tr><td width="50%">
-
-password.mixed
-
-</td><td width="50%">
-
-This field must contain at least one uppercase and one lowercase letter.
-
-</td></tr>
-<tr><td width="50%">
-
-password.numbers
-
-</td><td width="50%">
-
-This field must contain at least one number.
-
-</td></tr>
-<tr><td width="50%">
-
-password.symbols
-
-</td><td width="50%">
-
-This field must contain at least one symbol.
-
-</td></tr>
-<tr><td width="50%">
-
-password.uncompromised
-
-</td><td width="50%">
-
-The given field has appeared in a data leak. Please choose a different field.
-
-</td></tr>
-<tr><td width="50%">
-
-required_if_accepted
-
-</td><td width="50%">
-
-This field is required when :other is accepted.
+This field must be a valid ULID.
 
 </td></tr>
 </table>
@@ -1572,7 +1158,7 @@ This field is required when :other is accepted.
 
 ### php
 
-##### Missing: 10
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -1586,92 +1172,20 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-doesnt_end_with
+ascii
 
 </td><td width="50%">
 
-The :attribute may not end with one of the following: :values.
+The :attribute must only contain single-byte alphanumeric characters and symbols.
 
 </td></tr>
 <tr><td width="50%">
 
-doesnt_start_with
+ulid
 
 </td><td width="50%">
 
-The :attribute may not start with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-max_digits
-
-</td><td width="50%">
-
-The :attribute must not have more than :max digits.
-
-</td></tr>
-<tr><td width="50%">
-
-min_digits
-
-</td><td width="50%">
-
-The :attribute must have at least :min digits.
-
-</td></tr>
-<tr><td width="50%">
-
-password.letters
-
-</td><td width="50%">
-
-The :attribute must contain at least one letter.
-
-</td></tr>
-<tr><td width="50%">
-
-password.mixed
-
-</td><td width="50%">
-
-The :attribute must contain at least one uppercase and one lowercase letter.
-
-</td></tr>
-<tr><td width="50%">
-
-password.numbers
-
-</td><td width="50%">
-
-The :attribute must contain at least one number.
-
-</td></tr>
-<tr><td width="50%">
-
-password.symbols
-
-</td><td width="50%">
-
-The :attribute must contain at least one symbol.
-
-</td></tr>
-<tr><td width="50%">
-
-password.uncompromised
-
-</td><td width="50%">
-
-The given :attribute has appeared in a data leak. Please choose a different :attribute.
-
-</td></tr>
-<tr><td width="50%">
-
-required_if_accepted
-
-</td><td width="50%">
-
-The :attribute field is required when :other is accepted.
+The :attribute must be a valid ULID.
 
 </td></tr>
 </table>

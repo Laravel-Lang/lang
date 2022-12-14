@@ -8,6 +8,7 @@
     "alpha_dash": "Eremu hau soilik egin ahal izango ditu letrak, zenbakiak, marrak eta azpimarrak.",
     "alpha_num": "Eremu hau soilik egin ahal izango ditu letrak eta zenbakiak.",
     "array": "Eremu hau behar array bat.",
+    "ascii": "This field must only contain single-byte alphanumeric characters and symbols.",
     "attached": "Eremu hau da, dagoeneko erantsita.",
     "before": "Hau behar data bat aurretik :date.",
     "before_or_equal": "Hau behar data bat aurretik edo berdina :date.",
@@ -51,6 +52,7 @@
     "ipv4": "Hau izan behar da baliozko IPv4 helbidea.",
     "ipv6": "Hau izan behar da baliozko IPv6 helbidea.",
     "json": "Hau izan behar da baliozko JSON katea.",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "The content must have less than :value items.",
     "lt.file": "The file size must be less than :value kilobytes.",
     "lt.numeric": "The value must be less than :value.",
@@ -105,8 +107,10 @@
     "starts_with": "Hau batekin hasi behar hauetako bat: :values.",
     "string": "Hau izan behar da katea.",
     "timezone": "Hau izan behar da baliozko zona.",
+    "ulid": "This field must be a valid ULID.",
     "unique": "Hau dagoeneko hartu.",
     "uploaded": "Hau huts egin du igo.",
+    "uppercase": "This field must be uppercase.",
     "url": "Formatu hau ez da balioduna.",
     "uuid": "Hau izan behar da baliozko UUID."
 }

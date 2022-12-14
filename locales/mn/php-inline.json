@@ -8,6 +8,7 @@
     "alpha_dash": "Энэ талбар нь зөвхөн захидал, тоо, зураас ба тэмдэглэгээ агуулж болох юм.",
     "alpha_num": "Энэ талбар нь зөвхөн захидал болон дугааруудыг агуулж болох юм.",
     "array": "Энэ талбар нь массив байх естой.",
+    "ascii": "This field must only contain single-byte alphanumeric characters and symbols.",
     "attached": "Энэ талбар нь аль хэдийн хавсаргасан байна.",
     "before": "Энэ нь өмнө нь өдөр байх естой :date.",
     "before_or_equal": "Энэ нь өмнө буюу тэнцүү байх естой :date.",
@@ -51,6 +52,7 @@
     "ipv4": "Уг хаяг нь хүчинтэй ЦТ 4-ийн хаяг байх естой.",
     "ipv6": "Гэхдээ энэ нь ЦИ-гийн хүчинтэй хаяг байх естой.",
     "json": "Энэ нь жинхэнэ Жон мөр байх естой.",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "The content must have less than :value items.",
     "lt.file": "The file size must be less than :value kilobytes.",
     "lt.numeric": "The value must be less than :value.",
@@ -105,8 +107,10 @@
     "starts_with": "Энэ нь дараах нэг эхлэх естой: :values.",
     "string": "Энэ нь мөр байх естой.",
     "timezone": "Энэ нь хүчин төгөлдөр бүс байх естой.",
+    "ulid": "This field must be a valid ULID.",
     "unique": "Энэ нь аль хэдийн авч байна.",
     "uploaded": "Энэ нь хуулж чадаагүй.",
+    "uppercase": "This field must be uppercase.",
     "url": "Энэ хэлбэр нь хүчин төгөлдөр бус байна.",
     "uuid": "Энэ нь хүчин төгөлдөр хамгаалалт байх естой."
 }

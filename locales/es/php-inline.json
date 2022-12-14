@@ -8,6 +8,7 @@
     "alpha_dash": "Este campo solo puede contener letras, números, guiones y guiones bajos.",
     "alpha_num": "Este campo solo puede contener letras y números.",
     "array": "Este campo debe ser un array (colección).",
+    "ascii": "Este campo solo debe contener caracteres alfanuméricos y símbolos de un solo byte.",
     "attached": "Este campo ya se adjuntó.",
     "before": "Debe ser una fecha antes de :date.",
     "before_or_equal": "Debe ser una fecha anterior o igual a :date.",
@@ -51,6 +52,7 @@
     "ipv4": "Debe ser una dirección IPv4 válida.",
     "ipv6": "Debe ser una dirección IPv6 válida.",
     "json": "Debe ser un texto válido en JSON.",
+    "lowercase": "Este campo debe estar en minúscula.",
     "lt.array": "El contenido debe tener menor de :value elementos.",
     "lt.file": "El tamaño del archivo debe ser menor a :value kilobytes.",
     "lt.numeric": "El valor debe ser menor que :value.",
@@ -105,8 +107,10 @@
     "starts_with": "Debe comenzar con alguno de los siguientes valores: :values.",
     "string": "Debe ser un texto.",
     "timezone": "Debe ser de una zona horaria válida.",
+    "ulid": "Debe ser un ULID válido.",
     "unique": "Este campo ya ha sido tomado.",
     "uploaded": "Falló al subir.",
+    "uppercase": "Este campo debe estar en mayúscula.",
     "url": "Debe ser una URL válida.",
     "uuid": "Debe ser un UUID válido."
 }

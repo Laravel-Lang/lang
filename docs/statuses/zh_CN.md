@@ -4,12 +4,12 @@ editLink: false
 
 # zh_CN
 
-##### All missed: 9
+##### All missed: 6
 
 
 ### json
 
-##### Missing: 9
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,83 +23,96 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-Choose Files
+Are you sure you want to delete your account?
 
 </td><td width="50%">
 
-Choose Files
+Are you sure you want to delete your account?
 
 </td></tr>
 <tr><td width="50%">
 
-Drop file or click to choose
+Soft Deleted
 
 </td><td width="50%">
 
-Drop file or click to choose
+Soft Deleted
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php-inline
+
+##### Missing: 2
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+ascii
+
+</td><td width="50%">
+
+This field must only contain single-byte alphanumeric characters and symbols.
 
 </td></tr>
 <tr><td width="50%">
 
-Drop files or click to choose
+ulid
 
 </td><td width="50%">
 
-Drop files or click to choose
+This field must be a valid ULID.
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php
+
+##### Missing: 2
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+ascii
+
+</td><td width="50%">
+
+The :attribute must only contain single-byte alphanumeric characters and symbols.
 
 </td></tr>
 <tr><td width="50%">
 
-Filename
+ulid
 
 </td><td width="50%">
 
-Filename
-
-</td></tr>
-<tr><td width="50%">
-
-Select All Dropdown
-
-</td><td width="50%">
-
-Select All Dropdown
-
-</td></tr>
-<tr><td width="50%">
-
-Select this page
-
-</td><td width="50%">
-
-Select this page
-
-</td></tr>
-<tr><td width="50%">
-
-The image could not be loaded
-
-</td><td width="50%">
-
-The image could not be loaded
-
-</td></tr>
-<tr><td width="50%">
-
-Type
-
-</td><td width="50%">
-
-Type
-
-</td></tr>
-<tr><td width="50%">
-
-Unknown
-
-</td><td width="50%">
-
-Unknown
+The :attribute must be a valid ULID.
 
 </td></tr>
 </table>

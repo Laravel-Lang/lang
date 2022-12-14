@@ -8,6 +8,7 @@
     "alpha_dash": "Бұл өрісте тек әріптер, сандар, сызықшалар және астын сызу болуы мүмкін.",
     "alpha_num": "Бұл өрісте тек әріптер мен сандар болуы мүмкін.",
     "array": "Бұл өріс массив болуы керек.",
+    "ascii": "This field must only contain single-byte alphanumeric characters and symbols.",
     "attached": "Бұл өріс қазірдің өзінде бекітілген.",
     "before": "Бұл :date-ге дейінгі күн болуы керек.",
     "before_or_equal": "Бұл :date жылға дейінгі немесе оған тең күн болуы керек.",
@@ -51,6 +52,7 @@
     "ipv4": "Бұл жарамды IPv4 мекен-жайы болуы керек.",
     "ipv6": "Бұл жарамды IPv6 мекен-жайы болуы керек.",
     "json": "Бұл жарамды JSON жолы болуы керек.",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "The content must have less than :value items.",
     "lt.file": "The file size must be less than :value kilobytes.",
     "lt.numeric": "The value must be less than :value.",
@@ -105,8 +107,10 @@
     "starts_with": "Бұл келесі тармақтардың бірінен басталуы керек: :values.",
     "string": "Бұл болуы тиіс, струна.",
     "timezone": "Бұл қолайлы аймақ болуы керек.",
+    "ulid": "This field must be a valid ULID.",
     "unique": "Бұл қазірдің өзінде жасалды.",
     "uploaded": "Ол жүктелмеді.",
+    "uppercase": "This field must be uppercase.",
     "url": "Бұл формат қолайсыз.",
     "uuid": "Бұл жарамды UUID болуы керек."
 }

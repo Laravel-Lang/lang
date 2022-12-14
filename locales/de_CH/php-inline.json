@@ -8,6 +8,7 @@
     "alpha_dash": "Der Inhalt darf nur aus Buchstaben, Zahlen, Binde- und Unterstrichen bestehen.",
     "alpha_num": "Der Inhalt darf nur aus Buchstaben und Zahlen bestehen.",
     "array": "Dieses Feld muss ein Array sein.",
+    "ascii": "This field must only contain single-byte alphanumeric characters and symbols.",
     "attached": "Dieses Feld ist bereits angehängt.",
     "before": "Das muss ein Datum vor dem :date sein.",
     "before_or_equal": "Das muss ein Datum vor dem :date oder gleich dem :date sein.",
@@ -51,6 +52,7 @@
     "ipv4": "Das muss eine gültige IPv4-Adresse sein.",
     "ipv6": "Das muss eine gültige IPv6-Adresse sein.",
     "json": "Das muss ein gültiger JSON-String sein.",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "Der Inhalt muss kleiner :value Elemente haben.",
     "lt.file": "Die Datei muss kleiner :value Kilobytes gross sein.",
     "lt.numeric": "Der Wert muss kleiner :value sein.",
@@ -105,8 +107,10 @@
     "starts_with": "Der Inhalt muss einen der folgenden Anfänge aufweisen: :values",
     "string": "Das muss ein String sein.",
     "timezone": "Das muss eine gültige Zeitzone sein.",
+    "ulid": "This field must be a valid ULID.",
     "unique": "Das ist schon vergeben.",
     "uploaded": "Das konnte nicht hochgeladen werden.",
+    "uppercase": "This field must be uppercase.",
     "url": "Das muss eine URL sein.",
     "uuid": "Das muss eine UUID sein."
 }

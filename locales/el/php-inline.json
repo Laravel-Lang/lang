@@ -8,6 +8,7 @@
     "alpha_dash": "Αυτό το πεδίο μπορεί να περιέχει μόνο γράμματα, αριθμούς, παύλες και υπογράμμιση.",
     "alpha_num": "Αυτό το πεδίο μπορεί να περιέχει μόνο γράμματα και αριθμούς.",
     "array": "Αυτό το πεδίο πρέπει να είναι ένας πίνακας.",
+    "ascii": "This field must only contain single-byte alphanumeric characters and symbols.",
     "attached": "Αυτό το πεδίο είναι ήδη συνδεδεμένο.",
     "before": "Αυτό πρέπει να είναι μια ημερομηνία πριν από το :date.",
     "before_or_equal": "Αυτό πρέπει να είναι μια ημερομηνία πριν ή ίση με :date.",
@@ -51,6 +52,7 @@
     "ipv4": "Αυτή πρέπει να είναι μια έγκυρη διεύθυνση IPv4.",
     "ipv6": "Αυτή πρέπει να είναι μια έγκυρη διεύθυνση IPv6.",
     "json": "Αυτό πρέπει να είναι μια έγκυρη συμβολοσειρά JSON.",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "The content must have less than :value items.",
     "lt.file": "The file size must be less than :value kilobytes.",
     "lt.numeric": "The value must be less than :value.",
@@ -105,8 +107,10 @@
     "starts_with": "Αυτό πρέπει να ξεκινήσει με ένα από τα ακόλουθα: :values.",
     "string": "Αυτό πρέπει να είναι μια χορδή.",
     "timezone": "Αυτό πρέπει να είναι μια έγκυρη ζώνη.",
+    "ulid": "This field must be a valid ULID.",
     "unique": "Αυτό έχει ήδη ληφθεί.",
     "uploaded": "Αυτό απέτυχε να φορτώσει.",
+    "uppercase": "This field must be uppercase.",
     "url": "Αυτή η μορφή δεν είναι έγκυρη.",
     "uuid": "Αυτό πρέπει να είναι ένα έγκυρο UUID."
 }

@@ -8,6 +8,7 @@
     "alpha_dash": "اس میدان سکتا ہے صرف پر مشتمل خط, تعداد, ڈیش اور ظاہر کرتی ہے.",
     "alpha_num": "اس میدان میں کر سکتے ہیں صرف حروف اور نمبر.",
     "array": "اس میدان میں ہونا ضروری ہے ایک سرنی.",
+    "ascii": "This field must only contain single-byte alphanumeric characters and symbols.",
     "attached": "اس میدان میں پہلے سے ہی ہے کے ساتھ منسلک.",
     "before": "یہ ہونا ضروری ہے ایک تاریخ سے پہلے :date.",
     "before_or_equal": "یہ ہونا ضروری ہے ایک تاریخ سے پہلے یا اس کے برابر :date.",
@@ -51,6 +52,7 @@
     "ipv4": "یہ ہونا ضروری ہے ایک درست IPv4 ایڈریس.",
     "ipv6": "یہ ہونا ضروری ہے ایک درست IPv6 ایڈریس.",
     "json": "یہ ہونا ضروری ہے ایک درست JSON سٹرنگ ہے.",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "The content must have less than :value items.",
     "lt.file": "The file size must be less than :value kilobytes.",
     "lt.numeric": "The value must be less than :value.",
@@ -105,8 +107,10 @@
     "starts_with": "اس کے ساتھ شروع ہونا چاہئے مندرجہ ذیل میں سے ایک: :values.",
     "string": "یہ ہونا ضروری ہے ایک سٹرنگ ہے.",
     "timezone": "یہ ہونا ضروری ہے ایک درست زون ہے.",
+    "ulid": "This field must be a valid ULID.",
     "unique": "اس نے پہلے ہی لے جایا گیا.",
     "uploaded": "اس کے لئے میں ناکام رہے اپ لوڈ کریں.",
+    "uppercase": "This field must be uppercase.",
     "url": "اس کی شکل باطل ہے.",
     "uuid": "یہ ہونا ضروری ہے ایک درست UUID."
 }

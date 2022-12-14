@@ -4,7 +4,7 @@ editLink: false
 
 # fil
 
-##### All missed: 845
+##### All missed: 857
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 762
+##### Missing: 766
 
 <table width="100%">
 <tr><th width="50%">
@@ -687,6 +687,15 @@ Are you sure you want to delete this team? Once a team is deleted, all of its re
 </td><td width="50%">
 
 Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted.
+
+</td></tr>
+<tr><td width="50%">
+
+Are you sure you want to delete your account?
+
+</td><td width="50%">
+
+Are you sure you want to delete your account?
 
 </td></tr>
 <tr><td width="50%">
@@ -3969,6 +3978,15 @@ Once your account is deleted, all of its resources and data will be permanently 
 </td></tr>
 <tr><td width="50%">
 
+Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+
+</td><td width="50%">
+
+Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+
+</td></tr>
+<tr><td width="50%">
+
 Only Trashed
 
 </td><td width="50%">
@@ -5144,6 +5162,15 @@ Slovenia
 </td><td width="50%">
 
 Slovenia
+
+</td></tr>
+<tr><td width="50%">
+
+Soft Deleted
+
+</td><td width="50%">
+
+Soft Deleted
 
 </td></tr>
 <tr><td width="50%">
@@ -6939,6 +6966,15 @@ You may not leave a team that you created.
 </td></tr>
 <tr><td width="50%">
 
+You're logged in!
+
+</td><td width="50%">
+
+You're logged in!
+
+</td></tr>
+<tr><td width="50%">
+
 Your :invoiceName invoice is now available!
 
 </td><td width="50%">
@@ -7035,7 +7071,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 34
+##### Missing: 38
 
 <table width="100%">
 <tr><th width="50%">
@@ -7103,6 +7139,15 @@ This field must be an array.
 </td></tr>
 <tr><td width="50%">
 
+ascii
+
+</td><td width="50%">
+
+This field must only contain single-byte alphanumeric characters and symbols.
+
+</td></tr>
+<tr><td width="50%">
+
 attached
 
 </td><td width="50%">
@@ -7153,6 +7198,15 @@ filled
 </td><td width="50%">
 
 This field must have a value.
+
+</td></tr>
+<tr><td width="50%">
+
+lowercase
+
+</td><td width="50%">
+
+This field must be lowercase.
 
 </td></tr>
 <tr><td width="50%">
@@ -7353,6 +7407,24 @@ required_without_all
 This field is required when none of :values are present.
 
 </td></tr>
+<tr><td width="50%">
+
+ulid
+
+</td><td width="50%">
+
+This field must be a valid ULID.
+
+</td></tr>
+<tr><td width="50%">
+
+uppercase
+
+</td><td width="50%">
+
+This field must be uppercase.
+
+</td></tr>
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
@@ -7361,7 +7433,7 @@ This field is required when none of :values are present.
 
 ### php
 
-##### Missing: 35
+##### Missing: 39
 
 <table width="100%">
 <tr><th width="50%">
@@ -7380,6 +7452,15 @@ accepted_if
 </td><td width="50%">
 
 The :attribute must be accepted when :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+ascii
+
+</td><td width="50%">
+
+The :attribute must only contain single-byte alphanumeric characters and symbols.
 
 </td></tr>
 <tr><td width="50%">
@@ -7461,6 +7542,15 @@ failed
 </td><td width="50%">
 
 These credentials do not match our records.
+
+</td></tr>
+<tr><td width="50%">
+
+lowercase
+
+</td><td width="50%">
+
+The :attribute must be lowercase.
 
 </td></tr>
 <tr><td width="50%">
@@ -7677,6 +7767,24 @@ token
 </td><td width="50%">
 
 This password reset token is invalid.
+
+</td></tr>
+<tr><td width="50%">
+
+ulid
+
+</td><td width="50%">
+
+The :attribute must be a valid ULID.
+
+</td></tr>
+<tr><td width="50%">
+
+uppercase
+
+</td><td width="50%">
+
+The :attribute must be uppercase.
 
 </td></tr>
 <tr><td width="50%">

@@ -8,6 +8,7 @@
     "alpha_dash": "Y maes hwn mai dim ond yn cynnwys llythrennau, rhifau, llinellau toriad ac yn tanlinellu.",
     "alpha_num": "Y maes hwn mai dim ond yn cynnwys llythrennau a rhifau.",
     "array": "Mae hyn yn maes rhaid i fod yn arae.",
+    "ascii": "This field must only contain single-byte alphanumeric characters and symbols.",
     "attached": "Mae'r maes hwn eisoes yn ynghlwm.",
     "before": "Rhaid i hwn fod yn ddyddiad cyn :date.",
     "before_or_equal": "Rhaid i hwn fod yn ddyddiad cyn neu yn hafal i :date.",
@@ -51,6 +52,7 @@
     "ipv4": "Rhaid i hwn fod yn ddilys ar IPv4 cyfeiriad.",
     "ipv6": "Rhaid i hwn fod yn ddilys cyfeiriad IPv6.",
     "json": "Rhaid i hwn fod yn ddilys JSON llinyn.",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "The content must have less than :value items.",
     "lt.file": "The file size must be less than :value kilobytes.",
     "lt.numeric": "The value must be less than :value.",
@@ -105,8 +107,10 @@
     "starts_with": "Rhaid i hyn ddechrau gydag un o'r canlynol: :values.",
     "string": "Rhaid i hyn fod yn llinyn.",
     "timezone": "Rhaid i hwn fod yn ddilys parth.",
+    "ulid": "This field must be a valid ULID.",
     "unique": "Mae hyn eisoes wedi eu cymryd.",
     "uploaded": "Mae hyn yn methu â llwytho i fyny.",
+    "uppercase": "This field must be uppercase.",
     "url": "Mae'r fformat hwn yn annilys.",
     "uuid": "Rhaid i hwn fod yn ddilys UUID."
 }

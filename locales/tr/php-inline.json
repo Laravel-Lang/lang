@@ -8,6 +8,7 @@
     "alpha_dash": "Bu alan yalnızca harfler, sayılar, kısa çizgiler ve alt çizgiler içerebilir.",
     "alpha_num": "Bu alan yalnızca harfler ve sayılar içerebilir.",
     "array": "Bu alan bir dizi olmalı.",
+    "ascii": "This field must only contain single-byte alphanumeric characters and symbols.",
     "attached": "Bu alan zaten tanımlı.",
     "before": "Bu :date'den önceki bir tarih olmalı.",
     "before_or_equal": "Bu, :date'ten önce veya ona eşit bir tarih olmalıdır.",
@@ -51,6 +52,7 @@
     "ipv4": "Bu geçerli bir IPv4 adresi olmalıdır.",
     "ipv6": "Bu geçerli bir IPv6 adresi olmalıdır.",
     "json": "Bu geçerli bir json dizesi olmalıdır.",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "Bu içerikte en fazla :value öge olabilir.",
     "lt.file": "Bu dosya :value kilobayt'tan büyük olamaz.",
     "lt.numeric": "Bu sayı en fazla :value olmalıdır.",
@@ -105,8 +107,10 @@
     "starts_with": "Bu alan şunlardan biriyle başlamalıdır: :values.",
     "string": "Bu bir dize olmalı.",
     "timezone": "Bu geçerli bir bölge olmalıdır.",
+    "ulid": "This field must be a valid ULID.",
     "unique": "Bu zaten mevcut.",
     "uploaded": "Bu yüklenemedi.",
+    "uppercase": "This field must be uppercase.",
     "url": "Bu biçim geçersiz.",
     "uuid": "Bu geçerli bir UUID olmalıdır."
 }

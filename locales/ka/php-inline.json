@@ -8,6 +8,7 @@
     "alpha_dash": "ამ სფეროში შეიძლება შეიცავდეს მხოლოდ ასოები, ნომრები, dashes და ხაზს უსვამს.",
     "alpha_num": "ეს ველი შეიძლება შეიცავდეს მხოლოდ ასოები და ციფრები.",
     "array": "ეს ველი უნდა იყოს მასივი.",
+    "ascii": "This field must only contain single-byte alphanumeric characters and symbols.",
     "attached": "ეს ველი უკვე ერთვის.",
     "before": "ეს უნდა იყოს თარიღი ადრე :date.",
     "before_or_equal": "ეს უნდა იყოს თარიღი ადრე ან ტოლია :date.",
@@ -51,6 +52,7 @@
     "ipv4": "ეს უნდა იყოს სწორი IPv4 მისამართი.",
     "ipv6": "ეს უნდა იყოს სწორი IPv6 მისამართი.",
     "json": "ეს უნდა იყოს სწორი json string.",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "ელემენტების რაოდენობა უნდა იყოს :value-ზე ნაკლები.",
     "lt.file": "ფაილის ზომა უნდა იყოს :value კილობაიტზე ნაკლები.",
     "lt.numeric": "ღირებულება უნდა იყოს :value-ზე ნაკლები.",
@@ -105,8 +107,10 @@
     "starts_with": "ეს უნდა დაიწყოს ერთი შემდეგი: :values.",
     "string": "ეს უნდა იყოს სიმებიანი.",
     "timezone": "ეს უნდა იყოს სწორი ზონაში.",
+    "ulid": "This field must be a valid ULID.",
     "unique": "ეს უკვე მიღებული.",
     "uploaded": "ეს ვერ ატვირთეთ.",
+    "uppercase": "This field must be uppercase.",
     "url": "ეს ფორმატი არასწორია.",
     "uuid": "ეს უნდა იყოს სწორი UUID."
 }

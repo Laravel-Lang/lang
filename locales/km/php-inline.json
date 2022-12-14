@@ -8,6 +8,7 @@
     "alpha_dash": "វាលនេះអាចមានតែអក្សរ លេខ និងសហសញ្ញា(-)។",
     "alpha_num": "វាលនេះអាចមានតែអក្សរ និងលេខ។",
     "array": "វាលនេះត្រូវតែជា សំណុំ។",
+    "ascii": "This field must only contain single-byte alphanumeric characters and symbols.",
     "attached": "វាលនេះត្រូវបានភ្ជាប់រួចទៅហើយ។",
     "before": "វាលនេះត្រូវតែមានកាលបរិច្ឆេទមុន :date។",
     "before_or_equal": "វាលនេះត្រូវតែជាកាលបរិច្ឆេទ មុនឬស្មើ :date។",
@@ -51,6 +52,7 @@
     "ipv4": "វាលនេះត្រូវតែជា IPv4 address ត្រឹមត្រូវ។",
     "ipv6": "វាលនេះត្រូវតែជា IPv6 address ត្រឹមត្រូវ។",
     "json": "វាលនេះត្រូវតែជា JSON string ត្រឹមត្រូវ។",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "វាលនេះត្រូវតែមានចំនួនតិចជាង :value។",
     "lt.file": "វាលនេះត្រូវតែតិចជាង :value គីឡូបៃ។",
     "lt.numeric": "វាលនេះត្រូវតែតិចជាង :value។",
@@ -105,8 +107,10 @@
     "starts_with": "វាលនេះត្រូវចាប់ផ្តើមដោយ :values ណាមួយ។",
     "string": "វាលនេះត្រូវតែជាប្រភេទតួអក្សរ។",
     "timezone": "វាលនេះត្រូវតែជាតំបន់ដែលត្រឹមត្រូវ។",
+    "ulid": "This field must be a valid ULID.",
     "unique": "វាលនេះត្រូវបានប្រើរួចហើយ។",
     "uploaded": "វាលនេះបរាជ័យក្នុងការបញ្ចូល។",
+    "uppercase": "This field must be uppercase.",
     "url": "វាលនេះទម្រង់ត្រឹមត្រូវ។",
     "uuid": "វាលនេះត្រូវតែជាទម្រង់ UUID។"
 }

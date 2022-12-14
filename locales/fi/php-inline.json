@@ -8,6 +8,7 @@
     "alpha_dash": "Tämä kenttä voi sisältää vain kirjaimia, numeroita, viivoja ja alaviivoja.",
     "alpha_num": "Tämä kenttä voi sisältää vain kirjaimia ja numeroita.",
     "array": "Tämän kentän täytyy olla taulukko.",
+    "ascii": "This field must only contain single-byte alphanumeric characters and symbols.",
     "attached": "Tämä kenttä on jo kiinnitetty.",
     "before": "Päivämäärän täytyy olla ennen kuin :date.",
     "before_or_equal": "Päivämäärän täytyy olla ennen tai sama kuin :date.",
@@ -51,6 +52,7 @@
     "ipv4": "Tämän on oltava kelvollinen IPv4-osoite.",
     "ipv6": "Tämän on oltava kelvollinen IPv6-osoite.",
     "json": "Tämän täytyy olla kelvollinen JSON-merkkijono.",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "Sisältö saa sisältää enintään :value kohdetta.",
     "lt.file": "Tiedoston koko saa olla enintään :value kilotavua.",
     "lt.numeric": "Arvo saa olla korkeintaan :value.",
@@ -105,8 +107,10 @@
     "starts_with": "Tämä on aloitettava yhdellä seuraavista: :values.",
     "string": "Tämän täytyy olla merkkijono.",
     "timezone": "Tämän täytyy olla kelvollinen aikavyöhyke.",
+    "ulid": "This field must be a valid ULID.",
     "unique": "Tämä on jo käytössä.",
     "uploaded": "Tämän lataus epäonnistui.",
+    "uppercase": "This field must be uppercase.",
     "url": "Tämä muoto on virheellinen.",
     "uuid": "Tämän on oltava voimassa oleva UUID."
 }

@@ -21,6 +21,7 @@ return [
     'alpha_dash'      => 'The :attribute must only contain letters, numbers, dashes and underscores.',
     'alpha_num'       => 'The :attribute must only contain letters and numbers.',
     'array'           => 'The :attribute must be an array.',
+    'ascii'           => 'The :attribute must only contain single-byte alphanumeric characters and symbols.',
     'before'          => 'The :attribute must be a date before :date.',
     'before_or_equal' => 'The :attribute must be a date before or equal to :date.',
     'between'         => [
@@ -62,15 +63,16 @@ return [
         'numeric' => 'The :attribute must be greater than or equal to :value.',
         'string'  => 'The :attribute must be greater than or equal to :value characters.',
     ],
-    'image'    => 'The :attribute must be an image.',
-    'in'       => 'The selected :attribute is invalid.',
-    'in_array' => 'The :attribute field does not exist in :other.',
-    'integer'  => 'The :attribute must be an integer.',
-    'ip'       => 'The :attribute must be a valid IP address.',
-    'ipv4'     => 'The :attribute must be a valid IPv4 address.',
-    'ipv6'     => 'The :attribute must be a valid IPv6 address.',
-    'json'     => 'The :attribute must be a valid JSON string.',
-    'lt'       => [
+    'image'     => 'The :attribute must be an image.',
+    'in'        => 'The selected :attribute is invalid.',
+    'in_array'  => 'The :attribute field does not exist in :other.',
+    'integer'   => 'The :attribute must be an integer.',
+    'ip'        => 'The :attribute must be a valid IP address.',
+    'ipv4'      => 'The :attribute must be a valid IPv4 address.',
+    'ipv6'      => 'The :attribute must be a valid IPv6 address.',
+    'json'      => 'The :attribute must be a valid JSON string.',
+    'lowercase' => 'The :attribute must be lowercase.',
+    'lt'        => [
         'array'   => 'The :attribute must have less than :value items.',
         'file'    => 'The :attribute must be less than :value kilobytes.',
         'numeric' => 'The :attribute must be less than :value.',
@@ -137,7 +139,9 @@ return [
     'timezone'    => 'The :attribute must be a valid timezone.',
     'unique'      => 'The :attribute has already been taken.',
     'uploaded'    => 'The :attribute failed to upload.',
+    'uppercase'   => 'The :attribute must be uppercase.',
     'url'         => 'The :attribute must be a valid URL.',
+    'ulid'        => 'The :attribute must be a valid ULID.',
     'uuid'        => 'The :attribute must be a valid UUID.',
 
     /*

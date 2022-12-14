@@ -8,6 +8,7 @@
     "alpha_dash": "Ин соҳа метавонад дар бар гирад, ки танҳо ҳарфҳо, рақамҳо, тире ва подчеркивания.",
     "alpha_num": "Ин соҳа метавонад дар бар гирад, ки танҳо ҳарфҳо ва рақамҳои.",
     "array": "Ин соҳа бояд массивом.",
+    "ascii": "This field must only contain single-byte alphanumeric characters and symbols.",
     "attached": "Ин майдон аллакай прикреплено.",
     "before": "Он бояд аз таърих, ки то соли :date.",
     "before_or_equal": "Он бояд бошад, то санаи е баробар ба :date.",
@@ -51,6 +52,7 @@
     "ipv4": "Ин бояд воқеии IPv4-адрес.",
     "ipv6": "Ин бояд воқеии IPv6-адрес.",
     "json": "Ин бояд допустимая сатри JSON.",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "The content must have less than :value items.",
     "lt.file": "The file size must be less than :value kilobytes.",
     "lt.numeric": "The value must be less than :value.",
@@ -105,8 +107,10 @@
     "starts_with": "Ин бояд бо оғоз мекунанд, ки бо яке аз нуқтаҳои зерин: :values.",
     "string": "Ин аст, ки бояд струна.",
     "timezone": "Ин бояд допустимая минтақаи.",
+    "ulid": "This field must be a valid ULID.",
     "unique": "Ин аллакай анҷом.",
     "uploaded": "Ин нашуд зеркашӣ.",
+    "uppercase": "This field must be uppercase.",
     "url": "Ин формат недопустим.",
     "uuid": "Ин бояд воқеии UUID."
 }

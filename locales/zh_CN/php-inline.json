@@ -8,6 +8,7 @@
     "alpha_dash": "只能由字母、数字、短划线(-)和下划线(_)组成。",
     "alpha_num": "只能由字母和数字组成。",
     "array": "必须是一个数组。",
+    "ascii": "This field must only contain single-byte alphanumeric characters and symbols.",
     "attached": "此字段已附加。",
     "before": "必须要早于 :date。",
     "before_or_equal": "必须要等于 :date 或更早。",
@@ -51,6 +52,7 @@
     "ipv4": "必须是有效的 IPv4 地址。",
     "ipv6": "必须是有效的 IPv6 地址。",
     "json": "必须是正确的 JSON 格式。",
+    "lowercase": "必须小写。",
     "lt.array": "必须少于 :value 个元素。",
     "lt.file": "必须小于 :value KB。",
     "lt.numeric": "必须小于 :value。",
@@ -105,8 +107,10 @@
     "starts_with": "必须以 :values 为开头。",
     "string": "必须是一个字符串。",
     "timezone": "必须是一个合法的时区值。",
+    "ulid": "This field must be a valid ULID.",
     "unique": "已经存在。",
     "uploaded": "上传失败。",
+    "uppercase": "必须大写。",
     "url": "格式不正确。",
     "uuid": "必须是有效的 UUID。"
 }

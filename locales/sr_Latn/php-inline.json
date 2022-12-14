@@ -8,6 +8,7 @@
     "alpha_dash": "Ovo polje može sadržati samo slova, brojeve i povlake.",
     "alpha_num": "Ovo polje može sadržati samo slova i brojeve.",
     "array": "Ovo polje mora sadržati nekih niz stavki.",
+    "ascii": "This field must only contain single-byte alphanumeric characters and symbols.",
     "attached": "Ово поље је већ причвршћено.",
     "before": "Ovo mora biti datum pre :date.",
     "before_or_equal": "Ovo mora biti :date ili raniji datum.",
@@ -51,6 +52,7 @@
     "ipv4": "Ovo mora da bude važeća IPv4 adresa.",
     "ipv6": "Ovo mora da bude važeća IPv6 adresa.",
     "json": "Ovo mora da bude važeća JSON format.",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "Niz mora sadržati manje od :value stavki.",
     "lt.file": "Veličina fajla mora da bude manja od :value kilobajta.",
     "lt.numeric": "Vrednost mora biti manja od :value.",
@@ -105,8 +107,10 @@
     "starts_with": "Ovo polje mora početi sa jednim od ponuđenih: :values.",
     "string": "Mora biti rečenica.",
     "timezone": "Mora biti validna vremenska zona.",
+    "ulid": "This field must be a valid ULID.",
     "unique": "Uneta vrednost već postoji.",
     "uploaded": "Greška pri otpremanju.",
+    "uppercase": "This field must be uppercase.",
     "url": "Format urla nije validan.",
     "uuid": "Ovo mora biti važeći UUID."
 }

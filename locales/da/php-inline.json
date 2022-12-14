@@ -8,6 +8,7 @@
     "alpha_dash": "Dette felt må kun indeholde bogstaver, tal, bindestreger og understregninger.",
     "alpha_num": "Dette felt må kun indeholde bogstaver og tal.",
     "array": "Dette felt skal være et array.",
+    "ascii": "This field must only contain single-byte alphanumeric characters and symbols.",
     "attached": "Dette felt er allerede vedhæftet.",
     "before": "Dette skal være en dato før :date.",
     "before_or_equal": "Dette skal være en dato før eller lig med :date.",
@@ -51,6 +52,7 @@
     "ipv4": "Dette skal være en gyldig IPv4-adresse.",
     "ipv6": "Dette skal være en gyldig IPv6-adresse.",
     "json": "Dette skal være en gyldig JSON-streng.",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "The content must have less than :value items.",
     "lt.file": "The file size must be less than :value kilobytes.",
     "lt.numeric": "The value must be less than :value.",
@@ -105,8 +107,10 @@
     "starts_with": "Dette skal starte med et af følgende: :values.",
     "string": "Dette skal være en streng.",
     "timezone": "Dette skal være en gyldig zoneone.",
+    "ulid": "This field must be a valid ULID.",
     "unique": "Dette er allerede taget.",
     "uploaded": "Dette kunne ikke uploades.",
+    "uppercase": "This field must be uppercase.",
     "url": "Dette format er ugyldigt.",
     "uuid": "Dette skal være en gyldig UUID."
 }

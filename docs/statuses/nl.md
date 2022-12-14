@@ -4,12 +4,12 @@ editLink: false
 
 # nl
 
-##### All missed: 39
+##### All missed: 16
 
 
 ### json
 
-##### Missing: 25
+##### Missing: 13
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,29 +23,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-(and :count more error)
+Are you sure you want to delete your account?
 
 </td><td width="50%">
 
-(and :count more error)
-
-</td></tr>
-<tr><td width="50%">
-
-(and :count more errors)
-
-</td><td width="50%">
-
-(and :count more errors)
-
-</td></tr>
-<tr><td width="50%">
-
-Choose Files
-
-</td><td width="50%">
-
-Choose Files
+Are you sure you want to delete your account?
 
 </td></tr>
 <tr><td width="50%">
@@ -64,15 +46,6 @@ Drop files or click to choose
 </td><td width="50%">
 
 Drop files or click to choose
-
-</td></tr>
-<tr><td width="50%">
-
-Filename
-
-</td><td width="50%">
-
-Filename
 
 </td></tr>
 <tr><td width="50%">
@@ -113,38 +86,11 @@ Logs
 </td></tr>
 <tr><td width="50%">
 
-Refresh
+Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
 
 </td><td width="50%">
 
-Refresh
-
-</td></tr>
-<tr><td width="50%">
-
-Scroll to bottom
-
-</td><td width="50%">
-
-Scroll to bottom
-
-</td></tr>
-<tr><td width="50%">
-
-Scroll to top
-
-</td><td width="50%">
-
-Scroll to top
-
-</td></tr>
-<tr><td width="50%">
-
-Select a log file...
-
-</td><td width="50%">
-
-Select a log file...
+Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
 
 </td></tr>
 <tr><td width="50%">
@@ -158,11 +104,11 @@ Select All Dropdown
 </td></tr>
 <tr><td width="50%">
 
-Select this page
+Soft Deleted
 
 </td><td width="50%">
 
-Select this page
+Soft Deleted
 
 </td></tr>
 <tr><td width="50%">
@@ -185,65 +131,11 @@ Stop polling
 </td></tr>
 <tr><td width="50%">
 
-The action was executed successfully.
-
-</td><td width="50%">
-
-The action was executed successfully.
-
-</td></tr>
-<tr><td width="50%">
-
-The given data was invalid.
-
-</td><td width="50%">
-
-The given data was invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-The image could not be loaded
-
-</td><td width="50%">
-
-The image could not be loaded
-
-</td></tr>
-<tr><td width="50%">
-
-The provided two factor recovery code was invalid.
-
-</td><td width="50%">
-
-The provided two factor recovery code was invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-To
-
-</td><td width="50%">
-
-To
-
-</td></tr>
-<tr><td width="50%">
-
 Type
 
 </td><td width="50%">
 
 Type
-
-</td></tr>
-<tr><td width="50%">
-
-Unknown
-
-</td><td width="50%">
-
-Unknown
 
 </td></tr>
 </table>
@@ -254,7 +146,7 @@ Unknown
 
 ### php-inline
 
-##### Missing: 10
+##### Missing: 1
 
 <table width="100%">
 <tr><th width="50%">
@@ -268,92 +160,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-doesnt_end_with
+ascii
 
 </td><td width="50%">
 
-This field may not end with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-doesnt_start_with
-
-</td><td width="50%">
-
-This field may not start with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-max_digits
-
-</td><td width="50%">
-
-This field must not have more than :max digits.
-
-</td></tr>
-<tr><td width="50%">
-
-min_digits
-
-</td><td width="50%">
-
-This field must have at least :min digits.
-
-</td></tr>
-<tr><td width="50%">
-
-password.letters
-
-</td><td width="50%">
-
-This field must contain at least one letter.
-
-</td></tr>
-<tr><td width="50%">
-
-password.mixed
-
-</td><td width="50%">
-
-This field must contain at least one uppercase and one lowercase letter.
-
-</td></tr>
-<tr><td width="50%">
-
-password.numbers
-
-</td><td width="50%">
-
-This field must contain at least one number.
-
-</td></tr>
-<tr><td width="50%">
-
-password.symbols
-
-</td><td width="50%">
-
-This field must contain at least one symbol.
-
-</td></tr>
-<tr><td width="50%">
-
-password.uncompromised
-
-</td><td width="50%">
-
-The given field has appeared in a data leak. Please choose a different field.
-
-</td></tr>
-<tr><td width="50%">
-
-required_if_accepted
-
-</td><td width="50%">
-
-This field is required when :other is accepted.
+This field must only contain single-byte alphanumeric characters and symbols.
 
 </td></tr>
 </table>
@@ -364,7 +175,7 @@ This field is required when :other is accepted.
 
 ### php
 
-##### Missing: 4
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -378,38 +189,20 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-doesnt_end_with
+ascii
 
 </td><td width="50%">
 
-The :attribute may not end with one of the following: :values.
+The :attribute must only contain single-byte alphanumeric characters and symbols.
 
 </td></tr>
 <tr><td width="50%">
 
-max_digits
+ulid
 
 </td><td width="50%">
 
-The :attribute must not have more than :max digits.
-
-</td></tr>
-<tr><td width="50%">
-
-min_digits
-
-</td><td width="50%">
-
-The :attribute must have at least :min digits.
-
-</td></tr>
-<tr><td width="50%">
-
-required_if_accepted
-
-</td><td width="50%">
-
-The :attribute field is required when :other is accepted.
+The :attribute must be a valid ULID.
 
 </td></tr>
 </table>

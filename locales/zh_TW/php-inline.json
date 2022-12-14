@@ -8,6 +8,7 @@
     "alpha_dash": "只能以字母、數字、連接線(-)及底線(_)組成。",
     "alpha_num": "只能以字母及數字組成。",
     "array": "必須為陣列。",
+    "ascii": "This field must only contain single-byte alphanumeric characters and symbols.",
     "attached": "此字段已附加。",
     "before": "必須要早於 :date。",
     "before_or_equal": "必須要等於 :date 或更早。",
@@ -51,6 +52,7 @@
     "ipv4": "必須是一個有效的 IPv4 位址。",
     "ipv6": "必須是一個有效的 IPv6 位址。",
     "json": "必須是正確的 JSON 字串。",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "必須少於 :value 個元素。",
     "lt.file": "必須小於 :value KB。",
     "lt.numeric": "必須小於 :value。",
@@ -105,8 +107,10 @@
     "starts_with": "開頭必須包含下列之一：:values。",
     "string": "必須是一個字串。",
     "timezone": "必須是一個正確的時區值。",
+    "ulid": "This field must be a valid ULID.",
     "unique": "已經存在。",
     "uploaded": "上傳失敗。",
+    "uppercase": "This field must be uppercase.",
     "url": "格式錯誤。",
     "uuid": "必須是有效的 UUID。"
 }

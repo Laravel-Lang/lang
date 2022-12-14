@@ -8,6 +8,7 @@
     "alpha_dash": "Lo camp a de conténer pas que de letras, nombres e de tirets.",
     "alpha_num": "Lo camp a de conténer pas que de letras e nombres.",
     "array": "Lo camp deu èsser un tablèu.",
+    "ascii": "This field must only contain single-byte alphanumeric characters and symbols.",
     "attached": "This field is already attached.",
     "before": "La deu èsser data anteriora a :date.",
     "before_or_equal": "La deu èsser anteriora o egala a :date.",
@@ -51,6 +52,7 @@
     "ipv4": "Aqueste camp deu èsser una adreça IPv4 valida.",
     "ipv6": "Aqueste camp deu èsser una adreça IPv6 valida.",
     "json": "Aqueste camp deu èsser una cadena JSON valida.",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "Lo tablèu deu conténer almens :value elements.",
     "lt.file": "La talha del fichièr deu èsser inferiora a :value kilo-octets.",
     "lt.numeric": "La valor deu èsser inferiora a :value.",
@@ -105,8 +107,10 @@
     "starts_with": "Aqueste camp deu començar amb una de las valors seguentas : :values",
     "string": "Aqueste camp deu èsser una cadena de tèxt.",
     "timezone": "Aqueste camp deu èsser una zòna orària valida.",
+    "ulid": "This field must be a valid ULID.",
     "unique": "La valor es ja presa.",
     "uploaded": "Lo fichièr a pas pogut s’enviar.",
+    "uppercase": "This field must be uppercase.",
     "url": "Lo format de l’URL es invalid.",
     "uuid": "Aqueste camp deu èsser un UUID valid"
 }

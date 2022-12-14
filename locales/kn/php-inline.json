@@ -8,6 +8,7 @@
     "alpha_dash": "ಈ ಕ್ಷೇತ್ರದಲ್ಲಿ may only contain letters, numbers, ಗೆರೆಗಳು ಮತ್ತು ಒತ್ತಿಹೇಳುತ್ತದೆ.",
     "alpha_num": "ಈ ಕ್ಷೇತ್ರದಲ್ಲಿ may only contain ಅಕ್ಷರಗಳು ಮತ್ತು ಸಂಖ್ಯೆಗಳ.",
     "array": "ಈ ಕ್ಷೇತ್ರದಲ್ಲಿ ಮಾಡಬೇಕು ಒಂದು ಶ್ರೇಣಿಯನ್ನು.",
+    "ascii": "This field must only contain single-byte alphanumeric characters and symbols.",
     "attached": "ಈ ಕ್ಷೇತ್ರದಲ್ಲಿ ಈಗಾಗಲೇ ಲಗತ್ತಿಸಲಾಗಿದೆ.",
     "before": "ಈ ಮಾಡಬೇಕು ಒಂದು ದಿನಾಂಕ ಮೊದಲು :date.",
     "before_or_equal": "ಈ ಮಾಡಬೇಕು ಒಂದು ದಿನಾಂಕ ಮೊದಲು ಅಥವಾ ಸಮಾನ :date.",
@@ -51,6 +52,7 @@
     "ipv4": "ಈ ಮಾಡಬೇಕು ಒಂದು ಮಾನ್ಯವಾದ IPv4 ವಿಳಾಸ.",
     "ipv6": "ಈ must be a valid IPv6 ವಿಳಾಸವನ್ನು ಹೊಂದಿದೆ.",
     "json": "ಈ must be a valid JSON ಸ್ಟ್ರಿಂಗ್.",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "The content must have less than :value items.",
     "lt.file": "The file size must be less than :value kilobytes.",
     "lt.numeric": "The value must be less than :value.",
@@ -105,8 +107,10 @@
     "starts_with": "ಈ must start with one of the following: :values.",
     "string": "ಈ ಮಾಡಬೇಕು ಎಂದು ಒಂದು ಸ್ಟ್ರಿಂಗ್.",
     "timezone": "ಈ must be a valid ವಲಯ.",
+    "ulid": "This field must be a valid ULID.",
     "unique": "ಈ ತೆಗೆದುಕೊಂಡಾಗಿದೆ.",
     "uploaded": "ಈ failed to upload.",
+    "uppercase": "This field must be uppercase.",
     "url": "ಈ ರೂಪದಲ್ಲಿ ಅಮಾನ್ಯವಾಗಿದೆ.",
     "uuid": "ಈ must be a valid UUID."
 }

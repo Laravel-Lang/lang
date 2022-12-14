@@ -4,7 +4,7 @@ editLink: false
 
 # sq
 
-##### All missed: 322
+##### All missed: 288
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 277
+##### Missing: 235
 
 <table width="100%">
 <tr><th width="50%">
@@ -169,101 +169,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-(and :count more error)
+Andorra
 
 </td><td width="50%">
 
-(and :count more error)
-
-</td></tr>
-<tr><td width="50%">
-
-(and :count more errors)
-
-</td><td width="50%">
-
-(and :count more errors)
-
-</td></tr>
-<tr><td width="50%">
-
-A fresh verification link has been sent to your email address.
-
-</td><td width="50%">
-
-A fresh verification link has been sent to your email address.
-
-</td></tr>
-<tr><td width="50%">
-
-A new verification link has been sent to the email address you provided in your profile settings.
-
-</td><td width="50%">
-
-A new verification link has been sent to the email address you provided in your profile settings.
-
-</td></tr>
-<tr><td width="50%">
-
-A new verification link has been sent to your email address.
-
-</td><td width="50%">
-
-A new verification link has been sent to your email address.
-
-</td></tr>
-<tr><td width="50%">
-
-Add VAT Number
-
-</td><td width="50%">
-
-Add VAT Number
-
-</td></tr>
-<tr><td width="50%">
-
-Address
-
-</td><td width="50%">
-
-Address
-
-</td></tr>
-<tr><td width="50%">
-
-Address Line 2
-
-</td><td width="50%">
-
-Address Line 2
-
-</td></tr>
-<tr><td width="50%">
-
-Administrator
-
-</td><td width="50%">
-
-Administrator
-
-</td></tr>
-<tr><td width="50%">
-
-An error occurred while uploading the file.
-
-</td><td width="50%">
-
-An error occurred while uploading the file.
-
-</td></tr>
-<tr><td width="50%">
-
-An unexpected error occurred and we have notified our support team. Please try again later.
-
-</td><td width="50%">
-
-An unexpected error occurred and we have notified our support team. Please try again later.
+Andorra
 
 </td></tr>
 <tr><td width="50%">
@@ -277,83 +187,11 @@ Angola
 </td></tr>
 <tr><td width="50%">
 
-Anguilla
+Are you sure you want to delete your account?
 
 </td><td width="50%">
 
-Anguilla
-
-</td></tr>
-<tr><td width="50%">
-
-Antigua and Barbuda
-
-</td><td width="50%">
-
-Antigua and Barbuda
-
-</td></tr>
-<tr><td width="50%">
-
-API Token
-
-</td><td width="50%">
-
-API Token
-
-</td></tr>
-<tr><td width="50%">
-
-Apply
-
-</td><td width="50%">
-
-Apply
-
-</td></tr>
-<tr><td width="50%">
-
-Apply Coupon
-
-</td><td width="50%">
-
-Apply Coupon
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to delete this notification?
-
-</td><td width="50%">
-
-Are you sure you want to delete this notification?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to log out?
-
-</td><td width="50%">
-
-Are you sure you want to log out?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to stop impersonating?
-
-</td><td width="50%">
-
-Are you sure you want to stop impersonating?
-
-</td></tr>
-<tr><td width="50%">
-
-Armenia
-
-</td><td width="50%">
-
-Armenia
+Are you sure you want to delete your account?
 
 </td></tr>
 <tr><td width="50%">
@@ -367,20 +205,11 @@ Aruba
 </td></tr>
 <tr><td width="50%">
 
-Austria
+Bahamas
 
 </td><td width="50%">
 
-Austria
-
-</td></tr>
-<tr><td width="50%">
-
-Bahrain
-
-</td><td width="50%">
-
-Bahrain
+Bahamas
 
 </td></tr>
 <tr><td width="50%">
@@ -399,24 +228,6 @@ Barbados
 </td><td width="50%">
 
 Barbados
-
-</td></tr>
-<tr><td width="50%">
-
-Before continuing, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
-
-</td><td width="50%">
-
-Before continuing, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
-
-</td></tr>
-<tr><td width="50%">
-
-Before proceeding, please check your email for a verification link.
-
-</td><td width="50%">
-
-Before proceeding, please check your email for a verification link.
 
 </td></tr>
 <tr><td width="50%">
@@ -448,51 +259,6 @@ Bermuda
 </td></tr>
 <tr><td width="50%">
 
-Billing Information
-
-</td><td width="50%">
-
-Billing Information
-
-</td></tr>
-<tr><td width="50%">
-
-Billing Management
-
-</td><td width="50%">
-
-Billing Management
-
-</td></tr>
-<tr><td width="50%">
-
-Bolivia
-
-</td><td width="50%">
-
-Bolivia
-
-</td></tr>
-<tr><td width="50%">
-
-Bolivia, Plurinational State of
-
-</td><td width="50%">
-
-Bolivia, Plurinational State of
-
-</td></tr>
-<tr><td width="50%">
-
-Bosnia and Herzegovina
-
-</td><td width="50%">
-
-Bosnia and Herzegovina
-
-</td></tr>
-<tr><td width="50%">
-
 Brazil
 
 </td><td width="50%">
@@ -516,177 +282,6 @@ Burundi
 </td><td width="50%">
 
 Burundi
-
-</td></tr>
-<tr><td width="50%">
-
-Cancel Subscription
-
-</td><td width="50%">
-
-Cancel Subscription
-
-</td></tr>
-<tr><td width="50%">
-
-Cape Verde
-
-</td><td width="50%">
-
-Cape Verde
-
-</td></tr>
-<tr><td width="50%">
-
-Card
-
-</td><td width="50%">
-
-Card
-
-</td></tr>
-<tr><td width="50%">
-
-Change Subscription Plan
-
-</td><td width="50%">
-
-Change Subscription Plan
-
-</td></tr>
-<tr><td width="50%">
-
-Choose Files
-
-</td><td width="50%">
-
-Choose Files
-
-</td></tr>
-<tr><td width="50%">
-
-City
-
-</td><td width="50%">
-
-City
-
-</td></tr>
-<tr><td width="50%">
-
-Click here to re-send the verification email.
-
-</td><td width="50%">
-
-Click here to re-send the verification email.
-
-</td></tr>
-<tr><td width="50%">
-
-click here to request another
-
-</td><td width="50%">
-
-click here to request another
-
-</td></tr>
-<tr><td width="50%">
-
-Comoros
-
-</td><td width="50%">
-
-Comoros
-
-</td></tr>
-<tr><td width="50%">
-
-Congo, the Democratic Republic of the
-
-</td><td width="50%">
-
-Congo, the Democratic Republic of the
-
-</td></tr>
-<tr><td width="50%">
-
-Copy to clipboard
-
-</td><td width="50%">
-
-Copy to clipboard
-
-</td></tr>
-<tr><td width="50%">
-
-Cote D'Ivoire
-
-</td><td width="50%">
-
-Côte d'Ivoire
-
-</td></tr>
-<tr><td width="50%">
-
-Country
-
-</td><td width="50%">
-
-Country
-
-</td></tr>
-<tr><td width="50%">
-
-Coupon
-
-</td><td width="50%">
-
-Coupon
-
-</td></tr>
-<tr><td width="50%">
-
-Current Subscription Plan
-
-</td><td width="50%">
-
-Current Subscription Plan
-
-</td></tr>
-<tr><td width="50%">
-
-Currently Subscribed
-
-</td><td width="50%">
-
-Currently Subscribed
-
-</td></tr>
-<tr><td width="50%">
-
-Côte d'Ivoire
-
-</td><td width="50%">
-
-Côte d'Ivoire
-
-</td></tr>
-<tr><td width="50%">
-
-Dark
-
-</td><td width="50%">
-
-Dark
-
-</td></tr>
-<tr><td width="50%">
-
-Djibouti
-
-</td><td width="50%">
-
-Djibouti
 
 </td></tr>
 <tr><td width="50%">
@@ -1456,6 +1051,15 @@ Oman
 </td></tr>
 <tr><td width="50%">
 
+Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+
+</td><td width="50%">
+
+Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+
+</td></tr>
+<tr><td width="50%">
+
 Our billing management portal allows you to conveniently manage your subscription plan, payment method, and download your recent invoices.
 
 </td><td width="50%">
@@ -1852,6 +1456,15 @@ Singapore
 </td></tr>
 <tr><td width="50%">
 
+Soft Deleted
+
+</td><td width="50%">
+
+Soft Deleted
+
+</td></tr>
+<tr><td width="50%">
+
 Somalia
 
 </td><td width="50%">
@@ -2577,6 +2190,15 @@ You may cancel your subscription at any time. Once your subscription has been ca
 </td><td width="50%">
 
 You may cancel your subscription at any time. Once your subscription has been cancelled, you will have the option to resume the subscription until the end of your current billing cycle.
+
+</td></tr>
+<tr><td width="50%">
+
+You're logged in!
+
+</td><td width="50%">
+
+You're logged in!
 
 </td></tr>
 <tr><td width="50%">
@@ -2668,7 +2290,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 13
+##### Missing: 17
 
 <table width="100%">
 <tr><th width="50%">
@@ -2691,6 +2313,15 @@ This field must be accepted when :other is :value.
 </td></tr>
 <tr><td width="50%">
 
+ascii
+
+</td><td width="50%">
+
+This field must only contain single-byte alphanumeric characters and symbols.
+
+</td></tr>
+<tr><td width="50%">
+
 doesnt_end_with
 
 </td><td width="50%">
@@ -2705,6 +2336,15 @@ doesnt_start_with
 </td><td width="50%">
 
 This field may not start with one of the following: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+lowercase
+
+</td><td width="50%">
+
+This field must be lowercase.
 
 </td></tr>
 <tr><td width="50%">
@@ -2797,6 +2437,24 @@ required_if_accepted
 This field is required when :other is accepted.
 
 </td></tr>
+<tr><td width="50%">
+
+ulid
+
+</td><td width="50%">
+
+This field must be a valid ULID.
+
+</td></tr>
+<tr><td width="50%">
+
+uppercase
+
+</td><td width="50%">
+
+This field must be uppercase.
+
+</td></tr>
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
@@ -2805,7 +2463,7 @@ This field is required when :other is accepted.
 
 ### php
 
-##### Missing: 18
+##### Missing: 22
 
 <table width="100%">
 <tr><th width="50%">
@@ -2824,6 +2482,15 @@ accepted_if
 </td><td width="50%">
 
 The :attribute must be accepted when :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+ascii
+
+</td><td width="50%">
+
+The :attribute must only contain single-byte alphanumeric characters and symbols.
 
 </td></tr>
 <tr><td width="50%">
@@ -2878,6 +2545,15 @@ enum
 </td><td width="50%">
 
 The selected :attribute is invalid.
+
+</td></tr>
+<tr><td width="50%">
+
+lowercase
+
+</td><td width="50%">
+
+The :attribute must be lowercase.
 
 </td></tr>
 <tr><td width="50%">
@@ -2977,6 +2653,24 @@ required_if_accepted
 </td><td width="50%">
 
 The :attribute field is required when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+ulid
+
+</td><td width="50%">
+
+The :attribute must be a valid ULID.
+
+</td></tr>
+<tr><td width="50%">
+
+uppercase
+
+</td><td width="50%">
+
+The :attribute must be uppercase.
 
 </td></tr>
 </table>

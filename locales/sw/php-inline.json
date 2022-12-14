@@ -8,6 +8,7 @@
     "alpha_dash": "Uwanja huu unaweza tu vyenye herufi, nambari, dashi na andaskoo.",
     "alpha_num": "Uwanja huu unaweza tu kuwa na herufi na namba.",
     "array": "Uwanja huu lazima kuwa na safu.",
+    "ascii": "Sehemu hii lazima iwe na herufi na alama za alphanumeric za baiti moja pekee.",
     "attached": "Uwanja huu ni tayari masharti.",
     "before": "Hii ni lazima kuwa kabla ya :date.",
     "before_or_equal": "Hii ni lazima kuwa kabla ya au sawa na :date.",
@@ -51,6 +52,7 @@
     "ipv4": "Hii ni lazima kuwa halali IPv4 anwani.",
     "ipv6": "Hii ni lazima kuwa halali anuani IPv6.",
     "json": "Hii ni lazima kuwa halali kamba JSON.",
+    "lowercase": "Sehemu hii lazima iwe na herufi ndogo.",
     "lt.array": "Maudhui lazima yawe na chini ya :value vya thamani.",
     "lt.file": "Saizi ya faili lazima iwe chini ya :value kilobaiti.",
     "lt.numeric": "Thamani lazima iwe chini kuliko :value.",
@@ -105,8 +107,10 @@
     "starts_with": "Hii lazima kuanza na moja ya yafuatayo: :values.",
     "string": "Hii ni lazima kuwa na kamba.",
     "timezone": "Hii ni lazima kuwa halali wa eneo.",
+    "ulid": "Sehemu hii lazima iwe ULID halali.",
     "unique": "Hii tayari kuchukuliwa.",
     "uploaded": "Hii imeshindwa kupakia.",
+    "uppercase": "Sehemu hii lazima iwe ya herufi kubwa.",
     "url": "Muundo huu ni batili.",
     "uuid": "Hii ni lazima kuwa halali UUID."
 }

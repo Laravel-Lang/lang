@@ -8,6 +8,7 @@
     "alpha_dash": "Hierdie veld mag slegs letters, syfers, strepies en onderstrepe bevat.",
     "alpha_num": "Hierdie veld mag slegs letters en syfers bevat.",
     "array": "Hierdie veld moet 'n array wees.",
+    "ascii": "This field must only contain single-byte alphanumeric characters and symbols.",
     "attached": "Hierdie veld is reeds aangeheg.",
     "before": "Dit moet 'n datum voor :date wees.",
     "before_or_equal": "Dit moet 'n datum gelyk of voor :date wees.",
@@ -51,6 +52,7 @@
     "ipv4": "Dit moet 'n geldige IPv4-adres wees.",
     "ipv6": "Dit moet 'n geldige IPv4-adres wees.",
     "json": "Dit moet 'n geldige JSON-string wees.",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "Die inhoud moet minder as :value items wees.",
     "lt.file": "Die lêergrootte moet kleiner wees as :value kilobytes.",
     "lt.numeric": "Die waarde moet kleiner wees as :value.",
@@ -105,8 +107,10 @@
     "starts_with": "Dit moet begin met een van die volgende: :values.",
     "string": "Dit moet 'n string wees.",
     "timezone": "Dit moet 'n geldige sone wees.",
+    "ulid": "This field must be a valid ULID.",
     "unique": "Dit is reeds geneem.",
     "uploaded": "Kon nie oplaai nie.",
+    "uppercase": "This field must be uppercase.",
     "url": "Die formaat is ongeldig.",
     "uuid": "Dit moet geldige UUID wees."
 }

@@ -8,6 +8,7 @@
     "alpha_dash": "Toto pole môže obsahovať iba písmená, čísla, pomlčky a podčiarknutia.",
     "alpha_num": "Toto pole môže obsahovať iba písmená a číslice.",
     "array": "Toto pole musí byť pole.",
+    "ascii": "This field must only contain single-byte alphanumeric characters and symbols.",
     "attached": "Toto pole je už pripojené.",
     "before": "Toto musí byť Dátum pred :date.",
     "before_or_equal": "Musí to byť Dátum pred alebo rovný :date.",
@@ -51,6 +52,7 @@
     "ipv4": "Musí to byť platná adresa IPv4.",
     "ipv6": "Musí to byť platná adresa IPv6.",
     "json": "Musí to byť platný reťazec JSON.",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "The content must have less than :value items.",
     "lt.file": "The file size must be less than :value kilobytes.",
     "lt.numeric": "The value must be less than :value.",
@@ -105,8 +107,10 @@
     "starts_with": "Toto musí začínať jedným z nasledujúcich krokov: :values.",
     "string": "Musí to byť reťazec.",
     "timezone": "Musí to byť platná zóna.",
+    "ulid": "This field must be a valid ULID.",
     "unique": "Toto už bolo prijaté.",
     "uploaded": "Toto sa nepodarilo nahrať.",
+    "uppercase": "This field must be uppercase.",
     "url": "Tento formát je neplatný.",
     "uuid": "Musí to byť platný UUID."
 }

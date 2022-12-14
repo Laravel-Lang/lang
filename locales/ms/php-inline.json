@@ -8,6 +8,7 @@
     "alpha_dash": "Ruangan ini boleh mengandungi huruf, nombor, dan sengkang.",
     "alpha_num": "Ruangan ini boleh mengandungi huruf dan nombor.",
     "array": "Ruangan ini mesti jujukan.",
+    "ascii": "This field must only contain single-byte alphanumeric characters and symbols.",
     "attached": "Ruangan ini sudah terpasang.",
     "before": "Ruangan ini mesti tarikh sebelum :date.",
     "before_or_equal": "Ruangan ini mesti tarikh sebelum atau bersamaan :date.",
@@ -51,6 +52,7 @@
     "ipv4": "Nilai mesti alamat IPv4 yang sah.",
     "ipv6": "Nilai mesti alamat IPv6 yang sah.",
     "json": "Nilai mesti rentetan JSON yang sah.",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "Jujukan mesti mengandungi kurang daripada :value perkara.",
     "lt.file": "Saiz fail mesti kurang daripada :value kilobait.",
     "lt.numeric": "Nilai mesti kurang daripada :value.",
@@ -105,8 +107,10 @@
     "starts_with": "Nilai mesti bermula dengan salah satu dari: :values.",
     "string": "Nilai mesti jujukan.",
     "timezone": "Nilai mesti zon masa yang sah.",
+    "ulid": "This field must be a valid ULID.",
     "unique": "Nilai telah wujud.",
     "uploaded": "Muat naik gagal.",
+    "uppercase": "This field must be uppercase.",
     "url": "Format ini tidak sah.",
     "uuid": "UUID tidak sah."
 }

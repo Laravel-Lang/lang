@@ -8,6 +8,7 @@
     "alpha_dash": "Þetta sviði getur aðeins innihalda bréf, númer, bandstrik og undirstrikar.",
     "alpha_num": "Þetta sviði getur aðeins innihalda bréf og tölur.",
     "array": "Þetta sviði verður að vera fylki.",
+    "ascii": "This field must only contain single-byte alphanumeric characters and symbols.",
     "attached": "Þetta sviði er nú þegar fylgir.",
     "before": "Þetta hlýtur að vera dagsetningu áður en :date.",
     "before_or_equal": "Þetta hlýtur að vera dagsetningu áður en eða jafnt og :date.",
@@ -51,6 +52,7 @@
     "ipv4": "Þetta hlýtur að vera gild IPv4 heimilisfang.",
     "ipv6": "Þetta hlýtur að vera gild IPv6 heimilisfang.",
     "json": "Þetta hlýtur að vera gild JSON band.",
+    "lowercase": "This field must be lowercase.",
     "lt.array": "The content must have less than :value items.",
     "lt.file": "The file size must be less than :value kilobytes.",
     "lt.numeric": "The value must be less than :value.",
@@ -105,8 +107,10 @@
     "starts_with": "Þetta verður að byrja með eftirfarandi: :values.",
     "string": "Þetta hlýtur að vera band.",
     "timezone": "Þetta hlýtur að vera gild svæði.",
+    "ulid": "This field must be a valid ULID.",
     "unique": "Þetta hefur nú þegar verið tekin.",
     "uploaded": "Þetta tókst ekki að hlaða.",
+    "uppercase": "This field must be uppercase.",
     "url": "Þessu sniði er ógilt.",
     "uuid": "Þetta hlýtur að vera gild UUID."
 }

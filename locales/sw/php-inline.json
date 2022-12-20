@@ -21,7 +21,7 @@
     "date": "Hii si halali kwa sasa.",
     "date_equals": "Hii ni lazima kuwa tarehe sawa na :date.",
     "date_format": "Hii haina muundo wa tarehe :format.",
-    "decimal": "This field must have :decimal decimal places.",
+    "decimal": "Sehemu hii lazima iwe na sehemu :decimal za desimali.",
     "declined": "Thamani hii lazima ikataliwe.",
     "declined_if": "Thamani hii lazima ikataliwa wakati :other ni :value.",
     "different": "Thamani hii lazima kuwa tofauti kutoka :other.",

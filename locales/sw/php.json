@@ -22,7 +22,7 @@
     "date": "Kipengele si tarehe halali.",
     "date_equals": ":Attribute inapaswa kuwa tarehe sawa na :date.",
     "date_format": "Kipengele hakilingani na muundo :date.",
-    "decimal": "The :attribute must have :decimal decimal places.",
+    "decimal": ":attribute lazima iwe na sehemu :decimal za desimali.",
     "declined": ":Attribute inapaswa kukataliwa.",
     "declined_if": ":Attribute inapaswa kukataliwa kama :other ni :value.",
     "different": "Kipengele na :other lazima viwe tofauti.",

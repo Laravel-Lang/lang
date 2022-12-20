@@ -21,6 +21,7 @@
     "date": "Nije odgovarajući datum.",
     "date_equals": "Mora da bude datum: :date.",
     "date_format": "Ovo ne odgovora formatu: :format.",
+    "decimal": "This field must have :decimal decimal places.",
     "declined": "This value must be declined.",
     "declined_if": "This value must be declined when :other is :value.",
     "different": "Ova vrednost i :other moraju biti različite.",

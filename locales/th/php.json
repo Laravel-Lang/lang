@@ -22,6 +22,7 @@
     "date": "ข้อมูล :attribute ต้องเป็นวันที่",
     "date_equals": "ข้อมูล :attribute ต้องเป็นวันที่ที่เท่ากับ :date",
     "date_format": "ข้อมูล :attribute ไม่ตรงกับข้อมูล :format ที่กำหนด",
+    "decimal": "The :attribute must have :decimal decimal places.",
     "declined": "ข้อมูล :attribute ต้องถูกปฏิเสธ",
     "declined_if": "ข้อมูล :attribute ต้องถูกปฏิเสธเมื่อ :other มีค่าเท่ากับ :value.",
     "different": "ข้อมูล :attribute และ :other ต้องไม่เท่ากัน",

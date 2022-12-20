@@ -22,6 +22,7 @@
     "date": ":Attribute geçerli bir tarih değil.",
     "date_equals": ":Attribute mutlaka :date ile aynı tarihte olmalıdır.",
     "date_format": ":Attribute mutlaka :format biçiminde olmalıdır.",
+    "decimal": "The :attribute must have :decimal decimal places.",
     "declined": ":Attribute kabul edilmemektedir.",
     "declined_if": ":Attribute, :other değeri :value iken kabul edilmemektedir.",
     "different": ":Attribute ile :other mutlaka birbirinden farklı olmalıdır.",

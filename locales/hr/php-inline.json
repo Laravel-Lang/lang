@@ -21,6 +21,7 @@
     "date": "Ovo polje ne sadrži valjan datum.",
     "date_equals": "Ovo polje mora biti datum jednak :date.",
     "date_format": "Ovo polje mora biti datum u formatu :format.",
+    "decimal": "This field must have :decimal decimal places.",
     "declined": "Ovo polje mora biti odbijeno.",
     "declined_if": "Ova vrijednost mora biti odbijena kada je :other jednako :value.",
     "different": "Ova se vrijednost mora razlikovati od :other.",

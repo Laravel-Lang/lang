@@ -21,6 +21,7 @@
     "date": "Aceasta nu este o dată validă.",
     "date_equals": "Aceasta trebuie să fie o dată egală cu :date.",
     "date_format": "Acest lucru nu se potrivește cu formatul :format.",
+    "decimal": "This field must have :decimal decimal places.",
     "declined": "Această valoare trebuie refuzată.",
     "declined_if": "Această valoare trebuie refuzată atunci când :other este :value.",
     "different": "Această valoare trebuie să fie diferită de :other.",

@@ -22,6 +22,7 @@
     "date": ":Attribute ez da baliozko data.",
     "date_equals": "The :attribute bat izan behar du data berdina :date.",
     "date_format": ":Attribute datak ez du :format formatua.",
+    "decimal": "The :attribute must have :decimal decimal places.",
     "declined": "The :attribute must be declined.",
     "declined_if": "The :attribute must be declined when :other is :value.",
     "different": ":Attribute eta :other ezberdinak izan behar dira.",

@@ -22,6 +22,7 @@
     "date": ":Attribute 不是一个有效的日期。",
     "date_equals": ":Attribute 必须要等于 :date。",
     "date_format": ":Attribute 的格式必须为 :format。",
+    "decimal": "The :attribute must have :decimal decimal places.",
     "declined": ":Attribute 必须是拒绝的。",
     "declined_if": "当 :other 为 :value 时字段 :attribute 必须是拒绝的。",
     "different": ":Attribute 和 :other 必须不同。",

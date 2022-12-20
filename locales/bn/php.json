@@ -22,6 +22,7 @@
     "date": ":Attribute একটি বৈধ তারিখ নয়।",
     "date_equals": "এই :attribute সমান তারিখ হতে হবে :date।",
     "date_format": ":Attribute, :format এর সাথে বিন্যাস মিলছে না।",
+    "decimal": "The :attribute must have :decimal decimal places.",
     "declined": ":Attribute অবশ্যই প্রত্যাখ্যান করতে হবে।",
     "declined_if": ":Attribute অবশ্যই প্রত্যাখ্যান করতে হবে যখন :value হবে :other।",
     "different": ":Attribute এবং :other আলাদা হতে হবে।",

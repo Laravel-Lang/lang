@@ -21,6 +21,7 @@
     "date": "Kjo nuk është një datë e saktë.",
     "date_equals": "Kjo duhet të jetë datë e barabartë me :date.",
     "date_format": "Kjo nuk i përshtatet formatit :format.",
+    "decimal": "This field must have :decimal decimal places.",
     "declined": "This value must be declined.",
     "declined_if": "This value must be declined when :other is :value.",
     "different": "Kjo dhe :other duhet të jenë të ndryshme.",

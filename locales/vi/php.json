@@ -22,6 +22,7 @@
     "date": "Trường :attribute không phải là định dạng của ngày-tháng.",
     "date_equals": "Trường :attribute phải là một ngày bằng với :date.",
     "date_format": "Trường :attribute không giống với định dạng :format.",
+    "decimal": "The :attribute must have :decimal decimal places.",
     "declined": "Trường :attribute phải bị từ chối.",
     "declined_if": "Trường :attribute phải bị từ chối khi :other là :value.",
     "different": "Trường :attribute và :other phải khác nhau.",

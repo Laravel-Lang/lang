@@ -21,6 +21,7 @@
     "date": "Hau ez da baliozko data bat.",
     "date_equals": "Hau behar data bat berdina :date.",
     "date_format": "Hau ez dator formatu :format.",
+    "decimal": "This field must have :decimal decimal places.",
     "declined": "This value must be declined.",
     "declined_if": "This value must be declined when :other is :value.",
     "different": "Balio hau izan behar desberdinak :other.",

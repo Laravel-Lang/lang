@@ -21,6 +21,7 @@
     "date": "This field is not a valid date.",
     "date_equals": "This field must be a date equal to :date.",
     "date_format": "This field does not match the format :format.",
+    "decimal": "This field must have :decimal decimal places.",
     "declined": "This field must be declined.",
     "declined_if": "This field must be declined when :other is :value.",
     "different": "This field and :other must be different.",

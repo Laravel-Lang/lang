@@ -22,6 +22,7 @@
     "date": ":Attribute को मिति मिलेन।",
     "date_equals": ":Attribute मिति बराबर :date हुनुपर्दछ।",
     "date_format": ":Attribute को ढाँचा :format जस्तो हुनुपर्छ।",
+    "decimal": "The :attribute must have :decimal decimal places.",
     "declined": "The :attribute must be declined.",
     "declined_if": "The :attribute must be declined when :other is :value.",
     "different": ":Attribute र :other फरक हुनुपर्छ।",

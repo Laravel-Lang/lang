@@ -22,6 +22,7 @@
     "date": "Câmpul :attribute nu este o dată validă.",
     "date_equals": "Aceasta :attribute trebuie să fie o dată egală cu :date.",
     "date_format": "Câmpul :attribute trebuie să fie în formatul :format.",
+    "decimal": "The :attribute must have :decimal decimal places.",
     "declined": "Câmpul :attribute trebuie să fie declinat.",
     "declined_if": "Câmpul :attribute trebuie să fie declinat când :other este :value.",
     "different": "Câmpurile :attribute și :other trebuie să fie diferite.",

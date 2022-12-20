@@ -21,6 +21,7 @@
     "date": "See ei ole kehtiv kuupäev.",
     "date_equals": "See peab olema kuupäev, mis võrdub :date-ga.",
     "date_format": "See ei vasta vormingule :format.",
+    "decimal": "This field must have :decimal decimal places.",
     "declined": "This value must be declined.",
     "declined_if": "This value must be declined when :other is :value.",
     "different": "See väärtus peab olema erinev :other.",

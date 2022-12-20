@@ -22,6 +22,7 @@
     "date": ":Attribute वैध तारीख नाही.",
     "date_equals": ":Attribute, :date तारीख समान असणे आवश्यक आहे.",
     "date_format": ":Attribute फॉर्मेट :format शी जुळत नाही.",
+    "decimal": "The :attribute must have :decimal decimal places.",
     "declined": "The :attribute must be declined.",
     "declined_if": "The :attribute must be declined when :other is :value.",
     "different": ":Attribute आणि :other वेगळे असावे.",

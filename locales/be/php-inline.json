@@ -21,6 +21,7 @@
     "date": "Гэта не сапраўдная дата.",
     "date_equals": "Гэта павінна быць дата, роўная :date годзе.",
     "date_format": "Гэта не адпавядае фармату :format.",
+    "decimal": "This field must have :decimal decimal places.",
     "declined": "This value must be declined.",
     "declined_if": "This value must be declined when :other is :value.",
     "different": "Гэта значэнне павінна адрознівацца ад :other.",

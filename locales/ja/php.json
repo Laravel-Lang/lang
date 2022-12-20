@@ -22,6 +22,7 @@
     "date": ":Attributeは、正しい日付ではありません。",
     "date_equals": ":Attributeは:dateに等しい日付でなければいけません。",
     "date_format": ":Attributeの形式が':format'と一致しません。",
+    "decimal": "The :attribute must have :decimal decimal places.",
     "declined": ":Attributeを拒否する必要があります。",
     "declined_if": ":Otherが:valueの場合、:attributeを拒否する必要があります。",
     "different": ":Attributeと:otherには、異なるものを指定してください。",

@@ -22,6 +22,7 @@
     "date": ":Attribute no est una data bàlida.",
     "date_equals": "The :attribute must be a date equal to :date.",
     "date_format": ":Attribute non torrat cun su formadu :format.",
+    "decimal": "The :attribute must have :decimal decimal places.",
     "declined": "The :attribute must be declined.",
     "declined_if": "The :attribute must be declined when :other is :value.",
     "different": ":Attribute e :other depent èssere diferentes.",

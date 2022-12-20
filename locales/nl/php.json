@@ -22,6 +22,7 @@
     "date": ":Attribute moet een datum bevatten.",
     "date_equals": ":Attribute moet een datum gelijk aan :date zijn.",
     "date_format": ":Attribute voldoet niet aan het formaat :format.",
+    "decimal": "The :attribute must have :decimal decimal places.",
     "declined": ":Attribute moet afgewezen worden.",
     "declined_if": ":Attribute moet afgewezen worden wanneer :other gelijk is aan :value.",
     "different": ":Attribute en :other moeten verschillend zijn.",

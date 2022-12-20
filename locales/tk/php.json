@@ -22,6 +22,7 @@
     "date": ":Attribute dogry sene bolmalydyr.",
     "date_equals": "The :attribute must be a date equal to :date.",
     "date_format": ":Attribute :format formatyna deň däl.",
+    "decimal": "The :attribute must have :decimal decimal places.",
     "declined": "The :attribute must be declined.",
     "declined_if": "The :attribute must be declined when :other is :value.",
     "different": ":Attribute bilen :other birbirinden tapawutly bolmalydyr.",

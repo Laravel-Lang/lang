@@ -22,6 +22,7 @@
     "date": ":Attribute талбарт оруулсан огноо буруу байна.",
     "date_equals": ":Attribute нь :date онтой тэнцүү байх естой.",
     "date_format": ":Attribute талбарт :format хэлбэртэй огноо оруулна уу.",
+    "decimal": "The :attribute must have :decimal decimal places.",
     "declined": "The :attribute must be declined.",
     "declined_if": "The :attribute must be declined when :other is :value.",
     "different": ":Attribute талбарт :other -с өөр утга оруулах шаардлагатай.",

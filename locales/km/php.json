@@ -22,6 +22,7 @@
     "date": ":Attribute គឺមិនមែនជាកាលបរិច្ឆេទត្រឹមត្រូវ។",
     "date_equals": ":Attribute ត្រូវតែជាកាលបរិច្ឆេទស្មើនឹង :date។",
     "date_format": ":Attribute មិនត្រឹមត្រូវនឹងទម្រង់ :format នេះ។",
+    "decimal": "The :attribute must have :decimal decimal places.",
     "declined": "The :attribute must be declined.",
     "declined_if": "The :attribute must be declined when :other is :value.",
     "different": ":Attribute និង :other ត្រូវតែបញ្ជាក់។",

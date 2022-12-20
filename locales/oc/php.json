@@ -22,6 +22,7 @@
     "date": "Lo camp :attribute es pas una data valida.",
     "date_equals": "Lo camp :attribute deu èsser una data egala a :date.",
     "date_format": ":Attribute correspond pas al format :format.",
+    "decimal": "The :attribute must have :decimal decimal places.",
     "declined": "The :attribute must be declined.",
     "declined_if": "The :attribute must be declined when :other is :value.",
     "different": "Los camps :attribute e :other devon èsser diferents.",

@@ -22,6 +22,7 @@
     "date": "Reiturinn :attribute er ekki rétt dagsetning.",
     "date_equals": ":Attribute verður að vera dagsetning sem er sú sama og :date.",
     "date_format": "Reiturinn :attribute passar ekki við :format.",
+    "decimal": "The :attribute must have :decimal decimal places.",
     "declined": "The :attribute must be declined.",
     "declined_if": "The :attribute must be declined when :other is :value.",
     "different": "Reiturinn :attribute og :other verða að vera ólíkir.",

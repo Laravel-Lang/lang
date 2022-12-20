@@ -21,6 +21,7 @@
     "date": "Þetta er ekki gilt degi.",
     "date_equals": "Þetta hlýtur að vera stefnumót jafn :date.",
     "date_format": "Þetta passar ekki í formi :format.",
+    "decimal": "This field must have :decimal decimal places.",
     "declined": "This value must be declined.",
     "declined_if": "This value must be declined when :other is :value.",
     "different": "Þetta gildi verður að vera öðruvísi frá :other.",

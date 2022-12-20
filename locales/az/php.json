@@ -22,6 +22,7 @@
     "date": ":Attribute düzgün tarix olmalıdır.",
     "date_equals": ":Attribute :date ilə bərabər tarix olmalıdır.",
     "date_format": ":Attribute :format formatına uyğun gəlmir.",
+    "decimal": "The :attribute must have :decimal decimal places.",
     "declined": ":Attribute rədd edilməlidir.",
     "declined_if": ":Other :value olduqda :attribute rədd edilməlidir.",
     "different": ":Attribute və :other fərqli olmalıdır.",

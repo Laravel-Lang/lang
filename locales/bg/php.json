@@ -22,6 +22,7 @@
     "date": "Полето :attribute не е валидна дата.",
     "date_equals": ":Attribute трябва да бъде дата, еднаква с :date.",
     "date_format": "Полето :attribute не е във формат :format.",
+    "decimal": "The :attribute must have :decimal decimal places.",
     "declined": "The :attribute must be declined.",
     "declined_if": "The :attribute must be declined when :other is :value.",
     "different": "Полетата :attribute и :other трябва да са различни.",

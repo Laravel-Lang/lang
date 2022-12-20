@@ -22,6 +22,7 @@
     "date": ":Attribute musí být platné datum.",
     "date_equals": ":Attribute musí být datum shodné s :date.",
     "date_format": ":Attribute není platný formát data podle :format.",
+    "decimal": "The :attribute must have :decimal decimal places.",
     "declined": "The :attribute must be declined.",
     "declined_if": "The :attribute must be declined when :other is :value.",
     "different": ":Attribute a :other se musí lišit.",

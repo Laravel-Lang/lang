@@ -21,6 +21,7 @@
     "date": "Не є допустимою датою.",
     "date_equals": "Повинна бути дата, що дорівнює :date.",
     "date_format": "Не відповідає формату :format.",
+    "decimal": "This field must have :decimal decimal places.",
     "declined": "Це значення має бути відхилено.",
     "declined_if": "Це значення має бути відхилено, якщо :other є :value.",
     "different": "Значення повинно відрізнятися від :other.",

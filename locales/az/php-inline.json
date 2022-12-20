@@ -21,6 +21,7 @@
     "date": "Bu etibarlı tarix deyil.",
     "date_equals": "Bu, :date-cü ilə bərabər tarix olmalıdır.",
     "date_format": "Bu format :format uyğun deyil.",
+    "decimal": "This field must have :decimal decimal places.",
     "declined": "Bu dəyərdən imtina edilməlidir.",
     "declined_if": "Bu dəyər :other :value olduqda rədd edilməlidir.",
     "different": "Bu dəyər :other-dan fərqli olmalıdır.",

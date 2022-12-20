@@ -21,6 +21,7 @@
     "date": "Esta não é uma data válida.",
     "date_equals": "Esta deve ser uma data igual a :date.",
     "date_format": "Isto não corresponde ao formato :format.",
+    "decimal": "This field must have :decimal decimal places.",
     "declined": "Este valor deve ser recusado.",
     "declined_if": "Este valor deve ser recusado quando :other é :value.",
     "different": "Este valor deve ser diferente de :other.",

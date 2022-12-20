@@ -22,6 +22,7 @@
     "date": "Polje :attribute nije ispravan datum.",
     "date_equals": "Stavka :attribute mora biti jednaka :date.",
     "date_format": "Polje :attribute ne podudara s formatom :format.",
+    "decimal": "The :attribute must have :decimal decimal places.",
     "declined": "Polje :attribute mora biti odbijeno.",
     "declined_if": "Polje :attribute mora biti odbijeno kada je :other jednako :value.",
     "different": "Polja :attribute i :other moraju biti različita.",

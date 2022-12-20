@@ -22,6 +22,7 @@
     "date": ":Attribute pole kehtiv kuupäev.",
     "date_equals": ":Attribute peab olema kuupäev väärtusega :date",
     "date_format": ":Attribute ei vasta formaadile :format.",
+    "decimal": "The :attribute must have :decimal decimal places.",
     "declined": "The :attribute must be declined.",
     "declined_if": "The :attribute must be declined when :other is :value.",
     "different": ":Attribute ja :other peavad olema erinevad.",

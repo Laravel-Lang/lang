@@ -22,6 +22,7 @@
     "date": ":Attribute یک تاریخ معتبر نیست.",
     "date_equals": ":Attribute باید یک تاریخ برابر با تاریخ :date باشد.",
     "date_format": ":Attribute با الگوی :format مطابقت ندارد.",
+    "decimal": "The :attribute must have :decimal decimal places.",
     "declined": ":Attribute باید رد شده باشد.",
     "declined_if": ":Attribute باید رد شده باشد وقتی :other برابر :value است.",
     "different": ":Attribute و :other باید از یکدیگر متفاوت باشند.",

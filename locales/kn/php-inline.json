@@ -21,6 +21,7 @@
     "date": "This is not a valid date.",
     "date_equals": "ಈ ಮಾಡಬೇಕು ಒಂದು ದಿನಾಂಕ ಸಮಾನ :date.",
     "date_format": "ಈ does not match the format :format.",
+    "decimal": "This field must have :decimal decimal places.",
     "declined": "This value must be declined.",
     "declined_if": "This value must be declined when :other is :value.",
     "different": "This value must be ವಿವಿಧ :other.",

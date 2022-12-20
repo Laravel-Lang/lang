@@ -22,6 +22,7 @@
     "date": ":Attribute માન્ય તારીખ નથી.",
     "date_equals": ":Attribute સમાંતર તારીખ હોવી જોઈએ :તારીખ.",
     "date_format": ":Attribute ગોઠવણ સાથે બંધબેસતું નથી :ગોઠવણ.",
+    "decimal": "The :attribute must have :decimal decimal places.",
     "declined": "The :attribute must be declined.",
     "declined_if": "The :attribute must be declined when :other is :value.",
     "different": ":Attribute અને :other અલગ હોવું જોઈએ.",

@@ -22,6 +22,7 @@
     "date": "Ang :attribute ay hindi balidong petsa.",
     "date_equals": ":Attribute ay dapat na isang petsa na katumbas ng :date.",
     "date_format": "Ang :attribute ay hindi katugma ng format :format.",
+    "decimal": "The :attribute must have :decimal decimal places.",
     "declined": "The :attribute must be declined.",
     "declined_if": "The :attribute must be declined when :other is :value.",
     "different": "Ang :attribute at :other pa ay dapat magkaiba.",

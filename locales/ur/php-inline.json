@@ -21,6 +21,7 @@
     "date": "یہ نہیں ہے ایک درست تاریخ.",
     "date_equals": "یہ ہونا ضروری ہے ، ایک تاریخ کے لئے برابر :date.",
     "date_format": "اس کا مطلب یہ نہیں ملنے کی شکل :format.",
+    "decimal": "This field must have :decimal decimal places.",
     "declined": "This value must be declined.",
     "declined_if": "This value must be declined when :other is :value.",
     "different": "اس کی قیمت سے مختلف ہونا لازمی :other.",

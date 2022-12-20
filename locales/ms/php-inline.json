@@ -21,6 +21,7 @@
     "date": "Tarikh ini tidak sah.",
     "date_equals": "Tarikh mesti sama dengan :date.",
     "date_format": "Format tarikh tidak sepadan dengan :format.",
+    "decimal": "This field must have :decimal decimal places.",
     "declined": "This value must be declined.",
     "declined_if": "This value must be declined when :other is :value.",
     "different": "Nilai ini dan :other mesti berlainan.",

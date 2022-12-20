@@ -22,6 +22,7 @@
     "date": ":Attribute má neplatný dátum.",
     "date_equals": ":Attribute musí byť dátum rovnajúci sa :date.",
     "date_format": ":Attribute sa nezhoduje s formátom :format.",
+    "decimal": "The :attribute must have :decimal decimal places.",
     "declined": ":Attribute musí byť zamietnuté.",
     "declined_if": ":Attribute musí byť zamietnuté ak :other je :value.",
     "different": ":Attribute a :other musia byť odlišné.",

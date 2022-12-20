@@ -21,6 +21,7 @@
     "date": "यो मान्य मिति छैन।",
     "date_equals": "यो मिति बराबर :date हुनुपर्दछ।",
     "date_format": "यो ढाँचासँग मेल खाँदैन :format।",
+    "decimal": "This field must have :decimal decimal places.",
     "declined": "This value must be declined.",
     "declined_if": "This value must be declined when :other is :value.",
     "different": "यो मान अन्य भन्दा :other हुनुपर्छ।",

@@ -22,6 +22,7 @@
     "date": ":Attribute är inte ett giltigt datum.",
     "date_equals": ":Attribute måste vara ett datum lika med :date.",
     "date_format": ":Attribute matchar inte formatet :format.",
+    "decimal": "The :attribute must have :decimal decimal places.",
     "declined": ":Attribute måste vara avaktiverat.",
     "declined_if": ":Attribute måste vara avaktiverat när :other är :value.",
     "different": ":Attribute och :other får inte vara lika.",

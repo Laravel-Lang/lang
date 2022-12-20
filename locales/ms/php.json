@@ -22,6 +22,7 @@
     "date": ":Attribute bukan tarikh yang sah.",
     "date_equals": ":Attribute mesti tarikh sama dengan :date.",
     "date_format": ":Attribute tidak mengikut format :format.",
+    "decimal": "The :attribute must have :decimal decimal places.",
     "declined": "The :attribute must be declined.",
     "declined_if": "The :attribute must be declined when :other is :value.",
     "different": ":Attribute dan :other mesti berlainan.",

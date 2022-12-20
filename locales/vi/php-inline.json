@@ -8,7 +8,7 @@
     "alpha_dash": "Trường này chỉ có thể chứa chữ cái, số và dấu gạch ngang.",
     "alpha_num": "Trường này chỉ có thể chứa chữ cái và số.",
     "array": "Trường này phải là dạng mảng.",
-    "ascii": "Trường này chỉ được chứa các ký tự chữ số một byte và ký hiệu.",
+    "ascii": "Trường này chỉ được chứa các ký tự chữ số và ký hiệu một byte.",
     "attached": "Trường này đã được đính kèm.",
     "before": "Trường này phải là một ngày trước ngày :date.",
     "before_or_equal": "Trường này phải là thời gian bắt đầu trước hoặc đúng bằng :date.",

@@ -4,7 +4,7 @@ editLink: false
 
 # hu
 
-##### All missed: 305
+##### All missed: 307
 
 
 ### json-inline
@@ -2506,7 +2506,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 10
+##### Missing: 11
 
 <table width="100%">
 <tr><th width="50%">
@@ -2525,6 +2525,15 @@ ascii
 </td><td width="50%">
 
 This field must only contain single-byte alphanumeric characters and symbols.
+
+</td></tr>
+<tr><td width="50%">
+
+decimal
+
+</td><td width="50%">
+
+This field must have :decimal decimal places.
 
 </td></tr>
 <tr><td width="50%">
@@ -2616,7 +2625,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 22
+##### Missing: 23
 
 <table width="100%">
 <tr><th width="50%">
@@ -2653,6 +2662,15 @@ current_password
 </td><td width="50%">
 
 The password is incorrect.
+
+</td></tr>
+<tr><td width="50%">
+
+decimal
+
+</td><td width="50%">
+
+The :attribute must have :decimal decimal places.
 
 </td></tr>
 <tr><td width="50%">

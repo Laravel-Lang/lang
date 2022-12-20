@@ -21,7 +21,7 @@
     "date": "Значение не является датой.",
     "date_equals": "Дата должна быть равной :date.",
     "date_format": "Дата не соответствует формату :format.",
-    "decimal": "This field must have :decimal decimal places.",
+    "decimal": "Значение должно содержать :decimal цифр десятичных разрядов.",
     "declined": "Должно быть отклонено.",
     "declined_if": "Должно быть отклонено, когда :other равно :value.",
     "different": "Значение должно отличаться от :other",

@@ -22,7 +22,7 @@
     "date": "Pole :attribute nie jest prawidłową datą.",
     "date_equals": "Pole :attribute musi być datą równą :date.",
     "date_format": "Pole :attribute nie jest w formacie :format.",
-    "decimal": "The :attribute must have :decimal decimal places.",
+    "decimal": "Pole :attribute musi mieć :decimal miejsc po przecinku.",
     "declined": "Pole :attribute musi zostać odrzucony.",
     "declined_if": "Pole :attribute musi zostać odrzucony, gdy :other ma wartość :value.",
     "different": "Pole :attribute oraz :other muszą się różnić.",

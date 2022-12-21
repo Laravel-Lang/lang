@@ -4,54 +4,7 @@ editLink: false
 
 # fr
 
-##### All missed: 13
-
-
-### json
-
-##### Missing: 3
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-Are you sure you want to delete your account?
-
-</td><td width="50%">
-
-Are you sure you want to delete your account?
-
-</td></tr>
-<tr><td width="50%">
-
-Soft Deleted
-
-</td><td width="50%">
-
-Soft Deleted
-
-</td></tr>
-<tr><td width="50%">
-
-Type
-
-</td><td width="50%">
-
-Type
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
+##### All missed: 10
 
 
 ### php-inline

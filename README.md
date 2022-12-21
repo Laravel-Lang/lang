@@ -33,7 +33,7 @@ See the [documentation](https://laravel-lang.com) for detailed installation and 
 - [All Contributors](https://github.com/Laravel-Lang/lang/graphs/contributors)
 
 
-[badge_build]:          https://img.shields.io/github/workflow/status/laravel-lang/lang/phpunit?style=flat-square
+[badge_build]:          https://img.shields.io/github/actions/workflow/status/laravel-lang/lang/phpunit.yml?branch=main&style=flat-square
 
 [badge_downloads]:      https://img.shields.io/packagist/dt/laravel-lang/lang.svg?style=flat-square
 

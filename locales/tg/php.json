@@ -22,6 +22,7 @@
     "date": "Қиммати :attribute санаи нодуруст мебошад.",
     "date_equals": ":Attribute бояд санаи, баробар :date.",
     "date_format": "Қиммати :attribute бо формати :format мувофиқат намекунад.",
+    "decimal": "The :attribute must have :decimal decimal places.",
     "declined": "The :attribute must be declined.",
     "declined_if": "The :attribute must be declined when :other is :value.",
     "different": "Қимматҳои :attribute ва :other бояд аз ҳам фарқ кунанд.",

@@ -21,6 +21,7 @@
     "date": "不是有效的日期。",
     "date_equals": "必須等於 :date。",
     "date_format": "不符合 :format 的格式。",
+    "decimal": "This field must have :decimal decimal places.",
     "declined": "必須拒絕。",
     "declined_if": "当 :other 为 :value 時，必須拒絕。",
     "different": "必須與 :other 不同。",

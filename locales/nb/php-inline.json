@@ -21,6 +21,7 @@
     "date": "Er ikke en gyldig dato.",
     "date_equals": "Må være en dato lik :date.",
     "date_format": "Samsvarer ikke med formatet :format.",
+    "decimal": "This field must have :decimal decimal places.",
     "declined": "Denne verdien må avvises.",
     "declined_if": "Denne verdien må avvises når :other er :value.",
     "different": "Denne og :other må være forskellige.",

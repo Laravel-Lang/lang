@@ -21,6 +21,7 @@
     "date": "不是一个有效的日期。",
     "date_equals": "必须要等于 :date。",
     "date_format": "格式必须为 :format。",
+    "decimal": "This field must have :decimal decimal places.",
     "declined": "这个值必须被拒绝。",
     "declined_if": "当 :other 为 :value 时此值必须是拒绝的。",
     "different": "必须和 :other 不同。",

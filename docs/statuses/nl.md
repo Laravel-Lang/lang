@@ -4,7 +4,7 @@ editLink: false
 
 # nl
 
-##### All missed: 16
+##### All missed: 18
 
 
 ### json
@@ -146,7 +146,7 @@ Type
 
 ### php-inline
 
-##### Missing: 1
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -167,6 +167,15 @@ ascii
 This field must only contain single-byte alphanumeric characters and symbols.
 
 </td></tr>
+<tr><td width="50%">
+
+decimal
+
+</td><td width="50%">
+
+This field must have :decimal decimal places.
+
+</td></tr>
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
@@ -175,7 +184,7 @@ This field must only contain single-byte alphanumeric characters and symbols.
 
 ### php
 
-##### Missing: 2
+##### Missing: 3
 
 <table width="100%">
 <tr><th width="50%">
@@ -194,6 +203,15 @@ ascii
 </td><td width="50%">
 
 The :attribute must only contain single-byte alphanumeric characters and symbols.
+
+</td></tr>
+<tr><td width="50%">
+
+decimal
+
+</td><td width="50%">
+
+The :attribute must have :decimal decimal places.
 
 </td></tr>
 <tr><td width="50%">

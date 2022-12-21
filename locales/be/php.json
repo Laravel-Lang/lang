@@ -22,6 +22,7 @@
     "date": "Поле :attribute не з'яўляецца датай.",
     "date_equals": ":Attribute павінна быць датай, роўнай :date.",
     "date_format": "Поле :attribute не адпавядае фармату :format.",
+    "decimal": "The :attribute must have :decimal decimal places.",
     "declined": "The :attribute must be declined.",
     "declined_if": "The :attribute must be declined when :other is :value.",
     "different": "Палі :attribute і :other павінны адрознівацца.",

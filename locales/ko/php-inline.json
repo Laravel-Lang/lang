@@ -21,6 +21,7 @@
     "date": "유효한 날짜가 아닙니다.",
     "date_equals": ":Date과(와) 같은날짜여야합니다.",
     "date_format": ":Format 형식과 일치하지 않습니다.",
+    "decimal": "This field must have :decimal decimal places.",
     "declined": "이 필드는 거부되어야 합니다",
     "declined_if": ":Other이(가) :value일때 이 필드는 거부되어야 합니다.",
     "different": "이 값과 :other은(는) 서로 달라야 합니다.",

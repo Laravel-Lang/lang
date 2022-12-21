@@ -21,6 +21,7 @@
     "date": "זה לא תאריך תקף.",
     "date_equals": "זה חייב להיות תאריך שווה ל-:date.",
     "date_format": "זה לא מתאים לפורמט :format.",
+    "decimal": "This field must have :decimal decimal places.",
     "declined": "This value must be declined.",
     "declined_if": "This value must be declined when :other is :value.",
     "different": "ערך זה חייב להיות שונה מ-:other.",

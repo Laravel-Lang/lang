@@ -21,6 +21,7 @@
     "date": "Detta är inte ett giltigt datum.",
     "date_equals": "Detta måste vara ett datum som motsvarar :date.",
     "date_format": "Detta matchar inte formatet :format.",
+    "decimal": "This field must have :decimal decimal places.",
     "declined": "This value must be declined.",
     "declined_if": "This value must be declined when :other is :value.",
     "different": "Detta värde måste skilja sig från :other.",

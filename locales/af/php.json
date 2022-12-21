@@ -22,6 +22,7 @@
     "date": "Die :attribute is nie geldige datum nie.",
     "date_equals": "Die :attribute moet 'n datum wees wat gelyk is aan :date.",
     "date_format": "Die :attribute stem nie ooreen met die formaat :format nie.",
+    "decimal": "The :attribute must have :decimal decimal places.",
     "declined": "The :attribute must be declined.",
     "declined_if": "The :attribute must be declined when :other is :value.",
     "different": "Die :attribute en :other moet anders wees.",

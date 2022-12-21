@@ -21,6 +21,7 @@
     "date": "Энэ бол хүчинтэй хугацаа биш юм.",
     "date_equals": "Энэ нь :date-тай тэнцүү байх естой.",
     "date_format": "Энэ хэлбэр нь таарахгүй :format.",
+    "decimal": "This field must have :decimal decimal places.",
     "declined": "This value must be declined.",
     "declined_if": "This value must be declined when :other is :value.",
     "different": "Энэ утга нь өөр байх естой :other.",

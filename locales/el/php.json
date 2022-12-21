@@ -22,6 +22,7 @@
     "date": "Το πεδίο :attribute δεν είναι έγκυρη ημερομηνία.",
     "date_equals": "Το στοιχείο :attribute πρέπει να είναι μια ημερομηνία, όπως η εξής :date.",
     "date_format": "Το πεδίο :attribute δεν είναι της μορφής :format.",
+    "decimal": "The :attribute must have :decimal decimal places.",
     "declined": "The :attribute must be declined.",
     "declined_if": "The :attribute must be declined when :other is :value.",
     "different": "Το πεδίο :attribute και :other πρέπει να είναι διαφορετικά.",

@@ -22,6 +22,7 @@
     "date": ":Attribute nav derīgs.",
     "date_equals": ":Attribute datumam jāsakrīt ar :date.",
     "date_format": ":Attribute neatbilst formātam :format.",
+    "decimal": "The :attribute must have :decimal decimal places.",
     "declined": "The :attribute must be declined.",
     "declined_if": "The :attribute must be declined when :other is :value.",
     "different": ":Attribute un :other ir jābūt atšķirīgiem.",

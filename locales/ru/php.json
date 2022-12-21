@@ -22,6 +22,7 @@
     "date": "Значение поля :attribute не является датой.",
     "date_equals": "Значение поля :attribute должно быть датой равной :date.",
     "date_format": "Значение поля :attribute не соответствует формату даты :format.",
+    "decimal": "Значение поля :attribute должно содержать :decimal цифр десятичных разрядов.",
     "declined": "Поле :attribute должно быть отклонено.",
     "declined_if": "Поле :attribute должно быть отклонено, когда :other равно :value.",
     "different": "Значения полей :attribute и :other должны различаться.",

@@ -21,6 +21,7 @@
     "date": "Toto nie je platný dátum.",
     "date_equals": "Toto musí byť Dátum rovný :date.",
     "date_format": "Toto sa nezhoduje s formátom :format.",
+    "decimal": "This field must have :decimal decimal places.",
     "declined": "This value must be declined.",
     "declined_if": "This value must be declined when :other is :value.",
     "different": "Táto hodnota sa musí líšiť od :other.",

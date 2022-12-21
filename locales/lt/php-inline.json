@@ -21,6 +21,7 @@
     "date": "Šio lauko reikšmė nėra galiojanti data.",
     "date_equals": "Šio lauko reikšmė turi būti data lygi :date.",
     "date_format": "Šio lauko reikšmė neatitinka formato :format.",
+    "decimal": "This field must have :decimal decimal places.",
     "declined": "This value must be declined.",
     "declined_if": "This value must be declined when :other is :value.",
     "different": "Šio lauko reikšmė privalo skirtis nuo :other.",

@@ -22,6 +22,7 @@
     "date": ":Attribute nuk është një datë e saktë.",
     "date_equals": ":Attribute duhet të jetë datë e barabartë me :date.",
     "date_format": ":Attribute nuk i përshtatet formatit :format.",
+    "decimal": "The :attribute must have :decimal decimal places.",
     "declined": "The :attribute must be declined.",
     "declined_if": "The :attribute must be declined when :other is :value.",
     "different": ":Attribute dhe :other duhet të jenë të ndryshme.",

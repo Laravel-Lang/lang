@@ -22,6 +22,7 @@
     "date": ":Attribute դաշտը վավեր ամսաթիվ չէ։",
     "date_equals": ":Attribute դաշտի ամսաթիվը պետք է լինի :date։",
     "date_format": ":Attribute դաշտը չի համապատասխանում :format ձևաչափին։",
+    "decimal": "The :attribute must have :decimal decimal places.",
     "declined": "The :attribute must be declined.",
     "declined_if": "The :attribute must be declined when :other is :value.",
     "different": ":Attribute և :other դաշտերը պետք է լինեն տարբեր։",

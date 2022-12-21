@@ -22,6 +22,7 @@
     "date": "O campo :attribute não contém uma data válida.",
     "date_equals": "O campo :attribute tem de ser uma data igual a :date.",
     "date_format": "A data indicada para o campo :attribute não respeita o formato :format.",
+    "decimal": "The :attribute must have :decimal decimal places.",
     "declined": "O :attribute deve ser recusado.",
     "declined_if": "O :attribute deve ser recusado quando :other é :value.",
     "different": "Os campos :attribute e :other deverão conter valores diferentes.",

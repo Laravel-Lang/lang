@@ -8,7 +8,7 @@
     "alpha_dash": "Polje :attribute smije sadržavati samo slova, brojeve i crtice.",
     "alpha_num": "Polje :attribute smije sadržavati samo slova i brojeve.",
     "array": "Polje :attribute mora biti niz.",
-    "ascii": "The :attribute must only contain single-byte alphanumeric characters and symbols.",
+    "ascii": "Polje :attribute smije sadržavati samo slova, brojeve i simbole veličine jednog bajta.",
     "attached": "Polje :attribute je već prikvačeno.",
     "before": "Polje :attribute mora biti datum prije :date.",
     "before_or_equal": "Polje :attribute mora biti datum manji ili jednak :date.",
@@ -22,6 +22,7 @@
     "date": "Polje :attribute nije ispravan datum.",
     "date_equals": "Stavka :attribute mora biti jednaka :date.",
     "date_format": "Polje :attribute ne podudara s formatom :format.",
+    "decimal": "Polje :attribute mora sadržavati :decimal decimalnih mjesta.",
     "declined": "Polje :attribute mora biti odbijeno.",
     "declined_if": "Polje :attribute mora biti odbijeno kada je :other jednako :value.",
     "different": "Polja :attribute i :other moraju biti različita.",
@@ -117,11 +118,11 @@
     "throttled": "Molimo pričekajte prije ponovnog pokušaja!",
     "timezone": "Polje :attribute mora biti ispravna vremenska zona.",
     "token": "Oznaka za ponovno postavljanje lozinke više nije važeća.",
-    "ulid": "The :attribute must be a valid ULID.",
+    "ulid": "Polje :attribute mora biti valjani ULID.",
     "unique": "Polje :attribute već postoji.",
     "uploaded": "Polje :attribute nije uspešno učitano.",
-    "uppercase": "The :attribute must be uppercase.",
+    "uppercase": "Polje :attribute mora sadržavati samo velika slova.",
     "url": "Polje :attribute mora biti ispravan URL.",
     "user": "Korisnik s navedenom e-mail adresom nije pronađen.",
-    "uuid": "Stavka :attribute mora biti valjani UUID."
+    "uuid": "Polje :attribute mora biti valjani UUID."
 }

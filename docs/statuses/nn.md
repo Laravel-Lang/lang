@@ -4,7 +4,7 @@ editLink: false
 
 # nn
 
-##### All missed: 817
+##### All missed: 819
 
 
 ### json-inline
@@ -6790,7 +6790,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 38
+##### Missing: 39
 
 <table width="100%">
 <tr><th width="50%">
@@ -6881,6 +6881,15 @@ boolean
 </td><td width="50%">
 
 This field must be true or false.
+
+</td></tr>
+<tr><td width="50%">
+
+decimal
+
+</td><td width="50%">
+
+This field must have :decimal decimal places.
 
 </td></tr>
 <tr><td width="50%">
@@ -7152,7 +7161,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 30
+##### Missing: 31
 
 <table width="100%">
 <tr><th width="50%">
@@ -7198,6 +7207,15 @@ current_password
 </td><td width="50%">
 
 The password is incorrect.
+
+</td></tr>
+<tr><td width="50%">
+
+decimal
+
+</td><td width="50%">
+
+The :attribute must have :decimal decimal places.
 
 </td></tr>
 <tr><td width="50%">

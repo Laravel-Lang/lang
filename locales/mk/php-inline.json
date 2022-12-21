@@ -21,6 +21,7 @@
     "date": "Ова не е валиден датум.",
     "date_equals": "Ова мора да биде датум еднаков на :date.",
     "date_format": "Oва не одговара на форматот :format.",
+    "decimal": "This field must have :decimal decimal places.",
     "declined": "This value must be declined.",
     "declined_if": "This value must be declined when :other is :value.",
     "different": "Оваа вредност мора да биде различна од :other.",

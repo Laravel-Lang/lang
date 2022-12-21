@@ -22,6 +22,7 @@
     "date": "Lauko :attribute reikšmė nėra galiojanti data.",
     "date_equals": "Lauko :attribute reikšmė turi būti data lygi :date.",
     "date_format": "Lauko :attribute reikšmė neatitinka formato :format.",
+    "decimal": "The :attribute must have :decimal decimal places.",
     "declined": "Laukas :attribute turi būti atmestas.",
     "declined_if": "Laukas :attribute turi būti atmestas kai :other yra :value.",
     "different": "Laukų :attribute ir :other reikšmės turi skirtis.",

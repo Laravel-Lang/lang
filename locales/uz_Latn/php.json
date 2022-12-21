@@ -22,6 +22,7 @@
     "date": ":Attribute sana emas.",
     "date_equals": ":Attribute sana :date ga teng bo‘lishi kerak.",
     "date_format": ":Attribute maydoni :format formatga mos kelmadi.",
+    "decimal": "The :attribute must have :decimal decimal places.",
     "declined": "The :attribute must be declined.",
     "declined_if": "The :attribute must be declined when :other is :value.",
     "different": ":Attribute va :other maydonlari farqli bo‘lishi kerak.",

@@ -21,6 +21,7 @@
     "date": "Dit veld is geen geldige datum",
     "date_equals": "Dit veld moet een datum gelijk aan :date zijn.",
     "date_format": "Dit veld voldoet niet aan het formaat :format.",
+    "decimal": "This field must have :decimal decimal places.",
     "declined": "Dit veld moet afgewezen worden.",
     "declined_if": "Dit veld moet afgewezen worden wanneer :other gelijk is aan :value.",
     "different": "Dit veld en :other moeten verschillend zijn.",

@@ -22,6 +22,7 @@
     "date": ":Attribute은(는) 유효한 날짜가 아닙니다.",
     "date_equals": ":Attribute은(는) :date과(와) 같은날짜여야합니다.",
     "date_format": ":Attribute이(가) :format 형식과 일치하지 않습니다.",
+    "decimal": "The :attribute must have :decimal decimal places.",
     "declined": ":Attribute은(는) 거부되어야 합니다.",
     "declined_if": ":Other이(가) :value일때 :attribute은(는) 거부되어야 합니다.",
     "different": ":Attribute와(과) :other은(는) 서로 달라야 합니다.",

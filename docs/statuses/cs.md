@@ -4,7 +4,7 @@ editLink: false
 
 # cs
 
-##### All missed: 247
+##### All missed: 249
 
 
 ### json-inline
@@ -1930,7 +1930,7 @@ Zimbabwe
 
 ### php-inline
 
-##### Missing: 17
+##### Missing: 18
 
 <table width="100%">
 <tr><th width="50%">
@@ -1958,6 +1958,15 @@ ascii
 </td><td width="50%">
 
 This field must only contain single-byte alphanumeric characters and symbols.
+
+</td></tr>
+<tr><td width="50%">
+
+decimal
+
+</td><td width="50%">
+
+This field must have :decimal decimal places.
 
 </td></tr>
 <tr><td width="50%">
@@ -2103,7 +2112,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 21
+##### Missing: 22
 
 <table width="100%">
 <tr><th width="50%">
@@ -2131,6 +2140,15 @@ ascii
 </td><td width="50%">
 
 The :attribute must only contain single-byte alphanumeric characters and symbols.
+
+</td></tr>
+<tr><td width="50%">
+
+decimal
+
+</td><td width="50%">
+
+The :attribute must have :decimal decimal places.
 
 </td></tr>
 <tr><td width="50%">

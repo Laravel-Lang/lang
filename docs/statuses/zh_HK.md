@@ -4,7 +4,7 @@ editLink: false
 
 # zh_HK
 
-##### All missed: 87
+##### All missed: 89
 
 
 ### json-inline
@@ -580,7 +580,7 @@ Your email address is unverified.
 
 ### php-inline
 
-##### Missing: 14
+##### Missing: 15
 
 <table width="100%">
 <tr><th width="50%">
@@ -599,6 +599,15 @@ ascii
 </td><td width="50%">
 
 This field must only contain single-byte alphanumeric characters and symbols.
+
+</td></tr>
+<tr><td width="50%">
+
+decimal
+
+</td><td width="50%">
+
+This field must have :decimal decimal places.
 
 </td></tr>
 <tr><td width="50%">
@@ -726,7 +735,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 14
+##### Missing: 15
 
 <table width="100%">
 <tr><th width="50%">
@@ -745,6 +754,15 @@ ascii
 </td><td width="50%">
 
 The :attribute must only contain single-byte alphanumeric characters and symbols.
+
+</td></tr>
+<tr><td width="50%">
+
+decimal
+
+</td><td width="50%">
+
+The :attribute must have :decimal decimal places.
 
 </td></tr>
 <tr><td width="50%">

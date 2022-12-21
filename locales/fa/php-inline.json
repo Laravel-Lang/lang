@@ -21,6 +21,7 @@
     "date": "این مقدار یک تاریخ معبتر نیست.",
     "date_equals": "این مقدار باید یک تاریخ مساوی با :date باشد.",
     "date_format": "این مقدار با فرمت :format همخوانی ندارد.",
+    "decimal": "This field must have :decimal decimal places.",
     "declined": "این مقدار قابل پذیرش نیست.",
     "declined_if": "این مقدار قابل پذیرش نیست زمانی که :other برابر با :value.",
     "different": "این مقدار باید متفاوت از :other باشد.",

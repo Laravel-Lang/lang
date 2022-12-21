@@ -4,12 +4,12 @@ editLink: false
 
 # pt_BR
 
-##### All missed: 4
+##### All missed: 2
 
 
 ### php-inline
 
-##### Missing: 2
+##### Missing: 1
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,20 +23,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-ascii
+decimal
 
 </td><td width="50%">
 
-This field must only contain single-byte alphanumeric characters and symbols.
-
-</td></tr>
-<tr><td width="50%">
-
-ulid
-
-</td><td width="50%">
-
-This field must be a valid ULID.
+This field must have :decimal decimal places.
 
 </td></tr>
 </table>
@@ -47,7 +38,7 @@ This field must be a valid ULID.
 
 ### php
 
-##### Missing: 2
+##### Missing: 1
 
 <table width="100%">
 <tr><th width="50%">
@@ -61,20 +52,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-ascii
+decimal
 
 </td><td width="50%">
 
-The :attribute must only contain single-byte alphanumeric characters and symbols.
-
-</td></tr>
-<tr><td width="50%">
-
-ulid
-
-</td><td width="50%">
-
-The :attribute must be a valid ULID.
+The :attribute must have :decimal decimal places.
 
 </td></tr>
 </table>

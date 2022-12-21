@@ -22,6 +22,7 @@
     "date": ":Attribute نېټه اعتبار نلري .",
     "date_equals": "دا باید وي :attribute د نیټې سره سم:date.",
     "date_format": "مطابقت نلري :attribute د شکل سره:format.",
+    "decimal": "The :attribute must have :decimal decimal places.",
     "declined": "The :attribute must be declined.",
     "declined_if": "The :attribute must be declined when :other is :value.",
     "different": "ساحې باید وي :attribute و :other مختلف.",

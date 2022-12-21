@@ -21,6 +21,7 @@
     "date": "นี่เป็นค่าวันที่ที่ไม่ถูกต้อง!",
     "date_equals": "นี่ต้องเป็นวันเท่ากับ :date.",
     "date_format": "นี่มันไม่ตรงกับรูปแบบ :format.",
+    "decimal": "This field must have :decimal decimal places.",
     "declined": "ข้อมูลนี้ต้องถูกปฏิเสธ",
     "declined_if": "ข้อมูลนี้ต้องถูกปฏิเสธเมื่อ :other มีค่าเท่ากับ :value.",
     "different": "ค่านี้จะต้องแตกต่างจาก :other.",

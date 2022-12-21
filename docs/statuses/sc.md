@@ -4,7 +4,7 @@ editLink: false
 
 # sc
 
-##### All missed: 878
+##### All missed: 880
 
 
 ### json-inline
@@ -7071,7 +7071,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 38
+##### Missing: 39
 
 <table width="100%">
 <tr><th width="50%">
@@ -7162,6 +7162,15 @@ boolean
 </td><td width="50%">
 
 This field must be true or false.
+
+</td></tr>
+<tr><td width="50%">
+
+decimal
+
+</td><td width="50%">
+
+This field must have :decimal decimal places.
 
 </td></tr>
 <tr><td width="50%">
@@ -7433,7 +7442,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 60
+##### Missing: 61
 
 <table width="100%">
 <tr><th width="50%">
@@ -7506,6 +7515,15 @@ date_equals
 </td><td width="50%">
 
 The :attribute must be a date equal to :date.
+
+</td></tr>
+<tr><td width="50%">
+
+decimal
+
+</td><td width="50%">
+
+The :attribute must have :decimal decimal places.
 
 </td></tr>
 <tr><td width="50%">

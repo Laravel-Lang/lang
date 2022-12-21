@@ -21,7 +21,7 @@
     "date": "Pole nie jest prawidłową datą.",
     "date_equals": "Pole musi być datą równą :date.",
     "date_format": "Pole nie jest w formacie :format.",
-    "decimal": "This field must have :decimal decimal places.",
+    "decimal": "Pole musi mieć :decimal miejsc po przecinku.",
     "declined": "Wartość musi zostać odrzucona.",
     "declined_if": "Wartość musi zostać odrzucona, gdy :other ma wartość :value.",
     "different": "Pole oraz :other muszą się różnić.",

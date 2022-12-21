@@ -15,12 +15,12 @@ class Master extends Plugin
         return [
             'framework/master/framework.json' => '{locale}.json',
 
-            'framework/extended.json' => '{locale}.json',
+            'framework/extended.json'         => '{locale}.json',
 
-            'laravel/master/auth.php'       => '{locale}/auth.php',
-            'laravel/master/pagination.php' => '{locale}/pagination.php',
-            'laravel/master/passwords.php'  => '{locale}/passwords.php',
-            'laravel/master/validation.php' => '{locale}/validation.php',
+            'laravel/master/auth.php'         => '{locale}/auth.php',
+            'laravel/master/pagination.php'   => '{locale}/pagination.php',
+            'laravel/master/passwords.php'    => '{locale}/passwords.php',
+            'laravel/master/validation.php'   => '{locale}/validation.php',
         ];
     }
 }

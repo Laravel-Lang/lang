@@ -61,7 +61,7 @@ jobs:
                     --project=breeze \
                     --ver=${{ matrix.version }}
 
-    cashier stripe:
+    cashier_stripe:
         uses: Laravel-Lang/.github/.github/workflows/download.yml@main
         strategy:
             fail-fast: true
@@ -106,7 +106,7 @@ jobs:
                     --project=jetstream \
                     --ver=${{ matrix.version }}
 
-    nova log viewer:
+    nova_log_viewer:
         uses: Laravel-Lang/.github/.github/workflows/download.yml@main
         strategy:
             fail-fast: true
@@ -121,7 +121,7 @@ jobs:
                     --project=nova/log-viewer \
                     --ver=${{ matrix.version }}
 
-    spark aurelius:
+    spark_aurelius:
         uses: Laravel-Lang/.github/.github/workflows/download.yml@main
         strategy:
             fail-fast: true
@@ -138,7 +138,7 @@ jobs:
                     --copy=install-stubs/resources/lang \
                     --only-copy
 
-    spark aurelius mollie:
+    spark_aurelius_mollie:
         uses: Laravel-Lang/.github/.github/workflows/download.yml@main
         strategy:
             fail-fast: true

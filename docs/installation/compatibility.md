@@ -12,17 +12,19 @@ composer require laravel-lang/lang:^12.0
 composer require laravel-lang/lang:^12.0 laravel-lang/publisher:^14.0
 ```
 
-| Package        | Version    |
-|----------------|------------|
-| Laravel, Lumen | 9, 10      |
-| Breeze         | 1          |
-| Cashier Stripe | 12, 13, 14 |
-| Fortify        | 1          |
-| Jetstream      | 1, 2       |
-| Nova           | 3, 4       |
-| Spark Paddle   | *          |
-| Spark Stripe   | *          |
-| UI             | 3, 4       |
+| Package               | Version    |
+|-----------------------|------------|
+| Laravel, Lumen        | 9, 10      |
+| Breeze                | 1          |
+| Cashier Stripe        | 12, 13, 14 |
+| Fortify               | 1          |
+| Jetstream             | 1, 2       |
+| Nova                  | 3, 4       |
+| Spark Aurelius        | 11, 12     |
+| Spark Aurelius Mollie | 2          |
+| Spark Paddle          | *          |
+| Spark Stripe          | *          |
+| UI                    | 3, 4       |
 
 ### 11.0
 

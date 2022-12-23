@@ -18,6 +18,7 @@
     "between.string": "This string must be between :min and :max characters.",
     "boolean": "Энэ талбар нь үнэн, худал байх естой.",
     "confirmed": "Баталгаа нь таарахгүй байна.",
+    "country": "This field is not a valid country.",
     "date": "Энэ бол хүчинтэй хугацаа биш юм.",
     "date_equals": "Энэ нь :date-тай тэнцүү байх естой.",
     "date_format": "Энэ хэлбэр нь таарахгүй :format.",

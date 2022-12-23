@@ -18,6 +18,7 @@
     "between.string": "This string must be between :min and :max characters.",
     "boolean": "Ang patlang na ito ay dapat na totoo o hindi.",
     "confirmed": "Kumpirmasyon ay hindi tumutugma.",
+    "country": "This field is not a valid country.",
     "date": "Ito ay hindi isang wastong petsa.",
     "date_equals": "Ito ay dapat na isang petsa na katumbas ng :date.",
     "date_format": "Ito ay hindi tumutugma sa pormat :format.",

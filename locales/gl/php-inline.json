@@ -18,6 +18,7 @@
     "between.string": "This string must be between :min and :max characters.",
     "boolean": "Este campo debe ser verdadeiro ou falso.",
     "confirmed": "A confirmación non se corresponde.",
+    "country": "This field is not a valid country.",
     "date": "Esta non é unha válida a data.",
     "date_equals": "Esta debe ser unha data igual a :date.",
     "date_format": "Este non coincide co formato :format.",

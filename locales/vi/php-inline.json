@@ -18,6 +18,7 @@
     "between.string": "Trường này phải từ :min - :max kí tự.",
     "boolean": "Trường này phải là true hoặc false.",
     "confirmed": "Giá trị xác nhận trong trường này không khớp.",
+    "country": "This field is not a valid country.",
     "date": "Trường này không phải là định dạng của ngày-tháng.",
     "date_equals": "Trường này phải là một ngày bằng với :date.",
     "date_format": "Trường này không giống với định dạng :format.",

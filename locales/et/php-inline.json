@@ -18,6 +18,7 @@
     "between.string": "Selle teksti pikkus peab jääma :min ja :max tähemärgi vahele.",
     "boolean": "See väli peab olema tõene või vale.",
     "confirmed": "Kinnitus ei sobi.",
+    "country": "This field is not a valid country.",
     "date": "See ei ole kehtiv kuupäev.",
     "date_equals": "See peab olema kuupäev, mis võrdub :date-ga.",
     "date_format": "See ei vasta vormingule :format.",

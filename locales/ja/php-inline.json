@@ -18,6 +18,7 @@
     "between.string": ":Min ~ :max 文字の間でなければいけません。",
     "boolean": "trueまたはfalseを指定してください。",
     "confirmed": "確認の内容が一致しません。",
+    "country": "This field is not a valid country.",
     "date": "有効な日付ではありません。",
     "date_equals": ":Date 同じ日付を指定してください。",
     "date_format": ":Format の形と一致しません。",

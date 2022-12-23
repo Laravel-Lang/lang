@@ -18,6 +18,7 @@
     "between.string": "Ovo polje mora biti između :min - :max znakova.",
     "boolean": "Ovo polje mora biti istinito ili lažno.",
     "confirmed": "Potvrda se ne podudara.",
+    "country": "This field is not a valid country.",
     "date": "Ovo polje ne sadrži valjan datum.",
     "date_equals": "Ovo polje mora biti datum jednak :date.",
     "date_format": "Ovo polje mora biti datum u formatu :format.",

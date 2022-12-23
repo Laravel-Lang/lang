@@ -18,6 +18,7 @@
     "between.string": "This string must be between :min and :max characters.",
     "boolean": "שדה זה חייב להיות אמת או שקר.",
     "confirmed": "האישור אינו תואם.",
+    "country": "This field is not a valid country.",
     "date": "זה לא תאריך תקף.",
     "date_equals": "זה חייב להיות תאריך שווה ל-:date.",
     "date_format": "זה לא מתאים לפורמט :format.",

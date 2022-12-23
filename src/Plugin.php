@@ -43,6 +43,12 @@ class Plugin extends Provider
         Plugins\Spark\Paddle::class,
         Plugins\Spark\Stripe::class,
 
+        Plugins\Spark\Aurelius\Master::class,
+        Plugins\Spark\Aurelius\V11::class,
+        Plugins\Spark\Aurelius\V12::class,
+
+        Plugins\Spark\AureliusMollie\V2::class,
+
         Plugins\UI\Master::class,
         Plugins\UI\V3::class,
         Plugins\UI\V4::class,

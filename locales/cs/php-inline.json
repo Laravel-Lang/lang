@@ -18,6 +18,7 @@
     "between.string": "Toto pole musí být nejméně :min a nejvíce :max znaků.",
     "boolean": "Toto pole musí být pravdivé nebo nepravdivé.",
     "confirmed": "Potvrzení neodpovídá.",
+    "country": "This field is not a valid country.",
     "date": "Toto není platné datum.",
     "date_equals": "Toto musí být Datum rovnající se :date.",
     "date_format": "To neodpovídá formátu :format.",

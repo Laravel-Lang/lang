@@ -18,6 +18,7 @@
     "between.string": "This string must be between :min and :max characters.",
     "boolean": "Бұл өріс шын немесе жалған болуы керек.",
     "confirmed": "Растау бірдей емес.",
+    "country": "This field is not a valid country.",
     "date": "Бұл жарамды күн емес.",
     "date_equals": "Бұл :date жылға тең күн болуы керек.",
     "date_format": "Бұл :format форматына сәйкес келмейді.",

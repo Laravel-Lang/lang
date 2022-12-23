@@ -18,6 +18,7 @@
     "between.string": "Hierdie string moet tussen :min en :max karakters wees.",
     "boolean": "Hierdie veld moet waar of onwaar wees.",
     "confirmed": "Die bevestiging stem nie ooreen nie.",
+    "country": "This field is not a valid country.",
     "date": "Dit is nie 'n geldige datum nie.",
     "date_equals": "Dit moet 'n datum wees wat gelyk is aan :date.",
     "date_format": "Dit stem nie ooreen met die :format formaat nie.",

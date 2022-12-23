@@ -18,6 +18,7 @@
     "between.string": "This string must be between :min and :max characters.",
     "boolean": "Ennek a mezőnek igaznak vagy hamisnak kell lennie.",
     "confirmed": "A megerősítés nem egyezik.",
+    "country": "This field is not a valid country.",
     "date": "Ez nem érvényes dátum.",
     "date_equals": "Ennek :date-nak kell lennie.",
     "date_format": "Ez nem felel meg az :format formátumnak.",

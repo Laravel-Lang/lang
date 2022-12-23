@@ -18,6 +18,7 @@
     "between.string": "This string must be between :min and :max characters.",
     "boolean": "Гэта поле павінна быць сапраўдным або ілжывым.",
     "confirmed": "Пацверджанне не супадае.",
+    "country": "This field is not a valid country.",
     "date": "Гэта не сапраўдная дата.",
     "date_equals": "Гэта павінна быць дата, роўная :date годзе.",
     "date_format": "Гэта не адпавядае фармату :format.",

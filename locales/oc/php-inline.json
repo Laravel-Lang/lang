@@ -18,6 +18,7 @@
     "between.string": "Lo tèxt deu conténer entre :min e :max caractèrs.",
     "boolean": "Aqueste camp deu èsser verai o fals.",
     "confirmed": "Lo camp de confirmacion correspond pas.",
+    "country": "This field is not a valid country.",
     "date": "Aquò es pas una data valida.",
     "date_equals": "La data deu èsser una data egala a :date.",
     "date_format": "Aqueste camp correspond pas al format :format.",

@@ -18,6 +18,7 @@
     "between.string": "Må være mellom :min - :max tegn.",
     "boolean": "Må være sann eller usann",
     "confirmed": "Er ikke likt bekreftelsesfeltet.",
+    "country": "This field is not a valid country.",
     "date": "Er ikke en gyldig dato.",
     "date_equals": "Må være en dato lik :date.",
     "date_format": "Samsvarer ikke med formatet :format.",

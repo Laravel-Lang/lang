@@ -18,6 +18,7 @@
     "between.string": "This string must be between :min and :max characters.",
     "boolean": "Þetta sviði verður að vera rétt eða rangt.",
     "confirmed": "Staðfestingu passar ekki.",
+    "country": "This field is not a valid country.",
     "date": "Þetta er ekki gilt degi.",
     "date_equals": "Þetta hlýtur að vera stefnumót jafn :date.",
     "date_format": "Þetta passar ekki í formi :format.",

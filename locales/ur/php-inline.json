@@ -18,6 +18,7 @@
     "between.string": "This string must be between :min and :max characters.",
     "boolean": "اس میدان میں ہونا ضروری ہے سچ ہے یا جھوٹ.",
     "confirmed": "تصدیق سے مماثل نہیں ہے.",
+    "country": "This field is not a valid country.",
     "date": "یہ نہیں ہے ایک درست تاریخ.",
     "date_equals": "یہ ہونا ضروری ہے ، ایک تاریخ کے لئے برابر :date.",
     "date_format": "اس کا مطلب یہ نہیں ملنے کی شکل :format.",

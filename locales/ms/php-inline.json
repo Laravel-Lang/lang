@@ -18,6 +18,7 @@
     "between.string": "Ruangan ini mesti mengandungi antara :min dan :max aksara.",
     "boolean": "Ruangan ini mesti benar atau salah.",
     "confirmed": "Pengesahan yang tidak sepadan.",
+    "country": "This field is not a valid country.",
     "date": "Tarikh ini tidak sah.",
     "date_equals": "Tarikh mesti sama dengan :date.",
     "date_format": "Format tarikh tidak sepadan dengan :format.",

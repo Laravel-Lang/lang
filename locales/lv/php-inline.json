@@ -18,6 +18,7 @@
     "between.string": "This string must be between :min and :max characters.",
     "boolean": "Šim laukam jābūt patiesam vai nepatiesam.",
     "confirmed": "Apstiprinājums neatbilst.",
+    "country": "This field is not a valid country.",
     "date": "Tas nav derīgs datums.",
     "date_equals": "Tam jābūt datumam, kas vienāds ar :date.",
     "date_format": "Tas neatbilst formātam :format.",

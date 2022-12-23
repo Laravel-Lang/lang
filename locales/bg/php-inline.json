@@ -18,6 +18,7 @@
     "between.string": "Текстът трябва да е между :min и :max символа.",
     "boolean": "Това поле трябва да е вярно или невярно.",
     "confirmed": "Потвърждението не съвпада.",
+    "country": "This field is not a valid country.",
     "date": "Това не е валидна дата.",
     "date_equals": "Това трябва да е дата, равна на :date.",
     "date_format": "Това не съответства на формата :format.",

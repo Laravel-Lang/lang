@@ -18,6 +18,7 @@
     "between.string": "必須介於 :min 至 :max 個字元之間。",
     "boolean": "必須為布林值。",
     "confirmed": "確認欄位的輸入不一致。",
+    "country": "This field is not a valid country.",
     "date": "不是有效的日期。",
     "date_equals": "必須等於 :date。",
     "date_format": "不符合 :format 的格式。",

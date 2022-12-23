@@ -18,6 +18,7 @@
     "between.string": "يجب أن يكون عدد حروف النّص بين :min و :max.",
     "boolean": "يجب أن تكون قيمة هذا الحقل إما true أو false .",
     "confirmed": "التأكيد غير متطابق.",
+    "country": "This field is not a valid country.",
     "date": "هذا ليس تاريخًا صحيحًا.",
     "date_equals": "يجب أن يكون تاريخاً مطابقاً للتاريخ :date.",
     "date_format": "لا يتوافق مع الشكل :format.",

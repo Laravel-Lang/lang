@@ -18,6 +18,7 @@
     "between.string": "ข้อมูลนี้ต้องมีจำนวนอักษรอยู่ระหว่าง :min และ :max ตัวอักษร",
     "boolean": "ช่องข้อมูลนี้ต้องเป็นจริงหรือเท็จ",
     "confirmed": "การยืนยันไม่ตรงกัน",
+    "country": "This field is not a valid country.",
     "date": "นี่เป็นค่าวันที่ที่ไม่ถูกต้อง!",
     "date_equals": "นี่ต้องเป็นวันเท่ากับ :date.",
     "date_format": "นี่มันไม่ตรงกับรูปแบบ :format.",

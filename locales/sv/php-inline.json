@@ -18,6 +18,7 @@
     "between.string": "This string must be between :min and :max characters.",
     "boolean": "Detta fält måste vara sant eller falskt.",
     "confirmed": "Bekräftelsen matchar inte.",
+    "country": "This field is not a valid country.",
     "date": "Detta är inte ett giltigt datum.",
     "date_equals": "Detta måste vara ett datum som motsvarar :date.",
     "date_format": "Detta matchar inte formatet :format.",

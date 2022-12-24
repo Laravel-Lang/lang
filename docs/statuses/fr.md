@@ -4,41 +4,12 @@ editLink: false
 
 # fr
 
-##### All missed: 31
-
-
-### php-inline
-
-##### Missing: 1
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-country
-
-</td><td width="50%">
-
-This field is not a valid country.
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
+##### All missed: 23
 
 
 ### php
 
-##### Missing: 30
+##### Missing: 23
 
 <table width="100%">
 <tr><th width="50%">
@@ -50,69 +21,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-are_you_sure_you_want_to_delete_team
-
-</td><td width="50%">
-
-Are you sure you want to delete this team?
-
-</td></tr>
-<tr><td width="50%">
-
-are_you_sure_you_want_to_leave_team
-
-</td><td width="50%">
-
-Are you sure you want to leave this team?
-
-</td></tr>
-<tr><td width="50%">
-
-attributes.team
-
-</td><td width="50%">
-
-team
-
-</td></tr>
-<tr><td width="50%">
-
-country
-
-</td><td width="50%">
-
-The :attribute field is not a valid country.
-
-</td></tr>
-<tr><td width="50%">
-
-create_team
-
-</td><td width="50%">
-
-Create Team
-
-</td></tr>
-<tr><td width="50%">
-
-if_you_delete_team_all_data_will_be_deleted
-
-</td><td width="50%">
-
-If you choose to delete the team all data will be permanently deleted.
-
-</td></tr>
-<tr><td width="50%">
-
-looks_like_you_are_not_part_of_team
-
-</td><td width="50%">
-
-It looks like you're not part of any team!
-
-</td></tr>
 <tr><td width="50%">
 
 not_eligible_based_on_current_members_teams

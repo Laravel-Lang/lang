@@ -1,6 +1,7 @@
 <?php
 
 return [
+
     /*
     |--------------------------------------------------------------------------
     | Validation Language Lines
@@ -41,13 +42,13 @@ return [
     'email'                => 'The :attribute must be a valid email address.',
     'exists'               => 'The selected :attribute is invalid.',
     'filled'               => 'The :attribute field is required.',
-    'gt'                   => [
+    'gt' => [
         'numeric' => 'The :attribute must be greater than :value.',
         'file'    => 'The :attribute must be greater than :value kilobytes.',
         'string'  => 'The :attribute must be greater than :value characters.',
         'array'   => 'The :attribute must have more than :value items.',
     ],
-    'gte'                  => [
+    'gte' => [
         'numeric' => 'The :attribute must be greater than or equal :value.',
         'file'    => 'The :attribute must be greater than or equal :value kilobytes.',
         'string'  => 'The :attribute must be greater than or equal :value characters.',
@@ -61,13 +62,13 @@ return [
     'ipv4'                 => 'The :attribute must be a valid IPv4 address.',
     'ipv6'                 => 'The :attribute must be a valid IPv6 address.',
     'json'                 => 'The :attribute must be a valid JSON string.',
-    'lt'                   => [
+    'lt' => [
         'numeric' => 'The :attribute must be less than :value.',
         'file'    => 'The :attribute must be less than :value kilobytes.',
         'string'  => 'The :attribute must be less than :value characters.',
         'array'   => 'The :attribute must have less than :value items.',
     ],
-    'lte'                  => [
+    'lte' => [
         'numeric' => 'The :attribute must be less than or equal :value.',
         'file'    => 'The :attribute must be less than or equal :value kilobytes.',
         'string'  => 'The :attribute must be less than or equal :value characters.',
@@ -126,7 +127,7 @@ return [
     |
     */
 
-    'custom'               => [
+    'custom' => [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
@@ -143,7 +144,8 @@ return [
     |
     */
 
-    'attributes'           => [
-        'team' => 'team',
+    'attributes' => [
+        'team' => 'team'
     ],
+
 ];

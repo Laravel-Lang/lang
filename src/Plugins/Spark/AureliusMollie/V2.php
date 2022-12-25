@@ -13,6 +13,8 @@ class V2 extends Plugin
     public function files(): array
     {
         return [
+            'spark/aurelius-mollie/v2/en.json' => '{locale}.json',
+
             'spark/aurelius-mollie/v2/teams.php'      => 'spark/{locale}/teams.php',
             'spark/aurelius-mollie/v2/validation.php' => 'spark/{locale}/validation.php',
         ];

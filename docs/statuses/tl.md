@@ -4,7 +4,7 @@ editLink: false
 
 # tl
 
-##### All missed: 408
+##### All missed: 407
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 306
+##### Missing: 305
 
 <table width="100%">
 <tr><th width="50%">
@@ -2523,15 +2523,6 @@ Trinidad and Tobago
 </td><td width="50%">
 
 Trinidad and Tobago
-
-</td></tr>
-<tr><td width="50%">
-
-Turkey
-
-</td><td width="50%">
-
-Turkey
 
 </td></tr>
 <tr><td width="50%">

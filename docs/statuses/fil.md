@@ -4,7 +4,7 @@ editLink: false
 
 # fil
 
-##### All missed: 885
+##### All missed: 884
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 766
+##### Missing: 765
 
 <table width="100%">
 <tr><th width="50%">
@@ -6314,15 +6314,6 @@ Tunisia
 </td><td width="50%">
 
 Tunisia
-
-</td></tr>
-<tr><td width="50%">
-
-Turkey
-
-</td><td width="50%">
-
-Turkey
 
 </td></tr>
 <tr><td width="50%">

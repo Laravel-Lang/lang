@@ -18,6 +18,7 @@
     "between.string": "This string must be between :min and :max characters.",
     "boolean": "Eremu hau izan behar egia edo gezurra.",
     "confirmed": "Baieztapen horrek ez du partida.",
+    "country": "This field is not a valid country.",
     "date": "Hau ez da baliozko data bat.",
     "date_equals": "Hau behar data bat berdina :date.",
     "date_format": "Hau ez dator formatu :format.",

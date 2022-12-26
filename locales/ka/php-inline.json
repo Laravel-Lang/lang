@@ -18,6 +18,7 @@
     "between.string": "სიმბოლოების რაოდენობა უნდა იყოს :min-დან :max-მდე.",
     "boolean": "ეს ველი უნდა იყოს ჭეშმარიტი ან ცრუ.",
     "confirmed": "დადასტურება არ ემთხვევა.",
+    "country": "This field is not a valid country.",
     "date": "ეს არ არის სწორი თარიღი.",
     "date_equals": "ეს უნდა იყოს თარიღი ტოლია :date.",
     "date_format": "ეს არ ემთხვევა ფორმატი :format.",

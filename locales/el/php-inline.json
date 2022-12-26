@@ -18,6 +18,7 @@
     "between.string": "This string must be between :min and :max characters.",
     "boolean": "Αυτό το πεδίο πρέπει να είναι αληθές ή ψευδές.",
     "confirmed": "Η επιβεβαίωση δεν ταιριάζει.",
+    "country": "This field is not a valid country.",
     "date": "Αυτή δεν είναι έγκυρη ημερομηνία.",
     "date_equals": "Αυτή πρέπει να είναι μια ημερομηνία ίση με :date.",
     "date_format": "Αυτό δεν ταιριάζει με τη μορφή :format.",

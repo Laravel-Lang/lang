@@ -18,6 +18,7 @@
     "between.string": "This string must be between :min and :max characters.",
     "boolean": "Toto pole musí byť pravdivé alebo nepravdivé.",
     "confirmed": "Potvrdenie sa nezhoduje.",
+    "country": "This field is not a valid country.",
     "date": "Toto nie je platný dátum.",
     "date_equals": "Toto musí byť Dátum rovný :date.",
     "date_format": "Toto sa nezhoduje s formátom :format.",

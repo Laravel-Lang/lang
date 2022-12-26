@@ -18,6 +18,7 @@
     "between.string": "Kjo duhet të ketë ndërmjet :min - :max karaktereve.",
     "boolean": "Kjo fushë duhet të jetë e vërtetë ose e gabuar",
     "confirmed": "Konfirmimi nuk përputhet.",
+    "country": "This field is not a valid country.",
     "date": "Kjo nuk është një datë e saktë.",
     "date_equals": "Kjo duhet të jetë datë e barabartë me :date.",
     "date_format": "Kjo nuk i përshtatet formatit :format.",

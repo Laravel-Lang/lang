@@ -18,6 +18,7 @@
     "between.string": "Merkkijonon täytyy olla vähintään :min ja maksimissaan :max merkkiä.",
     "boolean": "Tämän kentän on oltava tosi tai epätosi.",
     "confirmed": "Vahvistus ei täsmää.",
+    "country": "This field is not a valid country.",
     "date": "Tämä ei ole pätevä päivämäärä.",
     "date_equals": "Tämän päivämäärän on oltava :date.",
     "date_format": "Tämä ei vastaa muotoa :format.",

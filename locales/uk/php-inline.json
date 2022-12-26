@@ -18,6 +18,7 @@
     "between.string": "Рядок повинен бути між :min та :max символами.",
     "boolean": "Поле має бути істинним або хибним.",
     "confirmed": "Підтвердження не збігається.",
+    "country": "This field is not a valid country.",
     "date": "Не є допустимою датою.",
     "date_equals": "Повинна бути дата, що дорівнює :date.",
     "date_format": "Не відповідає формату :format.",

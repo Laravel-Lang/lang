@@ -18,6 +18,7 @@
     "between.string": "Rečenica mora ima imati najmanje :min a najviše :max slova.",
     "boolean": "Ovo polje mora biti tačno ili netačno.",
     "confirmed": "Potvrda se ne poklapa.",
+    "country": "This field is not a valid country.",
     "date": "Nije odgovarajući datum.",
     "date_equals": "Mora da bude datum: :date.",
     "date_format": "Ovo ne odgovora formatu: :format.",

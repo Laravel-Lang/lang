@@ -18,6 +18,7 @@
     "between.string": "Bu metin :min ve :max karakter aralığında olmalıdır.",
     "boolean": "Bu alan doğru veya yanlış olmalıdır.",
     "confirmed": "Onay eşleşmiyor.",
+    "country": "This field is not a valid country.",
     "date": "Bu geçerli bir tarih değil.",
     "date_equals": "Bu, :date'a eşit bir tarih olmalıdır.",
     "date_format": "Bu biçim :format eşleşmiyor.",

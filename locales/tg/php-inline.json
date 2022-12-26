@@ -18,6 +18,7 @@
     "between.string": "This string must be between :min and :max characters.",
     "boolean": "Ин соҳа бояд бошад, ҳақ е бардурӯғ.",
     "confirmed": "Тасдиқи мувофиқ нест.",
+    "country": "This field is not a valid country.",
     "date": "Ин действительная таърих.",
     "date_equals": "Ин бояд сана, баробар ба :date сол.",
     "date_format": "Ин ба формату :format.",

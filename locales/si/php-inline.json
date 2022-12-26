@@ -18,6 +18,7 @@
     "between.string": "මෙම වචනය අකුරු :min ත් :max ත් අතර විය යුතුය.",
     "boolean": "මේ ක්ෂේත්‍රය විය යුතුය, සැබෑ හෝ බොරු.",
     "confirmed": "තහවුරු නොගැලපේ.",
+    "country": "This field is not a valid country.",
     "date": "මෙම වලංගු වන දිනය.",
     "date_equals": "මෙම විය යුතුය දිනය සමාන :date.",
     "date_format": "මේ නොගැලපේ ආකෘතිය :format.",

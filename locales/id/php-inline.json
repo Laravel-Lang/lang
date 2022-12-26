@@ -18,6 +18,7 @@
     "between.string": "String ini harus memiliki panjang di antara :min dan :max karakter.",
     "boolean": "Isian ini harus berisi true atau false.",
     "confirmed": "Konfirmasi tidak sesuai.",
+    "country": "This field is not a valid country.",
     "date": "Isian ini bukan tanggal yang benar.",
     "date_equals": "Isian ini harus berisi tanggal yang sama dengan :date.",
     "date_format": "Isian ini tidak cocok dengan format :format.",

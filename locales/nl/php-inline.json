@@ -18,6 +18,7 @@
     "between.string": "Dit veld moet tussen :min en :max karakters zijn.",
     "boolean": "Dit veld moet ja of nee zijn.",
     "confirmed": "De bevestiging komt niet overeen.",
+    "country": "This field is not a valid country.",
     "date": "Dit veld is geen geldige datum",
     "date_equals": "Dit veld moet een datum gelijk aan :date zijn.",
     "date_format": "Dit veld voldoet niet aan het formaat :format.",

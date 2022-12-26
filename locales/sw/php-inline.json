@@ -18,6 +18,7 @@
     "between.string": "Mfuatano huu lazima uwe kati ya vibambo :min na :max .",
     "boolean": "Uwanja huu lazima kuwa kweli au uongo.",
     "confirmed": "Uthibitisho haina mechi.",
+    "country": "This field is not a valid country.",
     "date": "Hii si halali kwa sasa.",
     "date_equals": "Hii ni lazima kuwa tarehe sawa na :date.",
     "date_format": "Hii haina muundo wa tarehe :format.",

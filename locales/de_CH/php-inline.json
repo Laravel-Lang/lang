@@ -18,6 +18,7 @@
     "between.string": "Diese Zeichenkette muss zwischen :min & :max Zeichen lang sein.",
     "boolean": "Dieses Feld muss entweder 'true' oder 'false' sein.",
     "confirmed": "Die Bestätigung stimmt nicht überein.",
+    "country": "This field is not a valid country.",
     "date": "Das ist kein gültiges Datum.",
     "date_equals": "Das Datum muss identisch zu :date sein.",
     "date_format": "Das Datum entspricht nicht dem gültigen Format für :format.",

@@ -18,6 +18,7 @@
     "between.string": "This string must be between :min and :max characters.",
     "boolean": "Aquest camp ha de ser true o false.",
     "confirmed": "La confirmació no coincideix.",
+    "country": "This field is not a valid country.",
     "date": "Aquesta no és una data vàlida.",
     "date_equals": "Aquesta ha de ser una data igual a :date.",
     "date_format": "Aquest no coincideix amb el format :format.",

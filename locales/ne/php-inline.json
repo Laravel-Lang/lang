@@ -18,6 +18,7 @@
     "between.string": "यो स्ट्रिङ्ग: बीचमा हुनुपर्दछ :min र :max क्यारेक्टरहरू।",
     "boolean": "यो क्षेत्र सहि वा गलत हुन पर्छ।",
     "confirmed": "पुष्टिकरण मेल खाँदैन।",
+    "country": "This field is not a valid country.",
     "date": "यो मान्य मिति छैन।",
     "date_equals": "यो मिति बराबर :date हुनुपर्दछ।",
     "date_format": "यो ढाँचासँग मेल खाँदैन :format।",

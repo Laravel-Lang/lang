@@ -25,7 +25,7 @@ az
 
 </td><td width="50%">
 
-@hs-qwerty
+@slvler
 
 </td></tr>
 <tr><td width="50%">
@@ -241,7 +241,7 @@ tr
 
 </td><td width="50%">
 
-@hs-qwerty
+@slvler
 
 </td></tr>
 <tr><td width="50%">

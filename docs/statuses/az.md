@@ -4,12 +4,12 @@ editLink: false
 
 # az
 
-##### All missed: 359
+##### All missed: 363
 
 
 ### json
 
-##### Missing: 326
+##### Missing: 330
 
 <table width="100%">
 <tr><th width="50%">
@@ -410,6 +410,15 @@ Colorado
 </td></tr>
 <tr><td width="50%">
 
+Confirm Billing Action
+
+</td><td width="50%">
+
+Confirm Billing Action
+
+</td></tr>
+<tr><td width="50%">
+
 Connecticut
 
 </td><td width="50%">
@@ -1315,6 +1324,15 @@ Newfoundland and Labrador
 </td><td width="50%">
 
 Newfoundland and Labrador
+
+</td></tr>
+<tr><td width="50%">
+
+Next Payment
+
+</td><td width="50%">
+
+Next Payment
 
 </td></tr>
 <tr><td width="50%">
@@ -2701,6 +2719,15 @@ You are currently subscribed to the :planName plan.
 </td><td width="50%">
 
 You are currently subscribed to the :planName plan.
+
+</td></tr>
+<tr><td width="50%">
+
+You are currently within your free trial period. Your trial will expire on :date. Starting a new subscription will end your trial.
+
+</td><td width="50%">
+
+You are currently within your free trial period. Your trial will expire on :date. Starting a new subscription will end your trial.
 
 </td></tr>
 <tr><td width="50%">
@@ -2863,6 +2890,15 @@ Your Email Address
 </td><td width="50%">
 
 Your Email Address
+
+</td></tr>
+<tr><td width="50%">
+
+Your next payment of :amount will be processed on :date.
+
+</td><td width="50%">
+
+Your next payment of :amount will be on :date.
 
 </td></tr>
 <tr><td width="50%">

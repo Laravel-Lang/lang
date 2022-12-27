@@ -4,12 +4,12 @@ editLink: false
 
 # fa
 
-##### All missed: 334
+##### All missed: 345
 
 
 ### json
 
-##### Missing: 297
+##### Missing: 308
 
 <table width="100%">
 <tr><th width="50%">
@@ -428,6 +428,15 @@ Created
 </td></tr>
 <tr><td width="50%">
 
+Customer Balance
+
+</td><td width="50%">
+
+Customer Balance
+
+</td></tr>
+<tr><td width="50%">
+
 Daily Volume
 
 </td><td width="50%">
@@ -1184,6 +1193,24 @@ No customer support request recipient is defined.
 </td></tr>
 <tr><td width="50%">
 
+No payment method on file.
+
+</td><td width="50%">
+
+No payment method on file.
+
+</td></tr>
+<tr><td width="50%">
+
+No payment scheduled.
+
+</td><td width="50%">
+
+No payment scheduled.
+
+</td></tr>
+<tr><td width="50%">
+
 No users matched the given criteria.
 
 </td><td width="50%">
@@ -1324,6 +1351,15 @@ Owner
 </td><td width="50%">
 
 Owner
+
+</td></tr>
+<tr><td width="50%">
+
+Paid
+
+</td><td width="50%">
+
+Paid
 
 </td></tr>
 <tr><td width="50%">
@@ -1517,6 +1553,15 @@ Remove All Abilities
 </td></tr>
 <tr><td width="50%">
 
+Required fields
+
+</td><td width="50%">
+
+Required fields
+
+</td></tr>
+<tr><td width="50%">
+
 Resume
 
 </td><td width="50%">
@@ -1531,6 +1576,15 @@ Resuming
 </td><td width="50%">
 
 Resuming
+
+</td></tr>
+<tr><td width="50%">
+
+Retry Payment
+
+</td><td width="50%">
+
+Retry Payment
 
 </td></tr>
 <tr><td width="50%">
@@ -1666,6 +1720,15 @@ Since you already have an account, you may accept the invitation from your accou
 </td><td width="50%">
 
 Since you already have an account, you may accept the invitation from your account settings screen.
+
+</td></tr>
+<tr><td width="50%">
+
+Since you have a cash balance sufficient to begin a subscription, providing a payment method is not required. You may leave this field empty if you wish to begin a subscription using your cash balance.
+
+</td><td width="50%">
+
+Since you have a cash balance sufficient to begin a subscription, providing a payment method is not required. You may leave this field empty if you wish to begin a subscription using your cash balance.
 
 </td></tr>
 <tr><td width="50%">
@@ -1913,6 +1976,15 @@ This invitation code is invalid.
 </td></tr>
 <tr><td width="50%">
 
+This invoice is no longer open.
+
+</td><td width="50%">
+
+This invoice is no longer open.
+
+</td></tr>
+<tr><td width="50%">
+
 This is the only time the token will ever be displayed, so be sure not to lose it!
 
 </td><td width="50%">
@@ -2012,6 +2084,15 @@ Token Can
 </td></tr>
 <tr><td width="50%">
 
+Top Up Balance
+
+</td><td width="50%">
+
+Top Up Balance
+
+</td></tr>
+<tr><td width="50%">
+
 Total Price Including Tax
 
 </td><td width="50%">
@@ -2071,6 +2152,15 @@ Two-Factor Authentication Reset Code
 </td><td width="50%">
 
 Two-Factor Authentication Reset Code
+
+</td></tr>
+<tr><td width="50%">
+
+Unpaid
+
+</td><td width="50%">
+
+Unpaid
 
 </td></tr>
 <tr><td width="50%">
@@ -2512,6 +2602,15 @@ You have cancelled your subscription to the :planName plan.
 </td><td width="50%">
 
 You have cancelled your subscription to the :planName plan.
+
+</td></tr>
+<tr><td width="50%">
+
+You have some unpaid invoices. After updating your payment method, you may retry the payments via the invoice list below.
+
+</td><td width="50%">
+
+You have some unpaid invoices. After updating your payment method, you may retry the payments via the invoice list below.
 
 </td></tr>
 <tr><td width="50%">

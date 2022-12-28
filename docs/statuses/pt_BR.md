@@ -4,12 +4,12 @@ editLink: false
 
 # pt_BR
 
-##### All missed: 307
+##### All missed: 269
 
 
 ### json
 
-##### Missing: 307
+##### Missing: 269
 
 <table width="100%">
 <tr><th width="50%">
@@ -59,33 +59,6 @@ After logging in via your emergency token, two-factor authentication will be dis
 </td></tr>
 <tr><td width="50%">
 
-Alabama
-
-</td><td width="50%">
-
-Alabama
-
-</td></tr>
-<tr><td width="50%">
-
-Alaska
-
-</td><td width="50%">
-
-Alaska
-
-</td></tr>
-<tr><td width="50%">
-
-Alberta
-
-</td><td width="50%">
-
-Alberta
-
-</td></tr>
-<tr><td width="50%">
-
 All subscription plan prices are excluding applicable VAT.
 
 </td><td width="50%">
@@ -136,15 +109,6 @@ Announcements you create here will be sent to the "Product Announcements" sectio
 </td><td width="50%">
 
 Announcements you create here will be sent to the "Product Announcements" section of the notifications modal window, informing your users about new features and improvements to your application.
-
-</td></tr>
-<tr><td width="50%">
-
-API
-
-</td><td width="50%">
-
-API
 
 </td></tr>
 <tr><td width="50%">
@@ -203,51 +167,6 @@ Are you sure you want to switch to the :planName plan?
 </td></tr>
 <tr><td width="50%">
 
-Arizona
-
-</td><td width="50%">
-
-Arizona
-
-</td></tr>
-<tr><td width="50%">
-
-Arkansas
-
-</td><td width="50%">
-
-Arkansas
-
-</td></tr>
-<tr><td width="50%">
-
-Armed Forces Africa / Canada / Europe / Middle East
-
-</td><td width="50%">
-
-Armed Forces Africa / Canada / Europe / Middle East
-
-</td></tr>
-<tr><td width="50%">
-
-Armed Forces America (Except Canada)
-
-</td><td width="50%">
-
-Armed Forces America (Except Canada)
-
-</td></tr>
-<tr><td width="50%">
-
-Armed Forces Pacific
-
-</td><td width="50%">
-
-Armed Forces Pacific
-
-</td></tr>
-<tr><td width="50%">
-
 Assign All Abilities
 
 </td><td width="50%">
@@ -293,15 +212,6 @@ British Columbia
 </td></tr>
 <tr><td width="50%">
 
-California
-
-</td><td width="50%">
-
-California
-
-</td></tr>
-<tr><td width="50%">
-
 Cancelling
 
 </td><td width="50%">
@@ -325,15 +235,6 @@ Click here to reset your password:
 </td><td width="50%">
 
 Click here to reset your password:
-
-</td></tr>
-<tr><td width="50%">
-
-Colorado
-
-</td><td width="50%">
-
-Colorado
 
 </td></tr>
 <tr><td width="50%">
@@ -626,29 +527,11 @@ Federated States Of Micronesia
 </td></tr>
 <tr><td width="50%">
 
-Florida
-
-</td><td width="50%">
-
-Florida
-
-</td></tr>
-<tr><td width="50%">
-
 For security reasons your new card will be charged a minimal fee upon registration.
 
 </td><td width="50%">
 
 For security reasons your new card will be charged a minimal fee upon registration.
-
-</td></tr>
-<tr><td width="50%">
-
-Forever
-
-</td><td width="50%">
-
-Forever
 
 </td></tr>
 <tr><td width="50%">
@@ -680,15 +563,6 @@ Got It!
 </td></tr>
 <tr><td width="50%">
 
-Hawaii
-
-</td><td width="50%">
-
-Hawaii
-
-</td></tr>
-<tr><td width="50%">
-
 Here is your new API token.
 
 </td><td width="50%">
@@ -698,38 +572,11 @@ Here is your new API token.
 </td></tr>
 <tr><td width="50%">
 
-Hi :name
-
-</td><td width="50%">
-
-Hi :name
-
-</td></tr>
-<tr><td width="50%">
-
-Hi!
-
-</td><td width="50%">
-
-Hi!
-
-</td></tr>
-<tr><td width="50%">
-
 I Accept :linkOpen The Terms Of Service :linkClose
 
 </td><td width="50%">
 
 I Accept :linkOpen The Terms Of Service :linkClose
-
-</td></tr>
-<tr><td width="50%">
-
-Idaho
-
-</td><td width="50%">
-
-Idaho
 
 </td></tr>
 <tr><td width="50%">
@@ -752,38 +599,11 @@ If you lose your two-factor authentication device, you may use this emergency re
 </td></tr>
 <tr><td width="50%">
 
-Illinois
-
-</td><td width="50%">
-
-Illinois
-
-</td></tr>
-<tr><td width="50%">
-
-Impersonation
-
-</td><td width="50%">
-
-Impersonation
-
-</td></tr>
-<tr><td width="50%">
-
 In order to use two-factor authentication, you must install the :authyLink application on your smartphone. Authy is available for iOS and Android.
 
 </td><td width="50%">
 
 In order to use two-factor authentication, you must install the :authyLink application on your smartphone. Authy is available for iOS and Android.
-
-</td></tr>
-<tr><td width="50%">
-
-Indiana
-
-</td><td width="50%">
-
-Indiana
 
 </td></tr>
 <tr><td width="50%">
@@ -820,33 +640,6 @@ Joined
 </td><td width="50%">
 
 Joined
-
-</td></tr>
-<tr><td width="50%">
-
-Kansas
-
-</td><td width="50%">
-
-Kansas
-
-</td></tr>
-<tr><td width="50%">
-
-Kentucky
-
-</td><td width="50%">
-
-Kentucky
-
-</td></tr>
-<tr><td width="50%">
-
-Kiosk
-
-</td><td width="50%">
-
-Kiosk
 
 </td></tr>
 <tr><td width="50%">
@@ -896,47 +689,11 @@ Lost Your Device?
 </td></tr>
 <tr><td width="50%">
 
-Louisiana
-
-</td><td width="50%">
-
-Louisiana
-
-</td></tr>
-<tr><td width="50%">
-
 Mailed Invitations
 
 </td><td width="50%">
 
 Mailed Invitations
-
-</td></tr>
-<tr><td width="50%">
-
-Maine
-
-</td><td width="50%">
-
-Maine
-
-</td></tr>
-<tr><td width="50%">
-
-Manitoba
-
-</td><td width="50%">
-
-Manitoba
-
-</td></tr>
-<tr><td width="50%">
-
-Maryland
-
-</td><td width="50%">
-
-Maryland
 
 </td></tr>
 <tr><td width="50%">
@@ -1085,33 +842,6 @@ Nevada
 </td></tr>
 <tr><td width="50%">
 
-Never
-
-</td><td width="50%">
-
-Never
-
-</td></tr>
-<tr><td width="50%">
-
-New Brunswick
-
-</td><td width="50%">
-
-New Brunswick
-
-</td></tr>
-<tr><td width="50%">
-
-New Hampshire
-
-</td><td width="50%">
-
-New Hampshire
-
-</td></tr>
-<tr><td width="50%">
-
 New Invitation!
 
 </td><td width="50%">
@@ -1121,38 +851,11 @@ New Invitation!
 </td></tr>
 <tr><td width="50%">
 
-New Jersey
-
-</td><td width="50%">
-
-New Jersey
-
-</td></tr>
-<tr><td width="50%">
-
-New Mexico
-
-</td><td width="50%">
-
-New Mexico
-
-</td></tr>
-<tr><td width="50%">
-
 New Users
 
 </td><td width="50%">
 
 New Users
-
-</td></tr>
-<tr><td width="50%">
-
-New York
-
-</td><td width="50%">
-
-New York
 
 </td></tr>
 <tr><td width="50%">
@@ -1225,42 +928,6 @@ None
 </td><td width="50%">
 
 None
-
-</td></tr>
-<tr><td width="50%">
-
-North Carolina
-
-</td><td width="50%">
-
-North Carolina
-
-</td></tr>
-<tr><td width="50%">
-
-North Dakota
-
-</td><td width="50%">
-
-North Dakota
-
-</td></tr>
-<tr><td width="50%">
-
-Northwest Territories
-
-</td><td width="50%">
-
-Northwest Territories
-
-</td></tr>
-<tr><td width="50%">
-
-Nova Scotia
-
-</td><td width="50%">
-
-Nova Scotia
 
 </td></tr>
 <tr><td width="50%">
@@ -1360,15 +1027,6 @@ Pending Invitations
 </td><td width="50%">
 
 Pending Invitations
-
-</td></tr>
-<tr><td width="50%">
-
-Pennsylvania
-
-</td><td width="50%">
-
-Pennsylvania
 
 </td></tr>
 <tr><td width="50%">

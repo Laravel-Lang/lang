@@ -4,12 +4,12 @@ editLink: false
 
 # pt_BR
 
-##### All missed: 269
+##### All missed: 210
 
 
 ### json
 
-##### Missing: 269
+##### Missing: 210
 
 <table width="100%">
 <tr><th width="50%">
@@ -86,47 +86,11 @@ Amount
 </td></tr>
 <tr><td width="50%">
 
-Announcement
-
-</td><td width="50%">
-
-Announcement
-
-</td></tr>
-<tr><td width="50%">
-
-Announcements
-
-</td><td width="50%">
-
-Announcements
-
-</td></tr>
-<tr><td width="50%">
-
 Announcements you create here will be sent to the "Product Announcements" section of the notifications modal window, informing your users about new features and improvements to your application.
 
 </td><td width="50%">
 
 Announcements you create here will be sent to the "Product Announcements" section of the notifications modal window, informing your users about new features and improvements to your application.
-
-</td></tr>
-<tr><td width="50%">
-
-Apply Discount
-
-</td><td width="50%">
-
-Apply Discount
-
-</td></tr>
-<tr><td width="50%">
-
-Applying
-
-</td><td width="50%">
-
-Applying
 
 </td></tr>
 <tr><td width="50%">
@@ -194,29 +158,11 @@ Back To My Account
 </td></tr>
 <tr><td width="50%">
 
-Billing
-
-</td><td width="50%">
-
-Billing
-
-</td></tr>
-<tr><td width="50%">
-
 British Columbia
 
 </td><td width="50%">
 
 British Columbia
-
-</td></tr>
-<tr><td width="50%">
-
-Cancelling
-
-</td><td width="50%">
-
-Cancelling
 
 </td></tr>
 <tr><td width="50%">
@@ -257,65 +203,11 @@ Connecticut
 </td></tr>
 <tr><td width="50%">
 
-Contact Information
-
-</td><td width="50%">
-
-Contact Information
-
-</td></tr>
-<tr><td width="50%">
-
-Copy To Clipboard
-
-</td><td width="50%">
-
-Copy To Clipboard
-
-</td></tr>
-<tr><td width="50%">
-
-Country Code
-
-</td><td width="50%">
-
-Country Code
-
-</td></tr>
-<tr><td width="50%">
-
 Coupon accepted! The discount will be applied to your next invoice.
 
 </td><td width="50%">
 
 Coupon accepted! The discount will be applied to your next invoice.
-
-</td></tr>
-<tr><td width="50%">
-
-Coupon Code
-
-</td><td width="50%">
-
-Coupon Code
-
-</td></tr>
-<tr><td width="50%">
-
-Create Announcement
-
-</td><td width="50%">
-
-Create Announcement
-
-</td></tr>
-<tr><td width="50%">
-
-Created
-
-</td><td width="50%">
-
-Created
 
 </td></tr>
 <tr><td width="50%">
@@ -338,24 +230,6 @@ Daily Volume
 </td></tr>
 <tr><td width="50%">
 
-Date
-
-</td><td width="50%">
-
-Date
-
-</td></tr>
-<tr><td width="50%">
-
-Day Trial
-
-</td><td width="50%">
-
-Day Trial
-
-</td></tr>
-<tr><td width="50%">
-
 Delaware
 
 </td><td width="50%">
@@ -374,33 +248,6 @@ Delete Announcement
 </td></tr>
 <tr><td width="50%">
 
-Delete Token
-
-</td><td width="50%">
-
-Delete Token
-
-</td></tr>
-<tr><td width="50%">
-
-Deleting
-
-</td><td width="50%">
-
-Deleting
-
-</td></tr>
-<tr><td width="50%">
-
-Developer
-
-</td><td width="50%">
-
-Developer
-
-</td></tr>
-<tr><td width="50%">
-
 Disable Two-Factor Authentication
 
 </td><td width="50%">
@@ -410,38 +257,11 @@ Disable Two-Factor Authentication
 </td></tr>
 <tr><td width="50%">
 
-Disabling
-
-</td><td width="50%">
-
-Disabling
-
-</td></tr>
-<tr><td width="50%">
-
 District of Columbia
 
 </td><td width="50%">
 
 District of Columbia
-
-</td></tr>
-<tr><td width="50%">
-
-Download PDF
-
-</td><td width="50%">
-
-Download PDF
-
-</td></tr>
-<tr><td width="50%">
-
-Duration
-
-</td><td width="50%">
-
-Duration
 
 </td></tr>
 <tr><td width="50%">
@@ -460,51 +280,6 @@ E-Mail Address
 </td><td width="50%">
 
 E-Mail Address
-
-</td></tr>
-<tr><td width="50%">
-
-Edit Token
-
-</td><td width="50%">
-
-Edit Token
-
-</td></tr>
-<tr><td width="50%">
-
-Email Us
-
-</td><td width="50%">
-
-Email Us
-
-</td></tr>
-<tr><td width="50%">
-
-Emergency Token
-
-</td><td width="50%">
-
-Emergency Token
-
-</td></tr>
-<tr><td width="50%">
-
-Enabling
-
-</td><td width="50%">
-
-Enabling
-
-</td></tr>
-<tr><td width="50%">
-
-Expiration
-
-</td><td width="50%">
-
-Expiration
 
 </td></tr>
 <tr><td width="50%">
@@ -541,15 +316,6 @@ Free
 </td><td width="50%">
 
 Free
-
-</td></tr>
-<tr><td width="50%">
-
-Go To Login
-
-</td><td width="50%">
-
-Go To Login
 
 </td></tr>
 <tr><td width="50%">
@@ -608,74 +374,11 @@ In order to use two-factor authentication, you must install the :authyLink appli
 </td></tr>
 <tr><td width="50%">
 
-Invoice
-
-</td><td width="50%">
-
-Invoice
-
-</td></tr>
-<tr><td width="50%">
-
-Invoices
-
-</td><td width="50%">
-
-Invoices
-
-</td></tr>
-<tr><td width="50%">
-
 Iowa
 
 </td><td width="50%">
 
 Iowa
-
-</td></tr>
-<tr><td width="50%">
-
-Joined
-
-</td><td width="50%">
-
-Joined
-
-</td></tr>
-<tr><td width="50%">
-
-Last Used
-
-</td><td width="50%">
-
-Last Used
-
-</td></tr>
-<tr><td width="50%">
-
-Loading
-
-</td><td width="50%">
-
-Loading
-
-</td></tr>
-<tr><td width="50%">
-
-Loading Notifications
-
-</td><td width="50%">
-
-Loading Notifications
-
-</td></tr>
-<tr><td width="50%">
-
-Login Via Emergency Token
-
-</td><td width="50%">
-
-Login Via Emergency Token
 
 </td></tr>
 <tr><td width="50%">
@@ -716,74 +419,11 @@ Membership
 </td></tr>
 <tr><td width="50%">
 
-Message
-
-</td><td width="50%">
-
-Message
-
-</td></tr>
-<tr><td width="50%">
-
-Metrics
-
-</td><td width="50%">
-
-Metrics
-
-</td></tr>
-<tr><td width="50%">
-
-Michigan
-
-</td><td width="50%">
-
-Michigan
-
-</td></tr>
-<tr><td width="50%">
-
-Minnesota
-
-</td><td width="50%">
-
-Minnesota
-
-</td></tr>
-<tr><td width="50%">
-
-Mississippi
-
-</td><td width="50%">
-
-Mississippi
-
-</td></tr>
-<tr><td width="50%">
-
-Missouri
-
-</td><td width="50%">
-
-Missouri
-
-</td></tr>
-<tr><td width="50%">
-
 mo
 
 </td><td width="50%">
 
 mo
-
-</td></tr>
-<tr><td width="50%">
-
-Montana
-
-</td><td width="50%">
-
-Montana
 
 </td></tr>
 <tr><td width="50%">
@@ -820,24 +460,6 @@ N/A
 </td><td width="50%">
 
 N/A
-
-</td></tr>
-<tr><td width="50%">
-
-Nebraska
-
-</td><td width="50%">
-
-Nebraska
-
-</td></tr>
-<tr><td width="50%">
-
-Nevada
-
-</td><td width="50%">
-
-Nevada
 
 </td></tr>
 <tr><td width="50%">
@@ -932,38 +554,11 @@ None
 </td></tr>
 <tr><td width="50%">
 
-Nunavut
-
-</td><td width="50%">
-
-Nunavut
-
-</td></tr>
-<tr><td width="50%">
-
 Oh no!
 
 </td><td width="50%">
 
 Oh no!
-
-</td></tr>
-<tr><td width="50%">
-
-Ohio
-
-</td><td width="50%">
-
-Ohio
-
-</td></tr>
-<tr><td width="50%">
-
-Oklahoma
-
-</td><td width="50%">
-
-Oklahoma
 
 </td></tr>
 <tr><td width="50%">
@@ -982,24 +577,6 @@ Once
 </td><td width="50%">
 
 Once
-
-</td></tr>
-<tr><td width="50%">
-
-Ontario
-
-</td><td width="50%">
-
-Ontario
-
-</td></tr>
-<tr><td width="50%">
-
-Oregon
-
-</td><td width="50%">
-
-Oregon
 
 </td></tr>
 <tr><td width="50%">
@@ -1121,15 +698,6 @@ Profile Photo
 </td></tr>
 <tr><td width="50%">
 
-Quebec
-
-</td><td width="50%">
-
-Quebec
-
-</td></tr>
-<tr><td width="50%">
-
 Recent Announcements
 
 </td><td width="50%">
@@ -1243,15 +811,6 @@ Rhode Island
 </td><td width="50%">
 
 Rhode Island
-
-</td></tr>
-<tr><td width="50%">
-
-Saskatchewan
-
-</td><td width="50%">
-
-Saskatchewan
 
 </td></tr>
 <tr><td width="50%">
@@ -1400,24 +959,6 @@ Something went wrong. Please try again or contact customer support.
 </td></tr>
 <tr><td width="50%">
 
-South Carolina
-
-</td><td width="50%">
-
-South Carolina
-
-</td></tr>
-<tr><td width="50%">
-
-South Dakota
-
-</td><td width="50%">
-
-South Dakota
-
-</td></tr>
-<tr><td width="50%">
-
 State
 
 </td><td width="50%">
@@ -1499,29 +1040,11 @@ Tax
 </td></tr>
 <tr><td width="50%">
 
-Tennessee
-
-</td><td width="50%">
-
-Tennessee
-
-</td></tr>
-<tr><td width="50%">
-
 Terms Of Service
 
 </td><td width="50%">
 
 Terms Of Service
-
-</td></tr>
-<tr><td width="50%">
-
-Texas
-
-</td><td width="50%">
-
-Texas
 
 </td></tr>
 <tr><td width="50%">
@@ -1886,15 +1409,6 @@ Users Currently Trialing
 </td></tr>
 <tr><td width="50%">
 
-Utah
-
-</td><td width="50%">
-
-Utah
-
-</td></tr>
-<tr><td width="50%">
-
 VAT ID
 
 </td><td width="50%">
@@ -1936,24 +1450,6 @@ Virgin Islands
 </td><td width="50%">
 
 Virgin Islands
-
-</td></tr>
-<tr><td width="50%">
-
-Virginia
-
-</td><td width="50%">
-
-Virginia
-
-</td></tr>
-<tr><td width="50%">
-
-Washington
-
-</td><td width="50%">
-
-Washington
 
 </td></tr>
 <tr><td width="50%">
@@ -2039,15 +1535,6 @@ Welcome to your new subscription.
 </td></tr>
 <tr><td width="50%">
 
-West Virginia
-
-</td><td width="50%">
-
-West Virginia
-
-</td></tr>
-<tr><td width="50%">
-
 Whoops! This coupon code is invalid.
 
 </td><td width="50%">
@@ -2062,24 +1549,6 @@ Whoops! This invitation code is invalid.
 </td><td width="50%">
 
 Whoops! This invitation code is invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-Wisconsin
-
-</td><td width="50%">
-
-Wisconsin
-
-</td></tr>
-<tr><td width="50%">
-
-Wyoming
-
-</td><td width="50%">
-
-Wyoming
 
 </td></tr>
 <tr><td width="50%">

@@ -93,7 +93,7 @@
     "Are you sure you want to restore this resource?": "Bu kaynağı geri yüklemek istediğinizden emin misiniz?",
     "Are you sure you want to run this action?": "Bu eylemi çalıştırmak istediğinizden emin misiniz?",
     "Are you sure you want to stop impersonating?": "Kimliğe bürünmeyi durdurmak istediğinizden emin misiniz?",
-    "Are you sure you want to switch to the :planName plan?": ":planName planına geçmek istediğinizden emin misiniz?",
+    "Are you sure you want to switch to the :planName plan?": ":PlanName planına geçmek istediğinizden emin misiniz?",
     "Are you sure you would like to delete this API token?": "Bu API jetonunu silmek istediğinizden emin misiniz?",
     "Are you sure you would like to leave this team?": "Bu kişiyi ekipten çıkarmak istediğinizden emin misiniz?",
     "Are you sure you would like to remove this person from the team?": "Bu kişiyi ekipten çıkarmak istediğinizden emin misiniz?",

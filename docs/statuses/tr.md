@@ -4,12 +4,12 @@ editLink: false
 
 # tr
 
-##### All missed: 326
+##### All missed: 308
 
 
 ### json
 
-##### Missing: 293
+##### Missing: 307
 
 <table width="100%">
 <tr><th width="50%">
@@ -338,6 +338,15 @@ Colorado
 </td></tr>
 <tr><td width="50%">
 
+Confirm Billing Action
+
+</td><td width="50%">
+
+Confirm Billing Action
+
+</td></tr>
+<tr><td width="50%">
+
 Connecticut
 
 </td><td width="50%">
@@ -406,6 +415,15 @@ Created
 </td><td width="50%">
 
 Created
+
+</td></tr>
+<tr><td width="50%">
+
+Customer Balance
+
+</td><td width="50%">
+
+Customer Balance
 
 </td></tr>
 <tr><td width="50%">
@@ -1148,11 +1166,38 @@ Newfoundland and Labrador
 </td></tr>
 <tr><td width="50%">
 
+Next Payment
+
+</td><td width="50%">
+
+Next Payment
+
+</td></tr>
+<tr><td width="50%">
+
 No customer support request recipient is defined.
 
 </td><td width="50%">
 
 No customer support request recipient is defined.
+
+</td></tr>
+<tr><td width="50%">
+
+No payment method on file.
+
+</td><td width="50%">
+
+No payment method on file.
+
+</td></tr>
+<tr><td width="50%">
+
+No payment scheduled.
+
+</td><td width="50%">
+
+No payment scheduled.
 
 </td></tr>
 <tr><td width="50%">
@@ -1297,6 +1342,15 @@ Owner
 </td><td width="50%">
 
 Owner
+
+</td></tr>
+<tr><td width="50%">
+
+Paid
+
+</td><td width="50%">
+
+Paid
 
 </td></tr>
 <tr><td width="50%">
@@ -1490,6 +1544,15 @@ Remove All Abilities
 </td></tr>
 <tr><td width="50%">
 
+Required fields
+
+</td><td width="50%">
+
+Required fields
+
+</td></tr>
+<tr><td width="50%">
+
 Resume
 
 </td><td width="50%">
@@ -1504,6 +1567,15 @@ Resuming
 </td><td width="50%">
 
 Resuming
+
+</td></tr>
+<tr><td width="50%">
+
+Retry Payment
+
+</td><td width="50%">
+
+Retry Payment
 
 </td></tr>
 <tr><td width="50%">
@@ -1639,6 +1711,15 @@ Since you already have an account, you may accept the invitation from your accou
 </td><td width="50%">
 
 Since you already have an account, you may accept the invitation from your account settings screen.
+
+</td></tr>
+<tr><td width="50%">
+
+Since you have a cash balance sufficient to begin a subscription, providing a payment method is not required. You may leave this field empty if you wish to begin a subscription using your cash balance.
+
+</td><td width="50%">
+
+Since you have a cash balance sufficient to begin a subscription, providing a payment method is not required. You may leave this field empty if you wish to begin a subscription using your cash balance.
 
 </td></tr>
 <tr><td width="50%">
@@ -1886,6 +1967,15 @@ This invitation code is invalid.
 </td></tr>
 <tr><td width="50%">
 
+This invoice is no longer open.
+
+</td><td width="50%">
+
+This invoice is no longer open.
+
+</td></tr>
+<tr><td width="50%">
+
 This is the only time the token will ever be displayed, so be sure not to lose it!
 
 </td><td width="50%">
@@ -1985,6 +2075,15 @@ Token Can
 </td></tr>
 <tr><td width="50%">
 
+Top Up Balance
+
+</td><td width="50%">
+
+Top Up Balance
+
+</td></tr>
+<tr><td width="50%">
+
 Total Price Including Tax
 
 </td><td width="50%">
@@ -2030,15 +2129,6 @@ Trialing
 </td></tr>
 <tr><td width="50%">
 
-Turkey
-
-</td><td width="50%">
-
-Türkiye
-
-</td></tr>
-<tr><td width="50%">
-
 Two-Factor Authentication
 
 </td><td width="50%">
@@ -2053,6 +2143,15 @@ Two-Factor Authentication Reset Code
 </td><td width="50%">
 
 Two-Factor Authentication Reset Code
+
+</td></tr>
+<tr><td width="50%">
+
+Unpaid
+
+</td><td width="50%">
+
+Unpaid
 
 </td></tr>
 <tr><td width="50%">
@@ -2408,6 +2507,15 @@ You are currently subscribed to the :planName plan.
 </td></tr>
 <tr><td width="50%">
 
+You are currently within your free trial period. Your trial will expire on :date. Starting a new subscription will end your trial.
+
+</td><td width="50%">
+
+You are currently within your free trial period. Your trial will expire on :date. Starting a new subscription will end your trial.
+
+</td></tr>
+<tr><td width="50%">
+
 You are not eligible for this plan.
 
 </td><td width="50%">
@@ -2485,6 +2593,15 @@ You have cancelled your subscription to the :planName plan.
 </td><td width="50%">
 
 You have cancelled your subscription to the :planName plan.
+
+</td></tr>
+<tr><td width="50%">
+
+You have some unpaid invoices. After updating your payment method, you may retry the payments via the invoice list below.
+
+</td><td width="50%">
+
+You have some unpaid invoices. After updating your payment method, you may retry the payments via the invoice list below.
 
 </td></tr>
 <tr><td width="50%">
@@ -2570,6 +2687,15 @@ Your Email Address
 </td></tr>
 <tr><td width="50%">
 
+Your next payment of :amount will be processed on :date.
+
+</td><td width="50%">
+
+Your next payment of :amount will be on :date.
+
+</td></tr>
+<tr><td width="50%">
+
 Your password has been updated!
 
 </td><td width="50%">
@@ -2656,44 +2782,6 @@ ZIP / Postal Code
 </td><td width="50%">
 
 ZIP / Postal Code
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php-inline
-
-##### Missing: 2
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-country
-
-</td><td width="50%">
-
-This field is not a valid country.
-
-</td></tr>
-<tr><td width="50%">
-
-decimal
-
-</td><td width="50%">
-
-This field must have :decimal decimal places.
 
 </td></tr>
 </table>
@@ -2704,7 +2792,7 @@ This field must have :decimal decimal places.
 
 ### php
 
-##### Missing: 31
+##### Missing: 1
 
 <table width="100%">
 <tr><th width="50%">
@@ -2718,281 +2806,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-are_you_sure_you_want_to_delete_team
-
-</td><td width="50%">
-
-Are you sure you want to delete this team?
-
-</td></tr>
-<tr><td width="50%">
-
-are_you_sure_you_want_to_leave_team
-
-</td><td width="50%">
-
-Are you sure you want to leave this team?
-
-</td></tr>
-<tr><td width="50%">
-
-attributes.team
-
-</td><td width="50%">
-
-team
-
-</td></tr>
-<tr><td width="50%">
-
-country
-
-</td><td width="50%">
-
-The :attribute field is not a valid country.
-
-</td></tr>
-<tr><td width="50%">
-
-create_team
-
-</td><td width="50%">
-
-Create Team
-
-</td></tr>
-<tr><td width="50%">
-
-decimal
-
-</td><td width="50%">
-
-The :attribute must have :decimal decimal places.
-
-</td></tr>
-<tr><td width="50%">
-
-if_you_delete_team_all_data_will_be_deleted
-
-</td><td width="50%">
-
-If you choose to delete the team all data will be permanently deleted.
-
-</td></tr>
-<tr><td width="50%">
-
-looks_like_you_are_not_part_of_team
-
-</td><td width="50%">
-
-It looks like you're not part of any team!
-
-</td></tr>
-<tr><td width="50%">
-
-not_eligible_based_on_current_members_teams
-
-</td><td width="50%">
-
-You are not eligible for this plan based on your current number of teams / team members.
-
-</td></tr>
-<tr><td width="50%">
-
-plan_allows_no_more_teams
-
-</td><td width="50%">
-
-Your current plan doesn't allow you to create more teams
-
-</td></tr>
-<tr><td width="50%">
-
-please_upgrade_to_create_more_teams
-
-</td><td width="50%">
-
-Please upgrade your subscription to create more teams.
-
-</td></tr>
-<tr><td width="50%">
-
-remove_team_member
-
-</td><td width="50%">
-
-Remove Team Member
-
-</td></tr>
-<tr><td width="50%">
-
-slug_input_explanation
-
-</td><td width="50%">
-
-This slug is used to identify your team in URLs.
-
-</td></tr>
-<tr><td width="50%">
-
-state
-
-</td><td width="50%">
-
-This state is not valid for the specified country.
-
-</td></tr>
-<tr><td width="50%">
-
-team_billing
-
-</td><td width="50%">
-
-Team Billing
-
-</td></tr>
-<tr><td width="50%">
-
-team_members
-
-</td><td width="50%">
-
-Team Members
-
-</td></tr>
-<tr><td width="50%">
-
-team_settings
-
-</td><td width="50%">
-
-Team Settings
-
-</td></tr>
-<tr><td width="50%">
-
-team_slug
-
-</td><td width="50%">
-
-Team Slug
-
-</td></tr>
-<tr><td width="50%">
-
-team_trial
-
-</td><td width="50%">
-
-Team Trial
-
-</td></tr>
-<tr><td width="50%">
-
-team_trial_will_expire_on
-
-</td><td width="50%">
-
-The team's trial period will expire on :date.
-
-</td></tr>
-<tr><td width="50%">
-
-teams_currently_trialing
-
-</td><td width="50%">
-
-Teams Currently Trialing
-
-</td></tr>
-<tr><td width="50%">
-
 update_team_name
 
 </td><td width="50%">
 
 Update Team Name
-
-</td></tr>
-<tr><td width="50%">
-
-user_already_invited_to_team
-
-</td><td width="50%">
-
-That user is already invited to the team.
-
-</td></tr>
-<tr><td width="50%">
-
-user_already_on_team
-
-</td><td width="50%">
-
-That user is already on the team.
-
-</td></tr>
-<tr><td width="50%">
-
-user_doesnt_belong_to_team
-
-</td><td width="50%">
-
-The user does not belong to the given team.
-
-</td></tr>
-<tr><td width="50%">
-
-vat_id
-
-</td><td width="50%">
-
-This VAT identification number is invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-view_all_teams
-
-</td><td width="50%">
-
-View All Teams
-
-</td></tr>
-<tr><td width="50%">
-
-we_found_invitation_to_team
-
-</td><td width="50%">
-
-We found your invitation to the :teamName team!
-
-</td></tr>
-<tr><td width="50%">
-
-wheres_your_team
-
-</td><td width="50%">
-
-Where's Your Team?
-
-</td></tr>
-<tr><td width="50%">
-
-you_have_been_invited_to_join_team
-
-</td><td width="50%">
-
-You have been invited to join the :teamName team!
-
-</td></tr>
-<tr><td width="50%">
-
-you_have_x_teams_remaining
-
-</td><td width="50%">
-
-You currently have :teamCount teams remaining.
 
 </td></tr>
 </table>

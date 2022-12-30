@@ -4,12 +4,12 @@ editLink: false
 
 # pt_BR
 
-##### All missed: 292
+##### All missed: 210
 
 
 ### json
 
-##### Missing: 292
+##### Missing: 210
 
 <table width="100%">
 <tr><th width="50%">
@@ -59,33 +59,6 @@ After logging in via your emergency token, two-factor authentication will be dis
 </td></tr>
 <tr><td width="50%">
 
-Alabama
-
-</td><td width="50%">
-
-Alabama
-
-</td></tr>
-<tr><td width="50%">
-
-Alaska
-
-</td><td width="50%">
-
-Alaska
-
-</td></tr>
-<tr><td width="50%">
-
-Alberta
-
-</td><td width="50%">
-
-Alberta
-
-</td></tr>
-<tr><td width="50%">
-
 All subscription plan prices are excluding applicable VAT.
 
 </td><td width="50%">
@@ -113,56 +86,11 @@ Amount
 </td></tr>
 <tr><td width="50%">
 
-Announcement
-
-</td><td width="50%">
-
-Announcement
-
-</td></tr>
-<tr><td width="50%">
-
-Announcements
-
-</td><td width="50%">
-
-Announcements
-
-</td></tr>
-<tr><td width="50%">
-
 Announcements you create here will be sent to the "Product Announcements" section of the notifications modal window, informing your users about new features and improvements to your application.
 
 </td><td width="50%">
 
 Announcements you create here will be sent to the "Product Announcements" section of the notifications modal window, informing your users about new features and improvements to your application.
-
-</td></tr>
-<tr><td width="50%">
-
-API
-
-</td><td width="50%">
-
-API
-
-</td></tr>
-<tr><td width="50%">
-
-Apply Discount
-
-</td><td width="50%">
-
-Apply Discount
-
-</td></tr>
-<tr><td width="50%">
-
-Applying
-
-</td><td width="50%">
-
-Applying
 
 </td></tr>
 <tr><td width="50%">
@@ -203,51 +131,6 @@ Are you sure you want to switch to the :planName plan?
 </td></tr>
 <tr><td width="50%">
 
-Arizona
-
-</td><td width="50%">
-
-Arizona
-
-</td></tr>
-<tr><td width="50%">
-
-Arkansas
-
-</td><td width="50%">
-
-Arkansas
-
-</td></tr>
-<tr><td width="50%">
-
-Armed Forces Africa / Canada / Europe / Middle East
-
-</td><td width="50%">
-
-Armed Forces Africa / Canada / Europe / Middle East
-
-</td></tr>
-<tr><td width="50%">
-
-Armed Forces America (Except Canada)
-
-</td><td width="50%">
-
-Armed Forces America (Except Canada)
-
-</td></tr>
-<tr><td width="50%">
-
-Armed Forces Pacific
-
-</td><td width="50%">
-
-Armed Forces Pacific
-
-</td></tr>
-<tr><td width="50%">
-
 Assign All Abilities
 
 </td><td width="50%">
@@ -275,38 +158,11 @@ Back To My Account
 </td></tr>
 <tr><td width="50%">
 
-Billing
-
-</td><td width="50%">
-
-Billing
-
-</td></tr>
-<tr><td width="50%">
-
 British Columbia
 
 </td><td width="50%">
 
 British Columbia
-
-</td></tr>
-<tr><td width="50%">
-
-California
-
-</td><td width="50%">
-
-California
-
-</td></tr>
-<tr><td width="50%">
-
-Cancelling
-
-</td><td width="50%">
-
-Cancelling
 
 </td></tr>
 <tr><td width="50%">
@@ -329,11 +185,11 @@ Click here to reset your password:
 </td></tr>
 <tr><td width="50%">
 
-Colorado
+Confirm Billing Action
 
 </td><td width="50%">
 
-Colorado
+Confirm Billing Action
 
 </td></tr>
 <tr><td width="50%">
@@ -347,33 +203,6 @@ Connecticut
 </td></tr>
 <tr><td width="50%">
 
-Contact Information
-
-</td><td width="50%">
-
-Contact Information
-
-</td></tr>
-<tr><td width="50%">
-
-Copy To Clipboard
-
-</td><td width="50%">
-
-Copy To Clipboard
-
-</td></tr>
-<tr><td width="50%">
-
-Country Code
-
-</td><td width="50%">
-
-Country Code
-
-</td></tr>
-<tr><td width="50%">
-
 Coupon accepted! The discount will be applied to your next invoice.
 
 </td><td width="50%">
@@ -383,29 +212,11 @@ Coupon accepted! The discount will be applied to your next invoice.
 </td></tr>
 <tr><td width="50%">
 
-Coupon Code
+Customer Balance
 
 </td><td width="50%">
 
-Coupon Code
-
-</td></tr>
-<tr><td width="50%">
-
-Create Announcement
-
-</td><td width="50%">
-
-Create Announcement
-
-</td></tr>
-<tr><td width="50%">
-
-Created
-
-</td><td width="50%">
-
-Created
+Customer Balance
 
 </td></tr>
 <tr><td width="50%">
@@ -415,24 +226,6 @@ Daily Volume
 </td><td width="50%">
 
 Daily Volume
-
-</td></tr>
-<tr><td width="50%">
-
-Date
-
-</td><td width="50%">
-
-Date
-
-</td></tr>
-<tr><td width="50%">
-
-Day Trial
-
-</td><td width="50%">
-
-Day Trial
 
 </td></tr>
 <tr><td width="50%">
@@ -455,33 +248,6 @@ Delete Announcement
 </td></tr>
 <tr><td width="50%">
 
-Delete Token
-
-</td><td width="50%">
-
-Delete Token
-
-</td></tr>
-<tr><td width="50%">
-
-Deleting
-
-</td><td width="50%">
-
-Deleting
-
-</td></tr>
-<tr><td width="50%">
-
-Developer
-
-</td><td width="50%">
-
-Developer
-
-</td></tr>
-<tr><td width="50%">
-
 Disable Two-Factor Authentication
 
 </td><td width="50%">
@@ -491,38 +257,11 @@ Disable Two-Factor Authentication
 </td></tr>
 <tr><td width="50%">
 
-Disabling
-
-</td><td width="50%">
-
-Disabling
-
-</td></tr>
-<tr><td width="50%">
-
 District of Columbia
 
 </td><td width="50%">
 
 District of Columbia
-
-</td></tr>
-<tr><td width="50%">
-
-Download PDF
-
-</td><td width="50%">
-
-Download PDF
-
-</td></tr>
-<tr><td width="50%">
-
-Duration
-
-</td><td width="50%">
-
-Duration
 
 </td></tr>
 <tr><td width="50%">
@@ -545,51 +284,6 @@ E-Mail Address
 </td></tr>
 <tr><td width="50%">
 
-Edit Token
-
-</td><td width="50%">
-
-Edit Token
-
-</td></tr>
-<tr><td width="50%">
-
-Email Us
-
-</td><td width="50%">
-
-Email Us
-
-</td></tr>
-<tr><td width="50%">
-
-Emergency Token
-
-</td><td width="50%">
-
-Emergency Token
-
-</td></tr>
-<tr><td width="50%">
-
-Enabling
-
-</td><td width="50%">
-
-Enabling
-
-</td></tr>
-<tr><td width="50%">
-
-Expiration
-
-</td><td width="50%">
-
-Expiration
-
-</td></tr>
-<tr><td width="50%">
-
 Features
 
 </td><td width="50%">
@@ -608,29 +302,11 @@ Federated States Of Micronesia
 </td></tr>
 <tr><td width="50%">
 
-Florida
-
-</td><td width="50%">
-
-Florida
-
-</td></tr>
-<tr><td width="50%">
-
 For security reasons your new card will be charged a minimal fee upon registration.
 
 </td><td width="50%">
 
 For security reasons your new card will be charged a minimal fee upon registration.
-
-</td></tr>
-<tr><td width="50%">
-
-Forever
-
-</td><td width="50%">
-
-Forever
 
 </td></tr>
 <tr><td width="50%">
@@ -644,29 +320,11 @@ Free
 </td></tr>
 <tr><td width="50%">
 
-Go To Login
-
-</td><td width="50%">
-
-Go To Login
-
-</td></tr>
-<tr><td width="50%">
-
 Got It!
 
 </td><td width="50%">
 
 Got It!
-
-</td></tr>
-<tr><td width="50%">
-
-Hawaii
-
-</td><td width="50%">
-
-Hawaii
 
 </td></tr>
 <tr><td width="50%">
@@ -680,38 +338,11 @@ Here is your new API token.
 </td></tr>
 <tr><td width="50%">
 
-Hi :name
-
-</td><td width="50%">
-
-Hi :name
-
-</td></tr>
-<tr><td width="50%">
-
-Hi!
-
-</td><td width="50%">
-
-Hi!
-
-</td></tr>
-<tr><td width="50%">
-
 I Accept :linkOpen The Terms Of Service :linkClose
 
 </td><td width="50%">
 
 I Accept :linkOpen The Terms Of Service :linkClose
-
-</td></tr>
-<tr><td width="50%">
-
-Idaho
-
-</td><td width="50%">
-
-Idaho
 
 </td></tr>
 <tr><td width="50%">
@@ -734,56 +365,11 @@ If you lose your two-factor authentication device, you may use this emergency re
 </td></tr>
 <tr><td width="50%">
 
-Illinois
-
-</td><td width="50%">
-
-Illinois
-
-</td></tr>
-<tr><td width="50%">
-
-Impersonation
-
-</td><td width="50%">
-
-Impersonation
-
-</td></tr>
-<tr><td width="50%">
-
 In order to use two-factor authentication, you must install the :authyLink application on your smartphone. Authy is available for iOS and Android.
 
 </td><td width="50%">
 
 In order to use two-factor authentication, you must install the :authyLink application on your smartphone. Authy is available for iOS and Android.
-
-</td></tr>
-<tr><td width="50%">
-
-Indiana
-
-</td><td width="50%">
-
-Indiana
-
-</td></tr>
-<tr><td width="50%">
-
-Invoice
-
-</td><td width="50%">
-
-Invoice
-
-</td></tr>
-<tr><td width="50%">
-
-Invoices
-
-</td><td width="50%">
-
-Invoices
 
 </td></tr>
 <tr><td width="50%">
@@ -797,78 +383,6 @@ Iowa
 </td></tr>
 <tr><td width="50%">
 
-Joined
-
-</td><td width="50%">
-
-Joined
-
-</td></tr>
-<tr><td width="50%">
-
-Kansas
-
-</td><td width="50%">
-
-Kansas
-
-</td></tr>
-<tr><td width="50%">
-
-Kentucky
-
-</td><td width="50%">
-
-Kentucky
-
-</td></tr>
-<tr><td width="50%">
-
-Kiosk
-
-</td><td width="50%">
-
-Kiosk
-
-</td></tr>
-<tr><td width="50%">
-
-Last Used
-
-</td><td width="50%">
-
-Last Used
-
-</td></tr>
-<tr><td width="50%">
-
-Loading
-
-</td><td width="50%">
-
-Loading
-
-</td></tr>
-<tr><td width="50%">
-
-Loading Notifications
-
-</td><td width="50%">
-
-Loading Notifications
-
-</td></tr>
-<tr><td width="50%">
-
-Login Via Emergency Token
-
-</td><td width="50%">
-
-Login Via Emergency Token
-
-</td></tr>
-<tr><td width="50%">
-
 Lost Your Device?
 
 </td><td width="50%">
@@ -878,47 +392,11 @@ Lost Your Device?
 </td></tr>
 <tr><td width="50%">
 
-Louisiana
-
-</td><td width="50%">
-
-Louisiana
-
-</td></tr>
-<tr><td width="50%">
-
 Mailed Invitations
 
 </td><td width="50%">
 
 Mailed Invitations
-
-</td></tr>
-<tr><td width="50%">
-
-Maine
-
-</td><td width="50%">
-
-Maine
-
-</td></tr>
-<tr><td width="50%">
-
-Manitoba
-
-</td><td width="50%">
-
-Manitoba
-
-</td></tr>
-<tr><td width="50%">
-
-Maryland
-
-</td><td width="50%">
-
-Maryland
 
 </td></tr>
 <tr><td width="50%">
@@ -941,74 +419,11 @@ Membership
 </td></tr>
 <tr><td width="50%">
 
-Message
-
-</td><td width="50%">
-
-Message
-
-</td></tr>
-<tr><td width="50%">
-
-Metrics
-
-</td><td width="50%">
-
-Metrics
-
-</td></tr>
-<tr><td width="50%">
-
-Michigan
-
-</td><td width="50%">
-
-Michigan
-
-</td></tr>
-<tr><td width="50%">
-
-Minnesota
-
-</td><td width="50%">
-
-Minnesota
-
-</td></tr>
-<tr><td width="50%">
-
-Mississippi
-
-</td><td width="50%">
-
-Mississippi
-
-</td></tr>
-<tr><td width="50%">
-
-Missouri
-
-</td><td width="50%">
-
-Missouri
-
-</td></tr>
-<tr><td width="50%">
-
 mo
 
 </td><td width="50%">
 
 mo
-
-</td></tr>
-<tr><td width="50%">
-
-Montana
-
-</td><td width="50%">
-
-Montana
 
 </td></tr>
 <tr><td width="50%">
@@ -1049,74 +464,11 @@ N/A
 </td></tr>
 <tr><td width="50%">
 
-Nebraska
-
-</td><td width="50%">
-
-Nebraska
-
-</td></tr>
-<tr><td width="50%">
-
-Nevada
-
-</td><td width="50%">
-
-Nevada
-
-</td></tr>
-<tr><td width="50%">
-
-Never
-
-</td><td width="50%">
-
-Never
-
-</td></tr>
-<tr><td width="50%">
-
-New Brunswick
-
-</td><td width="50%">
-
-New Brunswick
-
-</td></tr>
-<tr><td width="50%">
-
-New Hampshire
-
-</td><td width="50%">
-
-New Hampshire
-
-</td></tr>
-<tr><td width="50%">
-
 New Invitation!
 
 </td><td width="50%">
 
 New Invitation!
-
-</td></tr>
-<tr><td width="50%">
-
-New Jersey
-
-</td><td width="50%">
-
-New Jersey
-
-</td></tr>
-<tr><td width="50%">
-
-New Mexico
-
-</td><td width="50%">
-
-New Mexico
 
 </td></tr>
 <tr><td width="50%">
@@ -1130,15 +482,6 @@ New Users
 </td></tr>
 <tr><td width="50%">
 
-New York
-
-</td><td width="50%">
-
-New York
-
-</td></tr>
-<tr><td width="50%">
-
 Newfoundland and Labrador
 
 </td><td width="50%">
@@ -1148,11 +491,38 @@ Newfoundland and Labrador
 </td></tr>
 <tr><td width="50%">
 
+Next Payment
+
+</td><td width="50%">
+
+Next Payment
+
+</td></tr>
+<tr><td width="50%">
+
 No customer support request recipient is defined.
 
 </td><td width="50%">
 
 No customer support request recipient is defined.
+
+</td></tr>
+<tr><td width="50%">
+
+No payment method on file.
+
+</td><td width="50%">
+
+No payment method on file.
+
+</td></tr>
+<tr><td width="50%">
+
+No payment scheduled.
+
+</td><td width="50%">
+
+No payment scheduled.
 
 </td></tr>
 <tr><td width="50%">
@@ -1184,74 +554,11 @@ None
 </td></tr>
 <tr><td width="50%">
 
-North Carolina
-
-</td><td width="50%">
-
-North Carolina
-
-</td></tr>
-<tr><td width="50%">
-
-North Dakota
-
-</td><td width="50%">
-
-North Dakota
-
-</td></tr>
-<tr><td width="50%">
-
-Northwest Territories
-
-</td><td width="50%">
-
-Northwest Territories
-
-</td></tr>
-<tr><td width="50%">
-
-Nova Scotia
-
-</td><td width="50%">
-
-Nova Scotia
-
-</td></tr>
-<tr><td width="50%">
-
-Nunavut
-
-</td><td width="50%">
-
-Nunavut
-
-</td></tr>
-<tr><td width="50%">
-
 Oh no!
 
 </td><td width="50%">
 
 Oh no!
-
-</td></tr>
-<tr><td width="50%">
-
-Ohio
-
-</td><td width="50%">
-
-Ohio
-
-</td></tr>
-<tr><td width="50%">
-
-Oklahoma
-
-</td><td width="50%">
-
-Oklahoma
 
 </td></tr>
 <tr><td width="50%">
@@ -1274,24 +581,6 @@ Once
 </td></tr>
 <tr><td width="50%">
 
-Ontario
-
-</td><td width="50%">
-
-Ontario
-
-</td></tr>
-<tr><td width="50%">
-
-Oregon
-
-</td><td width="50%">
-
-Oregon
-
-</td></tr>
-<tr><td width="50%">
-
 Owner
 
 </td><td width="50%">
@@ -1301,20 +590,20 @@ Owner
 </td></tr>
 <tr><td width="50%">
 
-Pending Invitations
+Paid
 
 </td><td width="50%">
 
-Pending Invitations
+Paid
 
 </td></tr>
 <tr><td width="50%">
 
-Pennsylvania
+Pending Invitations
 
 </td><td width="50%">
 
-Pennsylvania
+Pending Invitations
 
 </td></tr>
 <tr><td width="50%">
@@ -1409,15 +698,6 @@ Profile Photo
 </td></tr>
 <tr><td width="50%">
 
-Quebec
-
-</td><td width="50%">
-
-Quebec
-
-</td></tr>
-<tr><td width="50%">
-
 Recent Announcements
 
 </td><td width="50%">
@@ -1490,6 +770,15 @@ Remove All Abilities
 </td></tr>
 <tr><td width="50%">
 
+Required fields
+
+</td><td width="50%">
+
+Required fields
+
+</td></tr>
+<tr><td width="50%">
+
 Resume
 
 </td><td width="50%">
@@ -1508,20 +797,20 @@ Resuming
 </td></tr>
 <tr><td width="50%">
 
-Rhode Island
+Retry Payment
 
 </td><td width="50%">
 
-Rhode Island
+Retry Payment
 
 </td></tr>
 <tr><td width="50%">
 
-Saskatchewan
+Rhode Island
 
 </td><td width="50%">
 
-Saskatchewan
+Rhode Island
 
 </td></tr>
 <tr><td width="50%">
@@ -1643,6 +932,15 @@ Since you already have an account, you may accept the invitation from your accou
 </td></tr>
 <tr><td width="50%">
 
+Since you have a cash balance sufficient to begin a subscription, providing a payment method is not required. You may leave this field empty if you wish to begin a subscription using your cash balance.
+
+</td><td width="50%">
+
+Since you have a cash balance sufficient to begin a subscription, providing a payment method is not required. You may leave this field empty if you wish to begin a subscription using your cash balance.
+
+</td></tr>
+<tr><td width="50%">
+
 Something went wrong!
 
 </td><td width="50%">
@@ -1657,24 +955,6 @@ Something went wrong. Please try again or contact customer support.
 </td><td width="50%">
 
 Something went wrong. Please try again or contact customer support.
-
-</td></tr>
-<tr><td width="50%">
-
-South Carolina
-
-</td><td width="50%">
-
-South Carolina
-
-</td></tr>
-<tr><td width="50%">
-
-South Dakota
-
-</td><td width="50%">
-
-South Dakota
 
 </td></tr>
 <tr><td width="50%">
@@ -1760,29 +1040,11 @@ Tax
 </td></tr>
 <tr><td width="50%">
 
-Tennessee
-
-</td><td width="50%">
-
-Tennessee
-
-</td></tr>
-<tr><td width="50%">
-
 Terms Of Service
 
 </td><td width="50%">
 
 Terms Of Service
-
-</td></tr>
-<tr><td width="50%">
-
-Texas
-
-</td><td width="50%">
-
-Texas
 
 </td></tr>
 <tr><td width="50%">
@@ -1886,6 +1148,15 @@ This invitation code is invalid.
 </td></tr>
 <tr><td width="50%">
 
+This invoice is no longer open.
+
+</td><td width="50%">
+
+This invoice is no longer open.
+
+</td></tr>
+<tr><td width="50%">
+
 This is the only time the token will ever be displayed, so be sure not to lose it!
 
 </td><td width="50%">
@@ -1985,6 +1256,15 @@ Token Can
 </td></tr>
 <tr><td width="50%">
 
+Top Up Balance
+
+</td><td width="50%">
+
+Top Up Balance
+
+</td></tr>
+<tr><td width="50%">
+
 Total Price Including Tax
 
 </td><td width="50%">
@@ -2044,6 +1324,15 @@ Two-Factor Authentication Reset Code
 </td><td width="50%">
 
 Two-Factor Authentication Reset Code
+
+</td></tr>
+<tr><td width="50%">
+
+Unpaid
+
+</td><td width="50%">
+
+Unpaid
 
 </td></tr>
 <tr><td width="50%">
@@ -2120,15 +1409,6 @@ Users Currently Trialing
 </td></tr>
 <tr><td width="50%">
 
-Utah
-
-</td><td width="50%">
-
-Utah
-
-</td></tr>
-<tr><td width="50%">
-
 VAT ID
 
 </td><td width="50%">
@@ -2170,24 +1450,6 @@ Virgin Islands
 </td><td width="50%">
 
 Virgin Islands
-
-</td></tr>
-<tr><td width="50%">
-
-Virginia
-
-</td><td width="50%">
-
-Virginia
-
-</td></tr>
-<tr><td width="50%">
-
-Washington
-
-</td><td width="50%">
-
-Washington
 
 </td></tr>
 <tr><td width="50%">
@@ -2273,15 +1535,6 @@ Welcome to your new subscription.
 </td></tr>
 <tr><td width="50%">
 
-West Virginia
-
-</td><td width="50%">
-
-West Virginia
-
-</td></tr>
-<tr><td width="50%">
-
 Whoops! This coupon code is invalid.
 
 </td><td width="50%">
@@ -2296,24 +1549,6 @@ Whoops! This invitation code is invalid.
 </td><td width="50%">
 
 Whoops! This invitation code is invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-Wisconsin
-
-</td><td width="50%">
-
-Wisconsin
-
-</td></tr>
-<tr><td width="50%">
-
-Wyoming
-
-</td><td width="50%">
-
-Wyoming
 
 </td></tr>
 <tr><td width="50%">
@@ -2399,6 +1634,15 @@ You are currently subscribed to the :planName plan.
 </td></tr>
 <tr><td width="50%">
 
+You are currently within your free trial period. Your trial will expire on :date. Starting a new subscription will end your trial.
+
+</td><td width="50%">
+
+You are currently within your free trial period. Your trial will expire on :date. Starting a new subscription will end your trial.
+
+</td></tr>
+<tr><td width="50%">
+
 You are not eligible for this plan.
 
 </td><td width="50%">
@@ -2476,6 +1720,15 @@ You have cancelled your subscription to the :planName plan.
 </td><td width="50%">
 
 You have cancelled your subscription to the :planName plan.
+
+</td></tr>
+<tr><td width="50%">
+
+You have some unpaid invoices. After updating your payment method, you may retry the payments via the invoice list below.
+
+</td><td width="50%">
+
+You have some unpaid invoices. After updating your payment method, you may retry the payments via the invoice list below.
 
 </td></tr>
 <tr><td width="50%">
@@ -2557,6 +1810,15 @@ Your Email Address
 </td><td width="50%">
 
 Your Email Address
+
+</td></tr>
+<tr><td width="50%">
+
+Your next payment of :amount will be processed on :date.
+
+</td><td width="50%">
+
+Your next payment of :amount will be on :date.
 
 </td></tr>
 <tr><td width="50%">

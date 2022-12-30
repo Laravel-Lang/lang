@@ -4,12 +4,12 @@ editLink: false
 
 # tr
 
-##### All missed: 308
+##### All missed: 256
 
 
 ### json
 
-##### Missing: 307
+##### Missing: 255
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,33 +23,6 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-Action Button Text
-
-</td><td width="50%">
-
-Action Button Text
-
-</td></tr>
-<tr><td width="50%">
-
-Action Button URL
-
-</td><td width="50%">
-
-Action Button URL
-
-</td></tr>
-<tr><td width="50%">
-
-Add Discount
-
-</td><td width="50%">
-
-Add Discount
-
-</td></tr>
-<tr><td width="50%">
-
 After logging in via your emergency token, two-factor authentication will be disabled for your account. If you would like to maintain two-factor authentication security, you should re-enable it after logging in.
 
 </td><td width="50%">
@@ -86,119 +59,11 @@ Alberta
 </td></tr>
 <tr><td width="50%">
 
-All subscription plan prices are excluding applicable VAT.
-
-</td><td width="50%">
-
-All subscription plan prices are excluding applicable VAT.
-
-</td></tr>
-<tr><td width="50%">
-
-All subscription plan prices include applicable VAT.
-
-</td><td width="50%">
-
-All subscription plan prices include applicable VAT.
-
-</td></tr>
-<tr><td width="50%">
-
-Amount
-
-</td><td width="50%">
-
-Amount
-
-</td></tr>
-<tr><td width="50%">
-
-Announcement
-
-</td><td width="50%">
-
-Announcement
-
-</td></tr>
-<tr><td width="50%">
-
-Announcements
-
-</td><td width="50%">
-
-Announcements
-
-</td></tr>
-<tr><td width="50%">
-
 Announcements you create here will be sent to the "Product Announcements" section of the notifications modal window, informing your users about new features and improvements to your application.
 
 </td><td width="50%">
 
 Announcements you create here will be sent to the "Product Announcements" section of the notifications modal window, informing your users about new features and improvements to your application.
-
-</td></tr>
-<tr><td width="50%">
-
-API
-
-</td><td width="50%">
-
-API
-
-</td></tr>
-<tr><td width="50%">
-
-Apply Discount
-
-</td><td width="50%">
-
-Apply Discount
-
-</td></tr>
-<tr><td width="50%">
-
-Applying
-
-</td><td width="50%">
-
-Applying
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to cancel your subscription?
-
-</td><td width="50%">
-
-Are you sure you want to cancel your subscription?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to delete this announcement?
-
-</td><td width="50%">
-
-Are you sure you want to delete this announcement?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to delete this token? If deleted, API requests that attempt to authenticate using this token will no longer be accepted.
-
-</td><td width="50%">
-
-Are you sure you want to delete this token? If deleted, API requests that attempt to authenticate using this token will no longer be accepted.
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to switch to the :planName plan?
-
-</td><td width="50%">
-
-Are you sure you want to switch to the :planName plan?
 
 </td></tr>
 <tr><td width="50%">
@@ -217,60 +82,6 @@ Arkansas
 </td><td width="50%">
 
 Arkansas
-
-</td></tr>
-<tr><td width="50%">
-
-Armed Forces Africa / Canada / Europe / Middle East
-
-</td><td width="50%">
-
-Armed Forces Africa / Canada / Europe / Middle East
-
-</td></tr>
-<tr><td width="50%">
-
-Armed Forces America (Except Canada)
-
-</td><td width="50%">
-
-Armed Forces America (Except Canada)
-
-</td></tr>
-<tr><td width="50%">
-
-Armed Forces Pacific
-
-</td><td width="50%">
-
-Armed Forces Pacific
-
-</td></tr>
-<tr><td width="50%">
-
-Assign All Abilities
-
-</td><td width="50%">
-
-Assign All Abilities
-
-</td></tr>
-<tr><td width="50%">
-
-Authentication Token
-
-</td><td width="50%">
-
-Authentication Token
-
-</td></tr>
-<tr><td width="50%">
-
-Back To My Account
-
-</td><td width="50%">
-
-Back To My Account
 
 </td></tr>
 <tr><td width="50%">
@@ -302,245 +113,11 @@ California
 </td></tr>
 <tr><td width="50%">
 
-Cancelling
-
-</td><td width="50%">
-
-Cancelling
-
-</td></tr>
-<tr><td width="50%">
-
-Cardholder's Name
-
-</td><td width="50%">
-
-Cardholder's Name
-
-</td></tr>
-<tr><td width="50%">
-
-Click here to reset your password:
-
-</td><td width="50%">
-
-Click here to reset your password:
-
-</td></tr>
-<tr><td width="50%">
-
 Colorado
 
 </td><td width="50%">
 
 Colorado
-
-</td></tr>
-<tr><td width="50%">
-
-Confirm Billing Action
-
-</td><td width="50%">
-
-Confirm Billing Action
-
-</td></tr>
-<tr><td width="50%">
-
-Connecticut
-
-</td><td width="50%">
-
-Connecticut
-
-</td></tr>
-<tr><td width="50%">
-
-Contact Information
-
-</td><td width="50%">
-
-Contact Information
-
-</td></tr>
-<tr><td width="50%">
-
-Copy To Clipboard
-
-</td><td width="50%">
-
-Copy To Clipboard
-
-</td></tr>
-<tr><td width="50%">
-
-Country Code
-
-</td><td width="50%">
-
-Country Code
-
-</td></tr>
-<tr><td width="50%">
-
-Coupon accepted! The discount will be applied to your next invoice.
-
-</td><td width="50%">
-
-Coupon accepted! The discount will be applied to your next invoice.
-
-</td></tr>
-<tr><td width="50%">
-
-Coupon Code
-
-</td><td width="50%">
-
-Coupon Code
-
-</td></tr>
-<tr><td width="50%">
-
-Create Announcement
-
-</td><td width="50%">
-
-Create Announcement
-
-</td></tr>
-<tr><td width="50%">
-
-Created
-
-</td><td width="50%">
-
-Created
-
-</td></tr>
-<tr><td width="50%">
-
-Customer Balance
-
-</td><td width="50%">
-
-Customer Balance
-
-</td></tr>
-<tr><td width="50%">
-
-Daily Volume
-
-</td><td width="50%">
-
-Daily Volume
-
-</td></tr>
-<tr><td width="50%">
-
-Date
-
-</td><td width="50%">
-
-Date
-
-</td></tr>
-<tr><td width="50%">
-
-Day Trial
-
-</td><td width="50%">
-
-Day Trial
-
-</td></tr>
-<tr><td width="50%">
-
-Delaware
-
-</td><td width="50%">
-
-Delaware
-
-</td></tr>
-<tr><td width="50%">
-
-Delete Announcement
-
-</td><td width="50%">
-
-Delete Announcement
-
-</td></tr>
-<tr><td width="50%">
-
-Delete Token
-
-</td><td width="50%">
-
-Delete Token
-
-</td></tr>
-<tr><td width="50%">
-
-Deleting
-
-</td><td width="50%">
-
-Deleting
-
-</td></tr>
-<tr><td width="50%">
-
-Developer
-
-</td><td width="50%">
-
-Developer
-
-</td></tr>
-<tr><td width="50%">
-
-Disable Two-Factor Authentication
-
-</td><td width="50%">
-
-Disable Two-Factor Authentication
-
-</td></tr>
-<tr><td width="50%">
-
-Disabling
-
-</td><td width="50%">
-
-Disabling
-
-</td></tr>
-<tr><td width="50%">
-
-District of Columbia
-
-</td><td width="50%">
-
-District of Columbia
-
-</td></tr>
-<tr><td width="50%">
-
-Download PDF
-
-</td><td width="50%">
-
-Download PDF
-
-</td></tr>
-<tr><td width="50%">
-
-Duration
-
-</td><td width="50%">
-
-Duration
 
 </td></tr>
 <tr><td width="50%">
@@ -559,51 +136,6 @@ E-Mail Address
 </td><td width="50%">
 
 E-Mail Address
-
-</td></tr>
-<tr><td width="50%">
-
-Edit Token
-
-</td><td width="50%">
-
-Edit Token
-
-</td></tr>
-<tr><td width="50%">
-
-Email Us
-
-</td><td width="50%">
-
-Email Us
-
-</td></tr>
-<tr><td width="50%">
-
-Emergency Token
-
-</td><td width="50%">
-
-Emergency Token
-
-</td></tr>
-<tr><td width="50%">
-
-Enabling
-
-</td><td width="50%">
-
-Enabling
-
-</td></tr>
-<tr><td width="50%">
-
-Expiration
-
-</td><td width="50%">
-
-Expiration
 
 </td></tr>
 <tr><td width="50%">

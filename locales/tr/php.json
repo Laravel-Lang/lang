@@ -153,7 +153,7 @@
     "token": "Parola sıfırlama kodu geçersiz.",
     "ulid": ":Attribute geçerli bir ULID olmalıdır.",
     "unique": ":Attribute zaten alınmış.",
-    "update_team_name": "Update Team Name",
+    "update_team_name": "Ekip Adını Güncelle",
     "uploaded": ":Attribute yüklemesi başarısız.",
     "uppercase": ":Attribute büyük harf olmalıdır.",
     "url": ":Attribute biçimi geçersiz.",

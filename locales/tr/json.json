@@ -1057,7 +1057,7 @@
     "You currently receive a discount of :discountAmount for all invoices during the next month.": "Şu anda, gelecek ay boyunca tüm faturalar için :discountAmount indirimi alıyorsunuz.",
     "You currently receive a discount of :discountAmount forever.": "Şu anda sonsuza kadar :discountAmount indirimi alıyorsunuz.",
     "You have been invited to join the :team team!": ":Team ekibine katılmaya davet edildiniz!",
-    "You have cancelled your subscription to the :planName plan.": ":planName planı aboneliğinizi iptal ettiniz.",
+    "You have cancelled your subscription to the :planName plan.": ":PlanName planı aboneliğinizi iptal ettiniz.",
     "You have enabled two factor authentication.": "İki faktörlü kimlik doğrulamayı etkinleştirdiniz.",
     "You have not enabled two factor authentication.": "İki faktörlü kimlik doğrulamayı etkinleştirmediniz.",
     "You have some unpaid invoices. After updating your payment method, you may retry the payments via the invoice list below.": "Bazı ödenmemiş faturalarınız var. Ödeme yönteminizi güncelledikten sonra aşağıdaki fatura listesi üzerinden ödemelerinizi tekrar deneyebilirsiniz.",

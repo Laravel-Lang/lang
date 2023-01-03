@@ -4,12 +4,12 @@ editLink: false
 
 # tr
 
-##### All missed: 325
+##### All missed: 158
 
 
 ### json
 
-##### Missing: 292
+##### Missing: 158
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,33 +23,6 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-Action Button Text
-
-</td><td width="50%">
-
-Action Button Text
-
-</td></tr>
-<tr><td width="50%">
-
-Action Button URL
-
-</td><td width="50%">
-
-Action Button URL
-
-</td></tr>
-<tr><td width="50%">
-
-Add Discount
-
-</td><td width="50%">
-
-Add Discount
-
-</td></tr>
-<tr><td width="50%">
-
 After logging in via your emergency token, two-factor authentication will be disabled for your account. If you would like to maintain two-factor authentication security, you should re-enable it after logging in.
 
 </td><td width="50%">
@@ -86,119 +59,11 @@ Alberta
 </td></tr>
 <tr><td width="50%">
 
-All subscription plan prices are excluding applicable VAT.
-
-</td><td width="50%">
-
-All subscription plan prices are excluding applicable VAT.
-
-</td></tr>
-<tr><td width="50%">
-
-All subscription plan prices include applicable VAT.
-
-</td><td width="50%">
-
-All subscription plan prices include applicable VAT.
-
-</td></tr>
-<tr><td width="50%">
-
-Amount
-
-</td><td width="50%">
-
-Amount
-
-</td></tr>
-<tr><td width="50%">
-
-Announcement
-
-</td><td width="50%">
-
-Announcement
-
-</td></tr>
-<tr><td width="50%">
-
-Announcements
-
-</td><td width="50%">
-
-Announcements
-
-</td></tr>
-<tr><td width="50%">
-
 Announcements you create here will be sent to the "Product Announcements" section of the notifications modal window, informing your users about new features and improvements to your application.
 
 </td><td width="50%">
 
 Announcements you create here will be sent to the "Product Announcements" section of the notifications modal window, informing your users about new features and improvements to your application.
-
-</td></tr>
-<tr><td width="50%">
-
-API
-
-</td><td width="50%">
-
-API
-
-</td></tr>
-<tr><td width="50%">
-
-Apply Discount
-
-</td><td width="50%">
-
-Apply Discount
-
-</td></tr>
-<tr><td width="50%">
-
-Applying
-
-</td><td width="50%">
-
-Applying
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to cancel your subscription?
-
-</td><td width="50%">
-
-Are you sure you want to cancel your subscription?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to delete this announcement?
-
-</td><td width="50%">
-
-Are you sure you want to delete this announcement?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to delete this token? If deleted, API requests that attempt to authenticate using this token will no longer be accepted.
-
-</td><td width="50%">
-
-Are you sure you want to delete this token? If deleted, API requests that attempt to authenticate using this token will no longer be accepted.
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to switch to the :planName plan?
-
-</td><td width="50%">
-
-Are you sure you want to switch to the :planName plan?
 
 </td></tr>
 <tr><td width="50%">
@@ -217,60 +82,6 @@ Arkansas
 </td><td width="50%">
 
 Arkansas
-
-</td></tr>
-<tr><td width="50%">
-
-Armed Forces Africa / Canada / Europe / Middle East
-
-</td><td width="50%">
-
-Armed Forces Africa / Canada / Europe / Middle East
-
-</td></tr>
-<tr><td width="50%">
-
-Armed Forces America (Except Canada)
-
-</td><td width="50%">
-
-Armed Forces America (Except Canada)
-
-</td></tr>
-<tr><td width="50%">
-
-Armed Forces Pacific
-
-</td><td width="50%">
-
-Armed Forces Pacific
-
-</td></tr>
-<tr><td width="50%">
-
-Assign All Abilities
-
-</td><td width="50%">
-
-Assign All Abilities
-
-</td></tr>
-<tr><td width="50%">
-
-Authentication Token
-
-</td><td width="50%">
-
-Authentication Token
-
-</td></tr>
-<tr><td width="50%">
-
-Back To My Account
-
-</td><td width="50%">
-
-Back To My Account
 
 </td></tr>
 <tr><td width="50%">
@@ -302,227 +113,11 @@ California
 </td></tr>
 <tr><td width="50%">
 
-Cancelling
-
-</td><td width="50%">
-
-Cancelling
-
-</td></tr>
-<tr><td width="50%">
-
-Cardholder's Name
-
-</td><td width="50%">
-
-Cardholder's Name
-
-</td></tr>
-<tr><td width="50%">
-
-Click here to reset your password:
-
-</td><td width="50%">
-
-Click here to reset your password:
-
-</td></tr>
-<tr><td width="50%">
-
 Colorado
 
 </td><td width="50%">
 
 Colorado
-
-</td></tr>
-<tr><td width="50%">
-
-Connecticut
-
-</td><td width="50%">
-
-Connecticut
-
-</td></tr>
-<tr><td width="50%">
-
-Contact Information
-
-</td><td width="50%">
-
-Contact Information
-
-</td></tr>
-<tr><td width="50%">
-
-Copy To Clipboard
-
-</td><td width="50%">
-
-Copy To Clipboard
-
-</td></tr>
-<tr><td width="50%">
-
-Country Code
-
-</td><td width="50%">
-
-Country Code
-
-</td></tr>
-<tr><td width="50%">
-
-Coupon accepted! The discount will be applied to your next invoice.
-
-</td><td width="50%">
-
-Coupon accepted! The discount will be applied to your next invoice.
-
-</td></tr>
-<tr><td width="50%">
-
-Coupon Code
-
-</td><td width="50%">
-
-Coupon Code
-
-</td></tr>
-<tr><td width="50%">
-
-Create Announcement
-
-</td><td width="50%">
-
-Create Announcement
-
-</td></tr>
-<tr><td width="50%">
-
-Created
-
-</td><td width="50%">
-
-Created
-
-</td></tr>
-<tr><td width="50%">
-
-Daily Volume
-
-</td><td width="50%">
-
-Daily Volume
-
-</td></tr>
-<tr><td width="50%">
-
-Date
-
-</td><td width="50%">
-
-Date
-
-</td></tr>
-<tr><td width="50%">
-
-Day Trial
-
-</td><td width="50%">
-
-Day Trial
-
-</td></tr>
-<tr><td width="50%">
-
-Delaware
-
-</td><td width="50%">
-
-Delaware
-
-</td></tr>
-<tr><td width="50%">
-
-Delete Announcement
-
-</td><td width="50%">
-
-Delete Announcement
-
-</td></tr>
-<tr><td width="50%">
-
-Delete Token
-
-</td><td width="50%">
-
-Delete Token
-
-</td></tr>
-<tr><td width="50%">
-
-Deleting
-
-</td><td width="50%">
-
-Deleting
-
-</td></tr>
-<tr><td width="50%">
-
-Developer
-
-</td><td width="50%">
-
-Developer
-
-</td></tr>
-<tr><td width="50%">
-
-Disable Two-Factor Authentication
-
-</td><td width="50%">
-
-Disable Two-Factor Authentication
-
-</td></tr>
-<tr><td width="50%">
-
-Disabling
-
-</td><td width="50%">
-
-Disabling
-
-</td></tr>
-<tr><td width="50%">
-
-District of Columbia
-
-</td><td width="50%">
-
-District of Columbia
-
-</td></tr>
-<tr><td width="50%">
-
-Download PDF
-
-</td><td width="50%">
-
-Download PDF
-
-</td></tr>
-<tr><td width="50%">
-
-Duration
-
-</td><td width="50%">
-
-Duration
 
 </td></tr>
 <tr><td width="50%">
@@ -545,119 +140,11 @@ E-Mail Address
 </td></tr>
 <tr><td width="50%">
 
-Edit Token
-
-</td><td width="50%">
-
-Edit Token
-
-</td></tr>
-<tr><td width="50%">
-
-Email Us
-
-</td><td width="50%">
-
-Email Us
-
-</td></tr>
-<tr><td width="50%">
-
-Emergency Token
-
-</td><td width="50%">
-
-Emergency Token
-
-</td></tr>
-<tr><td width="50%">
-
-Enabling
-
-</td><td width="50%">
-
-Enabling
-
-</td></tr>
-<tr><td width="50%">
-
-Expiration
-
-</td><td width="50%">
-
-Expiration
-
-</td></tr>
-<tr><td width="50%">
-
-Features
-
-</td><td width="50%">
-
-Features
-
-</td></tr>
-<tr><td width="50%">
-
-Federated States Of Micronesia
-
-</td><td width="50%">
-
-Federated States Of Micronesia
-
-</td></tr>
-<tr><td width="50%">
-
 Florida
 
 </td><td width="50%">
 
 Florida
-
-</td></tr>
-<tr><td width="50%">
-
-For security reasons your new card will be charged a minimal fee upon registration.
-
-</td><td width="50%">
-
-For security reasons your new card will be charged a minimal fee upon registration.
-
-</td></tr>
-<tr><td width="50%">
-
-Forever
-
-</td><td width="50%">
-
-Forever
-
-</td></tr>
-<tr><td width="50%">
-
-Free
-
-</td><td width="50%">
-
-Free
-
-</td></tr>
-<tr><td width="50%">
-
-Go To Login
-
-</td><td width="50%">
-
-Go To Login
-
-</td></tr>
-<tr><td width="50%">
-
-Got It!
-
-</td><td width="50%">
-
-Got It!
 
 </td></tr>
 <tr><td width="50%">
@@ -671,65 +158,11 @@ Hawaii
 </td></tr>
 <tr><td width="50%">
 
-Here is your new API token.
-
-</td><td width="50%">
-
-Here is your new API token.
-
-</td></tr>
-<tr><td width="50%">
-
-Hi :name
-
-</td><td width="50%">
-
-Hi :name
-
-</td></tr>
-<tr><td width="50%">
-
-Hi!
-
-</td><td width="50%">
-
-Hi!
-
-</td></tr>
-<tr><td width="50%">
-
-I Accept :linkOpen The Terms Of Service :linkClose
-
-</td><td width="50%">
-
-I Accept :linkOpen The Terms Of Service :linkClose
-
-</td></tr>
-<tr><td width="50%">
-
 Idaho
 
 </td><td width="50%">
 
 Idaho
-
-</td></tr>
-<tr><td width="50%">
-
-If you do not already have an account, you may click the following link to get started:
-
-</td><td width="50%">
-
-If you do not already have an account, you may click the following link to get started:
-
-</td></tr>
-<tr><td width="50%">
-
-If you lose your two-factor authentication device, you may use this emergency reset token to disable two-factor authentication on your account.
-
-</td><td width="50%">
-
-If you lose your two-factor authentication device, you may use this emergency reset token to disable two-factor authentication on your account.
 
 </td></tr>
 <tr><td width="50%">
@@ -743,24 +176,6 @@ Illinois
 </td></tr>
 <tr><td width="50%">
 
-Impersonation
-
-</td><td width="50%">
-
-Impersonation
-
-</td></tr>
-<tr><td width="50%">
-
-In order to use two-factor authentication, you must install the :authyLink application on your smartphone. Authy is available for iOS and Android.
-
-</td><td width="50%">
-
-In order to use two-factor authentication, you must install the :authyLink application on your smartphone. Authy is available for iOS and Android.
-
-</td></tr>
-<tr><td width="50%">
-
 Indiana
 
 </td><td width="50%">
@@ -770,38 +185,11 @@ Indiana
 </td></tr>
 <tr><td width="50%">
 
-Invoice
-
-</td><td width="50%">
-
-Invoice
-
-</td></tr>
-<tr><td width="50%">
-
-Invoices
-
-</td><td width="50%">
-
-Invoices
-
-</td></tr>
-<tr><td width="50%">
-
 Iowa
 
 </td><td width="50%">
 
 Iowa
-
-</td></tr>
-<tr><td width="50%">
-
-Joined
-
-</td><td width="50%">
-
-Joined
 
 </td></tr>
 <tr><td width="50%">
@@ -842,56 +230,11 @@ Last Used
 </td></tr>
 <tr><td width="50%">
 
-Loading
-
-</td><td width="50%">
-
-Loading
-
-</td></tr>
-<tr><td width="50%">
-
-Loading Notifications
-
-</td><td width="50%">
-
-Loading Notifications
-
-</td></tr>
-<tr><td width="50%">
-
-Login Via Emergency Token
-
-</td><td width="50%">
-
-Login Via Emergency Token
-
-</td></tr>
-<tr><td width="50%">
-
-Lost Your Device?
-
-</td><td width="50%">
-
-Lost Your Device?
-
-</td></tr>
-<tr><td width="50%">
-
 Louisiana
 
 </td><td width="50%">
 
 Louisiana
-
-</td></tr>
-<tr><td width="50%">
-
-Mailed Invitations
-
-</td><td width="50%">
-
-Mailed Invitations
 
 </td></tr>
 <tr><td width="50%">
@@ -1013,33 +356,6 @@ Montana
 </td></tr>
 <tr><td width="50%">
 
-Monthly Recurring Revenue
-
-</td><td width="50%">
-
-Monthly Recurring Revenue
-
-</td></tr>
-<tr><td width="50%">
-
-Months
-
-</td><td width="50%">
-
-Months
-
-</td></tr>
-<tr><td width="50%">
-
-Multiple Months
-
-</td><td width="50%">
-
-Multiple Months
-
-</td></tr>
-<tr><td width="50%">
-
 N/A
 
 </td><td width="50%">
@@ -1076,29 +392,11 @@ Never
 </td></tr>
 <tr><td width="50%">
 
-New Brunswick
-
-</td><td width="50%">
-
-New Brunswick
-
-</td></tr>
-<tr><td width="50%">
-
 New Hampshire
 
 </td><td width="50%">
 
 New Hampshire
-
-</td></tr>
-<tr><td width="50%">
-
-New Invitation!
-
-</td><td width="50%">
-
-New Invitation!
 
 </td></tr>
 <tr><td width="50%">
@@ -1121,65 +419,11 @@ New Mexico
 </td></tr>
 <tr><td width="50%">
 
-New Users
-
-</td><td width="50%">
-
-New Users
-
-</td></tr>
-<tr><td width="50%">
-
-New York
-
-</td><td width="50%">
-
-New York
-
-</td></tr>
-<tr><td width="50%">
-
 Newfoundland and Labrador
 
 </td><td width="50%">
 
 Newfoundland and Labrador
-
-</td></tr>
-<tr><td width="50%">
-
-No customer support request recipient is defined.
-
-</td><td width="50%">
-
-No customer support request recipient is defined.
-
-</td></tr>
-<tr><td width="50%">
-
-No users matched the given criteria.
-
-</td><td width="50%">
-
-No users matched the given criteria.
-
-</td></tr>
-<tr><td width="50%">
-
-No, Go Back
-
-</td><td width="50%">
-
-No, Go Back
-
-</td></tr>
-<tr><td width="50%">
-
-None
-
-</td><td width="50%">
-
-None
 
 </td></tr>
 <tr><td width="50%">
@@ -1202,15 +446,6 @@ North Dakota
 </td></tr>
 <tr><td width="50%">
 
-Northwest Territories
-
-</td><td width="50%">
-
-Northwest Territories
-
-</td></tr>
-<tr><td width="50%">
-
 Nova Scotia
 
 </td><td width="50%">
@@ -1225,15 +460,6 @@ Nunavut
 </td><td width="50%">
 
 Nunavut
-
-</td></tr>
-<tr><td width="50%">
-
-Oh no!
-
-</td><td width="50%">
-
-Oh no!
 
 </td></tr>
 <tr><td width="50%">
@@ -1265,15 +491,6 @@ On Generic Trial
 </td></tr>
 <tr><td width="50%">
 
-Once
-
-</td><td width="50%">
-
-Once
-
-</td></tr>
-<tr><td width="50%">
-
 Ontario
 
 </td><td width="50%">
@@ -1292,20 +509,11 @@ Oregon
 </td></tr>
 <tr><td width="50%">
 
-Owner
+Paid
 
 </td><td width="50%">
 
-Owner
-
-</td></tr>
-<tr><td width="50%">
-
-Pending Invitations
-
-</td><td width="50%">
-
-Pending Invitations
+Paid
 
 </td></tr>
 <tr><td width="50%">
@@ -1315,69 +523,6 @@ Pennsylvania
 </td><td width="50%">
 
 Pennsylvania
-
-</td></tr>
-<tr><td width="50%">
-
-Percentage
-
-</td><td width="50%">
-
-Percentage
-
-</td></tr>
-<tr><td width="50%">
-
-Phone Number
-
-</td><td width="50%">
-
-Phone Number
-
-</td></tr>
-<tr><td width="50%">
-
-Please :linkOpen confirm your payment :linkClose to activate your subscription!
-
-</td><td width="50%">
-
-Please :linkOpen confirm your payment :linkClose to activate your subscription!
-
-</td></tr>
-<tr><td width="50%">
-
-Please first register your billing address.
-
-</td><td width="50%">
-
-Please first register your billing address.
-
-</td></tr>
-<tr><td width="50%">
-
-Please first register your team's billing address.
-
-</td><td width="50%">
-
-Please first register your team's billing address.
-
-</td></tr>
-<tr><td width="50%">
-
-Please select at least one ability.
-
-</td><td width="50%">
-
-Please select at least one ability.
-
-</td></tr>
-<tr><td width="50%">
-
-please upgrade your subscription
-
-</td><td width="50%">
-
-please upgrade your subscription
 
 </td></tr>
 <tr><td width="50%">
@@ -1490,6 +635,15 @@ Remove All Abilities
 </td></tr>
 <tr><td width="50%">
 
+Required fields
+
+</td><td width="50%">
+
+Required fields
+
+</td></tr>
+<tr><td width="50%">
+
 Resume
 
 </td><td width="50%">
@@ -1504,6 +658,15 @@ Resuming
 </td><td width="50%">
 
 Resuming
+
+</td></tr>
+<tr><td width="50%">
+
+Retry Payment
+
+</td><td width="50%">
+
+Retry Payment
 
 </td></tr>
 <tr><td width="50%">
@@ -1639,6 +802,15 @@ Since you already have an account, you may accept the invitation from your accou
 </td><td width="50%">
 
 Since you already have an account, you may accept the invitation from your account settings screen.
+
+</td></tr>
+<tr><td width="50%">
+
+Since you have a cash balance sufficient to begin a subscription, providing a payment method is not required. You may leave this field empty if you wish to begin a subscription using your cash balance.
+
+</td><td width="50%">
+
+Since you have a cash balance sufficient to begin a subscription, providing a payment method is not required. You may leave this field empty if you wish to begin a subscription using your cash balance.
 
 </td></tr>
 <tr><td width="50%">
@@ -1886,6 +1058,15 @@ This invitation code is invalid.
 </td></tr>
 <tr><td width="50%">
 
+This invoice is no longer open.
+
+</td><td width="50%">
+
+This invoice is no longer open.
+
+</td></tr>
+<tr><td width="50%">
+
 This is the only time the token will ever be displayed, so be sure not to lose it!
 
 </td><td width="50%">
@@ -1985,6 +1166,15 @@ Token Can
 </td></tr>
 <tr><td width="50%">
 
+Top Up Balance
+
+</td><td width="50%">
+
+Top Up Balance
+
+</td></tr>
+<tr><td width="50%">
+
 Total Price Including Tax
 
 </td><td width="50%">
@@ -2044,6 +1234,15 @@ Two-Factor Authentication Reset Code
 </td><td width="50%">
 
 Two-Factor Authentication Reset Code
+
+</td></tr>
+<tr><td width="50%">
+
+Unpaid
+
+</td><td width="50%">
+
+Unpaid
 
 </td></tr>
 <tr><td width="50%">
@@ -2192,110 +1391,11 @@ Washington
 </td></tr>
 <tr><td width="50%">
 
-We don't have anything to show you right now! But when we do, we'll be sure to let you know. Talk to you soon!
-
-</td><td width="50%">
-
-We don't have anything to show you right now! But when we do, we'll be sure to let you know. Talk to you soon!
-
-</td></tr>
-<tr><td width="50%">
-
-We had trouble updating your billing address. Please contact customer support.
-
-</td><td width="50%">
-
-We had trouble updating your billing address. Please contact customer support.
-
-</td></tr>
-<tr><td width="50%">
-
-We had trouble updating your card. It's possible your card provider is preventing us from charging the card. Please contact your card provider or customer support.
-
-</td><td width="50%">
-
-We had trouble updating your card. It's possible your card provider is preventing us from charging the card. Please contact your card provider or customer support.
-
-</td></tr>
-<tr><td width="50%">
-
-We had trouble updating your payment method. It's possible your payment provider is preventing us from charging the payment method. Please contact your payment provider or customer support.
-
-</td><td width="50%">
-
-We had trouble updating your payment method. It's possible your payment provider is preventing us from charging the payment method. Please contact your payment provider or customer support.
-
-</td></tr>
-<tr><td width="50%">
-
-We had trouble validating your card. It's possible your card provider is preventing us from charging the card. Please contact your card provider or customer support.
-
-</td><td width="50%">
-
-We had trouble validating your card. It's possible your card provider is preventing us from charging the card. Please contact your card provider or customer support.
-
-</td></tr>
-<tr><td width="50%">
-
-We have received your message and will respond soon!
-
-</td><td width="50%">
-
-We have received your message and will respond soon!
-
-</td></tr>
-<tr><td width="50%">
-
-We were not able to enable two-factor authentication for this phone number.
-
-</td><td width="50%">
-
-We were not able to enable two-factor authentication for this phone number.
-
-</td></tr>
-<tr><td width="50%">
-
-We were unable to update your subscription. Please contact customer support.
-
-</td><td width="50%">
-
-We were unable to update your subscription. Please contact customer support.
-
-</td></tr>
-<tr><td width="50%">
-
-Welcome to your new subscription.
-
-</td><td width="50%">
-
-Welcome to your new subscription.
-
-</td></tr>
-<tr><td width="50%">
-
 West Virginia
 
 </td><td width="50%">
 
 West Virginia
-
-</td></tr>
-<tr><td width="50%">
-
-Whoops! This coupon code is invalid.
-
-</td><td width="50%">
-
-Whoops! This coupon code is invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-Whoops! This invitation code is invalid.
-
-</td><td width="50%">
-
-Whoops! This invitation code is invalid.
 
 </td></tr>
 <tr><td width="50%">
@@ -2314,312 +1414,6 @@ Wyoming
 </td><td width="50%">
 
 Wyoming
-
-</td></tr>
-<tr><td width="50%">
-
-yearly
-
-</td><td width="50%">
-
-yearly
-
-</td></tr>
-<tr><td width="50%">
-
-Yearly Recurring Revenue
-
-</td><td width="50%">
-
-Yearly Recurring Revenue
-
-</td></tr>
-<tr><td width="50%">
-
-Yes, Cancel
-
-</td><td width="50%">
-
-Yes, Cancel
-
-</td></tr>
-<tr><td width="50%">
-
-Yes, Delete
-
-</td><td width="50%">
-
-Yes, Delete
-
-</td></tr>
-<tr><td width="50%">
-
-Yes, I'm Sure
-
-</td><td width="50%">
-
-Yes, I'm Sure
-
-</td></tr>
-<tr><td width="50%">
-
-Yes, Leave
-
-</td><td width="50%">
-
-Yes, Leave
-
-</td></tr>
-<tr><td width="50%">
-
-Yes, Remove
-
-</td><td width="50%">
-
-Yes, Remove
-
-</td></tr>
-<tr><td width="50%">
-
-You
-
-</td><td width="50%">
-
-You
-
-</td></tr>
-<tr><td width="50%">
-
-You are currently subscribed to the :planName plan.
-
-</td><td width="50%">
-
-You are currently subscribed to the :planName plan.
-
-</td></tr>
-<tr><td width="50%">
-
-You are not eligible for this plan.
-
-</td><td width="50%">
-
-You are not eligible for this plan.
-
-</td></tr>
-<tr><td width="50%">
-
-You currently have :count invitation(s) remaining.
-
-</td><td width="50%">
-
-You currently have :count invitation(s) remaining.
-
-</td></tr>
-<tr><td width="50%">
-
-You currently receive a discount of :discountAmount for a single invoice.
-
-</td><td width="50%">
-
-You currently receive a discount of :discountAmount for a single invoice.
-
-</td></tr>
-<tr><td width="50%">
-
-You currently receive a discount of :discountAmount for all invoices during the next :months billing cycles.
-
-</td><td width="50%">
-
-You currently receive a discount of :discountAmount for all invoices during the next :months billing cycles.
-
-</td></tr>
-<tr><td width="50%">
-
-You currently receive a discount of :discountAmount for all invoices during the next :months months.
-
-</td><td width="50%">
-
-You currently receive a discount of :discountAmount for all invoices during the next :months months.
-
-</td></tr>
-<tr><td width="50%">
-
-You currently receive a discount of :discountAmount for all invoices during the next billing cycle.
-
-</td><td width="50%">
-
-You currently receive a discount of :discountAmount for all invoices during the next billing cycle.
-
-</td></tr>
-<tr><td width="50%">
-
-You currently receive a discount of :discountAmount for all invoices during the next month.
-
-</td><td width="50%">
-
-You currently receive a discount of :discountAmount for all invoices during the next month.
-
-</td></tr>
-<tr><td width="50%">
-
-You currently receive a discount of :discountAmount forever.
-
-</td><td width="50%">
-
-You currently receive a discount of :discountAmount forever.
-
-</td></tr>
-<tr><td width="50%">
-
-You have cancelled your subscription to the :planName plan.
-
-</td><td width="50%">
-
-You have cancelled your subscription to the :planName plan.
-
-</td></tr>
-<tr><td width="50%">
-
-You may revoke the token at any time from your API settings.
-
-</td><td width="50%">
-
-You may revoke the token at any time from your API settings.
-
-</td></tr>
-<tr><td width="50%">
-
-You will be redirected to Mollie's checkout.
-
-</td><td width="50%">
-
-You will be redirected to Mollie's checkout.
-
-</td></tr>
-<tr><td width="50%">
-
-Your application's dashboard.
-
-</td><td width="50%">
-
-Your application's Dashboard
-
-</td></tr>
-<tr><td width="50%">
-
-Your billing address has been updated!
-
-</td><td width="50%">
-
-Your billing address has been updated!
-
-</td></tr>
-<tr><td width="50%">
-
-Your billing information has been updated!
-
-</td><td width="50%">
-
-Your billing information has been updated!
-
-</td></tr>
-<tr><td width="50%">
-
-Your card has been updated.
-
-</td><td width="50%">
-
-Your card has been updated.
-
-</td></tr>
-<tr><td width="50%">
-
-Your contact information has been updated!
-
-</td><td width="50%">
-
-Your contact information has been updated!
-
-</td></tr>
-<tr><td width="50%">
-
-Your current plan doesn't allow you to invite more members, please upgrade your subscription.
-
-</td><td width="50%">
-
-Your current plan doesn't allow you to invite more members, please upgrade your subscription.
-
-</td></tr>
-<tr><td width="50%">
-
-Your Email Address
-
-</td><td width="50%">
-
-Your Email Address
-
-</td></tr>
-<tr><td width="50%">
-
-Your password has been updated!
-
-</td><td width="50%">
-
-Your password has been updated!
-
-</td></tr>
-<tr><td width="50%">
-
-Your payment method could not be updated.
-
-</td><td width="50%">
-
-Your payment method could not be updated.
-
-</td></tr>
-<tr><td width="50%">
-
-Your payment method has been updated.
-
-</td><td width="50%">
-
-Your payment method has been updated.
-
-</td></tr>
-<tr><td width="50%">
-
-Your payment went wrong. Try again or contact support
-
-</td><td width="50%">
-
-Your payment went wrong. Try again or contact support
-
-</td></tr>
-<tr><td width="50%">
-
-Your session has expired. Please login again to continue.
-
-</td><td width="50%">
-
-Your session has expired. Please login again to continue.
-
-</td></tr>
-<tr><td width="50%">
-
-Your Settings
-
-</td><td width="50%">
-
-Your Settings
-
-</td></tr>
-<tr><td width="50%">
-
-Your VAT ID has been updated!
-
-</td><td width="50%">
-
-Your VAT ID has been updated!
 
 </td></tr>
 <tr><td width="50%">
@@ -2647,343 +1441,6 @@ ZIP / Postal Code
 </td><td width="50%">
 
 ZIP / Postal Code
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php-inline
-
-##### Missing: 2
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-country
-
-</td><td width="50%">
-
-This field is not a valid country.
-
-</td></tr>
-<tr><td width="50%">
-
-decimal
-
-</td><td width="50%">
-
-This field must have :decimal decimal places.
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php
-
-##### Missing: 31
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-are_you_sure_you_want_to_delete_team
-
-</td><td width="50%">
-
-Are you sure you want to delete this team?
-
-</td></tr>
-<tr><td width="50%">
-
-are_you_sure_you_want_to_leave_team
-
-</td><td width="50%">
-
-Are you sure you want to leave this team?
-
-</td></tr>
-<tr><td width="50%">
-
-attributes.team
-
-</td><td width="50%">
-
-team
-
-</td></tr>
-<tr><td width="50%">
-
-country
-
-</td><td width="50%">
-
-The :attribute field is not a valid country.
-
-</td></tr>
-<tr><td width="50%">
-
-create_team
-
-</td><td width="50%">
-
-Create Team
-
-</td></tr>
-<tr><td width="50%">
-
-decimal
-
-</td><td width="50%">
-
-The :attribute must have :decimal decimal places.
-
-</td></tr>
-<tr><td width="50%">
-
-if_you_delete_team_all_data_will_be_deleted
-
-</td><td width="50%">
-
-If you choose to delete the team all data will be permanently deleted.
-
-</td></tr>
-<tr><td width="50%">
-
-looks_like_you_are_not_part_of_team
-
-</td><td width="50%">
-
-It looks like you're not part of any team!
-
-</td></tr>
-<tr><td width="50%">
-
-not_eligible_based_on_current_members_teams
-
-</td><td width="50%">
-
-You are not eligible for this plan based on your current number of teams / team members.
-
-</td></tr>
-<tr><td width="50%">
-
-plan_allows_no_more_teams
-
-</td><td width="50%">
-
-Your current plan doesn't allow you to create more teams
-
-</td></tr>
-<tr><td width="50%">
-
-please_upgrade_to_create_more_teams
-
-</td><td width="50%">
-
-Please upgrade your subscription to create more teams.
-
-</td></tr>
-<tr><td width="50%">
-
-remove_team_member
-
-</td><td width="50%">
-
-Remove Team Member
-
-</td></tr>
-<tr><td width="50%">
-
-slug_input_explanation
-
-</td><td width="50%">
-
-This slug is used to identify your team in URLs.
-
-</td></tr>
-<tr><td width="50%">
-
-state
-
-</td><td width="50%">
-
-This state is not valid for the specified country.
-
-</td></tr>
-<tr><td width="50%">
-
-team_billing
-
-</td><td width="50%">
-
-Team Billing
-
-</td></tr>
-<tr><td width="50%">
-
-team_members
-
-</td><td width="50%">
-
-Team Members
-
-</td></tr>
-<tr><td width="50%">
-
-team_settings
-
-</td><td width="50%">
-
-Team Settings
-
-</td></tr>
-<tr><td width="50%">
-
-team_slug
-
-</td><td width="50%">
-
-Team Slug
-
-</td></tr>
-<tr><td width="50%">
-
-team_trial
-
-</td><td width="50%">
-
-Team Trial
-
-</td></tr>
-<tr><td width="50%">
-
-team_trial_will_expire_on
-
-</td><td width="50%">
-
-The team's trial period will expire on :date.
-
-</td></tr>
-<tr><td width="50%">
-
-teams_currently_trialing
-
-</td><td width="50%">
-
-Teams Currently Trialing
-
-</td></tr>
-<tr><td width="50%">
-
-update_team_name
-
-</td><td width="50%">
-
-Update Team Name
-
-</td></tr>
-<tr><td width="50%">
-
-user_already_invited_to_team
-
-</td><td width="50%">
-
-That user is already invited to the team.
-
-</td></tr>
-<tr><td width="50%">
-
-user_already_on_team
-
-</td><td width="50%">
-
-That user is already on the team.
-
-</td></tr>
-<tr><td width="50%">
-
-user_doesnt_belong_to_team
-
-</td><td width="50%">
-
-The user does not belong to the given team.
-
-</td></tr>
-<tr><td width="50%">
-
-vat_id
-
-</td><td width="50%">
-
-This VAT identification number is invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-view_all_teams
-
-</td><td width="50%">
-
-View All Teams
-
-</td></tr>
-<tr><td width="50%">
-
-we_found_invitation_to_team
-
-</td><td width="50%">
-
-We found your invitation to the :teamName team!
-
-</td></tr>
-<tr><td width="50%">
-
-wheres_your_team
-
-</td><td width="50%">
-
-Where's Your Team?
-
-</td></tr>
-<tr><td width="50%">
-
-you_have_been_invited_to_join_team
-
-</td><td width="50%">
-
-You have been invited to join the :teamName team!
-
-</td></tr>
-<tr><td width="50%">
-
-you_have_x_teams_remaining
-
-</td><td width="50%">
-
-You currently have :teamCount teams remaining.
 
 </td></tr>
 </table>

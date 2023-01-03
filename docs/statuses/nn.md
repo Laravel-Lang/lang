@@ -4,7 +4,7 @@ editLink: false
 
 # nn
 
-##### All missed: 1136
+##### All missed: 1151
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 1026
+##### Missing: 1041
 
 <table width="100%">
 <tr><th width="50%">
@@ -1753,6 +1753,15 @@ Confirm
 </td></tr>
 <tr><td width="50%">
 
+Confirm Billing Action
+
+</td><td width="50%">
+
+Confirm Billing Action
+
+</td></tr>
+<tr><td width="50%">
+
 Confirm Payment
 
 </td><td width="50%">
@@ -2073,6 +2082,15 @@ Currently Subscribed
 </td><td width="50%">
 
 Currently Subscribed
+
+</td></tr>
+<tr><td width="50%">
+
+Customer Balance
+
+</td><td width="50%">
+
+Customer Balance
 
 </td></tr>
 <tr><td width="50%">
@@ -4768,6 +4786,15 @@ Next
 </td></tr>
 <tr><td width="50%">
 
+Next Payment
+
+</td><td width="50%">
+
+Next Payment
+
+</td></tr>
+<tr><td width="50%">
+
 Nicaragua
 
 </td><td width="50%">
@@ -4872,6 +4899,24 @@ No Increase
 </td><td width="50%">
 
 No Increase
+
+</td></tr>
+<tr><td width="50%">
+
+No payment method on file.
+
+</td><td width="50%">
+
+No payment method on file.
+
+</td></tr>
+<tr><td width="50%">
+
+No payment scheduled.
+
+</td><td width="50%">
+
+No payment scheduled.
 
 </td></tr>
 <tr><td width="50%">
@@ -5178,6 +5223,15 @@ Pagination Navigation
 </td><td width="50%">
 
 Pagination Navigation
+
+</td></tr>
+<tr><td width="50%">
+
+Paid
+
+</td><td width="50%">
+
+Paid
 
 </td></tr>
 <tr><td width="50%">
@@ -5848,6 +5902,15 @@ Replicate
 </td></tr>
 <tr><td width="50%">
 
+Required fields
+
+</td><td width="50%">
+
+Required fields
+
+</td></tr>
+<tr><td width="50%">
+
 Resend Verification Email
 
 </td><td width="50%">
@@ -5961,6 +6024,15 @@ Resuming
 </td><td width="50%">
 
 Resuming
+
+</td></tr>
+<tr><td width="50%">
+
+Retry Payment
+
+</td><td width="50%">
+
+Retry Payment
 
 </td></tr>
 <tr><td width="50%">
@@ -6528,6 +6600,15 @@ Since you already have an account, you may accept the invitation from your accou
 </td><td width="50%">
 
 Since you already have an account, you may accept the invitation from your account settings screen.
+
+</td></tr>
+<tr><td width="50%">
+
+Since you have a cash balance sufficient to begin a subscription, providing a payment method is not required. You may leave this field empty if you wish to begin a subscription using your cash balance.
+
+</td><td width="50%">
+
+Since you have a cash balance sufficient to begin a subscription, providing a payment method is not required. You may leave this field empty if you wish to begin a subscription using your cash balance.
 
 </td></tr>
 <tr><td width="50%">
@@ -7720,6 +7801,15 @@ This invitation code is invalid.
 </td></tr>
 <tr><td width="50%">
 
+This invoice is no longer open.
+
+</td><td width="50%">
+
+This invoice is no longer open.
+
+</td></tr>
+<tr><td width="50%">
+
 This is a secure area of the application. Please confirm your password before continuing.
 
 </td><td width="50%">
@@ -7977,6 +8067,15 @@ Tonga
 </td><td width="50%">
 
 Tonga
+
+</td></tr>
+<tr><td width="50%">
+
+Top Up Balance
+
+</td><td width="50%">
+
+Top Up Balance
 
 </td></tr>
 <tr><td width="50%">
@@ -8238,6 +8337,15 @@ Unknown
 </td><td width="50%">
 
 Unknown
+
+</td></tr>
+<tr><td width="50%">
+
+Unpaid
+
+</td><td width="50%">
+
+Unpaid
 
 </td></tr>
 <tr><td width="50%">
@@ -8971,6 +9079,15 @@ You are currently within your free trial period. Your trial will expire on :date
 </td></tr>
 <tr><td width="50%">
 
+You are currently within your free trial period. Your trial will expire on :date. Starting a new subscription will end your trial.
+
+</td><td width="50%">
+
+You are currently within your free trial period. Your trial will expire on :date. Starting a new subscription will end your trial.
+
+</td></tr>
+<tr><td width="50%">
+
 You are logged in!
 
 </td><td width="50%">
@@ -9084,6 +9201,15 @@ You have not enabled two factor authentication.
 </td><td width="50%">
 
 You have not enabled two factor authentication.
+
+</td></tr>
+<tr><td width="50%">
+
+You have some unpaid invoices. After updating your payment method, you may retry the payments via the invoice list below.
+
+</td><td width="50%">
+
+You have some unpaid invoices. After updating your payment method, you may retry the payments via the invoice list below.
 
 </td></tr>
 <tr><td width="50%">
@@ -9264,6 +9390,15 @@ Your email address is unverified.
 </td><td width="50%">
 
 Your email address is unverified.
+
+</td></tr>
+<tr><td width="50%">
+
+Your next payment of :amount will be processed on :date.
+
+</td><td width="50%">
+
+Your next payment of :amount will be on :date.
 
 </td></tr>
 <tr><td width="50%">

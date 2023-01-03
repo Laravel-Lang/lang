@@ -4,12 +4,12 @@ editLink: false
 
 # th
 
-##### All missed: 359
+##### All missed: 374
 
 
 ### json
 
-##### Missing: 314
+##### Missing: 329
 
 <table width="100%">
 <tr><th width="50%">
@@ -347,6 +347,15 @@ Colorado
 </td></tr>
 <tr><td width="50%">
 
+Confirm Billing Action
+
+</td><td width="50%">
+
+Confirm Billing Action
+
+</td></tr>
+<tr><td width="50%">
+
 Connecticut
 
 </td><td width="50%">
@@ -415,6 +424,15 @@ Created
 </td><td width="50%">
 
 Created
+
+</td></tr>
+<tr><td width="50%">
+
+Customer Balance
+
+</td><td width="50%">
+
+Customer Balance
 
 </td></tr>
 <tr><td width="50%">
@@ -1211,11 +1229,38 @@ Newfoundland and Labrador
 </td></tr>
 <tr><td width="50%">
 
+Next Payment
+
+</td><td width="50%">
+
+Next Payment
+
+</td></tr>
+<tr><td width="50%">
+
 No customer support request recipient is defined.
 
 </td><td width="50%">
 
 No customer support request recipient is defined.
+
+</td></tr>
+<tr><td width="50%">
+
+No payment method on file.
+
+</td><td width="50%">
+
+No payment method on file.
+
+</td></tr>
+<tr><td width="50%">
+
+No payment scheduled.
+
+</td><td width="50%">
+
+No payment scheduled.
 
 </td></tr>
 <tr><td width="50%">
@@ -1360,6 +1405,15 @@ Owner
 </td><td width="50%">
 
 Owner
+
+</td></tr>
+<tr><td width="50%">
+
+Paid
+
+</td><td width="50%">
+
+Paid
 
 </td></tr>
 <tr><td width="50%">
@@ -1553,6 +1607,15 @@ Remove All Abilities
 </td></tr>
 <tr><td width="50%">
 
+Required fields
+
+</td><td width="50%">
+
+Required fields
+
+</td></tr>
+<tr><td width="50%">
+
 Resume
 
 </td><td width="50%">
@@ -1567,6 +1630,15 @@ Resuming
 </td><td width="50%">
 
 Resuming
+
+</td></tr>
+<tr><td width="50%">
+
+Retry Payment
+
+</td><td width="50%">
+
+Retry Payment
 
 </td></tr>
 <tr><td width="50%">
@@ -1702,6 +1774,15 @@ Since you already have an account, you may accept the invitation from your accou
 </td><td width="50%">
 
 Since you already have an account, you may accept the invitation from your account settings screen.
+
+</td></tr>
+<tr><td width="50%">
+
+Since you have a cash balance sufficient to begin a subscription, providing a payment method is not required. You may leave this field empty if you wish to begin a subscription using your cash balance.
+
+</td><td width="50%">
+
+Since you have a cash balance sufficient to begin a subscription, providing a payment method is not required. You may leave this field empty if you wish to begin a subscription using your cash balance.
 
 </td></tr>
 <tr><td width="50%">
@@ -1958,6 +2039,15 @@ This invitation code is invalid.
 </td></tr>
 <tr><td width="50%">
 
+This invoice is no longer open.
+
+</td><td width="50%">
+
+This invoice is no longer open.
+
+</td></tr>
+<tr><td width="50%">
+
 This is the only time the token will ever be displayed, so be sure not to lose it!
 
 </td><td width="50%">
@@ -2066,6 +2156,15 @@ Token Can
 </td></tr>
 <tr><td width="50%">
 
+Top Up Balance
+
+</td><td width="50%">
+
+Top Up Balance
+
+</td></tr>
+<tr><td width="50%">
+
 Total Price Including Tax
 
 </td><td width="50%">
@@ -2134,6 +2233,15 @@ Two-Factor Authentication Reset Code
 </td><td width="50%">
 
 Two-Factor Authentication Reset Code
+
+</td></tr>
+<tr><td width="50%">
+
+Unpaid
+
+</td><td width="50%">
+
+Unpaid
 
 </td></tr>
 <tr><td width="50%">
@@ -2597,6 +2705,15 @@ You are currently subscribed to the :planName plan.
 </td></tr>
 <tr><td width="50%">
 
+You are currently within your free trial period. Your trial will expire on :date. Starting a new subscription will end your trial.
+
+</td><td width="50%">
+
+You are currently within your free trial period. Your trial will expire on :date. Starting a new subscription will end your trial.
+
+</td></tr>
+<tr><td width="50%">
+
 You are not eligible for this plan.
 
 </td><td width="50%">
@@ -2674,6 +2791,15 @@ You have cancelled your subscription to the :planName plan.
 </td><td width="50%">
 
 You have cancelled your subscription to the :planName plan.
+
+</td></tr>
+<tr><td width="50%">
+
+You have some unpaid invoices. After updating your payment method, you may retry the payments via the invoice list below.
+
+</td><td width="50%">
+
+You have some unpaid invoices. After updating your payment method, you may retry the payments via the invoice list below.
 
 </td></tr>
 <tr><td width="50%">
@@ -2755,6 +2881,15 @@ Your Email Address
 </td><td width="50%">
 
 Your Email Address
+
+</td></tr>
+<tr><td width="50%">
+
+Your next payment of :amount will be processed on :date.
+
+</td><td width="50%">
+
+Your next payment of :amount will be on :date.
 
 </td></tr>
 <tr><td width="50%">

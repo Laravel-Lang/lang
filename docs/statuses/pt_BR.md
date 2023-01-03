@@ -4,12 +4,12 @@ editLink: false
 
 # pt_BR
 
-##### All missed: 210
+##### All missed: 180
 
 
 ### json
 
-##### Missing: 210
+##### Missing: 180
 
 <table width="100%">
 <tr><th width="50%">
@@ -1310,137 +1310,11 @@ Trialing
 </td></tr>
 <tr><td width="50%">
 
-Two-Factor Authentication
-
-</td><td width="50%">
-
-Two-Factor Authentication
-
-</td></tr>
-<tr><td width="50%">
-
-Two-Factor Authentication Reset Code
-
-</td><td width="50%">
-
-Two-Factor Authentication Reset Code
-
-</td></tr>
-<tr><td width="50%">
-
-Unpaid
-
-</td><td width="50%">
-
-Unpaid
-
-</td></tr>
-<tr><td width="50%">
-
-Update Announcement
-
-</td><td width="50%">
-
-Update Announcement
-
-</td></tr>
-<tr><td width="50%">
-
-Update Billing Address
-
-</td><td width="50%">
-
-Update Billing Address
-
-</td></tr>
-<tr><td width="50%">
-
-Update Photo
-
-</td><td width="50%">
-
-Update Photo
-
-</td></tr>
-<tr><td width="50%">
-
-Update Subscription
-
-</td><td width="50%">
-
-Update Subscription
-
-</td></tr>
-<tr><td width="50%">
-
-Update VAT ID
-
-</td><td width="50%">
-
-Update VAT ID
-
-</td></tr>
-<tr><td width="50%">
-
-Updating
-
-</td><td width="50%">
-
-Updating
-
-</td></tr>
-<tr><td width="50%">
-
-Users
-
-</td><td width="50%">
-
-Users
-
-</td></tr>
-<tr><td width="50%">
-
-Users Currently Trialing
-
-</td><td width="50%">
-
-Users Currently Trialing
-
-</td></tr>
-<tr><td width="50%">
-
-VAT ID
-
-</td><td width="50%">
-
-VAT ID
-
-</td></tr>
-<tr><td width="50%">
-
-Verify
-
-</td><td width="50%">
-
-Verify
-
-</td></tr>
-<tr><td width="50%">
-
 Vermont
 
 </td><td width="50%">
 
 Vermont
-
-</td></tr>
-<tr><td width="50%">
-
-View Invitations
-
-</td><td width="50%">
-
-View Invitations
 
 </td></tr>
 <tr><td width="50%">
@@ -1522,105 +1396,6 @@ We were unable to update your subscription. Please contact customer support.
 </td><td width="50%">
 
 We were unable to update your subscription. Please contact customer support.
-
-</td></tr>
-<tr><td width="50%">
-
-Welcome to your new subscription.
-
-</td><td width="50%">
-
-Welcome to your new subscription.
-
-</td></tr>
-<tr><td width="50%">
-
-Whoops! This coupon code is invalid.
-
-</td><td width="50%">
-
-Whoops! This coupon code is invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-Whoops! This invitation code is invalid.
-
-</td><td width="50%">
-
-Whoops! This invitation code is invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-yearly
-
-</td><td width="50%">
-
-yearly
-
-</td></tr>
-<tr><td width="50%">
-
-Yearly Recurring Revenue
-
-</td><td width="50%">
-
-Yearly Recurring Revenue
-
-</td></tr>
-<tr><td width="50%">
-
-Yes, Cancel
-
-</td><td width="50%">
-
-Yes, Cancel
-
-</td></tr>
-<tr><td width="50%">
-
-Yes, Delete
-
-</td><td width="50%">
-
-Yes, Delete
-
-</td></tr>
-<tr><td width="50%">
-
-Yes, I'm Sure
-
-</td><td width="50%">
-
-Yes, I'm Sure
-
-</td></tr>
-<tr><td width="50%">
-
-Yes, Leave
-
-</td><td width="50%">
-
-Yes, Leave
-
-</td></tr>
-<tr><td width="50%">
-
-Yes, Remove
-
-</td><td width="50%">
-
-Yes, Remove
-
-</td></tr>
-<tr><td width="50%">
-
-You
-
-</td><td width="50%">
-
-You
 
 </td></tr>
 <tr><td width="50%">
@@ -1751,15 +1526,6 @@ You will be redirected to Mollie's checkout.
 </td></tr>
 <tr><td width="50%">
 
-Your application's dashboard.
-
-</td><td width="50%">
-
-Your application's Dashboard
-
-</td></tr>
-<tr><td width="50%">
-
 Your billing address has been updated!
 
 </td><td width="50%">
@@ -1801,15 +1567,6 @@ Your current plan doesn't allow you to invite more members, please upgrade your 
 </td><td width="50%">
 
 Your current plan doesn't allow you to invite more members, please upgrade your subscription.
-
-</td></tr>
-<tr><td width="50%">
-
-Your Email Address
-
-</td><td width="50%">
-
-Your Email Address
 
 </td></tr>
 <tr><td width="50%">
@@ -1868,24 +1625,6 @@ Your session has expired. Please login again to continue.
 </td></tr>
 <tr><td width="50%">
 
-Your Settings
-
-</td><td width="50%">
-
-Your Settings
-
-</td></tr>
-<tr><td width="50%">
-
-Your VAT ID has been updated!
-
-</td><td width="50%">
-
-Your VAT ID has been updated!
-
-</td></tr>
-<tr><td width="50%">
-
 yr
 
 </td><td width="50%">
@@ -1900,15 +1639,6 @@ Yukon
 </td><td width="50%">
 
 Yukon
-
-</td></tr>
-<tr><td width="50%">
-
-ZIP / Postal Code
-
-</td><td width="50%">
-
-ZIP / Postal Code
 
 </td></tr>
 </table>

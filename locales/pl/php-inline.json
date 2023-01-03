@@ -18,7 +18,7 @@
     "between.string": "Pole musi zawierać się w granicach :min - :max znaków.",
     "boolean": "Pole musi mieć wartość logiczną prawda albo fałsz.",
     "confirmed": "Potwierdzenie pola nie zgadza się.",
-    "country": "This field is not a valid country.",
+    "country": "To pole nie zawiera prawidłowego kraju.",
     "date": "Pole nie jest prawidłową datą.",
     "date_equals": "Pole musi być datą równą :date.",
     "date_format": "Pole nie jest w formacie :format.",
@@ -54,7 +54,7 @@
     "ipv4": "Pole musi być prawidłowym adresem IPv4.",
     "ipv6": "Pole musi być prawidłowym adresem IPv6.",
     "json": "Pole musi być poprawnym ciągiem znaków JSON.",
-    "lowercase": "This field must be lowercase.",
+    "lowercase": "To pole musi być pisane małymi literami.",
     "lt.array": "Pole musi mieć mniej niż :value elementów.",
     "lt.file": "Pole musi być mniejsze niż :value kilobajtów.",
     "lt.numeric": "Pole musi być mniejsze niż :value.",
@@ -112,7 +112,7 @@
     "ulid": "To pole musi zawierać prawidłowy identyfikator ULID.",
     "unique": "Taka wartość już występuje.",
     "uploaded": "Nie udało się wgrać pliku.",
-    "uppercase": "This field must be uppercase.",
+    "uppercase": "To pole musi być pisane wielkimi literami.",
     "url": "Format pola jest nieprawidłowy.",
     "uuid": "Pole musi być poprawnym identyfikatorem UUID."
 }

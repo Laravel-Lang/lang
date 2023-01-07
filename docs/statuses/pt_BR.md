@@ -4,12 +4,12 @@ editLink: false
 
 # pt_BR
 
-##### All missed: 180
+##### All missed: 143
 
 
 ### json
 
-##### Missing: 180
+##### Missing: 143
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,33 +23,6 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-Action Button Text
-
-</td><td width="50%">
-
-Action Button Text
-
-</td></tr>
-<tr><td width="50%">
-
-Action Button URL
-
-</td><td width="50%">
-
-Action Button URL
-
-</td></tr>
-<tr><td width="50%">
-
-Add Discount
-
-</td><td width="50%">
-
-Add Discount
-
-</td></tr>
-<tr><td width="50%">
-
 After logging in via your emergency token, two-factor authentication will be disabled for your account. If you would like to maintain two-factor authentication security, you should re-enable it after logging in.
 
 </td><td width="50%">
@@ -73,15 +46,6 @@ All subscription plan prices include applicable VAT.
 </td><td width="50%">
 
 All subscription plan prices include applicable VAT.
-
-</td></tr>
-<tr><td width="50%">
-
-Amount
-
-</td><td width="50%">
-
-Amount
 
 </td></tr>
 <tr><td width="50%">
@@ -131,33 +95,6 @@ Are you sure you want to switch to the :planName plan?
 </td></tr>
 <tr><td width="50%">
 
-Assign All Abilities
-
-</td><td width="50%">
-
-Assign All Abilities
-
-</td></tr>
-<tr><td width="50%">
-
-Authentication Token
-
-</td><td width="50%">
-
-Authentication Token
-
-</td></tr>
-<tr><td width="50%">
-
-Back To My Account
-
-</td><td width="50%">
-
-Back To My Account
-
-</td></tr>
-<tr><td width="50%">
-
 British Columbia
 
 </td><td width="50%">
@@ -176,128 +113,11 @@ Cardholder's Name
 </td></tr>
 <tr><td width="50%">
 
-Click here to reset your password:
-
-</td><td width="50%">
-
-Click here to reset your password:
-
-</td></tr>
-<tr><td width="50%">
-
-Confirm Billing Action
-
-</td><td width="50%">
-
-Confirm Billing Action
-
-</td></tr>
-<tr><td width="50%">
-
-Connecticut
-
-</td><td width="50%">
-
-Connecticut
-
-</td></tr>
-<tr><td width="50%">
-
 Coupon accepted! The discount will be applied to your next invoice.
 
 </td><td width="50%">
 
 Coupon accepted! The discount will be applied to your next invoice.
-
-</td></tr>
-<tr><td width="50%">
-
-Customer Balance
-
-</td><td width="50%">
-
-Customer Balance
-
-</td></tr>
-<tr><td width="50%">
-
-Daily Volume
-
-</td><td width="50%">
-
-Daily Volume
-
-</td></tr>
-<tr><td width="50%">
-
-Delaware
-
-</td><td width="50%">
-
-Delaware
-
-</td></tr>
-<tr><td width="50%">
-
-Delete Announcement
-
-</td><td width="50%">
-
-Delete Announcement
-
-</td></tr>
-<tr><td width="50%">
-
-Disable Two-Factor Authentication
-
-</td><td width="50%">
-
-Disable Two-Factor Authentication
-
-</td></tr>
-<tr><td width="50%">
-
-District of Columbia
-
-</td><td width="50%">
-
-District of Columbia
-
-</td></tr>
-<tr><td width="50%">
-
-E-Mail
-
-</td><td width="50%">
-
-E-Mail
-
-</td></tr>
-<tr><td width="50%">
-
-E-Mail Address
-
-</td><td width="50%">
-
-E-Mail Address
-
-</td></tr>
-<tr><td width="50%">
-
-Features
-
-</td><td width="50%">
-
-Features
-
-</td></tr>
-<tr><td width="50%">
-
-Federated States Of Micronesia
-
-</td><td width="50%">
-
-Federated States Of Micronesia
 
 </td></tr>
 <tr><td width="50%">
@@ -316,24 +136,6 @@ Free
 </td><td width="50%">
 
 Free
-
-</td></tr>
-<tr><td width="50%">
-
-Got It!
-
-</td><td width="50%">
-
-Got It!
-
-</td></tr>
-<tr><td width="50%">
-
-Here is your new API token.
-
-</td><td width="50%">
-
-Here is your new API token.
 
 </td></tr>
 <tr><td width="50%">
@@ -374,51 +176,6 @@ In order to use two-factor authentication, you must install the :authyLink appli
 </td></tr>
 <tr><td width="50%">
 
-Iowa
-
-</td><td width="50%">
-
-Iowa
-
-</td></tr>
-<tr><td width="50%">
-
-Lost Your Device?
-
-</td><td width="50%">
-
-Lost Your Device?
-
-</td></tr>
-<tr><td width="50%">
-
-Mailed Invitations
-
-</td><td width="50%">
-
-Mailed Invitations
-
-</td></tr>
-<tr><td width="50%">
-
-Massachusetts
-
-</td><td width="50%">
-
-Massachusetts
-
-</td></tr>
-<tr><td width="50%">
-
-Membership
-
-</td><td width="50%">
-
-Membership
-
-</td></tr>
-<tr><td width="50%">
-
 mo
 
 </td><td width="50%">
@@ -428,83 +185,11 @@ mo
 </td></tr>
 <tr><td width="50%">
 
-Monthly Recurring Revenue
-
-</td><td width="50%">
-
-Monthly Recurring Revenue
-
-</td></tr>
-<tr><td width="50%">
-
-Months
-
-</td><td width="50%">
-
-Months
-
-</td></tr>
-<tr><td width="50%">
-
-Multiple Months
-
-</td><td width="50%">
-
-Multiple Months
-
-</td></tr>
-<tr><td width="50%">
-
 N/A
 
 </td><td width="50%">
 
 N/A
-
-</td></tr>
-<tr><td width="50%">
-
-New Invitation!
-
-</td><td width="50%">
-
-New Invitation!
-
-</td></tr>
-<tr><td width="50%">
-
-New Users
-
-</td><td width="50%">
-
-New Users
-
-</td></tr>
-<tr><td width="50%">
-
-Newfoundland and Labrador
-
-</td><td width="50%">
-
-Newfoundland and Labrador
-
-</td></tr>
-<tr><td width="50%">
-
-Next Payment
-
-</td><td width="50%">
-
-Next Payment
-
-</td></tr>
-<tr><td width="50%">
-
-No customer support request recipient is defined.
-
-</td><td width="50%">
-
-No customer support request recipient is defined.
 
 </td></tr>
 <tr><td width="50%">
@@ -1306,15 +991,6 @@ Trialing
 </td><td width="50%">
 
 Trialing
-
-</td></tr>
-<tr><td width="50%">
-
-Vermont
-
-</td><td width="50%">
-
-Vermont
 
 </td></tr>
 <tr><td width="50%">
@@ -1630,15 +1306,6 @@ yr
 </td><td width="50%">
 
 yr
-
-</td></tr>
-<tr><td width="50%">
-
-Yukon
-
-</td><td width="50%">
-
-Yukon
 
 </td></tr>
 </table>

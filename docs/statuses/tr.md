@@ -4,7 +4,7 @@ editLink: false
 
 # tr
 
-##### All missed: 158
+##### All missed: 160
 
 
 ### json
@@ -1441,6 +1441,44 @@ ZIP / Postal Code
 </td><td width="50%">
 
 ZIP / Postal Code
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php
+
+##### Missing: 2
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+are_you_sure_you_want_to_delete_member
+
+</td><td width="50%">
+
+ Are you sure you want to remove this team member?
+
+</td></tr>
+<tr><td width="50%">
+
+leave_team
+
+</td><td width="50%">
+
+ Leave Team
 
 </td></tr>
 </table>

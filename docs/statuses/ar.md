@@ -4,7 +4,7 @@ editLink: false
 
 # ar
 
-##### All missed: 22
+##### All missed: 23
 
 
 ### json
@@ -218,7 +218,7 @@ You have some unpaid invoices. After updating your payment method, you may retry
 
 ### php
 
-##### Missing: 1
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -237,6 +237,15 @@ attributes.team
 </td><td width="50%">
 
 team
+
+</td></tr>
+<tr><td width="50%">
+
+leave_team
+
+</td><td width="50%">
+
+ Leave Team
 
 </td></tr>
 </table>

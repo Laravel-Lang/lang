@@ -65,7 +65,7 @@
     "ipv4": "يجب أن يكون حقل :attribute عنوان IPv4 صحيحًا.",
     "ipv6": "يجب أن يكون حقل :attribute عنوان IPv6 صحيحًا.",
     "json": "يجب أن يكون حقل :attribute نصًا من نوع JSON.",
-    "leave_team": "Leave Team",
+    "leave_team": " Leave Team",
     "looks_like_you_are_not_part_of_team": "يبدو أنك لا تنتمي إلى أي فريق!",
     "lowercase": "يجب أن يحتوي الحقل :attribute على حروف صغيرة.",
     "lt.array": "يجب أن يحتوي حقل :attribute على أقل من :value عناصر/عنصر.",

@@ -4,12 +4,12 @@ editLink: false
 
 # pt_BR
 
-##### All missed: 180
+##### All missed: 106
 
 
 ### json
 
-##### Missing: 180
+##### Missing: 93
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,33 +23,6 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-Action Button Text
-
-</td><td width="50%">
-
-Action Button Text
-
-</td></tr>
-<tr><td width="50%">
-
-Action Button URL
-
-</td><td width="50%">
-
-Action Button URL
-
-</td></tr>
-<tr><td width="50%">
-
-Add Discount
-
-</td><td width="50%">
-
-Add Discount
-
-</td></tr>
-<tr><td width="50%">
-
 After logging in via your emergency token, two-factor authentication will be disabled for your account. If you would like to maintain two-factor authentication security, you should re-enable it after logging in.
 
 </td><td width="50%">
@@ -73,15 +46,6 @@ All subscription plan prices include applicable VAT.
 </td><td width="50%">
 
 All subscription plan prices include applicable VAT.
-
-</td></tr>
-<tr><td width="50%">
-
-Amount
-
-</td><td width="50%">
-
-Amount
 
 </td></tr>
 <tr><td width="50%">
@@ -131,33 +95,6 @@ Are you sure you want to switch to the :planName plan?
 </td></tr>
 <tr><td width="50%">
 
-Assign All Abilities
-
-</td><td width="50%">
-
-Assign All Abilities
-
-</td></tr>
-<tr><td width="50%">
-
-Authentication Token
-
-</td><td width="50%">
-
-Authentication Token
-
-</td></tr>
-<tr><td width="50%">
-
-Back To My Account
-
-</td><td width="50%">
-
-Back To My Account
-
-</td></tr>
-<tr><td width="50%">
-
 British Columbia
 
 </td><td width="50%">
@@ -176,128 +113,11 @@ Cardholder's Name
 </td></tr>
 <tr><td width="50%">
 
-Click here to reset your password:
-
-</td><td width="50%">
-
-Click here to reset your password:
-
-</td></tr>
-<tr><td width="50%">
-
-Confirm Billing Action
-
-</td><td width="50%">
-
-Confirm Billing Action
-
-</td></tr>
-<tr><td width="50%">
-
-Connecticut
-
-</td><td width="50%">
-
-Connecticut
-
-</td></tr>
-<tr><td width="50%">
-
 Coupon accepted! The discount will be applied to your next invoice.
 
 </td><td width="50%">
 
 Coupon accepted! The discount will be applied to your next invoice.
-
-</td></tr>
-<tr><td width="50%">
-
-Customer Balance
-
-</td><td width="50%">
-
-Customer Balance
-
-</td></tr>
-<tr><td width="50%">
-
-Daily Volume
-
-</td><td width="50%">
-
-Daily Volume
-
-</td></tr>
-<tr><td width="50%">
-
-Delaware
-
-</td><td width="50%">
-
-Delaware
-
-</td></tr>
-<tr><td width="50%">
-
-Delete Announcement
-
-</td><td width="50%">
-
-Delete Announcement
-
-</td></tr>
-<tr><td width="50%">
-
-Disable Two-Factor Authentication
-
-</td><td width="50%">
-
-Disable Two-Factor Authentication
-
-</td></tr>
-<tr><td width="50%">
-
-District of Columbia
-
-</td><td width="50%">
-
-District of Columbia
-
-</td></tr>
-<tr><td width="50%">
-
-E-Mail
-
-</td><td width="50%">
-
-E-Mail
-
-</td></tr>
-<tr><td width="50%">
-
-E-Mail Address
-
-</td><td width="50%">
-
-E-Mail Address
-
-</td></tr>
-<tr><td width="50%">
-
-Features
-
-</td><td width="50%">
-
-Features
-
-</td></tr>
-<tr><td width="50%">
-
-Federated States Of Micronesia
-
-</td><td width="50%">
-
-Federated States Of Micronesia
 
 </td></tr>
 <tr><td width="50%">
@@ -316,24 +136,6 @@ Free
 </td><td width="50%">
 
 Free
-
-</td></tr>
-<tr><td width="50%">
-
-Got It!
-
-</td><td width="50%">
-
-Got It!
-
-</td></tr>
-<tr><td width="50%">
-
-Here is your new API token.
-
-</td><td width="50%">
-
-Here is your new API token.
 
 </td></tr>
 <tr><td width="50%">
@@ -374,83 +176,11 @@ In order to use two-factor authentication, you must install the :authyLink appli
 </td></tr>
 <tr><td width="50%">
 
-Iowa
-
-</td><td width="50%">
-
-Iowa
-
-</td></tr>
-<tr><td width="50%">
-
-Lost Your Device?
-
-</td><td width="50%">
-
-Lost Your Device?
-
-</td></tr>
-<tr><td width="50%">
-
-Mailed Invitations
-
-</td><td width="50%">
-
-Mailed Invitations
-
-</td></tr>
-<tr><td width="50%">
-
-Massachusetts
-
-</td><td width="50%">
-
-Massachusetts
-
-</td></tr>
-<tr><td width="50%">
-
-Membership
-
-</td><td width="50%">
-
-Membership
-
-</td></tr>
-<tr><td width="50%">
-
 mo
 
 </td><td width="50%">
 
 mo
-
-</td></tr>
-<tr><td width="50%">
-
-Monthly Recurring Revenue
-
-</td><td width="50%">
-
-Monthly Recurring Revenue
-
-</td></tr>
-<tr><td width="50%">
-
-Months
-
-</td><td width="50%">
-
-Months
-
-</td></tr>
-<tr><td width="50%">
-
-Multiple Months
-
-</td><td width="50%">
-
-Multiple Months
 
 </td></tr>
 <tr><td width="50%">
@@ -464,168 +194,6 @@ N/A
 </td></tr>
 <tr><td width="50%">
 
-New Invitation!
-
-</td><td width="50%">
-
-New Invitation!
-
-</td></tr>
-<tr><td width="50%">
-
-New Users
-
-</td><td width="50%">
-
-New Users
-
-</td></tr>
-<tr><td width="50%">
-
-Newfoundland and Labrador
-
-</td><td width="50%">
-
-Newfoundland and Labrador
-
-</td></tr>
-<tr><td width="50%">
-
-Next Payment
-
-</td><td width="50%">
-
-Next Payment
-
-</td></tr>
-<tr><td width="50%">
-
-No customer support request recipient is defined.
-
-</td><td width="50%">
-
-No customer support request recipient is defined.
-
-</td></tr>
-<tr><td width="50%">
-
-No payment method on file.
-
-</td><td width="50%">
-
-No payment method on file.
-
-</td></tr>
-<tr><td width="50%">
-
-No payment scheduled.
-
-</td><td width="50%">
-
-No payment scheduled.
-
-</td></tr>
-<tr><td width="50%">
-
-No users matched the given criteria.
-
-</td><td width="50%">
-
-No users matched the given criteria.
-
-</td></tr>
-<tr><td width="50%">
-
-No, Go Back
-
-</td><td width="50%">
-
-No, Go Back
-
-</td></tr>
-<tr><td width="50%">
-
-None
-
-</td><td width="50%">
-
-None
-
-</td></tr>
-<tr><td width="50%">
-
-Oh no!
-
-</td><td width="50%">
-
-Oh no!
-
-</td></tr>
-<tr><td width="50%">
-
-On Generic Trial
-
-</td><td width="50%">
-
-On Generic Trial
-
-</td></tr>
-<tr><td width="50%">
-
-Once
-
-</td><td width="50%">
-
-Once
-
-</td></tr>
-<tr><td width="50%">
-
-Owner
-
-</td><td width="50%">
-
-Owner
-
-</td></tr>
-<tr><td width="50%">
-
-Paid
-
-</td><td width="50%">
-
-Paid
-
-</td></tr>
-<tr><td width="50%">
-
-Pending Invitations
-
-</td><td width="50%">
-
-Pending Invitations
-
-</td></tr>
-<tr><td width="50%">
-
-Percentage
-
-</td><td width="50%">
-
-Percentage
-
-</td></tr>
-<tr><td width="50%">
-
-Phone Number
-
-</td><td width="50%">
-
-Phone Number
-
-</td></tr>
-<tr><td width="50%">
-
 Please :linkOpen confirm your payment :linkClose to activate your subscription!
 
 </td><td width="50%">
@@ -635,290 +203,11 @@ Please :linkOpen confirm your payment :linkClose to activate your subscription!
 </td></tr>
 <tr><td width="50%">
 
-Please first register your billing address.
-
-</td><td width="50%">
-
-Please first register your billing address.
-
-</td></tr>
-<tr><td width="50%">
-
-Please first register your team's billing address.
-
-</td><td width="50%">
-
-Please first register your team's billing address.
-
-</td></tr>
-<tr><td width="50%">
-
-Please select at least one ability.
-
-</td><td width="50%">
-
-Please select at least one ability.
-
-</td></tr>
-<tr><td width="50%">
-
-please upgrade your subscription
-
-</td><td width="50%">
-
-please upgrade your subscription
-
-</td></tr>
-<tr><td width="50%">
-
-Postal Code
-
-</td><td width="50%">
-
-Postal Code
-
-</td></tr>
-<tr><td width="50%">
-
-Prince Edward Island
-
-</td><td width="50%">
-
-Prince Edward Island
-
-</td></tr>
-<tr><td width="50%">
-
-Profile Photo
-
-</td><td width="50%">
-
-Profile Photo
-
-</td></tr>
-<tr><td width="50%">
-
 Recent Announcements
 
 </td><td width="50%">
 
 Recent Announcements
-
-</td></tr>
-<tr><td width="50%">
-
-Recurring Revenue
-
-</td><td width="50%">
-
-Recurring Revenue
-
-</td></tr>
-<tr><td width="50%">
-
-Redeem
-
-</td><td width="50%">
-
-Redeem
-
-</td></tr>
-<tr><td width="50%">
-
-Redeem Coupon
-
-</td><td width="50%">
-
-Redeem Coupon
-
-</td></tr>
-<tr><td width="50%">
-
-Redeeming
-
-</td><td width="50%">
-
-Redeeming
-
-</td></tr>
-<tr><td width="50%">
-
-Redirecting
-
-</td><td width="50%">
-
-Redirecting
-
-</td></tr>
-<tr><td width="50%">
-
-Registering
-
-</td><td width="50%">
-
-Registering
-
-</td></tr>
-<tr><td width="50%">
-
-Remove All Abilities
-
-</td><td width="50%">
-
-Remove All Abilities
-
-</td></tr>
-<tr><td width="50%">
-
-Required fields
-
-</td><td width="50%">
-
-Required fields
-
-</td></tr>
-<tr><td width="50%">
-
-Resume
-
-</td><td width="50%">
-
-Resume
-
-</td></tr>
-<tr><td width="50%">
-
-Resuming
-
-</td><td width="50%">
-
-Resuming
-
-</td></tr>
-<tr><td width="50%">
-
-Retry Payment
-
-</td><td width="50%">
-
-Retry Payment
-
-</td></tr>
-<tr><td width="50%">
-
-Rhode Island
-
-</td><td width="50%">
-
-Rhode Island
-
-</td></tr>
-<tr><td width="50%">
-
-Search By Name Or E-Mail Address...
-
-</td><td width="50%">
-
-Search By Name Or E-Mail Address...
-
-</td></tr>
-<tr><td width="50%">
-
-Search Results
-
-</td><td width="50%">
-
-Search Results
-
-</td></tr>
-<tr><td width="50%">
-
-Searching
-
-</td><td width="50%">
-
-Searching
-
-</td></tr>
-<tr><td width="50%">
-
-second address line
-
-</td><td width="50%">
-
-second address line
-
-</td></tr>
-<tr><td width="50%">
-
-Security
-
-</td><td width="50%">
-
-Security
-
-</td></tr>
-<tr><td width="50%">
-
-Security Code
-
-</td><td width="50%">
-
-Security Code
-
-</td></tr>
-<tr><td width="50%">
-
-See you soon!
-
-</td><td width="50%">
-
-See you soon!
-
-</td></tr>
-<tr><td width="50%">
-
-Send
-
-</td><td width="50%">
-
-Send
-
-</td></tr>
-<tr><td width="50%">
-
-Send Invitation
-
-</td><td width="50%">
-
-Send Invitation
-
-</td></tr>
-<tr><td width="50%">
-
-Sending
-
-</td><td width="50%">
-
-Sending
-
-</td></tr>
-<tr><td width="50%">
-
-Session Expired
-
-</td><td width="50%">
-
-Session Expired
-
-</td></tr>
-<tr><td width="50%">
-
-Settings
-
-</td><td width="50%">
-
-Settings
 
 </td></tr>
 <tr><td width="50%">
@@ -941,15 +230,6 @@ Since you have a cash balance sufficient to begin a subscription, providing a pa
 </td></tr>
 <tr><td width="50%">
 
-Something went wrong!
-
-</td><td width="50%">
-
-Something went wrong!
-
-</td></tr>
-<tr><td width="50%">
-
 Something went wrong. Please try again or contact customer support.
 
 </td><td width="50%">
@@ -959,65 +239,11 @@ Something went wrong. Please try again or contact customer support.
 </td></tr>
 <tr><td width="50%">
 
-State
-
-</td><td width="50%">
-
-State
-
-</td></tr>
-<tr><td width="50%">
-
-State & ZIP / Postal Code
-
-</td><td width="50%">
-
-State & ZIP / Postal Code
-
-</td></tr>
-<tr><td width="50%">
-
 Subject
 
 </td><td width="50%">
 
 Subject
-
-</td></tr>
-<tr><td width="50%">
-
-Subscribers
-
-</td><td width="50%">
-
-Subscribers
-
-</td></tr>
-<tr><td width="50%">
-
-Subscribing
-
-</td><td width="50%">
-
-Subscribing
-
-</td></tr>
-<tr><td width="50%">
-
-Subscription
-
-</td><td width="50%">
-
-Subscription
-
-</td></tr>
-<tr><td width="50%">
-
-Support
-
-</td><td width="50%">
-
-Support
 
 </td></tr>
 <tr><td width="50%">
@@ -1306,15 +532,6 @@ Trialing
 </td><td width="50%">
 
 Trialing
-
-</td></tr>
-<tr><td width="50%">
-
-Vermont
-
-</td><td width="50%">
-
-Vermont
 
 </td></tr>
 <tr><td width="50%">
@@ -1625,6 +842,15 @@ Your session has expired. Please login again to continue.
 </td></tr>
 <tr><td width="50%">
 
+Your trial period will expire on 
+
+</td><td width="50%">
+
+Your trial period will expire on 
+
+</td></tr>
+<tr><td width="50%">
+
 yr
 
 </td><td width="50%">
@@ -1632,13 +858,141 @@ yr
 yr
 
 </td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php
+
+##### Missing: 13
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
 <tr><td width="50%">
 
-Yukon
+are_you_sure_you_want_to_delete_member
 
 </td><td width="50%">
 
-Yukon
+ Are you sure you want to remove this team member?
+
+</td></tr>
+<tr><td width="50%">
+
+current_teams
+
+</td><td width="50%">
+
+ Current Teams
+
+</td></tr>
+<tr><td width="50%">
+
+delete_team
+
+</td><td width="50%">
+
+ Delete Team
+
+</td></tr>
+<tr><td width="50%">
+
+edit_team_member
+
+</td><td width="50%">
+
+ Edit Team Member
+
+</td></tr>
+<tr><td width="50%">
+
+leave_team
+
+</td><td width="50%">
+
+ Leave Team
+
+</td></tr>
+<tr><td width="50%">
+
+member
+
+</td><td width="50%">
+
+ Member
+
+</td></tr>
+<tr><td width="50%">
+
+please_upgrade_to_add_more_members
+
+</td><td width="50%">
+
+ Please upgrade your subscription to add more team members.
+
+</td></tr>
+<tr><td width="50%">
+
+team
+
+</td><td width="50%">
+
+ Team
+
+</td></tr>
+<tr><td width="50%">
+
+team_name
+
+</td><td width="50%">
+
+ Team Name
+
+</td></tr>
+<tr><td width="50%">
+
+team_name_was_updated
+
+</td><td width="50%">
+
+ Your team name has been updated!
+
+</td></tr>
+<tr><td width="50%">
+
+team_photo
+
+</td><td width="50%">
+
+ Team Photo
+
+</td></tr>
+<tr><td width="50%">
+
+team_profile
+
+</td><td width="50%">
+
+ Team Profile
+
+</td></tr>
+<tr><td width="50%">
+
+you_have_x_invitations_remaining
+
+</td><td width="50%">
+
+ You currently have :count invitation(s) remaining.
 
 </td></tr>
 </table>

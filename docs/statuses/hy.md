@@ -4,7 +4,7 @@ editLink: false
 
 # hy
 
-##### All missed: 557
+##### All missed: 572
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 474
+##### Missing: 475
 
 <table width="100%">
 <tr><th width="50%">
@@ -4381,6 +4381,15 @@ Your Settings
 </td></tr>
 <tr><td width="50%">
 
+Your trial period will expire on 
+
+</td><td width="50%">
+
+Your trial period will expire on 
+
+</td></tr>
+<tr><td width="50%">
+
 Your VAT ID has been updated!
 
 </td><td width="50%">
@@ -4623,7 +4632,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 51
+##### Missing: 65
 
 <table width="100%">
 <tr><th width="50%">
@@ -4635,6 +4644,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+are_you_sure_you_want_to_delete_member
+
+</td><td width="50%">
+
+ Are you sure you want to remove this team member?
+
+</td></tr>
 <tr><td width="50%">
 
 are_you_sure_you_want_to_delete_team
@@ -4691,6 +4709,15 @@ Create Team
 </td></tr>
 <tr><td width="50%">
 
+current_teams
+
+</td><td width="50%">
+
+ Current Teams
+
+</td></tr>
+<tr><td width="50%">
+
 decimal
 
 </td><td width="50%">
@@ -4718,6 +4745,15 @@ The :attribute must be declined when :other is :value.
 </td></tr>
 <tr><td width="50%">
 
+delete_team
+
+</td><td width="50%">
+
+ Delete Team
+
+</td></tr>
+<tr><td width="50%">
+
 doesnt_end_with
 
 </td><td width="50%">
@@ -4736,6 +4772,15 @@ The :attribute may not start with one of the following: :values.
 </td></tr>
 <tr><td width="50%">
 
+edit_team_member
+
+</td><td width="50%">
+
+ Edit Team Member
+
+</td></tr>
+<tr><td width="50%">
+
 enum
 
 </td><td width="50%">
@@ -4750,6 +4795,15 @@ if_you_delete_team_all_data_will_be_deleted
 </td><td width="50%">
 
 If you choose to delete the team all data will be permanently deleted.
+
+</td></tr>
+<tr><td width="50%">
+
+leave_team
+
+</td><td width="50%">
+
+ Leave Team
 
 </td></tr>
 <tr><td width="50%">
@@ -4786,6 +4840,15 @@ max_digits
 </td><td width="50%">
 
 The :attribute must not have more than :max digits.
+
+</td></tr>
+<tr><td width="50%">
+
+member
+
+</td><td width="50%">
+
+ Member
 
 </td></tr>
 <tr><td width="50%">
@@ -4862,6 +4925,15 @@ Your current plan doesn't allow you to create more teams
 </td></tr>
 <tr><td width="50%">
 
+please_upgrade_to_add_more_members
+
+</td><td width="50%">
+
+ Please upgrade your subscription to add more team members.
+
+</td></tr>
+<tr><td width="50%">
+
 please_upgrade_to_create_more_teams
 
 </td><td width="50%">
@@ -4925,6 +4997,15 @@ This state is not valid for the specified country.
 </td></tr>
 <tr><td width="50%">
 
+team
+
+</td><td width="50%">
+
+ Team
+
+</td></tr>
+<tr><td width="50%">
+
 team_billing
 
 </td><td width="50%">
@@ -4939,6 +5020,42 @@ team_members
 </td><td width="50%">
 
 Team Members
+
+</td></tr>
+<tr><td width="50%">
+
+team_name
+
+</td><td width="50%">
+
+ Team Name
+
+</td></tr>
+<tr><td width="50%">
+
+team_name_was_updated
+
+</td><td width="50%">
+
+ Your team name has been updated!
+
+</td></tr>
+<tr><td width="50%">
+
+team_photo
+
+</td><td width="50%">
+
+ Team Photo
+
+</td></tr>
+<tr><td width="50%">
+
+team_profile
+
+</td><td width="50%">
+
+ Team Profile
 
 </td></tr>
 <tr><td width="50%">
@@ -4975,6 +5092,15 @@ team_trial_will_expire_on
 </td><td width="50%">
 
 The team's trial period will expire on :date.
+
+</td></tr>
+<tr><td width="50%">
+
+teams
+
+</td><td width="50%">
+
+ Teams
 
 </td></tr>
 <tr><td width="50%">
@@ -5083,6 +5209,15 @@ you_have_been_invited_to_join_team
 </td><td width="50%">
 
 You have been invited to join the :teamName team!
+
+</td></tr>
+<tr><td width="50%">
+
+you_have_x_invitations_remaining
+
+</td><td width="50%">
+
+ You currently have :count invitation(s) remaining.
 
 </td></tr>
 <tr><td width="50%">

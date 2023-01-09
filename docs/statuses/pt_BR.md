@@ -4,12 +4,12 @@ editLink: false
 
 # pt_BR
 
-##### All missed: 92
+##### All missed: 106
 
 
 ### json
 
-##### Missing: 92
+##### Missing: 93
 
 <table width="100%">
 <tr><th width="50%">
@@ -842,11 +842,157 @@ Your session has expired. Please login again to continue.
 </td></tr>
 <tr><td width="50%">
 
+Your trial period will expire on 
+
+</td><td width="50%">
+
+Your trial period will expire on 
+
+</td></tr>
+<tr><td width="50%">
+
 yr
 
 </td><td width="50%">
 
 yr
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php
+
+##### Missing: 13
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+are_you_sure_you_want_to_delete_member
+
+</td><td width="50%">
+
+ Are you sure you want to remove this team member?
+
+</td></tr>
+<tr><td width="50%">
+
+current_teams
+
+</td><td width="50%">
+
+ Current Teams
+
+</td></tr>
+<tr><td width="50%">
+
+delete_team
+
+</td><td width="50%">
+
+ Delete Team
+
+</td></tr>
+<tr><td width="50%">
+
+edit_team_member
+
+</td><td width="50%">
+
+ Edit Team Member
+
+</td></tr>
+<tr><td width="50%">
+
+leave_team
+
+</td><td width="50%">
+
+ Leave Team
+
+</td></tr>
+<tr><td width="50%">
+
+member
+
+</td><td width="50%">
+
+ Member
+
+</td></tr>
+<tr><td width="50%">
+
+please_upgrade_to_add_more_members
+
+</td><td width="50%">
+
+ Please upgrade your subscription to add more team members.
+
+</td></tr>
+<tr><td width="50%">
+
+team
+
+</td><td width="50%">
+
+ Team
+
+</td></tr>
+<tr><td width="50%">
+
+team_name
+
+</td><td width="50%">
+
+ Team Name
+
+</td></tr>
+<tr><td width="50%">
+
+team_name_was_updated
+
+</td><td width="50%">
+
+ Your team name has been updated!
+
+</td></tr>
+<tr><td width="50%">
+
+team_photo
+
+</td><td width="50%">
+
+ Team Photo
+
+</td></tr>
+<tr><td width="50%">
+
+team_profile
+
+</td><td width="50%">
+
+ Team Profile
+
+</td></tr>
+<tr><td width="50%">
+
+you_have_x_invitations_remaining
+
+</td><td width="50%">
+
+ You currently have :count invitation(s) remaining.
 
 </td></tr>
 </table>

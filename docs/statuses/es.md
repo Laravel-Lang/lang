@@ -4,69 +4,7 @@ editLink: false
 
 # es
 
-##### All missed: 5
+##### All missed: 0
 
-
-### php
-
-##### Missing: 5
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-current_teams
-
-</td><td width="50%">
-
- Current Teams
-
-</td></tr>
-<tr><td width="50%">
-
-delete_team
-
-</td><td width="50%">
-
- Delete Team
-
-</td></tr>
-<tr><td width="50%">
-
-edit_team_member
-
-</td><td width="50%">
-
- Edit Team Member
-
-</td></tr>
-<tr><td width="50%">
-
-leave_team
-
-</td><td width="50%">
-
- Leave Team
-
-</td></tr>
-<tr><td width="50%">
-
-member
-
-</td><td width="50%">
-
- Member
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
+All lines are translated 😊
 

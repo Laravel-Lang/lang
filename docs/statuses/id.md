@@ -4,12 +4,12 @@ editLink: false
 
 # id
 
-##### All missed: 312
+##### All missed: 299
 
 
 ### json
 
-##### Missing: 308
+##### Missing: 295
 
 <table width="100%">
 <tr><th width="50%">
@@ -2399,15 +2399,6 @@ West Virginia
 </td></tr>
 <tr><td width="50%">
 
-Whoops! This coupon code is invalid.
-
-</td><td width="50%">
-
-Whoops! This coupon code is invalid.
-
-</td></tr>
-<tr><td width="50%">
-
 Whoops! This invitation code is invalid.
 
 </td><td width="50%">
@@ -2453,56 +2444,11 @@ Yearly Recurring Revenue
 </td></tr>
 <tr><td width="50%">
 
-Yes, Cancel
-
-</td><td width="50%">
-
-Yes, Cancel
-
-</td></tr>
-<tr><td width="50%">
-
-Yes, Delete
-
-</td><td width="50%">
-
-Yes, Delete
-
-</td></tr>
-<tr><td width="50%">
-
-Yes, I'm Sure
-
-</td><td width="50%">
-
-Yes, I'm Sure
-
-</td></tr>
-<tr><td width="50%">
-
-Yes, Leave
-
-</td><td width="50%">
-
-Yes, Leave
-
-</td></tr>
-<tr><td width="50%">
-
 Yes, Remove
 
 </td><td width="50%">
 
 Yes, Remove
-
-</td></tr>
-<tr><td width="50%">
-
-You
-
-</td><td width="50%">
-
-You
 
 </td></tr>
 <tr><td width="50%">
@@ -2633,15 +2579,6 @@ You will be redirected to Mollie's checkout.
 </td></tr>
 <tr><td width="50%">
 
-Your application's dashboard.
-
-</td><td width="50%">
-
-Your application's Dashboard
-
-</td></tr>
-<tr><td width="50%">
-
 Your billing address has been updated!
 
 </td><td width="50%">
@@ -2660,15 +2597,6 @@ Your billing information has been updated!
 </td></tr>
 <tr><td width="50%">
 
-Your card has been updated.
-
-</td><td width="50%">
-
-Your card has been updated.
-
-</td></tr>
-<tr><td width="50%">
-
 Your contact information has been updated!
 
 </td><td width="50%">
@@ -2683,15 +2611,6 @@ Your current plan doesn't allow you to invite more members, please upgrade your 
 </td><td width="50%">
 
 Your current plan doesn't allow you to invite more members, please upgrade your subscription.
-
-</td></tr>
-<tr><td width="50%">
-
-Your Email Address
-
-</td><td width="50%">
-
-Your Email Address
 
 </td></tr>
 <tr><td width="50%">
@@ -2723,47 +2642,11 @@ Your payment method could not be updated.
 </td></tr>
 <tr><td width="50%">
 
-Your payment method has been updated.
-
-</td><td width="50%">
-
-Your payment method has been updated.
-
-</td></tr>
-<tr><td width="50%">
-
 Your payment went wrong. Try again or contact support
 
 </td><td width="50%">
 
 Your payment went wrong. Try again or contact support
-
-</td></tr>
-<tr><td width="50%">
-
-Your session has expired. Please login again to continue.
-
-</td><td width="50%">
-
-Your session has expired. Please login again to continue.
-
-</td></tr>
-<tr><td width="50%">
-
-Your Settings
-
-</td><td width="50%">
-
-Your Settings
-
-</td></tr>
-<tr><td width="50%">
-
-Your VAT ID has been updated!
-
-</td><td width="50%">
-
-Your VAT ID has been updated!
 
 </td></tr>
 <tr><td width="50%">

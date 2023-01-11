@@ -4,7 +4,7 @@ editLink: false
 
 # zh_TW
 
-##### All missed: 421
+##### All missed: 420
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 346
+##### Missing: 347
 
 <table width="100%">
 <tr><th width="50%">
@@ -3247,6 +3247,15 @@ Your Settings
 </td></tr>
 <tr><td width="50%">
 
+Your trial period will expire on 
+
+</td><td width="50%">
+
+Your trial period will expire on 
+
+</td></tr>
+<tr><td width="50%">
+
 Your VAT ID has been updated!
 
 </td><td width="50%">
@@ -3279,170 +3288,6 @@ ZIP / Postal Code
 </td><td width="50%">
 
 ZIP / Postal Code
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php-inline
-
-##### Missing: 16
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-ascii
-
-</td><td width="50%">
-
-This field must only contain single-byte alphanumeric characters and symbols.
-
-</td></tr>
-<tr><td width="50%">
-
-country
-
-</td><td width="50%">
-
-This field is not a valid country.
-
-</td></tr>
-<tr><td width="50%">
-
-decimal
-
-</td><td width="50%">
-
-This field must have :decimal decimal places.
-
-</td></tr>
-<tr><td width="50%">
-
-doesnt_end_with
-
-</td><td width="50%">
-
-This field may not end with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-doesnt_start_with
-
-</td><td width="50%">
-
-This field may not start with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-lowercase
-
-</td><td width="50%">
-
-This field must be lowercase.
-
-</td></tr>
-<tr><td width="50%">
-
-max_digits
-
-</td><td width="50%">
-
-This field must not have more than :max digits.
-
-</td></tr>
-<tr><td width="50%">
-
-min_digits
-
-</td><td width="50%">
-
-This field must have at least :min digits.
-
-</td></tr>
-<tr><td width="50%">
-
-password.letters
-
-</td><td width="50%">
-
-This field must contain at least one letter.
-
-</td></tr>
-<tr><td width="50%">
-
-password.mixed
-
-</td><td width="50%">
-
-This field must contain at least one uppercase and one lowercase letter.
-
-</td></tr>
-<tr><td width="50%">
-
-password.numbers
-
-</td><td width="50%">
-
-This field must contain at least one number.
-
-</td></tr>
-<tr><td width="50%">
-
-password.symbols
-
-</td><td width="50%">
-
-This field must contain at least one symbol.
-
-</td></tr>
-<tr><td width="50%">
-
-password.uncompromised
-
-</td><td width="50%">
-
-The given field has appeared in a data leak. Please choose a different field.
-
-</td></tr>
-<tr><td width="50%">
-
-required_if_accepted
-
-</td><td width="50%">
-
-This field is required when :other is accepted.
-
-</td></tr>
-<tr><td width="50%">
-
-ulid
-
-</td><td width="50%">
-
-This field must be a valid ULID.
-
-</td></tr>
-<tr><td width="50%">
-
-uppercase
-
-</td><td width="50%">
-
-This field must be uppercase.
 
 </td></tr>
 </table>
@@ -3453,7 +3298,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 45
+##### Missing: 59
 
 <table width="100%">
 <tr><th width="50%">
@@ -3465,6 +3310,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+are_you_sure_you_want_to_delete_member
+
+</td><td width="50%">
+
+ Are you sure you want to remove this team member?
+
+</td></tr>
 <tr><td width="50%">
 
 are_you_sure_you_want_to_delete_team
@@ -3521,11 +3375,29 @@ Create Team
 </td></tr>
 <tr><td width="50%">
 
+current_teams
+
+</td><td width="50%">
+
+ Current Teams
+
+</td></tr>
+<tr><td width="50%">
+
 decimal
 
 </td><td width="50%">
 
 The :attribute must have :decimal decimal places.
+
+</td></tr>
+<tr><td width="50%">
+
+delete_team
+
+</td><td width="50%">
+
+ Delete Team
 
 </td></tr>
 <tr><td width="50%">
@@ -3548,11 +3420,29 @@ The :attribute may not start with one of the following: :values.
 </td></tr>
 <tr><td width="50%">
 
+edit_team_member
+
+</td><td width="50%">
+
+ Edit Team Member
+
+</td></tr>
+<tr><td width="50%">
+
 if_you_delete_team_all_data_will_be_deleted
 
 </td><td width="50%">
 
 If you choose to delete the team all data will be permanently deleted.
+
+</td></tr>
+<tr><td width="50%">
+
+leave_team
+
+</td><td width="50%">
+
+ Leave Team
 
 </td></tr>
 <tr><td width="50%">
@@ -3580,6 +3470,15 @@ max_digits
 </td><td width="50%">
 
 The :attribute must not have more than :max digits.
+
+</td></tr>
+<tr><td width="50%">
+
+member
+
+</td><td width="50%">
+
+ Member
 
 </td></tr>
 <tr><td width="50%">
@@ -3656,6 +3555,15 @@ Your current plan doesn't allow you to create more teams
 </td></tr>
 <tr><td width="50%">
 
+please_upgrade_to_add_more_members
+
+</td><td width="50%">
+
+ Please upgrade your subscription to add more team members.
+
+</td></tr>
+<tr><td width="50%">
+
 please_upgrade_to_create_more_teams
 
 </td><td width="50%">
@@ -3701,6 +3609,15 @@ This state is not valid for the specified country.
 </td></tr>
 <tr><td width="50%">
 
+team
+
+</td><td width="50%">
+
+ Team
+
+</td></tr>
+<tr><td width="50%">
+
 team_billing
 
 </td><td width="50%">
@@ -3715,6 +3632,42 @@ team_members
 </td><td width="50%">
 
 Team Members
+
+</td></tr>
+<tr><td width="50%">
+
+team_name
+
+</td><td width="50%">
+
+ Team Name
+
+</td></tr>
+<tr><td width="50%">
+
+team_name_was_updated
+
+</td><td width="50%">
+
+ Your team name has been updated!
+
+</td></tr>
+<tr><td width="50%">
+
+team_photo
+
+</td><td width="50%">
+
+ Team Photo
+
+</td></tr>
+<tr><td width="50%">
+
+team_profile
+
+</td><td width="50%">
+
+ Team Profile
 
 </td></tr>
 <tr><td width="50%">
@@ -3751,6 +3704,15 @@ team_trial_will_expire_on
 </td><td width="50%">
 
 The team's trial period will expire on :date.
+
+</td></tr>
+<tr><td width="50%">
+
+teams
+
+</td><td width="50%">
+
+ Teams
 
 </td></tr>
 <tr><td width="50%">
@@ -3859,6 +3821,15 @@ you_have_been_invited_to_join_team
 </td><td width="50%">
 
 You have been invited to join the :teamName team!
+
+</td></tr>
+<tr><td width="50%">
+
+you_have_x_invitations_remaining
+
+</td><td width="50%">
+
+ You currently have :count invitation(s) remaining.
 
 </td></tr>
 <tr><td width="50%">

@@ -4,12 +4,12 @@ editLink: false
 
 # pt_BR
 
-##### All missed: 106
+##### All missed: 73
 
 
 ### json
 
-##### Missing: 93
+##### Missing: 73
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,15 +23,6 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-After logging in via your emergency token, two-factor authentication will be disabled for your account. If you would like to maintain two-factor authentication security, you should re-enable it after logging in.
-
-</td><td width="50%">
-
-After logging in via your emergency token, two-factor authentication will be disabled for your account. If you would like to maintain two-factor authentication security, you should re-enable it after logging in.
-
-</td></tr>
-<tr><td width="50%">
-
 All subscription plan prices are excluding applicable VAT.
 
 </td><td width="50%">
@@ -55,78 +46,6 @@ Announcements you create here will be sent to the "Product Announcements" sectio
 </td><td width="50%">
 
 Announcements you create here will be sent to the "Product Announcements" section of the notifications modal window, informing your users about new features and improvements to your application.
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to cancel your subscription?
-
-</td><td width="50%">
-
-Are you sure you want to cancel your subscription?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to delete this announcement?
-
-</td><td width="50%">
-
-Are you sure you want to delete this announcement?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to delete this token? If deleted, API requests that attempt to authenticate using this token will no longer be accepted.
-
-</td><td width="50%">
-
-Are you sure you want to delete this token? If deleted, API requests that attempt to authenticate using this token will no longer be accepted.
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to switch to the :planName plan?
-
-</td><td width="50%">
-
-Are you sure you want to switch to the :planName plan?
-
-</td></tr>
-<tr><td width="50%">
-
-British Columbia
-
-</td><td width="50%">
-
-British Columbia
-
-</td></tr>
-<tr><td width="50%">
-
-Cardholder's Name
-
-</td><td width="50%">
-
-Cardholder's Name
-
-</td></tr>
-<tr><td width="50%">
-
-Coupon accepted! The discount will be applied to your next invoice.
-
-</td><td width="50%">
-
-Coupon accepted! The discount will be applied to your next invoice.
-
-</td></tr>
-<tr><td width="50%">
-
-For security reasons your new card will be charged a minimal fee upon registration.
-
-</td><td width="50%">
-
-For security reasons your new card will be charged a minimal fee upon registration.
 
 </td></tr>
 <tr><td width="50%">
@@ -203,42 +122,6 @@ Please :linkOpen confirm your payment :linkClose to activate your subscription!
 </td></tr>
 <tr><td width="50%">
 
-Recent Announcements
-
-</td><td width="50%">
-
-Recent Announcements
-
-</td></tr>
-<tr><td width="50%">
-
-Since you already have an account, you may accept the invitation from your account settings screen.
-
-</td><td width="50%">
-
-Since you already have an account, you may accept the invitation from your account settings screen.
-
-</td></tr>
-<tr><td width="50%">
-
-Since you have a cash balance sufficient to begin a subscription, providing a payment method is not required. You may leave this field empty if you wish to begin a subscription using your cash balance.
-
-</td><td width="50%">
-
-Since you have a cash balance sufficient to begin a subscription, providing a payment method is not required. You may leave this field empty if you wish to begin a subscription using your cash balance.
-
-</td></tr>
-<tr><td width="50%">
-
-Something went wrong. Please try again or contact customer support.
-
-</td><td width="50%">
-
-Something went wrong. Please try again or contact customer support.
-
-</td></tr>
-<tr><td width="50%">
-
 Subject
 
 </td><td width="50%">
@@ -262,69 +145,6 @@ Tax
 </td><td width="50%">
 
 Tax
-
-</td></tr>
-<tr><td width="50%">
-
-Terms Of Service
-
-</td><td width="50%">
-
-Terms Of Service
-
-</td></tr>
-<tr><td width="50%">
-
-Thanks for your continued support. We've attached a copy of your invoice for your records. Please let us know if you have any questions or concerns!
-
-</td><td width="50%">
-
-Thanks for your continued support. We've attached a copy of your invoice for your records. Please let us know if you have any questions or concerns!
-
-</td></tr>
-<tr><td width="50%">
-
-Thanks!
-
-</td><td width="50%">
-
-Thanks!
-
-</td></tr>
-<tr><td width="50%">
-
-The benefits of your subscription will continue until your current billing period ends on :date. You may resume your subscription at no extra cost until the end of the billing period.
-
-</td><td width="50%">
-
-The benefits of your subscription will continue until your current billing period ends on :date. You may resume your subscription at no extra cost until the end of the billing period.
-
-</td></tr>
-<tr><td width="50%">
-
-The coupon :value discount will be applied to your subscription!
-
-</td><td width="50%">
-
-The coupon :value discount will be applied to your subscription!
-
-</td></tr>
-<tr><td width="50%">
-
-The emergency token was invalid.
-
-</td><td width="50%">
-
-The emergency token was invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-The given password does not match our records.
-
-</td><td width="50%">
-
-The given password does not match our records.
 
 </td></tr>
 <tr><td width="50%">
@@ -856,143 +676,6 @@ yr
 </td><td width="50%">
 
 yr
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php
-
-##### Missing: 13
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-are_you_sure_you_want_to_delete_member
-
-</td><td width="50%">
-
- Are you sure you want to remove this team member?
-
-</td></tr>
-<tr><td width="50%">
-
-current_teams
-
-</td><td width="50%">
-
- Current Teams
-
-</td></tr>
-<tr><td width="50%">
-
-delete_team
-
-</td><td width="50%">
-
- Delete Team
-
-</td></tr>
-<tr><td width="50%">
-
-edit_team_member
-
-</td><td width="50%">
-
- Edit Team Member
-
-</td></tr>
-<tr><td width="50%">
-
-leave_team
-
-</td><td width="50%">
-
- Leave Team
-
-</td></tr>
-<tr><td width="50%">
-
-member
-
-</td><td width="50%">
-
- Member
-
-</td></tr>
-<tr><td width="50%">
-
-please_upgrade_to_add_more_members
-
-</td><td width="50%">
-
- Please upgrade your subscription to add more team members.
-
-</td></tr>
-<tr><td width="50%">
-
-team
-
-</td><td width="50%">
-
- Team
-
-</td></tr>
-<tr><td width="50%">
-
-team_name
-
-</td><td width="50%">
-
- Team Name
-
-</td></tr>
-<tr><td width="50%">
-
-team_name_was_updated
-
-</td><td width="50%">
-
- Your team name has been updated!
-
-</td></tr>
-<tr><td width="50%">
-
-team_photo
-
-</td><td width="50%">
-
- Team Photo
-
-</td></tr>
-<tr><td width="50%">
-
-team_profile
-
-</td><td width="50%">
-
- Team Profile
-
-</td></tr>
-<tr><td width="50%">
-
-you_have_x_invitations_remaining
-
-</td><td width="50%">
-
- You currently have :count invitation(s) remaining.
 
 </td></tr>
 </table>

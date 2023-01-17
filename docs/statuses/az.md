@@ -4,12 +4,12 @@ editLink: false
 
 # az
 
-##### All missed: 389
+##### All missed: 367
 
 
 ### json
 
-##### Missing: 342
+##### Missing: 326
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,33 +23,6 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-Action Button Text
-
-</td><td width="50%">
-
-Action Button Text
-
-</td></tr>
-<tr><td width="50%">
-
-Action Button URL
-
-</td><td width="50%">
-
-Action Button URL
-
-</td></tr>
-<tr><td width="50%">
-
-Add Discount
-
-</td><td width="50%">
-
-Add Discount
-
-</td></tr>
-<tr><td width="50%">
-
 After logging in via your emergency token, two-factor authentication will be disabled for your account. If you would like to maintain two-factor authentication security, you should re-enable it after logging in.
 
 </td><td width="50%">
@@ -86,56 +59,11 @@ Alberta
 </td></tr>
 <tr><td width="50%">
 
-All subscription plan prices are excluding applicable VAT.
-
-</td><td width="50%">
-
-All subscription plan prices are excluding applicable VAT.
-
-</td></tr>
-<tr><td width="50%">
-
-All subscription plan prices include applicable VAT.
-
-</td><td width="50%">
-
-All subscription plan prices include applicable VAT.
-
-</td></tr>
-<tr><td width="50%">
-
-Amount
-
-</td><td width="50%">
-
-Amount
-
-</td></tr>
-<tr><td width="50%">
-
 Andorra
 
 </td><td width="50%">
 
 Andorra
-
-</td></tr>
-<tr><td width="50%">
-
-Announcement
-
-</td><td width="50%">
-
-Announcement
-
-</td></tr>
-<tr><td width="50%">
-
-Announcements
-
-</td><td width="50%">
-
-Announcements
 
 </td></tr>
 <tr><td width="50%">
@@ -154,51 +82,6 @@ API
 </td><td width="50%">
 
 API
-
-</td></tr>
-<tr><td width="50%">
-
-Apply Discount
-
-</td><td width="50%">
-
-Apply Discount
-
-</td></tr>
-<tr><td width="50%">
-
-Applying
-
-</td><td width="50%">
-
-Applying
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to cancel your subscription?
-
-</td><td width="50%">
-
-Are you sure you want to cancel your subscription?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to delete this announcement?
-
-</td><td width="50%">
-
-Are you sure you want to delete this announcement?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to delete this token? If deleted, API requests that attempt to authenticate using this token will no longer be accepted.
-
-</td><td width="50%">
-
-Are you sure you want to delete this token? If deleted, API requests that attempt to authenticate using this token will no longer be accepted.
 
 </td></tr>
 <tr><td width="50%">
@@ -257,15 +140,6 @@ Armed Forces America (Except Canada)
 </td></tr>
 <tr><td width="50%">
 
-Armed Forces Pacific
-
-</td><td width="50%">
-
-Armed Forces Pacific
-
-</td></tr>
-<tr><td width="50%">
-
 Aruba
 
 </td><td width="50%">
@@ -280,24 +154,6 @@ Assign All Abilities
 </td><td width="50%">
 
 Assign All Abilities
-
-</td></tr>
-<tr><td width="50%">
-
-Authentication Token
-
-</td><td width="50%">
-
-Authentication Token
-
-</td></tr>
-<tr><td width="50%">
-
-Back To My Account
-
-</td><td width="50%">
-
-Back To My Account
 
 </td></tr>
 <tr><td width="50%">
@@ -3105,47 +2961,9 @@ ZIP / Postal Code
 
 
 
-### php-inline
-
-##### Missing: 2
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-country
-
-</td><td width="50%">
-
-This field is not a valid country.
-
-</td></tr>
-<tr><td width="50%">
-
-decimal
-
-</td><td width="50%">
-
-This field must have :decimal decimal places.
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
 ### php
 
-##### Missing: 45
+##### Missing: 41
 
 <table width="100%">
 <tr><th width="50%">
@@ -3157,42 +2975,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-are_you_sure_you_want_to_delete_member
-
-</td><td width="50%">
-
- Are you sure you want to remove this team member?
-
-</td></tr>
-<tr><td width="50%">
-
-are_you_sure_you_want_to_delete_team
-
-</td><td width="50%">
-
-Are you sure you want to delete this team?
-
-</td></tr>
-<tr><td width="50%">
-
-are_you_sure_you_want_to_leave_team
-
-</td><td width="50%">
-
-Are you sure you want to leave this team?
-
-</td></tr>
-<tr><td width="50%">
-
-attributes.team
-
-</td><td width="50%">
-
-team
-
-</td></tr>
 <tr><td width="50%">
 
 country

@@ -4,12 +4,12 @@ editLink: false
 
 # tr
 
-##### All missed: 160
+##### All missed: 120
 
 
 ### json
 
-##### Missing: 158
+##### Missing: 120
 
 <table width="100%">
 <tr><th width="50%">
@@ -851,24 +851,6 @@ South Dakota
 </td></tr>
 <tr><td width="50%">
 
-State
-
-</td><td width="50%">
-
-State
-
-</td></tr>
-<tr><td width="50%">
-
-State & ZIP / Postal Code
-
-</td><td width="50%">
-
-State & ZIP / Postal Code
-
-</td></tr>
-<tr><td width="50%">
-
 Subject
 
 </td><td width="50%">
@@ -878,74 +860,11 @@ Subject
 </td></tr>
 <tr><td width="50%">
 
-Subscribers
-
-</td><td width="50%">
-
-Subscribers
-
-</td></tr>
-<tr><td width="50%">
-
-Subscribing
-
-</td><td width="50%">
-
-Subscribing
-
-</td></tr>
-<tr><td width="50%">
-
-Subscription
-
-</td><td width="50%">
-
-Subscription
-
-</td></tr>
-<tr><td width="50%">
-
-Support
-
-</td><td width="50%">
-
-Support
-
-</td></tr>
-<tr><td width="50%">
-
-Switch
-
-</td><td width="50%">
-
-Switch
-
-</td></tr>
-<tr><td width="50%">
-
-Tax
-
-</td><td width="50%">
-
-Tax
-
-</td></tr>
-<tr><td width="50%">
-
 Tennessee
 
 </td><td width="50%">
 
 Tennessee
-
-</td></tr>
-<tr><td width="50%">
-
-Terms Of Service
-
-</td><td width="50%">
-
-Terms Of Service
 
 </td></tr>
 <tr><td width="50%">
@@ -964,15 +883,6 @@ Thanks for your continued support. We've attached a copy of your invoice for you
 </td><td width="50%">
 
 Thanks for your continued support. We've attached a copy of your invoice for your records. Please let us know if you have any questions or concerns!
-
-</td></tr>
-<tr><td width="50%">
-
-Thanks!
-
-</td><td width="50%">
-
-Thanks!
 
 </td></tr>
 <tr><td width="50%">
@@ -1112,209 +1022,11 @@ This team is not eligible for this plan.
 </td></tr>
 <tr><td width="50%">
 
-This user has a discount of :discountAmount for a single invoice.
-
-</td><td width="50%">
-
-This user has a discount of :discountAmount for a single invoice.
-
-</td></tr>
-<tr><td width="50%">
-
-This user has a discount of :discountAmount for all invoices during the next :months months.
-
-</td><td width="50%">
-
-This user has a discount of :discountAmount for all invoices during the next :months months.
-
-</td></tr>
-<tr><td width="50%">
-
-This user has a discount of :discountAmount for all invoices during the next month.
-
-</td><td width="50%">
-
-This user has a discount of :discountAmount for all invoices during the next month.
-
-</td></tr>
-<tr><td width="50%">
-
-This user has a discount of :discountAmount forever.
-
-</td><td width="50%">
-
-This user has a discount of :discountAmount forever.
-
-</td></tr>
-<tr><td width="50%">
-
-Toggle Navigation
-
-</td><td width="50%">
-
-Toggle Navigation
-
-</td></tr>
-<tr><td width="50%">
-
-Token Can
-
-</td><td width="50%">
-
-Token Can
-
-</td></tr>
-<tr><td width="50%">
-
-Top Up Balance
-
-</td><td width="50%">
-
-Top Up Balance
-
-</td></tr>
-<tr><td width="50%">
-
-Total Price Including Tax
-
-</td><td width="50%">
-
-Total Price Including Tax
-
-</td></tr>
-<tr><td width="50%">
-
-Total Revenue
-
-</td><td width="50%">
-
-Total Revenue
-
-</td></tr>
-<tr><td width="50%">
-
-Total Volume
-
-</td><td width="50%">
-
-Total Volume
-
-</td></tr>
-<tr><td width="50%">
-
-Trial
-
-</td><td width="50%">
-
-Trial
-
-</td></tr>
-<tr><td width="50%">
-
-Trialing
-
-</td><td width="50%">
-
-Trialing
-
-</td></tr>
-<tr><td width="50%">
-
-Two-Factor Authentication
-
-</td><td width="50%">
-
-Two-Factor Authentication
-
-</td></tr>
-<tr><td width="50%">
-
-Two-Factor Authentication Reset Code
-
-</td><td width="50%">
-
-Two-Factor Authentication Reset Code
-
-</td></tr>
-<tr><td width="50%">
-
-Unpaid
-
-</td><td width="50%">
-
-Unpaid
-
-</td></tr>
-<tr><td width="50%">
-
-Update Announcement
-
-</td><td width="50%">
-
-Update Announcement
-
-</td></tr>
-<tr><td width="50%">
-
 Update Billing Address
 
 </td><td width="50%">
 
 Update Billing Address
-
-</td></tr>
-<tr><td width="50%">
-
-Update Photo
-
-</td><td width="50%">
-
-Update Photo
-
-</td></tr>
-<tr><td width="50%">
-
-Update Subscription
-
-</td><td width="50%">
-
-Update Subscription
-
-</td></tr>
-<tr><td width="50%">
-
-Update VAT ID
-
-</td><td width="50%">
-
-Update VAT ID
-
-</td></tr>
-<tr><td width="50%">
-
-Updating
-
-</td><td width="50%">
-
-Updating
-
-</td></tr>
-<tr><td width="50%">
-
-Users
-
-</td><td width="50%">
-
-Users
-
-</td></tr>
-<tr><td width="50%">
-
-Users Currently Trialing
-
-</td><td width="50%">
-
-Users Currently Trialing
 
 </td></tr>
 <tr><td width="50%">
@@ -1333,15 +1045,6 @@ VAT ID
 </td><td width="50%">
 
 VAT ID
-
-</td></tr>
-<tr><td width="50%">
-
-Verify
-
-</td><td width="50%">
-
-Verify
 
 </td></tr>
 <tr><td width="50%">
@@ -1373,47 +1076,11 @@ Virgin Islands
 </td></tr>
 <tr><td width="50%">
 
-Virginia
-
-</td><td width="50%">
-
-Virginia
-
-</td></tr>
-<tr><td width="50%">
-
-Washington
-
-</td><td width="50%">
-
-Washington
-
-</td></tr>
-<tr><td width="50%">
-
 West Virginia
 
 </td><td width="50%">
 
 West Virginia
-
-</td></tr>
-<tr><td width="50%">
-
-Wisconsin
-
-</td><td width="50%">
-
-Wisconsin
-
-</td></tr>
-<tr><td width="50%">
-
-Wyoming
-
-</td><td width="50%">
-
-Wyoming
 
 </td></tr>
 <tr><td width="50%">
@@ -1427,58 +1094,11 @@ yr
 </td></tr>
 <tr><td width="50%">
 
-Yukon
-
-</td><td width="50%">
-
-Yukon
-
-</td></tr>
-<tr><td width="50%">
-
 ZIP / Postal Code
 
 </td><td width="50%">
 
 ZIP / Postal Code
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php
-
-##### Missing: 2
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-are_you_sure_you_want_to_delete_member
-
-</td><td width="50%">
-
- Are you sure you want to remove this team member?
-
-</td></tr>
-<tr><td width="50%">
-
-leave_team
-
-</td><td width="50%">
-
- Leave Team
 
 </td></tr>
 </table>

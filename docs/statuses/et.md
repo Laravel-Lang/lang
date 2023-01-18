@@ -4,7 +4,7 @@ editLink: false
 
 # et
 
-##### All missed: 601
+##### All missed: 602
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 502
+##### Missing: 503
 
 <table width="100%">
 <tr><th width="50%">
@@ -2262,6 +2262,15 @@ Payment Method
 </td><td width="50%">
 
 Payment Method
+
+</td></tr>
+<tr><td width="50%">
+
+Payment Required
+
+</td><td width="50%">
+
+Payment Required
 
 </td></tr>
 <tr><td width="50%">

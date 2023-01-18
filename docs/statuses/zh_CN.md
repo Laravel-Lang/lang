@@ -4,12 +4,12 @@ editLink: false
 
 # zh_CN
 
-##### All missed: 361
+##### All missed: 362
 
 
 ### json
 
-##### Missing: 310
+##### Missing: 311
 
 <table width="100%">
 <tr><th width="50%">
@@ -1360,6 +1360,15 @@ Paid
 </td><td width="50%">
 
 Paid
+
+</td></tr>
+<tr><td width="50%">
+
+Payment Required
+
+</td><td width="50%">
+
+Payment Required
 
 </td></tr>
 <tr><td width="50%">

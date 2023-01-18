@@ -4,12 +4,12 @@ editLink: false
 
 # pt_BR
 
-##### All missed: 43
+##### All missed: 44
 
 
 ### json
 
-##### Missing: 43
+##### Missing: 44
 
 <table width="100%">
 <tr><th width="50%">
@@ -109,6 +109,15 @@ N/A
 </td><td width="50%">
 
 N/A
+
+</td></tr>
+<tr><td width="50%">
+
+Payment Required
+
+</td><td width="50%">
+
+Payment Required
 
 </td></tr>
 <tr><td width="50%">

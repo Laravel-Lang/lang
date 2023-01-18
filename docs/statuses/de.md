@@ -4,12 +4,12 @@ editLink: false
 
 # de
 
-##### All missed: 360
+##### All missed: 361
 
 
 ### json
 
-##### Missing: 309
+##### Missing: 310
 
 <table width="100%">
 <tr><th width="50%">
@@ -1360,6 +1360,15 @@ Paid
 </td><td width="50%">
 
 Paid
+
+</td></tr>
+<tr><td width="50%">
+
+Payment Required
+
+</td><td width="50%">
+
+Payment Required
 
 </td></tr>
 <tr><td width="50%">

@@ -170,9 +170,9 @@
     "uuid": ":Attributeは、有効なUUIDでなければいけません。",
     "vat_id": "この付加価値税(VAT)識別番号は無効です。",
     "view_all_teams": "全てのチームを閲覧する。",
-    "we_found_invitation_to_team": ":teamNameチームへの招待を受け取りました！",
+    "we_found_invitation_to_team": ":TeamNameチームへの招待を受け取りました！",
     "wheres_your_team": "あなたはどのチームに所属していますか？",
-    "you_have_been_invited_to_join_team": ":teamNameチームにあなたは招待されています！",
-    "you_have_x_invitations_remaining": ":count件の招待が来ています。",
-    "you_have_x_teams_remaining": ":teamCount件のチームが残っています。"
+    "you_have_been_invited_to_join_team": ":TeamNameチームにあなたは招待されています！",
+    "you_have_x_invitations_remaining": ":Count件の招待が来ています。",
+    "you_have_x_teams_remaining": ":TeamCount件のチームが残っています。"
 }

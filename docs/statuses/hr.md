@@ -4,7 +4,7 @@ editLink: false
 
 # hr
 
-##### All missed: 354
+##### All missed: 364
 
 
 ### json
@@ -2810,7 +2810,7 @@ ZIP / Postal Code
 
 ### php-inline
 
-##### Missing: 1
+##### Missing: 6
 
 <table width="100%">
 <tr><th width="50%">
@@ -2831,6 +2831,51 @@ country
 This field is not a valid country.
 
 </td></tr>
+<tr><td width="50%">
+
+missing
+
+</td><td width="50%">
+
+This field must be missing.
+
+</td></tr>
+<tr><td width="50%">
+
+missing_if
+
+</td><td width="50%">
+
+This field must be missing when :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+missing_unless
+
+</td><td width="50%">
+
+This field must be missing unless :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+missing_with
+
+</td><td width="50%">
+
+This field must be missing when :values is present.
+
+</td></tr>
+<tr><td width="50%">
+
+missing_with_all
+
+</td><td width="50%">
+
+This field must be missing when :values are present.
+
+</td></tr>
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
@@ -2839,7 +2884,7 @@ This field is not a valid country.
 
 ### php
 
-##### Missing: 44
+##### Missing: 49
 
 <table width="100%">
 <tr><th width="50%">
@@ -2966,6 +3011,51 @@ member
 </td><td width="50%">
 
  Member
+
+</td></tr>
+<tr><td width="50%">
+
+missing
+
+</td><td width="50%">
+
+The :attribute field must be missing.
+
+</td></tr>
+<tr><td width="50%">
+
+missing_if
+
+</td><td width="50%">
+
+The :attribute field must be missing when :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+missing_unless
+
+</td><td width="50%">
+
+The :attribute field must be missing unless :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+missing_with
+
+</td><td width="50%">
+
+The :attribute field must be missing when :values is present.
+
+</td></tr>
+<tr><td width="50%">
+
+missing_with_all
+
+</td><td width="50%">
+
+The :attribute field must be missing when :values are present.
 
 </td></tr>
 <tr><td width="50%">

@@ -4,7 +4,7 @@ editLink: false
 
 # lt
 
-##### All missed: 618
+##### All missed: 628
 
 
 ### json-inline
@@ -4972,7 +4972,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 19
+##### Missing: 24
 
 <table width="100%">
 <tr><th width="50%">
@@ -5063,6 +5063,51 @@ min_digits
 </td><td width="50%">
 
 This field must have at least :min digits.
+
+</td></tr>
+<tr><td width="50%">
+
+missing
+
+</td><td width="50%">
+
+This field must be missing.
+
+</td></tr>
+<tr><td width="50%">
+
+missing_if
+
+</td><td width="50%">
+
+This field must be missing when :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+missing_unless
+
+</td><td width="50%">
+
+This field must be missing unless :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+missing_with
+
+</td><td width="50%">
+
+This field must be missing when :values is present.
+
+</td></tr>
+<tr><td width="50%">
+
+missing_with_all
+
+</td><td width="50%">
+
+This field must be missing when :values are present.
 
 </td></tr>
 <tr><td width="50%">
@@ -5163,7 +5208,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 52
+##### Missing: 57
 
 <table width="100%">
 <tr><th width="50%">
@@ -5335,6 +5380,51 @@ min_digits
 </td><td width="50%">
 
 The :attribute must have at least :min digits.
+
+</td></tr>
+<tr><td width="50%">
+
+missing
+
+</td><td width="50%">
+
+The :attribute field must be missing.
+
+</td></tr>
+<tr><td width="50%">
+
+missing_if
+
+</td><td width="50%">
+
+The :attribute field must be missing when :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+missing_unless
+
+</td><td width="50%">
+
+The :attribute field must be missing unless :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+missing_with
+
+</td><td width="50%">
+
+The :attribute field must be missing when :values is present.
+
+</td></tr>
+<tr><td width="50%">
+
+missing_with_all
+
+</td><td width="50%">
+
+The :attribute field must be missing when :values are present.
 
 </td></tr>
 <tr><td width="50%">

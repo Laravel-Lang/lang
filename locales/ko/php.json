@@ -166,7 +166,7 @@
     "user_already_invited_to_team": "해당 사용자는 이미 팀에 초대되었습니다.",
     "user_already_on_team": "해당 사용자는 이미 팀에 있습니다.",
     "user_doesnt_belong_to_team": "사용자는 지정된 팀에 속하지 않습니다.",
-    "user_invited_to_join_team": ":UserName has invited you to join their team!",
+    "user_invited_to_join_team": ":UserName이 당신을 그들의 팀에 초대했습니다!",
     "uuid": ":Attribute은(는) 유효한UUID여야합니다.",
     "vat_id": "이 VAT 식별 번호는 유효하지 않습니다.",
     "view_all_teams": "모든 팀 보기",

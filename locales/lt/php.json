@@ -166,7 +166,7 @@
     "user_already_invited_to_team": "Tas vartotojas jau pakviestas į komandą.",
     "user_already_on_team": "Tas vartotojas jau yra komandoje.",
     "user_doesnt_belong_to_team": "Vartotojas nepriklauso nurodytai komandai.",
-    "user_invited_to_join_team": ":UserName has invited you to join their team!",
+    "user_invited_to_join_team": ":UserName pakvietė jus prisijungti prie savo komandos!",
     "uuid": "Lauko :attribute reikšmė turi būti galiojantis UUID.",
     "vat_id": "Šis PVM mokėtojo kodas neteisingas.",
     "view_all_teams": "Peržiūrėti visas komandas",

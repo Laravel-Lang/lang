@@ -166,7 +166,7 @@
     "user_already_invited_to_team": "Այդ օգտվողն արդեն հրավիրված է թիմ:",
     "user_already_on_team": "Այդ օգտվողն արդեն թիմում է:",
     "user_doesnt_belong_to_team": "Օգտատերը տվյալ թիմին չի պատկանում։",
-    "user_invited_to_join_team": ":UserName has invited you to join their team!",
+    "user_invited_to_join_team": ":UserName-ը հրավիրել է ձեզ միանալու իրենց թիմին:",
     "uuid": ":Attribute դաշտը պետք է լինի վավեր UUID։",
     "vat_id": "Այս ԱԱՀ նույնականացման համարն անվավեր է:",
     "view_all_teams": "Դիտել բոլոր թիմերը",

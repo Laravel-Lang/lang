@@ -166,7 +166,7 @@
     "user_already_invited_to_team": "Acest utilizator este deja invitat în echipă.",
     "user_already_on_team": "Acest utilizator este deja în echipă.",
     "user_doesnt_belong_to_team": "Utilizatorul nu aparține echipei date.",
-    "user_invited_to_join_team": ":UserName has invited you to join their team!",
+    "user_invited_to_join_team": ":UserName te-a invitat să te alături echipei lor!",
     "uuid": "Câmpul :attribute trebuie să fie un cod UUID valid.",
     "vat_id": "Acest număr de identificare TVA este nevalid.",
     "view_all_teams": "Vedeți toate echipele",

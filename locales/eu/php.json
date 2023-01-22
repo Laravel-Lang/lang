@@ -166,7 +166,7 @@
     "user_already_invited_to_team": "Erabiltzaile hori dagoeneko gonbidatuta dago taldera.",
     "user_already_on_team": "Erabiltzaile hori dagoeneko taldean dago.",
     "user_doesnt_belong_to_team": "Erabiltzailea ez da emandako taldekoa.",
-    "user_invited_to_join_team": ":UserName has invited you to join their team!",
+    "user_invited_to_join_team": ":UserName-k bere taldean sartzera gonbidatu zaitu!",
     "uuid": ":Attribute-(e)k baliozko UUIDa izan behar du.",
     "vat_id": "BEZaren identifikazio-zenbaki hau baliogabea da.",
     "view_all_teams": "Ikusi talde guztiak",

@@ -166,7 +166,7 @@
     "user_already_invited_to_team": "Bu foydalanuvchi allaqachon jamoaga taklif qilingan.",
     "user_already_on_team": "Bu foydalanuvchi allaqachon jamoada.",
     "user_doesnt_belong_to_team": "Foydalanuvchi berilgan jamoaga tegishli emas.",
-    "user_invited_to_join_team": ":UserName has invited you to join their team!",
+    "user_invited_to_join_team": ":UserName sizni o'z jamoasiga taklif qildi!",
     "uuid": ":Attribute тўғри UUID қийматга эга бўлиши керак.",
     "vat_id": "Bu QQS identifikatsiya raqami yaroqsiz.",
     "view_all_teams": "Barcha jamoalarni ko'rish",

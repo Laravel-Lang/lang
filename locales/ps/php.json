@@ -166,7 +166,7 @@
     "user_already_invited_to_team": "دا کارونکي دمخه ټیم ته بلنه ورکړل شوې.",
     "user_already_on_team": "دا کارونکی لا دمخه په ټیم کې دی.",
     "user_doesnt_belong_to_team": "کارونکي په ورکړل شوي ټیم پورې اړه نلري.",
-    "user_invited_to_join_team": ":UserName has invited you to join their team!",
+    "user_invited_to_join_team": ":UserName تاسو ته بلنه درکړې چې د دوی ټیم سره یوځای شئ!",
     "uuid": ":Attribute دا باید غیر رسمي وي UUID غږ.",
     "vat_id": "دا د VAT پیژندنې شمیره ناسمه ده.",
     "view_all_teams": "ټول ټیمونه وګورئ",

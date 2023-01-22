@@ -166,7 +166,7 @@
     "user_already_invited_to_team": "Tento používateľ je už pozvaný do tímu.",
     "user_already_on_team": "Tento používateľ je už v tíme.",
     "user_doesnt_belong_to_team": "Používateľ nepatrí do daného tímu.",
-    "user_invited_to_join_team": ":UserName has invited you to join their team!",
+    "user_invited_to_join_team": ":UserName vás pozvalo do ich tímu!",
     "uuid": ":Attribute musí byť platné UUID.",
     "vat_id": "Toto IČ DPH je neplatné.",
     "view_all_teams": "Zobraziť všetky tímy",

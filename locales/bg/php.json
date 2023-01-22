@@ -166,7 +166,7 @@
     "user_already_invited_to_team": "Този потребител вече е поканен в екипа.",
     "user_already_on_team": "Този потребител вече е в екипа.",
     "user_doesnt_belong_to_team": "Потребителят не принадлежи към дадения отбор.",
-    "user_invited_to_join_team": ":UserName has invited you to join their team!",
+    "user_invited_to_join_team": ":UserName ви покани да се присъедините към техния екип!",
     "uuid": ":Attribute трябва да бъде валиден UUID.",
     "vat_id": "Този идентификационен номер по ДДС е невалиден.",
     "view_all_teams": "Вижте всички отбори",

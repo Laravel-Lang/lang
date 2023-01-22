@@ -166,7 +166,7 @@
     "user_already_invited_to_team": "Esse usuário já está convidado para a equipe.",
     "user_already_on_team": "Esse usuário já está na equipe.",
     "user_doesnt_belong_to_team": "O usuário não pertence à equipe fornecida.",
-    "user_invited_to_join_team": ":UserName has invited you to join their team!",
+    "user_invited_to_join_team": ":UserName convidou você para se juntar a sua equipe!",
     "uuid": "O campo :attribute deve ser um UUID válido.",
     "vat_id": "Este número de identificação de VAT é inválido.",
     "view_all_teams": "Ver todas as equipes",

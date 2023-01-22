@@ -166,7 +166,7 @@
     "user_already_invited_to_team": "Người dùng đó đã được mời vào nhóm.",
     "user_already_on_team": "Người dùng đó đã ở trong nhóm.",
     "user_doesnt_belong_to_team": "Người dùng không thuộc nhóm nhất định.",
-    "user_invited_to_join_team": ":UserName has invited you to join their team!",
+    "user_invited_to_join_team": ":UserName đã mời bạn tham gia nhóm của họ!",
     "uuid": "Trường :attribute phải là một chuỗi UUID hợp lệ.",
     "vat_id": "Mã số VAT này không hợp lệ.",
     "view_all_teams": "Xem tất cả các đội",

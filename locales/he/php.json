@@ -166,7 +166,7 @@
     "user_already_invited_to_team": "המשתמש הזה כבר מוזמן לצוות.",
     "user_already_on_team": "המשתמש הזה כבר בצוות.",
     "user_doesnt_belong_to_team": "המשתמש אינו שייך לצוות הנתון.",
-    "user_invited_to_join_team": ":UserName has invited you to join their team!",
+    "user_invited_to_join_team": ":UserName הזמין אותך להצטרף לצוות שלהם!",
     "uuid": "ה :attribute חייב להיות מזהה ייחודי אוניברסלי (UUID) חוקי.",
     "vat_id": "מספר זיהוי מע\"מ זה אינו חוקי.",
     "view_all_teams": "הצג את כל הצוותים",

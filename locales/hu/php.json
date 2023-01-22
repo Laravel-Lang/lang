@@ -166,7 +166,7 @@
     "user_already_invited_to_team": "Ez a felhasználó már meghívást kapott a csapatba.",
     "user_already_on_team": "Ez a felhasználó már a csapat tagja.",
     "user_doesnt_belong_to_team": "A felhasználó nem tartozik az adott csapathoz.",
-    "user_invited_to_join_team": ":UserName has invited you to join their team!",
+    "user_invited_to_join_team": ":UserName meghívott téged a csapatába!",
     "uuid": ":Attribute érvényes UUID-val kell rendelkezzen.",
     "vat_id": "Ez az adóazonosító szám érvénytelen.",
     "view_all_teams": "Összes csapat megtekintése",

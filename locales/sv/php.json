@@ -166,7 +166,7 @@
     "user_already_invited_to_team": "Den användaren är redan inbjuden till teamet.",
     "user_already_on_team": "Den användaren är redan med i teamet.",
     "user_doesnt_belong_to_team": "Användaren tillhör inte det givna laget.",
-    "user_invited_to_join_team": ":UserName has invited you to join their team!",
+    "user_invited_to_join_team": ":UserName har bjudit in dig att gå med i deras team!",
     "uuid": ":Attribute måste vara ett giltigt UUID.",
     "vat_id": "Detta momsregistreringsnummer är ogiltigt.",
     "view_all_teams": "Visa alla lag",

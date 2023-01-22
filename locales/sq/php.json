@@ -166,7 +166,7 @@
     "user_already_invited_to_team": "Ky përdorues është ftuar tashmë në ekip.",
     "user_already_on_team": "Ky përdorues është tashmë në ekip.",
     "user_doesnt_belong_to_team": "Përdoruesi nuk i përket ekipit të caktuar.",
-    "user_invited_to_join_team": ":UserName has invited you to join their team!",
+    "user_invited_to_join_team": ":UserName ju ka ftuar t'i bashkoheni ekipit të tyre!",
     "uuid": ":Attribute duhet të jetë UUID i/e saktë.",
     "vat_id": "Ky numër identifikimi i TVSH-së është i pavlefshëm.",
     "view_all_teams": "Shiko të gjitha skuadrat",

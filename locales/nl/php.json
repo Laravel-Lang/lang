@@ -166,7 +166,7 @@
     "user_already_invited_to_team": "Die gebruiker is al uitgenodigd voor het team.",
     "user_already_on_team": "Die gebruiker zit al in het team.",
     "user_doesnt_belong_to_team": "De gebruiker behoort niet tot het opgegeven team.",
-    "user_invited_to_join_team": ":UserName has invited you to join their team!",
+    "user_invited_to_join_team": ":UserName heeft je uitgenodigd om hun team te komen versterken!",
     "uuid": ":Attribute moet een geldige UUID zijn.",
     "vat_id": "Dit btw-identificatienummer is ongeldig.",
     "view_all_teams": "Bekijk alle teams",

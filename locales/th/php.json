@@ -166,7 +166,7 @@
     "user_already_invited_to_team": "ผู้ใช้รายนั้นได้รับเชิญให้เข้าร่วมทีมแล้ว",
     "user_already_on_team": "ผู้ใช้รายนั้นอยู่ในทีมแล้ว",
     "user_doesnt_belong_to_team": "ผู้ใช้ไม่ได้อยู่ในทีมที่กำหนด",
-    "user_invited_to_join_team": ":UserName has invited you to join their team!",
+    "user_invited_to_join_team": ":UserName เชิญคุณเข้าร่วมทีม!",
     "uuid": "ข้อมูล :attribute ต้องเป็นค่า UUID ที่ถูกต้อง",
     "vat_id": "หมายเลขประจำตัว VAT นี้ไม่ถูกต้อง",
     "view_all_teams": "ดูทีมทั้งหมด",

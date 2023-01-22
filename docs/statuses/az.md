@@ -4,12 +4,12 @@ editLink: false
 
 # az
 
-##### All missed: 46
+##### All missed: 45
 
 
 ### json
 
-##### Missing: 46
+##### Missing: 45
 
 <table width="100%">
 <tr><th width="50%">
@@ -397,15 +397,6 @@ Token Can
 </td><td width="50%">
 
 Token Can
-
-</td></tr>
-<tr><td width="50%">
-
-Tuvalu
-
-</td><td width="50%">
-
-Tuvalu
 
 </td></tr>
 <tr><td width="50%">

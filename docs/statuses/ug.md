@@ -4,12 +4,12 @@ editLink: false
 
 # ug
 
-##### All missed: 150
+##### All missed: 148
 
 
 ### json
 
-##### Missing: 146
+##### Missing: 144
 
 <table width="100%">
 <tr><th width="50%">
@@ -518,15 +518,6 @@ Guyana
 </td></tr>
 <tr><td width="50%">
 
-Hawaii
-
-</td><td width="50%">
-
-Hawaii
-
-</td></tr>
-<tr><td width="50%">
-
 Honduras
 
 </td><td width="50%">
@@ -946,15 +937,6 @@ of
 </td><td width="50%">
 
 of
-
-</td></tr>
-<tr><td width="50%">
-
-Ohio
-
-</td><td width="50%">
-
-Ohio
 
 </td></tr>
 <tr><td width="50%">

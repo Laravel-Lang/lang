@@ -166,7 +166,7 @@
     "user_already_invited_to_team": "Αυτός ο χρήστης έχει ήδη προσκληθεί στην ομάδα.",
     "user_already_on_team": "Αυτός ο χρήστης είναι ήδη στην ομάδα.",
     "user_doesnt_belong_to_team": "Ο χρήστης δεν ανήκει στη συγκεκριμένη ομάδα.",
-    "user_invited_to_join_team": ":UserName has invited you to join their team!",
+    "user_invited_to_join_team": "Οι :UserName σας προσκάλεσαν να γίνετε μέλος της ομάδας τους!",
     "uuid": "Το πεδίο :attribute πρέπει να είναι έγκυρο UUID.",
     "vat_id": "Αυτός ο αριθμός φορολογικού μητρώου ΦΠΑ δεν είναι έγκυρος.",
     "view_all_teams": "Προβολή όλων των ομάδων",

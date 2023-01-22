@@ -166,7 +166,7 @@
     "user_already_invited_to_team": "Бұл пайдаланушы командаға шақырылған.",
     "user_already_on_team": "Бұл пайдаланушы командада бұрыннан бар.",
     "user_doesnt_belong_to_team": "Пайдаланушы берілген командаға жатпайды.",
-    "user_invited_to_join_team": ":UserName has invited you to join their team!",
+    "user_invited_to_join_team": ":UserName сізді өз командасына қосылуға шақырды!",
     "uuid": ":Attribute мәні жарамды UUID болуы керек.",
     "vat_id": "Бұл ҚҚС сәйкестендіру нөмірі жарамсыз.",
     "view_all_teams": "Барлық командаларды көру",

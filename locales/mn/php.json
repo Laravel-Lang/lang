@@ -166,7 +166,7 @@
     "user_already_invited_to_team": "Тэр хэрэглэгч аль хэдийн багт уригдсан байна.",
     "user_already_on_team": "Тэр хэрэглэгч аль хэдийн багт орсон байна.",
     "user_doesnt_belong_to_team": "Хэрэглэгч тухайн багт харьяалагддаггүй.",
-    "user_invited_to_join_team": ":UserName has invited you to join their team!",
+    "user_invited_to_join_team": ":UserName таныг багтаа нэгдэхийг урьсан!",
     "uuid": ":Attribute хүчин төгөлдөр хуучин төгөлдөр улс байх естой.",
     "vat_id": "Энэ НӨАТ-ын дугаар хүчингүй байна.",
     "view_all_teams": "Бүх багийг харах",

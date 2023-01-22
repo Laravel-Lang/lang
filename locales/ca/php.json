@@ -166,7 +166,7 @@
     "user_already_invited_to_team": "Aquest usuari ja està convidat a l'equip.",
     "user_already_on_team": "Aquest usuari ja és a l'equip.",
     "user_doesnt_belong_to_team": "L'usuari no pertany a l'equip donat.",
-    "user_invited_to_join_team": ":UserName has invited you to join their team!",
+    "user_invited_to_join_team": ":UserName t'ha convidat a unir-te al seu equip!",
     "uuid": "El :attribute ha de ser un indentificador únic universal (UUID) vàlid.",
     "vat_id": "Aquest número d'identificació d'IVA no és vàlid.",
     "view_all_teams": "Veure tots els equips",

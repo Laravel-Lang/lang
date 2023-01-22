@@ -166,7 +166,7 @@
     "user_already_invited_to_team": "ეს მომხმარებელი უკვე მოწვეულია გუნდში.",
     "user_already_on_team": "ეს მომხმარებელი უკვე გუნდშია.",
     "user_doesnt_belong_to_team": "მომხმარებელი არ ეკუთვნის მოცემულ გუნდს.",
-    "user_invited_to_join_team": ":UserName has invited you to join their team!",
+    "user_invited_to_join_team": ":UserName-მა მოგიწვიათ შეუერთდეთ მათ გუნდს!",
     "uuid": ":Attribute უნდა იყოს ვალიდური UUID.",
     "vat_id": "ეს დღგ-ის საიდენტიფიკაციო ნომერი არასწორია.",
     "view_all_teams": "ყველა გუნდის ნახვა",

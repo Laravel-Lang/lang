@@ -166,7 +166,7 @@
     "user_already_invited_to_team": "Цього користувача вже запрошено до команди.",
     "user_already_on_team": "Цей користувач уже входить до команди.",
     "user_doesnt_belong_to_team": "Користувач не належить до даної команди.",
-    "user_invited_to_join_team": ":UserName has invited you to join their team!",
+    "user_invited_to_join_team": ":UserName запросив вас приєднатися до своєї команди!",
     "uuid": "Поле :attribute має бути коректним UUID ідентифікатором.",
     "vat_id": "Цей ідентифікаційний номер ПДВ недійсний.",
     "view_all_teams": "Переглянути всі команди",

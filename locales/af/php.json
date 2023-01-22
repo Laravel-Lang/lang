@@ -166,7 +166,7 @@
     "user_already_invited_to_team": "Daardie gebruiker is reeds na die span genooi.",
     "user_already_on_team": "Daardie gebruiker is reeds in die span.",
     "user_doesnt_belong_to_team": "Die gebruiker behoort nie aan die gegewe span nie.",
-    "user_invited_to_join_team": ":UserName has invited you to join their team!",
+    "user_invited_to_join_team": ":UserName het jou genooi om by hul span aan te sluit!",
     "uuid": "Die :attribute moet 'n geldige UUID wees.",
     "vat_id": "Hierdie BTW-identifikasienommer is ongeldig.",
     "view_all_teams": "Bekyk alle spanne",

@@ -166,7 +166,7 @@
     "user_already_invited_to_team": "Тој корисник е веќе поканет во тимот.",
     "user_already_on_team": "Тој корисник е веќе во тимот.",
     "user_doesnt_belong_to_team": "Корисникот не припаѓа на дадениот тим.",
-    "user_invited_to_join_team": ":UserName has invited you to join their team!",
+    "user_invited_to_join_team": ":UserName ве покани да се придружите на нивниот тим!",
     "uuid": "Полето :attribute мора да биде валиден УУИД.",
     "vat_id": "Овој матичен број за ДДВ е неважечки.",
     "view_all_teams": "Прикажи ги сите тимови",

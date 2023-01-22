@@ -1,0 +1,12 @@
+name: translate
+
+on:
+    schedule:
+        -   cron: 0 1 * * *
+    workflow_dispatch:
+
+permissions: write-all
+
+jobs:
+    laravel:
+        uses: Laravel-Lang/.github/.github/workflows/translate.yml@main

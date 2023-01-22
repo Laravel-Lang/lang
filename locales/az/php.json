@@ -166,7 +166,7 @@
     "user_already_invited_to_team": "Həmin istifadəçi artıq komandaya dəvət olunub.",
     "user_already_on_team": "Həmin istifadəçi artıq komandadadır.",
     "user_doesnt_belong_to_team": "İstifadəçi verilən komandaya aid deyil.",
-    "user_invited_to_join_team": ":UserName has invited you to join their team!",
+    "user_invited_to_join_team": ":UserName sizi öz komandasına qoşulmağa dəvət etdi!",
     "uuid": ":Attribute düzgün UUID olmalıdır.",
     "vat_id": "Bu ƏDV identifikasiya nömrəsi etibarsızdır.",
     "view_all_teams": "Bütün Komandalara Baxın",

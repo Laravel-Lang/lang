@@ -166,7 +166,7 @@
     "user_already_invited_to_team": "সেই ব্যবহারকারী ইতিমধ্যেই দলে আমন্ত্রিত।",
     "user_already_on_team": "সেই ব্যবহারকারী ইতিমধ্যেই দলে রয়েছেন।",
     "user_doesnt_belong_to_team": "ব্যবহারকারী প্রদত্ত দলের অন্তর্গত নয়.",
-    "user_invited_to_join_team": ":UserName has invited you to join their team!",
+    "user_invited_to_join_team": ":UserName আপনাকে তাদের দলে যোগ দিতে আমন্ত্রণ জানিয়েছে!",
     "uuid": "এই :attribute একটি বৈধ UUID হতে হবে।",
     "vat_id": "এই ভ্যাট সনাক্তকরণ নম্বরটি অবৈধ৷",
     "view_all_teams": "সমস্ত দল দেখুন",

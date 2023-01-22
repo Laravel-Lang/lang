@@ -166,7 +166,7 @@
     "user_already_invited_to_team": "Dieser Benutzer ist bereits in das Team eingeladen.",
     "user_already_on_team": "Dieser Benutzer ist bereits im Team.",
     "user_doesnt_belong_to_team": "Der Benutzer gehört nicht zum angegebenen Team.",
-    "user_invited_to_join_team": ":UserName has invited you to join their team!",
+    "user_invited_to_join_team": ":UserName hat Sie eingeladen, ihrem Team beizutreten!",
     "uuid": ":Attribute muss ein UUID sein.",
     "vat_id": "Diese Umsatzsteuer-Identifikationsnummer ist ungültig.",
     "view_all_teams": "Alle Teams anzeigen",

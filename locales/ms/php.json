@@ -166,7 +166,7 @@
     "user_already_invited_to_team": "Pengguna itu sudah dijemput ke pasukan.",
     "user_already_on_team": "Pengguna itu sudah pun berada dalam pasukan.",
     "user_doesnt_belong_to_team": "Pengguna bukan tergolong dalam pasukan yang diberikan.",
-    "user_invited_to_join_team": ":UserName has invited you to join their team!",
+    "user_invited_to_join_team": ":UserName telah menjemput anda untuk menyertai pasukan mereka!",
     "uuid": ":Attribute mesti UUID yang sah.",
     "vat_id": "Nombor pengenalan VAT ini tidak sah.",
     "view_all_teams": "Lihat Semua Pasukan",

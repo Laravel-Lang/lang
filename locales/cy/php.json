@@ -166,7 +166,7 @@
     "user_already_invited_to_team": "Mae'r defnyddiwr hwnnw eisoes wedi'i wahodd i'r tîm.",
     "user_already_on_team": "Mae'r defnyddiwr hwnnw eisoes ar y tîm.",
     "user_doesnt_belong_to_team": "Nid yw'r defnyddiwr yn perthyn i'r tîm penodol.",
-    "user_invited_to_join_team": ":UserName has invited you to join their team!",
+    "user_invited_to_join_team": "Mae :UserName wedi eich gwahodd i ymuno â'u tîm!",
     "uuid": "Y :attribute rhaid iddo fod yn ddilys UUID.",
     "vat_id": "Mae'r rhif adnabod TAW hwn yn annilys.",
     "view_all_teams": "Gweld Pob Tîm",

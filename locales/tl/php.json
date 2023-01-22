@@ -166,7 +166,7 @@
     "user_already_invited_to_team": "Ang user na iyon ay iniimbitahan na sa team.",
     "user_already_on_team": "Ang user na iyon ay nasa team na.",
     "user_doesnt_belong_to_team": "Ang gumagamit ay hindi kabilang sa ibinigay na koponan.",
-    "user_invited_to_join_team": ":UserName has invited you to join their team!",
+    "user_invited_to_join_team": "Inimbitahan ka ng :UserName na sumali sa kanilang koponan!",
     "uuid": ":Attribute ay dapat na isang wastong UUID.",
     "vat_id": "Di-wasto ang VAT identification number na ito.",
     "view_all_teams": "Tingnan ang Lahat ng Koponan",

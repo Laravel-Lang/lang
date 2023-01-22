@@ -166,7 +166,7 @@
     "user_already_invited_to_team": "该用户已被邀请加入团队。",
     "user_already_on_team": "该用户已经在团队中。",
     "user_doesnt_belong_to_team": "用户不属于给定的团队。",
-    "user_invited_to_join_team": ":UserName has invited you to join their team!",
+    "user_invited_to_join_team": ":UserName 邀请您加入他们的团队！",
     "uuid": ":Attribute 必须是有效的 UUID。",
     "vat_id": "此增值税识别号无效。",
     "view_all_teams": "查看所有团队",

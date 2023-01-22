@@ -166,7 +166,7 @@
     "user_already_invited_to_team": "Tämä käyttäjä on jo kutsuttu tiimiin.",
     "user_already_on_team": "Tämä käyttäjä on jo tiimissä.",
     "user_doesnt_belong_to_team": "Käyttäjä ei kuulu annettuun tiimiin.",
-    "user_invited_to_join_team": ":UserName has invited you to join their team!",
+    "user_invited_to_join_team": ":UserName on kutsunut sinut tiimiinsä!",
     "uuid": ":Attribute tulee olla kelvollinen UUID.",
     "vat_id": "Tämä ALV-tunniste on virheellinen.",
     "view_all_teams": "Näytä kaikki joukkueet",

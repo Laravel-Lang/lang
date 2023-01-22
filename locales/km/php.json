@@ -166,7 +166,7 @@
     "user_already_invited_to_team": "អ្នកប្រើប្រាស់នោះត្រូវបានអញ្ជើញឱ្យចូលរួមក្នុងក្រុមរួចហើយ។",
     "user_already_on_team": "អ្នកប្រើប្រាស់នោះមាននៅក្នុងក្រុមរួចហើយ។",
     "user_doesnt_belong_to_team": "អ្នកប្រើប្រាស់មិនមែនជាកម្មសិទ្ធិរបស់ក្រុមដែលបានផ្តល់ឱ្យទេ។",
-    "user_invited_to_join_team": ":UserName has invited you to join their team!",
+    "user_invited_to_join_team": ":UserName បានអញ្ជើញអ្នកឱ្យចូលរួមក្រុមរបស់ពួកគេ!",
     "uuid": ":Attribute ត្រូវតែជាទម្រង់ UUID។",
     "vat_id": "លេខអត្តសញ្ញាណ VAT នេះមិនត្រឹមត្រូវទេ។",
     "view_all_teams": "មើលក្រុមទាំងអស់។",

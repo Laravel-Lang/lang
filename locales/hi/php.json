@@ -166,7 +166,7 @@
     "user_already_invited_to_team": "वह उपयोगकर्ता पहले से ही टीम में आमंत्रित है।",
     "user_already_on_team": "वह उपयोगकर्ता पहले से ही टीम में है।",
     "user_doesnt_belong_to_team": "उपयोगकर्ता दी गई टीम से संबंधित नहीं है।",
-    "user_invited_to_join_team": ":UserName has invited you to join their team!",
+    "user_invited_to_join_team": ":UserName ने आपको अपनी टीम में शामिल होने के लिए आमंत्रित किया है!",
     "uuid": ":Attribute एक वैध UUID होना चाहिए ।",
     "vat_id": "यह वैट पहचान संख्या अमान्य है।",
     "view_all_teams": "सभी टीमें देखें",

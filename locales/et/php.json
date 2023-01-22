@@ -166,7 +166,7 @@
     "user_already_invited_to_team": "See kasutaja on juba meeskonda kutsutud.",
     "user_already_on_team": "See kasutaja on juba meeskonnas.",
     "user_doesnt_belong_to_team": "Kasutaja ei kuulu antud meeskonda.",
-    "user_invited_to_join_team": ":UserName has invited you to join their team!",
+    "user_invited_to_join_team": ":UserName kutsus teid oma meeskonnaga liituma!",
     "uuid": ":Attribute peab olema õige UUID",
     "vat_id": "See käibemaksukohustuslasena registreerimise number on kehtetu.",
     "view_all_teams": "Kuva kõik meeskonnad",

@@ -166,7 +166,7 @@
     "user_already_invited_to_team": "Šis lietotājs jau ir uzaicināts komandā.",
     "user_already_on_team": "Šis lietotājs jau ir komandā.",
     "user_doesnt_belong_to_team": "Lietotājs nepieder dotajai komandai.",
-    "user_invited_to_join_team": ":UserName has invited you to join their team!",
+    "user_invited_to_join_team": ":UserName uzaicināja jūs pievienoties savai komandai!",
     "uuid": ":Attribute jābūt derīgam UUID.",
     "vat_id": "Šis PVN identifikācijas numurs nav derīgs.",
     "view_all_teams": "Skatīt visas komandas",

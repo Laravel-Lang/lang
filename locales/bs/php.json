@@ -166,7 +166,7 @@
     "user_already_invited_to_team": "Taj korisnik je već pozvan u tim.",
     "user_already_on_team": "Taj korisnik je već u timu.",
     "user_doesnt_belong_to_team": "Korisnik ne pripada datom timu.",
-    "user_invited_to_join_team": ":UserName has invited you to join their team!",
+    "user_invited_to_join_team": ":UserName vas je pozvao da se pridružite njihovom timu!",
     "uuid": "Polje :attribute mora biti validan UUID.",
     "vat_id": "Ovaj PDV identifikacioni broj je nevažeći.",
     "view_all_teams": "Pogledaj sve timove",

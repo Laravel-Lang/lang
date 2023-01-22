@@ -166,7 +166,7 @@
     "user_already_invited_to_team": "Ese usuario xa está invitado ao equipo.",
     "user_already_on_team": "Ese usuario xa está no equipo.",
     "user_doesnt_belong_to_team": "O usuario non pertence ao equipo indicado.",
-    "user_invited_to_join_team": ":UserName has invited you to join their team!",
+    "user_invited_to_join_team": ":UserName invitoute a unirte ao seu equipo!",
     "uuid": "O :attribute debe ser un UUID válido.",
     "vat_id": "Este número de identificación de IVE non é válido.",
     "view_all_teams": "Ver todos os equipos",

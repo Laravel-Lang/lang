@@ -8,5 +8,5 @@ on:
 permissions: write-all
 
 jobs:
-    laravel:
+    translate:
         uses: Laravel-Lang/.github/.github/workflows/translate.yml@main

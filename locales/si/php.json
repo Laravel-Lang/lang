@@ -166,7 +166,7 @@
     "user_already_invited_to_team": "එම පරිශීලකයාට දැනටමත් කණ්ඩායමට ආරාධනා කර ඇත.",
     "user_already_on_team": "එම පරිශීලකයා දැනටමත් කණ්ඩායමේ සිටී.",
     "user_doesnt_belong_to_team": "පරිශීලකයා ලබා දී ඇති කණ්ඩායමට අයත් නොවේ.",
-    "user_invited_to_join_team": ":UserName has invited you to join their team!",
+    "user_invited_to_join_team": ":UserName ඔබට ඔවුන්ගේ කණ්ඩායමට එක්වන ලෙස ආරාධනා කර ඇත!",
     "uuid": "මෙම :attribute වලංගු UUID විය යුතුය.",
     "vat_id": "මෙම වැට් බදු හඳුනාගැනීමේ අංකය වලංගු නොවේ.",
     "view_all_teams": "සියලුම කණ්ඩායම් බලන්න",

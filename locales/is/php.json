@@ -166,7 +166,7 @@
     "user_already_invited_to_team": "Þessum notanda er þegar boðið í teymið.",
     "user_already_on_team": "Sá notandi er nú þegar í teyminu.",
     "user_doesnt_belong_to_team": "Notandinn tilheyrir ekki tilteknu teymi.",
-    "user_invited_to_join_team": ":UserName has invited you to join their team!",
+    "user_invited_to_join_team": ":UserName hefur boðið þér að slást í hópinn sinn!",
     "uuid": ":Attribute verður að vera gilt UUID.",
     "vat_id": "Þetta VSK-auðkennisnúmer er ógilt.",
     "view_all_teams": "Skoða öll lið",

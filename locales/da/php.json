@@ -166,7 +166,7 @@
     "user_already_invited_to_team": "Denne bruger er allerede inviteret til holdet.",
     "user_already_on_team": "Denne bruger er allerede på holdet.",
     "user_doesnt_belong_to_team": "Brugeren tilhører ikke det givne team.",
-    "user_invited_to_join_team": ":UserName has invited you to join their team!",
+    "user_invited_to_join_team": ":UserName har inviteret dig til at slutte sig til deres team!",
     "uuid": ":Attribute skal være en gyldig UUID.",
     "vat_id": "Dette momsregistreringsnummer er ugyldigt.",
     "view_all_teams": "Se alle hold",

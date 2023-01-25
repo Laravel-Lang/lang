@@ -4,12 +4,12 @@ editLink: false
 
 # sv
 
-##### All missed: 173
+##### All missed: 172
 
 
 ### json
 
-##### Missing: 171
+##### Missing: 170
 
 <table width="100%">
 <tr><th width="50%">
@@ -1414,15 +1414,6 @@ Total:
 </td><td width="50%">
 
 Total:
-
-</td></tr>
-<tr><td width="50%">
-
-Trialing
-
-</td><td width="50%">
-
-Trialing
 
 </td></tr>
 <tr><td width="50%">

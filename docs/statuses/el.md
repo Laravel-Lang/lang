@@ -4,12 +4,12 @@ editLink: false
 
 # el
 
-##### All missed: 9
+##### All missed: 8
 
 
 ### json
 
-##### Missing: 8
+##### Missing: 7
 
 <table width="100%">
 <tr><th width="50%">
@@ -64,15 +64,6 @@ Saint Kitts and Nevis
 </td><td width="50%">
 
 Saint Kitts and Nevis
-
-</td></tr>
-<tr><td width="50%">
-
-Saint Pierre and Miquelon
-
-</td><td width="50%">
-
-Saint Pierre and Miquelon
 
 </td></tr>
 <tr><td width="50%">

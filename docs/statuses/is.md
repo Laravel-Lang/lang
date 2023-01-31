@@ -4,7 +4,7 @@ editLink: false
 
 # is
 
-##### All missed: 60
+##### All missed: 59
 
 
 ### json
@@ -551,7 +551,7 @@ Yukon
 
 ### php
 
-##### Missing: 2
+##### Missing: 1
 
 <table width="100%">
 <tr><th width="50%">
@@ -570,15 +570,6 @@ team_slug
 </td><td width="50%">
 
 Team Slug
-
-</td></tr>
-<tr><td width="50%">
-
-team_trial
-
-</td><td width="50%">
-
-Team Trial
 
 </td></tr>
 </table>

@@ -8,7 +8,7 @@ class V10 extends Plugin
 {
     protected ?string $vendor = 'laravel/lumen-framework';
 
-    protected string $version = '^10.0 || 10.x-dev';
+    protected string $version = '^10.0';
 
     public function files(): array
     {

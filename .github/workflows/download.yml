@@ -13,7 +13,7 @@ jobs:
         strategy:
             fail-fast: true
             matrix:
-                version: [ "9.x", "master" ]
+                version: [ "9.x", "10.x", "master" ]
         with:
             project: Laravel Framework ${{ matrix.version }}
             paths: source/laravel/${{ matrix.version }}/*,source/framework/${{ matrix.version }}/*
@@ -34,7 +34,7 @@ jobs:
         strategy:
             fail-fast: true
             matrix:
-                version: [ "9.x", "master" ]
+                version: [ "9.x", "10.x", "master" ]
         with:
             project: Lumen Framework ${{ matrix.version }}
             paths: source/lumen-framework/${{ matrix.version }}/*

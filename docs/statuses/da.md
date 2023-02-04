@@ -4,12 +4,12 @@ editLink: false
 
 # da
 
-##### All missed: 191
+##### All missed: 190
 
 
 ### json
 
-##### Missing: 189
+##### Missing: 188
 
 <table width="100%">
 <tr><th width="50%">
@@ -1549,15 +1549,6 @@ Top Up Balance
 </td><td width="50%">
 
 Top Up Balance
-
-</td></tr>
-<tr><td width="50%">
-
-Total:
-
-</td><td width="50%">
-
-Total:
 
 </td></tr>
 <tr><td width="50%">

@@ -4,7 +4,7 @@ editLink: false
 
 # oc
 
-##### All missed: 1184
+##### All missed: 1195
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 1073
+##### Missing: 1074
 
 <table width="100%">
 <tr><th width="50%">
@@ -5463,6 +5463,15 @@ Payment Method
 </td></tr>
 <tr><td width="50%">
 
+Payment Required
+
+</td><td width="50%">
+
+Payment Required
+
+</td></tr>
+<tr><td width="50%">
+
 Payment Successful
 
 </td><td width="50%">
@@ -9834,7 +9843,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 24
+##### Missing: 29
 
 <table width="100%">
 <tr><th width="50%">
@@ -9934,6 +9943,51 @@ min_digits
 </td><td width="50%">
 
 This field must have at least :min digits.
+
+</td></tr>
+<tr><td width="50%">
+
+missing
+
+</td><td width="50%">
+
+This field must be missing.
+
+</td></tr>
+<tr><td width="50%">
+
+missing_if
+
+</td><td width="50%">
+
+This field must be missing when :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+missing_unless
+
+</td><td width="50%">
+
+This field must be missing unless :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+missing_with
+
+</td><td width="50%">
+
+This field must be missing when :values is present.
+
+</td></tr>
+<tr><td width="50%">
+
+missing_with_all
+
+</td><td width="50%">
+
+This field must be missing when :values are present.
 
 </td></tr>
 <tr><td width="50%">
@@ -10070,7 +10124,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 73
+##### Missing: 78
 
 <table width="100%">
 <tr><th width="50%">
@@ -10323,6 +10377,51 @@ min_digits
 </td><td width="50%">
 
 The :attribute must have at least :min digits.
+
+</td></tr>
+<tr><td width="50%">
+
+missing
+
+</td><td width="50%">
+
+The :attribute field must be missing.
+
+</td></tr>
+<tr><td width="50%">
+
+missing_if
+
+</td><td width="50%">
+
+The :attribute field must be missing when :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+missing_unless
+
+</td><td width="50%">
+
+The :attribute field must be missing unless :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+missing_with
+
+</td><td width="50%">
+
+The :attribute field must be missing when :values is present.
+
+</td></tr>
+<tr><td width="50%">
+
+missing_with_all
+
+</td><td width="50%">
+
+The :attribute field must be missing when :values are present.
 
 </td></tr>
 <tr><td width="50%">

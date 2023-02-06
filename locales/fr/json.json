@@ -1057,7 +1057,7 @@
     "You currently receive a discount of :discountAmount for all invoices during the next billing cycle.": "Vous bénéficiez actuellement d'une remise de :discountAmount sur toutes les factures du prochain cycle de facturation.",
     "You currently receive a discount of :discountAmount for all invoices during the next month.": "Vous bénéficiez actuellement d'une remise de :discountAmount sur toutes les factures du mois prochain.",
     "You currently receive a discount of :discountAmount forever.": "Vous bénéficiez actuellement d'une remise perpétuelle de :discountAmount.",
-    "You have been invited to join the :team team!": "Vous avez été invité à rejoindre l'équipe :team !",
+    "You have been invited to join the :team team!": "Vous avez été invité(e) à rejoindre l'équipe :team !",
     "You have cancelled your subscription to the :planName plan.": "Vous avez annulé votre abonnement au forfait :planName.",
     "You have enabled two factor authentication.": "Vous avez activé l'authentification à deux facteurs.",
     "You have not enabled two factor authentication.": "Vous n'avez pas activé l'authentification à deux facteurs.",

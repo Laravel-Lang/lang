@@ -172,7 +172,7 @@
     "view_all_teams": "Voir toutes les équipes",
     "we_found_invitation_to_team": "Nous avons trouvé votre invitation à rejoindre l'équipe :teamName !",
     "wheres_your_team": "Où est votre équipe ?",
-    "you_have_been_invited_to_join_team": "Vous avez été invité à rejoindre l'équipe :teamName !",
+    "you_have_been_invited_to_join_team": "Vous avez été invité(e) à rejoindre l'équipe :teamName !",
     "you_have_x_invitations_remaining": " Il vous reste :count invitation(s).",
     "you_have_x_teams_remaining": "Il vous reste :teamCount équipes."
 }

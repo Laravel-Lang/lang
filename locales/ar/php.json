@@ -116,7 +116,7 @@
     "prohibited_if": "حقل :attribute محظور إذا كان :other هو :value.",
     "prohibited_unless": "حقل :attribute محظور ما لم يكن :other ضمن :values.",
     "prohibits": "الحقل :attribute يحظر تواجد الحقل :other.",
-    "regex": "صيغة حقل :attribute .غير صحيحة.",
+    "regex": "صيغة حقل :attribute غير صحيحة.",
     "relatable": "حقل :attribute قد لا يكون مرتبطا بالمصدر المحدد.",
     "remove_team_member": "إزالة عضو الفريق",
     "required": "حقل :attribute مطلوب.",

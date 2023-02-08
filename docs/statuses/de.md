@@ -4,12 +4,12 @@ editLink: false
 
 # de
 
-##### All missed: 56
+##### All missed: 55
 
 
 ### json
 
-##### Missing: 55
+##### Missing: 54
 
 <table width="100%">
 <tr><th width="50%">
@@ -118,15 +118,6 @@ Hawaii
 </td><td width="50%">
 
 Hawaii
-
-</td></tr>
-<tr><td width="50%">
-
-Hi!
-
-</td><td width="50%">
-
-Hi!
 
 </td></tr>
 <tr><td width="50%">

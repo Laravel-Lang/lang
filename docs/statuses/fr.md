@@ -4,12 +4,12 @@ editLink: false
 
 # fr
 
-##### All missed: 47
+##### All missed: 33
 
 
 ### json
 
-##### Missing: 42
+##### Missing: 28
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,24 +23,6 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-Alberta
-
-</td><td width="50%">
-
-Alberta
-
-</td></tr>
-<tr><td width="50%">
-
-Brunei Darussalam
-
-</td><td width="50%">
-
-Brunei Darussalam
-
-</td></tr>
-<tr><td width="50%">
-
 Confirm Billing Action
 
 </td><td width="50%">
@@ -59,47 +41,11 @@ Connecticut
 </td></tr>
 <tr><td width="50%">
 
-Delaware
-
-</td><td width="50%">
-
-Delaware
-
-</td></tr>
-<tr><td width="50%">
-
-Idaho
-
-</td><td width="50%">
-
-Idaho
-
-</td></tr>
-<tr><td width="50%">
-
 If you lose your two-factor authentication device, you may use this emergency reset token to disable two-factor authentication on your account.
 
 </td><td width="50%">
 
 If you lose your two-factor authentication device, you may use this emergency reset token to disable two-factor authentication on your account.
-
-</td></tr>
-<tr><td width="50%">
-
-Iowa
-
-</td><td width="50%">
-
-Iowa
-
-</td></tr>
-<tr><td width="50%">
-
-Kentucky
-
-</td><td width="50%">
-
-Kentucky
 
 </td></tr>
 <tr><td width="50%">
@@ -118,15 +64,6 @@ Lost Your Device?
 </td><td width="50%">
 
 Lost Your Device?
-
-</td></tr>
-<tr><td width="50%">
-
-Maine
-
-</td><td width="50%">
-
-Maine
 
 </td></tr>
 <tr><td width="50%">
@@ -158,15 +95,6 @@ Massachusetts
 </td></tr>
 <tr><td width="50%">
 
-Minnesota
-
-</td><td width="50%">
-
-Minnesota
-
-</td></tr>
-<tr><td width="50%">
-
 mo
 
 </td><td width="50%">
@@ -185,15 +113,6 @@ N/A
 </td></tr>
 <tr><td width="50%">
 
-New Brunswick
-
-</td><td width="50%">
-
-New Brunswick
-
-</td></tr>
-<tr><td width="50%">
-
 New Hampshire
 
 </td><td width="50%">
@@ -203,29 +122,11 @@ New Hampshire
 </td></tr>
 <tr><td width="50%">
 
-Newfoundland and Labrador
-
-</td><td width="50%">
-
-Newfoundland and Labrador
-
-</td></tr>
-<tr><td width="50%">
-
 No payment method on file.
 
 </td><td width="50%">
 
 No payment method on file.
-
-</td></tr>
-<tr><td width="50%">
-
-Nova Scotia
-
-</td><td width="50%">
-
-Nova Scotia
 
 </td></tr>
 <tr><td width="50%">
@@ -311,15 +212,6 @@ Saskatchewan
 </td></tr>
 <tr><td width="50%">
 
-Tennessee
-
-</td><td width="50%">
-
-Tennessee
-
-</td></tr>
-<tr><td width="50%">
-
 Token Can
 
 </td><td width="50%">
@@ -365,15 +257,6 @@ Utah
 </td></tr>
 <tr><td width="50%">
 
-Virginia
-
-</td><td width="50%">
-
-Virginia
-
-</td></tr>
-<tr><td width="50%">
-
 Welcome to your new subscription.
 
 </td><td width="50%">
@@ -388,15 +271,6 @@ Wisconsin
 </td><td width="50%">
 
 Wisconsin
-
-</td></tr>
-<tr><td width="50%">
-
-Wyoming
-
-</td><td width="50%">
-
-Wyoming
 
 </td></tr>
 </table>

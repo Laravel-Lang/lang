@@ -4,12 +4,12 @@ editLink: false
 
 # fr
 
-##### All missed: 33
+##### All missed: 23
 
 
 ### json
 
-##### Missing: 28
+##### Missing: 18
 
 <table width="100%">
 <tr><th width="50%">
@@ -32,15 +32,6 @@ Confirm Billing Action
 </td></tr>
 <tr><td width="50%">
 
-Connecticut
-
-</td><td width="50%">
-
-Connecticut
-
-</td></tr>
-<tr><td width="50%">
-
 If you lose your two-factor authentication device, you may use this emergency reset token to disable two-factor authentication on your account.
 
 </td><td width="50%">
@@ -68,33 +59,6 @@ Lost Your Device?
 </td></tr>
 <tr><td width="50%">
 
-Manitoba
-
-</td><td width="50%">
-
-Manitoba
-
-</td></tr>
-<tr><td width="50%">
-
-Maryland
-
-</td><td width="50%">
-
-Maryland
-
-</td></tr>
-<tr><td width="50%">
-
-Massachusetts
-
-</td><td width="50%">
-
-Massachusetts
-
-</td></tr>
-<tr><td width="50%">
-
 mo
 
 </td><td width="50%">
@@ -113,29 +77,11 @@ N/A
 </td></tr>
 <tr><td width="50%">
 
-New Hampshire
-
-</td><td width="50%">
-
-New Hampshire
-
-</td></tr>
-<tr><td width="50%">
-
 No payment method on file.
 
 </td><td width="50%">
 
 No payment method on file.
-
-</td></tr>
-<tr><td width="50%">
-
-Nunavut
-
-</td><td width="50%">
-
-Nunavut
 
 </td></tr>
 <tr><td width="50%">
@@ -194,24 +140,6 @@ Remove All Abilities
 </td></tr>
 <tr><td width="50%">
 
-Rhode Island
-
-</td><td width="50%">
-
-Rhode Island
-
-</td></tr>
-<tr><td width="50%">
-
-Saskatchewan
-
-</td><td width="50%">
-
-Saskatchewan
-
-</td></tr>
-<tr><td width="50%">
-
 Token Can
 
 </td><td width="50%">
@@ -248,29 +176,11 @@ Trialing
 </td></tr>
 <tr><td width="50%">
 
-Utah
-
-</td><td width="50%">
-
-Utah
-
-</td></tr>
-<tr><td width="50%">
-
 Welcome to your new subscription.
 
 </td><td width="50%">
 
 Welcome to your new subscription.
-
-</td></tr>
-<tr><td width="50%">
-
-Wisconsin
-
-</td><td width="50%">
-
-Wisconsin
 
 </td></tr>
 </table>

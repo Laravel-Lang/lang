@@ -15,7 +15,7 @@ class V10 extends Plugin
         return [
             'lumen-framework/extended.json'         => '{locale}.json',
 
-            'lumen-framework/master/validation.php' => '{locale}/validation.php',
+            'lumen-framework/10.x/validation.php' => '{locale}/validation.php',
         ];
     }
 }

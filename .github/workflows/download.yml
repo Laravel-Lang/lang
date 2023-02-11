@@ -35,7 +35,7 @@ jobs:
         strategy:
             fail-fast: true
             matrix:
-                version: [ "9.x", "10.x", "master" ]
+                version: [ "9.x", "master" ]
         with:
             project: Lumen Framework ${{ matrix.version }}
             paths: source/lumen-framework/${{ matrix.version }}/*

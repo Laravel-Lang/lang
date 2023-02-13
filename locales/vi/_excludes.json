@@ -1,7 +1,4 @@
 [
-    "API",
-    "API Token",
-    "API Tokens",
     "Administrator",
     "Afghanistan",
     "Alabama",
@@ -12,6 +9,9 @@
     "Andorra",
     "Angola",
     "Anguilla",
+    "API",
+    "API Token",
+    "API Tokens",
     "Argentina",
     "Arkansas",
     "Armenia",
@@ -33,7 +33,6 @@
     "Bulgaria",
     "Burkina Faso",
     "Burundi",
-    "CSV (.csv)",
     "Cameroon",
     "Canada",
     "Cape Verde",
@@ -46,6 +45,7 @@
     "Connecticut",
     "Costa Rica",
     "Croatia",
+    "CSV (.csv)",
     "Cuba",
     "Curaçao",
     "Cyprus",
@@ -82,8 +82,8 @@
     "Hold Up!",
     "Honduras",
     "Hungary",
-    "ID",
     "Iceland",
+    "ID",
     "Idaho",
     "Illinois",
     "Indonesia",
@@ -131,6 +131,7 @@
     "Minnesota",
     "Mississippi",
     "Missouri",
+    "mo",
     "Moldova",
     "Monaco",
     "Montana",
@@ -210,6 +211,5 @@
     "Yemen",
     "Yukon",
     "Zambia",
-    "Zimbabwe",
-    "mo"
-  ]
+    "Zimbabwe"
+]

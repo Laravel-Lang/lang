@@ -98,7 +98,7 @@ jobs:
         strategy:
             fail-fast: true
             matrix:
-                version: [ "1.x", "2.x", "master" ]
+                version: [ "1.x", "2.x", "3.x", "master" ]
         with:
             project: Laravel Jetstream ${{ matrix.version }}
             paths: source/jetstream/${{ matrix.version }}/*

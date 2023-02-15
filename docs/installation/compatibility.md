@@ -18,7 +18,7 @@ composer require laravel-lang/lang:^12.0 laravel-lang/publisher:^14.0
 | Breeze                | 1          |
 | Cashier Stripe        | 12, 13, 14 |
 | Fortify               | 1          |
-| Jetstream             | 1, 2       |
+| Jetstream             | 1, 2, 3    |
 | Nova                  | 3, 4       |
 | Spark Aurelius        | 11, 12     |
 | Spark Aurelius Mollie | 2          |

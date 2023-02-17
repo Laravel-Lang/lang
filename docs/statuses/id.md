@@ -4,12 +4,12 @@ editLink: false
 
 # id
 
-##### All missed: 53
+##### All missed: 52
 
 
 ### json
 
-##### Missing: 53
+##### Missing: 52
 
 <table width="100%">
 <tr><th width="50%">
@@ -253,15 +253,6 @@ Minnesota
 </td><td width="50%">
 
 Minnesota
-
-</td></tr>
-<tr><td width="50%">
-
-Mississippi
-
-</td><td width="50%">
-
-Mississippi
 
 </td></tr>
 <tr><td width="50%">

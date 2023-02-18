@@ -459,5 +459,7 @@
   "Filename": "Filename",
   "Type": "Type",
   "CSV (.csv)": "CSV (.csv)",
-  "Excel (.xlsx)": "Excel (.xlsx)"
+  "Excel (.xlsx)": "Excel (.xlsx)",
+  "Attach files by dragging & dropping, selecting or pasting them.": "Attach files by dragging & dropping, selecting or pasting them.",
+  "Uploading files... (:current/:total)": "Uploading files... (:current/:total)"
 }

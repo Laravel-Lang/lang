@@ -4,7 +4,7 @@ editLink: false
 
 # sc
 
-##### All missed: 1243
+##### All missed: 1245
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 1074
+##### Missing: 1076
 
 <table width="100%">
 <tr><th width="50%">
@@ -1101,6 +1101,15 @@ Attach :resource
 </td><td width="50%">
 
 Attach :resource
+
+</td></tr>
+<tr><td width="50%">
+
+Attach files by dragging & dropping, selecting or pasting them.
+
+</td><td width="50%">
+
+Attach files by dragging & dropping, selecting or pasting them.
 
 </td></tr>
 <tr><td width="50%">
@@ -8744,6 +8753,15 @@ Updating
 </td><td width="50%">
 
 Updating
+
+</td></tr>
+<tr><td width="50%">
+
+Uploading files... (:current/:total)
+
+</td><td width="50%">
+
+Uploading files... (:current/:total)
 
 </td></tr>
 <tr><td width="50%">

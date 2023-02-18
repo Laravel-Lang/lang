@@ -4,7 +4,7 @@ editLink: false
 
 # uz_Latn
 
-##### All missed: 693
+##### All missed: 695
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 583
+##### Missing: 585
 
 <table width="100%">
 <tr><th width="50%">
@@ -597,6 +597,15 @@ Assign All Abilities
 </td><td width="50%">
 
 Assign All Abilities
+
+</td></tr>
+<tr><td width="50%">
+
+Attach files by dragging & dropping, selecting or pasting them.
+
+</td><td width="50%">
+
+Attach files by dragging & dropping, selecting or pasting them.
 
 </td></tr>
 <tr><td width="50%">
@@ -4575,6 +4584,15 @@ Updating
 </td><td width="50%">
 
 Updating
+
+</td></tr>
+<tr><td width="50%">
+
+Uploading files... (:current/:total)
+
+</td><td width="50%">
+
+Uploading files... (:current/:total)
 
 </td></tr>
 <tr><td width="50%">

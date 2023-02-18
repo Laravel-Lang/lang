@@ -4,12 +4,12 @@ editLink: false
 
 # ms
 
-##### All missed: 207
+##### All missed: 209
 
 
 ### json
 
-##### Missing: 207
+##### Missing: 209
 
 <table width="100%">
 <tr><th width="50%">
@@ -163,6 +163,15 @@ Aruba
 </td><td width="50%">
 
 Aruba
+
+</td></tr>
+<tr><td width="50%">
+
+Attach files by dragging & dropping, selecting or pasting them.
+
+</td><td width="50%">
+
+Attach files by dragging & dropping, selecting or pasting them.
 
 </td></tr>
 <tr><td width="50%">
@@ -1765,6 +1774,15 @@ United Kingdom
 </td><td width="50%">
 
 United Kingdom
+
+</td></tr>
+<tr><td width="50%">
+
+Uploading files... (:current/:total)
+
+</td><td width="50%">
+
+Uploading files... (:current/:total)
 
 </td></tr>
 <tr><td width="50%">

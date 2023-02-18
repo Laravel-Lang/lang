@@ -4,12 +4,12 @@ editLink: false
 
 # id
 
-##### All missed: 52
+##### All missed: 54
 
 
 ### json
 
-##### Missing: 52
+##### Missing: 54
 
 <table width="100%">
 <tr><th width="50%">
@@ -77,6 +77,15 @@ Arkansas
 </td></tr>
 <tr><td width="50%">
 
+Attach files by dragging & dropping, selecting or pasting them.
+
+</td><td width="50%">
+
+Attach files by dragging & dropping, selecting or pasting them.
+
+</td></tr>
+<tr><td width="50%">
+
 British Columbia
 
 </td><td width="50%">
@@ -415,6 +424,15 @@ Texas
 </td><td width="50%">
 
 Texas
+
+</td></tr>
+<tr><td width="50%">
+
+Uploading files... (:current/:total)
+
+</td><td width="50%">
+
+Uploading files... (:current/:total)
 
 </td></tr>
 <tr><td width="50%">

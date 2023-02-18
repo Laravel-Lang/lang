@@ -4,12 +4,12 @@ editLink: false
 
 # lv
 
-##### All missed: 14
+##### All missed: 16
 
 
 ### json
 
-##### Missing: 14
+##### Missing: 16
 
 <table width="100%">
 <tr><th width="50%">
@@ -59,6 +59,15 @@ Arizona
 </td></tr>
 <tr><td width="50%">
 
+Attach files by dragging & dropping, selecting or pasting them.
+
+</td><td width="50%">
+
+Attach files by dragging & dropping, selecting or pasting them.
+
+</td></tr>
+<tr><td width="50%">
+
 Florida
 
 </td><td width="50%">
@@ -145,6 +154,15 @@ Token Can
 </td><td width="50%">
 
 Token Can
+
+</td></tr>
+<tr><td width="50%">
+
+Uploading files... (:current/:total)
+
+</td><td width="50%">
+
+Uploading files... (:current/:total)
 
 </td></tr>
 </table>

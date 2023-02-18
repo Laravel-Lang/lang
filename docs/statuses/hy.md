@@ -4,12 +4,12 @@ editLink: false
 
 # hy
 
-##### All missed: 4
+##### All missed: 6
 
 
 ### json
 
-##### Missing: 4
+##### Missing: 6
 
 <table width="100%">
 <tr><th width="50%">
@@ -32,6 +32,15 @@ API
 </td></tr>
 <tr><td width="50%">
 
+Attach files by dragging & dropping, selecting or pasting them.
+
+</td><td width="50%">
+
+Attach files by dragging & dropping, selecting or pasting them.
+
+</td></tr>
+<tr><td width="50%">
+
 ID
 
 </td><td width="50%">
@@ -55,6 +64,15 @@ Token Can
 </td><td width="50%">
 
 Token Can
+
+</td></tr>
+<tr><td width="50%">
+
+Uploading files... (:current/:total)
+
+</td><td width="50%">
+
+Uploading files... (:current/:total)
 
 </td></tr>
 </table>

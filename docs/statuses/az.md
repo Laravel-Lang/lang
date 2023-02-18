@@ -4,12 +4,12 @@ editLink: false
 
 # az
 
-##### All missed: 45
+##### All missed: 47
 
 
 ### json
 
-##### Missing: 45
+##### Missing: 47
 
 <table width="100%">
 <tr><th width="50%">
@@ -86,6 +86,15 @@ Aruba
 </td></tr>
 <tr><td width="50%">
 
+Attach files by dragging & dropping, selecting or pasting them.
+
+</td><td width="50%">
+
+Attach files by dragging & dropping, selecting or pasting them.
+
+</td></tr>
+<tr><td width="50%">
+
 Barbados
 
 </td><td width="50%">
@@ -397,6 +406,15 @@ Token Can
 </td><td width="50%">
 
 Token Can
+
+</td></tr>
+<tr><td width="50%">
+
+Uploading files... (:current/:total)
+
+</td><td width="50%">
+
+Uploading files... (:current/:total)
 
 </td></tr>
 <tr><td width="50%">

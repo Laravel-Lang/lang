@@ -4,12 +4,12 @@ editLink: false
 
 # km
 
-##### All missed: 5
+##### All missed: 7
 
 
 ### json
 
-##### Missing: 5
+##### Missing: 7
 
 <table width="100%">
 <tr><th width="50%">
@@ -41,6 +41,15 @@ API Token
 </td></tr>
 <tr><td width="50%">
 
+Attach files by dragging & dropping, selecting or pasting them.
+
+</td><td width="50%">
+
+Attach files by dragging & dropping, selecting or pasting them.
+
+</td></tr>
+<tr><td width="50%">
+
 Connecticut
 
 </td><td width="50%">
@@ -64,6 +73,15 @@ Nova Scotia
 </td><td width="50%">
 
 Nova Scotia
+
+</td></tr>
+<tr><td width="50%">
+
+Uploading files... (:current/:total)
+
+</td><td width="50%">
+
+Uploading files... (:current/:total)
 
 </td></tr>
 </table>

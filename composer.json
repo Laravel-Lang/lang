@@ -19,11 +19,11 @@
         "source": "https://github.com/Laravel-Lang/lang"
     },
     "require": {
+        "php": "^8.1",
         "ext-json": "*",
         "laravel-lang/publisher": "^14.0"
     },
     "require-dev": {
-        "php": "^8.1",
         "laravel-lang/status-generator": "^1.13",
         "phpunit/phpunit": "^9.6",
         "symfony/var-dumper": "^6.0"

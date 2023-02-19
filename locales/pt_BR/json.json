@@ -1055,7 +1055,7 @@
     "You currently have :count invitation(s) remaining.": "No momento, você tem :count convite(s) restante(s).",
     "You currently receive a discount of :discountAmount for a single invoice.": "Atualmente, você recebe um desconto de :discountAmount para uma única fatura.",
     "You currently receive a discount of :discountAmount for all invoices during the next :months billing cycles.": "Atualmente, você recebe um desconto de :discountAmount para todas as faturas durante os próximos ciclos de cobrança de :months.",
-    "You currently receive a discount of :discountAmount for all invoices during the next :months months.": "Atualmente, você recebe um desconto de :discountAmount para todas as faturas durante os próximos meses: months.",
+    "You currently receive a discount of :discountAmount for all invoices during the next :months months.": "Atualmente, você recebe um desconto de :discountAmount para todas as faturas durante os próximos :months meses.",
     "You currently receive a discount of :discountAmount for all invoices during the next billing cycle.": "Atualmente, você recebe um desconto de :discountAmount para todas as faturas durante o próximo ciclo de cobrança.",
     "You currently receive a discount of :discountAmount for all invoices during the next month.": "Atualmente, você recebe um desconto de :discountAmount para todas as faturas durante o próximo mês.",
     "You currently receive a discount of :discountAmount forever.": "Atualmente, você recebe um desconto de :discountAmount para sempre.",

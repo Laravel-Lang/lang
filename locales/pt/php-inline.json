@@ -109,7 +109,7 @@
     "same": "O valor desse campo deve corresponder ao valor de :other.",
     "size.array": "O conteúdo deve conter :items de tamanho.",
     "size.file": "O tamanho do ficheiro deve ser :size kilobytes.",
-    "size.numeric": "O valor deve ser: size.",
+    "size.numeric": "This field must be :size.",
     "size.string": "A cadeia de texto deve ser :size  de tamanho.",
     "starts_with": "Este campo deve começar com um dos seguintes valores: :values.",
     "string": "Este campo deve ser uma cadeia de texto.",

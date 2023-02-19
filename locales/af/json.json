@@ -1059,7 +1059,7 @@
     "You currently receive a discount of :discountAmount for all invoices during the next billing cycle.": "Jy ontvang tans 'n afslag van :discountAmount vir alle fakture gedurende die volgende faktuursiklus.",
     "You currently receive a discount of :discountAmount for all invoices during the next month.": "Jy ontvang tans 'n afslag van :discountAmount vir alle fakture gedurende die volgende maand.",
     "You currently receive a discount of :discountAmount forever.": "Jy ontvang tans 'n afslag van :discountAmount vir altyd.",
-    "You have been invited to join the :team team!": "U is uitgenooi om by die: team span aan te sluit!",
+    "You have been invited to join the :team team!": "You have been invited to join the :team team!",
     "You have cancelled your subscription to the :planName plan.": "Jy het jou intekening op die :planName-plan gekanselleer.",
     "You have enabled two factor authentication.": "U het tweefaktorautifikasie geaktiveer.",
     "You have not enabled two factor authentication.": "U het nie tweefaktor-verifikasie geaktiveer nie.",

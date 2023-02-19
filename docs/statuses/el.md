@@ -4,12 +4,12 @@ editLink: false
 
 # el
 
-##### All missed: 10
+##### All missed: 8
 
 
 ### json
 
-##### Missing: 9
+##### Missing: 7
 
 <table width="100%">
 <tr><th width="50%">
@@ -32,15 +32,6 @@ API
 </td></tr>
 <tr><td width="50%">
 
-Attach files by dragging & dropping, selecting or pasting them.
-
-</td><td width="50%">
-
-Attach files by dragging & dropping, selecting or pasting them.
-
-</td></tr>
-<tr><td width="50%">
-
 Isle of Man
 
 </td><td width="50%">
@@ -91,15 +82,6 @@ Token Can
 </td><td width="50%">
 
 Token Can
-
-</td></tr>
-<tr><td width="50%">
-
-Uploading files... (:current/:total)
-
-</td><td width="50%">
-
-Uploading files... (:current/:total)
 
 </td></tr>
 </table>

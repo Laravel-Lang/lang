@@ -4,12 +4,12 @@ editLink: false
 
 # bs
 
-##### All missed: 81
+##### All missed: 79
 
 
 ### json
 
-##### Missing: 79
+##### Missing: 77
 
 <table width="100%">
 <tr><th width="50%">
@@ -55,15 +55,6 @@ Arizona
 </td><td width="50%">
 
 Arizona
-
-</td></tr>
-<tr><td width="50%">
-
-Attach files by dragging & dropping, selecting or pasting them.
-
-</td><td width="50%">
-
-Attach files by dragging & dropping, selecting or pasting them.
 
 </td></tr>
 <tr><td width="50%">
@@ -640,15 +631,6 @@ Total Volume
 </td><td width="50%">
 
 Total Volume
-
-</td></tr>
-<tr><td width="50%">
-
-Uploading files... (:current/:total)
-
-</td><td width="50%">
-
-Uploading files... (:current/:total)
 
 </td></tr>
 <tr><td width="50%">

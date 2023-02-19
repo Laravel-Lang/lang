@@ -4,12 +4,12 @@ editLink: false
 
 # nb
 
-##### All missed: 70
+##### All missed: 68
 
 
 ### json
 
-##### Missing: 68
+##### Missing: 66
 
 <table width="100%">
 <tr><th width="50%">
@@ -73,15 +73,6 @@ Arkansas
 </td><td width="50%">
 
 Arkansas
-
-</td></tr>
-<tr><td width="50%">
-
-Attach files by dragging & dropping, selecting or pasting them.
-
-</td><td width="50%">
-
-Attach files by dragging & dropping, selecting or pasting them.
 
 </td></tr>
 <tr><td width="50%">
@@ -559,15 +550,6 @@ Type
 </td><td width="50%">
 
 Type
-
-</td></tr>
-<tr><td width="50%">
-
-Uploading files... (:current/:total)
-
-</td><td width="50%">
-
-Uploading files... (:current/:total)
 
 </td></tr>
 <tr><td width="50%">

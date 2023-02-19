@@ -4,12 +4,12 @@ editLink: false
 
 # he
 
-##### All missed: 3
+##### All missed: 1
 
 
 ### json
 
-##### Missing: 3
+##### Missing: 1
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,29 +23,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-Attach files by dragging & dropping, selecting or pasting them.
-
-</td><td width="50%">
-
-Attach files by dragging & dropping, selecting or pasting them.
-
-</td></tr>
-<tr><td width="50%">
-
 Nunavut
 
 </td><td width="50%">
 
 Nunavut
-
-</td></tr>
-<tr><td width="50%">
-
-Uploading files... (:current/:total)
-
-</td><td width="50%">
-
-Uploading files... (:current/:total)
 
 </td></tr>
 </table>

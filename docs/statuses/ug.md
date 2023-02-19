@@ -4,12 +4,12 @@ editLink: false
 
 # ug
 
-##### All missed: 150
+##### All missed: 146
 
 
 ### json
 
-##### Missing: 146
+##### Missing: 142
 
 <table width="100%">
 <tr><th width="50%">
@@ -127,24 +127,6 @@ Attach
 </td><td width="50%">
 
 Attach
-
-</td></tr>
-<tr><td width="50%">
-
-Attach :resource
-
-</td><td width="50%">
-
-Attach :resource
-
-</td></tr>
-<tr><td width="50%">
-
-Attach files by dragging & dropping, selecting or pasting them.
-
-</td><td width="50%">
-
-Attach files by dragging & dropping, selecting or pasting them.
 
 </td></tr>
 <tr><td width="50%">
@@ -658,15 +640,6 @@ Liechtenstein
 </td><td width="50%">
 
 Liechtenstein
-
-</td></tr>
-<tr><td width="50%">
-
-Load :perPage More
-
-</td><td width="50%">
-
-Load :perPage More
 
 </td></tr>
 <tr><td width="50%">
@@ -1261,15 +1234,6 @@ United Kingdom
 </td><td width="50%">
 
 United Kingdom
-
-</td></tr>
-<tr><td width="50%">
-
-Uploading files... (:current/:total)
-
-</td><td width="50%">
-
-Uploading files... (:current/:total)
 
 </td></tr>
 <tr><td width="50%">

@@ -12,7 +12,7 @@ In this repository, you can find the lang files for the [Laravel Framework](http
 
 <p align="center">
     [
-        <a href="https://laravel-lang.com/statuses/">Translations Status</a> |
+        <a href="https://laravel-lang.com/statuses/">Completion Status</a> |
         <a href="https://github.com/Laravel-Lang/common/discussions">Discussions</a>
     ]
 </p>

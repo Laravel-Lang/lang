@@ -4,12 +4,12 @@ editLink: false
 
 # gu
 
-##### All missed: 7
+##### All missed: 5
 
 
 ### json
 
-##### Missing: 7
+##### Missing: 5
 
 <table width="100%">
 <tr><th width="50%">
@@ -32,15 +32,6 @@ API
 </td></tr>
 <tr><td width="50%">
 
-Attach files by dragging & dropping, selecting or pasting them.
-
-</td><td width="50%">
-
-Attach files by dragging & dropping, selecting or pasting them.
-
-</td></tr>
-<tr><td width="50%">
-
 ID
 
 </td><td width="50%">
@@ -64,15 +55,6 @@ New Jersey
 </td><td width="50%">
 
 New Jersey
-
-</td></tr>
-<tr><td width="50%">
-
-Uploading files... (:current/:total)
-
-</td><td width="50%">
-
-Uploading files... (:current/:total)
 
 </td></tr>
 <tr><td width="50%">

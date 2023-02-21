@@ -4,12 +4,12 @@ editLink: false
 
 # bs
 
-##### All missed: 79
+##### All missed: 78
 
 
 ### json
 
-##### Missing: 77
+##### Missing: 76
 
 <table width="100%">
 <tr><th width="50%">
@@ -442,15 +442,6 @@ Nunavut
 </td><td width="50%">
 
 Nunavut
-
-</td></tr>
-<tr><td width="50%">
-
-Ohio
-
-</td><td width="50%">
-
-Ohio
 
 </td></tr>
 <tr><td width="50%">

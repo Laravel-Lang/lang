@@ -58,7 +58,7 @@
     "gte.string": "El campo :attribute debe tener como mínimo :value caracteres.",
     "if_you_delete_team_all_data_will_be_deleted": "Si usted elige borrar el equipo, todos los datos se eliminarán de manera permanente.",
     "image": "El campo :attribute debe ser una imagen.",
-    "in": "The :attribute seleccionado no es válido.",
+    "in": "El :attribute seleccionado no es válido.",
     "in_array": "El campo :attribute debe existir en :other.",
     "integer": "El campo :attribute debe ser un número entero.",
     "ip": "El campo :attribute debe ser una dirección IP válida.",

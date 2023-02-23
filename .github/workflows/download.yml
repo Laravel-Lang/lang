@@ -8,12 +8,34 @@ on:
 permissions: write-all
 
 jobs:
-    laravel:
+    laravel_10:
         uses: Laravel-Lang/.github/.github/workflows/download.yml@main
         strategy:
             fail-fast: true
             matrix:
-                version: [ "9.x", "10.x", "master" ]
+                version: [ "10.x", "master" ]
+        with:
+            project: Laravel Framework ${{ matrix.version }}
+            paths: source/framework/${{ matrix.version }}/*
+            commands: |
+                vendor/bin/lang download \
+                    --url=https://github.com/laravel/laravel/archive/refs/heads/${{ matrix.version }}.zip \
+                    --project=laravel \
+                    --ver=${{ matrix.version }} \
+                    --copy=lang
+                
+                vendor/bin/lang download \
+                    --url=https://github.com/laravel/framework/archive/refs/heads/${{ matrix.version }}.zip \
+                    --project=framework \
+                    --ver=${{ matrix.version }} \
+                    --copy=src/Illuminate/Translation/lang
+
+    laravel_9:
+        uses: Laravel-Lang/.github/.github/workflows/download.yml@main
+        strategy:
+            fail-fast: true
+            matrix:
+                version: [ "9.x" ]
         with:
             project: Laravel Framework ${{ matrix.version }}
             paths: source/laravel/${{ matrix.version }}/*,source/framework/${{ matrix.version }}/*

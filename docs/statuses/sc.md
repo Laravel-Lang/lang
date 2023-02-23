@@ -4,7 +4,7 @@ editLink: false
 
 # sc
 
-##### All missed: 1245
+##### All missed: 1242
 
 
 ### json-inline
@@ -9861,7 +9861,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 40
+##### Missing: 38
 
 <table width="100%">
 <tr><th width="50%">
@@ -9952,24 +9952,6 @@ distinct
 </td><td width="50%">
 
 This field has a duplicate value.
-
-</td></tr>
-<tr><td width="50%">
-
-doesnt_end_with
-
-</td><td width="50%">
-
-This field may not end with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-doesnt_start_with
-
-</td><td width="50%">
-
-This field may not start with one of the following: :values.
 
 </td></tr>
 <tr><td width="50%">
@@ -10241,7 +10223,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 115
+##### Missing: 114
 
 <table width="100%">
 <tr><th width="50%">
@@ -10575,15 +10557,6 @@ if_you_delete_team_all_data_will_be_deleted
 </td><td width="50%">
 
 If you choose to delete the team all data will be permanently deleted.
-
-</td></tr>
-<tr><td width="50%">
-
-in_array
-
-</td><td width="50%">
-
-The :attribute field does not exist in :other.
 
 </td></tr>
 <tr><td width="50%">

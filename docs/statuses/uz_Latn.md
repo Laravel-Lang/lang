@@ -4,7 +4,7 @@ editLink: false
 
 # uz_Latn
 
-##### All missed: 695
+##### All missed: 693
 
 
 ### json-inline
@@ -5440,7 +5440,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 24
+##### Missing: 22
 
 <table width="100%">
 <tr><th width="50%">
@@ -5486,24 +5486,6 @@ decimal
 </td><td width="50%">
 
 This field must have :decimal decimal places.
-
-</td></tr>
-<tr><td width="50%">
-
-doesnt_end_with
-
-</td><td width="50%">
-
-This field may not end with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-doesnt_start_with
-
-</td><td width="50%">
-
-This field may not start with one of the following: :values.
 
 </td></tr>
 <tr><td width="50%">

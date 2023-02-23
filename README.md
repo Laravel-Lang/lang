@@ -10,21 +10,17 @@
 
 In this repository, you can find the lang files for the [Laravel Framework](https://laravel.com), [Laravel Jetstream](https://jetstream.laravel.com), [Laravel Fortify](https://github.com/laravel/fortify), [Laravel Cashier](https://laravel.com/docs/billing), [Laravel Breeze](https://github.com/laravel/breeze), [Laravel Nova](https://nova.laravel.com), [Laravel Spark](https://spark.laravel.com) and [Laravel UI](https://github.com/laravel/ui).
 
-<p align="center">
-    [
-        <a href="https://laravel-lang.com/statuses/">Completion Status</a> |
-        <a href="https://github.com/Laravel-Lang/common/discussions">Discussions</a>
-    ]
-</p>
-
 ## Documentation
 
-See the [documentation](https://laravel-lang.com) for detailed installation and usage instructions.
+See the [documentation](https://laravel-lang.com) for detailed installation and [usage](https://laravel-lang.com/usage/general-principles.html) instructions.
 
-## Credits
+## Contributing
 
-- [Referents by language](https://laravel-lang.com/referents.html)
-- [All Contributors](https://github.com/Laravel-Lang/lang/graphs/contributors)
+Please see [CONTRIBUTING](https://laravel-lang.com/contributing.html) for details.
+
+## License
+
+This package is licensed under the [MIT License][link_license].
 
 
 [badge_build]:          https://img.shields.io/github/actions/workflow/status/laravel-lang/lang/phpunit.yml?branch=main&style=flat-square

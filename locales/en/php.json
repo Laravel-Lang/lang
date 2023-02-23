@@ -59,7 +59,7 @@
     "if_you_delete_team_all_data_will_be_deleted": "If you choose to delete the team all data will be permanently deleted.",
     "image": "The :attribute must be an image.",
     "in": "The selected :attribute is invalid.",
-    "in_array": "The :attribute field does not exist in :other.",
+    "in_array": "The :attribute field must exist in :other.",
     "integer": "The :attribute must be an integer.",
     "ip": "The :attribute must be a valid IP address.",
     "ipv4": "The :attribute must be a valid IPv4 address.",

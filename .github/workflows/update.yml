@@ -57,26 +57,6 @@ jobs:
 
                     echo ::set-output name=is_dirty::${IS_DIRTY}
 
-            -   name: Update changelog
-                uses: stefanzweifel/changelog-updater-action@v1
-                if: success() && github.event_name == 'release'
-                with:
-                    release-date: ${{ steps.release_date.outputs.date }}
-                    release-notes: ${{ github.event.release.body }}
-                    latest-version: ${{ github.event.release.tag_name }}
-                    compare-url-target-revision: ${{ github.event.release.target_commitish }}
-                    path-to-changelog: docs/changelog/12.x.md
-
-            -   name: Storing changelog
-                id: changelog
-                if: success()
-                run: |
-                    IS_DIRTY=1
-
-                    { git add . && git commit -a -m "🧾 Update CHANGELOG"; } || IS_DIRTY=0
-
-                    echo ::set-output name=is_dirty::${IS_DIRTY}
-
             -   name: Push changes
                 uses: ad-m/github-push-action@master
                 if: success() &&

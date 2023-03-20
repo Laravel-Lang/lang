@@ -4,7 +4,7 @@ editLink: false
 
 # uz_Latn
 
-##### All missed: 701
+##### All missed: 699
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 593
+##### Missing: 591
 
 <table width="100%">
 <tr><th width="50%">
@@ -2716,15 +2716,6 @@ Notifications
 </td></tr>
 <tr><td width="50%">
 
-Nova
-
-</td><td width="50%">
-
-Nova
-
-</td></tr>
-<tr><td width="50%">
-
 Nova Scotia
 
 </td><td width="50%">
@@ -3594,15 +3585,6 @@ Sint Maarten (Dutch part)
 </td><td width="50%">
 
 Sint Maarten
-
-</td></tr>
-<tr><td width="50%">
-
-SKU
-
-</td><td width="50%">
-
-SKU
 
 </td></tr>
 <tr><td width="50%">

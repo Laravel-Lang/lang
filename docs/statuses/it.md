@@ -4,12 +4,12 @@ editLink: false
 
 # it
 
-##### All missed: 8
+##### All missed: 6
 
 
 ### json
 
-##### Missing: 8
+##### Missing: 6
 
 <table width="100%">
 <tr><th width="50%">
@@ -68,29 +68,11 @@ Log out
 </td></tr>
 <tr><td width="50%">
 
-Nova
-
-</td><td width="50%">
-
-Nova
-
-</td></tr>
-<tr><td width="50%">
-
 Person
 
 </td><td width="50%">
 
 Person
-
-</td></tr>
-<tr><td width="50%">
-
-SKU
-
-</td><td width="50%">
-
-SKU
 
 </td></tr>
 </table>

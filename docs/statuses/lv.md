@@ -4,12 +4,12 @@ editLink: false
 
 # lv
 
-##### All missed: 22
+##### All missed: 20
 
 
 ### json
 
-##### Missing: 22
+##### Missing: 20
 
 <table width="100%">
 <tr><th width="50%">
@@ -176,15 +176,6 @@ Nevada
 </td></tr>
 <tr><td width="50%">
 
-Nova
-
-</td><td width="50%">
-
-Nova
-
-</td></tr>
-<tr><td width="50%">
-
 Oklahoma
 
 </td><td width="50%">
@@ -199,15 +190,6 @@ Person
 </td><td width="50%">
 
 Person
-
-</td></tr>
-<tr><td width="50%">
-
-SKU
-
-</td><td width="50%">
-
-SKU
 
 </td></tr>
 <tr><td width="50%">

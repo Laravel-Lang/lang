@@ -4,12 +4,12 @@ editLink: false
 
 # hi
 
-##### All missed: 9
+##### All missed: 7
 
 
 ### json
 
-##### Missing: 9
+##### Missing: 7
 
 <table width="100%">
 <tr><th width="50%">
@@ -68,15 +68,6 @@ Log out
 </td></tr>
 <tr><td width="50%">
 
-Nova
-
-</td><td width="50%">
-
-Nova
-
-</td></tr>
-<tr><td width="50%">
-
 Person
 
 </td><td width="50%">
@@ -91,15 +82,6 @@ Saskatchewan
 </td><td width="50%">
 
 Saskatchewan
-
-</td></tr>
-<tr><td width="50%">
-
-SKU
-
-</td><td width="50%">
-
-SKU
 
 </td></tr>
 </table>

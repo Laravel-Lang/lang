@@ -4,12 +4,12 @@ editLink: false
 
 # gu
 
-##### All missed: 13
+##### All missed: 11
 
 
 ### json
 
-##### Missing: 13
+##### Missing: 11
 
 <table width="100%">
 <tr><th width="50%">
@@ -104,29 +104,11 @@ New Jersey
 </td></tr>
 <tr><td width="50%">
 
-Nova
-
-</td><td width="50%">
-
-Nova
-
-</td></tr>
-<tr><td width="50%">
-
 Person
 
 </td><td width="50%">
 
 Person
-
-</td></tr>
-<tr><td width="50%">
-
-SKU
-
-</td><td width="50%">
-
-SKU
 
 </td></tr>
 <tr><td width="50%">

@@ -4,12 +4,12 @@ editLink: false
 
 # az
 
-##### All missed: 52
+##### All missed: 50
 
 
 ### json
 
-##### Missing: 52
+##### Missing: 50
 
 <table width="100%">
 <tr><th width="50%">
@@ -320,15 +320,6 @@ Niue
 </td></tr>
 <tr><td width="50%">
 
-Nova
-
-</td><td width="50%">
-
-Nova
-
-</td></tr>
-<tr><td width="50%">
-
 Nunavut
 
 </td><td width="50%">
@@ -415,15 +406,6 @@ Samoa
 </td><td width="50%">
 
 Samoa
-
-</td></tr>
-<tr><td width="50%">
-
-SKU
-
-</td><td width="50%">
-
-SKU
 
 </td></tr>
 <tr><td width="50%">

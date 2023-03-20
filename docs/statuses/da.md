@@ -4,12 +4,12 @@ editLink: false
 
 # da
 
-##### All missed: 197
+##### All missed: 195
 
 
 ### json
 
-##### Missing: 195
+##### Missing: 193
 
 <table width="100%">
 <tr><th width="50%">
@@ -1220,15 +1220,6 @@ Northwest Territories
 </td></tr>
 <tr><td width="50%">
 
-Nova
-
-</td><td width="50%">
-
-Nova
-
-</td></tr>
-<tr><td width="50%">
-
 Nova Scotia
 
 </td><td width="50%">
@@ -1468,15 +1459,6 @@ Sint Maarten (Dutch part)
 </td><td width="50%">
 
 Sint Maarten
-
-</td></tr>
-<tr><td width="50%">
-
-SKU
-
-</td><td width="50%">
-
-SKU
 
 </td></tr>
 <tr><td width="50%">

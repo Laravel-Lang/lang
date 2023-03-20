@@ -4,12 +4,12 @@ editLink: false
 
 # de
 
-##### All missed: 63
+##### All missed: 61
 
 
 ### json
 
-##### Missing: 62
+##### Missing: 60
 
 <table width="100%">
 <tr><th width="50%">
@@ -383,15 +383,6 @@ North Carolina
 </td></tr>
 <tr><td width="50%">
 
-Nova
-
-</td><td width="50%">
-
-Nova
-
-</td></tr>
-<tr><td width="50%">
-
 Nunavut
 
 </td><td width="50%">
@@ -469,15 +460,6 @@ Saskatchewan
 </td><td width="50%">
 
 Saskatchewan
-
-</td></tr>
-<tr><td width="50%">
-
-SKU
-
-</td><td width="50%">
-
-SKU
 
 </td></tr>
 <tr><td width="50%">

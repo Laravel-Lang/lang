@@ -4,12 +4,12 @@ editLink: false
 
 # sk
 
-##### All missed: 117
+##### All missed: 115
 
 
 ### json
 
-##### Missing: 116
+##### Missing: 114
 
 <table width="100%">
 <tr><th width="50%">
@@ -725,15 +725,6 @@ Niue
 </td></tr>
 <tr><td width="50%">
 
-Nova
-
-</td><td width="50%">
-
-Nova
-
-</td></tr>
-<tr><td width="50%">
-
 Nunavut
 
 </td><td width="50%">
@@ -883,15 +874,6 @@ Sierra Leone
 </td><td width="50%">
 
 Sierra Leone
-
-</td></tr>
-<tr><td width="50%">
-
-SKU
-
-</td><td width="50%">
-
-SKU
 
 </td></tr>
 <tr><td width="50%">

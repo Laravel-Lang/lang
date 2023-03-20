@@ -4,12 +4,12 @@ editLink: false
 
 # et
 
-##### All missed: 71
+##### All missed: 69
 
 
 ### json
 
-##### Missing: 71
+##### Missing: 69
 
 <table width="100%">
 <tr><th width="50%">
@@ -428,15 +428,6 @@ New York
 </td></tr>
 <tr><td width="50%">
 
-Nova
-
-</td><td width="50%">
-
-Nova
-
-</td></tr>
-<tr><td width="50%">
-
 Nova Scotia
 
 </td><td width="50%">
@@ -550,15 +541,6 @@ Sint Maarten (Dutch part)
 </td><td width="50%">
 
 Sint Maarten
-
-</td></tr>
-<tr><td width="50%">
-
-SKU
-
-</td><td width="50%">
-
-SKU
 
 </td></tr>
 <tr><td width="50%">

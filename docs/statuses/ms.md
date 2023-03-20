@@ -4,12 +4,12 @@ editLink: false
 
 # ms
 
-##### All missed: 215
+##### All missed: 213
 
 
 ### json
 
-##### Missing: 215
+##### Missing: 213
 
 <table width="100%">
 <tr><th width="50%">
@@ -1355,15 +1355,6 @@ Norway
 </td></tr>
 <tr><td width="50%">
 
-Nova
-
-</td><td width="50%">
-
-Nova
-
-</td></tr>
-<tr><td width="50%">
-
 Nova Scotia
 
 </td><td width="50%">
@@ -1648,15 +1639,6 @@ Sierra Leone
 </td><td width="50%">
 
 Sierra Leone
-
-</td></tr>
-<tr><td width="50%">
-
-SKU
-
-</td><td width="50%">
-
-SKU
 
 </td></tr>
 <tr><td width="50%">

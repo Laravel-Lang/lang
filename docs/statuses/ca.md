@@ -4,12 +4,12 @@ editLink: false
 
 # ca
 
-##### All missed: 58
+##### All missed: 56
 
 
 ### json
 
-##### Missing: 58
+##### Missing: 56
 
 <table width="100%">
 <tr><th width="50%">
@@ -347,15 +347,6 @@ Nevada
 </td></tr>
 <tr><td width="50%">
 
-Nova
-
-</td><td width="50%">
-
-Nova
-
-</td></tr>
-<tr><td width="50%">
-
 Nunavut
 
 </td><td width="50%">
@@ -451,15 +442,6 @@ Sint Maarten (Dutch part)
 </td><td width="50%">
 
 Sint Maarten
-
-</td></tr>
-<tr><td width="50%">
-
-SKU
-
-</td><td width="50%">
-
-SKU
 
 </td></tr>
 <tr><td width="50%">

@@ -4,12 +4,12 @@ editLink: false
 
 # tk
 
-##### All missed: 80
+##### All missed: 78
 
 
 ### json
 
-##### Missing: 80
+##### Missing: 78
 
 <table width="100%">
 <tr><th width="50%">
@@ -509,15 +509,6 @@ Niue
 </td></tr>
 <tr><td width="50%">
 
-Nova
-
-</td><td width="50%">
-
-Nova
-
-</td></tr>
-<tr><td width="50%">
-
 of
 
 </td><td width="50%">
@@ -640,15 +631,6 @@ Sint Maarten (Dutch part)
 </td><td width="50%">
 
 Sint Maarten
-
-</td></tr>
-<tr><td width="50%">
-
-SKU
-
-</td><td width="50%">
-
-SKU
 
 </td></tr>
 <tr><td width="50%">

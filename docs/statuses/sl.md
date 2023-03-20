@@ -4,12 +4,12 @@ editLink: false
 
 # sl
 
-##### All missed: 105
+##### All missed: 103
 
 
 ### json
 
-##### Missing: 105
+##### Missing: 103
 
 <table width="100%">
 <tr><th width="50%">
@@ -590,15 +590,6 @@ Niue
 </td></tr>
 <tr><td width="50%">
 
-Nova
-
-</td><td width="50%">
-
-Nova
-
-</td></tr>
-<tr><td width="50%">
-
 Nunavut
 
 </td><td width="50%">
@@ -811,15 +802,6 @@ Sint Maarten (Dutch part)
 </td><td width="50%">
 
 Sint Maarten
-
-</td></tr>
-<tr><td width="50%">
-
-SKU
-
-</td><td width="50%">
-
-SKU
 
 </td></tr>
 <tr><td width="50%">

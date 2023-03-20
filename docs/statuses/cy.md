@@ -4,12 +4,12 @@ editLink: false
 
 # cy
 
-##### All missed: 67
+##### All missed: 65
 
 
 ### json
 
-##### Missing: 67
+##### Missing: 65
 
 <table width="100%">
 <tr><th width="50%">
@@ -401,15 +401,6 @@ New Brunswick
 </td></tr>
 <tr><td width="50%">
 
-Nova
-
-</td><td width="50%">
-
-Nova
-
-</td></tr>
-<tr><td width="50%">
-
 Nova Scotia
 
 </td><td width="50%">
@@ -523,15 +514,6 @@ Sint Maarten (Dutch part)
 </td><td width="50%">
 
 Sint Maarten
-
-</td></tr>
-<tr><td width="50%">
-
-SKU
-
-</td><td width="50%">
-
-SKU
 
 </td></tr>
 <tr><td width="50%">

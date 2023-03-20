@@ -4,12 +4,12 @@ editLink: false
 
 # uk
 
-##### All missed: 10
+##### All missed: 8
 
 
 ### json
 
-##### Missing: 10
+##### Missing: 8
 
 <table width="100%">
 <tr><th width="50%">
@@ -86,29 +86,11 @@ N/A
 </td></tr>
 <tr><td width="50%">
 
-Nova
-
-</td><td width="50%">
-
-Nova
-
-</td></tr>
-<tr><td width="50%">
-
 Person
 
 </td><td width="50%">
 
 Person
-
-</td></tr>
-<tr><td width="50%">
-
-SKU
-
-</td><td width="50%">
-
-SKU
 
 </td></tr>
 </table>

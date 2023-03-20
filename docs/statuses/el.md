@@ -4,12 +4,12 @@ editLink: false
 
 # el
 
-##### All missed: 16
+##### All missed: 14
 
 
 ### json
 
-##### Missing: 15
+##### Missing: 13
 
 <table width="100%">
 <tr><th width="50%">
@@ -104,15 +104,6 @@ New Jersey
 </td></tr>
 <tr><td width="50%">
 
-Nova
-
-</td><td width="50%">
-
-Nova
-
-</td></tr>
-<tr><td width="50%">
-
 Person
 
 </td><td width="50%">
@@ -127,15 +118,6 @@ Saint Kitts and Nevis
 </td><td width="50%">
 
 Saint Kitts and Nevis
-
-</td></tr>
-<tr><td width="50%">
-
-SKU
-
-</td><td width="50%">
-
-SKU
 
 </td></tr>
 <tr><td width="50%">

@@ -4,12 +4,12 @@ editLink: false
 
 # hr
 
-##### All missed: 59
+##### All missed: 57
 
 
 ### json
 
-##### Missing: 59
+##### Missing: 57
 
 <table width="100%">
 <tr><th width="50%">
@@ -374,15 +374,6 @@ New York
 </td></tr>
 <tr><td width="50%">
 
-Nova
-
-</td><td width="50%">
-
-Nova
-
-</td></tr>
-<tr><td width="50%">
-
 Nunavut
 
 </td><td width="50%">
@@ -460,15 +451,6 @@ Saskatchewan
 </td><td width="50%">
 
 Saskatchewan
-
-</td></tr>
-<tr><td width="50%">
-
-SKU
-
-</td><td width="50%">
-
-SKU
 
 </td></tr>
 <tr><td width="50%">

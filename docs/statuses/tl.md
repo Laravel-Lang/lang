@@ -4,12 +4,12 @@ editLink: false
 
 # tl
 
-##### All missed: 213
+##### All missed: 211
 
 
 ### json
 
-##### Missing: 212
+##### Missing: 210
 
 <table width="100%">
 <tr><th width="50%">
@@ -1202,15 +1202,6 @@ Norway
 </td></tr>
 <tr><td width="50%">
 
-Nova
-
-</td><td width="50%">
-
-Nova
-
-</td></tr>
-<tr><td width="50%">
-
 Nova Scotia
 
 </td><td width="50%">
@@ -1531,15 +1522,6 @@ Sint Maarten (Dutch part)
 </td><td width="50%">
 
 Sint Maarten
-
-</td></tr>
-<tr><td width="50%">
-
-SKU
-
-</td><td width="50%">
-
-SKU
 
 </td></tr>
 <tr><td width="50%">

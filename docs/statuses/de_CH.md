@@ -4,12 +4,12 @@ editLink: false
 
 # de_CH
 
-##### All missed: 72
+##### All missed: 70
 
 
 ### json
 
-##### Missing: 71
+##### Missing: 69
 
 <table width="100%">
 <tr><th width="50%">
@@ -437,15 +437,6 @@ North Carolina
 </td></tr>
 <tr><td width="50%">
 
-Nova
-
-</td><td width="50%">
-
-Nova
-
-</td></tr>
-<tr><td width="50%">
-
 Nunavut
 
 </td><td width="50%">
@@ -541,15 +532,6 @@ Sint Maarten (Dutch part)
 </td><td width="50%">
 
 Sint Maarten
-
-</td></tr>
-<tr><td width="50%">
-
-SKU
-
-</td><td width="50%">
-
-SKU
 
 </td></tr>
 <tr><td width="50%">

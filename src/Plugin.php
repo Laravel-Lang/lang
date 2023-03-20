@@ -41,6 +41,8 @@ class Plugin extends Provider
         Plugins\Nova\V3::class,
         Plugins\Nova\V4::class,
 
+        Plugins\Nova\DuskSuite\Main::class,
+
         Plugins\Spark\Paddle::class,
         Plugins\Spark\Stripe::class,
 

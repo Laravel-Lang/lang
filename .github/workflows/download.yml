@@ -139,6 +139,22 @@ jobs:
                     --project=nova/log-viewer \
                     --ver=${{ matrix.version }}
 
+    nova_dusk_suite:
+        uses: Laravel-Lang/.github/.github/workflows/download.yml@main
+        strategy:
+            fail-fast: true
+            matrix:
+                version: [ "master" ]
+        with:
+            project: Laravel Nova Dusk Suite ${{ matrix.version }}
+            paths: source/nova/dusk-suite/${{ matrix.version }}/*
+            commands: |
+                vendor/bin/lang download \
+                    --url=https://github.com/laravel/nova-dusk-suite/archive/refs/heads/${{ matrix.version }}.zip \
+                    --project=nova/dusk-suite \
+                    --ver=${{ matrix.version }} \
+                    --copy=lang
+
     spark_aurelius:
         uses: Laravel-Lang/.github/.github/workflows/download.yml@main
         strategy:

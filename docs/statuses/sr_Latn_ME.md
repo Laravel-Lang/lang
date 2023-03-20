@@ -4,7 +4,7 @@ editLink: false
 
 # sr_Latn_ME
 
-##### All missed: 614
+##### All missed: 622
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 506
+##### Missing: 514
 
 <table width="100%">
 <tr><th width="50%">
@@ -187,6 +187,15 @@ Value
 </td></tr>
 <tr><td width="50%">
 
+365 Days
+
+</td><td width="50%">
+
+365 Days
+
+</td></tr>
+<tr><td width="50%">
+
 A fresh verification link has been sent to your email address.
 
 </td><td width="50%">
@@ -565,6 +574,15 @@ Attach files by dragging & dropping, selecting or pasting them.
 </td></tr>
 <tr><td width="50%">
 
+Attendance
+
+</td><td width="50%">
+
+Attendance
+
+</td></tr>
+<tr><td width="50%">
+
 Authentication Token
 
 </td><td width="50%">
@@ -696,6 +714,15 @@ Change Subscription Plan
 </td><td width="50%">
 
 Change Subscription Plan
+
+</td></tr>
+<tr><td width="50%">
+
+Choose a project
+
+</td><td width="50%">
+
+Choose a project
 
 </td></tr>
 <tr><td width="50%">
@@ -1132,6 +1159,15 @@ Emergency Token
 </td></tr>
 <tr><td width="50%">
 
+Employee
+
+</td><td width="50%">
+
+Employee
+
+</td></tr>
+<tr><td width="50%">
+
 Enabling
 
 </td><td width="50%">
@@ -1632,6 +1668,15 @@ Log In
 </td><td width="50%">
 
 Log In
+
+</td></tr>
+<tr><td width="50%">
+
+Log out
+
+</td><td width="50%">
+
+Log out
 
 </td></tr>
 <tr><td width="50%">
@@ -2158,6 +2203,15 @@ Notifications
 </td></tr>
 <tr><td width="50%">
 
+Nova
+
+</td><td width="50%">
+
+Nova
+
+</td></tr>
+<tr><td width="50%">
+
 Nova Scotia
 
 </td><td width="50%">
@@ -2325,6 +2379,15 @@ Percentage
 </td><td width="50%">
 
 Percentage
+
+</td></tr>
+<tr><td width="50%">
+
+Person
+
+</td><td width="50%">
+
+Person
 
 </td></tr>
 <tr><td width="50%">
@@ -2937,6 +3000,15 @@ Since you have a cash balance sufficient to begin a subscription, providing a pa
 </td><td width="50%">
 
 Since you have a cash balance sufficient to begin a subscription, providing a payment method is not required. You may leave this field empty if you wish to begin a subscription using your cash balance.
+
+</td></tr>
+<tr><td width="50%">
+
+SKU
+
+</td><td width="50%">
+
+SKU
 
 </td></tr>
 <tr><td width="50%">

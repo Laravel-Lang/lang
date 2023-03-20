@@ -4,12 +4,12 @@ editLink: false
 
 # tk
 
-##### All missed: 72
+##### All missed: 80
 
 
 ### json
 
-##### Missing: 72
+##### Missing: 80
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,6 +23,15 @@ Value
 </th></tr>
 <tr><td width="50%">
 
+365 Days
+
+</td><td width="50%">
+
+365 Days
+
+</td></tr>
+<tr><td width="50%">
+
 Administrator
 
 </td><td width="50%">
@@ -131,6 +140,15 @@ Aruba
 </td></tr>
 <tr><td width="50%">
 
+Attendance
+
+</td><td width="50%">
+
+Attendance
+
+</td></tr>
+<tr><td width="50%">
+
 Barbados
 
 </td><td width="50%">
@@ -203,11 +221,29 @@ Cape Verde
 </td></tr>
 <tr><td width="50%">
 
+Choose a project
+
+</td><td width="50%">
+
+Choose a project
+
+</td></tr>
+<tr><td width="50%">
+
 Curaçao
 
 </td><td width="50%">
 
 Curaçao
+
+</td></tr>
+<tr><td width="50%">
+
+Employee
+
+</td><td width="50%">
+
+Employee
 
 </td></tr>
 <tr><td width="50%">
@@ -316,6 +352,15 @@ Kiribati
 </td><td width="50%">
 
 Kiribati
+
+</td></tr>
+<tr><td width="50%">
+
+Log out
+
+</td><td width="50%">
+
+Log out
 
 </td></tr>
 <tr><td width="50%">
@@ -464,6 +509,15 @@ Niue
 </td></tr>
 <tr><td width="50%">
 
+Nova
+
+</td><td width="50%">
+
+Nova
+
+</td></tr>
+<tr><td width="50%">
+
 of
 
 </td><td width="50%">
@@ -523,6 +577,15 @@ Panama
 </td><td width="50%">
 
 Panama
+
+</td></tr>
+<tr><td width="50%">
+
+Person
+
+</td><td width="50%">
+
+Person
 
 </td></tr>
 <tr><td width="50%">
@@ -577,6 +640,15 @@ Sint Maarten (Dutch part)
 </td><td width="50%">
 
 Sint Maarten
+
+</td></tr>
+<tr><td width="50%">
+
+SKU
+
+</td><td width="50%">
+
+SKU
 
 </td></tr>
 <tr><td width="50%">

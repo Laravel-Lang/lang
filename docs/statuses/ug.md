@@ -4,12 +4,12 @@ editLink: false
 
 # ug
 
-##### All missed: 146
+##### All missed: 154
 
 
 ### json
 
-##### Missing: 142
+##### Missing: 150
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,6 +21,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+365 Days
+
+</td><td width="50%">
+
+365 Days
+
+</td></tr>
 <tr><td width="50%">
 
 Action Happened At
@@ -131,6 +140,15 @@ Attach
 </td></tr>
 <tr><td width="50%">
 
+Attendance
+
+</td><td width="50%">
+
+Attendance
+
+</td></tr>
+<tr><td width="50%">
+
 Bangladesh
 
 </td><td width="50%">
@@ -199,6 +217,15 @@ Cape Verde
 </td><td width="50%">
 
 Cape Verde
+
+</td></tr>
+<tr><td width="50%">
+
+Choose a project
+
+</td><td width="50%">
+
+Choose a project
 
 </td></tr>
 <tr><td width="50%">
@@ -343,6 +370,15 @@ E-Mail
 </td><td width="50%">
 
 E-Mail
+
+</td></tr>
+<tr><td width="50%">
+
+Employee
+
+</td><td width="50%">
+
+Employee
 
 </td></tr>
 <tr><td width="50%">
@@ -644,6 +680,15 @@ Liechtenstein
 </td></tr>
 <tr><td width="50%">
 
+Log out
+
+</td><td width="50%">
+
+Log out
+
+</td></tr>
+<tr><td width="50%">
+
 Log Viewer
 
 </td><td width="50%">
@@ -887,6 +932,15 @@ Niue
 </td></tr>
 <tr><td width="50%">
 
+Nova
+
+</td><td width="50%">
+
+Nova
+
+</td></tr>
+<tr><td width="50%">
+
 Nova Scotia
 
 </td><td width="50%">
@@ -955,6 +1009,15 @@ Palau
 </td><td width="50%">
 
 Palau
+
+</td></tr>
+<tr><td width="50%">
+
+Person
+
+</td><td width="50%">
+
+Person
 
 </td></tr>
 <tr><td width="50%">
@@ -1099,6 +1162,15 @@ Sint Maarten (Dutch part)
 </td><td width="50%">
 
 Sint Maarten
+
+</td></tr>
+<tr><td width="50%">
+
+SKU
+
+</td><td width="50%">
+
+SKU
 
 </td></tr>
 <tr><td width="50%">

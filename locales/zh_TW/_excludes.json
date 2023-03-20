@@ -5,5 +5,7 @@
     "CSV (.csv)",
     "Email",
     "Excel (.xlsx)",
-    "ID"
+    "ID",
+    "Nova",
+    "SKU"
 ]

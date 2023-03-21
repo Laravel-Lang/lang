@@ -4,12 +4,12 @@ editLink: false
 
 # sq
 
-##### All missed: 93
+##### All missed: 87
 
 
 ### json
 
-##### Missing: 93
+##### Missing: 87
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,15 +23,6 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-365 Days
-
-</td><td width="50%">
-
-365 Days
-
-</td></tr>
-<tr><td width="50%">
-
 Alabama
 
 </td><td width="50%">
@@ -113,15 +104,6 @@ Aruba
 </td></tr>
 <tr><td width="50%">
 
-Attendance
-
-</td><td width="50%">
-
-Attendance
-
-</td></tr>
-<tr><td width="50%">
-
 Bahamas
 
 </td><td width="50%">
@@ -194,15 +176,6 @@ Burundi
 </td></tr>
 <tr><td width="50%">
 
-Choose a project
-
-</td><td width="50%">
-
-Choose a project
-
-</td></tr>
-<tr><td width="50%">
-
 Delaware
 
 </td><td width="50%">
@@ -235,15 +208,6 @@ Email
 </td><td width="50%">
 
 Email
-
-</td></tr>
-<tr><td width="50%">
-
-Employee
-
-</td><td width="50%">
-
-Employee
 
 </td></tr>
 <tr><td width="50%">
@@ -424,15 +388,6 @@ Liberia
 </td><td width="50%">
 
 Liberia
-
-</td></tr>
-<tr><td width="50%">
-
-Log out
-
-</td><td width="50%">
-
-Log out
 
 </td></tr>
 <tr><td width="50%">
@@ -667,15 +622,6 @@ Palau
 </td><td width="50%">
 
 Palau
-
-</td></tr>
-<tr><td width="50%">
-
-Person
-
-</td><td width="50%">
-
-Person
 
 </td></tr>
 <tr><td width="50%">

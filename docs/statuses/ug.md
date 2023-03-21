@@ -4,12 +4,12 @@ editLink: false
 
 # ug
 
-##### All missed: 152
+##### All missed: 146
 
 
 ### json
 
-##### Missing: 148
+##### Missing: 142
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,15 +21,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-365 Days
-
-</td><td width="50%">
-
-365 Days
-
-</td></tr>
 <tr><td width="50%">
 
 Action Happened At
@@ -140,15 +131,6 @@ Attach
 </td></tr>
 <tr><td width="50%">
 
-Attendance
-
-</td><td width="50%">
-
-Attendance
-
-</td></tr>
-<tr><td width="50%">
-
 Bangladesh
 
 </td><td width="50%">
@@ -217,15 +199,6 @@ Cape Verde
 </td><td width="50%">
 
 Cape Verde
-
-</td></tr>
-<tr><td width="50%">
-
-Choose a project
-
-</td><td width="50%">
-
-Choose a project
 
 </td></tr>
 <tr><td width="50%">
@@ -370,15 +343,6 @@ E-Mail
 </td><td width="50%">
 
 E-Mail
-
-</td></tr>
-<tr><td width="50%">
-
-Employee
-
-</td><td width="50%">
-
-Employee
 
 </td></tr>
 <tr><td width="50%">
@@ -676,15 +640,6 @@ Liechtenstein
 </td><td width="50%">
 
 Liechtenstein
-
-</td></tr>
-<tr><td width="50%">
-
-Log out
-
-</td><td width="50%">
-
-Log out
 
 </td></tr>
 <tr><td width="50%">
@@ -1000,15 +955,6 @@ Palau
 </td><td width="50%">
 
 Palau
-
-</td></tr>
-<tr><td width="50%">
-
-Person
-
-</td><td width="50%">
-
-Person
 
 </td></tr>
 <tr><td width="50%">

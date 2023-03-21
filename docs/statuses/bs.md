@@ -4,12 +4,12 @@ editLink: false
 
 # bs
 
-##### All missed: 84
+##### All missed: 78
 
 
 ### json
 
-##### Missing: 82
+##### Missing: 76
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,15 +23,6 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-365 Days
-
-</td><td width="50%">
-
-365 Days
-
-</td></tr>
-<tr><td width="50%">
-
 Alabama
 
 </td><td width="50%">
@@ -68,15 +59,6 @@ Arizona
 </td></tr>
 <tr><td width="50%">
 
-Attendance
-
-</td><td width="50%">
-
-Attendance
-
-</td></tr>
-<tr><td width="50%">
-
 Authentication Token
 
 </td><td width="50%">
@@ -91,15 +73,6 @@ California
 </td><td width="50%">
 
 California
-
-</td></tr>
-<tr><td width="50%">
-
-Choose a project
-
-</td><td width="50%">
-
-Choose a project
 
 </td></tr>
 <tr><td width="50%">
@@ -181,15 +154,6 @@ E-Mail
 </td><td width="50%">
 
 E-Mail
-
-</td></tr>
-<tr><td width="50%">
-
-Employee
-
-</td><td width="50%">
-
-Employee
 
 </td></tr>
 <tr><td width="50%">
@@ -320,15 +284,6 @@ Light
 </td></tr>
 <tr><td width="50%">
 
-Log out
-
-</td><td width="50%">
-
-Log out
-
-</td></tr>
-<tr><td width="50%">
-
 Log Viewer
 
 </td><td width="50%">
@@ -532,15 +487,6 @@ Pennsylvania
 </td><td width="50%">
 
 Pennsylvania
-
-</td></tr>
-<tr><td width="50%">
-
-Person
-
-</td><td width="50%">
-
-Person
 
 </td></tr>
 <tr><td width="50%">

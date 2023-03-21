@@ -4,12 +4,12 @@ editLink: false
 
 # nl
 
-##### All missed: 66
+##### All missed: 60
 
 
 ### json
 
-##### Missing: 65
+##### Missing: 59
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,15 +23,6 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-365 Days
-
-</td><td width="50%">
-
-365 Days
-
-</td></tr>
-<tr><td width="50%">
-
 Alabama
 
 </td><td width="50%">
@@ -86,24 +77,6 @@ Arkansas
 </td></tr>
 <tr><td width="50%">
 
-Attendance
-
-</td><td width="50%">
-
-Attendance
-
-</td></tr>
-<tr><td width="50%">
-
-Choose a project
-
-</td><td width="50%">
-
-Choose a project
-
-</td></tr>
-<tr><td width="50%">
-
 Colorado
 
 </td><td width="50%">
@@ -136,15 +109,6 @@ Download PDF
 </td><td width="50%">
 
 Download PDF
-
-</td></tr>
-<tr><td width="50%">
-
-Employee
-
-</td><td width="50%">
-
-Employee
 
 </td></tr>
 <tr><td width="50%">
@@ -239,15 +203,6 @@ Kiosk
 </td></tr>
 <tr><td width="50%">
 
-Log out
-
-</td><td width="50%">
-
-Log out
-
-</td></tr>
-<tr><td width="50%">
-
 Louisiana
 
 </td><td width="50%">
@@ -478,15 +433,6 @@ Percentage
 </td><td width="50%">
 
 Percentage
-
-</td></tr>
-<tr><td width="50%">
-
-Person
-
-</td><td width="50%">
-
-Person
 
 </td></tr>
 <tr><td width="50%">

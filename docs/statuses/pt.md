@@ -4,12 +4,12 @@ editLink: false
 
 # pt
 
-##### All missed: 62
+##### All missed: 56
 
 
 ### json
 
-##### Missing: 62
+##### Missing: 56
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,15 +21,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-365 Days
-
-</td><td width="50%">
-
-365 Days
-
-</td></tr>
 <tr><td width="50%">
 
 Action Status
@@ -86,15 +77,6 @@ Arkansas
 </td></tr>
 <tr><td width="50%">
 
-Attendance
-
-</td><td width="50%">
-
-Attendance
-
-</td></tr>
-<tr><td width="50%">
-
 Bangladesh
 
 </td><td width="50%">
@@ -109,15 +91,6 @@ China
 </td><td width="50%">
 
 China
-
-</td></tr>
-<tr><td width="50%">
-
-Choose a project
-
-</td><td width="50%">
-
-Choose a project
 
 </td></tr>
 <tr><td width="50%">
@@ -163,15 +136,6 @@ Dominica
 </td><td width="50%">
 
 Dominica
-
-</td></tr>
-<tr><td width="50%">
-
-Employee
-
-</td><td width="50%">
-
-Employee
 
 </td></tr>
 <tr><td width="50%">
@@ -262,15 +226,6 @@ Liechtenstein
 </td><td width="50%">
 
 Liechtenstein
-
-</td></tr>
-<tr><td width="50%">
-
-Log out
-
-</td><td width="50%">
-
-Log out
 
 </td></tr>
 <tr><td width="50%">
@@ -433,15 +388,6 @@ Oregon
 </td><td width="50%">
 
 Oregon
-
-</td></tr>
-<tr><td width="50%">
-
-Person
-
-</td><td width="50%">
-
-Person
 
 </td></tr>
 <tr><td width="50%">

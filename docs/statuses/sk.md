@@ -4,12 +4,12 @@ editLink: false
 
 # sk
 
-##### All missed: 115
+##### All missed: 109
 
 
 ### json
 
-##### Missing: 114
+##### Missing: 108
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,15 +23,6 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-365 Days
-
-</td><td width="50%">
-
-365 Days
-
-</td></tr>
-<tr><td width="50%">
-
 Alabama
 
 </td><td width="50%">
@@ -104,15 +95,6 @@ Aruba
 </td></tr>
 <tr><td width="50%">
 
-Attendance
-
-</td><td width="50%">
-
-Attendance
-
-</td></tr>
-<tr><td width="50%">
-
 Barbados
 
 </td><td width="50%">
@@ -163,15 +145,6 @@ Burundi
 </td><td width="50%">
 
 Burundi
-
-</td></tr>
-<tr><td width="50%">
-
-Choose a project
-
-</td><td width="50%">
-
-Choose a project
 
 </td></tr>
 <tr><td width="50%">
@@ -244,15 +217,6 @@ Egypt
 </td><td width="50%">
 
 Egypt
-
-</td></tr>
-<tr><td width="50%">
-
-Employee
-
-</td><td width="50%">
-
-Employee
 
 </td></tr>
 <tr><td width="50%">
@@ -487,15 +451,6 @@ Lesotho
 </td><td width="50%">
 
 Lesotho
-
-</td></tr>
-<tr><td width="50%">
-
-Log out
-
-</td><td width="50%">
-
-Log out
 
 </td></tr>
 <tr><td width="50%">
@@ -793,15 +748,6 @@ Panama
 </td><td width="50%">
 
 Panama
-
-</td></tr>
-<tr><td width="50%">
-
-Person
-
-</td><td width="50%">
-
-Person
 
 </td></tr>
 <tr><td width="50%">

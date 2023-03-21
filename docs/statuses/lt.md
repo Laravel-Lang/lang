@@ -4,12 +4,12 @@ editLink: false
 
 # lt
 
-##### All missed: 35
+##### All missed: 29
 
 
 ### json
 
-##### Missing: 35
+##### Missing: 29
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,15 +23,6 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-365 Days
-
-</td><td width="50%">
-
-365 Days
-
-</td></tr>
-<tr><td width="50%">
-
 Alabama
 
 </td><td width="50%">
@@ -86,33 +77,6 @@ Aruba
 </td></tr>
 <tr><td width="50%">
 
-Attendance
-
-</td><td width="50%">
-
-Attendance
-
-</td></tr>
-<tr><td width="50%">
-
-Choose a project
-
-</td><td width="50%">
-
-Choose a project
-
-</td></tr>
-<tr><td width="50%">
-
-Employee
-
-</td><td width="50%">
-
-Employee
-
-</td></tr>
-<tr><td width="50%">
-
 Florida
 
 </td><td width="50%">
@@ -154,15 +118,6 @@ Jane Doe
 </td><td width="50%">
 
 Jane Doe
-
-</td></tr>
-<tr><td width="50%">
-
-Log out
-
-</td><td width="50%">
-
-Log out
 
 </td></tr>
 <tr><td width="50%">
@@ -271,15 +226,6 @@ Panama
 </td><td width="50%">
 
 Panama
-
-</td></tr>
-<tr><td width="50%">
-
-Person
-
-</td><td width="50%">
-
-Person
 
 </td></tr>
 <tr><td width="50%">

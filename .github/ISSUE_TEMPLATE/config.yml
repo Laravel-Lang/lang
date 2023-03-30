@@ -1,11 +1,8 @@
 blank_issues_enabled: false
 contact_links:
     -   name: Questions & Other
-        url: https://github.com/Laravel-Lang/lang/discussions
+        url: https://github.com/Laravel-Lang/common/discussions
         about: 'If you want to ask about something else, use the discussions.'
-    -   name: Package Manager issue
-        url: https://laravel-lang.com/installation/managers.html
-        about: 'If you have a question about the work of a translation manager, ask their developers.'
     -   name: Laravel issue
         url: https://github.com/laravel/framework/issues
         about: 'If you have a question about your Laravel implementation, ask it in your Laravel project.'

@@ -4,12 +4,12 @@ editLink: false
 
 # af
 
-##### All missed: 59
+##### All missed: 58
 
 
 ### json
 
-##### Missing: 59
+##### Missing: 58
 
 <table width="100%">
 <tr><th width="50%">
@@ -226,15 +226,6 @@ Kiosk
 </td><td width="50%">
 
 Kiosk
-
-</td></tr>
-<tr><td width="50%">
-
-Log Viewer
-
-</td><td width="50%">
-
-Log Viewer
 
 </td></tr>
 <tr><td width="50%">

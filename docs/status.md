@@ -126,7 +126,7 @@ editLink: false
 
 </td><td width="20%">
 
-[id&nbsp;✔](statuses/id.md)
+[id&nbsp;❗](statuses/id.md)
 
 </td><td width="20%">
 

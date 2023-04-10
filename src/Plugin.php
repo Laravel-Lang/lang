@@ -27,6 +27,7 @@ class Plugin extends Provider
         Plugins\Jetstream\Master::class,
         Plugins\Jetstream\V1::class,
         Plugins\Jetstream\V2::class,
+        Plugins\Jetstream\V3::class,
 
         Plugins\Laravel\Master::class,
         Plugins\Laravel\V9::class,
@@ -39,6 +40,8 @@ class Plugin extends Provider
         Plugins\Nova\LogViewer\Main::class,
         Plugins\Nova\V3::class,
         Plugins\Nova\V4::class,
+
+        Plugins\Nova\DuskSuite\Main::class,
 
         Plugins\Spark\Paddle::class,
         Plugins\Spark\Stripe::class,

@@ -4,7 +4,7 @@ editLink: false
 
 # sc
 
-##### All missed: 1243
+##### All missed: 1275
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 1074
+##### Missing: 1109
 
 <table width="100%">
 <tr><th width="50%">
@@ -192,6 +192,15 @@ Value
 </td><td width="50%">
 
 30 Days
+
+</td></tr>
+<tr><td width="50%">
+
+365 Days
+
+</td><td width="50%">
+
+365 Days
 
 </td></tr>
 <tr><td width="50%">
@@ -376,6 +385,15 @@ Add Discount
 </td></tr>
 <tr><td width="50%">
 
+Add Payment Method
+
+</td><td width="50%">
+
+Add Payment Method
+
+</td></tr>
+<tr><td width="50%">
+
 Add row
 
 </td><td width="50%">
@@ -408,6 +426,15 @@ Added.
 </td><td width="50%">
 
 Added.
+
+</td></tr>
+<tr><td width="50%">
+
+Additional billing information updated successfully.
+
+</td><td width="50%">
+
+Additional billing information updated successfully.
 
 </td></tr>
 <tr><td width="50%">
@@ -790,6 +817,15 @@ April
 </td></tr>
 <tr><td width="50%">
 
+Are you sure you want to attempt to pay :amount?
+
+</td><td width="50%">
+
+Are you sure you want to attempt to pay :amount?
+
+</td></tr>
+<tr><td width="50%">
+
 Are you sure you want to cancel your subscription?
 
 </td><td width="50%">
@@ -831,6 +867,15 @@ Are you sure you want to delete this notification?
 </td><td width="50%">
 
 Are you sure you want to delete this notification?
+
+</td></tr>
+<tr><td width="50%">
+
+Are you sure you want to delete this payment method?
+
+</td><td width="50%">
+
+Are you sure you want to delete this payment method?
 
 </td></tr>
 <tr><td width="50%">
@@ -943,11 +988,29 @@ Are you sure you want to restore this resource?
 </td></tr>
 <tr><td width="50%">
 
+Are you sure you want to resume your subscription?
+
+</td><td width="50%">
+
+Are you sure you want to resume your subscription?
+
+</td></tr>
+<tr><td width="50%">
+
 Are you sure you want to run this action?
 
 </td><td width="50%">
 
 Are you sure you want to run this action?
+
+</td></tr>
+<tr><td width="50%">
+
+Are you sure you want to set this payment method as your default?
+
+</td><td width="50%">
+
+Are you sure you want to set this payment method as your default?
 
 </td></tr>
 <tr><td width="50%">
@@ -993,6 +1056,15 @@ Are you sure you would like to remove this person from the team?
 </td><td width="50%">
 
 Are you sure you would like to remove this person from the team?
+
+</td></tr>
+<tr><td width="50%">
+
+Are you sure you would like to switch billing plans?
+
+</td><td width="50%">
+
+Are you sure you would like to switch billing plans?
 
 </td></tr>
 <tr><td width="50%">
@@ -1101,6 +1173,24 @@ Attach :resource
 </td><td width="50%">
 
 Attach :resource
+
+</td></tr>
+<tr><td width="50%">
+
+Attach files by dragging & dropping, selecting or pasting them.
+
+</td><td width="50%">
+
+Attach files by dragging & dropping, selecting or pasting them.
+
+</td></tr>
+<tr><td width="50%">
+
+Attendance
+
+</td><td width="50%">
+
+Attendance
 
 </td></tr>
 <tr><td width="50%">
@@ -1555,6 +1645,15 @@ Changes
 </td></tr>
 <tr><td width="50%">
 
+Checkout
+
+</td><td width="50%">
+
+Checkout
+
+</td></tr>
+<tr><td width="50%">
+
 Chile
 
 </td><td width="50%">
@@ -1596,6 +1695,15 @@ Choose :resource
 </td><td width="50%">
 
 Choose :resource
+
+</td></tr>
+<tr><td width="50%">
+
+Choose a project
+
+</td><td width="50%">
+
+Choose a project
 
 </td></tr>
 <tr><td width="50%">
@@ -1848,6 +1956,15 @@ Contact Information
 </td><td width="50%">
 
 Contact Information
+
+</td></tr>
+<tr><td width="50%">
+
+Continue To Payment
+
+</td><td width="50%">
+
+Continue To Payment
 
 </td></tr>
 <tr><td width="50%">
@@ -1942,6 +2059,15 @@ Coupon accepted! The discount will be applied to your next invoice.
 </td></tr>
 <tr><td width="50%">
 
+Coupon applied successfully.
+
+</td><td width="50%">
+
+Coupon applied successfully.
+
+</td></tr>
+<tr><td width="50%">
+
 Coupon Code
 
 </td><td width="50%">
@@ -2199,6 +2325,15 @@ Decrease
 </td><td width="50%">
 
 Decrease
+
+</td></tr>
+<tr><td width="50%">
+
+Default
+
+</td><td width="50%">
+
+Default
 
 </td></tr>
 <tr><td width="50%">
@@ -2653,6 +2788,15 @@ Emergency Token
 </td></tr>
 <tr><td width="50%">
 
+Employee
+
+</td><td width="50%">
+
+Employee
+
+</td></tr>
+<tr><td width="50%">
+
 Enable
 
 </td><td width="50%">
@@ -2739,6 +2883,15 @@ Expiration
 </td><td width="50%">
 
 Expiration
+
+</td></tr>
+<tr><td width="50%">
+
+Expires :expiration
+
+</td><td width="50%">
+
+Expires :expiration
 
 </td></tr>
 <tr><td width="50%">
@@ -3234,15 +3387,6 @@ Haiti
 </td><td width="50%">
 
 Haiti
-
-</td></tr>
-<tr><td width="50%">
-
-Have a coupon code?
-
-</td><td width="50%">
-
-Have a coupon code?
 
 </td></tr>
 <tr><td width="50%">
@@ -3369,15 +3513,6 @@ I Accept :linkOpen The Terms Of Service :linkClose
 </td><td width="50%">
 
 I Accept :linkOpen The Terms Of Service :linkClose
-
-</td></tr>
-<tr><td width="50%">
-
-I accept the terms of service
-
-</td><td width="50%">
-
-I accept the terms of service
 
 </td></tr>
 <tr><td width="50%">
@@ -4064,6 +4199,15 @@ Log Out
 </td><td width="50%">
 
 Log Out
+
+</td></tr>
+<tr><td width="50%">
+
+Log out
+
+</td><td width="50%">
+
+Log out
 
 </td></tr>
 <tr><td width="50%">
@@ -4905,6 +5049,15 @@ Next Payment
 </td></tr>
 <tr><td width="50%">
 
+Next Payment on
+
+</td><td width="50%">
+
+Next Payment on
+
+</td></tr>
+<tr><td width="50%">
+
 Nicaragua
 
 </td><td width="50%">
@@ -5013,11 +5166,11 @@ No Increase
 </td></tr>
 <tr><td width="50%">
 
-No payment method on file.
+No payment methods on file.
 
 </td><td width="50%">
 
-No payment method on file.
+No payment methods on file.
 
 </td></tr>
 <tr><td width="50%">
@@ -5301,6 +5454,15 @@ Ontario
 </td></tr>
 <tr><td width="50%">
 
+Open Invoices
+
+</td><td width="50%">
+
+Open Invoices
+
+</td></tr>
+<tr><td width="50%">
+
 Oregon
 
 </td><td width="50%">
@@ -5324,6 +5486,15 @@ Our billing management portal allows you to conveniently manage your subscriptio
 </td><td width="50%">
 
 Our billing management portal allows you to conveniently manage your subscription plan, payment method, and download your recent invoices.
+
+</td></tr>
+<tr><td width="50%">
+
+Our billing management portal allows you to conveniently manage your subscription plan, payment methods, and download your recent invoices.
+
+</td><td width="50%">
+
+Our billing management portal allows you to conveniently manage your subscription plan, payment methods, and download your recent invoices.
 
 </td></tr>
 <tr><td width="50%">
@@ -5454,11 +5625,29 @@ Payment Information
 </td></tr>
 <tr><td width="50%">
 
+Payment information updated successfully.
+
+</td><td width="50%">
+
+Payment information updated successfully.
+
+</td></tr>
+<tr><td width="50%">
+
 Payment Method
 
 </td><td width="50%">
 
 Payment Method
+
+</td></tr>
+<tr><td width="50%">
+
+Payment Methods
+
+</td><td width="50%">
+
+Payment Methods
 
 </td></tr>
 <tr><td width="50%">
@@ -5477,6 +5666,15 @@ Payment Successful
 </td><td width="50%">
 
 Payment Successful
+
+</td></tr>
+<tr><td width="50%">
+
+Payments
+
+</td><td width="50%">
+
+Payments
 
 </td></tr>
 <tr><td width="50%">
@@ -5549,6 +5747,15 @@ Permissions
 </td><td width="50%">
 
 Permissions
+
+</td></tr>
+<tr><td width="50%">
+
+Person
+
+</td><td width="50%">
+
+Person
 
 </td></tr>
 <tr><td width="50%">
@@ -5733,6 +5940,15 @@ Please select at least one ability.
 </td></tr>
 <tr><td width="50%">
 
+Please set a default payment method before swapping plans.
+
+</td><td width="50%">
+
+Please set a default payment method before swapping plans.
+
+</td></tr>
+<tr><td width="50%">
+
 please upgrade your subscription
 
 </td><td width="50%">
@@ -5891,6 +6107,15 @@ Receipt Email Addresses
 </td><td width="50%">
 
 Receipt Email Addresses
+
+</td></tr>
+<tr><td width="50%">
+
+Receipt emails updated successfully.
+
+</td><td width="50%">
+
+Receipt emails updated successfully.
 
 </td></tr>
 <tr><td width="50%">
@@ -6741,6 +6966,15 @@ Session Expired
 </td></tr>
 <tr><td width="50%">
 
+Set as default
+
+</td><td width="50%">
+
+Set as default
+
+</td></tr>
+<tr><td width="50%">
+
 Settings
 
 </td><td width="50%">
@@ -6827,15 +7061,6 @@ Since you already have an account, you may accept the invitation from your accou
 </td><td width="50%">
 
 Since you already have an account, you may accept the invitation from your account settings screen.
-
-</td></tr>
-<tr><td width="50%">
-
-Since you have a cash balance sufficient to begin a subscription, providing a payment method is not required. You may leave this field empty if you wish to begin a subscription using your cash balance.
-
-</td><td width="50%">
-
-Since you have a cash balance sufficient to begin a subscription, providing a payment method is not required. You may leave this field empty if you wish to begin a subscription using your cash balance.
 
 </td></tr>
 <tr><td width="50%">
@@ -7317,6 +7542,15 @@ Tax
 </td></tr>
 <tr><td width="50%">
 
+TAX
+
+</td><td width="50%">
+
+TAX
+
+</td></tr>
+<tr><td width="50%">
+
 Team Details
 
 </td><td width="50%">
@@ -7646,6 +7880,15 @@ The coupon :value discount will be applied to your subscription!
 </td><td width="50%">
 
 The coupon :value discount will be applied to your subscription!
+
+</td></tr>
+<tr><td width="50%">
+
+The default payment method cannot be removed.
+
+</td><td width="50%">
+
+The default payment method cannot be removed.
 
 </td></tr>
 <tr><td width="50%">
@@ -8321,15 +8564,6 @@ Too Many Requests
 </td><td width="50%">
 
 Too Many Requests
-
-</td></tr>
-<tr><td width="50%">
-
-Top Up Balance
-
-</td><td width="50%">
-
-Top Up Balance
 
 </td></tr>
 <tr><td width="50%">
@@ -8744,6 +8978,15 @@ Updating
 </td><td width="50%">
 
 Updating
+
+</td></tr>
+<tr><td width="50%">
+
+Uploading files... (:current/:total)
+
+</td><td width="50%">
+
+Uploading files... (:current/:total)
 
 </td></tr>
 <tr><td width="50%">
@@ -9495,11 +9738,11 @@ You have not enabled two factor authentication.
 </td></tr>
 <tr><td width="50%">
 
-You have some unpaid invoices. After updating your payment method, you may retry the payments via the invoice list below.
+You have some unpaid invoices. After updating your default payment method, you may retry the payments via the invoice list below.
 
 </td><td width="50%">
 
-You have some unpaid invoices. After updating your payment method, you may retry the payments via the invoice list below.
+You have some unpaid invoices. After updating your default payment method, you may retry the payments via the invoice list below.
 
 </td></tr>
 <tr><td width="50%">
@@ -9563,6 +9806,15 @@ You will be redirected to Mollie's checkout.
 </td><td width="50%">
 
 You will be redirected to Mollie's checkout.
+
+</td></tr>
+<tr><td width="50%">
+
+You will receive an invoice and payment link via email for each billing period.
+
+</td><td width="50%">
+
+You will receive an invoice and payment link via email for each billing period.
 
 </td></tr>
 <tr><td width="50%">
@@ -9599,6 +9851,15 @@ Your billing address has been updated!
 </td><td width="50%">
 
 Your billing address has been updated!
+
+</td></tr>
+<tr><td width="50%">
+
+Your billing address is :address :address2 :postal_code :city :state :country
+
+</td><td width="50%">
+
+Your billing address is :address :address2 :postal_code :city :state :country
 
 </td></tr>
 <tr><td width="50%">
@@ -9711,11 +9972,29 @@ Your payment method could not be updated.
 </td></tr>
 <tr><td width="50%">
 
+Your payment method has been added successfully.
+
+</td><td width="50%">
+
+Your payment method has been added successfully.
+
+</td></tr>
+<tr><td width="50%">
+
 Your payment method has been updated.
 
 </td><td width="50%">
 
 Your payment method has been updated.
+
+</td></tr>
+<tr><td width="50%">
+
+Your payment method will be charged automatically for each billing period.
+
+</td><td width="50%">
+
+Your payment method will be charged automatically for each billing period.
 
 </td></tr>
 <tr><td width="50%">
@@ -9752,6 +10031,42 @@ Your Settings
 </td><td width="50%">
 
 Your Settings
+
+</td></tr>
+<tr><td width="50%">
+
+Your subscription has been started successfully.
+
+</td><td width="50%">
+
+Your subscription has been started successfully.
+
+</td></tr>
+<tr><td width="50%">
+
+Your subscription has been successfully cancelled.
+
+</td><td width="50%">
+
+Your subscription has been successfully cancelled.
+
+</td></tr>
+<tr><td width="50%">
+
+Your subscription was successfully resumed.
+
+</td><td width="50%">
+
+Your subscription was successfully resumed.
+
+</td></tr>
+<tr><td width="50%">
+
+Your subscription was successfully updated.
+
+</td><td width="50%">
+
+Your subscription was successfully updated.
 
 </td></tr>
 <tr><td width="50%">
@@ -9843,7 +10158,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 40
+##### Missing: 38
 
 <table width="100%">
 <tr><th width="50%">
@@ -9934,24 +10249,6 @@ distinct
 </td><td width="50%">
 
 This field has a duplicate value.
-
-</td></tr>
-<tr><td width="50%">
-
-doesnt_end_with
-
-</td><td width="50%">
-
-This field may not end with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-doesnt_start_with
-
-</td><td width="50%">
-
-This field may not start with one of the following: :values.
 
 </td></tr>
 <tr><td width="50%">
@@ -10223,7 +10520,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 115
+##### Missing: 114
 
 <table width="100%">
 <tr><th width="50%">
@@ -10557,15 +10854,6 @@ if_you_delete_team_all_data_will_be_deleted
 </td><td width="50%">
 
 If you choose to delete the team all data will be permanently deleted.
-
-</td></tr>
-<tr><td width="50%">
-
-in_array
-
-</td><td width="50%">
-
-The :attribute field does not exist in :other.
 
 </td></tr>
 <tr><td width="50%">

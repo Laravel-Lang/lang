@@ -2,18 +2,34 @@ name: download
 
 on:
     schedule:
-        -   cron: 0 0 * * *
+        -   cron: 34 0 * * *
     workflow_dispatch:
 
 permissions: write-all
 
 jobs:
-    laravel:
+    laravel_10:
         uses: Laravel-Lang/.github/.github/workflows/download.yml@main
         strategy:
             fail-fast: true
             matrix:
-                version: [ "9.x", "10.x", "master" ]
+                version: [ "10.x", "master" ]
+        with:
+            project: Laravel Framework ${{ matrix.version }}
+            paths: source/framework/${{ matrix.version }}/*
+            commands: |
+                vendor/bin/lang download \
+                    --url=https://github.com/laravel/framework/archive/refs/heads/${{ matrix.version }}.zip \
+                    --project=framework \
+                    --ver=${{ matrix.version }} \
+                    --copy=src/Illuminate/Translation/lang
+
+    laravel_9:
+        uses: Laravel-Lang/.github/.github/workflows/download.yml@main
+        strategy:
+            fail-fast: true
+            matrix:
+                version: [ "9.x" ]
         with:
             project: Laravel Framework ${{ matrix.version }}
             paths: source/laravel/${{ matrix.version }}/*,source/framework/${{ matrix.version }}/*
@@ -35,7 +51,7 @@ jobs:
         strategy:
             fail-fast: true
             matrix:
-                version: [ "9.x", "master" ]
+                version: [ "9.x", "10.x", "master" ]
         with:
             project: Lumen Framework ${{ matrix.version }}
             paths: source/lumen-framework/${{ matrix.version }}/*
@@ -98,7 +114,7 @@ jobs:
         strategy:
             fail-fast: true
             matrix:
-                version: [ "1.x", "2.x", "master" ]
+                version: [ "1.x", "2.x", "3.x", "master" ]
         with:
             project: Laravel Jetstream ${{ matrix.version }}
             paths: source/jetstream/${{ matrix.version }}/*
@@ -122,6 +138,22 @@ jobs:
                     --url=https://github.com/laravel/nova-log-viewer/archive/refs/heads/${{ matrix.version }}.zip \
                     --project=nova/log-viewer \
                     --ver=${{ matrix.version }}
+
+    nova_dusk_suite:
+        uses: Laravel-Lang/.github/.github/workflows/download.yml@main
+        strategy:
+            fail-fast: true
+            matrix:
+                version: [ "master" ]
+        with:
+            project: Laravel Nova Dusk Suite ${{ matrix.version }}
+            paths: source/nova/dusk-suite/${{ matrix.version }}/*
+            commands: |
+                vendor/bin/lang download \
+                    --url=https://github.com/laravel/nova-dusk-suite/archive/refs/heads/${{ matrix.version }}.zip \
+                    --project=nova/dusk-suite \
+                    --ver=${{ matrix.version }} \
+                    --copy=lang
 
     spark_aurelius:
         uses: Laravel-Lang/.github/.github/workflows/download.yml@main

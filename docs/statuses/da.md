@@ -4,12 +4,12 @@ editLink: false
 
 # da
 
-##### All missed: 189
+##### All missed: 190
 
 
 ### json
 
-##### Missing: 187
+##### Missing: 188
 
 <table width="100%">
 <tr><th width="50%">
@@ -262,6 +262,15 @@ Canada
 </td><td width="50%">
 
 Canada
+
+</td></tr>
+<tr><td width="50%">
+
+Checkout
+
+</td><td width="50%">
+
+Checkout
 
 </td></tr>
 <tr><td width="50%">
@@ -1265,6 +1274,15 @@ Pennsylvania
 </td></tr>
 <tr><td width="50%">
 
+Person
+
+</td><td width="50%">
+
+Person
+
+</td></tr>
+<tr><td width="50%">
+
 Peru
 
 </td><td width="50%">
@@ -1531,15 +1549,6 @@ Tokelau
 </td><td width="50%">
 
 Tokelau
-
-</td></tr>
-<tr><td width="50%">
-
-Top Up Balance
-
-</td><td width="50%">
-
-Top Up Balance
 
 </td></tr>
 <tr><td width="50%">

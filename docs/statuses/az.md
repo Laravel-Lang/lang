@@ -4,12 +4,12 @@ editLink: false
 
 # az
 
-##### All missed: 45
+##### All missed: 44
 
 
 ### json
 
-##### Missing: 45
+##### Missing: 44
 
 <table width="100%">
 <tr><th width="50%">
@@ -118,15 +118,6 @@ Burundi
 </td><td width="50%">
 
 Burundi
-
-</td></tr>
-<tr><td width="50%">
-
-Cape Verde
-
-</td><td width="50%">
-
-Cape Verde
 
 </td></tr>
 <tr><td width="50%">

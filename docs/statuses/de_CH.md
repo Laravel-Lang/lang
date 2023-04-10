@@ -4,12 +4,12 @@ editLink: false
 
 # de_CH
 
-##### All missed: 64
+##### All missed: 65
 
 
 ### json
 
-##### Missing: 63
+##### Missing: 64
 
 <table width="100%">
 <tr><th width="50%">
@@ -442,6 +442,15 @@ Pennsylvania
 </td><td width="50%">
 
 Pennsylvania
+
+</td></tr>
+<tr><td width="50%">
+
+Person
+
+</td><td width="50%">
+
+Person
 
 </td></tr>
 <tr><td width="50%">

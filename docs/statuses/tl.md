@@ -4,12 +4,12 @@ editLink: false
 
 # tl
 
-##### All missed: 205
+##### All missed: 207
 
 
 ### json
 
-##### Missing: 204
+##### Missing: 206
 
 <table width="100%">
 <tr><th width="50%">
@@ -343,6 +343,15 @@ Dashboard
 </td><td width="50%">
 
 Dashboard
+
+</td></tr>
+<tr><td width="50%">
+
+Default
+
+</td><td width="50%">
+
+Default
 
 </td></tr>
 <tr><td width="50%">
@@ -820,6 +829,15 @@ Liechtenstein
 </td><td width="50%">
 
 Liechtenstein
+
+</td></tr>
+<tr><td width="50%">
+
+Log out
+
+</td><td width="50%">
+
+Log out
 
 </td></tr>
 <tr><td width="50%">

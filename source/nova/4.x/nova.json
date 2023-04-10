@@ -453,11 +453,11 @@
   "Mark all as Read": "Mark all as Read",
   "Copy to clipboard": "Copy to clipboard",
   "Are you sure you want to delete this notification?": "Are you sure you want to delete this notification?",
-  "Drop files or click to choose": "Drop files or click to choose",
-  "Drop file or click to choose": "Drop file or click to choose",
   "The image could not be loaded": "The image could not be loaded",
   "Filename": "Filename",
   "Type": "Type",
   "CSV (.csv)": "CSV (.csv)",
-  "Excel (.xlsx)": "Excel (.xlsx)"
+  "Excel (.xlsx)": "Excel (.xlsx)",
+  "Attach files by dragging & dropping, selecting or pasting them.": "Attach files by dragging & dropping, selecting or pasting them.",
+  "Uploading files... (:current/:total)": "Uploading files... (:current/:total)"
 }

@@ -2,5 +2,7 @@
     "API",
     "CSV (.csv)",
     "Excel (.xlsx)",
-    "ID"
+    "ID",
+    "Nova",
+    "SKU"
 ]

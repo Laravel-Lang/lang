@@ -409,6 +409,7 @@
   "There are no available options for this resource.": "There are no available options for this resource.",
   "All resources loaded.": "All resources loaded.",
   "Load :perPage More": "Load :perPage More",
+  ":amount selected": ":amount selected",
   ":amount Total": ":amount Total",
   "Show All Fields": "Show All Fields",
   "There was a problem submitting the form.": "There was a problem submitting the form.",
@@ -434,6 +435,7 @@
   ":resource Details: :title": ":resource Details: :title",
   "The HasOne relationship has already been filled.": "The HasOne relationship has already been filled.",
   "An error occurred while uploading the file.": "An error occurred while uploading the file.",
+  "An error occurred while uploading the file: :error": "An error occurred while uploading the file: :error",
   "Previewing": "Previewing",
   "Replicate": "Replicate",
   "Are you sure you want to log out?": "Are you sure you want to log out?",
@@ -459,5 +461,8 @@
   "CSV (.csv)": "CSV (.csv)",
   "Excel (.xlsx)": "Excel (.xlsx)",
   "Attach files by dragging & dropping, selecting or pasting them.": "Attach files by dragging & dropping, selecting or pasting them.",
-  "Uploading files... (:current/:total)": "Uploading files... (:current/:total)"
+  "Uploading files... (:current/:total)": "Uploading files... (:current/:total)",
+  "Remove": "Remove",
+  "Uploading": "Uploading",
+  "The image could not be loaded.": "The image could not be loaded."
 }

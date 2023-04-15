@@ -4,12 +4,12 @@ editLink: false
 
 # da
 
-##### All missed: 194
+##### All missed: 193
 
 
 ### json
 
-##### Missing: 192
+##### Missing: 191
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,15 +21,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-:amount selected
-
-</td><td width="50%">
-
-:amount selected
-
-</td></tr>
 <tr><td width="50%">
 
 Action Status

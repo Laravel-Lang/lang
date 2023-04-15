@@ -4,12 +4,12 @@ editLink: false
 
 # fil
 
-##### All missed: 322
+##### All missed: 321
 
 
 ### json
 
-##### Missing: 321
+##### Missing: 320
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,15 +21,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-:amount selected
-
-</td><td width="50%">
-
-:amount selected
-
-</td></tr>
 <tr><td width="50%">
 
 Action Target

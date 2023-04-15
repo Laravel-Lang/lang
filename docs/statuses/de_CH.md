@@ -4,12 +4,12 @@ editLink: false
 
 # de_CH
 
-##### All missed: 69
+##### All missed: 68
 
 
 ### json
 
-##### Missing: 68
+##### Missing: 67
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,15 +21,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-:amount selected
-
-</td><td width="50%">
-
-:amount selected
-
-</td></tr>
 <tr><td width="50%">
 
 Action Status

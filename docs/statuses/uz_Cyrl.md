@@ -4,12 +4,12 @@ editLink: false
 
 # uz_Cyrl
 
-##### All missed: 59
+##### All missed: 58
 
 
 ### json
 
-##### Missing: 58
+##### Missing: 57
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,15 +21,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-:amount selected
-
-</td><td width="50%">
-
-:amount selected
-
-</td></tr>
 <tr><td width="50%">
 
 Administrator

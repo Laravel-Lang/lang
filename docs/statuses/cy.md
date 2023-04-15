@@ -4,12 +4,12 @@ editLink: false
 
 # cy
 
-##### All missed: 64
+##### All missed: 63
 
 
 ### json
 
-##### Missing: 64
+##### Missing: 63
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,15 +21,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-:amount selected
-
-</td><td width="50%">
-
-:amount selected
-
-</td></tr>
 <tr><td width="50%">
 
 Alabama

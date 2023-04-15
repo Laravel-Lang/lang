@@ -4,7 +4,7 @@ editLink: false
 
 # sr_Latn_ME
 
-##### All missed: 651
+##### All missed: 650
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 543
+##### Missing: 542
 
 <table width="100%">
 <tr><th width="50%">
@@ -192,15 +192,6 @@ Value
 </td><td width="50%">
 
 365 Days
-
-</td></tr>
-<tr><td width="50%">
-
-:amount selected
-
-</td><td width="50%">
-
-:amount selected
 
 </td></tr>
 <tr><td width="50%">

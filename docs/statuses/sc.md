@@ -4,7 +4,7 @@ editLink: false
 
 # sc
 
-##### All missed: 1279
+##### All missed: 1278
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 1113
+##### Missing: 1112
 
 <table width="100%">
 <tr><th width="50%">
@@ -219,15 +219,6 @@ Value
 </td><td width="50%">
 
 90 Days
-
-</td></tr>
-<tr><td width="50%">
-
-:amount selected
-
-</td><td width="50%">
-
-:amount selected
 
 </td></tr>
 <tr><td width="50%">

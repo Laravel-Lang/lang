@@ -4,12 +4,12 @@ editLink: false
 
 # ug
 
-##### All missed: 151
+##### All missed: 150
 
 
 ### json
 
-##### Missing: 147
+##### Missing: 146
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,15 +21,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-:amount selected
-
-</td><td width="50%">
-
-:amount selected
-
-</td></tr>
 <tr><td width="50%">
 
 Action Happened At

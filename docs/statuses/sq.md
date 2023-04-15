@@ -4,12 +4,12 @@ editLink: false
 
 # sq
 
-##### All missed: 91
+##### All missed: 90
 
 
 ### json
 
-##### Missing: 91
+##### Missing: 90
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,15 +21,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-:amount selected
-
-</td><td width="50%">
-
-:amount selected
-
-</td></tr>
 <tr><td width="50%">
 
 Alabama

@@ -4,12 +4,12 @@ editLink: false
 
 # ne
 
-##### All missed: 8
+##### All missed: 7
 
 
 ### json
 
-##### Missing: 8
+##### Missing: 7
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,15 +21,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-:amount selected
-
-</td><td width="50%">
-
-:amount selected
-
-</td></tr>
 <tr><td width="50%">
 
 An error occurred while uploading the file: :error

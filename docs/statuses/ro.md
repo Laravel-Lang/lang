@@ -4,12 +4,12 @@ editLink: false
 
 # ro
 
-##### All missed: 174
+##### All missed: 173
 
 
 ### json
 
-##### Missing: 174
+##### Missing: 173
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,15 +21,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-:amount selected
-
-</td><td width="50%">
-
-:amount selected
-
-</td></tr>
 <tr><td width="50%">
 
 Administrator

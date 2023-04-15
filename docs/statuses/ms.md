@@ -4,12 +4,12 @@ editLink: false
 
 # ms
 
-##### All missed: 212
+##### All missed: 211
 
 
 ### json
 
-##### Missing: 212
+##### Missing: 211
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,15 +21,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-:amount selected
-
-</td><td width="50%">
-
-:amount selected
-
-</td></tr>
 <tr><td width="50%">
 
 Afghanistan

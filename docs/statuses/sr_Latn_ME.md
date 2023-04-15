@@ -4,7 +4,7 @@ editLink: false
 
 # sr_Latn_ME
 
-##### All missed: 647
+##### All missed: 651
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 539
+##### Missing: 543
 
 <table width="100%">
 <tr><th width="50%">
@@ -196,6 +196,15 @@ Value
 </td></tr>
 <tr><td width="50%">
 
+:amount selected
+
+</td><td width="50%">
+
+:amount selected
+
+</td></tr>
+<tr><td width="50%">
+
 A fresh verification link has been sent to your email address.
 
 </td><td width="50%">
@@ -363,6 +372,15 @@ An error occurred while uploading the file.
 </td><td width="50%">
 
 An error occurred while uploading the file.
+
+</td></tr>
+<tr><td width="50%">
+
+An error occurred while uploading the file: :error
+
+</td><td width="50%">
+
+An error occurred while uploading the file: :error
 
 </td></tr>
 <tr><td width="50%">
@@ -3589,6 +3607,15 @@ The image could not be loaded
 </td></tr>
 <tr><td width="50%">
 
+The image could not be loaded.
+
+</td><td width="50%">
+
+The image could not be loaded.
+
+</td></tr>
+<tr><td width="50%">
+
 The invitation has been sent!
 
 </td><td width="50%">
@@ -4134,6 +4161,15 @@ Updating
 </td><td width="50%">
 
 Updating
+
+</td></tr>
+<tr><td width="50%">
+
+Uploading
+
+</td><td width="50%">
+
+Uploading
 
 </td></tr>
 <tr><td width="50%">

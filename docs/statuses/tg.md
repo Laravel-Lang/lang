@@ -4,12 +4,12 @@ editLink: false
 
 # tg
 
-##### All missed: 3
+##### All missed: 7
 
 
 ### json
 
-##### Missing: 2
+##### Missing: 6
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,6 +21,24 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+:amount selected
+
+</td><td width="50%">
+
+:amount selected
+
+</td></tr>
+<tr><td width="50%">
+
+An error occurred while uploading the file: :error
+
+</td><td width="50%">
+
+An error occurred while uploading the file: :error
+
+</td></tr>
 <tr><td width="50%">
 
 API
@@ -37,6 +55,24 @@ ID
 </td><td width="50%">
 
 ID
+
+</td></tr>
+<tr><td width="50%">
+
+The image could not be loaded.
+
+</td><td width="50%">
+
+The image could not be loaded.
+
+</td></tr>
+<tr><td width="50%">
+
+Uploading
+
+</td><td width="50%">
+
+Uploading
 
 </td></tr>
 </table>

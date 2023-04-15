@@ -4,12 +4,12 @@ editLink: false
 
 # tl
 
-##### All missed: 207
+##### All missed: 211
 
 
 ### json
 
-##### Missing: 206
+##### Missing: 210
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,6 +21,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+:amount selected
+
+</td><td width="50%">
+
+:amount selected
+
+</td></tr>
 <tr><td width="50%">
 
 Action Target
@@ -82,6 +91,15 @@ Algeria
 </td><td width="50%">
 
 Algeria
+
+</td></tr>
+<tr><td width="50%">
+
+An error occurred while uploading the file: :error
+
+</td><td width="50%">
+
+An error occurred while uploading the file: :error
 
 </td></tr>
 <tr><td width="50%">
@@ -1607,6 +1625,15 @@ Texas
 </td></tr>
 <tr><td width="50%">
 
+The image could not be loaded.
+
+</td><td width="50%">
+
+The image could not be loaded.
+
+</td></tr>
+<tr><td width="50%">
+
 Timor-Leste
 
 </td><td width="50%">
@@ -1720,6 +1747,15 @@ Update Announcement
 </td><td width="50%">
 
 Update Announcement
+
+</td></tr>
+<tr><td width="50%">
+
+Uploading
+
+</td><td width="50%">
+
+Uploading
 
 </td></tr>
 <tr><td width="50%">

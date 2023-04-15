@@ -4,12 +4,12 @@ editLink: false
 
 # sv
 
-##### All missed: 173
+##### All missed: 177
 
 
 ### json
 
-##### Missing: 171
+##### Missing: 175
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,6 +21,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+:amount selected
+
+</td><td width="50%">
+
+:amount selected
+
+</td></tr>
 <tr><td width="50%">
 
 Action Status
@@ -64,6 +73,15 @@ Alberta
 </td><td width="50%">
 
 Alberta
+
+</td></tr>
+<tr><td width="50%">
+
+An error occurred while uploading the file: :error
+
+</td><td width="50%">
+
+An error occurred while uploading the file: :error
 
 </td></tr>
 <tr><td width="50%">
@@ -1373,6 +1391,15 @@ Thailand
 </td></tr>
 <tr><td width="50%">
 
+The image could not be loaded.
+
+</td><td width="50%">
+
+The image could not be loaded.
+
+</td></tr>
+<tr><td width="50%">
+
 Togo
 
 </td><td width="50%">
@@ -1450,6 +1477,15 @@ Uganda
 </td><td width="50%">
 
 Uganda
+
+</td></tr>
+<tr><td width="50%">
+
+Uploading
+
+</td><td width="50%">
+
+Uploading
 
 </td></tr>
 <tr><td width="50%">

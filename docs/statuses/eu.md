@@ -4,12 +4,12 @@ editLink: false
 
 # eu
 
-##### All missed: 59
+##### All missed: 56
 
 
 ### json
 
-##### Missing: 59
+##### Missing: 56
 
 <table width="100%">
 <tr><th width="50%">
@@ -46,15 +46,6 @@ Alberta
 </td><td width="50%">
 
 Alberta
-
-</td></tr>
-<tr><td width="50%">
-
-An error occurred while uploading the file: :error
-
-</td><td width="50%">
-
-An error occurred while uploading the file: :error
 
 </td></tr>
 <tr><td width="50%">
@@ -455,15 +446,6 @@ Texas
 </td></tr>
 <tr><td width="50%">
 
-The image could not be loaded.
-
-</td><td width="50%">
-
-The image could not be loaded.
-
-</td></tr>
-<tr><td width="50%">
-
 To
 
 </td><td width="50%">
@@ -478,15 +460,6 @@ Token Can
 </td><td width="50%">
 
 Token Can
-
-</td></tr>
-<tr><td width="50%">
-
-Uploading
-
-</td><td width="50%">
-
-Uploading
 
 </td></tr>
 <tr><td width="50%">

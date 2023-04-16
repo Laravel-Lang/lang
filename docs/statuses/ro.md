@@ -4,12 +4,12 @@ editLink: false
 
 # ro
 
-##### All missed: 173
+##### All missed: 170
 
 
 ### json
 
-##### Missing: 173
+##### Missing: 170
 
 <table width="100%">
 <tr><th width="50%">
@@ -73,15 +73,6 @@ Algeria
 </td><td width="50%">
 
 Algeria
-
-</td></tr>
-<tr><td width="50%">
-
-An error occurred while uploading the file: :error
-
-</td><td width="50%">
-
-An error occurred while uploading the file: :error
 
 </td></tr>
 <tr><td width="50%">
@@ -1373,15 +1364,6 @@ Texas
 </td></tr>
 <tr><td width="50%">
 
-The image could not be loaded.
-
-</td><td width="50%">
-
-The image could not be loaded.
-
-</td></tr>
-<tr><td width="50%">
-
 Tokelau
 
 </td><td width="50%">
@@ -1450,15 +1432,6 @@ Uganda
 </td><td width="50%">
 
 Uganda
-
-</td></tr>
-<tr><td width="50%">
-
-Uploading
-
-</td><td width="50%">
-
-Uploading
 
 </td></tr>
 <tr><td width="50%">

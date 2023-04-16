@@ -4,12 +4,12 @@ editLink: false
 
 # da
 
-##### All missed: 190
+##### All missed: 193
 
 
 ### json
 
-##### Missing: 188
+##### Missing: 191
 
 <table width="100%">
 <tr><th width="50%">
@@ -64,6 +64,15 @@ Alaska
 </td><td width="50%">
 
 Alaska
+
+</td></tr>
+<tr><td width="50%">
+
+An error occurred while uploading the file: :error
+
+</td><td width="50%">
+
+An error occurred while uploading the file: :error
 
 </td></tr>
 <tr><td width="50%">
@@ -1535,6 +1544,15 @@ Thailand
 </td></tr>
 <tr><td width="50%">
 
+The image could not be loaded.
+
+</td><td width="50%">
+
+The image could not be loaded.
+
+</td></tr>
+<tr><td width="50%">
+
 Timor-Leste
 
 </td><td width="50%">
@@ -1594,6 +1612,15 @@ Ukraine
 </td><td width="50%">
 
 Ukraine
+
+</td></tr>
+<tr><td width="50%">
+
+Uploading
+
+</td><td width="50%">
+
+Uploading
 
 </td></tr>
 <tr><td width="50%">

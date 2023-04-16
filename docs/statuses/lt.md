@@ -4,12 +4,12 @@ editLink: false
 
 # lt
 
-##### All missed: 29
+##### All missed: 32
 
 
 ### json
 
-##### Missing: 29
+##### Missing: 32
 
 <table width="100%">
 <tr><th width="50%">
@@ -32,6 +32,15 @@ Alabama
 </td></tr>
 <tr><td width="50%">
 
+An error occurred while uploading the file: :error
+
+</td><td width="50%">
+
+An error occurred while uploading the file: :error
+
+</td></tr>
+<tr><td width="50%">
+
 Angola
 
 </td><td width="50%">
@@ -248,6 +257,15 @@ Samoa
 </td></tr>
 <tr><td width="50%">
 
+The image could not be loaded.
+
+</td><td width="50%">
+
+The image could not be loaded.
+
+</td></tr>
+<tr><td width="50%">
+
 Tokelau
 
 </td><td width="50%">
@@ -271,6 +289,15 @@ Uganda
 </td><td width="50%">
 
 Uganda
+
+</td></tr>
+<tr><td width="50%">
+
+Uploading
+
+</td><td width="50%">
+
+Uploading
 
 </td></tr>
 <tr><td width="50%">

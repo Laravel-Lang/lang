@@ -4,12 +4,12 @@ editLink: false
 
 # ug
 
-##### All missed: 178
+##### All missed: 150
 
 
 ### json
 
-##### Missing: 174
+##### Missing: 146
 
 <table width="100%">
 <tr><th width="50%">
@@ -41,24 +41,6 @@ Initiated By
 </td></tr>
 <tr><td width="50%">
 
-Add Payment Method
-
-</td><td width="50%">
-
-Add Payment Method
-
-</td></tr>
-<tr><td width="50%">
-
-Additional billing information updated successfully.
-
-</td><td width="50%">
-
-Additional billing information updated successfully.
-
-</td></tr>
-<tr><td width="50%">
-
 Aland Islands
 
 </td><td width="50%">
@@ -86,6 +68,15 @@ American Samoa
 </td></tr>
 <tr><td width="50%">
 
+An error occurred while uploading the file: :error
+
+</td><td width="50%">
+
+An error occurred while uploading the file: :error
+
+</td></tr>
+<tr><td width="50%">
+
 Andorra
 
 </td><td width="50%">
@@ -127,51 +118,6 @@ API Tokens
 </td><td width="50%">
 
 API Tokens
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to attempt to pay :amount?
-
-</td><td width="50%">
-
-Are you sure you want to attempt to pay :amount?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to delete this payment method?
-
-</td><td width="50%">
-
-Are you sure you want to delete this payment method?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to resume your subscription?
-
-</td><td width="50%">
-
-Are you sure you want to resume your subscription?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to set this payment method as your default?
-
-</td><td width="50%">
-
-Are you sure you want to set this payment method as your default?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you would like to switch billing plans?
-
-</td><td width="50%">
-
-Are you sure you would like to switch billing plans?
 
 </td></tr>
 <tr><td width="50%">
@@ -266,15 +212,6 @@ Cape Verde
 </td></tr>
 <tr><td width="50%">
 
-Checkout
-
-</td><td width="50%">
-
-Checkout
-
-</td></tr>
-<tr><td width="50%">
-
 Comoros
 
 </td><td width="50%">
@@ -298,15 +235,6 @@ Constant
 </td><td width="50%">
 
 Constant
-
-</td></tr>
-<tr><td width="50%">
-
-Continue To Payment
-
-</td><td width="50%">
-
-Continue To Payment
 
 </td></tr>
 <tr><td width="50%">
@@ -329,15 +257,6 @@ Coupon
 </td></tr>
 <tr><td width="50%">
 
-Coupon applied successfully.
-
-</td><td width="50%">
-
-Coupon applied successfully.
-
-</td></tr>
-<tr><td width="50%">
-
 Coupon Code
 
 </td><td width="50%">
@@ -379,15 +298,6 @@ Day Trial
 </td><td width="50%">
 
 Day Trial
-
-</td></tr>
-<tr><td width="50%">
-
-Default
-
-</td><td width="50%">
-
-Default
 
 </td></tr>
 <tr><td width="50%">
@@ -460,15 +370,6 @@ ex VAT
 </td><td width="50%">
 
 ex VAT
-
-</td></tr>
-<tr><td width="50%">
-
-Expires :expiration
-
-</td><td width="50%">
-
-Expires :expiration
 
 </td></tr>
 <tr><td width="50%">
@@ -1004,15 +905,6 @@ Niue
 </td></tr>
 <tr><td width="50%">
 
-No payment methods on file.
-
-</td><td width="50%">
-
-No payment methods on file.
-
-</td></tr>
-<tr><td width="50%">
-
 Nova Scotia
 
 </td><td width="50%">
@@ -1058,29 +950,11 @@ Ontario
 </td></tr>
 <tr><td width="50%">
 
-Open Invoices
-
-</td><td width="50%">
-
-Open Invoices
-
-</td></tr>
-<tr><td width="50%">
-
 Oregon
 
 </td><td width="50%">
 
 Oregon
-
-</td></tr>
-<tr><td width="50%">
-
-Our billing management portal allows you to conveniently manage your subscription plan, payment methods, and download your recent invoices.
-
-</td><td width="50%">
-
-Our billing management portal allows you to conveniently manage your subscription plan, payment methods, and download your recent invoices.
 
 </td></tr>
 <tr><td width="50%">
@@ -1103,56 +977,11 @@ Palau
 </td></tr>
 <tr><td width="50%">
 
-Payment information updated successfully.
-
-</td><td width="50%">
-
-Payment information updated successfully.
-
-</td></tr>
-<tr><td width="50%">
-
-Payment Methods
-
-</td><td width="50%">
-
-Payment Methods
-
-</td></tr>
-<tr><td width="50%">
-
-Payments
-
-</td><td width="50%">
-
-Payments
-
-</td></tr>
-<tr><td width="50%">
-
-Please set a default payment method before swapping plans.
-
-</td><td width="50%">
-
-Please set a default payment method before swapping plans.
-
-</td></tr>
-<tr><td width="50%">
-
 Portugal
 
 </td><td width="50%">
 
 Portugal
-
-</td></tr>
-<tr><td width="50%">
-
-Receipt emails updated successfully.
-
-</td><td width="50%">
-
-Receipt emails updated successfully.
 
 </td></tr>
 <tr><td width="50%">
@@ -1274,15 +1103,6 @@ Saskatchewan
 </td></tr>
 <tr><td width="50%">
 
-Set as default
-
-</td><td width="50%">
-
-Set as default
-
-</td></tr>
-<tr><td width="50%">
-
 Seychelles
 
 </td><td width="50%">
@@ -1364,11 +1184,11 @@ Tennessee
 </td></tr>
 <tr><td width="50%">
 
-The default payment method cannot be removed.
+The image could not be loaded.
 
 </td><td width="50%">
 
-The default payment method cannot be removed.
+The image could not be loaded.
 
 </td></tr>
 <tr><td width="50%">
@@ -1445,6 +1265,15 @@ United Kingdom
 </td></tr>
 <tr><td width="50%">
 
+Uploading
+
+</td><td width="50%">
+
+Uploading
+
+</td></tr>
+<tr><td width="50%">
+
 Vanuatu
 
 </td><td width="50%">
@@ -1477,87 +1306,6 @@ Wyoming
 </td><td width="50%">
 
 Wyoming
-
-</td></tr>
-<tr><td width="50%">
-
-You have some unpaid invoices. After updating your default payment method, you may retry the payments via the invoice list below.
-
-</td><td width="50%">
-
-You have some unpaid invoices. After updating your default payment method, you may retry the payments via the invoice list below.
-
-</td></tr>
-<tr><td width="50%">
-
-You will receive an invoice and payment link via email for each billing period.
-
-</td><td width="50%">
-
-You will receive an invoice and payment link via email for each billing period.
-
-</td></tr>
-<tr><td width="50%">
-
-Your billing address is :address :address2 :postal_code :city :state :country
-
-</td><td width="50%">
-
-Your billing address is :address :address2 :postal_code :city :state :country
-
-</td></tr>
-<tr><td width="50%">
-
-Your payment method has been added successfully.
-
-</td><td width="50%">
-
-Your payment method has been added successfully.
-
-</td></tr>
-<tr><td width="50%">
-
-Your payment method will be charged automatically for each billing period.
-
-</td><td width="50%">
-
-Your payment method will be charged automatically for each billing period.
-
-</td></tr>
-<tr><td width="50%">
-
-Your subscription has been started successfully.
-
-</td><td width="50%">
-
-Your subscription has been started successfully.
-
-</td></tr>
-<tr><td width="50%">
-
-Your subscription has been successfully cancelled.
-
-</td><td width="50%">
-
-Your subscription has been successfully cancelled.
-
-</td></tr>
-<tr><td width="50%">
-
-Your subscription was successfully resumed.
-
-</td><td width="50%">
-
-Your subscription was successfully resumed.
-
-</td></tr>
-<tr><td width="50%">
-
-Your subscription was successfully updated.
-
-</td><td width="50%">
-
-Your subscription was successfully updated.
 
 </td></tr>
 <tr><td width="50%">

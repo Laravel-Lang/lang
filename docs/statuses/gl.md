@@ -4,12 +4,12 @@ editLink: false
 
 # gl
 
-##### All missed: 124
+##### All missed: 127
 
 
 ### json
 
-##### Missing: 124
+##### Missing: 127
 
 <table width="100%">
 <tr><th width="50%">
@@ -46,6 +46,15 @@ Alberta
 </td><td width="50%">
 
 Alberta
+
+</td></tr>
+<tr><td width="50%">
+
+An error occurred while uploading the file: :error
+
+</td><td width="50%">
+
+An error occurred while uploading the file: :error
 
 </td></tr>
 <tr><td width="50%">
@@ -995,6 +1004,15 @@ Texas
 </td></tr>
 <tr><td width="50%">
 
+The image could not be loaded.
+
+</td><td width="50%">
+
+The image could not be loaded.
+
+</td></tr>
+<tr><td width="50%">
+
 Timor-Leste
 
 </td><td width="50%">
@@ -1054,6 +1072,15 @@ Uganda
 </td><td width="50%">
 
 Uganda
+
+</td></tr>
+<tr><td width="50%">
+
+Uploading
+
+</td><td width="50%">
+
+Uploading
 
 </td></tr>
 <tr><td width="50%">

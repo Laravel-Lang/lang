@@ -4,12 +4,12 @@ editLink: false
 
 # gu
 
-##### All missed: 6
+##### All missed: 9
 
 
 ### json
 
-##### Missing: 6
+##### Missing: 9
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,6 +23,15 @@ Value
 </th></tr>
 <tr><td width="50%">
 
+An error occurred while uploading the file: :error
+
+</td><td width="50%">
+
+An error occurred while uploading the file: :error
+
+</td></tr>
+<tr><td width="50%">
+
 API
 
 </td><td width="50%">
@@ -64,6 +73,24 @@ TAX
 </td><td width="50%">
 
 TAX
+
+</td></tr>
+<tr><td width="50%">
+
+The image could not be loaded.
+
+</td><td width="50%">
+
+The image could not be loaded.
+
+</td></tr>
+<tr><td width="50%">
+
+Uploading
+
+</td><td width="50%">
+
+Uploading
 
 </td></tr>
 <tr><td width="50%">

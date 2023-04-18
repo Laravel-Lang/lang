@@ -4,12 +4,12 @@ editLink: false
 
 # da
 
-##### All missed: 193
+##### All missed: 194
 
 
 ### json
 
-##### Missing: 191
+##### Missing: 192
 
 <table width="100%">
 <tr><th width="50%">
@@ -64,15 +64,6 @@ Alaska
 </td><td width="50%">
 
 Alaska
-
-</td></tr>
-<tr><td width="50%">
-
-An error occurred while uploading the file: :error
-
-</td><td width="50%">
-
-An error occurred while uploading the file: :error
 
 </td></tr>
 <tr><td width="50%">
@@ -388,6 +379,24 @@ Djibouti
 </td><td width="50%">
 
 Djibouti
+
+</td></tr>
+<tr><td width="50%">
+
+Dominica
+
+</td><td width="50%">
+
+Dominica
+
+</td></tr>
+<tr><td width="50%">
+
+Download
+
+</td><td width="50%">
+
+Download
 
 </td></tr>
 <tr><td width="50%">
@@ -1364,11 +1373,11 @@ Rwanda
 </td></tr>
 <tr><td width="50%">
 
-Saint Barthelemy
+Réunion
 
 </td><td width="50%">
 
-St. Barthélemy
+Réunion
 
 </td></tr>
 <tr><td width="50%">
@@ -1396,6 +1405,15 @@ Saskatchewan
 </td><td width="50%">
 
 Saskatchewan
+
+</td></tr>
+<tr><td width="50%">
+
+Send
+
+</td><td width="50%">
+
+Send
 
 </td></tr>
 <tr><td width="50%">
@@ -1544,15 +1562,6 @@ Thailand
 </td></tr>
 <tr><td width="50%">
 
-The image could not be loaded.
-
-</td><td width="50%">
-
-The image could not be loaded.
-
-</td></tr>
-<tr><td width="50%">
-
 Timor-Leste
 
 </td><td width="50%">
@@ -1567,6 +1576,15 @@ Tokelau
 </td><td width="50%">
 
 Tokelau
+
+</td></tr>
+<tr><td width="50%">
+
+Total:
+
+</td><td width="50%">
+
+Total:
 
 </td></tr>
 <tr><td width="50%">
@@ -1612,15 +1630,6 @@ Ukraine
 </td><td width="50%">
 
 Ukraine
-
-</td></tr>
-<tr><td width="50%">
-
-Uploading
-
-</td><td width="50%">
-
-Uploading
 
 </td></tr>
 <tr><td width="50%">

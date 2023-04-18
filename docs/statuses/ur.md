@@ -4,12 +4,12 @@ editLink: false
 
 # ur
 
-##### All missed: 7
+##### All missed: 4
 
 
 ### json
 
-##### Missing: 7
+##### Missing: 4
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,15 +23,6 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-An error occurred while uploading the file: :error
-
-</td><td width="50%">
-
-An error occurred while uploading the file: :error
-
-</td></tr>
-<tr><td width="50%">
-
 API
 
 </td><td width="50%">
@@ -55,24 +46,6 @@ mo
 </td><td width="50%">
 
 mo
-
-</td></tr>
-<tr><td width="50%">
-
-The image could not be loaded.
-
-</td><td width="50%">
-
-The image could not be loaded.
-
-</td></tr>
-<tr><td width="50%">
-
-Uploading
-
-</td><td width="50%">
-
-Uploading
 
 </td></tr>
 <tr><td width="50%">

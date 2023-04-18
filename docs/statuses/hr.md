@@ -4,12 +4,12 @@ editLink: false
 
 # hr
 
-##### All missed: 54
+##### All missed: 51
 
 
 ### json
 
-##### Missing: 54
+##### Missing: 51
 
 <table width="100%">
 <tr><th width="50%">
@@ -41,15 +41,6 @@ Alberta
 </td></tr>
 <tr><td width="50%">
 
-An error occurred while uploading the file: :error
-
-</td><td width="50%">
-
-An error occurred while uploading the file: :error
-
-</td></tr>
-<tr><td width="50%">
-
 API
 
 </td><td width="50%">
@@ -419,29 +410,11 @@ Tennessee
 </td></tr>
 <tr><td width="50%">
 
-The image could not be loaded.
-
-</td><td width="50%">
-
-The image could not be loaded.
-
-</td></tr>
-<tr><td width="50%">
-
 Token Can
 
 </td><td width="50%">
 
 Token Can
-
-</td></tr>
-<tr><td width="50%">
-
-Uploading
-
-</td><td width="50%">
-
-Uploading
 
 </td></tr>
 <tr><td width="50%">

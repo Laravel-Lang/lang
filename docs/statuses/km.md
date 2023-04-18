@@ -4,12 +4,12 @@ editLink: false
 
 # km
 
-##### All missed: 8
+##### All missed: 5
 
 
 ### json
 
-##### Missing: 8
+##### Missing: 5
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,15 +23,6 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-An error occurred while uploading the file: :error
-
-</td><td width="50%">
-
-An error occurred while uploading the file: :error
-
-</td></tr>
-<tr><td width="50%">
-
 API
 
 </td><td width="50%">
@@ -73,24 +64,6 @@ Nova Scotia
 </td><td width="50%">
 
 Nova Scotia
-
-</td></tr>
-<tr><td width="50%">
-
-The image could not be loaded.
-
-</td><td width="50%">
-
-The image could not be loaded.
-
-</td></tr>
-<tr><td width="50%">
-
-Uploading
-
-</td><td width="50%">
-
-Uploading
 
 </td></tr>
 </table>

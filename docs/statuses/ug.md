@@ -4,12 +4,12 @@ editLink: false
 
 # ug
 
-##### All missed: 150
+##### All missed: 147
 
 
 ### json
 
-##### Missing: 146
+##### Missing: 143
 
 <table width="100%">
 <tr><th width="50%">
@@ -64,15 +64,6 @@ American Samoa
 </td><td width="50%">
 
 American Samoa
-
-</td></tr>
-<tr><td width="50%">
-
-An error occurred while uploading the file: :error
-
-</td><td width="50%">
-
-An error occurred while uploading the file: :error
 
 </td></tr>
 <tr><td width="50%">
@@ -1184,15 +1175,6 @@ Tennessee
 </td></tr>
 <tr><td width="50%">
 
-The image could not be loaded.
-
-</td><td width="50%">
-
-The image could not be loaded.
-
-</td></tr>
-<tr><td width="50%">
-
 Timor-Leste
 
 </td><td width="50%">
@@ -1261,15 +1243,6 @@ United Kingdom
 </td><td width="50%">
 
 United Kingdom
-
-</td></tr>
-<tr><td width="50%">
-
-Uploading
-
-</td><td width="50%">
-
-Uploading
 
 </td></tr>
 <tr><td width="50%">

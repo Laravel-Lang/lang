@@ -4,12 +4,12 @@ editLink: false
 
 # sq
 
-##### All missed: 90
+##### All missed: 87
 
 
 ### json
 
-##### Missing: 90
+##### Missing: 87
 
 <table width="100%">
 <tr><th width="50%">
@@ -50,15 +50,6 @@ Alberta
 </td></tr>
 <tr><td width="50%">
 
-An error occurred while uploading the file: :error
-
-</td><td width="50%">
-
-An error occurred while uploading the file: :error
-
-</td></tr>
-<tr><td width="50%">
-
 Andorra
 
 </td><td width="50%">
@@ -707,15 +698,6 @@ Tanzania
 </td></tr>
 <tr><td width="50%">
 
-The image could not be loaded.
-
-</td><td width="50%">
-
-The image could not be loaded.
-
-</td></tr>
-<tr><td width="50%">
-
 Timor-Leste
 
 </td><td width="50%">
@@ -766,15 +748,6 @@ Uganda
 </td><td width="50%">
 
 Uganda
-
-</td></tr>
-<tr><td width="50%">
-
-Uploading
-
-</td><td width="50%">
-
-Uploading
 
 </td></tr>
 <tr><td width="50%">

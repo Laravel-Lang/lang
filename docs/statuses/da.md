@@ -4,12 +4,12 @@ editLink: false
 
 # da
 
-##### All missed: 214
+##### All missed: 199
 
 
 ### json
 
-##### Missing: 212
+##### Missing: 197
 
 <table width="100%">
 <tr><th width="50%">
@@ -68,15 +68,6 @@ Alaska
 </td></tr>
 <tr><td width="50%">
 
-Alberta
-
-</td><td width="50%">
-
-Alberta
-
-</td></tr>
-<tr><td width="50%">
-
 Andorra
 
 </td><td width="50%">
@@ -154,15 +145,6 @@ Aruba
 </td><td width="50%">
 
 Aruba
-
-</td></tr>
-<tr><td width="50%">
-
-Azerbaijan
-
-</td><td width="50%">
-
-Azerbaijan
 
 </td></tr>
 <tr><td width="50%">
@@ -298,15 +280,6 @@ Chile
 </td><td width="50%">
 
 Chile
-
-</td></tr>
-<tr><td width="50%">
-
-Christmas Island
-
-</td><td width="50%">
-
-Christmas Island
 
 </td></tr>
 <tr><td width="50%">
@@ -392,15 +365,6 @@ Dashboard
 </td></tr>
 <tr><td width="50%">
 
-December
-
-</td><td width="50%">
-
-December
-
-</td></tr>
-<tr><td width="50%">
-
 Delaware
 
 </td><td width="50%">
@@ -433,15 +397,6 @@ Dominica
 </td><td width="50%">
 
 Dominica
-
-</td></tr>
-<tr><td width="50%">
-
-Download
-
-</td><td width="50%">
-
-Download
 
 </td></tr>
 <tr><td width="50%">
@@ -1193,15 +1148,6 @@ New Jersey
 </td></tr>
 <tr><td width="50%">
 
-New Mexico
-
-</td><td width="50%">
-
-New Mexico
-
-</td></tr>
-<tr><td width="50%">
-
 New York
 
 </td><td width="50%">
@@ -1283,15 +1229,6 @@ North Dakota
 </td></tr>
 <tr><td width="50%">
 
-Northern Mariana Islands
-
-</td><td width="50%">
-
-Northern Mariana Islands
-
-</td></tr>
-<tr><td width="50%">
-
 Northwest Territories
 
 </td><td width="50%">
@@ -1306,15 +1243,6 @@ Nova Scotia
 </td><td width="50%">
 
 Nova Scotia
-
-</td></tr>
-<tr><td width="50%">
-
-November
-
-</td><td width="50%">
-
-November
 
 </td></tr>
 <tr><td width="50%">
@@ -1499,24 +1427,6 @@ Rwanda
 </td></tr>
 <tr><td width="50%">
 
-Réunion
-
-</td><td width="50%">
-
-Réunion
-
-</td></tr>
-<tr><td width="50%">
-
-Saint Lucia
-
-</td><td width="50%">
-
-Saint Lucia
-
-</td></tr>
-<tr><td width="50%">
-
 Samoa
 
 </td><td width="50%">
@@ -1544,29 +1454,11 @@ Saskatchewan
 </td></tr>
 <tr><td width="50%">
 
-Send
-
-</td><td width="50%">
-
-Send
-
-</td></tr>
-<tr><td width="50%">
-
 Senegal
 
 </td><td width="50%">
 
 Senegal
-
-</td></tr>
-<tr><td width="50%">
-
-September
-
-</td><td width="50%">
-
-September
 
 </td></tr>
 <tr><td width="50%">
@@ -1652,15 +1544,6 @@ Support
 </td></tr>
 <tr><td width="50%">
 
-Suriname
-
-</td><td width="50%">
-
-Suriname
-
-</td></tr>
-<tr><td width="50%">
-
 Swaziland
 
 </td><td width="50%">
@@ -1733,15 +1616,6 @@ Timor-Leste
 </td></tr>
 <tr><td width="50%">
 
-Togo
-
-</td><td width="50%">
-
-Togo
-
-</td></tr>
-<tr><td width="50%">
-
 Tokelau
 
 </td><td width="50%">
@@ -1756,15 +1630,6 @@ Tonga
 </td><td width="50%">
 
 Tonga
-
-</td></tr>
-<tr><td width="50%">
-
-Total:
-
-</td><td width="50%">
-
-Total:
 
 </td></tr>
 <tr><td width="50%">

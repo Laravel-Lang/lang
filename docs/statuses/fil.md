@@ -4,12 +4,12 @@ editLink: false
 
 # fil
 
-##### All missed: 317
+##### All missed: 318
 
 
 ### json
 
-##### Missing: 316
+##### Missing: 317
 
 <table width="100%">
 <tr><th width="50%">
@@ -2683,6 +2683,15 @@ Update :resource
 </td><td width="50%">
 
 Update :resource
+
+</td></tr>
+<tr><td width="50%">
+
+Update :resource: :title
+
+</td><td width="50%">
+
+Update :resource: :title
 
 </td></tr>
 <tr><td width="50%">

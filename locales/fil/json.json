@@ -994,7 +994,7 @@
     "Update": "Update",
     "Update & Continue Editing": "I-update at Ipagpatuloy ang Pag-edit",
     "Update :resource": "Update :resource",
-    "Update :resource: :title": "Update :resource: :title",
+    "Update :resource: :title": "Update :resource::title",
     "Update Announcement": "Update Announcement",
     "Update attached :resource: :title": "Naka-attach ang update :resource: :title",
     "Update Billing Address": "I-update ang Address ng Pagsingil",

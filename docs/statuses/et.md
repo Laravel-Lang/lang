@@ -4,12 +4,12 @@ editLink: false
 
 # et
 
-##### All missed: 63
+##### All missed: 62
 
 
 ### json
 
-##### Missing: 63
+##### Missing: 62
 
 <table width="100%">
 <tr><th width="50%">
@@ -316,15 +316,6 @@ Montana
 </td><td width="50%">
 
 Montana
-
-</td></tr>
-<tr><td width="50%">
-
-N/A
-
-</td><td width="50%">
-
-N/A
 
 </td></tr>
 <tr><td width="50%">

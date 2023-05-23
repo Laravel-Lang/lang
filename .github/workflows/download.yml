@@ -134,7 +134,7 @@ jobs:
                     - { branch: "3.x", version: "3.0" }
                     - { branch: "4.x", version: "4.0" }
         
-        name: Laravel Nova ${{ matrix.nova.branch }}
+        name: nova ${{ matrix.nova.branch }}
 
         steps:
             -   name: Checkout code
@@ -155,7 +155,7 @@ jobs:
             -   name: Install dependencies
                 run: |
                     composer global require dragon-code/codestyler
-                    composer config repositories.nova composer ${ LARAVEL_NOVA_REPOSITORY }
+                    composer config repositories.nova composer ${{ secrets.LARAVEL_NOVA_REPOSITORY }}
                     composer require laravel/nova:^${{ matrix.nova.version }}
 
             -   name: Copy localization files

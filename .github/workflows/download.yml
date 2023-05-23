@@ -172,7 +172,7 @@ jobs:
                 run: codestyle fix
 
             -   name: Create a Pull Request
-                uses: peter-evans/create-pull-request@v4
+                uses: peter-evans/create-pull-request@v5
                 with:
                     branch: projects/patch
                     branch-suffix: random

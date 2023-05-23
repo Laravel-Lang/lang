@@ -134,7 +134,7 @@ jobs:
                     - { branch: "3.x", version: "3.0" }
                     - { branch: "4.x", version: "4.0" }
         
-        name: nova ${{ matrix.nova.branch }}
+        name: nova (${{ matrix.nova.branch }})
 
         steps:
             -   name: Checkout code

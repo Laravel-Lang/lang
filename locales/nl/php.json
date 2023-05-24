@@ -162,7 +162,7 @@
     "uploaded": "Het uploaden van :attribute is mislukt.",
     "uppercase": ":Attribute mag alleen hoofdletters bevatten.",
     "url": ":Attribute moet een geldige URL zijn.",
-    "user": "Geen gebruiker bekend met het e-mailadres.",
+    "user": "Geen gebruiker bekend met dit e-mailadres.",
     "user_already_invited_to_team": "Die gebruiker is al uitgenodigd voor het team.",
     "user_already_on_team": "Die gebruiker zit al in het team.",
     "user_doesnt_belong_to_team": "De gebruiker behoort niet tot het opgegeven team.",

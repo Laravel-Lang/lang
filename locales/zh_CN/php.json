@@ -135,7 +135,7 @@
     "size.file": ":Attribute 大小必须为 :size KB。",
     "size.numeric": ":Attribute 大小必须为 :size。",
     "size.string": ":Attribute 必须是 :size 个字符。",
-    "slug_input_explanation": "此slug短标签用于在 URL 中识别您的团队。",
+    "slug_input_explanation": "此 slug 短标签用于在 URL 中识别您的团队。",
     "starts_with": ":Attribute 必须以 :values 为开头。",
     "state": "此状态对指定国家/地区无效。",
     "string": ":Attribute 必须是一个字符串。",

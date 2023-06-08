@@ -12,7 +12,7 @@ jobs:
             -   name: Checkout code
                 uses: actions/checkout@v3
 
-            -   name: Checking PHP Syntax
+            -   name: Code style fix
                 uses: TheDragonCode/codestyler@v3
                 with:
                     github_token: ${{ secrets.COMPOSER_TOKEN }}

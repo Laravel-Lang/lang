@@ -13,7 +13,7 @@ class V3 extends Plugin
     public function files(): array
     {
         return [
-            'nova/3.x/nova.json'      => 'vendor/nova/{locale}.json',
+            'nova/3.x/nova.json' => 'vendor/nova/{locale}.json',
 
             'nova/3.x/validation.php' => '{locale}/validation.php',
         ];

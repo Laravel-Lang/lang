@@ -13,7 +13,7 @@ class Master extends Plugin
     public function files(): array
     {
         return [
-            'lumen-framework/extended.json'         => '{locale}.json',
+            'lumen-framework/extended.json' => '{locale}.json',
 
             'lumen-framework/master/validation.php' => '{locale}/validation.php',
         ];

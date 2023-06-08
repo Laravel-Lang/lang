@@ -13,7 +13,7 @@ class V10 extends Plugin
     public function files(): array
     {
         return [
-            'lumen-framework/extended.json'         => '{locale}.json',
+            'lumen-framework/extended.json' => '{locale}.json',
 
             'lumen-framework/10.x/validation.php' => '{locale}/validation.php',
         ];

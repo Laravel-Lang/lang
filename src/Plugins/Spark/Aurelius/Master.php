@@ -13,7 +13,7 @@ class Master extends Plugin
     public function files(): array
     {
         return [
-            'spark/aurelius/master/en.json'        => '{locale}.json',
+            'spark/aurelius/master/en.json' => '{locale}.json',
 
             'spark/aurelius/master/teams.php'      => 'spark/{locale}/teams.php',
             'spark/aurelius/master/validation.php' => 'spark/{locale}/validation.php',

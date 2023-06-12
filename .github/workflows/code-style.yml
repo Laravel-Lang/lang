@@ -15,7 +15,7 @@ jobs:
             -   name: Detect job name
                 id: detect
                 run: |
-                    [[ ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }} ]] && NAME="Fix" || NAME="Check"
+                    [[ ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }} = true ]] && NAME="Fix" || NAME="Check"
 
                     echo "name=${NAME}" >> $GITHUB_OUTPUT
 

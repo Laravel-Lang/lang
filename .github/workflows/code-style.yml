@@ -16,9 +16,9 @@ jobs:
                 uses: TheDragonCode/codestyler@v3
                 if: ${{ github.event_name != 'push' || github.ref != 'refs/heads/main' }}
 
-            -   name: ${{ steps.detect.outputs.name }} the code style
+            -   name: Fix the code style
                 uses: TheDragonCode/codestyler@v3
                 if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
                 with:
                     github_token: ${{ secrets.COMPOSER_TOKEN }}
-                    fix: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
+                    fix: true

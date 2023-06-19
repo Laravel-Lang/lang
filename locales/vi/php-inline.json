@@ -17,6 +17,7 @@
     "between.numeric": "Trường này phải nằm trong khoảng :min - :max.",
     "between.string": "Trường này phải từ :min - :max kí tự.",
     "boolean": "Trường này phải là true hoặc false.",
+    "can": "This field contains an unauthorized value.",
     "confirmed": "Giá trị xác nhận trong trường này không khớp.",
     "country": "Trường này không phải là một quốc gia hợp lệ.",
     "date": "Trường này không phải là định dạng của ngày-tháng.",

@@ -21,6 +21,7 @@
     "between.numeric": "Reiturinn :attribute verður að vera á milli :min - :max.",
     "between.string": "Reiturinn :attribute verður að vera á milli :min - :max stafa.",
     "boolean": "Reiturinn :attribute verður að vera réttur eða rangur.",
+    "can": "The :attribute field contains an unauthorized value.",
     "confirmed": "Staðfesting á reitnum :attribute passar ekki.",
     "country": ":Attribute reiturinn er ekki gilt land.",
     "create_team": "Búa til lið",

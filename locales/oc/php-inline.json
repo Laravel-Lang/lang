@@ -17,6 +17,7 @@
     "between.numeric": "La valor deu èsser entre :min e :max.",
     "between.string": "Lo tèxt deu conténer entre :min e :max caractèrs.",
     "boolean": "Aqueste camp deu èsser verai o fals.",
+    "can": "This field contains an unauthorized value.",
     "confirmed": "Lo camp de confirmacion correspond pas.",
     "country": "This field is not a valid country.",
     "date": "Aquò es pas una data valida.",

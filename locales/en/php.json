@@ -21,6 +21,7 @@
     "between.numeric": "The :attribute must be between :min and :max.",
     "between.string": "The :attribute must be between :min and :max characters.",
     "boolean": "The :attribute field must be true or false.",
+    "can": "The :attribute field contains an unauthorized value.",
     "confirmed": "The :attribute confirmation does not match.",
     "country": "The :attribute field is not a valid country.",
     "create_team": "Create Team",

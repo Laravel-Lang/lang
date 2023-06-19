@@ -17,6 +17,7 @@
     "between.numeric": "This value must be between :min and :max.",
     "between.string": "This string must be between :min and :max characters.",
     "boolean": "Ин соҳа бояд бошад, ҳақ е бардурӯғ.",
+    "can": "This field contains an unauthorized value.",
     "confirmed": "Тасдиқи мувофиқ нест.",
     "country": "Ин майдон кишвари эътибор надорад.",
     "date": "Ин действительная таърих.",

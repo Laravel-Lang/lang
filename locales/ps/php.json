@@ -21,6 +21,7 @@
     "between.numeric": "دا باید ارزښت وي :attribute ما بين:min او :max.",
     "between.string": "د متن حروف باید باید وي :attribute ما بين:min او :max.",
     "boolean": "دا باید ارزښت وي :attribute او یا هم true یا false .",
+    "can": "The :attribute field contains an unauthorized value.",
     "confirmed": "د تایید ساحه د ساحې سره سمون نه لري:attribute.",
     "country": "د :attribute ساحه یو معتبر هیواد ندی.",
     "create_team": "ټیم جوړ کړئ",

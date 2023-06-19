@@ -4,7 +4,7 @@ editLink: false
 
 # oc
 
-##### All missed: 1231
+##### All missed: 1233
 
 
 ### json-inline
@@ -10185,7 +10185,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 27
+##### Missing: 28
 
 <table width="100%">
 <tr><th width="50%">
@@ -10222,6 +10222,15 @@ attached
 </td><td width="50%">
 
 This field is already attached.
+
+</td></tr>
+<tr><td width="50%">
+
+can
+
+</td><td width="50%">
+
+This field contains an unauthorized value.
 
 </td></tr>
 <tr><td width="50%">
@@ -10448,7 +10457,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 78
+##### Missing: 79
 
 <table width="100%">
 <tr><th width="50%">
@@ -10521,6 +10530,15 @@ attributes.team
 </td><td width="50%">
 
 team
+
+</td></tr>
+<tr><td width="50%">
+
+can
+
+</td><td width="50%">
+
+The :attribute field contains an unauthorized value.
 
 </td></tr>
 <tr><td width="50%">

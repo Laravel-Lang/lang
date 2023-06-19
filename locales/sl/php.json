@@ -21,6 +21,7 @@
     "between.numeric": ":Attribute mora biti med :min in :max.",
     "between.string": ":Attribute mora biti med :min in :max znaki.",
     "boolean": ":Attribute polje mora biti 1 ali 0",
+    "can": "The :attribute field contains an unauthorized value.",
     "confirmed": ":Attribute potrditev se ne ujema.",
     "country": "Polje :attribute ni veljavna država.",
     "create_team": "Ustvari ekipo",

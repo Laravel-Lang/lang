@@ -21,6 +21,7 @@
     "between.numeric": ":Attribute mesti mengandungi antara :min dan :max.",
     "between.string": ":Attribute mesti mengandungi antara :min dan :max aksara.",
     "boolean": ":Attribute mesti benar atau salah.",
+    "can": "The :attribute field contains an unauthorized value.",
     "confirmed": ":Attribute pengesahan yang tidak sepadan.",
     "country": "Medan :attribute bukan negara yang sah.",
     "create_team": "Buat Pasukan",

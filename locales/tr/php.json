@@ -21,6 +21,7 @@
     "between.numeric": ":Attribute mutlaka :min - :max arasında olmalıdır.",
     "between.string": ":Attribute mutlaka :min - :max karakter arasında olmalıdır.",
     "boolean": ":Attribute sadece doğru veya yanlış olmalıdır.",
+    "can": "The :attribute field contains an unauthorized value.",
     "confirmed": ":Attribute tekrarı eşleşmiyor.",
     "country": ":Attribute alanı geçerli bir ülke değil.",
     "create_team": "Takım oluştur",

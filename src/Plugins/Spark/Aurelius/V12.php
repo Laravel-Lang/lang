@@ -13,7 +13,7 @@ class V12 extends Plugin
     public function files(): array
     {
         return [
-            'spark/aurelius/12.x/en.json'        => '{locale}.json',
+            'spark/aurelius/12.x/en.json' => '{locale}.json',
 
             'spark/aurelius/12.x/teams.php'      => 'spark/{locale}/teams.php',
             'spark/aurelius/12.x/validation.php' => 'spark/{locale}/validation.php',

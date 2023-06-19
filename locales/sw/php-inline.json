@@ -17,6 +17,7 @@
     "between.numeric": "Thamani hii lazima iwe kati ya :min na :max.",
     "between.string": "Mfuatano huu lazima uwe kati ya vibambo :min na :max .",
     "boolean": "Uwanja huu lazima kuwa kweli au uongo.",
+    "can": "Sehemu hii ina thamani isiyoidhinishwa.",
     "confirmed": "Uthibitisho haina mechi.",
     "country": "Sehemu hii si nchi halali.",
     "date": "Hii si halali kwa sasa.",

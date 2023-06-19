@@ -17,6 +17,7 @@
     "between.numeric": "Ruangan ini mesti mengandungi antara :min dan :max.",
     "between.string": "Ruangan ini mesti mengandungi antara :min dan :max aksara.",
     "boolean": "Ruangan ini mesti benar atau salah.",
+    "can": "This field contains an unauthorized value.",
     "confirmed": "Pengesahan yang tidak sepadan.",
     "country": "Medan ini bukan negara yang sah.",
     "date": "Tarikh ini tidak sah.",

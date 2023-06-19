@@ -21,6 +21,7 @@
     "between.numeric": "يجب أن تكون قيمة حقل :attribute بين :min و :max.",
     "between.string": "يجب أن يكون عدد حروف نّص حقل :attribute بين :min و :max.",
     "boolean": "يجب أن تكون قيمة حقل :attribute إما true أو false .",
+    "can": "الحقل :attribute يحتوي على قيمة غير مصرّح بها.",
     "confirmed": "حقل التأكيد غير مُطابق للحقل :attribute.",
     "country": "الحقل :attribute لا يمثل دولة صالحة.",
     "create_team": "إنشاء فريق",

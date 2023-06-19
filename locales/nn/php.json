@@ -21,6 +21,7 @@
     "between.numeric": ":Attribute skal vere mellom :min - :max.",
     "between.string": ":Attribute skal vere mellom :min - :max teikn.",
     "boolean": ":Attribute må vere sann eller usann.",
+    "can": "The :attribute field contains an unauthorized value.",
     "confirmed": ":Attribute er ikkje likt feltet for stadfesting.",
     "country": ":Attribute-feltet er ikke et gyldig land.",
     "create_team": "Opprett team",

@@ -17,6 +17,7 @@
     "between.numeric": "See väärtus peab jääma :min ja :max vahele.",
     "between.string": "Selle teksti pikkus peab jääma :min ja :max tähemärgi vahele.",
     "boolean": "See väli peab olema tõene või vale.",
+    "can": "This field contains an unauthorized value.",
     "confirmed": "Kinnitus ei sobi.",
     "country": "See väli ei ole kehtiv riik.",
     "date": "See ei ole kehtiv kuupäev.",

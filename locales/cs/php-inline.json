@@ -17,6 +17,7 @@
     "between.numeric": "Tato hodnota musí být mezi :min a :max.",
     "between.string": "Toto pole musí být nejméně :min a nejvíce :max znaků.",
     "boolean": "Toto pole musí být pravdivé nebo nepravdivé.",
+    "can": "This field contains an unauthorized value.",
     "confirmed": "Potvrzení neodpovídá.",
     "country": "Toto není validní země.",
     "date": "Toto není platné datum.",

@@ -17,6 +17,7 @@
     "between.numeric": "Hierdie waarde moet tussen :min en :max wees.",
     "between.string": "Hierdie string moet tussen :min en :max karakters wees.",
     "boolean": "Hierdie veld moet waar of onwaar wees.",
+    "can": "This field contains an unauthorized value.",
     "confirmed": "Die bevestiging stem nie ooreen nie.",
     "country": "Hierdie veld is nie 'n geldige land nie.",
     "date": "Dit is nie 'n geldige datum nie.",

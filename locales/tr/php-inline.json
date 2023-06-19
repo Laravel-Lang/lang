@@ -17,6 +17,7 @@
     "between.numeric": "Bu değer :min ve :max arasında olmalıdır.",
     "between.string": "Bu metin :min ve :max karakter aralığında olmalıdır.",
     "boolean": "Bu alan doğru veya yanlış olmalıdır.",
+    "can": "This field contains an unauthorized value.",
     "confirmed": "Onay eşleşmiyor.",
     "country": "Bu alan geçerli bir ülke değil.",
     "date": "Bu geçerli bir tarih değil.",

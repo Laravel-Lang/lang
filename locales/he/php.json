@@ -21,6 +21,7 @@
     "between.numeric": "שדה :attribute חייב להיות בין :min ל-:max.",
     "between.string": "שדה :attribute חייב להיות בין :min ל-:max תווים.",
     "boolean": "שדה :attribute חייב להיות אמת או שקר.",
+    "can": "The :attribute field contains an unauthorized value.",
     "confirmed": "שדה האישור של :attribute לא תואם.",
     "country": "שדה :attribute אינו מדינה חוקית.",
     "create_team": "צור צוות",

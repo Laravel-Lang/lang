@@ -124,6 +124,64 @@ jobs:
                     --project=jetstream \
                     --ver=${{ matrix.version }}
 
+    nova:
+        runs-on: ubuntu-latest
+
+        strategy:
+            fail-fast: true
+            matrix:
+                nova:
+                    - { branch: "3.x", version: "3.0" }
+                    - { branch: "4.x", version: "4.0" }
+        
+        name: nova (${{ matrix.nova.branch }})
+
+        steps:
+            -   name: Checkout code
+                uses: actions/checkout@v3
+
+            -   name: Setup PHP
+                uses: shivammathur/setup-php@v2
+                with:
+                    extensions: curl, mbstring, zip, pcntl, pdo, pdo_sqlite, iconv, json
+                    coverage: none
+
+            -   name: Git setup
+                if: success()
+                run: |
+                    git config --local user.email "action@github.com"
+                    git config --local user.name "GitHub Action"
+
+            -   name: Install dependencies
+                run: |
+                    composer global require dragon-code/codestyler
+                    composer config repositories.nova composer ${{ secrets.LARAVEL_NOVA_REPOSITORY }}
+                    composer require laravel/nova:^${{ matrix.nova.version }}
+
+            -   name: Copy localization files
+                run: |
+                    cp vendor/laravel/nova/resources/lang/en.json source/nova/${{ matrix.nova.branch }}/nova.json -f
+                    cp vendor/laravel/nova/resources/lang/en/validation.php source/nova/${{ matrix.nova.branch }}/validation.php -f
+
+            -   name: Clean up
+                run: |
+                    composer remove laravel/nova
+                    git checkout HEAD -- composer.json
+
+            -   name: Code-Style
+                run: codestyle
+
+            -   name: Create a Pull Request
+                uses: peter-evans/create-pull-request@v5
+                with:
+                    branch: projects/patch
+                    branch-suffix: random
+                    delete-branch: true
+                    add-paths: source/nova/${{ matrix.nova.branch }}
+                    title: "[source]: Updated Laravel Nova ${{ matrix.nova.branch }} keys"
+                    commit-message: 🗝️ Updated Laravel Nova ${{ matrix.nova.branch }} keys
+                    body: Updated keys for Laravel Nova ${{ matrix.nova.branch }} 💪
+    
     nova_log_viewer:
         uses: Laravel-Lang/.github/.github/workflows/download.yml@main
         strategy:

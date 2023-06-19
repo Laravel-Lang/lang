@@ -17,6 +17,7 @@
     "between.numeric": "Šio lauko reikšmė turi būti tarp :min ir :max.",
     "between.string": "Simbolių skaičius šiame lauke turi būti tarp :min ir :max.",
     "boolean": "Šio lauko reikšmė turi būti 'taip' arba 'ne'.",
+    "can": "This field contains an unauthorized value.",
     "confirmed": "Šio lauko patvirtinimas nesutampa.",
     "country": "Šis laukas nėra tinkama šalis.",
     "date": "Šio lauko reikšmė nėra galiojanti data.",

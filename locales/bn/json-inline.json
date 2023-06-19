@@ -12,5 +12,5 @@
     "The :attribute must contain at least one number.": "এই ক্ষেত্রটি অন্তত একটি সংখ্যা থাকতে হবে।",
     "The :attribute must contain at least one symbol.": "এই ক্ষেত্রটি অন্তত একটি প্রতীক থাকতে হবে।",
     "The :attribute must contain at least one uppercase and one lowercase letter.": "এই ক্ষেত্রটি অন্তত একটি বড় হাতের এবং একটি ছোট হাতের অক্ষর থাকতে হবে।",
-    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "প্রদত্ত ক্ষেত্রটি একটি ডেটা ফাঁসের মধ্যে উপস্থিত হয়েছে। অনুগ্রহ করে একটি ভিন্ন চয়ন করুন।"
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "প্রদত্ত ক্ষেত্রটি একটি ডেটা ফাঁসের মধ্যে উপস্থিত হয়েছে। অনুগ্রহ করে একটি ভিন্ন ক্ষেত্র নির্বাচন করুন।"
 }

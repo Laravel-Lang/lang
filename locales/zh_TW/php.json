@@ -21,6 +21,7 @@
     "between.numeric": ":Attribute 必須介於 :min 至 :max 之間。",
     "between.string": ":Attribute 必須介於 :min 至 :max 個字元之間。",
     "boolean": ":Attribute 必須為布林值。",
+    "can": "The :attribute field contains an unauthorized value.",
     "confirmed": ":Attribute 確認欄位的輸入不一致。",
     "country": ":Attribute 字段不是有效的國家/地區。",
     "create_team": "創建團隊",

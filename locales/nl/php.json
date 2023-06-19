@@ -21,7 +21,7 @@
     "between.numeric": ":Attribute moet tussen :min en :max zijn.",
     "between.string": ":Attribute moet tussen :min en :max karakters zijn.",
     "boolean": ":Attribute moet ja of nee zijn.",
-    "can": "The :attribute field contains an unauthorized value.",
+    "can": ":Attribute bevat een waarde waar je niet bevoegd voor bent.",
     "confirmed": "Bevestiging van :attribute komt niet overeen.",
     "country": "Het veld :attribute is geen geldig land.",
     "create_team": "Team maken",

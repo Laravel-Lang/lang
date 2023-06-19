@@ -21,7 +21,7 @@
     "between.numeric": "Поле :attribute має бути між :min та :max.",
     "between.string": "Текст у полі :attribute має бути не менше :min та не більше :max символів.",
     "boolean": "Поле :attribute повинне містити логічний тип.",
-    "can": "The :attribute field contains an unauthorized value.",
+    "can": "Поле :attribute містить неавторизоване значення.",
     "confirmed": "Поле :attribute не збігається з підтвердженням.",
     "country": "Поле :attribute не є дійсною країною.",
     "create_team": "Створити команду",

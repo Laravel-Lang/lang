@@ -17,7 +17,7 @@
     "between.numeric": "Pole musi zawierać się w granicach :min - :max.",
     "between.string": "Pole musi zawierać się w granicach :min - :max znaków.",
     "boolean": "Pole musi mieć wartość logiczną prawda albo fałsz.",
-    "can": "This field contains an unauthorized value.",
+    "can": "Pole zawiera nieautoryzowaną wartość.",
     "confirmed": "Potwierdzenie pola nie zgadza się.",
     "country": "To pole nie zawiera prawidłowego kraju.",
     "date": "Pole nie jest prawidłową datą.",

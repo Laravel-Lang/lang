@@ -17,6 +17,7 @@
     "between.numeric": "এর ভ্যালু অবশ্যই :min থেকে :max এর মধ্যে থাকতে হবে।",
     "between.string": "এটি :min থেকে :max ক্যারেক্টারের মধ্যে থাকতে হবে।",
     "boolean": "এই ক্ষেত্রটি সত্য বা মিথ্যা হতে হবে।",
+    "can": "This field contains an unauthorized value.",
     "confirmed": "নিশ্চিতকরণ সাথে মেলে না।",
     "country": "এই ক্ষেত্রটি একটি বৈধ দেশ নয়৷",
     "date": "এটি একটি বৈধ তারিখ নয়।",

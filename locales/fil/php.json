@@ -21,6 +21,7 @@
     "between.numeric": "Ang :attribute ay dapat na nasa pagitan ng :min at :max.",
     "between.string": "Ang :attribute ay dapat na nasa pagitan ng :min at :max (na) character.",
     "boolean": "Dapat na true o false ang field na :attribute.",
+    "can": "The :attribute field contains an unauthorized value.",
     "confirmed": "Hindi tumutugma ang pagkumpirma ng :attribute.",
     "country": "Ang :attribute field ay hindi wastong bansa.",
     "create_team": "Lumikha ng Koponan",

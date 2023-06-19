@@ -17,6 +17,7 @@
     "between.numeric": "이 값은 :min에서 :max 사이여야 합니다.",
     "between.string": "이 문자열의 길이는 :min에서 :max 문자 사이여야 합니다.",
     "boolean": "이 필드는 true 또는 false 이어야 합니다.",
+    "can": "This field contains an unauthorized value.",
     "confirmed": "확인 항목이 일치하지 않습니다.",
     "country": "이 필드는 유효한 국가가 아닙니다.",
     "date": "유효한 날짜가 아닙니다.",

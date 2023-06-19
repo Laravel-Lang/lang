@@ -17,6 +17,7 @@
     "between.numeric": "Kjo duhet të jetë ndërmjet :min - :max.",
     "between.string": "Kjo duhet të ketë ndërmjet :min - :max karaktereve.",
     "boolean": "Kjo fushë duhet të jetë e vërtetë ose e gabuar",
+    "can": "This field contains an unauthorized value.",
     "confirmed": "Konfirmimi nuk përputhet.",
     "country": "Kjo fushë nuk është një shtet i vlefshëm.",
     "date": "Kjo nuk është një datë e saktë.",

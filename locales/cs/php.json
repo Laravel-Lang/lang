@@ -21,6 +21,7 @@
     "between.numeric": ":Attribute musí být hodnota mezi :min a :max.",
     "between.string": ":Attribute musí být delší než :min a kratší než :max znaků.",
     "boolean": ":Attribute musí být true nebo false",
+    "can": "The :attribute field contains an unauthorized value.",
     "confirmed": ":Attribute nesouhlasí.",
     "country": "Pole :attribute není platná země.",
     "create_team": "Vytvořte tým",

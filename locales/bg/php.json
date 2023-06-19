@@ -21,6 +21,7 @@
     "between.numeric": "Полето :attribute трябва да бъде между :min и :max.",
     "between.string": "Полето :attribute трябва да бъде между :min и :max знака.",
     "boolean": "Полето :attribute трябва да съдържа Да или Не",
+    "can": "The :attribute field contains an unauthorized value.",
     "confirmed": "Полето :attribute не е потвърдено.",
     "country": "Полето :attribute не е валидна държава.",
     "create_team": "Създайте екип",

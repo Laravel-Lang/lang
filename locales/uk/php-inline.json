@@ -17,6 +17,7 @@
     "between.numeric": "Значення повинно бути між :min та :max.",
     "between.string": "Рядок повинен бути між :min та :max символами.",
     "boolean": "Поле має бути істинним або хибним.",
+    "can": "This field contains an unauthorized value.",
     "confirmed": "Підтвердження не збігається.",
     "country": "Це поле не є дійсною країною.",
     "date": "Не є допустимою датою.",

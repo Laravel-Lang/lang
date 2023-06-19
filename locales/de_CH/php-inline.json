@@ -17,6 +17,7 @@
     "between.numeric": "Dieser Wert muss zwischen :min & :max liegen.",
     "between.string": "Diese Zeichenkette muss zwischen :min & :max Zeichen lang sein.",
     "boolean": "Dieses Feld muss entweder 'true' oder 'false' sein.",
+    "can": "This field contains an unauthorized value.",
     "confirmed": "Die Bestätigung stimmt nicht überein.",
     "country": "Dieses Feld ist kein gültiges Land.",
     "date": "Das ist kein gültiges Datum.",

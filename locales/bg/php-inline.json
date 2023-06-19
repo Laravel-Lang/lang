@@ -17,6 +17,7 @@
     "between.numeric": "Стойността трябва да е минимум :min и максимум :max.",
     "between.string": "Текстът трябва да е между :min и :max символа.",
     "boolean": "Това поле трябва да е вярно или невярно.",
+    "can": "This field contains an unauthorized value.",
     "confirmed": "Потвърждението не съвпада.",
     "country": "Това поле не е валидна държава.",
     "date": "Това не е валидна дата.",

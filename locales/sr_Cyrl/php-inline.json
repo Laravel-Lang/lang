@@ -17,6 +17,7 @@
     "between.numeric": "Вредност мора бити између :min - :max.",
     "between.string": "Реченица мора има имати најмање :min а највише :max слова.",
     "boolean": "Ово поље мора бити тачно или нетачно.",
+    "can": "This field contains an unauthorized value.",
     "confirmed": "Потврда се не поклапа.",
     "country": "Ово поље није важећа земља.",
     "date": "Није одговарајући датум.",

@@ -21,6 +21,7 @@
     "between.numeric": "Polje :attribute mora biti između :min - :max.",
     "between.string": "Polje :attribute mora biti između :min - :max znakova.",
     "boolean": "Polje :attribute mora biti false ili true.",
+    "can": "The :attribute field contains an unauthorized value.",
     "confirmed": "Potvrda polja :attribute se ne podudara.",
     "country": "Polje :attribute nije važeća država.",
     "create_team": "Stvorite tim",

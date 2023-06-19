@@ -21,6 +21,7 @@
     "between.numeric": "ข้อมูล :attribute ต้องอยู่ในช่วงระหว่าง :min - :max.",
     "between.string": "ข้อมูล :attribute ต้องมีความยาวตัวอักษรระหว่าง :min - :max ตัวอักษร",
     "boolean": "ข้อมูล :attribute ต้องเป็นจริงหรือเท็จเท่านั้น",
+    "can": "The :attribute field contains an unauthorized value.",
     "confirmed": "ข้อมูล :attribute ไม่ตรงกัน",
     "country": "ฟิลด์ :attribute ไม่ใช่ประเทศที่ถูกต้อง",
     "create_team": "สร้างทีม",

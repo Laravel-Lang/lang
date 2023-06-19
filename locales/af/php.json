@@ -21,6 +21,7 @@
     "between.numeric": "Die :attribute moet tussen :min en :max wees.",
     "between.string": "Die :attribute moet tussen :min en :max karakters wees.",
     "boolean": "Die :attribute veld moet waar of onwaar wees.",
+    "can": "The :attribute field contains an unauthorized value.",
     "confirmed": "Die :attribute bevestiging stem nie ooreen nie.",
     "country": "Die :attribute-veld is nie 'n geldige land nie.",
     "create_team": "Skep span",

@@ -21,6 +21,7 @@
     "between.numeric": "Pole :attribute musi zawierać się w granicach :min - :max.",
     "between.string": "Pole :attribute musi zawierać się w granicach :min - :max znaków.",
     "boolean": "Pole :attribute musi mieć wartość logiczną prawda albo fałsz.",
+    "can": "The :attribute field contains an unauthorized value.",
     "confirmed": "Potwierdzenie pola :attribute nie zgadza się.",
     "country": "Pole :attribute nie zawiera prawidłowego kraju.",
     "create_team": "Utwórz Zespół",

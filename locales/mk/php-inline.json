@@ -17,6 +17,7 @@
     "between.numeric": "Овој број мора да биде помеѓу :min и :max.",
     "between.string": "Овој текст мора да биде со должина помеѓу :min и :max број на карактери.",
     "boolean": "Ова поле мора да има вредност вистинито (true) или невистинито (false).",
+    "can": "This field contains an unauthorized value.",
     "confirmed": "Ова поле не е потврдено.",
     "country": "Ова поле не е валидна земја.",
     "date": "Ова не е валиден датум.",

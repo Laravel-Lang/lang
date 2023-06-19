@@ -17,6 +17,7 @@
     "between.numeric": "This value must be between :min and :max.",
     "between.string": "This string must be between :min and :max characters.",
     "boolean": "שדה זה חייב להיות אמת או שקר.",
+    "can": "This field contains an unauthorized value.",
     "confirmed": "האישור אינו תואם.",
     "country": "שדה זה אינו מדינה חוקית.",
     "date": "זה לא תאריך תקף.",

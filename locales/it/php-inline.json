@@ -17,6 +17,7 @@
     "between.numeric": "Deve essere compreso tra :min e :max.",
     "between.string": "Deve essere compreso tra :min e :max caratteri.",
     "boolean": "Deve essere vero o falso.",
+    "can": "This field contains an unauthorized value.",
     "confirmed": "Il valore di conferma non corrisponde.",
     "country": "Non è una nazione valida.",
     "date": "Non è una data valida.",

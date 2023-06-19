@@ -21,6 +21,7 @@
     "between.numeric": ":Attribute harus bernilai antara :min sampai :max.",
     "between.string": ":Attribute harus berisi antara :min sampai :max karakter.",
     "boolean": ":Attribute harus bernilai true atau false",
+    "can": "The :attribute field contains an unauthorized value.",
     "confirmed": "Konfirmasi :attribute tidak cocok.",
     "country": ":Attribute bukan negara yang valid.",
     "create_team": "Buat Tim",

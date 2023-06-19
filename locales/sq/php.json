@@ -21,6 +21,7 @@
     "between.numeric": ":Attribute duhet të jetë ndërmjet :min - :max.",
     "between.string": ":Attribute duhet të ketë ndërmjet :min - :max karaktereve.",
     "boolean": "Fusha :attribute duhet të jetë e vërtetë ose e gabuar",
+    "can": "The :attribute field contains an unauthorized value.",
     "confirmed": ":Attribute konfirmimi nuk përputhet.",
     "country": "Fusha :attribute nuk është një shtet i vlefshëm.",
     "create_team": "Krijo ekip",

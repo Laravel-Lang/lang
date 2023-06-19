@@ -17,6 +17,7 @@
     "between.numeric": "این مقدار باید بین :min و :max باشد.",
     "between.string": "این رشته باید بین :min و :max حرف داشته باشد.",
     "boolean": "این مقدار باید حتما true و یا false باشد.",
+    "can": "This field contains an unauthorized value.",
     "confirmed": "با مقدار تکرار همخوانی ندارد.",
     "country": "این مقدار یک کشور معتبر نیست.",
     "date": "این مقدار یک تاریخ معبتر نیست.",

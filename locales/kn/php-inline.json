@@ -17,6 +17,7 @@
     "between.numeric": "This value must be between :min and :max.",
     "between.string": "This string must be between :min and :max characters.",
     "boolean": "ಈ ಕ್ಷೇತ್ರದಲ್ಲಿ ಇರಬೇಕು ನಿಜ ಅಥವಾ ಸುಳ್ಳು.",
+    "can": "This field contains an unauthorized value.",
     "confirmed": "ದೃಢೀಕರಣ ಹೊಂದಿಕೆಯಾಗುವುದಿಲ್ಲ.",
     "country": "ಈ ಕ್ಷೇತ್ರವು ಮಾನ್ಯವಾದ ದೇಶವಲ್ಲ.",
     "date": "This is not a valid date.",

@@ -21,6 +21,7 @@
     "between.numeric": ":Attribute нинг қиймати :min ва :max орасида бўлиши керак.",
     "between.string": ":Attribute даги белгилар сони :min ва :max орасида бўлиши керак.",
     "boolean": ":Attribute майдони фақат мантиқий қийматни қабул қилади.",
+    "can": "The :attribute field contains an unauthorized value.",
     "confirmed": ":Attribute тасдиқлангани билан мос келмади.",
     "country": ":Attribute maydoni haqiqiy mamlakat emas.",
     "create_team": "Jamoa yaratish",

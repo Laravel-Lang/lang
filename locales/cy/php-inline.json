@@ -17,6 +17,7 @@
     "between.numeric": "This value must be between :min and :max.",
     "between.string": "This string must be between :min and :max characters.",
     "boolean": "Mae hyn yn maes rhaid i fod yn wir neu anwir.",
+    "can": "This field contains an unauthorized value.",
     "confirmed": "Mae'r cadarnhad nad yw'n cyd-fynd.",
     "country": "Nid yw'r maes hwn yn wlad ddilys.",
     "date": "Nid yw hyn yn ddilys ar y dyddiad.",

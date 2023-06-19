@@ -21,6 +21,7 @@
     "between.numeric": ":Attribute талбарт :min-:max хооронд тоо оруулна уу.",
     "between.string": ":Attribute талбарт :min-:max урттай текст оруулна уу.",
     "boolean": ":Attribute талбарын утга үнэн эсвэл худал байх шаардлагатай.",
+    "can": "The :attribute field contains an unauthorized value.",
     "confirmed": ":Attribute талбарын баталагажуулалт тохирохгүй байна.",
     "country": ":Attribute талбар нь хүчинтэй улс биш байна.",
     "create_team": "Баг үүсгэх",

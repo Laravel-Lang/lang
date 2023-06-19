@@ -17,6 +17,7 @@
     "between.numeric": "Dit veld moet tussen :min en :max zijn.",
     "between.string": "Dit veld moet tussen :min en :max karakters zijn.",
     "boolean": "Dit veld moet ja of nee zijn.",
+    "can": "This field contains an unauthorized value.",
     "confirmed": "De bevestiging komt niet overeen.",
     "country": "Dit veld is geen geldig land.",
     "date": "Dit veld is geen geldige datum",

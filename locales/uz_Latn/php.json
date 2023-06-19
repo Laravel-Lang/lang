@@ -21,6 +21,7 @@
     "between.numeric": ":Attribute ning qiymati :min va :max orasida bo‘lishi kerak.",
     "between.string": ":Attribute dagi belgilar soni :min va :max orasida bo‘lishi kerak.",
     "boolean": ":Attribute maydoni faqat mantiqiy qiymatni qabul qiladi.",
+    "can": "The :attribute field contains an unauthorized value.",
     "confirmed": ":Attribute tasdiqlangani bilan mos kelmadi.",
     "country": "The :attribute field is not a valid country.",
     "create_team": "Create Team",

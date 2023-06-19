@@ -4,7 +4,7 @@ editLink: false
 
 # sr_Latn
 
-##### All missed: 650
+##### All missed: 652
 
 
 ### json-inline
@@ -5053,7 +5053,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 22
+##### Missing: 23
 
 <table width="100%">
 <tr><th width="50%">
@@ -5081,6 +5081,15 @@ ascii
 </td><td width="50%">
 
 This field must only contain single-byte alphanumeric characters and symbols.
+
+</td></tr>
+<tr><td width="50%">
+
+can
+
+</td><td width="50%">
+
+This field contains an unauthorized value.
 
 </td></tr>
 <tr><td width="50%">
@@ -5271,7 +5280,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 72
+##### Missing: 73
 
 <table width="100%">
 <tr><th width="50%">
@@ -5335,6 +5344,15 @@ attributes.team
 </td><td width="50%">
 
 team
+
+</td></tr>
+<tr><td width="50%">
+
+can
+
+</td><td width="50%">
+
+The :attribute field contains an unauthorized value.
 
 </td></tr>
 <tr><td width="50%">

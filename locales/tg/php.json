@@ -21,7 +21,7 @@
     "between.numeric": "Қиммати :attribute бояд байни :min ва :max бошад.",
     "between.string": "Миқдори аломатҳо дар :attribute бояд байни :min ва :max бошад.",
     "boolean": "Қиммати :attribute бояд логикӣ дошта бошад.",
-    "can": "The :attribute field contains an unauthorized value.",
+    "can": "Майдони :attribute дорои арзиши беиҷозат аст.",
     "confirmed": "Қиммати :attribute бо қиммати тасдиқотӣ мувофиқат надорад.",
     "country": "Майдони :attribute кишвари дуруст нест.",
     "create_team": "Эҷоди даста",

@@ -21,7 +21,7 @@
     "between.numeric": ":Attribute :min र :maxको बिचमा हुनुपर्छ।",
     "between.string": ":Attribute :min र :max वर्णको बिचमा हुनुपर्छ।",
     "boolean": ":Attribute ठिक अथवा बेठिक हुनुपर्छ।",
-    "can": ":attribute फिल्डमा अनाधिकृत मान समावेश छ।",
+    "can": ":Attribute फिल्डमा अनाधिकृत मान समावेश छ।",
     "confirmed": ":Attribute दाेहाेर्याइएकाे मिलेन।",
     "country": ":Attribute क्षेत्र मान्य देश होइन।",
     "create_team": "टोली सिर्जना गर्नुहोस्",

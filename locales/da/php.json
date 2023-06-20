@@ -21,7 +21,7 @@
     "between.numeric": ":Attribute skal være mellem :min og :max.",
     "between.string": ":Attribute skal være mellem :min og :max tegn.",
     "boolean": ":Attribute skal være sand eller falsk.",
-    "can": "The :attribute field contains an unauthorized value.",
+    "can": "Feltet :attribute indeholder en uautoriseret værdi.",
     "confirmed": ":Attribute er ikke det samme som bekræftelsesfeltet.",
     "country": ":Attribute-feltet er ikke et gyldigt land.",
     "create_team": "Opret team",

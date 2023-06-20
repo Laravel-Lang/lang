@@ -21,7 +21,7 @@
     "between.numeric": ":Attribute :min - :max arasynda bolmalydyr.",
     "between.string": ":Attribute :min - :max harplar arasynda bolmalydyr.",
     "boolean": ":Attribute diňe dogry ýada ýalňyş bolmalydyr.",
-    "can": "The :attribute field contains an unauthorized value.",
+    "can": ":attribute meýdanda birugsat baha bar.",
     "confirmed": ":Attribute tassyklamasy deň däl.",
     "country": ":Attribute meýdan dogry ýurt däl.",
     "create_team": "Topar dörediň",

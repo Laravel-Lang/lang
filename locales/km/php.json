@@ -21,7 +21,7 @@
     "between.numeric": ":Attribute ត្រូវតែមានរវាង :min និង :max។",
     "between.string": ":Attribute ត្រូវតែមានរវាង :min និង :max តួអក្សរ។",
     "boolean": ":Attribute ត្រូវតែជា ពិត ឬ មិនពិត",
-    "can": "The :attribute field contains an unauthorized value.",
+    "can": "វាល :attribute មាន​តម្លៃ​ដែល​គ្មាន​ការ​អនុញ្ញាត។",
     "confirmed": ":Attribute ការបញ្ជាក់មិនផ្គូរផ្គង។",
     "country": "វាល :attribute មិនមែនជាប្រទេសត្រឹមត្រូវទេ។",
     "create_team": "បង្កើតក្រុម",

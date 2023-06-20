@@ -17,7 +17,7 @@
     "between.numeric": "Nilai ini harus bernilai di antara :min dan :max.",
     "between.string": "String ini harus memiliki panjang di antara :min dan :max karakter.",
     "boolean": "Isian ini harus berisi true atau false.",
-    "can": "This field contains an unauthorized value.",
+    "can": "Bidang ini berisi nilai yang tidak sah.",
     "confirmed": "Konfirmasi tidak sesuai.",
     "country": "Bidang ini bukan negara yang valid.",
     "date": "Isian ini bukan tanggal yang benar.",

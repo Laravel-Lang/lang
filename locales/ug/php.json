@@ -21,7 +21,7 @@
     "between.numeric": ":Attribute چوقۇم :min - :max ئارلىقىدا بۇلىشى كېرەك.",
     "between.string": ":Attribute چوقۇم  :min - :max خەت ئارلىقىدا بۇلىشى كېرەك.",
     "boolean": ":Attribute چوقۇم بۇل قىممىتى بۇلىشى كېرەك.",
-    "can": "The :attribute field contains an unauthorized value.",
+    "can": ":attribute ساھەدە رۇخسەتسىز قىممەت بار.",
     "confirmed": ":Attribute ئىككى قېتىم كىرگۈزگەن قىممەت ئوخشاش بولمىدى.",
     "country": ":Attribute ساھە ئىناۋەتلىك دۆلەت ئەمەس.",
     "create_team": "گۇرۇپپا قۇرۇش",

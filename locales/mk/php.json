@@ -21,7 +21,7 @@
     "between.numeric": "Полето :attribute мора да биде број помеѓу :min и :max.",
     "between.string": "Полето :attribute мора да биде текст со должина помеѓу :min и :max карактери.",
     "boolean": "Полето :attribute мора да има вредност вистинито (true) или невистинито (false).",
-    "can": "The :attribute field contains an unauthorized value.",
+    "can": "Полето :attribute содржи неовластена вредност.",
     "confirmed": "Полето :attribute не е потврдено.",
     "country": "Полето :attribute не е валидна земја.",
     "create_team": "Креирај тим",

@@ -17,7 +17,7 @@
     "between.numeric": "This value must be between :min and :max.",
     "between.string": "This string must be between :min and :max characters.",
     "boolean": "دا ساحه باید ریښتیا یا غلط وي.",
-    "can": "This field contains an unauthorized value.",
+    "can": "دا ساحه یو غیر مجاز ارزښت لري.",
     "confirmed": "The confirmation does not match.",
     "country": "دا ساحه یو معتبر هیواد ندی.",
     "date": "This is not a valid date.",

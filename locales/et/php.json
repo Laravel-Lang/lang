@@ -21,7 +21,7 @@
     "between.numeric": ":Attribute peab olema :min ja :max vahel.",
     "between.string": ":Attribute peab olema :min ja :max tähemärgi vahel.",
     "boolean": ":Attribute väli peab olema tõene või väär.",
-    "can": "The :attribute field contains an unauthorized value.",
+    "can": "Väli :attribute sisaldab volitamata väärtust.",
     "confirmed": ":Attribute kinnitus ei vasta.",
     "country": "Väli :attribute ei ole kehtiv riik.",
     "create_team": "Loo meeskond",

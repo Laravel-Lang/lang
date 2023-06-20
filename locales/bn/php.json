@@ -21,7 +21,7 @@
     "between.numeric": ":Min এবং :max :attribute মধ্যে হতে হবে।",
     "between.string": ":Min এবং :max অক্ষর :attribute মধ্যে হতে হবে।",
     "boolean": ":Attribute স্থানে  সত্য বা মিথ্যা হতে হবে।",
-    "can": ":attribute ক্ষেত্রের একটি অননুমোদিত মান রয়েছে।",
+    "can": ":Attribute ক্ষেত্রের একটি অননুমোদিত মান রয়েছে।",
     "confirmed": ":Attribute নিশ্চিতকরণ এর  সাথে মিলছে না।",
     "country": ":Attribute ক্ষেত্রটি একটি বৈধ দেশ নয়।",
     "create_team": "দল তৈরি",

@@ -21,7 +21,7 @@
     "between.numeric": ":Attribute ની વચ્ચે હોવું જોઈએ :min અને :max.",
     "between.string": ":Attribute ની વચ્ચે હોવું જોઈએ :min અને :max અક્ષરો.",
     "boolean": ":Attribute પ્રવૃત્તિ ક્ષેત્ર ખરું કે ખોટું હોવું જોઈએ.",
-    "can": "The :attribute field contains an unauthorized value.",
+    "can": ":attribute ફીલ્ડમાં અનધિકૃત મૂલ્ય છે.",
     "confirmed": ":Attribute પુષ્ટિકરણ બંધબેસતું નથી.",
     "country": ":Attribute ફીલ્ડ માન્ય દેશ નથી.",
     "create_team": "ટીમ બનાવો",

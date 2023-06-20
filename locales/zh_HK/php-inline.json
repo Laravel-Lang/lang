@@ -17,7 +17,7 @@
     "between.numeric": "必須介乎 :min 至 :max 之間。",
     "between.string": "必須介乎 :min 至 :max 個字符之間。",
     "boolean": "必須是布爾值。",
-    "can": "This field contains an unauthorized value.",
+    "can": "该字段包含未经授权的值。",
     "confirmed": "確認欄位的輸入並不相符。",
     "country": "该字段不是有效的国家/地区。",
     "date": "並非一個有效的日期。",

@@ -17,7 +17,7 @@
     "between.numeric": "This value must be between :min and :max.",
     "between.string": "This string must be between :min and :max characters.",
     "boolean": "Энэ талбар нь үнэн, худал байх естой.",
-    "can": "This field contains an unauthorized value.",
+    "can": "Энэ талбарт зөвшөөрөлгүй утгыг агуулж байна.",
     "confirmed": "Баталгаа нь таарахгүй байна.",
     "country": "Энэ талбар нь хүчинтэй улс биш байна.",
     "date": "Энэ бол хүчинтэй хугацаа биш юм.",

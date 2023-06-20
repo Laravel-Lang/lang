@@ -21,7 +21,7 @@
     "between.numeric": ":Attribute мәні :min және :max аралығында болуы керек.",
     "between.string": ":Attribute тармағы :min және :max аралығындағы таңбалардан тұруы керек.",
     "boolean": ":Attribute жолы шын немесе жалған мән болуы керек.",
-    "can": "The :attribute field contains an unauthorized value.",
+    "can": ":attribute өрісінде рұқсат етілмеген мән бар.",
     "confirmed": ":Attribute растауы сәйкес емес.",
     "country": ":Attribute өрісі жарамды ел емес.",
     "create_team": "Команда құру",

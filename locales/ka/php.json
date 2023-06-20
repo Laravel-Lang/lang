@@ -21,7 +21,7 @@
     "between.numeric": ":Attribute უნდა იყოს :min-სა და :max-ს შორის.",
     "between.string": ":Attribute უნდა იყოს :min-სა და :max სიმბოლოს შორის.",
     "boolean": ":Attribute ველი უნდა იყოს true ან false.",
-    "can": "The :attribute field contains an unauthorized value.",
+    "can": ":attribute ველი შეიცავს არაავტორიზებულ მნიშვნელობას.",
     "confirmed": ":Attribute-ის დადასტურება არ ემთხვევა.",
     "country": ":Attribute ველი არ არის სწორი ქვეყანა.",
     "create_team": "შექმენით გუნდი",

@@ -21,7 +21,7 @@
     "between.numeric": "Rhaid i :attribute fod rhwng :min a :max.",
     "between.string": "Rhaid i :attribute fod rhwng :min a :max nodyn.",
     "boolean": "Rhaid i'r maes :attribute fod yn wir neu gau.",
-    "can": "The :attribute field contains an unauthorized value.",
+    "can": "Mae'r maes :attribute yn cynnwys gwerth anawdurdodedig.",
     "confirmed": "Nid yw'r cadarnhad :attribute yn gyfwerth.",
     "country": "Nid yw'r maes :attribute yn wlad ddilys.",
     "create_team": "Creu Tîm",

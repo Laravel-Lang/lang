@@ -17,7 +17,7 @@
     "between.numeric": "මෙම සංක්‍යාව :min ත් :max ත් අතර විය යුතුය.",
     "between.string": "මෙම වචනය අකුරු :min ත් :max ත් අතර විය යුතුය.",
     "boolean": "මේ ක්ෂේත්‍රය විය යුතුය, සැබෑ හෝ බොරු.",
-    "can": "This field contains an unauthorized value.",
+    "can": "මෙම ක්ෂේත්‍රයේ අනවසර අගයක් ඇත.",
     "confirmed": "තහවුරු නොගැලපේ.",
     "country": "මෙම ක්ෂේත්‍රය වලංගු රටක් නොවේ.",
     "date": "මෙම වලංගු වන දිනය.",

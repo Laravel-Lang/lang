@@ -17,7 +17,7 @@
     "between.numeric": "This value must be between :min and :max.",
     "between.string": "This string must be between :min and :max characters.",
     "boolean": "Þetta sviði verður að vera rétt eða rangt.",
-    "can": "This field contains an unauthorized value.",
+    "can": "Þessi reitur inniheldur óheimilt gildi.",
     "confirmed": "Staðfestingu passar ekki.",
     "country": "Þessi reitur er ekki gilt land.",
     "date": "Þetta er ekki gilt degi.",

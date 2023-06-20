@@ -21,7 +21,7 @@
     "between.numeric": ":Attribute դաշտը պետք է լինի :min և :max թվերի միջև։",
     "between.string": ":Attribute դաշտը պետք է ունենա :min-ից :max նիշ։",
     "boolean": ":Attribute դաշտի արժեքը պետք է լինի ճշմարիտ կամ կեղծ։",
-    "can": "The :attribute field contains an unauthorized value.",
+    "can": ":Attribute դաշտը պարունակում է չթույլատրված արժեք:",
     "confirmed": ":Attribute դաշտը չի համապատասխանում հաստատմանը։",
     "country": ":Attribute դաշտը վավեր երկիր չէ:",
     "create_team": "Ստեղծել թիմ",

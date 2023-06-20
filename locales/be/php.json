@@ -21,7 +21,7 @@
     "between.numeric": "Поле :attribute павінна быць паміж :min і :max.",
     "between.string": "Колькасць сiмвалаў у поле :attribute павінна быць паміж :min і :max.",
     "boolean": "Поле :attribute павінна мець значэнне лагічнага тыпу.",
-    "can": "The :attribute field contains an unauthorized value.",
+    "can": "Поле :attribute змяшчае недазволенае значэнне.",
     "confirmed": "Поле :attribute не супадае з пацвярджэннем.",
     "country": "Поле :attribute не з'яўляецца сапраўднай краінай.",
     "create_team": "Стварыце каманду",

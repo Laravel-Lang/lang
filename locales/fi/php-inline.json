@@ -17,7 +17,7 @@
     "between.numeric": "Arvon täytyy olla vähintään :min ja maksimissaan :max.",
     "between.string": "Merkkijonon täytyy olla vähintään :min ja maksimissaan :max merkkiä.",
     "boolean": "Tämän kentän on oltava tosi tai epätosi.",
-    "can": "This field contains an unauthorized value.",
+    "can": "Tämä kenttä sisältää luvattoman arvon.",
     "confirmed": "Vahvistus ei täsmää.",
     "country": "Tämä kenttä ei ole kelvollinen maa.",
     "date": "Tämä ei ole pätevä päivämäärä.",

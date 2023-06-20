@@ -21,7 +21,7 @@
     "between.numeric": "Lauko :attribute reikšmė turi būti tarp :min ir :max.",
     "between.string": "Simbolių skaičius lauke :attribute turi būti tarp :min ir :max.",
     "boolean": "Lauko reikšmė :attribute turi būti 'taip' arba 'ne'.",
-    "can": "The :attribute field contains an unauthorized value.",
+    "can": ":Attribute lauke yra neleistina reikšmė.",
     "confirmed": "Lauko :attribute patvirtinimas nesutampa.",
     "country": ":Attribute laukas nėra tinkama šalis.",
     "create_team": "Sukurti komandą",

@@ -21,7 +21,7 @@
     "between.numeric": ":Attribute musí mať rozsah :min - :max.",
     "between.string": ":Attribute musí mať rozsah :min - :max znakov.",
     "boolean": ":Attribute musí byť pravda alebo nepravda.",
-    "can": "The :attribute field contains an unauthorized value.",
+    "can": "Pole :attribute obsahuje neoprávnenú hodnotu.",
     "confirmed": ":Attribute konfirmácia sa nezhoduje.",
     "country": "Pole :attribute nie je platná krajina.",
     "create_team": "Vytvorte tím",

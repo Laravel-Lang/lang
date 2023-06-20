@@ -17,7 +17,7 @@
     "between.numeric": "This value must be between :min and :max.",
     "between.string": "This string must be between :min and :max characters.",
     "boolean": "Bu maydon rost yoki yolg'on bo'lishi kerak.",
-    "can": "This field contains an unauthorized value.",
+    "can": "Bu maydonda ruxsat etilmagan qiymat mavjud.",
     "confirmed": "Tasdiqlash mos emas.",
     "country": "Bu maydon haqiqiy davlat emas.",
     "date": "Bu amal sana emas.",

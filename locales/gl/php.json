@@ -21,7 +21,7 @@
     "between.numeric": "O :attribute debe estar entre :min e :max.",
     "between.string": "O :attribute debe estar entre :min e :max caracteres.",
     "boolean": "O :attribute campo debe ser verdadeiro ou falso.",
-    "can": "The :attribute field contains an unauthorized value.",
+    "can": "O campo :attribute contén un valor non autorizado.",
     "confirmed": "A :attribute a confirmación non coincide.",
     "country": "O campo :attribute non é un país válido.",
     "create_team": "Crear equipo",

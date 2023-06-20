@@ -21,7 +21,7 @@
     "between.numeric": "Το πεδίο :attribute πρέπει να είναι μεταξύ :min - :max.",
     "between.string": "Το πεδίο :attribute πρέπει να είναι μεταξύ :min - :max χαρακτήρες.",
     "boolean": "Το πεδίο :attribute πρέπει να είναι true ή false.",
-    "can": "The :attribute field contains an unauthorized value.",
+    "can": "Το πεδίο :attribute περιέχει μια μη εξουσιοδοτημένη τιμή.",
     "confirmed": "Η επιβεβαίωση του :attribute δεν ταιριάζει.",
     "country": "Το πεδίο :attribute δεν είναι έγκυρη χώρα.",
     "create_team": "Δημιουργία ομάδας",

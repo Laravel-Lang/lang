@@ -21,7 +21,7 @@
     "between.numeric": "මෙම සංක්‍යාව :min ත් :max ත් අතර විය යුතුය.",
     "between.string": "මෙම වචනය අකුරු :min ත් :max ත් අතර විය යුතුය.",
     "boolean": "මෙම :attribute ය සත්‍ය හෝ අසත්‍ය අගයක් විය යුතුය.",
-    "can": "The :attribute field contains an unauthorized value.",
+    "can": ":attribute ක්ෂේත්රයේ අනවසර අගයක් අඩංගු වේ.",
     "confirmed": "මෙම :attribute තහවුරු කිරීම නොගැලපේ.",
     "country": ":Attribute ක්ෂේත්‍රය වලංගු රටක් නොවේ.",
     "create_team": "කණ්ඩායම සාදන්න",

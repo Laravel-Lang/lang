@@ -21,7 +21,7 @@
     "between.numeric": ":Attribute لازماً :min اور :max کے درمیان ہو۔",
     "between.string": ":Attribute لازماً :min اور :max کریکٹرز کے درمیان ہو۔",
     "boolean": ":Attribute لازماً درست یا غلط ہونا چاہیے۔",
-    "can": "The :attribute field contains an unauthorized value.",
+    "can": ":attribute فیلڈ میں ایک غیر مجاز قدر شامل ہے۔",
     "confirmed": ":Attribute تصدیق سے مطابقت نہیں رکھتا۔",
     "country": ":Attribute فیلڈ ایک درست ملک نہیں ہے۔",
     "create_team": "ٹیم بنائیں",

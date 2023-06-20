@@ -21,7 +21,7 @@
     "between.numeric": ":Attribute :min eta :max artean egon behar da.",
     "between.string": ":Attribute-(e)k :min eta :max karaktere artean izan behar ditu.",
     "boolean": ":Attribute-(r)en balioa egia edo gezurra izan behar da.",
-    "can": "The :attribute field contains an unauthorized value.",
+    "can": ":attribute eremuak baimenik gabeko balio bat dauka.",
     "confirmed": ":Attribute-(r)en berrespena ez dator bat.",
     "country": ":Attribute eremua ez da baliozko herrialdea.",
     "create_team": "Sortu taldea",

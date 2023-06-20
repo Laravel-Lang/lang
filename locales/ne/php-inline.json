@@ -17,7 +17,7 @@
     "between.numeric": "यो मान बीचमा हुनुपर्दछ :min र :max",
     "between.string": "यो स्ट्रिङ्ग: बीचमा हुनुपर्दछ :min र :max क्यारेक्टरहरू।",
     "boolean": "यो क्षेत्र सहि वा गलत हुन पर्छ।",
-    "can": "This field contains an unauthorized value.",
+    "can": "यो फिल्डमा अनाधिकृत मान छ।",
     "confirmed": "पुष्टिकरण मेल खाँदैन।",
     "country": "यो क्षेत्र मान्य देश होइन।",
     "date": "यो मान्य मिति छैन।",

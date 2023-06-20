@@ -21,7 +21,7 @@
     "between.numeric": ":Attribute jābūt starp :min un :max.",
     "between.string": ":Attribute jābūt no :min līdz :max zīmēm.",
     "boolean": ":Attribute lauciņam jābūt patiesam vai nepatiesam.",
-    "can": "The :attribute field contains an unauthorized value.",
+    "can": "Laukā :attribute ir neatļauta vērtība.",
     "confirmed": ":Attribute apstiprinājums neatbilst.",
     "country": "Lauks :attribute nav derīga valsts.",
     "create_team": "Izveidot komandu",

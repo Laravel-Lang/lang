@@ -17,7 +17,7 @@
     "between.numeric": "This value must be between :min and :max.",
     "between.string": "This string must be between :min and :max characters.",
     "boolean": "Dette feltet må være sant eller usant.",
-    "can": "This field contains an unauthorized value.",
+    "can": "Dette feltet inneholder en uautorisert verdi.",
     "confirmed": "The confirmation does not match.",
     "country": "Dette feltet er ikke et gyldig land.",
     "date": "This is not a valid date.",

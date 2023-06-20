@@ -21,7 +21,7 @@
     "between.numeric": "ಈ  :attribute ನಲ್ಲಿ  :min ಮತ್ತು :max ನಡುವೆ ಇರಬೇಕು.",
     "between.string": "ಈ  :attribute ನಲ್ಲಿ  :min ಮತ್ತು :max ಅಕ್ಷರಗಳ ನಡುವೆ ಇರಬೇಕು.",
     "boolean": "ಈ  :attribute ಕ್ಷೇತ್ರವು ನಿಜ ಅಥವಾ ಸುಳ್ಳು ಆಗಿರಬೇಕು.",
-    "can": ":attribute ಕ್ಷೇತ್ರವು ಅನಧಿಕೃತ ಮೌಲ್ಯವನ್ನು ಹೊಂದಿದೆ.",
+    "can": ":Attribute ಕ್ಷೇತ್ರವು ಅನಧಿಕೃತ ಮೌಲ್ಯವನ್ನು ಹೊಂದಿದೆ.",
     "confirmed": "ಈ  :attribute ದೃಢೀಕರಣವು ಹೊಂದಿಕೆಯಾಗುವುದಿಲ್ಲ.",
     "country": ":Attribute ಕ್ಷೇತ್ರವು ಮಾನ್ಯವಾದ ದೇಶವಲ್ಲ.",
     "create_team": "ತಂಡವನ್ನು ರಚಿಸಿ",

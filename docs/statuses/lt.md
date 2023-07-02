@@ -4,12 +4,12 @@ editLink: false
 
 # lt
 
-##### All missed: 29
+##### All missed: 32
 
 
 ### json
 
-##### Missing: 29
+##### Missing: 32
 
 <table width="100%">
 <tr><th width="50%">
@@ -113,6 +113,15 @@ Indiana
 </td></tr>
 <tr><td width="50%">
 
+Invalid JSON was returned from the route.
+
+</td><td width="50%">
+
+Invalid JSON was returned from the route.
+
+</td></tr>
+<tr><td width="50%">
+
 Jane Doe
 
 </td><td width="50%">
@@ -244,6 +253,24 @@ Samoa
 </td><td width="50%">
 
 Samoa
+
+</td></tr>
+<tr><td width="50%">
+
+The response is not a streamed response.
+
+</td><td width="50%">
+
+The response is not a streamed response.
+
+</td></tr>
+<tr><td width="50%">
+
+The response is not a view.
+
+</td><td width="50%">
+
+The response is not a view.
 
 </td></tr>
 <tr><td width="50%">

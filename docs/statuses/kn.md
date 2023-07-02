@@ -4,12 +4,12 @@ editLink: false
 
 # kn
 
-##### All missed: 2
+##### All missed: 5
 
 
 ### json
 
-##### Missing: 2
+##### Missing: 5
 
 <table width="100%">
 <tr><th width="50%">
@@ -37,6 +37,33 @@ ID
 </td><td width="50%">
 
 ID
+
+</td></tr>
+<tr><td width="50%">
+
+Invalid JSON was returned from the route.
+
+</td><td width="50%">
+
+Invalid JSON was returned from the route.
+
+</td></tr>
+<tr><td width="50%">
+
+The response is not a streamed response.
+
+</td><td width="50%">
+
+The response is not a streamed response.
+
+</td></tr>
+<tr><td width="50%">
+
+The response is not a view.
+
+</td><td width="50%">
+
+The response is not a view.
 
 </td></tr>
 </table>

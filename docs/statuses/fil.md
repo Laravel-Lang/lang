@@ -4,7 +4,7 @@ editLink: false
 
 # fil
 
-##### All missed: 318
+##### All missed: 321
 
 
 ### php
@@ -38,7 +38,7 @@ Team Slug
 
 ### json
 
-##### Missing: 317
+##### Missing: 320
 
 <table width="100%">
 <tr><th width="50%">
@@ -1173,6 +1173,15 @@ Indonesia
 </td><td width="50%">
 
 Indonesia
+
+</td></tr>
+<tr><td width="50%">
+
+Invalid JSON was returned from the route.
+
+</td><td width="50%">
+
+Invalid JSON was returned from the route.
 
 </td></tr>
 <tr><td width="50%">
@@ -2541,6 +2550,24 @@ Thailand
 </td><td width="50%">
 
 Thailand
+
+</td></tr>
+<tr><td width="50%">
+
+The response is not a streamed response.
+
+</td><td width="50%">
+
+The response is not a streamed response.
+
+</td></tr>
+<tr><td width="50%">
+
+The response is not a view.
+
+</td><td width="50%">
+
+The response is not a view.
 
 </td></tr>
 <tr><td width="50%">

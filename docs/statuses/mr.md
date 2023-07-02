@@ -4,12 +4,12 @@ editLink: false
 
 # mr
 
-##### All missed: 3
+##### All missed: 6
 
 
 ### json
 
-##### Missing: 3
+##### Missing: 6
 
 <table width="100%">
 <tr><th width="50%">
@@ -32,6 +32,15 @@ API
 </td></tr>
 <tr><td width="50%">
 
+Invalid JSON was returned from the route.
+
+</td><td width="50%">
+
+Invalid JSON was returned from the route.
+
+</td></tr>
+<tr><td width="50%">
+
 mo
 
 </td><td width="50%">
@@ -46,6 +55,24 @@ N/A
 </td><td width="50%">
 
 N/A
+
+</td></tr>
+<tr><td width="50%">
+
+The response is not a streamed response.
+
+</td><td width="50%">
+
+The response is not a streamed response.
+
+</td></tr>
+<tr><td width="50%">
+
+The response is not a view.
+
+</td><td width="50%">
+
+The response is not a view.
 
 </td></tr>
 </table>

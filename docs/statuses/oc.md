@@ -4,7 +4,7 @@ editLink: false
 
 # oc
 
-##### All missed: 1233
+##### All missed: 1236
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 1112
+##### Missing: 1115
 
 <table width="100%">
 <tr><th width="50%">
@@ -3740,6 +3740,15 @@ Indonesia
 </td><td width="50%">
 
 Indonesia
+
+</td></tr>
+<tr><td width="50%">
+
+Invalid JSON was returned from the route.
+
+</td><td width="50%">
+
+Invalid JSON was returned from the route.
 
 </td></tr>
 <tr><td width="50%">
@@ -8096,6 +8105,24 @@ The resource was updated!
 </td><td width="50%">
 
 The resource was updated!
+
+</td></tr>
+<tr><td width="50%">
+
+The response is not a streamed response.
+
+</td><td width="50%">
+
+The response is not a streamed response.
+
+</td></tr>
+<tr><td width="50%">
+
+The response is not a view.
+
+</td><td width="50%">
+
+The response is not a view.
 
 </td></tr>
 <tr><td width="50%">

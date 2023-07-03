@@ -4,12 +4,12 @@ editLink: false
 
 # nb
 
-##### All missed: 8
+##### All missed: 5
 
 
 ### json
 
-##### Missing: 8
+##### Missing: 5
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,15 +21,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-Invalid JSON was returned from the route.
-
-</td><td width="50%">
-
-Invalid JSON was returned from the route.
-
-</td></tr>
 <tr><td width="50%">
 
 Iran, Islamic Republic Of
@@ -55,24 +46,6 @@ Sint Maarten (Dutch part)
 </td><td width="50%">
 
 Sint Maarten
-
-</td></tr>
-<tr><td width="50%">
-
-The response is not a streamed response.
-
-</td><td width="50%">
-
-The response is not a streamed response.
-
-</td></tr>
-<tr><td width="50%">
-
-The response is not a view.
-
-</td><td width="50%">
-
-The response is not a view.
 
 </td></tr>
 <tr><td width="50%">

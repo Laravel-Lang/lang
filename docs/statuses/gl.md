@@ -4,12 +4,12 @@ editLink: false
 
 # gl
 
-##### All missed: 127
+##### All missed: 124
 
 
 ### json
 
-##### Missing: 127
+##### Missing: 124
 
 <table width="100%">
 <tr><th width="50%">
@@ -487,15 +487,6 @@ Indonesia
 </td><td width="50%">
 
 Indonesia
-
-</td></tr>
-<tr><td width="50%">
-
-Invalid JSON was returned from the route.
-
-</td><td width="50%">
-
-Invalid JSON was returned from the route.
 
 </td></tr>
 <tr><td width="50%">
@@ -1000,24 +991,6 @@ Texas
 </td><td width="50%">
 
 Texas
-
-</td></tr>
-<tr><td width="50%">
-
-The response is not a streamed response.
-
-</td><td width="50%">
-
-The response is not a streamed response.
-
-</td></tr>
-<tr><td width="50%">
-
-The response is not a view.
-
-</td><td width="50%">
-
-The response is not a view.
 
 </td></tr>
 <tr><td width="50%">

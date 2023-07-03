@@ -4,12 +4,12 @@ editLink: false
 
 # sl
 
-##### All missed: 100
+##### All missed: 97
 
 
 ### json
 
-##### Missing: 100
+##### Missing: 97
 
 <table width="100%">
 <tr><th width="50%">
@@ -253,15 +253,6 @@ Indiana
 </td><td width="50%">
 
 Indiana
-
-</td></tr>
-<tr><td width="50%">
-
-Invalid JSON was returned from the route.
-
-</td><td width="50%">
-
-Invalid JSON was returned from the route.
 
 </td></tr>
 <tr><td width="50%">
@@ -775,24 +766,6 @@ Tennessee
 </td><td width="50%">
 
 Tennessee
-
-</td></tr>
-<tr><td width="50%">
-
-The response is not a streamed response.
-
-</td><td width="50%">
-
-The response is not a streamed response.
-
-</td></tr>
-<tr><td width="50%">
-
-The response is not a view.
-
-</td><td width="50%">
-
-The response is not a view.
 
 </td></tr>
 <tr><td width="50%">

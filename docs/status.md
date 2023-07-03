@@ -282,7 +282,7 @@ editLink: false
 </td></tr>
 <tr><td width="20%">
 
-[th&nbsp;❗](statuses/th.md)
+[th&nbsp;✔](statuses/th.md)
 
 </td><td width="20%">
 

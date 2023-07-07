@@ -21,7 +21,7 @@
     "between.numeric": "Kentän :attribute tulee olla välillä :min - :max.",
     "between.string": "Kentän :attribute tulee olla :min - :max merkkiä pitkä.",
     "boolean": "Kentän :attribute arvon tulee olla tosi tai epätosi.",
-    "can": "The :attribute field contains an unauthorized value.",
+    "can": ":Attribute-kenttä sisältää luvattoman arvon.",
     "confirmed": "Kentän :attribute vahvistus ei täsmää.",
     "country": ":Attribute-kenttä ei ole kelvollinen maa.",
     "create_team": "Luo tiimi",

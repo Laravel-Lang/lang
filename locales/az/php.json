@@ -21,7 +21,7 @@
     "between.numeric": ":Attribute :min ilə :max arasında olmalıdır.",
     "between.string": ":Attribute :min ilə :max simvol arasında olmalıdır.",
     "boolean": ":Attribute sahəsi doğru (true) və ya yalan (false) olmalıdır.",
-    "can": "The :attribute field contains an unauthorized value.",
+    "can": ":Attribute sahəsində icazəsiz dəyər var.",
     "confirmed": ":Attribute sahəsinin dəyəri təsdiqlənənlə uyğun gəlmir.",
     "country": ":Attribute sahəsi etibarlı ölkə deyil.",
     "create_team": "Komanda yaradın",

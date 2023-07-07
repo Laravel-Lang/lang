@@ -21,7 +21,7 @@
     "between.numeric": ":Attributeには、:minから、:maxまでの数字を指定してください。",
     "between.string": ":Attributeは、:min文字から:max文字にしてください。",
     "boolean": ":Attributeには、'true'か'false'を指定してください。",
-    "can": "The :attribute field contains an unauthorized value.",
+    "can": ":Attribute フィールドには不正な値が含まれています。",
     "confirmed": ":Attributeと:attribute確認が一致しません。",
     "country": ":Attributeには、存在する国を指定してください。",
     "create_team": "チームを作成する。",

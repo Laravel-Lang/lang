@@ -21,7 +21,7 @@
     "between.numeric": "A(z) :attribute :min és :max közötti szám kell, hogy legyen!",
     "between.string": "A(z) :attribute hossza :min és :max karakter között kell, hogy legyen!",
     "boolean": "A(z) :attribute mező csak true vagy false értéket kaphat!",
-    "can": "The :attribute field contains an unauthorized value.",
+    "can": "A :attribute-es mező nem engedélyezett értéket tartalmaz.",
     "confirmed": "A(z) :attribute nem egyezik a megerősítéssel.",
     "country": "A :attribute-as mező nem érvényes ország.",
     "create_team": "Csapat létrehozása",

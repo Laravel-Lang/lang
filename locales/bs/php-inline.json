@@ -17,7 +17,7 @@
     "between.numeric": "This value must be between :min and :max.",
     "between.string": "This string must be between :min and :max characters.",
     "boolean": "Ovo polje mora da je istina ili laž.",
-    "can": "This field contains an unauthorized value.",
+    "can": "Ovo polje sadrži neovlaštenu vrijednost.",
     "confirmed": "Potvrda se ne poklapa.",
     "country": "Ovo polje nije važeća zemlja.",
     "date": "Ovo nije važeći sastanak.",

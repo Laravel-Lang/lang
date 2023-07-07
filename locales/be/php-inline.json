@@ -17,7 +17,7 @@
     "between.numeric": "This value must be between :min and :max.",
     "between.string": "This string must be between :min and :max characters.",
     "boolean": "Гэта поле павінна быць сапраўдным або ілжывым.",
-    "can": "This field contains an unauthorized value.",
+    "can": "Гэта поле змяшчае недазволенае значэнне.",
     "confirmed": "Пацверджанне не супадае.",
     "country": "Гэта поле несапраўдная краіна.",
     "date": "Гэта не сапраўдная дата.",

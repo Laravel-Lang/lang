@@ -21,7 +21,7 @@
     "between.numeric": ":Attribute باید بین :min و :max باشد.",
     "between.string": ":Attribute باید بین :min و :max کاراکتر باشد.",
     "boolean": "فیلد :attribute فقط می‌تواند true و یا false باشد.",
-    "can": "The :attribute field contains an unauthorized value.",
+    "can": "فیلد :attribute یک مقدار غیرمجاز دارد.",
     "confirmed": ":Attribute با فیلد تکرار مطابقت ندارد.",
     "country": ":Attribute یک کشور معتبر نمی باشد.",
     "create_team": "ایجاد تیم",

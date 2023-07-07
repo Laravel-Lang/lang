@@ -21,7 +21,7 @@
     "between.numeric": "Câmpul :attribute trebuie să fie între :min și :max.",
     "between.string": "Câmpul :attribute trebuie să fie între :min și :max caractere.",
     "boolean": "Câmpul :attribute trebuie să fie adevărat sau fals.",
-    "can": "The :attribute field contains an unauthorized value.",
+    "can": "Câmpul :attribute conține o valoare neautorizată.",
     "confirmed": "Confirmarea :attribute nu se potrivește.",
     "country": "Câmpul :attribute nu este o țară validă.",
     "create_team": "Creați o echipă",

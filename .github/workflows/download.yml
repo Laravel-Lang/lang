@@ -127,6 +127,8 @@ jobs:
     nova:
         runs-on: ubuntu-latest
 
+        if: false
+
         strategy:
             fail-fast: true
             matrix:

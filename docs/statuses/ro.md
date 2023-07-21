@@ -4,12 +4,12 @@ editLink: false
 
 # ro
 
-##### All missed: 170
+##### All missed: 172
 
 
 ### json
 
-##### Missing: 170
+##### Missing: 172
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,6 +23,15 @@ Value
 </th></tr>
 <tr><td width="50%">
 
+Add :resource
+
+</td><td width="50%">
+
+Add :resource
+
+</td></tr>
+<tr><td width="50%">
+
 Administrator
 
 </td><td width="50%">
@@ -118,6 +127,15 @@ API
 </td><td width="50%">
 
 API
+
+</td></tr>
+<tr><td width="50%">
+
+Are you sure you want to remove this item?
+
+</td><td width="50%">
+
+Are you sure you want to remove this item?
 
 </td></tr>
 <tr><td width="50%">

@@ -4,7 +4,7 @@ editLink: false
 
 # uz_Latn
 
-##### All missed: 734
+##### All missed: 736
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 624
+##### Missing: 626
 
 <table width="100%">
 <tr><th width="50%">
@@ -241,6 +241,15 @@ Action Button URL
 </td></tr>
 <tr><td width="50%">
 
+Add :resource
+
+</td><td width="50%">
+
+Add :resource
+
+</td></tr>
+<tr><td width="50%">
+
 Add Discount
 
 </td><td width="50%">
@@ -561,6 +570,15 @@ Are you sure you want to log out?
 </td><td width="50%">
 
 Are you sure you want to log out?
+
+</td></tr>
+<tr><td width="50%">
+
+Are you sure you want to remove this item?
+
+</td><td width="50%">
+
+Are you sure you want to remove this item?
 
 </td></tr>
 <tr><td width="50%">

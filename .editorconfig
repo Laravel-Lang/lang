@@ -40,7 +40,6 @@ ij_css_use_double_quotes = true
 ij_css_value_alignment = do_not_align
 
 [*.less]
-indent_size = 2
 ij_less_align_closing_brace_with_properties = false
 ij_less_blank_lines_around_nested_selector = 1
 ij_less_blank_lines_between_blocks = 1
@@ -63,7 +62,6 @@ ij_less_use_double_quotes = true
 ij_less_value_alignment = 0
 
 [*.sass]
-indent_size = 2
 ij_sass_align_closing_brace_with_properties = false
 ij_sass_blank_lines_around_nested_selector = 1
 ij_sass_blank_lines_between_blocks = 1
@@ -502,7 +500,7 @@ ij_php_align_assignments = true
 ij_php_align_class_constants = true
 ij_php_align_enum_cases = true
 ij_php_align_group_field_declarations = false
-ij_php_align_inline_comments = true
+ij_php_align_inline_comments = false
 ij_php_align_key_value_pairs = true
 ij_php_align_match_arm_bodies = true
 ij_php_align_multiline_array_initializer_expression = true
@@ -773,7 +771,7 @@ ij_html_text_wrap = off
 [{*.http,*.rest}]
 indent_size = 0
 ij_continuation_indent_size = 4
-ij_http request_call_parameters_wrap = normal
+ij_http request_call_parameters_wrap = on_every_item
 
 [{*.markdown,*.md}]
 ij_markdown_force_one_space_after_blockquote_symbol = true

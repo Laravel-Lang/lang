@@ -4,12 +4,12 @@ editLink: false
 
 # tk
 
-##### All missed: 72
+##### All missed: 74
 
 
 ### json
 
-##### Missing: 72
+##### Missing: 74
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,6 +23,15 @@ Value
 </th></tr>
 <tr><td width="50%">
 
+Add :resource
+
+</td><td width="50%">
+
+Add :resource
+
+</td></tr>
+<tr><td width="50%">
+
 Administrator
 
 </td><td width="50%">
@@ -100,6 +109,15 @@ API Tokens
 </td><td width="50%">
 
 API Tokens
+
+</td></tr>
+<tr><td width="50%">
+
+Are you sure you want to remove this item?
+
+</td><td width="50%">
+
+Are you sure you want to remove this item?
 
 </td></tr>
 <tr><td width="50%">

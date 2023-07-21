@@ -4,12 +4,12 @@ editLink: false
 
 # gl
 
-##### All missed: 124
+##### All missed: 126
 
 
 ### json
 
-##### Missing: 124
+##### Missing: 126
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,6 +23,15 @@ Value
 </th></tr>
 <tr><td width="50%">
 
+Add :resource
+
+</td><td width="50%">
+
+Add :resource
+
+</td></tr>
+<tr><td width="50%">
+
 Alabama
 
 </td><td width="50%">
@@ -73,6 +82,15 @@ API
 </td><td width="50%">
 
 API
+
+</td></tr>
+<tr><td width="50%">
+
+Are you sure you want to remove this item?
+
+</td><td width="50%">
+
+Are you sure you want to remove this item?
 
 </td></tr>
 <tr><td width="50%">

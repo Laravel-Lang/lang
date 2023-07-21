@@ -4,12 +4,12 @@ editLink: false
 
 # tl
 
-##### All missed: 207
+##### All missed: 209
 
 
 ### json
 
-##### Missing: 206
+##### Missing: 208
 
 <table width="100%">
 <tr><th width="50%">
@@ -32,6 +32,15 @@ Target
 </td></tr>
 <tr><td width="50%">
 
+Add :resource
+
+</td><td width="50%">
+
+Add :resource
+
+</td></tr>
+<tr><td width="50%">
+
 Address
 
 </td><td width="50%">
@@ -118,6 +127,15 @@ API
 </td><td width="50%">
 
 API
+
+</td></tr>
+<tr><td width="50%">
+
+Are you sure you want to remove this item?
+
+</td><td width="50%">
+
+Are you sure you want to remove this item?
 
 </td></tr>
 <tr><td width="50%">

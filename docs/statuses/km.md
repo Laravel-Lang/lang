@@ -4,12 +4,12 @@ editLink: false
 
 # km
 
-##### All missed: 5
+##### All missed: 7
 
 
 ### json
 
-##### Missing: 5
+##### Missing: 7
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,6 +21,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+Add :resource
+
+</td><td width="50%">
+
+Add :resource
+
+</td></tr>
 <tr><td width="50%">
 
 API
@@ -37,6 +46,15 @@ API Token
 </td><td width="50%">
 
 API Token
+
+</td></tr>
+<tr><td width="50%">
+
+Are you sure you want to remove this item?
+
+</td><td width="50%">
+
+Are you sure you want to remove this item?
 
 </td></tr>
 <tr><td width="50%">

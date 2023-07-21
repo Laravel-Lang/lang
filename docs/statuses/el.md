@@ -4,12 +4,12 @@ editLink: false
 
 # el
 
-##### All missed: 8
+##### All missed: 10
 
 
 ### json
 
-##### Missing: 7
+##### Missing: 9
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,11 +23,29 @@ Value
 </th></tr>
 <tr><td width="50%">
 
+Add :resource
+
+</td><td width="50%">
+
+Add :resource
+
+</td></tr>
+<tr><td width="50%">
+
 API
 
 </td><td width="50%">
 
 API
+
+</td></tr>
+<tr><td width="50%">
+
+Are you sure you want to remove this item?
+
+</td><td width="50%">
+
+Are you sure you want to remove this item?
 
 </td></tr>
 <tr><td width="50%">

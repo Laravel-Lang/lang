@@ -4,12 +4,12 @@ editLink: false
 
 # ms
 
-##### All missed: 208
+##### All missed: 210
 
 
 ### json
 
-##### Missing: 208
+##### Missing: 210
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,6 +23,15 @@ Value
 </th></tr>
 <tr><td width="50%">
 
+Add :resource
+
+</td><td width="50%">
+
+Add :resource
+
+</td></tr>
+<tr><td width="50%">
+
 Afghanistan
 
 </td><td width="50%">
@@ -118,6 +127,15 @@ April
 </td><td width="50%">
 
 April
+
+</td></tr>
+<tr><td width="50%">
+
+Are you sure you want to remove this item?
+
+</td><td width="50%">
+
+Are you sure you want to remove this item?
 
 </td></tr>
 <tr><td width="50%">

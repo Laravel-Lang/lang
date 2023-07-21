@@ -4,12 +4,12 @@ editLink: false
 
 # hi
 
-##### All missed: 1
+##### All missed: 3
 
 
 ### json
 
-##### Missing: 1
+##### Missing: 3
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,6 +21,24 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+Add :resource
+
+</td><td width="50%">
+
+Add :resource
+
+</td></tr>
+<tr><td width="50%">
+
+Are you sure you want to remove this item?
+
+</td><td width="50%">
+
+Are you sure you want to remove this item?
+
+</td></tr>
 <tr><td width="50%">
 
 Saskatchewan

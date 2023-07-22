@@ -4,12 +4,12 @@ editLink: false
 
 # nn
 
-##### All missed: 209
+##### All missed: 207
 
 
 ### json
 
-##### Missing: 207
+##### Missing: 205
 
 <table width="100%">
 <tr><th width="50%">
@@ -32,15 +32,6 @@ Status
 </td></tr>
 <tr><td width="50%">
 
-Add :resource
-
-</td><td width="50%">
-
-Add :resource
-
-</td></tr>
-<tr><td width="50%">
-
 Administrator
 
 </td><td width="50%">
@@ -118,15 +109,6 @@ API
 </td><td width="50%">
 
 API
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to remove this item?
-
-</td><td width="50%">
-
-Are you sure you want to remove this item?
 
 </td></tr>
 <tr><td width="50%">

@@ -4,12 +4,12 @@ editLink: false
 
 # af
 
-##### All missed: 60
+##### All missed: 58
 
 
 ### json
 
-##### Missing: 60
+##### Missing: 58
 
 <table width="100%">
 <tr><th width="50%">
@@ -32,15 +32,6 @@ Status
 </td></tr>
 <tr><td width="50%">
 
-Add :resource
-
-</td><td width="50%">
-
-Add :resource
-
-</td></tr>
-<tr><td width="50%">
-
 Alabama
 
 </td><td width="50%">
@@ -73,15 +64,6 @@ API
 </td><td width="50%">
 
 API
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to remove this item?
-
-</td><td width="50%">
-
-Are you sure you want to remove this item?
 
 </td></tr>
 <tr><td width="50%">

@@ -319,7 +319,7 @@ editLink: false
 
 </td><td width="20%">
 
-[vi&nbsp;❗](statuses/vi.md)
+[vi&nbsp;✔](statuses/vi.md)
 
 </td></tr>
 <tr><td width="20%">

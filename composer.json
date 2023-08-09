@@ -24,8 +24,8 @@
         "laravel-lang/publisher": "^14.0"
     },
     "require-dev": {
-        "laravel-lang/status-generator": "^1.15",
-        "phpunit/phpunit": "^9.6",
+        "laravel-lang/status-generator": "^1.19",
+        "phpunit/phpunit": "^10.0",
         "symfony/var-dumper": "^6.0"
     },
     "minimum-stability": "stable",

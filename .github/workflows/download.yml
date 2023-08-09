@@ -8,7 +8,7 @@ on:
 permissions: write-all
 
 jobs:
-    laravel_10:
+    laravel:
         uses: Laravel-Lang/.github/.github/workflows/download.yml@main
         strategy:
             fail-fast: true
@@ -23,35 +23,13 @@ jobs:
                     --project=framework \
                     --ver=${{ matrix.version }} \
                     --copy=src/Illuminate/Translation/lang
-
-    laravel_9:
-        uses: Laravel-Lang/.github/.github/workflows/download.yml@main
-        strategy:
-            fail-fast: true
-            matrix:
-                version: [ "9.x" ]
-        with:
-            project: Laravel Framework ${{ matrix.version }}
-            paths: source/laravel/${{ matrix.version }}/*,source/framework/${{ matrix.version }}/*
-            commands: |
-                vendor/bin/lang download \
-                    --url=https://github.com/laravel/laravel/archive/refs/heads/${{ matrix.version }}.zip \
-                    --project=laravel \
-                    --ver=${{ matrix.version }} \
-                    --copy=lang
-                
-                vendor/bin/lang download \
-                    --url=https://github.com/laravel/framework/archive/refs/heads/${{ matrix.version }}.zip \
-                    --project=framework \
-                    --ver=${{ matrix.version }} \
-                    --copy=src/Illuminate/Translation/lang
     
     lumen:
         uses: Laravel-Lang/.github/.github/workflows/download.yml@main
         strategy:
             fail-fast: true
             matrix:
-                version: [ "9.x", "10.x", "master" ]
+                version: [ "10.x", "master" ]
         with:
             project: Lumen Framework ${{ matrix.version }}
             paths: source/lumen-framework/${{ matrix.version }}/*
@@ -84,7 +62,7 @@ jobs:
         strategy:
             fail-fast: true
             matrix:
-                version: [ "12.x", "13.x", "14.x", "master" ]
+                version: [ "13.x", "14.x", "master" ]
         with:
             project: Laravel Cashier Stripe ${{ matrix.version }}
             paths: source/cashier/stripe/${{ matrix.version }}/*
@@ -114,7 +92,7 @@ jobs:
         strategy:
             fail-fast: true
             matrix:
-                version: [ "1.x", "2.x", "3.x", "master" ]
+                version: [ "2.x", "3.x", "master" ]
         with:
             project: Laravel Jetstream ${{ matrix.version }}
             paths: source/jetstream/${{ matrix.version }}/*
@@ -131,7 +109,6 @@ jobs:
             fail-fast: true
             matrix:
                 nova:
-                    - { branch: "3.x", version: "3.0" }
                     - { branch: "4.x", version: "4.0" }
         
         name: nova (${{ matrix.nova.branch }})
@@ -252,7 +229,7 @@ jobs:
         strategy:
             fail-fast: true
             matrix:
-                version: [ "3.x", "4.x", "master" ]
+                version: [ "4.x", "master" ]
         with:
             project: Laravel UI ${{ matrix.version }}
             paths: source/ui/${{ matrix.version }}/*

@@ -4,12 +4,12 @@ editLink: false
 
 # sl
 
-##### All missed: 97
+##### All missed: 96
 
 
 ### json
 
-##### Missing: 97
+##### Missing: 96
 
 <table width="100%">
 <tr><th width="50%">
@@ -271,15 +271,6 @@ Iran, Islamic Republic Of
 </td><td width="50%">
 
 Iran
-
-</td></tr>
-<tr><td width="50%">
-
-Jane Doe
-
-</td><td width="50%">
-
-Jane Doe
 
 </td></tr>
 <tr><td width="50%">

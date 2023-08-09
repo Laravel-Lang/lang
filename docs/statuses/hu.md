@@ -4,12 +4,12 @@ editLink: false
 
 # hu
 
-##### All missed: 117
+##### All missed: 116
 
 
 ### json
 
-##### Missing: 117
+##### Missing: 116
 
 <table width="100%">
 <tr><th width="50%">
@@ -406,15 +406,6 @@ Jamaica
 </td><td width="50%">
 
 Jamaica
-
-</td></tr>
-<tr><td width="50%">
-
-Jane Doe
-
-</td><td width="50%">
-
-Jane Doe
 
 </td></tr>
 <tr><td width="50%">

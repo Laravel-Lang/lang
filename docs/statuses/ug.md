@@ -4,12 +4,12 @@ editLink: false
 
 # ug
 
-##### All missed: 147
+##### All missed: 146
 
 
 ### json
 
-##### Missing: 143
+##### Missing: 142
 
 <table width="100%">
 <tr><th width="50%">
@@ -550,15 +550,6 @@ Isle of Man
 </td><td width="50%">
 
 Isle of Man
-
-</td></tr>
-<tr><td width="50%">
-
-Jane Doe
-
-</td><td width="50%">
-
-Jane Doe
 
 </td></tr>
 <tr><td width="50%">

@@ -4,7 +4,7 @@ editLink: false
 
 # oc
 
-##### All missed: 1238
+##### All missed: 1206
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 1117
+##### Missing: 1096
 
 <table width="100%">
 <tr><th width="50%">
@@ -2041,15 +2041,6 @@ Côte d'Ivoire
 </td></tr>
 <tr><td width="50%">
 
-could not be found.
-
-</td><td width="50%">
-
-could not be found.
-
-</td></tr>
-<tr><td width="50%">
-
 Country
 
 </td><td width="50%">
@@ -2932,15 +2923,6 @@ Extra Billing Information
 </td></tr>
 <tr><td width="50%">
 
-Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below.
-
-</td><td width="50%">
-
-Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below.
-
-</td></tr>
-<tr><td width="50%">
-
 Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below.
 
 </td><td width="50%">
@@ -3202,15 +3184,6 @@ From
 </td></tr>
 <tr><td width="50%">
 
-Full name
-
-</td><td width="50%">
-
-Full name
-
-</td></tr>
-<tr><td width="50%">
-
 Gabon
 
 </td><td width="50%">
@@ -3261,15 +3234,6 @@ Gibraltar
 </td><td width="50%">
 
 Gibraltar
-
-</td></tr>
-<tr><td width="50%">
-
-Go back
-
-</td><td width="50%">
-
-Go back
 
 </td></tr>
 <tr><td width="50%">
@@ -3589,15 +3553,6 @@ If necessary, you may log out of all of your other browser sessions across all o
 </td></tr>
 <tr><td width="50%">
 
-If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
-
-</td><td width="50%">
-
-If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
-
-</td></tr>
-<tr><td width="50%">
-
 If you already have an account, you may accept this invitation by clicking the button below:
 
 </td><td width="50%">
@@ -3884,15 +3839,6 @@ Jamaica
 </td><td width="50%">
 
 Jamaica
-
-</td></tr>
-<tr><td width="50%">
-
-Jane Doe
-
-</td><td width="50%">
-
-Jane Doe
 
 </td></tr>
 <tr><td width="50%">
@@ -4293,15 +4239,6 @@ Logout
 </td></tr>
 <tr><td width="50%">
 
-Logout Other Browser Sessions
-
-</td><td width="50%">
-
-Logout Other Browser Sessions
-
-</td></tr>
-<tr><td width="50%">
-
 Logs
 
 </td><td width="50%">
@@ -4451,15 +4388,6 @@ Manage and log out your active sessions on other browsers and devices.
 </td><td width="50%">
 
 Manage and log out your active sessions on other browsers and devices.
-
-</td></tr>
-<tr><td width="50%">
-
-Manage and logout your active sessions on other browsers and devices.
-
-</td><td width="50%">
-
-Manage and logout your active sessions on other browsers and devices.
 
 </td></tr>
 <tr><td width="50%">
@@ -5625,24 +5553,6 @@ Password
 </td></tr>
 <tr><td width="50%">
 
-Pay :amount
-
-</td><td width="50%">
-
-Pay :amount
-
-</td></tr>
-<tr><td width="50%">
-
-Payment Cancelled
-
-</td><td width="50%">
-
-Payment Cancelled
-
-</td></tr>
-<tr><td width="50%">
-
 Payment Confirmation
 
 </td><td width="50%">
@@ -5693,15 +5603,6 @@ Payment Required
 </td><td width="50%">
 
 Payment Required
-
-</td></tr>
-<tr><td width="50%">
-
-Payment Successful
-
-</td><td width="50%">
-
-Payment Successful
 
 </td></tr>
 <tr><td width="50%">
@@ -5904,15 +5805,6 @@ Please enter your password to confirm you would like to log out of your other br
 </td></tr>
 <tr><td width="50%">
 
-Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
-
-</td><td width="50%">
-
-Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
-
-</td></tr>
-<tr><td width="50%">
-
 Please first register your billing address.
 
 </td><td width="50%">
@@ -5945,24 +5837,6 @@ Please provide the email address of the person you would like to add to this tea
 </td><td width="50%">
 
 Please provide the email address of the person you would like to add to this team.
-
-</td></tr>
-<tr><td width="50%">
-
-Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
-
-</td><td width="50%">
-
-Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
-
-</td></tr>
-<tr><td width="50%">
-
-Please provide your name.
-
-</td><td width="50%">
-
-Please provide your name.
 
 </td></tr>
 <tr><td width="50%">
@@ -6890,15 +6764,6 @@ Select All Dropdown
 </td><td width="50%">
 
 Select All Dropdown
-
-</td></tr>
-<tr><td width="50%">
-
-Select All Matching
-
-</td><td width="50%">
-
-Select All Matching
 
 </td></tr>
 <tr><td width="50%">
@@ -7884,15 +7749,6 @@ The :resource was updated!
 </td></tr>
 <tr><td width="50%">
 
-The action ran successfully!
-
-</td><td width="50%">
-
-The action ran successfully!
-
-</td></tr>
-<tr><td width="50%">
-
 The action was executed successfully.
 
 </td><td width="50%">
@@ -8024,15 +7880,6 @@ The password is incorrect.
 </td><td width="50%">
 
 The password is incorrect.
-
-</td></tr>
-<tr><td width="50%">
-
-The payment was successful.
-
-</td><td width="50%">
-
-The payment was successful.
 
 </td></tr>
 <tr><td width="50%">
@@ -8307,15 +8154,6 @@ This file field is read-only.
 </td></tr>
 <tr><td width="50%">
 
-This image
-
-</td><td width="50%">
-
-This image
-
-</td></tr>
-<tr><td width="50%">
-
 This information will appear on all of your receipts, and is a great place to add your full business name, VAT number, or address of record. Do not include any confidential or financial information such as credit card numbers.
 
 </td><td width="50%">
@@ -8384,24 +8222,6 @@ This password reset link will expire in :count minutes.
 </td><td width="50%">
 
 This password reset link will expire in :count minutes.
-
-</td></tr>
-<tr><td width="50%">
-
-This payment was already successfully confirmed.
-
-</td><td width="50%">
-
-This payment was already successfully confirmed.
-
-</td></tr>
-<tr><td width="50%">
-
-This payment was cancelled.
-
-</td><td width="50%">
-
-This payment was cancelled.
 
 </td></tr>
 <tr><td width="50%">
@@ -8780,15 +8600,6 @@ Two factor authentication is now enabled. Scan the following QR code using your 
 </td><td width="50%">
 
 Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application or enter the setup key.
-
-</td></tr>
-<tr><td width="50%">
-
-Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
-
-</td><td width="50%">
-
-Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
 
 </td></tr>
 <tr><td width="50%">
@@ -10230,7 +10041,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 28
+##### Missing: 30
 
 <table width="100%">
 <tr><th width="50%">
@@ -10294,6 +10105,24 @@ decimal
 </td><td width="50%">
 
 This field must have :decimal decimal places.
+
+</td></tr>
+<tr><td width="50%">
+
+doesnt_end_with
+
+</td><td width="50%">
+
+This field must not end with one of the following: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+doesnt_start_with
+
+</td><td width="50%">
+
+This field must not start with one of the following: :values.
 
 </td></tr>
 <tr><td width="50%">
@@ -10502,7 +10331,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 79
+##### Missing: 66
 
 <table width="100%">
 <tr><th width="50%">
@@ -10548,15 +10377,6 @@ are_you_sure_you_want_to_leave_team
 </td><td width="50%">
 
 Are you sure you want to leave this team?
-
-</td></tr>
-<tr><td width="50%">
-
-ascii
-
-</td><td width="50%">
-
-The :attribute must only contain single-byte alphanumeric characters and symbols.
 
 </td></tr>
 <tr><td width="50%">
@@ -10624,15 +10444,6 @@ current_teams
 </td></tr>
 <tr><td width="50%">
 
-decimal
-
-</td><td width="50%">
-
-The :attribute must have :decimal decimal places.
-
-</td></tr>
-<tr><td width="50%">
-
 declined
 
 </td><td width="50%">
@@ -10656,24 +10467,6 @@ delete_team
 </td><td width="50%">
 
  Delete Team
-
-</td></tr>
-<tr><td width="50%">
-
-doesnt_end_with
-
-</td><td width="50%">
-
-The :attribute may not end with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-doesnt_start_with
-
-</td><td width="50%">
-
-The :attribute may not start with one of the following: :values.
 
 </td></tr>
 <tr><td width="50%">
@@ -10723,15 +10516,6 @@ It looks like you're not part of any team!
 </td></tr>
 <tr><td width="50%">
 
-lowercase
-
-</td><td width="50%">
-
-The :attribute must be lowercase.
-
-</td></tr>
-<tr><td width="50%">
-
 mac_address
 
 </td><td width="50%">
@@ -10741,29 +10525,11 @@ The :attribute must be a valid MAC address.
 </td></tr>
 <tr><td width="50%">
 
-max_digits
-
-</td><td width="50%">
-
-The :attribute must not have more than :max digits.
-
-</td></tr>
-<tr><td width="50%">
-
 member
 
 </td><td width="50%">
 
  Member
-
-</td></tr>
-<tr><td width="50%">
-
-min_digits
-
-</td><td width="50%">
-
-The :attribute must have at least :min digits.
 
 </td></tr>
 <tr><td width="50%">
@@ -10818,42 +10584,6 @@ not_eligible_based_on_current_members_teams
 </td><td width="50%">
 
 You are not eligible for this plan based on your current number of teams / team members.
-
-</td></tr>
-<tr><td width="50%">
-
-password.letters
-
-</td><td width="50%">
-
-The :attribute must contain at least one letter.
-
-</td></tr>
-<tr><td width="50%">
-
-password.mixed
-
-</td><td width="50%">
-
-The :attribute must contain at least one uppercase and one lowercase letter.
-
-</td></tr>
-<tr><td width="50%">
-
-password.numbers
-
-</td><td width="50%">
-
-The :attribute must contain at least one number.
-
-</td></tr>
-<tr><td width="50%">
-
-password.symbols
-
-</td><td width="50%">
-
-The :attribute must contain at least one symbol.
 
 </td></tr>
 <tr><td width="50%">
@@ -11110,29 +10840,11 @@ Please wait before retrying.
 </td></tr>
 <tr><td width="50%">
 
-ulid
-
-</td><td width="50%">
-
-The :attribute must be a valid ULID.
-
-</td></tr>
-<tr><td width="50%">
-
 update_team_name
 
 </td><td width="50%">
 
 Update Team Name
-
-</td></tr>
-<tr><td width="50%">
-
-uppercase
-
-</td><td width="50%">
-
-The :attribute must be uppercase.
 
 </td></tr>
 <tr><td width="50%">

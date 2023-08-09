@@ -4,12 +4,12 @@ editLink: false
 
 # sk
 
-##### All missed: 109
+##### All missed: 108
 
 
 ### json
 
-##### Missing: 108
+##### Missing: 107
 
 <table width="100%">
 <tr><th width="50%">
@@ -388,15 +388,6 @@ Iowa
 </td><td width="50%">
 
 Iowa
-
-</td></tr>
-<tr><td width="50%">
-
-Jane Doe
-
-</td><td width="50%">
-
-Jane Doe
 
 </td></tr>
 <tr><td width="50%">

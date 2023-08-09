@@ -4,12 +4,12 @@ editLink: false
 
 # de_CH
 
-##### All missed: 65
+##### All missed: 64
 
 
 ### json
 
-##### Missing: 64
+##### Missing: 63
 
 <table width="100%">
 <tr><th width="50%">
@@ -199,15 +199,6 @@ Isle of Man
 </td><td width="50%">
 
 Isle of Man
-
-</td></tr>
-<tr><td width="50%">
-
-Jane Doe
-
-</td><td width="50%">
-
-Jane Doe
 
 </td></tr>
 <tr><td width="50%">

@@ -4,12 +4,12 @@ editLink: false
 
 # gl
 
-##### All missed: 124
+##### All missed: 123
 
 
 ### json
 
-##### Missing: 124
+##### Missing: 123
 
 <table width="100%">
 <tr><th width="50%">
@@ -514,15 +514,6 @@ Israel
 </td><td width="50%">
 
 Israel
-
-</td></tr>
-<tr><td width="50%">
-
-Jane Doe
-
-</td><td width="50%">
-
-Jane Doe
 
 </td></tr>
 <tr><td width="50%">

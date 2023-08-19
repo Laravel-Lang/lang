@@ -4,7 +4,7 @@ editLink: false
 
 # uz_Latn
 
-##### All missed: 718
+##### All missed: 720
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 619
+##### Missing: 621
 
 <table width="100%">
 <tr><th width="50%">
@@ -516,6 +516,15 @@ Are you sure you want to cancel your subscription?
 </td><td width="50%">
 
 Are you sure you want to cancel your subscription?
+
+</td></tr>
+<tr><td width="50%">
+
+Are you sure you want to delete all the notifications?
+
+</td><td width="50%">
+
+Are you sure you want to delete all the notifications?
 
 </td></tr>
 <tr><td width="50%">
@@ -1321,6 +1330,15 @@ Delaware
 </td></tr>
 <tr><td width="50%">
 
+Delete all notifications
+
+</td><td width="50%">
+
+Delete all notifications
+
+</td></tr>
+<tr><td width="50%">
+
 Delete Announcement
 
 </td><td width="50%">
@@ -2284,11 +2302,11 @@ Manitoba
 </td></tr>
 <tr><td width="50%">
 
-Mark all as Read
+Mark Read
 
 </td><td width="50%">
 
-Mark all as Read
+Mark Read
 
 </td></tr>
 <tr><td width="50%">

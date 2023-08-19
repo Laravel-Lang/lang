@@ -4,12 +4,12 @@ editLink: false
 
 # hi
 
-##### All missed: 1
+##### All missed: 4
 
 
 ### json
 
-##### Missing: 1
+##### Missing: 4
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,6 +21,33 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+Are you sure you want to delete all the notifications?
+
+</td><td width="50%">
+
+Are you sure you want to delete all the notifications?
+
+</td></tr>
+<tr><td width="50%">
+
+Delete all notifications
+
+</td><td width="50%">
+
+Delete all notifications
+
+</td></tr>
+<tr><td width="50%">
+
+Mark Read
+
+</td><td width="50%">
+
+Mark Read
+
+</td></tr>
 <tr><td width="50%">
 
 Saskatchewan

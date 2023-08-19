@@ -4,7 +4,7 @@ editLink: false
 
 # fil
 
-##### All missed: 317
+##### All missed: 320
 
 
 ### php
@@ -38,7 +38,7 @@ Team Slug
 
 ### json
 
-##### Missing: 316
+##### Missing: 319
 
 <table width="100%">
 <tr><th width="50%">
@@ -183,6 +183,15 @@ API Token
 </td><td width="50%">
 
 API Token
+
+</td></tr>
+<tr><td width="50%">
+
+Are you sure you want to delete all the notifications?
+
+</td><td width="50%">
+
+Are you sure you want to delete all the notifications?
 
 </td></tr>
 <tr><td width="50%">
@@ -651,6 +660,15 @@ Delaware
 </td><td width="50%">
 
 Delaware
+
+</td></tr>
+<tr><td width="50%">
+
+Delete all notifications
+
+</td><td width="50%">
+
+Delete all notifications
 
 </td></tr>
 <tr><td width="50%">
@@ -1551,6 +1569,15 @@ Manitoba
 </td><td width="50%">
 
 Manitoba
+
+</td></tr>
+<tr><td width="50%">
+
+Mark Read
+
+</td><td width="50%">
+
+Mark Read
 
 </td></tr>
 <tr><td width="50%">

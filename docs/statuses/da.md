@@ -4,12 +4,12 @@ editLink: false
 
 # da
 
-##### All missed: 198
+##### All missed: 201
 
 
 ### json
 
-##### Missing: 196
+##### Missing: 199
 
 <table width="100%">
 <tr><th width="50%">
@@ -109,6 +109,15 @@ April
 </td><td width="50%">
 
 April
+
+</td></tr>
+<tr><td width="50%">
+
+Are you sure you want to delete all the notifications?
+
+</td><td width="50%">
+
+Are you sure you want to delete all the notifications?
 
 </td></tr>
 <tr><td width="50%">
@@ -370,6 +379,15 @@ Delaware
 </td><td width="50%">
 
 Delaware
+
+</td></tr>
+<tr><td width="50%">
+
+Delete all notifications
+
+</td><td width="50%">
+
+Delete all notifications
 
 </td></tr>
 <tr><td width="50%">
@@ -892,6 +910,15 @@ Manitoba
 </td><td width="50%">
 
 Manitoba
+
+</td></tr>
+<tr><td width="50%">
+
+Mark Read
+
+</td><td width="50%">
+
+Mark Read
 
 </td></tr>
 <tr><td width="50%">

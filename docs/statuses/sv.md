@@ -4,12 +4,12 @@ editLink: false
 
 # sv
 
-##### All missed: 176
+##### All missed: 173
 
 
 ### json
 
-##### Missing: 174
+##### Missing: 171
 
 <table width="100%">
 <tr><th width="50%">
@@ -104,15 +104,6 @@ API
 </td></tr>
 <tr><td width="50%">
 
-Are you sure you want to delete all the notifications?
-
-</td><td width="50%">
-
-Are you sure you want to delete all the notifications?
-
-</td></tr>
-<tr><td width="50%">
-
 Argentina
 
 </td><td width="50%">
@@ -325,15 +316,6 @@ Delaware
 </td><td width="50%">
 
 Delaware
-
-</td></tr>
-<tr><td width="50%">
-
-Delete all notifications
-
-</td><td width="50%">
-
-Delete all notifications
 
 </td></tr>
 <tr><td width="50%">
@@ -784,15 +766,6 @@ Manitoba
 </td><td width="50%">
 
 Manitoba
-
-</td></tr>
-<tr><td width="50%">
-
-Mark Read
-
-</td><td width="50%">
-
-Mark Read
 
 </td></tr>
 <tr><td width="50%">

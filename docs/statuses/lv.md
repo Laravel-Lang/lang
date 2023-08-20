@@ -4,12 +4,12 @@ editLink: false
 
 # lv
 
-##### All missed: 17
+##### All missed: 14
 
 
 ### json
 
-##### Missing: 17
+##### Missing: 14
 
 <table width="100%">
 <tr><th width="50%">
@@ -50,29 +50,11 @@ API
 </td></tr>
 <tr><td width="50%">
 
-Are you sure you want to delete all the notifications?
-
-</td><td width="50%">
-
-Are you sure you want to delete all the notifications?
-
-</td></tr>
-<tr><td width="50%">
-
 Arizona
 
 </td><td width="50%">
 
 Arizona
-
-</td></tr>
-<tr><td width="50%">
-
-Delete all notifications
-
-</td><td width="50%">
-
-Delete all notifications
 
 </td></tr>
 <tr><td width="50%">
@@ -100,15 +82,6 @@ Manitoba
 </td><td width="50%">
 
 Manitoba
-
-</td></tr>
-<tr><td width="50%">
-
-Mark Read
-
-</td><td width="50%">
-
-Mark Read
 
 </td></tr>
 <tr><td width="50%">

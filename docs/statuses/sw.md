@@ -4,12 +4,12 @@ editLink: false
 
 # sw
 
-##### All missed: 3
+##### All missed: 1
 
 
 ### json
 
-##### Missing: 3
+##### Missing: 1
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,24 +21,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-Are you sure you want to delete all the notifications?
-
-</td><td width="50%">
-
-Are you sure you want to delete all the notifications?
-
-</td></tr>
-<tr><td width="50%">
-
-Delete all notifications
-
-</td><td width="50%">
-
-Delete all notifications
-
-</td></tr>
 <tr><td width="50%">
 
 Mark Read

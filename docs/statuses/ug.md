@@ -4,12 +4,12 @@ editLink: false
 
 # ug
 
-##### All missed: 149
+##### All missed: 147
 
 
 ### json
 
-##### Missing: 145
+##### Missing: 143
 
 <table width="100%">
 <tr><th width="50%">
@@ -109,15 +109,6 @@ API Tokens
 </td><td width="50%">
 
 API Tokens
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to delete all the notifications?
-
-</td><td width="50%">
-
-Are you sure you want to delete all the notifications?
 
 </td></tr>
 <tr><td width="50%">
@@ -307,15 +298,6 @@ Delaware
 </td><td width="50%">
 
 Delaware
-
-</td></tr>
-<tr><td width="50%">
-
-Delete all notifications
-
-</td><td width="50%">
-
-Delete all notifications
 
 </td></tr>
 <tr><td width="50%">

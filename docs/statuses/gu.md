@@ -4,12 +4,12 @@ editLink: false
 
 # gu
 
-##### All missed: 9
+##### All missed: 6
 
 
 ### json
 
-##### Missing: 9
+##### Missing: 6
 
 <table width="100%">
 <tr><th width="50%">
@@ -32,38 +32,11 @@ API
 </td></tr>
 <tr><td width="50%">
 
-Are you sure you want to delete all the notifications?
-
-</td><td width="50%">
-
-Are you sure you want to delete all the notifications?
-
-</td></tr>
-<tr><td width="50%">
-
-Delete all notifications
-
-</td><td width="50%">
-
-Delete all notifications
-
-</td></tr>
-<tr><td width="50%">
-
 ID
 
 </td><td width="50%">
 
 ID
-
-</td></tr>
-<tr><td width="50%">
-
-Mark Read
-
-</td><td width="50%">
-
-Mark Read
 
 </td></tr>
 <tr><td width="50%">

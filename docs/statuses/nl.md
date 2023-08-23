@@ -4,12 +4,12 @@ editLink: false
 
 # nl
 
-##### All missed: 60
+##### All missed: 59
 
 
 ### json
 
-##### Missing: 59
+##### Missing: 58
 
 <table width="100%">
 <tr><th width="50%">
@@ -280,15 +280,6 @@ Missouri
 </td><td width="50%">
 
 Missouri
-
-</td></tr>
-<tr><td width="50%">
-
-mo
-
-</td><td width="50%">
-
-mo
 
 </td></tr>
 <tr><td width="50%">

@@ -4,12 +4,12 @@ editLink: false
 
 # ms
 
-##### All missed: 210
+##### All missed: 206
 
 
 ### json
 
-##### Missing: 210
+##### Missing: 206
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,15 +23,6 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-Add :resource
-
-</td><td width="50%">
-
-Add :resource
-
-</td></tr>
-<tr><td width="50%">
-
 Afghanistan
 
 </td><td width="50%">
@@ -127,15 +118,6 @@ April
 </td><td width="50%">
 
 April
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to remove this item?
-
-</td><td width="50%">
-
-Are you sure you want to remove this item?
 
 </td></tr>
 <tr><td width="50%">
@@ -824,15 +806,6 @@ Jamaica
 </td></tr>
 <tr><td width="50%">
 
-Jane Doe
-
-</td><td width="50%">
-
-Jane Doe
-
-</td></tr>
-<tr><td width="50%">
-
 Jordan
 
 </td><td width="50%">
@@ -1036,15 +1009,6 @@ Manitoba
 </td><td width="50%">
 
 Manitoba
-
-</td></tr>
-<tr><td width="50%">
-
-Martinique
-
-</td><td width="50%">
-
-Martinique
 
 </td></tr>
 <tr><td width="50%">

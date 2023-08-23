@@ -4,12 +4,12 @@ editLink: false
 
 # nl
 
-##### All missed: 62
+##### All missed: 59
 
 
 ### json
 
-##### Missing: 61
+##### Missing: 58
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,15 +23,6 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-Add :resource
-
-</td><td width="50%">
-
-Add :resource
-
-</td></tr>
-<tr><td width="50%">
-
 Alabama
 
 </td><td width="50%">
@@ -64,15 +55,6 @@ API
 </td><td width="50%">
 
 API
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to remove this item?
-
-</td><td width="50%">
-
-Are you sure you want to remove this item?
 
 </td></tr>
 <tr><td width="50%">
@@ -298,15 +280,6 @@ Missouri
 </td><td width="50%">
 
 Missouri
-
-</td></tr>
-<tr><td width="50%">
-
-mo
-
-</td><td width="50%">
-
-mo
 
 </td></tr>
 <tr><td width="50%">

@@ -4,12 +4,12 @@ editLink: false
 
 # da
 
-##### All missed: 201
+##### All missed: 198
 
 
 ### json
 
-##### Missing: 199
+##### Missing: 196
 
 <table width="100%">
 <tr><th width="50%">
@@ -32,15 +32,6 @@ Status
 </td></tr>
 <tr><td width="50%">
 
-Add :resource
-
-</td><td width="50%">
-
-Add :resource
-
-</td></tr>
-<tr><td width="50%">
-
 Administrator
 
 </td><td width="50%">
@@ -118,15 +109,6 @@ April
 </td><td width="50%">
 
 April
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to remove this item?
-
-</td><td width="50%">
-
-Are you sure you want to remove this item?
 
 </td></tr>
 <tr><td width="50%">
@@ -703,15 +685,6 @@ Jamaica
 </td><td width="50%">
 
 Jamaica
-
-</td></tr>
-<tr><td width="50%">
-
-Jane Doe
-
-</td><td width="50%">
-
-Jane Doe
 
 </td></tr>
 <tr><td width="50%">

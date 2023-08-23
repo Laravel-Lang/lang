@@ -4,7 +4,7 @@ editLink: false
 
 # fil
 
-##### All missed: 320
+##### All missed: 318
 
 
 ### php
@@ -38,7 +38,7 @@ Team Slug
 
 ### json
 
-##### Missing: 319
+##### Missing: 317
 
 <table width="100%">
 <tr><th width="50%">
@@ -61,15 +61,6 @@ Target
 </td></tr>
 <tr><td width="50%">
 
-Add :resource
-
-</td><td width="50%">
-
-Add :resource
-
-</td></tr>
-<tr><td width="50%">
-
 Address
 
 </td><td width="50%">
@@ -192,15 +183,6 @@ API Token
 </td><td width="50%">
 
 API Token
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to remove this item?
-
-</td><td width="50%">
-
-Are you sure you want to remove this item?
 
 </td></tr>
 <tr><td width="50%">
@@ -1285,15 +1267,6 @@ Jamaica
 </td></tr>
 <tr><td width="50%">
 
-Jane Doe
-
-</td><td width="50%">
-
-Jane Doe
-
-</td></tr>
-<tr><td width="50%">
-
 Jersey
 
 </td><td width="50%">
@@ -1578,6 +1551,15 @@ Manitoba
 </td><td width="50%">
 
 Manitoba
+
+</td></tr>
+<tr><td width="50%">
+
+Mark Read
+
+</td><td width="50%">
+
+Mark Read
 
 </td></tr>
 <tr><td width="50%">

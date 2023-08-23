@@ -4,12 +4,12 @@ editLink: false
 
 # tl
 
-##### All missed: 209
+##### All missed: 207
 
 
 ### json
 
-##### Missing: 208
+##### Missing: 206
 
 <table width="100%">
 <tr><th width="50%">
@@ -32,15 +32,6 @@ Target
 </td></tr>
 <tr><td width="50%">
 
-Add :resource
-
-</td><td width="50%">
-
-Add :resource
-
-</td></tr>
-<tr><td width="50%">
-
 Address
 
 </td><td width="50%">
@@ -127,15 +118,6 @@ API
 </td><td width="50%">
 
 API
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to remove this item?
-
-</td><td width="50%">
-
-Are you sure you want to remove this item?
 
 </td></tr>
 <tr><td width="50%">
@@ -752,15 +734,6 @@ Israel
 </td></tr>
 <tr><td width="50%">
 
-Jane Doe
-
-</td><td width="50%">
-
-Jane Doe
-
-</td></tr>
-<tr><td width="50%">
-
 Jersey
 
 </td><td width="50%">
@@ -919,6 +892,15 @@ Manitoba
 </td><td width="50%">
 
 Manitoba
+
+</td></tr>
+<tr><td width="50%">
+
+Mark Read
+
+</td><td width="50%">
+
+Mark Read
 
 </td></tr>
 <tr><td width="50%">

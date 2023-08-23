@@ -4,12 +4,12 @@ editLink: false
 
 # et
 
-##### All missed: 64
+##### All missed: 61
 
 
 ### json
 
-##### Missing: 64
+##### Missing: 61
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,15 +23,6 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-Add :resource
-
-</td><td width="50%">
-
-Add :resource
-
-</td></tr>
-<tr><td width="50%">
-
 Alabama
 
 </td><td width="50%">
@@ -64,15 +55,6 @@ API
 </td><td width="50%">
 
 API
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to remove this item?
-
-</td><td width="50%">
-
-Are you sure you want to remove this item?
 
 </td></tr>
 <tr><td width="50%">
@@ -199,15 +181,6 @@ Iowa
 </td><td width="50%">
 
 Iowa
-
-</td></tr>
-<tr><td width="50%">
-
-Jane Doe
-
-</td><td width="50%">
-
-Jane Doe
 
 </td></tr>
 <tr><td width="50%">

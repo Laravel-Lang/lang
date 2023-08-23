@@ -4,12 +4,12 @@ editLink: false
 
 # af
 
-##### All missed: 60
+##### All missed: 57
 
 
 ### json
 
-##### Missing: 60
+##### Missing: 57
 
 <table width="100%">
 <tr><th width="50%">
@@ -32,15 +32,6 @@ Status
 </td></tr>
 <tr><td width="50%">
 
-Add :resource
-
-</td><td width="50%">
-
-Add :resource
-
-</td></tr>
-<tr><td width="50%">
-
 Alabama
 
 </td><td width="50%">
@@ -73,15 +64,6 @@ API
 </td><td width="50%">
 
 API
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to remove this item?
-
-</td><td width="50%">
-
-Are you sure you want to remove this item?
 
 </td></tr>
 <tr><td width="50%">
@@ -208,15 +190,6 @@ Iran, Islamic Republic Of
 </td><td width="50%">
 
 Iran
-
-</td></tr>
-<tr><td width="50%">
-
-Jane Doe
-
-</td><td width="50%">
-
-Jane Doe
 
 </td></tr>
 <tr><td width="50%">

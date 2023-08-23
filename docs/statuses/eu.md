@@ -4,12 +4,12 @@ editLink: false
 
 # eu
 
-##### All missed: 58
+##### All missed: 55
 
 
 ### json
 
-##### Missing: 58
+##### Missing: 55
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,15 +23,6 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-Add :resource
-
-</td><td width="50%">
-
-Add :resource
-
-</td></tr>
-<tr><td width="50%">
-
 Alabama
 
 </td><td width="50%">
@@ -55,15 +46,6 @@ Alberta
 </td><td width="50%">
 
 Alberta
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to remove this item?
-
-</td><td width="50%">
-
-Are you sure you want to remove this item?
 
 </td></tr>
 <tr><td width="50%">
@@ -172,15 +154,6 @@ Iran, Islamic Republic Of
 </td><td width="50%">
 
 Iran
-
-</td></tr>
-<tr><td width="50%">
-
-Jane Doe
-
-</td><td width="50%">
-
-Jane Doe
 
 </td></tr>
 <tr><td width="50%">

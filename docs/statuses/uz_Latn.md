@@ -4,7 +4,7 @@ editLink: false
 
 # uz_Latn
 
-##### All missed: 736
+##### All missed: 720
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 626
+##### Missing: 621
 
 <table width="100%">
 <tr><th width="50%">
@@ -516,6 +516,15 @@ Are you sure you want to cancel your subscription?
 </td><td width="50%">
 
 Are you sure you want to cancel your subscription?
+
+</td></tr>
+<tr><td width="50%">
+
+Are you sure you want to delete all the notifications?
+
+</td><td width="50%">
+
+Are you sure you want to delete all the notifications?
 
 </td></tr>
 <tr><td width="50%">
@@ -1321,6 +1330,15 @@ Delaware
 </td></tr>
 <tr><td width="50%">
 
+Delete all notifications
+
+</td><td width="50%">
+
+Delete all notifications
+
+</td></tr>
+<tr><td width="50%">
+
 Delete Announcement
 
 </td><td width="50%">
@@ -1852,15 +1870,6 @@ Idaho
 </td></tr>
 <tr><td width="50%">
 
-If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
-
-</td><td width="50%">
-
-If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
-
-</td></tr>
-<tr><td width="50%">
-
 If you did not receive the email
 
 </td><td width="50%">
@@ -2001,15 +2010,6 @@ It looks like you do not have an active subscription. You may choose one of the 
 </td><td width="50%">
 
 It looks like you do not have an active subscription. You may choose one of the subscription plans below to get started. Subscription plans may be changed or cancelled at your convenience.
-
-</td></tr>
-<tr><td width="50%">
-
-Jane Doe
-
-</td><td width="50%">
-
-Jane Doe
 
 </td></tr>
 <tr><td width="50%">
@@ -2185,15 +2185,6 @@ Login Via Emergency Token
 </td></tr>
 <tr><td width="50%">
 
-Logout Other Browser Sessions
-
-</td><td width="50%">
-
-Logout Other Browser Sessions
-
-</td></tr>
-<tr><td width="50%">
-
 Logs
 
 </td><td width="50%">
@@ -2293,15 +2284,6 @@ Malta
 </td></tr>
 <tr><td width="50%">
 
-Manage and logout your active sessions on other browsers and devices.
-
-</td><td width="50%">
-
-Manage and logout your active sessions on other browsers and devices.
-
-</td></tr>
-<tr><td width="50%">
-
 Managing billing for :billableName
 
 </td><td width="50%">
@@ -2320,11 +2302,11 @@ Manitoba
 </td></tr>
 <tr><td width="50%">
 
-Mark all as Read
+Mark Read
 
 </td><td width="50%">
 
-Mark all as Read
+Mark Read
 
 </td></tr>
 <tr><td width="50%">
@@ -3139,15 +3121,6 @@ Please confirm your password before continuing.
 </td></tr>
 <tr><td width="50%">
 
-Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
-
-</td><td width="50%">
-
-Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
-
-</td></tr>
-<tr><td width="50%">
-
 Please first register your billing address.
 
 </td><td width="50%">
@@ -3171,15 +3144,6 @@ Please provide a maximum of three receipt emails addresses.
 </td><td width="50%">
 
 Please provide a maximum of three receipt emails addresses.
-
-</td></tr>
-<tr><td width="50%">
-
-Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
-
-</td><td width="50%">
-
-Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
 
 </td></tr>
 <tr><td width="50%">
@@ -4732,15 +4696,6 @@ Two factor authentication is now enabled. Scan the following QR code using your 
 </td></tr>
 <tr><td width="50%">
 
-Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
-
-</td><td width="50%">
-
-Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
-
-</td></tr>
-<tr><td width="50%">
-
 Two-Factor Authentication
 
 </td><td width="50%">
@@ -5809,7 +5764,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 23
+##### Missing: 25
 
 <table width="100%">
 <tr><th width="50%">
@@ -5864,6 +5819,24 @@ decimal
 </td><td width="50%">
 
 This field must have :decimal decimal places.
+
+</td></tr>
+<tr><td width="50%">
+
+doesnt_end_with
+
+</td><td width="50%">
+
+This field must not end with one of the following: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+doesnt_start_with
+
+</td><td width="50%">
+
+This field must not start with one of the following: :values.
 
 </td></tr>
 <tr><td width="50%">
@@ -6036,7 +6009,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 73
+##### Missing: 60
 
 <table width="100%">
 <tr><th width="50%">
@@ -6082,15 +6055,6 @@ are_you_sure_you_want_to_leave_team
 </td><td width="50%">
 
 Are you sure you want to leave this team?
-
-</td></tr>
-<tr><td width="50%">
-
-ascii
-
-</td><td width="50%">
-
-The :attribute must only contain single-byte alphanumeric characters and symbols.
 
 </td></tr>
 <tr><td width="50%">
@@ -6149,15 +6113,6 @@ current_teams
 </td></tr>
 <tr><td width="50%">
 
-decimal
-
-</td><td width="50%">
-
-The :attribute must have :decimal decimal places.
-
-</td></tr>
-<tr><td width="50%">
-
 declined
 
 </td><td width="50%">
@@ -6181,24 +6136,6 @@ delete_team
 </td><td width="50%">
 
  Delete Team
-
-</td></tr>
-<tr><td width="50%">
-
-doesnt_end_with
-
-</td><td width="50%">
-
-The :attribute may not end with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-doesnt_start_with
-
-</td><td width="50%">
-
-The :attribute may not start with one of the following: :values.
 
 </td></tr>
 <tr><td width="50%">
@@ -6248,15 +6185,6 @@ It looks like you're not part of any team!
 </td></tr>
 <tr><td width="50%">
 
-lowercase
-
-</td><td width="50%">
-
-The :attribute must be lowercase.
-
-</td></tr>
-<tr><td width="50%">
-
 mac_address
 
 </td><td width="50%">
@@ -6266,29 +6194,11 @@ The :attribute must be a valid MAC address.
 </td></tr>
 <tr><td width="50%">
 
-max_digits
-
-</td><td width="50%">
-
-The :attribute must not have more than :max digits.
-
-</td></tr>
-<tr><td width="50%">
-
 member
 
 </td><td width="50%">
 
  Member
-
-</td></tr>
-<tr><td width="50%">
-
-min_digits
-
-</td><td width="50%">
-
-The :attribute must have at least :min digits.
 
 </td></tr>
 <tr><td width="50%">
@@ -6343,42 +6253,6 @@ not_eligible_based_on_current_members_teams
 </td><td width="50%">
 
 You are not eligible for this plan based on your current number of teams / team members.
-
-</td></tr>
-<tr><td width="50%">
-
-password.letters
-
-</td><td width="50%">
-
-The :attribute must contain at least one letter.
-
-</td></tr>
-<tr><td width="50%">
-
-password.mixed
-
-</td><td width="50%">
-
-The :attribute must contain at least one uppercase and one lowercase letter.
-
-</td></tr>
-<tr><td width="50%">
-
-password.numbers
-
-</td><td width="50%">
-
-The :attribute must contain at least one number.
-
-</td></tr>
-<tr><td width="50%">
-
-password.symbols
-
-</td><td width="50%">
-
-The :attribute must contain at least one symbol.
 
 </td></tr>
 <tr><td width="50%">
@@ -6590,29 +6464,11 @@ Teams Currently Trialing
 </td></tr>
 <tr><td width="50%">
 
-ulid
-
-</td><td width="50%">
-
-The :attribute must be a valid ULID.
-
-</td></tr>
-<tr><td width="50%">
-
 update_team_name
 
 </td><td width="50%">
 
 Update Team Name
-
-</td></tr>
-<tr><td width="50%">
-
-uppercase
-
-</td><td width="50%">
-
-The :attribute must be uppercase.
 
 </td></tr>
 <tr><td width="50%">

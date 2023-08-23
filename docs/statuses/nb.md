@@ -4,12 +4,12 @@ editLink: false
 
 # nb
 
-##### All missed: 7
+##### All missed: 5
 
 
 ### json
 
-##### Missing: 7
+##### Missing: 5
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,24 +21,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-Add :resource
-
-</td><td width="50%">
-
-Add :resource
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to remove this item?
-
-</td><td width="50%">
-
-Are you sure you want to remove this item?
-
-</td></tr>
 <tr><td width="50%">
 
 Iran, Islamic Republic Of

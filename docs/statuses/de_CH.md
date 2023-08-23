@@ -4,12 +4,12 @@ editLink: false
 
 # de_CH
 
-##### All missed: 67
+##### All missed: 64
 
 
 ### json
 
-##### Missing: 66
+##### Missing: 63
 
 <table width="100%">
 <tr><th width="50%">
@@ -32,15 +32,6 @@ Status
 </td></tr>
 <tr><td width="50%">
 
-Add :resource
-
-</td><td width="50%">
-
-Add :resource
-
-</td></tr>
-<tr><td width="50%">
-
 Alabama
 
 </td><td width="50%">
@@ -73,15 +64,6 @@ API
 </td><td width="50%">
 
 API
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to remove this item?
-
-</td><td width="50%">
-
-Are you sure you want to remove this item?
 
 </td></tr>
 <tr><td width="50%">
@@ -217,15 +199,6 @@ Isle of Man
 </td><td width="50%">
 
 Isle of Man
-
-</td></tr>
-<tr><td width="50%">
-
-Jane Doe
-
-</td><td width="50%">
-
-Jane Doe
 
 </td></tr>
 <tr><td width="50%">

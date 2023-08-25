@@ -26,6 +26,7 @@ class Plugin extends Provider
         Plugins\Jetstream\Master::class,
         Plugins\Jetstream\V2::class,
         Plugins\Jetstream\V3::class,
+        Plugins\Jetstream\V4::class,
 
         Plugins\Laravel\Master::class,
         Plugins\Laravel\V10::class,

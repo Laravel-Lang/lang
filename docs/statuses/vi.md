@@ -4,12 +4,12 @@ editLink: false
 
 # vi
 
-##### All missed: 2
+##### All missed: 3
 
 
 ### json
 
-##### Missing: 2
+##### Missing: 3
 
 <table width="100%">
 <tr><th width="50%">
@@ -28,6 +28,15 @@ Alaska
 </td><td width="50%">
 
 Alaska
+
+</td></tr>
+<tr><td width="50%">
+
+Arizona
+
+</td><td width="50%">
+
+Arizona
 
 </td></tr>
 <tr><td width="50%">

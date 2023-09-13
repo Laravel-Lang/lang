@@ -12,5 +12,5 @@
     "The :attribute must contain at least one number.": "Acest câmp trebuie să conţină cel puţin un număr.",
     "The :attribute must contain at least one symbol.": "Acest câmp trebuie să conțină cel puțin un simbol.",
     "The :attribute must contain at least one uppercase and one lowercase letter.": "Acest câmp trebuie să conțină cel puțin o literă mare și o literă mică.",
-    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Acest câmp dat a apărut într-o scurgere de date. Vă rugăm să alegeți un alt câmp."
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Acest câmp a apărut într-o scurgere de date. Vă rugăm să alegeți un alt câmp."
 }

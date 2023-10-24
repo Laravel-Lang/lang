@@ -15,7 +15,7 @@ class V4 extends Plugin
         return [
             'nova/4.x/nova.json' => 'vendor/nova/{locale}.json',
 
-            'nova/4.x/validation.php' => '{locale}/validation.php',
+            'nova/4.x/validation.php' => 'vendor/nova/{locale}/validation.php',
         ];
     }
 }

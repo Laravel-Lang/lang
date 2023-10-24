@@ -9,7 +9,7 @@
     "alpha_num": "Der Inhalt darf nur aus Buchstaben und Zahlen bestehen.",
     "array": "Dieses Feld muss ein Array sein.",
     "ascii": "Dieses Feld darf nur alphanumerische Single-Byte-Zeichen und -Symbole enthalten.",
-    "attached": "Dieses Feld ist bereits angehängt.",
+    "attached": "Dieses Feld ist bereits angehangen.",
     "before": "Das muss ein Datum vor dem :date sein.",
     "before_or_equal": "Das muss ein Datum vor dem :date oder gleich dem :date sein.",
     "between.array": "Dieser Inhalt muss zwischen :min & :max Elemente haben.",

@@ -1,0 +1,15 @@
+name: transfer issue
+
+on:
+    issues:
+        types:
+            - opened
+
+permissions: write-all
+
+jobs:
+    issue:
+        uses: Laravel-Lang/.github/.github/workflows/transfer-issue.yml@main
+        with:
+            token: ${{ secrets.GITHUB_TOKEN }}
+            label: lang

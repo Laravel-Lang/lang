@@ -3,7 +3,7 @@ name: transfer issue
 on:
     issues:
         types:
-            - opened
+            - labeled
 
 permissions: write-all
 

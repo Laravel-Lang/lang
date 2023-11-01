@@ -1,8 +1,14 @@
 blank_issues_enabled: false
 contact_links:
+    -   name: Bug Report
+        url: https://github.com/Laravel-Lang/common/issues/new?assignees=andrey-helldar&labels=bug%2Clang&projects=&template=bug_report.yml&title=%5BBug%5D%3A+
+        about: Report a bug or other issue
+    -   name: Feature Request
+        url: https://github.com/Laravel-Lang/common/issues/new?labels=feature%2Chttp-statuses&projects=&template=feature_request.yml
+        about: Propose a new feature
     -   name: Questions & Other
         url: https://github.com/Laravel-Lang/common/discussions
         about: 'If you want to ask about something else, use the discussions.'
-    -   name: Laravel issue
+    -   name: Laravel Issue
         url: https://github.com/laravel/framework/issues
         about: 'If you have a question about your Laravel implementation, ask it in your Laravel project.'

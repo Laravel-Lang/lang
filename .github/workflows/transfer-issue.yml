@@ -11,5 +11,5 @@ jobs:
     issue:
         uses: Laravel-Lang/.github/.github/workflows/transfer-issue.yml@main
         with:
-            token: ${{ secrets.GITHUB_TOKEN }}
+            token: ${{ secrets.COMPOSER_TOKEN }}
             label: lang

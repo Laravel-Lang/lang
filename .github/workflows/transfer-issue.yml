@@ -9,7 +9,16 @@ permissions: write-all
 
 jobs:
     issue:
-        uses: Laravel-Lang/.github/.github/workflows/transfer-issue.yml@main
-        with:
-            token: ${{ secrets.COMPOSER_TOKEN }}
-            label: lang
+        runs-on: ubuntu-latest
+
+        steps:
+            -   name: Checkout code
+                uses: actions/checkout@v4
+
+            -   name: Transfer issue
+                uses: lando/transfer-issue-action@v2
+                with:
+                    token: ${{ secrets.COMPOSER_TOKEN }}
+                    router: Laravel-Lang/common
+                    apply_label: lang
+                    create_stub: true

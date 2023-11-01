@@ -2,7 +2,7 @@ name: Feature Proposal
 description: Propose a new feature
 
 labels:
-    - '💪 feature request'
+    - 'lang'
 
 body:
     -   type: markdown

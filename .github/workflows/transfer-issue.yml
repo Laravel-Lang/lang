@@ -19,6 +19,6 @@ jobs:
                 uses: lando/transfer-issue-action@v2
                 with:
                     token: ${{ secrets.COMPOSER_TOKEN }}
-                    router: Laravel-Lang/common
+                    router: lang:Laravel-Lang/common
                     apply_label: lang
                     create_stub: true

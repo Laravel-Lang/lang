@@ -167,7 +167,7 @@
     "user_already_invited_to_team": "That user is already invited to the team.",
     "user_already_on_team": "That user is already on the team.",
     "user_doesnt_belong_to_team": "The user does not belong to the given team.",
-    "user_invited_to_join_team": ":UserName has invited you to join their team!",
+    "user_invited_to_join_team": ":userName has invited you to join their team!",
     "uuid": "The :attribute must be a valid UUID.",
     "vat_id": "This VAT identification number is invalid.",
     "view_all_teams": "View All Teams",

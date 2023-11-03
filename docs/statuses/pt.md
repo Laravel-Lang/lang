@@ -4,12 +4,12 @@ editLink: false
 
 # pt
 
-##### All missed: 43
+##### All missed: 41
 
 
 ### json
 
-##### Missing: 43
+##### Missing: 41
 
 <table width="100%">
 <tr><th width="50%">
@@ -122,15 +122,6 @@ Delaware
 </td></tr>
 <tr><td width="50%">
 
-Dominica
-
-</td><td width="50%">
-
-Dominica
-
-</td></tr>
-<tr><td width="50%">
-
 Haiti
 
 </td><td width="50%">
@@ -352,15 +343,6 @@ Uganda
 </td><td width="50%">
 
 Uganda
-
-</td></tr>
-<tr><td width="50%">
-
-Utah
-
-</td><td width="50%">
-
-Utah
 
 </td></tr>
 <tr><td width="50%">

@@ -10,7 +10,7 @@
     ":days day trial": ":Days хоногийн туршилт",
     ":resource Details": ":Resource дэлгэрэнгүй",
     ":resource Details: :title": ":Resource дэлгэрэнгүй: :title",
-    ":trialDays Day Trial": ":TrialDays хоногийн туршилт",
+    ":trialDays Day Trial": ":trialDays хоногийн туршилт",
     "A fresh verification link has been sent to your email address.": "Баталгаажуулах шинэ холбоосыг таны имэйл хаяг руу илгээсэн.",
     "A new verification link has been sent to the email address you provided during registration.": "Шинэ шалгах холбоос бүртгэлийн явцад та өгсөн и-мэйл хаяг руу илгээсэн байна.",
     "A new verification link has been sent to the email address you provided in your profile settings.": "Таны профайлын тохиргоонд оруулсан имэйл хаяг руу баталгаажуулах шинэ холбоос илгээгдлээ.",

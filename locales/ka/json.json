@@ -10,7 +10,7 @@
     ":days day trial": ":Days საცდელი დღე",
     ":resource Details": ":Resource დეტალები",
     ":resource Details: :title": ":Resource დეტალები: :title",
-    ":trialDays Day Trial": ":TrialDays დღიანი საცდელი",
+    ":trialDays Day Trial": ":trialDays დღიანი საცდელი",
     "A fresh verification link has been sent to your email address.": "ახალი დამადასტურებელი ბმული გაიგზავნა თქვენს ელფოსტის მისამართზე.",
     "A new verification link has been sent to the email address you provided during registration.": "ახალი გადამოწმების ლინკი გაიგზავნა ელექტრონული ფოსტის მისამართი თქვენ უზრუნველყოფილი რეგისტრაციის დროს.",
     "A new verification link has been sent to the email address you provided in your profile settings.": "ახალი დამადასტურებელი ბმული გაიგზავნა ელფოსტის მისამართზე, რომელიც მიუთითეთ თქვენი პროფილის პარამეტრებში.",

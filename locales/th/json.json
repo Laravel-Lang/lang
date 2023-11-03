@@ -10,7 +10,7 @@
     ":days day trial": ":Days วันสำหรับทดลองใช้",
     ":resource Details": ":Resource รายละเอียด",
     ":resource Details: :title": ":Resource รายละเอียด::title",
-    ":trialDays Day Trial": "ทดลองใช้ :TrialDays วัน",
+    ":trialDays Day Trial": "ทดลองใช้ :trialDays วัน",
     "A fresh verification link has been sent to your email address.": "ลิ้งสำหรับยืนยันตัวตนล่าสุดได้ถูกส่งไปยังอีเมล์ของคุณแล้ว",
     "A new verification link has been sent to the email address you provided during registration.": "ลิ้งสำหรับยืนยันตัวตนใหม่ ได้ถูกส่งไปยังอีเมล์ที่คุณระบุไว้ตอนที่สมัครใช้งานแล้ว",
     "A new verification link has been sent to the email address you provided in your profile settings.": "ลิ้งสำหรับยืนยันตัวตนใหม่ ได้ถูกส่งไปยังอีเมล์ที่คุณระบุไว้ในโปรไฟล์ของคุณแล้ว",

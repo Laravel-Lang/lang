@@ -43,7 +43,7 @@
     "doesnt_start_with": "Polje :attribute ne smije počinjati s jednom od sljedećih vrijednosti: :values.",
     "edit_team_member": "Uredi člana tima",
     "email": "Polje :attribute mora biti ispravna e-mail adresa.",
-    "ends_with": ":Attribute bi trebao završiti s jednim od sljedećih: :values.",
+    "ends_with": ":attribute bi trebao završiti s jednim od sljedećih: :values.",
     "enum": "Odabrano polje :attribute nije ispravno.",
     "exists": "Odabrano polje :attribute nije ispravno.",
     "failed": "Ovi podaci ne odgovaraju našima.",

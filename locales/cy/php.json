@@ -47,7 +47,7 @@
     "enum": "Mae'r :attribute a ddewiswyd yn annilys.",
     "exists": "Nid yw :attribute yn ddilys.",
     "failed": "Nid yw'r manylion hyn yn cyfateb i'n cofnodion.",
-    "file": ":Attribute rhaid iddo fod yn y ffeil.",
+    "file": ":attribute rhaid iddo fod yn y ffeil.",
     "filled": "Rhaid cynnwys :attribute.",
     "gt.array": "Rhaid i'r :attribute fod â mwy na :value o eitemau.",
     "gt.file": "Rhaid i'r :attribute fod yn fwy na :value cilobeit.",

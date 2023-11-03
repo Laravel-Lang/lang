@@ -96,7 +96,7 @@
     "missing_unless": "שדה :attribute חייב להיות חסר אלא אם :other הוא :value.",
     "missing_with": "שדה :attribute חייב להיות חסר כאשר קיים :values.",
     "missing_with_all": "שדה :attribute חייב להיות חסר כאשר :values קיימים.",
-    "multiple_of": ":Attribute חייב להיות מרובה של :value",
+    "multiple_of": ":attribute חייב להיות מרובה של :value",
     "next": "הבא &raquo;",
     "not_eligible_based_on_current_members_teams": "אינך זכאי לתוכנית זו בהתבסס על מספר הצוותים / חברי הצוות הנוכחי שלך.",
     "not_in": "בחירת ה-:attribute אינה תקפה.",

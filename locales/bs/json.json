@@ -10,7 +10,7 @@
     ":days day trial": "Probni period od :Days dana",
     ":resource Details": ":Resource detalji",
     ":resource Details: :title": ":Resource detalji: :title",
-    ":trialDays Day Trial": ":TrialDays Day Trial",
+    ":trialDays Day Trial": ":trialDays Day Trial",
     "A fresh verification link has been sent to your email address.": "Nova veza za potvrdu je poslana na vašu email adresu.",
     "A new verification link has been sent to the email address you provided during registration.": "Nova verifikacijska veza je poslana na email adresu koju ste dali tokom registracije.",
     "A new verification link has been sent to the email address you provided in your profile settings.": "Novi link za verifikaciju je poslan na adresu e-pošte koju ste naveli u postavkama profila.",

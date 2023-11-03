@@ -10,7 +10,7 @@
     ":days day trial": ":Days日のトライアル",
     ":resource Details": ":Resource詳細",
     ":resource Details: :title": ":Resource詳細:title",
-    ":trialDays Day Trial": ":TrialDays日間トライアル",
+    ":trialDays Day Trial": ":trialDays日間トライアル",
     "A fresh verification link has been sent to your email address.": "新しい確認リンクがメールアドレスに送信されました。",
     "A new verification link has been sent to the email address you provided during registration.": "入力いただいたメールアドレスに新しい確認メールを送信しました。",
     "A new verification link has been sent to the email address you provided in your profile settings.": "登録いただいたメールアドレスに確認メールを送信しました。",

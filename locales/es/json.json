@@ -10,7 +10,7 @@
     ":days day trial": "prueba por :days días",
     ":resource Details": "Detalles del :resource",
     ":resource Details: :title": "Detalles del :resource : :title",
-    ":trialDays Day Trial": "Prueba de :TrialDays días",
+    ":trialDays Day Trial": "Prueba de :trialDays días",
     "A fresh verification link has been sent to your email address.": "Se ha enviado un nuevo enlace de verificación a su correo electrónico.",
     "A new verification link has been sent to the email address you provided during registration.": "Se ha enviado un nuevo enlace de verificación a la dirección de correo electrónico que proporcionó durante el registro.",
     "A new verification link has been sent to the email address you provided in your profile settings.": "Se ha enviado un nuevo enlace de verificación a la dirección de correo electrónico que proporcionó en la configuración de su perfil.",

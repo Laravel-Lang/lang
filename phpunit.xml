@@ -1,18 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <phpunit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:noNamespaceSchemaLocation="https://schema.phpunit.de/10.3/phpunit.xsd"
-         backupGlobals="false"
+         xsi:noNamespaceSchemaLocation="vendor/phpunit/phpunit/phpunit.xsd"
          bootstrap="vendor/autoload.php"
+         cacheResult="false"
          colors="true"
-         processIsolation="false"
-         stopOnError="false"
-         stopOnFailure="false"
-         cacheDirectory=".phpunit.cache"
-         backupStaticProperties="false"
 >
+    <coverage>
+        <report>
+            <clover outputFile="build/logs/clover.xml" />
+            <html outputDirectory="build/logs/coverage" />
+            <text outputFile="build/logs/coverage.txt" />
+        </report>
+    </coverage>
+    <php>
+        <env name="APP_KEY" value="AckfSECXIvnK5r28GVIWUAxmbBSjTsmF" />
+    </php>
     <testsuites>
         <testsuite name="Test Suite">
-            <directory suffix="Test.php">./tests</directory>
+            <directory>./tests</directory>
         </testsuite>
     </testsuites>
+    <source>
+        <include>
+            <directory>./src</directory>
+        </include>
+    </source>
 </phpunit>

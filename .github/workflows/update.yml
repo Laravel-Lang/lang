@@ -67,9 +67,11 @@ jobs:
 
             -   name: Generate docs trigger
                 uses: myrotvorets/trigger-repository-dispatch-action@v2.0.0
-                if: success() &&
+                if: |
+                    success() && (
                     steps.keys.outputs.is_dirty == 1 ||
                     steps.status.outputs.is_dirty == 1
+                    )
                 with:
                     token: ${{ secrets.COMPOSER_TOKEN }}
                     repo: Laravel-Lang/common

@@ -43,7 +43,7 @@ jobs:
 
                     { git add . && git commit -a -m "🔑 Updated keys"; } || IS_DIRTY=0
 
-                    echo ::set-output name=is_dirty::${IS_DIRTY}
+                    echo "is_dirty=${IS_DIRTY}" >> "$GITHUB_OUTPUT"
 
             -   name: Update status
                 id: status
@@ -55,7 +55,7 @@ jobs:
 
                     { git add . && git commit -a -m "📃 Updated status of translations"; } || IS_DIRTY=0
 
-                    echo ::set-output name=is_dirty::${IS_DIRTY}
+                    echo "is_dirty=${IS_DIRTY}" >> "$GITHUB_OUTPUT"
 
             -   name: Push changes
                 uses: ad-m/github-push-action@master

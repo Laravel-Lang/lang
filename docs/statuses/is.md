@@ -4,12 +4,12 @@ editLink: false
 
 # is
 
-##### All missed: 58
+##### All missed: 60
 
 
 ### json
 
-##### Missing: 57
+##### Missing: 59
 
 <table width="100%">
 <tr><th width="50%">
@@ -113,6 +113,15 @@ District of Columbia
 </td></tr>
 <tr><td width="50%">
 
+Failed Subscription Payment
+
+</td><td width="50%">
+
+Failed Subscription Payment
+
+</td></tr>
+<tr><td width="50%">
+
 Hawaii
 
 </td><td width="50%">
@@ -523,6 +532,15 @@ Wyoming
 </td><td width="50%">
 
 Wyoming
+
+</td></tr>
+<tr><td width="50%">
+
+Your last payment of :amount on :date failed. Please update your payment method to retry the failed payment.
+
+</td><td width="50%">
+
+Your last payment of :amount on :date failed. Please update your payment method to retry the failed payment.
 
 </td></tr>
 <tr><td width="50%">

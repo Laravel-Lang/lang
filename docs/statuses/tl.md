@@ -4,12 +4,12 @@ editLink: false
 
 # tl
 
-##### All missed: 207
+##### All missed: 209
 
 
 ### json
 
-##### Missing: 206
+##### Missing: 208
 
 <table width="100%">
 <tr><th width="50%">
@@ -460,6 +460,15 @@ Expiration
 </td><td width="50%">
 
 Expiration
+
+</td></tr>
+<tr><td width="50%">
+
+Failed Subscription Payment
+
+</td><td width="50%">
+
+Failed Subscription Payment
 
 </td></tr>
 <tr><td width="50%">
@@ -1828,6 +1837,15 @@ Wyoming
 </td><td width="50%">
 
 Wyoming
+
+</td></tr>
+<tr><td width="50%">
+
+Your last payment of :amount on :date failed. Please update your payment method to retry the failed payment.
+
+</td><td width="50%">
+
+Your last payment of :amount on :date failed. Please update your payment method to retry the failed payment.
 
 </td></tr>
 <tr><td width="50%">

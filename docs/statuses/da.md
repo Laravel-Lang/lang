@@ -4,12 +4,12 @@ editLink: false
 
 # da
 
-##### All missed: 198
+##### All missed: 200
 
 
 ### json
 
-##### Missing: 196
+##### Missing: 198
 
 <table width="100%">
 <tr><th width="50%">
@@ -433,6 +433,15 @@ Eritrea
 </td><td width="50%">
 
 Eritrea
+
+</td></tr>
+<tr><td width="50%">
+
+Failed Subscription Payment
+
+</td><td width="50%">
+
+Failed Subscription Payment
 
 </td></tr>
 <tr><td width="50%">
@@ -1756,6 +1765,15 @@ Yemen
 </td><td width="50%">
 
 Yemen
+
+</td></tr>
+<tr><td width="50%">
+
+Your last payment of :amount on :date failed. Please update your payment method to retry the failed payment.
+
+</td><td width="50%">
+
+Your last payment of :amount on :date failed. Please update your payment method to retry the failed payment.
 
 </td></tr>
 <tr><td width="50%">

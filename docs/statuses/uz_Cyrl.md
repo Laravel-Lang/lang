@@ -4,12 +4,12 @@ editLink: false
 
 # uz_Cyrl
 
-##### All missed: 55
+##### All missed: 57
 
 
 ### json
 
-##### Missing: 54
+##### Missing: 56
 
 <table width="100%">
 <tr><th width="50%">
@@ -140,6 +140,15 @@ Chad
 </td></tr>
 <tr><td width="50%">
 
+Failed Subscription Payment
+
+</td><td width="50%">
+
+Failed Subscription Payment
+
+</td></tr>
+<tr><td width="50%">
+
 Florida
 
 </td><td width="50%">
@@ -496,6 +505,15 @@ Vermont
 </td><td width="50%">
 
 Vermont
+
+</td></tr>
+<tr><td width="50%">
+
+Your last payment of :amount on :date failed. Please update your payment method to retry the failed payment.
+
+</td><td width="50%">
+
+Your last payment of :amount on :date failed. Please update your payment method to retry the failed payment.
 
 </td></tr>
 <tr><td width="50%">

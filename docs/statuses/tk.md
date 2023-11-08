@@ -4,12 +4,12 @@ editLink: false
 
 # tk
 
-##### All missed: 74
+##### All missed: 72
 
 
 ### json
 
-##### Missing: 74
+##### Missing: 72
 
 <table width="100%">
 <tr><th width="50%">
@@ -208,15 +208,6 @@ Curaçao
 </td><td width="50%">
 
 Curaçao
-
-</td></tr>
-<tr><td width="50%">
-
-Failed Subscription Payment
-
-</td><td width="50%">
-
-Failed Subscription Payment
 
 </td></tr>
 <tr><td width="50%">
@@ -667,15 +658,6 @@ Uganda
 </td><td width="50%">
 
 Uganda
-
-</td></tr>
-<tr><td width="50%">
-
-Your last payment of :amount on :date failed. Please update your payment method to retry the failed payment.
-
-</td><td width="50%">
-
-Your last payment of :amount on :date failed. Please update your payment method to retry the failed payment.
 
 </td></tr>
 <tr><td width="50%">

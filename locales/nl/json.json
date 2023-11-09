@@ -1104,7 +1104,7 @@
     "Your current plan doesn't allow you to invite more members, please upgrade your subscription.": "Met je huidige abonnement kun je niet meer leden uitnodigen. Upgrade je abonnement.",
     "Your Email Address": "Jouw e-mailadres",
     "Your email address is unverified.": "Je e-mailadres is niet geverifieerd.",
-    "Your last payment of :amount on :date failed. Please update your payment method to retry the failed payment.": "Je laatste betaling van :amount op :date is mislukt. Update je betaalmethode om de betaling opnieuw te proberen.",
+    "Your last payment of :amount on :date failed. Please update your payment method to retry the failed payment.": "Je laatste betaling van :amount op :date is mislukt. Update je betaalmethode om de mislukte betaling opnieuw te proberen.",
     "Your next payment of :amount will be processed on :date.": "Je volgende betaling van :amount is op :date.",
     "Your password has been updated!": "Je wachtwoord is geüpdatet!",
     "Your payment method could not be updated.": "Je betaalmethode kan niet worden bijgewerkt.",

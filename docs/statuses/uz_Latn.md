@@ -4,7 +4,7 @@ editLink: false
 
 # uz_Latn
 
-##### All missed: 723
+##### All missed: 731
 
 
 ### json-inline
@@ -5791,7 +5791,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 25
+##### Missing: 29
 
 <table width="100%">
 <tr><th width="50%">
@@ -5985,6 +5985,42 @@ The given field has appeared in a data leak. Please choose a different field.
 </td></tr>
 <tr><td width="50%">
 
+present_if
+
+</td><td width="50%">
+
+This field must be present when :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+present_unless
+
+</td><td width="50%">
+
+This field must be present unless :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+present_with
+
+</td><td width="50%">
+
+This field must be present when :values is present.
+
+</td></tr>
+<tr><td width="50%">
+
+present_with_all
+
+</td><td width="50%">
+
+This field must be present when :values are present.
+
+</td></tr>
+<tr><td width="50%">
+
 prohibits
 
 </td><td width="50%">
@@ -6036,7 +6072,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 60
+##### Missing: 64
 
 <table width="100%">
 <tr><th width="50%">
@@ -6316,6 +6352,42 @@ please_upgrade_to_create_more_teams
 </td><td width="50%">
 
 Please upgrade your subscription to create more teams.
+
+</td></tr>
+<tr><td width="50%">
+
+present_if
+
+</td><td width="50%">
+
+The :attribute field must be present when :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+present_unless
+
+</td><td width="50%">
+
+The :attribute field must be present unless :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+present_with
+
+</td><td width="50%">
+
+The :attribute field must be present when :values is present.
+
+</td></tr>
+<tr><td width="50%">
+
+present_with_all
+
+</td><td width="50%">
+
+The :attribute field must be present when :values are present.
 
 </td></tr>
 <tr><td width="50%">

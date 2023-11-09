@@ -4,7 +4,7 @@ editLink: false
 
 # sc
 
-##### All missed: 1258
+##### All missed: 1266
 
 
 ### json-inline
@@ -10086,7 +10086,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 41
+##### Missing: 45
 
 <table width="100%">
 <tr><th width="50%">
@@ -10334,6 +10334,42 @@ This field must be present.
 </td></tr>
 <tr><td width="50%">
 
+present_if
+
+</td><td width="50%">
+
+This field must be present when :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+present_unless
+
+</td><td width="50%">
+
+This field must be present unless :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+present_with
+
+</td><td width="50%">
+
+This field must be present when :values is present.
+
+</td></tr>
+<tr><td width="50%">
+
+present_with_all
+
+</td><td width="50%">
+
+This field must be present when :values are present.
+
+</td></tr>
+<tr><td width="50%">
+
 prohibited
 
 </td><td width="50%">
@@ -10475,7 +10511,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 102
+##### Missing: 106
 
 <table width="100%">
 <tr><th width="50%">
@@ -11043,6 +11079,42 @@ present
 </td><td width="50%">
 
 The :attribute field must be present.
+
+</td></tr>
+<tr><td width="50%">
+
+present_if
+
+</td><td width="50%">
+
+The :attribute field must be present when :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+present_unless
+
+</td><td width="50%">
+
+The :attribute field must be present unless :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+present_with
+
+</td><td width="50%">
+
+The :attribute field must be present when :values is present.
+
+</td></tr>
+<tr><td width="50%">
+
+present_with_all
+
+</td><td width="50%">
+
+The :attribute field must be present when :values are present.
 
 </td></tr>
 <tr><td width="50%">

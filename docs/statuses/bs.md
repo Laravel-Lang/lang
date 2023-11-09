@@ -4,12 +4,12 @@ editLink: false
 
 # bs
 
-##### All missed: 78
+##### All missed: 87
 
 
 ### json
 
-##### Missing: 76
+##### Missing: 77
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,6 +21,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+:trialDays Day Trial
+
+</td><td width="50%">
+
+:trialDays Day Trial
+
+</td></tr>
 <tr><td width="50%">
 
 Alabama
@@ -711,9 +720,9 @@ Yukon
 
 
 
-### php
+### php-inline
 
-##### Missing: 2
+##### Missing: 4
 
 <table width="100%">
 <tr><th width="50%">
@@ -725,6 +734,98 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+present_if
+
+</td><td width="50%">
+
+This field must be present when :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+present_unless
+
+</td><td width="50%">
+
+This field must be present unless :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+present_with
+
+</td><td width="50%">
+
+This field must be present when :values is present.
+
+</td></tr>
+<tr><td width="50%">
+
+present_with_all
+
+</td><td width="50%">
+
+This field must be present when :values are present.
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php
+
+##### Missing: 6
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+present_if
+
+</td><td width="50%">
+
+The :attribute field must be present when :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+present_unless
+
+</td><td width="50%">
+
+The :attribute field must be present unless :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+present_with
+
+</td><td width="50%">
+
+The :attribute field must be present when :values is present.
+
+</td></tr>
+<tr><td width="50%">
+
+present_with_all
+
+</td><td width="50%">
+
+The :attribute field must be present when :values are present.
+
+</td></tr>
 <tr><td width="50%">
 
 team_billing

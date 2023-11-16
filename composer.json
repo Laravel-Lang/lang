@@ -21,10 +21,10 @@
     "require": {
         "php": "^8.1",
         "ext-json": "*",
-        "laravel-lang/publisher": "^14.0"
+        "laravel-lang/publisher": "^14.0 || ^15.0"
     },
     "require-dev": {
-        "laravel-lang/status-generator": "^1.19",
+        "laravel-lang/status-generator": "^1.19 || ^2.0",
         "phpunit/phpunit": "^10.0",
         "symfony/var-dumper": "^6.0"
     },
@@ -32,21 +32,21 @@
     "prefer-stable": true,
     "autoload": {
         "psr-4": {
-            "LaravelLang\\Lang\\": "src"
+            "LaravelLang\\Lang\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Tests\\": "tests"
+            "Tests\\": "tests/"
         }
     },
     "config": {
         "allow-plugins": {
             "composer/package-versions-deprecated": true,
-            "ergebnis/composer-normalize": true,
             "dragon-code/codestyler": true,
-            "symfony/thanks": true,
-            "php-http/discovery": true
+            "ergebnis/composer-normalize": true,
+            "php-http/discovery": true,
+            "symfony/thanks": true
         },
         "preferred-install": "dist",
         "sort-packages": true

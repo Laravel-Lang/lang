@@ -4,7 +4,7 @@ editLink: false
 
 # sr_Latn
 
-##### All missed: 641
+##### All missed: 652
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 542
+##### Missing: 545
 
 <table width="100%">
 <tr><th width="50%">
@@ -192,6 +192,15 @@ Value
 </td><td width="50%">
 
 365 Days
+
+</td></tr>
+<tr><td width="50%">
+
+:trialDays Day Trial
+
+</td><td width="50%">
+
+:trialDays Day Trial
 
 </td></tr>
 <tr><td width="50%">
@@ -1362,6 +1371,15 @@ Extra Billing Information
 </td><td width="50%">
 
 Extra Billing Information
+
+</td></tr>
+<tr><td width="50%">
+
+Failed Subscription Payment
+
+</td><td width="50%">
+
+Failed Subscription Payment
 
 </td></tr>
 <tr><td width="50%">
@@ -4858,6 +4876,15 @@ Your email address is unverified.
 </td></tr>
 <tr><td width="50%">
 
+Your last payment of :amount on :date failed. Please update your payment method to retry the failed payment.
+
+</td><td width="50%">
+
+Your last payment of :amount on :date failed. Please update your payment method to retry the failed payment.
+
+</td></tr>
+<tr><td width="50%">
+
 Your next payment of :amount will be processed on :date.
 
 </td><td width="50%">
@@ -5053,7 +5080,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 25
+##### Missing: 29
 
 <table width="100%">
 <tr><th width="50%">
@@ -5247,6 +5274,42 @@ The given field has appeared in a data leak. Please choose a different field.
 </td></tr>
 <tr><td width="50%">
 
+present_if
+
+</td><td width="50%">
+
+This field must be present when :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+present_unless
+
+</td><td width="50%">
+
+This field must be present unless :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+present_with
+
+</td><td width="50%">
+
+This field must be present when :values is present.
+
+</td></tr>
+<tr><td width="50%">
+
+present_with_all
+
+</td><td width="50%">
+
+This field must be present when :values are present.
+
+</td></tr>
+<tr><td width="50%">
+
 prohibits
 
 </td><td width="50%">
@@ -5298,7 +5361,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 60
+##### Missing: 64
 
 <table width="100%">
 <tr><th width="50%">
@@ -5578,6 +5641,42 @@ please_upgrade_to_create_more_teams
 </td><td width="50%">
 
 Please upgrade your subscription to create more teams.
+
+</td></tr>
+<tr><td width="50%">
+
+present_if
+
+</td><td width="50%">
+
+The :attribute field must be present when :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+present_unless
+
+</td><td width="50%">
+
+The :attribute field must be present unless :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+present_with
+
+</td><td width="50%">
+
+The :attribute field must be present when :values is present.
+
+</td></tr>
+<tr><td width="50%">
+
+present_with_all
+
+</td><td width="50%">
+
+The :attribute field must be present when :values are present.
 
 </td></tr>
 <tr><td width="50%">

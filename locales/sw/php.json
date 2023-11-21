@@ -57,7 +57,7 @@
     "gte.file": ":Attribute inapaswa kuwa kubwa au sawa na kilobaiti :value.",
     "gte.numeric": ":Attribute inapaswa kuwa kubwa kuliko au sawa na :value.",
     "gte.string": ":Attribute inapaswa kuwa kubwa kuliko au sawa na herufi :value.",
-    "hex_color": "The :attribute field must be a valid hexadecimal color.",
+    "hex_color": "Sehemu ya :attribute lazima iwe rangi halali ya heksadesimali.",
     "if_you_delete_team_all_data_will_be_deleted": "Ukichagua kufuta timu data yote itafutwa kabisa.",
     "image": "Kipengele lazima kiwe picha.",
     "in": "Kipengele kilichochaguliwa si halali.",

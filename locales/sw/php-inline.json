@@ -47,7 +47,7 @@
     "gte.file": "Saizi ya faili lazima iwe kubwa kuliko au sawa na :value kilobaiti.",
     "gte.numeric": "Thamani lazima iwe kubwa kuliko au sawa na :value.",
     "gte.string": "Mfuatano lazima uwe mkubwa kuliko au sawa na vibambo :value.",
-    "hex_color": "This field must be a valid hexadecimal color.",
+    "hex_color": "Sehemu hii lazima iwe rangi halali ya heksadesimali.",
     "image": "Hii ni lazima kuwa picha.",
     "in": "Kuchaguliwa thamani ni batili.",
     "in_array": "Thamani hii haipo katika :other.",

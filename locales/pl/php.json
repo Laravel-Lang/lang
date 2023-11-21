@@ -57,7 +57,7 @@
     "gte.file": "Pole :attribute musi być większe lub równe :value kilobajtów.",
     "gte.numeric": "Pole :attribute musi być większe lub równe :value.",
     "gte.string": "Pole :attribute musi być dłuższe lub równe :value znaków.",
-    "hex_color": "The :attribute field must be a valid hexadecimal color.",
+    "hex_color": "Pole :attribute musi mieć podany prawidłowy kolor w formacie szesnastkowym.",
     "if_you_delete_team_all_data_will_be_deleted": "Jeśli zdecydujesz się usunąć zespół, wszystkie dane zostaną trwale usunięte.",
     "image": "Pole :attribute musi być obrazkiem.",
     "in": "Zaznaczony element :attribute jest nieprawidłowy.",

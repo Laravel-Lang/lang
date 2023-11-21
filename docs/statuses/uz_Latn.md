@@ -4,7 +4,7 @@ editLink: false
 
 # uz_Latn
 
-##### All missed: 731
+##### All missed: 733
 
 
 ### json-inline
@@ -5791,7 +5791,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 29
+##### Missing: 30
 
 <table width="100%">
 <tr><th width="50%">
@@ -5864,6 +5864,15 @@ doesnt_start_with
 </td><td width="50%">
 
 This field must not start with one of the following: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+hex_color
+
+</td><td width="50%">
+
+This field must be a valid hexadecimal color.
 
 </td></tr>
 <tr><td width="50%">
@@ -6072,7 +6081,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 64
+##### Missing: 65
 
 <table width="100%">
 <tr><th width="50%">
@@ -6217,6 +6226,15 @@ enum
 </td><td width="50%">
 
 The selected :attribute is invalid.
+
+</td></tr>
+<tr><td width="50%">
+
+hex_color
+
+</td><td width="50%">
+
+The :attribute field must be a valid hexadecimal color.
 
 </td></tr>
 <tr><td width="50%">

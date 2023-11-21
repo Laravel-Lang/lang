@@ -57,6 +57,7 @@
     "gte.file": "Ang :attribute ay dapat na mas malaki sa o katumbas ng :value (na) kilobyte.",
     "gte.numeric": "Ang :attribute ay dapat na mas malaki sa o katumbas ng :value.",
     "gte.string": "Ang :attribute ay dapat na mas marami sa o katumbas ng :value (na) character.",
+    "hex_color": "The :attribute field must be a valid hexadecimal color.",
     "if_you_delete_team_all_data_will_be_deleted": "Kung pipiliin mong tanggalin ang koponan ang lahat ng data ay permanenteng tatanggalin.",
     "image": "Dapat na isang larawan ang :attribute.",
     "in": "Hindi valid ang piniling :attribute.",

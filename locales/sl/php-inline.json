@@ -47,6 +47,7 @@
     "gte.file": "Velikost datoteke mora biti najmanj :value kilobajtov.",
     "gte.numeric": "Vrednost mora biti najmanj :value.",
     "gte.string": "Vnos mora biti dolg najmanj :value znakov.",
+    "hex_color": "This field must be a valid hexadecimal color.",
     "image": "To polje mora biti slika.",
     "in": "Izbrana vrednost ni veljavna.",
     "in_array": "Izbrana vrednost ne obstaja v :other.",

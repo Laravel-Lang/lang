@@ -57,6 +57,7 @@
     "gte.file": ":Attribute ត្រូវតែធំជាងឬស្មើ :value គីឡូបៃ។",
     "gte.numeric": ":Attribute ត្រូវតែធំជាងឬស្មើ :value។",
     "gte.string": ":Attribute ត្រូវតែធំជាងឬស្មើ :value តួអក្សរ។",
+    "hex_color": "The :attribute field must be a valid hexadecimal color.",
     "if_you_delete_team_all_data_will_be_deleted": "ប្រសិនបើអ្នកជ្រើសរើសលុបក្រុម ទិន្នន័យទាំងអស់នឹងត្រូវបានលុបជាអចិន្ត្រៃយ៍។",
     "image": ":Attribute ត្រូវតៃជារូបភាព។",
     "in": "ការជ្រើសរើស :attribute មិនត្រឹមត្រូវ។",

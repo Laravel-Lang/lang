@@ -47,6 +47,7 @@
     "gte.file": "Tento soubor musí mít alespoň :value nebo více kilobytů.",
     "gte.numeric": "Tato hodnota musí být alespoň :value nebo více.",
     "gte.string": "Toto pole musí mít alespoň :value nebo více znaků.",
+    "hex_color": "This field must be a valid hexadecimal color.",
     "image": "To musí být obraz.",
     "in": "Vybraná hodnota je neplatná.",
     "in_array": "Tato hodnota neexistuje v roce :other.",

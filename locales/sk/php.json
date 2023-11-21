@@ -57,6 +57,7 @@
     "gte.file": ":Attribute musí mať rovnaký alebo väčší počet kilobajtov ako :value.",
     "gte.numeric": "Hodnota :attribute musí byť väčšia alebo rovná ako :value.",
     "gte.string": ":Attribute musí mať rovnaký alebo väčší počet znakov ako :value.",
+    "hex_color": "The :attribute field must be a valid hexadecimal color.",
     "if_you_delete_team_all_data_will_be_deleted": "Ak sa rozhodnete odstrániť tím, všetky údaje budú natrvalo odstránené.",
     "image": ":Attribute musí byť obrázok.",
     "in": "označený :attribute je neplatný.",

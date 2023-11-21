@@ -57,6 +57,7 @@
     "gte.file": "Поле :attribute має дорівнювати чи бути більше ніж :value кілобайт.",
     "gte.numeric": "Поле :attribute має дорівнювати чи бути більше ніж :value.",
     "gte.string": "Поле :attribute має дорівнювати чи бути більше ніж :value символів.",
+    "hex_color": "The :attribute field must be a valid hexadecimal color.",
     "if_you_delete_team_all_data_will_be_deleted": "Якщо ви вирішите видалити команду, усі дані буде остаточно видалено.",
     "image": "Поле :attribute має містити зображення.",
     "in": "Вибране для :attribute значення не коректне.",

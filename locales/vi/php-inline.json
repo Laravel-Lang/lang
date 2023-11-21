@@ -47,6 +47,7 @@
     "gte.file": "Dung lượng trường này phải lớn hơn hoặc bằng :value kilobytes.",
     "gte.numeric": "Giá trị trường này phải lớn hơn hoặc bằng :value.",
     "gte.string": "Độ dài trường này phải lớn hơn hoặc bằng :value kí tự.",
+    "hex_color": "This field must be a valid hexadecimal color.",
     "image": "Trường này phải là định dạng hình ảnh.",
     "in": "Giá trị đã chọn trong trường này không hợp lệ.",
     "in_array": "Trường này phải thuộc tập cho phép: :other.",

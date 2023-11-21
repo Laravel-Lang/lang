@@ -57,6 +57,7 @@
     "gte.file": "ಈ  :attribute ನಲ್ಲಿ  :value ಕಿಲೋಬೈಟ್ಗಳಿಗಿಂತ  ಹೆಚ್ಚು ಅಥವಾ ಸಮನಾಗಿರಬೇಕು.",
     "gte.numeric": "ಈ  :attribute ನಲ್ಲಿ   :value  ಹೆಚ್ಚು ಅಥವಾ ಸಮನಾಗಿರಬೇಕು.",
     "gte.string": "ಈ  :attribute ನಲ್ಲಿ   :value ಅಕ್ಷರಗಳಿಗಿಂತ  ಹೆಚ್ಚು ಅಥವಾ ಸಮನಾಗಿರಬೇಕು.",
+    "hex_color": "The :attribute field must be a valid hexadecimal color.",
     "if_you_delete_team_all_data_will_be_deleted": "ನೀವು ತಂಡವನ್ನು ಅಳಿಸಲು ಆಯ್ಕೆ ಮಾಡಿದರೆ ಎಲ್ಲಾ ಡೇಟಾವನ್ನು ಶಾಶ್ವತವಾಗಿ ಅಳಿಸಲಾಗುತ್ತದೆ.",
     "image": "ಈ  :attribute ಒಂದು ಚಿತ್ರವಾಗಿರಬೇಕು.",
     "in": "ಈ  ಆಯ್ಕೆಮಾಡಲಾದ :attribute ಅಮಾನ್ಯವಾಗಿದೆ.",

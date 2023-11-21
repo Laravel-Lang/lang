@@ -57,6 +57,7 @@
     "gte.file": "يجب أن يكون حجم ملف حقل :attribute على الأقل :value كيلوبايت.",
     "gte.numeric": "يجب أن تكون قيمة حقل :attribute مساوية أو أكبر من :value.",
     "gte.string": "يجب أن يكون طول نص حقل :attribute على الأقل :value حروفٍ/حرفًا.",
+    "hex_color": "The :attribute field must be a valid hexadecimal color.",
     "if_you_delete_team_all_data_will_be_deleted": "إذا اخترت حذف الفريق، فسيتم حذف جميع البيانات بشكل دائم.",
     "image": "يجب أن يكون حقل :attribute صورةً.",
     "in": "حقل :attribute غير موجود.",

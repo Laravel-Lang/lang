@@ -57,6 +57,7 @@
     "gte.file": ":Attribute :value kilobaýtdan uly ýa-da deň bolmaly.",
     "gte.numeric": ":Attribute :value-den uly ýa-da deň bolmaly.",
     "gte.string": ":Attribute :value simwoldan uly ýa-da deň bolmaly.",
+    "hex_color": "The :attribute field must be a valid hexadecimal color.",
     "if_you_delete_team_all_data_will_be_deleted": "Topary pozmagy saýlasaňyz, ähli maglumatlar hemişelik ýok ediler.",
     "image": ":Attribute surat bolmalydyr.",
     "in": ":Attribute mukdary ýalňyş.",

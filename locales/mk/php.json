@@ -57,6 +57,7 @@
     "gte.file": "Полето :attribute мора да биде датотека поголема или еднаква на :value килобајти.",
     "gte.numeric": "Полето :attribute мора да биде број поголем или еднаков на :value.",
     "gte.string": "Полето :attribute мора да биде текст со повеќе или еднаков на :value број на карактери.",
+    "hex_color": "The :attribute field must be a valid hexadecimal color.",
     "if_you_delete_team_all_data_will_be_deleted": "Ако изберете да го избришете тимот, сите податоци ќе бидат трајно избришани.",
     "image": "Полето :attribute мора да биде слика.",
     "in": "Избраното поле :attribute е невалидно.",

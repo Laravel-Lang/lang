@@ -47,6 +47,7 @@
     "gte.file": "Dimensiunea fișierului trebuie să fie mai mare sau egală cu :value kilobiți.",
     "gte.numeric": "Valoarea trebuie să fie mai mare sau egală cu :value.",
     "gte.string": "Șirul trebuie să fie mai mare sau egal cu :value caractere.",
+    "hex_color": "This field must be a valid hexadecimal color.",
     "image": "Asta trebuie să fie o imagine.",
     "in": "Valoarea selectată este nevalidă.",
     "in_array": "Această valoare nu există în :other.",

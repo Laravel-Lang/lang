@@ -47,6 +47,7 @@
     "gte.file": "Die lêergrootte moet groter as of gelyk aan :value kilobytes wees.",
     "gte.numeric": "Die waarde moet groter as of gelyk aan :value wees.",
     "gte.string": "Die string moet groter as of gelyk aan :value karakters wees.",
+    "hex_color": "This field must be a valid hexadecimal color.",
     "image": "Dit moet 'n prent wees.",
     "in": "Die geselekteerde waarde is ongeldig.",
     "in_array": "Hierdie waarde bestaan nie in :other.",

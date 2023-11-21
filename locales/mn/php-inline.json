@@ -47,6 +47,7 @@
     "gte.file": "The file size must be greater than or equal :value kilobytes.",
     "gte.numeric": "The value must be greater than or equal :value.",
     "gte.string": "The string must be greater than or equal :value characters.",
+    "hex_color": "This field must be a valid hexadecimal color.",
     "image": "Энэ нь зураг байх естой.",
     "in": "Сонгосон утга буруу байна.",
     "in_array": "Энэ утга нь байхгүй байна :other.",

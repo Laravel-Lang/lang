@@ -57,6 +57,7 @@
     "gte.file": "A(z) :attribute mérete nem lehet kevesebb, mint :value kilobájt.",
     "gte.numeric": "A(z) :attribute nagyobb vagy egyenlő kell, hogy legyen, mint :value!",
     "gte.string": "A(z) :attribute hossza nem lehet kevesebb, mint :value karakter.",
+    "hex_color": "The :attribute field must be a valid hexadecimal color.",
     "if_you_delete_team_all_data_will_be_deleted": "Ha a csapat törlését választja, az összes adat véglegesen törlődik.",
     "image": "A(z) :attribute képfájl kell, hogy legyen!",
     "in": "A kiválasztott :attribute érvénytelen.",

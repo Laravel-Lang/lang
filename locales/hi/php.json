@@ -57,6 +57,7 @@
     "gte.file": ":Attribute :value किलोबाइट से अधिक या उसके बराबर होना चाहिए।",
     "gte.numeric": ":Attribute :value से अधिक या उसके बराबर होना चाहिए।",
     "gte.string": ":Attribute को :value वर्णों से अधिक या उसके बराबर होना चाहिए।",
+    "hex_color": "The :attribute field must be a valid hexadecimal color.",
     "if_you_delete_team_all_data_will_be_deleted": "यदि आप टीम को हटाना चुनते हैं तो सभी डेटा स्थायी रूप से हटा दिए जाएंगे।",
     "image": ":Attribute एक छवि होनी चाहिए ।",
     "in": "चुना गया :attribute अमान्य है ।",

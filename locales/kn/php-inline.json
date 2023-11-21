@@ -47,6 +47,7 @@
     "gte.file": "The file size must be greater than or equal :value kilobytes.",
     "gte.numeric": "The value must be greater than or equal :value.",
     "gte.string": "The string must be greater than or equal :value characters.",
+    "hex_color": "This field must be a valid hexadecimal color.",
     "image": "ಈ ಮಾಡಬೇಕು ಎಂದು ಒಂದು ಚಿತ್ರ.",
     "in": "ಆಯ್ಕೆ value is invalid.",
     "in_array": "ಈ ಮೌಲ್ಯವು ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ :other.",

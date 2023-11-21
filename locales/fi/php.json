@@ -57,6 +57,7 @@
     "gte.file": "Tiedoston :attribute tulee olla suurempi tai yhtäsuuri kuin :value kilotavua.",
     "gte.numeric": "Kentän :attribute arvo tulee olla suurempi tai yhtäsuuri kuin :value.",
     "gte.string": "Kentän :attribute arvo tulee olla pidempi tai yhtä pitkä kuin :value merkkiä.",
+    "hex_color": "The :attribute field must be a valid hexadecimal color.",
     "if_you_delete_team_all_data_will_be_deleted": "Jos päätät poistaa tiimin, kaikki tiedot poistetaan pysyvästi.",
     "image": "Kentän :attribute arvon tulee olla kuva.",
     "in": "Kentän :attribute arvo on virheellinen.",

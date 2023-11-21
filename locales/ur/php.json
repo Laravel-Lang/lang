@@ -57,6 +57,7 @@
     "gte.file": ":Attribute :value کلو بائٹس سے زیادہ یا اس کے برابر ہونا چاہیے۔",
     "gte.numeric": ":Attribute کو :value سے بڑا یا اس کے برابر ہونا چاہیے۔",
     "gte.string": ":Attribute کو :value حروف سے زیادہ یا اس کے برابر ہونا چاہیے۔",
+    "hex_color": "The :attribute field must be a valid hexadecimal color.",
     "if_you_delete_team_all_data_will_be_deleted": "اگر آپ ٹیم کو حذف کرنے کا انتخاب کرتے ہیں تو تمام ڈیٹا مستقل طور پر حذف ہو جائے گا۔",
     "image": ":Attribute لازماً کوئی تصویر ہو۔",
     "in": "منتخب :attribute قابلِ قبول نہیں ہے۔",

@@ -47,6 +47,7 @@
     "gte.file": "វាលនេះត្រូវតែធំជាងឬស្មើ :value គីឡូបៃ។",
     "gte.numeric": "វាលនេះត្រូវតែធំជាងឬស្មើ :value។",
     "gte.string": "វាលនេះត្រូវតែធំជាងឬស្មើ :value តួអក្សរ។",
+    "hex_color": "This field must be a valid hexadecimal color.",
     "image": "វាលនេះត្រូវតៃជារូបភាព។",
     "in": "ការជ្រើសរើស វាលនេះមិនត្រឹមត្រូវ។",
     "in_array": "វាលនេះត្រូវតែជាមួយក្នុងចំណោម :other។",

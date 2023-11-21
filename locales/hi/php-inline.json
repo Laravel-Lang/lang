@@ -47,6 +47,7 @@
     "gte.file": "The file size must be greater than or equal :value kilobytes.",
     "gte.numeric": "The value must be greater than or equal :value.",
     "gte.string": "The string must be greater than or equal :value characters.",
+    "hex_color": "This field must be a valid hexadecimal color.",
     "image": "यह एक छवि होनी चाहिए ।",
     "in": "चयनित मान अमान्य है ।",
     "in_array": "यह मान :other में मौजूद नहीं है ।",

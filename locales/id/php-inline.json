@@ -47,6 +47,7 @@
     "gte.file": "Ukuran konten harus berisi lebih besar dari atau setara :value kilobyte.",
     "gte.numeric": "Nilai harus berisi lebih besar dari atau setara :value.",
     "gte.string": "String harus berisi lebih besar dari atau setara :value karakter.",
+    "hex_color": "This field must be a valid hexadecimal color.",
     "image": "Isian ini harus berisi sebuah gambar.",
     "in": "Pilihan nilai tidak sesuai.",
     "in_array": "Nilai ini tidak ada di :other.",

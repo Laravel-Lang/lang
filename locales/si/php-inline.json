@@ -47,6 +47,7 @@
     "gte.file": "මෙම ක්ෂේත්‍රය කිලෝබයිට් :value ට වඩා වැඩි හෝ සමාන විය යුතුයි.",
     "gte.numeric": "මෙම ක්ෂේත්‍රය :value ට වඩා වැඩි හෝ සමාන විය යුතුයි.",
     "gte.string": "මෙම ක්ෂේත්‍රය අකුරු :value ට වඩා වැඩි හෝ සමාන විය යුතුයි.",
+    "hex_color": "This field must be a valid hexadecimal color.",
     "image": "මෙම විය යුතුය රූපයක්.",
     "in": "තෝරාගත් අගය සාවද්ය වේ.",
     "in_array": "මෙම අගය නොපවතියි :other.",

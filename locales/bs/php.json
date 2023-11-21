@@ -57,6 +57,7 @@
     "gte.file": "Polje :attribute mora imati veličinu veću ili jednaku :value kilobajta.",
     "gte.numeric": "Polje :attribute mora imati vrijednost veću ili jednaku :value.",
     "gte.string": "Polje :attribute mora sadržati :value znakova ili više.",
+    "hex_color": "The :attribute field must be a valid hexadecimal color.",
     "if_you_delete_team_all_data_will_be_deleted": "Ako odaberete brisanje tima svi podaci će biti trajno izbrisani.",
     "image": "Polje :attribute mora biti slika.",
     "in": "Odabrano polje :attribute nije validno.",

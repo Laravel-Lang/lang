@@ -57,6 +57,7 @@
     "gte.file": "El campo :attribute debe tener como mínimo :value kilobytes.",
     "gte.numeric": "El campo :attribute debe ser como mínimo :value.",
     "gte.string": "El campo :attribute debe tener como mínimo :value caracteres.",
+    "hex_color": "The :attribute field must be a valid hexadecimal color.",
     "if_you_delete_team_all_data_will_be_deleted": "Si usted elige borrar el equipo, todos los datos se eliminarán de manera permanente.",
     "image": "El campo :attribute debe ser una imagen.",
     "in": "El :attribute seleccionado no es válido.",

@@ -47,6 +47,7 @@
     "gte.file": "Dosya boyutu :value kilobayt'a eşit ya da daha büyük olmalıdır.",
     "gte.numeric": "Bu sayı :value sayısına eşit veya daha büyük olmalıdır.",
     "gte.string": "Bu metin :value veya daha uzun karakter olmalıdır.",
+    "hex_color": "This field must be a valid hexadecimal color.",
     "image": "Bu bir resim olmalıdır.",
     "in": "Seçili değer geçersiz.",
     "in_array": "Bu değer :other ögelerinin arasında yok.",

@@ -47,6 +47,7 @@
     "gte.file": "Saiz fail mesti melebihi atau bersamaan :value kilobait.",
     "gte.numeric": "Nilai mesti melebihi atau bersamaan :value.",
     "gte.string": "Rentetan mesti melebihi atau bersamaan :value aksara.",
+    "hex_color": "This field must be a valid hexadecimal color.",
     "image": "Nilai mesti imej.",
     "in": "Pilihan tidak sah.",
     "in_array": "Nilai tidak wujud di :other.",

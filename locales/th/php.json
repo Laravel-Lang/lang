@@ -57,6 +57,7 @@
     "gte.file": "ข้อมูล :attribute ต้องมีขนาดมากกว่าหรือเท่ากับ :value กิโลไบต์",
     "gte.numeric": "ข้อมูล :attribute ต้องมีค่ามากกว่าหรือเท่ากับ :value",
     "gte.string": "ข้อมูล :attribute ต้องมีความยาวตัวอักษรมากกว่าหรือเท่ากับ :value ตัวอักษร",
+    "hex_color": "The :attribute field must be a valid hexadecimal color.",
     "if_you_delete_team_all_data_will_be_deleted": "หากคุณเลือกที่จะลบทีม ข้อมูลทั้งหมดจะถูกลบอย่างถาวร",
     "image": "ข้อมูล :attribute ต้องเป็นรูปภาพ",
     "in": "ข้อมูลที่ถูกเลือกใน :attribute ไม่ถูกต้อง",

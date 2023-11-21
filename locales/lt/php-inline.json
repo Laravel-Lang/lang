@@ -47,6 +47,7 @@
     "gte.file": "Šis failas turi būti didesnis arba lygus :value kilobaitams.",
     "gte.numeric": "Šio lauko reikšmė turi būti didesnė arba lygi :value.",
     "gte.string": "Šio lauko reikšmė turi būti didesnė arba lygi :value simboliams.",
+    "hex_color": "This field must be a valid hexadecimal color.",
     "image": "Šio lauko reikšmė turi būti paveikslėlis.",
     "in": "Pasirinkta negaliojanti šio lauko reikšmė.",
     "in_array": "Ši reikšmė neegzistuoja :other lauke.",

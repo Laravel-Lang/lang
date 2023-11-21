@@ -57,6 +57,7 @@
     "gte.file": ":Attribute mesti melebihi atau bersamaan :value kilobait.",
     "gte.numeric": ":Attribute mesti melebihi atau bersamaan :value.",
     "gte.string": ":Attribute mesti melebihi atau bersamaan :value aksara.",
+    "hex_color": "The :attribute field must be a valid hexadecimal color.",
     "if_you_delete_team_all_data_will_be_deleted": "Jika anda memilih untuk memadam pasukan semua data akan dipadamkan secara kekal.",
     "image": ":Attribute mesti imej.",
     "in": ":Attribute tidak sah.",

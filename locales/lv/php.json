@@ -57,6 +57,7 @@
     "gte.file": ":Attribute jābūt lielākam vai vienādam ar :value kilobaitiem.",
     "gte.numeric": ":Attribute jābūt lielākam vai vienādam ar :value.",
     "gte.string": ":Attribute garumam jābūt lielākam vai vienādam ar :value rakstzīmēm.",
+    "hex_color": "The :attribute field must be a valid hexadecimal color.",
     "if_you_delete_team_all_data_will_be_deleted": "Ja izvēlaties dzēst komandu, visi dati tiks neatgriezeniski dzēsti.",
     "image": ":Attribute jābūt attēlam.",
     "in": "Izvēlētais :attribute ir nederīgs.",

@@ -47,6 +47,7 @@
     "gte.file": "এই ফাইল অবশ্যই :value কিলোবাইটের সমান বা বেশি হতে হবে।",
     "gte.numeric": "এর ভ্যালু অবশ্যই :value এর সমান বা বেশি হতে হবে।",
     "gte.string": "এটি অবশ্যই :value ক্যারেক্টারের সমান বা বেশি হতে হবে।",
+    "hex_color": "This field must be a valid hexadecimal color.",
     "image": "এটি একটি চিত্র হতে হবে।",
     "in": "নির্বাচিত মান অকার্যকর।",
     "in_array": "এই মান বিদ্যমান নেই :other।",

@@ -57,6 +57,7 @@
     "gte.file": ":Attribute უნდა იყოს მინიმუმ :value კილობაიტი.",
     "gte.numeric": ":Attribute უნდა იყოს მინიმუმ :value.",
     "gte.string": ":Attribute უნდა შეიცავდეს მინიმუმ :value სიმბოლოს.",
+    "hex_color": "The :attribute field must be a valid hexadecimal color.",
     "if_you_delete_team_all_data_will_be_deleted": "თუ გუნდის წაშლას აირჩევთ, ყველა მონაცემი სამუდამოდ წაიშლება.",
     "image": ":Attribute უნდა იყოს სურათი.",
     "in": "არჩეული :attribute არასწორია.",

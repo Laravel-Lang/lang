@@ -13,7 +13,7 @@ editLink: false
 
 </td><td width="12%">
 
-[ar&nbsp;❗](statuses/ar.md)
+[ar&nbsp;✔](statuses/ar.md)
 
 </td><td width="12%">
 
@@ -79,7 +79,7 @@ editLink: false
 
 </td><td width="12%">
 
-[fa&nbsp;❗](statuses/fa.md)
+[fa&nbsp;✔](statuses/fa.md)
 
 </td><td width="12%">
 
@@ -207,7 +207,7 @@ editLink: false
 </td></tr>
 <tr><td width="12%">
 
-[pl&nbsp;❗](statuses/pl.md)
+[pl&nbsp;✔](statuses/pl.md)
 
 </td><td width="12%">
 

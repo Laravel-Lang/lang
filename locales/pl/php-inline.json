@@ -47,6 +47,7 @@
     "gte.file": "Pole musi być większe lub równe :value kilobajtów.",
     "gte.numeric": "Pole musi być większe lub równe :value.",
     "gte.string": "Pole musi być dłuższe lub równe :value znaków.",
+    "hex_color": "This field must be a valid hexadecimal color.",
     "image": "Pole musi być obrazkiem.",
     "in": "Zaznaczony element jest nieprawidłowy.",
     "in_array": "Pole nie znajduje się w :other.",

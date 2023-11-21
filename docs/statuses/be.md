@@ -4,7 +4,7 @@ editLink: false
 
 # be
 
-##### All missed: 9
+##### All missed: 3
 
 
 ### json
@@ -38,7 +38,7 @@ API
 
 ### php-inline
 
-##### Missing: 4
+##### Missing: 1
 
 <table width="100%">
 <tr><th width="50%">
@@ -52,38 +52,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-present_if
+hex_color
 
 </td><td width="50%">
 
-This field must be present when :other is :value.
-
-</td></tr>
-<tr><td width="50%">
-
-present_unless
-
-</td><td width="50%">
-
-This field must be present unless :other is :value.
-
-</td></tr>
-<tr><td width="50%">
-
-present_with
-
-</td><td width="50%">
-
-This field must be present when :values is present.
-
-</td></tr>
-<tr><td width="50%">
-
-present_with_all
-
-</td><td width="50%">
-
-This field must be present when :values are present.
+This field must be a valid hexadecimal color.
 
 </td></tr>
 </table>
@@ -94,7 +67,7 @@ This field must be present when :values are present.
 
 ### php
 
-##### Missing: 4
+##### Missing: 1
 
 <table width="100%">
 <tr><th width="50%">
@@ -108,38 +81,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-present_if
+hex_color
 
 </td><td width="50%">
 
-The :attribute field must be present when :other is :value.
-
-</td></tr>
-<tr><td width="50%">
-
-present_unless
-
-</td><td width="50%">
-
-The :attribute field must be present unless :other is :value.
-
-</td></tr>
-<tr><td width="50%">
-
-present_with
-
-</td><td width="50%">
-
-The :attribute field must be present when :values is present.
-
-</td></tr>
-<tr><td width="50%">
-
-present_with_all
-
-</td><td width="50%">
-
-The :attribute field must be present when :values are present.
+The :attribute field must be a valid hexadecimal color.
 
 </td></tr>
 </table>

@@ -47,6 +47,7 @@
     "gte.file": "This field must be greater than or equal :value kilobytes.",
     "gte.numeric": "This field must be greater than or equal :value.",
     "gte.string": "This field must be greater than or equal :value characters.",
+    "hex_color": "This field must be a valid hexadecimal color.",
     "image": "This field must be an image.",
     "in": "The selected field is invalid.",
     "in_array": "This field does not exist in :other.",

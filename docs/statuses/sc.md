@@ -4,7 +4,7 @@ editLink: false
 
 # sc
 
-##### All missed: 1266
+##### All missed: 1268
 
 
 ### json-inline
@@ -10086,7 +10086,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 45
+##### Missing: 46
 
 <table width="100%">
 <tr><th width="50%">
@@ -10204,6 +10204,15 @@ doesnt_start_with
 </td><td width="50%">
 
 This field must not start with one of the following: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+hex_color
+
+</td><td width="50%">
+
+This field must be a valid hexadecimal color.
 
 </td></tr>
 <tr><td width="50%">
@@ -10511,7 +10520,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 106
+##### Missing: 107
 
 <table width="100%">
 <tr><th width="50%">
@@ -10809,6 +10818,15 @@ gte.string
 </td><td width="50%">
 
 The :attribute must be greater than or equal :value characters.
+
+</td></tr>
+<tr><td width="50%">
+
+hex_color
+
+</td><td width="50%">
+
+The :attribute field must be a valid hexadecimal color.
 
 </td></tr>
 <tr><td width="50%">

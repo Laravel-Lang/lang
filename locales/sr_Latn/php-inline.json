@@ -47,6 +47,7 @@
     "gte.file": "Veličina fajla mora da bude veća ili jednaka od :value kilobajta.",
     "gte.numeric": "Vrednost mora da bude veća ili jednaka od :value.",
     "gte.string": "Rečenica mora sadrati više ili jednako broju :value slova.",
+    "hex_color": "This field must be a valid hexadecimal color.",
     "image": "Ovo mora biti slika.",
     "in": "Izabrana vrednost nije validna.",
     "in_array": "Ova vrednost ne postoji u :other.",

@@ -47,6 +47,7 @@
     "gte.file": "La talha del fichièr deu èsser superiora o egala a :value kilo-octets.",
     "gte.numeric": "La valor deu èsser superiora o egala a :value.",
     "gte.string": "Lo tèxt deu conténer almens :value caractèrs.",
+    "hex_color": "This field must be a valid hexadecimal color.",
     "image": "Aqueste camp deu èsser un imatge.",
     "in": "Aqueste camp es invalid.",
     "in_array": "Aqueste camp existís pas dins :other.",

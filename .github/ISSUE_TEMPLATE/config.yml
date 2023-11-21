@@ -4,7 +4,7 @@ contact_links:
         url: https://github.com/Laravel-Lang/common/issues/new?assignees=andrey-helldar&labels=bug%2Clang&template=bug_report.yml&title=%5BBug%5D%3A+&environment-package-name=laravel-lang%2Flang
         about: Report a bug or other issue
     -   name: Feature Request
-        url: https://github.com/Laravel-Lang/common/issues/new?labels=feature%2Chttp-statuses&projects=&template=feature_request.yml
+        url: https://github.com/Laravel-Lang/common/issues/new?labels=feature%2Clang&projects=&template=feature_request.yml
         about: Propose a new feature
     -   name: Questions & Other
         url: https://github.com/Laravel-Lang/common/discussions

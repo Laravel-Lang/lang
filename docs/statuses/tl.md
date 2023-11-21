@@ -4,7 +4,7 @@ editLink: false
 
 # tl
 
-##### All missed: 215
+##### All missed: 209
 
 
 ### json
@@ -1883,7 +1883,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 4
+##### Missing: 1
 
 <table width="100%">
 <tr><th width="50%">
@@ -1897,38 +1897,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-present_if
+hex_color
 
 </td><td width="50%">
 
-This field must be present when :other is :value.
-
-</td></tr>
-<tr><td width="50%">
-
-present_unless
-
-</td><td width="50%">
-
-This field must be present unless :other is :value.
-
-</td></tr>
-<tr><td width="50%">
-
-present_with
-
-</td><td width="50%">
-
-This field must be present when :values is present.
-
-</td></tr>
-<tr><td width="50%">
-
-present_with_all
-
-</td><td width="50%">
-
-This field must be present when :values are present.
+This field must be a valid hexadecimal color.
 
 </td></tr>
 </table>
@@ -1939,7 +1912,7 @@ This field must be present when :values are present.
 
 ### php
 
-##### Missing: 5
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -1953,38 +1926,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-present_if
+hex_color
 
 </td><td width="50%">
 
-The :attribute field must be present when :other is :value.
-
-</td></tr>
-<tr><td width="50%">
-
-present_unless
-
-</td><td width="50%">
-
-The :attribute field must be present unless :other is :value.
-
-</td></tr>
-<tr><td width="50%">
-
-present_with
-
-</td><td width="50%">
-
-The :attribute field must be present when :values is present.
-
-</td></tr>
-<tr><td width="50%">
-
-present_with_all
-
-</td><td width="50%">
-
-The :attribute field must be present when :values are present.
+The :attribute field must be a valid hexadecimal color.
 
 </td></tr>
 <tr><td width="50%">

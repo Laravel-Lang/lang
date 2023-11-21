@@ -57,7 +57,7 @@
     "gte.file": "Размер файла, указанный в поле :attribute, должен быть :value Кб или больше.",
     "gte.numeric": "Значение поля :attribute должно быть :value или больше.",
     "gte.string": "Количество символов в поле :attribute должно быть :value или больше.",
-    "hex_color": "The :attribute field must be a valid hexadecimal color.",
+    "hex_color": "Значение поля :attribute должно быть корректным цветом в HEX формате.",
     "if_you_delete_team_all_data_will_be_deleted": "Если Вы решите удалить команду, все данные будут безвозвратно удалены.",
     "image": "Файл, указанный в поле :attribute, должен быть изображением.",
     "in": "Значение поля :attribute некорректно.",

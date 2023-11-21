@@ -47,7 +47,7 @@
     "gte.file": "Het bestand moet groter of gelijk zijn aan :value kilobytes.",
     "gte.numeric": "De waarde moet groter of gelijk zijn aan :value.",
     "gte.string": "De waarde moet minimaal :value tekens bevatten.",
-    "hex_color": "This field must be a valid hexadecimal color.",
+    "hex_color": "Dit veld moet een geldige hexadecimale kleurcode zijn.",
     "image": "Dit veld moet een afbeelding zijn.",
     "in": "De geselecteerde waarde is ongeldig.",
     "in_array": "Deze waarde bestaat niet in :other.",

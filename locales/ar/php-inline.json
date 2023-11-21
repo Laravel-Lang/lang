@@ -47,7 +47,7 @@
     "gte.file": "يجب أن يكون حجم الملف على الأقل :value كيلوبايت.",
     "gte.numeric": "يجب أن تكون القيمة مساوية أو أكبر من :value.",
     "gte.string": "يجب أن يكون طول النص على الأقل :value حروفٍ/حرفًا.",
-    "hex_color": "This field must be a valid hexadecimal color.",
+    "hex_color": "يجب أن يحتوي هذا الحقل على صيغة لون HEX صالحة.",
     "image": "يجب أن تكون صورةً.",
     "in": "القيمة المختارة غير صالحة.",
     "in_array": "هذه القيمة غير موجودة في :other.",

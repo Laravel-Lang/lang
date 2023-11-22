@@ -47,7 +47,7 @@
     "gte.file": "Fayl ölçüsü :value kilobaytdan böyük və ya ona bərabər olmalıdır.",
     "gte.numeric": "Dəyər :value böyük və ya bərabər olmalıdır.",
     "gte.string": "Sətir :value simvollarından böyük və ya bərabər olmalıdır.",
-    "hex_color": "This field must be a valid hexadecimal color.",
+    "hex_color": "Bu sahə etibarlı onaltılıq rəng olmalıdır.",
     "image": "Bu şəkil olmalıdır edir.",
     "in": "Seçilmiş dəyər yolverilməzdir.",
     "in_array": "Bu dəyər :other-da mövcud deyil.",

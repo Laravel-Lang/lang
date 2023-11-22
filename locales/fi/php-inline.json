@@ -47,7 +47,7 @@
     "gte.file": "Tiedoston koon täytyy olla vähintään :value kilotavua.",
     "gte.numeric": "Arvon täytyy olla vähintään :value.",
     "gte.string": "Merkkijonon täytyy olla vähintään :value merkkiä pitkä.",
-    "hex_color": "This field must be a valid hexadecimal color.",
+    "hex_color": "Tämän kentän on oltava kelvollinen heksadesimaaliväri.",
     "image": "Tämän täytyy olla kuva.",
     "in": "Valittu arvo on virheellinen.",
     "in_array": ":Other ei sisällä tätä arvoa.",

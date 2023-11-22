@@ -47,7 +47,7 @@
     "gte.file": "A fájl mérete legalább :value kilobyte kell hogy legyen.",
     "gte.numeric": "Ennek a számnak az értéke legalább :value kell hogy legyen.",
     "gte.string": "Ennek a szövegnek legalább :value karakternek kell lennie.",
-    "hex_color": "This field must be a valid hexadecimal color.",
+    "hex_color": "Ennek a mezőnek érvényes hexadecimális színnek kell lennie.",
     "image": "Ez egy kép lehet.",
     "in": "A kiválasztott érték érvénytelen.",
     "in_array": "Ez az érték nem létezik :other-ban.",

@@ -47,7 +47,7 @@
     "gte.file": "Deve essere maggiore o uguale a :value kilobytes.",
     "gte.numeric": "Deve essere uguale o maggiore a :value.",
     "gte.string": "Deve contenere almeno :value caratteri.",
-    "hex_color": "This field must be a valid hexadecimal color.",
+    "hex_color": "Questo campo deve essere un colore esadecimale valido.",
     "image": "Deve essere un'immagine.",
     "in": "Valore non valido.",
     "in_array": "Non esiste in :other.",

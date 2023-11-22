@@ -57,7 +57,7 @@
     "gte.file": ":Attribute 必須大於或等於 :value KB。",
     "gte.numeric": ":Attribute 必須大於或等於 :value。",
     "gte.string": ":Attribute 必須多於或等於 :value 個字符。",
-    "hex_color": "The :attribute field must be a valid hexadecimal color.",
+    "hex_color": ":attribute 字段必须是有效的十六进制颜色。",
     "if_you_delete_team_all_data_will_be_deleted": "如果您选择删除团队，所有数据将被永久删除。",
     "image": ":Attribute 必須是一張圖片。",
     "in": "所揀選的 :attribute 選項無效。",

@@ -47,7 +47,7 @@
     "gte.file": "ファイルサイズが :value KB以上である必要があります。",
     "gte.numeric": ":Value 以上である必要があります。",
     "gte.string": ":Value文字以上必要です。",
-    "hex_color": "This field must be a valid hexadecimal color.",
+    "hex_color": "このフィールドは有効な 16 進数の色でなければなりません。",
     "image": "画像である必要があります。",
     "in": "選択した値が無効です。",
     "in_array": "この値は:otherに存在しません。",

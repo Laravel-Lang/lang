@@ -47,7 +47,7 @@
     "gte.file": "The file size must be greater than or equal :value kilobytes.",
     "gte.numeric": "The value must be greater than or equal :value.",
     "gte.string": "The string must be greater than or equal :value characters.",
-    "hex_color": "This field must be a valid hexadecimal color.",
+    "hex_color": "Detta fält måste vara en giltig hexadecimal färg.",
     "image": "Det måste vara en bild.",
     "in": "Det valda värdet är ogiltigt.",
     "in_array": "Detta värde finns inte i :other.",

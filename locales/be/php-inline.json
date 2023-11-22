@@ -47,7 +47,7 @@
     "gte.file": "The file size must be greater than or equal :value kilobytes.",
     "gte.numeric": "The value must be greater than or equal :value.",
     "gte.string": "The string must be greater than or equal :value characters.",
-    "hex_color": "This field must be a valid hexadecimal color.",
+    "hex_color": "Гэта поле павінна мець сапраўдны шаснаццатковы колер.",
     "image": "Гэта павінна быць малюнак.",
     "in": "Наадварот значэнне з'яўляецца недапушчальным.",
     "in_array": "Гэта значэнне не існуе ў :other.",

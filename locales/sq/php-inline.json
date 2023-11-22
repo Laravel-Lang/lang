@@ -47,7 +47,7 @@
     "gte.file": "Kjo duhet të jetë më e madhe ose e barabartë me :value kilobajtë.",
     "gte.numeric": "Kjo duhet të jetë më e madhe ose e barabartë me :value.",
     "gte.string": "Kjo duhet të ketë :value ose më shumë karaktere.",
-    "hex_color": "This field must be a valid hexadecimal color.",
+    "hex_color": "Kjo fushë duhet të jetë një ngjyrë heksadecimal e vlefshme.",
     "image": "Kjo duhet të jetë imazh.",
     "in": "Vlera e përzgjedhur është e pasaktë.",
     "in_array": "Kjo nuk gjendet në :other.",

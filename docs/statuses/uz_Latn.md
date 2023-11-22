@@ -4,7 +4,7 @@ editLink: false
 
 # uz_Latn
 
-##### All missed: 733
+##### All missed: 734
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 624
+##### Missing: 625
 
 <table width="100%">
 <tr><th width="50%">
@@ -2325,6 +2325,15 @@ Mark Read
 </td><td width="50%">
 
 Mark Read
+
+</td></tr>
+<tr><td width="50%">
+
+Mark Unread
+
+</td><td width="50%">
+
+Mark Unread
 
 </td></tr>
 <tr><td width="50%">

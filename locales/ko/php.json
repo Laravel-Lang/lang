@@ -57,7 +57,7 @@
     "gte.file": ":Attribute의 용량은 :value킬로바이트보다 같거나 커야 합니다.",
     "gte.numeric": ":Attribute의 값은 :value보다 같거나 커야 합니다.",
     "gte.string": ":Attribute의 길이는 :value보다 같거나 길어야 합니다.",
-    "hex_color": "The :attribute field must be a valid hexadecimal color.",
+    "hex_color": ":attribute 필드는 유효한 16진수 색상이어야 합니다.",
     "if_you_delete_team_all_data_will_be_deleted": "팀 삭제를 선택하면 모든 데이터가 영구적으로 삭제됩니다.",
     "image": ":Attribute은(는) 이미지여야 합니다.",
     "in": "선택된 :attribute은(는) 올바르지 않습니다.",

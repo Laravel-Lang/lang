@@ -47,7 +47,7 @@
     "gte.file": "The file size must be greater than or equal :value kilobytes.",
     "gte.numeric": "The value must be greater than or equal :value.",
     "gte.string": "The string must be greater than or equal :value characters.",
-    "hex_color": "This field must be a valid hexadecimal color.",
+    "hex_color": "Бұл өріс жарамды он алтылық түс болуы керек.",
     "image": "Бұл сурет болуы керек.",
     "in": "Таңдалған мән жарамсыз болып табылады.",
     "in_array": ":Other жылы бұл мән болған жоқ.",

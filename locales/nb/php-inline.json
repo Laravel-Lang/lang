@@ -47,7 +47,7 @@
     "gte.file": "Må være større enn eller lik :value kilobytes.",
     "gte.numeric": "Må være større enn eller lik :value.",
     "gte.string": "Må være større enn eller lik :value tegn.",
-    "hex_color": "This field must be a valid hexadecimal color.",
+    "hex_color": "Dette feltet må være en gyldig heksadesimal farge.",
     "image": "Må være et bilde.",
     "in": "Den valgte veriden er ugyldig.",
     "in_array": "Den valgte veriden eksisterer ikke i :other.",

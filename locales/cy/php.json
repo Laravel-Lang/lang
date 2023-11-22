@@ -57,7 +57,7 @@
     "gte.file": "Rhaid i'r :attribute fod yn fwy na neu'n hafal i :value cilobeit.",
     "gte.numeric": "Rhaid i’r :attribute fod yn fwy na neu’n hafal i :value.",
     "gte.string": "Rhaid i'r :attribute fod yn fwy na neu'n hafal i :value nod.",
-    "hex_color": "The :attribute field must be a valid hexadecimal color.",
+    "hex_color": "Rhaid i'r maes :attribute fod yn lliw hecsadegol dilys.",
     "if_you_delete_team_all_data_will_be_deleted": "Os dewiswch ddileu'r tîm bydd yr holl ddata'n cael ei ddileu'n barhaol.",
     "image": "Rhaid i :attribute fod yn lun.",
     "in": "Nid yw :attribute yn ddilys.",

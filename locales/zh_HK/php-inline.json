@@ -47,7 +47,7 @@
     "gte.file": "必須大於或等於 :value KB。",
     "gte.numeric": "必須大於或等於 :value。",
     "gte.string": "必須多於或等於 :value 個字符。",
-    "hex_color": "This field must be a valid hexadecimal color.",
+    "hex_color": "该字段必须是有效的十六进制颜色。",
     "image": "必須是一張圖片。",
     "in": "選項無效。",
     "in_array": "沒有在 :other 中。",

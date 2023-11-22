@@ -47,7 +47,7 @@
     "gte.file": "फाईल आकार ठूलो वा बराबर हुनुपर्छ :value किलोबाइट।",
     "gte.numeric": "मान ठूलो वा बराबर हुनुपर्छ :value।",
     "gte.string": "स्ट्रिङ्ग ठूलो वा बराबर हुनुपर्दछ :value क्यारेक्टरहरू।",
-    "hex_color": "This field must be a valid hexadecimal color.",
+    "hex_color": "यो क्षेत्र वैध हेक्साडेसिमल रंग हुनुपर्छ।",
     "image": "यो छवि हुनुपर्दछ।",
     "in": "चयनित मान अवैध छ।",
     "in_array": "यो मान यसमा अवस्थित छैन :other।",

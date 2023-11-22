@@ -47,7 +47,7 @@
     "gte.file": "이 파일의 용량은 :value킬로바이트보다 같거나 커야 합니다.",
     "gte.numeric": "이 값은 :value보다 같거나 커야 합니다.",
     "gte.string": "이 문자열의 길이는 :value보다 같거나 길어야 합니다.",
-    "hex_color": "This field must be a valid hexadecimal color.",
+    "hex_color": "이 필드는 유효한 16진수 색상이어야 합니다.",
     "image": "이미지여야 합니다.",
     "in": "선택된 값은 올바르지 않습니다.",
     "in_array": "이 값은 :other에 존재하지 않습니다.",

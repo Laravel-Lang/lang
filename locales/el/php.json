@@ -57,7 +57,7 @@
     "gte.file": "To πεδίο :attribute πρέπει να είναι μεγαλύτερο ή ίσο από :value kilobytes.",
     "gte.numeric": "To πεδίο :attribute πρέπει να είναι μεγαλύτερο ή ίσο από :value.",
     "gte.string": "To πεδίο :attribute πρέπει να είναι μεγαλύτερο ή ίσο από :value χαρακτήρες.",
-    "hex_color": "The :attribute field must be a valid hexadecimal color.",
+    "hex_color": "Το πεδίο :attribute πρέπει να είναι έγκυρο δεκαεξαδικό χρώμα.",
     "if_you_delete_team_all_data_will_be_deleted": "Εάν επιλέξετε να διαγράψετε την ομάδα, όλα τα δεδομένα θα διαγραφούν οριστικά.",
     "image": "Το πεδίο :attribute πρέπει να είναι εικόνα.",
     "in": "Το επιλεγμένο :attribute δεν είναι έγκυρο.",

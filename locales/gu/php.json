@@ -57,7 +57,7 @@
     "gte.file": ":Attribute થી વિશેષ અથવા સમાંતર હોવું જોઈએ :value કિલો બાઇટ્સ.",
     "gte.numeric": ":Attribute થી વિશેષ અથવા સમાંતર હોવું જોઈએ :value.",
     "gte.string": ":Attribute થી વિશેષ અથવા સમાંતર હોવું જોઈએ :value મૂલ્ય અક્ષરો.",
-    "hex_color": "The :attribute field must be a valid hexadecimal color.",
+    "hex_color": ":attribute ફીલ્ડ માન્ય હેક્સાડેસિમલ રંગ હોવો આવશ્યક છે.",
     "if_you_delete_team_all_data_will_be_deleted": "જો તમે ટીમને કાઢી નાખવાનું પસંદ કરો છો, તો બધો ડેટા કાયમ માટે કાઢી નાખવામાં આવશે.",
     "image": ":Attribute છબી હોવી જોઈએ.",
     "in": ":Attribute અમાન્ય છે.",

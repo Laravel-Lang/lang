@@ -47,7 +47,7 @@
     "gte.file": "El tamaño del archivo debe ser mayor o igual que :value kilobytes.",
     "gte.numeric": "El valor debe ser mayor o igual que :value.",
     "gte.string": "El texto debe ser mayor o igual de :value caracteres.",
-    "hex_color": "This field must be a valid hexadecimal color.",
+    "hex_color": "Este campo debe tener un color hexadecimal válido.",
     "image": "Esta debe ser una imagen.",
     "in": "El valor seleccionado es inválido.",
     "in_array": "Este valor debe existir en :other.",

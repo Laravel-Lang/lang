@@ -57,7 +57,7 @@
     "gte.file": ":Attribute måste vara lika med eller större än :value kilobyte stor.",
     "gte.numeric": ":Attribute måste vara lika med eller större än :value.",
     "gte.string": ":Attribute måste vara lika med eller längre än :value tecken.",
-    "hex_color": "The :attribute field must be a valid hexadecimal color.",
+    "hex_color": "Fältet :attribute måste vara en giltig hexadecimal färg.",
     "if_you_delete_team_all_data_will_be_deleted": "Om du väljer att ta bort laget kommer all data att raderas permanent.",
     "image": ":Attribute måste vara en bild.",
     "in": ":Attribute är ogiltigt.",

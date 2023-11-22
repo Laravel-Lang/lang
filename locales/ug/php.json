@@ -57,7 +57,7 @@
     "gte.file": ":Attribute چوقۇم :value كىلوبايتتىن چوڭ ياكى تەڭ بولۇشى كېرەك.",
     "gte.numeric": ":Attribute چوقۇم :value دىن چوڭ ياكى تەڭ بولۇشى كېرەك.",
     "gte.string": ":Attribute چوقۇم :value ھەرپتىن چوڭ ياكى تەڭ بولۇشى كېرەك.",
-    "hex_color": "The :attribute field must be a valid hexadecimal color.",
+    "hex_color": ":attribute ساھە چوقۇم ئۈنۈملۈك ئالتە تەرەپلىك رەڭ بولۇشى كېرەك.",
     "if_you_delete_team_all_data_will_be_deleted": "ئەگەر كوماندىنى ئۆچۈرۈشنى تاللىسىڭىز ، بارلىق سانلىق مەلۇماتلار مەڭگۈلۈك ئۆچۈرۈلىدۇ.",
     "image": ":Attribute چوقۇم رەسىم ھۆججىتى بۇلىشى كېرەك.",
     "in": "تاللانغان قىممەت :attribute ئىناۋەتسىز",

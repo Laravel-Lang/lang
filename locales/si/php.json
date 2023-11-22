@@ -57,7 +57,7 @@
     "gte.file": "මෙම :attribute එක කිලෝබයිට් :value ට වඩා වැඩි හෝ සමාන විය යුතුයි.",
     "gte.numeric": "මෙම :attribute එක :value ට වඩා වැඩි හෝ සමාන විය යුතුයි.",
     "gte.string": "මෙම :attribute එක අකුරු :value ට වඩා වැඩි හෝ සමාන විය යුතුයි.",
-    "hex_color": "The :attribute field must be a valid hexadecimal color.",
+    "hex_color": ":attribute ක්ෂේත්‍රය වලංගු ෂඩ් දශම වර්ණයක් විය යුතුය.",
     "if_you_delete_team_all_data_will_be_deleted": "ඔබ කණ්ඩායම මැකීමට තෝරා ගන්නේ නම්, සියලු දත්ත ස්ථිරවම මකනු ඇත.",
     "image": "මෙම :attribute රූපයක් විය යුතුය.",
     "in": "මෙම තෝරා ඇති :attribute වලංගු නැත.",

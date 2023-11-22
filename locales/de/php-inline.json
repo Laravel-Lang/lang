@@ -47,7 +47,7 @@
     "gte.file": "Die Datei muss größer oder gleich :value Kilobytes sein.",
     "gte.numeric": "Der Wert muss größer oder gleich :value sein.",
     "gte.string": "Die Zeichenkette muss mindestens :value Zeichen lang sein.",
-    "hex_color": "This field must be a valid hexadecimal color.",
+    "hex_color": "Dieses Feld muss eine gültige Hexadezimalfarbe haben.",
     "image": "Das muss ein Bild sein.",
     "in": "Der gewählte Wert ist ungültig.",
     "in_array": "Der gewählte Wert kommt nicht in :other vor.",

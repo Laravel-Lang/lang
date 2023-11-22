@@ -57,7 +57,7 @@
     "gte.file": ":Attribute դաշտի ֆայլի չափը պետք է մեծ կամ հավասար լինի :value կիլոբայթից։",
     "gte.numeric": ":Attribute դաշտը պետք է մեծ կամ հավասար լինի :value-ից։",
     "gte.string": ":Attribute դաշտի նիշերի քանակը պետք է մեծ կամ հավասար լինի :value-ից։",
-    "hex_color": "The :attribute field must be a valid hexadecimal color.",
+    "hex_color": ":attribute դաշտը պետք է լինի վավեր տասնվեցական գույն:",
     "if_you_delete_team_all_data_will_be_deleted": "Եթե ​​ընտրեք ջնջել թիմը, բոլոր տվյալները ընդմիշտ կջնջվեն:",
     "image": ":Attribute դաշտը պետք է լինի նկար։",
     "in": ":Attribute դաշտի ընտրված արժեքն անվավեր է։",

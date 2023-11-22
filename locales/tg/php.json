@@ -57,7 +57,7 @@
     "gte.file": ":Attribute бояд аз :value килобайт зиёд ё баробар бошад.",
     "gte.numeric": ":Attribute бояд аз :value зиёд ё баробар бошад.",
     "gte.string": ":Attribute бояд аз :value аломат зиёд ё баробар бошад.",
-    "hex_color": "The :attribute field must be a valid hexadecimal color.",
+    "hex_color": "Майдони :attribute бояд ранги шонздаҳӣ бошад.",
     "if_you_delete_team_all_data_will_be_deleted": "Агар шумо интихоб кардани дастаро нест кунед, ҳама маълумот ба таври доимӣ нест карда мешаванд.",
     "image": "Қиммати :attribute бояд расм бошад.",
     "in": "Қиммати интихобкардаи :attribute нодуруст мебошад.",

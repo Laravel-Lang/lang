@@ -57,7 +57,7 @@
     "gte.file": ":Attribute-(e)k :value kilobyte edo gehiago izan behar ditu.",
     "gte.numeric": ":Attribute-(e)k :value baino handiagoa edo berdina izan behar du.",
     "gte.string": ":Attribute-(e)k :value karaktere edo gehiago izan behar ditu.",
-    "hex_color": "The :attribute field must be a valid hexadecimal color.",
+    "hex_color": ":attribute eremuak balio hamaseitar kolorekoa izan behar du.",
     "if_you_delete_team_all_data_will_be_deleted": "Taldea ezabatzea aukeratzen baduzu, datu guztiak betiko ezabatuko dira.",
     "image": ":Attribute irudi bat izan behar da.",
     "in": ":Attribute baliogabea da.",

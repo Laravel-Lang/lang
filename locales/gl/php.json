@@ -57,7 +57,7 @@
     "gte.file": "O :attribute debe ser maior ou igual a :value kilobytes.",
     "gte.numeric": "O :attribute debe ser maior ou igual a :value.",
     "gte.string": "O :attribute debe ser maior ou igual a :value caracteres.",
-    "hex_color": "The :attribute field must be a valid hexadecimal color.",
+    "hex_color": "O campo :attribute debe ser unha cor hexadecimal válida.",
     "if_you_delete_team_all_data_will_be_deleted": "Se decides eliminar o equipo, todos os datos eliminaranse permanentemente.",
     "image": "O :attribute debe ser unha imaxe.",
     "in": "O :attribute seleccionado non é válido.",

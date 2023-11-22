@@ -57,7 +57,7 @@
     "gte.file": "Failas lauke :attribute turi būti didesnis arba lygus :value kilobaitams.",
     "gte.numeric": "Lauko :attribute reikšmė turi būti didesnė arba lygi :value.",
     "gte.string": "Lauko :attribute reikšmė turi būti didesnė arba lygi :value simboliams.",
-    "hex_color": "The :attribute field must be a valid hexadecimal color.",
+    "hex_color": ":attribute laukas turi būti tinkama šešioliktainė spalva.",
     "if_you_delete_team_all_data_will_be_deleted": "Jei nuspręsite ištrinti komandą, visi duomenys bus ištrinti visam laikui.",
     "image": "Lauko :attribute reikšmė turi būti paveikslėlis.",
     "in": "Pasirinkta negaliojanti :attribute reikšmė.",

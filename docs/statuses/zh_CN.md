@@ -4,7 +4,33 @@ editLink: false
 
 # zh_CN
 
-##### All missed: 0
+##### All missed: 1
 
-All lines are translated 😊
+
+### json
+
+##### Missing: 1
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+Mark Unread
+
+</td><td width="50%">
+
+Mark Unread
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
 

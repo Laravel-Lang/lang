@@ -4,12 +4,12 @@ editLink: false
 
 # mr
 
-##### All missed: 3
+##### All missed: 4
 
 
 ### json
 
-##### Missing: 3
+##### Missing: 4
 
 <table width="100%">
 <tr><th width="50%">
@@ -28,6 +28,15 @@ API
 </td><td width="50%">
 
 API
+
+</td></tr>
+<tr><td width="50%">
+
+Mark Unread
+
+</td><td width="50%">
+
+Mark Unread
 
 </td></tr>
 <tr><td width="50%">

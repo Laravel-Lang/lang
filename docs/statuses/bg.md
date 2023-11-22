@@ -4,12 +4,12 @@ editLink: false
 
 # bg
 
-##### All missed: 4
+##### All missed: 5
 
 
 ### json
 
-##### Missing: 3
+##### Missing: 4
 
 <table width="100%">
 <tr><th width="50%">
@@ -37,6 +37,15 @@ Log Viewer
 </td><td width="50%">
 
 Log Viewer
+
+</td></tr>
+<tr><td width="50%">
+
+Mark Unread
+
+</td><td width="50%">
+
+Mark Unread
 
 </td></tr>
 <tr><td width="50%">

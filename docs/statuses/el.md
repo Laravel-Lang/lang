@@ -4,12 +4,12 @@ editLink: false
 
 # el
 
-##### All missed: 9
+##### All missed: 10
 
 
 ### json
 
-##### Missing: 8
+##### Missing: 9
 
 <table width="100%">
 <tr><th width="50%">
@@ -46,6 +46,15 @@ Mark Read
 </td><td width="50%">
 
 Mark Read
+
+</td></tr>
+<tr><td width="50%">
+
+Mark Unread
+
+</td><td width="50%">
+
+Mark Unread
 
 </td></tr>
 <tr><td width="50%">

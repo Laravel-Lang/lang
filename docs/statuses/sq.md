@@ -4,12 +4,12 @@ editLink: false
 
 # sq
 
-##### All missed: 87
+##### All missed: 86
 
 
 ### json
 
-##### Missing: 87
+##### Missing: 86
 
 <table width="100%">
 <tr><th width="50%">
@@ -406,15 +406,6 @@ Manitoba
 </td><td width="50%">
 
 Manitoba
-
-</td></tr>
-<tr><td width="50%">
-
-Mark Unread
-
-</td><td width="50%">
-
-Mark Unread
 
 </td></tr>
 <tr><td width="50%">

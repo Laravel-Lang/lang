@@ -46,7 +46,7 @@
     "ends_with": ":Attribute moet met één van de volgende waarden eindigen: :values.",
     "enum": "Gekozen :attribute is ongeldig.",
     "exists": ":Attribute bestaat niet.",
-    "extensions": "The :attribute field must have one of the following extensions: :values.",
+    "extensions": ":Attribute moet een van de volgende bestandsextensies hebben: :values.",
     "failed": "Deze combinatie van e-mailadres en wachtwoord is niet geldig.",
     "file": ":Attribute moet een bestand zijn.",
     "filled": ":Attribute is verplicht.",

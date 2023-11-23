@@ -4,7 +4,7 @@ editLink: false
 
 # uz_Latn
 
-##### All missed: 734
+##### All missed: 736
 
 
 ### json-inline
@@ -5800,7 +5800,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 30
+##### Missing: 31
 
 <table width="100%">
 <tr><th width="50%">
@@ -5873,6 +5873,15 @@ doesnt_start_with
 </td><td width="50%">
 
 This field must not start with one of the following: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+extensions
+
+</td><td width="50%">
+
+This field must have one of the following extensions: :values.
 
 </td></tr>
 <tr><td width="50%">
@@ -6090,7 +6099,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 65
+##### Missing: 66
 
 <table width="100%">
 <tr><th width="50%">
@@ -6235,6 +6244,15 @@ enum
 </td><td width="50%">
 
 The selected :attribute is invalid.
+
+</td></tr>
+<tr><td width="50%">
+
+extensions
+
+</td><td width="50%">
+
+The :attribute field must have one of the following extensions: :values.
 
 </td></tr>
 <tr><td width="50%">

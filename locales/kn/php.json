@@ -46,6 +46,7 @@
     "ends_with": ":Attribute ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಒಂದರಲ್ಲಿ ಕೊನೆಗೊಳ್ಳಬೇಕು: :values.",
     "enum": "ಆಯ್ಕೆಮಾಡಿದ :attribute ಅಮಾನ್ಯವಾಗಿದೆ.",
     "exists": "ಈ  ಆಯ್ಕೆಮಾಡಲಾದ :attribute ಅಮಾನ್ಯವಾಗಿದೆ .",
+    "extensions": "The :attribute field must have one of the following extensions: :values.",
     "failed": "ಈ ರುಜುವಾತುಗಳು ನಮ್ಮ ದಾಖಲೆಗಳಿಗೆ ಹೊಂದಿಕೆಯಾಗುವುದಿಲ್ಲ.",
     "file": "ಈ  :attribute ಫೈಲ್ ಆಗಿರಬೇಕು.",
     "filled": "ಈ  :attribute ಕ್ಷೇತ್ರವು ಮೌಲ್ಯವನ್ನು ಹೊಂದಿರಬೇಕು.",

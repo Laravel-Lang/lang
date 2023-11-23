@@ -37,6 +37,7 @@
     "ends_with": "Isian ini harus berakhiran dengan: :values.",
     "enum": "Nilai yang dipilih tidak valid.",
     "exists": "Nilai yang dipilih tidak sesuai.",
+    "extensions": "This field must have one of the following extensions: :values.",
     "file": "Konten harus berisi sebuah berkas.",
     "filled": "Isian ini harus berisi sebuah nilai.",
     "gt.array": "Konten harus memiliki lebih dari :value item.",

@@ -37,6 +37,7 @@
     "ends_with": "این مقدار باید با یکی از عبارت های روبرو پایان یابد: :values.",
     "enum": "مقدار انتخاب شده معتبر نمی باشد.",
     "exists": "مقدار انتخابی نامعتبر است.",
+    "extensions": "This field must have one of the following extensions: :values.",
     "file": "این ورودی باید یک فایل باشد.",
     "filled": "این ورودی باید یک مقدار داشته باشد.",
     "gt.array": "مقدار ورودی باید بیشتر از :value گزینه داشته باشد.",

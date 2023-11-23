@@ -37,6 +37,7 @@
     "ends_with": "Detta måste sluta med något av följande: :values.",
     "enum": "The selected value is invalid.",
     "exists": "Det valda värdet är ogiltigt.",
+    "extensions": "This field must have one of the following extensions: :values.",
     "file": "Innehållet måste vara en fil.",
     "filled": "Detta fält måste ha ett värde.",
     "gt.array": "The content must have more than :value items.",

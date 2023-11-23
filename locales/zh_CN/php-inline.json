@@ -37,6 +37,7 @@
     "ends_with": "必须以 :values 为结尾。",
     "enum": "选择的值无效。",
     "exists": "不存在。",
+    "extensions": "This field must have one of the following extensions: :values.",
     "file": "必须是文件。",
     "filled": "不能为空。",
     "gt.array": "必须多于 :value 个元素。",

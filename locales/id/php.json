@@ -46,6 +46,7 @@
     "ends_with": ":Attribute harus diakhiri salah satu dari berikut: :values",
     "enum": ":Attribute yang dipilih tidak valid.",
     "exists": ":Attribute yang dipilih tidak valid.",
+    "extensions": "The :attribute field must have one of the following extensions: :values.",
     "failed": "Identitas tersebut tidak cocok dengan data kami.",
     "file": ":Attribute harus berupa sebuah berkas.",
     "filled": ":Attribute harus memiliki nilai.",

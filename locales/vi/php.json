@@ -46,6 +46,7 @@
     "ends_with": "Trường :attribute phải kết thúc bằng một trong những giá trị sau: :values",
     "enum": "Giá trị đã chọn trong trường :attribute không hợp lệ.",
     "exists": "Giá trị đã chọn trong trường :attribute không hợp lệ.",
+    "extensions": "The :attribute field must have one of the following extensions: :values.",
     "failed": "Thông tin tài khoản không tìm thấy trong hệ thống.",
     "file": "Trường :attribute phải là một tệp tin.",
     "filled": "Trường :attribute không được bỏ trống.",

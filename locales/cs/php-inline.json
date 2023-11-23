@@ -37,6 +37,7 @@
     "ends_with": "To musí skončit jedním z následujících: :values.",
     "enum": "Vybraná hodnota je neplatná.",
     "exists": "Vybraná hodnota je neplatná.",
+    "extensions": "This field must have one of the following extensions: :values.",
     "file": "Obsah musí být soubor.",
     "filled": "Toto pole musí mít hodnotu.",
     "gt.array": "Toto pole musí mít více jak :value položek.",

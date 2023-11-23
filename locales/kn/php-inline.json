@@ -37,6 +37,7 @@
     "ends_with": "ಈ must end with one of the following: :values.",
     "enum": "The selected value is invalid.",
     "exists": "ಆಯ್ಕೆ value is invalid.",
+    "extensions": "This field must have one of the following extensions: :values.",
     "file": "ವಿಷಯ ಇರಬೇಕು ಫೈಲ್.",
     "filled": "ಈ ಕ್ಷೇತ್ರದಲ್ಲಿ ಹೊಂದಿರಬೇಕು ಒಂದು ಮೌಲ್ಯ.",
     "gt.array": "The content must have more than :value items.",

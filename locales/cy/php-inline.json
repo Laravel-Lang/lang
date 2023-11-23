@@ -37,6 +37,7 @@
     "ends_with": "Mae'n rhaid i hyn i ben gydag un o'r canlynol: :values.",
     "enum": "The selected value is invalid.",
     "exists": "Mae'r gwerth a ddewiswyd yn annilys.",
+    "extensions": "This field must have one of the following extensions: :values.",
     "file": "Mae'n rhaid i'r cynnwys fod yn ffeil.",
     "filled": "Mae'r maes hwn yn rhaid ei gael ar werth.",
     "gt.array": "The content must have more than :value items.",

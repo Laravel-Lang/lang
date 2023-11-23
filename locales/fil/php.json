@@ -46,6 +46,7 @@
     "ends_with": "Ang :attribute ay dapat magtapos sa isa sa mga sumusunod: :values.",
     "enum": "Ang napiling :attribute ay hindi wasto.",
     "exists": "Hindi valid ang piniling :attribute.",
+    "extensions": "The :attribute field must have one of the following extensions: :values.",
     "failed": "Ang mga kredensyal na ito ay hindi tumutugma sa aming mga talaan.",
     "file": "Dapat na isang file ang :attribute.",
     "filled": "Dapat na may value ang field na :attribute.",

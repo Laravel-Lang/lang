@@ -46,6 +46,7 @@
     "ends_with": "ข้อมูล :attribute ต้องจบด้วยค่าดังต่อไปนี้: :values.",
     "enum": "ข้อมูล :attribute ที่เลือกไม่ถูกต้อง",
     "exists": "ข้อมูล :attribute ที่เลือกไม่ถูกต้อง",
+    "extensions": "The :attribute field must have one of the following extensions: :values.",
     "failed": "ข้อมูลที่ใช้ในการยืนยันตัวตนไม่ถูกต้อง",
     "file": "ข้อมูล :attribute ต้องเป็นไฟล์",
     "filled": "จำเป็นต้องกรอกข้อมูล :attribute",

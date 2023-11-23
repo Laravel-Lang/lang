@@ -46,6 +46,7 @@
     "ends_with": ":Attribute:n on päätyttävä johonkin seuraavista: :values.",
     "enum": "Valittu :attribute on virheellinen.",
     "exists": "Kentän :attribute valittu arvo on virheellinen.",
+    "extensions": "The :attribute field must have one of the following extensions: :values.",
     "failed": "Kirjautuminen epäonnistui.",
     "file": "Kentän :attribute arvon tulee olla tiedosto.",
     "filled": "Kenttä :attribute on pakollinen.",

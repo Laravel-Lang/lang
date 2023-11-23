@@ -37,6 +37,7 @@
     "ends_with": "Aceasta trebuie să se încheie cu una dintre următoarele: :values.",
     "enum": "Valoarea selectată este nevalidă.",
     "exists": "Valoarea selectată este nevalidă.",
+    "extensions": "This field must have one of the following extensions: :values.",
     "file": "Conținutul trebuie să fie un fișier.",
     "filled": "Acest câmp trebuie să aibă o valoare.",
     "gt.array": "Conținutul trebuie să conțină mai mult de :values elemente.",

@@ -37,6 +37,7 @@
     "ends_with": "यह निम्नलिखित में से एक के साथ समाप्त होना चाहिए: :values ।",
     "enum": "The selected value is invalid.",
     "exists": "चयनित मान अमान्य है ।",
+    "extensions": "This field must have one of the following extensions: :values.",
     "file": "सामग्री एक फ़ाइल होनी चाहिए ।",
     "filled": "इस फ़ील्ड का मान होना चाहिए ।",
     "gt.array": "The content must have more than :value items.",

@@ -46,6 +46,7 @@
     "ends_with": "Y :attribute rhaid i ben gydag un o'r canlynol: :values.",
     "enum": "Mae'r :attribute a ddewiswyd yn annilys.",
     "exists": "Nid yw :attribute yn ddilys.",
+    "extensions": "The :attribute field must have one of the following extensions: :values.",
     "failed": "Nid yw'r manylion hyn yn cyfateb i'n cofnodion.",
     "file": ":Attribute rhaid iddo fod yn y ffeil.",
     "filled": "Rhaid cynnwys :attribute.",

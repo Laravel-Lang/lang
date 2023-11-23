@@ -46,6 +46,7 @@
     "ends_with": "Câmpul :attribute trebuie să se încheie cu una din următoarele valori: :values",
     "enum": "Câmpul :attribute selectat nu este valid.",
     "exists": "Câmpul :attribute selectat nu este valid.",
+    "extensions": "The :attribute field must have one of the following extensions: :values.",
     "failed": "Datele de identificare nu pot fi confirmate.",
     "file": "Câmpul :attribute trebuie să fie un fișier.",
     "filled": "Câmpul :attribute trebuie completat.",

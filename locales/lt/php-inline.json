@@ -37,6 +37,7 @@
     "ends_with": "Šis laukas turi baigtis vienu iš: :values",
     "enum": "The selected value is invalid.",
     "exists": "Šio lauko reikšmė negalioja.",
+    "extensions": "This field must have one of the following extensions: :values.",
     "file": "Šis laukas turi būti failas.",
     "filled": "Šis laukas turi būti užpildytas.",
     "gt.array": "Šis laukas turi turėti daugiau nei :value elementus.",

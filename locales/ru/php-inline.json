@@ -37,6 +37,7 @@
     "ends_with": "Должно заканчиваться одним из следующих значений: :values",
     "enum": "Значение некорректно.",
     "exists": "Значение не существует.",
+    "extensions": "This field must have one of the following extensions: :values.",
     "file": "Содержимое должно быть файлом.",
     "filled": "Обязательно для заполнения.",
     "gt.array": "Количество элементов должно быть больше :value.",

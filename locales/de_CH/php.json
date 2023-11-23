@@ -46,6 +46,7 @@
     "ends_with": ":Attribute muss eine der folgenden Endungen aufweisen: :values",
     "enum": "Die ausgewählte :attribute ist ungültig.",
     "exists": "Der gewählte Wert für :attribute ist ungültig.",
+    "extensions": "The :attribute field must have one of the following extensions: :values.",
     "failed": "Diese Kombination aus Zugangsdaten wurde nicht in unserer Datenbank gefunden.",
     "file": ":Attribute muss eine Datei sein.",
     "filled": ":Attribute muss ausgefüllt sein.",

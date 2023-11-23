@@ -37,6 +37,7 @@
     "ends_with": "Der Inhalt muss eine der folgenden Endungen aufweisen: :values",
     "enum": "The selected value is invalid.",
     "exists": "Der gewählte Wert ist ungültig.",
+    "extensions": "This field must have one of the following extensions: :values.",
     "file": "Der Inhalt muss eine Datei sein.",
     "filled": "Dieses Feld muss ausgefüllt sein.",
     "gt.array": "Der Inhalt muss mindestens :value Elemente haben.",

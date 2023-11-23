@@ -46,6 +46,7 @@
     "ends_with": ":Attribute को निम्नलिखित में से एक के साथ समाप्त होना चाहिए: :values ।",
     "enum": "चयनित :attribute अमान्य है ।",
     "exists": "चुना गया :attribute अमान्य है ।",
+    "extensions": "The :attribute field must have one of the following extensions: :values.",
     "failed": "ये साख हमारे रिकॉर्ड से मेल नहीं खा रहे हैं ।",
     "file": ":Attribute एक फ़ाइल होनी चाहिए ।",
     "filled": ":Attribute फील्ड आवश्यक होता है ।",

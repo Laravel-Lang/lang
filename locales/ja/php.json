@@ -46,6 +46,7 @@
     "ends_with": ":Attributeの終わりは「:values」である必要があります。",
     "enum": "選択した :attributeは 無効です。",
     "exists": "選択された:attributeは、有効ではありません。",
+    "extensions": "The :attribute field must have one of the following extensions: :values.",
     "failed": "認証に失敗しました。",
     "file": ":Attributeには、ファイル形式を指定してください。",
     "filled": ":Attributeは必須です。",

@@ -37,6 +37,7 @@
     "ends_with": "ეს უნდა დასრულდეს ერთ-ერთი შემდეგი: :values.",
     "enum": "The selected value is invalid.",
     "exists": "შერჩეული ღირებულება არასწორია.",
+    "extensions": "This field must have one of the following extensions: :values.",
     "file": "შინაარსი უნდა იყოს ფაილი.",
     "filled": "ამ სფეროში უნდა ჰქონდეს მნიშვნელობა.",
     "gt.array": "ელემენტების რაოდენობა უნდა იყოს მეტი ვიდრე :value.",

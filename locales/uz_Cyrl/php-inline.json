@@ -37,6 +37,7 @@
     "ends_with": "Bu quyidagilardan biri bilan yakun kerak: :values.",
     "enum": "The selected value is invalid.",
     "exists": "Tanlangan qiymat haqiqiy emas.",
+    "extensions": "This field must have one of the following extensions: :values.",
     "file": "Kontent fayl bo'lishi kerak.",
     "filled": "Bu maydon qiymatga ega bo'lishi kerak.",
     "gt.array": "The content must have more than :value items.",

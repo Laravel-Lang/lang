@@ -37,6 +37,7 @@
     "ends_with": "Має закінчуватися одним із наступних: :values.",
     "enum": "Вибране значення недійсне.",
     "exists": "Вибране значення недійсне.",
+    "extensions": "This field must have one of the following extensions: :values.",
     "file": "Вміст повинен бути файлом.",
     "filled": "Поле обов'язкове для заповнення.",
     "gt.array": "Зміст повинен бути більш ніж :value елементів.",

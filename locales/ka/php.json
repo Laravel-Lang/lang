@@ -46,6 +46,7 @@
     "ends_with": ":Attribute უნდა ბოლოვდებოდეს შემდეგიდან ერთ-ერთით: :values.",
     "enum": "არჩეული :attribute არასწორია.",
     "exists": "არჩეული :attribute არასწორია.",
+    "extensions": "The :attribute field must have one of the following extensions: :values.",
     "failed": "მომხმარებელი ამ მონაცემებით არ არსებობს.",
     "file": ":Attribute უნდა იყოს ფაილი.",
     "filled": ":Attribute აუცილებელია.",

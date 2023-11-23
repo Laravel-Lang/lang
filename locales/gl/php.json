@@ -46,6 +46,7 @@
     "ends_with": "O :attribute debe rematar cun dos seguintes: :values.",
     "enum": "O :attribute seleccionado non é válido.",
     "exists": "O :attribute seleccionado non é válido.",
+    "extensions": "The :attribute field must have one of the following extensions: :values.",
     "failed": "Estas credenciais non coinciden cos nosos rexistros.",
     "file": "O :attribute debe ser un arquivo.",
     "filled": "O eido :attribute debe ter un valor.",

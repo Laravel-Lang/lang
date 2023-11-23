@@ -37,6 +37,7 @@
     "ends_with": "खालील एक समाप्त करणे आवश्यक आहे: :values.",
     "enum": "The selected value is invalid.",
     "exists": "निवडलेली मूल्य अवैध आहे.",
+    "extensions": "This field must have one of the following extensions: :values.",
     "file": "सामग्री फाइल असणे आवश्यक आहे.",
     "filled": "ह्या फिल्डमध्ये व्हॅल्यू असायला हवी.",
     "gt.array": "सामग्रीमध्ये :value पेक्षा जास्त आयटम असणे आवश्यक आहे.",

@@ -46,6 +46,7 @@
     "ends_with": ":Attribute નીચેમાંથી એક પ્રમાણે પૂરું થતું હોવું જોઈએ :values.",
     "enum": "પસંદ કરેલ :attribute અમાન્ય છે.",
     "exists": "પસંદ કરાયેલ :attribute અમાન્ય છે.",
+    "extensions": "The :attribute field must have one of the following extensions: :values.",
     "failed": "ઈમેઈલ એડ્રેસ અને પાસવર્ડનું આ જોડાણ અમારી વિગતો સાથે બંધબેસતું નથી.",
     "file": ":Attribute એક ફાઈલ હોવી જોઈએ.",
     "filled": ":Attribute પ્રવૃત્તિ ક્ષેત્રનું મૂલ્ય હોવું જોઈએ.",

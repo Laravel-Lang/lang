@@ -46,6 +46,7 @@
     "ends_with": ":Attribute måste sluta med en av följande: :values.",
     "enum": ":Attribute är ogiltigt.",
     "exists": ":Attribute existerar i databasen och är därför ogiltigt.",
+    "extensions": "The :attribute field must have one of the following extensions: :values.",
     "failed": "Dessa uppgifter stämmer inte överens med vårt register.",
     "file": ":Attribute måste vara en fil.",
     "filled": ":Attribute är obligatoriskt.",

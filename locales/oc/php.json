@@ -46,6 +46,7 @@
     "ends_with": "Lo camp :attribute deu acabar per una de las valors seguentas : :values",
     "enum": "The selected :attribute is invalid.",
     "exists": "Lo :attribute seleccionat es invalid.",
+    "extensions": "The :attribute field must have one of the following extensions: :values.",
     "failed": "Aqueles identificants correspondon pas a nòstres enregistraments.",
     "file": "Lo camp :attribute deu èsser un fichièr.",
     "filled": "Lo camp :attribute deu aver una valor.",

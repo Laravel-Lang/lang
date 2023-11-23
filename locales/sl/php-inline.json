@@ -37,6 +37,7 @@
     "ends_with": "Vnos se mora končati z eno od naslednjih vrednosti: :values.",
     "enum": "The selected value is invalid.",
     "exists": "Izbrana vrednost ni veljavna.",
+    "extensions": "This field must have one of the following extensions: :values.",
     "file": "Vsebina mora biti datoteka.",
     "filled": "Polje mora biti izpolnjeno.",
     "gt.array": "Polje mora imeti več kot :value vrednosti.",

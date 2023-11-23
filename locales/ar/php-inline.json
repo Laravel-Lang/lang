@@ -37,6 +37,7 @@
     "ends_with": "يجب أن ينتهي بأحد القيم التالية: :values",
     "enum": "القيمة المحددة غير صالحة.",
     "exists": "القيمة المحددة غير صالحة.",
+    "extensions": "This field must have one of the following extensions: :values.",
     "file": "المحتوى يجب أن يكون ملفا.",
     "filled": "هذا الحقل إجباري.",
     "gt.array": "يجب أن يحتوي على أكثر من :value عناصر/عنصر.",

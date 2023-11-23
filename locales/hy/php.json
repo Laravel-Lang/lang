@@ -46,6 +46,7 @@
     "ends_with": ":Attribute դաշտը պետք է ավարտվի հետևյալ արժեքներից մեկով․ :values։",
     "enum": "Ընտրված :attribute-ն անվավեր է:",
     "exists": ":Attribute դաշտի ընտրված արժեքն անվավեր է։",
+    "extensions": "The :attribute field must have one of the following extensions: :values.",
     "failed": "Մուտքագրված տվյալները սխալ են։",
     "file": ":Attribute-ը պետք է լինի ֆայլ։",
     "filled": ":Attribute դաշտը պետք է անպայման ունենա արժեք։",

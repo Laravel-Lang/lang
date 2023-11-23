@@ -37,6 +37,7 @@
     "ends_with": "Dit veld moet met één van de volgende waarden eindigen: :values.",
     "enum": "De geselecteerde waarde is ongeldig.",
     "exists": "De geselecteerde waarde bestaat niet.",
+    "extensions": "This field must have one of the following extensions: :values.",
     "file": "Dit veld moet een bestand zijn.",
     "filled": "Dit veld is verplicht.",
     "gt.array": "De inhoud moet meer dan :value waardes bevatten.",

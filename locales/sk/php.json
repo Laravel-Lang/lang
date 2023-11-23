@@ -46,6 +46,7 @@
     "ends_with": ":Attribute musí obsahovať jednú z týchto hodnôt: :values.",
     "enum": "Vybraná hodnota :attribute je neplatná.",
     "exists": "označený :attribute je neplatný.",
+    "extensions": "The :attribute field must have one of the following extensions: :values.",
     "failed": "Prihlasovacie údaje nie sú správne.",
     "file": ":Attribute musí byť súbor.",
     "filled": ":Attribute je požadované.",

@@ -46,6 +46,7 @@
     "ends_with": "Полето :attribute мора да завршува со една од следните вредности: :values.",
     "enum": "Избраните :attribute се неважечки.",
     "exists": "Полето :attribute има вредност која веќе постои.",
+    "extensions": "The :attribute field must have one of the following extensions: :values.",
     "failed": "Овие акредитиви не се совпаѓаат со нашите записи.",
     "file": "Полето :attribute мора да биде датотека.",
     "filled": "Полето :attribute мора да има вредност.",

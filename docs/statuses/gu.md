@@ -4,12 +4,12 @@ editLink: false
 
 # gu
 
-##### All missed: 7
+##### All missed: 6
 
 
 ### json
 
-##### Missing: 7
+##### Missing: 6
 
 <table width="100%">
 <tr><th width="50%">
@@ -37,15 +37,6 @@ ID
 </td><td width="50%">
 
 ID
-
-</td></tr>
-<tr><td width="50%">
-
-Mark Unread
-
-</td><td width="50%">
-
-Mark Unread
 
 </td></tr>
 <tr><td width="50%">

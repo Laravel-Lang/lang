@@ -4,12 +4,12 @@ editLink: false
 
 # pt
 
-##### All missed: 42
+##### All missed: 41
 
 
 ### json
 
-##### Missing: 42
+##### Missing: 41
 
 <table width="100%">
 <tr><th width="50%">
@@ -226,15 +226,6 @@ Manitoba
 </td><td width="50%">
 
 Manitoba
-
-</td></tr>
-<tr><td width="50%">
-
-Mark Unread
-
-</td><td width="50%">
-
-Mark Unread
 
 </td></tr>
 <tr><td width="50%">

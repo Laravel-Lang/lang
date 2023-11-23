@@ -46,7 +46,7 @@
     "ends_with": "يجب أن ينتهي حقل :attribute بأحد القيم التالية: :values",
     "enum": "حقل :attribute المختار غير صالح.",
     "exists": "القيمة المحددة :attribute غير موجودة.",
-    "extensions": "The :attribute field must have one of the following extensions: :values.",
+    "extensions": "يجب أن يحتوي الحقل :attribute على أحد الإمتدادات التالية: :values.",
     "failed": "بيانات الاعتماد هذه غير متطابقة مع البيانات المسجلة لدينا.",
     "file": "الحقل :attribute يجب أن يكون ملفا.",
     "filled": "حقل :attribute إجباري.",

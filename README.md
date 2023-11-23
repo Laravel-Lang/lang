@@ -8,8 +8,6 @@
 [![Github Workflow Status][badge_build]][link_build]
 [![License][badge_license]][link_license]
 
-In this repository, you can find the lang files for the [Laravel Framework](https://laravel.com), [Laravel Jetstream](https://jetstream.laravel.com), [Laravel Fortify](https://github.com/laravel/fortify), [Laravel Cashier](https://laravel.com/docs/billing), [Laravel Breeze](https://github.com/laravel/breeze), [Laravel Nova](https://nova.laravel.com), [Laravel Spark](https://spark.laravel.com) and [Laravel UI](https://github.com/laravel/ui).
-
 ## Documentation
 
 See the [documentation](https://laravel-lang.com) for detailed installation.

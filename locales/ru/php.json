@@ -46,7 +46,7 @@
     "ends_with": "Значение поля :attribute должно заканчиваться одним из следующих: :values",
     "enum": "Значение поля :attribute некорректно.",
     "exists": "Значение поля :attribute не существует.",
-    "extensions": "The :attribute field must have one of the following extensions: :values.",
+    "extensions": "Файл в поле :attribute должен иметь одно из следующих расширений: :values.",
     "failed": "Неверное имя пользователя или пароль.",
     "file": "В поле :attribute должен быть указан файл.",
     "filled": "Значение поля :attribute обязательно для заполнения.",

@@ -46,7 +46,7 @@
     "ends_with": "O campo :attribute deverá terminar com : :values.",
     "enum": "O :attribute selecionado é inválido.",
     "exists": "O valor selecionado para o campo :attribute é inválido.",
-    "extensions": "The :attribute field must have one of the following extensions: :values.",
+    "extensions": "O campo :attribute deve ter uma das seguintes extensões: :values.",
     "failed": "As credenciais indicadas não coincidem com as registadas no sistema.",
     "file": "O campo :attribute deverá conter um ficheiro.",
     "filled": "É obrigatória a indicação de um valor para o campo :attribute.",

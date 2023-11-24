@@ -4,7 +4,7 @@ editLink: false
 
 # sk
 
-##### All missed: 110
+##### All missed: 108
 
 
 ### json
@@ -990,7 +990,7 @@ Zimbabwe
 
 
 
-### php-inline
+### php
 
 ##### Missing: 1
 
@@ -1004,44 +1004,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-extensions
-
-</td><td width="50%">
-
-This field must have one of the following extensions: :values.
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php
-
-##### Missing: 2
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-extensions
-
-</td><td width="50%">
-
-The :attribute field must have one of the following extensions: :values.
-
-</td></tr>
 <tr><td width="50%">
 
 team_slug

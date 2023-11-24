@@ -46,7 +46,7 @@
     "ends_with": ":Attribute duhet të përfundojë me një nga vlerat: :values.",
     "enum": ":Attribute e zgjedhura është e pavlefshme.",
     "exists": ":Attribute përzgjedhur është i/e pasaktë.",
-    "extensions": "The :attribute field must have one of the following extensions: :values.",
+    "extensions": "Fusha :attribute duhet të ketë një nga shtesat e mëposhtme: :values.",
     "failed": "Këto të dhëna nuk përputhen me të dhënat tona.",
     "file": ":Attribute duhet të jetë një fajll.",
     "filled": "Fusha :attribute është e kërkuar.",

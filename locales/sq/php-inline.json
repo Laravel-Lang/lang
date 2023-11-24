@@ -37,7 +37,7 @@
     "ends_with": "Kjo duhet të përfundojë me një nga vlerat: :values.",
     "enum": "The selected value is invalid.",
     "exists": "Vlera e përzgjedhur është e pasaktë.",
-    "extensions": "This field must have one of the following extensions: :values.",
+    "extensions": "Kjo fushë duhet të ketë një nga shtesat e mëposhtme: :values.",
     "file": "Kjo duhet të jetë një fajll.",
     "filled": "Kjo fushë është e kërkuar.",
     "gt.array": "Kjo duhet të ketë më shumë se :value elemente.",

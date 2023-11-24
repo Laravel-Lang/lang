@@ -37,7 +37,7 @@
     "ends_with": "This must end with one of the following: :values.",
     "enum": "The selected value is invalid.",
     "exists": "The selected value is invalid.",
-    "extensions": "This field must have one of the following extensions: :values.",
+    "extensions": "આ ફીલ્ડમાં નીચેનામાંથી એક એક્સ્ટેન્શન હોવું આવશ્યક છે: :values.",
     "file": "The content must be a file.",
     "filled": "This field must have a value.",
     "gt.array": "The content must have more than :value items.",

@@ -46,7 +46,7 @@
     "ends_with": "שדה :attribute חייב להסתיים באחד מהבאים: :values",
     "enum": "ה-:attribute שנבחר אינו חוקי.",
     "exists": "בחירת ה-:attribute אינה תקפה.",
-    "extensions": "The :attribute field must have one of the following extensions: :values.",
+    "extensions": "בשדה :attribute חייבת להיות אחת מההרחבות הבאות: :values.",
     "failed": "פרטים אלה אינם תואמים את רישומינו.",
     "file": "שדה :attribute חייב להיות קובץ.",
     "filled": "שדה :attribute הוא חובה.",

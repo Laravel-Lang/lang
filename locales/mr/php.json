@@ -46,7 +46,7 @@
     "ends_with": ":Attribute खालील एक समाप्त करणे आवश्यक आहे: :values.",
     "enum": "निवडलेले :attribute अवैध आहे.",
     "exists": "निवडलेेलेे :attribute वैध नाही.",
-    "extensions": "The :attribute field must have one of the following extensions: :values.",
+    "extensions": ":attribute फील्डमध्ये खालीलपैकी एक विस्तार असणे आवश्यक आहे: :values.",
     "failed": "हे खाते वैध नाही.",
     "file": ":Attribute एक फ़ाइल असावी.",
     "filled": ":Attribute फील्ड आवश्यक आहे.",

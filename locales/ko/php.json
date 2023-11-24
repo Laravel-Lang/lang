@@ -46,7 +46,7 @@
     "ends_with": ":Attribute은(는) 다음 중 하나로 끝나야 합니다: :values.",
     "enum": ":Attribute의 값이 잘못되었습니다.",
     "exists": ":Attribute이(가) 존재하지 않습니다.",
-    "extensions": "The :attribute field must have one of the following extensions: :values.",
+    "extensions": ":attribute 필드에는 다음 확장자 중 하나가 있어야 합니다. :values.",
     "failed": "제출된 인증 정보가 레코드와 일치하지 않습니다.",
     "file": ":Attribute은(는) 파일이어야 합니다.",
     "filled": ":Attribute 필드는 값이 있어야 합니다.",

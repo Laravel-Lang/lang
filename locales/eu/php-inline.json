@@ -37,7 +37,7 @@
     "ends_with": "Hau behar amaiera hauetako bat: :values.",
     "enum": "The selected value is invalid.",
     "exists": "Hautatutako balio baliogabea da.",
-    "extensions": "This field must have one of the following extensions: :values.",
+    "extensions": "Eremu honek luzapen hauetako bat izan behar du: :values.",
     "file": "Eduki bat izan behar du fitxategia.",
     "filled": "Eremu hau bat izan behar du balio.",
     "gt.array": "The content must have more than :value items.",

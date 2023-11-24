@@ -37,7 +37,7 @@
     "ends_with": "Toto musí skončiť jedným z nasledujúcich krokov: :values.",
     "enum": "The selected value is invalid.",
     "exists": "Zvolená hodnota je neplatná.",
-    "extensions": "This field must have one of the following extensions: :values.",
+    "extensions": "Toto pole musí mať jedno z nasledujúcich rozšírení: :values.",
     "file": "Obsah musí byť súbor.",
     "filled": "Toto pole musí mať hodnotu.",
     "gt.array": "The content must have more than :value items.",

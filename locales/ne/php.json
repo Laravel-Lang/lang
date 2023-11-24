@@ -46,7 +46,7 @@
     "ends_with": ":Attribute निम्न मध्ये एकको साथ विशेषता अन्त हुनुपर्दछ :values",
     "enum": "चयन गरिएको :attribute अमान्य छ।",
     "exists": "छानिएको :attribute अमान्य छ।",
-    "extensions": "The :attribute field must have one of the following extensions: :values.",
+    "extensions": ":attribute फिल्डमा निम्न मध्ये एउटा एक्सटेन्सन हुनुपर्छ: :values।",
     "failed": "यी प्रमाणहरू हाम्रो रेकर्ड संग मेल खादैनन्।",
     "file": ":Attribute एक फाईल हुनुपर्दछ।",
     "filled": ":Attribute दिइएको हुनुपर्छ।",

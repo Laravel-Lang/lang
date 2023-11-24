@@ -46,7 +46,7 @@
     "ends_with": ":Attribute sahəsi göstərilən dəyərlərdən biri ilə bitməlidir: :values.",
     "enum": ":Attribute üçün seçilmiş dəyər yanlışdır.",
     "exists": ":Attribute üçün seçilmiş dəyər yanlışdır.",
-    "extensions": "The :attribute field must have one of the following extensions: :values.",
+    "extensions": ":attribute sahəsində aşağıdakı uzantılardan biri olmalıdır: :values.",
     "failed": "İstifadəçi adı və ya şifrə səhvdir",
     "file": ":Attribute fayl olmalıdır.",
     "filled": ":Attribute sahəsinin dəyəri olmalıdır.",

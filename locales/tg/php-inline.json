@@ -37,7 +37,7 @@
     "ends_with": "Ин бояд заканчиваться яке аз нуқтаҳои зерин: :values.",
     "enum": "The selected value is invalid.",
     "exists": "Интихоб арзиши як недопустимым.",
-    "extensions": "This field must have one of the following extensions: :values.",
+    "extensions": "Ин майдон бояд яке аз васеъшавии зеринро дошта бошад: :values.",
     "file": "Маълумоте, ки бояд бошад, ки файли матнӣ намебошад.",
     "filled": "Ин соҳа бояд дорои аҳамияти.",
     "gt.array": "The content must have more than :value items.",

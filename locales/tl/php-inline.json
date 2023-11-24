@@ -37,7 +37,7 @@
     "ends_with": "Ito ay dapat magtapos sa isa sa mga sumusunod: :values.",
     "enum": "The selected value is invalid.",
     "exists": "Ang napiling halaga ay hindi wasto.",
-    "extensions": "This field must have one of the following extensions: :values.",
+    "extensions": "Ang field na ito ay dapat magkaroon ng isa sa mga sumusunod na extension: :values.",
     "file": "Ang nilalaman ay dapat na isang talaksan.",
     "filled": "Ang patlang na ito ay dapat magkaroon ng isang halaga.",
     "gt.array": "The content must have more than :value items.",

@@ -46,7 +46,7 @@
     "ends_with": ":Attribute aşakdakylaryň biri bilen gutarmaly: :values.",
     "enum": "Saýlanan :attribute nädogry.",
     "exists": "Saýlanan :attribute ýalňyş.",
-    "extensions": "The :attribute field must have one of the following extensions: :values.",
+    "extensions": ":attribute meýdançada aşakdaky giňeltmeleriň biri bolmaly: :values.",
     "failed": "Bu şahsyýetnamalar, ýazgylarymyza gabat gelmeýär.",
     "file": ":Attribute faýl bolmaly.",
     "filled": ":Attribute meýdany zerur.",

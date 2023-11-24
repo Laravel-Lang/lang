@@ -37,7 +37,7 @@
     "ends_with": "次のいずれかで終わる必要があります: :values",
     "enum": "選択された値は無効です。",
     "exists": "選択した値が無効です。",
-    "extensions": "This field must have one of the following extensions: :values.",
+    "extensions": "このフィールドには、次のいずれかの拡張子が必要です: :values.",
     "file": "ファイルである必要があります。",
     "filled": "値がありません。",
     "gt.array": "項目数は、:Value個より多い必要があります。",

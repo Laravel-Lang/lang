@@ -37,7 +37,7 @@
     "ends_with": "Այս դաշտը պետք է ավարտվի հետևյալ արժեքներից մեկով․ :values։",
     "enum": "The selected value is invalid.",
     "exists": "Ընտրված արժեքն անվավեր է։",
-    "extensions": "This field must have one of the following extensions: :values.",
+    "extensions": "Այս դաշտը պետք է ունենա հետևյալ ընդլայնումներից մեկը՝ :values.",
     "file": "Մուտքագրաված տվյալը պետք է լինի ֆայլ։",
     "filled": "Այս դաշտը պետք է անպայման լրացված լինի։",
     "gt.array": "Այս դաշտում էլեմենտների քանակը պետք է լինի :value-ից մեծ։",

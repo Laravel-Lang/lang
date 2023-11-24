@@ -37,7 +37,7 @@
     "ends_with": "Ennek az alábbiak egyikével kell végződnie: :values.",
     "enum": "A kiválasztott érték érvénytelen.",
     "exists": "A kiválasztott érték érvénytelen.",
-    "extensions": "This field must have one of the following extensions: :values.",
+    "extensions": "Ennek a mezőnek a következő kiterjesztések valamelyikével kell rendelkeznie: :values.",
     "file": "A tartalomnak fájlnak kell lennie.",
     "filled": "Ennek a mezőnek kell legyen értéke.",
     "gt.array": "The content must have more than :value items.",

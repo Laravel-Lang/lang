@@ -37,7 +37,7 @@
     "ends_with": "Това трябва да завърши с едно от следните: :values.",
     "enum": "The selected value is invalid.",
     "exists": "Избраната стойност е невалидна.",
-    "extensions": "This field must have one of the following extensions: :values.",
+    "extensions": "Това поле трябва да има едно от следните разширения: :values.",
     "file": "Съдържанието трябва да е файл.",
     "filled": "Това поле трябва да има значение.",
     "gt.array": "Съдържанието трябва да има повече от :value елемента.",

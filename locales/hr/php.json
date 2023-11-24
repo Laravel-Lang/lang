@@ -46,7 +46,7 @@
     "ends_with": ":Attribute bi trebao završiti s jednim od sljedećih: :values.",
     "enum": "Odabrano polje :attribute nije ispravno.",
     "exists": "Odabrano polje :attribute nije ispravno.",
-    "extensions": "The :attribute field must have one of the following extensions: :values.",
+    "extensions": "Polje :attribute mora imati jedno od sljedećih proširenja: :values.",
     "failed": "Ovi podaci ne odgovaraju našima.",
     "file": "Polje :attribute mora biti datoteka.",
     "filled": "Polje :attribute je obavezno.",

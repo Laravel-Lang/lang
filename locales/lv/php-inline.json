@@ -37,7 +37,7 @@
     "ends_with": "Tam jābeidzas ar vienu no šiem: :values.",
     "enum": "The selected value is invalid.",
     "exists": "Atlasītā vērtība nav derīga.",
-    "extensions": "This field must have one of the following extensions: :values.",
+    "extensions": "Šim laukam ir jābūt vienam no šiem paplašinājumiem: :values.",
     "file": "Saturam jābūt failam.",
     "filled": "Šim laukam jābūt vērtībai.",
     "gt.array": "The content must have more than :value items.",

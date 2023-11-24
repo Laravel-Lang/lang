@@ -46,7 +46,7 @@
     "ends_with": ":Attribute jābeidzas ar vienu no šiem: :values.",
     "enum": "Atlasītie :attribute nav derīgi.",
     "exists": "Izvēlētais :attribute ir nederīgs.",
-    "extensions": "The :attribute field must have one of the following extensions: :values.",
+    "extensions": "Laukam :attribute ir jābūt vienam no šiem paplašinājumiem: :values.",
     "failed": "Šie dati neatbilst mūsu reģistram.",
     "file": ":Attribute jābūt failam.",
     "filled": ":Attribute lauks ir obligāts.",

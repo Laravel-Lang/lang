@@ -37,7 +37,7 @@
     "ends_with": "Bu şunlardan biriyle bitmelidir: :values.",
     "enum": "Seçilen değer geçersiz.",
     "exists": "Seçili değer geçersiz.",
-    "extensions": "This field must have one of the following extensions: :values.",
+    "extensions": "Bu alan aşağıdaki uzantılardan birine sahip olmalıdır: :values.",
     "file": "İçerik bir dosya olmalı.",
     "filled": "Bu alanın bir değeri olmalıdır.",
     "gt.array": "Bu içerikte :value'den fazla öge bulunmalıdır.",

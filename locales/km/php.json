@@ -46,7 +46,7 @@
     "ends_with": ":Attribute ត្រូវបញ្ចប់ដោយពាក្យមួយក្នុងចំណោម :values។",
     "enum": ":Attribute ដែលបានជ្រើសរើសមិនត្រឹមត្រូវទេ។",
     "exists": "ការជ្រើសរើស :attribute ត្រឹមត្រូវ។",
-    "extensions": "The :attribute field must have one of the following extensions: :values.",
+    "extensions": "វាលទាំង :attribute ត្រូវតែមានផ្នែកបន្ថែមមួយក្នុងចំណោមផ្នែកបន្ថែមខាងក្រោម: :values ។",
     "failed": "ពាក្យសម្ងាត់មិនត្រឺមត្រូវ។",
     "file": ":Attribute ត្រូវតែជាប្រភេទឯកសារ។",
     "filled": "ទម្រង់ :attribute នេះគឺទាមទារឲ្យមាន។",

@@ -37,7 +37,7 @@
     "ends_with": "මේ අවසන් විය යුතුය සමග එක් පහත සඳහන්: :values.",
     "enum": "The selected value is invalid.",
     "exists": "තෝරාගත් අගය සාවද්ය වේ.",
-    "extensions": "This field must have one of the following extensions: :values.",
+    "extensions": "මෙම ක්ෂේත්‍රයට පහත දිගු වලින් එකක් තිබිය යුතුය: :values.",
     "file": "අන්තර්ගත විය යුතුය ගොනුව.",
     "filled": "මේ ක්ෂේත්‍රය ඇති කළ යුතු අගය.",
     "gt.array": "මෙම ක්ෂේත්‍රය :value ට වඩා වැඩි අයිතම ගණනක් විය යුතුය.",

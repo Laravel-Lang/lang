@@ -46,7 +46,7 @@
     "ends_with": "මෙම :attribute එක :values මගින් අවසාන විය යුතුය.",
     "enum": "තෝරාගත් :attribute වලංගු නොවේ.",
     "exists": "තෝරාගත් :attribute අගය වලංගු නොවේ.",
-    "extensions": "The :attribute field must have one of the following extensions: :values.",
+    "extensions": ":attribute ක්ෂේත්‍රයට පහත දිගු වලින් එකක් තිබිය යුතුය: :values.",
     "failed": "මෙම අක්ත පත්‍ර අපගේ වාර්තා වලට ගැලපෙන්නේ නැත.",
     "file": "මෙම :attribute ය ෆයිල් එකක් විය යුතුය.",
     "filled": "මේ :attribute හි අගයක් තිබිය යුතුය.",

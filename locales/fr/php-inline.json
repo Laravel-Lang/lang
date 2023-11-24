@@ -37,7 +37,7 @@
     "ends_with": "Ce champ doit se terminer par une des valeurs suivantes : :values",
     "enum": "Ce champ selectionné est invalide.",
     "exists": "Ce champ sélectionné est invalide.",
-    "extensions": "This field must have one of the following extensions: :values.",
+    "extensions": "Ce champ doit avoir l'une des extensions suivantes : :values.",
     "file": "Ce champ doit être un fichier.",
     "filled": "Ce champ doit avoir une valeur.",
     "gt.array": "Le tableau doit contenir plus de :value éléments.",

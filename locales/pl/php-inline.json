@@ -37,7 +37,7 @@
     "ends_with": "Pole musi kończyć się jedną z następujących wartości: :values.",
     "enum": "Wybrana wartość jest nieprawidłowa.",
     "exists": "Zaznaczona wartość jest nieprawidłowa.",
-    "extensions": "This field must have one of the following extensions: :values.",
+    "extensions": "To pole musi mieć jedno z następujących rozszerzeń: :values.",
     "file": "Pole musi być plikiem.",
     "filled": "Pole nie może być puste.",
     "gt.array": "Pole musi mieć więcej niż :value elementów.",

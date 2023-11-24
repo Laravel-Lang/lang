@@ -46,7 +46,7 @@
     "ends_with": "Pole :attribute musi kończyć się jedną z następujących wartości: :values.",
     "enum": "Pole :attribute ma niepoprawną wartość.",
     "exists": "Zaznaczone pole :attribute jest nieprawidłowe.",
-    "extensions": "The :attribute field must have one of the following extensions: :values.",
+    "extensions": "Pole :attribute musi mieć jedno z następujących rozszerzeń: :values.",
     "failed": "Błędny login lub hasło.",
     "file": "Pole :attribute musi być plikiem.",
     "filled": "Pole :attribute nie może być puste.",

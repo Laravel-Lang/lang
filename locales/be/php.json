@@ -46,7 +46,7 @@
     "ends_with": ":Attribute павінен заканчвацца адным з наступных: :values.",
     "enum": "Выбраныя :attribute несапраўдныя.",
     "exists": "Выбранае значэнне для :attribute некарэктна.",
-    "extensions": "The :attribute field must have one of the following extensions: :values.",
+    "extensions": "Поле :attribute павінна мець адно з наступных пашырэнняў: :values.",
     "failed": "Імя карыстальніка і пароль не супадаюць.",
     "file": ":Attribute павінен быць файлам.",
     "filled": "Поле :attribute абавязкова для запаўнення.",

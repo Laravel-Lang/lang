@@ -37,7 +37,7 @@
     "ends_with": "Hii lazima mwisho na moja ya yafuatayo: :values.",
     "enum": "Thamani iliyochaguliwa ni batili.",
     "exists": "Thamani iliyochaguliwa tayari ipo.",
-    "extensions": "This field must have one of the following extensions: :values.",
+    "extensions": "Sehemu hii lazima iwe na mojawapo ya viendelezi vifuatavyo: :values.",
     "file": "Maudhui lazima iwe faili.",
     "filled": "Uwanja huu lazima kuwa na thamani.",
     "gt.array": "Maudhui lazima yawe na zaidi ya :value vya thamani.",

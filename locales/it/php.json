@@ -46,7 +46,7 @@
     "ends_with": ":Attribute deve finire con uno dei seguenti valori: :values",
     "enum": "Il campo :attribute non è valido.",
     "exists": ":Attribute selezionato non è valido.",
-    "extensions": "The :attribute field must have one of the following extensions: :values.",
+    "extensions": "Il campo :attribute deve avere una delle seguenti estensioni: :values.",
     "failed": "Credenziali non valide.",
     "file": ":Attribute deve essere un file.",
     "filled": "Il campo :attribute deve contenere un valore.",

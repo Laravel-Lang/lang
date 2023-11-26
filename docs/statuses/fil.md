@@ -4,7 +4,7 @@ editLink: false
 
 # fil
 
-##### All missed: 318
+##### All missed: 317
 
 
 ### php
@@ -38,7 +38,7 @@ Team Slug
 
 ### json
 
-##### Missing: 317
+##### Missing: 316
 
 <table width="100%">
 <tr><th width="50%">
@@ -372,15 +372,6 @@ Botswana
 </td><td width="50%">
 
 Botswana
-
-</td></tr>
-<tr><td width="50%">
-
-Bouvet Island
-
-</td><td width="50%">
-
-Bouvet Island
 
 </td></tr>
 <tr><td width="50%">

@@ -50,5 +50,7 @@ class Plugin extends Provider
 
         Plugins\UI\Master::class,
         Plugins\UI\V4::class,
+
+        Plugins\Pulse\V1::class,
     ];
 }

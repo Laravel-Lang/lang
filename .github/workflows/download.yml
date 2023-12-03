@@ -238,3 +238,18 @@ jobs:
                     --url=https://github.com/laravel/ui/archive/refs/heads/${{ matrix.version }}.zip \
                     --project=ui \
                     --ver=${{ matrix.version }}
+
+    pulse:
+        uses: Laravel-Lang/.github/.github/workflows/download.yml@main
+        strategy:
+            fail-fast: true
+            matrix:
+                version: [ "1.x", "master" ]
+        with:
+            project: Laravel Pulse ${{ matrix.version }}
+            paths: source/pulse/${{ matrix.version }}/*
+            commands: |
+                vendor/bin/lang download \
+                    --url=https://github.com/laravel/pulse/archive/refs/heads/${{ matrix.version }}.zip \
+                    --project=pulse \
+                    --ver=${{ matrix.version }}

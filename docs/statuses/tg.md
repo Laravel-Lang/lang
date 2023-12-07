@@ -4,12 +4,12 @@ editLink: false
 
 # tg
 
-##### All missed: 3
+##### All missed: 4
 
 
 ### json
 
-##### Missing: 2
+##### Missing: 3
 
 <table width="100%">
 <tr><th width="50%">
@@ -37,6 +37,15 @@ ID
 </td><td width="50%">
 
 ID
+
+</td></tr>
+<tr><td width="50%">
+
+User Actions
+
+</td><td width="50%">
+
+User Actions
 
 </td></tr>
 </table>

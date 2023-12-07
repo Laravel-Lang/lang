@@ -4,7 +4,7 @@ editLink: false
 
 # sc
 
-##### All missed: 1271
+##### All missed: 1272
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 1102
+##### Missing: 1103
 
 <table width="100%">
 <tr><th width="50%">
@@ -8942,6 +8942,15 @@ Use an authentication code
 </td><td width="50%">
 
 Use an authentication code
+
+</td></tr>
+<tr><td width="50%">
+
+User Actions
+
+</td><td width="50%">
+
+User Actions
 
 </td></tr>
 <tr><td width="50%">

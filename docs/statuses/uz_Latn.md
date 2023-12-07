@@ -4,7 +4,7 @@ editLink: false
 
 # uz_Latn
 
-##### All missed: 736
+##### All missed: 737
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 625
+##### Missing: 626
 
 <table width="100%">
 <tr><th width="50%">
@@ -4881,6 +4881,15 @@ Uruguay
 </td><td width="50%">
 
 Uruguay
+
+</td></tr>
+<tr><td width="50%">
+
+User Actions
+
+</td><td width="50%">
+
+User Actions
 
 </td></tr>
 <tr><td width="50%">

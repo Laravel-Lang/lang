@@ -470,5 +470,6 @@
     "Uploading files... (:current/:total)": "Uploading files... (:current/:total)",
     "Remove": "Remove",
     "Uploading": "Uploading",
-    "The image could not be loaded.": "The image could not be loaded."
+    "The image could not be loaded.": "The image could not be loaded.",
+    "User Actions": "User Actions"
 }

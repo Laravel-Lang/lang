@@ -162,7 +162,7 @@
     "throttle": "Zu viele Loginversuche. Versuchen Sie es bitte in :seconds Sekunden nochmal.",
     "throttled": "Bitte warten Sie, bevor Sie es erneut versuchen.",
     "timezone": ":Attribute muss eine gültige Zeitzone sein.",
-    "token": "Der Passwort-Wiederherstellungs-Schlüssel ist ungültig oder abgelaufen.",
+    "token": "Der Passwort-Wiederherstellungsschlüssel ist ungültig oder abgelaufen.",
     "ulid": "Die :attribute muss eine gültige ULID sein.",
     "unique": ":Attribute ist bereits vergeben.",
     "update_team_name": "Teamnamen aktualisieren",

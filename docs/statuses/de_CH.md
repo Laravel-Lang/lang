@@ -4,12 +4,12 @@ editLink: false
 
 # de_CH
 
-##### All missed: 65
+##### All missed: 64
 
 
 ### json
 
-##### Missing: 64
+##### Missing: 63
 
 <table width="100%">
 <tr><th width="50%">
@@ -514,15 +514,6 @@ Texas
 </td><td width="50%">
 
 Texas
-
-</td></tr>
-<tr><td width="50%">
-
-User Actions
-
-</td><td width="50%">
-
-User Actions
 
 </td></tr>
 <tr><td width="50%">

@@ -4,12 +4,12 @@ editLink: false
 
 # af
 
-##### All missed: 58
+##### All missed: 57
 
 
 ### json
 
-##### Missing: 58
+##### Missing: 57
 
 <table width="100%">
 <tr><th width="50%">
@@ -469,15 +469,6 @@ Texas
 </td><td width="50%">
 
 Texas
-
-</td></tr>
-<tr><td width="50%">
-
-User Actions
-
-</td><td width="50%">
-
-User Actions
 
 </td></tr>
 <tr><td width="50%">

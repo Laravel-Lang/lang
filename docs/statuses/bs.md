@@ -4,12 +4,12 @@ editLink: false
 
 # bs
 
-##### All missed: 80
+##### All missed: 79
 
 
 ### json
 
-##### Missing: 78
+##### Missing: 77
 
 <table width="100%">
 <tr><th width="50%">
@@ -631,15 +631,6 @@ Total Volume
 </td><td width="50%">
 
 Total Volume
-
-</td></tr>
-<tr><td width="50%">
-
-User Actions
-
-</td><td width="50%">
-
-User Actions
 
 </td></tr>
 <tr><td width="50%">

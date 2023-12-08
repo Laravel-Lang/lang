@@ -4,12 +4,12 @@ editLink: false
 
 # cy
 
-##### All missed: 60
+##### All missed: 59
 
 
 ### json
 
-##### Missing: 60
+##### Missing: 59
 
 <table width="100%">
 <tr><th width="50%">
@@ -487,15 +487,6 @@ Toggle Navigation
 </td><td width="50%">
 
 Toggle Navigation
-
-</td></tr>
-<tr><td width="50%">
-
-User Actions
-
-</td><td width="50%">
-
-User Actions
 
 </td></tr>
 <tr><td width="50%">

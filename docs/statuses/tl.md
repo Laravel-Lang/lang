@@ -4,12 +4,12 @@ editLink: false
 
 # tl
 
-##### All missed: 208
+##### All missed: 207
 
 
 ### json
 
-##### Missing: 207
+##### Missing: 206
 
 <table width="100%">
 <tr><th width="50%">
@@ -1720,15 +1720,6 @@ Update Announcement
 </td><td width="50%">
 
 Update Announcement
-
-</td></tr>
-<tr><td width="50%">
-
-User Actions
-
-</td><td width="50%">
-
-User Actions
 
 </td></tr>
 <tr><td width="50%">

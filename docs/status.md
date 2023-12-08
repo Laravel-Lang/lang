@@ -91,7 +91,7 @@ editLink: false
 
 </td><td width="12%">
 
-[fr&nbsp;❗](statuses/fr.md)
+[fr&nbsp;✔](statuses/fr.md)
 
 </td><td width="12%">
 

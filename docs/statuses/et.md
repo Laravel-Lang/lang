@@ -4,12 +4,12 @@ editLink: false
 
 # et
 
-##### All missed: 62
+##### All missed: 61
 
 
 ### json
 
-##### Missing: 62
+##### Missing: 61
 
 <table width="100%">
 <tr><th width="50%">
@@ -505,15 +505,6 @@ Token Can
 </td><td width="50%">
 
 Token Can
-
-</td></tr>
-<tr><td width="50%">
-
-User Actions
-
-</td><td width="50%">
-
-User Actions
 
 </td></tr>
 <tr><td width="50%">

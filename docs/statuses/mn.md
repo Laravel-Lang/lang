@@ -4,12 +4,12 @@ editLink: false
 
 # mn
 
-##### All missed: 3
+##### All missed: 2
 
 
 ### json
 
-##### Missing: 2
+##### Missing: 1
 
 <table width="100%">
 <tr><th width="50%">
@@ -28,15 +28,6 @@ API
 </td><td width="50%">
 
 API
-
-</td></tr>
-<tr><td width="50%">
-
-User Actions
-
-</td><td width="50%">
-
-User Actions
 
 </td></tr>
 </table>

@@ -4,12 +4,12 @@ editLink: false
 
 # gu
 
-##### All missed: 7
+##### All missed: 6
 
 
 ### json
 
-##### Missing: 7
+##### Missing: 6
 
 <table width="100%">
 <tr><th width="50%">
@@ -64,15 +64,6 @@ TAX
 </td><td width="50%">
 
 TAX
-
-</td></tr>
-<tr><td width="50%">
-
-User Actions
-
-</td><td width="50%">
-
-User Actions
 
 </td></tr>
 <tr><td width="50%">

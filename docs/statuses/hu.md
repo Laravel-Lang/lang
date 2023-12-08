@@ -4,12 +4,12 @@ editLink: false
 
 # hu
 
-##### All missed: 117
+##### All missed: 116
 
 
 ### json
 
-##### Missing: 117
+##### Missing: 116
 
 <table width="100%">
 <tr><th width="50%">
@@ -964,15 +964,6 @@ Uruguay
 </td><td width="50%">
 
 Uruguay
-
-</td></tr>
-<tr><td width="50%">
-
-User Actions
-
-</td><td width="50%">
-
-User Actions
 
 </td></tr>
 <tr><td width="50%">

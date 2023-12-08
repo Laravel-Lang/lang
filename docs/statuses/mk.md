@@ -4,12 +4,12 @@ editLink: false
 
 # mk
 
-##### All missed: 3
+##### All missed: 2
 
 
 ### json
 
-##### Missing: 3
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -37,15 +37,6 @@ N/A
 </td><td width="50%">
 
 N/A
-
-</td></tr>
-<tr><td width="50%">
-
-User Actions
-
-</td><td width="50%">
-
-User Actions
 
 </td></tr>
 </table>

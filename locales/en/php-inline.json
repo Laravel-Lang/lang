@@ -37,6 +37,7 @@
     "ends_with": "This field must end with one of the following: :values.",
     "enum": "The selected field is invalid.",
     "exists": "The selected field is invalid.",
+    "extensions": "This field must have one of the following extensions: :values.",
     "file": "This field must be a file.",
     "filled": "This field is required.",
     "gt.array": "This field must have more than :value items.",

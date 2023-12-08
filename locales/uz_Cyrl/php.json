@@ -46,6 +46,7 @@
     "ends_with": ":Attribute қуйидаги қийматларнинг бири билан тугаши керак: :values.",
     "enum": "Tanlangan :attribute yaroqsiz.",
     "exists": ":Attribute учун танланган қиймат нотўғри.",
+    "extensions": ":attribute maydoni quyidagi kengaytmalardan biriga ega bo'lishi kerak: :values.",
     "failed": "Бундай маълумотларга эга фойдаланувчи мавжуд эмас.",
     "file": ":Attribute файл бўлиши керак.",
     "filled": ":Attribute майдони тўлдирилиши шарт.",

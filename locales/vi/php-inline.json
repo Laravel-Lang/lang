@@ -37,6 +37,7 @@
     "ends_with": "Trường này phải kết thúc bằng một trong những giá trị sau: :values",
     "enum": "Giá trị đã chọn trong trường này không hợp lệ.",
     "exists": "Giá trị đã chọn trong trường này không hợp lệ.",
+    "extensions": "Trường này phải có một trong các phần mở rộng sau: :values.",
     "file": "Trường này phải là một tệp tin.",
     "filled": "Trường này không được bỏ trống.",
     "gt.array": "Mảng này phải có nhiều hơn :value phần tử.",

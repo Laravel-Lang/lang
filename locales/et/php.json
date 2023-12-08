@@ -46,6 +46,7 @@
     "ends_with": ":Attribute peab lõppema ühega järgmistest: :values.",
     "enum": "Valitud :attribute on kehtetu.",
     "exists": "Valitud :attribute on vigane.",
+    "extensions": "Väljal :attribute peab olema üks järgmistest laienditest: :values.",
     "failed": "Need andmed ei klapi meie kirjetega.",
     "file": ":Attribute peab olema fail.",
     "filled": ":Attribute väli on nõutav.",

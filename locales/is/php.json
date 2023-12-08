@@ -46,6 +46,7 @@
     "ends_with": "Við :attribute verður að enda með eftirfarandi: :values.",
     "enum": "Valin :attribute eru ógild.",
     "exists": "Reiturinn :attribute er nú þegar til.",
+    "extensions": "Reiturinn :attribute verður að hafa eina af eftirfarandi viðbótum: :values.",
     "failed": "Þessi skilríki passa ekki við skrár okkar.",
     "file": ":Attribute verður að vera skrá.",
     "filled": "Reiturinn :attribute verður að innihalda eitthvað.",

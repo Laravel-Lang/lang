@@ -37,6 +37,7 @@
     "ends_with": "اس کو ختم کرنا ضروری ہے کے ساتھ مندرجہ ذیل میں سے ایک: :values.",
     "enum": "The selected value is invalid.",
     "exists": "منتخب قدر باطل ہے.",
+    "extensions": "اس فیلڈ میں درج ذیل میں سے ایک ایکسٹینشن ہونا ضروری ہے: :values۔",
     "file": "مواد ہونا ضروری ہے ایک فائل.",
     "filled": "اس میدان میں ہونا ضروری ہے ، ایک قیمت ہے.",
     "gt.array": "The content must have more than :value items.",

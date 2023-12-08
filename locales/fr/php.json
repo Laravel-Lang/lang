@@ -46,6 +46,7 @@
     "ends_with": "Le champ :attribute doit se terminer par une des valeurs suivantes : :values",
     "enum": "Le champ :attribute sélectionné est invalide.",
     "exists": "Le champ :attribute sélectionné est invalide.",
+    "extensions": "Le champ :attribute doit avoir l'une des extensions suivantes : :values.",
     "failed": "Ces identifiants ne correspondent pas à nos enregistrements.",
     "file": "Le champ :attribute doit être un fichier.",
     "filled": "Le champ :attribute doit avoir une valeur.",

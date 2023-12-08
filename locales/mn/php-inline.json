@@ -37,6 +37,7 @@
     "ends_with": "Энэ нь дараах аль нэгийг нь дуусгах естой: :values.",
     "enum": "The selected value is invalid.",
     "exists": "Сонгосон утга буруу байна.",
+    "extensions": "Энэ талбар нь дараах өргөтгөлүүдийн аль нэгтэй байх ёстой: :values.",
     "file": "Агуулга нь файл байх естой.",
     "filled": "Энэ талбар нь утга байх естой.",
     "gt.array": "The content must have more than :value items.",

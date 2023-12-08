@@ -46,6 +46,7 @@
     "ends_with": ":Attribute må ende med en av følgende: :values.",
     "enum": "Det valgte :attribute er ugyldig.",
     "exists": "Det valgte :attribute er ugyldig.",
+    "extensions": ":attribute-feltet må ha en av følgende utvidelser: :values.",
     "failed": "Disse opplysningene samsvarer ikke med hva vi har lagret.",
     "file": ":Attribute må være en fil.",
     "filled": ":Attribute må fylles ut.",

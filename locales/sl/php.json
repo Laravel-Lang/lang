@@ -46,6 +46,7 @@
     "ends_with": ":Attribute se mora končati z eno od naslednjih vrednosti: :values.",
     "enum": "Izbranih :attribute ni veljavnih.",
     "exists": "izbran :attribute je neveljaven.",
+    "extensions": "Polje :attribute mora imeti eno od naslednjih končnic: :values.",
     "failed": "Ti podatki se ne ujemajo z našimi.",
     "file": ":Attribute mora biti datoteka.",
     "filled": ":Attribute mora biti izpolnjen.",

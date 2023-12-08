@@ -4,7 +4,7 @@ editLink: false
 
 # sc
 
-##### All missed: 1269
+##### All missed: 1272
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 1102
+##### Missing: 1103
 
 <table width="100%">
 <tr><th width="50%">
@@ -8946,6 +8946,15 @@ Use an authentication code
 </td></tr>
 <tr><td width="50%">
 
+User Actions
+
+</td><td width="50%">
+
+User Actions
+
+</td></tr>
+<tr><td width="50%">
+
 Users
 
 </td><td width="50%">
@@ -10095,7 +10104,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 46
+##### Missing: 47
 
 <table width="100%">
 <tr><th width="50%">
@@ -10213,6 +10222,15 @@ doesnt_start_with
 </td><td width="50%">
 
 This field must not start with one of the following: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+extensions
+
+</td><td width="50%">
+
+This field must have one of the following extensions: :values.
 
 </td></tr>
 <tr><td width="50%">
@@ -10529,7 +10547,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 107
+##### Missing: 108
 
 <table width="100%">
 <tr><th width="50%">
@@ -10737,6 +10755,15 @@ enum
 </td><td width="50%">
 
 The selected :attribute is invalid.
+
+</td></tr>
+<tr><td width="50%">
+
+extensions
+
+</td><td width="50%">
+
+The :attribute field must have one of the following extensions: :values.
 
 </td></tr>
 <tr><td width="50%">

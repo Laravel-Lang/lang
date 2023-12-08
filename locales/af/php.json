@@ -46,6 +46,7 @@
     "ends_with": "Die :attribute moet eindig met een van die volgende: :values.",
     "enum": "Die geselekteerde :attribute is ongeldig.",
     "exists": "Die geselketeerde :attribute is ongeldig.",
+    "extensions": "Die :attribute-veld moet een van die volgende uitbreidings hê: :values.",
     "failed": "Hierdie verwysings stem nie ooreen met ons rekords nie.",
     "file": "Die :attribute moet 'n lêer wees.",
     "filled": "Die :attribute veld 'n waarde moet hê.",

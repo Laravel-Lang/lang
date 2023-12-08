@@ -4,12 +4,12 @@ editLink: false
 
 # lv
 
-##### All missed: 15
+##### All missed: 14
 
 
 ### json
 
-##### Missing: 15
+##### Missing: 14
 
 <table width="100%">
 <tr><th width="50%">
@@ -82,15 +82,6 @@ Manitoba
 </td><td width="50%">
 
 Manitoba
-
-</td></tr>
-<tr><td width="50%">
-
-Mark Unread
-
-</td><td width="50%">
-
-Mark Unread
 
 </td></tr>
 <tr><td width="50%">

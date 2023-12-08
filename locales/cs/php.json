@@ -46,6 +46,7 @@
     "ends_with": ":Attribute musí končit jednou z následujících hodnot: :values",
     "enum": "Vybraná :attribute je neplatná.",
     "exists": "Zvolená hodnota pro :attribute není platná.",
+    "extensions": "Pole :attribute musí mít jednu z následujících přípon: :values.",
     "failed": "Tyto přihlašovací údaje neodpovídají žadnému záznamu.",
     "file": ":Attribute musí být soubor.",
     "filled": ":Attribute musí být vyplněno.",

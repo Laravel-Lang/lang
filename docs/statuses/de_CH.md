@@ -4,12 +4,12 @@ editLink: false
 
 # de_CH
 
-##### All missed: 65
+##### All missed: 64
 
 
 ### json
 
-##### Missing: 64
+##### Missing: 63
 
 <table width="100%">
 <tr><th width="50%">
@@ -253,15 +253,6 @@ Manitoba
 </td><td width="50%">
 
 Manitoba
-
-</td></tr>
-<tr><td width="50%">
-
-Mark Unread
-
-</td><td width="50%">
-
-Mark Unread
 
 </td></tr>
 <tr><td width="50%">

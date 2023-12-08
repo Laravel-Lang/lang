@@ -37,6 +37,7 @@
     "ends_with": "Αυτό πρέπει να τελειώσει με ένα από τα ακόλουθα: :values.",
     "enum": "The selected value is invalid.",
     "exists": "Η επιλεγμένη τιμή δεν είναι έγκυρη.",
+    "extensions": "Αυτό το πεδίο πρέπει να έχει μία από τις ακόλουθες επεκτάσεις: :values.",
     "file": "Το περιεχόμενο πρέπει να είναι ένα αρχείο.",
     "filled": "Αυτό το πεδίο πρέπει να έχει μια τιμή.",
     "gt.array": "The content must have more than :value items.",

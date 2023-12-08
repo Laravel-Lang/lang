@@ -46,6 +46,7 @@
     "ends_with": ":Attribute 結尾必須包含下列之一：:values。",
     "enum": ":Attribute 的值不正確。",
     "exists": ":Attribute 不存在。",
+    "extensions": ":attribute 欄位必須具有以下副檔名之一：:values。",
     "failed": "使用者名稱或密碼錯誤。",
     "file": ":Attribute 必須是有效的檔案。",
     "filled": ":Attribute 不能留空。",

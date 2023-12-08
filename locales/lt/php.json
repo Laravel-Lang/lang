@@ -46,6 +46,7 @@
     "ends_with": "Laukas :attribute turi baigtis vienu iš: :values",
     "enum": "Pasirinkta negaliojanti :attribute reikšmė.",
     "exists": "Pasirinkta negaliojanti :attribute reikšmė.",
+    "extensions": ":attribute lauke turi būti vienas iš šių plėtinių: :values.",
     "failed": "Prisijungimo duomenys neatitinka.",
     "file": ":Attribute turi būti failas.",
     "filled": "Laukas :attribute turi būti užpildytas.",

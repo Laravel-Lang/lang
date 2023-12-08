@@ -46,6 +46,7 @@
     "ends_with": "Ya :attribute lazima mwisho na moja ya yafuatayo: :values.",
     "enum": ":Attribute iliyochaguliwa si sahihi.",
     "exists": "Kipengele kilichochaguliwa si halali.",
+    "extensions": "Sehemu ya :attribute lazima iwe na mojawapo ya viendelezi vifuatavyo: :values.",
     "failed": "Hii hati tambulishi hailingani na rekodi zetu.",
     "file": ":Attribute linapaswa kuwa faili.",
     "filled": "Sehemu ya kipengele inahitajika.",

@@ -37,6 +37,7 @@
     "ends_with": "Nilai mesti berakhir dengan salah satu dari nilai berikut: :values.",
     "enum": "The selected value is invalid.",
     "exists": "Pilihan tidak sah.",
+    "extensions": "Medan ini mesti mempunyai salah satu daripada sambungan berikut: :values.",
     "file": "Ruangan ini mesti fail yang sah.",
     "filled": "Ruangan ini mesti mempunyai nilai.",
     "gt.array": "Jujukan mesti mengandungi lebih daripada :value perkara.",

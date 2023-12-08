@@ -46,6 +46,7 @@
     "ends_with": "La :attribute ha d'acabar amb una de les següents: :values.",
     "enum": "El :attribute seleccionat no és vàlid.",
     "exists": ":Attribute és invàlid.",
+    "extensions": "El camp :attribute ha de tenir una de les extensions següents: :values.",
     "failed": "Aquestes credencials no concorden amb els nostres registres.",
     "file": "El camp :attribute ha de ser un arxiu.",
     "filled": "El camp :attribute és obligatori.",

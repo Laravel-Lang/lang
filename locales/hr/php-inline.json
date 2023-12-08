@@ -37,6 +37,7 @@
     "ends_with": "Ovo polje mora završavati s jednom od sljedećih vrijednosti: :values.",
     "enum": "Odabrana vrijednost nije važeća.",
     "exists": "Odabrana vrijednost nije važeća.",
+    "extensions": "Ovo polje mora imati jedno od sljedećih proširenja: :values.",
     "file": "Ovo polje mora sadržavati datoteku.",
     "filled": "Ovo polje mora biti ispunjeno.",
     "gt.array": "Ovo polje mora sadržavati više od :value stavki.",

@@ -37,6 +37,7 @@
     "ends_with": "結尾必須包含下列之一：:values。",
     "enum": "無效的值。",
     "exists": "不存在。",
+    "extensions": "该字段必须具有以下扩展名之一：:values。",
     "file": "必須是文件。",
     "filled": "不能留空。",
     "gt.array": "必須多於 :value 個項目。",

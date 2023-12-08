@@ -46,6 +46,7 @@
     "ends_with": ":Attribute quyidagi qiymatlarning biri bilan tugashi kerak: :values.",
     "enum": "The selected :attribute is invalid.",
     "exists": ":Attribute uchun tanlangan qiymat noto‘g‘ri.",
+    "extensions": "The :attribute field must have one of the following extensions: :values.",
     "failed": "Bunday maʼlumotlarga ega foydalanuvchi mavjud emas.",
     "file": ":Attribute fayl bo‘lishi kerak.",
     "filled": ":Attribute maydoni to‘ldirilishi shart.",

@@ -46,6 +46,7 @@
     "ends_with": ":Attribute mesti berakhir dengan salah satu dari: :values.",
     "enum": ":Attribute yang dipilih adalah tidak sah.",
     "exists": ":Attribute tidak sah.",
+    "extensions": "Medan :attribute mesti mempunyai salah satu daripada sambungan berikut: :values.",
     "failed": "Butiran ini tidak sepadan dengan rekod kami.",
     "file": ":Attribute mesti fail yang sah.",
     "filled": ":Attribute diperlukan.",

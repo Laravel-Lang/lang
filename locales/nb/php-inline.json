@@ -37,6 +37,7 @@
     "ends_with": "Må ende med en av følgende: :values.",
     "enum": "Den valgte verdien er ugyldig.",
     "exists": "Den valgte veriden er ugyldig.",
+    "extensions": "Dette feltet må ha en av følgende utvidelser: :values.",
     "file": "Må være en fil.",
     "filled": "Må fylles ut.",
     "gt.array": "Må ha flere enn :value elementer.",

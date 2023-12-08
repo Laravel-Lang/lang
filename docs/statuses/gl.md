@@ -4,12 +4,12 @@ editLink: false
 
 # gl
 
-##### All missed: 125
+##### All missed: 124
 
 
 ### json
 
-##### Missing: 125
+##### Missing: 124
 
 <table width="100%">
 <tr><th width="50%">
@@ -631,15 +631,6 @@ Mark Read
 </td><td width="50%">
 
 Mark Read
-
-</td></tr>
-<tr><td width="50%">
-
-Mark Unread
-
-</td><td width="50%">
-
-Mark Unread
 
 </td></tr>
 <tr><td width="50%">

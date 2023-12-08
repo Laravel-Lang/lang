@@ -46,6 +46,7 @@
     "ends_with": ":Attribute باید د لاندې څخه یو سره پای ته ورسیږي: :values.",
     "enum": "ټاکل شوی :attribute باطل دی.",
     "exists": "مشخص ارزښت :attribute شتون نلري.",
+    "extensions": "د :attribute ساحه باید د لاندې توسیعونو څخه یو ولري: :values.",
     "failed": "داسې ریکارډ شتون نلري چې د اعتبار معلومات سره سمون لري.",
     "file": "د :attribute دا باید یوه فایل وي.",
     "filled": ":Attribute لازمه ده.",

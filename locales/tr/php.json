@@ -46,6 +46,7 @@
     "ends_with": ":Attribute sadece şu değerlerden biriyle bitebilir: :values.",
     "enum": "Seçilen :attribute değeri geçersiz.",
     "exists": "Seçili :attribute geçersiz.",
+    "extensions": ":attribute alanı aşağıdaki uzantılardan birine sahip olmalıdır: :values.",
     "failed": "Bu kimlik bilgileri kayıtlarımızla eşleşmiyor.",
     "file": ":Attribute mutlaka bir dosya olmalıdır.",
     "filled": ":Attribute mutlaka doldurulmalıdır.",

@@ -46,6 +46,7 @@
     "ends_with": "A(z) :attribute a következővel kell végződjön: :values",
     "enum": "A kiválasztott :attribute érvénytelen.",
     "exists": "A kiválasztott :attribute érvénytelen.",
+    "extensions": "A :attribute-es mezőnek a következő kiterjesztések valamelyikével kell rendelkeznie: :values.",
     "failed": "Rossz email-jelszó páros.",
     "file": "A(z) :attribute fájl kell, hogy legyen!",
     "filled": "A(z) :attribute megadása kötelező!",

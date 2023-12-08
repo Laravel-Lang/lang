@@ -37,6 +37,7 @@
     "ends_with": "Bu, aşağıdakı nöqtələrdən biri ilə başa çatmalıdır: :values.",
     "enum": "Seçilmiş dəyər etibarsızdır.",
     "exists": "Seçilmiş dəyər yolverilməzdir.",
+    "extensions": "Bu sahədə aşağıdakı uzantılardan biri olmalıdır: :values.",
     "file": "Məzmun bir fayl olmalıdır.",
     "filled": "Bu sahədə bir fərq olmalıdır.",
     "gt.array": "Məzmunda :value çox element olmalıdır.",

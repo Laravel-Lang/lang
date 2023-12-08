@@ -46,6 +46,7 @@
     "ends_with": "فیلد :attribute باید با یکی از مقادیر زیر خاتمه یابد: :values",
     "enum": ":Attribute انتخاب شده اشتباه است.",
     "exists": ":Attribute انتخاب شده، معتبر نیست.",
+    "extensions": "فیلد :attribute باید یکی از پسوندهای زیر را داشته باشد: :values.",
     "failed": "مشخصات وارد شده با اطلاعات ما سازگار نیست.",
     "file": ":Attribute باید یک فایل معتبر باشد.",
     "filled": "فیلد :attribute باید مقدار داشته باشد.",

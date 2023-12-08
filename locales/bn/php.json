@@ -46,6 +46,7 @@
     "ends_with": ":Attribute নিম্নলিখিত এক সঙ্গে শেষ করতে হবে: :values।",
     "enum": "নির্বাচিত :attribute অবৈধ।",
     "exists": "নির্বাচিত :attribute টি অবৈধ।",
+    "extensions": ":attribute ক্ষেত্রে নিম্নলিখিত এক্সটেনশনগুলির মধ্যে একটি থাকতে হবে: :values.",
     "failed": "এই পরিচয়পত্র আমাদের রেকর্ডের সাথে মেলে না।",
     "file": ":Attribute একটি ফাইল হতে হবে।",
     "filled": ":Attribute স্থানটি পূরণ করতে হবে।",

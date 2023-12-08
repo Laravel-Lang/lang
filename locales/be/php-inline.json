@@ -37,6 +37,7 @@
     "ends_with": "Гэта павінна заканчвацца адным з наступных пунктаў: :values.",
     "enum": "The selected value is invalid.",
     "exists": "Наадварот значэнне з'яўляецца недапушчальным.",
+    "extensions": "Гэта поле павінна мець адно з наступных пашырэнняў: :values.",
     "file": "Змесціва павінна быць файлам.",
     "filled": "Гэта поле павінна мець значэнне.",
     "gt.array": "The content must have more than :value items.",

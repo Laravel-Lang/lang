@@ -46,6 +46,7 @@
     "ends_with": ":Attribute-(e)k ondorengo balioetako batekin amaitu behar du: :values",
     "enum": "Hautatutako :attributeak ez du balio.",
     "exists": ":Attribute baliogabea da.",
+    "extensions": ":attribute eremuak luzapen hauetako bat izan behar du: :values.",
     "failed": "Kredentzial hauek ez datoz bat gure erregistroekin.",
     "file": ":Attribute fitxategi bat izan behar da.",
     "filled": ":Attribute derrigorrezkoa da.",

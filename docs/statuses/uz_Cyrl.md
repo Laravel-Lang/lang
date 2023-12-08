@@ -4,12 +4,12 @@ editLink: false
 
 # uz_Cyrl
 
-##### All missed: 56
+##### All missed: 55
 
 
 ### json
 
-##### Missing: 55
+##### Missing: 54
 
 <table width="100%">
 <tr><th width="50%">
@@ -244,15 +244,6 @@ Manitoba
 </td><td width="50%">
 
 Manitoba
-
-</td></tr>
-<tr><td width="50%">
-
-Mark Unread
-
-</td><td width="50%">
-
-Mark Unread
 
 </td></tr>
 <tr><td width="50%">

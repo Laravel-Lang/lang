@@ -4,12 +4,12 @@ editLink: false
 
 # tg
 
-##### All missed: 4
+##### All missed: 3
 
 
 ### json
 
-##### Missing: 3
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -37,15 +37,6 @@ ID
 </td><td width="50%">
 
 ID
-
-</td></tr>
-<tr><td width="50%">
-
-Mark Unread
-
-</td><td width="50%">
-
-Mark Unread
 
 </td></tr>
 </table>

@@ -21,12 +21,12 @@
     "require": {
         "php": "^8.1",
         "ext-json": "*",
-        "laravel-lang/publisher": "^14.0 || ^15.0"
+        "laravel-lang/publisher": "^14.0 || ^15.0 || ^16.0"
     },
     "require-dev": {
         "laravel-lang/status-generator": "^1.19 || ^2.0",
         "phpunit/phpunit": "^10.0",
-        "symfony/var-dumper": "^6.0"
+        "symfony/var-dumper": "^6.0 || ^7.0"
     },
     "minimum-stability": "stable",
     "prefer-stable": true,

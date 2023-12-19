@@ -207,23 +207,6 @@ jobs:
                     --copy=install-stubs/resources/lang \
                     --only-copy
 
-    spark_aurelius_mollie:
-        uses: Laravel-Lang/.github/.github/workflows/download.yml@main
-        strategy:
-            fail-fast: true
-            matrix:
-                version: [ "v2" ]
-        with:
-            project: Laravel Spark Aurelius Mollie ${{ matrix.version }}
-            paths: source/spark/aurelius-mollie/${{ matrix.version }}/*
-            commands: |
-                vendor/bin/lang download \
-                    --url=https://github.com/laravel/spark-aurelius-mollie/archive/refs/heads/${{ matrix.version }}.zip \
-                    --project=spark/aurelius-mollie \
-                    --ver=${{ matrix.version }} \
-                    --copy=install-stubs/resources/lang \
-                    --only-copy
-
     ui:
         uses: Laravel-Lang/.github/.github/workflows/download.yml@main
         strategy:

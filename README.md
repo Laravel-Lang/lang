@@ -6,7 +6,7 @@
 [![Unstable Version][badge_unstable]][link_packagist]
 [![Total Downloads][badge_downloads]][link_packagist]
 [![Github Workflow Status][badge_build]][link_build]
-[![License][badge_license]][link_license]
+[![License][badge_license]](https://laravel-lang.com/license.html)
 
 ## Documentation
 

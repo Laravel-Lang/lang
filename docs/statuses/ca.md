@@ -4,12 +4,12 @@ editLink: false
 
 # ca
 
-##### All missed: 50
+##### All missed: 49
 
 
 ### json
 
-##### Missing: 50
+##### Missing: 49
 
 <table width="100%">
 <tr><th width="50%">
@@ -307,15 +307,6 @@ Nunavut
 </td><td width="50%">
 
 Nunavut
-
-</td></tr>
-<tr><td width="50%">
-
-Oh no!
-
-</td><td width="50%">
-
-Oh no!
 
 </td></tr>
 <tr><td width="50%">

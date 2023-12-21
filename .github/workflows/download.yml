@@ -190,23 +190,6 @@ jobs:
                     --ver=${{ matrix.version }} \
                     --copy=lang
 
-    spark_aurelius:
-        uses: Laravel-Lang/.github/.github/workflows/download.yml@main
-        strategy:
-            fail-fast: true
-            matrix:
-                version: [ "11.x", "12.x", "master" ]
-        with:
-            project: Laravel Spark Aurelius ${{ matrix.version }}
-            paths: source/spark/aurelius/${{ matrix.version }}/*
-            commands: |
-                vendor/bin/lang download \
-                    --url=https://github.com/laravel/spark-aurelius/archive/refs/heads/${{ matrix.version }}.zip \
-                    --project=spark/aurelius \
-                    --ver=${{ matrix.version }} \
-                    --copy=install-stubs/resources/lang \
-                    --only-copy
-
     ui:
         uses: Laravel-Lang/.github/.github/workflows/download.yml@main
         strategy:

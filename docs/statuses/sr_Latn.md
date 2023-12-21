@@ -4,7 +4,7 @@ editLink: false
 
 # sr_Latn
 
-##### All missed: 658
+##### All missed: 646
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 547
+##### Missing: 535
 
 <table width="100%">
 <tr><th width="50%">
@@ -1438,15 +1438,6 @@ Florida
 </td></tr>
 <tr><td width="50%">
 
-For security reasons your new card will be charged a minimal fee upon registration.
-
-</td><td width="50%">
-
-For security reasons your new card will be charged a minimal fee upon registration.
-
-</td></tr>
-<tr><td width="50%">
-
 Forever
 
 </td><td width="50%">
@@ -2365,15 +2356,6 @@ Nunavut
 </td></tr>
 <tr><td width="50%">
 
-Oh no!
-
-</td><td width="50%">
-
-Oh no!
-
-</td></tr>
-<tr><td width="50%">
-
 Ohio
 
 </td><td width="50%">
@@ -2608,24 +2590,6 @@ Please confirm your password before continuing.
 </td></tr>
 <tr><td width="50%">
 
-Please first register your billing address.
-
-</td><td width="50%">
-
-Please first register your billing address.
-
-</td></tr>
-<tr><td width="50%">
-
-Please first register your team's billing address.
-
-</td><td width="50%">
-
-Please first register your team's billing address.
-
-</td></tr>
-<tr><td width="50%">
-
 Please provide a maximum of three receipt emails addresses.
 
 </td><td width="50%">
@@ -2784,15 +2748,6 @@ Redeeming
 </td><td width="50%">
 
 Redeeming
-
-</td></tr>
-<tr><td width="50%">
-
-Redirecting
-
-</td><td width="50%">
-
-Redirecting
 
 </td></tr>
 <tr><td width="50%">
@@ -4120,15 +4075,6 @@ Update Announcement
 </td></tr>
 <tr><td width="50%">
 
-Update Billing Address
-
-</td><td width="50%">
-
-Update Billing Address
-
-</td></tr>
-<tr><td width="50%">
-
 Update Payment Information
 
 </td><td width="50%">
@@ -4372,15 +4318,6 @@ We don't have anything to show you right now! But when we do, we'll be sure to l
 </td></tr>
 <tr><td width="50%">
 
-We had trouble updating your billing address. Please contact customer support.
-
-</td><td width="50%">
-
-We had trouble updating your billing address. Please contact customer support.
-
-</td></tr>
-<tr><td width="50%">
-
 We had trouble updating your card. It's possible your card provider is preventing us from charging the card. Please contact your card provider or customer support.
 
 </td><td width="50%">
@@ -4449,15 +4386,6 @@ We will send a receipt download link to the email addresses that you specify bel
 </td><td width="50%">
 
 We will send a receipt download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
-
-</td></tr>
-<tr><td width="50%">
-
-Welcome to your new subscription.
-
-</td><td width="50%">
-
-Welcome to your new subscription.
 
 </td></tr>
 <tr><td width="50%">
@@ -4746,15 +4674,6 @@ You may revoke the token at any time from your API settings.
 </td><td width="50%">
 
 You may revoke the token at any time from your API settings.
-
-</td></tr>
-<tr><td width="50%">
-
-You will be redirected to Mollie's checkout.
-
-</td><td width="50%">
-
-You will be redirected to Mollie's checkout.
 
 </td></tr>
 <tr><td width="50%">
@@ -4791,15 +4710,6 @@ Your application's dashboard.
 </td><td width="50%">
 
 Your application's Dashboard
-
-</td></tr>
-<tr><td width="50%">
-
-Your billing address has been updated!
-
-</td><td width="50%">
-
-Your billing address has been updated!
 
 </td></tr>
 <tr><td width="50%">
@@ -4921,15 +4831,6 @@ Your password has been updated!
 </td></tr>
 <tr><td width="50%">
 
-Your payment method could not be updated.
-
-</td><td width="50%">
-
-Your payment method could not be updated.
-
-</td></tr>
-<tr><td width="50%">
-
 Your payment method has been added successfully.
 
 </td><td width="50%">
@@ -4953,15 +4854,6 @@ Your payment method will be charged automatically for each billing period.
 </td><td width="50%">
 
 Your payment method will be charged automatically for each billing period.
-
-</td></tr>
-<tr><td width="50%">
-
-Your payment went wrong. Try again or contact support
-
-</td><td width="50%">
-
-Your payment went wrong. Try again or contact support
 
 </td></tr>
 <tr><td width="50%">

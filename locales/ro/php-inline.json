@@ -19,7 +19,6 @@
     "boolean": "Acest câmp trebuie să fie adevărat sau fals.",
     "can": "Acest câmp conține o valoare neautorizată.",
     "confirmed": "Confirmarea nu se potrivește.",
-    "country": "Acest câmp nu este o țară validă.",
     "date": "Aceasta nu este o dată validă.",
     "date_equals": "Aceasta trebuie să fie o dată egală cu :date.",
     "date_format": "Acest lucru nu se potrivește cu formatul :format.",

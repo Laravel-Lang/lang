@@ -19,7 +19,6 @@
     "boolean": "Ovo polje mora biti istinito ili lažno.",
     "can": "Ovo polje sadrži neovlaštenu vrijednost.",
     "confirmed": "Potvrda se ne podudara.",
-    "country": "Ovo polje nije važeća država.",
     "date": "Ovo polje ne sadrži valjan datum.",
     "date_equals": "Ovo polje mora biti datum jednak :date.",
     "date_format": "Ovo polje mora biti datum u formatu :format.",

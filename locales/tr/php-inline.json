@@ -19,7 +19,6 @@
     "boolean": "Bu alan doğru veya yanlış olmalıdır.",
     "can": "Bu alan yetkisiz bir değer içeriyor.",
     "confirmed": "Onay eşleşmiyor.",
-    "country": "Bu alan geçerli bir ülke değil.",
     "date": "Bu geçerli bir tarih değil.",
     "date_equals": "Bu, :date'a eşit bir tarih olmalıdır.",
     "date_format": "Bu biçim :format eşleşmiyor.",

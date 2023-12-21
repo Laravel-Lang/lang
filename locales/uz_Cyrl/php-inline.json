@@ -19,7 +19,6 @@
     "boolean": "Bu maydon rost yoki yolg'on bo'lishi kerak.",
     "can": "Bu maydonda ruxsat etilmagan qiymat mavjud.",
     "confirmed": "Tasdiqlash mos emas.",
-    "country": "Bu maydon haqiqiy davlat emas.",
     "date": "Bu amal sana emas.",
     "date_equals": "Bu :date ga teng sana bo'lishi kerak.",
     "date_format": "Bu :format formatiga mos kelmaydi.",

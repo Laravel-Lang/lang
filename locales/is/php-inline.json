@@ -19,7 +19,6 @@
     "boolean": "Þetta sviði verður að vera rétt eða rangt.",
     "can": "Þessi reitur inniheldur óheimilt gildi.",
     "confirmed": "Staðfestingu passar ekki.",
-    "country": "Þessi reitur er ekki gilt land.",
     "date": "Þetta er ekki gilt degi.",
     "date_equals": "Þetta hlýtur að vera stefnumót jafn :date.",
     "date_format": "Þetta passar ekki í formi :format.",

@@ -19,7 +19,6 @@
     "boolean": "આ ક્ષેત્ર સાચું કે ખોટું હોવું જોઈએ.",
     "can": "આ ફીલ્ડમાં અનધિકૃત મૂલ્ય છે.",
     "confirmed": "The confirmation does not match.",
-    "country": "આ ક્ષેત્ર માન્ય દેશ નથી.",
     "date": "This is not a valid date.",
     "date_equals": "This must be a date equal to :date.",
     "date_format": "This does not match the format :format.",

@@ -19,7 +19,6 @@
     "boolean": "دا ساحه باید ریښتیا یا غلط وي.",
     "can": "دا ساحه یو غیر مجاز ارزښت لري.",
     "confirmed": "The confirmation does not match.",
-    "country": "دا ساحه یو معتبر هیواد ندی.",
     "date": "This is not a valid date.",
     "date_equals": "This must be a date equal to :date.",
     "date_format": "This does not match the format :format.",

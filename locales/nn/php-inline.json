@@ -19,7 +19,6 @@
     "boolean": "Dette feltet må være sant eller usant.",
     "can": "Dette feltet inneholder en uautorisert verdi.",
     "confirmed": "The confirmation does not match.",
-    "country": "Dette feltet er ikke et gyldig land.",
     "date": "This is not a valid date.",
     "date_equals": "This must be a date equal to :date.",
     "date_format": "This does not match the format :format.",

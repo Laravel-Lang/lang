@@ -19,7 +19,6 @@
     "boolean": "Pole musi mieć wartość logiczną prawda albo fałsz.",
     "can": "Pole zawiera nieautoryzowaną wartość.",
     "confirmed": "Potwierdzenie pola nie zgadza się.",
-    "country": "To pole nie zawiera prawidłowego kraju.",
     "date": "Pole nie jest prawidłową datą.",
     "date_equals": "Pole musi być datą równą :date.",
     "date_format": "Pole nie jest w formacie :format.",

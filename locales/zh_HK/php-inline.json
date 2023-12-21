@@ -19,7 +19,6 @@
     "boolean": "必須是布爾值。",
     "can": "该字段包含未经授权的值。",
     "confirmed": "確認欄位的輸入並不相符。",
-    "country": "该字段不是有效的国家/地区。",
     "date": "並非一個有效的日期。",
     "date_equals": "必須等於 :date。",
     "date_format": "與 :format 格式不相符。",

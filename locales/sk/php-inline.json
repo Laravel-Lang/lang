@@ -19,7 +19,6 @@
     "boolean": "Toto pole musí byť pravdivé alebo nepravdivé.",
     "can": "Toto pole obsahuje neoprávnenú hodnotu.",
     "confirmed": "Potvrdenie sa nezhoduje.",
-    "country": "Toto pole nie je platnou krajinou.",
     "date": "Toto nie je platný dátum.",
     "date_equals": "Toto musí byť Dátum rovný :date.",
     "date_format": "Toto sa nezhoduje s formátom :format.",

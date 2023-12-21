@@ -19,7 +19,6 @@
     "boolean": "Ovo polje mora biti tačno ili netačno.",
     "can": "This field contains an unauthorized value.",
     "confirmed": "Potvrda se ne poklapa.",
-    "country": "This field is not a valid country.",
     "date": "Nije odgovarajući datum.",
     "date_equals": "Mora da bude datum: :date.",
     "date_format": "Ovo ne odgovora formatu: :format.",

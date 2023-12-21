@@ -19,7 +19,6 @@
     "boolean": "ಈ ಕ್ಷೇತ್ರದಲ್ಲಿ ಇರಬೇಕು ನಿಜ ಅಥವಾ ಸುಳ್ಳು.",
     "can": "ಈ ಕ್ಷೇತ್ರವು ಅನಧಿಕೃತ ಮೌಲ್ಯವನ್ನು ಹೊಂದಿದೆ.",
     "confirmed": "ದೃಢೀಕರಣ ಹೊಂದಿಕೆಯಾಗುವುದಿಲ್ಲ.",
-    "country": "ಈ ಕ್ಷೇತ್ರವು ಮಾನ್ಯವಾದ ದೇಶವಲ್ಲ.",
     "date": "This is not a valid date.",
     "date_equals": "ಈ ಮಾಡಬೇಕು ಒಂದು ದಿನಾಂಕ ಸಮಾನ :date.",
     "date_format": "ಈ does not match the format :format.",

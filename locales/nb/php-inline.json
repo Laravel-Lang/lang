@@ -19,7 +19,6 @@
     "boolean": "Må være sann eller usann",
     "can": "Dette feltet inneholder en uautorisert verdi.",
     "confirmed": "Er ikke likt bekreftelsesfeltet.",
-    "country": "Dette feltet er ikke et gyldig land.",
     "date": "Er ikke en gyldig dato.",
     "date_equals": "Må være en dato lik :date.",
     "date_format": "Samsvarer ikke med formatet :format.",

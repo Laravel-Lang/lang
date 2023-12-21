@@ -19,7 +19,6 @@
     "boolean": "Bu sahə doğru və ya yalan olmalıdır.",
     "can": "Bu sahədə icazəsiz dəyər var.",
     "confirmed": "Təsdiq üst-üstə düşmür.",
-    "country": "Bu sahə etibarlı ölkə deyil.",
     "date": "Bu etibarlı tarix deyil.",
     "date_equals": "Bu, :date-cü ilə bərabər tarix olmalıdır.",
     "date_format": "Bu format :format uyğun deyil.",

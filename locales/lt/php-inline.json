@@ -19,7 +19,6 @@
     "boolean": "Šio lauko reikšmė turi būti 'taip' arba 'ne'.",
     "can": "Šiame lauke yra neleistina reikšmė.",
     "confirmed": "Šio lauko patvirtinimas nesutampa.",
-    "country": "Šis laukas nėra tinkama šalis.",
     "date": "Šio lauko reikšmė nėra galiojanti data.",
     "date_equals": "Šio lauko reikšmė turi būti data lygi :date.",
     "date_format": "Šio lauko reikšmė neatitinka formato :format.",

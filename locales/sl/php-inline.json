@@ -19,7 +19,6 @@
     "boolean": "Polje mora biti da ali ne.",
     "can": "To polje vsebuje nepooblaščeno vrednost.",
     "confirmed": "Potrditev se ne ujema.",
-    "country": "To polje ni veljavna država.",
     "date": "Datum ni veljaven.",
     "date_equals": "Datum mora biti enak :date.",
     "date_format": "Datum ne ustreza formatu :format.",

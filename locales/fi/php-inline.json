@@ -19,7 +19,6 @@
     "boolean": "Tämän kentän on oltava tosi tai epätosi.",
     "can": "Tämä kenttä sisältää luvattoman arvon.",
     "confirmed": "Vahvistus ei täsmää.",
-    "country": "Tämä kenttä ei ole kelvollinen maa.",
     "date": "Tämä ei ole pätevä päivämäärä.",
     "date_equals": "Tämän päivämäärän on oltava :date.",
     "date_format": "Tämä ei vastaa muotoa :format.",

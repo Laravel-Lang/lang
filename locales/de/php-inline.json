@@ -19,7 +19,6 @@
     "boolean": "Dieses Feld muss entweder 'true' oder 'false' sein.",
     "can": "Dieses Feld enthält einen nicht autorisierten Wert.",
     "confirmed": "Die Bestätigung stimmt nicht überein.",
-    "country": "Dieses Feld ist kein gültiges Land.",
     "date": "Das ist kein gültiges Datum.",
     "date_equals": "Das Datum muss identisch zu :date sein.",
     "date_format": "Das Datum entspricht nicht dem gültigen Format für :format.",

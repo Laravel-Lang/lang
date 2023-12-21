@@ -19,7 +19,6 @@
     "boolean": "Bu maydon rost yoki yolg'on bo'lishi kerak.",
     "can": "This field contains an unauthorized value.",
     "confirmed": "Tasdiqlash mos emas.",
-    "country": "This field is not a valid country.",
     "date": "Bu amal sana emas.",
     "date_equals": "Bu :date ga teng sana bo'lishi kerak.",
     "date_format": "Bu :format formatiga mos kelmaydi.",

@@ -19,7 +19,6 @@
     "boolean": "See väli peab olema tõene või vale.",
     "can": "See väli sisaldab volitamata väärtust.",
     "confirmed": "Kinnitus ei sobi.",
-    "country": "See väli ei ole kehtiv riik.",
     "date": "See ei ole kehtiv kuupäev.",
     "date_equals": "See peab olema kuupäev, mis võrdub :date-ga.",
     "date_format": "See ei vasta vormingule :format.",

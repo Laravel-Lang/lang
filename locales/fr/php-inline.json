@@ -19,7 +19,6 @@
     "boolean": "Ce champ doit être vrai ou faux.",
     "can": "Ce champ contient une valeur non autorisée.",
     "confirmed": "Le champ de confirmation ne correspond pas.",
-    "country": "Ce champ n'est pas un pays valide.",
     "date": "Ce n'est pas une date valide.",
     "date_equals": "La date doit être égale à :date.",
     "date_format": "Ce champ ne correspond pas au format :format.",

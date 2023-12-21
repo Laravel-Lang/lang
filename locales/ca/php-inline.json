@@ -19,7 +19,6 @@
     "boolean": "Aquest camp ha de ser true o false.",
     "can": "Aquest camp conté un valor no autoritzat.",
     "confirmed": "La confirmació no coincideix.",
-    "country": "Aquest camp no és un país vàlid.",
     "date": "Aquesta no és una data vàlida.",
     "date_equals": "Aquesta ha de ser una data igual a :date.",
     "date_format": "Aquest no coincideix amb el format :format.",

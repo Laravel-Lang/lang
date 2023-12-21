@@ -19,7 +19,6 @@
     "boolean": "Eremu hau izan behar egia edo gezurra.",
     "can": "Eremu honek baimenik gabeko balio bat dauka.",
     "confirmed": "Baieztapen horrek ez du partida.",
-    "country": "Eremu hau ez da baliozko herrialdea.",
     "date": "Hau ez da baliozko data bat.",
     "date_equals": "Hau behar data bat berdina :date.",
     "date_format": "Hau ez dator formatu :format.",

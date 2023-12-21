@@ -19,7 +19,6 @@
     "boolean": "Detta fält måste vara sant eller falskt.",
     "can": "Det här fältet innehåller ett obehörigt värde.",
     "confirmed": "Bekräftelsen matchar inte.",
-    "country": "Detta fält är inte ett giltigt land.",
     "date": "Detta är inte ett giltigt datum.",
     "date_equals": "Detta måste vara ett datum som motsvarar :date.",
     "date_format": "Detta matchar inte formatet :format.",

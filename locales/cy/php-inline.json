@@ -19,7 +19,6 @@
     "boolean": "Mae hyn yn maes rhaid i fod yn wir neu anwir.",
     "can": "Mae'r maes hwn yn cynnwys gwerth anawdurdodedig.",
     "confirmed": "Mae'r cadarnhad nad yw'n cyd-fynd.",
-    "country": "Nid yw'r maes hwn yn wlad ddilys.",
     "date": "Nid yw hyn yn ddilys ar y dyddiad.",
     "date_equals": "Rhaid i hwn fod yn ddyddiad yn hafal i :date.",
     "date_format": "Nid yw hyn yn cyfateb i'r fformat :format.",

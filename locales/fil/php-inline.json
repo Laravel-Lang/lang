@@ -19,7 +19,6 @@
     "boolean": "Dapat tama o mali ang field na ito.",
     "can": "Naglalaman ang field na ito ng hindi awtorisadong halaga.",
     "confirmed": "The confirmation does not match.",
-    "country": "Ang field na ito ay hindi wastong bansa.",
     "date": "This is not a valid date.",
     "date_equals": "This must be a date equal to :date.",
     "date_format": "This does not match the format :format.",

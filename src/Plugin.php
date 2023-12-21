@@ -46,8 +46,6 @@ class Plugin extends Provider
         Plugins\Spark\Aurelius\V11::class,
         Plugins\Spark\Aurelius\V12::class,
 
-        Plugins\Spark\AureliusMollie\V2::class,
-
         Plugins\UI\Master::class,
         Plugins\UI\V4::class,
     ];

@@ -4,12 +4,12 @@ editLink: false
 
 # ug
 
-##### All missed: 147
+##### All missed: 105
 
 
 ### json
 
-##### Missing: 143
+##### Missing: 100
 
 <table width="100%">
 <tr><th width="50%">
@@ -50,15 +50,6 @@ Aland Islands
 </td></tr>
 <tr><td width="50%">
 
-Alberta
-
-</td><td width="50%">
-
-Alberta
-
-</td></tr>
-<tr><td width="50%">
-
 American Samoa
 
 </td><td width="50%">
@@ -82,15 +73,6 @@ Anguilla
 </td><td width="50%">
 
 Anguilla
-
-</td></tr>
-<tr><td width="50%">
-
-API
-
-</td><td width="50%">
-
-API
 
 </td></tr>
 <tr><td width="50%">
@@ -208,15 +190,6 @@ Comoros
 </td><td width="50%">
 
 Comoros
-
-</td></tr>
-<tr><td width="50%">
-
-Connecticut
-
-</td><td width="50%">
-
-Connecticut
 
 </td></tr>
 <tr><td width="50%">
@@ -248,15 +221,6 @@ Coupon
 </td></tr>
 <tr><td width="50%">
 
-Coupon Code
-
-</td><td width="50%">
-
-Coupon Code
-
-</td></tr>
-<tr><td width="50%">
-
 Curaçao
 
 </td><td width="50%">
@@ -284,24 +248,6 @@ Côte d'Ivoire
 </td></tr>
 <tr><td width="50%">
 
-Day Trial
-
-</td><td width="50%">
-
-Day Trial
-
-</td></tr>
-<tr><td width="50%">
-
-Delaware
-
-</td><td width="50%">
-
-Delaware
-
-</td></tr>
-<tr><td width="50%">
-
 Detach
 
 </td><td width="50%">
@@ -311,38 +257,11 @@ Detach
 </td></tr>
 <tr><td width="50%">
 
-Developer
-
-</td><td width="50%">
-
-Developer
-
-</td></tr>
-<tr><td width="50%">
-
 Dominica
 
 </td><td width="50%">
 
 Dominica
-
-</td></tr>
-<tr><td width="50%">
-
-Duration
-
-</td><td width="50%">
-
-Duration
-
-</td></tr>
-<tr><td width="50%">
-
-E-Mail
-
-</td><td width="50%">
-
-E-Mail
 
 </td></tr>
 <tr><td width="50%">
@@ -361,15 +280,6 @@ ex VAT
 </td><td width="50%">
 
 ex VAT
-
-</td></tr>
-<tr><td width="50%">
-
-Features
-
-</td><td width="50%">
-
-Features
 
 </td></tr>
 <tr><td width="50%">
@@ -446,15 +356,6 @@ Gibraltar
 </td></tr>
 <tr><td width="50%">
 
-Got It!
-
-</td><td width="50%">
-
-Got It!
-
-</td></tr>
-<tr><td width="50%">
-
 Greenland
 
 </td><td width="50%">
@@ -514,15 +415,6 @@ Honduras
 </td><td width="50%">
 
 Honduras
-
-</td></tr>
-<tr><td width="50%">
-
-Idaho
-
-</td><td width="50%">
-
-Idaho
 
 </td></tr>
 <tr><td width="50%">
@@ -572,15 +464,6 @@ Jersey
 </td></tr>
 <tr><td width="50%">
 
-Kiosk
-
-</td><td width="50%">
-
-Kiosk
-
-</td></tr>
-<tr><td width="50%">
-
 Kiribati
 
 </td><td width="50%">
@@ -653,33 +536,6 @@ Logout
 </td></tr>
 <tr><td width="50%">
 
-Louisiana
-
-</td><td width="50%">
-
-Louisiana
-
-</td></tr>
-<tr><td width="50%">
-
-Maine
-
-</td><td width="50%">
-
-Maine
-
-</td></tr>
-<tr><td width="50%">
-
-Manitoba
-
-</td><td width="50%">
-
-Manitoba
-
-</td></tr>
-<tr><td width="50%">
-
 Mark Read
 
 </td><td width="50%">
@@ -694,24 +550,6 @@ Martinique
 </td><td width="50%">
 
 Martinique
-
-</td></tr>
-<tr><td width="50%">
-
-Maryland
-
-</td><td width="50%">
-
-Maryland
-
-</td></tr>
-<tr><td width="50%">
-
-Metrics
-
-</td><td width="50%">
-
-Metrics
 
 </td></tr>
 <tr><td width="50%">
@@ -743,24 +581,6 @@ Micronesia, Federated States of
 </td></tr>
 <tr><td width="50%">
 
-Mississippi
-
-</td><td width="50%">
-
-Mississippi
-
-</td></tr>
-<tr><td width="50%">
-
-mo
-
-</td><td width="50%">
-
-mo
-
-</td></tr>
-<tr><td width="50%">
-
 Montserrat
 
 </td><td width="50%">
@@ -788,15 +608,6 @@ Nauru
 </td></tr>
 <tr><td width="50%">
 
-Nebraska
-
-</td><td width="50%">
-
-Nebraska
-
-</td></tr>
-<tr><td width="50%">
-
 Nepal
 
 </td><td width="50%">
@@ -806,65 +617,11 @@ Nepal
 </td></tr>
 <tr><td width="50%">
 
-Nevada
-
-</td><td width="50%">
-
-Nevada
-
-</td></tr>
-<tr><td width="50%">
-
 Nevermind
 
 </td><td width="50%">
 
 Nevermind
-
-</td></tr>
-<tr><td width="50%">
-
-New Brunswick
-
-</td><td width="50%">
-
-New Brunswick
-
-</td></tr>
-<tr><td width="50%">
-
-New Hampshire
-
-</td><td width="50%">
-
-New Hampshire
-
-</td></tr>
-<tr><td width="50%">
-
-New Jersey
-
-</td><td width="50%">
-
-New Jersey
-
-</td></tr>
-<tr><td width="50%">
-
-New York
-
-</td><td width="50%">
-
-New York
-
-</td></tr>
-<tr><td width="50%">
-
-Newfoundland and Labrador
-
-</td><td width="50%">
-
-Newfoundland and Labrador
 
 </td></tr>
 <tr><td width="50%">
@@ -896,15 +653,6 @@ Niue
 </td></tr>
 <tr><td width="50%">
 
-Nova Scotia
-
-</td><td width="50%">
-
-Nova Scotia
-
-</td></tr>
-<tr><td width="50%">
-
 Nova User
 
 </td><td width="50%">
@@ -914,38 +662,11 @@ Nova User
 </td></tr>
 <tr><td width="50%">
 
-Nunavut
-
-</td><td width="50%">
-
-Nunavut
-
-</td></tr>
-<tr><td width="50%">
-
 of
 
 </td><td width="50%">
 
 of
-
-</td></tr>
-<tr><td width="50%">
-
-Ontario
-
-</td><td width="50%">
-
-Ontario
-
-</td></tr>
-<tr><td width="50%">
-
-Oregon
-
-</td><td width="50%">
-
-Oregon
 
 </td></tr>
 <tr><td width="50%">
@@ -973,24 +694,6 @@ Portugal
 </td><td width="50%">
 
 Portugal
-
-</td></tr>
-<tr><td width="50%">
-
-Redeem
-
-</td><td width="50%">
-
-Redeem
-
-</td></tr>
-<tr><td width="50%">
-
-Redeeming
-
-</td><td width="50%">
-
-Redeeming
 
 </td></tr>
 <tr><td width="50%">
@@ -1085,15 +788,6 @@ São Tomé and Príncipe
 </td></tr>
 <tr><td width="50%">
 
-Saskatchewan
-
-</td><td width="50%">
-
-Saskatchewan
-
-</td></tr>
-<tr><td width="50%">
-
 Seychelles
 
 </td><td width="50%">
@@ -1112,15 +806,6 @@ Sint Maarten
 </td></tr>
 <tr><td width="50%">
 
-South Dakota
-
-</td><td width="50%">
-
-South Dakota
-
-</td></tr>
-<tr><td width="50%">
-
 Standalone Actions
 
 </td><td width="50%">
@@ -1139,15 +824,6 @@ Suriname
 </td></tr>
 <tr><td width="50%">
 
-Switch
-
-</td><td width="50%">
-
-Switch
-
-</td></tr>
-<tr><td width="50%">
-
 TAX
 
 </td><td width="50%">
@@ -1162,15 +838,6 @@ Team Owner
 </td><td width="50%">
 
 Team Owner
-
-</td></tr>
-<tr><td width="50%">
-
-Tennessee
-
-</td><td width="50%">
-
-Tennessee
 
 </td></tr>
 <tr><td width="50%">
@@ -1211,15 +878,6 @@ Tokelau
 </td></tr>
 <tr><td width="50%">
 
-Token Can
-
-</td><td width="50%">
-
-Token Can
-
-</td></tr>
-<tr><td width="50%">
-
 Token Name
 
 </td><td width="50%">
@@ -1252,51 +910,6 @@ Vanuatu
 </td><td width="50%">
 
 Vanuatu
-
-</td></tr>
-<tr><td width="50%">
-
-Vermont
-
-</td><td width="50%">
-
-Vermont
-
-</td></tr>
-<tr><td width="50%">
-
-Washington
-
-</td><td width="50%">
-
-Washington
-
-</td></tr>
-<tr><td width="50%">
-
-Wyoming
-
-</td><td width="50%">
-
-Wyoming
-
-</td></tr>
-<tr><td width="50%">
-
-yr
-
-</td><td width="50%">
-
-yr
-
-</td></tr>
-<tr><td width="50%">
-
-Yukon
-
-</td><td width="50%">
-
-Yukon
 
 </td></tr>
 <tr><td width="50%">
@@ -1314,7 +927,7 @@ Yukon
 
 
 
-### php
+### php-inline
 
 ##### Missing: 4
 
@@ -1330,38 +943,67 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-attributes.team
+alpha
 
 </td><td width="50%">
 
-team
+This field must only contain letters.
 
 </td></tr>
 <tr><td width="50%">
 
-team_billing
+alpha_num
 
 </td><td width="50%">
 
-Team Billing
+This field must only contain letters and numbers.
 
 </td></tr>
 <tr><td width="50%">
 
-team_slug
+filled
 
 </td><td width="50%">
 
-Team Slug
+This field must have a value.
 
 </td></tr>
 <tr><td width="50%">
 
-team_trial
+required_with_all
 
 </td><td width="50%">
 
-Team Trial
+This field is required when :values are present.
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php
+
+##### Missing: 1
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+starts_with
+
+</td><td width="50%">
+
+The :attribute must start with one of the following: :values.
 
 </td></tr>
 </table>

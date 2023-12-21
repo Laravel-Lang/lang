@@ -4,12 +4,12 @@ editLink: false
 
 # tk
 
-##### All missed: 72
+##### All missed: 58
 
 
 ### json
 
-##### Missing: 72
+##### Missing: 53
 
 <table width="100%">
 <tr><th width="50%">
@@ -32,24 +32,6 @@ Administrator
 </td></tr>
 <tr><td width="50%">
 
-Alabama
-
-</td><td width="50%">
-
-Alabama
-
-</td></tr>
-<tr><td width="50%">
-
-Alberta
-
-</td><td width="50%">
-
-Alberta
-
-</td></tr>
-<tr><td width="50%">
-
 Andorra
 
 </td><td width="50%">
@@ -77,15 +59,6 @@ Anguilla
 </td></tr>
 <tr><td width="50%">
 
-API
-
-</td><td width="50%">
-
-API
-
-</td></tr>
-<tr><td width="50%">
-
 API Token
 
 </td><td width="50%">
@@ -109,15 +82,6 @@ Argentina
 </td><td width="50%">
 
 Argentina
-
-</td></tr>
-<tr><td width="50%">
-
-Arizona
-
-</td><td width="50%">
-
-Arizona
 
 </td></tr>
 <tr><td width="50%">
@@ -221,15 +185,6 @@ Fiji
 </td></tr>
 <tr><td width="50%">
 
-Florida
-
-</td><td width="50%">
-
-Florida
-
-</td></tr>
-<tr><td width="50%">
-
 Gabon
 
 </td><td width="50%">
@@ -284,33 +239,6 @@ Guernsey
 </td></tr>
 <tr><td width="50%">
 
-Idaho
-
-</td><td width="50%">
-
-Idaho
-
-</td></tr>
-<tr><td width="50%">
-
-Indiana
-
-</td><td width="50%">
-
-Indiana
-
-</td></tr>
-<tr><td width="50%">
-
-Kiosk
-
-</td><td width="50%">
-
-Kiosk
-
-</td></tr>
-<tr><td width="50%">
-
 Kiribati
 
 </td><td width="50%">
@@ -325,15 +253,6 @@ Log Viewer
 </td><td width="50%">
 
 Log Viewer
-
-</td></tr>
-<tr><td width="50%">
-
-Maine
-
-</td><td width="50%">
-
-Maine
 
 </td></tr>
 <tr><td width="50%">
@@ -365,47 +284,11 @@ Malta
 </td></tr>
 <tr><td width="50%">
 
-Manitoba
-
-</td><td width="50%">
-
-Manitoba
-
-</td></tr>
-<tr><td width="50%">
-
 Martinique
 
 </td><td width="50%">
 
 Martinique
-
-</td></tr>
-<tr><td width="50%">
-
-Minnesota
-
-</td><td width="50%">
-
-Minnesota
-
-</td></tr>
-<tr><td width="50%">
-
-mo
-
-</td><td width="50%">
-
-mo
-
-</td></tr>
-<tr><td width="50%">
-
-Montana
-
-</td><td width="50%">
-
-Montana
 
 </td></tr>
 <tr><td width="50%">
@@ -424,15 +307,6 @@ Nauru
 </td><td width="50%">
 
 Nauru
-
-</td></tr>
-<tr><td width="50%">
-
-Nebraska
-
-</td><td width="50%">
-
-Nebraska
 
 </td></tr>
 <tr><td width="50%">
@@ -473,33 +347,6 @@ of
 </td></tr>
 <tr><td width="50%">
 
-Oklahoma
-
-</td><td width="50%">
-
-Oklahoma
-
-</td></tr>
-<tr><td width="50%">
-
-Ontario
-
-</td><td width="50%">
-
-Ontario
-
-</td></tr>
-<tr><td width="50%">
-
-Oregon
-
-</td><td width="50%">
-
-Oregon
-
-</td></tr>
-<tr><td width="50%">
-
 Pakistan
 
 </td><td width="50%">
@@ -523,15 +370,6 @@ Panama
 </td><td width="50%">
 
 Panama
-
-</td></tr>
-<tr><td width="50%">
-
-Rhode Island
-
-</td><td width="50%">
-
-Rhode Island
 
 </td></tr>
 <tr><td width="50%">
@@ -635,15 +473,6 @@ Tokelau
 </td></tr>
 <tr><td width="50%">
 
-Token Can
-
-</td><td width="50%">
-
-Token Can
-
-</td></tr>
-<tr><td width="50%">
-
 Tonga
 
 </td><td width="50%">
@@ -667,6 +496,91 @@ Zimbabwe
 </td><td width="50%">
 
 Zimbabwe
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php-inline
+
+##### Missing: 4
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+alpha
+
+</td><td width="50%">
+
+This field must only contain letters.
+
+</td></tr>
+<tr><td width="50%">
+
+alpha_num
+
+</td><td width="50%">
+
+This field must only contain letters and numbers.
+
+</td></tr>
+<tr><td width="50%">
+
+filled
+
+</td><td width="50%">
+
+This field must have a value.
+
+</td></tr>
+<tr><td width="50%">
+
+required_with_all
+
+</td><td width="50%">
+
+This field is required when :values are present.
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php
+
+##### Missing: 1
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+starts_with
+
+</td><td width="50%">
+
+The :attribute must start with one of the following: :values.
 
 </td></tr>
 </table>

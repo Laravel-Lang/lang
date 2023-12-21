@@ -4,12 +4,12 @@ editLink: false
 
 # az
 
-##### All missed: 44
+##### All missed: 27
 
 
 ### json
 
-##### Missing: 44
+##### Missing: 27
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,24 +23,6 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-Alabama
-
-</td><td width="50%">
-
-Alabama
-
-</td></tr>
-<tr><td width="50%">
-
-Alberta
-
-</td><td width="50%">
-
-Alberta
-
-</td></tr>
-<tr><td width="50%">
-
 Andorra
 
 </td><td width="50%">
@@ -50,29 +32,11 @@ Andorra
 </td></tr>
 <tr><td width="50%">
 
-API
-
-</td><td width="50%">
-
-API
-
-</td></tr>
-<tr><td width="50%">
-
 Argentina
 
 </td><td width="50%">
 
 Argentina
-
-</td></tr>
-<tr><td width="50%">
-
-Arizona
-
-</td><td width="50%">
-
-Arizona
 
 </td></tr>
 <tr><td width="50%">
@@ -122,15 +86,6 @@ Burundi
 </td></tr>
 <tr><td width="50%">
 
-Florida
-
-</td><td width="50%">
-
-Florida
-
-</td></tr>
-<tr><td width="50%">
-
 Haiti
 
 </td><td width="50%">
@@ -176,38 +131,11 @@ Malta
 </td></tr>
 <tr><td width="50%">
 
-Manitoba
-
-</td><td width="50%">
-
-Manitoba
-
-</td></tr>
-<tr><td width="50%">
-
-Minnesota
-
-</td><td width="50%">
-
-Minnesota
-
-</td></tr>
-<tr><td width="50%">
-
 Moldova
 
 </td><td width="50%">
 
 Moldova
-
-</td></tr>
-<tr><td width="50%">
-
-Montana
-
-</td><td width="50%">
-
-Montana
 
 </td></tr>
 <tr><td width="50%">
@@ -230,29 +158,11 @@ Nauru
 </td></tr>
 <tr><td width="50%">
 
-Nebraska
-
-</td><td width="50%">
-
-Nebraska
-
-</td></tr>
-<tr><td width="50%">
-
 Nepal
 
 </td><td width="50%">
 
 Nepal
-
-</td></tr>
-<tr><td width="50%">
-
-Nevada
-
-</td><td width="50%">
-
-Nevada
 
 </td></tr>
 <tr><td width="50%">
@@ -275,38 +185,11 @@ Niue
 </td></tr>
 <tr><td width="50%">
 
-Nunavut
-
-</td><td width="50%">
-
-Nunavut
-
-</td></tr>
-<tr><td width="50%">
-
-Oklahoma
-
-</td><td width="50%">
-
-Oklahoma
-
-</td></tr>
-<tr><td width="50%">
-
 Oman
 
 </td><td width="50%">
 
 Oman
-
-</td></tr>
-<tr><td width="50%">
-
-Ontario
-
-</td><td width="50%">
-
-Ontario
 
 </td></tr>
 <tr><td width="50%">
@@ -365,15 +248,6 @@ Sudan
 </td></tr>
 <tr><td width="50%">
 
-Texas
-
-</td><td width="50%">
-
-Texas
-
-</td></tr>
-<tr><td width="50%">
-
 Tokelau
 
 </td><td width="50%">
@@ -383,38 +257,11 @@ Tokelau
 </td></tr>
 <tr><td width="50%">
 
-Token Can
-
-</td><td width="50%">
-
-Token Can
-
-</td></tr>
-<tr><td width="50%">
-
 Vanuatu
 
 </td><td width="50%">
 
 Vanuatu
-
-</td></tr>
-<tr><td width="50%">
-
-Vermont
-
-</td><td width="50%">
-
-Vermont
-
-</td></tr>
-<tr><td width="50%">
-
-Yukon
-
-</td><td width="50%">
-
-Yukon
 
 </td></tr>
 </table>

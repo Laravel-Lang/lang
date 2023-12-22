@@ -124,7 +124,7 @@
     "size.file": ":Attribute چوڭ-كىچىكلىكى چوقۇم :size kb بۇلىشى كېرەك.",
     "size.numeric": ":Attribute چوڭ-كىچىكلىكى چوقۇم :size بۇلىشى كېرەك.",
     "size.string": ":Attribute چوقۇم :size خەت.",
-    "starts_with": "The :attribute must start with one of the following: :values.",
+    "starts_with": ":attribute چوقۇم تۆۋەندىكىلەرنىڭ بىرىدىن باشلىنىشى كېرەك: :values.",
     "string": ":Attribute چوقۇم بىر ھەرىپ بەلگە تىزىقى بۇلىشى كېرەك.",
     "throttle": "مەشغۇلات قېتىم سانى بەك كۆپ بۇلۇپ كەتتى، يەنە :seconds سېكۇنتتىن كىيىن قايتا سىناپ بېقىڭ.",
     "throttled": "قايتا سىناڭ.",

@@ -124,7 +124,7 @@
     "size.file": ":Attribute :size kilobaýt bolmalydyr.",
     "size.numeric": ":Attribute :size sandan ybarat bolmalydyr.",
     "size.string": ":Attribute :size harp bolmalydyr.",
-    "starts_with": "The :attribute must start with one of the following: :values.",
+    "starts_with": ":attribute-lary aşakdakylardan biri bilen başlamaly: :values.",
     "string": ":Attribute setir bolmaly.",
     "throttle": "Giriş synanyşyklary gaty köp. :seconds sekuntda gaýtadan synanyşmagyňyzy haýyş edýäris.",
     "throttled": "Gaýtadan synanyşmazdan ozal garaşmagyňyzy haýyş edýäris.",

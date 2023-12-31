@@ -4,12 +4,12 @@ editLink: false
 
 # lb
 
-##### All missed: 139
+##### All missed: 138
 
 
 ### json
 
-##### Missing: 139
+##### Missing: 138
 
 <table width="100%">
 <tr><th width="50%">
@@ -1180,15 +1180,6 @@ Ukraine
 </td><td width="50%">
 
 Ukraine
-
-</td></tr>
-<tr><td width="50%">
-
-United States Minor Outlying Islands
-
-</td><td width="50%">
-
-United States Minor Outlying Islands
 
 </td></tr>
 <tr><td width="50%">

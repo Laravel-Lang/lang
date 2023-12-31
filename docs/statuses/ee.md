@@ -4,12 +4,12 @@ editLink: false
 
 # ee
 
-##### All missed: 138
+##### All missed: 136
 
 
 ### json
 
-##### Missing: 138
+##### Missing: 136
 
 <table width="100%">
 <tr><th width="50%">
@@ -716,15 +716,6 @@ Malta
 </td></tr>
 <tr><td width="50%">
 
-Mark Unread
-
-</td><td width="50%">
-
-Mark Unread
-
-</td></tr>
-<tr><td width="50%">
-
 Mauritania
 
 </td><td width="50%">
@@ -1207,15 +1198,6 @@ United Kingdom
 </td><td width="50%">
 
 United Kingdom
-
-</td></tr>
-<tr><td width="50%">
-
-Uzbekistan
-
-</td><td width="50%">
-
-Uzbekistan
 
 </td></tr>
 <tr><td width="50%">

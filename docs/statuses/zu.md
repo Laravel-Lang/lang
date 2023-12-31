@@ -4,12 +4,12 @@ editLink: false
 
 # zu
 
-##### All missed: 88
+##### All missed: 86
 
 
 ### json
 
-##### Missing: 88
+##### Missing: 86
 
 <table width="100%">
 <tr><th width="50%">
@@ -145,15 +145,6 @@ China
 </td><td width="50%">
 
 China
-
-</td></tr>
-<tr><td width="50%">
-
-Colombia
-
-</td><td width="50%">
-
-Colombia
 
 </td></tr>
 <tr><td width="50%">
@@ -694,15 +685,6 @@ Spain
 </td><td width="50%">
 
 Spain
-
-</td></tr>
-<tr><td width="50%">
-
-Sudan
-
-</td><td width="50%">
-
-Sudan
 
 </td></tr>
 <tr><td width="50%">

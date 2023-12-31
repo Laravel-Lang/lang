@@ -4,12 +4,12 @@ editLink: false
 
 # rw
 
-##### All missed: 94
+##### All missed: 93
 
 
 ### json
 
-##### Missing: 94
+##### Missing: 93
 
 <table width="100%">
 <tr><th width="50%">
@@ -109,15 +109,6 @@ Bermuda
 </td><td width="50%">
 
 Bermuda
-
-</td></tr>
-<tr><td width="50%">
-
-Bhutan
-
-</td><td width="50%">
-
-Bhutan
 
 </td></tr>
 <tr><td width="50%">

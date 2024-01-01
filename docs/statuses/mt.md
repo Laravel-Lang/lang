@@ -4,12 +4,12 @@ editLink: false
 
 # mt
 
-##### All missed: 87
+##### All missed: 86
 
 
 ### json
 
-##### Missing: 87
+##### Missing: 86
 
 <table width="100%">
 <tr><th width="50%">
@@ -199,15 +199,6 @@ Curaçao
 </td><td width="50%">
 
 Curaçao
-
-</td></tr>
-<tr><td width="50%">
-
-Dashboard
-
-</td><td width="50%">
-
-Dashboard
 
 </td></tr>
 <tr><td width="50%">

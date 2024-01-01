@@ -4,12 +4,12 @@ editLink: false
 
 # ln
 
-##### All missed: 53
+##### All missed: 52
 
 
 ### json
 
-##### Missing: 53
+##### Missing: 52
 
 <table width="100%">
 <tr><th width="50%">
@@ -406,15 +406,6 @@ SKU
 </td><td width="50%">
 
 SKU
-
-</td></tr>
-<tr><td width="50%">
-
-Swaziland
-
-</td><td width="50%">
-
-Swaziland
 
 </td></tr>
 <tr><td width="50%">

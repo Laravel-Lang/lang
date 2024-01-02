@@ -4,12 +4,12 @@ editLink: false
 
 # zu
 
-##### All missed: 86
+##### All missed: 85
 
 
 ### json
 
-##### Missing: 86
+##### Missing: 85
 
 <table width="100%">
 <tr><th width="50%">
@@ -451,15 +451,6 @@ Martinique
 </td><td width="50%">
 
 Martinique
-
-</td></tr>
-<tr><td width="50%">
-
-Mexico
-
-</td><td width="50%">
-
-Mexico
 
 </td></tr>
 <tr><td width="50%">

@@ -4,12 +4,12 @@ editLink: false
 
 # fy
 
-##### All missed: 99
+##### All missed: 98
 
 
 ### json
 
-##### Missing: 99
+##### Missing: 98
 
 <table width="100%">
 <tr><th width="50%">
@@ -181,15 +181,6 @@ Bouvet Island
 </td><td width="50%">
 
 Bouvet Island
-
-</td></tr>
-<tr><td width="50%">
-
-Brunei Darussalam
-
-</td><td width="50%">
-
-Brunei Darussalam
 
 </td></tr>
 <tr><td width="50%">

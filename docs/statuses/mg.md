@@ -4,12 +4,12 @@ editLink: false
 
 # mg
 
-##### All missed: 118
+##### All missed: 116
 
 
 ### json
 
-##### Missing: 118
+##### Missing: 116
 
 <table width="100%">
 <tr><th width="50%">
@@ -712,24 +712,6 @@ Regenerate Recovery Codes
 </td><td width="50%">
 
 Regenerate Recovery Codes
-
-</td></tr>
-<tr><td width="50%">
-
-Reset Filters
-
-</td><td width="50%">
-
-Reset Filters
-
-</td></tr>
-<tr><td width="50%">
-
-Reset Password
-
-</td><td width="50%">
-
-Reset Password
 
 </td></tr>
 <tr><td width="50%">

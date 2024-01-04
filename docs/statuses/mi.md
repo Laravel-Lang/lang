@@ -4,12 +4,12 @@ editLink: false
 
 # mi
 
-##### All missed: 164
+##### All missed: 163
 
 
 ### json
 
-##### Missing: 164
+##### Missing: 163
 
 <table width="100%">
 <tr><th width="50%">
@@ -370,15 +370,6 @@ Côte d'Ivoire
 </td><td width="50%">
 
 Côte d'Ivoire
-
-</td></tr>
-<tr><td width="50%">
-
-Denmark
-
-</td><td width="50%">
-
-Denmark
 
 </td></tr>
 <tr><td width="50%">

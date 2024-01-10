@@ -4,12 +4,12 @@ editLink: false
 
 # lg
 
-##### All missed: 165
+##### All missed: 164
 
 
 ### json
 
-##### Missing: 165
+##### Missing: 164
 
 <table width="100%">
 <tr><th width="50%">
@@ -856,15 +856,6 @@ Mauritania
 </td><td width="50%">
 
 Mauritania
-
-</td></tr>
-<tr><td width="50%">
-
-Mayotte
-
-</td><td width="50%">
-
-Mayotte
 
 </td></tr>
 <tr><td width="50%">

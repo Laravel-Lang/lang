@@ -19,6 +19,7 @@ class Plugin extends Provider
         Plugins\Cashier\Stripe\Master::class,
         Plugins\Cashier\Stripe\V13::class,
         Plugins\Cashier\Stripe\V14::class,
+        Plugins\Cashier\Stripe\V15::class,
 
         Plugins\Fortify\Master::class,
         Plugins\Fortify\V1::class,

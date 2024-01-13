@@ -4,12 +4,12 @@ editLink: false
 
 # sn
 
-##### All missed: 198
+##### All missed: 197
 
 
 ### json
 
-##### Missing: 198
+##### Missing: 197
 
 <table width="100%">
 <tr><th width="50%">
@@ -1144,15 +1144,6 @@ Pending Team Invitations
 </td><td width="50%">
 
 Pending Team Invitations
-
-</td></tr>
-<tr><td width="50%">
-
-Per Page
-
-</td><td width="50%">
-
-Per Page
 
 </td></tr>
 <tr><td width="50%">

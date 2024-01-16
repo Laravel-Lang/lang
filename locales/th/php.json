@@ -1,7 +1,7 @@
 {
     "accepted": "ข้อมูล :attribute ต้องผ่านการยอมรับก่อน",
     "accepted_if": "ข้อมูล :attribute ต้องผ่านการยอมรับ เมื่อ :other เป็น :value",
-    "active_url": "ข้อมูล :attribute ต้องเป็น URL เท่านั้น",
+    "active_url": "ข้อมูล :attribute ไม่ใช่ URL ที่ถูกรูปแบบ",
     "after": "ข้อมูล :attribute ต้องเป็นวันที่หลังจาก :date",
     "after_or_equal": "ข้อมูล :attribute ต้องเป็นวันที่ตั้งแต่วันที่ :date หรือหลังจากนั้น",
     "alpha": "ข้อมูล :attribute ต้องเป็นตัวอักษรภาษาอังกฤษเท่านั้น",
@@ -131,10 +131,10 @@
     "timezone": "ข้อมูล :attribute ต้องเป็นข้อมูลเขตเวลาที่ถูกต้อง",
     "token": "ชุดรหัสสำหรับเปลี่ยนรหัสผ่านไม่ถูกต้อง",
     "ulid": ":attribute ต้องเป็น ULID ที่ถูกต้อง",
-    "unique": "ข:attribute ถูกใช้ไปแล้ว",
+    "unique": ":attribute ถูกใช้ไปแล้ว",
     "uploaded": "ไม่สามารถอัปโหลดข้อมูล :attribute ได้",
     "uppercase": ":attribute ต้องเป็นตัวพิมพ์ใหญ่",
-    "url": "ข้อมูล :attribute ไม่ถูกต้อง",
-    "user": "ไม่พบผู้ใช้งานที่ตรงกับอีเมล์นี้",
-    "uuid": "ข้อมูล :attribute ต้องเป็นค่า UUID ที่ถูกต้อง"
+    "url": "ข้อมูล :attribute ต้องเป็น URL ที่ถูกรูปแบบ",
+    "user": "ไม่พบผู้ใช้งานที่ตรงกับอีเมลนี้",
+    "uuid": "ข้อมูล :attribute ต้องเป็นค่า UUID ที่ถูกรูปแบบ"
 }

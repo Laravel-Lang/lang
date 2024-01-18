@@ -4,12 +4,12 @@ editLink: false
 
 # lb
 
-##### All missed: 138
+##### All missed: 137
 
 
 ### json
 
-##### Missing: 138
+##### Missing: 137
 
 <table width="100%">
 <tr><th width="50%">
@@ -37,15 +37,6 @@ Add Payment Method
 </td><td width="50%">
 
 Add Payment Method
-
-</td></tr>
-<tr><td width="50%">
-
-Add Team Member
-
-</td><td width="50%">
-
-Add Team Member
 
 </td></tr>
 <tr><td width="50%">

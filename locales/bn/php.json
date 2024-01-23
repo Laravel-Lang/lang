@@ -27,7 +27,7 @@
     "declined": ":Attribute অবশ্যই প্রত্যাখ্যান করতে হবে।",
     "declined_if": ":Attribute অবশ্যই প্রত্যাখ্যান করতে হবে যখন :value হবে :other।",
     "different": ":Attribute এবং :other আলাদা হতে হবে।",
-    "digits": ":Attribute :digits অবশ্যই একটি সংখ্যা হতে হবে।",
+    "digits": ":Attribute অবশ্যই একটি :digits অংকের সংখ্যা হতে হবে।",
     "digits_between": ":Attribute অবশ্যই :min এবং :max ডিজিট এর মধ্যে হতে হবে।",
     "dimensions": ":Attribute অবৈধ ইমেজ মাত্রা রয়েছে।",
     "distinct": ":Attribute এর স্থানে একটি নকল মান আছে।",

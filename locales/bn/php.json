@@ -1,6 +1,6 @@
 {
-    "accepted": ":Attribute গ্রহণ করা হয়েছে",
-    "accepted_if": ":Attribute গ্রহন করা হবে যদি :other সমান :value হয়।",
+    "accepted": ":Attribute গ্রহণ করা আবশ্যক।",
+    "accepted_if": ":Attribute অবশ্যই গ্রহণ করতে হবে যখন :other সমান :value হয়।",
     "active_url": "এই :attribute একটি বৈধ URL নয়।",
     "after": ":Date অবশ্যই :attribute এর পরের একটি তারিখ হতে হবে।",
     "after_or_equal": ":Attribute টি অবশ্যই :date এর সাথে মিল অথবা এর পরের একটি তারিখ হতে হবে।",

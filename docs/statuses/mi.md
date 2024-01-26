@@ -4,12 +4,12 @@ editLink: false
 
 # mi
 
-##### All missed: 163
+##### All missed: 162
 
 
 ### json
 
-##### Missing: 163
+##### Missing: 162
 
 <table width="100%">
 <tr><th width="50%">
@@ -1072,15 +1072,6 @@ Rwanda
 </td><td width="50%">
 
 Rwanda
-
-</td></tr>
-<tr><td width="50%">
-
-Saint Barthelemy
-
-</td><td width="50%">
-
-St. Barthélemy
 
 </td></tr>
 <tr><td width="50%">

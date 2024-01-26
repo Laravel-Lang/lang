@@ -4,12 +4,12 @@ editLink: false
 
 # yi
 
-##### All missed: 14
+##### All missed: 12
 
 
 ### json
 
-##### Missing: 14
+##### Missing: 12
 
 <table width="100%">
 <tr><th width="50%">
@@ -32,29 +32,11 @@ Brazil
 </td></tr>
 <tr><td width="50%">
 
-Cote D'Ivoire
-
-</td><td width="50%">
-
-Côte d'Ivoire
-
-</td></tr>
-<tr><td width="50%">
-
 CSV (.csv)
 
 </td><td width="50%">
 
 CSV (.csv)
-
-</td></tr>
-<tr><td width="50%">
-
-Côte d'Ivoire
-
-</td><td width="50%">
-
-Côte d'Ivoire
 
 </td></tr>
 <tr><td width="50%">

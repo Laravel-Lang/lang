@@ -4,12 +4,12 @@ editLink: false
 
 # bm
 
-##### All missed: 11
+##### All missed: 10
 
 
 ### json
 
-##### Missing: 11
+##### Missing: 10
 
 <table width="100%">
 <tr><th width="50%">
@@ -28,15 +28,6 @@ Gabon
 </td><td width="50%">
 
 Gabon
-
-</td></tr>
-<tr><td width="50%">
-
-Last active
-
-</td><td width="50%">
-
-Last active
 
 </td></tr>
 <tr><td width="50%">

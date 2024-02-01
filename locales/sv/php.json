@@ -36,7 +36,7 @@
     "email": ":Attribute måste innehålla en korrekt e-postadress.",
     "ends_with": ":Attribute måste sluta med en av följande: :values.",
     "enum": ":Attribute är ogiltigt.",
-    "exists": ":Attribute existerar i databasen och är därför ogiltigt.",
+    "exists": ":Attribute existerar ej i databasen och är därför ogiltigt.",
     "extensions": "Fältet :attribute måste ha en av följande tillägg: :values.",
     "failed": "Dessa uppgifter stämmer inte överens med vårt register.",
     "file": ":Attribute måste vara en fil.",

@@ -4,12 +4,12 @@ editLink: false
 
 # lb
 
-##### All missed: 137
+##### All missed: 136
 
 
 ### json
 
-##### Missing: 137
+##### Missing: 136
 
 <table width="100%">
 <tr><th width="50%">
@@ -28,15 +28,6 @@ Action Status
 </td><td width="50%">
 
 Status
-
-</td></tr>
-<tr><td width="50%">
-
-Add Payment Method
-
-</td><td width="50%">
-
-Add Payment Method
 
 </td></tr>
 <tr><td width="50%">

@@ -4,12 +4,12 @@ editLink: false
 
 # ku
 
-##### All missed: 78
+##### All missed: 79
 
 
 ### json
 
-##### Missing: 78
+##### Missing: 79
 
 <table width="100%">
 <tr><th width="50%">
@@ -712,6 +712,15 @@ Turkmenistan
 </td><td width="50%">
 
 Turkmenistan
+
+</td></tr>
+<tr><td width="50%">
+
+Visits
+
+</td><td width="50%">
+
+Visits
 
 </td></tr>
 <tr><td width="50%">

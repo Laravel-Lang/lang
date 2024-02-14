@@ -4,12 +4,12 @@ editLink: false
 
 # mni_Mtei
 
-##### All missed: 1
+##### All missed: 2
 
 
 ### json
 
-##### Missing: 1
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -28,6 +28,15 @@ to
 </td><td width="50%">
 
 to
+
+</td></tr>
+<tr><td width="50%">
+
+Visits
+
+</td><td width="50%">
+
+Visits
 
 </td></tr>
 </table>

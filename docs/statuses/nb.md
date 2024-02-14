@@ -4,12 +4,12 @@ editLink: false
 
 # nb
 
-##### All missed: 3
+##### All missed: 4
 
 
 ### json
 
-##### Missing: 3
+##### Missing: 4
 
 <table width="100%">
 <tr><th width="50%">
@@ -46,6 +46,15 @@ Type
 </td><td width="50%">
 
 Type
+
+</td></tr>
+<tr><td width="50%">
+
+Visits
+
+</td><td width="50%">
+
+Visits
 
 </td></tr>
 </table>

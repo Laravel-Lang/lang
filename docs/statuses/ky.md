@@ -4,12 +4,12 @@ editLink: false
 
 # ky
 
-##### All missed: 15
+##### All missed: 16
 
 
 ### json
 
-##### Missing: 15
+##### Missing: 16
 
 <table width="100%">
 <tr><th width="50%">
@@ -154,6 +154,15 @@ SKU
 </td><td width="50%">
 
 SKU
+
+</td></tr>
+<tr><td width="50%">
+
+Visits
+
+</td><td width="50%">
+
+Visits
 
 </td></tr>
 </table>

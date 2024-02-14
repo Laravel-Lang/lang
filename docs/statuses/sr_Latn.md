@@ -4,7 +4,7 @@ editLink: false
 
 # sr_Latn
 
-##### All missed: 321
+##### All missed: 322
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 255
+##### Missing: 256
 
 <table width="100%">
 <tr><th width="50%">
@@ -2172,6 +2172,15 @@ View Receipt
 </td><td width="50%">
 
 View Receipt
+
+</td></tr>
+<tr><td width="50%">
+
+Visits
+
+</td><td width="50%">
+
+Visits
 
 </td></tr>
 <tr><td width="50%">

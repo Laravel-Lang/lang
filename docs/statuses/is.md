@@ -4,12 +4,12 @@ editLink: false
 
 # is
 
-##### All missed: 6
+##### All missed: 7
 
 
 ### json
 
-##### Missing: 6
+##### Missing: 7
 
 <table width="100%">
 <tr><th width="50%">
@@ -73,6 +73,15 @@ Saint Barthélemy
 </td><td width="50%">
 
 Saint Barthélemy
+
+</td></tr>
+<tr><td width="50%">
+
+Visits
+
+</td><td width="50%">
+
+Visits
 
 </td></tr>
 </table>

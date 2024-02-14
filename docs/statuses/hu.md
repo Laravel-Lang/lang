@@ -4,12 +4,12 @@ editLink: false
 
 # hu
 
-##### All missed: 62
+##### All missed: 63
 
 
 ### json
 
-##### Missing: 62
+##### Missing: 63
 
 <table width="100%">
 <tr><th width="50%">
@@ -559,6 +559,15 @@ Venezuela
 </td><td width="50%">
 
 Venezuela
+
+</td></tr>
+<tr><td width="50%">
+
+Visits
+
+</td><td width="50%">
+
+Visits
 
 </td></tr>
 <tr><td width="50%">

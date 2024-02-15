@@ -4,12 +4,12 @@ editLink: false
 
 # su
 
-##### All missed: 118
+##### All missed: 117
 
 
 ### json
 
-##### Missing: 118
+##### Missing: 117
 
 <table width="100%">
 <tr><th width="50%">
@@ -1063,15 +1063,6 @@ Vanuatu
 </td><td width="50%">
 
 Vanuatu
-
-</td></tr>
-<tr><td width="50%">
-
-Visits
-
-</td><td width="50%">
-
-Visits
 
 </td></tr>
 <tr><td width="50%">

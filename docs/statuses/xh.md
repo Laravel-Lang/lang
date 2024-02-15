@@ -4,12 +4,12 @@ editLink: false
 
 # xh
 
-##### All missed: 36
+##### All missed: 35
 
 
 ### json
 
-##### Missing: 36
+##### Missing: 35
 
 <table width="100%">
 <tr><th width="50%">
@@ -325,15 +325,6 @@ Tajikistan
 </td><td width="50%">
 
 Tajikistan
-
-</td></tr>
-<tr><td width="50%">
-
-Visits
-
-</td><td width="50%">
-
-Visits
 
 </td></tr>
 <tr><td width="50%">

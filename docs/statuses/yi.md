@@ -4,12 +4,12 @@ editLink: false
 
 # yi
 
-##### All missed: 13
+##### All missed: 12
 
 
 ### json
 
-##### Missing: 13
+##### Missing: 12
 
 <table width="100%">
 <tr><th width="50%">
@@ -127,15 +127,6 @@ View
 </td><td width="50%">
 
 View
-
-</td></tr>
-<tr><td width="50%">
-
-Visits
-
-</td><td width="50%">
-
-Visits
 
 </td></tr>
 </table>

@@ -4,12 +4,12 @@ editLink: false
 
 # tk
 
-##### All missed: 54
+##### All missed: 53
 
 
 ### json
 
-##### Missing: 54
+##### Missing: 53
 
 <table width="100%">
 <tr><th width="50%">
@@ -487,15 +487,6 @@ Uganda
 </td><td width="50%">
 
 Uganda
-
-</td></tr>
-<tr><td width="50%">
-
-Visits
-
-</td><td width="50%">
-
-Visits
 
 </td></tr>
 <tr><td width="50%">

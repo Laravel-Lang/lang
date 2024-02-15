@@ -4,12 +4,12 @@ editLink: false
 
 # ug
 
-##### All missed: 101
+##### All missed: 100
 
 
 ### json
 
-##### Missing: 101
+##### Missing: 100
 
 <table width="100%">
 <tr><th width="50%">
@@ -910,15 +910,6 @@ Vanuatu
 </td><td width="50%">
 
 Vanuatu
-
-</td></tr>
-<tr><td width="50%">
-
-Visits
-
-</td><td width="50%">
-
-Visits
 
 </td></tr>
 <tr><td width="50%">

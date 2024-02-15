@@ -4,12 +4,12 @@ editLink: false
 
 # ee
 
-##### All missed: 137
+##### All missed: 136
 
 
 ### json
 
-##### Missing: 137
+##### Missing: 136
 
 <table width="100%">
 <tr><th width="50%">
@@ -1225,15 +1225,6 @@ Viet Nam
 </td><td width="50%">
 
 Viet Nam
-
-</td></tr>
-<tr><td width="50%">
-
-Visits
-
-</td><td width="50%">
-
-Visits
 
 </td></tr>
 <tr><td width="50%">

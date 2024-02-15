@@ -4,12 +4,12 @@ editLink: false
 
 # fy
 
-##### All missed: 99
+##### All missed: 98
 
 
 ### json
 
-##### Missing: 99
+##### Missing: 98
 
 <table width="100%">
 <tr><th width="50%">
@@ -901,15 +901,6 @@ Virgin Islands, U.S.
 </td><td width="50%">
 
 Virgin Islands, U.S.
-
-</td></tr>
-<tr><td width="50%">
-
-Visits
-
-</td><td width="50%">
-
-Visits
 
 </td></tr>
 </table>

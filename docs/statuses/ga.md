@@ -4,12 +4,12 @@ editLink: false
 
 # ga
 
-##### All missed: 31
+##### All missed: 30
 
 
 ### json
 
-##### Missing: 31
+##### Missing: 30
 
 <table width="100%">
 <tr><th width="50%">
@@ -289,15 +289,6 @@ Uganda
 </td><td width="50%">
 
 Uganda
-
-</td></tr>
-<tr><td width="50%">
-
-Visits
-
-</td><td width="50%">
-
-Visits
 
 </td></tr>
 </table>

@@ -4,12 +4,12 @@ editLink: false
 
 # fil
 
-##### All missed: 238
+##### All missed: 237
 
 
 ### json
 
-##### Missing: 238
+##### Missing: 237
 
 <table width="100%">
 <tr><th width="50%">
@@ -2116,15 +2116,6 @@ Venezuela, Bolivarian Republic of
 </td><td width="50%">
 
 Venezuela, Bolivarian Republic of
-
-</td></tr>
-<tr><td width="50%">
-
-Visits
-
-</td><td width="50%">
-
-Visits
 
 </td></tr>
 <tr><td width="50%">

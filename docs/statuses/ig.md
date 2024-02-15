@@ -4,12 +4,12 @@ editLink: false
 
 # ig
 
-##### All missed: 231
+##### All missed: 230
 
 
 ### json
 
-##### Missing: 231
+##### Missing: 230
 
 <table width="100%">
 <tr><th width="50%">
@@ -2053,15 +2053,6 @@ Virgin Islands, U.S.
 </td><td width="50%">
 
 Virgin Islands, U.S.
-
-</td></tr>
-<tr><td width="50%">
-
-Visits
-
-</td><td width="50%">
-
-Visits
 
 </td></tr>
 <tr><td width="50%">

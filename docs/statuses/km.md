@@ -4,12 +4,12 @@ editLink: false
 
 # km
 
-##### All missed: 2
+##### All missed: 1
 
 
 ### json
 
-##### Missing: 2
+##### Missing: 1
 
 <table width="100%">
 <tr><th width="50%">
@@ -28,15 +28,6 @@ API Token
 </td><td width="50%">
 
 API Token
-
-</td></tr>
-<tr><td width="50%">
-
-Visits
-
-</td><td width="50%">
-
-Visits
 
 </td></tr>
 </table>

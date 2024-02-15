@@ -4,12 +4,12 @@ editLink: false
 
 # my
 
-##### All missed: 22
+##### All missed: 21
 
 
 ### json
 
-##### Missing: 22
+##### Missing: 21
 
 <table width="100%">
 <tr><th width="50%">
@@ -208,15 +208,6 @@ Two Factor Authentication
 </td><td width="50%">
 
 Two Factor Authentication
-
-</td></tr>
-<tr><td width="50%">
-
-Visits
-
-</td><td width="50%">
-
-Visits
 
 </td></tr>
 </table>

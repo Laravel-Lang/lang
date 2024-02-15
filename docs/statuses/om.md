@@ -4,12 +4,12 @@ editLink: false
 
 # om
 
-##### All missed: 17
+##### All missed: 16
 
 
 ### json
 
-##### Missing: 17
+##### Missing: 16
 
 <table width="100%">
 <tr><th width="50%">
@@ -154,15 +154,6 @@ Tuvalu
 </td><td width="50%">
 
 Tuvalu
-
-</td></tr>
-<tr><td width="50%">
-
-Visits
-
-</td><td width="50%">
-
-Visits
 
 </td></tr>
 <tr><td width="50%">

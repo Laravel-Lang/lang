@@ -4,12 +4,12 @@ editLink: false
 
 # ha
 
-##### All missed: 176
+##### All missed: 175
 
 
 ### json
 
-##### Missing: 176
+##### Missing: 175
 
 <table width="100%">
 <tr><th width="50%">
@@ -1567,15 +1567,6 @@ Venezuela
 </td><td width="50%">
 
 Venezuela
-
-</td></tr>
-<tr><td width="50%">
-
-Visits
-
-</td><td width="50%">
-
-Visits
 
 </td></tr>
 <tr><td width="50%">

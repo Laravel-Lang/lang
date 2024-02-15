@@ -4,12 +4,12 @@ editLink: false
 
 # de_CH
 
-##### All missed: 10
+##### All missed: 9
 
 
 ### json
 
-##### Missing: 10
+##### Missing: 9
 
 <table width="100%">
 <tr><th width="50%">
@@ -100,15 +100,6 @@ System
 </td><td width="50%">
 
 System
-
-</td></tr>
-<tr><td width="50%">
-
-Visits
-
-</td><td width="50%">
-
-Visits
 
 </td></tr>
 </table>

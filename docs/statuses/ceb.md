@@ -4,12 +4,12 @@ editLink: false
 
 # ceb
 
-##### All missed: 249
+##### All missed: 248
 
 
 ### json
 
-##### Missing: 249
+##### Missing: 248
 
 <table width="100%">
 <tr><th width="50%">
@@ -2215,15 +2215,6 @@ Virgin Islands, U.S.
 </td><td width="50%">
 
 Virgin Islands, U.S.
-
-</td></tr>
-<tr><td width="50%">
-
-Visits
-
-</td><td width="50%">
-
-Visits
 
 </td></tr>
 <tr><td width="50%">

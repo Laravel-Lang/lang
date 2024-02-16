@@ -13,11 +13,11 @@ jobs:
                 uses: actions/checkout@v4
 
             -   name: Check the code style
-                uses: TheDragonCode/codestyler@v3
+                uses: TheDragonCode/codestyler@v4
                 if: ${{ github.event_name != 'push' || github.ref != 'refs/heads/main' }}
 
             -   name: Fix the code style
-                uses: TheDragonCode/codestyler@v3
+                uses: TheDragonCode/codestyler@v4
                 if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
                 with:
                     github_token: ${{ secrets.COMPOSER_TOKEN }}

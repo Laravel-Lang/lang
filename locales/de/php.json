@@ -119,7 +119,7 @@
     "required_without_all": ":Attribute muss ausgefüllt werden, wenn keines der Felder :values ausgefüllt wurde.",
     "reset": "Das Passwort wurde zurückgesetzt!",
     "same": ":Attribute und :other müssen übereinstimmen.",
-    "sent": "Passworterinnerung wurde gesendet!",
+    "sent": "E-Mail zum Zurücksetzen des Passworts wurde gesendet!",
     "size.array": ":Attribute muss genau :size Elemente haben.",
     "size.file": ":Attribute muss :size Kilobyte groß sein.",
     "size.numeric": ":Attribute muss gleich :size sein.",

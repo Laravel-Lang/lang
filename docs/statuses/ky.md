@@ -4,12 +4,12 @@ editLink: false
 
 # ky
 
-##### All missed: 15
+##### All missed: 14
 
 
 ### json
 
-##### Missing: 15
+##### Missing: 14
 
 <table width="100%">
 <tr><th width="50%">
@@ -28,15 +28,6 @@ City
 </td><td width="50%">
 
 City
-
-</td></tr>
-<tr><td width="50%">
-
-Code
-
-</td><td width="50%">
-
-Code
 
 </td></tr>
 <tr><td width="50%">

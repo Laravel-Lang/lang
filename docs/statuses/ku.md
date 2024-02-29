@@ -4,12 +4,12 @@ editLink: false
 
 # ku
 
-##### All missed: 78
+##### All missed: 76
 
 
 ### json
 
-##### Missing: 78
+##### Missing: 76
 
 <table width="100%">
 <tr><th width="50%">
@@ -154,15 +154,6 @@ Download
 </td><td width="50%">
 
 Download
-
-</td></tr>
-<tr><td width="50%">
-
-Edit Attached
-
-</td><td width="50%">
-
-Edit Attached
 
 </td></tr>
 <tr><td width="50%">
@@ -667,15 +658,6 @@ Taiwan
 </td><td width="50%">
 
 Taiwan
-
-</td></tr>
-<tr><td width="50%">
-
-Team Owner
-
-</td><td width="50%">
-
-Team Owner
 
 </td></tr>
 <tr><td width="50%">

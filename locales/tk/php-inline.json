@@ -84,7 +84,7 @@
     "missing_with": ":Values bar bolanda bu meýdan ýok bolmaly.",
     "missing_with_all": ":Values adam bolanda bu meýdan ýok bolmaly.",
     "multiple_of": "The value must be a multiple of :value",
-    "not_in": "The :attribute field must not be in the list.",
+    "not_in": "The selected value must not be in the list.",
     "not_regex": "This format is invalid.",
     "numeric": "This must be a number.",
     "password.letters": "Bu meýdanda azyndan bir harp bolmaly.",

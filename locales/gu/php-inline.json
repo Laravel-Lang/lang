@@ -84,7 +84,7 @@
     "missing_with": "જ્યારે :values હાજર હોય ત્યારે આ ફીલ્ડ ખૂટતું હોવું જોઈએ.",
     "missing_with_all": "જ્યારે :values હાજર હોય ત્યારે આ ફીલ્ડ ખૂટે જ જોઈએ.",
     "multiple_of": "The value must be a multiple of :value",
-    "not_in": "The :attribute field must not be in the list.",
+    "not_in": "The selected value must not be in the list.",
     "not_regex": "This format is invalid.",
     "numeric": "This must be a number.",
     "password.letters": "આ ફીલ્ડમાં ઓછામાં ઓછો એક અક્ષર હોવો જોઈએ.",

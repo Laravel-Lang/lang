@@ -84,7 +84,7 @@
     "missing_with": "Dette feltet må mangle når :values er tilstede.",
     "missing_with_all": "Dette feltet må mangle når :values er til stede.",
     "multiple_of": "The value must be a multiple of :value",
-    "not_in": "The :attribute field must not be in the list.",
+    "not_in": "The selected value must not be in the list.",
     "not_regex": "This format is invalid.",
     "numeric": "This must be a number.",
     "password.letters": "Dette feltet må inneholde minst én bokstav.",

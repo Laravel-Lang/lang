@@ -84,7 +84,7 @@
     "missing_with": "This field must be missing when :values is present.",
     "missing_with_all": "This field must be missing when :values are present.",
     "multiple_of": "The value must be a multiple of :value",
-    "not_in": "The :attribute field must not be in the list.",
+    "not_in": "The selected value must not be in the list.",
     "not_regex": "This format is invalid.",
     "numeric": "This must be a number.",
     "password.letters": "This field must contain at least one letter.",

@@ -34,7 +34,7 @@
     "doesnt_start_with": "Энэ талбар дараахын аль нэгээр эхлэхгүй байж болно: :values.",
     "email": "Энэ и-мэйл хаяг нь зөв байх естой.",
     "ends_with": "Энэ нь дараах аль нэгийг нь дуусгах естой: :values.",
-    "enum": "The selected value is invalid.",
+    "enum": "The selected value is not in the list of allowed values.",
     "exists": "Сонгосон утга буруу байна.",
     "extensions": "Энэ талбар нь дараах өргөтгөлүүдийн аль нэгтэй байх ёстой: :values.",
     "file": "Агуулга нь файл байх естой.",

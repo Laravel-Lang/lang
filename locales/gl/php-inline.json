@@ -34,7 +34,7 @@
     "doesnt_start_with": "Este campo pode non comezar por un dos seguintes: :values.",
     "email": "Este debe ser un enderezo de correo electrónico válido.",
     "ends_with": "Este debe acabar con un dos seguintes: :values instrucións.",
-    "enum": "The selected value is invalid.",
+    "enum": "The selected value is not in the list of allowed values.",
     "exists": "O valor seleccionado é válido.",
     "extensions": "Este campo debe ter unha das seguintes extensións: :values.",
     "file": "O contido debe ser un arquivo.",

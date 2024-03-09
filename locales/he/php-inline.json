@@ -34,7 +34,7 @@
     "doesnt_start_with": "שדה זה לא יכול להתחיל באחד מהבאים: :values.",
     "email": "זו חייבת להיות כתובת דוא \" ל תקפה.",
     "ends_with": "זה חייב להסתיים עם אחד הדברים הבאים: :values.",
-    "enum": "The selected value is invalid.",
+    "enum": "The selected value is not in the list of allowed values.",
     "exists": "הערך הנבחר אינו תקף.",
     "extensions": "שדה זה חייב לכלול אחת מההרחבות הבאות: :values.",
     "file": "התוכן חייב להיות קובץ.",

@@ -34,7 +34,7 @@
     "doesnt_start_with": "Бұл өріс келесілердің бірінен басталмауы мүмкін: :values.",
     "email": "Бұл жарамды электрондық пошта мекенжайы болуы керек.",
     "ends_with": "Бұл келесі тармақтардың бірімен аяқталуы керек: :values.",
-    "enum": "The selected value is invalid.",
+    "enum": "The selected value is not in the list of allowed values.",
     "exists": "Таңдалған мән жарамсыз болып табылады.",
     "extensions": "Бұл өрісте келесі кеңейтімдердің біреуі болуы керек: :values.",
     "file": "Мазмұн файл болуы керек.",

@@ -34,7 +34,7 @@
     "doesnt_start_with": "Aquest camp pot no començar amb un dels següents: :values.",
     "email": "Aquesta ha de ser una adreça de correu vàlida.",
     "ends_with": "Aquest ha d'acabar amb una de les següents: :values.",
-    "enum": "The selected value is invalid.",
+    "enum": "The selected value is not in the list of allowed values.",
     "exists": "El valor escollit és vàlid.",
     "extensions": "Aquest camp ha de tenir una de les extensions següents: :values.",
     "file": "El contingut ha de ser un fitxer.",

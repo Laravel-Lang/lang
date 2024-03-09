@@ -34,7 +34,7 @@
     "doesnt_start_with": "Medan ini mungkin tidak bermula dengan salah satu daripada yang berikut: :values.",
     "email": "Alamat emel mestilah sah.",
     "ends_with": "Nilai mesti berakhir dengan salah satu dari nilai berikut: :values.",
-    "enum": "The selected value is invalid.",
+    "enum": "The selected value is not in the list of allowed values.",
     "exists": "Pilihan tidak sah.",
     "extensions": "Medan ini mesti mempunyai salah satu daripada sambungan berikut: :values.",
     "file": "Ruangan ini mesti fail yang sah.",

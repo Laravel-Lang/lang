@@ -34,7 +34,7 @@
     "doesnt_start_with": "Այս դաշտը կարող է չսկսվել հետևյալից որևէ մեկով՝ :values:",
     "email": "Այս դաշտի արժեքը պետք է լինի վավեր Էլ․ հասցե։",
     "ends_with": "Այս դաշտը պետք է ավարտվի հետևյալ արժեքներից մեկով․ :values։",
-    "enum": "The selected value is invalid.",
+    "enum": "The selected value is not in the list of allowed values.",
     "exists": "Ընտրված արժեքն անվավեր է։",
     "extensions": "Այս դաշտը պետք է ունենա հետևյալ ընդլայնումներից մեկը՝ :values.",
     "file": "Մուտքագրաված տվյալը պետք է լինի ֆայլ։",

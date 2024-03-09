@@ -35,7 +35,7 @@
     "doesnt_start_with": "The :attribute may not start with one of the following: :values.",
     "email": "Polje :attribute mora biti ispravna E-mail adresa.",
     "ends_with": "Polje :attribute mora da se završi sa: :values.",
-    "enum": "The selected :attribute is invalid.",
+    "enum": "The :attribute field value is not in the list of allowed values.",
     "exists": "Odabrana vrijednost za :attribute nije ispravna.",
     "extensions": "The :attribute field must have one of the following extensions: :values.",
     "failed": "Podaci ne odgovaraju ni jednom nalogu.",

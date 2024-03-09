@@ -35,7 +35,7 @@
     "doesnt_start_with": "The :attribute may not start with one of the following: :values.",
     "email": ":Attribute haqiqiy elektron pochta manzili bo‘lishi kerak.",
     "ends_with": ":Attribute quyidagi qiymatlarning biri bilan tugashi kerak: :values.",
-    "enum": "The selected :attribute is invalid.",
+    "enum": "The :attribute field value is not in the list of allowed values.",
     "exists": ":Attribute uchun tanlangan qiymat noto‘g‘ri.",
     "extensions": "The :attribute field must have one of the following extensions: :values.",
     "failed": "Bunday maʼlumotlarga ega foydalanuvchi mavjud emas.",

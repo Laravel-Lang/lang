@@ -34,7 +34,7 @@
     "doesnt_start_with": "Toto pole nesmie začínať jedným z nasledujúcich: :values.",
     "email": "Musí to byť platná e-mailová adresa.",
     "ends_with": "Toto musí skončiť jedným z nasledujúcich krokov: :values.",
-    "enum": "The selected value is invalid.",
+    "enum": "The selected value is not in the list of allowed values.",
     "exists": "Zvolená hodnota je neplatná.",
     "extensions": "Toto pole musí mať jedno z nasledujúcich rozšírení: :values.",
     "file": "Obsah musí byť súbor.",

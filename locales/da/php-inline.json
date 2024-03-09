@@ -34,7 +34,7 @@
     "doesnt_start_with": "Dette felt starter muligvis ikke med et af følgende: :values.",
     "email": "Dette skal være en gyldig e-mail-adresse.",
     "ends_with": "Dette skal ende med et af følgende: :values.",
-    "enum": "The selected value is invalid.",
+    "enum": "The selected value is not in the list of allowed values.",
     "exists": "Den valgte værdi er ugyldig.",
     "extensions": "Dette felt skal have en af ​​følgende udvidelser: :values.",
     "file": "Indholdet skal være en fil.",

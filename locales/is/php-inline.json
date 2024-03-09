@@ -34,7 +34,7 @@
     "doesnt_start_with": "Þessi reitur má ekki byrja á einu af eftirfarandi: :values.",
     "email": "Þetta hlýtur að vera gild netfangið.",
     "ends_with": "Þetta verður að enda með eftirfarandi: :values.",
-    "enum": "The selected value is invalid.",
+    "enum": "The selected value is not in the list of allowed values.",
     "exists": "Valið gildi er ógilt.",
     "extensions": "Þessi reitur verður að hafa eina af eftirfarandi viðbótum: :values.",
     "file": "Efni verður að vera á skrá.",

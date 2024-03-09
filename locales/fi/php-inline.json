@@ -34,7 +34,7 @@
     "doesnt_start_with": "Tämä kenttä ei saa alkaa jollakin seuraavista: :values.",
     "email": "Tämän on oltava voimassa oleva sähköpostiosoite.",
     "ends_with": "Tämän on päätyttävä johonkin seuraavista: :values.",
-    "enum": "The selected value is invalid.",
+    "enum": "The selected value is not in the list of allowed values.",
     "exists": "Valittu arvo on virheellinen.",
     "extensions": "Tässä kentässä on oltava jokin seuraavista tunnisteista: :values.",
     "file": "Sisällön on oltava tiedosto.",

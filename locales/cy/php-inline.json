@@ -34,7 +34,7 @@
     "doesnt_start_with": "Efallai na fydd y maes hwn yn dechrau gydag un o'r canlynol: :values.",
     "email": "Rhaid i hyn fod yn gyfeiriad e-bost dilys.",
     "ends_with": "Mae'n rhaid i hyn i ben gydag un o'r canlynol: :values.",
-    "enum": "The selected value is invalid.",
+    "enum": "The selected value is not in the list of allowed values.",
     "exists": "Mae'r gwerth a ddewiswyd yn annilys.",
     "extensions": "Rhaid i'r maes hwn gynnwys un o'r estyniadau canlynol: :values.",
     "file": "Mae'n rhaid i'r cynnwys fod yn ffeil.",

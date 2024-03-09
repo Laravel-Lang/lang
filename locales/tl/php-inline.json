@@ -34,7 +34,7 @@
     "doesnt_start_with": "Maaaring hindi magsimula ang field na ito sa isa sa mga sumusunod: :values.",
     "email": "Ito ay dapat na isang wastong email address.",
     "ends_with": "Ito ay dapat magtapos sa isa sa mga sumusunod: :values.",
-    "enum": "The selected value is invalid.",
+    "enum": "The selected value is not in the list of allowed values.",
     "exists": "Ang napiling halaga ay hindi wasto.",
     "extensions": "Ang field na ito ay dapat magkaroon ng isa sa mga sumusunod na extension: :values.",
     "file": "Ang nilalaman ay dapat na isang talaksan.",

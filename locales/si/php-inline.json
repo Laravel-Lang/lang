@@ -34,7 +34,7 @@
     "doesnt_start_with": "මෙම ක්ෂේත්‍රය පහත සඳහන් එකකින් ආරම්භ නොවිය හැක: :values.",
     "email": "මෙම විය යුතුය, වලංගු විද්යුත්-තැපැල් ලිපිනය.",
     "ends_with": "මේ අවසන් විය යුතුය සමග එක් පහත සඳහන්: :values.",
-    "enum": "The selected value is invalid.",
+    "enum": "The selected value is not in the list of allowed values.",
     "exists": "තෝරාගත් අගය සාවද්ය වේ.",
     "extensions": "මෙම ක්ෂේත්‍රයට පහත දිගු වලින් එකක් තිබිය යුතුය: :values.",
     "file": "අන්තර්ගත විය යුතුය ගොනුව.",

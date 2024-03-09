@@ -34,7 +34,7 @@
     "doesnt_start_with": "Гэта поле не можа пачынацца з аднаго з наступнага: :values.",
     "email": "Гэта павінен быць сапраўдны адрас электроннай пошты.",
     "ends_with": "Гэта павінна заканчвацца адным з наступных пунктаў: :values.",
-    "enum": "The selected value is invalid.",
+    "enum": "The selected value is not in the list of allowed values.",
     "exists": "Наадварот значэнне з'яўляецца недапушчальным.",
     "extensions": "Гэта поле павінна мець адно з наступных пашырэнняў: :values.",
     "file": "Змесціва павінна быць файлам.",

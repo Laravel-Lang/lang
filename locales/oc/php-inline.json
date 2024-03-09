@@ -34,7 +34,7 @@
     "doesnt_start_with": "This field must not start with one of the following: :values.",
     "email": "Aqueste camp deu èsser una adreça de corrièl valida.",
     "ends_with": "Aqueste camp deu acabar per una de las valors seguentas : :values",
-    "enum": "The selected value is invalid.",
+    "enum": "The selected value is not in the list of allowed values.",
     "exists": "Aqueste camp seleccionat es invalid.",
     "extensions": "This field must have one of the following extensions: :values.",
     "file": "Aqueste camp deu èsser un fichièr.",

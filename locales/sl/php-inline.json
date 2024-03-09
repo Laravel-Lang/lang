@@ -34,7 +34,7 @@
     "doesnt_start_with": "To polje se ne sme začeti z enim od naslednjih: :values.",
     "email": "Elektronski naslov mora biti veljaven.",
     "ends_with": "Vnos se mora končati z eno od naslednjih vrednosti: :values.",
-    "enum": "The selected value is invalid.",
+    "enum": "The selected value is not in the list of allowed values.",
     "exists": "Izbrana vrednost ni veljavna.",
     "extensions": "To polje mora imeti eno od naslednjih razširitev: :values.",
     "file": "Vsebina mora biti datoteka.",

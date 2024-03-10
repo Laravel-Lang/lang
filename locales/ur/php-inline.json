@@ -34,7 +34,7 @@
     "doesnt_start_with": "یہ فیلڈ درج ذیل میں سے کسی ایک سے شروع نہیں ہو سکتا: :values۔",
     "email": "اس کو ایک درست ای میل ایڈریس.",
     "ends_with": "اس کو ختم کرنا ضروری ہے کے ساتھ مندرجہ ذیل میں سے ایک: :values.",
-    "enum": "The selected value is invalid.",
+    "enum": "The selected value is not in the list of allowed values.",
     "exists": "منتخب قدر باطل ہے.",
     "extensions": "اس فیلڈ میں درج ذیل میں سے ایک ایکسٹینشن ہونا ضروری ہے: :values۔",
     "file": "مواد ہونا ضروری ہے ایک فائل.",

@@ -34,7 +34,7 @@
     "doesnt_start_with": "यह फ़ील्ड निम्न में से किसी एक के साथ प्रारंभ नहीं हो सकता है: :values।",
     "email": "यह एक मान्य ईमेल पता होना चाहिए ।",
     "ends_with": "यह निम्नलिखित में से एक के साथ समाप्त होना चाहिए: :values ।",
-    "enum": "The selected value is invalid.",
+    "enum": "The selected value is not in the list of allowed values.",
     "exists": "चयनित मान अमान्य है ।",
     "extensions": "इस फ़ील्ड में निम्नलिखित एक्सटेंशन में से एक होना चाहिए: :values.",
     "file": "सामग्री एक फ़ाइल होनी चाहिए ।",

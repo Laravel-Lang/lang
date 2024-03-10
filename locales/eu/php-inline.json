@@ -34,7 +34,7 @@
     "doesnt_start_with": "Baliteke eremu hau ezin izatea honako hauetako batekin hasi: :values.",
     "email": "Hau izan behar da baliozko helbide elektroniko bat.",
     "ends_with": "Hau behar amaiera hauetako bat: :values.",
-    "enum": "The selected value is invalid.",
+    "enum": "The selected value is not in the list of allowed values.",
     "exists": "Hautatutako balio baliogabea da.",
     "extensions": "Eremu honek luzapen hauetako bat izan behar du: :values.",
     "file": "Eduki bat izan behar du fitxategia.",

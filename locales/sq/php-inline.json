@@ -34,7 +34,7 @@
     "doesnt_start_with": "Kjo fushë mund të mos fillojë me një nga sa vijon: :values.",
     "email": "Kjo duhet të jetë email adresë e saktë.",
     "ends_with": "Kjo duhet të përfundojë me një nga vlerat: :values.",
-    "enum": "The selected value is invalid.",
+    "enum": "The selected value is not in the list of allowed values.",
     "exists": "Vlera e përzgjedhur është e pasaktë.",
     "extensions": "Kjo fushë duhet të ketë një nga shtesat e mëposhtme: :values.",
     "file": "Kjo duhet të jetë një fajll.",

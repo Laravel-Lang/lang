@@ -34,7 +34,7 @@
     "doesnt_start_with": "This field must not start with one of the following: :values.",
     "email": "То мора бити валидна адреса е-поште.",
     "ends_with": "Требало би да се заврши са једним од следећих: :values.",
-    "enum": "The selected value is invalid.",
+    "enum": "The selected value is not in the list of allowed values.",
     "exists": "Изабрана вредност је неприхватљива.",
     "extensions": "This field must have one of the following extensions: :values.",
     "file": "Садржај мора бити датотека.",

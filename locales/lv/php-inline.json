@@ -34,7 +34,7 @@
     "doesnt_start_with": "Šis lauks nedrīkst sākties ar vienu no šiem: :values.",
     "email": "Tam jābūt derīgai e-pasta adresei.",
     "ends_with": "Tam jābeidzas ar vienu no šiem: :values.",
-    "enum": "The selected value is invalid.",
+    "enum": "The selected value is not in the list of allowed values.",
     "exists": "Atlasītā vērtība nav derīga.",
     "extensions": "Šim laukam ir jābūt vienam no šiem paplašinājumiem: :values.",
     "file": "Saturam jābūt failam.",

@@ -34,7 +34,7 @@
     "doesnt_start_with": "Ин майдон метавонад бо яке аз инҳо оғоз нашавад: :values.",
     "email": "Ин бояд воқеии суроғаи почтаи электронӣ.",
     "ends_with": "Ин бояд заканчиваться яке аз нуқтаҳои зерин: :values.",
-    "enum": "The selected value is invalid.",
+    "enum": "The selected value is not in the list of allowed values.",
     "exists": "Интихоб арзиши як недопустимым.",
     "extensions": "Ин майдон бояд яке аз васеъшавии зеринро дошта бошад: :values.",
     "file": "Маълумоте, ки бояд бошад, ки файли матнӣ намебошад.",

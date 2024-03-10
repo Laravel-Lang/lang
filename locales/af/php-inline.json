@@ -34,7 +34,7 @@
     "doesnt_start_with": "Hierdie veld mag nie met een van die volgende begin nie: :values.",
     "email": "Dit moet 'n geldige e-posadres wees.",
     "ends_with": "Dit moet eindig met een van die volgende: :values.",
-    "enum": "The selected value is invalid.",
+    "enum": "The selected value is not in the list of allowed values.",
     "exists": "Die geselekteerde waarde is ongeldig.",
     "extensions": "Hierdie veld moet een van die volgende uitbreidings hê: :values.",
     "file": "Die inhoud moet 'n lêer wees.",

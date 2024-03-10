@@ -34,7 +34,7 @@
     "doesnt_start_with": "ಈ ಕ್ಷೇತ್ರವು ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಒಂದರಿಂದ ಪ್ರಾರಂಭವಾಗಬಾರದು: :values.",
     "email": "ಈ must be a valid email address.",
     "ends_with": "ಈ must end with one of the following: :values.",
-    "enum": "The selected value is invalid.",
+    "enum": "The selected value is not in the list of allowed values.",
     "exists": "ಆಯ್ಕೆ value is invalid.",
     "extensions": "ಈ ಕ್ಷೇತ್ರವು ಈ ಕೆಳಗಿನ ವಿಸ್ತರಣೆಗಳಲ್ಲಿ ಒಂದನ್ನು ಹೊಂದಿರಬೇಕು: :values.",
     "file": "ವಿಷಯ ಇರಬೇಕು ಫೈಲ್.",

@@ -34,7 +34,7 @@
     "doesnt_start_with": "វាលនេះប្រហែលជាមិនចាប់ផ្តើមជាមួយមួយក្នុងចំណោមខាងក្រោម: :values ។",
     "email": "វាលនេះទម្រង់នេះមិនត្រឹមត្រូវ។",
     "ends_with": "វាលនេះត្រូវបញ្ចប់ដោយពាក្យមួយក្នុងចំណោម :values។",
-    "enum": "The selected value is invalid.",
+    "enum": "The selected value is not in the list of allowed values.",
     "exists": "ការជ្រើសរើស វាលនេះត្រឹមត្រូវ។",
     "extensions": "វាលនេះត្រូវតែមានផ្នែកបន្ថែមមួយក្នុងចំណោមផ្នែកបន្ថែមខាងក្រោម៖ :values.",
     "file": "វាលនេះត្រូវតែជាប្រភេទឯកសារ។",

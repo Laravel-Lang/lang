@@ -34,7 +34,7 @@
     "doesnt_start_with": "Det här fältet får inte börja med något av följande: :values.",
     "email": "Detta måste vara en giltig e-postadress.",
     "ends_with": "Detta måste sluta med något av följande: :values.",
-    "enum": "The selected value is invalid.",
+    "enum": "The selected value is not in the list of allowed values.",
     "exists": "Det valda värdet är ogiltigt.",
     "extensions": "Detta fält måste ha en av följande tillägg: :values.",
     "file": "Innehållet måste vara en fil.",

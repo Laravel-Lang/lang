@@ -35,7 +35,7 @@
     "doesnt_start_with": "The :attribute may not start with one of the following: :values.",
     "email": ":Attribute no est bàlidu.",
     "ends_with": "The :attribute must end with one of the following: :values.",
-    "enum": "The selected :attribute is invalid.",
+    "enum": "The :attribute field value is not in the list of allowed values.",
     "exists": ":Attribute seberadu/a no est bàlidu.",
     "extensions": "The :attribute field must have one of the following extensions: :values.",
     "failed": "These credentials do not match our records.",

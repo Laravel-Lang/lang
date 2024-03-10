@@ -34,7 +34,7 @@
     "doesnt_start_with": "See väli ei tohi alata ühega järgmistest: :values.",
     "email": "See peab olema kehtiv e-posti aadress.",
     "ends_with": "See peab lõppema ühega järgmistest: :values.",
-    "enum": "The selected value is invalid.",
+    "enum": "The selected value is not in the list of allowed values.",
     "exists": "Valitud väärtus on vigane.",
     "extensions": "Sellel väljal peab olema üks järgmistest laienditest: :values.",
     "file": "Sisu peab olema fail.",

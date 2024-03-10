@@ -4,7 +4,7 @@ editLink: false
 
 # oc
 
-##### All missed: 888
+##### All missed: 887
 
 
 ### json-inline
@@ -7811,7 +7811,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 28
+##### Missing: 27
 
 <table width="100%">
 <tr><th width="50%">
@@ -7875,15 +7875,6 @@ declined_if
 </td><td width="50%">
 
 The :attribute must be declined when :other is :value.
-
-</td></tr>
-<tr><td width="50%">
-
-enum
-
-</td><td width="50%">
-
-The selected :attribute is invalid.
 
 </td></tr>
 <tr><td width="50%">

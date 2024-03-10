@@ -4,7 +4,7 @@ editLink: false
 
 # sc
 
-##### All missed: 934
+##### All missed: 933
 
 
 ### json-inline
@@ -7946,7 +7946,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 59
+##### Missing: 58
 
 <table width="100%">
 <tr><th width="50%">
@@ -8064,15 +8064,6 @@ ends_with
 </td><td width="50%">
 
 The :attribute must end with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-enum
-
-</td><td width="50%">
-
-The selected :attribute is invalid.
 
 </td></tr>
 <tr><td width="50%">

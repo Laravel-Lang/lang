@@ -4,7 +4,7 @@ editLink: false
 
 # sr_Latn
 
-##### All missed: 321
+##### All missed: 323
 
 
 ### json-inline
@@ -2479,7 +2479,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 30
+##### Missing: 31
 
 <table width="100%">
 <tr><th width="50%">
@@ -2561,6 +2561,15 @@ hex_color
 </td><td width="50%">
 
 This field must be a valid hexadecimal color.
+
+</td></tr>
+<tr><td width="50%">
+
+list
+
+</td><td width="50%">
+
+This field must be a list.
 
 </td></tr>
 <tr><td width="50%">
@@ -2769,7 +2778,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 21
+##### Missing: 22
 
 <table width="100%">
 <tr><th width="50%">
@@ -2842,6 +2851,15 @@ hex_color
 </td><td width="50%">
 
 The :attribute field must be a valid hexadecimal color.
+
+</td></tr>
+<tr><td width="50%">
+
+list
+
+</td><td width="50%">
+
+The :attribute field must be a list.
 
 </td></tr>
 <tr><td width="50%">

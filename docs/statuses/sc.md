@@ -4,7 +4,7 @@ editLink: false
 
 # sc
 
-##### All missed: 933
+##### All missed: 935
 
 
 ### json-inline
@@ -7476,7 +7476,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 50
+##### Missing: 51
 
 <table width="100%">
 <tr><th width="50%">
@@ -7630,6 +7630,15 @@ hex_color
 </td><td width="50%">
 
 This field must be a valid hexadecimal color.
+
+</td></tr>
+<tr><td width="50%">
+
+list
+
+</td><td width="50%">
+
+This field must be a list.
 
 </td></tr>
 <tr><td width="50%">
@@ -7946,7 +7955,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 58
+##### Missing: 59
 
 <table width="100%">
 <tr><th width="50%">
@@ -8172,6 +8181,15 @@ json
 </td><td width="50%">
 
 The :attribute must be a valid JSON string.
+
+</td></tr>
+<tr><td width="50%">
+
+list
+
+</td><td width="50%">
+
+The :attribute field must be a list.
 
 </td></tr>
 <tr><td width="50%">

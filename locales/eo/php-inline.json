@@ -56,6 +56,7 @@
     "ipv4": "Ĉi tiu kampo devas esti valida IPv4-adreso.",
     "ipv6": "Ĉi tiu kampo devas esti valida IPv6-adreso.",
     "json": "Ĉi tiu kampo devas esti valida JSON-ĉeno.",
+    "list": "This field must be a list.",
     "lowercase": "Ĉi tiu kampo devas esti minuskla.",
     "lt.array": "Ĉi tiu kampo devas havi malpli ol :value erojn.",
     "lt.file": "Ĉi tiu kampo devas esti malpli ol :value kilobajtoj.",

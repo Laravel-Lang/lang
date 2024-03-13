@@ -58,6 +58,7 @@
     "ipv4": "Câmpul :attribute trebuie să fie o adresă IPv4 validă.",
     "ipv6": "Câmpul :attribute trebuie să fie o adresă IPv6 validă.",
     "json": "Câmpul :attribute trebuie să fie un string JSON valid.",
+    "list": "The :attribute field must be a list.",
     "lowercase": ":Attribute trebuie să fie format doar din litere mici.",
     "lt.array": "Câmpul :attribute trebuie să aibă mai puțin de :value elemente.",
     "lt.file": "Câmpul :attribute trebuie să fie mai mic de :value kilobyți.",

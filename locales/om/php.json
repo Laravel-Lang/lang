@@ -58,6 +58,7 @@
     "ipv4": ":attributen teessoo IPv4 sirrii ta'uu qaba.",
     "ipv6": ":attributen teessoo IPv6 sirrii ta'uu qaba.",
     "json": ":attributen dhangii JSON sirrii ta'uu qaba.",
+    "list": "The :attribute field must be a list.",
     "lowercase": "Dirreen :attribute qubee xiqqaa ta'uu qaba.",
     "lt.array": ":attributen meeshaalee :value gadi qabaachuu qabu.",
     "lt.file": ":attributen kiiloo baayitii :value gadi ta'uu qaba.",

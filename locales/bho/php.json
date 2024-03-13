@@ -58,6 +58,7 @@
     "ipv4": ":attribute के वैध आईपीवी 4 पता होखे के चाहीं।",
     "ipv6": ":attribute के वैध आईपीवी 6 पता होखे के चाहीं।",
     "json": ":attribute के एगो वैध JSON स्ट्रिंग होखे के चाहीं।",
+    "list": "The :attribute field must be a list.",
     "lowercase": ":attribute के फील्ड छोट अक्षर के होखे के चाहीं।",
     "lt.array": ":attribute में :value से कम आइटम होखे के चाही।",
     "lt.file": ":attribute के :value किलोबाइट से कम होखे के चाहीं।",

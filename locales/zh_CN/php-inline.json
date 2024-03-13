@@ -56,6 +56,7 @@
     "ipv4": "必须是有效的 IPv4 地址。",
     "ipv6": "必须是有效的 IPv6 地址。",
     "json": "必须是正确的 JSON 格式。",
+    "list": "This field must be a list.",
     "lowercase": "必须小写。",
     "lt.array": "必须少于 :value 个元素。",
     "lt.file": "必须小于 :value KB。",

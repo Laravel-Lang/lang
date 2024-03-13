@@ -56,6 +56,7 @@
     "ipv4": "Dole ne wannan filin ya zama ingantaccen adireshin IPv4.",
     "ipv6": "Dole ne wannan filin ya zama ingantaccen adireshin IPv6.",
     "json": "Dole ne wannan filin ya zama ingantacciyar igiyar JSON.",
+    "list": "This field must be a list.",
     "lowercase": "Dole ne wannan filin ya zama ƙananan haruffa.",
     "lt.array": "Dole ne wannan filin ya kasance yana da ƙasa da abubuwa :value.",
     "lt.file": "Dole ne wannan filin ya zama ƙasa da kilobytes :value.",

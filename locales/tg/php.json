@@ -58,6 +58,7 @@
     "ipv4": ":Attribute бояд дархост эътибор дорад IPv4-суроғаи.",
     "ipv6": ":Attribute бояд дархост эътибор дорад IPv6-суроғаи.",
     "json": "Қиммати :attribute бояд сатри дурусти JSON бошад.",
+    "list": "The :attribute field must be a list.",
     "lowercase": ":Attribute бояд хурд бошад.",
     "lt.array": ":Attribute бояд камтар аз :value адад дошта бошад.",
     "lt.file": ":Attribute бояд камтар аз :value килобайт бошад.",

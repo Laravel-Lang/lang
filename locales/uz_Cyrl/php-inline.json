@@ -56,6 +56,7 @@
     "ipv4": "Bu amal IPv4 manzil bo'lishi kerak.",
     "ipv6": "Bu amal IPv6 manzil bo'lishi kerak.",
     "json": "Bu amal JSON string bo'lishi kerak.",
+    "list": "This field must be a list.",
     "lowercase": "Bu maydon kichik harf bilan yozilishi kerak.",
     "lt.array": "The content must have less than :value items.",
     "lt.file": "The file size must be less than :value kilobytes.",

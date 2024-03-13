@@ -58,6 +58,7 @@
     "ipv4": ":Attribute ត្រូវតែជា IPv4 address ត្រឹមត្រូវ។",
     "ipv6": ":Attribute ត្រូវតែជា IPv6 address ត្រឹមត្រូវ។",
     "json": ":Attribute ត្រូវតែជា JSON string ត្រឹមត្រូវ។",
+    "list": "The :attribute field must be a list.",
     "lowercase": "លេខ :attribute ត្រូវតែជាអក្សរតូច។",
     "lt.array": ":Attribute ត្រូវតែមានចំនួនតិចជាង :value។",
     "lt.file": ":Attribute ត្រូវតែតិចជាង :value គីឡូបៃ។",

@@ -56,6 +56,7 @@
     "ipv4": "Pole musi być prawidłowym adresem IPv4.",
     "ipv6": "Pole musi być prawidłowym adresem IPv6.",
     "json": "Pole musi być poprawnym ciągiem znaków JSON.",
+    "list": "This field must be a list.",
     "lowercase": "To pole musi być pisane małymi literami.",
     "lt.array": "Pole musi mieć mniej niż :value elementów.",
     "lt.file": "Pole musi być mniejsze niż :value kilobajtów.",

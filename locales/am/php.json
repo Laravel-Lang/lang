@@ -58,6 +58,7 @@
     "ipv4": ":attribute ትክክለኛ IPv4 አድራሻ መሆን አለበት።",
     "ipv6": ":attribute ትክክለኛ IPv6 አድራሻ መሆን አለበት።",
     "json": ":attribute ትክክለኛ JSON ሕብረቁምፊ መሆን አለበት።",
+    "list": "The :attribute field must be a list.",
     "lowercase": ":attribute ሜዳው ትንሽ ፊደል መሆን አለበት።",
     "lt.array": ":attribute ቱ ከ :value ያነሱ እቃዎች ሊኖራቸው ይገባል.",
     "lt.file": ":attribute ከ :value ኪሎባይት ያነሰ መሆን አለበት.",

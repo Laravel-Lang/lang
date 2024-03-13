@@ -58,6 +58,7 @@
     "ipv4": "A(z) :attribute érvényes IPv4 cím kell, hogy legyen!",
     "ipv6": "A(z) :attribute érvényes IPv6 cím kell, hogy legyen!",
     "json": "A(z) :attribute érvényes JSON szöveg kell, hogy legyen!",
+    "list": "The :attribute field must be a list.",
     "lowercase": "A :attribute-nak kisbetűnek kell lennie.",
     "lt.array": "A(z) :attribute kevesebb, mint :value elemet kell, hogy tartalmazzon.",
     "lt.file": "A(z) :attribute mérete kisebb kell, hogy legyen, mint :value kilobájt.",

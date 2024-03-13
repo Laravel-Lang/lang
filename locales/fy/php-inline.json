@@ -56,6 +56,7 @@
     "ipv4": "Dit fjild moat in jildich IPv4-adres wêze.",
     "ipv6": "Dit fjild moat in jildich IPv6-adres wêze.",
     "json": "Dit fjild moat in jildige JSON-string wêze.",
+    "list": "This field must be a list.",
     "lowercase": "Dit fjild moat lytse letters wêze.",
     "lt.array": "Dit fjild moat minder dan :value items hawwe.",
     "lt.file": "Dit fjild moat minder dan :value kilobytes wêze.",

@@ -56,6 +56,7 @@
     "ipv4": "Isian ini harus berisi alamat IPv4 yang valid.",
     "ipv6": "Isian ini harus berisi alamat IPv6 yang valid.",
     "json": "Isian ini harus berisi string JSON yang valid.",
+    "list": "This field must be a list.",
     "lowercase": "Isian ini harus berisi huruf kecil.",
     "lt.array": "Panjang array harus kurang dari :value item.",
     "lt.file": "Ukuran konten harus berisi kurang dari :value kilobyte.",

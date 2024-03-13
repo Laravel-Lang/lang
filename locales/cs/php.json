@@ -58,6 +58,7 @@
     "ipv4": ":Attribute musí být platná IPv4 adresa.",
     "ipv6": ":Attribute musí být platná IPv6 adresa.",
     "json": ":Attribute musí být platný JSON řetězec.",
+    "list": "The :attribute field must be a list.",
     "lowercase": ":Attribute musí být malá písmena.",
     "lt.array": ":Attribute by měl obsahovat méně než :value položek.",
     "lt.file": "Velikost souboru :attribute musí být menší než :value kB.",

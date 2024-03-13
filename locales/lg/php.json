@@ -58,6 +58,7 @@
     "ipv4": ":attribute zirina okuba endagiriro ya IPv4 entuufu.",
     "ipv6": ":attribute zirina okuba endagiriro ya IPv6 entuufu.",
     "json": ":attribute zirina okuba olunyiriri lwa JSON olutuufu.",
+    "list": "The :attribute field must be a list.",
     "lowercase": "Ennimiro :attribute erina okuba nga ntono.",
     "lt.array": "Ezo :attribute zirina okuba n’ebintu ebitakka wansi wa :value.",
     "lt.file": "Ezo :attribute zirina okuba nga teziwera kilobytes :value.",

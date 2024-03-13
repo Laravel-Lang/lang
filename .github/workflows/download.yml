@@ -13,7 +13,7 @@ jobs:
         strategy:
             fail-fast: true
             matrix:
-                version: [ "10.x", "master" ]
+                version: [ "10.x", "11.x", "master" ]
         with:
             project: Laravel Framework ${{ matrix.version }}
             paths: source/framework/${{ matrix.version }}/*
@@ -47,7 +47,7 @@ jobs:
         strategy:
             fail-fast: true
             matrix:
-                version: [ "1.x", "master" ]
+                version: [ "1.x", "2.x", "master" ]
         with:
             project: Laravel Breeze ${{ matrix.version }}
             paths: source/breeze/${{ matrix.version }}/*
@@ -62,7 +62,7 @@ jobs:
         strategy:
             fail-fast: true
             matrix:
-                version: [ "13.x", "14.x", "master" ]
+                version: [ "13.x", "14.x", "15.x", "master" ]
         with:
             project: Laravel Cashier Stripe ${{ matrix.version }}
             paths: source/cashier/stripe/${{ matrix.version }}/*
@@ -92,7 +92,7 @@ jobs:
         strategy:
             fail-fast: true
             matrix:
-                version: [ "2.x", "3.x", "4.x", "master" ]
+                version: [ "2.x", "3.x", "4.x", "5.x", "master" ]
         with:
             project: Laravel Jetstream ${{ matrix.version }}
             paths: source/jetstream/${{ matrix.version }}/*

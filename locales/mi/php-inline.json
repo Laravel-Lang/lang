@@ -56,6 +56,7 @@
     "ipv4": "Me whai wāhitau IPv4 tēnei āpure.",
     "ipv6": "Me whai wāhitau IPv6 tēnei āpure.",
     "json": "Ko tenei mara he aho JSON whaimana.",
+    "list": "This field must be a list.",
     "lowercase": "Me puriki iti tenei mara.",
     "lt.array": "Me iti iho i te :value nga taonga o tenei mara.",
     "lt.file": "Me iti ake i te :value kiropaita tenei mara.",

@@ -56,6 +56,7 @@
     "ipv4": "Widang ieu kedah janten alamat IPv4 anu valid.",
     "ipv6": "Widang ieu kedah janten alamat IPv6 anu valid.",
     "json": "Widang ieu kedah janten string JSON anu valid.",
+    "list": "This field must be a list.",
     "lowercase": "Widang ieu kedah hurup leutik.",
     "lt.array": "Widang ieu kedah gaduh kirang ti :value item.",
     "lt.file": "Widang ieu kedah kirang ti :value kilobyte.",

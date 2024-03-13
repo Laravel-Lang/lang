@@ -58,6 +58,7 @@
     "ipv4": ":attribute ຕ້ອງເປັນທີ່ຢູ່ IPv4 ທີ່ຖືກຕ້ອງ.",
     "ipv6": ":attribute ຕ້ອງເປັນທີ່ຢູ່ IPv6 ທີ່ຖືກຕ້ອງ.",
     "json": ":attribute ຕ້ອງເປັນສະຕຣິງ JSON ທີ່ຖືກຕ້ອງ.",
+    "list": "The :attribute field must be a list.",
     "lowercase": "ຊ່ອງຂໍ້ມູນ :attribute ຕ້ອງເປັນຕົວພິມນ້ອຍ.",
     "lt.array": ":attribute ຕ້ອງມີຫນ້ອຍກວ່າ :value ລາຍການ.",
     "lt.file": ":attribute ຕ້ອງມີຫນ້ອຍກວ່າ :value ກິໂລໄບ.",

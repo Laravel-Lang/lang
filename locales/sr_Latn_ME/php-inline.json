@@ -56,6 +56,7 @@
     "ipv4": "То мора бити валидна ИПв4 адреса.",
     "ipv6": "То мора бити валидна ИПв6 адреса.",
     "json": "То би требао бити дозвољени ЈСОН низ.",
+    "list": "This field must be a list.",
     "lowercase": "This field must be lowercase.",
     "lt.array": "The content must have less than :value items.",
     "lt.file": "The file size must be less than :value kilobytes.",

@@ -56,6 +56,7 @@
     "ipv4": "必須是一個有效的 IPv4 地址。",
     "ipv6": "必須是一個有效的 IPv6 地址。",
     "json": "必須是正確的 JSON 格式。",
+    "list": "This field must be a list.",
     "lowercase": "该字段必须小写。",
     "lt.array": "必須少於 :value 個項目。",
     "lt.file": "必須小於 :value KB。",

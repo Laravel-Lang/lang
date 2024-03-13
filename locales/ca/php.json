@@ -58,6 +58,7 @@
     "ipv4": ":Attribute ha de ser una adreça IPv4 vàlida.",
     "ipv6": ":Attribute ha de ser una adreça IPv6 vàlida.",
     "json": "El camp :attribute ha de ser una cadena JSON vàlida.",
+    "list": "The :attribute field must be a list.",
     "lowercase": "El :attribute ha d'anar en minúscula.",
     "lt.array": "El :attribute ha de tenir menys de :value ítems.",
     "lt.file": "El :attribute ha de ser inferior a :value kilobytes.",

@@ -58,6 +58,7 @@
     "ipv4": ":attribute ਇੱਕ ਵੈਧ IPv4 ਪਤਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।",
     "ipv6": ":attribute ਇੱਕ ਵੈਧ IPv6 ਪਤਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।",
     "json": ":attribute ਇੱਕ ਵੈਧ JSON ਸਤਰ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ।",
+    "list": "The :attribute field must be a list.",
     "lowercase": ":attribute ਖੇਤਰ ਲੋਅਰਕੇਸ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।",
     "lt.array": ":attribute ਵਿੱਚ :value ਤੋਂ ਘੱਟ ਆਈਟਮਾਂ ਹੋਣੀਆਂ ਚਾਹੀਦੀਆਂ ਹਨ।",
     "lt.file": ":attribute :value ਕਿਲੋਬਾਈਟ ਤੋਂ ਘੱਟ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।",

@@ -58,6 +58,7 @@
     "ipv4": "Divê :attribute navnîşek IPv4 derbasdar be.",
     "ipv6": "Divê :attribute navnîşek IPv6 derbasdar be.",
     "json": "Divê :attribute rêzek JSON derbasdar be.",
+    "list": "The :attribute field must be a list.",
     "lowercase": "Qada :attribute divê biçûk be.",
     "lt.array": "Divê :attribute ji :value hêman kêmtir bin.",
     "lt.file": "Divê :attribute ji :value kilobyte kêmtir be.",

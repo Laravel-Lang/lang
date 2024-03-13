@@ -58,6 +58,7 @@
     "ipv4": "Ko te :attribute he wahitau IPv4 whaimana.",
     "ipv6": "Ko te :attribute he wahitau IPv6 whaimana.",
     "json": "Ko te :attribute he aho JSON whaimana.",
+    "list": "The :attribute field must be a list.",
     "lowercase": "Me pūriki te āpure :attribute.",
     "lt.array": "Ko te :attribute me iti ake i te :value nga taonga.",
     "lt.file": "Ko te :attribute me iti iho i te :value kiropaita.",

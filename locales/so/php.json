@@ -58,6 +58,7 @@
     "ipv4": ":attributeku waa inuu noqdaa ciwaanka IPv4 ansax ah.",
     "ipv6": ":attributeku waa inuu noqdaa ciwaanka IPv6 ansax ah.",
     "json": ":attributeku waa inuu noqdaa xadhig JSON sax ah.",
+    "list": "The :attribute field must be a list.",
     "lowercase": ":attributeka goobood waa in ay ahaadaan far yar.",
     "lt.array": ":attributeka waa in ay lahaadaan wax ka yar :value shay.",
     "lt.file": ":attribute ka waa in uu ka yar yahay :value kilobytes.",

@@ -58,6 +58,7 @@
     "ipv4": ":attribute دەبێت ناونیشانی IPv4 ی دروست بێت.",
     "ipv6": ":attribute دەبێت ناونیشانی IPv6 ی دروست بێت.",
     "json": ":attribute دەبێت ڕیزێکی JSON ی دروست بێت.",
+    "list": "The :attribute field must be a list.",
     "lowercase": "مەیدانی ١٠ دەبێت پیتی بچووک بێت.",
     "lt.array": "ئەو ١٠ شتە دەبێت کەمتر لە ٢٠ بابەتی هەبێت.",
     "lt.file": "١٠ کیلۆبایتەکە دەبێت کەمتر بێت.",

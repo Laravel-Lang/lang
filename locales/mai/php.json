@@ -58,6 +58,7 @@
     "ipv4": ":attribute कें वैध IPv4 पता होबाक चाही.",
     "ipv6": ":attribute एकटा वैध IPv6 पता होबाक चाही.",
     "json": ":attribute एकटा वैध JSON स्ट्रिंग होबाक चाही.",
+    "list": "The :attribute field must be a list.",
     "lowercase": ":attribute फील्ड छोट-छोट हेबाक चाही।",
     "lt.array": ":attribute मे :value स कम आइटम हेबाक चाही।",
     "lt.file": ":attribute के :value किलोबाइट सं कम होबाक चाही.",

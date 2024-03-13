@@ -56,6 +56,7 @@
     "ipv4": "Pono kēia kahua he helu IPv4 kūpono.",
     "ipv6": "Pono kēia kahua he helu IPv6 kūpono.",
     "json": "Pono kēia kahua he kaula JSON kūpono.",
+    "list": "This field must be a list.",
     "lowercase": "Pono kēia kahua i nā huaʻōlelo liʻiliʻi.",
     "lt.array": "Pono e emi ma lalo o :value mau mea kēia kahua.",
     "lt.file": "Pono kēia kahua ma lalo o :value kilobytes.",

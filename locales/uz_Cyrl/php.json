@@ -58,6 +58,7 @@
     "ipv4": ":Attribute ҳақиқий IPv4 манзил бўлиши керак.",
     "ipv6": ":Attribute ҳақиқий IPv6 манзил бўлиши керак.",
     "json": ":Attribute JSON қатори бўлиши керак.",
+    "list": "The :attribute field must be a list.",
     "lowercase": ":Attribute kichik harf bo'lishi kerak.",
     "lt.array": ":Attribute даги элементлар сони :value дан кичик бўлиши керак.",
     "lt.file": ":Attribute даги файл ҳажми :value килобайтдан кичик бўлиши керак.",

@@ -58,6 +58,7 @@
     "ipv4": ":attribute गी इक मान्य आईपीवी 4 पता होना चाहिदा ऐ।",
     "ipv6": ":attribute गी इक मान्य आईपीवी 6 पता होना चाहिदा ऐ।",
     "json": ":attribute गी इक मान्य JSON स्ट्रिंग होनी चाहिदी.",
+    "list": "The :attribute field must be a list.",
     "lowercase": ":attribute फील्ड छोटे अक्षर होन चाहिदे ने।",
     "lt.array": ":attribute च :value कोला घट्ट आइटम होनी चाहिदी।",
     "lt.file": ":attribute :value किलोबाइट थमां घट्ट होना चाहिदा ऐ।",

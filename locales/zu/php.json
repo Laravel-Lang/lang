@@ -58,6 +58,7 @@
     "ipv4": "I-:attribute kufanele kube ikheli le-IPv4 elivumelekile.",
     "ipv6": "I-:attribute kufanele kube ikheli le-IPv6 elivumelekile.",
     "json": "Okungu-:attribute kufanele kube uchungechunge oluvumelekile lwe-JSON.",
+    "list": "The :attribute field must be a list.",
     "lowercase": "Inkambu engu-:attribute kufanele ibe ngofeleba abancane.",
     "lt.array": "Abayi-:attribute kumele babe nezinto ezingaphansi kwama-:value.",
     "lt.file": "I-:attribute kumele ibe ngaphansi kwamakhilobhayithi angama-:value.",

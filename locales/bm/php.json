@@ -58,6 +58,7 @@
     "ipv4": ":attribute ka kan ka kɛ IPv4 ladɛrɛsi ɲuman ye.",
     "ipv6": ":attribute ka kan ka kɛ IPv6 ladɛrɛsi ɲuman ye.",
     "json": ":attribute ka kan ka kɛ JSON sɛrɛkili ye min bɛ se ka kɛ.",
+    "list": "The :attribute field must be a list.",
     "lowercase": "Foro :attribute ka kan ka kɛ ni sɛbɛnni fitininw ye.",
     "lt.array": "Fɛn :attribute ka kan ka kɛ ni fɛn :value ye.",
     "lt.file": "O :attribute ka kan ka dɔgɔya ni kilobayiti :value ye.",

@@ -56,6 +56,7 @@
     "ipv4": "Hii ni lazima kuwa halali IPv4 anwani.",
     "ipv6": "Hii ni lazima kuwa halali anuani IPv6.",
     "json": "Hii ni lazima kuwa halali kamba JSON.",
+    "list": "This field must be a list.",
     "lowercase": "Sehemu hii lazima iwe na herufi ndogo.",
     "lt.array": "Maudhui lazima yawe na chini ya :value vya thamani.",
     "lt.file": "Saizi ya faili lazima iwe chini ya :value kilobaiti.",

@@ -58,6 +58,7 @@
     "ipv4": "Trường :attribute phải là một địa chỉ IPv4.",
     "ipv6": "Trường :attribute phải là một địa chỉ IPv6.",
     "json": "Trường :attribute phải là một chuỗi JSON.",
+    "list": "The :attribute field must be a list.",
     "lowercase": "Trường :attribute phải là chữ thường.",
     "lt.array": "Mảng :attribute phải có ít hơn :value phần tử.",
     "lt.file": "Dung lượng trường :attribute phải nhỏ hơn :value kilobytes.",

@@ -58,6 +58,7 @@
     "ipv4": "די :attribute מוזן זיין אַ גילטיק IPv4 אַדרעס.",
     "ipv6": "די :attribute מוזן זיין אַ גילטיק IPv6 אַדרעס.",
     "json": "די :attribute מוזן זיין אַ גילטיק JSON שטריקל.",
+    "list": "The :attribute field must be a list.",
     "lowercase": "די :attribute פעלד מוזן זיין קליין.",
     "lt.array": "די :attribute מוזן האָבן ווייניקער ווי :value זאכן.",
     "lt.file": "די :attribute מוזן זיין ווייניקער ווי :value קילאבייט.",

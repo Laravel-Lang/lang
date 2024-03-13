@@ -56,6 +56,7 @@
     "ipv4": "Αυτή πρέπει να είναι μια έγκυρη διεύθυνση IPv4.",
     "ipv6": "Αυτή πρέπει να είναι μια έγκυρη διεύθυνση IPv6.",
     "json": "Αυτό πρέπει να είναι μια έγκυρη συμβολοσειρά JSON.",
+    "list": "This field must be a list.",
     "lowercase": "Αυτό το πεδίο πρέπει να είναι πεζό.",
     "lt.array": "The content must have less than :value items.",
     "lt.file": "The file size must be less than :value kilobytes.",

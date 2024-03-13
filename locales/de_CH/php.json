@@ -58,6 +58,7 @@
     "ipv4": ":Attribute muss eine gültige IPv4-Adresse sein.",
     "ipv6": ":Attribute muss eine gültige IPv6-Adresse sein.",
     "json": ":Attribute muss ein gültiger JSON-String sein.",
+    "list": "The :attribute field must be a list.",
     "lowercase": "Die :attribute muss klein geschrieben werden.",
     "lt.array": ":Attribute muss kleiner :value Elemente haben.",
     "lt.file": ":Attribute muss kleiner :value Kilobytes gross sein.",

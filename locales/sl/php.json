@@ -58,6 +58,7 @@
     "ipv4": ":Attribute mora biti veljaven IPv4 naslov.",
     "ipv6": ":Attribute mora biti veljaven IPv6 naslov.",
     "json": ":Attribute mora biti veljaven JSON tekst.",
+    "list": "The :attribute field must be a list.",
     "lowercase": ":Attribute mora biti z malimi črkami.",
     "lt.array": ":Attribute mora imeti manj kot :value elementov.",
     "lt.file": ":Attribute mora biti manjši od :value kilobajtov.",

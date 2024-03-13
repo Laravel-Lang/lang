@@ -56,6 +56,7 @@
     "ipv4": "Goobtani waa inay noqotaa ciwaanka IPv4 ansax ah.",
     "ipv6": "Goobtani waa inay noqotaa ciwaanka IPv6 ansax ah.",
     "json": "Goobtani waa inay noqotaa xadhig JSON sax ah.",
+    "list": "This field must be a list.",
     "lowercase": "Goobtani waa inay noqotaa far yar.",
     "lt.array": "Goobtani waa inay lahaataa wax ka yar :value shay.",
     "lt.file": "Goobtani waa inay ka yaraataa :value kilobytes.",

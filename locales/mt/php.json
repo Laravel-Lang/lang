@@ -58,6 +58,7 @@
     "ipv4": "L-:attribute għandu jkun indirizz IPv4 validu.",
     "ipv6": "L-:attribute għandu jkun indirizz IPv6 validu.",
     "json": "L-:attribute għandu jkun string JSON valida.",
+    "list": "The :attribute field must be a list.",
     "lowercase": "Il-qasam :attribute għandu jkun zgħar.",
     "lt.array": "L-:attribute għandu jkollhom inqas minn :value oġġett.",
     "lt.file": "L-:attribute għandhom ikunu inqas minn :value kilobytes.",

@@ -56,6 +56,7 @@
     "ipv4": "This field must be a valid IPv4 address.",
     "ipv6": "This field must be a valid IPv6 address.",
     "json": "This field must be a valid JSON string.",
+    "list": "This field must be a list.",
     "lowercase": "This field must be lowercase.",
     "lt.array": "This field must have less than :value items.",
     "lt.file": "This field must be less than :value kilobytes.",

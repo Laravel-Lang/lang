@@ -58,6 +58,7 @@
     "ipv4": ":Attribute haqiqiy IPv4 manzil bo‘lishi kerak.",
     "ipv6": ":Attribute haqiqiy IPv6 manzil bo‘lishi kerak.",
     "json": ":Attribute JSON qatori bo‘lishi kerak.",
+    "list": "The :attribute field must be a list.",
     "lowercase": "The :attribute must be lowercase.",
     "lt.array": ":Attribute dagi elementlar soni :value dan kichik bo‘lishi kerak.",
     "lt.file": ":Attribute dagi fayl hajmi :value kilobaytdan kichik bo‘lishi kerak.",

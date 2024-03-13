@@ -58,6 +58,7 @@
     "ipv4": ":Attribute peab olema kehtiv IPv4 aadress.",
     "ipv6": ":Attribute peab olema kehtiv IPv6 aadress.",
     "json": ":Attribute peab olema kehtiv JSON string.",
+    "list": "The :attribute field must be a list.",
     "lowercase": ":Attribute peab olema väiketäht.",
     "lt.array": ":Attribute peab sisaldama vähem kui :value üksust",
     "lt.file": ":Attribute peab olema väiksem kui :value kilobaiti",

@@ -58,6 +58,7 @@
     "ipv4": "يجب أن يكون حقل :attribute عنوان IPv4 صحيحًا.",
     "ipv6": "يجب أن يكون حقل :attribute عنوان IPv6 صحيحًا.",
     "json": "يجب أن يكون حقل :attribute نصًا من نوع JSON.",
+    "list": "The :attribute field must be a list.",
     "lowercase": "يجب أن يحتوي الحقل :attribute على حروف صغيرة.",
     "lt.array": "يجب أن يحتوي حقل :attribute على أقل من :value عناصر/عنصر.",
     "lt.file": "يجب أن يكون حجم ملف حقل :attribute أصغر من :value كيلوبايت.",

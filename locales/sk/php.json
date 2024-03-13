@@ -58,6 +58,7 @@
     "ipv4": ":Attribute musí byť platná IPv4 adresa.",
     "ipv6": ":Attribute musí byť platná IPv6 adresa.",
     "json": ":Attribute musí byť platný JSON reťazec.",
+    "list": "The :attribute field must be a list.",
     "lowercase": "Číslo :attribute musí byť malé.",
     "lt.array": ":Attribute musí mať menej prvkov ako :value.",
     "lt.file": ":Attribute musí mať menej kilobajtov ako :value.",

@@ -58,6 +58,7 @@
     "ipv4": ":Attribute inapaswa kuwa anwani ya IPv4 sahihi.",
     "ipv6": ":Attribute inapaswa kuwa anwani ya IPv6 sahihi.",
     "json": "Kipengele lazima kiwe kidwe halali cha Nukuu ya Java.",
+    "list": "The :attribute field must be a list.",
     "lowercase": ":Attribute ni lazima iwe na herufi ndogo..",
     "lt.array": ":Attribute inapaswa kuwa chini ya vitu :value.",
     "lt.file": ":Attribute inapaswa kuwa chini ya kilobaiti :value.",

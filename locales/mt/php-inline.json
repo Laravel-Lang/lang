@@ -56,6 +56,7 @@
     "ipv4": "Dan il-qasam irid ikun indirizz IPv4 validu.",
     "ipv6": "Dan il-qasam irid ikun indirizz IPv6 validu.",
     "json": "Dan il-qasam irid ikun string JSON valida.",
+    "list": "This field must be a list.",
     "lowercase": "Dan il-qasam irid ikun zgħar.",
     "lt.array": "Dan il-qasam għandu jkollu inqas minn :value oġġetti.",
     "lt.file": "Dan il-field għandu jkun inqas minn :value kilobytes.",

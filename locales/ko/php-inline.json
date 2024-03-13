@@ -56,6 +56,7 @@
     "ipv4": "유효한 IPv4 주소여야 합니다.",
     "ipv6": "유효한 IPv6 주소여야 합니다.",
     "json": "JSON 문자열이어야 합니다.",
+    "list": "This field must be a list.",
     "lowercase": "이 필드는 소문자여야 합니다.",
     "lt.array": "이 배열의 항목 수는 :value개 보다 작아야 합니다.",
     "lt.file": "이 파일의 용량은 :value킬로바이트보다 작아야 합니다.",

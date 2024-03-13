@@ -56,6 +56,7 @@
     "ipv4": "Aqueste camp deu èsser una adreça IPv4 valida.",
     "ipv6": "Aqueste camp deu èsser una adreça IPv6 valida.",
     "json": "Aqueste camp deu èsser una cadena JSON valida.",
+    "list": "This field must be a list.",
     "lowercase": "This field must be lowercase.",
     "lt.array": "Lo tablèu deu conténer almens :value elements.",
     "lt.file": "La talha del fichièr deu èsser inferiora a :value kilo-octets.",

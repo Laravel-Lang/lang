@@ -58,6 +58,7 @@
     "ipv4": "Полето :attribute трябва да бъде IPv4 адрес.",
     "ipv6": "Полето :attribute трябва да бъде IPv6 адрес.",
     "json": "Полето :attribute трябва да бъде JSON низ.",
+    "list": "The :attribute field must be a list.",
     "lowercase": ":Attribute трябва да са малки букви.",
     "lt.array": ":Attribute трябва да разполага с по-малко от :value елемента.",
     "lt.file": ":Attribute трябва да бъде по-малка от :value килобайта.",

@@ -56,6 +56,7 @@
     "ipv4": "Kjo duhet të jetë një IPv4 adresë.",
     "ipv6": "Kjo duhet të jetë një IPv6 adresë.",
     "json": "Kjo duhet të ketë përmbajtje të vlefshme JSON.",
+    "list": "This field must be a list.",
     "lowercase": "Kjo fushë duhet të jetë e vogël.",
     "lt.array": "Kjo duhet të ketë më pak se :value elemente.",
     "lt.file": "Kjo duhet të jetë më e vogël se :value kilobajtë.",

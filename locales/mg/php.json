@@ -58,6 +58,7 @@
     "ipv4": "Ny :attribute dia tsy maintsy adiresy IPv4 manan-kery.",
     "ipv6": "Ny :attribute dia tokony ho adiresy IPv6 manan-kery.",
     "json": "Ny :attribute dia tokony ho tady JSON manan-kery.",
+    "list": "The :attribute field must be a list.",
     "lowercase": "Ny saha :attribute dia tsy maintsy litera kely.",
     "lt.array": "Ny :attribute dia tsy maintsy manana singa latsaky ny :value.",
     "lt.file": "Ny :attribute dia tsy maintsy latsaky ny :value kilobytes.",

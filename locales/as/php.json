@@ -58,6 +58,7 @@
     "ipv4": ":attribute এটা বৈধ IPv4 ঠিকনা হ'ব লাগিব।",
     "ipv6": ":attribute এটা বৈধ IPv6 ঠিকনা হ'ব লাগিব।",
     "json": ":attribute এটা বৈধ JSON স্ট্ৰিং হ'ব লাগিব।",
+    "list": "The :attribute field must be a list.",
     "lowercase": "১০ ক্ষেত্ৰখন সৰু আখৰ হ’ব লাগিব।",
     "lt.array": "১০ টাত ২০ টাতকৈ কম বস্তু থাকিব লাগিব।",
     "lt.file": "১০ টা ২০ কিলোবাইটতকৈ কম হ’ব লাগিব।",

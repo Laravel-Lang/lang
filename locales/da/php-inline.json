@@ -56,6 +56,7 @@
     "ipv4": "Dette skal være en gyldig IPv4-adresse.",
     "ipv6": "Dette skal være en gyldig IPv6-adresse.",
     "json": "Dette skal være en gyldig JSON-streng.",
+    "list": "This field must be a list.",
     "lowercase": "Dette felt skal være med små bogstaver.",
     "lt.array": "The content must have less than :value items.",
     "lt.file": "The file size must be less than :value kilobytes.",

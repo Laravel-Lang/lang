@@ -56,6 +56,7 @@
     "ipv4": "זו חייבת להיות כתובת ipv4 תקפה.",
     "ipv6": "זו חייבת להיות כתובת ipv6 תקפה.",
     "json": "זה חייב להיות מחרוזת json תקפה.",
+    "list": "This field must be a list.",
     "lowercase": "שדה זה חייב להיות באותיות קטנות.",
     "lt.array": "The content must have less than :value items.",
     "lt.file": "The file size must be less than :value kilobytes.",

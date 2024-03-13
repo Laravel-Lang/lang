@@ -58,6 +58,7 @@
     "ipv4": "Polje :attribute mora da bude važeća IPv4 adresa.",
     "ipv6": "Polje :attribute mora da bude važeća IPv6 adresa.",
     "json": "Polje :attribute mora da bude važeća JSON niska.",
+    "list": "The :attribute field must be a list.",
     "lowercase": "The :attribute must be lowercase.",
     "lt.array": "Polje :attribute mora da sadrži manje od :value stavki.",
     "lt.file": "Polje :attribute mora da bude manji od :value kilobajta.",

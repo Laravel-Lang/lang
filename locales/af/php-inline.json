@@ -56,6 +56,7 @@
     "ipv4": "Dit moet 'n geldige IPv4-adres wees.",
     "ipv6": "Dit moet 'n geldige IPv4-adres wees.",
     "json": "Dit moet 'n geldige JSON-string wees.",
+    "list": "This field must be a list.",
     "lowercase": "Hierdie veld moet kleinletters wees.",
     "lt.array": "Die inhoud moet minder as :value items wees.",
     "lt.file": "Die lêergrootte moet kleiner wees as :value kilobytes.",

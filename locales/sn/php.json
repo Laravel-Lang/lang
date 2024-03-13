@@ -58,6 +58,7 @@
     "ipv4": "Iyo gumi inofanira kunge iri kero yeIPv4 inoshanda.",
     "ipv6": "Iyo gumi inofanira kunge iri kero yeIPv6 inoshanda.",
     "json": "Iyo gumi inofanira kunge iri tambo yeJSON inoshanda.",
+    "list": "The :attribute field must be a list.",
     "lowercase": "Munda wegumi unofanira kuva mavara maduku.",
     "lt.array": "Iwo gumi anofanira kunge aine zvinhu zvisingasviki makumi maviri.",
     "lt.file": "Iwo gumi anofanira kunge ari pasi pe:value kilobytes.",

@@ -58,6 +58,7 @@
     "ipv4": ":attribute дөрес IPv4 адресы булырга тиеш.",
     "ipv6": ":attribute дөрес IPv6 адресы булырга тиеш.",
     "json": ":attribute дөрес JSON сызыгы булырга тиеш.",
+    "list": "The :attribute field must be a list.",
     "lowercase": ":attribute кыр кечкенә хәреф булырга тиеш.",
     "lt.array": ":attributeда :value әйбердән ким булырга тиеш.",
     "lt.file": ":attributeсы :value килобайттан ким булырга тиеш.",

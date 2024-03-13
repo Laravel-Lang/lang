@@ -58,6 +58,7 @@
     "ipv4": "Ɛsɛ sɛ :attribute no yɛ IPv4 address a ɛfata.",
     "ipv6": "Ɛsɛ sɛ :attribute no yɛ IPv6 address a ɛfata.",
     "json": "Ɛsɛ sɛ :attribute no yɛ JSON ahama a ɛfata.",
+    "list": "The :attribute field must be a list.",
     "lowercase": "Ɛsɛ sɛ afuw :attribute no yɛ nkyerɛwde nketewa.",
     "lt.array": "Ɛsɛ sɛ :attribute no nya nneɛma a ennu :value.",
     "lt.file": "Ɛsɛ sɛ :attribute no nnu kilobytes :value.",

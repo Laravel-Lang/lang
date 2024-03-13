@@ -56,6 +56,7 @@
     "ipv4": "یہ ہونا ضروری ہے ایک درست IPv4 ایڈریس.",
     "ipv6": "یہ ہونا ضروری ہے ایک درست IPv6 ایڈریس.",
     "json": "یہ ہونا ضروری ہے ایک درست JSON سٹرنگ ہے.",
+    "list": "This field must be a list.",
     "lowercase": "یہ فیلڈ چھوٹا ہونا چاہیے۔",
     "lt.array": "The content must have less than :value items.",
     "lt.file": "The file size must be less than :value kilobytes.",

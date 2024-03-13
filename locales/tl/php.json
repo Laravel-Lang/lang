@@ -58,6 +58,7 @@
     "ipv4": "Ang :attribute ay dapat na isang wastong Ipbagong address.",
     "ipv6": "Ang :attribute ay dapat na isang balidong Ipbagong address.",
     "json": "Ang :attribute ay dapat isang balidong JSON string.",
+    "list": "The :attribute field must be a list.",
     "lowercase": "Dapat lowercase ang :attribute.",
     "lt.array": "Ang :attribute ay dapat magkaroon ng mas mababa sa :value na mga item.",
     "lt.file": "Ang :attribute ay dapat na mas mababa sa :value kilobytes.",

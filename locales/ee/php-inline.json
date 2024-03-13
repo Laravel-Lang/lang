@@ -56,6 +56,7 @@
     "ipv4": "Ele be agble sia nanye IPv4 adrɛs si sɔ.",
     "ipv6": "Ele be agble sia nanye IPv6 adrɛs si sɔ.",
     "json": "Ele be agble sia nanye JSON ka si sɔ.",
+    "list": "This field must be a list.",
     "lowercase": "Ele be agble sia nanye ŋɔŋlɔdzesi suewo.",
     "lt.array": "Ele be nusiwo mede :value o nanɔ agble sia me.",
     "lt.file": "Ele be agble sia nade kilobyte :value o.",

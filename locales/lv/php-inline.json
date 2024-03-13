@@ -56,6 +56,7 @@
     "ipv4": "Tam jābūt derīgai IPv4 adresei.",
     "ipv6": "Tam jābūt derīgai IPv6 adresei.",
     "json": "Tam jābūt derīgai JSON virknei.",
+    "list": "This field must be a list.",
     "lowercase": "Šajā laukā ir jābūt mazajiem burtiem.",
     "lt.array": "The content must have less than :value items.",
     "lt.file": "The file size must be less than :value kilobytes.",

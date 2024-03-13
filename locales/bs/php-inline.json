@@ -56,6 +56,7 @@
     "ipv4": "Ovo mora da je važeća IPv4 adresa.",
     "ipv6": "Ovo mora da je važeća IPv6 adresa.",
     "json": "Ovo mora da je valjani JSON string.",
+    "list": "This field must be a list.",
     "lowercase": "Ovo polje mora biti malim slovima.",
     "lt.array": "The content must have less than :value items.",
     "lt.file": "The file size must be less than :value kilobytes.",

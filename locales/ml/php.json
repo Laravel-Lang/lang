@@ -58,6 +58,7 @@
     "ipv4": ":attribute സാധുവായ IPv4 വിലാസമായിരിക്കണം.",
     "ipv6": ":attribute സാധുവായ IPv6 വിലാസമായിരിക്കണം.",
     "json": ":attribute സാധുതയുള്ള JSON സ്ട്രിംഗ് ആയിരിക്കണം.",
+    "list": "The :attribute field must be a list.",
     "lowercase": ":attribute ഫീൽഡ് ചെറിയക്ഷരം ആയിരിക്കണം.",
     "lt.array": ":attribute-ൽ :value-ൽ താഴെ ഇനങ്ങൾ ഉണ്ടായിരിക്കണം.",
     "lt.file": ":attribute എന്നത് :value കിലോബൈറ്റിൽ കുറവായിരിക്കണം.",

@@ -58,6 +58,7 @@
     "ipv4": ":AttributeはIPv4アドレスを指定してください。",
     "ipv6": ":AttributeはIPv6アドレスを指定してください。",
     "json": ":Attributeには、有効なJSON文字列を指定してください。",
+    "list": "The :attribute field must be a list.",
     "lowercase": ":Attributeは、小文字で入力してください。",
     "lt.array": ":Attributeの項目数は、:value個より少ない必要があります。",
     "lt.file": ":Attributeは、:value KBより小さい必要があります。",

@@ -58,6 +58,7 @@
     "ipv4": "ಈ  :attribute ಮಾನ್ಯವಾದ IPv4 ವಿಳಾಸವಾಗಿರಬೇಕು.",
     "ipv6": "ಈ  :attribute ಮಾನ್ಯವಾದ IPv6 ವಿಳಾಸವಾಗಿರಬೇಕು.",
     "json": "ಈ  :attribute ಮಾನ್ಯವಾದ JSON ಸ್ಟ್ರಿಂಗ್ ಆಗಿರಬೇಕು .",
+    "list": "The :attribute field must be a list.",
     "lowercase": ":Attribute ಚಿಕ್ಕದಾಗಿರಬೇಕು.",
     "lt.array": "ಈ  :attribute ನಲ್ಲಿ  :value ಐಟಂಗಳಿಗಿಂತ ಕಡಿಮೆ ಇರಬೇಕು.",
     "lt.file": "ಈ  :attribute ನಲ್ಲಿ  :value ಕಿಲೋಬೈಟ್ಗಳಿಗಿಂತ ಕಡಿಮೆ ಇರಬೇಕು.",

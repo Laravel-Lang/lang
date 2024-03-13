@@ -56,6 +56,7 @@
     "ipv4": "Das muss eine gültige IPv4-Adresse sein.",
     "ipv6": "Das muss eine gültige IPv6-Adresse sein.",
     "json": "Das muss ein gültiger JSON-String sein.",
+    "list": "This field must be a list.",
     "lowercase": "Dieses Feld muss in Kleinbuchstaben geschrieben werden.",
     "lt.array": "Der Inhalt muss kleiner :value Elemente haben.",
     "lt.file": "Die Datei muss kleiner :value Kilobytes gross sein.",

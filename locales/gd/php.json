@@ -58,6 +58,7 @@
     "ipv4": "Feumaidh an :attribute a bhith na sheòladh IPv4 dligheach.",
     "ipv6": "Feumaidh an :attribute a bhith na sheòladh IPv6 dligheach.",
     "json": "Feumaidh an :attribute a bhith na shreang JSON dligheach.",
+    "list": "The :attribute field must be a list.",
     "lowercase": "Feumaidh an raon :attribute a bhith nas ìsle.",
     "lt.array": "Feumaidh nas lugha na :value rud a bhith aig na :attribute.",
     "lt.file": "Feumaidh an :attribute a bhith nas lugha na :value kilobytes.",

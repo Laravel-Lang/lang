@@ -56,6 +56,7 @@
     "ipv4": "Bu etibarlı IPv4 ünvanı olmalıdır.",
     "ipv6": "Bu etibarlı IPv6 ünvanı olmalıdır.",
     "json": "Bu caiz string JSON olmalıdır edir.",
+    "list": "This field must be a list.",
     "lowercase": "Bu sahə kiçik hərf olmalıdır.",
     "lt.array": "Məzmun :value elementlərindən az olmalıdır.",
     "lt.file": "Fayl ölçüsü :value kilobaytdan kiçik olmalıdır.",

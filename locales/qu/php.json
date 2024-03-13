@@ -58,6 +58,7 @@
     "ipv4": ":attribute kaq IPv4 allin tiyay kanan tiyan.",
     "ipv6": ":attribute kaq IPv6 allin tiyay kanan tiyan.",
     "json": ":attribute kaq JSON watiqa allin kanan tiyan.",
+    "list": "The :attribute field must be a list.",
     "lowercase": ":attribute chakraqa uchuy qillqayuqmi kanan.",
     "lt.array": "Chay :attribute nisqakunaqa :value nisqamanta pisi imakunayuqmi kanan.",
     "lt.file": "Chay :attributeqa :value kilobytemanta pisi kanan tiyan.",

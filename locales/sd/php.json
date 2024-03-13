@@ -58,6 +58,7 @@
     "ipv4": ":attribute هڪ صحيح IPv4 پتو هجڻ گهرجي.",
     "ipv6": ":attribute هڪ صحيح IPv6 پتو هجڻ گهرجي.",
     "json": ":attribute هڪ صحيح JSON اسٽرنگ هجڻ گهرجي.",
+    "list": "The :attribute field must be a list.",
     "lowercase": ":attribute فيلڊ کي ننڍو هجڻ گهرجي.",
     "lt.array": ":attribute ۾ :value کان گھٽ شيون ھجن.",
     "lt.file": ":attribute :value kilobytes کان گهٽ هجڻ گهرجي.",

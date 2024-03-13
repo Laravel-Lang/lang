@@ -58,6 +58,7 @@
     "ipv4": ":attribute ଟି ଏକ ବ valid ଧ IPv4 ଠିକଣା ହେବା ଜରୁରୀ |",
     "ipv6": ":attribute ନିଶ୍ଚିତ ଭାବରେ ଏକ ବ valid ଧ IPv6 ଠିକଣା ହେବା ଆବଶ୍ୟକ |",
     "json": ":attribute ନିଶ୍ଚିତ ଭାବରେ ଏକ ବ valid ଧ JSON ଷ୍ଟ୍ରିଙ୍ଗ ହେବା ଆବଶ୍ୟକ |",
+    "list": "The :attribute field must be a list.",
     "lowercase": ":attribute ଟି ଫିଲ୍ଡ ଲୋୟର କେସ୍ ହେବା ଜରୁରୀ |",
     "lt.array": ":attribute ରେ :value ରୁ କମ୍ ଆଇଟମ୍ ରହିବା ଜରୁରୀ |",
     "lt.file": ":attribute ଟି :value କିଲୋବାଇଟରୁ କମ୍ ହେବା ଜରୁରୀ |",

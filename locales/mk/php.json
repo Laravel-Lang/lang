@@ -58,6 +58,7 @@
     "ipv4": "Полето :attribute мора да биде валидна IPv4 адреса.",
     "ipv6": "Полето :attribute мора да биде валидна IPv6 адреса.",
     "json": "Полето :attribute мора да биде валиден JSON објект.",
+    "list": "The :attribute field must be a list.",
     "lowercase": ":Attribute-ката мора да биде мала.",
     "lt.array": "Полето :attribute мора да има помалку од :value елементи.",
     "lt.file": "Полето :attribute мора да биде датотека помала од :value килобајти.",

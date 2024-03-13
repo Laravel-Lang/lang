@@ -56,6 +56,7 @@
     "ipv4": "Musí to být platná adresa IPv4.",
     "ipv6": "Musí to být platná adresa IPv6.",
     "json": "Musí to být platný řetězec JSON.",
+    "list": "This field must be a list.",
     "lowercase": "Toto pole musí být napsané malými písmeny.",
     "lt.array": "Toto pole musí mít méně jak :value položek.",
     "lt.file": "Tento soubor musí být menší než :value kilobytů.",

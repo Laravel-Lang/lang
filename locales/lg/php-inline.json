@@ -56,7 +56,7 @@
     "ipv4": "Ennimiro eno erina okuba endagiriro ya IPv4 entuufu.",
     "ipv6": "Ennimiro eno erina okuba endagiriro ya IPv6 entuufu.",
     "json": "Ennimiro eno erina okuba omuguwa gwa JSON omutuufu.",
-    "list": "This field must be a list.",
+    "list": "Ennimiro eno erina okuba olukalala.",
     "lowercase": "Ennimiro eno erina okuba ennukuta entono.",
     "lt.array": "Ennimiro eno erina okuba n’ebintu ebitakka wansi wa :value.",
     "lt.file": "Ennimiro eno erina okuba wansi wa kilobytes :value.",

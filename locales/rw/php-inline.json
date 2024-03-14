@@ -56,7 +56,7 @@
     "ipv4": "Uyu murima ugomba kuba aderesi ya IPv4 yemewe.",
     "ipv6": "Uyu murima ugomba kuba aderesi ya IPv6 yemewe.",
     "json": "Uyu murima ugomba kuba umugozi wa JSON wemewe.",
-    "list": "This field must be a list.",
+    "list": "Uyu murima ugomba kuba urutonde.",
     "lowercase": "Uyu murima ugomba kuba muto.",
     "lt.array": "Uyu murima ugomba kuba ufite ibintu bitarenze :value.",
     "lt.file": "Uyu murima ugomba kuba munsi ya kilobytes :value.",

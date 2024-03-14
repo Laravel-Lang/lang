@@ -58,7 +58,7 @@
     "ipv4": ":Attribute դաշտը պետք է լինի վավեր IPv4 հասցե։",
     "ipv6": ":Attribute դաշտը պետք է լինի վավեր IPv6 հասցե։",
     "json": ":Attribute դաշտը պետք է լինի վավեր JSON տեքստ։",
-    "list": "The :attribute field must be a list.",
+    "list": ":attribute դաշտը պետք է լինի ցուցակ:",
     "lowercase": ":Attribute-ը պետք է լինի փոքրատառ:",
     "lt.array": ":Attribute դաշտում էլեմենտների քանակը պետք է փոքր լինի :value-ից։",
     "lt.file": ":Attribute դաշտի ֆայլի չափը պետք է փոքր լինի :value կիլոբայթից։",

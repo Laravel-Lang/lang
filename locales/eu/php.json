@@ -58,7 +58,7 @@
     "ipv4": ":Attribute baliozko IPv4 helbidea izan behar da.",
     "ipv6": ":Attribute baliozko IPv6 helbidea izan behar da.",
     "json": ":Attribute baliozko JSON karaktere-katea izan behar da.",
-    "list": "The :attribute field must be a list.",
+    "list": ":attribute eremuak zerrenda bat izan behar du.",
     "lowercase": ":Attributeak minuskula izan behar du.",
     "lt.array": ":Attribute-(e)k :value elementu baino gutxiago izan behar ditu.",
     "lt.file": ":Attribute-(e)k :value kilobyte baino txikiagoa izan behar du.",

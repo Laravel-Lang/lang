@@ -56,7 +56,7 @@
     "ipv4": "Feumaidh an raon seo a bhith na sheòladh IPv4 dligheach.",
     "ipv6": "Feumaidh an raon seo a bhith na sheòladh IPv6 dligheach.",
     "json": "Feumaidh an raon seo a bhith na shreang JSON dligheach.",
-    "list": "This field must be a list.",
+    "list": "Feumaidh an raon seo a bhith na liosta.",
     "lowercase": "Feumaidh an raon seo a bhith nas ìsle.",
     "lt.array": "Feumaidh nas lugha na :value nithean a bhith san raon seo.",
     "lt.file": "Feumaidh an raon seo a bhith nas lugha na :value kilobytes.",

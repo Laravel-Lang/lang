@@ -58,7 +58,7 @@
     "ipv4": ":Attribute টি একটি বৈধ IPv4 address হতে হবে।",
     "ipv6": ":Attribute টি একটি বৈধ IPv6 address হতে হবে।",
     "json": ":Attribute একটি বৈধ JSON স্ট্রিং হতে হবে।",
-    "list": "The :attribute field must be a list.",
+    "list": ":attribute ক্ষেত্র অবশ্যই একটি তালিকা হতে হবে।",
     "lowercase": ":Attribute অবশ্যই ছোট হাতের হতে হবে।",
     "lt.array": ":Attribute এর থেকে কম :value আইটেম থাকতে হবে।",
     "lt.file": ":Attribute অবশ্যই :value কিলোবাইটের চেয়ে কম হতে হবে।",

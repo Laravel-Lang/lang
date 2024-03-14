@@ -58,7 +58,7 @@
     "ipv4": ":Attribute dogry IPv4 salgy bolmaly.",
     "ipv6": ":Attribute dogry IPv6 salgy bolmaly.",
     "json": ":Attribute dogry JSON setiri bolmaly.",
-    "list": "The :attribute field must be a list.",
+    "list": ":attribute meýdan sanaw bolmaly.",
     "lowercase": ":Attribute kiçi harp bolmaly",
     "lt.array": ":Attribute-de :value-den az zat bolmaly.",
     "lt.file": ":Attribute :value kilobaýtdan az bolmalydyr.",

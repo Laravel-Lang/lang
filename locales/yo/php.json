@@ -58,7 +58,7 @@
     "ipv4": ":attribute naa gbọdọ jẹ adiresi IPv4 to wulo.",
     "ipv6": ":attribute naa gbọdọ jẹ adiresi IPv6 to wulo.",
     "json": ":attribute naa gbọdọ jẹ okun JSON to wulo.",
-    "list": "The :attribute field must be a list.",
+    "list": "Aaye :attribute gbọdọ jẹ atokọ kan.",
     "lowercase": "Aaye :attribute gbọdọ jẹ kekere.",
     "lt.array": "Awọn :attribute gbọdọ ni kere ju :value awọn ohun kan.",
     "lt.file": "Awọn :attribute gbọdọ jẹ kere ju :value kilobytes.",

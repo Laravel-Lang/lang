@@ -56,7 +56,7 @@
     "ipv4": "यह एक वैध आईपीवी 4 पता होना चाहिए ।",
     "ipv6": "यह एक वैध आईपीवी 6 पता होना चाहिए ।",
     "json": "यह एक वैध जेसन स्ट्रिंग होना चाहिए ।",
-    "list": "This field must be a list.",
+    "list": "यह फ़ील्ड एक सूची होनी चाहिए.",
     "lowercase": "यह फ़ील्ड लोअरकेस होना चाहिए।",
     "lt.array": "The content must have less than :value items.",
     "lt.file": "The file size must be less than :value kilobytes.",

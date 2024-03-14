@@ -58,7 +58,7 @@
     "ipv4": "Dole ne :attribute ɗin ya zama ingantaccen adireshin IPv4.",
     "ipv6": "Dole ne :attribute ɗin ya zama ingantaccen adireshin IPv6.",
     "json": "Dole ne :attribute ɗin ya zama ingantacciyar igiyar JSON.",
-    "list": "The :attribute field must be a list.",
+    "list": "Filin :attribute dole ne ya zama jeri.",
     "lowercase": "Dole ne filin :attribute ya zama ƙananan haruffa.",
     "lt.array": "Dole ne :attribute ɗin su kasance da ƙasa da abubuwa :value.",
     "lt.file": "Dole ne :attribute ɗin ya zama ƙasa da kilobytes :value.",

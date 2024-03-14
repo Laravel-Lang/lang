@@ -56,7 +56,7 @@
     "ipv4": "Kini nga field kinahanglang balido nga IPv4 address.",
     "ipv6": "Kini nga field kinahanglang balido nga IPv6 address.",
     "json": "Kini nga field kinahanglang balido nga JSON string.",
-    "list": "This field must be a list.",
+    "list": "Kini nga natad kinahanglan usa ka lista.",
     "lowercase": "Kini nga field kinahanglan nga gamay nga letra.",
     "lt.array": "Kini nga field kinahanglan adunay ubos sa :value ka mga butang.",
     "lt.file": "Kini nga field kinahanglan nga ubos pa sa :value kilobytes.",

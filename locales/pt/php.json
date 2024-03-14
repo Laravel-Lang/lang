@@ -58,7 +58,7 @@
     "ipv4": "O campo :attribute deverá conter um IPv4 válido.",
     "ipv6": "O campo :attribute deverá conter um IPv6 válido.",
     "json": "O campo :attribute deverá conter um texto JSON válido.",
-    "list": "The :attribute field must be a list.",
+    "list": "O campo :attribute deve ser uma lista.",
     "lowercase": "O campo :attribute deve ser em minúsculas.",
     "lt.array": "O campo :attribute tem de ter menos de :value itens.",
     "lt.file": "O campo :attribute tem de ter menos de :value quilobytes.",

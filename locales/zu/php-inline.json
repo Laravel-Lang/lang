@@ -56,7 +56,7 @@
     "ipv4": "Le nkambu kufanele kube ikheli le-IPv4 elivumelekile.",
     "ipv6": "Le nkambu kufanele kube ikheli le-IPv6 elivumelekile.",
     "json": "Le nkambu kufanele ibe iyunithi yezinhlamvu ye-JSON evumelekile.",
-    "list": "This field must be a list.",
+    "list": "Le nkambu kufanele ibe uhlu.",
     "lowercase": "Le nkambu kufanele ibe ngofeleba abancane.",
     "lt.array": "Le nkambu kufanele ibe nezinto ezingaphansi kweziyi-:value.",
     "lt.file": "Le nkambu kufanele ibe ngaphansi kwamakhilobhayithi ayi-:value.",

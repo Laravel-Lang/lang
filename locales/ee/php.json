@@ -58,7 +58,7 @@
     "ipv4": "Ele be :attribute la nanye IPv4 adrɛs si sɔ.",
     "ipv6": "Ele be :attribute la nanye IPv6 adrɛs si sɔ.",
     "json": "Ele be :attribute la nanye JSON ka si sɔ.",
-    "list": "The :attribute field must be a list.",
+    "list": "Ele be :attribute ƒe agblea nanye xexlẽdzesi.",
     "lowercase": "Ele be agble :attribute la nanye ŋɔŋlɔdzesi suewo.",
     "lt.array": "Ele be nusiwo mede :value o nanɔ :attribute-awo me.",
     "lt.file": "Ele be :attribute la nade kilobyte :value o.",

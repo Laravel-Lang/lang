@@ -56,7 +56,7 @@
     "ipv4": "Dëst Feld muss eng valabel IPv4 Adress sinn.",
     "ipv6": "Dëst Feld muss eng valabel IPv6 Adress sinn.",
     "json": "Dëst Feld muss eng valabel JSON String sinn.",
-    "list": "This field must be a list.",
+    "list": "Dëst Feld muss eng Lëscht sinn.",
     "lowercase": "Dëst Feld muss kleng sinn.",
     "lt.array": "Dëst Feld muss manner wéi :value Elementer hunn.",
     "lt.file": "Dëst Feld muss manner wéi :value kilobytes sinn.",

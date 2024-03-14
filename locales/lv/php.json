@@ -58,7 +58,7 @@
     "ipv4": ":Attribute jābūt derīgai IPv4 adresei.",
     "ipv6": ":Attribute jābūt derīgai IPv6 adresei.",
     "json": ":Attribute jābūt derīgai JSON virknei.",
-    "list": "The :attribute field must be a list.",
+    "list": "Laukam :attribute ir jābūt sarakstam.",
     "lowercase": ":Attribute ir jābūt mazajiem burtiem.",
     "lt.array": ":Attribute jābūt mazāk nekā :value vienībām.",
     "lt.file": ":Attribute nedrīkst pārsniegt :value kilobaitus.",

@@ -281,7 +281,7 @@ editLink: false
 
 </td><td width="12%">
 
-[mn&nbsp;❗](statuses/mn.md)
+[mn&nbsp;✔](statuses/mn.md)
 
 </td><td width="12%">
 

@@ -58,7 +58,7 @@
     "ipv4": "שדה :attribute חייב להיות כתובת IPv4 תקנית.",
     "ipv6": "שדה :attribute חייב להיות כתובת IPv6 תקנית.",
     "json": "שדה :attribute חייב להיות מחרוזת JSON תקנית.",
-    "list": "The :attribute field must be a list.",
+    "list": "שדה :attribute חייב להיות רשימה.",
     "lowercase": "ה-:attribute חייב להיות באותיות קטנות.",
     "lt.array": "על ה :attribute לכלול פחות מ- :value פריטים.",
     "lt.file": "על ה :attribute להיות קטן יותר מ- :value קילו-בתים.",

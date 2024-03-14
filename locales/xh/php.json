@@ -58,7 +58,7 @@
     "ipv4": "I-:attribute kufuneka ibe yidilesi ye-IPv4 esebenzayo.",
     "ipv6": "I-:attribute kufuneka ibe yidilesi ye-IPv6 esebenzayo.",
     "json": "I-:attribute kufuneka ibe ngumtya we-JSON osebenzayo.",
-    "list": "The :attribute field must be a list.",
+    "list": "Indawo ye-:attribute kufuneka ibe luluhlu.",
     "lowercase": "Ibala le-:attribute kufuneka libe ngoonobumba abancinci.",
     "lt.array": "I-:attribute kufuneka ibe nezinto ezingaphantsi kwama-:value.",
     "lt.file": "I-:attribute mayibe ngaphantsi kwe-:value kilobytes.",

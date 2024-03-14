@@ -56,7 +56,7 @@
     "ipv4": "Гэта павінен быць сапраўдны IPv4-адрас.",
     "ipv6": "Гэта павінен быць сапраўдны IPv6-адрас.",
     "json": "Гэта павінна быць дапушчальная JSON радок.",
-    "list": "This field must be a list.",
+    "list": "Гэта поле павінна быць спісам.",
     "lowercase": "Гэта поле павінна быць малым.",
     "lt.array": "The content must have less than :value items.",
     "lt.file": "The file size must be less than :value kilobytes.",

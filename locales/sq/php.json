@@ -58,7 +58,7 @@
     "ipv4": ":Attribute duhet të jetë një IPv4 adresë.",
     "ipv6": ":Attribute duhet të jetë një IPv6 adresë.",
     "json": ":Attribute duhet të ketë përmbajtje të vlefshme JSON.",
-    "list": "The :attribute field must be a list.",
+    "list": "Fusha :attribute duhet të jetë një listë.",
     "lowercase": ":Attribute duhet të jetë me shkronja të vogla.",
     "lt.array": ":Attribute duhet të ketë më pak se :value elemente.",
     "lt.file": ":Attribute duhet të jetë më i/e vogël se :value kilobajtë.",

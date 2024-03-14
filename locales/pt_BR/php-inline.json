@@ -56,7 +56,7 @@
     "ipv4": "Este deve ser um endereço IPv4 válido.",
     "ipv6": "Este deve ser um endereço IPv6 válido.",
     "json": "Essa deve ser uma sequência JSON válida.",
-    "list": "This field must be a list.",
+    "list": "Este campo deve ser uma lista.",
     "lowercase": "Este campo deve estar em minúsculas.",
     "lt.array": "O conteúdo deve ter menos de :value itens.",
     "lt.file": "O tamanho do arquivo deve ser menor que :value kilobytes.",

@@ -58,7 +58,7 @@
     "ipv4": "እቲ :attribute ቅኑዕ IPv4 ኣድራሻ ክኸውን ኣለዎ።",
     "ipv6": "እቲ :attribute ቅኑዕ IPv6 ኣድራሻ ክኸውን ኣለዎ።",
     "json": "እቲ :attribute ቅኑዕ JSON ሕብረ ቃላት ክኸውን ኣለዎ።",
-    "list": "The :attribute field must be a list.",
+    "list": "እቲ :attribute ዓውዲ ዝርዝር ክኸውን ኣለዎ።",
     "lowercase": "እቲ :attribute ዓውዲ ንእሽቶ ፊደላት ክኸውን ኣለዎ።",
     "lt.array": "እተን :attribute ትሕቲ :value ኣቑሑት ክህልዎም ኣለዎ።",
     "lt.file": "እቲ :attribute ትሕቲ :value ኪሎባይት ክኸውን ኣለዎ።",

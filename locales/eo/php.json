@@ -58,7 +58,7 @@
     "ipv4": "La :attribute devas esti valida IPv4-adreso.",
     "ipv6": "La :attribute devas esti valida IPv6-adreso.",
     "json": "La :attribute devas esti valida JSON-ĉeno.",
-    "list": "The :attribute field must be a list.",
+    "list": "La :attribute kampo devas esti listo.",
     "lowercase": "La :attribute-kampo devas esti minuskla.",
     "lt.array": "La :attribute devas havi malpli ol :value erojn.",
     "lt.file": "La :attribute devas esti malpli ol :value kilobajtoj.",

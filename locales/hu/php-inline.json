@@ -56,7 +56,7 @@
     "ipv4": "Ennek érvényes IPv4 címnek kell lennie.",
     "ipv6": "Ennek érvényes IPv6 címnek kell lennie.",
     "json": "Ez egy érvényes JSON karakterlánc lehet.",
-    "list": "This field must be a list.",
+    "list": "Ennek a mezőnek listának kell lennie.",
     "lowercase": "Ennek a mezőnek kisbetűsnek kell lennie.",
     "lt.array": "The content must have less than :value items.",
     "lt.file": "The file size must be less than :value kilobytes.",

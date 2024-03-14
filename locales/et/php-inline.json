@@ -56,7 +56,7 @@
     "ipv4": "See peab olema kehtiv IPv4 aadress.",
     "ipv6": "See peab olema kehtiv IPv6 aadress.",
     "json": "See peab olema kehtiv JSON string.",
-    "list": "This field must be a list.",
+    "list": "See väli peab olema loend.",
     "lowercase": "See väli peab olema väiketähtedega.",
     "lt.array": "The content must have less than :value items.",
     "lt.file": "The file size must be less than :value kilobytes.",

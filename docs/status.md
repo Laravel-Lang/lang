@@ -273,7 +273,7 @@ editLink: false
 </td></tr>
 <tr><td width="12%">
 
-[mk&nbsp;❗](statuses/mk.md)
+[mk&nbsp;✔](statuses/mk.md)
 
 </td><td width="12%">
 

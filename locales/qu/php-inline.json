@@ -56,7 +56,7 @@
     "ipv4": "Kay pampaqa allin IPv4 tiyaymi kanan.",
     "ipv6": "Kay pampaqa allin IPv6 tiyaymi kanan.",
     "json": "Kay pampaqa allin JSON kaskaqmi kanan.",
-    "list": "This field must be a list.",
+    "list": "Kay pampaqa lista kanan tiyan.",
     "lowercase": "Kay pampaqa uchuy qillqayuqmi kanan.",
     "lt.array": "Kay chakraqa :value imakunayuqmi kanan.",
     "lt.file": "Kay pampaqa :value kilobytemanta pisi kanan tiyan.",

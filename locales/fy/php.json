@@ -58,7 +58,7 @@
     "ipv4": "De :attribute moat in jildich IPv4-adres wêze.",
     "ipv6": "De :attribute moat in jildich IPv6-adres wêze.",
     "json": "De :attribute moat in jildige JSON-string wêze.",
-    "list": "The :attribute field must be a list.",
+    "list": "It fjild :attribute moat in list wêze.",
     "lowercase": "It fjild :attribute moat lytse letters wêze.",
     "lt.array": "De :attribute moatte minder dan :value items hawwe.",
     "lt.file": "De :attribute moatte minder dan :value kilobytes wêze.",

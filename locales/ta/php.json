@@ -58,7 +58,7 @@
     "ipv4": ":attribute சரியான IPv4 முகவரியாக இருக்க வேண்டும்.",
     "ipv6": ":attribute சரியான IPv6 முகவரியாக இருக்க வேண்டும்.",
     "json": ":attribute சரியான JSON சரமாக இருக்க வேண்டும்.",
-    "list": "The :attribute field must be a list.",
+    "list": ":attribute புலம் ஒரு பட்டியலாக இருக்க வேண்டும்.",
     "lowercase": ":attribute புலம் சிறிய எழுத்தாக இருக்க வேண்டும்.",
     "lt.array": ":attributeல் :valueக்கும் குறைவான பொருட்கள் இருக்க வேண்டும்.",
     "lt.file": ":attribute என்பது :value கிலோபைட்டுகளுக்கு குறைவாக இருக்க வேண்டும்.",

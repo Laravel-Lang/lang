@@ -58,7 +58,7 @@
     "ipv4": ":Attribute harus berupa alamat IPv4 yang valid.",
     "ipv6": ":Attribute harus berupa alamat IPv6 yang valid.",
     "json": ":Attribute harus berupa JSON string yang valid.",
-    "list": "The :attribute field must be a list.",
+    "list": "Bidang :attribute harus berupa daftar.",
     "lowercase": ":Attribute harus berupa huruf kecil.",
     "lt.array": ":Attribute harus memiliki kurang dari :value anggota.",
     "lt.file": ":Attribute harus berukuran kurang dari :value kilobita.",

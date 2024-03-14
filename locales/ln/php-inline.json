@@ -56,7 +56,7 @@
     "ipv4": "Esika oyo esengeli kozala adresse IPv4 ya malamu.",
     "ipv6": "Esika oyo esengeli kozala adresse IPv6 ya malamu.",
     "json": "Esika oyo esengeli kozala molongo ya JSON ya malamu.",
-    "list": "This field must be a list.",
+    "list": "Esika oyo esengeli kozala liste.",
     "lowercase": "Esika oyo esengeli kozala na makomi mike.",
     "lt.array": "Esika oyo esengeli kozala na biloko na nse ya :value.",
     "lt.file": "Esika oyo esengeli kozala na nse ya :value kilobytes.",

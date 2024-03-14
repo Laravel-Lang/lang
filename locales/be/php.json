@@ -58,7 +58,7 @@
     "ipv4": ":Attribute павінен быць сапраўдным IPv4-адрасам.",
     "ipv6": ":Attribute павінен быць сапраўдным IPv6-адрасам.",
     "json": "Поле :attribute павінна быць JSON радком.",
-    "list": "The :attribute field must be a list.",
+    "list": "Поле :attribute павінна быць спісам.",
     "lowercase": ":Attribute павінны быць малымі.",
     "lt.array": "У :attribute павінна быць менш за :value элементаў.",
     "lt.file": ":Attribute павінны быць менш за :value кілабайт.",

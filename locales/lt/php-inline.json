@@ -56,7 +56,7 @@
     "ipv4": "Šio lauko reikšmė turi būti galiojantis IPv4 adresas.",
     "ipv6": "Šio lauko reikšmė turi būti galiojantis IPv6 adresas.",
     "json": "Šio lauko reikšmė turi būti JSON tekstas.",
-    "list": "This field must be a list.",
+    "list": "Šis laukas turi būti sąrašas.",
     "lowercase": "Šis laukas turi būti rašomas mažosiomis raidėmis.",
     "lt.array": "Šis laukas turi turėti mažiau negu :value elementus.",
     "lt.file": "Šis failas turi būti mažesnis negu :value kilobaitai.",

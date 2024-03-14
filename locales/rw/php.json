@@ -58,7 +58,7 @@
     "ipv4": ":attribute igomba kuba aderesi ya IPv4 yemewe.",
     "ipv6": ":attribute igomba kuba aderesi ya IPv6 yemewe.",
     "json": ":attribute igomba kuba umugozi wa JSON wemewe.",
-    "list": "The :attribute field must be a list.",
+    "list": "Umwanya :attribute ugomba kuba urutonde.",
     "lowercase": "Umwanya :attribute ugomba kuba muto.",
     "lt.array": ":attribute igomba kuba ifite ibintu bitarenze :value.",
     "lt.file": ":attribute igomba kuba munsi ya kilobytes :value.",

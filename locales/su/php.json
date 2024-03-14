@@ -58,7 +58,7 @@
     "ipv4": ":attribute kedah janten alamat IPv4 anu sah.",
     "ipv6": ":attribute kedah janten alamat IPv6 anu sah.",
     "json": ":attribute kedah janten string JSON anu valid.",
-    "list": "The :attribute field must be a list.",
+    "list": "Widang :attribute kedah janten daptar.",
     "lowercase": "Widang :attribute kedah hurup leutik.",
     "lt.array": ":attribute kedah gaduh kirang ti :value item.",
     "lt.file": ":attribute kedah kirang ti :value kilobyte.",

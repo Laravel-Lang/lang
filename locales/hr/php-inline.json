@@ -56,7 +56,7 @@
     "ipv4": "Ovo polje mora sadržavati valjanu IPv4 adresu.",
     "ipv6": "Ovo polje mora sadržavati valjanu IPv6 adresu.",
     "json": "Ovo polje mora sadržavati valjani JSON niz.",
-    "list": "This field must be a list.",
+    "list": "Ovo polje mora biti popis.",
     "lowercase": "Ovo polje mora sadržavati samo mala slova.",
     "lt.array": "Ovo polje mora sadržavati manje od :value stavki.",
     "lt.file": "Ova datoteka mora imati manje od :value kilobajta.",

@@ -9,7 +9,7 @@ use LaravelLang\Publisher\Plugins\Provider;
 
 class ServiceProvider extends BaseServiceProvider
 {
-    public function register()
+    public function register(): void
     {
         if (class_exists(Provider::class)) {
             $this->app->register(Plugin::class);

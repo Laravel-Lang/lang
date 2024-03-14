@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "Ele be agble sia nanye akpa si sɔ.",
+    "The :attribute must be at least :length characters and contain at least one number.": "Ele be agble sia nanye ŋɔŋlɔdzesi :length ya teti eye xexlẽdzesi ɖeka ya teti nanɔ eme.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "Ele be ŋɔŋlɔdzesi :length ya teti nanye agble sia eye ŋɔŋlɔdzesi tɔxɛ ɖeka kple xexlẽdzesi ɖeka ya teti nanɔ eme.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "Ele be agble sia nanye ŋɔŋlɔdzesi :length ya teti eye ŋɔŋlɔdzesi tɔxɛ ɖeka ya teti nanɔ eme.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "Ele be agble sia nanye ŋɔŋlɔdzesi :length ya teti eye ŋɔŋlɔdzesi gã ɖeka kple xexlẽdzesi ɖeka ya teti nanɔ eme.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "Ele be agble sia nanye ŋɔŋlɔdzesi :length ya teti eye ŋɔŋlɔdzesi gã ɖeka kple ŋɔŋlɔdzesi tɔxɛ ɖeka ya teti nanɔ eme.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "Ele be ŋɔŋlɔdzesi :length ya teti nanye agble sia eye ŋɔŋlɔdzesi gã ɖeka, xexlẽdzesi ɖeka, kple ŋɔŋlɔdzesi tɔxɛ ɖeka ya teti nanɔ eme.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "Ele be ŋɔŋlɔdzesi :length ya teti nanye agble sia eye ŋɔŋlɔdzesi gã ɖeka ya teti nanɔ eme.",
+    "The :attribute must be at least :length characters.": "Ele be agble sia nanye ŋɔŋlɔdzesi :length ya teti.",
+    "The :attribute must contain at least one letter.": "Ele be ŋɔŋlɔdzesi ɖeka ya teti nanɔ agble sia me.",
+    "The :attribute must contain at least one number.": "Ele be xexlẽdzesi ɖeka ya teti nanɔ agble sia me.",
+    "The :attribute must contain at least one symbol.": "Ele be dzesi ɖeka ya teti nanɔ agble sia me.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "Ele be ŋɔŋlɔdzesi gã ɖeka kple ŋɔŋlɔdzesi sue ɖeka ya teti nanɔ agble sia me.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Agble si wona la dze le nyatakaka aɖe si do go me. Taflatse tia agble bubu."
+}

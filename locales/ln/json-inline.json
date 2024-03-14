@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "Esika oyo esengeli kozala rôle ya malamu.",
+    "The :attribute must be at least :length characters and contain at least one number.": "Esika oyo esengeli kozala na bilembo ata :length mpe kozala na nimero moko ata.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "Esika oyo esengeli kozala na bilembo ata :length mpe ezala na elembo moko ya sipesiale mpe nimero moko.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "Esika oyo esengeli kozala na bilembo ata :length mpe ezala na elembo moko ya sipesiale.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "Esika oyo esengeli kozala na bilembo ata :length mpe ezala na elembo moko ya monene mpe motango moko.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "Esika oyo esengeli kozala na bilembo ata :length mpe ezala na elembo moko ya monene mpe elembo moko ya sipesiale.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "Esika oyo esengeli kozala na bilembo ata :length mpe ezala na elembo moko ya minene, motango moko, mpe elembo moko ya sipesiale.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "Esika oyo esengeli kozala na bilembo ata :length mpe ezala na elembo moko ya minene.",
+    "The :attribute must be at least :length characters.": "Esika oyo esengeli kozala na bilembo ata :length.",
+    "The :attribute must contain at least one letter.": "Esika oyo esengeli kozala na ata lɛtrɛ moko.",
+    "The :attribute must contain at least one number.": "Esika oyo esengeli kozala na ata nimero moko.",
+    "The :attribute must contain at least one symbol.": "Esika oyo esengeli kozala na ata elembo moko.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "Esika oyo esengeli kozala na ata lɛtrɛ moko ya monene mpe moko ya mike.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Esika oyo epesami ebimi na fuite ya ba données. Svp pona esika mosusu."
+}

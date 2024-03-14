@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "Kay pampaqa allin ruwaymi kanan.",
+    "The :attribute must be at least :length characters and contain at least one number.": "Kay pampaqa :length qillqayuqlla kanan tiyan, huk yupayllapas kanan tiyan.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "Kay pampaqa :length qillqayuqlla kanan tiyan, huk sapaq qillqayuq, huk yupayniyuqlla kanan tiyan.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "Kay pampaqa :length qillqayuqlla kanan tiyan, huk sapaq qillqayuqlla kanan tiyan.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "Kay pampaqa :length qillqayuqlla kanan tiyan, huk hatun qillqayuqlla, huk yupayniyuqlla kanan tiyan.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "Kay pampaqa :length qillqayuqlla kanan tiyan, huk hatun qillqayuqllapas, huk sapaq qillqayuqpas kanan tiyan.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "Kay pampaqa :length qillqayuqlla kanan tiyan, huk hatun qillqayuqlla, huk yupayniyuq, huk sapaq qillqayuqlla kanan tiyan.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "Kay pampaqa :length qillqayuqlla kanan tiyan, huk hatun qillqayuqllapas kanan tiyan.",
+    "The :attribute must be at least :length characters.": "Kay pampaqa :length qillqayuqlla kanan tiyan.",
+    "The :attribute must contain at least one letter.": "Kay pampapiqa huk qillqallapas kanan.",
+    "The :attribute must contain at least one number.": "Kay pampapiqa huk yupayllapas kanan tiyan.",
+    "The :attribute must contain at least one symbol.": "Kay pampapiqa huk chikullapas kanan.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "Kay pampapiqa huk hatun qillqallapas, huk uchuy qillqayuqpas kanan.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Qusqa pampaqa willakuypa lluqsiyninpi rikurirun. Ama hina kaspa, huk chakrata akllay."
+}

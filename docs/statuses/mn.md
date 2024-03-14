@@ -7,7 +7,7 @@ editLink: false
 ##### All missed: 2
 
 
-### json
+### php-inline
 
 ##### Missing: 1
 
@@ -23,11 +23,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-API
+list
 
 </td><td width="50%">
 
-API
+This field must be a list.
 
 </td></tr>
 </table>
@@ -52,11 +52,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-team_slug
+list
 
 </td><td width="50%">
 
-Team Slug
+The :attribute field must be a list.
 
 </td></tr>
 </table>

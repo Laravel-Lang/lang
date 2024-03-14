@@ -13,7 +13,7 @@ jobs:
         strategy:
             fail-fast: true
             matrix:
-                version: [ "10.x", "master" ]
+                version: [ "10.x", "11.x", "master" ]
         with:
             project: Laravel Framework ${{ matrix.version }}
             paths: source/framework/${{ matrix.version }}/*
@@ -47,7 +47,7 @@ jobs:
         strategy:
             fail-fast: true
             matrix:
-                version: [ "1.x", "master" ]
+                version: [ "1.x", "2.x", "master" ]
         with:
             project: Laravel Breeze ${{ matrix.version }}
             paths: source/breeze/${{ matrix.version }}/*
@@ -62,7 +62,7 @@ jobs:
         strategy:
             fail-fast: true
             matrix:
-                version: [ "13.x", "14.x", "master" ]
+                version: [ "13.x", "14.x", "15.x", "master" ]
         with:
             project: Laravel Cashier Stripe ${{ matrix.version }}
             paths: source/cashier/stripe/${{ matrix.version }}/*
@@ -92,7 +92,7 @@ jobs:
         strategy:
             fail-fast: true
             matrix:
-                version: [ "2.x", "3.x", "4.x", "master" ]
+                version: [ "2.x", "3.x", "4.x", "5.x", "master" ]
         with:
             project: Laravel Jetstream ${{ matrix.version }}
             paths: source/jetstream/${{ matrix.version }}/*
@@ -149,7 +149,7 @@ jobs:
                 run: codestyle
 
             -   name: Create a Pull Request
-                uses: peter-evans/create-pull-request@v5
+                uses: peter-evans/create-pull-request@v6
                 with:
                     branch: projects/patch
                     branch-suffix: random
@@ -189,40 +189,6 @@ jobs:
                     --project=nova/dusk-suite \
                     --ver=${{ matrix.version }} \
                     --copy=lang
-
-    spark_aurelius:
-        uses: Laravel-Lang/.github/.github/workflows/download.yml@main
-        strategy:
-            fail-fast: true
-            matrix:
-                version: [ "11.x", "12.x", "master" ]
-        with:
-            project: Laravel Spark Aurelius ${{ matrix.version }}
-            paths: source/spark/aurelius/${{ matrix.version }}/*
-            commands: |
-                vendor/bin/lang download \
-                    --url=https://github.com/laravel/spark-aurelius/archive/refs/heads/${{ matrix.version }}.zip \
-                    --project=spark/aurelius \
-                    --ver=${{ matrix.version }} \
-                    --copy=install-stubs/resources/lang \
-                    --only-copy
-
-    spark_aurelius_mollie:
-        uses: Laravel-Lang/.github/.github/workflows/download.yml@main
-        strategy:
-            fail-fast: true
-            matrix:
-                version: [ "v2" ]
-        with:
-            project: Laravel Spark Aurelius Mollie ${{ matrix.version }}
-            paths: source/spark/aurelius-mollie/${{ matrix.version }}/*
-            commands: |
-                vendor/bin/lang download \
-                    --url=https://github.com/laravel/spark-aurelius-mollie/archive/refs/heads/${{ matrix.version }}.zip \
-                    --project=spark/aurelius-mollie \
-                    --ver=${{ matrix.version }} \
-                    --copy=install-stubs/resources/lang \
-                    --only-copy
 
     ui:
         uses: Laravel-Lang/.github/.github/workflows/download.yml@main

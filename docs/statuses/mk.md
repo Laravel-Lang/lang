@@ -7,9 +7,9 @@ editLink: false
 ##### All missed: 2
 
 
-### json
+### php-inline
 
-##### Missing: 2
+##### Missing: 1
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,20 +23,40 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-API
+list
 
 </td><td width="50%">
 
-API
+This field must be a list.
 
 </td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php
+
+##### Missing: 1
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
 <tr><td width="50%">
 
-N/A
+list
 
 </td><td width="50%">
 
-N/A
+The :attribute field must be a list.
 
 </td></tr>
 </table>

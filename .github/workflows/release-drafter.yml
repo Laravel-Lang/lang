@@ -4,6 +4,12 @@ on:
   push:
     branches:
       - main
+  release:
+    types:
+      - published
+      - unpublished
+      - released
+      - prereleased
   workflow_dispatch:
 
 jobs:

@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "Iyi ndima inofanira kuva basa rinoshanda.",
+    "The :attribute must be at least :length characters and contain at least one number.": "Nzvimbo iyi inofanira kunge iine mavara gumi uye iine nhamba imwe chete.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "Nzvimbo iyi inofanira kunge iine mavara gumi uye iine mavara akakosha amwechete nenhamba imwe.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "Nzvimbo iyi inofanira kunge iine mavara gumi uye iine mavara akasarudzika.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "Nzvimbo iyi inofanira kuva nemabhii asingaite gumi uye iine kavaravara kamwechete nenhamba imwe chete.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "Munda uyu unofanira kuva nemabhii asingaite gumi uye uine kanenge kabhii mukuru mumwe chete.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "Munda uyu unofanira kuva nemabhii asingaite gumi uye uine kanenge kabhii guru rimwe chete, nhamba imwe, uye imwe yakakosha.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "Nzvimbo iyi inofanira kuva nemabhii asingaite gumi uye iine kavara kamwechete.",
+    "The :attribute must be at least :length characters.": "Nzvimbo iyi inofanira kunge iine mavara gumi.",
+    "The :attribute must contain at least one letter.": "Nzvimbo iyi inofanira kunge iine vara rimwechete.",
+    "The :attribute must contain at least one number.": "Iyi ndima inofanira kunge iine nhamba imwe chete.",
+    "The :attribute must contain at least one symbol.": "Iyi ndima inofanira kunge iine chiratidzo chimwe chete.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "Nzvimbo iyi inofanira kunge iine vara guru rimwe chete uye vadiki rimwe chete.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Munda wakapihwa waonekwa mune data leak. Ndapota sarudza imwe nzvimbo."
+}

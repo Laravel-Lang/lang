@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "Goobtani waa inay noqotaa door sax ah.",
+    "The :attribute must be at least :length characters and contain at least one number.": "Goobtani waa inay noqotaa ugu yaraan :length xaraf oo ka kooban yahay ugu yaraan hal lambar.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "Goobtani waa inay noqotaa ugu yaraan :length xaraf oo ka kooban yahay ugu yaraan hal xaraf oo gaar ah iyo hal lambar.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "Goobtani waa inay noqotaa ugu yaraan :length xaraf oo ka kooban yahay ugu yaraan hal xaraf oo gaar ah.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "Goobtani waa inay noqotaa ugu yaraan :length xaraf oo ka kooban yahay ugu yaraan hal xaraf oo waaweyn iyo hal lambar.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "Goobtani waa inay noqotaa ugu yaraan :length xaraf oo ka kooban yahay ugu yaraan hal xaraf oo waaweyn iyo hal xaraf oo gaar ah.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "Goobtani waa inay noqotaa ugu yaraan :length xaraf oo ka kooban yahay ugu yaraan hal xaraf oo waaweyn, hal lambar, iyo hal xaraf oo gaar ah.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "Goobtani waa inay noqotaa ugu yaraan :length xaraf oo ka kooban yahay ugu yaraan hal xaraf oo waaweyn.",
+    "The :attribute must be at least :length characters.": "Goobtani waa inay noqotaa ugu yaraan :length xaraf.",
+    "The :attribute must contain at least one letter.": "Goobtani waa inay ka kooban tahay ugu yaraan hal xaraf.",
+    "The :attribute must contain at least one number.": "Goobtani waa inay ka kooban tahay ugu yaraan hal lambar.",
+    "The :attribute must contain at least one symbol.": "Goobtani waa inay ka kooban tahay ugu yaraan hal calaamad.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "Meeshan waa in ay ka kooban tahay ugu yaraan hal xaraf oo waaweyn iyo hal xaraf oo yar.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Goobta la bixiyay waxa ay ka soo muuqatay daadinta xogta. Fadlan door goob kale."
+}

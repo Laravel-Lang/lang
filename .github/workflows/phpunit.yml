@@ -18,7 +18,7 @@ jobs:
             fail-fast: true
             matrix:
                 php: [ "8.1", "8.2", "8.3" ]
-                publisher: [ "14.0", "15.0" ]
+                publisher: [ "14.0", "15.0", "16.0" ]
         
         name: PHP ${{ matrix.php }}, Publisher ${{ matrix.publisher }}
 

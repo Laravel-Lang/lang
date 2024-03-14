@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "He kuleana kūpono kēia kahua.",
+    "The :attribute must be at least :length characters and contain at least one number.": "Pono kēia kahua ma kahi o :length mau huapalapala a loaʻa i hoʻokahi helu.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "Pono kēia kahua ma kahi o :length mau huaʻōlelo a loaʻa ma ka liʻiliʻi hoʻokahi kikoʻī kūikawā a me hoʻokahi helu.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "Pono kēia kahua ma kahi o :length mau huaʻōlelo a loaʻa i hoʻokahi ʻano kikoʻī.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "Pono kēia kahua ma kahi o :length mau huaʻōlelo a loaʻa ma ka liʻiliʻi hoʻokahi huaʻōlelo nui a me hoʻokahi helu.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "Pono kēia kahua ma kahi o :length mau huaʻōlelo a loaʻa ma ka liʻiliʻi o hoʻokahi huaʻōlelo nui a me hoʻokahi huaʻōlelo kūikawā.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "Pono kēia kahua ma kahi o :length mau huaʻōlelo a loaʻa ma ka liʻiliʻi o hoʻokahi huaʻōlelo nui, hoʻokahi helu, a hoʻokahi ʻano kikoʻī.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "Pono kēia kahua ma kahi o :length mau huaʻōlelo a loaʻa ma ka liʻiliʻi hoʻokahi huaʻōlelo nui.",
+    "The :attribute must be at least :length characters.": "Pono kēia kahua ma kahi o :length mau huapalapala.",
+    "The :attribute must contain at least one letter.": "Pono e loaʻa i hoʻokahi leka ma kēia kahua.",
+    "The :attribute must contain at least one number.": "Pono e loaʻa i hoʻokahi helu ma kēia kahua.",
+    "The :attribute must contain at least one symbol.": "Pono kēia kahua i hoʻokahi hōʻailona.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "Pono e loaʻa i kēia kahua ma ka liʻiliʻi o hoʻokahi hua nui a me hoʻokahi huapalapala liʻiliʻi.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Ua ʻike ʻia ke kahua i hāʻawi ʻia i kahi leak data. E ʻoluʻolu e koho i kahi kahua ʻokoʻa."
+}

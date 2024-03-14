@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "ئەم بوارە دەبێت ڕۆڵێکی دروست بێت.",
+    "The :attribute must be at least :length characters and contain at least one number.": "ئەم بوارە دەبێت بەلایەنی کەمەوە ١٠ پیت بێت و لانیکەم یەک ژمارە لەخۆبگرێت.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "ئەم بوارە دەبێت بەلایەنی کەمەوە ١٠ پیت بێت و لانیکەم یەک پیتی تایبەت و یەک ژمارەی تێدابێت.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "ئەم بوارە دەبێت بەلایەنی کەمەوە ١٠ پیت بێت و لانیکەم یەک پیتی تایبەتی تێدابێت.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "ئەم بوارە دەبێت بەلایەنی کەمەوە ١٠ پیت بێت و لانیکەم یەک پیتی گەورە و یەک ژمارە لەخۆبگرێت.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "ئەم بوارە دەبێت لانیکەم ١٠ پیت بێت و لانیکەم یەک پیتی گەورە و یەک پیتی تایبەتی تێدابێت.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "ئەم بوارە دەبێت لانیکەم ١٠ پیت بێت و لانیکەم یەک پیتی گەورە و یەک ژمارە و یەک پیتی تایبەتی تێدابێت.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "ئەم بوارە دەبێت لانیکەم ١٠ پیت بێت و لانیکەم یەک پیتی گەورەی تێدابێت.",
+    "The :attribute must be at least :length characters.": "ئەم بوارە دەبێت بەلایەنی کەمەوە ١٠ پیت بێت.",
+    "The :attribute must contain at least one letter.": "ئەم بوارە دەبێت لانیکەم یەک پیتی تێدابێت.",
+    "The :attribute must contain at least one number.": "ئەم بوارە دەبێت لانیکەم یەک ژمارە لەخۆبگرێت.",
+    "The :attribute must contain at least one symbol.": "ئەم بوارە دەبێت لانیکەم یەک هێما لەخۆبگرێت.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "ئەم بوارە دەبێت لانیکەم یەک پیتی گەورە و یەک پیتی بچووکی تێدابێت.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "مەیدانی دیاریکراو لە دزەپێکردنی داتادا دەرکەوتووە. تکایە بوارێکی جیاواز هەڵبژێرە."
+}

@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "ဤအကွက်သည် မှန်ကန်သောအခန်းကဏ္ဍဖြစ်ရပါမည်။",
+    "The :attribute must be at least :length characters and contain at least one number.": "ဤအကွက်တွင် အနည်းဆုံး အက္ခရာ :length လုံးရှိရမည်ဖြစ်ပြီး အနည်းဆုံး နံပါတ်တစ်ခု ပါဝင်ရပါမည်။",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "ဤအကွက်သည် အနည်းဆုံး အက္ခရာ :length လုံးရှိရမည်ဖြစ်ပြီး အနည်းဆုံး အထူးအက္ခရာတစ်ခုနှင့် နံပါတ်တစ်ခု ပါဝင်ရပါမည်။",
+    "The :attribute must be at least :length characters and contain at least one special character.": "ဤအကွက်တွင် အနည်းဆုံး အက္ခရာ :length လုံးရှိရမည်ဖြစ်ပြီး အနည်းဆုံး အထူးဇာတ်ကောင်တစ်ခု ပါဝင်ရပါမည်။",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "ဤအကွက်သည် အနည်းဆုံး အက္ခရာ :length လုံးရှိရမည်ဖြစ်ပြီး အနည်းဆုံး စာလုံးအကြီးတစ်လုံးနှင့် နံပါတ်တစ်ခု ပါဝင်ရပါမည်။",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "ဤအကွက်တွင် အနည်းဆုံး စာလုံး :length လုံးရှိရမည်ဖြစ်ပြီး အနည်းဆုံး စာလုံးအကြီးတစ်လုံးနှင့် အထူးစာလုံးတစ်လုံး ပါဝင်ရပါမည်။",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "ဤအကွက်တွင် အနည်းဆုံး အက္ခရာ :length လုံးရှိရမည်ဖြစ်ပြီး အနည်းဆုံး စာလုံးအကြီးတစ်လုံး၊ နံပါတ်တစ်ခုနှင့် အထူးစာလုံးတစ်လုံး ပါဝင်ရပါမည်။",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "ဤအကွက်တွင် အနည်းဆုံး စာလုံး :length လုံးရှိရမည်ဖြစ်ပြီး အနည်းဆုံး စာလုံးအကြီးတစ်လုံး ပါဝင်ရပါမည်။",
+    "The :attribute must be at least :length characters.": "ဤအကွက်သည် အနည်းဆုံး စာလုံး :length လုံးရှိရမည်။",
+    "The :attribute must contain at least one letter.": "ဤအကွက်တွင် အနည်းဆုံး စာလုံးတစ်လုံး ပါရှိရမည်။",
+    "The :attribute must contain at least one number.": "ဤအကွက်တွင် အနည်းဆုံး နံပါတ်တစ်ခု ပါဝင်ရပါမည်။",
+    "The :attribute must contain at least one symbol.": "ဤအကွက်တွင် အနည်းဆုံးသင်္ကေတတစ်ခု ပါဝင်ရပါမည်။",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "ဤအကွက်တွင် အနည်းဆုံး စာလုံးအကြီးတစ်ခုနှင့် စာလုံးအသေးတစ်ခု ပါဝင်ရပါမည်။",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "ပေးထားသောအကွက်သည် ဒေတာပေါက်ကြားမှုတစ်ခုပေါ်လာသည်။ အခြားအကွက်တစ်ခုကို ရွေးပါ။"
+}

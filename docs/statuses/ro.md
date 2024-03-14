@@ -4,12 +4,12 @@ editLink: false
 
 # ro
 
-##### All missed: 170
+##### All missed: 115
 
 
 ### json
 
-##### Missing: 170
+##### Missing: 115
 
 <table width="100%">
 <tr><th width="50%">
@@ -32,38 +32,11 @@ Administrator
 </td></tr>
 <tr><td width="50%">
 
-Alabama
-
-</td><td width="50%">
-
-Alabama
-
-</td></tr>
-<tr><td width="50%">
-
-Alaska
-
-</td><td width="50%">
-
-Alaska
-
-</td></tr>
-<tr><td width="50%">
-
 Albania
 
 </td><td width="50%">
 
 Albania
-
-</td></tr>
-<tr><td width="50%">
-
-Alberta
-
-</td><td width="50%">
-
-Alberta
 
 </td></tr>
 <tr><td width="50%">
@@ -113,38 +86,11 @@ Antarctica
 </td></tr>
 <tr><td width="50%">
 
-API
-
-</td><td width="50%">
-
-API
-
-</td></tr>
-<tr><td width="50%">
-
 Argentina
 
 </td><td width="50%">
 
 Argentina
-
-</td></tr>
-<tr><td width="50%">
-
-Arizona
-
-</td><td width="50%">
-
-Arizona
-
-</td></tr>
-<tr><td width="50%">
-
-Arkansas
-
-</td><td width="50%">
-
-Arkansas
 
 </td></tr>
 <tr><td width="50%">
@@ -275,15 +221,6 @@ Botswana
 </td></tr>
 <tr><td width="50%">
 
-British Columbia
-
-</td><td width="50%">
-
-British Columbia
-
-</td></tr>
-<tr><td width="50%">
-
 Bulgaria
 
 </td><td width="50%">
@@ -307,15 +244,6 @@ Burundi
 </td><td width="50%">
 
 Burundi
-
-</td></tr>
-<tr><td width="50%">
-
-California
-
-</td><td width="50%">
-
-California
 
 </td></tr>
 <tr><td width="50%">
@@ -347,29 +275,11 @@ China
 </td></tr>
 <tr><td width="50%">
 
-Colorado
-
-</td><td width="50%">
-
-Colorado
-
-</td></tr>
-<tr><td width="50%">
-
 Congo
 
 </td><td width="50%">
 
 Congo
-
-</td></tr>
-<tr><td width="50%">
-
-Connecticut
-
-</td><td width="50%">
-
-Connecticut
 
 </td></tr>
 <tr><td width="50%">
@@ -410,15 +320,6 @@ Côte d'Ivoire
 </td></tr>
 <tr><td width="50%">
 
-Delaware
-
-</td><td width="50%">
-
-Delaware
-
-</td></tr>
-<tr><td width="50%">
-
 Djibouti
 
 </td><td width="50%">
@@ -460,15 +361,6 @@ Fiji
 </td><td width="50%">
 
 Fiji
-
-</td></tr>
-<tr><td width="50%">
-
-Florida
-
-</td><td width="50%">
-
-Florida
 
 </td></tr>
 <tr><td width="50%">
@@ -572,15 +464,6 @@ Haiti
 </td></tr>
 <tr><td width="50%">
 
-Hawaii
-
-</td><td width="50%">
-
-Hawaii
-
-</td></tr>
-<tr><td width="50%">
-
 Honduras
 
 </td><td width="50%">
@@ -608,47 +491,11 @@ ID
 </td></tr>
 <tr><td width="50%">
 
-Idaho
-
-</td><td width="50%">
-
-Idaho
-
-</td></tr>
-<tr><td width="50%">
-
-Illinois
-
-</td><td width="50%">
-
-Illinois
-
-</td></tr>
-<tr><td width="50%">
-
 India
 
 </td><td width="50%">
 
 India
-
-</td></tr>
-<tr><td width="50%">
-
-Indiana
-
-</td><td width="50%">
-
-Indiana
-
-</td></tr>
-<tr><td width="50%">
-
-Iowa
-
-</td><td width="50%">
-
-Iowa
 
 </td></tr>
 <tr><td width="50%">
@@ -667,24 +514,6 @@ Jamaica
 </td><td width="50%">
 
 Jamaica
-
-</td></tr>
-<tr><td width="50%">
-
-Kansas
-
-</td><td width="50%">
-
-Kansas
-
-</td></tr>
-<tr><td width="50%">
-
-Kentucky
-
-</td><td width="50%">
-
-Kentucky
 
 </td></tr>
 <tr><td width="50%">
@@ -743,15 +572,6 @@ Liechtenstein
 </td></tr>
 <tr><td width="50%">
 
-Louisiana
-
-</td><td width="50%">
-
-Louisiana
-
-</td></tr>
-<tr><td width="50%">
-
 Macao
 
 </td><td width="50%">
@@ -770,15 +590,6 @@ Madagascar
 </td></tr>
 <tr><td width="50%">
 
-Maine
-
-</td><td width="50%">
-
-Maine
-
-</td></tr>
-<tr><td width="50%">
-
 Malawi
 
 </td><td width="50%">
@@ -793,33 +604,6 @@ Malta
 </td><td width="50%">
 
 Malta
-
-</td></tr>
-<tr><td width="50%">
-
-Manitoba
-
-</td><td width="50%">
-
-Manitoba
-
-</td></tr>
-<tr><td width="50%">
-
-Maryland
-
-</td><td width="50%">
-
-Maryland
-
-</td></tr>
-<tr><td width="50%">
-
-Massachusetts
-
-</td><td width="50%">
-
-Massachusetts
 
 </td></tr>
 <tr><td width="50%">
@@ -851,42 +635,6 @@ Mayotte
 </td></tr>
 <tr><td width="50%">
 
-Michigan
-
-</td><td width="50%">
-
-Michigan
-
-</td></tr>
-<tr><td width="50%">
-
-Minnesota
-
-</td><td width="50%">
-
-Minnesota
-
-</td></tr>
-<tr><td width="50%">
-
-Mississippi
-
-</td><td width="50%">
-
-Mississippi
-
-</td></tr>
-<tr><td width="50%">
-
-Missouri
-
-</td><td width="50%">
-
-Missouri
-
-</td></tr>
-<tr><td width="50%">
-
 Moldova
 
 </td><td width="50%">
@@ -910,15 +658,6 @@ Mongolia
 </td><td width="50%">
 
 Mongolia
-
-</td></tr>
-<tr><td width="50%">
-
-Montana
-
-</td><td width="50%">
-
-Montana
 
 </td></tr>
 <tr><td width="50%">
@@ -959,74 +698,11 @@ Nauru
 </td></tr>
 <tr><td width="50%">
 
-Nebraska
-
-</td><td width="50%">
-
-Nebraska
-
-</td></tr>
-<tr><td width="50%">
-
 Nepal
 
 </td><td width="50%">
 
 Nepal
-
-</td></tr>
-<tr><td width="50%">
-
-Nevada
-
-</td><td width="50%">
-
-Nevada
-
-</td></tr>
-<tr><td width="50%">
-
-New Brunswick
-
-</td><td width="50%">
-
-New Brunswick
-
-</td></tr>
-<tr><td width="50%">
-
-New Hampshire
-
-</td><td width="50%">
-
-New Hampshire
-
-</td></tr>
-<tr><td width="50%">
-
-New Jersey
-
-</td><td width="50%">
-
-New Jersey
-
-</td></tr>
-<tr><td width="50%">
-
-New Mexico
-
-</td><td width="50%">
-
-New Mexico
-
-</td></tr>
-<tr><td width="50%">
-
-New York
-
-</td><td width="50%">
-
-New York
 
 </td></tr>
 <tr><td width="50%">
@@ -1067,65 +743,11 @@ Niue
 </td></tr>
 <tr><td width="50%">
 
-Nova Scotia
-
-</td><td width="50%">
-
-Nova Scotia
-
-</td></tr>
-<tr><td width="50%">
-
-Nunavut
-
-</td><td width="50%">
-
-Nunavut
-
-</td></tr>
-<tr><td width="50%">
-
-Ohio
-
-</td><td width="50%">
-
-Ohio
-
-</td></tr>
-<tr><td width="50%">
-
-Oklahoma
-
-</td><td width="50%">
-
-Oklahoma
-
-</td></tr>
-<tr><td width="50%">
-
 Oman
 
 </td><td width="50%">
 
 Oman
-
-</td></tr>
-<tr><td width="50%">
-
-Ontario
-
-</td><td width="50%">
-
-Ontario
-
-</td></tr>
-<tr><td width="50%">
-
-Oregon
-
-</td><td width="50%">
-
-Oregon
 
 </td></tr>
 <tr><td width="50%">
@@ -1175,15 +797,6 @@ Paraguay
 </td></tr>
 <tr><td width="50%">
 
-Pennsylvania
-
-</td><td width="50%">
-
-Pennsylvania
-
-</td></tr>
-<tr><td width="50%">
-
 Peru
 
 </td><td width="50%">
@@ -1211,15 +824,6 @@ Qatar
 </td></tr>
 <tr><td width="50%">
 
-Quebec
-
-</td><td width="50%">
-
-Quebec
-
-</td></tr>
-<tr><td width="50%">
-
 Rwanda
 
 </td><td width="50%">
@@ -1243,15 +847,6 @@ San Marino
 </td><td width="50%">
 
 San Marino
-
-</td></tr>
-<tr><td width="50%">
-
-Saskatchewan
-
-</td><td width="50%">
-
-Saskatchewan
 
 </td></tr>
 <tr><td width="50%">
@@ -1346,38 +941,11 @@ Tanzania
 </td></tr>
 <tr><td width="50%">
 
-Tennessee
-
-</td><td width="50%">
-
-Tennessee
-
-</td></tr>
-<tr><td width="50%">
-
-Texas
-
-</td><td width="50%">
-
-Texas
-
-</td></tr>
-<tr><td width="50%">
-
 Tokelau
 
 </td><td width="50%">
 
 Tokelau
-
-</td></tr>
-<tr><td width="50%">
-
-Token Can
-
-</td><td width="50%">
-
-Token Can
 
 </td></tr>
 <tr><td width="50%">
@@ -1445,15 +1013,6 @@ Uruguay
 </td></tr>
 <tr><td width="50%">
 
-Utah
-
-</td><td width="50%">
-
-Utah
-
-</td></tr>
-<tr><td width="50%">
-
 Uzbekistan
 
 </td><td width="50%">
@@ -1477,60 +1036,6 @@ Venezuela
 </td><td width="50%">
 
 Venezuela
-
-</td></tr>
-<tr><td width="50%">
-
-Vermont
-
-</td><td width="50%">
-
-Vermont
-
-</td></tr>
-<tr><td width="50%">
-
-Virginia
-
-</td><td width="50%">
-
-Virginia
-
-</td></tr>
-<tr><td width="50%">
-
-Washington
-
-</td><td width="50%">
-
-Washington
-
-</td></tr>
-<tr><td width="50%">
-
-Wisconsin
-
-</td><td width="50%">
-
-Wisconsin
-
-</td></tr>
-<tr><td width="50%">
-
-Wyoming
-
-</td><td width="50%">
-
-Wyoming
-
-</td></tr>
-<tr><td width="50%">
-
-Yukon
-
-</td><td width="50%">
-
-Yukon
 
 </td></tr>
 <tr><td width="50%">

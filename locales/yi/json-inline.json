@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "דעם פעלד מוזן זיין אַ גילטיק ראָלע.",
+    "The :attribute must be at least :length characters and contain at least one number.": "דאָס פעלד מוזן זיין לפּחות :length אותיות און אַנטהאַלטן לפּחות איין נומער.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "דעם פעלד מוזן זיין בייַ מינדסטער :length אותיות און אַנטהאַלטן לפּחות איין ספּעציעל כאַראַקטער און איין נומער.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "דעם פעלד מוזן זיין בייַ מינדסטער :length אותיות און אַנטהאַלטן לפּחות איין ספּעציעל כאַראַקטער.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "דעם פעלד מוזן זיין בייַ מינדסטער :length אותיות און אַנטהאַלטן לפּחות איין הויפּט אותיות און איין נומער.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "דעם פעלד מוזן זיין בייַ מינדסטער :length אותיות און אַנטהאַלטן בייַ מינדסטער איין הויפּט אותיות און איין ספּעציעל כאַראַקטער.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "דעם פעלד מוזן זיין בייַ מינדסטער :length אותיות און אַנטהאַלטן לפּחות איין הויפּט אותיות, איין נומער און איין ספּעציעל כאַראַקטער.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "דעם פעלד מוזן זיין בייַ מינדסטער :length אותיות און אַנטהאַלטן לפּחות איין ופּפּערקאַסע כאַראַקטער.",
+    "The :attribute must be at least :length characters.": "דעם פעלד מוזן זיין לפּחות :length אותיות.",
+    "The :attribute must contain at least one letter.": "דאס פעלד מוזן אַנטהאַלטן לפּחות איין בריוו.",
+    "The :attribute must contain at least one number.": "דאס פעלד מוזן אַנטהאַלטן לפּחות איין נומער.",
+    "The :attribute must contain at least one symbol.": "דאָס פעלד מוזן אַנטהאַלטן לפּחות איין סימבאָל.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "דאס פעלד מוזן אַנטהאַלטן לפּחות איין הויכער און איין קליין אותיות.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "די געגעבן פעלד איז ארויס אין אַ דאַטן רינען. ביטע קלייַבן אַ אַנדערש פעלד."
+}

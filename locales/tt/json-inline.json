@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "Бу өлкә дөрес роль булырга тиеш.",
+    "The :attribute must be at least :length characters and contain at least one number.": "Бу кыр ким дигәндә :length символ булырга тиеш һәм ким дигәндә бер сан булырга тиеш.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "Бу кыр ким дигәндә :length символ булырга тиеш һәм ким дигәндә бер махсус символ һәм бер сан булырга тиеш.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "Бу кыр ким дигәндә :length символ булырга тиеш һәм ким дигәндә бер махсус символ булырга тиеш.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "Бу кыр ким дигәндә :length символ булырга тиеш һәм ким дигәндә бер баш хәреф һәм бер сан булырга тиеш.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "Бу кыр ким дигәндә :length символ булырга тиеш, ким дигәндә бер баш хәреф һәм бер махсус символ булырга тиеш.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "Бу кыр ким дигәндә :length символ булырга тиеш һәм ким дигәндә бер баш хәреф, бер сан һәм бер махсус символ булырга тиеш.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "Бу кыр ким дигәндә :length символ булырга тиеш һәм ким дигәндә бер баш хәрефтән торырга тиеш.",
+    "The :attribute must be at least :length characters.": "Бу кыр ким дигәндә :length символ булырга тиеш.",
+    "The :attribute must contain at least one letter.": "Бу кырда ким дигәндә бер хәреф булырга тиеш.",
+    "The :attribute must contain at least one number.": "Бу кырда ким дигәндә бер сан булырга тиеш.",
+    "The :attribute must contain at least one symbol.": "Бу кырда ким дигәндә бер символ булырга тиеш.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "Бу кырда ким дигәндә бер баш хәреф һәм бер кечкенә хәреф булырга тиеш.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Бирелгән кыр мәгълүмат агып чыккан. Зинһар, бүтән кырны сайлагыз."
+}

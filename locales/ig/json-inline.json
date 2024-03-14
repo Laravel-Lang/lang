@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "Mpaghara a ga-abụrịrị ezigbo ọrụ.",
+    "The :attribute must be at least :length characters and contain at least one number.": "Ogige a ga-abụrịrị opekata mpe mkpụrụedemede iri ma nwee opekata mpe otu nọmba.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "Ogige a ga-abụrịrị opekata mpe mkpụrụedemede iri ma nwee opekata mpe otu mkpụrụedemede pụrụ iche na otu nọmba.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "Ogige a ga-abụrịrị opekata mpe mkpụrụedemede iri ma nwee opekata mpe otu agwa pụrụ iche.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "Ogige a ga-abụrịrị opekata mpe mkpụrụedemede iri ma nwee opekata mpe otu mkpụrụedemede ukwu na otu nọmba.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "Mpaghara a ga-abụrịrị opekata mpe mkpụrụedemede iri ma nwee opekata mpe otu mkpụrụedemede ukwu na otu agwa pụrụ iche.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "Ogige a ga-abụrịrị opekata mpe mkpụrụedemede iri ma nwee opekata mpe otu mkpụrụedemede ukwu, otu nọmba na otu agwa pụrụ iche.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "Ogige a ga-abụrịrị opekata mpe mkpụrụedemede iri ma nwee opekata mpe otu mkpụrụedemede ukwu.",
+    "The :attribute must be at least :length characters.": "Ogige a ga-abụrịrị opekata mpe mkpụrụedemede iri.",
+    "The :attribute must contain at least one letter.": "Ogige a ga-enwerịrị opekata mpe otu mkpụrụedemede.",
+    "The :attribute must contain at least one number.": "Ogige a ga-enwerịrị opekata mpe otu nọmba.",
+    "The :attribute must contain at least one symbol.": "Ogige a ga-enwerịrị opekata mpe otu akara.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "Ogige a ga-enwerịrị opekata mpe otu mkpụrụedemede ukwu na otu obere mkpụrụedemede.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Ogige enyere apụtala na mwepu data. Biko họrọ mpaghara ọzọ."
+}

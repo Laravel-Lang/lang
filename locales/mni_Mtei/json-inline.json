@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "ꯂꯝ ꯑꯁꯤ ꯆꯠꯅꯕꯥ ꯌꯥꯕꯥ ꯊꯧꯗꯥꯡ ꯑꯃꯥ ꯑꯣꯏꯒꯗꯕꯅꯤ꯫",
+    "The :attribute must be at least :length characters and contain at least one number.": "ꯐꯤꯜꯗ ꯑꯁꯤ ꯌꯥꯃꯗ꯭ꯔꯕꯗꯥ ꯆꯦꯛꯔꯦꯇꯔ ꯱꯰ ꯑꯣꯏꯒꯗꯕꯅꯤ ꯑꯃꯁꯨꯡ ꯌꯥꯃꯗ꯭ꯔꯕꯗꯥ ꯅꯝꯕꯔ ꯑꯃꯥ ꯌꯥꯑꯣꯒꯗꯕꯅꯤ꯫",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "ꯐꯤꯜꯗ ꯑꯁꯤ ꯌꯥꯃꯗ꯭ꯔꯕꯗꯥ ꯆꯦꯛꯔꯦꯇꯔ ꯱꯰ ꯑꯣꯏꯒꯗꯕꯅꯤ ꯑꯃꯁꯨꯡ ꯌꯥꯃꯗ꯭ꯔꯕꯗꯥ ꯑꯈꯟꯅꯕꯥ ꯆꯦꯛꯔꯦꯇꯔ ꯑꯃꯥ ꯑꯃꯁꯨꯡ ꯅꯝꯕꯔ ꯑꯃꯥ ꯌꯥꯑꯣꯒꯗꯕꯅꯤ꯫",
+    "The :attribute must be at least :length characters and contain at least one special character.": "ꯐꯤꯜꯗ ꯑꯁꯤ ꯌꯥꯃꯗ꯭ꯔꯕꯗꯥ ꯆꯦꯛꯔꯦꯇꯔ ꯱꯰ ꯑꯣꯏꯒꯗꯕꯅꯤ ꯑꯃꯁꯨꯡ ꯌꯥꯃꯗ꯭ꯔꯕꯗꯥ ꯑꯈꯟꯅꯕꯥ ꯆꯦꯛꯔꯦꯇꯔ ꯑꯃꯥ ꯌꯥꯑꯣꯒꯗꯕꯅꯤ꯫",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "ꯐꯤꯜꯗ ꯑꯁꯤ ꯌꯥꯃꯗ꯭ꯔꯕꯗꯥ ꯆꯦꯛꯔꯦꯇꯔ ꯱꯰ ꯑꯣꯏꯒꯗꯕꯅꯤ ꯑꯃꯁꯨꯡ ꯌꯥꯃꯗ꯭ꯔꯕꯗꯥ ꯑꯆꯧꯕꯥ ꯆꯦꯛꯔꯦꯇꯔ ꯑꯃꯥ ꯑꯃꯁꯨꯡ ꯅꯝꯕꯔ ꯑꯃꯥ ꯌꯥꯑꯣꯒꯗꯕꯅꯤ꯫",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "ꯐꯤꯜꯗ ꯑꯁꯤ ꯌꯥꯃꯗ꯭ꯔꯕꯗꯥ ꯆꯦꯛꯔꯦꯇꯔ ꯱꯰ ꯑꯣꯏꯒꯗꯕꯅꯤ ꯑꯃꯁꯨꯡ ꯌꯥꯃꯗ꯭ꯔꯕꯗꯥ ꯑꯆꯧꯕꯥ ꯆꯦꯛꯔꯦꯇꯔ ꯑꯃꯥ ꯑꯃꯁꯨꯡ ꯑꯈꯟꯅꯕꯥ ꯆꯦꯛꯔꯦꯇꯔ ꯑꯃꯥ ꯌꯥꯑꯣꯒꯗꯕꯅꯤ꯫",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "ꯐꯤꯜꯗ ꯑꯁꯤ ꯌꯥꯃꯗ꯭ꯔꯕꯗꯥ ꯆꯦꯛꯔꯦꯇꯔ ꯱꯰ ꯑꯣꯏꯒꯗꯕꯅꯤ ꯑꯃꯁꯨꯡ ꯌꯥꯃꯗ꯭ꯔꯕꯗꯥ ꯑꯆꯧꯕꯥ ꯆꯦꯛꯔꯦꯇꯔ ꯑꯃꯥ, ꯅꯝꯕꯔ ꯑꯃꯥ ꯑꯃꯁꯨꯡ ꯑꯈꯟꯅꯕꯥ ꯆꯦꯛꯔꯦꯇꯔ ꯑꯃꯥ ꯌꯥꯑꯣꯒꯗꯕꯅꯤ꯫",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "ꯐꯤꯜꯗ ꯑꯁꯤ ꯌꯥꯃꯗ꯭ꯔꯕꯗꯥ ꯑꯛꯁꯔ ꯱꯰ ꯑꯣꯏꯒꯗꯕꯅꯤ ꯑꯃꯁꯨꯡ ꯌꯥꯃꯗ꯭ꯔꯕꯗꯥ ꯑꯆꯧꯕꯥ ꯑꯛꯁꯔ ꯑꯃꯥ ꯌꯥꯑꯣꯒꯗꯕꯅꯤ꯫",
+    "The :attribute must be at least :length characters.": "ꯐꯤꯜꯗ ꯑꯁꯤ ꯌꯥꯃꯗ꯭ꯔꯕꯗꯥ ꯆꯦꯛꯔꯦꯇꯔ ꯱꯰ ꯑꯣꯏꯒꯗꯕꯅꯤ꯫",
+    "The :attribute must contain at least one letter.": "ꯐꯤꯜꯗ ꯑꯁꯤꯗꯥ ꯌꯥꯃꯗ꯭ꯔꯕꯗꯥ ꯑꯛꯁꯔ ꯑꯃꯥ ꯌꯥꯑꯣꯒꯗꯕꯅꯤ꯫",
+    "The :attribute must contain at least one number.": "ꯐꯤꯜꯗ ꯑꯁꯤꯗꯥ ꯌꯥꯃꯗ꯭ꯔꯕꯗꯥ ꯅꯝꯕꯔ ꯑꯃꯥ ꯌꯥꯑꯣꯒꯗꯕꯅꯤ꯫",
+    "The :attribute must contain at least one symbol.": "ꯐꯤꯜꯗ ꯑꯁꯤꯗꯥ ꯌꯥꯃꯗ꯭ꯔꯕꯗꯥ ꯁꯤꯝꯕꯣꯜ ꯑꯃꯥ ꯌꯥꯑꯣꯒꯗꯕꯅꯤ꯫",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "ꯐꯤꯜꯗ ꯑꯁꯤꯗꯥ ꯌꯥꯃꯗ꯭ꯔꯕꯗꯥ ꯑꯆꯧꯕꯥ ꯑꯛꯁꯔ ꯑꯃꯥ ꯑꯃꯁꯨꯡ ꯑꯄꯤꯀꯄꯥ ꯑꯛꯁꯔ ꯑꯃꯥ ꯌꯥꯑꯣꯒꯗꯕꯅꯤ꯫",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "ꯄꯤꯔꯤꯕꯥ ꯐꯤꯜꯗ ꯑꯁꯤ ꯗꯦꯇꯥ ꯂꯤꯛ ꯑꯃꯗꯥ ꯎꯕꯥ ꯐꯪꯂꯦ꯫ ꯆꯥꯅꯕꯤꯗꯨꯅꯥ ꯇꯣꯉꯥꯅꯕꯥ ꯂꯝ ꯑꯃꯥ ꯈꯅꯕꯤꯌꯨ꯫"
+}

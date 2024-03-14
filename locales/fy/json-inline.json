@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "Dit fjild moat in jildige rol wêze.",
+    "The :attribute must be at least :length characters and contain at least one number.": "Dit fjild moat op syn minst :length karakters wêze en op syn minst ien nûmer befetsje.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "Dit fjild moat op syn minst :length karakters wêze en op syn minst ien spesjaal karakter en ien nûmer befetsje.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "Dit fjild moat op syn minst :length karakters wêze en op syn minst ien spesjaal karakter befetsje.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "Dit fjild moat op syn minst :length karakters wêze en op syn minst ien haadletter en ien nûmer befetsje.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "Dit fjild moat op syn minst :length karakters wêze en op syn minst ien haadletter en ien spesjaal karakter befetsje.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "Dit fjild moat op syn minst :length karakters wêze en op syn minst ien haadletter, ien nûmer en ien spesjaal karakter befetsje.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "Dit fjild moat op syn minst :length karakters wêze en op syn minst ien haadletter befetsje.",
+    "The :attribute must be at least :length characters.": "Dit fjild moat op syn minst :length karakters wêze.",
+    "The :attribute must contain at least one letter.": "Dit fjild moat op syn minst ien letter befetsje.",
+    "The :attribute must contain at least one number.": "Dit fjild moat op syn minst ien nûmer befetsje.",
+    "The :attribute must contain at least one symbol.": "Dit fjild moat op syn minst ien symboal befetsje.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "Dit fjild moat op syn minst ien haadletter en ien lytse letter befetsje.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "It opjûne fjild is ferskynd yn in gegevenslek. Kies asjebleaft in oar fjild."
+}

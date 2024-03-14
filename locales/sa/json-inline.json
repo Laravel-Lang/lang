@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "एतत् क्षेत्रं वैधभूमिका भवितुमर्हति ।",
+    "The :attribute must be at least :length characters and contain at least one number.": "एतत् क्षेत्रं न्यूनातिन्यूनं १० वर्णाः भवितुमर्हति, न्यूनातिन्यूनम् एकः सङ्ख्या च भवितुमर्हति ।",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "एतत् क्षेत्रं न्यूनातिन्यूनं १० वर्णाः भवितुमर्हन्ति, न्यूनातिन्यूनम् एकः विशेषवर्णः एकः सङ्ख्या च भवितुमर्हति ।",
+    "The :attribute must be at least :length characters and contain at least one special character.": "एतत् क्षेत्रं न्यूनातिन्यूनं १० वर्णाः भवितुमर्हति, न्यूनातिन्यूनम् एकं विशेषवर्णं च भवितुमर्हति ।",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "एतत् क्षेत्रं न्यूनातिन्यूनं १० वर्णाः भवितुमर्हति, न्यूनातिन्यूनम् एकः बृहत् वर्णः एकः सङ्ख्या च भवितुमर्हति ।",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "एतत् क्षेत्रं न्यूनातिन्यूनं १० वर्णाः भवितुमर्हति, न्यूनातिन्यूनम् एकः बृहत्वर्णः एकः विशेषवर्णः च भवितुमर्हति ।",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "एतत् क्षेत्रं न्यूनातिन्यूनं १० वर्णाः भवितुमर्हति, न्यूनातिन्यूनम् एकः बृहत् वर्णः, एकः सङ्ख्या, एकः विशेषवर्णः च भवितुमर्हति ।",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "एतत् क्षेत्रं न्यूनातिन्यूनं १० वर्णाः भवितुमर्हन्ति, न्यूनातिन्यूनम् एकं बृहत् वर्णं च भवितुमर्हति ।",
+    "The :attribute must be at least :length characters.": "एतत् क्षेत्रं न्यूनातिन्यूनं १० वर्णाः भवितुमर्हन्ति ।",
+    "The :attribute must contain at least one letter.": "अस्मिन् क्षेत्रे न्यूनातिन्यूनम् एकं अक्षरं भवितुमर्हति ।",
+    "The :attribute must contain at least one number.": "अस्मिन् क्षेत्रे न्यूनातिन्यूनम् एकः सङ्ख्या भवितुमर्हति ।",
+    "The :attribute must contain at least one symbol.": "अस्मिन् क्षेत्रे न्यूनातिन्यूनम् एकं चिह्नं भवितुमर्हति ।",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "अस्मिन् क्षेत्रे न्यूनातिन्यूनम् एकः उदात्तः, एकः लघुः च अक्षरः भवितुमर्हति ।",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "दत्तं क्षेत्रं दत्तांशलीक् मध्ये प्रकटितम् अस्ति । कृपया भिन्नं क्षेत्रं चिनुत।"
+}

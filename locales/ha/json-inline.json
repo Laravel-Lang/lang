@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "Dole ne wannan filin ya zama ingantaccen aiki.",
+    "The :attribute must be at least :length characters and contain at least one number.": "Dole ne wannan filin ya zama aƙalla haruffa :length kuma ya ƙunshi aƙalla lamba ɗaya.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "Dole ne wannan filin ya zama aƙalla haruffa :length kuma ya ƙunshi aƙalla harafi ɗaya na musamman da lamba ɗaya.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "Dole ne wannan filin ya zama aƙalla haruffa :length kuma ya ƙunshi aƙalla harafi ɗaya na musamman.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "Dole ne wannan filin ya zama aƙalla haruffa :length kuma ya ƙunshi aƙalla haruffa babba ɗaya da lamba ɗaya.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "Dole ne wannan filin ya zama aƙalla haruffa :length kuma ya ƙunshi aƙalla haruffa babba ɗaya da harafi ɗaya na musamman.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "Dole ne wannan filin ya kasance aƙalla haruffa :length kuma ya ƙunshi aƙalla haruffa babba ɗaya, lamba ɗaya, da harafi ɗaya na musamman.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "Dole ne wannan filin ya zama aƙalla haruffa :length kuma ya ƙunshi aƙalla harafi guda ɗaya.",
+    "The :attribute must be at least :length characters.": "Dole ne wannan filin ya zama aƙalla haruffa :length.",
+    "The :attribute must contain at least one letter.": "Dole ne wannan filin ya ƙunshi aƙalla harafi ɗaya.",
+    "The :attribute must contain at least one number.": "Dole ne wannan filin ya ƙunshi aƙalla lamba ɗaya.",
+    "The :attribute must contain at least one symbol.": "Dole ne wannan filin ya ƙunshi aƙalla alama ɗaya.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "Dole ne wannan filin ya ƙunshi aƙalla babban harafi ɗaya da ƙaramin harafi ɗaya.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Filin da aka bayar ya bayyana a cikin zubewar bayanai. Da fatan za a zaɓi wani filin daban."
+}

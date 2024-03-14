@@ -56,7 +56,7 @@
     "ipv4": "Ity saha ity dia tokony ho adiresy IPv4 manan-kery.",
     "ipv6": "Ity saha ity dia tsy maintsy adiresy IPv6 manankery.",
     "json": "Tokony ho tady JSON manankery ity saha ity.",
-    "list": "This field must be a list.",
+    "list": "Ity saha ity dia tsy maintsy lisitra.",
     "lowercase": "Tsy maintsy litera kely ity saha ity.",
     "lt.array": "Ity saha ity dia tsy maintsy manana singa latsaky ny :value.",
     "lt.file": "Tokony ho latsaky ny :value kilobytes ity saha ity.",

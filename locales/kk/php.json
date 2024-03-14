@@ -58,7 +58,7 @@
     "ipv4": ":Attribute жарамды IPv4 мекенжайы болуы керек.",
     "ipv6": ":Attribute жарамды IPv6 мекенжайы болуы керек.",
     "json": ":Attribute жарамды JSON тармағы болуы керек.",
-    "list": "The :attribute field must be a list.",
+    "list": ":attribute өріс тізім болуы керек.",
     "lowercase": ":Attribute кіші әріп болуы керек.",
     "lt.array": ":Attribute мәні :value элементтерден кіші болуы керек.",
     "lt.file": ":Attribute файл өлшемі :value килобайттан кіші болуы керек.",

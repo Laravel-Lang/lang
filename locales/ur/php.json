@@ -58,7 +58,7 @@
     "ipv4": "اس :attribute ہونا ضروری ہے ایک درست IPv4 ایڈریس.",
     "ipv6": "اس :attribute ہونا ضروری ہے ایک درست IPv6 ایڈریس.",
     "json": ":Attribute لازماً قابلِ قبول JSON سٹرِنگ ہو۔",
-    "list": "The :attribute field must be a list.",
+    "list": ":attribute فیلڈ ایک فہرست ہونی چاہیے۔",
     "lowercase": ":Attribute کو چھوٹا ہونا چاہیے۔",
     "lt.array": ":Attribute میں :value سے کم اشیاء ہونی چاہئیں۔",
     "lt.file": ":Attribute :value کلو بائٹس سے کم ہونا چاہیے۔",

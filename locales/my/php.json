@@ -58,7 +58,7 @@
     "ipv4": ":attribute သည် တရားဝင် IPv4 လိပ်စာဖြစ်ရမည်။",
     "ipv6": ":attribute သည် တရားဝင် IPv6 လိပ်စာဖြစ်ရမည်။",
     "json": ":attribute သည် တရားဝင် JSON စာကြောင်းဖြစ်ရပါမည်။",
-    "list": "The :attribute field must be a list.",
+    "list": "အကွက် :attribute သည် စာရင်းတစ်ခု ဖြစ်ရပါမည်။",
     "lowercase": "အကွက် :attribute သည် စာလုံးသေးဖြစ်ရမည်။",
     "lt.array": ":attribute တွင် ပစ္စည်း :value ထက်နည်းရမည်။",
     "lt.file": ":attribute သည် :value ကီလိုဘိုက်ထက်နည်းရမည်။",

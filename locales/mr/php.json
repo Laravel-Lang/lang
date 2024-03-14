@@ -58,7 +58,7 @@
     "ipv4": ":Attribute एक वैध IPv4 address असावा.",
     "ipv6": ":Attribute एक वैध IPv6 address असावा.",
     "json": ":Attribute एक वैध JSON स्ट्रिंग असावा.",
-    "list": "The :attribute field must be a list.",
+    "list": ":attribute फील्ड एक सूची असणे आवश्यक आहे.",
     "lowercase": ":Attribute लोअरकेस असणे आवश्यक आहे.",
     "lt.array": ":Attribute, :value संख्या पेक्षा कमी असावी.",
     "lt.file": ":Attribute, :value किलो बाईट पेक्षा कमी असावी.",

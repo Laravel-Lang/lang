@@ -58,7 +58,7 @@
     "ipv4": "මෙම :attribute වලංගු IPv4 ලිපිනය විය යුතුය.",
     "ipv6": "මෙම :attribute වලංගු IPv6 ලිපිනය විය යුතුය.",
     "json": "මෙම :attribute වලංගු JSON පේළියක් විය යුතුය.",
-    "list": "The :attribute field must be a list.",
+    "list": ":attribute ක්ෂේත්‍රය ලැයිස්තුවක් විය යුතුය.",
     "lowercase": ":Attribute කුඩා අකුරු විය යුතුය.",
     "lt.array": "මෙම :attribute එක :value ට වඩා අඩු අයිතම ගණනක් විය යුතුය.",
     "lt.file": "මෙම :attribute එක :value ට වඩා අඩු කිලෝබයිට් ගණනක් විය යුතුය.",

@@ -58,7 +58,7 @@
     "ipv4": ":attribute жарактуу IPv4 дареги болушу керек.",
     "ipv6": ":attribute жарактуу IPv6 дареги болушу керек.",
     "json": ":attribute жарактуу JSON сап болушу керек.",
-    "list": "The :attribute field must be a list.",
+    "list": ":attribute талаасы тизме болушу керек.",
     "lowercase": ":attribute талаасы кичине тамга болушу керек.",
     "lt.array": ":attributeдо :valueдан аз нерсе болушу керек.",
     "lt.file": ":attribute :value килобайттан аз болушу керек.",

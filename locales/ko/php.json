@@ -58,7 +58,7 @@
     "ipv4": ":Attribute은(는) 유효한 IPv4 주소여야 합니다.",
     "ipv6": ":Attribute은(는) 유효한 IPv6 주소여야 합니다.",
     "json": ":Attribute은(는) JSON 문자열이어야 합니다.",
-    "list": "The :attribute field must be a list.",
+    "list": ":attribute 필드는 목록이어야 합니다.",
     "lowercase": ":Attribute은 소문자여야 합니다.",
     "lt.array": ":Attribute의 항목 수는 :value개 보다 작아야 합니다.",
     "lt.file": ":Attribute의 용량은 :value킬로바이트보다 작아야 합니다.",

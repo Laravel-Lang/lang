@@ -58,7 +58,7 @@
     "ipv4": "Déi :attribute muss eng valabel IPv4 Adress sinn.",
     "ipv6": "Déi :attribute muss eng valabel IPv6 Adress sinn.",
     "json": "Den :attribute muss eng valabel JSON String sinn.",
-    "list": "The :attribute field must be a list.",
+    "list": "Den :attribute Feld muss eng Lëscht sinn.",
     "lowercase": "Den :attribute Feld muss kleng sinn.",
     "lt.array": "Déi :attribute mussen manner wéi :value Elementer hunn.",
     "lt.file": "Déi :attribute musse manner wéi :value kilobytes sinn.",

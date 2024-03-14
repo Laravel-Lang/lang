@@ -56,7 +56,7 @@
     "ipv4": "This must be a valid IPv4 address.",
     "ipv6": "This must be a valid IPv6 address.",
     "json": "This must be a valid JSON string.",
-    "list": "This field must be a list.",
+    "list": "Ang field na ito ay dapat na isang listahan.",
     "lowercase": "Ang field na ito ay dapat na lowercase.",
     "lt.array": "The content must have less than :value items.",
     "lt.file": "The file size must be less than :value kilobytes.",

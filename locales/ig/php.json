@@ -58,7 +58,7 @@
     "ipv4": ":attribute ahụ ga-abụrịrị adreesị IPv4 bara uru.",
     "ipv6": ":attribute ahụ ga-abụrịrị adreesị IPv6 bara uru.",
     "json": ":attribute ahụ ga-abụrịrị eriri JSON bara uru.",
-    "list": "The :attribute field must be a list.",
+    "list": "Ogige iri ahụ ga-abụrịrị ndepụta.",
     "lowercase": "Oghere iri ahụ ga-abụrịrị obere mkpụrụedemede.",
     "lt.array": ":attribute ahụ ga-enwerịrị ihe na-erughị ihe iri abụọ.",
     "lt.file": ":attribute ga-erughị :value kilobytes.",

@@ -58,7 +58,7 @@
     "ipv4": ":Attribute verður að vera gild IPv4-tala.",
     "ipv6": ":Attribute verður að vera gild IPv6-tala.",
     "json": ":Attribute verður að vera gildur JSON-strengur.",
-    "list": "The :attribute field must be a list.",
+    "list": "Reiturinn :attribute verður að vera listi.",
     "lowercase": ":Attribute verða að vera lágstafir.",
     "lt.array": ":Attribute verður að hafa færri en :value atriði.",
     "lt.file": ":Attribute verður að vera minni en :value kílóbæti.",

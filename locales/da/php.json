@@ -58,7 +58,7 @@
     "ipv4": ":Attribute skal være en gyldig IPv4 adresse.",
     "ipv6": ":Attribute skal være en gyldig IPv6 adresse.",
     "json": ":Attribute skal være en gyldig JSON streng.",
-    "list": "The :attribute field must be a list.",
+    "list": "Feltet :attribute skal være en liste.",
     "lowercase": "De :attribute skal være små bogstaver.",
     "lt.array": ":Attribute skal have mindre end :value items.",
     "lt.file": ":Attribute skal være mindre end :value kilobytes.",

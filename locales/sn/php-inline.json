@@ -56,7 +56,7 @@
     "ipv4": "Nzvimbo iyi inofanira kunge iri kero yeIPv4 inoshanda.",
     "ipv6": "Nzvimbo iyi inofanira kunge iri kero yeIPv6 inoshanda.",
     "json": "Iyi ndima inofanirwa kunge iri tambo yeJSON inoshanda.",
-    "list": "This field must be a list.",
+    "list": "Iyi ndima inofanira kunge iri rondedzero.",
     "lowercase": "Munda uyu unofanira kuva vadiki.",
     "lt.array": "Nzvimbo iyi inofanirwa kunge iine zvinhu zvisingasviki gumi.",
     "lt.file": "Iyi ndima inofanira kunge iri pasi pe:value kilobytes.",

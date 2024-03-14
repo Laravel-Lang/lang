@@ -58,7 +58,7 @@
     "ipv4": "ข้อมูล :attribute ต้องตรงตามรูปแบบที่อยู่ IPv4",
     "ipv6": "ข้อมูล :attribute ต้องตรงตามรูปแบบที่อยู่ IPv6",
     "json": "ข้อมูล :attribute ต้องเป็นอักขระ JSON ที่สมบูรณ์",
-    "list": "The :attribute field must be a list.",
+    "list": "ช่อง :attribute ต้องเป็นรายการ",
     "lowercase": ":attribute ต้องเป็นตัวพิมพ์เล็ก",
     "lt.array": "ข้อมูล :attribute ต้องมีน้อยกว่า :value ค่า",
     "lt.file": "ข้อมูล :attribute ต้องมีขนาดน้อยกว่า :value กิโลไบต์",

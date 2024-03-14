@@ -58,7 +58,7 @@
     "ipv4": "Caithfidh an :attribute a bheith ina sheoladh IPv4 bailí.",
     "ipv6": "Caithfidh an :attribute a bheith ina sheoladh IPv6 bailí.",
     "json": "Caithfidh an :attribute a bheith ina teaghrán JSON bailí.",
-    "list": "The :attribute field must be a list.",
+    "list": "Ní mór liosta a bheith sa réimse :attribute.",
     "lowercase": "Caithfidh an :attribute bpáirc a bheith ina chás íochtair.",
     "lt.array": "Caithfidh níos lú ná :value mír a bheith sna :attribute gcinn.",
     "lt.file": "Caithfidh an :attribute a bheith níos lú ná :value cilibheart.",

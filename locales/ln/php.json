@@ -58,7 +58,7 @@
     "ipv4": "Ba :attribute esengeli kozala adresse IPv4 ya malamu.",
     "ipv6": "Esengeli :attribute ezala adresse IPv6 ya malamu.",
     "json": "Esengeli :attribute ezala molongo ya JSON ya malamu.",
-    "list": "The :attribute field must be a list.",
+    "list": "Esika ya :attribute esengeli kozala liste.",
     "lowercase": "Esika ya :attribute esengeli kozala na makomi mike.",
     "lt.array": "Ba :attribute esengeli kozala na biloko na se ya :value.",
     "lt.file": "Esengeli :attribute ezala na se ya :value kilobytes.",

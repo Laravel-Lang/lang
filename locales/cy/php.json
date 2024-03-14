@@ -58,7 +58,7 @@
     "ipv4": "Y :attribute rhaid iddo fod yn ddilys ar IPv4 cyfeiriad.",
     "ipv6": "Y :attribute rhaid iddo fod yn ddilys cyfeiriad IPv6.",
     "json": "Y :attribute rhaid iddo fod yn ddilys JSON llinyn.",
-    "list": "The :attribute field must be a list.",
+    "list": "Rhaid i'r maes :attribute fod yn rhestr.",
     "lowercase": "Rhaid i'r :attribute fod yn llythrennau bach.",
     "lt.array": "Rhaid i'r :attribute fod â llai na :value o eitemau.",
     "lt.file": "Rhaid i'r :attribute fod yn llai na :value cilobeit.",

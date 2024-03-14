@@ -58,7 +58,7 @@
     "ipv4": "Ang :attribute kinahanglan usa ka balido nga IPv4 nga adres.",
     "ipv6": "Ang :attribute kinahanglan usa ka balido nga IPv6 nga adres.",
     "json": "Ang :attribute kinahanglan usa ka balido nga JSON string.",
-    "list": "The :attribute field must be a list.",
+    "list": "Ang :attribute nga natad kinahanglan usa ka lista.",
     "lowercase": "Ang :attribute nga field kinahanglan nga lowercase.",
     "lt.array": "Ang :attribute kinahanglan adunay ubos sa :value ka mga butang.",
     "lt.file": "Ang :attribute kinahanglan nga ubos pa sa :value ka kilobytes.",

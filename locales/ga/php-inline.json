@@ -56,7 +56,7 @@
     "ipv4": "Ní mór seoladh IPv4 bailí a bheith sa réimse seo.",
     "ipv6": "Ní mór seoladh IPv6 bailí a bheith sa réimse seo.",
     "json": "Caithfidh an réimse seo a bheith ina theaghrán JSON bailí.",
-    "list": "This field must be a list.",
+    "list": "Ní mór liosta a bheith sa réimse seo.",
     "lowercase": "Ní mór cás íochtair a bheith sa réimse seo.",
     "lt.array": "Caithfidh níos lú ná :value n-earra a bheith sa réimse seo.",
     "lt.file": "Ní mór don réimse seo a bheith níos lú ná :value cilibheart.",

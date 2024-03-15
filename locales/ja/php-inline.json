@@ -22,7 +22,7 @@
     "date": "有効な日付ではありません。",
     "date_equals": ":Date 同じ日付を指定してください。",
     "date_format": ":Format の形と一致しません。",
-    "decimal": "小数点以下が:decimalでなければなりません。　",
+    "decimal": "小数点以下が:decimalでなければなりません。",
     "declined": "拒否する必要があります。",
     "declined_if": ":Otherが:valueである場合、拒否する必要があります。",
     "different": ":Otherとは異なる値を指定する必要があります。",

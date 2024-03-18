@@ -4,12 +4,12 @@ editLink: false
 
 # sn
 
-##### All missed: 198
+##### All missed: 199
 
 
 ### json
 
-##### Missing: 198
+##### Missing: 199
 
 <table width="100%">
 <tr><th width="50%">
@@ -1558,6 +1558,15 @@ Team Settings
 </td><td width="50%">
 
 Team Settings
+
+</td></tr>
+<tr><td width="50%">
+
+This action is unauthorized.
+
+</td><td width="50%">
+
+This action is unauthorized.
 
 </td></tr>
 <tr><td width="50%">

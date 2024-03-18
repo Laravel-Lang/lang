@@ -4,12 +4,12 @@ editLink: false
 
 # cy
 
-##### All missed: 9
+##### All missed: 10
 
 
 ### json
 
-##### Missing: 9
+##### Missing: 10
 
 <table width="100%">
 <tr><th width="50%">
@@ -100,6 +100,15 @@ System
 </td><td width="50%">
 
 System
+
+</td></tr>
+<tr><td width="50%">
+
+This action is unauthorized.
+
+</td><td width="50%">
+
+This action is unauthorized.
 
 </td></tr>
 </table>

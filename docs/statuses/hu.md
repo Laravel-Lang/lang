@@ -4,12 +4,12 @@ editLink: false
 
 # hu
 
-##### All missed: 62
+##### All missed: 63
 
 
 ### json
 
-##### Missing: 62
+##### Missing: 63
 
 <table width="100%">
 <tr><th width="50%">
@@ -505,6 +505,15 @@ Suriname
 </td><td width="50%">
 
 Suriname
+
+</td></tr>
+<tr><td width="50%">
+
+This action is unauthorized.
+
+</td><td width="50%">
+
+This action is unauthorized.
 
 </td></tr>
 <tr><td width="50%">

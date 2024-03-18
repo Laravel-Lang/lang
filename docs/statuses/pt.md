@@ -4,12 +4,12 @@ editLink: false
 
 # pt
 
-##### All missed: 11
+##### All missed: 12
 
 
 ### json
 
-##### Missing: 11
+##### Missing: 12
 
 <table width="100%">
 <tr><th width="50%">
@@ -100,6 +100,15 @@ Nauru
 </td><td width="50%">
 
 Nauru
+
+</td></tr>
+<tr><td width="50%">
+
+This action is unauthorized.
+
+</td><td width="50%">
+
+This action is unauthorized.
 
 </td></tr>
 <tr><td width="50%">

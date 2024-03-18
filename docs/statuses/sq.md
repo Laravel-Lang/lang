@@ -4,12 +4,12 @@ editLink: false
 
 # sq
 
-##### All missed: 48
+##### All missed: 49
 
 
 ### json
 
-##### Missing: 48
+##### Missing: 49
 
 <table width="100%">
 <tr><th width="50%">
@@ -379,6 +379,15 @@ Tanzania
 </td><td width="50%">
 
 Tanzania
+
+</td></tr>
+<tr><td width="50%">
+
+This action is unauthorized.
+
+</td><td width="50%">
+
+This action is unauthorized.
 
 </td></tr>
 <tr><td width="50%">

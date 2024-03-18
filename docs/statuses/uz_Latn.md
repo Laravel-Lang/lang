@@ -4,7 +4,7 @@ editLink: false
 
 # uz_Latn
 
-##### All missed: 402
+##### All missed: 403
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 335
+##### Missing: 336
 
 <table width="100%">
 <tr><th width="50%">
@@ -2577,6 +2577,15 @@ This account does not have an active subscription.
 </td><td width="50%">
 
 This account does not have an active subscription.
+
+</td></tr>
+<tr><td width="50%">
+
+This action is unauthorized.
+
+</td><td width="50%">
+
+This action is unauthorized.
 
 </td></tr>
 <tr><td width="50%">

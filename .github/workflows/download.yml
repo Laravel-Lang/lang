@@ -13,7 +13,7 @@ jobs:
         strategy:
             fail-fast: true
             matrix:
-                version: [ "10.x", "11.x", "master" ]
+                version: [ "10.x" ]
         with:
             project: Laravel Framework ${{ matrix.version }}
             paths: source/framework/${{ matrix.version }}/*

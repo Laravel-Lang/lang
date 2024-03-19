@@ -4,12 +4,12 @@ editLink: false
 
 # et
 
-##### All missed: 6
+##### All missed: 5
 
 
 ### json
 
-##### Missing: 6
+##### Missing: 5
 
 <table width="100%">
 <tr><th width="50%">
@@ -55,15 +55,6 @@ Sint Maarten (Dutch part)
 </td><td width="50%">
 
 Sint Maarten
-
-</td></tr>
-<tr><td width="50%">
-
-This action is unauthorized.
-
-</td><td width="50%">
-
-This action is unauthorized.
 
 </td></tr>
 <tr><td width="50%">

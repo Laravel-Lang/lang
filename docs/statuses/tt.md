@@ -4,12 +4,12 @@ editLink: false
 
 # tt
 
-##### All missed: 7
+##### All missed: 6
 
 
 ### json
 
-##### Missing: 7
+##### Missing: 6
 
 <table width="100%">
 <tr><th width="50%">
@@ -64,15 +64,6 @@ of
 </td><td width="50%">
 
 of
-
-</td></tr>
-<tr><td width="50%">
-
-This action is unauthorized.
-
-</td><td width="50%">
-
-This action is unauthorized.
 
 </td></tr>
 <tr><td width="50%">

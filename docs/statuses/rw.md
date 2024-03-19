@@ -4,12 +4,12 @@ editLink: false
 
 # rw
 
-##### All missed: 94
+##### All missed: 93
 
 
 ### json
 
-##### Missing: 94
+##### Missing: 93
 
 <table width="100%">
 <tr><th width="50%">
@@ -775,15 +775,6 @@ Tajikistan
 </td><td width="50%">
 
 Tajikistan
-
-</td></tr>
-<tr><td width="50%">
-
-This action is unauthorized.
-
-</td><td width="50%">
-
-This action is unauthorized.
 
 </td></tr>
 <tr><td width="50%">

@@ -4,12 +4,12 @@ editLink: false
 
 # gl
 
-##### All missed: 83
+##### All missed: 82
 
 
 ### json
 
-##### Missing: 83
+##### Missing: 82
 
 <table width="100%">
 <tr><th width="50%">
@@ -667,15 +667,6 @@ Tanzania
 </td><td width="50%">
 
 Tanzania
-
-</td></tr>
-<tr><td width="50%">
-
-This action is unauthorized.
-
-</td><td width="50%">
-
-This action is unauthorized.
 
 </td></tr>
 <tr><td width="50%">

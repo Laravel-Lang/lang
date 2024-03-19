@@ -4,12 +4,12 @@ editLink: false
 
 # uz_Cyrl
 
-##### All missed: 35
+##### All missed: 34
 
 
 ### json
 
-##### Missing: 35
+##### Missing: 34
 
 <table width="100%">
 <tr><th width="50%">
@@ -289,15 +289,6 @@ Sudan
 </td><td width="50%">
 
 Sudan
-
-</td></tr>
-<tr><td width="50%">
-
-This action is unauthorized.
-
-</td><td width="50%">
-
-This action is unauthorized.
 
 </td></tr>
 <tr><td width="50%">

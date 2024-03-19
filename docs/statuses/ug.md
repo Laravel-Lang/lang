@@ -4,12 +4,12 @@ editLink: false
 
 # ug
 
-##### All missed: 101
+##### All missed: 100
 
 
 ### json
 
-##### Missing: 101
+##### Missing: 100
 
 <table width="100%">
 <tr><th width="50%">
@@ -838,15 +838,6 @@ Team Owner
 </td><td width="50%">
 
 Team Owner
-
-</td></tr>
-<tr><td width="50%">
-
-This action is unauthorized.
-
-</td><td width="50%">
-
-This action is unauthorized.
 
 </td></tr>
 <tr><td width="50%">

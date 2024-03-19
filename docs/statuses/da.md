@@ -4,12 +4,12 @@ editLink: false
 
 # da
 
-##### All missed: 132
+##### All missed: 131
 
 
 ### json
 
-##### Missing: 132
+##### Missing: 131
 
 <table width="100%">
 <tr><th width="50%">
@@ -1081,15 +1081,6 @@ Thailand
 </td><td width="50%">
 
 Thailand
-
-</td></tr>
-<tr><td width="50%">
-
-This action is unauthorized.
-
-</td><td width="50%">
-
-This action is unauthorized.
 
 </td></tr>
 <tr><td width="50%">

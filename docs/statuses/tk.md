@@ -4,12 +4,12 @@ editLink: false
 
 # tk
 
-##### All missed: 54
+##### All missed: 53
 
 
 ### json
 
-##### Missing: 54
+##### Missing: 53
 
 <table width="100%">
 <tr><th width="50%">
@@ -424,15 +424,6 @@ Sudan
 </td><td width="50%">
 
 Sudan
-
-</td></tr>
-<tr><td width="50%">
-
-This action is unauthorized.
-
-</td><td width="50%">
-
-This action is unauthorized.
 
 </td></tr>
 <tr><td width="50%">

@@ -4,12 +4,12 @@ editLink: false
 
 # lt
 
-##### All missed: 18
+##### All missed: 17
 
 
 ### json
 
-##### Missing: 18
+##### Missing: 17
 
 <table width="100%">
 <tr><th width="50%">
@@ -136,15 +136,6 @@ Samoa
 </td><td width="50%">
 
 Samoa
-
-</td></tr>
-<tr><td width="50%">
-
-This action is unauthorized.
-
-</td><td width="50%">
-
-This action is unauthorized.
 
 </td></tr>
 <tr><td width="50%">

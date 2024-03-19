@@ -4,12 +4,12 @@ editLink: false
 
 # ga
 
-##### All missed: 31
+##### All missed: 30
 
 
 ### json
 
-##### Missing: 31
+##### Missing: 30
 
 <table width="100%">
 <tr><th width="50%">
@@ -262,15 +262,6 @@ Taiwan
 </td><td width="50%">
 
 Taiwan
-
-</td></tr>
-<tr><td width="50%">
-
-This action is unauthorized.
-
-</td><td width="50%">
-
-This action is unauthorized.
 
 </td></tr>
 <tr><td width="50%">

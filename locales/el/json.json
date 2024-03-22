@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(και άλλα :count σφάλματα)",
-    "(and :count more errors)": "(και άλλα :count λάθη)",
+    "(and :count more errors)": "(και άλλα :count σφάλματα)|(και άλλα :count λάθη)|(και άλλα :count λάθη)",
     "30 Days": "30 ημέρες",
     "365 Days": "365 Ημέρες",
     "60 Days": "60 ημέρες",

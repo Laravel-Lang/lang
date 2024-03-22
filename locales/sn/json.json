@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(uye :count zvimwe kukanganisa)",
-    "(and :count more errors)": "(uye gumi zvikanganiso)",
+    "(and :count more errors)": "(uye :count zvimwe kukanganisa)|(uye gumi zvikanganiso)|(uye gumi zvikanganiso)",
     "30 Days": "30 Mazuva",
     "365 Days": "365 Mazuva",
     "60 Days": "60 Mazuva",

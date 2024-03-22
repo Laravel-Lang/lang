@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(i :count error més)",
-    "(and :count more errors)": "(i :count errors més)",
+    "(and :count more errors)": "(i :count error més)|(i :count errors més)|(i :count errors més)",
     "30 Days": "30 Dies",
     "365 Days": "365 dies",
     "60 Days": "60 Dies",

@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(và :count lỗi khác)",
-    "(and :count more errors)": "(và :count lỗi khác)",
+    "(and :count more errors)": "(và :count lỗi khác)|(và :count lỗi khác)|(và :count lỗi khác)",
     "30 Days": "30 Ngày",
     "365 Days": "365 ngày",
     "60 Days": "60 Ngày",

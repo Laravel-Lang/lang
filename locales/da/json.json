@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(og :count fejl mere)",
-    "(and :count more errors)": "(og :count fejl mere)",
+    "(and :count more errors)": "(og :count fejl mere)|(og :count fejl mere)|(og :count fejl mere)",
     "30 Days": "30 dage",
     "365 Days": "365 dage",
     "60 Days": "60 dage",

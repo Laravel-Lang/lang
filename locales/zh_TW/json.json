@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "（還有 :count 個錯誤）",
-    "(and :count more errors)": "（還有 :count 多個錯誤）",
+    "(and :count more errors)": "（還有 :count 個錯誤）|（還有 :count 多個錯誤）|（還有 :count 多個錯誤）",
     "30 Days": "30天",
     "365 Days": "365天",
     "60 Days": "60天",

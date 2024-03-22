@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(그리고 :count개 이상의 오류)",
-    "(and :count more errors)": "(그리고 :count개 이상의 오류)",
+    "(and :count more errors)": "(그리고 :count개 이상의 오류)|(그리고 :count개 이상의 오류)|(그리고 :count개 이상의 오류)",
     "30 Days": "30 일",
     "365 Days": "365일",
     "60 Days": "60 일",

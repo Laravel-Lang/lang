@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(ati aṣiṣe :count diẹ sii)",
-    "(and :count more errors)": "(ati awọn aṣiṣe :count diẹ sii)",
+    "(and :count more errors)": "(ati aṣiṣe :count diẹ sii)|(ati awọn aṣiṣe :count diẹ sii)|(ati awọn aṣiṣe :count diẹ sii)",
     "30 Days": "30 Ọjọ",
     "365 Days": "365 Ọjọ",
     "60 Days": "60 Ọjọ",

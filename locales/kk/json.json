@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(және тағы :count қате)",
-    "(and :count more errors)": "(және тағы :count қате)",
+    "(and :count more errors)": "(және тағы :count қате)|(және тағы :count қате)|(және тағы :count қате)",
     "30 Days": "30 күн",
     "365 Days": "365 күн",
     "60 Days": "60 күн",

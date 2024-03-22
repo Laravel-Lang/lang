@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(ከምኡ ውን :count ተወሳኺ ጌጋታት)",
-    "(and :count more errors)": "(ከምኡ ውን :count ተወሳኺ ጌጋታት)",
+    "(and :count more errors)": "(ከምኡ ውን :count ተወሳኺ ጌጋታት)|(ከምኡ ውን :count ተወሳኺ ጌጋታት)|(ከምኡ ውን :count ተወሳኺ ጌጋታት)",
     "30 Days": "30 መዓልቲ",
     "365 Days": "365 መዓልታት",
     "60 Days": "60 መዓልቲ",

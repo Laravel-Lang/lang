@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(ve :count hata daha var)",
-    "(and :count more errors)": "(ve :count hata daha var)",
+    "(and :count more errors)": "(ve :count hata daha var)|(ve :count hata daha var)|(ve :count hata daha var)",
     "30 Days": "30 gün",
     "365 Days": "365 gün",
     "60 Days": "60 gün",

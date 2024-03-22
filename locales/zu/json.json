@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(kanye namaphutha angu-:count ngaphezulu)",
-    "(and :count more errors)": "(kanye namaphutha angu-:count ngaphezulu)",
+    "(and :count more errors)": "(kanye namaphutha angu-:count ngaphezulu)|(kanye namaphutha angu-:count ngaphezulu)|(kanye namaphutha angu-:count ngaphezulu)",
     "30 Days": "Izinsuku ezingama-30",
     "365 Days": "Izinsuku ezingama-365",
     "60 Days": "Izinsuku ezingama-60",

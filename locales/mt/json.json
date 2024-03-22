@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(u :count żbalji oħra)",
-    "(and :count more errors)": "(u :count żbalji oħra)",
+    "(and :count more errors)": "(u :count żbalji oħra)|(u :count żbalji oħra)|(u :count żbalji oħra)",
     "30 Days": "30 Jum",
     "365 Days": "365 Jum",
     "60 Days": "60 Jum",

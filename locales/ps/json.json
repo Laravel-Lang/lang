@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(او :count نورې تېروتنې)",
-    "(and :count more errors)": "(او :count نورې غلطۍ)",
+    "(and :count more errors)": "(او :count نورې تېروتنې)|(او :count نورې غلطۍ)|(او :count نورې غلطۍ)",
     "30 Days": "30 ورځې",
     "365 Days": "365 ورځې",
     "60 Days": "60 ورځې",

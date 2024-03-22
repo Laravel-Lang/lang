@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(hinallataq :count pantaykunatawan)",
-    "(and :count more errors)": "(hinallataq :count pantaykunapas)",
+    "(and :count more errors)": "(hinallataq :count pantaykunatawan)|(hinallataq :count pantaykunapas)|(hinallataq :count pantaykunapas)",
     "30 Days": "30 P’unchaw",
     "365 Days": "365 P’unchaw",
     "60 Days": "60 P’unchaw",

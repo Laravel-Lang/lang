@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(און :count מער טעות)",
-    "(and :count more errors)": "(און :count מער ערראָרס)",
+    "(and :count more errors)": "(און :count מער טעות)|(און :count מער ערראָרס)|(און :count מער ערראָרס)",
     "30 Days": "30 טעג",
     "365 Days": "365 טעג",
     "60 Days": "60 טעג",

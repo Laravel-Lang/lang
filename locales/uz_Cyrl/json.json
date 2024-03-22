@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(va yana :count ta xato)",
-    "(and :count more errors)": "(va yana :count ta xato)",
+    "(and :count more errors)": "(va yana :count ta xato)|(va yana :count ta xato)|(va yana :count ta xato)",
     "30 Days": "30 Kun",
     "365 Days": "365 kun",
     "60 Days": "60 Kun",

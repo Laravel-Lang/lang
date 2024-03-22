@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(na :count makosa zaidi)",
-    "(and :count more errors)": "(na :count makosa zaidi)",
+    "(and :count more errors)": "(na :count makosa zaidi)|(na :count makosa zaidi)|(na :count makosa zaidi)",
     "30 Days": "Siku 30",
     "365 Days": "Siku 365",
     "60 Days": "Siku 60",

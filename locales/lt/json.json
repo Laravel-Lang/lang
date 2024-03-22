@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(ir dar :count klaidų)",
-    "(and :count more errors)": "(ir dar :count klaidų)",
+    "(and :count more errors)": "(ir dar :count klaidų)|(ir dar :count klaidų)|(ir dar :count klaidų)",
     "30 Days": "30 dienų",
     "365 Days": "365 dienos",
     "60 Days": "60 dienų",

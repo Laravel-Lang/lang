@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(ва :count хатои дигар)",
-    "(and :count more errors)": "(ва :count хатои дигар)",
+    "(and :count more errors)": "(ва :count хатои дигар)|(ва :count хатои дигар)|(ва :count хатои дигар)",
     "30 Days": "30 Рӯз",
     "365 Days": "365 рӯз",
     "60 Days": "60 Рӯз",

@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(un vēl :count kļūdas)",
-    "(and :count more errors)": "(un vēl :count kļūdas)",
+    "(and :count more errors)": "(un vēl :count kļūdas)|(un vēl :count kļūdas)|(un vēl :count kļūdas)",
     "30 Days": "30 Dienas",
     "365 Days": "365 dienas",
     "60 Days": "60 dienas",

@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(a :count ďalších chýb)",
-    "(and :count more errors)": "(a :count ďalších chýb)",
+    "(and :count more errors)": "(a :count ďalších chýb)|(a :count ďalších chýb)|(a :count ďalších chýb)",
     "30 Days": "30 dní",
     "365 Days": "365 dní",
     "60 Days": "60 dní",

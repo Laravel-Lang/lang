@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(ಮತ್ತು :count ಹೆಚ್ಚಿನ ದೋಷಗಳು)",
-    "(and :count more errors)": "(ಮತ್ತು :count ಹೆಚ್ಚಿನ ದೋಷಗಳು)",
+    "(and :count more errors)": "(ಮತ್ತು :count ಹೆಚ್ಚಿನ ದೋಷಗಳು)|(ಮತ್ತು :count ಹೆಚ್ಚಿನ ದೋಷಗಳು)|(ಮತ್ತು :count ಹೆಚ್ಚಿನ ದೋಷಗಳು)",
     "30 Days": "30 ದಿನಗಳ",
     "365 Days": "365 ದಿನಗಳು",
     "60 Days": "60 ದಿನಗಳ",

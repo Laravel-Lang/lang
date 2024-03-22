@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(we ýene :count ýalňyşlyk)",
-    "(and :count more errors)": "(we ýene :count ýalňyşlyk)",
+    "(and :count more errors)": "(we ýene :count ýalňyşlyk)|(we ýene :count ýalňyşlyk)|(we ýene :count ýalňyşlyk)",
     "30 Days": "30 gün",
     "365 Days": "365 gün",
     "60 Days": "60 gün",

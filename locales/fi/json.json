@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(ja :count muuta virhettä)",
-    "(and :count more errors)": "(ja :count muuta virhettä)",
+    "(and :count more errors)": "(ja :count muuta virhettä)|(ja :count muuta virhettä)|(ja :count muuta virhettä)",
     "30 Days": "30 päivää",
     "365 Days": "365 päivää",
     "60 Days": "60 päivää",

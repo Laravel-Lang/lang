@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(mpe mabunga mosusu :count)",
-    "(and :count more errors)": "(mpe mabunga mosusu :count)",
+    "(and :count more errors)": "(mpe mabunga mosusu :count)|(mpe mabunga mosusu :count)|(mpe mabunga mosusu :count)",
     "30 Days": "Mikolo 30",
     "365 Days": "Mikolo 365",
     "60 Days": "Mikolo 60",

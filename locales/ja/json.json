@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(その他、:countエラーあり)",
-    "(and :count more errors)": "(その他、:countエラーあり)",
+    "(and :count more errors)": "(その他、:countエラーあり)|(その他、:countエラーあり)|(その他、:countエラーあり)",
     "30 Days": "30日",
     "365 Days": "365日",
     "60 Days": "60日",

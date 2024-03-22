@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(an :count méi Feeler)",
-    "(and :count more errors)": "(an :count méi Feeler)",
+    "(and :count more errors)": "(an :count méi Feeler)|(an :count méi Feeler)|(an :count méi Feeler)",
     "30 Days": "30 Deeg",
     "365 Days": "365 Deeg",
     "60 Days": "60 Deeg",

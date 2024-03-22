@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(ug :count pa ka sayop)",
-    "(and :count more errors)": "(ug :count pa ka sayop)",
+    "(and :count more errors)": "(ug :count pa ka sayop)|(ug :count pa ka sayop)|(ug :count pa ka sayop)",
     "30 Days": "30 ka adlaw",
     "365 Days": "365 ka adlaw",
     "60 Days": "60 ka adlaw",

@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(ani fili :count wɛrɛw)",
-    "(and :count more errors)": "(ani fili :count wɛrɛw)",
+    "(and :count more errors)": "(ani fili :count wɛrɛw)|(ani fili :count wɛrɛw)|(ani fili :count wɛrɛw)",
     "30 Days": "Tile 30 Kɛ",
     "365 Days": "Tile 365 ye",
     "60 Days": "Tile 60 Kɛ",

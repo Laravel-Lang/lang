@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(û :count xeletiyên din)",
-    "(and :count more errors)": "(û :count xeletiyên din)",
+    "(and :count more errors)": "(û :count xeletiyên din)|(û :count xeletiyên din)|(û :count xeletiyên din)",
     "30 Days": "30 Roj",
     "365 Days": "365 Roj",
     "60 Days": "60 Roj",

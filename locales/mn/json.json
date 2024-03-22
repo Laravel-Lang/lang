@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(болон өөр :count алдаа)",
-    "(and :count more errors)": "(болон өөр :count алдаа)",
+    "(and :count more errors)": "(болон өөр :count алдаа)|(болон өөр :count алдаа)|(болон өөр :count алдаа)",
     "30 Days": "30 хоног",
     "365 Days": "365 хоног",
     "60 Days": "60 хоног",

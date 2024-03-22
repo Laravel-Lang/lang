@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(n'ensobi endala :count)",
-    "(and :count more errors)": "(n'ensobi endala :count)",
+    "(and :count more errors)": "(n'ensobi endala :count)|(n'ensobi endala :count)|(n'ensobi endala :count)",
     "30 Days": "Ennaku 30",
     "365 Days": "Ennaku 365",
     "60 Days": "Ennaku 60",

@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(കൂടാതെ :count പിശകുകൾ കൂടി)",
-    "(and :count more errors)": "(കൂടാതെ :count പിശകുകൾ കൂടി)",
+    "(and :count more errors)": "(കൂടാതെ :count പിശകുകൾ കൂടി)|(കൂടാതെ :count പിശകുകൾ കൂടി)|(കൂടാതെ :count പിശകുകൾ കൂടി)",
     "30 Days": "30 ദിവസം",
     "365 Days": "365 ദിവസം",
     "60 Days": "60 ദിവസം",

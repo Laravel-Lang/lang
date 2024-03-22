@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(ne mfomso afoforo :count)",
-    "(and :count more errors)": "(ne mfomso afoforo :count)",
+    "(and :count more errors)": "(ne mfomso afoforo :count)|(ne mfomso afoforo :count)|(ne mfomso afoforo :count)",
     "30 Days": "Nnafua 30",
     "365 Days": "Nnafua 365",
     "60 Days": "Nnafua 60",

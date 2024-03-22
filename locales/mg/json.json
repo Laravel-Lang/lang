@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(ary fahadisoana :count hafa)",
-    "(and :count more errors)": "(ary lesoka :count hafa)",
+    "(and :count more errors)": "(ary fahadisoana :count hafa)|(ary lesoka :count hafa)|(ary lesoka :count hafa)",
     "30 Days": "30 andro",
     "365 Days": "365 andro",
     "60 Days": "60 andro",

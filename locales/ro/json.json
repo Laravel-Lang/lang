@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(și :count mai multe erori)",
-    "(and :count more errors)": "(și cu :count mai multe erori)",
+    "(and :count more errors)": "(și :count mai multe erori)|(și cu :count mai multe erori)|(și cu :count mai multe erori)",
     "30 Days": "30 de zile",
     "365 Days": "365 de zile",
     "60 Days": "60 de zile",

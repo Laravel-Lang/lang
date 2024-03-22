@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(in še :count napak)",
-    "(and :count more errors)": "(in še :count napak)",
+    "(and :count more errors)": "(in še :count napak)|(in še :count napak)|(in še :count napak)",
     "30 Days": "30 dni",
     "365 Days": "365 dni",
     "60 Days": "60 dni",

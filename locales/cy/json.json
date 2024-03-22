@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(a :count gwall arall)",
-    "(and :count more errors)": "(a :count arall o wallau)",
+    "(and :count more errors)": "(a :count gwall arall)|(a :count arall o wallau)|(a :count arall o wallau)",
     "30 Days": "30 Diwrnod",
     "365 Days": "365 Dydd",
     "60 Days": "60 Diwrnodau",

@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(و :count خطأ إضافي)",
-    "(and :count more errors)": "(و :count أخطاء إضافية)",
+    "(and :count more errors)": "(و :count خطأ إضافي)|(و :count أخطاء إضافية)|(و :count أخطاء إضافية)",
     "30 Days": "30 يوم",
     "365 Days": "365 يوما",
     "60 Days": "60 يوم",

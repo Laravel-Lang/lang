@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(kunye nempazamo ezili-:count ngaphezulu)",
-    "(and :count more errors)": "(kunye nezinye iimpazamo ezili-:count)",
+    "(and :count more errors)": "(kunye nempazamo ezili-:count ngaphezulu)|(kunye nezinye iimpazamo ezili-:count)|(kunye nezinye iimpazamo ezili-:count)",
     "30 Days": "Iintsuku ezingama-30",
     "365 Days": "Iintsuku ezingama-365",
     "60 Days": "Iintsuku ezingama-60",

@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(at :count pang error)",
-    "(and :count more errors)": "(at :count pang error)",
+    "(and :count more errors)": "(at :count pang error)|(at :count pang error)|(at :count pang error)",
     "30 Days": "30 mga araw",
     "365 Days": "365 Araw",
     "60 Days": "60 araw",

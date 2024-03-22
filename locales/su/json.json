@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(sareng :count deui kasalahan)",
-    "(and :count more errors)": "(sareng :count deui kasalahan)",
+    "(and :count more errors)": "(sareng :count deui kasalahan)|(sareng :count deui kasalahan)|(sareng :count deui kasalahan)",
     "30 Days": "30 poé",
     "365 Days": "365 poé",
     "60 Days": "60 poé",

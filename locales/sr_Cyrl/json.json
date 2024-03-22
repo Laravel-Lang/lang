@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(и још :count грешака)",
-    "(and :count more errors)": "(и још :count грешака)",
+    "(and :count more errors)": "(и још :count грешака)|(и још :count грешака)|(и још :count грешака)",
     "30 Days": "30 дана",
     "365 Days": "365 дана",
     "60 Days": "60 дана",

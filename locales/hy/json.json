@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(և ևս :count սխալ)",
-    "(and :count more errors)": "(և ևս :count սխալ)",
+    "(and :count more errors)": "(և ևս :count սխալ)|(և ևս :count սխալ)|(և ևս :count սխալ)",
     "30 Days": "30 օր",
     "365 Days": "365 օր",
     "60 Days": "60 օր",

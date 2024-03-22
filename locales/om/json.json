@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(fi dogongora :count dabalataa)",
-    "(and :count more errors)": "(fi dogongora :count dabalataa)",
+    "(and :count more errors)": "(fi dogongora :count dabalataa)|(fi dogongora :count dabalataa)|(fi dogongora :count dabalataa)",
     "30 Days": "Guyyaa 30",
     "365 Days": "Guyyoota 365",
     "60 Days": "Guyyaa 60",

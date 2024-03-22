@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(iyo :count khalad oo kale)",
-    "(and :count more errors)": "(iyo :count khalad oo kale)",
+    "(and :count more errors)": "(iyo :count khalad oo kale)|(iyo :count khalad oo kale)|(iyo :count khalad oo kale)",
     "30 Days": "30 Maalmood",
     "365 Days": "365 Maalmood",
     "60 Days": "60 Maalmood",

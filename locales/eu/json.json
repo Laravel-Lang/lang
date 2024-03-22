@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(eta :count errore gehiago)",
-    "(and :count more errors)": "(eta :count akats gehiago)",
+    "(and :count more errors)": "(eta :count errore gehiago)|(eta :count akats gehiago)|(eta :count akats gehiago)",
     "30 Days": "30 Egun",
     "365 Days": "365 Egun",
     "60 Days": "60 Egun",

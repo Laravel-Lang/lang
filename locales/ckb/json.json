@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(و ١٠ هەڵەی تر)",
-    "(and :count more errors)": "(و ١٠ هەڵەی تر)",
+    "(and :count more errors)": "(و ١٠ هەڵەی تر)|(و ١٠ هەڵەی تر)|(و ١٠ هەڵەی تر)",
     "30 Days": "٣٠ رۆژ",
     "365 Days": "٣٦٥ ڕۆژ",
     "60 Days": "٦٠ ڕۆژ",

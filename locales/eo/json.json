@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(kaj :count pliaj eraroj)",
-    "(and :count more errors)": "(kaj :count pliaj eraroj)",
+    "(and :count more errors)": "(kaj :count pliaj eraroj)|(kaj :count pliaj eraroj)|(kaj :count pliaj eraroj)",
     "30 Days": "30 Tagoj",
     "365 Days": "365 Tagoj",
     "60 Days": "60 Tagoj",

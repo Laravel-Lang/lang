@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(na njehie :count ọzọ)",
-    "(and :count more errors)": "(na njehie :count ọzọ)",
+    "(and :count more errors)": "(na njehie :count ọzọ)|(na njehie :count ọzọ)|(na njehie :count ọzọ)",
     "30 Days": "Ụbọchị 30",
     "365 Days": "Ụbọchị 365",
     "60 Days": "Ụbọchị 60",

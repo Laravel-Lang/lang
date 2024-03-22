@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(һәм тагын :count хата)",
-    "(and :count more errors)": "(һәм тагын :count хата)",
+    "(and :count more errors)": "(һәм тагын :count хата)|(һәм тагын :count хата)|(һәм тагын :count хата)",
     "30 Days": "30 көн",
     "365 Days": "365 көн",
     "60 Days": "60 көн",

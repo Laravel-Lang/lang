@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(og :count villur í viðbót)",
-    "(and :count more errors)": "(og :count villur í viðbót)",
+    "(and :count more errors)": "(og :count villur í viðbót)|(og :count villur í viðbót)|(og :count villur í viðbót)",
     "30 Days": "30 Daga",
     "365 Days": "365 dagar",
     "60 Days": "60 Daga",

@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(en nog :count foute)",
-    "(and :count more errors)": "(en nog :count foute)",
+    "(and :count more errors)": "(en nog :count foute)|(en nog :count foute)|(en nog :count foute)",
     "30 Days": "30 Dae",
     "365 Days": "365 dae",
     "60 Days": "60 Dae",

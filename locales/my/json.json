@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(နောက်ထပ် error :count ခု)",
-    "(and :count more errors)": "(နှင့် နောက်ထပ် အမှား :count ခု)",
+    "(and :count more errors)": "(နောက်ထပ် error :count ခု)|(နှင့် နောက်ထပ် အမှား :count ခု)|(နှင့် နောက်ထပ် အမှား :count ခု)",
     "30 Days": "ရက် 30",
     "365 Days": "၃၆၅ ရက်",
     "60 Days": "ရက် 60",

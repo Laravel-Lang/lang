@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(y :count error más)",
-    "(and :count more errors)": "(y :count errores más)",
+    "(and :count more errors)": "(y :count error más)|(y :count errores más)|(y :count errores más)",
     "30 Days": "30 Días",
     "365 Days": "365 días",
     "60 Days": "60 Días",

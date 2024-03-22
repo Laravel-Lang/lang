@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(és még :count hiba)",
-    "(and :count more errors)": "(és még :count hiba)",
+    "(and :count more errors)": "(és még :count hiba)|(és még :count hiba)|(és még :count hiba)",
     "30 Days": "30 nap",
     "365 Days": "365 nap",
     "60 Days": "60 nap",

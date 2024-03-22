@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(və :count çox səhv saymaq)",
-    "(and :count more errors)": "(və :count çox səhv sayın)",
+    "(and :count more errors)": "(və :count çox səhv saymaq)|(və :count çox səhv sayın)|(və :count çox səhv sayın)",
     "30 Days": "30 Gün",
     "365 Days": "365 gün",
     "60 Days": "60 Gün",

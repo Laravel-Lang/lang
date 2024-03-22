@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(n'andi makosa :count)",
-    "(and :count more errors)": "(n'andi makosa :count)",
+    "(and :count more errors)": "(n'andi makosa :count)|(n'andi makosa :count)|(n'andi makosa :count)",
     "30 Days": "Iminsi 30",
     "365 Days": "Iminsi 365",
     "60 Days": "Iminsi 60",

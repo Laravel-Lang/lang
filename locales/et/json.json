@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(ja veel :count viga)",
-    "(and :count more errors)": "(ja veel :count viga)",
+    "(and :count more errors)": "(ja veel :count viga)|(ja veel :count viga)|(ja veel :count viga)",
     "30 Days": "30 päeva",
     "365 Days": "365 päeva",
     "60 Days": "60 päeva",

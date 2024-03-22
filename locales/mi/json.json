@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(me te :count atu hapa)",
-    "(and :count more errors)": "(me te :count atu hapa)",
+    "(and :count more errors)": "(me te :count atu hapa)|(me te :count atu hapa)|(me te :count atu hapa)",
     "30 Days": "30 Ra",
     "365 Days": "365 Ra",
     "60 Days": "60 Ra",

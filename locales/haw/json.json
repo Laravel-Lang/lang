@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(a he :count hewa hou aku)",
-    "(and :count more errors)": "(a he :count hewa hou aku)",
+    "(and :count more errors)": "(a he :count hewa hou aku)|(a he :count hewa hou aku)|(a he :count hewa hou aku)",
     "30 Days": "30 mau lā",
     "365 Days": "365 mau lā",
     "60 Days": "60 La",

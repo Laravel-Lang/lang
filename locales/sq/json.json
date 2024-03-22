@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(dhe :count gabim tjetër)",
-    "(and :count more errors)": "(dhe :count gabime të tjera)",
+    "(and :count more errors)": "(dhe :count gabim tjetër)|(dhe :count gabime të tjera)|(dhe :count gabime të tjera)",
     "30 Days": "30 Ditë",
     "365 Days": "365 ditë",
     "60 Days": "60 Ditë",

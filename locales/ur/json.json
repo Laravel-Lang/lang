@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(اور :count مزید غلطی)",
-    "(and :count more errors)": "(اور :count مزید غلطیاں)",
+    "(and :count more errors)": "(اور :count مزید غلطی)|(اور :count مزید غلطیاں)|(اور :count مزید غلطیاں)",
     "30 Days": "30 دنوں کے",
     "365 Days": "365 دن",
     "60 Days": "60 دنوں",

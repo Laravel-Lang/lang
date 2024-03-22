@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(og :count feil til)",
-    "(and :count more errors)": "(og :count feil til)",
+    "(and :count more errors)": "(og :count feil til)|(og :count feil til)|(og :count feil til)",
     "30 Days": "30 dager",
     "365 Days": "365 dager",
     "60 Days": "60 dager",

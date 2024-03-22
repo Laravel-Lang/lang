@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(እና :count ተጨማሪ ስህተት)",
-    "(and :count more errors)": "(እና :count ተጨማሪ ስህተቶች)",
+    "(and :count more errors)": "(እና :count ተጨማሪ ስህተት)|(እና :count ተጨማሪ ስህተቶች)|(እና :count ተጨማሪ ስህተቶች)",
     "30 Days": "30 ቀናት",
     "365 Days": "365 ቀናት",
     "60 Days": "60 ቀናት",

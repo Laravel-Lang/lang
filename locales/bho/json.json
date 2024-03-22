@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(आ :count गो अउरी त्रुटि)",
-    "(and :count more errors)": "(आ :count गो अउरी गलती)",
+    "(and :count more errors)": "(आ :count गो अउरी त्रुटि)|(आ :count गो अउरी गलती)|(आ :count गो अउरी गलती)",
     "30 Days": "30 दिन के बा",
     "365 Days": "365 दिन के बा",
     "60 Days": "60 दिन के बा",

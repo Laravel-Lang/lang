@@ -14,11 +14,11 @@ jobs:
 
             -   name: Check the code style
                 uses: TheDragonCode/codestyler@v4
-                if: ${{ github.event_name != 'push' || github.ref != 'refs/heads/main' || github.ref != 'refs/heads/14.x' }}
+                if: ${{ github.event_name != 'push' || github.ref != 'refs/heads/main' }}
 
             -   name: Fix the code style
                 uses: TheDragonCode/codestyler@v4
-                if: ${{ github.event_name == 'push' && (github.ref == 'refs/heads/main' || github.ref == 'refs/heads/14.x') }}
+                if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
                 with:
                     github_token: ${{ secrets.COMPOSER_TOKEN }}
                     fix: true

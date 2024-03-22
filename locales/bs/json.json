@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(i još :count grešaka)",
-    "(and :count more errors)": "(i još :count grešaka)",
+    "(and :count more errors)": "(i još :count grešaka)|(i još :count grešaka)|(i još :count grešaka)",
     "30 Days": "30 dana",
     "365 Days": "365 dana",
     "60 Days": "60 dana",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "Ekvatorijalna Gvineja",
     "Eritrea": "Eritrea",
     "Error": "Greška",
+    "errors": "errors",
     "Estonia": "Estonija",
     "Ethiopia": "Etiopija",
     "ex VAT": "bez PDV-a",
@@ -367,6 +368,7 @@
     "Lithuania": "Litva",
     "Load :perPage More": "Učitaj :perPage više",
     "Loading": "Učitavanje",
+    "Location": "Location",
     "Log in": "Samo se _prijavi",
     "Log In": "Ulogovati se",
     "Log Out": "Odjava",

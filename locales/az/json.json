@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(və :count çox səhv saymaq)",
-    "(and :count more errors)": "(və :count çox səhv sayın)",
+    "(and :count more errors)": "(və :count çox səhv saymaq)|(və :count çox səhv sayın)|(və :count çox səhv sayın)",
     "30 Days": "30 Gün",
     "365 Days": "365 gün",
     "60 Days": "60 Gün",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "Ekvatorial Qvineya",
     "Eritrea": "Eritreya",
     "Error": "Xəta",
+    "errors": "errors",
     "Estonia": "Estoniya",
     "Ethiopia": "Efiopiya",
     "ex VAT": "keçmiş ƏDV",
@@ -367,6 +368,7 @@
     "Lithuania": "Anasini",
     "Load :perPage More": "Daha :per səhifə Yüklə",
     "Loading": "Yüklənir",
+    "Location": "Location",
     "Log in": "Giriş",
     "Log In": "Daxil Ol",
     "Log Out": "çıxın",

@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(ۋە يەنە :count خاتالىق)",
-    "(and :count more errors)": "(ۋە يەنە :count خاتالىق)",
+    "(and :count more errors)": "(ۋە يەنە :count خاتالىق)|(ۋە يەنە :count خاتالىق)|(ۋە يەنە :count خاتالىق)",
     "30 Days": "30 كۈن",
     "365 Days": "365 كۈن",
     "60 Days": "60 كۈن",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "ئېكۋاتور گۋىنىيىسى",
     "Eritrea": "Eritrea",
     "Error": "خاتالىق",
+    "errors": "errors",
     "Estonia": "ئېستونىيە",
     "Ethiopia": "ئېفىيوپىيە",
     "ex VAT": "ex VAT",
@@ -367,6 +368,7 @@
     "Lithuania": "لىتۋا",
     "Load :perPage More": ":PerPage نى يۈكلەڭ",
     "Loading": "يۈكلەۋاتىدۇ",
+    "Location": "Location",
     "Log in": "كىرىڭ",
     "Log In": "كىرىش",
     "Log Out": "چېكىنىش",

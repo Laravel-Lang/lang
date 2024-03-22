@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(fi dogongora :count dabalataa)",
-    "(and :count more errors)": "(fi dogongora :count dabalataa)",
+    "(and :count more errors)": "(fi dogongora :count dabalataa)|(fi dogongora :count dabalataa)|(fi dogongora :count dabalataa)",
     "30 Days": "Guyyaa 30",
     "365 Days": "Guyyoota 365",
     "60 Days": "Guyyaa 60",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "Ikuwaatooriyaal Giinii",
     "Eritrea": "Eertiraa",
     "Error": "Dogoggora",
+    "errors": "errors",
     "Estonia": "Istooniyaa",
     "Ethiopia": "Itoophiyaa",
     "ex VAT": "ex VAT",
@@ -367,6 +368,7 @@
     "Lithuania": "Lituwaaniyaa",
     "Load :perPage More": "Fe'i :perPage Dabalata",
     "Loading": "Fe'amaa jira",
+    "Location": "Location",
     "Log in": "Galmaa'aa",
     "Log In": "Galmee Galchuu",
     "Log Out": "Log Out",

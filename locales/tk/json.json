@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(we ýene :count ýalňyşlyk)",
-    "(and :count more errors)": "(we ýene :count ýalňyşlyk)",
+    "(and :count more errors)": "(we ýene :count ýalňyşlyk)|(we ýene :count ýalňyşlyk)|(we ýene :count ýalňyşlyk)",
     "30 Days": "30 gün",
     "365 Days": "365 gün",
     "60 Days": "60 gün",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "Ekwatorial Gwineýa",
     "Eritrea": "Eritreýa",
     "Error": "Roralňyşlyk",
+    "errors": "errors",
     "Estonia": "Estoniýa",
     "Ethiopia": "Efiopiýa",
     "ex VAT": "öňki salgyt",
@@ -367,6 +368,7 @@
     "Lithuania": "Litwa",
     "Load :perPage More": "Moreene :perPage ýükläň",
     "Loading": "Adingüklemek",
+    "Location": "Location",
     "Log in": "Giriň",
     "Log In": "Giriş",
     "Log Out": "Hasapdan çykmak",

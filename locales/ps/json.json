@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(او :count نورې تېروتنې)",
-    "(and :count more errors)": "(او :count نورې غلطۍ)",
+    "(and :count more errors)": "(او :count نورې تېروتنې)|(او :count نورې غلطۍ)|(او :count نورې غلطۍ)",
     "30 Days": "30 ورځې",
     "365 Days": "365 ورځې",
     "60 Days": "60 ورځې",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "استوایی ګینه",
     "Eritrea": "اریتره",
     "Error": "تېروتنه",
+    "errors": "errors",
     "Estonia": "استونیا",
     "Ethiopia": "ایتوپیا",
     "ex VAT": "پخوانی VAT",
@@ -367,6 +368,7 @@
     "Lithuania": "لیتوانیا",
     "Load :perPage More": ":PerPage نور پورته کړئ",
     "Loading": "بار کول",
+    "Location": "Location",
     "Log in": "د ننه کیدل",
     "Log In": "د ننه کیدل",
     "Log Out": "وتل",

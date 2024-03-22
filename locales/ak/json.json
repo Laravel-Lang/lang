@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(ne mfomso afoforo :count)",
-    "(and :count more errors)": "(ne mfomso afoforo :count)",
+    "(and :count more errors)": "(ne mfomso afoforo :count)|(ne mfomso afoforo :count)|(ne mfomso afoforo :count)",
     "30 Days": "Nnafua 30",
     "365 Days": "Nnafua 365",
     "60 Days": "Nnafua 60",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "Equatorial Guinea na ɛwɔ hɔ",
     "Eritrea": "Eritrea na ɛwɔ hɔ",
     "Error": "Mfomsoɔ",
+    "errors": "errors",
     "Estonia": "Estonia na ɛwɔ hɔ",
     "Ethiopia": "Ethiopia na ɛwɔ hɔ",
     "ex VAT": "ex VAT",
@@ -367,6 +368,7 @@
     "Lithuania": "Lithuania na ɛwɔ hɔ",
     "Load :perPage More": "Load :perPage Nea Ɛka Ho",
     "Loading": "Wɔde nneɛma regu mu",
+    "Location": "Location",
     "Log in": "Kɔ mu",
     "Log In": "Kɔ mu",
     "Log Out": "Fi Wo Fi Mu",

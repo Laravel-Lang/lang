@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(agus :count gcinn eile earráid)",
-    "(and :count more errors)": "(agus :count n-earráid eile)",
+    "(and :count more errors)": "(agus :count gcinn eile earráid)|(agus :count n-earráid eile)|(agus :count n-earráid eile)",
     "30 Days": "30 Lá",
     "365 Days": "365 Laethanta",
     "60 Days": "60 Laethanta",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "An Ghuine Mheánchriosach",
     "Eritrea": "Eiritré",
     "Error": "Earráid",
+    "errors": "errors",
     "Estonia": "an Eastóin",
     "Ethiopia": "Aetóip",
     "ex VAT": "ex CBL",
@@ -367,6 +368,7 @@
     "Lithuania": "an Liotuáin",
     "Load :perPage More": "Luchtaigh :perPage Eile",
     "Loading": "Ag lódáil",
+    "Location": "Location",
     "Log in": "Logáil isteach",
     "Log In": "Logáil isteach",
     "Log Out": "Logáil Amach",

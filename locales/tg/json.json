@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(ва :count хатои дигар)",
-    "(and :count more errors)": "(ва :count хатои дигар)",
+    "(and :count more errors)": "(ва :count хатои дигар)|(ва :count хатои дигар)|(ва :count хатои дигар)",
     "30 Days": "30 Рӯз",
     "365 Days": "365 рӯз",
     "60 Days": "60 Рӯз",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "Экваториальная Гвинея",
     "Eritrea": "Эритрея",
     "Error": "Хатогӣ",
+    "errors": "errors",
     "Estonia": "Эстония",
     "Ethiopia": "Эфиопия",
     "ex VAT": "собиқ ААИ",
@@ -367,6 +368,7 @@
     "Lithuania": "Литва",
     "Load :perPage More": "Дарефти боз :per Саҳифа",
     "Loading": "Бор карда мешавад",
+    "Location": "Location",
     "Log in": "Авторизоваться",
     "Log In": "Даромадан",
     "Log Out": "берун аз низоми",

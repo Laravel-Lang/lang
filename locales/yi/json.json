@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(און :count מער טעות)",
-    "(and :count more errors)": "(און :count מער ערראָרס)",
+    "(and :count more errors)": "(און :count מער טעות)|(און :count מער ערראָרס)|(און :count מער ערראָרס)",
     "30 Days": "30 טעג",
     "365 Days": "365 טעג",
     "60 Days": "60 טעג",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "עקוואַטאָריאַל גיני",
     "Eritrea": "עריטרייע",
     "Error": "טעות",
+    "errors": "errors",
     "Estonia": "עסטאָניאַ",
     "Ethiopia": "עטיאפיע",
     "ex VAT": "עקס וואַט",
@@ -367,6 +368,7 @@
     "Lithuania": "ליטע",
     "Load :perPage More": "לאָדן :perPage מער",
     "Loading": "Loading",
+    "Location": "Location",
     "Log in": "צייכן אריין",
     "Log In": "צייכן אריין",
     "Log Out": "קלאָץ אויס",

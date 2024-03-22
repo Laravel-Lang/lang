@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(و ١٠ هەڵەی تر)",
-    "(and :count more errors)": "(و ١٠ هەڵەی تر)",
+    "(and :count more errors)": "(و ١٠ هەڵەی تر)|(و ١٠ هەڵەی تر)|(و ١٠ هەڵەی تر)",
     "30 Days": "٣٠ رۆژ",
     "365 Days": "٣٦٥ ڕۆژ",
     "60 Days": "٦٠ ڕۆژ",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "گینیا ئیکواتۆریال",
     "Eritrea": "ئێریتریا",
     "Error": "هەڵە",
+    "errors": "errors",
     "Estonia": "ئیستۆنیا",
     "Ethiopia": "ئەسیوپیا",
     "ex VAT": "ex VAT",
@@ -367,6 +368,7 @@
     "Lithuania": "لیتوانیا",
     "Load :perPage More": ":perPage زیاتر بار بکە",
     "Loading": "بارکردن",
+    "Location": "Location",
     "Log in": "چونه‌ ژووره‌وه‌",
     "Log In": "چونه‌ ژووره‌وه‌",
     "Log Out": "چوونە دەرەوە",

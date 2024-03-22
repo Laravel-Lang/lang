@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(ani fili :count wɛrɛw)",
-    "(and :count more errors)": "(ani fili :count wɛrɛw)",
+    "(and :count more errors)": "(ani fili :count wɛrɛw)|(ani fili :count wɛrɛw)|(ani fili :count wɛrɛw)",
     "30 Days": "Tile 30 Kɛ",
     "365 Days": "Tile 365 ye",
     "60 Days": "Tile 60 Kɛ",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "Gine Ekwatoriyali",
     "Eritrea": "Eritrea jamana na",
     "Error": "Filijuru",
+    "errors": "errors",
     "Estonia": "Ɛsitoni jamana na",
     "Ethiopia": "Etiyopi jamana na",
     "ex VAT": "ex PIB (PIB) la",
@@ -367,6 +368,7 @@
     "Lithuania": "Litwanie jamana na",
     "Load :perPage More": "Load :perPage wɛrɛw",
     "Loading": "Loading (dadon) bɛ kɛ",
+    "Location": "Location",
     "Log in": "Aw bɛ don a kɔnɔ",
     "Log In": "Aw ye don a kɔnɔ",
     "Log Out": "Aw ka bɔ kɛnɛ kan",

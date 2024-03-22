@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(ja veel :count viga)",
-    "(and :count more errors)": "(ja veel :count viga)",
+    "(and :count more errors)": "(ja veel :count viga)|(ja veel :count viga)|(ja veel :count viga)",
     "30 Days": "30 päeva",
     "365 Days": "365 päeva",
     "60 Days": "60 päeva",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "Ekvatoriaal-Guinea",
     "Eritrea": "Eritrea",
     "Error": "Viga",
+    "errors": "errors",
     "Estonia": "Eesti",
     "Ethiopia": "Etioopia",
     "ex VAT": "käibemaksuta",
@@ -367,6 +368,7 @@
     "Lithuania": "Leedu",
     "Load :perPage More": "Koormus :perPage rohkem",
     "Loading": "Laadimine",
+    "Location": "Location",
     "Log in": "Logima",
     "Log In": "Logi sisse",
     "Log Out": "väljalogimine",

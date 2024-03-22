@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(आ :count गो अउरी त्रुटि)",
-    "(and :count more errors)": "(आ :count गो अउरी गलती)",
+    "(and :count more errors)": "(आ :count गो अउरी त्रुटि)|(आ :count गो अउरी गलती)|(आ :count गो अउरी गलती)",
     "30 Days": "30 दिन के बा",
     "365 Days": "365 दिन के बा",
     "60 Days": "60 दिन के बा",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "भूमध्यरेखीय गिनी के ह",
     "Eritrea": "इरिट्रिया के ह",
     "Error": "त्रुटि",
+    "errors": "errors",
     "Estonia": "एस्टोनिया के ह",
     "Ethiopia": "इथियोपिया के ह",
     "ex VAT": "एक्स वैट के बा",
@@ -367,6 +368,7 @@
     "Lithuania": "लिथुआनिया के नाम से जानल जाला",
     "Load :perPage More": ":perPage गो अउरी लोड करीं",
     "Loading": "लोड हो रहल बा",
+    "Location": "Location",
     "Log in": "लॉग इन करीं",
     "Log In": "लॉग इन करीं",
     "Log Out": "लॉग आउट हो गइल बा",

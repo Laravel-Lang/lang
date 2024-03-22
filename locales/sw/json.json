@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(na :count makosa zaidi)",
-    "(and :count more errors)": "(na :count makosa zaidi)",
+    "(and :count more errors)": "(na :count makosa zaidi)|(na :count makosa zaidi)|(na :count makosa zaidi)",
     "30 Days": "Siku 30",
     "365 Days": "Siku 365",
     "60 Days": "Siku 60",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "Guinea ya Ikweta",
     "Eritrea": "Eritrea",
     "Error": "Hitilafu",
+    "errors": "errors",
     "Estonia": "Estonia",
     "Ethiopia": "Ethiopia",
     "ex VAT": "VAT iliyopitwa",
@@ -367,6 +368,7 @@
     "Lithuania": "Lithuania",
     "Load :perPage More": "Pakia :perPage Zaidi",
     "Loading": "Inapakia",
+    "Location": "Location",
     "Log in": "Ingia",
     "Log In": "Ingia",
     "Log Out": "Toka nje",

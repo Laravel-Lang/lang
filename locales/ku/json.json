@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(û :count xeletiyên din)",
-    "(and :count more errors)": "(û :count xeletiyên din)",
+    "(and :count more errors)": "(û :count xeletiyên din)|(û :count xeletiyên din)|(û :count xeletiyên din)",
     "30 Days": "30 Roj",
     "365 Days": "365 Roj",
     "60 Days": "60 Roj",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "Gîneya Ekwatorê",
     "Eritrea": "Erître",
     "Error": "Şaşî",
+    "errors": "errors",
     "Estonia": "Estonya",
     "Ethiopia": "Etîyopya",
     "ex VAT": "ex VAT",
@@ -367,6 +368,7 @@
     "Lithuania": "Lîtvanya",
     "Load :perPage More": "Barkirina :perPage Zêdetir",
     "Loading": "Barkirin",
+    "Location": "Location",
     "Log in": "Têkeve",
     "Log In": "Têkeve",
     "Log Out": "Derkeve",

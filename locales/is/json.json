@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(og :count villur í viðbót)",
-    "(and :count more errors)": "(og :count villur í viðbót)",
+    "(and :count more errors)": "(og :count villur í viðbót)|(og :count villur í viðbót)|(og :count villur í viðbót)",
     "30 Days": "30 Daga",
     "365 Days": "365 dagar",
     "60 Days": "60 Daga",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "Í Miðbaugs-Guineu",
     "Eritrea": "Burma",
     "Error": "Villa",
+    "errors": "errors",
     "Estonia": "Eistland",
     "Ethiopia": "Eþíópíu",
     "ex VAT": "án virðisaukaskatts",
@@ -367,6 +368,7 @@
     "Lithuania": "Litháen",
     "Load :perPage More": "Hlaða :perPage Fleiri",
     "Loading": "Hleðsla",
+    "Location": "Location",
     "Log in": "Skráðu þig í",
     "Log In": "Skrá inn",
     "Log Out": "Að Skrá Þig Út",

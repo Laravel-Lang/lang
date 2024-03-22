@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(និង :count កំហុសបន្ថែមទៀត)",
-    "(and :count more errors)": "(និង :count កំហុសបន្ថែមទៀត)",
+    "(and :count more errors)": "(និង :count កំហុសបន្ថែមទៀត)|(និង :count កំហុសបន្ថែមទៀត)|(និង :count កំហុសបន្ថែមទៀត)",
     "30 Days": "៣០ ថ្ងៃ",
     "365 Days": "365 ថ្ងៃ។",
     "60 Days": "៦០ ថ្ងៃ",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "ហ្គីណេអេក្វាទ័រ",
     "Eritrea": "អេរីត្រេ",
     "Error": "កំហុស",
+    "errors": "errors",
     "Estonia": "អេស្តូនី",
     "Ethiopia": "អេត្យូពី",
     "ex VAT": "អតីត VAT",
@@ -367,6 +368,7 @@
     "Lithuania": "លីទុយអានី",
     "Load :perPage More": "ផ្ទុក :perPage ច្រើនទៀត",
     "Loading": "កំពុងផ្ទុក",
+    "Location": "Location",
     "Log in": "ចូល",
     "Log In": "ចូល",
     "Log Out": "ចាកចេញ",

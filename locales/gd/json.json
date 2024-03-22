@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(agus :count mearachd eile)",
-    "(and :count more errors)": "(agus :count mearachdan eile)",
+    "(and :count more errors)": "(agus :count mearachd eile)|(agus :count mearachdan eile)|(agus :count mearachdan eile)",
     "30 Days": "30 Làithean",
     "365 Days": "365 Làithean",
     "60 Days": "60 Làithean",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "Equatorial Guinea",
     "Eritrea": "Eritrea",
     "Error": "Mearachd",
+    "errors": "errors",
     "Estonia": "Estonia",
     "Ethiopia": "Ethiopia",
     "ex VAT": "às aonais VAT",
@@ -367,6 +368,7 @@
     "Lithuania": "Lithuania",
     "Load :perPage More": "Luchdaich sìos :perPage a bharrachd",
     "Loading": "A' luchdachadh",
+    "Location": "Location",
     "Log in": "Log a-steach",
     "Log In": "Log a-steach",
     "Log Out": "Log a-mach",

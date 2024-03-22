@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(at :count pang error)",
-    "(and :count more errors)": "(at :count pang error)",
+    "(and :count more errors)": "(at :count pang error)|(at :count pang error)|(at :count pang error)",
     "30 Days": "30 Araw",
     "365 Days": "365 Araw",
     "60 Days": "60 Araw",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "Equatorial Guinea",
     "Eritrea": "Eritrea",
     "Error": "Error",
+    "errors": "errors",
     "Estonia": "Estonia",
     "Ethiopia": "Ethiopia",
     "ex VAT": "ex VAT",
@@ -367,6 +368,7 @@
     "Lithuania": "Lithuania",
     "Load :perPage More": "Mag-load ng :perPage More",
     "Loading": "Naglo-load",
+    "Location": "Location",
     "Log in": "Mag log in",
     "Log In": "Mag log in",
     "Log Out": "Log Out",

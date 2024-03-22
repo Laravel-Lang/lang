@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(kunye nempazamo ezili-:count ngaphezulu)",
-    "(and :count more errors)": "(kunye nezinye iimpazamo ezili-:count)",
+    "(and :count more errors)": "(kunye nempazamo ezili-:count ngaphezulu)|(kunye nezinye iimpazamo ezili-:count)|(kunye nezinye iimpazamo ezili-:count)",
     "30 Days": "Iintsuku ezingama-30",
     "365 Days": "Iintsuku ezingama-365",
     "60 Days": "Iintsuku ezingama-60",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "Ekhwithoriyal Gini",
     "Eritrea": "Erithriya",
     "Error": "Impazamo",
+    "errors": "errors",
     "Estonia": "Estoniya",
     "Ethiopia": "Yuthophiya",
     "ex VAT": "Ex VAT",
@@ -367,6 +368,7 @@
     "Lithuania": "Lithuwaniya",
     "Load :perPage More": "Layisha :perPage Ngaphezulu",
     "Loading": "Iyalayisha",
+    "Location": "Location",
     "Log in": "Ngema",
     "Log In": "Ngema",
     "Log Out": "Phuma",

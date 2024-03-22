@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(සහ තවත් දෝෂ :countක්)",
-    "(and :count more errors)": "(සහ තවත් වැරදි :countක්)",
+    "(and :count more errors)": "(සහ තවත් දෝෂ :countක්)|(සහ තවත් වැරදි :countක්)|(සහ තවත් වැරදි :countක්)",
     "30 Days": "දින 30",
     "365 Days": "දින 365",
     "60 Days": "60 දින",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "නිරක්ෂයට යාබද ගිනිය",
     "Eritrea": "ඉරිට්රියා",
     "Error": "දෝෂයකි",
+    "errors": "errors",
     "Estonia": "එස්තෝනියාව",
     "Ethiopia": "ඉතියෝපියාව",
     "ex VAT": "පරණ VAT",
@@ -367,6 +368,7 @@
     "Lithuania": "ලිතුවේනියාව",
     "Load :perPage More": "බර වැඩි :perPage",
     "Loading": "පූරණය වෙමින් පවතී",
+    "Location": "Location",
     "Log in": "වන්න",
     "Log In": "ඇතුල් වන්න",
     "Log Out": "ලඝු-සටහන පිටතට",

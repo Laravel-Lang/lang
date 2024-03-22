@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(மேலும் :count பிழைகள்)",
-    "(and :count more errors)": "(மேலும் :count பிழைகள்)",
+    "(and :count more errors)": "(மேலும் :count பிழைகள்)|(மேலும் :count பிழைகள்)|(மேலும் :count பிழைகள்)",
     "30 Days": "30 நாட்கள்",
     "365 Days": "365 நாட்கள்",
     "60 Days": "60 நாட்கள்",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "எக்குவடோரியல் கினியா",
     "Eritrea": "எரித்திரியா",
     "Error": "பிழை",
+    "errors": "errors",
     "Estonia": "எஸ்டோனியா",
     "Ethiopia": "எத்தியோப்பியா",
     "ex VAT": "முன்னாள் VAT",
@@ -367,6 +368,7 @@
     "Lithuania": "லிதுவேனியா",
     "Load :perPage More": "மேலும் :perPage ஏற்றவும்",
     "Loading": "ஏற்றுகிறது",
+    "Location": "Location",
     "Log in": "உள்நுழைய",
     "Log In": "உள்நுழைய",
     "Log Out": "வெளியேறு",

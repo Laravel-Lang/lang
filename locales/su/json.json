@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(sareng :count deui kasalahan)",
-    "(and :count more errors)": "(sareng :count deui kasalahan)",
+    "(and :count more errors)": "(sareng :count deui kasalahan)|(sareng :count deui kasalahan)|(sareng :count deui kasalahan)",
     "30 Days": "30 poé",
     "365 Days": "365 poé",
     "60 Days": "60 poé",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "Guinea Khatulistiwa",
     "Eritrea": "Éritréa",
     "Error": "Kasalahan",
+    "errors": "errors",
     "Estonia": "Éstonia",
     "Ethiopia": "Étiopia",
     "ex VAT": "ex PPN",
@@ -367,6 +368,7 @@
     "Lithuania": "Lituania",
     "Load :perPage More": "ngamuat :perPage More",
     "Loading": "Ngamuat",
+    "Location": "Location",
     "Log in": "Lebet",
     "Log In": "Lebet",
     "Log Out": "Kaluar",

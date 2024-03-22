@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(ati aṣiṣe :count diẹ sii)",
-    "(and :count more errors)": "(ati awọn aṣiṣe :count diẹ sii)",
+    "(and :count more errors)": "(ati aṣiṣe :count diẹ sii)|(ati awọn aṣiṣe :count diẹ sii)|(ati awọn aṣiṣe :count diẹ sii)",
     "30 Days": "30 Ọjọ",
     "365 Days": "365 Ọjọ",
     "60 Days": "60 Ọjọ",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "Equatorial Guinea",
     "Eritrea": "Eritrea",
     "Error": "Asise",
+    "errors": "errors",
     "Estonia": "Estonia",
     "Ethiopia": "Ethiopia",
     "ex VAT": "fun apẹẹrẹ VAT",
@@ -367,6 +368,7 @@
     "Lithuania": "Lithuania",
     "Load :perPage More": "Fifuye :perPage diẹ sii",
     "Loading": "Ikojọpọ",
+    "Location": "Location",
     "Log in": "Wo ile",
     "Log In": "Wo ile",
     "Log Out": "Jade jade",

@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(ary fahadisoana :count hafa)",
-    "(and :count more errors)": "(ary lesoka :count hafa)",
+    "(and :count more errors)": "(ary fahadisoana :count hafa)|(ary lesoka :count hafa)|(ary lesoka :count hafa)",
     "30 Days": "30 andro",
     "365 Days": "365 andro",
     "60 Days": "60 andro",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "Guinée équatoriale",
     "Eritrea": "ÉRYTHRÉE",
     "Error": "fahadisoana",
+    "errors": "errors",
     "Estonia": "Estonia",
     "Ethiopia": "Ethiopia",
     "ex VAT": "ex VAT",
@@ -367,6 +368,7 @@
     "Lithuania": "LITOANIA",
     "Load :perPage More": "Load :perPage More",
     "Loading": "Loading",
+    "Location": "Location",
     "Log in": "Hiditra",
     "Log In": "Hiditra",
     "Log Out": "Miala",

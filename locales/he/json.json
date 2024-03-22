@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(ועוד :count שגיאות)",
-    "(and :count more errors)": "(ועוד :count שגיאות)",
+    "(and :count more errors)": "(ועוד :count שגיאות)|(ועוד :count שגיאות)|(ועוד :count שגיאות)",
     "30 Days": "30 ימים",
     "365 Days": "365 ימים",
     "60 Days": "60 ימים",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "גינאה המשוונית",
     "Eritrea": "אריתריאה",
     "Error": "שְׁגִיאָה",
+    "errors": "errors",
     "Estonia": "אסטוניה",
     "Ethiopia": "אתיופיה",
     "ex VAT": "ללא מע\"מ",
@@ -367,6 +368,7 @@
     "Lithuania": "ליטא",
     "Load :perPage More": "טען :perPage יותר",
     "Loading": "טעינה",
+    "Location": "Location",
     "Log in": "התחבר",
     "Log In": "התחברות",
     "Log Out": "התנתק",

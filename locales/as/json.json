@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(আৰু আৰু ১০টা ভুল)",
-    "(and :count more errors)": "(আৰু আৰু ১০টা ভুল)",
+    "(and :count more errors)": "(আৰু আৰু ১০টা ভুল)|(আৰু আৰু ১০টা ভুল)|(আৰু আৰু ১০টা ভুল)",
     "30 Days": "৩০ দিন",
     "365 Days": "৩৬৫ দিন",
     "60 Days": "৬০ দিন",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "বিষুৱীয় গিনি",
     "Eritrea": "ইৰিত্ৰিয়া",
     "Error": "আঁসোৱাহ",
+    "errors": "errors",
     "Estonia": "ইষ্টোনিয়া",
     "Ethiopia": "ইথিওপিয়া",
     "ex VAT": "ex VAT",
@@ -367,6 +368,7 @@
     "Lithuania": "লিথুৱেনিয়া",
     "Load :perPage More": "লোড ১০ টা আৰু",
     "Loading": "লোড হৈ আছে",
+    "Location": "Location",
     "Log in": "লগ ইন কৰক",
     "Log In": "লগ ইন কৰক",
     "Log Out": "লগ আউট কৰক",

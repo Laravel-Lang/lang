@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(e mais :count erros)",
-    "(and :count more errors)": "(e mais :count erros)",
+    "(and :count more errors)": "(e mais :count erros)|(e mais :count erros)|(e mais :count erros)",
     "30 Days": "30 dias",
     "365 Days": "365 dias",
     "60 Days": "60 dias",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "Equatorial",
     "Eritrea": "Eritreia",
     "Error": "Erro",
+    "errors": "errors",
     "Estonia": "Estonio",
     "Ethiopia": "Etiope",
     "ex VAT": "sem VAT",
@@ -367,6 +368,7 @@
     "Lithuania": "Lituânia",
     "Load :perPage More": "Carregar mais :perPage",
     "Loading": "Carregando",
+    "Location": "Location",
     "Log in": "Iniciar sessão",
     "Log In": "Iniciar Sessão",
     "Log Out": "Terminar Sessão",

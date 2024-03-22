@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(և ևս :count սխալ)",
-    "(and :count more errors)": "(և ևս :count սխալ)",
+    "(and :count more errors)": "(և ևս :count սխալ)|(և ևս :count սխալ)|(և ևս :count սխալ)",
     "30 Days": "30 օր",
     "365 Days": "365 օր",
     "60 Days": "60 օր",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "Հասարակածային Գվինեա",
     "Eritrea": "Էրիթրեա",
     "Error": "Սխալ",
+    "errors": "errors",
     "Estonia": "Էստոնիա",
     "Ethiopia": "Եթովպիա",
     "ex VAT": "նախկին ԱԱՀ",
@@ -367,6 +368,7 @@
     "Lithuania": "Լիտվա",
     "Load :perPage More": "Ներբեռնեք :per Էջ Ավելին",
     "Loading": "Բեռնվում է",
+    "Location": "Location",
     "Log in": "Մուտք գործել",
     "Log In": "Մուտք գործեք",
     "Log Out": "դուրս գալ համակարգից",

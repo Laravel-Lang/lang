@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(n'ensobi endala :count)",
-    "(and :count more errors)": "(n'ensobi endala :count)",
+    "(and :count more errors)": "(n'ensobi endala :count)|(n'ensobi endala :count)|(n'ensobi endala :count)",
     "30 Days": "Ennaku 30",
     "365 Days": "Ennaku 365",
     "60 Days": "Ennaku 60",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "Equatorial Guinea",
     "Eritrea": "Eritrea mu ggwanga",
     "Error": "Ensobi",
+    "errors": "errors",
     "Estonia": "Estonia",
     "Ethiopia": "Ethiopia",
     "ex VAT": "ex VAT",
@@ -367,6 +368,7 @@
     "Lithuania": "Lithuania eyitibwa Lithuania",
     "Load :perPage More": "Load :perPage Ebisingawo",
     "Loading": "Okutikka",
+    "Location": "Location",
     "Log in": "Yingira mu",
     "Log In": "Yingira mu",
     "Log Out": "Okufuluma",

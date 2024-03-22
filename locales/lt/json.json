@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(ir dar :count klaidų)",
-    "(and :count more errors)": "(ir dar :count klaidų)",
+    "(and :count more errors)": "(ir dar :count klaidų)|(ir dar :count klaidų)|(ir dar :count klaidų)",
     "30 Days": "30 dienų",
     "365 Days": "365 dienos",
     "60 Days": "60 dienų",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "Pusiaujo Gvinėja",
     "Eritrea": "Eritrėja",
     "Error": "Klaida",
+    "errors": "errors",
     "Estonia": "Estija",
     "Ethiopia": "Etiopija",
     "ex VAT": "be PVM",
@@ -367,6 +368,7 @@
     "Lithuania": "Lietuva",
     "Load :perPage More": "Load :perpage plačiau",
     "Loading": "Įkeliama",
+    "Location": "Location",
     "Log in": "Prisijungti",
     "Log In": "Prisijungti",
     "Log Out": "atsijungti",

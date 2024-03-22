@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "（還有 :count 個錯誤）",
-    "(and :count more errors)": "（還有 :count 多個錯誤）",
+    "(and :count more errors)": "（還有 :count 個錯誤）|（還有 :count 多個錯誤）|（還有 :count 多個錯誤）",
     "30 Days": "30天",
     "365 Days": "365天",
     "60 Days": "60天",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "赤道幾內亞",
     "Eritrea": "厄利垂亞",
     "Error": "錯誤",
+    "errors": "errors",
     "Estonia": "愛沙尼亞",
     "Ethiopia": "衣索比亞",
     "ex VAT": "未含增值稅 (營業稅)",
@@ -367,6 +368,7 @@
     "Lithuania": "立陶宛",
     "Load :perPage More": "載入 :perPage 更多",
     "Loading": "載入中",
+    "Location": "Location",
     "Log in": "登入",
     "Log In": "登入",
     "Log Out": "登出",

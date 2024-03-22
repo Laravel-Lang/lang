@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(og :count fejl mere)",
-    "(and :count more errors)": "(og :count fejl mere)",
+    "(and :count more errors)": "(og :count fejl mere)|(og :count fejl mere)|(og :count fejl mere)",
     "30 Days": "30 dage",
     "365 Days": "365 dage",
     "60 Days": "60 dage",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "Ækvatorialguinea",
     "Eritrea": "Eritrea",
     "Error": "Fejl",
+    "errors": "errors",
     "Estonia": "Estland",
     "Ethiopia": "Etiopien",
     "ex VAT": "eksl. moms",
@@ -367,6 +368,7 @@
     "Lithuania": "Litauen",
     "Load :perPage More": "Indlæs :perside mere",
     "Loading": "Indlæser",
+    "Location": "Location",
     "Log in": "Log ind",
     "Log In": "Log ind",
     "Log Out": "Log ud",

@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(en nog :count foute)",
-    "(and :count more errors)": "(en nog :count foute)",
+    "(and :count more errors)": "(en nog :count foute)|(en nog :count foute)|(en nog :count foute)",
     "30 Days": "30 Dae",
     "365 Days": "365 dae",
     "60 Days": "60 Dae",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "Ekwatoriaal-Guinee",
     "Eritrea": "Eritrea",
     "Error": "Fout",
+    "errors": "errors",
     "Estonia": "Estland",
     "Ethiopia": "Ethiopië",
     "ex VAT": "ex BTW",
@@ -367,6 +368,7 @@
     "Lithuania": "Litaue",
     "Load :perPage More": "Laai :perPage Meer",
     "Loading": "Laai tans",
+    "Location": "Location",
     "Log in": "Teken in",
     "Log In": "Teken aan",
     "Log Out": "Teken Uit",

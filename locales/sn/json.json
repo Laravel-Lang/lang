@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(uye :count zvimwe kukanganisa)",
-    "(and :count more errors)": "(uye gumi zvikanganiso)",
+    "(and :count more errors)": "(uye :count zvimwe kukanganisa)|(uye gumi zvikanganiso)|(uye gumi zvikanganiso)",
     "30 Days": "30 Mazuva",
     "365 Days": "365 Mazuva",
     "60 Days": "60 Mazuva",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "Ikwetoriya Gini",
     "Eritrea": "Eritiriya",
     "Error": "Error",
+    "errors": "errors",
     "Estonia": "Esitoniya",
     "Ethiopia": "Ithiyopiya",
     "ex VAT": "ex VAT",
@@ -367,6 +368,7 @@
     "Lithuania": "Rituaniya",
     "Load :perPage More": "Load :perPage More",
     "Loading": "Loading",
+    "Location": "Location",
     "Log in": "Log in",
     "Log In": "Log In",
     "Log Out": "Kubuda",

@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(その他、:countエラーあり)",
-    "(and :count more errors)": "(その他、:countエラーあり)",
+    "(and :count more errors)": "(その他、:countエラーあり)|(その他、:countエラーあり)|(その他、:countエラーあり)",
     "30 Days": "30日",
     "365 Days": "365日",
     "60 Days": "60日",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "赤道ギニア",
     "Eritrea": "エリトリア",
     "Error": "エラー",
+    "errors": "errors",
     "Estonia": "エストニア",
     "Ethiopia": "エチオピア",
     "ex VAT": "ex VAT",
@@ -367,6 +368,7 @@
     "Lithuania": "リトアニア",
     "Load :perPage More": ":PerPageページ分読み込む",
     "Loading": "読み込み中",
+    "Location": "Location",
     "Log in": "ログイン",
     "Log In": "ログイン",
     "Log Out": "ログアウト",

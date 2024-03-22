@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(kple vodada :count bubuwo)",
-    "(and :count more errors)": "(kple vodada :count bubuwo)",
+    "(and :count more errors)": "(kple vodada :count bubuwo)|(kple vodada :count bubuwo)|(kple vodada :count bubuwo)",
     "30 Days": "Ŋkeke 30 lia",
     "365 Days": "Ŋkeke 365. Ŋkeke 365",
     "60 Days": "Ŋkeke 60. Ŋkeke 60",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "Equatorial Guinea ƒe ɣletinyigba",
     "Eritrea": "Eritrea ƒe dukɔ",
     "Error": "Vodada",
+    "errors": "errors",
     "Estonia": "Estonia",
     "Ethiopia": "Ethiopia",
     "ex VAT": "ex VAT",
@@ -367,6 +368,7 @@
     "Lithuania": "Lithuania ƒe dukɔ",
     "Load :perPage More": "Agba :perPage Bubuwo",
     "Loading": "Wole agba tsɔm",
+    "Location": "Location",
     "Log in": "Ge ɖe eme",
     "Log In": "Ge Ðe Eme",
     "Log Out": "Do go le eme",

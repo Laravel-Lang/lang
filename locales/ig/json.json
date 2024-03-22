@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(na njehie :count ọzọ)",
-    "(and :count more errors)": "(na njehie :count ọzọ)",
+    "(and :count more errors)": "(na njehie :count ọzọ)|(na njehie :count ọzọ)|(na njehie :count ọzọ)",
     "30 Days": "Ụbọchị 30",
     "365 Days": "Ụbọchị 365",
     "60 Days": "Ụbọchị 60",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "Equatorial Guinea",
     "Eritrea": "Eritrea",
     "Error": "Njehie",
+    "errors": "errors",
     "Estonia": "Estonia",
     "Ethiopia": "Etiopia",
     "ex VAT": "ex VAT",
@@ -367,6 +368,7 @@
     "Lithuania": "Lithuania",
     "Load :perPage More": "Ibu :perPage ọzọ",
     "Loading": "Na-ebugo",
+    "Location": "Location",
     "Log in": "Banye",
     "Log In": "Banye",
     "Log Out": "Wepụ",

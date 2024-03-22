@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(и ещё :count ошибка)",
-    "(and :count more errors)": "(и ещё :count ошибок)",
+    "(and :count more errors)": "(и ещё :count ошибка)|(и ещё :count ошибки)|(и ещё :count ошибок)",
     "30 Days": "30 дней",
     "365 Days": "365 дней",
     "60 Days": "60 дней",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "Экваториальная Гвинея",
     "Eritrea": "Эритрея",
     "Error": "Ошибка",
+    "errors": "ошибки",
     "Estonia": "Эстония",
     "Ethiopia": "Эфиопия",
     "ex VAT": "без НДС",
@@ -367,6 +368,7 @@
     "Lithuania": "Литва",
     "Load :perPage More": "Загрузить ещё :perPage",
     "Loading": "Загрузка",
+    "Location": "Местоположение",
     "Log in": "Войти",
     "Log In": "Войти",
     "Log Out": "Выйти",

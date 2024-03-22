@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(un vēl :count kļūdas)",
-    "(and :count more errors)": "(un vēl :count kļūdas)",
+    "(and :count more errors)": "(un vēl :count kļūdas)|(un vēl :count kļūdas)|(un vēl :count kļūdas)",
     "30 Days": "30 Dienas",
     "365 Days": "365 dienas",
     "60 Days": "60 dienas",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "Ekvatoriālā Gvineja",
     "Eritrea": "Eritreja",
     "Error": "Kļūda",
+    "errors": "errors",
     "Estonia": "Igaunija",
     "Ethiopia": "Etiopija",
     "ex VAT": "bez PVN",
@@ -367,6 +368,7 @@
     "Lithuania": "Lietuva",
     "Load :perPage More": "Slodze :perPage vairāk",
     "Loading": "Notiek ielāde",
+    "Location": "Location",
     "Log in": "Pieteikties",
     "Log In": "Pieslēgties",
     "Log Out": "iziet",

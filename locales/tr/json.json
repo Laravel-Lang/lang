@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(ve :count hata daha var)",
-    "(and :count more errors)": "(ve :count hata daha var)",
+    "(and :count more errors)": "(ve :count hata daha var)|(ve :count hata daha var)|(ve :count hata daha var)",
     "30 Days": "30 gün",
     "365 Days": "365 gün",
     "60 Days": "60 gün",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "Ekvator Ginesi",
     "Eritrea": "Eritre",
     "Error": "Hata",
+    "errors": "errors",
     "Estonia": "Estonya",
     "Ethiopia": "Etiyopya",
     "ex VAT": "KDV Hariç",
@@ -367,6 +368,7 @@
     "Lithuania": "Litvanya",
     "Load :perPage More": ":Perpage daha yükle",
     "Loading": "Yükleniyor",
+    "Location": "Location",
     "Log in": "Giriş yap",
     "Log In": "Giriş Yap",
     "Log Out": "Çıkış Yap",

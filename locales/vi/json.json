@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(và :count lỗi khác)",
-    "(and :count more errors)": "(và :count lỗi khác)",
+    "(and :count more errors)": "(và :count lỗi khác)|(và :count lỗi khác)|(và :count lỗi khác)",
     "30 Days": "30 Ngày",
     "365 Days": "365 ngày",
     "60 Days": "60 Ngày",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "Equatorial Guinea",
     "Eritrea": "Eritrea",
     "Error": "Lỗi",
+    "errors": "errors",
     "Estonia": "Estonia",
     "Ethiopia": "Ethiopia",
     "ex VAT": "VAT cũ",
@@ -367,6 +368,7 @@
     "Lithuania": "Lithuania",
     "Load :perPage More": "Tải thêm :perPage trang",
     "Loading": "Đang tải",
+    "Location": "Location",
     "Log in": "Đăng nhập",
     "Log In": "Đăng Nhập",
     "Log Out": "Đăng Xuất",

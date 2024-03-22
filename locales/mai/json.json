@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(आ १० टा आओर त्रुटि)",
-    "(and :count more errors)": "(आ १० टा आओर त्रुटि)",
+    "(and :count more errors)": "(आ १० टा आओर त्रुटि)|(आ १० टा आओर त्रुटि)|(आ १० टा आओर त्रुटि)",
     "30 Days": "३० दिन",
     "365 Days": "३६५ दिन",
     "60 Days": "60 दिन",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "भूमध्यरेखीय गिनी",
     "Eritrea": "इरिट्रिया",
     "Error": "दोष",
+    "errors": "errors",
     "Estonia": "एस्टोनिया",
     "Ethiopia": "इथियोपिया",
     "ex VAT": "पूर्व वैट",
@@ -367,6 +368,7 @@
     "Lithuania": "लिथुआनिया",
     "Load :perPage More": "लोड :perPage और",
     "Loading": "लोड हो रहल अछि",
+    "Location": "Location",
     "Log in": "लॉग इन करू",
     "Log In": "लॉग इन करू",
     "Log Out": "लॉग आउट",

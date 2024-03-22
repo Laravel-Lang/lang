@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(ja :count muuta virhettä)",
-    "(and :count more errors)": "(ja :count muuta virhettä)",
+    "(and :count more errors)": "(ja :count muuta virhettä)|(ja :count muuta virhettä)|(ja :count muuta virhettä)",
     "30 Days": "30 päivää",
     "365 Days": "365 päivää",
     "60 Days": "60 päivää",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "Päiväntasaajan Guinea",
     "Eritrea": "Eritrea",
     "Error": "Virhe",
+    "errors": "errors",
     "Estonia": "Viro",
     "Ethiopia": "Etiopia",
     "ex VAT": "poislukien ALV",
@@ -367,6 +368,7 @@
     "Lithuania": "Liettua",
     "Load :perPage More": "Lataa :perSivu lisää",
     "Loading": "Ladataan",
+    "Location": "Location",
     "Log in": "Kirjautunut",
     "Log In": "Kirjaudu sisään",
     "Log Out": "Kirjaudu Ulos",

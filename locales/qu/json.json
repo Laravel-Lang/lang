@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(hinallataq :count pantaykunatawan)",
-    "(and :count more errors)": "(hinallataq :count pantaykunapas)",
+    "(and :count more errors)": "(hinallataq :count pantaykunatawan)|(hinallataq :count pantaykunapas)|(hinallataq :count pantaykunapas)",
     "30 Days": "30 P’unchaw",
     "365 Days": "365 P’unchaw",
     "60 Days": "60 P’unchaw",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "Guinea Icuatorial",
     "Eritrea": "Eritrea suyupi",
     "Error": "Pantay",
+    "errors": "errors",
     "Estonia": "Estonia",
     "Ethiopia": "Etiopía",
     "ex VAT": "ex IVA nisqa",
@@ -367,6 +368,7 @@
     "Lithuania": "Lituania mama llaqta",
     "Load :perPage More": "Carga :perPage Astawan",
     "Loading": "Cargando",
+    "Location": "Location",
     "Log in": "Yaykuy",
     "Log In": "Yaykuy",
     "Log Out": "Lloqsiy",

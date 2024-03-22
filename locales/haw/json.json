@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(a he :count hewa hou aku)",
-    "(and :count more errors)": "(a he :count hewa hou aku)",
+    "(and :count more errors)": "(a he :count hewa hou aku)|(a he :count hewa hou aku)|(a he :count hewa hou aku)",
     "30 Days": "30 mau lā",
     "365 Days": "365 mau lā",
     "60 Days": "60 La",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "Kini ʻEkuakolia",
     "Eritrea": "ʻElikilea",
     "Error": "Kuhihewa",
+    "errors": "errors",
     "Estonia": "ʻEsetonia",
     "Ethiopia": "ʻAikiopa",
     "ex VAT": "ex VAT",
@@ -367,6 +368,7 @@
     "Lithuania": "Lituania",
     "Load :perPage More": "Haawe :perPage More",
     "Loading": "Ke hoʻouka nei",
+    "Location": "Location",
     "Log in": "E komo",
     "Log In": "Komo i loko",
     "Log Out": "Lele",

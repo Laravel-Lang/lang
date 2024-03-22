@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(a :count gwall arall)",
-    "(and :count more errors)": "(a :count arall o wallau)",
+    "(and :count more errors)": "(a :count gwall arall)|(a :count arall o wallau)|(a :count arall o wallau)",
     "30 Days": "30 Diwrnod",
     "365 Days": "365 Dydd",
     "60 Days": "60 Diwrnodau",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "Guinea Gyhydeddol",
     "Eritrea": "Eritrea",
     "Error": "Gwall",
+    "errors": "errors",
     "Estonia": "Estonia",
     "Ethiopia": "Ethiopia",
     "ex VAT": "heb TAW",
@@ -367,6 +368,7 @@
     "Lithuania": "Lithwania",
     "Load :perPage More": "Llwyth :perPage Mwy",
     "Loading": "Llwytho",
+    "Location": "Location",
     "Log in": "Logio i mewn",
     "Log In": "Mewngofnodi",
     "Log Out": "Yn Logio Allan",

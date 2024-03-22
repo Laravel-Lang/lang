@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(a :count dalších chyb)",
-    "(and :count more errors)": "(a :count dalších chyb)",
+    "(and :count more errors)": "(a :count dalších chyb)|(a :count dalších chyb)|(a :count dalších chyb)",
     "30 Days": "30 dní",
     "365 Days": "365 dní",
     "60 Days": "60 dní",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "Rovníková Guinea",
     "Eritrea": "Eritrea",
     "Error": "Chyba",
+    "errors": "errors",
     "Estonia": "Estonsko",
     "Ethiopia": "Etiopie",
     "ex VAT": "bez DPH",
@@ -367,6 +368,7 @@
     "Lithuania": "Litva",
     "Load :perPage More": "Načíst :perPage více",
     "Loading": "načítání",
+    "Location": "Location",
     "Log in": "Přihlásit",
     "Log In": "Přihlásit se",
     "Log Out": "Odhlásit",

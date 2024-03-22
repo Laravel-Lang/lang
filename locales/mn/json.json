@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(болон өөр :count алдаа)",
-    "(and :count more errors)": "(болон өөр :count алдаа)",
+    "(and :count more errors)": "(болон өөр :count алдаа)|(болон өөр :count алдаа)|(болон өөр :count алдаа)",
     "30 Days": "30 хоног",
     "365 Days": "365 хоног",
     "60 Days": "60 хоног",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "Гвиней Улс",
     "Eritrea": "Эритрей",
     "Error": "Алдаа",
+    "errors": "errors",
     "Estonia": "Эстони",
     "Ethiopia": "Этиоп",
     "ex VAT": "өмнөх НӨАТ",
@@ -367,6 +368,7 @@
     "Lithuania": "Литва",
     "Load :perPage More": "Ачаалал :per түүнээс дээш",
     "Loading": "Ачааж байна",
+    "Location": "Location",
     "Log in": "Нэвтрэх",
     "Log In": "Нэвтрэх",
     "Log Out": "Нэвтрэх",

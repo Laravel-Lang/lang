@@ -1,6 +1,6 @@
 {
     "(and :count more error)": "(and :count more error)",
-    "(and :count more errors)": "(and :count more errors)",
+    "(and :count more errors)": "(and :count more error)|(and :count more errors)|(and :count more errors)",
     "30 Days": "30 Kun",
     "365 Days": "365 Days",
     "60 Days": "60 Kun",
@@ -248,6 +248,7 @@
     "Equatorial Guinea": "Equatorial Gvineya",
     "Eritrea": "Eritreya",
     "Error": "Error",
+    "errors": "errors",
     "Estonia": "Estoniya",
     "Ethiopia": "Ethiopia",
     "ex VAT": "ex VAT",
@@ -367,6 +368,7 @@
     "Lithuania": "Litva",
     "Load :perPage More": "Batafsil yuk :perPage",
     "Loading": "Loading",
+    "Location": "Location",
     "Log in": "Kirishinkyu. com. ve",
     "Log In": "Log In",
     "Log Out": "Log Out",

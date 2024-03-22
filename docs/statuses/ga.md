@@ -4,12 +4,12 @@ editLink: false
 
 # ga
 
-##### All missed: 30
+##### All missed: 32
 
 
 ### json
 
-##### Missing: 30
+##### Missing: 32
 
 <table width="100%">
 <tr><th width="50%">
@@ -95,6 +95,15 @@ El Salvador
 </td></tr>
 <tr><td width="50%">
 
+errors
+
+</td><td width="50%">
+
+errors
+
+</td></tr>
+<tr><td width="50%">
+
 Excel (.xlsx)
 
 </td><td width="50%">
@@ -145,6 +154,15 @@ India
 </td><td width="50%">
 
 India
+
+</td></tr>
+<tr><td width="50%">
+
+Location
+
+</td><td width="50%">
+
+Location
 
 </td></tr>
 <tr><td width="50%">

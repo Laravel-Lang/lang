@@ -4,12 +4,12 @@ editLink: false
 
 # ckb
 
-##### All missed: 5
+##### All missed: 7
 
 
 ### json
 
-##### Missing: 5
+##### Missing: 7
 
 <table width="100%">
 <tr><th width="50%">
@@ -41,11 +41,29 @@ CSV (.csv)
 </td></tr>
 <tr><td width="50%">
 
+errors
+
+</td><td width="50%">
+
+errors
+
+</td></tr>
+<tr><td width="50%">
+
 ex VAT
 
 </td><td width="50%">
 
 ex VAT
+
+</td></tr>
+<tr><td width="50%">
+
+Location
+
+</td><td width="50%">
+
+Location
 
 </td></tr>
 <tr><td width="50%">

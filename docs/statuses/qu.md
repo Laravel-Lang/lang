@@ -4,12 +4,12 @@ editLink: false
 
 # qu
 
-##### All missed: 42
+##### All missed: 44
 
 
 ### json
 
-##### Missing: 42
+##### Missing: 44
 
 <table width="100%">
 <tr><th width="50%">
@@ -122,6 +122,15 @@ Editor
 </td></tr>
 <tr><td width="50%">
 
+errors
+
+</td><td width="50%">
+
+errors
+
+</td></tr>
+<tr><td width="50%">
+
 Estonia
 
 </td><td width="50%">
@@ -217,6 +226,15 @@ Jordan
 </td><td width="50%">
 
 Jordan
+
+</td></tr>
+<tr><td width="50%">
+
+Location
+
+</td><td width="50%">
+
+Location
 
 </td></tr>
 <tr><td width="50%">

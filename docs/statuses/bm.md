@@ -4,12 +4,12 @@ editLink: false
 
 # bm
 
-##### All missed: 10
+##### All missed: 12
 
 
 ### json
 
-##### Missing: 10
+##### Missing: 12
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,11 +23,29 @@ Value
 </th></tr>
 <tr><td width="50%">
 
+errors
+
+</td><td width="50%">
+
+errors
+
+</td></tr>
+<tr><td width="50%">
+
 Gabon
 
 </td><td width="50%">
 
 Gabon
+
+</td></tr>
+<tr><td width="50%">
+
+Location
+
+</td><td width="50%">
+
+Location
 
 </td></tr>
 <tr><td width="50%">

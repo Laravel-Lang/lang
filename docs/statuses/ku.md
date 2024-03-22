@@ -4,12 +4,12 @@ editLink: false
 
 # ku
 
-##### All missed: 76
+##### All missed: 78
 
 
 ### json
 
-##### Missing: 76
+##### Missing: 78
 
 <table width="100%">
 <tr><th width="50%">
@@ -176,6 +176,15 @@ Email
 </td></tr>
 <tr><td width="50%">
 
+errors
+
+</td><td width="50%">
+
+errors
+
+</td></tr>
+<tr><td width="50%">
+
 ex VAT
 
 </td><td width="50%">
@@ -316,6 +325,15 @@ Kenya
 </td><td width="50%">
 
 Kenya
+
+</td></tr>
+<tr><td width="50%">
+
+Location
+
+</td><td width="50%">
+
+Location
 
 </td></tr>
 <tr><td width="50%">

@@ -4,7 +4,7 @@ editLink: false
 
 # sc
 
-##### All missed: 936
+##### All missed: 911
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 812
+##### Missing: 814
 
 <table width="100%">
 <tr><th width="50%">
@@ -182,7 +182,7 @@ Value
 
 </td><td width="50%">
 
-(and :count more errors)
+(and :count more error)|(and :count more errors)|(and :count more errors)
 
 </td></tr>
 <tr><td width="50%">
@@ -2338,6 +2338,15 @@ Error
 </td></tr>
 <tr><td width="50%">
 
+errors
+
+</td><td width="50%">
+
+errors
+
+</td></tr>
+<tr><td width="50%">
+
 Estonia
 
 </td><td width="50%">
@@ -3362,6 +3371,15 @@ Loading
 </td><td width="50%">
 
 Loading
+
+</td></tr>
+<tr><td width="50%">
+
+Location
+
+</td><td width="50%">
+
+Location
 
 </td></tr>
 <tr><td width="50%">
@@ -7485,7 +7503,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 51
+##### Missing: 52
 
 <table width="100%">
 <tr><th width="50%">
@@ -7522,6 +7540,15 @@ alpha
 </td><td width="50%">
 
 This field must only contain letters.
+
+</td></tr>
+<tr><td width="50%">
+
+alpha_dash
+
+</td><td width="50%">
+
+This field must only contain letters, numbers, dashes, and underscores.
 
 </td></tr>
 <tr><td width="50%">
@@ -7964,7 +7991,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 59
+##### Missing: 31
 
 <table width="100%">
 <tr><th width="50%">
@@ -7978,38 +8005,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-accepted_if
-
-</td><td width="50%">
-
-The :attribute must be accepted when :other is :value.
-
-</td></tr>
-<tr><td width="50%">
-
-after_or_equal
-
-</td><td width="50%">
-
-The :attribute must be a date after or equal to :date.
-
-</td></tr>
-<tr><td width="50%">
-
 attached
 
 </td><td width="50%">
 
 This :attribute is already attached.
-
-</td></tr>
-<tr><td width="50%">
-
-before_or_equal
-
-</td><td width="50%">
-
-The :attribute must be a date before or equal to :date.
 
 </td></tr>
 <tr><td width="50%">
@@ -8032,56 +8032,11 @@ The password is incorrect.
 </td></tr>
 <tr><td width="50%">
 
-date_equals
-
-</td><td width="50%">
-
-The :attribute must be a date equal to :date.
-
-</td></tr>
-<tr><td width="50%">
-
-declined
-
-</td><td width="50%">
-
-The :attribute must be declined.
-
-</td></tr>
-<tr><td width="50%">
-
-declined_if
-
-</td><td width="50%">
-
-The :attribute must be declined when :other is :value.
-
-</td></tr>
-<tr><td width="50%">
-
-dimensions
-
-</td><td width="50%">
-
-The :attribute has invalid image dimensions.
-
-</td></tr>
-<tr><td width="50%">
-
 distinct
 
 </td><td width="50%">
 
 The :attribute field has a duplicate value.
-
-</td></tr>
-<tr><td width="50%">
-
-ends_with
-
-</td><td width="50%">
-
-The :attribute must end with one of the following: :values.
 
 </td></tr>
 <tr><td width="50%">
@@ -8104,60 +8059,6 @@ These credentials do not match our records.
 </td></tr>
 <tr><td width="50%">
 
-file
-
-</td><td width="50%">
-
-The :attribute must be a file.
-
-</td></tr>
-<tr><td width="50%">
-
-gt.array
-
-</td><td width="50%">
-
-The :attribute must have more than :value items.
-
-</td></tr>
-<tr><td width="50%">
-
-gt.file
-
-</td><td width="50%">
-
-The :attribute must be greater than :value kilobytes.
-
-</td></tr>
-<tr><td width="50%">
-
-gt.numeric
-
-</td><td width="50%">
-
-The :attribute must be greater than :value.
-
-</td></tr>
-<tr><td width="50%">
-
-gt.string
-
-</td><td width="50%">
-
-The :attribute must be greater than :value characters.
-
-</td></tr>
-<tr><td width="50%">
-
-gte.array
-
-</td><td width="50%">
-
-The :attribute must have :value items or more.
-
-</td></tr>
-<tr><td width="50%">
-
 hex_color
 
 </td><td width="50%">
@@ -8167,29 +8068,11 @@ The :attribute field must be a valid hexadecimal color.
 </td></tr>
 <tr><td width="50%">
 
-ipv4
+in_array
 
 </td><td width="50%">
 
-The :attribute must be a valid IPv4 address.
-
-</td></tr>
-<tr><td width="50%">
-
-ipv6
-
-</td><td width="50%">
-
-The :attribute must be a valid IPv6 address.
-
-</td></tr>
-<tr><td width="50%">
-
-json
-
-</td><td width="50%">
-
-The :attribute must be a valid JSON string.
+The :attribute field must exist in :other.
 
 </td></tr>
 <tr><td width="50%">
@@ -8199,60 +8082,6 @@ list
 </td><td width="50%">
 
 The :attribute field must be a list.
-
-</td></tr>
-<tr><td width="50%">
-
-lt.array
-
-</td><td width="50%">
-
-The :attribute must have less than :value items.
-
-</td></tr>
-<tr><td width="50%">
-
-lt.file
-
-</td><td width="50%">
-
-The :attribute must be less than :value kilobytes.
-
-</td></tr>
-<tr><td width="50%">
-
-lt.numeric
-
-</td><td width="50%">
-
-The :attribute must be less than :value.
-
-</td></tr>
-<tr><td width="50%">
-
-lt.string
-
-</td><td width="50%">
-
-The :attribute must be less than :value characters.
-
-</td></tr>
-<tr><td width="50%">
-
-lte.array
-
-</td><td width="50%">
-
-The :attribute must not have more than :value items.
-
-</td></tr>
-<tr><td width="50%">
-
-mac_address
-
-</td><td width="50%">
-
-The :attribute must be a valid MAC address.
 
 </td></tr>
 <tr><td width="50%">
@@ -8298,33 +8127,6 @@ missing_with_all
 </td><td width="50%">
 
 The :attribute field must be missing when :values are present.
-
-</td></tr>
-<tr><td width="50%">
-
-multiple_of
-
-</td><td width="50%">
-
-The :attribute must be a multiple of :value.
-
-</td></tr>
-<tr><td width="50%">
-
-not_regex
-
-</td><td width="50%">
-
-The :attribute format is invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-password
-
-</td><td width="50%">
-
-The password is incorrect.
 
 </td></tr>
 <tr><td width="50%">
@@ -8455,24 +8257,6 @@ The :attribute field is required unless :other is in :values.
 </td></tr>
 <tr><td width="50%">
 
-starts_with
-
-</td><td width="50%">
-
-The :attribute must start with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-string
-
-</td><td width="50%">
-
-The :attribute must be a string.
-
-</td></tr>
-<tr><td width="50%">
-
 throttle
 
 </td><td width="50%">
@@ -8496,15 +8280,6 @@ uploaded
 </td><td width="50%">
 
 The :attribute failed to upload.
-
-</td></tr>
-<tr><td width="50%">
-
-uuid
-
-</td><td width="50%">
-
-The :attribute must be a valid UUID.
 
 </td></tr>
 </table>

@@ -4,12 +4,12 @@ editLink: false
 
 # pt
 
-##### All missed: 11
+##### All missed: 13
 
 
 ### json
 
-##### Missing: 11
+##### Missing: 13
 
 <table width="100%">
 <tr><th width="50%">
@@ -59,6 +59,15 @@ Costa Rica
 </td></tr>
 <tr><td width="50%">
 
+errors
+
+</td><td width="50%">
+
+errors
+
+</td></tr>
+<tr><td width="50%">
+
 Haiti
 
 </td><td width="50%">
@@ -82,6 +91,15 @@ Liechtenstein
 </td><td width="50%">
 
 Liechtenstein
+
+</td></tr>
+<tr><td width="50%">
+
+Location
+
+</td><td width="50%">
+
+Location
 
 </td></tr>
 <tr><td width="50%">

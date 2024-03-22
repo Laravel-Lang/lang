@@ -4,12 +4,12 @@ editLink: false
 
 # so
 
-##### All missed: 174
+##### All missed: 176
 
 
 ### json
 
-##### Missing: 174
+##### Missing: 176
 
 <table width="100%">
 <tr><th width="50%">
@@ -401,6 +401,15 @@ Eritrea
 </td></tr>
 <tr><td width="50%">
 
+errors
+
+</td><td width="50%">
+
+errors
+
+</td></tr>
+<tr><td width="50%">
+
 Estonia
 
 </td><td width="50%">
@@ -775,6 +784,15 @@ Lithuania
 </td><td width="50%">
 
 Lithuania
+
+</td></tr>
+<tr><td width="50%">
+
+Location
+
+</td><td width="50%">
+
+Location
 
 </td></tr>
 <tr><td width="50%">

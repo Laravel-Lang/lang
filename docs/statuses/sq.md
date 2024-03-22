@@ -4,12 +4,12 @@ editLink: false
 
 # sq
 
-##### All missed: 48
+##### All missed: 50
 
 
 ### json
 
-##### Missing: 48
+##### Missing: 50
 
 <table width="100%">
 <tr><th width="50%">
@@ -131,6 +131,15 @@ Eritrea
 </td></tr>
 <tr><td width="50%">
 
+errors
+
+</td><td width="50%">
+
+errors
+
+</td></tr>
+<tr><td width="50%">
+
 Estonia
 
 </td><td width="50%">
@@ -235,6 +244,15 @@ Liberia
 </td><td width="50%">
 
 Liberia
+
+</td></tr>
+<tr><td width="50%">
+
+Location
+
+</td><td width="50%">
+
+Location
 
 </td></tr>
 <tr><td width="50%">

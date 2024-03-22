@@ -4,12 +4,12 @@ editLink: false
 
 # nb
 
-##### All missed: 3
+##### All missed: 5
 
 
 ### json
 
-##### Missing: 3
+##### Missing: 5
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,11 +23,29 @@ Value
 </th></tr>
 <tr><td width="50%">
 
+errors
+
+</td><td width="50%">
+
+errors
+
+</td></tr>
+<tr><td width="50%">
+
 Iran, Islamic Republic Of
 
 </td><td width="50%">
 
 Iran
+
+</td></tr>
+<tr><td width="50%">
+
+Location
+
+</td><td width="50%">
+
+Location
 
 </td></tr>
 <tr><td width="50%">

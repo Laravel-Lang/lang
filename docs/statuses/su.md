@@ -4,12 +4,12 @@ editLink: false
 
 # su
 
-##### All missed: 117
+##### All missed: 119
 
 
 ### json
 
-##### Missing: 117
+##### Missing: 119
 
 <table width="100%">
 <tr><th width="50%">
@@ -275,6 +275,15 @@ Editor
 </td></tr>
 <tr><td width="50%">
 
+errors
+
+</td><td width="50%">
+
+errors
+
+</td></tr>
+<tr><td width="50%">
+
 Excel (.xlsx)
 
 </td><td width="50%">
@@ -505,6 +514,15 @@ Liberia
 </td><td width="50%">
 
 Liberia
+
+</td></tr>
+<tr><td width="50%">
+
+Location
+
+</td><td width="50%">
+
+Location
 
 </td></tr>
 <tr><td width="50%">

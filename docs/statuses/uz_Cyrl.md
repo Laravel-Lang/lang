@@ -4,12 +4,12 @@ editLink: false
 
 # uz_Cyrl
 
-##### All missed: 34
+##### All missed: 36
 
 
 ### json
 
-##### Missing: 34
+##### Missing: 36
 
 <table width="100%">
 <tr><th width="50%">
@@ -104,6 +104,15 @@ Chad
 </td></tr>
 <tr><td width="50%">
 
+errors
+
+</td><td width="50%">
+
+errors
+
+</td></tr>
+<tr><td width="50%">
+
 Gabon
 
 </td><td width="50%">
@@ -163,6 +172,15 @@ Kosovo
 </td><td width="50%">
 
 Kosovo
+
+</td></tr>
+<tr><td width="50%">
+
+Location
+
+</td><td width="50%">
+
+Location
 
 </td></tr>
 <tr><td width="50%">

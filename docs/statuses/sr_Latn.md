@@ -4,7 +4,7 @@ editLink: false
 
 # sr_Latn
 
-##### All missed: 324
+##### All missed: 322
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 257
+##### Missing: 259
 
 <table width="100%">
 <tr><th width="50%">
@@ -182,7 +182,7 @@ Value
 
 </td><td width="50%">
 
-(and :count more errors)
+(and :count more error)|(and :count more errors)|(and :count more errors)
 
 </td></tr>
 <tr><td width="50%">
@@ -781,6 +781,15 @@ Error
 </td></tr>
 <tr><td width="50%">
 
+errors
+
+</td><td width="50%">
+
+errors
+
+</td></tr>
+<tr><td width="50%">
+
 ex VAT
 
 </td><td width="50%">
@@ -975,6 +984,15 @@ Loading
 </td><td width="50%">
 
 Loading
+
+</td></tr>
+<tr><td width="50%">
+
+Location
+
+</td><td width="50%">
+
+Location
 
 </td></tr>
 <tr><td width="50%">
@@ -2787,7 +2805,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 22
+##### Missing: 18
 
 <table width="100%">
 <tr><th width="50%">
@@ -2799,15 +2817,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-accepted_if
-
-</td><td width="50%">
-
-The :attribute must be accepted when :other is :value.
-
-</td></tr>
 <tr><td width="50%">
 
 can
@@ -2824,24 +2833,6 @@ current_password
 </td><td width="50%">
 
 The password is incorrect.
-
-</td></tr>
-<tr><td width="50%">
-
-declined
-
-</td><td width="50%">
-
-The :attribute must be declined.
-
-</td></tr>
-<tr><td width="50%">
-
-declined_if
-
-</td><td width="50%">
-
-The :attribute must be declined when :other is :value.
 
 </td></tr>
 <tr><td width="50%">
@@ -2869,15 +2860,6 @@ list
 </td><td width="50%">
 
 The :attribute field must be a list.
-
-</td></tr>
-<tr><td width="50%">
-
-mac_address
-
-</td><td width="50%">
-
-The :attribute must be a valid MAC address.
 
 </td></tr>
 <tr><td width="50%">

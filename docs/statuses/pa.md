@@ -4,12 +4,12 @@ editLink: false
 
 # pa
 
-##### All missed: 3
+##### All missed: 5
 
 
 ### json
 
-##### Missing: 3
+##### Missing: 5
 
 <table width="100%">
 <tr><th width="50%">
@@ -32,11 +32,29 @@ CSV (.csv)
 </td></tr>
 <tr><td width="50%">
 
+errors
+
+</td><td width="50%">
+
+errors
+
+</td></tr>
+<tr><td width="50%">
+
 Excel (.xlsx)
 
 </td><td width="50%">
 
 Excel (.xlsx)
+
+</td></tr>
+<tr><td width="50%">
+
+Location
+
+</td><td width="50%">
+
+Location
 
 </td></tr>
 <tr><td width="50%">

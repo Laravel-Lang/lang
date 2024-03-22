@@ -4,12 +4,12 @@ editLink: false
 
 # cs
 
-##### All missed: 53
+##### All missed: 55
 
 
 ### json
 
-##### Missing: 53
+##### Missing: 55
 
 <table width="100%">
 <tr><th width="50%">
@@ -149,6 +149,15 @@ Eritrea
 </td></tr>
 <tr><td width="50%">
 
+errors
+
+</td><td width="50%">
+
+errors
+
+</td></tr>
+<tr><td width="50%">
+
 Ghana
 
 </td><td width="50%">
@@ -271,6 +280,15 @@ Lesotho
 </td><td width="50%">
 
 Lesotho
+
+</td></tr>
+<tr><td width="50%">
+
+Location
+
+</td><td width="50%">
+
+Location
 
 </td></tr>
 <tr><td width="50%">

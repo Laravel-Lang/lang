@@ -4,12 +4,12 @@ editLink: false
 
 # my
 
-##### All missed: 21
+##### All missed: 23
 
 
 ### json
 
-##### Missing: 21
+##### Missing: 23
 
 <table width="100%">
 <tr><th width="50%">
@@ -68,6 +68,15 @@ Côte d'Ivoire
 </td></tr>
 <tr><td width="50%">
 
+errors
+
+</td><td width="50%">
+
+errors
+
+</td></tr>
+<tr><td width="50%">
+
 Excel (.xlsx)
 
 </td><td width="50%">
@@ -109,6 +118,15 @@ Isle of Man
 </td><td width="50%">
 
 Isle of Man
+
+</td></tr>
+<tr><td width="50%">
+
+Location
+
+</td><td width="50%">
+
+Location
 
 </td></tr>
 <tr><td width="50%">

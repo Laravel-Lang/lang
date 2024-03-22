@@ -4,12 +4,12 @@ editLink: false
 
 # bs
 
-##### All missed: 15
+##### All missed: 17
 
 
 ### json
 
-##### Missing: 15
+##### Missing: 17
 
 <table width="100%">
 <tr><th width="50%">
@@ -37,6 +37,15 @@ Default
 </td><td width="50%">
 
 Default
+
+</td></tr>
+<tr><td width="50%">
+
+errors
+
+</td><td width="50%">
+
+errors
 
 </td></tr>
 <tr><td width="50%">
@@ -73,6 +82,15 @@ Light
 </td><td width="50%">
 
 Light
+
+</td></tr>
+<tr><td width="50%">
+
+Location
+
+</td><td width="50%">
+
+Location
 
 </td></tr>
 <tr><td width="50%">

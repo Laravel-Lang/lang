@@ -4,12 +4,12 @@ editLink: false
 
 # xh
 
-##### All missed: 35
+##### All missed: 37
 
 
 ### json
 
-##### Missing: 35
+##### Missing: 37
 
 <table width="100%">
 <tr><th width="50%">
@@ -95,6 +95,15 @@ Dashboard
 </td></tr>
 <tr><td width="50%">
 
+errors
+
+</td><td width="50%">
+
+errors
+
+</td></tr>
+<tr><td width="50%">
+
 Fiji
 
 </td><td width="50%">
@@ -163,6 +172,15 @@ Libyan Arab Jamahiriya
 </td><td width="50%">
 
 Libyan Arab Jamahiriya
+
+</td></tr>
+<tr><td width="50%">
+
+Location
+
+</td><td width="50%">
+
+Location
 
 </td></tr>
 <tr><td width="50%">

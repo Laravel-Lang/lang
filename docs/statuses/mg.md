@@ -4,12 +4,12 @@ editLink: false
 
 # mg
 
-##### All missed: 116
+##### All missed: 118
 
 
 ### json
 
-##### Missing: 116
+##### Missing: 118
 
 <table width="100%">
 <tr><th width="50%">
@@ -248,6 +248,15 @@ El Salvador
 </td></tr>
 <tr><td width="50%">
 
+errors
+
+</td><td width="50%">
+
+errors
+
+</td></tr>
+<tr><td width="50%">
+
 Estonia
 
 </td><td width="50%">
@@ -478,6 +487,15 @@ Loading
 </td><td width="50%">
 
 Loading
+
+</td></tr>
+<tr><td width="50%">
+
+Location
+
+</td><td width="50%">
+
+Location
 
 </td></tr>
 <tr><td width="50%">

@@ -4,12 +4,12 @@ editLink: false
 
 # ceb
 
-##### All missed: 248
+##### All missed: 250
 
 
 ### json
 
-##### Missing: 248
+##### Missing: 250
 
 <table width="100%">
 <tr><th width="50%">
@@ -671,6 +671,15 @@ Eritrea
 </td></tr>
 <tr><td width="50%">
 
+errors
+
+</td><td width="50%">
+
+errors
+
+</td></tr>
+<tr><td width="50%">
+
 Estonia
 
 </td><td width="50%">
@@ -1180,6 +1189,15 @@ Lithuania
 </td><td width="50%">
 
 Lithuania
+
+</td></tr>
+<tr><td width="50%">
+
+Location
+
+</td><td width="50%">
+
+Location
 
 </td></tr>
 <tr><td width="50%">

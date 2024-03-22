@@ -4,12 +4,12 @@ editLink: false
 
 # ro
 
-##### All missed: 115
+##### All missed: 117
 
 
 ### json
 
-##### Missing: 115
+##### Missing: 117
 
 <table width="100%">
 <tr><th width="50%">
@@ -347,6 +347,15 @@ Editor
 </td></tr>
 <tr><td width="50%">
 
+errors
+
+</td><td width="50%">
+
+errors
+
+</td></tr>
+<tr><td width="50%">
+
 Estonia
 
 </td><td width="50%">
@@ -568,6 +577,15 @@ Liechtenstein
 </td><td width="50%">
 
 Liechtenstein
+
+</td></tr>
+<tr><td width="50%">
+
+Location
+
+</td><td width="50%">
+
+Location
 
 </td></tr>
 <tr><td width="50%">

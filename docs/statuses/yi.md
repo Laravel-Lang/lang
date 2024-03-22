@@ -4,12 +4,12 @@ editLink: false
 
 # yi
 
-##### All missed: 12
+##### All missed: 14
 
 
 ### json
 
-##### Missing: 12
+##### Missing: 14
 
 <table width="100%">
 <tr><th width="50%">
@@ -41,6 +41,15 @@ CSV (.csv)
 </td></tr>
 <tr><td width="50%">
 
+errors
+
+</td><td width="50%">
+
+errors
+
+</td></tr>
+<tr><td width="50%">
+
 Guernsey
 
 </td><td width="50%">
@@ -64,6 +73,15 @@ Loading
 </td><td width="50%">
 
 Loading
+
+</td></tr>
+<tr><td width="50%">
+
+Location
+
+</td><td width="50%">
+
+Location
 
 </td></tr>
 <tr><td width="50%">

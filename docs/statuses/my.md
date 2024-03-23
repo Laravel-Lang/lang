@@ -4,12 +4,12 @@ editLink: false
 
 # my
 
-##### All missed: 24
+##### All missed: 21
 
 
 ### json
 
-##### Missing: 24
+##### Missing: 21
 
 <table width="100%">
 <tr><th width="50%">
@@ -68,15 +68,6 @@ Côte d'Ivoire
 </td></tr>
 <tr><td width="50%">
 
-email
-
-</td><td width="50%">
-
-email
-
-</td></tr>
-<tr><td width="50%">
-
 Excel (.xlsx)
 
 </td><td width="50%">
@@ -131,15 +122,6 @@ Montserrat
 </td></tr>
 <tr><td width="50%">
 
-name
-
-</td><td width="50%">
-
-name
-
-</td></tr>
-<tr><td width="50%">
-
 Nauru
 
 </td><td width="50%">
@@ -154,15 +136,6 @@ Niue
 </td><td width="50%">
 
 Niue
-
-</td></tr>
-<tr><td width="50%">
-
-password
-
-</td><td width="50%">
-
-password
 
 </td></tr>
 <tr><td width="50%">

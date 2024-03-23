@@ -4,12 +4,12 @@ editLink: false
 
 # om
 
-##### All missed: 19
+##### All missed: 16
 
 
 ### json
 
-##### Missing: 19
+##### Missing: 16
 
 <table width="100%">
 <tr><th width="50%">
@@ -59,15 +59,6 @@ Checkout
 </td></tr>
 <tr><td width="50%">
 
-email
-
-</td><td width="50%">
-
-email
-
-</td></tr>
-<tr><td width="50%">
-
 ex VAT
 
 </td><td width="50%">
@@ -113,15 +104,6 @@ Log Out
 </td></tr>
 <tr><td width="50%">
 
-name
-
-</td><td width="50%">
-
-name
-
-</td></tr>
-<tr><td width="50%">
-
 Niue
 
 </td><td width="50%">
@@ -136,15 +118,6 @@ Nova
 </td><td width="50%">
 
 Nova
-
-</td></tr>
-<tr><td width="50%">
-
-password
-
-</td><td width="50%">
-
-password
 
 </td></tr>
 <tr><td width="50%">

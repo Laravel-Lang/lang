@@ -4,12 +4,12 @@ editLink: false
 
 # ky
 
-##### All missed: 17
+##### All missed: 15
 
 
 ### json
 
-##### Missing: 17
+##### Missing: 15
 
 <table width="100%">
 <tr><th width="50%">
@@ -104,15 +104,6 @@ Log Viewer
 </td></tr>
 <tr><td width="50%">
 
-name
-
-</td><td width="50%">
-
-name
-
-</td></tr>
-<tr><td width="50%">
-
 Nova
 
 </td><td width="50%">
@@ -127,15 +118,6 @@ Original
 </td><td width="50%">
 
 Original
-
-</td></tr>
-<tr><td width="50%">
-
-password
-
-</td><td width="50%">
-
-password
 
 </td></tr>
 <tr><td width="50%">

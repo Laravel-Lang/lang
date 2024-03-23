@@ -4,12 +4,12 @@ editLink: false
 
 # af
 
-##### All missed: 7
+##### All missed: 4
 
 
 ### json
 
-##### Missing: 7
+##### Missing: 4
 
 <table width="100%">
 <tr><th width="50%">
@@ -32,15 +32,6 @@ Status
 </td></tr>
 <tr><td width="50%">
 
-email
-
-</td><td width="50%">
-
-email
-
-</td></tr>
-<tr><td width="50%">
-
 Iran, Islamic Republic Of
 
 </td><td width="50%">
@@ -55,24 +46,6 @@ Logs
 </td><td width="50%">
 
 Logs
-
-</td></tr>
-<tr><td width="50%">
-
-name
-
-</td><td width="50%">
-
-name
-
-</td></tr>
-<tr><td width="50%">
-
-password
-
-</td><td width="50%">
-
-password
 
 </td></tr>
 <tr><td width="50%">

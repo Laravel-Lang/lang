@@ -4,12 +4,12 @@ editLink: false
 
 # fil
 
-##### All missed: 240
+##### All missed: 239
 
 
 ### json
 
-##### Missing: 240
+##### Missing: 239
 
 <table width="100%">
 <tr><th width="50%">
@@ -1378,15 +1378,6 @@ Myanmar
 </td><td width="50%">
 
 Myanmar
-
-</td></tr>
-<tr><td width="50%">
-
-name
-
-</td><td width="50%">
-
-name
 
 </td></tr>
 <tr><td width="50%">

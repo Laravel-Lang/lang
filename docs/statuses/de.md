@@ -4,12 +4,12 @@ editLink: false
 
 # de
 
-##### All missed: 4
+##### All missed: 2
 
 
 ### json
 
-##### Missing: 4
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,29 +23,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-email
-
-</td><td width="50%">
-
-email
-
-</td></tr>
-<tr><td width="50%">
-
 name
 
 </td><td width="50%">
 
 name
-
-</td></tr>
-<tr><td width="50%">
-
-password
-
-</td><td width="50%">
-
-password
 
 </td></tr>
 <tr><td width="50%">

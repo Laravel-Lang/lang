@@ -4,12 +4,12 @@ editLink: false
 
 # tl
 
-##### All missed: 130
+##### All missed: 128
 
 
 ### json
 
-##### Missing: 130
+##### Missing: 128
 
 <table width="100%">
 <tr><th width="50%">
@@ -262,15 +262,6 @@ Editor
 </td><td width="50%">
 
 Editor
-
-</td></tr>
-<tr><td width="50%">
-
-email
-
-</td><td width="50%">
-
-email
 
 </td></tr>
 <tr><td width="50%">
@@ -685,15 +676,6 @@ Montserrat
 </td><td width="50%">
 
 Montserrat
-
-</td></tr>
-<tr><td width="50%">
-
-name
-
-</td><td width="50%">
-
-name
 
 </td></tr>
 <tr><td width="50%">

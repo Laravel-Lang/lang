@@ -4,12 +4,12 @@ editLink: false
 
 # eo
 
-##### All missed: 21
+##### All missed: 18
 
 
 ### json
 
-##### Missing: 21
+##### Missing: 18
 
 <table width="100%">
 <tr><th width="50%">
@@ -68,15 +68,6 @@ CSV (.csv)
 </td></tr>
 <tr><td width="50%">
 
-email
-
-</td><td width="50%">
-
-email
-
-</td></tr>
-<tr><td width="50%">
-
 Excel (.xlsx)
 
 </td><td width="50%">
@@ -131,15 +122,6 @@ Montenegro
 </td></tr>
 <tr><td width="50%">
 
-name
-
-</td><td width="50%">
-
-name
-
-</td></tr>
-<tr><td width="50%">
-
 Niue
 
 </td><td width="50%">
@@ -154,15 +136,6 @@ Nova
 </td><td width="50%">
 
 Nova
-
-</td></tr>
-<tr><td width="50%">
-
-password
-
-</td><td width="50%">
-
-password
 
 </td></tr>
 <tr><td width="50%">

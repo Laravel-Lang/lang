@@ -4,12 +4,12 @@ editLink: false
 
 # su
 
-##### All missed: 120
+##### All missed: 117
 
 
 ### json
 
-##### Missing: 120
+##### Missing: 117
 
 <table width="100%">
 <tr><th width="50%">
@@ -271,15 +271,6 @@ Editor
 </td><td width="50%">
 
 Editor
-
-</td></tr>
-<tr><td width="50%">
-
-email
-
-</td><td width="50%">
-
-email
 
 </td></tr>
 <tr><td width="50%">
@@ -635,15 +626,6 @@ Myanmar
 </td></tr>
 <tr><td width="50%">
 
-name
-
-</td><td width="50%">
-
-name
-
-</td></tr>
-<tr><td width="50%">
-
 Namibia
 
 </td><td width="50%">
@@ -757,15 +739,6 @@ Paraguay
 </td><td width="50%">
 
 Paraguay
-
-</td></tr>
-<tr><td width="50%">
-
-password
-
-</td><td width="50%">
-
-password
 
 </td></tr>
 <tr><td width="50%">

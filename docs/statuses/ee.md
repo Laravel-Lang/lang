@@ -4,12 +4,12 @@ editLink: false
 
 # ee
 
-##### All missed: 139
+##### All missed: 136
 
 
 ### json
 
-##### Missing: 139
+##### Missing: 136
 
 <table width="100%">
 <tr><th width="50%">
@@ -280,15 +280,6 @@ Ecuador
 </td><td width="50%">
 
 Ecuador
-
-</td></tr>
-<tr><td width="50%">
-
-email
-
-</td><td width="50%">
-
-email
 
 </td></tr>
 <tr><td width="50%">
@@ -797,15 +788,6 @@ Myanmar
 </td></tr>
 <tr><td width="50%">
 
-name
-
-</td><td width="50%">
-
-name
-
-</td></tr>
-<tr><td width="50%">
-
 Nepal
 
 </td><td width="50%">
@@ -901,15 +883,6 @@ Panama
 </td><td width="50%">
 
 Panama
-
-</td></tr>
-<tr><td width="50%">
-
-password
-
-</td><td width="50%">
-
-password
 
 </td></tr>
 <tr><td width="50%">

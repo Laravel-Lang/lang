@@ -4,12 +4,12 @@ editLink: false
 
 # ak
 
-##### All missed: 90
+##### All missed: 87
 
 
 ### json
 
-##### Missing: 90
+##### Missing: 87
 
 <table width="100%">
 <tr><th width="50%">
@@ -208,15 +208,6 @@ Egypt
 </td><td width="50%">
 
 Egypt
-
-</td></tr>
-<tr><td width="50%">
-
-email
-
-</td><td width="50%">
-
-email
 
 </td></tr>
 <tr><td width="50%">
@@ -491,15 +482,6 @@ Mexico
 </td></tr>
 <tr><td width="50%">
 
-name
-
-</td><td width="50%">
-
-name
-
-</td></tr>
-<tr><td width="50%">
-
 Nepal
 
 </td><td width="50%">
@@ -604,15 +586,6 @@ Panama
 </td><td width="50%">
 
 Panama
-
-</td></tr>
-<tr><td width="50%">
-
-password
-
-</td><td width="50%">
-
-password
 
 </td></tr>
 <tr><td width="50%">

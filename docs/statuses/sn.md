@@ -4,12 +4,12 @@ editLink: false
 
 # sn
 
-##### All missed: 201
+##### All missed: 199
 
 
 ### json
 
-##### Missing: 201
+##### Missing: 199
 
 <table width="100%">
 <tr><th width="50%">
@@ -1022,15 +1022,6 @@ Monthly
 </td></tr>
 <tr><td width="50%">
 
-name
-
-</td><td width="50%">
-
-name
-
-</td></tr>
-<tr><td width="50%">
-
 Nauru
 
 </td><td width="50%">
@@ -1144,15 +1135,6 @@ Panama
 </td><td width="50%">
 
 Panama
-
-</td></tr>
-<tr><td width="50%">
-
-password
-
-</td><td width="50%">
-
-password
 
 </td></tr>
 <tr><td width="50%">

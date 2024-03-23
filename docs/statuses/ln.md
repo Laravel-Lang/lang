@@ -4,12 +4,12 @@ editLink: false
 
 # ln
 
-##### All missed: 55
+##### All missed: 52
 
 
 ### json
 
-##### Missing: 55
+##### Missing: 52
 
 <table width="100%">
 <tr><th width="50%">
@@ -140,15 +140,6 @@ El Salvador
 </td></tr>
 <tr><td width="50%">
 
-email
-
-</td><td width="50%">
-
-email
-
-</td></tr>
-<tr><td width="50%">
-
 France
 
 </td><td width="50%">
@@ -275,15 +266,6 @@ Malta
 </td></tr>
 <tr><td width="50%">
 
-name
-
-</td><td width="50%">
-
-name
-
-</td></tr>
-<tr><td width="50%">
-
 Nicaragua
 
 </td><td width="50%">
@@ -352,15 +334,6 @@ Panama
 </td><td width="50%">
 
 Panama
-
-</td></tr>
-<tr><td width="50%">
-
-password
-
-</td><td width="50%">
-
-password
 
 </td></tr>
 <tr><td width="50%">

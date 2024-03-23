@@ -4,12 +4,12 @@ editLink: false
 
 # ceb
 
-##### All missed: 251
+##### All missed: 250
 
 
 ### json
 
-##### Missing: 251
+##### Missing: 250
 
 <table width="100%">
 <tr><th width="50%">
@@ -1441,15 +1441,6 @@ Myanmar
 </td><td width="50%">
 
 Myanmar
-
-</td></tr>
-<tr><td width="50%">
-
-name
-
-</td><td width="50%">
-
-name
 
 </td></tr>
 <tr><td width="50%">

@@ -4,12 +4,12 @@ editLink: false
 
 # ug
 
-##### All missed: 103
+##### All missed: 100
 
 
 ### json
 
-##### Missing: 103
+##### Missing: 100
 
 <table width="100%">
 <tr><th width="50%">
@@ -262,15 +262,6 @@ Dominica
 </td><td width="50%">
 
 Dominica
-
-</td></tr>
-<tr><td width="50%">
-
-email
-
-</td><td width="50%">
-
-email
 
 </td></tr>
 <tr><td width="50%">
@@ -608,15 +599,6 @@ Mozambique
 </td></tr>
 <tr><td width="50%">
 
-name
-
-</td><td width="50%">
-
-name
-
-</td></tr>
-<tr><td width="50%">
-
 Nauru
 
 </td><td width="50%">
@@ -703,15 +685,6 @@ Palau
 </td><td width="50%">
 
 Palau
-
-</td></tr>
-<tr><td width="50%">
-
-password
-
-</td><td width="50%">
-
-password
 
 </td></tr>
 <tr><td width="50%">

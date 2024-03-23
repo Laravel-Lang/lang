@@ -4,12 +4,12 @@ editLink: false
 
 # yo
 
-##### All missed: 195
+##### All missed: 192
 
 
 ### json
 
-##### Missing: 195
+##### Missing: 192
 
 <table width="100%">
 <tr><th width="50%">
@@ -478,15 +478,6 @@ El Salvador
 </td><td width="50%">
 
 El Salvador
-
-</td></tr>
-<tr><td width="50%">
-
-email
-
-</td><td width="50%">
-
-email
 
 </td></tr>
 <tr><td width="50%">
@@ -1112,15 +1103,6 @@ Mozambique
 </td></tr>
 <tr><td width="50%">
 
-name
-
-</td><td width="50%">
-
-name
-
-</td></tr>
-<tr><td width="50%">
-
 Namibia
 
 </td><td width="50%">
@@ -1288,15 +1270,6 @@ Paraguay
 </td><td width="50%">
 
 Paraguay
-
-</td></tr>
-<tr><td width="50%">
-
-password
-
-</td><td width="50%">
-
-password
 
 </td></tr>
 <tr><td width="50%">

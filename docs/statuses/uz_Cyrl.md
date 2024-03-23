@@ -4,12 +4,12 @@ editLink: false
 
 # uz_Cyrl
 
-##### All missed: 37
+##### All missed: 34
 
 
 ### json
 
-##### Missing: 37
+##### Missing: 34
 
 <table width="100%">
 <tr><th width="50%">
@@ -104,15 +104,6 @@ Chad
 </td></tr>
 <tr><td width="50%">
 
-email
-
-</td><td width="50%">
-
-email
-
-</td></tr>
-<tr><td width="50%">
-
 Gabon
 
 </td><td width="50%">
@@ -212,15 +203,6 @@ Montserrat
 </td></tr>
 <tr><td width="50%">
 
-name
-
-</td><td width="50%">
-
-name
-
-</td></tr>
-<tr><td width="50%">
-
 Nauru
 
 </td><td width="50%">
@@ -262,15 +244,6 @@ Palau
 </td><td width="50%">
 
 Palau
-
-</td></tr>
-<tr><td width="50%">
-
-password
-
-</td><td width="50%">
-
-password
 
 </td></tr>
 <tr><td width="50%">

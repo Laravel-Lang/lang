@@ -4,12 +4,12 @@ editLink: false
 
 # tk
 
-##### All missed: 56
+##### All missed: 53
 
 
 ### json
 
-##### Missing: 56
+##### Missing: 53
 
 <table width="100%">
 <tr><th width="50%">
@@ -176,15 +176,6 @@ Curaçao
 </td></tr>
 <tr><td width="50%">
 
-email
-
-</td><td width="50%">
-
-email
-
-</td></tr>
-<tr><td width="50%">
-
 Fiji
 
 </td><td width="50%">
@@ -311,15 +302,6 @@ Montserrat
 </td></tr>
 <tr><td width="50%">
 
-name
-
-</td><td width="50%">
-
-name
-
-</td></tr>
-<tr><td width="50%">
-
 Nauru
 
 </td><td width="50%">
@@ -388,15 +370,6 @@ Panama
 </td><td width="50%">
 
 Panama
-
-</td></tr>
-<tr><td width="50%">
-
-password
-
-</td><td width="50%">
-
-password
 
 </td></tr>
 <tr><td width="50%">

@@ -4,12 +4,12 @@ editLink: false
 
 # pt
 
-##### All missed: 14
+##### All missed: 11
 
 
 ### json
 
-##### Missing: 14
+##### Missing: 11
 
 <table width="100%">
 <tr><th width="50%">
@@ -59,15 +59,6 @@ Costa Rica
 </td></tr>
 <tr><td width="50%">
 
-email
-
-</td><td width="50%">
-
-email
-
-</td></tr>
-<tr><td width="50%">
-
 Haiti
 
 </td><td width="50%">
@@ -104,29 +95,11 @@ Mali
 </td></tr>
 <tr><td width="50%">
 
-name
-
-</td><td width="50%">
-
-name
-
-</td></tr>
-<tr><td width="50%">
-
 Nauru
 
 </td><td width="50%">
 
 Nauru
-
-</td></tr>
-<tr><td width="50%">
-
-password
-
-</td><td width="50%">
-
-password
 
 </td></tr>
 <tr><td width="50%">

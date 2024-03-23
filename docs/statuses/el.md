@@ -4,12 +4,12 @@ editLink: false
 
 # el
 
-##### All missed: 6
+##### All missed: 4
 
 
 ### json
 
-##### Missing: 6
+##### Missing: 4
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,29 +23,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-errors
-
-</td><td width="50%">
-
-errors
-
-</td></tr>
-<tr><td width="50%">
-
 Isle of Man
 
 </td><td width="50%">
 
 Isle of Man
-
-</td></tr>
-<tr><td width="50%">
-
-Location
-
-</td><td width="50%">
-
-Location
 
 </td></tr>
 <tr><td width="50%">

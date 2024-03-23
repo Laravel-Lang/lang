@@ -4,12 +4,12 @@ editLink: false
 
 # cy
 
-##### All missed: 11
+##### All missed: 9
 
 
 ### json
 
-##### Missing: 11
+##### Missing: 9
 
 <table width="100%">
 <tr><th width="50%">
@@ -50,29 +50,11 @@ Côte d'Ivoire
 </td></tr>
 <tr><td width="50%">
 
-errors
-
-</td><td width="50%">
-
-errors
-
-</td></tr>
-<tr><td width="50%">
-
 Iran, Islamic Republic Of
 
 </td><td width="50%">
 
 Iran
-
-</td></tr>
-<tr><td width="50%">
-
-Location
-
-</td><td width="50%">
-
-Location
 
 </td></tr>
 <tr><td width="50%">

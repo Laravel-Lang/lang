@@ -4,12 +4,12 @@ editLink: false
 
 # az
 
-##### All missed: 29
+##### All missed: 27
 
 
 ### json
 
-##### Missing: 29
+##### Missing: 27
 
 <table width="100%">
 <tr><th width="50%">
@@ -86,15 +86,6 @@ Burundi
 </td></tr>
 <tr><td width="50%">
 
-errors
-
-</td><td width="50%">
-
-errors
-
-</td></tr>
-<tr><td width="50%">
-
 Haiti
 
 </td><td width="50%">
@@ -127,15 +118,6 @@ Kosovo
 </td><td width="50%">
 
 Kosovo
-
-</td></tr>
-<tr><td width="50%">
-
-Location
-
-</td><td width="50%">
-
-Location
 
 </td></tr>
 <tr><td width="50%">

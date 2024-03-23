@@ -4,12 +4,12 @@ editLink: false
 
 # eo
 
-##### All missed: 20
+##### All missed: 18
 
 
 ### json
 
-##### Missing: 20
+##### Missing: 18
 
 <table width="100%">
 <tr><th width="50%">
@@ -68,15 +68,6 @@ CSV (.csv)
 </td></tr>
 <tr><td width="50%">
 
-errors
-
-</td><td width="50%">
-
-errors
-
-</td></tr>
-<tr><td width="50%">
-
 Excel (.xlsx)
 
 </td><td width="50%">
@@ -100,15 +91,6 @@ Kosovo
 </td><td width="50%">
 
 Kosovo
-
-</td></tr>
-<tr><td width="50%">
-
-Location
-
-</td><td width="50%">
-
-Location
 
 </td></tr>
 <tr><td width="50%">

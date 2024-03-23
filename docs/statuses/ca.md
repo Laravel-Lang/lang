@@ -4,12 +4,12 @@ editLink: false
 
 # ca
 
-##### All missed: 4
+##### All missed: 3
 
 
 ### json
 
-##### Missing: 4
+##### Missing: 3
 
 <table width="100%">
 <tr><th width="50%">
@@ -37,15 +37,6 @@ errors
 </td><td width="50%">
 
 errors
-
-</td></tr>
-<tr><td width="50%">
-
-Location
-
-</td><td width="50%">
-
-Location
 
 </td></tr>
 <tr><td width="50%">

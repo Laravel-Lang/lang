@@ -5,7 +5,7 @@
     "after": "This must be a date after :date.",
     "after_or_equal": "This must be a date after or equal to :date.",
     "alpha": "Ang field na ito ay dapat lamang maglaman ng mga titik.",
-    "alpha_dash": "This field must only contain letters, numbers, dashes, and underscores.",
+    "alpha_dash": "Ang field na ito ay dapat lamang maglaman ng mga titik, numero, gitling, at salungguhit.",
     "alpha_num": "Ang field na ito ay dapat lamang maglaman ng mga titik at numero.",
     "array": "Ang field na ito ay dapat na isang array.",
     "ascii": "Ang field na ito ay dapat lamang maglaman ng mga single-byte na alphanumeric na character at simbolo.",

@@ -4,12 +4,12 @@ editLink: false
 
 # haw
 
-##### All missed: 43
+##### All missed: 41
 
 
 ### json
 
-##### Missing: 43
+##### Missing: 41
 
 <table width="100%">
 <tr><th width="50%">
@@ -104,15 +104,6 @@ Czech Republic
 </td></tr>
 <tr><td width="50%">
 
-errors
-
-</td><td width="50%">
-
-errors
-
-</td></tr>
-<tr><td width="50%">
-
 ex VAT
 
 </td><td width="50%">
@@ -199,15 +190,6 @@ Lens
 </td><td width="50%">
 
 Lens
-
-</td></tr>
-<tr><td width="50%">
-
-Location
-
-</td><td width="50%">
-
-Location
 
 </td></tr>
 <tr><td width="50%">

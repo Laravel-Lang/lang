@@ -4,12 +4,12 @@ editLink: false
 
 # ku
 
-##### All missed: 78
+##### All missed: 77
 
 
 ### json
 
-##### Missing: 78
+##### Missing: 77
 
 <table width="100%">
 <tr><th width="50%">
@@ -325,15 +325,6 @@ Kenya
 </td><td width="50%">
 
 Kenya
-
-</td></tr>
-<tr><td width="50%">
-
-Location
-
-</td><td width="50%">
-
-Location
 
 </td></tr>
 <tr><td width="50%">

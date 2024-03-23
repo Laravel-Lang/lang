@@ -4,12 +4,12 @@ editLink: false
 
 # tl
 
-##### All missed: 129
+##### All missed: 127
 
 
 ### json
 
-##### Missing: 129
+##### Missing: 127
 
 <table width="100%">
 <tr><th width="50%">
@@ -293,15 +293,6 @@ Error
 </td></tr>
 <tr><td width="50%">
 
-errors
-
-</td><td width="50%">
-
-errors
-
-</td></tr>
-<tr><td width="50%">
-
 Ethiopia
 
 </td><td width="50%">
@@ -559,15 +550,6 @@ Liechtenstein
 </td><td width="50%">
 
 Liechtenstein
-
-</td></tr>
-<tr><td width="50%">
-
-Location
-
-</td><td width="50%">
-
-Location
 
 </td></tr>
 <tr><td width="50%">

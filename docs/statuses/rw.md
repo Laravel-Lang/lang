@@ -4,12 +4,12 @@ editLink: false
 
 # rw
 
-##### All missed: 95
+##### All missed: 93
 
 
 ### json
 
-##### Missing: 95
+##### Missing: 93
 
 <table width="100%">
 <tr><th width="50%">
@@ -239,15 +239,6 @@ El Salvador
 </td></tr>
 <tr><td width="50%">
 
-errors
-
-</td><td width="50%">
-
-errors
-
-</td></tr>
-<tr><td width="50%">
-
 Excel (.xlsx)
 
 </td><td width="50%">
@@ -433,15 +424,6 @@ Liechtenstein
 </td><td width="50%">
 
 Liechtenstein
-
-</td></tr>
-<tr><td width="50%">
-
-Location
-
-</td><td width="50%">
-
-Location
 
 </td></tr>
 <tr><td width="50%">

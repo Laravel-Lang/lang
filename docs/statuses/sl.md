@@ -4,12 +4,12 @@ editLink: false
 
 # sl
 
-##### All missed: 50
+##### All missed: 48
 
 
 ### json
 
-##### Missing: 50
+##### Missing: 48
 
 <table width="100%">
 <tr><th width="50%">
@@ -91,15 +91,6 @@ Burundi
 </td><td width="50%">
 
 Burundi
-
-</td></tr>
-<tr><td width="50%">
-
-errors
-
-</td><td width="50%">
-
-errors
 
 </td></tr>
 <tr><td width="50%">
@@ -199,15 +190,6 @@ Kosovo
 </td><td width="50%">
 
 Kosovo
-
-</td></tr>
-<tr><td width="50%">
-
-Location
-
-</td><td width="50%">
-
-Location
 
 </td></tr>
 <tr><td width="50%">

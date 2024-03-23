@@ -4,12 +4,12 @@ editLink: false
 
 # ug
 
-##### All missed: 103
+##### All missed: 100
 
 
 ### json
 
-##### Missing: 102
+##### Missing: 100
 
 <table width="100%">
 <tr><th width="50%">
@@ -275,15 +275,6 @@ Eritrea
 </td></tr>
 <tr><td width="50%">
 
-errors
-
-</td><td width="50%">
-
-errors
-
-</td></tr>
-<tr><td width="50%">
-
 ex VAT
 
 </td><td width="50%">
@@ -523,15 +514,6 @@ Liechtenstein
 </td><td width="50%">
 
 Liechtenstein
-
-</td></tr>
-<tr><td width="50%">
-
-Location
-
-</td><td width="50%">
-
-Location
 
 </td></tr>
 <tr><td width="50%">
@@ -937,35 +919,6 @@ Vanuatu
 </td><td width="50%">
 
 Åland Islands
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php-inline
-
-##### Missing: 1
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-alpha_dash
-
-</td><td width="50%">
-
-This field must only contain letters, numbers, dashes, and underscores.
 
 </td></tr>
 </table>

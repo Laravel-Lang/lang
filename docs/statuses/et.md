@@ -4,12 +4,12 @@ editLink: false
 
 # et
 
-##### All missed: 7
+##### All missed: 5
 
 
 ### json
 
-##### Missing: 7
+##### Missing: 5
 
 <table width="100%">
 <tr><th width="50%">
@@ -37,24 +37,6 @@ Côte d'Ivoire
 </td><td width="50%">
 
 Côte d'Ivoire
-
-</td></tr>
-<tr><td width="50%">
-
-errors
-
-</td><td width="50%">
-
-errors
-
-</td></tr>
-<tr><td width="50%">
-
-Location
-
-</td><td width="50%">
-
-Location
 
 </td></tr>
 <tr><td width="50%">

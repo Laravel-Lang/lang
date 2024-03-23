@@ -4,12 +4,12 @@ editLink: false
 
 # ky
 
-##### All missed: 16
+##### All missed: 14
 
 
 ### json
 
-##### Missing: 16
+##### Missing: 14
 
 <table width="100%">
 <tr><th width="50%">
@@ -50,15 +50,6 @@ Email
 </td></tr>
 <tr><td width="50%">
 
-errors
-
-</td><td width="50%">
-
-errors
-
-</td></tr>
-<tr><td width="50%">
-
 Excel (.xlsx)
 
 </td><td width="50%">
@@ -91,15 +82,6 @@ ID
 </td><td width="50%">
 
 ID
-
-</td></tr>
-<tr><td width="50%">
-
-Location
-
-</td><td width="50%">
-
-Location
 
 </td></tr>
 <tr><td width="50%">

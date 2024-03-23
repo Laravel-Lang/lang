@@ -4,12 +4,12 @@ editLink: false
 
 # lb
 
-##### All missed: 138
+##### All missed: 137
 
 
 ### json
 
-##### Missing: 138
+##### Missing: 137
 
 <table width="100%">
 <tr><th width="50%">
@@ -352,15 +352,6 @@ Eritrea
 </td><td width="50%">
 
 Eritrea
-
-</td></tr>
-<tr><td width="50%">
-
-errors
-
-</td><td width="50%">
-
-errors
 
 </td></tr>
 <tr><td width="50%">

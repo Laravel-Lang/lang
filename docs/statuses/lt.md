@@ -4,12 +4,12 @@ editLink: false
 
 # lt
 
-##### All missed: 19
+##### All missed: 17
 
 
 ### json
 
-##### Missing: 19
+##### Missing: 17
 
 <table width="100%">
 <tr><th width="50%">
@@ -50,15 +50,6 @@ Aruba
 </td></tr>
 <tr><td width="50%">
 
-errors
-
-</td><td width="50%">
-
-errors
-
-</td></tr>
-<tr><td width="50%">
-
 Grenada
 
 </td><td width="50%">
@@ -73,15 +64,6 @@ ID
 </td><td width="50%">
 
 ID
-
-</td></tr>
-<tr><td width="50%">
-
-Location
-
-</td><td width="50%">
-
-Location
 
 </td></tr>
 <tr><td width="50%">

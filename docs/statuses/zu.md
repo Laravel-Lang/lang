@@ -4,12 +4,12 @@ editLink: false
 
 # zu
 
-##### All missed: 86
+##### All missed: 84
 
 
 ### json
 
-##### Missing: 86
+##### Missing: 84
 
 <table width="100%">
 <tr><th width="50%">
@@ -190,15 +190,6 @@ El Salvador
 </td><td width="50%">
 
 El Salvador
-
-</td></tr>
-<tr><td width="50%">
-
-errors
-
-</td><td width="50%">
-
-errors
 
 </td></tr>
 <tr><td width="50%">
@@ -424,15 +415,6 @@ Lesotho
 </td><td width="50%">
 
 Lesotho
-
-</td></tr>
-<tr><td width="50%">
-
-Location
-
-</td><td width="50%">
-
-Location
 
 </td></tr>
 <tr><td width="50%">

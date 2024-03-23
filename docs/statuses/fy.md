@@ -4,12 +4,12 @@ editLink: false
 
 # fy
 
-##### All missed: 100
+##### All missed: 98
 
 
 ### json
 
-##### Missing: 100
+##### Missing: 98
 
 <table width="100%">
 <tr><th width="50%">
@@ -284,15 +284,6 @@ Email
 </td></tr>
 <tr><td width="50%">
 
-errors
-
-</td><td width="50%">
-
-errors
-
-</td></tr>
-<tr><td width="50%">
-
 Excel (.xlsx)
 
 </td><td width="50%">
@@ -451,15 +442,6 @@ Loading
 </td><td width="50%">
 
 Loading
-
-</td></tr>
-<tr><td width="50%">
-
-Location
-
-</td><td width="50%">
-
-Location
 
 </td></tr>
 <tr><td width="50%">

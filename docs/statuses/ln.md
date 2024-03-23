@@ -4,12 +4,12 @@ editLink: false
 
 # ln
 
-##### All missed: 54
+##### All missed: 52
 
 
 ### json
 
-##### Missing: 54
+##### Missing: 52
 
 <table width="100%">
 <tr><th width="50%">
@@ -140,15 +140,6 @@ El Salvador
 </td></tr>
 <tr><td width="50%">
 
-errors
-
-</td><td width="50%">
-
-errors
-
-</td></tr>
-<tr><td width="50%">
-
 France
 
 </td><td width="50%">
@@ -235,15 +226,6 @@ Liberia
 </td><td width="50%">
 
 Liberia
-
-</td></tr>
-<tr><td width="50%">
-
-Location
-
-</td><td width="50%">
-
-Location
 
 </td></tr>
 <tr><td width="50%">

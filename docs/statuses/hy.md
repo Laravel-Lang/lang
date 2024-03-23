@@ -4,12 +4,12 @@ editLink: false
 
 # hy
 
-##### All missed: 3
+##### All missed: 1
 
 
 ### json
 
-##### Missing: 3
+##### Missing: 1
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,29 +23,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-errors
-
-</td><td width="50%">
-
-errors
-
-</td></tr>
-<tr><td width="50%">
-
 ID
 
 </td><td width="50%">
 
 ID
-
-</td></tr>
-<tr><td width="50%">
-
-Location
-
-</td><td width="50%">
-
-Location
 
 </td></tr>
 </table>

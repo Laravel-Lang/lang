@@ -4,12 +4,12 @@ editLink: false
 
 # gl
 
-##### All missed: 84
+##### All missed: 82
 
 
 ### json
 
-##### Missing: 84
+##### Missing: 82
 
 <table width="100%">
 <tr><th width="50%">
@@ -266,15 +266,6 @@ Eritrea
 </td></tr>
 <tr><td width="50%">
 
-errors
-
-</td><td width="50%">
-
-errors
-
-</td></tr>
-<tr><td width="50%">
-
 Estonia
 
 </td><td width="50%">
@@ -442,15 +433,6 @@ Liechtenstein
 </td><td width="50%">
 
 Liechtenstein
-
-</td></tr>
-<tr><td width="50%">
-
-Location
-
-</td><td width="50%">
-
-Location
 
 </td></tr>
 <tr><td width="50%">

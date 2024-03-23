@@ -4,12 +4,12 @@ editLink: false
 
 # lo
 
-##### All missed: 28
+##### All missed: 26
 
 
 ### json
 
-##### Missing: 28
+##### Missing: 26
 
 <table width="100%">
 <tr><th width="50%">
@@ -104,15 +104,6 @@ Equatorial Guinea
 </td></tr>
 <tr><td width="50%">
 
-errors
-
-</td><td width="50%">
-
-errors
-
-</td></tr>
-<tr><td width="50%">
-
 ex VAT
 
 </td><td width="50%">
@@ -190,15 +181,6 @@ Isle of Man
 </td><td width="50%">
 
 Isle of Man
-
-</td></tr>
-<tr><td width="50%">
-
-Location
-
-</td><td width="50%">
-
-Location
 
 </td></tr>
 <tr><td width="50%">

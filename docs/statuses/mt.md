@@ -4,12 +4,12 @@ editLink: false
 
 # mt
 
-##### All missed: 88
+##### All missed: 86
 
 
 ### json
 
-##### Missing: 88
+##### Missing: 86
 
 <table width="100%">
 <tr><th width="50%">
@@ -230,15 +230,6 @@ Email
 </td></tr>
 <tr><td width="50%">
 
-errors
-
-</td><td width="50%">
-
-errors
-
-</td></tr>
-<tr><td width="50%">
-
 ex VAT
 
 </td><td width="50%">
@@ -397,15 +388,6 @@ Liechtenstein
 </td><td width="50%">
 
 Liechtenstein
-
-</td></tr>
-<tr><td width="50%">
-
-Location
-
-</td><td width="50%">
-
-Location
 
 </td></tr>
 <tr><td width="50%">

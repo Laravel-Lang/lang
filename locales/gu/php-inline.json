@@ -5,7 +5,7 @@
     "after": "This must be a date after :date.",
     "after_or_equal": "This must be a date after or equal to :date.",
     "alpha": "આ ફીલ્ડમાં માત્ર અક્ષરો હોવા જોઈએ.",
-    "alpha_dash": "This field must only contain letters, numbers, dashes, and underscores.",
+    "alpha_dash": "આ ફીલ્ડમાં માત્ર અક્ષરો, સંખ્યાઓ, ડેશ અને અન્ડરસ્કોર હોવા જોઈએ.",
     "alpha_num": "આ ફીલ્ડમાં માત્ર અક્ષરો અને સંખ્યાઓ હોવા જોઈએ.",
     "array": "આ ક્ષેત્ર એરે હોવું આવશ્યક છે.",
     "ascii": "આ ફીલ્ડમાં માત્ર સિંગલ-બાઈટ આલ્ફાન્યૂમેરિક અક્ષરો અને પ્રતીકો હોવા જોઈએ.",

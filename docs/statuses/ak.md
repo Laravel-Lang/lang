@@ -4,12 +4,12 @@ editLink: false
 
 # ak
 
-##### All missed: 89
+##### All missed: 87
 
 
 ### json
 
-##### Missing: 89
+##### Missing: 87
 
 <table width="100%">
 <tr><th width="50%">
@@ -208,15 +208,6 @@ Egypt
 </td><td width="50%">
 
 Egypt
-
-</td></tr>
-<tr><td width="50%">
-
-errors
-
-</td><td width="50%">
-
-errors
 
 </td></tr>
 <tr><td width="50%">
@@ -424,15 +415,6 @@ Latvia
 </td><td width="50%">
 
 Latvia
-
-</td></tr>
-<tr><td width="50%">
-
-Location
-
-</td><td width="50%">
-
-Location
 
 </td></tr>
 <tr><td width="50%">

@@ -1,4 +1,6 @@
 {
+    "ch, right": "ch, right",
+    "invert ? ch - 1 : ch, right != invert": "invert ? ch - 1 : ch, right != invert",
     "Log Viewer": "Log Viewer",
     "Logs": "Logs",
     "Refresh": "Refresh",
@@ -6,5 +8,6 @@
     "Scroll to top": "Scroll to top",
     "Select a log file...": "Select a log file...",
     "Start polling": "Start polling",
+    "sticky == \"before\" ? ch - 1 : ch, sticky == \"before": "sticky == \"before\" ? ch - 1 : ch, sticky == \"before",
     "Stop polling": "Stop polling"
 }

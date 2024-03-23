@@ -4,12 +4,12 @@ editLink: false
 
 # fy
 
-##### All missed: 98
+##### All missed: 101
 
 
 ### json
 
-##### Missing: 98
+##### Missing: 101
 
 <table width="100%">
 <tr><th width="50%">
@@ -284,6 +284,15 @@ Email
 </td></tr>
 <tr><td width="50%">
 
+email
+
+</td><td width="50%">
+
+email
+
+</td></tr>
+<tr><td width="50%">
+
 Excel (.xlsx)
 
 </td><td width="50%">
@@ -527,6 +536,15 @@ Montserrat
 </td></tr>
 <tr><td width="50%">
 
+name
+
+</td><td width="50%">
+
+name
+
+</td></tr>
+<tr><td width="50%">
+
 Nepal
 
 </td><td width="50%">
@@ -595,6 +613,15 @@ Paraguay
 </td><td width="50%">
 
 Paraguay
+
+</td></tr>
+<tr><td width="50%">
+
+password
+
+</td><td width="50%">
+
+password
 
 </td></tr>
 <tr><td width="50%">

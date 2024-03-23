@@ -4,12 +4,12 @@ editLink: false
 
 # ga
 
-##### All missed: 30
+##### All missed: 33
 
 
 ### json
 
-##### Missing: 30
+##### Missing: 33
 
 <table width="100%">
 <tr><th width="50%">
@@ -95,6 +95,15 @@ El Salvador
 </td></tr>
 <tr><td width="50%">
 
+email
+
+</td><td width="50%">
+
+email
+
+</td></tr>
+<tr><td width="50%">
+
 Excel (.xlsx)
 
 </td><td width="50%">
@@ -176,6 +185,15 @@ Madagascar
 </td></tr>
 <tr><td width="50%">
 
+name
+
+</td><td width="50%">
+
+name
+
+</td></tr>
+<tr><td width="50%">
+
 Niue
 
 </td><td width="50%">
@@ -208,6 +226,15 @@ Panama
 </td><td width="50%">
 
 Panama
+
+</td></tr>
+<tr><td width="50%">
+
+password
+
+</td><td width="50%">
+
+password
 
 </td></tr>
 <tr><td width="50%">

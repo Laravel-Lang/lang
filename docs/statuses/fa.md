@@ -4,12 +4,12 @@ editLink: false
 
 # fa
 
-##### All missed: 2
+##### All missed: 5
 
 
 ### json
 
-##### Missing: 2
+##### Missing: 5
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,6 +21,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+email
+
+</td><td width="50%">
+
+email
+
+</td></tr>
 <tr><td width="50%">
 
 errors
@@ -37,6 +46,24 @@ Location
 </td><td width="50%">
 
 Location
+
+</td></tr>
+<tr><td width="50%">
+
+name
+
+</td><td width="50%">
+
+name
+
+</td></tr>
+<tr><td width="50%">
+
+password
+
+</td><td width="50%">
+
+password
 
 </td></tr>
 </table>

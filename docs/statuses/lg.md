@@ -4,12 +4,12 @@ editLink: false
 
 # lg
 
-##### All missed: 164
+##### All missed: 167
 
 
 ### json
 
-##### Missing: 164
+##### Missing: 167
 
 <table width="100%">
 <tr><th width="50%">
@@ -406,6 +406,15 @@ Email
 </td><td width="50%">
 
 Email
+
+</td></tr>
+<tr><td width="50%">
+
+email
+
+</td><td width="50%">
+
+email
 
 </td></tr>
 <tr><td width="50%">
@@ -950,6 +959,15 @@ Myanmar
 </td></tr>
 <tr><td width="50%">
 
+name
+
+</td><td width="50%">
+
+name
+
+</td></tr>
+<tr><td width="50%">
+
 Namibia
 
 </td><td width="50%">
@@ -1072,6 +1090,15 @@ Panama
 </td><td width="50%">
 
 Panama
+
+</td></tr>
+<tr><td width="50%">
+
+password
+
+</td><td width="50%">
+
+password
 
 </td></tr>
 <tr><td width="50%">

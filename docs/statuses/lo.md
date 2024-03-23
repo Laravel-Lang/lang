@@ -4,12 +4,12 @@ editLink: false
 
 # lo
 
-##### All missed: 26
+##### All missed: 29
 
 
 ### json
 
-##### Missing: 26
+##### Missing: 29
 
 <table width="100%">
 <tr><th width="50%">
@@ -91,6 +91,15 @@ El Salvador
 </td><td width="50%">
 
 El Salvador
+
+</td></tr>
+<tr><td width="50%">
+
+email
+
+</td><td width="50%">
+
+email
 
 </td></tr>
 <tr><td width="50%">
@@ -199,6 +208,24 @@ Montserrat
 </td><td width="50%">
 
 Montserrat
+
+</td></tr>
+<tr><td width="50%">
+
+name
+
+</td><td width="50%">
+
+name
+
+</td></tr>
+<tr><td width="50%">
+
+password
+
+</td><td width="50%">
+
+password
 
 </td></tr>
 <tr><td width="50%">

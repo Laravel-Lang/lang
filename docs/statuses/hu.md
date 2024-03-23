@@ -4,12 +4,12 @@ editLink: false
 
 # hu
 
-##### All missed: 62
+##### All missed: 65
 
 
 ### json
 
-##### Missing: 62
+##### Missing: 65
 
 <table width="100%">
 <tr><th width="50%">
@@ -149,6 +149,15 @@ Ecuador
 </td></tr>
 <tr><td width="50%">
 
+email
+
+</td><td width="50%">
+
+email
+
+</td></tr>
+<tr><td width="50%">
+
 Eritrea
 
 </td><td width="50%">
@@ -383,6 +392,15 @@ Montserrat
 </td></tr>
 <tr><td width="50%">
 
+name
+
+</td><td width="50%">
+
+name
+
+</td></tr>
+<tr><td width="50%">
+
 Nauru
 
 </td><td width="50%">
@@ -442,6 +460,15 @@ Paraguay
 </td><td width="50%">
 
 Paraguay
+
+</td></tr>
+<tr><td width="50%">
+
+password
+
+</td><td width="50%">
+
+password
 
 </td></tr>
 <tr><td width="50%">

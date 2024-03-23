@@ -4,12 +4,12 @@ editLink: false
 
 # sq
 
-##### All missed: 48
+##### All missed: 51
 
 
 ### json
 
-##### Missing: 48
+##### Missing: 51
 
 <table width="100%">
 <tr><th width="50%">
@@ -122,6 +122,15 @@ Email
 </td></tr>
 <tr><td width="50%">
 
+email
+
+</td><td width="50%">
+
+email
+
+</td></tr>
+<tr><td width="50%">
+
 Eritrea
 
 </td><td width="50%">
@@ -284,6 +293,15 @@ Montserrat
 </td></tr>
 <tr><td width="50%">
 
+name
+
+</td><td width="50%">
+
+name
+
+</td></tr>
+<tr><td width="50%">
+
 Namibia
 
 </td><td width="50%">
@@ -325,6 +343,15 @@ Palau
 </td><td width="50%">
 
 Palau
+
+</td></tr>
+<tr><td width="50%">
+
+password
+
+</td><td width="50%">
+
+password
 
 </td></tr>
 <tr><td width="50%">

@@ -4,12 +4,12 @@ editLink: false
 
 # sn
 
-##### All missed: 198
+##### All missed: 201
 
 
 ### json
 
-##### Missing: 198
+##### Missing: 201
 
 <table width="100%">
 <tr><th width="50%">
@@ -518,6 +518,15 @@ Email
 </td></tr>
 <tr><td width="50%">
 
+email
+
+</td><td width="50%">
+
+email
+
+</td></tr>
+<tr><td width="50%">
+
 Email Password Reset Link
 
 </td><td width="50%">
@@ -1013,6 +1022,15 @@ Monthly
 </td></tr>
 <tr><td width="50%">
 
+name
+
+</td><td width="50%">
+
+name
+
+</td></tr>
+<tr><td width="50%">
+
 Nauru
 
 </td><td width="50%">
@@ -1126,6 +1144,15 @@ Panama
 </td><td width="50%">
 
 Panama
+
+</td></tr>
+<tr><td width="50%">
+
+password
+
+</td><td width="50%">
+
+password
 
 </td></tr>
 <tr><td width="50%">

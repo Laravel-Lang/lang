@@ -4,12 +4,12 @@ editLink: false
 
 # ku
 
-##### All missed: 77
+##### All missed: 80
 
 
 ### json
 
-##### Missing: 77
+##### Missing: 80
 
 <table width="100%">
 <tr><th width="50%">
@@ -172,6 +172,15 @@ Email
 </td><td width="50%">
 
 Email
+
+</td></tr>
+<tr><td width="50%">
+
+email
+
+</td><td width="50%">
+
+email
 
 </td></tr>
 <tr><td width="50%">
@@ -410,6 +419,15 @@ Montenegro
 </td></tr>
 <tr><td width="50%">
 
+name
+
+</td><td width="50%">
+
+name
+
+</td></tr>
+<tr><td width="50%">
+
 Nepal
 
 </td><td width="50%">
@@ -460,6 +478,15 @@ Paraguay
 </td><td width="50%">
 
 Paraguay
+
+</td></tr>
+<tr><td width="50%">
+
+password
+
+</td><td width="50%">
+
+password
 
 </td></tr>
 <tr><td width="50%">

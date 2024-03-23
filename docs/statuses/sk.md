@@ -4,12 +4,12 @@ editLink: false
 
 # sk
 
-##### All missed: 56
+##### All missed: 59
 
 
 ### json
 
-##### Missing: 56
+##### Missing: 59
 
 <table width="100%">
 <tr><th width="50%">
@@ -140,6 +140,15 @@ Egypt
 </td></tr>
 <tr><td width="50%">
 
+email
+
+</td><td width="50%">
+
+email
+
+</td></tr>
+<tr><td width="50%">
+
 Eritrea
 
 </td><td width="50%">
@@ -338,6 +347,15 @@ Montserrat
 </td></tr>
 <tr><td width="50%">
 
+name
+
+</td><td width="50%">
+
+name
+
+</td></tr>
+<tr><td width="50%">
+
 Nauru
 
 </td><td width="50%">
@@ -388,6 +406,15 @@ Panama
 </td><td width="50%">
 
 Panama
+
+</td></tr>
+<tr><td width="50%">
+
+password
+
+</td><td width="50%">
+
+password
 
 </td></tr>
 <tr><td width="50%">

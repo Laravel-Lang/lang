@@ -4,12 +4,12 @@ editLink: false
 
 # de_CH
 
-##### All missed: 9
+##### All missed: 12
 
 
 ### json
 
-##### Missing: 9
+##### Missing: 12
 
 <table width="100%">
 <tr><th width="50%">
@@ -41,6 +41,15 @@ Coupon
 </td></tr>
 <tr><td width="50%">
 
+email
+
+</td><td width="50%">
+
+email
+
+</td></tr>
+<tr><td width="50%">
+
 Iran, Islamic Republic Of
 
 </td><td width="50%">
@@ -64,6 +73,24 @@ Isle of Man
 </td><td width="50%">
 
 Isle of Man
+
+</td></tr>
+<tr><td width="50%">
+
+name
+
+</td><td width="50%">
+
+name
+
+</td></tr>
+<tr><td width="50%">
+
+password
+
+</td><td width="50%">
+
+password
 
 </td></tr>
 <tr><td width="50%">

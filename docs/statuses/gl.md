@@ -4,12 +4,12 @@ editLink: false
 
 # gl
 
-##### All missed: 82
+##### All missed: 85
 
 
 ### json
 
-##### Missing: 82
+##### Missing: 85
 
 <table width="100%">
 <tr><th width="50%">
@@ -253,6 +253,15 @@ Editor
 </td><td width="50%">
 
 Editor
+
+</td></tr>
+<tr><td width="50%">
+
+email
+
+</td><td width="50%">
+
+email
 
 </td></tr>
 <tr><td width="50%">
@@ -527,6 +536,15 @@ Mozambique
 </td></tr>
 <tr><td width="50%">
 
+name
+
+</td><td width="50%">
+
+name
+
+</td></tr>
+<tr><td width="50%">
+
 Namibia
 
 </td><td width="50%">
@@ -577,6 +595,15 @@ Palau
 </td><td width="50%">
 
 Palau
+
+</td></tr>
+<tr><td width="50%">
+
+password
+
+</td><td width="50%">
+
+password
 
 </td></tr>
 <tr><td width="50%">

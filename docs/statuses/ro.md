@@ -4,12 +4,12 @@ editLink: false
 
 # ro
 
-##### All missed: 115
+##### All missed: 118
 
 
 ### json
 
-##### Missing: 115
+##### Missing: 118
 
 <table width="100%">
 <tr><th width="50%">
@@ -347,6 +347,15 @@ Editor
 </td></tr>
 <tr><td width="50%">
 
+email
+
+</td><td width="50%">
+
+email
+
+</td></tr>
+<tr><td width="50%">
+
 Estonia
 
 </td><td width="50%">
@@ -680,6 +689,15 @@ Myanmar
 </td></tr>
 <tr><td width="50%">
 
+name
+
+</td><td width="50%">
+
+name
+
+</td></tr>
+<tr><td width="50%">
+
 Namibia
 
 </td><td width="50%">
@@ -793,6 +811,15 @@ Paraguay
 </td><td width="50%">
 
 Paraguay
+
+</td></tr>
+<tr><td width="50%">
+
+password
+
+</td><td width="50%">
+
+password
 
 </td></tr>
 <tr><td width="50%">

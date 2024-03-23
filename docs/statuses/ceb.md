@@ -4,12 +4,12 @@ editLink: false
 
 # ceb
 
-##### All missed: 248
+##### All missed: 251
 
 
 ### json
 
-##### Missing: 248
+##### Missing: 251
 
 <table width="100%">
 <tr><th width="50%">
@@ -631,6 +631,15 @@ Email
 </td><td width="50%">
 
 Email
+
+</td></tr>
+<tr><td width="50%">
+
+email
+
+</td><td width="50%">
+
+email
 
 </td></tr>
 <tr><td width="50%">
@@ -1436,6 +1445,15 @@ Myanmar
 </td></tr>
 <tr><td width="50%">
 
+name
+
+</td><td width="50%">
+
+name
+
+</td></tr>
+<tr><td width="50%">
+
 Namibia
 
 </td><td width="50%">
@@ -1612,6 +1630,15 @@ Paraguay
 </td><td width="50%">
 
 Paraguay
+
+</td></tr>
+<tr><td width="50%">
+
+password
+
+</td><td width="50%">
+
+password
 
 </td></tr>
 <tr><td width="50%">

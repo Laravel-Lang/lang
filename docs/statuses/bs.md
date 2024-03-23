@@ -4,12 +4,12 @@ editLink: false
 
 # bs
 
-##### All missed: 15
+##### All missed: 18
 
 
 ### json
 
-##### Missing: 15
+##### Missing: 18
 
 <table width="100%">
 <tr><th width="50%">
@@ -37,6 +37,15 @@ Default
 </td><td width="50%">
 
 Default
+
+</td></tr>
+<tr><td width="50%">
+
+email
+
+</td><td width="50%">
+
+email
 
 </td></tr>
 <tr><td width="50%">
@@ -82,6 +91,24 @@ Log Viewer
 </td><td width="50%">
 
 Log Viewer
+
+</td></tr>
+<tr><td width="50%">
+
+name
+
+</td><td width="50%">
+
+name
+
+</td></tr>
+<tr><td width="50%">
+
+password
+
+</td><td width="50%">
+
+password
 
 </td></tr>
 <tr><td width="50%">

@@ -4,12 +4,12 @@ editLink: false
 
 # lt
 
-##### All missed: 17
+##### All missed: 20
 
 
 ### json
 
-##### Missing: 17
+##### Missing: 20
 
 <table width="100%">
 <tr><th width="50%">
@@ -50,6 +50,15 @@ Aruba
 </td></tr>
 <tr><td width="50%">
 
+email
+
+</td><td width="50%">
+
+email
+
+</td></tr>
+<tr><td width="50%">
+
 Grenada
 
 </td><td width="50%">
@@ -86,6 +95,15 @@ Moldova
 </td></tr>
 <tr><td width="50%">
 
+name
+
+</td><td width="50%">
+
+name
+
+</td></tr>
+<tr><td width="50%">
+
 Nauru
 
 </td><td width="50%">
@@ -118,6 +136,15 @@ Panama
 </td><td width="50%">
 
 Panama
+
+</td></tr>
+<tr><td width="50%">
+
+password
+
+</td><td width="50%">
+
+password
 
 </td></tr>
 <tr><td width="50%">

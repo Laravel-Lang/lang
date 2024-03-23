@@ -4,12 +4,12 @@ editLink: false
 
 # qu
 
-##### All missed: 42
+##### All missed: 45
 
 
 ### json
 
-##### Missing: 42
+##### Missing: 45
 
 <table width="100%">
 <tr><th width="50%">
@@ -118,6 +118,15 @@ Editor
 </td><td width="50%">
 
 Editor
+
+</td></tr>
+<tr><td width="50%">
+
+email
+
+</td><td width="50%">
+
+email
 
 </td></tr>
 <tr><td width="50%">
@@ -248,6 +257,15 @@ Mali
 </td></tr>
 <tr><td width="50%">
 
+name
+
+</td><td width="50%">
+
+name
+
+</td></tr>
+<tr><td width="50%">
+
 Nauru
 
 </td><td width="50%">
@@ -307,6 +325,15 @@ Paraguay
 </td><td width="50%">
 
 Paraguay
+
+</td></tr>
+<tr><td width="50%">
+
+password
+
+</td><td width="50%">
+
+password
 
 </td></tr>
 <tr><td width="50%">

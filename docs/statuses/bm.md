@@ -4,12 +4,12 @@ editLink: false
 
 # bm
 
-##### All missed: 10
+##### All missed: 13
 
 
 ### json
 
-##### Missing: 10
+##### Missing: 13
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,6 +23,15 @@ Value
 </th></tr>
 <tr><td width="50%">
 
+email
+
+</td><td width="50%">
+
+email
+
+</td></tr>
+<tr><td width="50%">
+
 Gabon
 
 </td><td width="50%">
@@ -50,6 +59,15 @@ Mark Unread
 </td></tr>
 <tr><td width="50%">
 
+name
+
+</td><td width="50%">
+
+name
+
+</td></tr>
+<tr><td width="50%">
+
 Niue
 
 </td><td width="50%">
@@ -64,6 +82,15 @@ Page Expired
 </td><td width="50%">
 
 Page Expired
+
+</td></tr>
+<tr><td width="50%">
+
+password
+
+</td><td width="50%">
+
+password
 
 </td></tr>
 <tr><td width="50%">

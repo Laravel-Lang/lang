@@ -4,12 +4,12 @@ editLink: false
 
 # tl
 
-##### All missed: 127
+##### All missed: 130
 
 
 ### json
 
-##### Missing: 127
+##### Missing: 130
 
 <table width="100%">
 <tr><th width="50%">
@@ -262,6 +262,15 @@ Editor
 </td><td width="50%">
 
 Editor
+
+</td></tr>
+<tr><td width="50%">
+
+email
+
+</td><td width="50%">
+
+email
 
 </td></tr>
 <tr><td width="50%">
@@ -680,6 +689,15 @@ Montserrat
 </td></tr>
 <tr><td width="50%">
 
+name
+
+</td><td width="50%">
+
+name
+
+</td></tr>
+<tr><td width="50%">
+
 Namibia
 
 </td><td width="50%">
@@ -775,6 +793,15 @@ Papua New Guinea
 </td><td width="50%">
 
 Papua New Guinea
+
+</td></tr>
+<tr><td width="50%">
+
+password
+
+</td><td width="50%">
+
+password
 
 </td></tr>
 <tr><td width="50%">

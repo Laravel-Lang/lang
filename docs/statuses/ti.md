@@ -4,12 +4,12 @@ editLink: false
 
 # ti
 
-##### All missed: 3
+##### All missed: 6
 
 
 ### json
 
-##### Missing: 3
+##### Missing: 6
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,6 +21,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+email
+
+</td><td width="50%">
+
+email
+
+</td></tr>
 <tr><td width="50%">
 
 Hold Up!
@@ -37,6 +46,24 @@ Log In
 </td><td width="50%">
 
 Log In
+
+</td></tr>
+<tr><td width="50%">
+
+name
+
+</td><td width="50%">
+
+name
+
+</td></tr>
+<tr><td width="50%">
+
+password
+
+</td><td width="50%">
+
+password
 
 </td></tr>
 <tr><td width="50%">

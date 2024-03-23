@@ -5,7 +5,7 @@
     "after": "This must be a date after :date.",
     "after_or_equal": "This must be a date after or equal to :date.",
     "alpha": "Bu meýdanda diňe harplar bolmaly.",
-    "alpha_dash": "This field must only contain letters, numbers, dashes, and underscores.",
+    "alpha_dash": "Bu meýdanda diňe harplar, sanlar, çyzyklar we aşaky çyzyklar bolmaly.",
     "alpha_num": "Bu meýdan diňe harplary we sanlary öz içine almalydyr.",
     "array": "Bu meýdan bir massiw bolmaly.",
     "ascii": "Bu meýdanda diňe bir baýtly harp sanlary we nyşanlary bolmaly.",

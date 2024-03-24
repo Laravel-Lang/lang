@@ -4,12 +4,12 @@ editLink: false
 
 # gd
 
-##### All missed: 146
+##### All missed: 145
 
 
 ### json
 
-##### Missing: 146
+##### Missing: 145
 
 <table width="100%">
 <tr><th width="50%">
@@ -199,15 +199,6 @@ Brunei Darussalam
 </td><td width="50%">
 
 Brunei Darussalam
-
-</td></tr>
-<tr><td width="50%">
-
-Bulgaria
-
-</td><td width="50%">
-
-Bulgaria
 
 </td></tr>
 <tr><td width="50%">

@@ -4,12 +4,12 @@ editLink: false
 
 # mg
 
-##### All missed: 117
+##### All missed: 116
 
 
 ### json
 
-##### Missing: 117
+##### Missing: 116
 
 <table width="100%">
 <tr><th width="50%">
@@ -676,15 +676,6 @@ Panama
 </td><td width="50%">
 
 Panama
-
-</td></tr>
-<tr><td width="50%">
-
-password
-
-</td><td width="50%">
-
-password
 
 </td></tr>
 <tr><td width="50%">

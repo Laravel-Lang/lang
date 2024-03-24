@@ -1,4 +1,4 @@
-name: Missing Locales
+name: Add Locales
 
 on:
     push:
@@ -9,5 +9,5 @@ on:
 permissions: write-all
 
 jobs:
-    create:
+    missing:
         uses: Laravel-Lang/.github/.github/workflows/locales.yml@main

@@ -21,7 +21,7 @@ Please see [CONTRIBUTING](https://laravel-lang.com/contributions.html) for detai
 This package is licensed under the [MIT License](https://laravel-lang.com/license.html).
 
 
-[badge_build]:          https://img.shields.io/github/actions/workflow/status/laravel-lang/lang/phpunit.yml?branch=main&style=flat-square
+[badge_build]:          https://img.shields.io/github/actions/workflow/status/laravel-lang/lang/tests.yml?branch=main&style=flat-square
 
 [badge_downloads]:      https://img.shields.io/packagist/dt/laravel-lang/lang.svg?style=flat-square
 

@@ -1,0 +1,13 @@
+name: Translation Status
+
+on:
+    push:
+        branches:
+            - main
+    workflow_dispatch:
+
+permissions: write-all
+
+jobs:
+    create:
+        uses: Laravel-Lang/.github/.github/workflows/statuses.yml@main

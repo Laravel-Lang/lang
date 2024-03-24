@@ -1,4 +1,4 @@
-name: download
+name: Download Projects
 
 on:
     schedule:

@@ -1,9 +1,8 @@
 name: Add Locales
 
 on:
-    push:
-        branches:
-            - main
+    schedule:
+        -   cron: 29 1 * * *
     workflow_dispatch:
 
 permissions: write-all

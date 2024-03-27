@@ -16,7 +16,7 @@ jobs:
                 uses: actions/checkout@v4
 
             -   name: Generate docs trigger
-                uses: myrotvorets/trigger-repository-dispatch-action@v2.0.0
+                uses: myrotvorets/trigger-repository-dispatch-action@v2.0.2
                 with:
                     token: ${{ secrets.COMPOSER_TOKEN }}
                     repo: Laravel-Lang/docs

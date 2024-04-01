@@ -10,7 +10,7 @@
 
 ## Documentation
 
-See the [documentation](https://laravel-lang.com) for detailed installation.
+See the [documentation](https://laravel-lang.com/packages-lang.html) for detailed installation.
 
 ## Contributing
 

@@ -2,5 +2,7 @@
     "CSV (.csv)",
     "Excel (.xlsx)",
     "Nova",
-    "SKU"
+    "SKU",
+    "API Token",
+    "API Tokens"
 ]

@@ -12,9 +12,17 @@
 
 See the [documentation](https://laravel-lang.com/packages-lang.html) for detailed installation.
 
+## Communication
+
+We also have official [chats](https://t.me/addlist/l0XGtvEIBiljMTMy) in Telegram.
+
 ## Contributing
 
 Please see [CONTRIBUTING](https://laravel-lang.com/contributions.html) for details.
+
+## Support Us
+
+❤️ Laravel Lang? Please consider supporting our collective on [Boosty](https://boosty.to/laravel-lang).
 
 ## License
 

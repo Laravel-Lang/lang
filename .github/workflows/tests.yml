@@ -12,7 +12,7 @@ permissions: read-all
 
 jobs:
     laravel:
-        runs-on: ${{ secrets.RUNNER_NAME }}
+        runs-on: self-hosted
 
         strategy:
             fail-fast: true

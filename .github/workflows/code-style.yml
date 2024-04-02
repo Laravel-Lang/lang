@@ -7,4 +7,4 @@ permissions: write-all
 jobs:
     style:
         name: Code Style
-        uses: TheDragonCode/.github/.github/workflows/code-style.yml@main
+        uses: Laravel-Lang/.github/.github/workflows/code-style.yml@main

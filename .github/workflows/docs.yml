@@ -9,7 +9,7 @@ permissions: write-all
 
 jobs:
     update:
-        runs-on: ${{ secrets.RUNNER_NAME }}
+        runs-on: self-hosted
 
         steps:
             -   name: Checkout code

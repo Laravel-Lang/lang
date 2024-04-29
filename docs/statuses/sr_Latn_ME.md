@@ -4,7 +4,7 @@ editLink: false
 
 # sr_Latn_ME
 
-##### All missed: 322
+##### All missed: 324
 
 
 ### json-inline
@@ -2506,7 +2506,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 31
+##### Missing: 32
 
 <table width="100%">
 <tr><th width="50%">
@@ -2781,6 +2781,15 @@ This field is required when :other is accepted.
 </td></tr>
 <tr><td width="50%">
 
+required_if_declined
+
+</td><td width="50%">
+
+This field is required when :other is declined.
+
+</td></tr>
+<tr><td width="50%">
+
 ulid
 
 </td><td width="50%">
@@ -2805,7 +2814,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 18
+##### Missing: 19
 
 <table width="100%">
 <tr><th width="50%">
@@ -2977,6 +2986,15 @@ required_if_accepted
 </td><td width="50%">
 
 The :attribute field is required when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+required_if_declined
+
+</td><td width="50%">
+
+The :attribute field is required when :other is declined.
 
 </td></tr>
 </table>

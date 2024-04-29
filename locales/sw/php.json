@@ -113,7 +113,7 @@
     "required_array_keys": "Kipengele :attribute ni lazima kiwe na maingizo ya: :values.",
     "required_if": "Sehemu ya kipengele inahitajika wakati :other ni :value.",
     "required_if_accepted": "Sehemu ya :attribute inahitajika wakati :other inakubaliwa.",
-    "required_if_declined": "The :attribute field is required when :other is declined.",
+    "required_if_declined": "Sehemu ya :attribute inahitajika wakati :other imekataliwa.",
     "required_unless": "Sehemu ya kipengele inahitajika isipokuwa :other ni katika :values.",
     "required_with": "Sehemu ya kipengele inahitajika wakati :values vipo.",
     "required_with_all": "Sehemu ya kipengele inahitajika wakati :values vipo.",

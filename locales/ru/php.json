@@ -113,7 +113,7 @@
     "required_array_keys": "Массив, указанный в поле :attribute, обязательно должен иметь ключи: :values",
     "required_if": "Поле :attribute обязательно для заполнения, когда :other содержит :value.",
     "required_if_accepted": "Поле :attribute обязательно, когда :other принято.",
-    "required_if_declined": "The :attribute field is required when :other is declined.",
+    "required_if_declined": "Поле :attribute обязательно, когда :other отклонено.",
     "required_unless": "Поле :attribute обязательно для заполнения, когда :other не содержит :values.",
     "required_with": "Поле :attribute обязательно для заполнения, когда :values указано.",
     "required_with_all": "Поле :attribute обязательно для заполнения, когда :values указано.",

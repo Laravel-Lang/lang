@@ -4,7 +4,7 @@ editLink: false
 
 # sc
 
-##### All missed: 914
+##### All missed: 916
 
 
 ### json-inline
@@ -7530,7 +7530,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 52
+##### Missing: 53
 
 <table width="100%">
 <tr><th width="50%">
@@ -7949,6 +7949,15 @@ This field is required when :other is accepted.
 </td></tr>
 <tr><td width="50%">
 
+required_if_declined
+
+</td><td width="50%">
+
+This field is required when :other is declined.
+
+</td></tr>
+<tr><td width="50%">
+
 required_unless
 
 </td><td width="50%">
@@ -8018,7 +8027,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 31
+##### Missing: 32
 
 <table width="100%">
 <tr><th width="50%">
@@ -8271,6 +8280,15 @@ required_if_accepted
 </td><td width="50%">
 
 The :attribute field is required when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+required_if_declined
+
+</td><td width="50%">
+
+The :attribute field is required when :other is declined.
 
 </td></tr>
 <tr><td width="50%">

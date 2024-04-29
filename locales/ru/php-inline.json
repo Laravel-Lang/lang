@@ -108,7 +108,7 @@
     "required_array_keys": "Массив обязательно должен иметь ключи: :values",
     "required_if": "Обязательно для заполнения, когда :other содержит :value.",
     "required_if_accepted": "Обязательно, когда :other принято.",
-    "required_if_declined": "This field is required when :other is declined.",
+    "required_if_declined": "Обязательно, когда :other отклонено.",
     "required_unless": "Обязательно для заполнения, когда :other не содержит :values.",
     "required_with": "Обязательно для заполнения, когда :values указано.",
     "required_with_all": "Обязательно для заполнения, когда :values указано.",

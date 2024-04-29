@@ -108,6 +108,7 @@
     "required_array_keys": "دا ساحه باید د :values لپاره ننوتل ولري.",
     "required_if": "دا ساحه اړینه ده کله چې :other :value وي.",
     "required_if_accepted": "دا ساحه اړینه ده کله چې :other ومنل شي.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "دا ساحه اړینه ده پرته لدې چې :other په :values کې وي.",
     "required_with": "دا ساحه اړینه ده کله چې :values شتون ولري.",
     "required_with_all": "دا ساحه اړینه ده کله چې :values شتون ولري.",

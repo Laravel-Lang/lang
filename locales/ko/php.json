@@ -113,6 +113,7 @@
     "required_array_keys": ":Attribute 필드는 :values에 대한 항목을 포함해야 합니다.",
     "required_if": ":Other이(가) :value 일 때 :attribute 필드는 필수입니다.",
     "required_if_accepted": ":Other이 승인되면 :attribute 필드가 필요합니다.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": ":Other이(가) :values에 없다면 :attribute 필드는 필수입니다.",
     "required_with": ":Values이(가) 있는 경우 :attribute 필드는 필수입니다.",
     "required_with_all": ":Values이(가) 모두 있는 경우 :attribute 필드는 필수입니다.",

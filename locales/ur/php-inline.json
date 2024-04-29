@@ -108,6 +108,7 @@
     "required_array_keys": "اس فیلڈ میں درجات پر مشتمل ہونا چاہیے: :values۔",
     "required_if": "اس میدان کی ضرورت ہے جب :other ہے :value.",
     "required_if_accepted": ":Other کو قبول کرنے پر یہ فیلڈ درکار ہے۔",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "اس میدان کی ضرورت ہے جب تک :other میں ہے :values.",
     "required_with": "اس میدان کی ضرورت ہے جب :values موجود ہے.",
     "required_with_all": "اس میدان کی ضرورت ہے جب :values موجود ہیں.",

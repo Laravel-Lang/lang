@@ -113,6 +113,7 @@
     "required_array_keys": "Fusha :attribute duhet të përmbajë shënime për: :values.",
     "required_if": "Fusha :attribute është e kërkuar kur :other është :value.",
     "required_if_accepted": "Fusha :attribute kërkohet kur pranohet :other.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": "Fusha :attribute është e kërkuar përveç kur :other është në :values.",
     "required_with": "Fusha :attribute është e kërkuar kur :values ekziston.",
     "required_with_all": "Fusha :attribute është e kërkuar kur :values ekziston.",

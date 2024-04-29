@@ -113,6 +113,7 @@
     "required_array_keys": "El camp :attribute ha de contenir entrades per a: :values.",
     "required_if": "El camp :attribute és obligatori quan :other és :value.",
     "required_if_accepted": "El camp :attribute és obligatori quan s'accepta :other.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": "El camp :attribute és obligatori a no ser que :other sigui a :values.",
     "required_with": "El camp :attribute és obligatori quan hi ha :values.",
     "required_with_all": "El camp :attribute és obligatori quan hi ha :values.",

@@ -113,6 +113,7 @@
     "required_array_keys": "די :attribute פעלד מוזן אַנטהאַלטן איינסן פֿאַר: :values.",
     "required_if": "די :attribute פעלד איז פארלאנגט ווען :other איז :value.",
     "required_if_accepted": "די :attribute פעלד איז פארלאנגט ווען :other איז אנגענומען.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": "די :attribute פעלד איז פארלאנגט סייַדן :other איז אין :values.",
     "required_with": "די :attribute פעלד איז פארלאנגט ווען :values איז פאָרשטעלן.",
     "required_with_all": "די :attribute פעלד איז פארלאנגט ווען :values זענען פאָרשטעלן.",

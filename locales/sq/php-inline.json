@@ -108,6 +108,7 @@
     "required_array_keys": "Kjo fushë duhet të përmbajë shënime për: :values.",
     "required_if": "Kjo fushë është e kërkuar kur :other është :value.",
     "required_if_accepted": "Kjo fushë kërkohet kur pranohet :other.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "Kjo fushë është e kërkuar përveç kur :other është në :values.",
     "required_with": "Kjo fushë është e kërkuar kur :values ekziston.",
     "required_with_all": "Kjo fushë është e kërkuar kur :values ekziston.",

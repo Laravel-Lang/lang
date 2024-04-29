@@ -113,6 +113,7 @@
     "required_array_keys": "Поље :attribute мора да садржи уносе за: :values.",
     "required_if": "Поље :attribute је потребно када поље :other садржи :value.",
     "required_if_accepted": "Поље :attribute је обавезно када се прихвати :other.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": "Поље :attribute је обавезно, осим ако је :other у :values.",
     "required_with": "Поље :attribute је потребно када поље :values је присутан.",
     "required_with_all": "Поље :attribute је обавезно када је :values приказано.",

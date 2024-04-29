@@ -108,6 +108,7 @@
     "required_array_keys": "Бул талаада төмөнкү жазуулар болушу керек: :values.",
     "required_if": "Бул талаа :other :value болгондо талап кылынат.",
     "required_if_accepted": "Бул талаа :other кабыл алынганда талап кылынат.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "Бул талаа :valuesда :other болбосо, талап кылынат.",
     "required_with": "Бул талаа :values болгондо талап кылынат.",
     "required_with_all": "Бул талаа :values болгондо талап кылынат.",

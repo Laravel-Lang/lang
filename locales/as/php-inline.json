@@ -108,6 +108,7 @@
     "required_array_keys": "এই ক্ষেত্ৰত: :values. ৰ বাবে প্ৰৱেশসমূহ থাকিব লাগিব।",
     "required_if": "এই ক্ষেত্ৰখনৰ প্ৰয়োজন হয় যেতিয়া ১০ ২০ হয়।",
     "required_if_accepted": "১০ গ্ৰহণ কৰিলে এই ক্ষেত্ৰখনৰ প্ৰয়োজন হয়।",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "এই ক্ষেত্ৰখনৰ প্ৰয়োজন যদিহে ১০ ২০ ত নাথাকে।",
     "required_with": "এই ক্ষেত্ৰখনৰ প্ৰয়োজন হয় যেতিয়া ১০ থাকে।",
     "required_with_all": "এই ক্ষেত্ৰখনৰ প্ৰয়োজন হয় যেতিয়া ১০ টা উপস্থিত থাকে।",

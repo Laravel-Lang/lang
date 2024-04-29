@@ -108,6 +108,7 @@
     "required_array_keys": "Bu sahədə aşağıdakılar üçün qeydlər olmalıdır: :values.",
     "required_if": ":Other :value olduğu təqdirdə bu sahə məcburidir.",
     "required_if_accepted": "Bu sahə :other qəbul edildikdə tələb olunur.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "Yalnız :other :values deyil, bu sahədə bir olmalıdır edir.",
     "required_with": "Bu sahə :values mövcud olduqda tələb olunur.",
     "required_with_all": ":Values olduqda bu sahə məcburidir.",

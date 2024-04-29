@@ -108,6 +108,7 @@
     "required_array_keys": "Αυτό το πεδίο πρέπει να περιέχει καταχωρήσεις για: :values.",
     "required_if": "Αυτό το πεδίο απαιτείται όταν :other είναι :value.",
     "required_if_accepted": "Αυτό το πεδίο απαιτείται όταν γίνει αποδεκτό το :other.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "Αυτό το πεδίο απαιτείται εκτός εάν το :other βρίσκεται στο :values.",
     "required_with": "Αυτό το πεδίο απαιτείται όταν υπάρχει :values.",
     "required_with_all": "Αυτό το πεδίο απαιτείται όταν υπάρχουν :values.",

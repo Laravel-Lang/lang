@@ -108,6 +108,7 @@
     "required_array_keys": "Sellel väljal peavad olema kirjed: :values.",
     "required_if": "See väli on vajalik, kui :other on :value.",
     "required_if_accepted": "See väli on kohustuslik, kui aktsepteeritakse :other.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "See väli on nõutav, välja arvatud juhul, kui :other on :values-s.",
     "required_with": "See väli on vajalik, kui :values on olemas.",
     "required_with_all": "See väli on vajalik, kui kohal on :values.",

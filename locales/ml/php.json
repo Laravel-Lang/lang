@@ -113,6 +113,7 @@
     "required_array_keys": ":attribute ഫീൽഡിൽ ഇതിനായുള്ള എൻട്രികൾ ഉണ്ടായിരിക്കണം: :values.",
     "required_if": ":other :value ആകുമ്പോൾ :attribute ഫീൽഡ് ആവശ്യമാണ്.",
     "required_if_accepted": ":other അംഗീകരിക്കുമ്പോൾ :attribute ഫീൽഡ് ആവശ്യമാണ്.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": ":valuesൽ :other ഇല്ലെങ്കിൽ :attribute ഫീൽഡ് ആവശ്യമാണ്.",
     "required_with": ":values ഉള്ളപ്പോൾ :attribute ഫീൽഡ് ആവശ്യമാണ്.",
     "required_with_all": ":values എണ്ണം ഉള്ളപ്പോൾ :attribute ഫീൽഡ് ആവശ്യമാണ്.",

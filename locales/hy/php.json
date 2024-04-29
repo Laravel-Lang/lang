@@ -113,6 +113,7 @@
     "required_array_keys": ":Attribute դաշտը պետք է պարունակի գրառումներ՝ :values-ի համար:",
     "required_if": ":Attribute դաշտը պարտադիր է երբ :other-ը հավասար է :value։",
     "required_if_accepted": ":Attribute դաշտը պարտադիր է, երբ ընդունվում է :other:",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": ":Attribute դաշտը պարտադիր է քանի դեռ :other-ը հավասար չէ :values։",
     "required_with": ":Attribute դաշտը պարտադիր է երբ :values արժեքն առկա է։",
     "required_with_all": ":Attribute դաշտը պարտադիր է երբ :values արժեքները առկա են։",

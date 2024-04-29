@@ -113,6 +113,7 @@
     "required_array_keys": ":Attribute feltet må inneholde oppføringer for: :values.",
     "required_if": ":Attribute må fylles ut når :other er :value.",
     "required_if_accepted": ":Attribute-feltet er obligatorisk når :other er akseptert.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": ":Attribute er påkrevd med mindre :other finnes blant verdiene :values.",
     "required_with": ":Attribute må fylles ut når :values er utfylt.",
     "required_with_all": ":Attribute er påkrevd når :values er oppgitt.",

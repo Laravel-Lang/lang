@@ -108,6 +108,7 @@
     "required_array_keys": "ช่องข้อมูลนี้ต้องประกอบด้วยรายการสำหรับ: :values",
     "required_if": "ช่องข้อมูลนี้ต้องถูกระบุเมื่อ :other มีค่าเท่ากับ :value",
     "required_if_accepted": "ช่องนี้จำเป็นเมื่อยอมรับ :other",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "ช่องข้อมูลนี้เป็นต้องการนอกจาก :other อยู่ใน :values",
     "required_with": "ช่องข้อมูลนี้เป็นต้องการตอนที่ :values เป็นของขวัญ",
     "required_with_all": "ช่องข้อมูลนี้เป็นต้องการตอนที่ :values เป็นของขวัญ",

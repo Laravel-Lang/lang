@@ -108,6 +108,7 @@
     "required_array_keys": "अस्मिन् क्षेत्रे निम्नलिखितस्य कृते प्रविष्टयः अवश्यं सन्ति: :values.",
     "required_if": "यदा १० २० भवति तदा एतत् क्षेत्रम् आवश्यकम् ।",
     "required_if_accepted": "१० स्वीकृते सति एतत् क्षेत्रम् आवश्यकम् ।",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "यावत् १० २० मध्ये न भवति तावत् एतत् क्षेत्रम् आवश्यकम् ।",
     "required_with": "१० वर्तन्ते चेत् एतत् क्षेत्रम् आवश्यकम् ।",
     "required_with_all": "यदा १० वर्तन्ते तदा एतत् क्षेत्रम् आवश्यकम् ।",

@@ -113,6 +113,7 @@
     "required_array_keys": "שדה :attribute חייב להכיל ערכים עבור: :values.",
     "required_if": "שדה :attribute נחוץ כאשר :other הוא :value.",
     "required_if_accepted": "שדה :attribute נדרש כאשר :other מתקבל.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": "שדה :attribute נחוץ אלא אם כן :other הוא בין :values.",
     "required_with": "שדה :attribute נחוץ כאשר :values נמצא.",
     "required_with_all": "שדה :attribute נחוץ כאשר :values נמצא.",

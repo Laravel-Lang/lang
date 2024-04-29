@@ -113,6 +113,7 @@
     "required_array_keys": "د :attribute ساحه باید د :values لپاره ننوتل ولري.",
     "required_if": ":Attribute که چیرې د اړتیا په صورت کې اړتیا وي:other مساو :value.",
     "required_if_accepted": ":Attribute ساحه اړینه ده کله چې :other ومنل شي.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": ":Attribute که نه :other مساو :values.",
     "required_with": ":Attribute که اړتیا وي شتون لري :values.",
     "required_with_all": ":Attribute که اړتیا وي شتون لري :values.",

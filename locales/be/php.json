@@ -113,6 +113,7 @@
     "required_array_keys": "Поле :attribute павінна змяшчаць запісы для: :values.",
     "required_if": "Поле :attribute абавязкова для запаўнення, калі :other раўняецца :value.",
     "required_if_accepted": "Поле :attribute абавязковае, калі прымаецца :other.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": "Поле :attribute абавязкова для запаўнення, калі :other не раўняецца :values.",
     "required_with": "Поле :attribute абавязкова для запаўнення, калі :values ўказана.",
     "required_with_all": "Поле :attribute абавязкова для запаўнення, калі :values ўказана.",

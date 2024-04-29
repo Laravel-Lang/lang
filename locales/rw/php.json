@@ -113,6 +113,7 @@
     "required_array_keys": "Umwanya :attribute ugomba kuba urimo ibyanditswe kuri: :values.",
     "required_if": "Umwanya :attribute urasabwa mugihe :other ari :value.",
     "required_if_accepted": "Umwanya :attribute urasabwa mugihe :other byemewe.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": "Umwanya :attribute urakenewe keretse :other iri muri :values.",
     "required_with": "Umwanya :attribute urakenewe mugihe :values ihari.",
     "required_with_all": "Umwanya :attribute urakenewe mugihe :values ihari.",

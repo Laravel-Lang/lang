@@ -108,6 +108,7 @@
     "required_array_keys": "ຊ່ອງຂໍ້ມູນນີ້ຕ້ອງມີລາຍການສໍາລັບ: :values.",
     "required_if": "ຊ່ອງຂໍ້ມູນນີ້ແມ່ນຕ້ອງການເມື່ອ :other ແມ່ນ :value.",
     "required_if_accepted": "ຊ່ອງຂໍ້ມູນນີ້ແມ່ນຕ້ອງການເມື່ອ :other ຖືກຍອມຮັບ.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "ຊ່ອງຂໍ້ມູນນີ້ແມ່ນຕ້ອງການເວັ້ນເສຍແຕ່ :other ຢູ່ໃນ :values.",
     "required_with": "ຊ່ອງຂໍ້ມູນນີ້ແມ່ນຕ້ອງການເມື່ອມີ :values.",
     "required_with_all": "ຊ່ອງຂໍ້ມູນນີ້ແມ່ນຕ້ອງການເມື່ອມີ :values.",

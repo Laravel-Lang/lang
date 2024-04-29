@@ -108,6 +108,7 @@
     "required_array_keys": "Pono e loaʻa i kēia kahua nā memo no: :values.",
     "required_if": "Pono kēia kahua inā :other ka :value.",
     "required_if_accepted": "Pono kēia kahua ke ʻae ʻia ka :other.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "Pono kēia kahua inā ʻaʻole :other i :values.",
     "required_with": "Pono kēia kahua inā he :values.",
     "required_with_all": "Pono kēia kahua inā loaʻa he :values.",

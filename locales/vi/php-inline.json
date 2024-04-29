@@ -108,6 +108,7 @@
     "required_array_keys": "Trường này phải bao gồm các mục nhập cho: :values.",
     "required_if": "Trường này không được bỏ trống khi trường :other là :value.",
     "required_if_accepted": "Trường này không được bỏ trống khi :other được chấp nhận.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "Trường này không được bỏ trống trừ khi :other là :values.",
     "required_with": "Trường này không được bỏ trống khi một trong :values có giá trị.",
     "required_with_all": "Trường này không được bỏ trống khi tất cả :values có giá trị.",

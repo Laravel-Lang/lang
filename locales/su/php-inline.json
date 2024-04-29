@@ -108,6 +108,7 @@
     "required_array_keys": "Widang ieu kedah ngandung éntri pikeun: :values.",
     "required_if": "Widang ieu diperyogikeun nalika :other nyaéta :value.",
     "required_if_accepted": "Widang ieu diperlukeun nalika :other ditarima.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "Widang ieu diperyogikeun upami :other aya dina :values.",
     "required_with": "Widang ieu diperyogikeun nalika aya :values.",
     "required_with_all": "Widang ieu diperyogikeun nalika aya :values.",

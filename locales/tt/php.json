@@ -113,6 +113,7 @@
     "required_array_keys": ":attribute кырда язмалар булырга тиеш: :values.",
     "required_if": ":other кыр :value булганда :attribute кыр кирәк.",
     "required_if_accepted": ":other кабул ителгәндә :attribute кыр кирәк.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": ":other кыр :valuesда булмаса, :attribute кыр кирәк.",
     "required_with": ":values булганда :attribute кыр кирәк.",
     "required_with_all": ":values булганда :attribute кыр кирәк.",

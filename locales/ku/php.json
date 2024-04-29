@@ -113,6 +113,7 @@
     "required_array_keys": "Di qada :attribute de divê navnîşên ji bo: :values hene.",
     "required_if": "Dema ku :other bibe :value qada :attribute hewce ye.",
     "required_if_accepted": "Dema ku :other were pejirandin qada :attribute hewce ye.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": "Heya ku :other di :values de nebe qada :attribute hewce ye.",
     "required_with": "Dema ku :values hebe qada :attribute hewce ye.",
     "required_with_all": "Dema ku :values hebin qada :attribute hewce ye.",

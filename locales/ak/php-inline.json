@@ -108,6 +108,7 @@
     "required_array_keys": "Ɛsɛ sɛ saa afuw yi kura nsɛm a wɔakyerɛw ama: :values.",
     "required_if": "Saa afuw yi ho hia bere a :other yɛ :value.",
     "required_if_accepted": "Saa afuw yi ho hia bere a wɔagye :other atom no.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "Saa afuw yi ho hia gye sɛ :other wɔ :values mu.",
     "required_with": "Saa afuw yi ho hia bere a :values wɔ hɔ no.",
     "required_with_all": "Saa afuw yi ho hia bere a :values wɔ hɔ no.",

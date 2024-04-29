@@ -108,6 +108,7 @@
     "required_array_keys": "यो फिल्डमा :values का लागि प्रविष्टिहरू समावेश हुनुपर्छ।",
     "required_if": "यो फिल्ड आवश्यक हुन्छ जब: अन्य हो :value।",
     "required_if_accepted": "१०० स्वीकृत हुँदा यो क्षेत्र आवश्यक हुन्छ।",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "यस फिल्ड आवाश्यक हुन्छ: अन्यमा मानहरू।",
     "required_with": "यो फिल्ड आवाश्यक हुन्छ जब :values अवस्थित हुन्छन्।",
     "required_with_all": "यो फिल्ड आवश्यक छ :values अवस्थित हुँदा।",

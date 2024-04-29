@@ -113,6 +113,7 @@
     "required_array_keys": "Ang :attribute ka field kinahanglang adunay entries para sa: :values.",
     "required_if": "Ang :attribute nga field gikinahanglan kung ang :other kay :value.",
     "required_if_accepted": "Ang :attribute nga field gikinahanglan kung :other ang gidawat.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": "Ang :attribute nga field gikinahanglan gawas kung ang :other anaa sa :values.",
     "required_with": "Kinahanglan ang :attribute nga field kung naa ang :values.",
     "required_with_all": "Ang :attribute nga field gikinahanglan kung :values ang anaa.",

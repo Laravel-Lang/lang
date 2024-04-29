@@ -108,6 +108,7 @@
     "required_array_keys": "Acest câmp trebuie să conţină intrări pentru: :valori.",
     "required_if": "Acest câmp este necesar atunci când :other este :value.",
     "required_if_accepted": "Acest câmp este obligatoriu când :other este acceptat.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "Acest câmp este necesar, cu excepția cazului în :other este în :values.",
     "required_with": "Acest câmp este necesar atunci când :values este prezent.",
     "required_with_all": "Acest câmp este necesar atunci când :values sunt prezente.",

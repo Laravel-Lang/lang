@@ -108,6 +108,7 @@
     "required_array_keys": "Ennimiro eno erina okubaamu ebiwandiiko ku: :values.",
     "required_if": "Ennimiro eno yeetaagibwa nga :other eri :value.",
     "required_if_accepted": "Ennimiro eno yeetaagibwa nga :other zikkiriziddwa.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "Ennimiro eno yeetaagibwa okuggyako nga :other eri mu :values.",
     "required_with": "Ennimiro eno yeetaagibwa nga :values ziriwo.",
     "required_with_all": "Ennimiro eno yeetaagibwa nga :values ziriwo.",

@@ -113,6 +113,7 @@
     "required_array_keys": "Dole ne filin :attribute ya ƙunshi shigarwar don: :values.",
     "required_if": "Ana buƙatar filin :attribute lokacin :other shine :value.",
     "required_if_accepted": "Ana buƙatar filin :attribute lokacin da aka karɓi :other.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": "Ana buƙatar filin :attribute sai dai idan :other yana cikin :values.",
     "required_with": "Ana buƙatar filin :attribute lokacin da :values ke nan.",
     "required_with_all": "Ana buƙatar filin :attribute lokacin da :values ke nan.",

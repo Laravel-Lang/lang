@@ -113,6 +113,7 @@
     "required_array_keys": "Майдони :attribute бояд сабтҳоро дар бар гирад: :values.",
     "required_if": ":Attribute бояд дорои қиммат бошад агар :other ба :value баробар бошад.",
     "required_if_accepted": "Ҳангоми қабули :other майдони :attribute лозим аст.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": ":Attribute бояд дорои қиммат бошад агар :other дар :values мавҷуд бошад.",
     "required_with": ":Attribute бояд дорои қиммат бошад :values мавҷуд бошад.",
     "required_with_all": ":Attribute бояд дорои қиммат бошад агар :values мавҷуд бошанд.",

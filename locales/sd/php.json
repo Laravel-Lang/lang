@@ -113,6 +113,7 @@
     "required_array_keys": ":attribute فيلڊ ۾ داخل ٿيڻ گھرجي: :values لاءِ.",
     "required_if": ":attribute فيلڊ گھربل آھي جڏھن :other آھي :value.",
     "required_if_accepted": ":attribute فيلڊ گھربل آھي جڏھن :other قبول ڪيو وڃي.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": ":attribute فيلڊ گهربل آهي جيستائين :other :values ۾ نه آهي.",
     "required_with": ":attribute فيلڊ گھربل آھي جڏھن :values موجود آھي.",
     "required_with_all": ":attribute فيلڊ گھربل آھي جڏھن :values موجود آھن.",

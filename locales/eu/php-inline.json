@@ -108,6 +108,7 @@
     "required_array_keys": "Eremu honek honako sarrerak izan behar ditu: :values.",
     "required_if": "Eremu hau beharrezkoa da denean :other da :value.",
     "required_if_accepted": "Eremu hau beharrezkoa da :other onartzen denean.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "Eremu hau beharrezkoa da behintzat :other da :values.",
     "required_with": "Eremu hau beharrezkoa da denean :values da gaur.",
     "required_with_all": "Eremu hau beharrezkoa da denean :values agertu dira.",

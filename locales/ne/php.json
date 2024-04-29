@@ -113,6 +113,7 @@
     "required_array_keys": ":Attribute फिल्डमा :values को लागि प्रविष्टिहरू समावेश हुनुपर्छ।",
     "required_if": ":Attribute चाहिन्छ जब :other :value हुन्छ।",
     "required_if_accepted": ":Other स्वीकृत हुँदा :attribute फिल्ड आवश्यक हुन्छ।",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": ":Other :values मा नभएसम्म :attribute चाहिन्छ।",
     "required_with": ":Values भएसम्म :attribute चाहिन्छ।",
     "required_with_all": ":Values भएसम्म :attribute चाहिन्छ।",

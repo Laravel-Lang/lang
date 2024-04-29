@@ -113,6 +113,7 @@
     "required_array_keys": "D':attribute Feld muss Entréen enthalen fir: :values.",
     "required_if": "Den :attribute Feld ass erfuerderlech wann :other :value ass.",
     "required_if_accepted": "Den :attribute Feld ass erfuerderlech wann :other ugeholl gëtt.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": "Den :attribute Feld ass erfuerderlech ausser :other ass an :values.",
     "required_with": "Den :attribute Feld ass erfuerderlech wann :values präsent ass.",
     "required_with_all": "Den :attribute Feld ass erfuerderlech wann :values präsent sinn.",

@@ -113,6 +113,7 @@
     "required_array_keys": ":attribute ሜዳው ለ፡:values ግቤቶችን መያዝ አለበት።",
     "required_if": ":other :value ሲሆን :attribute ሜዳ ያስፈልጋል።",
     "required_if_accepted": ":other ተቀባይነት ሲኖረው :attribute መስክ ያስፈልጋል.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": ":other በ :values ካልሆነ በስተቀር :attribute ሜዳው ያስፈልጋል።",
     "required_with": ":values ሲገኝ :attribute መስክ ያስፈልጋል።",
     "required_with_all": ":values ሲገኙ :attribute መስክ ያስፈልጋል።",

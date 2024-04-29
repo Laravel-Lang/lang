@@ -113,6 +113,7 @@
     "required_array_keys": "Полето :attribute мора да содржи записи за: :values.",
     "required_if": "Полето :attribute е задолжително кога :other е :value.",
     "required_if_accepted": "Полето :attribute е потребно кога ќе се прифати :other.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": "Полето :attribute е задолжително освен кога :other е во :values.",
     "required_with": "Полето :attribute е задолжително кога е внесено :values.",
     "required_with_all": "Полето :attribute е задолжително кога :values се присутни.",

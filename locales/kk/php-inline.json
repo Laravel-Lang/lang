@@ -108,6 +108,7 @@
     "required_array_keys": "Бұл өрісте :values жазба болуы керек.",
     "required_if": "Егер :other :value болса, бұл өріс міндетті болып табылады.",
     "required_if_accepted": "Бұл өріс :other қабылданған кезде қажет.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "Егер :other жылы :values болмаса, бұл өріс міндетті болып табылады.",
     "required_with": "Бұл өріс :values болған кезде міндетті болып табылады.",
     "required_with_all": "Бұл өріс :values болған кезде міндетті болып табылады.",

@@ -108,6 +108,7 @@
     "required_array_keys": "Энэ талбарт :values-д ​​зориулсан оруулгууд байх ёстой.",
     "required_if": "Энэ талбар нь шаардлагатай үед 305 байна :value.",
     "required_if_accepted": "Энэ талбарыг :other-г хүлээн зөвшөөрөх шаардлагатай.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "Энэ талбар нь бол шаардлагатай :other байна :values.",
     "required_with": "Энэ талбар нь шаардлагатай үед :values байгаа.",
     "required_with_all": "Энэ талбар нь :values байгаа үед шаардлагатай.",

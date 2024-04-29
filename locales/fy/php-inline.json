@@ -108,6 +108,7 @@
     "required_array_keys": "Dit fjild moat ynstjoerings befetsje foar: :values.",
     "required_if": "Dit fjild is ferplicht as :other :value is.",
     "required_if_accepted": "Dit fjild is ferplichte as :other wurdt akseptearre.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "Dit fjild is ferplichte útsein as :other yn :values is.",
     "required_with": "Dit fjild is ferplichte as :values oanwêzich is.",
     "required_with_all": "Dit fjild is fereaske as :values oanwêzich binne.",

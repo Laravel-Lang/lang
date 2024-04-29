@@ -108,6 +108,7 @@
     "required_array_keys": "ဤအကွက်တွင် ထည့်သွင်းမှုများ ပါဝင်ရမည်- :values။",
     "required_if": ":other သည် :value ဖြစ်သောအခါ ဤအကွက်ကို လိုအပ်သည်။",
     "required_if_accepted": ":other ကို လက်ခံသောအခါ ဤအကွက်ကို လိုအပ်ပါသည်။",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": ":other တွင် :values မဟုတ်ပါက ဤအကွက်ကို လိုအပ်ပါသည်။",
     "required_with": ":values ရှိသောအခါ ဤအကွက်ကို လိုအပ်ပါသည်။",
     "required_with_all": ":values ရှိသောအခါ ဤအကွက်ကို လိုအပ်ပါသည်။",

@@ -113,6 +113,7 @@
     "required_array_keys": ":Attribute eremuak honako sarrerak izan behar ditu: :values.",
     "required_if": ":Attribute derrigorrezkoa da :other :value denean.",
     "required_if_accepted": ":Attribute eremua beharrezkoa da :other onartzen denean.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": ":Attribute derrigorrezkoa da :other :values-(e)n egon ezean.",
     "required_with": ":Attribute derrigorrezkoa da :values dagoenean.",
     "required_with_all": ":Attribute derrigorrezkoa da :values daudenean.",

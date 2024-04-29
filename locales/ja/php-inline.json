@@ -108,6 +108,7 @@
     "required_array_keys": ":Valuesのエントリを含める必要があります。",
     "required_if": ":Otherが:valueの場合、この項目は必須です。",
     "required_if_accepted": ":Otherを承認した場合、この項目は必須です。",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": ":Otherが:valuesでない限り、この項目は必須です。",
     "required_with": ":Valuesが存在する場合、この項目は必須です。",
     "required_with_all": ":Valuesが存在する場合、この項目は必須です。",

@@ -113,6 +113,7 @@
     "required_array_keys": "အကွက် :attribute တွင် ထည့်သွင်းမှုများ ပါဝင်ရမည်- :values။",
     "required_if": ":other သည် :value ဖြစ်သောအခါ :attribute အကွက်လိုအပ်သည်။",
     "required_if_accepted": ":other ကိုလက်ခံသောအခါ :attribute အကွက်လိုအပ်သည်။",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": ":other သည် :values အတွင်းမဟုတ်ပါက :attribute အကွက်လိုအပ်ပါသည်။",
     "required_with": ":values ရှိသောအခါတွင် :attribute အကွက်လိုအပ်သည်။",
     "required_with_all": ":values ရှိသောအခါတွင် :attribute အကွက်လိုအပ်သည်။",

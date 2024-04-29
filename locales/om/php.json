@@ -113,6 +113,7 @@
     "required_array_keys": "Dirreen :attribute galtee: :values qabaachuu qaba.",
     "required_if": "Dirreen :attribute kan barbaachisu yeroo :other :value ta'udha.",
     "required_if_accepted": "Dirreen :attribute kan barbaachisu yeroo :other fudhatama argatudha.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": "Dirreen :attribute yoo :other :values keessa jiraate malee barbaachisaadha.",
     "required_with": "Dirreen :attribute kan barbaachisu yeroo :values jirudha.",
     "required_with_all": "Dirreen :attribute kan barbaachisu yeroo :values jiranitti.",

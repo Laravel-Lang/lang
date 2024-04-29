@@ -108,6 +108,7 @@
     "required_array_keys": "एह फील्ड में निम्नलिखित खातिर प्रविष्टि होखे के चाहीं: :values.",
     "required_if": "जब :other :value होखे त ई फील्ड जरूरी होला.",
     "required_if_accepted": "जब :other स्वीकार कइल जाला त ई फील्ड जरूरी होला.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "जबले :other :values में ना होखे तबले ई फील्ड जरूरी बा.",
     "required_with": "जब :values मौजूद होखे त ई फील्ड जरूरी होला.",
     "required_with_all": "जब :values गो मौजूद होखे त ई फील्ड जरूरी होला.",

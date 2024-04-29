@@ -113,6 +113,7 @@
     "required_array_keys": "Die :attribute-veld moet inskrywings bevat vir: :values.",
     "required_if": "Die :attribute veld is verpligtend wanneer :other :value is.",
     "required_if_accepted": "Die :attribute-veld word vereis wanneer :other aanvaar word.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": "Die :attribute veld is verpligtend tensy :other in :values is.",
     "required_with": "Die :attribute veld is verpligtend wanneer :values teenwoordig is.",
     "required_with_all": "Die :attribute veld is verpligtend wanneer :values teenwoordig is.",

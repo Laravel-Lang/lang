@@ -113,6 +113,7 @@
     "required_array_keys": "Ɛsɛ sɛ :attribute field no kura nsɛm a wɔakyerɛw ama: :values.",
     "required_if": "Wɔhwehwɛ sɛ wɔde :attribute afuw no di dwuma bere a :other yɛ :value no.",
     "required_if_accepted": "Wɔhwehwɛ sɛ wɔde :attribute afuw no di dwuma bere a wɔagye :other no.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": "Wɔhwehwɛ sɛ :attribute afuw no gye sɛ :other wɔ :values mu.",
     "required_with": "Wɔhwehwɛ sɛ :attribute afuw no bere a :values wɔ hɔ no.",
     "required_with_all": "Wɔhwehwɛ sɛ :attribute afuw no bere a :values wɔ hɔ no.",

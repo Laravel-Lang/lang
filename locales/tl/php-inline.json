@@ -108,6 +108,7 @@
     "required_array_keys": "Ang field na ito ay dapat maglaman ng mga entry para sa: :values.",
     "required_if": "Ang patlang na ito ay kinakailangan kapag :other ay :value.",
     "required_if_accepted": "Kinakailangan ang field na ito kapag tinanggap ang :other.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "Ang patlang na ito ay kinakailangan maliban kung :other ay nasa :values.",
     "required_with": "Ang patlang na ito ay kinakailangan kapag :values ay naroroon.",
     "required_with_all": "Ang patlang na ito ay kinakailangan kapag :values ay naroroon.",

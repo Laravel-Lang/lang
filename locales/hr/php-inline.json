@@ -108,6 +108,7 @@
     "required_array_keys": "Ovo polje mora sadržavati unose za: :values.",
     "required_if": "Ovo polje je obavezno ako je :other jednako :value.",
     "required_if_accepted": "Ovo polje je obavezno kada je prihvaćeno polje :other.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "Ovo polje je obavezno, osim ako se :other ne nalazi u :values.",
     "required_with": "Ovo polje je obavezno ako je :values prisutno.",
     "required_with_all": "Ovo polje je obavezno ako su :values prisutni.",

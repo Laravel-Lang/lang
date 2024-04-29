@@ -108,6 +108,7 @@
     "required_array_keys": "Dette feltet må inneholde oppføringer for: :values.",
     "required_if": "Må fylles ut når :other er :value.",
     "required_if_accepted": "Dette feltet er obligatorisk når :other er akseptert.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "Er påkrevd med mindre :other finnes blant verdiene :values.",
     "required_with": "Må fylles ut når :values er utfylt.",
     "required_with_all": "Er påkrevd når :values er oppgitt.",

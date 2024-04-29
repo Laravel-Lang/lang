@@ -113,6 +113,7 @@
     "required_array_keys": "Pole :attribute musí obsahovat položky pro: :values.",
     "required_if": ":Attribute musí být vyplněno pokud :other je :value.",
     "required_if_accepted": "Pole :attribute je povinné, pokud je přijato :other.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": ":Attribute musí být vyplněno dokud :other je v :values.",
     "required_with": ":Attribute musí být vyplněno pokud :values je vyplněno.",
     "required_with_all": ":Attribute musí být vyplněno pokud :values je zvoleno.",

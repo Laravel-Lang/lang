@@ -108,6 +108,7 @@
     "required_array_keys": "Bu meýdan: :values üçin ýazgylar bolmaly.",
     "required_if": ":Other meýdan :value bolanda bu meýdan talap edilýär.",
     "required_if_accepted": ":Other kabul edilende bu meýdan talap edilýär.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": ":Other-den :values-e ýetmese, bu meýdan talap edilýär.",
     "required_with": "Bu meýdan :values bolanda talap edilýär.",
     "required_with_all": ":values meýdan bar bolsa bu meýdan talap edilýär.",

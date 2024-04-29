@@ -113,6 +113,7 @@
     "required_array_keys": ":Attribute måste innehålla listnamn för :values.",
     "required_if": ":Attribute är obligatoriskt när :other är :value.",
     "required_if_accepted": "Fältet :attribute är ett krav när fält :other är accepterat.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": ":Attribute är obligatoriskt när inte :other finns bland :values.",
     "required_with": ":Attribute är obligatoriskt när :values är ifyllt.",
     "required_with_all": ":Attribute är obligatoriskt när :values är ifyllt.",

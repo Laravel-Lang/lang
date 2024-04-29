@@ -108,6 +108,7 @@
     "required_array_keys": "Caithfidh iontrálacha le haghaidh: :values a bheith sa réimse seo.",
     "required_if": "Teastaíonn an réimse seo nuair is :value é :other.",
     "required_if_accepted": "Teastaíonn an réimse seo nuair a ghlactar le :other gcinn.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "Tá an réimse seo ag teastáil mura bhfuil :other i :values.",
     "required_with": "Teastaíonn an réimse seo nuair a bhíonn :values gcinn i láthair.",
     "required_with_all": "Teastaíonn an réimse seo nuair a bhíonn :values gcinn i láthair.",

@@ -108,6 +108,7 @@
     "required_array_keys": "Medan ini mesti mengandungi entri untuk: :values.",
     "required_if": "Ruangan ini diperlukan bila :other sama dengan :value.",
     "required_if_accepted": "Medan ini diperlukan apabila :other diterima.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "Ruangan ini diperlukan sekiranya :other ada dalam :values.",
     "required_with": "Ruangan ini diperlukan bila :values wujud.",
     "required_with_all": "Ruangan ini diperlukan bila :values wujud.",

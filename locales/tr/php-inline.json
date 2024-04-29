@@ -108,6 +108,7 @@
     "required_array_keys": "Bu alan şu verileri içermelidir: :values",
     "required_if": "Bu alan :other :value olduğunda gereklidir.",
     "required_if_accepted": "Bu alan, :other kabul edildiğinde gereklidir.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": ":Other :values'de olmadığı sürece bu alan gereklidir.",
     "required_with": "Bu alan :values olduğunda gereklidir.",
     "required_with_all": "Bu alan :values olduğunda gereklidir.",

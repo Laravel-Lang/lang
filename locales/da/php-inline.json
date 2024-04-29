@@ -108,6 +108,7 @@
     "required_array_keys": "Dette felt skal indeholde poster for: :values.",
     "required_if": "Dette felt er påkrævet, når :other er :value.",
     "required_if_accepted": "Dette felt er påkrævet, når :other er accepteret.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "Dette felt er påkrævet, medmindre :other er i :values.",
     "required_with": "Dette felt er påkrævet, når :values er til stede.",
     "required_with_all": "Dette felt er påkrævet, når :values er til stede.",

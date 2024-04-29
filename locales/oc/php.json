@@ -113,6 +113,7 @@
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": "Lo camp :attribute es obligatòri quand :other es :value.",
     "required_if_accepted": "The :attribute field is required when :other is accepted.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": "Lo camp :attribute es obligatòri levat se :other es dins :values.",
     "required_with": "Lo camp :attribute es obligatòri quand :values es present.",
     "required_with_all": "Lo camp :attribute es obligatòri quand :values es present.",

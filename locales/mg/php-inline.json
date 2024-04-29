@@ -108,6 +108,7 @@
     "required_array_keys": "Ity saha ity dia tsy maintsy misy fidirana ho an'ny: :values.",
     "required_if": "Ilaina ity saha ity rehefa :other dia :value.",
     "required_if_accepted": "Ilaina ity saha ity rehefa ekena ny :other.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "Ilaina ity saha ity raha tsy misy :other amin'ny :values.",
     "required_with": "Ilaina ity saha ity rehefa misy :values.",
     "required_with_all": "Ilaina ity saha ity rehefa misy :values.",

@@ -113,6 +113,7 @@
     "required_array_keys": ":Attribute өрісінде :values үшін жазба болуы керек.",
     "required_if": ":Attribute жолы :other мәні :value болған кезде толтырылуы керек.",
     "required_if_accepted": ":Other қабылданған кезде :attribute өрісі қажет.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": ":Attribute жолы :other мәні :values ішінде болмағанда толтырылуы керек.",
     "required_with": ":Attribute жолы :values болғанда толтырылуы керек.",
     "required_with_all": ":Attribute жолы :values болғанда толтырылуы керек.",

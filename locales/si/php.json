@@ -113,6 +113,7 @@
     "required_array_keys": ":Attribute ක්ෂේත්‍රයේ: :values සඳහා ඇතුළත් කිරීම් අඩංගු විය යුතුය.",
     "required_if": ":Other, :value නම් පමණක් මෙම :attribute ක්ෂේත්‍රයේ අවශ්‍යයි.",
     "required_if_accepted": ":Other පිළිගත් විට :attribute ක්ෂේත්‍රය අවශ්‍ය වේ.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": ":Other, :value නොවන්නේ නම් පමණක් මෙම :attribute ක්ෂේත්‍රයේ අවශ්‍යයි.",
     "required_with": ":Values අගය පවතීනම් මෙම :attribute ක්ෂේත්‍රයේ අවශ්‍යයි.",
     "required_with_all": ":Values අගයන් පවතීනම් මෙම :attribute ක්ෂේත්‍රයේ අවශ්‍යයි.",

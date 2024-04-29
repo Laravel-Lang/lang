@@ -113,6 +113,7 @@
     "required_array_keys": ":Attribute ساھەدە چوقۇم :values بولۇشى كېرەك.",
     "required_if": ":Other :value بولغاندا :attribute قۇرۇق بولسا بولمايدۇ.",
     "required_if_accepted": ":Other قوبۇل قىلىنغاندا :attribute مەيدان تەلەپ قىلىنىدۇ.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": ":Other :values بولمىغاندا :attribute قۇرۇق بولسا بولمايدۇ.",
     "required_with": ":Values مەۋجۈت بولغاندا :attribute قۇرۇق بولسا بولمايدۇ.",
     "required_with_all": ":Values مەۋجۈت بولغاندا :attribute قۇرۇق بولسا بولمايدۇ.",

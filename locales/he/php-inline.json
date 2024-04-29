@@ -108,6 +108,7 @@
     "required_array_keys": "שדה זה חייב להכיל ערכים עבור: :values.",
     "required_if": "שדה זה נדרש כאשר :other הוא :value.",
     "required_if_accepted": "שדה זה נדרש כאשר :other מתקבל.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "שדה זה נדרש אלא אם כן :other הוא :values.",
     "required_with": "שדה זה נדרש כאשר :values קיים.",
     "required_with_all": "שדה זה נדרש כאשר :values נמצאים.",

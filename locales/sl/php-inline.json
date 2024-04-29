@@ -108,6 +108,7 @@
     "required_array_keys": "To polje mora vsebovati vnose za: :values.",
     "required_if": "Polje je obvezno, ko je v polju :other izbrana vrednost :value.",
     "required_if_accepted": "To polje je obvezno, ko je sprejetih :other.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "Polje je obvezno, razen če je v polju :other izbrana vrednost :values.",
     "required_with": "Polje je obvezno, ko je vnešena vrednost :values.",
     "required_with_all": "Polje je obvezno, ko so vnešene vrednosti :values.",

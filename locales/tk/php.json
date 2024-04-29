@@ -113,6 +113,7 @@
     "required_array_keys": ":Attribute meýdançada: :values üçin ýazgylar bolmaly.",
     "required_if": ":Attribute meýdany, :other :value hümmetine eýe bolanynda zerurdyr.",
     "required_if_accepted": ":Other kabul edilende :attribute meýdan talap edilýär.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": ":Other meýdan :values-de bolmasa, :attribute meýdan talap edilýär.",
     "required_with": ":Attribute meýdany :values bar bolanda zerurdyr.",
     "required_with_all": ":Attribute meýdany haýsyda bolsa bir :values bar bolanda zerurdyr.",

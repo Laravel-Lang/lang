@@ -108,6 +108,7 @@
     "required_array_keys": "આ ફીલ્ડમાં :values માટેની એન્ટ્રી હોવી આવશ્યક છે.",
     "required_if": "જ્યારે :other :value હોય ત્યારે આ ફીલ્ડ જરૂરી છે.",
     "required_if_accepted": "જ્યારે :other સ્વીકારવામાં આવે ત્યારે આ ફીલ્ડ જરૂરી છે.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "આ ફીલ્ડ જરૂરી છે સિવાય કે :other :values માં હોય.",
     "required_with": "જ્યારે :values હાજર હોય ત્યારે આ ફીલ્ડ જરૂરી છે.",
     "required_with_all": "જ્યારે :values હાજર હોય ત્યારે આ ફીલ્ડ જરૂરી છે.",

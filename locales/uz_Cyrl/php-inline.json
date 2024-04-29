@@ -108,6 +108,7 @@
     "required_array_keys": "Bu maydonda quyidagi yozuvlar boʻlishi kerak: :values.",
     "required_if": ":Other :value bo'lganda bu maydon talab qilinadi.",
     "required_if_accepted": "Bu maydon :other qabul qilinganda talab qilinadi.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": ":Other :values da bo'lmasa, bu maydon talab qilinadi.",
     "required_with": ":Values mavjud bo'lsa, bu maydon talab qilinadi.",
     "required_with_all": "Bu maydon :values mavjud bo'lganda talab qilinadi.",

@@ -113,6 +113,7 @@
     "required_array_keys": "فیلد :attribute باید حاوی ورودی های :values باشد.",
     "required_if": "هنگامی که :other برابر با :value است، فیلد :attribute الزامی است.",
     "required_if_accepted": "فیلد :attribute الزامی است هنگامیکه :other پذیرفته شده است.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": "فیلد :attribute الزامی است، مگر آنکه :other در :values موجود باشد.",
     "required_with": "در صورت وجود فیلد :values، فیلد :attribute نیز الزامی است.",
     "required_with_all": "در صورت وجود فیلدهای :values، فیلد :attribute نیز الزامی است.",

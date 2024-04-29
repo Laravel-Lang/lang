@@ -108,6 +108,7 @@
     "required_array_keys": "Dan il-field għandu jkun fih entrati għal: :values.",
     "required_if": "Dan il-qasam huwa meħtieġ meta :other huwa :value.",
     "required_if_accepted": "Dan il-qasam huwa meħtieġ meta :other tkun aċċettata.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "Dan il-qasam huwa meħtieġ sakemm :other ma jkunx f':values.",
     "required_with": "Dan il-qasam huwa meħtieġ meta :values ikun preżenti.",
     "required_with_all": "Dan il-qasam huwa meħtieġ meta :values huma preżenti.",

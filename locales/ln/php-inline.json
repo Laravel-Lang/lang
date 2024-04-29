@@ -108,6 +108,7 @@
     "required_array_keys": "Esika oyo esengeli kozala na makomi mpo na: :values.",
     "required_if": "Esika oyo esengeli ntango :other ezali :value.",
     "required_if_accepted": "Esika oyo esengeli ntango :other endimami.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "Esika oyo esengeli longola se soki :other ezali na :values.",
     "required_with": "Esika oyo esengeli ntango :values ezali.",
     "required_with_all": "Esika oyo esengeli ntango bato :values bazali.",

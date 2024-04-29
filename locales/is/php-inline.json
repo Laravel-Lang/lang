@@ -108,6 +108,7 @@
     "required_array_keys": "Þessi reitur verður að innihalda færslur fyrir: :values.",
     "required_if": "Þetta sviði er krafist þegar :other er :value.",
     "required_if_accepted": "Þessi reitur er nauðsynlegur þegar :other er samþykkt.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "Þetta sviði er krafist nema :other er í :values.",
     "required_with": "Þetta sviði er krafist þegar :values er til staðar.",
     "required_with_all": "Þetta sviði er krafist þegar :values eru til staðar.",

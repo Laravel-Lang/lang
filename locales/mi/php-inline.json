@@ -108,6 +108,7 @@
     "required_array_keys": "Me whakauru tenei mara i nga whakaurunga mo: :values.",
     "required_if": "Ka hiahiatia tenei mara ina :other te :value.",
     "required_if_accepted": "Ka hiahiatia tenei mara ina whakaaetia te :other.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "Ka hiahiatia tenei mara ki te kore e :other kei roto i te :values.",
     "required_with": "Ka hiahiatia tenei mara ina :values kei reira.",
     "required_with_all": "Ka hiahiatia tenei mara ina :values kei reira.",

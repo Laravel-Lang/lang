@@ -108,6 +108,7 @@
     "required_array_keys": "इस फ़ील्ड में निम्न के लिए प्रविष्टियाँ होनी चाहिए: :values।",
     "required_if": ":Other :value होने पर यह फ़ील्ड आवश्यक है ।",
     "required_if_accepted": ":Other स्वीकार किए जाने पर यह फ़ील्ड आवश्यक है।",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "यह फ़ील्ड तब तक आवश्यक है जब तक कि :other :values में न हो ।",
     "required_with": ":Values मौजूद होने पर यह फ़ील्ड आवश्यक है ।",
     "required_with_all": ":Values मौजूद होने पर यह फ़ील्ड आवश्यक है ।",

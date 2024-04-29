@@ -108,6 +108,7 @@
     "required_array_keys": "এই ক্ষেত্রটিতে অবশ্যই :values এর জন্য এন্ট্রি থাকতে হবে।",
     "required_if": "এই ক্ষেত্র প্রয়োজন বোধ করা হয় যখন :other হয় :value।",
     "required_if_accepted": "এই ক্ষেত্রটি প্রয়োজন হয় যখন :other গৃহীত হয়",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "এই ক্ষেত্র প্রয়োজন বোধ করা হয়, যদি না :other হয়, :values।",
     "required_with": ":Values উপস্থিত থাকলে এই ক্ষেত্র প্রয়োজন বোধ করা হয়।",
     "required_with_all": ":Values উপস্থিত হয় যখন এই ক্ষেত্র প্রয়োজন বোধ করা হয়।",

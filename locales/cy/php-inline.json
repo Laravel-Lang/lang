@@ -108,6 +108,7 @@
     "required_array_keys": "Rhaid i’r maes hwn gynnwys cofnodion ar gyfer: :values.",
     "required_if": "Mae'r maes hwn yn ofynnol pan fydd :other yn :value.",
     "required_if_accepted": "Mae angen y maes hwn pan dderbynnir :other.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "Mae'r maes hwn yn ofynnol oni bai bod :other yn :values.",
     "required_with": "Mae'r maes hwn yn ofynnol pan fydd :values yn bresennol.",
     "required_with_all": "Mae'r maes hwn yn ofynnol pan fydd :values yn bresennol.",

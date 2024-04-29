@@ -108,6 +108,7 @@
     "required_array_keys": "ಈ ಕ್ಷೇತ್ರವು ಇದಕ್ಕಾಗಿ ನಮೂದುಗಳನ್ನು ಹೊಂದಿರಬೇಕು: :values.",
     "required_if": "ಈ ಕ್ಷೇತ್ರದಲ್ಲಿ ಅಗತ್ಯವಿದೆ ಮಾಡಿದಾಗ :other ಆಗಿದೆ :value.",
     "required_if_accepted": ":Other ಅನ್ನು ಸ್ವೀಕರಿಸಿದಾಗ ಈ ಕ್ಷೇತ್ರವು ಅಗತ್ಯವಾಗಿರುತ್ತದೆ.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "ಈ ಕ್ಷೇತ್ರದಲ್ಲಿ ಅಗತ್ಯವಿದೆ ಹೊರತು :other ಆಗಿದೆ :values.",
     "required_with": "ಈ ಕ್ಷೇತ್ರದಲ್ಲಿ ಅಗತ್ಯವಿದೆ ಮಾಡಿದಾಗ :values ಇರುತ್ತದೆ.",
     "required_with_all": "ಈ ಕ್ಷೇತ್ರದಲ್ಲಿ ಅಗತ್ಯವಿದೆ ಮಾಡಿದಾಗ :values ಇರುತ್ತವೆ.",

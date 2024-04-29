@@ -108,6 +108,7 @@
     "required_array_keys": "Toto pole musí obsahovať položky pre: :values.",
     "required_if": "Toto pole sa vyžaduje, keď je :other :value.",
     "required_if_accepted": "Toto pole je povinné, ak je prijatých :other.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "Toto pole sa vyžaduje, pokiaľ nie je :other v :values.",
     "required_with": "Toto pole sa vyžaduje, keď je prítomné číslo :values.",
     "required_with_all": "Toto pole sa vyžaduje, keď sú prítomné :values.",

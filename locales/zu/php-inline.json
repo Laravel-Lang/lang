@@ -108,6 +108,7 @@
     "required_array_keys": "Le nkambu kufanele iqukathe okufakiwe: :values.",
     "required_if": "Le nkambu iyadingeka uma u-:other engu-:value.",
     "required_if_accepted": "Le nkambu iyadingeka uma i-:other yamukelwe.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "Le nkambu iyadingeka ngaphandle uma okuthi :other kokungu-:values.",
     "required_with": "Le nkambu iyadingeka uma u-:values ekhona.",
     "required_with_all": "Le nkambu iyadingeka uma kukhona abangu-:values.",

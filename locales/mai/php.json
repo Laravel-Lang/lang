@@ -113,6 +113,7 @@
     "required_array_keys": ":attribute फील्ड मे एहि लेल प्रविष्टि होबाक चाही: :values.",
     "required_if": ":attribute फील्ड तखन आवश्यक होइत अछि जखन :other :value अछि।",
     "required_if_accepted": ":attribute फील्ड तखन आवश्यक अछि जखन :other स्वीकार कएल जाइत अछि।",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": ":attribute फील्ड ताबत धरि आवश्यक अछि जाबत :other :values मे नहि अछि।",
     "required_with": ":attribute फील्ड तखन आवश्यक होइत अछि जखन :values मौजूद रहैत अछि।",
     "required_with_all": ":attribute फील्ड तखन आवश्यक होइत अछि जखन :values उपस्थित रहैत अछि।",

@@ -108,6 +108,7 @@
     "required_array_keys": "Šajā laukā ir jābūt ierakstiem: :values.",
     "required_if": "Šis lauks ir nepieciešams, ja :other ir :value.",
     "required_if_accepted": "Šis lauks ir obligāts, ja ir pieņemts :other.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "Šis lauks ir nepieciešams, ja :other ir :values.",
     "required_with": "Šis lauks ir nepieciešams, ja ir :values.",
     "required_with_all": "Šis lauks ir nepieciešams, ja :values ir klāt.",

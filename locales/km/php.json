@@ -113,6 +113,7 @@
     "required_array_keys": "វាល :attribute ត្រូវតែមានធាតុសម្រាប់: :values ។",
     "required_if": ":Attribute នេះគឺទាមទារនៅពេល :other គឺ :value។",
     "required_if_accepted": "វាល :attribute ត្រូវបានទាមទារនៅពេលដែល :other ត្រូវបានទទួលយក។",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": ":Attribute នេះគឺទាមទារនៅពេល :other មិនមែន :values។",
     "required_with": ":Attribute នេះគឺទាមទារនៅពេល :values មាន។",
     "required_with_all": ":Attribute នេះគឺទាមទារនៅពេល :values មាន។",

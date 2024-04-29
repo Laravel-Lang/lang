@@ -113,6 +113,7 @@
     "required_array_keys": ":Attribute ಕ್ಷೇತ್ರವು ಇದಕ್ಕಾಗಿ ನಮೂದುಗಳನ್ನು ಹೊಂದಿರಬೇಕು: :values.",
     "required_if": "ಈ  :attribute ಕ್ಷೇತ್ರ ಅಗತ್ಯವಿದೆ ಯಾವಾಗ :other ನಲ್ಲಿ :value.",
     "required_if_accepted": ":Other ಅನ್ನು ಸ್ವೀಕರಿಸಿದಾಗ :attribute ಕ್ಷೇತ್ರವು ಅಗತ್ಯವಾಗಿರುತ್ತದೆ.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": "ಈ  :attribute ಕ್ಷೇತ್ರ ಅಗತ್ಯವಿದೆ  unless :other ನಲ್ಲಿ  :values ಹೊರತುಪಡಿಸಿ .",
     "required_with": "ಈ  :attribute ಕ್ಷೇತ್ರ ಅಗತ್ಯವಿದೆ ಯಾವಾಗ :values ಇರುತ್ತದೆ.",
     "required_with_all": "ಈ  :attribute ಕ್ಷೇತ್ರ ಅಗತ್ಯವಿದೆ ಯಾವಾಗ :values ಇರುತ್ತವೆ.",

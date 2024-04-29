@@ -113,6 +113,7 @@
     "required_array_keys": "It fjild :attribute moat ynstjoerings befetsje foar: :values.",
     "required_if": "It :attribute-fjild is ferplicht as :other :value is.",
     "required_if_accepted": "It :attribute-fjild is ferplicht as :other wurdt akseptearre.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": "It :attribute-fjild is ferplicht, útsein as :other yn :values is.",
     "required_with": "It :attribute-fjild is ferplicht as :values oanwêzich is.",
     "required_with_all": "It :attribute-fjild is ferplicht as :values oanwêzich binne.",

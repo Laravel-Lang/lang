@@ -113,6 +113,7 @@
     "required_array_keys": ":Attribute फील्ड में :values के लिए एन्ट्रीज़ होना जरुरी हैं ।",
     "required_if": ":Attribute फ़ील्ड आवश्यक होता है जब :other :value होता है ।",
     "required_if_accepted": ":Other स्वीकार किए जाने पर :attribute फ़ील्ड आवश्यक है।",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": ":Attribute फील्ड आवश्यक होता है जब :other, :values में नहीं होता है ।",
     "required_with": ":Attribute फ़ील्ड आवश्यक होता है जब :values मौजूद होता है ।",
     "required_with_all": ":Attribute फ़ील्ड आवश्यक होता है जब :values मौजूद होता है ।",

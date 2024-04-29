@@ -108,6 +108,7 @@
     "required_array_keys": "Este campo deve conter entradas para: :values",
     "required_if": "Este campo é obrigatório quando :other é :value.",
     "required_if_accepted": "Este campo é obrigatório quando :other é aceito.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "Este campo é obrigatório, a menos que :other esteja em :values.",
     "required_with": "Este campo é obrigatório quando :values estiverem presentes.",
     "required_with_all": "Este campo é obrigatório quando :values estão presentes.",

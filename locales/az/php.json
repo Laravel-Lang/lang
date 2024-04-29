@@ -113,6 +113,7 @@
     "required_array_keys": ":Attribute massivində göstərilən açarlar olmalıdır: :values.",
     "required_if": ":Other :value olduqda :attribute mütləq qeyd edilməlidir.",
     "required_if_accepted": ":Other qəbul edildikdə :attribute sahəsi tələb olunur.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": ":Other :values daxilində olmadığı halda :attribute mütləq qeyd edilməlidir.",
     "required_with": ":Values mövcud olduqda :attribute mütləq qeyd edilməlidir.",
     "required_with_all": ":Values mövcud olduqda :attribute mütləq qeyd edilməlidir.",

@@ -113,6 +113,7 @@
     "required_array_keys": "Ní mór iontrálacha le haghaidh: :values a bheith sa réimse :attribute gcinn.",
     "required_if": "Tá an réimse :attribute ag teastáil nuair is :value é :other.",
     "required_if_accepted": "Tá an :attribute réimse ag teastáil nuair a ghlactar le :other.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": "Tá an :attribute réimse ag teastáil mura bhfuil :other i :values.",
     "required_with": "Tá an réimse :attribute ag teastáil nuair a bhíonn :values i láthair.",
     "required_with_all": "Tá an réimse :attribute ag teastáil nuair a bhíonn :values i láthair.",

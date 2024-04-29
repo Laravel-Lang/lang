@@ -113,6 +113,7 @@
     "required_array_keys": "مەیدانی :attribute دەبێت زانیارییەکانی تێدابێت بۆ: :values.",
     "required_if": "مەیدانی ١٠ پێویستە کاتێک ٢٠ ٣٠ بێت.",
     "required_if_accepted": "مەیدانی ١٠ پێویستە کاتێک ٢٠ وەرگیرا.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": "مەیدانی ١٠ پێویستە مەگەر ٢٠ لە ٣٠دا نەبێت.",
     "required_with": "مەیدانی ١٠ پێویستە کاتێک ٢٠ ئامادە بێت.",
     "required_with_all": "مەیدانی ١٠ پێویستە کاتێک ٢٠ کەس ئامادەبن.",

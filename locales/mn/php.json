@@ -113,6 +113,7 @@
     "required_array_keys": ":Attribute талбарт :values-д зориулсан оруулгууд байх ёстой.",
     "required_if": "Хэрэв :other :value бол :attribute табларт утга оруулах шаардлагатай.",
     "required_if_accepted": ":Other-г хүлээн авах үед :attribute талбар шаардлагатай.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": ":Other :values дотор байхгүй бол :attribute талбарт утга оруулах шаардлагатай.",
     "required_with": ":Values утгуудийн аль нэг байвал :attribute талбар шаардлагатай.",
     "required_with_all": ":Values утгууд байвал :attribute талбар шаардлагатай.",

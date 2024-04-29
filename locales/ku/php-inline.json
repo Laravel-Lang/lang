@@ -108,6 +108,7 @@
     "required_array_keys": "Di vê qadê de divê navnîşên ji bo: :values.",
     "required_if": "Dema ku :other bibe :value ev qada pêdivî ye.",
     "required_if_accepted": "Dema ku :other were pejirandin ev qada pêdivî ye.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "Vê zeviyê pêdivî ye ku heya :other di :values de ne.",
     "required_with": "Dema ku :values hebe ev qada pêdivî ye.",
     "required_with_all": "Dema ku :values hebin ev qada pêdivî ye.",

@@ -113,6 +113,7 @@
     "required_array_keys": ":attribute ক্ষেত্ৰখনত: :values ৰ বাবে প্ৰৱেশ থাকিব লাগিব।",
     "required_if": "২০ টা ৩০ হ’লে ১০ ফিল্ডৰ প্ৰয়োজন হয়।",
     "required_if_accepted": "২০ টা গ্ৰহণ কৰিলে ১০ টা ফিল্ডৰ প্ৰয়োজন হয়।",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": ":values ত ২০ টা নহ’লে ১০ টা ফিল্ডৰ প্ৰয়োজন।",
     "required_with": "২০ টা ফিল্ড থাকিলে ১০ টা ফিল্ডৰ প্ৰয়োজন হয়।",
     "required_with_all": "২০ টা ফিল্ড থাকিলে ১০ টা ফিল্ডৰ প্ৰয়োজন হয়।",

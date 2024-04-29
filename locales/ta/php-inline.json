@@ -108,6 +108,7 @@
     "required_array_keys": "இந்த புலத்தில் உள்ளீடுகள் இருக்க வேண்டும்: :values.",
     "required_if": ":other :value ஆக இருக்கும் போது இந்த புலம் தேவைப்படுகிறது.",
     "required_if_accepted": ":other ஏற்கப்படும்போது இந்தப் புலம் தேவைப்படுகிறது.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": ":values இல் :other இருந்தால் தவிர இந்தப் புலம் தேவை.",
     "required_with": ":values இருக்கும் போது இந்தப் புலம் தேவைப்படுகிறது.",
     "required_with_all": ":values இருக்கும் போது இந்த புலம் தேவைப்படுகிறது.",

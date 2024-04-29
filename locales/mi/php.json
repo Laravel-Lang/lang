@@ -113,6 +113,7 @@
     "required_array_keys": "Me whakauru te mara :attribute mo: :values.",
     "required_if": "Me :attribute te mara ina :other te :value.",
     "required_if_accepted": "Ka hiahiatia te mara :attribute ina whakaaetia te :other.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": "Me :attribute te mara ki te kore e :other kei roto i te :values.",
     "required_with": "Ko te mara :attribute e hiahiatia ana ina :values kei reira.",
     "required_with_all": "Ko te mara :attribute e hiahiatia ana ina :values kei reira.",

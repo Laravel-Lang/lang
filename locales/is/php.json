@@ -113,6 +113,7 @@
     "required_array_keys": ":Attribute reiturinn verður að innihalda færslur fyrir: :values.",
     "required_if": "Reiturinn :attribute er nauðsynlegur þegar :other er :value.",
     "required_if_accepted": ":Attribute reiturinn er nauðsynlegur þegar :other er samþykkt.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": ":Attribute er áskilinn nema :other sé í :values.",
     "required_with": ":Attribute er áskilinn þegar :values er til staðar.",
     "required_with_all": ":Attribute er áskilinn þegar :values er til staðar.",

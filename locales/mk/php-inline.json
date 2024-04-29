@@ -108,6 +108,7 @@
     "required_array_keys": "Ова поле мора да содржи записи за: :values.",
     "required_if": "Ова поле е задолжително кога :other е :value.",
     "required_if_accepted": "Ова поле е потребно кога е прифатено :other.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "Ова поле е задолжително освен кога :other е во :values.",
     "required_with": "Ова поле е задолжително кога :values постои.",
     "required_with_all": "Ова поле е задолжително кога :values постојат.",

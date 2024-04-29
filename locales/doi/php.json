@@ -113,6 +113,7 @@
     "required_array_keys": ":attribute फील्ड च: :values आस्तै प्रविश्टियां होनी चाहिदी।",
     "required_if": ":attribute फील्ड दी लोड़ होंदी ऐ जिसलै :other :value होंदे न।",
     "required_if_accepted": ":other गी स्वीकार करने पर :attribute फील्ड दी लोड़ होंदी ऐ।",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": ":attribute फील्ड दी लोड़ होंदी ऐ जदूं तकर :other :values च नेईं होंदे।",
     "required_with": ":values मौजूद होने पर :attribute फील्ड दी लोड़ होंदी ऐ।",
     "required_with_all": ":attribute फील्ड दी लोड़ उसलै होंदी ऐ जिसलै :values मौजूद होंदे न।",

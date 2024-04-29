@@ -113,6 +113,7 @@
     "required_array_keys": "እቲ :attribute ዝብል ዓውዲ ን: :values ዝኸውን ኣታዊታት ክሕዝ ኣለዎ።",
     "required_if": ":other :value ምስ ዝኸውን እቲ :attribute ዝብል ሜዳ የድሊ።",
     "required_if_accepted": ":other ተቐባልነት ምስ ዝረክብ እቲ :attribute ዝብል ዓውዲ የድሊ።",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": ":other ኣብ :values እንተዘይኮይኑ እቲ :attribute ሜዳ የድሊ።",
     "required_with": "እቲ :attribute ሜዳ :values ኣብ ዝህልወሉ እዋን የድሊ።",
     "required_with_all": "እቲ :attribute ሜዳ :values ምስ ዝህልዉ እዩ ዘድሊ።",

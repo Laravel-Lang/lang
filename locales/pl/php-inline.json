@@ -108,6 +108,7 @@
     "required_array_keys": "Pole musi zawierać wartości: :values.",
     "required_if": "Pole jest wymagane gdy :other ma wartość :value.",
     "required_if_accepted": "To pole jest wymagane gdy :other jest zaakceptowane.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "Pole jest wymagane jeżeli :other nie znajduje się w :values.",
     "required_with": "Pole jest wymagane gdy :values jest obecny.",
     "required_with_all": "Pole jest wymagane gdy wszystkie :values są obecne.",

@@ -113,6 +113,7 @@
     "required_array_keys": "Ogige iri ahụ ga-enwerịrị ndenye maka: :values.",
     "required_if": "A chọrọ ubi :attribute mgbe :other bụ :value.",
     "required_if_accepted": "A chọrọ ubi iri mgbe :other nabatara.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": "A chọrọ ubi :attribute ma ọ bụrụ na :other dị na :values.",
     "required_with": "A chọrọ ubi :attribute mgbe :values dị.",
     "required_with_all": "A chọrọ ubi :attribute mgbe :values nọ.",

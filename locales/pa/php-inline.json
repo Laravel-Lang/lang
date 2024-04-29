@@ -108,6 +108,7 @@
     "required_array_keys": "ਇਸ ਖੇਤਰ ਵਿੱਚ ਇਹਨਾਂ ਲਈ ਐਂਟਰੀਆਂ ਹੋਣੀਆਂ ਚਾਹੀਦੀਆਂ ਹਨ: :values।",
     "required_if": "ਇਹ ਖੇਤਰ ਲੋੜੀਂਦਾ ਹੈ ਜਦੋਂ :other :value ਹੋਵੇ।",
     "required_if_accepted": "ਇਹ ਖੇਤਰ ਲੋੜੀਂਦਾ ਹੈ ਜਦੋਂ :other ਨੂੰ ਸਵੀਕਾਰ ਕੀਤਾ ਜਾਂਦਾ ਹੈ।",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "ਇਹ ਖੇਤਰ ਲੋੜੀਂਦਾ ਹੈ ਜਦੋਂ ਤੱਕ :values ਵਿੱਚ :other ਨਾ ਹੋਵੇ।",
     "required_with": ":values ਮੌਜੂਦ ਹੋਣ 'ਤੇ ਇਹ ਖੇਤਰ ਲੋੜੀਂਦਾ ਹੈ।",
     "required_with_all": "ਇਹ ਖੇਤਰ ਲੋੜੀਂਦਾ ਹੈ ਜਦੋਂ :values ਮੌਜੂਦ ਹੁੰਦੇ ਹਨ।",

@@ -113,6 +113,7 @@
     "required_array_keys": ":attribute foro kɔnɔ, sɛbɛnniw ka kan ka sɔrɔ: :values.",
     "required_if": "Foro :attribute bɛ wajibiya ni :other ye :value ye.",
     "required_if_accepted": "Foro :attribute bɛ wajibiya ni :other sɔnna.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": "Foro :attribute bɛ wajibiya fo ni :other bɛ :values kɔnɔ.",
     "required_with": "Foro :attribute bɛ wajibiya ni :values bɛ yen.",
     "required_with_all": "Foro :attribute bɛ wajibiya ni :values bɛ yen.",

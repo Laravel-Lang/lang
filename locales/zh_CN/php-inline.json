@@ -108,6 +108,7 @@
     "required_array_keys": "必须至少包含指定的键：:values.",
     "required_if": "当 :other 为 :value 时不能为空。",
     "required_if_accepted": "当 :other 存在时不能为空",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "当 :other 不为 :values 时不能为空。",
     "required_with": "当 :values 存在时不能为空。",
     "required_with_all": "当 :values 存在时不能为空。",

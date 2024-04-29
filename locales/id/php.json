@@ -113,6 +113,7 @@
     "required_array_keys": ":Attribute wajib berisi entri untuk: :values.",
     "required_if": ":Attribute wajib diisi bila :other adalah :value.",
     "required_if_accepted": ":Attribute wajib diisi bila :other sesuai.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": ":Attribute wajib diisi kecuali :other memiliki nilai :values.",
     "required_with": ":Attribute wajib diisi bila terdapat :values.",
     "required_with_all": ":Attribute wajib diisi bila terdapat :values.",

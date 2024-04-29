@@ -113,6 +113,7 @@
     "required_array_keys": ":attribute क्षेत्रे प्रविष्टयः भवितुमर्हन्ति: :values.",
     "required_if": "२० क्षेत्रं यदा २० ३० भवति तदा आवश्यकम् ।",
     "required_if_accepted": "२० स्वीकृते १० क्षेत्रम् आवश्यकम् ।",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": "१० क्षेत्रं आवश्यकं यावत् २० ३० मध्ये नास्ति ।",
     "required_with": "२० युक्ते १० क्षेत्रम् आवश्यकम् ।",
     "required_with_all": "२० क्षेत्रस्य आवश्यकता भवति यदा २० वर्तन्ते ।",

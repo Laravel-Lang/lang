@@ -113,6 +113,7 @@
     "required_array_keys": ":attribute ຊ່ອງຂໍ້ມູນຕ້ອງມີລາຍການສໍາລັບ: :values.",
     "required_if": "ຊ່ອງຂໍ້ມູນ :attribute ແມ່ນຕ້ອງການເມື່ອ :other ແມ່ນ :value.",
     "required_if_accepted": "ຊ່ອງຂໍ້ມູນ :attribute ແມ່ນຕ້ອງການເມື່ອ :other ຖືກຍອມຮັບ.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": "ຊ່ອງຂໍ້ມູນ :attribute ແມ່ນຕ້ອງການເວັ້ນເສຍແຕ່ວ່າ :other ແມ່ນຢູ່ໃນ :values.",
     "required_with": "ຊ່ອງຂໍ້ມູນ :attribute ແມ່ນຕ້ອງການເມື່ອມີ :values.",
     "required_with_all": "ຊ່ອງຂໍ້ມູນ :attribute ແມ່ນຕ້ອງການເມື່ອ :values ມີຢູ່.",

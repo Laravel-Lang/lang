@@ -113,6 +113,7 @@
     "required_array_keys": ":attribute pampapiqa kaykunapaq qillqasqakuna kanan tiyan: :values.",
     "required_if": ":attribute chakraqa :other :value kaptinmi mañakun.",
     "required_if_accepted": ":attribute chakraqa :other chaskisqa kaptinmi mañakun.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": ":attribute chakraqa mañakunmi mana :other :valuespi kaptinqa.",
     "required_with": ":attribute chakraqa :values kaptinmi mañakun.",
     "required_with_all": ":attribute chakraqa :values kaptinmi mañakun.",

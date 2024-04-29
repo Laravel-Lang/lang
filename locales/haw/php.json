@@ -113,6 +113,7 @@
     "required_array_keys": "Pono e komo i loko o ka mahina :attribute no: :values.",
     "required_if": "Pono ke kahua :attribute inā he :value ka :other.",
     "required_if_accepted": "Pono ke kahua :attribute ke ʻae ʻia ka :other.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": "Pono ka mahina :attribute ke ʻole ka :other i :values.",
     "required_with": "Pono ke kahua :attribute ke loaʻa ka :values.",
     "required_with_all": "Pono ke kahua :attribute ke loaʻa iā :values.",

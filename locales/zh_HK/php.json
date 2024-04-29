@@ -113,6 +113,7 @@
     "required_array_keys": ":Attribute 必須包含指定的鍵：:values.",
     "required_if": "當 :other 是 :value 時 :attribute 不能留空。",
     "required_if_accepted": "接受 :other 时需要 :attribute 字段。",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": "當 :other 不是 :values 時 :attribute 不能留空。",
     "required_with": "當 :values 出現時 :attribute 不能留空。",
     "required_with_all": "當 :values 出現時 :attribute 不能留空。",

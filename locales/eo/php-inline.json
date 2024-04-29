@@ -108,6 +108,7 @@
     "required_array_keys": "Ĉi tiu kampo devas enhavi enskribojn por: :values.",
     "required_if": "Ĉi tiu kampo estas postulata kiam :other estas :value.",
     "required_if_accepted": "Ĉi tiu kampo estas postulata kiam :other estas akceptita.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "Ĉi tiu kampo estas postulata krom se :other estas en :values.",
     "required_with": "Ĉi tiu kampo estas postulata kiam :values ĉeestas.",
     "required_with_all": "Ĉi tiu kampo estas postulata kiam :values ĉeestas.",

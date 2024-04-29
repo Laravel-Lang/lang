@@ -113,6 +113,7 @@
     "required_array_keys": "Laukā :attribute jābūt ierakstiem: :values.",
     "required_if": ":Attribute lauks ir obligāts, ja :other ir :values.",
     "required_if_accepted": "Lauks :attribute ir nepieciešams, ja tiek pieņemts :other.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": ":Attribute lauks ir obligāts, ja vien :other nav :values.",
     "required_with": ":Attribute lauks ir obligāts, kad kāds no :values ir pieejams.",
     "required_with_all": ":Attribute lauks ir obligāts, kad viss no :values ir pieejams.",

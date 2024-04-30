@@ -113,7 +113,7 @@
     "required_array_keys": "الحقل :attribute يجب أن يحتوي على مدخلات لـ: :values.",
     "required_if": "حقل :attribute مطلوب في حال ما إذا كان :other يساوي :value.",
     "required_if_accepted": "الحقل :attribute مطلوب عند قبول الحقل :other.",
-    "required_if_declined": "The :attribute field is required when :other is declined.",
+    "required_if_declined": "الحقل :attribute مطلوب عند رفض الحقل :other.",
     "required_unless": "حقل :attribute مطلوب في حال ما لم يكن :other يساوي :values.",
     "required_with": "حقل :attribute مطلوب إذا توفّر :values.",
     "required_with_all": "حقل :attribute مطلوب إذا توفّر :values.",

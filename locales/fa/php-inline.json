@@ -108,7 +108,7 @@
     "required_array_keys": "این فیلد باید حاوی ورودی های :values باشد.",
     "required_if": "این مقدار ضروری است وقتی که :other برابر :value است.",
     "required_if_accepted": "این مقدار ضروری است وقتی که :other پذیرفته شده است.",
-    "required_if_declined": "This field is required when :other is declined.",
+    "required_if_declined": "این مقدار ضروری است وقتی که :other رد شده است.",
     "required_unless": "این مقدار ضروری است مگر اینکه :other برابر :values باشد.",
     "required_with": "این مقدار ضروری است وقتی که :values وارد شده باشد.",
     "required_with_all": "این مقدار ضروری است وقتی که مقادیر :values وارد شده باشند.",

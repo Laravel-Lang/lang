@@ -113,7 +113,7 @@
     "required_array_keys": "ช่องข้อมูล :attribute ต้องมีรายการสำหรับ: :values",
     "required_if": "ต้องกรอกช่องข้อมูล :attribute เมื่อ :other เป็น :value",
     "required_if_accepted": "ต้องกรอกช่องข้อมูล :attribute เมื่อยอมรับ :other",
-    "required_if_declined": "The :attribute field is required when :other is declined.",
+    "required_if_declined": "ต้องกรอกช่องข้อมูล :attribute เมื่อ :other ถูกปฏิเสธ",
     "required_unless": "ต้องกรอกช่องข้อมูล :attribute เว้นแต่ :other อยู่ใน :values",
     "required_with": "ต้องกรอกช่องข้อมูล :attribute เมื่อมี :values",
     "required_with_all": "ต้องกรอกช่องข้อมูล :attribute เมื่อมี :values",

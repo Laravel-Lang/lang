@@ -108,6 +108,7 @@
     "required_array_keys": "Бу кырда язмалар булырга тиеш: :values.",
     "required_if": "Бу кыр :other яшь булганда кирәк.",
     "required_if_accepted": "Бу өлкә :other кабул ителгәндә кирәк.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "Бу кыр :otherда булмаса, кирәк.",
     "required_with": "Бу кыр :values булганда кирәк.",
     "required_with_all": "Бу кыр :values булганда кирәк.",

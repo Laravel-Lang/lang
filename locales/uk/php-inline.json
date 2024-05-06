@@ -108,6 +108,7 @@
     "required_array_keys": "Поле повинно містити записи для: :values.",
     "required_if": "Поле обов'язкове коли :other є :value.",
     "required_if_accepted": "Поле є обов'язковим, якщо прийнято :other.",
+    "required_if_declined": "Поле є обов'язковим, якщо відхилено :other.",
     "required_unless": "Поле обовязковим, якщо :other інше не вказано у :values.",
     "required_with": "Поле обов'язкове коли :values є.",
     "required_with_all": "Поле обов'язкове коли :values присутні.",

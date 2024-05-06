@@ -108,6 +108,7 @@
     "required_array_keys": "මෙම ක්ෂේත්‍රයේ :values සඳහා ඇතුළත් කිරීම් අඩංගු විය යුතුය.",
     "required_if": "මේ ක්ෂේත්‍රය අවශ්ය විට :other වේ :value.",
     "required_if_accepted": ":Other පිළිගන්නා විට මෙම ක්ෂේත්‍රය අවශ්‍ය වේ.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "මේ ක්ෂේත්‍රය අවශ්ය නම් :other වේ :values.",
     "required_with": "මේ ක්ෂේත්‍රය අවශ්ය විට :values වර්තමාන වේ.",
     "required_with_all": "මේ ක්ෂේත්‍රය අවශ්ය විට :values වර්තමාන වේ.",

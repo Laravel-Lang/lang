@@ -108,6 +108,7 @@
     "required_array_keys": "Sehemu hii ni lazima iwe na maingizo ya: :values.",
     "required_if": "Uwanja huu ni required wakati :other ni :value.",
     "required_if_accepted": "Sehemu hii inahitajika wakati :other inakubaliwa.",
+    "required_if_declined": "Sehemu hii inahitajika wakati :other imekataliwa.",
     "required_unless": "Uwanja huu ni required isipokuwa :other ni katika :values.",
     "required_with": "Uwanja huu ni required wakati :values ni sasa.",
     "required_with_all": "Uwanja huu ni required wakati :values ni sasa.",

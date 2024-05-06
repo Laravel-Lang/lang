@@ -113,6 +113,7 @@
     "required_array_keys": "Väljal :attribute peavad olema kirjed: :values.",
     "required_if": ":Attribute väli on nõutud, kui :other on :value.",
     "required_if_accepted": "Väli :attribute on kohustuslik, kui aktsepteeritakse :other.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": ":Attribute väli on nõutud, välja arvatud, kui :other on :values.",
     "required_with": ":Attribute väli on nõutud, kui :values on esindatud.",
     "required_with_all": ":Attribute väli on nõutud, kui :values on esindatud.",

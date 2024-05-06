@@ -113,6 +113,7 @@
     "required_array_keys": "Munda wegumi unofanirwa kunge uine zvinyorwa zve: :values.",
     "required_if": "Munda wegumi unodiwa kana makumi maviri ari makumi matatu.",
     "required_if_accepted": "Munda wegumi unodiwa kana makumi maviri agamuchirwa.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": "Munda wegumi unodiwa kunze kwekunge makumi maviri ari mu:values.",
     "required_with": "Munda wegumi unodiwa kana makumi maviri aripo.",
     "required_with_all": "Munda wegumi unodiwa kana makumi maviri aripo.",

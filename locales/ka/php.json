@@ -113,6 +113,7 @@
     "required_array_keys": ":Attribute ველი უნდა შეიცავდეს ჩანაწერებს: :values.",
     "required_if": ":Attribute-ის ველი აუცილებელია, თუ :other-ის მნიშვნელობა ემთხვევა :value-ს.",
     "required_if_accepted": ":Attribute ველი აუცილებელია, როცა :other მიიღება.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": ":Attribute-ის ველი აუცილებელია, თუ :values არ შეიცავს :other-ს.",
     "required_with": ":Attribute-ის ველი აუცილებელია, თუ :values მითითებულია.",
     "required_with_all": ":Attribute-ის ველი აუცილებელია, თუ :values მითითებულია.",

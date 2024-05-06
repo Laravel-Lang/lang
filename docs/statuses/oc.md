@@ -4,7 +4,7 @@ editLink: false
 
 # oc
 
-##### All missed: 889
+##### All missed: 893
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 811
+##### Missing: 817
 
 <table width="100%">
 <tr><th width="50%">
@@ -182,7 +182,7 @@ Value
 
 </td><td width="50%">
 
-(and :count more errors)
+(and :count more error)|(and :count more errors)|(and :count more errors)
 
 </td></tr>
 <tr><td width="50%">
@@ -2257,6 +2257,15 @@ Email
 </td></tr>
 <tr><td width="50%">
 
+email
+
+</td><td width="50%">
+
+email
+
+</td></tr>
+<tr><td width="50%">
+
 Email Address
 
 </td><td width="50%">
@@ -2334,6 +2343,15 @@ Error
 </td><td width="50%">
 
 Error
+
+</td></tr>
+<tr><td width="50%">
+
+errors
+
+</td><td width="50%">
+
+errors
 
 </td></tr>
 <tr><td width="50%">
@@ -3366,6 +3384,15 @@ Loading
 </td></tr>
 <tr><td width="50%">
 
+Location
+
+</td><td width="50%">
+
+Location
+
+</td></tr>
+<tr><td width="50%">
+
 Log in
 
 </td><td width="50%">
@@ -3816,6 +3843,15 @@ Name
 </td></tr>
 <tr><td width="50%">
 
+name
+
+</td><td width="50%">
+
+name
+
+</td></tr>
+<tr><td width="50%">
+
 Namibia
 
 </td><td width="50%">
@@ -4316,6 +4352,15 @@ Paraguay
 </td><td width="50%">
 
 Paraguay
+
+</td></tr>
+<tr><td width="50%">
+
+password
+
+</td><td width="50%">
+
+password
 
 </td></tr>
 <tr><td width="50%">
@@ -6318,6 +6363,15 @@ This account does not have an active subscription.
 </td></tr>
 <tr><td width="50%">
 
+This action is unauthorized.
+
+</td><td width="50%">
+
+This action is unauthorized.
+
+</td></tr>
+<tr><td width="50%">
+
 This copy of Nova is unlicensed.
 
 </td><td width="50%">
@@ -7476,7 +7530,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 36
+##### Missing: 37
 
 <table width="100%">
 <tr><th width="50%">
@@ -7796,6 +7850,15 @@ This field is required when :other is accepted.
 </td></tr>
 <tr><td width="50%">
 
+required_if_declined
+
+</td><td width="50%">
+
+This field is required when :other is declined.
+
+</td></tr>
+<tr><td width="50%">
+
 ulid
 
 </td><td width="50%">
@@ -7820,7 +7883,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 28
+##### Missing: 25
 
 <table width="100%">
 <tr><th width="50%">
@@ -7832,15 +7895,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-accepted_if
-
-</td><td width="50%">
-
-The :attribute must be accepted when :other is :value.
-
-</td></tr>
 <tr><td width="50%">
 
 attached
@@ -7870,24 +7924,6 @@ The password is incorrect.
 </td></tr>
 <tr><td width="50%">
 
-declined
-
-</td><td width="50%">
-
-The :attribute must be declined.
-
-</td></tr>
-<tr><td width="50%">
-
-declined_if
-
-</td><td width="50%">
-
-The :attribute must be declined when :other is :value.
-
-</td></tr>
-<tr><td width="50%">
-
 extensions
 
 </td><td width="50%">
@@ -7911,15 +7947,6 @@ list
 </td><td width="50%">
 
 The :attribute field must be a list.
-
-</td></tr>
-<tr><td width="50%">
-
-mac_address
-
-</td><td width="50%">
-
-The :attribute must be a valid MAC address.
 
 </td></tr>
 <tr><td width="50%">
@@ -8073,6 +8100,15 @@ required_if_accepted
 </td><td width="50%">
 
 The :attribute field is required when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+required_if_declined
+
+</td><td width="50%">
+
+The :attribute field is required when :other is declined.
 
 </td></tr>
 <tr><td width="50%">

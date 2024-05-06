@@ -113,6 +113,7 @@
     "required_array_keys": "Ennimiro :attribute erina okubaamu ebiyingiziddwa ku: :values.",
     "required_if": "Ennimiro ya :attribute yeetaagibwa nga :other eri :value.",
     "required_if_accepted": "Ennimiro ya :attribute yeetaagibwa nga :other zikkiriziddwa.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": "Ennimiro ya :attribute yeetaagibwa okuggyako nga :other eri mu :values.",
     "required_with": "Ennimiro ya :attribute yeetaagibwa nga :values ziriwo.",
     "required_with_all": "Ennimiro ya :attribute yeetaagibwa nga :values ziriwo.",

@@ -113,6 +113,7 @@
     "required_array_keys": "Rhaid i’r maes :attribute gynnwys cofnodion ar gyfer: :values.",
     "required_if": "Rhaid cynnwys :attribute pan mae :other yn :value.",
     "required_if_accepted": "Mae angen y maes :attribute pan dderbynnir :other.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": "Y :attribute maes yn ofynnol oni bai bod :other yn :values.",
     "required_with": "Rhaid cynnwys :attribute pan mae :values yn bresennol.",
     "required_with_all": "Rhaid cynnwys :attribute pan mae :values yn bresennol.",

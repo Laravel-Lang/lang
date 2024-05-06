@@ -108,6 +108,7 @@
     "required_array_keys": "ഈ ഫീൽഡിൽ ഇതിനായുള്ള എൻട്രികൾ ഉണ്ടായിരിക്കണം: :values.",
     "required_if": ":other :value ആകുമ്പോൾ ഈ ഫീൽഡ് ആവശ്യമാണ്.",
     "required_if_accepted": ":other അംഗീകരിക്കുമ്പോൾ ഈ ഫീൽഡ് ആവശ്യമാണ്.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": ":valuesൽ :other ഇല്ലെങ്കിൽ ഈ ഫീൽഡ് ആവശ്യമാണ്.",
     "required_with": ":values ഉള്ളപ്പോൾ ഈ ഫീൽഡ് ആവശ്യമാണ്.",
     "required_with_all": ":values എണ്ണം ഉള്ളപ്പോൾ ഈ ഫീൽഡ് ആവശ്യമാണ്.",

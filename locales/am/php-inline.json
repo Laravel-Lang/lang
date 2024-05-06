@@ -108,6 +108,7 @@
     "required_array_keys": "ይህ መስክ ለሚከተሉት ግቤቶችን መያዝ አለበት: :values.",
     "required_if": "ይህ መስክ የሚፈለገው :other :value ሲሆን ነው።",
     "required_if_accepted": ":other ተቀባይነት ሲኖረው ይህ መስክ ያስፈልጋል.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": ":other በ:values ካልሆነ በስተቀር ይህ መስክ ያስፈልጋል።",
     "required_with": ":values ሲገኝ ይህ መስክ ያስፈልጋል።",
     "required_with_all": ":values ሲገኙ ይህ መስክ ያስፈልጋል።",

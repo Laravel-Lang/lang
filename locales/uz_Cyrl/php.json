@@ -113,6 +113,7 @@
     "required_array_keys": ":Attribute maydonida quyidagilar bo'lishi kerak: :values.",
     "required_if": ":Other майдони :value га тенг бўлса, :attribute майдони тўлдирилиши шарт.",
     "required_if_accepted": ":Other qabul qilinganda :attribute maydoni talab qilinadi.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": ":Other майдони :values га тенг бўлмаса, :attribute майдони тўлдирилиши шарт.",
     "required_with": ":Values кўрсатилган бўлса, :attribute майдони тўлдирилиши шарт.",
     "required_with_all": ":Values кўрсатилган бўлса, :attribute майдони тўлдирилиши шарт.",

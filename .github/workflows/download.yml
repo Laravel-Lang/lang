@@ -1,4 +1,4 @@
-name: download
+name: Download Projects
 
 on:
     schedule:
@@ -13,7 +13,7 @@ jobs:
         strategy:
             fail-fast: true
             matrix:
-                version: [ "10.x", "11.x", "master" ]
+                version: [ "11.x", "master" ]
         with:
             project: Laravel Framework ${{ matrix.version }}
             paths: source/framework/${{ matrix.version }}/*
@@ -23,31 +23,13 @@ jobs:
                     --project=framework \
                     --ver=${{ matrix.version }} \
                     --copy=src/Illuminate/Translation/lang
-    
-    lumen:
-        uses: Laravel-Lang/.github/.github/workflows/download.yml@main
-        strategy:
-            fail-fast: true
-            matrix:
-                version: [ "10.x", "master" ]
-        with:
-            project: Lumen Framework ${{ matrix.version }}
-            paths: source/lumen-framework/${{ matrix.version }}/*
-            commands: |
-                vendor/bin/lang download \
-                    --url=https://github.com/laravel/lumen-framework/archive/refs/heads/${{ matrix.version }}.zip \
-                    --project=lumen-framework \
-                    --ver=${{ matrix.version }} \
-                    --copy=lang \
-                    --copy=resources/lang \
-                    --copy=src/Illuminate/Translation/lang
 
     breeze:
         uses: Laravel-Lang/.github/.github/workflows/download.yml@main
         strategy:
             fail-fast: true
             matrix:
-                version: [ "1.x", "2.x", "master" ]
+                version: [ "2.x", "master" ]
         with:
             project: Laravel Breeze ${{ matrix.version }}
             paths: source/breeze/${{ matrix.version }}/*
@@ -62,7 +44,7 @@ jobs:
         strategy:
             fail-fast: true
             matrix:
-                version: [ "13.x", "14.x", "15.x", "master" ]
+                version: [ "15.x", "master" ]
         with:
             project: Laravel Cashier Stripe ${{ matrix.version }}
             paths: source/cashier/stripe/${{ matrix.version }}/*
@@ -92,7 +74,7 @@ jobs:
         strategy:
             fail-fast: true
             matrix:
-                version: [ "2.x", "3.x", "4.x", "5.x", "master" ]
+                version: [ "5.x", "master" ]
         with:
             project: Laravel Jetstream ${{ matrix.version }}
             paths: source/jetstream/${{ matrix.version }}/*

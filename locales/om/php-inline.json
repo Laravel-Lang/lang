@@ -108,6 +108,7 @@
     "required_array_keys": "Dirreen kun galtee: :values qabaachuu qaba.",
     "required_if": "Dirreen kun kan barbaachisu yeroo :other :value ta'udha.",
     "required_if_accepted": "Dirreen kun kan barbaachisu yeroo :other fudhatama argatudha.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "Dirreen kun kan barbaachisu yoo :other :values keessa jiraate malee.",
     "required_with": "Dirreen kun kan barbaachisu yeroo :values jirudha.",
     "required_with_all": "Dirreen kun kan barbaachisu yeroo :values jiranittidha.",

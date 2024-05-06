@@ -108,6 +108,7 @@
     "required_array_keys": "Това поле трябва да съдържа записи за: :values.",
     "required_if": "Това поле е задължително, ако :other е равно на :value.",
     "required_if_accepted": "Това поле е задължително, когато се приеме :other.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "Това поле е задължително, освен ако :other не е в :values.",
     "required_with": "Това поле е задължително, когато има :values.",
     "required_with_all": "Това поле е задължително при наличие на :values.",

@@ -113,6 +113,7 @@
     "required_array_keys": "Inkambu ye-:attribute kufanele iqukathe okufakiwe kwalokhu: :values.",
     "required_if": "Inkambu ye-:attribute iyadingeka uma u-:other engu-:value.",
     "required_if_accepted": "Inkambu engu-:attribute iyadingeka uma ezingu-:other zamukelwe.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": "Inkambu engu-:attribute iyadingeka ngaphandle uma u-:other eku-:values.",
     "required_with": "Inkambu ye-:attribute iyadingeka uma u-:values ekhona.",
     "required_with_all": "Inkambu engu-:attribute iyadingeka uma bekhona abangu-:values.",

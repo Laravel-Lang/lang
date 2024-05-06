@@ -70,11 +70,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-list
+required_if_declined
 
 </td><td width="50%">
 
-This field must be a list.
+This field is required when :other is declined.
 
 </td></tr>
 </table>
@@ -99,11 +99,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-list
+required_if_declined
 
 </td><td width="50%">
 
-The :attribute field must be a list.
+The :attribute field is required when :other is declined.
 
 </td></tr>
 </table>

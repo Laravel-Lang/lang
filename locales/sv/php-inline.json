@@ -108,6 +108,7 @@
     "required_array_keys": "Detta fält måste innehålla poster för: :values.",
     "required_if": "Detta fält krävs när :other är :value.",
     "required_if_accepted": "Detta fält är obligatoriskt när :other accepteras.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "Detta fält krävs om inte :other är i :values.",
     "required_with": "Detta fält krävs när :values är närvarande.",
     "required_with_all": "Detta fält krävs när :values är närvarande.",

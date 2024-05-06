@@ -113,6 +113,7 @@
     "required_array_keys": "Ele be nyawo nanɔ :attribute ƒe akpaa dzi na: :values.",
     "required_if": "Wobiaa agble :attribute la ne :other nye :value.",
     "required_if_accepted": "Wobiaa agble :attribute la ne woxɔ :other.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": "Wobia be woawɔ :attribute ƒe agblea negbe ɖe :other le :values me hafi.",
     "required_with": "Wobiaa agble :attribute la ne :values le afima.",
     "required_with_all": "Wobiaa agble :attribute la ne :values le afima.",

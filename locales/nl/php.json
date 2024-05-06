@@ -113,6 +113,7 @@
     "required_array_keys": ":Attribute moet waardes bevatten voor :values.",
     "required_if": ":Attribute is verplicht indien :other gelijk is aan :value.",
     "required_if_accepted": ":Attribute is verplicht indien :other is geaccepteerd.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": ":Attribute is verplicht tenzij :other gelijk is aan :values.",
     "required_with": ":Attribute is verplicht in combinatie met :values.",
     "required_with_all": ":Attribute is verplicht in combinatie met :values.",

@@ -1,8 +1,8 @@
-name: translate
+name: Machine Translation
 
 on:
-    schedule:
-        -   cron: 27 1 * * *
+    #schedule:
+    #    -   cron: 27 1 * * *
     workflow_dispatch:
 
 permissions: write-all

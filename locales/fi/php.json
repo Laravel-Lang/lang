@@ -113,6 +113,7 @@
     "required_array_keys": ":Attribute-kentässä on oltava merkinnät: :values.",
     "required_if": "Kenttä :attribute vaaditaan kun :other on :value.",
     "required_if_accepted": ":Attribute-kenttä on pakollinen, kun :other hyväksytään.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": "Kenttä :attribute vaaditaan jos :other ei sisälly arvoihin :values.",
     "required_with": "Kenttä :attribute vaaditaan kun arvo :values on annettu.",
     "required_with_all": "Kenttä :attribute vaaditaan kun arvo :values on annettu.",

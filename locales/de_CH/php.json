@@ -113,6 +113,7 @@
     "required_array_keys": "Das Feld :attribute muss Einträge enthalten für: :values.",
     "required_if": ":Attribute muss ausgefüllt sein, wenn :other :value ist.",
     "required_if_accepted": "Das Feld :attribute ist erforderlich, wenn :other akzeptiert wird.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": ":Attribute muss ausgefüllt sein, wenn :other nicht :values ist.",
     "required_with": ":Attribute muss angegeben werden, wenn :values ausgefüllt wurde.",
     "required_with_all": ":Attribute muss angegeben werden, wenn :values ausgefüllt wurde.",

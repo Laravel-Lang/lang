@@ -4,7 +4,7 @@ editLink: false
 
 # uz_Latn
 
-##### All missed: 402
+##### All missed: 403
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 335
+##### Missing: 338
 
 <table width="100%">
 <tr><th width="50%">
@@ -182,7 +182,7 @@ Value
 
 </td><td width="50%">
 
-(and :count more errors)
+(and :count more error)|(and :count more errors)|(and :count more errors)
 
 </td></tr>
 <tr><td width="50%">
@@ -997,6 +997,15 @@ Error
 </td></tr>
 <tr><td width="50%">
 
+errors
+
+</td><td width="50%">
+
+errors
+
+</td></tr>
+<tr><td width="50%">
+
 Ethiopia
 
 </td><td width="50%">
@@ -1326,6 +1335,15 @@ Loading
 </td><td width="50%">
 
 Loading
+
+</td></tr>
+<tr><td width="50%">
+
+Location
+
+</td><td width="50%">
+
+Location
 
 </td></tr>
 <tr><td width="50%">
@@ -2581,6 +2599,15 @@ This account does not have an active subscription.
 </td></tr>
 <tr><td width="50%">
 
+This action is unauthorized.
+
+</td><td width="50%">
+
+This action is unauthorized.
+
+</td></tr>
+<tr><td width="50%">
+
 This copy of Nova is unlicensed.
 
 </td><td width="50%">
@@ -3190,7 +3217,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 31
+##### Missing: 32
 
 <table width="100%">
 <tr><th width="50%">
@@ -3465,6 +3492,15 @@ This field is required when :other is accepted.
 </td></tr>
 <tr><td width="50%">
 
+required_if_declined
+
+</td><td width="50%">
+
+This field is required when :other is declined.
+
+</td></tr>
+<tr><td width="50%">
+
 ulid
 
 </td><td width="50%">
@@ -3489,7 +3525,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 22
+##### Missing: 19
 
 <table width="100%">
 <tr><th width="50%">
@@ -3501,15 +3537,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-accepted_if
-
-</td><td width="50%">
-
-The :attribute must be accepted when :other is :value.
-
-</td></tr>
 <tr><td width="50%">
 
 can
@@ -3526,24 +3553,6 @@ current_password
 </td><td width="50%">
 
 The password is incorrect.
-
-</td></tr>
-<tr><td width="50%">
-
-declined
-
-</td><td width="50%">
-
-The :attribute must be declined.
-
-</td></tr>
-<tr><td width="50%">
-
-declined_if
-
-</td><td width="50%">
-
-The :attribute must be declined when :other is :value.
 
 </td></tr>
 <tr><td width="50%">
@@ -3571,15 +3580,6 @@ list
 </td><td width="50%">
 
 The :attribute field must be a list.
-
-</td></tr>
-<tr><td width="50%">
-
-mac_address
-
-</td><td width="50%">
-
-The :attribute must be a valid MAC address.
 
 </td></tr>
 <tr><td width="50%">
@@ -3697,6 +3697,15 @@ required_if_accepted
 </td><td width="50%">
 
 The :attribute field is required when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+required_if_declined
+
+</td><td width="50%">
+
+The :attribute field is required when :other is declined.
 
 </td></tr>
 </table>

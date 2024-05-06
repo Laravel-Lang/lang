@@ -113,6 +113,7 @@
     "required_array_keys": "Ummandla we-:attribute kufuneka ube namangenelo: :values.",
     "required_if": "Intsimi ye-:attribute iyafuneka xa i-:other ingama-:value.",
     "required_if_accepted": "Intsimi ye-:attribute iyafuneka xa i-:other yamkelwe.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": "Intsimi ye-:attribute iyafuneka ngaphandle kokuba i-:other ikwi-:values.",
     "required_with": "Intsimi ye-:attribute iyadingeka xa i-:values ikhona.",
     "required_with_all": "Intsimi ye-:attribute iyadingeka xa i-:values ikhona.",

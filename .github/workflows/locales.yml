@@ -1,0 +1,12 @@
+name: Add Locales
+
+on:
+    schedule:
+        -   cron: 29 1 * * *
+    workflow_dispatch:
+
+permissions: write-all
+
+jobs:
+    missing:
+        uses: Laravel-Lang/.github/.github/workflows/locales.yml@main

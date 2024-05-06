@@ -113,6 +113,7 @@
     "required_array_keys": ":attribute талаасында төмөнкү жазуулар болушу керек: :values.",
     "required_if": ":other :value болгондо :attribute талаасы талап кылынат.",
     "required_if_accepted": ":other кабыл алынганда :attribute талаасы талап кылынат.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": ":valuesда :other болбосо, :attribute талаасы талап кылынат.",
     "required_with": ":values бар болгондо :attribute талаасы талап кылынат.",
     "required_with_all": ":values бар болгондо :attribute талаасы талап кылынат.",

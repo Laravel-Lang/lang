@@ -113,6 +113,7 @@
     "required_array_keys": ":attributeka goobood waa in ay ka kooban yihiin qoraalo loogu talagalay: :values.",
     "required_if": ":attributeka garoon ayaa loo baahan yahay marka :other ay tahay :value.",
     "required_if_accepted": ":attribute ka garoonka ayaa loo baahan yahay marka :other la aqbalo.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": ":attributeka garoon ayaa loo baahan yahay ilaa :other ay ku jiraan :values.",
     "required_with": ":attributeka garoonka ayaa loo baahan yahay marka :values ay joogaan.",
     "required_with_all": ":attributeka garoonka ayaa loo baahan yahay marka :values ay joogaan.",

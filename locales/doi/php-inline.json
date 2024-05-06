@@ -108,6 +108,7 @@
     "required_array_keys": "इस फील्ड च: :values आस्तै प्रविश्टियां होनी चाहिदी।",
     "required_if": "इस फील्ड दी लोड़ उसलै होंदी ऐ जिसलै :other :value होंदे न।",
     "required_if_accepted": "इस फील्ड दी लोड़ उसलै होंदी ऐ जिसलै :other स्वीकार कीते जंदे न।",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "इस फील्ड दी लोड़ ऐ जदूं तकर :other :values च नेईं ऐ।",
     "required_with": "इस फील्ड दी लोड़ उसलै होंदी ऐ जिसलै :values मौजूद होंदे न।",
     "required_with_all": "इस फील्ड दी लोड़ उसलै होंदी ऐ जिसलै :values मौजूद होंदे न।",

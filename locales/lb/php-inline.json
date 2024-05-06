@@ -108,6 +108,7 @@
     "required_array_keys": "Dëst Feld muss Entréen enthalen fir: :values.",
     "required_if": "Dëst Feld ass erfuerderlech wann :other :value ass.",
     "required_if_accepted": "Dëst Feld ass erfuerderlech wann :other ugeholl gëtt.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "Dëst Feld ass erfuerderlech ausser :other ass an :values.",
     "required_with": "Dëst Feld ass néideg wann :values präsent ass.",
     "required_with_all": "Dëst Feld ass néideg wann :values präsent sinn.",

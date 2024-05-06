@@ -108,6 +108,7 @@
     "required_array_keys": "ꯐꯤꯜꯗ ꯑꯁꯤꯗꯥ ꯑꯦꯟꯠꯔꯤꯁꯤꯡ ꯌꯥꯑꯣꯒꯗꯕꯅꯤ: ꯱꯰.",
     "required_if": "꯱꯰ꯅꯥ ꯲꯰ ꯑꯣꯏꯕꯥ ꯃꯇꯃꯗꯥ ꯐꯤꯜꯗ ꯑꯁꯤ ꯃꯊꯧ ꯇꯥꯏ꯫",
     "required_if_accepted": "꯱꯰ ꯌꯥꯑꯣꯕꯥ ꯃꯇꯃꯗꯥ ꯂꯝ ꯑꯁꯤ ꯃꯊꯧ ꯇꯥꯏ꯫",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "꯱꯰ꯅꯥ ꯲꯰ꯗꯥ ꯂꯩꯠꯔꯕꯗꯤ ꯂꯝ ꯑꯁꯤ ꯃꯊꯧ ꯇꯥꯏ꯫",
     "required_with": "꯱꯰ ꯂꯩꯕꯥ ꯃꯇꯃꯗꯥ ꯂꯝ ꯑꯁꯤ ꯃꯊꯧ ꯇꯥꯏ꯫",
     "required_with_all": "꯱꯰ ꯂꯩꯕꯥ ꯃꯇꯃꯗꯥ ꯂꯝ ꯑꯁꯤ ꯃꯊꯧ ꯇꯥꯏ꯫",

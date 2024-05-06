@@ -108,6 +108,7 @@
     "required_array_keys": "ଏହି କ୍ଷେତ୍ର ନିଶ୍ଚିତ ଭାବରେ: :values ପାଇଁ ପ୍ରବିଷ୍ଟ ଧାରଣ କରିବ |",
     "required_if": ":other ଟି :value ଥିବାବେଳେ ଏହି କ୍ଷେତ୍ର ଆବଶ୍ୟକ |",
     "required_if_accepted": ":other ଟି ଗ୍ରହଣ କରାଯିବାବେଳେ ଏହି କ୍ଷେତ୍ର ଆବଶ୍ୟକ |",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": ":other ଟି :values ରେ ନଥିଲେ ଏହି କ୍ଷେତ୍ର ଆବଶ୍ୟକ |",
     "required_with": ":values ଟି ଉପସ୍ଥିତ ଥିବାବେଳେ ଏହି କ୍ଷେତ୍ର ଆବଶ୍ୟକ |",
     "required_with_all": ":values ଟି ଉପସ୍ଥିତ ଥିବାବେଳେ ଏହି କ୍ଷେତ୍ର ଆବଶ୍ୟକ |",

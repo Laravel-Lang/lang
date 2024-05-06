@@ -113,6 +113,7 @@
     "required_array_keys": "Ang :attribute field ay dapat maglaman ng mga entry para sa: :values.",
     "required_if": "Ang :attribute ng attribute ay kailangan kapag :other iba ay :value.",
     "required_if_accepted": "Ang :attribute field ay kinakailangan kapag :other ay tinanggap.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": "Ang :attribute ng attribute ay kailangan maliban kung :other iba ay nasa :values.",
     "required_with": "Ang :attribute ng attribute ay kailangan kapag :values balyu ang naroon.",
     "required_with_all": "Ang :attribute ng attribute ay kailangan kapag :values balyu ang naroon.",

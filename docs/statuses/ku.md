@@ -4,12 +4,12 @@ editLink: false
 
 # ku
 
-##### All missed: 76
+##### All missed: 80
 
 
 ### json
 
-##### Missing: 76
+##### Missing: 78
 
 <table width="100%">
 <tr><th width="50%">
@@ -172,6 +172,24 @@ Email
 </td><td width="50%">
 
 Email
+
+</td></tr>
+<tr><td width="50%">
+
+email
+
+</td><td width="50%">
+
+email
+
+</td></tr>
+<tr><td width="50%">
+
+errors
+
+</td><td width="50%">
+
+errors
 
 </td></tr>
 <tr><td width="50%">
@@ -703,6 +721,64 @@ Yemen
 </td><td width="50%">
 
 Yemen
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php-inline
+
+##### Missing: 1
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+required_if_declined
+
+</td><td width="50%">
+
+This field is required when :other is declined.
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php
+
+##### Missing: 1
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+required_if_declined
+
+</td><td width="50%">
+
+The :attribute field is required when :other is declined.
 
 </td></tr>
 </table>

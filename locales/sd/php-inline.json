@@ -108,6 +108,7 @@
     "required_array_keys": "ھن فيلڊ ۾ داخل ٿيڻ گھرجي: :values.",
     "required_if": "ھي فيلڊ گھربل آھي جڏھن :other آھي :value.",
     "required_if_accepted": "ھي فيلڊ گھربل آھي جڏھن :other قبول ڪيو وڃي.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "هي فيلڊ گهربل آهي جيستائين :other :values ۾ نه آهي.",
     "required_with": "ھي فيلڊ گھربل آھي جڏھن :values موجود آھي.",
     "required_with_all": "ھي فيلڊ گھربل آھي جڏھن :values موجود آھن.",

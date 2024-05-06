@@ -108,6 +108,7 @@
     "required_array_keys": "Ebben a mezőben a következő bejegyzéseket kell tartalmaznia: :values.",
     "required_if": "Erre a mezőre akkor van szükség, ha a(z) :other értéke :value.",
     "required_if_accepted": "Ezt a mezőt kötelező kitölteni, ha a :other-at elfogadják.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "Erre a mezőre csak akkor van szükség, ha a :other :values-ban van.",
     "required_with": "Ez a mező akkor szükséges, ha :values van jelen.",
     "required_with_all": "Ez a mező akkor szükséges, ha :values van jelen.",

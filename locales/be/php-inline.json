@@ -108,6 +108,7 @@
     "required_array_keys": "Гэта поле павінна змяшчаць запісы для: :values.",
     "required_if": "Гэта поле абавязкова, калі :other роўна :value.",
     "required_if_accepted": "Гэта поле абавязковае, калі прымаецца :other.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "Гэта поле з'яўляецца абавязковым, калі толькі :other не знаходзіцца ў :values годзе.",
     "required_with": "Гэта поле з'яўляецца абавязковым пры наяўнасці :values.",
     "required_with_all": "Гэта поле абавязкова пры наяўнасці :values.",

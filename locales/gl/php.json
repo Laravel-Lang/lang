@@ -113,6 +113,7 @@
     "required_array_keys": "O eido :attribute debe conter entradas para: :values.",
     "required_if": "O eido :attribute é requirido cando :other é :value.",
     "required_if_accepted": "O campo :attribute é obrigatorio cando se acepta :other.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": "O eido :attribute é requirido a non ser que :other sexa :values.",
     "required_with": "O eido :attribute é requirido cando :values está presente.",
     "required_with_all": "O eido :attribute é requirido cando :values están presentes.",

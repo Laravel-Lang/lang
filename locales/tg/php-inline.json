@@ -108,6 +108,7 @@
     "required_array_keys": "Дар ин майдон бояд сабтҳо барои: :values бошад.",
     "required_if": "Ин майдон ҳатмист, агар :other баробар :value.",
     "required_if_accepted": "Ин майдон ҳангоми қабули :other талаб карда мешавад.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "Ин майдон ҳатмист, агар танҳо дар соли :other аст, дар :values сол.",
     "required_with": "Ин майдон ҳатмист ва ҳангоми мавҷуд будани :values.",
     "required_with_all": "Ин майдон ҳатмист ва ҳангоми мавҷуд будани :values.",

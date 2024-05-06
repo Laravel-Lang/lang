@@ -108,6 +108,7 @@
     "required_array_keys": "Kini nga field kinahanglan adunay mga entry para sa: :values.",
     "required_if": "Kinahanglan kini nga field kung ang :other kay :value.",
     "required_if_accepted": "Kini nga field gikinahanglan kung :other ang gidawat.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "Kinahanglan kini nga field gawas kung :other ang naa sa :values.",
     "required_with": "Kinahanglan kini nga field kung naa ang :values.",
     "required_with_all": "Kinahanglan kini nga field kung adunay :values.",

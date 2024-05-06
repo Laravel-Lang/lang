@@ -108,6 +108,7 @@
     "required_array_keys": "Aaye yii gbọdọ ni awọn titẹ sii fun: :values.",
     "required_if": "Aaye yii nilo nigbati :other jẹ :value.",
     "required_if_accepted": "Aaye yii nilo nigbati :other gba.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "Aaye yii nilo ayafi ti :other wa ni :values.",
     "required_with": "Aaye yii nilo nigbati :values wa.",
     "required_with_all": "Aaye yii nilo nigbati :values wa.",

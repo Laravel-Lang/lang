@@ -1,0 +1,23 @@
+name: Documentation
+
+on:
+    push:
+        branches:
+            - main
+
+permissions: write-all
+
+jobs:
+    update:
+        runs-on: ubuntu-latest
+
+        steps:
+            -   name: Checkout code
+                uses: actions/checkout@v4
+
+            -   name: Generate docs trigger
+                uses: myrotvorets/trigger-repository-dispatch-action@v2.0.2
+                with:
+                    token: ${{ secrets.COMPOSER_TOKEN }}
+                    repo: Laravel-Lang/docs
+                    type: docs

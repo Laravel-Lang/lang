@@ -113,6 +113,7 @@
     "required_array_keys": ":attribute ఫీల్డ్ తప్పనిసరిగా దీని కోసం ఎంట్రీలను కలిగి ఉండాలి: :values.",
     "required_if": ":other :value అయినప్పుడు :attribute ఫీల్డ్ అవసరం.",
     "required_if_accepted": ":other ఆమోదించబడినప్పుడు :attribute ఫీల్డ్ అవసరం.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": ":valuesలో :other ఉంటే తప్ప :attribute ఫీల్డ్ అవసరం.",
     "required_with": ":values ఉన్నప్పుడు :attribute ఫీల్డ్ అవసరం.",
     "required_with_all": ":values ఉన్నప్పుడు :attribute ఫీల్డ్ అవసరం.",

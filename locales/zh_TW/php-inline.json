@@ -108,6 +108,7 @@
     "required_array_keys": "必須至少包含一個鍵：:values.",
     "required_if": "當 :other 是 :value 時不能留空。",
     "required_if_accepted": "當 :other 被接受時不能留空",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "當 :other 不是 :values 時不能留空。",
     "required_with": "當 :values 出現時不能留空。",
     "required_with_all": "當 :values 出現時不能為空。",

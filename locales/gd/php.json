@@ -113,6 +113,7 @@
     "required_array_keys": "Feumaidh inntrigidhean a bhith anns an raon :attribute airson: :values.",
     "required_if": "Tha feum air an raon :attribute nuair a tha :other aig :value.",
     "required_if_accepted": "Tha feum air an raon :attribute nuair a thèid gabhail ri :other.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": "Tha feum air an raon :attribute mura h-eil :other ann an :values.",
     "required_with": "Tha feum air an raon :attribute nuair a tha :values an làthair.",
     "required_with_all": "Tha feum air an raon :attribute nuair a tha :values an làthair.",

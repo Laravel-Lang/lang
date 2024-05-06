@@ -108,6 +108,7 @@
     "required_array_keys": "Dieses Feld muss Einträge enthalten für: :values.",
     "required_if": "Dieses Feld muss ausgefüllt werden, wenn :other den Wert :value hat.",
     "required_if_accepted": "Dieses Feld muss ausgefüllt werden, wenn :other gewählt ist.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "Dieses Feld muss ausgefüllt werden, wenn :other nicht den Wert :values hat.",
     "required_with": "Dieses Feld muss ausgefüllt werden, wenn :values ausgefüllt wurde.",
     "required_with_all": "Dieses Feld muss ausgefüllt werden, wenn :values ausgefüllt wurde.",

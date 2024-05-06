@@ -108,6 +108,7 @@
     "required_array_keys": "ეს ველი უნდა შეიცავდეს ჩანაწერებს: :values.",
     "required_if": "ეს ველი არის საჭირო, როდესაც :other არის :value.",
     "required_if_accepted": "ეს ველი აუცილებელია, როცა :other მიიღება.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "ეს ველი არ არის საჭირო, თუ :other არის :values.",
     "required_with": "ეს ველი არის საჭირო, როდესაც :values იმყოფება.",
     "required_with_all": "ეს ველი არის საჭირო, როდესაც :values იმყოფებიან.",

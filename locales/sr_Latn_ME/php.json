@@ -113,6 +113,7 @@
     "required_array_keys": "The :attribute field must contain entries for: :values.",
     "required_if": "Morate da popunite polje :attribute jer polje :other sadrži :value.",
     "required_if_accepted": "The :attribute field is required when :other is accepted.",
+    "required_if_declined": "The :attribute field is required when :other is declined.",
     "required_unless": "Morate da popunite polje :attribute, osim ako je :other sadržan u :values.",
     "required_with": "Morate da popunite polje :attribute sa poljima :values.",
     "required_with_all": "Morate da popunite polje :attribute sa poljima :values.",

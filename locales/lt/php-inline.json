@@ -108,6 +108,7 @@
     "required_array_keys": "Šiame lauke turi būti įrašai: :values.",
     "required_if": "Privaloma užpildyti šį lauką, kai :other yra :value.",
     "required_if_accepted": "Šis laukas būtinas, kai priimamas :other.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "Šis laukas yra privalomas, nebent :other yra tarp :values reikšmių.",
     "required_with": "Privaloma užpildyti šį lauką, kai pateikta :values.",
     "required_with_all": "Privaloma užpildyti šį lauką, kai pateikta :values.",

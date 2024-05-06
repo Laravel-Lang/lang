@@ -108,6 +108,7 @@
     "required_array_keys": "Isian ini wajib berisi entri untuk: :values",
     "required_if": "Isian ini wajib diisi bila :other adalah :value.",
     "required_if_accepted": "Isian ini wajib diisibila :other sesuai.",
+    "required_if_declined": "This field is required when :other is declined.",
     "required_unless": "Isian ini wajib diisi jika :other berada dalam :values.",
     "required_with": "Isian ini wajib diisi bila :values tersedia.",
     "required_with_all": "Isian ini wajib diisi bila :values tersedia.",

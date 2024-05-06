@@ -12,5 +12,5 @@
     "The :attribute must contain at least one number.": "To pole musi zawierać co najmniej jedną cyfrę.",
     "The :attribute must contain at least one symbol.": "To pole musi zawierać co najmniej jeden znak specjalny.",
     "The :attribute must contain at least one uppercase and one lowercase letter.": "To pole musi zawierać co najmniej jedną wielką i jedną małą literę.",
-    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Podane pole pojawiło się w wycieku danych. Wybierz inną wartość pola."
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Podane pole :attribute pojawiło się w wycieku danych. Wybierz inną wartość pola :attribute."
 }

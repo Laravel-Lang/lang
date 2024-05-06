@@ -92,7 +92,7 @@
     "password.mixed": "To pole musi zawierać co najmniej jedną wielką i jedną małą literę.",
     "password.numbers": "To pole musi zawierać co najmniej jedną cyfrę.",
     "password.symbols": "To pole musi zawierać przynajmniej jeden symbol.",
-    "password.uncompromised": "Pole :attribute pojawiło się w wycieku danych. Należy wybrać inną wartość.",
+    "password.uncompromised": "Pole pojawiło się w wycieku danych. Należy wybrać inną wartość.",
     "present": "Pole musi być obecne.",
     "present_if": "Pole musi być obecne jeżeli :other ma wartość :value.",
     "present_unless": "Pole musi być obecne, chyba że :other ma wartość :value.",

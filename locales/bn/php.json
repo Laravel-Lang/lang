@@ -113,7 +113,7 @@
     "required_array_keys": ":Attribute ফিল্ডে অবশ্যই :values এর জন্য এন্ট্রি থাকতে হবে।",
     "required_if": ":Attribute স্থানটি পূরণ করা বাধ্যতামূলক যেখানে :other হল :value।",
     "required_if_accepted": ":Attribute ক্ষেত্রটি প্রয়োজন হয় যখন :other গৃহীত হয়।",
-    "required_if_declined": "The :attribute field is required when :other is declined.",
+    "required_if_declined": ":Attribute ক্ষেত্রটি প্রয়োজন হয় যখন :other প্রত্যাখ্যান করা হয়।",
     "required_unless": ":Attribute স্থানটি পূরণ করা বাধ্যতামূলক যদি না :other, :values তে উপস্থিত থাকে।",
     "required_with": ":Attribute স্থানটি পূরণ করা বাধ্যতামূলক যখন  :values উপস্থিত।",
     "required_with_all": ":Attribute স্থানটি পূরণ করা বাধ্যতামূলক যখন :values উপস্থিত।",

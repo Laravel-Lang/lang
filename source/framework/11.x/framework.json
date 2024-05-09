@@ -1,5 +1,6 @@
 {
     "All rights reserved.": "All rights reserved.",
+    "content-disposition', ": "content-disposition', ",
     "errors": "errors",
     "Forbidden": "Forbidden",
     "Go to page :page": "Go to page :page",
@@ -8,6 +9,7 @@
     "If you did not request a password reset, no further action is required.": "If you did not request a password reset, no further action is required.",
     "Invalid JSON was returned from the route.": "Invalid JSON was returned from the route.",
     "Location": "Location",
+    "Location', ": "Location', ",
     "Login": "Login",
     "Logout": "Logout",
     "Not Found": "Not Found",

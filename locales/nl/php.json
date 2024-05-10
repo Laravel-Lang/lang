@@ -19,7 +19,7 @@
     "boolean": ":Attribute moet ja of nee zijn.",
     "can": ":Attribute bevat een waarde waar je niet bevoegd voor bent.",
     "confirmed": "Bevestiging van :attribute komt niet overeen.",
-    "contains": "The :attribute field is missing a required value.",
+    "contains": ":Attribute mist een vereiste waarde.",
     "current_password": "Huidig wachtwoord is onjuist.",
     "date": ":Attribute moet een datum bevatten.",
     "date_equals": ":Attribute moet een datum gelijk aan :date zijn.",

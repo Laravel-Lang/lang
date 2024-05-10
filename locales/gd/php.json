@@ -19,6 +19,7 @@
     "boolean": "Feumaidh an raon :attribute a bhith fìor no ceàrr.",
     "can": "Tha luach neo-ùghdarraichte anns an raon :attribute.",
     "confirmed": "Chan eil an dearbhadh :attribute a’ freagairt.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Tha am facal-faire ceàrr.",
     "date": "Chan e ceann-latha dligheach a th’ anns an :attribute.",
     "date_equals": "Feumaidh an :attribute a bhith na cheann-latha co-ionann ri :date.",

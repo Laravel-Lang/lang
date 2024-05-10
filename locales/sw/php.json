@@ -19,6 +19,7 @@
     "boolean": "Sehemu ya kipengele lazima iwe kweli au si kweli.",
     "can": "Sehemu ya :attribute ina thamani isiyoidhinishwa.",
     "confirmed": "Uthibitisho wa kipengele haulingani.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Nenosiri si sahihi.",
     "date": "Kipengele si tarehe halali.",
     "date_equals": ":Attribute inapaswa kuwa tarehe sawa na :date.",

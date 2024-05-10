@@ -19,6 +19,7 @@
     "boolean": "Hierdie veld moet waar of onwaar wees.",
     "can": "Hierdie veld bevat 'n ongemagtigde waarde.",
     "confirmed": "Die bevestiging stem nie ooreen nie.",
+    "contains": "This field is missing a required value.",
     "date": "Dit is nie 'n geldige datum nie.",
     "date_equals": "Dit moet 'n datum wees wat gelyk is aan :date.",
     "date_format": "Dit stem nie ooreen met die :format formaat nie.",

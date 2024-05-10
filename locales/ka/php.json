@@ -19,6 +19,7 @@
     "boolean": ":Attribute ველი უნდა იყოს true ან false.",
     "can": ":Attribute ველი შეიცავს არაავტორიზებულ მნიშვნელობას.",
     "confirmed": ":Attribute-ის დადასტურება არ ემთხვევა.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "ველი :attribute შეიცავს არასწორ პაროლს.",
     "date": ":Attribute შეიცავს თარიღის არასწორ ფორმატს.",
     "date_equals": ":Attribute უნდა იყოს :date-ის ტოლი თარიღი.",

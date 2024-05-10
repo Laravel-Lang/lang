@@ -19,6 +19,7 @@
     "boolean": "အကွက် :attribute သည် မှန်သည်ဖြစ်စေ မှားနေရပါမည်။",
     "can": "အကွက် :attribute တွင် ခွင့်ပြုချက်မရှိဘဲ တန်ဖိုးတစ်ခုပါရှိသည်။",
     "confirmed": "အတည်ပြုချက် ၁၀ ချက်နှင့် မကိုက်ညီပါ။",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "စကားဝှက် မမှန်ပါ။",
     "date": ":attribute သည် တရားဝင်ရက်စွဲမဟုတ်ပါ။",
     "date_equals": ":attribute သည် :date နှင့် ညီမျှသော ရက်စွဲဖြစ်ရမည်။",

@@ -19,6 +19,7 @@
     "boolean": ":Attribute талбарын утга үнэн эсвэл худал байх шаардлагатай.",
     "can": ":Attribute талбарт зөвшөөрөлгүй утгыг агуулж байна.",
     "confirmed": ":Attribute талбарын баталагажуулалт тохирохгүй байна.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Нууц үг буруу байна.",
     "date": ":Attribute талбарт оруулсан огноо буруу байна.",
     "date_equals": ":Attribute нь :date онтой тэнцүү байх естой.",

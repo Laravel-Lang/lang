@@ -19,6 +19,7 @@
     "boolean": "Ruangan ini mesti benar atau salah.",
     "can": "Medan ini mengandungi nilai yang tidak dibenarkan.",
     "confirmed": "Pengesahan yang tidak sepadan.",
+    "contains": "This field is missing a required value.",
     "date": "Tarikh ini tidak sah.",
     "date_equals": "Tarikh mesti sama dengan :date.",
     "date_format": "Format tarikh tidak sepadan dengan :format.",

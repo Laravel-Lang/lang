@@ -19,6 +19,7 @@
     "boolean": ":Attribute muss entweder 'true' oder 'false' sein.",
     "can": "Das Feld :attribute enthält einen nicht autorisierten Wert.",
     "confirmed": ":Attribute stimmt nicht mit der Bestätigung überein.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Das Passwort ist falsch.",
     "date": ":Attribute muss ein gültiges Datum sein.",
     "date_equals": ":Attribute muss ein Datum gleich :date sein.",

@@ -19,6 +19,7 @@
     "boolean": "Ibala le-:attribute kufuneka libe yinyani okanye bubuxoki.",
     "can": "Intsimi ye-:attribute iqulethe ixabiso elingagunyaziswanga.",
     "confirmed": "Ukuqinisekiswa kwe-:attribute akuhambelani.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Igama lokugqitha alichanekanga.",
     "date": "I-:attribute ayingomhla osemthethweni.",
     "date_equals": "I-:attribute kufuneka ibe ngumhla olingana nama-:date.",

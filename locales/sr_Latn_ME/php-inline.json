@@ -19,6 +19,7 @@
     "boolean": "Ово поље мора бити истинито или лажно.",
     "can": "This field contains an unauthorized value.",
     "confirmed": "Потврда није иста.",
+    "contains": "This field is missing a required value.",
     "date": "То није валидан Датум.",
     "date_equals": "То би требао бити датум једнак :date.",
     "date_format": "То не одговара формату :format.",

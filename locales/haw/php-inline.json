@@ -19,6 +19,7 @@
     "boolean": "Pono a pololei paha kēia kahua.",
     "can": "Loaʻa i kēia kahua kahi waiwai ʻae ʻole.",
     "confirmed": "ʻAʻole kūlike kēia hōʻoia kahua.",
+    "contains": "This field is missing a required value.",
     "date": "ʻAʻole kēia kahua he lā kūpono.",
     "date_equals": "Pono kēia kahua i ka lā like me :date.",
     "date_format": "ʻAʻole kūpono kēia kahua me ka hōʻano :format.",

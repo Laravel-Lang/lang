@@ -19,6 +19,7 @@
     "boolean": "ეს ველი უნდა იყოს ჭეშმარიტი ან ცრუ.",
     "can": "ეს ველი შეიცავს არაავტორიზებულ მნიშვნელობას.",
     "confirmed": "დადასტურება არ ემთხვევა.",
+    "contains": "This field is missing a required value.",
     "date": "ეს არ არის სწორი თარიღი.",
     "date_equals": "ეს უნდა იყოს თარიღი ტოლია :date.",
     "date_format": "ეს არ ემთხვევა ფორმატი :format.",

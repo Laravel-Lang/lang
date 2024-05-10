@@ -19,6 +19,7 @@
     "boolean": ":attribute መስክ እውነት ወይም ሐሰት መሆን አለበት።",
     "can": ":attribute መስክ ያልተፈቀደ እሴት ይዟል።",
     "confirmed": ":attribute ማረጋገጫው አይዛመድም።",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "የይለፍ ቃሉ የተሳሳተ ነው።",
     "date": ":attributeቱ ትክክለኛ ቀን አይደሉም።",
     "date_equals": ":attributeቱ ከ:date ጋር እኩል የሆነ ቀን መሆን አለባቸው።",

@@ -19,6 +19,7 @@
     "boolean": "مەیدانی ١٠ دەبێت ڕاست بێت یان درۆ.",
     "can": "مەیدانی :attribute بەهایەکی بێ مۆڵەتی تێدایە.",
     "confirmed": "پشتڕاستکردنەوەی ١٠ یەک ناگرێتەوە.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "وشەی نهێنی هەڵەیە.",
     "date": "ئەو ١٠ ڕۆژە بەروارێکی دروست نییە.",
     "date_equals": "١٠ دەبێت بەروارێک بێت کە یەکسان بێت بە ٢٠.",

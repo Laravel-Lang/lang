@@ -19,6 +19,7 @@
     "boolean": "Ennimiro :attribute erina okuba nga ntuufu oba ya bulimba.",
     "can": "Ennimiro :attribute erimu omuwendo ogutakkirizibwa.",
     "confirmed": "Okukakasa :attribute tekukwatagana.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Ekigambo ky'okuyingira si kituufu.",
     "date": ":attribute si lunaku lutuufu.",
     "date_equals": ":attribute zirina okuba olunaku olwenkana :date.",

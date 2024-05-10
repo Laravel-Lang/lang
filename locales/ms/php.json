@@ -19,6 +19,7 @@
     "boolean": ":Attribute mesti benar atau salah.",
     "can": "Medan :attribute mengandungi nilai yang tidak dibenarkan.",
     "confirmed": ":Attribute pengesahan yang tidak sepadan.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Katalaluan anda adalah salah.",
     "date": ":Attribute bukan tarikh yang sah.",
     "date_equals": ":Attribute mesti tarikh sama dengan :date.",

@@ -19,6 +19,7 @@
     "boolean": "Uyu murima ugomba kuba ukuri cyangwa ibinyoma.",
     "can": "Uyu murima urimo agaciro katemewe.",
     "confirmed": "Uyu murima wemeza ntabwo uhuye.",
+    "contains": "This field is missing a required value.",
     "date": "Uyu murima ntabwo ari itariki yemewe.",
     "date_equals": "Uyu murima ugomba kuba itariki ingana na :date.",
     "date_format": "Uyu murima ntabwo uhuye nimiterere :format.",

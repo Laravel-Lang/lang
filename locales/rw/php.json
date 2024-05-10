@@ -19,6 +19,7 @@
     "boolean": "Umwanya :attribute ugomba kuba ukuri cyangwa ibinyoma.",
     "can": "Umwanya :attribute urimo agaciro katemewe.",
     "confirmed": "Kwemeza :attribute ntabwo bihuye.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Ijambobanga ntabwo ari ryo.",
     "date": ":attribute ntabwo ari itariki yemewe.",
     "date_equals": ":attribute igomba kuba itariki ingana na :date.",

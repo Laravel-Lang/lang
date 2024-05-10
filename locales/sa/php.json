@@ -19,6 +19,7 @@
     "boolean": "१० क्षेत्रं सत्यं वा असत्यं वा भवितुमर्हति ।",
     "can": ":attribute क्षेत्रे अनधिकृतं मूल्यं भवति ।",
     "confirmed": "१० पुष्टिः न मेलति।",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "गुप्तशब्दः अशुद्धः अस्ति ।",
     "date": "१० न वैधतिथिः ।",
     "date_equals": "१० इत्यस्य २० समं तिथिः भवितुमर्हति ।",

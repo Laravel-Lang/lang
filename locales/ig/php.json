@@ -19,6 +19,7 @@
     "boolean": "Oghere iri ahụ ga-abụrịrị eziokwu ma ọ bụ ụgha.",
     "can": "Mpaghara :attribute ahụ nwere uru na-akwadoghị.",
     "confirmed": "Nkwenye iri ahụ adabaghị.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Okwuntughe ezighi ezi.",
     "date": ":attribute ahụ abụghị ụbọchị ziri ezi.",
     "date_equals": ":attribute ahụ ga-abụrịrị ụbọchị ha nhata :date.",

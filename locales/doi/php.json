@@ -19,6 +19,7 @@
     "boolean": ":attribute फील्ड सच्चा या झूठा होना चाइदा।",
     "can": ":attribute फील्ड च इक अनधिकृत मान होंदा ऐ।",
     "confirmed": ":attribute कन्फर्मेशन मेल नेईं खंदा।",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "पासवर्ड गलत ऐ।",
     "date": ":attribute दी कोई वैध तारीख नेईं ऐ।",
     "date_equals": ":attribute दी तारीख :date दे बराबर होनी चाहिदी।",

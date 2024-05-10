@@ -19,6 +19,7 @@
     "boolean": "Το πεδίο :attribute πρέπει να είναι true ή false.",
     "can": "Το πεδίο :attribute περιέχει μια μη εξουσιοδοτημένη τιμή.",
     "confirmed": "Η επιβεβαίωση του :attribute δεν ταιριάζει.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Ο κωδικός πρόσβασης είναι λανθασμένος.",
     "date": "Το πεδίο :attribute δεν είναι έγκυρη ημερομηνία.",
     "date_equals": "Το στοιχείο :attribute πρέπει να είναι μια ημερομηνία, όπως η εξής :date.",

@@ -19,6 +19,7 @@
     "boolean": ":Attribute lauciņam jābūt patiesam vai nepatiesam.",
     "can": "Laukā :attribute ir neatļauta vērtība.",
     "confirmed": ":Attribute apstiprinājums neatbilst.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Parole ir nepareiza.",
     "date": ":Attribute nav derīgs.",
     "date_equals": ":Attribute datumam jāsakrīt ar :date.",

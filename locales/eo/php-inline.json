@@ -19,6 +19,7 @@
     "boolean": "Ĉi tiu kampo devas esti vera aŭ falsa.",
     "can": "Ĉi tiu kampo enhavas neaŭtorizitan valoron.",
     "confirmed": "Ĉi tiu kampokonfirmo ne kongruas.",
+    "contains": "This field is missing a required value.",
     "date": "Ĉi tiu kampo ne estas valida dato.",
     "date_equals": "Ĉi tiu kampo devas esti dato egala al :date.",
     "date_format": "Ĉi tiu kampo ne kongruas kun la formato :format.",

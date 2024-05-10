@@ -19,6 +19,7 @@
     "boolean": "Fusha :attribute duhet të jetë e vërtetë ose e gabuar",
     "can": "Fusha :attribute përmban një vlerë të paautorizuar.",
     "confirmed": ":Attribute konfirmimi nuk përputhet.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Fjalëkalimi është i pasaktë.",
     "date": ":Attribute nuk është një datë e saktë.",
     "date_equals": ":Attribute duhet të jetë datë e barabartë me :date.",

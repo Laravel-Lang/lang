@@ -19,6 +19,7 @@
     "boolean": "Trường này phải là true hoặc false.",
     "can": "Trường này chứa một giá trị trái phép.",
     "confirmed": "Giá trị xác nhận trong trường này không khớp.",
+    "contains": "This field is missing a required value.",
     "date": "Trường này không phải là định dạng của ngày-tháng.",
     "date_equals": "Trường này phải là một ngày bằng với :date.",
     "date_format": "Trường này không giống với định dạng :format.",

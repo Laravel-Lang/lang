@@ -19,6 +19,7 @@
     "boolean": "Ang patlang na ito ay dapat na totoo o hindi.",
     "can": "Naglalaman ang field na ito ng hindi awtorisadong halaga.",
     "confirmed": "Kumpirmasyon ay hindi tumutugma.",
+    "contains": "This field is missing a required value.",
     "date": "Ito ay hindi isang wastong petsa.",
     "date_equals": "Ito ay dapat na isang petsa na katumbas ng :date.",
     "date_format": "Ito ay hindi tumutugma sa pormat :format.",

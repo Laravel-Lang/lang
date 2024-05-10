@@ -19,6 +19,7 @@
     "boolean": "Die :attribute veld moet waar of onwaar wees.",
     "can": "Die :attribute-veld bevat 'n ongemagtigde waarde.",
     "confirmed": "Die :attribute bevestiging stem nie ooreen nie.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Die wagwoord is verkeerd.",
     "date": "Die :attribute is nie geldige datum nie.",
     "date_equals": "Die :attribute moet 'n datum wees wat gelyk is aan :date.",

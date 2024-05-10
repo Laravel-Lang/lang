@@ -19,6 +19,7 @@
     "boolean": ":Attribute måste vara sant eller falskt.",
     "can": "Fältet :attribute innehåller ett obehörigt värde.",
     "confirmed": ":Attribute bekräftelsen matchar inte.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Lösenordet är felaktigt.",
     "date": ":Attribute är inte ett giltigt datum.",
     "date_equals": ":Attribute måste vara ett datum lika med :date.",

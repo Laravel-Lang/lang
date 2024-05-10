@@ -19,6 +19,7 @@
     "boolean": "This field must be true or false.",
     "can": "This field contains an unauthorized value.",
     "confirmed": "This field confirmation does not match.",
+    "contains": "This field is missing a required value.",
     "date": "This field is not a valid date.",
     "date_equals": "This field must be a date equal to :date.",
     "date_format": "This field does not match the format :format.",

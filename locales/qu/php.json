@@ -19,6 +19,7 @@
     "boolean": ":attribute chakraqa chiqap utaq llulla kanan.",
     "can": ":attribute pampapiqa mana kamachisqa chaniyuqmi kachkan.",
     "confirmed": ":attribute takyachiyqa manam tupanchu.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Yaykuna rimayqa pantasqam.",
     "date": ":attribute nisqa p’unchayqa manan allin p’unchaychu.",
     "date_equals": ":attribute nisqa p’unchayqa :date nisqawan tupaq p’unchaymi kanan.",

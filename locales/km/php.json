@@ -19,6 +19,7 @@
     "boolean": ":Attribute ត្រូវតែជា ពិត ឬ មិនពិត",
     "can": "វាល :attribute មាន​តម្លៃ​ដែល​គ្មាន​ការ​អនុញ្ញាត។",
     "confirmed": ":Attribute ការបញ្ជាក់មិនផ្គូរផ្គង។",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "ពាក្យ​សម្ងាត់​មិន​ត្រឹមត្រូវ។",
     "date": ":Attribute គឺមិនមែនជាកាលបរិច្ឆេទត្រឹមត្រូវ។",
     "date_equals": ":Attribute ត្រូវតែជាកាលបរិច្ឆេទស្មើនឹង :date។",

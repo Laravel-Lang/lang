@@ -19,6 +19,7 @@
     "boolean": ":Attribute फील्ड सही या गलत होना चाहिए ।",
     "can": ":Attribute फ़ील्ड में एक अनधिकृत मान है।",
     "confirmed": ":Attribute पुष्टिकरण मेल नहीं खा रहा है।",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "पासवर्ड गलत है ।",
     "date": ":Attribute एक मान्य दिनांक नहीं है।",
     "date_equals": ":Attribute, :date के बराबर तारीख होनी चाहिए ।",

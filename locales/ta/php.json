@@ -19,6 +19,7 @@
     "boolean": ":attribute புலம் உண்மையாகவோ அல்லது பொய்யாகவோ இருக்க வேண்டும்.",
     "can": ":attribute புலத்தில் அங்கீகரிக்கப்படாத மதிப்பு உள்ளது.",
     "confirmed": ":attribute உறுதிப்படுத்தல் பொருந்தவில்லை.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "கடவுச்சொல் தவறானது.",
     "date": ":attribute சரியான தேதி அல்ல.",
     "date_equals": ":attribute என்பது :dateக்கு சமமான தேதியாக இருக்க வேண்டும்.",

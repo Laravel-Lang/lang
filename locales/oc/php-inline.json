@@ -19,6 +19,7 @@
     "boolean": "Aqueste camp deu èsser verai o fals.",
     "can": "This field contains an unauthorized value.",
     "confirmed": "Lo camp de confirmacion correspond pas.",
+    "contains": "This field is missing a required value.",
     "date": "Aquò es pas una data valida.",
     "date_equals": "La data deu èsser una data egala a :date.",
     "date_format": "Aqueste camp correspond pas al format :format.",

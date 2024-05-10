@@ -19,6 +19,7 @@
     "boolean": "O foro in ka kan ka kɛ tiɲɛ ye walima nkalon.",
     "can": "Nin foro in kɔnɔ, nafa dɔ bɛ yen min ma yamaruya.",
     "confirmed": "Nin foro dantigɛli in tɛ bɛn.",
+    "contains": "This field is missing a required value.",
     "date": "Nin foro in tɛ don ye min bɛ se ka kɛ.",
     "date_equals": "O foro in ka kan ka kɛ don ye min bɛ bɛn :date ma.",
     "date_format": "Nin foro in tɛ bɛn cogoya :format ma.",

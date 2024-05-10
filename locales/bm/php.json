@@ -19,6 +19,7 @@
     "boolean": "Foro :attribute ka kan ka kɛ tiɲɛ ye walima nkalon.",
     "can": ":attribute foro kɔnɔ, nafa dɔ bɛ yen min ma yamaruya.",
     "confirmed": ":attribute dantigɛli tɛ bɛn.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Daɲɛ dogolen tɛ tiɲɛ ye.",
     "date": ":attribute in tɛ don ye min bɛ se ka kɛ.",
     "date_equals": ":attribute ka kan ka kɛ don ye min bɛ bɛn :date ma.",

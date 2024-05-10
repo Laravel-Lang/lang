@@ -19,6 +19,7 @@
     "boolean": ":attributeka goobood waa inay run ama been ahaadaan.",
     "can": "Goobta :attribute ka waxa ku jira qiimo aan la fasixin",
     "confirmed": ":attributeka xaqiijinta kuma eka",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Furaha sirta ah waa khalad",
     "date": ":attributeku ma aha taariikh ansax ah.",
     "date_equals": ":attributeku waa inay ahaadaan taariikh u dhiganta :date.",

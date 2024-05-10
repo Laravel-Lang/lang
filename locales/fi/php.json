@@ -19,6 +19,7 @@
     "boolean": "Kentän :attribute arvon tulee olla tosi tai epätosi.",
     "can": ":Attribute-kenttä sisältää luvattoman arvon.",
     "confirmed": "Kentän :attribute vahvistus ei täsmää.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Salasana on väärä.",
     "date": "Kentän :attribute arvo ei ole kelvollinen päivämäärä.",
     "date_equals": ":Attribute on oltava sama päivämäärä kuin :date.",

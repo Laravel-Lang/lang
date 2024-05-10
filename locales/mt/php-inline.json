@@ -19,6 +19,7 @@
     "boolean": "Dan il-qasam irid ikun veru jew falz.",
     "can": "Dan il-qasam fih valur mhux awtorizzat.",
     "confirmed": "Din il-konferma tal-field ma taqbilx.",
+    "contains": "This field is missing a required value.",
     "date": "Dan il-qasam mhuwiex data valida.",
     "date_equals": "Dan il-field għandu jkun data ugwali għal :date.",
     "date_format": "Dan il-qasam ma jaqbilx mal-format :format.",

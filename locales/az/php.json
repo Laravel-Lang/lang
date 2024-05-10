@@ -19,6 +19,7 @@
     "boolean": ":Attribute sahəsi doğru (true) və ya yalan (false) olmalıdır.",
     "can": ":Attribute sahəsində icazəsiz dəyər var.",
     "confirmed": ":Attribute sahəsinin dəyəri təsdiqlənənlə uyğun gəlmir.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Şifrə yanlışdır.",
     "date": ":Attribute düzgün tarix olmalıdır.",
     "date_equals": ":Attribute :date ilə bərabər tarix olmalıdır.",

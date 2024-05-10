@@ -19,6 +19,7 @@
     "boolean": "Поле :attribute павінна мець значэнне лагічнага тыпу.",
     "can": "Поле :attribute змяшчае недазволенае значэнне.",
     "confirmed": "Поле :attribute не супадае з пацвярджэннем.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Пароль няправільны.",
     "date": "Поле :attribute не з'яўляецца датай.",
     "date_equals": ":Attribute павінна быць датай, роўнай :date.",

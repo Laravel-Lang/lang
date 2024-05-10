@@ -19,6 +19,7 @@
     "boolean": "שדה זה חייב להיות אמת או שקר.",
     "can": "שדה זה מכיל ערך לא מורשה.",
     "confirmed": "האישור אינו תואם.",
+    "contains": "This field is missing a required value.",
     "date": "זה לא תאריך תקף.",
     "date_equals": "זה חייב להיות תאריך שווה ל-:date.",
     "date_format": "זה לא מתאים לפורמט :format.",

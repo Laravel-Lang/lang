@@ -19,6 +19,7 @@
     "boolean": "ይህ መስክ እውነት ወይም ሐሰት መሆን አለበት።",
     "can": "ይህ መስክ ያልተፈቀደ እሴት ይዟል።",
     "confirmed": "ይህ የመስክ ማረጋገጫ አይዛመድም።",
+    "contains": "This field is missing a required value.",
     "date": "ይህ መስክ የሚሰራ ቀን አይደለም።",
     "date_equals": "ይህ መስክ ከ:date ጋር እኩል የሆነ ቀን መሆን አለበት።",
     "date_format": "ይህ መስክ ከቅርጸት :format ጋር አይዛመድም።",

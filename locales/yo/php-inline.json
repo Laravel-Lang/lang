@@ -19,6 +19,7 @@
     "boolean": "Aaye yii gbọdọ jẹ otitọ tabi eke.",
     "can": "Aaye yi ni iye laigba aṣẹ ninu.",
     "confirmed": "Ijẹrisi aaye yii ko baramu.",
+    "contains": "This field is missing a required value.",
     "date": "Aaye yii kii ṣe ọjọ to wulo.",
     "date_equals": "Aaye yii gbọdọ jẹ ọjọ ti o dọgba si :date.",
     "date_format": "Aaye yii ko baramu ọna kika :format.",

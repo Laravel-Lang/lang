@@ -19,6 +19,7 @@
     "boolean": "Ennek a mezőnek igaznak vagy hamisnak kell lennie.",
     "can": "Ez a mező nem engedélyezett értéket tartalmaz.",
     "confirmed": "A megerősítés nem egyezik.",
+    "contains": "This field is missing a required value.",
     "date": "Ez nem érvényes dátum.",
     "date_equals": "Ennek :date-nak kell lennie.",
     "date_format": "Ez nem felel meg az :format formátumnak.",

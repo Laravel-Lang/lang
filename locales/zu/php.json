@@ -19,6 +19,7 @@
     "boolean": "Inkambu ye-:attribute kufanele ibe yiqiniso noma amanga.",
     "can": "Inkambu engu-:attribute iqukethe inani elingagunyaziwe.",
     "confirmed": "Ukuqinisekiswa kwe-:attribute akufani.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Iphasiwedi ayilungile.",
     "date": "I-:attribute akulona idethi evumelekile.",
     "date_equals": "I-:attribute kufanele kube idethi elingana no-:date.",

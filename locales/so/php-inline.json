@@ -19,6 +19,7 @@
     "boolean": "Goobtani waa inay noqotaa run ama been",
     "can": "Goobtani waxay ka kooban tahay qiimo aan la fasixin",
     "confirmed": "Xaqiijinta goobtan kuma habboona.",
+    "contains": "This field is missing a required value.",
     "date": "Goobtani ma aha taariikh ansax ah",
     "date_equals": "Goobtani waa inay noqotaa taariikh u dhiganta :date.",
     "date_format": "Goobtani kuma habboona qaabka :format.",

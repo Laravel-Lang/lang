@@ -19,6 +19,7 @@
     "boolean": "Dit veld moet ja of nee zijn.",
     "can": "Dit veld bevat een waarde waar je niet bevoegd voor bent.",
     "confirmed": "De bevestiging komt niet overeen.",
+    "contains": "This field is missing a required value.",
     "date": "Dit veld is geen geldige datum",
     "date_equals": "Dit veld moet een datum gelijk aan :date zijn.",
     "date_format": "Dit veld voldoet niet aan het formaat :format.",

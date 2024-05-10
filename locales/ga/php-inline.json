@@ -19,6 +19,7 @@
     "boolean": "Caithfidh an réimse seo a bheith fíor nó bréagach.",
     "can": "Tá luach neamhúdaraithe sa réimse seo.",
     "confirmed": "Ní hionann dearbhú an réimse seo.",
+    "contains": "This field is missing a required value.",
     "date": "Ní dáta bailí é an réimse seo.",
     "date_equals": "Caithfidh dáta cothrom le :date a bheith sa réimse seo.",
     "date_format": "Ní mheaitseálann an réimse seo leis an bhformáid :format.",

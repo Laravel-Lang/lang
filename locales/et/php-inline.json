@@ -19,6 +19,7 @@
     "boolean": "See väli peab olema tõene või vale.",
     "can": "See väli sisaldab volitamata väärtust.",
     "confirmed": "Kinnitus ei sobi.",
+    "contains": "This field is missing a required value.",
     "date": "See ei ole kehtiv kuupäev.",
     "date_equals": "See peab olema kuupäev, mis võrdub :date-ga.",
     "date_format": "See ei vasta vormingule :format.",

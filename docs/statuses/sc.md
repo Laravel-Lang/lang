@@ -4,7 +4,7 @@ editLink: false
 
 # sc
 
-##### All missed: 916
+##### All missed: 918
 
 
 ### json-inline
@@ -7530,7 +7530,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 53
+##### Missing: 54
 
 <table width="100%">
 <tr><th width="50%">
@@ -7630,6 +7630,15 @@ can
 </td><td width="50%">
 
 This field contains an unauthorized value.
+
+</td></tr>
+<tr><td width="50%">
+
+contains
+
+</td><td width="50%">
+
+This field is missing a required value.
 
 </td></tr>
 <tr><td width="50%">
@@ -8027,7 +8036,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 32
+##### Missing: 33
 
 <table width="100%">
 <tr><th width="50%">
@@ -8055,6 +8064,15 @@ can
 </td><td width="50%">
 
 The :attribute field contains an unauthorized value.
+
+</td></tr>
+<tr><td width="50%">
+
+contains
+
+</td><td width="50%">
+
+The :attribute field is missing a required value.
 
 </td></tr>
 <tr><td width="50%">

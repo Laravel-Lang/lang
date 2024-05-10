@@ -19,6 +19,7 @@
     "boolean": "Ang :attribute nga field kinahanglan nga tinuod o bakak.",
     "can": "Ang :attribute nga uma adunay dili awtorisado nga kantidad.",
     "confirmed": "Ang :attribute nga kumpirmasyon dili magkatugma.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Ang password dili husto.",
     "date": "Ang :attribute dili balido nga petsa.",
     "date_equals": "Ang :attribute kinahanglan nga usa ka petsa nga katumbas sa :date.",

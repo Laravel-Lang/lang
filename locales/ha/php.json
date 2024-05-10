@@ -19,6 +19,7 @@
     "boolean": "Dole ne filin :attribute ya zama gaskiya ko ƙarya.",
     "can": "Filin :attribute ya ƙunshi ƙima mara izini.",
     "confirmed": "Tabbatarwa guda :attribute bai dace ba.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Kalmar wucewa ba daidai ba ce.",
     "date": ":attribute din ba kwanan wata ba ce.",
     "date_equals": "Dole ne :attribute ɗin ya zama kwanan wata daidai da :date.",

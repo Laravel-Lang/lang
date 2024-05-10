@@ -19,6 +19,7 @@
     "boolean": "ຊ່ອງຂໍ້ມູນ :attribute ຈະຕ້ອງເປັນຄວາມຈິງ ຫຼືຜິດ.",
     "can": "ຊ່ອງຂໍ້ມູນ :attribute ມີຄ່າທີ່ບໍ່ໄດ້ຮັບອະນຸຍາດ.",
     "confirmed": ":attribute ການຢືນຢັນບໍ່ກົງກັນ.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "ລະຫັດຜ່ານບໍ່ຖືກຕ້ອງ.",
     "date": "ວັນທີ :attribute ບໍ່ແມ່ນວັນທີທີ່ຖືກຕ້ອງ.",
     "date_equals": ":attribute ຕ້ອງເປັນວັນທີເທົ່າກັບ :date.",

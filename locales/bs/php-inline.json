@@ -19,6 +19,7 @@
     "boolean": "Ovo polje mora da je istina ili laž.",
     "can": "Ovo polje sadrži neovlaštenu vrijednost.",
     "confirmed": "Potvrda se ne poklapa.",
+    "contains": "This field is missing a required value.",
     "date": "Ovo nije važeći sastanak.",
     "date_equals": "Ovo mora biti Datum jednako :date.",
     "date_format": "Ovo ne odgovara formatu :format.",

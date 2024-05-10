@@ -19,6 +19,7 @@
     "boolean": "Esengeli ete esika ya :attribute ezala solo to lokuta.",
     "can": "Esika ya :attribute ezali na motuya oyo epesami ndingisa te.",
     "confirmed": "Confirmation ya :attribute ekokani te.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Mot de passe ezali malamu te.",
     "date": "Ba :attribute ezali date valide te.",
     "date_equals": "Esengeli ete :attribute ezala dati oyo ekokani na :date.",

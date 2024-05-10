@@ -19,6 +19,7 @@
     "boolean": "ಈ  :attribute ಕ್ಷೇತ್ರವು ನಿಜ ಅಥವಾ ಸುಳ್ಳು ಆಗಿರಬೇಕು.",
     "can": ":Attribute ಕ್ಷೇತ್ರವು ಅನಧಿಕೃತ ಮೌಲ್ಯವನ್ನು ಹೊಂದಿದೆ.",
     "confirmed": "ಈ  :attribute ದೃಢೀಕರಣವು ಹೊಂದಿಕೆಯಾಗುವುದಿಲ್ಲ.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "ಗುಪ್ತಪದವು ತಪ್ಪಾಗಿದೆ.",
     "date": "ಈ  :attribute ಮಾನ್ಯ ದಿನಾಂಕವಲ್ಲ.",
     "date_equals": "ಈ  :attribute ದಿನಾಂಕವು  :date ಸಮನಾದ ದಿನಾಂಕವಾಗಿರಬೇಕು.",

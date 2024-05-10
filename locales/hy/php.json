@@ -19,6 +19,7 @@
     "boolean": ":Attribute դաշտի արժեքը պետք է լինի ճշմարիտ կամ կեղծ։",
     "can": ":Attribute դաշտը պարունակում է չթույլատրված արժեք:",
     "confirmed": ":Attribute դաշտը չի համապատասխանում հաստատմանը։",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Այս դաշտը պարունակում է անվավեր գաղտնաբառ։",
     "date": ":Attribute դաշտը վավեր ամսաթիվ չէ։",
     "date_equals": ":Attribute դաշտի ամսաթիվը պետք է լինի :date։",

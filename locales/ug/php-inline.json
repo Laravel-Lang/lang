@@ -19,6 +19,7 @@
     "boolean": "بۇ ساھە چوقۇم راست ياكى يالغان بولۇشى كېرەك.",
     "can": "بۇ ساھەدە رۇخسەتسىز قىممەت بار.",
     "confirmed": "The confirmation does not match.",
+    "contains": "This field is missing a required value.",
     "date": "This is not a valid date.",
     "date_equals": "This must be a date equal to :date.",
     "date_format": "This does not match the format :format.",

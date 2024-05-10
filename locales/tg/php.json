@@ -19,6 +19,7 @@
     "boolean": "Қиммати :attribute бояд логикӣ дошта бошад.",
     "can": "Майдони :attribute дорои арзиши беиҷозат аст.",
     "confirmed": "Қиммати :attribute бо қиммати тасдиқотӣ мувофиқат надорад.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Рамз нодуруст аст.",
     "date": "Қиммати :attribute санаи нодуруст мебошад.",
     "date_equals": ":Attribute бояд санаи, баробар :date.",

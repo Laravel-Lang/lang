@@ -19,6 +19,7 @@
     "boolean": "ช่องข้อมูลนี้ต้องเป็นจริงหรือเท็จ",
     "can": "ช่องนี้มีค่าที่ไม่ได้รับอนุญาต",
     "confirmed": "การยืนยันไม่ตรงกัน",
+    "contains": "This field is missing a required value.",
     "date": "นี่เป็นค่าวันที่ที่ไม่ถูกต้อง!",
     "date_equals": "นี่ต้องเป็นวันเท่ากับ :date",
     "date_format": "นี่มันไม่ตรงกับรูปแบบ :format",

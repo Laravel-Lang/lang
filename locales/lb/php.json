@@ -19,6 +19,7 @@
     "boolean": "D':attribute Feld muss richteg oder falsch sinn.",
     "can": "Den :attribute Feld enthält en onerlaabten Wäert.",
     "confirmed": "Déi :attribute Bestätegung passt net.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "D'Passwuert ass falsch.",
     "date": "Den :attribute ass net e gültege Datum.",
     "date_equals": "Den :attribute muss en Datum gläich wéi :date sinn.",

@@ -19,6 +19,7 @@
     "boolean": "Polje :attribute mora biti false ili true.",
     "can": "Polje :attribute sadrži neovlaštenu vrijednost.",
     "confirmed": "Potvrda polja :attribute se ne podudara.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Lozinka nije ispravna.",
     "date": "Polje :attribute nije ispravan datum.",
     "date_equals": "Stavka :attribute mora biti jednaka :date.",

@@ -19,6 +19,7 @@
     "boolean": "Pono a ʻoiaʻiʻo paha ka māla :attribute.",
     "can": "Loaʻa i ka māla :attribute kahi waiwai ʻae ʻole.",
     "confirmed": "ʻAʻole kūlike ka hōʻoia :attribute.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "ʻAʻole pololei ka ʻōlelo huna.",
     "date": "ʻAʻole lā kūpono ka :attribute.",
     "date_equals": "Pono ka lā :attribute e like me :date.",

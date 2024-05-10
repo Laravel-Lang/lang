@@ -19,6 +19,7 @@
     "boolean": ":Attribute maydoni faqat mantiqiy qiymatni qabul qiladi.",
     "can": "The :attribute field contains an unauthorized value.",
     "confirmed": ":Attribute tasdiqlangani bilan mos kelmadi.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "The password is incorrect.",
     "date": ":Attribute sana emas.",
     "date_equals": ":Attribute sana :date ga teng bo‘lishi kerak.",

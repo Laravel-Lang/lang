@@ -19,6 +19,7 @@
     "boolean": "මෙම :attribute ය සත්‍ය හෝ අසත්‍ය අගයක් විය යුතුය.",
     "can": ":Attribute ක්ෂේත්රයේ අනවසර අගයක් අඩංගු වේ.",
     "confirmed": "මෙම :attribute තහවුරු කිරීම නොගැලපේ.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "මුරපදය වලංගු නොවේ.",
     "date": "මෙම :attribute දිනය වලංගු දිනයක් නොවේ.",
     "date_equals": "මෙම :attribute එක :date දිනයට සමාන දිනයක් විය යුතුය.",

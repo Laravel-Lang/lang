@@ -19,6 +19,7 @@
     "boolean": "Šim laukam jābūt patiesam vai nepatiesam.",
     "can": "Šajā laukā ir neatļauta vērtība.",
     "confirmed": "Apstiprinājums neatbilst.",
+    "contains": "This field is missing a required value.",
     "date": "Tas nav derīgs datums.",
     "date_equals": "Tam jābūt datumam, kas vienāds ar :date.",
     "date_format": "Tas neatbilst formātam :format.",

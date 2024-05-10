@@ -19,6 +19,7 @@
     "boolean": "هي فيلڊ صحيح يا غلط هجڻ گهرجي.",
     "can": "ھن فيلڊ ۾ ھڪڙي غير مجاز قدر شامل آھي.",
     "confirmed": "ھن فيلڊ جي تصديق نه ٿي ملي.",
+    "contains": "This field is missing a required value.",
     "date": "ھي فيلڊ صحيح تاريخ نه آھي.",
     "date_equals": "هن فيلڊ کي :date جي برابر تاريخ هجڻ گهرجي.",
     "date_format": "هي فيلڊ فارميٽ :format سان نٿو ملي.",

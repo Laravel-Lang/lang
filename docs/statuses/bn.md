@@ -23,11 +23,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-required_if_declined
+contains
 
 </td><td width="50%">
 
-This field is required when :other is declined.
+This field is missing a required value.
 
 </td></tr>
 </table>
@@ -52,11 +52,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-required_if_declined
+contains
 
 </td><td width="50%">
 
-The :attribute field is required when :other is declined.
+The :attribute field is missing a required value.
 
 </td></tr>
 </table>

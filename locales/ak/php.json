@@ -19,6 +19,7 @@
     "boolean": "Ɛsɛ sɛ afuw :attribute no yɛ nokware anaa atoro.",
     "can": ":attribute field no kura botae bi a wɔmma ho kwan.",
     "confirmed": ":attribute a wɔde si so dua no nhyia.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Password no nyɛ nokware.",
     "date": ":attribute no nyɛ da a ɛfata.",
     "date_equals": "Ɛsɛ sɛ :attribute no yɛ date a ɛne :date yɛ pɛ.",

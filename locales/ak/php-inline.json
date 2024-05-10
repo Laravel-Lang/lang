@@ -19,6 +19,7 @@
     "boolean": "Ɛsɛ sɛ saa afuw yi yɛ nokware anaa atoro.",
     "can": "Saa afuw yi kura botae bi a wɔmma ho kwan.",
     "confirmed": "Saa afuw mu si so dua yi nhyia.",
+    "contains": "This field is missing a required value.",
     "date": "Saa afuw yi nyɛ da a ɛfata.",
     "date_equals": "Ɛsɛ sɛ saa afuw yi yɛ date a ɛne :date yɛ pɛ.",
     "date_format": "Saa afuw yi ne format :format no nhyia.",

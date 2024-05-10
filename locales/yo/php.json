@@ -19,6 +19,7 @@
     "boolean": "Aaye :attribute gbọdọ jẹ otitọ tabi eke.",
     "can": "Aaye :attribute naa ni iye laigba aṣẹ.",
     "confirmed": "Awọn ìmúdájú :attribute ko baramu.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Ọrọigbaniwọle ko tọ.",
     "date": ":attribute naa kii ṣe ọjọ to wulo.",
     "date_equals": ":attribute naa gbọdọ jẹ ọjọ ti o dọgba si :date.",

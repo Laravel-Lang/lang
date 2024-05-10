@@ -19,6 +19,7 @@
     "boolean": "Iyo :attribute ndima inofanira kuva yechokwadi kana yenhema.",
     "can": "Iyo :attribute ndima ine kukosha kusingatenderwe.",
     "confirmed": "Iyo gumi yekusimbisa haienderane.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Pasiwedhi haina kururama.",
     "date": "Gumi harisi zuva rinoshanda.",
     "date_equals": "Iwo gumi anofanira kunge ari zuva rakaenzana ne:date.",

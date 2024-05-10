@@ -19,6 +19,7 @@
     "boolean": "Widang ieu kedah leres atanapi salah.",
     "can": "Widang ieu ngandung nilai anu teu sah.",
     "confirmed": "Konfirmasi widang ieu teu cocog.",
+    "contains": "This field is missing a required value.",
     "date": "Widang ieu sanés tanggal anu sah.",
     "date_equals": "Widang ieu kedah janten tanggal anu sami sareng :date.",
     "date_format": "Widang ieu henteu cocog sareng format :format.",

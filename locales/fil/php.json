@@ -19,6 +19,7 @@
     "boolean": "Dapat na true o false ang field na :attribute.",
     "can": "Ang :attribute field ay naglalaman ng hindi awtorisadong halaga.",
     "confirmed": "Hindi tumutugma ang pagkumpirma ng :attribute.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Mali ang password.",
     "date": "Hindi valid na petsa ang :attribute.",
     "date_equals": "Ang :attribute ay dapat na isang petsa na katumbas ng :date.",

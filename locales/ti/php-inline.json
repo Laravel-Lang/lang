@@ -19,6 +19,7 @@
     "boolean": "እዚ ዓውዲ እዚ ሓቂ ወይ ሓሶት ክኸውን ኣለዎ።",
     "can": "እዚ ዓውዲ እዚ ዘይተፈቕደ ዋጋ ዝሓዘ እዩ።",
     "confirmed": "እዚ ናይ ሜዳ ምርግጋጽ ኣይሰማማዕን እዩ።",
+    "contains": "This field is missing a required value.",
     "date": "እዚ ዓውዲ እዚ ቅኑዕ ዕለት ኣይኮነን።",
     "date_equals": "እዚ ዓውዲ እዚ ማዕረ :date ዝኾነ ዕለት ክኸውን ኣለዎ።",
     "date_format": "እዚ ዓውዲ ምስቲ ቅርጺ :format ኣይሰማማዕን እዩ።",

@@ -19,6 +19,7 @@
     "boolean": "Dole ne wannan filin ya zama gaskiya ko na ƙarya.",
     "can": "Wannan filin ya ƙunshi ƙima mara izini.",
     "confirmed": "Wannan tabbacin filin bai dace ba.",
+    "contains": "This field is missing a required value.",
     "date": "Wannan filin ba kwanan wata ba ne.",
     "date_equals": "Dole ne wannan filin ya zama kwanan wata daidai da :date.",
     "date_format": "Wannan filin bai dace da tsari na :format ba.",

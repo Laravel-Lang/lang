@@ -19,6 +19,7 @@
     "boolean": "It fjild :attribute moat wier of falsk wêze.",
     "can": "It fjild :attribute befettet in net autorisearre wearde.",
     "confirmed": "De befêstiging fan :attribute komt net oerien.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "It wachtwurd is ferkeard.",
     "date": "De :attribute is gjin jildige datum.",
     "date_equals": "De :attribute moat in datum lyk oan :date wêze.",

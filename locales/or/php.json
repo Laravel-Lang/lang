@@ -19,6 +19,7 @@
     "boolean": ":attribute ଟି କ୍ଷେତ୍ର ସତ କିମ୍ବା ମିଥ୍ୟା ହେବା ଜରୁରୀ |",
     "can": ":attribute ଟି କ୍ଷେତ୍ର ଏକ ଅନଧିକୃତ ମୂଲ୍ୟ ଧାରଣ କରେ |",
     "confirmed": ":attribute ନିଶ୍ଚିତକରଣ ମେଳ ଖାଉ ନାହିଁ |",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "ପାସୱାର୍ଡ ଭୁଲ୍ ଅଟେ |",
     "date": ":attribute ଏକ ବ valid ଧ ତାରିଖ ନୁହେଁ |",
     "date_equals": ":attribute ଟି :date ସହିତ ସମାନ ତାରିଖ ହେବା ଜରୁରୀ |",

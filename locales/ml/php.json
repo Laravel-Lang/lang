@@ -19,6 +19,7 @@
     "boolean": ":attribute ഫീൽഡ് ശരിയോ തെറ്റോ ആയിരിക്കണം.",
     "can": ":attribute ഫീൽഡിൽ ഒരു അനധികൃത മൂല്യം അടങ്ങിയിരിക്കുന്നു.",
     "confirmed": ":attribute സ്ഥിരീകരണം പൊരുത്തപ്പെടുന്നില്ല.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "പാസ്‌വേഡ് തെറ്റാണ്.",
     "date": ":attribute ഒരു സാധുവായ തീയതിയല്ല.",
     "date_equals": ":attribute എന്നത് :date-ന് തുല്യമായ തീയതി ആയിരിക്കണം.",

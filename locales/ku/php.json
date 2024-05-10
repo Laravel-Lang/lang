@@ -19,6 +19,7 @@
     "boolean": "Divê qada :attribute rast an derewîn be.",
     "can": "Di qada :attribute de nirxek bêdestûr heye.",
     "confirmed": "Pejirandina :attribute li hev nayê.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Şîfre çewt e.",
     "date": ":attribute ne dîrokek derbasdar e.",
     "date_equals": "Divê :attribute dîrokek bi :date re wekhev be.",

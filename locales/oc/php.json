@@ -19,6 +19,7 @@
     "boolean": "Lo camp :attribute deu èsser true o false.",
     "can": "The :attribute field contains an unauthorized value.",
     "confirmed": "Lo camp de confirmacion :attribute correspond pas.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "The password is incorrect.",
     "date": "Lo camp :attribute es pas una data valida.",
     "date_equals": "Lo camp :attribute deu èsser una data egala a :date.",

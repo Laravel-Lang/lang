@@ -19,6 +19,7 @@
     "boolean": "Lo mmandla kufuneka ube yinyani okanye bubuxoki.",
     "can": "Lo mmandla unexabiso elingagunyaziswanga.",
     "confirmed": "Esi siqinisekiso asihambelani.",
+    "contains": "This field is missing a required value.",
     "date": "Le ndawo ayingomhla osebenzayo.",
     "date_equals": "Lo mmandla kufuneka ube ngumhla olingana no-:date.",
     "date_format": "Lo mmandla awuhambelani nefomathi ye-:format.",

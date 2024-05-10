@@ -19,6 +19,7 @@
     "boolean": "Mpaghara a ga-abụrịrị eziokwu ma ọ bụ ụgha.",
     "can": "Ogige a nwere uru na-akwadoghị.",
     "confirmed": "Nkwenye ubi a adabaghị.",
+    "contains": "This field is missing a required value.",
     "date": "Ogige a abụghị ezigbo ụbọchị.",
     "date_equals": "Ogige a ga-abụrịrị ụbọchị ruru :date.",
     "date_format": "Ogige a adabaghị na usoro :format.",

@@ -19,6 +19,7 @@
     "boolean": "Lauko reikšmė :attribute turi būti 'taip' arba 'ne'.",
     "can": ":Attribute lauke yra neleistina reikšmė.",
     "confirmed": "Lauko :attribute patvirtinimas nesutampa.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Slaptažodis yra neteisingas.",
     "date": "Lauko :attribute reikšmė nėra galiojanti data.",
     "date_equals": "Lauko :attribute reikšmė turi būti data lygi :date.",

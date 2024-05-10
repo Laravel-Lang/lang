@@ -19,6 +19,7 @@
     "boolean": "እቲ :attribute ዓውዲ ሓቂ ወይ ሓሶት ክኸውን ኣለዎ።",
     "can": "እቲ :attribute ዝብል ዓውዲ ዘይተፈቕደ ዋጋ ዝሓዘ እዩ።",
     "confirmed": "እቲ :attribute ምርግጋጽ ኣይሰማማዕን እዩ።",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "እቲ ፓስዎርድ ጌጋ እዩ።",
     "date": "እቲ :attribute ቅኑዕ ዕለት ኣይኮነን።",
     "date_equals": "እቲ :attribute ማዕረ :date ዝኾነ ዕለት ክኸውን ኣለዎ።",

@@ -19,6 +19,7 @@
     "boolean": "Kay chakraqa chiqapmi, llullataqmi kanan.",
     "can": "Kay pampaqa mana kamachisqa chaniyuqmi.",
     "confirmed": "Kay chakra takyachiyqa manam tupanchu.",
+    "contains": "This field is missing a required value.",
     "date": "Kay pampaqa manam allin p'unchawchu.",
     "date_equals": "Kay pampaqa :datewan kaqlla p’unchaw kanan tiyan.",
     "date_format": "Kay pampaqa manam :format kaq formatowan tupanchu.",

@@ -19,6 +19,7 @@
     "boolean": ":Attribute-(r)en balioa egia edo gezurra izan behar da.",
     "can": ":Attribute eremuak baimenik gabeko balio bat dauka.",
     "confirmed": ":Attribute-(r)en berrespena ez dator bat.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Pasahitza okerra da.",
     "date": ":Attribute ez da baliozko data.",
     "date_equals": "The :attribute bat izan behar du data berdina :date.",

@@ -19,6 +19,7 @@
     "boolean": ":Attribute 必須是布爾值。",
     "can": ":Attribute 字段包含未经授权的值。",
     "confirmed": ":Attribute 確認欄位的輸入並不相符。",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "當前密碼不正確。",
     "date": ":Attribute 並非一個有效的日期。",
     "date_equals": ":Attribute 必須等於 :date。",

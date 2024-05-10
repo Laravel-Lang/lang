@@ -19,6 +19,7 @@
     "boolean": "Полето :attribute мора да има вредност вистинито (true) или невистинито (false).",
     "can": "Полето :attribute содржи неовластена вредност.",
     "confirmed": "Полето :attribute не е потврдено.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Лозинката е неточна.",
     "date": "Полето :attribute не е валиден датум.",
     "date_equals": "Полето :attribute мора да биде датум еднаков на :date.",

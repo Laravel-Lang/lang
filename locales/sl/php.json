@@ -19,6 +19,7 @@
     "boolean": ":Attribute polje mora biti 1 ali 0",
     "can": "Polje :attribute vsebuje nedovoljeno vrednost.",
     "confirmed": ":Attribute potrditev se ne ujema.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Geslo ni veljavno.",
     "date": ":Attribute ni veljaven datum.",
     "date_equals": ":Attribute mora biti enak :date.",

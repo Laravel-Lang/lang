@@ -19,6 +19,7 @@
     "boolean": "Kini nga field kinahanglan nga tinuod o bakak.",
     "can": "Kini nga uma adunay dili awtorisado nga kantidad.",
     "confirmed": "Kini nga field confirmation dili motakdo.",
+    "contains": "This field is missing a required value.",
     "date": "Kini nga field dili balido nga petsa.",
     "date_equals": "Kini nga field kinahanglang petsa nga katumbas sa :date.",
     "date_format": "Kini nga field dili motakdo sa format :format.",

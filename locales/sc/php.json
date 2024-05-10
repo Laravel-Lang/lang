@@ -19,6 +19,7 @@
     "boolean": "The :attribute field must be true or false",
     "can": "The :attribute field contains an unauthorized value.",
     "confirmed": "Su campu de cunfirma pro :attribute non torrat.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "The password is incorrect.",
     "date": ":Attribute no est una data bàlida.",
     "date_equals": "The :attribute must be a date equal to :date.",

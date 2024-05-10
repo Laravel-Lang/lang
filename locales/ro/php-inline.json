@@ -19,6 +19,7 @@
     "boolean": "Acest câmp trebuie să fie adevărat sau fals.",
     "can": "Acest câmp conține o valoare neautorizată.",
     "confirmed": "Confirmarea nu se potrivește.",
+    "contains": "This field is missing a required value.",
     "date": "Aceasta nu este o dată validă.",
     "date_equals": "Aceasta trebuie să fie o dată egală cu :date.",
     "date_format": "Acest lucru nu se potrivește cu formatul :format.",

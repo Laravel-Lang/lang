@@ -19,6 +19,7 @@
     "boolean": "Ele be agble :attribute la nanye nyateƒe alo alakpa.",
     "can": "Asixɔxɔ si ŋu womeɖe mɔ ɖo o le :attribute ƒe akpaa dzi.",
     "confirmed": "Kpeɖodzinya :attribute la mewɔ ɖeka o.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Nyagbea mesɔ o.",
     "date": ":attribute la menye ŋkeke si sɔ o.",
     "date_equals": "Ele be ŋkeke :attribute la nanye ŋkeke si sɔ kple :date.",

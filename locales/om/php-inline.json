@@ -19,6 +19,7 @@
     "boolean": "Dirreen kun dhugaa ykn soba ta'uu qaba.",
     "can": "Dirreen kun gatii hin hayyamamne of keessaa qaba.",
     "confirmed": "Mirkaneessi dirree kun wal hin simne.",
+    "contains": "This field is missing a required value.",
     "date": "Dirreen kun guyyaa sirrii miti.",
     "date_equals": "Dirreen kun guyyaa :date waliin walqixa ta'uu qaba.",
     "date_format": "Dirreen kun bifa :format wajjin wal hin simne.",

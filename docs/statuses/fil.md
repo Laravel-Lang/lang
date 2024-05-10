@@ -4,12 +4,12 @@ editLink: false
 
 # fil
 
-##### All missed: 241
+##### All missed: 243
 
 
 ### php
 
-##### Missing: 1
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,6 +21,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+contains
+
+</td><td width="50%">
+
+The :attribute field is missing a required value.
+
+</td></tr>
 <tr><td width="50%">
 
 required_if_declined
@@ -2209,7 +2218,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 1
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -2221,6 +2230,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+contains
+
+</td><td width="50%">
+
+This field is missing a required value.
+
+</td></tr>
 <tr><td width="50%">
 
 required_if_declined

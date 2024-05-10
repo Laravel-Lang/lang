@@ -11,7 +11,7 @@ on:
 permissions: read-all
 
 jobs:
-    laravel:
+    tests:
         runs-on: ubuntu-latest
 
         strategy:

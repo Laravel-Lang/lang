@@ -19,6 +19,7 @@
     "boolean": "يجب أن تكون قيمة حقل :attribute إما true أو false .",
     "can": "الحقل :attribute يحتوي على قيمة غير مصرّح بها.",
     "confirmed": "حقل التأكيد غير مُطابق للحقل :attribute.",
+    "contains": "الحقل :attribute يفتقد قيمة مطلوبة.",
     "current_password": "كلمة المرور غير صحيحة.",
     "date": "حقل :attribute ليس تاريخًا صحيحًا.",
     "date_equals": "يجب أن يكون حقل :attribute مطابقاً للتاريخ :date.",

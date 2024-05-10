@@ -19,6 +19,7 @@
     "boolean": "Reiturinn :attribute verður að vera réttur eða rangur.",
     "can": "Reiturinn :attribute inniheldur óheimilt gildi.",
     "confirmed": "Staðfesting á reitnum :attribute passar ekki.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Lykilorðið er rangt.",
     "date": "Reiturinn :attribute er ekki rétt dagsetning.",
     "date_equals": ":Attribute verður að vera dagsetning sem er sú sama og :date.",

@@ -19,6 +19,7 @@
     "boolean": "Feumaidh an raon seo a bhith fìor no ceàrr.",
     "can": "Tha luach neo-ùghdarraichte san raon seo.",
     "confirmed": "Chan eil an dearbhadh raoin seo a' freagairt.",
+    "contains": "This field is missing a required value.",
     "date": "Chan e ceann-latha dligheach a tha san raon seo.",
     "date_equals": "Feumaidh an raon seo a bhith na cheann-latha co-ionann ri :date.",
     "date_format": "Chan eil an raon seo a’ freagairt ri cruth :format.",

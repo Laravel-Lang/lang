@@ -19,7 +19,7 @@
     "boolean": "يجب أن تكون قيمة هذا الحقل إما true أو false .",
     "can": "هذا الحقل يحتوي على قيمة غير مصرّح بها.",
     "confirmed": "التأكيد غير متطابق.",
-    "contains": "This field is missing a required value.",
+    "contains": "هذا الحقل يفتقد قيمة مطلوبة.",
     "date": "هذا ليس تاريخًا صحيحًا.",
     "date_equals": "يجب أن يكون تاريخاً مطابقاً للتاريخ :date.",
     "date_format": "لا يتوافق مع الشكل :format.",

@@ -19,7 +19,7 @@
     "boolean": "Поле :attribute повинне містити логічний тип.",
     "can": "Поле :attribute містить неавторизоване значення.",
     "confirmed": "Поле :attribute не збігається з підтвердженням.",
-    "contains": "The :attribute field is missing a required value.",
+    "contains": "Поле :attribute має містити обов'язкове значення.",
     "current_password": "Пароль неправильний.",
     "date": "Поле :attribute не є датою.",
     "date_equals": "Поле :attribute має бути датою рівною :date.",

@@ -19,6 +19,7 @@
     "boolean": ":attribute ਖੇਤਰ ਸਹੀ ਜਾਂ ਗਲਤ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।",
     "can": ":attribute ਖੇਤਰ ਵਿੱਚ ਇੱਕ ਅਣਅਧਿਕਾਰਤ ਮੁੱਲ ਹੈ।",
     "confirmed": ":attribute ਪੁਸ਼ਟੀ ਮੇਲ ਨਹੀਂ ਖਾਂਦੀ।",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "ਪਾਸਵਰਡ ਗਲਤ ਹੈ।",
     "date": ":attribute ਇੱਕ ਵੈਧ ਮਿਤੀ ਨਹੀਂ ਹੈ।",
     "date_equals": ":attribute ਇੱਕ ਮਿਤੀ :date ਦੇ ਬਰਾਬਰ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ।",

@@ -19,6 +19,7 @@
     "boolean": "Me pono, he teka ranei te mara :attribute.",
     "can": "Kei roto i te mara :attribute tetahi uara kore mana.",
     "confirmed": "Ko te whakapumautanga :attribute kaore e rite.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "He he te kupuhipa.",
     "date": "Ko te :attribute ehara i te ra whaimana.",
     "date_equals": "Ko te :attribute he ra rite ki te :date.",

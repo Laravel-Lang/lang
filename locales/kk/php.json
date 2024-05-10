@@ -19,6 +19,7 @@
     "boolean": ":Attribute жолы шын немесе жалған мән болуы керек.",
     "can": ":Attribute өрісінде рұқсат етілмеген мән бар.",
     "confirmed": ":Attribute растауы сәйкес емес.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Құпия сөз дұрыс емес.",
     "date": ":Attribute жарамды күн емес.",
     "date_equals": ":Attribute мәні :date күнімен тең болуы керек.",

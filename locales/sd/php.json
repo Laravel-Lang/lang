@@ -19,6 +19,7 @@
     "boolean": ":attribute فيلڊ صحيح يا غلط هجڻ گهرجي.",
     "can": ":attribute فيلڊ ۾ هڪ غير مجاز قدر شامل آهي.",
     "confirmed": ":attribute جي تصديق نه ٿي ملي.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "پاسورڊ غلط آهي.",
     "date": ":attribute صحيح تاريخ نه آهي.",
     "date_equals": ":attribute کي :date جي برابر تاريخ هجڻ گھرجي.",

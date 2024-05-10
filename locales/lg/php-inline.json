@@ -19,6 +19,7 @@
     "boolean": "Ennimiro eno erina okuba nga ntuufu oba ya bulimba.",
     "can": "Ennimiro eno erimu omuwendo ogutakkirizibwa.",
     "confirmed": "Okukakasa kuno okw'ennimiro tekukwatagana.",
+    "contains": "This field is missing a required value.",
     "date": "Ennimiro eno si lunaku lutuufu.",
     "date_equals": "Ennimiro eno erina okuba olunaku olwenkana :date.",
     "date_format": "Ennimiro eno tekwatagana na nkola :format.",

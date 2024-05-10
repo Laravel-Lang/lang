@@ -19,6 +19,7 @@
     "boolean": "A(z) :attribute mező csak true vagy false értéket kaphat!",
     "can": "A :attribute-es mező nem engedélyezett értéket tartalmaz.",
     "confirmed": "A(z) :attribute nem egyezik a megerősítéssel.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "A jelszó helytelen.",
     "date": "A(z) :attribute nem érvényes dátum.",
     "date_equals": ":Attribute meg kell egyezzen a következővel: :date.",

@@ -19,6 +19,7 @@
     "boolean": ":Attribute પ્રવૃત્તિ ક્ષેત્ર ખરું કે ખોટું હોવું જોઈએ.",
     "can": ":Attribute ફીલ્ડમાં અનધિકૃત મૂલ્ય છે.",
     "confirmed": ":Attribute પુષ્ટિકરણ બંધબેસતું નથી.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "પાસવર્ડ ખોટો છે.",
     "date": ":Attribute માન્ય તારીખ નથી.",
     "date_equals": ":Attribute સમાંતર તારીખ હોવી જોઈએ :તારીખ.",

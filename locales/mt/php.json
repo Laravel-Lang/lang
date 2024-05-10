@@ -19,6 +19,7 @@
     "boolean": "Il-qasam :attribute għandu jkun veru jew falz.",
     "can": "Il-qasam :attribute fih valur mhux awtorizzat.",
     "confirmed": "Il-konferma :attribute ma taqbilx.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Il-password mhix korretta.",
     "date": "L-:attribute mhix data valida.",
     "date_equals": "L-:attribute għandhom ikunu data ugwali għal :date.",

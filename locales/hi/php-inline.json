@@ -19,6 +19,7 @@
     "boolean": "यह क्षेत्र सही या गलत होना चाहिए ।",
     "can": "इस फ़ील्ड में एक अनधिकृत मान है.",
     "confirmed": "पुष्टि मेल नहीं खाती ।",
+    "contains": "This field is missing a required value.",
     "date": "यह एक वैध तारीख नहीं है ।",
     "date_equals": "यह :date के बराबर तारीख होनी चाहिए ।",
     "date_format": "यह प्रारूप :format से मेल नहीं खाता है ।",

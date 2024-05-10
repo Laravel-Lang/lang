@@ -19,6 +19,7 @@
     "boolean": "trueまたはfalseを指定してください。",
     "can": "権限のない値が含まれています。",
     "confirmed": "確認の内容が一致しません。",
+    "contains": "This field is missing a required value.",
     "date": "有効な日付ではありません。",
     "date_equals": ":Date 同じ日付を指定してください。",
     "date_format": ":Format の形と一致しません。",

@@ -19,6 +19,7 @@
     "boolean": "Kjo fushë duhet të jetë e vërtetë ose e gabuar",
     "can": "Kjo fushë përmban një vlerë të paautorizuar.",
     "confirmed": "Konfirmimi nuk përputhet.",
+    "contains": "This field is missing a required value.",
     "date": "Kjo nuk është një datë e saktë.",
     "date_equals": "Kjo duhet të jetë datë e barabartë me :date.",
     "date_format": "Kjo nuk i përshtatet formatit :format.",

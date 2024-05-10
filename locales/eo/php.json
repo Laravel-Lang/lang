@@ -19,6 +19,7 @@
     "boolean": "La :attribute-kampo devas esti vera aŭ falsa.",
     "can": "La :attribute-kampo enhavas neaŭtorizitan valoron.",
     "confirmed": "La :attribute-konfirmo ne kongruas.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "La pasvorto estas malĝusta.",
     "date": "La :attribute ne estas valida dato.",
     "date_equals": "La :attribute devas esti dato egala al :date.",

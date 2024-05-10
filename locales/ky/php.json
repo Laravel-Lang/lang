@@ -19,6 +19,7 @@
     "boolean": ":attribute талаасы чын же жалган болушу керек.",
     "can": ":attribute талаасында уруксатсыз маани бар.",
     "confirmed": ":attribute ырастоо дал келбейт.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Сырсөз туура эмес.",
     "date": ":attribute жарактуу дата эмес.",
     "date_equals": ":attribute :dateга барабар күн болушу керек.",

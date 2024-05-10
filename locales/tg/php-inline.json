@@ -19,6 +19,7 @@
     "boolean": "Ин соҳа бояд бошад, ҳақ е бардурӯғ.",
     "can": "Ин майдон дорои арзиши беиҷозат аст.",
     "confirmed": "Тасдиқи мувофиқ нест.",
+    "contains": "This field is missing a required value.",
     "date": "Ин действительная таърих.",
     "date_equals": "Ин бояд сана, баробар ба :date сол.",
     "date_format": "Ин ба формату :format.",

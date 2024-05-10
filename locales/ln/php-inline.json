@@ -19,6 +19,7 @@
     "boolean": "Esika oyo esengeli kozala ya solo to ya lokuta.",
     "can": "Esika oyo ezali na motuya oyo epesami ndingisa te.",
     "confirmed": "Bondimisi ya esika oyo ekokani te.",
+    "contains": "This field is missing a required value.",
     "date": "Esika oyo ezali dati ya malamu te.",
     "date_equals": "Esika oyo esengeli kozala dati oyo ekokani na :date.",
     "date_format": "Esika oyo ekokani te na format :format.",

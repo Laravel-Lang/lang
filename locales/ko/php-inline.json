@@ -19,6 +19,7 @@
     "boolean": "이 필드는 true 또는 false 이어야 합니다.",
     "can": "이 필드에는 승인되지 않은 값이 포함되어 있습니다.",
     "confirmed": "확인 항목이 일치하지 않습니다.",
+    "contains": "This field is missing a required value.",
     "date": "유효한 날짜가 아닙니다.",
     "date_equals": ":Date과(와) 같은날짜여야합니다.",
     "date_format": ":Format 형식과 일치하지 않습니다.",

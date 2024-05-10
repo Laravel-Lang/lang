@@ -19,6 +19,7 @@
     "boolean": "Widang :attribute kedah leres atanapi salah.",
     "can": "Widang :attribute ngandung nilai anu henteu sah.",
     "confirmed": ":attribute konfirmasi teu cocog.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Sandi lepat.",
     "date": ":attribute sanes tanggal valid.",
     "date_equals": ":attribute kedah janten tanggal anu sami sareng :date.",

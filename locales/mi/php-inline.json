@@ -19,6 +19,7 @@
     "boolean": "Me pono, he teka ranei tenei mara.",
     "can": "Kei roto i tenei mara he uara kore mana.",
     "confirmed": "Kāore tēnei whakaū āpure i te ōrite.",
+    "contains": "This field is missing a required value.",
     "date": "Ehara tenei mara i te ra whaimana.",
     "date_equals": "Ko tenei mara he ra rite ki te :date.",
     "date_format": "Kāore tēnei āpure i te ōrite ki te hōputu :format.",

@@ -19,6 +19,7 @@
     "boolean": ":Attribute은(는) true 또는 false 이어야 합니다.",
     "can": ":Attribute 필드에 승인되지 않은 값이 포함되어 있습니다.",
     "confirmed": ":Attribute 확인 항목이 일치하지 않습니다.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "패스워드가 일치하지 않습니다.",
     "date": ":Attribute은(는) 유효한 날짜가 아닙니다.",
     "date_equals": ":Attribute은(는) :date과(와) 같은날짜여야합니다.",

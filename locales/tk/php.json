@@ -19,6 +19,7 @@
     "boolean": ":Attribute diňe dogry ýada ýalňyş bolmalydyr.",
     "can": ":Attribute meýdanda birugsat baha bar.",
     "confirmed": ":Attribute tassyklamasy deň däl.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Parol nädogry",
     "date": ":Attribute dogry sene bolmalydyr.",
     "date_equals": ":Attribute-i :date-e deň bolan sene bolmaly.",

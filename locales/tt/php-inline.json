@@ -19,6 +19,7 @@
     "boolean": "Бу өлкә дөрес яки ялган булырга тиеш.",
     "can": "Бу кырда рөхсәтсез кыйммәт бар.",
     "confirmed": "Бу кырны раслау туры килми.",
+    "contains": "This field is missing a required value.",
     "date": "Бу кыр дөрес дата түгел.",
     "date_equals": "Бу кыр :dateга тигез дата булырга тиеш.",
     "date_format": "Бу кыр :format форматына туры килми.",

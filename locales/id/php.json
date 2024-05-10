@@ -19,6 +19,7 @@
     "boolean": ":Attribute harus bernilai true atau false",
     "can": "Bidang :attribute berisi nilai yang tidak sah.",
     "confirmed": "Konfirmasi :attribute tidak cocok.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Kata sandi salah.",
     "date": ":Attribute bukan tanggal yang valid.",
     "date_equals": ":Attribute harus berisi tanggal yang sama dengan :date.",

@@ -19,6 +19,7 @@
     "boolean": "Iyi ndima inofanira kuva yechokwadi kana yenhema.",
     "can": "Iyi ndima ine kukosha kusingatenderwe.",
     "confirmed": "Simbiso yendima iyi haienderane.",
+    "contains": "This field is missing a required value.",
     "date": "Nzvimbo iyi harisi zuva rinoshanda.",
     "date_equals": "Iyi ndima inofanirwa kunge iri zuva rakaenzana negumi.",
     "date_format": "Iyi ndima haienderane nefomati :format.",

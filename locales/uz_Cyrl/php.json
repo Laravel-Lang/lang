@@ -19,6 +19,7 @@
     "boolean": ":Attribute майдони фақат мантиқий қийматни қабул қилади.",
     "can": ":Attribute-maydonda ruxsat etilmagan qiymat mavjud.",
     "confirmed": ":Attribute тасдиқлангани билан мос келмади.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Parol noto'g'ri.",
     "date": ":Attribute сана эмас.",
     "date_equals": ":Attribute сана :date га тенг бўлиши керак.",

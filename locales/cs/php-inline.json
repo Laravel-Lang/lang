@@ -19,6 +19,7 @@
     "boolean": "Toto pole musí být pravdivé nebo nepravdivé.",
     "can": "Toto pole obsahuje neautorizovanou hodnotu.",
     "confirmed": "Potvrzení neodpovídá.",
+    "contains": "This field is missing a required value.",
     "date": "Toto není platné datum.",
     "date_equals": "Toto musí být Datum rovnající se :date.",
     "date_format": "To neodpovídá formátu :format.",

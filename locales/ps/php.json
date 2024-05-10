@@ -19,6 +19,7 @@
     "boolean": "دا باید ارزښت وي :attribute او یا هم true یا false .",
     "can": ":Attribute ساحه یو غیر مجاز ارزښت لري.",
     "confirmed": "د تایید ساحه د ساحې سره سمون نه لري:attribute.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "پټنوم غلط دی.",
     "date": ":Attribute نېټه اعتبار نلري .",
     "date_equals": "دا باید وي :attribute د نیټې سره سم:date.",

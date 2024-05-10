@@ -19,6 +19,7 @@
     "boolean": "Dirreen :attribute dhugaa ykn soba ta'uu qaba.",
     "can": "Dirreen :attribute gatii hin hayyamamne of keessaa qaba.",
     "confirmed": "Mirkaneessi :attribute wal hin simne.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Jechi icciitii sirrii miti.",
     "date": ":attributen guyyaa sirrii miti.",
     "date_equals": ":attributen guyyaa :date waliin walqixa ta’uu qaba.",

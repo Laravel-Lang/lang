@@ -19,6 +19,7 @@
     "boolean": "Caithfidh an réimse :attribute a bheith fíor nó bréagach.",
     "can": "Tá luach neamhúdaraithe sa réimse :attribute.",
     "confirmed": "Ní hionann an :attribute gcinneadh.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Tá an pasfhocal mícheart.",
     "date": "Ní dáta bailí é an :attribute mbliana.",
     "date_equals": "Caithfidh an :attribute dáta a bheith comhionann le :date.",

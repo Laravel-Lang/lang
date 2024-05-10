@@ -19,6 +19,7 @@
     "boolean": "Dëst Feld muss richteg oder falsch sinn.",
     "can": "Dëst Feld enthält en onerlaabten Wäert.",
     "confirmed": "Dëst Feld Confirmatiouns passt net.",
+    "contains": "This field is missing a required value.",
     "date": "Dëst Feld ass net e gültege Datum.",
     "date_equals": "Dëst Feld muss en Datum gläich wéi :date sinn.",
     "date_format": "Dëst Feld entsprécht net dem Format :format.",

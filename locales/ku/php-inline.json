@@ -19,6 +19,7 @@
     "boolean": "Divê ev qad rast an derew be.",
     "can": "Di vê qadê de nirxek bêdestûr heye.",
     "confirmed": "Ev erêkirina zeviyê li hev nayê.",
+    "contains": "This field is missing a required value.",
     "date": "Ev qad ne dîrokek derbasdar e.",
     "date_equals": "Divê ev zevî dîrokek bi qasî :date be.",
     "date_format": "Ev qad bi formata :format-ê re nayê hev.",

@@ -19,6 +19,7 @@
     "boolean": ":Attribute må vere sann eller usann.",
     "can": ":Attribute-feltet inneholder en uautorisert verdi.",
     "confirmed": ":Attribute er ikkje likt feltet for stadfesting.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Passordet er feil.",
     "date": ":Attribute er ikkje ein gyldig dato.",
     "date_equals": ":Attribute må vere ein dato lik :date.",

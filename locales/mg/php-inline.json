@@ -19,6 +19,7 @@
     "boolean": "Tokony ho marina na diso io saha io.",
     "can": "Ity saha ity dia misy sanda tsy nahazoana alalana.",
     "confirmed": "Ity fanamafisana saha ity dia tsy mifanaraka.",
+    "contains": "This field is missing a required value.",
     "date": "Ity saha ity dia tsy daty manan-kery.",
     "date_equals": "Ity saha ity dia tokony ho daty mitovy amin'ny :date.",
     "date_format": "Ity saha ity dia tsy mifanaraka amin'ny endrika :format.",

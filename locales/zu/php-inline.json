@@ -19,6 +19,7 @@
     "boolean": "Le nkambu kufanele ibe yiqiniso noma amanga.",
     "can": "Le nkambu iqukethe inani elingagunyaziwe.",
     "confirmed": "Lokhu kuqinisekiswa kwenkambu akufani.",
+    "contains": "This field is missing a required value.",
     "date": "Le nkambu akulona idethi evumelekile.",
     "date_equals": "Le nkambu kufanele ibe idethi elingana no-:date.",
     "date_format": "Le nkambu ayifani nefomethi :format.",

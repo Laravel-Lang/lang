@@ -19,6 +19,7 @@
     "boolean": "Isian ini harus berisi true atau false.",
     "can": "Bidang ini berisi nilai yang tidak sah.",
     "confirmed": "Konfirmasi tidak sesuai.",
+    "contains": "This field is missing a required value.",
     "date": "Isian ini bukan tanggal yang benar.",
     "date_equals": "Isian ini harus berisi tanggal yang sama dengan :date.",
     "date_format": "Isian ini tidak cocok dengan format :format.",

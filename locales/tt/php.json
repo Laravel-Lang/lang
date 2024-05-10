@@ -19,6 +19,7 @@
     "boolean": ":attribute кыр дөрес яки ялган булырга тиеш.",
     "can": ":attribute кырда рөхсәтсез кыйммәт бар.",
     "confirmed": ":attribute раслау туры килми.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Серсүз дөрес түгел.",
     "date": ":attribute - дөрес дата түгел.",
     "date_equals": ":attribute датага :date булырга тиеш.",

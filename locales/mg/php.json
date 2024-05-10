@@ -19,6 +19,7 @@
     "boolean": "Ny saha :attribute dia tokony ho marina na diso.",
     "can": "Ny saha :attribute dia misy sanda tsy nahazoana alalana.",
     "confirmed": "Ny fanamafisana :attribute dia tsy mifanaraka.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Diso ny tenimiafina.",
     "date": "Ny :attribute dia tsy daty manan-kery.",
     "date_equals": "Ny :attribute dia tokony ho daty mitovy amin'ny :date.",

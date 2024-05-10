@@ -19,6 +19,7 @@
     "boolean": ":Attribute musí byť pravda alebo nepravda.",
     "can": "Pole :attribute obsahuje neoprávnenú hodnotu.",
     "confirmed": ":Attribute konfirmácia sa nezhoduje.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Heslo je nesprávne.",
     "date": ":Attribute má neplatný dátum.",
     "date_equals": ":Attribute musí byť dátum rovnajúci sa :date.",

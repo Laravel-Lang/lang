@@ -19,6 +19,7 @@
     "boolean": "මේ ක්ෂේත්‍රය විය යුතුය, සැබෑ හෝ බොරු.",
     "can": "මෙම ක්ෂේත්‍රයේ අනවසර අගයක් ඇත.",
     "confirmed": "තහවුරු නොගැලපේ.",
+    "contains": "This field is missing a required value.",
     "date": "මෙම වලංගු වන දිනය.",
     "date_equals": "මෙම විය යුතුය දිනය සමාන :date.",
     "date_format": "මේ නොගැලපේ ආකෘතිය :format.",

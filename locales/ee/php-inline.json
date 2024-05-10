@@ -19,6 +19,7 @@
     "boolean": "Ele be agble sia nanye nyateƒe alo alakpa.",
     "can": "Asixɔxɔ si ŋu womeɖe mɔ ɖo o le agble sia me.",
     "confirmed": "Agble ƒe kpeɖodzi sia mewɔ ɖeka o.",
+    "contains": "This field is missing a required value.",
     "date": "Agble sia menye ŋkeke si sɔ o.",
     "date_equals": "Ele be agble sia nanye ŋkeke si sɔ kple :date.",
     "date_format": "Agble sia mewɔ ɖeka kple ɖoɖo :format lia o.",

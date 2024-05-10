@@ -19,6 +19,7 @@
     "boolean": "১০ ক্ষেত্ৰখন সঁচা বা মিছা হ’ব লাগিব।",
     "can": ":attribute ফিল্ডত এটা অকৰ্তৃত্বশীল মান থাকে।",
     "confirmed": "১০ টা নিশ্চিতকৰণৰ মিল নাই।",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "পাছৱৰ্ডটো ভুল।",
     "date": "১০ তাৰিখৰ বৈধ তাৰিখ নহয়।",
     "date_equals": "১০ ৰ তাৰিখ ২০ ৰ সমান হব লাগিব।",

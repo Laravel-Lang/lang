@@ -19,6 +19,7 @@
     "boolean": "El camp :attribute ha de ser verdader o fals",
     "can": "El camp :attribute conté un valor no autoritzat.",
     "confirmed": "La confirmació de :attribute no coincideix.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "La contrasenya és incorrecta.",
     "date": ":Attribute no és una data vàlida.",
     "date_equals": "El :attribute ha de ser una data igual a :date.",

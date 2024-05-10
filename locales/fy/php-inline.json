@@ -19,6 +19,7 @@
     "boolean": "Dit fjild moat wier of falsk wêze.",
     "can": "Dit fjild befettet in net autorisearre wearde.",
     "confirmed": "Dit fjild befêstiging komt net oerien.",
+    "contains": "This field is missing a required value.",
     "date": "Dit fjild is gjin jildige datum.",
     "date_equals": "Dit fjild moat in datum wêze gelyk oan :date.",
     "date_format": "Dit fjild komt net oerien mei de opmaak :format.",

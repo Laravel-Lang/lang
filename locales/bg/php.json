@@ -19,6 +19,7 @@
     "boolean": "Полето :attribute трябва да съдържа Да или Не",
     "can": "Полето :attribute съдържа неразрешена стойност.",
     "confirmed": "Полето :attribute не е потвърдено.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "Паролата е неправилна.",
     "date": "Полето :attribute не е валидна дата.",
     "date_equals": ":Attribute трябва да бъде дата, еднаква с :date.",

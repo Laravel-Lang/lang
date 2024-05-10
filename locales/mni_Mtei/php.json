@@ -19,6 +19,7 @@
     "boolean": "꯱꯰ꯒꯤ ꯂꯝ ꯑꯁꯤ ꯑꯆꯨꯝꯕꯥ ꯅꯠꯔꯒꯥ ꯑꯔꯥꯅꯕꯥ ꯑꯣꯏꯒꯗꯕꯅꯤ꯫",
     "can": ":attribute ꯐꯤꯜꯗ ꯑꯗꯨꯗꯥ ꯑꯌꯥꯕꯥ ꯄꯤꯗꯕꯥ ꯚꯦꯜꯌꯨ ꯑꯃꯥ ꯌꯥꯎꯏ꯫",
     "confirmed": "꯱꯰ ꯀꯅꯐꯥꯔꯃꯦꯁꯟ ꯑꯁꯤ ꯃꯥꯟꯅꯗꯦ꯫",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "ꯄꯥꯁꯋꯥꯔꯗ ꯑꯗꯨ ꯑꯁꯣꯌꯕꯥ ꯑꯣꯏꯔꯦ꯫",
     "date": "꯱꯰ ꯑꯁꯤ ꯆꯠꯅꯕꯥ ꯌꯥꯕꯥ ꯇꯥꯡ ꯑꯃꯅꯤ꯫",
     "date_equals": "꯱꯰ ꯑꯁꯤ ꯲꯰ꯒꯥ ꯃꯥꯟꯅꯕꯥ ꯇꯥꯡ ꯑꯃꯥ ꯑꯣꯏꯒꯗꯕꯅꯤ꯫",

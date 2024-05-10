@@ -19,6 +19,7 @@
     "boolean": ":attribute ఫీల్డ్ తప్పక నిజం లేదా తప్పు అయి ఉండాలి.",
     "can": ":attribute ఫీల్డ్ అనధికార విలువను కలిగి ఉంది.",
     "confirmed": ":attribute నిర్ధారణ సరిపోలలేదు.",
+    "contains": "The :attribute field is missing a required value.",
     "current_password": "పాస్వర్డ్ తప్పు.",
     "date": ":attribute చెల్లుబాటు అయ్యే తేదీ కాదు.",
     "date_equals": ":attribute తప్పనిసరిగా :dateకి సమానమైన తేదీగా ఉండాలి.",

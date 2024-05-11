@@ -4,7 +4,7 @@ editLink: false
 
 # uz_Latn
 
-##### All missed: 403
+##### All missed: 405
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 336
+##### Missing: 338
 
 <table width="100%">
 <tr><th width="50%">
@@ -997,6 +997,15 @@ Error
 </td></tr>
 <tr><td width="50%">
 
+errors
+
+</td><td width="50%">
+
+errors
+
+</td></tr>
+<tr><td width="50%">
+
 Ethiopia
 
 </td><td width="50%">
@@ -1326,6 +1335,15 @@ Loading
 </td><td width="50%">
 
 Loading
+
+</td></tr>
+<tr><td width="50%">
+
+Location
+
+</td><td width="50%">
+
+Location
 
 </td></tr>
 <tr><td width="50%">

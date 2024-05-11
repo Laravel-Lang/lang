@@ -29,7 +29,7 @@
         "symfony/var-dumper": "^6.0 || ^7.0"
     },
     "conflict": {
-        "laravel/framework": "<10 >=11.0.7"
+        "laravel/framework": "<10 || >=11.0.7"
     },
     "minimum-stability": "stable",
     "prefer-stable": true,

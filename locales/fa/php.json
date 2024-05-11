@@ -19,7 +19,7 @@
     "boolean": "فیلد :attribute فقط می‌تواند true و یا false باشد.",
     "can": "فیلد :attribute یک مقدار غیرمجاز دارد.",
     "confirmed": ":Attribute با فیلد تکرار مطابقت ندارد.",
-    "contains": "The :attribute field is missing a required value.",
+    "contains": "فیلد :Attribute مقدار لازم را ندارد.",
     "current_password": "رمزعبور اشتباه است.",
     "date": ":Attribute یک تاریخ معتبر نیست.",
     "date_equals": ":Attribute باید یک تاریخ برابر با تاریخ :date باشد.",

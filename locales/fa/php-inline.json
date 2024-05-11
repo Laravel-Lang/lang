@@ -19,7 +19,7 @@
     "boolean": "این مقدار باید حتما true و یا false باشد.",
     "can": "این مقدار غیرمجاز است.",
     "confirmed": "با مقدار تکرار همخوانی ندارد.",
-    "contains": "This field is missing a required value.",
+    "contains": "این فیلد دارای مقدار لازم نمی باشد.",
     "date": "این مقدار یک تاریخ معبتر نیست.",
     "date_equals": "این مقدار باید یک تاریخ مساوی با :date باشد.",
     "date_format": "این مقدار با فرمت :format همخوانی ندارد.",

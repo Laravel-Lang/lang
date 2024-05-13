@@ -314,7 +314,7 @@ editLink: false
 
 </td><td width="12%">
 
-[nl&nbsp;❗](statuses/nl.md)
+[nl&nbsp;✔](statuses/nl.md)
 
 </td><td width="12%">
 

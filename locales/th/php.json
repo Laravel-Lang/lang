@@ -19,7 +19,7 @@
     "boolean": "ข้อมูล :attribute ต้องเป็นจริงหรือเท็จเท่านั้น",
     "can": "ช่องข้อมูล :attribute มีค่าที่ไม่ได้รับอนุญาต",
     "confirmed": "ข้อมูล :attribute ไม่ตรงกัน",
-    "contains": "The :attribute field is missing a required value.",
+    "contains": "ช่องข้อมูล :attribute นี้ยังขาดข้อมูลที่ต้องกรอก",
     "current_password": "รหัสผ่านไม่ถูกต้อง",
     "date": "ข้อมูล :attribute ต้องเป็นวันที่",
     "date_equals": "ข้อมูล :attribute ต้องเป็นวันที่ที่เท่ากับ :date",

@@ -28,6 +28,9 @@
         "phpunit/phpunit": "^10.0",
         "symfony/var-dumper": "^7.0"
     },
+    "conflict": {
+        "laravel/framework": "<11.0.7"
+    },
     "minimum-stability": "stable",
     "prefer-stable": true,
     "autoload": {

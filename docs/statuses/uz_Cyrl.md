@@ -4,12 +4,12 @@ editLink: false
 
 # uz_Cyrl
 
-##### All missed: 38
+##### All missed: 39
 
 
 ### json
 
-##### Missing: 34
+##### Missing: 35
 
 <table width="100%">
 <tr><th width="50%">
@@ -163,6 +163,15 @@ Kosovo
 </td><td width="50%">
 
 Kosovo
+
+</td></tr>
+<tr><td width="50%">
+
+length
+
+</td><td width="50%">
+
+length
 
 </td></tr>
 <tr><td width="50%">

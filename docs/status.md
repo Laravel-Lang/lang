@@ -120,7 +120,7 @@ editLink: false
 
 </td><td width="12%">
 
-[fa&nbsp;❗](statuses/fa.md)
+[fa&nbsp;✔](statuses/fa.md)
 
 </td><td width="12%">
 

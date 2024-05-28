@@ -4,7 +4,7 @@ editLink: false
 
 # Completion Status
 
-> Translation of localizations is completed by **94.27%** (133K / 141.1K).
+> Translation of localizations is completed by **94.19%** (133K / 141.3K).
 
 <table width="100%">
 <tr><td width="12%">
@@ -21,7 +21,7 @@ editLink: false
 
 </td><td width="12%">
 
-[ar&nbsp;✔](statuses/ar.md)
+[ar&nbsp;❗](statuses/ar.md)
 
 </td><td width="12%">
 
@@ -50,7 +50,7 @@ editLink: false
 
 </td><td width="12%">
 
-[bn&nbsp;✔](statuses/bn.md)
+[bn&nbsp;❗](statuses/bn.md)
 
 </td><td width="12%">
 
@@ -120,7 +120,7 @@ editLink: false
 
 </td><td width="12%">
 
-[fa&nbsp;✔](statuses/fa.md)
+[fa&nbsp;❗](statuses/fa.md)
 
 </td><td width="12%">
 
@@ -314,7 +314,7 @@ editLink: false
 
 </td><td width="12%">
 
-[nl&nbsp;✔](statuses/nl.md)
+[nl&nbsp;❗](statuses/nl.md)
 
 </td><td width="12%">
 
@@ -363,7 +363,7 @@ editLink: false
 
 </td><td width="12%">
 
-[ru&nbsp;✔](statuses/ru.md)
+[ru&nbsp;❗](statuses/ru.md)
 
 </td><td width="12%">
 
@@ -446,7 +446,7 @@ editLink: false
 
 </td><td width="12%">
 
-[th&nbsp;✔](statuses/th.md)
+[th&nbsp;❗](statuses/th.md)
 
 </td><td width="12%">
 
@@ -475,7 +475,7 @@ editLink: false
 
 </td><td width="12%">
 
-[uk&nbsp;✔](statuses/uk.md)
+[uk&nbsp;❗](statuses/uk.md)
 
 </td><td width="12%">
 

@@ -30,6 +30,7 @@ class Plugin extends Provider
 
         Plugins\Nova\LogViewer\Main::class,
         Plugins\Nova\V4::class,
+        Plugins\Nova\V5::class,
 
         Plugins\Nova\DuskSuite\Main::class,
 

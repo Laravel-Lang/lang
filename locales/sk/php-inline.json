@@ -65,7 +65,7 @@
     "lt.string": "Toto pole musí mať menej znakov ako :value.",
     "lte.array": "Toto pole musí mať rovnaký alebo menší počet položiek ako :value.",
     "lte.file": "Toto pole musí mať rovnaký alebo menší počet kB ako :value.",
-    "lte.numeric": "Hodnota :attribute musí byť menšia alebo rovná ako :value.",
+    "lte.numeric": "Hodnota musí byť menšia alebo rovná ako :value.",
     "lte.string": "Toto pole musí mať rovnaký alebo menší počet znakov ako :value.",
     "mac_address": "Toto pole musí byť platná MAC adresa.",
     "max.array": "Toto pole nemôže mať viac ako :max položiek.",

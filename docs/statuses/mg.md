@@ -4,12 +4,12 @@ editLink: false
 
 # mg
 
-##### All missed: 121
+##### All missed: 127
 
 
 ### json
 
-##### Missing: 117
+##### Missing: 123
 
 <table width="100%">
 <tr><th width="50%">
@@ -28,6 +28,15 @@ Value
 </td><td width="50%">
 
 :amount Total
+
+</td></tr>
+<tr><td width="50%">
+
+A decryption key is required.
+
+</td><td width="50%">
+
+A decryption key is required.
 
 </td></tr>
 <tr><td width="50%">
@@ -248,6 +257,42 @@ El Salvador
 </td></tr>
 <tr><td width="50%">
 
+Encrypted environment file already exists.
+
+</td><td width="50%">
+
+Encrypted environment file already exists.
+
+</td></tr>
+<tr><td width="50%">
+
+Encrypted environment file not found.
+
+</td><td width="50%">
+
+Encrypted environment file not found.
+
+</td></tr>
+<tr><td width="50%">
+
+Environment file already exists.
+
+</td><td width="50%">
+
+Environment file already exists.
+
+</td></tr>
+<tr><td width="50%">
+
+Environment file not found.
+
+</td><td width="50%">
+
+Environment file not found.
+
+</td></tr>
+<tr><td width="50%">
+
 Estonia
 
 </td><td width="50%">
@@ -388,6 +433,15 @@ ID
 </td><td width="50%">
 
 ID
+
+</td></tr>
+<tr><td width="50%">
+
+Invalid filename.
+
+</td><td width="50%">
+
+Invalid filename.
 
 </td></tr>
 <tr><td width="50%">

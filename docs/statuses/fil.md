@@ -4,7 +4,7 @@ editLink: false
 
 # fil
 
-##### All missed: 244
+##### All missed: 250
 
 
 ### php
@@ -47,7 +47,7 @@ The :attribute field is required when :other is declined.
 
 ### json
 
-##### Missing: 240
+##### Missing: 246
 
 <table width="100%">
 <tr><th width="50%">
@@ -59,6 +59,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+A decryption key is required.
+
+</td><td width="50%">
+
+A decryption key is required.
+
+</td></tr>
 <tr><td width="50%">
 
 Action Target
@@ -637,6 +646,42 @@ Email Address
 </td></tr>
 <tr><td width="50%">
 
+Encrypted environment file already exists.
+
+</td><td width="50%">
+
+Encrypted environment file already exists.
+
+</td></tr>
+<tr><td width="50%">
+
+Encrypted environment file not found.
+
+</td><td width="50%">
+
+Encrypted environment file not found.
+
+</td></tr>
+<tr><td width="50%">
+
+Environment file already exists.
+
+</td><td width="50%">
+
+Environment file already exists.
+
+</td></tr>
+<tr><td width="50%">
+
+Environment file not found.
+
+</td><td width="50%">
+
+Environment file not found.
+
+</td></tr>
+<tr><td width="50%">
+
 Equatorial Guinea
 
 </td><td width="50%">
@@ -957,6 +1002,15 @@ Indonesia
 </td><td width="50%">
 
 Indonesia
+
+</td></tr>
+<tr><td width="50%">
+
+Invalid filename.
+
+</td><td width="50%">
+
+Invalid filename.
 
 </td></tr>
 <tr><td width="50%">

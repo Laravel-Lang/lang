@@ -4,12 +4,12 @@ editLink: false
 
 # cy
 
-##### All missed: 14
+##### All missed: 20
 
 
 ### json
 
-##### Missing: 10
+##### Missing: 16
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,6 +21,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+A decryption key is required.
+
+</td><td width="50%">
+
+A decryption key is required.
+
+</td></tr>
 <tr><td width="50%">
 
 Bolivia, Plurinational State of
@@ -46,6 +55,51 @@ Côte d'Ivoire
 </td><td width="50%">
 
 Côte d'Ivoire
+
+</td></tr>
+<tr><td width="50%">
+
+Encrypted environment file already exists.
+
+</td><td width="50%">
+
+Encrypted environment file already exists.
+
+</td></tr>
+<tr><td width="50%">
+
+Encrypted environment file not found.
+
+</td><td width="50%">
+
+Encrypted environment file not found.
+
+</td></tr>
+<tr><td width="50%">
+
+Environment file already exists.
+
+</td><td width="50%">
+
+Environment file already exists.
+
+</td></tr>
+<tr><td width="50%">
+
+Environment file not found.
+
+</td><td width="50%">
+
+Environment file not found.
+
+</td></tr>
+<tr><td width="50%">
+
+Invalid filename.
+
+</td><td width="50%">
+
+Invalid filename.
 
 </td></tr>
 <tr><td width="50%">

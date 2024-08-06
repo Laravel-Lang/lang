@@ -4,12 +4,12 @@ editLink: false
 
 # so
 
-##### All missed: 179
+##### All missed: 185
 
 
 ### json
 
-##### Missing: 175
+##### Missing: 181
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,6 +21,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+A decryption key is required.
+
+</td><td width="50%">
+
+A decryption key is required.
+
+</td></tr>
 <tr><td width="50%">
 
 Albania
@@ -383,6 +392,42 @@ El Salvador
 </td></tr>
 <tr><td width="50%">
 
+Encrypted environment file already exists.
+
+</td><td width="50%">
+
+Encrypted environment file already exists.
+
+</td></tr>
+<tr><td width="50%">
+
+Encrypted environment file not found.
+
+</td><td width="50%">
+
+Encrypted environment file not found.
+
+</td></tr>
+<tr><td width="50%">
+
+Environment file already exists.
+
+</td><td width="50%">
+
+Environment file already exists.
+
+</td></tr>
+<tr><td width="50%">
+
+Environment file not found.
+
+</td><td width="50%">
+
+Environment file not found.
+
+</td></tr>
+<tr><td width="50%">
+
 Equatorial Guinea
 
 </td><td width="50%">
@@ -631,6 +676,15 @@ Indonesia
 </td><td width="50%">
 
 Indonesia
+
+</td></tr>
+<tr><td width="50%">
+
+Invalid filename.
+
+</td><td width="50%">
+
+Invalid filename.
 
 </td></tr>
 <tr><td width="50%">

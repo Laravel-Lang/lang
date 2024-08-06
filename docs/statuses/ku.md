@@ -4,12 +4,12 @@ editLink: false
 
 # ku
 
-##### All missed: 83
+##### All missed: 89
 
 
 ### json
 
-##### Missing: 79
+##### Missing: 85
 
 <table width="100%">
 <tr><th width="50%">
@@ -32,6 +32,15 @@ Value
 </td></tr>
 <tr><td width="50%">
 
+A decryption key is required.
+
+</td><td width="50%">
+
+A decryption key is required.
+
+</td></tr>
+<tr><td width="50%">
+
 Actions
 
 </td><td width="50%">
@@ -185,6 +194,42 @@ email
 </td></tr>
 <tr><td width="50%">
 
+Encrypted environment file already exists.
+
+</td><td width="50%">
+
+Encrypted environment file already exists.
+
+</td></tr>
+<tr><td width="50%">
+
+Encrypted environment file not found.
+
+</td><td width="50%">
+
+Encrypted environment file not found.
+
+</td></tr>
+<tr><td width="50%">
+
+Environment file already exists.
+
+</td><td width="50%">
+
+Environment file already exists.
+
+</td></tr>
+<tr><td width="50%">
+
+Environment file not found.
+
+</td><td width="50%">
+
+Environment file not found.
+
+</td></tr>
+<tr><td width="50%">
+
 errors
 
 </td><td width="50%">
@@ -280,6 +325,15 @@ ID
 </td><td width="50%">
 
 ID
+
+</td></tr>
+<tr><td width="50%">
+
+Invalid filename.
+
+</td><td width="50%">
+
+Invalid filename.
 
 </td></tr>
 <tr><td width="50%">

@@ -4,12 +4,12 @@ editLink: false
 
 # uz_Cyrl
 
-##### All missed: 39
+##### All missed: 45
 
 
 ### json
 
-##### Missing: 35
+##### Missing: 41
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,6 +23,15 @@ Value
 </th></tr>
 <tr><td width="50%">
 
+A decryption key is required.
+
+</td><td width="50%">
+
+A decryption key is required.
+
+</td></tr>
+<tr><td width="50%">
+
 Administrator
 
 </td><td width="50%">
@@ -104,6 +113,42 @@ Chad
 </td></tr>
 <tr><td width="50%">
 
+Encrypted environment file already exists.
+
+</td><td width="50%">
+
+Encrypted environment file already exists.
+
+</td></tr>
+<tr><td width="50%">
+
+Encrypted environment file not found.
+
+</td><td width="50%">
+
+Encrypted environment file not found.
+
+</td></tr>
+<tr><td width="50%">
+
+Environment file already exists.
+
+</td><td width="50%">
+
+Environment file already exists.
+
+</td></tr>
+<tr><td width="50%">
+
+Environment file not found.
+
+</td><td width="50%">
+
+Environment file not found.
+
+</td></tr>
+<tr><td width="50%">
+
 Gabon
 
 </td><td width="50%">
@@ -145,6 +190,15 @@ ID
 </td><td width="50%">
 
 ID
+
+</td></tr>
+<tr><td width="50%">
+
+Invalid filename.
+
+</td><td width="50%">
+
+Invalid filename.
 
 </td></tr>
 <tr><td width="50%">

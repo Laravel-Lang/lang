@@ -4,12 +4,12 @@ editLink: false
 
 # et
 
-##### All missed: 10
+##### All missed: 16
 
 
 ### json
 
-##### Missing: 6
+##### Missing: 12
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,6 +21,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+A decryption key is required.
+
+</td><td width="50%">
+
+A decryption key is required.
+
+</td></tr>
 <tr><td width="50%">
 
 Cote D'Ivoire
@@ -37,6 +46,51 @@ Côte d'Ivoire
 </td><td width="50%">
 
 Côte d'Ivoire
+
+</td></tr>
+<tr><td width="50%">
+
+Encrypted environment file already exists.
+
+</td><td width="50%">
+
+Encrypted environment file already exists.
+
+</td></tr>
+<tr><td width="50%">
+
+Encrypted environment file not found.
+
+</td><td width="50%">
+
+Encrypted environment file not found.
+
+</td></tr>
+<tr><td width="50%">
+
+Environment file already exists.
+
+</td><td width="50%">
+
+Environment file already exists.
+
+</td></tr>
+<tr><td width="50%">
+
+Environment file not found.
+
+</td><td width="50%">
+
+Environment file not found.
+
+</td></tr>
+<tr><td width="50%">
+
+Invalid filename.
+
+</td><td width="50%">
+
+Invalid filename.
 
 </td></tr>
 <tr><td width="50%">

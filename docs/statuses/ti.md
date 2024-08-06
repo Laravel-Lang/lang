@@ -4,12 +4,12 @@ editLink: false
 
 # ti
 
-##### All missed: 8
+##### All missed: 14
 
 
 ### json
 
-##### Missing: 4
+##### Missing: 10
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,11 +23,65 @@ Value
 </th></tr>
 <tr><td width="50%">
 
+A decryption key is required.
+
+</td><td width="50%">
+
+A decryption key is required.
+
+</td></tr>
+<tr><td width="50%">
+
+Encrypted environment file already exists.
+
+</td><td width="50%">
+
+Encrypted environment file already exists.
+
+</td></tr>
+<tr><td width="50%">
+
+Encrypted environment file not found.
+
+</td><td width="50%">
+
+Encrypted environment file not found.
+
+</td></tr>
+<tr><td width="50%">
+
+Environment file already exists.
+
+</td><td width="50%">
+
+Environment file already exists.
+
+</td></tr>
+<tr><td width="50%">
+
+Environment file not found.
+
+</td><td width="50%">
+
+Environment file not found.
+
+</td></tr>
+<tr><td width="50%">
+
 Hold Up!
 
 </td><td width="50%">
 
 Hold Up!
+
+</td></tr>
+<tr><td width="50%">
+
+Invalid filename.
+
+</td><td width="50%">
+
+Invalid filename.
 
 </td></tr>
 <tr><td width="50%">

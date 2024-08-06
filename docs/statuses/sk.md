@@ -4,12 +4,12 @@ editLink: false
 
 # sk
 
-##### All missed: 67
+##### All missed: 62
 
 
 ### json
 
-##### Missing: 63
+##### Missing: 62
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,15 +23,6 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-A decryption key is required.
-
-</td><td width="50%">
-
-A decryption key is required.
-
-</td></tr>
-<tr><td width="50%">
-
 Angola
 
 </td><td width="50%">
@@ -127,6 +118,15 @@ December
 </td><td width="50%">
 
 December
+
+</td></tr>
+<tr><td width="50%">
+
+Dominica
+
+</td><td width="50%">
+
+Dominica
 
 </td></tr>
 <tr><td width="50%">
@@ -311,15 +311,6 @@ India
 </td></tr>
 <tr><td width="50%">
 
-Invalid filename.
-
-</td><td width="50%">
-
-Invalid filename.
-
-</td></tr>
-<tr><td width="50%">
-
 Jersey
 
 </td><td width="50%">
@@ -334,15 +325,6 @@ Kiribati
 </td><td width="50%">
 
 Kiribati
-
-</td></tr>
-<tr><td width="50%">
-
-length
-
-</td><td width="50%">
-
-length
 
 </td></tr>
 <tr><td width="50%">
@@ -460,6 +442,15 @@ Peru
 </td><td width="50%">
 
 Peru
+
+</td></tr>
+<tr><td width="50%">
+
+Reunion
+
+</td><td width="50%">
+
+Réunion
 
 </td></tr>
 <tr><td width="50%">
@@ -586,82 +577,6 @@ Zimbabwe
 </td><td width="50%">
 
 Zimbabwe
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php-inline
-
-##### Missing: 2
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-contains
-
-</td><td width="50%">
-
-This field is missing a required value.
-
-</td></tr>
-<tr><td width="50%">
-
-required_if_declined
-
-</td><td width="50%">
-
-This field is required when :other is declined.
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php
-
-##### Missing: 2
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-contains
-
-</td><td width="50%">
-
-The :attribute field is missing a required value.
-
-</td></tr>
-<tr><td width="50%">
-
-required_if_declined
-
-</td><td width="50%">
-
-The :attribute field is required when :other is declined.
 
 </td></tr>
 </table>

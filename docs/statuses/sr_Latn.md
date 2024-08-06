@@ -4,7 +4,7 @@ editLink: false
 
 # sr_Latn
 
-##### All missed: 327
+##### All missed: 333
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 260
+##### Missing: 266
 
 <table width="100%">
 <tr><th width="50%">
@@ -192,6 +192,15 @@ Value
 </td><td width="50%">
 
 365 Days
+
+</td></tr>
+<tr><td width="50%">
+
+A decryption key is required.
+
+</td><td width="50%">
+
+A decryption key is required.
 
 </td></tr>
 <tr><td width="50%">
@@ -772,6 +781,42 @@ Employee
 </td></tr>
 <tr><td width="50%">
 
+Encrypted environment file already exists.
+
+</td><td width="50%">
+
+Encrypted environment file already exists.
+
+</td></tr>
+<tr><td width="50%">
+
+Encrypted environment file not found.
+
+</td><td width="50%">
+
+Encrypted environment file not found.
+
+</td></tr>
+<tr><td width="50%">
+
+Environment file already exists.
+
+</td><td width="50%">
+
+Environment file already exists.
+
+</td></tr>
+<tr><td width="50%">
+
+Environment file not found.
+
+</td><td width="50%">
+
+Environment file not found.
+
+</td></tr>
+<tr><td width="50%">
+
 Error
 
 </td><td width="50%">
@@ -921,6 +966,15 @@ Impersonate
 </td><td width="50%">
 
 Impersonate
+
+</td></tr>
+<tr><td width="50%">
+
+Invalid filename.
+
+</td><td width="50%">
+
+Invalid filename.
 
 </td></tr>
 <tr><td width="50%">

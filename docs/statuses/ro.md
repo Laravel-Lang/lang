@@ -4,12 +4,12 @@ editLink: false
 
 # ro
 
-##### All missed: 126
+##### All missed: 121
 
 
 ### json
 
-##### Missing: 122
+##### Missing: 117
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,15 +21,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-A decryption key is required.
-
-</td><td width="50%">
-
-A decryption key is required.
-
-</td></tr>
 <tr><td width="50%">
 
 Administrator
@@ -352,42 +343,6 @@ Editor
 </td><td width="50%">
 
 Editor
-
-</td></tr>
-<tr><td width="50%">
-
-Encrypted environment file already exists.
-
-</td><td width="50%">
-
-Encrypted environment file already exists.
-
-</td></tr>
-<tr><td width="50%">
-
-Encrypted environment file not found.
-
-</td><td width="50%">
-
-Encrypted environment file not found.
-
-</td></tr>
-<tr><td width="50%">
-
-Environment file already exists.
-
-</td><td width="50%">
-
-Environment file already exists.
-
-</td></tr>
-<tr><td width="50%">
-
-Environment file not found.
-
-</td><td width="50%">
-
-Environment file not found.
 
 </td></tr>
 <tr><td width="50%">

@@ -4,12 +4,12 @@ editLink: false
 
 # ku
 
-##### All missed: 89
+##### All missed: 95
 
 
 ### json
 
-##### Missing: 85
+##### Missing: 91
 
 <table width="100%">
 <tr><th width="50%">
@@ -95,6 +95,15 @@ Brunei Darussalam
 </td></tr>
 <tr><td width="50%">
 
+Change the current payment method attached to your subscription
+
+</td><td width="50%">
+
+Change the current payment method attached to your subscription
+
+</td></tr>
+<tr><td width="50%">
+
 Changes
 
 </td><td width="50%">
@@ -163,6 +172,15 @@ Download
 </td><td width="50%">
 
 Download
+
+</td></tr>
+<tr><td width="50%">
+
+Download Invoice
+
+</td><td width="50%">
+
+Download Invoice
 
 </td></tr>
 <tr><td width="50%">
@@ -311,6 +329,15 @@ Guyana
 </td></tr>
 <tr><td width="50%">
 
+Having second thoughts about cancelling your subscription? You can instantly reactivate your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
+
+</td><td width="50%">
+
+Having second thoughts about cancelling your subscription? You can instantly reactivate your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
+
+</td></tr>
+<tr><td width="50%">
+
 Hong Kong
 
 </td><td width="50%">
@@ -334,6 +361,15 @@ Invalid filename.
 </td><td width="50%">
 
 Invalid filename.
+
+</td></tr>
+<tr><td width="50%">
+
+Invoices
+
+</td><td width="50%">
+
+Invoices
 
 </td></tr>
 <tr><td width="50%">
@@ -784,6 +820,24 @@ Yemen
 </td><td width="50%">
 
 Yemen
+
+</td></tr>
+<tr><td width="50%">
+
+Your last payment of :amount failed. Please update your payment method to retry the failed payment.
+
+</td><td width="50%">
+
+Your last payment of :amount failed. Please update your payment method to retry the failed payment.
+
+</td></tr>
+<tr><td width="50%">
+
+Your subscription has been successfully cancelled. You will still have access until the end of your billing period.
+
+</td><td width="50%">
+
+Your subscription has been successfully cancelled. You will still have access until the end of your billing period.
 
 </td></tr>
 </table>

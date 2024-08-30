@@ -19,7 +19,7 @@
     "boolean": ":Attributeには、'true'か'false'を指定してください。",
     "can": ":Attributeに権限のない値が含まれています。",
     "confirmed": ":Attributeと:attribute確認が一致しません。",
-    "contains": "The :attribute field is missing a required value.",
+    "contains": ":Attributeに必須項目が含まれていません。",
     "current_password": "パスワードが正しくありません。",
     "date": ":Attributeは、正しい日付ではありません。",
     "date_equals": ":Attributeは:dateと同じ日付を入力してください。",

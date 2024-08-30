@@ -71,7 +71,7 @@
     "lte.string": ":Attribute nesmí být delší než :value znaků.",
     "mac_address": ":Attribute musí být platná adresa MAC.",
     "max.array": ":Attribute nemůže obsahovat více než :max prvků.",
-    "max.file": "Velikost souboru :attribute musí být menší než :value kB.",
+    "max.file": "Velikost souboru :attribute musí být menší než :max kB.",
     "max.numeric": ":Attribute nemůže být větší než :max.",
     "max.string": ":Attribute nemůže být delší než :max znaků.",
     "max_digits": "Číslo :attribute nesmí mít více než :max číslic.",

@@ -4,7 +4,7 @@ editLink: false
 
 # uz_Latn
 
-##### All missed: 406
+##### All missed: 414
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 339
+##### Missing: 347
 
 <table width="100%">
 <tr><th width="50%">
@@ -196,6 +196,15 @@ Value
 </td></tr>
 <tr><td width="50%">
 
+A decryption key is required.
+
+</td><td width="50%">
+
+A decryption key is required.
+
+</td></tr>
+<tr><td width="50%">
+
 A fresh verification link has been sent to your email address.
 
 </td><td width="50%">
@@ -696,6 +705,15 @@ Change Subscription Plan
 </td><td width="50%">
 
 Change Subscription Plan
+
+</td></tr>
+<tr><td width="50%">
+
+Change the current payment method attached to your subscription
+
+</td><td width="50%">
+
+Change the current payment method attached to your subscription
 
 </td></tr>
 <tr><td width="50%">
@@ -934,6 +952,15 @@ Detach
 </td></tr>
 <tr><td width="50%">
 
+Download Invoice
+
+</td><td width="50%">
+
+Download Invoice
+
+</td></tr>
+<tr><td width="50%">
+
 Download Receipt
 
 </td><td width="50%">
@@ -984,6 +1011,42 @@ Employee
 </td><td width="50%">
 
 Employee
+
+</td></tr>
+<tr><td width="50%">
+
+Encrypted environment file already exists.
+
+</td><td width="50%">
+
+Encrypted environment file already exists.
+
+</td></tr>
+<tr><td width="50%">
+
+Encrypted environment file not found.
+
+</td><td width="50%">
+
+Encrypted environment file not found.
+
+</td></tr>
+<tr><td width="50%">
+
+Environment file already exists.
+
+</td><td width="50%">
+
+Environment file already exists.
+
+</td></tr>
+<tr><td width="50%">
+
+Environment file not found.
+
+</td><td width="50%">
+
+Environment file not found.
 
 </td></tr>
 <tr><td width="50%">
@@ -1168,6 +1231,15 @@ Guyana
 </td></tr>
 <tr><td width="50%">
 
+Having second thoughts about cancelling your subscription? You can instantly reactivate your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
+
+</td><td width="50%">
+
+Having second thoughts about cancelling your subscription? You can instantly reactivate your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
+
+</td></tr>
+<tr><td width="50%">
+
 Having second thoughts about cancelling your subscription? You can instantly reactive your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
 
 </td><td width="50%">
@@ -1231,11 +1303,29 @@ Impersonate
 </td></tr>
 <tr><td width="50%">
 
+Invalid filename.
+
+</td><td width="50%">
+
+Invalid filename.
+
+</td></tr>
+<tr><td width="50%">
+
 Invalid JSON was returned from the route.
 
 </td><td width="50%">
 
 Invalid JSON was returned from the route.
+
+</td></tr>
+<tr><td width="50%">
+
+Invoices
+
+</td><td width="50%">
+
+Invoices
 
 </td></tr>
 <tr><td width="50%">
@@ -2581,15 +2671,6 @@ There are no new notifications.
 </td></tr>
 <tr><td width="50%">
 
-There is no active subscription.
-
-</td><td width="50%">
-
-There is no active subscription.
-
-</td></tr>
-<tr><td width="50%">
-
 There was a problem fetching the resource.
 
 </td><td width="50%">
@@ -2640,15 +2721,6 @@ This invoice is no longer open.
 </td><td width="50%">
 
 This invoice is no longer open.
-
-</td></tr>
-<tr><td width="50%">
-
-This subscription cannot be resumed. Please create a new subscription.
-
-</td><td width="50%">
-
-This subscription cannot be resumed. Please create a new subscription.
 
 </td></tr>
 <tr><td width="50%">
@@ -2896,15 +2968,6 @@ Verify Your Email Address
 </td></tr>
 <tr><td width="50%">
 
-View Receipt
-
-</td><td width="50%">
-
-View Receipt
-
-</td></tr>
-<tr><td width="50%">
-
 Visits
 
 </td><td width="50%">
@@ -3094,15 +3157,6 @@ Your card was declined. Please contact your card issuer for more information.
 </td></tr>
 <tr><td width="50%">
 
-Your current payment method is :paypal.
-
-</td><td width="50%">
-
-Your current payment method is :paypal.
-
-</td></tr>
-<tr><td width="50%">
-
 Your current payment method is a credit card ending in :lastFour that expires on :expiration.
 
 </td><td width="50%">
@@ -3117,6 +3171,15 @@ Your email address is unverified.
 </td><td width="50%">
 
 Your email address is unverified.
+
+</td></tr>
+<tr><td width="50%">
+
+Your last payment of :amount failed. Please update your payment method to retry the failed payment.
+
+</td><td width="50%">
+
+Your last payment of :amount failed. Please update your payment method to retry the failed payment.
 
 </td></tr>
 <tr><td width="50%">
@@ -3180,6 +3243,15 @@ Your subscription has been successfully cancelled.
 </td><td width="50%">
 
 Your subscription has been successfully cancelled.
+
+</td></tr>
+<tr><td width="50%">
+
+Your subscription has been successfully cancelled. You will still have access until the end of your billing period.
+
+</td><td width="50%">
+
+Your subscription has been successfully cancelled. You will still have access until the end of your billing period.
 
 </td></tr>
 <tr><td width="50%">

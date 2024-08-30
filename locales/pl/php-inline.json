@@ -19,7 +19,7 @@
     "boolean": "Pole musi mieć wartość logiczną prawda albo fałsz.",
     "can": "Pole zawiera nieautoryzowaną wartość.",
     "confirmed": "Potwierdzenie nie zgadza się z polem.",
-    "contains": "This field is missing a required value.",
+    "contains": "W tym polu brakuje wymaganej wartości.",
     "date": "Pole nie jest prawidłową datą.",
     "date_equals": "Pole musi być datą równą :date.",
     "date_format": "Pole nie jest w formacie :format.",

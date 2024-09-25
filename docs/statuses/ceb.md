@@ -4,12 +4,12 @@ editLink: false
 
 # ceb
 
-##### All missed: 268
+##### All missed: 267
 
 
 ### json
 
-##### Missing: 264
+##### Missing: 263
 
 <table width="100%">
 <tr><th width="50%">
@@ -1819,15 +1819,6 @@ Receipt Email Addresses
 </td><td width="50%">
 
 Receipt Email Addresses
-
-</td></tr>
-<tr><td width="50%">
-
-Regards
-
-</td><td width="50%">
-
-Regards
 
 </td></tr>
 <tr><td width="50%">

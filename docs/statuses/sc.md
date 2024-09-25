@@ -4,7 +4,7 @@ editLink: false
 
 # sc
 
-##### All missed: 928
+##### All missed: 927
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 827
+##### Missing: 826
 
 <table width="100%">
 <tr><th width="50%">
@@ -4856,15 +4856,6 @@ Refresh
 </td><td width="50%">
 
 Refresh
-
-</td></tr>
-<tr><td width="50%">
-
-Regards
-
-</td><td width="50%">
-
-Regards
 
 </td></tr>
 <tr><td width="50%">

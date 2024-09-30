@@ -839,7 +839,7 @@
     "Your email address is unverified.": "您的電子郵件地址尚未驗證。",
     "Your last payment of :amount failed. Please update your payment method to retry the failed payment.": "您上次支付的金額 :amount 失敗了。請更新您的支付方式以重試失敗的付款。",
     "Your last payment of :amount on :date failed. Please update your payment method to retry the failed payment.": "您上次於 :date 的 :amount 付款失敗。請更新您的支付方式以重新嘗試支付失敗的款項。",
-    "Your next payment of :amount will be processed on :date.": "您的下一筆 :amount 付款將在 :date 进行处理。",
+    "Your next payment of :amount will be processed on :date.": "您的下一筆 :amount 付款將在 :date 進行處理。",
     "Your payment method has been added successfully.": "您的支付方式已成功添加。",
     "Your payment method will be charged automatically for each billing period.": "您的支付方式將在每個帳單計費週期自動收費。",
     "Your registered VAT Number is :vatNumber.": "您註冊的增值稅號碼 (統一編號) 是 :vatNumber.",

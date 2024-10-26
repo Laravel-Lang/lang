@@ -4,12 +4,12 @@ editLink: false
 
 # sn
 
-##### All missed: 216
+##### All missed: 214
 
 
 ### json
 
-##### Missing: 212
+##### Missing: 210
 
 <table width="100%">
 <tr><th width="50%">
@@ -1526,15 +1526,6 @@ Sint Maarten
 </td></tr>
 <tr><td width="50%">
 
-SKU
-
-</td><td width="50%">
-
-SKU
-
-</td></tr>
-<tr><td width="50%">
-
 Soft Deleted
 
 </td><td width="50%">
@@ -1828,15 +1819,6 @@ Virgin Islands, U.S.
 </td><td width="50%">
 
 Virgin Islands, U.S.
-
-</td></tr>
-<tr><td width="50%">
-
-Visits
-
-</td><td width="50%">
-
-Visits
 
 </td></tr>
 <tr><td width="50%">

@@ -4,12 +4,12 @@ editLink: false
 
 # rw
 
-##### All missed: 110
+##### All missed: 109
 
 
 ### json
 
-##### Missing: 106
+##### Missing: 105
 
 <table width="100%">
 <tr><th width="50%">
@@ -829,15 +829,6 @@ Sint Maarten (Dutch part)
 </td><td width="50%">
 
 Sint Maarten
-
-</td></tr>
-<tr><td width="50%">
-
-SKU
-
-</td><td width="50%">
-
-SKU
 
 </td></tr>
 <tr><td width="50%">

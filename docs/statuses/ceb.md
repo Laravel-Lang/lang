@@ -4,12 +4,12 @@ editLink: false
 
 # ceb
 
-##### All missed: 267
+##### All missed: 266
 
 
 ### json
 
-##### Missing: 263
+##### Missing: 262
 
 <table width="100%">
 <tr><th width="50%">
@@ -1999,15 +1999,6 @@ Sint Maarten (Dutch part)
 </td><td width="50%">
 
 Sint Maarten
-
-</td></tr>
-<tr><td width="50%">
-
-SKU
-
-</td><td width="50%">
-
-SKU
 
 </td></tr>
 <tr><td width="50%">

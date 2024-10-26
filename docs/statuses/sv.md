@@ -4,12 +4,12 @@ editLink: false
 
 # sv
 
-##### All missed: 125
+##### All missed: 124
 
 
 ### json
 
-##### Missing: 121
+##### Missing: 120
 
 <table width="100%">
 <tr><th width="50%">
@@ -793,15 +793,6 @@ Paraguay
 </td><td width="50%">
 
 Paraguay
-
-</td></tr>
-<tr><td width="50%">
-
-Person
-
-</td><td width="50%">
-
-Person
 
 </td></tr>
 <tr><td width="50%">

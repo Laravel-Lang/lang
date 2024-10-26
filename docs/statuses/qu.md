@@ -4,12 +4,12 @@ editLink: false
 
 # qu
 
-##### All missed: 59
+##### All missed: 58
 
 
 ### json
 
-##### Missing: 55
+##### Missing: 54
 
 <table width="100%">
 <tr><th width="50%">
@@ -415,15 +415,6 @@ Qatar
 </td><td width="50%">
 
 Qatar
-
-</td></tr>
-<tr><td width="50%">
-
-SKU
-
-</td><td width="50%">
-
-SKU
 
 </td></tr>
 <tr><td width="50%">

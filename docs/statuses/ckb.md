@@ -4,12 +4,12 @@ editLink: false
 
 # ckb
 
-##### All missed: 22
+##### All missed: 21
 
 
 ### json
 
-##### Missing: 18
+##### Missing: 17
 
 <table width="100%">
 <tr><th width="50%">
@@ -154,15 +154,6 @@ Run Action
 </td><td width="50%">
 
 Run Action
-
-</td></tr>
-<tr><td width="50%">
-
-SKU
-
-</td><td width="50%">
-
-SKU
 
 </td></tr>
 <tr><td width="50%">

@@ -4,7 +4,7 @@ editLink: false
 
 # uz_Latn
 
-##### All missed: 414
+##### All missed: 408
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 347
+##### Missing: 341
 
 <table width="100%">
 <tr><th width="50%">
@@ -187,15 +187,6 @@ Value
 </td></tr>
 <tr><td width="50%">
 
-365 Days
-
-</td><td width="50%">
-
-365 Days
-
-</td></tr>
-<tr><td width="50%">
-
 A decryption key is required.
 
 </td><td width="50%">
@@ -502,15 +493,6 @@ Attach files by dragging & dropping, selecting or pasting them.
 </td></tr>
 <tr><td width="50%">
 
-Attendance
-
-</td><td width="50%">
-
-Attendance
-
-</td></tr>
-<tr><td width="50%">
-
 Bahamas
 
 </td><td width="50%">
@@ -723,15 +705,6 @@ Checkout
 </td><td width="50%">
 
 Checkout
-
-</td></tr>
-<tr><td width="50%">
-
-Choose a project
-
-</td><td width="50%">
-
-Choose a project
 
 </td></tr>
 <tr><td width="50%">
@@ -1002,15 +975,6 @@ Email Addresses
 </td><td width="50%">
 
 Email Addresses
-
-</td></tr>
-<tr><td width="50%">
-
-Employee
-
-</td><td width="50%">
-
-Employee
 
 </td></tr>
 <tr><td width="50%">
@@ -1911,15 +1875,6 @@ Payments
 </td><td width="50%">
 
 Payments
-
-</td></tr>
-<tr><td width="50%">
-
-Person
-
-</td><td width="50%">
-
-Person
 
 </td></tr>
 <tr><td width="50%">
@@ -2964,15 +2919,6 @@ Verify Your Email Address
 </td><td width="50%">
 
 Verify Your Email Address
-
-</td></tr>
-<tr><td width="50%">
-
-Visits
-
-</td><td width="50%">
-
-Visits
 
 </td></tr>
 <tr><td width="50%">

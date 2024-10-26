@@ -4,7 +4,7 @@ editLink: false
 
 # sr_Latn_ME
 
-##### All missed: 335
+##### All missed: 329
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 268
+##### Missing: 262
 
 <table width="100%">
 <tr><th width="50%">
@@ -187,15 +187,6 @@ Value
 </td></tr>
 <tr><td width="50%">
 
-365 Days
-
-</td><td width="50%">
-
-365 Days
-
-</td></tr>
-<tr><td width="50%">
-
 A decryption key is required.
 
 </td><td width="50%">
@@ -457,15 +448,6 @@ Attach files by dragging & dropping, selecting or pasting them.
 </td></tr>
 <tr><td width="50%">
 
-Attendance
-
-</td><td width="50%">
-
-Attendance
-
-</td></tr>
-<tr><td width="50%">
-
 Before continuing, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
 
 </td><td width="50%">
@@ -552,15 +534,6 @@ Checkout
 </td><td width="50%">
 
 Checkout
-
-</td></tr>
-<tr><td width="50%">
-
-Choose a project
-
-</td><td width="50%">
-
-Choose a project
 
 </td></tr>
 <tr><td width="50%">
@@ -790,15 +763,6 @@ Email Addresses
 </td></tr>
 <tr><td width="50%">
 
-Employee
-
-</td><td width="50%">
-
-Employee
-
-</td></tr>
-<tr><td width="50%">
-
 Encrypted environment file already exists.
 
 </td><td width="50%">
@@ -1380,15 +1344,6 @@ Payments
 </td><td width="50%">
 
 Payments
-
-</td></tr>
-<tr><td width="50%">
-
-Person
-
-</td><td width="50%">
-
-Person
 
 </td></tr>
 <tr><td width="50%">
@@ -2271,15 +2226,6 @@ Verify Your Email Address
 </td><td width="50%">
 
 Verify Your Email Address
-
-</td></tr>
-<tr><td width="50%">
-
-Visits
-
-</td><td width="50%">
-
-Visits
 
 </td></tr>
 <tr><td width="50%">

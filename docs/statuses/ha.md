@@ -4,12 +4,12 @@ editLink: false
 
 # ha
 
-##### All missed: 192
+##### All missed: 191
 
 
 ### json
 
-##### Missing: 188
+##### Missing: 187
 
 <table width="100%">
 <tr><th width="50%">
@@ -1441,15 +1441,6 @@ Singapore
 </td><td width="50%">
 
 Singapore
-
-</td></tr>
-<tr><td width="50%">
-
-SKU
-
-</td><td width="50%">
-
-SKU
 
 </td></tr>
 <tr><td width="50%">

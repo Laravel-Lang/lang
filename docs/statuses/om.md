@@ -4,12 +4,12 @@ editLink: false
 
 # om
 
-##### All missed: 33
+##### All missed: 32
 
 
 ### json
 
-##### Missing: 29
+##### Missing: 28
 
 <table width="100%">
 <tr><th width="50%">
@@ -217,15 +217,6 @@ Nova
 </td><td width="50%">
 
 Nova
-
-</td></tr>
-<tr><td width="50%">
-
-SKU
-
-</td><td width="50%">
-
-SKU
 
 </td></tr>
 <tr><td width="50%">

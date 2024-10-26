@@ -4,12 +4,12 @@ editLink: false
 
 # or
 
-##### All missed: 23
+##### All missed: 22
 
 
 ### json
 
-##### Missing: 19
+##### Missing: 18
 
 <table width="100%">
 <tr><th width="50%">
@@ -163,15 +163,6 @@ length
 </td><td width="50%">
 
 length
-
-</td></tr>
-<tr><td width="50%">
-
-SKU
-
-</td><td width="50%">
-
-SKU
 
 </td></tr>
 <tr><td width="50%">

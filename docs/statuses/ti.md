@@ -4,12 +4,12 @@ editLink: false
 
 # ti
 
-##### All missed: 20
+##### All missed: 19
 
 
 ### json
 
-##### Missing: 16
+##### Missing: 15
 
 <table width="100%">
 <tr><th width="50%">
@@ -136,15 +136,6 @@ Log In
 </td><td width="50%">
 
 Log In
-
-</td></tr>
-<tr><td width="50%">
-
-SKU
-
-</td><td width="50%">
-
-SKU
 
 </td></tr>
 <tr><td width="50%">

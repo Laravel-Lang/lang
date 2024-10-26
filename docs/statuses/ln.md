@@ -4,12 +4,12 @@ editLink: false
 
 # ln
 
-##### All missed: 69
+##### All missed: 68
 
 
 ### json
 
-##### Missing: 65
+##### Missing: 64
 
 <table width="100%">
 <tr><th width="50%">
@@ -496,15 +496,6 @@ Samoa
 </td><td width="50%">
 
 Samoa
-
-</td></tr>
-<tr><td width="50%">
-
-SKU
-
-</td><td width="50%">
-
-SKU
 
 </td></tr>
 <tr><td width="50%">

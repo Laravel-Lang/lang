@@ -4,7 +4,7 @@ editLink: false
 
 # oc
 
-##### All missed: 904
+##### All missed: 898
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 826
+##### Missing: 820
 
 <table width="100%">
 <tr><th width="50%">
@@ -192,15 +192,6 @@ Value
 </td><td width="50%">
 
 30 Days
-
-</td></tr>
-<tr><td width="50%">
-
-365 Days
-
-</td><td width="50%">
-
-365 Days
 
 </td></tr>
 <tr><td width="50%">
@@ -1006,15 +997,6 @@ Attach files by dragging & dropping, selecting or pasting them.
 </td></tr>
 <tr><td width="50%">
 
-Attendance
-
-</td><td width="50%">
-
-Attendance
-
-</td></tr>
-<tr><td width="50%">
-
 August
 
 </td><td width="50%">
@@ -1461,15 +1443,6 @@ Choose :resource
 </td><td width="50%">
 
 Choose :resource
-
-</td></tr>
-<tr><td width="50%">
-
-Choose a project
-
-</td><td width="50%">
-
-Choose a project
 
 </td></tr>
 <tr><td width="50%">
@@ -2316,15 +2289,6 @@ Email Password Reset Link
 </td><td width="50%">
 
 Email Password Reset Link
-
-</td></tr>
-<tr><td width="50%">
-
-Employee
-
-</td><td width="50%">
-
-Employee
 
 </td></tr>
 <tr><td width="50%">
@@ -4577,15 +4541,6 @@ Permissions
 </td><td width="50%">
 
 Permissions
-
-</td></tr>
-<tr><td width="50%">
-
-Person
-
-</td><td width="50%">
-
-Person
 
 </td></tr>
 <tr><td width="50%">
@@ -7088,15 +7043,6 @@ View
 </td><td width="50%">
 
 View
-
-</td></tr>
-<tr><td width="50%">
-
-Visits
-
-</td><td width="50%">
-
-Visits
 
 </td></tr>
 <tr><td width="50%">

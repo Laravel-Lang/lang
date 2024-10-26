@@ -4,12 +4,12 @@ editLink: false
 
 # de_CH
 
-##### All missed: 26
+##### All missed: 25
 
 
 ### json
 
-##### Missing: 22
+##### Missing: 21
 
 <table width="100%">
 <tr><th width="50%">
@@ -163,15 +163,6 @@ length
 </td><td width="50%">
 
 length
-
-</td></tr>
-<tr><td width="50%">
-
-Person
-
-</td><td width="50%">
-
-Person
 
 </td></tr>
 <tr><td width="50%">

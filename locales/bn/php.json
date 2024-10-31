@@ -10,7 +10,7 @@
     "array": ":Attribute একটি অ্যারে হতে হবে।",
     "ascii": ":Attribute টিতে শুধুমাত্র একক-বাইট বর্ণসংখ্যার অক্ষর এবং প্রতীক থাকতে হবে।",
     "attached": "এই :attribute ইতিমধ্যে সংযুক্ত করা হয়।",
-    "before": ":Attribute অবশ্যই :Date এর আগের একটি তারিখ হতে হবে।",
+    "before": ":Attribute অবশ্যই :date এর আগের একটি তারিখ হতে হবে।",
     "before_or_equal": ":Attribute টি অবশ্যই :date এর সাথে মিল অথবা এর আগের একটি তারিখ হতে হবে।",
     "between.array": ":Min এবং :max আইটেম :attribute মধ্যে হতে হবে।",
     "between.file": ":Min এবং :max কিলোবাইট :attribute মধ্যে হতে হবে।",

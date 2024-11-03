@@ -92,7 +92,7 @@
     "not_in": "The :attribute field must not be in the list.",
     "not_regex": "The :attribute format is invalid.",
     "numeric": "The :attribute must be a number.",
-    "password": "The password is incorrect.",
+    "password": "The provided password is incorrect.",
     "password.letters": "The :attribute field must contain at least one letter.",
     "password.mixed": "The :attribute field must contain at least one uppercase and one lowercase letter.",
     "password.numbers": "The :attribute field must contain at least one number.",

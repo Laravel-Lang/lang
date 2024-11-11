@@ -29,7 +29,7 @@
     "different": "The value and :other must be different.",
     "digits": "The value must be :digits digits.",
     "digits_between": "The value must be between :min and :max digits.",
-    "dimensions": "This image has invalid dimensions.",
+    "dimensions": "The content has invalid dimensions.",
     "distinct": "This field contains a duplicate value.",
     "doesnt_end_with": "The string must not end with one of the following: :values.",
     "doesnt_start_with": "The string must not start with one of the following: :values.",

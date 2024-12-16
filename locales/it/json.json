@@ -695,7 +695,7 @@
     "The provided password does not match your current password.": "La password fornita non corrisponde alla password corrente.",
     "The provided password was incorrect.": "La password fornita non è corretta.",
     "The provided two factor authentication code was invalid.": "Il codice di autenticazione a due fattori fornito non è valido.",
-    "The provided two factor recovery code was invalid.": "Il codice di recupero fornito per l'autenticazione ha due fattori non è valido.",
+    "The provided two factor recovery code was invalid.": "Il codice di recupero fornito per l'autenticazione a due fattori non è valido.",
     "The provided VAT number is invalid.": "La partita IVA fornita non è valida.",
     "The receipt emails must be valid email addresses.": "Gli indirizzi email per la fatturazione devono essere validi.",
     "The resource was attached!": "La risorsa era allegata!",

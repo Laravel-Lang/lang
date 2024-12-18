@@ -4,12 +4,12 @@ editLink: false
 
 # ug
 
-##### All missed: 117
+##### All missed: 128
 
 
 ### json
 
-##### Missing: 113
+##### Missing: 124
 
 <table width="100%">
 <tr><th width="50%">
@@ -28,6 +28,24 @@ A decryption key is required.
 </td><td width="50%">
 
 A decryption key is required.
+
+</td></tr>
+<tr><td width="50%">
+
+Action Event
+
+</td><td width="50%">
+
+Action Event
+
+</td></tr>
+<tr><td width="50%">
+
+Action Events
+
+</td><td width="50%">
+
+Action Events
 
 </td></tr>
 <tr><td width="50%">
@@ -100,6 +118,15 @@ API Tokens
 </td><td width="50%">
 
 API Tokens
+
+</td></tr>
+<tr><td width="50%">
+
+Are you sure you want to mark all notifications as read?
+
+</td><td width="50%">
+
+Are you sure you want to mark all notifications as read?
 
 </td></tr>
 <tr><td width="50%">
@@ -266,6 +293,15 @@ Côte d'Ivoire
 </td></tr>
 <tr><td width="50%">
 
+Delete Notification
+
+</td><td width="50%">
+
+Delete Notification
+
+</td></tr>
+<tr><td width="50%">
+
 Detach
 
 </td><td width="50%">
@@ -289,6 +325,15 @@ Download Invoice
 </td><td width="50%">
 
 Download Invoice
+
+</td></tr>
+<tr><td width="50%">
+
+Email Verification
+
+</td><td width="50%">
+
+Email Verification
 
 </td></tr>
 <tr><td width="50%">
@@ -343,6 +388,15 @@ ex VAT
 </td><td width="50%">
 
 ex VAT
+
+</td></tr>
+<tr><td width="50%">
+
+Export As CSV
+
+</td><td width="50%">
+
+Export As CSV
 
 </td></tr>
 <tr><td width="50%">
@@ -635,6 +689,15 @@ Logout
 </td></tr>
 <tr><td width="50%">
 
+Mark all notifications as read
+
+</td><td width="50%">
+
+Mark all notifications as read
+
+</td></tr>
+<tr><td width="50%">
+
 Mark Read
 
 </td><td width="50%">
@@ -770,6 +833,15 @@ of
 </td></tr>
 <tr><td width="50%">
 
+OK
+
+</td><td width="50%">
+
+OK
+
+</td></tr>
+<tr><td width="50%">
+
 Pakistan
 
 </td><td width="50%">
@@ -887,6 +959,15 @@ São Tomé and Príncipe
 </td></tr>
 <tr><td width="50%">
 
+Secure Area
+
+</td><td width="50%">
+
+Secure Area
+
+</td></tr>
+<tr><td width="50%">
+
 Seychelles
 
 </td><td width="50%">
@@ -941,6 +1022,15 @@ Team Owner
 </td></tr>
 <tr><td width="50%">
 
+The selected resources have been :action!
+
+</td><td width="50%">
+
+The selected resources have been :action!
+
+</td></tr>
+<tr><td width="50%">
+
 Timor-Leste
 
 </td><td width="50%">
@@ -1000,6 +1090,15 @@ United Kingdom
 </td><td width="50%">
 
 United Kingdom
+
+</td></tr>
+<tr><td width="50%">
+
+Username
+
+</td><td width="50%">
+
+Username
 
 </td></tr>
 <tr><td width="50%">

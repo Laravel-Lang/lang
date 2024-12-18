@@ -4,12 +4,12 @@ editLink: false
 
 # ku
 
-##### All missed: 94
+##### All missed: 105
 
 
 ### json
 
-##### Missing: 90
+##### Missing: 101
 
 <table width="100%">
 <tr><th width="50%">
@@ -41,6 +41,24 @@ A decryption key is required.
 </td></tr>
 <tr><td width="50%">
 
+Action Event
+
+</td><td width="50%">
+
+Action Event
+
+</td></tr>
+<tr><td width="50%">
+
+Action Events
+
+</td><td width="50%">
+
+Action Events
+
+</td></tr>
+<tr><td width="50%">
+
 Actions
 
 </td><td width="50%">
@@ -55,6 +73,15 @@ API Token
 </td><td width="50%">
 
 API Token
+
+</td></tr>
+<tr><td width="50%">
+
+Are you sure you want to mark all notifications as read?
+
+</td><td width="50%">
+
+Are you sure you want to mark all notifications as read?
 
 </td></tr>
 <tr><td width="50%">
@@ -158,6 +185,15 @@ Dashboard
 </td></tr>
 <tr><td width="50%">
 
+Delete Notification
+
+</td><td width="50%">
+
+Delete Notification
+
+</td></tr>
+<tr><td width="50%">
+
 Details
 
 </td><td width="50%">
@@ -208,6 +244,15 @@ email
 </td><td width="50%">
 
 email
+
+</td></tr>
+<tr><td width="50%">
+
+Email Verification
+
+</td><td width="50%">
+
+Email Verification
 
 </td></tr>
 <tr><td width="50%">
@@ -271,6 +316,15 @@ Excel (.xlsx)
 </td><td width="50%">
 
 Excel (.xlsx)
+
+</td></tr>
+<tr><td width="50%">
+
+Export As CSV
+
+</td><td width="50%">
+
+Export As CSV
 
 </td></tr>
 <tr><td width="50%">
@@ -482,6 +536,15 @@ Malta
 </td></tr>
 <tr><td width="50%">
 
+Mark all notifications as read
+
+</td><td width="50%">
+
+Mark all notifications as read
+
+</td></tr>
+<tr><td width="50%">
+
 Mark Read
 
 </td><td width="50%">
@@ -541,6 +604,15 @@ Nova
 </td><td width="50%">
 
 Nova
+
+</td></tr>
+<tr><td width="50%">
+
+OK
+
+</td><td width="50%">
+
+OK
 
 </td></tr>
 <tr><td width="50%">
@@ -703,6 +775,15 @@ Scroll to top
 </td><td width="50%">
 
 Scroll to top
+
+</td></tr>
+<tr><td width="50%">
+
+Secure Area
+
+</td><td width="50%">
+
+Secure Area
 
 </td></tr>
 <tr><td width="50%">
@@ -770,6 +851,15 @@ Taiwan
 </td></tr>
 <tr><td width="50%">
 
+The selected resources have been :action!
+
+</td><td width="50%">
+
+The selected resources have been :action!
+
+</td></tr>
+<tr><td width="50%">
+
 Timor-Leste
 
 </td><td width="50%">
@@ -802,6 +892,15 @@ Turkmenistan
 </td><td width="50%">
 
 Turkmenistan
+
+</td></tr>
+<tr><td width="50%">
+
+Username
+
+</td><td width="50%">
+
+Username
 
 </td></tr>
 <tr><td width="50%">

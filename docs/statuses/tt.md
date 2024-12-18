@@ -4,12 +4,12 @@ editLink: false
 
 # tt
 
-##### All missed: 23
+##### All missed: 34
 
 
 ### json
 
-##### Missing: 19
+##### Missing: 30
 
 <table width="100%">
 <tr><th width="50%">
@@ -32,6 +32,33 @@ A decryption key is required.
 </td></tr>
 <tr><td width="50%">
 
+Action Event
+
+</td><td width="50%">
+
+Action Event
+
+</td></tr>
+<tr><td width="50%">
+
+Action Events
+
+</td><td width="50%">
+
+Action Events
+
+</td></tr>
+<tr><td width="50%">
+
+Are you sure you want to mark all notifications as read?
+
+</td><td width="50%">
+
+Are you sure you want to mark all notifications as read?
+
+</td></tr>
+<tr><td width="50%">
+
 Change the current payment method attached to your subscription
 
 </td><td width="50%">
@@ -50,11 +77,29 @@ CSV (.csv)
 </td></tr>
 <tr><td width="50%">
 
+Delete Notification
+
+</td><td width="50%">
+
+Delete Notification
+
+</td></tr>
+<tr><td width="50%">
+
 Download Invoice
 
 </td><td width="50%">
 
 Download Invoice
+
+</td></tr>
+<tr><td width="50%">
+
+Email Verification
+
+</td><td width="50%">
+
+Email Verification
 
 </td></tr>
 <tr><td width="50%">
@@ -104,6 +149,15 @@ Excel (.xlsx)
 </td></tr>
 <tr><td width="50%">
 
+Export As CSV
+
+</td><td width="50%">
+
+Export As CSV
+
+</td></tr>
+<tr><td width="50%">
+
 Having second thoughts about cancelling your subscription? You can instantly reactivate your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
 
 </td><td width="50%">
@@ -149,6 +203,15 @@ length
 </td></tr>
 <tr><td width="50%">
 
+Mark all notifications as read
+
+</td><td width="50%">
+
+Mark all notifications as read
+
+</td></tr>
+<tr><td width="50%">
+
 Niue
 
 </td><td width="50%">
@@ -167,11 +230,47 @@ of
 </td></tr>
 <tr><td width="50%">
 
+OK
+
+</td><td width="50%">
+
+OK
+
+</td></tr>
+<tr><td width="50%">
+
+Secure Area
+
+</td><td width="50%">
+
+Secure Area
+
+</td></tr>
+<tr><td width="50%">
+
+The selected resources have been :action!
+
+</td><td width="50%">
+
+The selected resources have been :action!
+
+</td></tr>
+<tr><td width="50%">
+
 to
 
 </td><td width="50%">
 
 to
+
+</td></tr>
+<tr><td width="50%">
+
+Username
+
+</td><td width="50%">
+
+Username
 
 </td></tr>
 <tr><td width="50%">

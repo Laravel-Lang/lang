@@ -4,12 +4,12 @@ editLink: false
 
 # lo
 
-##### All missed: 42
+##### All missed: 53
 
 
 ### json
 
-##### Missing: 38
+##### Missing: 49
 
 <table width="100%">
 <tr><th width="50%">
@@ -32,6 +32,24 @@ A decryption key is required.
 </td></tr>
 <tr><td width="50%">
 
+Action Event
+
+</td><td width="50%">
+
+Action Event
+
+</td></tr>
+<tr><td width="50%">
+
+Action Events
+
+</td><td width="50%">
+
+Action Events
+
+</td></tr>
+<tr><td width="50%">
+
 Anguilla
 
 </td><td width="50%">
@@ -46,6 +64,15 @@ API Token
 </td><td width="50%">
 
 API Token
+
+</td></tr>
+<tr><td width="50%">
+
+Are you sure you want to mark all notifications as read?
+
+</td><td width="50%">
+
+Are you sure you want to mark all notifications as read?
 
 </td></tr>
 <tr><td width="50%">
@@ -104,6 +131,15 @@ Côte d'Ivoire
 </td></tr>
 <tr><td width="50%">
 
+Delete Notification
+
+</td><td width="50%">
+
+Delete Notification
+
+</td></tr>
+<tr><td width="50%">
+
 Download Invoice
 
 </td><td width="50%">
@@ -118,6 +154,15 @@ El Salvador
 </td><td width="50%">
 
 El Salvador
+
+</td></tr>
+<tr><td width="50%">
+
+Email Verification
+
+</td><td width="50%">
+
+Email Verification
 
 </td></tr>
 <tr><td width="50%">
@@ -181,6 +226,15 @@ Excel (.xlsx)
 </td><td width="50%">
 
 Excel (.xlsx)
+
+</td></tr>
+<tr><td width="50%">
+
+Export As CSV
+
+</td><td width="50%">
+
+Export As CSV
 
 </td></tr>
 <tr><td width="50%">
@@ -293,6 +347,15 @@ Maldives
 </td></tr>
 <tr><td width="50%">
 
+Mark all notifications as read
+
+</td><td width="50%">
+
+Mark all notifications as read
+
+</td></tr>
+<tr><td width="50%">
+
 Montserrat
 
 </td><td width="50%">
@@ -302,11 +365,29 @@ Montserrat
 </td></tr>
 <tr><td width="50%">
 
+OK
+
+</td><td width="50%">
+
+OK
+
+</td></tr>
+<tr><td width="50%">
+
 Pitcairn
 
 </td><td width="50%">
 
 Pitcairn
+
+</td></tr>
+<tr><td width="50%">
+
+Secure Area
+
+</td><td width="50%">
+
+Secure Area
 
 </td></tr>
 <tr><td width="50%">
@@ -338,11 +419,29 @@ Suriname
 </td></tr>
 <tr><td width="50%">
 
+The selected resources have been :action!
+
+</td><td width="50%">
+
+The selected resources have been :action!
+
+</td></tr>
+<tr><td width="50%">
+
 Tokelau
 
 </td><td width="50%">
 
 Tokelau
+
+</td></tr>
+<tr><td width="50%">
+
+Username
+
+</td><td width="50%">
+
+Username
 
 </td></tr>
 <tr><td width="50%">

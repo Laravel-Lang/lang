@@ -4,7 +4,7 @@ editLink: false
 
 # oc
 
-##### All missed: 898
+##### All missed: 909
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 820
+##### Missing: 831
 
 <table width="100%">
 <tr><th width="50%">
@@ -273,6 +273,24 @@ Action
 </td><td width="50%">
 
 Action
+
+</td></tr>
+<tr><td width="50%">
+
+Action Event
+
+</td><td width="50%">
+
+Action Event
+
+</td></tr>
+<tr><td width="50%">
+
+Action Events
+
+</td><td width="50%">
+
+Action Events
 
 </td></tr>
 <tr><td width="50%">
@@ -831,6 +849,15 @@ Are you sure you want to log out?
 </td><td width="50%">
 
 Are you sure you want to log out?
+
+</td></tr>
+<tr><td width="50%">
+
+Are you sure you want to mark all notifications as read?
+
+</td><td width="50%">
+
+Are you sure you want to mark all notifications as read?
 
 </td></tr>
 <tr><td width="50%">
@@ -1996,6 +2023,15 @@ Delete File
 </td></tr>
 <tr><td width="50%">
 
+Delete Notification
+
+</td><td width="50%">
+
+Delete Notification
+
+</td></tr>
+<tr><td width="50%">
+
 Delete Resource
 
 </td><td width="50%">
@@ -2293,6 +2329,15 @@ Email Password Reset Link
 </td></tr>
 <tr><td width="50%">
 
+Email Verification
+
+</td><td width="50%">
+
+Email Verification
+
+</td></tr>
+<tr><td width="50%">
+
 Enable
 
 </td><td width="50%">
@@ -2415,6 +2460,15 @@ Expires :expiration
 </td><td width="50%">
 
 Expires :expiration
+
+</td></tr>
+<tr><td width="50%">
+
+Export As CSV
+
+</td><td width="50%">
+
+Export As CSV
 
 </td></tr>
 <tr><td width="50%">
@@ -3690,6 +3744,15 @@ March
 </td></tr>
 <tr><td width="50%">
 
+Mark all notifications as read
+
+</td><td width="50%">
+
+Mark all notifications as read
+
+</td></tr>
+<tr><td width="50%">
+
 Mark Read
 
 </td><td width="50%">
@@ -4262,6 +4325,15 @@ of
 </td><td width="50%">
 
 of
+
+</td></tr>
+<tr><td width="50%">
+
+OK
+
+</td><td width="50%">
+
+OK
 
 </td></tr>
 <tr><td width="50%">
@@ -5288,6 +5360,15 @@ Search
 </td><td width="50%">
 
 Search
+
+</td></tr>
+<tr><td width="50%">
+
+Secure Area
+
+</td><td width="50%">
+
+Secure Area
 
 </td></tr>
 <tr><td width="50%">
@@ -6327,6 +6408,15 @@ The selected plan is invalid.
 </td></tr>
 <tr><td width="50%">
 
+The selected resources have been :action!
+
+</td><td width="50%">
+
+The selected resources have been :action!
+
+</td></tr>
+<tr><td width="50%">
+
 The team's name and owner information.
 
 </td><td width="50%">
@@ -6962,6 +7052,15 @@ User Actions
 </td><td width="50%">
 
 User Actions
+
+</td></tr>
+<tr><td width="50%">
+
+Username
+
+</td><td width="50%">
+
+Username
 
 </td></tr>
 <tr><td width="50%">

@@ -4,7 +4,7 @@ editLink: false
 
 # uz_Latn
 
-##### All missed: 408
+##### All missed: 419
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 341
+##### Missing: 352
 
 <table width="100%">
 <tr><th width="50%">
@@ -223,6 +223,24 @@ A new verification link has been sent to your email address.
 </td></tr>
 <tr><td width="50%">
 
+Action Event
+
+</td><td width="50%">
+
+Action Event
+
+</td></tr>
+<tr><td width="50%">
+
+Action Events
+
+</td><td width="50%">
+
+Action Events
+
+</td></tr>
+<tr><td width="50%">
+
 Add :resource
 
 </td><td width="50%">
@@ -417,6 +435,15 @@ Are you sure you want to log out?
 </td><td width="50%">
 
 Are you sure you want to log out?
+
+</td></tr>
+<tr><td width="50%">
+
+Are you sure you want to mark all notifications as read?
+
+</td><td width="50%">
+
+Are you sure you want to mark all notifications as read?
 
 </td></tr>
 <tr><td width="50%">
@@ -916,6 +943,15 @@ Delete all notifications
 </td></tr>
 <tr><td width="50%">
 
+Delete Notification
+
+</td><td width="50%">
+
+Delete Notification
+
+</td></tr>
+<tr><td width="50%">
+
 Detach
 
 </td><td width="50%">
@@ -975,6 +1011,15 @@ Email Addresses
 </td><td width="50%">
 
 Email Addresses
+
+</td></tr>
+<tr><td width="50%">
+
+Email Verification
+
+</td><td width="50%">
+
+Email Verification
 
 </td></tr>
 <tr><td width="50%">
@@ -1056,6 +1101,15 @@ Expires :expiration
 </td><td width="50%">
 
 Expires :expiration
+
+</td></tr>
+<tr><td width="50%">
+
+Export As CSV
+
+</td><td width="50%">
+
+Export As CSV
 
 </td></tr>
 <tr><td width="50%">
@@ -1515,6 +1569,15 @@ Managing billing for :billableName
 </td><td width="50%">
 
 Managing billing for :billableName
+
+</td></tr>
+<tr><td width="50%">
+
+Mark all notifications as read
+
+</td><td width="50%">
+
+Mark all notifications as read
 
 </td></tr>
 <tr><td width="50%">
@@ -1762,6 +1825,15 @@ Notifications
 </td></tr>
 <tr><td width="50%">
 
+OK
+
+</td><td width="50%">
+
+OK
+
+</td></tr>
+<tr><td width="50%">
+
 Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
 
 </td><td width="50%">
@@ -2127,6 +2199,15 @@ Scroll to top
 </td><td width="50%">
 
 Scroll to top
+
+</td></tr>
+<tr><td width="50%">
+
+Secure Area
+
+</td><td width="50%">
+
+Secure Area
 
 </td></tr>
 <tr><td width="50%">
@@ -2608,6 +2689,15 @@ The selected plan is invalid.
 </td></tr>
 <tr><td width="50%">
 
+The selected resources have been :action!
+
+</td><td width="50%">
+
+The selected resources have been :action!
+
+</td></tr>
+<tr><td width="50%">
+
 There are no fields to display.
 
 </td><td width="50%">
@@ -2883,6 +2973,15 @@ User Actions
 </td><td width="50%">
 
 User Actions
+
+</td></tr>
+<tr><td width="50%">
+
+Username
+
+</td><td width="50%">
+
+Username
 
 </td></tr>
 <tr><td width="50%">

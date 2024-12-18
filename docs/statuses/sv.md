@@ -4,12 +4,12 @@ editLink: false
 
 # sv
 
-##### All missed: 124
+##### All missed: 135
 
 
 ### json
 
-##### Missing: 120
+##### Missing: 131
 
 <table width="100%">
 <tr><th width="50%">
@@ -28,6 +28,24 @@ A decryption key is required.
 </td><td width="50%">
 
 A decryption key is required.
+
+</td></tr>
+<tr><td width="50%">
+
+Action Event
+
+</td><td width="50%">
+
+Action Event
+
+</td></tr>
+<tr><td width="50%">
+
+Action Events
+
+</td><td width="50%">
+
+Action Events
 
 </td></tr>
 <tr><td width="50%">
@@ -77,6 +95,15 @@ Anguilla
 </td></tr>
 <tr><td width="50%">
 
+Are you sure you want to mark all notifications as read?
+
+</td><td width="50%">
+
+Are you sure you want to mark all notifications as read?
+
+</td></tr>
+<tr><td width="50%">
+
 Argentina
 
 </td><td width="50%">
@@ -239,6 +266,15 @@ Costa Rica
 </td></tr>
 <tr><td width="50%">
 
+Delete Notification
+
+</td><td width="50%">
+
+Delete Notification
+
+</td></tr>
+<tr><td width="50%">
+
 Djibouti
 
 </td><td width="50%">
@@ -262,6 +298,15 @@ Ecuador
 </td><td width="50%">
 
 Ecuador
+
+</td></tr>
+<tr><td width="50%">
+
+Email Verification
+
+</td><td width="50%">
+
+Email Verification
 
 </td></tr>
 <tr><td width="50%">
@@ -307,6 +352,15 @@ Eritrea
 </td><td width="50%">
 
 Eritrea
+
+</td></tr>
+<tr><td width="50%">
+
+Export As CSV
+
+</td><td width="50%">
+
+Export As CSV
 
 </td></tr>
 <tr><td width="50%">
@@ -644,6 +698,15 @@ Malta
 </td></tr>
 <tr><td width="50%">
 
+Mark all notifications as read
+
+</td><td width="50%">
+
+Mark all notifications as read
+
+</td></tr>
+<tr><td width="50%">
+
 Martinique
 
 </td><td width="50%">
@@ -761,6 +824,15 @@ Niue
 </td></tr>
 <tr><td width="50%">
 
+OK
+
+</td><td width="50%">
+
+OK
+
+</td></tr>
+<tr><td width="50%">
+
 Pakistan
 
 </td><td width="50%">
@@ -874,6 +946,15 @@ San Marino
 </td><td width="50%">
 
 San Marino
+
+</td></tr>
+<tr><td width="50%">
+
+Secure Area
+
+</td><td width="50%">
+
+Secure Area
 
 </td></tr>
 <tr><td width="50%">
@@ -968,6 +1049,15 @@ Thailand
 </td></tr>
 <tr><td width="50%">
 
+The selected resources have been :action!
+
+</td><td width="50%">
+
+The selected resources have been :action!
+
+</td></tr>
+<tr><td width="50%">
+
 Togo
 
 </td><td width="50%">
@@ -1036,6 +1126,15 @@ Uganda
 </td><td width="50%">
 
 Uganda
+
+</td></tr>
+<tr><td width="50%">
+
+Username
+
+</td><td width="50%">
+
+Username
 
 </td></tr>
 <tr><td width="50%">

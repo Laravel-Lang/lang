@@ -4,7 +4,7 @@ editLink: false
 
 # fr
 
-##### All missed: 28
+##### All missed: 27
 
 
 ### json
@@ -283,7 +283,7 @@ This field is required when :other is declined.
 
 ### php
 
-##### Missing: 2
+##### Missing: 1
 
 <table width="100%">
 <tr><th width="50%">
@@ -295,15 +295,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-contains
-
-</td><td width="50%">
-
-The :attribute field is missing a required value.
-
-</td></tr>
 <tr><td width="50%">
 
 required_if_declined

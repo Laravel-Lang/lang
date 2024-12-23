@@ -4,7 +4,7 @@ editLink: false
 
 # uz_Latn
 
-##### All missed: 419
+##### All missed: 420
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 352
+##### Missing: 353
 
 <table width="100%">
 <tr><th width="50%">
@@ -2973,6 +2973,15 @@ User Actions
 </td><td width="50%">
 
 User Actions
+
+</td></tr>
+<tr><td width="50%">
+
+User Security
+
+</td><td width="50%">
+
+User Security
 
 </td></tr>
 <tr><td width="50%">

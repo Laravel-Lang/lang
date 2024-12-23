@@ -4,12 +4,12 @@ editLink: false
 
 # ja
 
-##### All missed: 23
+##### All missed: 24
 
 
 ### json
 
-##### Missing: 23
+##### Missing: 24
 
 <table width="100%">
 <tr><th width="50%">
@@ -199,6 +199,15 @@ The selected resources have been :action!
 </td><td width="50%">
 
 The selected resources have been :action!
+
+</td></tr>
+<tr><td width="50%">
+
+User Security
+
+</td><td width="50%">
+
+User Security
 
 </td></tr>
 <tr><td width="50%">

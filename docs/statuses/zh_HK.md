@@ -4,12 +4,12 @@ editLink: false
 
 # zh_HK
 
-##### All missed: 13
+##### All missed: 14
 
 
 ### json
 
-##### Missing: 11
+##### Missing: 12
 
 <table width="100%">
 <tr><th width="50%">
@@ -109,6 +109,15 @@ The selected resources have been :action!
 </td><td width="50%">
 
 The selected resources have been :action!
+
+</td></tr>
+<tr><td width="50%">
+
+User Security
+
+</td><td width="50%">
+
+User Security
 
 </td></tr>
 <tr><td width="50%">

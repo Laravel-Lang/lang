@@ -263,7 +263,7 @@
     "ex VAT": "ex VAT",
     "Excel (.xlsx)": "Excel (.xlsx)",
     "Expires :expiration": "有効期限: :expiration まで",
-    "Export As CSV": "Export As CSV",
+    "Export As CSV": "CSV形式で出力",
     "Extra Billing Information": "追加請求情報",
     "Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below.": "お支払いを完了するには、追加の確認が必要です。以下のボタンをクリックして、お支払いページに進んでください。",
     "Failed Subscription Payment": "サブスクリプションの支払いに失敗しました",

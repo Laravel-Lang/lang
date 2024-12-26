@@ -832,7 +832,7 @@
     "You have some unpaid invoices. After updating your default payment method, you may retry the payments via the invoice list below.": "未払いの請求書があります。お支払い方法の更新後、以下の請求書リストから支払いを再試行できます。",
     "You may accept this invitation by clicking the button below:": "以下のボタンをクリックして、この招待を受諾することができます:",
     "You may cancel your subscription at any time. Once your subscription has been cancelled, you will have the option to resume the subscription until the end of your current billing cycle.": "サブスクリプションはいつでもキャンセルできます。キャンセルする際は次回お支払い日まで利用を続けるかどうかを選択できます。",
-    "You may delete any of your existing tokens if they are no longer needed.": "不要なAPIトークンを削除する。",
+    "You may delete any of your existing tokens if they are no longer needed.": "不要になったAPIトークンを削除することができます。",
     "You may not delete your personal team.": "パーソナルチームを削除することはできません。",
     "You may not leave a team that you created.": "自身が作成したチームを離れることはできません。",
     "You will receive an invoice and payment link via email for each billing period.": "請求期間ごとに、請求書と支払いリンクがメールで送信されます。",

@@ -4,12 +4,12 @@ editLink: false
 
 # ln
 
-##### All missed: 53
+##### All missed: 52
 
 
 ### json
 
-##### Missing: 53
+##### Missing: 52
 
 <table width="100%">
 <tr><th width="50%">
@@ -451,15 +451,6 @@ Ukraine
 </td><td width="50%">
 
 Ukraine
-
-</td></tr>
-<tr><td width="50%">
-
-User Security
-
-</td><td width="50%">
-
-User Security
 
 </td></tr>
 <tr><td width="50%">

@@ -4,12 +4,12 @@ editLink: false
 
 # mi
 
-##### All missed: 162
+##### All missed: 158
 
 
 ### json
 
-##### Missing: 162
+##### Missing: 158
 
 <table width="100%">
 <tr><th width="50%">
@@ -455,15 +455,6 @@ Finland
 </td></tr>
 <tr><td width="50%">
 
-French Guiana
-
-</td><td width="50%">
-
-French Guiana
-
-</td></tr>
-<tr><td width="50%">
-
 Gabon
 
 </td><td width="50%">
@@ -824,15 +815,6 @@ Mayotte
 </td></tr>
 <tr><td width="50%">
 
-Micronesia, Federated States Of
-
-</td><td width="50%">
-
-Micronesia
-
-</td></tr>
-<tr><td width="50%">
-
 Micronesia, Federated States of
 
 </td><td width="50%">
@@ -1108,15 +1090,6 @@ Serbia
 </td><td width="50%">
 
 Serbia
-
-</td></tr>
-<tr><td width="50%">
-
-Seychelles
-
-</td><td width="50%">
-
-Seychelles
 
 </td></tr>
 <tr><td width="50%">
@@ -1405,15 +1378,6 @@ Uruguay
 </td><td width="50%">
 
 Uruguay
-
-</td></tr>
-<tr><td width="50%">
-
-User Security
-
-</td><td width="50%">
-
-User Security
 
 </td></tr>
 <tr><td width="50%">

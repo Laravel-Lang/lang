@@ -91,7 +91,7 @@ editLink: false
 
 </td><td width="12%">
 
-[doi&nbsp;❗](statuses/doi.md)
+[doi&nbsp;✔](statuses/doi.md)
 
 </td><td width="12%">
 

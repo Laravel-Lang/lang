@@ -4,12 +4,12 @@ editLink: false
 
 # tr
 
-##### All missed: 24
+##### All missed: 21
 
 
 ### json
 
-##### Missing: 24
+##### Missing: 21
 
 <table width="100%">
 <tr><th width="50%">
@@ -86,15 +86,6 @@ Download Invoice
 </td></tr>
 <tr><td width="50%">
 
-Email Verification
-
-</td><td width="50%">
-
-Email Verification
-
-</td></tr>
-<tr><td width="50%">
-
 Encrypted environment file already exists.
 
 </td><td width="50%">
@@ -199,24 +190,6 @@ The selected resources have been :action!
 </td><td width="50%">
 
 The selected resources have been :action!
-
-</td></tr>
-<tr><td width="50%">
-
-User Security
-
-</td><td width="50%">
-
-User Security
-
-</td></tr>
-<tr><td width="50%">
-
-Username
-
-</td><td width="50%">
-
-Username
 
 </td></tr>
 <tr><td width="50%">

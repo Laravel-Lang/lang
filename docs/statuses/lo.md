@@ -4,12 +4,12 @@ editLink: false
 
 # lo
 
-##### All missed: 26
+##### All missed: 25
 
 
 ### json
 
-##### Missing: 26
+##### Missing: 25
 
 <table width="100%">
 <tr><th width="50%">
@@ -244,15 +244,6 @@ Tokelau
 </td><td width="50%">
 
 Tokelau
-
-</td></tr>
-<tr><td width="50%">
-
-User Security
-
-</td><td width="50%">
-
-User Security
 
 </td></tr>
 </table>

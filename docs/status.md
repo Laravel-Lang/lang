@@ -4,7 +4,7 @@ editLink: false
 
 # Completion Status
 
-> Translation of localizations is completed by **93.39%** (132K / 141.4K).
+> Translation of localizations is completed by **94.27%** (134.7K / 142.9K).
 
 <table width="100%">
 <tr><td width="12%">
@@ -33,7 +33,7 @@ editLink: false
 
 </td><td width="12%">
 
-[be&nbsp;❗](statuses/be.md)
+[be&nbsp;✔](statuses/be.md)
 
 </td><td width="12%">
 
@@ -42,7 +42,7 @@ editLink: false
 </td></tr>
 <tr><td width="12%">
 
-[bho&nbsp;❗](statuses/bho.md)
+[bho&nbsp;✔](statuses/bho.md)
 
 </td><td width="12%">
 
@@ -83,15 +83,15 @@ editLink: false
 
 </td><td width="12%">
 
-[de&nbsp;✔](statuses/de.md)
+[de&nbsp;❗](statuses/de.md)
 
 </td><td width="12%">
 
-[de_CH&nbsp;✔](statuses/de_CH.md)
+[de_CH&nbsp;❗](statuses/de_CH.md)
 
 </td><td width="12%">
 
-[doi&nbsp;❗](statuses/doi.md)
+[doi&nbsp;✔](statuses/doi.md)
 
 </td><td width="12%">
 
@@ -165,11 +165,11 @@ editLink: false
 
 </td><td width="12%">
 
-[he&nbsp;❗](statuses/he.md)
+[he&nbsp;✔](statuses/he.md)
 
 </td><td width="12%">
 
-[hi&nbsp;❗](statuses/hi.md)
+[hi&nbsp;✔](statuses/hi.md)
 
 </td></tr>
 <tr><td width="12%">
@@ -182,11 +182,11 @@ editLink: false
 
 </td><td width="12%">
 
-[hy&nbsp;❗](statuses/hy.md)
+[hy&nbsp;✔](statuses/hy.md)
 
 </td><td width="12%">
 
-[id&nbsp;❗](statuses/id.md)
+[id&nbsp;✔](statuses/id.md)
 
 </td><td width="12%">
 
@@ -202,7 +202,7 @@ editLink: false
 
 </td><td width="12%">
 
-[ja&nbsp;❗](statuses/ja.md)
+[ja&nbsp;✔](statuses/ja.md)
 
 </td></tr>
 <tr><td width="12%">
@@ -211,7 +211,7 @@ editLink: false
 
 </td><td width="12%">
 
-[kk&nbsp;❗](statuses/kk.md)
+[kk&nbsp;✔](statuses/kk.md)
 
 </td><td width="12%">
 
@@ -223,7 +223,7 @@ editLink: false
 
 </td><td width="12%">
 
-[ko&nbsp;❗](statuses/ko.md)
+[ko&nbsp;✔](statuses/ko.md)
 
 </td><td width="12%">
 
@@ -256,11 +256,11 @@ editLink: false
 
 </td><td width="12%">
 
-[lv&nbsp;❗](statuses/lv.md)
+[lv&nbsp;✔](statuses/lv.md)
 
 </td><td width="12%">
 
-[mai&nbsp;❗](statuses/mai.md)
+[mai&nbsp;✔](statuses/mai.md)
 
 </td><td width="12%">
 
@@ -289,7 +289,7 @@ editLink: false
 
 </td><td width="12%">
 
-[mr&nbsp;❗](statuses/mr.md)
+[mr&nbsp;✔](statuses/mr.md)
 
 </td><td width="12%">
 
@@ -339,7 +339,7 @@ editLink: false
 </td></tr>
 <tr><td width="12%">
 
-[pl&nbsp;✔](statuses/pl.md)
+[pl&nbsp;❗](statuses/pl.md)
 
 </td><td width="12%">
 
@@ -384,7 +384,7 @@ editLink: false
 
 </td><td width="12%">
 
-[si&nbsp;❗](statuses/si.md)
+[si&nbsp;✔](statuses/si.md)
 
 </td><td width="12%">
 
@@ -475,7 +475,7 @@ editLink: false
 
 </td><td width="12%">
 
-[uk&nbsp;✔](statuses/uk.md)
+[uk&nbsp;❗](statuses/uk.md)
 
 </td><td width="12%">
 
@@ -508,7 +508,7 @@ editLink: false
 
 </td><td width="12%">
 
-[zh_CN&nbsp;✔](statuses/zh_CN.md)
+[zh_CN&nbsp;❗](statuses/zh_CN.md)
 
 </td><td width="12%">
 

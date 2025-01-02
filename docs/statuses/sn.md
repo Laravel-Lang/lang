@@ -4,12 +4,12 @@ editLink: false
 
 # sn
 
-##### All missed: 214
+##### All missed: 201
 
 
 ### json
 
-##### Missing: 210
+##### Missing: 201
 
 <table width="100%">
 <tr><th width="50%">
@@ -32,11 +32,11 @@ Value
 </td></tr>
 <tr><td width="50%">
 
-A decryption key is required.
+Action Events
 
 </td><td width="50%">
 
-A decryption key is required.
+Action Events
 
 </td></tr>
 <tr><td width="50%">
@@ -131,15 +131,6 @@ API Tokens
 </td></tr>
 <tr><td width="50%">
 
-Billing Information
-
-</td><td width="50%">
-
-Billing Information
-
-</td></tr>
-<tr><td width="50%">
-
 Billing Management
 
 </td><td width="50%">
@@ -208,15 +199,6 @@ Card
 </td><td width="50%">
 
 Card
-
-</td></tr>
-<tr><td width="50%">
-
-Change the current payment method attached to your subscription
-
-</td><td width="50%">
-
-Change the current payment method attached to your subscription
 
 </td></tr>
 <tr><td width="50%">
@@ -410,6 +392,15 @@ Delete File
 </td></tr>
 <tr><td width="50%">
 
+Delete Notification
+
+</td><td width="50%">
+
+Delete Notification
+
+</td></tr>
+<tr><td width="50%">
+
 Delete Resource
 
 </td><td width="50%">
@@ -491,15 +482,6 @@ Download
 </td></tr>
 <tr><td width="50%">
 
-Download Invoice
-
-</td><td width="50%">
-
-Download Invoice
-
-</td></tr>
-<tr><td width="50%">
-
 Edit
 
 </td><td width="50%">
@@ -563,47 +545,20 @@ Email Password Reset Link
 </td></tr>
 <tr><td width="50%">
 
+Email Verification
+
+</td><td width="50%">
+
+Email Verification
+
+</td></tr>
+<tr><td width="50%">
+
 Enable
 
 </td><td width="50%">
 
 Enable
-
-</td></tr>
-<tr><td width="50%">
-
-Encrypted environment file already exists.
-
-</td><td width="50%">
-
-Encrypted environment file already exists.
-
-</td></tr>
-<tr><td width="50%">
-
-Encrypted environment file not found.
-
-</td><td width="50%">
-
-Encrypted environment file not found.
-
-</td></tr>
-<tr><td width="50%">
-
-Environment file already exists.
-
-</td><td width="50%">
-
-Environment file already exists.
-
-</td></tr>
-<tr><td width="50%">
-
-Environment file not found.
-
-</td><td width="50%">
-
-Environment file not found.
 
 </td></tr>
 <tr><td width="50%">
@@ -752,15 +707,6 @@ Haiti
 </td></tr>
 <tr><td width="50%">
 
-Having second thoughts about cancelling your subscription? You can instantly reactivate your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
-
-</td><td width="50%">
-
-Having second thoughts about cancelling your subscription? You can instantly reactivate your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
-
-</td></tr>
-<tr><td width="50%">
-
 Holy See (Vatican City State)
 
 </td><td width="50%">
@@ -793,15 +739,6 @@ India
 </td><td width="50%">
 
 India
-
-</td></tr>
-<tr><td width="50%">
-
-Invalid filename.
-
-</td><td width="50%">
-
-Invalid filename.
 
 </td></tr>
 <tr><td width="50%">
@@ -919,15 +856,6 @@ Lao People's Democratic Republic
 </td><td width="50%">
 
 Lao People's Democratic Republic
-
-</td></tr>
-<tr><td width="50%">
-
-length
-
-</td><td width="50%">
-
-length
 
 </td></tr>
 <tr><td width="50%">
@@ -1207,6 +1135,15 @@ Nova
 </td><td width="50%">
 
 Nova
+
+</td></tr>
+<tr><td width="50%">
+
+OK
+
+</td><td width="50%">
+
+OK
 
 </td></tr>
 <tr><td width="50%">
@@ -1499,6 +1436,15 @@ Search
 </td></tr>
 <tr><td width="50%">
 
+Secure Area
+
+</td><td width="50%">
+
+Secure Area
+
+</td></tr>
+<tr><td width="50%">
+
 Server Error
 
 </td><td width="50%">
@@ -1643,15 +1589,6 @@ Team Details
 </td></tr>
 <tr><td width="50%">
 
-Team Name
-
-</td><td width="50%">
-
-Team Name
-
-</td></tr>
-<tr><td width="50%">
-
 Team Settings
 
 </td><td width="50%">
@@ -1751,15 +1688,6 @@ U.S. Outlying Islands
 </td></tr>
 <tr><td width="50%">
 
-Unknown
-
-</td><td width="50%">
-
-Unknown
-
-</td></tr>
-<tr><td width="50%">
-
 Update
 
 </td><td width="50%">
@@ -1783,6 +1711,15 @@ Uploading
 </td><td width="50%">
 
 Uploading
+
+</td></tr>
+<tr><td width="50%">
+
+Username
+
+</td><td width="50%">
+
+Username
 
 </td></tr>
 <tr><td width="50%">
@@ -1868,24 +1805,6 @@ Year To Date
 </td></tr>
 <tr><td width="50%">
 
-Your last payment of :amount failed. Please update your payment method to retry the failed payment.
-
-</td><td width="50%">
-
-Your last payment of :amount failed. Please update your payment method to retry the failed payment.
-
-</td></tr>
-<tr><td width="50%">
-
-Your subscription has been successfully cancelled. You will still have access until the end of your billing period.
-
-</td><td width="50%">
-
-Your subscription has been successfully cancelled. You will still have access until the end of your billing period.
-
-</td></tr>
-<tr><td width="50%">
-
 Zambia
 
 </td><td width="50%">
@@ -1909,82 +1828,6 @@ Zimbabwe
 </td><td width="50%">
 
 Åland Islands
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php-inline
-
-##### Missing: 2
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-contains
-
-</td><td width="50%">
-
-This field is missing a required value.
-
-</td></tr>
-<tr><td width="50%">
-
-required_if_declined
-
-</td><td width="50%">
-
-This field is required when :other is declined.
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php
-
-##### Missing: 2
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-contains
-
-</td><td width="50%">
-
-The :attribute field is missing a required value.
-
-</td></tr>
-<tr><td width="50%">
-
-required_if_declined
-
-</td><td width="50%">
-
-The :attribute field is required when :other is declined.
 
 </td></tr>
 </table>

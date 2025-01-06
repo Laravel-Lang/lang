@@ -9,7 +9,7 @@
     ":days day trial": ":Days日のトライアル",
     ":resource Details": ":Resource詳細",
     ":resource Details: :title": ":Resource詳細 :title",
-    "A decryption key is required.": "複合キーは必須です。",
+    "A decryption key is required.": "復号キーは必須です。",
     "A fresh verification link has been sent to your email address.": "新しい確認リンクがメールアドレスに送信されました。",
     "A new verification link has been sent to the email address you provided during registration.": "入力いただいたメールアドレスに確認メールを送信しました。",
     "A new verification link has been sent to the email address you provided in your profile settings.": "登録いただいたメールアドレスに確認メールを送信しました。",

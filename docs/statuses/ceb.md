@@ -4,12 +4,12 @@ editLink: false
 
 # ceb
 
-##### All missed: 251
+##### All missed: 247
 
 
 ### json
 
-##### Missing: 251
+##### Missing: 247
 
 <table width="100%">
 <tr><th width="50%">
@@ -653,15 +653,6 @@ Email Password Reset Link
 </td></tr>
 <tr><td width="50%">
 
-Email Verification
-
-</td><td width="50%">
-
-Email Verification
-
-</td></tr>
-<tr><td width="50%">
-
 Equatorial Guinea
 
 </td><td width="50%">
@@ -1000,24 +991,6 @@ Ireland
 </td><td width="50%">
 
 Ireland
-
-</td></tr>
-<tr><td width="50%">
-
-Isle Of Man
-
-</td><td width="50%">
-
-Isle of Man
-
-</td></tr>
-<tr><td width="50%">
-
-Isle of Man
-
-</td><td width="50%">
-
-Isle of Man
 
 </td></tr>
 <tr><td width="50%">
@@ -2179,15 +2152,6 @@ Uruguay
 </td><td width="50%">
 
 Uruguay
-
-</td></tr>
-<tr><td width="50%">
-
-User Security
-
-</td><td width="50%">
-
-User Security
 
 </td></tr>
 <tr><td width="50%">

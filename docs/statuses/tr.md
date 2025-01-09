@@ -4,12 +4,12 @@ editLink: false
 
 # tr
 
-##### All missed: 4
+##### All missed: 3
 
 
 ### json
 
-##### Missing: 4
+##### Missing: 3
 
 <table width="100%">
 <tr><th width="50%">
@@ -28,15 +28,6 @@ Delete Notification
 </td><td width="50%">
 
 Delete Notification
-
-</td></tr>
-<tr><td width="50%">
-
-Having second thoughts about cancelling your subscription? You can instantly reactivate your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
-
-</td><td width="50%">
-
-Having second thoughts about cancelling your subscription? You can instantly reactivate your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
 
 </td></tr>
 <tr><td width="50%">

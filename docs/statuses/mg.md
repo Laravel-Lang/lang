@@ -4,12 +4,12 @@ editLink: false
 
 # mg
 
-##### All missed: 116
+##### All missed: 95
 
 
 ### json
 
-##### Missing: 116
+##### Missing: 95
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,33 +21,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-:amount Total
-
-</td><td width="50%">
-
-:amount Total
-
-</td></tr>
-<tr><td width="50%">
-
-Action
-
-</td><td width="50%">
-
-Action
-
-</td></tr>
-<tr><td width="50%">
-
-Action Target
-
-</td><td width="50%">
-
-Target
-
-</td></tr>
 <tr><td width="50%">
 
 Albania
@@ -230,15 +203,6 @@ Dominica
 </td></tr>
 <tr><td width="50%">
 
-Download Receipt
-
-</td><td width="50%">
-
-Download Receipt
-
-</td></tr>
-<tr><td width="50%">
-
 El Salvador
 
 </td><td width="50%">
@@ -266,29 +230,11 @@ Ethiopia
 </td></tr>
 <tr><td width="50%">
 
-ex VAT
-
-</td><td width="50%">
-
-ex VAT
-
-</td></tr>
-<tr><td width="50%">
-
 Excel (.xlsx)
 
 </td><td width="50%">
 
 Excel (.xlsx)
-
-</td></tr>
-<tr><td width="50%">
-
-Force Delete Resource
-
-</td><td width="50%">
-
-Force Delete Resource
 
 </td></tr>
 <tr><td width="50%">
@@ -379,15 +325,6 @@ Hong Kong
 </td><td width="50%">
 
 Hong Kong
-
-</td></tr>
-<tr><td width="50%">
-
-ID
-
-</td><td width="50%">
-
-ID
 
 </td></tr>
 <tr><td width="50%">
@@ -464,15 +401,6 @@ Liechtenstein
 </td></tr>
 <tr><td width="50%">
 
-Load :perPage More
-
-</td><td width="50%">
-
-Load :perPage More
-
-</td></tr>
-<tr><td width="50%">
-
 Loading
 
 </td><td width="50%">
@@ -541,15 +469,6 @@ Malta
 </td><td width="50%">
 
 Malta
-
-</td></tr>
-<tr><td width="50%">
-
-Mark Read
-
-</td><td width="50%">
-
-Mark Read
 
 </td></tr>
 <tr><td width="50%">
@@ -662,15 +581,6 @@ Oman
 </td></tr>
 <tr><td width="50%">
 
-Pagination Navigation
-
-</td><td width="50%">
-
-Pagination Navigation
-
-</td></tr>
-<tr><td width="50%">
-
 Palau
 
 </td><td width="50%">
@@ -716,38 +626,11 @@ Qatar
 </td></tr>
 <tr><td width="50%">
 
-Regenerate Recovery Codes
-
-</td><td width="50%">
-
-Regenerate Recovery Codes
-
-</td></tr>
-<tr><td width="50%">
-
-Resource Row Dropdown
-
-</td><td width="50%">
-
-Resource Row Dropdown
-
-</td></tr>
-<tr><td width="50%">
-
 Romania
 
 </td><td width="50%">
 
 Romania
-
-</td></tr>
-<tr><td width="50%">
-
-Run Action
-
-</td><td width="50%">
-
-Run Action
 
 </td></tr>
 <tr><td width="50%">
@@ -806,47 +689,11 @@ San Marino
 </td></tr>
 <tr><td width="50%">
 
-Select
-
-</td><td width="50%">
-
-Select
-
-</td></tr>
-<tr><td width="50%">
-
-Select Action
-
-</td><td width="50%">
-
-Select Action
-
-</td></tr>
-<tr><td width="50%">
-
-Select All Dropdown
-
-</td><td width="50%">
-
-Select All Dropdown
-
-</td></tr>
-<tr><td width="50%">
-
 Serbia
 
 </td><td width="50%">
 
 Serbia
-
-</td></tr>
-<tr><td width="50%">
-
-Setup Key
-
-</td><td width="50%">
-
-Setup Key
 
 </td></tr>
 <tr><td width="50%">
@@ -865,15 +712,6 @@ Sierra Leone
 </td><td width="50%">
 
 Sierra Leone
-
-</td></tr>
-<tr><td width="50%">
-
-Sint Maarten (Dutch part)
-
-</td><td width="50%">
-
-Sint Maarten
 
 </td></tr>
 <tr><td width="50%">
@@ -928,15 +766,6 @@ Tanzania
 </td><td width="50%">
 
 Tanzania
-
-</td></tr>
-<tr><td width="50%">
-
-Timor-Leste
-
-</td><td width="50%">
-
-Timor-Leste
 
 </td></tr>
 <tr><td width="50%">
@@ -1004,15 +833,6 @@ Type
 </td></tr>
 <tr><td width="50%">
 
-United States Minor Outlying Islands
-
-</td><td width="50%">
-
-United States Minor Outlying Islands
-
-</td></tr>
-<tr><td width="50%">
-
 Uruguay
 
 </td><td width="50%">
@@ -1027,15 +847,6 @@ Vanuatu
 </td><td width="50%">
 
 Vanuatu
-
-</td></tr>
-<tr><td width="50%">
-
-View
-
-</td><td width="50%">
-
-View
 
 </td></tr>
 <tr><td width="50%">

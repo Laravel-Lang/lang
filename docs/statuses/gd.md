@@ -4,12 +4,12 @@ editLink: false
 
 # gd
 
-##### All missed: 143
+##### All missed: 137
 
 
 ### json
 
-##### Missing: 143
+##### Missing: 137
 
 <table width="100%">
 <tr><th width="50%">
@@ -194,15 +194,6 @@ Brazil
 </td></tr>
 <tr><td width="50%">
 
-Brunei Darussalam
-
-</td><td width="50%">
-
-Brunei Darussalam
-
-</td></tr>
-<tr><td width="50%">
-
 Cambodia
 
 </td><td width="50%">
@@ -284,29 +275,11 @@ Coupon
 </td></tr>
 <tr><td width="50%">
 
-CSV (.csv)
-
-</td><td width="50%">
-
-CSV (.csv)
-
-</td></tr>
-<tr><td width="50%">
-
 Cuba
 
 </td><td width="50%">
 
 Cuba
-
-</td></tr>
-<tr><td width="50%">
-
-Detach
-
-</td><td width="50%">
-
-Detach
 
 </td></tr>
 <tr><td width="50%">
@@ -541,15 +514,6 @@ Hong Kong
 </td><td width="50%">
 
 Hong Kong
-
-</td></tr>
-<tr><td width="50%">
-
-ID
-
-</td><td width="50%">
-
-ID
 
 </td></tr>
 <tr><td width="50%">
@@ -995,15 +959,6 @@ Romania
 </td></tr>
 <tr><td width="50%">
 
-Russian Federation
-
-</td><td width="50%">
-
-Russian Federation
-
-</td></tr>
-<tr><td width="50%">
-
 Rwanda
 
 </td><td width="50%">
@@ -1081,15 +1036,6 @@ Singapore
 </td><td width="50%">
 
 Singapore
-
-</td></tr>
-<tr><td width="50%">
-
-Sint Maarten (Dutch part)
-
-</td><td width="50%">
-
-Sint Maarten
 
 </td></tr>
 <tr><td width="50%">

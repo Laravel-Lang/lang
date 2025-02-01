@@ -4,12 +4,12 @@ editLink: false
 
 # sv
 
-##### All missed: 110
+##### All missed: 96
 
 
 ### json
 
-##### Missing: 110
+##### Missing: 96
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,24 +21,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-Action Event
-
-</td><td width="50%">
-
-Action Event
-
-</td></tr>
-<tr><td width="50%">
-
-Action Events
-
-</td><td width="50%">
-
-Action Events
-
-</td></tr>
 <tr><td width="50%">
 
 Action Status
@@ -95,15 +77,6 @@ Argentina
 </td></tr>
 <tr><td width="50%">
 
-Aruba
-
-</td><td width="50%">
-
-Aruba
-
-</td></tr>
-<tr><td width="50%">
-
 Bahamas
 
 </td><td width="50%">
@@ -136,15 +109,6 @@ Barbados
 </td><td width="50%">
 
 Barbados
-
-</td></tr>
-<tr><td width="50%">
-
-Belize
-
-</td><td width="50%">
-
-Belize
 
 </td></tr>
 <tr><td width="50%">
@@ -320,15 +284,6 @@ Gibraltar
 </td></tr>
 <tr><td width="50%">
 
-Grenada
-
-</td><td width="50%">
-
-Grenada
-
-</td></tr>
-<tr><td width="50%">
-
 Guadeloupe
 
 </td><td width="50%">
@@ -374,15 +329,6 @@ Guinea
 </td></tr>
 <tr><td width="50%">
 
-Guinea-Bissau
-
-</td><td width="50%">
-
-Guinea-Bissau
-
-</td></tr>
-<tr><td width="50%">
-
 Guyana
 
 </td><td width="50%">
@@ -397,24 +343,6 @@ Haiti
 </td><td width="50%">
 
 Haiti
-
-</td></tr>
-<tr><td width="50%">
-
-Honduras
-
-</td><td width="50%">
-
-Honduras
-
-</td></tr>
-<tr><td width="50%">
-
-ID
-
-</td><td width="50%">
-
-ID
 
 </td></tr>
 <tr><td width="50%">
@@ -527,15 +455,6 @@ Liechtenstein
 </td></tr>
 <tr><td width="50%">
 
-Macao
-
-</td><td width="50%">
-
-Macao
-
-</td></tr>
-<tr><td width="50%">
-
 Malawi
 
 </td><td width="50%">
@@ -770,24 +689,6 @@ Rwanda
 </td></tr>
 <tr><td width="50%">
 
-Saint Barthélemy
-
-</td><td width="50%">
-
-Saint Barthélemy
-
-</td></tr>
-<tr><td width="50%">
-
-Saint Lucia
-
-</td><td width="50%">
-
-Saint Lucia
-
-</td></tr>
-<tr><td width="50%">
-
 Samoa
 
 </td><td width="50%">
@@ -833,29 +734,11 @@ Singapore
 </td></tr>
 <tr><td width="50%">
 
-Sint Maarten (Dutch part)
-
-</td><td width="50%">
-
-Sint Maarten
-
-</td></tr>
-<tr><td width="50%">
-
 Somalia
 
 </td><td width="50%">
 
 Somalia
-
-</td></tr>
-<tr><td width="50%">
-
-Sri Lanka
-
-</td><td width="50%">
-
-Sri Lanka
 
 </td></tr>
 <tr><td width="50%">
@@ -892,15 +775,6 @@ Thailand
 </td><td width="50%">
 
 Thailand
-
-</td></tr>
-<tr><td width="50%">
-
-Togo
-
-</td><td width="50%">
-
-Togo
 
 </td></tr>
 <tr><td width="50%">

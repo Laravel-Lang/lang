@@ -4,12 +4,12 @@ editLink: false
 
 # ig
 
-##### All missed: 230
+##### All missed: 130
 
 
 ### json
 
-##### Missing: 230
+##### Missing: 130
 
 <table width="100%">
 <tr><th width="50%">
@@ -32,15 +32,6 @@ Afghanistan
 </td></tr>
 <tr><td width="50%">
 
-Albania
-
-</td><td width="50%">
-
-Albania
-
-</td></tr>
-<tr><td width="50%">
-
 Algeria
 
 </td><td width="50%">
@@ -59,47 +50,11 @@ American Samoa
 </td></tr>
 <tr><td width="50%">
 
-Andorra
-
-</td><td width="50%">
-
-Andorra
-
-</td></tr>
-<tr><td width="50%">
-
-Angola
-
-</td><td width="50%">
-
-Angola
-
-</td></tr>
-<tr><td width="50%">
-
-Anguilla
-
-</td><td width="50%">
-
-Anguilla
-
-</td></tr>
-<tr><td width="50%">
-
 Antarctica
 
 </td><td width="50%">
 
 Antarctica
-
-</td></tr>
-<tr><td width="50%">
-
-API Token
-
-</td><td width="50%">
-
-API Token
 
 </td></tr>
 <tr><td width="50%">
@@ -122,15 +77,6 @@ Armenia
 </td></tr>
 <tr><td width="50%">
 
-Aruba
-
-</td><td width="50%">
-
-Aruba
-
-</td></tr>
-<tr><td width="50%">
-
 Austria
 
 </td><td width="50%">
@@ -149,24 +95,6 @@ Azerbaijan
 </td></tr>
 <tr><td width="50%">
 
-Bahamas
-
-</td><td width="50%">
-
-Bahamas
-
-</td></tr>
-<tr><td width="50%">
-
-Bahrain
-
-</td><td width="50%">
-
-Bahrain
-
-</td></tr>
-<tr><td width="50%">
-
 Bangladesh
 
 </td><td width="50%">
@@ -181,33 +109,6 @@ Barbados
 </td><td width="50%">
 
 Barbados
-
-</td></tr>
-<tr><td width="50%">
-
-Belarus
-
-</td><td width="50%">
-
-Belarus
-
-</td></tr>
-<tr><td width="50%">
-
-Belgium
-
-</td><td width="50%">
-
-Belgium
-
-</td></tr>
-<tr><td width="50%">
-
-Belize
-
-</td><td width="50%">
-
-Belize
 
 </td></tr>
 <tr><td width="50%">
@@ -239,15 +140,6 @@ Bhutan
 </td></tr>
 <tr><td width="50%">
 
-Bolivia
-
-</td><td width="50%">
-
-Bolivia
-
-</td></tr>
-<tr><td width="50%">
-
 Botswana
 
 </td><td width="50%">
@@ -257,83 +149,11 @@ Botswana
 </td></tr>
 <tr><td width="50%">
 
-Bouvet Island
-
-</td><td width="50%">
-
-Bouvet Island
-
-</td></tr>
-<tr><td width="50%">
-
-Brazil
-
-</td><td width="50%">
-
-Brazil
-
-</td></tr>
-<tr><td width="50%">
-
-Brunei Darussalam
-
-</td><td width="50%">
-
-Brunei Darussalam
-
-</td></tr>
-<tr><td width="50%">
-
-Bulgaria
-
-</td><td width="50%">
-
-Bulgaria
-
-</td></tr>
-<tr><td width="50%">
-
 Burkina Faso
 
 </td><td width="50%">
 
 Burkina Faso
-
-</td></tr>
-<tr><td width="50%">
-
-Burundi
-
-</td><td width="50%">
-
-Burundi
-
-</td></tr>
-<tr><td width="50%">
-
-Cambodia
-
-</td><td width="50%">
-
-Cambodia
-
-</td></tr>
-<tr><td width="50%">
-
-Cameroon
-
-</td><td width="50%">
-
-Cameroon
-
-</td></tr>
-<tr><td width="50%">
-
-Canada
-
-</td><td width="50%">
-
-Canada
 
 </td></tr>
 <tr><td width="50%">
@@ -383,51 +203,6 @@ Chile
 </td></tr>
 <tr><td width="50%">
 
-China
-
-</td><td width="50%">
-
-China
-
-</td></tr>
-<tr><td width="50%">
-
-Christmas Island
-
-</td><td width="50%">
-
-Christmas Island
-
-</td></tr>
-<tr><td width="50%">
-
-Colombia
-
-</td><td width="50%">
-
-Colombia
-
-</td></tr>
-<tr><td width="50%">
-
-Comoros
-
-</td><td width="50%">
-
-Comoros
-
-</td></tr>
-<tr><td width="50%">
-
-Congo
-
-</td><td width="50%">
-
-Congo
-
-</td></tr>
-<tr><td width="50%">
-
 Congo, Democratic Republic
 
 </td><td width="50%">
@@ -442,24 +217,6 @@ Costa Rica
 </td><td width="50%">
 
 Costa Rica
-
-</td></tr>
-<tr><td width="50%">
-
-Cote D'Ivoire
-
-</td><td width="50%">
-
-Côte d'Ivoire
-
-</td></tr>
-<tr><td width="50%">
-
-Croatia
-
-</td><td width="50%">
-
-Croatia
 
 </td></tr>
 <tr><td width="50%">
@@ -482,29 +239,11 @@ Czech Republic
 </td></tr>
 <tr><td width="50%">
 
-Côte d'Ivoire
-
-</td><td width="50%">
-
-Côte d'Ivoire
-
-</td></tr>
-<tr><td width="50%">
-
 Dashboard
 
 </td><td width="50%">
 
 Dashboard
-
-</td></tr>
-<tr><td width="50%">
-
-Denmark
-
-</td><td width="50%">
-
-Denmark
 
 </td></tr>
 <tr><td width="50%">
@@ -536,74 +275,11 @@ Ecuador
 </td></tr>
 <tr><td width="50%">
 
-Egypt
-
-</td><td width="50%">
-
-Egypt
-
-</td></tr>
-<tr><td width="50%">
-
-El Salvador
-
-</td><td width="50%">
-
-El Salvador
-
-</td></tr>
-<tr><td width="50%">
-
-Email
-
-</td><td width="50%">
-
-Email
-
-</td></tr>
-<tr><td width="50%">
-
-email
-
-</td><td width="50%">
-
-email
-
-</td></tr>
-<tr><td width="50%">
-
-Equatorial Guinea
-
-</td><td width="50%">
-
-Equatorial Guinea
-
-</td></tr>
-<tr><td width="50%">
-
 Eritrea
 
 </td><td width="50%">
 
 Eritrea
-
-</td></tr>
-<tr><td width="50%">
-
-Estonia
-
-</td><td width="50%">
-
-Estonia
-
-</td></tr>
-<tr><td width="50%">
-
-ex VAT
-
-</td><td width="50%">
-
-ex VAT
 
 </td></tr>
 <tr><td width="50%">
@@ -635,65 +311,11 @@ Finland
 </td></tr>
 <tr><td width="50%">
 
-France
-
-</td><td width="50%">
-
-France
-
-</td></tr>
-<tr><td width="50%">
-
-French Guiana
-
-</td><td width="50%">
-
-French Guiana
-
-</td></tr>
-<tr><td width="50%">
-
 French Polynesia
 
 </td><td width="50%">
 
 French Polynesia
-
-</td></tr>
-<tr><td width="50%">
-
-Gabon
-
-</td><td width="50%">
-
-Gabon
-
-</td></tr>
-<tr><td width="50%">
-
-Gambia
-
-</td><td width="50%">
-
-Gambia
-
-</td></tr>
-<tr><td width="50%">
-
-Germany
-
-</td><td width="50%">
-
-Germany
-
-</td></tr>
-<tr><td width="50%">
-
-Ghana
-
-</td><td width="50%">
-
-Ghana
 
 </td></tr>
 <tr><td width="50%">
@@ -707,29 +329,11 @@ Gibraltar
 </td></tr>
 <tr><td width="50%">
 
-Greece
-
-</td><td width="50%">
-
-Greece
-
-</td></tr>
-<tr><td width="50%">
-
 Greenland
 
 </td><td width="50%">
 
 Greenland
-
-</td></tr>
-<tr><td width="50%">
-
-Grenada
-
-</td><td width="50%">
-
-Grenada
 
 </td></tr>
 <tr><td width="50%">
@@ -743,65 +347,11 @@ Guadeloupe
 </td></tr>
 <tr><td width="50%">
 
-Guam
-
-</td><td width="50%">
-
-Guam
-
-</td></tr>
-<tr><td width="50%">
-
 Guatemala
 
 </td><td width="50%">
 
 Guatemala
-
-</td></tr>
-<tr><td width="50%">
-
-Guernsey
-
-</td><td width="50%">
-
-Guernsey
-
-</td></tr>
-<tr><td width="50%">
-
-Guinea-Bissau
-
-</td><td width="50%">
-
-Guinea-Bissau
-
-</td></tr>
-<tr><td width="50%">
-
-Guyana
-
-</td><td width="50%">
-
-Guyana
-
-</td></tr>
-<tr><td width="50%">
-
-Haiti
-
-</td><td width="50%">
-
-Haiti
-
-</td></tr>
-<tr><td width="50%">
-
-Holy See (Vatican City State)
-
-</td><td width="50%">
-
-Holy See (Vatican City State)
 
 </td></tr>
 <tr><td width="50%">
@@ -820,24 +370,6 @@ Hong Kong
 </td><td width="50%">
 
 Hong Kong
-
-</td></tr>
-<tr><td width="50%">
-
-Hungary
-
-</td><td width="50%">
-
-Hungary
-
-</td></tr>
-<tr><td width="50%">
-
-Iceland
-
-</td><td width="50%">
-
-Iceland
 
 </td></tr>
 <tr><td width="50%">
@@ -869,15 +401,6 @@ Iran
 </td></tr>
 <tr><td width="50%">
 
-Iran, Islamic Republic of
-
-</td><td width="50%">
-
-Iran, Islamic Republic of
-
-</td></tr>
-<tr><td width="50%">
-
 Iraq
 
 </td><td width="50%">
@@ -892,15 +415,6 @@ Ireland
 </td><td width="50%">
 
 Ireland
-
-</td></tr>
-<tr><td width="50%">
-
-Israel
-
-</td><td width="50%">
-
-Israel
 
 </td></tr>
 <tr><td width="50%">
@@ -932,47 +446,11 @@ Jersey
 </td></tr>
 <tr><td width="50%">
 
-Jordan
-
-</td><td width="50%">
-
-Jordan
-
-</td></tr>
-<tr><td width="50%">
-
-June
-
-</td><td width="50%">
-
-June
-
-</td></tr>
-<tr><td width="50%">
-
 Kazakhstan
 
 </td><td width="50%">
 
 Kazakhstan
-
-</td></tr>
-<tr><td width="50%">
-
-Kenya
-
-</td><td width="50%">
-
-Kenya
-
-</td></tr>
-<tr><td width="50%">
-
-Kiribati
-
-</td><td width="50%">
-
-Kiribati
 
 </td></tr>
 <tr><td width="50%">
@@ -986,38 +464,11 @@ South Korea
 </td></tr>
 <tr><td width="50%">
 
-Korea, Democratic People's Republic of
-
-</td><td width="50%">
-
-Korea, Democratic People's Republic of
-
-</td></tr>
-<tr><td width="50%">
-
-Korea, Republic of
-
-</td><td width="50%">
-
-Korea, Republic of
-
-</td></tr>
-<tr><td width="50%">
-
 Kosovo
 
 </td><td width="50%">
 
 Kosovo
-
-</td></tr>
-<tr><td width="50%">
-
-Kuwait
-
-</td><td width="50%">
-
-Kuwait
 
 </td></tr>
 <tr><td width="50%">
@@ -1040,38 +491,11 @@ Latvia
 </td></tr>
 <tr><td width="50%">
 
-Lebanon
-
-</td><td width="50%">
-
-Lebanon
-
-</td></tr>
-<tr><td width="50%">
-
 Lesotho
 
 </td><td width="50%">
 
 Lesotho
-
-</td></tr>
-<tr><td width="50%">
-
-Liberia
-
-</td><td width="50%">
-
-Liberia
-
-</td></tr>
-<tr><td width="50%">
-
-Liechtenstein
-
-</td><td width="50%">
-
-Liechtenstein
 
 </td></tr>
 <tr><td width="50%">
@@ -1139,38 +563,11 @@ Malaysia
 </td></tr>
 <tr><td width="50%">
 
-Maldives
-
-</td><td width="50%">
-
-Maldives
-
-</td></tr>
-<tr><td width="50%">
-
-Mali
-
-</td><td width="50%">
-
-Mali
-
-</td></tr>
-<tr><td width="50%">
-
 Malta
 
 </td><td width="50%">
 
 Malta
-
-</td></tr>
-<tr><td width="50%">
-
-Marshall Islands
-
-</td><td width="50%">
-
-Marshall Islands
 
 </td></tr>
 <tr><td width="50%">
@@ -1184,24 +581,6 @@ Martinique
 </td></tr>
 <tr><td width="50%">
 
-Mauritania
-
-</td><td width="50%">
-
-Mauritania
-
-</td></tr>
-<tr><td width="50%">
-
-Mauritius
-
-</td><td width="50%">
-
-Mauritius
-
-</td></tr>
-<tr><td width="50%">
-
 Mexico
 
 </td><td width="50%">
@@ -1211,29 +590,11 @@ Mexico
 </td></tr>
 <tr><td width="50%">
 
-Micronesia, Federated States Of
-
-</td><td width="50%">
-
-Micronesia
-
-</td></tr>
-<tr><td width="50%">
-
 Moldova
 
 </td><td width="50%">
 
 Moldova
-
-</td></tr>
-<tr><td width="50%">
-
-Moldova, Republic of
-
-</td><td width="50%">
-
-Moldova, Republic of
 
 </td></tr>
 <tr><td width="50%">
@@ -1256,33 +617,6 @@ Mongolia
 </td></tr>
 <tr><td width="50%">
 
-Montenegro
-
-</td><td width="50%">
-
-Montenegro
-
-</td></tr>
-<tr><td width="50%">
-
-Montserrat
-
-</td><td width="50%">
-
-Montserrat
-
-</td></tr>
-<tr><td width="50%">
-
-Morocco
-
-</td><td width="50%">
-
-Morocco
-
-</td></tr>
-<tr><td width="50%">
-
 Mozambique
 
 </td><td width="50%">
@@ -1301,24 +635,6 @@ Myanmar
 </td></tr>
 <tr><td width="50%">
 
-Namibia
-
-</td><td width="50%">
-
-Namibia
-
-</td></tr>
-<tr><td width="50%">
-
-Nauru
-
-</td><td width="50%">
-
-Nauru
-
-</td></tr>
-<tr><td width="50%">
-
 Nepal
 
 </td><td width="50%">
@@ -1333,15 +649,6 @@ Netherlands
 </td><td width="50%">
 
 Netherlands
-
-</td></tr>
-<tr><td width="50%">
-
-New Caledonia
-
-</td><td width="50%">
-
-New Caledonia
 
 </td></tr>
 <tr><td width="50%">
@@ -1391,51 +698,6 @@ Niue
 </td></tr>
 <tr><td width="50%">
 
-Norfolk Island
-
-</td><td width="50%">
-
-Norfolk Island
-
-</td></tr>
-<tr><td width="50%">
-
-Northern Mariana Islands
-
-</td><td width="50%">
-
-Northern Mariana Islands
-
-</td></tr>
-<tr><td width="50%">
-
-Norway
-
-</td><td width="50%">
-
-Norway
-
-</td></tr>
-<tr><td width="50%">
-
-Nova
-
-</td><td width="50%">
-
-Nova
-
-</td></tr>
-<tr><td width="50%">
-
-October
-
-</td><td width="50%">
-
-October
-
-</td></tr>
-<tr><td width="50%">
-
 Oman
 
 </td><td width="50%">
@@ -1450,15 +712,6 @@ Pakistan
 </td><td width="50%">
 
 Pakistan
-
-</td></tr>
-<tr><td width="50%">
-
-Palau
-
-</td><td width="50%">
-
-Palau
 
 </td></tr>
 <tr><td width="50%">
@@ -1481,29 +734,11 @@ Papua New Guinea
 </td></tr>
 <tr><td width="50%">
 
-Paraguay
-
-</td><td width="50%">
-
-Paraguay
-
-</td></tr>
-<tr><td width="50%">
-
 Peru
 
 </td><td width="50%">
 
 Peru
-
-</td></tr>
-<tr><td width="50%">
-
-Philippines
-
-</td><td width="50%">
-
-Philippines
 
 </td></tr>
 <tr><td width="50%">
@@ -1526,29 +761,11 @@ Poland
 </td></tr>
 <tr><td width="50%">
 
-Portugal
-
-</td><td width="50%">
-
-Portugal
-
-</td></tr>
-<tr><td width="50%">
-
 Puerto Rico
 
 </td><td width="50%">
 
 Puerto Rico
-
-</td></tr>
-<tr><td width="50%">
-
-Qatar
-
-</td><td width="50%">
-
-Qatar
 
 </td></tr>
 <tr><td width="50%">
@@ -1576,15 +793,6 @@ Russian Federation
 </td><td width="50%">
 
 Russian Federation
-
-</td></tr>
-<tr><td width="50%">
-
-Rwanda
-
-</td><td width="50%">
-
-Rwanda
 
 </td></tr>
 <tr><td width="50%">
@@ -1670,15 +878,6 @@ Saudi Arabia
 </td></tr>
 <tr><td width="50%">
 
-Senegal
-
-</td><td width="50%">
-
-Senegal
-
-</td></tr>
-<tr><td width="50%">
-
 Serbia
 
 </td><td width="50%">
@@ -1796,29 +995,11 @@ Sudan
 </td></tr>
 <tr><td width="50%">
 
-Suriname
-
-</td><td width="50%">
-
-Suriname
-
-</td></tr>
-<tr><td width="50%">
-
 Swaziland
 
 </td><td width="50%">
 
 Swaziland
-
-</td></tr>
-<tr><td width="50%">
-
-Sweden
-
-</td><td width="50%">
-
-Sweden
 
 </td></tr>
 <tr><td width="50%">
@@ -1841,15 +1022,6 @@ Taiwan
 </td></tr>
 <tr><td width="50%">
 
-Tajikistan
-
-</td><td width="50%">
-
-Tajikistan
-
-</td></tr>
-<tr><td width="50%">
-
 Tanzania
 
 </td><td width="50%">
@@ -1868,15 +1040,6 @@ Tanzania, United Republic of
 </td></tr>
 <tr><td width="50%">
 
-Thailand
-
-</td><td width="50%">
-
-Thailand
-
-</td></tr>
-<tr><td width="50%">
-
 Togo
 
 </td><td width="50%">
@@ -1891,15 +1054,6 @@ Tokelau
 </td><td width="50%">
 
 Tokelau
-
-</td></tr>
-<tr><td width="50%">
-
-Tonga
-
-</td><td width="50%">
-
-Tonga
 
 </td></tr>
 <tr><td width="50%">
@@ -1976,24 +1130,6 @@ United States
 </td></tr>
 <tr><td width="50%">
 
-United States Minor Outlying Islands
-
-</td><td width="50%">
-
-United States Minor Outlying Islands
-
-</td></tr>
-<tr><td width="50%">
-
-United States Outlying Islands
-
-</td><td width="50%">
-
-U.S. Outlying Islands
-
-</td></tr>
-<tr><td width="50%">
-
 Uruguay
 
 </td><td width="50%">
@@ -2012,29 +1148,11 @@ Uzbekistan
 </td></tr>
 <tr><td width="50%">
 
-Vanuatu
-
-</td><td width="50%">
-
-Vanuatu
-
-</td></tr>
-<tr><td width="50%">
-
 Venezuela
 
 </td><td width="50%">
 
 Venezuela
-
-</td></tr>
-<tr><td width="50%">
-
-Venezuela, Bolivarian Republic of
-
-</td><td width="50%">
-
-Venezuela, Bolivarian Republic of
 
 </td></tr>
 <tr><td width="50%">
@@ -2071,24 +1189,6 @@ Yemen
 </td><td width="50%">
 
 Yemen
-
-</td></tr>
-<tr><td width="50%">
-
-Zambia
-
-</td><td width="50%">
-
-Zambia
-
-</td></tr>
-<tr><td width="50%">
-
-Zimbabwe
-
-</td><td width="50%">
-
-Zimbabwe
 
 </td></tr>
 </table>

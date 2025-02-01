@@ -4,12 +4,12 @@ editLink: false
 
 # ckb
 
-##### All missed: 4
+##### All missed: 1
 
 
 ### json
 
-##### Missing: 4
+##### Missing: 1
 
 <table width="100%">
 <tr><th width="50%">
@@ -28,33 +28,6 @@ API Token
 </td><td width="50%">
 
 API Token
-
-</td></tr>
-<tr><td width="50%">
-
-CSV (.csv)
-
-</td><td width="50%">
-
-CSV (.csv)
-
-</td></tr>
-<tr><td width="50%">
-
-ex VAT
-
-</td><td width="50%">
-
-ex VAT
-
-</td></tr>
-<tr><td width="50%">
-
-Run Action
-
-</td><td width="50%">
-
-Run Action
 
 </td></tr>
 </table>

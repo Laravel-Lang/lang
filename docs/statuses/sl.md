@@ -4,12 +4,12 @@ editLink: false
 
 # sl
 
-##### All missed: 49
+##### All missed: 42
 
 
 ### json
 
-##### Missing: 49
+##### Missing: 42
 
 <table width="100%">
 <tr><th width="50%">
@@ -113,24 +113,6 @@ Gibraltar
 </td></tr>
 <tr><td width="50%">
 
-Grenada
-
-</td><td width="50%">
-
-Grenada
-
-</td></tr>
-<tr><td width="50%">
-
-Guadeloupe
-
-</td><td width="50%">
-
-Guadeloupe
-
-</td></tr>
-<tr><td width="50%">
-
 Haiti
 
 </td><td width="50%">
@@ -145,15 +127,6 @@ Honduras
 </td><td width="50%">
 
 Honduras
-
-</td></tr>
-<tr><td width="50%">
-
-ID
-
-</td><td width="50%">
-
-ID
 
 </td></tr>
 <tr><td width="50%">
@@ -194,29 +167,11 @@ Kosovo
 </td></tr>
 <tr><td width="50%">
 
-Macao
-
-</td><td width="50%">
-
-Macao
-
-</td></tr>
-<tr><td width="50%">
-
 Malta
 
 </td><td width="50%">
 
 Malta
-
-</td></tr>
-<tr><td width="50%">
-
-Mayotte
-
-</td><td width="50%">
-
-Mayotte
 
 </td></tr>
 <tr><td width="50%">
@@ -253,15 +208,6 @@ Niue
 </td><td width="50%">
 
 Niue
-
-</td></tr>
-<tr><td width="50%">
-
-OK
-
-</td><td width="50%">
-
-OK
 
 </td></tr>
 <tr><td width="50%">
@@ -334,15 +280,6 @@ Saint Barthelemy
 </td><td width="50%">
 
 St. Barthélemy
-
-</td></tr>
-<tr><td width="50%">
-
-Saint Barthélemy
-
-</td><td width="50%">
-
-Saint Barthélemy
 
 </td></tr>
 <tr><td width="50%">

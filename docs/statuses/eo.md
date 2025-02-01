@@ -4,12 +4,12 @@ editLink: false
 
 # eo
 
-##### All missed: 17
+##### All missed: 14
 
 
 ### json
 
-##### Missing: 17
+##### Missing: 14
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,24 +23,6 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-API Token
-
-</td><td width="50%">
-
-API Token
-
-</td></tr>
-<tr><td width="50%">
-
-API Tokens
-
-</td><td width="50%">
-
-API Tokens
-
-</td></tr>
-<tr><td width="50%">
-
 Bermuda
 
 </td><td width="50%">
@@ -91,15 +73,6 @@ Kosovo
 </td><td width="50%">
 
 Kosovo
-
-</td></tr>
-<tr><td width="50%">
-
-Log Viewer
-
-</td><td width="50%">
-
-Log Viewer
 
 </td></tr>
 <tr><td width="50%">

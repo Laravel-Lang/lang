@@ -4,12 +4,12 @@ editLink: false
 
 # cs
 
-##### All missed: 54
+##### All missed: 52
 
 
 ### json
 
-##### Missing: 54
+##### Missing: 52
 
 <table width="100%">
 <tr><th width="50%">
@@ -248,15 +248,6 @@ Honduras
 </td></tr>
 <tr><td width="50%">
 
-ID
-
-</td><td width="50%">
-
-ID
-
-</td></tr>
-<tr><td width="50%">
-
 Kiribati
 
 </td><td width="50%">
@@ -343,15 +334,6 @@ Niue
 </td><td width="50%">
 
 Niue
-
-</td></tr>
-<tr><td width="50%">
-
-OK
-
-</td><td width="50%">
-
-OK
 
 </td></tr>
 <tr><td width="50%">

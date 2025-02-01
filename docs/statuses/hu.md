@@ -4,12 +4,12 @@ editLink: false
 
 # hu
 
-##### All missed: 62
+##### All missed: 58
 
 
 ### json
 
-##### Missing: 62
+##### Missing: 58
 
 <table width="100%">
 <tr><th width="50%">
@@ -176,15 +176,6 @@ Gambia
 </td></tr>
 <tr><td width="50%">
 
-Grenada
-
-</td><td width="50%">
-
-Grenada
-
-</td></tr>
-<tr><td width="50%">
-
 Guadeloupe
 
 </td><td width="50%">
@@ -253,15 +244,6 @@ Honduras
 </td><td width="50%">
 
 Honduras
-
-</td></tr>
-<tr><td width="50%">
-
-ID
-
-</td><td width="50%">
-
-ID
 
 </td></tr>
 <tr><td width="50%">
@@ -361,15 +343,6 @@ Moldova
 </td><td width="50%">
 
 Moldova
-
-</td></tr>
-<tr><td width="50%">
-
-Monaco
-
-</td><td width="50%">
-
-Monaco
 
 </td></tr>
 <tr><td width="50%">
@@ -568,15 +541,6 @@ Zambia
 </td><td width="50%">
 
 Zambia
-
-</td></tr>
-<tr><td width="50%">
-
-Zimbabwe
-
-</td><td width="50%">
-
-Zimbabwe
 
 </td></tr>
 </table>

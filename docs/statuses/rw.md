@@ -4,12 +4,12 @@ editLink: false
 
 # rw
 
-##### All missed: 92
+##### All missed: 82
 
 
 ### json
 
-##### Missing: 92
+##### Missing: 82
 
 <table width="100%">
 <tr><th width="50%">
@@ -50,24 +50,6 @@ Anguilla
 </td></tr>
 <tr><td width="50%">
 
-API Token
-
-</td><td width="50%">
-
-API Token
-
-</td></tr>
-<tr><td width="50%">
-
-API Tokens
-
-</td><td width="50%">
-
-API Tokens
-
-</td></tr>
-<tr><td width="50%">
-
 Aruba
 
 </td><td width="50%">
@@ -118,15 +100,6 @@ Botswana
 </td><td width="50%">
 
 Botswana
-
-</td></tr>
-<tr><td width="50%">
-
-Brunei Darussalam
-
-</td><td width="50%">
-
-Brunei Darussalam
 
 </td></tr>
 <tr><td width="50%">
@@ -185,15 +158,6 @@ Coupon
 </td></tr>
 <tr><td width="50%">
 
-CSV (.csv)
-
-</td><td width="50%">
-
-CSV (.csv)
-
-</td></tr>
-<tr><td width="50%">
-
 Curaçao
 
 </td><td width="50%">
@@ -419,15 +383,6 @@ Lesotho
 </td></tr>
 <tr><td width="50%">
 
-Liechtenstein
-
-</td><td width="50%">
-
-Liechtenstein
-
-</td></tr>
-<tr><td width="50%">
-
 Luxembourg
 
 </td><td width="50%">
@@ -500,15 +455,6 @@ Mexico
 </td></tr>
 <tr><td width="50%">
 
-Micronesia, Federated States Of
-
-</td><td width="50%">
-
-Micronesia
-
-</td></tr>
-<tr><td width="50%">
-
 Monaco
 
 </td><td width="50%">
@@ -523,24 +469,6 @@ Montenegro
 </td><td width="50%">
 
 Montenegro
-
-</td></tr>
-<tr><td width="50%">
-
-Montserrat
-
-</td><td width="50%">
-
-Montserrat
-
-</td></tr>
-<tr><td width="50%">
-
-Mozambique
-
-</td><td width="50%">
-
-Mozambique
 
 </td></tr>
 <tr><td width="50%">
@@ -671,15 +599,6 @@ Réunion
 </td></tr>
 <tr><td width="50%">
 
-Rwanda
-
-</td><td width="50%">
-
-Rwanda
-
-</td></tr>
-<tr><td width="50%">
-
 Réunion
 
 </td><td width="50%">
@@ -721,15 +640,6 @@ Singapore
 </td><td width="50%">
 
 Singapore
-
-</td></tr>
-<tr><td width="50%">
-
-Sint Maarten (Dutch part)
-
-</td><td width="50%">
-
-Sint Maarten
 
 </td></tr>
 <tr><td width="50%">

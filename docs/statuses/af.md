@@ -4,12 +4,12 @@ editLink: false
 
 # af
 
-##### All missed: 5
+##### All missed: 4
 
 
 ### json
 
-##### Missing: 5
+##### Missing: 4
 
 <table width="100%">
 <tr><th width="50%">
@@ -46,15 +46,6 @@ Logs
 </td><td width="50%">
 
 Logs
-
-</td></tr>
-<tr><td width="50%">
-
-OK
-
-</td><td width="50%">
-
-OK
 
 </td></tr>
 <tr><td width="50%">

@@ -4,12 +4,12 @@ editLink: false
 
 # lb
 
-##### All missed: 137
+##### All missed: 104
 
 
 ### json
 
-##### Missing: 137
+##### Missing: 104
 
 <table width="100%">
 <tr><th width="50%">
@@ -59,24 +59,6 @@ Angola
 </td></tr>
 <tr><td width="50%">
 
-API Token
-
-</td><td width="50%">
-
-API Token
-
-</td></tr>
-<tr><td width="50%">
-
-API Tokens
-
-</td><td width="50%">
-
-API Tokens
-
-</td></tr>
-<tr><td width="50%">
-
 Aruba
 
 </td><td width="50%">
@@ -167,15 +149,6 @@ Botswana
 </td></tr>
 <tr><td width="50%">
 
-Bouvet Island
-
-</td><td width="50%">
-
-Bouvet Island
-
-</td></tr>
-<tr><td width="50%">
-
 Brunei Darussalam
 
 </td><td width="50%">
@@ -221,15 +194,6 @@ China
 </td></tr>
 <tr><td width="50%">
 
-Code
-
-</td><td width="50%">
-
-Code
-
-</td></tr>
-<tr><td width="50%">
-
 Costa Rica
 
 </td><td width="50%">
@@ -248,38 +212,11 @@ Coupon
 </td></tr>
 <tr><td width="50%">
 
-CSV (.csv)
-
-</td><td width="50%">
-
-CSV (.csv)
-
-</td></tr>
-<tr><td width="50%">
-
-Curaçao
-
-</td><td width="50%">
-
-Curaçao
-
-</td></tr>
-<tr><td width="50%">
-
 Dashboard
 
 </td><td width="50%">
 
 Dashboard
-
-</td></tr>
-<tr><td width="50%">
-
-Default
-
-</td><td width="50%">
-
-Default
 
 </td></tr>
 <tr><td width="50%">
@@ -302,38 +239,11 @@ Dominica
 </td></tr>
 <tr><td width="50%">
 
-Download
-
-</td><td width="50%">
-
-Download
-
-</td></tr>
-<tr><td width="50%">
-
 Ecuador
 
 </td><td width="50%">
 
 Ecuador
-
-</td></tr>
-<tr><td width="50%">
-
-Edit
-
-</td><td width="50%">
-
-Edit
-
-</td></tr>
-<tr><td width="50%">
-
-Edit :resource
-
-</td><td width="50%">
-
-Edit :resource
 
 </td></tr>
 <tr><td width="50%">
@@ -401,15 +311,6 @@ Gibraltar
 </td></tr>
 <tr><td width="50%">
 
-Guadeloupe
-
-</td><td width="50%">
-
-Guadeloupe
-
-</td></tr>
-<tr><td width="50%">
-
 Guam
 
 </td><td width="50%">
@@ -424,15 +325,6 @@ Guatemala
 </td><td width="50%">
 
 Guatemala
-
-</td></tr>
-<tr><td width="50%">
-
-Guernsey
-
-</td><td width="50%">
-
-Guernsey
 
 </td></tr>
 <tr><td width="50%">
@@ -478,15 +370,6 @@ Hong Kong
 </td><td width="50%">
 
 Hong Kong
-
-</td></tr>
-<tr><td width="50%">
-
-ID
-
-</td><td width="50%">
-
-ID
 
 </td></tr>
 <tr><td width="50%">
@@ -500,24 +383,6 @@ Iran
 </td></tr>
 <tr><td width="50%">
 
-Isle Of Man
-
-</td><td width="50%">
-
-Isle of Man
-
-</td></tr>
-<tr><td width="50%">
-
-Isle of Man
-
-</td><td width="50%">
-
-Isle of Man
-
-</td></tr>
-<tr><td width="50%">
-
 Israel
 
 </td><td width="50%">
@@ -581,15 +446,6 @@ Kuwait
 </td></tr>
 <tr><td width="50%">
 
-Lens
-
-</td><td width="50%">
-
-Lens
-
-</td></tr>
-<tr><td width="50%">
-
 Lesotho
 
 </td><td width="50%">
@@ -617,29 +473,11 @@ Liechtenstein
 </td></tr>
 <tr><td width="50%">
 
-Location
-
-</td><td width="50%">
-
-Location
-
-</td></tr>
-<tr><td width="50%">
-
 Log Viewer
 
 </td><td width="50%">
 
 Log Viewer
-
-</td></tr>
-<tr><td width="50%">
-
-Login
-
-</td><td width="50%">
-
-Login
 
 </td></tr>
 <tr><td width="50%">
@@ -667,15 +505,6 @@ Malta
 </td><td width="50%">
 
 Malta
-
-</td></tr>
-<tr><td width="50%">
-
-Martinique
-
-</td><td width="50%">
-
-Martinique
 
 </td></tr>
 <tr><td width="50%">
@@ -788,15 +617,6 @@ Niue
 </td></tr>
 <tr><td width="50%">
 
-Nova
-
-</td><td width="50%">
-
-Nova
-
-</td></tr>
-<tr><td width="50%">
-
 November
 
 </td><td width="50%">
@@ -820,15 +640,6 @@ Oman
 </td><td width="50%">
 
 Oman
-
-</td></tr>
-<tr><td width="50%">
-
-Original
-
-</td><td width="50%">
-
-Original
 
 </td></tr>
 <tr><td width="50%">
@@ -878,15 +689,6 @@ Peru
 </td></tr>
 <tr><td width="50%">
 
-Pitcairn
-
-</td><td width="50%">
-
-Pitcairn
-
-</td></tr>
-<tr><td width="50%">
-
 Portugal
 
 </td><td width="50%">
@@ -901,42 +703,6 @@ Puerto Rico
 </td><td width="50%">
 
 Puerto Rico
-
-</td></tr>
-<tr><td width="50%">
-
-Reload
-
-</td><td width="50%">
-
-Reload
-
-</td></tr>
-<tr><td width="50%">
-
-Reunion
-
-</td><td width="50%">
-
-Réunion
-
-</td></tr>
-<tr><td width="50%">
-
-Réunion
-
-</td><td width="50%">
-
-Réunion
-
-</td></tr>
-<tr><td width="50%">
-
-Saint Barthélemy
-
-</td><td width="50%">
-
-Saint Barthélemy
 
 </td></tr>
 <tr><td width="50%">
@@ -1031,33 +797,6 @@ Sri Lanka
 </td></tr>
 <tr><td width="50%">
 
-Start Polling
-
-</td><td width="50%">
-
-Start Polling
-
-</td></tr>
-<tr><td width="50%">
-
-Stop Polling
-
-</td><td width="50%">
-
-Stop Polling
-
-</td></tr>
-<tr><td width="50%">
-
-Stop polling
-
-</td><td width="50%">
-
-Stop polling
-
-</td></tr>
-<tr><td width="50%">
-
 Sudan
 
 </td><td width="50%">
@@ -1076,15 +815,6 @@ Suriname
 </td></tr>
 <tr><td width="50%">
 
-System
-
-</td><td width="50%">
-
-System
-
-</td></tr>
-<tr><td width="50%">
-
 Taiwan
 
 </td><td width="50%">
@@ -1094,29 +824,11 @@ Taiwan
 </td></tr>
 <tr><td width="50%">
 
-TAX
-
-</td><td width="50%">
-
-TAX
-
-</td></tr>
-<tr><td width="50%">
-
 Thailand
 
 </td><td width="50%">
 
 Thailand
-
-</td></tr>
-<tr><td width="50%">
-
-Timor-Leste
-
-</td><td width="50%">
-
-Timor-Leste
 
 </td></tr>
 <tr><td width="50%">
@@ -1171,15 +883,6 @@ Ukraine
 </td><td width="50%">
 
 Ukraine
-
-</td></tr>
-<tr><td width="50%">
-
-Update
-
-</td><td width="50%">
-
-Update
 
 </td></tr>
 <tr><td width="50%">

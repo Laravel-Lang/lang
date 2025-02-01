@@ -207,7 +207,7 @@ editLink: false
 </td></tr>
 <tr><td width="12%">
 
-[ka&nbsp;❗](statuses/ka.md)
+[ka&nbsp;✔](statuses/ka.md)
 
 </td><td width="12%">
 

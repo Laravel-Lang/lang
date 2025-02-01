@@ -4,12 +4,12 @@ editLink: false
 
 # xh
 
-##### All missed: 34
+##### All missed: 24
 
 
 ### json
 
-##### Missing: 34
+##### Missing: 24
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,15 +23,6 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-American Samoa
-
-</td><td width="50%">
-
-American Samoa
-
-</td></tr>
-<tr><td width="50%">
-
 Bhutan
 
 </td><td width="50%">
@@ -59,38 +50,11 @@ Brazil
 </td></tr>
 <tr><td width="50%">
 
-Brunei Darussalam
-
-</td><td width="50%">
-
-Brunei Darussalam
-
-</td></tr>
-<tr><td width="50%">
-
 Burundi
 
 </td><td width="50%">
 
 Burundi
-
-</td></tr>
-<tr><td width="50%">
-
-CSV (.csv)
-
-</td><td width="50%">
-
-CSV (.csv)
-
-</td></tr>
-<tr><td width="50%">
-
-Dashboard
-
-</td><td width="50%">
-
-Dashboard
 
 </td></tr>
 <tr><td width="50%">
@@ -158,24 +122,6 @@ Lesotho
 </td></tr>
 <tr><td width="50%">
 
-Libyan Arab Jamahiriya
-
-</td><td width="50%">
-
-Libyan Arab Jamahiriya
-
-</td></tr>
-<tr><td width="50%">
-
-Log Viewer
-
-</td><td width="50%">
-
-Log Viewer
-
-</td></tr>
-<tr><td width="50%">
-
 Macao
 
 </td><td width="50%">
@@ -221,38 +167,11 @@ Montenegro
 </td></tr>
 <tr><td width="50%">
 
-Netherlands Antilles
-
-</td><td width="50%">
-
-Netherlands Antilles
-
-</td></tr>
-<tr><td width="50%">
-
-New Caledonia
-
-</td><td width="50%">
-
-New Caledonia
-
-</td></tr>
-<tr><td width="50%">
-
 Niue
 
 </td><td width="50%">
 
 Niue
-
-</td></tr>
-<tr><td width="50%">
-
-Nova
-
-</td><td width="50%">
-
-Nova
 
 </td></tr>
 <tr><td width="50%">
@@ -271,15 +190,6 @@ Peru
 </td><td width="50%">
 
 Peru
-
-</td></tr>
-<tr><td width="50%">
-
-Sint Maarten (Dutch part)
-
-</td><td width="50%">
-
-Sint Maarten
 
 </td></tr>
 <tr><td width="50%">

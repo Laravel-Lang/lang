@@ -4,12 +4,12 @@ editLink: false
 
 # gl
 
-##### All missed: 83
+##### All missed: 79
 
 
 ### json
 
-##### Missing: 83
+##### Missing: 79
 
 <table width="100%">
 <tr><th width="50%">
@@ -347,15 +347,6 @@ Hong Kong
 </td></tr>
 <tr><td width="50%">
 
-ID
-
-</td><td width="50%">
-
-ID
-
-</td></tr>
-<tr><td width="50%">
-
 India
 
 </td><td width="50%">
@@ -572,15 +563,6 @@ Niue
 </td></tr>
 <tr><td width="50%">
 
-OK
-
-</td><td width="50%">
-
-OK
-
-</td></tr>
-<tr><td width="50%">
-
 Palau
 
 </td><td width="50%">
@@ -698,29 +680,11 @@ Tokelau
 </td></tr>
 <tr><td width="50%">
 
-total
-
-</td><td width="50%">
-
-total
-
-</td></tr>
-<tr><td width="50%">
-
 Total:
 
 </td><td width="50%">
 
 Total:
-
-</td></tr>
-<tr><td width="50%">
-
-Tunisia
-
-</td><td width="50%">
-
-Tunisia
 
 </td></tr>
 <tr><td width="50%">

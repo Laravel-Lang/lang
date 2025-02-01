@@ -4,12 +4,12 @@ editLink: false
 
 # am
 
-##### All missed: 3
+##### All missed: 1
 
 
 ### json
 
-##### Missing: 3
+##### Missing: 1
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,24 +21,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-API Token
-
-</td><td width="50%">
-
-API Token
-
-</td></tr>
-<tr><td width="50%">
-
-API Tokens
-
-</td><td width="50%">
-
-API Tokens
-
-</td></tr>
 <tr><td width="50%">
 
 CSV (.csv)

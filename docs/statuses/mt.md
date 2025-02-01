@@ -4,12 +4,12 @@ editLink: false
 
 # mt
 
-##### All missed: 88
+##### All missed: 79
 
 
 ### json
 
-##### Missing: 88
+##### Missing: 79
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,15 +21,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-:amount Total
-
-</td><td width="50%">
-
-:amount Total
-
-</td></tr>
 <tr><td width="50%">
 
 Action Status
@@ -95,24 +86,6 @@ Barbados
 </td></tr>
 <tr><td width="50%">
 
-Belarus
-
-</td><td width="50%">
-
-Belarus
-
-</td></tr>
-<tr><td width="50%">
-
-Belize
-
-</td><td width="50%">
-
-Belize
-
-</td></tr>
-<tr><td width="50%">
-
 Benin
 
 </td><td width="50%">
@@ -176,15 +149,6 @@ Burundi
 </td></tr>
 <tr><td width="50%">
 
-Card
-
-</td><td width="50%">
-
-Card
-
-</td></tr>
-<tr><td width="50%">
-
 CSV (.csv)
 
 </td><td width="50%">
@@ -239,15 +203,6 @@ email
 </td></tr>
 <tr><td width="50%">
 
-ex VAT
-
-</td><td width="50%">
-
-ex VAT
-
-</td></tr>
-<tr><td width="50%">
-
 Excel (.xlsx)
 
 </td><td width="50%">
@@ -298,15 +253,6 @@ Guernsey
 </td><td width="50%">
 
 Guernsey
-
-</td></tr>
-<tr><td width="50%">
-
-Hold Up!
-
-</td><td width="50%">
-
-Hold Up!
 
 </td></tr>
 <tr><td width="50%">
@@ -383,29 +329,11 @@ Kosovo
 </td></tr>
 <tr><td width="50%">
 
-Lesotho
-
-</td><td width="50%">
-
-Lesotho
-
-</td></tr>
-<tr><td width="50%">
-
 Liechtenstein
 
 </td><td width="50%">
 
 Liechtenstein
-
-</td></tr>
-<tr><td width="50%">
-
-Log Viewer
-
-</td><td width="50%">
-
-Log Viewer
 
 </td></tr>
 <tr><td width="50%">
@@ -676,15 +604,6 @@ San Marino
 </td><td width="50%">
 
 San Marino
-
-</td></tr>
-<tr><td width="50%">
-
-Setup Key
-
-</td><td width="50%">
-
-Setup Key
 
 </td></tr>
 <tr><td width="50%">

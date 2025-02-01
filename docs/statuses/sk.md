@@ -4,12 +4,12 @@ editLink: false
 
 # sk
 
-##### All missed: 56
+##### All missed: 44
 
 
 ### json
 
-##### Missing: 56
+##### Missing: 44
 
 <table width="100%">
 <tr><th width="50%">
@@ -59,15 +59,6 @@ Barbados
 </td></tr>
 <tr><td width="50%">
 
-Belize
-
-</td><td width="50%">
-
-Belize
-
-</td></tr>
-<tr><td width="50%">
-
 Benin
 
 </td><td width="50%">
@@ -95,15 +86,6 @@ Burkina Faso
 </td></tr>
 <tr><td width="50%">
 
-Burundi
-
-</td><td width="50%">
-
-Burundi
-
-</td></tr>
-<tr><td width="50%">
-
 Cyprus
 
 </td><td width="50%">
@@ -127,15 +109,6 @@ Eritrea
 </td><td width="50%">
 
 Eritrea
-
-</td></tr>
-<tr><td width="50%">
-
-Gambia
-
-</td><td width="50%">
-
-Gambia
 
 </td></tr>
 <tr><td width="50%">
@@ -194,15 +167,6 @@ Guinea
 </td></tr>
 <tr><td width="50%">
 
-Guinea-Bissau
-
-</td><td width="50%">
-
-Guinea-Bissau
-
-</td></tr>
-<tr><td width="50%">
-
 Guyana
 
 </td><td width="50%">
@@ -230,29 +194,11 @@ Honduras
 </td></tr>
 <tr><td width="50%">
 
-ID
-
-</td><td width="50%">
-
-ID
-
-</td></tr>
-<tr><td width="50%">
-
 India
 
 </td><td width="50%">
 
 India
-
-</td></tr>
-<tr><td width="50%">
-
-Jersey
-
-</td><td width="50%">
-
-Jersey
 
 </td></tr>
 <tr><td width="50%">
@@ -271,15 +217,6 @@ Lesotho
 </td><td width="50%">
 
 Lesotho
-
-</td></tr>
-<tr><td width="50%">
-
-Macao
-
-</td><td width="50%">
-
-Macao
 
 </td></tr>
 <tr><td width="50%">
@@ -347,38 +284,11 @@ Niue
 </td></tr>
 <tr><td width="50%">
 
-OK
-
-</td><td width="50%">
-
-OK
-
-</td></tr>
-<tr><td width="50%">
-
 Pakistan
 
 </td><td width="50%">
 
 Pakistan
-
-</td></tr>
-<tr><td width="50%">
-
-Palau
-
-</td><td width="50%">
-
-Palau
-
-</td></tr>
-<tr><td width="50%">
-
-Panama
-
-</td><td width="50%">
-
-Panama
 
 </td></tr>
 <tr><td width="50%">
@@ -392,29 +302,11 @@ Peru
 </td></tr>
 <tr><td width="50%">
 
-Reunion
-
-</td><td width="50%">
-
-Réunion
-
-</td></tr>
-<tr><td width="50%">
-
 Rwanda
 
 </td><td width="50%">
 
 Rwanda
-
-</td></tr>
-<tr><td width="50%">
-
-Réunion
-
-</td><td width="50%">
-
-Réunion
 
 </td></tr>
 <tr><td width="50%">

@@ -4,12 +4,12 @@ editLink: false
 
 # ms
 
-##### All missed: 149
+##### All missed: 144
 
 
 ### json
 
-##### Missing: 149
+##### Missing: 144
 
 <table width="100%">
 <tr><th width="50%">
@@ -311,6 +311,15 @@ Congo
 </td></tr>
 <tr><td width="50%">
 
+Costa Rica
+
+</td><td width="50%">
+
+Costa Rica
+
+</td></tr>
+<tr><td width="50%">
+
 Cote D'Ivoire
 
 </td><td width="50%">
@@ -392,15 +401,6 @@ Estonia
 </td></tr>
 <tr><td width="50%">
 
-ex VAT
-
-</td><td width="50%">
-
-ex VAT
-
-</td></tr>
-<tr><td width="50%">
-
 Fiji
 
 </td><td width="50%">
@@ -559,15 +559,6 @@ Iceland
 </td><td width="50%">
 
 Iceland
-
-</td></tr>
-<tr><td width="50%">
-
-ID
-
-</td><td width="50%">
-
-ID
 
 </td></tr>
 <tr><td width="50%">
@@ -932,15 +923,6 @@ Nigeria
 </td></tr>
 <tr><td width="50%">
 
-Niue
-
-</td><td width="50%">
-
-Niue
-
-</td></tr>
-<tr><td width="50%">
-
 Norway
 
 </td><td width="50%">
@@ -959,15 +941,6 @@ November
 </td></tr>
 <tr><td width="50%">
 
-OK
-
-</td><td width="50%">
-
-OK
-
-</td></tr>
-<tr><td width="50%">
-
 Oman
 
 </td><td width="50%">
@@ -982,15 +955,6 @@ Pakistan
 </td><td width="50%">
 
 Pakistan
-
-</td></tr>
-<tr><td width="50%">
-
-Palau
-
-</td><td width="50%">
-
-Palau
 
 </td></tr>
 <tr><td width="50%">
@@ -1090,15 +1054,6 @@ Réunion
 </td><td width="50%">
 
 Réunion
-
-</td></tr>
-<tr><td width="50%">
-
-Saint Barthelemy
-
-</td><td width="50%">
-
-St. Barthélemy
 
 </td></tr>
 <tr><td width="50%">

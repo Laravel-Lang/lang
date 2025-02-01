@@ -4,12 +4,12 @@ editLink: false
 
 # et
 
-##### All missed: 6
+##### All missed: 3
 
 
 ### json
 
-##### Missing: 6
+##### Missing: 3
 
 <table width="100%">
 <tr><th width="50%">
@@ -41,38 +41,11 @@ Côte d'Ivoire
 </td></tr>
 <tr><td width="50%">
 
-OK
-
-</td><td width="50%">
-
-OK
-
-</td></tr>
-<tr><td width="50%">
-
-Réunion
-
-</td><td width="50%">
-
-Réunion
-
-</td></tr>
-<tr><td width="50%">
-
 Sint Maarten (Dutch part)
 
 </td><td width="50%">
 
 Sint Maarten
-
-</td></tr>
-<tr><td width="50%">
-
-To
-
-</td><td width="50%">
-
-To
 
 </td></tr>
 </table>

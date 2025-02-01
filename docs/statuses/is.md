@@ -4,12 +4,12 @@ editLink: false
 
 # is
 
-##### All missed: 6
+##### All missed: 4
 
 
 ### json
 
-##### Missing: 6
+##### Missing: 4
 
 <table width="100%">
 <tr><th width="50%">
@@ -28,24 +28,6 @@ Log Viewer
 </td><td width="50%">
 
 Log Viewer
-
-</td></tr>
-<tr><td width="50%">
-
-Logs
-
-</td><td width="50%">
-
-Logs
-
-</td></tr>
-<tr><td width="50%">
-
-Mark Read
-
-</td><td width="50%">
-
-Mark Read
 
 </td></tr>
 <tr><td width="50%">

@@ -4,12 +4,12 @@ editLink: false
 
 # lt
 
-##### All missed: 17
+##### All missed: 15
 
 
 ### json
 
-##### Missing: 17
+##### Missing: 15
 
 <table width="100%">
 <tr><th width="50%">
@@ -59,15 +59,6 @@ Grenada
 </td></tr>
 <tr><td width="50%">
 
-ID
-
-</td><td width="50%">
-
-ID
-
-</td></tr>
-<tr><td width="50%">
-
 Malta
 
 </td><td width="50%">
@@ -91,15 +82,6 @@ Nauru
 </td><td width="50%">
 
 Nauru
-
-</td></tr>
-<tr><td width="50%">
-
-Niue
-
-</td><td width="50%">
-
-Niue
 
 </td></tr>
 <tr><td width="50%">

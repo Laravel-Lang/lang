@@ -4,12 +4,12 @@ editLink: false
 
 # nn
 
-##### All missed: 142
+##### All missed: 140
 
 
 ### json
 
-##### Missing: 142
+##### Missing: 140
 
 <table width="100%">
 <tr><th width="50%">
@@ -509,15 +509,6 @@ Hong Kong
 </td></tr>
 <tr><td width="50%">
 
-ID
-
-</td><td width="50%">
-
-ID
-
-</td></tr>
-<tr><td width="50%">
-
 India
 
 </td><td width="50%">
@@ -901,15 +892,6 @@ Niue
 </td><td width="50%">
 
 Niue
-
-</td></tr>
-<tr><td width="50%">
-
-OK
-
-</td><td width="50%">
-
-OK
 
 </td></tr>
 <tr><td width="50%">

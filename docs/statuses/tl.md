@@ -4,12 +4,12 @@ editLink: false
 
 # tl
 
-##### All missed: 128
+##### All missed: 117
 
 
 ### json
 
-##### Missing: 128
+##### Missing: 117
 
 <table width="100%">
 <tr><th width="50%">
@@ -266,15 +266,6 @@ Editor
 </td></tr>
 <tr><td width="50%">
 
-Email Address
-
-</td><td width="50%">
-
-Email Address
-
-</td></tr>
-<tr><td width="50%">
-
 Eritrea
 
 </td><td width="50%">
@@ -298,15 +289,6 @@ Ethiopia
 </td><td width="50%">
 
 Ethiopia
-
-</td></tr>
-<tr><td width="50%">
-
-ex VAT
-
-</td><td width="50%">
-
-ex VAT
 
 </td></tr>
 <tr><td width="50%">
@@ -473,15 +455,6 @@ Iran, Islamic Republic of
 </td></tr>
 <tr><td width="50%">
 
-Isle of Man
-
-</td><td width="50%">
-
-Isle of Man
-
-</td></tr>
-<tr><td width="50%">
-
 Israel
 
 </td><td width="50%">
@@ -554,15 +527,6 @@ Liechtenstein
 </td></tr>
 <tr><td width="50%">
 
-Log out
-
-</td><td width="50%">
-
-Log out
-
-</td></tr>
-<tr><td width="50%">
-
 Luxembourg
 
 </td><td width="50%">
@@ -595,15 +559,6 @@ Malta
 </td><td width="50%">
 
 Malta
-
-</td></tr>
-<tr><td width="50%">
-
-Mark Read
-
-</td><td width="50%">
-
-Mark Read
 
 </td></tr>
 <tr><td width="50%">
@@ -734,15 +689,6 @@ Norway
 </td></tr>
 <tr><td width="50%">
 
-OK
-
-</td><td width="50%">
-
-OK
-
-</td></tr>
-<tr><td width="50%">
-
 Oman
 
 </td><td width="50%">
@@ -833,15 +779,6 @@ Qatar
 </td></tr>
 <tr><td width="50%">
 
-Resource Row Dropdown
-
-</td><td width="50%">
-
-Resource Row Dropdown
-
-</td></tr>
-<tr><td width="50%">
-
 Rwanda
 
 </td><td width="50%">
@@ -865,15 +802,6 @@ Saint Barthélemy
 </td><td width="50%">
 
 Saint Barthélemy
-
-</td></tr>
-<tr><td width="50%">
-
-Saint Martin
-
-</td><td width="50%">
-
-St. Martin
 
 </td></tr>
 <tr><td width="50%">
@@ -910,15 +838,6 @@ Senegal
 </td><td width="50%">
 
 Senegal
-
-</td></tr>
-<tr><td width="50%">
-
-Setup Key
-
-</td><td width="50%">
-
-Setup Key
 
 </td></tr>
 <tr><td width="50%">
@@ -1094,15 +1013,6 @@ United Arab Emirates
 </td></tr>
 <tr><td width="50%">
 
-United States Minor Outlying Islands
-
-</td><td width="50%">
-
-United States Minor Outlying Islands
-
-</td></tr>
-<tr><td width="50%">
-
 Username
 
 </td><td width="50%">
@@ -1162,15 +1072,6 @@ Zimbabwe
 </td><td width="50%">
 
 Zimbabwe
-
-</td></tr>
-<tr><td width="50%">
-
-Zip / Postal Code
-
-</td><td width="50%">
-
-Zip / Postal Code
 
 </td></tr>
 </table>

@@ -4,12 +4,12 @@ editLink: false
 
 # nl
 
-##### All missed: 18
+##### All missed: 21
 
 
 ### json
 
-##### Missing: 18
+##### Missing: 21
 
 <table width="100%">
 <tr><th width="50%">
@@ -59,6 +59,15 @@ Change the current payment method attached to your subscription
 </td></tr>
 <tr><td width="50%">
 
+Delete :resource
+
+</td><td width="50%">
+
+Delete :resource
+
+</td></tr>
+<tr><td width="50%">
+
 Delete Notification
 
 </td><td width="50%">
@@ -95,6 +104,15 @@ Export As CSV
 </td></tr>
 <tr><td width="50%">
 
+Force Delete :resource
+
+</td><td width="50%">
+
+Force Delete :resource
+
+</td></tr>
+<tr><td width="50%">
+
 Having second thoughts about cancelling your subscription? You can instantly reactivate your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
 
 </td><td width="50%">
@@ -127,6 +145,15 @@ OK
 </td><td width="50%">
 
 OK
+
+</td></tr>
+<tr><td width="50%">
+
+Restore :resource
+
+</td><td width="50%">
+
+Restore :resource
 
 </td></tr>
 <tr><td width="50%">

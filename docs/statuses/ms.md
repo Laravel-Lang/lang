@@ -4,12 +4,12 @@ editLink: false
 
 # ms
 
-##### All missed: 144
+##### All missed: 147
 
 
 ### json
 
-##### Missing: 144
+##### Missing: 147
 
 <table width="100%">
 <tr><th width="50%">
@@ -356,6 +356,15 @@ Côte d'Ivoire
 </td></tr>
 <tr><td width="50%">
 
+Delete :resource
+
+</td><td width="50%">
+
+Delete :resource
+
+</td></tr>
+<tr><td width="50%">
+
 Denmark
 
 </td><td width="50%">
@@ -415,6 +424,15 @@ Finland
 </td><td width="50%">
 
 Finland
+
+</td></tr>
+<tr><td width="50%">
+
+Force Delete :resource
+
+</td><td width="50%">
+
+Force Delete :resource
 
 </td></tr>
 <tr><td width="50%">
@@ -1027,6 +1045,15 @@ Qatar
 </td><td width="50%">
 
 Qatar
+
+</td></tr>
+<tr><td width="50%">
+
+Restore :resource
+
+</td><td width="50%">
+
+Restore :resource
 
 </td></tr>
 <tr><td width="50%">

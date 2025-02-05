@@ -4,12 +4,12 @@ editLink: false
 
 # zu
 
-##### All missed: 19
+##### All missed: 22
 
 
 ### json
 
-##### Missing: 19
+##### Missing: 22
 
 <table width="100%">
 <tr><th width="50%">
@@ -59,6 +59,15 @@ Cape Verde
 </td></tr>
 <tr><td width="50%">
 
+Delete :resource
+
+</td><td width="50%">
+
+Delete :resource
+
+</td></tr>
+<tr><td width="50%">
+
 Djibouti
 
 </td><td width="50%">
@@ -82,6 +91,15 @@ El Salvador
 </td><td width="50%">
 
 El Salvador
+
+</td></tr>
+<tr><td width="50%">
+
+Force Delete :resource
+
+</td><td width="50%">
+
+Force Delete :resource
 
 </td></tr>
 <tr><td width="50%">
@@ -163,6 +181,15 @@ Qatar
 </td><td width="50%">
 
 Qatar
+
+</td></tr>
+<tr><td width="50%">
+
+Restore :resource
+
+</td><td width="50%">
+
+Restore :resource
 
 </td></tr>
 <tr><td width="50%">

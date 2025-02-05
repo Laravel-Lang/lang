@@ -4,12 +4,12 @@ editLink: false
 
 # fy
 
-##### All missed: 65
+##### All missed: 68
 
 
 ### json
 
-##### Missing: 65
+##### Missing: 68
 
 <table width="100%">
 <tr><th width="50%">
@@ -140,6 +140,15 @@ Dashboard
 </td></tr>
 <tr><td width="50%">
 
+Delete :resource
+
+</td><td width="50%">
+
+Delete :resource
+
+</td></tr>
+<tr><td width="50%">
+
 Details
 
 </td><td width="50%">
@@ -172,6 +181,15 @@ Excel (.xlsx)
 </td><td width="50%">
 
 Excel (.xlsx)
+
+</td></tr>
+<tr><td width="50%">
+
+Force Delete :resource
+
+</td><td width="50%">
+
+Force Delete :resource
 
 </td></tr>
 <tr><td width="50%">
@@ -469,6 +487,15 @@ Register
 </td><td width="50%">
 
 Register
+
+</td></tr>
+<tr><td width="50%">
+
+Restore :resource
+
+</td><td width="50%">
+
+Restore :resource
 
 </td></tr>
 <tr><td width="50%">

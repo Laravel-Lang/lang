@@ -4,12 +4,12 @@ editLink: false
 
 # bs
 
-##### All missed: 44
+##### All missed: 47
 
 
 ### json
 
-##### Missing: 40
+##### Missing: 43
 
 <table width="100%">
 <tr><th width="50%">
@@ -86,6 +86,15 @@ Default
 </td></tr>
 <tr><td width="50%">
 
+Delete :resource
+
+</td><td width="50%">
+
+Delete :resource
+
+</td></tr>
+<tr><td width="50%">
+
 Delete Notification
 
 </td><td width="50%">
@@ -154,6 +163,15 @@ Export As CSV
 </td><td width="50%">
 
 Export As CSV
+
+</td></tr>
+<tr><td width="50%">
+
+Force Delete :resource
+
+</td><td width="50%">
+
+Force Delete :resource
 
 </td></tr>
 <tr><td width="50%">
@@ -262,6 +280,15 @@ Replicate
 </td><td width="50%">
 
 Replicate
+
+</td></tr>
+<tr><td width="50%">
+
+Restore :resource
+
+</td><td width="50%">
+
+Restore :resource
 
 </td></tr>
 <tr><td width="50%">

@@ -4,12 +4,12 @@ editLink: false
 
 # af
 
-##### All missed: 4
+##### All missed: 7
 
 
 ### json
 
-##### Missing: 4
+##### Missing: 7
 
 <table width="100%">
 <tr><th width="50%">
@@ -32,6 +32,24 @@ Status
 </td></tr>
 <tr><td width="50%">
 
+Delete :resource
+
+</td><td width="50%">
+
+Delete :resource
+
+</td></tr>
+<tr><td width="50%">
+
+Force Delete :resource
+
+</td><td width="50%">
+
+Force Delete :resource
+
+</td></tr>
+<tr><td width="50%">
+
 Iran, Islamic Republic Of
 
 </td><td width="50%">
@@ -46,6 +64,15 @@ Logs
 </td><td width="50%">
 
 Logs
+
+</td></tr>
+<tr><td width="50%">
+
+Restore :resource
+
+</td><td width="50%">
+
+Restore :resource
 
 </td></tr>
 <tr><td width="50%">

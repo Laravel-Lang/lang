@@ -4,12 +4,12 @@ editLink: false
 
 # ha
 
-##### All missed: 113
+##### All missed: 116
 
 
 ### json
 
-##### Missing: 113
+##### Missing: 116
 
 <table width="100%">
 <tr><th width="50%">
@@ -257,6 +257,15 @@ Dashboard
 </td></tr>
 <tr><td width="50%">
 
+Delete :resource
+
+</td><td width="50%">
+
+Delete :resource
+
+</td></tr>
+<tr><td width="50%">
+
 Djibouti
 
 </td><td width="50%">
@@ -298,6 +307,15 @@ Fiji
 </td><td width="50%">
 
 Fiji
+
+</td></tr>
+<tr><td width="50%">
+
+Force Delete :resource
+
+</td><td width="50%">
+
+Force Delete :resource
 
 </td></tr>
 <tr><td width="50%">
@@ -775,6 +793,15 @@ Qatar
 </td><td width="50%">
 
 Qatar
+
+</td></tr>
+<tr><td width="50%">
+
+Restore :resource
+
+</td><td width="50%">
+
+Restore :resource
 
 </td></tr>
 <tr><td width="50%">

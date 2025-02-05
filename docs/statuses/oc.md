@@ -4,7 +4,7 @@ editLink: false
 
 # oc
 
-##### All missed: 910
+##### All missed: 913
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 832
+##### Missing: 835
 
 <table width="100%">
 <tr><th width="50%">
@@ -1987,6 +1987,15 @@ Delete
 </td></tr>
 <tr><td width="50%">
 
+Delete :resource
+
+</td><td width="50%">
+
+Delete :resource
+
+</td></tr>
+<tr><td width="50%">
+
 Delete Account
 
 </td><td width="50%">
@@ -2595,6 +2604,15 @@ Force Delete
 </td><td width="50%">
 
 Force Delete
+
+</td></tr>
+<tr><td width="50%">
+
+Force Delete :resource
+
+</td><td width="50%">
+
+Force Delete :resource
 
 </td></tr>
 <tr><td width="50%">
@@ -5063,6 +5081,15 @@ Restore
 </td><td width="50%">
 
 Restore
+
+</td></tr>
+<tr><td width="50%">
+
+Restore :resource
+
+</td><td width="50%">
+
+Restore :resource
 
 </td></tr>
 <tr><td width="50%">

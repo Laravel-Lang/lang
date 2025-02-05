@@ -4,12 +4,12 @@ editLink: false
 
 # cy
 
-##### All missed: 7
+##### All missed: 10
 
 
 ### json
 
-##### Missing: 7
+##### Missing: 10
 
 <table width="100%">
 <tr><th width="50%">
@@ -41,6 +41,24 @@ Côte d'Ivoire
 </td></tr>
 <tr><td width="50%">
 
+Delete :resource
+
+</td><td width="50%">
+
+Delete :resource
+
+</td></tr>
+<tr><td width="50%">
+
+Force Delete :resource
+
+</td><td width="50%">
+
+Force Delete :resource
+
+</td></tr>
+<tr><td width="50%">
+
 Iran, Islamic Republic Of
 
 </td><td width="50%">
@@ -55,6 +73,15 @@ Micronesia, Federated States Of
 </td><td width="50%">
 
 Micronesia
+
+</td></tr>
+<tr><td width="50%">
+
+Restore :resource
+
+</td><td width="50%">
+
+Restore :resource
 
 </td></tr>
 <tr><td width="50%">

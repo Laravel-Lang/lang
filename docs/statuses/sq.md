@@ -4,12 +4,12 @@ editLink: false
 
 # sq
 
-##### All missed: 30
+##### All missed: 33
 
 
 ### json
 
-##### Missing: 30
+##### Missing: 33
 
 <table width="100%">
 <tr><th width="50%">
@@ -95,11 +95,29 @@ Burundi
 </td></tr>
 <tr><td width="50%">
 
+Delete :resource
+
+</td><td width="50%">
+
+Delete :resource
+
+</td></tr>
+<tr><td width="50%">
+
 Eritrea
 
 </td><td width="50%">
 
 Eritrea
+
+</td></tr>
+<tr><td width="50%">
+
+Force Delete :resource
+
+</td><td width="50%">
+
+Force Delete :resource
 
 </td></tr>
 <tr><td width="50%">
@@ -217,6 +235,15 @@ Palau
 </td><td width="50%">
 
 Palau
+
+</td></tr>
+<tr><td width="50%">
+
+Restore :resource
+
+</td><td width="50%">
+
+Restore :resource
 
 </td></tr>
 <tr><td width="50%">

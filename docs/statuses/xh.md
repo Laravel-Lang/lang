@@ -4,12 +4,12 @@ editLink: false
 
 # xh
 
-##### All missed: 24
+##### All missed: 27
 
 
 ### json
 
-##### Missing: 24
+##### Missing: 27
 
 <table width="100%">
 <tr><th width="50%">
@@ -59,11 +59,29 @@ Burundi
 </td></tr>
 <tr><td width="50%">
 
+Delete :resource
+
+</td><td width="50%">
+
+Delete :resource
+
+</td></tr>
+<tr><td width="50%">
+
 Fiji
 
 </td><td width="50%">
 
 Fiji
+
+</td></tr>
+<tr><td width="50%">
+
+Force Delete :resource
+
+</td><td width="50%">
+
+Force Delete :resource
 
 </td></tr>
 <tr><td width="50%">
@@ -190,6 +208,15 @@ Peru
 </td><td width="50%">
 
 Peru
+
+</td></tr>
+<tr><td width="50%">
+
+Restore :resource
+
+</td><td width="50%">
+
+Restore :resource
 
 </td></tr>
 <tr><td width="50%">

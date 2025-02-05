@@ -4,12 +4,12 @@ editLink: false
 
 # ky
 
-##### All missed: 9
+##### All missed: 6
 
 
 ### json
 
-##### Missing: 9
+##### Missing: 6
 
 <table width="100%">
 <tr><th width="50%">
@@ -32,29 +32,11 @@ CSV (.csv)
 </td></tr>
 <tr><td width="50%">
 
-Delete :resource
-
-</td><td width="50%">
-
-Delete :resource
-
-</td></tr>
-<tr><td width="50%">
-
 Excel (.xlsx)
 
 </td><td width="50%">
 
 Excel (.xlsx)
-
-</td></tr>
-<tr><td width="50%">
-
-Force Delete :resource
-
-</td><td width="50%">
-
-Force Delete :resource
 
 </td></tr>
 <tr><td width="50%">
@@ -91,15 +73,6 @@ Nova
 </td><td width="50%">
 
 Nova
-
-</td></tr>
-<tr><td width="50%">
-
-Restore :resource
-
-</td><td width="50%">
-
-Restore :resource
 
 </td></tr>
 </table>

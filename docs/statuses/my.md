@@ -4,12 +4,12 @@ editLink: false
 
 # my
 
-##### All missed: 7
+##### All missed: 4
 
 
 ### json
 
-##### Missing: 7
+##### Missing: 4
 
 <table width="100%">
 <tr><th width="50%">
@@ -32,38 +32,11 @@ CSV (.csv)
 </td></tr>
 <tr><td width="50%">
 
-Delete :resource
-
-</td><td width="50%">
-
-Delete :resource
-
-</td></tr>
-<tr><td width="50%">
-
 Excel (.xlsx)
 
 </td><td width="50%">
 
 Excel (.xlsx)
-
-</td></tr>
-<tr><td width="50%">
-
-Force Delete :resource
-
-</td><td width="50%">
-
-Force Delete :resource
-
-</td></tr>
-<tr><td width="50%">
-
-Restore :resource
-
-</td><td width="50%">
-
-Restore :resource
 
 </td></tr>
 <tr><td width="50%">

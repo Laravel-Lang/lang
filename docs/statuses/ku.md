@@ -4,12 +4,12 @@ editLink: false
 
 # ku
 
-##### All missed: 47
+##### All missed: 44
 
 
 ### json
 
-##### Missing: 47
+##### Missing: 44
 
 <table width="100%">
 <tr><th width="50%">
@@ -77,15 +77,6 @@ Dashboard
 </td></tr>
 <tr><td width="50%">
 
-Delete :resource
-
-</td><td width="50%">
-
-Delete :resource
-
-</td></tr>
-<tr><td width="50%">
-
 El Salvador
 
 </td><td width="50%">
@@ -109,15 +100,6 @@ Excel (.xlsx)
 </td><td width="50%">
 
 Excel (.xlsx)
-
-</td></tr>
-<tr><td width="50%">
-
-Force Delete :resource
-
-</td><td width="50%">
-
-Force Delete :resource
 
 </td></tr>
 <tr><td width="50%">
@@ -352,15 +334,6 @@ Qatar
 </td><td width="50%">
 
 Qatar
-
-</td></tr>
-<tr><td width="50%">
-
-Restore :resource
-
-</td><td width="50%">
-
-Restore :resource
 
 </td></tr>
 <tr><td width="50%">

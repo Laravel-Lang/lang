@@ -4,12 +4,12 @@ editLink: false
 
 # zh_CN
 
-##### All missed: 15
+##### All missed: 12
 
 
 ### json
 
-##### Missing: 15
+##### Missing: 12
 
 <table width="100%">
 <tr><th width="50%">
@@ -50,15 +50,6 @@ Are you sure you want to mark all notifications as read?
 </td></tr>
 <tr><td width="50%">
 
-Delete :resource
-
-</td><td width="50%">
-
-Delete :resource
-
-</td></tr>
-<tr><td width="50%">
-
 Delete Notification
 
 </td><td width="50%">
@@ -86,15 +77,6 @@ Export As CSV
 </td></tr>
 <tr><td width="50%">
 
-Force Delete :resource
-
-</td><td width="50%">
-
-Force Delete :resource
-
-</td></tr>
-<tr><td width="50%">
-
 Mark all notifications as read
 
 </td><td width="50%">
@@ -109,15 +91,6 @@ OK
 </td><td width="50%">
 
 OK
-
-</td></tr>
-<tr><td width="50%">
-
-Restore :resource
-
-</td><td width="50%">
-
-Restore :resource
 
 </td></tr>
 <tr><td width="50%">

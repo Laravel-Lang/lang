@@ -4,12 +4,12 @@ editLink: false
 
 # lo
 
-##### All missed: 18
+##### All missed: 15
 
 
 ### json
 
-##### Missing: 18
+##### Missing: 15
 
 <table width="100%">
 <tr><th width="50%">
@@ -50,15 +50,6 @@ Costa Rica
 </td></tr>
 <tr><td width="50%">
 
-Delete :resource
-
-</td><td width="50%">
-
-Delete :resource
-
-</td></tr>
-<tr><td width="50%">
-
 El Salvador
 
 </td><td width="50%">
@@ -73,15 +64,6 @@ Excel (.xlsx)
 </td><td width="50%">
 
 Excel (.xlsx)
-
-</td></tr>
-<tr><td width="50%">
-
-Force Delete :resource
-
-</td><td width="50%">
-
-Force Delete :resource
 
 </td></tr>
 <tr><td width="50%">
@@ -145,15 +127,6 @@ Montserrat
 </td><td width="50%">
 
 Montserrat
-
-</td></tr>
-<tr><td width="50%">
-
-Restore :resource
-
-</td><td width="50%">
-
-Restore :resource
 
 </td></tr>
 <tr><td width="50%">

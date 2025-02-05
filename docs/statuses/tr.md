@@ -4,12 +4,12 @@ editLink: false
 
 # tr
 
-##### All missed: 6
+##### All missed: 3
 
 
 ### json
 
-##### Missing: 6
+##### Missing: 3
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,15 +23,6 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-Delete :resource
-
-</td><td width="50%">
-
-Delete :resource
-
-</td></tr>
-<tr><td width="50%">
-
 Delete Notification
 
 </td><td width="50%">
@@ -41,29 +32,11 @@ Delete Notification
 </td></tr>
 <tr><td width="50%">
 
-Force Delete :resource
-
-</td><td width="50%">
-
-Force Delete :resource
-
-</td></tr>
-<tr><td width="50%">
-
 OK
 
 </td><td width="50%">
 
 OK
-
-</td></tr>
-<tr><td width="50%">
-
-Restore :resource
-
-</td><td width="50%">
-
-Restore :resource
 
 </td></tr>
 <tr><td width="50%">

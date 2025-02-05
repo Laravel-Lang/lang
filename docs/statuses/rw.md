@@ -4,12 +4,12 @@ editLink: false
 
 # rw
 
-##### All missed: 85
+##### All missed: 82
 
 
 ### json
 
-##### Missing: 85
+##### Missing: 82
 
 <table width="100%">
 <tr><th width="50%">
@@ -176,15 +176,6 @@ Côte d'Ivoire
 </td></tr>
 <tr><td width="50%">
 
-Delete :resource
-
-</td><td width="50%">
-
-Delete :resource
-
-</td></tr>
-<tr><td width="50%">
-
 Djibouti
 
 </td><td width="50%">
@@ -226,15 +217,6 @@ Fiji
 </td><td width="50%">
 
 Fiji
-
-</td></tr>
-<tr><td width="50%">
-
-Force Delete :resource
-
-</td><td width="50%">
-
-Force Delete :resource
 
 </td></tr>
 <tr><td width="50%">
@@ -604,15 +586,6 @@ Qatar
 </td><td width="50%">
 
 Qatar
-
-</td></tr>
-<tr><td width="50%">
-
-Restore :resource
-
-</td><td width="50%">
-
-Restore :resource
 
 </td></tr>
 <tr><td width="50%">

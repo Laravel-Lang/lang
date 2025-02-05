@@ -4,12 +4,12 @@ editLink: false
 
 # ee
 
-##### All missed: 9
+##### All missed: 6
 
 
 ### json
 
-##### Missing: 9
+##### Missing: 6
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,24 +23,6 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-Delete :resource
-
-</td><td width="50%">
-
-Delete :resource
-
-</td></tr>
-<tr><td width="50%">
-
-Force Delete :resource
-
-</td><td width="50%">
-
-Force Delete :resource
-
-</td></tr>
-<tr><td width="50%">
-
 Georgia
 
 </td><td width="50%">
@@ -73,15 +55,6 @@ India
 </td><td width="50%">
 
 India
-
-</td></tr>
-<tr><td width="50%">
-
-Restore :resource
-
-</td><td width="50%">
-
-Restore :resource
 
 </td></tr>
 <tr><td width="50%">

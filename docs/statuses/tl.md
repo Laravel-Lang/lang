@@ -4,12 +4,12 @@ editLink: false
 
 # tl
 
-##### All missed: 120
+##### All missed: 117
 
 
 ### json
 
-##### Missing: 120
+##### Missing: 117
 
 <table width="100%">
 <tr><th width="50%">
@@ -257,15 +257,6 @@ Default
 </td></tr>
 <tr><td width="50%">
 
-Delete :resource
-
-</td><td width="50%">
-
-Delete :resource
-
-</td></tr>
-<tr><td width="50%">
-
 Editor
 
 </td><td width="50%">
@@ -316,15 +307,6 @@ Filename
 </td><td width="50%">
 
 Filename
-
-</td></tr>
-<tr><td width="50%">
-
-Force Delete :resource
-
-</td><td width="50%">
-
-Force Delete :resource
 
 </td></tr>
 <tr><td width="50%">
@@ -793,15 +775,6 @@ Qatar
 </td><td width="50%">
 
 Qatar
-
-</td></tr>
-<tr><td width="50%">
-
-Restore :resource
-
-</td><td width="50%">
-
-Restore :resource
 
 </td></tr>
 <tr><td width="50%">

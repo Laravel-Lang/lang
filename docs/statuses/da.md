@@ -4,12 +4,12 @@ editLink: false
 
 # da
 
-##### All missed: 159
+##### All missed: 156
 
 
 ### json
 
-##### Missing: 158
+##### Missing: 155
 
 <table width="100%">
 <tr><th width="50%">
@@ -347,15 +347,6 @@ Dashboard
 </td></tr>
 <tr><td width="50%">
 
-Delete :resource
-
-</td><td width="50%">
-
-Delete :resource
-
-</td></tr>
-<tr><td width="50%">
-
 Delete Notification
 
 </td><td width="50%">
@@ -487,15 +478,6 @@ Finland
 </td><td width="50%">
 
 Finland
-
-</td></tr>
-<tr><td width="50%">
-
-Force Delete :resource
-
-</td><td width="50%">
-
-Force Delete :resource
 
 </td></tr>
 <tr><td width="50%">
@@ -1126,15 +1108,6 @@ Qatar
 </td><td width="50%">
 
 Qatar
-
-</td></tr>
-<tr><td width="50%">
-
-Restore :resource
-
-</td><td width="50%">
-
-Restore :resource
 
 </td></tr>
 <tr><td width="50%">

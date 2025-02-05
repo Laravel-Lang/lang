@@ -4,12 +4,12 @@ editLink: false
 
 # mi
 
-##### All missed: 89
+##### All missed: 86
 
 
 ### json
 
-##### Missing: 89
+##### Missing: 86
 
 <table width="100%">
 <tr><th width="50%">
@@ -203,15 +203,6 @@ Czech Republic
 </td></tr>
 <tr><td width="50%">
 
-Delete :resource
-
-</td><td width="50%">
-
-Delete :resource
-
-</td></tr>
-<tr><td width="50%">
-
 Djibouti
 
 </td><td width="50%">
@@ -253,15 +244,6 @@ Excel (.xlsx)
 </td><td width="50%">
 
 Excel (.xlsx)
-
-</td></tr>
-<tr><td width="50%">
-
-Force Delete :resource
-
-</td><td width="50%">
-
-Force Delete :resource
 
 </td></tr>
 <tr><td width="50%">
@@ -523,15 +505,6 @@ Puerto Rico
 </td><td width="50%">
 
 Puerto Rico
-
-</td></tr>
-<tr><td width="50%">
-
-Restore :resource
-
-</td><td width="50%">
-
-Restore :resource
 
 </td></tr>
 <tr><td width="50%">

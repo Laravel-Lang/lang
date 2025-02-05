@@ -4,12 +4,12 @@ editLink: false
 
 # uz_Cyrl
 
-##### All missed: 25
+##### All missed: 22
 
 
 ### json
 
-##### Missing: 25
+##### Missing: 22
 
 <table width="100%">
 <tr><th width="50%">
@@ -95,24 +95,6 @@ Chad
 </td></tr>
 <tr><td width="50%">
 
-Delete :resource
-
-</td><td width="50%">
-
-Delete :resource
-
-</td></tr>
-<tr><td width="50%">
-
-Force Delete :resource
-
-</td><td width="50%">
-
-Force Delete :resource
-
-</td></tr>
-<tr><td width="50%">
-
 Gabon
 
 </td><td width="50%">
@@ -208,15 +190,6 @@ Qatar
 </td><td width="50%">
 
 Qatar
-
-</td></tr>
-<tr><td width="50%">
-
-Restore :resource
-
-</td><td width="50%">
-
-Restore :resource
 
 </td></tr>
 <tr><td width="50%">

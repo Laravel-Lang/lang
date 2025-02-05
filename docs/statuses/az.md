@@ -4,12 +4,12 @@ editLink: false
 
 # az
 
-##### All missed: 59
+##### All missed: 56
 
 
 ### json
 
-##### Missing: 55
+##### Missing: 52
 
 <table width="100%">
 <tr><th width="50%">
@@ -131,15 +131,6 @@ Change the current payment method attached to your subscription
 </td></tr>
 <tr><td width="50%">
 
-Delete :resource
-
-</td><td width="50%">
-
-Delete :resource
-
-</td></tr>
-<tr><td width="50%">
-
 Delete Notification
 
 </td><td width="50%">
@@ -208,15 +199,6 @@ Export As CSV
 </td><td width="50%">
 
 Export As CSV
-
-</td></tr>
-<tr><td width="50%">
-
-Force Delete :resource
-
-</td><td width="50%">
-
-Force Delete :resource
 
 </td></tr>
 <tr><td width="50%">
@@ -415,15 +397,6 @@ Peru
 </td><td width="50%">
 
 Peru
-
-</td></tr>
-<tr><td width="50%">
-
-Restore :resource
-
-</td><td width="50%">
-
-Restore :resource
 
 </td></tr>
 <tr><td width="50%">

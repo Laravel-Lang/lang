@@ -4,12 +4,12 @@ editLink: false
 
 # fil
 
-##### All missed: 217
+##### All missed: 214
 
 
 ### json
 
-##### Missing: 217
+##### Missing: 214
 
 <table width="100%">
 <tr><th width="50%">
@@ -491,15 +491,6 @@ Default
 </td></tr>
 <tr><td width="50%">
 
-Delete :resource
-
-</td><td width="50%">
-
-Delete :resource
-
-</td></tr>
-<tr><td width="50%">
-
 Denmark
 
 </td><td width="50%">
@@ -640,15 +631,6 @@ Finland
 </td><td width="50%">
 
 Finland
-
-</td></tr>
-<tr><td width="50%">
-
-Force Delete :resource
-
-</td><td width="50%">
-
-Force Delete :resource
 
 </td></tr>
 <tr><td width="50%">
@@ -1531,15 +1513,6 @@ Recovery Code
 </td><td width="50%">
 
 Recovery Code
-
-</td></tr>
-<tr><td width="50%">
-
-Restore :resource
-
-</td><td width="50%">
-
-Restore :resource
 
 </td></tr>
 <tr><td width="50%">

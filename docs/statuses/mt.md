@@ -4,12 +4,12 @@ editLink: false
 
 # mt
 
-##### All missed: 82
+##### All missed: 79
 
 
 ### json
 
-##### Missing: 82
+##### Missing: 79
 
 <table width="100%">
 <tr><th width="50%">
@@ -176,15 +176,6 @@ Default
 </td></tr>
 <tr><td width="50%">
 
-Delete :resource
-
-</td><td width="50%">
-
-Delete :resource
-
-</td></tr>
-<tr><td width="50%">
-
 El Salvador
 
 </td><td width="50%">
@@ -217,15 +208,6 @@ Excel (.xlsx)
 </td><td width="50%">
 
 Excel (.xlsx)
-
-</td></tr>
-<tr><td width="50%">
-
-Force Delete :resource
-
-</td><td width="50%">
-
-Force Delete :resource
 
 </td></tr>
 <tr><td width="50%">
@@ -586,15 +568,6 @@ Reload
 </td><td width="50%">
 
 Reload
-
-</td></tr>
-<tr><td width="50%">
-
-Restore :resource
-
-</td><td width="50%">
-
-Restore :resource
 
 </td></tr>
 <tr><td width="50%">

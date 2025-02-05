@@ -4,12 +4,12 @@ editLink: false
 
 # is
 
-##### All missed: 7
+##### All missed: 4
 
 
 ### json
 
-##### Missing: 7
+##### Missing: 4
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,24 +23,6 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-Delete :resource
-
-</td><td width="50%">
-
-Delete :resource
-
-</td></tr>
-<tr><td width="50%">
-
-Force Delete :resource
-
-</td><td width="50%">
-
-Force Delete :resource
-
-</td></tr>
-<tr><td width="50%">
-
 Log Viewer
 
 </td><td width="50%">
@@ -55,15 +37,6 @@ Pitcairn
 </td><td width="50%">
 
 Pitcairn
-
-</td></tr>
-<tr><td width="50%">
-
-Restore :resource
-
-</td><td width="50%">
-
-Restore :resource
 
 </td></tr>
 <tr><td width="50%">

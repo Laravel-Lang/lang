@@ -4,12 +4,12 @@ editLink: false
 
 # ckb
 
-##### All missed: 4
+##### All missed: 1
 
 
 ### json
 
-##### Missing: 4
+##### Missing: 1
 
 <table width="100%">
 <tr><th width="50%">
@@ -28,33 +28,6 @@ API Token
 </td><td width="50%">
 
 API Token
-
-</td></tr>
-<tr><td width="50%">
-
-Delete :resource
-
-</td><td width="50%">
-
-Delete :resource
-
-</td></tr>
-<tr><td width="50%">
-
-Force Delete :resource
-
-</td><td width="50%">
-
-Force Delete :resource
-
-</td></tr>
-<tr><td width="50%">
-
-Restore :resource
-
-</td><td width="50%">
-
-Restore :resource
 
 </td></tr>
 </table>

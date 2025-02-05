@@ -4,12 +4,12 @@ editLink: false
 
 # lb
 
-##### All missed: 107
+##### All missed: 104
 
 
 ### json
 
-##### Missing: 107
+##### Missing: 104
 
 <table width="100%">
 <tr><th width="50%">
@@ -221,15 +221,6 @@ Dashboard
 </td></tr>
 <tr><td width="50%">
 
-Delete :resource
-
-</td><td width="50%">
-
-Delete :resource
-
-</td></tr>
-<tr><td width="50%">
-
 Djibouti
 
 </td><td width="50%">
@@ -280,15 +271,6 @@ Excel (.xlsx)
 </td><td width="50%">
 
 Excel (.xlsx)
-
-</td></tr>
-<tr><td width="50%">
-
-Force Delete :resource
-
-</td><td width="50%">
-
-Force Delete :resource
 
 </td></tr>
 <tr><td width="50%">
@@ -721,15 +703,6 @@ Puerto Rico
 </td><td width="50%">
 
 Puerto Rico
-
-</td></tr>
-<tr><td width="50%">
-
-Restore :resource
-
-</td><td width="50%">
-
-Restore :resource
 
 </td></tr>
 <tr><td width="50%">

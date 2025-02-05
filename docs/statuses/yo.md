@@ -4,12 +4,12 @@ editLink: false
 
 # yo
 
-##### All missed: 91
+##### All missed: 88
 
 
 ### json
 
-##### Missing: 91
+##### Missing: 88
 
 <table width="100%">
 <tr><th width="50%">
@@ -185,15 +185,6 @@ Congo, Democratic Republic
 </td></tr>
 <tr><td width="50%">
 
-Delete :resource
-
-</td><td width="50%">
-
-Delete :resource
-
-</td></tr>
-<tr><td width="50%">
-
 El Salvador
 
 </td><td width="50%">
@@ -217,15 +208,6 @@ Finland
 </td><td width="50%">
 
 Finland
-
-</td></tr>
-<tr><td width="50%">
-
-Force Delete :resource
-
-</td><td width="50%">
-
-Force Delete :resource
 
 </td></tr>
 <tr><td width="50%">
@@ -622,15 +604,6 @@ Philippines
 </td><td width="50%">
 
 Philippines
-
-</td></tr>
-<tr><td width="50%">
-
-Restore :resource
-
-</td><td width="50%">
-
-Restore :resource
 
 </td></tr>
 <tr><td width="50%">

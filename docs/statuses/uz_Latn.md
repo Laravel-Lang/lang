@@ -4,7 +4,7 @@ editLink: false
 
 # uz_Latn
 
-##### All missed: 423
+##### All missed: 420
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 356
+##### Missing: 353
 
 <table width="100%">
 <tr><th width="50%">
@@ -934,15 +934,6 @@ Default
 </td></tr>
 <tr><td width="50%">
 
-Delete :resource
-
-</td><td width="50%">
-
-Delete :resource
-
-</td></tr>
-<tr><td width="50%">
-
 Delete all notifications
 
 </td><td width="50%">
@@ -1164,15 +1155,6 @@ Finish enabling two factor authentication.
 </td><td width="50%">
 
 Finish enabling two factor authentication.
-
-</td></tr>
-<tr><td width="50%">
-
-Force Delete :resource
-
-</td><td width="50%">
-
-Force Delete :resource
 
 </td></tr>
 <tr><td width="50%">
@@ -2100,15 +2082,6 @@ Resource Row Dropdown
 </td><td width="50%">
 
 Resource Row Dropdown
-
-</td></tr>
-<tr><td width="50%">
-
-Restore :resource
-
-</td><td width="50%">
-
-Restore :resource
 
 </td></tr>
 <tr><td width="50%">

@@ -4,12 +4,12 @@ editLink: false
 
 # cs
 
-##### All missed: 52
+##### All missed: 55
 
 
 ### json
 
-##### Missing: 52
+##### Missing: 55
 
 <table width="100%">
 <tr><th width="50%">
@@ -122,6 +122,15 @@ Chile
 </td></tr>
 <tr><td width="50%">
 
+Delete :resource
+
+</td><td width="50%">
+
+Delete :resource
+
+</td></tr>
+<tr><td width="50%">
+
 Editor
 
 </td><td width="50%">
@@ -145,6 +154,15 @@ Eritrea
 </td><td width="50%">
 
 Eritrea
+
+</td></tr>
+<tr><td width="50%">
+
+Force Delete :resource
+
+</td><td width="50%">
+
+Force Delete :resource
 
 </td></tr>
 <tr><td width="50%">
@@ -361,6 +379,15 @@ Peru
 </td><td width="50%">
 
 Peru
+
+</td></tr>
+<tr><td width="50%">
+
+Restore :resource
+
+</td><td width="50%">
+
+Restore :resource
 
 </td></tr>
 <tr><td width="50%">

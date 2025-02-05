@@ -4,12 +4,12 @@ editLink: false
 
 # sn
 
-##### All missed: 81
+##### All missed: 84
 
 
 ### json
 
-##### Missing: 81
+##### Missing: 84
 
 <table width="100%">
 <tr><th width="50%">
@@ -149,6 +149,15 @@ Delete
 </td></tr>
 <tr><td width="50%">
 
+Delete :resource
+
+</td><td width="50%">
+
+Delete :resource
+
+</td></tr>
+<tr><td width="50%">
+
 Delete Resource
 
 </td><td width="50%">
@@ -235,6 +244,15 @@ Filename
 </td><td width="50%">
 
 Filename
+
+</td></tr>
+<tr><td width="50%">
+
+Force Delete :resource
+
+</td><td width="50%">
+
+Force Delete :resource
 
 </td></tr>
 <tr><td width="50%">
@@ -550,6 +568,15 @@ Replicate
 </td><td width="50%">
 
 Replicate
+
+</td></tr>
+<tr><td width="50%">
+
+Restore :resource
+
+</td><td width="50%">
+
+Restore :resource
 
 </td></tr>
 <tr><td width="50%">

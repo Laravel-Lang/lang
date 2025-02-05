@@ -4,12 +4,12 @@ editLink: false
 
 # gd
 
-##### All missed: 137
+##### All missed: 140
 
 
 ### json
 
-##### Missing: 137
+##### Missing: 140
 
 <table width="100%">
 <tr><th width="50%">
@@ -284,6 +284,15 @@ Cuba
 </td></tr>
 <tr><td width="50%">
 
+Delete :resource
+
+</td><td width="50%">
+
+Delete :resource
+
+</td></tr>
+<tr><td width="50%">
+
 Djibouti
 
 </td><td width="50%">
@@ -370,6 +379,15 @@ Fiji
 </td><td width="50%">
 
 Fiji
+
+</td></tr>
+<tr><td width="50%">
+
+Force Delete :resource
+
+</td><td width="50%">
+
+Force Delete :resource
 
 </td></tr>
 <tr><td width="50%">
@@ -937,6 +955,15 @@ Qatar
 </td><td width="50%">
 
 Qatar
+
+</td></tr>
+<tr><td width="50%">
+
+Restore :resource
+
+</td><td width="50%">
+
+Restore :resource
 
 </td></tr>
 <tr><td width="50%">

@@ -4,12 +4,12 @@ editLink: false
 
 # hu
 
-##### All missed: 58
+##### All missed: 61
 
 
 ### json
 
-##### Missing: 58
+##### Missing: 61
 
 <table width="100%">
 <tr><th width="50%">
@@ -140,6 +140,15 @@ Costa Rica
 </td></tr>
 <tr><td width="50%">
 
+Delete :resource
+
+</td><td width="50%">
+
+Delete :resource
+
+</td></tr>
+<tr><td width="50%">
+
 Ecuador
 
 </td><td width="50%">
@@ -154,6 +163,15 @@ Eritrea
 </td><td width="50%">
 
 Eritrea
+
+</td></tr>
+<tr><td width="50%">
+
+Force Delete :resource
+
+</td><td width="50%">
+
+Force Delete :resource
 
 </td></tr>
 <tr><td width="50%">
@@ -433,6 +451,15 @@ Puerto Rico
 </td><td width="50%">
 
 Puerto Rico
+
+</td></tr>
+<tr><td width="50%">
+
+Restore :resource
+
+</td><td width="50%">
+
+Restore :resource
 
 </td></tr>
 <tr><td width="50%">

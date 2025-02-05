@@ -4,12 +4,12 @@ editLink: false
 
 # mg
 
-##### All missed: 95
+##### All missed: 98
 
 
 ### json
 
-##### Missing: 95
+##### Missing: 98
 
 <table width="100%">
 <tr><th width="50%">
@@ -185,6 +185,15 @@ Côte d'Ivoire
 </td></tr>
 <tr><td width="50%">
 
+Delete :resource
+
+</td><td width="50%">
+
+Delete :resource
+
+</td></tr>
+<tr><td width="50%">
+
 Djibouti
 
 </td><td width="50%">
@@ -235,6 +244,15 @@ Excel (.xlsx)
 </td><td width="50%">
 
 Excel (.xlsx)
+
+</td></tr>
+<tr><td width="50%">
+
+Force Delete :resource
+
+</td><td width="50%">
+
+Force Delete :resource
 
 </td></tr>
 <tr><td width="50%">
@@ -622,6 +640,15 @@ Qatar
 </td><td width="50%">
 
 Qatar
+
+</td></tr>
+<tr><td width="50%">
+
+Restore :resource
+
+</td><td width="50%">
+
+Restore :resource
 
 </td></tr>
 <tr><td width="50%">

@@ -4,12 +4,12 @@ editLink: false
 
 # sl
 
-##### All missed: 42
+##### All missed: 45
 
 
 ### json
 
-##### Missing: 42
+##### Missing: 45
 
 <table width="100%">
 <tr><th width="50%">
@@ -91,6 +91,24 @@ Burundi
 </td><td width="50%">
 
 Burundi
+
+</td></tr>
+<tr><td width="50%">
+
+Delete :resource
+
+</td><td width="50%">
+
+Delete :resource
+
+</td></tr>
+<tr><td width="50%">
+
+Force Delete :resource
+
+</td><td width="50%">
+
+Force Delete :resource
 
 </td></tr>
 <tr><td width="50%">
@@ -262,6 +280,15 @@ Pitcairn
 </td><td width="50%">
 
 Pitcairn
+
+</td></tr>
+<tr><td width="50%">
+
+Restore :resource
+
+</td><td width="50%">
+
+Restore :resource
 
 </td></tr>
 <tr><td width="50%">

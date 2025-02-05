@@ -4,12 +4,12 @@ editLink: false
 
 # tk
 
-##### All missed: 35
+##### All missed: 38
 
 
 ### json
 
-##### Missing: 35
+##### Missing: 38
 
 <table width="100%">
 <tr><th width="50%">
@@ -113,6 +113,24 @@ Curaçao
 </td></tr>
 <tr><td width="50%">
 
+Delete :resource
+
+</td><td width="50%">
+
+Delete :resource
+
+</td></tr>
+<tr><td width="50%">
+
+Force Delete :resource
+
+</td><td width="50%">
+
+Force Delete :resource
+
+</td></tr>
+<tr><td width="50%">
+
 Gabon
 
 </td><td width="50%">
@@ -235,6 +253,15 @@ Panama
 </td><td width="50%">
 
 Panama
+
+</td></tr>
+<tr><td width="50%">
+
+Restore :resource
+
+</td><td width="50%">
+
+Restore :resource
 
 </td></tr>
 <tr><td width="50%">

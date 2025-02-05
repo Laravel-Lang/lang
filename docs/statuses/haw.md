@@ -4,12 +4,12 @@ editLink: false
 
 # haw
 
-##### All missed: 21
+##### All missed: 24
 
 
 ### json
 
-##### Missing: 21
+##### Missing: 24
 
 <table width="100%">
 <tr><th width="50%">
@@ -59,11 +59,29 @@ Czech Republic
 </td></tr>
 <tr><td width="50%">
 
+Delete :resource
+
+</td><td width="50%">
+
+Delete :resource
+
+</td></tr>
+<tr><td width="50%">
+
 Excel (.xlsx)
 
 </td><td width="50%">
 
 Excel (.xlsx)
+
+</td></tr>
+<tr><td width="50%">
+
+Force Delete :resource
+
+</td><td width="50%">
+
+Force Delete :resource
 
 </td></tr>
 <tr><td width="50%">
@@ -145,6 +163,15 @@ Panama
 </td><td width="50%">
 
 Panama
+
+</td></tr>
+<tr><td width="50%">
+
+Restore :resource
+
+</td><td width="50%">
+
+Restore :resource
 
 </td></tr>
 <tr><td width="50%">

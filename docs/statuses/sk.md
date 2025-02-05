@@ -4,12 +4,12 @@ editLink: false
 
 # sk
 
-##### All missed: 44
+##### All missed: 47
 
 
 ### json
 
-##### Missing: 44
+##### Missing: 47
 
 <table width="100%">
 <tr><th width="50%">
@@ -95,6 +95,15 @@ Cyprus
 </td></tr>
 <tr><td width="50%">
 
+Delete :resource
+
+</td><td width="50%">
+
+Delete :resource
+
+</td></tr>
+<tr><td width="50%">
+
 Egypt
 
 </td><td width="50%">
@@ -109,6 +118,15 @@ Eritrea
 </td><td width="50%">
 
 Eritrea
+
+</td></tr>
+<tr><td width="50%">
+
+Force Delete :resource
+
+</td><td width="50%">
+
+Force Delete :resource
 
 </td></tr>
 <tr><td width="50%">
@@ -298,6 +316,15 @@ Peru
 </td><td width="50%">
 
 Peru
+
+</td></tr>
+<tr><td width="50%">
+
+Restore :resource
+
+</td><td width="50%">
+
+Restore :resource
 
 </td></tr>
 <tr><td width="50%">

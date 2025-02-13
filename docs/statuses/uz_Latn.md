@@ -970,15 +970,6 @@ Download Invoice
 </td></tr>
 <tr><td width="50%">
 
-Download Receipt
-
-</td><td width="50%">
-
-Download Receipt
-
-</td></tr>
-<tr><td width="50%">
-
 Drop file or click to choose
 
 </td><td width="50%">
@@ -1303,11 +1294,11 @@ If you did not receive the email
 </td></tr>
 <tr><td width="50%">
 
-If you need to add specific contact or tax information to your receipts, like your full business name, VAT identification number, or address of record, you may add it here.
+If you need to add specific contact or tax information to your invoices, like your full business name, VAT identification number, or address of record, you may add it here.
 
 </td><td width="50%">
 
-If you need to add specific contact or tax information to your receipts, like your full business name, VAT identification number, or address of record, you may add it here.
+If you need to add specific contact or tax information to your invoices, like your full business name, VAT identification number, or address of record, you may add it here.
 
 </td></tr>
 <tr><td width="50%">
@@ -1335,6 +1326,24 @@ Invalid JSON was returned from the route.
 </td><td width="50%">
 
 Invalid JSON was returned from the route.
+
+</td></tr>
+<tr><td width="50%">
+
+Invoice Email Addresses
+
+</td><td width="50%">
+
+Invoice Email Addresses
+
+</td></tr>
+<tr><td width="50%">
+
+Invoice emails updated successfully.
+
+</td><td width="50%">
+
+Invoice emails updated successfully.
 
 </td></tr>
 <tr><td width="50%">
@@ -1978,11 +1987,20 @@ Please confirm your password before continuing.
 </td></tr>
 <tr><td width="50%">
 
-Please provide a maximum of three receipt emails addresses.
+Please provide a maximum of three invoice emails addresses.
 
 </td><td width="50%">
 
-Please provide a maximum of three receipt emails addresses.
+Please provide a maximum of three invoice emails addresses.
+
+</td></tr>
+<tr><td width="50%">
+
+Please set a default payment method before retrying payments.
+
+</td><td width="50%">
+
+Please set a default payment method before retrying payments.
 
 </td></tr>
 <tr><td width="50%">
@@ -2010,33 +2028,6 @@ Qatar
 </td><td width="50%">
 
 Qatar
-
-</td></tr>
-<tr><td width="50%">
-
-Receipt Email Addresses
-
-</td><td width="50%">
-
-Receipt Email Addresses
-
-</td></tr>
-<tr><td width="50%">
-
-Receipt emails updated successfully.
-
-</td><td width="50%">
-
-Receipt emails updated successfully.
-
-</td></tr>
-<tr><td width="50%">
-
-Receipts
-
-</td><td width="50%">
-
-Receipts
 
 </td></tr>
 <tr><td width="50%">
@@ -2590,6 +2581,15 @@ The image could not be loaded.
 </td></tr>
 <tr><td width="50%">
 
+The invoice emails must be valid email addresses.
+
+</td><td width="50%">
+
+The invoice emails must be valid email addresses.
+
+</td></tr>
+<tr><td width="50%">
+
 The password is incorrect.
 
 </td><td width="50%">
@@ -2622,15 +2622,6 @@ The provided VAT number is invalid.
 </td><td width="50%">
 
 The provided VAT number is invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-The receipt emails must be valid email addresses.
-
-</td><td width="50%">
-
-The receipt emails must be valid email addresses.
 
 </td></tr>
 <tr><td width="50%">
@@ -2766,6 +2757,15 @@ This invoice is no longer open.
 </td><td width="50%">
 
 This invoice is no longer open.
+
+</td></tr>
+<tr><td width="50%">
+
+This payment was initiated, but the funds have not been received yet. This can take up to 14 days.
+
+</td><td width="50%">
+
+This payment was initiated, but the funds have not been received yet. This can take up to 14 days.
 
 </td></tr>
 <tr><td width="50%">
@@ -3067,11 +3067,11 @@ We have emailed your password reset link!
 </td></tr>
 <tr><td width="50%">
 
-We will send a receipt download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
+We will send an invoice download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
 
 </td><td width="50%">
 
-We will send a receipt download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
+We will send an invoice download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
 
 </td></tr>
 <tr><td width="50%">

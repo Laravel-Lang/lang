@@ -4,12 +4,12 @@ editLink: false
 
 # bs
 
-##### All missed: 44
+##### All missed: 52
 
 
 ### json
 
-##### Missing: 40
+##### Missing: 48
 
 <table width="100%">
 <tr><th width="50%">
@@ -167,11 +167,38 @@ Having second thoughts about cancelling your subscription? You can instantly rea
 </td></tr>
 <tr><td width="50%">
 
+If you need to add specific contact or tax information to your invoices, like your full business name, VAT identification number, or address of record, you may add it here.
+
+</td><td width="50%">
+
+If you need to add specific contact or tax information to your invoices, like your full business name, VAT identification number, or address of record, you may add it here.
+
+</td></tr>
+<tr><td width="50%">
+
 Invalid filename.
 
 </td><td width="50%">
 
 Invalid filename.
+
+</td></tr>
+<tr><td width="50%">
+
+Invoice Email Addresses
+
+</td><td width="50%">
+
+Invoice Email Addresses
+
+</td></tr>
+<tr><td width="50%">
+
+Invoice emails updated successfully.
+
+</td><td width="50%">
+
+Invoice emails updated successfully.
 
 </td></tr>
 <tr><td width="50%">
@@ -257,6 +284,24 @@ OK
 </td></tr>
 <tr><td width="50%">
 
+Please provide a maximum of three invoice emails addresses.
+
+</td><td width="50%">
+
+Please provide a maximum of three invoice emails addresses.
+
+</td></tr>
+<tr><td width="50%">
+
+Please set a default payment method before retrying payments.
+
+</td><td width="50%">
+
+Please set a default payment method before retrying payments.
+
+</td></tr>
+<tr><td width="50%">
+
 Replicate
 
 </td><td width="50%">
@@ -329,11 +374,29 @@ TAX
 </td></tr>
 <tr><td width="50%">
 
+The invoice emails must be valid email addresses.
+
+</td><td width="50%">
+
+The invoice emails must be valid email addresses.
+
+</td></tr>
+<tr><td width="50%">
+
 The selected resources have been :action!
 
 </td><td width="50%">
 
 The selected resources have been :action!
+
+</td></tr>
+<tr><td width="50%">
+
+This payment was initiated, but the funds have not been received yet. This can take up to 14 days.
+
+</td><td width="50%">
+
+This payment was initiated, but the funds have not been received yet. This can take up to 14 days.
 
 </td></tr>
 <tr><td width="50%">
@@ -361,6 +424,15 @@ Username
 </td><td width="50%">
 
 Username
+
+</td></tr>
+<tr><td width="50%">
+
+We will send an invoice download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
+
+</td><td width="50%">
+
+We will send an invoice download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
 
 </td></tr>
 <tr><td width="50%">

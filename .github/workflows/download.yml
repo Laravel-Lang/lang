@@ -207,7 +207,7 @@ jobs:
 
             -   name: Copy localization files
                 run: |
-                    cp vendor/laravel/spark-${{ matrix.package }}/stubs/en.json source/nova/spark/spark-${{ matrix.package }}.json -f
+                    cp vendor/laravel/spark-${{ matrix.package }}/stubs/en.json source/spark/spark-${{ matrix.package }}.json -f
 
             -   name: Clean up
                 run: |

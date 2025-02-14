@@ -4,12 +4,12 @@ editLink: false
 
 # mg
 
-##### All missed: 103
+##### All missed: 95
 
 
 ### json
 
-##### Missing: 103
+##### Missing: 95
 
 <table width="100%">
 <tr><th width="50%">
@@ -329,33 +329,6 @@ Hong Kong
 </td></tr>
 <tr><td width="50%">
 
-If you need to add specific contact or tax information to your invoices, like your full business name, VAT identification number, or address of record, you may add it here.
-
-</td><td width="50%">
-
-If you need to add specific contact or tax information to your invoices, like your full business name, VAT identification number, or address of record, you may add it here.
-
-</td></tr>
-<tr><td width="50%">
-
-Invoice Email Addresses
-
-</td><td width="50%">
-
-Invoice Email Addresses
-
-</td></tr>
-<tr><td width="50%">
-
-Invoice emails updated successfully.
-
-</td><td width="50%">
-
-Invoice emails updated successfully.
-
-</td></tr>
-<tr><td width="50%">
-
 Iran, Islamic Republic Of
 
 </td><td width="50%">
@@ -644,24 +617,6 @@ Pitcairn
 </td></tr>
 <tr><td width="50%">
 
-Please provide a maximum of three invoice emails addresses.
-
-</td><td width="50%">
-
-Please provide a maximum of three invoice emails addresses.
-
-</td></tr>
-<tr><td width="50%">
-
-Please set a default payment method before retrying payments.
-
-</td><td width="50%">
-
-Please set a default payment method before retrying payments.
-
-</td></tr>
-<tr><td width="50%">
-
 Qatar
 
 </td><td width="50%">
@@ -815,24 +770,6 @@ Tanzania
 </td></tr>
 <tr><td width="50%">
 
-The invoice emails must be valid email addresses.
-
-</td><td width="50%">
-
-The invoice emails must be valid email addresses.
-
-</td></tr>
-<tr><td width="50%">
-
-This payment was initiated, but the funds have not been received yet. This can take up to 14 days.
-
-</td><td width="50%">
-
-This payment was initiated, but the funds have not been received yet. This can take up to 14 days.
-
-</td></tr>
-<tr><td width="50%">
-
 Toggle navigation
 
 </td><td width="50%">
@@ -910,15 +847,6 @@ Vanuatu
 </td><td width="50%">
 
 Vanuatu
-
-</td></tr>
-<tr><td width="50%">
-
-We will send an invoice download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
-
-</td><td width="50%">
-
-We will send an invoice download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
 
 </td></tr>
 <tr><td width="50%">

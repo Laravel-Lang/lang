@@ -4,7 +4,7 @@ editLink: false
 
 # sr_Latn_ME
 
-##### All missed: 341
+##### All missed: 345
 
 
 ### json-inline
@@ -2641,7 +2641,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 33
+##### Missing: 35
 
 <table width="100%">
 <tr><th width="50%">
@@ -2898,6 +2898,24 @@ This field must be present when :values are present.
 </td></tr>
 <tr><td width="50%">
 
+prohibited_if_accepted
+
+</td><td width="50%">
+
+This field is prohibited when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+prohibited_if_declined
+
+</td><td width="50%">
+
+This field is prohibited when :other is declined.
+
+</td></tr>
+<tr><td width="50%">
+
 prohibits
 
 </td><td width="50%">
@@ -2958,7 +2976,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 20
+##### Missing: 22
 
 <table width="100%">
 <tr><th width="50%">
@@ -3112,6 +3130,24 @@ present_with_all
 </td><td width="50%">
 
 The :attribute field must be present when :values are present.
+
+</td></tr>
+<tr><td width="50%">
+
+prohibited_if_accepted
+
+</td><td width="50%">
+
+The :attribute field is prohibited when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+prohibited_if_declined
+
+</td><td width="50%">
+
+The :attribute field is prohibited when :other is declined.
 
 </td></tr>
 <tr><td width="50%">

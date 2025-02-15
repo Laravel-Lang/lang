@@ -4,7 +4,7 @@ editLink: false
 
 # sw
 
-##### All missed: 35
+##### All missed: 39
 
 
 ### json
@@ -326,7 +326,7 @@ Your subscription has been successfully cancelled. You will still have access un
 
 ### php-inline
 
-##### Missing: 1
+##### Missing: 3
 
 <table width="100%">
 <tr><th width="50%">
@@ -347,6 +347,24 @@ contains
 This field is missing a required value.
 
 </td></tr>
+<tr><td width="50%">
+
+prohibited_if_accepted
+
+</td><td width="50%">
+
+This field is prohibited when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+prohibited_if_declined
+
+</td><td width="50%">
+
+This field is prohibited when :other is declined.
+
+</td></tr>
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
@@ -355,7 +373,7 @@ This field is missing a required value.
 
 ### php
 
-##### Missing: 1
+##### Missing: 3
 
 <table width="100%">
 <tr><th width="50%">
@@ -374,6 +392,24 @@ contains
 </td><td width="50%">
 
 The :attribute field is missing a required value.
+
+</td></tr>
+<tr><td width="50%">
+
+prohibited_if_accepted
+
+</td><td width="50%">
+
+The :attribute field is prohibited when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+prohibited_if_declined
+
+</td><td width="50%">
+
+The :attribute field is prohibited when :other is declined.
 
 </td></tr>
 </table>

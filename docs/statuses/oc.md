@@ -4,7 +4,7 @@ editLink: false
 
 # oc
 
-##### All missed: 913
+##### All missed: 917
 
 
 ### json-inline
@@ -7692,7 +7692,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 38
+##### Missing: 40
 
 <table width="100%">
 <tr><th width="50%">
@@ -7976,6 +7976,24 @@ This field is prohibited when :other is :value.
 </td></tr>
 <tr><td width="50%">
 
+prohibited_if_accepted
+
+</td><td width="50%">
+
+This field is prohibited when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+prohibited_if_declined
+
+</td><td width="50%">
+
+This field is prohibited when :other is declined.
+
+</td></tr>
+<tr><td width="50%">
+
 prohibited_unless
 
 </td><td width="50%">
@@ -8054,7 +8072,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 26
+##### Missing: 28
 
 <table width="100%">
 <tr><th width="50%">
@@ -8235,6 +8253,24 @@ prohibited_if
 </td><td width="50%">
 
 The :attribute field is prohibited when :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+prohibited_if_accepted
+
+</td><td width="50%">
+
+The :attribute field is prohibited when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+prohibited_if_declined
+
+</td><td width="50%">
+
+The :attribute field is prohibited when :other is declined.
 
 </td></tr>
 <tr><td width="50%">

@@ -101,6 +101,8 @@
     "present_with_all": "Uyu murima ugomba kuba uhari mugihe :values ihari.",
     "prohibited": "Uyu murima urabujijwe.",
     "prohibited_if": "Uyu murima urabujijwe iyo :other ari :value.",
+    "prohibited_if_accepted": "This field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "This field is prohibited when :other is declined.",
     "prohibited_unless": "Uyu murima urabujijwe keretse :other iri muri :values.",
     "prohibits": "Uyu murima urabuza :other kuba bahari.",
     "regex": "Imiterere yumurima ntabwo yemewe.",

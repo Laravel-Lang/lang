@@ -106,6 +106,8 @@
     "previous": "&laquo; Назад",
     "prohibited": "Значение поля :attribute запрещено.",
     "prohibited_if": "Значение поля :attribute запрещено, когда :other содержит :value.",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": "Значение поля :attribute запрещено, если :other не состоит в :values.",
     "prohibits": "Значение поля :attribute запрещает присутствие :other.",
     "regex": "Значение поля :attribute имеет некорректный формат.",

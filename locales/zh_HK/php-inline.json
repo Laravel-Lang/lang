@@ -101,6 +101,8 @@
     "present_with_all": "当存在 :values 个时，该欄位必须存在。",
     "prohibited": "禁止此欄位。",
     "prohibited_if": ":other 为 :value 时禁止此欄位。",
+    "prohibited_if_accepted": "This field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "This field is prohibited when :other is declined.",
     "prohibited_unless": "除非 :other 在 :values 中，否则禁止此欄位。",
     "prohibits": "此欄位禁止 :other 存在。",
     "regex": "格式錯誤。",

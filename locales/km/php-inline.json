@@ -101,6 +101,8 @@
     "present_with_all": "វាលនេះត្រូវតែមានវត្តមាននៅពេលដែល :values មានវត្តមាន។",
     "prohibited": "វាលនេះនេះត្រូវហាមឃាត់។",
     "prohibited_if": "វាលនេះនេះត្រូវហាមឃាត់នៅពេលដែល :other គឺ :value។",
+    "prohibited_if_accepted": "This field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "This field is prohibited when :other is declined.",
     "prohibited_unless": "វាលនេះនេះត្រូវហាមឃាត់លុះត្រា :other គឺនៅក្នុង :values។",
     "prohibits": "វាលនេះហាមឃាត់ :other មិនឱ្យមានវត្តមាន។",
     "regex": "វាលនេះទម្រង់មិនត្រឹមត្រូវ។",

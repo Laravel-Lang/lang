@@ -106,6 +106,8 @@
     "previous": "« פרייַערדיק",
     "prohibited": "די :attribute פעלד איז פּראָוכיבאַטאַד.",
     "prohibited_if": "די :attribute פעלד איז פּראָוכיבאַטאַד ווען :other איז :value.",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": "די :attribute פעלד איז פּראָוכיבאַטאַד סייַדן :other איז אין :values.",
     "prohibits": "די :attribute פעלד פאַרווערן :other צו זיין פאָרשטעלן.",
     "regex": "די :attribute פֿאָרמאַט איז פאַרקריפּלט.",

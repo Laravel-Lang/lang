@@ -101,6 +101,8 @@
     "present_with_all": "Šis laukas turi būti pateiktas, kai yra :values.",
     "prohibited": "Šis laukas yra draudžiamas.",
     "prohibited_if": "Šis laukas draudžiamas, kai :other yra :value.",
+    "prohibited_if_accepted": "This field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "This field is prohibited when :other is declined.",
     "prohibited_unless": "Šis laukas yra draudžiamas, nebent :other yra :values.",
     "prohibits": "Šis laukas draudžia būti :other.",
     "regex": "Negaliojantis šio lauko formatas.",

@@ -101,6 +101,8 @@
     "present_with_all": "Dit veld moet aanwezig zijn als :values aanwezig zijn.",
     "prohibited": "Dit veld is verboden.",
     "prohibited_if": "Dit veld is verboden indien :other gelijk is aan :value.",
+    "prohibited_if_accepted": "This field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "This field is prohibited when :other is declined.",
     "prohibited_unless": "Dit veld is verboden tenzij :other gelijk is aan :values.",
     "prohibits": "Dit veld verbiedt de aanwezigheid van :other.",
     "regex": "Dit formaat is ongeldig.",

@@ -106,6 +106,8 @@
     "previous": "“အရင်",
     "prohibited": ":attribute အကွက်ကို တားမြစ်ထားသည်။",
     "prohibited_if": ":other မှ :value တွင် :attribute အကွက်ကိုတားမြစ်သည်။",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": ":other မှ :values အတွင်းမဟုတ်ပါက :attribute အကွက်ကိုတားမြစ်ထားသည်။",
     "prohibits": "အကွက် :attribute သည် :other ကိုမတက်ရောက်ရန်တားမြစ်ထားသည်။",
     "regex": ":attribute ဖော်မတ်သည် မမှန်ကန်ပါ။",

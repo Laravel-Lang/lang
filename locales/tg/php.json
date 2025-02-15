@@ -106,6 +106,8 @@
     "previous": "&laquo; Қаблӣ",
     "prohibited": "Майдони :attribute сол манъ аст.",
     "prohibited_if": "Майдони :attribute манъ аст, аст, вақте ки :other баробар :value.",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": "Майдони :attribute манъ аст, агар танҳо :other аст, дар :values.",
     "prohibits": "Майдони :attribute ҳузури :other-ро манъ мекунад.",
     "regex": "Формати :attribute нодуруст мебошад.",

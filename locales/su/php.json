@@ -106,6 +106,8 @@
     "previous": "«Saméméhna",
     "prohibited": "Sawah :attribute dilarang.",
     "prohibited_if": "Sawah :attribute dilarang nalika :other nyaéta :value.",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": "Sawah :attribute dilarang kecuali :other dina :values.",
     "prohibits": "Sawah :attribute ngalarang :other hadir.",
     "regex": "Format :attribute henteu sah.",

@@ -106,6 +106,8 @@
     "previous": "&laquo; Fyrri",
     "prohibited": "Við :attribute sviði er bannað.",
     "prohibited_if": "Við :attribute sviði er bannað þegar :other er :value.",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": "Við :attribute sviði er bönnuð nema :other er í :values.",
     "prohibits": ":Attribute reiturinn bannar :other að vera viðstaddir.",
     "regex": "Reiturinn :attribute er ekki á réttu formi.",

@@ -101,6 +101,8 @@
     "present_with_all": "Bu sahə :values olduqda mövcud olmalıdır.",
     "prohibited": "Bu sahə qadağandır.",
     "prohibited_if": ":Other :value-ə bərabər olduqda bu sahə qadağandır.",
+    "prohibited_if_accepted": "This field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "This field is prohibited when :other is declined.",
     "prohibited_unless": ":Other yalnız :values-da olmadıqda bu sahə qadağandır.",
     "prohibits": "Bu sahə :other mövcud olmasını qadağan edir.",
     "regex": "Bu format yolverilməzdir.",

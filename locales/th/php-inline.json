@@ -101,6 +101,8 @@
     "present_with_all": "ฟิลด์นี้จะต้องปรากฏเมื่อมี :values",
     "prohibited": "ช่องข้อมูลนี้เป็น prohibited.",
     "prohibited_if": "ช่องข้อมูลนี้เป็น prohibited ตอนที่ :other คือ :value",
+    "prohibited_if_accepted": "This field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "This field is prohibited when :other is declined.",
     "prohibited_unless": "ช่องข้อมูลนี้เป็น prohibited นอกจาก :other อยู่ใน :values",
     "prohibits": "ช่องข้อมูลนี้ห้าม :other ไม่ให้ถูกแสดง",
     "regex": "นี่รูปแบบไม่ถูกต้อง",

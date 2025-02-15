@@ -101,6 +101,8 @@
     "present_with_all": "Þessi reitur verður að vera til staðar þegar :values eru til staðar.",
     "prohibited": "Þetta sviði er bannað.",
     "prohibited_if": "Þetta sviði er bannað þegar :other er :value.",
+    "prohibited_if_accepted": "This field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "This field is prohibited when :other is declined.",
     "prohibited_unless": "Þetta sviði er bönnuð nema :other er í :values.",
     "prohibits": "Þessi reitur bannar :other að vera viðstaddir.",
     "regex": "Þessu sniði er ógilt.",

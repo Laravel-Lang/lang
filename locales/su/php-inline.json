@@ -101,6 +101,8 @@
     "present_with_all": "Widang ieu kedah aya nalika aya :values.",
     "prohibited": "Sawah ieu dilarang.",
     "prohibited_if": "Widang ieu dilarang nalika :other nyaéta :value.",
+    "prohibited_if_accepted": "This field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "This field is prohibited when :other is declined.",
     "prohibited_unless": "Widang ieu dilarang kecuali :other dina :values.",
     "prohibits": "Widang ieu ngalarang :other hadir.",
     "regex": "Format widang ieu teu valid.",

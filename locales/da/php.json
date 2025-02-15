@@ -106,6 +106,8 @@
     "previous": "&laquo; Forrige",
     "prohibited": ":Attribute-feltet er forbudt.",
     "prohibited_if": "Feltet :attribute er forbudt, når :other er :value.",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": ":Attribute-feltet er forbudt, medmindre :other er i :values.",
     "prohibits": ":Attribute-feltet forbyder :other at være til stede.",
     "regex": ":Attribute formatet er ugyldigt.",

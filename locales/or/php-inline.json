@@ -101,6 +101,8 @@
     "present_with_all": ":values ଟି ଉପସ୍ଥିତ ଥିବାବେଳେ ଏହି କ୍ଷେତ୍ର ଉପସ୍ଥିତ ରହିବା ଜରୁରୀ |",
     "prohibited": "ଏହି କ୍ଷେତ୍ର ନିଷେଧ |",
     "prohibited_if": ":other ଟି :value ଥିବାବେଳେ ଏହି କ୍ଷେତ୍ର ନିଷେଧ |",
+    "prohibited_if_accepted": "This field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "This field is prohibited when :other is declined.",
     "prohibited_unless": ":other ଟି :values ରେ ନଥିଲେ ଏହି କ୍ଷେତ୍ର ନିଷେଧ |",
     "prohibits": "ଏହି କ୍ଷେତ୍ର :other ଜଣଙ୍କୁ ଉପସ୍ଥିତ ରହିବାକୁ ବାରଣ କରେ |",
     "regex": "ଏହି ଫିଲ୍ଡ ଫର୍ମାଟ୍ ଅବ alid ଧ ଅଟେ |",

@@ -106,6 +106,8 @@
     "previous": "\" ꯃꯃꯥꯡꯒꯤ",
     "prohibited": "꯱꯰ ꯐꯤꯜꯗ ꯑꯁꯤ ꯑꯊꯤꯡꯕꯥ ꯊꯝꯂꯤ꯫",
     "prohibited_if": "꯲꯰ꯅꯥ ꯳꯰ ꯑꯣꯏꯕꯥ ꯃꯇꯃꯗꯥ ꯐꯤꯜꯗ ꯱꯰ ꯑꯁꯤ ꯑꯊꯤꯡꯕꯥ ꯊꯝꯂꯤ꯫",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": "꯲꯰ ꯳꯰ꯗꯥ ꯂꯩꯠꯔꯕꯗꯤ ꯱꯰ ꯐꯤꯜꯗ ꯑꯁꯤ ꯑꯊꯤꯡꯕꯥ ꯊꯝꯂꯤ꯫",
     "prohibits": "ꯐꯤꯜꯗ ꯱꯰ ꯑꯁꯤꯅꯥ ꯲꯰ ꯌꯥꯑꯣꯕꯥ ꯌꯥꯍꯟꯗꯦ꯫",
     "regex": "꯱꯰ꯒꯤ ꯐꯣꯔꯃꯦꯠ ꯑꯁꯤ ꯆꯠꯅꯗꯦ꯫",

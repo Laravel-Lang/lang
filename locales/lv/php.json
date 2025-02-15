@@ -106,6 +106,8 @@
     "previous": "&laquo; Iepriekšējais",
     "prohibited": ":Attribute lauks ir aizliegts.",
     "prohibited_if": ":Attribute lauks ir aizliegts, ja :other ir :value.",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": ":Attribute lauks ir aizliegts, ja vien :other nav :values.",
     "prohibits": ":Attribute lauks aizliedz :other atrasties.",
     "regex": ":Attribute formāts ir nederīgs.",

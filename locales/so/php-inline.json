@@ -101,6 +101,8 @@
     "present_with_all": "Goobtani waa inay jirtaa marka :values ay joogaan.",
     "prohibited": "Goobtan waa mamnuuc.",
     "prohibited_if": "Goobtan waa mamnuuc marka :other ay tahay :value.",
+    "prohibited_if_accepted": "This field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "This field is prohibited when :other is declined.",
     "prohibited_unless": "Goobtan waa mamnuuc ilaa :other ay ku jiraan :values.",
     "prohibits": "Goobtani waxay mamnuucday in :other ay joogaan.",
     "regex": "Qaabka goobtan waa mid aan sax ahayn",

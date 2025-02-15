@@ -106,6 +106,8 @@
     "previous": "&laquo; Προηγούμενη",
     "prohibited": "Το πεδίο :attribute απαγορεύεται.",
     "prohibited_if": "Το πεδίο :attribute απαγορεύεται όταν το :other είναι :value.",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": "Το πεδίο :attribute απαγορεύεται εκτός αν το :other βρίσκεται στο :values.",
     "prohibits": "Το πεδίο :attribute απαγορεύει στους :other να είναι παρόντες.",
     "regex": "Η μορφή του πεδίου :attribute δεν είναι αποδεκτή.",

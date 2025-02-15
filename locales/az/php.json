@@ -106,6 +106,8 @@
     "previous": "&laquo; Əvvəl",
     "prohibited": ":Attribute sahəsi qadağandır.",
     "prohibited_if": ":Other :value olduqda :attribute sahəsi qadağandır.",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": ":Other :values daxilində olmadığı halda :attribute sahəsi qadağandır.",
     "prohibits": ":Attribute sahəsinin dəyəri :other dəyərinin mövcudluğunu qadağan edir.",
     "regex": ":Attribute sahəsinin formatı yanlışdır.",

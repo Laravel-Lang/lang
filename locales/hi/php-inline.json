@@ -101,6 +101,8 @@
     "present_with_all": "जब :values मौजूद हों तो यह फ़ील्ड मौजूद होनी चाहिए।",
     "prohibited": "यह क्षेत्र निषिद्ध है ।",
     "prohibited_if": ":Other :value होने पर यह क्षेत्र निषिद्ध है ।",
+    "prohibited_if_accepted": "This field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "This field is prohibited when :other is declined.",
     "prohibited_unless": "यह क्षेत्र तब तक निषिद्ध है जब तक कि :other :values में न हो ।",
     "prohibits": "यह फ़ील्ड :other को उपस्थित होने से रोकता है।",
     "regex": "यह प्रारूप अमान्य है ।",

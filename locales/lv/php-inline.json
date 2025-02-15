@@ -101,6 +101,8 @@
     "present_with_all": "Šim laukam ir jābūt, ja ir :values.",
     "prohibited": "Šis lauks ir aizliegts.",
     "prohibited_if": "Šis lauks ir aizliegts, ja :other ir :value.",
+    "prohibited_if_accepted": "This field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "This field is prohibited when :other is declined.",
     "prohibited_unless": "Šis lauks ir aizliegts, ja :other ir :values.",
     "prohibits": "Šis lauks aizliedz :other atrašanās vietu.",
     "regex": "Šis formāts ir nederīgs.",

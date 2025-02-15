@@ -106,6 +106,8 @@
     "previous": "&laquo; مخکې",
     "prohibited": "د :attribute ساحه منع ده.",
     "prohibited_if": "د :attribute ساحه منع ده کله چې :other :value وي.",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": "د :attribute ساحه منع ده پرته لدې چې :other په :values کې وي.",
     "prohibits": "د :attribute ساحه د :other شتون څخه منع کوي.",
     "regex": "فورمول :attribute .غير صحيح.",

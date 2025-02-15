@@ -106,6 +106,8 @@
     "previous": "« Roimhe Seo",
     "prohibited": "Tá an réimse :attribute toirmiscthe.",
     "prohibited_if": "Tá cosc ​​ar an :attribute réimse nuair is :value é :other.",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": "Tá cosc ​​ar an :attribute réimse mura bhfuil :other i :values.",
     "prohibits": "Cuireann an réimse :attribute cosc ​​ar :other a bheith i láthair.",
     "regex": "Tá an fhormáid :attribute neamhbhailí.",

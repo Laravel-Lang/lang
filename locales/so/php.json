@@ -106,6 +106,8 @@
     "previous": "\" Hore",
     "prohibited": ":attributeka garoon waa mamnuuc.",
     "prohibited_if": ":attributeka goobood waa mamnuuc marka :otherku yahay :value.",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": ":attributeka garoon waa mamnuuc ilaa :other ay ku jiraan :values.",
     "prohibits": ":attribute-ka goobood waxay mamnuucday :other inay joogaan.",
     "regex": ":attributeka qaab waa mid aan sax ahayn",

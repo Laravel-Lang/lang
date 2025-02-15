@@ -106,6 +106,8 @@
     "previous": "\" पूर्वतनम्‌",
     "prohibited": "१० क्षेत्रं निषिद्धम् अस्ति ।",
     "prohibited_if": "२० क्षेत्रं यदा ३० भवति तदा निषिद्धम् ।",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": "१० क्षेत्रं निषिद्धं यावत् २० ३० मध्ये नास्ति ।",
     "prohibits": "१० क्षेत्रेण २० जनानां उपस्थितिः निषिद्धा अस्ति ।",
     "regex": "१० प्रारूपम् अमान्यम् अस्ति ।",

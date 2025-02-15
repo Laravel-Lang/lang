@@ -106,6 +106,8 @@
     "previous": "&laquo; წინა",
     "prohibited": ":Attribute სფეროში აკრძალულია.",
     "prohibited_if": ":Attribute სფეროში აკრძალულია, როდესაც :other არის :value.",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": ":Attribute სფეროში აკრძალულია თუ :other არის :values.",
     "prohibits": ":Attribute ველში არ შეიძლება იყოს :other.",
     "regex": ":Attribute-ის ფორმატი არასწორია.",

@@ -106,6 +106,8 @@
     "previous": "&laquo; ئالدىنقى بەت",
     "prohibited": ":Attribute مەيدان چەكلەنگەن.",
     "prohibited_if": ":Other مەيدان :value بولغاندا :attribute مەيدان چەكلىنىدۇ.",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": ":Other مەيدان :values بولسا :attribute مەيدان چەكلىنىدۇ.",
     "prohibits": ":Attribute مەيدان :other نىڭ قاتنىشىشىنى چەكلەيدۇ.",
     "regex": ":Attribute ھۆججەت تىپى ئىناۋەتسىز.",

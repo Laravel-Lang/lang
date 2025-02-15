@@ -106,6 +106,8 @@
     "previous": "&laquo; Vorige",
     "prohibited": ":Attribute is niet toegestaan.",
     "prohibited_if": ":Attribute is niet toegestaan indien :other gelijk is aan :value.",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": ":Attribute is niet toegestaan tenzij :other gelijk is aan :values.",
     "prohibits": ":Attribute is niet toegestaan in combinatie met :other.",
     "regex": "Het formaat van :attribute is ongeldig.",

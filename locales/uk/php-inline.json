@@ -101,6 +101,8 @@
     "present_with_all": "Це поле повинно бути присутнім, якщо присутні :values.",
     "prohibited": "Поле заборонено.",
     "prohibited_if": "Поле заборонено, коли :other дорівнює :value.",
+    "prohibited_if_accepted": "This field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "This field is prohibited when :other is declined.",
     "prohibited_unless": "Поле заборонено, якщо тільки :other не знаходиться в :values році.",
     "prohibits": "Поле забороняє :other бути присутнім.",
     "regex": "Формат недійсний.",

@@ -101,6 +101,8 @@
     "present_with_all": ":values байгаа үед энэ талбар заавал байх ёстой.",
     "prohibited": "Энэ талбар нь хориглосон байна.",
     "prohibited_if": ":Other онд :value он байх үед энэ талбарт хориглоно.",
+    "prohibited_if_accepted": "This field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "This field is prohibited when :other is declined.",
     "prohibited_unless": "Энэ талбар нь бол хориглосон байна :other онд байна :values.",
     "prohibits": "Энэ талбарт :other хүн байхыг хориглоно.",
     "regex": "Энэ хэлбэр нь хүчин төгөлдөр бус байна.",

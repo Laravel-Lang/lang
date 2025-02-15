@@ -106,6 +106,8 @@
     "previous": "\" Kan duraa",
     "prohibited": "Dirree :attribute dhorkaadha.",
     "prohibited_if": "Dirreen :attribute yeroo :other :value ta'u dhorkaadha.",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": "Dirreen :attribute dhorkaadha yoo :other :values keessa jiraate malee.",
     "prohibits": "Dirreen :attribute :other akka hin argamne dhorka.",
     "regex": "Akkaataan :attribute sirrii miti.",

@@ -106,6 +106,8 @@
     "previous": "« Mamua",
     "prohibited": "Ua pāpā ʻia ka māla :attribute.",
     "prohibited_if": "Ua pāpā ʻia ka māla :attribute inā :other ka :value.",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": "ʻAʻole pāpā ʻia ka māla :attribute ke ʻole ka :other i :values.",
     "prohibits": "ʻAʻole ʻae ka :attribute i ka :other e hele mai.",
     "regex": "He kūpono ʻole ke ʻano he :attribute.",

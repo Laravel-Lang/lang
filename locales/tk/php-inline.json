@@ -101,6 +101,8 @@
     "present_with_all": "Bu meýdan :values bolanda bolmaly.",
     "prohibited": "Bu meýdan gadagan.",
     "prohibited_if": ":Other-den :value-e ýetende bu meýdan gadagan.",
+    "prohibited_if_accepted": "This field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "This field is prohibited when :other is declined.",
     "prohibited_unless": ":Other-den :values-e ýetmese, bu meýdan gadagan.",
     "prohibits": "Bu meýdan :other adamyň gatnaşmagyny gadagan edýär.",
     "regex": "This format is invalid.",

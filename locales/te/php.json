@@ -106,6 +106,8 @@
     "previous": "« మునుపటి",
     "prohibited": ":attribute ఫీల్డ్ నిషేధించబడింది.",
     "prohibited_if": ":other :value అయినప్పుడు :attribute ఫీల్డ్ నిషేధించబడింది.",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": ":valuesలో :other ఉంటే తప్ప :attribute ఫీల్డ్ నిషేధించబడింది.",
     "prohibits": ":attribute ఫీల్డ్ :other ఉనికిని నిషేధిస్తుంది.",
     "regex": ":attribute ఫార్మాట్ చెల్లదు.",

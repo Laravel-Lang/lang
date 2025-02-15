@@ -101,6 +101,8 @@
     "present_with_all": "שדה זה חייב להיות קיים כאשר קיימים :values.",
     "prohibited": "שדה זה אסור.",
     "prohibited_if": "שדה זה אסור כאשר :other הוא :value.",
+    "prohibited_if_accepted": "This field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "This field is prohibited when :other is declined.",
     "prohibited_unless": "שדה זה אסור אלא אם כן :other הוא בשנת :values.",
     "prohibits": "שדה זה אוסר על נוכחות של :other.",
     "regex": "תבנית זו אינה תקפה.",

@@ -106,6 +106,8 @@
     "previous": "&laquo; Олдинги",
     "prohibited": ":Attribute maydon taqiqlanadi.",
     "prohibited_if": ":Attribute maydoni :other :value bo'lganda taqiqlanadi.",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": ":Attribute da :other bo'lmasa :values maydon taqiqlanadi.",
     "prohibits": ":Attribute maydoni :other ning hozir bo'lishini taqiqlaydi.",
     "regex": ":Attribute майдони хато форматда.",

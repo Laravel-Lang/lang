@@ -101,6 +101,8 @@
     "present_with_all": "This field must be present when :values are present.",
     "prohibited": "Bu maydon taqiqlanadi.",
     "prohibited_if": ":Other :value bo'lganda bu maydon taqiqlanadi.",
+    "prohibited_if_accepted": "This field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "This field is prohibited when :other is declined.",
     "prohibited_unless": ":Other :values da ekan bu soha taqiqlanadi.",
     "prohibits": "This field prohibits :other from being present.",
     "regex": "Bu format asossiz hisoblanadi.",

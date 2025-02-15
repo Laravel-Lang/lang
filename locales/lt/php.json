@@ -106,6 +106,8 @@
     "previous": "&laquo; Ankstesnis",
     "prohibited": ":Attribute laukas draudžiamas.",
     "prohibited_if": ":Attribute laukas draudžiamas, kai :other yra :value.",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": ":Attribute laukas draudžiamas, nebent :other yra :values.",
     "prohibits": "Laukas :attribute draudžia :other egzistuoti.",
     "regex": "Negaliojantis lauko :attribute formatas.",

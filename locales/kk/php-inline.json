@@ -101,6 +101,8 @@
     "present_with_all": "Бұл өріс :values болған кезде болуы керек.",
     "prohibited": "Бұл өріске тыйым салынады.",
     "prohibited_if": "Егер :other :value болса, бұл өріске тыйым салынады.",
+    "prohibited_if_accepted": "This field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "This field is prohibited when :other is declined.",
     "prohibited_unless": "Егер :other :values-да болмаса, бұл өріске тыйым салынады.",
     "prohibits": "Бұл өріс :other қатысуға тыйым салады.",
     "regex": "Бұл формат қолайсыз.",

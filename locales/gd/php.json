@@ -106,6 +106,8 @@
     "previous": "« Roimhe",
     "prohibited": "Tha an raon :attribute toirmisgte.",
     "prohibited_if": "Tha an raon :attribute toirmisgte nuair a tha :other aig :value.",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": "Tha an raon :attribute toirmisgte mura h-eil :other ann an :values.",
     "prohibits": "Tha an raon :attribute a’ toirmeasg :other a bhith an làthair.",
     "regex": "Tha an cruth :attribute mì-dhligheach.",

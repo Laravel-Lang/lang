@@ -101,6 +101,8 @@
     "present_with_all": "Iyi ndima inofanira kuvapo kana :values varipo.",
     "prohibited": "Iyi ndima inorambidzwa.",
     "prohibited_if": "Iyi ndima inorambidzwa kana :other ari :value.",
+    "prohibited_if_accepted": "This field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "This field is prohibited when :other is declined.",
     "prohibited_unless": "Iyi ndima inorambidzwa kunze kwekunge gumi ari mu:values.",
     "prohibits": "Iyi ndima inorambidza gumi kubva kuvapo.",
     "regex": "Iyi fomati yemunda haina basa.",

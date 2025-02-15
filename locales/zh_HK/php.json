@@ -106,6 +106,8 @@
     "previous": "&laquo; 上一頁",
     "prohibited": ":attribute 欄位被禁止。",
     "prohibited_if": "当 :other 为 :value 时，:attribute欄位被禁止。",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": ":attribute 欄位被禁止，除非 :other 位于 :values 中。",
     "prohibits": ":attribute 不能包含 :other。",
     "regex": ":attribute 的格式錯誤。",

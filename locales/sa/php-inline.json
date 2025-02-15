@@ -101,6 +101,8 @@
     "present_with_all": "यदा १० वर्तन्ते तदा एतत् क्षेत्रं अवश्यमेव भवितव्यम् ।",
     "prohibited": "एतत् क्षेत्रं निषिद्धम् अस्ति।",
     "prohibited_if": "१० यदा २० भवति तदा एतत् क्षेत्रं निषिद्धं भवति ।",
+    "prohibited_if_accepted": "This field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "This field is prohibited when :other is declined.",
     "prohibited_unless": "यावत् १० २० मध्ये न भवति तावत् एतत् क्षेत्रं निषिद्धम् ।",
     "prohibits": "एतत् क्षेत्रं १० उपस्थितं निषेधयति ।",
     "regex": "एतत् क्षेत्रस्वरूपम् अमान्यम् अस्ति ।",

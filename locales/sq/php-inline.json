@@ -101,6 +101,8 @@
     "present_with_all": "Kjo fushë duhet të jetë e pranishme kur janë të pranishme :values.",
     "prohibited": "Kjo fushë është e ndaluar.",
     "prohibited_if": "Kjo fushë është e ndaluar kur :other është :value.",
+    "prohibited_if_accepted": "This field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "This field is prohibited when :other is declined.",
     "prohibited_unless": "Kjo fushë është e ndaluar nëse :other është në :values.",
     "prohibits": "Kjo fushë ndalon praninë e :other.",
     "regex": "Ky format është i pasaktë.",

@@ -106,6 +106,8 @@
     "previous": "&laquo; មុន",
     "prohibited": ":Attribute នេះត្រូវហាមឃាត់។",
     "prohibited_if": ":Attribute នេះត្រូវហាមឃាត់នៅពេលដែល :other គឺ :value។",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": ":Attribute នេះត្រូវហាមឃាត់លុះត្រា :other គឺនៅក្នុង :values។",
     "prohibits": "វាល :attribute ហាមឃាត់ :other មិនឱ្យមានវត្តមាន។",
     "regex": ":Attribute ទម្រង់មិនត្រឹមត្រូវ។",

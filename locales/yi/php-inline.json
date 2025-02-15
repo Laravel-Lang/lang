@@ -101,6 +101,8 @@
     "present_with_all": "דעם פעלד מוזן זיין פאָרשטעלן ווען :values זענען פאָרשטעלן.",
     "prohibited": "דעם פעלד איז פּראָוכיבאַטאַד.",
     "prohibited_if": "דעם פעלד איז פּראָוכיבאַטאַד ווען :other איז :value.",
+    "prohibited_if_accepted": "This field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "This field is prohibited when :other is declined.",
     "prohibited_unless": "דעם פעלד איז פּראָוכיבאַטאַד סייַדן :other איז אין :values.",
     "prohibits": "דעם פעלד פּראָוכיבאַץ :other פון זייַענדיק פאָרשטעלן.",
     "regex": "דעם פעלד פֿאָרמאַט איז פאַרקריפּלט.",

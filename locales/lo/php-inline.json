@@ -101,6 +101,8 @@
     "present_with_all": "ຊ່ອງຂໍ້ມູນນີ້ຈະຕ້ອງມີເມື່ອມີ :values.",
     "prohibited": "ຊ່ອງນີ້ຖືກຫ້າມ.",
     "prohibited_if": "ສະໜາມນີ້ຖືກຫ້າມເມື່ອ :other ແມ່ນ :value.",
+    "prohibited_if_accepted": "This field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "This field is prohibited when :other is declined.",
     "prohibited_unless": "ຊ່ອງນີ້ຖືກຫ້າມເວັ້ນເສຍແຕ່ວ່າ :other ແມ່ນຢູ່ໃນ :values.",
     "prohibits": "ພາກສະຫນາມນີ້ຫ້າມ :other ຈາກການມີ.",
     "regex": "ຮູບແບບຊ່ອງຂໍ້ມູນນີ້ບໍ່ຖືກຕ້ອງ.",

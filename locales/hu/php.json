@@ -106,6 +106,8 @@
     "previous": "&laquo; Előző",
     "prohibited": "A :attribute mező tilos.",
     "prohibited_if": "A :attribute mező tilos, ha :other :value.",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": "A :attribute mező tilos, kivéve, ha :other a :values.",
     "prohibits": "A :attribute mező tiltja, hogy :other jelen legyen.",
     "regex": "A(z) :attribute formátuma érvénytelen.",

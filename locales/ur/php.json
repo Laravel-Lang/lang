@@ -106,6 +106,8 @@
     "previous": "&laquo; گزشتہ",
     "prohibited": "اس :attribute میدان ممنوع ہے.",
     "prohibited_if": "اس :attribute میدان ممنوع ہے جب :other ہے :value.",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": "اس :attribute میدان ممنوع ہے جب تک کہ :other میں ہے :values.",
     "prohibits": ":Attribute فیلڈ :other کو موجود ہونے سے منع کرتا ہے۔",
     "regex": ":Attribute قابلِ قبول فارمیٹ میں نہیں ہے۔",

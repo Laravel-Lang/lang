@@ -106,6 +106,8 @@
     "previous": "&laquo; Cynt",
     "prohibited": "Y :attribute maes yn cael ei wahardd.",
     "prohibited_if": "Y :attribute maes yn cael ei wahardd pan :other yn :value.",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": "Y :attribute maes yn cael ei wahardd oni bai :other yn :values.",
     "prohibits": "Mae'r maes :attribute yn gwahardd :other rhag bod yn bresennol.",
     "regex": "Nid yw fformat :attribute yn ddilys.",

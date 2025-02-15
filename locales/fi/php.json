@@ -106,6 +106,8 @@
     "previous": "&laquo; Edellinen",
     "prohibited": ":Attribute-kenttä on kielletty.",
     "prohibited_if": ":Attribute-kenttä on kielletty, kun :other on :value.",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": ":Attribute-kenttä on kielletty, ellei :other ole kohteessa :values.",
     "prohibits": ":Attribute-kenttä estää :other:n läsnäolon.",
     "regex": "Kentän :attribute arvo on väärää muotoa.",

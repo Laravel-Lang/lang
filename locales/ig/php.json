@@ -106,6 +106,8 @@
     "previous": "« gara aga",
     "prohibited": "Amachibidoro ubi iri ahụ.",
     "prohibited_if": "Amachibidoro ubi iri ahụ mgbe :other bụ :value.",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": "Amachibidoro ubi :attribute ahụ ma ọ bụrụ na :other dị na :values.",
     "prohibits": "Ogige iri ahụ machibidoro mmadụ iri abụọ ịnọ ya.",
     "regex": "Ụdị :attribute ahụ abaghị uru.",

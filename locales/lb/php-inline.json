@@ -101,6 +101,8 @@
     "present_with_all": "Dëst Feld muss präsent sinn wann :values präsent sinn.",
     "prohibited": "Dëst Feld ass verbueden.",
     "prohibited_if": "Dëst Feld ass verbueden wann :other ass :value.",
+    "prohibited_if_accepted": "This field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "This field is prohibited when :other is declined.",
     "prohibited_unless": "Dëst Feld ass verbueden ausser :other ass an :values.",
     "prohibits": "Dëst Feld verbitt :other präsent.",
     "regex": "Dëst Feldformat ass ongëlteg.",

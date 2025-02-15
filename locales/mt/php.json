@@ -106,6 +106,8 @@
     "previous": "« Preċedenti",
     "prohibited": "Il-qasam :attribute huwa pprojbit.",
     "prohibited_if": "Il-qasam :attribute huwa pprojbit meta :other huwa :value.",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": "Il-qasam :attribute huwa pprojbit sakemm :other ma jkunx fi :values.",
     "prohibits": "Il-qasam :attribute jipprojbixxi :other milli jkunu preżenti.",
     "regex": "Il-format :attribute huwa invalidu.",

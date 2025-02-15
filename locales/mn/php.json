@@ -106,6 +106,8 @@
     "previous": "&laquo; Өмнөх",
     "prohibited": ":Attribute талбар нь хориглоно.",
     "prohibited_if": ":Other нь :value үед :attribute талбар нь хориглоно.",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": ":Attribute салбарт бол хориглоно :other нь :values.",
     "prohibits": ":Attribute талбарт :other хүн байхыг хориглодог.",
     "regex": ":Attribute талбарт оруулсан утга буруу байна.",

@@ -106,6 +106,8 @@
     "previous": "&laquo; Anterior",
     "prohibited": "O campo :attribute é proibido.",
     "prohibited_if": "O campo :attribute é proibido quando :other é :value.",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": "O campo :attribute é proibido a menos que :other esteja em :values.",
     "prohibits": "O campo :attribute proíbe :other de estar presente.",
     "regex": "O formato do valor informado no campo :attribute é inválido.",

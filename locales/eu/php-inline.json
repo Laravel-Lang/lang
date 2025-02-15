@@ -101,6 +101,8 @@
     "present_with_all": "Eremu honek :values daudenean egon behar du.",
     "prohibited": "Eremu honetan debekatuta dago.",
     "prohibited_if": "Eremu honetan debekatuta dago denean :other da, :value.",
+    "prohibited_if_accepted": "This field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "This field is prohibited when :other is declined.",
     "prohibited_unless": "Eremu honetan debekatuta dago ezean :other da :values.",
     "prohibits": "Eremu honek :other egotea debekatzen du.",
     "regex": "Formatu hau ez da balioduna.",

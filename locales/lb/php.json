@@ -106,6 +106,8 @@
     "previous": "« Virdrun",
     "prohibited": "Den :attribute Feld ass verbueden.",
     "prohibited_if": "D':attribute Feld ass verbueden wann :other ass :value.",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": "Den :attribute Feld ass verbueden ausser :other ass an :values.",
     "prohibits": "Den :attribute Feld verbitt :other derbäi ze sinn.",
     "regex": "Den :attribute Format ass ongëlteg.",

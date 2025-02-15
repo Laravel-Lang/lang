@@ -101,6 +101,8 @@
     "present_with_all": "Dit fjild moat oanwêzich wêze as :values oanwêzich binne.",
     "prohibited": "Dit fjild is ferbean.",
     "prohibited_if": "Dit fjild is ferbean as :other :value is.",
+    "prohibited_if_accepted": "This field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "This field is prohibited when :other is declined.",
     "prohibited_unless": "Dit fjild is ferbean, útsein as :other yn :values is.",
     "prohibits": "Dit fjild ferbiedt :other oanwêzich.",
     "regex": "Dit fjildformaat is ûnjildich.",

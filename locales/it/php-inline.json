@@ -101,6 +101,8 @@
     "present_with_all": "Questo campo deve essere presente quando ne sono presenti :values.",
     "prohibited": "Non consentito.",
     "prohibited_if": "Non consentito quando :other è :value.",
+    "prohibited_if_accepted": "This field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "This field is prohibited when :other is declined.",
     "prohibited_unless": "Non consentito a meno che :other sia contenuto in :values.",
     "prohibits": "Il campo impedisce a :other di essere presente.",
     "regex": "Formato non valido.",

@@ -101,6 +101,8 @@
     "present_with_all": "Acest câmp trebuie să fie prezent atunci când sunt prezente :values.",
     "prohibited": "Acest câmp este interzis.",
     "prohibited_if": "Acest câmp este interzis atunci când :other este :value.",
+    "prohibited_if_accepted": "This field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "This field is prohibited when :other is declined.",
     "prohibited_unless": "Acest câmp este interzis, cu excepția cazului în care :other este în :values.",
     "prohibits": "Acest câmp interzice :other să fie prezente.",
     "regex": "Acest format este nevalid.",

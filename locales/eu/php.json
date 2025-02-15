@@ -106,6 +106,8 @@
     "previous": "&laquo; Aurrekoa",
     "prohibited": "The :attribute eremuan, debekatuta dago.",
     "prohibited_if": "The :attribute eremuan, debekatuta dago denean :other da :value.",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": "The :attribute eremuan, debekatuta dago ezean :other da :values.",
     "prohibits": ":Attribute eremuak :other egotea debekatzen du.",
     "regex": ":Attribute baliogabea da.",

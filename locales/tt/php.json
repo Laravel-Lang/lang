@@ -106,6 +106,8 @@
     "previous": "«Алдагы",
     "prohibited": ":attribute кыр тыелган.",
     "prohibited_if": ":other кыр :value булганда :attribute кыр тыела.",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": ":other кыр :valuesда булмаса, :attribute кыр тыела.",
     "prohibits": ":attribute кыр :other кешенең булуын тыя.",
     "regex": ":attribute формат дөрес түгел.",

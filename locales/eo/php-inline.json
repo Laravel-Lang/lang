@@ -101,6 +101,8 @@
     "present_with_all": "Ĉi tiu kampo devas ĉeesti kiam :values ĉeestas.",
     "prohibited": "Ĉi tiu kampo estas malpermesita.",
     "prohibited_if": "Ĉi tiu kampo estas malpermesita kiam :other estas :value.",
+    "prohibited_if_accepted": "This field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "This field is prohibited when :other is declined.",
     "prohibited_unless": "Ĉi tiu kampo estas malpermesita krom se :other estas en :values.",
     "prohibits": "Ĉi tiu kampo malpermesas :other ĉeesti.",
     "regex": "Ĉi tiu kampoformato estas nevalida.",

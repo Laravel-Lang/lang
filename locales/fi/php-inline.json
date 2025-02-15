@@ -101,6 +101,8 @@
     "present_with_all": "Tämän kentän on oltava läsnä, kun :values on läsnä.",
     "prohibited": "Tämä kenttä on kielletty.",
     "prohibited_if": "Tämä kenttä on kielletty, kun :other on :value.",
+    "prohibited_if_accepted": "This field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "This field is prohibited when :other is declined.",
     "prohibited_unless": "Tämä kenttä on kielletty, ellei :other ole :values.",
     "prohibits": "Tämä kenttä estää :other:n näyttämisen.",
     "regex": "Tämä muoto on virheellinen.",

@@ -106,6 +106,8 @@
     "previous": "&laquo; 前へ",
     "prohibited": ":Attributeの入力は禁止されています。",
     "prohibited_if": ":Otherが:valueの場合は、:Attributeの入力が禁止されています。",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": ":Otherが:valuesでない限り、:Attributeの入力は禁止されています。",
     "prohibits": ":Otherが存在している場合、:Attributeの入力は禁止されています。",
     "regex": ":Attributeには、正しい形式を指定してください。",

@@ -101,6 +101,8 @@
     "present_with_all": "هي فيلڊ موجود هجڻ ضروري آهي جڏهن :values موجود آهن.",
     "prohibited": "هي ميدان منع ٿيل آهي.",
     "prohibited_if": "هي فيلڊ منع ٿيل آهي جڏهن :other آهي :value.",
+    "prohibited_if_accepted": "This field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "This field is prohibited when :other is declined.",
     "prohibited_unless": "هي فيلڊ منع ٿيل آهي جيستائين :other :values ۾ نه آهي.",
     "prohibits": "هي ميدان :other کي موجود هجڻ کان منع ڪري ٿو.",
     "regex": "ھي فيلڊ فارميٽ غلط آھي.",

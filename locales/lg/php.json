@@ -106,6 +106,8 @@
     "previous": "\" Jjuuzi",
     "prohibited": "Ennimiro ya :attribute ekugirwa.",
     "prohibited_if": "Ennimiro ya :attribute ekugirwa nga :other eri :value.",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": "Ennimiro ya :attribute ekugirwa okuggyako nga :other eri mu :values.",
     "prohibits": "Ennimiro ya :attribute ekugira :other okubeerawo.",
     "regex": "Enkola ya :attribute si ntuufu.",

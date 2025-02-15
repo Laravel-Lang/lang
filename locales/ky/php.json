@@ -106,6 +106,8 @@
     "previous": "« Мурунку",
     "prohibited": ":attribute талаага тыюу салынган.",
     "prohibited_if": ":other :value болгондо :attribute талаасына тыюу салынат.",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": ":valuesда :other болбосо, :attribute талаасына тыюу салынат.",
     "prohibits": ":attribute талаасы :otherнын катышуусуна тыюу салат.",
     "regex": ":attribute форматы жараксыз.",

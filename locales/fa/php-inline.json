@@ -101,6 +101,8 @@
     "present_with_all": "این فیلد باید زمانی که :values عدد وجود دارد وجود داشته باشد.",
     "prohibited": "این فیلد ممنوع است.",
     "prohibited_if": "این فیلد زمانی که :other برابر با :value باشد ممنوع است.",
+    "prohibited_if_accepted": "This field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "This field is prohibited when :other is declined.",
     "prohibited_unless": "این فیلد ممنوع است مگر اینکه :other شامل :values باشد.",
     "prohibits": "فیلد :other هنگام وجود این فیلد ممنوع است.",
     "regex": "این فرمت نامعتبر است.",

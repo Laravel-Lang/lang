@@ -101,6 +101,8 @@
     "present_with_all": "Ово поље мора бити присутно када је присутно :values.",
     "prohibited": "Ово поље је забрањено.",
     "prohibited_if": "Ово поље је забрањено када је :other једнако :value.",
+    "prohibited_if_accepted": "This field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "This field is prohibited when :other is declined.",
     "prohibited_unless": "Ово поље је забрањено ако само :other није у :values.",
     "prohibits": "Ово поље забрањује присуство :other.",
     "regex": "Формат није валидан.",

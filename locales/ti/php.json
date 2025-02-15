@@ -106,6 +106,8 @@
     "previous": "\" ዝሓለፈ",
     "prohibited": "እቲ :attribute ሜዳ ክልኩል እዩ።",
     "prohibited_if": ":other :value ምስ ዝኸውን እቲ :attribute ሜዳ ክልኩል እዩ።",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": ":other ኣብ :values እንተዘይኮይኑ እቲ :attribute ሜዳ ክልኩል እዩ።",
     "prohibits": "እቲ :attribute ሜዳ :other ከይህልዉ ይኽልክል።",
     "regex": "እቲ :attribute ቅርጺ ቅኑዕ ኣይኮነን።",

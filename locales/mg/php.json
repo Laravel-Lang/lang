@@ -106,6 +106,8 @@
     "previous": "«Teo aloha",
     "prohibited": "Ny saha :attribute dia voarara.",
     "prohibited_if": "Ny saha :attribute dia voarara raha :other dia :value.",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": "Voarara ny saha :attribute raha tsy ao anatin'ny :values ny :other.",
     "prohibits": "Ny saha :attribute dia mandrara ny :other tsy ho tonga.",
     "regex": "Tsy mety ny endrika :attribute.",

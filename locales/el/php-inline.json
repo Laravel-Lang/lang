@@ -101,6 +101,8 @@
     "present_with_all": "Αυτό το πεδίο πρέπει να υπάρχει όταν υπάρχουν :values.",
     "prohibited": "Αυτό το πεδίο απαγορεύεται.",
     "prohibited_if": "Αυτό το πεδίο απαγορεύεται όταν το :other είναι :value.",
+    "prohibited_if_accepted": "This field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "This field is prohibited when :other is declined.",
     "prohibited_unless": "Αυτό το πεδίο απαγορεύεται εκτός αν το :other βρίσκεται στο :values.",
     "prohibits": "Αυτό το πεδίο απαγορεύει την παρουσία :other.",
     "regex": "Αυτή η μορφή δεν είναι έγκυρη.",

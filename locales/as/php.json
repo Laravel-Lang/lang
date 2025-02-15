@@ -106,6 +106,8 @@
     "previous": "\" পূৰ্ৱবৰ্তী",
     "prohibited": "১০ ফিল্ডত নিষিদ্ধ।",
     "prohibited_if": "২০ টা ৩০ হ’লে ১০ টা ফিল্ড নিষিদ্ধ।",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": "৩০ ত ২০ টা ফিল্ড নহ’লে ১০ ফিল্ড নিষিদ্ধ।",
     "prohibits": "১০ টা ফিল্ডত ২০ জন উপস্থিত থাকিবলৈ নিষেধাজ্ঞা আৰোপ কৰা হৈছে।",
     "regex": "১০ ফৰ্মেট অবৈধ।",

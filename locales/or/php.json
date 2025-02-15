@@ -106,6 +106,8 @@
     "previous": "«ପୂର୍ବ",
     "prohibited": ":attribute ଟି କ୍ଷେତ୍ର ନିଷେଧ |",
     "prohibited_if": ":other ଟି :value ଥିବାବେଳେ :attribute ଟି କ୍ଷେତ୍ର ନିଷେଧ |",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": ":other ଟି :values ରେ ନଥିଲେ :attribute ଟି କ୍ଷେତ୍ର ନିଷେଧ |",
     "prohibits": ":attribute ଟି କ୍ଷେତ୍ର :other ଜଣଙ୍କୁ ଉପସ୍ଥିତ ରହିବାକୁ ବାରଣ କରିଛି |",
     "regex": ":attribute ଫର୍ମାଟ୍ ଅବ alid ଧ ଅଟେ |",

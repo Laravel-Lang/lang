@@ -106,6 +106,8 @@
     "previous": "« Mua",
     "prohibited": "Kua rāhuitia te mara :attribute.",
     "prohibited_if": "Ka rahuitia te mara :attribute ina :other he :value.",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": "Ka rahuitia te mara :attribute ki te kore e :other kei roto i te :values.",
     "prohibits": "Ko te mara :attribute ka aukati i te :other kia tae mai.",
     "regex": "He muhu te whakatakotoranga :attribute.",

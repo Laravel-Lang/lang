@@ -106,6 +106,8 @@
     "previous": "\" पहिलुका",
     "prohibited": ":attribute खेत निषिद्ध अछि।",
     "prohibited_if": ":attribute फील्ड पर रोक अछि जखन :other :value अछि।",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": ":attribute फील्ड ता धरि मना अछि जाबत :other :values मे नहि अछि।",
     "prohibits": ":attribute फील्ड मे :other गोटे कए उपस्थित हेबा स रोक अछि।",
     "regex": ":attribute प्रारूप अमान्य अछि।",

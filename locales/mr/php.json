@@ -106,6 +106,8 @@
     "previous": "&laquo; मागचा",
     "prohibited": ":Attribute फील्ड प्रतिबंधित आहे.",
     "prohibited_if": "इ. स.:attribute फील्ड :other :value असते तेव्हा प्रतिबंधित आहे.",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": "अगोदर निर्देश केलेल्या बाबीसंबंधी बोलताना :attribute क्षेत्रात प्रतिबंधित आहे :other :values आहे तोपर्यंत.",
     "prohibits": ":Attribute फील्ड :other ला उपस्थित राहण्यास प्रतिबंधित करते.",
     "regex": ":Attribute फॉर्मेट वैध नाही.",

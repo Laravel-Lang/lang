@@ -106,6 +106,8 @@
     "previous": "&laquo; Prethodna",
     "prohibited": "Polje :attribute je zabranjeno.",
     "prohibited_if": "Polje :attribute zabranjeno je kada je :other :value.",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": "Polje :attribute zabranjeno je, osim ako :other nije u :values.",
     "prohibits": "Polje :attribute zabranjuje da polje :other bude prisutno.",
     "regex": "Polje :attribute se ne podudara s formatom.",

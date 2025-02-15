@@ -101,6 +101,8 @@
     "present_with_all": "જ્યારે :values હાજર હોય ત્યારે આ ક્ષેત્ર હાજર હોવું આવશ્યક છે.",
     "prohibited": "આ ક્ષેત્ર પ્રતિબંધિત છે.",
     "prohibited_if": "જ્યારે :other :value હોય ત્યારે આ ક્ષેત્ર પ્રતિબંધિત છે.",
+    "prohibited_if_accepted": "This field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "This field is prohibited when :other is declined.",
     "prohibited_unless": "આ ક્ષેત્ર પ્રતિબંધિત છે સિવાય કે :other :values માં હોય.",
     "prohibits": "આ ક્ષેત્ર :other ને હાજર રહેવાથી પ્રતિબંધિત કરે છે.",
     "regex": "This format is invalid.",

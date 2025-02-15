@@ -101,6 +101,8 @@
     "present_with_all": "이 필드는 :values개가 존재할 때 존재해야 합니다.",
     "prohibited": "이 필드는 금지되어 있습니다.",
     "prohibited_if": "이 필드는 :other 이(가) :value 인 경우 금지되어 있습니다.",
+    "prohibited_if_accepted": "This field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "This field is prohibited when :other is declined.",
     "prohibited_unless": "이 필드는 :other 이(가) :value 이(가) 아닌 경우 금지되어 있습니다.",
     "prohibits": "이 필드는 :other을(를) 금지합니다.",
     "regex": "형식이 올바르지 않습니다.",

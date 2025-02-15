@@ -101,6 +101,8 @@
     "present_with_all": ":values が存在する場合、この項目も存在する必要があります。",
     "prohibited": "この項目の入力は禁止されています。",
     "prohibited_if": ":Otherが:valueの場合、この項目の入力は禁止されています。",
+    "prohibited_if_accepted": "This field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "This field is prohibited when :other is declined.",
     "prohibited_unless": ":Otherが:valuesでない限り、この項目の入力は禁止されています。",
     "prohibits": ":Otherが存在している場合、この項目の入力は禁止されています。",
     "regex": "この形式は無効です。",

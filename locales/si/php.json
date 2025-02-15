@@ -106,6 +106,8 @@
     "previous": "&laquo; පෙර",
     "prohibited": "මෙම :attribute ක්ෂේත්‍රයේ තහනම් කර තිබේ.",
     "prohibited_if": ":Other, :value වන විට :attribute ක්ෂේත්‍රයේ තහනම් කර තිබේ.",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": ":Other, :value නොවන්නේ නම් පමණක් :attribute ක්ෂේත්‍රයේ තහනම් කර තිබේ.",
     "prohibits": "මෙම :attribute ක්ෂේත්‍රය :other පැවතීම තහනම් කර ඇත.",
     "regex": "මෙම :attribute ආකෘතිය වලංගු නැත.",

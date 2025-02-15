@@ -101,6 +101,8 @@
     "present_with_all": "Ennimiro eno erina okubaawo nga :values ziriwo.",
     "prohibited": "Ennimiro eno ekugirwa.",
     "prohibited_if": "Ennimiro eno ekugirwa nga :other eri :value.",
+    "prohibited_if_accepted": "This field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "This field is prohibited when :other is declined.",
     "prohibited_unless": "Ennimiro eno ekugirwa okuggyako nga :other eri mu :values.",
     "prohibits": "Ennimiro eno ekugira abantu :other okubeerawo.",
     "regex": "Enkola eno ey'ennimiro si ntuufu.",

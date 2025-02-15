@@ -101,6 +101,8 @@
     "present_with_all": "ეს ველი უნდა იყოს წარმოდგენილი, როდესაც :values არის.",
     "prohibited": "ეს ველი აკრძალულია.",
     "prohibited_if": "ეს ველი აკრძალულია, როდესაც :other არის :value.",
+    "prohibited_if_accepted": "This field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "This field is prohibited when :other is declined.",
     "prohibited_unless": "ეს ველი აკრძალულია, თუ :other არის :values.",
     "prohibits": "ამ ველში არ შეიძლება იყოს :other.",
     "regex": "ეს ფორმატი არასწორია.",

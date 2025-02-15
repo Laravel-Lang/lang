@@ -106,6 +106,8 @@
     "previous": "« A baya",
     "prohibited": "An haramta filin :attribute.",
     "prohibited_if": "An haramta filin :attribute lokacin da :other ya kasance :value.",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": "An haramta filin :attribute sai dai idan :other ya kasance cikin :values.",
     "prohibits": "Filin :attribute ya hana :other halarta.",
     "regex": "Tsarin guda :attribute ba shi da inganci.",

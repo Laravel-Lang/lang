@@ -106,6 +106,8 @@
     "previous": "&laquo; הקודם",
     "prohibited": "שדה :attribute אסור.",
     "prohibited_if": "שדה :attribute אסור כאשר :other הוא :value.",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": "שדה :attribute אסור אלא אם כן :other הוא :values.",
     "prohibits": "שדה :attribute אוסר על נוכחות של :other.",
     "regex": "שדה :attribute בעל פורמט שאינו תקין.",

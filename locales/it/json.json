@@ -250,7 +250,7 @@
     "Email Verification": "Verifica Email",
     "Enable": "Abilita",
     "Encrypted environment file already exists.": "Il file di ambiente criptato esiste già.",
-    "Encrypted environment file not found.": "File di ambiente criptato non è stato trovato.",
+    "Encrypted environment file not found.": "Non è stato trovato il file di ambiente criptato.",
     "Ensure your account is using a long, random password to stay secure.": "Assicurati che il tuo account utilizzi una password lunga e casuale per rimanere al sicuro.",
     "Environment file already exists.": "Il file di ambiente esiste già.",
     "Environment file not found.": "File di ambiente non trovato.",

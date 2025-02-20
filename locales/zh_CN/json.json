@@ -852,7 +852,7 @@
     "Your payment method will be charged automatically for each billing period.": "您的付款方式将在每个结算周期自动收费。",
     "Your registered VAT Number is :vatNumber.": "您注册的增值税号是 :vatNumber。",
     "Your subscription has been started successfully.": "您的订阅已成功启动。",
-    "Your subscription has been successfully cancelled。您在当前计费周期结束前仍可继续使用。": "您的订阅已成功取消，您在当前计费周期结束前仍可继续使用。",
+    "Your subscription has been successfully cancelled.": "您的订阅已成功取消。",
     "Your subscription has been successfully cancelled. You will still have access until the end of your billing period.": "您的订阅已成功取消，您在当前计费周期结束前仍可继续使用。",
     "Your subscription was successfully resumed.": "您的订阅已成功恢复。",
     "Your subscription was successfully updated.": "您的订阅已成功更新。",

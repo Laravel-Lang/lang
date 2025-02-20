@@ -4,7 +4,7 @@ editLink: false
 
 # zh_HK
 
-##### All missed: 26
+##### All missed: 22
 
 
 ### json
@@ -199,62 +199,6 @@ We will send an invoice download link to the email addresses that you specify be
 </td><td width="50%">
 
 We will send an invoice download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php-inline
-
-##### Missing: 4
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-contains
-
-</td><td width="50%">
-
-This field is missing a required value.
-
-</td></tr>
-<tr><td width="50%">
-
-prohibited_if_accepted
-
-</td><td width="50%">
-
-This field is prohibited when :other is accepted.
-
-</td></tr>
-<tr><td width="50%">
-
-prohibited_if_declined
-
-</td><td width="50%">
-
-This field is prohibited when :other is declined.
-
-</td></tr>
-<tr><td width="50%">
-
-required_if_declined
-
-</td><td width="50%">
-
-This field is required when :other is declined.
 
 </td></tr>
 </table>

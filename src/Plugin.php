@@ -27,6 +27,7 @@ class Plugin extends Provider
 
         Plugins\Laravel\Master::class,
         Plugins\Laravel\V11::class,
+        Plugins\Laravel\V12::class,
 
         Plugins\Nova\LogViewer\Main::class,
         Plugins\Nova\V4::class,

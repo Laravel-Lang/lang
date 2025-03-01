@@ -186,11 +186,11 @@ editLink: false
 
 </td><td width="12%">
 
-[hy&nbsp;❗](statuses/hy.md)
+[hy&nbsp;✔](statuses/hy.md)
 
 </td><td width="12%">
 
-[id&nbsp;❗](statuses/id.md)
+[id&nbsp;✔](statuses/id.md)
 
 </td><td width="12%">
 

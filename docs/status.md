@@ -128,7 +128,7 @@ editLink: false
 
 </td><td width="12%">
 
-[fi&nbsp;❗](statuses/fi.md)
+[fi&nbsp;✔](statuses/fi.md)
 
 </td><td width="12%">
 

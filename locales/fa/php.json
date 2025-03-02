@@ -106,6 +106,8 @@
     "previous": "&laquo; قبلی",
     "prohibited": "فیلد :attribute ممنوع است.",
     "prohibited_if": "فیلد :attribute ممنوع است هنگامیکه مقدار :other برابر :value باشد.",
+    "prohibited_if_accepted": "فیلد :attribute ممنوع است هنگامیکه :other پذیرفته شده باشد.",
+    "prohibited_if_declined": "فیلد :attribute ممنوع است هنگامیکه :other رد شده باشد.",
     "prohibited_unless": "فیلد :attribute ممنوع است مگر اینکه مقدار :other در :values باشد.",
     "prohibits": "فیلد :attribute اجازه حضور فیلد :other را نمی دهد.",
     "regex": "فرمت :attribute معتبر نیست.",

@@ -4,12 +4,12 @@ editLink: false
 
 # de_CH
 
-##### All missed: 26
+##### All missed: 24
 
 
 ### json
 
-##### Missing: 22
+##### Missing: 20
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,200 +23,182 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-A decryption key is required.
+Action Event
 
 </td><td width="50%">
 
-A decryption key is required.
+Action Event
 
 </td></tr>
 <tr><td width="50%">
 
-Action Status
+Action Events
 
 </td><td width="50%">
 
-Status
+Action Events
 
 </td></tr>
 <tr><td width="50%">
 
-Change the current payment method attached to your subscription
+Are you sure you want to mark all notifications as read?
 
 </td><td width="50%">
 
-Change the current payment method attached to your subscription
+Are you sure you want to mark all notifications as read?
 
 </td></tr>
 <tr><td width="50%">
 
-Coupon
+Delete Notification
 
 </td><td width="50%">
 
-Coupon
+Delete Notification
 
 </td></tr>
 <tr><td width="50%">
 
-Download Invoice
+Email Verification
 
 </td><td width="50%">
 
-Download Invoice
+Email Verification
 
 </td></tr>
 <tr><td width="50%">
 
-Encrypted environment file already exists.
+Export As CSV
 
 </td><td width="50%">
 
-Encrypted environment file already exists.
+Export As CSV
 
 </td></tr>
 <tr><td width="50%">
 
-Encrypted environment file not found.
+If you need to add specific contact or tax information to your invoices, like your full business name, VAT identification number, or address of record, you may add it here.
 
 </td><td width="50%">
 
-Encrypted environment file not found.
+If you need to add specific contact or tax information to your invoices, like your full business name, VAT identification number, or address of record, you may add it here.
 
 </td></tr>
 <tr><td width="50%">
 
-Environment file already exists.
+Invoice Email Addresses
 
 </td><td width="50%">
 
-Environment file already exists.
+Invoice Email Addresses
 
 </td></tr>
 <tr><td width="50%">
 
-Environment file not found.
+Invoice emails updated successfully.
 
 </td><td width="50%">
 
-Environment file not found.
+Invoice emails updated successfully.
 
 </td></tr>
 <tr><td width="50%">
 
-Having second thoughts about cancelling your subscription? You can instantly reactivate your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
+Mark all notifications as read
 
 </td><td width="50%">
 
-Having second thoughts about cancelling your subscription? You can instantly reactivate your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
+Mark all notifications as read
 
 </td></tr>
 <tr><td width="50%">
 
-Invalid filename.
+OK
 
 </td><td width="50%">
 
-Invalid filename.
+OK
 
 </td></tr>
 <tr><td width="50%">
 
-Invoices
+Please provide a maximum of three invoice emails addresses.
 
 </td><td width="50%">
 
-Invoices
+Please provide a maximum of three invoice emails addresses.
 
 </td></tr>
 <tr><td width="50%">
 
-Iran, Islamic Republic Of
+Please set a default payment method before retrying payments.
 
 </td><td width="50%">
 
-Iran
+Please set a default payment method before retrying payments.
 
 </td></tr>
 <tr><td width="50%">
 
-Isle Of Man
+Secure Area
 
 </td><td width="50%">
 
-Isle of Man
+Secure Area
 
 </td></tr>
 <tr><td width="50%">
 
-Isle of Man
+The invoice emails must be valid email addresses.
 
 </td><td width="50%">
 
-Isle of Man
+The invoice emails must be valid email addresses.
 
 </td></tr>
 <tr><td width="50%">
 
-length
+The selected resources have been :action!
 
 </td><td width="50%">
 
-length
+The selected resources have been :action!
 
 </td></tr>
 <tr><td width="50%">
 
-Person
+This payment was initiated, but the funds have not been received yet. This can take up to 14 days.
 
 </td><td width="50%">
 
-Person
+This payment was initiated, but the funds have not been received yet. This can take up to 14 days.
 
 </td></tr>
 <tr><td width="50%">
 
-Saint Martin
+User Security
 
 </td><td width="50%">
 
-St. Martin
+User Security
 
 </td></tr>
 <tr><td width="50%">
 
-Sint Maarten (Dutch part)
+Username
 
 </td><td width="50%">
 
-Sint Maarten
+Username
 
 </td></tr>
 <tr><td width="50%">
 
-System
+We will send an invoice download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
 
 </td><td width="50%">
 
-System
-
-</td></tr>
-<tr><td width="50%">
-
-Your last payment of :amount failed. Please update your payment method to retry the failed payment.
-
-</td><td width="50%">
-
-Your last payment of :amount failed. Please update your payment method to retry the failed payment.
-
-</td></tr>
-<tr><td width="50%">
-
-Your subscription has been successfully cancelled. You will still have access until the end of your billing period.
-
-</td><td width="50%">
-
-Your subscription has been successfully cancelled. You will still have access until the end of your billing period.
+We will send an invoice download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
 
 </td></tr>
 </table>
@@ -241,20 +223,20 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-contains
+prohibited_if_accepted
 
 </td><td width="50%">
 
-This field is missing a required value.
+This field is prohibited when :other is accepted.
 
 </td></tr>
 <tr><td width="50%">
 
-required_if_declined
+prohibited_if_declined
 
 </td><td width="50%">
 
-This field is required when :other is declined.
+This field is prohibited when :other is declined.
 
 </td></tr>
 </table>
@@ -279,20 +261,20 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-contains
+prohibited_if_accepted
 
 </td><td width="50%">
 
-The :attribute field is missing a required value.
+The :attribute field is prohibited when :other is accepted.
 
 </td></tr>
 <tr><td width="50%">
 
-required_if_declined
+prohibited_if_declined
 
 </td><td width="50%">
 
-The :attribute field is required when :other is declined.
+The :attribute field is prohibited when :other is declined.
 
 </td></tr>
 </table>

@@ -106,6 +106,8 @@
     "previous": "&laquo; Назад",
     "prohibited": "Во :attribute година полето е забрането.",
     "prohibited_if": "На :attribute поле е забрането кога :other е :value.",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": "На :attribute поле е забранета освен ако не :other е во :values.",
     "prohibits": "Полето :attribute забранува присуство на :other.",
     "regex": "Полето :attribute има невалиден формат.",

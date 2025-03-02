@@ -4,12 +4,12 @@ editLink: false
 
 # pt
 
-##### All missed: 28
+##### All missed: 35
 
 
 ### json
 
-##### Missing: 24
+##### Missing: 31
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,20 +23,29 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-A decryption key is required.
+Action Event
 
 </td><td width="50%">
 
-A decryption key is required.
+Action Event
 
 </td></tr>
 <tr><td width="50%">
 
-Action Status
+Action Events
 
 </td><td width="50%">
 
-Status
+Action Events
+
+</td></tr>
+<tr><td width="50%">
+
+Are you sure you want to mark all notifications as read?
+
+</td><td width="50%">
+
+Are you sure you want to mark all notifications as read?
 
 </td></tr>
 <tr><td width="50%">
@@ -50,74 +59,38 @@ Bangladesh
 </td></tr>
 <tr><td width="50%">
 
-Change the current payment method attached to your subscription
+Delete Notification
 
 </td><td width="50%">
 
-Change the current payment method attached to your subscription
+Delete Notification
 
 </td></tr>
 <tr><td width="50%">
 
-China
+Email Verification
 
 </td><td width="50%">
 
-China
+Email Verification
 
 </td></tr>
 <tr><td width="50%">
 
-Costa Rica
+Estonia
 
 </td><td width="50%">
 
-Costa Rica
+Estonia
 
 </td></tr>
 <tr><td width="50%">
 
-Download Invoice
+Export As CSV
 
 </td><td width="50%">
 
-Download Invoice
-
-</td></tr>
-<tr><td width="50%">
-
-Encrypted environment file already exists.
-
-</td><td width="50%">
-
-Encrypted environment file already exists.
-
-</td></tr>
-<tr><td width="50%">
-
-Encrypted environment file not found.
-
-</td><td width="50%">
-
-Encrypted environment file not found.
-
-</td></tr>
-<tr><td width="50%">
-
-Environment file already exists.
-
-</td><td width="50%">
-
-Environment file already exists.
-
-</td></tr>
-<tr><td width="50%">
-
-Environment file not found.
-
-</td><td width="50%">
-
-Environment file not found.
+Export As CSV
 
 </td></tr>
 <tr><td width="50%">
@@ -131,47 +104,47 @@ Haiti
 </td></tr>
 <tr><td width="50%">
 
-Having second thoughts about cancelling your subscription? You can instantly reactivate your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
+If you need to add specific contact or tax information to your invoices, like your full business name, VAT identification number, or address of record, you may add it here.
 
 </td><td width="50%">
 
-Having second thoughts about cancelling your subscription? You can instantly reactivate your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
+If you need to add specific contact or tax information to your invoices, like your full business name, VAT identification number, or address of record, you may add it here.
 
 </td></tr>
 <tr><td width="50%">
 
-Hong Kong
+Invoice Email Addresses
 
 </td><td width="50%">
 
-Hong Kong
+Invoice Email Addresses
 
 </td></tr>
 <tr><td width="50%">
 
-Invalid filename.
+Invoice emails updated successfully.
 
 </td><td width="50%">
 
-Invalid filename.
+Invoice emails updated successfully.
 
 </td></tr>
 <tr><td width="50%">
 
-Invoices
+Kosovo
 
 </td><td width="50%">
 
-Invoices
+Kosovo
 
 </td></tr>
 <tr><td width="50%">
 
-length
+Kuwait
 
 </td><td width="50%">
 
-length
+Kuwait
 
 </td></tr>
 <tr><td width="50%">
@@ -194,11 +167,92 @@ Mali
 </td></tr>
 <tr><td width="50%">
 
+Mark all notifications as read
+
+</td><td width="50%">
+
+Mark all notifications as read
+
+</td></tr>
+<tr><td width="50%">
+
 Nauru
 
 </td><td width="50%">
 
 Nauru
+
+</td></tr>
+<tr><td width="50%">
+
+OK
+
+</td><td width="50%">
+
+OK
+
+</td></tr>
+<tr><td width="50%">
+
+Please provide a maximum of three invoice emails addresses.
+
+</td><td width="50%">
+
+Please provide a maximum of three invoice emails addresses.
+
+</td></tr>
+<tr><td width="50%">
+
+Please set a default payment method before retrying payments.
+
+</td><td width="50%">
+
+Please set a default payment method before retrying payments.
+
+</td></tr>
+<tr><td width="50%">
+
+Secure Area
+
+</td><td width="50%">
+
+Secure Area
+
+</td></tr>
+<tr><td width="50%">
+
+Sri Lanka
+
+</td><td width="50%">
+
+Sri Lanka
+
+</td></tr>
+<tr><td width="50%">
+
+The invoice emails must be valid email addresses.
+
+</td><td width="50%">
+
+The invoice emails must be valid email addresses.
+
+</td></tr>
+<tr><td width="50%">
+
+The selected resources have been :action!
+
+</td><td width="50%">
+
+The selected resources have been :action!
+
+</td></tr>
+<tr><td width="50%">
+
+This payment was initiated, but the funds have not been received yet. This can take up to 14 days.
+
+</td><td width="50%">
+
+This payment was initiated, but the funds have not been received yet. This can take up to 14 days.
 
 </td></tr>
 <tr><td width="50%">
@@ -212,11 +266,29 @@ Total:
 </td></tr>
 <tr><td width="50%">
 
-Uganda
+User Security
 
 </td><td width="50%">
 
-Uganda
+User Security
+
+</td></tr>
+<tr><td width="50%">
+
+Username
+
+</td><td width="50%">
+
+Username
+
+</td></tr>
+<tr><td width="50%">
+
+We will send an invoice download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
+
+</td><td width="50%">
+
+We will send an invoice download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
 
 </td></tr>
 <tr><td width="50%">
@@ -226,15 +298,6 @@ Your last payment of :amount failed. Please update your payment method to retry 
 </td><td width="50%">
 
 Your last payment of :amount failed. Please update your payment method to retry the failed payment.
-
-</td></tr>
-<tr><td width="50%">
-
-Your subscription has been successfully cancelled. You will still have access until the end of your billing period.
-
-</td><td width="50%">
-
-Your subscription has been successfully cancelled. You will still have access until the end of your billing period.
 
 </td></tr>
 </table>
@@ -259,20 +322,20 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-contains
+prohibited_if_accepted
 
 </td><td width="50%">
 
-This field is missing a required value.
+This field is prohibited when :other is accepted.
 
 </td></tr>
 <tr><td width="50%">
 
-required_if_declined
+prohibited_if_declined
 
 </td><td width="50%">
 
-This field is required when :other is declined.
+This field is prohibited when :other is declined.
 
 </td></tr>
 </table>
@@ -297,20 +360,20 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-contains
+prohibited_if_accepted
 
 </td><td width="50%">
 
-The :attribute field is missing a required value.
+The :attribute field is prohibited when :other is accepted.
 
 </td></tr>
 <tr><td width="50%">
 
-required_if_declined
+prohibited_if_declined
 
 </td><td width="50%">
 
-The :attribute field is required when :other is declined.
+The :attribute field is prohibited when :other is declined.
 
 </td></tr>
 </table>

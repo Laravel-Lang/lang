@@ -106,6 +106,8 @@
     "previous": "&laquo; السابق",
     "prohibited": "حقل :attribute محظور.",
     "prohibited_if": "حقل :attribute محظور إذا كان :other هو :value.",
+    "prohibited_if_accepted": "حقل :attribute محظور عند قبول الحقل :other.",
+    "prohibited_if_declined": "حقل :attribute محظور عند رفض الحقل :other.",
     "prohibited_unless": "حقل :attribute محظور ما لم يكن :other ضمن :values.",
     "prohibits": "الحقل :attribute يحظر تواجد الحقل :other.",
     "regex": "صيغة حقل :attribute غير صحيحة.",

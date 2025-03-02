@@ -4,12 +4,12 @@ editLink: false
 
 # it
 
-##### All missed: 17
+##### All missed: 13
 
 
 ### json
 
-##### Missing: 13
+##### Missing: 6
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,92 +23,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-A decryption key is required.
-
-</td><td width="50%">
-
-A decryption key is required.
-
-</td></tr>
-<tr><td width="50%">
-
-Change the current payment method attached to your subscription
-
-</td><td width="50%">
-
-Change the current payment method attached to your subscription
-
-</td></tr>
-<tr><td width="50%">
-
 Download Invoice
 
 </td><td width="50%">
 
 Download Invoice
-
-</td></tr>
-<tr><td width="50%">
-
-Encrypted environment file already exists.
-
-</td><td width="50%">
-
-Encrypted environment file already exists.
-
-</td></tr>
-<tr><td width="50%">
-
-Encrypted environment file not found.
-
-</td><td width="50%">
-
-Encrypted environment file not found.
-
-</td></tr>
-<tr><td width="50%">
-
-Environment file already exists.
-
-</td><td width="50%">
-
-Environment file already exists.
-
-</td></tr>
-<tr><td width="50%">
-
-Environment file not found.
-
-</td><td width="50%">
-
-Environment file not found.
-
-</td></tr>
-<tr><td width="50%">
-
-Having second thoughts about cancelling your subscription? You can instantly reactivate your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
-
-</td><td width="50%">
-
-Having second thoughts about cancelling your subscription? You can instantly reactivate your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
-
-</td></tr>
-<tr><td width="50%">
-
-Invalid filename.
-
-</td><td width="50%">
-
-Invalid filename.
-
-</td></tr>
-<tr><td width="50%">
-
-Invoices
-
-</td><td width="50%">
-
-Invoices
 
 </td></tr>
 <tr><td width="50%">
@@ -122,20 +41,38 @@ length
 </td></tr>
 <tr><td width="50%">
 
-Your last payment of :amount failed. Please update your payment method to retry the failed payment.
+Mark all notifications as read
 
 </td><td width="50%">
 
-Your last payment of :amount failed. Please update your payment method to retry the failed payment.
+Mark all notifications as read
 
 </td></tr>
 <tr><td width="50%">
 
-Your subscription has been successfully cancelled. You will still have access until the end of your billing period.
+OK
 
 </td><td width="50%">
 
-Your subscription has been successfully cancelled. You will still have access until the end of your billing period.
+OK
+
+</td></tr>
+<tr><td width="50%">
+
+Secure Area
+
+</td><td width="50%">
+
+Secure Area
+
+</td></tr>
+<tr><td width="50%">
+
+Username
+
+</td><td width="50%">
+
+Username
 
 </td></tr>
 </table>
@@ -146,7 +83,7 @@ Your subscription has been successfully cancelled. You will still have access un
 
 ### php-inline
 
-##### Missing: 2
+##### Missing: 3
 
 <table width="100%">
 <tr><th width="50%">
@@ -160,11 +97,20 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-contains
+prohibited_if_accepted
 
 </td><td width="50%">
 
-This field is missing a required value.
+This field is prohibited when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+prohibited_if_declined
+
+</td><td width="50%">
+
+This field is prohibited when :other is declined.
 
 </td></tr>
 <tr><td width="50%">
@@ -184,7 +130,7 @@ This field is required when :other is declined.
 
 ### php
 
-##### Missing: 2
+##### Missing: 4
 
 <table width="100%">
 <tr><th width="50%">
@@ -203,6 +149,24 @@ contains
 </td><td width="50%">
 
 The :attribute field is missing a required value.
+
+</td></tr>
+<tr><td width="50%">
+
+prohibited_if_accepted
+
+</td><td width="50%">
+
+The :attribute field is prohibited when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+prohibited_if_declined
+
+</td><td width="50%">
+
+The :attribute field is prohibited when :other is declined.
 
 </td></tr>
 <tr><td width="50%">

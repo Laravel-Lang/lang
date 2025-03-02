@@ -101,6 +101,8 @@
     "present_with_all": "Sehemu hii lazima iwepo wakati :values z​​ipo.",
     "prohibited": "Huu uwanja ni marufuku.",
     "prohibited_if": "Huu uwanja ni marufuku wakati :other ni :value.",
+    "prohibited_if_accepted": "This field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "This field is prohibited when :other is declined.",
     "prohibited_unless": "Huu uwanja ni marufuku isipokuwa :other ni katika :values.",
     "prohibits": "Uwanja huu unazuia :other kuonyeshwa.",
     "regex": "Muundo huu ni batili.",

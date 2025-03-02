@@ -101,6 +101,8 @@
     "present_with_all": "यो क्षेत्र :values उपस्थित हुँदा उपस्थित हुनुपर्छ।",
     "prohibited": "यो क्षेत्र निषेध छ ।",
     "prohibited_if": "यो क्षेत्र निषेध छ जब :other छ :value.",
+    "prohibited_if_accepted": "This field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "This field is prohibited when :other is declined.",
     "prohibited_unless": "यो क्षेत्र निषेध छ नभएसम्म :other छ :values.",
     "prohibits": "यस क्षेत्रले :other लाई उपस्थित हुन निषेध गर्दछ।",
     "regex": "यो ढाँचा अवैध छ।",

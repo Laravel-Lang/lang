@@ -4,50 +4,12 @@ editLink: false
 
 # fil
 
-##### All missed: 256
-
-
-### php
-
-##### Missing: 2
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-contains
-
-</td><td width="50%">
-
-The :attribute field is missing a required value.
-
-</td></tr>
-<tr><td width="50%">
-
-required_if_declined
-
-</td><td width="50%">
-
-The :attribute field is required when :other is declined.
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
+##### All missed: 214
 
 
 ### json
 
-##### Missing: 252
+##### Missing: 214
 
 <table width="100%">
 <tr><th width="50%">
@@ -59,15 +21,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-A decryption key is required.
-
-</td><td width="50%">
-
-A decryption key is required.
-
-</td></tr>
 <tr><td width="50%">
 
 Action Target
@@ -160,15 +113,6 @@ Antarctica
 </td></tr>
 <tr><td width="50%">
 
-API Token
-
-</td><td width="50%">
-
-API Token
-
-</td></tr>
-<tr><td width="50%">
-
 Argentina
 
 </td><td width="50%">
@@ -412,29 +356,11 @@ Card
 </td></tr>
 <tr><td width="50%">
 
-Central African Republic
-
-</td><td width="50%">
-
-Central African Republic
-
-</td></tr>
-<tr><td width="50%">
-
 Chad
 
 </td><td width="50%">
 
 Chad
-
-</td></tr>
-<tr><td width="50%">
-
-Change the current payment method attached to your subscription
-
-</td><td width="50%">
-
-Change the current payment method attached to your subscription
 
 </td></tr>
 <tr><td width="50%">
@@ -601,15 +527,6 @@ Dominican Republic
 </td></tr>
 <tr><td width="50%">
 
-Download Invoice
-
-</td><td width="50%">
-
-Download Invoice
-
-</td></tr>
-<tr><td width="50%">
-
 Ecuador
 
 </td><td width="50%">
@@ -642,60 +559,6 @@ Email
 </td><td width="50%">
 
 Email
-
-</td></tr>
-<tr><td width="50%">
-
-email
-
-</td><td width="50%">
-
-email
-
-</td></tr>
-<tr><td width="50%">
-
-Email Address
-
-</td><td width="50%">
-
-Email Address
-
-</td></tr>
-<tr><td width="50%">
-
-Encrypted environment file already exists.
-
-</td><td width="50%">
-
-Encrypted environment file already exists.
-
-</td></tr>
-<tr><td width="50%">
-
-Encrypted environment file not found.
-
-</td><td width="50%">
-
-Encrypted environment file not found.
-
-</td></tr>
-<tr><td width="50%">
-
-Environment file already exists.
-
-</td><td width="50%">
-
-Environment file already exists.
-
-</td></tr>
-<tr><td width="50%">
-
-Environment file not found.
-
-</td><td width="50%">
-
-Environment file not found.
 
 </td></tr>
 <tr><td width="50%">
@@ -741,15 +604,6 @@ Ethiopia
 </td><td width="50%">
 
 Ethiopia
-
-</td></tr>
-<tr><td width="50%">
-
-ex VAT
-
-</td><td width="50%">
-
-ex VAT
 
 </td></tr>
 <tr><td width="50%">
@@ -804,15 +658,6 @@ French Polynesia
 </td><td width="50%">
 
 French Polynesia
-
-</td></tr>
-<tr><td width="50%">
-
-French Southern Territories
-
-</td><td width="50%">
-
-French Southern Territories
 
 </td></tr>
 <tr><td width="50%">
@@ -961,15 +806,6 @@ Haiti
 </td></tr>
 <tr><td width="50%">
 
-Having second thoughts about cancelling your subscription? You can instantly reactivate your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
-
-</td><td width="50%">
-
-Having second thoughts about cancelling your subscription? You can instantly reactivate your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
-
-</td></tr>
-<tr><td width="50%">
-
 Honduras
 
 </td><td width="50%">
@@ -1029,24 +865,6 @@ Indonesia
 </td><td width="50%">
 
 Indonesia
-
-</td></tr>
-<tr><td width="50%">
-
-Invalid filename.
-
-</td><td width="50%">
-
-Invalid filename.
-
-</td></tr>
-<tr><td width="50%">
-
-Invoices
-
-</td><td width="50%">
-
-Invoices
 
 </td></tr>
 <tr><td width="50%">
@@ -1087,24 +905,6 @@ Ireland
 </td></tr>
 <tr><td width="50%">
 
-Isle Of Man
-
-</td><td width="50%">
-
-Isle of Man
-
-</td></tr>
-<tr><td width="50%">
-
-Isle of Man
-
-</td><td width="50%">
-
-Isle of Man
-
-</td></tr>
-<tr><td width="50%">
-
 Israel
 
 </td><td width="50%">
@@ -1168,15 +968,6 @@ Kiribati
 </td></tr>
 <tr><td width="50%">
 
-Korea
-
-</td><td width="50%">
-
-South Korea
-
-</td></tr>
-<tr><td width="50%">
-
 Kosovo
 
 </td><td width="50%">
@@ -1222,15 +1013,6 @@ Lebanon
 </td></tr>
 <tr><td width="50%">
 
-length
-
-</td><td width="50%">
-
-length
-
-</td></tr>
-<tr><td width="50%">
-
 Lens
 
 </td><td width="50%">
@@ -1272,24 +1054,6 @@ Lithuania
 </td><td width="50%">
 
 Lithuania
-
-</td></tr>
-<tr><td width="50%">
-
-Log Out
-
-</td><td width="50%">
-
-Log Out
-
-</td></tr>
-<tr><td width="50%">
-
-Log out
-
-</td><td width="50%">
-
-Log out
 
 </td></tr>
 <tr><td width="50%">
@@ -1366,15 +1130,6 @@ Malta
 </td></tr>
 <tr><td width="50%">
 
-Mark Read
-
-</td><td width="50%">
-
-Mark Read
-
-</td></tr>
-<tr><td width="50%">
-
 Martinique
 
 </td><td width="50%">
@@ -1398,15 +1153,6 @@ Mauritius
 </td><td width="50%">
 
 Mauritius
-
-</td></tr>
-<tr><td width="50%">
-
-May
-
-</td><td width="50%">
-
-May
 
 </td></tr>
 <tr><td width="50%">
@@ -1771,33 +1517,6 @@ Recovery Code
 </td></tr>
 <tr><td width="50%">
 
-Refresh
-
-</td><td width="50%">
-
-Refresh
-
-</td></tr>
-<tr><td width="50%">
-
-Reload
-
-</td><td width="50%">
-
-Reload
-
-</td></tr>
-<tr><td width="50%">
-
-Resource Row Dropdown
-
-</td><td width="50%">
-
-Resource Row Dropdown
-
-</td></tr>
-<tr><td width="50%">
-
 Reunion
 
 </td><td width="50%">
@@ -1834,29 +1553,11 @@ Réunion
 </td></tr>
 <tr><td width="50%">
 
-Saint Barthelemy
-
-</td><td width="50%">
-
-St. Barthélemy
-
-</td></tr>
-<tr><td width="50%">
-
 Saint Barthélemy
 
 </td><td width="50%">
 
 Saint Barthélemy
-
-</td></tr>
-<tr><td width="50%">
-
-Saint Martin
-
-</td><td width="50%">
-
-St. Martin
 
 </td></tr>
 <tr><td width="50%">
@@ -1902,15 +1603,6 @@ Serbia
 </td><td width="50%">
 
 Serbia
-
-</td></tr>
-<tr><td width="50%">
-
-Setup Key
-
-</td><td width="50%">
-
-Setup Key
 
 </td></tr>
 <tr><td width="50%">
@@ -1969,15 +1661,6 @@ Slovenia
 </td></tr>
 <tr><td width="50%">
 
-Solomon Islands
-
-</td><td width="50%">
-
-Solomon Islands
-
-</td></tr>
-<tr><td width="50%">
-
 Somalia
 
 </td><td width="50%">
@@ -2140,15 +1823,6 @@ Tuvalu
 </td></tr>
 <tr><td width="50%">
 
-Two Factor Authentication
-
-</td><td width="50%">
-
-Two Factor Authentication
-
-</td></tr>
-<tr><td width="50%">
-
 Uganda
 
 </td><td width="50%">
@@ -2185,42 +1859,6 @@ United Kingdom
 </td></tr>
 <tr><td width="50%">
 
-United States Minor Outlying Islands
-
-</td><td width="50%">
-
-United States Minor Outlying Islands
-
-</td></tr>
-<tr><td width="50%">
-
-United States Outlying Islands
-
-</td><td width="50%">
-
-U.S. Outlying Islands
-
-</td></tr>
-<tr><td width="50%">
-
-Update
-
-</td><td width="50%">
-
-Update
-
-</td></tr>
-<tr><td width="50%">
-
-Update :resource
-
-</td><td width="50%">
-
-Update :resource
-
-</td></tr>
-<tr><td width="50%">
-
 Update :resource: :title
 
 </td><td width="50%">
@@ -2235,6 +1873,15 @@ Uruguay
 </td><td width="50%">
 
 Uruguay
+
+</td></tr>
+<tr><td width="50%">
+
+Username
+
+</td><td width="50%">
+
+Username
 
 </td></tr>
 <tr><td width="50%">
@@ -2284,24 +1931,6 @@ Yemen
 </td></tr>
 <tr><td width="50%">
 
-Your last payment of :amount failed. Please update your payment method to retry the failed payment.
-
-</td><td width="50%">
-
-Your last payment of :amount failed. Please update your payment method to retry the failed payment.
-
-</td></tr>
-<tr><td width="50%">
-
-Your subscription has been successfully cancelled. You will still have access until the end of your billing period.
-
-</td><td width="50%">
-
-Your subscription has been successfully cancelled. You will still have access until the end of your billing period.
-
-</td></tr>
-<tr><td width="50%">
-
 Zambia
 
 </td><td width="50%">
@@ -2316,53 +1945,6 @@ Zimbabwe
 </td><td width="50%">
 
 Zimbabwe
-
-</td></tr>
-<tr><td width="50%">
-
-Zip / Postal Code
-
-</td><td width="50%">
-
-Zip / Postal Code
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php-inline
-
-##### Missing: 2
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-contains
-
-</td><td width="50%">
-
-This field is missing a required value.
-
-</td></tr>
-<tr><td width="50%">
-
-required_if_declined
-
-</td><td width="50%">
-
-This field is required when :other is declined.
 
 </td></tr>
 </table>

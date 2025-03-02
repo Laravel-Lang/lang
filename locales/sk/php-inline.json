@@ -101,6 +101,8 @@
     "present_with_all": "Toto pole musí byť odoslané, ak existuje :values.",
     "prohibited": "Toto pole je zakázané.",
     "prohibited_if": "Toto pole je zakázané, keď :other je :value.",
+    "prohibited_if_accepted": "Toto pole je zakázané, keď je :other akceptovaných.",
+    "prohibited_if_declined": "Toto pole je zakázané, keď je :other odmietnutých.",
     "prohibited_unless": "Toto pole je zakázané, ak :other je v :values.",
     "prohibits": "Toto pole je zakazáané, keď je :other povolené.",
     "regex": "Tento formát je neplatný.",

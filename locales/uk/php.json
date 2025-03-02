@@ -106,6 +106,8 @@
     "previous": "&laquo; Назад",
     "prohibited": "Поле :attribute заборонено.",
     "prohibited_if": "Поле :attribute заборонено, коли :other дорівнює :value.",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": "Поле :attribute заборонено, якщо тільки :other не знаходиться в :values.",
     "prohibits": "Поле :attribute забороняє присутність :other.",
     "regex": "Поле :attribute має хибний формат.",

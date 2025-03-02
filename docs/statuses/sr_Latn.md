@@ -4,7 +4,7 @@ editLink: false
 
 # sr_Latn
 
-##### All missed: 335
+##### All missed: 345
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 268
+##### Missing: 274
 
 <table width="100%">
 <tr><th width="50%">
@@ -187,15 +187,6 @@ Value
 </td></tr>
 <tr><td width="50%">
 
-365 Days
-
-</td><td width="50%">
-
-365 Days
-
-</td></tr>
-<tr><td width="50%">
-
 A decryption key is required.
 
 </td><td width="50%">
@@ -228,6 +219,24 @@ A new verification link has been sent to your email address.
 </td><td width="50%">
 
 A new verification link has been sent to your email address.
+
+</td></tr>
+<tr><td width="50%">
+
+Action Event
+
+</td><td width="50%">
+
+Action Event
+
+</td></tr>
+<tr><td width="50%">
+
+Action Events
+
+</td><td width="50%">
+
+Action Events
 
 </td></tr>
 <tr><td width="50%">
@@ -403,6 +412,15 @@ Are you sure you want to log out?
 </td></tr>
 <tr><td width="50%">
 
+Are you sure you want to mark all notifications as read?
+
+</td><td width="50%">
+
+Are you sure you want to mark all notifications as read?
+
+</td></tr>
+<tr><td width="50%">
+
 Are you sure you want to remove this item?
 
 </td><td width="50%">
@@ -453,15 +471,6 @@ Attach files by dragging & dropping, selecting or pasting them.
 </td><td width="50%">
 
 Attach files by dragging & dropping, selecting or pasting them.
-
-</td></tr>
-<tr><td width="50%">
-
-Attendance
-
-</td><td width="50%">
-
-Attendance
 
 </td></tr>
 <tr><td width="50%">
@@ -552,15 +561,6 @@ Checkout
 </td><td width="50%">
 
 Checkout
-
-</td></tr>
-<tr><td width="50%">
-
-Choose a project
-
-</td><td width="50%">
-
-Choose a project
 
 </td></tr>
 <tr><td width="50%">
@@ -736,20 +736,20 @@ Delete all notifications
 </td></tr>
 <tr><td width="50%">
 
-Download Invoice
+Delete Notification
 
 </td><td width="50%">
 
-Download Invoice
+Delete Notification
 
 </td></tr>
 <tr><td width="50%">
 
-Download Receipt
+Download Invoice
 
 </td><td width="50%">
 
-Download Receipt
+Download Invoice
 
 </td></tr>
 <tr><td width="50%">
@@ -790,11 +790,11 @@ Email Addresses
 </td></tr>
 <tr><td width="50%">
 
-Employee
+Email Verification
 
 </td><td width="50%">
 
-Employee
+Email Verification
 
 </td></tr>
 <tr><td width="50%">
@@ -867,6 +867,15 @@ Expires :expiration
 </td><td width="50%">
 
 Expires :expiration
+
+</td></tr>
+<tr><td width="50%">
+
+Export As CSV
+
+</td><td width="50%">
+
+Export As CSV
 
 </td></tr>
 <tr><td width="50%">
@@ -979,11 +988,11 @@ If you did not receive the email
 </td></tr>
 <tr><td width="50%">
 
-If you need to add specific contact or tax information to your receipts, like your full business name, VAT identification number, or address of record, you may add it here.
+If you need to add specific contact or tax information to your invoices, like your full business name, VAT identification number, or address of record, you may add it here.
 
 </td><td width="50%">
 
-If you need to add specific contact or tax information to your receipts, like your full business name, VAT identification number, or address of record, you may add it here.
+If you need to add specific contact or tax information to your invoices, like your full business name, VAT identification number, or address of record, you may add it here.
 
 </td></tr>
 <tr><td width="50%">
@@ -1011,6 +1020,24 @@ Invalid JSON was returned from the route.
 </td><td width="50%">
 
 Invalid JSON was returned from the route.
+
+</td></tr>
+<tr><td width="50%">
+
+Invoice Email Addresses
+
+</td><td width="50%">
+
+Invoice Email Addresses
+
+</td></tr>
+<tr><td width="50%">
+
+Invoice emails updated successfully.
+
+</td><td width="50%">
+
+Invoice emails updated successfully.
 
 </td></tr>
 <tr><td width="50%">
@@ -1159,6 +1186,15 @@ Managing billing for :billableName
 </td></tr>
 <tr><td width="50%">
 
+Mark all notifications as read
+
+</td><td width="50%">
+
+Mark all notifications as read
+
+</td></tr>
+<tr><td width="50%">
+
 Mark Read
 
 </td><td width="50%">
@@ -1285,6 +1321,15 @@ Notifications
 </td></tr>
 <tr><td width="50%">
 
+OK
+
+</td><td width="50%">
+
+OK
+
+</td></tr>
+<tr><td width="50%">
+
 Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
 
 </td><td width="50%">
@@ -1384,15 +1429,6 @@ Payments
 </td></tr>
 <tr><td width="50%">
 
-Person
-
-</td><td width="50%">
-
-Person
-
-</td></tr>
-<tr><td width="50%">
-
 Please accept the terms of service.
 
 </td><td width="50%">
@@ -1411,11 +1447,20 @@ Please confirm your password before continuing.
 </td></tr>
 <tr><td width="50%">
 
-Please provide a maximum of three receipt emails addresses.
+Please provide a maximum of three invoice emails addresses.
 
 </td><td width="50%">
 
-Please provide a maximum of three receipt emails addresses.
+Please provide a maximum of three invoice emails addresses.
+
+</td></tr>
+<tr><td width="50%">
+
+Please set a default payment method before retrying payments.
+
+</td><td width="50%">
+
+Please set a default payment method before retrying payments.
 
 </td></tr>
 <tr><td width="50%">
@@ -1443,33 +1488,6 @@ Qatar
 </td><td width="50%">
 
 Qatar
-
-</td></tr>
-<tr><td width="50%">
-
-Receipt Email Addresses
-
-</td><td width="50%">
-
-Receipt Email Addresses
-
-</td></tr>
-<tr><td width="50%">
-
-Receipt emails updated successfully.
-
-</td><td width="50%">
-
-Receipt emails updated successfully.
-
-</td></tr>
-<tr><td width="50%">
-
-Receipts
-
-</td><td width="50%">
-
-Receipts
 
 </td></tr>
 <tr><td width="50%">
@@ -1614,6 +1632,15 @@ Scroll to top
 </td><td width="50%">
 
 Scroll to top
+
+</td></tr>
+<tr><td width="50%">
+
+Secure Area
+
+</td><td width="50%">
+
+Secure Area
 
 </td></tr>
 <tr><td width="50%">
@@ -1933,6 +1960,15 @@ The image could not be loaded.
 </td></tr>
 <tr><td width="50%">
 
+The invoice emails must be valid email addresses.
+
+</td><td width="50%">
+
+The invoice emails must be valid email addresses.
+
+</td></tr>
+<tr><td width="50%">
+
 The password is incorrect.
 
 </td><td width="50%">
@@ -1965,15 +2001,6 @@ The provided VAT number is invalid.
 </td><td width="50%">
 
 The provided VAT number is invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-The receipt emails must be valid email addresses.
-
-</td><td width="50%">
-
-The receipt emails must be valid email addresses.
 
 </td></tr>
 <tr><td width="50%">
@@ -2028,6 +2055,15 @@ The selected plan is invalid.
 </td><td width="50%">
 
 The selected plan is invalid.
+
+</td></tr>
+<tr><td width="50%">
+
+The selected resources have been :action!
+
+</td><td width="50%">
+
+The selected resources have been :action!
 
 </td></tr>
 <tr><td width="50%">
@@ -2100,6 +2136,15 @@ This invoice is no longer open.
 </td><td width="50%">
 
 This invoice is no longer open.
+
+</td></tr>
+<tr><td width="50%">
+
+This payment was initiated, but the funds have not been received yet. This can take up to 14 days.
+
+</td><td width="50%">
+
+This payment was initiated, but the funds have not been received yet. This can take up to 14 days.
 
 </td></tr>
 <tr><td width="50%">
@@ -2248,6 +2293,24 @@ User Actions
 </td></tr>
 <tr><td width="50%">
 
+User Security
+
+</td><td width="50%">
+
+User Security
+
+</td></tr>
+<tr><td width="50%">
+
+Username
+
+</td><td width="50%">
+
+Username
+
+</td></tr>
+<tr><td width="50%">
+
 VAT Number
 
 </td><td width="50%">
@@ -2271,15 +2334,6 @@ Verify Your Email Address
 </td><td width="50%">
 
 Verify Your Email Address
-
-</td></tr>
-<tr><td width="50%">
-
-Visits
-
-</td><td width="50%">
-
-Visits
 
 </td></tr>
 <tr><td width="50%">
@@ -2320,11 +2374,11 @@ We have emailed your password reset link!
 </td></tr>
 <tr><td width="50%">
 
-We will send a receipt download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
+We will send an invoice download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
 
 </td><td width="50%">
 
-We will send a receipt download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
+We will send an invoice download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
 
 </td></tr>
 <tr><td width="50%">
@@ -2587,7 +2641,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 33
+##### Missing: 35
 
 <table width="100%">
 <tr><th width="50%">
@@ -2844,6 +2898,24 @@ This field must be present when :values are present.
 </td></tr>
 <tr><td width="50%">
 
+prohibited_if_accepted
+
+</td><td width="50%">
+
+This field is prohibited when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+prohibited_if_declined
+
+</td><td width="50%">
+
+This field is prohibited when :other is declined.
+
+</td></tr>
+<tr><td width="50%">
+
 prohibits
 
 </td><td width="50%">
@@ -2904,7 +2976,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 20
+##### Missing: 22
 
 <table width="100%">
 <tr><th width="50%">
@@ -3058,6 +3130,24 @@ present_with_all
 </td><td width="50%">
 
 The :attribute field must be present when :values are present.
+
+</td></tr>
+<tr><td width="50%">
+
+prohibited_if_accepted
+
+</td><td width="50%">
+
+The :attribute field is prohibited when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+prohibited_if_declined
+
+</td><td width="50%">
+
+The :attribute field is prohibited when :other is declined.
 
 </td></tr>
 <tr><td width="50%">

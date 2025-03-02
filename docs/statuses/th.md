@@ -9,7 +9,7 @@ editLink: false
 
 ### json
 
-##### Missing: 12
+##### Missing: 8
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,110 +23,150 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-A decryption key is required.
+If you need to add specific contact or tax information to your invoices, like your full business name, VAT identification number, or address of record, you may add it here.
 
 </td><td width="50%">
 
-A decryption key is required.
+If you need to add specific contact or tax information to your invoices, like your full business name, VAT identification number, or address of record, you may add it here.
 
 </td></tr>
 <tr><td width="50%">
 
-Change the current payment method attached to your subscription
+Invoice Email Addresses
 
 </td><td width="50%">
 
-Change the current payment method attached to your subscription
+Invoice Email Addresses
 
 </td></tr>
 <tr><td width="50%">
 
-Download Invoice
+Invoice emails updated successfully.
 
 </td><td width="50%">
 
-Download Invoice
+Invoice emails updated successfully.
 
 </td></tr>
 <tr><td width="50%">
 
-Encrypted environment file already exists.
+Please provide a maximum of three invoice emails addresses.
 
 </td><td width="50%">
 
-Encrypted environment file already exists.
+Please provide a maximum of three invoice emails addresses.
 
 </td></tr>
 <tr><td width="50%">
 
-Encrypted environment file not found.
+Please set a default payment method before retrying payments.
 
 </td><td width="50%">
 
-Encrypted environment file not found.
+Please set a default payment method before retrying payments.
 
 </td></tr>
 <tr><td width="50%">
 
-Environment file already exists.
+The invoice emails must be valid email addresses.
 
 </td><td width="50%">
 
-Environment file already exists.
+The invoice emails must be valid email addresses.
 
 </td></tr>
 <tr><td width="50%">
 
-Environment file not found.
+This payment was initiated, but the funds have not been received yet. This can take up to 14 days.
 
 </td><td width="50%">
 
-Environment file not found.
+This payment was initiated, but the funds have not been received yet. This can take up to 14 days.
 
 </td></tr>
 <tr><td width="50%">
 
-Having second thoughts about cancelling your subscription? You can instantly reactivate your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
+We will send an invoice download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
 
 </td><td width="50%">
 
-Having second thoughts about cancelling your subscription? You can instantly reactivate your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
+We will send an invoice download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php-inline
+
+##### Missing: 2
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+prohibited_if_accepted
+
+</td><td width="50%">
+
+This field is prohibited when :other is accepted.
 
 </td></tr>
 <tr><td width="50%">
 
-Invalid filename.
+prohibited_if_declined
 
 </td><td width="50%">
 
-Invalid filename.
+This field is prohibited when :other is declined.
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php
+
+##### Missing: 2
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+prohibited_if_accepted
+
+</td><td width="50%">
+
+The :attribute field is prohibited when :other is accepted.
 
 </td></tr>
 <tr><td width="50%">
 
-Invoices
+prohibited_if_declined
 
 </td><td width="50%">
 
-Invoices
-
-</td></tr>
-<tr><td width="50%">
-
-Your last payment of :amount failed. Please update your payment method to retry the failed payment.
-
-</td><td width="50%">
-
-Your last payment of :amount failed. Please update your payment method to retry the failed payment.
-
-</td></tr>
-<tr><td width="50%">
-
-Your subscription has been successfully cancelled. You will still have access until the end of your billing period.
-
-</td><td width="50%">
-
-Your subscription has been successfully cancelled. You will still have access until the end of your billing period.
+The :attribute field is prohibited when :other is declined.
 
 </td></tr>
 </table>

@@ -4,12 +4,12 @@ editLink: false
 
 # ro
 
-##### All missed: 121
+##### All missed: 128
 
 
 ### json
 
-##### Missing: 117
+##### Missing: 122
 
 <table width="100%">
 <tr><th width="50%">
@@ -320,6 +320,15 @@ Côte d'Ivoire
 </td></tr>
 <tr><td width="50%">
 
+Delete Notification
+
+</td><td width="50%">
+
+Delete Notification
+
+</td></tr>
+<tr><td width="50%">
+
 Djibouti
 
 </td><td width="50%">
@@ -761,6 +770,15 @@ Niue
 </td></tr>
 <tr><td width="50%">
 
+OK
+
+</td><td width="50%">
+
+OK
+
+</td></tr>
+<tr><td width="50%">
+
 Oman
 
 </td><td width="50%">
@@ -865,6 +883,15 @@ San Marino
 </td><td width="50%">
 
 San Marino
+
+</td></tr>
+<tr><td width="50%">
+
+Secure Area
+
+</td><td width="50%">
+
+Secure Area
 
 </td></tr>
 <tr><td width="50%">
@@ -959,6 +986,15 @@ Tanzania
 </td></tr>
 <tr><td width="50%">
 
+The selected resources have been :action!
+
+</td><td width="50%">
+
+The selected resources have been :action!
+
+</td></tr>
+<tr><td width="50%">
+
 Tokelau
 
 </td><td width="50%">
@@ -1027,6 +1063,15 @@ Uruguay
 </td><td width="50%">
 
 Uruguay
+
+</td></tr>
+<tr><td width="50%">
+
+Username
+
+</td><td width="50%">
+
+Username
 
 </td></tr>
 <tr><td width="50%">
@@ -1082,7 +1127,7 @@ Zimbabwe
 
 ### php-inline
 
-##### Missing: 2
+##### Missing: 3
 
 <table width="100%">
 <tr><th width="50%">
@@ -1096,11 +1141,20 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-contains
+prohibited_if_accepted
 
 </td><td width="50%">
 
-This field is missing a required value.
+This field is prohibited when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+prohibited_if_declined
+
+</td><td width="50%">
+
+This field is prohibited when :other is declined.
 
 </td></tr>
 <tr><td width="50%">
@@ -1120,7 +1174,7 @@ This field is required when :other is declined.
 
 ### php
 
-##### Missing: 2
+##### Missing: 3
 
 <table width="100%">
 <tr><th width="50%">
@@ -1134,11 +1188,20 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-contains
+prohibited_if_accepted
 
 </td><td width="50%">
 
-The :attribute field is missing a required value.
+The :attribute field is prohibited when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+prohibited_if_declined
+
+</td><td width="50%">
+
+The :attribute field is prohibited when :other is declined.
 
 </td></tr>
 <tr><td width="50%">

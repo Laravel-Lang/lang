@@ -13,7 +13,7 @@ jobs:
         strategy:
             fail-fast: true
             matrix:
-                version: [ "11.x", "master" ]
+                version: [ "11.x", "12.x", "master" ]
         with:
             project: Laravel Framework ${{ matrix.version }}
             paths: source/framework/${{ matrix.version }}/*
@@ -92,6 +92,7 @@ jobs:
             matrix:
                 nova:
                     - { branch: "4.x", version: "4.0" }
+                    - { branch: "5.x", version: "5.0" }
         
         name: nova (${{ matrix.nova.branch }})
 
@@ -114,7 +115,7 @@ jobs:
             -   name: Install dependencies
                 run: |
                     composer global require dragon-code/codestyler
-                    composer config repositories.nova composer ${{ secrets.LARAVEL_NOVA_REPOSITORY }}
+                    composer config repositories.nova composer ${{ secrets.LARAVEL_REPOSITORY }}
                     composer require laravel/nova:^${{ matrix.nova.version }}
 
             -   name: Copy localization files
@@ -131,7 +132,7 @@ jobs:
                 run: codestyle
 
             -   name: Create a Pull Request
-                uses: peter-evans/create-pull-request@v6
+                uses: peter-evans/create-pull-request@v7
                 with:
                     branch: projects/patch
                     branch-suffix: random
@@ -171,6 +172,61 @@ jobs:
                     --project=nova/dusk-suite \
                     --ver=${{ matrix.version }} \
                     --copy=lang
+
+    spark:
+        runs-on: ubuntu-latest
+
+        strategy:
+            fail-fast: true
+            matrix:
+                package: [ "stripe", "paddle" ]
+
+        name: spark ${{ matrix.package }}
+
+        steps:
+            -   name: Checkout code
+                uses: actions/checkout@v4
+
+            -   name: Setup PHP
+                uses: shivammathur/setup-php@v2
+                with:
+                    extensions: curl, mbstring, zip, pcntl, pdo, pdo_sqlite, iconv, json
+                    coverage: none
+
+            -   name: Git setup
+                if: success()
+                run: |
+                    git config --local user.email "action@github.com"
+                    git config --local user.name "GitHub Action"
+
+            -   name: Install dependencies
+                run: |
+                    composer global require dragon-code/codestyler
+                    composer config repositories.spark-stripe composer ${{ secrets.LARAVEL_REPOSITORY }}
+                    composer require laravel/spark-${{ matrix.package }}
+
+            -   name: Copy localization files
+                run: |
+                    cp vendor/laravel/spark-${{ matrix.package }}/stubs/en.json source/spark/spark-${{ matrix.package }}.json -f
+
+            -   name: Clean up
+                run: |
+                    composer remove laravel/spark-${{ matrix.package }}
+                    git checkout HEAD -- composer.json
+
+            -   name: Code-Style
+                run: codestyle
+
+            -   name: Create a Pull Request
+                uses: peter-evans/create-pull-request@v7
+                with:
+                    branch: projects/patch
+                    branch-suffix: random
+                    delete-branch: true
+                    add-paths: source/spark/spark-${{ matrix.package }}.json
+                    title: "[source]: Updated Laravel Spark ${{ matrix.package }} keys"
+                    commit-message: 🗝️ Updated Laravel Spark ${{ matrix.package }} keys
+                    body: Updated keys for Laravel Spark ${{ matrix.package }} 💪
 
     ui:
         uses: Laravel-Lang/.github/.github/workflows/download.yml@main

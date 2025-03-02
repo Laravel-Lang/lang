@@ -4,12 +4,12 @@ editLink: false
 
 # bs
 
-##### All missed: 32
+##### All missed: 56
 
 
 ### json
 
-##### Missing: 28
+##### Missing: 48
 
 <table width="100%">
 <tr><th width="50%">
@@ -32,6 +32,33 @@ A decryption key is required.
 </td></tr>
 <tr><td width="50%">
 
+Action Event
+
+</td><td width="50%">
+
+Action Event
+
+</td></tr>
+<tr><td width="50%">
+
+Action Events
+
+</td><td width="50%">
+
+Action Events
+
+</td></tr>
+<tr><td width="50%">
+
+Are you sure you want to mark all notifications as read?
+
+</td><td width="50%">
+
+Are you sure you want to mark all notifications as read?
+
+</td></tr>
+<tr><td width="50%">
+
 Change the current payment method attached to your subscription
 
 </td><td width="50%">
@@ -59,11 +86,29 @@ Default
 </td></tr>
 <tr><td width="50%">
 
+Delete Notification
+
+</td><td width="50%">
+
+Delete Notification
+
+</td></tr>
+<tr><td width="50%">
+
 Download Invoice
 
 </td><td width="50%">
 
 Download Invoice
+
+</td></tr>
+<tr><td width="50%">
+
+Email Verification
+
+</td><td width="50%">
+
+Email Verification
 
 </td></tr>
 <tr><td width="50%">
@@ -104,6 +149,15 @@ Environment file not found.
 </td></tr>
 <tr><td width="50%">
 
+Export As CSV
+
+</td><td width="50%">
+
+Export As CSV
+
+</td></tr>
+<tr><td width="50%">
+
 Having second thoughts about cancelling your subscription? You can instantly reactivate your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
 
 </td><td width="50%">
@@ -113,11 +167,38 @@ Having second thoughts about cancelling your subscription? You can instantly rea
 </td></tr>
 <tr><td width="50%">
 
+If you need to add specific contact or tax information to your invoices, like your full business name, VAT identification number, or address of record, you may add it here.
+
+</td><td width="50%">
+
+If you need to add specific contact or tax information to your invoices, like your full business name, VAT identification number, or address of record, you may add it here.
+
+</td></tr>
+<tr><td width="50%">
+
 Invalid filename.
 
 </td><td width="50%">
 
 Invalid filename.
+
+</td></tr>
+<tr><td width="50%">
+
+Invoice Email Addresses
+
+</td><td width="50%">
+
+Invoice Email Addresses
+
+</td></tr>
+<tr><td width="50%">
+
+Invoice emails updated successfully.
+
+</td><td width="50%">
+
+Invoice emails updated successfully.
 
 </td></tr>
 <tr><td width="50%">
@@ -185,6 +266,42 @@ Log Viewer
 </td></tr>
 <tr><td width="50%">
 
+Mark all notifications as read
+
+</td><td width="50%">
+
+Mark all notifications as read
+
+</td></tr>
+<tr><td width="50%">
+
+OK
+
+</td><td width="50%">
+
+OK
+
+</td></tr>
+<tr><td width="50%">
+
+Please provide a maximum of three invoice emails addresses.
+
+</td><td width="50%">
+
+Please provide a maximum of three invoice emails addresses.
+
+</td></tr>
+<tr><td width="50%">
+
+Please set a default payment method before retrying payments.
+
+</td><td width="50%">
+
+Please set a default payment method before retrying payments.
+
+</td></tr>
+<tr><td width="50%">
+
 Replicate
 
 </td><td width="50%">
@@ -221,6 +338,15 @@ St. Martin
 </td></tr>
 <tr><td width="50%">
 
+Secure Area
+
+</td><td width="50%">
+
+Secure Area
+
+</td></tr>
+<tr><td width="50%">
+
 Sint Maarten (Dutch part)
 
 </td><td width="50%">
@@ -248,11 +374,65 @@ TAX
 </td></tr>
 <tr><td width="50%">
 
+The invoice emails must be valid email addresses.
+
+</td><td width="50%">
+
+The invoice emails must be valid email addresses.
+
+</td></tr>
+<tr><td width="50%">
+
+The selected resources have been :action!
+
+</td><td width="50%">
+
+The selected resources have been :action!
+
+</td></tr>
+<tr><td width="50%">
+
+This payment was initiated, but the funds have not been received yet. This can take up to 14 days.
+
+</td><td width="50%">
+
+This payment was initiated, but the funds have not been received yet. This can take up to 14 days.
+
+</td></tr>
+<tr><td width="50%">
+
 To
 
 </td><td width="50%">
 
 To
+
+</td></tr>
+<tr><td width="50%">
+
+User Security
+
+</td><td width="50%">
+
+User Security
+
+</td></tr>
+<tr><td width="50%">
+
+Username
+
+</td><td width="50%">
+
+Username
+
+</td></tr>
+<tr><td width="50%">
+
+We will send an invoice download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
+
+</td><td width="50%">
+
+We will send an invoice download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
 
 </td></tr>
 <tr><td width="50%">
@@ -281,7 +461,7 @@ Your subscription has been successfully cancelled. You will still have access un
 
 ### php-inline
 
-##### Missing: 2
+##### Missing: 4
 
 <table width="100%">
 <tr><th width="50%">
@@ -304,6 +484,24 @@ This field is missing a required value.
 </td></tr>
 <tr><td width="50%">
 
+prohibited_if_accepted
+
+</td><td width="50%">
+
+This field is prohibited when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+prohibited_if_declined
+
+</td><td width="50%">
+
+This field is prohibited when :other is declined.
+
+</td></tr>
+<tr><td width="50%">
+
 required_if_declined
 
 </td><td width="50%">
@@ -319,7 +517,7 @@ This field is required when :other is declined.
 
 ### php
 
-##### Missing: 2
+##### Missing: 4
 
 <table width="100%">
 <tr><th width="50%">
@@ -338,6 +536,24 @@ contains
 </td><td width="50%">
 
 The :attribute field is missing a required value.
+
+</td></tr>
+<tr><td width="50%">
+
+prohibited_if_accepted
+
+</td><td width="50%">
+
+The :attribute field is prohibited when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+prohibited_if_declined
+
+</td><td width="50%">
+
+The :attribute field is prohibited when :other is declined.
 
 </td></tr>
 <tr><td width="50%">

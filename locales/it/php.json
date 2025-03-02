@@ -106,6 +106,8 @@
     "previous": "&laquo; Precedente",
     "prohibited": ":Attribute non consentito.",
     "prohibited_if": ":Attribute non consentito quando :other è :value.",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": ":Attribute non consentito a meno che :other sia contenuto in :values.",
     "prohibits": ":Attribute impedisce a :other di essere presente.",
     "regex": "Il formato del campo :attribute non è valido.",

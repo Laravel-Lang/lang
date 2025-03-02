@@ -4,12 +4,12 @@ editLink: false
 
 # zh_CN
 
-##### All missed: 17
+##### All missed: 7
 
 
 ### json
 
-##### Missing: 13
+##### Missing: 7
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,195 +23,65 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-A decryption key is required.
+Export As CSV
 
 </td><td width="50%">
 
-A decryption key is required.
+Export As CSV
 
 </td></tr>
 <tr><td width="50%">
 
-Change the current payment method attached to your subscription
+If you need to add specific contact or tax information to your invoices, like your full business name, VAT identification number, or address of record, you may add it here.
 
 </td><td width="50%">
 
-Change the current payment method attached to your subscription
+If you need to add specific contact or tax information to your invoices, like your full business name, VAT identification number, or address of record, you may add it here.
 
 </td></tr>
 <tr><td width="50%">
 
-Download Invoice
+OK
 
 </td><td width="50%">
 
-Download Invoice
+OK
 
 </td></tr>
 <tr><td width="50%">
 
-Encrypted environment file already exists.
+Secure Area
 
 </td><td width="50%">
 
-Encrypted environment file already exists.
+Secure Area
 
 </td></tr>
 <tr><td width="50%">
 
-Encrypted environment file not found.
+The selected resources have been :action!
 
 </td><td width="50%">
 
-Encrypted environment file not found.
+The selected resources have been :action!
 
 </td></tr>
 <tr><td width="50%">
 
-Environment file already exists.
+This payment was initiated, but the funds have not been received yet. This can take up to 14 days.
 
 </td><td width="50%">
 
-Environment file already exists.
+This payment was initiated, but the funds have not been received yet. This can take up to 14 days.
 
 </td></tr>
 <tr><td width="50%">
 
-Environment file not found.
+We will send an invoice download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
 
 </td><td width="50%">
 
-Environment file not found.
-
-</td></tr>
-<tr><td width="50%">
-
-Having second thoughts about cancelling your subscription? You can instantly reactivate your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
-
-</td><td width="50%">
-
-Having second thoughts about cancelling your subscription? You can instantly reactivate your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
-
-</td></tr>
-<tr><td width="50%">
-
-Invalid filename.
-
-</td><td width="50%">
-
-Invalid filename.
-
-</td></tr>
-<tr><td width="50%">
-
-Invoices
-
-</td><td width="50%">
-
-Invoices
-
-</td></tr>
-<tr><td width="50%">
-
-length
-
-</td><td width="50%">
-
-length
-
-</td></tr>
-<tr><td width="50%">
-
-Your last payment of :amount failed. Please update your payment method to retry the failed payment.
-
-</td><td width="50%">
-
-Your last payment of :amount failed. Please update your payment method to retry the failed payment.
-
-</td></tr>
-<tr><td width="50%">
-
-Your subscription has been successfully cancelled. You will still have access until the end of your billing period.
-
-</td><td width="50%">
-
-Your subscription has been successfully cancelled. You will still have access until the end of your billing period.
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php-inline
-
-##### Missing: 2
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-contains
-
-</td><td width="50%">
-
-This field is missing a required value.
-
-</td></tr>
-<tr><td width="50%">
-
-required_if_declined
-
-</td><td width="50%">
-
-This field is required when :other is declined.
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php
-
-##### Missing: 2
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-contains
-
-</td><td width="50%">
-
-The :attribute field is missing a required value.
-
-</td></tr>
-<tr><td width="50%">
-
-required_if_declined
-
-</td><td width="50%">
-
-The :attribute field is required when :other is declined.
+We will send an invoice download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
 
 </td></tr>
 </table>

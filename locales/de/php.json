@@ -106,6 +106,8 @@
     "previous": "&laquo; Zurück",
     "prohibited": ":Attribute ist unzulässig.",
     "prohibited_if": ":Attribute ist unzulässig, wenn :other :value ist.",
+    "prohibited_if_accepted": "Das Feld :attribute ist unzulässig, wenn :other gewählt ist.",
+    "prohibited_if_declined": "Das Feld :attribute ist unzulässig, wenn :other abgelehnt ist.",
     "prohibited_unless": ":Attribute ist unzulässig, wenn :other nicht :values ist.",
     "prohibits": ":Attribute verbietet die Angabe von :other.",
     "regex": ":Attribute Format ist ungültig.",

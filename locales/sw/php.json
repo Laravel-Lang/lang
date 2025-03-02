@@ -106,6 +106,8 @@
     "previous": "&laquo; Awali",
     "prohibited": "Ya :attribute uwanja ni marufuku.",
     "prohibited_if": "Ya :attribute uwanja ni marufuku wakati :other ni :value.",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": "Ya :attribute uwanja ni marufuku isipokuwa :other ni katika :values.",
     "prohibits": "Kipengele :attribute kinakataza :other kuwepo/kuonyeshwa.",
     "regex": "Muundo wa kipengele si halali.",

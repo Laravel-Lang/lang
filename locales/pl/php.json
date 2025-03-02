@@ -106,6 +106,8 @@
     "previous": "&laquo; Poprzednia",
     "prohibited": "Pole :attribute jest zabronione.",
     "prohibited_if": "Pole :attribute jest zabronione, gdy :other to :value.",
+    "prohibited_if_accepted": "The :attribute field is prohibited when :other is accepted.",
+    "prohibited_if_declined": "The :attribute field is prohibited when :other is declined.",
     "prohibited_unless": "Pole :attribute jest zabronione, chyba że :other jest w :values.",
     "prohibits": "Pole :attribute wyklucza obecność :other.",
     "regex": "Format pola :attribute jest nieprawidłowy.",

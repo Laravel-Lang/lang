@@ -101,6 +101,8 @@
     "present_with_all": "Должно быть когда присутствуют все из значений: :values.",
     "prohibited": "Поле запрещено.",
     "prohibited_if": "Поле запрещено, когда :other содержит :value.",
+    "prohibited_if_accepted": "Значение поля запрещено, если принято :other.",
+    "prohibited_if_declined": "Значение поля запрещено при отказе от :other.",
     "prohibited_unless": "Поле запрещено, если :other не указано в :values.",
     "prohibits": "Запрещено присутствие :other.",
     "regex": "Не соответствует формату.",

@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace LaravelLang\Lang\Plugins\Jetstream;
 
 use LaravelLang\Publisher\Plugins\Plugin;

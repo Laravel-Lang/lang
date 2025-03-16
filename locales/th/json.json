@@ -698,7 +698,7 @@
     "The given :attribute has appeared in a data leak. Please choose a different :attribute.": ":Attribute ที่ระบุปรากฏในการรั่วไหลของข้อมูล โปรดเลือก :attribute อื่น",
     "The given data was invalid.": "ข้อมูลที่ระบุไม่ถูกต้อง",
     "The government won't let us show you what's behind these doors": "รัฐบาลไม่อนุญาตให้เราแสดงให้คุณเห็นว่ามีอะไรอยู่หลังประตูเหล่านี้",
-    "The HasOne relationship has already been filled.": "ความสัมพันธ์ HasOne ถูกเติมเต็มแล้ว",
+    "The HasOne relationship has already been filled.": "ความสัมพันธ์ HasOne นั้นถูกเติมเต็มอยู่แล้ว",
     "The image could not be loaded": "ไม่สามารถโหลดรูปภาพได้",
     "The image could not be loaded.": "ไม่สามารถโหลดรูปภาพได้",
     "The invoice emails must be valid email addresses.": "อีเมลใบแจ้งหนี้ต้องเป็นที่อยู่อีเมลที่ตรงตามรูปแบบ",

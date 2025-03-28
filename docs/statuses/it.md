@@ -4,12 +4,12 @@ editLink: false
 
 # it
 
-##### All missed: 13
+##### All missed: 8
 
 
 ### json
 
-##### Missing: 6
+##### Missing: 1
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,56 +23,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-Download Invoice
-
-</td><td width="50%">
-
-Download Invoice
-
-</td></tr>
-<tr><td width="50%">
-
-length
-
-</td><td width="50%">
-
-length
-
-</td></tr>
-<tr><td width="50%">
-
-Mark all notifications as read
-
-</td><td width="50%">
-
-Mark all notifications as read
-
-</td></tr>
-<tr><td width="50%">
-
 OK
 
 </td><td width="50%">
 
 OK
-
-</td></tr>
-<tr><td width="50%">
-
-Secure Area
-
-</td><td width="50%">
-
-Secure Area
-
-</td></tr>
-<tr><td width="50%">
-
-Username
-
-</td><td width="50%">
-
-Username
 
 </td></tr>
 </table>

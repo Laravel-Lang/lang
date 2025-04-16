@@ -179,7 +179,7 @@ jobs:
         strategy:
             fail-fast: true
             matrix:
-                package: [ "stripe", "paddle" ]
+                package: [ "stripe" ]
 
         name: spark ${{ matrix.package }}
 

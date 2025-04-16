@@ -7,6 +7,7 @@
     "alpha": ":Attribute può contenere solo lettere.",
     "alpha_dash": ":Attribute può contenere solo lettere, numeri e trattini.",
     "alpha_num": ":Attribute può contenere solo lettere e numeri.",
+    "any_of": "The :attribute field is invalid.",
     "array": ":Attribute deve essere un array.",
     "ascii": ":Attribute deve contenere solo caratteri alfanumerici single-byte e simboli.",
     "attached": ":Attribute è già associato.",

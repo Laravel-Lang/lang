@@ -7,6 +7,7 @@
     "alpha": ":Attribute hizkiak besterik ezin ditu izan.",
     "alpha_dash": ":Attribute hizkiak, zenbakiak eta marrak besterik ezin ditu izan.",
     "alpha_num": ":Attribute hizkiak eta zenbakiak besterik ezin ditu izan.",
+    "any_of": "The :attribute field is invalid.",
     "array": ":Attribute bilduma izan behar da.",
     "ascii": ":Attributeak byte bakarreko karaktere alfanumeriko eta ikurrak soilik izan behar ditu.",
     "attached": "Hau :attribute da dagoeneko erantsita.",

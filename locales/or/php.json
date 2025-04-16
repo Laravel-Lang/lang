@@ -7,6 +7,7 @@
     "alpha": ":attribute ଟି କେବଳ ଅକ୍ଷର ଧାରଣ କରିବା ଜରୁରୀ |",
     "alpha_dash": ":attribute ଟି କେବଳ ଅକ୍ଷର, ସଂଖ୍ୟା, ଡ୍ୟାସ୍ ଏବଂ ଅଣ୍ଡରସ୍କୋର୍ ଧାରଣ କରିବା ଜରୁରୀ |",
     "alpha_num": ":attribute ଟି କେବଳ ଅକ୍ଷର ଏବଂ ସଂଖ୍ୟା ଧାରଣ କରିବା ଜରୁରୀ |",
+    "any_of": "The :attribute field is invalid.",
     "array": ":attribute ଟି ଏକ ଆରେ ହେବା ଜରୁରୀ |",
     "ascii": ":attribute ଟି କ୍ଷେତ୍ର କେବଳ ଏକକ-ବାଇଟ୍ ବର୍ଣ୍ଣମାଳା ଅକ୍ଷର ଏବଂ ପ୍ରତୀକ ଧାରଣ କରିବା ଜରୁରୀ |",
     "attached": "ଏହି :attribute ଟି ସଂଲଗ୍ନ ହୋଇସାରିଛି |",

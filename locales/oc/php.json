@@ -7,6 +7,7 @@
     "alpha": "Lo camp :attribute a de conténer solament de letras.",
     "alpha_dash": "Lo camp :attribute a de conténer solament de letras, nombres e de tirets.",
     "alpha_num": "Lo camp :attribute a de conténer solament de letras e nombres.",
+    "any_of": "The :attribute field is invalid.",
     "array": "Lo camp :attribute deu èsser un tablèu.",
     "ascii": "The :attribute must only contain single-byte alphanumeric characters and symbols.",
     "attached": "This :attribute is already attached.",

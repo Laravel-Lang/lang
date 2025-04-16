@@ -7,6 +7,7 @@
     "alpha": "O :attribute só debe conter letras.",
     "alpha_dash": "O :attribute só debe conter letras, números, guións e guións baixos.",
     "alpha_num": "O :attribute só debe conter letras e números.",
+    "any_of": "The :attribute field is invalid.",
     "array": "O :attribute debe ser un array.",
     "ascii": "O :attribute só debe conter caracteres e símbolos alfanuméricos dun só byte.",
     "attached": "Este :attribute xa está conectado.",

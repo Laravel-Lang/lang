@@ -7,6 +7,7 @@
     "alpha": "La :attribute devas enhavi nur literojn.",
     "alpha_dash": "La :attribute devas enhavi nur literojn, ciferojn, streketojn kaj substrekojn.",
     "alpha_num": "La :attribute devas enhavi nur literojn kaj ciferojn.",
+    "any_of": "The :attribute field is invalid.",
     "array": "La :attribute devas esti tabelo.",
     "ascii": "La :attribute-kampo devas enhavi nur unubajtajn alfanombrajn signojn kaj simbolojn.",
     "attached": "Ĉi tiu :attribute jam estas alfiksita.",

@@ -7,6 +7,7 @@
     "alpha": "Hierdie veld moet net letters wees.",
     "alpha_dash": "Hierdie veld mag slegs letters, syfers, strepies en onderstrepe bevat.",
     "alpha_num": "Hierdie veld mag slegs letters en syfers bevat.",
+    "any_of": "This field is invalid.",
     "array": "Hierdie veld moet 'n array wees.",
     "ascii": "Hierdie veld moet slegs enkelgreep alfanumeriese karakters en simbole bevat.",
     "attached": "Hierdie veld is reeds aangeheg.",

@@ -7,6 +7,7 @@
     "alpha": ":Attribute អាចមានអក្សរតែប៉ុណ្ណោះ។",
     "alpha_dash": ":Attribute អាចមានតែអក្សរ លេខ និងសហសញ្ញា(-)។",
     "alpha_num": ":Attribute អាចមានតែអក្សរ និងលេខ។",
+    "any_of": "The :attribute field is invalid.",
     "array": ":Attribute ត្រូវតែជា សំណុំ។",
     "ascii": ":Attribute ត្រូវតែមានតួអក្សរ និងនិមិត្តសញ្ញាលេខមួយបៃប៉ុណ្ណោះ។",
     "attached": ":Attribute ត្រូវបានភ្ជាប់រួចទៅហើយ។",

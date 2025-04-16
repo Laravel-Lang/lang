@@ -7,6 +7,7 @@
     "alpha": "Awọn :attribute gbọdọ ni awọn lẹta nikan ninu.",
     "alpha_dash": ":attribute naa gbọdọ ni awọn lẹta nikan ninu, awọn nọmba, awọn dashes ati awọn ami abẹlẹ.",
     "alpha_num": ":attribute naa gbọdọ ni awọn lẹta ati awọn nọmba nikan ninu.",
+    "any_of": "The :attribute field is invalid.",
     "array": "Awọn :attribute gbọdọ jẹ ohun orun.",
     "ascii": "Aaye :attribute gbọdọ ni awọn ohun kikọ alphanumeric-baiti kan ṣoṣo ati awọn aami.",
     "attached": ":attribute yii ti somọ tẹlẹ.",

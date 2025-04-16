@@ -7,6 +7,7 @@
     "alpha": ":Attribute фақат ҳарфларни қабул қилиши мумкин.",
     "alpha_dash": ":Attribute фақат ҳарфлар, сонлар ва чизиқчаларни қабул қилиши мумкин.",
     "alpha_num": ":Attribute фақат ҳарфлар ва сонларни қабул қилиши мумкин.",
+    "any_of": "The :attribute field is invalid.",
     "array": ":Attribute қатордан иборат бўлиши керак.",
     "ascii": ":Attribute faqat bitta baytli alfanumerik belgilar va belgilarni o'z ichiga olishi kerak.",
     "attached": "Bu :attribute allaqachon biriktirilgan.",

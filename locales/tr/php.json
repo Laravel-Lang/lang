@@ -7,6 +7,7 @@
     "alpha": ":Attribute sadece harflerden oluşmalıdır.",
     "alpha_dash": ":Attribute sadece harflerden, rakamlardan ve tirelerden oluşmalıdır.",
     "alpha_num": ":Attribute sadece harflerden ve rakamlardan oluşmalıdır.",
+    "any_of": "The :attribute field is invalid.",
     "array": ":Attribute mutlaka bir dizi olmalıdır.",
     "ascii": ":Attribute yalnızca tek baytlık alfasayısal karakterler ve semboller içermelidir.",
     "attached": "Bu :attribute zaten tanımlı.",

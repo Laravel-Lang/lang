@@ -7,6 +7,7 @@
     "alpha": "Dit fjild moat allinich letters befetsje.",
     "alpha_dash": "Dit fjild moat allinich letters, sifers, streepkes en ûnderstreken befetsje.",
     "alpha_num": "Dit fjild moat allinich letters en sifers befetsje.",
+    "any_of": "This field is invalid.",
     "array": "Dit fjild moat in array wêze.",
     "ascii": "Dit fjild moat allinich single-byte alfanumerike tekens en symboalen befetsje.",
     "attached": "Dit fjild is al taheakke.",

@@ -7,6 +7,7 @@
     "alpha": "Kini nga field kinahanglan lang adunay mga letra.",
     "alpha_dash": "Kini nga field kinahanglan lang adunay mga letra, numero, dash ug underscore.",
     "alpha_num": "Kini nga field kinahanglan lang adunay mga letra ug numero.",
+    "any_of": "This field is invalid.",
     "array": "Kini nga field kinahanglan nga usa ka array.",
     "ascii": "Kini nga field kinahanglan lang adunay single-byte alphanumeric nga mga karakter ug simbolo.",
     "attached": "Kini nga field gilakip na.",

@@ -7,6 +7,7 @@
     "alpha": ":attribute လုံးတွင် စာလုံးများသာ ပါဝင်ရပါမည်။",
     "alpha_dash": ":attribute တွင် စာလုံးများ၊ နံပါတ်များ၊ ဒက်ရှ်များနှင့် အောက်ခံများသာ ပါဝင်ရပါမည်။",
     "alpha_num": ":attribute တွင် အက္ခရာများနှင့် ဂဏန်းများသာ ပါဝင်ရပါမည်။",
+    "any_of": "The :attribute field is invalid.",
     "array": ":attribute သည် array တစ်ခုဖြစ်ရမည်။",
     "ascii": "အကွက် :attribute တွင် single-byte အက္ခရာဂဏန်းစာလုံးများနှင့် သင်္ကေတများသာ ပါဝင်ရပါမည်။",
     "attached": "ဒီ :attribute က တွဲပြီးသွားပြီ။",

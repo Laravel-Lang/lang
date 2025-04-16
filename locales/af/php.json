@@ -7,6 +7,7 @@
     "alpha": "Die :attribute mag slegs letters bevat.",
     "alpha_dash": "Die :attribute mag slegs letters, syfers, strepies en onderstrepe bevat.",
     "alpha_num": "Die :attribute mag slegs letters en syfers bevat.",
+    "any_of": "The :attribute field is invalid.",
     "array": "Die :attribute moet 'n array wees.",
     "ascii": "Die :attribute moet slegs enkelgreep alfanumeriese karakters en simbole bevat.",
     "attached": "Hierdie :attribute is reeds aangeheg.",

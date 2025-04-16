@@ -7,6 +7,7 @@
     "alpha": "Lo camp a de conténer pas que de letras.",
     "alpha_dash": "Lo camp a de conténer pas que de letras, nombres e de tirets.",
     "alpha_num": "Lo camp a de conténer pas que de letras e nombres.",
+    "any_of": "This field is invalid.",
     "array": "Lo camp deu èsser un tablèu.",
     "ascii": "This field must only contain single-byte alphanumeric characters and symbols.",
     "attached": "This field is already attached.",

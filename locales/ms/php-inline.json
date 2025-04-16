@@ -7,6 +7,7 @@
     "alpha": "Ruangan ini hanya boleh mengandungi huruf.",
     "alpha_dash": "Ruangan ini boleh mengandungi huruf, nombor, dan sengkang.",
     "alpha_num": "Ruangan ini boleh mengandungi huruf dan nombor.",
+    "any_of": "This field is invalid.",
     "array": "Ruangan ini mesti jujukan.",
     "ascii": "Medan ini hanya boleh mengandungi aksara dan simbol alfanumerik bait tunggal.",
     "attached": "Ruangan ini sudah terpasang.",

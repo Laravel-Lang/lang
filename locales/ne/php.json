@@ -7,6 +7,7 @@
     "alpha": ":Attribute मा अक्षरहरु मात्र हुनसक्छ।",
     "alpha_dash": ":Attribute मा अक्षर, संख्या र ड्यासहरू मात्र हुनसक्छ।",
     "alpha_num": ":Attribute मा अक्षर र संख्याहरू मात्र हुनसक्छ।",
+    "any_of": "The :attribute field is invalid.",
     "array": ":Attribute एर्रे हुनुपर्छ।",
     "ascii": ":Attribute मा एकल-बाइट अल्फान्यूमेरिक वर्ण र प्रतीकहरू मात्र समावेश हुनुपर्छ।",
     "attached": "यो :attribute छ नै संलग्न.",

@@ -7,6 +7,7 @@
     "alpha": "This field must only contain letters.",
     "alpha_dash": "This field must only contain letters, numbers, dashes, and underscores.",
     "alpha_num": "This field must only contain letters and numbers.",
+    "any_of": "This field is invalid.",
     "array": "This field must be an array.",
     "ascii": "This field must only contain single-byte alphanumeric characters and symbols.",
     "attached": "This field is already attached.",

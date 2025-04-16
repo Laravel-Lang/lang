@@ -7,6 +7,7 @@
     "alpha": "Polje :attribute smije sadržavati samo slova.",
     "alpha_dash": "Polje :attribute smije sadržavati samo slova, brojeve i crtice.",
     "alpha_num": "Polje :attribute smije sadržavati samo slova i brojeve.",
+    "any_of": "The :attribute field is invalid.",
     "array": "Polje :attribute mora biti niz.",
     "ascii": "Polje :attribute smije sadržavati samo slova, brojeve i simbole veličine jednog bajta.",
     "attached": "Polje :attribute je već prikvačeno.",

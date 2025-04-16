@@ -7,6 +7,7 @@
     "alpha": "Ово поље може садржавати само слова.",
     "alpha_dash": "Ово поље може садржавати само слова, бројеве, цртице и подвлаке.",
     "alpha_num": "Ово поље може садржавати само слова и бројеве.",
+    "any_of": "This field is invalid.",
     "array": "Ово поље мора бити низ.",
     "ascii": "This field must only contain single-byte alphanumeric characters and symbols.",
     "attached": "Ово поље је већ причвршћено.",

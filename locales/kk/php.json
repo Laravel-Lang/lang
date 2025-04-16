@@ -7,6 +7,7 @@
     "alpha": ":Attribute тек әріптерден тұруы керек.",
     "alpha_dash": ":Attribute тек әріптерден, сандардан және сызықшалардан тұруы керек.",
     "alpha_num": ":Attribute тек әріптерден және сандардан тұруы керек.",
+    "any_of": "The :attribute field is invalid.",
     "array": ":Attribute жиым болуы керек.",
     "ascii": ":Attribute тек бір байтты әріптік-сандық таңбалар мен таңбаларды қамтуы керек.",
     "attached": "Бұл нөмір :attribute тіркелген.",

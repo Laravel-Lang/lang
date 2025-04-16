@@ -7,6 +7,7 @@
     "alpha": "Ang field na ito ay dapat lamang maglaman ng mga titik.",
     "alpha_dash": "Ang field na ito ay dapat lamang maglaman ng mga titik, numero, gitling, at salungguhit.",
     "alpha_num": "Ang field na ito ay dapat lamang maglaman ng mga titik at numero.",
+    "any_of": "This field is invalid.",
     "array": "Ang field na ito ay dapat na isang array.",
     "ascii": "Ang field na ito ay dapat lamang maglaman ng mga single-byte na alphanumeric na character at simbolo.",
     "attached": "Naka-attach na ang field na ito.",

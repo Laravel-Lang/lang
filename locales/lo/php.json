@@ -7,6 +7,7 @@
     "alpha": ":attribute ຕ້ອງມີຕົວອັກສອນເທົ່ານັ້ນ.",
     "alpha_dash": ":attribute ຕ້ອງມີຕົວອັກສອນ, ຕົວເລກ, ຂີດຕໍ່ ແລະ ຂີດກ້ອງເທົ່ານັ້ນ.",
     "alpha_num": ":attribute ຕ້ອງມີຕົວອັກສອນ ແລະຕົວເລກເທົ່ານັ້ນ.",
+    "any_of": "The :attribute field is invalid.",
     "array": ":attribute ຕ້ອງເປັນອາເຣ.",
     "ascii": "ຊ່ອງຂໍ້ມູນ :attribute ຈະຕ້ອງມີຕົວອັກສອນ ແລະ ຕົວເລກທີ່ເປັນຕົວເລກຂອງໄບໄບດຽວເທົ່ານັ້ນ.",
     "attached": ":attribute ອັນນີ້ຕິດຢູ່ແລ້ວ.",

@@ -7,6 +7,7 @@
     "alpha": ":Attribute শুধুমাত্র অক্ষর থাকতে পারে।",
     "alpha_dash": ":Attribute শুধুমাত্র অক্ষর, সংখ্যা, এবং ড্যাশ থাকতে পারে।",
     "alpha_num": ":Attribute শুধুমাত্র বর্ণ ও সংখ্যা থাকতে পারে।",
+    "any_of": "The :attribute field is invalid.",
     "array": ":Attribute একটি অ্যারে হতে হবে।",
     "ascii": ":Attribute টিতে শুধুমাত্র একক-বাইট বর্ণসংখ্যার অক্ষর এবং প্রতীক থাকতে হবে।",
     "attached": "এই :attribute ইতিমধ্যে সংযুক্ত করা হয়।",

@@ -7,6 +7,7 @@
     "alpha": "Поље :attribute може садржати само слова.",
     "alpha_dash": "Поље :attribute може садржати само слова, бројеве и повлаке.",
     "alpha_num": "Поље :attribute може садржати само слова и бројеве.",
+    "any_of": "The :attribute field is invalid.",
     "array": "Поље :attribute мора садржати неких низ ставки.",
     "ascii": ":Attribute мора да садржи само једнобајтне алфанумеричке знакове и симболе.",
     "attached": "Овај :attribute је већ причвршћен.",

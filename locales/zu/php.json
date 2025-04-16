@@ -7,6 +7,7 @@
     "alpha": "Eziyi-:attribute kufanele zibe nezinhlamvu kuphela.",
     "alpha_dash": "I-:attribute kufanele ibe nezinhlamvu, izinombolo, amadeshi nama-underscore kuphela.",
     "alpha_num": "I-:attribute kufanele ibe nezinhlamvu nezinombolo kuphela.",
+    "any_of": "The :attribute field is invalid.",
     "array": "I-:attribute kufanele ibe yilungu elifanayo.",
     "ascii": "Inkambu engu-:attribute kufanele ibe nezinhlamvu ze-alphanumeric zebhayithi eyodwa kuphela namasimbuli.",
     "attached": "Lokhu okungu-:attribute sekuvele kunamathiselwe.",

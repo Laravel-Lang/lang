@@ -4,7 +4,7 @@ editLink: false
 
 # en_CA
 
-##### All missed: 1150
+##### All missed: 1152
 
 
 ### json-inline
@@ -7926,7 +7926,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 132
+##### Missing: 133
 
 <table width="100%">
 <tr><th width="50%">
@@ -8008,6 +8008,15 @@ alpha_num
 </td><td width="50%">
 
 This field must only contain letters and numbers.
+
+</td></tr>
+<tr><td width="50%">
+
+any_of
+
+</td><td width="50%">
+
+This field is invalid.
 
 </td></tr>
 <tr><td width="50%">
@@ -9134,7 +9143,7 @@ This field must be a valid UUID.
 
 ### php
 
-##### Missing: 143
+##### Missing: 144
 
 <table width="100%">
 <tr><th width="50%">
@@ -9216,6 +9225,15 @@ alpha_num
 </td><td width="50%">
 
 The :attribute field must only contain letters and numbers.
+
+</td></tr>
+<tr><td width="50%">
+
+any_of
+
+</td><td width="50%">
+
+The :attribute field is invalid.
 
 </td></tr>
 <tr><td width="50%">

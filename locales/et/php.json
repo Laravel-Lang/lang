@@ -7,6 +7,7 @@
     "alpha": ":Attribute võib sisaldada vaid tähemärke.",
     "alpha_dash": ":Attribute võib sisaldada vaid tähti, numbreid ja kriipse.",
     "alpha_num": ":Attribute võib sisaldada vaid tähti ja numbreid.",
+    "any_of": "The :attribute field is invalid.",
     "array": ":Attribute peab olema massiiv.",
     "ascii": ":Attribute peab sisaldama ainult ühebaidiseid tähtnumbrilisi märke ja sümboleid.",
     "attached": "See :attribute on juba lisatud.",

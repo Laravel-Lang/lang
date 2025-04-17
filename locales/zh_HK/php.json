@@ -7,6 +7,7 @@
     "alpha": ":attribute 只能以字母組成。",
     "alpha_dash": ":attribute 只能以字母、數字、連接線(-)及底線(_)組成。",
     "alpha_num": ":attribute 只能以字母及數字組成。",
+    "any_of": "The :attribute field is invalid.",
     "array": ":attribute 必須為陣列。",
     "ascii": ":attribute 必须仅包含单字节字母数字字符和符号。",
     "attached": "此 :attribute 已附加。",

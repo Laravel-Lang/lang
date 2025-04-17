@@ -7,6 +7,7 @@
     "alpha": "Må kun bestå av bokstaver.",
     "alpha_dash": "Må kun bestå av bokstaver, tall og bindestreker.",
     "alpha_num": "Må kun bestå av bokstaver og tall.",
+    "any_of": "This field is invalid.",
     "array": "Må være en matrise.",
     "ascii": "Dette feltet må bare inneholde enkeltbyte alfanumeriske tegn og symboler.",
     "attached": "Er allerede vedlagt.",

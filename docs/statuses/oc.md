@@ -4,7 +4,7 @@ editLink: false
 
 # oc
 
-##### All missed: 917
+##### All missed: 919
 
 
 ### json-inline
@@ -7692,7 +7692,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 40
+##### Missing: 41
 
 <table width="100%">
 <tr><th width="50%">
@@ -7711,6 +7711,15 @@ accepted_if
 </td><td width="50%">
 
 This field must be accepted when :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+any_of
+
+</td><td width="50%">
+
+This field is invalid.
 
 </td></tr>
 <tr><td width="50%">
@@ -8072,7 +8081,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 28
+##### Missing: 29
 
 <table width="100%">
 <tr><th width="50%">
@@ -8084,6 +8093,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+any_of
+
+</td><td width="50%">
+
+The :attribute field is invalid.
+
+</td></tr>
 <tr><td width="50%">
 
 attached

@@ -7,6 +7,7 @@
     "alpha": "Trường :attribute chỉ có thể chứa các chữ cái.",
     "alpha_dash": "Trường :attribute chỉ có thể chứa chữ cái, số và dấu gạch ngang.",
     "alpha_num": "Trường :attribute chỉ có thể chứa chữ cái và số.",
+    "any_of": "The :attribute field is invalid.",
     "array": "Trường :attribute phải là dạng mảng.",
     "ascii": "Trường :attribute chỉ được chứa các ký tự chữ số và ký hiệu một byte.",
     "attached": "Trường :attribute đã được đính kèm.",

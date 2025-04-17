@@ -7,6 +7,7 @@
     "alpha": "See väli võib sisaldada ainult tähti.",
     "alpha_dash": "See väli võib sisaldada ainult tähti, numbreid, kriipse ja alakriipsusid.",
     "alpha_num": "See väli võib sisaldada ainult tähti ja numbreid.",
+    "any_of": "This field is invalid.",
     "array": "See väli peab olema massiiv.",
     "ascii": "See väli peab sisaldama ainult ühebaidiseid tähtnumbrilisi märke ja sümboleid.",
     "attached": "See väli on juba lisatud.",

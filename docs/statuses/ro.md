@@ -4,7 +4,7 @@ editLink: false
 
 # ro
 
-##### All missed: 128
+##### All missed: 130
 
 
 ### json
@@ -1127,7 +1127,7 @@ Zimbabwe
 
 ### php-inline
 
-##### Missing: 3
+##### Missing: 4
 
 <table width="100%">
 <tr><th width="50%">
@@ -1139,6 +1139,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+any_of
+
+</td><td width="50%">
+
+This field is invalid.
+
+</td></tr>
 <tr><td width="50%">
 
 prohibited_if_accepted
@@ -1174,7 +1183,7 @@ This field is required when :other is declined.
 
 ### php
 
-##### Missing: 3
+##### Missing: 4
 
 <table width="100%">
 <tr><th width="50%">
@@ -1186,6 +1195,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+any_of
+
+</td><td width="50%">
+
+The :attribute field is invalid.
+
+</td></tr>
 <tr><td width="50%">
 
 prohibited_if_accepted

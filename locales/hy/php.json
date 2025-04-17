@@ -7,6 +7,7 @@
     "alpha": ":Attribute դաշտը պետք է պարունակի միայն տառեր։",
     "alpha_dash": ":Attribute դաշտը պետք է պարունակի միայն տառեր, թվեր, գծիկներ և ընդգծումներ։",
     "alpha_num": ":Attribute դաշտը պետք է պարունակի միայն տառեր և թվեր։",
+    "any_of": "The :attribute field is invalid.",
     "array": ":Attribute դաշտը պետք է լինի զանգված։",
     "ascii": ":Attribute-ը պետք է պարունակի միայն մեկ բայթանոց տառային թվային նիշեր և նշաններ:",
     "attached": ":Attribute դաշտը արդեն կցված է։",

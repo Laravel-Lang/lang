@@ -7,6 +7,7 @@
     "alpha": "Déi :attribute däerfen nëmmen Buschtawen enthalen.",
     "alpha_dash": "Déi :attribute däerf nëmmen Buschtawen, Zuelen, Bindestrecken an Ënnersträicher enthalen.",
     "alpha_num": "Déi :attribute däerf nëmmen Buschtawen an Zuelen enthalen.",
+    "any_of": "The :attribute field is invalid.",
     "array": "Déi :attribute muss eng Array sinn.",
     "ascii": "Den :attribute Feld däerf nëmmen Single-Byte alphanumeresch Zeechen a Symboler enthalen.",
     "attached": "Dës :attribute ass scho befestegt.",

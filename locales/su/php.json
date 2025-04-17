@@ -7,6 +7,7 @@
     "alpha": ":attribute ngan kedah ngandung hurup.",
     "alpha_dash": ":attribute ngan kedah ngandung hurup, angka, dashes sareng garis handap.",
     "alpha_num": ":attribute ngan kedah ngandung hurup sareng angka.",
+    "any_of": "The :attribute field is invalid.",
     "array": ":attribute kedah janten susunan.",
     "ascii": "Widang :attribute ngan kedah ngandung karakter sareng simbol alfanumerik bait tunggal.",
     "attached": ":attribute ieu parantos napel.",

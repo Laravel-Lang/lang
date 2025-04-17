@@ -7,6 +7,7 @@
     "alpha": ":Attribute podet cuntènnere isceti lìteras.",
     "alpha_dash": ":Attribute podet cuntènnere isceti lìteras, nùmeros e tratigheddos.",
     "alpha_num": ":Attribute podet cuntènnere isceti lìteras e nùmeros.",
+    "any_of": "The :attribute field is invalid.",
     "array": ":Attribute depet èssere un'array.",
     "ascii": "The :attribute must only contain single-byte alphanumeric characters and symbols.",
     "attached": "This :attribute is already attached.",

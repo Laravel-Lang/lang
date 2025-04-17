@@ -7,6 +7,7 @@
     "alpha": "Ezo :attribute zirina okubaamu ennukuta zokka.",
     "alpha_dash": "Ezo :attribute zirina okubaamu ennukuta, ennamba, ennyiriri n’ennukuta zokka.",
     "alpha_num": "Ezo :attribute zirina okubaamu ennukuta n’ennamba zokka.",
+    "any_of": "The :attribute field is invalid.",
     "array": ":attribute zirina okuba nga za array.",
     "ascii": "Ennimiro :attribute erina okubaamu ennukuta n'obubonero bwa byte emu byokka.",
     "attached": "Ono :attribute yagattibwa dda.",

@@ -7,6 +7,7 @@
     "alpha": "دا باید شامل نه وي :attribute یوازې په حرفو کې.",
     "alpha_dash": "دا باید شامل نه وي :attribute یوازې په حرفو کې، شمیرې او متره.",
     "alpha_num": "شمیرې او متره :attribute یوازې خطونه او شمیرې.",
+    "any_of": "The :attribute field is invalid.",
     "array": "دا باید وي :attribute ًمیټرکس.",
     "ascii": ":Attribute باید یوازې د واحد بایټ الفانومریک حروف او سمبولونه ولري.",
     "attached": "دا :attribute لا دمخه ضمیمه شوی.",

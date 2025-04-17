@@ -7,6 +7,7 @@
     "alpha": "Laukas :attribute gali turėti tik raides.",
     "alpha_dash": "Laukas :attribute gali turėti tik raides, skaičius ir brūkšnelius.",
     "alpha_num": "Laukas :attribute gali turėti tik raides ir skaičius.",
+    "any_of": "The :attribute field is invalid.",
     "array": "Laukas :attribute turi būti masyvas.",
     "ascii": ":Attribute turi būti tik vieno baito raidiniai ir skaitmeniniai simboliai ir simboliai.",
     "attached": "Šis :attribute jau yra pridėtas.",

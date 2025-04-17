@@ -7,6 +7,7 @@
     "alpha": ":Attribute უნდა შეიცავდეს მხოლოდ ასოებს.",
     "alpha_dash": ":Attribute უნდა შეიცავდეს მხოლოდ ასოებს, რიცხვებს, ტირეებს და ქვეტირეებს.",
     "alpha_num": ":Attribute უნდა შეიცავდეს მხოლოდ ასოებს და რიცხვებს.",
+    "any_of": "The :attribute field is invalid.",
     "array": ":Attribute უნდა იყოს მასივი.",
     "ascii": ":Attribute უნდა შეიცავდეს მხოლოდ ერთ ბაიტიან ალფაციფრულ სიმბოლოებს და სიმბოლოებს.",
     "attached": "ეს :attribute უკვე ერთვის.",

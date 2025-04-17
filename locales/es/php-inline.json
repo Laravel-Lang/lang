@@ -7,6 +7,7 @@
     "alpha": "Este campo solo puede contener letras.",
     "alpha_dash": "Este campo solo puede contener letras, números, guiones y guiones bajos.",
     "alpha_num": "Este campo solo puede contener letras y números.",
+    "any_of": "This field is invalid.",
     "array": "Este campo debe ser un array (colección).",
     "ascii": "Este campo solo debe contener caracteres alfanuméricos y símbolos de un solo byte.",
     "attached": "Este campo ya se adjuntó.",

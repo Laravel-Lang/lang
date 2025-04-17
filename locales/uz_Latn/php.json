@@ -7,6 +7,7 @@
     "alpha": ":Attribute faqat harflarni qabul qilishi mumkin.",
     "alpha_dash": ":Attribute faqat harflar, sonlar va chiziqchalarni qabul qilishi mumkin.",
     "alpha_num": ":Attribute faqat harflar va sonlarni qabul qilishi mumkin.",
+    "any_of": "The :attribute field is invalid.",
     "array": ":Attribute qatordan iborat bo‘lishi kerak.",
     "ascii": "The :attribute must only contain single-byte alphanumeric characters and symbols.",
     "attached": "Bu :attribute allaqachon biriktirilgan.",

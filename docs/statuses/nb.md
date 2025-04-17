@@ -4,12 +4,12 @@ editLink: false
 
 # nb
 
-##### All missed: 3
+##### All missed: 4
 
 
 ### json
 
-##### Missing: 3
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,15 +23,6 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-Iran, Islamic Republic Of
-
-</td><td width="50%">
-
-Iran
-
-</td></tr>
-<tr><td width="50%">
-
 Sint Maarten (Dutch part)
 
 </td><td width="50%">
@@ -41,11 +32,69 @@ Sint Maarten
 </td></tr>
 <tr><td width="50%">
 
-Type
+Start polling
 
 </td><td width="50%">
 
-Type
+Start polling
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php-inline
+
+##### Missing: 1
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+any_of
+
+</td><td width="50%">
+
+This field is invalid.
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php
+
+##### Missing: 1
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+any_of
+
+</td><td width="50%">
+
+The :attribute field is invalid.
 
 </td></tr>
 </table>

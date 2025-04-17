@@ -7,6 +7,7 @@
     "alpha": ":Attribute må berre vere av bokstavar.",
     "alpha_dash": ":Attribute må berre vere av bokstavar, tal og bindestrekar.",
     "alpha_num": ":Attribute må berre vere av bokstavar og tal.",
+    "any_of": "The :attribute field is invalid.",
     "array": ":Attribute må vere ei matrise.",
     "ascii": ":Attribute må bare inneholde enkeltbyte alfanumeriske tegn og symboler.",
     "attached": "Denne :attribute er allerede vedlagt.",

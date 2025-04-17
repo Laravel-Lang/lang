@@ -7,6 +7,7 @@
     "alpha": "Pole może zawierać jedynie litery.",
     "alpha_dash": "Pole może zawierać jedynie litery, cyfry i myślniki.",
     "alpha_num": "Pole może zawierać jedynie litery i cyfry.",
+    "any_of": "This field is invalid.",
     "array": "Pole musi być tablicą.",
     "ascii": "To pole może zawierać tylko jednobajtowe znaki alfanumeryczne i symbole.",
     "attached": "Pole jest już załączone.",

@@ -7,6 +7,7 @@
     "alpha": "Pole :attribute może zawierać jedynie litery.",
     "alpha_dash": "Pole :attribute może zawierać jedynie litery, cyfry i myślniki.",
     "alpha_num": "Pole :attribute może zawierać jedynie litery i cyfry.",
+    "any_of": "The :attribute field is invalid.",
     "array": "Pole :attribute musi być tablicą.",
     "ascii": "Pole :attribute może zawierać tylko jednobajtowe znaki alfanumeryczne i symbole.",
     "attached": "Pole :attribute jest już dołączone.",

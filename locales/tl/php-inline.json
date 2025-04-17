@@ -7,6 +7,7 @@
     "alpha": "Ang patlang na ito ay maaari lamang maglaman ng mga titik.",
     "alpha_dash": "Ang patlang na ito ay maaari lamang maglaman ng mga titik, numero, gitling at mga salungguhit.",
     "alpha_num": "Ang patlang na ito ay maaari lamang maglaman ng mga titik at numero.",
+    "any_of": "This field is invalid.",
     "array": "Ang patlang na ito ay dapat na isang array.",
     "ascii": "Ang field na ito ay dapat lamang maglaman ng mga single-byte na alphanumeric na character at simbolo.",
     "attached": "Ang patlang na ito ay nakalakip.",

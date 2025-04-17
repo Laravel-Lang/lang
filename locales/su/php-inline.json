@@ -7,6 +7,7 @@
     "alpha": "Widang ieu ngan ukur kedah ngandung hurup.",
     "alpha_dash": "Widang ieu ngan kedah ngandung hurup, angka, garis sareng garis handap.",
     "alpha_num": "Widang ieu ngan kedah ngandung hurup sareng angka.",
+    "any_of": "This field is invalid.",
     "array": "Widang ieu kedah janten array.",
     "ascii": "Widang ieu ngan kedah ngandung karakter sareng simbol alfanumerik bait tunggal.",
     "attached": "Widang ieu parantos napel.",

@@ -7,6 +7,7 @@
     "alpha": "Polje lahko vsebuje le črke.",
     "alpha_dash": "Polje lahko vsebuje le črke, številke, pomišljaje in podčrtaje.",
     "alpha_num": "Polje lahko vsebuje le črke in številke.",
+    "any_of": "This field is invalid.",
     "array": "Polje mora biti lista.",
     "ascii": "To polje sme vsebovati samo enobajtne alfanumerične znake in simbole.",
     "attached": "To polje je že pritrjeno.",

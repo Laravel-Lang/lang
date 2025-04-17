@@ -7,6 +7,7 @@
     "alpha": ":attribute ਵਿੱਚ ਸਿਰਫ਼ ਅੱਖਰ ਹੀ ਹੋਣੇ ਚਾਹੀਦੇ ਹਨ।",
     "alpha_dash": ":attribute ਵਿੱਚ ਸਿਰਫ਼ ਅੱਖਰ, ਨੰਬਰ, ਡੈਸ਼ ਅਤੇ ਅੰਡਰਸਕੋਰ ਹੋਣੇ ਚਾਹੀਦੇ ਹਨ।",
     "alpha_num": ":attribute ਵਿੱਚ ਸਿਰਫ਼ ਅੱਖਰ ਅਤੇ ਨੰਬਰ ਹੋਣੇ ਚਾਹੀਦੇ ਹਨ।",
+    "any_of": "The :attribute field is invalid.",
     "array": ":attribute ਇੱਕ ਐਰੇ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।",
     "ascii": ":attribute ਖੇਤਰ ਵਿੱਚ ਸਿਰਫ਼ ਸਿੰਗਲ-ਬਾਈਟ ਅੱਖਰ ਅਤੇ ਚਿੰਨ੍ਹ ਹੋਣੇ ਚਾਹੀਦੇ ਹਨ।",
     "attached": "ਇਹ :attribute ਪਹਿਲਾਂ ਹੀ ਨੱਥੀ ਹੈ।",

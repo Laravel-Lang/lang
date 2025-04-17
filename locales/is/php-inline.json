@@ -7,6 +7,7 @@
     "alpha": "Þetta sviði getur aðeins innihalda bréf.",
     "alpha_dash": "Þetta sviði getur aðeins innihalda bréf, númer, bandstrik og undirstrikar.",
     "alpha_num": "Þetta sviði getur aðeins innihalda bréf og tölur.",
+    "any_of": "This field is invalid.",
     "array": "Þetta sviði verður að vera fylki.",
     "ascii": "Þessi reitur má aðeins innihalda eins-bæta tölustafi og tákn.",
     "attached": "Þetta sviði er nú þegar fylgir.",

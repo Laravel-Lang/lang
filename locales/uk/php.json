@@ -7,6 +7,7 @@
     "alpha": "Поле :attribute має містити лише літери.",
     "alpha_dash": "Поле :attribute має містити лише літери, цифри, тире та підкреслення.",
     "alpha_num": "Поле :attribute має містити лише літери та цифри.",
+    "any_of": "The :attribute field is invalid.",
     "array": "Поле :attribute має бути масивом.",
     "ascii": "Поле :attribute має містити лише однобайтові буквено-цифрові знаки та символи.",
     "attached": "Цей :attribute вже прикріплений.",

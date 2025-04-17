@@ -4,7 +4,7 @@ editLink: false
 
 # sc
 
-##### All missed: 940
+##### All missed: 942
 
 
 ### json-inline
@@ -7692,7 +7692,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 56
+##### Missing: 57
 
 <table width="100%">
 <tr><th width="50%">
@@ -7747,6 +7747,15 @@ alpha_num
 </td><td width="50%">
 
 This field must only contain letters and numbers.
+
+</td></tr>
+<tr><td width="50%">
+
+any_of
+
+</td><td width="50%">
+
+This field is invalid.
 
 </td></tr>
 <tr><td width="50%">
@@ -8216,7 +8225,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 35
+##### Missing: 36
 
 <table width="100%">
 <tr><th width="50%">
@@ -8228,6 +8237,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+any_of
+
+</td><td width="50%">
+
+The :attribute field is invalid.
+
+</td></tr>
 <tr><td width="50%">
 
 attached

@@ -7,6 +7,7 @@
     "alpha": "Kjo mund të përmbajë vetëm shkronja.",
     "alpha_dash": "Kjo mund të përmbajë vetëm shkronja, numra, dhe viza.",
     "alpha_num": "Kjo mund të përmbajë vetëm shkronja dhe numra.",
+    "any_of": "This field is invalid.",
     "array": "Kjo duhet të jetë një bashkësi (array).",
     "ascii": "Kjo fushë duhet të përmbajë vetëm karaktere dhe simbole alfanumerike me një bajt.",
     "attached": "Kjo fushë është e ngjitur.",

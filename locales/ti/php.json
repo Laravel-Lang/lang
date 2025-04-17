@@ -7,6 +7,7 @@
     "alpha": "እተን :attribute ፊደላት ጥራይ ክሕዛ ኣለወን።",
     "alpha_dash": "እተን :attribute ፊደላት፣ ቁፅሪ፣ ስርዝ ድልዝን ትሕተ-መሰረትን ጥራሕ ክሕዛ ኣለወን።",
     "alpha_num": "እተን :attribute ፊደላትን ቁጽርታትን ጥራይ ክሕዛ ኣለወን።",
+    "any_of": "The :attribute field is invalid.",
     "array": "እቶም :attribute ስርርዕ ክኾኑ ኣለዎም።",
     "ascii": "እቲ :attribute ዓውዲ ሓደ ባይት ዘለዎም ፊደላትን ምልክታትን ጥራይ ክሕዝ ኣለዎ።",
     "attached": "እዚ :attribute ድሮ ተተሓሒዙ ኣሎ።",

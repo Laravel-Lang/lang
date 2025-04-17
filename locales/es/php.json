@@ -7,6 +7,7 @@
     "alpha": "El campo :attribute sólo debe contener letras.",
     "alpha_dash": "El campo :attribute sólo debe contener letras, números, guiones y guiones bajos.",
     "alpha_num": "El campo :attribute sólo debe contener letras y números.",
+    "any_of": "The :attribute field is invalid.",
     "array": "El campo :attribute debe ser un conjunto.",
     "ascii": "El campo :attribute solo debe contener caracteres alfanuméricos y símbolos de un solo byte.",
     "attached": "Este :attribute ya se adjuntó.",

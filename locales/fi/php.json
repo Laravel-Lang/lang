@@ -7,6 +7,7 @@
     "alpha": "Kenttä :attribute voi sisältää vain kirjaimia.",
     "alpha_dash": "Kenttä :attribute voi sisältää vain kirjaimia, numeroita ja viivoja.",
     "alpha_num": "Kenttä :attribute voi sisältää vain kirjaimia ja numeroita.",
+    "any_of": "The :attribute field is invalid.",
     "array": "Kenttä :attribute tulee olla taulukko.",
     "ascii": ":Attribute saa sisältää vain yksitavuisia aakkosnumeerisia merkkejä ja symboleja.",
     "attached": "Tämä :attribute on jo kiinnitetty.",

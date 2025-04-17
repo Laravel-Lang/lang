@@ -7,6 +7,7 @@
     "alpha": ":attribute igomba kuba irimo inyuguti gusa.",
     "alpha_dash": ":attribute igomba kuba irimo inyuguti, imibare, imirongo hamwe nu munsi.",
     "alpha_num": ":attribute igomba kuba irimo inyuguti nimibare gusa.",
+    "any_of": "The :attribute field is invalid.",
     "array": ":attribute igomba kuba umurongo.",
     "ascii": "Umwanya :attribute ugomba kuba urimo gusa-byte inyuguti ninyuguti.",
     "attached": "Iyi :attribute yamaze kumugereka.",

@@ -7,6 +7,7 @@
     "alpha": "Câmpul :attribute poate conține doar litere.",
     "alpha_dash": "Câmpul :attribute poate conține doar litere, numere și cratime.",
     "alpha_num": "Câmpul :attribute poate conține doar litere și numere.",
+    "any_of": "The :attribute field is invalid.",
     "array": "Câmpul :attribute trebuie să fie un array.",
     "ascii": ":Attribute trebuie să conțină doar caractere și simboluri alfanumerice pe un singur octet.",
     "attached": "Acest :attribute este deja atașat.",

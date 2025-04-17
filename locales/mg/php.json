@@ -7,6 +7,7 @@
     "alpha": "Ny :attribute dia tsy maintsy misy litera ihany.",
     "alpha_dash": "Ny :attribute dia tsy maintsy misy litera, isa, tsipika ary tsipitsipika fotsiny.",
     "alpha_num": "Ny :attribute dia tsy maintsy misy litera sy isa ihany.",
+    "any_of": "The :attribute field is invalid.",
     "array": "Ny :attribute dia tokony ho array.",
     "ascii": "Ny saha :attribute dia tsy maintsy misy tarehin-tsoratra sy marika alfanumerika tokana tokana.",
     "attached": "Ity :attribute ity dia efa miraikitra.",

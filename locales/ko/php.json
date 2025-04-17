@@ -7,7 +7,7 @@
     "alpha": ":Attribute은(는) 문자만 포함할 수 있습니다.",
     "alpha_dash": ":Attribute은(는) 문자, 숫자, 대쉬(-), 밑줄(_)만 포함할 수 있습니다.",
     "alpha_num": ":Attribute은(는) 문자와 숫자만 포함할 수 있습니다.",
-    "any_of": "The :attribute field is invalid.",
+    "any_of": ":Attribute은(는) 유효하지 않습니다.",
     "array": ":Attribute은(는) 배열이어야 합니다.",
     "ascii": ":Attribute은 1바이트 영숫자 문자와 기호만 포함해야 합니다.",
     "attached": ":Attribute은(는) 이미 첨부되어 있습니다.",

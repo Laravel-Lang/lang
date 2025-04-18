@@ -7,7 +7,7 @@
     "alpha": ":Attribute hanya boleh berisi huruf.",
     "alpha_dash": ":Attribute hanya boleh berisi huruf, angka, strip, dan garis bawah.",
     "alpha_num": ":Attribute hanya boleh berisi huruf dan angka.",
-    "any_of": "The :attribute field is invalid.",
+    "any_of": "Bidang :attribute tidak valid.",
     "array": ":Attribute harus berisi sebuah array.",
     "ascii": ":Attribute hanya boleh berisi karakter dan simbol alfanumerik single-byte.",
     "attached": ":Attribute sudah dilampirkan.",

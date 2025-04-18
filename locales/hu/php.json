@@ -7,7 +7,7 @@
     "alpha": "A(z) :attribute kizárólag betűket tartalmazhat!",
     "alpha_dash": "A(z) :attribute kizárólag betűket, számokat és kötőjeleket tartalmazhat!",
     "alpha_num": "A(z) :attribute kizárólag betűket és számokat tartalmazhat!",
-    "any_of": "The :attribute field is invalid.",
+    "any_of": "A :attribute mező érvénytelen.",
     "array": "A(z) :attribute egy tömb kell, hogy legyen!",
     "ascii": "A :attribute csak egybájtos alfanumerikus karaktereket és szimbólumokat tartalmazhat.",
     "attached": "Ezt a :attribute-at már csatolták.",

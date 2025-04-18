@@ -7,7 +7,7 @@
     "alpha": "Dim ond llythrennau'n unig gall :attribute gynnwys.",
     "alpha_dash": "Dim ond llythrennau, rhifau a dash yn unig gall :attribute gynnwys.",
     "alpha_num": "Dim ond llythrennau a rhifau yn unig gall :attribute gynnwys.",
-    "any_of": "The :attribute field is invalid.",
+    "any_of": "Mae'r maes :attribute yn annilys.",
     "array": "Rhaid i :attribute fod yn array.",
     "ascii": "Rhaid i'r :attribute gynnwys nodau a symbolau alffaniwmerig un beit yn unig.",
     "attached": "Mae hyn yn :attribute eisoes ynghlwm.",

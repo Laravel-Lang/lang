@@ -7,7 +7,7 @@
     "alpha": "මෙම :attribute ට අඩංගු විය හැක්කේ අකුරු පමණි.",
     "alpha_dash": "මෙම :attribute ට අඩංගු විය හැක්කේ අකුරු, ඉලක්කම්, කෙටිඉර හා යටිඉර පමණි.",
     "alpha_num": "මෙම :attribute ට අඩංගු විය හැක්කේ අකුරු හා ඉලක්කම් පමණි.",
-    "any_of": "The :attribute field is invalid.",
+    "any_of": ":attribute ක්ෂේත්රය අවලංගුය.",
     "array": "මේ :attribute ය array එකක් විය යුතුය.",
     "ascii": ":Attribute හි අඩංගු විය යුත්තේ තනි බයිට් අක්ෂරාංක අක්ෂර සහ සංකේත පමණි.",
     "attached": "මේ :attribute මේ වන විටත් අමුණා ඇත.",

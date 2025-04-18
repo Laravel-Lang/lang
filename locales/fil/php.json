@@ -7,7 +7,7 @@
     "alpha": "Mga titik lang dapat ang nilalaman ng :attribute.",
     "alpha_dash": "Mag titik, numero, gitlling at underscore lang dapat ang nilalaman ng :attribute.",
     "alpha_num": "Mag titik, numero, gitlling at underscore lang dapat ang nilalaman ng :attribute.",
-    "any_of": "The :attribute field is invalid.",
+    "any_of": "Ang :attribute patlang ay hindi wasto.",
     "array": "Dapat na isang array ang :attribute.",
     "ascii": "Ang :attribute ay dapat lamang maglaman ng mga single-byte na alphanumeric na character at simbolo.",
     "attached": "Ang :attribute na ito ay nakakabit na.",

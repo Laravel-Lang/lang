@@ -7,7 +7,7 @@
     "alpha": ":Attribute hanya boleh mengandungi huruf.",
     "alpha_dash": ":Attribute boleh mengandungi huruf, nombor, dan sengkang.",
     "alpha_num": ":Attribute boleh mengandungi huruf dan nombor.",
-    "any_of": "The :attribute field is invalid.",
+    "any_of": "Bidang :attribute tidak sah.",
     "array": ":Attribute mesti jujukan.",
     "ascii": ":Attribute mesti hanya mengandungi aksara dan simbol alfanumerik bait tunggal.",
     "attached": ":Attribute ini sudah dilampirkan.",

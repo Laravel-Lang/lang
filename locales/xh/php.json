@@ -7,7 +7,7 @@
     "alpha": "I-:attribute kufuneka ibe noonobumba kuphela.",
     "alpha_dash": "I-:attribute kufuneka iqulathe kuphela oonobumba, amanani, iidashi kunye nee-underscore.",
     "alpha_num": "I-:attribute kufuneka iqulathe kuphela oonobumba kunye namanani.",
-    "any_of": "The :attribute field is invalid.",
+    "any_of": "Intsimi ye-:attribute ayisebenzi.",
     "array": "I-:attribute kufuneka ibe luluhlu.",
     "ascii": "Indawo ye-:attribute kufuneka iqulathe kuphela amagama e-alphanumeric kunye neesimboli zebhayithi enye.",
     "attached": "Le :attribute sele iqhotyoshelwe.",

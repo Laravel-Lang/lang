@@ -7,7 +7,7 @@
     "alpha": "Ez a mező csak betűket tartalmazhat.",
     "alpha_dash": "Ez a mező csak betűket, számokat, kötőjeleket és aláhúzásokat tartalmazhat.",
     "alpha_num": "Ez a mező csak betűket és számokat tartalmazhat.",
-    "any_of": "This field is invalid.",
+    "any_of": "Ez a mező érvénytelen.",
     "array": "Ennek a mezőnek tömbnek kell lennie.",
     "ascii": "Ez a mező csak egybájtos alfanumerikus karaktereket és szimbólumokat tartalmazhat.",
     "attached": "Ez a mező már csatolva van.",

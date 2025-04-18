@@ -7,7 +7,7 @@
     "alpha": "Feumaidh dìreach litrichean a bhith anns na :attribute.",
     "alpha_dash": "Feumaidh dìreach litrichean, àireamhan, sgrìoban agus fo-sgrìobhaidhean a bhith anns an :attribute.",
     "alpha_num": "Feumaidh dìreach litrichean is àireamhan a bhith anns an :attribute.",
-    "any_of": "The :attribute field is invalid.",
+    "any_of": "Tha an :attribute raon neo-dhligheach.",
     "array": "Feumaidh an :attribute a bhith na raon.",
     "ascii": "Feumaidh an raon :attribute a bhith anns an raon :attribute a-mhàin caractaran agus samhlaidhean alfaimigeach aon-byte.",
     "attached": "Tha an :attribute seo ceangailte mu thràth.",

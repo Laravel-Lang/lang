@@ -7,7 +7,7 @@
     "alpha": ":Attribute मध्ये फक्त अक्षरे वैध आहेत.",
     "alpha_dash": ":Attribute मध्ये फक्त अक्षरे, संख्या आणि डॅश वैध आहेत.",
     "alpha_num": ":Attribute मध्ये फक्त अक्षरे आणि संख्या वैध आहेत.",
-    "any_of": "The :attribute field is invalid.",
+    "any_of": ":attribute फील्ड अवैध आहे.",
     "array": ":Attribute साठी फक्त सूची वैध आहे.",
     "ascii": ":Attribute मध्ये फक्त सिंगल-बाइट अल्फान्यूमेरिक वर्ण आणि चिन्हे असणे आवश्यक आहे.",
     "attached": "या :attribute आधीच संलग्न आहे.",

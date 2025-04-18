@@ -7,7 +7,7 @@
     "alpha": "Toto pole môže obsahovať len písmená.",
     "alpha_dash": "Toto pole môže obsahovať len písmená, čísla, pomlčky a podčiarknutia.",
     "alpha_num": "Toto pole môže obsahovať iba písmená a číslice.",
-    "any_of": "This field is invalid.",
+    "any_of": "Toto pole je neplatné.",
     "array": "Toto pole musí byť pole.",
     "ascii": "Toto pole môže obsahovať iba alfanumerické znaky a symboly bez interpunkcie.",
     "attached": "Toto pole je už pripojené.",

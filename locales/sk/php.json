@@ -7,7 +7,7 @@
     "alpha": ":Attribute môže obsahovať len písmená.",
     "alpha_dash": ":Attribute musí obsahovať len písmená, čísla, pomlčky a podčiarknutia.",
     "alpha_num": ":Attribute musí obsahovať len písmená a číslice.",
-    "any_of": "The :attribute field is invalid.",
+    "any_of": ":attribute poľa je neplatné.",
     "array": ":Attribute musí byť pole.",
     "ascii": "Číslo :attribute musí obsahovať iba alfanumerické znaky a symboly bez interpunkcie.",
     "attached": "Tento :attribute je už pripojený.",

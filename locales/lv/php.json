@@ -7,7 +7,7 @@
     "alpha": ":Attribute var saturēt tikai burtus.",
     "alpha_dash": ":Attribute var saturēt tikai burtus, numurus un atstarpes.",
     "alpha_num": ":Attribute var tikai saturēt burtus un numurus.",
-    "any_of": "The :attribute field is invalid.",
+    "any_of": ":attribute lauks nav derīgs.",
     "array": ":Attribute ir jābūt sakārtotam.",
     "ascii": ":Attribute drīkst saturēt tikai viena baita burtciparu rakstzīmes un simbolus.",
     "attached": "Šis :attribute jau ir pievienots.",

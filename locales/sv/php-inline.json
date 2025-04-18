@@ -7,7 +7,7 @@
     "alpha": "Detta fält får endast innehålla bokstäver.",
     "alpha_dash": "Detta fält får endast innehålla bokstäver, siffror, streck och understreck.",
     "alpha_num": "Detta fält får endast innehålla bokstäver och siffror.",
-    "any_of": "This field is invalid.",
+    "any_of": "Detta fält är ogiltigt.",
     "array": "Detta fält måste vara en array.",
     "ascii": "Detta fält får endast innehålla enbyte alfanumeriska tecken och symboler.",
     "attached": "Detta fält är redan bifogat.",

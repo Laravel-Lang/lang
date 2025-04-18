@@ -7,7 +7,7 @@
     "alpha": "Šis laukas gali turėti tik raides.",
     "alpha_dash": "Šis laukas gali turėti tik raides, skaičius ir brūkšnelius.",
     "alpha_num": "Šis laukas gali turėti tik raides ir skaičius.",
-    "any_of": "This field is invalid.",
+    "any_of": "Šis laukas neteisingas.",
     "array": "Šis laukas turi būti masyvas.",
     "ascii": "Šiame lauke turi būti tik vieno baito raidiniai ir skaitmeniniai simboliai ir simboliai.",
     "attached": "Šis laukas jau yra pridėtas.",

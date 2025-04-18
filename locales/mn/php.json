@@ -7,7 +7,7 @@
     "alpha": ":Attribute талбарт латин үсэг оруулна уу.",
     "alpha_dash": ":Attribute талбарт латин үсэг, тоо болон зураас оруулах боломжтой.",
     "alpha_num": ":Attribute талбарт латин үсэг болон тоо оруулах боломжтой.",
-    "any_of": "The :attribute field is invalid.",
+    "any_of": ":attribute талбар буруу байна.",
     "array": ":Attribute талбар массив байх шаардлагатай.",
     "ascii": ":Attribute нь зөвхөн нэг байт үсэг, тоон тэмдэгтүүдийг агуулсан байх ёстой.",
     "attached": "Энэ нь :attribute аль хэдийн хавсаргасан байна.",

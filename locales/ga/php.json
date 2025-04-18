@@ -7,7 +7,7 @@
     "alpha": "Ní mór litreacha amháin a bheith sna :attribute gcinn.",
     "alpha_dash": "Ní mór go mbeadh sna :attribute gcinn ach litreacha, uimhreacha, daiseanna agus béim.",
     "alpha_num": "Ní mór ach litreacha agus uimhreacha a bheith sna :attribute gcinn.",
-    "any_of": "The :attribute field is invalid.",
+    "any_of": "Tá an :attribute réimse neamhbhailí.",
     "array": "Caithfidh an :attribute a bheith ina sraith.",
     "ascii": "Ní mór ach carachtair agus siombailí alfa-uimhriúla aon bheart a bheith sa réimse :attribute.",
     "attached": "Tá an :attribute seo ceangailte cheana féin.",

@@ -7,7 +7,7 @@
     "alpha": "Ang :attribute kinahanglan lang adunay mga letra.",
     "alpha_dash": "Ang :attribute kinahanglan lang adunay mga letra, numero, dashes ug underscore.",
     "alpha_num": "Ang :attribute kinahanglan lang adunay mga letra ug numero.",
-    "any_of": "The :attribute field is invalid.",
+    "any_of": "Dili husto ang :attribute nga uma.",
     "array": "Ang :attribute kinahanglan usa ka array.",
     "ascii": "Ang :attribute ka field kinahanglan lang adunay single-byte alphanumeric nga mga karakter ug simbolo.",
     "attached": "Kini nga :attribute gilakip na.",

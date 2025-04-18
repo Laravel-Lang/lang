@@ -7,7 +7,7 @@
     "alpha": "Поле :attribute можа мець толькі літары.",
     "alpha_dash": "Поле :attribute можа мець толькі літары, лічбы і злучок.",
     "alpha_num": "Поле :attribute можа мець толькі літары і лічбы.",
-    "any_of": "The :attribute field is invalid.",
+    "any_of": ":attribute поле несапраўднае.",
     "array": "Поле :attribute павінна быць масівам.",
     "ascii": ":Attribute павінны ўтрымліваць толькі аднабайтавыя літары і сімвалы.",
     "attached": "Гэты нумар :attribute ўжо прымацаваны.",

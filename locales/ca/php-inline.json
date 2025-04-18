@@ -7,7 +7,7 @@
     "alpha": "Aquest camp només pot contenir lletres.",
     "alpha_dash": "Aquest camp només pot contenir lletres, números, guions i guions baixos.",
     "alpha_num": "Aquest camp només pot contenir lletres i números.",
-    "any_of": "This field is invalid.",
+    "any_of": "Aquest camp no és vàlid.",
     "array": "Aquest camp ha de ser una matriu.",
     "ascii": "Aquest camp només ha de contenir caràcters i símbols alfanumèrics d'un sol byte.",
     "attached": "Aquest camp és ja s'adjunta.",

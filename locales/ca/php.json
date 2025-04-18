@@ -7,7 +7,7 @@
     "alpha": ":Attribute només pot contenir lletres.",
     "alpha_dash": ":Attribute només pot contenir lletres, números i guions.",
     "alpha_num": ":Attribute només pot contenir lletres i números.",
-    "any_of": "The :attribute field is invalid.",
+    "any_of": "El camp :attribute no és vàlid.",
     "array": ":Attribute ha de ser una matriu.",
     "ascii": "El :attribute només ha de contenir caràcters i símbols alfanumèrics d'un sol byte.",
     "attached": "Aquest :attribute ja té.",

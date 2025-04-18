@@ -7,7 +7,7 @@
     "alpha": ":Attribute صرف حروفِ تہجی پر مشتمل ہو سکتا ہے۔",
     "alpha_dash": ":Attribute صرف حروفِ تہجی، اعداد، ڈیشِز پر مشتمل ہو سکتا ہے۔",
     "alpha_num": ":Attribute میں صرف حروفِ تہجی و اعداد شامل ہو سکتے ہیں۔",
-    "any_of": "The :attribute field is invalid.",
+    "any_of": ":attribute فیلڈ غلط ہے۔",
     "array": ":Attribute لازماً کسی رینج پر مشتمل ہو۔",
     "ascii": ":Attribute میں صرف سنگل بائٹ حروف عددی حروف اور علامتیں ہونی چاہئیں۔",
     "attached": "اس :attribute پہلے سے ہی ہے کے ساتھ منسلک.",

@@ -7,7 +7,7 @@
     "alpha": ":attributeда хәрефләр генә булырга тиеш.",
     "alpha_dash": ":attributeда хәрефләр, саннар, сызыклар һәм аскы сызыклар гына булырга тиеш.",
     "alpha_num": ":attributeда хәрефләр һәм саннар гына булырга тиеш.",
-    "any_of": "The :attribute field is invalid.",
+    "any_of": ":attribute кыр дөрес түгел.",
     "array": ":attribute массив булырга тиеш.",
     "ascii": ":attribute кырда бер байтак хәреф саннары һәм символлары булырга тиеш.",
     "attached": "Бу :attribute инде бәйләнгән.",

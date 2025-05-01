@@ -4,12 +4,12 @@ editLink: false
 
 # sq
 
-##### All missed: 31
+##### All missed: 30
 
 
 ### json
 
-##### Missing: 31
+##### Missing: 30
 
 <table width="100%">
 <tr><th width="50%">
@@ -235,15 +235,6 @@ San Marino
 </td><td width="50%">
 
 San Marino
-
-</td></tr>
-<tr><td width="50%">
-
-Sierra Leone
-
-</td><td width="50%">
-
-Sierra Leone
 
 </td></tr>
 <tr><td width="50%">

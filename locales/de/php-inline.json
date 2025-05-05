@@ -7,7 +7,7 @@
     "alpha": "Der Inhalt darf nur aus Buchstaben bestehen.",
     "alpha_dash": "Der Inhalt darf nur aus Buchstaben, Zahlen, Binde- und Unterstrichen bestehen.",
     "alpha_num": "Der Inhalt darf nur aus Buchstaben und Zahlen bestehen.",
-    "any_of": "This field is invalid.",
+    "any_of": "Dieses Feld ist ungültig.",
     "array": "Dieses Feld muss ein Array sein.",
     "ascii": "Dieses Feld darf nur alphanumerische Single-Byte-Zeichen und -Symbole enthalten.",
     "attached": "Dieses Feld ist bereits angehangen.",

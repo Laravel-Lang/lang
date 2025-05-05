@@ -7,7 +7,7 @@
     "alpha": ":Attributeには、アルファベッドのみ使用できます。",
     "alpha_dash": ":Attributeには、英数字('A-Z','a-z','0-9')とハイフンと下線('-','_')が使用できます。",
     "alpha_num": ":Attributeには、英数字('A-Z','a-z','0-9')が使用できます。",
-    "any_of": "The :attribute field is invalid.",
+    "any_of": ":Attributeは、有効ではありません。",
     "array": ":Attributeには、配列を指定してください。",
     "ascii": ":Attributeには、英数字と記号のみ使用可能です。",
     "attached": "この:attributeはすでに添付されています。",

@@ -7,7 +7,7 @@
     "alpha": ":Attribute darf nur aus Buchstaben bestehen.",
     "alpha_dash": ":Attribute darf nur aus Buchstaben, Zahlen, Binde- und Unterstrichen bestehen.",
     "alpha_num": ":Attribute darf nur aus Buchstaben und Zahlen bestehen.",
-    "any_of": "The :attribute field is invalid.",
+    "any_of": ":Attribute ist ungültig.",
     "array": ":Attribute muss ein Array sein.",
     "ascii": "Die :attribute darf nur alphanumerische Single-Byte-Zeichen und -Symbole enthalten.",
     "attached": ":Attribute ist bereits angehängt.",

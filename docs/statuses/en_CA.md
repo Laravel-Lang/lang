@@ -4,7 +4,7 @@ editLink: false
 
 # en_CA
 
-##### All missed: 1152
+##### All missed: 1154
 
 
 ### json-inline
@@ -7926,7 +7926,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 133
+##### Missing: 134
 
 <table width="100%">
 <tr><th width="50%">
@@ -8422,6 +8422,15 @@ in_array
 </td><td width="50%">
 
 This field must exist in :other.
+
+</td></tr>
+<tr><td width="50%">
+
+in_array_keys
+
+</td><td width="50%">
+
+This field must contain at least one of the following keys: :values.
 
 </td></tr>
 <tr><td width="50%">
@@ -9143,7 +9152,7 @@ This field must be a valid UUID.
 
 ### php
 
-##### Missing: 144
+##### Missing: 145
 
 <table width="100%">
 <tr><th width="50%">
@@ -9657,6 +9666,15 @@ in_array
 </td><td width="50%">
 
 The :attribute field must exist in :other.
+
+</td></tr>
+<tr><td width="50%">
+
+in_array_keys
+
+</td><td width="50%">
+
+The :attribute field must contain at least one of the following keys: :values.
 
 </td></tr>
 <tr><td width="50%">

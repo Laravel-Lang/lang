@@ -4,12 +4,12 @@ editLink: false
 
 # it
 
-##### All missed: 2
+##### All missed: 4
 
 
 ### php-inline
 
-##### Missing: 1
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -30,6 +30,15 @@ any_of
 This field is invalid.
 
 </td></tr>
+<tr><td width="50%">
+
+in_array_keys
+
+</td><td width="50%">
+
+This field must contain at least one of the following keys: :values.
+
+</td></tr>
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
@@ -38,7 +47,7 @@ This field is invalid.
 
 ### php
 
-##### Missing: 1
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -57,6 +66,15 @@ any_of
 </td><td width="50%">
 
 The :attribute field is invalid.
+
+</td></tr>
+<tr><td width="50%">
+
+in_array_keys
+
+</td><td width="50%">
+
+The :attribute field must contain at least one of the following keys: :values.
 
 </td></tr>
 </table>

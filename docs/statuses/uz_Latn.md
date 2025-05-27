@@ -4,7 +4,7 @@ editLink: false
 
 # uz_Latn
 
-##### All missed: 426
+##### All missed: 428
 
 
 ### json-inline
@@ -3352,7 +3352,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 36
+##### Missing: 37
 
 <table width="100%">
 <tr><th width="50%">
@@ -3452,6 +3452,15 @@ hex_color
 </td><td width="50%">
 
 This field must be a valid hexadecimal color.
+
+</td></tr>
+<tr><td width="50%">
+
+in_array_keys
+
+</td><td width="50%">
+
+This field must contain at least one of the following keys: :values.
 
 </td></tr>
 <tr><td width="50%">
@@ -3696,7 +3705,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 23
+##### Missing: 24
 
 <table width="100%">
 <tr><th width="50%">
@@ -3760,6 +3769,15 @@ hex_color
 </td><td width="50%">
 
 The :attribute field must be a valid hexadecimal color.
+
+</td></tr>
+<tr><td width="50%">
+
+in_array_keys
+
+</td><td width="50%">
+
+The :attribute field must contain at least one of the following keys: :values.
 
 </td></tr>
 <tr><td width="50%">

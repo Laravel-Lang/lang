@@ -55,6 +55,7 @@
     "image": ":Attribute harus berupa gambar.",
     "in": ":Attribute yang dipilih tidak valid.",
     "in_array": ":Attribute tidak ada di dalam :other.",
+    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
     "integer": ":Attribute harus berupa bilangan bulat.",
     "ip": ":Attribute harus berupa alamat IP yang valid.",
     "ipv4": ":Attribute harus berupa alamat IPv4 yang valid.",

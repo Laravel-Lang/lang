@@ -55,6 +55,7 @@
     "image": "Ba :attribute esengeli ezala image.",
     "in": ":attribute oyo oponi ezali na ntina te.",
     "in_array": "Esika ya :attribute ezali te na :other.",
+    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
     "integer": "Esengeli :attribute ezala motango mobimba.",
     "ip": "Ba :attribute esengeli kozala adresse IP ya malamu.",
     "ipv4": "Ba :attribute esengeli kozala adresse IPv4 ya malamu.",

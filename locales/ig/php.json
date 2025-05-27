@@ -55,6 +55,7 @@
     "image": ":attribute ahụ ga-abụrịrị onyonyo.",
     "in": ":attribute ahọpụtara ezighi ezi.",
     "in_array": "Oghere :attribute adịghị na :other.",
+    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
     "integer": ":attribute ahụ ga-abụrịrị ọnụọgụ.",
     "ip": ":attribute ahụ ga-abụrịrị adreesị IP bara uru.",
     "ipv4": ":attribute ahụ ga-abụrịrị adreesị IPv4 bara uru.",

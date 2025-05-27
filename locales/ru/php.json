@@ -55,6 +55,7 @@
     "image": "Файл, указанный в поле :attribute, должен быть изображением.",
     "in": "Значение поля :attribute отсутствует в списке разрешённых.",
     "in_array": "Значение поля :attribute должно быть указано в поле :other.",
+    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
     "integer": "Значение поля :attribute должно быть целым числом.",
     "ip": "Значение поля :attribute должно быть действительным IP-адресом.",
     "ipv4": "Значение поля :attribute должно быть действительным IPv4-адресом.",

@@ -55,6 +55,7 @@
     "image": "Trường :attribute phải là định dạng hình ảnh.",
     "in": "Giá trị đã chọn trong trường :attribute không hợp lệ.",
     "in_array": "Trường :attribute phải thuộc tập cho phép: :other.",
+    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
     "integer": "Trường :attribute phải là một số nguyên.",
     "ip": "Trường :attribute phải là một địa chỉ IP.",
     "ipv4": "Trường :attribute phải là một địa chỉ IPv4.",

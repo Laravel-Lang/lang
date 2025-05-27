@@ -55,6 +55,7 @@
     "image": "Dole ne guda :attribute ya zama hoto.",
     "in": "Zaɓaɓɓen :attribute ba daidai ba ne.",
     "in_array": "Babu filin :attribute a cikin :other.",
+    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
     "integer": "Dole ne :attribute ɗin ya zama lamba ɗaya.",
     "ip": "Dole ne :attribute ɗin ya zama ingantaccen adireshin IP.",
     "ipv4": "Dole ne :attribute ɗin ya zama ingantaccen adireshin IPv4.",

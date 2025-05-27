@@ -53,6 +53,7 @@
     "image": "Feumaidh an raon seo a bhith na ìomhaigh.",
     "in": "Tha an raon taghte neo-dhligheach.",
     "in_array": "Chan eil an raon seo ann an :other.",
+    "in_array_keys": "This field must contain at least one of the following keys: :values.",
     "integer": "Feumaidh an raon seo a bhith iomlan.",
     "ip": "Feumaidh an raon seo a bhith na sheòladh IP dligheach.",
     "ipv4": "Feumaidh an raon seo a bhith na sheòladh IPv4 dligheach.",

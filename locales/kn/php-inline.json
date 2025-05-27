@@ -53,6 +53,7 @@
     "image": "ಈ ಮಾಡಬೇಕು ಎಂದು ಒಂದು ಚಿತ್ರ.",
     "in": "ಆಯ್ಕೆ value is invalid.",
     "in_array": "ಈ ಮೌಲ್ಯವು ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ :other.",
+    "in_array_keys": "This field must contain at least one of the following keys: :values.",
     "integer": "ಈ must be an integer.",
     "ip": "ಈ ಮಾಡಬೇಕು ಮಾನ್ಯ IP ವಿಳಾಸ.",
     "ipv4": "ಈ ಮಾಡಬೇಕು ಒಂದು ಮಾನ್ಯವಾದ IPv4 ವಿಳಾಸ.",

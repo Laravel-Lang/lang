@@ -53,6 +53,7 @@
     "image": "Asta trebuie să fie o imagine.",
     "in": "Valoarea selectată este nevalidă.",
     "in_array": "Această valoare nu există în :other.",
+    "in_array_keys": "This field must contain at least one of the following keys: :values.",
     "integer": "Acesta trebuie să fie un număr întreg.",
     "ip": "Aceasta trebuie să fie o adresă IP validă.",
     "ipv4": "Aceasta trebuie să fie o adresă IPv4 validă.",

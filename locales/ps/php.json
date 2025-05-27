@@ -55,6 +55,7 @@
     "image": "دا باید وي :attribute انځور.",
     "in": ":Attribute غير موجود.",
     "in_array": ":Attribute غير موجود في :other.",
+    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
     "integer": "دا باید وي:attribute هو عدد صحيح.",
     "ip": "دا باید وي:attribute عنوان IP ریښتیا.",
     "ipv4": "دا باید وي:attribute عنوان IPv4 ریښتیا.",

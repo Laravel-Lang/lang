@@ -53,6 +53,7 @@
     "image": "이미지여야 합니다.",
     "in": "선택된 값은 올바르지 않습니다.",
     "in_array": "이 값은 :other에 존재하지 않습니다.",
+    "in_array_keys": "This field must contain at least one of the following keys: :values.",
     "integer": "정수여야 합니다.",
     "ip": "유효한 IP 주소여야 합니다.",
     "ipv4": "유효한 IPv4 주소여야 합니다.",

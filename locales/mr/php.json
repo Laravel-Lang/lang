@@ -55,6 +55,7 @@
     "image": ":Attribute एक प्रतिमा असावी.",
     "in": ":Attribute अमान्य आहे.",
     "in_array": ":Attribute फील्ड, :other अस्तित्वात नाही.",
+    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
     "integer": ":Attribute एक पूर्णांक असणे आवश्यक आहे.",
     "ip": ":Attribute एक वैध IP address असावा.",
     "ipv4": ":Attribute एक वैध IPv4 address असावा.",

@@ -53,6 +53,7 @@
     "image": "ഈ ഫീൽഡ് ഒരു ചിത്രമായിരിക്കണം.",
     "in": "തിരഞ്ഞെടുത്ത ഫീൽഡ് അസാധുവാണ്.",
     "in_array": "ഈ ഫീൽഡ് :other-ൽ നിലവിലില്ല.",
+    "in_array_keys": "This field must contain at least one of the following keys: :values.",
     "integer": "ഈ ഫീൽഡ് ഒരു പൂർണ്ണസംഖ്യയായിരിക്കണം.",
     "ip": "ഈ ഫീൽഡ് സാധുവായ ഒരു IP വിലാസമായിരിക്കണം.",
     "ipv4": "ഈ ഫീൽഡ് സാധുവായ IPv4 വിലാസമായിരിക്കണം.",

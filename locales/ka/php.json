@@ -55,6 +55,7 @@
     "image": ":Attribute უნდა იყოს სურათი.",
     "in": "არჩეული :attribute არასწორია.",
     "in_array": ":Attribute ველი არ არსებობს :other-ში.",
+    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
     "integer": ":Attribute უნდა იყოს მთელი რიცხვი.",
     "ip": ":Attribute უნდა იყოს ვალიდური IP მისამართი.",
     "ipv4": ":Attribute უნდა იყოს ვალიდური IPv4 მისამართი.",

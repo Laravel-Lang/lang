@@ -55,6 +55,7 @@
     "image": "Kentän :attribute arvon tulee olla kuva.",
     "in": "Kentän :attribute arvo on virheellinen.",
     "in_array": "Kentän :attribute arvo ei sisälly kentän :other arvoon.",
+    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
     "integer": "Kentän :attribute arvon tulee olla numero.",
     "ip": "Kentän :attribute arvon tulee olla validi IP-osoite.",
     "ipv4": "Kentän :attribute arvon tulee olla validi IPv4-osoite.",

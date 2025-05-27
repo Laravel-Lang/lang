@@ -55,6 +55,7 @@
     "image": "Me ahua te :attribute.",
     "in": "Ko te :attribute kua tohua he muhu.",
     "in_array": "Karekau te mara :attribute i te :other.",
+    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
     "integer": "Me noho tauoti te :attribute.",
     "ip": "Ko te :attribute he wahitau IP whaimana.",
     "ipv4": "Ko te :attribute he wahitau IPv4 whaimana.",

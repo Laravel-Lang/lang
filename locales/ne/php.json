@@ -55,6 +55,7 @@
     "image": ":Attribute मा फोटो हुनुपर्छ।",
     "in": "छानिएको :attribute अमान्य छ।",
     "in_array": ":Attribute क्षेत्र मा अवस्थित छैन :other",
+    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
     "integer": ":Attribute पूर्ण संख्या हुनुपर्छ।",
     "ip": ":Attribute मा दिइएको मान्य IP ठेगाना हुनुपर्छ।",
     "ipv4": ":Attribute एक मान्य IPv4 ठेगाना हुनुपर्दछ.",

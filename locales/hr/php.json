@@ -55,6 +55,7 @@
     "image": "Polje :attribute mora biti slika.",
     "in": "Odabrano polje :attribute nije ispravno.",
     "in_array": "Polje :attribute ne postoji u :other.",
+    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
     "integer": "Polje :attribute mora biti broj.",
     "ip": "Polje :attribute mora biti ispravna IP adresa.",
     "ipv4": "Polje :attribute mora biti ispravna IPv4 adresa.",

@@ -55,6 +55,7 @@
     "image": ":Attribute måste vara en bild.",
     "in": ":Attribute är ogiltigt.",
     "in_array": ":Attribute finns inte i :other.",
+    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
     "integer": ":Attribute måste vara en siffra.",
     "ip": ":Attribute måste vara en giltig IP-adress.",
     "ipv4": ":Attribute måste vara en giltig IPv4-adress.",

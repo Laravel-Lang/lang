@@ -55,6 +55,7 @@
     "image": "Lo camp :attribute deu èsser un imatge.",
     "in": "Lo camp :attribute selecionnat es invalid.",
     "in_array": "Lo camp :attribute existís pas dins :other.",
+    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
     "integer": "Lo camp :attribute deu èsser un nombre entièr.",
     "ip": "Lo camp :attribute deu èsser una adreça IP valida.",
     "ipv4": "Lo camp :attribute deu èsser una adreça IPv4 valida.",

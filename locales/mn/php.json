@@ -55,6 +55,7 @@
     "image": ":Attribute талбарт зураг оруулна уу.",
     "in": "Сонгогдсон :attribute буруу байна.",
     "in_array": ":Attribute талбарт оруулсан утга :other -д байхгүй байна.",
+    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
     "integer": ":Attribute талбарт бүхэл тоо оруулах шаардлагатай.",
     "ip": ":Attribute талбарт зөв IP хаяг оруулах шаардлагатай.",
     "ipv4": ":Attribute нь хүчинтэй ЦТ 4-р хаяг байх естой.",

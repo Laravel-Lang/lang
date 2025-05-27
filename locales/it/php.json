@@ -55,6 +55,7 @@
     "image": ":Attribute deve essere un'immagine.",
     "in": ":Attribute selezionato non è valido.",
     "in_array": "Il valore del campo :attribute non esiste in :other.",
+    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
     "integer": ":Attribute deve essere un numero intero.",
     "ip": ":Attribute deve essere un indirizzo IP valido.",
     "ipv4": ":Attribute deve essere un indirizzo IPv4 valido.",

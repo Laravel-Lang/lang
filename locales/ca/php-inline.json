@@ -53,6 +53,7 @@
     "image": "Aquesta ha de ser una imatge.",
     "in": "El valor escollit és vàlid.",
     "in_array": "Aquest valor no existeix en :other.",
+    "in_array_keys": "This field must contain at least one of the following keys: :values.",
     "integer": "Aquest ha de ser un nombre enter.",
     "ip": "Aquesta ha de ser una adreça IP vàlida.",
     "ipv4": "Això ha de ser vàlid a l'adreça IPv4.",

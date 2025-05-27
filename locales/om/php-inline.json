@@ -53,6 +53,7 @@
     "image": "Dirreen kun fakkii ta'uu qaba.",
     "in": "Dirreen filatame sirrii miti.",
     "in_array": "Dirreen kun :other keessatti hin jiru.",
+    "in_array_keys": "This field must contain at least one of the following keys: :values.",
     "integer": "Dirreen kun lakkoofsa guutuu ta'uu qaba.",
     "ip": "Dirreen kun teessoo IP sirrii ta'uu qaba.",
     "ipv4": "Dirreen kun teessoo IPv4 sirrii ta'uu qaba.",

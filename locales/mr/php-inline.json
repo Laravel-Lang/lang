@@ -53,6 +53,7 @@
     "image": "प्रतिमा असणे आवश्यक आहे.",
     "in": "निवडलेली मूल्य अवैध आहे.",
     "in_array": "हे मूल्य :other अस्तित्वात नाही.",
+    "in_array_keys": "This field must contain at least one of the following keys: :values.",
     "integer": "हा पूर्णांक असणे आवश्यक आहे.",
     "ip": "हा एक वैध आंतरजाल पत्ता असणे आवश्यक आहे.",
     "ipv4": "हा एक वैध आयपीव्ही4 पत्ता असणे आवश्यक आहे.",

@@ -55,6 +55,7 @@
     "image": ":Attribute դաշտը պետք է լինի նկար։",
     "in": ":Attribute դաշտի ընտրված արժեքն անվավեր է։",
     "in_array": ":Attribute դաշտը գոյություն չունի :other-ում։",
+    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
     "integer": ":Attribute դաշտը պետք է լինի ամբողջ թիվ։",
     "ip": ":Attribute դաշտը պետք է լինի վավեր IP հասցե.",
     "ipv4": ":Attribute դաշտը պետք է լինի վավեր IPv4 հասցե։",

@@ -53,6 +53,7 @@
     "image": "Rhaid i hyn fod yn lun.",
     "in": "Mae'r gwerth a ddewiswyd yn annilys.",
     "in_array": "Mae hyn yn werth nid yw'n bodoli yn :other.",
+    "in_array_keys": "This field must contain at least one of the following keys: :values.",
     "integer": "Rhaid i hyn fod yn gyfanrif.",
     "ip": "Rhaid i hwn fod yn ddilys cyfeiriad IP.",
     "ipv4": "Rhaid i hwn fod yn ddilys ar IPv4 cyfeiriad.",

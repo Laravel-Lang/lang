@@ -53,6 +53,7 @@
     "image": "Kay chakraqa siq’i kanan tiyan.",
     "in": "Akllasqa pampaqa manam allinchu.",
     "in_array": "Kay chakraqa manam :otherpiqa kanchu.",
+    "in_array_keys": "This field must contain at least one of the following keys: :values.",
     "integer": "Kay pampaqa hunt'asqa yupaymi kanan.",
     "ip": "Kay pampaqa allin IP tiyaymi kanan.",
     "ipv4": "Kay pampaqa allin IPv4 tiyaymi kanan.",

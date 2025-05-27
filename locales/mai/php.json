@@ -55,6 +55,7 @@
     "image": ":attribute एकटा छवि हेबाक चाही।",
     "in": "चयनित :attribute अमान्य अछि।",
     "in_array": ":attribute क्षेत्र :other मे मौजूद नहि अछि।",
+    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
     "integer": ":attribute पूर्णांक हेबाक चाही।",
     "ip": ":attribute कें वैध आईपी पता होबाक चाही.",
     "ipv4": ":attribute कें वैध IPv4 पता होबाक चाही.",

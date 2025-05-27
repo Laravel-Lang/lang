@@ -53,6 +53,7 @@
     "image": "මෙම විය යුතුය රූපයක්.",
     "in": "තෝරාගත් අගය සාවද්ය වේ.",
     "in_array": "මෙම අගය නොපවතියි :other.",
+    "in_array_keys": "This field must contain at least one of the following keys: :values.",
     "integer": "මෙම විය යුතුය, යනු පූර්ණ සංඛ්යාවකි.",
     "ip": "මෙම විය යුතුය වලංගු IP ලිපිනයක්.",
     "ipv4": "මෙම විය යුතුය වලංගු IPv4 ලිපිනය.",

@@ -53,6 +53,7 @@
     "image": "እዚ ዓውዲ እዚ ምስሊ ክኸውን ኣለዎ።",
     "in": "እቲ ዝተመርጸ ዓውዲ ቅኑዕ ኣይኮነን።",
     "in_array": "እዚ ዓውዲ ኣብ :other የለን።",
+    "in_array_keys": "This field must contain at least one of the following keys: :values.",
     "integer": "እዚ ዓውዲ ምሉእ ቁጽሪ ክኸውን ኣለዎ።",
     "ip": "እዚ ዓውዲ እዚ ቅኑዕ IP ኣድራሻ ክኸውን ኣለዎ።",
     "ipv4": "እዚ ዓውዲ እዚ ቅኑዕ IPv4 ኣድራሻ ክኸውን ኣለዎ።",

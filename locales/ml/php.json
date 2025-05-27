@@ -55,6 +55,7 @@
     "image": ":attribute ഒരു ചിത്രമായിരിക്കണം.",
     "in": "തിരഞ്ഞെടുത്ത :attribute അസാധുവാണ്.",
     "in_array": ":attribute ഫീൽഡ് :other-ൽ നിലവിലില്ല.",
+    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
     "integer": ":attribute ഒരു പൂർണ്ണസംഖ്യയായിരിക്കണം.",
     "ip": ":attribute സാധുതയുള്ള IP വിലാസമായിരിക്കണം.",
     "ipv4": ":attribute സാധുവായ IPv4 വിലാസമായിരിക്കണം.",

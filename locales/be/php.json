@@ -55,6 +55,7 @@
     "image": "Поле :attribute павінна быць малюнкам.",
     "in": "Выбранае значэнне для :attribute памылкова.",
     "in_array": "Поле :attribute не існуе ў :other.",
+    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
     "integer": "Поле :attribute павінна быць цэлым лікам.",
     "ip": "Поле :attribute дпавінна быць сапраўдным IP-адрасам.",
     "ipv4": ":Attribute павінен быць сапраўдным IPv4-адрасам.",

@@ -55,6 +55,7 @@
     "image": ":Attributeには、画像を指定してください。",
     "in": "選択された:attributeは、有効ではありません。",
     "in_array": ":Attributeが:otherに存在しません。",
+    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
     "integer": ":Attributeには、整数を指定してください。",
     "ip": ":Attributeには、有効なIPアドレスを指定してください。",
     "ipv4": ":AttributeはIPv4アドレスを指定してください。",

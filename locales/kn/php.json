@@ -55,6 +55,7 @@
     "image": "ಈ  :attribute ಒಂದು ಚಿತ್ರವಾಗಿರಬೇಕು.",
     "in": "ಈ  ಆಯ್ಕೆಮಾಡಲಾದ :attribute ಅಮಾನ್ಯವಾಗಿದೆ.",
     "in_array": "ಈ  :attribute ಕ್ಷೇತ್ರ ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ  :other ನಲ್ಲಿ.",
+    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
     "integer": "ಈ  :attribute ಒಂದು ಪೂರ್ಣಾಂಕವಾಗಿರಬೇಕು.",
     "ip": "ಈ  :attribute ಮಾನ್ಯವಾದ IP ವಿಳಾಸವಾಗಿರಬೇಕು.",
     "ipv4": "ಈ  :attribute ಮಾನ್ಯವಾದ IPv4 ವಿಳಾಸವಾಗಿರಬೇಕು.",

@@ -55,6 +55,7 @@
     "image": "Полето :attribute трябва да бъде изображение.",
     "in": "Избраното поле :attribute е невалидно.",
     "in_array": "Полето :attribute не съществува в :other.",
+    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
     "integer": "Полето :attribute трябва да бъде цяло число.",
     "ip": "Полето :attribute трябва да бъде IP адрес.",
     "ipv4": "Полето :attribute трябва да бъде IPv4 адрес.",

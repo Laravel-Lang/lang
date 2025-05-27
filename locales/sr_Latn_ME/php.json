@@ -55,6 +55,7 @@
     "image": "Polje :attribute mora da bude ilustracija.",
     "in": "Polje :attribute ne sadrži neku od predloženih vrijednosti.",
     "in_array": "Vrijednost u polju :attribute nije sadržana u :other.",
+    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
     "integer": "Vrijednost polja :attribute mora da bude broj.",
     "ip": "Polje :attribute mora da bude ispravna IP adresa.",
     "ipv4": "Polje :attribute mora da bude ispravna IPv4 adresa.",

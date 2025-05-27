@@ -55,6 +55,7 @@
     "image": "ข้อมูล :attribute ต้องเป็นรูปภาพ",
     "in": "ข้อมูลที่ถูกเลือกใน :attribute ไม่ถูกต้อง",
     "in_array": "ข้อมูล :attribute ไม่มีอยู่ภายในค่าของ :other",
+    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
     "integer": "ข้อมูล :attribute ต้องเป็นตัวเลข",
     "ip": "ข้อมูล :attribute ต้องเป็น IP",
     "ipv4": "ข้อมูล :attribute ต้องตรงตามรูปแบบที่อยู่ IPv4",

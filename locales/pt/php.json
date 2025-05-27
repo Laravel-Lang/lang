@@ -55,6 +55,7 @@
     "image": "O campo :attribute deverá conter uma imagem.",
     "in": "O campo :attribute não contém um valor válido.",
     "in_array": "O campo :attribute não existe em :other.",
+    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
     "integer": "O campo :attribute deverá conter um número inteiro.",
     "ip": "O campo :attribute deverá conter um IP válido.",
     "ipv4": "O campo :attribute deverá conter um IPv4 válido.",

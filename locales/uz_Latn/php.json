@@ -55,6 +55,7 @@
     "image": ":Attribute tasvir (rasm) bo‘lishi kerak.",
     "in": ":Attribute uchun tanlangan qiymat xato.",
     "in_array": ":Attribute maydonining qiymati :other da mavjud emas.",
+    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
     "integer": ":Attribute butun son bo‘lishi kerak.",
     "ip": ":Attribute haqiqiy IP manzil bo‘lishi kerak.",
     "ipv4": ":Attribute haqiqiy IPv4 manzil bo‘lishi kerak.",

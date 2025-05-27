@@ -55,6 +55,7 @@
     "image": "Ebyo :attribute birina okuba nga bifaananyi.",
     "in": ":attribute ezirondeddwa tezirina makulu.",
     "in_array": "Ennimiro ya :attribute teliiwo mu :other.",
+    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
     "integer": ":attribute zirina okuba namba enzijuvu.",
     "ip": ":attribute zirina okuba endagiriro ya IP entuufu.",
     "ipv4": ":attribute zirina okuba endagiriro ya IPv4 entuufu.",

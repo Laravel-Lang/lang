@@ -53,6 +53,7 @@
     "image": "Esika oyo esengeli kozala elilingi.",
     "in": "Esika oyo oponi ezali na ntina te.",
     "in_array": "Esika oyo ezali te na :other.",
+    "in_array_keys": "This field must contain at least one of the following keys: :values.",
     "integer": "Esika oyo esengeli kozala motango mobimba.",
     "ip": "Esika oyo esengeli kozala adresse IP ya malamu.",
     "ipv4": "Esika oyo esengeli kozala adresse IPv4 ya malamu.",

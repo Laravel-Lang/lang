@@ -53,6 +53,7 @@
     "image": "То мора бити слика.",
     "in": "Изабрана вредност је неприхватљива.",
     "in_array": ":Other.године ово значење није постојало.",
+    "in_array_keys": "This field must contain at least one of the following keys: :values.",
     "integer": "То мора бити цео број.",
     "ip": "То мора бити валидна ИП адреса.",
     "ipv4": "То мора бити валидна ИПв4 адреса.",

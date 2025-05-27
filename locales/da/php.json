@@ -55,6 +55,7 @@
     "image": ":Attribute skal være et billede.",
     "in": "Valgte :attribute er ugyldig.",
     "in_array": ":Attribute eksisterer ikke i :other.",
+    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
     "integer": ":Attribute skal være et heltal.",
     "ip": ":Attribute skal være en gyldig IP adresse.",
     "ipv4": ":Attribute skal være en gyldig IPv4 adresse.",

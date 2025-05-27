@@ -53,6 +53,7 @@
     "image": "Ito ay dapat na isang imahe.",
     "in": "Ang napiling halaga ay hindi wasto.",
     "in_array": "Ang halagang ito ay hindi umiiral sa :other.",
+    "in_array_keys": "This field must contain at least one of the following keys: :values.",
     "integer": "Ito ay dapat na isang integer.",
     "ip": "Ito ay dapat na isang wastong IP address.",
     "ipv4": "Ito ay dapat na isang wastong address ng Ipb4.",

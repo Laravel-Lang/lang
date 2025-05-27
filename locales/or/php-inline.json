@@ -53,6 +53,7 @@
     "image": "ଏହି କ୍ଷେତ୍ର ଏକ ପ୍ରତିଛବି ହେବା ଜରୁରୀ |",
     "in": "ମନୋନୀତ କ୍ଷେତ୍ର ଅବ alid ଧ ଅଟେ |",
     "in_array": "ଏହି କ୍ଷେତ୍ର :other ରେ ବିଦ୍ୟମାନ ନାହିଁ |",
+    "in_array_keys": "This field must contain at least one of the following keys: :values.",
     "integer": "ଏହି କ୍ଷେତ୍ର ନିଶ୍ଚିତ ଭାବରେ ଏକ ପୂର୍ଣ୍ଣ ସଂଖ୍ୟା ହେବ |",
     "ip": "ଏହି କ୍ଷେତ୍ର ଏକ ବ valid ଧ IP ଠିକଣା ହେବା ଜରୁରୀ |",
     "ipv4": "ଏହି କ୍ଷେତ୍ର ଏକ ବ valid ଧ IPv4 ଠିକଣା ହେବା ଜରୁରୀ |",

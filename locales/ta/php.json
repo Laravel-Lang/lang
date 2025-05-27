@@ -55,6 +55,7 @@
     "image": ":attribute ஒரு படமாக இருக்க வேண்டும்.",
     "in": "தேர்ந்தெடுக்கப்பட்ட :attribute தவறானது.",
     "in_array": ":attribute புலம் :other இல் இல்லை.",
+    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
     "integer": ":attribute ஒரு முழு எண்ணாக இருக்க வேண்டும்.",
     "ip": ":attribute சரியான ஐபி முகவரியாக இருக்க வேண்டும்.",
     "ipv4": ":attribute சரியான IPv4 முகவரியாக இருக்க வேண்டும்.",

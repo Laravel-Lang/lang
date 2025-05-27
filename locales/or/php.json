@@ -55,6 +55,7 @@
     "image": ":attribute ଟି ଏକ ପ୍ରତିଛବି ହେବା ଜରୁରୀ |",
     "in": "ମନୋନୀତ :attribute ଅବ alid ଧ ଅଟେ |",
     "in_array": ":attribute ଟି କ୍ଷେତ୍ର :other ରେ ବିଦ୍ୟମାନ ନାହିଁ |",
+    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
     "integer": ":attribute ଟି ଏକ ପୂର୍ଣ୍ଣ ସଂଖ୍ୟା ହେବା ଜରୁରୀ |",
     "ip": ":attribute ନିଶ୍ଚିତ ଭାବରେ ଏକ ବ IP ଧ IP ଠିକଣା ହେବା ଆବଶ୍ୟକ |",
     "ipv4": ":attribute ଟି ଏକ ବ valid ଧ IPv4 ଠିକଣା ହେବା ଜରୁରୀ |",

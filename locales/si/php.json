@@ -55,6 +55,7 @@
     "image": "මෙම :attribute රූපයක් විය යුතුය.",
     "in": "මෙම තෝරා ඇති :attribute වලංගු නැත.",
     "in_array": "මෙම :attribute, :other ක්ෂේත්‍රයේ නොපවතියි.",
+    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
     "integer": "මෙම :attribute පූර්ණ සංඛ්යාවක් විය යුතුය.",
     "ip": "මෙම :attribute වලංගු IP ලිපිනයක් විය යුතුය.",
     "ipv4": "මෙම :attribute වලංගු IPv4 ලිපිනය විය යුතුය.",

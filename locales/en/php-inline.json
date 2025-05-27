@@ -53,6 +53,7 @@
     "image": "The value must be an image.",
     "in": "The selected value is invalid.",
     "in_array": "The value does not exist in :other.",
+    "in_array_keys": "This field must contain at least one of the following keys: :values.",
     "integer": "The value must be an integer.",
     "ip": "The value must be a valid IP address.",
     "ipv4": "The value must be a valid IPv4 address.",

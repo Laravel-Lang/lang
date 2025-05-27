@@ -55,6 +55,7 @@
     "image": ":attribute తప్పనిసరిగా చిత్రం అయి ఉండాలి.",
     "in": "ఎంచుకున్న :attribute చెల్లనివి.",
     "in_array": ":attribute ఫీల్డ్ :otherలో లేదు.",
+    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
     "integer": ":attribute తప్పనిసరిగా పూర్ణాంకం అయి ఉండాలి.",
     "ip": ":attribute తప్పనిసరిగా చెల్లుబాటు అయ్యే IP చిరునామా అయి ఉండాలి.",
     "ipv4": ":attribute తప్పనిసరిగా చెల్లుబాటు అయ్యే IPv4 చిరునామా అయి ఉండాలి.",

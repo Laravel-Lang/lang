@@ -53,6 +53,7 @@
     "image": "Tam jābūt attēlam.",
     "in": "Atlasītā vērtība nav derīga.",
     "in_array": "Šī vērtība nepastāv :other. gadā.",
+    "in_array_keys": "This field must contain at least one of the following keys: :values.",
     "integer": "Tam jābūt veselam skaitlim.",
     "ip": "Tam jābūt derīgai IP adresei.",
     "ipv4": "Tam jābūt derīgai IPv4 adresei.",

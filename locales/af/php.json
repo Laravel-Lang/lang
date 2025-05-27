@@ -55,6 +55,7 @@
     "image": "Die :attribute moet n foto wees.",
     "in": "Die geselketeerde :attribute is ongeldig.",
     "in_array": "Die :attribute veld bestaan nie in :other.",
+    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
     "integer": "Die :attribute moet 'n getal wees.",
     "ip": "Die :attribute moet geldige IP adres wees.",
     "ipv4": "Die :attribute moet geldige IPv4 address wees.",

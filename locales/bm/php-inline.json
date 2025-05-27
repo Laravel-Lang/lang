@@ -53,6 +53,7 @@
     "image": "O foro in ka kan ka kɛ ja ye.",
     "in": "Foro min sugandira, o tɛ tiɲɛ ye.",
     "in_array": "O foro in tɛ yen :other kɔnɔ.",
+    "in_array_keys": "This field must contain at least one of the following keys: :values.",
     "integer": "Nin foro in ka kan ka kɛ jateden dafalen ye.",
     "ip": "Nin foro in ka kan ka kɛ IP ladɛrɛsi ɲuman ye.",
     "ipv4": "Nin foro in ka kan ka kɛ IPv4 ladɛrɛsi ɲuman ye.",

@@ -53,6 +53,7 @@
     "image": "Šio lauko reikšmė turi būti paveikslėlis.",
     "in": "Pasirinkta negaliojanti šio lauko reikšmė.",
     "in_array": "Ši reikšmė neegzistuoja :other lauke.",
+    "in_array_keys": "This field must contain at least one of the following keys: :values.",
     "integer": "Šio lauko reikšmė turi būti sveikasis skaičius.",
     "ip": "Šio lauko reikšmė turi būti galiojantis IP adresas.",
     "ipv4": "Šio lauko reikšmė turi būti galiojantis IPv4 adresas.",

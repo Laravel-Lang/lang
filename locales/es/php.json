@@ -55,6 +55,7 @@
     "image": "El campo :attribute debe ser una imagen.",
     "in": "El campo :attribute no está en la lista de valores permitidos.",
     "in_array": "El campo :attribute debe existir en :other.",
+    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
     "integer": "El campo :attribute debe ser un número entero.",
     "ip": "El campo :attribute debe ser una dirección IP válida.",
     "ipv4": "El campo :attribute debe ser una dirección IPv4 válida.",

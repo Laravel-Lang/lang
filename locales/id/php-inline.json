@@ -53,6 +53,7 @@
     "image": "Isian ini harus berisi sebuah gambar.",
     "in": "Pilihan nilai tidak sesuai.",
     "in_array": "Nilai ini tidak ada di :other.",
+    "in_array_keys": "This field must contain at least one of the following keys: :values.",
     "integer": "Isian ini harus berisi sebuah angka.",
     "ip": "Isian ini harus berisi alamat IP yang valid.",
     "ipv4": "Isian ini harus berisi alamat IPv4 yang valid.",

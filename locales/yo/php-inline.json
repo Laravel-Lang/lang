@@ -53,6 +53,7 @@
     "image": "Aaye yii gbọdọ jẹ aworan.",
     "in": "Aaye ti o yan ko wulo.",
     "in_array": "Aaye yii ko si ni :other.",
+    "in_array_keys": "This field must contain at least one of the following keys: :values.",
     "integer": "Aaye yii gbọdọ jẹ odidi kan.",
     "ip": "Aaye yii gbọdọ jẹ adiresi IP to wulo.",
     "ipv4": "Aaye yii gbọdọ jẹ adiresi IPv4 to wulo.",

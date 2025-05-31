@@ -53,6 +53,7 @@
     "image": "Ovo mora biti slika.",
     "in": "Izabrana vrednost nije validna.",
     "in_array": "Ova vrednost ne postoji u :other.",
+    "in_array_keys": "This field must contain at least one of the following keys: :values.",
     "integer": "Ovo mora biti broj.",
     "ip": "Ovo mora biti validna IP adresa.",
     "ipv4": "Ovo mora da bude važeća IPv4 adresa.",

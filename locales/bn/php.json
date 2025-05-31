@@ -55,6 +55,7 @@
     "image": ":Attribute একটি ইমেজ হতে হবে।",
     "in": "নির্বাচিত :attribute টি অবৈধ।",
     "in_array": ":Attribute উপাদানটি :other এ খুঁজে পাওয়া যায়নি।",
+    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
     "integer": ":Attribute একটি পূর্ণসংখ্যা হতে হবে।",
     "ip": ":Attribute একটি বৈধ  IP address হতে হবে।",
     "ipv4": ":Attribute টি একটি বৈধ IPv4 address হতে হবে।",

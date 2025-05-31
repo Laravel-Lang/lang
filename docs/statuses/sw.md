@@ -4,7 +4,7 @@ editLink: false
 
 # sw
 
-##### All missed: 41
+##### All missed: 43
 
 
 ### json
@@ -326,7 +326,7 @@ Your subscription has been successfully cancelled. You will still have access un
 
 ### php-inline
 
-##### Missing: 4
+##### Missing: 5
 
 <table width="100%">
 <tr><th width="50%">
@@ -358,6 +358,15 @@ This field is missing a required value.
 </td></tr>
 <tr><td width="50%">
 
+in_array_keys
+
+</td><td width="50%">
+
+This field must contain at least one of the following keys: :values.
+
+</td></tr>
+<tr><td width="50%">
+
 prohibited_if_accepted
 
 </td><td width="50%">
@@ -382,7 +391,7 @@ This field is prohibited when :other is declined.
 
 ### php
 
-##### Missing: 4
+##### Missing: 5
 
 <table width="100%">
 <tr><th width="50%">
@@ -410,6 +419,15 @@ contains
 </td><td width="50%">
 
 The :attribute field is missing a required value.
+
+</td></tr>
+<tr><td width="50%">
+
+in_array_keys
+
+</td><td width="50%">
+
+The :attribute field must contain at least one of the following keys: :values.
 
 </td></tr>
 <tr><td width="50%">

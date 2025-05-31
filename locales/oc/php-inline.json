@@ -53,6 +53,7 @@
     "image": "Aqueste camp deu èsser un imatge.",
     "in": "Aqueste camp es invalid.",
     "in_array": "Aqueste camp existís pas dins :other.",
+    "in_array_keys": "This field must contain at least one of the following keys: :values.",
     "integer": "Aqueste camp deu èsser un nombre entièr.",
     "ip": "Aqueste camp deu èsser una adreça IP valida.",
     "ipv4": "Aqueste camp deu èsser una adreça IPv4 valida.",

@@ -55,6 +55,7 @@
     "image": "Το πεδίο :attribute πρέπει να είναι εικόνα.",
     "in": "Το επιλεγμένο :attribute δεν είναι έγκυρο.",
     "in_array": "Το πεδίο :attribute δεν υπάρχει σε :other.",
+    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
     "integer": "Το πεδίο :attribute πρέπει να είναι ακέραιος.",
     "ip": "Το πεδίο :attribute πρέπει να είναι μία έγκυρη διεύθυνση IP.",
     "ipv4": "Το πεδίο :attribute πρέπει να είναι μία έγκυρη διεύθυνση IPv4.",

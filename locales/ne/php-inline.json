@@ -53,6 +53,7 @@
     "image": "यो छवि हुनुपर्दछ।",
     "in": "चयनित मान अवैध छ।",
     "in_array": "यो मान यसमा अवस्थित छैन :other।",
+    "in_array_keys": "This field must contain at least one of the following keys: :values.",
     "integer": "यो पूर्णांक हुनुपर्दछ।",
     "ip": "यो मान्य IP ठेगाना हुनुपर्दछ।",
     "ipv4": "यो मान्य IPv4 ठेगाना हुनुपर्दछ",

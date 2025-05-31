@@ -55,6 +55,7 @@
     "image": "Поле :attribute має містити зображення.",
     "in": "Значення поля :attribute відсутнє у списку допустимих значень.",
     "in_array": "Значення поля :attribute не міститься в :other.",
+    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
     "integer": "Поле :attribute має містити ціле число.",
     "ip": "Поле :attribute має містити IP адресу.",
     "ipv4": "Поле :attribute має містити IPv4 адресу.",

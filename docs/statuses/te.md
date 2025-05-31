@@ -23,11 +23,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-any_of
+in_array_keys
 
 </td><td width="50%">
 
-This field is invalid.
+This field must contain at least one of the following keys: :values.
 
 </td></tr>
 </table>
@@ -52,11 +52,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-any_of
+in_array_keys
 
 </td><td width="50%">
 
-The :attribute field is invalid.
+The :attribute field must contain at least one of the following keys: :values.
 
 </td></tr>
 </table>

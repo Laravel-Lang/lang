@@ -4,7 +4,7 @@ editLink: false
 
 # oc
 
-##### All missed: 919
+##### All missed: 921
 
 
 ### json-inline
@@ -4518,20 +4518,20 @@ Paraguay
 </td></tr>
 <tr><td width="50%">
 
-Password
+password
 
 </td><td width="50%">
 
-Password
+password
 
 </td></tr>
 <tr><td width="50%">
 
-password
+Password
 
 </td><td width="50%">
 
-password
+Password
 
 </td></tr>
 <tr><td width="50%">
@@ -7692,7 +7692,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 41
+##### Missing: 42
 
 <table width="100%">
 <tr><th width="50%">
@@ -7801,6 +7801,15 @@ hex_color
 </td><td width="50%">
 
 This field must be a valid hexadecimal color.
+
+</td></tr>
+<tr><td width="50%">
+
+in_array_keys
+
+</td><td width="50%">
+
+This field must contain at least one of the following keys: :values.
 
 </td></tr>
 <tr><td width="50%">
@@ -8081,7 +8090,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 29
+##### Missing: 30
 
 <table width="100%">
 <tr><th width="50%">
@@ -8154,6 +8163,15 @@ hex_color
 </td><td width="50%">
 
 The :attribute field must be a valid hexadecimal color.
+
+</td></tr>
+<tr><td width="50%">
+
+in_array_keys
+
+</td><td width="50%">
+
+The :attribute field must contain at least one of the following keys: :values.
 
 </td></tr>
 <tr><td width="50%">

@@ -53,6 +53,7 @@
     "image": "Deve essere un'immagine.",
     "in": "Valore non valido.",
     "in_array": "Non esiste in :other.",
+    "in_array_keys": "This field must contain at least one of the following keys: :values.",
     "integer": "Deve essere un numero intero.",
     "ip": "Deve essere un indirizzo IP valido.",
     "ipv4": "Deve essere un indirizzo IPv4 valido.",

@@ -4,7 +4,7 @@ editLink: false
 
 # pt
 
-##### All missed: 37
+##### All missed: 39
 
 
 ### json
@@ -308,7 +308,7 @@ Your last payment of :amount failed. Please update your payment method to retry 
 
 ### php-inline
 
-##### Missing: 3
+##### Missing: 4
 
 <table width="100%">
 <tr><th width="50%">
@@ -327,6 +327,15 @@ any_of
 </td><td width="50%">
 
 This field is invalid.
+
+</td></tr>
+<tr><td width="50%">
+
+in_array_keys
+
+</td><td width="50%">
+
+This field must contain at least one of the following keys: :values.
 
 </td></tr>
 <tr><td width="50%">
@@ -355,7 +364,7 @@ This field is prohibited when :other is declined.
 
 ### php
 
-##### Missing: 3
+##### Missing: 4
 
 <table width="100%">
 <tr><th width="50%">
@@ -374,6 +383,15 @@ any_of
 </td><td width="50%">
 
 The :attribute field is invalid.
+
+</td></tr>
+<tr><td width="50%">
+
+in_array_keys
+
+</td><td width="50%">
+
+The :attribute field must contain at least one of the following keys: :values.
 
 </td></tr>
 <tr><td width="50%">

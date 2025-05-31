@@ -55,6 +55,7 @@
     "image": ":attribute 必须是图片。",
     "in": "已选的属性 :attribute 无效。",
     "in_array": ":attribute 必须在 :other 中。",
+    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
     "integer": ":attribute 必须是整数。",
     "ip": ":attribute 必须是有效的 IP 地址。",
     "ipv4": ":attribute 必须是有效的 IPv4 地址。",

@@ -53,6 +53,7 @@
     "image": "Dit veld moet een afbeelding zijn.",
     "in": "De geselecteerde waarde is ongeldig.",
     "in_array": "Deze waarde bestaat niet in :other.",
+    "in_array_keys": "This field must contain at least one of the following keys: :values.",
     "integer": "Dit veld moet een getal zijn.",
     "ip": "Dit veld moet een geldig IP-adres zijn.",
     "ipv4": "Dit veld moet een geldig IPv4-adres zijn.",

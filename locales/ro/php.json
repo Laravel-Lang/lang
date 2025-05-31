@@ -55,6 +55,7 @@
     "image": "Câmpul :attribute trebuie să fie o imagine.",
     "in": "Câmpul :attribute selectat nu este valid.",
     "in_array": "Câmpul :attribute nu există în :other.",
+    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
     "integer": "Câmpul :attribute trebuie să fie un număr întreg.",
     "ip": "Câmpul :attribute trebuie să fie o adresă IP validă.",
     "ipv4": "Câmpul :attribute trebuie să fie o adresă IPv4 validă.",

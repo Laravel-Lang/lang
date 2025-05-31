@@ -4,12 +4,12 @@ editLink: false
 
 # nb
 
-##### All missed: 4
+##### All missed: 3
 
 
 ### json
 
-##### Missing: 2
+##### Missing: 1
 
 <table width="100%">
 <tr><th width="50%">
@@ -28,15 +28,6 @@ Sint Maarten (Dutch part)
 </td><td width="50%">
 
 Sint Maarten
-
-</td></tr>
-<tr><td width="50%">
-
-Start polling
-
-</td><td width="50%">
-
-Start polling
 
 </td></tr>
 </table>
@@ -61,11 +52,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-any_of
+in_array_keys
 
 </td><td width="50%">
 
-This field is invalid.
+This field must contain at least one of the following keys: :values.
 
 </td></tr>
 </table>
@@ -90,11 +81,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-any_of
+in_array_keys
 
 </td><td width="50%">
 
-The :attribute field is invalid.
+The :attribute field must contain at least one of the following keys: :values.
 
 </td></tr>
 </table>

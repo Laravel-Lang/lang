@@ -55,7 +55,7 @@
     "image": "Pole :attribute musi być obrazkiem.",
     "in": "Zaznaczony element :attribute jest nieprawidłowy.",
     "in_array": "Pole :attribute nie znajduje się w :other.",
-    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
+    "in_array_keys": "Pole :attribute musi zawierać co najmniej jeden z następujących kluczy: :values.",
     "integer": "Pole :attribute musi być liczbą całkowitą.",
     "ip": "Pole :attribute musi być prawidłowym adresem IP.",
     "ipv4": "Pole :attribute musi być prawidłowym adresem IPv4.",

@@ -174,7 +174,7 @@ editLink: false
 </td></tr>
 <tr><td width="12%">
 
-[hi&nbsp;❗](statuses/hi.md)
+[hi&nbsp;✔](statuses/hi.md)
 
 </td><td width="12%">
 

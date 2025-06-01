@@ -55,7 +55,7 @@
     "image": "Lauko :attribute reikšmė turi būti paveikslėlis.",
     "in": "Pasirinkta negaliojanti :attribute reikšmė.",
     "in_array": "Laukas :attribute neegzistuoja :other lauke.",
-    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
+    "in_array_keys": ":attribute lauke turi būti bent vienas iš šių raktų: :values.",
     "integer": "Lauko :attribute reikšmė turi būti sveikasis skaičius.",
     "ip": "Lauko :attribute reikšmė turi būti galiojantis IP adresas.",
     "ipv4": "Lauko :attribute reikšmė turi būti galiojantis IPv4 adresas.",

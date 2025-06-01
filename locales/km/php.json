@@ -55,7 +55,7 @@
     "image": ":Attribute ត្រូវតៃជារូបភាព។",
     "in": "ការជ្រើសរើស :attribute មិនត្រឹមត្រូវ។",
     "in_array": ":Attribute ត្រូវតែជាមួយក្នុងចំណោម :other។",
-    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
+    "in_array_keys": "វាលទាំង :attribute ត្រូវតែមានយ៉ាងហោចណាស់គ្រាប់ចុចមួយដូចខាងក្រោមៈ :values ។",
     "integer": ":Attribute ត្រូវតែជាចំនួនគត់។",
     "ip": ":Attribute ត្រូវតែជា IP address ត្រឹមត្រូវ។",
     "ipv4": ":Attribute ត្រូវតែជា IPv4 address ត្រឹមត្រូវ។",

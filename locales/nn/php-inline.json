@@ -53,7 +53,7 @@
     "image": "This must be an image.",
     "in": "The selected value is not in the list of allowed values.",
     "in_array": "This value does not exist in :other.",
-    "in_array_keys": "This field must contain at least one of the following keys: :values.",
+    "in_array_keys": "Dette feltet må inneholde minst en av følgende nøkler: :values.",
     "integer": "This must be an integer.",
     "ip": "This must be a valid IP address.",
     "ipv4": "This must be a valid IPv4 address.",

@@ -53,7 +53,7 @@
     "image": "Må være et bilde.",
     "in": "Den valgte veriden er ugyldig.",
     "in_array": "Den valgte veriden eksisterer ikke i :other.",
-    "in_array_keys": "This field must contain at least one of the following keys: :values.",
+    "in_array_keys": "Dette feltet må inneholde minst en av følgende nøkler: :values.",
     "integer": "Må være et heltall.",
     "ip": "Må være en gyldig IP-adresse.",
     "ipv4": "Må være en gyldig IPv4-adresse.",

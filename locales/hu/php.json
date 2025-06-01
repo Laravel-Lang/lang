@@ -55,7 +55,7 @@
     "image": "A(z) :attribute képfájl kell, hogy legyen!",
     "in": "A kiválasztott :attribute érvénytelen.",
     "in_array": "A(z) :attribute értéke nem található a(z) :other értékek között.",
-    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
+    "in_array_keys": "A :attribute mezőnek a következő kulcsok közül legalább egyet tartalmaznia kell: :values.",
     "integer": "A(z) :attribute értéke szám kell, hogy legyen!",
     "ip": "A(z) :attribute érvényes IP cím kell, hogy legyen!",
     "ipv4": "A(z) :attribute érvényes IPv4 cím kell, hogy legyen!",

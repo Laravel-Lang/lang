@@ -55,7 +55,7 @@
     "image": ":Attribute surat bolmalydyr.",
     "in": ":Attribute mukdary ýalňyş.",
     "in_array": ":Attribute meýdan :other-de ýok.",
-    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
+    "in_array_keys": ":attribute meýdanda aşakdaky düwmeleriň iň bolmanda biri bolmaly: :values.",
     "integer": ":Attribute san bolmalydyr.",
     "ip": ":Attribute dogry IP adres bolmalydyr.",
     "ipv4": ":Attribute dogry IPv4 salgy bolmaly.",

@@ -55,7 +55,7 @@
     "image": "Қиммати :attribute бояд расм бошад.",
     "in": "Қиммати интихобкардаи :attribute нодуруст мебошад.",
     "in_array": "Қиммати :attribute дар :other мавҷуд нест.",
-    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
+    "in_array_keys": "Майдони :attribute бояд ҳадди аққал яке аз калидҳои зеринро дар бар гирад: :values.",
     "integer": "Қиммати :attribute бояд адади бутун бошад.",
     "ip": "Қиммати :attribute бояд суроғаи дурусти IP бошад.",
     "ipv4": ":Attribute бояд дархост эътибор дорад IPv4-суроғаи.",

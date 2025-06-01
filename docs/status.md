@@ -442,11 +442,11 @@ editLink: false
 
 </td><td width="12%">
 
-[te&nbsp;❗](statuses/te.md)
+[te&nbsp;✔](statuses/te.md)
 
 </td><td width="12%">
 
-[tg&nbsp;❗](statuses/tg.md)
+[tg&nbsp;✔](statuses/tg.md)
 
 </td><td width="12%">
 

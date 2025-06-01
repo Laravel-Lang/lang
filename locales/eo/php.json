@@ -55,7 +55,7 @@
     "image": "La :attribute devas esti bildo.",
     "in": "La elektita :attribute estas malvalida.",
     "in_array": "La :attribute kampo ne ekzistas en :other.",
-    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
+    "in_array_keys": "La :attribute kampo devas enhavi almenaŭ unu el la jenaj ŝlosiloj: :values.",
     "integer": "La :attribute devas esti entjero.",
     "ip": "La :attribute devas esti valida IP-adreso.",
     "ipv4": "La :attribute devas esti valida IPv4-adreso.",

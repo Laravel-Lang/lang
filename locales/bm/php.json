@@ -55,7 +55,7 @@
     "image": ":attribute ka kan ka kɛ ja ye.",
     "in": ":attribute sugandilenw tɛ baara kɛ.",
     "in_array": ":attribute foro tɛ yen :other kɔnɔ.",
-    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
+    "in_array_keys": "Foro :attribute ka kan ka sɔrɔ nin kilisi ninnu dɔ la kelen na: :values.",
     "integer": ":attribute ka kan ka kɛ jateden dafalen ye.",
     "ip": ":attribute ka kan ka kɛ IP adrɛsi ye min bɛ se ka kɛ.",
     "ipv4": ":attribute ka kan ka kɛ IPv4 ladɛrɛsi ɲuman ye.",

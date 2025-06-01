@@ -55,7 +55,7 @@
     "image": "Divê :attribute wêneyek be.",
     "in": ":attribute bijartî nederbasdar e.",
     "in_array": "Qada :attribute di :other de tune.",
-    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
+    "in_array_keys": "Divê :attribute zevî bi kêmî ve yek ji keysên jêrîn hebe: :values.",
     "integer": "Divê :attribute jimarek bêkêmasî be.",
     "ip": "Divê :attribute navnîşek IP-ya derbasdar be.",
     "ipv4": "Divê :attribute navnîşek IPv4 derbasdar be.",

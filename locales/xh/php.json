@@ -55,7 +55,7 @@
     "image": "I-:attribute kufuneka ibe ngumfanekiso.",
     "in": "I-:attribute ekhethiweyo ayisebenzi.",
     "in_array": "Ibala le-:attribute alikho kwi-:other.",
-    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
+    "in_array_keys": "Intsimi ye-:attribute kufuneka ibe nelinye lala maqhosha alandelayo: :values.",
     "integer": "I-:attribute kufuneka ibe yinani elipheleleyo.",
     "ip": "I-:attribute kufuneka ibe yidilesi ye-IP esebenzayo.",
     "ipv4": "I-:attribute kufuneka ibe yidilesi ye-IPv4 esebenzayo.",

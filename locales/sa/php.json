@@ -55,7 +55,7 @@
     "image": "१० एकं प्रतिबिम्बं भवितुमर्हति।",
     "in": "चयनितं १० अमान्यम् अस्ति ।",
     "in_array": "१० क्षेत्रं २० मध्ये नास्ति ।",
-    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
+    "in_array_keys": ":attribute क्षेत्रे निम्नलिखितकुंजीषु न्यूनातिन्यूनं एकं अवश्यं भवितव्यम्: :values.",
     "integer": "१० पूर्णाङ्कः भवितुमर्हति ।",
     "ip": "१० वैधः IP-सङ्केतः भवितुमर्हति ।",
     "ipv4": "१० वैधः IPv4 पता भवितुमर्हति ।",

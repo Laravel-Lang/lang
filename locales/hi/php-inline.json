@@ -53,7 +53,7 @@
     "image": "यह एक छवि होनी चाहिए ।",
     "in": "चयनित मान अमान्य है ।",
     "in_array": "यह मान :other में मौजूद नहीं है ।",
-    "in_array_keys": "This field must contain at least one of the following keys: :values.",
+    "in_array_keys": "इस फ़ील्ड में निम्न में से कम से कम एक कुंजियाँ होनी चाहिए: :values।",
     "integer": "यह एक पूर्णांक होना चाहिए ।",
     "ip": "यह एक वैध आईपी पता होना चाहिए ।",
     "ipv4": "यह एक वैध आईपीवी 4 पता होना चाहिए ।",

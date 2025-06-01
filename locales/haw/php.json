@@ -55,7 +55,7 @@
     "image": "He kiʻi ka :attribute.",
     "in": "He kūpono ʻole ka :attribute i koho ʻia.",
     "in_array": "ʻAʻole loaʻa ka māla :attribute ma :other.",
-    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
+    "in_array_keys": "Pono ka :attribute mahina ma kahi o kekahi o nā kī aʻe: :values.",
     "integer": "ʻO ka :attribute he helu helu.",
     "ip": "Pono ka :attribute he helu IP kūpono.",
     "ipv4": "Pono ka :attribute he helu IPv4 kūpono.",

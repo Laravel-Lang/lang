@@ -55,7 +55,7 @@
     "image": ":attribute ပုံတစ်ပုံဖြစ်ရမည်။",
     "in": "ရွေးချယ်ထားသော :attribute သည် မမှန်ကန်ပါ။",
     "in_array": ":attribute အကွက်သည် :other တွင်မရှိပါ။",
-    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
+    "in_array_keys": ":attribute ကွက်တွင်အောက်ပါသော့များထဲမှအနည်းဆုံးတစ်ခုပါဝင်ရမည် - :values ။",
     "integer": ":attribute သည် ကိန်းပြည့်ဖြစ်ရမည်။",
     "ip": ":attribute သည် တရားဝင် IP လိပ်စာဖြစ်ရမည်။",
     "ipv4": ":attribute သည် တရားဝင် IPv4 လိပ်စာဖြစ်ရမည်။",

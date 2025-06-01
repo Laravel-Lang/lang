@@ -53,7 +53,7 @@
     "image": "Ní mór íomhá a bheith sa réimse seo.",
     "in": "Tá an réimse roghnaithe neamhbhailí.",
     "in_array": "Níl an réimse seo ann i :other.",
-    "in_array_keys": "This field must contain at least one of the following keys: :values.",
+    "in_array_keys": "Caithfidh ceann amháin ar a laghad de na heochracha seo a leanas a bheith sa réimse seo: :values.",
     "integer": "Caithfidh an réimse seo a bheith ina slánuimhir.",
     "ip": "Ní mór seoladh IP bailí a bheith sa réimse seo.",
     "ipv4": "Ní mór seoladh IPv4 bailí a bheith sa réimse seo.",

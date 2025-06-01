@@ -55,7 +55,7 @@
     "image": "L-:attribute għandhom ikunu immaġini.",
     "in": "L-:attribute magħżula hija invalida.",
     "in_array": "Il-qasam :attribute ma jeżistix f':other.",
-    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
+    "in_array_keys": "L-:attribute kamp għandu jkun fih mill-inqas waħda miċ-ċwievet li ġejjin: :values.",
     "integer": "L-:attribute għandhom ikunu numru sħiħ.",
     "ip": "L-:attribute għandu jkun indirizz IP validu.",
     "ipv4": "L-:attribute għandu jkun indirizz IPv4 validu.",

@@ -55,7 +55,7 @@
     "image": ":attribute igomba kuba ishusho.",
     "in": "Ibyatoranijwe :attribute ntabwo byemewe.",
     "in_array": "Umurima :attribute ntubaho muri :other.",
-    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
+    "in_array_keys": "Umurima :attribute ugomba kuba ufite byibuze umwe murufunguzo rukurikira: :values.",
     "integer": ":attribute igomba kuba integer.",
     "ip": ":attribute igomba kuba adresse IP yemewe.",
     "ipv4": ":attribute igomba kuba aderesi ya IPv4 yemewe.",

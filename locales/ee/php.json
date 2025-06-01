@@ -55,7 +55,7 @@
     "image": "Ele be :attribute-awo nanye nɔnɔmetata.",
     "in": ":attribute siwo nètia la mesɔ o.",
     "in_array": ":attribute ƒe agblea meli le :other me o.",
-    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
+    "in_array_keys": "Ele be safui siwo gbɔna la dometɔ ɖeka ya teti nanɔ agble :attribute la me: :values.",
     "integer": "Ele be :attribute la nanye xexlẽdzesi blibo.",
     "ip": "Ele be :attribute la nanye IP adrɛs si sɔ.",
     "ipv4": "Ele be :attribute la nanye IPv4 adrɛs si sɔ.",

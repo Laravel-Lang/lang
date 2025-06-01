@@ -53,7 +53,7 @@
     "image": "Hau izan behar da irudi bat.",
     "in": "Hautatutako balio baliogabea da.",
     "in_array": "Balio hau ez da existitzen :other.",
-    "in_array_keys": "This field must contain at least one of the following keys: :values.",
+    "in_array_keys": "Eremu honek gutxienez gako hauetako bat eduki behar du: :values.",
     "integer": "Hau izan behar da zenbaki oso bat.",
     "ip": "Hau izan behar da, IP helbide balioduna.",
     "ipv4": "Hau izan behar da baliozko IPv4 helbidea.",

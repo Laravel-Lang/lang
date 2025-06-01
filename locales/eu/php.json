@@ -55,7 +55,7 @@
     "image": ":Attribute irudi bat izan behar da.",
     "in": ":Attribute baliogabea da.",
     "in_array": ":Attribute ez da existizen :other-(e)n.",
-    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
+    "in_array_keys": ":attribute eremuak gako hauetako bat gutxienez eduki behar du: :values.",
     "integer": ":Attribute zenbaki osoa izan behar da.",
     "ip": ":Attribute baliozko IP helbidea izan behar da.",
     "ipv4": ":Attribute baliozko IPv4 helbidea izan behar da.",

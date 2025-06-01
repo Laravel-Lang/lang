@@ -55,7 +55,7 @@
     "image": ":attribute kedah janten gambar.",
     "in": ":attribute nu dipilih teu valid.",
     "in_array": "Widang :attribute teu aya dina :other.",
-    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
+    "in_array_keys": "Widang :attribute kedah ngandung sahanteuna salah sahiji tombol ieu: :values.",
     "integer": ":attribute kudu integer.",
     "ip": ":attribute kedah janten alamat IP anu sah.",
     "ipv4": ":attribute kedah janten alamat IPv4 anu sah.",

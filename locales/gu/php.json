@@ -55,7 +55,7 @@
     "image": ":Attribute છબી હોવી જોઈએ.",
     "in": ":Attribute અમાન્ય છે.",
     "in_array": ":Attribute માં પ્રવૃત્તિ ક્ષેત્ર અસ્તિત્વ ધરાવતું નથી :other.",
-    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
+    "in_array_keys": ":attribute ક્ષેત્રમાં નીચેની કીઓમાંથી ઓછામાં ઓછી એક હોવી આવશ્યક છે: :values.",
     "integer": ":Attribute પૂર્ણ સંખ્યા હોવી જોઈએ.",
     "ip": ":Attribute માન્ય IP address હોવું જોઈએ.",
     "ipv4": ":Attribute માન્ય IPv4 address હોવું જોઈએ.",

@@ -55,7 +55,7 @@
     "image": "De :attribute moat in ôfbylding wêze.",
     "in": "De selektearre :attribute is ûnjildich.",
     "in_array": "It fjild :attribute bestiet net yn :other.",
-    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
+    "in_array_keys": "It fjild :attribute-fjild moat teminsten ien fan 'e folgjende toetsen befetsje: :values.",
     "integer": "De :attribute moat in hiel getal wêze.",
     "ip": "De :attribute moat in jildich IP-adres wêze.",
     "ipv4": "De :attribute moat in jildich IPv4-adres wêze.",

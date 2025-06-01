@@ -55,7 +55,7 @@
     "image": "١٠ یەکە دەبێت وێنەیەک بێت.",
     "in": "١٠ هەڵبژێردراوەکە نادروستە.",
     "in_array": "مەیدانی ١٠ لە ٢٠دا بوونی نییە.",
-    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
+    "in_array_keys": "مەیدانی :attribute دەبێت لانیکەم یەکێک لەم کلیلانەی خوارەوەی تێدابێت: :values.",
     "integer": "١٠ ەکە دەبێت ژمارەیەکی تەواو بێت.",
     "ip": "ئەو ١٠ یە دەبێت ئایپییەکی دروست بێت.",
     "ipv4": ":attribute دەبێت ناونیشانی IPv4 ی دروست بێت.",

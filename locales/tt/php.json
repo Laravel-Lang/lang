@@ -55,7 +55,7 @@
     "image": ":attribute образ булырга тиеш.",
     "in": "Сайланган :attribute дөрес түгел.",
     "in_array": ":attribute кыр :otherдә юк.",
-    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
+    "in_array_keys": ":attribute кырда түбәндәгеләрнең ким дигәндә берсе булырга тиеш: :values.",
     "integer": ":attribute бөтен сан булырга тиеш.",
     "ip": ":attribute дөрес IP адрес булырга тиеш.",
     "ipv4": ":attribute дөрес IPv4 адресы булырга тиеш.",

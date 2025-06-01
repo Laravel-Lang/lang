@@ -55,7 +55,7 @@
     "image": ":attributeku waa inuu noqdaa sawir.",
     "in": ":attributeka la doortay waa mid aan sax ahayn.",
     "in_array": ":attributeka garoon kuma jiraan :other.",
-    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
+    "in_array_keys": ":attribute-ka beerta waa inay kujirtaa ugu yaraan mid ka mid ah furayaasha soosocda: :values.",
     "integer": ":attributeku waa in uu ahaado tiro isku mid ah.",
     "ip": ":attributeku waa inuu noqdaa cinwaan IP sax ah",
     "ipv4": ":attributeku waa inuu noqdaa ciwaanka IPv4 ansax ah.",

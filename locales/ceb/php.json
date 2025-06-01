@@ -55,7 +55,7 @@
     "image": "Ang :attribute kinahanglan usa ka imahe.",
     "in": "Ang gipili nga :attribute dili balido.",
     "in_array": "Ang :attribute nga natad wala maglungtad sa :other.",
-    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
+    "in_array_keys": "Ang :attribute ka uma kinahanglan adunay labing menos usa sa mga mosunud nga yawe: :values.",
     "integer": "Ang :attribute kinahanglang integer.",
     "ip": "Ang :attribute kinahanglan usa ka balido nga IP address.",
     "ipv4": "Ang :attribute kinahanglan usa ka balido nga IPv4 nga adres.",

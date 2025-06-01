@@ -53,7 +53,7 @@
     "image": "Ennimiro eno erina okuba ekifaananyi.",
     "in": "Ennimiro erongooseddwa si ntuufu.",
     "in_array": "Ennimiro eno teriiwo mu :other.",
-    "in_array_keys": "This field must contain at least one of the following keys: :values.",
+    "in_array_keys": "Ennimiro eno erina okubaamu waakiri ekimu ku bisumuluzo bino wammanga: :values.",
     "integer": "Ennimiro eno erina okuba namba enzijuvu.",
     "ip": "Ennimiro eno erina okuba endagiriro ya IP entuufu.",
     "ipv4": "Ennimiro eno erina okuba endagiriro ya IPv4 entuufu.",

@@ -55,7 +55,7 @@
     "image": ":Attribute لازماً کوئی تصویر ہو۔",
     "in": "منتخب :attribute قابلِ قبول نہیں ہے۔",
     "in_array": ":Attribute فیلڈ :other میں موجود نہیں ہے۔",
-    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
+    "in_array_keys": ":attribute فیلڈ میں کم از کم مندرجہ ذیل میں سے ایک کیز میں سے ایک پر مشتمل ہونا چاہئے: :values۔",
     "integer": ":Attribute لازماً کوئی عدد ہو۔",
     "ip": ":Attribute لازماً قابلِ قبول آئی پی پتہ ہو۔",
     "ipv4": "اس :attribute ہونا ضروری ہے ایک درست IPv4 ایڈریس.",

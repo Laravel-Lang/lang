@@ -55,7 +55,7 @@
     "image": "O :attribute debe ser unha imaxe.",
     "in": "O :attribute seleccionado non é válido.",
     "in_array": "O eido :attribute non existe en :other.",
-    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
+    "in_array_keys": "O campo :attribute debe conter polo menos unha das seguintes teclas: :values.",
     "integer": "O :attribute debe ser un integro.",
     "ip": "O :attribute debe ser unha dirección IP válida.",
     "ipv4": "O :attribute debe ser unha dirección IPv4 válida.",

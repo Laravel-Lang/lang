@@ -55,7 +55,7 @@
     "image": "Feumaidh an :attribute a bhith na ìomhaigh.",
     "in": "Tha an :attribute a chaidh a thaghadh neo-dhligheach.",
     "in_array": "Chan eil an raon :attribute ann an :other.",
-    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
+    "in_array_keys": "Feumaidh co-dhiù aon de na h-iuchraichean a leanas a bhith san :attribute achadh.",
     "integer": "Feumaidh an :attribute a bhith na iomlanachd.",
     "ip": "Feumaidh an :attribute a bhith na sheòladh IP dligheach.",
     "ipv4": "Feumaidh an :attribute a bhith na sheòladh IPv4 dligheach.",

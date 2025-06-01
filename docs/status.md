@@ -120,7 +120,7 @@ editLink: false
 
 </td><td width="12%">
 
-[eu&nbsp;❗](statuses/eu.md)
+[eu&nbsp;✔](statuses/eu.md)
 
 </td><td width="12%">
 
@@ -128,7 +128,7 @@ editLink: false
 
 </td><td width="12%">
 
-[fi&nbsp;❗](statuses/fi.md)
+[fi&nbsp;✔](statuses/fi.md)
 
 </td><td width="12%">
 

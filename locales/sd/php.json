@@ -55,7 +55,7 @@
     "image": ":attribute هڪ تصوير هجڻ گهرجي.",
     "in": "منتخب ٿيل :attribute غلط آهي.",
     "in_array": ":attribute فيلڊ :other ۾ موجود ناهي.",
-    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
+    "in_array_keys": ":attribute فيلڊ ۾ گهٽ ۾ گهٽ هڪ هيٺ ڏنل چابين تي مشتمل هجڻ گهرجي: :values.",
     "integer": ":attribute هڪ عددي هجڻ گهرجي.",
     "ip": ":attribute هڪ صحيح IP پتو هجڻ گهرجي.",
     "ipv4": ":attribute هڪ صحيح IPv4 پتو هجڻ گهرجي.",

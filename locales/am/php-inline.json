@@ -53,7 +53,7 @@
     "image": "ይህ መስክ ምስል መሆን አለበት።",
     "in": "የተመረጠው መስክ ልክ ያልሆነ ነው።",
     "in_array": "ይህ መስክ በ:other ውስጥ የለም።",
-    "in_array_keys": "This field must contain at least one of the following keys: :values.",
+    "in_array_keys": "ይህ መስክ ቢያንስ ከሚከተሉት ቁልፎች ውስጥ አንዱን መያዝ አለበት :values.",
     "integer": "ይህ መስክ ኢንቲጀር መሆን አለበት።",
     "ip": "ይህ መስክ ትክክለኛ የአይፒ አድራሻ መሆን አለበት።",
     "ipv4": "ይህ መስክ ትክክለኛ IPv4 አድራሻ መሆን አለበት።",

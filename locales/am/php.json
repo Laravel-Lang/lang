@@ -55,7 +55,7 @@
     "image": ":attribute ምስል መሆን አለበት.",
     "in": "የተመረጠው :attribute ልክ ያልሆነ ነው።",
     "in_array": ":attribute ሜዳው በ:other ውስጥ የለም።",
-    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
+    "in_array_keys": ":attribute ሜዳ ቢያንስ ከሚከተሉት ቁልፎች ውስጥ አንዱን መያዝ አለበት, :values.",
     "integer": ":attribute ኢንቲጀር መሆን አለበት።",
     "ip": ":attribute ትክክለኛ የአይፒ አድራሻ መሆን አለበት።",
     "ipv4": ":attribute ትክክለኛ IPv4 አድራሻ መሆን አለበት።",

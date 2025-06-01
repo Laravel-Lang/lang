@@ -55,7 +55,7 @@
     "image": "Ny :attribute dia tsy maintsy sary.",
     "in": "Ny :attribute voafantina dia tsy mety.",
     "in_array": "Ny saha :attribute dia tsy misy amin'ny :other.",
-    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
+    "in_array_keys": "Ny saha :attribute dia tsy maintsy misy farafaharatsiny iray amin'ireto lakile manaraka ireto: :values.",
     "integer": "Ny :attribute dia tsy maintsy integer.",
     "ip": "Ny :attribute dia tsy maintsy adiresy IP manan-kery.",
     "ipv4": "Ny :attribute dia tsy maintsy adiresy IPv4 manan-kery.",

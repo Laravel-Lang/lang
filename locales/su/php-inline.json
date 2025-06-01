@@ -53,7 +53,7 @@
     "image": "Widang ieu kedah janten gambar.",
     "in": "Widang anu dipilih teu valid.",
     "in_array": "Widang ieu teu aya dina :other.",
-    "in_array_keys": "This field must contain at least one of the following keys: :values.",
+    "in_array_keys": "Widang ieu kedah ngandung sahanteuna salah sahiji konci ieu: :values.",
     "integer": "Widang ieu kedah integer.",
     "ip": "Widang ieu kedah janten alamat IP anu sah.",
     "ipv4": "Widang ieu kedah janten alamat IPv4 anu valid.",

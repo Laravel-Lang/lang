@@ -55,7 +55,7 @@
     "image": ":attribute сүрөт болушу керек.",
     "in": "Тандалган :attribute жараксыз.",
     "in_array": ":attribute талаасы :otherда жок.",
-    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
+    "in_array_keys": ":attribute талаа төмөнкү баскычтардын жок дегенде бирөөсүн камтышы керек: :values.",
     "integer": ":attribute бүтүн сан болушу керек.",
     "ip": ":attribute жарактуу IP дареги болушу керек.",
     "ipv4": ":attribute жарактуу IPv4 дареги болушу керек.",

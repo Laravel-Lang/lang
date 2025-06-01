@@ -53,7 +53,7 @@
     "image": "See peab olema pilt.",
     "in": "Valitud väärtus on vigane.",
     "in_array": "See väärtus ei eksisteeri :other.",
-    "in_array_keys": "This field must contain at least one of the following keys: :values.",
+    "in_array_keys": "See väli peab sisaldama vähemalt ühte järgmistest võtmetest: :values.",
     "integer": "See peab olema täisarv.",
     "ip": "See peab olema kehtiv IP-aadress.",
     "ipv4": "See peab olema kehtiv IPv4 aadress.",

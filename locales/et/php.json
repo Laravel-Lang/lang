@@ -55,7 +55,7 @@
     "image": ":Attribute peab olema pilt.",
     "in": "Valitud :attribute on vigane.",
     "in_array": ":Attribute väli ei eksisteeri :other sees.",
-    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
+    "in_array_keys": ":attribute väli peab sisaldama vähemalt ühte järgmistest klahvidest: :values.",
     "integer": ":Attribute peab olema täisarv.",
     "ip": ":Attribute peab olema kehtiv IP aadress.",
     "ipv4": ":Attribute peab olema kehtiv IPv4 aadress.",

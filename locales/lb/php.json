@@ -55,7 +55,7 @@
     "image": "Déi :attribute muss e Bild sinn.",
     "in": "Déi gewielte :attribute ass ongëlteg.",
     "in_array": "Den :attribute Feld existéiert net an :other.",
-    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
+    "in_array_keys": "Den :attribute Feld muss op d'mannst ee vun de folgende Schlësselen enthalen: :values.",
     "integer": "Den :attribute muss eng ganz Zuel sinn.",
     "ip": "Déi :attribute muss eng valabel IP Adress sinn.",
     "ipv4": "Déi :attribute muss eng valabel IPv4 Adress sinn.",

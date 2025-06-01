@@ -55,7 +55,7 @@
     "image": "১০ খন এটা ছবি হ’ব লাগিব।",
     "in": "নিৰ্বাচিত ১০ টা অবৈধ।",
     "in_array": "২০ ত ১০ ক্ষেত্ৰৰ অস্তিত্ব নাই।",
-    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
+    "in_array_keys": ":attribute ক্ষেত্ৰত তলত দিয়া কি'সমূহৰ ভিতৰত এটা অন্ততঃ এটা থাকিব লাগিব: :values।",
     "integer": "১০ টো এটা পূৰ্ণসংখ্যা হ’ব লাগিব।",
     "ip": "১০ টো এটা বৈধ আই পি ঠিকনা হ’ব লাগিব।",
     "ipv4": ":attribute এটা বৈধ IPv4 ঠিকনা হ'ব লাগিব।",

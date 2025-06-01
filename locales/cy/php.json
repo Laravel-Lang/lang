@@ -55,7 +55,7 @@
     "image": "Rhaid i :attribute fod yn lun.",
     "in": "Nid yw :attribute yn ddilys.",
     "in_array": "Y :attribute maes nad yw'n bodoli yn :other.",
-    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
+    "in_array_keys": "Rhaid i'r maes :attribute gynnwys o leiaf un o'r allweddi canlynol: :values.",
     "integer": "Rhaid i :attribute fod yn integer.",
     "ip": "Rhaid i :attribute fod yn gyfeiriad IP dilys.",
     "ipv4": "Y :attribute rhaid iddo fod yn ddilys ar IPv4 cyfeiriad.",

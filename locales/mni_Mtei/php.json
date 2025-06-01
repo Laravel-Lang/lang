@@ -55,7 +55,7 @@
     "image": "꯱꯰ ꯑꯁꯤ ꯏꯃꯦꯖ ꯑꯃꯥ ꯑꯣꯏꯒꯗꯕꯅꯤ꯫",
     "in": "ꯈꯅꯒꯠꯂꯕꯥ ꯱꯰ ꯑꯁꯤ ꯑꯁꯣꯌꯕꯥ ꯑꯃꯅꯤ꯫",
     "in_array": "꯱꯰ꯒꯤ ꯐꯤꯜꯗ ꯑꯁꯤ ꯲꯰ꯗꯥ ꯂꯩꯇꯦ꯫",
-    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
+    "in_array_keys": "ꯐꯤꯜꯗ ꯱꯰ꯗꯥ ꯌꯥꯃꯗ꯭ꯔꯕꯗꯥ ꯃꯈꯥꯗꯥ ꯄꯤꯔꯤꯕꯥ ꯀꯤꯁꯤꯡ ꯑꯁꯤꯒꯤ ꯃꯅꯨꯡꯗꯥ ꯑꯃꯥ ꯌꯥꯑꯣꯒꯗꯕꯅꯤ: ꯲꯰.",
     "integer": "꯱꯰ ꯑꯁꯤ ꯏꯟꯇꯤꯖꯔ ꯑꯃꯥ ꯑꯣꯏꯒꯗꯕꯅꯤ꯫",
     "ip": ":attribute ꯑꯁꯤ ꯆꯠꯅꯕꯥ ꯌꯥꯕꯥ IP ꯑꯦꯗ꯭ꯔꯦꯁ ꯑꯃꯥ ꯑꯣꯏꯒꯗꯕꯅꯤ꯫",
     "ipv4": ":attribute ꯑꯁꯤ ꯆꯠꯅꯕꯥ ꯌꯥꯕꯥ IPv4 ꯑꯦꯗ꯭ꯔꯦꯁ ꯑꯃꯥ ꯑꯣꯏꯒꯗꯕꯅꯤ꯫",

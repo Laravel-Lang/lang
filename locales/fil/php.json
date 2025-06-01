@@ -55,7 +55,7 @@
     "image": "Dapat na isang larawan ang :attribute.",
     "in": "Hindi valid ang piniling :attribute.",
     "in_array": "Hindi umiiral ang field na :attribute sa :other.",
-    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
+    "in_array_keys": "Ang :attribute patlang ay dapat maglaman ng hindi bababa sa isa sa mga sumusunod na susi: :values.",
     "integer": "Dapat na isang integer ang :attribute.",
     "ip": "Dapat na valid na IP address ang :attribute.",
     "ipv4": "Dapat na valid na IPv4 address ang :attribute.",

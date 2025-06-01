@@ -55,7 +55,7 @@
     "image": ":attribute ຕ້ອງເປັນຮູບ.",
     "in": ":attribute ທີ່ເລືອກບໍ່ຖືກຕ້ອງ.",
     "in_array": "ຊ່ອງຂໍ້ມູນ :attribute ບໍ່ມີຢູ່ໃນ :other.",
-    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
+    "in_array_keys": ":attribute ສະຫນາມຕ້ອງມີຢ່າງຫນ້ອຍຫນຶ່ງທີ່ໃຊ້ດັ່ງຕໍ່ໄປນີ້: :values.",
     "integer": ":attribute ຕ້ອງເປັນຈຳນວນເຕັມ.",
     "ip": ":attribute ຕ້ອງເປັນທີ່ຢູ່ IP ທີ່ຖືກຕ້ອງ.",
     "ipv4": ":attribute ຕ້ອງເປັນທີ່ຢູ່ IPv4 ທີ່ຖືກຕ້ອງ.",

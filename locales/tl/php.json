@@ -55,7 +55,7 @@
     "image": "Ang :attribute ay dapat isang imahe.",
     "in": "Ang piniling :attribute ay imbalido.",
     "in_array": "Ang :attribute ng attribute ay wala sa :other.",
-    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
+    "in_array_keys": "Ang :attribute patlang ay dapat maglaman ng hindi bababa sa isa sa mga sumusunod na susi: :values.",
     "integer": "Ang :attribute ay dapat isang integer.",
     "ip": "Ang :attribute ay dapat isang balidong IP address.",
     "ipv4": "Ang :attribute ay dapat na isang wastong Ipbagong address.",

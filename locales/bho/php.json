@@ -55,7 +55,7 @@
     "image": ":attribute गो के छवि होखे के चाहीं.",
     "in": "चुनल गइल :attribute गो अमान्य बा.",
     "in_array": ":attribute के फील्ड :other में मौजूद नइखे।",
-    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
+    "in_array_keys": ":attribute फील्ड में निम्नलिखित में से कम से कम एगो कुंजी होखे के चाहीं: :values.",
     "integer": ":attribute के एगो पूर्णांक होखे के चाहीं।",
     "ip": ":attribute के वैध आईपी पता होखे के चाहीं।",
     "ipv4": ":attribute के वैध आईपीवी 4 पता होखे के चाहीं।",

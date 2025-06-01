@@ -53,7 +53,7 @@
     "image": "Musí byť obrázok.",
     "in": "Hodnota nieje v zozname povolených hodnôt.",
     "in_array": "Táto hodnota sa nenachádza v :other.",
-    "in_array_keys": "This field must contain at least one of the following keys: :values.",
+    "in_array_keys": "Toto pole musí obsahovať aspoň jeden z nasledujúcich kľúčov: :values.",
     "integer": "Toto pole musí byť celé číslo.",
     "ip": "Toto pole musí byť platná IP adresa.",
     "ipv4": "Toto pole musí byť platná IPv4 adresa.",

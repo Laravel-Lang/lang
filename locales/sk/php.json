@@ -55,7 +55,7 @@
     "image": ":Attribute musí byť obrázok.",
     "in": "Hodnota :attribute nieje v zozname povolených hodnôt.",
     "in_array": ":Attribute sa nenachádza v :other.",
-    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
+    "in_array_keys": ":attribute poľa musí obsahovať aspoň jeden z nasledujúcich kľúčov: :values.",
     "integer": ":Attribute musí byť celé číslo.",
     "ip": ":Attribute musí byť platná IP adresa.",
     "ipv4": ":Attribute musí byť platná IPv4 adresa.",

@@ -55,7 +55,7 @@
     "image": "I-:attribute kufanele ibe isithombe.",
     "in": "Okukhethiwe okungu-:attribute akuvumelekile.",
     "in_array": "Inkambu ye-:attribute ayikho ku-:other.",
-    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
+    "in_array_keys": "Inkambu eyi-:attribute kufanele ibe okungenani nenye yezinkinobho ezilandelayo: :values.",
     "integer": "U-:attribute kufanele ube inombolo ephelele.",
     "ip": "I-:attribute kufanele ibe ikheli le-IP elivumelekile.",
     "ipv4": "I-:attribute kufanele kube ikheli le-IPv4 elivumelekile.",

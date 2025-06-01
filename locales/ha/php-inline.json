@@ -53,7 +53,7 @@
     "image": "Dole ne wannan filin ya zama hoto.",
     "in": "Filin da aka zaɓa bai aiki ba.",
     "in_array": "Babu wannan filin a cikin :other.",
-    "in_array_keys": "This field must contain at least one of the following keys: :values.",
+    "in_array_keys": "Wannan filin dole ne ya ƙunshi aƙalla maɓallan masu zuwa: :values.",
     "integer": "Dole ne wannan filin ya zama lamba.",
     "ip": "Dole ne wannan filin ya zama ingantaccen adireshin IP.",
     "ipv4": "Dole ne wannan filin ya zama ingantaccen adireshin IPv4.",

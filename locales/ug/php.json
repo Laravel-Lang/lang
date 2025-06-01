@@ -55,7 +55,7 @@
     "image": ":Attribute چوقۇم رەسىم ھۆججىتى بۇلىشى كېرەك.",
     "in": "تاللانغان قىممەت :attribute ئىناۋەتسىز",
     "in_array": ":Attribute :other نىڭ ئىچىدە ئەمەس.",
-    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
+    "in_array_keys": ":attribute مەيدان تۆۋەندىكى كۇنۇپكىلارنىڭ كەم دېگەندە بىرى بولۇشى كېرەك: :values.",
     "integer": ":Attribute چوقۇم پۈتۈن سان بۇلىشى كېرەك",
     "ip": ":Attribute چوقۇم ئىناۋەتلىك IP ئادىرىسى بۇلىشى كېرەك.",
     "ipv4": ":Attribute چوقۇم ئىناۋەتلىك IPv4 ئادىرىسى بۇلىشى كېرەك.",

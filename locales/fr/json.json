@@ -846,7 +846,7 @@
     "Your current payment method is a credit card ending in :lastFour that expires on :expiration.": "Votre mode de paiement actuel est une carte de crédit se terminant par :lastFour qui expire le :expiration.",
     "Your email address is unverified.": "Votre adresse e-mail n'est pas vérifiée.",
     "Your last payment of :amount failed. Please update your payment method to retry the failed payment.": "Votre dernier paiement de :amount échoué. Veuillez mettre à jour votre mode de paiement pour réessayer le paiement ayant échoué.",
-    "Your last payment of :amount on :date failed. Please update your payment method to retry the failed payment.": "Votre dernier paiement de :amount sur :date a échoué. Veuillez mettre à jour votre mode de paiement pour réessayer le paiement ayant échoué.",
+    "Your last payment of :amount on :date failed. Please update your payment method to retry the failed payment.": "Votre dernier paiement de :amount le :date a échoué. Veuillez mettre à jour votre mode de paiement pour réessayer le paiement ayant échoué.",
     "Your next payment of :amount will be processed on :date.": "Votre prochain paiement de :amount sera débité le :date.",
     "Your payment method has been added successfully.": "Votre mode de paiement a été ajouté avec succès.",
     "Your payment method will be charged automatically for each billing period.": "Votre mode de paiement sera débité automatiquement pour chaque période de facturation.",

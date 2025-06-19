@@ -4,12 +4,12 @@ editLink: false
 
 # fr
 
-##### All missed: 41
+##### All missed: 33
 
 
 ### json
 
-##### Missing: 33
+##### Missing: 25
 
 <table width="100%">
 <tr><th width="50%">
@@ -158,42 +158,6 @@ If you need to add specific contact or tax information to your invoices, like yo
 </td></tr>
 <tr><td width="50%">
 
-Invalid filename.
-
-</td><td width="50%">
-
-Invalid filename.
-
-</td></tr>
-<tr><td width="50%">
-
-Invoice Email Addresses
-
-</td><td width="50%">
-
-Invoice Email Addresses
-
-</td></tr>
-<tr><td width="50%">
-
-Invoice emails updated successfully.
-
-</td><td width="50%">
-
-Invoice emails updated successfully.
-
-</td></tr>
-<tr><td width="50%">
-
-Invoices
-
-</td><td width="50%">
-
-Invoices
-
-</td></tr>
-<tr><td width="50%">
-
 length
 
 </td><td width="50%">
@@ -266,15 +230,6 @@ The selected resources have been :action!
 </td></tr>
 <tr><td width="50%">
 
-This payment was initiated, but the funds have not been received yet. This can take up to 14 days.
-
-</td><td width="50%">
-
-This payment was initiated, but the funds have not been received yet. This can take up to 14 days.
-
-</td></tr>
-<tr><td width="50%">
-
 User Security
 
 </td><td width="50%">
@@ -289,33 +244,6 @@ Username
 </td><td width="50%">
 
 Username
-
-</td></tr>
-<tr><td width="50%">
-
-We will send an invoice download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
-
-</td><td width="50%">
-
-We will send an invoice download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
-
-</td></tr>
-<tr><td width="50%">
-
-Your last payment of :amount failed. Please update your payment method to retry the failed payment.
-
-</td><td width="50%">
-
-Your last payment of :amount failed. Please update your payment method to retry the failed payment.
-
-</td></tr>
-<tr><td width="50%">
-
-Your subscription has been successfully cancelled. You will still have access until the end of your billing period.
-
-</td><td width="50%">
-
-Your subscription has been successfully cancelled. You will still have access until the end of your billing period.
 
 </td></tr>
 </table>

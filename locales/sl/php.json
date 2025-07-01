@@ -55,7 +55,7 @@
     "image": ":Attribute mora biti slika.",
     "in": "izbran :attribute je neveljaven.",
     "in_array": ":Attribute ne obstaja v :other.",
-    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
+    "in_array_keys": "Polje :attribute mora vsebovati vsaj enega od naslednjih tipk: :values.",
     "integer": ":Attribute mora biti število.",
     "ip": ":Attribute mora biti veljaven IP naslov.",
     "ipv4": ":Attribute mora biti veljaven IPv4 naslov.",

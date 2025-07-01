@@ -55,7 +55,7 @@
     "image": "Iwo gumi anofanira kunge ari mufananidzo.",
     "in": "Gumi rakasarudzwa harishandi.",
     "in_array": "Munda wegumi haupo mu:other.",
-    "in_array_keys": "The :attribute field must contain at least one of the following keys: :values.",
+    "in_array_keys": "Iyo :attribute munda inofanira kunge iine imwe yekiyi inotevera: :values.",
     "integer": "Iwo gumi anofanira kunge ari nhamba yakazara.",
     "ip": "Iyo gumi inofanira kunge iri kero yeIP inoshanda.",
     "ipv4": "Iyo gumi inofanira kunge iri kero yeIPv4 inoshanda.",

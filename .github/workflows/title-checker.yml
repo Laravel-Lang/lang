@@ -1,8 +1,8 @@
-name: Title Checker
+name: Title
 
 on:
   pull_request:
 
 jobs:
-  check:
+  Check:
     uses: Laravel-Lang/.github/.github/workflows/title-checker.yml@main

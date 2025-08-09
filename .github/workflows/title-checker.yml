@@ -7,6 +7,8 @@ on:
       - opened
       - edited
       - synchronize
+      - labeled
+      - unlabeled
 
 jobs:
   Check:

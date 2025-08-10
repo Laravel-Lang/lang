@@ -114,7 +114,6 @@ jobs:
 
             -   name: Install dependencies
                 run: |
-                    composer global require dragon-code/codestyler
                     composer config repositories.nova composer ${{ secrets.LARAVEL_REPOSITORY }}
                     composer require laravel/nova:^${{ matrix.nova.version }}
 
@@ -129,7 +128,7 @@ jobs:
                     git checkout HEAD -- composer.json
 
             -   name: Code-Style
-                run: codestyle
+                run: composer style
 
             -   name: Create a Pull Request
                 uses: peter-evans/create-pull-request@v7

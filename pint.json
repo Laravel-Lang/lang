@@ -1,0 +1,85 @@
+{
+    "preset": "laravel",
+    "rules": {
+        "@PHP71Migration": true,
+        "@PHP73Migration": true,
+        "@PHP74Migration": true,
+        "@PHP80Migration": true,
+        "@PHP81Migration": true,
+        "@PHP82Migration": true,
+        "@PHP83Migration": true,
+        "@PHP84Migration": true,
+        "concat_space": {
+            "spacing": "one"
+        },
+        "blank_line_before_statement": {
+            "statements": [
+                "declare",
+                "phpdoc",
+                "continue",
+                "return"
+            ]
+        },
+        "class_attributes_separation": {
+            "elements": {
+                "case": "none",
+                "const": "none",
+                "method": "one",
+                "property": "one",
+                "trait_import": "none"
+            }
+        },
+        "class_definition": {
+            "multi_line_extends_each_single_line": true,
+            "single_item_single_line": true,
+            "single_line": true,
+            "space_before_parenthesis": true
+        },
+        "combine_consecutive_issets": true,
+        "combine_consecutive_unsets": true,
+        "braces_position": {
+            "allow_single_line_anonymous_functions": true,
+            "allow_single_line_empty_anonymous_classes": true,
+            "anonymous_classes_opening_brace": "same_line"
+        },
+        "escape_implicit_backslashes": {
+            "double_quoted": true,
+            "heredoc_syntax": true,
+            "single_quoted": false
+        },
+        "global_namespace_import": {
+            "import_classes": true,
+            "import_constants": true,
+            "import_functions": true
+        },
+        "multiline_comment_opening_closing": true,
+        "no_superfluous_elseif": true,
+        "no_useless_else": true,
+        "operator_linebreak": {
+            "only_booleans": false
+        },
+        "ordered_types": {
+            "null_adjustment": "always_last",
+            "sort_algorithm": "alpha"
+        },
+        "phpdoc_line_span": {
+            "const": "single",
+            "method": "multi",
+            "property": "single"
+        },
+        "return_assignment": true,
+        "simplified_if_return": true,
+        "phpdoc_param_order": true,
+        "fully_qualified_strict_types": true,
+        "declare_strict_types": true,
+        "types_spaces": {
+            "space_multiple_catch": "none"
+        },
+        "binary_operator_spaces": {
+            "default": "align_single_space_minimal"
+        },
+        "php_unit_method_casing": {
+            "case": "camel_case"
+        }
+    }
+}

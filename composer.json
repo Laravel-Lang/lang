@@ -24,6 +24,7 @@
         "laravel-lang/publisher": "^16.0"
     },
     "require-dev": {
+        "dragon-code/codestyler": "^6.0",
         "laravel-lang/status-generator": "^2.11",
         "phpunit/phpunit": "^10.0 || ^11.0 || ^12.0",
         "symfony/var-dumper": "^7.0"
@@ -46,7 +47,6 @@
     "config": {
         "allow-plugins": {
             "composer/package-versions-deprecated": true,
-            "dragon-code/codestyler": true,
             "ergebnis/composer-normalize": true,
             "php-http/discovery": true,
             "symfony/thanks": true
@@ -60,5 +60,13 @@
                 "LaravelLang\\Lang\\ServiceProvider"
             ]
         }
+    },
+    "scripts": {
+        "post-update-cmd": [
+            "cp vendor/dragon-code/codestyler/presets/pint/8.4.json pint.json",
+            "cp vendor/dragon-code/codestyler/.editorconfig .editorconfig",
+            "composer normalize"
+        ],
+        "style": "vendor/bin/pint --parallel"
     }
 }

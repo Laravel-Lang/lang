@@ -4,7 +4,7 @@ editLink: false
 
 # el
 
-##### All missed: 33
+##### All missed: 35
 
 
 ### json
@@ -254,7 +254,7 @@ We will send an invoice download link to the email addresses that you specify be
 
 ### php-inline
 
-##### Missing: 4
+##### Missing: 5
 
 <table width="100%">
 <tr><th width="50%">
@@ -273,6 +273,15 @@ any_of
 </td><td width="50%">
 
 This field is invalid.
+
+</td></tr>
+<tr><td width="50%">
+
+doesnt_contain
+
+</td><td width="50%">
+
+This field must not contain any of the following: :values.
 
 </td></tr>
 <tr><td width="50%">
@@ -310,7 +319,7 @@ This field is prohibited when :other is declined.
 
 ### php
 
-##### Missing: 4
+##### Missing: 5
 
 <table width="100%">
 <tr><th width="50%">
@@ -329,6 +338,15 @@ any_of
 </td><td width="50%">
 
 The :attribute field is invalid.
+
+</td></tr>
+<tr><td width="50%">
+
+doesnt_contain
+
+</td><td width="50%">
+
+The :attribute field must not contain any of the following: :values.
 
 </td></tr>
 <tr><td width="50%">

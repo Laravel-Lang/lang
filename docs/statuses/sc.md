@@ -4,7 +4,7 @@ editLink: false
 
 # sc
 
-##### All missed: 944
+##### All missed: 946
 
 
 ### json-inline
@@ -7692,7 +7692,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 58
+##### Missing: 59
 
 <table width="100%">
 <tr><th width="50%">
@@ -7828,6 +7828,15 @@ distinct
 </td><td width="50%">
 
 This field has a duplicate value.
+
+</td></tr>
+<tr><td width="50%">
+
+doesnt_contain
+
+</td><td width="50%">
+
+This field must not contain any of the following: :values.
 
 </td></tr>
 <tr><td width="50%">
@@ -8234,7 +8243,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 37
+##### Missing: 38
 
 <table width="100%">
 <tr><th width="50%">
@@ -8298,6 +8307,15 @@ distinct
 </td><td width="50%">
 
 The :attribute field has a duplicate value.
+
+</td></tr>
+<tr><td width="50%">
+
+doesnt_contain
+
+</td><td width="50%">
+
+The :attribute field must not contain any of the following: :values.
 
 </td></tr>
 <tr><td width="50%">

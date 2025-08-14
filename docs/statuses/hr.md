@@ -4,7 +4,7 @@ editLink: false
 
 # hr
 
-##### All missed: 5
+##### All missed: 7
 
 
 ### json
@@ -38,7 +38,7 @@ OK
 
 ### php-inline
 
-##### Missing: 2
+##### Missing: 3
 
 <table width="100%">
 <tr><th width="50%">
@@ -61,6 +61,15 @@ This field is invalid.
 </td></tr>
 <tr><td width="50%">
 
+doesnt_contain
+
+</td><td width="50%">
+
+This field must not contain any of the following: :values.
+
+</td></tr>
+<tr><td width="50%">
+
 in_array_keys
 
 </td><td width="50%">
@@ -76,7 +85,7 @@ This field must contain at least one of the following keys: :values.
 
 ### php
 
-##### Missing: 2
+##### Missing: 3
 
 <table width="100%">
 <tr><th width="50%">
@@ -95,6 +104,15 @@ any_of
 </td><td width="50%">
 
 The :attribute field is invalid.
+
+</td></tr>
+<tr><td width="50%">
+
+doesnt_contain
+
+</td><td width="50%">
+
+The :attribute field must not contain any of the following: :values.
 
 </td></tr>
 <tr><td width="50%">

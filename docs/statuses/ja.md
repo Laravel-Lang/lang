@@ -4,12 +4,12 @@ editLink: false
 
 # ja
 
-##### All missed: 2
+##### All missed: 4
 
 
 ### php-inline
 
-##### Missing: 1
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,6 +21,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+doesnt_contain
+
+</td><td width="50%">
+
+This field must not contain any of the following: :values.
+
+</td></tr>
 <tr><td width="50%">
 
 in_array_keys
@@ -38,7 +47,7 @@ This field must contain at least one of the following keys: :values.
 
 ### php
 
-##### Missing: 1
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -50,6 +59,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+doesnt_contain
+
+</td><td width="50%">
+
+The :attribute field must not contain any of the following: :values.
+
+</td></tr>
 <tr><td width="50%">
 
 in_array_keys

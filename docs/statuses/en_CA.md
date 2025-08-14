@@ -4,7 +4,7 @@ editLink: false
 
 # en_CA
 
-##### All missed: 1154
+##### All missed: 1156
 
 
 ### json-inline
@@ -7926,7 +7926,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 134
+##### Missing: 135
 
 <table width="100%">
 <tr><th width="50%">
@@ -8233,6 +8233,15 @@ distinct
 </td><td width="50%">
 
 This field has a duplicate value.
+
+</td></tr>
+<tr><td width="50%">
+
+doesnt_contain
+
+</td><td width="50%">
+
+This field must not contain any of the following: :values.
 
 </td></tr>
 <tr><td width="50%">
@@ -9152,7 +9161,7 @@ This field must be a valid UUID.
 
 ### php
 
-##### Missing: 145
+##### Missing: 146
 
 <table width="100%">
 <tr><th width="50%">
@@ -9468,6 +9477,15 @@ distinct
 </td><td width="50%">
 
 The :attribute field has a duplicate value.
+
+</td></tr>
+<tr><td width="50%">
+
+doesnt_contain
+
+</td><td width="50%">
+
+The :attribute field must not contain any of the following: :values.
 
 </td></tr>
 <tr><td width="50%">

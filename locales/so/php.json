@@ -33,6 +33,7 @@
     "digits_between": ":attributeka waa in uu u dhexeeyaa :min iyo :max nambar.",
     "dimensions": ":attributeku wuxuu leeyahay cabbir muuqaaleed aan sax ahayn.",
     "distinct": ":attributeka garoon waxa uu leeyahay qiimo nuqul ah.",
+    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
     "doesnt_end_with": ":attributeka garoon waa inuusan ku dhamaanin mid ka mid ah kuwan soo socda: :values.",
     "doesnt_start_with": ":attributeka garoon waa inuusan ku bilaaban mid ka mid ah kuwan soo socda: :values.",
     "email": ":attributeku waa inuu noqdaa ciwaan email sax ah",

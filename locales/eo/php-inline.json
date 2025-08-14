@@ -32,6 +32,7 @@
     "digits_between": "Ĉi tiu kampo devas esti inter :min kaj :max ciferoj.",
     "dimensions": "Ĉi tiu kampo havas nevalidajn bildajn dimensiojn.",
     "distinct": "Ĉi tiu kampo havas duplikatan valoron.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "Ĉi tiu kampo ne devas finiĝi per unu el la jenaj: :values.",
     "doesnt_start_with": "Ĉi tiu kampo ne devas komenciĝi per unu el la jenaj: :values.",
     "email": "Ĉi tiu kampo devas esti valida retadreso.",

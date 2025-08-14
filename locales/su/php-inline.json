@@ -32,6 +32,7 @@
     "digits_between": "Widang ieu kedah antara :min sareng :max digit.",
     "dimensions": "Widang ieu gaduh dimensi gambar anu teu valid.",
     "distinct": "Widang ieu gaduh nilai duplikat.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "Widang ieu teu kedah ditungtungan ku salah sahiji ieu: :values.",
     "doesnt_start_with": "Widang ieu teu kedah dimimitian ku salah sahiji ieu: :values.",
     "email": "Widang ieu kedah janten alamat email anu sah.",

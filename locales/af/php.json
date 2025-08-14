@@ -33,6 +33,7 @@
     "digits_between": "Die :attribute moet tussen :min en :max syfers wees.",
     "dimensions": "Die :attribute het ongeldige beeldafmetings.",
     "distinct": "Die :attribute veld het 'n duplikaatwaarde.",
+    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
     "doesnt_end_with": "Die :attribute mag nie eindig met een van die volgende nie: :values.",
     "doesnt_start_with": "Die :attribute mag nie met een van die volgende begin nie: :values.",
     "email": "Die :attribute moet geldige epos adres wees.",

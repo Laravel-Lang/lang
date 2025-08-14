@@ -32,6 +32,7 @@
     "digits_between": "Bu :min və :max rəqəmlər arasında olmalıdır.",
     "dimensions": "Bu şəkil etibarsız ölçülərə malikdir.",
     "distinct": "Bu sahədə bir təkrarlanan dəyəri var.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "Bu sahə aşağıdakılardan biri ilə bitməyə bilər: :values.",
     "doesnt_start_with": "Bu sahə aşağıdakılardan biri ilə başlaya bilməz: :values.",
     "email": "Bu etibarlı e-mail olmalıdır.",

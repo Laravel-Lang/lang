@@ -32,6 +32,7 @@
     "digits_between": "Ce champ doit contenir entre :min et :max chiffres.",
     "dimensions": "La taille de l'image n'est pas conforme.",
     "distinct": "Ce champ a une valeur en double.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "Ce champ ne doit pas finir avec une des valeurs suivantes : :values.",
     "doesnt_start_with": "Ce champ ne doit pas commencer avec une des valeurs suivantes : :values.",
     "email": "Ce champ doit être une adresse e-mail valide.",

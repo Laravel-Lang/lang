@@ -33,6 +33,7 @@
     "digits_between": ":attribute ຕ້ອງຢູ່ລະຫວ່າງ :min ຫາ :max ຕົວເລກ.",
     "dimensions": ":attribute ມີຂະຫນາດຮູບພາບທີ່ບໍ່ຖືກຕ້ອງ.",
     "distinct": "ຊ່ອງຂໍ້ມູນ :attribute ມີມູນຄ່າຊໍ້າກັນ.",
+    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
     "doesnt_end_with": ":attribute ພາກສະຫນາມຕ້ອງບໍ່ສິ້ນສຸດດ້ວຍຫນຶ່ງໃນດັ່ງຕໍ່ໄປນີ້: :values.",
     "doesnt_start_with": ":attribute ພາກສະຫນາມຕ້ອງບໍ່ເລີ່ມຕົ້ນດ້ວຍຫນຶ່ງໃນດັ່ງຕໍ່ໄປນີ້: :values.",
     "email": ":attribute ຕ້ອງເປັນທີ່ຢູ່ອີເມວທີ່ຖືກຕ້ອງ.",

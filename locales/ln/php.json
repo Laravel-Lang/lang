@@ -33,6 +33,7 @@
     "digits_between": "Ba chiffres :attribute esengeli kozala entre :min na :max chiffres.",
     "dimensions": "Ba :attribute ezali na ba dimensions ya image invalide.",
     "distinct": "Esika ya :attribute ezali na motuya ya mbala mibale.",
+    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
     "doesnt_end_with": "Esengeli te ete esika ya :attribute esila na moko ya makambo oyo elandi: :values.",
     "doesnt_start_with": "Esengeli te ete esika ya :attribute ebanda na moko ya makambo oyo elandi: :values.",
     "email": "Ba :attribute esengeli kozala adresse email ya valide.",

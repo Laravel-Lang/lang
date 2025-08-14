@@ -33,6 +33,7 @@
     "digits_between": "Chay :attribute nisqakunaqa :minmanta :max yupaykamam kanan.",
     "dimensions": ":attribute kaq mana allin siq'i dimensionesniyuq.",
     "distinct": ":attribute pampaqa iskay kuti chaniyuqmi.",
+    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
     "doesnt_end_with": ":attribute chakraqa manam kaykunamanta hukninwanchu tukunan: :values.",
     "doesnt_start_with": ":attribute chakraqa manam kaykunamanta hukninwanchu qallarina: :values.",
     "email": "Chay :attribute nisqakunaqa allin correo electrónico nisqa kanan.",

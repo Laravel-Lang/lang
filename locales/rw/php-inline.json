@@ -32,6 +32,7 @@
     "digits_between": "Uyu murima ugomba kuba uri hagati yimibare :min na :max.",
     "dimensions": "Uyu murima ufite ibipimo byamashusho bitemewe.",
     "distinct": "Uyu murima ufite agaciro kabili.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "Uyu murima ntugomba kurangirana numwe muribi bikurikira: :values.",
     "doesnt_start_with": "Uyu murima ntugomba gutangirana numwe muribi bikurikira: :values.",
     "email": "Uyu murima ugomba kuba aderesi imeri yemewe.",

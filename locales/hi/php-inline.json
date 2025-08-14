@@ -32,6 +32,7 @@
     "digits_between": "यह :min और :max अंकों के बीच होना चाहिए ।",
     "dimensions": "इस छवि में अमान्य आयाम हैं ।",
     "distinct": "इस फ़ील्ड में डुप्लिकेट मान है ।",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "यह क्षेत्र निम्न में से किसी एक के साथ समाप्त नहीं हो सकता है: :values।",
     "doesnt_start_with": "यह फ़ील्ड निम्न में से किसी एक के साथ प्रारंभ नहीं हो सकता है: :values।",
     "email": "यह एक मान्य ईमेल पता होना चाहिए ।",

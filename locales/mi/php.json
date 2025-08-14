@@ -33,6 +33,7 @@
     "digits_between": "Me noho te :attribute i waenga i te :min me te :max mati.",
     "dimensions": "He muhu te ahua o te :attribute.",
     "distinct": "He uara tārite te āpure :attribute.",
+    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
     "doesnt_end_with": "Kaua e mutu te mara :attribute ki tetahi o enei e whai ake nei: :values.",
     "doesnt_start_with": "Kaua e timata te mara :attribute ki tetahi o enei e whai ake nei: :values.",
     "email": "Ko te :attribute he wahitau imeera whaimana.",

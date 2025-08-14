@@ -32,6 +32,7 @@
     "digits_between": "ఈ ఫీల్డ్ తప్పనిసరిగా :min మరియు :max అంకెల మధ్య ఉండాలి.",
     "dimensions": "ఈ ఫీల్డ్ చెల్లని చిత్ర కొలతలు కలిగి ఉంది.",
     "distinct": "ఈ ఫీల్డ్ నకిలీ విలువను కలిగి ఉంది.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "ఈ ఫీల్డ్ కింది వాటిలో ఒకదానితో ముగియకూడదు: :values.",
     "doesnt_start_with": "ఈ ఫీల్డ్ కింది వాటిలో ఒకదానితో ప్రారంభం కాకూడదు: :values.",
     "email": "ఈ ఫీల్డ్ తప్పనిసరిగా చెల్లుబాటు అయ్యే ఇమెయిల్ చిరునామా అయి ఉండాలి.",

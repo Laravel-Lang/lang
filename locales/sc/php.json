@@ -33,6 +33,7 @@
     "digits_between": ":Attribute depet èssere intre :min e :max tzifras.",
     "dimensions": "The :attribute has invalid image dimensions.",
     "distinct": "The :attribute field has a duplicate value.",
+    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
     "doesnt_end_with": "The :attribute may not end with one of the following: :values.",
     "doesnt_start_with": "The :attribute may not start with one of the following: :values.",
     "email": ":Attribute no est bàlidu.",

@@ -32,6 +32,7 @@
     "digits_between": "The value must be between :min and :max digits.",
     "dimensions": "The content has invalid dimensions.",
     "distinct": "This field contains a duplicate value.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "The string must not end with one of the following: :values.",
     "doesnt_start_with": "The string must not start with one of the following: :values.",
     "email": "The value must be a valid email address.",

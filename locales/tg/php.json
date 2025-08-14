@@ -33,6 +33,7 @@
     "digits_between": "Қиммати :attribute бояд байни :min ва :max рақам дошта бошад.",
     "dimensions": "Қиммати :attribute дорои андозаи расми нодуруст мебошад.",
     "distinct": ":Attribute дорои қиммати такроршаванда мебошад.",
+    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
     "doesnt_end_with": ":Attribute метавонад бо яке аз зерин хотима наёбад: :values.",
     "doesnt_start_with": ":Attribute метавонад бо яке аз инҳо оғоз нашавад: :values.",
     "email": "Қиммати :attribute бояд суроғаи электронии дуруст бошад.",

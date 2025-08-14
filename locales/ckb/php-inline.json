@@ -32,6 +32,7 @@
     "digits_between": "ئەم بوارە دەبێت لە نێوان ١٠ بۆ ٢٠ ژمارە بێت.",
     "dimensions": "ئەم بوارە ڕەهەندەکانی وێنەی نادروستی هەیە.",
     "distinct": "ئەم بوارە بەهایەکی دووبارەی هەیە.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "ئەم بوارە نابێت بە یەکێک لەمانەی خوارەوە کۆتایی بێت: :values.",
     "doesnt_start_with": "ئەم بوارە نابێت بە یەکێک لەمانەی خوارەوە دەست پێ بکات: :values.",
     "email": "ئەم بوارە دەبێت ناونیشانی ئیمەیڵێکی دروست بێت.",

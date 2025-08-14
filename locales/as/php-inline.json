@@ -32,6 +32,7 @@
     "digits_between": "এই ক্ষেত্ৰখন ১০ৰ পৰা ২০ সংখ্যাৰ ভিতৰত হ’ব লাগিব।",
     "dimensions": "এই ক্ষেত্ৰত অবৈধ ছবিৰ মাত্ৰা আছে।",
     "distinct": "এই ক্ষেত্ৰখনৰ এটা নকল মান আছে।",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "এই ক্ষেত্ৰখন নিম্নলিখিতৰ এটাৰ সৈতে শেষ হ'ব নালাগে: :values.",
     "doesnt_start_with": "এই ক্ষেত্ৰখন নিম্নলিখিতৰ এটাৰ পৰা আৰম্ভ হ'ব নালাগে: :values.",
     "email": "এই ক্ষেত্ৰখন এটা বৈধ ইমেইল ঠিকনা হ'ব লাগিব।",

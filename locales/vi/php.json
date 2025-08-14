@@ -33,6 +33,7 @@
     "digits_between": "Độ dài của trường :attribute phải nằm trong khoảng :min - :max chữ số.",
     "dimensions": "Trường :attribute có kích thước không hợp lệ.",
     "distinct": "Trường :attribute có giá trị trùng lặp.",
+    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
     "doesnt_end_with": "Trường :attribute không được kết thúc bằng một trong những điều kiện sau: :values.",
     "doesnt_start_with": "Trường :attribute không được bắt đầu bằng một trong những điều sau: :values.",
     "email": "Trường :attribute phải là một địa chỉ email hợp lệ.",

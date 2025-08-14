@@ -32,6 +32,7 @@
     "digits_between": "Dole ne wannan filin ya kasance tsakanin lambobi :min zuwa :max.",
     "dimensions": "Wannan filin yana da girman hoto mara inganci.",
     "distinct": "Wannan filin yana da kwafin ƙima.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "Wannan fili kada ya ƙare da ɗayan waɗannan: :values.",
     "doesnt_start_with": "Dole ne kada a fara wannan filin da ɗayan waɗannan: :values.",
     "email": "Dole ne wannan filin ya zama ingantaccen adireshin imel.",

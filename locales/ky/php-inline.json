@@ -32,6 +32,7 @@
     "digits_between": "Бул талаа :min жана :max сандын ортосунда болушу керек.",
     "dimensions": "Бул талаада жараксыз сүрөт өлчөмдөрү бар.",
     "distinct": "Бул талаанын кайталанган мааниси бар.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "Бул талаа төмөнкүлөрдүн бири менен аяктабашы керек: :values.",
     "doesnt_start_with": "Бул талаа төмөнкүлөрдүн бири менен башталбашы керек: :values.",
     "email": "Бул талаа жарактуу электрондук почта дареги болушу керек.",

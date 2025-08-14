@@ -33,6 +33,7 @@
     "digits_between": ":Attribute :min देखी :max अंकको हुनुपर्छ।",
     "dimensions": ":Attribute अमान्य छवि आयाम छ।",
     "distinct": ":Attribute फिल्ड फिल्डको नक्कल मान छ",
+    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
     "doesnt_end_with": ":Attribute निम्न मध्ये एक संग समाप्त नहुन सक्छ: :values।",
     "doesnt_start_with": ":Attribute निम्न मध्ये एकबाट सुरु नहुन सक्छ: :values।",
     "email": ":Attribute को इमेल ठेगाना मिलेन।",

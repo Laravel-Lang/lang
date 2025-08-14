@@ -33,6 +33,7 @@
     "digits_between": "Ang :attribute ay dapat na nasa pagitan ng :min at :max (na) digit.",
     "dimensions": "May mga hindi valid na dimensyon ng larawan ang :attribute.",
     "distinct": "May duplicate na value ang field na :attribute.",
+    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
     "doesnt_end_with": "Ang :attribute ay maaaring hindi magtapos sa isa sa mga sumusunod: :values.",
     "doesnt_start_with": "Ang :attribute ay maaaring hindi magsimula sa isa sa mga sumusunod: :values.",
     "email": "Dapat na valid na email address ang :attribute.",

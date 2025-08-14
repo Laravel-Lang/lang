@@ -32,6 +32,7 @@
     "digits_between": "Dit veld moet bestaan uit minimaal :min en maximaal :max cijfers.",
     "dimensions": "Deze afbeelding heeft geen geldige afmetingen.",
     "distinct": "Dit veld heeft een dubbele waarde.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "Dit veld mag niet eindigen met één van de volgende waarden: :values.",
     "doesnt_start_with": "Dit veld mag niet beginnen met één van de volgende waarden: :values.",
     "email": "Dit veld is geen geldig e-mailadres.",

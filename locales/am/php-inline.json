@@ -32,6 +32,7 @@
     "digits_between": "ይህ መስክ በ:min እና :max አሃዞች መካከል መሆን አለበት።",
     "dimensions": "ይህ መስክ ልክ ያልሆኑ የምስል ልኬቶች አሉት።",
     "distinct": "ይህ መስክ የተባዛ እሴት አለው።",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "ይህ መስክ ከሚከተሉት በአንዱ ማለቅ የለበትም፡ :values.",
     "doesnt_start_with": "ይህ መስክ ከሚከተሉት በአንዱ መጀመር የለበትም፡ :values.",
     "email": "ይህ መስክ ትክክለኛ የኢሜይል አድራሻ መሆን አለበት።",

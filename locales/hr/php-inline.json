@@ -32,6 +32,7 @@
     "digits_between": "Ovo polje mora sadržavati između :min i :max znamenki.",
     "dimensions": "Ovo polje ima nevažeće dimenzije slike.",
     "distinct": "Ovo polje ima ponavljajuće značenje.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "Ovo polje ne smije završavati s jednom od sljedećih vrijednosti: :values.",
     "doesnt_start_with": "Ovo polje ne smije započinjati s jednom od sljedećih vrijednosti: :values.",
     "email": "Ovo polje mora sadržavati valjanu e-mail adresu.",

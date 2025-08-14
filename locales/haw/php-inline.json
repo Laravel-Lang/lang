@@ -32,6 +32,7 @@
     "digits_between": "Pono kēia kahua ma waena o :min a :max mau huahelu.",
     "dimensions": "He kūpono ʻole nā ​​ana kiʻi o kēia kahua.",
     "distinct": "Loaʻa i kēia kahua kahi waiwai pālua.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "ʻAʻole pono e pau kēia kahua me kekahi o kēia mau mea: :values.",
     "doesnt_start_with": "ʻAʻole pono e hoʻomaka kēia kahua me kekahi o kēia mau mea: :values.",
     "email": "Pono kēia kahua he leka uila kūpono.",

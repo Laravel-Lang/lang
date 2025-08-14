@@ -32,6 +32,7 @@
     "digits_between": "Kay pampaqa :minmanta :max yupaykamam kanan.",
     "dimensions": "Kay pampaqa mana allin siq'i dimensionesniyuqmi.",
     "distinct": "Kay pampaqa iskay kuti chaniyuqmi.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "Kay chakraqa manam kaykunamanta hukninwanchu tukunan: :values.",
     "doesnt_start_with": "Kay chakraqa manam kaykunamanta hukninwanchu qallarina: :values.",
     "email": "Kay pampaqa allin correo electrónico nisqa kanan tiyan.",

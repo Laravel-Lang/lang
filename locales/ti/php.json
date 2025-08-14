@@ -33,6 +33,7 @@
     "digits_between": "እቶም :attribute ካብ :min ክሳብ :max ኣሃዛት ክኾኑ ኣለዎም።",
     "dimensions": "እቲ :attribute ዘይሕጋዊ መለክዒታት ምስሊ ኣለዎ።",
     "distinct": "እቲ :attribute ዝብል ዓውዲ ተደጋጋሚ ዋጋ ኣለዎ።",
+    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
     "doesnt_end_with": "እቲ ናይ :attribute ዓውዲ ብሓደ ካብዞም ዝስዕቡ ክውዳእ የብሉን፡ :values.",
     "doesnt_start_with": "እቲ :attribute ዝብል ዓውዲ ብሓደ ካብዞም ዝስዕቡ ክጅምር የብሉን፡ :values.",
     "email": "እቶም :attribute ቅኑዕ ኢመይል ኣድራሻ ክኾኑ ኣለዎም።",

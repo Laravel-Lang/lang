@@ -32,6 +32,7 @@
     "digits_between": "This must be between :min and :max digits.",
     "dimensions": "This image has invalid dimensions.",
     "distinct": "Dette feltet har en duplikatverdi.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "Dette feltet kan ikke slutte med ett av følgende: :values.",
     "doesnt_start_with": "Dette feltet starter kanskje ikke med ett av følgende: :values.",
     "email": "This must be a valid email address.",

@@ -32,6 +32,7 @@
     "digits_between": "ई फील्ड :min से :max अंक के बीच होखे के चाहीं।",
     "dimensions": "एह फील्ड में अमान्य छवि आयाम बा।",
     "distinct": "एह फील्ड के डुप्लिकेट मान बा।",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "ई क्षेत्र निम्नलिखित में से कवनो एक से खतम ना होखे के चाहीं: :values.",
     "doesnt_start_with": "ई क्षेत्र निम्नलिखित में से कवनो एक से शुरू ना होखे के चाहीं: :values.",
     "email": "ई फील्ड वैध ईमेल पता होखे के चाहीं.",

@@ -33,6 +33,7 @@
     "digits_between": "I-:attribute kufuneka ibe phakathi kwama-:min nama-:max amanani.",
     "dimensions": "I-:attribute inemilinganiselo yomfanekiso engasebenziyo.",
     "distinct": "Intsimi ye-:attribute inexabiso eliphindwe kabini.",
+    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
     "doesnt_end_with": "Intsimi ye-:attribute mayingapheli ngenye yezi zilandelayo: :values.",
     "doesnt_start_with": "Intsimi ye-:attribute mayingaqali ngenye yezi zilandelayo: :values.",
     "email": "I-:attribute kufuneka ibe yidilesi ye-imeyile esebenzayo.",

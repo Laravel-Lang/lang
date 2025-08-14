@@ -32,6 +32,7 @@
     "digits_between": "Me noho tenei mara i waenga i te :min ki te :max mati.",
     "dimensions": "He muhu te ahua o tenei mara.",
     "distinct": "He uara tārite tēnei āpure.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "Kaua e mutu tenei mara ki tetahi o enei e whai ake nei: :values.",
     "doesnt_start_with": "Kaua tenei mara e timata ki tetahi o enei e whai ake nei: :values.",
     "email": "Ko tenei mara he wahitau imeera whaimana.",

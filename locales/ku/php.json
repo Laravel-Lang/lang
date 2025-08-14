@@ -33,6 +33,7 @@
     "digits_between": "Divê :attribute di navbera :min û :max reqeman de be.",
     "dimensions": "The :attribute xwedan pîvanên wêneyê nederbasdar e.",
     "distinct": "Qada :attribute nirxek dubare heye.",
+    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
     "doesnt_end_with": "Divê qada :attribute bi yek ji van jêrîn bi dawî nebe: :values.",
     "doesnt_start_with": "Divê qada :attribute bi yek ji van jêrîn dest pê neke: :values.",
     "email": "Divê :attribute navnîşek e-nameyek derbasdar be.",

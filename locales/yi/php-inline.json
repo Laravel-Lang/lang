@@ -32,6 +32,7 @@
     "digits_between": "דעם פעלד מוזן זיין צווישן :min און :max דידזשאַץ.",
     "dimensions": "דאס פעלד האט אומגילטיגע בילד דימענסיעס.",
     "distinct": "דעם פעלד האט אַ דופּליקאַט ווערט.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "דעם פעלד מוזן נישט סוף מיט איינער פון די פאלגענדע: :values.",
     "doesnt_start_with": "דעם פעלד מוזן נישט אָנהייבן מיט איינער פון די פאלגענדע: :values.",
     "email": "דעם פעלד מוזן זיין אַ גילטיק בליצפּאָסט אַדרעס.",

@@ -32,6 +32,7 @@
     "digits_between": "यो :min र :max को बिचमा हुनुपर्दछ।",
     "dimensions": "यस छविसँग अवैध आयामहरू छन्।",
     "distinct": "यस फिल्डको नक्कल मान छ।",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "यो क्षेत्र निम्न मध्ये कुनै एकसँग समाप्त नहुन सक्छ: :values।",
     "doesnt_start_with": "यो क्षेत्र निम्न मध्ये कुनै एकबाट सुरु नहुन सक्छ: :values।",
     "email": "यो मान्य ईमेल ठेगाना हुनुपर्दछ।",

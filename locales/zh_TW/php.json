@@ -33,6 +33,7 @@
     "digits_between": ":attribute 必須介於 :min 至 :max 位數字。",
     "dimensions": ":attribute 圖片尺寸不正確。",
     "distinct": ":attribute 已經存在。",
+    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
     "doesnt_end_with": ":attribute 不能以下列之一結尾：:values。",
     "doesnt_start_with": ":attribute 不能以下列之一開頭：:values。",
     "email": ":attribute 必須是有效的 E-mail。",

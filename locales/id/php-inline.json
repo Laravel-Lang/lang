@@ -32,6 +32,7 @@
     "digits_between": "Isian ini harus di antara :min dan :max digit.",
     "dimensions": "Gambar ini tidak memiliki dimensi yang benar.",
     "distinct": "Isian ini memiliki nilai duplikat.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "Isian ini tidak boleh diakhiri dengan salah satu dari berikut ini: :values.",
     "doesnt_start_with": "Isian ini tidak boleh dimulai dengan salah satu dari berikut ini: :values.",
     "email": "Isian ini harus berisi format email yang benar.",

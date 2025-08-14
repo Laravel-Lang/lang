@@ -33,6 +33,7 @@
     "digits_between": "Laukas :attribute turi turėti nuo :min iki :max skaitmenų.",
     "dimensions": "Lauke :attribute įkeltas paveiksliukas neatitinka išmatavimų reikalavimo.",
     "distinct": "Laukas :attribute pasikartoja.",
+    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
     "doesnt_end_with": "Laukas :attribute negali baigtis viena iš šių reikšmių: :values.",
     "doesnt_start_with": "Laukas :attribute negali prasidėti viena iš šių reikšmių: :values.",
     "email": "Lauko :attribute reikšmė turi būti galiojantis el. pašto adresas.",

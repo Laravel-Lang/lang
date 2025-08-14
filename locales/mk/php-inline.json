@@ -32,6 +32,7 @@
     "digits_between": "Ова мора да има помеѓу :min и :max цифри.",
     "dimensions": "Оваа слика има невалидни димензии.",
     "distinct": "Ова поле има дупликат вредност.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "Ова поле може да не завршува со едно од следниве: :values.",
     "doesnt_start_with": "Ова поле може да не започнува со едно од следниве: :values.",
     "email": "Ова мора да биде валидна e-mail адреса.",

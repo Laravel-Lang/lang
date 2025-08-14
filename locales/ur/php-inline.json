@@ -32,6 +32,7 @@
     "digits_between": "یہ ہونا چاہئے کے درمیان :min اور :max ہندسے.",
     "dimensions": "اس تصویر باطل طول و عرض.",
     "distinct": "اس میدان کی ایک نقل قیمت.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "یہ فیلڈ درج ذیل میں سے کسی ایک پر ختم نہیں ہو سکتا: :values۔",
     "doesnt_start_with": "یہ فیلڈ درج ذیل میں سے کسی ایک سے شروع نہیں ہو سکتا: :values۔",
     "email": "اس کو ایک درست ای میل ایڈریس.",

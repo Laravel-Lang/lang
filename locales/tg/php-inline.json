@@ -32,6 +32,7 @@
     "digits_between": "Он бояд байни :min ва :max рақам.",
     "dimensions": "Ин тасвир, ки дорои недопустимые андозаи.",
     "distinct": "Дар ин соҳа дорад, ки бд, аҳамияти.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "Ин майдон метавонад бо яке аз инҳо хотима наёбад: :values.",
     "doesnt_start_with": "Ин майдон метавонад бо яке аз инҳо оғоз нашавад: :values.",
     "email": "Ин бояд воқеии суроғаи почтаи электронӣ.",

@@ -32,6 +32,7 @@
     "digits_between": "Este debe ser entre :min e :max díxitos.",
     "dimensions": "Esta imaxe ten válido dimensións.",
     "distinct": "Neste campo ten un dobre valor.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "Este campo non pode rematar cun dos seguintes: :values.",
     "doesnt_start_with": "Este campo pode non comezar por un dos seguintes: :values.",
     "email": "Este debe ser un enderezo de correo electrónico válido.",

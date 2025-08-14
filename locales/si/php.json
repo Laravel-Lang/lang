@@ -33,6 +33,7 @@
     "digits_between": "මෙම :attribute එක ඉලක්කම් :min හා :max අතර විය යුතුය.",
     "dimensions": "මෙම :attribute රූපය වැරදි ප්‍රමාණයන්ගෙන් ඇත.",
     "distinct": "මේ :attribute හි එකම අගයේ අනු පිටපත් ඇත.",
+    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
     "doesnt_end_with": ":Attribute පහත සඳහන් එකකින් අවසන් නොවිය හැක: :values.",
     "doesnt_start_with": ":Attribute පහත සඳහන් එකකින් ආරම්භ නොවිය හැක: :values.",
     "email": "මෙම :attribute එක වලංගු විද්‍යුත් ලිපිනයක් විය යුතුය.",

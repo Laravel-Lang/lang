@@ -32,6 +32,7 @@
     "digits_between": "Ogige a ga-abụrịrị n'etiti nkeji iri na iri abụọ.",
     "dimensions": "Ogige a nwere akụkụ onyonyo ezighi ezi.",
     "distinct": "Ogige a nwere uru oyiri.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "Ogige a agaghị ejedebe na otu n'ime ihe ndị a: :values.",
     "doesnt_start_with": "Ogige a agaghị eji otu n'ime ihe ndị a malite: :values.",
     "email": "Ogige a ga-abụrịrị adreesị ozi-e bara uru.",

@@ -33,6 +33,7 @@
     "digits_between": ":attribute తప్పనిసరిగా :min మరియు :max అంకెల మధ్య ఉండాలి.",
     "dimensions": ":attribute చెల్లని చిత్ర పరిమాణాలను కలిగి ఉంది.",
     "distinct": ":attribute ఫీల్డ్ నకిలీ విలువను కలిగి ఉంది.",
+    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
     "doesnt_end_with": ":attribute ఫీల్డ్ కింది వాటిలో ఒకదానితో ముగియకూడదు: :values.",
     "doesnt_start_with": ":attribute ఫీల్డ్ కింది వాటిలో ఒకదానితో ప్రారంభం కాకూడదు: :values.",
     "email": ":attribute తప్పక చెల్లుబాటు అయ్యే ఇమెయిల్ చిరునామా అయి ఉండాలి.",

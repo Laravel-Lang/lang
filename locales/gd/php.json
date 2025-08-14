@@ -33,6 +33,7 @@
     "digits_between": "Feumaidh na :attribute a bhith eadar :min agus :max figear.",
     "dimensions": "Tha tomhasan ìomhaigh neo-dhligheach aig an :attribute.",
     "distinct": "Tha luach dùblaichte aig an raon :attribute.",
+    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
     "doesnt_end_with": "Chan fhaod an raon :attribute crìochnachadh le aon de na leanas: :values.",
     "doesnt_start_with": "Chan fhaod an raon :attribute tòiseachadh le aon de na leanas: :values.",
     "email": "Feumaidh an :attribute a bhith na sheòladh puist-d dligheach.",

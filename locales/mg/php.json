@@ -33,6 +33,7 @@
     "digits_between": "Ny :attribute dia tsy maintsy eo anelanelan'ny :min sy :max isa.",
     "dimensions": "Ny :attribute dia manana refy sary tsy mety.",
     "distinct": "Ny saha :attribute dia manana sanda mitovy.",
+    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
     "doesnt_end_with": "Ny saha :attribute dia tsy tokony hifarana amin'ny iray amin'ireto manaraka ireto: :values.",
     "doesnt_start_with": "Ny saha :attribute dia tsy tokony hanomboka amin'ny iray amin'ireto manaraka ireto: :values.",
     "email": "Ny :attribute dia tsy maintsy adiresy mailaka manan-kery.",

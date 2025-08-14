@@ -33,6 +33,7 @@
     "digits_between": "Le champ :attribute doit contenir entre :min et :max chiffres.",
     "dimensions": "La taille de l'image :attribute n'est pas conforme.",
     "distinct": "Le champ :attribute a une valeur en double.",
+    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
     "doesnt_end_with": "Le champ :attribute ne doit pas finir avec une des valeurs suivantes : :values.",
     "doesnt_start_with": "Le champ :attribute ne doit pas commencer avec une des valeurs suivantes : :values.",
     "email": "Le champ :attribute doit être une adresse e-mail valide.",

@@ -32,6 +32,7 @@
     "digits_between": "Dirreen kun dijiitii :min fi :max gidduutti ta'uu qaba.",
     "dimensions": "Dirreen kun safara fakkii sirrii hin taane qaba.",
     "distinct": "Dirreen kun gatii dachaa qaba.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "Dirreen kun kanneen armaan gadii keessaa tokkoon xumuramuu hin qabu: :values.",
     "doesnt_start_with": "Dirreen kun kanneen armaan gadii keessaa tokkoon jalqabuu hin qabu: :values.",
     "email": "Dirreen kun teessoo imeelii sirrii ta'uu qaba.",

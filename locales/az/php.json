@@ -33,6 +33,7 @@
     "digits_between": ":Attribute sahəsindəki rəqəm sayı :min ilə :max arasında olmalıdır.",
     "dimensions": ":Attribute sahəsindəki şəklin ölçüləri yanlışdır.",
     "distinct": ":Attribute sahəsinin dəyərləri təkrarlanmamalıdır.",
+    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
     "doesnt_end_with": ":Attribute aşağıdakılardan biri ilə bitməyə bilər: :values.",
     "doesnt_start_with": ":Attribute  aşağıdakılardan biri ilə başlaya bilməz: :values.",
     "email": ":Attribute düzgün e-poçt ünvanı olmalıdır.",

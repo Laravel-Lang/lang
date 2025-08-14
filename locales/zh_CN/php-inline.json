@@ -32,6 +32,7 @@
     "digits_between": "必须是介于 :min 和 :max 位的数字。",
     "dimensions": "图片尺寸不正确。",
     "distinct": "已经存在。",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "不能以它们结尾: :values.",
     "doesnt_start_with": "不能以它们开头: :values.",
     "email": "不是一个合法的邮箱。",

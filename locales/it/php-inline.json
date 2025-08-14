@@ -32,6 +32,7 @@
     "digits_between": "Deve essere compreso tra :min e :max cifre.",
     "dimensions": "Immagine con dimensioni non valide.",
     "distinct": "Questo valore esiste già.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "Non può terminare con uno dei seguenti valori: :values.",
     "doesnt_start_with": "Non può iniziare con uno dei seguenti valori: :values.",
     "email": "Deve essere un indirizzo email valido.",

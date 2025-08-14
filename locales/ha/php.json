@@ -33,6 +33,7 @@
     "digits_between": "Dole ne :attribute ɗin ya kasance tsakanin lambobi :min zuwa :max.",
     "dimensions": ":attribute ɗin yana da girman hoto mara inganci.",
     "distinct": "Filin :attribute yana da kwafin ƙima.",
+    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
     "doesnt_end_with": "Filin guda :attribute bai kamata ya ƙare da ɗayan waɗannan masu zuwa ba: :values.",
     "doesnt_start_with": "Ba dole ba ne filin :attribute ya fara da ɗaya daga cikin masu zuwa: :values.",
     "email": "Dole ne :attribute ɗin ya zama ingantaccen adireshin imel.",

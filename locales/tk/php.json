@@ -33,6 +33,7 @@
     "digits_between": ":Attribute :min bilen :max arasynda san bolmalydyr.",
     "dimensions": ":Attribute-de nädogry şekil ölçegleri bar.",
     "distinct": ":Attribute meýdanyň dublikat bahasy bar.",
+    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
     "doesnt_end_with": ":Attribute aşakdakylaryň biri bilen gutarman biler: :values.",
     "doesnt_start_with": ":Attribute aşakdakylardan biri bilen başlamazlygy mümkin: :values.",
     "email": ":Attribute formaty ýalňyş.",

@@ -33,6 +33,7 @@
     "digits_between": ":Attribute uzunligi :min va :max orasida bo‘lishi kerak.",
     "dimensions": ":Attribute noto‘g‘ri tasvir o‘lchamlarga ega.",
     "distinct": ":Attribute maydoni takrorlanuvchi qiymatlardan iborat.",
+    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
     "doesnt_end_with": "The :attribute may not end with one of the following: :values.",
     "doesnt_start_with": "The :attribute may not start with one of the following: :values.",
     "email": ":Attribute haqiqiy elektron pochta manzili bo‘lishi kerak.",

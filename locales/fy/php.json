@@ -33,6 +33,7 @@
     "digits_between": "De :attribute moat tusken :min en :max sifers wêze.",
     "dimensions": "De :attribute hat ûnjildige ôfbyldingsdimensjes.",
     "distinct": "It fjild :attribute hat in dûbele wearde.",
+    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
     "doesnt_end_with": "It fjild :attribute mei net einigje mei ien fan de folgjende: :values.",
     "doesnt_start_with": "It fjild :attribute mei net begjinne mei ien fan de folgjende: :values.",
     "email": "De :attribute moat in jildich e-mailadres wêze.",

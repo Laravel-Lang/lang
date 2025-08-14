@@ -32,6 +32,7 @@
     "digits_between": "Aaye yii gbọdọ wa laarin awọn nọmba :min ati :max.",
     "dimensions": "Aaye yii ni awọn iwọn aworan ti ko tọ.",
     "distinct": "Aaye yii ni iye ẹda-ẹda kan.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "Aaye yii ko gbọdọ pari pẹlu ọkan ninu awọn atẹle: :values.",
     "doesnt_start_with": "Aaye yii ko gbọdọ bẹrẹ pẹlu ọkan ninu awọn atẹle: :values.",
     "email": "Aaye yii gbọdọ jẹ adirẹsi imeeli to wulo.",

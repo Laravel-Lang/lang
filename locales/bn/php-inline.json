@@ -32,6 +32,7 @@
     "digits_between": "এই মধ্যে হতে হবে :min এবং :max সংখ্যা।",
     "dimensions": "এই ছবিটি অবৈধ মাত্রা আছে।",
     "distinct": "এই ক্ষেত্রটি একটি প্রতিলিপি মান আছে।",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "এই ক্ষেত্রটি নিম্নলিখিতগুলির একটি দিয়ে শেষ নাও হতে পারে: :values।",
     "doesnt_start_with": "এই ক্ষেত্রটি :values এর একটি দিয়ে শুরু হতে পারে না।",
     "email": "এটি একটি বৈধ ইমেইল ঠিকানা হতে হবে।",

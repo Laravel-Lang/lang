@@ -32,6 +32,7 @@
     "digits_between": "This must be between :min and :max digits.",
     "dimensions": "This image has invalid dimensions.",
     "distinct": "دا ساحه دوه برابره ارزښت لري.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "دا ساحه ممکن د لاندې څخه یو سره پای ته ونه رسیږي: :values.",
     "doesnt_start_with": "دا ساحه ممکن د لاندې څخه یو سره پیل نشي: :values.",
     "email": "This must be a valid email address.",

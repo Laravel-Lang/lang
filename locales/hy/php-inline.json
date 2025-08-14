@@ -32,6 +32,7 @@
     "digits_between": "Այս դաշտի թվանշանների քանակը պետք է լինի :min-ից :max։",
     "dimensions": "Այս դաշտի տվյալը ունի անվավեր նկարի չափեր։",
     "distinct": "Այս դաշտի արժեքը կրկնվում է։",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "Այս դաշտը չի կարող ավարտվել հետևյալներից որևէ մեկով. :values:",
     "doesnt_start_with": "Այս դաշտը կարող է չսկսվել հետևյալից որևէ մեկով՝ :values:",
     "email": "Այս դաշտի արժեքը պետք է լինի վավեր Էլ․ հասցե։",

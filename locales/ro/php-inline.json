@@ -32,6 +32,7 @@
     "digits_between": "Aceasta trebuie să fie între :min și :max de cifre.",
     "dimensions": "Această imagine are dimensiuni nevalide.",
     "distinct": "Acest câmp are o valoare duplicată.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "Este posibil ca acest câmp să nu se termine cu una dintre următoarele valori: :values.",
     "doesnt_start_with": "Este posibil ca acest câmp să nu înceapă cu una dintre următoarele valori: :values.",
     "email": "Aceasta trebuie să fie o adresă de e-mail validă.",

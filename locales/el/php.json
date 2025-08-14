@@ -33,6 +33,7 @@
     "digits_between": "Το πεδίο :attribute πρέπει να είναι μεταξύ :min και :max ψηφία.",
     "dimensions": "Το πεδίο :attribute περιέχει μη έγκυρες διαστάσεις εικόνας.",
     "distinct": "Το πεδίο :attribute περιέχει δύο φορές την ίδια τιμή.",
+    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
     "doesnt_end_with": "Το :attribute δεν μπορεί να τελειώνει με ένα από τα ακόλουθα: :values.",
     "doesnt_start_with": "Το :attribute δεν μπορεί να ξεκινά με ένα από τα ακόλουθα: :values.",
     "email": "Το πεδίο :attribute πρέπει να είναι μία έγκυρη διεύθυνση email.",

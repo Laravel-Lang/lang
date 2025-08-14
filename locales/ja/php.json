@@ -33,6 +33,7 @@
     "digits_between": ":attributeは、:min桁から:max桁にしてください。",
     "dimensions": ":attributeの画像サイズが無効です",
     "distinct": ":attributeの値が重複しています。",
+    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
     "doesnt_end_with": ":attributeの終わりは「:values」以外である必要があります。",
     "doesnt_start_with": ":attributeの始まりは「:values」以外である必要があります。",
     "email": ":attributeは、有効なメールアドレス形式で指定してください。",

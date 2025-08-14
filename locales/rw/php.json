@@ -33,6 +33,7 @@
     "digits_between": ":attribute igomba kuba hagati yimibare :min na :max.",
     "dimensions": ":attribute ifite ibipimo by'ishusho bitemewe.",
     "distinct": "Umwanya :attribute ufite agaciro kabili.",
+    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
     "doesnt_end_with": "Umurima :attribute ntugomba kurangirana numwe muribi bikurikira: :values.",
     "doesnt_start_with": "Umwanya :attribute ntugomba gutangirana numwe muribi bikurikira: :values.",
     "email": ":attribute igomba kuba aderesi imeri yemewe.",

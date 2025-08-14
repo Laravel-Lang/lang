@@ -32,6 +32,7 @@
     "digits_between": "Šis laukas turi turėti nuo :min iki :max skaitmenų.",
     "dimensions": "Šis įkeltas paveiksliukas neatitinka išmatavimų reikalavimo.",
     "distinct": "Šio lauko reikšmė pasikartoja.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "Šis laukas negali baigtis vienu iš šių žodžių: :values.",
     "doesnt_start_with": "Šis laukas negali prasidėti vienu iš šių žodžių: :values.",
     "email": "Šio lauko reikšmė turi būti galiojantis el. pašto adresas.",

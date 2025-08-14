@@ -32,6 +32,7 @@
     "digits_between": "ಈ ನಡುವೆ ಇರಬೇಕು :min ಮತ್ತು :max ಅಂಕೆಗಳು.",
     "dimensions": "ಈ image has invalid dimensions.",
     "distinct": "ಈ ಕ್ಷೇತ್ರದಲ್ಲಿ ಹೊಂದಿದೆ ಒಂದು ನಕಲು ಮೌಲ್ಯ.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "ಈ ಕ್ಷೇತ್ರವು ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಒಂದಕ್ಕೆ ಕೊನೆಗೊಳ್ಳದಿರಬಹುದು: :values.",
     "doesnt_start_with": "ಈ ಕ್ಷೇತ್ರವು ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಒಂದರಿಂದ ಪ್ರಾರಂಭವಾಗಬಾರದು: :values.",
     "email": "ಈ must be a valid email address.",

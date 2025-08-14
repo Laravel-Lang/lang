@@ -33,6 +33,7 @@
     "digits_between": "I-:attribute kufanele ibe phakathi kwamadijithi angama-:min kuya kwangu-:max.",
     "dimensions": "I-:attribute inobukhulu besithombe obungavumelekile.",
     "distinct": "Inkambu engu-:attribute inenani eliyimpinda.",
+    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
     "doesnt_end_with": "Inkundla ye-:attribute akumele igcine ngokukodwa kwalokhu okulandelayo: :values.",
     "doesnt_start_with": "Inkundla ye-:attribute akumele iqale ngokukodwa kwalokhu okulandelayo: :values.",
     "email": "I-:attribute kufanele ibe ikheli le-imeyili elivumelekile.",

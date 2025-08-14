@@ -32,6 +32,7 @@
     "digits_between": "ဤအကွက်သည် ဂဏန်း :min နှင့် :max ကြားရှိရမည်။",
     "dimensions": "ဤအကွက်တွင် မမှန်ကန်သော ပုံအတိုင်းအတာများရှိသည်။",
     "distinct": "ဤအကွက်တွင် ထပ်နေသောတန်ဖိုးတစ်ခုရှိသည်။",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "ဤအကွက်သည် အောက်ပါများထဲမှ တစ်ခုနှင့် အဆုံးမသတ်ရပါ။ :values.",
     "doesnt_start_with": "ဤအကွက်သည် အောက်ပါများထဲမှ တစ်ခုနှင့် မစတင်ရပါမည်- :values။",
     "email": "ဤအကွက်သည် တရားဝင်အီးမေးလ်လိပ်စာဖြစ်ရမည်။",

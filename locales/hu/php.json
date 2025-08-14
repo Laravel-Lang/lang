@@ -33,6 +33,7 @@
     "digits_between": "A(z) :attribute értéke :min és :max közötti számjegy lehet!",
     "dimensions": "A(z) :attribute felbontása nem megfelelő.",
     "distinct": "A(z) :attribute értékének egyedinek kell lennie!",
+    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
     "doesnt_end_with": "A :attribute nem végződhet a következők egyikével: :values.",
     "doesnt_start_with": "A :attribute nem kezdődhet a következők egyikével: :values.",
     "email": "A(z) :attribute nem érvényes email formátum.",

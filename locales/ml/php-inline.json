@@ -32,6 +32,7 @@
     "digits_between": "ഈ ഫീൽഡ് :min-നും :max-നും ഇടയിലായിരിക്കണം.",
     "dimensions": "ഈ ഫീൽഡിന് അസാധുവായ ഇമേജ് അളവുകൾ ഉണ്ട്.",
     "distinct": "ഈ ഫീൽഡിന് ഡ്യൂപ്ലിക്കേറ്റ് മൂല്യമുണ്ട്.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "ഈ ഫീൽഡ് ഇനിപ്പറയുന്നതിൽ ഒന്നിൽ അവസാനിക്കരുത്: :values.",
     "doesnt_start_with": "ഈ ഫീൽഡ് ഇനിപ്പറയുന്നതിൽ ഒന്നിൽ ആരംഭിക്കരുത്: :values.",
     "email": "ഈ ഫീൽഡ് സാധുവായ ഒരു ഇമെയിൽ വിലാസമായിരിക്കണം.",

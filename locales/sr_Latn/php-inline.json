@@ -32,6 +32,7 @@
     "digits_between": "Broj cifara mora biti između :min i :max.",
     "dimensions": "Slika je izvan dozvoljenih dimenzija.",
     "distinct": "Ovo polje ima dupliranu vrednost.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "This field must not end with one of the following: :values.",
     "doesnt_start_with": "This field must not start with one of the following: :values.",
     "email": "Email mora da bude validan.",

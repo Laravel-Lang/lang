@@ -32,6 +32,7 @@
     "digits_between": "Dëst Feld muss tëscht :min an :max Ziffere sinn.",
     "dimensions": "Dëst Feld huet ongëlteg Bild Dimensiounen.",
     "distinct": "Dëst Feld huet en duplizéierte Wäert.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "Dëst Feld däerf net mat engem vun de folgenden ophalen: :values.",
     "doesnt_start_with": "Dëst Feld däerf net mat engem vun de folgenden ufänken: :values.",
     "email": "Dëst Feld muss eng valabel E-Mailadress sinn.",

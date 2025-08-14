@@ -32,6 +32,7 @@
     "digits_between": "Lo mmandla kufuneka ube phakathi kwe-:min kunye nama-:max amanani.",
     "dimensions": "Lo mmandla unemilinganiselo yomfanekiso engasebenziyo.",
     "distinct": "Lo mmandla unexabiso eliphindwe kabini.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "Lo mmandla mawungapheli ngenye yezi zilandelayo: :values.",
     "doesnt_start_with": "Lo mmandla mawungaqalisi ngenye yezi zilandelayo: :values.",
     "email": "Lo mmandla kufuneka ube yidilesi ye-imeyile esebenzayo.",

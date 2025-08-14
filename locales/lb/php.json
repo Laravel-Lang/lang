@@ -33,6 +33,7 @@
     "digits_between": "Déi :attribute mussen tëscht :min an :max Ziffere sinn.",
     "dimensions": "Déi :attribute huet ongëlteg Bild Dimensiounen.",
     "distinct": "Den :attribute Feld huet en duplizéierte Wäert.",
+    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
     "doesnt_end_with": "Den :attribute Feld däerf net mat engem vun de folgenden ophalen: :values.",
     "doesnt_start_with": "Den :attribute Feld däerf net mat engem vun de folgenden ufänken: :values.",
     "email": "Déi :attribute muss eng valabel E-Mailadress sinn.",

@@ -33,6 +33,7 @@
     "digits_between": "Ele be xexlẽdzesi :attribute la nanɔ xexlẽdzesi :min va ɖo :max dome.",
     "dimensions": "Nɔnɔmetata ƒe didime siwo mesɔ o le :attribute la si.",
     "distinct": ":attribute ƒe agblea ƒe asixɔxɔ si wogbugbɔ ŋlɔ.",
+    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
     "doesnt_end_with": "Mele be agble :attribute la nawu enu kple nusiwo gbɔna dometɔ ɖeka o: :values.",
     "doesnt_start_with": "Mele be :attribute ƒe agblea nadze egɔme kple esiawo dometɔ ɖeka o: :values.",
     "email": "Ele be :attribute-awo nanye e-mail adrɛs si sɔ.",

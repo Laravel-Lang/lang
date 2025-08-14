@@ -33,6 +33,7 @@
     "digits_between": "Polje :attribute mora imati između :min i :max znamenki.",
     "dimensions": "Polje :attribute ima neispravne dimenzije slike.",
     "distinct": "Polje :attribute ima dupliciranu vrijednost.",
+    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
     "doesnt_end_with": "Polje :attribute ne smije završavati s jednom od sljedećih vrijednosti: :values.",
     "doesnt_start_with": "Polje :attribute ne smije počinjati s jednom od sljedećih vrijednosti: :values.",
     "email": "Polje :attribute mora biti ispravna e-mail adresa.",

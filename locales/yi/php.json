@@ -33,6 +33,7 @@
     "digits_between": "די :attribute מוזן זיין צווישן :min און :max דידזשאַץ.",
     "dimensions": "די :attribute האט פאַרקריפּלט בילד דימענשאַנז.",
     "distinct": "די :attribute פעלד האט אַ דופּליקאַט ווערט.",
+    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
     "doesnt_end_with": "די :attribute פעלד מוזן נישט סוף מיט איינער פון די פאלגענדע: :values.",
     "doesnt_start_with": "די :attribute פעלד מוזן נישט אָנהייבן מיט איינער פון די פאלגענדע: :values.",
     "email": "די :attribute מוזן זיין אַ גילטיק בליצפּאָסט אַדרעס.",

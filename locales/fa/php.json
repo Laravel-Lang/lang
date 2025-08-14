@@ -33,6 +33,7 @@
     "digits_between": ":Attribute باید بین :min و :max رقم باشد.",
     "dimensions": "ابعاد تصویر :attribute قابل قبول نیست.",
     "distinct": "فیلد :attribute مقدار تکراری دارد.",
+    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
     "doesnt_end_with": "مقدار :attribute نباید با این مقادیر تمام شود : :values.",
     "doesnt_start_with": "مقدار :attribute نباید با این مقادیر شروع شود : :values.",
     "email": ":Attribute باید یک ایمیل معتبر باشد.",

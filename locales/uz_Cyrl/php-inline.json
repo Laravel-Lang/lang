@@ -32,6 +32,7 @@
     "digits_between": "Bu :min va :max raqamlar orasida bo'lishi kerak.",
     "dimensions": "Ushbu tasvir noto'g'ri o'lchamlarga ega.",
     "distinct": "Bu maydon dublikat qiymatiga ega.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "Bu maydon quyidagilardan biri bilan tugamasligi mumkin: :values.",
     "doesnt_start_with": "Bu maydon quyidagilardan biri bilan boshlanmasligi mumkin: :values.",
     "email": "Bu amal elektron pochta manzili bo'lishi kerak.",

@@ -33,6 +33,7 @@
     "digits_between": "Polje :attribute mora biti izemđu :min i :max šifri.",
     "dimensions": "Polje :attribute ime nedozvoljene dimenzije slike.",
     "distinct": "Polje :attribute ima dupliranu vrednost.",
+    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
     "doesnt_end_with": "The :attribute may not end with one of the following: :values.",
     "doesnt_start_with": "The :attribute may not start with one of the following: :values.",
     "email": "Format polja :attribute nije validan.",

@@ -32,6 +32,7 @@
     "digits_between": "Goobtani waa inay noqotaa inta u dhaxaysa :min iyo :max nambar.",
     "dimensions": "Goobtani waxay leedahay cabbir sawireed aan sax ahayn.",
     "distinct": "Goobtani waxay leedahay qiime nuqul ah.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "Goobtani waa inaysan ku dhamaanin mid ka mid ah kuwan soo socda: :values.",
     "doesnt_start_with": "Goobtani waa in aanay ku bilaaban mid ka mid ah kuwan soo socda: :values.",
     "email": "Goobtani waa inay noqotaa cinwaan iimayl sax ah.",

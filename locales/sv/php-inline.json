@@ -32,6 +32,7 @@
     "digits_between": "Detta måste vara mellan :min och :max siffror.",
     "dimensions": "Den här bilden har ogiltiga dimensioner.",
     "distinct": "Detta fält har ett dubblettvärde.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "Det här fältet får inte sluta med något av följande: :values.",
     "doesnt_start_with": "Det här fältet får inte börja med något av följande: :values.",
     "email": "Detta måste vara en giltig e-postadress.",

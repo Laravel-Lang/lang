@@ -32,6 +32,7 @@
     "digits_between": "Feumaidh an raon seo a bhith eadar :min agus :max àireamhan.",
     "dimensions": "Tha tomhasan ìomhaigh mì-dhligheach aig an raon seo.",
     "distinct": "Tha luach dùblaichte aig an raon seo.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "Chan fhaod an raon seo crìochnachadh le aon de na leanas: :values.",
     "doesnt_start_with": "Chan fhaod an raon seo tòiseachadh le aon de na leanas: :values.",
     "email": "Feumaidh an raon seo a bhith na sheòladh puist-d dligheach.",

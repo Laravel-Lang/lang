@@ -32,6 +32,7 @@
     "digits_between": "Iyi ndima inofanira kuva pakati pegumi kusvika makumi maviri.",
     "dimensions": "Iyi ndima ine mifananidzo isiriyo.",
     "distinct": "Iyi ndima ine kukosha kwakapetwa.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "Iyi ndima haifanirwe kupera neimwe yezvinotevera: :values.",
     "doesnt_start_with": "Iyi ndima haifanirwe kutanga neimwe yezvinotevera: :values.",
     "email": "Iyi ndima inofanira kunge iri kero yeemail inoshanda.",

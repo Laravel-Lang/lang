@@ -32,6 +32,7 @@
     "digits_between": "මේ අතර විය යුතුයි :min හා :max ඉලක්කම්.",
     "dimensions": "මෙම රූපය සාවද්ය මාන ඇත.",
     "distinct": "මේ ක්ෂේත්‍රය ඇති duplicate වටිනාකම.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "මෙම ක්ෂේත්‍රය පහත සඳහන් එකකින් අවසන් නොවිය හැක: :values.",
     "doesnt_start_with": "මෙම ක්ෂේත්‍රය පහත සඳහන් එකකින් ආරම්භ නොවිය හැක: :values.",
     "email": "මෙම විය යුතුය, වලංගු විද්යුත්-තැපැල් ලිපිනය.",

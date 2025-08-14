@@ -32,6 +32,7 @@
     "digits_between": "Ɛsɛ sɛ saa afuw yi yɛ nkyerɛwde :min kosi :max.",
     "dimensions": "Saa afuw yi wɔ mfonini nsusuwii a ɛnteɛ.",
     "distinct": "Saa afuw yi wɔ botae a ɛyɛ abien.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "Ɛnsɛ sɛ saa afuw yi ba awiei wɔ nea edidi so yi mu biako mu: :values.",
     "doesnt_start_with": "Ɛnsɛ sɛ wɔde nea edidi so yi mu biako fi ase saa afuw yi: :values.",
     "email": "Ɛsɛ sɛ saa afuw yi yɛ email address a ɛfata.",

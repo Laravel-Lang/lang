@@ -33,6 +33,7 @@
     "digits_between": "Iwo gumi anofanira kunge ari pakati pemakumi maviri nemakumi matatu manhamba.",
     "dimensions": "Iyo gumi ine mifananidzo isiriyo.",
     "distinct": "Chikamu chegumi chine kukosha kwakafanana.",
+    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
     "doesnt_end_with": "Munda wegumi haufanire kupera neimwe yeinotevera: :values.",
     "doesnt_start_with": "Munda wegumi haufanire kutanga neimwe yeinotevera: :values.",
     "email": "Iwo gumi anofanira kunge ari kero yeemail inoshanda.",

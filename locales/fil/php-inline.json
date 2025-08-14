@@ -32,6 +32,7 @@
     "digits_between": "This must be between :min and :max digits.",
     "dimensions": "This image has invalid dimensions.",
     "distinct": "Ang field na ito ay may duplicate na halaga.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "Maaaring hindi magtapos ang field na ito sa isa sa mga sumusunod: :values.",
     "doesnt_start_with": "Maaaring hindi magsimula ang field na ito sa isa sa mga sumusunod: :values.",
     "email": "This must be a valid email address.",

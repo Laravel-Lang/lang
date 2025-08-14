@@ -33,6 +33,7 @@
     "digits_between": ":Attribute mutlaka en az :min, en fazla :max basamaklı olmalıdır.",
     "dimensions": ":Attribute geçersiz resim boyutlarına sahip.",
     "distinct": ":Attribute alanı yinelenen bir değere sahip.",
+    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
     "doesnt_end_with": ":Attribute aşağıdakilerden biriyle bitemez: :values.",
     "doesnt_start_with": ":Attribute aşağıdakilerden biriyle başlamayabilir: :values.",
     "email": ":Attribute mutlaka geçerli bir e-posta adresi olmalıdır.",

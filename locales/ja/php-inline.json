@@ -32,6 +32,7 @@
     "digits_between": ":min ~ :max桁である必要があります。",
     "dimensions": "画像の寸法が無効です。",
     "distinct": "値が重複しています。",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "「:values」以外で終わる必要があります。",
     "doesnt_start_with": "「:values」以外で始まる必要があります。",
     "email": "無効なメールアドレスです。",

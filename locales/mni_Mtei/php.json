@@ -33,6 +33,7 @@
     "digits_between": "꯱꯰ ꯑꯁꯤ ꯗꯤꯖꯤꯠ ꯲꯰ ꯑꯃꯁꯨꯡ ꯳꯰ꯒꯤ ꯃꯔꯛꯇꯥ ꯂꯩꯒꯗꯕꯅꯤ꯫",
     "dimensions": "꯱꯰ ꯑꯁꯤꯒꯤ ꯑꯁꯣꯌꯕꯥ ꯏꯃꯦꯖ ꯗꯥꯏꯃꯦꯟꯁꯟ ꯂꯩ꯫",
     "distinct": "꯱꯰ ꯐꯤꯜꯗ ꯑꯁꯤꯒꯤ ꯗꯨꯞꯂꯤꯀꯦꯠ ꯚꯦꯜꯌꯨ ꯂꯩ꯫",
+    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
     "doesnt_end_with": "꯱꯰ ꯐꯤꯜꯗ ꯑꯁꯤ ꯃꯈꯥꯗꯥ ꯄꯤꯔꯤꯕꯥ ꯑꯁꯤꯒꯤ ꯃꯅꯨꯡꯗꯥ ꯑꯃꯒꯥ ꯂꯣꯌꯅꯅꯥ ꯂꯣꯏꯁꯤꯅꯒꯗꯕꯅꯤ: ꯲꯰.",
     "doesnt_start_with": "꯱꯰ꯒꯤ ꯐꯤꯜꯗ ꯑꯁꯤ ꯃꯈꯥꯗꯥ ꯄꯤꯔꯤꯕꯥ ꯑꯁꯤꯒꯤ ꯃꯅꯨꯡꯗꯥ ꯑꯃꯗꯒꯤ ꯍꯧꯔꯣꯏꯗꯕꯅꯤ: ꯲꯰.",
     "email": "꯱꯰ ꯑꯁꯤ ꯆꯠꯅꯕꯥ ꯌꯥꯕꯥ ꯏꯃꯦꯜ ꯑꯦꯗ꯭ꯔꯦꯁ ꯑꯃꯥ ꯑꯣꯏꯒꯗꯕꯅꯤ꯫",

@@ -32,6 +32,7 @@
     "digits_between": "This must be between :min and :max digits.",
     "dimensions": "This image has invalid dimensions.",
     "distinct": "આ ફીલ્ડનું ડુપ્લિકેટ મૂલ્ય છે.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "આ ફીલ્ડ નીચેનામાંથી એક સાથે સમાપ્ત થઈ શકતું નથી: :values.",
     "doesnt_start_with": "આ ફીલ્ડ નીચેનામાંથી કોઈ એકથી શરૂ ન થઈ શકે: :values.",
     "email": "This must be a valid email address.",

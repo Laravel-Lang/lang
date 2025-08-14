@@ -32,6 +32,7 @@
     "digits_between": "Kini nga field kinahanglang tali sa :min ug :max ka digit.",
     "dimensions": "Kini nga natad adunay dili balido nga mga sukat sa imahe.",
     "distinct": "Kini nga natad adunay doble nga kantidad.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "Kini nga field kinahanglang dili matapos sa usa sa mosunod: :values.",
     "doesnt_start_with": "Kini nga field kinahanglang dili magsugod sa usa sa mosunod: :values.",
     "email": "Kini nga field kinahanglang balido nga email address.",

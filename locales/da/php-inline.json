@@ -32,6 +32,7 @@
     "digits_between": "Dette skal være mellem :min og :max cifre.",
     "dimensions": "Dette billede har ugyldige dimensioner.",
     "distinct": "Dette felt har en dobbelt værdi.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "Dette felt må ikke slutte med en af ​​følgende: :values.",
     "doesnt_start_with": "Dette felt starter muligvis ikke med et af følgende: :values.",
     "email": "Dette skal være en gyldig e-mail-adresse.",

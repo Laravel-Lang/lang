@@ -33,6 +33,7 @@
     "digits_between": "Câmpul :attribute trebuie să aibă între :min și :max cifre.",
     "dimensions": "Câmpul :attribute are dimensiuni de imagine nevalide.",
     "distinct": "Câmpul :attribute are o valoare duplicat.",
+    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
     "doesnt_end_with": ":Attribute nu se poate termina cu una dintre următoarele valori: :values.",
     "doesnt_start_with": ":Attribute trebuie să nu înceapă cu una dintre următoarele valori: :values.",
     "email": "Câmpul :attribute trebuie să fie o adresă de e-mail validă.",

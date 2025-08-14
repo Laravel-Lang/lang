@@ -33,6 +33,7 @@
     "digits_between": "La :attribute devas esti inter :min kaj :max ciferoj.",
     "dimensions": "La :attribute havas nevalidajn bildajn dimensiojn.",
     "distinct": "La :attribute-kampo havas duplikatan valoron.",
+    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
     "doesnt_end_with": "La :attribute-kampo ne devas finiĝi per unu el la jenaj: :values.",
     "doesnt_start_with": "La :attribute-kampo ne devas komenciĝi per unu el la jenaj: :values.",
     "email": "La :attribute devas esti valida retadreso.",

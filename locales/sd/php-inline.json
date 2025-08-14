@@ -32,6 +32,7 @@
     "digits_between": "ھي فيلڊ :min ۽ :max انگن جي وچ ۾ ھئڻ گھرجي.",
     "dimensions": "ھن فيلڊ ۾ غلط تصوير جا طول و عرض آھن.",
     "distinct": "ھن فيلڊ ۾ ھڪڙو نقلي قدر آھي.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "ھن فيلڊ کي ھيٺين مان ھڪڙي سان ختم نه ٿيڻ گھرجي: :values.",
     "doesnt_start_with": "ھي فيلڊ ھيٺين مان ھڪڙي سان شروع نه ٿيڻ گھرجي: :values.",
     "email": "هي فيلڊ هڪ صحيح اي ميل پتو هجڻ گهرجي.",

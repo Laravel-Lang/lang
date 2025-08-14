@@ -33,6 +33,7 @@
     "digits_between": ":attribute သည် ဂဏန်း :min နှင့် :max ကြား ဖြစ်ရမည်။",
     "dimensions": ":attribute တွင် မမှန်ကန်သော ပုံအတိုင်းအတာများရှိသည်။",
     "distinct": "အကွက် :attribute တွင် ထပ်နေသောတန်ဖိုးတစ်ခုရှိသည်။",
+    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
     "doesnt_end_with": "အကွက် :attribute သည် အောက်ပါများထဲမှ တစ်ခုနှင့် အဆုံးမသတ်ရပါမည်- :values။",
     "doesnt_start_with": "အကွက် :attribute သည် အောက်ပါများထဲမှ တစ်ခုနှင့် မစတင်ရပါမည်- :values။",
     "email": ":attribute သည် တရားဝင်အီးမေးလ်လိပ်စာဖြစ်ရမည်။",

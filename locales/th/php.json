@@ -33,6 +33,7 @@
     "digits_between": "ข้อมูล :attribute ต้องอยู่ในช่วงระหว่าง :min ถึง :max",
     "dimensions": "ข้อมูล :attribute มีขนาดไม่ถูกต้อง",
     "distinct": "ข้อมูล :attribute มีค่าที่ซ้ำกัน",
+    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
     "doesnt_end_with": "ข้อมูล :attribute ไม่ควรลงท้ายด้วยค่าดังต่อไปนี้: :values",
     "doesnt_start_with": "ข้อมูล :attribute ไม่ควรเริ่มต้นด้วยค่าดังต่อไปนี้: :values",
     "email": "ข้อมูล :attribute ต้องเป็นอีเมล์",

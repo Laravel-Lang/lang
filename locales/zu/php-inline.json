@@ -32,6 +32,7 @@
     "digits_between": "Le nkambu kufanele ibe namadijithi aphakathi kuka-:min no-:max.",
     "dimensions": "Le nkambu inobukhulu besithombe obungavumelekile.",
     "distinct": "Le nkambu inenani eliyimpinda.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "Le nkambu akumele igcine ngokukodwa kwalokhu okulandelayo: :values.",
     "doesnt_start_with": "Le nkambu akumele iqale ngokukodwa kwalokhu okulandelayo: :values.",
     "email": "Le nkambu kufanele kube ikheli le-imeyili elivumelekile.",

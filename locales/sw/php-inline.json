@@ -32,6 +32,7 @@
     "digits_between": "Hii ni lazima kuwa kati ya :min na :max tarakimu.",
     "dimensions": "Picha hii ina vipimo batili.",
     "distinct": "Uwanja huu ina duplicate thamani.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "Sehemu hii inaweza isiishie na mojawapo ya yafuatayo: :values.",
     "doesnt_start_with": "Sehemu hii haiwezi kuanza na mojawapo ya yafuatayo: :values.",
     "email": "Hii ni lazima kuwa na anwani ya barua pepe halali.",

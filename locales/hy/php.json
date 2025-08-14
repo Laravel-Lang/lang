@@ -33,6 +33,7 @@
     "digits_between": ":Attribute դաշտի թվանշանների քանակը պետք է լինի :min-ից :max։",
     "dimensions": ":Attribute դաշտը ունի անվավեր նկարի չափեր։",
     "distinct": ":Attribute դաշտը ունի կրկնվող արժեք։",
+    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
     "doesnt_end_with": ":Attribute-ը չի կարող ավարտվել հետևյալներից որևէ մեկով. :values:",
     "doesnt_start_with": ":Attribute-ը չի կարող սկսվել հետևյալներից որևէ մեկով՝ :values։",
     "email": ":Attribute դաշտը պետք է լինի վավերական Էլ․ հասցե։",

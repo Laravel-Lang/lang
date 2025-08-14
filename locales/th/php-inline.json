@@ -32,6 +32,7 @@
     "digits_between": "ค่านี้ต้องเป็นเลขระหว่าง :min ถึง :max หลัก",
     "dimensions": "เนื้อหานี้มิติไม่ตรงตามรูปแบบ",
     "distinct": "ช่องข้อมูลนี้มีค่าซ้ำ",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "ช่องข้อมูลนี้ไม่ได้ลงท้ายด้วยค่าดังต่อไปนี้: :values",
     "doesnt_start_with": "ช่องข้อมูลนี้ไม่ได้เริ่มต้นด้วยค่าดังต่อไปนี้: :values",
     "email": "นี่ต้องเป็นที่อยู่อีเมลที่ตรงตามรูปแบบ",

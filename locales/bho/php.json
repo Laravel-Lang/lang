@@ -33,6 +33,7 @@
     "digits_between": ":attribute के :min से :max अंक के बीच होखे के चाही।",
     "dimensions": ":attribute में अमान्य छवि आयाम बा।",
     "distinct": ":attribute फील्ड के डुप्लिकेट मान होला।",
+    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
     "doesnt_end_with": ":attribute फील्ड के अंत निम्नलिखित में से कवनो एक से ना होखे के चाहीं: :values.",
     "doesnt_start_with": ":attribute फील्ड के शुरुआत निम्नलिखित में से कवनो एक से ना होखे के चाहीं: :values.",
     "email": ":attribute गो के वैध ईमेल पता होखे के चाहीं.",

@@ -33,6 +33,7 @@
     "digits_between": "O campo :attribute deve conter entre :min a :max dígitos.",
     "dimensions": "O valor informado para o campo :attribute não é uma dimensão de imagem válida.",
     "distinct": "O campo :attribute contém um valor duplicado.",
+    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
     "doesnt_end_with": "O :attribute não pode terminar com um dos seguintes: :values.",
     "doesnt_start_with": "O :attribute não pode começar com um dos seguintes: :values.",
     "email": "O campo :attribute não contém um endereço de email válido.",

@@ -32,6 +32,7 @@
     "digits_between": "Bu :min ve :max basamak arasında olmalıdır.",
     "dimensions": "Resim boyutları geçersiz.",
     "distinct": "Bu alanın yinelenen bir değeri vardır.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "Bu alan aşağıdakilerden biriyle bitemez: :values.",
     "doesnt_start_with": "Bu alan aşağıdakilerden biriyle başlamayabilir: :values.",
     "email": "E-posta adresi geçerli değil.",

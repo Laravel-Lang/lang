@@ -32,6 +32,7 @@
     "digits_between": "វាលនេះត្រូវចាប់ពីខ្ទង់ :min ទៅ :max។",
     "dimensions": "ទំហំរូបភាព​ វាលនេះមិនត្រឹមត្រូវ។",
     "distinct": "វាលនេះមានតម្លៃស្ទួន។",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "វាលនេះប្រហែលជាមិនបញ្ចប់ដោយមួយក្នុងចំណោមខាងក្រោម៖ :values ។",
     "doesnt_start_with": "វាលនេះប្រហែលជាមិនចាប់ផ្តើមជាមួយមួយក្នុងចំណោមខាងក្រោម: :values ។",
     "email": "វាលនេះទម្រង់នេះមិនត្រឹមត្រូវ។",

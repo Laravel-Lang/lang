@@ -33,6 +33,7 @@
     "digits_between": "Rhaid i :attribute fod rhwng :min a :max digid.",
     "dimensions": "Y :attribute wedi annilys ddelwedd dimensiynau.",
     "distinct": "Y :attribute maes wedi dyblyg gwerth.",
+    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
     "doesnt_end_with": "Efallai na fydd y :attribute yn gorffen gydag un o’r canlynol: :values.",
     "doesnt_start_with": "Efallai na fydd y :attribute yn dechrau gydag un o’r canlynol: :values.",
     "email": "Rhaid i :attribute fod yn gyfeiriad ebost dilys.",

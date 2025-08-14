@@ -32,6 +32,7 @@
     "digits_between": "Ruangan ini mesti mengandungi nilai antara :min dan :max digits.",
     "dimensions": "Dimensi imej tidak sah.",
     "distinct": "Ruangan ini mempunyai nilai yang berulang.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "Medan ini mungkin tidak berakhir dengan salah satu daripada yang berikut: :values.",
     "doesnt_start_with": "Medan ini mungkin tidak bermula dengan salah satu daripada yang berikut: :values.",
     "email": "Alamat emel mestilah sah.",

@@ -32,6 +32,7 @@
     "digits_between": "זה חייב להיות בין :min ו :max ספרות.",
     "dimensions": "לתמונה הזו יש ממדים לא תקפים.",
     "distinct": "לשדה הזה יש ערך כפול.",
+    "doesnt_contain": "This field must not contain any of the following: :values.",
     "doesnt_end_with": "שדה זה לא יכול להסתיים באחד מהבאים: :values.",
     "doesnt_start_with": "שדה זה לא יכול להתחיל באחד מהבאים: :values.",
     "email": "זו חייבת להיות כתובת דוא \" ל תקפה.",

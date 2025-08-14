@@ -33,6 +33,7 @@
     "digits_between": ":Attribute mora biti med :min in :max ciframi.",
     "dimensions": ":Attribute ima napačne dimenzije slike.",
     "distinct": ":Attribute je duplikat.",
+    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
     "doesnt_end_with": ":Attribute se ne sme končati z enim od naslednjih: :values.",
     "doesnt_start_with": ":Attribute se ne sme začeti z enim od naslednjih: :values.",
     "email": ":Attribute mora biti veljaven e-poštni naslov.",

@@ -12,3 +12,5 @@ on:
 jobs:
   Check:
     uses: Laravel-Lang/.github/.github/workflows/title-checker.yml@main
+    with:
+        token: ${{ secrets.COMPOSER_TOKEN }}

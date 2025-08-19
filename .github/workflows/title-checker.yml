@@ -9,8 +9,8 @@ on:
       - synchronize
       - ready_for_review
 
+permissions: write-all
+
 jobs:
   Check:
     uses: Laravel-Lang/.github/.github/workflows/title-checker.yml@main
-    with:
-        token: ${{ secrets.COMPOSER_TOKEN }}

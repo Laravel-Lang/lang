@@ -33,7 +33,7 @@
     "digits_between": "Pole :attribute musi mieć od :min do :max cyfr.",
     "dimensions": "Pole :attribute ma niepoprawne wymiary.",
     "distinct": "Pole :attribute ma zduplikowane wartości.",
-    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
+    "doesnt_contain": "Pole :attribute nie może zawierać żadnej z następujących wartości: :values.",
     "doesnt_end_with": "Pole :attribute nie może kończyć się jedną z następujących wartości: :values.",
     "doesnt_start_with": "Pole :attribute nie może zaczynać się od jednego z następujących wartości: :values.",
     "email": "Pole :attribute nie jest poprawnym adresem e-mail.",

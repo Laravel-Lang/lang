@@ -9,6 +9,8 @@ on:
       - unpublished
   workflow_dispatch:
 
+permissions: write-all
+
 jobs:
     Update:
         uses: Laravel-Lang/.github/.github/workflows/release-drafter.yml@main

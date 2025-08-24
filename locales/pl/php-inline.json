@@ -32,7 +32,7 @@
     "digits_between": "Pole musi mieć od :min do :max cyfr.",
     "dimensions": "Pole ma niepoprawne wymiary.",
     "distinct": "Pole ma zduplikowane wartości.",
-    "doesnt_contain": "This field must not contain any of the following: :values.",
+    "doesnt_contain": "To pole nie może zawierać żadnej z następujących wartości: :values.",
     "doesnt_end_with": "To pole nie może kończyć się jednym z następujących: :values.",
     "doesnt_start_with": "To pole nie może zaczynać się od jednego z następujących: :values.",
     "email": "Pole nie jest poprawnym adresem e-mail.",

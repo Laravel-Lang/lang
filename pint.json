@@ -1,5 +1,8 @@
 {
     "preset": "laravel",
+    "exclude": [
+        "tests/Fixtures"
+    ],
     "rules": {
         "@PHP71Migration": true,
         "@PHP73Migration": true,
@@ -7,8 +10,6 @@
         "@PHP80Migration": true,
         "@PHP81Migration": true,
         "@PHP82Migration": true,
-        "@PHP83Migration": true,
-        "@PHP84Migration": true,
         "concat_space": {
             "spacing": "one"
         },

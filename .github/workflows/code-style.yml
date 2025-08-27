@@ -1,0 +1,11 @@
+name: Code Style
+
+on:
+    push:
+    pull_request:
+
+permissions: write-all
+
+jobs:
+    Styler:
+        uses: TheDragonCode/.github/.github/workflows/code-style.yml@main

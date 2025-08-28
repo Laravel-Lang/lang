@@ -1,5 +1,4 @@
 {
-    
     "preset": "laravel",
     "exclude": [
         "tests/Fixtures"

@@ -97,6 +97,7 @@ jobs:
         with:
             project: Laravel Nova ${{ matrix.nova.branch }}
             paths: source/jetstream/${{ matrix.nova.branch }}/*
+            novaRepository: ${{ secrets.novaRepository }}
             commands: |
                 git config --local user.email "action@github.com"
                 git config --local user.name "GitHub Action"

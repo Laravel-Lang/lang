@@ -92,6 +92,8 @@ jobs:
                 nova:
                     - { branch: "4.x", version: "4.0" }
                     - { branch: "5.x", version: "5.0" }
+        secrets:
+            LARAVEL_REPOSITORY: ${{ secrets.LARAVEL_REPOSITORY }}
         with:
             project: Laravel Nova ${{ matrix.nova.branch }}
             paths: source/jetstream/${{ matrix.nova.branch }}/*

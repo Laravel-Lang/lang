@@ -93,7 +93,7 @@ jobs:
                     - { branch: "4.x", version: "4.0" }
                     - { branch: "5.x", version: "5.0" }
         secrets:
-            LARAVEL_REPOSITORY: ${{ secrets.LARAVEL_REPOSITORY }}
+            novaRepository: ${{ secrets.LARAVEL_REPOSITORY }}
         with:
             project: Laravel Nova ${{ matrix.nova.branch }}
             paths: source/jetstream/${{ matrix.nova.branch }}/*
@@ -101,7 +101,7 @@ jobs:
                 git config --local user.email "action@github.com"
                 git config --local user.name "GitHub Action"
 
-                composer config repositories.nova composer ${{ secrets.LARAVEL_REPOSITORY }}
+                composer config repositories.nova composer ${{ secrets.novaRepository }}
                 composer require laravel/nova:^${{ matrix.nova.version }}
                 
                 cp vendor/laravel/nova/resources/lang/en.json source/nova/${{ matrix.nova.branch }}/nova.json -f

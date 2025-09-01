@@ -32,7 +32,7 @@
     "digits_between": "ਇਹ ਖੇਤਰ :min ਅਤੇ :max ਅੰਕਾਂ ਦੇ ਵਿਚਕਾਰ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।",
     "dimensions": "ਇਸ ਖੇਤਰ ਵਿੱਚ ਅਵੈਧ ਚਿੱਤਰ ਮਾਪ ਹਨ।",
     "distinct": "ਇਸ ਖੇਤਰ ਦਾ ਡੁਪਲੀਕੇਟ ਮੁੱਲ ਹੈ।",
-    "doesnt_contain": "This field must not contain any of the following: :values.",
+    "doesnt_contain": "ਇਸ ਖੇਤਰ ਵਿੱਚ ਹੇਠ ਲਿਖਿਆਂ ਵਿੱਚੋਂ ਕੋਈ ਵੀ ਨਹੀਂ ਹੋਣਾ ਚਾਹੀਦਾ: :values.",
     "doesnt_end_with": "ਇਹ ਖੇਤਰ ਇਹਨਾਂ ਵਿੱਚੋਂ ਇੱਕ ਨਾਲ ਖਤਮ ਨਹੀਂ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ: :values.",
     "doesnt_start_with": "ਇਹ ਖੇਤਰ ਇਹਨਾਂ ਵਿੱਚੋਂ ਇੱਕ ਨਾਲ ਸ਼ੁਰੂ ਨਹੀਂ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ: :values.",
     "email": "ਇਹ ਖੇਤਰ ਇੱਕ ਵੈਧ ਈਮੇਲ ਪਤਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।",

@@ -33,7 +33,7 @@
     "digits_between": "يجب أن يحتوي حقل :attribute بين :min و :max رقمًا/أرقام .",
     "dimensions": "الحقل:attribute يحتوي على أبعاد صورة غير صالحة.",
     "distinct": "للحقل :attribute قيمة مُكرّرة.",
-    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
+    "doesnt_contain": "يجب ألا يحتوي الحقل :attribute على أي مما يلي: :values.",
     "doesnt_end_with": "الحقل :attribute يجب ألّا ينتهي بأحد القيم التالية: :values.",
     "doesnt_start_with": "الحقل :attribute يجب ألّا يبدأ بأحد القيم التالية: :values.",
     "email": "يجب أن يكون حقل :attribute عنوان بريد إلكتروني صحيح البُنية.",

@@ -289,7 +289,7 @@ editLink: false
 
 </td><td width="12%">
 
-[mni_Mtei&nbsp;❗](statuses/mni_Mtei.md)
+[mni_Mtei&nbsp;✔](statuses/mni_Mtei.md)
 
 </td><td width="12%">
 

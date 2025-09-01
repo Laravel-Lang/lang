@@ -32,7 +32,7 @@
     "digits_between": "या दरम्यान असणे आवश्यक आहे :min आणि :max अंक.",
     "dimensions": "ही प्रतिमा अवैध परिमाणे आहेत.",
     "distinct": "या क्षेत्रात हुबेहुब मूल्य आहे.",
-    "doesnt_contain": "This field must not contain any of the following: :values.",
+    "doesnt_contain": "या फील्डमध्ये खालीलपैकी कोणतेही नसावे: :values.",
     "doesnt_end_with": "हे फील्ड खालीलपैकी एकाने समाप्त होणार नाही: :values.",
     "doesnt_start_with": "हे फील्ड खालीलपैकी एकाने सुरू होऊ शकत नाही: :values.",
     "email": "हा ग्राह्य ई-मेल पत्ता असेल.",

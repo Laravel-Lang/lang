@@ -33,7 +33,7 @@
     "digits_between": ":attribute :min ۽ :max انگن جي وچ ۾ هجڻ گهرجي.",
     "dimensions": ":attribute ۾ غلط تصوير جا طول و عرض آھن.",
     "distinct": ":attribute فيلڊ ۾ هڪ نقلي قدر آهي.",
-    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
+    "doesnt_contain": ":attribute فيلڊ ۾ ھيٺ ڏنل ڪنھن به شامل نه آھي: :values.",
     "doesnt_end_with": ":attribute فيلڊ کي ھيٺين مان ھڪڙي سان ختم نه ٿيڻ گھرجي: :values.",
     "doesnt_start_with": ":attribute فيلڊ ھيٺين مان ھڪڙي سان شروع نه ٿيڻ گھرجي: :values.",
     "email": ":attribute هڪ صحيح اي ميل پتو هجڻ گهرجي.",

@@ -33,7 +33,7 @@
     "digits_between": ":attributeቱ በ:min እና በ:max አሃዞች መካከል መሆን አለባቸው።",
     "dimensions": ":attributeቱ ልክ ያልሆኑ የምስል ልኬቶች አሏቸው።",
     "distinct": ":attribute መስክ የተባዛ እሴት አለው።",
-    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
+    "doesnt_contain": ":attribute ሜዳ ከሚከተሉት ውስጥ አንዳቸውም መያዝ የለበትም. :values.",
     "doesnt_end_with": ":attribute ሜዳው ከሚከተሉት በአንዱ ማለቅ የለበትም፡ :values.",
     "doesnt_start_with": ":attribute ሜዳው ከሚከተሉት በአንዱ መጀመር የለበትም፡ :values.",
     "email": ":attribute ትክክለኛ የኢሜይል አድራሻ መሆን አለበት።",

@@ -33,7 +33,7 @@
     "digits_between": "१० २० तः ३० अङ्कानां मध्ये भवितुमर्हति ।",
     "dimensions": "१० इत्यस्य अमान्यप्रतिबिम्बपरिमाणाः सन्ति ।",
     "distinct": "१० क्षेत्रस्य द्वितीयकं मूल्यं भवति ।",
-    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
+    "doesnt_contain": ":attribute क्षेत्रे निम्नलिखितयोः कश्चन अपि न भवितव्यः : :values.",
     "doesnt_end_with": "१० क्षेत्रं निम्नलिखितयोः एकेन न समाप्तं भवेत् : २० ।",
     "doesnt_start_with": "१० क्षेत्रं निम्नलिखितयोः एकेन न आरभ्यते : २० ।",
     "email": "१० वैधः ईमेल-सङ्केतः भवितुमर्हति ।",

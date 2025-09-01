@@ -32,7 +32,7 @@
     "digits_between": "Ennek :min és :max között kell lennie.",
     "dimensions": "Ez a kép érvénytelen méretekkel rendelkezik.",
     "distinct": "Ez a mező ismétlődő értékkel rendelkezik.",
-    "doesnt_contain": "This field must not contain any of the following: :values.",
+    "doesnt_contain": "Ez a mező nem tartalmazhat a következők egyikét: :values.",
     "doesnt_end_with": "Ez a mező nem végződhet ezekkel az értékekkel: :values.",
     "doesnt_start_with": "Ez a mező nem kezdődhet ezekkel az értékekkel: :values.",
     "email": "Ennek érvényes e-mail címnek kell lennie.",

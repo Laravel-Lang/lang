@@ -33,7 +33,7 @@
     "digits_between": "Количество символов в поле :attribute должно быть от :min до :max.",
     "dimensions": "Изображение, указанное в поле :attribute, имеет недопустимые размеры.",
     "distinct": "Элементы в значении поля :attribute не должны повторяться.",
-    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
+    "doesnt_contain": "Значение поля :attribute не должно содержать ни одного из следующих элементов: :values.",
     "doesnt_end_with": "Значение поля :attribute не должно заканчиваться одним из следующих: :values.",
     "doesnt_start_with": "Значение поля :attribute не должно начинаться с одного из следующих: :values.",
     "email": "Значение поля :attribute должно быть действительным электронным адресом.",

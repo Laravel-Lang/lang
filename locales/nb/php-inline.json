@@ -32,7 +32,7 @@
     "digits_between": "Må være mellom :min og :max siffer.",
     "dimensions": "Har ugyldige bildedimensjoner.",
     "distinct": "Har en duplisert verdi.",
-    "doesnt_contain": "This field must not contain any of the following: :values.",
+    "doesnt_contain": "Dette feltet må ikke inneholde noe av følgende: :values.",
     "doesnt_end_with": "Dette feltet kan ikke slutte med ett av følgende: :values.",
     "doesnt_start_with": "Dette feltet starter kanskje ikke med ett av følgende: :values.",
     "email": "Må være en gyldig e-postadresse.",

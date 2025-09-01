@@ -32,7 +32,7 @@
     "digits_between": "必須介於 :min 至 :max 位數字。",
     "dimensions": "圖片尺寸不正確。",
     "distinct": "已經存在。",
-    "doesnt_contain": "This field must not contain any of the following: :values.",
+    "doesnt_contain": "該字段不得包含以下任何一個：:values。",
     "doesnt_end_with": "結尾不能包含下列之一： :values。",
     "doesnt_start_with": "開頭不能包含下列之一： :values。",
     "email": "必須是有效的 E-mail。",

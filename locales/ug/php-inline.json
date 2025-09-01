@@ -32,7 +32,7 @@
     "digits_between": "This must be between :min and :max digits.",
     "dimensions": "This image has invalid dimensions.",
     "distinct": "بۇ ساھەنىڭ كۆپەيتىلگەن قىممىتى بار.",
-    "doesnt_contain": "This field must not contain any of the following: :values.",
+    "doesnt_contain": "بۇ ساھەدە تۆۋەندىكىلەرنىڭ ھېچقايسىسىنى ئۆز ئىچىگە ئېلىشى كېرەك: :values.",
     "doesnt_end_with": "بۇ ساھە تۆۋەندىكىلەرنىڭ بىرى بىلەن ئاخىرلاشماسلىقى مۇمكىن: :values.",
     "doesnt_start_with": "بۇ ساھە تۆۋەندىكىلەرنىڭ بىرىدىن باشلانماسلىقى مۇمكىن: :values.",
     "email": "This must be a valid email address.",

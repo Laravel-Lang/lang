@@ -33,7 +33,7 @@
     "digits_between": "Ɛsɛ sɛ :attribute no yɛ nkyerɛwde :min kosi :max ntam.",
     "dimensions": ":attribute no wɔ mfonini no nsusuwii a ɛnteɛ.",
     "distinct": ":attribute afuw no wɔ botae a ɛyɛ abien.",
-    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
+    "doesnt_contain": "Ɛnsɛ sɛ :attribute field no kura nea edidi so yi mu biara: :values.",
     "doesnt_end_with": "Ɛnsɛ sɛ :attribute afuw no ba awiei wɔ nea edidi so yi mu biako mu: :values.",
     "doesnt_start_with": "Ɛnsɛ sɛ :attribute afuw no fi ase de nea edidi so yi mu biako: :values.",
     "email": "Ɛsɛ sɛ :attribute no yɛ email address a ɛfata.",

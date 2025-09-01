@@ -33,7 +33,7 @@
     "digits_between": "Kentän :attribute arvon tulee olla :min - :max numeroa.",
     "dimensions": "Kentän :attribute kuvalla on virheelliset mitat.",
     "distinct": "Kentän :attribute arvo ei ole uniikki.",
-    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
+    "doesnt_contain": ":attribute -kenttä ei saa sisältää mitään seuraavista: :values.",
     "doesnt_end_with": ":Attribute ei saa päättyä johonkin seuraavista: :values.",
     "doesnt_start_with": ":Attribute ei voi alkaa jollakin seuraavista: :values.",
     "email": "Kentän :attribute arvo ei ole validi sähköpostiosoite.",

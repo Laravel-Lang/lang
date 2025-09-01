@@ -32,7 +32,7 @@
     "digits_between": "एह् फील्ड :min थमां :max अंकें दे बश्कार होना चाहिदा ऐ।",
     "dimensions": "इस फील्ड च अवैध छवि आयाम न.",
     "distinct": "इस फील्ड दा इक डुप्लिकेट वैल्यू ऐ।",
-    "doesnt_contain": "This field must not contain any of the following: :values.",
+    "doesnt_contain": "इस फील्ड च निम्नलिखित च कोई बी नेईं होना चाहिदा: :values.",
     "doesnt_end_with": "इस फील्ड दा अंत निम्नलिखित च कुसै इक कन्नै नेईं होना चाहिदा: :values.",
     "doesnt_start_with": "इस फील्ड दी शुरुआत निम्नलिखित च कुसै इक कन्नै नेईं होनी चाहिदी: :values.",
     "email": "एह् फील्ड इक मान्य ईमेल पता होना चाहिदा ऐ.",

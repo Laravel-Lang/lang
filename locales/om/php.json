@@ -33,7 +33,7 @@
     "digits_between": ":attributen dijiitii :min hanga :max gidduutti ta’uu qaba.",
     "dimensions": ":attributen safara fakkii sirrii hin taane qaba.",
     "distinct": "Dirreen :attribute gatii dachaa qaba.",
-    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
+    "doesnt_contain": "Dirreen :attribute kanneen armaan gadii keessaa tokkollee qabaachuu hin qabu: :values.",
     "doesnt_end_with": "Dirreen :attribute kanneen armaan gadii keessaa tokkoon xumuramuu hin qabu: :values.",
     "doesnt_start_with": "Dirreen :attribute kanneen armaan gadii keessaa tokkoon jalqabuu hin qabu: :values.",
     "email": ":attributen kun teessoo imeelii sirrii ta’uu qaba.",

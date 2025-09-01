@@ -32,7 +32,7 @@
     "digits_between": "Divê ev qad di navbera :min û :max reqeman de be.",
     "dimensions": "Di vê qadê de pîvanên wêneyê nederbasdar hene.",
     "distinct": "Ev qad xwedî nirxek dubare ye.",
-    "doesnt_contain": "This field must not contain any of the following: :values.",
+    "doesnt_contain": "Divê ev zevî ji yên jêrîn tune: :values.",
     "doesnt_end_with": "Divê ev qad bi yek ji van jêrîn bidawî nebe: :values.",
     "doesnt_start_with": "Divê ev qad bi yek ji van jêrîn dest pê neke: :values.",
     "email": "Divê ev qad navnîşek e-nameyek derbasdar be.",

@@ -33,7 +33,7 @@
     "digits_between": ":attribute അക്കങ്ങൾ :min നും :max നും ഇടയിലായിരിക്കണം.",
     "dimensions": ":attribute-ന് അസാധുവായ ഇമേജ് അളവുകൾ ഉണ്ട്.",
     "distinct": ":attribute ഫീൽഡിന് ഡ്യൂപ്ലിക്കേറ്റ് മൂല്യമുണ്ട്.",
-    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
+    "doesnt_contain": ":attribute ഫീൽഡിൽ ഇനിപ്പറയുന്നവയിൽ ഏതെങ്കിലും അടങ്ങിയിരിക്കരുത്: :values.",
     "doesnt_end_with": ":attribute ഫീൽഡ് ഇനിപ്പറയുന്നതിൽ ഒന്നിൽ അവസാനിക്കരുത്: :values.",
     "doesnt_start_with": ":attribute ഫീൽഡ് ഇനിപ്പറയുന്നതിൽ ഒന്നിൽ നിന്ന് ആരംഭിക്കരുത്: :values.",
     "email": ":attribute സാധുവായ ഇമെയിൽ വിലാസമായിരിക്കണം.",

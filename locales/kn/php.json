@@ -33,7 +33,7 @@
     "digits_between": "ಈ  :attribute ನಲ್ಲಿ  :min ಮತ್ತು :max ಸಂಖ್ಯೆಗಳ ನಡುವೆ ಇರಬೇಕು .",
     "dimensions": "ಈ  :attribute ಅಮಾನ್ಯವಾದ ಚಿತ್ರ ಆಯಾಮಗಳನ್ನು ಹೊಂದಿದೆ.",
     "distinct": "ಈ  :attribute ಕ್ಷೇತ್ರವು ನಕಲಿ ಮೌಲ್ಯವನ್ನು ಹೊಂದಿದೆ.",
-    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
+    "doesnt_contain": ":attribute ಕ್ಷೇತ್ರವು ಈ ಕೆಳಗಿನ ಯಾವುದನ್ನೂ ಹೊಂದಿರಬಾರದು: :values.",
     "doesnt_end_with": ":Attribute ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಒಂದರಲ್ಲಿ ಕೊನೆಗೊಳ್ಳದಿರಬಹುದು: :values.",
     "doesnt_start_with": ":Attribute ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಒಂದರಿಂದ ಪ್ರಾರಂಭವಾಗಬಾರದು: :values.",
     "email": "ಈ  :attribute ಮಾನ್ಯವಾದ ಇಮೇಲ್ ವಿಳಾಸವಾಗಿರಬೇಕು.",

@@ -33,7 +33,7 @@
     "digits_between": "O :attribute debe estar entre :min e :max díxitos.",
     "dimensions": "O :attribute ten dimensións de imaxe non válidas.",
     "distinct": "O eido :attribute ten un valor duplicado.",
-    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
+    "doesnt_contain": "O campo :attribute non debe conter ningún dos seguintes: :values.",
     "doesnt_end_with": "O :attribute non pode rematar cun dos seguintes: :values.",
     "doesnt_start_with": "O :attribute non pode comezar por un dos seguintes: :values.",
     "email": "O :attribute debe ser un enderezo de correo-e válido.",

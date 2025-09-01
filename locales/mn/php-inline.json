@@ -32,7 +32,7 @@
     "digits_between": "Энэ хооронд байх естой :min, :max тоо.",
     "dimensions": "Энэ зураг нь хүчин төгөлдөр бус хэмжээ байна.",
     "distinct": "Энэ талбар нь давхардсан утгыг байна.",
-    "doesnt_contain": "This field must not contain any of the following: :values.",
+    "doesnt_contain": "Энэ талбар нь дараахь зүйлсийн аль нэгийг агуулж болохгүй: :values.",
     "doesnt_end_with": "Энэ талбар дараахын аль нэгээр төгсөх ёсгүй: :values.",
     "doesnt_start_with": "Энэ талбар дараахын аль нэгээр эхлэхгүй байж болно: :values.",
     "email": "Энэ и-мэйл хаяг нь зөв байх естой.",

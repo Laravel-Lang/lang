@@ -33,7 +33,7 @@
     "digits_between": ":Attribute талбарт :min-:max хоорондох цифр оруулах боломжтой.",
     "dimensions": ":Attribute талбарийн зургийн хэмжээс буруу байна.",
     "distinct": ":Attribute талбарт ялгаатай утга оруулах шаардлагатай.",
-    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
+    "doesnt_contain": ":attribute талбар нь дараахь зүйлсийн аль нэгийг агуулж болохгүй: :values.",
     "doesnt_end_with": ":Attribute нь дараахын аль нэгээр төгсөхгүй байж болно: :values.",
     "doesnt_start_with": ":Attribute нь дараахын аль нэгээр нь эхэлж болохгүй: :values.",
     "email": ":Attribute талбарт зөв и-мэйл хаяг оруулах шаардлагатай.",

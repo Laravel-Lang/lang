@@ -33,7 +33,7 @@
     "digits_between": ":Attribute ត្រូវចាប់ពីខ្ទង់ :min ទៅ :max។",
     "dimensions": "ទំហំរូបភាព​ :attribute មិនត្រឹមត្រូវ។",
     "distinct": ":Attribute មានតម្លៃស្ទួន។",
-    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
+    "doesnt_contain": "វាលទាំង :attribute មិនត្រូវមានដូចខាងក្រោម: :values ។",
     "doesnt_end_with": ":Attribute ប្រហែលជាមិនបញ្ចប់ដោយមួយក្នុងចំណោមដូចខាងក្រោម: :values ។",
     "doesnt_start_with": ":Attribute ប្រហែលជាមិនចាប់ផ្តើមជាមួយមួយក្នុងចំណោមដូចខាងក្រោម: :values ។",
     "email": ":Attribute ទម្រង់នេះមិនត្រឹមត្រូវ។",

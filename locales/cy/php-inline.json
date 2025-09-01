@@ -32,7 +32,7 @@
     "digits_between": "Rhaid i hyn fod rhwng :min a :max digid.",
     "dimensions": "Mae'r ddelwedd hon wedi annilys dimensiynau.",
     "distinct": "Y maes hwn wedi dyblyg gwerth.",
-    "doesnt_contain": "This field must not contain any of the following: :values.",
+    "doesnt_contain": "Rhaid i'r maes hwn beidio â chynnwys unrhyw un o'r canlynol: :values.",
     "doesnt_end_with": "Efallai na fydd y maes hwn yn gorffen gydag un o’r canlynol: :values.",
     "doesnt_start_with": "Efallai na fydd y maes hwn yn dechrau gydag un o'r canlynol: :values.",
     "email": "Rhaid i hyn fod yn gyfeiriad e-bost dilys.",

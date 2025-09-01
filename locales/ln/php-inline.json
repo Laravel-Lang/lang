@@ -32,7 +32,7 @@
     "digits_between": "Esika oyo esengeli kozala kati na ba chiffres :min na :max.",
     "dimensions": "Esika oyo ezali na bonene ya bilili oyo ezali malamu te.",
     "distinct": "Esika oyo ezali na motuya ya mbala mibale.",
-    "doesnt_contain": "This field must not contain any of the following: :values.",
+    "doesnt_contain": "Esika oyo esengeli kozala na moko te ya makambo oyo elandi: :values.",
     "doesnt_end_with": "Esengeli te ete esika oyo esila na moko ya makambo oyo elandi: :values.",
     "doesnt_start_with": "Esengeli te ete esika oyo ebanda na moko ya makambo oyo elandi: :values.",
     "email": "Esika oyo esengeli kozala adresse email ya malamu.",

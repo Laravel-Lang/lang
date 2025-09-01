@@ -32,7 +32,7 @@
     "digits_between": "Dit fjild moat tusken :min en :max sifers wêze.",
     "dimensions": "Dit fjild hat ûnjildige ôfbyldingsdimensjes.",
     "distinct": "Dit fjild hat in dûbele wearde.",
-    "doesnt_contain": "This field must not contain any of the following: :values.",
+    "doesnt_contain": "Dit fjild moat gjin fan 'e folgjende befetsje: :values.",
     "doesnt_end_with": "Dit fjild mei net einigje op ien fan 'e folgjende: :values.",
     "doesnt_start_with": "Dit fjild mei net begjinne mei ien fan de folgjende: :values.",
     "email": "Dit fjild moat in jildich e-mailadres wêze.",

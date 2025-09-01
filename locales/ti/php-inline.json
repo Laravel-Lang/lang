@@ -32,7 +32,7 @@
     "digits_between": "እዚ ዓውዲ ካብ :min ክሳብ :max ኣሃዝ ክኸውን ኣለዎ።",
     "dimensions": "እዚ ዓውዲ እዚ ዘይሕጋዊ መለክዒታት ምስሊ ኣለዎ።",
     "distinct": "እዚ ዓውዲ እዚ ተደጋጋሚ ዋጋ ኣለዎ።",
-    "doesnt_contain": "This field must not contain any of the following: :values.",
+    "doesnt_contain": "እዚ ዓውዲ ካብዞም ዝስዕቡ ዝኾነ ክሕዝ የብሉን: :values.",
     "doesnt_end_with": "እዚ ዓውዲ እዚ ብሓደ ካብዞም ዝስዕቡ ክውዳእ የብሉን፡ :values.",
     "doesnt_start_with": "እዚ ዓውዲ ብሓደ ካብዞም ዝስዕቡ ክጅምር የብሉን፡ :values.",
     "email": "እዚ ዓውዲ እዚ ቅኑዕ ናይ ኢመይል ኣድራሻ ክኸውን ኣለዎ።",

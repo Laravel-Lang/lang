@@ -32,7 +32,7 @@
     "digits_between": "Dan il-field għandu jkun bejn :min u :max ċifra.",
     "dimensions": "Dan il-qasam għandu dimensjonijiet ta' immaġini invalidi.",
     "distinct": "Dan il-qasam għandu valur duplikat.",
-    "doesnt_contain": "This field must not contain any of the following: :values.",
+    "doesnt_contain": "Dan il-qasam m'għandux ikun fih xi wieħed minn dawn li ġejjin: :values.",
     "doesnt_end_with": "Dan il-field m'għandux jispiċċa b'wieħed minn dawn li ġejjin: :values.",
     "doesnt_start_with": "Dan il-field m'għandux jibda b'wieħed minn dawn li ġejjin: :values.",
     "email": "Dan il-qasam irid ikun indirizz elettroniku validu.",

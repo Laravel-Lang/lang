@@ -33,7 +33,7 @@
     "digits_between": ":Attribute måste vara mellan :min och :max tecken.",
     "dimensions": ":Attribute har felaktiga bilddimensioner.",
     "distinct": ":Attribute innehåller fler än en repetition av samma element.",
-    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
+    "doesnt_contain": "Det tio fältet får inte innehålla något av följande: :values.",
     "doesnt_end_with": ":Attribute får inte sluta med det följande värden: :values.",
     "doesnt_start_with": ":Attribute får inte börja med följande värden: :values.",
     "email": ":Attribute måste innehålla en korrekt e-postadress.",

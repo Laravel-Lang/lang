@@ -33,7 +33,7 @@
     "digits_between": ":Attribute, :min और :max अंकों के बीच होना चाहिए ।",
     "dimensions": ":Attribute का अमान्य चित्त माप है ।",
     "distinct": ":Attribute फील्ड का एक डुप्लिकेट मान होता है ।",
-    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
+    "doesnt_contain": ":attribute फ़ील्ड में निम्नलिखित में से कोई भी नहीं होना चाहिए: :values।",
     "doesnt_end_with": ":Attribute निम्नलिखित में से किसी एक के साथ समाप्त नहीं हो सकता है: :values ।",
     "doesnt_start_with": ":Attribute निम्नलिखित में से किसी एक के साथ शुरू नहीं हो सकता है: :values ।",
     "email": ":Attribute एक मान्य ईमेल पता होना चाहिए ।",

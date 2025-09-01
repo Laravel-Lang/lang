@@ -32,7 +32,7 @@
     "digits_between": "Toto pole musí mať rozsah :min až :max číslic.",
     "dimensions": "Tento obrázok má neplatné rozmery.",
     "distinct": "Toto pole má duplicitnú hodnotu.",
-    "doesnt_contain": "This field must not contain any of the following: :values.",
+    "doesnt_contain": "Toto pole nesmie obsahovať žiadne z nasledujúcich: :values.",
     "doesnt_end_with": "Toto pole nesmie končiť jednou z týchto možností: :values.",
     "doesnt_start_with": "Toto pole nesmie začínať jednou z týchto možností: :values.",
     "email": "Toto pole musí byť platná emailová adresa.",

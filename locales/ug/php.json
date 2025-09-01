@@ -33,7 +33,7 @@
     "digits_between": ":Attribute چوقۇم  :min بىلەن :max ئارلىقىدىكى سان بۇلىشى كېرەك.",
     "dimensions": ":Attribute رەسىم ئۆلچىمى ئىناۋەتسىز.",
     "distinct": ":Attribute ئاللابۇرۇن مەۋجۈت.",
-    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
+    "doesnt_contain": ":attribute مەيدان تۆۋەندىكىلەرنىڭ ھېچقايسىسىنى ئۆز ئىچىگە ئېلىشى كېرەك: :values.",
     "doesnt_end_with": ":Attribute تۆۋەندىكىلەرنىڭ بىرى بىلەن ئاخىرلاشماسلىقى مۇمكىن: :values.",
     "doesnt_start_with": ":Attribute تۆۋەندىكىلەرنىڭ بىرىدىن باشلانماسلىقى مۇمكىن: :values.",
     "email": ":Attribute ئىناۋەتلىك تورخەت ئادىرىسى ئەمەس.",

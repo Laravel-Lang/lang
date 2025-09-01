@@ -33,7 +33,7 @@
     "digits_between": ":Attribute لازماً :min اور :max اعداد کے درمیان ہو۔",
     "dimensions": "اس کے :attribute ہے باطل کی تصویر کے طول و عرض.",
     "distinct": ":Attribute کی دہری ویلیو ہے۔",
-    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
+    "doesnt_contain": ":attribute فیلڈ میں مندرجہ ذیل میں سے کسی پر بھی شامل نہیں ہونا چاہئے: :values۔",
     "doesnt_end_with": ":Attribute درج ذیل میں سے کسی ایک پر ختم نہیں ہو سکتا: :values۔",
     "doesnt_start_with": ":Attribute درج ذیل میں سے کسی ایک سے شروع نہیں ہو سکتا: :values۔",
     "email": ":Attribute لازماً قابلِ قبول ای میل ہو۔",

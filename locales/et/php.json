@@ -33,7 +33,7 @@
     "digits_between": ":Attribute peab olema :min ja :max numbri vahel.",
     "dimensions": ":Attribute on valed pildi suurused.",
     "distinct": ":Attribute väljal on topeltväärtus.",
-    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
+    "doesnt_contain": ":attribute väli ei tohi sisaldada järgmistest: :values.",
     "doesnt_end_with": ":Attribute ei tohi lõppeda ühega järgmistest: :values.",
     "doesnt_start_with": ":Attribute ei pruugi alata ühega järgmistest: :values.",
     "email": ":Attribute peab olema kehtiv e-posti aadress.",

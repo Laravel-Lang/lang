@@ -33,7 +33,7 @@
     "digits_between": "১০টা ২০ৰ পৰা ৩০ সংখ্যাৰ ভিতৰত হ’ব লাগিব।",
     "dimensions": "১০ ৰ ছবিৰ মাত্ৰা অবৈধ।",
     "distinct": ":attribute ফিল্ডৰ এটা ডুপ্লিকেট মান আছে।",
-    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
+    "doesnt_contain": ":attribute টা ক্ষেত্ৰত তলত দিয়া কোনো এটা থাকিব নালাগে: :values.",
     "doesnt_end_with": ":attribute ক্ষেত্ৰখন তলত দিয়া এটাৰে শেষ হ'ব নালাগে: :values.",
     "doesnt_start_with": ":attribute ক্ষেত্ৰখন তলত দিয়া এটাৰে আৰম্ভ হ'ব নালাগে: :values.",
     "email": "১০ টা বৈধ ইমেইল ঠিকনা হ’ব লাগিব।",

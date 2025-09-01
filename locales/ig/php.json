@@ -33,7 +33,7 @@
     "digits_between": ":attribute ahụ ga-abụrịrị n'etiti nkeji :min na :max.",
     "dimensions": ":attribute ahụ nwere akụkụ onyonyo ezighi ezi.",
     "distinct": "Ogige iri ahụ nwere uru oyiri.",
-    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
+    "doesnt_contain": "Ubi :attribute agaghị enwe ihe ndị a: :values.",
     "doesnt_end_with": "Ogige iri agaghị ejedebe na otu n'ime ihe ndị a: :values.",
     "doesnt_start_with": "Ogige iri agaghị ebido na otu n'ime ihe ndị a: :values.",
     "email": ":attribute ahụ ga-abụrịrị adreesị ozi-e ziri ezi.",

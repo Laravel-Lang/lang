@@ -32,7 +32,7 @@
     "digits_between": "Caithfidh an réimse seo a bheith idir :min agus :max digit.",
     "dimensions": "Tá toisí íomhá neamhbhailí sa réimse seo.",
     "distinct": "Tá luach dúblach ag an réimse seo.",
-    "doesnt_contain": "This field must not contain any of the following: :values.",
+    "doesnt_contain": "Níor chóir go mbeadh aon cheann díobh seo a leanas sa réimse seo: :values.",
     "doesnt_end_with": "Ní fhéadfaidh an réimse seo críochnú le ceann amháin díobh seo a leanas: :values.",
     "doesnt_start_with": "Níor cheart go dtosódh an réimse seo le ceann amháin díobh seo a leanas: :values .",
     "email": "Ní mór seoladh ríomhphoist bailí a bheith sa réimse seo.",

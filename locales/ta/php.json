@@ -33,7 +33,7 @@
     "digits_between": ":attribute :min மற்றும் :max இலக்கங்களுக்கு இடையில் இருக்க வேண்டும்.",
     "dimensions": ":attribute தவறான பட பரிமாணங்களைக் கொண்டுள்ளது.",
     "distinct": ":attribute புலத்தில் நகல் மதிப்பு உள்ளது.",
-    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
+    "doesnt_contain": ":attribute புலத்தில் பின்வருவனவற்றில் எதுவும் இருக்கக்கூடாது: :values.",
     "doesnt_end_with": ":attribute புலம் பின்வருவனவற்றில் ஒன்றில் முடிவடையக்கூடாது: :values.",
     "doesnt_start_with": ":attribute புலம் பின்வருவனவற்றில் ஒன்றில் தொடங்கக்கூடாது: :values.",
     "email": ":attribute சரியான மின்னஞ்சல் முகவரியாக இருக்க வேண்டும்.",

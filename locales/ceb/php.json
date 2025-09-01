@@ -33,7 +33,7 @@
     "digits_between": "Ang :attribute kinahanglang tali sa :min ug :max ka numero.",
     "dimensions": "Ang :attribute adunay dili balido nga mga sukat sa imahe.",
     "distinct": "Ang :attribute nga uma adunay doble nga kantidad.",
-    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
+    "doesnt_contain": "Ang :attribute ka uma kinahanglan dili maglangkob sa bisan kinsa sa mga musunud: :values.",
     "doesnt_end_with": "Ang :attribute ka field kinahanglang dili matapos sa usa sa mosunod: :values.",
     "doesnt_start_with": "Ang :attribute ka field kinahanglang dili magsugod sa usa sa mosunod: :values.",
     "email": "Ang :attribute kinahanglan usa ka balido nga email address.",

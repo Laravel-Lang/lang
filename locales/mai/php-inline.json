@@ -32,7 +32,7 @@
     "digits_between": "ई क्षेत्र :min सं :max अंकक बीच होबाक चाही.",
     "dimensions": "एहि क्षेत्र मे अमान्य छवि आयाम अछि.",
     "distinct": "एहि क्षेत्रक डुप्लिकेट मान अछि.",
-    "doesnt_contain": "This field must not contain any of the following: :values.",
+    "doesnt_contain": "एहि क्षेत्र मे निम्नलिखित मे सँ कोनो मे नहि होबाक चाही : :values.",
     "doesnt_end_with": "इ क्षेत्र निम्नलिखित मे सं कोनों एकटा सं समाप्त नहि होबाक चाही: :values.",
     "doesnt_start_with": "इ क्षेत्र निम्नलिखित मे सं कोनों एकटा सं शुरू नहि होबाक चाही: :values.",
     "email": "ई क्षेत्र वैध ईमेल पता होबाक चाही.",

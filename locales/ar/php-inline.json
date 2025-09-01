@@ -32,7 +32,7 @@
     "digits_between": "يجب أن يكون بين :min و :max رقمًا/أرقام .",
     "dimensions": "الصورة تحتوي على أبعاد غير صالحة.",
     "distinct": "هذا الحقل يحمل قيمة مُكرّرة.",
-    "doesnt_contain": "This field must not contain any of the following: :values.",
+    "doesnt_contain": "يجب ألا يحتوي هذا الحقل على أي مما يلي: :values.",
     "doesnt_end_with": "هذا الحقل يجب ألّا ينتهي بأحد القيم التالية: :values.",
     "doesnt_start_with": "هذا الحقل يجب ألّا يبدأ بأحد القيم التالية: :values.",
     "email": "يجب أن يكون عنوان بريد إلكتروني صحيح البُنية.",

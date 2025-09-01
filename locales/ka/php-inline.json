@@ -32,7 +32,7 @@
     "digits_between": "ეს უნდა იყოს :min და :max ციფრები.",
     "dimensions": "ეს სურათი არასწორი ზომები.",
     "distinct": "ეს ველი აქვს დუბლიკატი ღირებულება.",
-    "doesnt_contain": "This field must not contain any of the following: :values.",
+    "doesnt_contain": "ეს ველი არ უნდა შეიცავდეს შემდეგს: :values.",
     "doesnt_end_with": "ეს ველი არ შეიძლება დასრულდეს შემდეგი სიტყვებით: :values.",
     "doesnt_start_with": "ეს ველი შეიძლება არ იწყებოდეს ქვემოთ ჩამოთვლილიდან ერთით: :values.",
     "email": "ეს უნდა იყოს სწორი ელექტრონული ფოსტის მისამართი.",

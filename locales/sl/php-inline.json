@@ -32,7 +32,7 @@
     "digits_between": "Vnos mora vsebovati od :min do :max števk.",
     "dimensions": "Slika ni pravilnih dimenzij.",
     "distinct": "Polje ima podvojeno vrednost.",
-    "doesnt_contain": "This field must not contain any of the following: :values.",
+    "doesnt_contain": "To polje ne sme vsebovati nobenega od naslednjih: :values.",
     "doesnt_end_with": "To polje se ne sme končati z enim od naslednjih: :values.",
     "doesnt_start_with": "To polje se ne sme začeti z enim od naslednjih: :values.",
     "email": "Elektronski naslov mora biti veljaven.",

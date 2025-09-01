@@ -32,7 +32,7 @@
     "digits_between": "Tam jābūt starp :min un :max cipariem.",
     "dimensions": "Šim attēlam ir nederīgi izmēri.",
     "distinct": "Šim laukam ir dublikāta vērtība.",
-    "doesnt_contain": "This field must not contain any of the following: :values.",
+    "doesnt_contain": "Šajā laukā nedrīkst būt neviena no šiem: :values.",
     "doesnt_end_with": "Šis lauks nedrīkst beigties ar vienu no šiem: :values.",
     "doesnt_start_with": "Šis lauks nedrīkst sākties ar vienu no šiem: :values.",
     "email": "Tam jābūt derīgai e-pasta adresei.",

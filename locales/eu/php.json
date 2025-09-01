@@ -33,7 +33,7 @@
     "digits_between": ":Attribute-(e)k :min eta :max arteko digitu kopurua eduki behar du.",
     "dimensions": ":Attribute irudiaren neurriak baliogabeak dira.",
     "distinct": ":Attribute-(e)k bikoiztutako balioa dauka.",
-    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
+    "doesnt_contain": ":attribute eremuak ez du hauetakoren bat eduki behar: :values.",
     "doesnt_end_with": ":Attributeekoa ezingo da honako hauetako batekin amaitu: :values.",
     "doesnt_start_with": ":Attributeekoa ezingo da honako hauetako batekin hasi: :values.",
     "email": ":Attribute baliozko helbide elektronikoa izan behar da.",

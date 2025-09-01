@@ -32,7 +32,7 @@
     "digits_between": "Hau bitartekoa izan behar du :min eta :max digituak.",
     "dimensions": "Irudi hau du baliogabea neurriak.",
     "distinct": "Eremu hau bat du bikoiztu balio.",
-    "doesnt_contain": "This field must not contain any of the following: :values.",
+    "doesnt_contain": "Eremu honek ez du hauetakoren bat eduki behar: :values.",
     "doesnt_end_with": "Eremu hau ezin da honako hauetako batekin amaitu: :values.",
     "doesnt_start_with": "Baliteke eremu hau ezin izatea honako hauetako batekin hasi: :values.",
     "email": "Hau izan behar da baliozko helbide elektroniko bat.",

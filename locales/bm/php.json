@@ -33,7 +33,7 @@
     "digits_between": ":attribute ka kan ka kɛ nimɔrɔ :min ni :max cɛ.",
     "dimensions": ":attribute in bɛ ni ja hakɛw ye minnu tɛ tiɲɛ ye.",
     "distinct": ":attribute foro in nafa bɛ ɲɔgɔn ta.",
-    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
+    "doesnt_contain": ":attribute foro man kan ka kɛ ni ninnu si ye: :values.",
     "doesnt_end_with": ":attribute foro man kan ka ban ni ninnu dɔ ye: :values.",
     "doesnt_start_with": ":attribute foro man kan ka daminɛ ni ninnu dɔ ye: :values.",
     "email": "O :attribute ka kan ka kɛ imɛri ladɛrɛsi bɛnnen ye.",

@@ -32,7 +32,7 @@
     "digits_between": "O foro in ka kan ka kɛ nimɔrɔ :min ni :max cɛ.",
     "dimensions": "Nin foro in ja hakɛw tɛ tiɲɛ.",
     "distinct": "Nin foro in nafa bɛ ɲɔgɔn ta.",
-    "doesnt_contain": "This field must not contain any of the following: :values.",
+    "doesnt_contain": "Nin foro in man kan ka nin fɛn ninnu si sɔrɔ: :values.",
     "doesnt_end_with": "Nin foro in man kan ka ban ni ninnu dɔ ye: :values.",
     "doesnt_start_with": "Nin foro in man kan ka daminɛ ni ninnu dɔ ye: :values.",
     "email": "Nin foro in ka kan ka kɛ imɛri ladɛrɛsi ye min bɛ se ka kɛ.",

@@ -33,7 +33,7 @@
     "digits_between": ":Attribute უნდა შედგებოდეს :min-დან :max ციფრამდე.",
     "dimensions": ":Attribute შეიცავს სურათის არასწორ ზომებს.",
     "distinct": ":Attribute-ის ველს აქვს დუბლირებული მნიშვნელობა.",
-    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
+    "doesnt_contain": ":attribute ველი არ უნდა შეიცავდეს შემდეგს: :values.",
     "doesnt_end_with": ":Attribute არ შეიძლება დასრულდეს ქვემოთ ჩამოთვლილიდან ერთით: :values.",
     "doesnt_start_with": ":Attribute არ შეიძლება დაიწყოს რომელიმე ქვემოთ ჩამოთვლილიდან: :values.",
     "email": ":Attribute უნდა იყოს სწორი ელ.ფოსტა.",

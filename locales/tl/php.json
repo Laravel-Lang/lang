@@ -33,7 +33,7 @@
     "digits_between": "Ang :attribute ay dapat nasa pagitan ng :min at :max digits.",
     "dimensions": "Ang :attribute ay may di-wastong sukat ng imahe.",
     "distinct": "Ang :attribute ng attribute ay may katulad na balyu.",
-    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
+    "doesnt_contain": "Ang :attribute patlang ay hindi dapat maglaman ng alinman sa mga sumusunod: :values.",
     "doesnt_end_with": "Ang :attribute ay maaaring hindi magtapos sa isa sa mga sumusunod: :values.",
     "doesnt_start_with": "Ang :attribute ay maaaring hindi magsimula sa isa sa mga sumusunod: :values.",
     "email": "Ang :attribute ay dapat balidong email address.",

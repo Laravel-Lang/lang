@@ -33,7 +33,7 @@
     "digits_between": ":Attribute mesti mengandungi antara :min dan :max digits.",
     "dimensions": ":Attribute tidak sah",
     "distinct": ":Attribute adalah nilai yang berulang",
-    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
+    "doesnt_contain": "Bidang :attribute tidak boleh mengandungi mana -mana yang berikut: :values.",
     "doesnt_end_with": ":Attribute mungkin tidak berakhir dengan salah satu daripada yang berikut: :values.",
     "doesnt_start_with": ":Attribute mungkin tidak bermula dengan salah satu daripada yang berikut: :values.",
     "email": ":Attribute tidak sah.",

@@ -32,7 +32,7 @@
     "digits_between": "Ennimiro eno erina okuba wakati wa digito :min ne :max.",
     "dimensions": "Ennimiro eno erina ebipimo by'ebifaananyi ebitali bituufu.",
     "distinct": "Ennimiro eno erina omuwendo oguddirira.",
-    "doesnt_contain": "This field must not contain any of the following: :values.",
+    "doesnt_contain": "Ennimiro eno tesaana kubaamu kimu ku bino wammanga: :values.",
     "doesnt_end_with": "Ennimiro eno tesaana kukoma na kimu ku bino wammanga: :values.",
     "doesnt_start_with": "Ennimiro eno tesaana kutandika na kimu ku bino wammanga: :values.",
     "email": "Ennimiro eno erina okuba endagiriro ya email entuufu.",

@@ -33,7 +33,7 @@
     "digits_between": ":attribute kedah antara :min sareng :max digit.",
     "dimensions": ":attribute boga dimensi gambar teu valid.",
     "distinct": "Widang :attribute gaduh nilai duplikat.",
-    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
+    "doesnt_contain": "Widang :attribute kedah henteu ngandung naon waé: :values.",
     "doesnt_end_with": "Widang :attribute teu kedah ditungtungan ku salah sahiji ieu: :values.",
     "doesnt_start_with": "Widang :attribute teu kedah dimimitian ku salah sahiji ieu: :values.",
     "email": ":attribute kedah janten alamat email anu sah.",

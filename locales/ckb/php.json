@@ -33,7 +33,7 @@
     "digits_between": "١٠ ژمارەکە دەبێت لە نێوان ٢٠ بۆ ٣٠ ژمارەدا بێت.",
     "dimensions": "١٠ ڕەهەندی وێنەی نادروستی هەیە.",
     "distinct": "مەیدانی ١٠ بەهای دووبارەی هەیە.",
-    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
+    "doesnt_contain": "مەیدانی :attribute نابێت هیچ کام لەمانەی خوارەوە لەخۆبگرێت: :values.",
     "doesnt_end_with": "نابێت مەیدانی ١٠ بە یەکێک لەمانەی خوارەوە کۆتایی بێت: ٢٠.",
     "doesnt_start_with": "نابێت مەیدانی ١٠ بە یەکێک لەمانەی خوارەوە دەست پێبکات: ٢٠.",
     "email": "ئەو ١٠ کەسە دەبێت ئیمەیڵێکی دروست بێت.",

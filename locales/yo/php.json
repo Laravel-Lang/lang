@@ -33,7 +33,7 @@
     "digits_between": "Awọn :attribute gbọdọ wa laarin :min ati :max awọn nọmba.",
     "dimensions": ":attribute naa ni awọn iwọn aworan ti ko tọ.",
     "distinct": "Aaye :attribute naa ni iye ẹda-ẹda kan.",
-    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
+    "doesnt_contain": "Awọn :attribute aaye ko gbọdọ ni eyikeyi ninu atẹle naa: :values.",
     "doesnt_end_with": "Aaye :attribute ko gbọdọ pari pẹlu ọkan ninu awọn atẹle: :values.",
     "doesnt_start_with": "Aaye :attribute ko gbọdọ bẹrẹ pẹlu ọkan ninu awọn atẹle: :values.",
     "email": ":attribute naa gbọdọ jẹ adirẹsi imeeli to wulo.",

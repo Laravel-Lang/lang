@@ -33,7 +33,7 @@
     "digits_between": ":attribute :min-:max сан арасында булырга тиеш.",
     "dimensions": ":attributeның рәсем үлчәмнәре дөрес түгел.",
     "distinct": ":attribute кырның икеләтә кыйммәте бар.",
-    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
+    "doesnt_contain": ":attribute кырда түбәндәгеләрнең берсе булырга тиеш түгел: :values.",
     "doesnt_end_with": ":attribute кыр түбәндәгеләрнең берсе белән тәмамланырга тиеш түгел: :values.",
     "doesnt_start_with": ":attribute кыр түбәндәгеләрнең берсе белән башланырга тиеш түгел: :values.",
     "email": ":attribute дөрес электрон почта адресы булырга тиеш.",

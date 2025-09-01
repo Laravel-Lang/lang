@@ -32,7 +32,7 @@
     "digits_between": "Бу кыр :min дан :max санга кадәр булырга тиеш.",
     "dimensions": "Бу кырның рәсем үлчәмнәре дөрес түгел.",
     "distinct": "Бу кырның икеләтә кыйммәте бар.",
-    "doesnt_contain": "This field must not contain any of the following: :values.",
+    "doesnt_contain": "Бу кырда түбәндәгеләрнең берсе булырга тиеш түгел: :values.",
     "doesnt_end_with": "Бу кыр түбәндәгеләрнең берсе белән тәмамланырга тиеш түгел: :values.",
     "doesnt_start_with": "Бу кыр түбәндәгеләрнең берсе белән башланырга тиеш түгел: :values.",
     "email": "Бу кыр дөрес электрон почта адресы булырга тиеш.",

@@ -32,7 +32,7 @@
     "digits_between": "Dit moet tussen :min en :max syfers wees.",
     "dimensions": "Hierdie prent het ongeldige afmetings.",
     "distinct": "Hierdie veld het 'n duplikaatwaarde.",
-    "doesnt_contain": "This field must not contain any of the following: :values.",
+    "doesnt_contain": "Hierdie veld mag nie een van die volgende bevat nie: :values.",
     "doesnt_end_with": "Hierdie veld mag nie eindig met een van die volgende nie: :values.",
     "doesnt_start_with": "Hierdie veld mag nie met een van die volgende begin nie: :values.",
     "email": "Dit moet 'n geldige e-posadres wees.",

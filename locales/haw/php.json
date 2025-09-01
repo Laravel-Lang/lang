@@ -33,7 +33,7 @@
     "digits_between": "Pono ka :attribute ma waena o :min a :max mau huahelu.",
     "dimensions": "Loaʻa i ka :attribute nā ana kiʻi kūpono ʻole.",
     "distinct": "Loaʻa i ke kahua :attribute kahi waiwai pālua.",
-    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
+    "doesnt_contain": "ʻAʻole pono ka :attribute mahina i kekahi o nā mea aʻe: :values.",
     "doesnt_end_with": "ʻAʻole pono e pau ka māla :attribute me kekahi o kēia mau mea: :values.",
     "doesnt_start_with": "ʻAʻole pono e hoʻomaka ka māla :attribute me kekahi o kēia mau mea: :values.",
     "email": "Pono ka helu :attribute he leka uila kūpono.",

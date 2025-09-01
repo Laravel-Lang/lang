@@ -33,7 +33,7 @@
     "digits_between": "L-:attribute għandhom ikunu bejn :min u :max ċifra.",
     "dimensions": "L-:attribute għandu dimensjonijiet tal-immaġni invalidi.",
     "distinct": "Il-qasam :attribute għandu valur duplikat.",
-    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
+    "doesnt_contain": "L-:attribute qasam m'għandux ikun fih l-ebda wieħed minn dawn li ġejjin: :values.",
     "doesnt_end_with": "Il-qasam :attribute m'għandux jispiċċa b'wieħed minn dawn li ġejjin: :values.",
     "doesnt_start_with": "Il-qasam :attribute m'għandux jibda b'wieħed minn dawn li ġejjin: :values.",
     "email": "L-:attribute għandhom ikunu indirizz elettroniku validu.",

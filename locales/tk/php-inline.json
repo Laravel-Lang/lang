@@ -32,7 +32,7 @@
     "digits_between": "This must be between :min and :max digits.",
     "dimensions": "This image has invalid dimensions.",
     "distinct": "Bu meýdanyň iki gezek bahasy bar.",
-    "doesnt_contain": "This field must not contain any of the following: :values.",
+    "doesnt_contain": "Bu meýdan aşakdakylaryň hiç biri ýok: :values.",
     "doesnt_end_with": "Bu meýdan aşakdakylaryň biri bilen gutarman biler: :values.",
     "doesnt_start_with": "Bu meýdan aşakdakylardan biri bilen başlamazlygy mümkin: :values.",
     "email": "This must be a valid email address.",

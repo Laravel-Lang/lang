@@ -33,7 +33,7 @@
     "digits_between": "Полето :attribute трябва да има между :min и :max цифри.",
     "dimensions": "Невалидни размери за снимка :attribute.",
     "distinct": "Данните в полето :attribute се дублират.",
-    "doesnt_contain": "The :attribute field must not contain any of the following: :values.",
+    "doesnt_contain": ":attribute -те поле не трябва да съдържат нито едно от следните: :values.",
     "doesnt_end_with": ":Attribute-те може да не завършват с едно от следните: :values.",
     "doesnt_start_with": ":Attribute-те може да не започват с едно от следните: :values.",
     "email": "Полето :attribute е в невалиден формат.",

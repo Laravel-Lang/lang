@@ -32,7 +32,7 @@
     "digits_between": "Das muss zwischen :min und :max Stellen haben.",
     "dimensions": "Das Bild hat ungültige Abmessungen.",
     "distinct": "Dieser Wert ist bereits vorhanden.",
-    "doesnt_contain": "This field must not contain any of the following: :values.",
+    "doesnt_contain": "Dieses Feld darf keines der folgenden enthalten: :values.",
     "doesnt_end_with": "Dieses Feld darf nicht mit einem der folgenden enden: :values.",
     "doesnt_start_with": "Dieses Feld darf nicht mit einem der folgenden beginnen: :values.",
     "email": "Das muss eine gültige E-Mail-Adresse sein.",

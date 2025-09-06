@@ -68,6 +68,10 @@
             "cp vendor/dragon-code/codestyler/.editorconfig .editorconfig",
             "composer normalize"
         ],
+        "format": [
+            "vendor/bin/lang sync",
+            "@style"
+        ],
         "style": "vendor/bin/pint --parallel"
     }
 }

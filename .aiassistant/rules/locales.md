@@ -1,0 +1,133 @@
+---
+apply: always
+---
+
+## Localization codes and their languages
+
+- The contents of the `locales/af` folder are always translated only into Afrikaans.
+- The contents of the `locales/ak` folder are always translated only into Akan.
+- The contents of the `locales/am` folder are always translated only into Amharic.
+- The contents of the `locales/ar` folder are always translated only into Arabic.
+- The contents of the `locales/as` folder are always translated only into Assamese.
+- The contents of the `locales/az` folder are always translated only into Azerbaijani.
+- The contents of the `locales/be` folder are always translated only into Belarusian.
+- The contents of the `locales/bg` folder are always translated only into Bulgarian.
+- The contents of the `locales/bho` folder are always translated only into Bhojpuri.
+- The contents of the `locales/bm` folder are always translated only into Bambara.
+- The contents of the `locales/bn` folder are always translated only into Bangla.
+- The contents of the `locales/bs` folder are always translated only into Bosnian.
+- The contents of the `locales/ca` folder are always translated only into Catalan.
+- The contents of the `locales/ceb` folder are always translated only into Cebuano.
+- The contents of the `locales/ckb` folder are always translated only into Central Kurdish.
+- The contents of the `locales/cs` folder are always translated only into Czech.
+- The contents of the `locales/cy` folder are always translated only into Welsh.
+- The contents of the `locales/da` folder are always translated only into Danish.
+- The contents of the `locales/de` folder are always translated only into German.
+- The contents of the `locales/de_CH` folder are always translated only into German (Switzerland).
+- The contents of the `locales/doi` folder are always translated only into Dogri.
+- The contents of the `locales/ee` folder are always translated only into Ewe.
+- The contents of the `locales/el` folder are always translated only into Greek.
+- The contents of the `locales/en` folder are always translated only into English.
+- The contents of the `locales/en_CA` folder are always translated only into English (Canada).
+- The contents of the `locales/eo` folder are always translated only into Esperanto.
+- The contents of the `locales/es` folder are always translated only into Spanish.
+- The contents of the `locales/et` folder are always translated only into Estonian.
+- The contents of the `locales/eu` folder are always translated only into Basque.
+- The contents of the `locales/fa` folder are always translated only into Persian.
+- The contents of the `locales/fi` folder are always translated only into Finnish.
+- The contents of the `locales/fil` folder are always translated only into Filipino.
+- The contents of the `locales/fr` folder are always translated only into French.
+- The contents of the `locales/fy` folder are always translated only into Western Frisian.
+- The contents of the `locales/ga` folder are always translated only into Irish.
+- The contents of the `locales/gd` folder are always translated only into Scottish Gaelic.
+- The contents of the `locales/gl` folder are always translated only into Galician.
+- The contents of the `locales/gu` folder are always translated only into Gujarati.
+- The contents of the `locales/ha` folder are always translated only into Hausa.
+- The contents of the `locales/haw` folder are always translated only into Hawaiian.
+- The contents of the `locales/he` folder are always translated only into Hebrew.
+- The contents of the `locales/hi` folder are always translated only into Hindi.
+- The contents of the `locales/hr` folder are always translated only into Croatian.
+- The contents of the `locales/hu` folder are always translated only into Hungarian.
+- The contents of the `locales/hy` folder are always translated only into Armenian.
+- The contents of the `locales/id` folder are always translated only into Indonesian.
+- The contents of the `locales/ig` folder are always translated only into Igbo.
+- The contents of the `locales/is` folder are always translated only into Icelandic.
+- The contents of the `locales/it` folder are always translated only into Italian.
+- The contents of the `locales/ja` folder are always translated only into Japanese.
+- The contents of the `locales/ka` folder are always translated only into Georgian.
+- The contents of the `locales/kk` folder are always translated only into Kazakh.
+- The contents of the `locales/km` folder are always translated only into Khmer.
+- The contents of the `locales/kn` folder are always translated only into Kannada.
+- The contents of the `locales/ko` folder are always translated only into Korean.
+- The contents of the `locales/ku` folder are always translated only into Kurdish.
+- The contents of the `locales/ky` folder are always translated only into Kyrgyz.
+- The contents of the `locales/lb` folder are always translated only into Luxembourgish.
+- The contents of the `locales/lg` folder are always translated only into Ganda.
+- The contents of the `locales/ln` folder are always translated only into Lingala.
+- The contents of the `locales/lo` folder are always translated only into Lao.
+- The contents of the `locales/lt` folder are always translated only into Lithuanian.
+- The contents of the `locales/lv` folder are always translated only into Latvian.
+- The contents of the `locales/mai` folder are always translated only into Maithili.
+- The contents of the `locales/mg` folder are always translated only into Malagasy.
+- The contents of the `locales/mi` folder are always translated only into Māori.
+- The contents of the `locales/mk` folder are always translated only into Macedonian.
+- The contents of the `locales/ml` folder are always translated only into Malayalam.
+- The contents of the `locales/mn` folder are always translated only into Mongolian.
+- The contents of the `locales/mni_Mtei` folder are always translated only into Manipuri.
+- The contents of the `locales/mr` folder are always translated only into Marathi.
+- The contents of the `locales/ms` folder are always translated only into Malay.
+- The contents of the `locales/mt` folder are always translated only into Maltese.
+- The contents of the `locales/my` folder are always translated only into Burmese.
+- The contents of the `locales/nb` folder are always translated only into Norwegian Bokmål.
+- The contents of the `locales/ne` folder are always translated only into Nepali.
+- The contents of the `locales/nl` folder are always translated only into Dutch.
+- The contents of the `locales/nn` folder are always translated only into Norwegian Nynorsk.
+- The contents of the `locales/oc` folder are always translated only into Occitan.
+- The contents of the `locales/om` folder are always translated only into Oromo.
+- The contents of the `locales/or` folder are always translated only into Odia.
+- The contents of the `locales/pa` folder are always translated only into Punjabi.
+- The contents of the `locales/pl` folder are always translated only into Polish.
+- The contents of the `locales/ps` folder are always translated only into Pashto.
+- The contents of the `locales/pt` folder are always translated only into Portuguese.
+- The contents of the `locales/pt_BR` folder are always translated only into Portuguese (Brazil).
+- The contents of the `locales/qu` folder are always translated only into Quechua.
+- The contents of the `locales/ro` folder are always translated only into Romanian.
+- The contents of the `locales/ru` folder are always translated only into Russian.
+- The contents of the `locales/rw` folder are always translated only into Kinyarwanda.
+- The contents of the `locales/sa` folder are always translated only into Sanskrit.
+- The contents of the `locales/sc` folder are always translated only into Sardinian.
+- The contents of the `locales/sd` folder are always translated only into Sindhi.
+- The contents of the `locales/si` folder are always translated only into Sinhala.
+- The contents of the `locales/sk` folder are always translated only into Slovak.
+- The contents of the `locales/sl` folder are always translated only into Slovenian.
+- The contents of the `locales/sn` folder are always translated only into Shona.
+- The contents of the `locales/so` folder are always translated only into Somali.
+- The contents of the `locales/sq` folder are always translated only into Albanian.
+- The contents of the `locales/sr_Cyrl` folder are always translated only into Serbian.
+- The contents of the `locales/sr_Latn` folder are always translated only into Serbian.
+- The contents of the `locales/sr_Latn_ME` folder are always translated only into Serbian (Montenegro).
+- The contents of the `locales/su` folder are always translated only into Sundanese.
+- The contents of the `locales/sv` folder are always translated only into Swedish.
+- The contents of the `locales/sw` folder are always translated only into Swahili.
+- The contents of the `locales/ta` folder are always translated only into Tamil.
+- The contents of the `locales/te` folder are always translated only into Telugu.
+- The contents of the `locales/tg` folder are always translated only into Tajik.
+- The contents of the `locales/th` folder are always translated only into Thai.
+- The contents of the `locales/ti` folder are always translated only into Tigrinya.
+- The contents of the `locales/tk` folder are always translated only into Turkmen.
+- The contents of the `locales/tl` folder are always translated only into Tagalog.
+- The contents of the `locales/tr` folder are always translated only into Turkish.
+- The contents of the `locales/tt` folder are always translated only into Tatar.
+- The contents of the `locales/ug` folder are always translated only into Uyghur.
+- The contents of the `locales/uk` folder are always translated only into Ukrainian.
+- The contents of the `locales/ur` folder are always translated only into Urdu.
+- The contents of the `locales/uz_Cyrl` folder are always translated only into Uzbek.
+- The contents of the `locales/uz_Latn` folder are always translated only into Uzbek.
+- The contents of the `locales/vi` folder are always translated only into Vietnamese.
+- The contents of the `locales/xh` folder are always translated only into Xhosa.
+- The contents of the `locales/yi` folder are always translated only into Yiddish.
+- The contents of the `locales/yo` folder are always translated only into Yoruba.
+- The contents of the `locales/zh_CN` folder are always translated only into Chinese (China).
+- The contents of the `locales/zh_HK` folder are always translated only into Chinese (Hong Kong Sar China).
+- The contents of the `locales/zh_TW` folder are always translated only into Chinese (Taiwan).
+- The contents of the `locales/zu` folder are always translated only into Zulu.

@@ -26,7 +26,7 @@
     "require-dev": {
         "dragon-code/codestyler": "^6.0",
         "laravel-lang/status-generator": "^2.11",
-        "phpunit/phpunit": "^10.0 || ^11.0 || ^12.0",
+        "phpunit/phpunit": "^11.0 || ^12.0",
         "symfony/var-dumper": "^7.0"
     },
     "conflict": {

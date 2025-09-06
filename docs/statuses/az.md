@@ -4,12 +4,12 @@ editLink: false
 
 # az
 
-##### All missed: 74
+##### All missed: 56
 
 
 ### json
 
-##### Missing: 60
+##### Missing: 56
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,47 +23,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-A decryption key is required.
-
-</td><td width="50%">
-
-A decryption key is required.
-
-</td></tr>
-<tr><td width="50%">
-
-Action Event
-
-</td><td width="50%">
-
-Action Event
-
-</td></tr>
-<tr><td width="50%">
-
-Action Events
-
-</td><td width="50%">
-
-Action Events
-
-</td></tr>
-<tr><td width="50%">
-
 Andorra
 
 </td><td width="50%">
 
 Andorra
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to mark all notifications as read?
-
-</td><td width="50%">
-
-Are you sure you want to mark all notifications as read?
 
 </td></tr>
 <tr><td width="50%">
@@ -559,172 +523,6 @@ Your subscription has been successfully cancelled. You will still have access un
 </td><td width="50%">
 
 Your subscription has been successfully cancelled. You will still have access until the end of your billing period.
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php-inline
-
-##### Missing: 7
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-any_of
-
-</td><td width="50%">
-
-This field is invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-contains
-
-</td><td width="50%">
-
-This field is missing a required value.
-
-</td></tr>
-<tr><td width="50%">
-
-doesnt_contain
-
-</td><td width="50%">
-
-This field must not contain any of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-in_array_keys
-
-</td><td width="50%">
-
-This field must contain at least one of the following keys: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-prohibited_if_accepted
-
-</td><td width="50%">
-
-This field is prohibited when :other is accepted.
-
-</td></tr>
-<tr><td width="50%">
-
-prohibited_if_declined
-
-</td><td width="50%">
-
-This field is prohibited when :other is declined.
-
-</td></tr>
-<tr><td width="50%">
-
-required_if_declined
-
-</td><td width="50%">
-
-This field is required when :other is declined.
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php
-
-##### Missing: 7
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-any_of
-
-</td><td width="50%">
-
-The :attribute field is invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-contains
-
-</td><td width="50%">
-
-The :attribute field is missing a required value.
-
-</td></tr>
-<tr><td width="50%">
-
-doesnt_contain
-
-</td><td width="50%">
-
-The :attribute field must not contain any of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-in_array_keys
-
-</td><td width="50%">
-
-The :attribute field must contain at least one of the following keys: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-prohibited_if_accepted
-
-</td><td width="50%">
-
-The :attribute field is prohibited when :other is accepted.
-
-</td></tr>
-<tr><td width="50%">
-
-prohibited_if_declined
-
-</td><td width="50%">
-
-The :attribute field is prohibited when :other is declined.
-
-</td></tr>
-<tr><td width="50%">
-
-required_if_declined
-
-</td><td width="50%">
-
-The :attribute field is required when :other is declined.
 
 </td></tr>
 </table>

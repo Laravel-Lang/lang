@@ -4,12 +4,12 @@ editLink: false
 
 # ga
 
-##### All missed: 12
+##### All missed: 8
 
 
 ### json
 
-##### Missing: 12
+##### Missing: 8
 
 <table width="100%">
 <tr><th width="50%">
@@ -32,29 +32,11 @@ Aruba
 </td></tr>
 <tr><td width="50%">
 
-CSV (.csv)
-
-</td><td width="50%">
-
-CSV (.csv)
-
-</td></tr>
-<tr><td width="50%">
-
 Djibouti
 
 </td><td width="50%">
 
 Djibouti
-
-</td></tr>
-<tr><td width="50%">
-
-Excel (.xlsx)
-
-</td><td width="50%">
-
-Excel (.xlsx)
 
 </td></tr>
 <tr><td width="50%">
@@ -68,15 +50,6 @@ Guam
 </td></tr>
 <tr><td width="50%">
 
-Macao
-
-</td><td width="50%">
-
-Macao
-
-</td></tr>
-<tr><td width="50%">
-
 Madagascar
 
 </td><td width="50%">
@@ -86,20 +59,11 @@ Madagascar
 </td></tr>
 <tr><td width="50%">
 
-Niue
+Mayotte
 
 </td><td width="50%">
 
-Niue
-
-</td></tr>
-<tr><td width="50%">
-
-Palau
-
-</td><td width="50%">
-
-Palau
+Mayotte
 
 </td></tr>
 <tr><td width="50%">

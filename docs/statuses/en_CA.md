@@ -4,7 +4,7 @@ editLink: false
 
 # en_CA
 
-##### All missed: 1156
+##### All missed: 1154
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 861
+##### Missing: 859
 
 <table width="100%">
 <tr><th width="50%">
@@ -5940,15 +5940,6 @@ Start polling
 </td></tr>
 <tr><td width="50%">
 
-State / County
-
-</td><td width="50%">
-
-State / County
-
-</td></tr>
-<tr><td width="50%">
-
 Stop Impersonating
 
 </td><td width="50%">
@@ -7898,15 +7889,6 @@ Zimbabwe
 </td><td width="50%">
 
 Zimbabwe
-
-</td></tr>
-<tr><td width="50%">
-
-Zip / Postal Code
-
-</td><td width="50%">
-
-Zip / Postal Code
 
 </td></tr>
 <tr><td width="50%">

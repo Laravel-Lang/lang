@@ -4,12 +4,12 @@ editLink: false
 
 # bs
 
-##### All missed: 62
+##### All missed: 53
 
 
 ### json
 
-##### Missing: 48
+##### Missing: 49
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,15 +23,6 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-A decryption key is required.
-
-</td><td width="50%">
-
-A decryption key is required.
-
-</td></tr>
-<tr><td width="50%">
-
 Action Event
 
 </td><td width="50%">
@@ -50,20 +41,38 @@ Action Events
 </td></tr>
 <tr><td width="50%">
 
-Are you sure you want to mark all notifications as read?
+Angola
 
 </td><td width="50%">
 
-Are you sure you want to mark all notifications as read?
+Angola
 
 </td></tr>
 <tr><td width="50%">
 
-Change the current payment method attached to your subscription
+Aruba
 
 </td><td width="50%">
 
-Change the current payment method attached to your subscription
+Aruba
+
+</td></tr>
+<tr><td width="50%">
+
+Belize
+
+</td><td width="50%">
+
+Belize
+
+</td></tr>
+<tr><td width="50%">
+
+Benin
+
+</td><td width="50%">
+
+Benin
 
 </td></tr>
 <tr><td width="50%">
@@ -461,7 +470,7 @@ Your subscription has been successfully cancelled. You will still have access un
 
 ### php-inline
 
-##### Missing: 7
+##### Missing: 4
 
 <table width="100%">
 <tr><th width="50%">
@@ -473,33 +482,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-any_of
-
-</td><td width="50%">
-
-This field is invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-contains
-
-</td><td width="50%">
-
-This field is missing a required value.
-
-</td></tr>
-<tr><td width="50%">
-
-doesnt_contain
-
-</td><td width="50%">
-
-This field must not contain any of the following: :values.
-
-</td></tr>
 <tr><td width="50%">
 
 in_array_keys
@@ -534,89 +516,6 @@ required_if_declined
 </td><td width="50%">
 
 This field is required when :other is declined.
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php
-
-##### Missing: 7
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-any_of
-
-</td><td width="50%">
-
-The :attribute field is invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-contains
-
-</td><td width="50%">
-
-The :attribute field is missing a required value.
-
-</td></tr>
-<tr><td width="50%">
-
-doesnt_contain
-
-</td><td width="50%">
-
-The :attribute field must not contain any of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-in_array_keys
-
-</td><td width="50%">
-
-The :attribute field must contain at least one of the following keys: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-prohibited_if_accepted
-
-</td><td width="50%">
-
-The :attribute field is prohibited when :other is accepted.
-
-</td></tr>
-<tr><td width="50%">
-
-prohibited_if_declined
-
-</td><td width="50%">
-
-The :attribute field is prohibited when :other is declined.
-
-</td></tr>
-<tr><td width="50%">
-
-required_if_declined
-
-</td><td width="50%">
-
-The :attribute field is required when :other is declined.
 
 </td></tr>
 </table>

@@ -4,12 +4,12 @@ editLink: false
 
 # eo
 
-##### All missed: 14
+##### All missed: 13
 
 
 ### json
 
-##### Missing: 14
+##### Missing: 13
 
 <table width="100%">
 <tr><th width="50%">
@@ -28,15 +28,6 @@ Bermuda
 </td><td width="50%">
 
 Bermuda
-
-</td></tr>
-<tr><td width="50%">
-
-Checkout
-
-</td><td width="50%">
-
-Checkout
 
 </td></tr>
 <tr><td width="50%">

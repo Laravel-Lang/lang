@@ -4,12 +4,12 @@ editLink: false
 
 # gl
 
-##### All missed: 79
+##### All missed: 81
 
 
 ### json
 
-##### Missing: 79
+##### Missing: 81
 
 <table width="100%">
 <tr><th width="50%">
@@ -239,6 +239,15 @@ Cuba
 </td></tr>
 <tr><td width="50%">
 
+Curaçao
+
+</td><td width="50%">
+
+Curaçao
+
+</td></tr>
+<tr><td width="50%">
+
 Ecuador
 
 </td><td width="50%">
@@ -280,6 +289,15 @@ Gambia
 </td><td width="50%">
 
 Gambia
+
+</td></tr>
+<tr><td width="50%">
+
+Ghana
+
+</td><td width="50%">
+
+Ghana
 
 </td></tr>
 <tr><td width="50%">
@@ -455,29 +473,11 @@ Malta
 </td></tr>
 <tr><td width="50%">
 
-Mark Read
-
-</td><td width="50%">
-
-Mark Read
-
-</td></tr>
-<tr><td width="50%">
-
 Mauritania
 
 </td><td width="50%">
 
 Mauritania
-
-</td></tr>
-<tr><td width="50%">
-
-Micronesia, Federated States Of
-
-</td><td width="50%">
-
-Micronesia
 
 </td></tr>
 <tr><td width="50%">
@@ -671,11 +671,29 @@ Timor-Leste
 </td></tr>
 <tr><td width="50%">
 
+Togo
+
+</td><td width="50%">
+
+Togo
+
+</td></tr>
+<tr><td width="50%">
+
 Tokelau
 
 </td><td width="50%">
 
 Tokelau
+
+</td></tr>
+<tr><td width="50%">
+
+Tonga
+
+</td><td width="50%">
+
+Tonga
 
 </td></tr>
 <tr><td width="50%">

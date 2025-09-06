@@ -12,5 +12,5 @@
     "The :attribute must contain at least one number.": "See väli peab sisaldama vähemalt ühte numbrit.",
     "The :attribute must contain at least one symbol.": "See väli peab sisaldama vähemalt ühte sümbolit.",
     "The :attribute must contain at least one uppercase and one lowercase letter.": "Sellel väljal peab olema vähemalt üks suur- ja üks väiketäht.",
-    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Antud väli on ilmnenud andmelkkes. Valige mõni muu väli."
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Antud väli on ilmnenud andmelekkes. Valige mõni muu väli."
 }

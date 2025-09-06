@@ -64,8 +64,9 @@
     },
     "scripts": {
         "post-update-cmd": [
-            "cp vendor/dragon-code/codestyler/presets/pint/8.2.json pint.json",
-            "cp vendor/dragon-code/codestyler/.editorconfig .editorconfig",
+            "codestyle pint 8.2",
+            "codestyle editorconfig",
+            "codestyle npm",
             "composer normalize"
         ],
         "format": [

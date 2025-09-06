@@ -17,7 +17,7 @@ editLink: false
 
 </td><td width="12%">
 
-[am&nbsp;❗](statuses/am.md)
+[am&nbsp;✔](statuses/am.md)
 
 </td><td width="12%">
 

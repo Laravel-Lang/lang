@@ -19,5 +19,5 @@ apply: always
 - For class names and namespaces, omit leading and trailing backslashes.
 - For changes in the `docs` folder or `README.md`, always prefix the header with `[docs]: `.
 - For changes in the `source` folder, always prefix the header with `[source]: `.
-- For changes in the `locales` folder, always prefix the header with the affected locale subfolder names using `[<locales>]: `, e.g., `[fr]: ` or `[de,zh_CN]: `.
+- For changes in the `locales` folder, always prefix the header with the affected locale subfolder names using `[<locales>]: `, e.g., `[fr]: `, `[de,zh_CN]: `, etc.
 - For changes in all other folders, always prefix the header with `[app]: `.

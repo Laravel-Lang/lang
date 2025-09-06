@@ -13,7 +13,7 @@ editLink: false
 
 </td><td width="12%">
 
-[ak&nbsp;❗](statuses/ak.md)
+[ak&nbsp;✔](statuses/ak.md)
 
 </td><td width="12%">
 

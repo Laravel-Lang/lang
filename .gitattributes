@@ -1,5 +1,7 @@
 * text=auto
 
+.aiassistant/ export-ignore
+
 .github/ export-ignore
 tests/ export-ignore
 

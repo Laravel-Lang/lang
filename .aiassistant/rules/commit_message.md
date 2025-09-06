@@ -20,4 +20,4 @@ apply: always
 - If the change is in the `docs` folder or `README.md`, prefix the header with `[docs]: `.
 - If the change is in the `source` folder, prefix the header with `[source]: `.
 - If the change is in the `locales` folder, prefix the header with the affected locale subfolder names using `[<locales>]: `, e.g., `[fr]: ` or `[de,zh_CN]: `.
-- For changes in any other folders (not `docs`, `source`, or `locales`), always prefix the header with `[app]: `.
+- For changes in any other folders, always prefix the header with `[app]: `.

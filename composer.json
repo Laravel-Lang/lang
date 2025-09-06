@@ -73,6 +73,7 @@
             "vendor/bin/lang sync",
             "@style"
         ],
-        "style": "vendor/bin/pint --parallel"
+        "style": "vendor/bin/pint --parallel",
+        "test": "vendor/bin/phpunit --colors=always"
     }
 }

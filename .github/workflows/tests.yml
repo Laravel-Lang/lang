@@ -39,4 +39,4 @@ jobs:
                 run: composer require laravel-lang/publisher:^${{ matrix.publisher }}
 
             -   name: Execute tests
-                run: sudo vendor/bin/phpunit --colors=always
+                run: sudo composer test

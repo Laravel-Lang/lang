@@ -70,7 +70,7 @@
     "lte.file": "Tento soubor musí mít :value nebo méně kilobytů.",
     "lte.numeric": "Tato hodnota musí být :value nebo méně.",
     "lte.string": "Toto pole musí mít :value nebo méně znaků.",
-    "mac_address": "The value must be a valid MAC address.",
+    "mac_address": "Musí to být platná adresa MAC.",
     "max.array": "Toto pole musí mít nejvíce :max položek.",
     "max.file": "Tento soubor nesmí být větší než :max kilobytů.",
     "max.numeric": "Tato hodnota nesmí být větší než :max.",

@@ -4,20 +4,20 @@ apply: always
 
 ## Commit message rules
 
-- Keep it short. Do not add extra details.
-- First, look through the changed files. Then write the message.
-- State exactly what the code was changed to do.
-- Use one single header line. Do not add a body.
-- Write the message in English only.
-- Make it as brief as possible.
-- Target length: up to 70 characters (count any markup too).
-- Hard limit: 100 characters for the header (count any markup too).
-- Do not end the header line with a period.
-- Put class names, variables, and attributes in backticks `like_this`. Example: The type of `$foo` in class `Bar` was changed.
-- Start the header with a verb that matches the change: added, changed, updated, fixed, improved, translated, removed, deleted, etc.
-- Describe the direct code edits, not their effects or results.
-- For class names and namespaces, do not include leading or trailing backslashes.
-- If the change is in the `docs` folder or `README.md`, prefix the header with `[docs]: `.
-- If the change is in the `source` folder, prefix the header with `[source]: `.
-- If the change is in the `locales` folder, prefix the header with the affected locale subfolder names using `[<locales>]: `, e.g., `[fr]: ` or `[de,zh_CN]: `.
-- For changes in any other folders, always prefix the header with `[app]: `.
+- Keep it concise. Skip unnecessary details.
+- Review the diff first, then compose the message.
+- Specify exactly what was changed in the code.
+- Use a single-line header only; do not add a body.
+- Write in English only.
+- Be as brief as you can.
+- Aim for up to 70 characters (including any markup).
+- Absolute cap: 100 characters for the header (including any markup).
+- Do not end the header line with a dot.
+- Enclose class names, variables, and attributes in backticks `like_this`. Example: Changed the type of `$foo` in class `Bar`.
+- Start the header with an action verb that fits the change: added, changed, updated, fixed, improved, translated, removed, deleted, etc.
+- Describe the direct edits made to the code, not their outcomes or effects.
+- For class names and namespaces, omit leading and trailing backslashes.
+- For changes in the `docs` folder or `README.md`, always prefix the header with `[docs]: `.
+- For changes in the `source` folder, always prefix the header with `[source]: `.
+- For changes in the `locales` folder, always prefix the header with the affected locale subfolder names using `[<locales>]: `, e.g., `[fr]: ` or `[de,zh_CN]: `.
+- For changes in all other folders, always prefix the header with `[app]: `.

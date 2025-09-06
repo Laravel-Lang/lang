@@ -640,7 +640,7 @@
     "Standalone Actions": "Standalone Actions",
     "Start Polling": "Start Polling",
     "Start polling": "Start polling",
-    "State / County": "State / County",
+    "State / County": "Province / Territory",
     "Stop Impersonating": "Stop Impersonating",
     "Stop Polling": "Stop Polling",
     "Stop polling": "Stop polling",
@@ -858,6 +858,6 @@
     "Your subscription was successfully updated.": "Your subscription was successfully updated.",
     "Zambia": "Zambia",
     "Zimbabwe": "Zimbabwe",
-    "Zip / Postal Code": "Zip / Postal Code",
+    "Zip / Postal Code": "Postal Code",
     "Åland Islands": "Åland Islands"
 }

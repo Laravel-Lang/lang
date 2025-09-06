@@ -124,6 +124,7 @@ Verification notes
 
 4) Localization translation rules
 
+- When translating files, follow the folder name mapping for the target language. See the .aiassistant/rules/locales.md file for the mapping list.
 - The localization folder name follows the ISO-639-1 standard. Translate into the language that corresponds to this locale code.
 - Do not translate files whose names start with the `_` character.
 - Keep the keys themselves untranslated, even if they contain sentences.
@@ -131,3 +132,4 @@ Verification notes
 - If a sentence starts with a placeholder (begins with the `:` character), write it with an initial capital letter. For example, `":Attribute est déjà attaché(e)."`.
 - Consider the usage context when translating. These values are intended to be displayed on a website page in select fields, informational notifications, UI elements, etc.
 - After finishing the translation, sort the contents of the modified JSON files in alphabetical order.
+- Don't running unit tests after translation.

@@ -1,6 +1,7 @@
 * text=auto
 
 .aiassistant/ export-ignore
+.junie/ export-ignore
 
 .github/ export-ignore
 tests/ export-ignore

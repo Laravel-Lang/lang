@@ -4,12 +4,12 @@ editLink: false
 
 # gd
 
-##### All missed: 137
+##### All missed: 138
 
 
 ### json
 
-##### Missing: 137
+##### Missing: 138
 
 <table width="100%">
 <tr><th width="50%">
@@ -190,6 +190,15 @@ Brazil
 </td><td width="50%">
 
 Brazil
+
+</td></tr>
+<tr><td width="50%">
+
+Burkina Faso
+
+</td><td width="50%">
+
+Burkina Faso
 
 </td></tr>
 <tr><td width="50%">
@@ -1058,15 +1067,6 @@ Sri Lanka
 </td></tr>
 <tr><td width="50%">
 
-Subscribe
-
-</td><td width="50%">
-
-Subscribe
-
-</td></tr>
-<tr><td width="50%">
-
 Sudan
 
 </td><td width="50%">
@@ -1135,6 +1135,15 @@ Timor-Leste
 </td><td width="50%">
 
 Timor-Leste
+
+</td></tr>
+<tr><td width="50%">
+
+Togo
+
+</td><td width="50%">
+
+Togo
 
 </td></tr>
 <tr><td width="50%">

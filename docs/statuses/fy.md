@@ -122,6 +122,15 @@ Bouvet Island
 </td></tr>
 <tr><td width="50%">
 
+CSV (.csv)
+
+</td><td width="50%">
+
+CSV (.csv)
+
+</td></tr>
+<tr><td width="50%">
+
 Curaçao
 
 </td><td width="50%">
@@ -451,15 +460,6 @@ Pitcairn
 </td><td width="50%">
 
 Pitcairn
-
-</td></tr>
-<tr><td width="50%">
-
-Previewing
-
-</td><td width="50%">
-
-Previewing
 
 </td></tr>
 <tr><td width="50%">

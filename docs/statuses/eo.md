@@ -4,12 +4,12 @@ editLink: false
 
 # eo
 
-##### All missed: 13
+##### All missed: 12
 
 
 ### json
 
-##### Missing: 13
+##### Missing: 12
 
 <table width="100%">
 <tr><th width="50%">
@@ -64,15 +64,6 @@ Kosovo
 </td><td width="50%">
 
 Kosovo
-
-</td></tr>
-<tr><td width="50%">
-
-Mark Read
-
-</td><td width="50%">
-
-Mark Read
 
 </td></tr>
 <tr><td width="50%">

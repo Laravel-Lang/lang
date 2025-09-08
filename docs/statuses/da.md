@@ -4,12 +4,12 @@ editLink: false
 
 # da
 
-##### All missed: 159
+##### All missed: 144
 
 
 ### json
 
-##### Missing: 159
+##### Missing: 144
 
 <table width="100%">
 <tr><th width="50%">
@@ -221,29 +221,20 @@ Canada
 </td></tr>
 <tr><td width="50%">
 
-Change the current payment method attached to your subscription
-
-</td><td width="50%">
-
-Change the current payment method attached to your subscription
-
-</td></tr>
-<tr><td width="50%">
-
-Checkout
-
-</td><td width="50%">
-
-Checkout
-
-</td></tr>
-<tr><td width="50%">
-
 Chile
 
 </td><td width="50%">
 
 Chile
+
+</td></tr>
+<tr><td width="50%">
+
+Colombia
+
+</td><td width="50%">
+
+Colombia
 
 </td></tr>
 <tr><td width="50%">
@@ -311,15 +302,6 @@ Dashboard
 </td></tr>
 <tr><td width="50%">
 
-Delete Notification
-
-</td><td width="50%">
-
-Delete Notification
-
-</td></tr>
-<tr><td width="50%">
-
 Djibouti
 
 </td><td width="50%">
@@ -334,15 +316,6 @@ Dominica
 </td><td width="50%">
 
 Dominica
-
-</td></tr>
-<tr><td width="50%">
-
-Download Invoice
-
-</td><td width="50%">
-
-Download Invoice
 
 </td></tr>
 <tr><td width="50%">
@@ -365,65 +338,11 @@ El Salvador
 </td></tr>
 <tr><td width="50%">
 
-Email Verification
-
-</td><td width="50%">
-
-Email Verification
-
-</td></tr>
-<tr><td width="50%">
-
-Encrypted environment file already exists.
-
-</td><td width="50%">
-
-Encrypted environment file already exists.
-
-</td></tr>
-<tr><td width="50%">
-
-Encrypted environment file not found.
-
-</td><td width="50%">
-
-Encrypted environment file not found.
-
-</td></tr>
-<tr><td width="50%">
-
-Environment file already exists.
-
-</td><td width="50%">
-
-Environment file already exists.
-
-</td></tr>
-<tr><td width="50%">
-
-Environment file not found.
-
-</td><td width="50%">
-
-Environment file not found.
-
-</td></tr>
-<tr><td width="50%">
-
 Eritrea
 
 </td><td width="50%">
 
 Eritrea
-
-</td></tr>
-<tr><td width="50%">
-
-Export As CSV
-
-</td><td width="50%">
-
-Export As CSV
 
 </td></tr>
 <tr><td width="50%">
@@ -586,51 +505,6 @@ ID
 </td><td width="50%">
 
 ID
-
-</td></tr>
-<tr><td width="50%">
-
-If you need to add specific contact or tax information to your invoices, like your full business name, VAT identification number, or address of record, you may add it here.
-
-</td><td width="50%">
-
-If you need to add specific contact or tax information to your invoices, like your full business name, VAT identification number, or address of record, you may add it here.
-
-</td></tr>
-<tr><td width="50%">
-
-Invalid filename.
-
-</td><td width="50%">
-
-Invalid filename.
-
-</td></tr>
-<tr><td width="50%">
-
-Invoice Email Addresses
-
-</td><td width="50%">
-
-Invoice Email Addresses
-
-</td></tr>
-<tr><td width="50%">
-
-Invoice emails updated successfully.
-
-</td><td width="50%">
-
-Invoice emails updated successfully.
-
-</td></tr>
-<tr><td width="50%">
-
-Invoices
-
-</td><td width="50%">
-
-Invoices
 
 </td></tr>
 <tr><td width="50%">
@@ -739,15 +613,6 @@ Kuwait
 </td><td width="50%">
 
 Kuwait
-
-</td></tr>
-<tr><td width="50%">
-
-length
-
-</td><td width="50%">
-
-length
 
 </td></tr>
 <tr><td width="50%">

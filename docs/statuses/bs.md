@@ -4,12 +4,12 @@ editLink: false
 
 # bs
 
-##### All missed: 53
+##### All missed: 46
 
 
 ### json
 
-##### Missing: 49
+##### Missing: 46
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,24 +21,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-Action Event
-
-</td><td width="50%">
-
-Action Event
-
-</td></tr>
-<tr><td width="50%">
-
-Action Events
-
-</td><td width="50%">
-
-Action Events
-
-</td></tr>
 <tr><td width="50%">
 
 Angola
@@ -392,15 +374,6 @@ The invoice emails must be valid email addresses.
 </td></tr>
 <tr><td width="50%">
 
-The selected resources have been :action!
-
-</td><td width="50%">
-
-The selected resources have been :action!
-
-</td></tr>
-<tr><td width="50%">
-
 This payment was initiated, but the funds have not been received yet. This can take up to 14 days.
 
 </td><td width="50%">
@@ -460,62 +433,6 @@ Your subscription has been successfully cancelled. You will still have access un
 </td><td width="50%">
 
 Your subscription has been successfully cancelled. You will still have access until the end of your billing period.
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php-inline
-
-##### Missing: 4
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-in_array_keys
-
-</td><td width="50%">
-
-This field must contain at least one of the following keys: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-prohibited_if_accepted
-
-</td><td width="50%">
-
-This field is prohibited when :other is accepted.
-
-</td></tr>
-<tr><td width="50%">
-
-prohibited_if_declined
-
-</td><td width="50%">
-
-This field is prohibited when :other is declined.
-
-</td></tr>
-<tr><td width="50%">
-
-required_if_declined
-
-</td><td width="50%">
-
-This field is required when :other is declined.
 
 </td></tr>
 </table>

@@ -4,12 +4,12 @@ editLink: false
 
 # fy
 
-##### All missed: 65
+##### All missed: 64
 
 
 ### json
 
-##### Missing: 65
+##### Missing: 64
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,15 +21,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-:resource Details: :title
-
-</td><td width="50%">
-
-:resource Details: :title
-
-</td></tr>
 <tr><td width="50%">
 
 Action Status

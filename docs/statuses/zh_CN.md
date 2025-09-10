@@ -4,7 +4,7 @@ editLink: false
 
 # zh_CN
 
-##### All missed: 13
+##### All missed: 9
 
 
 ### json
@@ -92,7 +92,7 @@ We will send an invoice download link to the email addresses that you specify be
 
 ### php-inline
 
-##### Missing: 3
+##### Missing: 1
 
 <table width="100%">
 <tr><th width="50%">
@@ -113,24 +113,6 @@ any_of
 This field is invalid.
 
 </td></tr>
-<tr><td width="50%">
-
-doesnt_contain
-
-</td><td width="50%">
-
-This field must not contain any of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-in_array_keys
-
-</td><td width="50%">
-
-This field must contain at least one of the following keys: :values.
-
-</td></tr>
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
@@ -139,7 +121,7 @@ This field must contain at least one of the following keys: :values.
 
 ### php
 
-##### Missing: 3
+##### Missing: 1
 
 <table width="100%">
 <tr><th width="50%">
@@ -158,24 +140,6 @@ any_of
 </td><td width="50%">
 
 The :attribute field is invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-doesnt_contain
-
-</td><td width="50%">
-
-The :attribute field must not contain any of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-in_array_keys
-
-</td><td width="50%">
-
-The :attribute field must contain at least one of the following keys: :values.
 
 </td></tr>
 </table>

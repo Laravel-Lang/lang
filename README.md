@@ -1,6 +1,7 @@
 # Laravel Lang
 
 
+
 ![laravel lang localizations](https://preview.dragon-code.pro/laravel-lang/localizations.svg?brand=laravel&mode=dark)
 
 [![Stable Version][badge_stable]][link_packagist]

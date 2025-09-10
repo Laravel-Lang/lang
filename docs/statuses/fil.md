@@ -4,12 +4,12 @@ editLink: false
 
 # fil
 
-##### All missed: 214
+##### All missed: 208
 
 
 ### json
 
-##### Missing: 214
+##### Missing: 208
 
 <table width="100%">
 <tr><th width="50%">
@@ -32,15 +32,6 @@ Target
 </td></tr>
 <tr><td width="50%">
 
-Address
-
-</td><td width="50%">
-
-Address
-
-</td></tr>
-<tr><td width="50%">
-
 Afghanistan
 
 </td><td width="50%">
@@ -370,15 +361,6 @@ Chile
 </td><td width="50%">
 
 Chile
-
-</td></tr>
-<tr><td width="50%">
-
-Code
-
-</td><td width="50%">
-
-Code
 
 </td></tr>
 <tr><td width="50%">
@@ -473,15 +455,6 @@ Côte d'Ivoire
 </td></tr>
 <tr><td width="50%">
 
-Dashboard
-
-</td><td width="50%">
-
-Dashboard
-
-</td></tr>
-<tr><td width="50%">
-
 Default
 
 </td><td width="50%">
@@ -536,15 +509,6 @@ Ecuador
 </td></tr>
 <tr><td width="50%">
 
-Editor
-
-</td><td width="50%">
-
-Editor
-
-</td></tr>
-<tr><td width="50%">
-
 El Salvador
 
 </td><td width="50%">
@@ -559,6 +523,15 @@ Email
 </td><td width="50%">
 
 Email
+
+</td></tr>
+<tr><td width="50%">
+
+Email Address
+
+</td><td width="50%">
+
+Email Address
 
 </td></tr>
 <tr><td width="50%">
@@ -608,6 +581,15 @@ Ethiopia
 </td></tr>
 <tr><td width="50%">
 
+ex VAT
+
+</td><td width="50%">
+
+ex VAT
+
+</td></tr>
+<tr><td width="50%">
+
 Fiji
 
 </td><td width="50%">
@@ -617,29 +599,11 @@ Fiji
 </td></tr>
 <tr><td width="50%">
 
-Filename
-
-</td><td width="50%">
-
-Filename
-
-</td></tr>
-<tr><td width="50%">
-
 Finland
 
 </td><td width="50%">
 
 Finland
-
-</td></tr>
-<tr><td width="50%">
-
-France
-
-</td><td width="50%">
-
-France
 
 </td></tr>
 <tr><td width="50%">
@@ -703,15 +667,6 @@ Gibraltar
 </td><td width="50%">
 
 Gibraltar
-
-</td></tr>
-<tr><td width="50%">
-
-Greece
-
-</td><td width="50%">
-
-Greece
 
 </td></tr>
 <tr><td width="50%">
@@ -878,15 +833,6 @@ Iran
 </td></tr>
 <tr><td width="50%">
 
-Iran, Islamic Republic of
-
-</td><td width="50%">
-
-Iran, Islamic Republic of
-
-</td></tr>
-<tr><td width="50%">
-
 Iraq
 
 </td><td width="50%">
@@ -901,6 +847,24 @@ Ireland
 </td><td width="50%">
 
 Ireland
+
+</td></tr>
+<tr><td width="50%">
+
+Isle Of Man
+
+</td><td width="50%">
+
+Isle of Man
+
+</td></tr>
+<tr><td width="50%">
+
+Isle of Man
+
+</td><td width="50%">
+
+Isle of Man
 
 </td></tr>
 <tr><td width="50%">
@@ -1009,15 +973,6 @@ Lebanon
 </td><td width="50%">
 
 Lebanon
-
-</td></tr>
-<tr><td width="50%">
-
-Lens
-
-</td><td width="50%">
-
-Lens
 
 </td></tr>
 <tr><td width="50%">
@@ -1184,15 +1139,6 @@ Micronesia
 </td></tr>
 <tr><td width="50%">
 
-Micronesia, Federated States of
-
-</td><td width="50%">
-
-Micronesia, Federated States of
-
-</td></tr>
-<tr><td width="50%">
-
 Moldova
 
 </td><td width="50%">
@@ -1364,20 +1310,20 @@ Niue
 </td></tr>
 <tr><td width="50%">
 
-Northern Mariana Islands
+Norway
 
 </td><td width="50%">
 
-Northern Mariana Islands
+Norway
 
 </td></tr>
 <tr><td width="50%">
 
-Norway
+OK
 
 </td><td width="50%">
 
-Norway
+OK
 
 </td></tr>
 <tr><td width="50%">
@@ -1463,6 +1409,15 @@ Peru
 </td></tr>
 <tr><td width="50%">
 
+Pitcairn
+
+</td><td width="50%">
+
+Pitcairn
+
+</td></tr>
+<tr><td width="50%">
+
 Poland
 
 </td><td width="50%">
@@ -1504,15 +1459,6 @@ Qatar
 </td><td width="50%">
 
 Qatar
-
-</td></tr>
-<tr><td width="50%">
-
-Recovery Code
-
-</td><td width="50%">
-
-Recovery Code
 
 </td></tr>
 <tr><td width="50%">

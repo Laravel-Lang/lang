@@ -4,12 +4,12 @@ editLink: false
 
 # ga
 
-##### All missed: 8
+##### All missed: 6
 
 
 ### json
 
-##### Missing: 8
+##### Missing: 6
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,15 +23,6 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-Aruba
-
-</td><td width="50%">
-
-Aruba
-
-</td></tr>
-<tr><td width="50%">
-
 Djibouti
 
 </td><td width="50%">
@@ -55,15 +46,6 @@ Madagascar
 </td><td width="50%">
 
 Madagascar
-
-</td></tr>
-<tr><td width="50%">
-
-Mayotte
-
-</td><td width="50%">
-
-Mayotte
 
 </td></tr>
 <tr><td width="50%">

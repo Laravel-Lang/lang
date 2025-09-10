@@ -7,6 +7,7 @@
 [![Github Workflow Status][badge_build]][link_build]
 [![License][badge_license]](https://laravel-lang.com/license.html)
 
+
 ## Documentation
 
 See the [documentation](https://laravel-lang.com/packages-lang.html) for detailed installation.

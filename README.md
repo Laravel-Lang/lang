@@ -2,6 +2,7 @@
 
 ![laravel lang localizations](https://preview.dragon-code.pro/laravel-lang/localizations.svg?brand=laravel&mode=dark)
 
+
 [![Stable Version][badge_stable]][link_packagist]
 [![Total Downloads][badge_downloads]][link_packagist]
 [![Github Workflow Status][badge_build]][link_build]

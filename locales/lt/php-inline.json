@@ -26,7 +26,7 @@
     "date_format": "Šio lauko reikšmė neatitinka formato :format.",
     "decimal": "Šiame lauke turi būti :decimal skaitmenų po kablelio.",
     "declined": "Šis laukas turi būti atmestas.",
-    "declined_if": "Šis laukas turi būti atmestas, kai :other yra :value.", 
+    "declined_if": "Šis laukas turi būti atmestas, kai :other yra :value.",
     "different": "Šio lauko reikšmė privalo skirtis nuo :other.",
     "digits": "Šio laukas turi būti sudarytas iš :digits skaitmenų.",
     "digits_between": "Šis laukas turi turėti nuo :min iki :max skaitmenų.",

@@ -1,8 +1,11 @@
+# General information
+
 Project: Laravel-Lang / lang
 
 This document captures project-specific knowledge to help advanced contributors set up, test, and develop efficiently. It focuses on tools, commands, and conventions that are unique to this repository.
 
-1) Build / Configuration
+## Build / Configuration
+
 - Runtime requirements
   - PHP: ^8.2. The test suite uses PHPUnit ^11|^12.
   - PHP extensions: ext-json.
@@ -34,7 +37,8 @@ This document captures project-specific knowledge to help advanced contributors 
     - Used for JSON/JS formatting and linting outside of vendor/node_modules/etc.
     - VCS integration disabled; it won’t honor .gitignore by default (useIgnoreFile=false). The config explicitly excludes node_modules, vendor, and several root files.
 
-2) Testing
+## Testing
+
 - Framework / configuration
   - PHPUnit is configured via phpunit.xml at the project root.
   - Bootstrap: vendor/autoload.php
@@ -77,7 +81,8 @@ This document captures project-specific knowledge to help advanced contributors 
     - vendor\bin\phpunit -c phpunit.xml --filter DemoExampleTest --testdox
   - Note: This example was created and executed during documentation authoring and then removed to keep the repository clean.
 
-3) Additional Development Information
+## Additional Development Information
+
 - Repository purpose
   - This package provides and maintains language resources for Laravel and related first-party packages. Locales live under locales/. The source/ directory holds inputs used to generate/update locales; automation is handled by laravel-lang/publisher and related tools.
 
@@ -122,7 +127,7 @@ Verification notes
 - The full test suite was executed successfully with: vendor\bin\phpunit -c phpunit.xml --testdox
 - A demonstration test (tests/DemoExampleTest.php) was created, executed, and removed. The commands and example in this guideline are confirmed to work on Windows with PHP 8.4 and PHPUnit 12.
 
-4) Localization translation rules
+## Localization translation rules
 
 - When translating files, follow the folder name mapping for the target language. See the .aiassistant/rules/locales.md file for the mapping list.
 - The localization folder name follows the ISO-639-1 standard. Translate into the language that corresponds to this locale code.
@@ -133,3 +138,10 @@ Verification notes
 - Consider the usage context when translating. These values are intended to be displayed on a website page in select fields, informational notifications, UI elements, etc.
 - After finishing the translation, sort the contents of the modified JSON files in alphabetical order.
 - Don't running unit tests after translation.
+- Files `*-inline.json` differ from the others in that they contain translations without mentioning the name of the attribute or field. For example:
+  - `*.json`:
+    - The :attribute field must only contain letters.
+    - The :attribute field must have :value items or more.
+  - `*-inline.json`:
+    - The value must only contain letters.
+    - This field must contain :value items or more.

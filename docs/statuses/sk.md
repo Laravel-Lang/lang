@@ -4,12 +4,12 @@ editLink: false
 
 # sk
 
-##### All missed: 44
+##### All missed: 49
 
 
 ### json
 
-##### Missing: 44
+##### Missing: 49
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,6 +23,15 @@ Value
 </th></tr>
 <tr><td width="50%">
 
+Andorra
+
+</td><td width="50%">
+
+Andorra
+
+</td></tr>
+<tr><td width="50%">
+
 Angola
 
 </td><td width="50%">
@@ -149,6 +158,15 @@ Guam
 </td></tr>
 <tr><td width="50%">
 
+Guatemala
+
+</td><td width="50%">
+
+Guatemala
+
+</td></tr>
+<tr><td width="50%">
+
 Guernsey
 
 </td><td width="50%">
@@ -163,6 +181,15 @@ Guinea
 </td><td width="50%">
 
 Guinea
+
+</td></tr>
+<tr><td width="50%">
+
+Guinea-Bissau
+
+</td><td width="50%">
+
+Guinea-Bissau
 
 </td></tr>
 <tr><td width="50%">
@@ -203,6 +230,15 @@ India
 </td></tr>
 <tr><td width="50%">
 
+Jersey
+
+</td><td width="50%">
+
+Jersey
+
+</td></tr>
+<tr><td width="50%">
+
 Kiribati
 
 </td><td width="50%">
@@ -226,6 +262,15 @@ Malawi
 </td><td width="50%">
 
 Malawi
+
+</td></tr>
+<tr><td width="50%">
+
+Mali
+
+</td><td width="50%">
+
+Mali
 
 </td></tr>
 <tr><td width="50%">

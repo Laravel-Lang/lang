@@ -4,12 +4,12 @@ editLink: false
 
 # mt
 
-##### All missed: 79
+##### All missed: 72
 
 
 ### json
 
-##### Missing: 79
+##### Missing: 72
 
 <table width="100%">
 <tr><th width="50%">
@@ -32,56 +32,11 @@ Status
 </td></tr>
 <tr><td width="50%">
 
-Andorra
-
-</td><td width="50%">
-
-Andorra
-
-</td></tr>
-<tr><td width="50%">
-
-Angola
-
-</td><td width="50%">
-
-Angola
-
-</td></tr>
-<tr><td width="50%">
-
 Anguilla
 
 </td><td width="50%">
 
 Anguilla
-
-</td></tr>
-<tr><td width="50%">
-
-April
-
-</td><td width="50%">
-
-April
-
-</td></tr>
-<tr><td width="50%">
-
-Aruba
-
-</td><td width="50%">
-
-Aruba
-
-</td></tr>
-<tr><td width="50%">
-
-Barbados
-
-</td><td width="50%">
-
-Barbados
 
 </td></tr>
 <tr><td width="50%">
@@ -149,15 +104,6 @@ Burundi
 </td></tr>
 <tr><td width="50%">
 
-CSV (.csv)
-
-</td><td width="50%">
-
-CSV (.csv)
-
-</td></tr>
-<tr><td width="50%">
-
 Curaçao
 
 </td><td width="50%">
@@ -199,15 +145,6 @@ email
 </td><td width="50%">
 
 email
-
-</td></tr>
-<tr><td width="50%">
-
-Excel (.xlsx)
-
-</td><td width="50%">
-
-Excel (.xlsx)
 
 </td></tr>
 <tr><td width="50%">

@@ -90,7 +90,7 @@
     "missing_unless": ":Other :value नभएसम्म :attribute फिल्ड हराइरहेको हुनुपर्छ।",
     "missing_with": ":Values उपस्थित हुँदा :attribute फिल्ड हराइरहेको हुनुपर्छ।",
     "missing_with_all": ":Values उपस्थित हुँदा :attribute फिल्ड हराइरहेको हुनुपर्छ।",
-    "multiple_of": ":Attribute :value को गुणक हुनुपर्छ।", 
+    "multiple_of": ":Attribute :value को गुणक हुनुपर्छ।",
     "next": "अर्को &raquo;",
     "not_in": "छानिएको :attribute अमान्य छ।",
     "not_regex": ":Attribute ढाँचा अवैध छ.",

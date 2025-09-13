@@ -4,12 +4,12 @@ editLink: false
 
 # rw
 
-##### All missed: 82
+##### All missed: 73
 
 
 ### json
 
-##### Missing: 82
+##### Missing: 73
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,78 +21,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-Andorra
-
-</td><td width="50%">
-
-Andorra
-
-</td></tr>
-<tr><td width="50%">
-
-Angola
-
-</td><td width="50%">
-
-Angola
-
-</td></tr>
-<tr><td width="50%">
-
-Anguilla
-
-</td><td width="50%">
-
-Anguilla
-
-</td></tr>
-<tr><td width="50%">
-
-Aruba
-
-</td><td width="50%">
-
-Aruba
-
-</td></tr>
-<tr><td width="50%">
-
-Bahamas
-
-</td><td width="50%">
-
-Bahamas
-
-</td></tr>
-<tr><td width="50%">
-
-Bangladesh
-
-</td><td width="50%">
-
-Bangladesh
-
-</td></tr>
-<tr><td width="50%">
-
-Belize
-
-</td><td width="50%">
-
-Belize
-
-</td></tr>
-<tr><td width="50%">
-
-Bermuda
-
-</td><td width="50%">
-
-Bermuda
-
-</td></tr>
 <tr><td width="50%">
 
 Botswana
@@ -199,15 +127,6 @@ El Salvador
 </td><td width="50%">
 
 El Salvador
-
-</td></tr>
-<tr><td width="50%">
-
-Excel (.xlsx)
-
-</td><td width="50%">
-
-Excel (.xlsx)
 
 </td></tr>
 <tr><td width="50%">

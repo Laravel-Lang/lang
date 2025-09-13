@@ -4,12 +4,12 @@ editLink: false
 
 # so
 
-##### All missed: 97
+##### All missed: 106
 
 
 ### json
 
-##### Missing: 97
+##### Missing: 106
 
 <table width="100%">
 <tr><th width="50%">
@@ -55,6 +55,15 @@ Argentina
 </td><td width="50%">
 
 Argentina
+
+</td></tr>
+<tr><td width="50%">
+
+Aruba
+
+</td><td width="50%">
+
+Aruba
 
 </td></tr>
 <tr><td width="50%">
@@ -239,6 +248,24 @@ Georgia
 </td></tr>
 <tr><td width="50%">
 
+Gibraltar
+
+</td><td width="50%">
+
+Gibraltar
+
+</td></tr>
+<tr><td width="50%">
+
+Greenland
+
+</td><td width="50%">
+
+Greenland
+
+</td></tr>
+<tr><td width="50%">
+
 Grenada
 
 </td><td width="50%">
@@ -248,11 +275,29 @@ Grenada
 </td></tr>
 <tr><td width="50%">
 
+Guam
+
+</td><td width="50%">
+
+Guam
+
+</td></tr>
+<tr><td width="50%">
+
 Guatemala
 
 </td><td width="50%">
 
 Guatemala
+
+</td></tr>
+<tr><td width="50%">
+
+Guernsey
+
+</td><td width="50%">
+
+Guernsey
 
 </td></tr>
 <tr><td width="50%">
@@ -275,11 +320,29 @@ Guinea-Bissau
 </td></tr>
 <tr><td width="50%">
 
+Guyana
+
+</td><td width="50%">
+
+Guyana
+
+</td></tr>
+<tr><td width="50%">
+
 Haiti
 
 </td><td width="50%">
 
 Haiti
+
+</td></tr>
+<tr><td width="50%">
+
+Honduras
+
+</td><td width="50%">
+
+Honduras
 
 </td></tr>
 <tr><td width="50%">
@@ -334,6 +397,15 @@ Japan
 </td><td width="50%">
 
 Japan
+
+</td></tr>
+<tr><td width="50%">
+
+Jersey
+
+</td><td width="50%">
+
+Jersey
 
 </td></tr>
 <tr><td width="50%">
@@ -424,6 +496,15 @@ Luxembourg
 </td><td width="50%">
 
 Luxembourg
+
+</td></tr>
+<tr><td width="50%">
+
+Macao
+
+</td><td width="50%">
+
+Macao
 
 </td></tr>
 <tr><td width="50%">

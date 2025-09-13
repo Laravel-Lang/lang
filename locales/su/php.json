@@ -91,7 +91,7 @@
     "missing_with": "Widang :attribute kedah leungit nalika aya :values.",
     "missing_with_all": "Widang :attribute kedah leungit nalika aya :values.",
     "multiple_of": ":attribute kudu kelipatan :value.",
-    "next": "Teras \"",
+    "next": "Salajengna »",
     "not_in": ":attribute nu dipilih teu valid.",
     "not_regex": "Format :attribute henteu sah.",
     "numeric": ":attribute kedah janten angka.",

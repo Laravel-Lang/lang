@@ -4,12 +4,12 @@ editLink: false
 
 # gl
 
-##### All missed: 81
+##### All missed: 70
 
 
 ### json
 
-##### Missing: 81
+##### Missing: 70
 
 <table width="100%">
 <tr><th width="50%">
@@ -32,110 +32,11 @@ Albania
 </td></tr>
 <tr><td width="50%">
 
-Andorra
-
-</td><td width="50%">
-
-Andorra
-
-</td></tr>
-<tr><td width="50%">
-
-Angola
-
-</td><td width="50%">
-
-Angola
-
-</td></tr>
-<tr><td width="50%">
-
-Armenia
-
-</td><td width="50%">
-
-Armenia
-
-</td></tr>
-<tr><td width="50%">
-
-Aruba
-
-</td><td width="50%">
-
-Aruba
-
-</td></tr>
-<tr><td width="50%">
-
-Australia
-
-</td><td width="50%">
-
-Australia
-
-</td></tr>
-<tr><td width="50%">
-
-Austria
-
-</td><td width="50%">
-
-Austria
-
-</td></tr>
-<tr><td width="50%">
-
-Bahamas
-
-</td><td width="50%">
-
-Bahamas
-
-</td></tr>
-<tr><td width="50%">
-
-Bangladesh
-
-</td><td width="50%">
-
-Bangladesh
-
-</td></tr>
-<tr><td width="50%">
-
-Barbados
-
-</td><td width="50%">
-
-Barbados
-
-</td></tr>
-<tr><td width="50%">
-
-Benin
-
-</td><td width="50%">
-
-Benin
-
-</td></tr>
-<tr><td width="50%">
-
 Bolivia
 
 </td><td width="50%">
 
 Bolivia
-
-</td></tr>
-<tr><td width="50%">
-
-Botswana
-
-</td><td width="50%">
-
-Botswana
 
 </td></tr>
 <tr><td width="50%">

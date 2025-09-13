@@ -4,12 +4,12 @@ editLink: false
 
 # gd
 
-##### All missed: 138
+##### All missed: 126
 
 
 ### json
 
-##### Missing: 138
+##### Missing: 126
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,114 +21,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-Algeria
-
-</td><td width="50%">
-
-Algeria
-
-</td></tr>
-<tr><td width="50%">
-
-Andorra
-
-</td><td width="50%">
-
-Andorra
-
-</td></tr>
-<tr><td width="50%">
-
-Angola
-
-</td><td width="50%">
-
-Angola
-
-</td></tr>
-<tr><td width="50%">
-
-Anguilla
-
-</td><td width="50%">
-
-Anguilla
-
-</td></tr>
-<tr><td width="50%">
-
-Argentina
-
-</td><td width="50%">
-
-Argentina
-
-</td></tr>
-<tr><td width="50%">
-
-Armenia
-
-</td><td width="50%">
-
-Armenia
-
-</td></tr>
-<tr><td width="50%">
-
-Aruba
-
-</td><td width="50%">
-
-Aruba
-
-</td></tr>
-<tr><td width="50%">
-
-Azerbaijan
-
-</td><td width="50%">
-
-Azerbaijan
-
-</td></tr>
-<tr><td width="50%">
-
-Bahamas
-
-</td><td width="50%">
-
-Bahamas
-
-</td></tr>
-<tr><td width="50%">
-
-Bahrain
-
-</td><td width="50%">
-
-Bahrain
-
-</td></tr>
-<tr><td width="50%">
-
-Bangladesh
-
-</td><td width="50%">
-
-Bangladesh
-
-</td></tr>
-<tr><td width="50%">
-
-Barbados
-
-</td><td width="50%">
-
-Barbados
-
-</td></tr>
 <tr><td width="50%">
 
 Belize

@@ -4,12 +4,12 @@ editLink: false
 
 # lb
 
-##### All missed: 104
+##### All missed: 106
 
 
 ### json
 
-##### Missing: 104
+##### Missing: 106
 
 <table width="100%">
 <tr><th width="50%">
@@ -59,6 +59,15 @@ Angola
 </td></tr>
 <tr><td width="50%">
 
+Anguilla
+
+</td><td width="50%">
+
+Anguilla
+
+</td></tr>
+<tr><td width="50%">
+
 Aruba
 
 </td><td width="50%">
@@ -194,6 +203,15 @@ China
 </td></tr>
 <tr><td width="50%">
 
+Code
+
+</td><td width="50%">
+
+Code
+
+</td></tr>
+<tr><td width="50%">
+
 Costa Rica
 
 </td><td width="50%">
@@ -208,6 +226,15 @@ Coupon
 </td><td width="50%">
 
 Coupon
+
+</td></tr>
+<tr><td width="50%">
+
+Curaçao
+
+</td><td width="50%">
+
+Curaçao
 
 </td></tr>
 <tr><td width="50%">
@@ -262,15 +289,6 @@ Eritrea
 </td><td width="50%">
 
 Eritrea
-
-</td></tr>
-<tr><td width="50%">
-
-Excel (.xlsx)
-
-</td><td width="50%">
-
-Excel (.xlsx)
 
 </td></tr>
 <tr><td width="50%">

@@ -4,12 +4,12 @@ editLink: false
 
 # lo
 
-##### All missed: 15
+##### All missed: 13
 
 
 ### json
 
-##### Missing: 15
+##### Missing: 13
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,24 +21,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-Anguilla
-
-</td><td width="50%">
-
-Anguilla
-
-</td></tr>
-<tr><td width="50%">
-
-Cape Verde
-
-</td><td width="50%">
-
-Cape Verde
-
-</td></tr>
 <tr><td width="50%">
 
 Costa Rica

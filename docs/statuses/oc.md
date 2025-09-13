@@ -4,7 +4,7 @@ editLink: false
 
 # oc
 
-##### All missed: 923
+##### All missed: 907
 
 
 ### json-inline
@@ -8099,7 +8099,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 31
+##### Missing: 15
 
 <table width="100%">
 <tr><th width="50%">
@@ -8111,150 +8111,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-any_of
-
-</td><td width="50%">
-
-The :attribute field is invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-attached
-
-</td><td width="50%">
-
-This :attribute is already attached.
-
-</td></tr>
-<tr><td width="50%">
-
-can
-
-</td><td width="50%">
-
-The :attribute field contains an unauthorized value.
-
-</td></tr>
-<tr><td width="50%">
-
-contains
-
-</td><td width="50%">
-
-The :attribute field is missing a required value.
-
-</td></tr>
-<tr><td width="50%">
-
-current_password
-
-</td><td width="50%">
-
-The password is incorrect.
-
-</td></tr>
-<tr><td width="50%">
-
-doesnt_contain
-
-</td><td width="50%">
-
-The :attribute field must not contain any of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-extensions
-
-</td><td width="50%">
-
-The :attribute field must have one of the following extensions: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-hex_color
-
-</td><td width="50%">
-
-The :attribute field must be a valid hexadecimal color.
-
-</td></tr>
-<tr><td width="50%">
-
-in_array_keys
-
-</td><td width="50%">
-
-The :attribute field must contain at least one of the following keys: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-list
-
-</td><td width="50%">
-
-The :attribute field must be a list.
-
-</td></tr>
-<tr><td width="50%">
-
-missing
-
-</td><td width="50%">
-
-The :attribute field must be missing.
-
-</td></tr>
-<tr><td width="50%">
-
-missing_if
-
-</td><td width="50%">
-
-The :attribute field must be missing when :other is :value.
-
-</td></tr>
-<tr><td width="50%">
-
-missing_unless
-
-</td><td width="50%">
-
-The :attribute field must be missing unless :other is :value.
-
-</td></tr>
-<tr><td width="50%">
-
-missing_with
-
-</td><td width="50%">
-
-The :attribute field must be missing when :values is present.
-
-</td></tr>
-<tr><td width="50%">
-
-missing_with_all
-
-</td><td width="50%">
-
-The :attribute field must be missing when :values are present.
-
-</td></tr>
-<tr><td width="50%">
-
-password.uncompromised
-
-</td><td width="50%">
-
-The given :attribute has appeared in a data leak. Please choose a different :attribute.
-
-</td></tr>
 <tr><td width="50%">
 
 present_if

@@ -32,7 +32,7 @@
     "digits": ":Attribute depet èssere de :digits tzifras.",
     "digits_between": ":Attribute depet èssere intre :min e :max tzifras.",
     "dimensions": ":Attribute tenet dimènsiones de immàgine non vàlidas.",
-    "distinct": "Su campu :attribute tenet unu balore duplicadu.", 
+    "distinct": "Su campu :attribute tenet unu balore duplicadu.",
     "doesnt_contain": "Su campu :attribute no depet cuntènnere perunu de custos: :values.",
     "doesnt_end_with": ":Attribute no depet acabbare cun unu de custos: :values.",
     "doesnt_start_with": ":Attribute no depet cumintzare cun unu de custos: :values.",

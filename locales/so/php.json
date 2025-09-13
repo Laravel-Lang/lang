@@ -106,7 +106,7 @@
     "present_unless": ":attributeka goobood waa inay joogaan ilaa :other aysan ahayn :value.",
     "present_with": ":attributeka garoon waa in ay joogaan marka :values ay joogaan.",
     "present_with_all": ":attributeka garoon waa in ay joogaan marka :values ay joogaan.",
-    "previous": "\" Hore",
+    "previous": "Hore",
     "prohibited": ":attributeka garoon waa mamnuuc.",
     "prohibited_if": ":attributeka goobood waa mamnuuc marka :otherku yahay :value.",
     "prohibited_if_accepted": ":attribute-ka beerka waa mamnuuc marka :other la aqbalo.",

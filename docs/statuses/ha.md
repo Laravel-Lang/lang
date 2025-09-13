@@ -4,12 +4,12 @@ editLink: false
 
 # ha
 
-##### All missed: 113
+##### All missed: 107
 
 
 ### json
 
-##### Missing: 113
+##### Missing: 107
 
 <table width="100%">
 <tr><th width="50%">
@@ -32,38 +32,11 @@ Angola
 </td></tr>
 <tr><td width="50%">
 
-Antarctica
-
-</td><td width="50%">
-
-Antarctica
-
-</td></tr>
-<tr><td width="50%">
-
 Argentina
 
 </td><td width="50%">
 
 Argentina
-
-</td></tr>
-<tr><td width="50%">
-
-Aruba
-
-</td><td width="50%">
-
-Aruba
-
-</td></tr>
-<tr><td width="50%">
-
-Austria
-
-</td><td width="50%">
-
-Austria
 
 </td></tr>
 <tr><td width="50%">
@@ -239,15 +212,6 @@ Croatia
 </td></tr>
 <tr><td width="50%">
 
-CSV (.csv)
-
-</td><td width="50%">
-
-CSV (.csv)
-
-</td></tr>
-<tr><td width="50%">
-
 Dashboard
 
 </td><td width="50%">
@@ -280,15 +244,6 @@ Equatorial Guinea
 </td><td width="50%">
 
 Equatorial Guinea
-
-</td></tr>
-<tr><td width="50%">
-
-Excel (.xlsx)
-
-</td><td width="50%">
-
-Excel (.xlsx)
 
 </td></tr>
 <tr><td width="50%">
@@ -388,15 +343,6 @@ Iceland
 </td><td width="50%">
 
 Iceland
-
-</td></tr>
-<tr><td width="50%">
-
-ID
-
-</td><td width="50%">
-
-ID
 
 </td></tr>
 <tr><td width="50%">

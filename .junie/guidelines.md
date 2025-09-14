@@ -145,3 +145,4 @@ Verification notes
   - `*-inline.json`:
     - The value must only contain letters.
     - This field must contain :value items or more.
+- Follow the current English wording verbatim, preserving placeholders (e.g., :attribute, :value, etc.).

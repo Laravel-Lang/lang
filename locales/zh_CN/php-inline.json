@@ -7,7 +7,7 @@
     "alpha": "只能由字母组成。",
     "alpha_dash": "只能由字母、数字、短划线(-)和下划线(_)组成。",
     "alpha_num": "只能由字母和数字组成。",
-    "any_of": "This field is invalid.",
+    "any_of": "该字段无效。",
     "array": "必须是一个数组。",
     "ascii": "该字段只能包含单字节字母数字字符和符号。",
     "attached": "此字段已附加。",

@@ -1,9 +1,9 @@
 [
-    "API Token",
     "Albania",
     "American Samoa",
     "Angola",
     "Anguilla",
+    "API Token",
     "Argentina",
     "Armenia",
     "Aruba",
@@ -22,15 +22,16 @@
     "Bulgaria",
     "Burkina Faso",
     "Burundi",
-    "CSV (.csv)",
     "Chad",
     "Chile",
     "Comoros",
     "Costa Rica",
+    "CSV (.csv)",
     "Cuba",
     "Djibouti",
     "Ecuador",
     "Email",
+    "email",
     "Eritrea",
     "Estonia",
     "Excel (.xlsx)",
@@ -134,6 +135,5 @@
     "Vanuatu",
     "Venezuela",
     "Zambia",
-    "Zimbabwe",
-    "email"
+    "Zimbabwe"
 ]

@@ -88,7 +88,7 @@ This document captures project-specific knowledge to help advanced contributors 
 
 - Directory overview
   - src/ — Package code, including the ServiceProvider and any helpers used at runtime.
-  - source/ — Data sources used to generate translation files (do not edit generated outputs directly without understanding the pipeline).
+  - source/ — Data sources used to generate translation files (don’t edit generated outputs directly without understanding the pipeline).
   - locales/ — Generated/maintained translation artifacts per locale (e.g., php-inline.json, json.json, _excludes.json). Some files may be machine-maintained; use sync tooling to update.
   - tests/ — Test suite; currently includes PluginTest which relies on status-generator’s BaseTestCase.
   - docs/ — Additional project/user documentation.
@@ -131,13 +131,13 @@ Verification notes
 
 - When translating files, follow the folder name mapping for the target language. See the .aiassistant/rules/locales.md file for the mapping list.
 - The localization folder name follows the ISO-639-1 standard. Translate into the language that corresponds to this locale code.
-- Do not translate files whose names start with the `_` character.
+- Don’t translate files whose names start with the `_` character.
 - Keep the keys themselves untranslated, even if they contain sentences.
 - If a translated value is identical to the English variant, add this value to the `_excludes.json` file.
 - If a sentence starts with a placeholder (begins with the `:` character), write it with an initial capital letter. For example, `":Attribute est déjà attaché(e)."`.
 - Consider the usage context when translating. These values are intended to be displayed on a website page in select fields, informational notifications, UI elements, etc.
 - After finishing the translation, sort the contents of the modified JSON files in alphabetical order.
-- Don't running unit tests after translation.
+- Don't run unit tests and/or code-style after translation.
 - Files `*-inline.json` differ from the others in that they contain translations without mentioning the name of the attribute or field. For example:
   - `*.json`:
     - The :attribute field must only contain letters.
@@ -146,3 +146,10 @@ Verification notes
     - The value must only contain letters.
     - This field must contain :value items or more.
 - Follow the current English wording verbatim, preserving placeholders (e.g., :attribute, :value, etc.).
+- When translating, refer to the original text located in the `locales/en/*.json` files:
+  - `locales/*/json.json` with `locales/en/json.json`
+  - `locales/*/json-inline.json` with `locales/en/json-inline.json`
+  - `locales/*/php.json` with `locales/en/php.json`
+  - `locales/*/php-inline.json` with `locales/en/php-inline.json`
+- Translate only the phrases that are written in English. Previously translated phrases don’t need to be rephrased unless otherwise specified.
+- Translate all the specified files in a single commit.

@@ -26,8 +26,8 @@
     "Bulgaria",
     "Burkina Faso",
     "Burundi",
-    "CSV (.csv)",
     "Chad",
+    "CSV (.csv)",
     "Curaçao",
     "Denmark",
     "Djibouti",
@@ -124,6 +124,7 @@
     "Togo",
     "Tokelau",
     "Tonga",
+    "total",
     "Total:",
     "Tunisia",
     "Turkmenistan",
@@ -134,6 +135,5 @@
     "Vanuatu",
     "Venezuela",
     "Zambia",
-    "Zimbabwe",
-    "total"
+    "Zimbabwe"
 ]

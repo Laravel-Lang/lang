@@ -1,8 +1,8 @@
 [
-    "API Token",
-    "API Tokens",
     "Andorra",
     "Angola",
+    "API Token",
+    "API Tokens",
     "Aruba",
     "Australia",
     "Austria",
@@ -11,11 +11,11 @@
     "Bermuda",
     "Bulgaria",
     "Burundi",
-    "CSV (.csv)",
     "Canada",
     "Chile",
     "China",
     "Costa Rica",
+    "CSV (.csv)",
     "Cuba",
     "Curaçao",
     "Editor",
@@ -51,9 +51,9 @@
     "Timor-Leste",
     "Togo",
     "Tokelau",
+    "total",
     "Tuvalu",
     "Uganda",
     "Vanuatu",
-    "Venezuela",
-    "total"
+    "Venezuela"
 ]

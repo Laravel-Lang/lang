@@ -14,10 +14,11 @@
     "Botswana",
     "Burkina Faso",
     "Burundi",
-    "CSV (.csv)",
     "Chile",
+    "CSV (.csv)",
     "Curaçao",
     "Email",
+    "email",
     "Estonia",
     "Excel (.xlsx)",
     "Gabon",
@@ -75,6 +76,5 @@
     "Uzbekistan",
     "Vanuatu",
     "Zambia",
-    "Zimbabwe",
-    "email"
+    "Zimbabwe"
 ]

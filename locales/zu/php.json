@@ -91,7 +91,7 @@
     "missing_with": "Inkambu ye-:attribute kufanele ingekho lapho u-:values ekhona.",
     "missing_with_all": "Inkambu ye-:attribute kufanele ingekho uma bekhona abangu-:values.",
     "multiple_of": "I-:attribute kufanele ibe yi-multiple of :value.",
-    "next": "Okulandelayo \u00BB",
+    "next": "Okulandelayo »",
     "not_in": "Okukhethiwe okungu-:attribute akuvumelekile.",
     "not_regex": "Ifomethi ye-:attribute ayivumelekile.",
     "numeric": "U-:attribute kufanele kube inombolo.",

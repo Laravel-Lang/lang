@@ -4,12 +4,12 @@ editLink: false
 
 # sn
 
-##### All missed: 82
+##### All missed: 81
 
 
 ### json
 
-##### Missing: 82
+##### Missing: 81
 
 <table width="100%">
 <tr><th width="50%">
@@ -208,15 +208,6 @@ Email
 </td><td width="50%">
 
 Email
-
-</td></tr>
-<tr><td width="50%">
-
-Excel (.xlsx)
-
-</td><td width="50%">
-
-Excel (.xlsx)
 
 </td></tr>
 <tr><td width="50%">

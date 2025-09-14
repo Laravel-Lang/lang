@@ -4,12 +4,12 @@ editLink: false
 
 # mi
 
-##### All missed: 86
+##### All missed: 84
 
 
 ### json
 
-##### Missing: 86
+##### Missing: 84
 
 <table width="100%">
 <tr><th width="50%">
@@ -185,15 +185,6 @@ Costa Rica
 </td></tr>
 <tr><td width="50%">
 
-CSV (.csv)
-
-</td><td width="50%">
-
-CSV (.csv)
-
-</td></tr>
-<tr><td width="50%">
-
 Czech Republic
 
 </td><td width="50%">
@@ -235,15 +226,6 @@ Eritrea
 </td><td width="50%">
 
 Eritrea
-
-</td></tr>
-<tr><td width="50%">
-
-Excel (.xlsx)
-
-</td><td width="50%">
-
-Excel (.xlsx)
 
 </td></tr>
 <tr><td width="50%">

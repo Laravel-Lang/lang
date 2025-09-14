@@ -4,12 +4,12 @@ editLink: false
 
 # gd
 
-##### All missed: 126
+##### All missed: 125
 
 
 ### json
 
-##### Missing: 126
+##### Missing: 125
 
 <table width="100%">
 <tr><th width="50%">
@@ -253,15 +253,6 @@ Ethiopia
 </td><td width="50%">
 
 Ethiopia
-
-</td></tr>
-<tr><td width="50%">
-
-Excel (.xlsx)
-
-</td><td width="50%">
-
-Excel (.xlsx)
 
 </td></tr>
 <tr><td width="50%">

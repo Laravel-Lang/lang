@@ -4,7 +4,7 @@ editLink: false
 
 # zh_CN
 
-##### All missed: 9
+##### All missed: 7
 
 
 ### json
@@ -82,64 +82,6 @@ We will send an invoice download link to the email addresses that you specify be
 </td><td width="50%">
 
 We will send an invoice download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php-inline
-
-##### Missing: 1
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-any_of
-
-</td><td width="50%">
-
-This field is invalid.
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php
-
-##### Missing: 1
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-any_of
-
-</td><td width="50%">
-
-The :attribute field is invalid.
 
 </td></tr>
 </table>

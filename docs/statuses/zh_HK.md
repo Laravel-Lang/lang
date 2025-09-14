@@ -4,12 +4,12 @@ editLink: false
 
 # zh_HK
 
-##### All missed: 28
+##### All missed: 19
 
 
 ### json
 
-##### Missing: 20
+##### Missing: 19
 
 <table width="100%">
 <tr><th width="50%">
@@ -37,15 +37,6 @@ Action Events
 </td><td width="50%">
 
 Action Events
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to mark all notifications as read?
-
-</td><td width="50%">
-
-Are you sure you want to mark all notifications as read?
 
 </td></tr>
 <tr><td width="50%">
@@ -199,118 +190,6 @@ We will send an invoice download link to the email addresses that you specify be
 </td><td width="50%">
 
 We will send an invoice download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php-inline
-
-##### Missing: 3
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-any_of
-
-</td><td width="50%">
-
-This field is invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-doesnt_contain
-
-</td><td width="50%">
-
-This field must not contain any of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-in_array_keys
-
-</td><td width="50%">
-
-This field must contain at least one of the following keys: :values.
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php
-
-##### Missing: 5
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-any_of
-
-</td><td width="50%">
-
-The :attribute field is invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-doesnt_contain
-
-</td><td width="50%">
-
-The :attribute field must not contain any of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-in_array_keys
-
-</td><td width="50%">
-
-The :attribute field must contain at least one of the following keys: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-prohibited_if_accepted
-
-</td><td width="50%">
-
-The :attribute field is prohibited when :other is accepted.
-
-</td></tr>
-<tr><td width="50%">
-
-prohibited_if_declined
-
-</td><td width="50%">
-
-The :attribute field is prohibited when :other is declined.
 
 </td></tr>
 </table>

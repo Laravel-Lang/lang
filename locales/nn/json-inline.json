@@ -12,5 +12,5 @@
     "The :attribute must contain at least one number.": "Dette feltet må innehalde minst eitt tal.",
     "The :attribute must contain at least one symbol.": "Dette feltet må innehalde minst eitt symbol.",
     "The :attribute must contain at least one uppercase and one lowercase letter.": "Dette feltet må innehalde minst éin stor og éin lita bokstav.",
-    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Den oppgjevne verdien er funnen i ei datalekkasje. Vel ein annan :attribute."
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Den oppgjevne verdien er funnen i ei datalekkasje. Vel ein annan verdi."
 }

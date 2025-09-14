@@ -4,12 +4,12 @@ editLink: false
 
 # sq
 
-##### All missed: 30
+##### All missed: 31
 
 
 ### json
 
-##### Missing: 30
+##### Missing: 31
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,6 +21,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+Andorra
+
+</td><td width="50%">
+
+Andorra
+
+</td></tr>
 <tr><td width="50%">
 
 Aruba

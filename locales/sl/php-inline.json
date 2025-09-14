@@ -25,7 +25,7 @@
     "date_equals": "Datum mora biti enak :date.",
     "date_format": "Datum ne ustreza formatu :format.",
     "decimal": "To polje mora imeti :decimal decimalnih mest.",
-    "declined": "To vrednost je treba zavrniti.", 
+    "declined": "To vrednost je treba zavrniti.",
     "declined_if": "To vrednost je treba zavrniti, ko je :other :value.",
     "different": "Vrednost mora biti drugačna od :other.",
     "digits": "Vnos mora vsebovati :digits števk.",

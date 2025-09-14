@@ -4,12 +4,12 @@ editLink: false
 
 # mk
 
-##### All missed: 47
+##### All missed: 29
 
 
 ### json
 
-##### Missing: 33
+##### Missing: 24
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,42 +23,6 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-A decryption key is required.
-
-</td><td width="50%">
-
-A decryption key is required.
-
-</td></tr>
-<tr><td width="50%">
-
-Action Event
-
-</td><td width="50%">
-
-Action Event
-
-</td></tr>
-<tr><td width="50%">
-
-Action Events
-
-</td><td width="50%">
-
-Action Events
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to mark all notifications as read?
-
-</td><td width="50%">
-
-Are you sure you want to mark all notifications as read?
-
-</td></tr>
-<tr><td width="50%">
-
 Change the current payment method attached to your subscription
 
 </td><td width="50%">
@@ -244,51 +208,6 @@ Secure Area
 </td><td width="50%">
 
 Secure Area
-
-</td></tr>
-<tr><td width="50%">
-
-The invoice emails must be valid email addresses.
-
-</td><td width="50%">
-
-The invoice emails must be valid email addresses.
-
-</td></tr>
-<tr><td width="50%">
-
-The selected resources have been :action!
-
-</td><td width="50%">
-
-The selected resources have been :action!
-
-</td></tr>
-<tr><td width="50%">
-
-This payment was initiated, but the funds have not been received yet. This can take up to 14 days.
-
-</td><td width="50%">
-
-This payment was initiated, but the funds have not been received yet. This can take up to 14 days.
-
-</td></tr>
-<tr><td width="50%">
-
-User Security
-
-</td><td width="50%">
-
-User Security
-
-</td></tr>
-<tr><td width="50%">
-
-Username
-
-</td><td width="50%">
-
-Username
 
 </td></tr>
 <tr><td width="50%">
@@ -326,7 +245,7 @@ Your subscription has been successfully cancelled. You will still have access un
 
 ### php-inline
 
-##### Missing: 7
+##### Missing: 5
 
 <table width="100%">
 <tr><th width="50%">
@@ -338,24 +257,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-any_of
-
-</td><td width="50%">
-
-This field is invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-contains
-
-</td><td width="50%">
-
-This field is missing a required value.
-
-</td></tr>
 <tr><td width="50%">
 
 doesnt_contain
@@ -399,89 +300,6 @@ required_if_declined
 </td><td width="50%">
 
 This field is required when :other is declined.
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php
-
-##### Missing: 7
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-any_of
-
-</td><td width="50%">
-
-The :attribute field is invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-contains
-
-</td><td width="50%">
-
-The :attribute field is missing a required value.
-
-</td></tr>
-<tr><td width="50%">
-
-doesnt_contain
-
-</td><td width="50%">
-
-The :attribute field must not contain any of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-in_array_keys
-
-</td><td width="50%">
-
-The :attribute field must contain at least one of the following keys: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-prohibited_if_accepted
-
-</td><td width="50%">
-
-The :attribute field is prohibited when :other is accepted.
-
-</td></tr>
-<tr><td width="50%">
-
-prohibited_if_declined
-
-</td><td width="50%">
-
-The :attribute field is prohibited when :other is declined.
-
-</td></tr>
-<tr><td width="50%">
-
-required_if_declined
-
-</td><td width="50%">
-
-The :attribute field is required when :other is declined.
 
 </td></tr>
 </table>

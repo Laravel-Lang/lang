@@ -4,12 +4,12 @@ editLink: false
 
 # eo
 
-##### All missed: 12
+##### All missed: 10
 
 
 ### json
 
-##### Missing: 12
+##### Missing: 10
 
 <table width="100%">
 <tr><th width="50%">
@@ -28,24 +28,6 @@ Bermuda
 </td><td width="50%">
 
 Bermuda
-
-</td></tr>
-<tr><td width="50%">
-
-CSV (.csv)
-
-</td><td width="50%">
-
-CSV (.csv)
-
-</td></tr>
-<tr><td width="50%">
-
-Excel (.xlsx)
-
-</td><td width="50%">
-
-Excel (.xlsx)
 
 </td></tr>
 <tr><td width="50%">

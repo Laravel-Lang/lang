@@ -4,12 +4,12 @@ editLink: false
 
 # ku
 
-##### All missed: 44
+##### All missed: 42
 
 
 ### json
 
-##### Missing: 44
+##### Missing: 42
 
 <table width="100%">
 <tr><th width="50%">
@@ -50,15 +50,6 @@ Brunei Darussalam
 </td></tr>
 <tr><td width="50%">
 
-CSV (.csv)
-
-</td><td width="50%">
-
-CSV (.csv)
-
-</td></tr>
-<tr><td width="50%">
-
 Curaçao
 
 </td><td width="50%">
@@ -91,15 +82,6 @@ Email
 </td><td width="50%">
 
 Email
-
-</td></tr>
-<tr><td width="50%">
-
-Excel (.xlsx)
-
-</td><td width="50%">
-
-Excel (.xlsx)
 
 </td></tr>
 <tr><td width="50%">

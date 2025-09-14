@@ -4,12 +4,12 @@ editLink: false
 
 # my
 
-##### All missed: 4
+##### All missed: 2
 
 
 ### json
 
-##### Missing: 4
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,24 +21,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-CSV (.csv)
-
-</td><td width="50%">
-
-CSV (.csv)
-
-</td></tr>
-<tr><td width="50%">
-
-Excel (.xlsx)
-
-</td><td width="50%">
-
-Excel (.xlsx)
-
-</td></tr>
 <tr><td width="50%">
 
 Sint Maarten (Dutch part)

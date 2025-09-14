@@ -4,12 +4,12 @@ editLink: false
 
 # su
 
-##### All missed: 58
+##### All missed: 57
 
 
 ### json
 
-##### Missing: 58
+##### Missing: 57
 
 <table width="100%">
 <tr><th width="50%">
@@ -145,15 +145,6 @@ Djibouti
 </td><td width="50%">
 
 Djibouti
-
-</td></tr>
-<tr><td width="50%">
-
-Excel (.xlsx)
-
-</td><td width="50%">
-
-Excel (.xlsx)
 
 </td></tr>
 <tr><td width="50%">

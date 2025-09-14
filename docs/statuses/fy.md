@@ -4,12 +4,12 @@ editLink: false
 
 # fy
 
-##### All missed: 64
+##### All missed: 62
 
 
 ### json
 
-##### Missing: 64
+##### Missing: 62
 
 <table width="100%">
 <tr><th width="50%">
@@ -113,15 +113,6 @@ Bouvet Island
 </td></tr>
 <tr><td width="50%">
 
-CSV (.csv)
-
-</td><td width="50%">
-
-CSV (.csv)
-
-</td></tr>
-<tr><td width="50%">
-
 Curaçao
 
 </td><td width="50%">
@@ -163,15 +154,6 @@ El Salvador
 </td><td width="50%">
 
 El Salvador
-
-</td></tr>
-<tr><td width="50%">
-
-Excel (.xlsx)
-
-</td><td width="50%">
-
-Excel (.xlsx)
 
 </td></tr>
 <tr><td width="50%">

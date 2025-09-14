@@ -4,12 +4,12 @@ editLink: false
 
 # so
 
-##### All missed: 106
+##### All missed: 105
 
 
 ### json
 
-##### Missing: 106
+##### Missing: 105
 
 <table width="100%">
 <tr><th width="50%">
@@ -217,15 +217,6 @@ Eritrea
 </td><td width="50%">
 
 Eritrea
-
-</td></tr>
-<tr><td width="50%">
-
-Excel (.xlsx)
-
-</td><td width="50%">
-
-Excel (.xlsx)
 
 </td></tr>
 <tr><td width="50%">

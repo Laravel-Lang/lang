@@ -4,12 +4,12 @@ editLink: false
 
 # haw
 
-##### All missed: 21
+##### All missed: 20
 
 
 ### json
 
-##### Missing: 21
+##### Missing: 20
 
 <table width="100%">
 <tr><th width="50%">
@@ -55,15 +55,6 @@ Czech Republic
 </td><td width="50%">
 
 Czech Republic
-
-</td></tr>
-<tr><td width="50%">
-
-Excel (.xlsx)
-
-</td><td width="50%">
-
-Excel (.xlsx)
 
 </td></tr>
 <tr><td width="50%">

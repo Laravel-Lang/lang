@@ -4,12 +4,12 @@ editLink: false
 
 # uz_Cyrl
 
-##### All missed: 22
+##### All missed: 20
 
 
 ### json
 
-##### Missing: 22
+##### Missing: 20
 
 <table width="100%">
 <tr><th width="50%">
@@ -46,24 +46,6 @@ Aruba
 </td><td width="50%">
 
 Aruba
-
-</td></tr>
-<tr><td width="50%">
-
-Bangladesh
-
-</td><td width="50%">
-
-Bangladesh
-
-</td></tr>
-<tr><td width="50%">
-
-Barbados
-
-</td><td width="50%">
-
-Barbados
 
 </td></tr>
 <tr><td width="50%">

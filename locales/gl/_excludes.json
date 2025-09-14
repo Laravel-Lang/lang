@@ -1,7 +1,4 @@
 [
-    "CSV (.csv)",
-    "Excel (.xlsx)",
-    "Nova",
     "Andorra",
     "Angola",
     "Armenia",
@@ -12,5 +9,8 @@
     "Bangladesh",
     "Barbados",
     "Benin",
-    "Botswana"
+    "Botswana",
+    "CSV (.csv)",
+    "Excel (.xlsx)",
+    "Nova"
 ]

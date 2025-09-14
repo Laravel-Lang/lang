@@ -1,7 +1,7 @@
 [
+    "API Token",
     "Administrator",
     "American Samoa",
-    "API Token",
     "April",
     "Argentina",
     "Bahrain",
@@ -10,11 +10,10 @@
     "Brazil",
     "Burkina Faso",
     "Burundi",
-    "Cayman Islands",
     "CSV (.csv)",
+    "Cayman Islands",
     "Djibouti",
     "Email",
-    "email",
     "Eritrea",
     "Excel (.xlsx)",
     "Fiji",
@@ -56,5 +55,6 @@
     "Sierra Leone",
     "Suriname",
     "Tokelau",
-    "Vanuatu"
+    "Vanuatu",
+    "email"
 ]

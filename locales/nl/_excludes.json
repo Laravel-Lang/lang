@@ -18,6 +18,7 @@
     "Botswana",
     "Burkina Faso",
     "Burundi",
+    "CSV (.csv)",
     "Canada",
     "China",
     "Code",
@@ -26,7 +27,6 @@
     "Constant",
     "Costa Rica",
     "Coupon",
-    "CSV (.csv)",
     "Cuba",
     "Curaçao",
     "Cyprus",
@@ -37,7 +37,6 @@
     "Ecuador",
     "El Salvador",
     "Email",
-    "email",
     "Eritrea",
     "Excel (.xlsx)",
     "Fiji",
@@ -120,5 +119,6 @@
     "Vanuatu",
     "Venezuela",
     "Zambia",
-    "Zimbabwe"
+    "Zimbabwe",
+    "email"
 ]

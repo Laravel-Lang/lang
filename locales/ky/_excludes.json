@@ -1,4 +1,7 @@
 [
     "CSV (.csv)",
-    "Excel (.xlsx)"
+    "Excel (.xlsx)",
+    "ID",
+    "Log Viewer",
+    "Nova"
 ]

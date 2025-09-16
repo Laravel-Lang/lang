@@ -75,7 +75,7 @@ editLink: false
 </td></tr>
 <tr><td width="12%">
 
-[cy&nbsp;✔](statuses/cy.md)
+[cy&nbsp;❗](statuses/cy.md)
 
 </td><td width="12%">
 

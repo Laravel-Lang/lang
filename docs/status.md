@@ -99,7 +99,7 @@ editLink: false
 
 </td><td width="12%">
 
-[el&nbsp;❗](statuses/el.md)
+[el&nbsp;✔](statuses/el.md)
 
 </td><td width="12%">
 

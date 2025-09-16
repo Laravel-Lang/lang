@@ -160,6 +160,6 @@ Verification notes
 1. Open the required locale file in the `docs/statuses` folder and study it carefully.
 2. Find these phrases in the localization JSON files to be translated.
 3. Translate the words and phrases, writing them into the JSON files where they were specified.
-4. Run the console command `vendor/bin/lang sync` to update the translation status.
+4. Run the console command `vendor/bin/lang status` to update the translation status. You must run this command.
 5. Based on the results of the console command, check the contents of the locale's Markdown file in the `docs/statuses` folder.
 6. If the Markdown file contains the entry `All missed: 0`, finish the translation work. If it doesn’t, proceed to translate the phrases listed in the file and repeat the steps starting from point 2.

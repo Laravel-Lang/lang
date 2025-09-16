@@ -87,7 +87,7 @@ editLink: false
 
 </td><td width="12%">
 
-[de_CH&nbsp;❗](statuses/de_CH.md)
+[de_CH&nbsp;✔](statuses/de_CH.md)
 
 </td><td width="12%">
 

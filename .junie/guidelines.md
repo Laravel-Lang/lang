@@ -157,6 +157,9 @@ Verification notes
 
 ### How to translate words and phrases
 
+> **Attention:**
+> The most important rule is: don’t delete keys from the files.
+
 1. Open the required locale file in the `docs/statuses` folder and study it carefully.
 2. Find these phrases in the localization JSON files to be translated.
 3. Translate the words and phrases, writing them into the JSON files where they were specified.

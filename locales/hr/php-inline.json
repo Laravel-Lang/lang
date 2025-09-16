@@ -54,7 +54,7 @@
     "image": "Ovo polje mora sadržavati sliku.",
     "in": "Odabrana vrijednost nije važeća.",
     "in_array": "Ova vrijednost ne postoji u :other.",
-    "in_array_keys": "This field must contain at least one of the following keys: :values.",
+    "in_array_keys": "Ovo polje mora sadržavati barem jedan od sljedećih ključeva: :values.",
     "integer": "Ovo polje mora sadržavati cijeli broj.",
     "ip": "Ovo polje mora sadržavati valjanu IP adresu.",
     "ipv4": "Ovo polje mora sadržavati valjanu IPv4 adresu.",

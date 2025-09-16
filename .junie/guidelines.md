@@ -153,3 +153,4 @@ Verification notes
   - `locales/*/php-inline.json` with `locales/en/php-inline.json`
 - Translate only the phrases that are written in English. Previously translated phrases don’t need to be rephrased unless otherwise specified.
 - Translate all the specified files in a single commit.
+- The list of untranslated words and phrases for localizations is located in the `docs/statuses` folder. The file name corresponds to the locale code from the `locales` folder. Inside each file, there is an HTML table in which the first column contains the key name from the JSON files, and the second column contains the value to be translated.

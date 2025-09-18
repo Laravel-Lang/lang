@@ -104,34 +104,13 @@ jobs:
                 with:
                     node-version: 'latest'
 
-            -   name: Setup Git
-                if: success()
-                run: |
-                    git config --local user.email "action@github.com"
-                    git config --local user.name "GitHub Action"
-
-            -   name: Setup Composer
-                run: |
-                    composer global config --no-plugins allow-plugins.laravel/pint true
-                    composer global config --no-plugins allow-plugins.ergebnis/composer-normalize true
-
-                    composer config --no-plugins allow-plugins.laravel/pint true
-                    composer config --no-plugins allow-plugins.ergebnis/composer-normalize true
-
             -   name: Install dependencies
                 run: |
-                    composer global require dragon-code/codestyler
-
                     composer config repositories.nova composer ${{ secrets.LARAVEL_REPOSITORY }}
                     composer require laravel/nova:^${{ matrix.nova.version }}
 
             -   name: Install Node dependencies
                 run: npm i -D @biomejs/biome
-
-            -   name: Publish config files
-                run: |
-                    codestyle pint 8.2
-                    codestyle npm
 
             -   name: Copy localization files
                 run: |
@@ -139,7 +118,7 @@ jobs:
                     cp vendor/laravel/nova/resources/lang/en/validation.php source/nova/${{ matrix.nova.branch }}/validation.php -f
 
             -   name: PHP code-style
-                run: pint --parallel
+                run: composer style
 
             -   name: Node code-style
                 run: |

@@ -85,59 +85,23 @@ jobs:
                     --ver=${{ matrix.version }}
 
     nova:
-        runs-on: ubuntu-latest
-
+        uses: Laravel-Lang/.github/.github/workflows/download.yml@main
         strategy:
             fail-fast: true
             matrix:
                 nova:
                     - { branch: "4.x", version: "4.0" }
                     - { branch: "5.x", version: "5.0" }
-        
-        name: nova (${{ matrix.nova.branch }})
+        with:
+            project: Laravel Nova ${{ matrix.nova.branch }}
+            paths: source/nova/${{ matrix.nova.branch }}/*
+            commands: |
+                composer config repositories.nova composer ${{ secrets.LARAVEL_REPOSITORY }}
+                composer require laravel/nova:^${{ matrix.nova.version }}
+                
+                cp vendor/laravel/nova/resources/lang/en.json source/nova/${{ matrix.nova.branch }}/nova.json -f
+                cp vendor/laravel/nova/resources/lang/en/validation.php source/nova/${{ matrix.nova.branch }}/validation.php -f
 
-        steps:
-            -   uses: actions/checkout@v5
-            -   uses: shivammathur/setup-php@v2
-
-            -   uses: actions/setup-node@v5
-                with:
-                    node-version: 'latest'
-
-            -   name: Install dependencies
-                run: |
-                    composer config repositories.nova composer ${{ secrets.LARAVEL_REPOSITORY }}
-                    composer require laravel/nova:^${{ matrix.nova.version }}
-
-            -   name: Install Node dependencies
-                run: npm i -D @biomejs/biome
-
-            -   name: Copy localization files
-                run: |
-                    cp vendor/laravel/nova/resources/lang/en.json source/nova/${{ matrix.nova.branch }}/nova.json -f
-                    cp vendor/laravel/nova/resources/lang/en/validation.php source/nova/${{ matrix.nova.branch }}/validation.php -f
-
-            -   name: PHP code-style
-                run: composer style
-
-            -   name: Node code-style
-                run: |
-                    npx @biomejs/biome lint --write
-                    npx @biomejs/biome format --write
-
-            -   name: Create a Pull Request
-                uses: peter-evans/create-pull-request@v7
-                with:
-                    branch: projects/download
-                    branch-suffix: random
-                    delete-branch: true
-                    add-paths: source/nova/${{ matrix.nova.branch }}
-                    title: "[source]: Updated Laravel Nova ${{ matrix.nova.branch }} keys"
-                    commit-message: 🗝️ Updated Laravel Nova ${{ matrix.nova.branch }} keys
-                    body: Updated keys for Laravel Nova ${{ matrix.nova.branch }} 💪
-                    labels: |
-                        source
-    
     nova_log_viewer:
         uses: Laravel-Lang/.github/.github/workflows/download.yml@main
         strategy:

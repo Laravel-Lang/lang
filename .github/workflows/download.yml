@@ -104,17 +104,26 @@ jobs:
                 with:
                     node-version: 'latest'
 
-            -   name: Git setup
+            -   name: Setup Git
                 if: success()
                 run: |
                     git config --local user.email "action@github.com"
                     git config --local user.name "GitHub Action"
 
+            -   name: Setup Composer
+                run: |
+                    composer global config --no-plugins allow-plugins.laravel/pint true
+                    composer global config --no-plugins allow-plugins.ergebnis/composer-normalize true
+
+                    composer config --no-plugins allow-plugins.laravel/pint true
+                    composer config --no-plugins allow-plugins.ergebnis/composer-normalize true
+
             -   name: Install dependencies
                 run: |
+                    composer global require dragon-code/codestyler
+
                     composer config repositories.nova composer ${{ secrets.LARAVEL_REPOSITORY }}
                     composer require laravel/nova:^${{ matrix.nova.version }}
-                    composer global require dragon-code/codestyler
 
             -   name: Install Node dependencies
                 run: npm i -D @biomejs/biome
@@ -129,11 +138,6 @@ jobs:
                     cp vendor/laravel/nova/resources/lang/en.json source/nova/${{ matrix.nova.branch }}/nova.json -f
                     cp vendor/laravel/nova/resources/lang/en/validation.php source/nova/${{ matrix.nova.branch }}/validation.php -f
 
-            -   name: Clean up
-                run: |
-                    composer remove laravel/nova
-                    git checkout HEAD -- composer.json
-
             -   name: PHP code-style
                 run: pint --parallel
 
@@ -145,7 +149,7 @@ jobs:
             -   name: Create a Pull Request
                 uses: peter-evans/create-pull-request@v7
                 with:
-                    branch: projects/patch
+                    branch: projects/download
                     branch-suffix: random
                     delete-branch: true
                     add-paths: source/nova/${{ matrix.nova.branch }}

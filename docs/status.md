@@ -141,7 +141,7 @@ editLink: false
 </td></tr>
 <tr><td width="12%">
 
-[fy&nbsp;✔](statuses/fy.md)
+[fy&nbsp;❗](statuses/fy.md)
 
 </td><td width="12%">
 

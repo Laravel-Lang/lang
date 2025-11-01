@@ -145,7 +145,7 @@ editLink: false
 
 </td><td width="12%">
 
-[ga&nbsp;✔](statuses/ga.md)
+[ga&nbsp;❗](statuses/ga.md)
 
 </td><td width="12%">
 

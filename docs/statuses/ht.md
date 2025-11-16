@@ -4,158 +4,12 @@ editLink: false
 
 # ht
 
-##### All missed: 1156
-
-
-### json-inline
-
-##### Missing: 14
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-The :attribute must be a valid role.
-
-</td><td width="50%">
-
-This field must be a valid role.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must be at least :length characters and contain at least one number.
-
-</td><td width="50%">
-
-This field must be at least :length characters and contain at least one number.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must be at least :length characters and contain at least one special character and one number.
-
-</td><td width="50%">
-
-This field must be at least :length characters and contain at least one special character and one number.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must be at least :length characters and contain at least one special character.
-
-</td><td width="50%">
-
-This field must be at least :length characters and contain at least one special character.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must be at least :length characters and contain at least one uppercase character and one number.
-
-</td><td width="50%">
-
-This field must be at least :length characters and contain at least one uppercase character and one number.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
-
-</td><td width="50%">
-
-This field must be at least :length characters and contain at least one uppercase character and one special character.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
-
-</td><td width="50%">
-
-This field must be at least :length characters and contain at least one uppercase character, one number, and one special character.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must be at least :length characters and contain at least one uppercase character.
-
-</td><td width="50%">
-
-This field must be at least :length characters and contain at least one uppercase character.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must be at least :length characters.
-
-</td><td width="50%">
-
-This field must be at least :length characters.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must contain at least one letter.
-
-</td><td width="50%">
-
-This field must contain at least one letter.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must contain at least one number.
-
-</td><td width="50%">
-
-This field must contain at least one number.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must contain at least one symbol.
-
-</td><td width="50%">
-
-This field must contain at least one symbol.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must contain at least one uppercase and one lowercase letter.
-
-</td><td width="50%">
-
-This field must contain at least one uppercase and one lowercase letter.
-
-</td></tr>
-<tr><td width="50%">
-
-The given :attribute has appeared in a data leak. Please choose a different :attribute.
-
-</td><td width="50%">
-
-The given field has appeared in a data leak. Please choose a different field.
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
+##### All missed: 532
 
 
 ### json
 
-##### Missing: 861
+##### Missing: 532
 
 <table width="100%">
 <tr><th width="50%">
@@ -167,366 +21,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-(and :count more error)
-
-</td><td width="50%">
-
-(and :count more error)
-
-</td></tr>
-<tr><td width="50%">
-
-(and :count more errors)
-
-</td><td width="50%">
-
-(and :count more error)|(and :count more errors)|(and :count more errors)
-
-</td></tr>
-<tr><td width="50%">
-
-30 Days
-
-</td><td width="50%">
-
-30 Days
-
-</td></tr>
-<tr><td width="50%">
-
-60 Days
-
-</td><td width="50%">
-
-60 Days
-
-</td></tr>
-<tr><td width="50%">
-
-90 Days
-
-</td><td width="50%">
-
-90 Days
-
-</td></tr>
-<tr><td width="50%">
-
-:amount selected
-
-</td><td width="50%">
-
-:amount selected
-
-</td></tr>
-<tr><td width="50%">
-
-:amount Total
-
-</td><td width="50%">
-
-:amount Total
-
-</td></tr>
-<tr><td width="50%">
-
-:days day trial
-
-</td><td width="50%">
-
-:days day trial
-
-</td></tr>
-<tr><td width="50%">
-
-:resource Details
-
-</td><td width="50%">
-
-:resource Details
-
-</td></tr>
-<tr><td width="50%">
-
-:resource Details: :title
-
-</td><td width="50%">
-
-:resource Details: :title
-
-</td></tr>
-<tr><td width="50%">
-
-A decryption key is required.
-
-</td><td width="50%">
-
-A decryption key is required.
-
-</td></tr>
-<tr><td width="50%">
-
-A fresh verification link has been sent to your email address.
-
-</td><td width="50%">
-
-A fresh verification link has been sent to your email address.
-
-</td></tr>
-<tr><td width="50%">
-
-A new verification link has been sent to the email address you provided during registration.
-
-</td><td width="50%">
-
-A new verification link has been sent to the email address you provided during registration.
-
-</td></tr>
-<tr><td width="50%">
-
-A new verification link has been sent to the email address you provided in your profile settings.
-
-</td><td width="50%">
-
-A new verification link has been sent to the email address you provided in your profile settings.
-
-</td></tr>
-<tr><td width="50%">
-
-A new verification link has been sent to your email address.
-
-</td><td width="50%">
-
-A new verification link has been sent to your email address.
-
-</td></tr>
-<tr><td width="50%">
-
-Accept Invitation
-
-</td><td width="50%">
-
-Accept Invitation
-
-</td></tr>
-<tr><td width="50%">
-
-Action
-
-</td><td width="50%">
-
-Action
-
-</td></tr>
-<tr><td width="50%">
-
-Action Event
-
-</td><td width="50%">
-
-Action Event
-
-</td></tr>
-<tr><td width="50%">
-
-Action Events
-
-</td><td width="50%">
-
-Action Events
-
-</td></tr>
-<tr><td width="50%">
-
-Action Happened At
-
-</td><td width="50%">
-
-Happened At
-
-</td></tr>
-<tr><td width="50%">
-
-Action Initiated By
-
-</td><td width="50%">
-
-Initiated By
-
-</td></tr>
-<tr><td width="50%">
-
-Action Name
-
-</td><td width="50%">
-
-Name
-
-</td></tr>
-<tr><td width="50%">
-
-Action Status
-
-</td><td width="50%">
-
-Status
-
-</td></tr>
-<tr><td width="50%">
-
-Action Target
-
-</td><td width="50%">
-
-Target
-
-</td></tr>
-<tr><td width="50%">
-
-Actions
-
-</td><td width="50%">
-
-Actions
-
-</td></tr>
-<tr><td width="50%">
-
-Add
-
-</td><td width="50%">
-
-Add
-
-</td></tr>
-<tr><td width="50%">
-
-Add :resource
-
-</td><td width="50%">
-
-Add :resource
-
-</td></tr>
-<tr><td width="50%">
-
-Add a new team member to your team, allowing them to collaborate with you.
-
-</td><td width="50%">
-
-Add a new team member to your team, allowing them to collaborate with you.
-
-</td></tr>
-<tr><td width="50%">
-
-Add additional security to your account using two factor authentication.
-
-</td><td width="50%">
-
-Add additional security to your account using two factor authentication.
-
-</td></tr>
-<tr><td width="50%">
-
-Add Payment Method
-
-</td><td width="50%">
-
-Add Payment Method
-
-</td></tr>
-<tr><td width="50%">
-
-Add row
-
-</td><td width="50%">
-
-Add row
-
-</td></tr>
-<tr><td width="50%">
-
-Add Team Member
-
-</td><td width="50%">
-
-Add Team Member
-
-</td></tr>
-<tr><td width="50%">
-
-Add VAT Number
-
-</td><td width="50%">
-
-Add VAT Number
-
-</td></tr>
-<tr><td width="50%">
-
-Added.
-
-</td><td width="50%">
-
-Added.
-
-</td></tr>
-<tr><td width="50%">
-
-Additional billing information updated successfully.
-
-</td><td width="50%">
-
-Additional billing information updated successfully.
-
-</td></tr>
-<tr><td width="50%">
-
-Address
-
-</td><td width="50%">
-
-Address
-
-</td></tr>
-<tr><td width="50%">
-
-Address Line 2
-
-</td><td width="50%">
-
-Address Line 2
-
-</td></tr>
-<tr><td width="50%">
-
-Administrator
-
-</td><td width="50%">
-
-Administrator
-
-</td></tr>
-<tr><td width="50%">
-
-Administrator users can perform any action.
-
-</td><td width="50%">
-
-Administrator users can perform any action.
-
-</td></tr>
-<tr><td width="50%">
-
-Afghanistan
-
-</td><td width="50%">
-
-Afghanistan
-
-</td></tr>
 <tr><td width="50%">
 
 Aland Islands
@@ -538,605 +32,11 @@ Aland Islands
 </td></tr>
 <tr><td width="50%">
 
-Albania
-
-</td><td width="50%">
-
-Albania
-
-</td></tr>
-<tr><td width="50%">
-
-Algeria
-
-</td><td width="50%">
-
-Algeria
-
-</td></tr>
-<tr><td width="50%">
-
-All of the people that are part of this team.
-
-</td><td width="50%">
-
-All of the people that are part of this team.
-
-</td></tr>
-<tr><td width="50%">
-
-All resources loaded.
-
-</td><td width="50%">
-
-All resources loaded.
-
-</td></tr>
-<tr><td width="50%">
-
-All rights reserved.
-
-</td><td width="50%">
-
-All rights reserved.
-
-</td></tr>
-<tr><td width="50%">
-
-Already registered?
-
-</td><td width="50%">
-
-Already registered?
-
-</td></tr>
-<tr><td width="50%">
-
 American Samoa
 
 </td><td width="50%">
 
 American Samoa
-
-</td></tr>
-<tr><td width="50%">
-
-An error occurred while uploading the file.
-
-</td><td width="50%">
-
-An error occurred while uploading the file.
-
-</td></tr>
-<tr><td width="50%">
-
-An error occurred while uploading the file: :error
-
-</td><td width="50%">
-
-An error occurred while uploading the file: :error
-
-</td></tr>
-<tr><td width="50%">
-
-An unexpected error occurred and we have notified our support team. Please try again later.
-
-</td><td width="50%">
-
-An unexpected error occurred and we have notified our support team. Please try again later.
-
-</td></tr>
-<tr><td width="50%">
-
-Andorra
-
-</td><td width="50%">
-
-Andorra
-
-</td></tr>
-<tr><td width="50%">
-
-Angola
-
-</td><td width="50%">
-
-Angola
-
-</td></tr>
-<tr><td width="50%">
-
-Anguilla
-
-</td><td width="50%">
-
-Anguilla
-
-</td></tr>
-<tr><td width="50%">
-
-Another user has updated this resource since this page was loaded. Please refresh the page and try again.
-
-</td><td width="50%">
-
-Another user has updated this resource since this page was loaded. Please refresh the page and try again.
-
-</td></tr>
-<tr><td width="50%">
-
-Antarctica
-
-</td><td width="50%">
-
-Antarctica
-
-</td></tr>
-<tr><td width="50%">
-
-Antigua And Barbuda
-
-</td><td width="50%">
-
-Antigua and Barbuda
-
-</td></tr>
-<tr><td width="50%">
-
-Antigua and Barbuda
-
-</td><td width="50%">
-
-Antigua and Barbuda
-
-</td></tr>
-<tr><td width="50%">
-
-API Token
-
-</td><td width="50%">
-
-API Token
-
-</td></tr>
-<tr><td width="50%">
-
-API Token Permissions
-
-</td><td width="50%">
-
-API Token Permissions
-
-</td></tr>
-<tr><td width="50%">
-
-API Tokens
-
-</td><td width="50%">
-
-API Tokens
-
-</td></tr>
-<tr><td width="50%">
-
-API tokens allow third-party services to authenticate with our application on your behalf.
-
-</td><td width="50%">
-
-API tokens allow third-party services to authenticate with our application on your behalf.
-
-</td></tr>
-<tr><td width="50%">
-
-Apply
-
-</td><td width="50%">
-
-Apply
-
-</td></tr>
-<tr><td width="50%">
-
-Apply Coupon
-
-</td><td width="50%">
-
-Apply Coupon
-
-</td></tr>
-<tr><td width="50%">
-
-April
-
-</td><td width="50%">
-
-April
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to attempt to pay :amount?
-
-</td><td width="50%">
-
-Are you sure you want to attempt to pay :amount?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to cancel your subscription?
-
-</td><td width="50%">
-
-Are you sure you want to cancel your subscription?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to delete all the notifications?
-
-</td><td width="50%">
-
-Are you sure you want to delete all the notifications?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to delete the selected resources?
-
-</td><td width="50%">
-
-Are you sure you want to delete the selected resources?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to delete this file?
-
-</td><td width="50%">
-
-Are you sure you want to delete this file?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to delete this notification?
-
-</td><td width="50%">
-
-Are you sure you want to delete this notification?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to delete this payment method?
-
-</td><td width="50%">
-
-Are you sure you want to delete this payment method?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to delete this resource?
-
-</td><td width="50%">
-
-Are you sure you want to delete this resource?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted.
-
-</td><td width="50%">
-
-Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted.
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to delete your account?
-
-</td><td width="50%">
-
-Are you sure you want to delete your account?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
-
-</td><td width="50%">
-
-Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to detach the selected resources?
-
-</td><td width="50%">
-
-Are you sure you want to detach the selected resources?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to detach this resource?
-
-</td><td width="50%">
-
-Are you sure you want to detach this resource?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to force delete the selected resources?
-
-</td><td width="50%">
-
-Are you sure you want to force delete the selected resources?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to force delete this resource?
-
-</td><td width="50%">
-
-Are you sure you want to force delete this resource?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to log out?
-
-</td><td width="50%">
-
-Are you sure you want to log out?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to mark all notifications as read?
-
-</td><td width="50%">
-
-Are you sure you want to mark all notifications as read?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to remove this item?
-
-</td><td width="50%">
-
-Are you sure you want to remove this item?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to restore the selected resources?
-
-</td><td width="50%">
-
-Are you sure you want to restore the selected resources?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to restore this resource?
-
-</td><td width="50%">
-
-Are you sure you want to restore this resource?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to resume your subscription?
-
-</td><td width="50%">
-
-Are you sure you want to resume your subscription?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to run this action?
-
-</td><td width="50%">
-
-Are you sure you want to run this action?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to set this payment method as your default?
-
-</td><td width="50%">
-
-Are you sure you want to set this payment method as your default?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to stop impersonating?
-
-</td><td width="50%">
-
-Are you sure you want to stop impersonating?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you would like to delete this API token?
-
-</td><td width="50%">
-
-Are you sure you would like to delete this API token?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you would like to leave this team?
-
-</td><td width="50%">
-
-Are you sure you would like to leave this team?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you would like to remove this person from the team?
-
-</td><td width="50%">
-
-Are you sure you would like to remove this person from the team?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you would like to switch billing plans?
-
-</td><td width="50%">
-
-Are you sure you would like to switch billing plans?
-
-</td></tr>
-<tr><td width="50%">
-
-Argentina
-
-</td><td width="50%">
-
-Argentina
-
-</td></tr>
-<tr><td width="50%">
-
-Armenia
-
-</td><td width="50%">
-
-Armenia
-
-</td></tr>
-<tr><td width="50%">
-
-Aruba
-
-</td><td width="50%">
-
-Aruba
-
-</td></tr>
-<tr><td width="50%">
-
-Attach
-
-</td><td width="50%">
-
-Attach
-
-</td></tr>
-<tr><td width="50%">
-
-Attach & Attach Another
-
-</td><td width="50%">
-
-Attach & Attach Another
-
-</td></tr>
-<tr><td width="50%">
-
-Attach :resource
-
-</td><td width="50%">
-
-Attach :resource
-
-</td></tr>
-<tr><td width="50%">
-
-Attach files by dragging & dropping, selecting or pasting them.
-
-</td><td width="50%">
-
-Attach files by dragging & dropping, selecting or pasting them.
-
-</td></tr>
-<tr><td width="50%">
-
-August
-
-</td><td width="50%">
-
-August
-
-</td></tr>
-<tr><td width="50%">
-
-Australia
-
-</td><td width="50%">
-
-Australia
-
-</td></tr>
-<tr><td width="50%">
-
-Austria
-
-</td><td width="50%">
-
-Austria
-
-</td></tr>
-<tr><td width="50%">
-
-Azerbaijan
-
-</td><td width="50%">
-
-Azerbaijan
-
-</td></tr>
-<tr><td width="50%">
-
-Bahamas
-
-</td><td width="50%">
-
-Bahamas
-
-</td></tr>
-<tr><td width="50%">
-
-Bahrain
-
-</td><td width="50%">
-
-Bahrain
-
-</td></tr>
-<tr><td width="50%">
-
-Bangladesh
-
-</td><td width="50%">
-
-Bangladesh
-
-</td></tr>
-<tr><td width="50%">
-
-Barbados
-
-</td><td width="50%">
-
-Barbados
 
 </td></tr>
 <tr><td width="50%">
@@ -1159,60 +59,6 @@ Before proceeding, please check your email for a verification link.
 </td></tr>
 <tr><td width="50%">
 
-Belarus
-
-</td><td width="50%">
-
-Belarus
-
-</td></tr>
-<tr><td width="50%">
-
-Belgium
-
-</td><td width="50%">
-
-Belgium
-
-</td></tr>
-<tr><td width="50%">
-
-Belize
-
-</td><td width="50%">
-
-Belize
-
-</td></tr>
-<tr><td width="50%">
-
-Benin
-
-</td><td width="50%">
-
-Benin
-
-</td></tr>
-<tr><td width="50%">
-
-Bermuda
-
-</td><td width="50%">
-
-Bermuda
-
-</td></tr>
-<tr><td width="50%">
-
-Bhutan
-
-</td><td width="50%">
-
-Bhutan
-
-</td></tr>
-<tr><td width="50%">
-
 Billing Information
 
 </td><td width="50%">
@@ -1227,15 +73,6 @@ Billing Management
 </td><td width="50%">
 
 Billing Management
-
-</td></tr>
-<tr><td width="50%">
-
-Bolivia
-
-</td><td width="50%">
-
-Bolivia
 
 </td></tr>
 <tr><td width="50%">
@@ -1258,33 +95,6 @@ Bonaire, Sint Eustatius and Saba
 </td></tr>
 <tr><td width="50%">
 
-Bosnia And Herzegovina
-
-</td><td width="50%">
-
-Bosnia and Herzegovina
-
-</td></tr>
-<tr><td width="50%">
-
-Bosnia and Herzegovina
-
-</td><td width="50%">
-
-Bosnia and Herzegovina
-
-</td></tr>
-<tr><td width="50%">
-
-Botswana
-
-</td><td width="50%">
-
-Botswana
-
-</td></tr>
-<tr><td width="50%">
-
 Bouvet Island
 
 </td><td width="50%">
@@ -1294,92 +104,11 @@ Bouvet Island
 </td></tr>
 <tr><td width="50%">
 
-Brazil
-
-</td><td width="50%">
-
-Brazil
-
-</td></tr>
-<tr><td width="50%">
-
-British Indian Ocean Territory
-
-</td><td width="50%">
-
-British Indian Ocean Territory
-
-</td></tr>
-<tr><td width="50%">
-
 Browser Sessions
 
 </td><td width="50%">
 
 Browser Sessions
-
-</td></tr>
-<tr><td width="50%">
-
-Brunei Darussalam
-
-</td><td width="50%">
-
-Brunei Darussalam
-
-</td></tr>
-<tr><td width="50%">
-
-Bulgaria
-
-</td><td width="50%">
-
-Bulgaria
-
-</td></tr>
-<tr><td width="50%">
-
-Burkina Faso
-
-</td><td width="50%">
-
-Burkina Faso
-
-</td></tr>
-<tr><td width="50%">
-
-Burundi
-
-</td><td width="50%">
-
-Burundi
-
-</td></tr>
-<tr><td width="50%">
-
-Cambodia
-
-</td><td width="50%">
-
-Cambodia
-
-</td></tr>
-<tr><td width="50%">
-
-Cameroon
-
-</td><td width="50%">
-
-Cameroon
-
-</td></tr>
-<tr><td width="50%">
-
-Canada
-
-</td><td width="50%">
-
-Canada
 
 </td></tr>
 <tr><td width="50%">
@@ -1420,33 +149,6 @@ Card
 </td></tr>
 <tr><td width="50%">
 
-Cayman Islands
-
-</td><td width="50%">
-
-Cayman Islands
-
-</td></tr>
-<tr><td width="50%">
-
-Central African Republic
-
-</td><td width="50%">
-
-Central African Republic
-
-</td></tr>
-<tr><td width="50%">
-
-Chad
-
-</td><td width="50%">
-
-Chad
-
-</td></tr>
-<tr><td width="50%">
-
 Change Subscription Plan
 
 </td><td width="50%">
@@ -1479,24 +181,6 @@ Checkout
 </td><td width="50%">
 
 Checkout
-
-</td></tr>
-<tr><td width="50%">
-
-Chile
-
-</td><td width="50%">
-
-Chile
-
-</td></tr>
-<tr><td width="50%">
-
-China
-
-</td><td width="50%">
-
-China
 
 </td></tr>
 <tr><td width="50%">
@@ -1573,15 +257,6 @@ Choose Type
 </td></tr>
 <tr><td width="50%">
 
-Christmas Island
-
-</td><td width="50%">
-
-Christmas Island
-
-</td></tr>
-<tr><td width="50%">
-
 City
 
 </td><td width="50%">
@@ -1627,38 +302,11 @@ Close
 </td></tr>
 <tr><td width="50%">
 
-Cocos (Keeling) Islands
-
-</td><td width="50%">
-
-Cocos (Keeling) Islands
-
-</td></tr>
-<tr><td width="50%">
-
 Code
 
 </td><td width="50%">
 
 Code
-
-</td></tr>
-<tr><td width="50%">
-
-Colombia
-
-</td><td width="50%">
-
-Colombia
-
-</td></tr>
-<tr><td width="50%">
-
-Comoros
-
-</td><td width="50%">
-
-Comoros
 
 </td></tr>
 <tr><td width="50%">
@@ -1708,15 +356,6 @@ Confirm your :amount payment
 </td></tr>
 <tr><td width="50%">
 
-Congo
-
-</td><td width="50%">
-
-Congo
-
-</td></tr>
-<tr><td width="50%">
-
 Congo, Democratic Republic
 
 </td><td width="50%">
@@ -1753,29 +392,11 @@ Continue To Payment
 </td></tr>
 <tr><td width="50%">
 
-Cook Islands
-
-</td><td width="50%">
-
-Cook Islands
-
-</td></tr>
-<tr><td width="50%">
-
 Copy to clipboard
 
 </td><td width="50%">
 
 Copy to clipboard
-
-</td></tr>
-<tr><td width="50%">
-
-Costa Rica
-
-</td><td width="50%">
-
-Costa Rica
 
 </td></tr>
 <tr><td width="50%">
@@ -1906,33 +527,6 @@ Croatia
 </td></tr>
 <tr><td width="50%">
 
-CSV (.csv)
-
-</td><td width="50%">
-
-CSV (.csv)
-
-</td></tr>
-<tr><td width="50%">
-
-Cuba
-
-</td><td width="50%">
-
-Cuba
-
-</td></tr>
-<tr><td width="50%">
-
-Curaçao
-
-</td><td width="50%">
-
-Curaçao
-
-</td></tr>
-<tr><td width="50%">
-
 Current Password
 
 </td><td width="50%">
@@ -1974,24 +568,6 @@ Customize
 </td><td width="50%">
 
 Customize
-
-</td></tr>
-<tr><td width="50%">
-
-Cyprus
-
-</td><td width="50%">
-
-Cyprus
-
-</td></tr>
-<tr><td width="50%">
-
-Czech Republic
-
-</td><td width="50%">
-
-Czech Republic
 
 </td></tr>
 <tr><td width="50%">
@@ -2140,15 +716,6 @@ Delete Team
 </td></tr>
 <tr><td width="50%">
 
-Denmark
-
-</td><td width="50%">
-
-Denmark
-
-</td></tr>
-<tr><td width="50%">
-
 Detach
 
 </td><td width="50%">
@@ -2194,38 +761,11 @@ Disable
 </td></tr>
 <tr><td width="50%">
 
-Djibouti
-
-</td><td width="50%">
-
-Djibouti
-
-</td></tr>
-<tr><td width="50%">
-
 Do you really want to leave? You have unsaved changes.
 
 </td><td width="50%">
 
 Do you really want to leave? You have unsaved changes.
-
-</td></tr>
-<tr><td width="50%">
-
-Dominica
-
-</td><td width="50%">
-
-Dominica
-
-</td></tr>
-<tr><td width="50%">
-
-Dominican Republic
-
-</td><td width="50%">
-
-Dominican Republic
 
 </td></tr>
 <tr><td width="50%">
@@ -2271,15 +811,6 @@ Drop files or click to choose
 </td><td width="50%">
 
 Drop files or click to choose
-
-</td></tr>
-<tr><td width="50%">
-
-Ecuador
-
-</td><td width="50%">
-
-Ecuador
 
 </td></tr>
 <tr><td width="50%">
@@ -2338,38 +869,11 @@ Editor users have the ability to read, create, and update.
 </td></tr>
 <tr><td width="50%">
 
-Egypt
-
-</td><td width="50%">
-
-Egypt
-
-</td></tr>
-<tr><td width="50%">
-
-El Salvador
-
-</td><td width="50%">
-
-El Salvador
-
-</td></tr>
-<tr><td width="50%">
-
 Email
 
 </td><td width="50%">
 
 Email
-
-</td></tr>
-<tr><td width="50%">
-
-email
-
-</td><td width="50%">
-
-email
 
 </td></tr>
 <tr><td width="50%">
@@ -2464,24 +968,6 @@ Environment file not found.
 </td></tr>
 <tr><td width="50%">
 
-Equatorial Guinea
-
-</td><td width="50%">
-
-Equatorial Guinea
-
-</td></tr>
-<tr><td width="50%">
-
-Eritrea
-
-</td><td width="50%">
-
-Eritrea
-
-</td></tr>
-<tr><td width="50%">
-
 Error
 
 </td><td width="50%">
@@ -2500,38 +986,11 @@ errors
 </td></tr>
 <tr><td width="50%">
 
-Estonia
-
-</td><td width="50%">
-
-Estonia
-
-</td></tr>
-<tr><td width="50%">
-
-Ethiopia
-
-</td><td width="50%">
-
-Ethiopia
-
-</td></tr>
-<tr><td width="50%">
-
 ex VAT
 
 </td><td width="50%">
 
 ex VAT
-
-</td></tr>
-<tr><td width="50%">
-
-Excel (.xlsx)
-
-</td><td width="50%">
-
-Excel (.xlsx)
 
 </td></tr>
 <tr><td width="50%">
@@ -2590,38 +1049,11 @@ Failed to load :resource!
 </td></tr>
 <tr><td width="50%">
 
-Falkland Islands (Malvinas)
-
-</td><td width="50%">
-
-Falkland Islands (Malvinas)
-
-</td></tr>
-<tr><td width="50%">
-
-Faroe Islands
-
-</td><td width="50%">
-
-Faroe Islands
-
-</td></tr>
-<tr><td width="50%">
-
 February
 
 </td><td width="50%">
 
 February
-
-</td></tr>
-<tr><td width="50%">
-
-Fiji
-
-</td><td width="50%">
-
-Fiji
 
 </td></tr>
 <tr><td width="50%">
@@ -2640,15 +1072,6 @@ Finish enabling two factor authentication.
 </td><td width="50%">
 
 Finish enabling two factor authentication.
-
-</td></tr>
-<tr><td width="50%">
-
-Finland
-
-</td><td width="50%">
-
-Finland
 
 </td></tr>
 <tr><td width="50%">
@@ -2743,33 +1166,6 @@ Forgot your password? No problem. Just let us know your email address and we wil
 </td></tr>
 <tr><td width="50%">
 
-France
-
-</td><td width="50%">
-
-France
-
-</td></tr>
-<tr><td width="50%">
-
-French Guiana
-
-</td><td width="50%">
-
-French Guiana
-
-</td></tr>
-<tr><td width="50%">
-
-French Polynesia
-
-</td><td width="50%">
-
-French Polynesia
-
-</td></tr>
-<tr><td width="50%">
-
 French Southern Territories
 
 </td><td width="50%">
@@ -2784,60 +1180,6 @@ From
 </td><td width="50%">
 
 From
-
-</td></tr>
-<tr><td width="50%">
-
-Gabon
-
-</td><td width="50%">
-
-Gabon
-
-</td></tr>
-<tr><td width="50%">
-
-Gambia
-
-</td><td width="50%">
-
-Gambia
-
-</td></tr>
-<tr><td width="50%">
-
-Georgia
-
-</td><td width="50%">
-
-Georgia
-
-</td></tr>
-<tr><td width="50%">
-
-Germany
-
-</td><td width="50%">
-
-Germany
-
-</td></tr>
-<tr><td width="50%">
-
-Ghana
-
-</td><td width="50%">
-
-Ghana
-
-</td></tr>
-<tr><td width="50%">
-
-Gibraltar
-
-</td><td width="50%">
-
-Gibraltar
 
 </td></tr>
 <tr><td width="50%">
@@ -2865,105 +1207,6 @@ Great! You have accepted the invitation to join the :team team.
 </td><td width="50%">
 
 Great! You have accepted the invitation to join the :team team.
-
-</td></tr>
-<tr><td width="50%">
-
-Greece
-
-</td><td width="50%">
-
-Greece
-
-</td></tr>
-<tr><td width="50%">
-
-Greenland
-
-</td><td width="50%">
-
-Greenland
-
-</td></tr>
-<tr><td width="50%">
-
-Grenada
-
-</td><td width="50%">
-
-Grenada
-
-</td></tr>
-<tr><td width="50%">
-
-Guadeloupe
-
-</td><td width="50%">
-
-Guadeloupe
-
-</td></tr>
-<tr><td width="50%">
-
-Guam
-
-</td><td width="50%">
-
-Guam
-
-</td></tr>
-<tr><td width="50%">
-
-Guatemala
-
-</td><td width="50%">
-
-Guatemala
-
-</td></tr>
-<tr><td width="50%">
-
-Guernsey
-
-</td><td width="50%">
-
-Guernsey
-
-</td></tr>
-<tr><td width="50%">
-
-Guinea
-
-</td><td width="50%">
-
-Guinea
-
-</td></tr>
-<tr><td width="50%">
-
-Guinea-Bissau
-
-</td><td width="50%">
-
-Guinea-Bissau
-
-</td></tr>
-<tr><td width="50%">
-
-Guyana
-
-</td><td width="50%">
-
-Guyana
-
-</td></tr>
-<tr><td width="50%">
-
-Haiti
-
-</td><td width="50%">
-
-Haiti
 
 </td></tr>
 <tr><td width="50%">
@@ -3040,56 +1283,11 @@ Holy See (Vatican City State)
 </td></tr>
 <tr><td width="50%">
 
-Honduras
-
-</td><td width="50%">
-
-Honduras
-
-</td></tr>
-<tr><td width="50%">
-
-Hong Kong
-
-</td><td width="50%">
-
-Hong Kong
-
-</td></tr>
-<tr><td width="50%">
-
-Hungary
-
-</td><td width="50%">
-
-Hungary
-
-</td></tr>
-<tr><td width="50%">
-
 I agree to the :terms_of_service and :privacy_policy
 
 </td><td width="50%">
 
 I agree to the :terms_of_service and :privacy_policy
-
-</td></tr>
-<tr><td width="50%">
-
-Iceland
-
-</td><td width="50%">
-
-Iceland
-
-</td></tr>
-<tr><td width="50%">
-
-ID
-
-</td><td width="50%">
-
-ID
 
 </td></tr>
 <tr><td width="50%">
@@ -3195,24 +1393,6 @@ Increase
 </td></tr>
 <tr><td width="50%">
 
-India
-
-</td><td width="50%">
-
-India
-
-</td></tr>
-<tr><td width="50%">
-
-Indonesia
-
-</td><td width="50%">
-
-Indonesia
-
-</td></tr>
-<tr><td width="50%">
-
 Invalid filename.
 
 </td><td width="50%">
@@ -3258,65 +1438,11 @@ Invoices
 </td></tr>
 <tr><td width="50%">
 
-Iran, Islamic Republic Of
-
-</td><td width="50%">
-
-Iran
-
-</td></tr>
-<tr><td width="50%">
-
 Iran, Islamic Republic of
 
 </td><td width="50%">
 
 Iran, Islamic Republic of
-
-</td></tr>
-<tr><td width="50%">
-
-Iraq
-
-</td><td width="50%">
-
-Iraq
-
-</td></tr>
-<tr><td width="50%">
-
-Ireland
-
-</td><td width="50%">
-
-Ireland
-
-</td></tr>
-<tr><td width="50%">
-
-Isle Of Man
-
-</td><td width="50%">
-
-Isle of Man
-
-</td></tr>
-<tr><td width="50%">
-
-Isle of Man
-
-</td><td width="50%">
-
-Isle of Man
-
-</td></tr>
-<tr><td width="50%">
-
-Israel
-
-</td><td width="50%">
-
-Israel
 
 </td></tr>
 <tr><td width="50%">
@@ -3330,56 +1456,11 @@ It looks like you do not have an active subscription. You may choose one of the 
 </td></tr>
 <tr><td width="50%">
 
-Italy
-
-</td><td width="50%">
-
-Italy
-
-</td></tr>
-<tr><td width="50%">
-
-Jamaica
-
-</td><td width="50%">
-
-Jamaica
-
-</td></tr>
-<tr><td width="50%">
-
 January
 
 </td><td width="50%">
 
 January
-
-</td></tr>
-<tr><td width="50%">
-
-Japan
-
-</td><td width="50%">
-
-Japan
-
-</td></tr>
-<tr><td width="50%">
-
-Jersey
-
-</td><td width="50%">
-
-Jersey
-
-</td></tr>
-<tr><td width="50%">
-
-Jordan
-
-</td><td width="50%">
-
-Jordan
 
 </td></tr>
 <tr><td width="50%">
@@ -3402,38 +1483,11 @@ June
 </td></tr>
 <tr><td width="50%">
 
-Kazakhstan
-
-</td><td width="50%">
-
-Kazakhstan
-
-</td></tr>
-<tr><td width="50%">
-
-Kenya
-
-</td><td width="50%">
-
-Kenya
-
-</td></tr>
-<tr><td width="50%">
-
 Key
 
 </td><td width="50%">
 
 Key
-
-</td></tr>
-<tr><td width="50%">
-
-Kiribati
-
-</td><td width="50%">
-
-Kiribati
 
 </td></tr>
 <tr><td width="50%">
@@ -3474,33 +1528,6 @@ Kosovo
 </td></tr>
 <tr><td width="50%">
 
-Kuwait
-
-</td><td width="50%">
-
-Kuwait
-
-</td></tr>
-<tr><td width="50%">
-
-Kyrgyzstan
-
-</td><td width="50%">
-
-Kyrgyzstan
-
-</td></tr>
-<tr><td width="50%">
-
-Lao People's Democratic Republic
-
-</td><td width="50%">
-
-Lao People's Democratic Republic
-
-</td></tr>
-<tr><td width="50%">
-
 Last active
 
 </td><td width="50%">
@@ -3515,15 +1542,6 @@ Last used
 </td><td width="50%">
 
 Last used
-
-</td></tr>
-<tr><td width="50%">
-
-Latvia
-
-</td><td width="50%">
-
-Latvia
 
 </td></tr>
 <tr><td width="50%">
@@ -3546,47 +1564,11 @@ Leave Team
 </td></tr>
 <tr><td width="50%">
 
-Lebanon
-
-</td><td width="50%">
-
-Lebanon
-
-</td></tr>
-<tr><td width="50%">
-
 length
 
 </td><td width="50%">
 
 length
-
-</td></tr>
-<tr><td width="50%">
-
-Lens
-
-</td><td width="50%">
-
-Lens
-
-</td></tr>
-<tr><td width="50%">
-
-Lesotho
-
-</td><td width="50%">
-
-Lesotho
-
-</td></tr>
-<tr><td width="50%">
-
-Liberia
-
-</td><td width="50%">
-
-Liberia
 
 </td></tr>
 <tr><td width="50%">
@@ -3600,29 +1582,11 @@ Libyan Arab Jamahiriya
 </td></tr>
 <tr><td width="50%">
 
-Liechtenstein
-
-</td><td width="50%">
-
-Liechtenstein
-
-</td></tr>
-<tr><td width="50%">
-
 Light
 
 </td><td width="50%">
 
 Light
-
-</td></tr>
-<tr><td width="50%">
-
-Lithuania
-
-</td><td width="50%">
-
-Lithuania
 
 </td></tr>
 <tr><td width="50%">
@@ -3726,101 +1690,11 @@ Logout
 </td></tr>
 <tr><td width="50%">
 
-Logs
-
-</td><td width="50%">
-
-Logs
-
-</td></tr>
-<tr><td width="50%">
-
-Luxembourg
-
-</td><td width="50%">
-
-Luxembourg
-
-</td></tr>
-<tr><td width="50%">
-
-Macao
-
-</td><td width="50%">
-
-Macao
-
-</td></tr>
-<tr><td width="50%">
-
-Macedonia
-
-</td><td width="50%">
-
-North Macedonia
-
-</td></tr>
-<tr><td width="50%">
-
 Macedonia, the former Yugoslav Republic of
 
 </td><td width="50%">
 
 Macedonia, the former Yugoslav Republic of
-
-</td></tr>
-<tr><td width="50%">
-
-Madagascar
-
-</td><td width="50%">
-
-Madagascar
-
-</td></tr>
-<tr><td width="50%">
-
-Malawi
-
-</td><td width="50%">
-
-Malawi
-
-</td></tr>
-<tr><td width="50%">
-
-Malaysia
-
-</td><td width="50%">
-
-Malaysia
-
-</td></tr>
-<tr><td width="50%">
-
-Maldives
-
-</td><td width="50%">
-
-Maldives
-
-</td></tr>
-<tr><td width="50%">
-
-Mali
-
-</td><td width="50%">
-
-Mali
-
-</td></tr>
-<tr><td width="50%">
-
-Malta
-
-</td><td width="50%">
-
-Malta
 
 </td></tr>
 <tr><td width="50%">
@@ -3924,65 +1798,11 @@ Mark Unread
 </td></tr>
 <tr><td width="50%">
 
-Marshall Islands
-
-</td><td width="50%">
-
-Marshall Islands
-
-</td></tr>
-<tr><td width="50%">
-
-Martinique
-
-</td><td width="50%">
-
-Martinique
-
-</td></tr>
-<tr><td width="50%">
-
-Mauritania
-
-</td><td width="50%">
-
-Mauritania
-
-</td></tr>
-<tr><td width="50%">
-
-Mauritius
-
-</td><td width="50%">
-
-Mauritius
-
-</td></tr>
-<tr><td width="50%">
-
 May
 
 </td><td width="50%">
 
 May
-
-</td></tr>
-<tr><td width="50%">
-
-Mayotte
-
-</td><td width="50%">
-
-Mayotte
-
-</td></tr>
-<tr><td width="50%">
-
-Mexico
-
-</td><td width="50%">
-
-Mexico
 
 </td></tr>
 <tr><td width="50%">
@@ -4005,47 +1825,11 @@ Micronesia, Federated States of
 </td></tr>
 <tr><td width="50%">
 
-Moldova
-
-</td><td width="50%">
-
-Moldova
-
-</td></tr>
-<tr><td width="50%">
-
 Moldova, Republic of
 
 </td><td width="50%">
 
 Moldova, Republic of
-
-</td></tr>
-<tr><td width="50%">
-
-Monaco
-
-</td><td width="50%">
-
-Monaco
-
-</td></tr>
-<tr><td width="50%">
-
-Mongolia
-
-</td><td width="50%">
-
-Mongolia
-
-</td></tr>
-<tr><td width="50%">
-
-Montenegro
-
-</td><td width="50%">
-
-Montenegro
 
 </td></tr>
 <tr><td width="50%">
@@ -4077,42 +1861,6 @@ monthly
 </td></tr>
 <tr><td width="50%">
 
-Montserrat
-
-</td><td width="50%">
-
-Montserrat
-
-</td></tr>
-<tr><td width="50%">
-
-Morocco
-
-</td><td width="50%">
-
-Morocco
-
-</td></tr>
-<tr><td width="50%">
-
-Mozambique
-
-</td><td width="50%">
-
-Mozambique
-
-</td></tr>
-<tr><td width="50%">
-
-Myanmar
-
-</td><td width="50%">
-
-Myanmar
-
-</td></tr>
-<tr><td width="50%">
-
 Name
 
 </td><td width="50%">
@@ -4127,42 +1875,6 @@ name
 </td><td width="50%">
 
 name
-
-</td></tr>
-<tr><td width="50%">
-
-Namibia
-
-</td><td width="50%">
-
-Namibia
-
-</td></tr>
-<tr><td width="50%">
-
-Nauru
-
-</td><td width="50%">
-
-Nauru
-
-</td></tr>
-<tr><td width="50%">
-
-Nepal
-
-</td><td width="50%">
-
-Nepal
-
-</td></tr>
-<tr><td width="50%">
-
-Netherlands
-
-</td><td width="50%">
-
-Netherlands
 
 </td></tr>
 <tr><td width="50%">
@@ -4212,29 +1924,11 @@ New :resource
 </td></tr>
 <tr><td width="50%">
 
-New Caledonia
-
-</td><td width="50%">
-
-New Caledonia
-
-</td></tr>
-<tr><td width="50%">
-
 New Password
 
 </td><td width="50%">
 
 New Password
-
-</td></tr>
-<tr><td width="50%">
-
-New Zealand
-
-</td><td width="50%">
-
-New Zealand
 
 </td></tr>
 <tr><td width="50%">
@@ -4262,42 +1956,6 @@ Next Payment on
 </td><td width="50%">
 
 Next Payment on
-
-</td></tr>
-<tr><td width="50%">
-
-Nicaragua
-
-</td><td width="50%">
-
-Nicaragua
-
-</td></tr>
-<tr><td width="50%">
-
-Niger
-
-</td><td width="50%">
-
-Niger
-
-</td></tr>
-<tr><td width="50%">
-
-Nigeria
-
-</td><td width="50%">
-
-Nigeria
-
-</td></tr>
-<tr><td width="50%">
-
-Niue
-
-</td><td width="50%">
-
-Niue
 
 </td></tr>
 <tr><td width="50%">
@@ -4410,24 +2068,6 @@ Norfolk Island
 </td></tr>
 <tr><td width="50%">
 
-Northern Mariana Islands
-
-</td><td width="50%">
-
-Northern Mariana Islands
-
-</td></tr>
-<tr><td width="50%">
-
-Norway
-
-</td><td width="50%">
-
-Norway
-
-</td></tr>
-<tr><td width="50%">
-
 Not Found
 
 </td><td width="50%">
@@ -4442,15 +2082,6 @@ Notifications
 </td><td width="50%">
 
 Notifications
-
-</td></tr>
-<tr><td width="50%">
-
-Nova
-
-</td><td width="50%">
-
-Nova
 
 </td></tr>
 <tr><td width="50%">
@@ -4487,24 +2118,6 @@ of
 </td><td width="50%">
 
 of
-
-</td></tr>
-<tr><td width="50%">
-
-OK
-
-</td><td width="50%">
-
-OK
-
-</td></tr>
-<tr><td width="50%">
-
-Oman
-
-</td><td width="50%">
-
-Oman
 
 </td></tr>
 <tr><td width="50%">
@@ -4554,15 +2167,6 @@ Open Invoices
 </td></tr>
 <tr><td width="50%">
 
-Original
-
-</td><td width="50%">
-
-Original
-
-</td></tr>
-<tr><td width="50%">
-
 Our billing management portal allows you to conveniently manage your subscription plan, payment method, and download your recent invoices.
 
 </td><td width="50%">
@@ -4608,56 +2212,11 @@ Paid
 </td></tr>
 <tr><td width="50%">
 
-Pakistan
-
-</td><td width="50%">
-
-Pakistan
-
-</td></tr>
-<tr><td width="50%">
-
-Palau
-
-</td><td width="50%">
-
-Palau
-
-</td></tr>
-<tr><td width="50%">
-
 Palestinian Territory, Occupied
 
 </td><td width="50%">
 
 Palestinian Territory, Occupied
-
-</td></tr>
-<tr><td width="50%">
-
-Panama
-
-</td><td width="50%">
-
-Panama
-
-</td></tr>
-<tr><td width="50%">
-
-Papua New Guinea
-
-</td><td width="50%">
-
-Papua New Guinea
-
-</td></tr>
-<tr><td width="50%">
-
-Paraguay
-
-</td><td width="50%">
-
-Paraguay
 
 </td></tr>
 <tr><td width="50%">
@@ -4779,47 +2338,11 @@ Permanently delete your account.
 </td></tr>
 <tr><td width="50%">
 
-Permissions
-
-</td><td width="50%">
-
-Permissions
-
-</td></tr>
-<tr><td width="50%">
-
-Peru
-
-</td><td width="50%">
-
-Peru
-
-</td></tr>
-<tr><td width="50%">
-
-Philippines
-
-</td><td width="50%">
-
-Philippines
-
-</td></tr>
-<tr><td width="50%">
-
 Photo
 
 </td><td width="50%">
 
 Photo
-
-</td></tr>
-<tr><td width="50%">
-
-Pitcairn
-
-</td><td width="50%">
-
-Pitcairn
 
 </td></tr>
 <tr><td width="50%">
@@ -4923,24 +2446,6 @@ Please set a default payment method before swapping plans.
 </td></tr>
 <tr><td width="50%">
 
-Poland
-
-</td><td width="50%">
-
-Poland
-
-</td></tr>
-<tr><td width="50%">
-
-Portugal
-
-</td><td width="50%">
-
-Portugal
-
-</td></tr>
-<tr><td width="50%">
-
 Press / to search
 
 </td><td width="50%">
@@ -5000,24 +2505,6 @@ Profile Information
 </td><td width="50%">
 
 Profile Information
-
-</td></tr>
-<tr><td width="50%">
-
-Puerto Rico
-
-</td><td width="50%">
-
-Puerto Rico
-
-</td></tr>
-<tr><td width="50%">
-
-Qatar
-
-</td><td width="50%">
-
-Qatar
 
 </td></tr>
 <tr><td width="50%">
@@ -5292,15 +2779,6 @@ Return to :appName
 </td></tr>
 <tr><td width="50%">
 
-Reunion
-
-</td><td width="50%">
-
-Réunion
-
-</td></tr>
-<tr><td width="50%">
-
 Role
 
 </td><td width="50%">
@@ -5310,47 +2788,11 @@ Role
 </td></tr>
 <tr><td width="50%">
 
-Romania
-
-</td><td width="50%">
-
-Romania
-
-</td></tr>
-<tr><td width="50%">
-
 Run Action
 
 </td><td width="50%">
 
 Run Action
-
-</td></tr>
-<tr><td width="50%">
-
-Russian Federation
-
-</td><td width="50%">
-
-Russian Federation
-
-</td></tr>
-<tr><td width="50%">
-
-Rwanda
-
-</td><td width="50%">
-
-Rwanda
-
-</td></tr>
-<tr><td width="50%">
-
-Réunion
-
-</td><td width="50%">
-
-Réunion
 
 </td></tr>
 <tr><td width="50%">
@@ -5387,24 +2829,6 @@ Saint Kitts And Nevis
 </td><td width="50%">
 
 St. Kitts and Nevis
-
-</td></tr>
-<tr><td width="50%">
-
-Saint Kitts and Nevis
-
-</td><td width="50%">
-
-Saint Kitts and Nevis
-
-</td></tr>
-<tr><td width="50%">
-
-Saint Lucia
-
-</td><td width="50%">
-
-Saint Lucia
 
 </td></tr>
 <tr><td width="50%">
@@ -5454,33 +2878,6 @@ St. Vincent and Grenadines
 </td></tr>
 <tr><td width="50%">
 
-Saint Vincent and the Grenadines
-
-</td><td width="50%">
-
-Saint Vincent and the Grenadines
-
-</td></tr>
-<tr><td width="50%">
-
-Samoa
-
-</td><td width="50%">
-
-Samoa
-
-</td></tr>
-<tr><td width="50%">
-
-San Marino
-
-</td><td width="50%">
-
-San Marino
-
-</td></tr>
-<tr><td width="50%">
-
 Sao Tome And Principe
 
 </td><td width="50%">
@@ -5490,24 +2887,6 @@ São Tomé and Príncipe
 </td></tr>
 <tr><td width="50%">
 
-Sao Tome and Principe
-
-</td><td width="50%">
-
-Sao Tome and Principe
-
-</td></tr>
-<tr><td width="50%">
-
-Saudi Arabia
-
-</td><td width="50%">
-
-Saudi Arabia
-
-</td></tr>
-<tr><td width="50%">
-
 Save
 
 </td><td width="50%">
@@ -5643,29 +3022,11 @@ Send Password Reset Link
 </td></tr>
 <tr><td width="50%">
 
-Senegal
-
-</td><td width="50%">
-
-Senegal
-
-</td></tr>
-<tr><td width="50%">
-
 September
 
 </td><td width="50%">
 
 September
-
-</td></tr>
-<tr><td width="50%">
-
-Serbia
-
-</td><td width="50%">
-
-Serbia
 
 </td></tr>
 <tr><td width="50%">
@@ -5706,15 +3067,6 @@ Setup Key
 </td></tr>
 <tr><td width="50%">
 
-Seychelles
-
-</td><td width="50%">
-
-Seychelles
-
-</td></tr>
-<tr><td width="50%">
-
 Show All Fields
 
 </td><td width="50%">
@@ -5751,15 +3103,6 @@ Showing
 </td></tr>
 <tr><td width="50%">
 
-Sierra Leone
-
-</td><td width="50%">
-
-Sierra Leone
-
-</td></tr>
-<tr><td width="50%">
-
 Signed in as
 
 </td><td width="50%">
@@ -5769,65 +3112,11 @@ Signed in as
 </td></tr>
 <tr><td width="50%">
 
-Singapore
-
-</td><td width="50%">
-
-Singapore
-
-</td></tr>
-<tr><td width="50%">
-
-Sint Maarten (Dutch part)
-
-</td><td width="50%">
-
-Sint Maarten
-
-</td></tr>
-<tr><td width="50%">
-
-Slovakia
-
-</td><td width="50%">
-
-Slovakia
-
-</td></tr>
-<tr><td width="50%">
-
-Slovenia
-
-</td><td width="50%">
-
-Slovenia
-
-</td></tr>
-<tr><td width="50%">
-
 Soft Deleted
 
 </td><td width="50%">
 
 Soft Deleted
-
-</td></tr>
-<tr><td width="50%">
-
-Solomon Islands
-
-</td><td width="50%">
-
-Solomon Islands
-
-</td></tr>
-<tr><td width="50%">
-
-Somalia
-
-</td><td width="50%">
-
-Somalia
 
 </td></tr>
 <tr><td width="50%">
@@ -5855,15 +3144,6 @@ Sorry, your session has expired.
 </td><td width="50%">
 
 Sorry, your session has expired.
-
-</td></tr>
-<tr><td width="50%">
-
-South Africa
-
-</td><td width="50%">
-
-South Africa
 
 </td></tr>
 <tr><td width="50%">
@@ -5886,33 +3166,6 @@ South Georgia and the South Sandwich Islands
 </td></tr>
 <tr><td width="50%">
 
-South Sudan
-
-</td><td width="50%">
-
-South Sudan
-
-</td></tr>
-<tr><td width="50%">
-
-Spain
-
-</td><td width="50%">
-
-Spain
-
-</td></tr>
-<tr><td width="50%">
-
-Sri Lanka
-
-</td><td width="50%">
-
-Sri Lanka
-
-</td></tr>
-<tr><td width="50%">
-
 Standalone Actions
 
 </td><td width="50%">
@@ -6008,24 +3261,6 @@ Subscription Pending
 </td><td width="50%">
 
 Subscription Pending
-
-</td></tr>
-<tr><td width="50%">
-
-Sudan
-
-</td><td width="50%">
-
-Sudan
-
-</td></tr>
-<tr><td width="50%">
-
-Suriname
-
-</td><td width="50%">
-
-Suriname
 
 </td></tr>
 <tr><td width="50%">
@@ -6057,29 +3292,11 @@ Swaziland
 </td></tr>
 <tr><td width="50%">
 
-Sweden
-
-</td><td width="50%">
-
-Sweden
-
-</td></tr>
-<tr><td width="50%">
-
 Switch Teams
 
 </td><td width="50%">
 
 Switch Teams
-
-</td></tr>
-<tr><td width="50%">
-
-Switzerland
-
-</td><td width="50%">
-
-Switzerland
 
 </td></tr>
 <tr><td width="50%">
@@ -6102,38 +3319,11 @@ System
 </td></tr>
 <tr><td width="50%">
 
-Taiwan
-
-</td><td width="50%">
-
-Taiwan
-
-</td></tr>
-<tr><td width="50%">
-
 Taiwan, Province of China
 
 </td><td width="50%">
 
 Taiwan, Province of China
-
-</td></tr>
-<tr><td width="50%">
-
-Tajikistan
-
-</td><td width="50%">
-
-Tajikistan
-
-</td></tr>
-<tr><td width="50%">
-
-Tanzania
-
-</td><td width="50%">
-
-Tanzania
 
 </td></tr>
 <tr><td width="50%">
@@ -6215,15 +3405,6 @@ Terms of Service
 </td><td width="50%">
 
 Terms of Service
-
-</td></tr>
-<tr><td width="50%">
-
-Thailand
-
-</td><td width="50%">
-
-Thailand
 
 </td></tr>
 <tr><td width="50%">
@@ -6840,15 +4021,6 @@ This user has already been invited to the team.
 </td></tr>
 <tr><td width="50%">
 
-Timor-Leste
-
-</td><td width="50%">
-
-Timor-Leste
-
-</td></tr>
-<tr><td width="50%">
-
 to
 
 </td><td width="50%">
@@ -6894,38 +4066,11 @@ Toggle navigation
 </td></tr>
 <tr><td width="50%">
 
-Togo
-
-</td><td width="50%">
-
-Togo
-
-</td></tr>
-<tr><td width="50%">
-
-Tokelau
-
-</td><td width="50%">
-
-Tokelau
-
-</td></tr>
-<tr><td width="50%">
-
 Token Name
 
 </td><td width="50%">
 
 Token Name
-
-</td></tr>
-<tr><td width="50%">
-
-Tonga
-
-</td><td width="50%">
-
-Tonga
 
 </td></tr>
 <tr><td width="50%">
@@ -6939,101 +4084,11 @@ Too Many Requests
 </td></tr>
 <tr><td width="50%">
 
-total
-
-</td><td width="50%">
-
-total
-
-</td></tr>
-<tr><td width="50%">
-
-Total:
-
-</td><td width="50%">
-
-Total:
-
-</td></tr>
-<tr><td width="50%">
-
 Trashed
 
 </td><td width="50%">
 
 Trashed
-
-</td></tr>
-<tr><td width="50%">
-
-Trinidad And Tobago
-
-</td><td width="50%">
-
-Trinidad and Tobago
-
-</td></tr>
-<tr><td width="50%">
-
-Trinidad and Tobago
-
-</td><td width="50%">
-
-Trinidad and Tobago
-
-</td></tr>
-<tr><td width="50%">
-
-Tunisia
-
-</td><td width="50%">
-
-Tunisia
-
-</td></tr>
-<tr><td width="50%">
-
-Turkey
-
-</td><td width="50%">
-
-Turkey
-
-</td></tr>
-<tr><td width="50%">
-
-Turkmenistan
-
-</td><td width="50%">
-
-Turkmenistan
-
-</td></tr>
-<tr><td width="50%">
-
-Turks And Caicos Islands
-
-</td><td width="50%">
-
-Turks and Caicos Islands
-
-</td></tr>
-<tr><td width="50%">
-
-Turks and Caicos Islands
-
-</td><td width="50%">
-
-Turks and Caicos Islands
-
-</td></tr>
-<tr><td width="50%">
-
-Tuvalu
-
-</td><td width="50%">
-
-Tuvalu
 
 </td></tr>
 <tr><td width="50%">
@@ -7056,65 +4111,11 @@ Two factor authentication is now enabled. Scan the following QR code using your 
 </td></tr>
 <tr><td width="50%">
 
-Type
-
-</td><td width="50%">
-
-Type
-
-</td></tr>
-<tr><td width="50%">
-
-Uganda
-
-</td><td width="50%">
-
-Uganda
-
-</td></tr>
-<tr><td width="50%">
-
-Ukraine
-
-</td><td width="50%">
-
-Ukraine
-
-</td></tr>
-<tr><td width="50%">
-
 Unauthorized
 
 </td><td width="50%">
 
 Unauthorized
-
-</td></tr>
-<tr><td width="50%">
-
-United Arab Emirates
-
-</td><td width="50%">
-
-United Arab Emirates
-
-</td></tr>
-<tr><td width="50%">
-
-United Kingdom
-
-</td><td width="50%">
-
-United Kingdom
-
-</td></tr>
-<tr><td width="50%">
-
-United States
-
-</td><td width="50%">
-
-United States
 
 </td></tr>
 <tr><td width="50%">
@@ -7254,15 +4255,6 @@ Uploading files... (:current/:total)
 </td></tr>
 <tr><td width="50%">
 
-Uruguay
-
-</td><td width="50%">
-
-Uruguay
-
-</td></tr>
-<tr><td width="50%">
-
 Use a recovery code
 
 </td><td width="50%">
@@ -7308,15 +4300,6 @@ Username
 </td></tr>
 <tr><td width="50%">
 
-Uzbekistan
-
-</td><td width="50%">
-
-Uzbekistan
-
-</td></tr>
-<tr><td width="50%">
-
 Value
 
 </td><td width="50%">
@@ -7326,29 +4309,11 @@ Value
 </td></tr>
 <tr><td width="50%">
 
-Vanuatu
-
-</td><td width="50%">
-
-Vanuatu
-
-</td></tr>
-<tr><td width="50%">
-
 VAT Number
 
 </td><td width="50%">
 
 VAT Number
-
-</td></tr>
-<tr><td width="50%">
-
-Venezuela
-
-</td><td width="50%">
-
-Venezuela
 
 </td></tr>
 <tr><td width="50%">
@@ -7380,56 +4345,11 @@ Verify Your Email Address
 </td></tr>
 <tr><td width="50%">
 
-Viet Nam
-
-</td><td width="50%">
-
-Viet Nam
-
-</td></tr>
-<tr><td width="50%">
-
 View
 
 </td><td width="50%">
 
 View
-
-</td></tr>
-<tr><td width="50%">
-
-Virgin Islands, British
-
-</td><td width="50%">
-
-Virgin Islands, British
-
-</td></tr>
-<tr><td width="50%">
-
-Virgin Islands, U.S.
-
-</td><td width="50%">
-
-Virgin Islands, U.S.
-
-</td></tr>
-<tr><td width="50%">
-
-Wallis And Futuna
-
-</td><td width="50%">
-
-Wallis and Futuna
-
-</td></tr>
-<tr><td width="50%">
-
-Wallis and Futuna
-
-</td><td width="50%">
-
-Wallis and Futuna
 
 </td></tr>
 <tr><td width="50%">
@@ -7574,15 +4494,6 @@ Yearly
 </td><td width="50%">
 
 Yearly
-
-</td></tr>
-<tr><td width="50%">
-
-Yemen
-
-</td><td width="50%">
-
-Yemen
 
 </td></tr>
 <tr><td width="50%">
@@ -7884,24 +4795,6 @@ Your subscription was successfully updated.
 </td></tr>
 <tr><td width="50%">
 
-Zambia
-
-</td><td width="50%">
-
-Zambia
-
-</td></tr>
-<tr><td width="50%">
-
-Zimbabwe
-
-</td><td width="50%">
-
-Zimbabwe
-
-</td></tr>
-<tr><td width="50%">
-
 Zip / Postal Code
 
 </td><td width="50%">
@@ -7916,2575 +4809,6 @@ Zip / Postal Code
 </td><td width="50%">
 
 Åland Islands
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php-inline
-
-##### Missing: 135
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-accepted
-
-</td><td width="50%">
-
-This field must be accepted.
-
-</td></tr>
-<tr><td width="50%">
-
-accepted_if
-
-</td><td width="50%">
-
-This field must be accepted when :other is :value.
-
-</td></tr>
-<tr><td width="50%">
-
-active_url
-
-</td><td width="50%">
-
-This field must be a valid URL.
-
-</td></tr>
-<tr><td width="50%">
-
-after
-
-</td><td width="50%">
-
-This field must be a date after :date.
-
-</td></tr>
-<tr><td width="50%">
-
-after_or_equal
-
-</td><td width="50%">
-
-This field must be a date after or equal to :date.
-
-</td></tr>
-<tr><td width="50%">
-
-alpha
-
-</td><td width="50%">
-
-This field must only contain letters.
-
-</td></tr>
-<tr><td width="50%">
-
-alpha_dash
-
-</td><td width="50%">
-
-This field must only contain letters, numbers, dashes, and underscores.
-
-</td></tr>
-<tr><td width="50%">
-
-alpha_num
-
-</td><td width="50%">
-
-This field must only contain letters and numbers.
-
-</td></tr>
-<tr><td width="50%">
-
-any_of
-
-</td><td width="50%">
-
-This field is invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-array
-
-</td><td width="50%">
-
-This field must be an array.
-
-</td></tr>
-<tr><td width="50%">
-
-ascii
-
-</td><td width="50%">
-
-This field must only contain single-byte alphanumeric characters and symbols.
-
-</td></tr>
-<tr><td width="50%">
-
-attached
-
-</td><td width="50%">
-
-This field is already attached.
-
-</td></tr>
-<tr><td width="50%">
-
-before
-
-</td><td width="50%">
-
-This field must be a date before :date.
-
-</td></tr>
-<tr><td width="50%">
-
-before_or_equal
-
-</td><td width="50%">
-
-This field must be a date before or equal to :date.
-
-</td></tr>
-<tr><td width="50%">
-
-between.array
-
-</td><td width="50%">
-
-This field must have between :min and :max items.
-
-</td></tr>
-<tr><td width="50%">
-
-between.file
-
-</td><td width="50%">
-
-This field must be between :min and :max kilobytes.
-
-</td></tr>
-<tr><td width="50%">
-
-between.numeric
-
-</td><td width="50%">
-
-This field must be between :min and :max.
-
-</td></tr>
-<tr><td width="50%">
-
-between.string
-
-</td><td width="50%">
-
-This field must be between :min and :max characters.
-
-</td></tr>
-<tr><td width="50%">
-
-boolean
-
-</td><td width="50%">
-
-This field must be true or false.
-
-</td></tr>
-<tr><td width="50%">
-
-can
-
-</td><td width="50%">
-
-This field contains an unauthorized value.
-
-</td></tr>
-<tr><td width="50%">
-
-confirmed
-
-</td><td width="50%">
-
-This field confirmation does not match.
-
-</td></tr>
-<tr><td width="50%">
-
-contains
-
-</td><td width="50%">
-
-This field is missing a required value.
-
-</td></tr>
-<tr><td width="50%">
-
-date
-
-</td><td width="50%">
-
-This field must be a valid date.
-
-</td></tr>
-<tr><td width="50%">
-
-date_equals
-
-</td><td width="50%">
-
-This field must be a date equal to :date.
-
-</td></tr>
-<tr><td width="50%">
-
-date_format
-
-</td><td width="50%">
-
-This field must match the format :format.
-
-</td></tr>
-<tr><td width="50%">
-
-decimal
-
-</td><td width="50%">
-
-This field must have :decimal decimal places.
-
-</td></tr>
-<tr><td width="50%">
-
-declined
-
-</td><td width="50%">
-
-This field must be declined.
-
-</td></tr>
-<tr><td width="50%">
-
-declined_if
-
-</td><td width="50%">
-
-This field must be declined when :other is :value.
-
-</td></tr>
-<tr><td width="50%">
-
-different
-
-</td><td width="50%">
-
-This field and :other must be different.
-
-</td></tr>
-<tr><td width="50%">
-
-digits
-
-</td><td width="50%">
-
-This field must be :digits digits.
-
-</td></tr>
-<tr><td width="50%">
-
-digits_between
-
-</td><td width="50%">
-
-This field must be between :min and :max digits.
-
-</td></tr>
-<tr><td width="50%">
-
-dimensions
-
-</td><td width="50%">
-
-This field has invalid image dimensions.
-
-</td></tr>
-<tr><td width="50%">
-
-distinct
-
-</td><td width="50%">
-
-This field has a duplicate value.
-
-</td></tr>
-<tr><td width="50%">
-
-doesnt_contain
-
-</td><td width="50%">
-
-This field must not contain any of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-doesnt_end_with
-
-</td><td width="50%">
-
-This field must not end with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-doesnt_start_with
-
-</td><td width="50%">
-
-This field must not start with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-email
-
-</td><td width="50%">
-
-This field must be a valid email address.
-
-</td></tr>
-<tr><td width="50%">
-
-ends_with
-
-</td><td width="50%">
-
-This field must end with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-enum
-
-</td><td width="50%">
-
-The selected field is invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-exists
-
-</td><td width="50%">
-
-The selected field is invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-extensions
-
-</td><td width="50%">
-
-This field must have one of the following extensions: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-file
-
-</td><td width="50%">
-
-This field must be a file.
-
-</td></tr>
-<tr><td width="50%">
-
-filled
-
-</td><td width="50%">
-
-This field must have a value.
-
-</td></tr>
-<tr><td width="50%">
-
-gt.array
-
-</td><td width="50%">
-
-This field must have more than :value items.
-
-</td></tr>
-<tr><td width="50%">
-
-gt.file
-
-</td><td width="50%">
-
-This field must be greater than :value kilobytes.
-
-</td></tr>
-<tr><td width="50%">
-
-gt.numeric
-
-</td><td width="50%">
-
-This field must be greater than :value.
-
-</td></tr>
-<tr><td width="50%">
-
-gt.string
-
-</td><td width="50%">
-
-This field must be greater than :value characters.
-
-</td></tr>
-<tr><td width="50%">
-
-gte.array
-
-</td><td width="50%">
-
-This field must have :value items or more.
-
-</td></tr>
-<tr><td width="50%">
-
-gte.file
-
-</td><td width="50%">
-
-This field must be greater than or equal to :value kilobytes.
-
-</td></tr>
-<tr><td width="50%">
-
-gte.numeric
-
-</td><td width="50%">
-
-This field must be greater than or equal to :value.
-
-</td></tr>
-<tr><td width="50%">
-
-gte.string
-
-</td><td width="50%">
-
-This field must be greater than or equal to :value characters.
-
-</td></tr>
-<tr><td width="50%">
-
-hex_color
-
-</td><td width="50%">
-
-This field must be a valid hexadecimal color.
-
-</td></tr>
-<tr><td width="50%">
-
-image
-
-</td><td width="50%">
-
-This field must be an image.
-
-</td></tr>
-<tr><td width="50%">
-
-in
-
-</td><td width="50%">
-
-The selected field is invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-in_array
-
-</td><td width="50%">
-
-This field must exist in :other.
-
-</td></tr>
-<tr><td width="50%">
-
-in_array_keys
-
-</td><td width="50%">
-
-This field must contain at least one of the following keys: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-integer
-
-</td><td width="50%">
-
-This field must be an integer.
-
-</td></tr>
-<tr><td width="50%">
-
-ip
-
-</td><td width="50%">
-
-This field must be a valid IP address.
-
-</td></tr>
-<tr><td width="50%">
-
-ipv4
-
-</td><td width="50%">
-
-This field must be a valid IPv4 address.
-
-</td></tr>
-<tr><td width="50%">
-
-ipv6
-
-</td><td width="50%">
-
-This field must be a valid IPv6 address.
-
-</td></tr>
-<tr><td width="50%">
-
-json
-
-</td><td width="50%">
-
-This field must be a valid JSON string.
-
-</td></tr>
-<tr><td width="50%">
-
-list
-
-</td><td width="50%">
-
-This field must be a list.
-
-</td></tr>
-<tr><td width="50%">
-
-lowercase
-
-</td><td width="50%">
-
-This field must be lowercase.
-
-</td></tr>
-<tr><td width="50%">
-
-lt.array
-
-</td><td width="50%">
-
-This field must have less than :value items.
-
-</td></tr>
-<tr><td width="50%">
-
-lt.file
-
-</td><td width="50%">
-
-This field must be less than :value kilobytes.
-
-</td></tr>
-<tr><td width="50%">
-
-lt.numeric
-
-</td><td width="50%">
-
-This field must be less than :value.
-
-</td></tr>
-<tr><td width="50%">
-
-lt.string
-
-</td><td width="50%">
-
-This field must be less than :value characters.
-
-</td></tr>
-<tr><td width="50%">
-
-lte.array
-
-</td><td width="50%">
-
-This field must not have more than :value items.
-
-</td></tr>
-<tr><td width="50%">
-
-lte.file
-
-</td><td width="50%">
-
-This field must be less than or equal to :value kilobytes.
-
-</td></tr>
-<tr><td width="50%">
-
-lte.numeric
-
-</td><td width="50%">
-
-This field must be less than or equal to :value.
-
-</td></tr>
-<tr><td width="50%">
-
-lte.string
-
-</td><td width="50%">
-
-This field must be less than or equal to :value characters.
-
-</td></tr>
-<tr><td width="50%">
-
-mac_address
-
-</td><td width="50%">
-
-This field must be a valid MAC address.
-
-</td></tr>
-<tr><td width="50%">
-
-max.array
-
-</td><td width="50%">
-
-This field must not have more than :max items.
-
-</td></tr>
-<tr><td width="50%">
-
-max.file
-
-</td><td width="50%">
-
-This field must not be greater than :max kilobytes.
-
-</td></tr>
-<tr><td width="50%">
-
-max.numeric
-
-</td><td width="50%">
-
-This field must not be greater than :max.
-
-</td></tr>
-<tr><td width="50%">
-
-max.string
-
-</td><td width="50%">
-
-This field must not be greater than :max characters.
-
-</td></tr>
-<tr><td width="50%">
-
-max_digits
-
-</td><td width="50%">
-
-This field must not have more than :max digits.
-
-</td></tr>
-<tr><td width="50%">
-
-mimes
-
-</td><td width="50%">
-
-This field must be a file of type: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-mimetypes
-
-</td><td width="50%">
-
-This field must be a file of type: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-min.array
-
-</td><td width="50%">
-
-This field must have at least :min items.
-
-</td></tr>
-<tr><td width="50%">
-
-min.file
-
-</td><td width="50%">
-
-This field must be at least :min kilobytes.
-
-</td></tr>
-<tr><td width="50%">
-
-min.numeric
-
-</td><td width="50%">
-
-This field must be at least :min.
-
-</td></tr>
-<tr><td width="50%">
-
-min.string
-
-</td><td width="50%">
-
-This field must be at least :min characters.
-
-</td></tr>
-<tr><td width="50%">
-
-min_digits
-
-</td><td width="50%">
-
-This field must have at least :min digits.
-
-</td></tr>
-<tr><td width="50%">
-
-missing
-
-</td><td width="50%">
-
-This field must be missing.
-
-</td></tr>
-<tr><td width="50%">
-
-missing_if
-
-</td><td width="50%">
-
-This field must be missing when :other is :value.
-
-</td></tr>
-<tr><td width="50%">
-
-missing_unless
-
-</td><td width="50%">
-
-This field must be missing unless :other is :value.
-
-</td></tr>
-<tr><td width="50%">
-
-missing_with
-
-</td><td width="50%">
-
-This field must be missing when :values is present.
-
-</td></tr>
-<tr><td width="50%">
-
-missing_with_all
-
-</td><td width="50%">
-
-This field must be missing when :values are present.
-
-</td></tr>
-<tr><td width="50%">
-
-multiple_of
-
-</td><td width="50%">
-
-This field must be a multiple of :value.
-
-</td></tr>
-<tr><td width="50%">
-
-not_in
-
-</td><td width="50%">
-
-The selected field is invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-not_regex
-
-</td><td width="50%">
-
-This field format is invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-numeric
-
-</td><td width="50%">
-
-This field must be a number.
-
-</td></tr>
-<tr><td width="50%">
-
-password.letters
-
-</td><td width="50%">
-
-This field must contain at least one letter.
-
-</td></tr>
-<tr><td width="50%">
-
-password.mixed
-
-</td><td width="50%">
-
-This field must contain at least one uppercase and one lowercase letter.
-
-</td></tr>
-<tr><td width="50%">
-
-password.numbers
-
-</td><td width="50%">
-
-This field must contain at least one number.
-
-</td></tr>
-<tr><td width="50%">
-
-password.symbols
-
-</td><td width="50%">
-
-This field must contain at least one symbol.
-
-</td></tr>
-<tr><td width="50%">
-
-password.uncompromised
-
-</td><td width="50%">
-
-The given field has appeared in a data leak. Please choose a different field.
-
-</td></tr>
-<tr><td width="50%">
-
-present
-
-</td><td width="50%">
-
-This field must be present.
-
-</td></tr>
-<tr><td width="50%">
-
-present_if
-
-</td><td width="50%">
-
-This field must be present when :other is :value.
-
-</td></tr>
-<tr><td width="50%">
-
-present_unless
-
-</td><td width="50%">
-
-This field must be present unless :other is :value.
-
-</td></tr>
-<tr><td width="50%">
-
-present_with
-
-</td><td width="50%">
-
-This field must be present when :values is present.
-
-</td></tr>
-<tr><td width="50%">
-
-present_with_all
-
-</td><td width="50%">
-
-This field must be present when :values are present.
-
-</td></tr>
-<tr><td width="50%">
-
-prohibited
-
-</td><td width="50%">
-
-This field is prohibited.
-
-</td></tr>
-<tr><td width="50%">
-
-prohibited_if
-
-</td><td width="50%">
-
-This field is prohibited when :other is :value.
-
-</td></tr>
-<tr><td width="50%">
-
-prohibited_if_accepted
-
-</td><td width="50%">
-
-This field is prohibited when :other is accepted.
-
-</td></tr>
-<tr><td width="50%">
-
-prohibited_if_declined
-
-</td><td width="50%">
-
-This field is prohibited when :other is declined.
-
-</td></tr>
-<tr><td width="50%">
-
-prohibited_unless
-
-</td><td width="50%">
-
-This field is prohibited unless :other is in :values.
-
-</td></tr>
-<tr><td width="50%">
-
-prohibits
-
-</td><td width="50%">
-
-This field prohibits :other from being present.
-
-</td></tr>
-<tr><td width="50%">
-
-regex
-
-</td><td width="50%">
-
-This field format is invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-relatable
-
-</td><td width="50%">
-
-This field may not be associated with this resource.
-
-</td></tr>
-<tr><td width="50%">
-
-required
-
-</td><td width="50%">
-
-This field is required.
-
-</td></tr>
-<tr><td width="50%">
-
-required_array_keys
-
-</td><td width="50%">
-
-This field must contain entries for: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-required_if
-
-</td><td width="50%">
-
-This field is required when :other is :value.
-
-</td></tr>
-<tr><td width="50%">
-
-required_if_accepted
-
-</td><td width="50%">
-
-This field is required when :other is accepted.
-
-</td></tr>
-<tr><td width="50%">
-
-required_if_declined
-
-</td><td width="50%">
-
-This field is required when :other is declined.
-
-</td></tr>
-<tr><td width="50%">
-
-required_unless
-
-</td><td width="50%">
-
-This field is required unless :other is in :values.
-
-</td></tr>
-<tr><td width="50%">
-
-required_with
-
-</td><td width="50%">
-
-This field is required when :values is present.
-
-</td></tr>
-<tr><td width="50%">
-
-required_with_all
-
-</td><td width="50%">
-
-This field is required when :values are present.
-
-</td></tr>
-<tr><td width="50%">
-
-required_without
-
-</td><td width="50%">
-
-This field is required when :values is not present.
-
-</td></tr>
-<tr><td width="50%">
-
-required_without_all
-
-</td><td width="50%">
-
-This field is required when none of :values are present.
-
-</td></tr>
-<tr><td width="50%">
-
-same
-
-</td><td width="50%">
-
-This field must match :other.
-
-</td></tr>
-<tr><td width="50%">
-
-size.array
-
-</td><td width="50%">
-
-This field must contain :size items.
-
-</td></tr>
-<tr><td width="50%">
-
-size.file
-
-</td><td width="50%">
-
-This field must be :size kilobytes.
-
-</td></tr>
-<tr><td width="50%">
-
-size.numeric
-
-</td><td width="50%">
-
-This field must be :size.
-
-</td></tr>
-<tr><td width="50%">
-
-size.string
-
-</td><td width="50%">
-
-This field must be :size characters.
-
-</td></tr>
-<tr><td width="50%">
-
-starts_with
-
-</td><td width="50%">
-
-This field must start with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-string
-
-</td><td width="50%">
-
-This field must be a string.
-
-</td></tr>
-<tr><td width="50%">
-
-timezone
-
-</td><td width="50%">
-
-This field must be a valid timezone.
-
-</td></tr>
-<tr><td width="50%">
-
-ulid
-
-</td><td width="50%">
-
-This field must be a valid ULID.
-
-</td></tr>
-<tr><td width="50%">
-
-unique
-
-</td><td width="50%">
-
-This field has already been taken.
-
-</td></tr>
-<tr><td width="50%">
-
-uploaded
-
-</td><td width="50%">
-
-This field failed to upload.
-
-</td></tr>
-<tr><td width="50%">
-
-uppercase
-
-</td><td width="50%">
-
-This field must be uppercase.
-
-</td></tr>
-<tr><td width="50%">
-
-url
-
-</td><td width="50%">
-
-This field must be a valid URL.
-
-</td></tr>
-<tr><td width="50%">
-
-uuid
-
-</td><td width="50%">
-
-This field must be a valid UUID.
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php
-
-##### Missing: 146
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-accepted
-
-</td><td width="50%">
-
-The :attribute field must be accepted.
-
-</td></tr>
-<tr><td width="50%">
-
-accepted_if
-
-</td><td width="50%">
-
-The :attribute field must be accepted when :other is :value.
-
-</td></tr>
-<tr><td width="50%">
-
-active_url
-
-</td><td width="50%">
-
-The :attribute field must be a valid URL.
-
-</td></tr>
-<tr><td width="50%">
-
-after
-
-</td><td width="50%">
-
-The :attribute field must be a date after :date.
-
-</td></tr>
-<tr><td width="50%">
-
-after_or_equal
-
-</td><td width="50%">
-
-The :attribute field must be a date after or equal to :date.
-
-</td></tr>
-<tr><td width="50%">
-
-alpha
-
-</td><td width="50%">
-
-The :attribute field must only contain letters.
-
-</td></tr>
-<tr><td width="50%">
-
-alpha_dash
-
-</td><td width="50%">
-
-The :attribute field must only contain letters, numbers, dashes, and underscores.
-
-</td></tr>
-<tr><td width="50%">
-
-alpha_num
-
-</td><td width="50%">
-
-The :attribute field must only contain letters and numbers.
-
-</td></tr>
-<tr><td width="50%">
-
-any_of
-
-</td><td width="50%">
-
-The :attribute field is invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-array
-
-</td><td width="50%">
-
-The :attribute field must be an array.
-
-</td></tr>
-<tr><td width="50%">
-
-ascii
-
-</td><td width="50%">
-
-The :attribute field must only contain single-byte alphanumeric characters and symbols.
-
-</td></tr>
-<tr><td width="50%">
-
-attached
-
-</td><td width="50%">
-
-This :attribute is already attached.
-
-</td></tr>
-<tr><td width="50%">
-
-before
-
-</td><td width="50%">
-
-The :attribute field must be a date before :date.
-
-</td></tr>
-<tr><td width="50%">
-
-before_or_equal
-
-</td><td width="50%">
-
-The :attribute field must be a date before or equal to :date.
-
-</td></tr>
-<tr><td width="50%">
-
-between.array
-
-</td><td width="50%">
-
-The :attribute field must have between :min and :max items.
-
-</td></tr>
-<tr><td width="50%">
-
-between.file
-
-</td><td width="50%">
-
-The :attribute field must be between :min and :max kilobytes.
-
-</td></tr>
-<tr><td width="50%">
-
-between.numeric
-
-</td><td width="50%">
-
-The :attribute field must be between :min and :max.
-
-</td></tr>
-<tr><td width="50%">
-
-between.string
-
-</td><td width="50%">
-
-The :attribute field must be between :min and :max characters.
-
-</td></tr>
-<tr><td width="50%">
-
-boolean
-
-</td><td width="50%">
-
-The :attribute field must be true or false.
-
-</td></tr>
-<tr><td width="50%">
-
-can
-
-</td><td width="50%">
-
-The :attribute field contains an unauthorized value.
-
-</td></tr>
-<tr><td width="50%">
-
-confirmed
-
-</td><td width="50%">
-
-The :attribute field confirmation does not match.
-
-</td></tr>
-<tr><td width="50%">
-
-contains
-
-</td><td width="50%">
-
-The :attribute field is missing a required value.
-
-</td></tr>
-<tr><td width="50%">
-
-current_password
-
-</td><td width="50%">
-
-The password is incorrect.
-
-</td></tr>
-<tr><td width="50%">
-
-date
-
-</td><td width="50%">
-
-The :attribute field must be a valid date.
-
-</td></tr>
-<tr><td width="50%">
-
-date_equals
-
-</td><td width="50%">
-
-The :attribute field must be a date equal to :date.
-
-</td></tr>
-<tr><td width="50%">
-
-date_format
-
-</td><td width="50%">
-
-The :attribute field must match the format :format.
-
-</td></tr>
-<tr><td width="50%">
-
-decimal
-
-</td><td width="50%">
-
-The :attribute field must have :decimal decimal places.
-
-</td></tr>
-<tr><td width="50%">
-
-declined
-
-</td><td width="50%">
-
-The :attribute field must be declined.
-
-</td></tr>
-<tr><td width="50%">
-
-declined_if
-
-</td><td width="50%">
-
-The :attribute field must be declined when :other is :value.
-
-</td></tr>
-<tr><td width="50%">
-
-different
-
-</td><td width="50%">
-
-The :attribute field and :other must be different.
-
-</td></tr>
-<tr><td width="50%">
-
-digits
-
-</td><td width="50%">
-
-The :attribute field must be :digits digits.
-
-</td></tr>
-<tr><td width="50%">
-
-digits_between
-
-</td><td width="50%">
-
-The :attribute field must be between :min and :max digits.
-
-</td></tr>
-<tr><td width="50%">
-
-dimensions
-
-</td><td width="50%">
-
-The :attribute field has invalid image dimensions.
-
-</td></tr>
-<tr><td width="50%">
-
-distinct
-
-</td><td width="50%">
-
-The :attribute field has a duplicate value.
-
-</td></tr>
-<tr><td width="50%">
-
-doesnt_contain
-
-</td><td width="50%">
-
-The :attribute field must not contain any of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-doesnt_end_with
-
-</td><td width="50%">
-
-The :attribute field must not end with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-doesnt_start_with
-
-</td><td width="50%">
-
-The :attribute field must not start with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-email
-
-</td><td width="50%">
-
-The :attribute field must be a valid email address.
-
-</td></tr>
-<tr><td width="50%">
-
-ends_with
-
-</td><td width="50%">
-
-The :attribute field must end with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-enum
-
-</td><td width="50%">
-
-The selected :attribute is invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-exists
-
-</td><td width="50%">
-
-The selected :attribute is invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-extensions
-
-</td><td width="50%">
-
-The :attribute field must have one of the following extensions: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-failed
-
-</td><td width="50%">
-
-These credentials do not match our records.
-
-</td></tr>
-<tr><td width="50%">
-
-file
-
-</td><td width="50%">
-
-The :attribute field must be a file.
-
-</td></tr>
-<tr><td width="50%">
-
-filled
-
-</td><td width="50%">
-
-The :attribute field must have a value.
-
-</td></tr>
-<tr><td width="50%">
-
-gt.array
-
-</td><td width="50%">
-
-The :attribute field must have more than :value items.
-
-</td></tr>
-<tr><td width="50%">
-
-gt.file
-
-</td><td width="50%">
-
-The :attribute field must be greater than :value kilobytes.
-
-</td></tr>
-<tr><td width="50%">
-
-gt.numeric
-
-</td><td width="50%">
-
-The :attribute field must be greater than :value.
-
-</td></tr>
-<tr><td width="50%">
-
-gt.string
-
-</td><td width="50%">
-
-The :attribute field must be greater than :value characters.
-
-</td></tr>
-<tr><td width="50%">
-
-gte.array
-
-</td><td width="50%">
-
-The :attribute field must have :value items or more.
-
-</td></tr>
-<tr><td width="50%">
-
-gte.file
-
-</td><td width="50%">
-
-The :attribute field must be greater than or equal to :value kilobytes.
-
-</td></tr>
-<tr><td width="50%">
-
-gte.numeric
-
-</td><td width="50%">
-
-The :attribute field must be greater than or equal to :value.
-
-</td></tr>
-<tr><td width="50%">
-
-gte.string
-
-</td><td width="50%">
-
-The :attribute field must be greater than or equal to :value characters.
-
-</td></tr>
-<tr><td width="50%">
-
-hex_color
-
-</td><td width="50%">
-
-The :attribute field must be a valid hexadecimal color.
-
-</td></tr>
-<tr><td width="50%">
-
-image
-
-</td><td width="50%">
-
-The :attribute field must be an image.
-
-</td></tr>
-<tr><td width="50%">
-
-in
-
-</td><td width="50%">
-
-The selected :attribute is invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-in_array
-
-</td><td width="50%">
-
-The :attribute field must exist in :other.
-
-</td></tr>
-<tr><td width="50%">
-
-in_array_keys
-
-</td><td width="50%">
-
-The :attribute field must contain at least one of the following keys: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-integer
-
-</td><td width="50%">
-
-The :attribute field must be an integer.
-
-</td></tr>
-<tr><td width="50%">
-
-ip
-
-</td><td width="50%">
-
-The :attribute field must be a valid IP address.
-
-</td></tr>
-<tr><td width="50%">
-
-ipv4
-
-</td><td width="50%">
-
-The :attribute field must be a valid IPv4 address.
-
-</td></tr>
-<tr><td width="50%">
-
-ipv6
-
-</td><td width="50%">
-
-The :attribute field must be a valid IPv6 address.
-
-</td></tr>
-<tr><td width="50%">
-
-json
-
-</td><td width="50%">
-
-The :attribute field must be a valid JSON string.
-
-</td></tr>
-<tr><td width="50%">
-
-list
-
-</td><td width="50%">
-
-The :attribute field must be a list.
-
-</td></tr>
-<tr><td width="50%">
-
-lowercase
-
-</td><td width="50%">
-
-The :attribute field must be lowercase.
-
-</td></tr>
-<tr><td width="50%">
-
-lt.array
-
-</td><td width="50%">
-
-The :attribute field must have less than :value items.
-
-</td></tr>
-<tr><td width="50%">
-
-lt.file
-
-</td><td width="50%">
-
-The :attribute field must be less than :value kilobytes.
-
-</td></tr>
-<tr><td width="50%">
-
-lt.numeric
-
-</td><td width="50%">
-
-The :attribute field must be less than :value.
-
-</td></tr>
-<tr><td width="50%">
-
-lt.string
-
-</td><td width="50%">
-
-The :attribute field must be less than :value characters.
-
-</td></tr>
-<tr><td width="50%">
-
-lte.array
-
-</td><td width="50%">
-
-The :attribute field must not have more than :value items.
-
-</td></tr>
-<tr><td width="50%">
-
-lte.file
-
-</td><td width="50%">
-
-The :attribute field must be less than or equal to :value kilobytes.
-
-</td></tr>
-<tr><td width="50%">
-
-lte.numeric
-
-</td><td width="50%">
-
-The :attribute field must be less than or equal to :value.
-
-</td></tr>
-<tr><td width="50%">
-
-lte.string
-
-</td><td width="50%">
-
-The :attribute field must be less than or equal to :value characters.
-
-</td></tr>
-<tr><td width="50%">
-
-mac_address
-
-</td><td width="50%">
-
-The :attribute field must be a valid MAC address.
-
-</td></tr>
-<tr><td width="50%">
-
-max.array
-
-</td><td width="50%">
-
-The :attribute field must not have more than :max items.
-
-</td></tr>
-<tr><td width="50%">
-
-max.file
-
-</td><td width="50%">
-
-The :attribute field must not be greater than :max kilobytes.
-
-</td></tr>
-<tr><td width="50%">
-
-max.numeric
-
-</td><td width="50%">
-
-The :attribute field must not be greater than :max.
-
-</td></tr>
-<tr><td width="50%">
-
-max.string
-
-</td><td width="50%">
-
-The :attribute field must not be greater than :max characters.
-
-</td></tr>
-<tr><td width="50%">
-
-max_digits
-
-</td><td width="50%">
-
-The :attribute field must not have more than :max digits.
-
-</td></tr>
-<tr><td width="50%">
-
-mimes
-
-</td><td width="50%">
-
-The :attribute field must be a file of type: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-mimetypes
-
-</td><td width="50%">
-
-The :attribute field must be a file of type: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-min.array
-
-</td><td width="50%">
-
-The :attribute field must have at least :min items.
-
-</td></tr>
-<tr><td width="50%">
-
-min.file
-
-</td><td width="50%">
-
-The :attribute field must be at least :min kilobytes.
-
-</td></tr>
-<tr><td width="50%">
-
-min.numeric
-
-</td><td width="50%">
-
-The :attribute field must be at least :min.
-
-</td></tr>
-<tr><td width="50%">
-
-min.string
-
-</td><td width="50%">
-
-The :attribute field must be at least :min characters.
-
-</td></tr>
-<tr><td width="50%">
-
-min_digits
-
-</td><td width="50%">
-
-The :attribute field must have at least :min digits.
-
-</td></tr>
-<tr><td width="50%">
-
-missing
-
-</td><td width="50%">
-
-The :attribute field must be missing.
-
-</td></tr>
-<tr><td width="50%">
-
-missing_if
-
-</td><td width="50%">
-
-The :attribute field must be missing when :other is :value.
-
-</td></tr>
-<tr><td width="50%">
-
-missing_unless
-
-</td><td width="50%">
-
-The :attribute field must be missing unless :other is :value.
-
-</td></tr>
-<tr><td width="50%">
-
-missing_with
-
-</td><td width="50%">
-
-The :attribute field must be missing when :values is present.
-
-</td></tr>
-<tr><td width="50%">
-
-missing_with_all
-
-</td><td width="50%">
-
-The :attribute field must be missing when :values are present.
-
-</td></tr>
-<tr><td width="50%">
-
-multiple_of
-
-</td><td width="50%">
-
-The :attribute field must be a multiple of :value.
-
-</td></tr>
-<tr><td width="50%">
-
-next
-
-</td><td width="50%">
-
-Next &raquo;
-
-</td></tr>
-<tr><td width="50%">
-
-not_in
-
-</td><td width="50%">
-
-The selected :attribute is invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-not_regex
-
-</td><td width="50%">
-
-The :attribute field format is invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-numeric
-
-</td><td width="50%">
-
-The :attribute field must be a number.
-
-</td></tr>
-<tr><td width="50%">
-
-password
-
-</td><td width="50%">
-
-The provided password is incorrect.
-
-</td></tr>
-<tr><td width="50%">
-
-password.letters
-
-</td><td width="50%">
-
-The :attribute field must contain at least one letter.
-
-</td></tr>
-<tr><td width="50%">
-
-password.mixed
-
-</td><td width="50%">
-
-The :attribute field must contain at least one uppercase and one lowercase letter.
-
-</td></tr>
-<tr><td width="50%">
-
-password.numbers
-
-</td><td width="50%">
-
-The :attribute field must contain at least one number.
-
-</td></tr>
-<tr><td width="50%">
-
-password.symbols
-
-</td><td width="50%">
-
-The :attribute field must contain at least one symbol.
-
-</td></tr>
-<tr><td width="50%">
-
-password.uncompromised
-
-</td><td width="50%">
-
-The given :attribute has appeared in a data leak. Please choose a different :attribute.
-
-</td></tr>
-<tr><td width="50%">
-
-present
-
-</td><td width="50%">
-
-The :attribute field must be present.
-
-</td></tr>
-<tr><td width="50%">
-
-present_if
-
-</td><td width="50%">
-
-The :attribute field must be present when :other is :value.
-
-</td></tr>
-<tr><td width="50%">
-
-present_unless
-
-</td><td width="50%">
-
-The :attribute field must be present unless :other is :value.
-
-</td></tr>
-<tr><td width="50%">
-
-present_with
-
-</td><td width="50%">
-
-The :attribute field must be present when :values is present.
-
-</td></tr>
-<tr><td width="50%">
-
-present_with_all
-
-</td><td width="50%">
-
-The :attribute field must be present when :values are present.
-
-</td></tr>
-<tr><td width="50%">
-
-previous
-
-</td><td width="50%">
-
-&laquo; Previous
-
-</td></tr>
-<tr><td width="50%">
-
-prohibited
-
-</td><td width="50%">
-
-The :attribute field is prohibited.
-
-</td></tr>
-<tr><td width="50%">
-
-prohibited_if
-
-</td><td width="50%">
-
-The :attribute field is prohibited when :other is :value.
-
-</td></tr>
-<tr><td width="50%">
-
-prohibited_if_accepted
-
-</td><td width="50%">
-
-The :attribute field is prohibited when :other is accepted.
-
-</td></tr>
-<tr><td width="50%">
-
-prohibited_if_declined
-
-</td><td width="50%">
-
-The :attribute field is prohibited when :other is declined.
-
-</td></tr>
-<tr><td width="50%">
-
-prohibited_unless
-
-</td><td width="50%">
-
-The :attribute field is prohibited unless :other is in :values.
-
-</td></tr>
-<tr><td width="50%">
-
-prohibits
-
-</td><td width="50%">
-
-The :attribute field prohibits :other from being present.
-
-</td></tr>
-<tr><td width="50%">
-
-regex
-
-</td><td width="50%">
-
-The :attribute field format is invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-relatable
-
-</td><td width="50%">
-
-This :attribute may not be associated with this resource.
-
-</td></tr>
-<tr><td width="50%">
-
-required
-
-</td><td width="50%">
-
-The :attribute field is required.
-
-</td></tr>
-<tr><td width="50%">
-
-required_array_keys
-
-</td><td width="50%">
-
-The :attribute field must contain entries for: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-required_if
-
-</td><td width="50%">
-
-The :attribute field is required when :other is :value.
-
-</td></tr>
-<tr><td width="50%">
-
-required_if_accepted
-
-</td><td width="50%">
-
-The :attribute field is required when :other is accepted.
-
-</td></tr>
-<tr><td width="50%">
-
-required_if_declined
-
-</td><td width="50%">
-
-The :attribute field is required when :other is declined.
-
-</td></tr>
-<tr><td width="50%">
-
-required_unless
-
-</td><td width="50%">
-
-The :attribute field is required unless :other is in :values.
-
-</td></tr>
-<tr><td width="50%">
-
-required_with
-
-</td><td width="50%">
-
-The :attribute field is required when :values is present.
-
-</td></tr>
-<tr><td width="50%">
-
-required_with_all
-
-</td><td width="50%">
-
-The :attribute field is required when :values are present.
-
-</td></tr>
-<tr><td width="50%">
-
-required_without
-
-</td><td width="50%">
-
-The :attribute field is required when :values is not present.
-
-</td></tr>
-<tr><td width="50%">
-
-required_without_all
-
-</td><td width="50%">
-
-The :attribute field is required when none of :values are present.
-
-</td></tr>
-<tr><td width="50%">
-
-reset
-
-</td><td width="50%">
-
-Your password has been reset.
-
-</td></tr>
-<tr><td width="50%">
-
-same
-
-</td><td width="50%">
-
-The :attribute field must match :other.
-
-</td></tr>
-<tr><td width="50%">
-
-sent
-
-</td><td width="50%">
-
-We have emailed your password reset link.
-
-</td></tr>
-<tr><td width="50%">
-
-size.array
-
-</td><td width="50%">
-
-The :attribute field must contain :size items.
-
-</td></tr>
-<tr><td width="50%">
-
-size.file
-
-</td><td width="50%">
-
-The :attribute field must be :size kilobytes.
-
-</td></tr>
-<tr><td width="50%">
-
-size.numeric
-
-</td><td width="50%">
-
-The :attribute field must be :size.
-
-</td></tr>
-<tr><td width="50%">
-
-size.string
-
-</td><td width="50%">
-
-The :attribute field must be :size characters.
-
-</td></tr>
-<tr><td width="50%">
-
-starts_with
-
-</td><td width="50%">
-
-The :attribute field must start with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-string
-
-</td><td width="50%">
-
-The :attribute field must be a string.
-
-</td></tr>
-<tr><td width="50%">
-
-throttle
-
-</td><td width="50%">
-
-Too many login attempts. Please try again in :seconds seconds.
-
-</td></tr>
-<tr><td width="50%">
-
-throttled
-
-</td><td width="50%">
-
-Please wait before retrying.
-
-</td></tr>
-<tr><td width="50%">
-
-timezone
-
-</td><td width="50%">
-
-The :attribute field must be a valid timezone.
-
-</td></tr>
-<tr><td width="50%">
-
-token
-
-</td><td width="50%">
-
-This password reset token is invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-ulid
-
-</td><td width="50%">
-
-The :attribute field must be a valid ULID.
-
-</td></tr>
-<tr><td width="50%">
-
-unique
-
-</td><td width="50%">
-
-The :attribute has already been taken.
-
-</td></tr>
-<tr><td width="50%">
-
-uploaded
-
-</td><td width="50%">
-
-The :attribute failed to upload.
-
-</td></tr>
-<tr><td width="50%">
-
-uppercase
-
-</td><td width="50%">
-
-The :attribute field must be uppercase.
-
-</td></tr>
-<tr><td width="50%">
-
-url
-
-</td><td width="50%">
-
-The :attribute field must be a valid URL.
-
-</td></tr>
-<tr><td width="50%">
-
-user
-
-</td><td width="50%">
-
-We can't find a user with that email address.
-
-</td></tr>
-<tr><td width="50%">
-
-uuid
-
-</td><td width="50%">
-
-The :attribute field must be a valid UUID.
 
 </td></tr>
 </table>

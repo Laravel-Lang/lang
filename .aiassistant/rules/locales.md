@@ -22,13 +22,13 @@ apply: always
 - The contents of the `locales/cs` folder are always translated only into Czech.
 - The contents of the `locales/cy` folder are always translated only into Welsh.
 - The contents of the `locales/da` folder are always translated only into Danish.
-- The contents of the `locales/de` folder are always translated only into German.
 - The contents of the `locales/de_CH` folder are always translated only into German (Switzerland).
+- The contents of the `locales/de` folder are always translated only into German.
 - The contents of the `locales/doi` folder are always translated only into Dogri.
 - The contents of the `locales/ee` folder are always translated only into Ewe.
 - The contents of the `locales/el` folder are always translated only into Greek.
-- The contents of the `locales/en` folder are always translated only into English.
 - The contents of the `locales/en_CA` folder are always translated only into English (Canada).
+- The contents of the `locales/en` folder are always translated only into English.
 - The contents of the `locales/eo` folder are always translated only into Esperanto.
 - The contents of the `locales/es` folder are always translated only into Spanish.
 - The contents of the `locales/et` folder are always translated only into Estonian.
@@ -47,6 +47,7 @@ apply: always
 - The contents of the `locales/he` folder are always translated only into Hebrew.
 - The contents of the `locales/hi` folder are always translated only into Hindi.
 - The contents of the `locales/hr` folder are always translated only into Croatian.
+- The contents of the `locales/ht` folder are always translated only into Haitian Creole.
 - The contents of the `locales/hu` folder are always translated only into Hungarian.
 - The contents of the `locales/hy` folder are always translated only into Armenian.
 - The contents of the `locales/id` folder are always translated only into Indonesian.
@@ -88,8 +89,8 @@ apply: always
 - The contents of the `locales/pa` folder are always translated only into Punjabi.
 - The contents of the `locales/pl` folder are always translated only into Polish.
 - The contents of the `locales/ps` folder are always translated only into Pashto.
-- The contents of the `locales/pt` folder are always translated only into Portuguese.
 - The contents of the `locales/pt_BR` folder are always translated only into Portuguese (Brazil).
+- The contents of the `locales/pt` folder are always translated only into Portuguese.
 - The contents of the `locales/qu` folder are always translated only into Quechua.
 - The contents of the `locales/ro` folder are always translated only into Romanian.
 - The contents of the `locales/ru` folder are always translated only into Russian.
@@ -104,8 +105,8 @@ apply: always
 - The contents of the `locales/so` folder are always translated only into Somali.
 - The contents of the `locales/sq` folder are always translated only into Albanian.
 - The contents of the `locales/sr_Cyrl` folder are always translated only into Serbian.
-- The contents of the `locales/sr_Latn` folder are always translated only into Serbian.
 - The contents of the `locales/sr_Latn_ME` folder are always translated only into Serbian (Montenegro).
+- The contents of the `locales/sr_Latn` folder are always translated only into Serbian.
 - The contents of the `locales/su` folder are always translated only into Sundanese.
 - The contents of the `locales/sv` folder are always translated only into Swedish.
 - The contents of the `locales/sw` folder are always translated only into Swahili.

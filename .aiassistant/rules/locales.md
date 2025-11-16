@@ -121,8 +121,8 @@ apply: always
 - The contents of the `locales/ug` folder are always translated only into Uyghur.
 - The contents of the `locales/uk` folder are always translated only into Ukrainian.
 - The contents of the `locales/ur` folder are always translated only into Urdu.
-- The contents of the `locales/uz_Cyrl` folder are always translated only into Uzbek.
-- The contents of the `locales/uz_Latn` folder are always translated only into Uzbek.
+- The contents of the `locales/uz_Cyrl` folder are always translated only into Uzbek (Cyrillic).
+- The contents of the `locales/uz_Latn` folder are always translated only into Uzbek (Latin).
 - The contents of the `locales/vi` folder are always translated only into Vietnamese.
 - The contents of the `locales/xh` folder are always translated only into Xhosa.
 - The contents of the `locales/yi` folder are always translated only into Yiddish.

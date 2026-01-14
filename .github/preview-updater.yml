@@ -1,0 +1,9 @@
+image:
+  parameters:
+    icon: 'https://laravel.com/img/logomark.min.svg'
+
+    title: 'Laravel Localizations'
+    description: 'by Laravel Lang'
+
+    packageManager: 'composer'
+    packageName: 'laravel-lang/lang --dev'

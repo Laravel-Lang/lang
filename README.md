@@ -1,8 +1,8 @@
 # Laravel Localizations
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://banners.beyondco.de/Laravel%20Localizations.png?theme=dark&pattern=topography&style=style_2&fontSize=100px&images=https%3A%2F%2Flaravel.com%2Fimg%2Flogomark.min.svg&packageManager=composer+require&packageName=laravel-lang%2Flang+--dev&description=by+Laravel+Lang">
-    <img src="https://banners.beyondco.de/Laravel%20Localizations.png?theme=light&pattern=topography&style=style_2&fontSize=100px&images=https%3A%2F%2Flaravel.com%2Fimg%2Flogomark.min.svg&packageManager=composer+require&packageName=laravel-lang%2Flang+--dev&description=by+Laravel+Lang" alt="Laravel Localizations">
+    <source media="(prefers-color-scheme: dark)" srcset="https://banners.beyondco.de/Laravel%20Localizations.png?theme=dark&pattern=topography&style=style_2&fontSize=100px&images=https%3A%2F%2Flaravel.com%2Fimg%2Flogomark.min.svg&packageManager=composer+require+--dev&packageName=laravel-lang%2Flang&description=by+Laravel+Lang&md=1&showWatermark=1">
+    <img src="https://banners.beyondco.de/Laravel%20Localizations.png?theme=light&pattern=topography&style=style_2&fontSize=100px&images=https%3A%2F%2Flaravel.com%2Fimg%2Flogomark.min.svg&packageManager=composer+require+--dev&packageName=laravel-lang%2Flang&description=by+Laravel+Lang&md=1&showWatermark=1" alt="Laravel Localizations">
 </picture>
 
 [![Stable Version][badge_stable]][link_packagist]

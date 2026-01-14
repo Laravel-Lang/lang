@@ -16,7 +16,11 @@
             "!package.json",
             "!package-lock.json",
             "!**/analytics.*",
-            "!**/metrics.*"
+            "!**/metrics.*",
+            "!coverage",
+            "!dist",
+            "!build",
+            "!public"
         ]
     },
     "formatter": {

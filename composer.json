@@ -18,6 +18,16 @@
         "issues": "https://github.com/Laravel-Lang/lang/issues",
         "source": "https://github.com/Laravel-Lang/lang"
     },
+    "funding": [
+        {
+            "type": "boosty",
+            "url": "https://boosty.to/dragon-code"
+        },
+        {
+            "type": "yoomoney",
+            "url": "https://yoomoney.ru/to/410012608840929"
+        }
+    ],
     "require": {
         "php": "^8.2",
         "ext-json": "*",

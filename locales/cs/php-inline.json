@@ -109,7 +109,7 @@
     "prohibited_unless": "Toto pole je zakázáno, pokud :other není v :values.",
     "prohibits": "Toto pole zakazuje :other býti přítomno.",
     "regex": "Tento formát je neplatný.",
-    "relatable": "Toto pole nemusí být spojeno s tímto zdrojem.",
+    "relatable": "Toto pole nemusí být spojeno s touto položkou.",
     "required": "Toto pole je nutné.",
     "required_array_keys": "Toto pole musí obsahovat následující: :values.",
     "required_if": "Toto pole je vyžadováno, když je :other :value.",

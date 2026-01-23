@@ -70,7 +70,7 @@ editLink: false
 
 </td><td width="12%">
 
-[cs&nbsp;✔](statuses/cs.md)
+[cs&nbsp;❗](statuses/cs.md)
 
 </td></tr>
 <tr><td width="12%">

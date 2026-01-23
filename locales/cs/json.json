@@ -734,7 +734,7 @@
     "This invoice is no longer open.": "Tato faktura již není otevřená.",
     "This is a secure area of the application. Please confirm your password before continuing.": "Jedná se o bezpečnou oblast aplikace. Před pokračováním potvrďte své heslo.",
     "This password does not match our records.": "Toto heslo neodpovídá našim záznamům.",
-    "This password reset link will expire in :count minutes.": "Platnost resetovacího odkazu je limitována v minutách (:count min).",
+    "This password reset link will expire in :count minutes.": "Tento odkaz pro obnovení hesla vyprší za :count minut.",
     "This payment was initiated, but the funds have not been received yet. This can take up to 14 days.": "Tato platba byla zahájena, ale prostředky ještě nebyly přijaty. To může trvat až 14 dní.",
     "This resource no longer exists": "Taková položka neexistuje",
     "This subscription has expired and cannot be resumed. Please create a new subscription.": "Toto předplatné vypršelo a nelze jej obnovit. Vytvořte prosím nové předplatné.",

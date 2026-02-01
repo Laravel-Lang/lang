@@ -433,7 +433,7 @@ editLink: false
 
 </td><td width="12%">
 
-[su&nbsp;✔](statuses/su.md)
+[su&nbsp;❗](statuses/su.md)
 
 </td></tr>
 <tr><td width="12%">

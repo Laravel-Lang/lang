@@ -4,12 +4,12 @@ editLink: false
 
 # yo
 
-##### All missed: 88
+##### All missed: 89
 
 
 ### json
 
-##### Missing: 88
+##### Missing: 89
 
 <table width="100%">
 <tr><th width="50%">
@@ -136,6 +136,15 @@ Brazil
 </td><td width="50%">
 
 Brazil
+
+</td></tr>
+<tr><td width="50%">
+
+Burkina Faso
+
+</td><td width="50%">
+
+Burkina Faso
 
 </td></tr>
 <tr><td width="50%">

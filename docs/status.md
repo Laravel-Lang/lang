@@ -169,7 +169,7 @@ editLink: false
 
 </td><td width="12%">
 
-[haw&nbsp;✔](statuses/haw.md)
+[haw&nbsp;❗](statuses/haw.md)
 
 </td></tr>
 <tr><td width="12%">

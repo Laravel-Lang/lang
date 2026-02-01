@@ -202,7 +202,7 @@ editLink: false
 
 </td><td width="12%">
 
-[ig&nbsp;✔](statuses/ig.md)
+[ig&nbsp;❗](statuses/ig.md)
 
 </td></tr>
 <tr><td width="12%">

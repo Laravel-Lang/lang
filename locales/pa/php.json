@@ -37,6 +37,7 @@
     "doesnt_end_with": ":attribute ਖੇਤਰ ਨੂੰ ਇਹਨਾਂ ਵਿੱਚੋਂ ਇੱਕ ਨਾਲ ਖਤਮ ਨਹੀਂ ਹੋਣਾ ਚਾਹੀਦਾ: :values.",
     "doesnt_start_with": ":attribute ਖੇਤਰ ਨੂੰ ਇਹਨਾਂ ਵਿੱਚੋਂ ਇੱਕ ਨਾਲ ਸ਼ੁਰੂ ਨਹੀਂ ਕਰਨਾ ਚਾਹੀਦਾ: :values.",
     "email": ":attribute ਇੱਕ ਵੈਧ ਈਮੇਲ ਪਤਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।",
+    "encoding": "The :attribute field must be encoded in :encoding.",
     "ends_with": ":attribute ਦਾ ਅੰਤ ਇਹਨਾਂ ਵਿੱਚੋਂ ਇੱਕ ਨਾਲ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ: :values।",
     "enum": "ਚੁਣਿਆ ਗਿਆ :attribute ਅਵੈਧ ਹੈ।",
     "exists": "ਚੁਣਿਆ ਗਿਆ :attribute ਅਵੈਧ ਹੈ।",

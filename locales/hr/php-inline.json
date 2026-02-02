@@ -36,6 +36,7 @@
     "doesnt_end_with": "Ovo polje ne smije završavati s jednom od sljedećih vrijednosti: :values.",
     "doesnt_start_with": "Ovo polje ne smije započinjati s jednom od sljedećih vrijednosti: :values.",
     "email": "Ovo polje mora sadržavati valjanu e-mail adresu.",
+    "encoding": "This field must be encoded in :encoding.",
     "ends_with": "Ovo polje mora završavati s jednom od sljedećih vrijednosti: :values.",
     "enum": "Odabrana vrijednost nije važeća.",
     "exists": "Odabrana vrijednost nije važeća.",

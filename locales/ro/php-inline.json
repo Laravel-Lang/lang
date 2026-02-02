@@ -36,6 +36,7 @@
     "doesnt_end_with": "Este posibil ca acest câmp să nu se termine cu una dintre următoarele valori: :values.",
     "doesnt_start_with": "Este posibil ca acest câmp să nu înceapă cu una dintre următoarele valori: :values.",
     "email": "Aceasta trebuie să fie o adresă de e-mail validă.",
+    "encoding": "This field must be encoded in :encoding.",
     "ends_with": "Aceasta trebuie să se încheie cu una dintre următoarele: :values.",
     "enum": "Valoarea selectată este nevalidă.",
     "exists": "Valoarea selectată este nevalidă.",

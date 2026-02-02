@@ -37,6 +37,7 @@
     "doesnt_end_with": ":Attribute aşakdakylaryň biri bilen gutarman biler: :values.",
     "doesnt_start_with": ":Attribute aşakdakylardan biri bilen başlamazlygy mümkin: :values.",
     "email": ":Attribute formaty ýalňyş.",
+    "encoding": "The :attribute field must be encoded in :encoding.",
     "ends_with": ":Attribute aşakdakylaryň biri bilen gutarmaly: :values.",
     "enum": "Saýlanan :attribute nädogry.",
     "exists": "Saýlanan :attribute ýalňyş.",

@@ -37,6 +37,7 @@
     "doesnt_end_with": "Το :attribute δεν μπορεί να τελειώνει με ένα από τα ακόλουθα: :values.",
     "doesnt_start_with": "Το :attribute δεν μπορεί να ξεκινά με ένα από τα ακόλουθα: :values.",
     "email": "Το πεδίο :attribute πρέπει να είναι μία έγκυρη διεύθυνση email.",
+    "encoding": "The :attribute field must be encoded in :encoding.",
     "ends_with": "Το πεδίο :attribute πρέπει να τελειώνει με ένα από τα παρακάτω: :values.",
     "enum": "Το επιλεγμένο :attribute δεν είναι έγκυρο.",
     "exists": "Το επιλεγμένο :attribute δεν είναι έγκυρο.",

@@ -37,6 +37,7 @@
     "doesnt_end_with": ":attribute فيلڊ کي ھيٺين مان ھڪڙي سان ختم نه ٿيڻ گھرجي: :values.",
     "doesnt_start_with": ":attribute فيلڊ ھيٺين مان ھڪڙي سان شروع نه ٿيڻ گھرجي: :values.",
     "email": ":attribute هڪ صحيح اي ميل پتو هجڻ گهرجي.",
+    "encoding": "The :attribute field must be encoded in :encoding.",
     "ends_with": ":attribute کي ھيٺين مان ھڪڙي سان ختم ٿيڻ گھرجي: :values.",
     "enum": "منتخب ٿيل :attribute غلط آهي.",
     "exists": "منتخب ٿيل :attribute غلط آهي.",

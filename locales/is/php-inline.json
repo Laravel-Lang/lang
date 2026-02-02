@@ -36,6 +36,7 @@
     "doesnt_end_with": "Þessi reitur má ekki enda á einu af eftirfarandi: :values.",
     "doesnt_start_with": "Þessi reitur má ekki byrja á einu af eftirfarandi: :values.",
     "email": "Þetta hlýtur að vera gild netfangið.",
+    "encoding": "This field must be encoded in :encoding.",
     "ends_with": "Þetta verður að enda með eftirfarandi: :values.",
     "enum": "Valið gildi er ekki á lista yfir leyfð gildi.",
     "exists": "Valið gildi er ógilt.",

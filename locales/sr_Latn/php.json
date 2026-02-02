@@ -37,6 +37,7 @@
     "doesnt_end_with": "Polje :attribute ne sme da se završava nekim od sledećeg: :values.",
     "doesnt_start_with": "Polje :attribute ne sme da počinje nekim od sledećeg: :values.",
     "email": "Format polja :attribute nije validan.",
+    "encoding": "The :attribute field must be encoded in :encoding.",
     "ends_with": "Polje :attribute mora da se završi sa nečim od sledećeg: :values.",
     "enum": "Vrednost polja :attribute nije u listi dozvoljenih vrednosti.",
     "exists": "Odabrano polje :attribute nije validno.",

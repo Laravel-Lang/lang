@@ -37,6 +37,7 @@
     "doesnt_end_with": "Widang :attribute teu kedah ditungtungan ku salah sahiji ieu: :values.",
     "doesnt_start_with": "Widang :attribute teu kedah dimimitian ku salah sahiji ieu: :values.",
     "email": ":attribute kedah janten alamat email anu sah.",
+    "encoding": "The :attribute field must be encoded in :encoding.",
     "ends_with": ":attribute kedah ditungtungan ku salah sahiji ieu: :values.",
     "enum": ":attribute nu dipilih teu valid.",
     "exists": ":attribute nu dipilih teu valid.",

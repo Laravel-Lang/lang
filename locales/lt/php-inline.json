@@ -36,6 +36,7 @@
     "doesnt_end_with": "Šis laukas negali baigtis vienu iš šių žodžių: :values.",
     "doesnt_start_with": "Šis laukas negali prasidėti vienu iš šių žodžių: :values.",
     "email": "Šio lauko reikšmė turi būti galiojantis el. pašto adresas.",
+    "encoding": "This field must be encoded in :encoding.",
     "ends_with": "Šis laukas turi baigtis vienu iš: :values",
     "enum": "Pasirinkta reikšmė negaliojanti.",
     "exists": "Šio lauko reikšmė negalioja.",

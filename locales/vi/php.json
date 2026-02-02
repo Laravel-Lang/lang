@@ -37,6 +37,7 @@
     "doesnt_end_with": "Trường :attribute không được kết thúc bằng một trong những điều kiện sau: :values.",
     "doesnt_start_with": "Trường :attribute không được bắt đầu bằng một trong những điều sau: :values.",
     "email": "Trường :attribute phải là một địa chỉ email hợp lệ.",
+    "encoding": "The :attribute field must be encoded in :encoding.",
     "ends_with": "Trường :attribute phải kết thúc bằng một trong những giá trị sau: :values",
     "enum": "Giá trị đã chọn trong trường :attribute không hợp lệ.",
     "exists": "Giá trị đã chọn trong trường :attribute không hợp lệ.",

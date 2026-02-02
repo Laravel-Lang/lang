@@ -36,6 +36,7 @@
     "doesnt_end_with": "Iyi ndima haifanirwe kupera neimwe yezvinotevera: :values.",
     "doesnt_start_with": "Iyi ndima haifanirwe kutanga neimwe yezvinotevera: :values.",
     "email": "Iyi ndima inofanira kunge iri kero yeemail inoshanda.",
+    "encoding": "This field must be encoded in :encoding.",
     "ends_with": "Munda uyu unofanira kupera nechimwe chezvinotevera: :values.",
     "enum": "Nzvimbo yakasarudzwa haisi iyo.",
     "exists": "Nzvimbo yakasarudzwa haisi iyo.",

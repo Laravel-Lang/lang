@@ -36,6 +36,7 @@
     "doesnt_end_with": "Okun náà kò gbọ́dọ̀ parí pẹ̀lú ọ̀kan nínú wọ̀nyí: :values.",
     "doesnt_start_with": "Okun náà kò gbọ́dọ̀ bẹ̀rẹ̀ pẹ̀lú ọ̀kan nínú wọ̀nyí: :values.",
     "email": "Iye náà gbọ́dọ̀ jẹ́ adirẹ́sì imeeli to wulo.",
+    "encoding": "This field must be encoded in :encoding.",
     "ends_with": "Okun náà gbọ́dọ̀ parí pẹ̀lú ọ̀kan nínú wọ̀nyí: :values.",
     "enum": "Iye tí a yàn kò wulo.",
     "exists": "Iye tí a yàn kò wulo.",

@@ -37,6 +37,7 @@
     "doesnt_end_with": "Il-qasam :attribute m'għandux jispiċċa b'wieħed minn dawn li ġejjin: :values.",
     "doesnt_start_with": "Il-qasam :attribute m'għandux jibda b'wieħed minn dawn li ġejjin: :values.",
     "email": "L-:attribute għandhom ikunu indirizz elettroniku validu.",
+    "encoding": "The :attribute field must be encoded in :encoding.",
     "ends_with": "L-:attribute għandhom jispiċċaw b'wieħed minn dawn li ġejjin: :values.",
     "enum": "L-:attribute magħżula hija invalida.",
     "exists": "L-:attribute magħżula hija invalida.",

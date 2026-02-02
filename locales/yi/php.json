@@ -37,6 +37,7 @@
     "doesnt_end_with": "די :attribute פעלד מוזן נישט סוף מיט איינער פון די פאלגענדע: :values.",
     "doesnt_start_with": "די :attribute פעלד מוזן נישט אָנהייבן מיט איינער פון די פאלגענדע: :values.",
     "email": "די :attribute מוזן זיין אַ גילטיק בליצפּאָסט אַדרעס.",
+    "encoding": "The :attribute field must be encoded in :encoding.",
     "ends_with": "די :attribute מוזן ענדיקן מיט איינער פון די פאלגענדע: :values.",
     "enum": "די אויסגעקליבן :attribute איז פאַרקריפּלט.",
     "exists": "די אויסגעקליבן :attribute איז פאַרקריפּלט.",

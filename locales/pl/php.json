@@ -37,6 +37,7 @@
     "doesnt_end_with": "Pole :attribute nie może kończyć się jedną z następujących wartości: :values.",
     "doesnt_start_with": "Pole :attribute nie może zaczynać się od jednego z następujących wartości: :values.",
     "email": "Pole :attribute nie jest poprawnym adresem e-mail.",
+    "encoding": "The :attribute field must be encoded in :encoding.",
     "ends_with": "Pole :attribute musi kończyć się jedną z następujących wartości: :values.",
     "enum": "Pole :attribute ma niepoprawną wartość.",
     "exists": "Zaznaczone pole :attribute jest nieprawidłowe.",

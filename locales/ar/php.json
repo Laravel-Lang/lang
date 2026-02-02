@@ -37,6 +37,7 @@
     "doesnt_end_with": "الحقل :attribute يجب ألّا ينتهي بأحد القيم التالية: :values.",
     "doesnt_start_with": "الحقل :attribute يجب ألّا يبدأ بأحد القيم التالية: :values.",
     "email": "يجب أن يكون حقل :attribute عنوان بريد إلكتروني صحيح البُنية.",
+    "encoding": "The :attribute field must be encoded in :encoding.",
     "ends_with": "يجب أن ينتهي حقل :attribute بأحد القيم التالية: :values",
     "enum": "قيمة حقل :attribute غير موجودة في قائمة القيم المسموح بها.",
     "exists": "قيمة الحقل :attribute غير موجودة.",

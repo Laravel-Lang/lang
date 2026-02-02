@@ -37,6 +37,7 @@
     "doesnt_end_with": ":Attribute-ката не може да завршува со едно од следниве: :values.",
     "doesnt_start_with": ":Attribute не смее да започнува со едно од следниве: :values.",
     "email": "Полето :attribute не е во валиден формат.",
+    "encoding": "The :attribute field must be encoded in :encoding.",
     "ends_with": "Полето :attribute мора да завршува со една од следните вредности: :values.",
     "enum": "Избраните :attribute се неважечки.",
     "exists": "Полето :attribute има вредност која веќе постои.",

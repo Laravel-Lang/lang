@@ -4,12 +4,12 @@ editLink: false
 
 # zh_HK
 
-##### All missed: 19
+##### All missed: 23
 
 
 ### json
 
-##### Missing: 19
+##### Missing: 21
 
 <table width="100%">
 <tr><th width="50%">
@@ -131,6 +131,15 @@ Please set a default payment method before retrying payments.
 </td></tr>
 <tr><td width="50%">
 
+Reset your password
+
+</td><td width="50%">
+
+Reset your password
+
+</td></tr>
+<tr><td width="50%">
+
 Secure Area
 
 </td><td width="50%">
@@ -185,11 +194,78 @@ Username
 </td></tr>
 <tr><td width="50%">
 
+Verify your email address
+
+</td><td width="50%">
+
+Verify your email address
+
+</td></tr>
+<tr><td width="50%">
+
 We will send an invoice download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
 
 </td><td width="50%">
 
 We will send an invoice download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php-inline
+
+##### Missing: 1
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+encoding
+
+</td><td width="50%">
+
+This field must be encoded in :encoding.
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php
+
+##### Missing: 1
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+encoding
+
+</td><td width="50%">
+
+The :attribute field must be encoded in :encoding.
 
 </td></tr>
 </table>

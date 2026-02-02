@@ -4,12 +4,12 @@ editLink: false
 
 # uz_Latn
 
-##### All missed: 50
+##### All missed: 54
 
 
 ### json
 
-##### Missing: 1
+##### Missing: 3
 
 <table width="100%">
 <tr><th width="50%">
@@ -30,6 +30,24 @@ Administrator users can perform any action.
 Administrator users can perform any action.
 
 </td></tr>
+<tr><td width="50%">
+
+Reset your password
+
+</td><td width="50%">
+
+Reset your password
+
+</td></tr>
+<tr><td width="50%">
+
+Verify your email address
+
+</td><td width="50%">
+
+Verify your email address
+
+</td></tr>
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
@@ -38,7 +56,7 @@ Administrator users can perform any action.
 
 ### php-inline
 
-##### Missing: 38
+##### Missing: 39
 
 <table width="100%">
 <tr><th width="50%">
@@ -129,6 +147,15 @@ doesnt_start_with
 </td><td width="50%">
 
 This field must not start with one of the following: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+encoding
+
+</td><td width="50%">
+
+This field must be encoded in :encoding.
 
 </td></tr>
 <tr><td width="50%">
@@ -400,7 +427,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 11
+##### Missing: 12
 
 <table width="100%">
 <tr><th width="50%">
@@ -412,6 +439,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+encoding
+
+</td><td width="50%">
+
+The :attribute field must be encoded in :encoding.
+
+</td></tr>
 <tr><td width="50%">
 
 password.uncompromised

@@ -37,6 +37,7 @@
     "doesnt_end_with": "مقدار :attribute نباید با این مقادیر تمام شود : :values.",
     "doesnt_start_with": "مقدار :attribute نباید با این مقادیر شروع شود : :values.",
     "email": ":Attribute باید یک ایمیل معتبر باشد.",
+    "encoding": "The :attribute field must be encoded in :encoding.",
     "ends_with": "فیلد :attribute باید با یکی از مقادیر زیر خاتمه یابد: :values",
     "enum": ":Attribute انتخاب شده اشتباه است.",
     "exists": ":Attribute انتخاب شده، معتبر نیست.",

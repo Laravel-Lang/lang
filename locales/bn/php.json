@@ -37,6 +37,7 @@
     "doesnt_end_with": ":Attribute নিম্নলিখিত: :values এর একটি দিয়ে শেষ নাও হতে পারে।",
     "doesnt_start_with": ":Attribute :values এর একটি দিয়ে শুরু হতে পারে না।",
     "email": ":Attribute একটি বৈধ ইমেইল ঠিকানা হতে হবে।",
+    "encoding": "The :attribute field must be encoded in :encoding.",
     "ends_with": ":Attribute নিম্নলিখিত এক সঙ্গে শেষ করতে হবে: :values।",
     "enum": "নির্বাচিত :attribute অবৈধ।",
     "exists": "নির্বাচিত :attribute টি অবৈধ।",

@@ -36,6 +36,7 @@
     "doesnt_end_with": "Esengeli te ete esika oyo esila na moko ya makambo oyo elandi: :values.",
     "doesnt_start_with": "Esengeli te ete esika oyo ebanda na moko ya makambo oyo elandi: :values.",
     "email": "Esika oyo esengeli kozala adresse email ya malamu.",
+    "encoding": "This field must be encoded in :encoding.",
     "ends_with": "Esengeli ete esika oyo esila na moko ya makambo oyo elandi: :values.",
     "enum": "Esika oyo oponi ezali na ntina te.",
     "exists": "Esika oyo oponi ezali na ntina te.",

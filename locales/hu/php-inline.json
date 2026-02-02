@@ -36,6 +36,7 @@
     "doesnt_end_with": "Ez a mező nem végződhet ezekkel az értékekkel: :values.",
     "doesnt_start_with": "Ez a mező nem kezdődhet ezekkel az értékekkel: :values.",
     "email": "Ennek érvényes e-mail címnek kell lennie.",
+    "encoding": "This field must be encoded in :encoding.",
     "ends_with": "Ennek az alábbiak egyikével kell végződnie: :values.",
     "enum": "A kiválasztott érték érvénytelen.",
     "exists": "A kiválasztott érték érvénytelen.",

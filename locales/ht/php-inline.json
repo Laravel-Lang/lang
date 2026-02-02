@@ -36,6 +36,7 @@
     "doesnt_end_with": "Chan sa a pa dwe fini ak youn nan sa ki annapre yo: :values.",
     "doesnt_start_with": "Chan sa a pa dwe kòmanse ak youn nan sa ki annapre yo: :values.",
     "email": "Chan sa a dwe yon adrès imèl valab.",
+    "encoding": "This field must be encoded in :encoding.",
     "ends_with": "Chan sa a dwe fini ak youn nan sa ki annapre yo: :values.",
     "enum": "Chan chwazi a pa valab.",
     "exists": "Chan chwazi a pa valab.",

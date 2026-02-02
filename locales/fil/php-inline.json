@@ -36,6 +36,7 @@
     "doesnt_end_with": "Maaaring hindi magtapos ang field na ito sa isa sa mga sumusunod: :values.",
     "doesnt_start_with": "Maaaring hindi magsimula ang field na ito sa isa sa mga sumusunod: :values.",
     "email": "Dapat na wastong email address ito.",
+    "encoding": "This field must be encoded in :encoding.",
     "ends_with": "Dapat itong magtapos sa isa sa mga sumusunod: :values.",
     "enum": "Ang napiling halaga ay hindi kabilang sa mga pinahihintulutang halaga.",
     "exists": "Ang napiling halaga ay hindi umiiral.",

@@ -37,6 +37,7 @@
     "doesnt_end_with": ":Attribute درج ذیل میں سے کسی ایک پر ختم نہیں ہو سکتا: :values۔",
     "doesnt_start_with": ":Attribute درج ذیل میں سے کسی ایک سے شروع نہیں ہو سکتا: :values۔",
     "email": ":Attribute لازماً قابلِ قبول ای میل ہو۔",
+    "encoding": "The :attribute field must be encoded in :encoding.",
     "ends_with": "اس :attribute ختم کرنا ضروری ہے کے ساتھ مندرجہ ذیل میں سے ایک: :values.",
     "enum": "منتخب کردہ :attribute غلط ہے۔",
     "exists": "منتخب :attribute درست نہیں ہے۔",

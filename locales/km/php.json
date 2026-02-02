@@ -37,6 +37,7 @@
     "doesnt_end_with": ":Attribute ប្រហែលជាមិនបញ្ចប់ដោយមួយក្នុងចំណោមដូចខាងក្រោម: :values ។",
     "doesnt_start_with": ":Attribute ប្រហែលជាមិនចាប់ផ្តើមជាមួយមួយក្នុងចំណោមដូចខាងក្រោម: :values ។",
     "email": ":Attribute ទម្រង់នេះមិនត្រឹមត្រូវ។",
+    "encoding": "The :attribute field must be encoded in :encoding.",
     "ends_with": ":Attribute ត្រូវបញ្ចប់ដោយពាក្យមួយក្នុងចំណោម :values។",
     "enum": ":Attribute ដែលបានជ្រើសរើសមិនត្រឹមត្រូវទេ។",
     "exists": "ការជ្រើសរើស :attribute ត្រឹមត្រូវ។",

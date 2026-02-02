@@ -36,6 +36,7 @@
     "doesnt_end_with": "Hierdie veld mag nie eindig met een van die volgende nie: :values.",
     "doesnt_start_with": "Hierdie veld mag nie met een van die volgende begin nie: :values.",
     "email": "Dit moet 'n geldige e-posadres wees.",
+    "encoding": "This field must be encoded in :encoding.",
     "ends_with": "Dit moet eindig met een van die volgende: :values.",
     "enum": "Die geselekteerde waarde is nie in die lys van toegelate waardes nie.",
     "exists": "Die geselekteerde waarde is ongeldig.",

@@ -37,6 +37,7 @@
     "doesnt_end_with": ":attribute талаасы төмөнкүлөрдүн бири менен аяктабашы керек: :values.",
     "doesnt_start_with": ":attribute талаасы төмөнкүлөрдүн бири менен башталбашы керек: :values.",
     "email": ":attribute жарактуу электрондук почта дареги болушу керек.",
+    "encoding": "The :attribute field must be encoded in :encoding.",
     "ends_with": ":attribute төмөнкүлөрдүн бири менен аякташы керек: :values.",
     "enum": "Тандалган :attribute жараксыз.",
     "exists": "Тандалган :attribute жараксыз.",

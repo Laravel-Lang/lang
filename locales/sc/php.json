@@ -37,6 +37,7 @@
     "doesnt_end_with": ":Attribute no depet acabbare cun unu de custos: :values.",
     "doesnt_start_with": ":Attribute no depet cumintzare cun unu de custos: :values.",
     "email": ":Attribute no est bàlidu.",
+    "encoding": "The :attribute field must be encoded in :encoding.",
     "ends_with": ":Attribute depet acabbare cun unu de custos: :values.",
     "enum": "Su balore de su campu :attribute no est in sa lista de balores permìtidos.",
     "exists": ":Attribute seberadu/a no est bàlidu.",

@@ -37,6 +37,7 @@
     "doesnt_end_with": "La :attribute-kampo ne devas finiĝi per unu el la jenaj: :values.",
     "doesnt_start_with": "La :attribute-kampo ne devas komenciĝi per unu el la jenaj: :values.",
     "email": "La :attribute devas esti valida retadreso.",
+    "encoding": "The :attribute field must be encoded in :encoding.",
     "ends_with": "La :attribute devas finiĝi per unu el la jenaj: :values.",
     "enum": "La elektita :attribute estas malvalida.",
     "exists": "La elektita :attribute estas malvalida.",

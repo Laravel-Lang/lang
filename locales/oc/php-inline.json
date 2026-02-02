@@ -36,6 +36,7 @@
     "doesnt_end_with": "Aqueste camp deu pas acabar per una de las valors seguentas: :values.",
     "doesnt_start_with": "Aqueste camp deu pas començar per una de las valors seguentas: :values.",
     "email": "Aqueste camp deu èsser una adreça de corrièl valida.",
+    "encoding": "This field must be encoded in :encoding.",
     "ends_with": "Aqueste camp deu acabar per una de las valors seguentas : :values",
     "enum": "La valor seleccionada es pas dins la lista de las valors autorizadas.",
     "exists": "Aqueste camp seleccionat es invalid.",

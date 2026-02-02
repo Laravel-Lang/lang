@@ -37,6 +37,7 @@
     "doesnt_end_with": ":Attribute kan ikke slutte med en av følgende: :values.",
     "doesnt_start_with": ":Attribute kan ikke starte med en av følgende: :values.",
     "email": ":Attribute må være en gyldig e-postadresse.",
+    "encoding": "The :attribute field must be encoded in :encoding.",
     "ends_with": ":Attribute må ende med en av følgende: :values.",
     "enum": "Det valgte :attribute er ugyldig.",
     "exists": "Det valgte :attribute er ugyldig.",

@@ -36,6 +36,7 @@
     "doesnt_end_with": "ಈ ಕ್ಷೇತ್ರವು ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಒಂದಕ್ಕೆ ಕೊನೆಗೊಳ್ಳದಿರಬಹುದು: :values.",
     "doesnt_start_with": "ಈ ಕ್ಷೇತ್ರವು ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಒಂದರಿಂದ ಪ್ರಾರಂಭವಾಗಬಾರದು: :values.",
     "email": "ಈ must be a valid email address.",
+    "encoding": "This field must be encoded in :encoding.",
     "ends_with": "ಈ must end with one of the following: :values.",
     "enum": "The selected value is not in the list of allowed values.",
     "exists": "ಆಯ್ಕೆ value is invalid.",

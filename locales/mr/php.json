@@ -37,6 +37,7 @@
     "doesnt_end_with": ":Attribute खालीलपैकी एकाने संपू शकत नाही: :values.",
     "doesnt_start_with": ":Attribute खालीलपैकी एकाने सुरू होऊ शकत नाही: :values.",
     "email": ":Attribute एक वैध ईमेल पत्ता असणे आवश्यक आहे.",
+    "encoding": "The :attribute field must be encoded in :encoding.",
     "ends_with": ":Attribute खालील एक समाप्त करणे आवश्यक आहे: :values.",
     "enum": "निवडलेले :attribute अवैध आहे.",
     "exists": "निवडलेेलेे :attribute वैध नाही.",

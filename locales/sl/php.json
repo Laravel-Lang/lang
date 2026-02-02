@@ -37,6 +37,7 @@
     "doesnt_end_with": ":Attribute se ne sme končati z enim od naslednjih: :values.",
     "doesnt_start_with": ":Attribute se ne sme začeti z enim od naslednjih: :values.",
     "email": ":Attribute mora biti veljaven e-poštni naslov.",
+    "encoding": "The :attribute field must be encoded in :encoding.",
     "ends_with": ":Attribute se mora končati z eno od naslednjih vrednosti: :values.",
     "enum": "Izbranih :attribute ni veljavnih.",
     "exists": "Izbran :attribute je neveljaven.",

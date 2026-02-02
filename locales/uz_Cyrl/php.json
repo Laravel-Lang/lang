@@ -37,6 +37,7 @@
     "doesnt_end_with": ":Attribute қиймати қуйидагилардан бири билан тугамаслиги керак: :values.",
     "doesnt_start_with": ":Attribute қиймати қуйидагилардан бири билан бошланмаслиги керак: :values.",
     "email": ":Attribute ҳақиқий электрон почта манзили бўлиши керак.",
+    "encoding": "The :attribute field must be encoded in :encoding.",
     "ends_with": ":Attribute қуйидаги қийматларнинг бири билан тугаши керак: :values.",
     "enum": "Танланган :attribute яроқсиз.",
     "exists": ":Attribute учун танланган қиймат нотўғри.",

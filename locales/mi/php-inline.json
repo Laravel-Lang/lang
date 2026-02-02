@@ -36,6 +36,7 @@
     "doesnt_end_with": "Kaua e mutu tenei mara ki tetahi o enei e whai ake nei: :values.",
     "doesnt_start_with": "Kaua tenei mara e timata ki tetahi o enei e whai ake nei: :values.",
     "email": "Ko tenei mara he wahitau imeera whaimana.",
+    "encoding": "This field must be encoded in :encoding.",
     "ends_with": "Me mutu tenei mara ki tetahi o enei e whai ake nei: :values.",
     "enum": "He muhu te mara i tohua.",
     "exists": "He muhu te mara i tohua.",

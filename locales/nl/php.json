@@ -37,6 +37,7 @@
     "doesnt_end_with": ":Attribute mag niet eindigen met één van de volgende waarden: :values.",
     "doesnt_start_with": ":Attribute mag niet beginnen met één van de volgende waarden: :values.",
     "email": ":Attribute is geen geldig e-mailadres.",
+    "encoding": "The :attribute field must be encoded in :encoding.",
     "ends_with": ":Attribute moet met één van de volgende waarden eindigen: :values.",
     "enum": "Gekozen :attribute is ongeldig.",
     "exists": ":Attribute bestaat niet.",

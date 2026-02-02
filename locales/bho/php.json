@@ -37,6 +37,7 @@
     "doesnt_end_with": ":attribute फील्ड के अंत निम्नलिखित में से कवनो एक से ना होखे के चाहीं: :values.",
     "doesnt_start_with": ":attribute फील्ड के शुरुआत निम्नलिखित में से कवनो एक से ना होखे के चाहीं: :values.",
     "email": ":attribute गो के वैध ईमेल पता होखे के चाहीं.",
+    "encoding": "The :attribute field must be encoded in :encoding.",
     "ends_with": ":attribute के अंत निम्नलिखित में से कवनो एक से होखे के चाहीं: :values.",
     "enum": "चुनल गइल :attribute गो अमान्य बा.",
     "exists": "चुनल गइल :attribute गो अमान्य बा.",

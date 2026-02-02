@@ -37,6 +37,7 @@
     "doesnt_end_with": ":attribute кыр түбәндәгеләрнең берсе белән тәмамланырга тиеш түгел: :values.",
     "doesnt_start_with": ":attribute кыр түбәндәгеләрнең берсе белән башланырга тиеш түгел: :values.",
     "email": ":attribute дөрес электрон почта адресы булырга тиеш.",
+    "encoding": "The :attribute field must be encoded in :encoding.",
     "ends_with": ":attribute түбәндәгеләрнең берсе белән тәмамланырга тиеш: :values.",
     "enum": "Сайланган :attribute дөрес түгел.",
     "exists": "Сайланган :attribute дөрес түгел.",

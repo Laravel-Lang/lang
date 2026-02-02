@@ -37,6 +37,7 @@
     "doesnt_end_with": ":attribute फील्ड दा अंत निम्नलिखित च इक कन्नै नेईं होना चाहिदा: :values.",
     "doesnt_start_with": ":attribute फील्ड दी शुरुआत निम्नलिखित च इक कन्नै नेईं होनी चाहिदी: :values.",
     "email": ":attribute दा इक मान्य ईमेल पता होना चाहिदा ऐ।",
+    "encoding": "The :attribute field must be encoded in :encoding.",
     "ends_with": ":attribute दा अंत निम्नलिखित च इक कन्नै होना चाहिदा ऐ: :values.",
     "enum": "चयनित :attribute अमान्य ऐ।",
     "exists": "चयनित :attribute अमान्य ऐ।",

@@ -37,6 +37,7 @@
     "doesnt_end_with": "Ennimiro :attribute tesaana kukoma na kimu ku bino wammanga: :values.",
     "doesnt_start_with": "Ennimiro ya :attribute tesaana kutandika na kimu ku bino wammanga: :values.",
     "email": "Ezo :attribute zirina okuba nga zirina email entuufu.",
+    "encoding": "The :attribute field must be encoded in :encoding.",
     "ends_with": ":attribute zirina okuggwaako n’ekimu ku bino wammanga: :values.",
     "enum": ":attribute ezirondeddwa tezirina makulu.",
     "exists": ":attribute ezirondeddwa tezirina makulu.",

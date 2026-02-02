@@ -36,6 +36,7 @@
     "doesnt_end_with": "Ní fhéadfaidh an réimse seo críochnú le ceann amháin díobh seo a leanas: :values.",
     "doesnt_start_with": "Níor cheart go dtosódh an réimse seo le ceann amháin díobh seo a leanas: :values .",
     "email": "Ní mór seoladh ríomhphoist bailí a bheith sa réimse seo.",
+    "encoding": "This field must be encoded in :encoding.",
     "ends_with": "Caithfidh an réimse seo críochnú le ceann amháin díobh seo a leanas: :values .",
     "enum": "Tá an réimse roghnaithe neamhbhailí.",
     "exists": "Tá an réimse roghnaithe neamhbhailí.",

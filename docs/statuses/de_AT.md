@@ -4,7 +4,7 @@ editLink: false
 
 # de_AT
 
-##### All missed: 1156
+##### All missed: 1160
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 861
+##### Missing: 863
 
 <table width="100%">
 <tr><th width="50%">
@@ -5184,6 +5184,15 @@ Reset Password Notification
 </td></tr>
 <tr><td width="50%">
 
+Reset your password
+
+</td><td width="50%">
+
+Reset your password
+
+</td></tr>
+<tr><td width="50%">
+
 resource
 
 </td><td width="50%">
@@ -7371,6 +7380,15 @@ Verify Email Address
 </td></tr>
 <tr><td width="50%">
 
+Verify your email address
+
+</td><td width="50%">
+
+Verify your email address
+
+</td></tr>
+<tr><td width="50%">
+
 Verify Your Email Address
 
 </td><td width="50%">
@@ -7926,7 +7944,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 135
+##### Missing: 136
 
 <table width="100%">
 <tr><th width="50%">
@@ -8269,6 +8287,15 @@ email
 </td><td width="50%">
 
 This field must be a valid email address.
+
+</td></tr>
+<tr><td width="50%">
+
+encoding
+
+</td><td width="50%">
+
+This field must be encoded in :encoding.
 
 </td></tr>
 <tr><td width="50%">
@@ -9161,7 +9188,7 @@ This field must be a valid UUID.
 
 ### php
 
-##### Missing: 146
+##### Missing: 147
 
 <table width="100%">
 <tr><th width="50%">
@@ -9513,6 +9540,15 @@ email
 </td><td width="50%">
 
 The :attribute field must be a valid email address.
+
+</td></tr>
+<tr><td width="50%">
+
+encoding
+
+</td><td width="50%">
+
+The :attribute field must be encoded in :encoding.
 
 </td></tr>
 <tr><td width="50%">

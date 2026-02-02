@@ -37,7 +37,7 @@
     "doesnt_end_with": "Значение поля :attribute не должно заканчиваться одним из следующих: :values.",
     "doesnt_start_with": "Значение поля :attribute не должно начинаться с одного из следующих: :values.",
     "email": "Значение поля :attribute должно быть действительным электронным адресом.",
-    "encoding": "The :attribute field must be encoded in :encoding.",
+    "encoding": "Значение поля :attribute должно быть в кодировке :encoding.",
     "ends_with": "Значение поля :attribute должно заканчиваться одним из следующих: :values",
     "enum": "Значение поля :attribute отсутствует в списке разрешённых.",
     "exists": "Значение поля :attribute не существует.",

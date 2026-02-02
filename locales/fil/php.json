@@ -37,6 +37,7 @@
     "doesnt_end_with": "Ang :attribute ay maaaring hindi magtapos sa isa sa mga sumusunod: :values.",
     "doesnt_start_with": "Ang :attribute ay maaaring hindi magsimula sa isa sa mga sumusunod: :values.",
     "email": "Dapat na valid na email address ang :attribute.",
+    "encoding": "The :attribute field must be encoded in :encoding.",
     "ends_with": "Ang :attribute ay dapat magtapos sa isa sa mga sumusunod: :values.",
     "enum": "Ang napiling :attribute ay hindi wasto.",
     "exists": "Hindi valid ang piniling :attribute.",

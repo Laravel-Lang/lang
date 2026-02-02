@@ -37,6 +37,7 @@
     "doesnt_end_with": ":Attribute aşağıdakilerden biriyle bitemez: :values.",
     "doesnt_start_with": ":Attribute aşağıdakilerden biriyle başlamayabilir: :values.",
     "email": ":Attribute mutlaka geçerli bir e-posta adresi olmalıdır.",
+    "encoding": "The :attribute field must be encoded in :encoding.",
     "ends_with": ":Attribute sadece şu değerlerden biriyle bitebilir: :values.",
     "enum": "Seçilen :attribute değeri geçersiz.",
     "exists": "Seçili :attribute geçersiz.",

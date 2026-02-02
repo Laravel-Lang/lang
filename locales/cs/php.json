@@ -37,6 +37,7 @@
     "doesnt_end_with": ":Attribute nemusí končit jedním z následujících: :values.",
     "doesnt_start_with": "Číslo :attribute nemusí začínat jedním z následujících: :values.",
     "email": ":Attribute není platný formát.",
+    "encoding": "The :attribute field must be encoded in :encoding.",
     "ends_with": ":Attribute musí končit jednou z následujících hodnot: :values",
     "enum": "Vybraná :attribute je neplatná.",
     "exists": "Zvolená hodnota pro :attribute není platná.",

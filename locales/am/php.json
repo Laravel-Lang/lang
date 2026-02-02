@@ -37,6 +37,7 @@
     "doesnt_end_with": ":attribute ሜዳው ከሚከተሉት በአንዱ ማለቅ የለበትም፡ :values.",
     "doesnt_start_with": ":attribute ሜዳው ከሚከተሉት በአንዱ መጀመር የለበትም፡ :values.",
     "email": ":attribute ትክክለኛ የኢሜይል አድራሻ መሆን አለበት።",
+    "encoding": "The :attribute field must be encoded in :encoding.",
     "ends_with": ":attributeቱ ከሚከተሉት በአንዱ ማለቅ አለባቸው፡ :values.",
     "enum": "የተመረጠው :attribute ልክ ያልሆነ ነው።",
     "exists": "የተመረጠው :attribute ልክ ያልሆነ ነው።",

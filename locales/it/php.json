@@ -37,6 +37,7 @@
     "doesnt_end_with": ":Attribute non può terminare con uno dei seguenti valori: :values.",
     "doesnt_start_with": ":Attribute non può iniziare con uno dei seguenti valori: :values.",
     "email": ":Attribute non è valido.",
+    "encoding": "The :attribute field must be encoded in :encoding.",
     "ends_with": ":Attribute deve finire con uno dei seguenti valori: :values",
     "enum": "Il campo :attribute non è valido.",
     "exists": ":Attribute selezionato non è valido.",

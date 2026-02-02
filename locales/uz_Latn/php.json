@@ -37,6 +37,7 @@
     "doesnt_end_with": ":Attribute qiymati quyidagilardan biri bilan tugamasligi kerak: :values.",
     "doesnt_start_with": ":Attribute qiymati quyidagilardan biri bilan boshlanmasligi kerak: :values.",
     "email": ":Attribute haqiqiy elektron pochta manzili bo‘lishi kerak.",
+    "encoding": "The :attribute field must be encoded in :encoding.",
     "ends_with": ":Attribute quyidagi qiymatlarning biri bilan tugashi kerak: :values.",
     "enum": ":attribute maydoni qiymati ruxsat etilgan qiymatlar ro‘yxatida yo‘q.",
     "exists": ":Attribute uchun tanlangan qiymat noto‘g‘ri.",

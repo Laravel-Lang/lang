@@ -37,6 +37,7 @@
     "doesnt_end_with": ":attribute ଟି କ୍ଷେତ୍ର ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ ଗୋଟିଏ ସହିତ ଶେଷ ହେବା ଉଚିତ୍ ନୁହେଁ: :values |",
     "doesnt_start_with": ":attribute ଟି କ୍ଷେତ୍ର ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ ଗୋଟିଏ ସହିତ ଆରମ୍ଭ ହେବା ଉଚିତ୍ ନୁହେଁ: :values |",
     "email": ":attribute ଟି ଏକ ବ valid ଧ ଇମେଲ୍ ଠିକଣା ହେବା ଜରୁରୀ |",
+    "encoding": "The :attribute field must be encoded in :encoding.",
     "ends_with": ":attribute ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ ଗୋଟିଏ ସହିତ ଶେଷ ହେବା ଜରୁରୀ: :values",
     "enum": "ମନୋନୀତ :attribute ଅବ alid ଧ ଅଟେ |",
     "exists": "ମନୋନୀତ :attribute ଅବ alid ଧ ଅଟେ |",

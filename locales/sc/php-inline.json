@@ -36,6 +36,7 @@
     "doesnt_end_with": "Custu campu no depet acabbare cun unu de custos: :values.",
     "doesnt_start_with": "Custu campu no depet cumintzare cun unu de custos: :values.",
     "email": "Custu depet èssere un'indiritzu email bàlidu.",
+    "encoding": "This field must be encoded in :encoding.",
     "ends_with": "Custu depet acabbare cun unu de custos: :values.",
     "enum": "Su balore seberadu no est in sa lista de balores permìtidos.",
     "exists": "Su balore seberadu no esistet.",

@@ -36,6 +36,7 @@
     "doesnt_end_with": "Este campo não pode terminar com um dos seguintes valores: :values.",
     "doesnt_start_with": "Este campo não pode começar com um dos seguintes valores: :values.",
     "email": "Este deve ser um endereço de e-mail válido.",
+    "encoding": "This field must be encoded in :encoding.",
     "ends_with": "Este campo deve terminar com um dos seguintes valores :values.",
     "enum": "O valor selecionado é inválido.",
     "exists": "O valor selecionado é inválido.",

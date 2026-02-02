@@ -37,6 +37,7 @@
     "doesnt_end_with": ":attribute ພາກສະຫນາມຕ້ອງບໍ່ສິ້ນສຸດດ້ວຍຫນຶ່ງໃນດັ່ງຕໍ່ໄປນີ້: :values.",
     "doesnt_start_with": ":attribute ພາກສະຫນາມຕ້ອງບໍ່ເລີ່ມຕົ້ນດ້ວຍຫນຶ່ງໃນດັ່ງຕໍ່ໄປນີ້: :values.",
     "email": ":attribute ຕ້ອງເປັນທີ່ຢູ່ອີເມວທີ່ຖືກຕ້ອງ.",
+    "encoding": "The :attribute field must be encoded in :encoding.",
     "ends_with": ":attribute ຕ້ອງຈົບລົງດ້ວຍອັນໜຶ່ງຕໍ່ໄປນີ້: :values.",
     "enum": ":attribute ທີ່ເລືອກບໍ່ຖືກຕ້ອງ.",
     "exists": ":attribute ທີ່ເລືອກບໍ່ຖືກຕ້ອງ.",

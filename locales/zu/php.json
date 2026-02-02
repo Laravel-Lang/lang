@@ -37,6 +37,7 @@
     "doesnt_end_with": "Inkundla ye-:attribute akumele igcine ngokukodwa kwalokhu okulandelayo: :values.",
     "doesnt_start_with": "Inkundla ye-:attribute akumele iqale ngokukodwa kwalokhu okulandelayo: :values.",
     "email": "I-:attribute kufanele ibe ikheli le-imeyili elivumelekile.",
+    "encoding": "The :attribute field must be encoded in :encoding.",
     "ends_with": "Abayi-:attribute kumele bagcine ngokukodwa kwalokhu okulandelayo: :values.",
     "enum": "Okukhethiwe okungu-:attribute akuvumelekile.",
     "exists": "Okukhethiwe okungu-:attribute akuvumelekile.",

@@ -37,6 +37,7 @@
     "doesnt_end_with": "Ny saha :attribute dia tsy tokony hifarana amin'ny iray amin'ireto manaraka ireto: :values.",
     "doesnt_start_with": "Ny saha :attribute dia tsy tokony hanomboka amin'ny iray amin'ireto manaraka ireto: :values.",
     "email": "Ny :attribute dia tsy maintsy adiresy mailaka manan-kery.",
+    "encoding": "The :attribute field must be encoded in :encoding.",
     "ends_with": "Ny :attribute dia tsy maintsy mifarana amin'ny iray amin'ireto manaraka ireto: :values.",
     "enum": "Ny :attribute voafantina dia tsy mety.",
     "exists": "Ny :attribute voafantina dia tsy mety.",

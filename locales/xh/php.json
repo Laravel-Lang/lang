@@ -37,6 +37,7 @@
     "doesnt_end_with": "Intsimi ye-:attribute mayingapheli ngenye yezi zilandelayo: :values.",
     "doesnt_start_with": "Intsimi ye-:attribute mayingaqali ngenye yezi zilandelayo: :values.",
     "email": "I-:attribute kufuneka ibe yidilesi ye-imeyile esebenzayo.",
+    "encoding": "The :attribute field must be encoded in :encoding.",
     "ends_with": "I-:attribute mayiphele ngenye yezi zilandelayo: :values.",
     "enum": "I-:attribute ekhethiweyo ayisebenzi.",
     "exists": "I-:attribute ekhethiweyo ayisebenzi.",

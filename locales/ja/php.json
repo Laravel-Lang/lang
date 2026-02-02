@@ -37,6 +37,7 @@
     "doesnt_end_with": ":attributeの終わりは「:values」以外である必要があります。",
     "doesnt_start_with": ":attributeの始まりは「:values」以外である必要があります。",
     "email": ":attributeは、有効なメールアドレス形式で指定してください。",
+    "encoding": "The :attribute field must be encoded in :encoding.",
     "ends_with": ":attributeの終わりは「:values」である必要があります。",
     "enum": "選択した :attributeは 無効です。",
     "exists": "選択された:attributeは、有効ではありません。",

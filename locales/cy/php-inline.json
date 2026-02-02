@@ -36,6 +36,7 @@
     "doesnt_end_with": "Efallai na fydd y maes hwn yn gorffen gydag un o’r canlynol: :values.",
     "doesnt_start_with": "Efallai na fydd y maes hwn yn dechrau gydag un o'r canlynol: :values.",
     "email": "Rhaid i hyn fod yn gyfeiriad e-bost dilys.",
+    "encoding": "This field must be encoded in :encoding.",
     "ends_with": "Mae'n rhaid i hyn i ben gydag un o'r canlynol: :values.",
     "enum": "Nid yw'r gwerth a ddewiswyd yn y rhestr o werthoedd a ganiateir.",
     "exists": "Mae'r gwerth a ddewiswyd yn annilys.",

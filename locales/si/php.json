@@ -37,6 +37,7 @@
     "doesnt_end_with": ":Attribute පහත සඳහන් එකකින් අවසන් නොවිය හැක: :values.",
     "doesnt_start_with": ":Attribute පහත සඳහන් එකකින් ආරම්භ නොවිය හැක: :values.",
     "email": "මෙම :attribute එක වලංගු විද්‍යුත් ලිපිනයක් විය යුතුය.",
+    "encoding": "The :attribute field must be encoded in :encoding.",
     "ends_with": "මෙම :attribute එක :values මගින් අවසාන විය යුතුය.",
     "enum": "තෝරාගත් :attribute වලංගු නොවේ.",
     "exists": "තෝරාගත් :attribute අගය වලංගු නොවේ.",

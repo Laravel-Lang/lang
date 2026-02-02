@@ -36,6 +36,7 @@
     "doesnt_end_with": "આ ફીલ્ડ નીચેનામાંથી એક સાથે સમાપ્ત થઈ શકતું નથી: :values.",
     "doesnt_start_with": "આ ફીલ્ડ નીચેનામાંથી કોઈ એકથી શરૂ ન થઈ શકે: :values.",
     "email": "This must be a valid email address.",
+    "encoding": "This field must be encoded in :encoding.",
     "ends_with": "This must end with one of the following: :values.",
     "enum": "The selected value is not in the list of allowed values.",
     "exists": "The selected value does not exist.",

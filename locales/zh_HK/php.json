@@ -37,6 +37,7 @@
     "doesnt_end_with": ":attribute 不能以下列之一結尾：:values。",
     "doesnt_start_with": ":attribute 不能以下列之一開頭：:values。",
     "email": ":attribute 必須是有效的電郵地址。",
+    "encoding": "The :attribute field must be encoded in :encoding.",
     "ends_with": ":attribute 結尾必須包含下列之一：:values。",
     "enum": ":attribute 無效。",
     "exists": ":attribute 不存在。",

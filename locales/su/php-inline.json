@@ -36,6 +36,7 @@
     "doesnt_end_with": "Widang ieu teu kedah ditungtungan ku salah sahiji ieu: :values.",
     "doesnt_start_with": "Widang ieu teu kedah dimimitian ku salah sahiji ieu: :values.",
     "email": "Widang ieu kedah janten alamat email anu sah.",
+    "encoding": "This field must be encoded in :encoding.",
     "ends_with": "Widang ieu kedah ditungtungan ku salah sahiji ieu: :values.",
     "enum": "Widang anu dipilih teu valid.",
     "exists": "Widang anu dipilih teu valid.",

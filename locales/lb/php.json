@@ -37,6 +37,7 @@
     "doesnt_end_with": "Den :attribute Feld däerf net mat engem vun de folgenden ophalen: :values.",
     "doesnt_start_with": "Den :attribute Feld däerf net mat engem vun de folgenden ufänken: :values.",
     "email": "Déi :attribute muss eng valabel E-Mailadress sinn.",
+    "encoding": "The :attribute field must be encoded in :encoding.",
     "ends_with": "Déi :attribute musse mat engem vun den folgenden ophalen: :values.",
     "enum": "Déi gewielte :attribute ass ongëlteg.",
     "exists": "Déi gewielte :attribute ass ongëlteg.",

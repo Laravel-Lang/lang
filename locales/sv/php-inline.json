@@ -36,6 +36,7 @@
     "doesnt_end_with": "Det här fältet får inte sluta med något av följande: :values.",
     "doesnt_start_with": "Det här fältet får inte börja med något av följande: :values.",
     "email": "Detta måste vara en giltig e-postadress.",
+    "encoding": "This field must be encoded in :encoding.",
     "ends_with": "Detta måste sluta med något av följande: :values.",
     "enum": "Det valda värdet finns inte i listan över tillåtna värden.",
     "exists": "Det valda värdet är ogiltigt.",

@@ -37,6 +37,7 @@
     "doesnt_end_with": "A :attribute nem végződhet a következők egyikével: :values.",
     "doesnt_start_with": "A :attribute nem kezdődhet a következők egyikével: :values.",
     "email": "A(z) :attribute nem érvényes email formátum.",
+    "encoding": "The :attribute field must be encoded in :encoding.",
     "ends_with": "A(z) :attribute a következővel kell végződjön: :values",
     "enum": "A kiválasztott :attribute érvénytelen.",
     "exists": "A kiválasztott :attribute érvénytelen.",

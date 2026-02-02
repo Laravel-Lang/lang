@@ -37,6 +37,7 @@
     "doesnt_end_with": ":Attribute се не може завршити са једним од следећих: :values.",
     "doesnt_start_with": ":Attribute можда не почиње са једним од следећих: :values.",
     "email": "Формат поља :attribute није валидан.",
+    "encoding": "The :attribute field must be encoded in :encoding.",
     "ends_with": "Поље :attribute мора да се заврши са нечим од следећег: :values.",
     "enum": "Изабраних :attribute је неважећих.",
     "exists": "Одабрано поље :attribute није валидно.",

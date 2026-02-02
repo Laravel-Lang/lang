@@ -36,6 +36,7 @@
     "doesnt_end_with": "Uyu murima ntugomba kurangirana numwe muribi bikurikira: :values.",
     "doesnt_start_with": "Uyu murima ntugomba gutangirana numwe muribi bikurikira: :values.",
     "email": "Uyu murima ugomba kuba aderesi imeri yemewe.",
+    "encoding": "This field must be encoded in :encoding.",
     "ends_with": "Uyu murima ugomba kurangirana numwe muribi bikurikira: :values.",
     "enum": "Umwanya watoranijwe ntiwemewe.",
     "exists": "Umwanya watoranijwe ntiwemewe.",

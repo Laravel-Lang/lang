@@ -36,6 +36,7 @@
     "doesnt_end_with": "Kjo fushë nuk mund të përfundojë me një nga sa vijon: :values.",
     "doesnt_start_with": "Kjo fushë nuk mund të fillojë me një nga sa vijon: :values.",
     "email": "Kjo duhet të jetë email adresë e saktë.",
+    "encoding": "This field must be encoded in :encoding.",
     "ends_with": "Kjo duhet të përfundojë me një nga vlerat: :values.",
     "enum": "Vlera e zgjedhur nuk është në listën e vlerave të lejuara.",
     "exists": "Vlera e përzgjedhur është e pasaktë.",

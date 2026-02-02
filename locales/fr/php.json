@@ -37,6 +37,7 @@
     "doesnt_end_with": "Le champ :attribute ne doit pas finir avec une des valeurs suivantes : :values.",
     "doesnt_start_with": "Le champ :attribute ne doit pas commencer avec une des valeurs suivantes : :values.",
     "email": "Le champ :attribute doit être une adresse e-mail valide.",
+    "encoding": "The :attribute field must be encoded in :encoding.",
     "ends_with": "Le champ :attribute doit se terminer par une des valeurs suivantes : :values",
     "enum": "Le champ :attribute sélectionné est invalide.",
     "exists": "Le champ :attribute sélectionné est invalide.",

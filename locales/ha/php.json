@@ -37,6 +37,7 @@
     "doesnt_end_with": "Filin guda :attribute bai kamata ya ƙare da ɗayan waɗannan masu zuwa ba: :values.",
     "doesnt_start_with": "Ba dole ba ne filin :attribute ya fara da ɗaya daga cikin masu zuwa: :values.",
     "email": "Dole ne :attribute ɗin ya zama ingantaccen adireshin imel.",
+    "encoding": "The :attribute field must be encoded in :encoding.",
     "ends_with": "Dole ne :attribute ɗin su ƙare da ɗayan waɗannan: :values.",
     "enum": "Zaɓaɓɓen :attribute ba daidai ba ne.",
     "exists": "Zaɓaɓɓen :attribute ba daidai ba ne.",

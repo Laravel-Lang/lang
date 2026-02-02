@@ -37,6 +37,7 @@
     "doesnt_end_with": ":attribute pa dwe fini ak youn nan sa ki annapre yo: :values.",
     "doesnt_start_with": ":attribute pa dwe kòmanse ak youn nan sa ki annapre yo: :values.",
     "email": ":attribute dwe yon adrès imèl valab.",
+    "encoding": "The :attribute field must be encoded in :encoding.",
     "ends_with": ":attribute dwe fini ak youn nan sa ki annapre yo: :values.",
     "enum": "Selekksyon :attribute a pa valab.",
     "exists": "Selekksyon :attribute a pa valab.",

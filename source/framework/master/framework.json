@@ -26,7 +26,7 @@
     "Regards,": "Regards,",
     "Register": "Register",
     "Reset Password": "Reset Password",
-    "Reset Password Notification": "Reset Password Notification",
+    "Reset your password": "Reset your password",
     "results": "results",
     "Server Error": "Server Error",
     "Service Unavailable": "Service Unavailable",
@@ -40,6 +40,7 @@
     "Too Many Requests": "Too Many Requests",
     "Unauthorized": "Unauthorized",
     "Verify Email Address": "Verify Email Address",
+    "Verify your email address": "Verify your email address",
     "Whoops!": "Whoops!",
     "You are receiving this email because we received a password reset request for your account.": "You are receiving this email because we received a password reset request for your account."
 }

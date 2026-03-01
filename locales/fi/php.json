@@ -37,7 +37,7 @@
     "doesnt_end_with": ":Attribute ei saa päättyä johonkin seuraavista: :values.",
     "doesnt_start_with": ":Attribute ei voi alkaa jollakin seuraavista: :values.",
     "email": "Kentän :attribute arvo ei ole validi sähköpostiosoite.",
-    "encoding": "The :attribute field must be encoded in :encoding.",
+    "encoding": ":attribute-kenttä on koodattava :encoding:llä.",
     "ends_with": ":Attribute:n on päätyttävä johonkin seuraavista: :values.",
     "enum": "Valittu :attribute on virheellinen.",
     "exists": "Kentän :attribute valittu arvo on virheellinen.",

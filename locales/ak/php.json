@@ -37,7 +37,7 @@
     "doesnt_end_with": "Ɛnsɛ sɛ :attribute afuw no ba awiei wɔ nea edidi so yi mu biako mu: :values.",
     "doesnt_start_with": "Ɛnsɛ sɛ :attribute afuw no fi ase de nea edidi so yi mu biako: :values.",
     "email": "Ɛsɛ sɛ :attribute no yɛ email address a ɛfata.",
-    "encoding": "The :attribute field must be encoded in :encoding.",
+    "encoding": "Ɛsɛ sɛ wɔde :attribute afuw no hyɛ :encoding mu.",
     "ends_with": "Ɛsɛ sɛ :attribute no de nea edidi so yi mu biako ba awiei: :values.",
     "enum": ":attribute a wɔapaw no nyɛ adwuma.",
     "exists": ":attribute a wɔapaw no nyɛ adwuma.",

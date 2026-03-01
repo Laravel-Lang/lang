@@ -37,7 +37,7 @@
     "doesnt_end_with": ":Attribute nuk mund të përfundojë me një nga sa vijon: :values.",
     "doesnt_start_with": ":Attribute nuk mund të fillojë me një nga sa vijon: :values.",
     "email": ":Attribute formati është i pasaktë.",
-    "encoding": "The :attribute field must be encoded in :encoding.",
+    "encoding": "Fusha :attribute duhet të kodohet në :encoding.",
     "ends_with": ":Attribute duhet të përfundojë me një nga vlerat: :values.",
     "enum": ":Attribute e zgjedhura është e pavlefshme.",
     "exists": ":Attribute përzgjedhur është i/e pasaktë.",

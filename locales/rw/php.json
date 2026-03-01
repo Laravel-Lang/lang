@@ -37,7 +37,7 @@
     "doesnt_end_with": "Umurima :attribute ntugomba kurangirana numwe muribi bikurikira: :values.",
     "doesnt_start_with": "Umwanya :attribute ntugomba gutangirana numwe muribi bikurikira: :values.",
     "email": ":attribute igomba kuba aderesi imeri yemewe.",
-    "encoding": "The :attribute field must be encoded in :encoding.",
+    "encoding": "Umwanya :attribute ugomba kuba ufite kodegisi muri :encoding.",
     "ends_with": ":attribute igomba kurangirana nimwe muri ibi bikurikira: :values.",
     "enum": "Ibyatoranijwe :attribute ntabwo byemewe.",
     "exists": "Ibyatoranijwe :attribute ntabwo byemewe.",

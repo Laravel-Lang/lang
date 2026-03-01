@@ -36,7 +36,7 @@
     "doesnt_end_with": "Toto pole nesmí končit jednou z těchto následujích hodnot: :values.",
     "doesnt_start_with": "Toto pole nesmí začínat jednou z těchto následujích hodnot: :values.",
     "email": "Musí to být platná e-mailová adresa.",
-    "encoding": "This field must be encoded in :encoding.",
+    "encoding": "Toto pole musí být zakódováno v :encoding.",
     "ends_with": "To musí skončit jedním z následujících: :values.",
     "enum": "Vybraná hodnota je neplatná.",
     "exists": "Vybraná hodnota je neplatná.",

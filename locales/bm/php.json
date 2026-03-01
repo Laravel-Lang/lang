@@ -37,7 +37,7 @@
     "doesnt_end_with": ":attribute foro man kan ka ban ni ninnu dɔ ye: :values.",
     "doesnt_start_with": ":attribute foro man kan ka daminɛ ni ninnu dɔ ye: :values.",
     "email": "O :attribute ka kan ka kɛ imɛri ladɛrɛsi bɛnnen ye.",
-    "encoding": "The :attribute field must be encoded in :encoding.",
+    "encoding": "Foro :attribute ka kan ka kodɔn :encoding kɔnɔ.",
     "ends_with": ":attribute ka kan ka ban ni ninnu dɔ ye: :values.",
     "enum": ":attribute sugandilenw tɛ baara kɛ.",
     "exists": ":attribute sugandilenw tɛ baara kɛ.",

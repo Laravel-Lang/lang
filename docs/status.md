@@ -42,11 +42,11 @@ editLink: false
 </td></tr>
 <tr><td width="12%">
 
-[bho&nbsp;❗](statuses/bho.md)
+[bho&nbsp;✔](statuses/bho.md)
 
 </td><td width="12%">
 
-[bm&nbsp;❗](statuses/bm.md)
+[bm&nbsp;✔](statuses/bm.md)
 
 </td><td width="12%">
 
@@ -58,7 +58,7 @@ editLink: false
 
 </td><td width="12%">
 
-[ca&nbsp;❗](statuses/ca.md)
+[ca&nbsp;✔](statuses/ca.md)
 
 </td><td width="12%">
 

@@ -248,7 +248,7 @@ editLink: false
 
 </td><td width="12%">
 
-[lb&nbsp;❗](statuses/lb.md)
+[lb&nbsp;✔](statuses/lb.md)
 
 </td><td width="12%">
 

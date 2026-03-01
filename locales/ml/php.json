@@ -37,7 +37,7 @@
     "doesnt_end_with": ":attribute ഫീൽഡ് ഇനിപ്പറയുന്നതിൽ ഒന്നിൽ അവസാനിക്കരുത്: :values.",
     "doesnt_start_with": ":attribute ഫീൽഡ് ഇനിപ്പറയുന്നതിൽ ഒന്നിൽ നിന്ന് ആരംഭിക്കരുത്: :values.",
     "email": ":attribute സാധുവായ ഇമെയിൽ വിലാസമായിരിക്കണം.",
-    "encoding": "The :attribute field must be encoded in :encoding.",
+    "encoding": ":attribute ഫീൽഡ് :encoding-ൽ എൻകോഡ് ചെയ്യണം.",
     "ends_with": ":attribute ഇനിപ്പറയുന്നതിൽ ഒന്നിൽ അവസാനിക്കണം: :values.",
     "enum": "തിരഞ്ഞെടുത്ത :attribute അസാധുവാണ്.",
     "exists": "തിരഞ്ഞെടുത്ത :attribute അസാധുവാണ്.",

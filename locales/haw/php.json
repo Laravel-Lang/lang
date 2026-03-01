@@ -37,7 +37,7 @@
     "doesnt_end_with": "ʻAʻole pono e pau ka māla :attribute me kekahi o kēia mau mea: :values.",
     "doesnt_start_with": "ʻAʻole pono e hoʻomaka ka māla :attribute me kekahi o kēia mau mea: :values.",
     "email": "Pono ka helu :attribute he leka uila kūpono.",
-    "encoding": "The :attribute field must be encoded in :encoding.",
+    "encoding": "Pono e hoʻopaʻa ʻia ka pā :attribute ma :encoding.",
     "ends_with": "Pono e pau ka :attribute me kekahi o kēia mau mea: :values.",
     "enum": "He kūpono ʻole ka :attribute i koho ʻia.",
     "exists": "He kūpono ʻole ka :attribute i koho ʻia.",

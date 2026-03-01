@@ -37,7 +37,7 @@
     "doesnt_end_with": "Chan fhaod an raon :attribute crìochnachadh le aon de na leanas: :values.",
     "doesnt_start_with": "Chan fhaod an raon :attribute tòiseachadh le aon de na leanas: :values.",
     "email": "Feumaidh an :attribute a bhith na sheòladh puist-d dligheach.",
-    "encoding": "The :attribute field must be encoded in :encoding.",
+    "encoding": "Feumaidh an raon :attribute a bhith air a chòdachadh ann an :encoding.",
     "ends_with": "Feumaidh na :attribute crìochnachadh le aon de na leanas: :values.",
     "enum": "Tha an :attribute a chaidh a thaghadh neo-dhligheach.",
     "exists": "Tha an :attribute a chaidh a thaghadh neo-dhligheach.",

@@ -37,7 +37,7 @@
     "doesnt_end_with": "Die :attribute mag nie eindig met een van die volgende nie: :values.",
     "doesnt_start_with": "Die :attribute mag nie met een van die volgende begin nie: :values.",
     "email": "Die :attribute moet geldige epos adres wees.",
-    "encoding": "The :attribute field must be encoded in :encoding.",
+    "encoding": "Die :attribute-veld moet in :encoding geënkodeer word.",
     "ends_with": "Die :attribute moet eindig met een van die volgende: :values.",
     "enum": "Die geselekteerde :attribute is ongeldig.",
     "exists": "Die geselketeerde :attribute is ongeldig.",

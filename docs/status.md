@@ -25,7 +25,7 @@ editLink: false
 
 </td><td width="12%">
 
-[as&nbsp;❗](statuses/as.md)
+[as&nbsp;✔](statuses/as.md)
 
 </td><td width="12%">
 

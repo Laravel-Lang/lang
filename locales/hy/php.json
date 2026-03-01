@@ -37,7 +37,7 @@
     "doesnt_end_with": ":Attribute-ը չի կարող ավարտվել հետևյալներից որևէ մեկով. :values:",
     "doesnt_start_with": ":Attribute-ը չի կարող սկսվել հետևյալներից որևէ մեկով՝ :values։",
     "email": ":Attribute դաշտը պետք է լինի վավերական Էլ․ հասցե։",
-    "encoding": "The :attribute field must be encoded in :encoding.",
+    "encoding": ":attribute դաշտը պետք է կոդավորված լինի :encoding-ով:",
     "ends_with": ":Attribute դաշտը պետք է ավարտվի հետևյալ արժեքներից մեկով․ :values։",
     "enum": "Ընտրված :attribute-ն անվավեր է:",
     "exists": ":Attribute դաշտի ընտրված արժեքն անվավեր է։",

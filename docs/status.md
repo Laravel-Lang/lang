@@ -343,7 +343,7 @@ editLink: false
 
 </td><td width="12%">
 
-[or&nbsp;❗](statuses/or.md)
+[or&nbsp;✔](statuses/or.md)
 
 </td><td width="12%">
 

@@ -36,7 +36,7 @@
     "doesnt_end_with": "វាលនេះប្រហែលជាមិនបញ្ចប់ដោយមួយក្នុងចំណោមខាងក្រោម៖ :values ។",
     "doesnt_start_with": "វាលនេះប្រហែលជាមិនចាប់ផ្តើមជាមួយមួយក្នុងចំណោមខាងក្រោម: :values ។",
     "email": "វាលនេះទម្រង់នេះមិនត្រឹមត្រូវ។",
-    "encoding": "This field must be encoded in :encoding.",
+    "encoding": "វាលនេះត្រូវតែត្រូវបានអ៊ិនកូដក្នុង :encoding ។",
     "ends_with": "វាលនេះត្រូវបញ្ចប់ដោយពាក្យមួយក្នុងចំណោម :values។",
     "enum": "The selected value is not in the list of allowed values.",
     "exists": "ការជ្រើសរើស វាលនេះត្រឹមត្រូវ។",

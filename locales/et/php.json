@@ -37,7 +37,7 @@
     "doesnt_end_with": ":Attribute ei tohi lõppeda ühega järgmistest: :values.",
     "doesnt_start_with": ":Attribute ei pruugi alata ühega järgmistest: :values.",
     "email": ":Attribute peab olema kehtiv e-posti aadress.",
-    "encoding": "The :attribute field must be encoded in :encoding.",
+    "encoding": "Väli :attribute peab olema kodeeritud :encoding-ga.",
     "ends_with": ":Attribute peab lõppema ühega järgmistest: :values.",
     "enum": "Valitud :attribute on kehtetu.",
     "exists": "Valitud :attribute on vigane.",

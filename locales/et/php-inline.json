@@ -36,7 +36,7 @@
     "doesnt_end_with": "See väli ei tohi lõppeda ühega järgmistest: :values.",
     "doesnt_start_with": "See väli ei tohi alata ühega järgmistest: :values.",
     "email": "See peab olema kehtiv e-posti aadress.",
-    "encoding": "This field must be encoded in :encoding.",
+    "encoding": "See väli peab olema kodeeritud :encoding-ga.",
     "ends_with": "See peab lõppema ühega järgmistest: :values.",
     "enum": "Valitud väärtus ei ole lubatud väärtuste loendis.",
     "exists": "Valitud väärtus on vigane.",

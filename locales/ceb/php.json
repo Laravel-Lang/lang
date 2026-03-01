@@ -37,7 +37,7 @@
     "doesnt_end_with": "Ang :attribute ka field kinahanglang dili matapos sa usa sa mosunod: :values.",
     "doesnt_start_with": "Ang :attribute ka field kinahanglang dili magsugod sa usa sa mosunod: :values.",
     "email": "Ang :attribute kinahanglan usa ka balido nga email address.",
-    "encoding": "The :attribute field must be encoded in :encoding.",
+    "encoding": "Ang :attribute nga field kinahanglang ma-encode sa :encoding.",
     "ends_with": "Ang :attribute kinahanglang tapuson sa usa sa mosunod: :values.",
     "enum": "Ang gipili nga :attribute dili balido.",
     "exists": "Ang gipili nga :attribute dili balido.",

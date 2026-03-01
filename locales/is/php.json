@@ -37,7 +37,7 @@
     "doesnt_end_with": ":Attribute má ekki enda á einu af eftirfarandi: :values.",
     "doesnt_start_with": ":Attribute mega ekki byrja á einu af eftirfarandi: :values.",
     "email": "Reiturinn :attribute snið netfangsins er ekki rétt.",
-    "encoding": "The :attribute field must be encoded in :encoding.",
+    "encoding": ":attribute reiturinn verður að kóða í :encoding.",
     "ends_with": "Við :attribute verður að enda með eftirfarandi: :values.",
     "enum": "Valin :attribute eru ógild.",
     "exists": "Reiturinn :attribute er nú þegar til.",

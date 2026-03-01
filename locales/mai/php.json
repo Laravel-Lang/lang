@@ -37,7 +37,7 @@
     "doesnt_end_with": ":attribute क्षेत्र निम्नलिखित मे सँ कोनो एकटा सँ समाप्त नहि होबाक चाही: :values.",
     "doesnt_start_with": ":attribute फील्ड निम्नलिखित मे सँ कोनो एकटा सँ शुरू नहि होबाक चाही: :values.",
     "email": ":attribute कें वैध ईमेल पता होबाक चाही.",
-    "encoding": "The :attribute field must be encoded in :encoding.",
+    "encoding": ":attribute फील्ड कें :encoding मे एन्कोड करनाय आवश्यक छै.",
     "ends_with": ":attribute कें अंत निम्नलिखित मे सं एकटा सं होबाक चाही: :values.",
     "enum": "चयनित :attribute अमान्य अछि।",
     "exists": "चयनित :attribute अमान्य अछि।",

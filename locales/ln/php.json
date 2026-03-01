@@ -37,7 +37,7 @@
     "doesnt_end_with": "Esengeli te ete esika ya :attribute esila na moko ya makambo oyo elandi: :values.",
     "doesnt_start_with": "Esengeli te ete esika ya :attribute ebanda na moko ya makambo oyo elandi: :values.",
     "email": "Ba :attribute esengeli kozala adresse email ya valide.",
-    "encoding": "The :attribute field must be encoded in :encoding.",
+    "encoding": "Esengeli kozala na code ya esika ya :attribute na :encoding.",
     "ends_with": "Ba :attribute esengeli kosuka na moko ya makambo oyo elandi: :values.",
     "enum": ":attribute oyo oponi ezali na ntina te.",
     "exists": ":attribute oyo oponi ezali na ntina te.",

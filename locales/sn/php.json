@@ -37,7 +37,7 @@
     "doesnt_end_with": ":Attribute haifanire kupera nechimwe chezvinotevera: :values.",
     "doesnt_start_with": ":Attribute haifanire kutanga nechimwe chezvinotevera: :values.",
     "email": ":Attribute inofanira kuva kero yeemail inoshanda.",
-    "encoding": "The :attribute field must be encoded in :encoding.",
+    "encoding": "Munda wegumi unofanirwa kuvharwa mu:encoding.",
     "ends_with": ":Attribute inofanira kupera nechimwe chezvinotevera: :values.",
     "enum": "Sarudzo ye:attribute haina kunaka.",
     "exists": "Sarudzo ye:attribute haina kunaka.",

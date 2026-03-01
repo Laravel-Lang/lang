@@ -36,7 +36,7 @@
     "doesnt_end_with": "Ogige a agaghị ejedebe na otu n'ime ihe ndị a: :values.",
     "doesnt_start_with": "Ogige a agaghị eji otu n'ime ihe ndị a malite: :values.",
     "email": "Ogige a ga-abụrịrị adreesị ozi-e bara uru.",
-    "encoding": "This field must be encoded in :encoding.",
+    "encoding": "A ghaghị itinye koodu a na :encoding.",
     "ends_with": "Ogige a ga-eji otu n'ime ihe ndị a mechie: :values.",
     "enum": "Ogige ahọpụtara ezighi ezi.",
     "exists": "Ogige ahọpụtara ezighi ezi.",

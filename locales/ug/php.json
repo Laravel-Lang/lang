@@ -37,7 +37,7 @@
     "doesnt_end_with": ":Attribute تۆۋەندىكىلەرنىڭ بىرى بىلەن ئاخىرلاشماسلىقى مۇمكىن: :values.",
     "doesnt_start_with": ":Attribute تۆۋەندىكىلەرنىڭ بىرىدىن باشلانماسلىقى مۇمكىن: :values.",
     "email": ":Attribute ئىناۋەتلىك تورخەت ئادىرىسى ئەمەس.",
-    "encoding": "The :attribute field must be encoded in :encoding.",
+    "encoding": ":attribute ساھە چوقۇم :encoding دە كودلىنىشى كېرەك.",
     "ends_with": ":Attribute چوقۇم تۆۋەندىكىلەرنىڭ بىرى بىلەن ئاخىرلىشىشى كېرەك: :values.",
     "enum": "تاللانغان :attribute ئىناۋەتسىز.",
     "exists": ":Attribute مەۋجۇت ئەمەس.",

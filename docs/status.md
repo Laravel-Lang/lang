@@ -380,7 +380,7 @@ editLink: false
 
 </td><td width="12%">
 
-[rw&nbsp;❗](statuses/rw.md)
+[rw&nbsp;✔](statuses/rw.md)
 
 </td><td width="12%">
 

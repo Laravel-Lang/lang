@@ -37,7 +37,7 @@
     "doesnt_end_with": ":attribute ক্ষেত্ৰখন তলত দিয়া এটাৰে শেষ হ'ব নালাগে: :values.",
     "doesnt_start_with": ":attribute ক্ষেত্ৰখন তলত দিয়া এটাৰে আৰম্ভ হ'ব নালাগে: :values.",
     "email": "১০ টা বৈধ ইমেইল ঠিকনা হ’ব লাগিব।",
-    "encoding": "The :attribute field must be encoded in :encoding.",
+    "encoding": "১০ টা ক্ষেত্ৰখন ২০ টাত এনকোড কৰিব লাগিব।",
     "ends_with": "১০ টা তলত দিয়া এটাৰে শেষ হ’ব লাগিব: ২০।",
     "enum": "নিৰ্বাচিত ১০ টা অবৈধ।",
     "exists": "নিৰ্বাচিত ১০ টা অবৈধ।",

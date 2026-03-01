@@ -37,7 +37,7 @@
     "doesnt_end_with": ":attribute chakraqa manam kaykunamanta hukninwanchu tukunan: :values.",
     "doesnt_start_with": ":attribute chakraqa manam kaykunamanta hukninwanchu qallarina: :values.",
     "email": "Chay :attribute nisqakunaqa allin correo electrónico nisqa kanan.",
-    "encoding": "The :attribute field must be encoded in :encoding.",
+    "encoding": ":attribute pampaqa :encoding nisqapi codificasqa kanan tiyan.",
     "ends_with": ":attribute nisqakunaqa kaykunamanta hukninwanmi tukukunan: :values.",
     "enum": "Akllasqa :attribute mana allinchu.",
     "exists": "Akllasqa :attribute mana allinchu.",

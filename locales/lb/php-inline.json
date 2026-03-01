@@ -36,7 +36,7 @@
     "doesnt_end_with": "Dëst Feld däerf net mat engem vun de folgenden ophalen: :values.",
     "doesnt_start_with": "Dëst Feld däerf net mat engem vun de folgenden ufänken: :values.",
     "email": "Dëst Feld muss eng valabel E-Mailadress sinn.",
-    "encoding": "This field must be encoded in :encoding.",
+    "encoding": "Dëst Feld muss an :encoding kodéiert ginn.",
     "ends_with": "Dëst Feld muss mat engem vun de folgenden ophalen: :values.",
     "enum": "Dat ausgewielt Feld ass ongëlteg.",
     "exists": "Dat ausgewielt Feld ass ongëlteg.",

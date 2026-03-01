@@ -36,7 +36,7 @@
     "doesnt_end_with": "Ennimiro eno tesaana kukoma na kimu ku bino wammanga: :values.",
     "doesnt_start_with": "Ennimiro eno tesaana kutandika na kimu ku bino wammanga: :values.",
     "email": "Ennimiro eno erina okuba endagiriro ya email entuufu.",
-    "encoding": "This field must be encoded in :encoding.",
+    "encoding": "Ennimiro eno erina okuteekebwa mu :encoding.",
     "ends_with": "Ennimiro eno erina okuggwa n’ekimu ku bino wammanga: :values.",
     "enum": "Ennimiro erongooseddwa si ntuufu.",
     "exists": "Ennimiro erongooseddwa si ntuufu.",

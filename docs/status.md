@@ -132,7 +132,7 @@ editLink: false
 
 </td><td width="12%">
 
-[fi&nbsp;❗](statuses/fi.md)
+[fi&nbsp;✔](statuses/fi.md)
 
 </td><td width="12%">
 
@@ -528,7 +528,7 @@ editLink: false
 
 </td><td width="12%">
 
-[zh_TW&nbsp;❗](statuses/zh_TW.md)
+[zh_TW&nbsp;✔](statuses/zh_TW.md)
 
 </td><td width="12%">
 

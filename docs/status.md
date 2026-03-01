@@ -240,7 +240,7 @@ editLink: false
 </td></tr>
 <tr><td width="12%">
 
-[ku&nbsp;❗](statuses/ku.md)
+[ku&nbsp;✔](statuses/ku.md)
 
 </td><td width="12%">
 

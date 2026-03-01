@@ -37,7 +37,7 @@
     "doesnt_end_with": ":Attribute निम्नलिखित में से किसी एक के साथ समाप्त नहीं हो सकता है: :values ।",
     "doesnt_start_with": ":Attribute निम्नलिखित में से किसी एक के साथ शुरू नहीं हो सकता है: :values ।",
     "email": ":Attribute एक मान्य ईमेल पता होना चाहिए ।",
-    "encoding": "The :attribute field must be encoded in :encoding.",
+    "encoding": ":attribute फ़ील्ड को :encoding में एन्कोड किया जाना चाहिए।",
     "ends_with": ":Attribute को निम्नलिखित में से एक के साथ समाप्त होना चाहिए: :values ।",
     "enum": "चयनित :attribute अमान्य है ।",
     "exists": "चुना गया :attribute अमान्य है ।",

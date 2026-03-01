@@ -36,7 +36,7 @@
     "doesnt_end_with": "यह क्षेत्र निम्न में से किसी एक के साथ समाप्त नहीं हो सकता है: :values।",
     "doesnt_start_with": "यह फ़ील्ड निम्न में से किसी एक के साथ प्रारंभ नहीं हो सकता है: :values।",
     "email": "यह एक मान्य ईमेल पता होना चाहिए ।",
-    "encoding": "This field must be encoded in :encoding.",
+    "encoding": "इस फ़ील्ड को :encoding में एन्कोड किया जाना चाहिए।",
     "ends_with": "यह निम्नलिखित में से एक के साथ समाप्त होना चाहिए: :values ।",
     "enum": "The selected value is not in the list of allowed values.",
     "exists": "चयनित मान अमान्य है ।",

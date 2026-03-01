@@ -37,7 +37,7 @@
     "doesnt_end_with": ":Attribute nedrīkst beigties ar kādu no šiem: :values.",
     "doesnt_start_with": ":Attribute nedrīkst sākties ar kādu no šiem: :values.",
     "email": ":Attribute ir jābūt derīgai e-pasta adresei.",
-    "encoding": "The :attribute field must be encoded in :encoding.",
+    "encoding": "Laukam :attribute jābūt iekodētam ar :encoding.",
     "ends_with": ":Attribute jābeidzas ar vienu no šiem: :values.",
     "enum": "Atlasītie :attribute nav derīgi.",
     "exists": "Izvēlētais :attribute ir nederīgs.",

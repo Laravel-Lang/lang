@@ -37,7 +37,7 @@
     "doesnt_end_with": ":attributeka garoon waa inuusan ku dhamaanin mid ka mid ah kuwan soo socda: :values.",
     "doesnt_start_with": ":attributeka garoon waa inuusan ku bilaaban mid ka mid ah kuwan soo socda: :values.",
     "email": ":attributeku waa inuu noqdaa ciwaan email sax ah",
-    "encoding": "The :attribute field must be encoded in :encoding.",
+    "encoding": ":attributeka goobood waa in lagu dhejiyaa :encoding.",
     "ends_with": ":attributeka waa in ay ku dhameeyaan mid ka mid ah kuwan soo socda: :values.",
     "enum": ":attributeka la doortay waa mid aan sax ahayn.",
     "exists": ":attributeka la doortay waa mid aan sax ahayn.",

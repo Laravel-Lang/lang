@@ -161,7 +161,7 @@ editLink: false
 
 </td><td width="12%">
 
-[gu&nbsp;❗](statuses/gu.md)
+[gu&nbsp;✔](statuses/gu.md)
 
 </td><td width="12%">
 

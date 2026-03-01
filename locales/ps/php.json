@@ -37,7 +37,7 @@
     "doesnt_end_with": ":Attribute ممکن د لاندې څخه یو سره پای ته ونه رسیږي: :values.",
     "doesnt_start_with": ":Attribute ممکن د لاندې څخه یو سره پیل نشي: :values.",
     "email": "دا باید وي :attribute یو باوري بریښلیک پته جوړښت.",
-    "encoding": "The :attribute field must be encoded in :encoding.",
+    "encoding": ":attribute ساحه باید په :encoding کې کوډ شي.",
     "ends_with": ":Attribute باید د لاندې څخه یو سره پای ته ورسیږي: :values.",
     "enum": "ټاکل شوی :attribute باطل دی.",
     "exists": "مشخص ارزښت :attribute شتون نلري.",

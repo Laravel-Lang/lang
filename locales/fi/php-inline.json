@@ -36,7 +36,7 @@
     "doesnt_end_with": "Tämä kenttä ei saa päättyä johonkin seuraavista: :values.",
     "doesnt_start_with": "Tämä kenttä ei saa alkaa jollakin seuraavista: :values.",
     "email": "Tämän on oltava voimassa oleva sähköpostiosoite.",
-    "encoding": "This field must be encoded in :encoding.",
+    "encoding": "Tämä kenttä on koodattava :encoding:llä.",
     "ends_with": "Tämän on päätyttävä johonkin seuraavista: :values.",
     "enum": "The selected value is not in the list of allowed values.",
     "exists": "Valittu arvo on virheellinen.",

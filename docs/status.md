@@ -58,7 +58,7 @@ editLink: false
 
 </td><td width="12%">
 
-[ca&nbsp;❗](statuses/ca.md)
+[ca&nbsp;✔](statuses/ca.md)
 
 </td><td width="12%">
 

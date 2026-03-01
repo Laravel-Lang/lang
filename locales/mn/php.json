@@ -37,7 +37,7 @@
     "doesnt_end_with": ":Attribute нь дараахын аль нэгээр төгсөхгүй байж болно: :values.",
     "doesnt_start_with": ":Attribute нь дараахын аль нэгээр нь эхэлж болохгүй: :values.",
     "email": ":Attribute талбарт зөв и-мэйл хаяг оруулах шаардлагатай.",
-    "encoding": "The :attribute field must be encoded in :encoding.",
+    "encoding": ":attribute талбарыг :encoding-оор кодлох ёстой.",
     "ends_with": ":Attribute дараах аль нэгийг нь дуусгах естой: :values.",
     "enum": "Сонгосон :attribute буруу байна.",
     "exists": "Сонгогдсон :attribute буруу байна.",

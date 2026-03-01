@@ -37,7 +37,7 @@
     "doesnt_end_with": "Níor cheart go gcríochnódh réimse :attribute le ceann amháin díobh seo a leanas: :values .",
     "doesnt_start_with": "Níor cheart go dtosódh réimse :attribute le ceann amháin díobh seo a leanas: :values .",
     "email": "Caithfidh na :attribute gcinn a bheith ina seoladh ríomhphoist bailí.",
-    "encoding": "The :attribute field must be encoded in :encoding.",
+    "encoding": "Ní mór an réimse :attribute a ionchódú i :encoding.",
     "ends_with": "Caithfidh deireadh a bheith leis na :attribute gcinn le ceann amháin díobh seo a leanas: :values .",
     "enum": "Tá an :attribute roghnaithe neamhbhailí.",
     "exists": "Tá an :attribute roghnaithe neamhbhailí.",

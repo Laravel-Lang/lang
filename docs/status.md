@@ -330,7 +330,7 @@ editLink: false
 
 </td><td width="12%">
 
-[nn&nbsp;❗](statuses/nn.md)
+[nn&nbsp;✔](statuses/nn.md)
 
 </td><td width="12%">
 
@@ -339,7 +339,7 @@ editLink: false
 </td></tr>
 <tr><td width="12%">
 
-[om&nbsp;❗](statuses/om.md)
+[om&nbsp;✔](statuses/om.md)
 
 </td><td width="12%">
 

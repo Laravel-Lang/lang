@@ -36,7 +36,7 @@
     "doesnt_end_with": "Dirreen kun kanneen armaan gadii keessaa tokkoon xumuramuu hin qabu: :values.",
     "doesnt_start_with": "Dirreen kun kanneen armaan gadii keessaa tokkoon jalqabuu hin qabu: :values.",
     "email": "Dirreen kun teessoo imeelii sirrii ta'uu qaba.",
-    "encoding": "This field must be encoded in :encoding.",
+    "encoding": "Dirreen kun :encoding keessatti koodii ta'uu qaba.",
     "ends_with": "Dirreen kun kanneen armaan gadii keessaa tokkoon xumuramuu qaba: :values.",
     "enum": "Dirreen filatame sirrii miti.",
     "exists": "Dirreen filatame sirrii miti.",

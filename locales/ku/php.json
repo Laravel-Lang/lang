@@ -37,7 +37,7 @@
     "doesnt_end_with": "Divê qada :attribute bi yek ji van jêrîn bi dawî nebe: :values.",
     "doesnt_start_with": "Divê qada :attribute bi yek ji van jêrîn dest pê neke: :values.",
     "email": "Divê :attribute navnîşek e-nameyek derbasdar be.",
-    "encoding": "The :attribute field must be encoded in :encoding.",
+    "encoding": "Qada :attribute divê di :encoding de were kod kirin.",
     "ends_with": "Divê :attribute bi yek ji van jêrîn bi dawî bibe: :values.",
     "enum": ":attribute bijartî nederbasdar e.",
     "exists": ":attribute bijartî nederbasdar e.",

@@ -37,7 +37,7 @@
     "doesnt_end_with": "O :attribute non pode rematar cun dos seguintes: :values.",
     "doesnt_start_with": "O :attribute non pode comezar por un dos seguintes: :values.",
     "email": "O :attribute debe ser un enderezo de correo-e válido.",
-    "encoding": "The :attribute field must be encoded in :encoding.",
+    "encoding": "O campo :attribute debe estar codificado en :encoding.",
     "ends_with": "O :attribute debe rematar cun dos seguintes: :values.",
     "enum": "O :attribute seleccionado non é válido.",
     "exists": "O :attribute seleccionado non é válido.",

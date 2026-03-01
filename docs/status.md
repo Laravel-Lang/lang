@@ -112,7 +112,7 @@ editLink: false
 
 </td><td width="12%">
 
-[eo&nbsp;❗](statuses/eo.md)
+[eo&nbsp;✔](statuses/eo.md)
 
 </td><td width="12%">
 

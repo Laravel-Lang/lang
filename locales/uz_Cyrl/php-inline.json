@@ -36,7 +36,7 @@
     "doesnt_end_with": "Бу майдон қуйидагилардан бири билан тугамаслиги керак: :values.",
     "doesnt_start_with": "Бу майдон қуйидагилардан бири билан бошланмаслиги керак: :values.",
     "email": "Бу қиймат электрон почта манзили бўлиши керак.",
-    "encoding": "This field must be encoded in :encoding.",
+    "encoding": "Ushbu maydon :encoding bilan kodlangan bo'lishi kerak.",
     "ends_with": "Бу қиймат қуйидагилардан бири билан тугаши керак: :values.",
     "enum": "Танланган қиймат рухсат этилган қийматлар рўйхатида йўқ.",
     "exists": "Танланган қиймат нотўғри.",

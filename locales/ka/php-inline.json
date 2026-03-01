@@ -36,7 +36,7 @@
     "doesnt_end_with": "ეს ველი არ შეიძლება დასრულდეს შემდეგი სიტყვებით: :values.",
     "doesnt_start_with": "ეს ველი შეიძლება არ იწყებოდეს ქვემოთ ჩამოთვლილიდან ერთით: :values.",
     "email": "ეს უნდა იყოს სწორი ელექტრონული ფოსტის მისამართი.",
-    "encoding": "This field must be encoded in :encoding.",
+    "encoding": "ეს ველი უნდა იყოს კოდირებული :encoding-ში.",
     "ends_with": "ეს უნდა დასრულდეს ერთ-ერთი შემდეგი: :values.",
     "enum": "The selected value is not in the list of allowed values.",
     "exists": "შერჩეული ღირებულება არასწორია.",

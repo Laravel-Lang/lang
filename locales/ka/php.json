@@ -37,7 +37,7 @@
     "doesnt_end_with": ":Attribute არ შეიძლება დასრულდეს ქვემოთ ჩამოთვლილიდან ერთით: :values.",
     "doesnt_start_with": ":Attribute არ შეიძლება დაიწყოს რომელიმე ქვემოთ ჩამოთვლილიდან: :values.",
     "email": ":Attribute უნდა იყოს სწორი ელ.ფოსტა.",
-    "encoding": "The :attribute field must be encoded in :encoding.",
+    "encoding": ":attribute ველი უნდა იყოს კოდირებული :encoding-ში.",
     "ends_with": ":Attribute უნდა ბოლოვდებოდეს შემდეგიდან ერთ-ერთით: :values.",
     "enum": "არჩეული :attribute არასწორია.",
     "exists": "არჩეული :attribute არასწორია.",

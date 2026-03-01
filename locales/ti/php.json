@@ -37,7 +37,7 @@
     "doesnt_end_with": "እቲ ናይ :attribute ዓውዲ ብሓደ ካብዞም ዝስዕቡ ክውዳእ የብሉን፡ :values.",
     "doesnt_start_with": "እቲ :attribute ዝብል ዓውዲ ብሓደ ካብዞም ዝስዕቡ ክጅምር የብሉን፡ :values.",
     "email": "እቶም :attribute ቅኑዕ ኢመይል ኣድራሻ ክኾኑ ኣለዎም።",
-    "encoding": "The :attribute field must be encoded in :encoding.",
+    "encoding": "እቲ :attribute ዓውዲ ኣብ :encoding ኢንኮድ ክኸውን ኣለዎ።",
     "ends_with": "እተን :attribute ብሓደ ካብዞም ዝስዕቡ ክውድኣ ኣለወን፡ :values.",
     "enum": "እቲ ዝተመርጸ :attribute ቅኑዕ ኣይኮነን።",
     "exists": "እቲ ዝተመርጸ :attribute ቅኑዕ ኣይኮነን።",

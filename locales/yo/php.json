@@ -37,7 +37,7 @@
     "doesnt_end_with": "Aaye :attribute kò gbọ́dọ̀ parí pẹ̀lú ọ̀kan nínú wọ̀nyí: :values.",
     "doesnt_start_with": "Aaye :attribute kò gbọ́dọ̀ bẹ̀rẹ̀ pẹ̀lú ọ̀kan nínú wọ̀nyí: :values.",
     "email": "Aaye :attribute gbọ́dọ̀ jẹ́ adirẹ́sì imeeli to wulo.",
-    "encoding": "The :attribute field must be encoded in :encoding.",
+    "encoding": "Aaye :attribute gbọdọ wa ni koodu ni :encoding.",
     "ends_with": "Aaye :attribute gbọ́dọ̀ parí pẹ̀lú ọ̀kan nínú wọ̀nyí: :values.",
     "enum": "Aṣàyàn :attribute kò wulo.",
     "exists": "Aṣàyàn :attribute kò wulo.",

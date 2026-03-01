@@ -37,7 +37,7 @@
     "doesnt_end_with": ":attribute ఫీల్డ్ కింది వాటిలో ఒకదానితో ముగియకూడదు: :values.",
     "doesnt_start_with": ":attribute ఫీల్డ్ కింది వాటిలో ఒకదానితో ప్రారంభం కాకూడదు: :values.",
     "email": ":attribute తప్పక చెల్లుబాటు అయ్యే ఇమెయిల్ చిరునామా అయి ఉండాలి.",
-    "encoding": "The :attribute field must be encoded in :encoding.",
+    "encoding": ":attribute ఫీల్డ్ తప్పనిసరిగా :encodingలో ఎన్‌కోడ్ చేయబడాలి.",
     "ends_with": ":attribute కింది వాటిలో ఒకదానితో ముగియాలి: :values.",
     "enum": "ఎంచుకున్న :attribute చెల్లనివి.",
     "exists": "ఎంచుకున్న :attribute చెల్లనివి.",

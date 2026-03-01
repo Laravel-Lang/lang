@@ -9,7 +9,7 @@ editLink: false
 <table width="100%">
 <tr><td width="12%">
 
-[af&nbsp;❗](statuses/af.md)
+[af&nbsp;✔](statuses/af.md)
 
 </td><td width="12%">
 

@@ -37,7 +37,7 @@
     "doesnt_end_with": "Kaua e mutu te mara :attribute ki tetahi o enei e whai ake nei: :values.",
     "doesnt_start_with": "Kaua e timata te mara :attribute ki tetahi o enei e whai ake nei: :values.",
     "email": "Ko te :attribute he wahitau imeera whaimana.",
-    "encoding": "The :attribute field must be encoded in :encoding.",
+    "encoding": "Me whakawaeheretia te mara :attribute ki te :encoding.",
     "ends_with": "Me mutu te :attribute ki tetahi o enei e whai ake nei: :values.",
     "enum": "Ko te :attribute kua tohua he muhu.",
     "exists": "Ko te :attribute kua tohua he muhu.",

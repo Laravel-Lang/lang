@@ -36,7 +36,7 @@
     "doesnt_end_with": "Isian ini tidak boleh diakhiri dengan salah satu dari berikut ini: :values.",
     "doesnt_start_with": "Isian ini tidak boleh dimulai dengan salah satu dari berikut ini: :values.",
     "email": "Isian ini harus berisi format email yang benar.",
-    "encoding": "This field must be encoded in :encoding.",
+    "encoding": "Bidang ini harus dikodekan dalam :encoding.",
     "ends_with": "Isian ini harus berakhiran dengan: :values.",
     "enum": "Nilai yang dipilih tidak valid.",
     "exists": "Nilai yang dipilih tidak sesuai.",

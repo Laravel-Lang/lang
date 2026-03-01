@@ -37,7 +37,7 @@
     "doesnt_end_with": ":Attributeekoa ezingo da honako hauetako batekin amaitu: :values.",
     "doesnt_start_with": ":Attributeekoa ezingo da honako hauetako batekin hasi: :values.",
     "email": ":Attribute baliozko helbide elektronikoa izan behar da.",
-    "encoding": "The :attribute field must be encoded in :encoding.",
+    "encoding": ":attribute eremua :encodingn kodetu behar da.",
     "ends_with": ":Attribute-(e)k ondorengo balioetako batekin amaitu behar du: :values",
     "enum": "Hautatutako :attributeak ez du balio.",
     "exists": ":Attribute baliogabea da.",

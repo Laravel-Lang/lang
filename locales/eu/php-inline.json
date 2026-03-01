@@ -36,7 +36,7 @@
     "doesnt_end_with": "Eremu hau ezin da honako hauetako batekin amaitu: :values.",
     "doesnt_start_with": "Baliteke eremu hau ezin izatea honako hauetako batekin hasi: :values.",
     "email": "Hau izan behar da baliozko helbide elektroniko bat.",
-    "encoding": "This field must be encoded in :encoding.",
+    "encoding": "Eremu hau :encodingean kodetu behar da.",
     "ends_with": "Hau behar amaiera hauetako bat: :values.",
     "enum": "The selected value is not in the list of allowed values.",
     "exists": "Hautatutako balio baliogabea da.",

@@ -36,7 +36,7 @@
     "doesnt_end_with": "Mele be agble sia nawu enu kple nusiwo gbɔna dometɔ ɖeka o: :values.",
     "doesnt_start_with": "Mele be agble sia nadze egɔme kple esiawo dometɔ ɖeka o: :values.",
     "email": "Ele be akpa sia nanye e-mail adrɛs si sɔ.",
-    "encoding": "This field must be encoded in :encoding.",
+    "encoding": "Ele be woaŋlɔ agble sia ɖe :encoding me.",
     "ends_with": "Ele be agble sia nawu enu kple esiawo dometɔ ɖeka: :values.",
     "enum": "Agble si nètia la mesɔ o.",
     "exists": "Agble si nètia la mesɔ o.",

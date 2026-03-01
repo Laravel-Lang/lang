@@ -37,7 +37,7 @@
     "doesnt_end_with": ":attribute புலம் பின்வரும் எதனாலும் முடிவடையக்கூடாது: :values.",
     "doesnt_start_with": ":attribute புலம் பின்வரும் எதனாலும் தொடங்கக்கூடாது: :values.",
     "email": ":attribute புலம் சரியான மின்னஞ்சல் முகவரியாக இருக்க வேண்டும்.",
-    "encoding": "The :attribute field must be encoded in :encoding.",
+    "encoding": ":attribute புலம் :encodingல் குறியாக்கம் செய்யப்பட வேண்டும்.",
     "ends_with": ":attribute புலம் பின்வரும் எதனாவது ஒன்றால் முடிவடைய வேண்டும்: :values.",
     "enum": "தேர்ந்தெடுக்கப்பட்ட :attribute தவறானது.",
     "exists": "தேர்ந்தெடுக்கப்பட்ட :attribute தவறானது.",

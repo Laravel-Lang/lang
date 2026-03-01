@@ -37,7 +37,7 @@
     "doesnt_end_with": "Efallai na fydd y :attribute yn gorffen gydag un o’r canlynol: :values.",
     "doesnt_start_with": "Efallai na fydd y :attribute yn dechrau gydag un o’r canlynol: :values.",
     "email": "Rhaid i :attribute fod yn gyfeiriad ebost dilys.",
-    "encoding": "The :attribute field must be encoded in :encoding.",
+    "encoding": "Rhaid amgodio’r maes :attribute yn :encoding.",
     "ends_with": "Y :attribute rhaid i ben gydag un o'r canlynol: :values.",
     "enum": "Mae'r :attribute a ddewiswyd yn annilys.",
     "exists": "Nid yw :attribute yn ddilys.",

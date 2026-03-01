@@ -37,7 +37,7 @@
     "doesnt_end_with": ":Attribute метавонад бо яке аз зерин хотима наёбад: :values.",
     "doesnt_start_with": ":Attribute метавонад бо яке аз инҳо оғоз нашавад: :values.",
     "email": "Қиммати :attribute бояд суроғаи электронии дуруст бошад.",
-    "encoding": "The :attribute field must be encoded in :encoding.",
+    "encoding": "Майдони :attribute бояд бо :encoding рамзгузорӣ карда шавад.",
     "ends_with": "Рақами :attribute бояд заканчиваться яке аз зерин: :values.",
     "enum": ":Attribute-и интихобшуда нодуруст аст.",
     "exists": "Қиммати интихобкардаи :attribute нодуруст мебошад.",

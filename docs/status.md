@@ -190,7 +190,7 @@ editLink: false
 
 </td><td width="12%">
 
-[hu&nbsp;❗](statuses/hu.md)
+[hu&nbsp;✔](statuses/hu.md)
 
 </td><td width="12%">
 

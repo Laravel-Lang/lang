@@ -4,12 +4,12 @@ editLink: false
 
 # fa
 
-##### All missed: 4
+##### All missed: 0
 
 
 ### json
 
-##### Missing: 2
+##### Missing: 0
 
 <table width="100%">
 <tr><th width="50%">
@@ -27,7 +27,7 @@ Reset your password
 
 </td><td width="50%">
 
-Reset your password
+بازنشانی رمزعبور شما
 
 </td></tr>
 <tr><td width="50%">
@@ -36,7 +36,7 @@ Verify your email address
 
 </td><td width="50%">
 
-Verify your email address
+تایید آدرس ایمبل شما
 
 </td></tr>
 </table>
@@ -47,7 +47,7 @@ Verify your email address
 
 ### php-inline
 
-##### Missing: 1
+##### Missing: 0
 
 <table width="100%">
 <tr><th width="50%">
@@ -65,8 +65,7 @@ encoding
 
 </td><td width="50%">
 
-This field must be encoded in :encoding.
-
+این فیلد باید با رمزگذاری :encoding کدگذاری شود.
 </td></tr>
 </table>
 
@@ -76,7 +75,7 @@ This field must be encoded in :encoding.
 
 ### php
 
-##### Missing: 1
+##### Missing: 0
 
 <table width="100%">
 <tr><th width="50%">
@@ -94,8 +93,7 @@ encoding
 
 </td><td width="50%">
 
-The :attribute field must be encoded in :encoding.
-
+فیلد :attribute باید با رمزگذاری :encoding کدگذاری شود.
 </td></tr>
 </table>
 

@@ -15,8 +15,8 @@ class Main extends Plugin
     public function files(): array
     {
         return [
-            'passkeys/main/passkeys.json'    => '{locale}.json',
-            'passkeys/extended.json'         => '{locale}.json',
+            'passkeys/main/passkeys.json' => '{locale}.json',
+            'passkeys/extended.json'      => '{locale}.json',
         ];
     }
 }

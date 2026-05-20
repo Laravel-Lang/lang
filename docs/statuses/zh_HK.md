@@ -4,12 +4,12 @@ editLink: false
 
 # zh_HK
 
-##### All missed: 23
+##### All missed: 31
 
 
 ### json
 
-##### Missing: 21
+##### Missing: 29
 
 <table width="100%">
 <tr><th width="50%">
@@ -77,6 +77,15 @@ If you need to add specific contact or tax information to your invoices, like yo
 </td></tr>
 <tr><td width="50%">
 
+Invalid credential format.
+
+</td><td width="50%">
+
+Invalid credential format.
+
+</td></tr>
+<tr><td width="50%">
+
 Invoice Email Addresses
 
 </td><td width="50%">
@@ -109,6 +118,33 @@ OK
 </td><td width="50%">
 
 OK
+
+</td></tr>
+<tr><td width="50%">
+
+Passkey not recognized. It may have been removed from your account.
+
+</td><td width="50%">
+
+Passkey not recognized. It may have been removed from your account.
+
+</td></tr>
+<tr><td width="50%">
+
+Passkey registration session expired. Please try again.
+
+</td><td width="50%">
+
+Passkey registration session expired. Please try again.
+
+</td></tr>
+<tr><td width="50%">
+
+Passkey verification session expired. Please try again.
+
+</td><td width="50%">
+
+Passkey verification session expired. Please try again.
 
 </td></tr>
 <tr><td width="50%">
@@ -172,6 +208,42 @@ This payment was initiated, but the funds have not been received yet. This can t
 </td><td width="50%">
 
 This payment was initiated, but the funds have not been received yet. This can take up to 14 days.
+
+</td></tr>
+<tr><td width="50%">
+
+Unable to register passkey. Please try again.
+
+</td><td width="50%">
+
+Unable to register passkey. Please try again.
+
+</td></tr>
+<tr><td width="50%">
+
+Unable to register this passkey.
+
+</td><td width="50%">
+
+Unable to register this passkey.
+
+</td></tr>
+<tr><td width="50%">
+
+Unable to sign in with this account.
+
+</td><td width="50%">
+
+Unable to sign in with this account.
+
+</td></tr>
+<tr><td width="50%">
+
+Unable to verify passkey. Please try again.
+
+</td><td width="50%">
+
+Unable to verify passkey. Please try again.
 
 </td></tr>
 <tr><td width="50%">

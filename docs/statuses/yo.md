@@ -4,12 +4,12 @@ editLink: false
 
 # yo
 
-##### All missed: 89
+##### All missed: 97
 
 
 ### json
 
-##### Missing: 89
+##### Missing: 97
 
 <table width="100%">
 <tr><th width="50%">
@@ -356,6 +356,15 @@ Indonesia
 </td></tr>
 <tr><td width="50%">
 
+Invalid credential format.
+
+</td><td width="50%">
+
+Invalid credential format.
+
+</td></tr>
+<tr><td width="50%">
+
 Iran, Islamic Republic Of
 
 </td><td width="50%">
@@ -608,6 +617,33 @@ Paraguay
 </td></tr>
 <tr><td width="50%">
 
+Passkey not recognized. It may have been removed from your account.
+
+</td><td width="50%">
+
+Passkey not recognized. It may have been removed from your account.
+
+</td></tr>
+<tr><td width="50%">
+
+Passkey registration session expired. Please try again.
+
+</td><td width="50%">
+
+Passkey registration session expired. Please try again.
+
+</td></tr>
+<tr><td width="50%">
+
+Passkey verification session expired. Please try again.
+
+</td><td width="50%">
+
+Passkey verification session expired. Please try again.
+
+</td></tr>
+<tr><td width="50%">
+
 Philippines
 
 </td><td width="50%">
@@ -784,6 +820,42 @@ Ukraine
 </td><td width="50%">
 
 Ukraine
+
+</td></tr>
+<tr><td width="50%">
+
+Unable to register passkey. Please try again.
+
+</td><td width="50%">
+
+Unable to register passkey. Please try again.
+
+</td></tr>
+<tr><td width="50%">
+
+Unable to register this passkey.
+
+</td><td width="50%">
+
+Unable to register this passkey.
+
+</td></tr>
+<tr><td width="50%">
+
+Unable to sign in with this account.
+
+</td><td width="50%">
+
+Unable to sign in with this account.
+
+</td></tr>
+<tr><td width="50%">
+
+Unable to verify passkey. Please try again.
+
+</td><td width="50%">
+
+Unable to verify passkey. Please try again.
 
 </td></tr>
 <tr><td width="50%">

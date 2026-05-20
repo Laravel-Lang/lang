@@ -4,12 +4,12 @@ editLink: false
 
 # zu
 
-##### All missed: 19
+##### All missed: 27
 
 
 ### json
 
-##### Missing: 19
+##### Missing: 27
 
 <table width="100%">
 <tr><th width="50%">
@@ -95,6 +95,15 @@ Greece
 </td></tr>
 <tr><td width="50%">
 
+Invalid credential format.
+
+</td><td width="50%">
+
+Invalid credential format.
+
+</td></tr>
+<tr><td width="50%">
+
 Kazakhstan
 
 </td><td width="50%">
@@ -154,6 +163,33 @@ Niue
 </td><td width="50%">
 
 Niue
+
+</td></tr>
+<tr><td width="50%">
+
+Passkey not recognized. It may have been removed from your account.
+
+</td><td width="50%">
+
+Passkey not recognized. It may have been removed from your account.
+
+</td></tr>
+<tr><td width="50%">
+
+Passkey registration session expired. Please try again.
+
+</td><td width="50%">
+
+Passkey registration session expired. Please try again.
+
+</td></tr>
+<tr><td width="50%">
+
+Passkey verification session expired. Please try again.
+
+</td><td width="50%">
+
+Passkey verification session expired. Please try again.
 
 </td></tr>
 <tr><td width="50%">
@@ -190,6 +226,42 @@ Uganda
 </td><td width="50%">
 
 Uganda
+
+</td></tr>
+<tr><td width="50%">
+
+Unable to register passkey. Please try again.
+
+</td><td width="50%">
+
+Unable to register passkey. Please try again.
+
+</td></tr>
+<tr><td width="50%">
+
+Unable to register this passkey.
+
+</td><td width="50%">
+
+Unable to register this passkey.
+
+</td></tr>
+<tr><td width="50%">
+
+Unable to sign in with this account.
+
+</td><td width="50%">
+
+Unable to sign in with this account.
+
+</td></tr>
+<tr><td width="50%">
+
+Unable to verify passkey. Please try again.
+
+</td><td width="50%">
+
+Unable to verify passkey. Please try again.
 
 </td></tr>
 </table>

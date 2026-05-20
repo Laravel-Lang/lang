@@ -69,6 +69,21 @@ jobs:
                     --project=fortify \
                     --ver=${{ matrix.version }}
 
+    passkeys:
+        uses: Laravel-Lang/.github/.github/workflows/download.yml@main
+        strategy:
+            fail-fast: true
+            matrix:
+                version: [ "main" ]
+        with:
+            project: Laravel Passkeys ${{ matrix.version }}
+            paths: source/passkeys/${{ matrix.version }}/*
+            commands: |
+                vendor/bin/lang download \
+                    --url=https://github.com/laravel/passkeys-server/archive/refs/heads/${{ matrix.version }}.zip \
+                    --project=passkeys \
+                    --ver=${{ matrix.version }}
+
     jetstream:
         uses: Laravel-Lang/.github/.github/workflows/download.yml@main
         strategy:

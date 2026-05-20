@@ -1,0 +1,5 @@
+{
+    "Invalid credential format.": "Invalid credential format.",
+    "Passkey registration session expired. Please try again.": "Passkey registration session expired. Please try again.",
+    "Passkey verification session expired. Please try again.": "Passkey verification session expired. Please try again."
+}

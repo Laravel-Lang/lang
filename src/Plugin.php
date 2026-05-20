@@ -36,6 +36,8 @@ class Plugin extends Provider
 
         Plugins\Nova\DuskSuite\Main::class,
 
+        Plugins\Passkeys\Main::class,
+
         Plugins\Spark\Paddle::class,
         Plugins\Spark\Stripe::class,
 

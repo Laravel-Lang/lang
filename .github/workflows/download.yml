@@ -106,7 +106,6 @@ jobs:
             fail-fast: true
             matrix:
                 nova:
-                    - { branch: "4.x", version: "4.0" }
                     - { branch: "5.x", version: "5.0" }
         
         name: nova (${{ matrix.nova.branch }})

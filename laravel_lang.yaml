@@ -1,0 +1,19 @@
+plugins:
+    -   vendor: 'laravel/framework'
+        files:
+            -   source: 'some.json'
+                target: '{locale}.json'
+            -   source: 'custom.php'
+                target: '{locale}/custom.php'
+
+    -   vendor: 'laravel/framework'
+        version: '^12.0'
+        files:
+            -   source: 'packages/foo.json'
+                target: '{locale}.json'
+
+    -   vendor: 'laravel/framework'
+        version: '^13.0'
+        files:
+            -   source: 'packages/bar.json'
+                target: '{locale}.json'

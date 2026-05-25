@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "Ин майдон бояд нақши дуруст бошад.",
+    "The :attribute must be at least :length characters and contain at least one number.": "Ин майдон бояд ҳадди аққал :length аломат бошад ва ҳадди аққал як рақамро дар бар гирад.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "Ин майдон бояд ҳадди аққал :length аломат бошад ва ҳадди аққал як аломати махсус ва як рақамро дар бар гирад.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "Ин майдон бояд ҳадди аққал :length аломат бошад ва ҳадди аққал як аломати махсусро дар бар гирад.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "Ин майдон бояд ҳадди аққал :length аломат бошад ва ҳадди аққал як аломати калон ва як рақамро дар бар гирад.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "Ин майдон бояд на камтар аз :length аломат бошад ва ҳадди аққал як аломати калон ва як аломати махсусро дар бар гирад.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "Ин майдон бояд ҳадди аққал :length аломат бошад ва ҳадди аққал як аломати калон, як рақам ва як аломати махсусро дар бар гирад.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "Ин майдон бояд на камтар аз :length аломат бошад ва ҳадди аққал як аломати калон дошта бошад.",
+    "The :attribute must be at least :length characters.": "Ин майдон бояд на камтар аз :length аломат бошад.",
+    "The :attribute must contain at least one letter.": "Ин майдон бояд ҳадди аққал як ҳарф дошта бошад.",
+    "The :attribute must contain at least one number.": "Ин майдон бояд ҳадди аққал як рақам дошта бошад.",
+    "The :attribute must contain at least one symbol.": "Ин майдон бояд ҳадди аққал як аломат дошта бошад.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "Ин майдон бояд ҳадди аққал як ҳарфи калон ва як ҳарфи хурд дошта бошад.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Майдони додашуда дар ихроҷи маълумот пайдо шудааст. Лутфан майдони дигарро интихоб кунед."
+}

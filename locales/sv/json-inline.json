@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "Detta fält måste vara en giltig roll.",
+    "The :attribute must be at least :length characters and contain at least one number.": "Detta fält måste bestå av minst :length tecken och innehålla minst ett nummer.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "Detta fält måste bestå av minst :length tecken och innehålla minst ett specialtecken och ett nummer.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "Detta fält måste bestå av minst :length tecken och innehålla minst ett specialtecken.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "Det här fältet måste bestå av minst :length tecken och innehålla minst en versal och en siffra.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "Detta fält måste bestå av minst :length tecken och innehålla minst ett versaltecken och ett specialtecken.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "Detta fält måste bestå av minst :length tecken och innehålla minst ett versaltecken, ett nummer och ett specialtecken.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "Det här fältet måste bestå av minst :length tecken och innehålla minst en versal.",
+    "The :attribute must be at least :length characters.": "Detta fält måste bestå av minst :length tecken.",
+    "The :attribute must contain at least one letter.": "Detta fält måste innehålla minst en bokstav.",
+    "The :attribute must contain at least one number.": "Detta fält måste innehålla minst ett nummer.",
+    "The :attribute must contain at least one symbol.": "Detta fält måste innehålla minst en symbol.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "Detta fält måste innehålla minst en stor och en liten bokstav.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Det angivna fältet har dykt upp i en dataläcka. Välj ett annat fält."
+}

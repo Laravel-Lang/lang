@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "Ity saha ity dia tsy maintsy manana anjara toerana manan-danja.",
+    "The :attribute must be at least :length characters and contain at least one number.": "Ity saha ity dia tsy maintsy tarehintsoratra :length farafahakeliny ary misy isa iray farafahakeliny.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "Ity saha ity dia tsy maintsy tarehintsoratra :length fara-fahakeliny ary misy tarehin-tsoratra manokana iray farafahakeliny ary isa iray.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "Ity saha ity dia tsy maintsy misy tarehintsoratra :length farafahakeliny ary misy tarehintsoratra manokana iray farafahakeliny.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "Ity saha ity dia tsy maintsy tarehintsoratra :length fara-fahakeliny ary misy tarehin-tsoratra lehibe iray farafahakeliny sy isa iray.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "Ity saha ity dia tsy maintsy manana tarehin-tsoratra :length farafahakeliny ary misy tarehin-tsoratra lehibe iray farafahakeliny ary tarehin-tsoratra manokana iray.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "Ity saha ity dia tsy maintsy manana tarehin-tsoratra :length farafahakeliny ary misy tarehin-tsoratra lehibe iray, isa iray ary tarehintsoratra manokana iray farafahakeliny.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "Ity saha ity dia tsy maintsy manana tarehin-tsoratra :length farafahakeliny ary misy tarehin-tsoratra lehibe iray farafahakeliny.",
+    "The :attribute must be at least :length characters.": "Tsy maintsy tarehintsoratra :length fara-fahakeliny ity saha ity.",
+    "The :attribute must contain at least one letter.": "Ity saha ity dia tsy maintsy misy litera iray farafahakeliny.",
+    "The :attribute must contain at least one number.": "Ity saha ity dia tsy maintsy misy isa iray farafahakeliny.",
+    "The :attribute must contain at least one symbol.": "Ity saha ity dia tsy maintsy misy marika iray farafahakeliny.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "Ity saha ity dia tsy maintsy ahitana litera lehibe iray sy litera kely iray farafahakeliny.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Ny saha nomena dia niseho tamin'ny famoahana angon-drakitra. Misafidiana saha hafa azafady."
+}

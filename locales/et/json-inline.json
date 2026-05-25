@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "See väli peab olema kehtiv roll.",
+    "The :attribute must be at least :length characters and contain at least one number.": "See väli peab olema vähemalt :length tähemärgi pikkune ja sisaldama vähemalt ühte numbrit.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "Sellel väljal peab olema vähemalt :length tähemärki ning vähemalt üks erimärk ja üks number.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "Sellel väljal peab olema vähemalt :length tähemärki ja vähemalt üks erimärk.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "Sellel väljal peab olema vähemalt :length tähemärki ja vähemalt üks suurtäht ja üks number.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "Sellel väljal peab olema vähemalt :length tähemärki ja vähemalt üks suurtäht ja üks erimärk.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "Sellel väljal peab olema vähemalt :length tähemärki ja vähemalt üks suurtäht, üks number ja üks erimärk.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "Sellel väljal peab olema vähemalt :length tähemärki ja vähemalt üks suurtäht.",
+    "The :attribute must be at least :length characters.": "Sellel väljal peab olema vähemalt :length tähemärki.",
+    "The :attribute must contain at least one letter.": "Sellel väljal peab olema vähemalt üks täht.",
+    "The :attribute must contain at least one number.": "See väli peab sisaldama vähemalt ühte numbrit.",
+    "The :attribute must contain at least one symbol.": "See väli peab sisaldama vähemalt ühte sümbolit.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "Sellel väljal peab olema vähemalt üks suur- ja üks väiketäht.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Antud väli on ilmnenud andmelekkes. Valige mõni muu väli."
+}

@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "بۇ ساھە چوقۇم ئۈنۈملۈك رول بولۇشى كېرەك.",
+    "The :attribute must be at least :length characters and contain at least one number.": "بۇ ساھەدە كەم دېگەندە :length ھەرپ بولۇشى ھەمدە كەم دېگەندە بىر سان بولۇشى كېرەك.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "بۇ ساھەدە كەم دېگەندە :length ھەرپ بولۇشى ھەمدە كەم دېگەندە بىر ئالاھىدە ھەرپ ۋە بىر سان بولۇشى كېرەك.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "بۇ ساھەدە كەم دېگەندە :length ھەرپ بولۇشى ھەمدە كەم دېگەندە بىر ئالاھىدە ھەرپ بولۇشى كېرەك.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "بۇ ساھەدە كەم دېگەندە :length ھەرپ بولۇشى ھەمدە كەم دېگەندە بىر چوڭ ھەرپ ۋە بىر سان بولۇشى كېرەك.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "بۇ ساھەدە كەم دېگەندە :length ھەرپ بولۇشى ھەمدە كەم دېگەندە بىر چوڭ ھەرپ ۋە بىر ئالاھىدە ھەرپ بولۇشى كېرەك.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "بۇ ساھەدە كەم دېگەندە :length ھەرپ بولۇشى ھەمدە كەم دېگەندە بىر چوڭ ھەرپ ، بىر سان ۋە بىر ئالاھىدە ھەرپ بولۇشى كېرەك.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "بۇ ساھەدە كەم دېگەندە :length ھەرپ بولۇشى ھەمدە كەم دېگەندە بىر چوڭ ھەرپ بولۇشى كېرەك.",
+    "The :attribute must be at least :length characters.": "بۇ ساھە كەم دېگەندە :length ھەرپ بولۇشى كېرەك.",
+    "The :attribute must contain at least one letter.": "بۇ ساھەدە كەم دېگەندە بىر ھەرپ بولۇشى كېرەك.",
+    "The :attribute must contain at least one number.": "بۇ ساھەدە كەم دېگەندە بىر سان بولۇشى كېرەك.",
+    "The :attribute must contain at least one symbol.": "بۇ ساھەدە كەم دېگەندە بىر بەلگە بولۇشى كېرەك.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "بۇ ساھەدە كەم دېگەندە بىر چوڭ ھەرپ ۋە بىر كىچىك ھەرپ بولۇشى كېرەك.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "بېرىلگەن ساھە سانلىق مەلۇمات ئاشكارىلاشتا پەيدا بولدى. باشقا بىر ساھەنى تاللاڭ."
+}

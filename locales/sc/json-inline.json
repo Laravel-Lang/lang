@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "Custu depet èssere unu ruolu bàlidu.",
+    "The :attribute must be at least :length characters and contain at least one number.": "Custu depet tènnere a su mancu :length caràteres e cuntènnere a su mancu unu nùmeru.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "Custu depet tènnere a su mancu :length caràteres e cuntènnere a su mancu unu caràtere ispetziale e unu nùmeru.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "Custu depet tènnere a su mancu :length caràteres e cuntènnere a su mancu unu caràtere ispetziale.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "Custu depet tènnere a su mancu :length caràteres e cuntènnere a su mancu una lìtera majùscula e unu nùmeru.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "Custu depet tènnere a su mancu :length caràteres e cuntènnere a su mancu una lìtera majùscula e unu caràtere ispetziale.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "Custu depet tènnere a su mancu :length caràteres e cuntènnere a su mancu una lìtera majùscula, unu nùmeru e unu caràtere ispetziale.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "Custu depet tènnere a su mancu :length caràteres e cuntènnere a su mancu una lìtera majùscula.",
+    "The :attribute must be at least :length characters.": "Custu depet tènnere a su mancu :length caràteres.",
+    "The :attribute must contain at least one letter.": "Custu depet cuntènnere a su mancu una lìtera.",
+    "The :attribute must contain at least one number.": "Custu depet cuntènnere a su mancu unu nùmeru.",
+    "The :attribute must contain at least one symbol.": "Custu depet cuntènnere a su mancu unu sìmbulu.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "Custu depet cuntènnere a su mancu una lìtera majùscula e una minùscula.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Su balore datu est apparidu in una diffusione de datos. Sèbera un'àteru."
+}

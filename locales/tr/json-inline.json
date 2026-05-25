@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "Bu alan geçerli bir rol olmalıdır.",
+    "The :attribute must be at least :length characters and contain at least one number.": "Bu alan en az :length karakterden oluşmalı ve en az bir sayı içermelidir.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "Bu alan en az :length karakterden oluşmalı ve en az bir özel karakter ve bir sayı içermelidir.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "Bu alan en az :length karakterden oluşmalı ve en az bir özel karakter içermelidir.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "Bu alan en az :length karakterlerinden oluşmalı ve en az bir büyük harf ve bir sayı içermelidir.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "Bu alan en az :length karakterlerinden oluşmalı ve en az bir büyük harf ve bir özel karakter içermelidir.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "Bu alan en az :length karakterlerinden oluşmalı ve en az bir büyük harf, bir sayı ve bir özel karakter içermelidir.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "Bu alan en az :length karakterden oluşmalı ve en az bir büyük harf içermelidir.",
+    "The :attribute must be at least :length characters.": "Bu alan en az :length karakterlerinden oluşmalıdır.",
+    "The :attribute must contain at least one letter.": "Bu alan en az bir harf içermelidir.",
+    "The :attribute must contain at least one number.": "Bu alan en az bir sayı içermelidir.",
+    "The :attribute must contain at least one symbol.": "Bu alan en az bir sembol içermelidir.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "Bu alan en az bir büyük ve bir küçük harf içermelidir.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Verilen alan bir veri sızıntısında ortaya çıktı. Lütfen farklı bir alan seçin."
+}

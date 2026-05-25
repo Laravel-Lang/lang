@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "Kini nga natad kinahanglan usa ka balido nga papel.",
+    "The :attribute must be at least :length characters and contain at least one number.": "Kini nga field kinahanglan labing menos :length ka karakter ug adunay labing menos usa ka numero.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "Kini nga field kinahanglan nga labing menos :length ka mga karakter ug adunay labing menos usa ka espesyal nga karakter ug usa ka numero.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "Kini nga field kinahanglan nga labing menos :length ka mga karakter ug adunay labing menos usa ka espesyal nga karakter.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "Kini nga field kinahanglan labing menos :length ka karakter ug adunay labing menos usa ka uppercase nga karakter ug usa ka numero.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "Kini nga field kinahanglan nga labing menos :length ka mga karakter ug adunay labing menos usa ka uppercase nga karakter ug usa ka espesyal nga karakter.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "Kini nga field kinahanglan nga labing menos :length ka mga karakter ug adunay labing menos usa ka uppercase nga karakter, usa ka numero, ug usa ka espesyal nga karakter.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "Kini nga field kinahanglan labing menos :length ka karakter ug adunay labing menos usa ka uppercase nga karakter.",
+    "The :attribute must be at least :length characters.": "Kini nga field kinahanglang labing menos :length ka karakter.",
+    "The :attribute must contain at least one letter.": "Kini nga field kinahanglan adunay labing menos usa ka letra.",
+    "The :attribute must contain at least one number.": "Kini nga field kinahanglan adunay labing menos usa ka numero.",
+    "The :attribute must contain at least one symbol.": "Kini nga field kinahanglan adunay labing menos usa ka simbolo.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "Kini nga field kinahanglan adunay labing menos usa ka uppercase ug usa ka lowercase nga letra.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Ang gihatag nga field nagpakita sa usa ka data leak. Palihug pagpili og lain nga field."
+}

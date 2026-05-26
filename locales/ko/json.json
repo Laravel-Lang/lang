@@ -337,7 +337,7 @@
     "Increase": "증가",
     "India": "인도",
     "Indonesia": "인도네시아",
-    "Invalid credential format.": "Invalid credential format.",
+    "Invalid credential format.": "인증 형식이 올바르지 않습니다.",
     "Invalid filename.": "파일 이름이 잘못되었습니다.",
     "Invalid JSON was returned from the route.": "경로에서 잘못된 JSON이 반환되었습니다.",
     "Invoice Email Addresses": "송장 이메일 주소",

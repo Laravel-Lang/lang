@@ -10,7 +10,7 @@ class Main extends Plugin
 {
     protected ?string $vendor = 'laravel/passkeys';
 
-    protected string $version = 'dev-main || ^0.2';
+    protected string $version = 'dev-main || 0.*';
 
     public function files(): array
     {

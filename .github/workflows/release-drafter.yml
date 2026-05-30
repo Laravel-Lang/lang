@@ -1,15 +1,17 @@
 name: Release Drafter
 
 on:
-  push:
-    branches:
-      - main
-  release:
-    types:
-      - unpublished
-  workflow_dispatch:
+    push:
+        branches:
+            - main
+    release:
+        types:
+            - unpublished
+    workflow_dispatch:
 
-permissions: write-all
+permissions:
+    contents: write
+    pull-requests: write
 
 jobs:
     Update:

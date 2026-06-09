@@ -4,12 +4,12 @@ editLink: false
 
 # nl
 
-##### All missed: 11
+##### All missed: 10
 
 
 ### json
 
-##### Missing: 9
+##### Missing: 8
 
 <table width="100%">
 <tr><th width="50%">
@@ -91,15 +91,6 @@ Unable to verify passkey. Please try again.
 </td><td width="50%">
 
 Unable to verify passkey. Please try again.
-
-</td></tr>
-<tr><td width="50%">
-
-Verify your email address
-
-</td><td width="50%">
-
-Verify your email address
 
 </td></tr>
 </table>

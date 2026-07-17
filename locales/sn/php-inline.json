@@ -11,6 +11,7 @@
     "array": "Iyi ndima inofanira kuva yakarongwa.",
     "ascii": "Iyi ndima inofanira chete kuva ne-single-byte alphanumeric characters nezviratidzo.",
     "attached": "Iyi ndima yakatobatanidzwa.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Iyi ndima inofanira kunge isati yasvika :date.",
     "before_or_equal": "Iyi ndima inofanirwa kunge iri zuva risati rasvika kana rakaenzana ne:date.",
     "between.array": "Munda uyu unofanirwa kunge uine zvinhu zviri pakati pe:min ne:max.",

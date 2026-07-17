@@ -11,6 +11,7 @@
     "array": "Dette feltet må vere ei liste.",
     "ascii": "Dette feltet kan berre innehalde einsbyte-alfanumeriske teikn og symbol.",
     "attached": "Dette feltet er allereie vedlagt.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Dette må vere ein dato før :date.",
     "before_or_equal": "Dette må vere ein dato før eller lik :date.",
     "between.array": "Innhaldet må ha mellom :min og :max element.",

@@ -11,6 +11,7 @@
     "array": ":attribute के एगो सरणी होखे के चाहीं।",
     "ascii": ":attribute फील्ड में खाली सिंगल-बाइट अल्फान्यूमेरिक वर्ण आ चिन्ह होखे के चाहीं।",
     "attached": "ई :attribute पहिलहीं से संलग्न बा।",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": ":attribute के तारीख :date से पहिले के होखे के चाही।",
     "before_or_equal": ":attribute के तारीख :date से पहिले भा ओकरा बराबर होखे के चाहीं.",
     "between.array": ":attribute में :min से :max के बीच आइटम होखे के चाही।",

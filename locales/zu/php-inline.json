@@ -11,6 +11,7 @@
     "array": "Le nkambu kufanele ibe amalungu afanayo.",
     "ascii": "Le nkambu kufanele ibe nezinhlamvu nezimpawu zebhayithi eyodwa kuphela.",
     "attached": "Le nkambu isivele inamathiselwe.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Le nkambu kufanele ibe idethi engaphambi kuka-:date.",
     "before_or_equal": "Le nkambu kufanele ibe idethi engaphambi noma elingana no-:date.",
     "between.array": "Le nkambu kufanele ibe nezinto eziphakathi kuka-:min no-:max.",

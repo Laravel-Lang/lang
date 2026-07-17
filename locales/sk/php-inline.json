@@ -11,6 +11,7 @@
     "array": "Toto pole musí byť pole.",
     "ascii": "Toto pole môže obsahovať iba alfanumerické znaky a symboly bez interpunkcie.",
     "attached": "Toto pole je už pripojené.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Toto musí byť dátum pred :date.",
     "before_or_equal": "Musí to byť dátum pred alebo presne :date.",
     "between.array": "Teno pole musí mať rozsah :min - :max.",

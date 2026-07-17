@@ -11,6 +11,7 @@
     "array": "שדה זה חייב להיות מערך.",
     "ascii": "שדה זה חייב להכיל רק תווים וסמלים אלפאנומריים של בייט בודד.",
     "attached": "השדה הזה כבר מחובר.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "זה חייב להיות תאריך לפני :date.",
     "before_or_equal": "זה חייב להיות תאריך לפני או שווה ל-:date.",
     "between.array": "This content must have between :min and :max items.",

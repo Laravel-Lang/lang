@@ -11,6 +11,7 @@
     "array": "Bu sahə bir sıra olmalıdır.",
     "ascii": "Bu sahədə yalnız bir baytlıq alfasayısal simvol və simvollar olmalıdır.",
     "attached": "Bu sahə artıq əlavə olunur.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Bu :date qədər tarix olmalıdır.",
     "before_or_equal": "Bu :date-cu il əvvəlki və ya bərabər tarixi olmalıdır.",
     "between.array": "Bu məzmunda :min və :max elementləri olmalıdır.",

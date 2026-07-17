@@ -11,6 +11,7 @@
     "array": "Reiturinn :attribute verður að vera fylki.",
     "ascii": ":Attribute má aðeins innihalda einsbæta alfanumeríska stafi og tákn.",
     "attached": "Þetta :attribute er nú þegar fylgir.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": "Reiturinn :attribute verður að vera dagsetning eftir :date.",
     "before_or_equal": ":Attribute verður að vera dagsetning fyrir eða sú samaog :date.",
     "between.array": "Reiturinn :attribute verður að vera á milli :min - :max staka.",

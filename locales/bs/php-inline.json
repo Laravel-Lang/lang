@@ -11,6 +11,7 @@
     "array": "Ovo polje mora biti niz.",
     "ascii": "Ovo polje smije sadržavati samo jednobajtne alfanumeričke znakove i simbole.",
     "attached": "Ovo polje je već spojeno.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Ovo mora biti datum prije :date.",
     "before_or_equal": "Ovo mora biti datum prije ili jednak :date.",
     "between.array": "Ovaj sadržaj mora imati između :min i :max stavki.",

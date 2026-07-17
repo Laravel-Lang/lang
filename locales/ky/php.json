@@ -11,6 +11,7 @@
     "array": ":attribute массив болушу керек.",
     "ascii": ":attribute талаасында бир байт алфавиттик-сандык символдор жана символдор гана болушу керек.",
     "attached": "Бул :attribute мурунтан эле тиркелген.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": ":attribute :dateга чейинки күн болушу керек.",
     "before_or_equal": ":attribute :dateга чейинки же ага барабар күн болушу керек.",
     "between.array": ":attributeдо :minдан :maxга чейин нерсе болушу керек.",

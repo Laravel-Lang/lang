@@ -11,6 +11,7 @@
     "array": "Feumaidh an :attribute a bhith na raon.",
     "ascii": "Feumaidh an raon :attribute a bhith anns an raon :attribute a-mhàin caractaran agus samhlaidhean alfaimigeach aon-byte.",
     "attached": "Tha an :attribute seo ceangailte mu thràth.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": "Feumaidh an :attribute a bhith na cheann-latha ro :date.",
     "before_or_equal": "Feumaidh an :attribute a bhith na cheann-latha ro no co-ionann ri :date.",
     "between.array": "Feumaidh eadar :min agus :max rud a bhith anns na :attribute.",

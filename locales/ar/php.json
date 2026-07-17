@@ -11,6 +11,7 @@
     "array": "يجب أن يكون حقل :attribute ًمصفوفة.",
     "ascii": "يجب أن يحتوي الحقل :attribute فقط على أحرف أبجدية رقمية أحادية البايت ورموز.",
     "attached": "حقل :attribute تم إرفاقه بالفعل.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": "يجب على حقل :attribute أن يكون تاريخًا سابقًا للتاريخ :date.",
     "before_or_equal": "حقل :attribute يجب أن يكون تاريخا سابقا أو مطابقا للتاريخ :date.",
     "between.array": "يجب أن يحتوي حقل :attribute على عدد من العناصر بين :min و :max.",

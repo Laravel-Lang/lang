@@ -11,6 +11,7 @@
     "array": ":Attribute qatordan iborat bo‘lishi kerak.",
     "ascii": ":Attribute faqat bir baytli alfanumerik belgilardan iborat bo‘lishi kerak.",
     "attached": "Bu :attribute allaqachon biriktirilgan.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": ":Attribute da sana :date gacha bo‘lishi kerak.",
     "before_or_equal": ":Attribute da sana :date ga teng yoki undan oldin bo‘lishi kerak.",
     "between.array": ":Attribute dagi elementlar soni :min va :max orasida bo‘lishi kerak.",

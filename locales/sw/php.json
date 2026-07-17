@@ -11,6 +11,7 @@
     "array": "Kipengele lazima kiwe safu.",
     "ascii": ":Attribute lazima iwe na herufi na alama za alphanumeric za baiti moja pekee.",
     "attached": "Hii :attribute ni tayari masharti.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": "Kipengele lazima kiwe tarehe kabla ya :date.",
     "before_or_equal": ":Attribute inapaswa kuwa tarehe kabla au sawa na :date.",
     "between.array": "Kipengele lazima kiwe na kati ya :min na :max cha vifungu.",

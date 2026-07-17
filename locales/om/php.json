@@ -11,6 +11,7 @@
     "array": ":attributen isaanii tarree ta'uu qabu.",
     "ascii": "Dirreen :attribute arfiilee fi mallattoolee qubee lakkoofsaa baayitii tokkoo qofa qabaachuu qaba.",
     "attached": ":attributen kun duruu walitti qabameera.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": ":attributen guyyaa :date dura ta'uu qaba.",
     "before_or_equal": ":attributen guyyaa :date dura ykn walqixa ta’uu qaba.",
     "between.array": ":attributen meeshaalee :min hanga :max gidduutti qabaachuu qabu.",

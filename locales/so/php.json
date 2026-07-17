@@ -11,6 +11,7 @@
     "array": ":attributeka waa in ay ahaadaan array.",
     "ascii": "Goobta :attributeka ah waa in ay ka kooban tahay hal-byte xarfo iyo calaamado alif tiro ah.",
     "attached": ":attributekan mar horeba waa lagu lifaaqay.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": ":attributeku waa inay ahaadaan taariikh ka hor :date.",
     "before_or_equal": ":attributeku waa inay ahaadaan taariikh ka horeysa ama la mid ah :date.",
     "between.array": ":attributeka waa inay lahaadaan inta u dhaxaysa :min iyo :max shay.",

@@ -11,6 +11,7 @@
     "array": "Ennimiro eno erina okuba nga ya array.",
     "ascii": "Ennimiro eno erina okubaamu ennukuta n'obubonero bwa byte emu byokka.",
     "attached": "Ennimiro eno yayungibwa dda.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Ennimiro eno erina okuba olunaku nga :date terunnatuuka.",
     "before_or_equal": "Ennimiro eno erina okuba olunaku nga terunnabaawo oba nga lwenkana :date.",
     "between.array": "Ennimiro eno erina okuba n’ebintu ebiri wakati wa :min ne :max.",

@@ -11,6 +11,7 @@
     "array": ":attribute ຕ້ອງເປັນອາເຣ.",
     "ascii": "ຊ່ອງຂໍ້ມູນ :attribute ຈະຕ້ອງມີຕົວອັກສອນ ແລະ ຕົວເລກທີ່ເປັນຕົວເລກຂອງໄບໄບດຽວເທົ່ານັ້ນ.",
     "attached": ":attribute ອັນນີ້ຕິດຢູ່ແລ້ວ.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": ":attribute ຕ້ອງເປັນວັນທີກ່ອນວັນທີ :date.",
     "before_or_equal": ":attribute ຕ້ອງເປັນວັນທີກ່ອນ ຫຼືເທົ່າກັບ :date.",
     "between.array": ":attribute ຕ້ອງມີລະຫວ່າງ :min ຫາ :max ລາຍການ.",

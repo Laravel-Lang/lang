@@ -11,6 +11,7 @@
     "array": "必须是一个数组。",
     "ascii": "该字段只能包含单字节字母数字字符和符号。",
     "attached": "此字段已附加。",
+    "base64": "This field must be a valid Base64 string.",
     "before": "必须要早于 :date。",
     "before_or_equal": "必须要等于 :date 或更早。",
     "between.array": "必须只有 :min - :max 个单元。",

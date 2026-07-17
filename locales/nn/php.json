@@ -11,6 +11,7 @@
     "array": ":Attribute må vere ei liste.",
     "ascii": ":Attribute kan berre innehalde einsbyte-alfanumeriske teikn og symbol.",
     "attached": "Denne :attribute er allereie vedlagt.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": ":Attribute må vere ein dato før :date.",
     "before_or_equal": ":Attribute må vere ein dato før eller lik :date.",
     "between.array": ":Attribute må ha mellom :min og :max element.",

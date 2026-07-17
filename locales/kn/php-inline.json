@@ -11,6 +11,7 @@
     "array": "ಈ ಕ್ಷೇತ್ರದಲ್ಲಿ ಮಾಡಬೇಕು ಒಂದು ಶ್ರೇಣಿಯನ್ನು.",
     "ascii": "ಈ ಕ್ಷೇತ್ರವು ಏಕ-ಬೈಟ್ ಆಲ್ಫಾನ್ಯೂಮರಿಕ್ ಅಕ್ಷರಗಳು ಮತ್ತು ಚಿಹ್ನೆಗಳನ್ನು ಮಾತ್ರ ಹೊಂದಿರಬೇಕು.",
     "attached": "ಈ ಕ್ಷೇತ್ರದಲ್ಲಿ ಈಗಾಗಲೇ ಲಗತ್ತಿಸಲಾಗಿದೆ.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "ಈ ಮಾಡಬೇಕು ಒಂದು ದಿನಾಂಕ ಮೊದಲು :date.",
     "before_or_equal": "ಈ ಮಾಡಬೇಕು ಒಂದು ದಿನಾಂಕ ಮೊದಲು ಅಥವಾ ಸಮಾನ :date.",
     "between.array": "This content must have between :min and :max items.",

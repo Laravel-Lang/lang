@@ -11,6 +11,7 @@
     "array": ":Attribute musí být pole.",
     "ascii": "Číslo :attribute musí obsahovat pouze jednobajtové alfanumerické znaky a symboly.",
     "attached": "Tento :attribute je již připojen.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": ":Attribute musí být datum před :date.",
     "before_or_equal": "Datum :attribute musí být před nebo rovno :date.",
     "between.array": ":Attribute musí obsahovat nejméně :min a nesmí obsahovat více než :max prvků.",

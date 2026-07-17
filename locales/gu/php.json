@@ -11,6 +11,7 @@
     "array": ":Attribute ગોઠવણીમાં હોવું જોઈએ.",
     "ascii": ":Attribute માં ફક્ત સિંગલ-બાઈટ આલ્ફાન્યૂમેરિક અક્ષરો અને પ્રતીકો હોવા જોઈએ.",
     "attached": "આ :attribute પહેલેથી જ જોડાયેલ છે.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": ":Attribute પહેલાં તારીખ હોવી જોઈએ :તારીખ.",
     "before_or_equal": ":Attribute પહેલાં તારીખ કે સમાંતર હોવું જોઈએ :તારીખ.",
     "between.array": ":Attribute ની વચ્ચે હોવું જોઈએ :min અને :max વસ્તુઓ.",

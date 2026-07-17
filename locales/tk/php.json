@@ -11,6 +11,7 @@
     "array": ":Attribute ýygyndy bolmalydyr.",
     "ascii": ":Attribute-de diňe bir baýtly harp sanlary we nyşanlary bolmaly.",
     "attached": "Bu :attribute eýýäm birikdirildi.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": ":Attribute şundan has irki sene bolmalydyr :date.",
     "before_or_equal": ":Attribute-den öň bir sene bolmaly ýa-da :date-e deň bolmaly.",
     "between.array": ":Attribute :min - :max arasynda madda eýe bolmalydyr.",

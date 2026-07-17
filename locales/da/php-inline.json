@@ -11,6 +11,7 @@
     "array": "Dette felt skal være et array.",
     "ascii": "Dette felt må kun indeholde enkeltbyte alfanumeriske tegn og symboler.",
     "attached": "Dette felt er allerede vedhæftet.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Dette skal være en dato før :date.",
     "before_or_equal": "Dette skal være en dato før eller lig med :date.",
     "between.array": "Dette skal have mellem :min og :max elementer.",

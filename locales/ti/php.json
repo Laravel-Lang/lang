@@ -11,6 +11,7 @@
     "array": "እቶም :attribute ስርርዕ ክኾኑ ኣለዎም።",
     "ascii": "እቲ :attribute ዓውዲ ሓደ ባይት ዘለዎም ፊደላትን ምልክታትን ጥራይ ክሕዝ ኣለዎ።",
     "attached": "እዚ :attribute ድሮ ተተሓሒዙ ኣሎ።",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": "እቶም :attribute ቅድሚ :date ዕለት ክኾኑ ኣለዎም።",
     "before_or_equal": "እቲ :attribute ቅድሚ ወይ ማዕረ :date ዝኾነ ዕለት ክኸውን ኣለዎ።",
     "between.array": "እቶም :attribute ካብ :min ክሳብ :max ዝኾኑ ነገራት ክህልዎም ኣለዎ።",

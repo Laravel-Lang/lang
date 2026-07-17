@@ -11,6 +11,7 @@
     "array": "Isian harus berisi sebuah array.",
     "ascii": "Bidang ini hanya boleh berisi karakter dan simbol alfanumerik byte tunggal.",
     "attached": "Isian ini sudah dilampirkan.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Tanggal harus berisi sebelum :date.",
     "before_or_equal": "Tanggal harus berisi tanggal sebelum atau sama dengan :date.",
     "between.array": "Konten ini harus memiliki panjang di antara :min dan :max item.",

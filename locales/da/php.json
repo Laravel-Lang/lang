@@ -11,6 +11,7 @@
     "array": ":Attribute skal være et array.",
     "ascii": ":Attribute må kun indeholde single-byte alfanumeriske tegn og symboler.",
     "attached": "Denne :attribute er allerede vedhæftet.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": ":Attribute skal være en dato før :date.",
     "before_or_equal": ":Attribute skal være en dato før eller lig med :date.",
     "between.array": ":Attribute skal indeholde mellem :min og :max elementer.",

@@ -11,6 +11,7 @@
     "array": "यह फ़ील्ड एक सरणी होनी चाहिए ।",
     "ascii": "इस फ़ील्ड में केवल सिंगल-बाइट अल्फ़ान्यूमेरिक वर्ण और प्रतीक होने चाहिए।",
     "attached": "यह क्षेत्र पहले से ही जुड़ा हुआ है ।",
+    "base64": "This field must be a valid Base64 string.",
     "before": "यह :date से पहले की तारीख होनी चाहिए ।",
     "before_or_equal": "यह :date से पहले या उसके बराबर की तारीख होनी चाहिए ।",
     "between.array": "This content must have between :min and :max items.",

@@ -11,6 +11,7 @@
     "array": ":attribute एकटा सरणी हेबाक चाही।",
     "ascii": ":attribute फील्ड मे केवल एकल-बाइट अल्फान्यूमेरिक वर्ण आ प्रतीक होबाक चाही.",
     "attached": "ई :attribute पहिने स संलग्न अछि।",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": ":attribute :date स पहिने क तारीख हेबाक चाही।",
     "before_or_equal": ":attribute :date स पहिने या बराबर क तारीख हेबाक चाही।",
     "between.array": ":attribute मे :min स :max क बीच आइटम हेबाक चाही।",

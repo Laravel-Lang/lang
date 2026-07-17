@@ -11,6 +11,7 @@
     "array": "Полето :attribute трябва да бъде масив.",
     "ascii": ":Attribute-те трябва да съдържат само еднобайтови буквено-цифрови знаци и символи.",
     "attached": "Този номер :attribute вече е прикачен.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": "Полето :attribute трябва да бъде дата преди :date.",
     "before_or_equal": "Полето :attribute трябва да бъде дата преди или равна на :date.",
     "between.array": "Полето :attribute трябва да има между :min - :max елемента.",

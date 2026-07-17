@@ -11,6 +11,7 @@
     "array": ":Attribute mora biti polje.",
     "ascii": ":Attribute sme vsebovati le enobajtne alfanumerične znake in simbole.",
     "attached": "Ta :attribute je že priložena.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": ":Attribute mora biti pred datumom :date.",
     "before_or_equal": ":Attribute mora biti pred ali enak :date.",
     "between.array": ":Attribute mora imeti med :min in :max elementov.",

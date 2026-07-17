@@ -11,6 +11,7 @@
     "array": "L-:attribute għandhom ikunu firxa.",
     "ascii": "Il-qasam :attribute għandu jkun fih biss karattri u simboli alfanumeriċi b'byte wieħed.",
     "attached": "Din l-:attribute hija diġà mehmuża.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": "L-:attribute trid tkun data qabel l-:date.",
     "before_or_equal": "L-:attribute għandhom ikunu data qabel jew ugwali għal :date.",
     "between.array": "L-:attribute irid ikollhom bejn :min u :max oġġett.",

@@ -11,6 +11,7 @@
     "array": ":attribute 必須為陣列。",
     "ascii": ":attribute 必須僅包含單字節字母數字字符和符號。",
     "attached": "此 :attribute 已附加。",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": ":attribute 必須要早於 :date。",
     "before_or_equal": ":attribute 必須要等於 :date 或更早。",
     "between.array": ":attribute: 必須有 :min 至 :max 個項目。",

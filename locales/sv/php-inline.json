@@ -11,6 +11,7 @@
     "array": "Detta fält måste vara en array.",
     "ascii": "Detta fält får endast innehålla enbyte alfanumeriska tecken och symboler.",
     "attached": "Detta fält är redan bifogat.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Detta måste vara ett datum före :date.",
     "before_or_equal": "Detta måste vara ett datum före eller lika med :date.",
     "between.array": "Innehållet måste ha mellan :min och :max objekt.",

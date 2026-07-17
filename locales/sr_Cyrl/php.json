@@ -11,6 +11,7 @@
     "array": "Поље :attribute мора садржати неких низ ставки.",
     "ascii": ":Attribute мора да садржи само једнобајтне алфанумеричке знакове и симболе.",
     "attached": "Овај :attribute је већ причвршћен.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": "Поље :attribute мора бити датум пре :date.",
     "before_or_equal": ":Attribute мора да буде :date или ранији датум.",
     "between.array": "Поље :attribute мора бити између :min - :max ставки.",

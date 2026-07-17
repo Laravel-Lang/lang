@@ -11,6 +11,7 @@
     "array": "እዚ ዓውዲ እዚ ስርርዕ ክኸውን ኣለዎ።",
     "ascii": "እዚ ዓውዲ እዚ ሓደ ባይት ዘለዎም ፊደላትን ምልክታትን ጥራይ ክሕዝ ኣለዎ።",
     "attached": "እዚ ዓውዲ እዚ ድሮ ተተሓሒዙ ኣሎ።",
+    "base64": "This field must be a valid Base64 string.",
     "before": "እዚ ዓውዲ ቅድሚ :date ዕለት ክኸውን ኣለዎ።",
     "before_or_equal": "እዚ ዓውዲ እዚ ቅድሚ ወይ ማዕረ :date ዝኾነ ዕለት ክኸውን ኣለዎ።",
     "between.array": "እዚ ዓውዲ ካብ :min ክሳብ :max ዝኾኑ ነገራት ክህልዎ ኣለዎ።",

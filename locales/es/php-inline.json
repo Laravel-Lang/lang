@@ -11,6 +11,7 @@
     "array": "Este campo debe ser un array (colección).",
     "ascii": "Este campo solo debe contener caracteres alfanuméricos y símbolos de un solo byte.",
     "attached": "Este campo ya se adjuntó.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Debe ser una fecha antes de :date.",
     "before_or_equal": "Debe ser una fecha anterior o igual a :date.",
     "between.array": "El contenido debe tener entre :min y :max elementos.",

@@ -11,6 +11,7 @@
     "array": "Ruangan ini mesti jujukan.",
     "ascii": "Medan ini hanya boleh mengandungi aksara dan simbol alfanumerik bait tunggal.",
     "attached": "Ruangan ini sudah terpasang.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Ruangan ini mesti tarikh sebelum :date.",
     "before_or_equal": "Ruangan ini mesti tarikh sebelum atau bersamaan :date.",
     "between.array": "Ruangan ini mesti mengandungi antara :min dan :max perkara.",

@@ -4,7 +4,7 @@ editLink: false
 
 # uz_Latn
 
-##### All missed: 62
+##### All missed: 64
 
 
 ### json
@@ -128,7 +128,7 @@ Verify your email address
 
 ### php-inline
 
-##### Missing: 39
+##### Missing: 40
 
 <table width="100%">
 <tr><th width="50%">
@@ -165,6 +165,15 @@ ascii
 </td><td width="50%">
 
 This field must only contain single-byte alphanumeric characters and symbols.
+
+</td></tr>
+<tr><td width="50%">
+
+base64
+
+</td><td width="50%">
+
+This field must be a valid Base64 string.
 
 </td></tr>
 <tr><td width="50%">
@@ -499,7 +508,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 12
+##### Missing: 13
 
 <table width="100%">
 <tr><th width="50%">
@@ -511,6 +520,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+base64
+
+</td><td width="50%">
+
+The :attribute field must be a valid Base64 string.
+
+</td></tr>
 <tr><td width="50%">
 
 encoding

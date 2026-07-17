@@ -4,7 +4,7 @@ editLink: false
 
 # de_AT
 
-##### All missed: 1168
+##### All missed: 1170
 
 
 ### json-inline
@@ -8016,7 +8016,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 136
+##### Missing: 137
 
 <table width="100%">
 <tr><th width="50%">
@@ -8134,6 +8134,15 @@ attached
 </td><td width="50%">
 
 This field is already attached.
+
+</td></tr>
+<tr><td width="50%">
+
+base64
+
+</td><td width="50%">
+
+This field must be a valid Base64 string.
 
 </td></tr>
 <tr><td width="50%">
@@ -9260,7 +9269,7 @@ This field must be a valid UUID.
 
 ### php
 
-##### Missing: 147
+##### Missing: 148
 
 <table width="100%">
 <tr><th width="50%">
@@ -9378,6 +9387,15 @@ attached
 </td><td width="50%">
 
 This :attribute is already attached.
+
+</td></tr>
+<tr><td width="50%">
+
+base64
+
+</td><td width="50%">
+
+The :attribute field must be a valid Base64 string.
 
 </td></tr>
 <tr><td width="50%">
